@@ -104,10 +104,16 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 # External navigation links
 nav_external_links:
-  - title: Just the Docs on GitHub
-    url: https://github.com/just-the-docs/just-the-docs
-  - title: Council of Lorien on GitHub
-    url: https://github.com/counciloflorien
+  - title: CardNum - Play MECCG in your browser
+    url: http://70.180.210.3:1042/
+  - title: Council of Elrond forums
+    url: https://councilofelrond.org/forum/
+  - title: Council of Rivendell (Spain)
+    url: https://meccg.es
+  - title: MECCG on Facebook
+    url: https://www.facebook.com/groups/6301243471
+  - title: MECCG on Board Game Geek
+    url: https://boardgamegeek.com/boardgame/1915/middle-earth
 
 # Footer content
 # appears at the bottom of every page's main content
