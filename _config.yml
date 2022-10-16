@@ -147,6 +147,15 @@ callouts:
   warning:
     title: Warning
     color: red
+  note:
+    title: Note
+    color: red
+  clarification:
+    title: Clarification
+    color: red
+  example:
+    title: Example
+    color: red
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
