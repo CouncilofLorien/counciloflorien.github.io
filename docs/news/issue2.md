@@ -1,3 +1,11 @@
+---
+layout: default
+title: Tournament Policy, Issue Number 2
+parent: News
+nav_order: 2
+---
+
+
 News from The Council of Lórien, Issue Number Two (10/29/96)
 
 News from The Council of Lórien
