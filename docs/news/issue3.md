@@ -1,3 +1,10 @@
+---
+layout: default
+title: Tournament Policy Number 3
+parent: News
+nav_order: 1
+---
+
 Council of Lórien
 
 Tournament Policy
