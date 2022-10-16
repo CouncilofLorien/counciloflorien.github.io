@@ -1,3 +1,11 @@
+---
+layout: default
+title: Tournament Policy, Issue Number 1
+parent: News
+nav_order: 3
+---
+
+
 News from The Council of Lórien, Issue Number One (05/21/96)
 
 The official U.S. sanctioning body for the
