@@ -1,4 +1,7 @@
+https://web.archive.org/web/19980212010343fw_/http://ironcrown.com/GamesInfo/MECCG/MeCCG/rankings.html
+
 FINAL MECCG RANKINGS 1997
+
 Here are the final rankings of the 1997 Council of Lorien (CoL) MECCG season. Following this are the names of players who qualified for the CoL Championship not shown here by their ranking. If you are on either listing and have not been contacted by Sept. 16, 1997, please contact Michael Reynolds at metwice@aol.com or call the offices of ICE at (804) 295-4280 and ask for him. If you are on this list, make your plans to attend Necronomicon now! See Council of Lorien Championship page one level back for further information on the CoL Championship tournament. An open tournament will be held on site of the Championship for anyone to make a final effort of getting in the CoL Championship.
 
 Blue denotes players that qualified for the semi-final round of the CoL Championships automatically.
