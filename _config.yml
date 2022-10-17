@@ -146,12 +146,42 @@ callouts:
   new:
     title: New
     color: green
-  note:
-    title: Note
-    color: purple
   warning:
     title: Warning
     color: red
+  note:
+    title: Note
+    color: grey-lt
+  clarification:
+    title: Clarification
+    color: grey-lt
+  example:
+    title: Example
+    color: grey-lt
+  exception:
+    title: Exception
+    color: grey-lt
+  suggestion:
+    title: Suggestion
+    color: grey-lt
+  hero:
+    title: Wizard
+    color: hero
+  minion:
+    title: Ringwraith
+    color: minion
+  fallen:
+    title: Fallen Wizard
+    color: fallen
+  balrog:
+    title: Balrog 
+    color: balrog
+  lore:
+    title: Lore
+    color: yellow
+  tip:
+    title: Tip
+    color: blue
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
