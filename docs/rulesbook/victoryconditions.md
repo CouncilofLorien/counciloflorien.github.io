@@ -9,16 +9,34 @@ nav_order: 2
 The game ends when one of the following occurs during play:
 
 {: .hero }
-1) If your Wizard is "eliminated" (i.e., through combat or corruption)—your opponent wins.
-2) If you move _The One Ring_ to Mount Doom and play certain cards—_The One Ring_ is destroyed and you win.
-3) Otherwise, the winner is decided at the _Free Council_. This council is called when one of the following occurs:
-- When each play deck has been exhausted once, the council starts at the end of the current turn.
-- After you have exhausted your play deck for the first time, you may choose to call the council at the end of any of your turns. The council starts at the end of your opponent's next turn (i.e., your opponent gets one last turn).
-- You may choose to call the council at the end of your turn if you have accumulated at least 20 marshaling points. The council starts at the end of your opponent's next turn (i.e., your opponent gets one last turn).
+> 1) If your Wizard is "eliminated" (i.e., through combat or corruption)—your opponent wins.
+>
+> 2) If you move _The One Ring_ to Mount Doom and play certain cards—_The One Ring_ is destroyed and you win.
+>
+> 3) Otherwise, the winner is decided at the _Free Council_. This council is called when one of the following occurs:
+> >
+> - When each play deck has been exhausted once, the council starts at the end of the current turn.
+> 
+> - After you have exhausted your play deck for the first time, you may choose to call the council at the end of any of your turns. The council starts at the end of your opponent's next turn (i.e., your opponent gets one last turn).
+> 
+> - You may choose to call the council at the end of your turn if you have accumulated at least 20 marshaling points. The council starts at the end of your opponent's next turn (i.e., your opponent gets one last turn).
 
-> {: .note }
+{: .minion }
+> 1) If your Ringwraith is "eliminated" (i.e., fails a body check)—your opponent wins.
+>
+> 2) If you move _The One Ring_ to Barad-dur—Sauron is reunited with _The One Ring_ and you win. (See Rings for more on Rings.)
+>
+> 3) Otherwise, the winner is decided at the _Audience with Sauron_. This audience is called when one of the following occurs:
+> 
+> - When each play deck has been exhausted once, the audience starts following the current turn.
+> 
+> - If your play deck has been exhausted _and_ you play a _Sudden Call_ card as a **resource** during one of your turns, the audience starts following your opponent's next turn (i.e., your opponent gets one last turn).
+>
+> - If you have at least 20 marshalling points _and_ you play a _Sudden Call_ card as a **resource** during one of your turns, the audience starts following your opponent's next turn (i.e., your opponent gets one last turn). 
+
+{: .note }
 If  one  or  both players only has access to  a  starter  deck  (76 cards), this requirement of 20 marshaling points should be lowered to 18.
-    
+
 #### The Free Council
 Just before the Free Council, each character must make a corruption check.  The winner  of  the game is the player that has gathered the most marshaling  points from:
 - Control of resources: characters, allies, items, and factions.
