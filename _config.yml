@@ -162,13 +162,13 @@ callouts:
     title: Suggestion
     color: grey-md
   hero:
-    title: Wizard
+    title: Hero
     color: hero
   minion:
-    title: Ringwraith
+    title: Minion
     color: minion
   fallen:
-    title: Fallen Wizard
+    title: Fallen-Wizard
     color: fallen
   balrog:
     title: Balrog 
