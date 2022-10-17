@@ -151,19 +151,19 @@ callouts:
     color: red
   note:
     title: Note
-    color: grey-lt
+    color: grey-dk
   clarification:
     title: Clarification
-    color: grey-lt
+    color: grey-dk
   example:
     title: Example
     color: grey-dk
   exception:
     title: Exception
-    color: grey-lt
+    color: grey-dk
   suggestion:
     title: Suggestion
-    color: grey-lt
+    color: grey-dk
   hero:
     title: Wizard
     color: hero
@@ -181,7 +181,7 @@ callouts:
     color: yellow
   tip:
     title: Tip
-    color: blue
+    color: grey-dk
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
