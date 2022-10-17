@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Introduction
-parent: Rules
+parent: Rulesbook
 nav_order: 1
 ---
 
-#introduction
+# Introduction
