@@ -157,7 +157,7 @@ callouts:
     color: grey-lt
   example:
     title: Example
-    color: grey-lt
+    color: grey-dk
   exception:
     title: Exception
     color: grey-lt
