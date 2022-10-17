@@ -50,3 +50,12 @@ Hazards: Hazards are black and have no alignment. They may be included in any de
 
 {: .clarification } 
 Your play deck is "exhausted" when you draw its last card. Some cards require  that  your  play deck be manipulated and then reshuffled-this does not "exhaust" your play deck.
+
+{: .example } 
+Your play deck is "exhausted" when you draw its last card. Some cards require  that  your  play deck be manipulated and then reshuffled-this does not "exhaust" your play deck.
+
+{: .lore } 
+Your play deck is "exhausted" when you draw its last card. Some cards require  that  your  play deck be manipulated and then reshuffled-this does not "exhaust" your play deck.
+
+{: .important } 
+Your play deck is "exhausted" when you draw its last card. Some cards require  that  your  play deck be manipulated and then reshuffled-this does not "exhaust" your play deck.
