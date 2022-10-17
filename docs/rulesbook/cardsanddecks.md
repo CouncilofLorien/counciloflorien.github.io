@@ -42,8 +42,11 @@ Sites are gray, resources are steel-blue, and characters are purple. Minion agen
 {: .fallen }
 Sites are light-gray and Fallen-wizard “stage” resources are green (tarnished copper). The Fallen-wizards themselves maintain their coloration.
 
+{: .balrog }
+Sites are firey brown.
+
 Hazards: Hazards are black and have no alignment. They may be included in any deck. 
 
- 
-     {: .note } 
+
+{: .clarification } 
 Your play deck is "exhausted" when you draw its last card. Some cards require  that  your  play deck be manipulated and then reshuffled-this does not "exhaust" your play deck.
