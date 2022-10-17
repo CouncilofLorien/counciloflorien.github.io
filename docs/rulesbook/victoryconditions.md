@@ -13,12 +13,12 @@ The game ends when one of the following occurs during play:
 >
 > 2) If you move _The One Ring_ to Mount Doom and play certain cards—_The One Ring_ is destroyed and you win.
 >
-> 3) Otherwise, the winner is decided at the _Free Council_. This council is called when one of the following occurs:
-> >
+> 3) Otherwise, the winner is decided at the _Free Council_. 
+> 
+> This council is called when one of the following occurs:
+> 
 > - When each play deck has been exhausted once, the council starts at the end of the current turn.
-> 
 > - After you have exhausted your play deck for the first time, you may choose to call the council at the end of any of your turns. The council starts at the end of your opponent's next turn (i.e., your opponent gets one last turn).
-> 
 > - You may choose to call the council at the end of your turn if you have accumulated at least 20 marshaling points. The council starts at the end of your opponent's next turn (i.e., your opponent gets one last turn).
 
 {: .minion }
@@ -26,7 +26,9 @@ The game ends when one of the following occurs during play:
 >
 > 2) If you move _The One Ring_ to Barad-dur—Sauron is reunited with _The One Ring_ and you win. (See Rings for more on Rings.)
 >
-> 3) Otherwise, the winner is decided at the _Audience with Sauron_. This audience is called when one of the following occurs:
+> 3) Otherwise, the winner is decided at the _Audience with Sauron_. 
+> 
+> This audience is called when one of the following occurs:
 > 
 > - When each play deck has been exhausted once, the audience starts following the current turn.
 > 
