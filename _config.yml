@@ -146,9 +146,6 @@ callouts:
   new:
     title: New
     color: green
-  warning:
-    title: Warning
-    color: red
   note:
     title: Note
     color: grey-dk
