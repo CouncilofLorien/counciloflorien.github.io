@@ -8,7 +8,7 @@ nav_order: 2
 ## 1 • THE VICTORY CONDITIONS
 Each alignment can win the game by similar means: your opponent's avatar is eliminated **or** you recover _The One Ring_ and meet ceratain conditions **or** you have the most marshalling points at the End-of-Game Council.
 
-{: .hero }
+{: .metw }
 > The game ends when one of the following occurs during play:
 > 1. If your Wizard is "eliminated" (i.e., through combat or corruption)—your opponent wins.
 > 2. If you move _The One Ring_ to Mount Doom and play certain cards—_The One Ring_ is destroyed and you win.
@@ -38,7 +38,7 @@ Each alignment can win the game by similar means: your opponent's avatar is elim
 >  
 >  You may find it useful to use pencil and paper **or** extra dice to keep a running total of marshalling Points.
 
-{: .hero }
+{: .meul }
 > The game ends when one of the following occurs during play:
 > 1. If your Wizard is "eliminated" (i.e., through combat or corruption)—your opponent wins.
 > 2. If you move _The One Ring_ to Mount Doom and play certain cards—_The One Ring_ is destroyed and you win.
@@ -71,7 +71,7 @@ Each alignment can win the game by similar means: your opponent's avatar is elim
 > Marshalling points are printed on the top left corner of the cards that
 award them.
 
-{: .minion }
+{: .mele }
 > 1. If your Ringwraith is "eliminated" (i.e., fails a body check)—your opponent wins.
 > 2. If you move _The One Ring_ to Barad-dur—Sauron is reunited with _The One Ring_ and you win. (See Rings for more on Rings.)
 > 3. Otherwise, the winner is decided at the _Audience with Sauron_. 
@@ -119,3 +119,14 @@ You  may find it useful to use pencil and paper or extra dice to keep a running 
  In  a  "3-deck  game" (the "long game"), the Council is called when  each  play deck  has  been exhausted three times. You may call the Council when  your  play deck has been exhausted three times, or when it has been exhausted twice and you have at least 30 marshaling points. Increase the sideboard size to 20 cards.
  
  In  a  "4-deck  game" (i.e., the "campaign game"), the Council is  called  when each play deck has been exhausted four times. You may call the Council when your play  deck  has  been exhausted four times, or when it has been exhausted three times and you have at least 40 marshaling points. Increase the sideboard size to 25 cards.
+ 
+{: .mewh }
+> As a Fallen-wizard you may win in the same way a METW Wizard wins: your opponent is eliminated or you recover The One Ring or you have the most marshalling points at the Free Council. The following exceptions apply:
+> - In order to win by recovering The One Ring at least one A New Ringlord card must be played and the conditions outlined on that card must be met.
+> - The Free Council is handled nonnally, and victory is determined in the standard way by comparing marshalling points. However, to you (a Fallen-wizard) it is called your Day of Reckoning and your marshalling points reflect how far you have progressed towards completing your own personal agenda.
+> - You do not receive marshalling points for cards stored at nonWizardhaven sites.
+
+{: .meba }
+> As a Balrog player you may win in the same way a MELE Ringwraith wins: your opponent is eliminated or you recover The One Ring or you have the most marshalling points at the Audience with Sauron. The following exceptions apply:
+> - In order to win by recovering The One Ring, at least one Challenge the Power card must be played and the conditions outlined on that card must be met.
+> - The Audience with Sauron is handled normally, and victory is determined in the standard way by comparing marshalling points. However, to you (a Fallen-wizard) it is called your Day of DEcision and your marshalling points reflect how far you have progressed towards taking your true place in Middle-earth. You must play Sudden Call to call your Day of Decision.
