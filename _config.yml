@@ -107,9 +107,9 @@ aux_links_new_tab: false
 nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 # External navigation links
-nav_external_links:
-  - title: MECCG on Board Game Geek
-    url: https://boardgamegeek.com/boardgame/1915/middle-earth
+#nav_external_links:
+  #- title: MECCG on Board Game Geek
+    #url: https://boardgamegeek.com/boardgame/1915/middle-earth
 
 # Footer content
 # appears at the bottom of every page's main content
