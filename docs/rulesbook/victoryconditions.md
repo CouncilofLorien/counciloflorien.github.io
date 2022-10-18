@@ -6,8 +6,7 @@ nav_order: 2
 ---
 
 ## 1 • THE VICTORY CONDITIONS
-{: .lore }
-> Each alignment can win the game by similar means: your opponent's avatar is eliminated **or** you recover _The One Ring_ and meet ceratain conditions **or** you have the most marshalling points at the End-of-Game Council.
+Each alignment can win the game by similar means: your opponent's avatar is eliminated **or** you recover _The One Ring_ and meet ceratain conditions **or** you have the most marshalling points at the End-of-Game Council.
 
 {: .hero }
 > The game ends when one of the following occurs during play:
@@ -19,7 +18,7 @@ nav_order: 2
 > - When each play deck has been exhausted once, the council starts at the end of the current turn.
 > - After you have exhausted your play deck for the first time, you may choose to call the council at the end of any of your turns. The council starts at the end of your opponent's next turn (i.e., your opponent gets one last turn).
 > - You may choose to call the council at the end of your turn if you have accumulated at least 20 marshaling points. The council starts at the end of your opponent's next turn (i.e., your opponent gets one last turn).
-> ### The Free Council
+### The Free Council
 > Just before the Free Council, each character must make a corruption check. The winner of the game is the player that has gathered the most marshalling points from:
 > - Control of resources: characters, allies, items, and factions.
 > - Destruction of creatures and/or evil forces.
