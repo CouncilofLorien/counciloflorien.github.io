@@ -2,6 +2,7 @@
 layout: default
 title: About
 nav_exclude: true
+search_exclude: true
 description: About the Council of Lorien 
 permalink: /about
 ---
