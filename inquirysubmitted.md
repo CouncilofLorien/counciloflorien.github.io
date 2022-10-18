@@ -10,7 +10,7 @@ _Thank you for your letter. Make for Lorien. There I hope we may meet again. If 
 {: .px-5 .fs-4 .fw-300 .text-left }
 
 {: .px-8 .fs-4 .fw-300 .text-right }
-_Yours in haste_
+_Yours in haste_ <br>
 ***COUNSEL.*** 
 {: .px-8 .fs-5 .fw-400 .text-right }
 
