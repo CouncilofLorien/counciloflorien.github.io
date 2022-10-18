@@ -2,25 +2,26 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="955.04248mm"
-   height="932.70111mm"
-   viewBox="0 0 955.04246 932.7011"
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="27.956705mm"
+   height="27.302711mm"
+   viewBox="0 0 27.956704 27.302711"
    version="1.1"
    id="svg13059"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="5df7fb12951760330d259693cb127e8f.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   sodipodi:docname="haven.svg">
   <defs
      id="defs13053">
     <linearGradient
        id="linearGradient6317"
-       inkscape:swatch="solid">
+       osb:paint="solid">
       <stop
          style="stop-color:#000000;stop-opacity:1;"
          offset="0"
@@ -34,9 +35,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.014142136"
-     inkscape:cx="1500.6166"
-     inkscape:cy="-11195.2"
+     inkscape:zoom="5.1200001"
+     inkscape:cx="108.51524"
+     inkscape:cy="20.827355"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -44,8 +45,7 @@
      inkscape:window-height="830"
      inkscape:window-x="639"
      inkscape:window-y="144"
-     inkscape:window-maximized="0"
-     inkscape:pagecheckerboard="0" />
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata13056">
     <rdf:RDF>
@@ -62,11 +62,11 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(2892.187,449.70633)">
+     transform="translate(2892.187,449.707)">
     <g
        style="fill:#000000;fill-opacity:1"
        id="g6820"
-       transform="matrix(552.75163,0,0,552.75163,-15613.882,-261815.4)">
+       transform="matrix(16.180552,0,0,16.180552,-3264.5858,-8100.5957)">
       <g
          id="use6818"
          transform="matrix(0.26458333,0,0,0.26458333,22.951,474.51801)">
