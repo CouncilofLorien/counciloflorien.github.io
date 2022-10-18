@@ -161,18 +161,21 @@ callouts:
   suggestion:
     title: Suggestion
     color: grey-md
-  hero:
-    title: Hero
-    color: hero
-  minion:
-    title: Minion
-    color: minion
-  fallen:
-    title: Fallen-Wizard
-    color: fallen
-  balrog:
-    title: Balrog 
-    color: balrog
+  metw:
+    title: The Wizards
+    color: metw
+  meul:
+    title: The Wizards Unlimited
+    color: meul
+  mele:
+    title: The Lidless Eye
+    color: mele
+  mewh:
+    title: The White Hand
+    color: mewh
+  meba:
+    title: The Balrog 
+    color: meba
   lore:
     title: Lore
     color: yellow
