@@ -6,6 +6,33 @@ nav_order: 2
 ---
 
 ## 1 • THE VICTORY CONDITIONS
+{: .lore }
+> Each alignment can win the game by similar means: your opponent's avatar is eliminated **or** you recover _The One Ring_ and meet ceratain conditions **or** you have the most marshalling points at the End-of-Game Council.
+
+{: .hero }
+> The game ends when one of the following occurs during play:
+> 1. If your Wizard is "eliminated" (i.e., through combat or corruption)—your opponent wins.
+> 2. If you move _The One Ring_ to Mount Doom and play certain cards—_The One Ring_ is destroyed and you win.
+> 3. Otherwise, the winner is decided at the _Free Council_. 
+> 
+> This council is called when one of the following occurs:
+> - When each play deck has been exhausted once, the council starts at the end of the current turn.
+> - After you have exhausted your play deck for the first time, you may choose to call the council at the end of any of your turns. The council starts at the end of your opponent's next turn (i.e., your opponent gets one last turn).
+> - You may choose to call the council at the end of your turn if you have accumulated at least 20 marshaling points. The council starts at the end of your opponent's next turn (i.e., your opponent gets one last turn).
+> ### The Free Council
+> Just before the Free Council, each character must make a corruption check. The winner of the game is the player that has gathered the most marshalling points from:
+> - Control of resources: characters, allies, items, and factions.
+> - Destruction of creatures and/or evil forces.
+> - Carrying out the instructions on resource cards.
+> - By avoiding negative points which accrue when certain characters that you control are eliminated (e.g., Aragorn II, Galadriel, Elrond, Círdan, Frodo, and Bilbo).
+> 
+> Marshalling points are printed on the top left corner of the cards that award them.
+> {: .text-center} 	
+> • • •
+> {: .text-left} 	
+> At the Free Council, the leaders of the Free Peoples decide which Wizard's advice is best to follow. This is based upon a comparison of the resources each of the Wizards have marshalled.
+>  
+>  You may find it useful to use pencil and paper **or** extra dice to keep a running total of marshalling Points.
 
 {: .hero }
 > The game ends when one of the following occurs during play:
