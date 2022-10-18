@@ -6,7 +6,7 @@ description: Letter Submitted
 permalink: /lettersubmitted
 ---
 
-_Thank you for your letter. Make for Lorien. There I hope we may meet again. If I do not come, Galadriel will advise you. You may meet a friend of mine on the Road: a Man, ranger-sage of two prowess and six body, by some called the King's Writer. He knows our business and will help you._
+_Make for Lorien. There I hope we may meet again. If I do not come, Galadriel will advise you. You may meet a friend of mine on the Road: a Man, ranger-sage of two prowess and six body, by some called the King's Writer. He knows our business and will help you._
 {: .px-5 .fs-4 .fw-300 .text-left }
 
 {: .px-8 .fs-4 .fw-300 .text-right }
