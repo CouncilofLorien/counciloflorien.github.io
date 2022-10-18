@@ -16,8 +16,9 @@ The ***Counsel of Lórien*** is the official U.S. archivist for the _Middle-eart
 ### Contact
 
 <form method="post" action="https://forms.un-static.com/forms/870c9fca8c1e2d184592d226cb8a21c725eed1a1">
-  <input type="text" name="name" placeholder="Enter your name" required>
-  <input type="email" name="email" placeholder="Enter your e-mail address" required>
-  <textarea name="message" cols="40" rows="15"></textarea>
-  <button type="submit">Inquire</button>
-  </form>
+  <input type="text" name="name" placeholder="Known round here as" required>
+  <input type="email" name="email" placeholder="Address" required>
+  <textarea name="message" placeholder="Inside, written in strong but graceful script, was the following message:" cols="50" rows="5"></textarea>
+  <br>
+  <button type="submit" class="btn">Inquire</button>
+</form>
