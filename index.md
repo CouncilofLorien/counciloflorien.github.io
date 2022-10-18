@@ -6,23 +6,9 @@ description: "The Council of Lorien is the U.S. sanctioning body for the Middle-
 permalink: /
 ---
 
-# Council of Lorien
-{: .fs-9 }
+The **Council of Lórien** is the official U.S. sanctioning body for the _Middle-earth collectible card game_. The Council of Lórien was operated by Iron Crown Enterprises and sanctioned tournaments between 1996 and 1998.
 
-The official sanctioning body for the Middle-earth collectble card game.
-{: .fs-6 .fw-300 }
+The **Counsel of Lórien** is the official U.S. archivist for the _Middle-earth collectible card game_.
 
----
-
-{: .new }
-> Site is in the works
-
-## News
-Council of Lorien event and tournament news
-
-## Rulesbooks
-MECCG rulesbooks with annotations
-
-### METW
-
-### METD
+{: .meul }
+> If indeed you look only for records of ancient days, and the beginnings of the Middle-earth collectible card game, read on! For to me what was is less dark than what is to come, and that is my care. But unless you have more skill even than Saruman, who has studied here long, you will find naught that is not well known to me, who am master of the lore of this card game.
