@@ -21,7 +21,7 @@ _PS. Do not use It again, not for any reason whatever! Do not travel by night!_
 _PPS. Make sure that it is the real King's Writer. There are many strange men on the roads._
 {: .px-5 .fs-2 .fw-300 }
 
-_PPPS. I hope Butterbur sends this promptly. A worthy man, but his memory is like a lumber-room: thing wanted always burried. If he forgets I shall roast him._
+_PPPS. I hope the webmaster sends this promptly. A worthy man, but his memory is like a lumber-room: thing wanted always burried. If he forgets I shall roast him._
 {: .px-5 .fs-2 .fw-300  }
 
 _Fare Well!_
