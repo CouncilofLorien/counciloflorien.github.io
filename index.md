@@ -2,6 +2,7 @@
 layout: default
 title: Haven
 nav_order: 1
+search_exclude: true
 description: "The Council of Lorien is the U.S. sanctioning body for the Middle-earth CCG."
 permalink: /
 ---
