@@ -1,0 +1,117 @@
+---
+layout: default
+title: Complete Errata Listing
+parent: Collected Rulings File
+nav_order: 6
+---
+
+Complete Errata Listing
+Rules Errata
+When a company splits, any of the resulting companies can move with region movement. Region movement is not limited to one company of a split.
+You may play a character if you do not have enough influence to control them. However, if there are any characters you do not have the influence to control at the end of your organization phase, the character you brought into play this turn must be returned to your hand.
+An on-guard may only be revealed if it could have also been played during the movement/hazard phase. This means all targets of the card must have existed during the movement/hazard phase in order for the card to be revealed.
+A tapped agent may take an action to untap (i.e., move from tapped status to utapped status).
+An agent may tap to play creatures at a site if the company is moving to the site.
+Attacks keyed to Darkhavens are considered detainment. [effective 11/17/97]
+Dragons Rules, Characters Facing Multiple Strikes: Change "are then considered to be canceled" to "are thenn considered to be successful."
+Dragon Rules, Hoards: Change "Each site with a Dragon automatic-attack (i.e., each Dragon's Lair) contains a hoard" to "Each site which had a Dragon automatic-attack at the beginning of the turn contains a hoard."
+White Hand Rules, Playing and Using Resource, Targeting Site and Resource Cards: change both instances of "resource card may not target/affect" to "resource event card may not target/affect."
+Agent attacks against minions are always detainment. [Effective 8/27/98]
+Corruption cards must always start a chain of effects. [Effective 8/27/98]
+If a company returns to it's site of origin, it may do nothing during it's site phase. A company failing it's underdeeps movement roll is not effected by this rule.
+Hazard effects in play that affect attacks have no effect on company vs.company combat.
+Balrog players receive no MPs for hero items played at their darkhavens.
+ 
+
+Card Errata
+Akhôrahil: Change "...gives -1 penalty to one..." to "...modifies any one character's body by -1 for the rest of the turn.
+Alatar: Change "he must tap and make a corruption check immediately following the attack." to "he must make a corruption check immediately following the attack, and, if untapped, he must tap."
+Align Palantír: Add "May not be duplicated on a given Palantír."
+Arkenstone: (minion version): Change "and all cards he controls" to "and all non-follower cards he controls.' [Effective 7/13/96]
+Army of the Dead: Add "May not be influenced by an opponent."
+Assassin: Gives 2 MP, not 1.
+A Strident Spawn: Add "Unique." [Effective 8/27/98]
+Bill the Pony: The body should be 10, not 6.
+Book of Mazarbul: Replace "tap the bearer during the organization phase" with "tap Book of Mazarbul during your organization phase."
+Corsairs of the Umbar: Add "May also be played at any sites in Elven Shores, Eriadoran Coast, Andrast Coast, Bay of Belfalas, or Mouths of the Anuin."
+Cracks of Doom: Add "Only playable during the site phase." Remove "Otherwise, discard The One Ring."
+Cruel Caradhras: Replace "Minas Morgul" with "Imlad Morgul."
+Deep Mines: Add "Cannot be duplicated on a given Wizardhaven." [Effective 4/20/98]
+Deeper Shadow: This is a short-event, not a long-event.
+Dodge: Replace "his body check is modified by -1." with "his body is modified by -1 for the resulting body check."
+Dragon's Hunger: Replace "Otherwise, the attack is canceled." with "Otherwise, the attack is canceled and the opponent must reveal his hand."
+Drowning Seas: Remove "Cannot be duplicated."
+Dwarven Ring of Bávor's/Drúin's Tribe: One "reshuffle the play deck" is sufficient.
+Dwarven Ring of Thélor's/Thrár's Tribe: Values in parenthesis and brackets apply to Dwarf bearer. The prowess/body modifications should read: "+2(4)/+1."
+Ent-draughts: Replace "as a minor item" with "in addition to an ally or faction which has been successfully been played at Wellinghall."
+Foolish Words: Add "Cannot be duplicated."
+Fortress of Isen: Remove "A company moving to or from Isengard is not considered to be moving through Gap of Isen (including one less Borderland in their site path."
+Fortress of the Towers: Remove "A company moving to or from White Towers is not considered to be moving through Arthedain (including one less Wilderness in their site path."
+Giant: Add "Giant."
+Great Goblin: Add "Unique. Orc. One Strike."
+Great Lord of Goblin-gate: Add "Unique."
+Great Ship: Add "Tap a character in target company during the organization phase to play Great Ship on that company." Replace "...contains a coastal sea region..." with "...contains a coastal sea region and no consecutive non- coastal sea regions..."
+Guarded Haven: Remove "A company moving to or from this site is not considered to be moving through the region containing the site (including one less region in their site path."
+Gwaihir: Should read "you may discard Gwaihir during the organization phase to allow his company..."
+Heedless Revelry: Change "after the successful play" to "in response to the play." Effective 8/27/98]
+Hold Rebuilt and Repaired: "Playable during the site phase."
+Horses: Add "Playable only at the end of the organization phase."
+Huorn: Add "Awakened Plant."
+Ice-orcs: Change the Shadow-hold symbol into a Ruins & Lairs .
+Ioreth: Replace "Healing card" with "Healing effect."
+Iron Shield of Old: Add "Shield." [effective 11/17/97]
+Lucky Search: Replace "Discard all revealed cards except the item." with "Reshuffle all revealed cards except the item back into the play deck." Add at the end of the first paragraph "Discard item if the scout is wounded by this attack."
+Lure of Nature: Replace "at the end of each movement/hazard phase" with "after all other hazards have been played."
+Mallorn: The first sentence should read: "Playable at Bag End only if Earth of Galadriel's Orchard is stored there."
+Morannon: Should read "This card is used as a Dark-hold site card in the region of Udûn that is moved to..."
+Mouth of Sauron: Add "Man."
+Muster: Replace entire text with: "Warrior only. An influence check against a faction by a warrior is modified by adding the warrior's prowess to a maximum modifier of +5."
+Neeker-breekers: Add "Does not effect Wizards."
+Noble Hound: Add the sentence: "If Noble Hound is tapped or wounded, treat it as though it were untapped for the purposes of assigning strikes."
+No Escape From My Magic: Change "Playable on any faction in play" to "Playable on any unique faction in play."
+Old Forest: Replace "healing cards" with "healing effects."
+Old Man Willow: Add "Awakened Plant."
+The Old Thrush: Add "Cannot be duplicated on a given attack."
+Open to the Summons: Replace "minion company" with "company."
+Padding Feet: Replace the first sentence with: "Playable during the site phase on a lone scout minion (no other characters or allies in his company) at the same site as an opponent hero company containing a hobbit."
+Plague: Change "At the end of the target's movement/hazard phase" to "At the end of your opponent's turn." [Effective 8/27/98]
+Pûkel-men: Add "Pûkel-creature."
+Quiet Lands: Replace "is reduced to half its original prowess (rounded up)." with "is reduced by half (rounded up)."
+Rebuild the Town: Replace "Playable on" with "Playable during the site phase on."
+Reluctant Final Parting: Add "Determine nearest Haven using site cards of the same alignment (minion/hero) as the ally." [Effective 4/20/98]
+Rescue Prisoners: This cards gives 2 marshalling points, not 3. Add "You receive the marshalling points for this card only when it is stored."
+Rhosgobel: Replace "healing cards" with "healing effects."
+Rhosgobel: Fallen Wizardhaven. Remove "A company moving to or from Rhosgobel is not considered to be moving through Southern Mirkwood (including one less Dark-domain in their site path."
+Ringlore: Add "Playable only during the site phase. Tap the sage and the site."
+River: Should read "Playable on a site. If a company that has moved to this site this turn does not tap a ranger, it must do nothing during its site phase."
+Röac the Raven: Replace "no modifications to the influence check are required." with "treat this influence check as if it was made by a diplomat."
+Sacrifice of Form: Replace "-3 to any body checks" with "+3 to any body checks."
+Siege: Change the Border-land symbol in the first line to a Border- hold symbol.
+Shadowfax: Change to "an additional site card may be played and an additional movement/hazard phase."
+Silent Watcher: Gives 1 marshalling point, not O. Add "Pûkel- creature."
+Slayer: Gives 2 marshalling points, not 0. Add "Slayer."
+Stay Her Appetite: Change "plus two" to "plus five." [effective 11/3/97]
+Summons from Long Sleep: Change "When the reserved creature is played, another Dragon or Drake may be reserved." to "Discard this card after the reserved creature attacks."
+Thorough Search: Replace "...to play any item normally found at its current site." with "...to play a minor, major, or gold ring item normally found at its current site."
+Tolfalas: Should read: "Playable: Items (minor, major, greater*) *Scroll of Isildur only."
+Tom Bombadil: Change "that targets a company" to "that targets a company, or an entity associated with a company."
+Traitor: Replace the last paragraph with "This card is discarded when a character fails his corruption check."
+Treebeard: Replace "Redhorn Gap" with "Redhorn Gate."
+Twilight: Add "This card may be played at any time during any player's turn."
+Use Palantír: Change text to "Sage only. Tap sage to enable him to use one Palantír he bears for the rest of the turn."
+Veils Flung Away: Each body check is modified by -1, not +1.
+Vilya: Vilya should now read: "Playable on Elrond only. +4 prowess, +2 body, +6 direct influence until the end of the turn. If Elrond is at Rivendell and your play deck has at least 5 cards in it, you may take 3 resource cards of your choice from your discard pile and shuffle them into your play deck. Elrond makes a corruption check modified by -3. Cannot be duplicated on a given turn."
+The White Tree: Add "Discard the Sapling of the White Tree."
+Windlord Found Me: Add "If you do not place this card with a character after the attack, discard it."
+Wizard's Laughter: Change "Wizard only." to "Wizard only during opponent's site phase."
+Wizard's Ring: Replace "Ignore any effect that would discard this item" with "Cannot be stored, stolen, or transferred."
+Wolves: Change "Animal" to "Wolves."
+Woses of Eryn Vorn (minion version): Change "Man faction" to "Wose faction."
+Back to CRF
+Top
+User avatarCDavis7M
+Posts: 2515
+Joined: Thu Jul 19, 2018 8:10 pm
+Location: California
+Contact: Contact CDavis7M
+Re: CRF #15 - May 29, 1999 (Historical Backup)
