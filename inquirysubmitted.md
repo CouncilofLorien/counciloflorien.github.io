@@ -7,12 +7,12 @@ permalink: /lettersubmitted
 ---
 
 _Thank you for your letter. Make for Lorien. There I hope we may meet again. If I do not come, Galadriel will advise you. You may meet a friend of mine on the Road: a Man, ranger-sage of two prowess and six body, by some called the King's Writer. He knows our business and will help you._
-{: .px-5 .fs-3 .fw-300 .text-left }
+{: .px-5 .fs-4 .fw-300 .text-left }
 
-_Yours in haste_
-{: .px-8 .fs-3 .fw-300 .text-right }
-***COUNSEL.*** 
 {: .px-8 .fs-4 .fw-300 .text-right }
+_Yours in haste_
+***COUNSEL.*** 
+{: .px-8 .fs-5 .fw-400 .text-right }
 
 
 _PS. Do not use It again, not for any reason whatever! Do not travel by night!_
