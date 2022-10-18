@@ -18,7 +18,9 @@ Each alignment can win the game by similar means: your opponent's avatar is elim
 > - When each play deck has been exhausted once, the council starts at the end of the current turn.
 > - After you have exhausted your play deck for the first time, you may choose to call the council at the end of any of your turns. The council starts at the end of your opponent's next turn (i.e., your opponent gets one last turn).
 > - You may choose to call the council at the end of your turn if you have accumulated at least 20 marshaling points. The council starts at the end of your opponent's next turn (i.e., your opponent gets one last turn).
+>
 ### The Free Council
+>
 > Just before the Free Council, each character must make a corruption check. The winner of the game is the player that has gathered the most marshalling points from:
 > - Control of resources: characters, allies, items, and factions.
 > - Destruction of creatures and/or evil forces.
@@ -26,9 +28,12 @@ Each alignment can win the game by similar means: your opponent's avatar is elim
 > - By avoiding negative points which accrue when certain characters that you control are eliminated (e.g., Aragorn II, Galadriel, Elrond, Círdan, Frodo, and Bilbo).
 > 
 > Marshalling points are printed on the top left corner of the cards that award them.
+>
 > {: .text-center} 	
 > • • •
+>
 > {: .text-left} 	
+>
 > At the Free Council, the leaders of the Free Peoples decide which Wizard's advice is best to follow. This is based upon a comparison of the resources each of the Wizards have marshalled.
 >  
 >  You may find it useful to use pencil and paper **or** extra dice to keep a running total of marshalling Points.
