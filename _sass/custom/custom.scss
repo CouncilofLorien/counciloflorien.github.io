@@ -26,6 +26,7 @@ $meba-000: #d74431;
 $meba-100: #d74431;
 $meba-200: #44434d;
 $meba-300: #44434d;
+
 input[type="search"],
 input[type="email"],
 textarea {
@@ -33,9 +34,9 @@ textarea {
   border: 1px solid #959396;
   border-radius: 5px;
   margin-bottom: 1em;
-  font-family:  timesnewroman, "Times New Roman", times, baskerville, georgia,
-  serif;
+  font-family: timesnewroman, "Times New Roman", times, baskerville, georgia, serif;
 }
+
 textarea {
   width: 75%;
   resize: none;
