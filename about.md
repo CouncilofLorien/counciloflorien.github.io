@@ -14,12 +14,15 @@ The Council of Lórien was operated by Iron Crown Enterprises and sanctioned tou
 
 The ***Counsel of Lórien*** is the official U.S. archivist for the _Middle-earth collectible card game_.
 
+<br>
+
 ---
 
 ### Leave a letter for the Counsel
 
+<br>
 <form method="post" action="https://forms.un-static.com/forms/870c9fca8c1e2d184592d226cb8a21c725eed1a1">
-  <input type="search" name="name" placeholder="Known round here as" required>
+  <input type="search" name="name" placeholder="Known as" required>
   <input type="email" name="email" placeholder="Address" required>
   <textarea name="message" placeholder="Inside, written in strong but graceful script, was the following message:" cols="50" rows="5" required></textarea>
   <br>
