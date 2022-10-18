@@ -6,7 +6,18 @@ description: About the Council of Lorien
 permalink: /about
 ---
 
-The **Council of Lórien** is the official U.S. sanctioning body for the _Middle-earth collectible card game_. 
+### About
+
+The ***Council of Lórien*** is the official U.S. sanctioning body for the _Middle-earth collectible card game_. 
 The Council of Lórien was operated by Iron Crown Enterprises and sanctioned tournaments between 1996 and 1998.
 
-The **Counsel of Lórien** is the official U.S. archivist for the _Middle-earth collectible card game_.
+The ***Counsel of Lórien*** is the official U.S. archivist for the _Middle-earth collectible card game_.
+
+### Contact
+
+<form method="post" action="https://forms.un-static.com/forms/870c9fca8c1e2d184592d226cb8a21c725eed1a1">
+  <input type="text" name="name" placeholder="Enter your name" required>
+  <input type="email" name="email" placeholder="Enter your e-mail address" required>
+  <textarea name="message" cols="40" rows="15"></textarea>
+  <button type="submit">Inquire</button>
+  </form>
