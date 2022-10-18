@@ -26,8 +26,11 @@ nav_order: 2
 > 
 > > {: .clarification }
 > > A character that fails his corruption check prior to the Free Council is no longer in play. That character and any non-follower cards he controls are not available at the Free Council—thus, they do not count towards the marshalling point totals.
+> > 
 > > A player may play resource cards that can affect his characters’ corruption checks made prior to the Free Council. Hazard cards may not be played. 
+> > 
 > > After all characters have made their corruption checks, the game ends if one Wizard has failed his corruption check (the other player wins). If both Wizards fail their corruption checks, no one wins—both players lose (if you have to, roll dice and the high roller is the winner).
+> > 
 > The winner of the game is the player that has gathered the most marshalling points from:
 > - Control of resources: characters, allies, items, and factions.
 > - Destruction of creatures and/or evil forces.
