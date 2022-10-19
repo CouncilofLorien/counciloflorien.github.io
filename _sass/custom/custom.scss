@@ -27,7 +27,7 @@ $meba-100: #84665c;
 $meba-200: #d74431;
 $meba-300: #d74431;
 
-.contact-form{
+.contact-form {
   input[type="text"],
   input[type="email"],
   textarea {
@@ -36,8 +36,9 @@ $meba-300: #d74431;
     border-radius: 5px;
     margin-bottom: 1em;
     font-family: timesnewroman, "Times New Roman", times, baskerville, georgia,
-    serif;
+      serif;
   }
+  
   textarea {
     width: 100%;
     resize: none;
