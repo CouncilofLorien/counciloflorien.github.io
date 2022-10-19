@@ -9,7 +9,7 @@ permalink: /rulesbook/introduction
 # INTRODUCTION
 
 {: $meul-300 }
-#### THE WIZARDS
+#### <span style="color:red">THE WIZARDS</span>
 
 {: .metw }
 > During the Third Age, the Valar sent five Maiar to Middle-earth to unite and counsel the Free Peoples in their struggles against Sauron, the Dark Lord. However, they were forbidden to dominate the peoples of Middle-earth or to match the power of Sauron with power. These five were known as the "Wizards" (also called Istari) in Middle-earth, and individually they were called: Gandalf, Saruman, Radagast, Alatar, and Pallando.
@@ -21,7 +21,7 @@ permalink: /rulesbook/introduction
 > "Evil Forces" are represented by _hazards_ that the players use against one another. For example, if you move a character into Moria, your opponent could play a Troll card as a hazard. These hazards are not "controlled" by the Wizards, but rather they represent the forces of Sauron, who himself is in a "dormant" or hiding phase. All players are "good," so conflict takes the form of hazards and direct attempts to "persuade" or "dominate" each other and each other's characters and forces, rather than the form of direct conflict.
 
 {: $mele-300 }
-#### THE LIDLESS EYE
+#### <span style="color:$mele-300">THE LIDLESS EYE</span>
 
 {: .mele }
 > During the Third Age, Sauron the Dark Lord returned and threatened to enslave all of Middle-earth. However, having been defeated and almost destroyed in the Second Age, Sauron hesitated—he wanted to restore himself to full power before starting his final assault on the Free Peoples. This meant he needed to marshal overwhelming tactical and strategic resources: and, if possible. he needed to recover the lost reservoir of his vast might, The One Ring. Sauron wanted to remain in the safety of Barad-Dur, in the center of his web of control. So his chief tools for gathering resources were his Ringwraiths the nine Nazgul While Sauron could automatically exert control over any Nazgul the Nazgul maintained a large amount of independence and free will-they were of little use to Sauron without it.
@@ -33,7 +33,7 @@ permalink: /rulesbook/introduction
 > "Dangerous forces" in _Middle-earth: The Lidless Eye_ are represented by _hazards_ that the players use against one another. For example, if you move a character into the Lonely Mountain, your opponent could play a Dragon card as a hazard. These hazards are not "controlled" by the Ringwraiths, but rather they represent the dangerous forces that are abroad in Middle-earth, threatening everyone, good and evil characters alike. All Ringwraiths are working to bring Sauron to full power, so conflict takes the form of hazards and direct attempts to "persuade" or "dominate" each other and each other's characters and forces, rather than the form of direct conflict.<br>
 
 {: $mewh-300 }
-## THE WHITE HAND
+#### THE WHITE HAND
 
 {: .mewh }
 > During the Third Age, the Valar sent five Maiar to Middle-earth to help the Free Peoples resist Sauron. However, they were forbidden to dominate the peoples of Middle-earth or to match the power of Sauron with power. They were known as the five "Wizards:" Alatar, Gandalf, Pallando, Radagast, and Saruman.
@@ -52,7 +52,7 @@ permalink: /rulesbook/introduction
 > > **Note:** In the terms of _ME: The Wizards_, a Wizard that has failed a corruption check by 1 or 2 has become a **Fallen-wizard** (the Wizards in _MEWH_ are all Fallen-wizards).
 
 {: $meba-300 }
-## THE BALROG
+#### THE BALROG
 
 {: .meba }
 > The balrog is supremely confident of his own immense personal power. After all, just like Sauron, he was one of Morgoth's chief lieutenants. The Balrog tends to rely on brute force and direct confrontation rather than more subtle approaches often used by Ringwraiths and Wizards. His goals are basic and simple—accumulate power and destroy his enemies. If he can do this, he can become a dominant power in Middle-earth—a factor to which both the Dark Lord and the Free Peoples will be forced to react.
