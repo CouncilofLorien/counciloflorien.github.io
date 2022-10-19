@@ -4,20 +4,27 @@
 
 h1,
 .text-alpha {
-  @include fs-8;
+  //@include fs-8;
+  @include fs-7;
 
   font-weight: 300;
+  text-transform: uppercase;
 }
 
 h2,
 .text-beta,
 #toctitle {
-  @include fs-6;
+  //@include fs-6;
+  @include fs-5;
+  
+  font-weight: 500;
+  text-transform: uppercase;
 }
 
 h3,
 .text-gamma {
-  @include fs-5;
+  //@include fs-5;
+  @include fs-4;
 }
 
 h4,
