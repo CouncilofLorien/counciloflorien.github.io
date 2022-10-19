@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2 • THE CARDS AND THE DECKS
-parent: Rulesbook
+parent: RULESBOOK
 nav_order: 3
 ---
 
