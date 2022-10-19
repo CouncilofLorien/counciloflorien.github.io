@@ -1,7 +1,7 @@
 ---
 layout: default
 title: INTRODUCTION
-parent: Rulesbook
+parent: RULESBOOK
 nav_order: 1
 permalink: /rulesbook/introduction
 ---
