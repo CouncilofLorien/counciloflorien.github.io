@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 8 • CORRUPTION
-parent: Rulesbook
+parent: RULESBOOK
 nav_order: 9
 ---
 
