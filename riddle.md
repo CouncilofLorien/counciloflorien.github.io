@@ -7,8 +7,8 @@ description: Riddle the Counsel of Lorien
 permalink: /riddle
 ---
 
-<i>If indeed you look only for records of ancient days, and the beginnings of the <b>Middle-earth collectible card game</b>, read on! For to me what was is less dark than what is to come, and that is my care. But unless you have more skill even than Saruman, who has studied here long, you will find naught that is not well known to me, who am master of the lore of this card game.</i><br>
 {: .px-4 .fs-4 .fw-300 .text-center }
+<i>If indeed you look only for records of ancient days, and the beginnings of the <b>Middle-earth collectible card game</b>, read on! For to me what was is less dark than what is to come, and that is my care. But unless you have more skill even than Saruman, who has studied here long, you will find naught that is not well known to me, who am master of the lore of this card game.</i><br>
 <i>—Counsel of Lórien</i>
 {: .px-8 .fs-5 .fw-300 .text-right }
 
