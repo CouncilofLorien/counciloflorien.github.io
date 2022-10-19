@@ -7,7 +7,6 @@ nav_order: 1
 
 # MIDDLE-EARTH: THE WIZARDS
 
-
 ## INTRODUCTION
 
  During the Third Age, the Valar sent five Maiar to Middle-earth to unite and counsel the Free Peoples in their struggles against Sauron, the Dark Lord.
