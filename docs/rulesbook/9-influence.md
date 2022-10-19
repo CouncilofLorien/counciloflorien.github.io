@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 9 • INFLUENCE
-parent: Rulesbook
+parent: RULESBOOK
 nav_order: 10
 ---
 
