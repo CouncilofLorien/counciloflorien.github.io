@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 3 • GETTING READY TO PLAY
-parent: Rulesbook
+parent: RULESBOOK
 nav_order: 4
 ---
 
