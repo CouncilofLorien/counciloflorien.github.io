@@ -5,6 +5,88 @@ parent: Rulesbook
 nav_order: 6
 ---
 
+# 5 • CHARACTERS & COMPANIES
+
+As a player, you influence and control a number of characters that
+move and act in the world of Middle-earth. Each character's abilities
+are defined by these attributes: race, skills, direct influence, prowess
+(offense). body (defense), mind. marshalling points. and special
+abilities (e .g., corruption check modifiers). A character can be
+eliminated and removed from play as a result of combat (failing a
+budy check) or corruption (failing a corruption check).
+
+## CHARACTER ATTRIBUTES
+
+Each character's abilities are defined by the fo llowing attributes
+(the notation for certain attribu tes is given in brackets).
+Race: This is one criterion for using certain resources and for :
+bringing certain items, characters, and factions into play (e.g., only •
+a Dwarf can fully utilize a Dwarven Ring). The races are: Elf, :
+Dwarf, Dt1nadan, Man, Ore, Troll, and Ringwraith.
+Skills: This is one of the criterion for using certain cards (e .g.,
+warrior skill is required to use certain weapons). The skills are:
+warrior, scout, ranger, sage, and diplomat. Some characters have
+more than one ski ll.
+
+## INFLUENCING (CONTROLLING) A CHARACTER
+
+You have a pool of 20 general influence points. At the end of your
+organization phase, the total mind attributes of your characters in
+play (not counting followers) must be less than or equal to 20; this
+total is equal to your used general influence points. Your unused
+general influence points help your charru::ters resist the effects of
+certain cards (e.g., Cail of Home, Muster Disperses, etc.).
+
+### Direct Influence
+
+Some characters have a direct influence attribute of one or more.
+If such a character's direct influence is greater than or equal to
+another one of your characters' mind attribute, he may take control
+of that other character, who then becomes a follower of the control~
+ling character. These conditions must be met:
+
+## BRINGING CHARACTERS INTO PLAY
+
+During your organization phase, you may perform one and only
+one of the following activities:
+• You may play a non-Ringwraith character card.
+• You may play a Ringwraith card if you do not have one in play
+
+## COMPANIES
+
+A company is a group of characters that move and act together.
+This allows characters to move, act, and defend as a unit, allowing
+stronger characters to protecf the weaker characters. This mechanism
+can be used to allow a variety of tactics during play.
+
+### Limitations on Company Composition
+
+Unless at a Darkhaven, a Ringwraith may not be in a company •
+with other characters.
+
+### Overt and Covery Companies
+
+The text for certain cards distinguish between overt companies •
+and covert companies. Any company that contains a Ringwraith in :
+Fell Rider mode, an Ore, or a Troll is an overt company. Any other •
+company is a covert company.
+
+## HEALING
+
+Each of your characters at a Darkhaven may heal during the untap
+phase of your turn. Such a character moves from a wounded position
+to a tapped position. In addition, certain cards can heal characters
+when they are played (e.g., Foul Smeiling Paste).
+
+## RINGWRAITH EFFECTS
+
+After being revealed, a Ringwraith operates like any other char:
+acter except that it may only be in a company with other characters
+• if it is at a Darkhaven. There are several other special effects:
+• Any gold ring in the Ringwraith'scompany is automatically tes ted
+at the beginning of the end-of-turn phase. Any ring test in a
+• Ringwraith' s company has a modification of -2.
+
 As  a  player, you influence and control a number of characters that  move  and
 act  in  the environment of Middle-earth. Each character's abilities are defined
 by  the following attributes: race, skills, direct influence, prowess (offense),
