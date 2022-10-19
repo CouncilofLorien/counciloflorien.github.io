@@ -13,3 +13,5 @@ laurelindórenan lindelorendor malinornélion ornemalin
 <i>If indeed you look only for records of ancient days, and the beginnings of the <b>Middle-earth collectible card game</b>, read on!</i>
 {: .px-4 .fs-6 .fw-600 .text-center }
 
+<i>—Counsel of Lórien</i>
+{: .px-8 .fs-5 .fw-300 .text-right }
