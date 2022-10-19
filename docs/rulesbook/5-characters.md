@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 5 • CHARACTERS & COMPANIES
+title: 5 • CHARACTERS AND COMPANIES
 parent: Rulesbook
 nav_order: 6
 ---
 
-# 5 • CHARACTERS & COMPANIES
+# 5 • CHARACTERS AND COMPANIES
 
 As a player, you influence and control a number of characters that
 move and act in the world of Middle-earth. Each character's abilities
