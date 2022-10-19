@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 6 • MOVEMENT
-parent: Rulesbook
+parent: RULESBOOK
 nav_order: 7
 ---
 
