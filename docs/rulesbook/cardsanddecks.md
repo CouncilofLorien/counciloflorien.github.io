@@ -1,11 +1,11 @@
 ---
 layout: default
-title: The Cards and Decks
+title: 2 • The Cards and Decks
 parent: Rulesbook
 nav_order: 3
 ---
 
-## THE CARDS AND DECKS
+## 2 • THE CARDS AND DECKS
 
 There  are  five  types of cards: site cards, character cards, resource  cards, hazard  cards,  and region cards (this last type is not used  with  the  Starter Rules). Your cards are organized into two decks and three piles:
 * Location  Deck  -  This deck consists of your site cards. You  may  examine  and select  cards  from  your  location deck as required  by  play  (i.e.,  do  not randomly  draw  them).  Your non-Haven site cards are sometimes  discarded  and placed in the discard pile.
