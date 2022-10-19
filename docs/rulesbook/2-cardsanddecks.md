@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2 • The Cards and Decks
+title: 2 • THE CARDS AND THE DECKS
 parent: Rulesbook
 nav_order: 3
 ---
