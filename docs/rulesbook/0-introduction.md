@@ -39,7 +39,7 @@ permalink: /rulesbook/introduction
 > 
 > _Middle-earth: The White Hand_ allows you to play one of these "Fallen-wizards." As a Fallen-wizard, you can pick and choose the good and evil resources you will try to utilize—you will use any means to achieve your ends. However, you can only exert your influence and control over the weaker heroes and minions—the more powerful characters can sense your greed and weaknesses.
 > 
-> Each Fallen-wizards is driven by a different obsession reflected in his abilities and goals:<br>
+> Each Fallen-wizards is driven by a different obsession reflected in his abilities and goals:
 > - The fallen **Pallando** (Master of Doom) is the master of peoples and fate. He rules and dominates peoples. He is obsessed with building his own empire and defeating Sauron by force of arms.<br>
 > - The fallen **Alatar** (Lord of the Hunt) is the master of animate nature—he is a hunter. He likes to do things personally. He is more likely to dominate individuals rather than peoples. He is obsessed with defeating Sauron by turning Middle-earth into a well-ordered game-preserve.<br>
 > - The fallen **Gandalf** (the Careworn) is the friend of peoples, fate, and Middle-earth. He manipulates peoples and their rulers rather than dominate them—he is not an empire builder. He has lost hope of defeating Sauron. He just wants to delay the Dark Lord's final victory as long as possible, and to save as many of the Free Peoples as possible.<br>
@@ -56,13 +56,13 @@ permalink: /rulesbook/introduction
 
 ## PLAYER TURN SUMMARY
 
- Play consists of a series of "Player Turns." During your turn, follow the steps outlined in this turn summary. Then, your opponent does the same during his turn. You and your opponent alternate turns until the game ends. This turn summary is included here to give you an idea of how play proceeds; see [4 • THE PLAYER TURN](/docs/rulesbook/4-theplayerturn).  
- _**Untap Phase**_ — Each of your characters may do one of the following: Untap or Heal (if at a Haven site). In addition, untap all of your other tapped non-site cards.  
-  _**Organization Phase**_ — You take the following actions in any order: play one character (or your Wizard), reorganize your companies, transfer items between characters (corruption checks required), and store items (corruption checks required). In addition, each of your companies may plan its movement by playing a new site card face down on its present site card.  
-  _**Long-event Phase**_ — Remove all of your resource long-events already in play. Play  any new resource long-event cards. Remove all of your opponent's hazard long-events.  
-  _**Movement/Hazard Phase**_ — One at a time, each of your companies takes the following actions. The company turns over its new site card (if it has one). Then, each player draws cards as indicated on a new site card. Next, your opponent may play hazard cards on the company; the maximum number of hazards that may be played on a company is equal to the the size of the company (to a minimum of two). Finally, remove the old site card and each player discards or draws so that he has eight cards in his hand.  
-  _**Site Phase**_ — One at a time, each of your companies may take the following actions at its current, untapped site. The company decides to enter and explore the site. If the site has an automatic-attack, it attacks the company. The company may attempt to play one item, ally, faction, or information resource card that is "playable" at that site. A character in the company must tap to make this attempt. If the card is successfully played, tap the site.  
-_**End-of-Turn Phase**_ — Each player may discard one card. Then each player must draw or discard so that his hand has eight cards.  
+ Play consists of a series of "Player Turns." During your turn, follow the steps outlined in this turn summary. Then, your opponent does the same during his turn. You and your opponent alternate turns until the game ends. This turn summary is included here to give you an idea of how play proceeds; see [4 • THE PLAYER TURN](/docs/rulesbook/4-theplayerturn).
+ - _**Untap Phase**_ — Each of your characters may do one of the following: Untap or Heal (if at a Haven site). In addition, untap all of your other tapped non-site cards.
+ - _**Organization Phase**_ — You take the following actions in any order: play one character (or your Wizard), reorganize your companies, transfer items between characters (corruption checks required), and store items (corruption checks required). In addition, each of your companies may plan its movement by playing a new site card face down on its present site card.
+ - _**Long-event Phase**_ — Remove all of your resource long-events already in play. Play  any new resource long-event cards. Remove all of your opponent's hazard long-events.
+ - _**Movement/Hazard Phase**_ — One at a time, each of your companies takes the following actions. The company turns over its new site card (if it has one). Then, each player draws cards as indicated on a new site card. Next, your opponent may play hazard cards on the company; the maximum number of hazards that may be played on a company is equal to the the size of the company (to a minimum of two). Finally, remove the old site card and each player discards or draws so that he has eight cards in his hand.
+ - _**Site Phase**_ — One at a time, each of your companies may take the following actions at its current, untapped site. The company decides to enter and explore the site. If the site has an automatic-attack, it attacks the company. The company may attempt to play one item, ally, faction, or information resource card that is "playable" at that site. A character in the company must tap to make this attempt. If the card is successfully played, tap the site.
+ - _**End-of-Turn Phase**_ — Each player may discard one card. Then each player must draw or discard so that his hand has eight cards.  
  
 ## PLAYER NOTES
 
