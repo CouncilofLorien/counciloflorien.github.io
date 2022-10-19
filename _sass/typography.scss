@@ -4,7 +4,7 @@
 
 h1,
 .text-alpha {
-  //@include fs-8;
+  // @include fs-8;
   @include fs-6;
 
   font-weight: 100;
@@ -14,7 +14,7 @@ h1,
 h2,
 .text-beta,
 #toctitle {
-  //@include fs-6;
+  // @include fs-6;
   @include fs-5;
   
   font-weight: 700;
@@ -23,7 +23,7 @@ h2,
 
 h3,
 .text-gamma {
-  //@include fs-5;
+  // @include fs-5;
   @include fs-4;
   
   font-weight: 700;
