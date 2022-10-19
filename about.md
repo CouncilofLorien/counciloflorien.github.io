@@ -9,7 +9,7 @@ permalink: /about
 
 ### About
 
-The ***Council of Lórien*** is the official U.S. sanctioning body for the _Middle-earth collectible card game_. The Council of Lórien was operated by Iron Crown Enterprises between 1996 and 1999. It is now the operated by the U.S. _MECCG_ playersgroup.
+The ***Council of Lórien*** is the official U.S. sanctioning body for the _Middle-earth collectible card game_. The Council of Lórien was operated by Iron Crown Enterprises between 1996 and 1999. The _Council of Laurelindórenan Lindelorendor Malinornélion Ornemalin_ is now the operated by the ents of the U.S. _Middle-earth_ playersgroup.
 
 The ***Counsel of Lórien*** is the chief archivist for the _Middle-earth collectible card game_.
 
