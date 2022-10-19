@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 10 • PLAYING AND DRAWING CARDS
-parent: Rulesbook
+parent: RULESBOOK
 nav_order: 11
 ---
 
