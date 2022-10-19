@@ -15,10 +15,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Council of Lorien
-description: MECCG Council of Lorien
-#baseurl: "/just-the-docs" # the subpath of your site, e.g. /blog
-#url: "https://counciloflorien.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+title: Council of Lórien
+description: Council of Lórien
+# baseurl: "/just-the-docs" # the subpath of your site, e.g. /blog
+# url: "https://counciloflorien.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+# url: "https://www.counciloflorien.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 
@@ -46,7 +48,7 @@ exclude:
    - README.md
 
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/counciloflorien.png"
+# logo: "/assets/images/counciloflorien.png"
 
 # Enable or disable the site search
 # Supports true (default) or false
@@ -141,6 +143,10 @@ callouts_level: quiet # or loud
 callouts:
   highlight:
     color: yellow
+  Grey-md:
+    color: grey-md
+  Grey-dk:
+    color: grey-dk
   important:
     title: Important
     color: blue
@@ -164,9 +170,9 @@ callouts:
     color: grey-md
   metw:
     title: The Wizards
-    color: metw
+    color: meul
   meul:
-    title: The Wizards Unlimited
+    title: The Wizards 
     color: meul
   mele:
     title: The Lidless Eye
@@ -179,6 +185,9 @@ callouts:
     color: meba
   lore:
     title: Lore
+    color: yellow
+  counsel:
+    title: The Counsel of Lórien
     color: yellow
   tip:
     title: Tip
