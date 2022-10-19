@@ -5,9 +5,9 @@
 h1,
 .text-alpha {
   //@include fs-8;
-  @include fs-7;
+  @include fs-6;
 
-  font-weight: 300;
+  font-weight: 100;
   text-transform: uppercase;
 }
 
@@ -17,7 +17,7 @@ h2,
   //@include fs-6;
   @include fs-5;
   
-  font-weight: 500;
+  font-weight: 700;
   text-transform: uppercase;
 }
 
@@ -25,6 +25,8 @@ h3,
 .text-gamma {
   //@include fs-5;
   @include fs-4;
+  
+  font-weight: 700;
 }
 
 h4,
