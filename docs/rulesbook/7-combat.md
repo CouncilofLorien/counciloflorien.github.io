@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 7 • COMBAT
-parent: Rulesbook
+parent: RULESBOOK
 nav_order: 8
 ---
 
