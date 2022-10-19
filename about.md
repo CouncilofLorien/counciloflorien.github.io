@@ -23,7 +23,6 @@ The ***Counsel of Lórien*** is the chief archivist for the _Middle-earth collec
 <i>—Counsel of Lórien</i>
 {: .px-8 .fs-5 .fw-300 .text-right }
 
-<br>
 <form method="post" action="https://forms.un-static.com/forms/870c9fca8c1e2d184592d226cb8a21c725eed1a1">
   <input type="search" name="name" placeholder="Known as" required>
   <input type="email" name="email" placeholder="Address" required>
