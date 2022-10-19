@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Victory Conditions
+title: 1 • THE VICTORY CONDITIONS
 parent: Rulesbook
 nav_order: 2
 ---
