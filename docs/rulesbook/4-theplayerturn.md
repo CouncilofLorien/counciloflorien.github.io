@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 4 • THE PLAYER TURN
-parent: Rulesbook
+parent: RULESBOOK
 nav_order: 5
 ---
 
