@@ -9,5 +9,5 @@ permalink: /
 ---
 
 <i>Laurelindórenan lindelorendor<br>malinornélion ornemalin</i>
-{: .px-8 .fs-7 .fw-300 .text-center }
+{: .px-8 .fs-6 .fw-300 .text-center }
 
