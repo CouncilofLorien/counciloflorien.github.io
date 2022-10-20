@@ -23,6 +23,7 @@ The game ends when one of the following occurs during play:
 > 
 {: .meba }
 > Play at least one _Challenge the Power_ and roll greater than 10 for it.
+
 3. Otherwise, the winner is decided at the <span style="color:#1254c2">Free Council</span>, <span style="color:#5d2396">Audience with Sauron</span>, <span style="color:#43a38f">Day of Reckoning</span>, or <span style="color:#d74431">Day of Decision</span>, which are _called_ when one of the following occurs:
 - When each play deck has been exhausted once, the <span style="color:#1254c2">Council</span>, <span style="color:#5d2396">Audience</span>, <span style="color:#43a38f">Reckoning</span>, and <span style="color:#d74431">Decision</span> start at the end of the current turn.
 - After you have exhausted your play deck for the first time, you may choose to _call_ at the end of any of your turns. The <span style="color:#1254c2">Council</span>, <span style="color:#5d2396">Audience</span>, <span style="color:#43a38f">Reckoning</span>, and <span style="color:#d74431">Decision</span> start at the end of your opponent's next turn (i.e., your opponent gets one last turn).
