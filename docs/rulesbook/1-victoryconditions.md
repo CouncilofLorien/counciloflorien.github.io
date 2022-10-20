@@ -41,35 +41,27 @@ The game ends when one of the following occurs during play:
 3. Otherwise, the winner is decided when either the _Free Council_, _Audience with Sauron_, _Day of Reckoning_, or _Day of Decision_ are called when one of the following occurs:
 
     {: .grey-dk }
-    > When each play deck has been exhausted once. The Free Council, Audience with Sauron, Day of Reckoning, and Day of Decision start at the end of the current turn.
+    > - When each play deck has been exhausted once. The Free Council, Audience with Sauron, Day of Reckoning, and Day of Decision start at the end of the current turn.
     
     {: .metw }
-    > After you have exhausted your play deck for the first time, you may choose to call the council at the end of any of your turns. The council starts at the end of your opponent’s next turn (i.e., your opponent gets one last turn).
-    > 
-    > You may choose to call the council at the end of your turn if you have accumulated at least 20 marshalling points. The council starts at the end of your opponent’s next turn (i.e., your opponent gets one last turn).
+    > - After you have exhausted your play deck for the first time, you may choose to call the council at the end of any of your turns. The council starts at the end of your opponent’s next turn (i.e., your opponent gets one last turn).
+    > - You may choose to call the council at the end of your turn if you have accumulated at least 20 marshalling points. The council starts at the end of your opponent’s next turn (i.e., your opponent gets one last turn).
 
     {: .mele }
-    > If your play deck has been exhausted and you play a _Sudden Call_ card as a resource during one of your turns, the audience starts following your opponent's next turn (i.e., your opponent gets one last turn).
-    > 
-    > lf you have at least 20 marshalling points and you play a _Sudden Call_ card as a resource during one of your turns, the audience starts following your opponent's next turn (i.e., your opponent gets one last turn).
-    > 
-    > If your opponent's play deck has been exhausted _and_ you play a _Sudden Call_ card as a **hazard** during one of his turns, the audience starts following your next turn (i.e., you get one last turn).
-    > 
-    > lf your opponent has at least 20 marshalling points _and_ you play a _Sudden Call_ card as a **hazard** during one of his turns, the audience starts following your next turn (i.e., you get one last turn).
+    > - If your play deck has been exhausted and you play a _Sudden Call_ card as a resource during one of your turns, the audience starts following your opponent's next turn (i.e., your opponent gets one last turn).
+    > - lf you have at least 20 marshalling points and you play a _Sudden Call_ card as a resource during one of your turns, the audience starts following your opponent's next turn (i.e., your opponent gets one last turn).
+    > - If your opponent's play deck has been exhausted _and_ you play a _Sudden Call_ card as a **hazard** during one of his turns, the audience starts following your next turn (i.e., you get one last turn).
+    > - lf your opponent has at least 20 marshalling points _and_ you play a _Sudden Call_ card as a **hazard** during one of his turns, the audience starts following your next turn (i.e., you get one last turn).
 
     {: .mewh }
-    > After you have exhausted your play deck for the first time, you may choose to call your Day of Reckoning at the end of any of your turns. Your Day of Reckoning starts at the end of your opponent’s next turn (i.e., your opponent gets one last turn).
-    > 
-    > You may choose to call your Day of Reckoning at the end of your turn if you have accumulated at least 20 marshalling points. Your Day of Reckoning starts at the end of your opponent’s next turn (i.e., your opponent gets one last turn).
+    > - After you have exhausted your play deck for the first time, you may choose to call your Day of Reckoning at the end of any of your turns. Your Day of Reckoning starts at the end of your opponent’s next turn (i.e., your opponent gets one last turn).
+    > - You may choose to call your Day of Reckoning at the end of your turn if you have accumulated at least 20 marshalling points. Your Day of Reckoning starts at the end of your opponent’s next turn (i.e., your opponent gets one last turn).
 
     {: .meba }
-    > If your play deck has been exhausted and you play a _Sudden Call_ card as a resource during one of your turns, your Day of Decision audience starts following your opponent's next turn (i.e., your opponent gets one last turn).
-    > 
-    > lf you have at least 20 marshalling points and you play a _Sudden Call_ card as a resource during one of your turns, your Day of Decision starts following your opponent's next turn (i.e., your opponent gets one last turn).
-    > 
-    > If your opponent's play deck has been exhausted _and_ you play a _Sudden Call_ card as a **hazard** during one of his turns, the audience starts following your next turn (i.e., you get one last turn).
-    > 
-    > lf your opponent has at least 20 marshalling points _and_ you play a _Sudden Call_ card as a **hazard** during one of his turns, the audience starts following your next turn (i.e., you get one last turn).
+    > - If your play deck has been exhausted and you play a _Sudden Call_ card as a resource during one of your turns, your Day of Decision audience starts following your opponent's next turn (i.e., your opponent gets one last turn).
+    > - lf you have at least 20 marshalling points and you play a _Sudden Call_ card as a resource during one of your turns, your Day of Decision starts following your opponent's next turn (i.e., your opponent gets one last turn).
+    > - If your opponent's play deck has been exhausted _and_ you play a _Sudden Call_ card as a **hazard** during one of his turns, the audience starts following your next turn (i.e., you get one last turn).
+    > - lf your opponent has at least 20 marshalling points _and_ you play a _Sudden Call_ card as a **hazard** during one of his turns, the audience starts following your next turn (i.e., you get one last turn).
 
 ## The Longer Games
 
@@ -87,21 +79,23 @@ In  a  "3-deck  game" (the "long game"), the Council is called when  each  play 
  
 In  a  "4-deck  game" (i.e., the "campaign game"), the Council is  called  when each play deck has been exhausted four times. You may call the Council when your play  deck  has  been exhausted four times, or when it has been exhausted three times and you have at least 40 marshaling points. Increase the sideboard size to 25 cards.
 
-## <span style="color:#1254c2">THE FREE COUNCIL</span>
+## THE COUNCIL, AUDIENCE, AND DAY
+
+#### <span style="color:#1254c2">THE FREE COUNCIL</span>
 
 {: .metw }
 > Just before the Free Council, each character must make a corruption check. The player who took the last turn makes corruption checks for his characters first.
 > 
 > At the Free Council, the leaders of the Free Peoples decide which Wizard’s advice is best to follow. This is based upon a comparison of the resources each of the Wizards has marshalled. 
 
-## <span style="color:#5d2396">THE AUDIENCE WITH SAURON</span>
+#### <span style="color:#5d2396">THE AUDIENCE WITH SAURON</span>
 
 {: .mele }
 > Just before the Audience With Sauron, each non-Ringwraith character must make a corruption check. The player who took the last turn makes corruption checks for his characters first.
 > 
 > At the audience, Sauron decides which Ringwraith has been the most successful and will deliver the first massive blow against the Free Peoples. This is based upon a comparison of the resources each of the Ringwraiths has marshalled.
 
-## <span style="color:#7e685d">THE DAY OF RECKONING</span>
+#### <span style="color:#7e685d">THE DAY OF RECKONING</span>
 
 {: .mewh }
 > Just before your Day of Reckoning, each character must make a corruption check. The player who took the last turn makes corruption checks for his characters first.
@@ -110,7 +104,7 @@ In  a  "4-deck  game" (i.e., the "campaign game"), the Council is  called  when 
 > 
 > You do not receive marshalling points for cards stored at non-Wizardhaven sites.
 
-## <span style="color:#d74431">THE DAY OF DECISION</span>
+#### <span style="color:#d74431">THE DAY OF DECISION</span>
 
 {: .meba }
 > Just before the Audience With Sauron, each non-Ringwraith character must make a corruption check. The player who took the last turn makes corruption checks for his characters first.
