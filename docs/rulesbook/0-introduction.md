@@ -6,19 +6,16 @@ nav_order: 1
 permalink: /rulesbook/introduction
 ---
 
-# INTRODUCTION
-{: .no_toc }
-
 <details open markdown="block">
   <summary>
-   CONTENTS
+   INTRODUCTION CONTENTS
   </summary>
   {: .text-delta }
 - TOC
 {:toc}
 </details>
 
-## INTRODUCTION
+# INTRODUCTION
 
 The _Middle-earth collectible card game_ was published by Iron Crown Enterprises (ICE), Charlottesville, Virginia USA between 1995 and 1998. It was printed as a two base sets (_The Wizards_ and _The Lidless Eye_) and five expansions (_The Dragons_, _Dark Minions_, _Against the Shadow_, _The White Hand_, and _The Balrog_). The _Middle-earth CCG_, _The Hobbit_, _The Lord of the Rings_, and all characters and places therein are trademark properties of Tolkien Enterprises.
 
