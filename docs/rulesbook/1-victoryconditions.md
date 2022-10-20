@@ -14,10 +14,11 @@ permalink: /rulesbook/victoryconditions
 > The game ends when one of the following occurs during play:
 > 1. If your Wizard is "eliminated" (i.e., through combat or corruption)—your opponent wins.
 > 2. If you move _The One Ring_ to Mount Doom and play certain cards—_The One Ring_ is destroyed and you win.
-> 3. Otherwise, the winner is decided at the _Free Council_. > This council is called when one of the following occurs:
+> 3. Otherwise, the winner is decided at the _Free Council_. This council is called when one of the following occurs:
 > - When each play deck has been exhausted once, the council starts at the end of the current turn.
 > - After you have exhausted your play deck for the first time, you may choose to call the council at the end of any of your turns. The council starts at the end of your opponent's next turn (i.e., your opponent gets one last turn).
 > - You may choose to call the council at the end of your turn if you have accumulated at least 20 marshaling points. The council starts at the end of your opponent's next turn (i.e., your opponent gets one last turn).
+> 
 > {: .grey-dk }
 > > **Note:** If one or both players only has access to a starter deck (76 cards), this requirement of 20 marshalling points should be lowered to 18.
 
@@ -27,8 +28,7 @@ permalink: /rulesbook/victoryconditions
 > The game ends when one of the following occurs during play:
 > 1. If your Ringwraith is "eliminated" (i.e., fails a body check)—your opponent wins.
 > 2. If you move _The One Ring_ to Barad-dur—Sauron is reunited with _The One Ring_ and you win. (See page 44 for more on Rings.)
-> 3. Otherwise, the winner is decided at the _Audience with Sauron_.
-> This audience is called when one of the following occurs:
+> 3. Otherwise, the winner is decided at the _Audience with Sauron_. This audience is called when one of the following occurs:
 > - When each play deck has been exhausted once, the audience starts following the current turn.
 > - If your play deck has been exhausted and you play a _Sudden Call_ card as a **resource** during one of your turns, the audience starts following your opponent's next tum (i.e., your opponent gets one last turn).
 > - lf you have at least 20 marshalling points _and_ you play a _Sudden Call_ card as a **resource** during one of your turns, the audience starts following your opponent's next turn (i.e., your opponent gets one last turn).
@@ -46,6 +46,7 @@ permalink: /rulesbook/victoryconditions
 > > **Clarification:** A character that fails his corruption check prior to the Free Council is no longer in play. That character and any non-follower cards he controls are not available at the Free Council—thus, they do not count towards the marshalling point totals.
 > > A player may play resource cards that can affect his characters’ corruption checks made prior to the Free Council. Hazard cards may _not_ be played.
 > > After all characters have made their corruption checks, the game ends if one Wizard has failed his corruption check (the other player wins). If both Wizards fail their corruption checks, no one wins—both players lose (if you have to, roll dice and the high roller is the winner).
+>
 > The winner of the game is the player that has gathered the most marshalling points from:
 > - Control of resources: characters, allies, items, and factions.
 > - Destruction of creatures and/or evil forces.
@@ -55,7 +56,8 @@ permalink: /rulesbook/victoryconditions
 > > {: .grey-dk }
 > > **Note:** You may find it useful to use pencil and paper or extra dice to keep a running total of marshalling points.
 > > **Clarification:** If both players have the same number of marshalling points at the Free Council, the game ends in a tie—both players win (if you have to, roll dice and the high roller is the winner).
-> > > > {: .example }
+> 
+> {: .example }
 > > **Example:** (CPs = Corruption Points, MPs = Marshalling Points) Our two players Jessica and Jason have been playing for awhile and Jessica exhausts her play deck during her turn. Since she has 15 MPs and Jason only has 14, she decides to call the Free Council. Each player has one company in Lórien:
 
 
