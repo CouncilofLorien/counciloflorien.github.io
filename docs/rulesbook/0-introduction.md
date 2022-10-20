@@ -6,31 +6,49 @@ nav_order: 1
 permalink: /rulesbook/introduction
 ---
 
-# INTRODUCTION
+<details open markdown="block">
+  <summary>
+   <h1>INTRODUCTION</h1>
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 The _Middle-earth collectible card game_ was published by Iron Crown Enterprises (ICE), Charlottesville, Virginia USA between 1995 and 1998. It was printed as a two base sets (_The Wizards_ and _The Lidless Eye_) and five expansions (_The Dragons_, _Dark Minions_, _Against the Shadow_, _The White Hand_, and _The Balrog_). The _Middle-earth CCG_, _The Hobbit_, _The Lord of the Rings_, and all characters and places therein are trademark properties of Tolkien Enterprises.
 
-During the Third Age, Sauron the Dark Lord returned and threatened to enslave all of Middle-earth. The Valar sent five Maiar to Middle-earth to unite and counsel the Free Peoples in their struggles against Sauron. However, they were forbidden to dominate the peoples of Middle-earth or to match the power of Sauron with power. These five were known as the "Wizards" (also called Istari) in Middle-earth, and individually they were called: Gandalf, Saruman, Radagast, Alatar, and Pallando. Having been defeated and almost destroyed in the Second Age, Sauron hesitated—he wanted to restore himself to full power before starting his final assault on the Free Peoples. His chief tools for gathering resources were his Ringwraiths, the nine Nazgul. While Sauron could automatically exert control over any Nazgul the Nazgul maintained a large amount of independence and free will—they were of little use to Sauron without it.
+During the Third Age, Sauron the Dark Lord returned and threatened to enslave all of Middle-earth. The Valar sent five Maiar, known as "Wizards," to Middle-earth to unite and counsel the Free Peoples in their struggles against Sauron. Sauron wanted to remain in the safety of Barad-Dur, so his chief tools for gathering resources were his Ringwraiths the nine Nazgul. 
 
-#### <span style="color:#1254c2">THE WIZARDS</span>
+In _Middle-earth: The Wizards_, you play one of these five Wizards. In _Middle-earth: The Lidless Eye_, you play one of these nine Ringwraiths.
+
+Evil or dangerous forces are represented by _hazards_ that the players use against one another. For example, if you move a character into Moria, your opponent could play a Troll card as a hazard. Or if you move a character into the Lonely Mountain, your opponent could play a Dragon card as a hazard. These hazards are not "controlled" by the Wizards or Ringwraiths, but rather they represent the forces of Sauron, who himself is in a "dormant" or hiding phase, or dangerous forces that are abroad in Middle-earth, threatening everyone, good and evil characters alike. Conflict typically takes the form of hazards and direct attempts to "persuade" or "dominate" each other and each other's characters and forces, rather than the form of direct conflict. However, combat can occur between a Ringwraith company and a Wizard company.
+
+#### <span style="color:#1254c2"><i>Middle-earth: The Wizards</i></span>
 
 {: .metw }
-> _In Middle-earth: The Wizards_, you play one of these five Wizards. Your goal is to marshal the forces of the Free Peoples so that Sauron can be resisted until the One Ring is destroyed. Since your fellow Wizards do not agree on how to best accomplish this goal, you must battle for the minds, bodies, and souls of the Free Peoples.
+> During the Third Age, the Valar sent five Maiar to Middle-earth to unite and counsel the Free Peoples in their struggles against Sauron, the Dark Lord. However, they were forbidden to dominate the peoples of Middle-earth or to match the power of Sauron with power. These five were known as “Wizards” (also called Istari) in Middle-earth, and individually they were called: Gandalf, Saruman, Radagast, Alatar, and Pallando.
 > 
-> In _The Lord of the Rings_, Gandalf was the only Wizard to succeed. He remained true to his task, marshalling the characters and forces that withstood Sauron long enough for the Fellowship to destroy the Ruling Ring.
+> In _The Lord of the Rings_, Gandalf was the only Wizard to succeed. Saruman was corrupted by power, Radagast “went native,” and Alatar and Pallando disappeared into the East. Only Gandalf remained true to his task, marshalling the characters and forces that withstood Sauron long enough for the Fellowship to destroy the Ruling Ring.
+> 
+>  _In Middle-earth: The Wizards_, you play one of these five Wizards. Your goal is to marshal the forces of the Free Peoples so that Sauron can be resisted until the One Ring is destroyed. Since your fellow Wizards do not agree on how to best accomplish this goal, you must battle for the minds, bodies, and souls of the Free Peoples.
 
-
-#### <span style="color:#5d2396">THE LIDLESS EYE</span>
+#### <span style="color:#5d2396"><i>Middle-earth: The Lidless Eye</i></span>
 
 {: .mele }
-> In _Middle-earth: The Lidless Eye (MELE)_, you play one of these nine Ringwraiths, the Nazgul. Your goal is to marshal enough resources so that the Dark Lord will be confident enough to send you and your armies to launch the first blow necessary to crush the Free Peoples. Since your fellow Ringwraiths do not agree on how best to accomplish this goal (and of course none are as worthy as you), you must compete with them to be the first to gather enough forces to gain the Dark Lord's confidence.
+> During the Third Age, Sauron the Dark Lord returned and threatened to enslave all of Middle-earth. However, having been defeated and almost destroyed in the Second Age, Sauron hesitated—he wanted to restore himself to full power before starting his final assault on the Free Peoples. This meant he needed to marshal overwhelming tactical and strategic resources: and, if possible, he needed to recover the lost reservoir of his vast might, The One Ring.
+> 
+> Sauron wanted to remain in the safety of Barad-Dur, in the center of his web of control. So his chief tools for gathering resources were his Ringwraiths the nine Nazgul. While Sauron could automatically exert control over any Nazgul the Nazgul maintained a large amount of independence and free will-they were of little use to Sauron without it.
 > 
 > In _The Lord of the Rings_, the Witch-king of Angmar was the first Ringwraith to succeed. Sauron dispatched him and his armies to destroy Gondor. However, due to a subtle twist of fate, he fell on the brink of victory, not against a ''man" of great power, but against a woman (Eowyn) and a single Hobbit (Merry).
+> 
+> In _Middle-earth: The Lidless Eye (MELE)_, you play one of these nine Ringwraiths, the Nazgul. Your goal is to marshal enough resources so that the Dark Lord will be confident enough to send you and your armies to launch the first blow necessary to crush the Free Peoples. Since your fellow Ringwraiths do not agree on how best to accomplish this goal (and of course none are as worthy as you), you must compete with them to be the first to gather enough forces to gain the Dark Lord's confidence. If your opponent has access to _Middle-earth: The Wizards_ cards, you will also be able to play a Ringwraith against a Wizard.
 
-#### <span style="color:#7e685d">THE WHITE HAND</span>
+#### <span style="color:#7e685d"><i>Middle-earth: The White Hand</i></span>
 
 {: .mewh }
-> In _The Lord of the Rings_, Saruman was corrupted by power, Radagast "went native," and Alatar and Pallando disappeared into the East.
+> During the Third Age, the Valar sent five Maiar to Middle-earth to unite and counsel the Free Peoples in their struggles against Sauron, the Dark Lord. However, they were forbidden to dominate the peoples of Middle-earth or to match the power of Sauron with power. These five were known as “Wizards” (also called Istari) in Middle-earth, and individually they were called: Gandalf, Saruman, Radagast, Alatar, and Pallando.
+> 
+> In _The Lord of the Rings_, Gandalf was the only Wizard to succeed. Saruman was corrupted by power, Radagast “went native,” and Alatar and Pallando disappeared into the East. Only Gandalf remained true to his task, marshalling the characters and forces that withstood Sauron long enough for the Fellowship to destroy the Ruling Ring.
 > 
 > _Middle-earth: The White Hand_ allows you to play one of these "Fallen-wizards." As a Fallen-wizard, you can pick and choose the good and evil resources you will try to utilize—you will use any means to achieve your ends. However, you can only exert your influence and control over the weaker heroes and minions—the more powerful characters can sense your greed and weaknesses.
 > 
@@ -42,13 +60,10 @@ During the Third Age, Sauron the Dark Lord returned and threatened to enslave al
 > - The fallen **Radagast** (of the Greenwood) is the friend of animate nature. He looks at Middle-earth as a big garden with people as the gardeners. He persuades but doesn't dominate. He plans to help nature protect itself from the Dark Lord.<br>
 > - The fallen **Saruman** (of Many Colours) is the master of inanimate nature. He gathers knowledge and makes inanimate objects. He is obsessed with using his own personal power, items, and abi lities to contest Sauron.
 
-{: $meba-300 }
-#### <span style="color:#d74431">THE BALROG</span>
+ #### <span style="color:#d74431"><i>Middle-earth: The Balrog<i></span>
 
 {: .meba }
 > The Balrog is supremely confident of his own immense personal power. After all, just like Sauron, he was one of Morgoth's chief lieutenants. The Balrog tends to rely on brute force and direct confrontation rather than more subtle approaches often used by Ringwraiths and Wizards. His goals are basic and simple—accumulate power and destroy his enemies. If he can do this, he can become a dominant power in Middle-earth—a factor to which both the Dark Lord and the Free Peoples will be forced to react.
-
-Evil or dangerous forces are represented by _hazards_ that the players use against one another. For example, if you move a character into Moria, your opponent could play a Troll card as a hazard. Or if you move a character into the Lonely Mountain, your opponent could play a Dragon card as a hazard. These hazards are not "controlled" by the Wizards or Ringwraiths, but rather they represent the forces of Sauron, who himself is in a "dormant" or hiding phase, or dangerous forces that are abroad in Middle-earth, threatening everyone, good and evil characters alike. Conflict typically takes the form of hazards and direct attempts to "persuade" or "dominate" each other and each other's characters and forces, rather than the form of direct conflict. However, combat can occur between a Ringwraith company and a Wizard company.
 
 ## PLAYER TURN SUMMARY
 
