@@ -7,7 +7,7 @@ h1,
   // @include fs-8;
   @include fs-6;
 
-  font-weight: 100;
+  font-weight: 300;
   text-transform: uppercase;
 }
 
@@ -33,8 +33,8 @@ h4,
 .text-delta {
   @include fs-4;
 
-  font-weight: 400;
-  letter-spacing: 0.1em;
+  font-weight: 300;
+  font-style: italic;
 }
 
 h4 code {
