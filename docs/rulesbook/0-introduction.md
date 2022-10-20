@@ -6,14 +6,18 @@ nav_order: 1
 permalink: /rulesbook/introduction
 ---
 
+# INTRODUCTION
+
 <details open markdown="block">
   <summary>
-   <h1>INTRODUCTION</h1>
+   CONTENTS
   </summary>
   {: .text-delta }
-1. TOC
+- TOC
 {:toc}
 </details>
+
+## INTRODUCTION
 
 The _Middle-earth collectible card game_ was published by Iron Crown Enterprises (ICE), Charlottesville, Virginia USA between 1995 and 1998. It was printed as a two base sets (_The Wizards_ and _The Lidless Eye_) and five expansions (_The Dragons_, _Dark Minions_, _Against the Shadow_, _The White Hand_, and _The Balrog_). The _Middle-earth CCG_, _The Hobbit_, _The Lord of the Rings_, and all characters and places therein are trademark properties of Tolkien Enterprises.
 
@@ -60,7 +64,7 @@ Evil or dangerous forces are represented by _hazards_ that the players use again
 > - The fallen **Radagast** (of the Greenwood) is the friend of animate nature. He looks at Middle-earth as a big garden with people as the gardeners. He persuades but doesn't dominate. He plans to help nature protect itself from the Dark Lord.<br>
 > - The fallen **Saruman** (of Many Colours) is the master of inanimate nature. He gathers knowledge and makes inanimate objects. He is obsessed with using his own personal power, items, and abi lities to contest Sauron.
 
- #### <span style="color:#d74431"><i>Middle-earth: The Balrog<i></span>
+ #### <span style="color:#d74431"><i>Middle-earth: The Balrog</i></span>
 
 {: .meba }
 > The Balrog is supremely confident of his own immense personal power. After all, just like Sauron, he was one of Morgoth's chief lieutenants. The Balrog tends to rely on brute force and direct confrontation rather than more subtle approaches often used by Ringwraiths and Wizards. His goals are basic and simple—accumulate power and destroy his enemies. If he can do this, he can become a dominant power in Middle-earth—a factor to which both the Dark Lord and the Free Peoples will be forced to react.
