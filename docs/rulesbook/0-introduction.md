@@ -7,6 +7,7 @@ permalink: /rulesbook/introduction
 ---
 
 # INTRODUCTION
+{: .no_toc }
 
 <details open markdown="block">
   <summary>
@@ -64,7 +65,7 @@ Evil or dangerous forces are represented by _hazards_ that the players use again
 > - The fallen **Radagast** (of the Greenwood) is the friend of animate nature. He looks at Middle-earth as a big garden with people as the gardeners. He persuades but doesn't dominate. He plans to help nature protect itself from the Dark Lord.<br>
 > - The fallen **Saruman** (of Many Colours) is the master of inanimate nature. He gathers knowledge and makes inanimate objects. He is obsessed with using his own personal power, items, and abi lities to contest Sauron.
 
- #### <span style="color:#d74431"><i>Middle-earth: The Balrog</i></span>
+#### <span style="color:#d74431"><i>Middle-earth: The Balrog</i></span>
 
 {: .meba }
 > The Balrog is supremely confident of his own immense personal power. After all, just like Sauron, he was one of Morgoth's chief lieutenants. The Balrog tends to rely on brute force and direct confrontation rather than more subtle approaches often used by Ringwraiths and Wizards. His goals are basic and simple—accumulate power and destroy his enemies. If he can do this, he can become a dominant power in Middle-earth—a factor to which both the Dark Lord and the Free Peoples will be forced to react.
