@@ -17,7 +17,7 @@ During the Third Age, Sauron the Dark Lord returned and threatened to enslave al
 {: .metw }
 > _In Middle-earth: The Wizards_, you play one of these five Wizards. Your goal is to marshal the forces of the Free Peoples so that Sauron can be resisted until the One Ring is destroyed. Since your fellow Wizards do not agree on how to best accomplish this goal, you must battle for the minds, bodies, and souls of the Free Peoples.
 > 
-> In _The Lord of the Rings_, Gandalf was the only Wizard to succeed. Saruman was corrupted by power, Radagast "went native," and Alatar and Pallando disappeared into the East. Only Gandalf remained true to his task,  marshalling the characters and forces that withstood Sauron long enough for the Fellowship to destroy the Ruling Ring.
+> In _The Lord of the Rings_, Gandalf was the only Wizard to succeed. He remained true to his task, marshalling the characters and forces that withstood Sauron long enough for the Fellowship to destroy the Ruling Ring.
 
 
 #### <span style="color:#5d2396">THE LIDLESS EYE</span>
@@ -25,11 +25,13 @@ During the Third Age, Sauron the Dark Lord returned and threatened to enslave al
 {: .mele }
 > In _Middle-earth: The Lidless Eye (MELE)_, you play one of these nine Ringwraiths, the Nazgul. Your goal is to marshal enough resources so that the Dark Lord will be confident enough to send you and your armies to launch the first blow necessary to crush the Free Peoples. Since your fellow Ringwraiths do not agree on how best to accomplish this goal (and of course none are as worthy as you), you must compete with them to be the first to gather enough forces to gain the Dark Lord's confidence.
 > 
-> In _The lord of the Rings_, the Witch-king of Angmar was the first Ringwraith to succeed. Sauron dispatched him and his armies to destroy Gondor. However, due to a subtle twist of fate, he fell on the brink of victory, not against a ''man" of great power, but against a woman (Eowyn) and a single Hobbit (Merry).
+> In _The Lord of the Rings_, the Witch-king of Angmar was the first Ringwraith to succeed. Sauron dispatched him and his armies to destroy Gondor. However, due to a subtle twist of fate, he fell on the brink of victory, not against a ''man" of great power, but against a woman (Eowyn) and a single Hobbit (Merry).
 
 #### <span style="color:#7e685d">THE WHITE HAND</span>
 
 {: .mewh }
+> In _The Lord of the Rings_, Saruman was corrupted by power, Radagast "went native," and Alatar and Pallando disappeared into the East.
+> 
 > _Middle-earth: The White Hand_ allows you to play one of these "Fallen-wizards." As a Fallen-wizard, you can pick and choose the good and evil resources you will try to utilize—you will use any means to achieve your ends. However, you can only exert your influence and control over the weaker heroes and minions—the more powerful characters can sense your greed and weaknesses.
 > 
 > Each Fallen-wizards is driven by a different obsession reflected in his abilities and goals:
@@ -44,7 +46,7 @@ During the Third Age, Sauron the Dark Lord returned and threatened to enslave al
 #### <span style="color:#d74431">THE BALROG</span>
 
 {: .meba }
-> The balrog is supremely confident of his own immense personal power. After all, just like Sauron, he was one of Morgoth's chief lieutenants. The Balrog tends to rely on brute force and direct confrontation rather than more subtle approaches often used by Ringwraiths and Wizards. His goals are basic and simple—accumulate power and destroy his enemies. If he can do this, he can become a dominant power in Middle-earth—a factor to which both the Dark Lord and the Free Peoples will be forced to react.
+> The Balrog is supremely confident of his own immense personal power. After all, just like Sauron, he was one of Morgoth's chief lieutenants. The Balrog tends to rely on brute force and direct confrontation rather than more subtle approaches often used by Ringwraiths and Wizards. His goals are basic and simple—accumulate power and destroy his enemies. If he can do this, he can become a dominant power in Middle-earth—a factor to which both the Dark Lord and the Free Peoples will be forced to react.
 
 Evil or dangerous forces are represented by _hazards_ that the players use against one another. For example, if you move a character into Moria, your opponent could play a Troll card as a hazard. Or if you move a character into the Lonely Mountain, your opponent could play a Dragon card as a hazard. These hazards are not "controlled" by the Wizards or Ringwraiths, but rather they represent the forces of Sauron, who himself is in a "dormant" or hiding phase, or dangerous forces that are abroad in Middle-earth, threatening everyone, good and evil characters alike. Conflict typically takes the form of hazards and direct attempts to "persuade" or "dominate" each other and each other's characters and forces, rather than the form of direct conflict. However, combat can occur between a Ringwraith company and a Wizard company.
 
