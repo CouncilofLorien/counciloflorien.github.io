@@ -25,7 +25,7 @@ In _Middle-earth: The Wizards_, you play one of these five Wizards. In _Middle-e
 
 Evil or dangerous forces are represented by _hazards_ that the players use against one another. For example, if you move a character into Moria, your opponent could play a Troll card as a hazard. Or if you move a character into the Lonely Mountain, your opponent could play a Dragon card as a hazard. These hazards are not "controlled" by the Wizards or Ringwraiths, but rather they represent the forces of Sauron, who himself is in a "dormant" or hiding phase, or dangerous forces that are abroad in Middle-earth, threatening everyone, good and evil characters alike. Conflict typically takes the form of hazards and direct attempts to "persuade" or "dominate" each other and each other's characters and forces, rather than the form of direct conflict. However, combat can occur between a Ringwraith company and a Wizard company.
 
-#### <span style="color:#1254c2">Middle-earth: The Wizards</span>
+#### The Wizards
 
 {: .metw }
 > During the Third Age, the Valar sent five Maiar to Middle-earth to unite and counsel the Free Peoples in their struggles against Sauron, the Dark Lord. However, they were forbidden to dominate the peoples of Middle-earth or to match the power of Sauron with power. These five were known as “Wizards” (also called Istari) in Middle-earth, and individually they were called: Gandalf, Saruman, Radagast, Alatar, and Pallando.
@@ -34,7 +34,7 @@ Evil or dangerous forces are represented by _hazards_ that the players use again
 > 
 >  _In Middle-earth: The Wizards_, you play one of these five Wizards. Your goal is to marshal the forces of the Free Peoples so that Sauron can be resisted until the One Ring is destroyed. Since your fellow Wizards do not agree on how to best accomplish this goal, you must battle for the minds, bodies, and souls of the Free Peoples.
 
-#### <span style="color:#5d2396">Middle-earth: The Lidless Eye</span>
+#### The Lidless Eye
 
 {: .mele }
 > During the Third Age, Sauron the Dark Lord returned and threatened to enslave all of Middle-earth. However, having been defeated and almost destroyed in the Second Age, Sauron hesitated—he wanted to restore himself to full power before starting his final assault on the Free Peoples. This meant he needed to marshal overwhelming tactical and strategic resources: and, if possible, he needed to recover the lost reservoir of his vast might, The One Ring.
@@ -45,7 +45,7 @@ Evil or dangerous forces are represented by _hazards_ that the players use again
 > 
 > In _Middle-earth: The Lidless Eye (MELE)_, you play one of these nine Ringwraiths, the Nazgul. Your goal is to marshal enough resources so that the Dark Lord will be confident enough to send you and your armies to launch the first blow necessary to crush the Free Peoples. Since your fellow Ringwraiths do not agree on how best to accomplish this goal (and of course none are as worthy as you), you must compete with them to be the first to gather enough forces to gain the Dark Lord's confidence. If your opponent has access to _Middle-earth: The Wizards_ cards, you will also be able to play a Ringwraith against a Wizard.
 
-#### <span style="color:#7e685d">Middle-earth: The White Hand</span>
+#### The White Hand
 
 {: .mewh }
 > During the Third Age, the Valar sent five Maiar to Middle-earth to unite and counsel the Free Peoples in their struggles against Sauron, the Dark Lord. However, they were forbidden to dominate the peoples of Middle-earth or to match the power of Sauron with power. These five were known as “Wizards” (also called Istari) in Middle-earth, and individually they were called: Gandalf, Saruman, Radagast, Alatar, and Pallando.
@@ -62,7 +62,7 @@ Evil or dangerous forces are represented by _hazards_ that the players use again
 > - The fallen **Radagast** (of the Greenwood) is the friend of animate nature. He looks at Middle-earth as a big garden with people as the gardeners. He persuades but doesn't dominate. He plans to help nature protect itself from the Dark Lord.<br>
 > - The fallen **Saruman** (of Many Colours) is the master of inanimate nature. He gathers knowledge and makes inanimate objects. He is obsessed with using his own personal power, items, and abi lities to contest Sauron.
 
-#### <span style="color:#d74431">Middle-earth: The Balrog</span>
+#### The Balrog
 
 {: .meba }
 > The Balrog is supremely confident of his own immense personal power. After all, just like Sauron, he was one of Morgoth's chief lieutenants. The Balrog tends to rely on brute force and direct confrontation rather than more subtle approaches often used by Ringwraiths and Wizards. His goals are basic and simple—accumulate power and destroy his enemies. If he can do this, he can become a dominant power in Middle-earth—a factor to which both the Dark Lord and the Free Peoples will be forced to react.
