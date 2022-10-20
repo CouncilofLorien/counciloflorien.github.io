@@ -8,33 +8,21 @@ permalink: /rulesbook/victoryconditions
 
 # 1 • THE VICTORY CONDITIONS
 
-#### <span style="color:#1254c2">THE WIZARDS</span>
-
 The game ends when one of the following occurs during play:
-1. If your <span style="color:#1254c2">Wizard</span>, <span style="color:#5d2396">Ringwraith</span>, <span style="color:#7e685d">Fallen-wizard</span>, or <span style="color:#d74431">Balrog</span> is eliminated or corrupted—your opponent wins.
+1. If your <span style="color:#1254c2">Wizard</span>, <span style="color:#5d2396">Ringwraith</span>, <span style="color:#43a38f">Fallen-wizard</span>, or <span style="color:#d74431">Balrog</span> is eliminated or corrupted—your opponent wins.
 2. If you play _The One Ring_ and meet certain conditions—you win:
- - <span style="color:#1254c2">Move _The One Ring_ to Mount Doom and successfully play _Cracks of Doom_ or _Gollum's Fate_—_The One Ring_ is destroyed.</span>
- - <span style="color:#5d2396">Move The _One Ring_ to Barad Dur—Sauron is reunited with _The One Ring_.</span>
- - <span style="color:#7e685d">Play at least one _A New Ringlord_ and roll greater than 9 for it.</span>
- - <span style="color:#d74431">Play at least one _Challenge the Power_ and roll greater than 10 for it.</span>
-4. Otherwise, the winner is decided at the <span style="color:#1254c2">Free Council</span>, <span style="color:#5d2396">Audience with Sauron</span>, <span style="color:#7e685d">Day of Reckoning</span>, or <span style="color:#d74431">Day of Decision</span>. This end-of-game decision is called when one of the following occurs:
-- When each play deck has been exhausted once, the council starts at the end of the current turn.
-- After you have exhausted your play deck for the first time, you may choose to call the council at the end of any of your turns. The council starts at the end of your opponent's next turn (i.e., your opponent gets one last turn).
-- You may choose to call the council at the end of your turn if you have accumulated at least 20 marshaling points. The council starts at the end of your opponent's next turn (i.e., your opponent gets one last turn).
-
-#### <span style="color:#5d2396">THE LIDLESS EYE</span>
-
-{: .mele }
-> The game ends when one of the following occurs during play:
-> 1. If your Ringwraith is "eliminated" (i.e., fails a body check)—your opponent wins.
-> 2. If you move _The One Ring_ to Barad-dur—Sauron is reunited with _The One Ring_ and you win. (See page 44 for more on Rings.)
-> 3. Otherwise, the winner is decided at the _Audience with Sauron_. This audience is called when one of the following occurs:
-> - When each play deck has been exhausted once, the audience starts following the current turn.
-> - If your play deck has been exhausted and you play a _Sudden Call_ card as a **resource** during one of your turns, the audience starts following your opponent's next tum (i.e., your opponent gets one last turn).
-> - lf you have at least 20 marshalling points _and_ you play a _Sudden Call_ card as a **resource** during one of your turns, the audience starts following your opponent's next turn (i.e., your opponent gets one last turn).
-> {: .grey-dk }
-> > **Note:** You may also use a _Sudden Call_ card as a Hazard to cause the Audience with Sauron to be called (see page 54).
-> > **Note:** If one or both players only has access to a starter deck (76 cards), this requirement of 20 marshalling points should be lowered to 18.
+ - {: .metw }
+> Move _The One Ring_ to Mount Doom and successfully play _Cracks of Doom_ or _Gollum's Fate_—_The One Ring_ is destroyed.
+ - {: .mele }
+> Move The _One Ring_ to Barad Dur—Sauron is reunited with _The One Ring_.
+ - {: .mewh }
+> Play at least one _A New Ringlord_ and roll greater than 9 for it.
+ - {: .meba }
+> Play at least one _Challenge the Power_ and roll greater than 10 for it.
+3. Otherwise, the winner is decided at the <span style="color:#1254c2">Free Council</span>, <span style="color:#5d2396">Audience with Sauron</span>, <span style="color:#43a38f">Day of Reckoning</span>, or <span style="color:#d74431">Day of Decision</span>, which are _called_ when one of the following occurs:
+- When each play deck has been exhausted once, the <span style="color:#1254c2">Council</span>, <span style="color:#5d2396">Audience</span>, <span style="color:#43a38f">Reckoning</span>, and <span style="color:#d74431">Decision</span> start at the end of the current turn.
+- After you have exhausted your play deck for the first time, you may choose to _call_ at the end of any of your turns. The <span style="color:#1254c2">Council</span>, <span style="color:#5d2396">Audience</span>, <span style="color:#43a38f">Reckoning</span>, and <span style="color:#d74431">Decision</span> start at the end of your opponent's next turn (i.e., your opponent gets one last turn).
+- You may choose to _call_ at the end of your turn if you have accumulated at least 20 marshaling points. The <span style="color:#1254c2">Council</span>, <span style="color:#5d2396">Audience</span>, <span style="color:#43a38f">Reckoning</span>, and <span style="color:#d74431">Decision</span> start at the end of your opponent's next turn (i.e., your opponent gets one last turn).
 
 ## <span style="color:#1254c2">THE FREE COUNCIL</span>
 
@@ -59,14 +47,6 @@ The game ends when one of the following occurs during play:
 > 
 > {: .example }
 > > **Example:** (CPs = Corruption Points, MPs = Marshalling Points) Our two players Jessica and Jason have been playing for awhile and Jessica exhausts her play deck during her turn. Since she has 15 MPs and Jason only has 14, she decides to call the Free Council. Each player has one company in Lórien:
-
-
-
-
-
-
-
-
 
 
 
