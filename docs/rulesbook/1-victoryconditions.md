@@ -14,13 +14,13 @@ The game ends when one of the following occurs during play:
 
 {: .metw }
 > Move _The One Ring_ to Mount Doom and successfully play _Cracks of Doom_ or _Gollum's Fate_—_The One Ring_ is destroyed.
->
+
 {: .mele }
 > Move The _One Ring_ to Barad Dur—Sauron is reunited with _The One Ring_.
-> 
+
 {: .mewh }
 > Play at least one _A New Ringlord_ and roll greater than 9 for it.
-> 
+
 {: .meba }
 > Play at least one _Challenge the Power_ and roll greater than 10 for it.
 
