@@ -30,9 +30,11 @@ The _Council of Lórien Rulesbook_ is an annotated compilation of the rules for 
 
 ### Typography
 
-_Text providing format and structure added by the Counsel of Lórien._
-
 Text of rules that apply to **all** players with _annotations_ [^changes] of any changes. 
+
+> **Note:** Notes, clarifications, or examples provided in the rules.
+
+> _Text providing format and structure added by the Counsel of Lórien._
 
 {: .metw }
 > Rules from _Middle-earth: The Wizards Unlimited_.  
