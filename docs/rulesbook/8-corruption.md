@@ -3,6 +3,7 @@ layout: default
 title: 8 • CORRUPTION
 parent: RULESBOOK
 nav_order: 9
+permalink: /rulesbook/corruption
 ---
 
 Each  character has a corruption point total. This starts at zero, but  certain
