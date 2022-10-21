@@ -8,9 +8,13 @@ permalink: /rulesbook/victoryconditions
 
 # 1 • THE VICTORY CONDITIONS
 
-The game ends when one of the following occurs during play:
+_The game ends when one of the following occurs during play:_
+1. _Defeat by elimination_
+2. _Victory by _The One Ring__
+3. _Otherwise, the winner is decided at the _Free Council_, _Audience with Sauron_, _Day of Reckoning_, or _Day of Decision_.
 
-1. If your Wizard or Ringwraith are eliminated—your opponent wins.
+{:start="1"}
+1. _Defeat by elimination_
 
     {: .metw }
     > If your Wizard is "eliminated" (i.e., through combat or corruption)—your opponent wins.
@@ -24,7 +28,7 @@ The game ends when one of the following occurs during play:
     {: .meba }
     > If the Balrog is "eliminated" (i.e., fails a body check)—your opponent wins.
 
-2. If you destroy, retreive, or recover _The One Ring_—you win:
+2. _Victory by _The One Ring__
   
     {: .metw }
     > Move _The One Ring_ to Mount Doom and successfully play _Cracks of Doom_ or _Gollum's Fate_—_The One Ring_ is destroyed.
@@ -38,7 +42,7 @@ The game ends when one of the following occurs during play:
     {: .meba }
     > Play at least one _Challenge the Power_ and roll greater than 10 for it.
 
-3. Otherwise, the winner is decided when either the _Free Council_, _Audience with Sauron_, _Day of Reckoning_, or _Day of Decision_ are called when one of the following occurs:
+3. _Otherwise, the winner is decided at the _Free Council_, _Audience with Sauron_, _Day of Reckoning_, or _Day of Decision_. These are called when one of the following occurs:_
 
     {: .grey-dk }
     > - When each play deck has been exhausted once. The Free Council, Audience with Sauron, Day of Reckoning, and Day of Decision start at the end of the current turn.
