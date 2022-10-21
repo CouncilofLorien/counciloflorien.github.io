@@ -23,7 +23,7 @@ permalink: /rulesbook
  - [8 • CORRUPTION](/rulesbook/corruption)
  - [9 • INFLUENCE](/rulesbook/influence)
  - [10 • PLAYING AND DRAWING CARDS](/rulesbook/playingcards)
- {: .text-alpha }
+ {: .text-beta }
 </details>
 
 The _Council of Lórien Rulesbook_ is an annotated compilation of the rules for the _Middle-earth collectible card game_. It is not a rewrite. It is meant to be searched.
