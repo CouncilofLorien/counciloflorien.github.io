@@ -6,41 +6,44 @@ nav_order: 2
 permalink: /rulesbook/victoryconditions
 ---
 
-# 1 • THE VICTORY CONDITIONS
+<details open markdown="block">
+  <summary>
+   1 • THE VICTORY CONDITIONS
+  </summary>
+  {: .text-alpha }
+- TOC
+{:toc}
+</details>
 
-_The game ends when one of the following occurs during play:_
-1. _Defeat by elimination_
-2. _Victory by _The One Ring__
-3. _Otherwise, the winner is decided at the _Free Council_, _Audience with Sauron_, _Day of Reckoning_, or _Day of Decision_.
+## COUNSEL OF LORIEN SUMMARY
+> _The game ends when one of the following occurs during play:_
+> 1. _Defeat by elimination or corruption_
+> 2. _Victory by _The One Ring__
+> 3. _Otherwise, the winner is decided at the _Free Council_, _Audience with Sauron_, _Day of Reckoning_, or _Day of Decision_. These are called when one of the following occurs:
+>     - The Starter Game (**1-deck** game):
+>       - When each play deck has been exhausted **once**. They start at the end of the current turn.
+>       - After you have exhausted your play deck for the **first** time, you may choose to call at the end of any of your turns. Your opponent gets one last turn.
+>       - You may choose to call at the end of your turn if you have accumulated at least **20** marshalling points. Your opponent gets one last turn.
+>     - The Short Game (**2-deck** game)
+>       - When each play deck has been exhausted **twice**. They start at the end of the current turn.
+>       - After you have exhausted your play deck for the **second** time, you may choose to call at the end of any of your turns. Your opponent gets one last turn.
+>       - After you have exhausted your play deck for the **first** time, you may choose to call at the end of your turn if you have accumulated at least **25** marshalling points. Your opponent gets one last turn.
 
-{:start="1"}
-1. _Defeat by elimination_
+{: .metw }
+> The game ends when one of the following occurs during play: 
+> If your Wizard is "eliminated" (i.e., through combat or corruption)—your opponent wins.
+> Move _The One Ring_ to Mount Doom and successfully play _Cracks of Doom_ or _Gollum's Fate_—_The One Ring_ is destroyed.
 
-    {: .metw }
-    > If your Wizard is "eliminated" (i.e., through combat or corruption)—your opponent wins.
+{: .mele }
+> If your Ringwraith is "eliminated" (i.e., fails a body check)—your opponent wins.
+> Move _The One Ring_ to Barad Dur—Sauron is reunited with _The One Ring_
 
-    {: .mele }
-    > If your Ringwraith is "eliminated" (i.e., fails a body check)—your opponent wins.
+{: .mewh }
+> If your Fallen-wizard is "eliminated" (i.e., through combat or corruption)—your opponent wins.
 
-    {: .mewh }
-    > If your Fallen-wizard is "eliminated" (i.e., through combat or corruption)—your opponent wins.
+{: .meba }
+> If the Balrog is "eliminated" (i.e., fails a body check)—your opponent wins.
 
-    {: .meba }
-    > If the Balrog is "eliminated" (i.e., fails a body check)—your opponent wins.
-
-2. _Victory by _The One Ring__
-  
-    {: .metw }
-    > Move _The One Ring_ to Mount Doom and successfully play _Cracks of Doom_ or _Gollum's Fate_—_The One Ring_ is destroyed.
-
-    {: .mele }
-    > Move _The One Ring_ to Barad Dur—Sauron is reunited with _The One Ring_.
-
-    {: .mewh }
-    > Play at least one _A New Ringlord_ and roll greater than 9 for it.
-
-    {: .meba }
-    > Play at least one _Challenge the Power_ and roll greater than 10 for it.
 
 3. _Otherwise, the winner is decided at the _Free Council_, _Audience with Sauron_, _Day of Reckoning_, or _Day of Decision_. These are called when one of the following occurs:_
 
