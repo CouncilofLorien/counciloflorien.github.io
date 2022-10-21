@@ -3,6 +3,7 @@ layout: default
 title: 10 • PLAYING AND DRAWING CARDS
 parent: RULESBOOK
 nav_order: 11
+permalink: /rulesbook/playingcards
 ---
 
  You  may  only play hazard cards during your opponent's movement/hazard  phase.
