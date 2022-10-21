@@ -3,6 +3,7 @@ layout: default
 title: 2 • THE CARDS AND THE DECKS
 parent: RULESBOOK
 nav_order: 3
+permalink: /rulesbook/cardsanddecks
 ---
 
 ## 2 • THE CARDS AND DECKS
