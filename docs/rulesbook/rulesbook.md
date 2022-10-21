@@ -8,7 +8,7 @@ permalink: /rulesbook
 
 # RULESBOOK
 
-The _Council of Lórien Rulesbook_ is a compilation of rules for the _Middle-earth collectible card game_. It includes the rules including the rules from _The Wizards_, _The Wizards Unlimited_, _The Dragons_, _Dark Minions_, _The Lidless Eye_, _Against the Shadow_, _The White Hand_, _The Balrog_, the _Challenge Decks Rules Summary_, and version 15 of the _Collected Rulings File_. It is a ***compilation*** with annotations[^counsel], not a rewrite. Yet, some additional structure and formatting was needed to arrange the pieces and certain rules have been superceded or changed.
+The _Council of Lórien Rulesbook_ is a compilation of rules for the _Middle-earth collectible card game_. It includes the rules from _The Wizards Unlimited_, _The Dragons_, _Dark Minions_, _The Lidless Eye_, _Against the Shadow_, _The White Hand_, _The Balrog_, the _Challenge Decks Rules Summary_, and version 15 of the _Collected Rulings File_. It is a ***compilation*** with annotations[^counsel], not a rewrite. Yet, some additional structure and formatting was needed to arrange the pieces and certain rules have been superceded or changed.
 
 ### Typography
 
