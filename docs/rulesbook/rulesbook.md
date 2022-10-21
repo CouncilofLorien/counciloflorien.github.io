@@ -25,27 +25,3 @@ permalink: /rulesbook
  - [10 • PLAYING AND DRAWING CARDS](/rulesbook/playingcards)
  {: .text-beta }
 </details>
-
-The _Council of Lórien Rulesbook_ is an annotated compilation of the rules for the _Middle-earth collectible card game_. It is not a rewrite. It is meant to be searched.
-
-### Typography
-
-Text of rules that apply to **all** players with _annotations_ [^changes] of any changes. 
-
-> **Note:** Notes, clarifications, or examples provided in the rules.
-
-> _Text providing format and structure added by the Counsel of Lórien._
-
-{: .metw }
-> Rules from _Middle-earth: The Wizards Unlimited_.  
-
-{: .mele }
-> Rules from _Middle-earth: The Lidless Eye_.  
-
-{: .mewh }
-> Rules from _Middle-earth: The White Hand_.   
-
-{: .meba }
-> Rules from _Middle-earth: The Balrog_.
-
-[^changes]: The change and the source of the change are explained by the Counsel in footnotes.
