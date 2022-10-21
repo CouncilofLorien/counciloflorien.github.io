@@ -3,6 +3,7 @@ layout: default
 title: 5 • CHARACTERS AND COMPANIES
 parent: RULESBOOK
 nav_order: 6
+permalink: /rulesbook/characters
 ---
 
 # 5 • CHARACTERS AND COMPANIES
