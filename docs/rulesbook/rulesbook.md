@@ -35,7 +35,7 @@ _Text providing format and structure added by the Counsel of Lórien._
 Text of rules that apply to **all** players with _annotations_ [^changes] of any changes. 
 
 {: .metw }
-> Rules from _Middle-earth: The Wizards Limited_ or _Unlimited_.  
+> Rules from _Middle-earth: The Wizards Unlimited_.  
 
 {: .mele }
 > Rules from _Middle-earth: The Lidless Eye_.  
