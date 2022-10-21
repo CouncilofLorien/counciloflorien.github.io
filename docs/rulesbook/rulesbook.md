@@ -8,15 +8,11 @@ permalink: /rulesbook
 
 # RULESBOOK
 
-The _Council of Lórien Rulesbook_ is a compilation of rules for the _Middle-earth collectible card game_. It includes the rules from _The Wizards Unlimited_, _The Dragons_, _Dark Minions_, _The Lidless Eye_, _Against the Shadow_, _The White Hand_, _The Balrog_, the _Challenge Decks Rules Summary_, and version 15 of the _Collected Rulings File_. It is a ***compilation*** with annotations[^counsel], not a rewrite. Yet, some additional structure and formatting was needed to arrange the pieces and certain rules have been superceded or changed.
+The _Council of Lórien Rulesbook_ is a compilation[^compilation] of the rules for the _Middle-earth collectible card game_. It is meant to be searched.
 
 ### Typography
 
-_Text added by the **Counsel of Lórien**, chief archivist._
-
-Text of general rules that apply to **all** players with _annotations_ [^changes] of any **changes**. 
-
-> A note, clarification, example, etc. from the rules. 
+Text of rules that apply to **all** players with _annotations_ [^changes] of any changes. 
 
 {: .metw }
 > Rules from _Middle-earth: The Wizards Limited_ or _Unlimited_.  
@@ -30,5 +26,7 @@ Text of general rules that apply to **all** players with _annotations_ [^changes
 {: .meba }
 > Rules from _Middle-earth: The Balrog_.
 
-[^counsel]: Annotated by the Counsel of Lórien.
+_Text added by the Counsel of Lórien._
+
+[^compilation]: This is a compilation, not a rewrite. _Aragorn's Rulesguide for Hasty Hobbits_ is a rewrite of the rules for beginners.
 [^changes]: The change and the source of the change are explained in footnotes.
