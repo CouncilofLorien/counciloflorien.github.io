@@ -3,6 +3,7 @@ layout: default
 title: 7 • COMBAT
 parent: RULESBOOK
 nav_order: 8
+permalink: /rulesbook/combat
 ---
 
  Combat  occurs when a creature hazard is played on a company or when a  company
