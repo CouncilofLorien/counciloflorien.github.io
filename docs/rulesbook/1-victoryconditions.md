@@ -18,8 +18,8 @@ permalink: /rulesbook/victoryconditions
 ## COUNSEL OF LORIEN SUMMARY
 > _The game ends when one of the following occurs during play:_
 > 1. _Defeat by elimination or corruption_
-> 2. _Victory by _The One Ring__
-> 3. _Otherwise, the winner is decided at the _Free Council_, _Audience with Sauron_, _Day of Reckoning_, or _Day of Decision_. These are called when one of the following occurs:
+> 2. _Victory by The One Ring_
+> 3. _Otherwise, the winner is decided at the Free Council, Audience with Sauron, Day of Reckoning, or Day of Decision. These are called when one of the following occurs:
 >     - The Starter Game (**1-deck** game):
 >       - When each play deck has been exhausted **once**. They start at the end of the current turn.
 >       - After you have exhausted your play deck for the **first** time, you may choose to call at the end of any of your turns. Your opponent gets one last turn.
