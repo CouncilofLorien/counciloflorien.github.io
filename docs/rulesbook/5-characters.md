@@ -6,28 +6,42 @@ nav_order: 6
 permalink: /rulesbook/characters
 ---
 
-# 5 • CHARACTERS AND COMPANIES
+<details open markdown="block">
+  <summary>
+  5 • CHARACTERS AND COMPANIES
+  </summary>
+  {: .text-alpha }
+- TOC
+{:toc}
+</details>
 
-As a player, you influence and control a number of characters that
-move and act in the world of Middle-earth. Each character's abilities
-are defined by these attributes: race, skills, direct influence, prowess
-(offense). body (defense), mind. marshalling points. and special
-abilities (e .g., corruption check modifiers). A character can be
-eliminated and removed from play as a result of combat (failing a
-budy check) or corruption (failing a corruption check).
+## CHARACTERS AND COMPANIES
+
+As a player, you influence and control a number of characters that move and act in the world of Middle-earth. Each character’s abilities
+are defined by these attributes: race, skills, direct influence, prowess (offense), body (defense), mind, marshalling points, and special abilities (e.g., corruption check modifiers). A character can be _eliminated_ and removed from play as a result of combat (failing a body check) or corruption (failing a corruption check[^fail]).
+
+If you have enough general influence or direct influence during a given turn, you may bring into play: one character at his home site or at any Haven **or** your Wizard at his home site or Rivendell.
+
+Characters are primarily controlled by your pool of 20 general influence points. For each controlled character, you must commit a number of general influence points equal to his mind attribute. In addition, you may control a character by using another character’s direct influence—a character controlled in this fashion is called a _follower_ and does not use general influence points. [See page 21 for
+an extended example.]()
+
+During play, you may organize your characters into groups called companies. A company’s _size_ is equal to the number of characters in it, with each Hobbit character only counting half (round up). A company is limited to a size of seven. A company’s _hazard limit_ is equal to two or the size of the company, whichever is greater. The maximum number of hazards that can be played on a company during a given movement/hazard phase is equal to its hazard limit. 
+
+Companies can only combine at a Haven—just remove all but one of the companies’ Haven site cards. The resulting company then has one site card consisting of one Haven site card. One company can split into two or more companies only at a Haven (use two Haven cards).
+
+One company can split into two or more companies only at a Haven[^splittingatanon-haven] (use two Haven cards).
+
+> **Note:** The number of characters you have in play limits the number of actions you may take during a given turn. You use your Wizard’s general influence or your other characters’ direct influence on a character to bring that character into play and to keep it in play. A character in play can move and take actions (e.g., defending against attacks, influencing, etc.). Items, allies, and other cards representing things a character acquires and controls are placed under his card.
 
 ## CHARACTER ATTRIBUTES
 
-Each character's abilities are defined by the fo llowing attributes
-(the notation for certain attribu tes is given in brackets).
-Race: This is one criterion for using certain resources and for :
-bringing certain items, characters, and factions into play (e.g., only •
-a Dwarf can fully utilize a Dwarven Ring). The races are: Elf, :
-Dwarf, Dt1nadan, Man, Ore, Troll, and Ringwraith.
-Skills: This is one of the criterion for using certain cards (e .g.,
-warrior skill is required to use certain weapons). The skills are:
-warrior, scout, ranger, sage, and diplomat. Some characters have
-more than one ski ll.
+Each character's abilities are defined by the fo llowing attributes (the notation for certain attributes is given in brackets).
+
+_Race:_ This is one criterion for using certain resources and for bringing certain items, characters, and factions into play (e.g., only a Dwarf can fully utilize a Dwarven Ring). The races are: Elf, Hobbit, Dwarf, Dunadan, Man, Wizard, Orc, Troll, and Ringwraith.
+
+_Skills:_ This is one of the criterion for using certain cards (e.g., warrior skill is required to use certain weapons). The skills are: warrior, scout, ranger, sage, and diplomat. Some characters have more than one skill.
+
+
 
 ## INFLUENCING (CONTROLLING) A CHARACTER
 
@@ -283,4 +297,6 @@ Wizard,  you  may use general influence to bring a character into play  only  if
 your Wizard is at the site at which the character arrives (i.e., a Haven or  the
 character's home site).
 
+[^fail] A character is eliminated if they fail a [corruption check](/rulesbook/corruption) roll by two or more. A character is discarded is the corruption check fails by tieing or by 1.
 
+[^splittingatanon-haven] Companies can also split at a non-haven see: [crf organization phase or something]()
