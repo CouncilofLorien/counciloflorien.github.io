@@ -40,35 +40,26 @@ _Race:_ This is one criterion for using certain resources and for bringing certa
 
 _Skills:_ This is one of the criterion for using certain cards (e.g., warrior skill is required to use certain weapons). The skills are: warrior, scout, ranger, sage, and diplomat. Some characters have more than one skill.
 
-Direct  Influence [ i ]: A character's direct influence determines how  many  of  your  characters  he  may  control (i.e., have as followers).  In  addition,  a  character's   unused  direct  influence  affects  his  chances  of  influencing factions and your opponent's resources.
+_Direct  Influence [ i ]:_ A character's direct influence determines how many of your characters he may control (i.e., have as followers). In addition, a character's unused direct influence affects his chances of influencing factions and your opponent's resources.
  
-Prowess  [lower left, to left of "/"]: A character's prowess is a measure  of  a  character's offensive capabilities in combat.
+_Prowess  [lower left, to left of "/"]:_ A character's prowess is a measure of a character's offensive capabilities in combat.
  
-Body  [lower  left,  to right of "/"]: A character's body is a  measure  of  how  difficult  it is to physically damage the character. This is a mixture  of  the  ability  to  avoid  an  attack (e.g., dodging) and the  ability  to  absorb  or  deflect an attack (e.g., armor, shield, blocking).
+_Body  [lower  left,  to right of "/"]:_ A character's body is a measure of how difficult it is to physically damage the character. This is a mixture of the ability to  avoid an attack (e.g., dodging) and the ability to absorb or deflect an attack (e.g., armor, shield, blocking).
  
-Mind  [ m ]: A character's mind determines how many influence points (a Wizard's  general  influence  points  or  a  character's  direct  influence  points)  are  required to keep this character in play (i.e., controlled).
+_Mind  [ m ]:_ A character's mind determines how many influence points (a Wizard's  general  influence  points  or  a  character's  direct  influence  points)  are  required to keep this character in play (i.e., controlled).
  
-Marshaling  Points [ upper left ]: This is the number of marshaling  points  you receive  when  you  have  the  character in play.  This  value  represents  the character's importance to the Free Peoples' struggle against Sauron.
+_Marshaling  Points [ upper left ]:_ This is the number of marshaling  points  you receive  when  you  have  the  character in play.  This  value  represents  the character's importance to the Free Peoples' struggle against Sauron.
  
-Special  Abilities: Some characters have special abilities that are detailed  on their  cards and certain resource cards. For example, Faramir has an  influence bonus  against the Rangers of Ithilien faction,  owyn has a heightened  prowess against Nazgul, Frodo has a corruption check modifier, etc.
+_Special  Abilities:_ Some characters have special abilities that are detailed  on their  cards and certain resource cards. For example, Faramir has an  influence bonus  against the Rangers of Ithilien faction,  owyn has a heightened  prowess against Nazgul, Frodo has a corruption check modifier, etc.
 
 
 ## INFLUENCING (CONTROLLING) A CHARACTER
 
-You have a pool of 20 general influence points. At the end of your
-organization phase, the total mind attributes of your characters in
-play (not counting followers) must be less than or equal to 20; this
-total is equal to your used general influence points. Your unused
-general influence points help your charru::ters resist the effects of
-certain cards (e.g., Cail of Home, Muster Disperses, etc.).
+You have a pool of 20 general influence points. At the end of your organization phase, the total mind attributes of your characters in play (not counting followers) must be less than or equal to 20; this total is equal to your used general influence points. Your unused general influence points help your charru::ters resist the effects of certain cards (e.g., Cail of Home, Muster Disperses, etc.).
 
 ### Direct Influence
 
-Some characters have a direct influence attribute of one or more.
-If such a character's direct influence is greater than or equal to
-another one of your characters' mind attribute, he may take control
-of that other character, who then becomes a follower of the control~
-ling character. These conditions must be met:
+Some characters have a direct influence attribute of one or more. If such a character's direct influence is greater than or equal to another one of your characters' mind attribute, he may take control of that other character, who then becomes a follower of the controlling character. These conditions must be met:
 
 ## BRINGING CHARACTERS INTO PLAY
 
