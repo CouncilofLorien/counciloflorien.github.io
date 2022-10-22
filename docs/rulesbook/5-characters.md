@@ -18,18 +18,17 @@ permalink: /rulesbook/characters
 ## CHARACTERS AND COMPANIES
 
 As a player, you influence and control a number of characters that move and act in the world of Middle-earth. Each character’s abilities
-are defined by these attributes: race, skills, direct influence, prowess (offense), body (defense), mind, marshalling points, and special abilities (e.g., corruption check modifiers). A character can be _eliminated_ and removed from play as a result of combat (failing a body check) or corruption (failing a corruption check[^fail]).
+are defined by these attributes: race, skills, direct influence, prowess (offense), body (defense), mind, marshalling points, and special abilities (e.g., corruption check modifiers). A character can be _eliminated_ and removed from play as a result of combat (failing a body check) or corruption (failing a corruption check [^fail] ).
 
 If you have enough general influence or direct influence during a given turn, you may bring into play: one character at his home site or at any Haven **or** your Wizard at his home site or Rivendell.
 
-Characters are primarily controlled by your pool of 20 general influence points. For each controlled character, you must commit a number of general influence points equal to his mind attribute. In addition, you may control a character by using another character’s direct influence—a character controlled in this fashion is called a _follower_ and does not use general influence points. [See page 21 for
-an extended example.]()
+Characters are primarily controlled by your pool of 20 general influence points. For each controlled character, you must commit a number of general influence points equal to his mind attribute. In addition, you may control a character by using another character’s direct influence—a character controlled in this fashion is called a _follower_ and does not use general influence points. [See page 21 for an extended example.]()
 
 During play, you may organize your characters into groups called companies. A company’s _size_ is equal to the number of characters in it, with each Hobbit character only counting half (round up). A company is limited to a size of seven. A company’s _hazard limit_ is equal to two or the size of the company, whichever is greater. The maximum number of hazards that can be played on a company during a given movement/hazard phase is equal to its hazard limit. 
 
 Companies can only combine at a Haven—just remove all but one of the companies’ Haven site cards. The resulting company then has one site card consisting of one Haven site card. One company can split into two or more companies only at a Haven (use two Haven cards).
 
-One company can split into two or more companies only at a Haven[^splittingatanon-haven] (use two Haven cards).
+One company can split into two or more companies only at a Haven [^splittingatanon-haven] (use two Haven cards).
 
 > **Note:** The number of characters you have in play limits the number of actions you may take during a given turn. You use your Wizard’s general influence or your other characters’ direct influence on a character to bring that character into play and to keep it in play. A character in play can move and take actions (e.g., defending against attacks, influencing, etc.). Items, allies, and other cards representing things a character acquires and controls are placed under his card.
 
@@ -41,6 +40,17 @@ _Race:_ This is one criterion for using certain resources and for bringing certa
 
 _Skills:_ This is one of the criterion for using certain cards (e.g., warrior skill is required to use certain weapons). The skills are: warrior, scout, ranger, sage, and diplomat. Some characters have more than one skill.
 
+Direct  Influence [ i ]: A character's direct influence determines how  many  of  your  characters  he  may  control (i.e., have as followers).  In  addition,  a  character's   unused  direct  influence  affects  his  chances  of  influencing factions and your opponent's resources.
+ 
+Prowess  [lower left, to left of "/"]: A character's prowess is a measure  of  a  character's offensive capabilities in combat.
+ 
+Body  [lower  left,  to right of "/"]: A character's body is a  measure  of  how  difficult  it is to physically damage the character. This is a mixture  of  the  ability  to  avoid  an  attack (e.g., dodging) and the  ability  to  absorb  or  deflect an attack (e.g., armor, shield, blocking).
+ 
+Mind  [ m ]: A character's mind determines how many influence points (a Wizard's  general  influence  points  or  a  character's  direct  influence  points)  are  required to keep this character in play (i.e., controlled).
+ 
+Marshaling  Points [ upper left ]: This is the number of marshaling  points  you receive  when  you  have  the  character in play.  This  value  represents  the character's importance to the Free Peoples' struggle against Sauron.
+ 
+Special  Abilities: Some characters have special abilities that are detailed  on their  cards and certain resource cards. For example, Faramir has an  influence bonus  against the Rangers of Ithilien faction,  owyn has a heightened  prowess against Nazgul, Frodo has a corruption check modifier, etc.
 
 
 ## INFLUENCING (CONTROLLING) A CHARACTER
@@ -197,6 +207,7 @@ Special  Abilities: Some characters have special abilities that are detailed  on
  their  cards and certain resource cards. For example, Faramir has an  influence
  bonus  against the Rangers of Ithilien faction,  owyn has a heightened  prowess
  against Nazg–l, Frodo has a corruption check modifier, etc.
+ 
 INFLUENCING (CONTROLLING) A CHARACTER
  You  have  a  pool of 20 general influence points. At any one time,  the  total
 mind attributes of your characters in play (not counting followers) must be less
