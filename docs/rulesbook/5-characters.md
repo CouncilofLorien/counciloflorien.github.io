@@ -19,7 +19,7 @@ permalink: /rulesbook/characters
 
 As a player, you influence and control a number of characters that move and act in the world of Middle-earth. Each character’s abilities are defined by these attributes: race, skills, direct influence, prowess (offense), body (defense), mind, marshalling points, and special abilities (e.g., corruption check modifiers). A character can be _eliminated_ and removed from play as a result of combat (failing a body check) or corruption (failing a corruption check [^fail] ).
 
-If you have enough general influence or direct influence during a given turn, you may bring into play one non-avatar character **or** one avatar character (see BRINGING CHARACTERS INTO PLAY](/rulesbook/characters#bringing-characters-into-play)).
+If you have enough general influence or direct influence during a given turn, you may bring into play one non-avatar character **or** one avatar character (see [BRINGING CHARACTERS INTO PLAY](/rulesbook/characters#bringing-characters-into-play)).
 
 Characters are primarily controlled by your pool of 20 general influence points. For each controlled character, you must commit a number of general influence points equal to his mind attribute. In addition, you may control a character by using another character’s direct influence—a character controlled in this fashion is called a _follower_ and does not use general influence points. [See page 21 for an extended example.]()
 
@@ -91,7 +91,7 @@ can be used to allow a variety of tactics during play.
 Unless at a Darkhaven, a Ringwraith may not be in a company •
 with other characters.
 
-### Overt and Covery Companies
+### Overt and Covert Companies
 
 The text for certain cards distinguish between overt companies •
 and covert companies. Any company that contains a Ringwraith in :
@@ -310,6 +310,6 @@ Wizard,  you  may use general influence to bring a character into play  only  if
 your Wizard is at the site at which the character arrives (i.e., a Haven or  the
 character's home site).
 
-[^fail] A character is eliminated if they fail a [corruption check](/rulesbook/corruption) roll by two or more. A character is discarded is the corruption check fails by tieing or by 1.
+[^fail]: A character is eliminated if they fail a [corruption check](/rulesbook/corruption) roll by two or more. A character is discarded is the corruption check fails by tieing or by 1.
 
-[^splittingatanon-haven] Companies can also split at a non-haven see: [crf organization phase or something]()
+[^splittingatanon-haven]: Companies can also split at a non-haven see: [crf organization phase or something]()
