@@ -15,8 +15,6 @@ permalink: /rulesbook/characters
 {:toc}
 </details>
 
-## CHARACTERS AND COMPANIES
-
 As a player, you influence and control a number of characters that move and act in the world of Middle-earth. Each character’s abilities
 are defined by these attributes: race, skills, direct influence, prowess (offense), body (defense), mind, marshalling points, and special abilities (e.g., corruption check modifiers). A character can be _eliminated_ and removed from play as a result of combat (failing a body check) or corruption (failing a corruption check [^fail] ).
 
