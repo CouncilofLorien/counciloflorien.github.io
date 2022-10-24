@@ -5,6 +5,7 @@ nav_order: 1
 has_children: true
 has_toc: false
 permalink: /rulesbook
+nav_exclude: true
 ---
 
 <details open markdown="block">
