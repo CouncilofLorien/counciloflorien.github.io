@@ -6,6 +6,7 @@ has_children: true
 has_toc: false
 permalink: /rulesbook
 nav_exclude: true
+search_exclude: true
 ---
 
 <details open markdown="block">
