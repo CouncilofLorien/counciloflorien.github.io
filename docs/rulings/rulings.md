@@ -12,12 +12,12 @@ has_toc: false
    COLLECTED RULINGS FILE
   </summary>
   {: .text-alpha }
- - [INTRODUCTION](/docs/rulings/introduction/)
- - [TURN SEQUENCE RULINGS](/docs/rulings/rulingsbyterm/)
- - [RULINGS BY TERM](/docs/rulings/tourney/)
- - [TOURNAMENT RULINGS](/rulesbook/playerturn)
- - [RULINGS BY CARD](/docs/rulings/errata/)
- - [COMPLETE ERRATA LISTING](/rulesbook/introduction)
- - [DELAYED RULINGS](/docs/rulings/monday/)
+ - [INTRODUCTION](/crf/introduction)
+ - [TURN SEQUENCE RULINGS](/crf/turnsequence)
+ - [RULINGS BY TERM](/crf/rulingsbyterm)
+ - [TOURNAMENT RULINGS](/crf/tournamentrulings)
+ - [RULINGS BY CARD](/crf/rulingsbycard)
+ - [COMPLETE ERRATA LISTING](/crf/errata)
+ - [DELAYED RULINGS](/crf/delayedrulings)
  {: .text-beta }
 </details>
