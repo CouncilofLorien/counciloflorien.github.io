@@ -1,1 +1,4 @@
-test
+---
+layout: default
+search_exclude: true
+---
