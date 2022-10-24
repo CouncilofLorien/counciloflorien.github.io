@@ -3,6 +3,7 @@ layout: default
 title: Turn Sequence Rulings
 parent: Collected Rulings File
 nav_order: 2
+permalink: /docs/turnsequence
 ---
 
 ### Beginning of the Game
