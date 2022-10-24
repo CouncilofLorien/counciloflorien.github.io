@@ -1,3 +1,8 @@
+---
+layout: default
+search_exclude: true
+---
+
 Scenarios
 Barrels out of Bond
 "For some time Bilbo sat and thought about this water-gate,
