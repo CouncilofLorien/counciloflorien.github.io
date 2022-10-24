@@ -4,6 +4,7 @@ title: 6 • MOVEMENT
 parent: RULESBOOK
 nav_order: 7
 permalink: /rulesbook/movement
+search_exclude: true
 ---
 
  In  METW  the  lands of northwest Middle-earth are represented by regions.  The
