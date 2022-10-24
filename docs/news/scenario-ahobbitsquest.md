@@ -1,3 +1,8 @@
+---
+layout: default
+search_exclude: true
+---
+
 Scenarios
 A Hobbit's Quest
 "'In fact I will go so far as to send you on this adventure
