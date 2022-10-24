@@ -1,3 +1,8 @@
+---
+layout: default
+search_exclude: true
+---
+
 https://web.archive.org/web/19980212010343fw_/http://ironcrown.com/GamesInfo/MECCG/MeCCG/rankings.html
 
 FINAL MECCG RANKINGS 1997
