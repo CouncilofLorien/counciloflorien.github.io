@@ -1,3 +1,8 @@
+---
+layout: default
+search_exclude: true
+---
+
 Scenarios
 The King beneath the Mountains
 "'The mountain throne once more is freed!
