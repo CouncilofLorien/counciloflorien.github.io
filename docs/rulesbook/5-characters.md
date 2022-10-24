@@ -40,7 +40,7 @@ _Race:_ This is one criterion for using certain resources and for bringing certa
 
 _Skills:_ This is one of the criterion for using certain cards (e.g., warrior skill is required to use certain weapons). The skills are: warrior, scout, ranger, sage, and diplomat. Some characters have more than one skill.
 
-_Direct Influence_ \[ ![](/assets/images/DI-18.png) ![](/assets/images/DI.svg) ]: A character's direct influence determines which and how many of your characters he may control (i.e., have as followers). In addition, a character's unused direct influence affects his chances of influencing factions and your opponent's resources.
+_Direct Influence_ \[ ![](/assets/images/DI-18.png) ![](/assets/images/di.svg) ]: A character's direct influence determines which and how many of your characters he may control (i.e., have as followers). In addition, a character's unused direct influence affects his chances of influencing factions and your opponent's resources.
  
 _Prowess_ \[lower left, to left of "/"]: A character's prowess is a measure of a character's offensive capabilities in combat.
  
