@@ -4,6 +4,7 @@ title: 8 • CORRUPTION
 parent: RULESBOOK
 nav_order: 9
 permalink: /rulesbook/corruption
+search_exclude: true
 ---
 
 Each  character has a corruption point total. This starts at zero, but  certain
