@@ -3,6 +3,7 @@ layout: default
 title: Complete Errata Listing
 parent: Collected Rulings File
 nav_order: 6
+permalink: /crf/errata
 ---
 
 ## Rules Errata
