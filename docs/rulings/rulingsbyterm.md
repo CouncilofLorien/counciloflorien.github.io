@@ -6,6 +6,15 @@ nav_order: 3
 permalink: /crf/rulingsbyterm
 ---
 
+<details markdown="block">
+  <summary>
+   RULINGS BY TERM
+  </summary>
+  {: .text-alpha }
+- TOC
+{:toc}
+</details>
+
 ### -=AAA=-
 
 #### Actions
