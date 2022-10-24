@@ -1,3 +1,8 @@
+---
+layout: default
+search_exclude: true
+---
+
 Andrew Shallue's 1997/98 deck list
 
 Andrew Shallue's Deck
