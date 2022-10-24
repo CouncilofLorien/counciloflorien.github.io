@@ -3,7 +3,7 @@ layout: default
 title: Tournament Rulings
 parent: Collected Rulings File
 nav_order: 4
-permalink: /tournamentrulings
+permalink: /crf/tournamentrulings
 ---
 
 ## Tournament Rulings
