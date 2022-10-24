@@ -1,3 +1,8 @@
+---
+layout: default
+search_exclude: true
+---
+
 1997/98 Season MECCGChampionship Report
 
 October 2-4, 1998 in Toledo, OH
