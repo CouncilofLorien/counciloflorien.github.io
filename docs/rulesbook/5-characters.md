@@ -61,6 +61,19 @@ You have a pool of 20 general influence points. At the end of your organization 
 
 Some characters have a direct influence attribute of one or more. If such a character's direct influence is greater than or equal to another one of your characters' mind attribute, he may take control of that other character, who then becomes a follower of the controlling character. These conditions must be met:
 
+```mermaid
+graph TD
+    GI(20 General Influence) 
+    GI ---|6|Gm(Gimli:<br/>6 mind<br/>2 influence)
+    GI ---|9|Ar(Aragorn:<br/>9 mind<br/>3 influence<br/>+1 from Narsil)
+    GI ---|5| Fr(Frodo:<br/>5 mind<br/>1 influence<br/>+5 from <br/>The One Ring)
+    Ar---|3+1|Br(Boromir:<br/>4 mind)
+    Fr ---|1+5| Lg(Legolas:<br/>6 mind)
+    Gn(Gandalf:<br/>10 direct influence<br/>+2 from Lesser Ring) ---|4| Sm(Sam Gamgee:<br/>4 mind)
+    Gn ---|4| Mr(Merry:<br/>4 mind)
+    Gn ---|2| Pp(Pippin:<br/>4 mind)
+```
+
 ## BRINGING CHARACTERS INTO PLAY
 
 During your organization phase, you may perform one and only
@@ -68,7 +81,7 @@ one of the following activities:
 • You may play a non-Ringwraith character card.
 • You may play a Ringwraith card if you do not have one in play
 
-.metw }
+{: .metw }
 > one character at his home site or at any Haven **or** your Wizard at his home site or Rivendell
 
 {: .mele }
