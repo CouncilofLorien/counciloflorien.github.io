@@ -4,6 +4,7 @@ title: INTRODUCTION
 parent: RULESBOOK
 nav_order: 1
 permalink: /rulesbook/introduction
+search_exclude: true
 ---
 
 <details open markdown="block">
