@@ -3,6 +3,8 @@ layout: default
 title: Tournament Policy, Issue Number 1
 parent: News
 nav_order: 3
+nav_exclude: true
+search_exclude: true
 ---
 
 
