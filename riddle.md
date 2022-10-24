@@ -13,8 +13,6 @@ permalink: /riddle
 <i>—Counsel of Lórien</i>
 {: .px-8 .fs-4 .fw-500 .text-right }
 
-### Riddle the Counsel of Lórien
-
 <div class="contact-form">
 <form method="post" action="https://forms.un-static.com/forms/870c9fca8c1e2d184592d226cb8a21c725eed1a1">
   <input type="text" name="name" placeholder="Known as" required>
