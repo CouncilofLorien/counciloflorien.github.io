@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tournament Policy Number 3
+title: Tournament Policy Number 4
 parent: News
 nav_order: 1
 ---
@@ -8,21 +8,18 @@ nav_order: 1
 {: .text-alpha .text-center }
 Council of Lórien<br>
 Tournament Policy<br>
-Number 3<br>
+Number 4<br>
 
-As of May 9, 1998, the following policy is in place for official Sanctioned and Qualifier Council tournaments. A Sanctioned Council tournament is an MECCG event that requires advance approval for sanction status and use of the Council package for running the event, awarding Council prizes, and reporting results to ICE to rank the players. Winners of Sanctioned Council Events may qualify to participate in that year's Council of Lórien Annual Championship event. A Qualifier Council tournament is a special type of Sanctioned Council tournament that ICE determines in advance to guarantee the winner(s) participation in that year's Council of Lórien Annual Championship event.
+As of 2022, the following policy is in place for official Sanctioned and Qualifier Council tournaments. A Sanctioned Council tournament is an MECCG event that requires advance approval for sanction status and use of the Council package for running the event, awarding Council prizes, and reporting results to CoL to rank the players. Winners of Sanctioned Council Events may qualify to participate in that year's Council of Lórien Annual Championship event. A Qualifier Council tournament is a special type of Sanctioned Council tournament that CoL determines in advance to guarantee the winner(s) participation in that year's Council of Lórien Annual Championship event.
 
-ICE reserves the right to award Sanctioned or Qualifier status to MECCG tournaments and will periodically review its award policy. Non-sanctioned MECCG events may receive promo material and prize support, other than that reserved for Council of Lórien Sanctioned and Qualifier tournaments, from ICE, but winner(s) will not be ranked, and are not qualified to participate in that years Council of Lórien Annual Championship event.
+CoL reserves the right to award Sanctioned or Qualifier status to MECCG tournaments and will periodically review its award policy. Non-sanctioned MECCG events may receive promo material and prize support, other than that reserved for Council of Lórien Sanctioned and Qualifier tournaments, from CoL, but winner(s) will not be ranked, and are not qualified to participate in that years Council of Lórien Annual Championship event.
 
-Each Sanctioned or Qualifier tournament has a tournament coordinator. This is the person in charge of running the tournament. In the text below "tournament coordinator" means the coordinator or any staff member assigned by the coordinator to assist him or her. Tournament coordinators are responsible for seeing that the council guidelines are kept, prizes are properly awarded, and that that the tournament is run in a fair and impartial manner. Tournament coordinators need to make sure that all results (including the individual score sheets of each player) are returned to the Council of Lórien by the deadlines on page two so that they can be properly recorded. Failure to report the results of a Sanctioned or Qualified event may mean that ICE will not Sanction or Qualify future events run by said coordinator.
+Each Sanctioned or Qualifier tournament has a tournament coordinator. This is the person in charge of running the tournament. In the text below "tournament coordinator" means the coordinator or any staff member assigned by the coordinator to assist him or her. Tournament coordinators are responsible for seeing that the council guidelines are kept, prizes are properly awarded, and that that the tournament is run in a fair and impartial manner. Tournament coordinators need to make sure that all results (including the individual score sheets of each player) are returned to the Council of Lórien by the deadlines on page two so that they can be properly recorded. Failure to report the results of a Sanctioned or Qualified event may mean that CoL will not Sanction or Qualify future events run by said coordinator.
 
 ## General
 
-1. **Participation**—Anyone is welcome to participate in a Council of Lórien sanctioned tournament except:
-    1. ICE employees, their spouses, and their immediate family. Free-lance contractors and artists are eligible to compete.
-    2. Official representatives of Iron Crown Enterprises in an on-going agency status such as on-line representatives.
-    3. Show staff who are working in any capacity for ICE at the event where the tournament is run. This status includes people who wish to volunteer time running demos at an ICE booth, sanctioned demo, or sanctioned tournament area. This also includes any staff working a sales booth and anyone receiving a badge from ICE.
-2. **Two Player Games Only**—All Council matches will be between two players unless pre-approval is obtained. Solitaire tournaments will not be official Council events. To obtain permission for a multi-player event, the tournament coordinator must submit a written proposal for the tournament structure he or she proposes to use. All such submissions become the property of Iron Crown Enterprises which may choose to publish them (with credit to the original designer).
+1. **Participation**—Anyone is welcome to participate in a Council of Lórien sanctioned tournament.
+2. **Two Player Games Only**—All Council matches will be between two players unless pre-approval is obtained. Solitaire and multi-player tournaments require pre-approval. The tournament coordinator must submit a written proposal for the tournament structure he or she proposes to use.
 3. **Accommodations**—Players must be provided with reasonably comfortable accommodations. The playing environment must be clean and reasonably free of elements that pose a threat to the physical integrity of each player's cards.
 4. **Using Maps**—If standard rules are being used, an appropriate map of the regions of MECCG can be used to depict region movement (instead of using actual region cards). The text of region cards takes precedence over maps, however. Certain regions, which may appear to be adjacent on a map, in fact, are not listed as adjacent on the appropriate region cards (e.g., Rohan and Dagorlad, Cardolan and Lindon, Old Pûkel Gap and Andrast). Such regions are not considered adjacent, even when a map is used for region movement. Maps from the Middle-earth CCG Maps were designed to minimize any discrepancies.
 5. **Character Draft**—Starting characters will be determined by draft as per the guidelines printed on page 55 of the Middle-earth: The Wizards Companion and page 68 of the Middle-earth: The Lidless Eye Companion. This method is called the Character Draft (and is detailed below).
@@ -42,7 +39,7 @@ Each Sanctioned or Qualifier tournament has a tournament coordinator. This is th
 11. **Dual-Purpose Cards**—A card that can be played as either a resource or as a hazard can be counted in either the resource mix or hazard mix of a deck for the purposes of including an equal number of resources and hazards.
 12. **End-of-Game MP Modifications**—Players and the coordinator should make certain that, for standard rules games, all of the marshalling point modifications printed on page 39 of the Middle-earth: The Lidless Eye Companion are properly accounted for. The MELE Companion contains the most current version of the End-of-Game rules for all players. Interpret Audience with Sauron as End-of-Game for the general case. These modifications are to be interpreted in the order they are printed. Subtractions for eliminated characters are applied before these modifications, although subtractions for eliminated Wizards or Ringwraiths are applied after these modifications.
 
-## Rules of etiquette
+ ## Rules of etiquette
 
 13. **Deck Construction**—The cards used in deck building may be from any edition or expansion of MECCG (including non-English translations and official promotional cards). Cards existing only in non-English versions may not be used. The mechanics of any given card will be determined from the most recent English printing (as well as from official errata and the official rulings). No proxy cards will be allowed, except for those provided by the tournament director (see 16 below). Cards from any particular expansion may only be used in Council events after a minimum time of 30 days following their official retail release.
 14. **Deck Integrity**—Each player is required to use the same play deck, sideboard, pool of starting characters, and starting minor items for the entire tournament. The elements are collectively called the player's deck. No card substitutions are allowed between games. A player must start each game with the same cards in his or her play deck, sideboard, and pool of starting characters as he or she started the tournament. The tournament coordinator may choose to require each player to submit a written copy of all cards of all elements of his or her deck (spot checks may be used to ensure decks are legal).
@@ -59,7 +56,7 @@ Each Sanctioned or Qualifier tournament has a tournament coordinator. This is th
 21. **Rules Violations during Play**—Rules violations will probably occur in tournaments. It is suggested that these violations not be policed or worried about until a player involved notes it. At that point in the game, the correct rule is adopted. A previous violation is not affected or retroactively corrected after both players implicitly agree to the violation. For example, if a player chooses Sting (a unique minor item) for his starting company, and his opponent notices after the first turn of the game that unique minor items may not be chosen for starting companies, do not replace Sting at this point. If the opponent noticed the violation before either player had taken a first turn, the offending player must replace Sting with a non-unique minor item. The tournament coordinator may choose to immediately correct any rules violations brought to his or her attention.
 22. **Cheating**—If a player cheats, he or she is immediately ejected from the event. This should be reported to the Council of Lórien, so that further action can be taken if necessary. In a Swiss System format (see below), an opponent receives the maximum tournament points for the capability of his or her deck (as outline in 19 above).
 
-## Clarifications and Rulings
+ ## Clarifications and Rulings
 
 23. **Legal Play of Cards**—A player may not play a card just to discard it (i.e., just get it out of his or her hand). Specifically, a card may only be declared if it meets at least one of the following criteria.
     1. The card must have an immediate effect on the game.
@@ -72,7 +69,7 @@ Each Sanctioned or Qualifier tournament has a tournament coordinator. This is th
 27. **Revealing Manipulated Cards**—Certain cards, effects, and/or rules allow a player to search for cards and add them to his or her hand, play deck, or discard pile outside of the normal sequence of play (i.e., in addition to filling out the hand and drawing cards when a company moves). A player may or may not be required to reveal some or all of the identity of such manipulated cards. If the card manipulated must be a specific type of hazard or resource, then it must be revealed to the opponent. If the card must be either a hazard, resource, or character, then enough of the manipulated card's face must be revealed to show opponent that it is the correct type. If there are no restrictions on which cards may be manipulated, the manipulated card does not have to be revealed.
 28. **Official Rulings Source**—All rulings from the Collected Rulings File are official rulings for use with Council events.
 
-## Additional Rules
+ ## Additional Rules
 
 In addition to these guidelines, a few rules which do not appear in older versions of the rulesbook take effect for tournament play.
 
@@ -175,7 +172,7 @@ If your opponent declares he is a Fallen-wizard, he must also declare which one 
 
 ### The Sealed Deck Game
 
-Due to size considerations, sealed deck tournaments only require a 25/25 card minimum deck size (as printed in the rulesbook). For a sealed deck game tournament, each player receives a starter deck and three booster packs. ICE suggest using either 3 boosters from Middle-earth The Wizards, or 1 booster from Middle-earth the Wizards and two from either Middle-earth: Dragons or Middle-earth: Dark Minions. No other cards are allowed in the play area besides the cards received from the Tournament Coordinator. Tournament coordinators should feel free to enforce this policy any way they see fit.
+Due to size considerations, sealed deck tournaments only require a 25/25 card minimum deck size (as printed in the rulesbook). For a sealed deck game tournament, each player receives a starter deck and three booster packs. CoL suggest using either 3 boosters from Middle-earth The Wizards, or 1 booster from Middle-earth the Wizards and two from either Middle-earth: Dragons or Middle-earth: Dark Minions. No other cards are allowed in the play area besides the cards received from the Tournament Coordinator. Tournament coordinators should feel free to enforce this policy any way they see fit.
 
 Each player is allowed 45 minutes to construct a deck for a one-deck game. It will have to determined if standard or starter rules are being used by the tournament coordinator. It should be noted that on average, seven cards (not counting region cards) from each player's set of cards will not be playable at all. Players should be aware of this extra baggage when constructing their decks. If a player does not have 25 playable hazards or resources, he or she should play with all that he or she does have, and still play with 25 of the other.
 
@@ -198,7 +195,7 @@ A complete copy of these scenarios can also be found on the [Scenarios](/) page
 
 Resource/character scenario game tournaments can be run within the same tournament Swiss System structure as the other Free Council games (which are the games presented in the rulesbook). Each player attempts to complete the victory conditions of his or her chosen scenario instead of playing for the Free Council. After starting characters are revealed, each player must announce to the opponent which scenario he or she has chosen. The opponent then knows what victory conditions the player is trying to achieve.
 
-Other resource/character scenarios can be used if approved by the Council of Lórien. To obtain permission, the tournament coordinator must submit a written proposal for the scenarios he or she proposes to use. Original scenarios so submitted become the property of Iron Crown Enterprises, which may choose to publish them (with credit to the original designer).
+Other resource/character scenarios can be used if approved by the Council of Lórien. To obtain permission, the tournament coordinator must submit a written proposal for the scenarios he or she proposes to use.
 
 - Time Limit—For a Resource/Character Scenario tournament game, time is called after one hour . If, at this point, no player has achieved the victory conditions for his or her scenario, the player who currently is taking his or her turn finishes the turn. If the opponent did not have the first turn, the opponent then takes one final turn (i.e., both players get the same number of turns). Assuming in the interim no player achieves the victory conditions for his or her chosen scenario, the winner is the player who achieves the higher "rank" as indicated by his or her specific scenario.
 - Ties—If both players have achieved the same "rank" as indicated by the specific scenarios, the players tie. Each receives 3 tournament points.
