@@ -39,7 +39,7 @@ Each Sanctioned or Qualifier tournament has a tournament coordinator. This is th
 11. **Dual-Purpose Cards**—A card that can be played as either a resource or as a hazard can be counted in either the resource mix or hazard mix of a deck for the purposes of including an equal number of resources and hazards.
 12. **End-of-Game MP Modifications**—Players and the coordinator should make certain that, for standard rules games, all of the marshalling point modifications printed on page 39 of the Middle-earth: The Lidless Eye Companion are properly accounted for. The MELE Companion contains the most current version of the End-of-Game rules for all players. Interpret Audience with Sauron as End-of-Game for the general case. These modifications are to be interpreted in the order they are printed. Subtractions for eliminated characters are applied before these modifications, although subtractions for eliminated Wizards or Ringwraiths are applied after these modifications.
 
- ## Rules of etiquette
+ <h2>Rules of etiquette</h2>
 
 13. **Deck Construction**—The cards used in deck building may be from any edition or expansion of MECCG (including non-English translations and official promotional cards). Cards existing only in non-English versions may not be used. The mechanics of any given card will be determined from the most recent English printing (as well as from official errata and the official rulings). No proxy cards will be allowed, except for those provided by the tournament director (see 16 below). Cards from any particular expansion may only be used in Council events after a minimum time of 30 days following their official retail release.
 14. **Deck Integrity**—Each player is required to use the same play deck, sideboard, pool of starting characters, and starting minor items for the entire tournament. The elements are collectively called the player's deck. No card substitutions are allowed between games. A player must start each game with the same cards in his or her play deck, sideboard, and pool of starting characters as he or she started the tournament. The tournament coordinator may choose to require each player to submit a written copy of all cards of all elements of his or her deck (spot checks may be used to ensure decks are legal).
@@ -56,7 +56,7 @@ Each Sanctioned or Qualifier tournament has a tournament coordinator. This is th
 21. **Rules Violations during Play**—Rules violations will probably occur in tournaments. It is suggested that these violations not be policed or worried about until a player involved notes it. At that point in the game, the correct rule is adopted. A previous violation is not affected or retroactively corrected after both players implicitly agree to the violation. For example, if a player chooses Sting (a unique minor item) for his starting company, and his opponent notices after the first turn of the game that unique minor items may not be chosen for starting companies, do not replace Sting at this point. If the opponent noticed the violation before either player had taken a first turn, the offending player must replace Sting with a non-unique minor item. The tournament coordinator may choose to immediately correct any rules violations brought to his or her attention.
 22. **Cheating**—If a player cheats, he or she is immediately ejected from the event. This should be reported to the Council of Lórien, so that further action can be taken if necessary. In a Swiss System format (see below), an opponent receives the maximum tournament points for the capability of his or her deck (as outline in 19 above).
 
- ## Clarifications and Rulings
+  <h2> Clarifications and Rulings</h2>
 
 23. **Legal Play of Cards**—A player may not play a card just to discard it (i.e., just get it out of his or her hand). Specifically, a card may only be declared if it meets at least one of the following criteria.
     1. The card must have an immediate effect on the game.
@@ -69,7 +69,7 @@ Each Sanctioned or Qualifier tournament has a tournament coordinator. This is th
 27. **Revealing Manipulated Cards**—Certain cards, effects, and/or rules allow a player to search for cards and add them to his or her hand, play deck, or discard pile outside of the normal sequence of play (i.e., in addition to filling out the hand and drawing cards when a company moves). A player may or may not be required to reveal some or all of the identity of such manipulated cards. If the card manipulated must be a specific type of hazard or resource, then it must be revealed to the opponent. If the card must be either a hazard, resource, or character, then enough of the manipulated card's face must be revealed to show opponent that it is the correct type. If there are no restrictions on which cards may be manipulated, the manipulated card does not have to be revealed.
 28. **Official Rulings Source**—All rulings from the Collected Rulings File are official rulings for use with Council events.
 
- ## Additional Rules
+ <h2> Additional Rules</h2>
 
 In addition to these guidelines, a few rules which do not appear in older versions of the rulesbook take effect for tournament play.
 
@@ -89,7 +89,7 @@ The Swiss System format can be used for any of the actual types of games being r
 - _Number of rounds_—A Swiss System tournament is comprised of a certain number of rounds as dictated by the number of participants in the tournament.
 
 | Players | Rounds | Official |
-| --- | --- | --- |
+| ---: | :--- | --- |
  2 | 1 | No
 3-4 | 2 | No
 5 | 3 | No
@@ -103,7 +103,7 @@ The Swiss System format can be used for any of the actual types of games being r
 - _Awarding Byes_—For each round, it must be determined if an even or odd number of players are participating. If an odd number are participating, one player is given a "bye". The player given the bye does not play a game that round. If a bye needs to be given for the first round, the tournament coordinator randomly chooses a player from all players. If a bye needs to be given for any later rounds, the tournament coordinator randomly chooses one player from the group of players having the lowest tournament point totals. No player should recieve two byes in one tournament. A player given a bye recieves tournament points depending on the round of the tournament:
     
 | Round | Points |
-| --- | --- |
+| ---: | :--- |
  1 | 6
 2 | 5
 3 | 4
