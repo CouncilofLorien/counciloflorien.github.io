@@ -6,7 +6,15 @@ nav_order: 4
 permalink: /crf/tournamentrulings
 ---
 
-## Tournament Rulings
+<details markdown="block">
+  <summary>
+   TOURNAMENT RULINGS
+  </summary>
+  {: .text-alpha }
+- TOC
+{:toc}
+</details>
+
 - Tournament rulings are modifications and additions to the rules presented in the Unlimited Edition of the Rulebook that are required for sanctioned Council of Lórien tournament play.
 
 ### General
