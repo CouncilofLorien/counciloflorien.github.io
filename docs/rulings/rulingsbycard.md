@@ -3,6 +3,7 @@ layout: default
 title: Rulings by Card
 parent: Collected Rulings File
 nav_order: 5
+permalink: /rulingsbycard
 ---
 
 ### -= AAA =-
