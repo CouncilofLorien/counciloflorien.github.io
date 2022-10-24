@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Council of Lórien
+# title: Council of Lórien
 nav_order: 1
 search_exclude: true
 nav_exclude: true
