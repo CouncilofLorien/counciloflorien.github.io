@@ -4,6 +4,7 @@ title: Collected Rulings File
 nav_order: 2
 has_children: true
 permalink: /docs/crf
+has_toc: false
 ---
 
 <details open markdown="block">
