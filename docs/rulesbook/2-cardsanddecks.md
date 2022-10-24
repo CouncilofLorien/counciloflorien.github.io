@@ -4,6 +4,7 @@ title: 2 • THE CARDS AND THE DECKS
 parent: RULESBOOK
 nav_order: 3
 permalink: /rulesbook/cardsanddecks
+search_exclude: true
 ---
 
 ## 2 • THE CARDS AND DECKS
