@@ -4,6 +4,7 @@ title: 1 • THE VICTORY CONDITIONS
 parent: RULESBOOK
 nav_order: 2
 permalink: /rulesbook/victoryconditions
+search_exclude: true
 ---
 
 <details open markdown="block">
