@@ -6,6 +6,9 @@ nav_order: 7
 permalink: /crf/delayedrulings
 ---
 
+{: .text-alpha }
+DELAYED RULINGS
+
 ### Rulings Monday
 
 Rulings for the Middle-earth: Collectible Card Game fall into two categories now. First are those which cover ambiguous situations, and those rulings take effect immediately. Second are those which reverse previous rulings, introduce new rulings on non-ambiguous situations, and errata. These rulings will not take effect in tournament play for two to four weeks.
