@@ -6,6 +6,15 @@ nav_order: 6
 permalink: /crf/errata
 ---
 
+<details markdown="block">
+  <summary>
+   COMPLETE ERRATA LISTING
+  </summary>
+  {: .text-alpha }
+- TOC
+{:toc}
+</details>
+
 ## Rules Errata
 - When a company splits, any of the resulting companies can move with region movement. Region movement is not limited to one company of a split.
 - You may play a character if you do not have enough influence to control them. However, if there are any characters you do not have the influence to control at the end of your organization phase, the character you brought into play this turn must be returned to your hand.
