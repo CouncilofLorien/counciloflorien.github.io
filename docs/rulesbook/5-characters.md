@@ -40,13 +40,13 @@ _Race:_ This is one criterion for using certain resources and for bringing certa
 
 _Skills:_ This is one of the criterion for using certain cards (e.g., warrior skill is required to use certain weapons). The skills are: warrior, scout, ranger, sage, and diplomat. Some characters have more than one skill.
 
-_Direct Influence_ \[ ![](/assets/images/DI-18.png) ]: A character's direct influence determines which and how many of your characters he may control (i.e., have as followers). In addition, a character's unused direct influence affects his chances of influencing factions and your opponent's resources.
+_Direct Influence_ \[ ![](/assets/images/DI-18.png) ![](/assets/images/DI.svg) ]: A character's direct influence determines which and how many of your characters he may control (i.e., have as followers). In addition, a character's unused direct influence affects his chances of influencing factions and your opponent's resources.
  
 _Prowess_ \[lower left, to left of "/"]: A character's prowess is a measure of a character's offensive capabilities in combat.
  
 _Body_ \[lower  left,  to right of "/"]: A character's body is a measure of how difficult it is to physically eliminate the character. This is a mixture of the ability to  avoid an attack (e.g., dodging) and the ability to absorb or deflect an attack (e.g., armor, shield, blocking).
  
-_Mind_ \[ ![](/assets/images/mind-18.png) ] : A character's mind determines how many influence points (general influence points or a character's direct influence points) are required to keep this character in play (i.e., controlled). Your avatar character has no mind and requires no influence to control.
+_Mind_ \[ ![](/assets/images/mind-18.png) ![](/assets/images/mind.svg) ] : A character's mind determines how many influence points (general influence points or a character's direct influence points) are required to keep this character in play (i.e., controlled). Your avatar character has no mind and requires no influence to control.
  
 _Marshaling  Points_ \[ upper left ]: This is the number of marshaling points you receive when you have the character in play. This value represents the character's importance to your mission.
  
