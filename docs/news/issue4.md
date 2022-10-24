@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tournament Policy Number 4
+title: Tournament Policy
 parent: News
 nav_order: 1
 ---
