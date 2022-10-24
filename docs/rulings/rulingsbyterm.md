@@ -3,7 +3,7 @@ layout: default
 title: Rulings by Term
 parent: Collected Rulings File
 nav_order: 3
-permalink: /rulingsbyterm
+permalink: /crf/rulingsbyterm
 ---
 
 ### -=AAA=-
