@@ -4,6 +4,7 @@ title: 3 • GETTING READY TO PLAY
 parent: RULESBOOK
 nav_order: 4
 permalink: /rulesbook/gettingready
+search_exclude: true
 ---
 
 # 3 • GETTING READY TO PLAY
