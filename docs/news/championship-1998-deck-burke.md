@@ -1,3 +1,8 @@
+---
+layout: default
+search_exclude: true
+---
+
 Chris Burke's
 Championship Deck
 
