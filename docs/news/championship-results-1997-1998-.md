@@ -1,3 +1,8 @@
+---
+layout: default
+search_exclude: true
+---
+
 1997/98 MECCG Council of Lórien Championship Results
 
 [23 Hero Decks, 10 Minion Decks, 4 Fallen-wizards]
