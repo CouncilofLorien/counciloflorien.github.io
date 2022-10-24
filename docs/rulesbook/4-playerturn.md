@@ -4,6 +4,7 @@ title: 4 • THE PLAYER TURN
 parent: RULESBOOK
 nav_order: 5
 permalink: /rulesbook/playerturn
+search_exclude: true
 ---
 
 Play  consists  of  a series of "Player Turns." During your  turn,  follow  the steps  outlined in this section. Then, your opponent does the same during his turn. You and your opponent alternate turns until the game ends.
