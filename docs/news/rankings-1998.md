@@ -1,3 +1,8 @@
+---
+layout: default
+search_exclude: true
+---
+
 https://web.archive.org/web/19990222023547/http://ironcrown.com:80/ccgs/lorien/col1998playerranks.html
 
 Sanctioned Tournament Main
