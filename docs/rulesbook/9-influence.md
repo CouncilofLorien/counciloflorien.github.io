@@ -4,6 +4,7 @@ title: 9 • INFLUENCE
 parent: RULESBOOK
 nav_order: 10
 permalink: /rulesbook/influence
+search_exclude: true
 ---
 
 You  have  a pool of general influence. Your characters and Wizard have  direct
