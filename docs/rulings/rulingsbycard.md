@@ -6,6 +6,15 @@ nav_order: 5
 permalink: /crf/rulingsbycard
 ---
 
+<details markdown="block">
+  <summary>
+   RULINGS BY CARD
+  </summary>
+  {: .text-alpha }
+- TOC
+{:toc}
+</details>
+
 ### -= AAA =-
 
 #### A Strident Spawn
