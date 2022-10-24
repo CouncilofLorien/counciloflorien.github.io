@@ -6,6 +6,15 @@ nav_order: 2
 permalink: /crf/turnsequence
 ---
 
+<details markdown="block">
+  <summary>
+   TURN SEQUENCE RULINGS
+  </summary>
+  {: .text-alpha }
+- TOC
+{:toc}
+</details>
+
 ### Beginning of the Game
 - If a character is put in the deck due to duplication in the starting company, then it does not count against the 10 character limit.
 - You should either draw numbers for the whole game or roll dice for the whole game.
