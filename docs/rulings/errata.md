@@ -6,14 +6,8 @@ nav_order: 6
 permalink: /crf/errata
 ---
 
-<details markdown="block">
-  <summary>
-   COMPLETE ERRATA LISTING
-  </summary>
-  {: .text-alpha }
-- TOC
-{:toc}
-</details>
+{: .text-alpha }
+COMPLETE ERRATA LISTING
 
 ## Rules Errata
 - When a company splits, any of the resulting companies can move with region movement. Region movement is not limited to one company of a split.
