@@ -19,50 +19,39 @@ permalink: /rulesbook/characters
 
 As a player, you influence and control a number of characters that move and act in the world of Middle-earth. Each character’s abilities are defined by these attributes: race, skills, direct influence, prowess (offense), body (defense), mind, marshalling points, and special abilities (e.g., corruption check modifiers). A character can be _eliminated_ and removed from play as a result of combat (failing a body check) or corruption (failing a corruption check [^fail] ).
 
-If you have enough general influence or direct influence during a given turn, you may bring into play:
+Characters are controlled by your pool of 20 general influence points or by another character's direct influence. See [Influencing (Controlling) a Character](/rulesbook/characters#influencing-controlling-a-character. See [Direct Influence](/rulesbook/characters#direct-influence) for an extended example.
 
-{: .metw }
-> one character at his home site or at any Haven **or** your Wizard at his home site or Rivendell.
+If you have enough general influence or direct influence during a given turn, you may bring a character into play. See [Bringing Characters into Play](/rulesbook/characters#bringing-characters-into-play)). 
 
-{: .mele }
-> one non-Ringwraith character at his home site or at any Darkhaven **or** your Ringwraith at his homesite or Minas Morgul.
+During play, you may organize your characters into groups called companies. See [Companies](/rulesbook/characters#bringing-characters-into-play).  
 
-{: .mewh }
-> one character at his home site or at any Wizardhaven **or** your Fallen-wizard at his home site.
+Companies can combine at a Haven—just remove all but one of the companies’ Haven site cards. The resulting company then has one site card consisting of a Haven site card. 
 
-{: .meba }
-> one character at their home site or at any Darkhaven **or** The Balrog at The Under-gates; and one non-unique character at their home site or at any Darkhaven.
+One company can split into two or more companies and two or more companies may join. See [Splitting a Company???](/rulesbook/characters) and [Joining Companies???](/rulesbook/characters).
 
-Characters are primarily controlled by your pool of 20 general influence points. For each controlled character, you must commit a number of general influence points equal to his mind attribute. In addition, you may control a character by using another character’s direct influence—a character controlled in this fashion is called a _follower_ and does not use general influence points. [See page 21 for an extended example.]()
-
-During play, you may organize your characters into groups called companies. A company’s _size_ is equal to the number of characters in it, with each Hobbit character only counting half (round up). A company is limited to a size of seven. A company’s _hazard limit_ is equal to two or the size of the company, whichever is greater. The maximum number of hazards that can be played on a company during a given movement/hazard phase is equal to its hazard limit. 
-
-Companies can only combine at a Haven—just remove all but one of the companies’ Haven site cards. The resulting company then has one site card consisting of one Haven site card. One company can split into two or more companies only at a Haven (use two Haven cards).
-
-One company can split into two or more companies only at a Haven [^splittingatanon-haven] (use two Haven cards).
-
-> **Note:** The number of characters you have in play limits the number of actions you may take during a given turn. You use your Wizard’s general influence or your other characters’ direct influence on a character to bring that character into play and to keep it in play. A character in play can move and take actions (e.g., defending against attacks, influencing, etc.). Items, allies, and other cards representing things a character acquires and controls are placed under his card.
+> **Note:** The number of characters you have in play limits the number of actions you may take during a given turn. You use your general influence or your other characters’ direct influence on a character to bring that character into play and to keep him in play. A character in play can move and take actions (e.g., defending against attacks, influencing, etc.). Items, allies, and other cards representing things a character acquires and controls are placed under his card.
+> **Clarification:** Even if you have no characters in play, the game is not over. You may continue to draw and discard cards—eventually you will draw a character.
 
 ## CHARACTER ATTRIBUTES
 
-Each character's abilities are defined by the fo llowing attributes (the notation for certain attributes is given in brackets).
+Each character's abilities are defined by the following attributes (the notation for certain attributes is given in brackets).
 
 _Race:_ This is one criterion for using certain resources and for bringing certain items, characters, and factions into play (e.g., only a Dwarf can fully utilize a Dwarven Ring). The races are: Elf, Hobbit, Dwarf, Dunadan, Man, Wizard, Orc, Troll, and Ringwraith.
 
 _Skills:_ This is one of the criterion for using certain cards (e.g., warrior skill is required to use certain weapons). The skills are: warrior, scout, ranger, sage, and diplomat. Some characters have more than one skill.
 
-_Direct  Influence [ i ]:_ A character's direct influence determines how many of your characters he may control (i.e., have as followers). In addition, a character's unused direct influence affects his chances of influencing factions and your opponent's resources.
+_Direct Influence_ \[ ![](/assets/images/DI-18.png) ]: A character's direct influence determines which and how many of your characters he may control (i.e., have as followers). In addition, a character's unused direct influence affects his chances of influencing factions and your opponent's resources.
  
-_Prowess  [lower left, to left of "/"]:_ A character's prowess is a measure of a character's offensive capabilities in combat.
+_Prowess_ \[lower left, to left of "/"]: A character's prowess is a measure of a character's offensive capabilities in combat.
  
-_Body  [lower  left,  to right of "/"]:_ A character's body is a measure of how difficult it is to physically damage the character. This is a mixture of the ability to  avoid an attack (e.g., dodging) and the ability to absorb or deflect an attack (e.g., armor, shield, blocking).
+_Body_ \[lower  left,  to right of "/"]: A character's body is a measure of how difficult it is to physically eliminate the character. This is a mixture of the ability to  avoid an attack (e.g., dodging) and the ability to absorb or deflect an attack (e.g., armor, shield, blocking).
  
-_Mind  [ m ]:_ A character's mind determines how many influence points (a Wizard's  general  influence  points  or  a  character's  direct  influence  points)  are  required to keep this character in play (i.e., controlled).
+_Mind_ \[ ![](/assets/images/mind-18.png) ] : A character's mind determines how many influence points (general influence points or a character's direct influence points) are required to keep this character in play (i.e., controlled). Your avatar character has no mind and requires no influence to control.
  
-_Marshaling  Points [ upper left ]:_ This is the number of marshaling  points  you receive  when  you  have  the  character in play.  This  value  represents  the character's importance to the Free Peoples' struggle against Sauron.
+_Marshaling  Points_ \[ upper left ]: This is the number of marshaling points you receive when you have the character in play. This value represents the character's importance to your mission.
  
-_Special  Abilities:_ Some characters have special abilities that are detailed  on their  cards and certain resource cards. For example, Faramir has an  influence bonus  against the Rangers of Ithilien faction,  owyn has a heightened  prowess against Nazgul, Frodo has a corruption check modifier, etc.
-
+_Special Abilities:_ Some characters have special abilities that are detailed on their cards. Common special abilities include corruption check modifiers, influence bonuses, prowess bonuses. For example,
+Faramir has an influence bonus against the _Rangers of Ithilien_ faction, Éowyn has a prowess bonus against Nazgûl, Frodo has a corruption check modifier, etc. 
 
 ## INFLUENCING (CONTROLLING) A CHARACTER
 
