@@ -3,7 +3,7 @@ layout: default
 title: Delayed Rulings
 parent: Collected Rulings File
 nav_order: 7
-permalink: /delayedrulings
+permalink: /crf/delayedrulings
 ---
 
 ### Rulings Monday
