@@ -240,4 +240,21 @@ While direct conflict can occur between companies of good and evil, most conflic
 ## The Balrog
 
 {: .meba }
+>  
+> <h2>INTRODUCTION</h2>
+> 
+> There are two different _Middle-earth: The Balrog_ (_MEBA_) boxes—The Shadow-deeps (reddish) and the Balrog's Host (bluish). Together, these two boxes contain at least one copy of each of the 104 _MEBA_ expansion cards. So, if you have purchased both boxes, you have a complete set of the _MEBA_ cards. 
+> 
+> Each _MEBA_ box contains all of the cards for a preconstructed _Middle-earth Collectible Card Game_ (_MECCG_) deck—everything you need, except for a pair of dice, to challenge any opponent to a fun and competitive match of _MECCG_.
+> 
+> This rulesbook has four parts:
+> - The specific rules for _MEBA_
+> - The play tips and deck lists for the two preconstructed _MEBA_ decks
+> - The _MECCG_ rules summary
+> The card diagrams and Middle-earth map
+> 
+> <h2>INTRODUCTION</h2>
+> 
+> This is an expansion set of over 100 cards for the _Middle-earth Collectible Card Game_. While it is fully compatible with both _Middle-earth: The Wizards_ and _Middle-earth: The Lidless Eye_, _Middle-earth: The Balrog_ focuses on a player using resources from _The Lidless Eye_. 
+> 
 > The Balrog is supremely confident of his own immense personal power. After all, just like Sauron, he was one of Morgoth's chief lieutenants. The Balrog tends to rely on brute force and direct confrontation rather than more subtle approaches often used by Ringwraiths and Wizards. His goals are basic and simple—accumulate power and destroy his enemies. If he can do this, he can become a dominant power in Middle-earth—a factor to which both the Dark Lord and the Free Peoples will be forced to react.
