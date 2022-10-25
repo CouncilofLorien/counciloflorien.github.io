@@ -171,7 +171,7 @@ callouts:
     title: Suggestion
     color: grey-md
   metw:
-    color: meul
+    color: metw
   meul:
     color: meul
   mele:
@@ -179,6 +179,21 @@ callouts:
   mewh:
     color: mewh
   meba:
+    color: meba
+  metw-title:
+    title: The Wizards
+    color: metw
+  meul-title:
+    title: The Wizards Unlimited
+    color: meul
+  mele-title:
+    title: The Lidless Eye
+    color: mele
+  mewh-title:
+    title: The White Hand
+    color: mewh
+  meba-title:
+    title: The Balrog
     color: meba
   lore:
     title: Lore
