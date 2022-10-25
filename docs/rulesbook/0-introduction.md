@@ -57,9 +57,11 @@ While direct conflict can occur between companies of good and evil, most conflic
 - For timing purposes, all cards in _Middle-earth_ are played and tapped with the same "speed" (effects take place instantly). But, a player may only play resource cards during his own turn, and a player may only play hazard cards during his opponent's movement/hazard phase.
   > **Clarification:** The card, Twilight, is an exception to this rule—it can be played at anytime, either as a resource or as a hazard (it does not count against the hazard limit). Certain other cards specifically state when they may be played.
 
-# The Wizards Limited
+# ARCHIVE
 
-{: .metw-title }
+## The Wizards Limited
+
+{: .metw }
 > During the Third Age, the Valar sent five Maiar to Middle-earth to unite and counsel the Free Peoples in their struggles against Sauron, the Dark Lord. However, they were forbidden to dominate the peoples of Middle-earth or to match the power of Sauron with power. These five were known as “Wizards” (also called Istari) in Middle-earth, and individually they were called: Gandalf, Saruman, Radagast, Alatar, and Pallando.
 > 
 >  _In Middle-earth: The Wizards_, you play one of these five Wizards. Your goal is to marshal the forces of the Free Peoples so that Sauron can be resisted until the One Ring is destroyed. Since your fellow Wizards do not agree on how to best accomplish this goal, you must battle for the minds, bodies, and souls of the Free Peoples.
@@ -68,18 +70,21 @@ While direct conflict can occur between companies of good and evil, most conflic
 > 
 > "Evil forces" are represented by _hazards_ that the players use against one another. For example, if you move a character into Moria, your opponent could play a Troll card as a hazard. These hazards are not "controlled" by the Wizards, but rather they represent the forces of Sauron, who himself is in a "dormant" or hiding phase. The players are "good," so conflict takes the form of hazards and direct attempts to "persuade" or "dominate" each other and each other's characters and forces.
 > 
-> ## USING THIS RULESBOOK
+> <h2>USING THIS RULESBOOK</h2>
 > 
 > The  rules  for playing the Middle-earth: The Wizards (METW) game are organized into four parts:
-> _The Starter Rules_ — These rules contain all of the guidelines you need to play METW. These rules have been designed to simplify teaching the game and to speed up play. You should use the Starter Rules if you and your opponent have never played this game before or if one of you only has access to a starter deck (76 cards).
-> If  you  are already an experienced player of collectible card games, you can initially read the next couple of pages and the sections marked with a bar on one side. Then, as you play, you can refer to the other sections that detail the more complex rules and special situations that can arise during play.
-> _The Standard Rules_ — These rules assume you have already played several games using the Starter Rules. The Standard Rules consist  of additions and extensions to the Starter Rules that make play and deck building more flexible, exciting, and interesting. We  recommend that experienced METW players use all of the Standard Rules.
-> _The Optional Rules_ — These rules provide interesting variations to the standard rules. Before play begins, both players must agree on which optional rules are to be used.
-> _The Appendices_ — This part contains reference material that can prove useful during play: an index, a map of Middle-earth, a full turn summary, a symbol key, etc.
+> 
+> - _The Starter Rules_ — These rules contain all of the guidelines you need to play METW. These rules have been designed to simplify teaching the game and to speed up play. You should use the Starter Rules if you and your opponent have never played this game before or if one of you only has access to a starter deck (76 cards).<br>If you are already an experienced player of collectible card games, you can initially read the next couple of pages and the sections marked with a bar on one side. Then, as you play, you can refer to the other sections that detail the more complex rules and special situations that can arise during play.
+> - _The Standard Rules_ — These rules assume you have already played several games using the Starter Rules. The Standard Rules consist  of additions and extensions to the Starter Rules that make play and deck building more flexible, exciting, and interesting. We  recommend that experienced METW players use all of the Standard Rules.
+> - _The Optional Rules_ — These rules provide interesting variations to the standard rules. Before play begins, both players must agree on which optional rules are to be used.
+> - _The Appendices_ — This part contains reference material that can prove useful during play: an index, a map of Middle-earth, a full turn summary, a symbol key, etc.
+> 
 > The Starter and Standard Rules are for a two-player game; multi-player rules are provided in the Optional Rules.
 > 
-> ## PLAYER TURN SUMMARY
+> <h2>PLAYER TURN SUMMARY</h2>
+> 
 > Play consists of a series of "Player Turns." During your turn, follow the steps outlined in this turn summary. Then, your opponent does the same during his turn. You and your opponent alternate turns until the game ends.
+> 
 > - _**Untap Phase**_ — Each of your characters may do one of the following: Untap or Heal (if at a Haven site). In addition, untap all of your other tapped non-site cards.
 > - _**Organization Phase**_ — You take the following actions in any order: play one character (or your Wizard), reorganize your companies, transfer items between characters (corruption checks required), and store items (corruption checks required). In addition, each of your companies may plan its movement by playing a new site card face down on its present site card.
 > - _**Long-event Phase**_ — Remove all of your resource long-events already in play. Play  any new resource long-event cards. Remove all of your opponent's hazard long-events.
