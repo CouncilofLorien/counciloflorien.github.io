@@ -13,6 +13,6 @@ has_toc: false
    NEWS
   </summary>
   {: .text-alpha }
- - [TOURNAMENT POLICY NO. 4](/news/issue4/)
+ - [TOURNAMENT POLICY](/news/issue4)
  {: .text-beta }
 </details>
