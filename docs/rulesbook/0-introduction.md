@@ -161,9 +161,14 @@ While direct conflict can occur between companies of good and evil, most conflic
 > > **Clarification:** The card, Twilight, is an exception to this rule—it can be played at anytime, either as a resource or as a hazard (it does not count against the hazard limit). Certain other cards specifically state when they may be played.
 
 ## The Dragons
+
+{: .metd }
 > This insert provides expansion rules, clarifications, and a scenario for use with both _Middle-earth: The Wizards_ (_METW_) and _Middle-earth: The Dragons_ (_METD_). These rules are recommended for all _METW_ games even if _METD_ is not used.
 
+
 ## Dark Minions
+
+{: .medm }
 > This insert provides expansion rules and clarifications for use with all _Middle-earth Collectible Card Game_ (_MECCG_) products.
 
 ## The Lidless Eye
@@ -211,6 +216,8 @@ While direct conflict can occur between companies of good and evil, most conflic
 > > **Note:** For purposes of readability, these rules use the standard masculine pronouns when referring to a person of uncertain gender. In such cases, these pronouns are intended to convey the meanings: she/he, him/her, etc.
 
 ## Against the Shadow
+
+{: .meas }
 > This insert provides expansion rules and clarifications for use with all _Middle-earth Collectible Card Game_ (_MECCG_) products.
 
 ## The White Hand
