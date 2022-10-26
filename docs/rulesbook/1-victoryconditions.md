@@ -229,7 +229,7 @@ Finally, you may reveal any unique marshalling point cards in your hand that mat
 ## The Wizards Unlimited
 
 {: .meul }
-> <h1>1 • THE VICTORY CONDITIONS</h2>
+> <h1>1 • THE VICTORY CONDITIONS</h1>
 > 
 > The game ends when one of the following occurs during play:
 > 1. If your Wizard is "eliminated" (i.e., through combat or corruption)—your opponent wins.
@@ -240,7 +240,7 @@ Finally, you may reveal any unique marshalling point cards in your hand that mat
 > - You may choose to call the council at the end of your turn if you have accumulated at least 20 marshalling points. The council starts at the end of your opponent's next turn (i.e., your opponent gets one last turn).
 > > **Note:** If one or both players only has access to a starter deck (76 cards), this requirement of 20 marshaling points should be lowered to 18.
 > 
-> <h2>The Free Council</h3>
+> <h2>The Free Council</h2>
 > 
 > Just before the Free Council, each character must make a corruption check. The player who took the last turn makes corruption checks for his characters first. 
 > 
@@ -282,6 +282,7 @@ one Wizard has failed his corruption check (the other player wins). If both Wiza
 > > | Elladan | Total CPs: 0 | 1 |
 > 
 > <h3>Marshalling Point Modifications</h3>
+> 
 > At  the Free Council, you may reveal any unique marshaling point cards in your hand that match unique cards that your opponent has in play. Each such revealed card reduces your opponent's marshaling point total by one.
 > 
 > There  are six different types of marshalling points; each is associated with a specific shape:
