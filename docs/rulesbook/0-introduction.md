@@ -289,3 +289,4 @@ While direct conflict can occur between companies of good and evil, most conflic
 > This is an expansion set of over 100 cards for the _Middle-earth Collectible Card Game_. While it is fully compatible with both _Middle-earth: The Wizards_ and _Middle-earth: The Lidless Eye_, _Middle-earth: The Balrog_ focuses on a player using resources from _The Lidless Eye_. 
 > 
 > The Balrog is supremely confident of his own immense personal power. After all, just like Sauron, he was one of Morgoth's chief lieutenants. The Balrog tends to rely on brute force and direct confrontation rather than more subtle approaches often used by Ringwraiths and Wizards. His goals are basic and simple—accumulate power and destroy his enemies. If he can do this, he can become a dominant power in Middle-earth—a factor to which both the Dark Lord and the Free Peoples will be forced to react.
+
