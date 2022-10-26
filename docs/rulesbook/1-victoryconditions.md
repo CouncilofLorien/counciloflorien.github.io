@@ -16,15 +16,6 @@ search_exclude: true
 {:toc}
 </details>
 
-Test Links:
-
-[Link to active conditions3](/crf/rulingsbyterm#activeconditions3)
-
-[Link to active conditions base heading](/crf/rulingsbyterm#active-conditions)
-
-[Link to active conditions3](/crf/rulingsbyterm#activeconditions8)
-
-
 The game ends when one of the following occurs during play:
  1. Defeat by elimination or corruption
  2. Victory by _The One Ring_
@@ -67,9 +58,9 @@ In  a  "4-deck  game" (i.e., the "campaign game"), the Council is  called  when 
 > 1. If your Wizard is "eliminated" (i.e., through combat or corruption)—your opponent wins.
 > 2. If you move _The One Ring_ to Mount Doom and play certain cards—_The One Ring_ is destroyed and you win.
 > 3. Otherwise, the winner is decided at the _Free Council_.<br>This council is called when one of the following occurs:
-> - When each play deck has been exhausted once, the council starts at the end of the current turn.
-> - After you have exhausted your play deck for the first time, you may choose to call the council at the end of any of your turns. The council starts at the end of your opponent's next turn (i.e., your opponent gets one last turn).
-> - You may choose to call the council at the end of your turn if you have accumulated at least 20 marshalling points. The council starts at the end of your opponent's next turn (i.e., your opponent gets one last turn).
+>     - When each play deck has been exhausted once, the council starts at the end of the current turn.
+>     - After you have exhausted your play deck for the first time, you may choose to call the council at the end of any of your turns. The council starts at the end of your opponent's next turn (i.e., your opponent gets one last turn).
+>     - You may choose to call the council at the end of your turn if you have accumulated at least 20 marshalling points. The council starts at the end of your opponent's next turn (i.e., your opponent gets one last turn).
 > > **Note:** If one or both players only has access to a starter deck (76 cards), this requirement of 20 marshaling points should be lowered to 18.
 > 
 > <h2>The Free Council</h2>
@@ -91,19 +82,16 @@ In  a  "4-deck  game" (i.e., the "campaign game"), the Council is  called  when 
 > At the Free Council, you may reveal any unique marshalling point cards in your hand that match unique cards that your opponent has in play. Each such revealed card reduces your opponent's marshaling point total by one.
 > 
 > There  are six different types of marshalling points; each is associated with a specific shape:
-> 
-> | Type | Shape |
-> | :--- | :--- |
-> | Character Points | hexagon |
-> | Item Points (Major, Greater, & Rings only) | rectangle | 
-> | Faction Points | inverted triangle | 
-> | Ally Points | triangle | 
-> | Kill Points (from defeating creatures) | circle |
-> | Miscellaneous Points| diamond | 
+> - Character Points — hexagon
+> - Item Points (Major, Greater, & Rings only) — rectangle 
+> - Faction Points — inverted triangle
+> - Ally Points — triangle 
+> - Kill Points (from defeating creatures) — circle 
+> - Miscellaneous Points — diamond
 > 
 > These types of marshalling points can affect your marshalling point total in two ways:
 > - No more than half (round up) of your marshalling points can come from any one type of marshalling points.
-> If your opponent has zero (or negative) points for any one type of marshalling points, your points for that same type of marshalling points are doubled. This doesn't apply to kill points and miscellaneous points.
+> - If your opponent has zero (or negative) points for any one type of marshalling points, your points for that same type of marshalling points are doubled. This doesn't apply to kill points and miscellaneous points.
 > 
 > <h3>The Longer Games</h3>
 > 
@@ -124,9 +112,9 @@ In  a  "4-deck  game" (i.e., the "campaign game"), the Council is  called  when 
 > 1. If your Wizard is "eliminated" (i.e., through combat or corruption)—your opponent wins.
 > 2. If you move _The One Ring_ to Mount Doom and play certain cards—_The One Ring_ is destroyed and you win.
 > 3. Otherwise, the winner is decided at the _Free Council_. This council is called when one of the following occurs:
-> - When each play deck has been exhausted once, the council starts at the end of the current turn.
-> - After you have exhausted your play deck for the first time, you may choose to call the council at the end of any of your turns. The council starts at the end of your opponent's next turn (i.e., your opponent gets one last turn).
-> - You may choose to call the council at the end of your turn if you have accumulated at least 20 marshalling points. The council starts at the end of your opponent's next turn (i.e., your opponent gets one last turn).
+>     - When each play deck has been exhausted once, the council starts at the end of the current turn.
+>     - After you have exhausted your play deck for the first time, you may choose to call the council at the end of any of your turns. The council starts at the end of your opponent's next turn (i.e., your opponent gets one last turn).
+>     - You may choose to call the council at the end of your turn if you have accumulated at least 20 marshalling points. The council starts at the end of your opponent's next turn (i.e., your opponent gets one last turn).
 > > **Note:** If one or both players only has access to a starter deck (76 cards), this requirement of 20 marshaling points should be lowered to 18.
 > 
 > <h2>The Free Council</h2>
@@ -153,39 +141,37 @@ In  a  "4-deck  game" (i.e., the "campaign game"), the Council is  called  when 
 > > 
 > > **Example:** (CPs = Corruption Points, MPs = Marshalling Points) Our two players Jessica and Jason have been playing for awhile and Jessica exhausts her play deck during her turn. Since she has 15 MPs and Jason only has 14, she decides to call the Free Council. Each player has one company in Lorien:
 > > 
-> > | Jessica Controls | CPs | MPs | 
-> > | :--- | :--- | :--- |
-> > | Men of Lebennin (faction) | 0 | 2 |
-> > | Dreams of Lore (information) | 0 | 2 |
-> > | Pallando (controls:) | Total CPs: 2 | 0 |
-> > | Sword of Gondolin (item) | 2 | 2 | 
-> > | Gwaihir (ally) | 0 | 2 |
-> > | Celeborn | 0 | 2 |
-> > | Gildor Inglorion (controls:) | Total CPs: 1 | 1 | 
-> > | Healing Herbs (item) | 1 | 0 |
-> > | Legolas (controls:) | Total CPs: 2 | 2 |
-> > | Elfstone (item) | 1 | 0 |
-> > | Dagger of Westernesse (item) | 1 | 0 |
-> > | Elrohir | 0 | 1 |
-> > | Elladan | Total CPs: 0 | 1 |
+> > **Jessica Controls:** 
+> > - Men of Lebennin (faction) — 2 MP
+> > - Dreams of Lore (information) — 2 MP
+> > - Pallando 
+> >     - Sword of Gondolin (item) — 2 CP, 2MP 
+> >     - Gwaihir (ally) — 2 MP 
+> > - Celeborn — 2 MP
+> > - Gildor Inglorion — 1 MP 
+> >     - Healing Herbs (item) — 1 CP 
+> > - Legolas — 2 MP
+> >     - Elfstone (item) — 1 CP
+> >     - Dagger of Westernesse (item) — 1 CP
+> > - Elrohir — 1 MP
+> > - Elladan — 1 MP
 > > 
-> > Jessica Controls                  CPs   MPs  
-> > -------------------------------  ----- -----
-> > Men of Lebennin (faction)          0     2 
-> > Dreams of Lore (information)       0     2 
-> > Pallando (controls:)               2     0 
-> > Sword of Gondolin (item)           2     2 
-> > Gwaihir (ally)                     0     2
-> > Celeborn                           0     2
-> > Gildor Inglorion (controls:)       1     1
-> > Healing Herbs (item)               1     0
-> > Legolas (controls:)                2     2 
-> > Elfstone (item)                    1     0
-> > Dagger of Westernesse (item)       1     0
-> > Elrohir                            0     1
-> > Elladan                            0     1
-> > -------------------------------  ----- -----
+> > **Jason Controls:**
+> > - Radagast
+> > - Beorn — 2 MP
+> >     - Quickbeam (ally) — 2 MP
+> > - Theoden — 2 MP
+> >     - Sword of Gondolin — 2 CP, 2 MP
+> >     - Great Shield of Rohan — 2 CP, 2 MP
+> > - Faramir — 2 MP
+> >     - Dagger of Westernesse — 1 CP
+> >     - Healing Herbs — 1 CP
+> > - Imrahil — 2 MP
 > > 
+> > Since Jessica called the council, Jason gets one final turn before the council starts. Jason brings Eomer into play for one more MP, and then moves his company to Lake-town. After facing the hazards Jessica plays, he successfully plays the Men of Northern Rhovanion faction for two more MPs. Jason now have 17 MPs and will win the game if he does not lose any MPs due to characters failing corruption checks.
+> > 
+> > In this example, any character with 2 or more CPs could fail his corruption check (see pages 35-36). If Pallando fails his corruption check, the game ends immediately and Jason wins. If Legolas fails his corruption check, Jessica loses 2 of her MPs. If Theoden fails his corruption check, Jason loses 6 of his MPs. If Faramir fails his corruption check, Jason loses 2 of his MPs.
+> 
 > <h2>The Longer Games</h2>
 > 
 > The Starter Game is also called the "1-deck game." For experienced players with tuned decks, this game usually lasts 20-60 minutes. If you want longer, more detailed play, there are 3 other games.
@@ -213,19 +199,46 @@ In  a  "4-deck  game" (i.e., the "campaign game"), the Council is  called  when 
 > - Ally Points
 > - Kill Points (from defeating creatures)
 > - Miscellaneous Points
->
-> | Type | Shape |
-> | :--- | :--- |
-> | Character Points | hexagon |
-> | Item Points (Major, Greater, & Rings only) | rectangle | 
-> | Faction Points | inverted triangle | 
-> | Ally Points | triangle | 
-> | Kill Points (from defeating creatures) | circle |
-> | Miscellaneous Points| diamond | 
 > 
 > These types of marshalling points can affect your marshalling point total in two ways:
-> - No more than half (round up) of your marshalling points can come from any one type of marshalling points.
-> If your opponent has zero (or negative) points for any one type of marshalling points, your points for that same type of marshalling points are doubled. This doesn't apply to kill points and miscellaneous points.
+> - If your opponent has zero (or negative) points for any one type of marshalling points, your points for that same type of marshalling points are doubled. This doesn't apply to kill points and miscellaneous points.
+> - No more than half (round up) of your marshalling points can come from any one type of marshalling points. If one type of marshalling point is over half of your total, reduce the points for that type until they are only half (or less) of your total.
+> 
+> > **Clarification:** These marshalling point modifications do not apply until the Free Council actually takes place. Specifically, the modifications do not affect your marshalling point total when it is used to determine if you can call the Free Council (i.e., you need 20 MPs to call the Free Council before any of these modifications are made).
+> > 
+> > **Example:** Let's look again at our example from page 11. Assume Jason failed to play the Men of Northern Rhovanion (3 MPs[^menofnorthernrhovanion]) on his last turn. Assume none of the characters failed a corruption check (i.e., they all come to the Free Council).
+> > 
+> > Jessican notices that Jason has no faction points (he blew his roll to get the Men of Northern Rhovanion). So her faction points are doubled to 4.
+> > 
+> > Unfortunately, Jason's problems are not over. He failed to get the 3 MPs[^menofnorthernrhovanion] from the Men of Northern Rhovanion; so his MP total is only 14—8 of them are character points and only 6 are non-character points. Since you cannot have more than hald of your points from any one source, Jason only gets 6 MPs from his characters.
+> > 
+> > At this point, the marshalling points (MPs) break down as follows:
+> > 
+> > **Jessica's MP Cards**
+> > - Celeborn — 2 MPs
+> > - Elladan — 1 MPs
+> > - Elrohir — 1 MPs
+> > - Gildor Inglorion — 1 MPs
+> > - Legolas — 2 MPs
+> > - Sword of Gondolin (item) — 2 MPs
+> > - Men of Lebennin (faction) — 4 MPs (2 MPs doubled)
+> > - Gwaihir (ally) — 2 MPs
+> > - Dreams of Lore (misc) — 2 MPs
+> > 
+> > **Total — 17 MPs**
+> > 
+> > **Jason's MP Cards**
+> > - Beorn — 2 MPs
+> > - Faramir — 2 MPs
+> > - Imrahil — 2 MPs
+> > - Theoden — 0 MPs (reduced by 2 MPs)
+> > - Sword of Gondolin (item) — 2 MPs
+> > - Great Shield of Rohan (item) — 2 MPs
+> > - Quickbeam (ally) — 2 MPs
+> > 
+> > **Total —  12 MPs**
+> > 
+> > At this point, Jason reveals that he has cards for Gwaihir, Legolas, and Elrohir in his hand (he was saving them for this). Since they duplicate three of Jessica's unique MP cards, her MP total is reduced by one for each of these cards. Thus, Jessica ends up with 14 MPs and Jason ends up with 12 MPs—Jessica wins. Jason curses his luck because he failed to bring the Men of Northern Rhovanion into play on his last turn.
 
 ## The Lidless Eye
 
@@ -279,3 +292,5 @@ In  a  "4-deck  game" (i.e., the "campaign game"), the Council is  called  when 
 > <h2>INTRODUCTION</h2>
 > 
 > There are two different _Middle-earth: The Balrog_ (_MEBA_) boxes—The Shadow-deeps (reddish) and the Balrog's Host (bluish). Together, these two boxes contain at least one copy of each of the 104 _MEBA_ expansion cards. So, if you have purchased both boxes, you have a complete set of the _MEBA_ cards. 
+
+[^menofnorthernrhovanion]: The _Men of Northern Rhovanion_ faction is worth 2 marshalling points, not 3. The _Men of Dorwinion_ faction is worth 3 marshalling points.
