@@ -176,15 +176,15 @@ In  a  "4-deck  game" (i.e., the "campaign game"), the Council is  called  when 
 > 
 > The Starter Game is also called the "1-deck game." For experienced players with tuned decks, this game usually lasts 20-60 minutes. If you want longer, more detailed play, there are 3 other games.
 > 
-> <h4>The 2-deck Game</h2>
+> <h3>The 2-deck Game</h3>
 > 
 > In a "2-deck game" (the "short game"), the Council is called when each play deck has been exhausted twice. You may call the Council when your play deck has been exhausted twice, or when it has been exhausted once and you have at least 25 marshalling points (MPs).
 > 
-> <h4>The 3-deck Game</h2>
+> <h3>The 3-deck Game</h3>
 > 
 > In a "3-deck game" (the "long game"), the Council is called when each play deck has been exhausted three times. You may call the Council when your play deck has been exhausted three times, or when it has been exhausted twice and you have at least 30 marshalling points. Increase the sideboard size to 20 cards.
 > 
-> <h4>The 4-deck Game</h2>
+> <h3>The 4-deck Game</h3>
 >  
 > In a "4-deck game" (i.e., the "campaign game"), the Council is called when each play deck has been exhausted four times. You may call the Council when your play deck has been exhausted four times, or when it has been exhausted three times and you have at least 40 marshalling points. Increase the sideboard size to 25 cards.
 > 
