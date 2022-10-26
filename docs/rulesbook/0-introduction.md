@@ -253,7 +253,7 @@ While direct conflict can occur between companies of good and evil, most conflic
 > - The _MECCG_ rules summary
 > The card diagrams and Middle-earth map
 > 
-> <h2>INTRODUCTION</h2>
+> <h2>SPECIFIC RULES FOR MIDDLE-EARTH: THE BALROG</h2>
 > 
 > This is an expansion set of over 100 cards for the _Middle-earth Collectible Card Game_. While it is fully compatible with both _Middle-earth: The Wizards_ and _Middle-earth: The Lidless Eye_, _Middle-earth: The Balrog_ focuses on a player using resources from _The Lidless Eye_. 
 > 
