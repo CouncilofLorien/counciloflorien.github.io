@@ -244,7 +244,7 @@ While direct conflict can occur between companies of good and evil, most conflic
 
 ## The Challenge Decks
 
-{: .metd }
+{: .mech }
 > <h2>INTRODUCTION</h2>
 > 
 > Welcome to the _MECCG Challenge Decks_. This box contains everything you need, except for a pair of dice, to challenge any opponent to a fun and competitive match of the _Middle-earth Collectible Card Game_ (_MECCG_).
