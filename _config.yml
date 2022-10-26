@@ -184,6 +184,8 @@ callouts:
     color: meas
   mewh:
     color: mewh
+  mech:
+    color: mech
   meba:
     color: meba
   metw-title:
