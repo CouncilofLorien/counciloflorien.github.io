@@ -270,15 +270,15 @@ one Wizard has failed his corruption check (the other player wins). If both Wiza
 > > | Men of Lebennin (faction) | 0 | 2 |
 > > | Dreams of Lore (information) | 0 | 2 |
 > > | Pallando (controls:) | Total CPs: 2 | 0 |
-> > | • Sword of Gondolin (item) | 2 | 2 | 
-> > | • Gwaihir (ally) | 0 | 2 |
-> > | • Celeborn | 0 | 2 |
-> > | • Gildor Inglorion (controls:) | Total CPs: 1 | 1 | 
-> > | • Healing Herbs (item) | 1 | 0 |
+> > | <ul><li>Sword of Gondolin (item)</li></ul> | 2 | 2 | 
+> > | <ul><li>Gwaihir (ally)</li></ul> | 0 | 2 |
+> > | <ul><li>Celeborn</li></ul> | 0 | 2 |
+> > | <ul><li>Gildor Inglorion (controls:)</li></ul> | Total CPs: 1 | 1 | 
+> > | <ul><li><ul><li>Healing Herbs (item)</li></ul></li></ul> | 1 | 0 |
 > > | Legolas (controls:) | Total CPs: 2 | 2 |
-> > | • Elfstone (item) | 1 | 0 |
-> > | • Dagger of Westernesse (item) | 1 | 0 |
-> > | • Elrohir | 0 | 1 |
+> > | <ul><li>Elfstone (item)</li></ul> | 1 | 0 |
+> > | <ul><li>Dagger of Westernesse (item)</li></ul> | 1 | 0 |
+> > | <ul><li>Elrohir</li></ul> | 0 | 1 |
 > > | Elladan | Total CPs: 0 | 1 |
 > 
 > <h3>Marshalling Point Modifications</h3>
