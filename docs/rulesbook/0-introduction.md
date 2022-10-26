@@ -195,7 +195,7 @@ While direct conflict can occur between companies of good and evil, most conflic
 > - _The Starter Rules_ — The Starter Rules contain all of the guidelines you need to play _MELE_. They have been designed to simplify teaching the game and to speed up play. You should use the Starter Rules if you and your opponent have never played this game before.<br>If you are already an experienced player of collectible card games, you might initially read the Full Player Turn Summary on pages 92-94 **and** the sections that are not boxed. Then, as you play, you can refer to the other material that details the more complex rules and situations that may arise during play.
 > - _The Standard Rules_ — These rules assume you have already played several games using the Starter Rules. The Standard Rules consist of additions and extensions to the Starter Rules that make play and deck building more flexible, exciting, and interesting. We recommend that experienced _MELE_ players use all of the Standard Rules.
 > - _The Optional Rules_ — Interesting variations to the standard rules. Before play begins, both players must agree on which optional rules are to be used.
-> > - _Using MELE with METW_ — These guidelines explain how play proceeds when one player is a Ringwraith and one player is a Wizard. This section also describes how to integrate cards (usually hazards) from _METW_ (and vice versa) even if both players are Ringwraiths (or Wizards).
+> - _Using MELE with METW_ — These guidelines explain how play proceeds when one player is a Ringwraith and one player is a Wizard. This section also describes how to integrate cards (usually hazards) from _METW_ (and vice versa) even if both players are Ringwraiths (or Wizards).
 > - _The Appendices_ — This section contains a Full Player Turn Summary, a glossary, a color insert with card keys and a Middle-earth map (see the center of this book), and conventions of tournament play. These conventions of tournament play are also widely adopted for casual play.
 >  
 > > **Note:** MELE is a collectible card game—each player usually has a large number of _MELE_ cards available, but only a limited number are used in any one game. Before each game, a player must choose the cards he will use for that game. This process is referred to as "deck construction." Often deck construction is just as important (if not more important) than actual play.
@@ -247,7 +247,6 @@ While direct conflict can occur between companies of good and evil, most conflic
 ## The Balrog
 
 {: .meba }
->  
 > <h2>INTRODUCTION</h2>
 > 
 > There are two different _Middle-earth: The Balrog_ (_MEBA_) boxes—The Shadow-deeps (reddish) and the Balrog's Host (bluish). Together, these two boxes contain at least one copy of each of the 104 _MEBA_ expansion cards. So, if you have purchased both boxes, you have a complete set of the _MEBA_ cards. 
