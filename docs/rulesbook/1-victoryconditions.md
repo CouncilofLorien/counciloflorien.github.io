@@ -223,8 +223,7 @@ In  a  "4-deck  game" (i.e., the "campaign game"), the Council is  called  when 
 > > - Sword of Gondolin (item) — 2 MPs
 > > - Men of Lebennin (faction) — 4 MPs (2 MPs doubled)
 > > - Gwaihir (ally) — 2 MPs
-> > - Dreams of Lore (misc) — 2 MPs
-> > 
+> > - Dreams of Lore (misc) — 2 MPs<br>
 > > **Total — 17 MPs**
 > > 
 > > **Jason's MP Cards**
@@ -234,8 +233,7 @@ In  a  "4-deck  game" (i.e., the "campaign game"), the Council is  called  when 
 > > - Theoden — 0 MPs (reduced by 2 MPs)
 > > - Sword of Gondolin (item) — 2 MPs
 > > - Great Shield of Rohan (item) — 2 MPs
-> > - Quickbeam (ally) — 2 MPs
-> > 
+> > - Quickbeam (ally) — 2 MPs<br> 
 > > **Total —  12 MPs**
 > > 
 > > At this point, Jason reveals that he has cards for Gwaihir, Legolas, and Elrohir in his hand (he was saving them for this). Since they duplicate three of Jessica's unique MP cards, her MP total is reduced by one for each of these cards. Thus, Jessica ends up with 14 MPs and Jason ends up with 12 MPs—Jessica wins. Jason curses his luck because he failed to bring the Men of Northern Rhovanion into play on his last turn.
