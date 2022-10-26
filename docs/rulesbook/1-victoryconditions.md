@@ -16,6 +16,23 @@ search_exclude: true
 {:toc}
 </details>
 
+Jessica Controls                CPs   MPs  
+------------------------------- ----- -----
+Men of Lebennin (faction)          0     2 
+Dreams of Lore (information)       0     2 
+Pallando (controls:)               2     0 
+Sword of Gondolin (item)           2     2 
+Gwaihir (ally)                     0     2
+Celeborn                           0     2
+Gildor Inglorion (controls:)       1     1
+Healing Herbs (item)               1     0
+Legolas (controls:)                2     2 
+Elfstone (item)                    1     0
+Dagger of Westernesse (item)       1     0
+Elrohir                            0     1
+Elladan                            0     1
+------------------------------- ----- -----
+
 _The game ends when one of the following occurs during play:_
  1. _Defeat by elimination or corruption_
  2. _Victory by The One Ring_
@@ -82,13 +99,7 @@ In  a  "4-deck  game" (i.e., the "campaign game"), the Council is  called  when 
 > At the Free Council, you may reveal any unique marshalling point cards in your hand that match unique cards that your opponent has in play. Each such revealed card reduces your opponent's marshaling point total by one.
 > 
 > There  are six different types of marshalling points; each is associated with a specific shape:
-> - Character Points......................................◯
-> - Item Points (Major, Greater, & Rings only)............◯
-> - Faction Points........................................◯
-> - Ally Points...........................................◯
-> - Kill Points (from defeating creatures)................◯
-> - Miscellaneous Points..................................◯
->
+> 
 > | Type | Shape |
 > | :--- | :--- |
 > | Character Points | hexagon |
@@ -150,7 +161,7 @@ In  a  "4-deck  game" (i.e., the "campaign game"), the Council is  called  when 
 > > 
 > > **Example:** (CPs = Corruption Points, MPs = Marshalling Points) Our two players Jessica and Jason have been playing for awhile and Jessica exhausts her play deck during her turn. Since she has 15 MPs and Jason only has 14, she decides to call the Free Council. Each player has one company in Lorien:
 > > 
-> > | Jessica Controls &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | CPs | MPs | 
+> > | Jessica Controls | CPs | MPs | 
 > > | :--- | :--- | :--- |
 > > | Men of Lebennin (faction) | 0 | 2 |
 > > | Dreams of Lore (information) | 0 | 2 |
@@ -165,7 +176,24 @@ In  a  "4-deck  game" (i.e., the "campaign game"), the Council is  called  when 
 > > | Dagger of Westernesse (item) | 1 | 0 |
 > > | Elrohir | 0 | 1 |
 > > | Elladan | Total CPs: 0 | 1 |
-> 
+> > 
+> > Jessica Controls                  CPs   MPs  
+> > -------------------------------  ----- -----
+> > Men of Lebennin (faction)          0     2 
+> > Dreams of Lore (information)       0     2 
+> > Pallando (controls:)               2     0 
+> > Sword of Gondolin (item)           2     2 
+> > Gwaihir (ally)                     0     2
+> > Celeborn                           0     2
+> > Gildor Inglorion (controls:)       1     1
+> > Healing Herbs (item)               1     0
+> > Legolas (controls:)                2     2 
+> > Elfstone (item)                    1     0
+> > Dagger of Westernesse (item)       1     0
+> > Elrohir                            0     1
+> > Elladan                            0     1
+> > -------------------------------  ----- -----
+> > 
 > <h2>The Longer Games</h2>
 > 
 > The Starter Game is also called the "1-deck game." For experienced players with tuned decks, this game usually lasts 20-60 minutes. If you want longer, more detailed play, there are 3 other games.
