@@ -177,7 +177,7 @@ Finally, you may reveal any unique marshalling point cards in your hand that mat
 > - You may choose to call the council at the end of your turn if you have accumulated at least 20 marshalling points. The council starts at the end of your opponent's next turn (i.e., your opponent gets one last turn).
 > > **Note:** If one or both players only has access to a starter deck (76 cards), this requirement of 20 marshaling points should be lowered to 18.
 > 
-> <h2>The Free Council</h3>
+> <h2>The Free Council</h2>
 > 
 > Just before the Free Council, each character must make a corruption check. The winner of the game is the player that has gathered the most marshalling points from:
 > - Control of resources: characters, allies, items, and factions.
@@ -192,6 +192,7 @@ Finally, you may reveal any unique marshalling point cards in your hand that mat
 > You may find it useful to use pencil and paper **or** extra dice to keep a running total of marshalling points.
 > 
 > <h3>Marshalling Point Modifications</h3>
+> 
 > At  the Free Council, you may reveal any unique marshaling point cards in your hand that match unique cards that your opponent has in play. Each such revealed card reduces your opponent's marshaling point total by one.
 > 
 > There  are six different types of marshalling points; each is associated with a specific shape:
@@ -263,21 +264,22 @@ one Wizard has failed his corruption check (the other player wins). If both Wiza
 > > **Clarification:** If both players have the same number of marshalling points at the Free Council, the game ends in a tie—both players win (if you have to, roll dice and the high roller is the winner).
 > > 
 > > **Example:** (CPs = Corruption Points, MPs = Marshalling Points) Our two players Jessica and Jason have been playing for awhile and Jessica exhausts her play deck during her turn. Since she has 15 MPs and Jason only has 14, she decides to call the Free Council. Each player has one company in Lorien:
+> > 
 > > | Jessica Controls | CPs | MPs | 
 > > | --- | --- | --- |
 > > | Men of Lebennin (faction) | 0 | 2 |
 > > | Dreams of Lore (information) | 0 | 2 |
-> > | Pallando (controls:) | 2 | 0 |
-> > |     Sword of Gondolin (item) | 2 | 2 | 
-> > |     Gwaihir (ally) | 0 | 2 |
-> > |     Celeborn | 0 | 2 |
-> > |     Gildor Inglorion (controls:) | Total CPs: 1 | 1 | 
-> > |     Healing Herbs (item) | 1 | 0 |
-> > |     Legolas (controls:) | Total CPs: 2 | 2 |
-> > |     Elfstone (item) | 1 | 0 |
-> > |     Dagger of Westernesse (item) | 1 | 0 |
-> > |     Elrohir | 0 | 1 |
-> > |     Elladan | Total CPs: 0 | 1 |
+> > | Pallando (controls:) | Total CPs: 2 | 0 |
+> > | • Sword of Gondolin (item) | 2 | 2 | 
+> > | • Gwaihir (ally) | 0 | 2 |
+> > | • Celeborn | 0 | 2 |
+> > | • Gildor Inglorion (controls:) | Total CPs: 1 | 1 | 
+> > | • Healing Herbs (item) | 1 | 0 |
+> > | Legolas (controls:) | Total CPs: 2 | 2 |
+> > | • Elfstone (item) | 1 | 0 |
+> > | • Dagger of Westernesse (item) | 1 | 0 |
+> > | • Elrohir | 0 | 1 |
+> > | Elladan | Total CPs: 0 | 1 |
 > 
 > <h3>Marshalling Point Modifications</h3>
 > At  the Free Council, you may reveal any unique marshaling point cards in your hand that match unique cards that your opponent has in play. Each such revealed card reduces your opponent's marshaling point total by one.
