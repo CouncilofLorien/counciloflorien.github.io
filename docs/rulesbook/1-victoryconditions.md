@@ -166,7 +166,7 @@ Finally, you may reveal any unique marshalling point cards in your hand that mat
 ## The Wizards Limited
 
 {: .metw }
-> <h1>1 • THE VICTORY CONDITIONS</h2>
+> <h1>1 • THE VICTORY CONDITIONS</h1>
 > 
 > The game ends when one of the following occurs during play:
 > 1. If your Wizard is "eliminated" (i.e., through combat or corruption)—your opponent wins.
