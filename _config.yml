@@ -174,8 +174,14 @@ callouts:
     color: metw
   meul:
     color: meul
+  metd:
+    color: metd
+  medm:
+    color: medm
   mele:
     color: mele
+  meas:
+    color: meas
   mewh:
     color: mewh
   meba:
