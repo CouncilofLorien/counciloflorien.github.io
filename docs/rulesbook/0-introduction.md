@@ -242,6 +242,33 @@ While direct conflict can occur between companies of good and evil, most conflic
 > - The fallen **Saruman** (of Many Colours) is the master of inanimate nature. He gathers knowledge and makes inanimate objects. He is obsessed with using his own personal power, items, and abilities to contest Sauron.
 > > **Note:** In the terms of _ME: The Wizards_, a Wizard that has failed a corruption check by 1 or 2 has become a **Fallen-wizard** (the Wizards in _MEWH_ are all Fallen-wizards).
 
+## The Challenge Decks
+
+{: .mecd }
+> <h2>INTRODUCTION</h2>
+> 
+> Welcome to the _MECCG Challenge Decks_. This box contains everything you need, except for a pair of dice, to challenge any opponent to a fun and competitive match of the _Middle-earth Collectible Card Game_ (_MECCG_).
+> 
+> The deck is preconstructed with cards available from teh following sets of _MECCG_: _Middle-earth: The Wizards_, _Middle-earth: The Dragons_, _Middle-earth: Dark Minions_, _Middle-earth: The Lidless Eye_, _Middle-earth: Against the Shadow_, and _Middle-earth: The White Hand_. Also, some promitional cards printed though _The White Hand_ were used. The cards were all originally printed as common or uncommon except for 3 rares per deck. The cards were chosen to complement each other in order to achieve maximum success in play, yet be rewarding as the story of the deck unfolds. _Challenge Deck_ cards reflect published errata and clarifications.
+> 
+> The deck is tournament-read for the two-deck game. This is the game format presented in the Rules Summary. It observes the following Council of Lorien tournament rules: (a) 12-creature minimum; (b) 30-card resource/hazard minimum; (c) up to three Wizards/Ringwraiths allowed in the play deck; (d) Ringwraith players having +5 general influence that cannot control characters; and (e) Ringwraiths and their starting companies beginning play at Minas Morgul or Dol Guldur. If your Wizards or Ringwraith is eliminated, you do not lose the game, but rather lose five marshalling points off your final total and continue playing.
+> 
+> The Council of Lorien is the sanctioning body of official _MECCG_ tournament play in the United States and Canada. For more information on the COuncil and coordinating a sanctioned _MECCG_ tournament, contact ICE promotion at 1 (800) 325-0479.
+> 
+> The deck has 30 resources and 30 hazards, a complete complement of characters and sites for carrying out the resource strategy, and a 20 card sideboard. As per the tournament rules update in _The White Hand_, the sideboard is allowed to contain up to 30 cards. You should consider adding 10 cards to the sideboard when using this deck in a two-deck tournament, as this is certainly legal and adds to your deck's ability to react to an opponent.
+> 
+> After becoming familiar with your challenge deck, you may want to modify it. You can bring in more powerful cards, or you may want to vary its predictability for playing against familiar opponents. You may want to make the deck even more competitive in a two-deck tournament. For example, the following hazards can benefit almost any _Challenge Deck_: _Mouth of Sauron_, _Uvatha the Horseman_, _Adunaphel_, _Daelomin at Home_, _My Precious_, _Lure of Power_, and _Durin's Bane_. Ringwraith players should consider if Dragon factions would fit into their existing resource mix. There are 9 Dragon factions all told, each worth from 3 to 6 faction marshalling points. Some excellent resources almost any Wizard deck can integrate are: the ally _Tom Bombadil_, the faction _Woses of Old Pukel-land_, and the item _The Mithril-coat_. 
+> 
+> <h2>OVERVIEW</h2>
+> 
+> In _MECCG_ you play as one of the Wizards or Ringwraiths, trying to influence the Free Peoples or Sauron into letting you lead their armies.
+> 
+> You control one or more companies, which are groups of characters. These companies move around Middle-earth from site to site. At the sites they can gain resources, which provide you with marshalling points (MPs). The marshalling points for a card are in the upper left-hand corner of the card. The accumulation of marshalling points is the primary way of winning the game.
+> 
+> During the game you may "reveal" yourself. To do this you play a Ringwraith or Wizard card. That card represents you in the game. If that card is eliminated, through combat or corruption, then you lose the game.
+> 
+> While your opponent is moving, you get to play hazards on his companies. These hazards represent the creatures and events your opponent must deal with while traveling in Middle-earth.
+
 ## The Balrog
 
 {: .meba }
