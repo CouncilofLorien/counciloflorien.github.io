@@ -71,7 +71,7 @@ In  a  "4-deck  game" (i.e., the "campaign game"), the Council is  called  when 
 > - Carrying out the instructions on resource cards.
 > - By avoiding negative points which accrue when certain characters that you control are eliminated.
 > 
-> Marshalling  points are printed on the top left corner of the cards that award them.
+> Marshalling points are printed on the top left corner of the cards that award them.
 >                                        
 > At the Free Council, the leaders of the Free Peoples decide which Wizard's advice is best to follow. This is based upon a comparison of the resources each of the Wizards have marshalled.
 >
@@ -79,15 +79,15 @@ In  a  "4-deck  game" (i.e., the "campaign game"), the Council is  called  when 
 > 
 > <h3>Marshalling Point Modifications</h3>
 > 
-> At  the Free Council, you may reveal any unique marshaling point cards in your hand that match unique cards that your opponent has in play. Each such revealed card reduces your opponent's marshaling point total by one.
+> At the Free Council, you may reveal any unique marshalling point cards in your hand that match unique cards that your opponent has in play. Each such revealed card reduces your opponent's marshaling point total by one.
 > 
 > There  are six different types of marshalling points; each is associated with a specific shape:
-> - Character Points
-> - Item Points (Major, Greater, & Rings only)
-> - Faction Points
-> - Ally Points
-> - Kill Points (from defeating creatures)
-> - Miscellaneous Points
+> - Character Points......................................◯
+> - Item Points (Major, Greater, & Rings only)............◯
+> - Faction Points........................................◯
+> - Ally Points...........................................◯
+> - Kill Points (from defeating creatures)................◯
+> - Miscellaneous Points..................................◯
 >
 > | Type | Shape |
 > | :--- | :--- |
@@ -98,7 +98,7 @@ In  a  "4-deck  game" (i.e., the "campaign game"), the Council is  called  when 
 > | Kill Points (from defeating creatures) | circle |
 > | Miscellaneous Points| diamond | 
 > 
-> These types of marshaling points can affect your marshalling point total in two ways:
+> These types of marshalling points can affect your marshalling point total in two ways:
 > - No more than half (round up) of your marshalling points can come from any one type of marshalling points.
 > If your opponent has zero (or negative) points for any one type of marshalling points, your points for that same type of marshalling points are doubled. This doesn't apply to kill points and miscellaneous points.
 > 
@@ -134,8 +134,7 @@ In  a  "4-deck  game" (i.e., the "campaign game"), the Council is  called  when 
 > 
 > > **Clarification:** Characters do not automatically untap when the Free Council is called. A character may only untap during his own untap phase.
 > > 
-> > **Clarification:** A character that fails his corruption check prior to the Free Council is no longer in play. That character and any non-follower cards he controls are not available at the Free Council—thus, they do not count towards the marshalling point totals.<br>A player may play resource cards that can affect his characters’ corruption checks made prior to the Free Council. Hazard cards may _not_ be played.<br>After all characters have made their corruption checks, the game ends if
-one Wizard has failed his corruption check (the other player wins). If both Wizards fail their corruption checks, no one wins—both players lose (if you have to, roll dice and the high roller is the winner).
+> > **Clarification:** A character that fails his corruption check prior to the Free Council is no longer in play. That character and any non-follower cards he controls are not available at the Free Council—thus, they do not count towards the marshalling point totals.<br>A player may play resource cards that can affect his characters’ corruption checks made prior to the Free Council. Hazard cards may _not_ be played.<br>After all characters have made their corruption checks, the game ends if one Wizard has failed his corruption check (the other player wins). If both Wizards fail their corruption checks, no one wins—both players lose (if you have to, roll dice and the high roller is the winner).
 > 
 > The winner of the game is the player that has gathered the most marshalling points from:
 > - Control of resources: characters, allies, items, and factions.
@@ -167,9 +166,25 @@ one Wizard has failed his corruption check (the other player wins). If both Wiza
 > > | Elrohir | 0 | 1 |
 > > | Elladan | Total CPs: 0 | 1 |
 > 
-> <h3>Marshalling Point Modifications</h3>
+> <h2>The Longer Games</h2>
 > 
-> At  the Free Council, you may reveal any unique marshaling point cards in your hand that match unique cards that your opponent has in play. Each such revealed card reduces your opponent's marshaling point total by one.
+> The Starter Game is also called the "1-deck game." For experienced players with tuned decks, this game usually lasts 20-60 minutes. If you want longer, more detailed play, there are 3 other games.
+> 
+> <h4>The 2-deck Game</h2>
+> 
+> In a "2-deck game" (the "short game"), the Council is called when each play deck has been exhausted twice. You may call the Council when your play deck has been exhausted twice, or when it has been exhausted once and you have at least 25 marshalling points (MPs).
+> 
+> <h4>The 3-deck Game</h2>
+> 
+> In a "3-deck game" (the "long game"), the Council is called when each play deck has been exhausted three times. You may call the Council when your play deck has been exhausted three times, or when it has been exhausted twice and you have at least 30 marshalling points. Increase the sideboard size to 20 cards.
+> 
+> <h4>The 4-deck Game</h2>
+>  
+> In a "4-deck game" (i.e., the "campaign game"), the Council is called when each play deck has been exhausted four times. You may call the Council when your play deck has been exhausted four times, or when it has been exhausted three times and you have at least 40 marshalling points. Increase the sideboard size to 25 cards.
+> 
+> <h2>Marshalling Point Modifications</h2>
+> 
+> At the Free Council, you may reveal any unique marshalling point cards in your hand that match unique cards that your opponent has in play. Each such revealed card reduces your opponent's marshaling point total by one.
 > 
 > There  are six different types of marshalling points; each is associated with a specific shape:
 > - Character Points
@@ -188,25 +203,48 @@ one Wizard has failed his corruption check (the other player wins). If both Wiza
 > | Kill Points (from defeating creatures) | circle |
 > | Miscellaneous Points| diamond | 
 > 
-> These types of marshaling points can affect your marshalling point total in two ways:
+> These types of marshalling points can affect your marshalling point total in two ways:
 > - No more than half (round up) of your marshalling points can come from any one type of marshalling points.
 > If your opponent has zero (or negative) points for any one type of marshalling points, your points for that same type of marshalling points are doubled. This doesn't apply to kill points and miscellaneous points.
-> 
-> <h3>The Longer Games</h3>
-> 
-> The Starter Game is also called the "1-deck game." For experienced players with tuned decks, this game usually lasts 20-60 minutes. If you want longer, more detailed play, there are 3 other games.
-> 
-> In a "2-deck game" (the "short game"), the Council is called when each play deck has been exhausted twice. You may call the Council when your play deck has been exhausted twice, or when it has been exhausted once and you have at least 25 marshalling points (MPs).
-> 
-> In a "3-deck game" (the "long game"), the Council is called when each play deck has been exhausted three times. You may call the Council when your play deck has been exhausted three times, or when it has been exhausted twice and you have at least 30 marshalling points. Increase the sideboard size to 20 cards.
->  
-> In a "4-deck game" (i.e., the "campaign game"), the Council is called when each play deck has been exhausted four times. You may call the Council when your play deck has been exhausted four times, or when it has been exhausted three times and you have at least 40 marshalling points. Increase the sideboard size to 25 cards.
 
 ## The Lidless Eye
 
 {: .mele }
-> <h2>1 • THE VICTORY CONDITIONS</h2>
-
+> <h1>1 • THE VICTORY CONDITIONS</h1>
+> 
+> The game ends when one of the following occurs during play:
+> 1. If your Ringwraith is "eliminated" (i.e., fails a body check)—your opponent wins.
+> 2. If you move _The One Ring_ to Barad-dur—Sauron is reunited with _The One Ring_ and you win. (See page 44 for more on Rings).
+> 3. Otherwise, the winner is decided at the _Audience with Sauron_.<br>This audience is called when one of the following occurs:
+> - When each play deck has been exhausted once, the audience starts at the end of the current turn.
+> - If your play deck has been exhausted _and_ you play a _Sudden Call_ card as a **resource** during one of your turns, the audience starts following your opponent's next turn (i.e., your opponent gets one last turn).
+> - If you have at least 20 marshalling points _and_ you play a _Sudden Call_ card as a **resource** during one of your turns, the audience starts following your opponent's next turn (i.e., your opponent gets one last turn).
+> > **Note:** In the Standard Game, you may use a _Sudden Call_ card as a Hazard to cause the Audience with Sauron to be called (see page 54).
+> > 
+> > **Note:** If one or both players only has access to a starter deck (76 cards), this requirement of 20 marshaling points should be lowered to 18.
+> 
+> <h2>The Audience with Sauron</h2>
+> 
+> Just before the Audience With Sauron, each non-Ringwraith character must make a corruption check. The player who took the last turn makes corruption checks for his characters first. 
+> 
+> At the audience, Sauron decides which Ringwraith has been the most successfuly and will deliver the first massive blow against the Free Peoples. This is based upon a comparison of the resources each of the Ringwraiths has marshalled.
+> 
+> > **Clarification:** Characters do not automatically untap when the audience is called. A character may only untap during his own untap phase.
+> > 
+> > **Clarification:** A character that fails his corruption check by two or more prior to the Audience With Sauron is eliminated. That character and any non-follower cards he controls are not available at the Audience With Sauron—thus, they do not count towards the marshalling point totals.<br>A player may play resource cards that can affect his characters’ corruption checks made prior to the audience. Hazard cards may _not_ be played.
+> 
+> The winner of the game is the player that has gathered the most marshalling points from:
+> - Control of resources: characters, allies, items, and factions.
+> - Defeating certain creatures.
+> - Carrying out the instructions on resource cards.
+> 
+> Marshalling  points are printed on the top left corner of the cards that award them.
+>                                        
+> > **Note:** You may find it useful to use pencil and paper or extra dice to keep a running total of marshalling points.
+> > 
+> > **Clarification:** If both players have the same number of marshalling points at the Audience with Sauron, the game ends in a tie.
+> > 
+> > **Example:** 
 
 ## The White Hand
 
