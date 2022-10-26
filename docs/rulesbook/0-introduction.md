@@ -203,7 +203,7 @@ While direct conflict can occur between companies of good and evil, most conflic
 > <h2>BRIEF PLAYER TURN SUMMARY</h2>
 > 
 > Play consists of a series of "Player Turns." During your turn, follow the steps outlined in this turn summary. Then, your opponent does the same during his turn. You and your opponent alternate turns until the game ends. 
-
+>
 > This brief player turn summary is included here to give you a very basic idea of how play proceeds; refer to pages 92-94 for the Full Player Turn Summary.
 > 
 > - _Untap Phase_ — Heal (if at a Darkhaven site) **or** untap your characters and other tapped non-site cards.
