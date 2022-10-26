@@ -18,17 +18,17 @@ permalink: /crf/rulingsbyterm
 ### -=AAA=-
 
 #### Actions
-- Tapping a resource can only be done at a time when you could otherwise play a resource event.
+- Tapping a resource can only be done at a time when you could otherwise play a resource event.<a name="actions1"></a>
 
 #### Active Conditions
-- An active condition must be in play or established when the action requiring it is declared. Active conditions serve as the price of an action. They are restrictions on the player invoking the action.
-- Annotation 5: If an action requires an entity to tap as a condition for the action's main effect, that entity must be untapped when the action is declared; else, the action may not be declared. Tap the entity at this point; this is considered synonymous with the action's declaration, i.e., it is not a separate action. When it comes time to resolve the action in its chain of effects, that entity must still be in play and tapped or the action is canceled.
-- Annotation 6: If an action requires an entity to be discarded as a condition for the action's main effect, that entity must be discarded when the action is declared; this is considered synonymous with the action's declaration, i.e., it is not a separate action.
-- Annotation 7: If any other active condition for an action does not exist when the action is resolved, the action has no effect; if the action was playing a card from your hand, it is discarded.
-- Annotation 8: An action that requires a target is considered to have the active condition that the target be in play when the action is declared and when it is resolved. An action may not be declared if its target is not in play. However, dice-rolling actions may always be targeted by other actions declared later in the same chain of effects.
-- Your opponent's resources may be the active conditions for your resources, but may not be the targets for your resources.
-- If an "alternative" or "additional" effect does not have any "playable ..." conditions, then the "playable on ..." conditions from the primary effect of the card apply. The following cards are exceptions to this rule: Gloom, Good Sense Revolts, Half an Eye Open, Heedless Revelry, Here is a Snake, In the Name of Mordor, Inner Cunning, Nobody's Friend, Withdrawn to Mordor, and Wolf- riders.
-- See also Rulings by Term, Target.
+- An active condition must be in play or established when the action requiring it is declared. Active conditions serve as the price of an action. They are restrictions on the player invoking the action.<a name="activeconditions1"></a>
+- Annotation 5: If an action requires an entity to tap as a condition for the action's main effect, that entity must be untapped when the action is declared; else, the action may not be declared. Tap the entity at this point; this is considered synonymous with the action's declaration, i.e., it is not a separate action. When it comes time to resolve the action in its chain of effects, that entity must still be in play and tapped or the action is canceled.<a name="activeconditions2"></a>
+- Annotation 6: If an action requires an entity to be discarded as a condition for the action's main effect, that entity must be discarded when the action is declared; this is considered synonymous with the action's declaration, i.e., it is not a separate action.<a name="activeconditions3"></a>
+- Annotation 7: If any other active condition for an action does not exist when the action is resolved, the action has no effect; if the action was playing a card from your hand, it is discarded.<a name="activeconditions4"></a>
+- Annotation 8: An action that requires a target is considered to have the active condition that the target be in play when the action is declared and when it is resolved. An action may not be declared if its target is not in play. However, dice-rolling actions may always be targeted by other actions declared later in the same chain of effects.<a name="activeconditions5"></a>
+- Your opponent's resources may be the active conditions for your resources, but may not be the targets for your resources.<a name="activeconditions6"></a>
+- If an "alternative" or "additional" effect does not have any "playable ..." conditions, then the "playable on ..." conditions from the primary effect of the card apply. The following cards are exceptions to this rule: Gloom, Good Sense Revolts, Half an Eye Open, Heedless Revelry, Here is a Snake, In the Name of Mordor, Inner Cunning, Nobody's Friend, Withdrawn to Mordor, and Wolf- riders.<a name="activeconditions7"></a>
+- See also Rulings by Term, Target.<a name="activeconditions8"></a>
 
 #### Agent
 - Rules Erratum: A tapped agent may take an action to untap (i.e., move from tapped status to utapped status).
