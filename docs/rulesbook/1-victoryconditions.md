@@ -16,35 +16,27 @@ search_exclude: true
 {:toc}
 </details>
 
-Jessica Controls                CPs   MPs  
-------------------------------- ----- -----
-Men of Lebennin (faction)          0     2 
-Dreams of Lore (information)       0     2 
-Pallando (controls:)               2     0 
-Sword of Gondolin (item)           2     2 
-Gwaihir (ally)                     0     2
-Celeborn                           0     2
-Gildor Inglorion (controls:)       1     1
-Healing Herbs (item)               1     0
-Legolas (controls:)                2     2 
-Elfstone (item)                    1     0
-Dagger of Westernesse (item)       1     0
-Elrohir                            0     1
-Elladan                            0     1
-------------------------------- ----- -----
+Test Links:
 
-_The game ends when one of the following occurs during play:_
- 1. _Defeat by elimination or corruption_
- 2. _Victory by The One Ring_
- 3. _Otherwise, the winner is decided at the Free Council, Audience with Sauron, Day of Reckoning, or Day of Decision. These are called when one of the following occurs:_
-     - _The Starter Game (**1-deck** game):_
-       - _When each play deck has been exhausted **once**. They start at the end of the current turn._
-       - _After you have exhausted your play deck for the **first** time, you may choose to call at the end of any of your turns. Your opponent gets one last turn._
-       - _You may choose to call at the end of your turn if you have accumulated at least **20** marshalling points. Your opponent gets one last turn._
-     - _The Short Game (**2-deck** game)_
-       - _When each play deck has been exhausted **twice**. They start at the end of the current turn._
-       - _After you have exhausted your play deck for the **second** time, you may choose to call at the end of any of your turns. Your opponent gets one last turn._
-       - _After you have exhausted your play deck for the **first** time, you may choose to call at the end of your turn if you have accumulated at least **25** marshalling points. Your opponent gets one last turn._
+[Link to active conditions3](/crf/rulingsbyterm#activeconditions3)
+
+[Link to active conditions base heading](/crf/rulingsbyterm#active-conditions)
+
+[Link to active conditions3](/crf/rulingsbyterm#activeconditions8)
+
+
+The game ends when one of the following occurs during play:
+ 1. Defeat by elimination or corruption
+ 2. Victory by _The One Ring_
+ 3. Otherwise, the winner is decided at the Free Council, Audience with Sauron, Day of Reckoning, or Day of Decision. These are called when one of the following occurs:
+     - The Starter Game (**1-deck** game):
+       - When each play deck has been exhausted **once**. They start at the end of the current turn.
+       - After you have exhausted your play deck for the **first** time, you may choose to call at the end of any of your turns. Your opponent gets one last turn.
+       - You may choose to call at the end of your turn if you have accumulated at least **20** marshalling points. Your opponent gets one last turn.
+     - The Short Game (**2-deck** game)
+       - When each play deck has been exhausted **twice**. They start at the end of the current turn.
+       - After you have exhausted your play deck for the **second** time, you may choose to call at the end of any of your turns. Your opponent gets one last turn.
+       - After you have exhausted your play deck for the **first** time, you may choose to call at the end of your turn if you have accumulated at least **25** marshalling points. Your opponent gets one last turn.
        
 ## The Longer Games
 
