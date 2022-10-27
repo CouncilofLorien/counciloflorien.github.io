@@ -1,6 +1,7 @@
 ---
 layout: default
 search_exclude: true
+nav_exclude: true
 ---
 
 Chris Burke's
