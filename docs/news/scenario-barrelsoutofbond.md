@@ -2,6 +2,7 @@
 layout: default
 title: Barrels out of Bond
 search_exclude: true
+nav_exclude: true
 permalink: /scenarios/barrelsoutofbond
 ---
 
