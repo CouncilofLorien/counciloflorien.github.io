@@ -15,12 +15,12 @@ permalink: /
 - [x] Learn the lore of living creatures
 - [x] Come and go unlooked-for
 - [x] Empty larder and cask
-- [ ] Be conscientious in the impossible task
+- [x] Be conscientious in the impossible task
+- [x] Maintain textual integrity 
 - [ ] Identify changes to the present text
 - [ ] Explain archaic or unusual words
 - [ ] Explore literary and historical influences
 - [ ] Note connections with other writings
 - [ ] Comment on differences in published forms
-- [ ] Maintain textual integrity 
 - [ ] Light the beacons
 - [ ] Enjoy Tolkien's masterpiece
