@@ -14,7 +14,3 @@ body {
   background-repeat: no-repeat;  
 }
 </style>
-
-<i>Laurelindórenan lindelorendor<br>malinornélion ornemalin</i>
-{: .px-8 .fs-8 .fw-300 .text-center .text-grey-lt-100		}
-
