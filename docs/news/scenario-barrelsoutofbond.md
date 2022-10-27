@@ -7,6 +7,7 @@ permalink: /scenarios/barrelsoutofbond
 
 # Scenarios
 
+{: .text-center }
 ## Barrels out of Bond
 
 {: .px-4 .fs-4 .fw-200 .text-center }
