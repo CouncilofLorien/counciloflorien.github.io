@@ -174,7 +174,7 @@ In  a  "4-deck  game" (i.e., the "campaign game"), the Council is  called  when 
 > > 
 > > In this example, any character with 2 or more CPs could fail his corruption check (see pages 35-36). If Pallando fails his corruption check, the game ends immediately and Jason wins. If Legolas fails his corruption check, Jessica loses 2 of her MPs. If Theoden fails his corruption check, Jason loses 6 of his MPs. If Faramir fails his corruption check, Jason loses 2 of his MPs.
 > 
-> <h1>STANDARD RULES: 1 • THE VICTORY CONDITIONS</h1>
+> <h1>STANDARD RULES 1 • THE VICTORY CONDITIONS</h1>
 > 
 > <h2>The Longer Games</h2>
 > 
@@ -314,7 +314,7 @@ In  a  "4-deck  game" (i.e., the "campaign game"), the Council is  called  when 
 > > 
 > > In this example, any character with 4 or more corruption points (the Troll-chief and Tarcil) could fail his corruption check (see pages 35-38 for a detailed explanation and example of corruption checks). If the Troll-chief fails his corruption check, Wendy loses 6 of her MPs. If Tarcil fails his corruption check, Nick loses 7 of his MPs.
 > 
-> <h1>STANDARD RULES: 1 • THE VICTORY CONDITIONS</h1>
+> <h1>STANDARD RULES 1 • THE VICTORY CONDITIONS</h1>
 > 
 > The Standard Rules victory conditions differ from those found in the Starter Rules in three ways. First, the players can decide to play a longer game. Second, certain modifications to the marshalling point totals can be made at the Audience With Sauron. Third, _Sudden Call_ may be used as a hazard to cause the Audience with Sauron to be called.
 > 
@@ -394,8 +394,8 @@ In  a  "4-deck  game" (i.e., the "campaign game"), the Council is  called  when 
 ## The White Hand
 
 {: .mewh }
-> > <h1>THE VICTORY CONDITIONS</h1>
-> > 
+> <h1>THE VICTORY CONDITIONS</h1>
+> 
 > As a Fallen-wizard you may win in the same way a _METW_ Wizard wins: your opponent is eliminated **or** you recover _The One Ring_ **or** you have the most marshalling points at the Free Council. The following exceptions apply:
 > - In order to win by recovering _The One Ring_ at least one _A New Ringlord_ card must be played and the conditions outlined on that card must be met.
 > - The Free Council is handled normally, and victory is determined in the standard way by comparing marshalling points. However, to you (a Fallen-wizard) it is called your **Day of Reckoning** and your marshalling points reflect how far you have progressed towards completing your own personal agenda.
