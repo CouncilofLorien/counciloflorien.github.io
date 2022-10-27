@@ -2,6 +2,7 @@
 layout: default
 title: The King Beneath the Mountains
 search_exclude: true
+nav_exclude: true
 permalink: /scenarios/thekingbeneaththemountains
 ---
 
