@@ -118,6 +118,7 @@ While direct conflict can occur between the different alignments of companies, m
 > 
 > "Evil forces" are represented by _hazards_ that the players use against one another. For example, if you move a character into Moria, your opponent could play a Troll card as a hazard. These hazards are not "controlled" by the Wizards, but rather they represent the forces of Sauron, who himself is in a "dormant" or hiding phase. The players are "good," so conflict takes the form of hazards and direct attempts to "persuade" or "dominate" each other and each other's characters and forces, rather than the form of direct conflict.
 > 
+> {: .note }
 > > **Note:** For purposes of readability, these rules use the standard masculine pronounds when referring to a person of uncertain gender. In such cases, these pronouns are intended to convey the meanings: she/he, him/her, etc.
 > 
 > <h2>USING THIS RULESBOOK</h2>
@@ -153,6 +154,8 @@ While direct conflict can occur between the different alignments of companies, m
 > - _METW_ is less tactical and more strategic than some other CCGs. There is combat, but it is not the dominant focus of the game. 
 > - The players in _METW_ are in direct competition with each other to marshal resources. However, only hazards directly attack the players' characters and they are handled in a less controlled fashion (e.g., they are only played during your opponent's movement/hazard phase, hazard creatures do not remain in play, etc.).
 > - For timing purposes, all cards in _METW_ are played and tapped with the same "speed" (effects take place instantly). But, a player may only play resource cards during his own turn, and a player may only play hazard cards during his opponent's movement/hazard phase.
+> 
+> {: .note}
 > > **Clarification:** The card, Twilight, is an exception to this rule—it can be played at anytime, either as a resource or as a hazard (it does not count against the hazard limit). Certain other cards specifically state when they may be played.
 
 ---
@@ -190,6 +193,7 @@ While direct conflict can occur between the different alignments of companies, m
 > 
 > The "Using _MELE_ with _METW_" section contains the essential rules for integrating _METW_ cards with _MELE_. The Full Player Turn Summary provided on pages 92-94 is a great reference for getting started
 > 
+> {: .note }
 > > **Note:** The rules for _MELE_ are very similar to teh rules for _Middle-earth: The Wizards_. Passages with major rule differences are marked with a line of bullets as a sidebar (just as this paragraph is marked). Experienced players of _METW_ can examine these passages and proceed with playing.
 > 
 > - _The Starter Rules_ — The Starter Rules contain all of the guidelines you need to play _MELE_. They have been designed to simplify teaching the game and to speed up play. You should use the Starter Rules if you and your opponent have never played this game before.<br>If you are already an experienced player of collectible card games, you might initially read the Full Player Turn Summary on pages 92-94 **and** the sections that are not boxed. Then, as you play, you can refer to the other material that details the more complex rules and situations that may arise during play.
@@ -198,6 +202,7 @@ While direct conflict can occur between the different alignments of companies, m
 > - _Using MELE with METW_ — These guidelines explain how play proceeds when one player is a Ringwraith and one player is a Wizard. This section also describes how to integrate cards (usually hazards) from _METW_ (and vice versa) even if both players are Ringwraiths (or Wizards).
 > - _The Appendices_ — This section contains a Full Player Turn Summary, a glossary, a color insert with card keys and a Middle-earth map (see the center of this book), and conventions of tournament play. These conventions of tournament play are also widely adopted for casual play.
 >  
+>  {: .note }
 > > **Note:** MELE is a collectible card game—each player usually has a large number of _MELE_ cards available, but only a limited number are used in any one game. Before each game, a player must choose the cards he will use for that game. This process is referred to as "deck construction." Often deck construction is just as important (if not more important) than actual play.
 >  
 > <h2>BRIEF PLAYER TURN SUMMARY</h2>
@@ -213,6 +218,7 @@ While direct conflict can occur between the different alignments of companies, m
 > - _Site Phase_ — You may have each of yourcompanies enter its current site to attempt to play an item, ally, faction, etc.
 > - _End-of-Turn Phase_ — Your turn ends.
 > 
+> {: .note }
 > > **Note:** For purposes of readability, these rules use the standard masculine pronouns when referring to a person of uncertain gender. In such cases, these pronouns are intended to convey the meanings: she/he, him/her, etc.
 
 ---
@@ -246,6 +252,8 @@ While direct conflict can occur between the different alignments of companies, m
 > - The fallen **Gandalf** (the Careworn) is the friend of peoples, fate, and Middle-earth. He manipulates peoples and their rulers rather than dominate them—he is not an empire builder. He has lost hope of defeating Sauron. He just wants to delay the Dark Lord's final victory as long as possible, and to save as many of the Free Peoples as possible.
 > - The fallen **Radagast** (of the Greenwood) is the friend of animate nature. He looks at Middle-earth as a big garden with people as the gardeners. He persuades but doesn't dominate. He plans to help nature protect itself from the Dark Lord.
 > - The fallen **Saruman** (of Many Colours) is the master of inanimate nature. He gathers knowledge and makes inanimate objects. He is obsessed with using his own personal power, items, and abilities to contest Sauron.
+> 
+> {: .note }
 > > **Note:** In the terms of _ME: The Wizards_, a Wizard that has failed a corruption check by 1 or 2 has become a **Fallen-wizard** (the Wizards in _MEWH_ are all Fallen-wizards).
 
 ---
@@ -299,4 +307,3 @@ While direct conflict can occur between the different alignments of companies, m
 > This is an expansion set of over 100 cards for the _Middle-earth Collectible Card Game_. While it is fully compatible with both _Middle-earth: The Wizards_ and _Middle-earth: The Lidless Eye_, _Middle-earth: The Balrog_ focuses on a player using resources from _The Lidless Eye_. 
 > 
 > The Balrog is supremely confident of his own immense personal power. After all, just like Sauron, he was one of Morgoth's chief lieutenants. The Balrog tends to rely on brute force and direct confrontation rather than more subtle approaches often used by Ringwraiths and Wizards. His goals are basic and simple—accumulate power and destroy his enemies. If he can do this, he can become a dominant power in Middle-earth—a factor to which both the Dark Lord and the Free Peoples will be forced to react.
-
