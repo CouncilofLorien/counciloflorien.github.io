@@ -8,10 +8,4 @@ description: "The Council of Lórien is the U.S. sanctioning body for the Middle
 permalink: /
 ---
 
-<style>
-body {
-  background-image: url('/assets/images/lorien.png');
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-</style>
+![](/assets/images/lorien.png)
