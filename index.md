@@ -13,10 +13,9 @@ body {
   background-image: url('/assets/images/lorien.png');
   background-repeat: no-repeat;
   background-size: cover;
-  padding-left: 200px;
 }
 </style>
 
 <i>Laurelindórenan lindelorendor<br>malinornélion ornemalin</i>
-{: .px-8 .fs-8 .fw-300 .text-center .text-grey-dk-000		}
+{: .px-8 .fs-8 .fw-300 .text-center .text-grey-lt-100		}
 
