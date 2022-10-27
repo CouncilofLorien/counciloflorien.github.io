@@ -39,8 +39,18 @@ You may choose between three _alignments_ which determine the types of cards tha
 - _Minions of Morgoth_—The Minion alignment includes Ringwraith, Sauron, and Balrog players using minion characters and resources.
 - _Lackeys of a Fallen-wizard_—The Fallen-wizard alignment includes Fallen-wizard players using both hero and minion characters and resources.
 
+The different alignments of cards are described in [The Cards and The Decks](/rulesbook/cardsanddecks).
+
 While direct conflict can occur between the different alignments of companies, most conflict takes the form of _hazards_ or attempts to persuade or dominate each other's characters and forces. Hazards are not "controlled" by the Wizards or Ringwraiths, but rather they represent the evil or dangerous forces that are abroad in Middle-earth, which the players use against one another.
- 
+
+### Terminology and Rules Applicability
+
+The different alignments and different types of players in _Middle-earth CCG_ often use similar rules but with variations or exceptions. In this Rulesbook, the following terminology is used:
+- _Wizard player_—A player playing a _hero_ deck as a Wizard whether they _reveal_ themselves as a Wizard character card or not. 
+- _Ringwraith player_—A player playing a _minion_ deck as a Ringwraith, whether they _reveal_ themselves as a Ringwraith character card, or playing a _minion_ deck as Sauron through _The Lidless Eye_ card or the _Sauron_ card (i.e., a Sauron player is a Ringwraith player). 
+- _Fallen-wizard Player_—A player playing a _Fallen-wizard_ deck. Rather than revealing themselves by playing a Fallen-wizard character card, a Fallen-wizard player must reveal themselves before the game begins by declaring which Fallen-wizard they are playing as. Rules that apply to a Wizard players also apply to Fallen-wizard players with some exceptions. Rules that apply to Ringwraith players do not apply to Fallen-wizard players but certain rules for minion cards do. 
+- _Balrog player_—A player playing a _minion_ deck as The Balrog, whether they _reveal_ themselves as _The Balrog_ character card or not. Rules that apply to Ringwraith players also apply to Balrog players with some exceptions.
+
 ## Differences From Other Card Games
 
 - Site cards and region cards represent the geography of Middle-earth. They are used to control the acquisition of resources, but they should not direct play. Instead, a player should examine the resources in his hand and then select a nearby site to travel to. Initially, do not worry too much about which site to use, just pick one that has the resource type you want to play. It also helps if you select the location cards you are most likely to use when you put together a play deck.
