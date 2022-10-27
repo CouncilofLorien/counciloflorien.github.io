@@ -13,6 +13,7 @@ permalink: /
 - [x] Search unread scrolls and books
 - [x] Rouse the earthborn
 - [x] Learn the lore of living creatures
+- [x] Come and go unlooked-for
 - [x] Empty larder and cask
 - [ ] Identify changes to the present text
 - [ ] Explain archaic or unusual words
