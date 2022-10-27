@@ -12,10 +12,9 @@ permalink: /
 body {
   background-image: url('/assets/images/lorien.png');
   background-repeat: no-repeat;
-  background-size: cover;
 }
 </style>
 
 <i>Laurelindórenan lindelorendor<br>malinornélion ornemalin</i>
-{: .px-8 .fs-4 .fw-100 .text-center .white }
+{: .px-8 .fs-9 .fw-700 .text-center }
 
