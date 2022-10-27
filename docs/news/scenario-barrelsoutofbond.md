@@ -12,8 +12,8 @@ permalink: /scenarios/barrelsoutofbond
 ## Barrels out of Bond
 
 {: .px-4 .fs-4 .fw-200 .text-center }
-For some time Bilbo sat and thought about this water-gate,
-and wondered if it could be used for the escape of his friends,
+For some time Bilbo sat and thought about this water-gate,<br>
+and wondered if it could be used for the escape of his friends,<br>
 and at last he had the desperate beginnings of a plan.
 
 _—The Hobbit_
