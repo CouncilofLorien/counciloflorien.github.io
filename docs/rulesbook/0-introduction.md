@@ -37,19 +37,9 @@ In _Middle-earth: The Balrog_ you play as The Balrog. His goals are basic and si
 You may choose between three _alignments_ which determine the types of cards that may be included in your deck and the rules you follow: 
 - _Heroes of the Free People_—The Hero alignment includes Wizard players using hero characters and resources.
 - _Minions of Morgoth_—The Minion alignment includes Ringwraith, Sauron, and Balrog players using minion characters and resources.
-- _Lackeys of a _Fallen-wizard_—The Fallen-wizard alignment includes Fallen-wizard players using both hero and minion characters and resources.
+- _Lackeys of a Fallen-wizard_—The Fallen-wizard alignment includes Fallen-wizard players using both hero and minion characters and resources.
 
-While direct conflict can occur between the different alignments of companies, most conflict takes the form of _hazards_ or attempts to persuade or dominate each other's characters and forces. These hazards are not "controlled" by the Wizards or Ringwraiths, but rather they represent the evil or dangerous forces that are abroad in Middle-earth, which the players user against one another.
-
-## Player Turn Summary
-
- Play consists of a series of "Player Turns." During your turn, follow the steps outlined in this turn summary. Then, your opponent does the same during his turn. You and your opponent alternate turns until the game ends. This turn summary is included here to give you an idea of how play proceeds; see [4 • THE PLAYER TURN](/rulesbook/playerturn).
- - _**Untap Phase**_ — Each of your characters may do one of the following: Untap or Heal (if at a Haven site). In addition, untap all of your other tapped non-site cards.
- - _**Organization Phase**_ — You take the following actions in any order: play one character (or your Wizard), reorganize your companies, transfer items between characters (corruption checks required), and store items (corruption checks required). In addition, each of your companies may plan its movement by playing a new site card face down on its present site card.
- - _**Long-event Phase**_ — Remove all of your resource long-events already in play. Play  any new resource long-event cards. Remove all of your opponent's hazard long-events.
- - _**Movement/Hazard Phase**_ — One at a time, each of your companies takes the following actions. The company turns over its new site card (if it has one). Then, each player draws cards as indicated on a new site card. Next, your opponent may play hazard cards on the company; the maximum number of hazards that may be played on a company is equal to the the size of the company (to a minimum of two). Finally, remove the old site card and each player discards or draws so that he has eight cards in his hand.
- - _**Site Phase**_ — One at a time, each of your companies may take the following actions at its current, untapped site. The company decides to enter and explore the site. If the site has an automatic-attack, it attacks the company. The company may attempt to play one item, ally, faction, or information resource card that is "playable" at that site. A character in the company must tap to make this attempt. If the card is successfully played, tap the site.
- - _**End-of-Turn Phase**_ — Each player may discard one card. Then each player must draw or discard so that his hand has eight cards.  
+While direct conflict can occur between the different alignments of companies, most conflict takes the form of _hazards_ or attempts to persuade or dominate each other's characters and forces. Hazards are not "controlled" by the Wizards or Ringwraiths, but rather they represent the evil or dangerous forces that are abroad in Middle-earth, which the players use against one another.
  
 ## Differences From Other Card Games
 
@@ -59,6 +49,8 @@ While direct conflict can occur between the different alignments of companies, m
 - For timing purposes, all cards in _Middle-earth_ are played and tapped with the same "speed" (effects take place instantly). But, a player may only play resource cards during his own turn, and a player may only play hazard cards during his opponent's movement/hazard phase. The card, _Twilight_, is an exception to this rule—it can be played at anytime, either as a resource or as a hazard.
 - _Middle-earth_ uses the "hand-filling" card draw mechanic. Each player has a hand-size of 8 cards and both draw cards when each company moves. During a company's movement they can both play cards for or against that company. After, both players draw cards to fill their hand back to their hand-size of 8 cards. Any cards in excess of hand-size must be discarded. The players can also discard a card at the end-of-turn phase and then refill their hand. The more cards you play (or discard), the more cards you draw.
 - There is no numerical currency to use when paying to play resource cards in Middle-earth. Instead, costs are typically paid by tapping characters or by tapping or discarding resources. In addition, because the game uses hand-filling card draw, another typical cost is for the game play to match a particular situation given on an event card. A card cannot be played if it does not apply to a given situation and it cannot be discarded for no effect. Hazard cards typically require a particular situation but the play of hazard cards is also restricted by the hazard limit (typically equal to the company's size).
+
+---
 
 ---
 
