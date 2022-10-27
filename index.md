@@ -11,8 +11,7 @@ permalink: /
 <style>
 body {
   background-image: url('/assets/images/lorien.png');
-  background-repeat: no-repeat;
-  background-size: 100% 50%   
+  background-repeat: no-repeat;  
 }
 </style>
 
