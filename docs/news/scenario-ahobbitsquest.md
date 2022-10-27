@@ -2,6 +2,7 @@
 layout: default
 title: A Hobbit's Quest
 search_exclude: true
+nav_exclude: true
 permalink: /scenarios/ahobbitsquest
 ---
 
