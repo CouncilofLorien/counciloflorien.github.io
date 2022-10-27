@@ -17,7 +17,7 @@ Very amusing for me, very good for you—and profitable too, very likely,<br>
 if ever you get over it.
 
 _—The Hobbit_
-{: .px-8 .fs-4 .fw-500 .text-right }
+{: .px-8 .fs-4 .fw-500 .text-center }
 
 Gandalf enjoyed visiting the Shire. He found its folk amusing.
 
