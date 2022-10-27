@@ -9,7 +9,7 @@ permalink: /news/issue4
 {: .text-alpha .text-center }
 Council of Lórien<br>
 Tournament Policy<br>
-Number 4<br>
+Issue Number 4<br>
 
 As of 2022, the following policy is in place for official Sanctioned and Qualifier Council tournaments. A Sanctioned Council tournament is an MECCG event that requires advance approval for sanction status and use of the Council package for running the event, awarding Council prizes, and reporting results to CoL to rank the players. Winners of Sanctioned Council Events may qualify to participate in that year's Council of Lórien Annual Championship event. A Qualifier Council tournament is a special type of Sanctioned Council tournament that CoL determines in advance to guarantee the winner(s) participation in that year's Council of Lórien Annual Championship event.
 
@@ -188,9 +188,9 @@ Each player brings a Challenge Deck to the tournament, or purchases one at the t
 It is recommended that resource/character scenarios be considered by a tournament coordinator who has the means of communicating to all players in advance what the pool of scenarios will be for the tournament. It is suggested that the coordinator post (in advance) three resource/character scenarios that will be used for the tournament. Each player comes to the tournament with a deck constructed for his or her chosen scenario.
 
 Present Official Scenarios—Presently, the three scenarios for official Council event tournaments are:
-- A Hobbit's Quest (found on page 72 of the Middle-earth: The Wizards Companion)
-- Barrels out of Bond (found on page 66 of the Middle-earth: The Wizards Companion)
-- The King beneath the Mountains (found on page 67 of the Middle-earth: The Wizards Companion)
+- [A Hobbit's Quest](/scenarios/ahobbitsquest) (also found on page 72 of the Middle-earth: The Wizards Companion)
+- [Barrels out of Bond](/scenarios/barrelsoutofbond) (also found on page 66 of the Middle-earth: The Wizards Companion)
+- [The King beneath the Mountains](/scenarios/thekingbeneaththemountains) (also found on page 67 of the Middle-earth: The Wizards Companion)
 
 A complete copy of these scenarios can also be found on the [Scenarios](/) page
 
