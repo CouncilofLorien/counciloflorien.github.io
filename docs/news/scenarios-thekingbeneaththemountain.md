@@ -12,9 +12,9 @@ permalink: /scenarios/thekingbeneaththemountains
 ## The King beneath the Mountains
 
 {: .px-4 .fs-4 .fw-200 .text-center }
-The mountain throne once more is freed!
-O! wandering folk, the summons heed!
-Come haste! Come haste! across the waste!
+The mountain throne once more is freed!<br>
+O! wandering folk, the summons heed!<br>
+Come haste! Come haste! across the waste!<br>
 The king of friend and kin has need.
 
 _—The Hobbit_
