@@ -103,6 +103,8 @@ While direct conflict can occur between the different alignments of companies, m
 > - The players in _METW_ are in direct competition with each other to marshal resources. However, only hazards directly attack the players' characters and they are handled in a less controlled fashion (e.g., they are only played during your opponent's movement/hazard phase, hazard creatures do not remain in play, etc.).
 > - For timing purposes, all cards in _METW_ are played and tapped with the same "speed" (effects take place instantly). But, a player may only play resource cards during his own turn, and a player may only play hazard cards during his opponent's movement/hazard phase.
 
+---
+
 ## The Wizards Unlimited
 
 {: .meul }
@@ -153,16 +155,21 @@ While direct conflict can occur between the different alignments of companies, m
 > - For timing purposes, all cards in _METW_ are played and tapped with the same "speed" (effects take place instantly). But, a player may only play resource cards during his own turn, and a player may only play hazard cards during his opponent's movement/hazard phase.
 > > **Clarification:** The card, Twilight, is an exception to this rule—it can be played at anytime, either as a resource or as a hazard (it does not count against the hazard limit). Certain other cards specifically state when they may be played.
 
+---
+
 ## The Dragons
 
 {: .metd }
 > This insert provides expansion rules, clarifications, and a scenario for use with both _Middle-earth: The Wizards_ (_METW_) and _Middle-earth: The Dragons_ (_METD_). These rules are recommended for all _METW_ games even if _METD_ is not used.
 
+---
 
 ## Dark Minions
 
 {: .medm }
 > This insert provides expansion rules and clarifications for use with all _Middle-earth Collectible Card Game_ (_MECCG_) products.
+
+---
 
 ## The Lidless Eye
 
@@ -208,10 +215,14 @@ While direct conflict can occur between the different alignments of companies, m
 > 
 > > **Note:** For purposes of readability, these rules use the standard masculine pronouns when referring to a person of uncertain gender. In such cases, these pronouns are intended to convey the meanings: she/he, him/her, etc.
 
+---
+
 ## Against the Shadow
 
 {: .meas }
 > This insert provides expansion rules and clarifications for use with all _Middle-earth Collectible Card Game_ (_MECCG_) products.
+
+---
 
 ## The White Hand
 
@@ -236,6 +247,8 @@ While direct conflict can occur between the different alignments of companies, m
 > - The fallen **Radagast** (of the Greenwood) is the friend of animate nature. He looks at Middle-earth as a big garden with people as the gardeners. He persuades but doesn't dominate. He plans to help nature protect itself from the Dark Lord.
 > - The fallen **Saruman** (of Many Colours) is the master of inanimate nature. He gathers knowledge and makes inanimate objects. He is obsessed with using his own personal power, items, and abilities to contest Sauron.
 > > **Note:** In the terms of _ME: The Wizards_, a Wizard that has failed a corruption check by 1 or 2 has become a **Fallen-wizard** (the Wizards in _MEWH_ are all Fallen-wizards).
+
+---
 
 ## The Challenge Decks
 
@@ -263,6 +276,8 @@ While direct conflict can occur between the different alignments of companies, m
 > During the game you may "reveal" yourself. To do this you play a Ringwraith or Wizard card. That card represents you in the game. If that card is eliminated, through combat or corruption, then you lose the game.
 > 
 > While your opponent is moving, you get to play hazards on his companies. These hazards represent the creatures and events your opponent must deal with while traveling in Middle-earth.
+
+---
 
 ## The Balrog
 
