@@ -7,6 +7,7 @@ permalink: /scenarios/ahobbitsquest
 
 # Scenarios
 
+{: .text-center }
 ## A Hobbit's Quest
 
 {: .px-4 .fs-4 .fw-200 .text-center }
