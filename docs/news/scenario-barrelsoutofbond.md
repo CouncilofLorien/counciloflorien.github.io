@@ -17,7 +17,7 @@ and wondered if it could be used for the escape of his friends,<br>
 and at last he had the desperate beginnings of a plan.
 
 _—The Hobbit_
-{: .px-8 .fs-4 .fw-500 .text-right }
+{: .px-8 .fs-4 .fw-500 .text-center }
 
 Few tasks are so noble as the rescue of one's friends from imprisonment. Often such attempts fail, because of their desperate and improbable nature. Yet to try, to pursue hope, is often better than accepting the loss of those who are dear. And many famous friendships have become the stronger for the debt of freedom.
 
