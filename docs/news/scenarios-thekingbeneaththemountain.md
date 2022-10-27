@@ -7,6 +7,7 @@ permalink: /scenarios/thekingbeneaththemountains
 
 # Scenarios
 
+{: .text-center }
 ## The King beneath the Mountains
 
 {: .px-4 .fs-4 .fw-200 .text-center }
