@@ -16,5 +16,5 @@ body {
 </style>
 
 <i>Laurelindórenan lindelorendor<br>malinornélion ornemalin</i>
-{: .px-8 .fs-9 .fw-700 .text-center }
+{: .px-8 .fs-8 .fw-300 .text-center .text-grey-lt-200	}
 
