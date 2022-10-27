@@ -14,13 +14,12 @@ permalink: /
 - [x] Rouse the earthborn
 - [x] Learn the lore of living creatures
 - [x] Empty larder and cask
-- [ ] Bring secret news
-- [ ] Maintain textual integrity 
 - [ ] Identify changes to the present text
 - [ ] Explain archaic or unusual words
 - [ ] Explore literary and historical influences
 - [ ] Note connections with other writings
-- [ ] Comment on the differences between published forms
+- [ ] Comment on differences in published forms
+- [ ] Maintain textual integrity 
 - [ ] Be conscientious in the impossible task
 - [ ] Light the beacons
 - [ ] Enjoy Tolkien's masterpiece
