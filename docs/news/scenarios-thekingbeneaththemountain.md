@@ -18,7 +18,7 @@ Come haste! Come haste! across the waste!<br>
 The king of friend and kin has need.
 
 _—The Hobbit_
-{: .px-8 .fs-4 .fw-500 .text-right }
+{: .px-8 .fs-4 .fw-500 .text-center }
 
 With the unexpected fall of the dragon Smaug, Thorin Oakenshield became King under the Mountain. He sent messages to all his folk calling upon them for aid, as his need was great. Yet his kin were few and scattered. Only some might quickly reach him, but all would be needed in time, if Lonely Mountain were again to be made fair.
 
