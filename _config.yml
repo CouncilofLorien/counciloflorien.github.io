@@ -156,7 +156,6 @@ callouts:
     title: New
     color: green
   note:
-    title: Note
     color: grey-md
   clarification:
     title: Clarification
