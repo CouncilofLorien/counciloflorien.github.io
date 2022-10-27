@@ -16,7 +16,7 @@ search_exclude: true
 {:toc}
 </details>
 
-## Middle-earth CCG
+## The Middle-earth CCG
 
 The _Middle-earth collectible card game_ was published by Iron Crown Enterprises (ICE), Charlottesville, Virginia USA between 1995 and 1998. It was printed as a two base sets (_The Wizards_ and _The Lidless Eye_) and five expansions (_The Dragons_, _Dark Minions_, _Against the Shadow_, _The White Hand_, and _The Balrog_). The _Middle-earth CCG_, _The Hobbit_, _The Lord of the Rings_, and all characters and places therein are trademark properties of Tolkien Enterprises.
 
@@ -24,7 +24,7 @@ The _Middle-earth collectible card game_ was published by Iron Crown Enterprises
 
 During the Third Age, Sauron the Dark Lord returned and threatened to enslave all of Middle-earth. Against Sauron's threat, the Valar sent five Maiar, known as "Wizards," to Middle-earth to unite and counsel the Free. These five were known as “Wizards” (also called Istari) in Middle-earth, and individually they were called: Gandalf, Saruman, Radagast, Alatar, and Pallando. 
 
-_In Middle-earth: The Wizards_, you play one of these five Wizards. Your goal is to marshal the forces of the Free Peoples so that Sauron can be resisted until the One Ring is destroyed. 
+In _Middle-earth: The Wizards_, you play one of these five Wizards. Your goal is to marshal the forces of the Free Peoples so that Sauron can be resisted until the One Ring is destroyed. 
 
 In _Middle-earth: The Lidless Eye (MELE)_, you play one of Sauron's nine Ringwraiths, the Nazgul. Your goal is to marshal enough resources so that the Dark Lord will be confident enough to send you and your armies to launch the first blow necessary to crush the Free Peoples. 
 
@@ -32,7 +32,14 @@ In _Middle-earth: The White Hand_ you play as a "Fallen-wizard," like Saruman wh
 
 In _Middle-earth: The Balrog_ you play as The Balrog. His goals are basic and simple—accumulate power and destroy his enemies.
 
-While direct conflict can occur between companies of good and evil, most conflict takes the form of _hazards_ or attempts to persuade or dominate each other's characters and forces. These hazards are not "controlled" by the Wizards or Ringwraiths, but rather they represent the evil or dangerous forces that are abroad in Middle-earth, which the players user against one another.
+## Alignment
+
+You may choose between three _alignments_ which determine the types of cards that may be included in your deck and the rules you follow: 
+- _Heroes of the Free People_—The Hero alignment includes Wizard players using hero characters and resources.
+- _Minions of Morgoth_—The Minion alignment includes Ringwraith, Sauron, and Balrog players using minion characters and resources.
+- _Lackeys of a _Fallen-wizard_—The Fallen-wizard alignment includes Fallen-wizard players using both hero and minion characters and resources.
+
+While direct conflict can occur between the different alignments of companies, most conflict takes the form of _hazards_ or attempts to persuade or dominate each other's characters and forces. These hazards are not "controlled" by the Wizards or Ringwraiths, but rather they represent the evil or dangerous forces that are abroad in Middle-earth, which the players user against one another.
 
 ## Player Turn Summary
 
@@ -44,18 +51,14 @@ While direct conflict can occur between companies of good and evil, most conflic
  - _**Site Phase**_ — One at a time, each of your companies may take the following actions at its current, untapped site. The company decides to enter and explore the site. If the site has an automatic-attack, it attacks the company. The company may attempt to play one item, ally, faction, or information resource card that is "playable" at that site. A character in the company must tap to make this attempt. If the card is successfully played, tap the site.
  - _**End-of-Turn Phase**_ — Each player may discard one card. Then each player must draw or discard so that his hand has eight cards.  
  
-## Player Notes
+## Differences From Other Card Games
 
-- Site cards (and region cards in the Standard Game) represent the geography of Middle-earth. They are used to control the acquisition of resources, but they should not direct play. Instead, a player should examine the resources in his hand and then select a nearby site to travel to. Initially, do not worry too much about which site to use, just pick one that has the resource type you want to play. It also helps if you select the location cards you are most likely to use when you put together a play deck.
-- In _Middle-earth_ you will draw multiple cards each turn, and in some cases you will have to discard a number of cards each turn. Don't let this worry you, it's part of the flow of play. Just keep cards that are immediately useful during the next turn **or** that are crucial to your overall strategy (i.e., your primary resource acquisition strategy).
-
-### Notes For Players of other Collectible Card Games
-
- If you have played other collectible card games (CCG), there are several key factors to keep in mind:
- 
+- Site cards and region cards represent the geography of Middle-earth. They are used to control the acquisition of resources, but they should not direct play. Instead, a player should examine the resources in his hand and then select a nearby site to travel to. Initially, do not worry too much about which site to use, just pick one that has the resource type you want to play. It also helps if you select the location cards you are most likely to use when you put together a play deck.
+- In _Middle-earth_ you will draw multiple cards each turn, and in some cases you will have to discard a number of cards each turn. Don't let this worry you, it's part of the flow of play. Just keep cards that are immediately useful during the next turn **or** that are crucial to your overall strategy (i.e., your primary resource acquisition strategy). 
 - _Middle-earth_ is less tactical and more strategic than some other CCGs. There is combat, but it is not the dominant focus of the game. The players in _Middle-earth_ are in direct competition with each other to marshal resources. However, only hazards directly attack the players' characters and they are handled in a less controlled fashion (e.g., they are only played during your opponent's movement/hazard phase, hazard creatures do not remain in play, etc.).
-- For timing purposes, all cards in _Middle-earth_ are played and tapped with the same "speed" (effects take place instantly). But, a player may only play resource cards during his own turn, and a player may only play hazard cards during his opponent's movement/hazard phase.
-  > **Clarification:** The card, Twilight, is an exception to this rule—it can be played at anytime, either as a resource or as a hazard (it does not count against the hazard limit). Certain other cards specifically state when they may be played.
+- For timing purposes, all cards in _Middle-earth_ are played and tapped with the same "speed" (effects take place instantly). But, a player may only play resource cards during his own turn, and a player may only play hazard cards during his opponent's movement/hazard phase. The card, _Twilight_, is an exception to this rule—it can be played at anytime, either as a resource or as a hazard.
+- _Middle-earth_ uses the "hand-filling" card draw mechanic. Each player has a hand-size of 8 cards and both draw cards when each company moves. During a company's movement they can both play cards for or against that company. After, both players draw cards to fill their hand back to their hand-size of 8 cards. Any cards in excess of hand-size must be discarded. The players can also discard a card at the end-of-turn phase and then refill their hand. The more cards you play (or discard), the more cards you draw.
+- There is no numerical currency to use when paying to play resource cards in Middle-earth. Instead, costs are typically paid by tapping characters or by tapping or discarding resources. In addition, because the game uses hand-filling card draw, another typical cost is for the game play to match a particular situation given on an event card. A card cannot be played if it does not apply to a given situation and it cannot be discarded for no effect. Hazard cards typically require a particular situation but the play of hazard cards is also restricted by the hazard limit (typically equal to the company's size).
 
 ---
 
