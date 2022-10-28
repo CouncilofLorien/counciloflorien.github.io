@@ -12,9 +12,7 @@ permalink: /scenarios/ahobbitsquest
 ## A Hobbit's Quest
 
 {: .px-4 .fs-4 .fw-200 .text-center }
-In fact I will go so far as to send you on this adventure.<br>
-Very amusing for me, very good for you—and profitable too, very likely,<br>
-if ever you get over it.
+In fact I will go so far as to send you on this adventure. Very amusing for me, very good for you—and profitable too, very likely, if ever you get over it.
 
 _—The Hobbit_
 {: .px-8 .fs-4 .fw-500 .text-center }
