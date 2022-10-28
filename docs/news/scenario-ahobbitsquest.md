@@ -8,8 +8,6 @@ permalink: /scenarios/ahobbitsquest
 
 # Scenarios
 
-<div style="text-align: center"><a href="/assets/images/BillThePony.png"><img align="middle" src="/assets/images/BillThePony.png" width="150" hspace="0" vspace="0" alt=""></a></div>
-
 {: .text-center }
 ## A Hobbit's Quest
 
@@ -26,7 +24,7 @@ Your Wizard has decided to ask a Hobbit to obtain a few useful items; all travel
 
 ### Special Rules
 
-- Start any Hobbit at Bag End with Bill the Pony and equip the Hobbit with any one minor item and any one major item. If Bill is not available, just start without him. Any duplicated unique starting items are put into the play decks. Bill the Pony is not considered unique for this scenario. In addition, Bill may be brought into play at any haven. Multiple copies of Bill in play can be interpreted as Gilly the Pony, Nob the Pony, etc.
+- <a href="/assets/images/BillThePony.png"><img align="right" src="/assets/images/BillThePony.png" width="150" hspace="0" vspace="0" alt=""></a>Start any Hobbit at Bag End with Bill the Pony and equip the Hobbit with any one minor item and any one major item. If Bill is not available, just start without him. Any duplicated unique starting items are put into the play decks. Bill the Pony is not considered unique for this scenario. In addition, Bill may be brought into play at any haven. Multiple copies of Bill in play can be interpreted as Gilly the Pony, Nob the Pony, etc.
 - You may not reveal yourself with a Wizard card.
 - Another character may be brought into play at any haven or his home site, but he must come into play in the Hobbit's company. Thus, the Hobbit must be at the site where a character is brought into play. No character may be brought into play if the Hobbit is not in play.
 - If the Hobbit is discarded or goes to your hand, the Hobbit can only come back into play if the rest of his company is at the Shire or if all other characters have been removed from play. In this case, until the Hobbit returns, the rest of his company cannot store or play any items, allies, or factions.
