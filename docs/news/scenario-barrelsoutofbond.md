@@ -19,6 +19,8 @@ and at last he had the desperate beginnings of a plan.
 _—The Hobbit_
 {: .px-8 .fs-4 .fw-500 .text-center }
 
+<a href="/assets/images/RescuePrisoners.png"><img align="right" src="/assets/images/RescuePrisoners.png" width="250" hspace="10" vspace="10" alt=""></a>
+
 Few tasks are so noble as the rescue of one's friends from imprisonment. Often such attempts fail, because of their desperate and improbable nature. Yet to try, to pursue hope, is often better than accepting the loss of those who are dear. And many famous friendships have become the stronger for the debt of freedom.
 
 The players seek to free their friends from the enemy's dungeons. Once liberated, these friends may then join in the search for other prisoners. Players look to free as many characters as possible to win.
