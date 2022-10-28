@@ -19,7 +19,7 @@ and at last he had the desperate beginnings of a plan.
 _—The Hobbit_
 {: .px-8 .fs-4 .fw-500 .text-center }
 
-<a href="/assets/images/RescuePrisoners.png"><img align="center" src="/assets/images/RescuePrisoners.png" width="200" hspace="10" vspace="10" alt=""></a>
+<div style="text-align: center"><a href="/assets/images/RescuePrisoners.png"><img align="center" src="/assets/images/RescuePrisoners.png" width="200" hspace="10" vspace="10" alt=""></a></div>
 
 Few tasks are so noble as the rescue of one's friends from imprisonment. Often such attempts fail, because of their desperate and improbable nature. Yet to try, to pursue hope, is often better than accepting the loss of those who are dear. And many famous friendships have become the stronger for the debt of freedom.
 
