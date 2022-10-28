@@ -8,8 +8,6 @@ permalink: /scenarios/barrelsoutofbond
 
 # Scenarios
 
-<div style="text-align: center"><a href="/assets/images/RescuePrisoners.png"><img align="center" src="/assets/images/RescuePrisoners.png" width="150" hspace="0" vspace="0" alt=""></a></div>
-
 {: .text-center }
 ## Barrels out of Bond
 
@@ -25,7 +23,7 @@ The players seek to free their friends from the enemy's dungeons. Once liberated
 
 ### Special Rules
 
-- Put four _Rescue Prisoners_ cards in your resource mix.
+- <a href="/assets/images/RescuePrisoners.png"><img align="center" src="/assets/images/RescuePrisoners.png" width="150" hspace="0" vspace="0" alt=""></a>Put four _Rescue Prisoners_ cards in your resource mix.
 - When you play _Rescue Prisoners_, you may put as many characters from your hand under it as you like. However, you must put at least one, or else _Rescue Prisoners_ may not be played. These characters are considered in play, but they have no effect on the game until _Rescue Prisoners_ is stored. Once _Rescue Prisoners_ is stored, the characters may immediately join their host company if there is enough influence to control them. Otherwise, they are discarded. Bringing characters into play via _Rescue Prisoners_ does not count against the limit that only one character may be brought into play during the organization phase.
 
 ### Victory Conditions
