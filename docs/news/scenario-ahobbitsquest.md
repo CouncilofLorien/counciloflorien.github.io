@@ -17,7 +17,7 @@ In fact I will go so far as to send you on this adventure. Very amusing for me, 
 _—The Hobbit_
 {: .px-8 .fs-4 .fw-500 .text-center }
 
-<div style="text-align: center"><a href="/assets/images/BillThePony.png"><img align="middle" src="/assets/images/BillThePony.png" width="200" hspace="10" vspace="10" alt=""></a></div>
+<div style="text-align: center"><a href="/assets/images/BillThePony.png"><img align="middle" src="/assets/images/BillThePony.png" width="200" hspace="0" vspace="0" alt=""></a></div>
 
 Gandalf enjoyed visiting the Shire. He found its folk amusing.<br><br> Although not considered respectable by the Shire Hobbits, he was thought, in secret, to be interesting to many. Few had never listened to one of his tales or heard mentioned one of his adventures. He was known to give splendid gifts, but for what price? Often Hobbits would disappear and return fabulously wealthy, and sometimes not! As Hobbits go, the Took family seemed to contain among them Gandalf's best conspirators. From this bold and adventurous lot his most successful and well known adventures were devised. Few know all the details of his intrigues. How many other Hobbits left the comfort of their homes for an adventure with a Wizard as their guide? Not even the Wise can guess.
 
