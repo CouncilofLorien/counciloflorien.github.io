@@ -19,9 +19,9 @@ if ever you get over it.
 _—The Hobbit_
 {: .px-8 .fs-4 .fw-500 .text-center }
 
-Gandalf enjoyed visiting the Shire. He found its folk amusing.
+<img align="right" src="/assets/images/BillThePony.png" alt="">
+Gandalf enjoyed visiting the Shire. He found its folk amusing.<br><br> Although not considered respectable by the Shire Hobbits, he was thought, in secret, to be interesting to many. Few had never listened to one of his tales or heard mentioned one of his adventures. He was known to give splendid gifts, but for what price? Often Hobbits would disappear and return fabulously wealthy, and sometimes not! As Hobbits go, the Took family seemed to contain among them Gandalf's best conspirators. From this bold and adventurous lot his most successful and well known adventures were devised. Few know all the details of his intrigues. How many other Hobbits left the comfort of their homes for an adventure with a Wizard as their guide? Not even the Wise can guess.
 
-Although not considered respectable by the Shire Hobbits, he was thought, in secret, to be interesting to many. Few had never listened to one of his tales or heard mentioned one of his adventures. He was known to give splendid gifts, but for what price? Often Hobbits would disappear and return fabulously wealthy, and sometimes not! As Hobbits go, the Took family seemed to contain among them Gandalf's best conspirators. From this bold and adventurous lot his most successful and well known adventures were devised. Few know all the details of his intrigues. How many other Hobbits left the comfort of their homes for an adventure with a Wizard as their guide? Not even the Wise can guess.
 
 Your Wizard has decided to ask a Hobbit to obtain a few useful items; all travel expenses for this adventure will be payed in full; funeral expenses, if the need arrises, will be defrayed by the Wizard.
 
