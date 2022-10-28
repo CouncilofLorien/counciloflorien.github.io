@@ -20,7 +20,7 @@ The king of friend and kin has need.
 _—The Hobbit_
 {: .px-8 .fs-4 .fw-500 .text-center }
 
-<div style="text-align: center"><a href="/assets/images/IronHillDwarves.png"><img align="center" src="/assets/images/IronHillDwarves.png" width="200" hspace="10" vspace="10" alt=""></a><a href="/assets/images/BlueMountainDwarves.png"><img align="center" src="/assets/images/BlueMountainDwarves.png" width="200" hspace="10" vspace="10" alt=""></a></div>
+<div style="text-align: center"><a href="/assets/images/IronHillDwarves.png"><img align="center" src="/assets/images/IronHillDwarves.png" width="200" hspace="0" vspace="0" alt=""></a><a href="/assets/images/BlueMountainDwarves.png"><img align="center" src="/assets/images/BlueMountainDwarves.png" width="200" hspace="10" vspace="10" alt=""></a></div>
 
 With the unexpected fall of the dragon Smaug, Thorin Oakenshield became King under the Mountain. He sent messages to all his folk calling upon them for aid, as his need was great. Yet his kin were few and scattered. Only some might quickly reach him, but all would be needed in time, if Lonely Mountain were again to be made fair.
 
