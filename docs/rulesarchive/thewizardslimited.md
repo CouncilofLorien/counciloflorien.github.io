@@ -3,7 +3,7 @@ layout: default
 title: The Wizards Limited
 parent: Rules Archive
 nav_order: 1
-permalink: /rulesbook/thewizardslimited
+permalink: /rulesarchive/thewizardslimited
 search_exclude: true
 ---
 
