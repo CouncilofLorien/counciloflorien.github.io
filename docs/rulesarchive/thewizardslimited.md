@@ -253,45 +253,44 @@ For example, if you have 3 characters in play, the 3 characters can move separat
 
 Normally, a company is limited to a size of seven, but a company at a Haven site may be of any size. For these purposes, a Wizard counts as a character, but an ally does not. The size of a company is determined for each company at the beginning of the movement/hazard phase (e.g., it remains fixed even if a character leaves the company).
 
-Example: In this example the notation "##" is used. The first number is the
-character's mind attribute; the second is his direct influence (DI). You have
-nine characters you want to control: Gandalf (-10), Aragorn II (93), Boromir
-II (41), Legolas (62), Gimli (62), Frodo (51), Sam (40), Merry (41), and
-Pippin (41). In addition, Aragorn II has Narsil (+1 to direct influence), Frodo
-has The One Ring (+5 to direct influence), and Gandalf has a Lesser Ring (+2 to
-direct influence). In order for you to control and keep these characters in
-play, you must use all of your 20 points of general influence (GI) and their
-direct influence (DI).
+**Example:** _In this example the notation "#•#" is used. The first number is the character's mind attribute; the second is his direct influence (DI). You have nine characters you want to control: Gandalf (-•10), Aragorn II (9•3), Boromir II (4•1), Legolas (6•2), Gimli (6•2), Frodo (5•1), Sam (4•0), Merry (4•1), and Pippin (4•1). In addition, Aragorn II has Narsil (+1 to direct influence), Frodo has The One Ring (+5 to direct influence), and Gandalf has a Lesser Ring (+2 to direct influence). In order for you to control and keep these characters in play, you must use all of your 20 points of general influence (GI) and their direct influence (DI)._
 
- First, Gandalf does not require any influence-he's your Wizard. You use your
-GI to control Frodo, Aragorn II, and Gimli. This uses all 20 points: 5 for
-Frodo, 9 for Aragorn II, and 6 for Gimli. Gandalf has 12 DI (his normal 10 plus
-2 for the Lesser Ring), so he uses it to control Sam, Merry, and Pippin (they
-become his followers). Aragorn II has 4 DI (his 3 plus 1 for Narsil), so he uses
-it to control Boromir II. Frodo has 6 DI (his 1 plus 5 for The One Ring), so he
-uses it to control Legolas. The company size is 7 because Hobbits only count
-half.
+_First, Gandalf does not require any influence-he's your Wizard. You use your GI to control Frodo, Aragorn II, and Gimli. This uses all 20 points: 5 for Frodo, 9 for Aragorn II, and 6 for Gimli. Gandalf has 12 DI (his normal 10 plus 2 for the Lesser Ring), so he uses it to control Sam, Merry, and Pippin (they become his followers). Aragorn II has 4 DI (his 3 plus 1 for Narsil), so he uses it to control Boromir II. Frodo has 6 DI (his 1 plus 5 for The One Ring), so he uses it to control Legolas. The company size is 7 because Hobbits only count half._
 
- The resulting character control organization is outlined below:
-     General Influence (-20)
-Gandalf (-10)Gimli (62)Aragorn (93)Frodo (51)
-Sam (40)Merry (41) Pippin (41)Boromir (41) Legolas (62)
- 
+_The resulting character control organization is outlined below_
+
+```mermaid
+graph TD
+    Gn("Gandalf (-•10)") --- Sm("Sam Gamgee (4•0)")
+    Gn --- Mr("Merry (4•1)")
+    Gn --- Pp("Pippin (4•1)")
+    GI("General Influence (-•20)") 
+    GI --- Gm("Gimli (6•2)")
+    GI --- Ar("Aragorn (9•3)")
+    GI --- Fr("Frodo (5•1)")
+    Ar --- Br("Boromir (4•1)")
+    Fr --- Lg("Legolas (6•2)")  
+```
+
 # 6 • MOVEMENT
 
- In METW the lands of northwest Middle-earth are represented by regions. The
-site cards represent places that characters can visit within those regions. Each
-company has a site card associated with it-the company is located at that site.
-Starting characters are brought into play at the Rivendell site.
+ In _METW_ the lands of northwest Middle-earth are represented by regions. The site cards represent places that characters can visit within those regions. Each company has a site card associated with it—the company is located at that site. Starting characters are brought into play at the Rivendell site.
 
  There are six types of regions and six types of sites:
+ 
  Region Type Symbol Site Type Symbol
- Coastal Seas [c] Havens  [ h ]
- Free-domains [f] Free-holds [ F ]
- Border-lands [b] Border-holds [ B ]
- Wilderness  [w] Ruins & Lairs[ r ]
- Shadow-lands [s] Shadow-holds [ S ]
- Dark-domains [d] Dark-holds [ D ]
+ 
+ Coastal Seas \[ ![](/assets/images/coastalsea.svg) ] Havens  \[ ![](/assets/images/free-haven.svg) ]
+ 
+ Free-domains \[ ![](/assets/images/free-domain.svg) ] Free-holds \[ ![](/assets/images/free-hold.svg) ]
+ 
+ Border-lands \[ ![](/assets/images/border-land.svg) ] Border-holds \[ ![](/assets/images/border-hold.svg) ]
+ 
+ Wilderness  \[ ![](/assets/images/wilderness.svg) ] Ruins & Lairs \[ ![](/assets/images/ruinlair.svg) ]
+ 
+ Shadow-lands \[ ![](/assets/images/shadow-land.svg) ] Shadow-holds \[ ![](/assets/images/shadow-hold.svg) ]
+ 
+ Dark-domains \[ ![](/assets/images/dark-domain.svg) ] Dark-holds \[ ![](/assets/images/dark-hold.svg) ]
  
  Each company moves by playing a new site card (face down). A company does not
 have to move during a given turn.
