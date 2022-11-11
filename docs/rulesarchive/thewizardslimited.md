@@ -92,6 +92,7 @@ To get a general idea of how to play, read the Starter Rules sections that are m
  - When each play deck has been exhausted once, the council starts at the end of the current turn.
  - After you have exhausted your play deck for the first time, you may choose to call the council at the end of any of your turns. The council starts at the end of your opponent's next turn (i.e., your opponent gets one last turn).
  - You may choose to call the council at the end of your turn if you have accumulated at least 20 marshaling points. The council starts at the end of your opponent's next turn (i.e., your opponent gets one last turn).
+
  > **Note:** _If one or both players only has access to a starter deck (76 cards), this requirement of 20 marshaling points should be lowered to 18._
  
 ### The Free Council
@@ -228,61 +229,29 @@ _Special Abilities_: Some characters have special abilities that are detailed on
  
 ## INFLUENCING (CONTROLLING) A CHARACTER
 
- You have a pool of 20 general influence points. At any one time, the total
-mind attributes of your characters in play (not counting followers) must be less
-than or equal to 20; this total is equal to your used general influence points.
-Your unused general influence points help your characters resist influence
-attempts made by your opponent.
+You have a pool of 20 general influence points. At any one time, the total mind attributes of your characters in play (not counting followers) must be less than or equal to 20; this total is equal to your _used general influence points_. Your _unused general influence points_ help your characters resist influence attempts made by your opponent.
 
 ### Direct Influence
 
- Some characters have a direct influence attribute of one or more. If such a
-character's direct influence is greater than or equal to another one of your
-characters' mind attribute, he may take control of that other character, who
-then becomes a follower of the controlling character. The following conditions
-must be met:
+Some characters have a direct influence attribute of one or more. If such a character's direct influence is greater than or equal to another one of your characters' mind attribute, he may take control of that other character, who then becomes a follower of the controlling character. The following conditions must be met:
 
- The total mind attributes of all of a character's followers may not exceed his
- direct influence.
+The total mind attributes of all of a character's followers may not exceed his direct influence.
  
- A character can take control of another character that is in play only if both
- characters are at the same site.
+A character can take control of another character that is in play only if both characters are at the same site.
  
- A follower does not require influence points from your general pool. The
-follower must remain stacked under the character exerting the direct influence
-at all times. A follower may not use his direct influence to control characters
-(i.e., a follower may not have his own followers). A follower is handled in all
-other ways as a normal character (e.g., counts for company size, takes actions
-normally, etc.).
+A follower does not require influence points from your general pool. The follower must remain stacked under the character exerting the direct influence at all times. A follower may not use his direct influence to control characters (i.e., a follower may not have his own followers). A follower is handled in all other ways as a normal character (e.g., counts for company size, takes actions normally, etc.).
 
- If you have enough unused general influence points, you may move a follower
-from direct influence to general influence (or vice versa) during your
-organization phase.
+If you have enough unused general influence points, you may move a follower from direct influence to general influence (or vice versa) during your organization phase.
 
- If a character directly influencing a follower is removed from play, the
-follower remains in play. However, during your next organization phase, you must
-discard the follower, place the follower under the control of another character
-in his company with enough available direct influence, or place the follower
-under the control of general influence (if enough is available).
+If a character directly influencing a follower is removed from play, the follower remains in play. However, during your next organization phase, you must discard the follower, place the follower under the control of another character in his company with enough available direct influence, or place the follower under the control of general influence (if enough is available).
 
 ## COMPANIES
 
- A company is a group of characters that move and act together. This allows
-characters to move and defend as a unit, allowing stronger characters to protect
-the weaker characters. This mechanism can be used to allow a variety of tactics
-during play.
+A company is a group of characters that move and act together. This allows characters to move and defend as a unit, allowing stronger characters to protect the weaker characters. This mechanism can be used to allow a variety of tactics during play.
           
- For example, if you have 3 characters in play, the 3 characters can move
-separately and perhaps do more in terms of acquiring marshalling points (items,
-other characters, etc.); but each individual character is more vulnerable to
-danger. However, the same 3 characters operating as a company might acquire
-marshaling points more slowly, but they are safer (i.e., you risk less).
+For example, if you have 3 characters in play, the 3 characters can move separately and perhaps do more in terms of acquiring marshalling points (items, other characters, etc.); but each individual character is more vulnerable to danger. However, the same 3 characters operating as a company might acquire marshaling points more slowly, but they are safer (i.e., you risk less).
 
- Normally, a company is limited to a size of seven, but a company at a Haven
-site may be of any size. For these purposes, a Wizard counts as a character, but
-an ally does not. The size of a company is determined for each company at the
-beginning of the movement/hazard phase (e.g., it remains fixed even if a
-character leaves the company).
+Normally, a company is limited to a size of seven, but a company at a Haven site may be of any size. For these purposes, a Wizard counts as a character, but an ally does not. The size of a company is determined for each company at the beginning of the movement/hazard phase (e.g., it remains fixed even if a character leaves the company).
 
 Example: In this example the notation "##" is used. The first number is the
 character's mind attribute; the second is his direct influence (DI). You have
