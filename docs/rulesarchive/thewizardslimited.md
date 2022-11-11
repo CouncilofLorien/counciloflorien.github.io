@@ -832,9 +832,9 @@ Follow this procedure for each of your companies. You decide which of your compa
  company.  
  The maximum number of hazards that may be played on a company during a given movement/hazard phase (i.e., the hazard limit) is equal to the larger
  of two or the size of the company (Hobbits count half, round up). The hazard limit is determined for each company at the beginning of the movement/hazard phase (e.g., it remains fixed).
- 4) If the company has been required to return to its site of origin, remove the new site card and proceed to step 6. No additional hazards may be played on that company.
- 5) Remove the company's old site card (i.e., the site the company came from). Discard the site card if it is tapped and not a Haven. Otherwise, return it to the location deck. At this point, the company is considered to be at the new site. _Standard Rules Only:_ Return any region cards to the location deck.
- 6) You must discard any cards in excess of eight in your hand; your opponent does the same for his hand. If you have fewer than eight cards, you must draw cards until your hand has eight cards; your opponent does the same for his hand.
+ 4. If the company has been required to return to its site of origin, remove the new site card and proceed to step 6. No additional hazards may be played on that company.
+ 5. Remove the company's old site card (i.e., the site the company came from). Discard the site card if it is tapped and not a Haven. Otherwise, return it to the location deck. At this point, the company is considered to be at the new site. _Standard Rules Only:_ Return any region cards to the location deck.
+ 6. You must discard any cards in excess of eight in your hand; your opponent does the same for his hand. If you have fewer than eight cards, you must draw cards until your hand has eight cards; your opponent does the same for his hand.
  
 ### Site Phase
 
