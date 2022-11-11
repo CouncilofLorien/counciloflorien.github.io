@@ -277,19 +277,19 @@ graph TD
 
  There are six types of regions and six types of sites:
  
- Region Type Symbol Site Type Symbol
+ | Region Type | Symbol | Site Type | Symbol |
+ | ---: | :--- | ---: | :--- |
+ Coastal Seas | \[ ![](/assets/images/coastalsea.svg) ] |  Havens  |  \[ ![](/assets/images/free-haven.svg) ]
  
- Coastal Seas \[ ![](/assets/images/coastalsea.svg) ] Havens  \[ ![](/assets/images/free-haven.svg) ]
+ Free-domains |  \[ ![](/assets/images/free-domain.svg) ]  | Free-holds  | \[ ![](/assets/images/free-hold.svg) ]
  
- Free-domains \[ ![](/assets/images/free-domain.svg) ] Free-holds \[ ![](/assets/images/free-hold.svg) ]
+ Border-lands |  \[ ![](/assets/images/border-land.svg) ] |  Border-holds  | \[ ![](/assets/images/border-hold.svg) ]
  
- Border-lands \[ ![](/assets/images/border-land.svg) ] Border-holds \[ ![](/assets/images/border-hold.svg) ]
+ Wilderness  |  \[ ![](/assets/images/wilderness.svg) ]  | Ruins & Lairs  | \[ ![](/assets/images/ruinlair.svg) ]
  
- Wilderness  \[ ![](/assets/images/wilderness.svg) ] Ruins & Lairs \[ ![](/assets/images/ruinlair.svg) ]
+ Shadow-lands  | \[ ![](/assets/images/shadow-land.svg) ]  | Shadow-holds  | \[ ![](/assets/images/shadow-hold.svg) ]
  
- Shadow-lands \[ ![](/assets/images/shadow-land.svg) ] Shadow-holds \[ ![](/assets/images/shadow-hold.svg) ]
- 
- Dark-domains \[ ![](/assets/images/dark-domain.svg) ] Dark-holds \[ ![](/assets/images/dark-hold.svg) ]
+ Dark-domains  | \[ ![](/assets/images/dark-domain.svg) ]  | Dark-holds |  \[ ![](/assets/images/dark-hold.svg) ]
  
  Each company moves by playing a new site card (face down). A company does not have to move during a given turn.
 
@@ -886,94 +886,99 @@ You may discard one card. Then you must draw or discard cards until your hand ha
 **Playtesting Credits:** James Andrews, Christian Antonini, Kevin Barrett, D. Begiebing, Guy Botero, Brian Bouton, Jay Bryan, Brian Carr, Waldon Chisholm, Silvio Negri Clementi, Frank Coker, Jessica Colborn, R. Mark Colborn, Philip DeLuca, D. Dennis, Bernd Dietrich, Bill Edwards, O. Estefania, Klaus Etzold, Andrea Fattori, K. Fischer, Luigi Lo Forti, Scott Frazer, Wendy Frazer, Madai Frey, Matthew Fulton, Kevin Garber, Eduard Garcia, David Glenn, Jesse Goldstein, O. Johnston, Robert Kelly, Ralph Kennedy, Oscar Lafuente, Nick Laiacona, Steve Marvin, F. Navarro, Will Niebling, William Niebling, Elmar Perkuhn, D. Platnick, Frank Pfeifer, Jeffrey C. Riley, Cory John Rueb, Francesc Matas Salla, Doug Schnur, Jason Smith, Lowell Stouder, Henri Jean Vanaise, J.L. Viadel, D. Villanueva, Dave Weinstein, James Whitehouse, M. Wilson, Darrell Zuercher, Steven Balbo & "The Arcane Circle," J.L. Martinez & the Heroe Research Group, the Berkeley Games crew.  
  
 # REGION MAP KEY
-         
-Region Name Type
 
-1 Lindon   f
-2 N£meriador  w
-3 Forochel   w
-4 Arthedain  w
-5 The Shire  f
-6 Cardolan   w
-7 Angmar   s
-8 Rhudaur   w
-9 Hollin   w
-10   Dunland  w
-11  Enedhwaith  w
-12 Old P–kel-land  w
-13   Gundabad  w
-14   High Pass  d
-15  Redhorn Gate  w
-16  Gap of Isen  b
-17  Anduin Vales  b
-18 Wold & Foothills  w
-19   Fangorn  w
-20    Rohan  b
-21Grey Mountain Narrows s
-22 Woodland Realm  b
-23 Western Mirkwood  w
-24 Heart of Mirkwood  w
-25 Southern Mirkwood  d
-26  Brown Lands  s
-27   Dagorlad  s
-28 Withered Heath  w
-29 Northern Rhovanion  w
-30 Southern Rhovanion  w
-31  Iron Hills  w
-32   Dorwinion  b
-33  Horse Plains  s
-34  Old P–kel Gap  w
-35   Andrast  w
-36   Anfalas  w
-37   Lamedon  b
-38   Belfalas  f
-39   Lebennin  f
-40   An¢rien  f
-41   Ithilien  w
-42   Harondor  w
-43    Khand  s
-44  Imlad Morgul  s
-45    Ud–n  d
-46   Gorgoroth  d
-47    Nurn  d
-48  Elven Shores  c
-49 Eriadoran Coast  c
-50  Andrast Coast  c
-51 Bay of Belfalas  c
-52 Mouths of the Anduin c
+| # | Region Name | Type |
+| ---: | :--- | :--- |
+1 | Lindon   | ![](/assets/images/free-domain.svg)
+2 | Numeriador  | ![](/assets/images/wilderness.svg)
+3 | Forochel   | ![](/assets/images/wilderness.svg)
+4 | Arthedain |  ![](/assets/images/wilderness.svg)
+5 | The Shire  | ![](/assets/images/free-domain.svg)
+6 | Cardolan  |  ![](/assets/images/wilderness.svg)
+7 | Angmar   | ![](/assets/images/shadow-land.svg)
+8 | Rhudaur  |  ![](/assets/images/wilderness.svg)
+9 | Hollin   | ![](/assets/images/wilderness.svg)
+10 |   Dunland  | ![](/assets/images/wilderness.svg)
+11 |  Enedhwaith  | ![](/assets/images/wilderness.svg)
+12 | Old P–kel-land  | ![](/assets/images/wilderness.svg)
+13  |  Gundabad  | ![](/assets/images/wilderness.svg)
+14  |  High Pass  | ![](/assets/images/dark-domain.svg)
+15 |  Redhorn Gate  | ![](/assets/images/wilderness.svg)
+16  | Gap of Isen  | ![](/assets/images/border-land.svg)
+17 |  Anduin Vales  | ![](/assets/images/border-land.svg)
+18 | Wold & Foothills  | ![](/assets/images/wilderness.svg)
+19 |   Fangorn  | ![](/assets/images/wilderness.svg)
+20 |    Rohan  | ![](/assets/images/border-land.svg)
+21 | Grey Mountain Narrows  | ![](/assets/images/shadow-land.svg)
+22 | Woodland Realm  | ![](/assets/images/border-land.svg)
+23 | Western Mirkwood  | ![](/assets/images/wilderness.svg)
+24 | Heart of Mirkwood  | ![](/assets/images/wilderness.svg)
+25 | Southern Mirkwood  | ![](/assets/images/dark-domain.svg)
+26 |  Brown Lands  | ![](/assets/images/shadow-land.svg)
+27 |   Dagorlad  | ![](/assets/images/shadow-land.svg)
+28 | Withered Heath  | ![](/assets/images/wilderness.svg)
+29 | Northern Rhovanion  | ![](/assets/images/wilderness.svg)
+30 | Southern Rhovanion  | ![](/assets/images/wilderness.svg)
+31 |  Iron Hills  | ![](/assets/images/wilderness.svg)
+32 |   Dorwinion  | ![](/assets/images/border-land.svg)
+33 |  Horse Plains  | ![](/assets/images/shadow-land.svg)
+34 |  Old P–kel Gap  | ![](/assets/images/wilderness.svg)
+35 |   Andrast  | ![](/assets/images/wilderness.svg)
+36  |  Anfalas  | ![](/assets/images/wilderness.svg)
+37 |   Lamedon  | ![](/assets/images/border-land.svg)
+38  |  Belfalas  | ![](/assets/images/free-domain.svg)
+39 |   Lebennin  | ![](/assets/images/free-domain.svg)
+40 |   An¢rien  | ![](/assets/images/free-domain.svg)
+41 |   Ithilien  | ![](/assets/images/wilderness.svg)
+42 |   Harondor  | ![](/assets/images/wilderness.svg)
+43  |   Khand  | ![](/assets/images/shadow-land.svg)
+44 |  Imlad Morgul  | ![](/assets/images/shadow-land.svg)
+45  |   Udun  | ![](/assets/images/dark-domain.svg)
+46  |  Gorgoroth   | ![](/assets/images/dark-domain.svg)
+47  |   Nurn  | ![](/assets/images/dark-domain.svg)
+48  | Elven Shores  | ![](/assets/images/coastalsea.svg)
+49  |Eriadoran Coast  | ![](/assets/images/coastalsea.svg)
+50  | Andrast Coast  | ![](/assets/images/coastalsea.svg)
+51  |Bay of Belfalas  | ![](/assets/images/coastalsea.svg)
+52  |Mouths of the Anduin | ![](/assets/images/coastalsea.svg)
 
 # SYMBOL KEY
 
-Region Type Symbol
-Coastal Seas  c
-Free-domains  f
-Border-lands  b
-Wilderness  w
-Shadow-lands  s
-Dark-domains  d
+| Region Type | Symbol |
+| ---: | :--- |
+Coastal Seas |   ![](/assets/images/coastalsea.svg)
+Free-domains |   ![](/assets/images/free-domain.svg)
+Border-lands |   ![](/assets/images/border-land.svg)
+Wilderness |   ![](/assets/images/wilderness.svg)
+Shadow-lands |   ![](/assets/images/shadow-land.svg)
+Dark-domains  |  ![](/assets/images/dark-domain.svg)
 
- Site Type Symbol
- Havens   h
- Free-holds  F
- Border-holds  B
- Ruins & Lairs r
- Shadow-holds  S
- Dark-holds  D
- Other  Symbol
- Mind   m
- Direct Influence i
+| Site Type | Symbol |
+| ---: | :--- |
+ Havens  |   ![](/assets/images/free-haven.svg)
+ Free-holds  |  ![](/assets/images/free-hold.svg)
+ Border-holds  |  ![](/assets/images/border-hold.svg)
+ Ruins & Lairs |  ![](/assets/images/ruinlair.svg)
+ Shadow-holds   | ![](/assets/images/shadow-hold.svg)
+ Dark-holds   | ![](/assets/images/dark-hold.svg)
+ 
+ |  Other  |  Symbol | 
+ | ---: | :--- |
+ Mind   |  ![](/assets/images/mind.svg)
+ Direct Influence  |  ![](/assets/images/directinfluence.svg)
  
 # COMBAT MODIFICATIONS
 
- Condition    Modification to Target's Prowess
- Unwounded, tapped character   -1
- Wounded character      -2
- For each unused strike allocated  -1
- Untapped character decides not to tap -3
- For each character tapped to support +1
- Up to 1 resource card requiring skillvaries
- Other resource cards    varies
- Hazard cards      varies
+| Condition  |  Modification to Target's Prowess |
+| ---: | :--- |
+ Unwounded, tapped character |  -1
+ Wounded character      |  -2
+ For each unused strike allocated  |  -1
+ Untapped character decides not to tap  | -3
+ For each character tapped to support |  +1
+ Up to 1 resource card requiring skill | varies
+ Other resource cards  |   varies
+ Hazard cards    |    varies
  
  Middle-earth: The Wizards is a collectible card game produced by Iron Crown
 Enterprises, Inc. (ICE), Charlottesville, Virginia USA, the exclusive holder of
