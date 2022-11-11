@@ -92,7 +92,6 @@ To get a general idea of how to play, read the Starter Rules sections that are m
  - When each play deck has been exhausted once, the council starts at the end of the current turn.
  - After you have exhausted your play deck for the first time, you may choose to call the council at the end of any of your turns. The council starts at the end of your opponent's next turn (i.e., your opponent gets one last turn).
  - You may choose to call the council at the end of your turn if you have accumulated at least 20 marshaling points. The council starts at the end of your opponent's next turn (i.e., your opponent gets one last turn).
-
  > **Note:** _If one or both players only has access to a starter deck (76 cards), this requirement of 20 marshaling points should be lowered to 18._
  
 ### The Free Council
@@ -193,7 +192,7 @@ Playing a character does **not** tap a site.
 
 Each character and Wizard is unique. So if you already have a character in play, your opponent may not play the same character. Similarly, if a character has been eliminated, he may not be brought into play again by either player.
 
-**Note:** _If you do not have enough influence to control all of your characters in play, you must discard any excess characters at the end of your next organization phase.
+**Note:** _If you do not have enough influence to control all of your characters in play, you must discard any excess characters at the end of your next organization phase._
  
 ## REVEALING A WIZARD
 
@@ -221,9 +220,9 @@ _Prowess_ \[lower left, to left of "/"]: A character's prowess is a measure of a
  
 _Body_ \[lower left, to right of "/"]: A character's body is a measure of how difficult it is to physically damage the character. This is a mixture of the ability to avoid an attack (e.g., dodging) and the ability to absorb or deflect an attack (e.g., armor, shield, blocking).
  
-Mind \[ ![](/assets/images/mind.svg) ]: A character's mind determines how many influence points (a Wizard's general influence points or a character's direct influence points) are required to keep this character in play (i.e., controlled).
+_Mind_ \[ ![](/assets/images/mind.svg) ]: A character's mind determines how many influence points (a Wizard's general influence points or a character's direct influence points) are required to keep this character in play (i.e., controlled).
  
-Marshalling Points \[ upper left ]: This is the number of marshalling points you receive when you have the character in play. This value represents the character's importance to the Free Peoples' struggle against Sauron.
+_Marshalling Points_ \[ upper left ]: This is the number of marshalling points you receive when you have the character in play. This value represents the character's importance to the Free Peoples' struggle against Sauron.
  
 _Special Abilities_: Some characters have special abilities that are detailed on their cards and certain resource cards. For example, Faramir has an influence bonus against the Rangers of Ithilien faction, owyn has a heightened prowess against Nazgul, Frodo has a corruption check modifier, etc.
  
@@ -233,11 +232,11 @@ You have a pool of 20 general influence points. At any one time, the total mind 
 
 ### Direct Influence
 
-Some characters have a direct influence attribute of one or more. If such a character's direct influence is greater than or equal to another one of your characters' mind attribute, he may take control of that other character, who then becomes a follower of the controlling character. The following conditions must be met:
+Some characters have a direct influence attribute of one or more. If such a character's direct influence is greater than or equal to another one of your characters' mind attribute, he may take control of that other character, who then becomes a _follower_ of the controlling character. The following conditions must be met:
 
-The total mind attributes of all of a character's followers may not exceed his direct influence.
+ - The total mind attributes of all of a character's followers may not exceed his direct influence.
  
-A character can take control of another character that is in play only if both characters are at the same site.
+ - A character can take control of another character that is in play only if both characters are at the same site.
  
 A follower does not require influence points from your general pool. The follower must remain stacked under the character exerting the direct influence at all times. A follower may not use his direct influence to control characters (i.e., a follower may not have his own followers). A follower is handled in all other ways as a normal character (e.g., counts for company size, takes actions normally, etc.).
 
@@ -292,109 +291,69 @@ graph TD
  
  Dark-domains \[ ![](/assets/images/dark-domain.svg) ] Dark-holds \[ ![](/assets/images/dark-hold.svg) ]
  
- Each company moves by playing a new site card (face down). A company does not
-have to move during a given turn.
+ Each company moves by playing a new site card (face down). A company does not have to move during a given turn.
 
- If the company's current site is a Haven, the new site card must list that
-Haven as its nearest Haven. If the company's current site is a non-haven site,
-the new site card must be the Haven listed as the nearest haven on the current
-site card.
+ If the company's current site is a Haven, the new site card must list that Haven as its nearest Haven. If the company's current site is a non-haven site, the new site card must be the Haven listed as the nearest haven on the current site card.
 
- Suggestion: To help decide where a company should move, look at the resource
- cards in your hand. Then decide to which of your available sites to move.
- A site path is the sequence of regions between a site and the nearest Haven.
-However, each region in the sequence is only indicated by its type, not by its
-name. Each non-Haven site card has a site path on it. Each Haven site card has
-two site paths, but each of those two paths gives the sequence of regions
-between the Haven and one of the two Havens nearest to it.
+**Suggestion:** _To help decide where a company should move, look at the resource cards in your hand. Then decide to which of your available sites to move._ 
 
- Example: The Lonely Mountain site's nearest Haven is the Lorien site. The
- regions between these two sites are Wold & Foothills (Wilderness), Anduin
- Vales (Wilderness), Woodland Realm (Border-land), and Northern Rhovanion
- (Wilderness). The symbol for Wilderness is w,the symbol for Border-land is
- b. So the site path between L˘rien and the Lonely Mountain is:
- 
-          w w b w
+A _site path_ is the sequence of regions between a site and the nearest Haven. However, each region in the sequence is only indicated by its type, not by its name. Each non-Haven site card has a site path on it. Each Haven site card has two site paths, but each of those two paths gives the sequence of regions between the Haven and one of the two Havens nearest to it.
+
+**Example:** _The Lonely Mountain site's nearest Haven is the Lorien site. The regions between these two sites are Wold & Foothills (Wilderness), Anduin Vales (Wilderness), Woodland Realm (Border-land), and Northern Rhovanion (Wilderness). The symbol for Wilderness is ![](/assets/images/wilderness.svg) ,the symbol for Border-land is ![](/assets/images/border-land.svg). So the site path between Lorien and the Lonely Mountain is:_ ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg)
           
- By using site paths, a company can move from any site to any other site.
- 
-First, if neccessary, the company moves to the nearest Haven. Then, if
-neccessary, it moves to another Haven. Finally, it moves from that Haven to the
-destination site.
+By using site paths, a company can move from any site to any other site. First, if neccessary, the company moves to the nearest Haven. Then, if neccessary, it moves to another Haven. Finally, it moves from that Haven to the destination site.
 
 ### Region Types
 
-Coastal Seas [ c ]: A region consisting largely of open water.
-Free-domains [ f ]: Very safe, civilized regions (e.g., Lindon, An˘rien, etc.).
-Border-lands [ b ]: Less civilized regions on the border of the wilderness or
- shadow territory (e.g., Rohan, Lamedon, etc.).
-Wilderness [ w ]: Sparsely populated, uncivilized regions that cover most of NW
- Middle-earth (e.g., High Pass, Enedhwaith, Rhudaur, etc.).
-Shadow-lands [ s ]: Regions with some active Shadow-forces
- and settlements (Imlad Morgul, Dagorlad, etc.).
-Dark-domains [ d ]: A region with a heavy concentration of Shadow-forces
- (Southern Mirkwood, Gorgoroth, etc.).
+_Coastal Seas_ \[ ![](/assets/images/coastalsea.svg) ]: A region consisting largely of open water.
+
+_Free-domains_ \[ ![](/assets/images/free-domain.svg) ]: Very safe, civilized regions (e.g., Lindon, Anorien, etc.).
+
+_Border-lands_ \[ ![](/assets/images/border-land.svg) ]: Less civilized regions on the border of the wilderness or shadow territory (e.g., Rohan, Lamedon, etc.).
+
+_Wilderness_ \[ ![](/assets/images/wilderness.svg) ]: Sparsely populated, uncivilized regions that cover most of NW Middle-earth (e.g., High Pass, Enedhwaith, Rhudaur, etc.).
+
+_Shadow-lands_ \[ ![](/assets/images/shadow-land.svg) ]: Regions with some active Shadow-forces and settlements (Imlad Morgul, Dagorlad, etc.).
+
+_Dark-domains_ \[ ![](/assets/images/dark-domain.svg) ]: A region with a heavy concentration of Shadow-forces (Southern Mirkwood, Gorgoroth, etc.).
  
 ### Site Types
 
-Havens [ h ]: Very safe sites of rest and healing
- (e.g., Rivendell, Grey Havens, Edhellond, and L˘rien).
+_Havens_ \[ ![](/assets/images/free-haven.svg) ]: Very safe sites of rest and healing (e.g., Rivendell, Grey Havens, Edhellond, and Lorien).
  
-Free-holds [ F ]: Sites of safety, but still dangerous due to
- assassins, traitors, etc. (e.g., Minas Tirith, Edoras, etc.).
+_Free-holds_ \[ ![](/assets/images/free-hold.svg) ]: Sites of safety, but still dangerous due to assassins, traitors, etc. (e.g., Minas Tirith, Edoras, etc.).
  
-Border-holds [ B ]: Sites of relative safety (usually in Border regions), but
- still dangerous due to bandits, assassins, traitors, etc. (e.g., Bree, Lake-
- town, etc.).
+_Border-holds_ \[ ![](/assets/images/border-hold.svg) ]: Sites of relative safety (usually in Border regions), but still dangerous due to bandits, assassins, traitors, etc. (e.g., Bree, Lake-town, etc.).
  
-Ruins & Lairs [ r ]: Deserted sites often inhabited by dangerous creatures
- (e.g., the Lonely Mountain, Barrow-downs, etc.).
+_Ruins & Lairs_ \[ ![](/assets/images/ruinlair.svg) ]: Deserted sites often inhabited by dangerous creatures (e.g., the Lonely Mountain, Barrow-downs, etc.).
  
-Shadow-holds [ S ]: Relatively deserted sites often
- inhabited by dangerous creatures and Shadow-forces
- (e.g., Goblin-gate, Mount Gram, etc.).
+_Shadow-holds_ \[ ![](/assets/images/shadow-hold.svg) ]: Relatively deserted sites often inhabited by dangerous creatures and Shadow-forces (e.g., Goblin-gate, Mount Gram, etc.).
  
-Dark-holds [ D ]: Very dangerous sites with heavy concentrations of Shadow-
- forces (Dol Guldur, Barad-d–r, Minas Morgul, etc.).
+_Dark-holds_ \[ ![](/assets/images/dark-hold.svg) ]: Very dangerous sites with heavy concentrations of Shadow-forces (Dol Guldur, Barad-d–r, Minas Morgul, etc.).
  
 # 7 • COMBAT
 
- Combat occurs when a creature hazard is played on a company or when a company
-at a site with an automatic-attack attempts to play a resource card for that
-site or when any other card indicates that a company must face an attack.
+Combat occurs when a creature hazard is played on a company **or** when a company at a site with an _automatic-attack_ attempts to play a resource card for that site **or** when any other card indicates that a company must face an attack. 
 
- An attack consists of one or more of strikes. Each strike can target one and
-only one character in the attacked company, and each character can be the target
-of only one strike from a given attack. Unless the attack states otherwise, the
-defender chooses which untapped characters will be the targets of given strikes.
-Then, the attacker chooses which other defending characters not yet assigned a
-strike will be the target of any remaining unassigned strikes.
+An attack consists of one or more of _strikes_. Each strike can target one and only one character in the attacked company, and each character can be the target of only one strike from a given attack. Unless the attack states otherwise, the defender chooses which _untapped_ characters will be the targets of given strikes. Then, the attacker chooses which other defending characters not yet assigned a strike will be the target of any remaining unassigned strikes.
 
 ### Strike Modifications
 
- If an attack has more strikes than the company has characters, the attacker
-may allocate the excess strikes as -1 modifications (i.e., a -1 modification for
-each unallocated strike) to the prowesses of whichever target(s) he chooses.
- Each unwounded, tapped character must modify his prowess by -1. Each wounded
-character must modify his prowess by -2.
+If an attack has more strikes than the company has characters, the attacker may allocate the excess strikes as -1 modifications (i.e., a -1 modification for each unallocated strike) to the prowesses of whichever target(s) he chooses. Each unwounded, tapped character must modify his prowess by -1. Each wounded character must modify his prowess by -2.
 
- Normally a character that is the target of a strike is tapped after the strike
-is resolved. However, a character that is the target of a strike may choose to
-take a -3 modification to his prowess. If so, the character is not tapped after
-the strike is resolved (he is still tapped if he is wounded).
+Normally a character that is the target of a strike is tapped after the strike is resolved. However, a character that is the target of a strike may choose to take a -3 modification to his prowess. If so, the character is not tapped after the strike is resolved (he is still tapped if he is wounded).
 
- The target's prowess may also be modified due to the play of certain resource
-and hazard cards. Only one resource card requiring skill may be played against a
-given strike.
+The target's prowess may also be modified due to the play of certain resource and hazard cards. Only one resource card requiring skill may be played against a given strike.
 
- ConditionModification to Target's Prowess
- Unwounded, tapped character   -1
- Wounded character      -2
- For each unused strike allocated (i.e., each extra strike) -1
- Untapped character decides not to tap -3
- Up to one resource card that requires skill varies
- Other resource cards    varies
- Hazard cards      varies
+ | Condition | Modification to Target's Prowess |
+ | ---: | :--- |
+ Unwounded, tapped character | -1
+ Wounded character | -2
+ For each unused strike allocated (i.e., each extra strike) | -1
+ Untapped character decides not to tap | -3
+ Up to one resource card that requires skill | varies
+ Other resource cards | varies
+ Hazard cards | varies
  
 ### Resolving Strikes
 
