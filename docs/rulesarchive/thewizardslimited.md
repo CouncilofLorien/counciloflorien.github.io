@@ -852,40 +852,45 @@ Follow this procedure for each of your companies. You decide which of your compa
 
 You may discard one card. Then you must draw or discard cards until your hand has 8 cards. Your opponent does the same for his hand.
  
-# CREDITS
+# SYMBOL KEY
+
+| Region Type | Symbol |
+| ---: | :--- |
+Coastal Seas |   ![](/assets/images/coastalsea.svg)
+Free-domains |   ![](/assets/images/free-domain.svg)
+Border-lands |   ![](/assets/images/border-land.svg)
+Wilderness |   ![](/assets/images/wilderness.svg)
+Shadow-lands |   ![](/assets/images/shadow-land.svg)
+Dark-domains  |  ![](/assets/images/dark-domain.svg)
+
+| Site Type | Symbol |
+| ---: | :--- |
+ Havens  |   ![](/assets/images/free-haven.svg)
+ Free-holds  |  ![](/assets/images/free-hold.svg)
+ Border-holds  |  ![](/assets/images/border-hold.svg)
+ Ruins & Lairs |  ![](/assets/images/ruinlair.svg)
+ Shadow-holds   | ![](/assets/images/shadow-hold.svg)
+ Dark-holds   | ![](/assets/images/dark-hold.svg)
  
-**Art Director:** Jessica Ney-Grimm  
-**Base Design:** Coleman Charlton  
-**Project & Graphics Coordination:** Peter C. Fenlon  
-**Game Development:** Coleman Charlton, Mike Reynolds  
-**Card & Packaging Production:** Nick Morawitz  
-**Assisting Art Direction:** Jason O. Hawkins  
-**Design Team:** Coleman Charlton, John W. Curtis III, Pete Fenlon, Jason Hawkins, Mike Reynolds  
-**Applescripting:** Sal Soghoian  
-**Cardface & Cardback Graphics:** Derek Carbonneau  
-**Computer Color Balancing:** Stephen Jiranek, Nick Morawitz  
-**Computer Scanning Coordination:** Cotton Puryear  
-**Computer Scanning:** Photoworks of Virginia, Inc.  
-**Design Contributions:** N. Morawitz, Jessica Ney-Grimm, Dave Platnick  
-**Eye Cardback Art:** Derek Carbonneau  
-**Graphics Contributions:** Pete Fenlon, Nick Morawitz, Jessica Ney-Grimm  
-**General Production:** Donald Dennis, Wendy Frazer  
-**Initial Design Parameters:** C. Charlton, John Curtis, Pete Fenlon, Jason Hawkins, Nick Morawitz, Jessica Ney-Grimm, Mike Reynolds  
-**Map Cardback & Region Card Art:** Jo Hartwig  
-**Marketing, Operations & Sales:** Deane Begiebing, Will Dinwiddie, Olivia Johnston, Dave Morris, Bruce Neidlinger, Dave Platnick, Daniel Williams, Monica Wilson  
-**Middle-earth Content:** P. Fenlon, Jason Hawkins, Jessica Ney-Grimm  
-**Playtest Coordinator:** Mike Reynolds  
-**Printer & Service House Coordination:** Kurt H. Fischer  
-**Printer Liaison:** Ilse Hendrickx, Luc Mertens, Andr‚ Van Laer  
-**Rules Production:** Coleman Charlton, Nick Morawitz, Pete Fenlon  
-**Symbols:** Derek Carbonneau, Pete Fenlon, Nick Morawitz  
-**Logo:** David Martin, Derek Carbonneau  
-**Proofreading:** Deane Begiebing, Pete Fenlon, Olivia Johnston, Heike Kubasch, Dave Platnick, Mike Reynolds, Monica Wilson  
-**Special Contributions:** Derek Carbonneau, DPP, Thomas Graves, KCJ, Liz Leonard, Ken McGlothlen, Jesper Myrfors, Bruce Neidlinger, Jeffrey Ney-Grimm, Lou Rexing, Michael Sloan, Robin Swope, James Whitehouse, Janet Winter, Wayne Young, and friends & families  
-**Special Thanks:** Peter Adkison, Laurie Battle, Will & Schar Niebling, Danny Kilbert, Bob Carty, Mike Davis, Lou Rexing, Wayne Godfrey, Gary E. Smith, the Chessex crews, the InQuest crew and our on-line friends, especially the {TFF Folder}.  
-**Playtesting Credits:** James Andrews, Christian Antonini, Kevin Barrett, D. Begiebing, Guy Botero, Brian Bouton, Jay Bryan, Brian Carr, Waldon Chisholm, Silvio Negri Clementi, Frank Coker, Jessica Colborn, R. Mark Colborn, Philip DeLuca, D. Dennis, Bernd Dietrich, Bill Edwards, O. Estefania, Klaus Etzold, Andrea Fattori, K. Fischer, Luigi Lo Forti, Scott Frazer, Wendy Frazer, Madai Frey, Matthew Fulton, Kevin Garber, Eduard Garcia, David Glenn, Jesse Goldstein, O. Johnston, Robert Kelly, Ralph Kennedy, Oscar Lafuente, Nick Laiacona, Steve Marvin, F. Navarro, Will Niebling, William Niebling, Elmar Perkuhn, D. Platnick, Frank Pfeifer, Jeffrey C. Riley, Cory John Rueb, Francesc Matas Salla, Doug Schnur, Jason Smith, Lowell Stouder, Henri Jean Vanaise, J.L. Viadel, D. Villanueva, Dave Weinstein, James Whitehouse, M. Wilson, Darrell Zuercher, Steven Balbo & "The Arcane Circle," J.L. Martinez & the Heroe Research Group, the Berkeley Games crew.  
+ |  Other  |  Symbol | 
+ | ---: | :--- |
+ Mind   |  ![](/assets/images/mind.svg)
+ Direct Influence  |  ![](/assets/images/di.svg)
  
-# REGION MAP KEY
+# COMBAT MODIFICATIONS
+
+| Condition  |  Modification to Target's Prowess |
+| ---: | :--- |
+ Unwounded, tapped character |  -1
+ Wounded character      |  -2
+ For each unused strike allocated  |  -1
+ Untapped character decides not to tap  | -3
+ For each character tapped to support |  +1
+ Up to 1 resource card requiring skill | varies
+ Other resource cards  |   varies
+ Hazard cards    |    varies
+ 
+ # REGION MAP KEY
 
 | # | Region Name | Type |
 | ---: | :--- | :--- |
@@ -922,7 +927,7 @@ You may discard one card. Then you must draw or discard cards until your hand ha
 31 |  Iron Hills  | ![](/assets/images/wilderness.svg)
 32 |   Dorwinion  | ![](/assets/images/border-land.svg)
 33 |  Horse Plains  | ![](/assets/images/shadow-land.svg)
-34 |  Old P–kel Gap  | ![](/assets/images/wilderness.svg)
+34 |  Old Pukel Gap  | ![](/assets/images/wilderness.svg)
 35 |   Andrast  | ![](/assets/images/wilderness.svg)
 36  |  Anfalas  | ![](/assets/images/wilderness.svg)
 37 |   Lamedon  | ![](/assets/images/border-land.svg)
@@ -941,80 +946,63 @@ You may discard one card. Then you must draw or discard cards until your hand ha
 50  | Andrast Coast  | ![](/assets/images/coastalsea.svg)
 51  |Bay of Belfalas  | ![](/assets/images/coastalsea.svg)
 52  |Mouths of the Anduin | ![](/assets/images/coastalsea.svg)
+ 
+# CREDITS
+ 
+**Art Director:** Jessica Ney-Grimm  
+**Base Design:** Coleman Charlton  
+**Project & Graphics Coordination:** Peter C. Fenlon  
+**Game Development:** Coleman Charlton, Mike Reynolds  
+**Card & Packaging Production:** Nick Morawitz  
+**Assisting Art Direction:** Jason O. Hawkins  
+**Design Team:** Coleman Charlton, John W. Curtis III, Pete Fenlon, Jason Hawkins, Mike Reynolds  
+**Applescripting:** Sal Soghoian  
+**Cardface & Cardback Graphics:** Derek Carbonneau  
+**Computer Color Balancing:** Stephen Jiranek, Nick Morawitz  
+**Computer Scanning Coordination:** Cotton Puryear  
+**Computer Scanning:** Photoworks of Virginia, Inc.  
+**Design Contributions:** N. Morawitz, Jessica Ney-Grimm, Dave Platnick  
+**Eye Cardback Art:** Derek Carbonneau  
+**Graphics Contributions:** Pete Fenlon, Nick Morawitz, Jessica Ney-Grimm  
+**General Production:** Donald Dennis, Wendy Frazer  
+**Initial Design Parameters:** C. Charlton, John Curtis, Pete Fenlon, Jason Hawkins, Nick Morawitz, Jessica Ney-Grimm, Mike Reynolds  
+**Map Cardback & Region Card Art:** Jo Hartwig  
+**Marketing, Operations & Sales:** Deane Begiebing, Will Dinwiddie, Olivia Johnston, Dave Morris, Bruce Neidlinger, Dave Platnick, Daniel Williams, Monica Wilson  
+**Middle-earth Content:** P. Fenlon, Jason Hawkins, Jessica Ney-Grimm  
+**Playtest Coordinator:** Mike Reynolds  
+**Printer & Service House Coordination:** Kurt H. Fischer  
+**Printer Liaison:** Ilse Hendrickx, Luc Mertens, Andr‚ Van Laer  
+**Rules Production:** Coleman Charlton, Nick Morawitz, Pete Fenlon  
+**Symbols:** Derek Carbonneau, Pete Fenlon, Nick Morawitz  
+**Logo:** David Martin, Derek Carbonneau  
+**Proofreading:** Deane Begiebing, Pete Fenlon, Olivia Johnston, Heike Kubasch, Dave Platnick, Mike Reynolds, Monica Wilson  
+**Special Contributions:** Derek Carbonneau, DPP, Thomas Graves, KCJ, Liz Leonard, Ken McGlothlen, Jesper Myrfors, Bruce Neidlinger, Jeffrey Ney-Grimm, Lou Rexing, Michael Sloan, Robin Swope, James Whitehouse, Janet Winter, Wayne Young, and friends & families  
+**Special Thanks:** Peter Adkison, Laurie Battle, Will & Schar Niebling, Danny Kilbert, Bob Carty, Mike Davis, Lou Rexing, Wayne Godfrey, Gary E. Smith, the Chessex crews, the InQuest crew and our on-line friends, especially the {TFF Folder}.  
+**Playtesting Credits:** James Andrews, Christian Antonini, Kevin Barrett, D. Begiebing, Guy Botero, Brian Bouton, Jay Bryan, Brian Carr, Waldon Chisholm, Silvio Negri Clementi, Frank Coker, Jessica Colborn, R. Mark Colborn, Philip DeLuca, D. Dennis, Bernd Dietrich, Bill Edwards, O. Estefania, Klaus Etzold, Andrea Fattori, K. Fischer, Luigi Lo Forti, Scott Frazer, Wendy Frazer, Madai Frey, Matthew Fulton, Kevin Garber, Eduard Garcia, David Glenn, Jesse Goldstein, O. Johnston, Robert Kelly, Ralph Kennedy, Oscar Lafuente, Nick Laiacona, Steve Marvin, F. Navarro, Will Niebling, William Niebling, Elmar Perkuhn, D. Platnick, Frank Pfeifer, Jeffrey C. Riley, Cory John Rueb, Francesc Matas Salla, Doug Schnur, Jason Smith, Lowell Stouder, Henri Jean Vanaise, J.L. Viadel, D. Villanueva, Dave Weinstein, James Whitehouse, M. Wilson, Darrell Zuercher, Steven Balbo & "The Arcane Circle," J.L. Martinez & the Heroe Research Group, the Berkeley Games crew.
 
-# SYMBOL KEY
+# COPYRIGHT 
 
-| Region Type | Symbol |
-| ---: | :--- |
-Coastal Seas |   ![](/assets/images/coastalsea.svg)
-Free-domains |   ![](/assets/images/free-domain.svg)
-Border-lands |   ![](/assets/images/border-land.svg)
-Wilderness |   ![](/assets/images/wilderness.svg)
-Shadow-lands |   ![](/assets/images/shadow-land.svg)
-Dark-domains  |  ![](/assets/images/dark-domain.svg)
+_Middle-earth: The Wizards_ is a collectible card game produced by Iron Crown Enterprises, Inc. (ICE), Charlottesville, Virginia USA, the exclusive holder of the worldwide adventure games license based on J.R.R. Tolkien's The Hobbit and The Lord of the Rings.
 
-| Site Type | Symbol |
-| ---: | :--- |
- Havens  |   ![](/assets/images/free-haven.svg)
- Free-holds  |  ![](/assets/images/free-hold.svg)
- Border-holds  |  ![](/assets/images/border-hold.svg)
- Ruins & Lairs |  ![](/assets/images/ruinlair.svg)
- Shadow-holds   | ![](/assets/images/shadow-hold.svg)
- Dark-holds   | ![](/assets/images/dark-hold.svg)
- 
- |  Other  |  Symbol | 
- | ---: | :--- |
- Mind   |  ![](/assets/images/mind.svg)
- Direct Influence  |  ![](/assets/images/directinfluence.svg)
- 
-# COMBAT MODIFICATIONS
+Copyright © 1995 Tolkien Enterprises, a division of The Saul Zaentz Company, Berkeley, CA. _Middle-earth: The Wizards_, _Middle-earth_, _The Hobbit_, _The Lord of the Rings_, and _The Return of the King_, and all characters and places therein, and the Burning Eye are trademark properties of Tolkien Enterprises. 
 
-| Condition  |  Modification to Target's Prowess |
-| ---: | :--- |
- Unwounded, tapped character |  -1
- Wounded character      |  -2
- For each unused strike allocated  |  -1
- Untapped character decides not to tap  | -3
- For each character tapped to support |  +1
- Up to 1 resource card requiring skill | varies
- Other resource cards  |   varies
- Hazard cards    |    varies
+The characters "Alatar" and "Pallando" appear in _Unfinished Tales_. They appear here with specific permission of the Estate of J. R. R. Tolkien. The copyright to _Unfinished Tales_ is held by HarperCollins Publishers, in succession to George Allen & Unwin (Publishers) Ltd. and on behalf of Christopher Reuel Tolkien and Frank Richard Williamson, the Executors of the Estate of J.R.R. Tolkien.
+
+_Middle-earth: The Wizards_ is made for ICE in Belgium by Carta Mundi.
+
+The character symbols ( ![](/assets/images/di.svg) ![](/assets/images/mind.svg) ), region symbols ( ![](/assets/images/coastalsea.svg) ![](/assets/images/free-domain.svg) ![](/assets/images/border-land.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg) ![](/assets/images/wilderness.svg) ), and site symbols( ![](/assets/images/free-haven.svg) ![](/assets/images/free-hold.svg) ![](/assets/images/border-hold.svg) ![](/assets/images/shadow-hold.svg) ![](/assets/images/dark-hold.svg) ![](/assets/images/ruinlair.svg) ) are trademark properties of Iron Crown Enterprises. All rights reserved.
+
+_The Fellowship of the Ring_ — Copyright © 1955, 1965 by J.R.R. Tolkien. Copyright © renewed 1982 by Christopher R. Tolkien, Michael H.R. Tolkien, John F.R. Tolkien and Priscilla M.A.R. Tolkien.
+
+_The Hobbit_ — Copyright © 1937, 1938, 1966 by J.R.R. Tolkien.
+
+_The Two Towers_ — Copyright © 1954, 1965 by J.R.R. Tolkien. Copyright © renewed 1982 by Christopher R. Tolkien, Michael H.R. Tolkien, John F.R. Tolkien and Priscilla M.A.R. Tolkien.
  
- Middle-earth: The Wizards is a collectible card game produced by Iron Crown
-Enterprises, Inc. (ICE), Charlottesville, Virginia USA, the exclusive holder of
-the worldwide adventure games license based on J.R.R. Tolkien's The Hobbit and
-The Lord of the Rings.
- Copyright c 1995 Tolkien Enterprises, a division of The Saul Zaentz Company,
-Berkeley, CA. Middle-earth: The Wizards, Middle-earth, The Hobbit, The Lord of
-the Rings, and The Return of the King, and all characters and places therein,
-and the Burning Eye are trademark properties of Tolkien Enterprises.
- The characters "Alatar" and "Pallando" appear in Unfinished Tales. They appear
-here with specific permission of the Estate of J. R. R. Tolkien. The copyright
-to Unfinished Tales is held by HarperCollins Publishers, in succession to George
-Allen & Unwin (Publishers) Ltd. and on behalf of Christopher Reuel Tolkien and
-Frank Richard Williamson, the Executors of the Estate of J.R.R. Tolkien.
- Middle-earth: The Wizards is made for ICE in Belgium by Carta Mundi.
- The character symbols (I M), region symbols ( c f b s d w ), and site symbols
-( H F B S D R ) are trademark properties of Iron Crown Enterprises. All rights
-reserved.
- The Fellowship of the Ring - Copyright c 1955, 1965 by J.R.R. Tolkien.
-Copyright c renewed 1982 by Christopher R. Tolkien, Michael H.R. Tolkien, John
-F.R. Tolkien and Priscilla M.A.R. Tolkien.
- The Hobbit - Copyright c 1937, 1938, 1966 by J.R.R. Tolkien.
- The Two Towers - Copyright c 1954, 1965 by J.R.R. Tolkien. Copyright c
-renewed 1982 by Christopher R. Tolkien, Michael H.R. Tolkien, John F.R. Tolkien
-and Priscilla M.A.R. Tolkien.
- See page 5 for more copyright information.
+_The Return of the King_ — Copyright © 1955, 1965 by J.R.R. Tolkien. Copyright © renewed 1983 by Christopher R. Tolkien, Michael H.R. Tolkien, John F.R. Tolkien and Priscilla M.A.R. Tolkien.  
+
+_Unfinished Tales_ — Copyright © 1980 by George Allen & Unwin (Publishers) Ltd.
  
- The Return of the King - Copyright c 1955, 1965 by J.R.R. Tolkien. Copyright
-c renewed 1983 by Christopher R. Tolkien, Michael H.R. Tolkien, John F.R.
-Tolkien and Priscilla M.A.R. Tolkien.
- Unfinished Tales - Copyright c 1980 by George Allen & Unwin (Publishers) Ltd.
- 
- Address rules questions and comments via email to met...@aol.com or via
- snail mail to our P.O. Box address. Look for METW discussion areas on your
- favorite on-line service and visit our home page on the WWW (url not
- available at press time).
+ Address rules questions and comments via email to met...@aol.com or via snail mail to our P.O. Box address. Look for METW discussion areas on your favorite on-line service and visit our home page on the WWW (url not available at press time).
 
 [^bar]: This web version of the rules is not marked with bars. See the pdf of the _The Wizards Limited_ Rulesbook.
 [^randomvalue]: This method of obtaining a random value is not permitted in tournament play and it is not used in casual play. This method may be used if neither player has dice or a cell phone. 
