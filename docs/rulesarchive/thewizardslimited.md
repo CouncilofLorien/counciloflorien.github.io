@@ -357,396 +357,213 @@ The target's prowess may also be modified due to the play of certain resource an
  
 ### Resolving Strikes
 
- Strikes are resolved one at a time as decided by the defending player. When
-you choose a strike to resolve, determine all of the factors affecting the
-strike before the roll is made.
+ Strikes are resolved one at a time as decided by the defending player. When you choose a strike to resolve, determine all of the factors affecting the strike before the roll is made.
 
- To resolve a strike, the defender makes a roll (2D6) and adds his modified
-prowess:
-
- If the modified result is greater than the strike's prowess, the strike fails.
- Such a strike is defeated if its body attribute is "-" or if it has a body
- attribute and fails a body check.
- 
- If the modified result is equal to the strike's prowess, the strike was
- ineffectual (i.e., a "tie" means that the strike is avoided but not defeated).
- Otherwise, the strike was successful (i.e., the character was defeated). The
- target character is wounded and must make a body check.
+ To resolve a strike, the defender makes a roll (2D6) and adds his modified prowess:
+ - If the modified result is greater than the strike's prowess, the strike _fails_. Such a strike is defeated if its body attribute is "-" **or** if it has a body attribute and fails a body check.
+ - If the modified result is equal to the strike's prowess, the strike was _ineffectual_ (i.e., a "tie" means that the strike is avoided but not defeated). 
+ - Otherwise, the strike was _successful_ (i.e., the character was defeated). The target character is wounded and must make a body check.
  
 ### Body Checks
 
- If a strike against a character is successful, the character is wounded and
-must make a body check. To make a body check, the attacker makes a roll (2D6);
-if this value is greater than the character's body attribute, the character is
-eliminated. If the character was already wounded before this strike, the result
-is modified
-by +1.
+ If a strike against a character is successful, the character is wounded and must make a body check. To make a _body check_, the **attacker** makes a roll (2D6); if this value is greater than the character's _body attribute_, the character is eliminated. If the character was already wounded before this strike, the result is modified by +1.
 
- As presented above, a strike that fails is defeated if its body attribute is
-"-" or if it has a body attribute and fails a body check. To make such a body
-check, the defender makes a roll (2D6); if this value is greater than the
-strike's body attribute, the strike is defeated.
+ As presented above, a strike that fails is defeated if its body attribute is "-" **or** if it has a body attribute and fails a body check. To make such a body check, the **defender** makes a roll (2D6); if this value is greater than the strike's _body attribute_, the strike is defeated.
 
 ### Defeating an Attack
 
- An attack by a hazard creature is defeated if all of its strikes directed
-against a company are defeated. If a defeated attack is a hazard creature, it is
-placed in the defender's marshaling point pile. The defender receives MPs for
-eliminating it.
+ An attack by a hazard creature is defeated if all of its strikes directed against a company are defeated. If a defeated attack is a hazard creature, it is placed in the defender's marshaling point pile. The defender receives MPs for eliminating it.
 
 ### Sequencing Strikes
 
- You and your opponent must play any cards that modify the number of strikes
-before you assign the strikes.
+ You and your opponent must play any cards that modify the number of strikes before you assign the strikes.
 
- Strikes are resolved one at a time as decided by the defending player (i.e.,
-he chooses a strike to resolve, the strike is resolved, he chooses the next
-strike to resolve, the strike is resolved, etc.). All of the factors affecting
-the strike must be decided before making the roll (2D6). Address these factors
-in the following order:
-1) The attacker may play hazard cards that affect the strike (these count toward
- the hazard limit against this company).
-2) The attacker may decide to use any or all of his remaining (if any) -1
- modifications due to unallocated strikes (i.e., strikes in excess of the
- company's size).
-3) A target untapped character may take a -3 modification so that he will not
- automatically tap.
-4) The defending player may play resource cards that affect the strike (up to
- one card that requires skill).
+ Strikes are resolved one at a time as decided by the defending player (i.e., he chooses a strike to resolve, the strike is resolved, he chooses the next strike to resolve, the strike is resolved, etc.). All of the factors affecting the strike must be decided before making the roll (2D6). Address these factors in the following order:
+ 1. The attacker may play hazard cards that affect the strike (these count toward the hazard limit against this company).
+ 2. The attacker may decide to use any or all of his remaining (if any) -1 modifications due to unallocated strikes (i.e., strikes in excess of the company's size).
+ 3. A target untapped character may take a -3 modification so that he will not automatically tap.
+ 4. The defending player may play resource cards that affect the strike (up to one card that requires skill).
  
 ### Defeating an Attack
 
- If a hazard creature has multiple attacks, each must be defeated in order for
-the defender to receive the MPs.
- If one of the strikes was cancelled or ineffectual, the attack is not
-defeated. If the attack is cancelled, the attack is not defeated. A cancelled
-attack has no effect on the defending company.
+ If a hazard creature has multiple attacks, each must be defeated in order for the defender to receive the MPs.
+ 
+ If one of the strikes was cancelled or ineffectual, the attack is not defeated. If the attack is cancelled, the attack is not defeated. A cancelled attack has no effect on the defending company.
           
-Example of Combat [(#/#) means (prowess/body)]
- You control Bilbo (1/9), Balin (4/7) and his follower Bofur (4/7) (with
-Healing Herbs), Beretar (5/8), and Beregond (4/8) (with an Elven Cloak). They
-are en route from Rivendell to L˘rien. There are 4.5 characters in the company
-which rounds up to 5, meaning the hazard limit is 5.
- Your opponent plays Orc-raiders. He keys this hazard creature to the border-
-land of your company's site path because he is mindful of Beregond's Elven Cloak
-(a minor item that cancels a strike keyed to wilderness). Bilbo, a scout, taps
-and plays Concealment to cancel the attack. That's 1 hazard down and potentially
-4 to go.
- Your opponent next plays Orc-warband (second hazard) and states it is keyed to
-the border-land. It's a (4/-) hazard creature with 5 strikes that receives +3 to
-prowess against a company that has faced an orc attack. Even though Bilbo
-cancelled the Orc-raiders, the company is still considered to have faced them,
-so the Orc-warband will be
-(7/-). There are 5 strikes and 5 characters, so each character will face one
-strike (no decisions on strike allocation can be made). Bilbo elects to face his
-strike first. His opponent plays Weariness of the Heart (third hazard) on Bilbo
-to give -1 to his prowess. This modification to his prowess is in addition to
-the -1 Bilbo suffers for being tapped. No other effects are played to affect the
-strike and Bilbo rolls the dice. The result is a 5. Bilbo's prowess of -1 plus
-the dice roll is less than the prowess of the Orc-warband's strike against
-Bilbo, so Bilbo is wounded (inverted on the table). Your opponent rolls the body
-check. It's a 7-Bilbo lives!
- Beregond faces the next strike. Beregond taps and rolls a 10, defeating his
-strike handily. Bofur chooses to face his strike next. He chooses not to tap and
-to therefore take a -3 modification to his prowess. He rolls a 6 which ties the
-prowess of the Orc-warband strike. The strike is ineffectual.
- Balin resolves his strike next, taps, and defeats it by rolling a 7. Beretar
-resolves the final strike, taps, and defeats it by rolling a 3.
- Your opponent sees that one character, Bofur, is untapped. He plays Giant (13/-
-) (a fourth hazard) and reasons that Bofur will have to take its one vicious
-strike. (After all, if you give up the option of assigning the one strike to
-your untapped character, namely Bofur, the opponent will be able to choose from
-all 5 characters which will take the strike). Your opponent does not see what
-Bofur sees. Before assigning the strike, Bofur taps and uses his Healing Herbs
-to untap Beregond, who then announces he is taking the strike. The Giant is
-keyed solely to double wilderness, so Beregond taps his Elven Cloak to cancel
-its single strike.
- The opponent announces he will play no more hazards and the company breathes a
-sigh of relief. Bilbo will be able to heal at the start of the next turn since
-his company will be in L˘rien, a Haven.
+**Example of Combat** _\[(#/#) means (prowess/body)]
+ You control Bilbo (1/9), Balin (4/7) and his follower Bofur (4/7) (with Healing Herbs), Beretar (5/8), and Beregond (4/8) (with an Elven Cloak). They are en route from Rivendell to L˘rien. There are 4.5 characters in the company which rounds up to 5, meaning the hazard limit is 5.
+
+Your opponent plays Orc-raiders. He keys this hazard creature to the border-land of your company's site path because he is mindful of Beregond's Elven Cloak (a minor item that cancels a strike keyed to wilderness). Bilbo, a scout, taps and plays Concealment to cancel the attack. That's 1 hazard down and potentially 4 to go.
+
+Your opponent next plays Orc-warband (second hazard) and states it is keyed to the border-land. It's a (4/-) hazard creature with 5 strikes that receives +3 to prowess against a company that has faced an orc attack. Even though Bilbo cancelled the Orc-raiders, the company is still considered to have faced them, so the Orc-warband will be (7/-). There are 5 strikes and 5 characters, so each character will face one strike (no decisions on strike allocation can be made). Bilbo elects to face his strike first. His opponent plays Weariness of the Heart (third hazard) on Bilbo to give -1 to his prowess. This modification to his prowess is in addition to the -1 Bilbo suffers for being tapped. No other effects are played to affect the strike and Bilbo rolls the dice. The result is a 5. Bilbo's prowess of -1 plus the dice roll is less than the prowess of the Orc-warband's strike against Bilbo, so Bilbo is wounded (inverted on the table). Your opponent rolls the body check. It's a 7—Bilbo lives!
+
+Beregond faces the next strike. Beregond taps and rolls a 10, defeating his strike handily. Bofur chooses to face his strike next. He chooses not to tap and to therefore take a -3 modification to his prowess. He rolls a 6 which ties the prowess of the Orc-warband strike. The strike is ineffectual.
+ 
+Balin resolves his strike next, taps, and defeats it by rolling a 7. Beretar resolves the final strike, taps, and defeats it by rolling a 3.
+ 
+Your opponent sees that one character, Bofur, is untapped. He plays Giant (13/-) (a fourth hazard) and reasons that Bofur will have to take its one vicious strike. (After all, if you give up the option of assigning the one strike to your untapped character, namely Bofur, the opponent will be able to choose from all 5 characters which will take the strike). Your opponent does not see what Bofur sees. Before assigning the strike, Bofur taps and uses his Healing Herbs to untap Beregond, who then announces he is taking the strike. The Giant is keyed solely to double wilderness, so Beregond taps his Elven Cloak to cancel its single strike.
+
+The opponent announces he will play no more hazards and the company breathes a sigh of relief. Bilbo will be able to heal at the start of the next turn since his company will be in Lorien, a Haven._
 
 # 8 • CORRUPTION
 
- Each character has a corruption point total. This starts at zero, but certain
-cards and activities will increase and decrease this total during play. Most
-cards that affect a character's corruption are kept under the character's card
-until they are discarded. Only one corruption card may be played on a given
-character each turn.
+Each character has a corruption point total. This starts at zero, but certain cards and activities will increase and decrease this total during play. Most cards that affect a character's corruption are kept under the character's card until they are discarded. Only one corruption card may be played on a given character each turn.
 
-Corruption Checks
+### Corruption Checks
 
- When a card indicates that one of your characters must make a corruption
-check, you must make a roll (2D6) and add any appropriate modifications:
- If the modified result is greater than the character's corruption point
- total, nothing happens.
- 
- If the modified result is equal to the character's corruption point total or
- one less than the character's corruption point total, you must discard the
- character along with any non-follower cards he controls. In this case, if the
- character is a Wizard, you immediately lose the game.
- 
- Otherwise, the character is eliminated and you must discard any non-follower
- cards he controls. In this case, if the character is a Wizard, you
- immediately lose the game.
+When a card indicates that one of your characters must make a corruption check, you must make a roll (2D6) and add any appropriate modifications:
+
+ - If the modified result is greater than the character's corruption point total, nothing happens.
+ - If the modified result is equal to the character's corruption point total or one less than the character's corruption point total, you must discard the character along with any non-follower cards he controls. In this case, if the character is a Wizard, you immediately lose the game.
+ - Otherwise, the character is eliminated and you must discard any non-follower cards he controls. In this case, if the character is a Wizard, you immediately lose the game.
           
- As characters adventure in Middle-earth, they are subject to temptations. They
-run the risk of becoming corrupted and leaving the cause of the Free Peoples
-(i.e., a corrupted character leaves play, a corrupted Wizard loses the game). In
-The Lord of the Rings, Saruman was corrupted by power, Radagast was corrupted by
-the lure of nature, Alatar and Pallando succumbed to unrevealed corruptions and
-disappeared into the East.
+ As characters adventure in Middle-earth, they are subject to temptations. They run the risk of becoming corrupted and leaving the cause of the Free Peoples (i.e., a corrupted character leaves play, a corrupted Wizard loses the game). In _The Lord of the Rings_, Saruman was corrupted by power, Radagast was corrupted by the lure of nature, Alatar and Pallando succumbed to unrevealed corruptions and disappeared into the East.
 
- A character's corruption point total can be determined at any time by summing
-the corruption point values of the corruption cards under his card. Certain
-characters receive modifications to corruptions checks, and certain cards may
-give modifications to a corruption check. Modifications to corruption checks are
-printed in the lower right of the appropriate card. A plus or a minus sign
-indicates a modification rather than corruption points.
+ A character's corruption point total can be determined at any time by summing the corruption point values of the corruption cards under his card. Certain characters receive modifications to corruptions checks, and certain cards may give modifications to a corruption check. Modifications to corruption checks are printed in the lower right of the appropriate card. A plus or a minus sign indicates a modification rather than corruption points.
 
 # 9 • INFLUENCE
 
- You have a pool of general influence. Your characters and Wizard have direct
-influence. These two forms of influence can control and affect characters (see
-pages 14-15) and factions.
+ You have a pool of general influence. Your characters and Wizard have direct influence. These two forms of influence can control and affect characters (see pages 14-15)[^characters] and factions.
 
 ### Bringing an Ally into Play
 
- You can automatically bring an ally into play by tapping one of your
-characters. The character must be at the site indicated on the ally's card.
-Every ally is controlled by the character that brought it into play; i.e., it
-must be placed under and remain with that character's card. An ally does not
-count against its controlling character's direct influence or your general
-influence.
+ You can automatically bring an ally into play by tapping one of your characters. The character must be at the site indicated on the ally's card. Every ally is controlled by the character that brought it into play; i.e., it must be placed under and remain with that character's card. An ally does not count against its controlling character's direct influence or your general influence.
 
 ### Bringing a Faction into Play
 
- In order to play a faction card, you must tap one of your characters that is
-at the "site" indicated on the faction's card. Then you must make an influence
-check. Make a roll (2D6), add your character's unused direct influence, and add
-any appropriate modifications (from the faction card and from any other cards
-played). All modification cards must be played before making the roll (2D6).
+In order to play a faction card, you must tap one of your characters that is at the "site" indicated on the faction's card. Then you must make an influence check. Make a roll (2D6), add your character's unused direct influence, and add any appropriate modifications (from the faction card and from any other cards played). All modification cards must be played before making the roll (2D6).
 
- If the modified result is greater than the value required on the faction card,
-you place the faction in your play area. Otherwise, you discard the faction
-card. Once a faction is brought into play, it is not controlled by any specific
-character and it does not count against general or direct influence.
+If the modified result is greater than the value required on the faction card, you place the faction in your play area. Otherwise, you discard the faction card. Once a faction is brought into play, it is not controlled by any specific character and it does not count against general or direct influence.
           
- Your unused general influence is equal to 20 minus the sum of the mind
-attributes of your non-follower characters in play (i.e., do not count your
-followers).
+Your _unused general influence_ is equal to 20 minus the sum of the mind attributes of your non-follower characters in play (i.e., do not count your followers).
 
- A character's unused direct influence is equal to his direct influence
-attribute minus the sum of the mind attributes of his followers. All characters
-have a direct influence attribute of at least zero, so any character has unused
-direct influence of at least zero.
+A character's _unused direct influence_ is equal to his direct influence attribute minus the sum of the mind attributes of his followers. All characters have a direct influence attribute of at least zero, so any character has unused direct influence of at least zero.
 
- Note: In the Standard Game, direct influence can be used to attempt to
- interfere with your opponent's control of his characters, followers,
- factions, allies, and items.
+**Note:** _In the Standard Game, direct influence can be used to attempt to interfere with your opponent's control of his characters, followers,  factions, allies, and items._
  
 # 10 • PLAYING AND DRAWING CARDS
 
- You may only play hazard cards during your opponent's movement/hazard phase.
-Except for resource long-events, you may play resource cards anytime during your
-own turn unless specifically prohibited by the rules or the cards themselves.
+You may only play hazard cards during your opponent's movement/hazard phase. Except for resource long-events, you may play resource cards anytime during your own turn unless specifically prohibited by the rules or the cards themselves.
 
- Unless stated otherwise, a card is playable only if its effect applies to an
-existing situation, hazard, attack, etc. (i.e., you may not play a card just to
-discard it).
+Unless stated otherwise, a card is playable only if its effect applies to an existing situation, hazard, attack, etc. (i.e., you may not play a card just to discard it).
 
- During your movment/hazard phase, both players draw cards when each company
-moves. If a company moves to a non-haven site, you may draw up to the number of
-cards indicated by the site that it moved to (at least one card must be drawn);
-your opponent does the same. If the company moves to a haven site, you may draw
-up to the number of cards indicated by the site that you moved from (at least
-one card must be drawn); your opponent does the same.
+During your movment/hazard phase, both players draw cards when each company moves. If a company moves to a non-haven site, you _may_ draw up to the number of cards indicated by the site that it _moved to_ (at least one card must be drawn); your opponent does the same. If the company moves to a haven site, you _may_ draw up to the number of cards indicated by the site that you _moved from_ (at least one card must be drawn); your opponent does the same.
 
 ## THE HAZARD LIMIT
 
- During your opponent's movement/hazard phase, the number of hazard cards that
-you may play on one of your opponent's companies is that company's hazard limit.
-The hazard limit is equal to two or the company's size, whichever is greater. A
-company's size is equal to the number of characters in it, with each Hobbit
-counting half (round up). For this purpose, Wizards and followers do count as
-characters, but allies do not.
+During your opponent's movement/hazard phase, the number of hazard cards that you may play on one of your opponent's companies is that company's _hazard limit_. The hazard limit is equal to two **or** the company's size, whichever is greater. A company's size is equal to the number of characters in it, with each Hobbit counting half (round up). For this purpose, Wizards and followers do count as characters, but allies do **not**.
 
- A hazard limit can be modified by the play of certain cards. Tapping a Nazg–l
-permanent-event does count against the hazard limit.
+A hazard limit can be modified by the play of certain cards. Tapping a Nazgul permanent-event _does_ count against the hazard limit.
 
 ## STORING CARDS
 
- During your organization phase, you may store any of your items that are at a
-Haven site. The controlling character must make a corruption check before an
-item can be stored.
+During your organization phase, you may _store_ any of your items that are at a Haven site. The controlling character must make a corruption check before an item can be stored.
 
- A stored item is placed in your marshaling point pile and still counts for
-marshaling points. Once an item is stored it may not be unstored and brought
-back into play. The One Ring may not be stored.
+A stored item is placed in your _marshalling point pile_ and still counts for marshaling points. Once an item is stored it may not be unstored and brought back into play. The One Ring may not be stored.
 
- Some items and resource cards state that they can be stored when at a specific
-site (e.g., the Book of Mazarbul can be stored at a Dwarf-hold). Such an item or
-resource card is still placed in the marshaling point pile and cannot be brought
-back into play.
+Some items and resource cards state that they can be stored when at a specific site (e.g., the Book of Mazarbul can be stored at a Dwarf-hold). Such an item or resource card is still placed in the marshalling point pile and cannot be brought back into play.
 
 ## TRANSFERRING ITEMS
 
- During your organization phase, you may transfer items between characters at
-the same site. The controlling character must make a corruption check before an
-item can be transferred.
+During your organization phase, you may transfer items between characters at the same site. The controlling character must make a corruption check before an item can be transferred.
 
 ## ACTIONS AND CARD PLAY
 
- The various activities that you and your opponent can perform during play are
-called actions. Typical actions include playing a card, tapping a card,
-revealing a card, etc. The following general guidelines apply to resolving
-actions; more detailed guidelines can be found on pages 39-41.
+The various activities that you and your opponent can perform during play are called actions. Typical actions include playing a card, tapping a card, revealing a card, etc. The following general guidelines apply to resolving actions; more detailed guidelines can be found on pages 39-41.[^playeringanddrawingcards]
 
- You must give your opponent a chance to respond to every action, and vice
- versa. If you perform an action and move on to another action without giving
- your opponent a chance to respond, you must "backup" if he indicates that he
- wants to respond. A series of declared actions made in respond to one another
- is called a chain of effects. You always have the option of declaring the
- first action in a chain of effects during your turn. The actions in a chain of
- effects are resolved one at a time from last declared to first declared (i.e.,
- the last declared action is resolved first, then the second to the last,
- etc.).
- 
- If the play of a card requires other actions (e.g., corruption checks), the
- actions are resolved in the order in which they appear on the card.
- A required or declared dice roll is a action and can be the target of another
- action or effect declared later in the same chain of effects.
- 
- When the effects of a dice roll require further actions (e.g., a roll for a
- strike requires a body check), those actions become the first actions (any
- further rolls come first) in the next chain of effects after the roll.
+ - You must give your opponent a chance to respond to every action, and vice versa. If you perform an action and move on to another action without giving your opponent a chance to respond, you must "backup" if he indicates that he wants to respond. A series of declared actions made in respond to one another is called a chain of effects. You always have the option of declaring the first action in a chain of effects during your turn. The actions in a chain of effects are resolved one at a time from last declared to first declared (i.e., the last declared action is resolved first, then the second to the last, etc.).
+ - If the play of a card requires other actions (e.g., corruption checks), the actions are resolved in the order in which they appear on the card. 
+ - A required or declared dice roll is a[^typo] action and can be the target of another action or effect declared later in the same chain of effects.
+ - When the effects of a dice roll require further actions (e.g., a roll for a strike requires a body check), those actions become the first actions (any further rolls come first) in the next chain of effects after the roll.
  
 ## HAZARD CARDS
 
- Hazard cards represent evil forces and natural dangers. You may play hazard
-cards only during your opponent's movement/hazard phase.
-Creature Cards
+Hazard cards represent evil forces and natural dangers. You may play hazard cards only during your opponent's movement/hazard phase.
+ 
+### Creature Cards
 
- You may use a creature card to directly attack one of your opponent's
-companies. Such an attack can occur only if:
- The company is at a specific site at which the creature's card says it can
- be played.
- 
- One of the site symbols on the creature's card matches the site that the
- company moved to (i.e., the new site) or stayed at (i.e., if the company did
- not move).
- 
- At least one of the region symbols on the creature's card matches one of the
- region types the company moved through this turn (see below). If the
- creature's card has two region symbols of the same type (i.e., a deep
- wilderness creature), then the company must have moved through at least two
- regions of that same type.
- 
- If a creature satisfies more than one of these conditions, you must choose
-(when you play the creature) one of these conditions that the attack is "keyed
-to." The effects of certain cards are based upon the region or site type that a
-creature is keyed to.
+You may use a creature card to _directly attack_ one of your opponent's companies. Such an attack can occur only if:
 
- The region types that a company moves through during a given turn are
-determined by the following criteria:
- If a company did not play a new site card, it did not move through any
- regions-so, no creature may be played based solely on region conditions.
- If the company has played a new non-Haven site card but no region cards, the
- region types are indicated by the new site card's site path.
- If the company has played a new Haven site card but no region cards, the
- region types are indicated by the old site card's site path (i.e., the site
- path on the site that the company left).
- Standard Game Only: If the company played region cards, the region types are
- indicated by the region cards (i.e., each region card has a region type).
+- The company is at a specific site at which the creature's card says it can be played.
+- One of the site symbols on the creature's card matches the site that the company moved to (i.e., the new site) or stayed at (i.e., if the company did not move).
+- At least one of the region symbols on the creature's card matches one of the region types the company moved through this turn (see below). If the creature's card has two region symbols of the same type (i.e., a deep wilderness creature), then the company must have moved through at least two regions of that same type.
+
+If a creature satisfies more than one of these conditions, you must choose (when you play the creature) one of these conditions that the attack is "keyed to." The effects of certain cards are based upon the region or site type that a creature is keyed to.
+
+The region types that a company moves through during a given turn are determined by the following criteria:
+ 
+ - If a company did not play a new site card, it did not move through any regions—so, no creature may be played based solely on region conditions.
+ - If the company has played a new _non-Haven_ site card but no region cards, the region types are indicated by the new site card's site path.
+ - If the company has played a new _Haven_ site card but no region cards, the region types are indicated by the old site card's site path (i.e., the site path on the site that the company left).
+ - _Standard Game Only:_ If the company played region cards, the region types are indicated by the region cards (i.e., each region card has a region type).
  
 ## RESOURCE CARDS
 
- You may only play certain resource cards if specific required conditions
-exist.
+ You may only play certain resource cards if specific required conditions exist.
 
-Allies - A character may tap to play an ally card if he is at the site specified
-on the ally card and the character meets the requirements indicated on the ally
-card. The ally card is placed under the character's card and that character
-controls the ally. After an ally is played at a site, the site card is tapped.
-An ally does not count as a character for any purposes other than combat.
-Items - If a character is at an untapped site that indicates that a specific
-type of item card (gold ring, minor, major, or greater) is "playable," he may
-tap to bring an item of that type into play. The item card is placed under the
-character's card. After an item is played at a site, the site card is tapped.
+**Allies** — A character may tap to play an ally card if he is at the site specified on the ally card **and** the character meets the requirements indicated on the ally card. The ally card is placed under the character's card and that character controls the ally. After an ally is played at a site, the site card is tapped. An ally does **not** count as a character for any purposes other than combat.
 
- A character may only use the effects of one weapon at a time and one shield at
-a time and one armor at a time.
+**Items** — If a character is at an untapped site that indicates that a specific type of item card (gold ring, minor, major, or greater) is "playable," he may tap to bring an item of that type into play. The item card is placed under the character's card. After an item is played at a site, the site card is tapped.
 
- If a character is eliminated by corruption, discard all of the items that he
-controls. If a character is eliminated due to failing a body check, one item can
-be transferred to each unwounded character in his company; but, the rest of his
-items are discarded.
+A character may only use the effects of one _weapon_ at a time **and** one _shield_ at a time **and** one _armor_ at a time.
 
-Factions - One of your characters may tap to play a faction card if he is at the
-site specified on the faction card and the character successfully influences the
-faction as indicated on the faction's card (see page 28). The faction card is
-placed in your play area. After a faction is successfully played at a site, the
-site card is tapped.
+If a character is eliminated by corruption, discard all of the items that he controls. If a character is eliminated due to failing a body check, one item can be transferred to each unwounded character in his company; but, the rest of his items are discarded.
+
+**Factions** — One of your characters may tap to play a faction card if he is at the site specified on the faction card **and** the character successfully influences the faction as indicated on the faction's card (see page 28).[^influencefaction] The faction card is placed in your play area. After a faction is successfully played at a site, the site card is tapped.
 
 ## EVENTS
 
- There are both resource events and hazard events. Each event falls into one of
-three classifications based upon how long it stays in play.
+There are both resource events and hazard events. Each event falls into one of three classifications based upon how long it stays in play.
 
-Short-event - A short-event's effects are immediately implemented. Then the
-event card is discarded. The effects of some short-events last for a specific
-period as stated on its card (e.g., many short-event effects last "until the end
-of the turn").
+**Short-event** — A short-event's effects are immediately implemented. Then the event card is discarded. The effects of some short-events last for a specific period as stated on its card (e.g., many short-event effects last "until the end of the turn").
 
-Long-event - The effects of a long-event are immediately implemented when it is
-played. Long-events last approximately two turns, one of yours and one of your
-opponent's.
+**Long-event** — The effects of a long-event are immediately implemented when it is played. Long-events last approximately two turns, one of yours and one of your opponent's.
 
- You may only play a resource long-event during your long-event phase. Its card
-and effects remain in play until your next long-event phase or until otherwise
-discarded.
+You may only play a resource long-event during your long-event phase. Its card and effects remain in play until your next long-event phase or until otherwise discarded.
 
- You may only play a hazard long-event during your opponent's movement/hazard
-phase. Its card and effects remain in play until your opponent's next long-event
-phase or until otherwise discarded.
+You may only play a hazard long-event during your opponent's movement/hazard phase. Its card and effects remain in play until your opponent's next long-event phase or until otherwise discarded.
 
-Permanent-event - The effects of a resource permanent-event are immediately
-implemented. Its effects last until the card is discarded. Certain effects can
-cause a permanent-event to be discarded.
+**Permanent-event** — The effects of a resource permanent-event are immediately implemented. Its effects last until the card is discarded. Certain effects can cause a permanent-event to be discarded.
  
  {: .fs-7 .fw-700 .text-center }
 • PART II •<br>THE STANDARD RULES
 
-You should read and master the Starter Rules before tackling the Standard
-Rules.
+You should read and master the Starter Rules before tackling the Standard Rules.
 
 # 1 • THE VICTORY CONDITIONS
 
- The Standard Rules victory conditions differ from those found in the Starter
-Rules in two ways. First, certain modifications to the marshaling point totals
-can be made at the Free Council, and/or second, the players can decide to play a
-longer game.
+The Standard Rules victory conditions differ from those found in the Starter Rules in two ways. First, certain modifications to the marshaling point totals can be made at the Free Council, and/or second, the players can decide to play a longer game.
 
 ### Marshaling Point Modifications
 
- At the Free Council, you may reveal any unique marshaling point cards in your
-hand that match unique cards that your opponent has in play. Each such revealed
-card reduces your opponent's marshaling point total by one.
- There are six different types of marshaling points; each is associated with a
-specific shape:
- Character Points
- Item Points (Major, Greater, & Rings only)
- Faction Points
- Ally Points
+At the Free Council, you may reveal any unique marshaling point cards in your hand that match unique cards that your opponent has in play. Each such revealed card reduces your opponent's marshaling point total by one.
+ 
+There are six different types of marshaling points; each is associated with a specific shape:
+ 
+ <dl>
+  <dt>Character Points</dt>
+  <dd>octagon</dd>
+  <dt>Item Points (Major, Greater, & Rings only)</dt>
+  <dd>rectangle</dd>
+  <dt>Faction Points</dt>
+  <dd>inverted pyramid</dd>
+  <dt>Ally Points</dt>
+  <dd>pyramid</dd>
+  <dt>Kill Points (from defeating creatures)</dt>
+  <dd>circle</dd>
+  <dt>Miscellaneous Points</dt>
+  <dd>diamond</dd>
+</dl>
+
+ 
+
  Kill Points (from defeating creatures)
  Miscellaneous Points
  
- These types of marshaling points can affect your marshaling point total in two
-ways:
- No more than half (round up) of your marshaling points can come from any one
- type of marshaling points.
- If your opponent has zero (or negative) points for any one type of marshaling
- points, your points for that same type of marshaling points are doubled. This
- doesn't apply to kill points and miscellaneous points.
+ These types of marshaling points can affect your marshaling point total in two ways:
+ 
+ - No more than half (round up) of your marshaling points can come from any one type of marshaling points.
+ - If your opponent has zero (or negative) points for any one type of marshaling points, your points for that same type of marshaling points are doubled. This doesn't apply to kill points and miscellaneous points.
  
 ### The Longer Games
 
@@ -1416,3 +1233,7 @@ Tolkien and Priscilla M.A.R. Tolkien.
 [^corrupted]: Your opponent wins if your Wizard would be discarded (not just eliminated) by corruption. See 8 • CORRUPTION
 [^30cards]: The minimum number of hazard/resource cards was increased to 30 for tournament play. See the Tournament Policy
 [^fullsummary]: See the Full Player Turn Summary
+[^characters]: See sectin 5 on characters and companies
+[^playeringanddrawingcards]: See standard rules section 10 playing and drawing cards
+[^typo]: A typographical error
+[^influencefaction]: See starter section 9 on influence
