@@ -16,7 +16,7 @@ search_exclude: true
 {:toc}
 </details>
 
-{: .fs-6 .fw-700 .text-center }
+{: .fs-7 .fw-700 .text-center }
 MIDDLE-EARTH: THE DRAGONS
 
 This insert provides expansion rules, clarifications, and a scenario for use with both _Middle-earth: The Wizards_ (_METW_) and _Middle-earth: The Dragons_ (_METD_). These rules are recommended for all _METW_ games even if _METD_ is not used.
