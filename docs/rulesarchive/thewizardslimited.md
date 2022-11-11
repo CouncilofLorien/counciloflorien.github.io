@@ -71,7 +71,7 @@ _End-of-Turn Phase_ — Each player may discard one card. Then each player must 
 - For timing purposes, all cards in _METW_ are played and tapped with the same "speed" (effects take place instantly). But, a player may only play resource cards during his own turn, and a player may only play hazard cards during his opponent's movement/hazard phase.
 
 {: .fs-7 .fw-700 .text-center }
-• PART I •<br>THE STARTER RULES
+<h1>• PART I •<br>THE STARTER RULES</h1>
         
 To get a general idea of how to play, read the Starter Rules sections that are marked with a bar on one side[^bar]. Later you can refer to the other sections for more information on special situations.
 
@@ -526,7 +526,7 @@ You may only play a hazard long-event during your opponent's movement/hazard pha
 **Permanent-event** — The effects of a resource permanent-event are immediately implemented. Its effects last until the card is discarded. Certain effects can cause a permanent-event to be discarded.
  
 {: .fs-7 .fw-700 .text-center }
-• PART II •<br>THE STANDARD RULES
+<h1>• PART II •<br>THE STANDARD RULES</h1>
 
 You should read and master the Starter Rules before tackling the Standard Rules.
 
@@ -730,7 +730,7 @@ _If your opponent had played Tookish Blood on Bilbo after his dice roll, i.e. af
 _Consider if Tookish Blood had not been played and if you played Call of Home on Frodo. First Frodo rolls for Call of Home when resolving the chain. If he fails this check, Frodo goes back to your opponent's hand. The 2nd action in the chain would then be negated because the conditions required to perform it, namely Frodo being in Bilbo's company, were negated by your Call of Home._
           
 {: .fs-7 .fw-700 .text-center }
-• PART III •<br>OPTIONAL RULES
+<h1>• PART III •<br>OPTIONAL RULES</h1>
 
 ### Special Movement to Gorgoroth Rules
 
@@ -782,7 +782,7 @@ The object of the solitaire game is to accumulate as many MPs as you can by the 
 The _METW Player Guide_ will provide detailed solitaire rules.
  
 {: .fs-7 .fw-700 .text-center }
-THE APPENDICES
+<h1>THE APPENDICES</h1>
 
 # FULL PLAYER TURN SUMMARY
 
