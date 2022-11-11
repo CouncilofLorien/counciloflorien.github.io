@@ -70,7 +70,7 @@ _End-of-Turn Phase_ — Each player may discard one card. Then each player must 
 - The players in _METW_ are in direct competition with each other to marshal resources. However, only hazards directly attack the players' characters and they are handled in a less controlled fashion (e.g., they are only played during your opponent's movement/hazard phase, hazard creatures do not remain in play, etc.).
 - For timing purposes, all cards in _METW_ are played and tapped with the same "speed" (effects take place instantly). But, a player may only play resource cards during his own turn, and a player may only play hazard cards during his opponent's movement/hazard phase.
 
-{: .fs-6 .fw-700 .text-center }
+{: .fs-7 .fw-700 .text-center }
 • PART I •<br>THE STARTER RULES
         
 To get a general idea of how to play, read the Starter Rules sections that are marked with a bar on one side[^bar]. Later you can refer to the other sections for more information on special situations.
@@ -525,7 +525,7 @@ You may only play a hazard long-event during your opponent's movement/hazard pha
 
 **Permanent-event** — The effects of a resource permanent-event are immediately implemented. Its effects last until the card is discarded. Certain effects can cause a permanent-event to be discarded.
  
-{: .fs-6 .fw-700 .text-center }
+{: .fs-7 .fw-700 .text-center }
 • PART II •<br>THE STANDARD RULES
 
 You should read and master the Starter Rules before tackling the Standard Rules.
@@ -602,11 +602,11 @@ During the Organization Phase, two companies may move to the same site, but one 
 
 In both cases, the two companies must face hazards separately and are thencombined at the end of the movement/hazard phase.
 
-# Discarding Characters
+### Discarding Characters
 
 Instead of bringing a new character/Wizard into play during your organization phase, you may discard a character that is at a Haven or at his home site. A Wizard may not be discarded. You must take this action when you are forced to discard a character due to a lack of available influence.
 
-# Bringing Characters into Play
+### Bringing Characters into Play
 
 Before you play your Wizard, you may use general influence to bring a character into play at any haven or at his home site. After revealing your Wizard, you may use general influence to bring a character into play only if your Wizard is at the site at which the character arrives (i.e., a Haven or the character's home site).
 
@@ -729,7 +729,7 @@ _If your opponent had played Tookish Blood on Bilbo after his dice roll, i.e. af
 
 _Consider if Tookish Blood had not been played and if you played Call of Home on Frodo. First Frodo rolls for Call of Home when resolving the chain. If he fails this check, Frodo goes back to your opponent's hand. The 2nd action in the chain would then be negated because the conditions required to perform it, namely Frodo being in Bilbo's company, were negated by your Call of Home._
 
-{: .fs-6 .fw-700 .text-center }
+{: .fs-7 .fw-700 .text-center }
 • PART III •<br>OPTIONAL RULES
 
 ### Special Movement to Gorgoroth Rules
@@ -781,7 +781,7 @@ The object of the solitaire game is to accumulate as many MPs as you can by the 
 
 The _METW Player Guide_ will provide detailed solitaire rules.
  
-{: .fs-6 .fw-700 .text-center }
+{: .fs-7 .fw-700 .text-center }
 THE APPENDICES
 
 # FULL PLAYER TURN SUMMARY
