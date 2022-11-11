@@ -1004,7 +1004,7 @@ _The Return of the King_ — Copyright © 1955, 1965 by J.R.R. Tolkien. Copyrigh
 
 _Unfinished Tales_ — Copyright © 1980 by George Allen & Unwin (Publishers) Ltd.
  
- Address rules questions and comments via email to met...@aol.com or via snail mail to our P.O. Box address. Look for METW discussion areas on your favorite on-line service and visit our home page on the WWW (url not available at press time).
+Address rules questions and comments via email to metwice@aol.com or via snail mail to our P.O. Box address. Look for METW discussion areas on your favorite on-line service and visit our home page on the WWW (url not available at press time).
 
 [^bar]: This web version of the rules is not marked with bars. See the pdf of the _The Wizards Limited_ Rulesbook.
 [^randomvalue]: This method of obtaining a random value is not permitted in tournament play and it is not used in casual play. This method may be used if neither player has dice or a cell phone. 
