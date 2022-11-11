@@ -390,20 +390,20 @@ The target's prowess may also be modified due to the play of certain resource an
  
  If one of the strikes was cancelled or ineffectual, the attack is not defeated. If the attack is cancelled, the attack is not defeated. A cancelled attack has no effect on the defending company.
           
-**Example of Combat** _\[(#/#) means (prowess/body)]
- You control Bilbo (1/9), Balin (4/7) and his follower Bofur (4/7) (with Healing Herbs), Beretar (5/8), and Beregond (4/8) (with an Elven Cloak). They are en route from Rivendell to L˘rien. There are 4.5 characters in the company which rounds up to 5, meaning the hazard limit is 5.
+**Example of Combat** _\[(#/#) means (prowess/body)]_
+_You control Bilbo (1/9), Balin (4/7) and his follower Bofur (4/7) (with Healing Herbs), Beretar (5/8), and Beregond (4/8) (with an Elven Cloak). They are en route from Rivendell to L˘rien. There are 4.5 characters in the company which rounds up to 5, meaning the hazard limit is 5._
 
-Your opponent plays Orc-raiders. He keys this hazard creature to the border-land of your company's site path because he is mindful of Beregond's Elven Cloak (a minor item that cancels a strike keyed to wilderness). Bilbo, a scout, taps and plays Concealment to cancel the attack. That's 1 hazard down and potentially 4 to go.
+_Your opponent plays Orc-raiders. He keys this hazard creature to the border-land of your company's site path because he is mindful of Beregond's Elven Cloak (a minor item that cancels a strike keyed to wilderness). Bilbo, a scout, taps and plays Concealment to cancel the attack. That's 1 hazard down and potentially 4 to go._
 
-Your opponent next plays Orc-warband (second hazard) and states it is keyed to the border-land. It's a (4/-) hazard creature with 5 strikes that receives +3 to prowess against a company that has faced an orc attack. Even though Bilbo cancelled the Orc-raiders, the company is still considered to have faced them, so the Orc-warband will be (7/-). There are 5 strikes and 5 characters, so each character will face one strike (no decisions on strike allocation can be made). Bilbo elects to face his strike first. His opponent plays Weariness of the Heart (third hazard) on Bilbo to give -1 to his prowess. This modification to his prowess is in addition to the -1 Bilbo suffers for being tapped. No other effects are played to affect the strike and Bilbo rolls the dice. The result is a 5. Bilbo's prowess of -1 plus the dice roll is less than the prowess of the Orc-warband's strike against Bilbo, so Bilbo is wounded (inverted on the table). Your opponent rolls the body check. It's a 7—Bilbo lives!
+_Your opponent next plays Orc-warband (second hazard) and states it is keyed to the border-land. It's a (4/-) hazard creature with 5 strikes that receives +3 to prowess against a company that has faced an orc attack. Even though Bilbo cancelled the Orc-raiders, the company is still considered to have faced them, so the Orc-warband will be (7/-). There are 5 strikes and 5 characters, so each character will face one strike (no decisions on strike allocation can be made). Bilbo elects to face his strike first. His opponent plays Weariness of the Heart (third hazard) on Bilbo to give -1 to his prowess. This modification to his prowess is in addition to the -1 Bilbo suffers for being tapped. No other effects are played to affect the strike and Bilbo rolls the dice. The result is a 5. Bilbo's prowess of -1 plus the dice roll is less than the prowess of the Orc-warband's strike against Bilbo, so Bilbo is wounded (inverted on the table). Your opponent rolls the body check. It's a 7—Bilbo lives!_
 
-Beregond faces the next strike. Beregond taps and rolls a 10, defeating his strike handily. Bofur chooses to face his strike next. He chooses not to tap and to therefore take a -3 modification to his prowess. He rolls a 6 which ties the prowess of the Orc-warband strike. The strike is ineffectual.
+_Beregond faces the next strike. Beregond taps and rolls a 10, defeating his strike handily. Bofur chooses to face his strike next. He chooses not to tap and to therefore take a -3 modification to his prowess. He rolls a 6 which ties the prowess of the Orc-warband strike. The strike is ineffectual._
  
-Balin resolves his strike next, taps, and defeats it by rolling a 7. Beretar resolves the final strike, taps, and defeats it by rolling a 3.
+_Balin resolves his strike next, taps, and defeats it by rolling a 7. Beretar resolves the final strike, taps, and defeats it by rolling a 3._
  
-Your opponent sees that one character, Bofur, is untapped. He plays Giant (13/-) (a fourth hazard) and reasons that Bofur will have to take its one vicious strike. (After all, if you give up the option of assigning the one strike to your untapped character, namely Bofur, the opponent will be able to choose from all 5 characters which will take the strike). Your opponent does not see what Bofur sees. Before assigning the strike, Bofur taps and uses his Healing Herbs to untap Beregond, who then announces he is taking the strike. The Giant is keyed solely to double wilderness, so Beregond taps his Elven Cloak to cancel its single strike.
+_Your opponent sees that one character, Bofur, is untapped. He plays Giant (13/-) (a fourth hazard) and reasons that Bofur will have to take its one vicious strike. (After all, if you give up the option of assigning the one strike to your untapped character, namely Bofur, the opponent will be able to choose from all 5 characters which will take the strike). Your opponent does not see what Bofur sees. Before assigning the strike, Bofur taps and uses his Healing Herbs to untap Beregond, who then announces he is taking the strike. The Giant is keyed solely to double wilderness, so Beregond taps his Elven Cloak to cancel its single strike._
 
-The opponent announces he will play no more hazards and the company breathes a sigh of relief. Bilbo will be able to heal at the start of the next turn since his company will be in Lorien, a Haven._
+_The opponent announces he will play no more hazards and the company breathes a sigh of relief. Bilbo will be able to heal at the start of the next turn since his company will be in Lorien, a Haven._
 
 # 8 • CORRUPTION
 
@@ -540,7 +540,19 @@ At the Free Council, you may reveal any unique marshaling point cards in your ha
  
 There are six different types of marshaling points; each is associated with a specific shape:
  
- <dl>
+Character Points ![](/assets/images/charactermp.svg)
+
+Item Points (Major, Greater, & Rings only) ![](/assets/images/itemmp.svg)
+
+Faction Points ![](/assets/images/factionmp.svg)
+
+Ally Points ![](/assets/images/allymp.svg)
+
+Kill Points (from defeating creatures) ![](/assets/images/killmp.svg)
+
+Miscellaneous Points ![](/assets/images/miscmp.svg)
+
+<dl>
   <dt>Character Points</dt>
   <dd>octagon</dd>
   <dt>Item Points (Major, Greater, & Rings only)</dt>
