@@ -984,26 +984,17 @@ Dark-domains  |  ![](/assets/images/dark-domain.svg)
 
 # COPYRIGHT 
 
-_Middle-earth: The Wizards_ is a collectible card game produced by Iron Crown Enterprises, Inc. (ICE), Charlottesville, Virginia USA, the exclusive holder of the worldwide adventure games license based on J.R.R. Tolkien's The Hobbit and The Lord of the Rings.
-
-Copyright © 1995 Tolkien Enterprises, a division of The Saul Zaentz Company, Berkeley, CA. _Middle-earth: The Wizards_, _Middle-earth_, _The Hobbit_, _The Lord of the Rings_, and _The Return of the King_, and all characters and places therein, and the Burning Eye are trademark properties of Tolkien Enterprises. 
-
-The characters "Alatar" and "Pallando" appear in _Unfinished Tales_. They appear here with specific permission of the Estate of J. R. R. Tolkien. The copyright to _Unfinished Tales_ is held by HarperCollins Publishers, in succession to George Allen & Unwin (Publishers) Ltd. and on behalf of Christopher Reuel Tolkien and Frank Richard Williamson, the Executors of the Estate of J.R.R. Tolkien.
-
-_Middle-earth: The Wizards_ is made for ICE in Belgium by Carta Mundi.
-
-The character symbols ( ![](/assets/images/di.svg) ![](/assets/images/mind.svg) ), region symbols ( ![](/assets/images/coastalsea.svg) ![](/assets/images/free-domain.svg) ![](/assets/images/border-land.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg) ![](/assets/images/wilderness.svg) ), and site symbols( ![](/assets/images/free-haven.svg) ![](/assets/images/free-hold.svg) ![](/assets/images/border-hold.svg) ![](/assets/images/shadow-hold.svg) ![](/assets/images/dark-hold.svg) ![](/assets/images/ruinlair.svg) ) are trademark properties of Iron Crown Enterprises. All rights reserved.
-
-_The Fellowship of the Ring_ — Copyright © 1955, 1965 by J.R.R. Tolkien. Copyright © renewed 1982 by Christopher R. Tolkien, Michael H.R. Tolkien, John F.R. Tolkien and Priscilla M.A.R. Tolkien.
-
-_The Hobbit_ — Copyright © 1937, 1938, 1966 by J.R.R. Tolkien.
-
-_The Two Towers_ — Copyright © 1954, 1965 by J.R.R. Tolkien. Copyright © renewed 1982 by Christopher R. Tolkien, Michael H.R. Tolkien, John F.R. Tolkien and Priscilla M.A.R. Tolkien.
- 
+_Middle-earth: The Wizards_ is a collectible card game produced by Iron Crown Enterprises, Inc. (ICE), Charlottesville, Virginia USA, the exclusive holder of the worldwide adventure games license based on J.R.R. Tolkien's _The Hobbit_ and _The Lord of the Rings_.  
+Copyright © 1995 Tolkien Enterprises, a division of The Saul Zaentz Company, Berkeley, CA. _Middle-earth: The Wizards_, _Middle-earth_, _The Hobbit_, _The Lord of the Rings_, and _The Return of the King_, and all characters and places therein, and the Burning Eye are trademark properties of Tolkien Enterprises.  
+The characters "Alatar" and "Pallando" appear in _Unfinished Tales_. They appear here with specific permission of the Estate of J. R. R. Tolkien. The copyright to _Unfinished Tales_ is held by HarperCollins Publishers, in succession to George Allen & Unwin (Publishers) Ltd. and on behalf of Christopher Reuel Tolkien and Frank Richard Williamson, the Executors of the Estate of J.R.R. Tolkien.  
+_Middle-earth: The Wizards_ is made for ICE in Belgium by Carta Mundi.  
+The character symbols ( ![](/assets/images/di.svg) ![](/assets/images/mind.svg) ), region symbols ( ![](/assets/images/coastalsea.svg) ![](/assets/images/free-domain.svg) ![](/assets/images/border-land.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg) ![](/assets/images/wilderness.svg) ), and site symbols( ![](/assets/images/free-haven.svg) ![](/assets/images/free-hold.svg) ![](/assets/images/border-hold.svg) ![](/assets/images/shadow-hold.svg) ![](/assets/images/dark-hold.svg) ![](/assets/images/ruinlair.svg) ) are trademark properties of Iron Crown Enterprises. All rights reserved.  
+_The Fellowship of the Ring_ — Copyright © 1955, 1965 by J.R.R. Tolkien. Copyright © renewed 1982 by Christopher R. Tolkien, Michael H.R. Tolkien, John F.R. Tolkien and Priscilla M.A.R. Tolkien.  
+_The Hobbit_ — Copyright © 1937, 1938, 1966 by J.R.R. Tolkien.  
+_The Two Towers_ — Copyright © 1954, 1965 by J.R.R. Tolkien. Copyright © renewed 1982 by Christopher R. Tolkien, Michael H.R. Tolkien, John F.R. Tolkien and Priscilla M.A.R. Tolkien.   
 _The Return of the King_ — Copyright © 1955, 1965 by J.R.R. Tolkien. Copyright © renewed 1983 by Christopher R. Tolkien, Michael H.R. Tolkien, John F.R. Tolkien and Priscilla M.A.R. Tolkien.  
+_Unfinished Tales_ — Copyright © 1980 by George Allen & Unwin (Publishers) Ltd.  
 
-_Unfinished Tales_ — Copyright © 1980 by George Allen & Unwin (Publishers) Ltd.
- 
 Address rules questions and comments via email to metwice@aol.com or via snail mail to our P.O. Box address. Look for METW discussion areas on your favorite on-line service and visit our home page on the WWW (url not available at press time).
 
 [^bar]: This web version of the rules is not marked with bars. See the pdf of the _The Wizards Limited_ Rulesbook.
