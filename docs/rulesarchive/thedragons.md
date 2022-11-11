@@ -49,7 +49,7 @@ Smaug  |  The Lonely Mountain  |  Northern Rhovanion
 
 Certain items are hoard items. Such an item may only be played at a site that contains a hoard. Each site with a Dragon automatic-attack (i.e., each Dragon's lair) contains a hoard. A hoard minor item may not be included with a starting company, and may not be played at a site that does not contain a hoard.
 
-{ :.note }
+{: .note }
 > **Example:** You can not play a hoard minor item at Wellinghall after successfully influencing the _Ents of Fangorn_ like you can with a normal minor item. Wellinghall does not contain a hoard.
 
 ## MANIFESTATIONS OF DRAGONS
