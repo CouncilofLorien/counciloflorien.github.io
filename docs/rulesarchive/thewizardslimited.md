@@ -70,8 +70,11 @@ _End-of-Turn Phase_ — Each player may discard one card. Then each player must 
 - The players in _METW_ are in direct competition with each other to marshal resources. However, only hazards directly attack the players' characters and they are handled in a less controlled fashion (e.g., they are only played during your opponent's movement/hazard phase, hazard creatures do not remain in play, etc.).
 - For timing purposes, all cards in _METW_ are played and tapped with the same "speed" (effects take place instantly). But, a player may only play resource cards during his own turn, and a player may only play hazard cards during his opponent's movement/hazard phase.
 
-{: .fs-7 .fw-700 .text-center }
-• PART I •<br>THE STARTER RULES
+{: .text-center }
+<h1>• PART I •</h1>
+
+{: .text-center }
+# THE STARTER RULES
         
 To get a general idea of how to play, read the Starter Rules sections that are marked with a bar on one side[^bar]. Later you can refer to the other sections for more information on special situations.
 
@@ -525,8 +528,11 @@ You may only play a hazard long-event during your opponent's movement/hazard pha
 
 **Permanent-event** — The effects of a resource permanent-event are immediately implemented. Its effects last until the card is discarded. Certain effects can cause a permanent-event to be discarded.
  
-{: .fs-7 .fw-700 .text-center }
-• PART II •<br>THE STANDARD RULES
+{: .text-center }
+<h1>• PART II •</h1>
+
+{: .text-center }
+# THE STANDARD RULES
 
 You should read and master the Starter Rules before tackling the Standard Rules.
 
@@ -729,8 +735,10 @@ _If your opponent had played Tookish Blood on Bilbo after his dice roll, i.e. af
 
 _Consider if Tookish Blood had not been played and if you played Call of Home on Frodo. First Frodo rolls for Call of Home when resolving the chain. If he fails this check, Frodo goes back to your opponent's hand. The 2nd action in the chain would then be negated because the conditions required to perform it, namely Frodo being in Bilbo's company, were negated by your Call of Home._
 
-{: .fs-7 .fw-700 .text-center }
-• PART III •<br>OPTIONAL RULES
+{: .text-center }
+<h1>• PART III •</h1>
+
+# OPTIONAL RULES
 
 ### Special Movement to Gorgoroth Rules
 
@@ -781,8 +789,9 @@ The object of the solitaire game is to accumulate as many MPs as you can by the 
 
 The _METW Player Guide_ will provide detailed solitaire rules.
  
-{: .fs-7 .fw-700 .text-center }
-THE APPENDICES
+{: .text-center }
+
+# THE APPENDICES
 
 # FULL PLAYER TURN SUMMARY
 
@@ -890,9 +899,7 @@ Dark-domains  |  ![](/assets/images/dark-domain.svg)
  Other resource cards  |   varies
  Hazard cards    |    varies
 
-
 # REGION MAP KEY
-
 
 | # | Region Name | Type |
 | ---: | :--- | :--- |
@@ -995,7 +1002,7 @@ _The Two Towers_ — Copyright © 1954, 1965 by J.R.R. Tolkien. Copyright © ren
 _The Return of the King_ — Copyright © 1955, 1965 by J.R.R. Tolkien. Copyright © renewed 1983 by Christopher R. Tolkien, Michael H.R. Tolkien, John F.R. Tolkien and Priscilla M.A.R. Tolkien.  
 _Unfinished Tales_ — Copyright © 1980 by George Allen & Unwin (Publishers) Ltd.  
 
-Address rules questions and comments via email to metwice@aol.com or via snail mail to our P.O. Box address. Look for METW discussion areas on your favorite on-line service and visit our home page on the WWW (url not available at press time).
+<td>_Address rules questions and comments via email to metwice@aol.com or via snail mail to our P.O. Box address. Look for METW discussion areas on your favorite on-line service and visit our home page on the WWW (url not available at press time)._</td>
 
 [^bar]: This web version of the rules is not marked with bars. See the pdf of the _The Wizards Limited_ Rulesbook.
 [^randomvalue]: This method of obtaining a random value is not permitted in tournament play and it is not used in casual play. This method may be used if neither player has dice or a cell phone. 
