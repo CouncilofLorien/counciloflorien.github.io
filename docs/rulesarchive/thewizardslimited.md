@@ -892,8 +892,10 @@ Dark-domains  |  ![](/assets/images/dark-domain.svg)
  Up to 1 resource card requiring skill | varies
  Other resource cards  |   varies
  Hazard cards    |    varies
- 
- # REGION MAP KEY
+
+
+# REGION MAP KEY
+
 
 | # | Region Name | Type |
 | ---: | :--- | :--- |
