@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="3.2048802mm"
+   height="3.2119863mm"
+   viewBox="0 0 3.2048803 3.2119863"
+   version="1.1"
+   id="svg5305"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="shadow-land.svg">
+  <defs
+     id="defs5299" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="31.678384"
+     inkscape:cx="-5.3367481"
+     inkscape:cy="12.883718"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5302">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-163.68612,-125.14213)">
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g6752-6-4"
+       transform="matrix(1.7189085,0,0,1.7189085,-219.68314,-671.94697)"
+       inkscape:export-xdpi="1200.02"
+       inkscape:export-ydpi="1200.02">
+      <g
+         id="use6750-8-2"
+         transform="matrix(0.26458333,0,0,0.26458333,222.96449,465.51651)">
+        <path
+           inkscape:connector-curvature="0"
+           style="stroke:none"
+           d="M 2.34375,-2.5625 5.453125,-5.625 v 0.71875 l -0.359375,0.4375 c 0,0 -0.015625,0.015625 -0.015625,0.015625 l 0.359375,3.8125 H 2.15625 Z m 1.4375,-4.109375 c 1.875,0 3.390625,1.53125 3.390625,3.40625 0,1.875 -1.515625,3.40625 -3.390625,3.40625 -1.890625,0 -3.40625,-1.53125 -3.40625,-3.40625 0,-1.875 1.515625,-3.40625 3.40625,-3.40625 z m 0,-0.125 c -1.953125,0 -3.53125,1.59375 -3.53125,3.53125 0,1.953125 1.578125,3.53125 3.53125,3.53125 1.9375,0 3.515625,-1.578125 3.515625,-3.53125 0,-1.9375 -1.578125,-3.53125 -3.515625,-3.53125 z M 5.25,-5.609375 5.234375,-5.640625 2.53125,-3 2.640625,-4.34375 c 0.015625,-0.125 -0.21875,-0.40625 -0.28125,-0.5 V -5.5625 c 0.03125,0.078125 0.109375,0.125 0.1875,0.125 H 3.40625 c 0.1875,0 0.203125,-0.1875 0.203125,-0.328125 L 4.078125,-5.75 c 0,0.125 0.03125,0.3125 0.203125,0.3125 h 0.8125 c 0.109375,0 0.203125,-0.09375 0.203125,-0.1875 z M 5.09375,-5.5625 h -0.8125 c -0.15625,0 0,-0.3125 -0.140625,-0.3125 L 3.546875,-5.890625 C 3.40625,-5.890625 3.5625,-5.5625 3.40625,-5.5625 H 2.546875 c -0.03125,0 -0.078125,-0.046875 -0.078125,-0.078125 v -0.03125 c 0,-0.15625 -0.234375,0.015625 -0.234375,0.09375 V -4.8125 c 0,0 0.015625,0.03125 0.015625,0.03125 0.53125,0.75 0.28125,0.375 0.140625,1.9375 0,0.078125 0.0625,0.109375 0.109375,0.0625 L 5.328125,-5.5625 c 0.03125,-0.015625 0.03125,-0.0625 0,-0.09375 -0.1875,-0.15625 -0.09375,0.09375 -0.234375,0.09375 z m 0,0"
+           id="path13725-2-2" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="3.2688358mm"
+   height="3.2688358mm"
+   viewBox="0 0 3.2688358 3.2688358"
+   version="1.1"
+   id="svg5305"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="border-land.svg">
+  <defs
+     id="defs5299" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="31.678384"
+     inkscape:cx="-4.1011612"
+     inkscape:cy="6.5612675"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5302">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-163.3592,-123.41247)">
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g6744-4-7"
+       transform="matrix(1.7189085,0,0,1.7189085,-203.66858,-673.57004)"
+       inkscape:export-xdpi="1200.02"
+       inkscape:export-ydpi="1200.02">
+      <g
+         id="use6742-9-5"
+         transform="matrix(0.26458333,0,0,0.26458333,213.47,465.51651)">
+        <path
+           inkscape:connector-curvature="0"
+           style="stroke:none"
+           d="m 5.515625,-5.96875 -0.40625,-0.296875 v 0.296875 h -0.8125 V -6.296875 H 3.8125 v 1.828125 c 0.390625,0 0.46875,0.390625 0.46875,0.71875 L 4.265625,-2.5 h -0.40625 v 1.6875 H 5.5 l -0.359375,-3.875 0.375,-0.453125 z m -1.71875,-0.9375 c 1.90625,0 3.46875,1.5625 3.46875,3.46875 0,1.921875 -1.5625,3.46875 -3.46875,3.46875 -1.921875,0 -3.46875,-1.546875 -3.46875,-3.46875 0,-1.90625 1.546875,-3.46875 3.46875,-3.46875 z m 0,-0.125 c -1.984375,0 -3.59375,1.609375 -3.59375,3.59375 0,1.984375 1.609375,3.59375 3.59375,3.59375 1.96875,0 3.59375,-1.609375 3.59375,-3.59375 0,-1.984375 -1.625,-3.59375 -3.59375,-3.59375 z m -0.59375,4.546875 c 0,0.0625 0.0625,0.125 0.125,0.125 H 3.6875 v 1.40625 h -1.5 L 2.515625,-4.65625 C 2.515625,-4.6875 2.5,-4.71875 2.484375,-4.75 2.40625,-4.875 2.328125,-5 2.234375,-5.109375 V -5.90625 l 0.15625,-0.109375 c 0,0.078125 0.015625,0.1875 0.109375,0.1875 h 0.859375 c 0.15625,0 0.109375,-0.234375 0.109375,-0.328125 H 3.625 l 0.015625,1.59375 c -0.40625,0.078125 -0.4375,0.5 -0.4375,0.828125 z m -0.8125,-2.1875 -0.328125,3.78125 c 0,0.046875 0.015625,0.0625 0.0625,0.0625 H 3.75 c 0.03125,0 0.0625,-0.015625 0.0625,-0.0625 v -1.53125 c 0,-0.03125 -0.03125,-0.0625 -0.0625,-0.0625 H 3.328125 v -1.25 c 0,-0.15625 0,-0.3125 0.0625,-0.453125 C 3.5,-4.5 3.765625,-4.375 3.765625,-4.5 L 3.75,-6.21875 C 3.75,-6.25 3.734375,-6.28125 3.703125,-6.28125 H 3.40625 c -0.09375,0 -0.0625,0.1875 -0.0625,0.328125 H 2.515625 c -0.015625,-0.0625 0,-0.125 0,-0.1875 C 2.5,-6.3125 2.296875,-6.109375 2.125,-6 2.109375,-5.984375 2.09375,-5.953125 2.09375,-5.9375 v 0.84375 c 0,0.03125 0.25,0.34375 0.28125,0.421875 z m 0,0"
+           id="path13733-4-1" />
+      </g>
+    </g>
+  </g>
+</svg>
