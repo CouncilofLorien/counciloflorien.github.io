@@ -7,12 +7,3 @@ has_children: true
 search_exclude: true
 nav_exclude: true
 ---
-
-<details markdown="block">
-  <summary>
-   RULES ARCHIVE
-  </summary>
-  {: .text-alpha }
-- TOC
-{:toc}
-</details>
