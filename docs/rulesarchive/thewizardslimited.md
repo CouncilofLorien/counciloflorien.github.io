@@ -9,13 +9,19 @@ search_exclude: true
 
 <details markdown="block">
   <summary>
-   The Wizards (Limited)
+   Contents of The Wizards (Limited)
   </summary>
-  {: .text-alpha }
+  {: .text-beta }
 - TOC
 {:toc}
 </details>
- 
+
+{: .fs-7 .fw-700 .text-center }
+MIDDLE-EARTH: THE WIZARDS
+
+{: .fs-4 .fw-700 .text-center }
+LIMITED
+
 # INTRODUCTION
 
 During the Third Age, the Valar sent five Maiar to Middle-earth to unite and counsel the Free Peoples in their struggles against Sauron, the Dark Lord. However, they were forbidden to dominate the peoples of Middle-earth or to match the power of Sauron with power. These five were known as the "Wizards" (also called Istari) in Middle-earth, and individually they were called: Gandalf, Saruman, Radagast, Alatar, and Pallando.
@@ -861,7 +867,7 @@ Follow this procedure for each of your companies. You decide which of your compa
 
 You may discard one card. Then you must draw or discard cards until your hand has 8 cards. Your opponent does the same for his hand.
  
-# SYMBOL KEY
+## SYMBOL KEY
 
 | Region Type | Symbol |
 | ---: | :--- |
@@ -886,7 +892,7 @@ Dark-domains  |  ![](/assets/images/dark-domain.svg)
  Mind   |  ![](/assets/images/mind.svg)
  Direct Influence  |  ![](/assets/images/di.svg)
  
-# COMBAT MODIFICATIONS
+## COMBAT MODIFICATIONS
 
 | Condition  |  Modification to Target's Prowess |
 | ---: | :--- |
@@ -899,10 +905,10 @@ Dark-domains  |  ![](/assets/images/dark-domain.svg)
  Other resource cards  |   varies
  Hazard cards    |    varies
 
-# REGION MAP KEY
+## REGION MAP KEY
 
 | # | Region Name | Type |
-| ---: | :--- | :--- |
+| ---: | :---: | :--- |
 1 | Lindon   | ![](/assets/images/free-domain.svg)
 2 | Numeriador  | ![](/assets/images/wilderness.svg)
 3 | Forochel   | ![](/assets/images/wilderness.svg)
@@ -989,13 +995,10 @@ Dark-domains  |  ![](/assets/images/dark-domain.svg)
 **Special Thanks:** Peter Adkison, Laurie Battle, Will & Schar Niebling, Danny Kilbert, Bob Carty, Mike Davis, Lou Rexing, Wayne Godfrey, Gary E. Smith, the Chessex crews, the InQuest crew and our on-line friends, especially the {TFF Folder}.  
 **Playtesting Credits:** James Andrews, Christian Antonini, Kevin Barrett, D. Begiebing, Guy Botero, Brian Bouton, Jay Bryan, Brian Carr, Waldon Chisholm, Silvio Negri Clementi, Frank Coker, Jessica Colborn, R. Mark Colborn, Philip DeLuca, D. Dennis, Bernd Dietrich, Bill Edwards, O. Estefania, Klaus Etzold, Andrea Fattori, K. Fischer, Luigi Lo Forti, Scott Frazer, Wendy Frazer, Madai Frey, Matthew Fulton, Kevin Garber, Eduard Garcia, David Glenn, Jesse Goldstein, O. Johnston, Robert Kelly, Ralph Kennedy, Oscar Lafuente, Nick Laiacona, Steve Marvin, F. Navarro, Will Niebling, William Niebling, Elmar Perkuhn, D. Platnick, Frank Pfeifer, Jeffrey C. Riley, Cory John Rueb, Francesc Matas Salla, Doug Schnur, Jason Smith, Lowell Stouder, Henri Jean Vanaise, J.L. Viadel, D. Villanueva, Dave Weinstein, James Whitehouse, M. Wilson, Darrell Zuercher, Steven Balbo & "The Arcane Circle," J.L. Martinez & the Heroe Research Group, the Berkeley Games crew.
 
-# COPYRIGHT 
-
+{: .fs-2 }
 _Middle-earth: The Wizards_ is a collectible card game produced by Iron Crown Enterprises, Inc. (ICE), Charlottesville, Virginia USA, the exclusive holder of the worldwide adventure games license based on J.R.R. Tolkien's _The Hobbit_ and _The Lord of the Rings_.  
 Copyright © 1995 Tolkien Enterprises, a division of The Saul Zaentz Company, Berkeley, CA. _Middle-earth: The Wizards_, _Middle-earth_, _The Hobbit_, _The Lord of the Rings_, and _The Return of the King_, and all characters and places therein, and the Burning Eye are trademark properties of Tolkien Enterprises.  
 The characters "Alatar" and "Pallando" appear in _Unfinished Tales_. They appear here with specific permission of the Estate of J. R. R. Tolkien. The copyright to _Unfinished Tales_ is held by HarperCollins Publishers, in succession to George Allen & Unwin (Publishers) Ltd. and on behalf of Christopher Reuel Tolkien and Frank Richard Williamson, the Executors of the Estate of J.R.R. Tolkien. 
-
-{: .fs-2 }
 _Middle-earth: The Wizards_ is made for ICE in Belgium by Carta Mundi.  
 The character symbols ( ![](/assets/images/di.svg) ![](/assets/images/mind.svg) ), region symbols ( ![](/assets/images/coastalsea.svg) ![](/assets/images/free-domain.svg) ![](/assets/images/border-land.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg) ![](/assets/images/wilderness.svg) ), and site symbols( ![](/assets/images/free-haven.svg) ![](/assets/images/free-hold.svg) ![](/assets/images/border-hold.svg) ![](/assets/images/shadow-hold.svg) ![](/assets/images/dark-hold.svg) ![](/assets/images/ruinlair.svg) ) are trademark properties of Iron Crown Enterprises. All rights reserved.  
 _The Fellowship of the Ring_ — Copyright © 1955, 1965 by J.R.R. Tolkien. Copyright © renewed 1982 by Christopher R. Tolkien, Michael H.R. Tolkien, John F.R. Tolkien and Priscilla M.A.R. Tolkien.  
