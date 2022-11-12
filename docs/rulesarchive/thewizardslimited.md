@@ -9,7 +9,7 @@ search_exclude: true
 
 <details markdown="block">
   <summary>
-   Contents of The Wizards (Limited)
+   CONTENTS
   </summary>
   {: .text-gamma }
 - TOC
