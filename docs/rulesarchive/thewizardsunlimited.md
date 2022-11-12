@@ -9,9 +9,9 @@ search_exclude: true
 
 <details markdown="block">
   <summary>
-   The Wizards (Unlimited)
+   CONTENTS
   </summary>
-  {: .text-alpha }
+  {: .text-gamma }
 - TOC
 {:toc}
 </details>
