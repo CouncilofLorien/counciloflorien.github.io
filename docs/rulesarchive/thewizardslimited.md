@@ -11,13 +11,13 @@ search_exclude: true
   <summary>
    Contents of The Wizards (Limited)
   </summary>
-  {: .text-beta }
+  {: .text-gamma }
 - TOC
 {:toc}
 </details>
 
 {: .fs-7 .fw-700 .text-center }
-MIDDLE-EARTH: THE WIZARDS<br>LIMITED
+MIDDLE-EARTH: THE WIZARDS
 
 # INTRODUCTION
 
