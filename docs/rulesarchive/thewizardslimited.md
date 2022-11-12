@@ -17,10 +17,7 @@ search_exclude: true
 </details>
 
 {: .fs-7 .fw-700 .text-center }
-MIDDLE-EARTH: THE WIZARDS
-
-{: .fs-4 .fw-700 .text-center }
-LIMITED
+MIDDLE-EARTH: THE WIZARDS<br>LIMITED
 
 # INTRODUCTION
 
