@@ -9,9 +9,9 @@ search_exclude: true
 
 <details markdown="block">
   <summary>
-   The Dragons
+   CONTENTS
   </summary>
-  {: .text-alpha }
+  {: .text-gamma }
 - TOC
 {:toc}
 </details>
