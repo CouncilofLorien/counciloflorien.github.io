@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Wizards Limited
+title: The Wizards Unlimited
 parent: Rules Archive
 nav_order: 2
 permalink: /rulesarchive/thewizardsunlimited
