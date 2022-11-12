@@ -106,7 +106,9 @@ Normally, a company moving with region movement may lay down a maximum of four r
 [^sideboard]: The sideboard size was increased several times over the game's life. The final increase came with _Middle-earth: The White Hand_ which increased the sideboard to 30 cards for 1-deck and 2-deck games.
 
 {: .text-center }
-# MANY A GLEAMING GOLDEN HOARD<br>
+# MANY A GLEAMING GOLDEN HOARD
+
+{: .text-center }
 _A Scenario For Middle-earth: The Dragons_
 
 To play this scenario, each player will need at the **very** least one starter deck and several boosters from _Middle-earth: The Wizards_ plus some _Middle-earth: The Dragons_ (_METD_) booster packs—the exact number of which will depend on the chosen victory conditions.
