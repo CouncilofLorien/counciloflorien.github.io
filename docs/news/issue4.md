@@ -90,7 +90,7 @@ The Swiss System format can be used for any of the actual types of games being r
 - _Number of rounds_—A Swiss System tournament is comprised of a certain number of rounds as dictated by the number of participants in the tournament.
 
 | Players | Rounds | Official |
-| ---: | :--- | --- |
+| ---: | :---: | :--- |
  2 | 1 | No
 3-4 | 2 | No
 5 | 3 | No
