@@ -1019,4 +1019,4 @@ _Unfinished Tales_ — Copyright © 1980 by George Allen & Unwin (Publishers) Lt
 [^playeringanddrawingcards]: See standard rules section 10 playing and drawing cards
 [^typo]: A typographical error
 [^influencefaction]: See starter section 9 on influence
-[^url}: The URL was http://www.ironcrown.com. See the "Wayback Machine" of "The Internet Archive" for webpages on MECCG.
+[^url]: The URL was http://www.ironcrown.com. See the "Wayback Machine" of "The Internet Archive" for webpages on MECCG.
