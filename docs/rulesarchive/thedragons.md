@@ -141,8 +141,7 @@ Proofreading: D. Begiebing, J. Curtis III, W. Frazer, J. Ney-Grimm, D. Platnick
 J. Whitehouse, Jon Whitney, and Mark Wightman  
 **Additional credits** can be found in the _Middle-earth: The Wizards_ rulesbook (due to space limitations, we were unable to include them here).
 
-# COPYRIGHT
-
+{: .fs-3 }
 _Middle-earth: The Dragons_ is a set of expansion cards for _Middle-earth: The Wizards_, a collectible card game produced by Iron Crown Enterprises, Inc. (ICE), Charlottesville, Virginia USA, the exclusive holder of the worldwide adventure games license based on J.R.R. Tolkien's _The Hobbit_ and _The Lord of the Rings_.  
 Copyright © 1995, 1996 Tolkien Enterprises, a division of The Saul Zaentz Company, Berkeley, CA. _Middle-earth: The Dragons_, _Middle-earth: The Wizards_, _Middle-earth_, _The Hobbit_, _The Lord of the Rings_, and _The Return of the King_, and all characters and places therein, and the Burning Eye are trademark properties of Tolkien Enterprises. All rights reserved.  
 _The Fellowship of the Ring_ — Copyright © 1955, 1965 by J.R.R. Tolkien. Copyright © renewed 1982 by Christopher R. Tolkien, Michael H.R. Tolkien, John F.R. Tolkien and Priscilla M.A.R. Tolkien.  
