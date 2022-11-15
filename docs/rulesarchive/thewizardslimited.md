@@ -265,6 +265,7 @@ _First, Gandalf does not require any influence-he's your Wizard. You use your GI
 _The resulting character control organization is outlined below_
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#fff','primaryBorderColor': '#44434d','fontFamily': 'timesnewroman'}}}%%
 graph TD
     Gn("Gandalf (-•10)") --- Sm("Sam Gamgee (4•0)")
     Gn --- Mr("Merry (4•1)")
