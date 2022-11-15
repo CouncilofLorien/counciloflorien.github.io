@@ -86,61 +86,61 @@ If you have played other collectible card games (CCG), there are several key fac
 
 # COMMONLY USED TERMS
 
-**Action:** The various activities that you and your opponent can perform during play are called actions. Typical actions include playing a card, tapping a card, revealing a card, etc.
-**Ally:** An ally is a resource that represents a personality (i.e., entity) that can be recruited to help the Free Peoples (e.g., Tom Bombadil, Treebeard, etc.).
-**Attack:** Combat consists of one or more attacks that must be resolved one at a time. An attack consists of one or more strikes.
-**Attribute:** Each character’s abilities are defined by the following attributes: race, skills, direct influence, prowess, body, mind, marshalling points, special abilities.
-**Automatic-attack:** An attack that must be faced to enter and explore a site.
-**Body Check:** When a character is wounded, he must make a body check to determine if he is eliminated. When all of a creature’s strikes fail, a body check is made for each of its strikes to determine if the creature is eliminated.
-**Body:** A character’s or creature’s body is a measure of how difficult it is to physically eliminate him.
-**Chain of Effects:** A series of declared actions made in response to one another is called a chain of effects.
-**Character:** A person that is working for the cause of the Free Peoples. If in play, each of your characters is under the influence of your Wizard.
-**Company:** During play, you may organize your characters into groups called companies.
-**Corruption Card:** A hazard card that gives a character corruption points.
-**Corruption Check:** A modified roll made to determine if a character is discarded or eliminated due to accumulated corruption points.
-**Corruption Points:** This reflects the total amount of corruption a character has accumulated due to the effects of various hazards and resources. Creature: A creature is a hazard card that can be used to directly attack one of your opponent’s companies.
-**Current Site Card:** A company has a current site card associated with it—the company is located at that site.
-**Direct Influence:** A measure of a character’s ability to control other characters and to influence factions and your opponent’s resources. 
-**Event:** An event is either a resource card that is not an item, ally, or faction; or it is a hazard card that is not a creature. Based upon how long it stays in play, there are 3 types of events: short-events, long-events, and permanent-events.
-**Exhausting a Deck:** Your play deck is “exhausted” when you draw its last card.
-**Faction:** A faction is a resource that represents a group of people or creatures. A faction can be recruited to help the Free Peoples (e.g., Riders of Rohan, Elves of Lindon, etc.).
-**Follower:** A character that is controlled by another character’s direct influence.
-**Free Council:** Marshalling points are tallied and the winner of the game is determined at the Free Council.
-**General Influence:** Each player has 20 points of general influence to use to control his characters.
-**Hazard Limit:** A company’s hazard limit is equal to two or the size of the company, whichever is greater. The maximum number of hazards that can be played on a company during a given movement/hazard phase is equal to its hazard limit.
-**Hazards:** Hazard cards represent evil forces and natural dangers. You may play hazard cards only during your opponent’s movement/hazard phase.
-**Healing:** This consists of moving a character from a wounded state to a tapped state.
-**Home Site:** A character may be brought into play at his home site or at a Haven.
-**Influence Check:** In certain situations, a player can make an influence check to attempt to bring a faction into play or to disrupt his opponent’s control over one of his resources.
-**Item:** An item is a resource that represents an object that can be acquired and used to help the Free Peoples. The different types of items are: minor, major, greater, gold ring, and special.
+**Action:** The various activities that you and your opponent can perform during play are called actions. Typical actions include playing a card, tapping a card, revealing a card, etc.  
+**Ally:** An ally is a resource that represents a personality (i.e., entity) that can be recruited to help the Free Peoples (e.g., Tom Bombadil, Treebeard, etc.).  
+**Attack:** Combat consists of one or more attacks that must be resolved one at a time. An attack consists of one or more strikes.  
+**Attribute:** Each character’s abilities are defined by the following attributes: race, skills, direct influence, prowess, body, mind, marshalling points, special abilities.  
+**Automatic-attack:** An attack that must be faced to enter and explore a site.  
+**Body Check:** When a character is wounded, he must make a body check to determine if he is eliminated. When all of a creature’s strikes fail, a body check is made for each of its strikes to determine if the creature is eliminated.  
+**Body:** A character’s or creature’s body is a measure of how difficult it is to physically eliminate him.  
+**Chain of Effects:** A series of declared actions made in response to one another is called a chain of effects.  
+**Character:** A person that is working for the cause of the Free Peoples. If in play, each of your characters is under the influence of your Wizard.  
+**Company:** During play, you may organize your characters into groups called companies.  
+**Corruption Card:** A hazard card that gives a character corruption points.   
+**Corruption Check:** A modified roll made to determine if a character is discarded or eliminated due to accumulated corruption points.  
+**Corruption Points:** This reflects the total amount of corruption a character has accumulated due to the effects of various hazards and resources. Creature: A creature is a hazard card that can be used to directly attack one of your opponent’s companies.  
+**Current Site Card:** A company has a current site card associated with it—the company is located at that site.  
+**Direct Influence:** A measure of a character’s ability to control other characters and to influence factions and your opponent’s resources.   
+**Event:** An event is either a resource card that is not an item, ally, or faction; or it is a hazard card that is not a creature. Based upon how long it stays in play, there are 3 types of events: short-events, long-events, and permanent-events.  
+**Exhausting a Deck:** Your play deck is “exhausted” when you draw its last card.  
+**Faction:** A faction is a resource that represents a group of people or creatures. A faction can be recruited to help the Free Peoples (e.g., Riders of Rohan, Elves of Lindon, etc.).  
+**Follower:** A character that is controlled by another character’s direct influence.  
+**Free Council:** Marshalling points are tallied and the winner of the game is determined at the Free Council.  
+**General Influence:** Each player has 20 points of general influence to use to control his characters.  
+**Hazard Limit:** A company’s hazard limit is equal to two or the size of the company, whichever is greater. The maximum number of hazards that can be played on a company during a given movement/hazard phase is equal to its hazard limit.  
+**Hazards:** Hazard cards represent evil forces and natural dangers. You may play hazard cards only during your opponent’s movement/hazard phase.  
+**Healing:** This consists of moving a character from a wounded state to a tapped state.  
+**Home Site:** A character may be brought into play at his home site or at a Haven.  
+**Influence Check:** In certain situations, a player can make an influence check to attempt to bring a faction into play or to disrupt his opponent’s control over one of his resources.  
+**Item:** An item is a resource that represents an object that can be acquired and used to help the Free Peoples. The different types of items are: minor, major, greater, gold ring, and special.  
 **Keyed:** A hazard creature may only be played against a company if the creature is “keyed to” the company’s site or site path.
-**Location Deck:** A player’s site and region cards.
-**Long-event:** Long-events last approximately two turns, one of yours and one of your opponent’s.
-**Making a Roll:** Two six-sided dice (2D6) should be used to generate random values during play. This is called “making a roll.” To make a roll, roll 2D6 and add the two results together.
-**Marshalling Points:** During play you receive marshalling points from: control of resources, destruction of evil forces, and various other actions. The winner is the player with the most marshalling points at the end of the game.
-**Mind:** A character’s mind determines how many influence points are required to keep this character in play
-**Movement:** During a player’s turn, he may move each of his companies from its current site to another site.
-**New Site Card:** When a company moves, it leaves its current site card and travels to its new site card.
-**Permanent-event:** The effects of a resource permanent-event last until the card is discarded due to conditions stated on its card.
-**Play Deck:** Each player has a play deck that consists of his resource, hazard, and character cards. During play, each player draws cards from his play deck.
-**Prowess:** A measure of a character’s offensive capabilities in combat.
-**Race:** An attribute that helps define a character. The races are: Dúnadan, Dwarf, Elf, Hobbit, Man, and Wizard.
-**Region:** The various lands of Middle-earth are represented by regions.
-**Resources:** Resource cards represent good forces and various advantageous occurrences. You may play resource cards only during your own turn. 
-**Short-event:** A short-event card is discarded immediately after it is played. The effects of some short-events last for a specific period as stated on their cards. 
-**Site of Origin:** At the beginning of its movement/hazard phase, a moving company’s current site card becomes its site of origin—the company is considered to be en route to its new site card (i.e., the company is moving). 
-**Site Path:** The site path of a site is the sequence of regions between the site and its nearest Haven as listed on the site’s card. A company’s site path is the sequence of regions between its site of origin and its new site.
-**Site:** Sites represent places that characters can visit in Middle-earth.
-**Size:** A company’s size is equal to the number of characters in it, with each Hobbit character only counting half (round up).
-**Skill:** An attribute that helps define a character. The skills are: Diplomat, Ranger, Sage, Scout, Warrior.
-**Standard Modification:** Most faction cards list some “standard modifications” to the influence check based only upon the race of the character that was tapped to make the influence check.
-**Storing Cards:** Certain cards (e.g., items, information, etc.) can be stored if they are at a Haven. Such a card is removed from play and placed in its player’s marshalling point pile.
-**Strike:** An attack consist of one or more strikes. Each strike targets a character and is resolved by making a roll.
-**Tapping/Untapping a Card:** Normally, during play, each of your cards is placed so that its bottom is towards its player. During play certain cards must be “tapped” when they are used—this is a record keeping mechanism to keep track of card usage. To tap a card, rotate it 90˚ so that it is turned sideways—to untap a card, rotate it back 90˚ to its normal position.
-**Transferring Items:** An item is transferred when it is moved from the control of one character to another.
-**Unique:** There can only be one copy of each unique card in play at a time. Each player can only have one copy of each unique card in his play deck and starting cards combined.
-**Wizard:** Each player plays one of the five Wizards sent to Middle-earth to unite and counsel the Free Peoples.
-**Wounded:** A wounded character is damaged but not eliminated. When one of your characters is wounded, his card is placed with its top towards you.
+**Location Deck:** A player’s site and region cards.  
+**Long-event:** Long-events last approximately two turns, one of yours and one of your opponent’s.  
+**Making a Roll:** Two six-sided dice (2D6) should be used to generate random values during play. This is called “making a roll.” To make a roll, roll 2D6 and add the two results together.  
+**Marshalling Points:** During play you receive marshalling points from: control of resources, destruction of evil forces, and various other actions. The winner is the player with the most marshalling points at the end of the game.  
+**Mind:** A character’s mind determines how many influence points are required to keep this character in play.  
+**Movement:** During a player’s turn, he may move each of his companies from its current site to another site.  
+**New Site Card:** When a company moves, it leaves its current site card and travels to its new site card.  
+**Permanent-event:** The effects of a resource permanent-event last until the card is discarded due to conditions stated on its card.  
+**Play Deck:** Each player has a play deck that consists of his resource, hazard, and character cards. During play, each player draws cards from his play deck.  
+**Prowess:** A measure of a character’s offensive capabilities in combat.  
+**Race:** An attribute that helps define a character. The races are: Dúnadan, Dwarf, Elf, Hobbit, Man, and Wizard.  
+**Region:** The various lands of Middle-earth are represented by regions.  
+**Resources:** Resource cards represent good forces and various advantageous occurrences. You may play resource cards only during your own turn.   
+**Short-event:** A short-event card is discarded immediately after it is played. The effects of some short-events last for a specific period as stated on their cards.  
+**Site of Origin:** At the beginning of its movement/hazard phase, a moving company’s current site card becomes its site of origin—the company is considered to be en route to its new site card (i.e., the company is moving).  
+**Site Path:** The site path of a site is the sequence of regions between the site and its nearest Haven as listed on the site’s card. A company’s site path is the sequence of regions between its site of origin and its new site.  
+**Site:** Sites represent places that characters can visit in Middle-earth.  
+**Size:** A company’s size is equal to the number of characters in it, with each Hobbit character only counting half (round up).  
+**Skill:** An attribute that helps define a character. The skills are: Diplomat, Ranger, Sage, Scout, Warrior.  
+**Standard Modification:** Most faction cards list some “standard modifications” to the influence check based only upon the race of the character that was tapped to make the influence check.  
+**Storing Cards:** Certain cards (e.g., items, information, etc.) can be stored if they are at a Haven. Such a card is removed from play and placed in its player’s marshalling point pile.  
+**Strike:** An attack consist of one or more strikes. Each strike targets a character and is resolved by making a roll.  
+**Tapping/Untapping a Card:** Normally, during play, each of your cards is placed so that its bottom is towards its player. During play certain cards must be “tapped” when they are used—this is a record keeping mechanism to keep track of card usage. To tap a card, rotate it 90˚ so that it is turned sideways—to untap a card, rotate it back 90˚ to its normal position.  
+**Transferring Items:** An item is transferred when it is moved from the control of one character to another.  
+**Unique:** There can only be one copy of each unique card in play at a time. Each player can only have one copy of each unique card in his play deck and starting cards combined.  
+**Wizard:** Each player plays one of the five Wizards sent to Middle-earth to unite and counsel the Free Peoples.  
+**Wounded:** A wounded character is damaged but not eliminated. When one of your characters is wounded, his card is placed with its top towards you.  
 
 {: .fs-7 .fw-700 .text-center }
 • PART I •
