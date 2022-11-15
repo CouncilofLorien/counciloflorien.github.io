@@ -503,6 +503,7 @@ In _METW_ the lands of northwest Middle-earth are represented by regions. The si
 > 
 > **Note:** By using the site cards and site cards only, a company can move from any site to any other site. First, if necessary, the company moves to the nearest Haven. Then, if necessary, it moves to another Haven. Finally, it moves from that Haven to the destination site.
 
+{: .text-center }
 ![](/assets/images/startermovement.svg)
 
 A company commits to moving by playing a new site card (face
