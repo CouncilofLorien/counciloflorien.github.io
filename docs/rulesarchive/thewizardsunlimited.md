@@ -412,102 +412,85 @@ If a character directly influencing a follower is removed from play, the followe
 > 
 > ```mermaid
 > graph TD
->     Gn("Gandalf (-•10)") --- Sm("Sam Gamgee (4•0)")
->     Gn --- Mr("Merry (4•1)")
->     Gn --- Pp("Pippin (4•1)")
 >     GI("General Influence (-•20)") 
 >     GI --- Gm("Gimli (6•2)")
->     GI --- Ar("Aragorn (9•3)")
->     GI --- Fr("Frodo (5•1)")
+>     GI --- Ar("Aragorn (9•3+1)")
+>     GI --- Fr("Frodo (5•1+5)")
 >     Ar --- Br("Boromir (4•1)")
->     Fr --- Lg("Legolas (6•2)")  
+>     Fr --- Lg("Legolas (6•2)")
+>     Gn("Gandalf (-•10+2)") --- Sm("Sam Gamgee (4•0)")
+>     Gn --- Mr("Merry (4•1)")
+>     Gn --- Pp("Pippin (4•1)")
 > ```
 
 {: .note } 
 > Example: In our example from page 11, Jessica and Jason each have one company organized as follows:
+> 
+> ```mermaid
+> graph TD
+>     GI("Jessica's General Influence (-•20)") 
+>     GI --- Ell("Elladan (6•0)")
+>     GI --- Leg("Legolas (6•2+2)")
+>     Leg --- Elr("Elrohir (4•0)")
+>     Pal("Pallando (-•10)") --- Gil("Gildor<br>Inglorion (4•0)")
+>     Pal --- Cel("Celeborn (6•1)")
+> ```
+> 
+> ```mermaid
+> graph TD
+>     GI("Jason's General Influence (-•20)") 
+>     GI --- The("Theoden (6•3)")
+>     GI --- Far("Faramir (5•1)")
+>     GI --- Imr("Imrahil (6•2)")
+>     Rad("Radagast (-•10)") --- Beo("Beorn (7•2)")
+> ```
+> 
+> Jessica’s company size is 6 and she has 10 unused general influence;
+> Jason’s company size is 5 and he has 3 unused general influence.
 
-Jessica’s General Influence (- •20)
-| Pallando (- •10)
-Elladan (4•0) Legolas (6•2+2)
-| Gildor Celeborn (6•1)
-Elrohir (4•0) Inglorion (4•0)
-Jason’s General Influence (- •20)
-| Radagast (- •10)
-Théoden (6•3) Faramir (5•1) Imrahil (6•2) |
-Beorn (7•2)
-Jessica’s company size is 6 and she has 10 unused general influence;
-Jason’s company size is 5 and he has 3 unused general influence.
-22
-Clarification: During the organization phase, you can move characters from
-control by general influence to control by direct influence and vice versa so
-long as your total of mind attributes does not exceed your available influence
-at the end of the organization phase.
-Clarification: If you do not have enough influence to control all of your
-characters in play, you must discard any excess characters at the end of your
-next organization phase.
-COMPANIES
-A company is a group of characters that move and act together. This
-allows characters to move, act, and defend as a unit, allowing stronger
-characters to protect the weaker characters. This mechanism can be
-used to allow a variety of tactics during play.
-For example, if you have 3 characters in play, the 3 characters can
-move separately and perhaps do more in terms of acquiring marshalling
-points (items, other characters, etc.); but each individual character
-is more vulnerable to danger. However, the same 3 characters
-operating as a company might acquire marshalling points more
-slowly, but they are safer (i.e., you risk less).
-Normally, a company is limited to a size of seven, but a company
-at a Haven site may be of any size. For these purposes, a Wizard counts
-as a character, but an ally does not. The size of a company is
-determined for each company at the beginning of the movement/
-hazard phase (e.g., it remains fixed even if a character leaves the
-company).
-BRINGING CHARACTERS INTO PLAY
-During your organization phase, you may perform one and only
-one of the following activities:
-• You may play a character card. You must have enough general
-influence or direct influence available to control the character. You
-must place him at his home site or at any Haven site.
-• You may play a Wizard card if you do not have one in play. You must
-place a Wizard at his home site or at Rivendell. You need not control
-a Wizard with influence—he represents you, the player.
-23
-When you play a character, you may place him into a company
-already at his arrival site or he may become a new company (consisting
-of one character). In the second case, you must place the arrival
-site card next to the character played.
-Clarification: If character is played at his home site or a Haven site and there
-is no company there, you must play the site card for his arrival site with him.
-If the appropriate site card is not available, you may not play the character.
-Clarification: Playing a character does not tap a site.
-Each character and Wizard is unique. So if you already have a
-character in play, your opponent may not play the same character.
-Similarly, if a character has been eliminated, he may not be brought
-into play again by either player.
-Example: In our example from page 11, Jessica calls the Free Council. Then
-Jason gets to take his final turn. Since his company is at a Haven, Jason may
-play a character card from his hand during his organization phase. Jason has
-Éomer (with a 3 mind attribute) in his hand so he plays him. Jason has 3 points
-of unused general influence; he also has Théoden with 3 points of unused
-direct influence and Radagast with 3 points of unused direct influence. So
-Éomer may be placed under the control of general influence, Théoden, or
-Radagast (Jason’s choice).
-REVEALING A WIZARD
-Once you decide to reveal your Wizard, you may still use your pool
-of general influence points; but, in addition, your Wizard acts as a
-character (a very powerful one). While revealing your Wizard is an
-advantage, it also carries with it the danger of losing the game by
-losing your Wizard to death or corruption.
-After being revealed, a Wizard operates as a character and thus may
-use his direct influence just like any other character.
-HEALING
-Each of your characters at a Haven may heal during the untap phase
-of your turn. Such a character moves from a wounded position to a
-tapped position (i.e., the character is still tapped). In addition, certain
-cards can heal characters when they are played (e.g., Healing Herbs,
-Halfling Strength, etc.).
-24
-6 • MOVEMENT
+{: .note } 
+> **Clarification:** During the organization phase, you can move characters from control by general influence to control by direct influence and vice versa so long as your total of mind attributes does not exceed your available influence at the end of the organization phase.
+> 
+> **Clarification:** If you do not have enough influence to control all of your characters in play, you must discard any excess characters at the end of your next organization phase.
+
+## COMPANIES
+
+A company is a group of characters that move and act together. This allows characters to move, act, and defend as a unit, allowing stronger characters to protect the weaker characters. This mechanism can be used to allow a variety of tactics during play. 
+
+For example, if you have 3 characters in play, the 3 characters can move separately and perhaps do more in terms of acquiring marshalling points (items, other characters, etc.); but each individual character is more vulnerable to danger. However, the same 3 characters operating as a company might acquire marshalling points more slowly, but they are safer (i.e., you risk less).
+
+Normally, a company is limited to a size of seven, but a company at a Haven site may be of any size. For these purposes, a Wizard counts as a character, but an ally does not. The size of a company is determined for each company at the beginning of the movement/ hazard phase (e.g., it remains fixed even if a character leaves the company).
+
+## BRINGING CHARACTERS INTO PLAY
+
+During your organization phase, you may perform **one and only one** of the following activities:
+ - You may play a character card. You must have enough general influence or direct influence available to control the character. You must place him at his home site or at any Haven site.
+ - You may play a Wizard card if you do not have one in play. You must place a Wizard at his home site or at Rivendell. You need not control a Wizard with influence—he represents you, the player.
+
+When you play a character, you may place him into a company already at his arrival site **or** he may become a new company (consisting of one character). In the second case, you must place the arrival site card next to the character played.
+
+{: .note }
+> **Clarification:** If character is played at his home site or a Haven site and there is no company there, you must play the site card for his arrival site with him. If the appropriate site card is not available, you may not play the character. 
+> a
+> **Clarification:** Playing a character does not tap a site.
+
+Each character and Wizard is unique. So if you already have a character in play, your opponent may not play the same character. Similarly, if a character has been eliminated, he may not be brought
+into play again by either player. 
+
+{: .note }
+> **Example:** In our example from page 11, Jessica calls the Free Council. Then Jason gets to take his final turn. Since his company is at a Haven, Jason may play a character card from his hand during his organization phase. Jason has Éomer (with a 3 mind attribute) in his hand so he plays him. Jason has 3 points of unused general influence; he also has Théoden with 3 points of unused direct influence and Radagast with 3 points of unused direct influence. So Éomer may be placed under the control of general influence, Théoden, or Radagast (Jason’s choice).
+
+## REVEALING A WIZARD
+
+Once you decide to reveal your Wizard, you may still use your pool of general influence points; but, in addition, your Wizard acts as a character (a very powerful one). While revealing your Wizard is an advantage, it also carries with it the danger of losing the game by losing your Wizard to death or corruption. After being revealed, a Wizard operates as a character and thus may
+use his direct influence just like any other character. 
+
+## HEALING
+
+Each of your characters at a Haven may heal during the untap phase of your turn. Such a character moves from a wounded position to a tapped position (i.e., the character is still tapped). In addition, certain cards can heal characters when they are played (e.g., Healing Herbs, Halfling Strength, etc.).
+
+# 6 • MOVEMENT
+
 In METW the lands of northwest Middle-earth are represented by
 regions. The site cards represent places that companies can visit
 within those regions. Except for a moving company during its
