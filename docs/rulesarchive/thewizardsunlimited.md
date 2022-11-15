@@ -503,47 +503,8 @@ In _METW_ the lands of northwest Middle-earth are represented by regions. The si
 > 
 > **Note:** By using the site cards and site cards only, a company can move from any site to any other site. First, if necessary, the company moves to the nearest Haven. Then, if necessary, it moves to another Haven. Finally, it moves from that Haven to the destination site.
 
-```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#fff','primaryBorderColor': '#44434d','fontFamily': 'timesnewroman'}}}%%
-graph LR
-    riv([Rivendell]) --> lor([Lórien])
-    riv --> gre([Grey Havens])
-    gre --> edh([Edhellond])
-    gre --> riv
-    edh --> lor
-    edh --> gre
-    lor --> riv
-    lor --> edh
-    rivsites[Sites with Rivendell as nearest Haven] --> riv
-    riv --> rivsites
-    lorsites[Sites with Lórien as nearest Haven] --> lor
-    lor --> lorsites
-    gresites[Sites with Grey Havens as nearest Haven] --> gre
-    gre --> gresites
-    edhsites[Sites with Edhellond as nearest Haven] --> edh
-    edh --> edhsites
-```
+![](/assets/images/startermovement.svg)
 
-Sites with
-Grey Havens
-as nearest
-Haven
-Edhellond
-Sites with
-Edhellond
-as nearest Haven
-Sites with
-Rivendell
-as nearest Haven
-Grey Havens
-Sites with
-Lórien
-as nearest
-Haven
-Rivendell
-4 Lórien
-Havens
-25
 A company commits to moving by playing a new site card (face
 down) during its organization phase. A company does not have to
 move during a given turn (i.e., it does not play a new site card).
