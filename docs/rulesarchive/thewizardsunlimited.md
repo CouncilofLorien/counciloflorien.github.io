@@ -413,24 +413,24 @@ If a character directly influencing a follower is removed from play, the followe
 > ```mermaid
 > graph TD
 >     GI("General Influence (-•20)")
->         style GI fill:#fff,stroke:#44434d 
+>         style GI fill:#fff,stroke:#44434d,fontFamily:timesnewroman
 >     GI --- Gm("Gimli (6•2)")
->         style Gm fill:#fff,stroke:#44434d 
+>         style Gm fill:#fff,stroke:#44434d,fontFamily:timesnewroman
 >     GI --- Ar("Aragorn (9•3+1)")
->         style Ar fill:#fff,stroke:#44434d 
+>         style Ar fill:#fff,stroke:#44434d,fontFamily:timesnewroman
 >     GI --- Fr("Frodo (5•1+5)")
->         style Fr fill:#fff,stroke:#44434d 
+>         style Fr fill:#fff,stroke:#44434d,fontFamily:timesnewroman
 >     Ar --- Br("Boromir (4•1)")
->         style Br fill:#fff,stroke:#44434d 
+>         style Br fill:#fff,stroke:#44434d,fontFamily:timesnewroman
 >     Fr --- Lg("Legolas (6•2)")
->         style Lg fill:#fff,stroke:#44434d 
+>         style Lg fill:#fff,stroke:#44434d,fontFamily:timesnewroman
 >     Gn("Gandalf (-•10+2)") --- Sm("Sam Gamgee (4•0)")
->         style Gn fill:#fff,stroke:#44434d 
->         style Sm fill:#fff,stroke:#44434d 
+>         style Gn fill:#fff,stroke:#44434d,fontFamily:timesnewroman
+>         style Sm fill:#fff,stroke:#44434d,fontFamily:timesnewroman
 >     Gn --- Mr("Merry (4•1)")
->         style Mr fill:#fff,stroke:#44434d 
+>         style Mr fill:#fff,stroke:#44434d,fontFamily:timesnewroman
 >     Gn --- Pp("Pippin (4•1)")
->         style Pp fill:#fff,stroke:#44434d 
+>         style Pp fill:#fff,stroke:#44434d,fontFamily:timesnewroman
 > ```
 
 {: .note } 
