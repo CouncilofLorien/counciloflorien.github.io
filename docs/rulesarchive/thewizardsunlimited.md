@@ -474,7 +474,7 @@ When you play a character, you may place him into a company already at his arriv
 
 {: .note }
 > **Clarification:** If character is played at his home site or a Haven site and there is no company there, you must play the site card for his arrival site with him. If the appropriate site card is not available, you may not play the character. 
-> a
+> 
 > **Clarification:** Playing a character does not tap a site.
 
 Each character and Wizard is unique. So if you already have a character in play, your opponent may not play the same character. Similarly, if a character has been eliminated, he may not be brought
@@ -494,21 +494,36 @@ Each of your characters at a Haven may heal during the untap phase of your turn.
 
 # 6 • MOVEMENT
 
-In METW the lands of northwest Middle-earth are represented by
-regions. The site cards represent places that companies can visit
-within those regions. Except for a moving company during its
-movement/hazard phase, each company always has a current site
-card associated with it—the company is located at that site.
-Clarification: The specific region cards are not used with the Starter Rules.
-Remove these cards from your location deck if you are not using the Standard
-Rules. Region cards are not included in starter decks.
-Note: Site paths do not direct the movement process. The site path is used to
-determine which hazard creatures your opponent may play against your
-moving company.
-Note: By using the site cards and site cards only, a company can move from
-any site to any other site. First, if necessary, the company moves to the nearest
-Haven. Then, if necessary, it moves to another Haven. Finally, it moves from
-that Haven to the destination site.
+In _METW_ the lands of northwest Middle-earth are represented by regions. The site cards represent places that companies can visit within those regions. Except for a moving company during its movement/hazard phase, each company always has a current site card associated with it—the company is located at that site.
+
+{: .note }
+> **Clarification:** The specific region cards are not used with the Starter Rules. Remove these cards from your location deck if you are not using the Standard Rules. Region cards are not included in starter decks.
+> 
+> **Note:** Site paths do not direct the movement process. The site path is used to determine which hazard creatures your opponent may play against your moving company.
+> 
+> **Note:** By using the site cards and site cards only, a company can move from any site to any other site. First, if necessary, the company moves to the nearest Haven. Then, if necessary, it moves to another Haven. Finally, it moves from that Haven to the destination site.
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#fff','primaryBorderColor': '#44434d','fontFamily': 'timesnewroman'}}}%%
+graph LR
+    riv([Rivendell]) --> lor([Lórien])
+    riv --> gre([Grey Havens])
+    gre --> edh([Edhellond])
+    gre --> riv
+    edh --> lor
+    edh --> gre
+    lor --> riv
+    lor --> edh
+    rivsites[Sites with Rivendell as nearest Haven] --> riv
+    riv --> rivsites
+    lorsites[Sites with Lórien as nearest Haven] --> lor
+    lor --> lorsites
+    gresites[Sites with Grey Havens as nearest Haven] --> gre
+    gre --> gresites
+    edhsites[Sites with Edhellond as nearest Haven] --> edh
+    edh --> edhsites
+```
+
 Sites with
 Grey Havens
 as nearest
