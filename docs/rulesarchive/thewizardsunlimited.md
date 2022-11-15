@@ -191,11 +191,14 @@ The winner of the game is the player that has gathered the most marshalling poin
 
 {: .note }
 > **Note:** You may find it useful to use pencil and paper or extra dice to keep a running total of marshalling points.
+> 
 > **Clarification:** If both players have the same number of marshalling points at the Free Council, the game ends in a tie—both players win (if you have to, roll dice and the high roller is the winner).
 
 {: .note }
 > **Example:** (CPs = Corruption Points, MPs = Marshalling Points) Our two players Jessica and Jason have been playing for awhile and Jessica exhausts her play deck during her turn. Since she has 15 MPs and Jason only has 14, she decides to call the Free Council. Each player has one company in Lórien:
+> 
 > **Jessica Controls:** 
+> 
 > - Men of Lebennin (faction) 2 MPs
 > - Dreams of Lore (information) 2 MPs
 > - Pallando (controls:) Total CPs: 2, 0 MPs
@@ -211,7 +214,8 @@ The winner of the game is the player that has gathered the most marshalling poin
 > Elladan Total CPs: 0 1
 > 
 > **Jason Controls:**
-> Radagast (controls:) Total CPs: 0
+> 
+> - Radagast (controls:) Total CPs: 0
 > - Beorn (controls:) 2 MP
 >      - Quickbeam (ally) 2 MP
 > - Théoden (controls:) Total CPs: 4, 2 MP
@@ -232,15 +236,23 @@ There are five types of cards: site cards, character cards (including Wizard car
 
 {: .note }
 > **Note:** Color diagrams of the various types of cards can be found in the color insert. The card types can be distinguished as follows:
+> 
 > _Site cards_ have a white parchment background on the front.
+> 
 > Character cards (non-Wizard) have a blue stone background on the front. Each Wizard card has a differently colored stone background. 
+> 
 > _Resource cards_ have a copper metal background on the front.
+> 
 > _Hazard cards_ have a steel gray metal background on the front.
+> 
 > _Region cards_ have a labeled map on the front.
+> 
 > _Site and region cards_ (i.e., location cards) have an unlabeled map of northwestern Middle-earth on the back.
+> 
 > _Character_, _resource_, and _hazard cards_ have the burning eye on the back.
 > 
 > **Clarification:** For emphasis, a value used during play is often provided both in a card’s text and in another place on the same card. For example, a character’s corruption check modification is stated both in the text and the lower right corner of the character’s card.
+> 
 > **Note:** Each starter deck has a small pack of cards called a fixed set. There are 5 fixed sets in all. One appears randomly in each starter deck. The top facing card of all fixed sets is Gates of Morning. 
 > 
 > A fixed set is included in each starter deck to make a starter deck playable without any other cards.
@@ -268,7 +280,7 @@ _Marshalling Point Pile_ (_MP pile_) — In addition to marshalling points from 
 > **Note:** Because hazard cards are distinct from resource cards, you may not play your hazards on your side of the playing surface. _At the end of a game, it will be obvious whose cards are whose, i.e., hazards in your area must belong to your opponent_. We suggest adopting a neutral zone between each player’s side of the playing surface. Non-targeted long-events and permanent-events can be played in this neutral zone.
 > 
 > Note: You may freely examine the contents of your discard pile; your opponent may not. The contents of your out-of-play and marshalling point piles may be freely examined by you and your opponent.
-> a
+> 
 > **Clarification:** If a character is eliminated due to combat or due to failing a corruption check by 2 or more, his card is placed in the out-of-play pile—that character may not be brought back into play by either player. If a creature is defeated, its card is placed in the defender’s marshalling point pile. If such a creature is unique, it may not be brought back into play by either player. When a card is removed from play in all other cases, the card is discarded unless the card specifically states otherwise.
 > 
 > **Clarification:** Several types of cards are referred to by the key word included in the first few words of a card’s text. For example, the text of a “spell” card starts with spell; the text of a “Nazgûl” card starts with Unique. Nazgûl; the text of a “Palantír” starts with Unique. Palantír.
@@ -295,215 +307,125 @@ opponent’s.
 Only one of each “unique” card may be included in your play deck and starting cards combined. As an exception, two of the same Wizard may be included in your play deck (to give you a better chance of drawing one early).
 
 # 3 • GETTING READY TO PLAY
+
 Follow these steps to get ready to play:
-1) Place your site cards in your location deck. This deck should
-contain all of your Haven cards (i.e., Rivendell, Edhellond, Grey
-Havens, and Lórien). You may include any number of Haven cards,
-but only one of each non-Haven site card.
-2) Place between 25 and 50 Resource cards and an equal number of
-Hazard cards in your play deck (if you have fewer than 25 of either
-available, just use all of the cards you have). Only one of each
-“unique” card may be included. No more than three copies of any
-one non-unique card may be included.
-3) Place one to five starting characters (no Wizards) face down in front
-of you. The combined mind attributes (see page 19) of these
-characters must be 20 or less. You and your opponent reveal your
-characters simultaneously, placing any duplicated characters into
-your play decks. Then organize your starting characters into followers
-and companies and place them at Rivendell (i.e., place a
-Rivendell site card next to them).
-4) You may assign up to two non-unique minor items to your starting
-characters (i.e., two items total, not two to each character). These
-items must come from cards that you have not already committed to
-your play deck.
-5) Place up to 10 character cards in your play deck. Only one of each
-character card may be included. In addition, place up to two Wizard
-cards in your play deck (you may place two copies of the same
-Wizard). Shuffle your play deck.
-6) Draw a hand of eight cards from your play deck.
-7) Each player makes a roll, and the player with the highest result goes
-first (reroll if tied).
-Clarification: None of your starting characters may be considered to be
-followers for the purposes of determining their combined mind attributes—
-your initial characters have to have combined mind attributes of 20 or below.
-Clarification: The initial 1-5 characters and two minor items do count
-toward the “one-unique” and “three-others” limits on the play deck.
-However, they do not count towards the number of resource and
-character cards in your starting play deck.
-17
-4 • THE PLAYER TURN
-Play consists of a series of “Player Turns.” During your turn, you
-take various actions during the following phases. Then, your opponent
-does the same during his turn.
-1) Untap Phase 4) Movement/Hazard Phase
-2) Organization Phase 5) Site Phase
-3) Long-event Phase 6) End-of-Turn Phase
-A Brief Player Turn Summary is presented on page 4. A detailed
-Full Player Turn Summary is presented on pages 68-70.
-Clarification: The actions that may be taken during your organization phase
-may be taken in any order. Actions of the same type do not have to be taken
-together (e.g., you can store an item, then bring a character into play, and then
-store a second item).
-Clarification: If one of your companies doesn’t move, neither player draws
-cards based on that company’s movement. However, your opponent can play
-still play allowable hazards on that company (hazard limit still applies).
-Clarification: Each player draws cards when each company moves and then
-discards or draws to 8 cards after the company has completed movement.
-Additionally, at the end of each turn, each player can discard one card and
-then discard or draw to 8 cards.
-Clarification: During the site phase, a company may decide not to enter and
-explore its current site. In this case, the company does not face the automaticattack,
-but it may not take any other actions or play any cards during the site
-phase. The company remains at the site and it may decide to enter and explore
-the site on a later turn.
-Clarification: Before a company can attempt to play one item, ally, faction,
-or information resource card that is “playable” at its current site, it must face
-the site’s automatic-attacks. The company need not defeat the attacks, it
-merely needs to resolve the attacks normally (such attacks can be canceled).
-A company can face a site’s automatic-attacks and still not play an item,
-ally, faction, or information resource card (e.g., all of its characters are tapped
-after facing the automatic-attacks). If such a company wants to play a card
-at the site on a later turn, it must face the automatic-attacks again.
-Clarification: A site is tapped when one item, ally, faction, or information
-card is played. Non-Haven sites only untap after being discarded and after
-your play deck is exhausted. So, each time through your play deck, only one
-such card may normally be played at a given non-Haven site. Haven
-cards, whether tapped or not, always return to your location deck.
-18
-5 • CHARACTERS & COMPANIES
-As a player, you influence and control a number of characters that
-move and act in the world of Middle-earth. Each character’s abilities
-are defined by these attributes: race, skills, direct influence, prowess
-(offense), body (defense), mind, marshalling points, and special
-abilities (e.g., corruption check modifiers). A character can be eliminated
-and removed from play as a result of combat (failing a body
-check) or corruption (failing a corruption check).
-If you have enough general influence or direct influence during a
-given turn, you may bring into play: one character at his home site or
-at any Haven or your Wizard at his home site or Rivendell.
-Characters are primarily controlled by your pool of 20 general
-influence points. For each controlled character, you must commit a
-number of general influence points equal to his mind attribute. In
-addition, you may control a character by using another character’s
-direct influence—a character controlled in this fashion is called a
-follower and does not use general influence points. (See page 21 for
-an extended example.)
-During play, you may organize your characters into groups called
-companies. A company’s size is equal to the number of characters in
-it, with each Hobbit character only counting half (round up). A
-company is limited to a size of seven. A company’s hazard limit is
-equal to two or the size of the company, whichever is greater. The
-maximum number of hazards that can be played on a company during
-a given movement/hazard phase is equal to its hazard limit.
-Companies can only combine at a Haven—just remove all but one
-of the companies’ Haven site cards. The resulting company then has
-one site card consisting of one Haven site card.
-One company can split into two or more companies only at a Haven
-(use two Haven cards).
-Note: The number of characters you have in play limits the number of
-actions you may take during a given turn. You use your Wizard’s
-general influence or your other characters’ direct influence on a
-character to bring that character into play and to keep it in play. A
-character in play can move and take actions (e.g., defending against
-attacks, influencing, etc.). Items, allies, and other cards representing
-things a character acquires and controls are placed under his card.
-19
-CHARACTER ATTRIBUTES
-Each character’s abilities are defined by the following attributes
-(the notation for certain attributes is given in brackets).
-Race: This is one criterion for using certain resources and for bringing
-certain items, characters, and factions into play (e.g., only a Dwarf
-can fully utilize a Dwarven Ring). The races are: Elf, Hobbit, Dwarf,
-Dúnadan, Man, and Wizard.
-Skills: This is one of the criterion for using certain cards (e.g., warrior
-skill is required to use certain weapons). The skills are: warrior,
-scout, ranger, sage, and diplomat. Some characters have more than
-one skill.
-Direct Influence [ i ]: A character’s direct influence determines how
-many of your characters he may control (i.e., have as followers). In
-addition, a character’s unused direct influence affects his chances of
-influencing factions and your opponent’s resources.
-Prowess [lower left, to left of “/”]: A character’s prowess is a measure
-of a character’s offensive capabilities in combat.
-Body [lower left, to right of “/”]: A character’s body is a measure of
-how difficult it is to physically eliminate the character. This is a
-mixture of the ability to avoid an attack and the ability to absorb or
-deflect an attack (e.g., armor, shield, blocking).
-Mind [ m ]: A character’s mind determines how many influence points
-(a Wizard’s general influence points or a character’s direct influence
-points) are required to keep this character in play.
-Marshalling Points [ upper left ]: This is the number of marshalling
-points you receive when you have the character in play. This value
-represents the character’s importance to the Free Peoples’ struggle
-against Sauron.
-Special Abilities: Some characters have special abilities that are
-detailed on their cards. Common special abilities include corruption
-check modifiers, influence bonuses, prowess bonuses. For example,
-Faramir has an influence bonus against the Rangers of Ithilien
-faction, Éowyn has a prowess bonus against Nazgûl, Frodo has a
-corruption check modifier, etc.
-20
-INFLUENCING (CONTROLLING) A CHARACTER
-You have a pool of 20 general influence points. At any one time, the
-total mind attributes of your characters in play (not counting followers)
-must be less than or equal to 20; this total is equal to your used
-general influence points. Your unused general influence points help
-your characters resist the effects of certain cards (e.g., Call of Home,
-Call of the Sea, Muster Disperses, etc.).
-Note: In the Standard Rules, your unused general influence points help your
-characters, factions, allies, and items resist influence attempts made by your
-opponent.
-Direct Influence
-Some characters have a direct influence attribute of one or more. If
-such a character’s direct influence is greater than or equal to another
-one of your characters’ mind attribute, he may take control of that
-other character, who then becomes a follower of the controlling
-character. These conditions must be met:
-• The total mind attributes of all of a character’s followers may not
-exceed his direct influence.
-• A character can take control of another character that is in play only
-if both characters are at the same site.
-A follower does not require influence points from your general
-pool. The follower must remain stacked under the character exerting
-the direct influence at all times. A follower may not use his direct
-influence to control characters (i.e., a follower may not have his own
-followers). A follower is handled in all other ways as a normal
-character (e.g., counts for company size, takes normal actions , etc.).
-If you have enough unused general influence points, you may move
-a follower from direct influence to general influence (or vice versa)
-during your organization phase.
-If a character directly influencing a follower is removed from play,
-the follower remains in play and does not immediately count against
-general influence. However, during your next organization phase,
-you must discard the follower, place the follower under the control of
-another character in his company with enough available direct influence,
-or place the follower under the control of general influence (if
-enough is available).
-21
-Example: In this example and later examples, the notation “#•#” is used. The
-first number is the character’s mind attribute; the second is his direct
-influence (DI). You have nine characters you want to control: Gandalf
-(- •10), Aragorn II (9•3), Boromir II (4•1), Legolas (6•2), Gimli (6•2), Frodo
-(5•1), Sam (4•0), Merry (4•1), and Pippin (4•1). In addition, Aragorn II has
-Narsil (+1 to direct influence), Frodo has The One Ring (+5 to direct
-influence), and Gandalf has a Lesser Ring (+2 to direct influence). In order
-for you to control and keep these characters in play, you must use all of your
-20 points of general influence (GI) and their direct influence (DI).
-First, Gandalf does not require any influence—he’s your Wizard. You use
-your GI to control Frodo, Aragorn II, and Gimli. This uses all 20 points: 5 for
-Frodo, 9 for Aragorn II, and 6 for Gimli. Gandalf has 12 DI (his normal 10
-plus 2 for the Lesser Ring), so he uses it to control Sam, Merry, and Pippin
-(they become his followers). Aragorn II has 4 DI (his 3 plus 1 for Narsil), so
-he uses it to control Boromir II. Frodo has 6 DI (his 1 plus 5 for The One
-Ring), so he uses it to control Legolas. The company size is 7 because Hobbits
-only count half. The resulting ccompany organization is outlined below:
-General Influence (- •20)
-| Gandalf (- •10+2)
-Gimli (6•2) Aragorn (9•3+1) Frodo (5•1+5) |
-| | Sam (4•0) | Pippin (4•1)
-Boromir (4•1) Legolas (6•2) Merry (4•1)
-Example: In our example from page 11, Jessica and Jason each have one
-company organized as follows:
+
+ 1. Place your site cards in your location deck. This deck should contain all of your Haven cards (i.e., Rivendell, Edhellond, Grey Havens, and Lórien). You may include any number of Haven cards, but only one of each non-Haven site card.
+ 2. Place between 25 and 50 Resource cards and an equal number of Hazard cards in your play deck (if you have fewer than 25 of either available, just use all of the cards you have). Only one of each “unique” card may be included. No more than three copies of any one non-unique card may be included.
+ 3. Place one to five starting characters (no Wizards) face down in front of you. The combined mind attributes (see page 19) of these characters must be 20 or less. You and your opponent reveal your characters simultaneously, placing any duplicated characters into your play decks. Then organize your starting characters into followers and companies and place them at Rivendell (i.e., place a Rivendell site card next to them).
+ 4. You may assign up to two non-unique minor items to your starting characters (i.e., two items total, not two to each character). These items must come from cards that you have not already committed to your play deck.
+ 5. Place up to 10 character cards in your play deck. Only one of each character card may be included. In addition, place up to two Wizard cards in your play deck (you may place two copies of the same Wizard). Shuffle your play deck.
+ 6. Draw a hand of eight cards from your play deck.
+ 7. Each player makes a roll, and the player with the highest result goes first (reroll if tied).
+ 
+{: .note } 
+> **Clarification:** None of your starting characters may be considered to be followers for the purposes of determining their combined mind attributes—your initial characters have to have combined mind attributes of 20 or below. 
+> 
+> **Clarification:** The initial 1-5 characters and two minor items do count toward the “one-unique” and “three-others” limits on the play deck. However, they do not count towards the number of resource and character cards in your starting play deck.
+
+# 4 • THE PLAYER TURN
+
+Play consists of a series of “Player Turns.” During your turn, you take various actions during the following phases. Then, your opponent does the same during his turn.
+ 1. Untap Phase 
+ 2. Organization Phase 
+ 3. Long-event Phase 
+ 4. Movement/Hazard Phase
+ 5. Site Phase
+ 6. End-of-Turn Phase
+
+A Brief Player Turn Summary is presented on page 4. A detailed Full Player Turn Summary is presented on pages 68-70.
+
+{: .note }
+> **Clarification:** The actions that may be taken during your organization phase may be taken in any order. Actions of the same type do not have to be taken together (e.g., you can store an item, then bring a character into play, and then store a second item).
+> 
+> **Clarification:** If one of your companies doesn’t move, neither player draws cards based on that company’s movement. However, your opponent can play still play allowable hazards on that company (hazard limit still applies). 
+> 
+> **Clarification:** Each player draws cards when each company moves and then discards or draws to 8 cards after the company has completed movement. Additionally, at the end of each turn, each player can discard one card and then discard or draw to 8 cards.
+> 
+> **Clarification:** During the site phase, a company may decide not to enter and explore its current site. In this case, the company does not face the automaticattack, but it may not take any other actions or play any cards during the site phase. The company remains at the site and it may decide to enter and explore the site on a later turn.
+> 
+> **Clarification:** Before a company can attempt to play one item, ally, faction, or information resource card that is “playable” at its current site, it must face the site’s automatic-attacks. The company need not defeat the attacks, it merely needs to resolve the attacks normally (such attacks can be canceled). 
+> 
+> A company can face a site’s automatic-attacks and still not play an item, ally, faction, or information resource card (e.g., all of its characters are tapped after facing the automatic-attacks). If such a company wants to play a card at the site on a later turn, it must face the automatic-attacks again. 
+> 
+> **Clarification:** A site is tapped when one item, ally, faction, or information card is played. Non-Haven sites only untap after being discarded and after your play deck is exhausted. So, each time through your play deck, only one such card may normally be played at a given non-Haven site. Haven cards, whether tapped or not, always return to your location deck.
+
+# 5 • CHARACTERS & COMPANIES
+
+As a player, you influence and control a number of characters that move and act in the world of Middle-earth. Each character’s abilities are defined by these attributes: race, skills, direct influence, prowess (offense), body (defense), mind, marshalling points, and special abilities (e.g., corruption check modifiers). A character can be eliminated and removed from play as a result of combat (failing a body check) or corruption (failing a corruption check).
+
+If you have enough general influence or direct influence during a given turn, you may bring into play: one character at his home site or at any Haven **or** your Wizard at his home site or Rivendell. 
+
+Characters are primarily controlled by your pool of 20 general influence points. For each controlled character, you must commit a number of general influence points equal to his mind attribute. In addition, you may control a character by using another character’s direct influence—a character controlled in this fashion is called a follower and does not use general influence points. (See page 21 for an extended example.)
+
+During play, you may organize your characters into groups called companies. A company’s size is equal to the number of characters in it, with each Hobbit character only counting half (round up). A company is limited to a size of seven. A company’s hazard limit is equal to two or the size of the company, whichever is greater. The maximum number of hazards that can be played on a company during a given movement/hazard phase is equal to its hazard limit. 
+
+Companies can only combine at a Haven—just remove all but one of the companies’ Haven site cards. The resulting company then has one site card consisting of one Haven site card.
+
+One company can split into two or more companies only at a Haven (use two Haven cards).
+
+{: .note } 
+> **Note:** The number of characters you have in play limits the number of actions you may take during a given turn. You use your Wizard’s general influence or your other characters’ direct influence on a character to bring that character into play and to keep it in play. A character in play can move and take actions (e.g., defending against attacks, influencing, etc.). Items, allies, and other cards representing things a character acquires and controls are placed under his card.
+ 
+## CHARACTER ATTRIBUTES
+
+Each character’s abilities are defined by the following attributes (the notation for certain attributes is given in brackets).
+
+Race: This is one criterion for using certain resources and for bringing certain items, characters, and factions into play (e.g., only a Dwarf can fully utilize a Dwarven Ring). The races are: Elf, Hobbit, Dwarf, Dúnadan, Man, and Wizard.
+
+Skills: This is one of the criterion for using certain cards (e.g., warrior skill is required to use certain weapons). The skills are: warrior, scout, ranger, sage, and diplomat. Some characters have more than one skill.
+
+Direct Influence \[ i ]: A character’s direct influence determines how many of your characters he may control (i.e., have as followers). In addition, a character’s unused direct influence affects his chances of influencing factions and your opponent’s resources.
+
+Prowess \[lower left, to left of “/”]: A character’s prowess is a measure of a character’s offensive capabilities in combat.
+
+Body \[lower left, to right of “/”]: A character’s body is a measure of how difficult it is to physically eliminate the character. This is a mixture of the ability to avoid an attack and the ability to absorb or deflect an attack (e.g., armor, shield, blocking).
+
+Mind \[ m ]: A character’s mind determines how many influence points (a Wizard’s general influence points or a character’s direct influence points) are required to keep this character in play.
+
+Marshalling Points \[ upper left ]: This is the number of marshalling points you receive when you have the character in play. This value represents the character’s importance to the Free Peoples’ struggle against Sauron.
+
+Special Abilities: Some characters have special abilities that are detailed on their cards. Common special abilities include corruption check modifiers, influence bonuses, prowess bonuses. For example, Faramir has an influence bonus against the Rangers of Ithilien faction, Éowyn has a prowess bonus against Nazgûl, Frodo has a corruption check modifier, etc.
+
+## INFLUENCING (CONTROLLING) A CHARACTER
+
+You have a pool of 20 general influence points. At any one time, the total mind attributes of your characters in play (not counting followers) must be less than or equal to 20; this total is equal to your used general influence points. Your unused general influence points help your characters resist the effects of certain cards (e.g., Call of Home, Call of the Sea, Muster Disperses, etc.). 
+
+{: .note } 
+> **Note:** In the Standard Rules, your unused general influence points help your characters, factions, allies, and items resist influence attempts made by your opponent.
+
+### Direct Influence
+Some characters have a direct influence attribute of one or more. If such a character’s direct influence is greater than or equal to another one of your characters’ mind attribute, he may take control of that other character, who then becomes a follower of the controlling character. These conditions must be met:
+ - The total mind attributes of all of a character’s followers may not exceed his direct influence.
+ - A character can take control of another character that is in play only if both characters are at the same site.
+ - 
+A follower does not require influence points from your general pool. The follower must remain stacked under the character exerting the direct influence at all times. A follower may not use his direct influence to control characters (i.e., a follower may not have his own followers). **A follower is handled in all other ways as a normal character** (e.g., counts for company size, takes normal actions, etc.). 
+
+If you have enough unused general influence points, you may move a follower from direct influence to general influence (or vice versa) during your organization phase.
+
+If a character directly influencing a follower is removed from play, the follower remains in play and does not immediately count against general influence. However, during your next organization phase, you must discard the follower, place the follower under the control of another character in his company with enough available direct influence, or place the follower under the control of general influence (if enough is available).
+
+{: .note } 
+> **Example:** In this example and later examples, the notation “#•#” is used. The first number is the character’s mind attribute; the second is his direct influence (DI). You have nine characters you want to control: Gandalf (- •10), Aragorn II (9•3), Boromir II (4•1), Legolas (6•2), Gimli (6•2), Frodo (5•1), Sam (4•0), Merry (4•1), and Pippin (4•1). In addition, Aragorn II has Narsil (+1 to direct influence), Frodo has The One Ring (+5 to direct influence), and Gandalf has a Lesser Ring (+2 to direct influence). In order for you to control and keep these characters in play, you must use all of your 20 points of general influence (GI) and their direct influence (DI).
+> 
+> First, Gandalf does not require any influence—he’s your Wizard. You use your GI to control Frodo, Aragorn II, and Gimli. This uses all 20 points: 5 for Frodo, 9 for Aragorn II, and 6 for Gimli. Gandalf has 12 DI (his normal 10 plus 2 for the Lesser Ring), so he uses it to control Sam, Merry, and Pippin (they become his followers). Aragorn II has 4 DI (his 3 plus 1 for Narsil), so he uses it to control Boromir II. Frodo has 6 DI (his 1 plus 5 for The One Ring), so he uses it to control Legolas. The company size is 7 because Hobbits only count half. The resulting ccompany organization is outlined below:
+> 
+> ```mermaid
+> graph TD
+>     Gn("Gandalf (-•10)") --- Sm("Sam Gamgee (4•0)")
+>     Gn --- Mr("Merry (4•1)")
+>     Gn --- Pp("Pippin (4•1)")
+>     GI("General Influence (-•20)") 
+>     GI --- Gm("Gimli (6•2)")
+>     GI --- Ar("Aragorn (9•3)")
+>     GI --- Fr("Frodo (5•1)")
+>     Ar --- Br("Boromir (4•1)")
+>     Fr --- Lg("Legolas (6•2)")  
+> ```
+
+{: .note } 
+> Example: In our example from page 11, Jessica and Jason each have one company organized as follows:
+
 Jessica’s General Influence (- •20)
 | Pallando (- •10)
 Elladan (4•0) Legolas (6•2+2)
