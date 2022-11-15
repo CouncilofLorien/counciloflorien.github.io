@@ -411,26 +411,17 @@ If a character directly influencing a follower is removed from play, the followe
 > First, Gandalf does not require any influence—he’s your Wizard. You use your GI to control Frodo, Aragorn II, and Gimli. This uses all 20 points: 5 for Frodo, 9 for Aragorn II, and 6 for Gimli. Gandalf has 12 DI (his normal 10 plus 2 for the Lesser Ring), so he uses it to control Sam, Merry, and Pippin (they become his followers). Aragorn II has 4 DI (his 3 plus 1 for Narsil), so he uses it to control Boromir II. Frodo has 6 DI (his 1 plus 5 for The One Ring), so he uses it to control Legolas. The company size is 7 because Hobbits only count half. The resulting ccompany organization is outlined below:
 > 
 > ```mermaid
+> %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#fff','primaryBorderColor': '#44434d','fontFamily': 'timesnewroman'}}}%%
 > graph TD
 >     GI("General Influence (-•20)")
->         style GI fill:#fff,stroke:#44434d,fontFamily:timesnewroman
 >     GI --- Gm("Gimli (6•2)")
->         style Gm fill:#fff,stroke:#44434d,fontFamily:timesnewroman
 >     GI --- Ar("Aragorn (9•3+1)")
->         style Ar fill:#fff,stroke:#44434d,fontFamily:timesnewroman
 >     GI --- Fr("Frodo (5•1+5)")
->         style Fr fill:#fff,stroke:#44434d,fontFamily:timesnewroman
 >     Ar --- Br("Boromir (4•1)")
->         style Br fill:#fff,stroke:#44434d,fontFamily:timesnewroman
 >     Fr --- Lg("Legolas (6•2)")
->         style Lg fill:#fff,stroke:#44434d,fontFamily:timesnewroman
 >     Gn("Gandalf (-•10+2)") --- Sm("Sam Gamgee (4•0)")
->         style Gn fill:#fff,stroke:#44434d,fontFamily:timesnewroman
->         style Sm fill:#fff,stroke:#44434d,fontFamily:timesnewroman
 >     Gn --- Mr("Merry (4•1)")
->         style Mr fill:#fff,stroke:#44434d,fontFamily:timesnewroman
 >     Gn --- Pp("Pippin (4•1)")
->         style Pp fill:#fff,stroke:#44434d,fontFamily:timesnewroman
 > ```
 
 {: .note } 
@@ -448,6 +439,7 @@ If a character directly influencing a follower is removed from play, the followe
 > ```
 > 
 > ```mermaid
+> %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#fff','primaryBorderColor': '#44434d','fontFamily': 'timesnewroman'}}}%%
 > graph TD
 >     GI("Jason's General Influence (-•20)") 
 >     GI --- The("Theoden (6•3)")
