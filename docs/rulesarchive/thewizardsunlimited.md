@@ -411,7 +411,7 @@ If a character directly influencing a follower is removed from play, the followe
 > First, Gandalf does not require any influence—he’s your Wizard. You use your GI to control Frodo, Aragorn II, and Gimli. This uses all 20 points: 5 for Frodo, 9 for Aragorn II, and 6 for Gimli. Gandalf has 12 DI (his normal 10 plus 2 for the Lesser Ring), so he uses it to control Sam, Merry, and Pippin (they become his followers). Aragorn II has 4 DI (his 3 plus 1 for Narsil), so he uses it to control Boromir II. Frodo has 6 DI (his 1 plus 5 for The One Ring), so he uses it to control Legolas. The company size is 7 because Hobbits only count half. The resulting ccompany organization is outlined below:
 > 
 > ```mermaid
-> %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#fff','primaryBorderColor': '#44434d','fontFamily': 'timesnewroman'}}}%%
+> %%{init: {'flowchart' : {'curve' : 'linear'}, 'theme': 'base', 'themeVariables': { 'primaryColor': '#fff','primaryBorderColor': '#44434d','fontFamily': 'timesnewroman'}}}%%
 > graph TD
 >     GI("General Influence (-•20)")
 >     GI --- Gm("Gimli (6•2)")
@@ -428,7 +428,7 @@ If a character directly influencing a follower is removed from play, the followe
 > Example: In our example from page 11, Jessica and Jason each have one company organized as follows:
 > 
 > ```mermaid
-> %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#fff','primaryBorderColor': '#44434d','fontFamily': 'timesnewroman'}}}%%
+> %%{init: {'flowchart' : {'curve' : 'linear'}, 'theme': 'base', 'themeVariables': { 'primaryColor': '#fff','primaryBorderColor': '#44434d','fontFamily': 'timesnewroman'}}}%%
 > graph TD
 >     GI("Jessica's General Influence (-•20)") 
 >     GI --- Ell("Elladan (6•0)")
@@ -439,7 +439,7 @@ If a character directly influencing a follower is removed from play, the followe
 > ```
 > 
 > ```mermaid
-> %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#fff','primaryBorderColor': '#44434d','fontFamily': 'timesnewroman'}}}%%
+> %%{init: {'flowchart' : {'curve' : 'linear'}, 'theme': 'base', 'themeVariables': { 'primaryColor': '#fff','primaryBorderColor': '#44434d','fontFamily': 'timesnewroman'}}}%%
 > graph TD
 >     GI("Jason's General Influence (-•20)") 
 >     GI --- The("Theoden (6•3)")
