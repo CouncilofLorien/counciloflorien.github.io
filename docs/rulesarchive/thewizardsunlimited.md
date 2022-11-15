@@ -412,15 +412,25 @@ If a character directly influencing a follower is removed from play, the followe
 > 
 > ```mermaid
 > graph TD
->     GI("General Influence (-•20)") 
+>     GI("General Influence (-•20)")
+>         style GI fill:#fff,stroke:#44434d 
 >     GI --- Gm("Gimli (6•2)")
+>         style Gm fill:#fff,stroke:#44434d 
 >     GI --- Ar("Aragorn (9•3+1)")
+>         style Ar fill:#fff,stroke:#44434d 
 >     GI --- Fr("Frodo (5•1+5)")
+>         style Fr fill:#fff,stroke:#44434d 
 >     Ar --- Br("Boromir (4•1)")
+>         style Br fill:#fff,stroke:#44434d 
 >     Fr --- Lg("Legolas (6•2)")
+>         style Lg fill:#fff,stroke:#44434d 
 >     Gn("Gandalf (-•10+2)") --- Sm("Sam Gamgee (4•0)")
+>         style Gn fill:#fff,stroke:#44434d 
+>         style Sm fill:#fff,stroke:#44434d 
 >     Gn --- Mr("Merry (4•1)")
+>         style Mr fill:#fff,stroke:#44434d 
 >     Gn --- Pp("Pippin (4•1)")
+>         style Pp fill:#fff,stroke:#44434d 
 > ```
 
 {: .note } 
