@@ -437,6 +437,7 @@ If a character directly influencing a follower is removed from play, the followe
 > Example: In our example from page 11, Jessica and Jason each have one company organized as follows:
 > 
 > ```mermaid
+> %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#fff'}}}%%
 > graph TD
 >     GI("Jessica's General Influence (-•20)") 
 >     GI --- Ell("Elladan (6•0)")
