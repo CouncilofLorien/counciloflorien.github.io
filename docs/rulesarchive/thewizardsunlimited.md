@@ -525,7 +525,7 @@ If the company’s site of origin is a non-Haven site, the new site card must be
 If the company’s site of origin is a Haven, the new site card must meet one of the following requirements:
  - If the new site card is not another Haven, it must list the site of origin as its nearest Haven (i.e., the company can move to any site that has the site of origin as the company’s nearest Haven).
  - If the new site card is another Haven, it must give a site path to the site of origin (i.e., the company can move to one of two adjacent Havens; each Haven is adjacent to two other Havens).
-]
+
 {: .note }
 > **Clarification:** If a company is not moving, no cards are drawn. If a company is moving to a non-haven site, you may draw up to the # of cards indicated by the site that it is moving to (at least one card must be drawn); your opponent does the same. If a company is moving to a haven site, you may draw up to the # of cards indicated by the site that it is moving from (at least one card must be draw); your opponent does the same.
 > 
