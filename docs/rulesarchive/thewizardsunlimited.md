@@ -1006,124 +1006,104 @@ In a “4-deck game” (i.e., the “campaign game”), the Council is called wh
 
 ## MARSHALLING POINT MODIFICATIONS
 
-At the Free Council, you may reveal any unique marshalling point
-cards in your hand that match unique cards that your opponent has in
-play. Each such revealed card reduces your opponent’s marshalling
-point total by one.
-There are six different types of marshalling points; each is associated
-with a specific shape:
-Character Points ..............................................................
-Item Points (Major, Greater, & Rings only) ..................
-Faction Points .................................................................
-Ally Points ......................................................................
-Kill Points (from defeating creatures) ............................
-Miscellaneous Points ......................................................
+At the Free Council, you may reveal any unique marshalling point cards in your hand that match unique cards that your opponent has in play. Each such revealed card reduces your opponent’s marshalling point total by one.
+
+There are six different types of marshalling points; each is associated with a specific shape:
+
+| Types of Marshalling Points | Shape |
+| ---: | :--- |
+Character Points | ![](/assets/images/charactermp.svg)
+Item Points (Major, Greater, & Rings only) | ![](/assets/images/itemmp.svg)
+Faction Points | ![](/assets/images/factionmp.svg)
+Ally Points | ![](/assets/images/allymp.svg)
+Kill Points (from defeating creatures) | ![](/assets/images/killmp.svg)
+Miscellaneous Points | ![](/assets/images/miscmp.svg)
+
 These types of marshalling points can affect your marshalling point
 total in two ways:
-• If your opponent has zero (or negative) points for any one type of
-marshalling point, your points for that same type of marshalling
-point are doubled. This doesn’t apply to kill points and miscellaneous
-points.
-• No more than half (round up) of your final marshalling points can
-come from any one type of marshalling point. If one type of
-marshalling point is over half of your total, reduce the points for that
-type until they are only half (or less) of your total.
-Clarification: These marshalling point modifications do not apply until the
-Free Council actually takes place. Specifically, the modifications do not
-affect your marshalling point total when it is used to determine if you can call
-the Free Council (i.e., you need 20 MPs to call the Free Council before any
-of these modifications are made).
-0
-□
-0
-◊
-51
-Example: Let’s look again at our example from page 11. Assume Jason
-failed to play the Men of Northern Rhovanion (3 MPs) on his last turn.
-Assume none of the characters failed a corruption check (i.e., they all come
-to the Free Council).
-Jessica notices that Jason has no faction points (he blew his roll to get the
-Men of Northern Rhovanion). So her faction points are doubled to 4.
-Unfortunately, Jason’s problems are not over. He failed to get the 3 MPs
-from the Men of Northern Rhovanion; so his MP total is only 14—8 of them
-are character points and only 6 are non-character points. Since you cannot
-have more than half of your points from any one source, Jason only gets 6
-MPs from his characters.
-At this point, the marshalling points (MPs) break down as follows:
-Jessica’s MP Cards MPs Modified MPs
-Celeborn .............................................. 2 .................................... 2
-Elladan ................................................. 1 .................................... 1
-Elrohir .................................................. 1 .................................... 1
-Gildor Inglorion ................................... 1 .................................... 1
-Legolas ................................................ 2 .................................... 2
-Sword of Gondolin (item) ................... 2 .................................... 2
-Men of Lebennin (faction) .................. 2 .................................... 4
-Gwaihir (ally) ...................................... 2 .................................... 2
-Dreams of Lore (misc) ........................ 2 .................................... 2
-Total 15 17
-Jason’s MP Cards MPs Modified MPs
-Beorn ................................................... 2 .................................... 2
-Faramir ................................................ 2 .................................... 2
-Imrahil ................................................. 2 .................................... 2
-Théoden ............................................... 2 .................................... 0
-Sword of Gondolin (item) ................... 2 .................................... 2
-Great Shield of Rohan (item) .............. 2 .................................... 2
-Quickbeam (ally) ................................. 2 .................................... 2
-Total 14 12
-At this point, Jason reveals that he has cards for Gwaihir, Legolas, and
-Elrohir in his hand (he was saving them for this). Since they duplicate three
-of Jessica’s unique MP cards, her MP total is reduced by one for each of these
-cards. Thus, Jessica ends up with 14 MPs and Jason ends up with 12 MPs—
-Jessica wins. Jason curses his luck because he failed to bring the Men of
-Northern Rhovanion into play on his last turn.
-52
-2 • THE CARDS AND DECKS
-In addition to the normal location deck and play deck, you can have
-a 15 card “sideboard” deck. A sideboard can contain resource, hazard,
-and character cards. However, the combined play deck and sideboard
-can only contain one of each unique card and a maximum of three of
-any non-unique card.
-Using Your Sideboard When You Exhaust Your Deck
-Whenever you exhaust your play deck, you may exchange (before
-reshuffling) up to 5 cards between your sideboard and discard pile.
-Each such card taken from your sideboard must be replaced by a card
-from your discard pile.
-Using Your Sideboard When You Tap Your Wizard
-During your organization phase, you may tap your Wizard to bring
-up to 5 resource and/or character cards from your sideboard into your
-discard pile.
-Alternatively, if your play deck has at least 5 cards, you may tap
-your Wizard to bring one resource card directly from your sideboard
-into your play deck (reshuffle).
-Using Your Sideboard When You Tap a Nazgûl
-During your opponent’s movement/hazard phase, you may tap one
-of your Nazgûl permanent-events in play to bring up to 5 hazard cards
-from your sideboard into your discard pile. The normal result of
-tapping a Nazgûl does not apply. The Nazgûl is discarded. Tapping a
-Nazgûl in this fashion does count against the hazard limit.
-Alternatively, if your play deck has at least 5 cards, you may tap a
-Nazgûl permanent-event to bring one hazard card directly from your
-sideboard into your play deck (reshuffle).
-Clarification: Your opponent may verify how many cards move to and from
-your sideboard, but you do not have to reveal what those cards are.
-Clarification: Your combined play deck and sideboard cannot violate the 1
-unique card and 3 non-unique card limit. However, there is no restriction on
-the mix of hazards, resources, and characters in your sideboard. That is, for
-the purposes of your sideboard, you can ignore the play deck restrictions: the
-limit of 10 characters and the 50/50 resource/hazard mix.
-53
-3 • GETTING READY TO PLAY
-Add your region cards to your location deck. See pages 54-56 for
-more information on how to use these cards.
-Note: For play balance, we recommend both players have access to approximately
-the same number of region cards. If this cannot be achieved, region
-cards should not be used.
-4 • THE PLAYER TURN
+
+- If your opponent has zero (or negative) points for any one type of marshalling point, your points for that same type of marshalling point are doubled. This doesn’t apply to kill points and miscellaneous points.
+- No more than half (round up) of your final marshalling points can come from any one type of marshalling point. If one type of marshalling point is over half of your total, reduce the points for that type until they are only half (or less) of your total.
+
+{: .note }
+> **Clarification:** These marshalling point modifications do not apply until the Free Council actually takes place. Specifically, the modifications do not affect your marshalling point total when it is used to determine if you can call the Free Council (i.e., you need 20 MPs to call the Free Council before any of these modifications are made).
+
+{: .note }
+> **Example:** Let’s look again at our example from page 11. Assume Jason failed to play the Men of Northern Rhovanion (3 MPs) on his last turn. Assume none of the characters failed a corruption check (i.e., they all come to the Free Council). 
+> 
+> Jessica notices that Jason has no faction points (he blew his roll to get the Men of Northern Rhovanion). So her faction points are doubled to 4. 
+> 
+> Unfortunately, Jason’s problems are not over. He failed to get the 3 MPs from the Men of Northern Rhovanion; so his MP total is only 14—8 of them are character points and only 6 are non-character points. Since you cannot have more than half of your points from any one source, Jason only gets 6 MPs from his characters.
+> 
+> At this point, the marshalling points (MPs) break down as follows:
+> 
+> | Jessica’s MP Cards | MPs | Modified MPs |
+> | :--- | :--- | :--- |
+> | Celeborn  |  2  |  2
+> Elladan  |  1  |  1
+> Elrohir  |  1  |  1
+> Gildor Inglorion  |  1  |  1
+> Legolas  |  2  |  2
+> Sword of Gondolin (item)  |  2  |  2
+> Men of Lebennin (faction)  |  2  |  4
+> Gwaihir (ally)  |  2  |  2
+> Dreams of Lore (misc)  |  2  |  2
+> **Total**  | **15** |  **17**
+> 
+> | Jason’s MP Cards | MPs | Modified MPs |
+> | :--- | :--- | :--- |
+> Beorn  |  2  |  2
+> Faramir  |  2  |  2
+> Imrahil  |  2  |  2
+> Théoden  |  2  |  0
+> Sword of Gondolin (item)  |  2  |  2
+> Great Shield of Rohan (item)  |  2  |  2
+> Quickbeam (ally)  |  2  |  2
+> **Total**  | **14**  | **12**
+> 
+> At this point, Jason reveals that he has cards for Gwaihir, Legolas, and Elrohir in his hand (he was saving them for this). Since they duplicate three of Jessica’s unique MP cards, her MP total is reduced by one for each of these cards. Thus, Jessica ends up with 14 MPs and Jason ends up with 12 MPs— Jessica wins. Jason curses his luck because he failed to bring the Men of Northern Rhovanion into play on his last turn.
+
+# 2 • THE CARDS AND DECKS
+
+In addition to the normal location deck and play deck, you can have a 15 card “sideboard” deck. A sideboard can contain resource, hazard, and character cards. However, the combined play deck and sideboard can only contain one of each unique card and a maximum of three of any non-unique card.
+
+### Using Your Sideboard When You Exhaust Your Deck
+
+Whenever you exhaust your play deck, you may exchange (before reshuffling) up to 5 cards between your sideboard and discard pile. Each such card taken from your sideboard must be replaced by a card from your discard pile.
+
+### Using Your Sideboard When You Tap Your Wizard
+
+During your organization phase, you may tap your Wizard to bring up to 5 resource and/or character cards from your sideboard into your discard pile.
+
+Alternatively, if your play deck has at least 5 cards, you may tap your Wizard to bring one resource card directly from your sideboard into your play deck (reshuffle).
+
+### Using Your Sideboard When You Tap a Nazgûl
+
+During your opponent’s movement/hazard phase, you may tap one of your Nazgûl permanent-events in play to bring up to 5 hazard cards from your sideboard into your discard pile. The normal result of tapping a Nazgûl does not apply. The Nazgûl is discarded. Tapping a Nazgûl in this fashion does count against the hazard limit.
+
+Alternatively, if your play deck has at least 5 cards, you may tap a Nazgûl permanent-event to bring one hazard card directly from your sideboard into your play deck (reshuffle).
+
+{: .note }
+> **Clarification:** Your opponent may verify how many cards move to and from your sideboard, but you do not have to reveal what those cards are. 
+> 
+> **Clarification:** Your combined play deck and sideboard cannot violate the 1 unique card and 3 non-unique card limit. However, there is no restriction on the mix of hazards, resources, and characters in your sideboard. That is, for the purposes of your sideboard, you can ignore the play deck restrictions: the limit of 10 characters and the 50/50 resource/hazard mix.
+
+# 3 • GETTING READY TO PLAY
+
+Add your region cards to your location deck. See pages 54-56 for more information on how to use these cards.
+
+{: .note }
+> **Note:** For play balance, we recommend both players have access to approximately the same number of region cards. If this cannot be achieved, region cards should not be used.
+
+# 4 • THE PLAYER TURN
+
 The Full Player Turn Summary is presented on pages 68-70.
-5 • CHARACTERS & COMPANIES
-There are several Standard Rules changes involving characters and
-companies.
-Splitting a Company at a Non-Haven Site
+
+# 5 • CHARACTERS & COMPANIES
+There are several Standard Rules changes involving characters and companies.
+
+### Splitting a Company at a Non-Haven Site
+
 During the organization phase, a company at a non-haven site may
 split into two or more companies. The following instructions apply:
 • One of the companies may remain at the current site.
