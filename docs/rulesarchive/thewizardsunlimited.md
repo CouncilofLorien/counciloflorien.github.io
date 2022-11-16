@@ -1425,7 +1425,7 @@ THE APPENDICES
 9 | Hollin   | ![](/assets/images/wilderness.svg) |  | 35 |   Andrast  | ![](/assets/images/wilderness.svg)
 10 |   Dunland  | ![](/assets/images/wilderness.svg) | |  36  |  Anfalas  | ![](/assets/images/wilderness.svg)
 11 |  Enedhwaith  | ![](/assets/images/wilderness.svg) | |  37 |   Lamedon  | ![](/assets/images/border-land.svg)
-12 | Old P–kel-land  | ![](/assets/images/wilderness.svg) |  | 38  |  Belfalas  | ![](/assets/images/free-domain.svg)
+12 | Old Pukel-land  | ![](/assets/images/wilderness.svg) |  | 38  |  Belfalas  | ![](/assets/images/free-domain.svg)
 13  |  Gundabad  | ![](/assets/images/wilderness.svg) | |  39 |   Lebennin  | ![](/assets/images/free-domain.svg)
 14  |  High Pass  | ![](/assets/images/dark-domain.svg) |  | 40 |   Anorien  | ![](/assets/images/free-domain.svg)
 15 |  Redhorn Gate  | ![](/assets/images/wilderness.svg) |  | 41 |   Ithilien  | ![](/assets/images/wilderness.svg)
