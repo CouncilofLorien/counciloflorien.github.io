@@ -17,20 +17,21 @@ search_exclude: true
 </details>
 
 {: .fs-7 .fw-700 .text-center }
-MIDDLE-EARTH: THE WIZARDS<br>
+MIDDLE-EARTH: THE WIZARDS
+
+{: .fs-5 .fw-300 .text-center }
 Unlimited Edition
-{: .fs-4 .fw-300 .text-center }
 
 # INTRODUCTION
 
-During the Third Age, the Valar sent five Maiar to Middle-earth to unite and counsel the Free Peoples in their struggles against Sauron, the Dark Lord. However, they were forbidden to dominate the peoples of Middle-earth or to match the power of Sauron with power. These five were known as “Wizards” (also called Istari) in Middle-earth, and individually they were called: Gandalf, Saruman, Radagast, Alatar, and Pallando.
-
-<details markdown="block"><summary><img src="/assets/images/scroll.svg"></summary>
+<details markdown="block"><summary><img src="/assets/images/scroll.svg">During the Third Age, the Valar sent five Maiar to Middle-earth to unite and counsel the Free Peoples in their struggles against Sauron, the Dark Lord. However, they were forbidden to dominate the peoples of Middle-earth or to match the power of Sauron with power. These five were known as “Wizards” (also called Istari) in Middle-earth, and individually they were called: Gandalf, Saruman, Radagast, Alatar, and Pallando.</summary>
 
 {: .counsel }
 > This is text for the scroll. Here is an even longer test: In The Lord of the Rings, Gandalf was the only Wizard to succeed. Saruman was corrupted by power, Radagast “went native,” and Alatar and Pallando disappeared into the East. Only Gandalf remained true to his task, marshalling the characters and forces that withstood Sauron long enough for the Fellowship to destroy the Ruling Ring.
   
 </details>
+
+During the Third Age, the Valar sent five Maiar to Middle-earth to unite and counsel the Free Peoples in their struggles against Sauron, the Dark Lord. However, they were forbidden to dominate the peoples of Middle-earth or to match the power of Sauron with power. These five were known as “Wizards” (also called Istari) in Middle-earth, and individually they were called: Gandalf, Saruman, Radagast, Alatar, and Pallando.
 
 In _Middle-earth: The Wizards_, you play one of these five Wizards. Your goal is to marshal the forces of the Free Peoples so that Sauron can be resisted until the One Ring is destroyed. Since your fellow Wizards do not agree on how best to accomplish this goal, you must battle for the minds, bodies, and souls of the Free Peoples. 
 
@@ -263,6 +264,9 @@ There are five types of cards: site cards, character cards (including Wizard car
 > **Note:** Each starter deck has a small pack of cards called a fixed set. There are 5 fixed sets in all. One appears randomly in each starter deck. The top facing card of all fixed sets is Gates of Morning. 
 > 
 > A fixed set is included in each starter deck to make a starter deck playable without any other cards.
+
+{: .text-center }
+![](/assets/images/cardsanddecks.svg)
 
 During play, your cards are organized into 2 decks and 3 piles:
 
@@ -978,9 +982,7 @@ The various activities that you and your opponent can perform during play are ca
  - When the effects of a dice roll require further actions (e.g., a roll for a strike requires a body check), those actions become the first actions (any further rolls come first) in the next chain of effects after the roll.
 
 {: .fs-7 .fw-700 .text-center }
-• PART I •
-STANDARD RULES
-{: .fs-7 .fw-700 .text-center }
+• PART I •<br>STANDARD RULES
 
 You should read and master the Starter Rules before tackling the Standard Rules.
 
