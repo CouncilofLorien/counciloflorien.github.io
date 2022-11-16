@@ -542,9 +542,9 @@ If the company’s site of origin is a Haven, the new site card must meet one of
 > 
 > First, it takes one turn to move from Bree to Rivendell using the site path, ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg), indicated on the Bree site card. Jessica just plays the Rivendell site card as her new site card during her organization phase, and she removes the Bree site card at the end of her movement/hazard phase.
 > 
-> During the next turn, the company may move from Rivendell to Lórien using the site path, ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg), ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg), indicated on both the Rivendell and Lórien site cards. Jessica plays the Lórien site card during her organization phase, and she removes the Rivendell site card at the end of her movement/hazard phase. 
+> During the next turn, the company may move from Rivendell to Lórien using the site path, ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg), indicated on both the Rivendell and Lórien site cards. Jessica plays the Lórien site card during her organization phase, and she removes the Rivendell site card at the end of her movement/hazard phase. 
 > 
-> Finally, the company takes one turn to move from Lórien to Thranduil’s Halls using the site path, wbb, indicated on the Thranduil’s Halls site card. Jessica plays the Thranduil’s Halls site card during her organization phase, and she removes the Lórien site card at the end of her movement/hazard phase.
+> Finally, the company takes one turn to move from Lórien to Thranduil’s Halls using the site path,  ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/border-land.svg), indicated on the Thranduil’s Halls site card. Jessica plays the Thranduil’s Halls site card during her organization phase, and she removes the Lórien site card at the end of her movement/hazard phase.
 
 ## SITE PATHS
 
