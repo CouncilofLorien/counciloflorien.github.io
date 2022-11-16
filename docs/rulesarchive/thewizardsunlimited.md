@@ -19,13 +19,11 @@ search_exclude: true
 {: .fs-7 .fw-700 .text-center }
 MIDDLE-EARTH: THE WIZARDS<br>
 Unlimited Edition
-{: .fs-6 .fw-500 .text-center }
+{: .fs-5 .fw-300 .text-center }
 
 # INTRODUCTION
 
-During the Third Age, the Valar sent five Maiar to Middle-earth to unite and counsel the Free Peoples in their struggles against Sauron, the Dark Lord. However, they were forbidden to dominate the peoples of Middle-earth or to match the power of Sauron with power. These five were known as “Wizards” (also called Istari) in Middle-earth, and individually they were called: Gandalf, Saruman, Radagast, Alatar, and Pallando. ![Scroll Test](/assets/images/scroll.svg "This is text for the scroll")
-
-
+During the Third Age, the Valar sent five Maiar to Middle-earth to unite and counsel the Free Peoples in their struggles against Sauron, the Dark Lord. However, they were forbidden to dominate the peoples of Middle-earth or to match the power of Sauron with power. These five were known as “Wizards” (also called Istari) in Middle-earth, and individually they were called: Gandalf, Saruman, Radagast, Alatar, and Pallando. ![](/assets/images/scroll.svg "This is text for the scroll. Here is an even longer test: In _The Lord of the Rings_, Gandalf was the only Wizard to succeed. Saruman was corrupted by power, Radagast “went native,” and Alatar and Pallando disappeared into the East. Only Gandalf remained true to his task, marshalling the characters and forces that withstood Sauron long enough for the Fellowship to destroy the Ruling Ring. ")
 
 In _Middle-earth: The Wizards_, you play one of these five Wizards. Your goal is to marshal the forces of the Free Peoples so that Sauron can be resisted until the One Ring is destroyed. Since your fellow Wizards do not agree on how best to accomplish this goal, you must battle for the minds, bodies, and souls of the Free Peoples. 
 
