@@ -326,6 +326,7 @@ Follow these steps to get ready to play:
 # 4 • THE PLAYER TURN
 
 Play consists of a series of “Player Turns.” During your turn, you take various actions during the following phases. Then, your opponent does the same during his turn.
+
  1. Untap Phase 
  2. Organization Phase 
  3. Long-event Phase 
@@ -642,7 +643,7 @@ There are a number of standard modifications to strikes:
  - The target’s prowess may also be modified due to the play of certain resource and hazard cards. Only one resource card requiring skill may be played against a given strike.
 
 | Condition | Mod. to Target's Prowess |
-| ---: | :--- |
+| :--- | :--- |
  Unwounded, tapped character * | -1
  Wounded character * | -2
  Untapped character decides not to tap * | -3
@@ -735,529 +736,274 @@ All of the factors affecting the strike must be decided before making the roll (
 
 # 8 • CORRUPTION
 
-As characters adventure in Middle-earth, they are subject to temptations.
-They run the risk of becoming corrupted and leaving the cause
-of the Free Peoples (i.e., a corrupted character leaves play, a corrupted
-Wizard loses the game). In The Lord of the Rings, Saruman was
-corrupted by power, Radagast was corrupted by the lure of nature,
-Alatar and Pallando succumbed to unknown corruption and disappeared
-into the East.
-Each character has a corruption point total. This starts at zero, but
-certain cards and activities will increase and decrease this total during
-play. Most cards that affect a character’s corruption are kept under the
-character’s card until they are discarded. Only one corruption card (a
-hazard card that gives corruption points) may be played on a given
-character each turn.
-Clarification: For these purposes, a “corruption card” is a hazard card that
-gives a character corruption points. Cards that force a corruption check but
-do not give corruption points (e.g., Weariness of the Heart, Ren the Unclean,
-etc.) are not “corruption cards.”
-A character may have more than one corruption card, but only one may be
-played on him each turn.
-Certain corruption cards state: “Cannot be duplicated on a given character.”
-So, a given character may only have one of each such corruption card.
-CORRUPTION POINTS
-A character’s corruption point total can be determined at any time
-by summing the corruption point values of: the corruption cards under
-his card and any other cards he controls (e.g., usually items).
-CORRUPTION CHECKS
-When a card or other effect indicates that one of your characters
-must make a corruption check, you must make a roll (2D6) and add
-any appropriate modifications. One of the following results:
-Nothing Happens — If the modified result is greater than the
-character’s corruption point total, nothing happens.
-36
-The Character is Discarded — If the modified result is equal to the
-character’s corruption point total or one less than the character’s
-corruption point total, the character fails the corruption check and
-you must discard the character along with any non-follower cards he
-controls. In this case, if the character is a Wizard, you immediately
-lose the game.
-The Character is Eliminated — If the modified result is less than
-character’s corruption point total by two or more, the character fails
-the corruption check and is eliminated (i.e., remove him from play)
-and you must discard any non-follower cards he controls. In this
-case, if the character is a Wizard, you immediately lose the game.
-Clarification: A character discarded due to a corruption check is not
-removed from play. He may be played again either by you (e.g., if you
-exhaust your play deck and draw that character) or by your opponent (e.g.,
-if he has that character in his hand). In this case, the character stops working
-for the cause of the Free Peoples (at least for a while)—much as Radagast was
-corrupted by the physical nature of Middle-earth (i.e., he went “native”).
-Clarification: A character eliminated due to a corruption check is removed
-from play. He may not be played again by either you or by your opponent.
-In this case, the character is permanently lost to the Free Peoples—much as
-Saruman was corrupted in The Lord of the Rings.
-CORRUPTION CHECK MODIFIERS
-Certain characters receive modifications to corruption checks, and
-certain cards may give modifications to a corruption check. Modifications
-to corruption checks are printed in the lower right of the
-appropriate card. A plus or a minus sign indicates a modification to
-any corruption checks rather than corruption points.
-Clarification: There are two different values that affect corruption checks:
-• Corruption check modifications always have either a plus (+) sign or a
-minus (–) sign (e.g., as noted on many character cards). The sum of all such
-applicable modifications are added to the corruption check roll.
-• Corruption point values never have a plus or minus sign. The sum of all
-such values is the character’s corruption point total for the purposes of a
-corruption check.
-Both values appear in the lower right of certain cards.
-37
-REGION MAP KEY
-# Region Name Type
-1 Lindon............................f
-2 Númeriador ....................w
-3 Forochel .........................w
-4 Arthedain .......................w
-5 The Shire .......................f
-6 Cardolan ........................w
-7 Angmar ..........................s
-8 Rhudaur .........................w
-9 Hollin .............................w
-10 Dunland .........................w
-11 Enedhwaith ....................w
-12 Old Pûkel-land ...............w
-13 Gundabad .......................d
-14 High Pass .......................w
-15 Redhorn Gate .................w
-16 Gap of Isen ....................b
-17 Anduin Vales .................b
-18 Wold & Foothills ...........w
-19 Fangorn ..........................w
-20 Rohan .............................b
-21 Grey Mountain Narrows s
-22 Woodland Realm ...........b
-23 Western Mirkwood ........w
-24 Heart of Mirkwood ........w
-25 Southern Mirkwood .......d
-26 Brown Lands .................s
-# Region Name Type
-27 Dagorlad ........................s
-28 Withered Heath ..............w
-29 Northern Rhovanion ......w
-30 Southern Rhovanion ......w
-31 Iron Hills ........................w
-32 Dorwinion ......................b
-33 Horse Plains ...................s
-34 Old Pûkel Gap ...............w
-35 Andrast ..........................w
-36 Anfalas ...........................w
-37 Lamedon ........................b
-38 Belfalas ..........................f
-39 Lebennin ........................f
-40 Anórien ..........................f
-41 Ithilien ............................w
-42 Harondor ........................w
-43 Khand ............................s
-44 Imlad Morgul .................s
-45 Udûn ..............................d
-46 Gorgoroth ......................d
-47 Nurn ...............................d
-48 Elven Shores ..................c
-49 Eriadoran Coast .............c
-50 Andrast Coast ................c
-51 Bay of Belfalas ..............c
-52 Mouths of the Anduin ....c
-38
-Example: (CP = Corruption Points) Using the Middle-earth: The Wizards
-terms, lets take a look at Frodo at several points during the action in The Lord
-of the Rings between the Shire and Lórien. Frodo has a special ability: he has
-a corruption check modifier of +4 (as provided in the bottom right corner of
-his card).
-When Frodo, Sam, Merry, and Pippin flee the Shire, Frodo only has one
-item: The One Ring (it gives Frodo 6 corruption points). Suppose Frodo has
-to make a corruption check (roll 2D6) in this situation: if a 2 is rolled, the
-modified roll is 6 (2 + 4 for his special ability) and Frodo is discarded. Any
-other roll would have no effect on Frodo.
-When Tom Bombadil rescues Frodo and company in the Barrow Downs,
-Frodo receives a Dagger of Westernesse (1 CP). So Frodo’s CP total becomes
-7. He would be discarded if he makes a corruption check roll of 2 or 3 (if there
-are no other modifications).
-On the way to Rivendell, Frodo is wounded by a Morgul-knife (4 CPs)—
-his CP total is now 11. If forced to make a corruption check, he is discarded
-on a roll of 6 or 7 and he is eliminated on a roll of 5 or less.
-Finally, he reaches Rivendell and the Morgul-knife card is removed,
-dropping his CP total back to 7. However, he is then affected by Lure of the
-Senses (a hazard card giving 2 CPs and requiring a corruption check each
-untap phase at a Haven). So during his next untap phase, he must make a
-corruption check with a CP total of 9—he is discarded on a roll of 4 or 5 and
-is eliminated on a roll of 2 or 3.
-Next, Frodo gets rid of the Lure of the Senses (by rolling greater than 6)
-and he transfers his Dagger of Westernesse. In addition, Bilbo gives him:
-Sting (1 CP) and The Mithril-coat (2 CPs). So Frodo’s CP total is 9 (6+1+2).
-If forced to make a corruption check, he is discarded on a roll of 4 or 5 and
-is eliminated on a roll of 2 or 3.
-Fortunately, the Fellowship of the Ring is formed (see the company in the
-example on page 21)—we will assume that two Fellowship cards (+1 to
-prowess and corruption checks for all characters in the company) are played
-initially.
-So Frodo leaves Rivendell with a CP total of 9 and corruption check
-modifiers totaling +6 (+4 normal +2 for Fellowship). Thus, if forced to make
-a corruption check (without other modifications), he will be discarded on a
-roll of 2 or 3.
-39
-9 • INFLUENCE
-You have a pool of general influence. Your characters and Wizard
-have direct influence. These two forms of influence can control and
-affect characters (see pages 18-20) and factions.
-Your unused general influence is equal to 20 minus the sum of the
-mind attributes of your non-follower characters in play (i.e., do not
-count your followers).
-A character’s unused direct influence is equal to his direct influence
-attribute minus the sum of the mind attributes of his followers. All
-characters have a direct influence attribute of at least zero, so any
-character has unused direct influence of at least zero.
-Note: In the Standard Game, direct influence can be used to attempt to
-interfere with your opponent’s control of his characters, followers, factions,
-allies, and items (see pages 58-60).
-BRINGING AN ALLY INTO PLAY
-You can automatically bring an ally into play by tapping one of your
-characters. The character must be at the site indicated on the ally’s
-card. Every ally is controlled by the character that tapped to bring it
-into play; i.e., it must be placed under and remain with that character’s
-card. An ally does not count against its controlling character’s direct
-influence or your general influence.
-BRINGING A FACTION INTO PLAY
-In order to play a faction card, you must tap one of your characters
-that is at the “site” indicated on the faction’s card. Then you must
-make an influence check. Make a roll (2D6), add your character’s
-unused direct influence, and add any appropriate modifications (any
-applicable standard modifications from the faction card and from any
-other cards played). All modification cards must be played before
-making the roll (2D6).
-If the modified result is greater than the value required on the faction
-card, you place the faction in your play area (it now counts towards
-your marshalling point total). Otherwise, you discard the faction card.
-Once a faction is brought into play, it is not controlled by any specific
-character and it does not count against general or direct influence.
-40
-Clarification: Most faction cards list some “standard modifications” to the
-influence check based only upon the race of the character that was tapped to
-make the influence check. Similarly, certain characters have special modifications
-to influence checks. Such a modification only applies if it belongs
-to the character that was tapped to make the influence check.
-Example: Suppose, during your site phase, you have the Knights of Dol
-Amroth in your hand and a company at Dol Amroth—the company contains
-Imrahil. He has no followers, so his unused direct influence is 2. You tap
-Imrahil to attempt to bring the Knights into play.
-You make your influence check roll (2D6), and the result is 5. This roll is
-modified by:
-• Imrahil’s unused direct influence: +2.
-• +2 — Imrahil has a special ability: his direct influence is increased by +2
-against the Knights of Dol Amroth.
-• A standard modification of +1, because Imrahil is a Dúnadan and a standard
-modification of +1 is listed on the Knights of Dol Amroth card.
-So the modified result is 10 (=5+2+2+1). Since this is greater than 8 (the
-number required by the faction card), the Knights of Dol Amroth are
-successfully brought into play.
-If you had rolled a 3, your modified result would have been 8 (=3+2+2+1),
-and you would have had to discard the faction card.
-41
-10 • PLAYING AND DRAWING CARDS
-You may only play hazard cards during your opponent’s movement/
-hazard phase. Except for resource long-events, you may play
-resource cards anytime during your own turn unless specifically
-prohibited by the rules or the cards themselves.
-Unless stated otherwise, a card is playable only if its effect applies
-to an existing situation, hazard, attack, etc. (i.e., you may not play a
-card just to discard it).
-Clarification: An automatic-attack at a company’s new site may be targeted
-by a hazard during the company’s movement/hazard phase (e.g., Arouse
-Minions, Dragon’s Desolation, etc.). Playing such a hazard does count
-against the hazard limit. Such a hazard may be played even if the attack
-ultimately will not be faced (i.e., if the company decides not to face the
-automatic-attack during the site phase).
-During your movement/hazard phase, both players draw cards
-when each company moves. If a company moves to a non-Haven site,
-you may draw up to the number of cards indicated by the site that it
-moved to (at least one card must be drawn); your opponent does the
-same. If the company moves to a Haven site, you may draw up to the
-number of cards indicated by the site that you moved from (at least one
-card must be drawn); your opponent does the same.
-THE HAZARD LIMIT
-During your opponent’s movement/hazard phase, the number of
-hazard cards that you may play on one of your opponent’s companies
-is that company’s hazard limit. The hazard limit is equal to two or the
-company’s size, whichever is greater. A company’s size is equal to the
-number of characters in it, with each Hobbit counting half (round up).
-For this purpose, Wizards and followers do count as characters, but
-allies do not.
-A hazard limit can be modified by the play of certain cards. Tapping
-a Nazgûl permanent-event does count against the hazard limit.
-Clarification: For the purposes of calculating hazard limits, each company’s
-size is determined for each company at the beginning of the movement/
-hazard phase (e.g., it remains fixed). So, if a character is eliminated during
-his company’s portion of the movement/hazard phase, his company’s hazard
-limit does not change.
-42
-HAZARD CARDS
-Hazard cards represent evil forces and natural dangers in Middleearth.
-You may play hazard cards only during your opponent’s
-movement/hazard phase.
-Creature Cards
-You may use a creature card to directly attack one of your opponent’s
-companies. Such an attack can occur only if:
-• The company is at a specific site at which the creature’s card text says
-it can be played.
-• The company’s site of origin or new site is in a region where the
-creature’s card text says it can be played.
-• One of the site symbols on the creature’s card matches the site that
-the company moved to (i.e., the new site) or stayed at (i.e., if the
-company did not move).
-• At least one of the region symbols on the creature’s card matches one
-of the region types the company moved through this turn (see
-below). If the creature’s card has two region symbols of the same
-type (i.e., a deep wilderness creature), then the company must have
-moved through at least two regions of that same type.
-Clarification: Two wilderness symbols are required in a site path to play a
-deep wilderness creature. However, the two symbols need not be adjacent in
-the site path. For example, a deep wilderness creature may be played keyed
-to the site path: w bb w. If a company travels with two wilderness on its
-site path, the chance of encountering very dangerous wilderness monsters
-has doubled, even if the two wildernesses are not adjacent.
-If a creature satisfies more than one of these conditions, you must
-choose (when you play the creature) one of these conditions that the
-attack is “keyed to.” The effects of certain cards are based upon the
-region or site type that a creature is keyed to.
-Clarification: The player that plays a hazard creature must specifically state
-the type of region or site that a creature is keyed to—it can affect the use of
-other cards. For example, if a character with an Elven Cloak faces a strike
-from a creature that has been played keyed to wilderness, he can tap the cloak
-to cancel the strike. However, if such a strike is keyed to border-lands, he
-cannot use his cloak against it.
-43
-The region types that a company moves through during a given turn
-are determined by the following criteria:
-• If a company did not play a new site card, it did not move through
-any regions—so, no creature may be played based solely on region
-conditions.
-• If the company was at a Haven and has played a new non-Haven site
-card (but no region cards), the region types are indicated by the new
-site card’s site path.
-• If the company was at a Haven site and has played a new Haven site
-card (but no region cards), the region types are indicated by the new
-Haven site card’s “Site Path from” the old Haven site (i.e., the site
-path from the old Haven).
-• If the company was at a non-Haven site and has played a new Haven
-site card (but no region cards), the region types are indicated by the
-site of origin’s site path (i.e., the site path on the site that the company
-left).
-Standard Game Only: If the company played region cards, the region types
-of the site path are indicated by the region cards (i.e., each region card has a
-region type).
-Example: Certain card combinations make a specific card more powerful
-and allow it to be played more often. Ren the Unclean (a Nazgûl) has one
-strike with a prowess of 15 and can only be played keyed to dark-domains and
-dark-holds. However, if played in combination with a Fell Beast card, Ren
-has two strikes with a prowess of 13 and can be played keyed to shadowlands,
-shadow-holds, dark-domains, and dark-holds.
-If Ren is played in combination with a Fell Beast card and a Morgul-knife
-card, he has two strikes with a prowess of 15 and can be played keyed to
-shadow-lands, shadow-holds, dark-domains, and dark-holds. In addition,
-one character wounded by his attack receives 4 corruption points due to the
-Morgul-knife.
-44
-RESOURCE CARDS
-Certain resource cards may only be played if specific required
-conditions exist.
-Clarification: Playing a faction card, ally card, information card, or item
-card (unless stated otherwise on the card) requires an untapped character and
-an untapped site. In addition, the company must face any automatic-attacks
-located at the same site before such a card can be played. Playing another type
-of resource card does not neccessarily require an untapped site. This process
-may vary based upon specific card text.
-Factions — If one of your characters is at the site specified on a
-faction card, he may tap to attempt to play the faction card. If the
-character successfully influences the faction as indicated on the
-faction’s card (see p. 39), the faction card is placed in your play area.
-After a faction is successfully played at a site, the site card is tapped.
-Clarification: Once a faction is brought into play, it is not associated with
-any character. A faction plays no active role after it is brought into play.
-Items — If a character is at an untapped site that indicates that a
-specific type of item card (gold ring, minor, major, or greater) is
-“playable,” he may tap to bring an item of that type into play. The item
-card is placed under the character’s card. After an item is played at a
-site, the site card is tapped.
-A character may only use the effects of one weapon at a time and
-one shield at a time and one armor at a time.
-If a character is eliminated by corruption, discard all of the items
-that he controls. If a character is eliminated due to failing a body
-check, one item can be immediately transferred to each unwounded
-character in his company; but, the rest of his items are discarded.
-Clarification: An item only taps when used if its text states so. Thus,
-weapons and armor do not normally tap when used.
-Clarification: A character may control (i.e., bear) any item, even if he cannot
-use its abilities.
-Clarification: A character may control (i.e., bear) more than one weapon or
-more than one shield or more than one armor. However, only one of each type
-may be used at any given time.
-45
-Minor Items — If a resource card that taps a site (e.g., ally, faction,
-item, information, etc.) is successfully played at a site, one additional
-character may tap to play a minor item. Such a minor item may be
-played even if the site does not specifically state that a minor item is
-playable at the site. For example, a minor item played when bringing
-an ally into play would simulate a gift from the ally.
-Example: Certain card combinations are required to bring certain powerful
-items into play. Narsil was a mighty sword that was broken when Elendil fell
-fighting Sauron. Narsil can be played and used as a greater item (+1 direct
-influence, +1 prowess, 3 MPs, 2 CPs). However, a player can attempt to
-reforge Narsil so that it becomes Andúril, the Flame of the West (Aragorn II’s
-weapon in The Lord of the Rings).
-Two other cards are required. A Reforging card must be played at an
-“information site” and stored at a Haven—this represents gathering the
-resources required to reforge Narsil. Then, the Andúril card must be played
-at an “information site” and stored at a Haven—this represents gaining the
-knowledge of how to reforge Narsil.
-Then, the Reforging card is discarded and the Andúril card is placed with
-the Narsil card—giving a total of (+2 direct influence, +5 prowess, 7 MPs,
-3 CPs) from the combination of the two cards.
-Allies — A character may tap to play an ally card if he is at the site
-specified on the ally card and the character meets the requirements
-indicated on the ally card. The ally card is placed under the character’s
-card and that character controls the ally. After an ally is played at a site,
-the site card is tapped. An ally does not count as a character for any
-purposes other than combat and the use of certain skills. Allies can not
-bear items.
-An ally with a skill may take actions and play cards that require that
-skill. For example, Treebeard has the sage skill, so he can tap to play
-a Dreams of Lore card. Similarly, Gollum has the scout skill so he can
-tap to play a Concealment card.
-Clarification: Allies that are eliminated are placed in the out-of-play pile
-(i.e., neither player may bring that ally back into play). Allies are not affected
-by corruption.
-46
-EVENTS
-There are both resource events and hazard events. Each event falls
-into one of three classifications based upon how long it stays in play.
-Short-event— A short-event’s effects are immediately implemented.
-Then the event card is discarded. The effects of some short-events last
-for a specific period as stated on its card (e.g., many short-event
-effects last “until the end of the turn”).
-Permanent-event — The effects of a resource permanent-event are
-immediately implemented. Its effects last until the card is discarded.
-Certain effects can cause a permanent-event to be discarded; these
-effects are given in the text of specific cards.
-Clarification: Hazard short-events and permanent-events can be played
-only during an opponent’s movement/hazard phase. Resource short-events
-and permanent-events can be played at any time during your turn—as limited
-by specific card text.
-Long-event — The effects of a long-event are immediately implemented
-when it is played. Long-events last approximately two turns,
-one of yours and one of your opponent’s.
-You may only play a resource long-event during your long-event
-phase. Its card and effects remain in play until your next long-event
-phase or until otherwise discarded.
-You may only play a hazard long-event during your opponent’s
-movement/hazard phase. Its card and effects remain in play until your
-opponent’s next long-event phase or until otherwise discarded.
-Clarification: The effects of many long-events and permanent-events affect
-both players because they can remain in effect during both players’ turns. So
-remember, when you play a long-event hazard on your opponent during his
-turn, it will remain in effect during your next turn. For example, Awaken
-Denizens (a long-event) increases the number of automatic-attack strikes at
-Ruins & Lairs for one turn for each player.
-47
-Example: One of Jason’s companies with a hazard limit of six is moving
-from Rivendell to Lórien; its site path is w w bw. Jessica plays Doors of
-Night (a permanent-event) during Jason’s movement/hazard phase. This
-causes all resource environment cards in play to be discarded and their effects
-are canceled. This card will remain in play until it is discarded due to the play
-of a Gates of Morning, Twilight, or another card that targets the Doors of
-Night.
-Jessica then plays Choking Shadows (a short-event). She decides to use its
-option of treating one wilderness [w] as a shadow-land [s] until the end of
-the turn. This changes the site path for Jason’s company from w wbw to:
-w sb w. Choking Shadows is discarded, but its effects will remain until
-the end of the turn (unless canceled before that).
-Then, Jessica next plays Morgul Night (a long-event)—all wildernesses
-[w] to be treated as shadow-lands [s] and all shadow-lands [s] to be treated
-as dark-domains [d]. This changes the site path for Jason’s company from
-w sb w to: sd bs. Jessica can still play three more hazards and she
-can key them to border-lands, shadow-lands, and/or dark-domains. Unless
-its discard is forced by another card, Morgul Night and its effects will remain
-in play until Jessica’s next long-event phase (approximately two turns).
-STORING CARDS
-During your organization phase, you may store any of your items
-that are at a Haven site. The controlling character must make a
-corruption check before an item can be stored.
-A stored item is placed in your marshalling point pile and still
-counts for marshalling points. Once an item is stored it may not be
-unstored and brought back into play. The One Ring may not be stored.
-Some items and resource cards state that they can be stored when at
-a specific site (e.g., the Book of Mazarbul can be stored at a Dwarfhold).
-Such an item or resource card is still placed in the marshalling
-point pile and cannot be brought back into play.
-Clarification: Certain cards state that a character bearing such a card cannot
-untap until the card is stored at a certain place. After storing such a card, the
-character does not untap until the untap phase of his player’s next turn.
-Clarification: Unless stated otherwise on the card, the marshalling points for
-a card that can be stored apply regardless of whether or not the card is stored.
-48
-TRANSFERRING ITEMS
-During your organization phase, you may transfer items between
-characters at the same site. The controlling character must make a
-corruption check before an item can be transferred.
-Clarification: A corruption check is required before an item can be stored
-or transferred. A character that fails such a corruption check has decided not
-to follow his Wizard’s advice and influence concerning the item’s use (i.e.,
-the item is discarded and the character is either discarded or eliminated).
-ACTIONS AND CARD PLAY
-The various activities that you and your opponent can perform
-during play are called actions. Typical actions include playing a card,
-tapping a card, revealing a card, etc. The following general guidelines
-apply to resolving actions; more detailed guidelines can be found on
-pages 61-63.
-• You must give your opponent a chance to respond to every action,
-and vice versa. If you perform an action and move on to another
-action without giving your opponent a chance to respond, you must
-“back up” if he indicates that he wants to respond. A series of
-declared actions made in response to one another is called a chain of
-effects. You always have the option of declaring the first action in
-a chain of effects during your turn. The actions in a chain of effects
-are resolved one at a time from last declared to first declared (i.e., the
-last declared action is resolved first, then the second to the last, etc.).
-• If the play of a card requires other actions (e.g., corruption checks),
-the actions are resolved in the order in which they appear on the card.
-• A required or declared dice roll is an action and can be the target of
-another action or effect declared later in the same chain of effects.
-• When the effects of a dice roll require further actions (e.g., a roll for
-a strike requires a body check), those actions become the first
-actions (any further rolls come first) in the next chain of effects after
-the roll.
-49
-• PART II •
+As characters adventure in Middle-earth, they are subject to temptations. They run the risk of becoming corrupted and leaving the cause of the Free Peoples (i.e., a corrupted character leaves play, a corrupted Wizard loses the game). In _The Lord of the Rings_, Saruman was corrupted by power, Radagast was corrupted by the lure of nature, Alatar and Pallando succumbed to unknown corruption and disappeared into the East.
+
+Each character has a corruption point total. This starts at zero, but certain cards and activities will increase and decrease this total during play. Most cards that affect a character’s corruption are kept under the character’s card until they are discarded. Only one corruption card (a hazard card that gives corruption points) may be played on a given character each turn.
+
+{: .note }
+> **Clarification:** For these purposes, a “corruption card” is a _hazard card_ that gives a character corruption points. Cards that force a corruption check but do not give corruption points (e.g., Weariness of the Heart, Ren the Unclean, etc.) are not “corruption cards.”
+> 
+> A character may have more than one corruption card, but only one may be played on him each turn. 
+> Certain corruption cards state: “Cannot be duplicated on a given character.” So, a given character may only have one of each such corruption card.
+
+## CORRUPTION POINTS
+
+A character’s corruption point total can be determined at any time by summing the corruption point values of: the corruption cards under his card **and** any other cards he controls (e.g., usually items).
+
+## CORRUPTION CHECKS
+
+When a card or other effect indicates that one of your characters must make a corruption check, you must make a roll (2D6) and add any appropriate modifications. One of the following results:
+
+**Nothing Happens** — If the modified result is greater than the character’s corruption point total, nothing happens. 
+
+**The Character is Discarded** — If the modified result is equal to the character’s corruption point total or one less than the character’s corruption point total, the character fails the corruption check and you must discard the character along with any non-follower cards he controls. In this case, if the character is a Wizard, you immediately lose the game.
+
+**The Character is Eliminated** — If the modified result is less than character’s corruption point total by two or more, the character _fails_ the corruption check and is eliminated (i.e., remove him from play) and you must discard any non-follower cards he controls. In this case, if the character is a Wizard, you immediately lose the game.
+
+{: .note }
+> **Clarification:** A character discarded due to a corruption check is **not** removed from play. He may be played again either by you (e.g., if you exhaust your play deck and draw that character) or by your opponent (e.g., if he has that character in his hand). In this case, the character stops working for the cause of the Free Peoples (at least for a while)—much as Radagast was corrupted by the physical nature of Middle-earth (i.e., he went “native”).
+> 
+> **Clarification:** A character eliminated due to a corruption check is removed from play. He may not be played again by either you or by your opponent. In this case, the character is permanently lost to the Free Peoples—much as Saruman was corrupted in The Lord of the Rings.
+
+## CORRUPTION CHECK MODIFIERS
+
+Certain characters receive modifications to corruption checks, and certain cards may give modifications to a corruption check. Modifications to corruption checks are printed in the lower right of the appropriate card. A plus or a minus sign indicates a **modification** to any corruption checks rather than corruption points.
+
+{: .note }
+> **Clarification:** There are two different values that affect corruption checks:
+>  - Corruption check modifications always have either a plus (+) sign or a minus (–) sign (e.g., as noted on many character cards). The sum of all such applicable modifications are added to the corruption check roll.
+>  - Corruption point values never have a plus or minus sign. The sum of all such values is the character’s corruption point total for the purposes of a corruption check. Both values appear in the lower right of certain cards.
+
+{: .note }
+> **Example:** (CP = Corruption Points) Using the Middle-earth: The Wizards terms, lets take a look at Frodo at several points during the action in The Lord of the Rings between the Shire and Lórien. Frodo has a special ability: he has a corruption check modifier of +4 (as provided in the bottom right corner of his card). 
+> 
+> When Frodo, Sam, Merry, and Pippin flee the Shire, Frodo only has one item: The One Ring (it gives Frodo 6 corruption points). Suppose Frodo has to make a corruption check (roll 2D6) in this situation: if a 2 is rolled, the modified roll is 6 (2 + 4 for his special ability) and Frodo is discarded. Any other roll would have no effect on Frodo.
+> 
+> When Tom Bombadil rescues Frodo and company in the Barrow Downs, Frodo receives a Dagger of Westernesse (1 CP). So Frodo’s CP total becomes 7. He would be discarded if he makes a corruption check roll of 2 or 3 (if there are no other modifications).
+> 
+> On the way to Rivendell, Frodo is wounded by a Morgul-knife (4 CPs)—his CP total is now 11. If forced to make a corruption check, he is discarded on a roll of 6 or 7 and he is eliminated on a roll of 5 or less. 
+> 
+> Finally, he reaches Rivendell and the Morgul-knife card is removed, dropping his CP total back to 7. However, he is then affected by Lure of the Senses (a hazard card giving 2 CPs and requiring a corruption check each untap phase at a Haven). So during his next untap phase, he must make a corruption check with a CP total of 9—he is discarded on a roll of 4 or 5 and is eliminated on a roll of 2 or 3. 
+> 
+> Next, Frodo gets rid of the Lure of the Senses (by rolling greater than 6) and he transfers his Dagger of Westernesse. In addition, Bilbo gives him: Sting (1 CP) and The Mithril-coat (2 CPs). So Frodo’s CP total is 9 (6+1+2). If forced to make a corruption check, he is discarded on a roll of 4 or 5 and is eliminated on a roll of 2 or 3. 
+> 
+> Fortunately, the Fellowship of the Ring is formed (see the company in the example on page 21)—we will assume that two Fellowship cards (+1 to prowess and corruption checks for all characters in the company) are played initially. 
+> 
+> So Frodo leaves Rivendell with a CP total of 9 and corruption check modifiers totaling +6 (+4 normal +2 for Fellowship). Thus, if forced to make a corruption check (without other modifications), he will be discarded on a roll of 2 or 3.
+
+# 9 • INFLUENCE
+
+You have a pool of general influence. Your characters and Wizard have direct influence. These two forms of influence can control and affect characters (see pages 18-20) and factions.
+
+Your _unused general influence_ is equal to 20 minus the sum of the mind attributes of your non-follower characters in play (i.e., do not count your followers).
+
+A character’s unused direct influence is equal to his direct influence attribute minus the sum of the mind attributes of his followers. All characters have a direct influence attribute of at least zero, so any character has unused direct influence of at least zero.
+
+{: .note}
+> Note: In the Standard Game, direct influence can be used to attempt to interfere with your opponent’s control of his characters, followers, factions, allies, and items (see pages 58-60).
+
+## BRINGING AN ALLY INTO PLAY
+
+You can automatically bring an ally into play by tapping one of your characters. The character must be at the site indicated on the ally’s card. Every ally is controlled by the character that tapped to bring it into play; i.e., it must be placed under and remain with that character’s card. An ally does not count against its controlling character’s direct influence or your general influence.
+
+## BRINGING A FACTION INTO PLAY
+
+In order to play a faction card, you must tap one of your characters that is at the “site” indicated on the faction’s card. Then you must make an influence check. Make a roll (2D6), add your character’s unused direct influence, and add any appropriate modifications (any applicable standard modifications from the faction card and from any other cards played). All modification cards must be played before making the roll (2D6).
+
+If the modified result is greater than the value required on the faction card, you place the faction in your play area (it now counts towards your marshalling point total). Otherwise, you discard the faction card. Once a faction is brought into play, it is not controlled by any specific character and it does not count against general or direct influence.
+
+{: .note }
+> **Clarification:** Most faction cards list some “standard modifications” to the influence check based only upon the race of the character that was tapped to make the influence check. Similarly, certain characters have special modifications to influence checks. Such a modification only applies if it belongs to the character that was tapped to make the influence check.
+
+{: .note }
+> **Example:** Suppose, during your site phase, you have the Knights of Dol Amroth in your hand and a company at Dol Amroth—the company contains Imrahil. He has no followers, so his unused direct influence is 2. You tap Imrahil to attempt to bring the Knights into play. You make your influence check roll (2D6), and the result is 5. This roll is modified by:
+> - Imrahil’s unused direct influence: +2.
+> - +2 — Imrahil has a special ability: his direct influence is increased by +2 against the Knights of Dol Amroth.
+> - A standard modification of +1, because Imrahil is a Dúnadan and a standard modification of +1 is listed on the Knights of Dol Amroth card. So the modified result is 10 (=5+2+2+1). Since this is greater than 8 (the number required by the faction card), the Knights of Dol Amroth are successfully brought into play. 
+> 
+> If you had rolled a 3, your modified result would have been 8 (=3+2+2+1), and you would have had to discard the faction card.
+
+# 10 • PLAYING AND DRAWING CARDS
+
+You may only play hazard cards during your opponent’s movement/hazard phase. Except for resource long-events, you may play resource cards anytime during your own turn unless specifically prohibited by the rules or the cards themselves.
+
+Unless stated otherwise, a card is playable only if its effect applies to an existing situation, hazard, attack, etc. (i.e., you may not play a card just to discard it).
+
+{: .note }
+> **Clarification:** An automatic-attack at a company’s new site may be targeted by a hazard during the company’s movement/hazard phase (e.g., Arouse Minions, Dragon’s Desolation, etc.). Playing such a hazard does count against the hazard limit. Such a hazard may be played even if the attack ultimately will not be faced (i.e., if the company decides not to face the
+automatic-attack during the site phase). 
+
+During your movement/hazard phase, both players draw cards when each company moves. If a company moves to a non-Haven site, you _may_ draw up to the number of cards indicated by the site that it _moved to_ (at least one card must be drawn); your opponent does the same. If the company moves to a Haven site, you _may_ draw up to the number of cards indicated by the site that you _moved from_ (at least one card must be drawn); your opponent does the same.
+
+## THE HAZARD LIMIT
+
+During your opponent’s movement/hazard phase, the number of hazard cards that you may play on one of your opponent’s companies is that company’s hazard limit. The hazard limit is equal to two or the company’s size, whichever is greater. A company’s size is equal to the number of characters in it, with each Hobbit counting half (round up). For this purpose, Wizards and followers do count as characters, but allies do **not**.
+
+A hazard limit can be modified by the play of certain cards. Tapping a Nazgûl permanent-event does count against the hazard limit. 
+
+{: .note }
+> **Clarification:** For the purposes of calculating hazard limits, each company’s size is determined for each company at the beginning of the movement/hazard phase (e.g., it remains fixed). So, if a character is eliminated during his company’s portion of the movement/hazard phase, his company’s hazard limit does not change.
+
+## HAZARD CARDS
+
+Hazard cards represent evil forces and natural dangers in Middle-earth. You may play hazard cards only during your opponent’s movement/hazard phase.
+
+### Creature Cards
+You may use a creature card to directly attack one of your opponent’s companies. Such an attack can occur only if:
+
+- The company is at a specific site at which the creature’s card text says it can be played.
+- The company’s site of origin or new site is in a region where the creature’s card text says it can be played.
+- One of the site symbols on the creature’s card matches the site that the company moved to (i.e., the new site) or stayed at (i.e., if the company did not move).
+- At least one of the region symbols on the creature’s card matches one of the region types the company moved through this turn (see below). If the creature’s card has two region symbols of the same type (i.e., a deep wilderness creature), then the company must have moved through at least two regions of that same type.
+
+{: .note }
+> **Clarification:** Two wilderness symbols are required in a site path to play a deep wilderness creature. However, the two symbols need not be adjacent in the site path. For example, a deep wilderness creature may be played keyed to the site path: ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg). If a company travels with two wilderness on its site path, the chance of encountering very dangerous wilderness monsters has doubled, even if the two wildernesses are not adjacent.
+
+If a creature satisfies more than one of these conditions, you must choose (when you play the creature) one of these conditions that the attack is “keyed to.” The effects of certain cards are based upon the region or site type that a creature is _keyed to_.
+
+{: .note }
+> **Clarification:** The player that plays a hazard creature must specifically state the type of region or site that a creature is keyed to—it can affect the use of other cards. For example, if a character with an Elven Cloak faces a strike from a creature that has been played keyed to wilderness, he can tap the cloak to cancel the strike. However, if such a strike is keyed to border-lands, he cannot use his cloak against it.
+
+The region types that a company moves through during a given turn are determined by the following criteria:
+
+ - If a company did not play a new site card, it did not move through any regions—so, no creature may be played based solely on region conditions.
+ - If the company was at a Haven and has played a new non-Haven site card (but no region cards), the region types are indicated by the new site card’s site path.
+ - If the company was at a Haven site and has played a new Haven site card (but no region cards), the region types are indicated by the new Haven site card’s “Site Path from” the old Haven site (i.e., the site path from the old Haven).
+ - If the company was at a non-Haven site and has played a new Haven site card (but no region cards), the region types are indicated by the site of origin’s site path (i.e., the site path on the site that the company left).
+
+{: .note }
+> **Standard Game Only:** If the company played region cards, the region types of the site path are indicated by the region cards (i.e., each region card has a region type).
+
+{: .note }
+> **Example:** Certain card combinations make a specific card more powerful and allow it to be played more often. Ren the Unclean (a Nazgûl) has one strike with a prowess of 15 and can only be played keyed to dark-domains and dark-holds. However, if played in combination with a Fell Beast card, Ren has two strikes with a prowess of 13 and can be played keyed to shadowlands, shadow-holds, dark-domains, and dark-holds.
+> 
+> If Ren is played in combination with a Fell Beast card and a Morgul-knife card, he has two strikes with a prowess of 15 and can be played keyed to shadow-lands, shadow-holds, dark-domains, and dark-holds. In addition, one character wounded by his attack receives 4 corruption points due to the Morgul-knife.
+
+## RESOURCE CARDS
+
+Certain resource cards may only be played if specific required conditions exist.
+
+{: .note }
+> **Clarification:** Playing a faction card, ally card, information card, or item card (unless stated otherwise on the card) requires an untapped character and an untapped site. In addition, the company must face any automatic-attacks located at the same site before such a card can be played. Playing another type of resource card does not neccessarily require an untapped site. This process may vary based upon specific card text.
+
+**Factions** — If one of your characters is at the site specified on a faction card, he may tap to attempt to play the faction card. If the character successfully influences the faction as indicated on the faction’s card (see p. 39), the faction card is placed in your play area. After a faction is successfully played at a site, the site card is tapped.
+
+{: .note }
+> **Clarification:** Once a faction is brought into play, it is not associated with any character. A faction plays no active role after it is brought into play. 
+ 
+**Items** — If a character is at an untapped site that indicates that a specific type of item card (gold ring, minor, major, or greater) is “playable,” he may tap to bring an item of that type into play. The item card is placed under the character’s card. After an item is played at a site, the site card is tapped.
+
+A character may only use the effects of one _weapon_ at a time **and** one _shield_ at a time **and** one _armor_ at a time.
+
+If a character is eliminated by corruption, discard all of the items that he controls. If a character is eliminated due to failing a body check, one item can be immediately transferred to each unwounded character in his company; but, the rest of his items are discarded.
+
+{: .note }
+> **Clarification:** An item only taps when used if its text states so. Thus, weapons and armor do not normally tap when used.
+> **Clarification:** A character may control (i.e., bear) any item, even if he cannot use its abilities.
+> **Clarification:** A character may control (i.e., bear) more than one weapon or more than one shield or more than one armor. However, only one of each type may be used at any given time.
+
+**Minor Items** — If a resource card that taps a site (e.g., ally, faction, item, information, etc.) is successfully played at a site, one additional character may tap to play a minor item. Such a minor item may be played even if the site does not specifically state that a minor item is playable at the site. For example, a minor item played when bringing an ally into play would simulate a gift from the ally.
+
+{: .note }
+> **Example:** Certain card combinations are required to bring certain powerful items into play. Narsil was a mighty sword that was broken when Elendil fell fighting Sauron. Narsil can be played and used as a greater item (+1 direct influence, +1 prowess, 3 MPs, 2 CPs). However, a player can attempt to reforge Narsil so that it becomes Andúril, the Flame of the West (Aragorn II’s weapon in _The Lord of the Rings_).
+> 
+> Two other cards are required. A Reforging card must be played at an “information site” and stored at a Haven—this represents gathering the resources required to reforge Narsil. Then, the Andúril card must be played at an “information site” and stored at a Haven—this represents gaining the knowledge of how to reforge Narsil. 
+> 
+> Then, the Reforging card is discarded and the Andúril card is placed with the Narsil card—giving a total of (+2 direct influence, +5 prowess, 7 MPs, 3 CPs) from the combination of the two cards.
+
+**Allies** — A character may tap to play an ally card if he is at the site specified on the ally card **and** the character meets the requirements indicated on the ally card. The ally card is placed under the character’s card and that character controls the ally. After an ally is played at a site, the site card is tapped. An ally does **not** count as a character for any purposes other than combat and the use of certain skills. Allies can **not** bear items.
+
+An ally with a skill may take actions and play cards that require that skill. For example, _Treebeard_ has the sage skill, so he can tap to play a _Dreams of Lore_ card. Similarly, _Gollum_ has the scout skill so he can
+tap to play a _Concealment_ card. 
+
+{: .note }
+> **Clarification:** Allies that are eliminated are placed in the out-of-play pile (i.e., neither player may bring that ally back into play). Allies are not affected by corruption.
+
+## EVENTS
+
+There are both resource events and hazard events. Each event falls into one of three classifications based upon how long it stays in play.
+
+**Short-event** — A short-event’s effects are immediately implemented. Then the event card is discarded. The effects of some short-events last for a specific period as stated on its card (e.g., many short-event effects last “until the end of the turn”).
+
+**Permanent-event** — The effects of a resource permanent-event are immediately implemented. Its effects last until the card is discarded. Certain effects can cause a permanent-event to be discarded; these effects are given in the text of specific cards.
+
+{: .note }
+> **Clarification:** Hazard short-events and permanent-events can be played only during an opponent’s movement/hazard phase. Resource short-events and permanent-events can be played at any time during your turn—as limited by specific card text.
+
+**Long-event** — The effects of a long-event are immediately implemented when it is played. Long-events last approximately two turns, one of yours and one of your opponent’s.
+
+You may only play a resource long-event during your long-event phase. Its card and effects remain in play until your next long-event phase or until otherwise discarded.
+
+You may only play a hazard long-event during your opponent’s movement/hazard phase. Its card and effects remain in play until your opponent’s next long-event phase or until otherwise discarded.
+
+{: .note }
+> **Clarification:** The effects of many long-events and permanent-events affect both players because they can remain in effect during both players’ turns. So remember, when you play a long-event hazard on your opponent during his turn, it will remain in effect during your next turn. For example, Awaken Denizens (a long-event) increases the number of automatic-attack strikes at Ruins & Lairs for one turn for each player.
+
+{: .note }
+> **Example:** One of Jason’s companies with a hazard limit of six is moving from Rivendell to Lórien; its site path is ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg). Jessica plays Doors of Night (a permanent-event) during Jason’s movement/hazard phase. This causes all resource environment cards in play to be discarded and their effects are canceled. This card will remain in play until it is discarded due to the play of a Gates of Morning, Twilight, or another card that targets the Doors of Night.
+> 
+> Jessica then plays Choking Shadows (a short-event). She decides to use its option of treating one wilderness \[ ![](/assets/images/wilderness.svg) ] as a shadow-land \[ ![](/assets/images/shadow-land.svg) ] until the end of the turn. This changes the site path for Jason’s company from ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg) to: ![](/assets/images/wilderness.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg). Choking Shadows is discarded, but its effects will remain until the end of the turn (unless canceled before that).
+> 
+> Then, Jessica next plays Morgul Night (a long-event)—all wildernesses \[ ![](/assets/images/wilderness.svg) ] to be treated as shadow-lands \[ ![](/assets/images/shadow-land.svg) ] and all shadow-lands \[ ![](/assets/images/shadow-land.svg) ] to be treated as dark-domains \[ ![](/assets/images/dark-domain.svg) ]. This changes the site path for Jason’s company from ![](/assets/images/wilderness.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg) to: ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg) ![](/assets/images/border-land.svg) ![](/assets/images/shadow-land.svg). Jessica can still play three more hazards and she can key them to border-lands, shadow-lands, and/or dark-domains. Unless its discard is forced by another card, Morgul Night and its effects will remain in play until Jessica’s next long-event phase (approximately two turns).
+
+## STORING CARDS
+
+During your organization phase, you may _store_ any of your items that are at a Haven site. The controlling character must make a corruption check before an item can be stored.
+
+A stored item is placed in your _marshalling point pile_ and still counts for marshalling points. Once an item is stored it may not be unstored and brought back into play. _The One Ring_ may not be stored.
+
+Some items and resource cards state that they can be stored when at a specific site (e.g., the Book of Mazarbul can be stored at a Dwarf-hold). Such an item or resource card is still placed in the marshalling point pile and cannot be brought back into play.
+
+{: .note }
+> **Clarification:** Certain cards state that a character bearing such a card cannot untap until the card is stored at a certain place. After storing such a card, the character does not untap until the untap phase of his player’s next turn. 
+> 
+> **Clarification:** Unless stated otherwise on the card, the marshalling points for a card that can be stored apply regardless of whether or not the card is stored.
+
+## TRANSFERRING ITEMS
+
+During your organization phase, you may transfer items between characters at the same site. The controlling character must make a corruption check before an item can be transferred.
+
+{: .note }
+> **Clarification:** A corruption check is required before an item can be stored or transferred. A character that fails such a corruption check has decided not to follow his Wizard’s advice and influence concerning the item’s use (i.e., the item is discarded and the character is either discarded or eliminated).
+
+## ACTIONS AND CARD PLAY
+
+The various activities that you and your opponent can perform during play are called actions. Typical actions include playing a card, tapping a card, revealing a card, etc. The following general guidelines apply to resolving actions; more detailed guidelines can be found on pages 61-63.
+
+ - You must give your opponent a chance to respond to every action, and vice versa. If you perform an action and move on to another action without giving your opponent a chance to respond, you must “back up” if he indicates that he wants to respond. A series of declared actions made in response to one another is called a chain of effects. You always have the option of declaring the first action in a chain of effects during your turn. The actions in a chain of effects are resolved one at a time from last declared to first declared (i.e., the last declared action is resolved first, then the second to the last, etc.).
+ - If the play of a card requires other actions (e.g., corruption checks), the actions are resolved in the order in which they appear on the card.
+ - A required or declared dice roll is an action and can be the target of another action or effect declared later in the same chain of effects.
+ - When the effects of a dice roll require further actions (e.g., a roll for a strike requires a body check), those actions become the first actions (any further rolls come first) in the next chain of effects after the roll.
+
+{: .fs-7 .fw-700 .text-center }
+• PART I •
 STANDARD RULES
-You should read and master the Starter Rules before tackling the
-Standard Rules.
-1 • THE VICTORY CONDITIONS
-The Standard Rules victory conditions differ from those found in
-the Starter Rules in two ways. First, the players can decide to play a
-longer game, and/or second, certain modifications to the marshalling
-point totals can be made at the Free Council.
-THE LONGER GAMES
-The Starter Game is also called the “1-deck game.” For experienced
-players with tuned decks, this game usually lasts 20-60 minutes. If you
-want longer, more detailed play, there are 3 other games.
-The 2-deck Game
-In a “2-deck game” (the “short game”), the Council is called when
-each play deck has been exhausted twice. You may call the Council
-when your play deck has been exhausted twice, or when it has been
-exhausted once and you have at least 25 marshalling points (MPs).
-The 3-deck Game
-In a “3-deck game” (the “long game”), the Council is called when
-each play deck has been exhausted three times. You may call the
-Council when your play deck has been exhausted three times, or when
-it has been exhausted twice and you have at least 30 marshalling
-points. Increase the sideboard size to 20 cards.
-The 4-deck Game
-In a “4-deck game” (i.e., the “campaign game”), the Council is
-called when each play deck has been exhausted four times. You may
-call the Council when your play deck has been exhausted four times,
-or when it has been exhausted three times and you have at least 40
-marshalling points. Increase the sideboard size to 25 cards.
-50
-MARSHALLING POINT MODIFICATIONS
+{: .fs-7 .fw-700 .text-center }
+
+You should read and master the Starter Rules before tackling the Standard Rules.
+
+# 1 • THE VICTORY CONDITIONS
+
+The Standard Rules victory conditions differ from those found in the Starter Rules in two ways. First, the players can decide to play a longer game, and/or second, certain modifications to the marshalling point totals can be made at the Free Council.
+
+## THE LONGER GAMES
+
+The Starter Game is also called the “1-deck game.” For experienced players with tuned decks, this game usually lasts 20-60 minutes. If you want longer, more detailed play, there are 3 other games.
+
+### The 2-deck Game
+
+In a “2-deck game” (the “short game”), the Council is called when each play deck has been exhausted twice. You may call the Council when your play deck has been exhausted twice, or when it has been exhausted once and you have at least 25 marshalling points (MPs).
+
+### The 3-deck Game
+
+In a “3-deck game” (the “long game”), the Council is called when each play deck has been exhausted three times. You may call the Council when your play deck has been exhausted three times, or when it has been exhausted twice and you have at least 30 marshalling points. Increase the sideboard size to 20 cards.
+
+### The 4-deck Game
+
+In a “4-deck game” (i.e., the “campaign game”), the Council is called when each play deck has been exhausted four times. You may call the Council when your play deck has been exhausted four times, or when it has been exhausted three times and you have at least 40 marshalling points. Increase the sideboard size to 25 cards.
+
+## MARSHALLING POINT MODIFICATIONS
+
 At the Free Council, you may reveal any unique marshalling point
 cards in your hand that match unique cards that your opponent has in
 play. Each such revealed card reduces your opponent’s marshalling
