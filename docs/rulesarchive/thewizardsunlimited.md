@@ -506,344 +506,235 @@ In _METW_ the lands of northwest Middle-earth are represented by regions. The si
 {: .text-center }
 ![](/assets/images/startermovement.svg)
 
-A company commits to moving by playing a new site card (face
-down) during its organization phase. A company does not have to
-move during a given turn (i.e., it does not play a new site card).
-At the beginning of its movement/hazard phase, a moving company
-current site card becomes its site of origin—the company is considered
-to be en route to its new site card (i.e., the company is moving).
-At the end of a moving company’s movement/hazard phase (before
-players return to their hand sizes), its site of origin is removed (discard
-if tapped; otherwise, return it to your location deck) and the new site
-card becomes the company’s current site card.
-Clarification: Some cards can interrupt this process by forcing a company
-to return to its site of origin.
-Moving From a Non-Haven Site
-If the company’s site of origin is a non-Haven site, the new site card
-must be the Haven listed as the nearest Haven on the site of origin card
-(i.e., the company can move back to its nearest Haven).
-Moving From a Haven Site
-If the company’s site of origin is a Haven, the new site card must
-meet one of the following requirements:
-• If the new site card is not another Haven, it must list the site of origin
-as its nearest Haven (i.e., the company can move to any site that has
-the site of origin as the company’s nearest Haven).
-• If the new site card is another Haven, it must give a site path to the
-site of origin (i.e., the company can move to one of two adjacent
-Havens; each Haven is adjacent to two other Havens).
-Clarification: If a company is not moving, no cards are drawn. If a company
-is moving to a non-haven site, you may draw up to the # of cards indicated
-by the site that it is moving to (at least one card must be drawn); your opponent
-does the same. If a company is moving to a haven site, you may draw up to
-the # of cards indicated by the site that it is moving from (at least one card must
-be draw); your opponent does the same.
-26
-Clarification: To summarize the movement process:
-• Except for a moving company during its movement/hazard phase, each
-company is always at a specific site, called its current site.
-• A company wanting to move to a new site plays a new site card face down
-beside its current site card by the end of its organization phase. A company
-can only move: from a non-Haven site to its “Nearest Haven,” from a
-Haven site to one of its two “adjacent Havens,” or from a Haven site to a
-non-Haven site that lists that Haven as its “Nearest Haven.”
-• At the beginning of its movement/hazard phase, a moving company’s new
-site card is revealed and its current site card becomes its site of origin.
-• At the end of its movement/hazard phase, the site of origin is removed and
-the moving company’s new site card becomes the company’s current site
-card.
-Suggestion: To help decide where a company should move, look at the
-resource cards in your hand. Then decide to which of your available sites to
-move. For example, if you have a major item, go to a site where a major item
-can be played.
-Example: Jessica’s company is in Bree (i.e., its current site) and wants to go
-to Thranduil’s Halls to try and bring the Wood-elves faction into play. Bree’s
-nearest Haven is Rivendell, while Thranduil’s Halls nearest Haven is Lórien.
-First, it takes one turn to move from Bree to Rivendell using the site path,
-ww, indicated on the Bree site card. Jessica just plays the Rivendell site card
-as her new site card during her organization phase, and she removes the Bree
-site card at the end of her movement/hazard phase.
-During the next turn, the company may move from Rivendell to Lórien
-using the site path, wwbw, indicated on both the Rivendell and Lórien site
-cards. Jessica plays the Lórien site card during her organization phase, and
-she removes the Rivendell site card at the end of her movement/hazard phase.
-Finally, the company takes one turn to move from Lórien to Thranduil’s
-Halls using the site path, wbb, indicated on the Thranduil’s Halls site card.
-Jessica plays the Thranduil’s Halls site card during her organization phase,
-and she removes the Lórien site card at the end of her movement/hazard
-phase.
-27
-SITE PATHS
+A company commits to moving by playing a _new site card_ (face down) during its organization phase. A company does not have to move during a given turn (i.e., it does not play a new site card).
+
+At the beginning of its movement/hazard phase, a moving company current site card becomes its _site of origin_—the company is considered to be en route to its new site card (i.e., the company is moving).
+
+At the end of a moving company’s movement/hazard phase (before players return to their hand sizes), its site of origin is removed (discard if tapped; otherwise, return it to your location deck) and the new site card becomes the company’s current site card.
+
+{: .note }
+> **Clarification:** Some cards can interrupt this process by forcing a company to return to its site of origin.
+ 
+### Moving From a Non-Haven Site
+
+If the company’s site of origin is a non-Haven site, the new site card must be the Haven listed as the nearest Haven on the site of origin card (i.e., the company can move back to its nearest Haven).
+
+### Moving From a Haven Site
+
+If the company’s site of origin is a Haven, the new site card must meet one of the following requirements:
+ - If the new site card is not another Haven, it must list the site of origin as its nearest Haven (i.e., the company can move to any site that has the site of origin as the company’s nearest Haven).
+ - If the new site card is another Haven, it must give a site path to the site of origin (i.e., the company can move to one of two adjacent Havens; each Haven is adjacent to two other Havens).
+]
+{: .note }
+> **Clarification:** If a company is not moving, no cards are drawn. If a company is moving to a non-haven site, you may draw up to the # of cards indicated by the site that it is moving to (at least one card must be drawn); your opponent does the same. If a company is moving to a haven site, you may draw up to the # of cards indicated by the site that it is moving from (at least one card must be draw); your opponent does the same.
+> 
+> **Clarification:** To summarize the movement process:
+> - Except for a moving company during its movement/hazard phase, each company is always at a specific site, called its current site.
+> - A company wanting to move to a new site plays a new site card face down beside its current site card by the end of its organization phase. A company can only move: from a non-Haven site to its “Nearest Haven,” from a Haven site to one of its two “adjacent Havens,” or from a Haven site to a non-Haven site that lists that Haven as its “Nearest Haven.”
+> - At the beginning of its movement/hazard phase, a moving company’s new site card is revealed and its current site card becomes its site of origin.
+> - At the end of its movement/hazard phase, the site of origin is removed and the moving company’s new site card becomes the company’s current site card.
+> 
+> **Suggestion:** To help decide where a company should move, look at the resource cards in your hand. Then decide to which of your available sites to move. For example, if you have a major item, go to a site where a major item can be played.
+
+{: .note }
+> **Example:** Jessica’s company is in Bree (i.e., its current site) and wants to go to Thranduil’s Halls to try and bring the Wood-elves faction into play. Bree’s nearest Haven is Rivendell, while Thranduil’s Halls nearest Haven is Lórien. 
+> 
+> First, it takes one turn to move from Bree to Rivendell using the site path, ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg), indicated on the Bree site card. Jessica just plays the Rivendell site card as her new site card during her organization phase, and she removes the Bree site card at the end of her movement/hazard phase.
+> 
+> During the next turn, the company may move from Rivendell to Lórien using the site path, ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg), ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg), indicated on both the Rivendell and Lórien site cards. Jessica plays the Lórien site card during her organization phase, and she removes the Rivendell site card at the end of her movement/hazard phase. 
+> 
+> Finally, the company takes one turn to move from Lórien to Thranduil’s Halls using the site path, wbb, indicated on the Thranduil’s Halls site card. Jessica plays the Thranduil’s Halls site card during her organization phase, and she removes the Lórien site card at the end of her movement/hazard phase.
+
+## SITE PATHS
+
 There are six types of regions and six types of sites:
-Region Type Symbol Site Type Symbol
-Coastal Seas ...................... [c] Havens ............................ [ h ]
-Free-domains .................... [f] Free-holds ........................ [ F ]
-Border-lands ..................... [b] Border-holds .................... [ B ]
-Wilderness ........................ [w] Ruins & Lairs ...................[ r ]
-Shadow-lands ................... [s] Shadow-holds .................. [ S ]
-Dark-domains ................... [d] Dark-holds ....................... [ D ]
-A site path is the sequence of regions between a site and its nearest
-Haven. However, each region in the sequence is only indicated by its
-type, not by its name. Each non-Haven site card has a site path on it.
-Each Haven site card has two site paths, but each of those two paths
-gives the sequence of regions between the Haven and one of the two
-Havens nearest to it.
-Note: Site paths do not direct the movement process. The site path is used to
-determine which hazard creatures your opponent may play against your
-moving company.
-Clarification: A “company’s site path” during its movement /hazard phase
-is the site path between its site of origin and its new site. On non-Haven site
-cards, the site path is provided on the top left border. On Haven cards, the site
-path to each of the two adjacent Havens is provided in the card text.
-Example: The Lonely Mountain site’s nearest Haven is the Lórien site. The
-symbol for Wilderness is w, the symbol for Border-land is b. So the site path
-between Lórien and the Lonely Mountain is: w b b w.
-The regions between these two sites are Wold & Foothills (Wilderness),
-Anduin Vales (Border-lands), Woodland Realm (Border-land), and Northern
-Rhovanion (Wilderness).
-28
-Example: In the Example of movement from Bree to Thranduil’s Halls on
-page 26, the first site path used was from Bree to Rivendell: ww. During that
-movement/hazard phase, Jason (Jessica’s opponent) can play hazard creatures
-keyed to wilderness (w), double wilderness (w w), and Havens (the
-new site).
-During the next turn, the company uses the site path from Rivendell to
-Lórien: w w b w. During that movement/hazard phase, Jason can play
-hazard creatures keyed to wilderness (w), double wilderness (ww), borderlands
-(b), and Havens (the new site).
-Finally, the company takes one turn to move from Lórien to Thranduil’s
-Halls using the site path, w bb. Jason can play hazard creatures keyed to
-wilderness (w), border-lands (b), and free-holds (the new site).
-Region Types
-Coastal Seas [ c ]: Regions consisting primarily of open water.
-Free-domains [ f ]: Very safe, civilized regions (e.g., Lindon, The Shire,
-Belfalas, Anórien, etc.).
-Border-lands [ b ]: Less civilized regions on the border of the wilderness or
-shadow territory (e.g., Rohan, Lamedon, etc.).
-Wilderness [ w ]: Sparsely populated, uncivilized regions that cover most of
-NW Middle-earth (e.g., High Pass, Enedhwaith, Rhudaur, etc.).
-Shadow-lands [ s ]: Regions with some active Shadow-forces and settlements
-(Imlad Morgul, Dagorlad, etc.).
-Dark-domains [ d ]: Regions with a heavy concentration of Shadow-forces
-(Southern Mirkwood, Gorgoroth, etc.).
-Site Types
-Havens [ h ]: Very safe sites of rest and healing (e.g., Rivendell, Grey
-Havens, Edhellond, and Lórien).
-Free-holds [ F ]: Sites of safety, but still dangerous due to assassins, traitors,
-etc. (e.g., Minas Tirith, Edoras, etc.).
-Border-holds [ B ]: Sites of relative safety, but still dangerous due to bandits,
-assassins, traitors, etc. (e.g., Bree, Lake-town, etc.).
-Ruins & Lairs [ r ]: Deserted sites often inhabited by dangerous creatures
-(e.g., the Lonely Mountain, Barrow-downs, etc.).
-Shadow-holds [ S ]: Relatively deserted sites often inhabited by dangerous
-creatures and Shadow-forces (e.g., Goblin-gate, Mount Gram, etc.).
-Dark-holds [ D ]: Very dangerous sites with heavy concentrations of
-Shadow-forces (Dol Guldur, Barad-dûr, etc.).
-29
-7 • COMBAT
+
+| Region Type | Symbol | Site Type | Symbol |
+ | ---: | :--- | ---: | :--- |
+ Coastal Seas | \[ ![](/assets/images/coastalsea.svg) ] |  Havens  |  \[ ![](/assets/images/free-haven.svg) ]
+ 
+ Free-domains |  \[ ![](/assets/images/free-domain.svg) ]  | Free-holds  | \[ ![](/assets/images/free-hold.svg) ]
+ 
+ Border-lands |  \[ ![](/assets/images/border-land.svg) ] |  Border-holds  | \[ ![](/assets/images/border-hold.svg) ]
+ 
+ Wilderness  |  \[ ![](/assets/images/wilderness.svg) ]  | Ruins & Lairs  | \[ ![](/assets/images/ruinlair.svg) ]
+ 
+ Shadow-lands  | \[ ![](/assets/images/shadow-land.svg) ]  | Shadow-holds  | \[ ![](/assets/images/shadow-hold.svg) ]
+ 
+ Dark-domains  | \[ ![](/assets/images/dark-domain.svg) ]  | Dark-holds |  \[ ![](/assets/images/dark-hold.svg) ]
+
+A _site path_ is the sequence of regions between a site and its nearest Haven. However, each region in the sequence is only indicated by its type, not by its name. Each non-Haven site card has a site path on it. Each Haven site card has two site paths, but each of those two paths gives the sequence of regions between the Haven and one of the two Havens nearest to it.
+
+{: .note }
+> **Note:** Site paths do not direct the movement process. The site path is used to determine which hazard creatures your opponent may play against your moving company.
+> 
+> **Clarification:** A “company’s site path” during its movement /hazard phase is the site path between its site of origin and its new site. On non-Haven site cards, the site path is provided on the top left border. On Haven cards, the site path to each of the two adjacent Havens is provided in the card text.
+
+{: .note }
+> **Example:** The Lonely Mountain site’s nearest Haven is the Lórien site. The symbol for Wilderness is ![](/assets/images/wilderness.svg), the symbol for Border-land is ![](/assets/images/border-land.svg). So the site path between Lórien and the Lonely Mountain is: ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg). 
+> 
+> The regions between these two sites are Wold & Foothills (Wilderness), Anduin Vales (Border-lands), Woodland Realm (Border-land), and Northern Rhovanion (Wilderness).
+
+{: .note }
+> **Example:** In the Example of movement from Bree to Thranduil’s Halls on page 26, the first site path used was from Bree to Rivendell: ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg). During that movement/hazard phase, Jason (Jessica’s opponent) can play hazard creatures keyed to wilderness (![](/assets/images/wilderness.svg)), double wilderness (![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg)), and Havens (the new site).
+> 
+> During the next turn, the company uses the site path from Rivendell to Lórien: ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg). During that movement/hazard phase, Jason can play hazard creatures keyed to wilderness ( ![](/assets/images/wilderness.svg) ), double wilderness ( ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ), borderlands ( ![](/assets/images/border-land.svg) ), and Havens (the new site).
+> 
+> Finally, the company takes one turn to move from Lórien to Thranduil’s Halls using the site path, ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/border-land.svg). Jason can play hazard creatures keyed to wilderness ( ![](/assets/images/wilderness.svg) ), border-lands ( ![](/assets/images/border-land.svg) ), and free-holds (the new site).
+
+### Region Types
+
+_Coastal Seas_ \[ ![](/assets/images/coastalsea.svg) ]: A region consisting primarily of open water.
+
+_Free-domains_ \[ ![](/assets/images/free-domain.svg) ]: Very safe, civilized regions (e.g., Lindon, The White, Belfalas, Anorien, etc.).
+
+_Border-lands_ \[ ![](/assets/images/border-land.svg) ]: Less civilized regions on the border of the wilderness or shadow territory (e.g., Rohan, Lamedon, etc.).
+
+_Wilderness_ \[ ![](/assets/images/wilderness.svg) ]: Sparsely populated, uncivilized regions that cover most of NW Middle-earth (e.g., High Pass, Enedhwaith, Rhudaur, etc.).
+
+_Shadow-lands_ \[ ![](/assets/images/shadow-land.svg) ]: Regions with some active Shadow-forces and settlements (Imlad Morgul, Dagorlad, etc.).
+
+_Dark-domains_ \[ ![](/assets/images/dark-domain.svg) ]: Regions with a heavy concentration of Shadow-forces (Southern Mirkwood, Gorgoroth, etc.).
+ 
+### Site Types
+
+_Havens_ \[ ![](/assets/images/free-haven.svg) ]: Very safe sites of rest and healing (e.g., Rivendell, Grey Havens, Edhellond, and Lorien).
+ 
+_Free-holds_ \[ ![](/assets/images/free-hold.svg) ]: Sites of safety, but still dangerous due to assassins, traitors, etc. (e.g., Minas Tirith, Edoras, etc.).
+ 
+_Border-holds_ \[ ![](/assets/images/border-hold.svg) ]: Sites of relative safety, but still dangerous due to bandits, assassins, traitors, etc. (e.g., Bree, Lake-town, etc.).
+ 
+_Ruins & Lairs_ \[ ![](/assets/images/ruinlair.svg) ]: Deserted sites often inhabited by dangerous creatures (e.g., the Lonely Mountain, Barrow-downs, etc.).
+ 
+_Shadow-holds_ \[ ![](/assets/images/shadow-hold.svg) ]: Relatively deserted sites often inhabited by dangerous creatures and Shadow-forces (e.g., Goblin-gate, Mount Gram, etc.).
+ 
+_Dark-holds_ \[ ![](/assets/images/dark-hold.svg) ]: Very dangerous sites with heavy concentrations of Shadow-forces (Dol Guldur, Barad-dur, Minas Morgul, etc.).
+
+# 7 • COMBAT
+
 Combat normally occurs when one of three things happen:
-• When a creature hazard is played on a company.
-• When a company at a site with an automatic-attack decides to
-attempt to play a resource card for that site (i.e., decides to attempt
-to enter and explore the site).
-• When any other card indicates that a company must face an attack.
-ATTACKS & STRIKES
-Combat consists of one or more attacks that must be resolved one
-at a time. An attack consists of one or more strikes:
-• Each strike can target one and only one character in the attacked
-company.
-• Each character can be the target of only one strike from a given
-attack.
-• If an attack has more strikes than the company has characters, the
-attacker may allocate the excess strikes as -1 modifications (i.e., a
--1 modification for each unallocated strike) to the prowess(es) of
-whichever target(s) he chooses. See the Strike Sequence on page 32.
-Unless the attack states otherwise, the defender chooses which
-untapped characters will be the targets of given strikes. Then, the
-attacker chooses which other defending characters not yet assigned a
-strike will be the target of any remaining unassigned strikes.
-Clarification: Against a given attack, a character may only defend against
-one strike.
-Clarification: If the text on a creature card states that the “attacker chooses
-defending characters,” any characters in the defending company may be
-chosen (by the attacker) as the targets of the attack’s strikes.
-Clarification: All of an attack’s strikes must be assigned to the characters in
-the defending company or as modifications to the strikes assigned. The
-attacker may not choose to not apply strikes. Any strike in excess of the
-number of characters in the company becomes a -1 modification to prowess
-of one character taking a strike (the attacker chooses). Only those strikes that
-are assigned need be defeated for the creature’s marshalling points to be
-received by the defender.
-30
-Strike Modifications
+
+ - When a creature hazard is played on a company.
+ - When a company at a site with an automatic-attack decides to attempt to play a resource card for that site (i.e., decides to attempt to enter and explore the site).
+ - When any other card indicates that a company must face an attack.
+
+## ATTACKS & STRIKES
+Combat consists of one or more _attacks_ that must be resolved one at a time. An attack consists of one or more _strikes_:
+ - Each strike can target one and only one character in the attacked company.
+ - Each character can be the target of only one strike from a given attack.
+ - If an attack has more strikes than the company has characters, the attacker may allocate the excess strikes as -1 modifications (i.e., a -1 modification for each unallocated strike) to the prowess(es) of whichever target(s) he chooses. See the Strike Sequence on page 32. 
+
+Unless the attack states otherwise, the defender chooses which _untapped_ characters will be the targets of given strikes. Then, the attacker chooses which other defending characters not yet assigned a strike will be the target of any remaining unassigned strikes. 
+
+{: .note }
+> **Clarification:** Against a given attack, a character may only defend against one strike.
+> **Clarification:** If the text on a creature card states that the “attacker chooses defending characters,” any characters in the defending company may be chosen (by the attacker) as the targets of the attack’s strikes.
+> **Clarification:** All of an attack’s strikes must be assigned to the characters in the defending company or as modifications to the strikes assigned. The attacker may **not** choose to not apply strikes. Any strike in excess of the number of characters in the company becomes a -1 modification to prowess of one character taking a strike (the attacker chooses). Only those strikes that are assigned need be defeated for the creature’s marshalling points to be received by the defender.
+
+### Strike Modifications
+
 There are a number of standard modifications to strikes:
-• Each unwounded, tapped character must modify his prowess by -1.
-• Each wounded character must modify his prowess by -2.
-• Normally a character that is the target of a strike is tapped after the
-strike is resolved. However, a character that is the target of a strike
-may choose to take a -3 modification to his prowess to avoid being
-tapped. If so, the character is not tapped after the strike is resolved
-(he may still be wounded).
-• If an attack has more strikes than the company has characters, the
-attacker may allocate the excess strikes as -1 modifications to the
-prowesses of whichever target(s) he chooses. See the Strike Sequence
-on page 32.
-• The target’s prowess may also be modified due to the play of certain
-resource and hazard cards. Only one resource card requiring skill
-may be played against a given strike.
-Condition Mod. to Target’s Prowess
-Unwounded, tapped character * ............................................ -1
-Wounded character * ............................................................. -2
-Untapped character decides not to tap * ................................ -3
-For each unused strike allocated (i.e., each extra strike) * .... -1
-Up to one resource card that requires skill ...................... varies
-Other resource cards ........................................................ varies
-Hazard cards .................................................................... varies
-Clarification: The prowess modifications marked with an * above are
-applied for a given attack and then are removed immediately after the attack
-is resolved. That is they do not carry over from attack to attack.
-Resolving Strikes
-Strikes are resolved one at a time as decided by the defending
-player. When you choose a strike to resolve, determine all of the
-factors affecting the strike before the roll is made (see “The Strike
-Sequence” below).
-31
-To resolve a strike, the defender makes a roll (2D6) and adds his
-modified prowess:
-• If this result is greater than the strike’s prowess, the strike fails. Such
-a strike is defeated if its body attribute is “–” or if it has a body
-attribute and fails a body check.
-• If this result is equal to the strike’s prowess, the strike was ineffectual
-(i.e., a “tie” means that the strike is avoided but not defeated).
-• Otherwise, the strike was successful (i.e., the character was defeated).
-The target character is wounded and must make a body
-check.
-Body Checks
-If a strike against a character is successful, the character is wounded
-and must make a body check. To make a body check, the attacker
-makes a roll (2D6); if this value is greater than the character’s body
-attribute, the character is eliminated. If the character was already
-wounded before this strike, the roll is modified by +1.
-Clarification: If a character was already wounded before a strike wounds
-him again, the resulting body check modification is always +1 (regardless of
-how many times a character is wounded).
-Clarification: If a strike against a character is successful, a body check must
-be resolved for the character before anything else happens. For example,
-Healing Herbs may not be used to heal such a character until after the body
-check is resolved (of course, if the character is eliminated, the Healing Herbs
-may not be used on him at all).
-As presented above, a strike that fails is defeated if its body attribute
-is “–” or if it has a body attribute and fails a body check. To make such
-a body check, the defender makes a roll (2D6); if this value is greater
+
+ - Each unwounded, tapped character must modify his prowess by -1.
+ - Each wounded character must modify his prowess by -2.
+ - Normally a character that is the target of a strike is tapped after the strike is resolved. However, a character that is the target of a strike may choose to take a -3 modification to his prowess to avoid being tapped. If so, the character is not tapped after the strike is resolved  (he may still be wounded).
+ - If an attack has more strikes than the company has characters, the attacker may allocate the excess strikes as -1 modifications to the prowesses of whichever target(s) he chooses. See the Strike Sequence on page 32.
+ - The target’s prowess may also be modified due to the play of certain resource and hazard cards. Only one resource card requiring skill may be played against a given strike.
+
+| Condition | Mod. to Target's Prowess |
+| ---: | :--- |
+ Unwounded, tapped character * | -1
+ Wounded character * | -2
+ Untapped character decides not to tap * | -3
+ For each unused strike allocated (i.e., each extra strike) * | -1
+ Up to one resource card that requires skill | varies
+ Other resource cards | varies
+ Hazard cards | varies
+ 
+ {: .note }
+ > **Clarification:** The prowess modifications marked with an * above are applied for a given attack and then are removed immediately after the attack is resolved. That is they do not carry over from attack to attack.
+ 
+### Resolving Strikes
+
+Strikes are resolved one at a time as decided by the defending player. When you choose a strike to resolve, determine all of the factors affecting the strike before the roll is made (see “The Strike Sequence” below).
+
+To resolve a strike, the defender makes a roll (2D6) and adds his modified prowess:
+
+ - If this result is greater than the strike’s prowess, the strike fails. Such a strike is defeated if its body attribute is “–” or if it has a body attribute and fails a body check.
+ - If this result is equal to the strike’s prowess, the strike was ineffectual (i.e., a “tie” means that the strike is avoided but not defeated).
+ - Otherwise, the strike was successful (i.e., the character was defeated). The target character is wounded and must make a body check.
+
+### Body Checks
+
+If a strike against a character is successful, the character is wounded and must make a _body check_. To make a body check, the **attacker** makes a roll (2D6); if this value is greater than the character’s _body attribute_, the character is eliminated. If the character was already wounded before this strike, the roll is modified by +1.
+
+{: .note }
+> **Clarification:** If a character was already wounded before a strike wounds him again, the resulting body check modification is always +1 (regardless of how many times a character is wounded).
+> 
+> **Clarification:** If a strike against a character is successful, a body check must be resolved for the character before anything else happens. For example, Healing Herbs may not be used to heal such a character until after the body check is resolved (of course, if the character is eliminated, the Healing Herbs may not be used on him at all).
+
+As presented above, a strike that fails is defeated if its body attribute is “–” or if it has a body attribute and fails a body check. To make such a body check, the defender makes a roll (2D6); if this value is greater
 than the strike’s body attribute, the strike is defeated.
-Example: Smaug has a prowess of 17 and a body of 8. He normally has two
-strikes when he attacks. If one of his strikes against a character fails, the
-defender makes a body check. If the resulting roll is greater than 8, that strike
-is defeated. However, both of Smaug’s strikes must be defeated in order for
-him to be eliminated—this would require at least two body check rolls greater
-than 8.
-32
-Defeating an Attack
-An attack by a hazard creature is defeated if all of its strikes directed
-against (i.e., assigned to) a company are defeated. If a defeated attack
-is a hazard creature, the card is placed in the defender’s marshalling
-point pile. The defender receives marshalling points for eliminating
-it.
-If a hazard creature has multiple attacks, each must be defeated in
-order for the defender to receive the marshalling points.
-If one of the strikes was canceled or ineffectual, the attack is not
-defeated. If the attack is canceled, the attack is not defeated. A
-canceled attack has no effect on the defending company.
-Example: Faramir is untapped with a prowess of 5 and a body of 8. He is
-facing a strike from a Huorn (only has one strike) with a prowess of 10 and
-a body of “–.” Faramir could decide not to tap against the strike; in which case
-his prowess would only be 2 (his normal prowess of 5, minus 3 for not
-tapping) against this strike. However, Faramir decides to tap to face the
-strike.
-If Faramir rolls a 6 or better (i.e., his prowess plus the roll will be greater
-than the Huorn’s prowess of 10), the strike fails and the Huorn attack is
-defeated (it only has one strike and its body attribute is “–”).
-If Faramir rolls a 5 (i.e., his prowess plus the roll is equal to the Huorn’s
-prowess of 10), the strike is ineffectual.
-If Faramir rolls a 4 or less (i.e., his prowess plus the roll is less than the
-Huorn’s prowess of 10), the strike was successful. Faramir is wounded and
-must make a body check. The attacker makes a die roll—if the result is 9 or
-more, Faramir is eliminated and removed from play.
-The Strike Sequence
-You and your opponent must play any cards that modify the number
-of strikes before you assign the strikes.
-Note: The “strike sequence” is the time from when a player declares that one
-of his characters will resolve a strike until the strike die roll is made and any
-associated body checks are made.
-Strikes are resolved one at a time as decided by the defending player
-(i.e., he chooses a strike to resolve, the strike is resolved, he chooses
-the next strike to resolve, the strike is resolved, etc.).
-33
-All of the factors affecting the strike must be decided before making
-the roll (2D6). Address these factors in the following order:
-1) The attacker may play hazard cards that affect the strike (these
-count toward the hazard limit against this company).
-2) The attacker may decide to use any or all of his remaining (if any)
--1 modifications due to unallocated strikes (i.e., strikes in excess of
-the company’s size).
-3) A target untapped character may take a -3 modification so that he
-will not automatically tap.
-4) The defending player may play resource cards that affect the strike
-(up to one card that requires skill).
-Clarification: Certain attacks state that each character in the company
-“faces one strike” or “is attacked” (e.g., Crebain, Watcher in the Water, etc.).
-Such an attack is never affected by a card or effect that modifies the number
-of strikes of an attack.
-Clarification: The prowess modification and maximum for a weapon is
-applied to a character before any other modifications. For example, Beorn
-has a base prowess of 7 and a Sword of Gondolin (+2 prowess to a maximum
-of 8)—he starts with a prowess of 8 before any other modifications are
-applied.
-Similarly, the body modification and maximum for a shield or armor is
-applied before any other modifications.
-34
-Example of Combat [(#/#) means (prowess/body)]
-You control Bilbo (1/9), Balin (4/7) and his follower Bofur (4/7) (with
-Healing Herbs), Beretar (5/8), and Beregond (4/8) (with an Elven Cloak).
-They are en route from Rivendell to Lórien. There are 4.5 characters in the
-company which rounds up to 5, meaning the hazard limit is 5.
-Your opponent plays Orc-raiders. He keys this hazard creature to the
-border-land of your company’s site path because he is mindful of Beregond’s
-Elven Cloak (a minor item that cancels a strike keyed to wilderness). Bilbo,
-a scout, taps and plays Concealment to cancel the attack. Orc-raiders is
-discarded. That’s 1 hazard down and potentially 4 to go.
-Your opponent next plays Orc-warband (second hazard) and states it is
-keyed to the border-land. It’s a (4/-) hazard creature with 5 strikes that
-receives +3 to prowess against a company that has faced an Orc attack. Even
-though Bilbo canceled the Orc-raiders, the company is still considered to
-have faced them, so the Orc-warband will be (7/-). There are 5 strikes and
-5 characters, so each character will face one strike (no decisions on strike
-allocation can be made). Bilbo elects to face his strike first. His opponent
-plays Weariness of the Heart (third hazard) on Bilbo to give -1 to his prowess.
-This modification to his prowess is in addition to the -1 Bilbo suffers for
-being tapped. No other effects are played to affect the strike and Bilbo rolls
-the dice. The result is a 5. Bilbo’s prowess of -1 plus the dice roll is less than
-the prowess of the Orc-warband’s strike against Bilbo, so Bilbo is wounded.
-Your opponent rolls the body check. It’s a 7—Bilbo lives!
-Beregond faces the next strike. Beregond taps and rolls a 10, defeating his
-strike handily. Bofur chooses to face his strike next. He a special +1 prowess
-bonus versus Orcs, and he chooses not to tap (-3 to his prowess). He rolls a
-5 which ties the prowess of the Orc-warband strike. The strike is ineffectual.
-Facing the next strike, Balin taps, and rolls a 7 to defeat it. Beretar resolves
-the final strike, taps, and defeats it by rolling a 3. Orc-warband is discarded.
-Your opponent sees that one character, Bofur, is untapped. He plays Giant
-(13/-) (a fourth hazard) and reasons that Bofur will have to take its one vicious
-strike. (After all, if you give up the option of assigning the one strike to your
-untapped character, namely Bofur, the opponent will be able to choose from
-all 5 characters which will take the strike). Your opponent does not see what
-Bofur sees. Before assigning the strike, Bofur taps and uses his Healing
-Herbs to untap Beregond, who then announces he is taking the strike. The
-Giant is keyed solely to double wilderness, so Beregond taps his Elven Cloak
-to cancel its single strike. The Giant is discarded.
-The opponent announces he will play no more hazards and the company
-breathes a sigh of relief. Bilbo will be able to heal at the start of the next turn
-since his company will be in Lórien, a Haven.
-35
-8 • CORRUPTION
+
+{: .note } 
+> **Example:** Smaug has a prowess of 17 and a body of 8. He normally has two strikes when he attacks. If one of his strikes against a character fails, the defender makes a body check. If the resulting roll is greater than 8, that strike is defeated. However, both of Smaug’s strikes must be defeated in order for him to be eliminated—this would require at least two body check rolls greater than 8.
+
+### Defeating an Attack
+
+An attack by a hazard creature is defeated if all of its strikes directed against (i.e., assigned to) a company are defeated. If a defeated attack is a hazard creature, the card is placed in the defender’s marshalling point pile. The defender receives marshalling points for eliminating it.
+
+If a hazard creature has multiple attacks, each must be defeated in order for the defender to receive the marshalling points.
+
+If one of the strikes was canceled or ineffectual, the attack is not defeated. If the attack is canceled, the attack is not defeated. A canceled attack has no effect on the defending company.
+
+{: .note }
+> **Example:** Faramir is untapped with a prowess of 5 and a body of 8. He is facing a strike from a Huorn (only has one strike) with a prowess of 10 and a body of “–.” Faramir could decide not to tap against the strike; in which case his prowess would only be 2 (his normal prowess of 5, minus 3 for not tapping) against this strike. However, Faramir decides to tap to face the strike.
+> 
+> If Faramir rolls a 6 or better (i.e., his prowess plus the roll will be greater than the Huorn’s prowess of 10), the strike fails and the Huorn attack is defeated (it only has one strike and its body attribute is “–”). 
+> 
+> If Faramir rolls a 5 (i.e., his prowess plus the roll is equal to the Huorn’s prowess of 10), the strike is ineffectual.
+> 
+> If Faramir rolls a 4 or less (i.e., his prowess plus the roll is less than the Huorn’s prowess of 10), the strike was successful. Faramir is wounded and must make a body check. The attacker makes a die roll—if the result is 9 or more, Faramir is eliminated and removed from play.
+
+### The Strike Sequence
+
+You and your opponent must play any cards that modify the number of strikes before you assign the strikes.
+
+{: .note }
+> **Note:** The “strike sequence” is the time from when a player declares that one of his characters will resolve a strike until the strike die roll is made and any associated body checks are made.
+
+Strikes are resolved one at a time as decided by the defending player (i.e., he chooses a strike to resolve, the strike is resolved, he chooses the next strike to resolve, the strike is resolved, etc.).
+
+All of the factors affecting the strike must be decided before making the roll (2D6). Address these factors in the following order:
+
+ 1. The attacker may play hazard cards that affect the strike (these count toward the hazard limit against this company).
+ 2. The attacker may decide to use any or all of his remaining (if any) -1 modifications due to unallocated strikes (i.e., strikes in excess of the company’s size).
+ 3. A target untapped character may take a -3 modification so that he will not automatically tap.
+ 4. The defending player may play resource cards that affect the strike (up to one card that requires skill).
+
+{: .note }
+> **Clarification:** Certain attacks state that each character in the company “faces one strike” or “is attacked” (e.g., Crebain, Watcher in the Water, etc.). Such an attack is never affected by a card or effect that modifies the number of strikes of an attack.
+> 
+> **Clarification:** The prowess modification and maximum for a weapon is applied to a character before any other modifications. For example, Beorn has a base prowess of 7 and a Sword of Gondolin (+2 prowess to a maximum of 8)—he starts with a prowess of 8 before any other modifications are applied.
+> 
+> Similarly, the body modification and maximum for a shield or armor is applied before any other modifications.
+
+{: .note }
+> **Example of Combat** _\[(#/#) means (prowess/body)]_
+> You control Bilbo (1/9), Balin (4/7) and his follower Bofur (4/7) (with Healing Herbs), Beretar (5/8), and Beregond (4/8) (with an Elven Cloak). They are en route from Rivendell to Lórien. There are 4.5 characters in the company which rounds up to 5, meaning the hazard limit is 5. 
+> 
+> Your opponent plays Orc-raiders. He keys this hazard creature to the border-land of your company’s site path because he is mindful of Beregond’s Elven Cloak (a minor item that cancels a strike keyed to wilderness). Bilbo, a scout, taps and plays Concealment to cancel the attack. Orc-raiders is discarded. That’s 1 hazard down and potentially 4 to go. 
+> 
+> Your opponent next plays Orc-warband (second hazard) and states it is keyed to the border-land. It’s a (4/-) hazard creature with 5 strikes that receives +3 to prowess against a company that has faced an Orc attack. Even though Bilbo canceled the Orc-raiders, the company is still considered to have faced them, so the Orc-warband will be (7/-). There are 5 strikes and 5 characters, so each character will face one strike (no decisions on strike allocation can be made). Bilbo elects to face his strike first. His opponent plays Weariness of the Heart (third hazard) on Bilbo to give -1 to his prowess. This modification to his prowess is in addition to the -1 Bilbo suffers for being tapped. No other effects are played to affect the strike and Bilbo rolls the dice. The result is a 5. Bilbo’s prowess of -1 plus the dice roll is less than the prowess of the Orc-warband’s strike against Bilbo, so Bilbo is wounded. Your opponent rolls the body check. It’s a 7—Bilbo lives! 
+> 
+> Beregond faces the next strike. Beregond taps and rolls a 10, defeating his strike handily. Bofur chooses to face his strike next. He a special +1 prowess bonus versus Orcs, and he chooses not to tap (-3 to his prowess). He rolls a 5 which ties the prowess of the Orc-warband strike. The strike is ineffectual. 
+> 
+> Facing the next strike, Balin taps, and rolls a 7 to defeat it. Beretar resolves the final strike, taps, and defeats it by rolling a 3. Orc-warband is discarded. Your opponent sees that one character, Bofur, is untapped. He plays Giant (13/-) (a fourth hazard) and reasons that Bofur will have to take its one vicious strike. (After all, if you give up the option of assigning the one strike to your untapped character, namely Bofur, the opponent will be able to choose from all 5 characters which will take the strike). Your opponent does not see what Bofur sees. Before assigning the strike, Bofur taps and uses his Healing Herbs to untap Beregond, who then announces he is taking the strike. The Giant is keyed solely to double wilderness, so Beregond taps his Elven Cloak to cancel its single strike. The Giant is discarded.
+> 
+> The opponent announces he will play no more hazards and the company breathes a sigh of relief. Bilbo will be able to heal at the start of the next turn since his company will be in Lórien, a Haven.
+
+# 8 • CORRUPTION
+
 As characters adventure in Middle-earth, they are subject to temptations.
 They run the risk of becoming corrupted and leaving the cause
 of the Free Peoples (i.e., a corrupted character leaves play, a corrupted
