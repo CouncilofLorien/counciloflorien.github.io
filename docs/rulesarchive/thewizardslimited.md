@@ -797,6 +797,43 @@ The _METW Player Guide_ will provide detailed solitaire rules.
 
 # THE APPENDICES
 
+# CARD DIAGRAMS
+
+![](/assets/images/limited-appendix-card-images.png)
+
+# MAP OF MIDDLE-EARTH
+
+![](/assets/images/limited-appendix-map.png)
+
+| # | Region Name | Type | | # | Region Name | Type |
+| ---: | :---: | :--- | --- | ---: | :---: | :--- | 
+1 | Lindon   | ![](/assets/images/free-domain.svg) |  | 27 |   Dagorlad  | ![](/assets/images/shadow-land.svg)
+2 | Numeriador  | ![](/assets/images/wilderness.svg)  | | 28 | Withered Heath  | ![](/assets/images/wilderness.svg)
+3 | Forochel   | ![](/assets/images/wilderness.svg)  | | 29 | Northern Rhovanion  | ![](/assets/images/wilderness.svg)
+4 | Arthedain |  ![](/assets/images/wilderness.svg) |  | 30 | Southern Rhovanion  | ![](/assets/images/wilderness.svg)
+5 | The Shire  | ![](/assets/images/free-domain.svg) | |  31 |  Iron Hills  | ![](/assets/images/wilderness.svg)
+6 | Cardolan  |  ![](/assets/images/wilderness.svg) |  | 32 |   Dorwinion  | ![](/assets/images/border-land.svg)
+7 | Angmar   | ![](/assets/images/shadow-land.svg) | |  33 |  Horse Plains  | ![](/assets/images/shadow-land.svg)
+8 | Rhudaur  |  ![](/assets/images/wilderness.svg) |  | 34 |  Old Pukel Gap  | ![](/assets/images/wilderness.svg)
+9 | Hollin   | ![](/assets/images/wilderness.svg) |  | 35 |   Andrast  | ![](/assets/images/wilderness.svg)
+10 |   Dunland  | ![](/assets/images/wilderness.svg) | |  36  |  Anfalas  | ![](/assets/images/wilderness.svg)
+11 |  Enedhwaith  | ![](/assets/images/wilderness.svg) | |  37 |   Lamedon  | ![](/assets/images/border-land.svg)
+12 | Old Pukel-land  | ![](/assets/images/wilderness.svg) |  | 38  |  Belfalas  | ![](/assets/images/free-domain.svg)
+13  |  Gundabad  | ![](/assets/images/wilderness.svg)[^gundabad] | |  39 |   Lebennin  | ![](/assets/images/free-domain.svg)
+14  |  High Pass  | ![](/assets/images/dark-domain.svg)[^highpass] |  | 40 |   Anorien  | ![](/assets/images/free-domain.svg)
+15 |  Redhorn Gate  | ![](/assets/images/wilderness.svg) |  | 41 |   Ithilien  | ![](/assets/images/wilderness.svg)
+16  | Gap of Isen  | ![](/assets/images/border-land.svg) | |  42 |   Harondor  | ![](/assets/images/wilderness.svg)
+17 |  Anduin Vales  | ![](/assets/images/border-land.svg) | | 43  |   Khand  | ![](/assets/images/shadow-land.svg)
+18 | Wold & Foothills  | ![](/assets/images/wilderness.svg) | |  44 |  Imlad Morgul  | ![](/assets/images/shadow-land.svg)
+19 |   Fangorn  | ![](/assets/images/wilderness.svg) |  | 45  |   Udun  | ![](/assets/images/dark-domain.svg)
+20 |    Rohan  | ![](/assets/images/border-land.svg) | |  46  |  Gorgoroth   | ![](/assets/images/dark-domain.svg)
+21 | Grey Mountain Narrows  | ![](/assets/images/shadow-land.svg) | | 47  |   Nurn  | ![](/assets/images/dark-domain.svg)
+22 | Woodland Realm  | ![](/assets/images/border-land.svg) |  | 48  | Elven Shores  | ![](/assets/images/coastalsea.svg)
+23 | Western Mirkwood  | ![](/assets/images/wilderness.svg) |  | 49  |Eriadoran Coast  | ![](/assets/images/coastalsea.svg)
+24 | Heart of Mirkwood  | ![](/assets/images/wilderness.svg) | |  50  | Andrast Coast  | ![](/assets/images/coastalsea.svg)
+25 | Southern Mirkwood  | ![](/assets/images/dark-domain.svg) |  | 51  |Bay of Belfalas  | ![](/assets/images/coastalsea.svg)
+26 |  Brown Lands  | ![](/assets/images/shadow-land.svg) |  | 52  |Mouths of the Anduin | ![](/assets/images/coastalsea.svg)
+
 # FULL PLAYER TURN SUMMARY
 
 ### Untap Phase
@@ -1018,3 +1055,6 @@ _Unfinished Tales_ — Copyright © 1980 by George Allen & Unwin (Publishers) Lt
 [^typo]: A typographical error
 [^influencefaction]: See starter section 9 on influence
 [^url]: The URL was http://www.ironcrown.com. See the "Wayback Machine" of "The Internet Archive" for webpages on MECCG.
+
+[^gundabad]: Gundabad is a ![](/assets/images/dark-domain.svg), not a ![](/assets/images/wilderness.svg). 
+[^highpass]: High Pass is a ![](/assets/images/wilderness.svg), not a ![](/assets/images/dark-domain.svg)
