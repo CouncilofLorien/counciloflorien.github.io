@@ -19,7 +19,7 @@ search_exclude: true
 {: .fs-7 .fw-700 .text-center }
 MIDDLE-EARTH: THE WIZARDS<br>
 Unlimited Edition
-{: .fs-5 .fw-300 .text-center }
+{: .fs-4 .fw-300 .text-center }
 
 # INTRODUCTION
 
@@ -27,7 +27,7 @@ During the Third Age, the Valar sent five Maiar to Middle-earth to unite and cou
 
 <details markdown="block"><summary><img src="/assets/images/scroll.svg"></summary>
 
-{: .lore }
+{: .counsel }
 > This is text for the scroll. Here is an even longer test: In The Lord of the Rings, Gandalf was the only Wizard to succeed. Saruman was corrupted by power, Radagast “went native,” and Alatar and Pallando disappeared into the East. Only Gandalf remained true to his task, marshalling the characters and forces that withstood Sauron long enough for the Fellowship to destroy the Ruling Ring.
   
 </details>
