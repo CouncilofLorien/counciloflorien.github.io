@@ -1402,7 +1402,7 @@ THE APPENDICES
 # CARD DIAGRAMS
 
 {: .text-center }
-![](/assets/images/unlimited-appendix-card-images.png)
+![](/assets/images/unlimited-appendix-card-diagrams.png)
 
 # MAP OF MIDDLE-EARTH
 
@@ -1539,36 +1539,35 @@ Dark-domains  |  ![](/assets/images/dark-domain.svg)
 
 # CREDITS
 
-**Art Director:** Jessica Ney-Grimm
-**Base Design:** Coleman Charlton
-**Project & Graphics Coordination:** Peter C. Fenlon
-**Game Development:** Coleman Charlton, Mike Reynolds
-**Card & Packaging Production:** Nick Morawitz
-**Assisting Art Direction:** Jason O. Hawkins
-**Design Team:** Coleman Charlton, John W. Curtis III, Pete Fenlon, Jason Hawkins, Mike Reynolds
-**Applescripting:** Sal Soghoian
-**Cardface & Cardback Graphics:** Derek Carbonneau
-**Computer Color Balancing:** Stephen Jiranek, Nick Morawitz
-**Computer Scanning Coordination:** Cotton Puryear
-**Computer Scanning:** Photoworks of Virginia, Inc.
-**Design Contributions:** N. Morawitz, Jessica Ney-Grimm, Dave Platnick Eye Cardback Art: Derek Carbonneau
-**Graphics Contributions:** Pete Fenlon, Nick Morawitz, Jessica Ney-Grimm
-**General Production:** Donald Dennis, Wendy Frazer
-**Initial Design Parameters:** C. Charlton, John Curtis, Pete Fenlon, Jason Hawkins, Nick Morawitz, Jessica Ney-Grimm, Mike Reynolds
-**Map Cardback & Region Card Art:** Jo Hartwig 
-**Marketing, Operations & Sales:** Deane Begiebing, Will Dinwiddie, Olivia Johnston, Dave Morris, Bruce Neidlinger, Dave Platnick, Daniel Williams, Monica Wilson
-**Middle-earth Content:** P. Fenlon, Jason Hawkins, Jessica Ney-Grimm
-**Playtest Coordinator:** Mike Reynolds
-**Printer & Service House Coordination:** Kurt H. Fischer
-**Printer Liaison:** Ilse Hendrickx, Luc Mertens, André Van Laer
-**Rules Production:** Coleman Charlton, Nick Morawitz, Pete Fenlon
-**Symbols:** Derek Carbonneau, Pete Fenlon, Nick Morawitz
-**Logo:** David Martin, Derek Carbonneau
-**Proofreading:** Deane Begiebing, Pete Fenlon, Olivia Johnston, Heike Kubasch, Dave Platnick, Mike Reynolds, Monica Wilson
-**Special Contributions:** Derek Carbonneau, DPP, Thomas Graves, KCJ, Liz Leonard, Ken McGlothlen, Jesper Myrfors, Bruce Neidlinger, Jeffrey Ney-Grimm, Lou Rexing, Michael Sloan, Robin Swope, James Whitehouse, Janet Winter, Wayne Young, and friends & families
-**Special Thanks:** Peter Adkison, Laurie Battle, Will & Schar Niebling, Danny Kilbert, Bob Carty, Mike Davis, Lou Rexing, Wayne Godfrey, Gary E. Smith, the Chessex crews, the InQuest crew and our on-line friends, especially the {TFF Folder}.
-**Playtesting Credits:** James Andrews, Christian Antonini, Kevin Barrett, D. Begiebing, Guy Botero, Brian Bouton, Jay Bryan, Brian Carr, Waldon Chisholm, Silvio Negri Clementi, Frank Coker, Jessica Colborn, R. Mark Colborn, Philip DeLuca, D. Dennis, Bernd Dietrich, Bill Edwards, O. Estefania, Klaus Etzold, Andrea Fattori, K. Fischer, Luigi Lo Forti, Scott Frazer, Wendy Frazer, Madai Frey, Matthew Fulton, Kevin Garber, Eduard Garcia, David Glenn, Jesse Goldstein, O. Johnston, Robert Kelly, Ralph Kennedy, Oscar Lafuente, Nick Laiacona, Steve Marvin, F. Navarro, Will Niebling, William Niebling, Elmar Perkuhn, D. Platnick, Frank Pfeifer, Jeffrey C. Riley, Cory John Rueb, Francesc Matas Salla,
-Doug Schnur, Jason Smith, Lowell Stouder, Henri Jean Vanaise, J.L. Viadel, D. Villanueva, Dave Weinstein, James Whitehouse, M. Wilson, Darrell Zuercher, Steven Balbo & “The Arcane Circle,” J.L. Martinez & the Heroe Research Group, the Berkeley Games crew.
+**Art Director:** Jessica Ney-Grimm  
+**Base Design:** Coleman Charlton  
+**Project & Graphics Coordination:** Peter C. Fenlon  
+**Game Development:** Coleman Charlton, Mike Reynolds  
+**Card & Packaging Production:** Nick Morawitz  
+**Assisting Art Direction:** Jason O. Hawkins  
+**Design Team:** Coleman Charlton, John W. Curtis III, Pete Fenlon, Jason Hawkins, Mike Reynolds  
+**Applescripting:** Sal Soghoian  
+**Cardface & Cardback Graphics:** Derek Carbonneau  
+**Computer Color Balancing:** Stephen Jiranek, Nick Morawitz  
+**Computer Scanning Coordination:** Cotton Puryear  
+**Computer Scanning:** Photoworks of Virginia, Inc.  
+**Design Contributions:** N. Morawitz, Jessica Ney-Grimm, Dave Platnick Eye Cardback Art: Derek Carbonneau  
+**Graphics Contributions:** Pete Fenlon, Nick Morawitz, Jessica Ney-Grimm  
+**General Production:** Donald Dennis, Wendy Frazer  
+**Initial Design Parameters:** C. Charlton, John Curtis, Pete Fenlon, Jason Hawkins, Nick Morawitz, Jessica Ney-Grimm, Mike Reynolds  
+**Map Cardback & Region Card Art:** Jo Hartwig   
+**Marketing, Operations & Sales:** Deane Begiebing, Will Dinwiddie, Olivia Johnston, Dave Morris, Bruce Neidlinger, Dave Platnick, Daniel Williams, Monica Wilson  
+**Middle-earth Content:** P. Fenlon, Jason Hawkins, Jessica Ney-Grimm  
+**Playtest Coordinator:** Mike Reynolds  
+**Printer & Service House Coordination:** Kurt H. Fischer  
+**Printer Liaison:** Ilse Hendrickx, Luc Mertens, André Van Laer  
+**Rules Production:** Coleman Charlton, Nick Morawitz, Pete Fenlon  
+**Symbols:** Derek Carbonneau, Pete Fenlon, Nick Morawitz  
+**Logo:** David Martin, Derek Carbonneau  
+**Proofreading:** Deane Begiebing, Pete Fenlon, Olivia Johnston, Heike Kubasch, Dave Platnick, Mike Reynolds, Monica Wilson  
+**Special Contributions:** Derek Carbonneau, DPP, Thomas Graves, KCJ, Liz Leonard, Ken McGlothlen, Jesper Myrfors, Bruce Neidlinger, Jeffrey Ney-Grimm, Lou Rexing, Michael Sloan, Robin Swope, James Whitehouse, Janet Winter, Wayne Young, and friends & families  
+**Special Thanks:** Peter Adkison, Laurie Battle, Will & Schar Niebling, Danny Kilbert, Bob Carty, Mike Davis, Lou Rexing, Wayne Godfrey, Gary E. Smith, the Chessex crews, the InQuest crew and our on-line friends, especially the {TFF Folder}.  
+**Playtesting Credits:** James Andrews, Christian Antonini, Kevin Barrett, D. Begiebing, Guy Botero, Brian Bouton, Jay Bryan, Brian Carr, Waldon Chisholm, Silvio Negri Clementi, Frank Coker, Jessica Colborn, R. Mark Colborn, Philip DeLuca, D. Dennis, Bernd Dietrich, Bill Edwards, O. Estefania, Klaus Etzold, Andrea Fattori, K. Fischer, Luigi Lo Forti, Scott Frazer, Wendy Frazer, Madai Frey, Matthew Fulton, Kevin Garber, Eduard Garcia, David Glenn, Jesse Goldstein, O. Johnston, Robert Kelly, Ralph Kennedy, Oscar Lafuente, Nick Laiacona, Steve Marvin, F. Navarro, Will Niebling, William Niebling, Elmar Perkuhn, D. Platnick, Frank Pfeifer, Jeffrey C. Riley, Cory John Rueb, Francesc Matas Salla, Doug Schnur, Jason Smith, Lowell Stouder, Henri Jean Vanaise, J.L. Viadel, D. Villanueva, Dave Weinstein, James Whitehouse, M. Wilson, Darrell Zuercher, Steven Balbo & “The Arcane Circle,” J.L. Martinez & the Heroe Research Group, the Berkeley Games crew.
 
 {: .note} 
 > _Address rules questions and comments via email to metwice@aol.com or mail to: I.C.E, P.O. Box 1605, Charlottesville, VA, 22902. Look for METW discussion areas on your favorite on-line service and visit our home page on the WWW (http://www.ironcrown.com)._
