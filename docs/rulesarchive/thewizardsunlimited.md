@@ -16,17 +16,10 @@ search_exclude: true
 {:toc}
 </details>
 
-<style>
-.scroll {
-  list-style: none;
-}
-</style>
-
 {: .fs-7 .fw-700 .text-center }
-MIDDLE-EARTH: THE WIZARDS
-
-{: .fs-5 .fw-300 .text-center }
+MIDDLE-EARTH: THE WIZARDS<br>
 Unlimited Edition
+{: .fs-5 .fw-300 .text-center }
 
 # INTRODUCTION
 
