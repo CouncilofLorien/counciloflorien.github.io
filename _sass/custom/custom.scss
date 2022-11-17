@@ -65,6 +65,13 @@ $meba-300: #d74431;
   list-style: none;
   list-style-image: none;
   list-style-type: none;
+  
+  summary::-webkit-details-marker {
+    display: none;
+  }
+  summary {
+    list-style: none;
+  }
 }
 
 details[open] summary ~ * {
