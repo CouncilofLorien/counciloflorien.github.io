@@ -16,6 +16,13 @@ search_exclude: true
 {:toc}
 </details>
 
+<details markdown="block"><summary class="scroll">Commentary on the rules can be read by selecting the scroll <image src="/assets/images/scroll.svg"></summary>
+
+{: .counsel }
+> This is how commentary will appear.
+  
+</details>
+
 {: .fs-7 .fw-700 .text-center }
 MIDDLE-EARTH: THE WIZARDS<br>
 Unlimited Edition
