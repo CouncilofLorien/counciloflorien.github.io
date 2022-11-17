@@ -64,4 +64,7 @@ $meba-300: #d74431;
 .scroll {
   list-style: none;
   list-style-image: none;
+  list-style-type: none;
+// details summary::-webkit-details-marker { display: none; } /* Chrome */
+// details summary::marker { display: none; }
 }
