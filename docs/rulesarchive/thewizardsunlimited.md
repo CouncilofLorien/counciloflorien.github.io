@@ -19,7 +19,6 @@ search_exclude: true
 {: .fs-7 .fw-700 .text-center }
 MIDDLE-EARTH: THE WIZARDS<br>
 Unlimited Edition
-{: .fs-5 .fw-300 .text-center }
 
 # INTRODUCTION
 
