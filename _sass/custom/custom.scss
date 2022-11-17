@@ -61,11 +61,15 @@ $meba-300: #d74431;
   }
 }
 
-.scroll {
-  list-style: none;
-  list-style-image: none;
-  list-style-type: none;
-}
+//.scroll {
+//  list-style: none;
+//  list-style-image: none;
+//  list-style-type: none;
+//}
 
-details summary::-webkit-details-marker { display: none; }
-details summary::marker { display: none; }
+// details summary::-webkit-details-marker { display: none; }
+// details summary::marker { display: none; }
+
+summary::marker {
+  content: "";
+}
