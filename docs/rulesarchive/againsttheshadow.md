@@ -1,0 +1,114 @@
+---
+layout: default
+title: Against The Shadow
+parent: Rules Archive
+nav_order: 6
+permalink: /rulesarchive/againsttheshadow
+search_exclude: true
+---
+
+<details markdown="block">
+  <summary>
+   CONTENTS
+  </summary>
+  {: .text-gamma }
+- TOC
+{:toc}
+</details>
+
+{: .fs-7 .fw-700 .text-center }
+MIDDLE-EARTH: AGAINST THE SHADOW
+
+This insert provides expansion rules and clari fications for use with all _Middle-earth Collectihle Card Game_ (_MECCG_) products.
+
+{: .note-dk }
+> **Note:** For a copy of these rules in larger type with more examples send a request and a self-addressed, stamped envelope to ICE, P.O. Box l605, Charlonesville, VA, 22903. Alternatively, visit our home page on the WWW (http://www.ironcrown.com).
+
+### Placement of cards "off to the side" (_Clarification_)
+
+Certain cards and effects require other cards be placed "off to the side" (e.g., _Sack Over the Head_). Cards placed off to the side are placed on the playing surface off to the side of the normal area of play. Such cards are kept with their host permanent-event that caused this effect. Any card placed off to the side absolutely cannot be targeted or otherwise affected by the game except by cards that specifically affect cards placed "off to the side."
+
+Cards placed off to the side are in play for the purposes of uniqueness. Unless stated otherwise, when a host permanent-event is removed from the playing surface, any cards placed off to the side under it are discarded. Usually the host card will state some mechanic that affects the cards placed off to the side with it. Unless stated otherwise on its host card, a card placed off to the side will give its marshalling points to its owner.
+
+## HOARDS
+
+Certain items are _hoard_ items. Such an item may only be played at a site that contains a hoard. Each site with a Dragon automatic-attack (i.e., each Dragon's lair) contains a hoard. A hoard minor item may not be included with a starting company, and may not be played at a site that does not contain a hoard.
+
+{: .note-dk }
+> **Example:** You can not play a hoard minor item at Mount Gram after successfully influencing the _Orcs of Angmar_ like you can with a normal minor item. Mount Gram does not contain a board.
+
+## REGION MOVEMENT LIMITATION
+
+Normally, a company moving with region movement may lay down a maximum of four region cards. If a company moving with region movement is using effects that allows additional region cards to be laid down, no more than six regions may be used.
+
+## CHARACTERS FACING MULTIPLE STRIKES
+
+Certain effects allow a character to be assigned more than one strike from a given attack. Such a character must face a strike sequence for each strike he is assigned to face. If a character is tapped or wounded following one of these strike sequences, he must then accordingly modify his prowess for any following strike sequences. If a character is eliminated or otherwise removed from play before he has faced all of his assigned strikes, those strikes he has yet to face are then considered to be canceled[^successful] (i.e., they have no further effect).
+
+## CREATURES AS AUTOMATIC-ATTACKS
+
+Any hazard creature you play as an automatic-attack is di scarded if defeated—it is not placed in your opponent's marshalling point pile.
+
+## THE UNDER-DEEPS
+
+{: .note-dk }
+> **Note:** Created by streams of molten rock and expanded by geothermal eruptions of super-hot gas, the Under-deeps are a result of a combination of natural and supernatural forces. The hand of Morgoth joined what was once a collection of sundered cavern complexes. His greater servants used this maze of tunnels and chambers to travel surreptitiously throughout Endor.
+> 
+> Although Endor changed during the Elder Days, the core of the Under-deeps survive. Though travel between the underground sites is now difficult, if not impossible, for all but the greatest (and luckiest) explorers. Blocked or
+twisting away from their original course, the Under-deeps seem broken. Junctions and strongholds seem lost. Many appear as simple caves or side passages. Others lie hidden behind veils of rock. Nearly all are still there, though, awaiting discovery—as is their creator.
+
+An Under-deeps site card has ''Under-deeps" in the section that normally gives site's region, and its name contains "…-deeps" or "Under-…" An Under-deeps site is just like any other site with the following exceptions:
+
+ - Unlike other sites, each Under-deeps site is **not** considered to be in a region—instead it is located below another site, called the Underdeeps site's _surface site_.
+ - Instead of a nearest Haven, each Under-deeps site lists all of its "Adjacent Sites." Each Under-deeps site is adjacent to its one surface site and a number of other Under-deeps sites. The first adjacent site listed is always the Under-deeps site's surface site.
+ - _Eagle-mounts_ and _Gwaihir_ cannot be used to move to or from an Under-deeps site.
+ - A company moving to and/or from an Under-deeps site has no site path. So, hazards may only be played keyed to the company's new site.
+ - An environment card that changes site type (e.g., _Choking Shadows_, _Quiet lands_, etc.) cannot be used to change the site type of an Under-deeps site.
+ - You may not consider marshalling points associated with a company at an Under-deeps site for the purposes of calling the Free Council or the Audience with Sauron.
+ - Normally, when you successfully play an item, faction, ally, or information at a si te, the site card is tapped and one additional character may tap to play a minor item. At an Under-deeps site, you can play any item playable at the site instead of this minor item.
+
+{: .note-dk }
+> **Example:** Asternak taps and plays _High Helm_ (a major item) at The Under-grottos and the site taps. At this point, Dorelas could only tap to play a minor item at a non-Under-deeps site. But The Under-grottos is an Under-deeps
+site, so Dorelas can tap to play anything playable at The Under-grottos: a minor item, a major item, or a gold ring. He taps and plays a _Gold-ring that Sauron Fancies_.
+
+### Under-deep Site Movement
+
+One of your companies that begins its turn at the surface site of an Under-deeps site can move normally _or_ it can move to its adjacent Under-deeps site (i.e., the company moves to an Under-deeps site from its surface site). One of your companies that begins its turn at an Under-deeps site may only move to one of the adjacent sites listed on
+the Under-deeps site card.
+
+Each adjacent site is followed by a number in parentheses—this number indicates how difficult it is to move from the Under-deeps site to the adjacent site. When an adjacent site is revealed by one of your companies whose site of origin is an Under-deeps site, you must make a roll (2D6). If the result is greater than or equal to the number in parentheses following the adjacent site as listed on its site of origin, the movement/hazard phase proceeds normally. Otherwise, the company returns to its site of origin (no cards are drawn) and the movement/hazard phase proceeds as if the company had not moved.
+
+{: .note-dk }
+> **Note:** A company moving from a surface site to its Under-deeps site does not need to make a roll.
+> **Example:** A minion company that starts a, Carn Dum can move normally or it can move to The Iron-deep—-The Iron-deeps lists Cam Dum as an adjacent site. Similarly, a minion company that starts at The Iron-deeps may attempt to move to any adjacent site listed: Cam Dum (0), The Under-leas (5), or The Under-vaults (6). However, after committing to movement, the moving player must roll a 5 or better to successfully move to The Under-leas or a 6 or better to successfully move to The Under-vaults.
+
+# Credits
+
+**Art Director:** Jessica Ney-Grimm  
+**Base System Design:** Coleman Charlton  
+**Base Expansion Design:** Michael Reynolds  
+**Development:** C. Charlton. M. Reynolds  
+**Graphics Coordination and Development:** Peter C. Fenlon. Nick Morawitz  
+**Color Corrections:** Bernd Dietrich, Alexander Gunther, J. Ney-Grimm  
+**Production:** Wendy Frazer, Kurt H. Fischer, N. Morawitz  
+**Assisting Art Direction:** Jason O. Hawkins  
+**Card Design:** C. Charlton, John W. Curtis III, P. Fenlon, J. Hawkins, M. Morawitz, J. Ney-Grimm, M. Reynolds, Mark Ward
+**Special Contributions:** Steven Balbo, Deane Begiebing, K. Fischer, Scott Frazer, W. Frazer, Olivia Johnston, Bob Mohney, Dave Morris, Bruce Neidlinger, Craig "Ichabod" O'Brien, Erik Peterson, Dave Platnick, James Whitehouse, Daniel Williams, Monica Wilson
+Proofreading: D. Begiebing, J. Curtis III, W. Frazer, J. Ney-Grimm, D. Platnick  
+**Playtesting Credits:** The Arcane Circle. Deb Baedke, Neal Baedke, Richard Clyne, Eric DeBlackmere, B. Dietrich, Scott Forehand, S. Frazer. W. Frazer, A. Gunther, Joel Hedges, Larry Hughes, Mike Lowery, Todd McGovern, Eric McLuen, John Miceli, B. Mohney, C. O'Brien, Elmar Perkuhn, E. Peterson, Harry Schifflet, James Stellmach, Michael Sloan, Jimmy Twofeathers,
+J. Whitehouse, Jon Whitney, and Mark Wightman  
+**Additional credits** can be found in the _Middle-earth: The Wizards_ rulesbook (due to space limitations, we were unable to include them here).
+
+{: .fs-2 }
+_Middle-earth: Against The Shadow_ is a set of expansion cards for _Middle-earth: The Wizards_ and _Middle-earth: Lidless Eye, collectible card game produced by Iron Crown Enterprises, Inc. (ICE), Charlottesville, Virginia USA, the exclusive holder of the worldwide adventure games license based on J.R.R. Tolkien's _The Hobbit_ and _The Lord of the Rings_.  
+Copyright © 1995, 1996, 1997 Tolkien Enterprises, a division of The Saul Zaentz Company, Berkeley, CA. _Middle-earth: Against The Shadow_, _Middle-earth: The Wizards_, _Middle-earth: The Lidless Eye_, _Middle-earth: The Dragons_, _Middle-earth: Dark Minions_, _Middle-earth_, _The Hobbit_, _The Lord of the Rings_, and _The Return of the King_, and all characters and places therein, and the Burning Eye are trademark properties of Tolkien Enterprises. All rights reserved.  
+_The Fellowship of the Ring_ — Copyright © 1955, 1965 by J.R.R. Tolkien. Copyright © renewed 1982 by Christopher R. Tolkien, Michael H.R. Tolkien, John F.R. Tolkien and Priscilla M.A.R. Tolkien.  
+_The Hobbit_ — Copyright © 1937, 1938, 1966 by J.R.R. Tolkien.  
+_The Two Towers_ — Copyright © 1954, 1965 by J.R.R. Tolkien. Copyright © renewed 1982 by Christopher R. Tolkien, Michael H.R. Tolkien, John F.R. Tolkien and Priscilla M.A.R. Tolkien.   
+_The Return of the King_ — Copyright © 1955, 1965 by J.R.R. Tolkien. Copyright © renewed 1983 by Christopher R. Tolkien, Michael H.R. Tolkien, John F.R. Tolkien and Priscilla M.A.R. Tolkien.  
+_Unfinished Tales_ — Copyright © 1980 by George Allen & Unwin (Publishers) Ltd.  
+The characters "Alatar" and "Pallando" appear in _Unfinished Tales_. They appear here with specific permission of the Estate of J. R. R. Tolkien. The copyright to _Unfinished Tales_ is held by HarperCollins Publishers, in succession to George Allen & Unwin (Publishers) Ltd. and on behalf of Christopher Reuel Tolkien and Frank Richard Williamson, the Executors of the Estate of J.R.R. Tolkien.  
+The character symbols ( ![](/assets/images/di.svg) ![](/assets/images/mind.svg) ), region symbols ( ![](/assets/images/coastalsea.svg) ![](/assets/images/free-domain.svg) ![](/assets/images/border-land.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg) ![](/assets/images/wilderness.svg) ), and site symbols( ![](/assets/images/free-haven.svg) ![](/assets/images/free-hold.svg) ![](/assets/images/border-hold.svg) ![](/assets/images/shadow-hold.svg) ![](/assets/images/dark-hold.svg) ![](/assets/images/ruinlair.svg) ) are trademark properties of Iron Crown Enterprises. All rights reserved.  
+_Middle-earth: Against the Shadow_ is made for ICE in Belgium by Carta Mundi.
+
+[^successful]: The rules were changes and these strikes are considered _successful_ (the same as if the character rolls too low), not cancelled.
