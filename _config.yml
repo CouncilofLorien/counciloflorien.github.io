@@ -157,11 +157,12 @@ callouts:
     color: green
   note:
     color: grey-md
+  note-dk:
+    color: grey-dk
   clarification:
     title: Clarification
     color: grey-md
   example:
-    title: Example
     color: grey-dk
   exception:
     title: Exception
