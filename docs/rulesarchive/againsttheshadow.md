@@ -82,23 +82,6 @@ Each adjacent site is followed by a number in parentheses—this number indicate
 > **Note:** A company moving from a surface site to its Under-deeps site does not need to make a roll.
 > **Example:** A minion company that starts a, Carn Dum can move normally or it can move to The Iron-deep—-The Iron-deeps lists Cam Dum as an adjacent site. Similarly, a minion company that starts at The Iron-deeps may attempt to move to any adjacent site listed: Cam Dum (0), The Under-leas (5), or The Under-vaults (6). However, after committing to movement, the moving player must roll a 5 or better to successfully move to The Under-leas or a 6 or better to successfully move to The Under-vaults.
 
-# Credits
-
-**Art Director:** Jessica Ney-Grimm  
-**Base System Design:** Coleman Charlton  
-**Base Expansion Design:** Michael Reynolds  
-**Development:** C. Charlton. M. Reynolds  
-**Graphics Coordination and Development:** Peter C. Fenlon. Nick Morawitz  
-**Color Corrections:** Bernd Dietrich, Alexander Gunther, J. Ney-Grimm  
-**Production:** Wendy Frazer, Kurt H. Fischer, N. Morawitz  
-**Assisting Art Direction:** Jason O. Hawkins  
-**Card Design:** C. Charlton, John W. Curtis III, P. Fenlon, J. Hawkins, M. Morawitz, J. Ney-Grimm, M. Reynolds, Mark Ward
-**Special Contributions:** Steven Balbo, Deane Begiebing, K. Fischer, Scott Frazer, W. Frazer, Olivia Johnston, Bob Mohney, Dave Morris, Bruce Neidlinger, Craig "Ichabod" O'Brien, Erik Peterson, Dave Platnick, James Whitehouse, Daniel Williams, Monica Wilson
-Proofreading: D. Begiebing, J. Curtis III, W. Frazer, J. Ney-Grimm, D. Platnick  
-**Playtesting Credits:** The Arcane Circle. Deb Baedke, Neal Baedke, Richard Clyne, Eric DeBlackmere, B. Dietrich, Scott Forehand, S. Frazer. W. Frazer, A. Gunther, Joel Hedges, Larry Hughes, Mike Lowery, Todd McGovern, Eric McLuen, John Miceli, B. Mohney, C. O'Brien, Elmar Perkuhn, E. Peterson, Harry Schifflet, James Stellmach, Michael Sloan, Jimmy Twofeathers,
-J. Whitehouse, Jon Whitney, and Mark Wightman  
-**Additional credits** can be found in the _Middle-earth: The Wizards_ rulesbook (due to space limitations, we were unable to include them here).
-
 {: .fs-2 }
 _Middle-earth: Against The Shadow_ is a set of expansion cards for _Middle-earth: The Wizards_ and _Middle-earth: Lidless Eye, collectible card game produced by Iron Crown Enterprises, Inc. (ICE), Charlottesville, Virginia USA, the exclusive holder of the worldwide adventure games license based on J.R.R. Tolkien's _The Hobbit_ and _The Lord of the Rings_.  
 Copyright © 1995, 1996, 1997 Tolkien Enterprises, a division of The Saul Zaentz Company, Berkeley, CA. _Middle-earth: Against The Shadow_, _Middle-earth: The Wizards_, _Middle-earth: The Lidless Eye_, _Middle-earth: The Dragons_, _Middle-earth: Dark Minions_, _Middle-earth_, _The Hobbit_, _The Lord of the Rings_, and _The Return of the King_, and all characters and places therein, and the Burning Eye are trademark properties of Tolkien Enterprises. All rights reserved.  
