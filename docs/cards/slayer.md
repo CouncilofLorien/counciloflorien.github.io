@@ -19,7 +19,7 @@ permalink: /cards/slayer
     <td></td>
   </tr>
   <tr>
-    <td style="style="width: 20px; text-align: center"><img src="/assets/images/border-land.svg"><br><br><img src="/assets/images/border-hold.svg"></td><!-- Left Sidebar -->
+    <td style="width: 20px; text-align: center"><img src="/assets/images/border-land.svg"><br><br><img src="/assets/images/border-hold.svg"></td><!-- Left Sidebar -->
     <td style="width: 160px; text-align: left">Two attacks (of one strike each) against the<br>
       same character. Attacker chooses defending<br>
       character. The defender map tap one<br>
