@@ -15,17 +15,17 @@ permalink: /cards/slayer
  
 ### The Wizards (Unlimited)
 
-|  | Slayer |
-| :---: | :--- |
-|   2   | Hazard Creature | 
+|  | Slayer |  | 
+| :---: | :--- |  |
+|   2   | Hazard Creature |   |
 |![](/assets/images/border-land.svg)<br><br>![](/assets/images/border-hold.svg)|_Slayer_. Two attacks (of one strike each)<br>against the same character. Attacker<br>chooses defending character. The defender<br>may tap one character in the same<br>company to cancel one of these attacks.
 
 ### The Lidless Eye
 
-|  | Slayer |
-| ---: | :--- |
-|   2   | Hazard Creature | 
-|![](/assets/images/border-land.svg)<br><br>![](/assets/images/border-hold.svg) |_Slayer_. Two attacks (of one strike each)<br>against the same character. Attacker<br>chooses defending character. The defender<br>may tap any one character in the company<br>to cancel one of these attacks.
+|  | Slayer |  |  |
+| :---: | :--- |  |  |
+|   2   | Hazard Creature |   |  |
+|![](/assets/images/border-land.svg)<br><br>![](/assets/images/border-hold.svg) |_Slayer_. Two attacks (of one strike each)<br>against the same character. Attacker<br>chooses defending character. The defender<br>may tap any one character in the company<br>to cancel one of these attacks.  |  |
 
 ### The Challenge Decks
 
