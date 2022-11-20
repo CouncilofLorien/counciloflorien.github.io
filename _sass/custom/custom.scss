@@ -66,28 +66,23 @@ $meba-300: #d74431;
 }
 
 table.card {
-  table-layout:fixed;
-  width:400px;
-}/*Setting the table width is important!*/
+  table-layout: fixed;
+  width: 400px;
+  word-break: break-all;
+} /* Setting the table width is important! */
 
 table.card td {
-  overflow:hidden;
-}/*Hide text outside the cell.*/
+  overflow: hidden;
+} /* Hide text outside the cell. */
 
 table.card td:nth-of-type(1) {
-  width:50px;
-}/*Setting the width of column 1.*/
+  width: 50px;
+} /* Setting the width of column 1. */
 
 table.card td:nth-of-type(2) {
-  width:300px;
-}/*Setting the width of column 2.*/
+  width: 300px;
+} /* Setting the width of column 2. */
 
 table.card td:nth-of-type(3) {
-  width:50px;
-}/*Setting the width of column 3.*/
-
-table.card {
-  table-layout:fixed; 
-  width:90px; 
-  word-break:break-all;
-}
+  width: 50px;
+} /* Setting the width of column 3.  */
