@@ -7,15 +7,12 @@ permalink: /cards/slayer
 
 ### The Wizards (Limited)
 
-Slayer — Hazard Creature  
-0 `MP`  11/– – `CP`  
-![](/assets/images/border-land.svg) ![](/assets/images/border-hold.svg)  
-Two attacks (of one strike each) against the  
-same character. Attacker chooses defending  
-character. The defender map tap one  
-character in the same company to cancel  
-one of these attacks.
-
+| 0 | Slayer |
+| ---: | :--- |
+|      | Hazard Creature | 
+| ![](/assets/images/border-land.svg)<br>![](/assets/images/border-hold.svg) | Two attacks (of one strike each) against the<br>same character. Attacker chooses defending<br>character. The defender map tap one<br>character in the same company to cancel<br>one of these attacks.
+| 11/– | |
+ 
 ### The Wizards (Unlimited)
 
 Slayer — Hazard Creature
