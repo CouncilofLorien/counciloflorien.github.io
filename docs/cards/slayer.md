@@ -9,8 +9,8 @@ permalink: /cards/slayer
 
 <style>
 table.card {
-  table-layout: fixed;
-  width: 400px;
+  table-layout: fixed !important;
+  width: 400px !important;
   word-break: break-all;
 } /* Setting the table width is important! */
 
@@ -19,15 +19,15 @@ table.card td {
 } /* Hide text outside the cell. */
 
 table.card td:nth-of-type(1) {
-  width: 50px;
+  width: 50px !important;
 } /* Setting the width of column 1. */
 
 table.card td:nth-of-type(2) {
-  width: 300px;
+  width: 300px !important;
 } /* Setting the width of column 2. */
 
 table.card td:nth-of-type(3) {
-  width: 50px;
+  width: 50px !important;
 } /* Setting the width of column 3.  */
 </style>
 
