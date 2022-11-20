@@ -31,7 +31,7 @@ table.card td:nth-of-type(3) {
 } /* Setting the width of column 3.  */
 </style>
 
-<table class="card">
+<table class="card" style="table-layout: fixed; width: 400px; word-break: break-all;">
   <tr>
     <td>0</td><!-- Upper-left -->
     <td>Slayer</td><!-- Title -->
