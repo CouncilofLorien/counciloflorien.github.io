@@ -5,6 +5,12 @@ parent: Cards
 permalink: /cards/slayer
 ---
 
+<style>
+      td:first-child {
+        width: 20%;
+      }
+</style>
+
 ### The Wizards (Limited)
 
 |  | Slayer |
