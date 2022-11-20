@@ -67,7 +67,7 @@ $meba-300: #d74431;
 
 table.card {
   table-layout:fixed;
-  width:150px;
+  width:400px;
 }/*Setting the table width is important!*/
 
 table.card td {
@@ -75,15 +75,15 @@ table.card td {
 }/*Hide text outside the cell.*/
 
 table.card td:nth-of-type(1) {
-  width:60px;
+  width:50px;
 }/*Setting the width of column 1.*/
 
 table.card td:nth-of-type(2) {
-  width:30px;
+  width:300px;
 }/*Setting the width of column 2.*/
 
 table.card td:nth-of-type(3) {
-  width:40px;
+  width:50px;
 }/*Setting the width of column 3.*/
 
 table.card {
