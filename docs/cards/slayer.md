@@ -7,6 +7,7 @@ permalink: /cards/slayer
 
 ### The Wizards (Limited)
 
+<style>
 table.card {
   table-layout: fixed;
   width: 400px;
@@ -28,6 +29,7 @@ table.card td:nth-of-type(2) {
 table.card td:nth-of-type(3) {
   width: 50px;
 } /* Setting the width of column 3.  */
+</style>
 
 <table class="card">
   <tr>
