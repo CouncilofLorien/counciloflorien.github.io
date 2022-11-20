@@ -33,3 +33,28 @@ permalink: /cards/slayer
     <td style="width: 20px; text-align: center"></td><!-- Corruption -->
   </tr>
 </table>
+
+### The Wizards (Unlimited)
+
+_Slayer_. Two attacks (of one strike each)  
+against the same character. Attacked 
+chooses defending character. The defender  
+may tap one character in the same  
+copmany to cancel one of these attacks.
+
+### The Lidless Eye
+
+_Slayer_. Two attacks (of one strike each)  
+against the same character. Attacker  
+chooses defending character. The defender  
+may tap any one character in the company  
+to cancel one of these attacks.
+
+### The Challenge Decks
+
+_Slayer_. Two attacks (of one strike each) all  
+against the same character. Attacker  
+chooses defending character. The defender  
+may tap any one character in the company  
+to cancel one of these attacks. This may be  
+done even after a strike is assigned.
