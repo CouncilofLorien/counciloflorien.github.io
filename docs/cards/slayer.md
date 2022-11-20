@@ -11,7 +11,7 @@ permalink: /cards/slayer
   <tr>
     <td style="width: 20px; text-align: center;">0</td><!-- Upper-left -->
     <td style="width: 160px; text-align: left;">Slayer</td><!-- Title -->
-    <td style="width: 20px></td>
+    <td style="width: 20px"></td>
   </tr>
   <tr>
     <td></td>
