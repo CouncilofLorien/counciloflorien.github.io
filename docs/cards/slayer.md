@@ -25,8 +25,7 @@ permalink: /cards/slayer
 |  | Slayer |
 | ---: | :--- |
 |   2   | Hazard Creature | 
-|![](/assets/images/border-land.svg)<br><br>![](/assets/images/border-hold.svg) |
-_Slayer_. Two attacks (of one strike each)<br>against the same character. Attacker<br>chooses defending character. The defender<br>may tap any one character in the company<br>to cancel one of these attacks.
+|![](/assets/images/border-land.svg)<br><br>![](/assets/images/border-hold.svg) |_Slayer_. Two attacks (of one strike each)<br>against the same character. Attacker<br>chooses defending character. The defender<br>may tap any one character in the company<br>to cancel one of these attacks.
 
 ### The Challenge Decks
 
