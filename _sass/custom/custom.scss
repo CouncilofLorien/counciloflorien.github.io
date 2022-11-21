@@ -67,6 +67,10 @@ $meba-300: #d74431;
 
 .card {
   table {
-    width: 50%;
+    width: 100%;
+    table-layout: fixed;
+  }
+  td:nth-child(1) {
+  width: 20%;
   }
 }
