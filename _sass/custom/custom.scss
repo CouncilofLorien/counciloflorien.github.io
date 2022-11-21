@@ -65,8 +65,10 @@ $meba-300: #d74431;
   list-style: none;
 }
 
-.card {
+.card table{
   table-layout: auto;
-  color: blue;
-  white-space: nowrap
+}
+
+.card td {
+  width: 1px;
 }
