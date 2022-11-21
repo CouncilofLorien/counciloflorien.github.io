@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: card
 title: Slayer
 parent: Cards
 permalink: /cards/slayer
