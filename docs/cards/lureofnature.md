@@ -5,15 +5,6 @@ parent: Cards
 permalink: /cards/lureofnature
 ---
 
-#### Notes
-
-- The checks happen
- - _Many Sorrows Befall_ cannot
-
-#### Commentary
-
-The Challenge Deck version does not follow the Unlimited printing or the Limited errata indicating that the checks happen "after all other hazards have been played." It also does not mention that the site path being checked for Wilderness is "at that point in time" ("after all other hazards have been played"). Follows The Lidless Eye version but states that the "Opponent" makes a roll (instead of the character making the roll). This is the "opponent" of the card controller (the owner of the hazard), not the opponent of the player upon whose character the card was played. This version of the art usues the limited/unlimited version but is zoomed in on Radagast and the bird, cutting out a part of the deer's face.
-
 ## Publication History
 
 ### The Challenge Decks (1997)
@@ -24,6 +15,15 @@ The Challenge Deck version does not follow the Unlimited printing or the Limited
 | | _Corruption_. **_Playable on a non-Hobbit, non-Dwarf,<br>non-Orc, non-Ringwraith character.**_ Target<br>character received 2 corruption points and makes a<br>corruption check at the end of his movement/hazard<br>phase for each Wilderness \[![](/assets/images/wilderness.svg)] in his company's site<br>path. During his organization phase, the character<br>may tap to attempt to remove this card. Opponent<br>makes a roll (draws a #)&mdash;if the result is greater than<br>4, discard this card. Cannot be duplicated on a<br>given character.  |
 | |  2 |
 
+{: .counsel }
+> The Challenge Deck version does not follow the Unlimited printing or the Limited errata indicating that the checks happen "after all other hazards have been played." It also does not mention that the site path being checked for Wilderness is "at that point in time" ("after all other hazards have been played"). Follows The Lidless Eye version but states that the "Opponent" makes a roll (instead of the character making the roll). This is the "opponent" of the card controller (the owner of the hazard), not the opponent of the player upon whose character the card was played. This version of the art usues the limited/unlimited version but is zoomed in on Radagast and the bird, cutting out a part of the deer's face.
+
+### The Lidless Eye Player Guide
+
+_Lure of Nature_  
+_Lure of Nature_ is probably the best corruption card in the game, although _Covetous Thoughts_ is close. However, more companies move than use lots of items. And if a company moves you can almost guarantee they will pass through a Wilderness. It is the most plentiful region on the map, and it is almost impossible to avoid on either side of the Misty Mountains. It works well in either main corruption strategies or as spice in other strategies. One strategy it does not work well with is roadblock. If the company is returned to their site of origin they never have to make the corruption checks.
+
+
 ### The Lidless Eye
 
 |  | Lure of Nature |
@@ -31,7 +31,20 @@ The Challenge Deck version does not follow the Unlimited printing or the Limited
 |     | Hazard Permanent-event | 
 | | _Corruption_. **_Playable on a non-Hobbit, non-Dwarf,<br>non-Orc, non-Ringwraith character.**_ Target<br>character received 2 corruption points and makes a<br>corruption check at the end of his movement/hazard<br>phase for each Wilderness \[![](/assets/images/wilderness.svg)] in his company's site<br>path. During his organization phase, the character<br>may tap to attempt to remove this card by making a<br>roll (drawing a #)&mdash;if the result is greater than 4,<br>discard this card. Cannot be duplicated on<br>a given character. |
 | |  2 |
- 
+
+### Dark Minions Player Guide (1997)
+
+_Lure of Nature_ (errata)%mdash;Replace "at the end of each movement/hazard phase" with "after all other hazards have been played."
+
+\*_Lure of Nature_ (clarification)&mdash;The corruption checks caused by Lure of Nature happen at the end of the afflicted character's movement/hazard phase. Of course, the character's player can play resources to modify the corruption checks. The hazard player is allowed to play hazards in response, if the hazard player has enough hazard limit remaining. Hazards so played must directly affect the corruption checks caused by Lure of Nature. He can play no other hazards, no creature, no new corruption cards, etc. The spirit of Lure of Nature is that the corruption checks will happen after everything else the comany will face. 
+
+{: .note }
+> Items marked with an asterisk are new entries since the _Middle-earth: The Dragons Player Guide_.
+
+### The Dragons Player Guide (1997)
+
+_Lure of Nature_ (errata)&mdash;Replace "at the end of each movement/hazard phase" with "after all other hazards have been played."
+
 ### The Wizards (Unlimited) (April 1996)
 
 |  | Lure of Nature |
