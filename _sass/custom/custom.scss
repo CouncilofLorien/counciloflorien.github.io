@@ -65,10 +65,15 @@ $meba-300: #d74431;
   list-style: none;
 }
 
-.card table{
+.card table {
   table-layout: auto;
 }
 
 .card td {
-  width: 1px;
+  width: 15%;
+}
+
+.card table tr td:first-child {
+  width: 15%;
+  word-break: break-all;
 }
