@@ -66,12 +66,9 @@ $meba-300: #d74431;
 }
 
 .card {
-  table {
     table-layout: fixed;
-  }
-  
-  td:nth-child(1) {
-    width: 15%;
-    background-color: #f0f0f0;
-  }
+}
+
+.card:nth-child(1) {
+width: 10%;
 }
