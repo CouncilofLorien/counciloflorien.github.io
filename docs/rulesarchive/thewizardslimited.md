@@ -141,6 +141,8 @@ _Marshalling Point Pile_ (_MP pile_) — When certain cards are removed from pla
 #### Unique & "May Not Be Duplicated" Cards
 
  If a card states that it is "unique" or that it "may not be duplicated," only one such card (or its effects) may be in play at a time. The first card played takes precedence (influence checks may change this).
+ 
+ ![](/assets/images/cardsanddecks-limited.svg)
           
  Because hazard cards are distinct from resource cards, you may not play your hazards on your side of the playing surface. At the end of a game, it will be obvious whose cards are whose, i.e., hazards in your area must belong to your opponent. We suggest adopting a neutral zone between each player's side of the playing surface. Non-targeted long-events and permanent-events can be played in this neutral zone.
  
