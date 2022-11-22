@@ -299,19 +299,19 @@ Dark-domains  | \[ ![](/assets/images/dark-domain.svg) ]  | Dark-holds |  \[ ![]
 {: .d-xs-flex .d-sm-flex .d-md-none .d-lg-none .d-xl-none }
 | Region Type | Symbol |
 | ---: | :--- |
-Coastal Seas | \[ ![](/assets/images/coastalsea.svg) ] | 
-Free-domains |  \[ ![](/assets/images/free-domain.svg) ]  |
-Border-lands |  \[ ![](/assets/images/border-land.svg) ] | 
-Wilderness  |  \[ ![](/assets/images/wilderness.svg) ]  | 
-Shadow-lands  | \[ ![](/assets/images/shadow-land.svg) ]  | 
-Dark-domains  | \[ ![](/assets/images/dark-domain.svg) ]  | 
-| **Site Type** | **Symbol** |
-|  Havens  |  \[ ![](/assets/images/free-haven.svg) ]
-| Free-holds  | \[ ![](/assets/images/free-hold.svg) ]
-|  Border-holds  | \[ ![](/assets/images/border-hold.svg) ]
-| Ruins & Lairs  | \[ ![](/assets/images/ruinlair.svg) ]
-| Shadow-holds  | \[ ![](/assets/images/shadow-hold.svg) ]
-| Dark-holds |  \[ ![](/assets/images/dark-hold.svg) ]
+Coastal Seas | \[ ![](/assets/images/coastalsea.svg) ] 
+Free-domains |  \[ ![](/assets/images/free-domain.svg) ] 
+Border-lands |  \[ ![](/assets/images/border-land.svg) ]  
+Wilderness  |  \[ ![](/assets/images/wilderness.svg) ]   
+Shadow-lands  | \[ ![](/assets/images/shadow-land.svg) ]  
+Dark-domains  | \[ ![](/assets/images/dark-domain.svg) ]  
+ **Site Type** | **Symbol** 
+Havens  |  \[ ![](/assets/images/free-haven.svg) ]
+Free-holds  | \[ ![](/assets/images/free-hold.svg) ]
+Border-holds  | \[ ![](/assets/images/border-hold.svg) ]
+Ruins & Lairs  | \[ ![](/assets/images/ruinlair.svg) ]
+Shadow-holds  | \[ ![](/assets/images/shadow-hold.svg) ]
+Dark-holds |  \[ ![](/assets/images/dark-hold.svg) ]
  
 Each company moves by playing a new site card (face down). A company does not have to move during a given turn.
 
