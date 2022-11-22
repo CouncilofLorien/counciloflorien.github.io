@@ -3,7 +3,7 @@ layout: default
 title: The White Hand
 parent: Rules Archive
 nav_order: 7
-permalink: /rulesarchive/the-white-hand
+permalink: /rules-archive/the-white-hand
 search_exclude: true
 ---
 
