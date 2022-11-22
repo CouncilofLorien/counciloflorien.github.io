@@ -379,13 +379,13 @@ Race: This is one criterion for using certain resources and for bringing certain
 
 Skills: This is one of the criterion for using certain cards (e.g., warrior skill is required to use certain weapons). The skills are: warrior, scout, ranger, sage, and diplomat. Some characters have more than one skill.
 
-Direct Influence \[ i ]: A character’s direct influence determines how many of your characters he may control (i.e., have as followers). In addition, a character’s unused direct influence affects his chances of influencing factions and your opponent’s resources.
+Direct Influence \[  ![](/assets/images/di.svg) ]: A character’s direct influence determines how many of your characters he may control (i.e., have as followers). In addition, a character’s unused direct influence affects his chances of influencing factions and your opponent’s resources.
 
 Prowess \[lower left, to left of “/”]: A character’s prowess is a measure of a character’s offensive capabilities in combat.
 
 Body \[lower left, to right of “/”]: A character’s body is a measure of how difficult it is to physically eliminate the character. This is a mixture of the ability to avoid an attack and the ability to absorb or deflect an attack (e.g., armor, shield, blocking).
 
-Mind \[ m ]: A character’s mind determines how many influence points (a Wizard’s general influence points or a character’s direct influence points) are required to keep this character in play.
+Mind \[  ![](/assets/images/mind.svg) ]: A character’s mind determines how many influence points (a Wizard’s general influence points or a character’s direct influence points) are required to keep this character in play.
 
 Marshalling Points \[ upper left ]: This is the number of marshalling points you receive when you have the character in play. This value represents the character’s importance to the Free Peoples’ struggle against Sauron.
 
