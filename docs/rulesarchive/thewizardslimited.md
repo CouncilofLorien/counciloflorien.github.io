@@ -141,10 +141,11 @@ _Marshalling Point Pile_ (_MP pile_) — When certain cards are removed from pla
 #### Unique & "May Not Be Duplicated" Cards
 
  If a card states that it is "unique" or that it "may not be duplicated," only one such card (or its effects) may be in play at a time. The first card played takes precedence (influence checks may change this).
- 
- ![](/assets/images/cardsanddecks-limited.svg)
+
+{: .text-center }
+![](/assets/images/cardsanddecks-limited.svg)
           
- Because hazard cards are distinct from resource cards, you may not play your hazards on your side of the playing surface. At the end of a game, it will be obvious whose cards are whose, i.e., hazards in your area must belong to your opponent. We suggest adopting a neutral zone between each player's side of the playing surface. Non-targeted long-events and permanent-events can be played in this neutral zone.
+Because hazard cards are distinct from resource cards, you may not play your hazards on your side of the playing surface. At the end of a game, it will be obvious whose cards are whose, i.e., hazards in your area must belong to your opponent. We suggest adopting a neutral zone between each player's side of the playing surface. Non-targeted long-events and permanent-events can be played in this neutral zone.
  
 ## 3 • GETTING READY TO PLAY
 
@@ -173,11 +174,11 @@ The steps taken during a turn are outlined in the turn summary on page 4, and in
 
 ## 5 • CHARACTERS & COMPANIES
 
-As a player, you influence and control a number of characters that move and act in the environment of Middle-earth. Each character's abilities are defined by the following attributes: race, skills, direct influence, prowess (offense), body (defense), mind, marshaling points, and special abilities. A character can be _eliminated_ and removed from play as a result of combat (failing a body check) or corruption[^corrupted] (failing a corruption check).
+As a player, you influence and control a number of characters that move and act in the environment of Middle-earth. Each character's abilities are defined by the following attributes: race, skills, direct influence, prowess (offense), body (defense), mind, marshalling points, and special abilities. A character can be _eliminated_ and removed from play as a result of combat (failing a body check) or corruption (failing a corruption check[^corrupted]).
 
 If you have enough general influence or direct influence during a given turn, you may bring into play: one character at his home site or at any Haven **or** your Wizard at his home site or Rivendell.
 
-Characters are primarily controlled by your pool of 20 general influence points. For each controlled character, you must commit a number of general influence points equal to his mind attribute. In addition, you may control a character by using another character's direct influence-a character controlled in this fashion is called a follower and does not use general influence points.
+Characters are primarily controlled by your pool of 20 general influence points. For each controlled character, you must commit a number of general influence points equal to his mind attribute. In addition, you may control a character by using another character's direct influence&mdash;a character controlled in this fashion is called a _follower_ and does not use general influence points.
 
 During play, you may organize your characters into groups called companies. A company's _size_ is equal to the number of characters in it, with each Hobbit character only counting half (round up). A company is limited to a size of seven. A company's _hazard limit_ is equal to two or the size of the company, whichever is greater. The maximum number of hazards that can be played on a company during a given movement/hazard phase is equal to its hazard limit.
 
@@ -191,7 +192,7 @@ Characters provide the main limiter on action during a game. You use your Wizard
 
  During your organization phase, you may perform one of the following activities:
  - You may play a character card. You must have enough general influence or direct influence available to control the character. You must place him at his home site or at any Haven site.
- - You may play a Wizard card if you do not already have one in play. You must place a Wizard at his home site or at Rivendell. You need not control a Wizard with influence-he represents you, the player.
+ - You may play a Wizard card if you do not already have one in play. You must place a Wizard at his home site or at Rivendell. You need not control a Wizard with influence&mdash;he represents you, the player.
 
 When you play a character, you may place him into a company already at his arrival site **or** he may become a new company (with one character); you must play the site card for his arrival site with him. If the appropriate site card is not available, you may not play a character.
 
@@ -209,7 +210,7 @@ Each character and Wizard is unique. So if you already have a character in play,
 
 ### HEALING
 
-Each of your characters at a Haven may heal during the untap phase of your turn. Such a character moves from a wounded position to a tapped position (i.e., the character is still tapped). In addition, certain cards can heal characters when they are played (e.g., Healing Herbs, Halfling Strength, etc.).
+Each of your characters[^healallies] at a Haven may heal during the untap phase of your turn. Such a character moves from a wounded position to a tapped position (i.e., the character is still tapped). In addition, certain cards can heal characters when they are played (e.g., Healing Herbs, Halfling Strength, etc.).
 
 ### CHARACTER ATTRIBUTES
 
@@ -231,7 +232,7 @@ _Mind_ \[ ![](/assets/images/mind.svg) ]: A character's mind determines how many
  
 _Marshalling Points_ \[ upper left ]: This is the number of marshalling points you receive when you have the character in play. This value represents the character's importance to the Free Peoples' struggle against Sauron.
  
-_Special Abilities_: Some characters have special abilities that are detailed on their cards and certain resource cards. For example, Faramir has an influence bonus against the Rangers of Ithilien faction, owyn has a heightened prowess against Nazgul, Frodo has a corruption check modifier, etc.
+_Special Abilities_: Some characters have special abilities that are detailed on their cards and certain resource cards. For example, Faramir has an influence bonus against the Rangers of Ithilien faction, Eowyn has a heightened prowess against Nazgul, Frodo has a corruption check modifier, etc.
  
 ### INFLUENCING (CONTROLLING) A CHARACTER
 
@@ -255,20 +256,20 @@ If a character directly influencing a follower is removed from play, the followe
 
 A company is a group of characters that move and act together. This allows characters to move and defend as a unit, allowing stronger characters to protect the weaker characters. This mechanism can be used to allow a variety of tactics during play.
           
-For example, if you have 3 characters in play, the 3 characters can move separately and perhaps do more in terms of acquiring marshalling points (items, other characters, etc.); but each individual character is more vulnerable to danger. However, the same 3 characters operating as a company might acquire marshaling points more slowly, but they are safer (i.e., you risk less).
+For example, if you have 3 characters in play, the 3 characters can move separately and perhaps do more in terms of acquiring marshalling points (items, other characters, etc.); but each individual character is more vulnerable to danger. However, the same 3 characters operating as a company might acquire marshalling points more slowly, but they are safer (i.e., you risk less).
 
 Normally, a company is limited to a size of seven, but a company at a Haven site may be of any size. For these purposes, a Wizard counts as a character, but an ally does not. The size of a company is determined for each company at the beginning of the movement/hazard phase (e.g., it remains fixed even if a character leaves the company).
 
-**Example:** _In this example the notation "#•#" is used. The first number is the character's mind attribute; the second is his direct influence (DI). You have nine characters you want to control: Gandalf (-•10), Aragorn II (9•3), Boromir II (4•1), Legolas (6•2), Gimli (6•2), Frodo (5•1), Sam (4•0), Merry (4•1), and Pippin (4•1). In addition, Aragorn II has Narsil (+1 to direct influence), Frodo has The One Ring (+5 to direct influence), and Gandalf has a Lesser Ring (+2 to direct influence). In order for you to control and keep these characters in play, you must use all of your 20 points of general influence (GI) and their direct influence (DI)._
+**Example:** _In this example the notation "#•#" is used. The first number is the character's mind attribute; the second is his direct influence (DI). You have nine characters you want to control: Gandalf (&ndash;•10), Aragorn II (9•3), Boromir II (4•1), Legolas (6•2), Gimli (6•2), Frodo (5•1), Sam (4•0), Merry (4•1), and Pippin (4•1). In addition, Aragorn II has Narsil (+1 to direct influence), Frodo has The One Ring (+5 to direct influence), and Gandalf has a Lesser Ring (+2 to direct influence). In order for you to control and keep these characters in play, you must use all of your 20 points of general influence (GI) and their direct influence (DI)._
 
-_First, Gandalf does not require any influence-he's your Wizard. You use your GI to control Frodo, Aragorn II, and Gimli. This uses all 20 points: 5 for Frodo, 9 for Aragorn II, and 6 for Gimli. Gandalf has 12 DI (his normal 10 plus 2 for the Lesser Ring), so he uses it to control Sam, Merry, and Pippin (they become his followers). Aragorn II has 4 DI (his 3 plus 1 for Narsil), so he uses it to control Boromir II. Frodo has 6 DI (his 1 plus 5 for The One Ring), so he uses it to control Legolas. The company size is 7 because Hobbits only count half._
+_First, Gandalf does not require any influence&mdash;he's your Wizard. You use your GI to control Frodo, Aragorn II, and Gimli. This uses all 20 points: 5 for Frodo, 9 for Aragorn II, and 6 for Gimli. Gandalf has 12 DI (his normal 10 plus 2 for the Lesser Ring), so he uses it to control Sam, Merry, and Pippin (they become his followers). Aragorn II has 4 DI (his 3 plus 1 for Narsil), so he uses it to control Boromir II. Frodo has 6 DI (his 1 plus 5 for The One Ring), so he uses it to control Legolas. The company size is 7 because Hobbits only count half._
 
-_The resulting character control organization is outlined below_
+_The resulting character control organization is outlined below:_
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#fff','primaryBorderColor': '#44434d','fontFamily': 'timesnewroman'}}}%%
 graph TD
-    Gn("Gandalf (-•10)") --- Sm("Sam Gamgee (4•0)")
+    Gn("Gandalf (&ndash;•10)") --- Sm("Sam (4•0)")
     Gn --- Mr("Merry (4•1)")
     Gn --- Pp("Pippin (4•1)")
     GI("General Influence (-•20)") 
@@ -288,15 +289,10 @@ graph TD
  | Region Type | Symbol | Site Type | Symbol |
  | ---: | :--- | ---: | :--- |
  Coastal Seas | \[ ![](/assets/images/coastalsea.svg) ] |  Havens  |  \[ ![](/assets/images/free-haven.svg) ]
- 
  Free-domains |  \[ ![](/assets/images/free-domain.svg) ]  | Free-holds  | \[ ![](/assets/images/free-hold.svg) ]
- 
  Border-lands |  \[ ![](/assets/images/border-land.svg) ] |  Border-holds  | \[ ![](/assets/images/border-hold.svg) ]
- 
  Wilderness  |  \[ ![](/assets/images/wilderness.svg) ]  | Ruins & Lairs  | \[ ![](/assets/images/ruinlair.svg) ]
- 
  Shadow-lands  | \[ ![](/assets/images/shadow-land.svg) ]  | Shadow-holds  | \[ ![](/assets/images/shadow-hold.svg) ]
- 
  Dark-domains  | \[ ![](/assets/images/dark-domain.svg) ]  | Dark-holds |  \[ ![](/assets/images/dark-hold.svg) ]
  
  Each company moves by playing a new site card (face down). A company does not have to move during a given turn.
@@ -1052,3 +1048,4 @@ _Unfinished Tales_ — Copyright © 1980 by George Allen & Unwin (Publishers) Lt
 [^highpass]: High Pass is a ![](/assets/images/wilderness.svg), not a ![](/assets/images/dark-domain.svg)
 [^m-h-shortsummary]: Except if the new site is a haven then you draw based on the site of origin instead. See the [Movement/Hazard Phase](/rulesarchive/the-wizards-limited#movementhazard-phase) in the Full Turn Summary.
 [^typo]: A typographical error in the original text.
+[^healallies]: Allies at a Haven also heal from wounded to tapped. This is because allies are characters for purposes of combat and so allies count as characters for purposes of being wounded in combat and for purposes of healed for combat.
