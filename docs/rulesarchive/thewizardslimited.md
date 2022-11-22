@@ -286,7 +286,7 @@ graph TD
 
  There are six types of regions and six types of sites:
 
-{: .d-xs-none .d-sm-none }
+{: .d-xs-none .d-sm-none .d-md-flex .d-lg-flex .d-xl-flex}
 | Region Type | Symbol | Site Type | Symbol |
 | ---: | :--- | ---: | :--- |
 Coastal Seas | \[ ![](/assets/images/coastalsea.svg) ] |  Havens  |  \[ ![](/assets/images/free-haven.svg) ]
@@ -296,7 +296,7 @@ Wilderness  |  \[ ![](/assets/images/wilderness.svg) ]  | Ruins & Lairs  | \[ ![
 Shadow-lands  | \[ ![](/assets/images/shadow-land.svg) ]  | Shadow-holds  | \[ ![](/assets/images/shadow-hold.svg) ]
 Dark-domains  | \[ ![](/assets/images/dark-domain.svg) ]  | Dark-holds |  \[ ![](/assets/images/dark-hold.svg) ]
 
-{: .d-md-none .d-lg-none .d-xl-none }
+{: .d-xs-flex .d-sm-flex .d-md-none .d-lg-none .d-xl-none }
 | Region Type | Symbol |
 | ---: | :--- |
 Coastal Seas | \[ ![](/assets/images/coastalsea.svg) ] | 
@@ -305,10 +305,7 @@ Border-lands |  \[ ![](/assets/images/border-land.svg) ] |
 Wilderness  |  \[ ![](/assets/images/wilderness.svg) ]  | 
 Shadow-lands  | \[ ![](/assets/images/shadow-land.svg) ]  | 
 Dark-domains  | \[ ![](/assets/images/dark-domain.svg) ]  | 
-
-{: .d-md-none .d-lg-none .d-xl-none }
-| Site Type | Symbol |
-| ---: | :--- |
+| **Site Type** | **Symbol** |
 |  Havens  |  \[ ![](/assets/images/free-haven.svg) ]
 | Free-holds  | \[ ![](/assets/images/free-hold.svg) ]
 |  Border-holds  | \[ ![](/assets/images/border-hold.svg) ]
