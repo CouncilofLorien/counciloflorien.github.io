@@ -584,9 +584,11 @@ In a "4-deck game" (i.e., the "campaign game"), the Council is called when each 
 In addition to the normal location deck and play deck, you can have a 15 card "sideboard" deck. A sideboard can contain resource, hazard, and character cards. However, the combined play deck and sideboard can only contain one of each unique card and a maximum of three of any non-unique card.
 
  - Whenever you exhaust your play deck, you may exchange (before reshuffling) up to 5 cards between your sideboard and discard pile.
- - During your organization phase, you may tap your Wizard to bring up to 5 resource and/or character cards from your sideboard into your discard pile.
+ - During your organization phase, you may tap your Wizard to bring up to 5 resource and/or character cards from your sideboard into your discard pile.  
+ 
            Alternatively, if your play deck has at least 5 cards, you may tap your Wizard to bring one resource card directly from your sideboard into your play deck (reshuffle).
- - During your opponent's movement/hazard phase, you may tap one of your Nazgul permanent-events in play to bring up to 5 hazard cards from your sideboard into your discard pile. The normal result of tapping a Nazgul does not apply and the Nazgul is discarded. Tapping a Nazgul in this fashion _does_ count against the hazard limit.
+ - During your opponent's movement/hazard phase, you may tap one of your Nazgul permanent-events in play to bring up to 5 hazard cards from your sideboard into your discard pile. The normal result of tapping a Nazgul does not apply and the Nazgul is discarded. Tapping a Nazgul in this fashion _does_ count against the hazard limit.  
+ 
            Alternatively, if your play deck has at least 5 cards, you may tap a Nazgul permanent-event to bring one hazard card directly from your sideboard into your play deck (reshuffle).
  
 ## 3 • GETTING READY TO PLAY
@@ -616,7 +618,7 @@ During the Organization Phase, two companies may move to the same site, but one 
  - One and only one company may already be at the site. In this case the other company must state that its new site card is already in play (the current site  card for the non-moving company).
  - One company moves to the site using the site path on that site card, and the other company moves to the site using region cards for its site path. In this case, both companies must state that the same face down site card is their new site card.
 
-In both cases, the two companies must face hazards separately and are thencombined at the end of the movement/hazard phase.
+In both cases, the two companies must face hazards separately and are then combined at the end of the movement/hazard phase.
 
 #### Discarding Characters
 
@@ -628,7 +630,7 @@ Before you play your Wizard, you may use general influence to bring a character 
 
 ## 6 • MOVEMENT
 
-There are two ways to move from one site to another. A company can use site paths (see the Starter Rules) **or** it can use region cards.
+There are two ways to move from one site to another. A company can use site paths (see the [Starter Rules](/rules-archive/the-wizards-limited#6--movement)) **or** it can use region cards.
  
 To use region movement, play a new site card (face down) and a series of up to four regions (face down) that connect the current site with the new site (i.e., it moves). For the purposes of movement, a series of regions "connects" two sites if:
 
