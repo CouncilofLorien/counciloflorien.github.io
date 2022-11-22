@@ -705,7 +705,7 @@ To influence an opponent's item, you must make an influence check as outlined ab
 
 #### Placing a Card On-guard
 
- During the movement/hazard phase of your opponent's turn, you may place one card on-guard for each of your opponent's companies. This card is played face down next to the company's new site or next to its current site if it did not move. Any card can be placed on-guard (i.e., it does not have to be a hazard, you can bluff). Such a card does count against the hazard limit for the company it is placed on.
+ During the movement/hazard phase of your opponent's turn, you may place one card _on-guard_ for each of your opponent's companies. This card is played face down next to the company's new site or next to its current site if it did not move. Any card can be placed on-guard (i.e., it does not have to be a hazard, you can bluff). Such a card does count against the hazard limit for the company it is placed on.
 
  The card will remain on that site until one of the following occurs:
  - _The company decides to face the site's automatic-attack_. If the on-guard card is a hazard creature keyed to the company's site **or** a hazard that can modify the automatic-attack, it may be revealed before the automatic-attack is resolved. If it is a hazard creature, it will attack after the automatic-attack is resolved.
@@ -722,7 +722,9 @@ Before a roll is made for combat or a check, cards may be played that will modif
 
 You and your opponent may both want to perform actions at the same time or actions that are sequenced with respect to other actions. This can happen during your movement/hazard phase (or during your site phase if your opponent has a card on-guard). Such actions almost always include playing a card, tapping a card already in play, and revealing an on-guard card.
 
-Your opponent may always declare an action in response before your action is resolved. Then, you may respond to his action, and he can respond to your second action, and so on until neither player can (or wants to) perform an action. You must give your opponent a chance to respond to every action, and vice versa. If you perform an action and move on to another action without giving your opponent a chance to respond, you must "backup" if he indicates that he wants to respond.
+Your opponent may always declare an action in response before your action is resolved. Then, you may respond to his action, and he can respond to your second action, and so on until neither player can (or wants to) perform an action. 
+
+You must give your opponent a chance to respond to every action, and vice versa. If you perform an action and move on to another action without giving your opponent a chance to respond, you must "backup" if he indicates that he wants to respond.
 
 Such a series of declared actions is called a chain of effects. You always have the option of declaring the first action in a chain of effects during your turn. The actions in a chain of effects are resolved one at a time from last declared to first declared (i.e., the last declared action is resolved first, then the second to the last, etc.).
 
@@ -735,7 +737,7 @@ An action in a chain of effects is negated if the conditions required to perform
  - _Tookish Blood takes effect._
  - _Call of Home takes effect, but Tookish Blood negates any effect it would have._
  - _Frodo gives +1 to Bilbo's corruption check (an action can target a dice-rolling action that was declared earlier in the same chain of effects, even though the dice-rolling action has not taken effect)._
- - _Bilbo makes his corruption check-he rolls the dice adding +1 to his roll because of Frodo's help (other modifications not discussed here). Tookish Blood cancels any result of this corruption check that would discard Bilbo._
+ - _Bilbo makes his corruption check&mdash;he rolls the dice adding +1 to his roll because of Frodo's help (other modifications not discussed here). Tookish Blood cancels any result of this corruption check that would discard Bilbo._
 
 _If your opponent had played Tookish Blood on Bilbo after his dice roll, i.e. after this chain of effects was resolved, it would not have affected your Call of Home nor Bilbo's corruption check. Tookish Blood only cancels those actions that occur during the rest of the turn, and not prior actions._
 
@@ -745,9 +747,9 @@ _Consider if Tookish Blood had not been played and if you played Call of Home on
 
 #### Special Movement to Gorgoroth Rules
 
-A company may only move to or from a site in Gorgoroth (e.g., Barad-d–r, Mount Doom) by using one of the following:
+A company may only move to or from a site in Gorgoroth (e.g., Barad-dur, Mount Doom) by using one of the following:
  - Specific region movement from a site in Imlad Morgul (Cirith Ungol, Minas Morgul, or Shelob's Lair).
- - Specific region movement that passes through Nurn or Udun.
+ - Specific region movement that passes through Nurn or Udun.[^udun]
  
 #### Burglaring
 
@@ -806,7 +808,6 @@ The _METW Player Guide_ will provide detailed solitaire rules.
 
 ## MAP INDEX
 
-{: .d-xs-inline-block .d-sm-inline-block .d-md-none .d-lg-none .d-xl-none }
 | # | Region Name | Type |
 | ---: | :---: | :--- |
 1 | Lindon   | ![](/assets/images/free-domain.svg)
@@ -861,36 +862,6 @@ The _METW Player Guide_ will provide detailed solitaire rules.
 50  | Andrast Coast  | ![](/assets/images/coastalsea.svg)
 51  |Bay of Belfalas  | ![](/assets/images/coastalsea.svg)
 52  |Mouths of the Anduin | ![](/assets/images/coastalsea.svg)
-
-{: .d-none .d-md-inline-block }
-| # | Region Name | Type | # | Region Name | Type |
-| ---: | :---: | :--- | ---: | :---: | :--- | 
-1 | Lindon   | ![](/assets/images/free-domain.svg) |  27 |   Dagorlad  | ![](/assets/images/shadow-land.svg)
-2 | Numeriador  | ![](/assets/images/wilderness.svg)  | 28 | Withered Heath  | ![](/assets/images/wilderness.svg)
-3 | Forochel   | ![](/assets/images/wilderness.svg)  | 29 | Northern Rhovanion  | ![](/assets/images/wilderness.svg)
-4 | Arthedain |  ![](/assets/images/wilderness.svg) |  30 | Southern Rhovanion  | ![](/assets/images/wilderness.svg)
-5 | The Shire  | ![](/assets/images/free-domain.svg) |  31 |  Iron Hills  | ![](/assets/images/wilderness.svg)
-6 | Cardolan  |  ![](/assets/images/wilderness.svg) |  32 |   Dorwinion  | ![](/assets/images/border-land.svg)
-7 | Angmar   | ![](/assets/images/shadow-land.svg) |  33 |  Horse Plains  | ![](/assets/images/shadow-land.svg)
-8 | Rhudaur  |  ![](/assets/images/wilderness.svg) |   34 |  Old Pukel Gap  | ![](/assets/images/wilderness.svg)
-9 | Hollin   | ![](/assets/images/wilderness.svg) |  35 |   Andrast  | ![](/assets/images/wilderness.svg)
-10 |   Dunland  | ![](/assets/images/wilderness.svg) |  36  |  Anfalas  | ![](/assets/images/wilderness.svg)
-11 |  Enedhwaith  | ![](/assets/images/wilderness.svg)  |  37 |   Lamedon  | ![](/assets/images/border-land.svg)
-12 | Old Pukel-land  | ![](/assets/images/wilderness.svg)  | 38  |  Belfalas  | ![](/assets/images/free-domain.svg)
-13  |  Gundabad  | ![](/assets/images/wilderness.svg)[^gundabad] |  39 |   Lebennin  | ![](/assets/images/free-domain.svg)
-14  |  High Pass  | ![](/assets/images/dark-domain.svg)[^highpass] | 40 |   Anorien  | ![](/assets/images/free-domain.svg)
-15 |  Redhorn Gate  | ![](/assets/images/wilderness.svg) |  41 |   Ithilien  | ![](/assets/images/wilderness.svg)
-16  | Gap of Isen  | ![](/assets/images/border-land.svg) | 42 |   Harondor  | ![](/assets/images/wilderness.svg)
-17 |  Anduin Vales  | ![](/assets/images/border-land.svg) | 43  |   Khand  | ![](/assets/images/shadow-land.svg)
-18 | Wold & Foothills  | ![](/assets/images/wilderness.svg) | 44 |  Imlad Morgul  | ![](/assets/images/shadow-land.svg)
-19 |   Fangorn  | ![](/assets/images/wilderness.svg) | 45  | Udun  | ![](/assets/images/dark-domain.svg)
-20 |    Rohan  | ![](/assets/images/border-land.svg) | 46  | Gorgoroth   | ![](/assets/images/dark-domain.svg)
-21 | Grey Mountain Narrows  | ![](/assets/images/shadow-land.svg) | 47  |   Nurn  | ![](/assets/images/dark-domain.svg)
-22 | Woodland Realm  | ![](/assets/images/border-land.svg) |  48  | Elven Shores  | ![](/assets/images/coastalsea.svg)
-23 | Western Mirkwood  | ![](/assets/images/wilderness.svg) |  49  |Eriadoran Coast  | ![](/assets/images/coastalsea.svg)
-24 | Heart of Mirkwood  | ![](/assets/images/wilderness.svg) |  50  | Andrast Coast  | ![](/assets/images/coastalsea.svg)
-25 | Southern Mirkwood  | ![](/assets/images/dark-domain.svg)  | 51  |Bay of Belfalas  | ![](/assets/images/coastalsea.svg)
-26 |  Brown Lands  | ![](/assets/images/shadow-land.svg) | 52  |Mouths of the Anduin | ![](/assets/images/coastalsea.svg)
 
 ## FULL PLAYER TURN SUMMARY
 
@@ -1059,3 +1030,4 @@ _Unfinished Tales_ — Copyright © 1980 by George Allen & Unwin (Publishers) Lt
 [^healallies]: Allies at a Haven also heal from wounded to tapped. This is because allies are characters for purposes of combat and so allies count as characters for purposes of being wounded in combat and for purposes of healed for combat.
 [^still-wounded]: A character taking the -3 modification to prowess will still be wounded if the strike against that character is successful (i.e., the modified roll against the strike is lower than the strike's prowess).
 [^roundup]: There is never a need to round up. Instead, reduce the points of the type that is over half to be equal to the combined total points of the other types. For example, if you have 33 MPs with 10 MP from characters, 20 MP from items, and 3 MP from factions, then the 20 item MP are over half of your total of 33 MP. The 20 item MP are reduced to 13 MP (equal to 10 character MP + 3 faction MP).
+[^udun]: It is not normally possible to use region movement that "passes through" Udun since Udun is only adjacent to Gorgoroth (for Wizard players). However, the resource card _Morannon_ may be used as a site in Udun and a company may move from there to Gorgoroth under this rule.
