@@ -3,7 +3,7 @@ layout: default
 title: The Lidless Eye
 parent: Rules Archive
 nav_order: 5
-permalink: /rulesarchive/the-lidless-eye
+permalink: /rules-archive/the-lidless-eye
 search_exclude: true
 ---
 
