@@ -43,10 +43,12 @@
         position: absolute;
         top: 0.2em;
         left: -1.6em;
-        //color: $grey-dk-000;
+        
+        // color: $grey-dk-000;
         color: $grey-dk-200;
-        //content: counter(step-counter);
-        content: counter(step-counter)"\)";
+        
+        // content: counter(step-counter);
+        content: counter(step-counter) "\)";
         counter-increment: step-counter;
         @include fs-3;
 
@@ -75,7 +77,8 @@
       &::before {
         position: absolute;
         margin-left: -1.4em;
-        //color: $grey-dk-000;
+        
+        // color: $grey-dk-000;
         color: $grey-dk-200;
         content: "•";
       }
