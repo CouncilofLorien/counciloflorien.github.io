@@ -10,7 +10,7 @@ permalink: /cards/lureofnature
 |  | Lure of Nature |
 | :---: | :--- |
 |     | Hazard Permanent-event | 
-| | _Corruption_. **_Playable on a non-Hobbit, non-Dwarf,<br>non-Orc, non-Ringwraith character.**_ Target character receives 2 corruption points and makes a corruption check at the end of his movement/hazard phase for each Wilderness \[![](/assets/images/wilderness.svg)] in his company's site path. _Clarification:_ Resources may be played to modify these corruption checks and hazards that directly affect these corruption checks may be played in response (counting against the hazard limit).<br>During his organization phase, the character may tap to attempt to remove this card. Opponent makes a roll (draws a #)&mdash;if the result is greater than 4, discard this card.<br>Cannot be duplicated on a given character.  |
+| | _Corruption_. **_Playable on a non-Hobbit, non-Dwarf, non-Orc, non-Ringwraith character.**_ Target character receives 2 corruption points and makes a corruption check at the end of his movement/hazard phase for each Wilderness \[![](/assets/images/wilderness.svg)] in his company's site path. _Clarification:_ Resources may be played to modify these corruption checks and hazards that directly affect these corruption checks may be played in response (counting against the hazard limit).<br>During his organization phase, the character may tap to attempt to remove this card. Opponent makes a roll (draws a #)&mdash;if the result is greater than 4, discard this card.<br>Cannot be duplicated on a given character.  |
 | |  2 |
 
 ---
@@ -22,7 +22,7 @@ permalink: /cards/lureofnature
 |  | Lure of Nature |
 | :---: | :--- |
 |     | Hazard Permanent-event | 
-| | _Corruption_. **_Playable on a non-Hobbit, non-Dwarf,<br>non-Orc, non-Ringwraith character.**_ Target<br>character receives 2 corruption points and makes a<br>corruption check at the end of his movement/hazard<br>phase for each Wilderness \[![](/assets/images/wilderness.svg)] in his company's site<br>path. During his organization phase, the character<br>may tap to attempt to remove this card. Opponent<br>makes a roll (draws a #)&mdash;if the result is greater than<br>4, discard this card. Cannot be duplicated on a given character.  |
+| | _Corruption_. **_Playable on a non-Hobbit, non-Dwarf,**_<br>**_non-Orc, non-Ringwraith character.**_ Target<br>character receives 2 corruption points and makes a<br>corruption check at the end of his movement/hazard<br>phase for each Wilderness \[![](/assets/images/wilderness.svg)] in his company's site<br>path. During his organization phase, the character<br>may tap to attempt to remove this card. Opponent<br>makes a roll (draws a #)&mdash;if the result is greater than<br>4, discard this card. Cannot be duplicated on a given character.  |
 | |  2 |
 
 {: .counsel }
