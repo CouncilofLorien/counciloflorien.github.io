@@ -124,7 +124,8 @@ Each player is attempting to acquire and store "lost treasures." A lost treasure
 
 The first player to store five lost treasures wins immediately. If both players have a limited collect ion of MED cards or want to play a shorter game, this requirement can be reduced to only 2, 3, or 4 lost treasures. For a longer game, you can require that the winner also defeat one or two unique Dragons.
 
-## CREDITS
+{: .text-gamma }
+CREDITS
 
 **Art Director:** Jessica Ney-Grimm  
 **Base System Design:** Coleman Charlton  
