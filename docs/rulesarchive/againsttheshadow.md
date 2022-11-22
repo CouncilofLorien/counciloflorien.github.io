@@ -3,7 +3,7 @@ layout: default
 title: Against The Shadow
 parent: Rules Archive
 nav_order: 6
-permalink: /rulesarchive/againsttheshadow
+permalink: /rulesarchive/against-the-shadow
 search_exclude: true
 ---
 
