@@ -852,7 +852,7 @@ The _METW Player Guide_ will provide detailed solitaire rules.
 52  |Mouths of the Anduin | ![](/assets/images/coastalsea.svg)
 
 {: .d-none .d-md-inline-block }
-| # | Region Name | Type | | # | Region Name | Type |
+| # | Region Name | Type | # | Region Name | Type |
 | ---: | :---: | :--- | ---: | :---: | :--- | 
 1 | Lindon   | ![](/assets/images/free-domain.svg) |  27 |   Dagorlad  | ![](/assets/images/shadow-land.svg)
 2 | Numeriador  | ![](/assets/images/wilderness.svg)  | 28 | Withered Heath  | ![](/assets/images/wilderness.svg)
