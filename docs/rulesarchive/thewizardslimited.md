@@ -90,9 +90,9 @@ To get a general idea of how to play, read the Starter Rules sections that are m
 
  The game ends when one of the following occurs during play:
  
- 1. If your Wizard is "eliminated"[^corrupted] (i.e., through combat or corruption)—your opponent wins.
+ 1. If your Wizard is "eliminated" (i.e., through combat or corruption[^corrupted])—your opponent wins.
  2. If you move _The One Ring_ to Mount Doom and play certain cards—_The One Ring_ is destroyed and you win.
- 3. Otherwise, the winner is decided at the _Free Council[^spacing].  
+ 3. Otherwise, the winner is decided at the _FreeCouncil_.  
  This council is called when one of the following occurs:
  - When each play deck has been exhausted once, the council starts at the end of the current turn.
  - After you have exhausted your play deck for the first time, you may choose to call the council at the end of any of your turns. The council starts at the end of your opponent's next turn (i.e., your opponent gets one last turn).
@@ -101,18 +101,18 @@ To get a general idea of how to play, read the Starter Rules sections that are m
  
 #### The Free Council
 
- Just before the Free Council, each character must make a corruption check. The winner of the game is the player that has gathered the most marshaling points from:
+ Just before the Free Council, each character must make a corruption check. The winner of the game is the player that has gathered the most marshalling points from:
  
  - Control of resources: characters, allies, items, and factions.
  - Destruction of creatures and/or evil forces.
  - Carrying out the instructions on resource cards.
  - By avoiding negative points which accrue when certain characters that you control are eliminated.
 
-Marshaling points are printed on the top left corner of the cards that award them.
+Marshalling points are printed on the top left corner of the cards that award them.
           
 At the Free Council, the leaders of the Free Peoples decide which Wizard's advice is best to follow. This is based upon a comparison of the resources each of the Wizards have marshalled.
 
-You may find it useful to use pencil and paper or extra dice to keep a running total of marshaling Points.
+You may find it useful to use pencil and paper **or** extra dice to keep a running total of marshalling Points.
 
 ## 2 • THE CARDS AND DECKS
 
@@ -130,11 +130,11 @@ _Discard Pile_ — Your discarded cards are placed face down in your discard pil
  
 _Out-of-play Pile_ — Your cards that are removed from play after being used are placed in your out-of-play pile.
  
-_Marshaling Point Pile_ (_MP pile_) — When certain cards are removed from play, you gain marshalling points. When you defeat all of the strikes from a creature, the creature's card is placed in your MP pile. When you store certain resource cards (e.g., items, information cards, etc.), they are placed in your MP pile.
+_Marshalling Point Pile_ (_MP pile_) — When certain cards are removed from play, you gain marshalling points. When you defeat all of the strikes from a creature, the creature's card is placed in your MP pile. When you store certain resource cards (e.g., items, information cards, etc.), they are placed in your MP pile.
  
 #### Card Position
 
- Normally, during play, each of your cards is placed on the playing surface so that its top is towards your opponent and its bottom is towards you. During play certain cards must be "tapped" when they are used-this is a record keeping mechanism to keep track of card usage. To tap a card, rotate it 90° so that it is turned sideways-to untap a card, rotate it back 90° to its normal position.
+ Normally, during play, each of your cards is placed on the playing surface so that its top is towards your opponent and its bottom is towards you. During play certain cards must be "tapped" when they are used&mdash;this is a record keeping mechanism to keep track of card usage. To tap a card, rotate it 90° so that it is turned sideways&mdash;to untap a card, rotate it back 90° to its normal position.
 
  When one of your characters is wounded, his card is placed with its top towards you. All restrictions to tapped characters also apply to wounded characters.
 
@@ -1039,15 +1039,14 @@ _Unfinished Tales_ — Copyright © 1980 by George Allen & Unwin (Publishers) Lt
 <table><td><i>Address rules questions and comments via email to metwice@aol.com or via snail mail to our P.O. Box address. Look for METW discussion areas on your favorite on-line service and visit our home page on the WWW (url not available at press time).</i></td></table>
 
 [^bar]: This web version of the rules is not marked with bars. See the pdf of the _The Wizards Limited_ Rulesbook.
-[^randomvalue]: This method of obtaining a random value is not permitted in tournament play and it is not used in casual play. This method may be used if neither player has dice or a cell phone. 
-[^spacing]: A word spacing issue was corrected.
+[^randomvalue]: This method of obtaining a random value is not permitted in tournament play and it is not used in casual play. Instead, download a dice rolling application on your mobile device.
 [^corrupted]: Your opponent wins if your Wizard would be discarded (not just eliminated) by corruption. See 8 • CORRUPTION
 [^30cards]: The minimum number of hazard/resource cards was increased to 30 for tournament play. See the Tournament Policy
 [^fullsummary]: See the Full Player Turn Summary
 [^characters]: See sectin 5 on characters and companies
 [^playeringanddrawingcards]: See standard rules section 10 playing and drawing cards
-[^typo]: A typographical error
 [^influencefaction]: See starter section 9 on influence
 [^gundabad]: Gundabad is a ![](/assets/images/dark-domain.svg), not a ![](/assets/images/wilderness.svg). 
 [^highpass]: High Pass is a ![](/assets/images/wilderness.svg), not a ![](/assets/images/dark-domain.svg)
 [^m-h-shortsummary]: Except if the new site is a haven then you draw based on the site of origin instead. See the [Movement/Hazard Phase](/rulesarchive/the-wizards-limited#movementhazard-phase) in the Full Turn Summary.
+[^typo]: A typographical error in the original text.
