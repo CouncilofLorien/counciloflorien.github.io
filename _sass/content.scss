@@ -43,7 +43,7 @@
         position: absolute;
 
         // top: 0.2em;
-        left: -1.6em;
+        left: -0.6em; // left: -1.6em;
 
         // color: $grey-dk-000;
         color: $grey-dk-200;
@@ -54,7 +54,7 @@
         @include fs-3;
 
         @include mq(sm) {
-          top: 0.0em; // top: 0.11em;
+          top: 0em; // top: 0.11em;
         }
       }
 
@@ -77,7 +77,7 @@
     > li {
       &::before {
         position: absolute;
-        margin-left: -1.4em;
+        margin-left: -0.4em; // margin-left: -1.4em;
 
         // color: $grey-dk-000;
         color: $grey-dk-200;
