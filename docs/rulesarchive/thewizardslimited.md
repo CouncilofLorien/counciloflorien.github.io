@@ -3,7 +3,7 @@ layout: default
 title: The Wizards Limited
 parent: Rules Archive
 nav_order: 1
-permalink: /rulesarchive/the-wizards-limited
+permalink: /rules-archive/the-wizards-limited
 search_exclude: true
 ---
 
@@ -170,7 +170,7 @@ Play consists of a series of "Player Turns." During your turn, you take various 
  5. Site Phase
  6. End-of-Turn Phase
 
-The steps taken during a turn are outlined in the turn summary on page 4, and in a more detailed summary provided on pages 44-46.[^fullsummary]
+The steps taken during a turn are outlined in the turn summary on page 4, and in a more detailed summary provided on [pages 44-46](/rules-archive/the-wizards-limited#full-player-turn-summary).
 
 ## 5 • CHARACTERS & COMPANIES
 
@@ -267,7 +267,7 @@ _First, Gandalf does not require any influence&mdash;he's your Wizard. You use y
 _The resulting character control organization is outlined below:_
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#fff','primaryBorderColor': '#44434d','fontFamily': 'timesnewroman'}}}%%
+%%{init: {'flowchart' : {'curve' : 'linear'}, 'theme': 'base', 'themeVariables': { 'primaryColor': '#fff','primaryBorderColor': '#44434d','fontFamily': 'timesnewroman'}}}%%
 graph TD
     Gn("Gandalf (&ndash;•10)") --- Sm("Sam (4•0)")
     Gn --- Mr("Merry (4•1)")
