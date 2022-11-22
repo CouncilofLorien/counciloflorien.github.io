@@ -3,7 +3,7 @@ layout: default
 title: The Wizards Unlimited
 parent: Rules Archive
 nav_order: 2
-permalink: /rulesarchive/the-wizards-unlimited
+permalink: /rules-archive/the-wizards-unlimited
 search_exclude: true
 ---
 
