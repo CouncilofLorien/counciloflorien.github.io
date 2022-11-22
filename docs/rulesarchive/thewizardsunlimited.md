@@ -269,7 +269,8 @@ You can use resources at certain sites and under certain conditions. Resources i
 
 _Discard Pile_ — Your discarded cards are placed face down in your discard pile. When your play deck is exhausted, location cards in your discard pile are returned to your location deck. You shuffle the other cards in your discard pile and they become your new play deck.
 
-**Clarification:** Your play deck is “exhausted” when you draw its last card. Some cards require that your play deck be manipulated and then reshuffled—this does not “exhaust” your play deck.
+{: .note} 
+> **Clarification:** Your play deck is “exhausted” when you draw its last card. Some cards require that your play deck be manipulated and then reshuffled—this does **not** “exhaust” your play deck.
 
 _Out-of-play Pile_—Your cards that are removed from play after being used are placed in your out-of-play pile. 
 
