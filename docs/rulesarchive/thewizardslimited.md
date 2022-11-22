@@ -286,7 +286,7 @@ graph TD
 
  There are six types of regions and six types of sites:
 
-{: .d-xs-none .d-sm-none .d-md-block .d-lg-block .d-xl-block}
+{: .d-xs-none .d-sm-none .d-md .d-lg .d-xl}
 | Region Type | Symbol | Site Type | Symbol |
 | ---: | :--- | ---: | :--- |
 Coastal Seas | \[ ![](/assets/images/coastalsea.svg) ] |  Havens  |  \[ ![](/assets/images/free-haven.svg) ]
@@ -296,7 +296,7 @@ Wilderness  |  \[ ![](/assets/images/wilderness.svg) ]  | Ruins & Lairs  | \[ ![
 Shadow-lands  | \[ ![](/assets/images/shadow-land.svg) ]  | Shadow-holds  | \[ ![](/assets/images/shadow-hold.svg) ]
 Dark-domains  | \[ ![](/assets/images/dark-domain.svg) ]  | Dark-holds |  \[ ![](/assets/images/dark-hold.svg) ]
 
-{: .d-xs-block .d-sm-block .d-md-none .d-lg-none .d-xl-none }
+{: .d-xs .d-sm .d-md-none .d-lg-none .d-xl-none }
 | Region Type | Symbol |
 | ---: | :--- |
 Coastal Seas | \[ ![](/assets/images/coastalsea.svg) ] 
