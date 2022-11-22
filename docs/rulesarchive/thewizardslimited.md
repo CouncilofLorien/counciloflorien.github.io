@@ -285,17 +285,38 @@ graph TD
  In _METW_ the lands of northwest Middle-earth are represented by regions. The site cards represent places that characters can visit within those regions. Each company has a site card associated with it—the company is located at that site. Starting characters are brought into play at the Rivendell site.
 
  There are six types of regions and six types of sites:
+
+{: .d-none .d-md-inline-block }
+| Region Type | Symbol | Site Type | Symbol |
+| ---: | :--- | ---: | :--- |
+Coastal Seas | \[ ![](/assets/images/coastalsea.svg) ] |  Havens  |  \[ ![](/assets/images/free-haven.svg) ]
+Free-domains |  \[ ![](/assets/images/free-domain.svg) ]  | Free-holds  | \[ ![](/assets/images/free-hold.svg) ]
+Border-lands |  \[ ![](/assets/images/border-land.svg) ] |  Border-holds  | \[ ![](/assets/images/border-hold.svg) ]
+Wilderness  |  \[ ![](/assets/images/wilderness.svg) ]  | Ruins & Lairs  | \[ ![](/assets/images/ruinlair.svg) ]
+Shadow-lands  | \[ ![](/assets/images/shadow-land.svg) ]  | Shadow-holds  | \[ ![](/assets/images/shadow-hold.svg) ]
+Dark-domains  | \[ ![](/assets/images/dark-domain.svg) ]  | Dark-holds |  \[ ![](/assets/images/dark-hold.svg) ]
+
+{: .d-xs-inline-block .d-sm-inline-block .d-md-none .d-lg-none .d-xl-none }
+| Region Type | Symbol |
+| ---: | :--- |
+Coastal Seas | \[ ![](/assets/images/coastalsea.svg) ] | 
+Free-domains |  \[ ![](/assets/images/free-domain.svg) ]  |
+Border-lands |  \[ ![](/assets/images/border-land.svg) ] | 
+Wilderness  |  \[ ![](/assets/images/wilderness.svg) ]  | 
+Shadow-lands  | \[ ![](/assets/images/shadow-land.svg) ]  | 
+Dark-domains  | \[ ![](/assets/images/dark-domain.svg) ]  | 
+
+{: .d-xs-inline-block .d-sm-inline-block .d-md-none .d-lg-none .d-xl-none }
+| Site Type | Symbol |
+| ---: | :--- |
+|  Havens  |  \[ ![](/assets/images/free-haven.svg) ]
+| Free-holds  | \[ ![](/assets/images/free-hold.svg) ]
+|  Border-holds  | \[ ![](/assets/images/border-hold.svg) ]
+| Ruins & Lairs  | \[ ![](/assets/images/ruinlair.svg) ]
+| Shadow-holds  | \[ ![](/assets/images/shadow-hold.svg) ]
+| Dark-holds |  \[ ![](/assets/images/dark-hold.svg) ]
  
- | Region Type | Symbol | Site Type | Symbol |
- | ---: | :--- | ---: | :--- |
- Coastal Seas | \[ ![](/assets/images/coastalsea.svg) ] |  Havens  |  \[ ![](/assets/images/free-haven.svg) ]
- Free-domains |  \[ ![](/assets/images/free-domain.svg) ]  | Free-holds  | \[ ![](/assets/images/free-hold.svg) ]
- Border-lands |  \[ ![](/assets/images/border-land.svg) ] |  Border-holds  | \[ ![](/assets/images/border-hold.svg) ]
- Wilderness  |  \[ ![](/assets/images/wilderness.svg) ]  | Ruins & Lairs  | \[ ![](/assets/images/ruinlair.svg) ]
- Shadow-lands  | \[ ![](/assets/images/shadow-land.svg) ]  | Shadow-holds  | \[ ![](/assets/images/shadow-hold.svg) ]
- Dark-domains  | \[ ![](/assets/images/dark-domain.svg) ]  | Dark-holds |  \[ ![](/assets/images/dark-hold.svg) ]
- 
- Each company moves by playing a new site card (face down). A company does not have to move during a given turn.
+Each company moves by playing a new site card (face down). A company does not have to move during a given turn.
 
  If the company's current site is a Haven, the new site card must list that Haven as its nearest Haven. If the company's current site is a non-haven site, the new site card must be the Haven listed as the nearest haven on the current site card.
 
