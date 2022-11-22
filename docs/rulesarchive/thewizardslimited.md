@@ -28,7 +28,7 @@ During the Third Age, the Valar sent five Maiar to Middle-earth to unite and cou
 
 In _Middle-earth: The Wizards_, you play one of these five Wizards. Your goal is to marshal the forces of the Free Peoples so that Sauron can be resisted until the One Ring is destroyed. Since your fellow Wizards do not agree on how to best accomplish this goal, you must battle for the minds, bodies, and souls of the Free Peoples.
 
-In _The Lord of the Rings_, Gandalf was the only Wizard to succeed. Saruman was corrupted by power, Radagast "went native," and Alatar and Pallando disappeared into the East. Only Gandalf remained true to his task, eventually marshaling the characters and forces that withstood Sauron's might long enough for the Fellowship to destroy the One Ring.
+In _The Lord of the Rings_, Gandalf was the only Wizard to succeed. Saruman was corrupted by power, Radagast "went native," and Alatar and Pallando disappeared into the East. Only Gandalf remained true to his task, eventually marshalling the characters and forces that withstood Sauron's might long enough for the Fellowship to destroy the One Ring.
 
 "Evil Forces" are represented by _hazards_ that the players use against one another. For example, if you move a character into Moria, your opponent could play a Troll card as a hazard. These hazards are not "controlled" by the Wizards, but rather they represent the forces of Sauron, who himself is in a "dormant" or hiding phase. The players are "good," so conflict takes the form of hazards and direct attempts to "persuade" or "dominate" each other and each other's characters and forces.
 
@@ -96,8 +96,8 @@ To get a general idea of how to play, read the Starter Rules sections that are m
  This council is called when one of the following occurs:
  - When each play deck has been exhausted once, the council starts at the end of the current turn.
  - After you have exhausted your play deck for the first time, you may choose to call the council at the end of any of your turns. The council starts at the end of your opponent's next turn (i.e., your opponent gets one last turn).
- - You may choose to call the council at the end of your turn if you have accumulated at least 20 marshaling points. The council starts at the end of your opponent's next turn (i.e., your opponent gets one last turn).
- > **Note:** _If one or both players only has access to a starter deck (76 cards), this requirement of 20 marshaling points should be lowered to 18._
+ - You may choose to call the council at the end of your turn if you have accumulated at least 20 marshalling points. The council starts at the end of your opponent's next turn (i.e., your opponent gets one last turn).
+ > **Note:** _If one or both players only has access to a starter deck (76 cards), this requirement of 20 marshalling points should be lowered to 18._
  
 #### The Free Council
 
@@ -122,7 +122,7 @@ Rules). Your cards are organized into two decks and three piles:
 _Location Deck_ — This deck consists of your site cards. You may examine and select cards from your location deck as required by play (i.e., do not randomly draw them). Your non-Haven site cards are sometimes discarded and placed in the discard pile.
  
 _Play Deck_ — This deck consists of your resource cards, hazards cards, and character cards. You randomly draw cards from this deck during play. Your play deck starts with an equal mix of resource cards and hazard cards.  
-You can use resources at certain sites and in certain conditions. Resources include: items, factions, allies, events, etc. _You may only play resource cards during your own turn._ You use hazards to hinder and attack your opponent's characters in order to prevent them from marshaling resources. _You may only play hazard cards during your opponent's movement/hazard phase._
+You can use resources at certain sites and in certain conditions. Resources include: items, factions, allies, events, etc. _You may only play resource cards during your own turn._ You use hazards to hinder and attack your opponent's characters in order to prevent them from marshalling resources. _You may only play hazard cards during your opponent's movement/hazard phase._
  
 _Discard Pile_ — Your discarded cards are placed face down in your discard pile. When your play deck is _exhausted_, the location cards in your discard pile are returned to the location deck and you shuffle the play cards and they become your new play deck.
  
@@ -387,7 +387,7 @@ The target's prowess may also be modified due to the play of certain resource an
 
 #### Defeating an Attack
 
- An attack by a hazard creature is defeated if all of its strikes directed against a company are defeated. If a defeated attack is a hazard creature, it is placed in the defender's marshaling point pile. The defender receives MPs for eliminating it.
+ An attack by a hazard creature is defeated if all of its strikes directed against a company are defeated. If a defeated attack is a hazard creature, it is placed in the defender's marshalling point pile. The defender receives MPs for eliminating it.
 
 #### Sequencing Strikes
 
@@ -549,9 +549,9 @@ You should read and master the Starter Rules before tackling the Standard Rules.
 
 The Standard Rules victory conditions differ from those found in the Starter Rules in two ways. First, certain modifications to the marshalling point totals can be made at the Free Council, and/or second, the players can decide to play a longer game.
 
-#### Marshaling Point Modifications
+#### Marshalling Point Modifications
 
-At the Free Council, you may reveal any unique marshaling point cards in your hand that match unique cards that your opponent has in play. Each such revealed card reduces your opponent's marshaling point total by one.
+At the Free Council, you may reveal any unique marshalling point cards in your hand that match unique cards that your opponent has in play. Each such revealed card reduces your opponent's marshalling point total by one.
  
 There are six different types of marshalling points; each is associated with a specific shape:
 
@@ -564,7 +564,7 @@ Ally Points | ![](/assets/images/allymp.svg)
 Kill Points | ![](/assets/images/killmp.svg)
 Miscellaneous Points | ![](/assets/images/miscmp.svg)
 
-These types of marshaling points can affect your marshaling point total in two ways:
+These types of marshalling points can affect your marshalling point total in two ways:
  
  - No more than half (round up[^roundup]) of your marshalling points can come from any one type of marshalling points.
  - If your opponent has zero (or negative) points for any one type of marshalling points, your points for that same type of marshalling points are doubled. This doesn't apply to kill points and miscellaneous points.
@@ -586,10 +586,10 @@ In addition to the normal location deck and play deck, you can have a 15 card "s
  - Whenever you exhaust your play deck, you may exchange (before reshuffling) up to 5 cards between your sideboard and discard pile.
  - During your organization phase, you may tap your Wizard to bring up to 5 resource and/or character cards from your sideboard into your discard pile.  
  
-           Alternatively, if your play deck has at least 5 cards, you may tap your Wizard to bring one resource card directly from your sideboard into your play deck (reshuffle).
+  Alternatively, if your play deck has at least 5 cards, you may tap your Wizard to bring one resource card directly from your sideboard into your play deck (reshuffle).
  - During your opponent's movement/hazard phase, you may tap one of your Nazgul permanent-events in play to bring up to 5 hazard cards from your sideboard into your discard pile. The normal result of tapping a Nazgul does not apply and the Nazgul is discarded. Tapping a Nazgul in this fashion _does_ count against the hazard limit.  
  
-           Alternatively, if your play deck has at least 5 cards, you may tap a Nazgul permanent-event to bring one hazard card directly from your sideboard into your play deck (reshuffle).
+  Alternatively, if your play deck has at least 5 cards, you may tap a Nazgul permanent-event to bring one hazard card directly from your sideboard into your play deck (reshuffle).
  
 ## 3 • GETTING READY TO PLAY
 
