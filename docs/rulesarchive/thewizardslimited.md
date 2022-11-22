@@ -284,28 +284,19 @@ graph TD
 
  In _METW_ the lands of northwest Middle-earth are represented by regions. The site cards represent places that characters can visit within those regions. Each company has a site card associated with it—the company is located at that site. Starting characters are brought into play at the Rivendell site.
 
- There are six types of regions and six types of sites:
+There are six types of regions and six types of sites:
 
-{: .d-xs-none .d-sm-none .d-md .d-lg .d-xl}
-| Region Type | Symbol | Site Type | Symbol |
-| ---: | :--- | ---: | :--- |
-Coastal Seas | \[ ![](/assets/images/coastalsea.svg) ] |  Havens  |  \[ ![](/assets/images/free-haven.svg) ]
-Free-domains |  \[ ![](/assets/images/free-domain.svg) ]  | Free-holds  | \[ ![](/assets/images/free-hold.svg) ]
-Border-lands |  \[ ![](/assets/images/border-land.svg) ] |  Border-holds  | \[ ![](/assets/images/border-hold.svg) ]
-Wilderness  |  \[ ![](/assets/images/wilderness.svg) ]  | Ruins & Lairs  | \[ ![](/assets/images/ruinlair.svg) ]
-Shadow-lands  | \[ ![](/assets/images/shadow-land.svg) ]  | Shadow-holds  | \[ ![](/assets/images/shadow-hold.svg) ]
-Dark-domains  | \[ ![](/assets/images/dark-domain.svg) ]  | Dark-holds |  \[ ![](/assets/images/dark-hold.svg) ]
-
-{: .d-xs .d-sm .d-md-none .d-lg-none .d-xl-none }
 | Region Type | Symbol |
-| ---: | :--- |
+| :--- | :--- |
 Coastal Seas | \[ ![](/assets/images/coastalsea.svg) ] 
 Free-domains |  \[ ![](/assets/images/free-domain.svg) ] 
 Border-lands |  \[ ![](/assets/images/border-land.svg) ]  
 Wilderness  |  \[ ![](/assets/images/wilderness.svg) ]   
 Shadow-lands  | \[ ![](/assets/images/shadow-land.svg) ]  
 Dark-domains  | \[ ![](/assets/images/dark-domain.svg) ]  
- **Site Type** | **Symbol** 
+
+| Site Type | Symbol |
+| :--- | :--- |
 Havens  |  \[ ![](/assets/images/free-haven.svg) ]
 Free-holds  | \[ ![](/assets/images/free-hold.svg) ]
 Border-holds  | \[ ![](/assets/images/border-hold.svg) ]
@@ -370,7 +361,7 @@ Normally a character that is the target of a strike is tapped after the strike i
 The target's prowess may also be modified due to the play of certain resource and hazard cards. Only one resource card requiring skill may be played against a given strike.
 
  | Condition | Modification to Target's Prowess |
- | ---: | :--- |
+ | :--- | :--- |
  Unwounded, tapped character | -1
  Wounded character | -2
  For each unused strike allocated (i.e., each extra strike) | -1
@@ -384,15 +375,15 @@ The target's prowess may also be modified due to the play of certain resource an
  Strikes are resolved one at a time as decided by the defending player. When you choose a strike to resolve, determine all of the factors affecting the strike before the roll is made.
 
  To resolve a strike, the defender makes a roll (2D6) and adds his modified prowess:
- - If the modified result is greater than the strike's prowess, the strike _fails_. Such a strike is defeated if its body attribute is "-" **or** if it has a body attribute and fails a body check.
+ - If the modified result is greater than the strike's prowess, the strike _fails_. Such a strike is defeated if its body attribute is "&ndash;" **or** if it has a body attribute and fails a body check.
  - If the modified result is equal to the strike's prowess, the strike was _ineffectual_ (i.e., a "tie" means that the strike is avoided but not defeated). 
  - Otherwise, the strike was _successful_ (i.e., the character was defeated). The target character is wounded and must make a body check.
  
 #### Body Checks
 
- If a strike against a character is successful, the character is wounded and must make a body check. To make a _body check_, the **attacker** makes a roll (2D6); if this value is greater than the character's _body attribute_, the character is eliminated. If the character was already wounded before this strike, the result is modified by +1.
+ If a strike against a character is successful, the character is wounded and must make a _body check_. To make a body check, the **attacker** makes a roll (2D6); if this value is greater than the character's _body attribute_, the character is eliminated. If the character was already wounded before this strike, the result is modified by +1.
 
- As presented above, a strike that fails is defeated if its body attribute is "-" **or** if it has a body attribute and fails a body check. To make such a body check, the **defender** makes a roll (2D6); if this value is greater than the strike's _body attribute_, the strike is defeated.
+ As presented above, a strike that fails is defeated if its body attribute is "&ndash;" **or** if it has a body attribute and fails a body check. To make such a body check, the **defender** makes a roll (2D6); if this value is greater than the strike's _body attribute_, the strike is defeated.
 
 #### Defeating an Attack
 
@@ -412,10 +403,11 @@ The target's prowess may also be modified due to the play of certain resource an
 
  If a hazard creature has multiple attacks, each must be defeated in order for the defender to receive the MPs.
  
- If one of the strikes was cancelled or ineffectual, the attack is not defeated. If the attack is cancelled, the attack is not defeated. A cancelled attack has no effect on the defending company.
+ If one of the strikes was cancelled or ineffectual, the attack is **not** defeated. If the attack is cancelled, the attack is **not** defeated. A cancelled attack has no effect on the defending company.
           
 **Example of Combat** _\[(#/#) means (prowess/body)]_
-_You control Bilbo (1/9), Balin (4/7) and his follower Bofur (4/7) (with Healing Herbs), Beretar (5/8), and Beregond (4/8) (with an Elven Cloak). They are en route from Rivendell to L˘rien. There are 4.5 characters in the company which rounds up to 5, meaning the hazard limit is 5._
+
+_You control Bilbo (1/9), Balin (4/7) and his follower Bofur (4/7) (with Healing Herbs), Beretar (5/8), and Beregond (4/8) (with an Elven Cloak). They are en route from Rivendell to Lorien. There are 4.5 characters in the company which rounds up to 5, meaning the hazard limit is 5._
 
 _Your opponent plays Orc-raiders. He keys this hazard creature to the border-land of your company's site path because he is mindful of Beregond's Elven Cloak (a minor item that cancels a strike keyed to wilderness). Bilbo, a scout, taps and plays Concealment to cancel the attack. That's 1 hazard down and potentially 4 to go._
 
@@ -438,7 +430,7 @@ Each character has a corruption point total. This starts at zero, but certain ca
 When a card indicates that one of your characters must make a corruption check, you must make a roll (2D6) and add any appropriate modifications:
 
  - If the modified result is greater than the character's corruption point total, nothing happens.
- - If the modified result is equal to the character's corruption point total or one less than the character's corruption point total, you must discard the character along with any non-follower cards he controls. In this case, if the character is a Wizard, you immediately lose the game.
+ - If the modified result is equal to the character's corruption point total **or** one less than the character's corruption point total, you must discard the character along with any non-follower cards he controls. In this case, if the character is a Wizard, you immediately lose the game.
  - Otherwise, the character is eliminated and you must discard any non-follower cards he controls. In this case, if the character is a Wizard, you immediately lose the game.
           
  As characters adventure in Middle-earth, they are subject to temptations. They run the risk of becoming corrupted and leaving the cause of the Free Peoples (i.e., a corrupted character leaves play, a corrupted Wizard loses the game). In _The Lord of the Rings_, Saruman was corrupted by power, Radagast was corrupted by the lure of nature, Alatar and Pallando succumbed to unrevealed corruptions and disappeared into the East.
@@ -447,7 +439,7 @@ When a card indicates that one of your characters must make a corruption check, 
 
 ## 9 • INFLUENCE
 
- You have a pool of general influence. Your characters and Wizard have direct influence. These two forms of influence can control and affect characters (see pages 14-15)[^characters] and factions.
+ You have a pool of general influence. Your characters and Wizard have direct influence. These two forms of influence can control and affect characters (see [pages 14-15](/rules-archive/the-wizards-limited#influencing-controlling-a-character)) and factions.
 
 #### Bringing an Ally into Play
 
@@ -483,7 +475,7 @@ A hazard limit can be modified by the play of certain cards. Tapping a Nazgul pe
 
 During your organization phase, you may _store_ any of your items that are at a Haven site. The controlling character must make a corruption check before an item can be stored.
 
-A stored item is placed in your _marshalling point pile_ and still counts for marshaling points. Once an item is stored it may not be unstored and brought back into play. The One Ring may not be stored.
+A stored item is placed in your _marshalling point pile_ and still counts for marshalling points. Once an item is stored it may not be unstored and brought back into play. The One Ring may not be stored.
 
 Some items and resource cards state that they can be stored when at a specific site (e.g., the Book of Mazarbul can be stored at a Dwarf-hold). Such an item or resource card is still placed in the marshalling point pile and cannot be brought back into play.
 
@@ -493,11 +485,11 @@ During your organization phase, you may transfer items between characters at the
 
 ### ACTIONS AND CARD PLAY
 
-The various activities that you and your opponent can perform during play are called actions. Typical actions include playing a card, tapping a card, revealing a card, etc. The following general guidelines apply to resolving actions; more detailed guidelines can be found on pages 39-41.[^playeringanddrawingcards]
+The various activities that you and your opponent can perform during play are called actions. Typical actions include playing a card, tapping a card, revealing a card, etc. The following general guidelines apply to resolving actions; more detailed guidelines can be found on [pages 39-41](rules-archive/the-wizards-limited#10--playing-and-drawing-cards-1).[^playinganddrawingcards]
 
  - You must give your opponent a chance to respond to every action, and vice versa. If you perform an action and move on to another action without giving your opponent a chance to respond, you must "backup" if he indicates that he wants to respond. A series of declared actions made in respond to one another is called a chain of effects. You always have the option of declaring the first action in a chain of effects during your turn. The actions in a chain of effects are resolved one at a time from last declared to first declared (i.e., the last declared action is resolved first, then the second to the last, etc.).
  - If the play of a card requires other actions (e.g., corruption checks), the actions are resolved in the order in which they appear on the card. 
- - A required or declared dice roll is a[^typo] action and can be the target of another action or effect declared later in the same chain of effects.
+ - A required or declared dice roll is a action and can be the target of another action or effect declared later in the same chain of effects.
  - When the effects of a dice roll require further actions (e.g., a roll for a strike requires a body check), those actions become the first actions (any further rolls come first) in the next chain of effects after the roll.
  
 ### HAZARD CARDS
@@ -512,7 +504,7 @@ You may use a creature card to _directly attack_ one of your opponent's companie
 - One of the site symbols on the creature's card matches the site that the company moved to (i.e., the new site) or stayed at (i.e., if the company did not move).
 - At least one of the region symbols on the creature's card matches one of the region types the company moved through this turn (see below). If the creature's card has two region symbols of the same type (i.e., a deep wilderness creature), then the company must have moved through at least two regions of that same type.
 
-If a creature satisfies more than one of these conditions, you must choose (when you play the creature) one of these conditions that the attack is "keyed to." The effects of certain cards are based upon the region or site type that a creature is keyed to.
+If a creature satisfies more than one of these conditions, you must choose (when you play the creature) one of these conditions that the attack is "keyed to." The effects of certain cards are based upon the region or site type that a creature is _keyed to_.
 
 The region types that a company moves through during a given turn are determined by the following criteria:
  
@@ -533,7 +525,7 @@ A character may only use the effects of one _weapon_ at a time **and** one _shie
 
 If a character is eliminated by corruption, discard all of the items that he controls. If a character is eliminated due to failing a body check, one item can be transferred to each unwounded character in his company; but, the rest of his items are discarded.
 
-**Factions** — One of your characters may tap to play a faction card if he is at the site specified on the faction card **and** the character successfully influences the faction as indicated on the faction's card (see page 28).[^influencefaction] The faction card is placed in your play area. After a faction is successfully played at a site, the site card is tapped.
+**Factions** — One of your characters may tap to play a faction card if he is at the site specified on the faction card **and** the character successfully influences the faction as indicated on the faction's card (see [page 28](/rules-archive/the-wizards-limited#bringing-a-faction-into-play)).[^influencefaction] The faction card is placed in your play area. After a faction is successfully played at a site, the site card is tapped.
 
 ### EVENTS
 
@@ -555,16 +547,16 @@ You should read and master the Starter Rules before tackling the Standard Rules.
 
 ## 1 • THE VICTORY CONDITIONS
 
-The Standard Rules victory conditions differ from those found in the Starter Rules in two ways. First, certain modifications to the marshaling point totals can be made at the Free Council, and/or second, the players can decide to play a longer game.
+The Standard Rules victory conditions differ from those found in the Starter Rules in two ways. First, certain modifications to the marshalling point totals can be made at the Free Council, and/or second, the players can decide to play a longer game.
 
 #### Marshaling Point Modifications
 
 At the Free Council, you may reveal any unique marshaling point cards in your hand that match unique cards that your opponent has in play. Each such revealed card reduces your opponent's marshaling point total by one.
  
-There are six different types of marshaling points; each is associated with a specific shape:
+There are six different types of marshalling points; each is associated with a specific shape:
 
 | Types of Marshalling Points | Shape |
-| ---: | :--- |
+| :--- | :--- |
 Character Points | ![](/assets/images/charactermp.svg)
 Item Points (Major, Greater, & Rings only) | ![](/assets/images/itemmp.svg)
 Faction Points | ![](/assets/images/factionmp.svg)
@@ -574,18 +566,18 @@ Miscellaneous Points | ![](/assets/images/miscmp.svg)
 
 These types of marshaling points can affect your marshaling point total in two ways:
  
- - No more than half (round up) of your marshaling points can come from any one type of marshaling points.
- - If your opponent has zero (or negative) points for any one type of marshaling points, your points for that same type of marshaling points are doubled. This doesn't apply to kill points and miscellaneous points.
+ - No more than half (round up[^roundup]) of your marshalling points can come from any one type of marshalling points.
+ - If your opponent has zero (or negative) points for any one type of marshalling points, your points for that same type of marshalling points are doubled. This doesn't apply to kill points and miscellaneous points.
  
 #### The Longer Games
 
 The Starter Game is also called the "1-deck game." For experienced players with tuned decks, this game usually lasts 20-60 minutes. If you want longer, more detailed play, there are 3 other games.
 
-In a "2-deck game" (the "short game"), the Council is called when each play deck has been exhausted twice. You may call the Council when your play deck has been exhausted twice, or when it has been exhausted once and you have at least 25 marshaling points (MPs).
+In a "2-deck game" (the "short game"), the Council is called when each play deck has been exhausted twice. You may call the Council when your play deck has been exhausted twice, or when it has been exhausted once and you have at least 25 marshalling points (MPs).
 
-In a "3-deck game" (the "long game"), the Council is called when each play deck has been exhausted three times. You may call the Council when your play deck has been exhausted three times, or when it has been exhausted twice and you have at least 30 marshaling points. Increase the sideboard size to 20 cards.
+In a "3-deck game" (the "long game"), the Council is called when each play deck has been exhausted three times. You may call the Council when your play deck has been exhausted three times, or when it has been exhausted twice and you have at least 30 marshalling points. Increase the sideboard size to 20 cards.
 
-In a "4-deck game" (i.e., the "campaign game"), the Council is called when each play deck has been exhausted four times. You may call the Council when your play deck has been exhausted four times, or when it has been exhausted three times and you have at least 40 marshaling points. Increase the sideboard size to 25 cards.
+In a "4-deck game" (i.e., the "campaign game"), the Council is called when each play deck has been exhausted four times. You may call the Council when your play deck has been exhausted four times, or when it has been exhausted three times and you have at least 40 marshalling points. Increase the sideboard size to 25 cards.
 
 ## 2 • THE CARDS AND DECKS
 
@@ -593,18 +585,19 @@ In addition to the normal location deck and play deck, you can have a 15 card "s
 
  - Whenever you exhaust your play deck, you may exchange (before reshuffling) up to 5 cards between your sideboard and discard pile.
  - During your organization phase, you may tap your Wizard to bring up to 5 resource and/or character cards from your sideboard into your discard pile.
- - Alternatively, if your play deck has at least 5 cards, you may tap your Wizard to bring one resource card directly from your sideboard into your play deck (reshuffle).
- - During your opponent's movement/hazard phase, you may tap one of your Nazgul permanent-events in play to bring up to 5 hazard cards from your sideboard into your discard pile. The normal result of tapping a Nazgul does not apply and the Nazgul is discarded. Tapping a Nazgul in this fashion does count against the hazard limit.
-  Alternatively, if your play deck has at least 5 cards, you may tap a Nazgul permanent-event to bring one hazard card directly from your sideboard into your play deck (reshuffle).
+           Alternatively, if your play deck has at least 5 cards, you may tap your Wizard to bring one resource card directly from your sideboard into your play deck (reshuffle).
+ - During your opponent's movement/hazard phase, you may tap one of your Nazgul permanent-events in play to bring up to 5 hazard cards from your sideboard into your discard pile. The normal result of tapping a Nazgul does not apply and the Nazgul is discarded. Tapping a Nazgul in this fashion _does_ count against the hazard limit.
+           Alternatively, if your play deck has at least 5 cards, you may tap a Nazgul permanent-event to bring one hazard card directly from your sideboard into your play deck (reshuffle).
  
 ## 3 • GETTING READY TO PLAY
 
 Add your region cards to your location deck.
-**Note:** _For play balance, we recommend both players have access to approximately the same number of region cards._
+
+> **Note:** _For play balance, we recommend both players have access to approximately the same number of region cards._
  
 ## 4 • THE PLAYER TURN
 
-The Standard Rules full turn sequence is presented on pages 44-46.[^fullsummary]
+The Standard Rules full turn sequence is presented on [pages 44-46](/rules-archive/the-wizards-limited#full-player-turn-summary).[^fullsummary]
  
 ## 5 • CHARACTERS & COMPANIES
 
@@ -894,8 +887,8 @@ The _METW Player Guide_ will provide detailed solitaire rules.
 16  | Gap of Isen  | ![](/assets/images/border-land.svg) | 42 |   Harondor  | ![](/assets/images/wilderness.svg)
 17 |  Anduin Vales  | ![](/assets/images/border-land.svg) | 43  |   Khand  | ![](/assets/images/shadow-land.svg)
 18 | Wold & Foothills  | ![](/assets/images/wilderness.svg) | 44 |  Imlad Morgul  | ![](/assets/images/shadow-land.svg)
-19 |   Fangorn  | ![](/assets/images/wilderness.svg) |  | 45   Udun  | ![](/assets/images/dark-domain.svg)
-20 |    Rohan  | ![](/assets/images/border-land.svg) | |  46   Gorgoroth   | ![](/assets/images/dark-domain.svg)
+19 |   Fangorn  | ![](/assets/images/wilderness.svg) | 45  | Udun  | ![](/assets/images/dark-domain.svg)
+20 |    Rohan  | ![](/assets/images/border-land.svg) | 46  | Gorgoroth   | ![](/assets/images/dark-domain.svg)
 21 | Grey Mountain Narrows  | ![](/assets/images/shadow-land.svg) | 47  |   Nurn  | ![](/assets/images/dark-domain.svg)
 22 | Woodland Realm  | ![](/assets/images/border-land.svg) |  48  | Elven Shores  | ![](/assets/images/coastalsea.svg)
 23 | Western Mirkwood  | ![](/assets/images/wilderness.svg) |  49  |Eriadoran Coast  | ![](/assets/images/coastalsea.svg)
@@ -1056,17 +1049,17 @@ _Unfinished Tales_ — Copyright © 1980 by George Allen & Unwin (Publishers) Lt
 
 <table><td><i>Address rules questions and comments via email to metwice@aol.com or via snail mail to our P.O. Box address. Look for METW discussion areas on your favorite on-line service and visit our home page on the WWW (url not available at press time).</i></td></table>
 
-[^bar]: This web version of the rules is not marked with bars. See the pdf of the _The Wizards Limited_ Rulesbook.
+[^bar]: This web version of the rules is not marked with bars. See the printed _The Wizards Limited_ Rulesbook.
 [^randomvalue]: This method of obtaining a random value is not permitted in tournament play and it is not used in casual play. Instead, download a dice rolling application on your mobile device.
-[^corrupted]: Your opponent wins if your Wizard would be discarded (not just eliminated) by corruption. See 8 • CORRUPTION
+[^corrupted]: Your opponent wins if your Wizard would be discarded (not just eliminated) by corruption. See [8 • CORRUPTION](/rules-archive/the-wizards-limited#corruption-checks)
 [^30cards]: The minimum number of hazard/resource cards was increased to 30 for tournament play. See the Tournament Policy
-[^fullsummary]: See the Full Player Turn Summary
-[^characters]: See sectin 5 on characters and companies
-[^playeringanddrawingcards]: See standard rules section 10 playing and drawing cards
-[^influencefaction]: See starter section 9 on influence
+[^fullsummary]: See the [Full Player Turn Summary](/rules-archive/the-wizards-limited#full-player-turn-summary).
+[^playinganddrawingcards]: See standard rules section [10 PLAYING AND DRAWING CARDS](/rules-archive/the-wizards-limited#10--playing-and-drawing-cards-1).
+[^influencefaction]: See [Bringing a Faction into Play](/rules-archive/the-wizards-limited#bringing-a-faction-into-play).
 [^gundabad]: Gundabad is a ![](/assets/images/dark-domain.svg), not a ![](/assets/images/wilderness.svg). 
 [^highpass]: High Pass is a ![](/assets/images/wilderness.svg), not a ![](/assets/images/dark-domain.svg)
 [^m-h-shortsummary]: Except if the new site is a haven then you draw based on the site of origin instead. See the [Movement/Hazard Phase](/rulesarchive/the-wizards-limited#movementhazard-phase) in the Full Turn Summary.
 [^typo]: A typographical error in the original text.
 [^healallies]: Allies at a Haven also heal from wounded to tapped. This is because allies are characters for purposes of combat and so allies count as characters for purposes of being wounded in combat and for purposes of healed for combat.
 [^still-wounded]: A character taking the -3 modification to prowess will still be wounded if the strike against that character is successful (i.e., the modified roll against the strike is lower than the strike's prowess).
+[^roundup]: There is never a need to round up. Instead, reduce the points of the type that is over half to be equal to the combined total points of the other types. For example, if you have 33 MPs with 10 MP from characters, 20 MP from items, and 3 MP from factions, then the 20 item MP are over half of your total of 33 MP. The 20 item MP are reduced to 13 MP (equal to 10 character MP + 3 faction MP).
