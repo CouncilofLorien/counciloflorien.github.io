@@ -584,12 +584,10 @@ In a "4-deck game" (i.e., the "campaign game"), the Council is called when each 
 In addition to the normal location deck and play deck, you can have a 15 card "sideboard" deck. A sideboard can contain resource, hazard, and character cards. However, the combined play deck and sideboard can only contain one of each unique card and a maximum of three of any non-unique card.
 
  - Whenever you exhaust your play deck, you may exchange (before reshuffling) up to 5 cards between your sideboard and discard pile.
- - During your organization phase, you may tap your Wizard to bring up to 5 resource and/or character cards from your sideboard into your discard pile.  
- 
-  Alternatively, if your play deck has at least 5 cards, you may tap your Wizard to bring one resource card directly from your sideboard into your play deck (reshuffle).
- - During your opponent's movement/hazard phase, you may tap one of your Nazgul permanent-events in play to bring up to 5 hazard cards from your sideboard into your discard pile. The normal result of tapping a Nazgul does not apply and the Nazgul is discarded. Tapping a Nazgul in this fashion _does_ count against the hazard limit.  
- 
-  Alternatively, if your play deck has at least 5 cards, you may tap a Nazgul permanent-event to bring one hazard card directly from your sideboard into your play deck (reshuffle).
+ - During your organization phase, you may tap your Wizard to bring up to 5 resource and/or character cards from your sideboard into your discard pile.
+   Alternatively, if your play deck has at least 5 cards, you may tap your Wizard to bring one resource card directly from your sideboard into your play deck (reshuffle).
+ - During your opponent's movement/hazard phase, you may tap one of your Nazgul permanent-events in play to bring up to 5 hazard cards from your sideboard into your discard pile. The normal result of tapping a Nazgul does not apply and the Nazgul is discarded. Tapping a Nazgul in this fashion _does_ count against the hazard limit.
+   Alternatively, if your play deck has at least 5 cards, you may tap a Nazgul permanent-event to bring one hazard card directly from your sideboard into your play deck (reshuffle).
  
 ## 3 • GETTING READY TO PLAY
 
@@ -653,9 +651,7 @@ Before the roll is made for a corruption check, you may tap characters in the sa
 
 ## 9 • INFLUENCE
 
-Influence is the only way that your characters can directly affect your opponent's resources. During your site phase, one and only one of your
-characters may tap to attempt to influence away one of your opponent's characters, followers, allies, factions, or items. This may only take place if
-the influencing character and the target of the influence are at the same site. If you successfully influence the target, it is discarded. In some cases, you may reveal an identical card and attempt to play it (i.e., he convinces the target to join his side).
+Influence is the only way that your characters can directly affect your opponent's resources. During your site phase, one and only one of your characters may tap to attempt to influence away one of your opponent's characters, followers, allies, factions, or items. This may only take place if the influencing character and the target of the influence are at the same site. If you successfully influence the target, it is discarded. In some cases, you may reveal an identical card and attempt to play it (i.e., he convinces the target to join his side).
 
 Such an influence attempt may not be made on the first turn, and a Wizard may not make such an attempt on the turn he is revealed.
 
@@ -665,9 +661,8 @@ Such an influence attempt may not be made on the first turn, and a Wizard may no
  
  - Add the influencing character's unused direct influence.
  - Subtract your opponent's unused general influence points.
- - Subtract the result of a roll (2D6) made by your opponent .
- - Add any other modifications (from cards and special abilities).  
-   All modification cards must be played before making the roll.
+ - Subtract the result of a roll (2D6) made by your opponent.
+ - Add any other modifications (from cards and special abilities). All modification cards must be played before making the roll.
  
 If the modified result is greater than the target's mind attribute, the target character card and all of the non-follower cards he controls are discarded. Otherwise, nothing happens.
 
