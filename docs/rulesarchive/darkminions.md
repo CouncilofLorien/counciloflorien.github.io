@@ -3,7 +3,7 @@ layout: default
 title: Dark Minions
 parent: Rules Archive
 nav_order: 4
-permalink: /rulesarchive/dark-minions
+permalink: /rules-archive/dark-minions
 search_exclude: true
 ---
 
