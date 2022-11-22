@@ -16,12 +16,11 @@ search_exclude: true
 {:toc}
 </details>
 
-{: .fs-7 .fw-700 .text-center }
-MIDDLE-EARTH: THE DRAGONS
+# MIDDLE-EARTH: THE DRAGONS
 
 This insert provides expansion rules, clarifications, and a scenario for use with both _Middle-earth: The Wizards_ (_METW_) and _Middle-earth: The Dragons_ (_METD_). These rules are recommended for all _METW_ games even if _METD_ is not used.
 
-## KEY WORDS AND TERMS (_Clarification_)
+### KEY WORDS AND TERMS (_Clarification_)
 
 A "key word" is an identifier for a card which makes it affectable by or usable with other cards as the cards' text dictate. For example, in _METW_, key words include: Orc, spell, environment, Dragon, Undead, Wolves, etc.
 
@@ -29,7 +28,7 @@ _Middle-earth: The Dragons_ introduces several "key words" to the Middle-earth c
 
 A "bearer" of a specific card refers to the character that bears or controls that card.
 
-## DRAGON LAIRS
+### DRAGON LAIRS
 
 Any site with a Dragon automatic-attack is a Dragon's lair. There are nine unique Dragons associated with the following lairs:
 
@@ -45,14 +44,14 @@ Scatha  |  Gondmaeglom  |  Grey Moumain Narrows
 Scorba  | Zarak Dum  | Angmar
 Smaug  |  The Lonely Mountain  |  Northern Rhovanion
 
-## HOARDS
+### HOARDS
 
 Certain items are hoard items. Such an item may only be played at a site that contains a hoard. Each site with a Dragon automatic-attack (i.e., each Dragon's lair) contains a hoard. A hoard minor item may not be included with a starting company, and may not be played at a site that does not contain a hoard.
 
 {: .note }
 > **Example:** You can not play a hoard minor item at Wellinghall after successfully influencing the _Ents of Fangorn_ like you can with a normal minor item. Wellinghall does not contain a hoard.
 
-## MANIFESTATIONS OF DRAGONS
+### MANIFESTATIONS OF DRAGONS
 
 Each of the nine unique Dragons (see above) has three different manifestations:
 
@@ -78,15 +77,15 @@ If at any time an attack from a manifestation of a unique Dragon is defeated or 
 > 
 > If, instead, one of your own companies hdd gone to The Lonely Mountain and defeated _Smaug at Home_, you ,vould not receive the 5 MPs.
 
-## HAZARD LIMIT (_Clarification_)
+### HAZARD LIMIT (_Clarification_)
 
 The base hazard limit is determined (i.e., set) simultaneously at the moment a company reveals its new site or otherwise announces it is beginning its movement/hazard phase. Any cards which modify a company's hazard limit played prior to this point are then immediately applied to the company's base hazard limit in the order chosen by the player controlling the company. With such modifications established, any cards played after this point are interpreted in the order they are resolved. Any effects which modify the hazard limit against a company during its site phase are ignored. Any reduction in the hazard limit during a movement/hazard phase does not affect cards already announced and played.
 
-## CHARACTERS FACING MULTIPLE STRIKES
+### CHARACTERS FACING MULTIPLE STRIKES
 
 When certain Middle-earth: The Dragons cards are played, a character may be assigned to receive more than one strike from a given attack. Such a character must face a strike sequence for each strike he is assigned to face. If a character is tapped or wounded following one of these strike sequences, he must then accordingly modify his prowess for any following strike sequences. If a character is eliminated or otherwise removed from play before he has faced all of his assigned strikes, those strikes he has yet to face are then considered to be cancelled (i.e., they have no further effect).
 
-## REMOVING CORRUPTION CARDS
+### REMOVING CORRUPTION CARDS
 
 A character may choose to ignore the restriction that he tap to remove a corruption card (as printed on a corruption card). and suffer a -3 penalty to the dice roll to remove it. This means a character can remain untapped and still attempt to remove a corruption card (the roll is modified by -3), or that he can attempt to remove a corruption card even if he is already tapped or wounded (the roll is modified by -3). 
 A character may only attempt to remove each corruption card once per turn if he ignores the tapping restriction to do so.
@@ -94,18 +93,17 @@ A character may only attempt to remove each corruption card once per turn if he 
 {: .note }
 > **Example:** During his organization phase, Beorn has 3 corruption cards: _Lure of Nature_, _Lure of Expedience_, and _Lure of the Senses_. He taps and rolls to attempt to remove the _Lure of the Senses_; his roll is an 8, so the card is removed (greater than 6 was required). If, instead, Beorn had not tapped for this attempt, he would have failed (he would have needed to roll a 10 or better). He then rolls to attempt to remove _Lure of Nature_; his roll is a 6 modified by -3 for a net result of 3, so the card is **not** removed (greater than 4 was required). Finally, he rolls to attempt to remove _Lure of Expedience_; his roll is a 9 modified by -3 for a net result of 6, so the card is removed (greater than 5 was required). 
 
-## THE SIDEBOARD
+### THE SIDEBOARD
 
 With the publication of _Middle-earth: The Dragons_, the number of different resource and hazard strategies increases dramatically. To enable players to react to more specific strategies during play, the sideboard size is increased by five (e.g., from 15 to 20 for the 1-deck and 2-deck games, from 20 to 25 for the 3-deck game, etc.).[^sideboard]
 At the end of yonr opponent's untap phase, if your opponent's Wizard is in play, you may at this point bring up to five hazard cards from your sideboard to your discard pile; or, if your play deck has at least 5 cards, you may bring one hazard card directly from your sideboard into your play deck (reshuffle). If you move cards from your sideboard in this fashion, the hazard limit for each of your opponent"s companies is reduced to half of normal (round up, e.g., a hazard limit of 2 becomes l, a hazard limit of 3 becomes 2, etc.).
 
-## REGION MOVEMENT LIMITATION
+### REGION MOVEMENT LIMITATION
 
 Normally, a company moving with region movement may lay down a maximum of four region cards. If a company moving with region movement is using effects that allows additional region cards to be laid down, no more than six regions may be used.
 
 [^sideboard]: The sideboard size was increased several times over the game's life. The final increase came with _Middle-earth: The White Hand_ which increased the sideboard to 30 cards for 1-deck and 2-deck games.
 
-{: .text-center }
 # MANY A GLEAMING GOLDEN HOARD
 
 {: .text-center }
@@ -126,7 +124,7 @@ Each player is attempting to acquire and store "lost treasures." A lost treasure
 
 The first player to store five lost treasures wins immediately. If both players have a limited collect ion of MED cards or want to play a shorter game, this requirement can be reduced to only 2, 3, or 4 lost treasures. For a longer game, you can require that the winner also defeat one or two unique Dragons.
 
-# Credits
+## CREDITS
 
 **Art Director:** Jessica Ney-Grimm  
 **Base System Design:** Coleman Charlton  
@@ -142,16 +140,3 @@ Proofreading: D. Begiebing, J. Curtis III, W. Frazer, J. Ney-Grimm, D. Platnick
 **Playtesting Credits:** The Arcane Circle. Deb Baedke, Neal Baedke, Richard Clyne, Eric DeBlackmere, B. Dietrich, Scott Forehand, S. Frazer. W. Frazer, A. Gunther, Joel Hedges, Larry Hughes, Mike Lowery, Todd McGovern, Eric McLuen, John Miceli, B. Mohney, C. O'Brien, Elmar Perkuhn, E. Peterson, Harry Schifflet, James Stellmach, Michael Sloan, Jimmy Twofeathers,
 J. Whitehouse, Jon Whitney, and Mark Wightman  
 **Additional credits** can be found in the _Middle-earth: The Wizards_ rulesbook (due to space limitations, we were unable to include them here).
-
-{: .fs-2 }
-_Middle-earth: The Dragons_ is a set of expansion cards for _Middle-earth: The Wizards_, a collectible card game produced by Iron Crown Enterprises, Inc. (ICE), Charlottesville, Virginia USA, the exclusive holder of the worldwide adventure games license based on J.R.R. Tolkien's _The Hobbit_ and _The Lord of the Rings_.  
-Copyright © 1995, 1996 Tolkien Enterprises, a division of The Saul Zaentz Company, Berkeley, CA. _Middle-earth: The Dragons_, _Middle-earth: The Wizards_, _Middle-earth_, _The Hobbit_, _The Lord of the Rings_, and _The Return of the King_, and all characters and places therein, and the Burning Eye are trademark properties of Tolkien Enterprises. All rights reserved.  
-_The Fellowship of the Ring_ — Copyright © 1955, 1965 by J.R.R. Tolkien. Copyright © renewed 1982 by Christopher R. Tolkien, Michael H.R. Tolkien, John F.R. Tolkien and Priscilla M.A.R. Tolkien.  
-_The Hobbit_ — Copyright © 1937, 1938, 1966 by J.R.R. Tolkien.  
-_The Two Towers_ — Copyright © 1954, 1965 by J.R.R. Tolkien. Copyright © renewed 1982 by Christopher R. Tolkien, Michael H.R. Tolkien, John F.R. Tolkien and Priscilla M.A.R. Tolkien.   
-_The Return of the King_ — Copyright © 1955, 1965 by J.R.R. Tolkien. Copyright © renewed 1983 by Christopher R. Tolkien, Michael H.R. Tolkien, John F.R. Tolkien and Priscilla M.A.R. Tolkien.  
-_Unfinished Tales_ — Copyright © 1980 by George Allen & Unwin (Publishers) Ltd.  
-The characters "Alatar" and "Pallando" appear in _Unfinished Tales_. They appear here with specific permission of the Estate of J. R. R. Tolkien. The copyright to _Unfinished Tales_ is held by HarperCollins Publishers, in succession to George Allen & Unwin (Publishers) Ltd. and on behalf of Christopher Reuel Tolkien and Frank Richard Williamson, the Executors of the Estate of J.R.R. Tolkien.  
-The character symbols ( ![](/assets/images/di.svg) ![](/assets/images/mind.svg) ), region symbols ( ![](/assets/images/coastalsea.svg) ![](/assets/images/free-domain.svg) ![](/assets/images/border-land.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg) ![](/assets/images/wilderness.svg) ), and site symbols( ![](/assets/images/free-haven.svg) ![](/assets/images/free-hold.svg) ![](/assets/images/border-hold.svg) ![](/assets/images/shadow-hold.svg) ![](/assets/images/dark-hold.svg) ![](/assets/images/ruinlair.svg) ) are trademark properties of Iron Crown Enterprises. All rights reserved.  
-_Middle-earth: The Dragons_ is made for ICE in Belgium by Carta Mundi.
- 
