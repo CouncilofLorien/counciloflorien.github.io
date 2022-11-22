@@ -809,7 +809,7 @@ The _METW Player Guide_ will provide detailed solitaire rules.
 ## MAP INDEX
 
 | # | Region Name | Type |
-| ---: | :---: | :--- |
+| ---: | :--- | :--- |
 1 | Lindon   | ![](/assets/images/free-domain.svg)
 2 | Numeriador  | ![](/assets/images/wilderness.svg)
 3 | Forochel   | ![](/assets/images/wilderness.svg)
@@ -849,7 +849,7 @@ The _METW Player Guide_ will provide detailed solitaire rules.
 37 |   Lamedon  | ![](/assets/images/border-land.svg)
 38  |  Belfalas  | ![](/assets/images/free-domain.svg)
 39 |   Lebennin  | ![](/assets/images/free-domain.svg)
-40 |   An¢rien  | ![](/assets/images/free-domain.svg)
+40 |   Anorien  | ![](/assets/images/free-domain.svg)
 41 |   Ithilien  | ![](/assets/images/wilderness.svg)
 42 |   Harondor  | ![](/assets/images/wilderness.svg)
 43  |   Khand  | ![](/assets/images/shadow-land.svg)
@@ -890,7 +890,7 @@ Each of your companies may do one of the following:
 
  - Stay at its current site.
  - Play another site (face down) that can be moved to directly from the company's current site (i.e., its site of origin).
- - _Standard Rules Only:_ Play a new site card and a series of up to four specific regions that connect the current site with the new site. (See Page 36.)
+ - _Standard Rules Only:_ Play a new site card and a series of up to four specific regions that connect the current site with the new site. (See [Page 36](/rules-archive/the-wizards-limited#6--movement-1).)
  
 #### Long-event Phase
 
@@ -922,10 +922,9 @@ Follow this procedure for each of your companies. You decide which of your compa
  - do nothing **or** follow this procedure:
    1. You decide to enter and explore the site.
    2. If the site has an automatic-attack, it attacks the company.
-   3. The company may attempt to play one item, ally, faction, or information resource card that is "playable" at that site. Generally, this will involve tapping the character that will control the card played. If the resource card is successfully played, the site card is tapped **and** one additional character may tap to play a minor item.
-   Certain resource cards other than items, allies, factions, and information will state under what conditions they may be played. Such cards may be played at tapped and untapped sites, and do not tap a site when played. 
+   3. The company may attempt to play one item, ally, faction, or information resource card that is "playable" at that site. Generally, this will involve tapping the character that will control the card played. If the resource card is successfully played, the site card is tapped **and** one additional character may tap to play a minor item.<br>Certain resource cards other than items, allies, factions, and information will state under what conditions they may be played. Such cards may be played at tapped and untapped sites, and do not tap a site when played. 
   
-  _Standard Rules Only:_ One of your characters or your Wizard may attempt to influence away of one of your opponent's characters, followers, allies, factions, or items. See Pages 37-38.
+  _Standard Rules Only:_ One of your characters or your Wizard may attempt to influence away of one of your opponent's characters, followers, allies, factions, or items. See [Pages 37-38](/rules-archive/the-wizards-limited#9--influence-1).
  
 #### End-of-Turn Phase
 
@@ -934,7 +933,7 @@ You may discard one card. Then you must draw or discard cards until your hand ha
 ## SYMBOL KEY
 
 | Region Type | Symbol |
-| ---: | :--- |
+| :--- | :--- |
 Coastal Seas |   ![](/assets/images/coastalsea.svg)
 Free-domains |   ![](/assets/images/free-domain.svg)
 Border-lands |   ![](/assets/images/border-land.svg)
@@ -943,7 +942,7 @@ Shadow-lands |   ![](/assets/images/shadow-land.svg)
 Dark-domains  |  ![](/assets/images/dark-domain.svg)
 
 | Site Type | Symbol |
-| ---: | :--- |
+| :--- | :--- |
  Havens  |   ![](/assets/images/free-haven.svg)
  Free-holds  |  ![](/assets/images/free-hold.svg)
  Border-holds  |  ![](/assets/images/border-hold.svg)
@@ -952,14 +951,14 @@ Dark-domains  |  ![](/assets/images/dark-domain.svg)
  Dark-holds   | ![](/assets/images/dark-hold.svg)
  
  |  Other  |  Symbol | 
- | ---: | :--- |
+ | :--- | :--- |
  Mind   |  ![](/assets/images/mind.svg)
  Direct Influence  |  ![](/assets/images/di.svg)
  
 ## COMBAT MODIFICATIONS
 
 | Condition  |  Modification to Target's Prowess |
-| ---: | :--- |
+| :--- | :--- |
  Unwounded, tapped character |  -1
  Wounded character      |  -2
  For each unused strike allocated  |  -1
@@ -997,24 +996,13 @@ Dark-domains  |  ![](/assets/images/dark-domain.svg)
 **Rules Production:** Coleman Charlton, Nick Morawitz, Pete Fenlon  
 **Symbols:** Derek Carbonneau, Pete Fenlon, Nick Morawitz  
 **Logo:** David Martin, Derek Carbonneau  
-**Proofreading:** Deane Begiebing, Pete Fenlon, Olivia Johnston, Heike Kubasch, Dave Platnick, Mike Reynolds, Monica Wilson  
+**Proofreading:** Deane Begiebing, Pete Fenlon, Olivia Johnston, Heike Kubasch, Dave Platnick, Mike Reynolds, Monica Wilson 
 **Special Contributions:** Derek Carbonneau, DPP, Thomas Graves, KCJ, Liz Leonard, Ken McGlothlen, Jesper Myrfors, Bruce Neidlinger, Jeffrey Ney-Grimm, Lou Rexing, Michael Sloan, Robin Swope, James Whitehouse, Janet Winter, Wayne Young, and friends & families  
 **Special Thanks:** Peter Adkison, Laurie Battle, Will & Schar Niebling, Danny Kilbert, Bob Carty, Mike Davis, Lou Rexing, Wayne Godfrey, Gary E. Smith, the Chessex crews, the InQuest crew and our on-line friends, especially the {TFF Folder}.  
 **Playtesting Credits:** James Andrews, Christian Antonini, Kevin Barrett, D. Begiebing, Guy Botero, Brian Bouton, Jay Bryan, Brian Carr, Waldon Chisholm, Silvio Negri Clementi, Frank Coker, Jessica Colborn, R. Mark Colborn, Philip DeLuca, D. Dennis, Bernd Dietrich, Bill Edwards, O. Estefania, Klaus Etzold, Andrea Fattori, K. Fischer, Luigi Lo Forti, Scott Frazer, Wendy Frazer, Madai Frey, Matthew Fulton, Kevin Garber, Eduard Garcia, David Glenn, Jesse Goldstein, O. Johnston, Robert Kelly, Ralph Kennedy, Oscar Lafuente, Nick Laiacona, Steve Marvin, F. Navarro, Will Niebling, William Niebling, Elmar Perkuhn, D. Platnick, Frank Pfeifer, Jeffrey C. Riley, Cory John Rueb, Francesc Matas Salla, Doug Schnur, Jason Smith, Lowell Stouder, Henri Jean Vanaise, J.L. Viadel, D. Villanueva, Dave Weinstein, James Whitehouse, M. Wilson, Darrell Zuercher, Steven Balbo & "The Arcane Circle," J.L. Martinez & the Heroe Research Group, the Berkeley Games crew.
 
-{: .fs-2 }
-_Middle-earth: The Wizards_ is a collectible card game produced by Iron Crown Enterprises, Inc. (ICE), Charlottesville, Virginia USA, the exclusive holder of the worldwide adventure games license based on J.R.R. Tolkien's _The Hobbit_ and _The Lord of the Rings_.  
-Copyright © 1995 Tolkien Enterprises, a division of The Saul Zaentz Company, Berkeley, CA. _Middle-earth: The Wizards_, _Middle-earth_, _The Hobbit_, _The Lord of the Rings_, and _The Return of the King_, and all characters and places therein, and the Burning Eye are trademark properties of Tolkien Enterprises.  
-The characters "Alatar" and "Pallando" appear in _Unfinished Tales_. They appear here with specific permission of the Estate of J. R. R. Tolkien. The copyright to _Unfinished Tales_ is held by HarperCollins Publishers, in succession to George Allen & Unwin (Publishers) Ltd. and on behalf of Christopher Reuel Tolkien and Frank Richard Williamson, the Executors of the Estate of J.R.R. Tolkien. 
-_Middle-earth: The Wizards_ is made for ICE in Belgium by Carta Mundi.  
-The character symbols ( ![](/assets/images/di.svg) ![](/assets/images/mind.svg) ), region symbols ( ![](/assets/images/coastalsea.svg) ![](/assets/images/free-domain.svg) ![](/assets/images/border-land.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg) ![](/assets/images/wilderness.svg) ), and site symbols( ![](/assets/images/free-haven.svg) ![](/assets/images/free-hold.svg) ![](/assets/images/border-hold.svg) ![](/assets/images/shadow-hold.svg) ![](/assets/images/dark-hold.svg) ![](/assets/images/ruinlair.svg) ) are trademark properties of Iron Crown Enterprises. All rights reserved.  
-_The Fellowship of the Ring_ — Copyright © 1955, 1965 by J.R.R. Tolkien. Copyright © renewed 1982 by Christopher R. Tolkien, Michael H.R. Tolkien, John F.R. Tolkien and Priscilla M.A.R. Tolkien.  
-_The Hobbit_ — Copyright © 1937, 1938, 1966 by J.R.R. Tolkien.  
-_The Two Towers_ — Copyright © 1954, 1965 by J.R.R. Tolkien. Copyright © renewed 1982 by Christopher R. Tolkien, Michael H.R. Tolkien, John F.R. Tolkien and Priscilla M.A.R. Tolkien.   
-_The Return of the King_ — Copyright © 1955, 1965 by J.R.R. Tolkien. Copyright © renewed 1983 by Christopher R. Tolkien, Michael H.R. Tolkien, John F.R. Tolkien and Priscilla M.A.R. Tolkien.  
-_Unfinished Tales_ — Copyright © 1980 by George Allen & Unwin (Publishers) Ltd.  
-
-<table><td><i>Address rules questions and comments via email to metwice@aol.com or via snail mail to our P.O. Box address. Look for METW discussion areas on your favorite on-line service and visit our home page on the WWW (url not available at press time).</i></td></table>
+{: .note }
+_Address rules questions and comments via email to metwice@aol.com or via snail mail to our P.O. Box address. Look for METW discussion areas on your favorite on-line service and visit our home page on the WWW (url not available at press time[^url])._
 
 [^bar]: This web version of the rules is not marked with bars. See the printed _The Wizards Limited_ Rulesbook.
 [^randomvalue]: This method of obtaining a random value is not permitted in tournament play and it is not used in casual play. Instead, download a dice rolling application on your mobile device.
@@ -1031,3 +1019,4 @@ _Unfinished Tales_ — Copyright © 1980 by George Allen & Unwin (Publishers) Lt
 [^still-wounded]: A character taking the -3 modification to prowess will still be wounded if the strike against that character is successful (i.e., the modified roll against the strike is lower than the strike's prowess).
 [^roundup]: There is never a need to round up. Instead, reduce the points of the type that is over half to be equal to the combined total points of the other types. For example, if you have 33 MPs with 10 MP from characters, 20 MP from items, and 3 MP from factions, then the 20 item MP are over half of your total of 33 MP. The 20 item MP are reduced to 13 MP (equal to 10 character MP + 3 faction MP).
 [^udun]: It is not normally possible to use region movement that "passes through" Udun since Udun is only adjacent to Gorgoroth (for Wizard players). However, the resource card _Morannon_ may be used as a site in Udun and a company may move from there to Gorgoroth under this rule.
+[^url]: The URL would be www.ironcrown.com. Several archives of ICE's website are hosted by web.archive.org. As an example, there is an [archive from 21 Feb 1999](https://web.archive.org/web/19990221081226/http://ironcrown.com:80/), which is before ICE lost their license from Tolkien Enterprises and took down all MECCG content in September 1999.
