@@ -37,7 +37,7 @@ In _The Lord of the Rings_, Gandalf was the only Wizard to succeed. Saruman was 
 The rules for playing the _Middle-earth: The Wizards_ (_METW_) game are organized into four parts:
 
 _The Starter Rules_ — These rules contain all of the guidelines you need to play _METW_. These rules have been designed to simplify teaching the game and to speed up play. You should use the Starter Rules if you and your opponent have never played this game before **or** if one of you only has access to a starter deck (76 cards).  
-If you are already an experienced player of collectible card games, you can initially read the next couple of pages and the sections marked with a bar on one side[^bar]. Then, as you play, you can refer to the other sections that detail the more complex rules and special situations that can arise during play.
+If you are already an experienced player of collectible card games, you can initially read the next couple of pages and the sections marked with a bar on one side.[^bar] Then, as you play, you can refer to the other sections that detail the more complex rules and special situations that can arise during play.
 
 _The Standard Rules_ — These rules assume you have already played several games using the Starter Rules. The Standard Rules consist of additions and  extensions to the Starter Rules that make play and deck building more flexible, exciting, and interesting. We recommend that experienced _METW_ players use all of the Standard Rules.
 
@@ -57,7 +57,7 @@ _Organization Phase_ — You take the following actions in any order: play one c
 
 _Long-event Phase_ — Remove all of your resource long-events already in play. Play any new resource long-event cards. Remove all of your opponent's hazard long-events.
 
-_Movement/Hazard Phase_ — One at a time, each of your companies takes the following actions. The company turns over its new site card (if it has one). Then, each player draws cards as indicated on a new site card. Next, your opponent may play hazard cards on the company; the maximum number of hazards that may be played on a company is equal to the the size of the company (to a minimum of two). Finally, remove the old site card and each player discards or draws so that he has eight cards in his hand.
+_Movement/Hazard Phase_ — One at a time, each of your companies takes the following actions. The company turns over its new site card (if it has one). Then, each player draws cards as indicated on a new site card.[^m-h-shortsummary] Next, your opponent may play hazard cards on the company; the maximum number of hazards that may be played on a company is equal to the the size of the company (to a minimum of two). Finally, remove the old site card and each player discards or draws so that he has eight cards in his hand.
  
 _Site Phase_ — One at a time, each of your companies _may_ take the following actions at its current, untapped site. The company decides to enter and explore the site. If the site has an automatic-attack, it attacks the company. The company may attempt to play one item, ally, faction, or information resource card that is "playable" at that site. A character in the company must tap to make this attempt. If the card is successfully played, tap the site.
  
@@ -78,7 +78,7 @@ _End-of-Turn Phase_ — Each player may discard one card. Then each player must 
 
 # • PART I •<br/>THE STARTER RULES
         
-To get a general idea of how to play, read the Starter Rules sections that are marked with a bar on one side[^bar]. Later you can refer to the other sections for more information on special situations.
+To get a general idea of how to play, read the Starter Rules sections that are marked with a bar on one side.[^bar] Later you can refer to the other sections for more information on special situations.
 
 #### Random Values
 
@@ -1050,3 +1050,4 @@ _Unfinished Tales_ — Copyright © 1980 by George Allen & Unwin (Publishers) Lt
 [^influencefaction]: See starter section 9 on influence
 [^gundabad]: Gundabad is a ![](/assets/images/dark-domain.svg), not a ![](/assets/images/wilderness.svg). 
 [^highpass]: High Pass is a ![](/assets/images/wilderness.svg), not a ![](/assets/images/dark-domain.svg)
+[^m-h-shortsummary]: Except if the new site is a haven then you draw based on the site of origin instead. See the [Movement/Hazard Phase](/rulesarchive/the-wizards-limited#movementhazard-phase) in the Full Turn Summary.
