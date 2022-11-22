@@ -3,7 +3,7 @@ layout: default
 title: The Dragons
 parent: Rules Archive
 nav_order: 3
-permalink: /rulesarchive/thedragons
+permalink: /rulesarchive/the-dragons
 search_exclude: true
 ---
 
