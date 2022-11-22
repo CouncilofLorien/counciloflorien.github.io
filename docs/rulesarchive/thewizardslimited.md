@@ -584,10 +584,8 @@ In a "4-deck game" (i.e., the "campaign game"), the Council is called when each 
 In addition to the normal location deck and play deck, you can have a 15 card "sideboard" deck. A sideboard can contain resource, hazard, and character cards. However, the combined play deck and sideboard can only contain one of each unique card and a maximum of three of any non-unique card.
 
  - Whenever you exhaust your play deck, you may exchange (before reshuffling) up to 5 cards between your sideboard and discard pile.
- - During your organization phase, you may tap your Wizard to bring up to 5 resource and/or character cards from your sideboard into your discard pile.
-   Alternatively, if your play deck has at least 5 cards, you may tap your Wizard to bring one resource card directly from your sideboard into your play deck (reshuffle).
- - During your opponent's movement/hazard phase, you may tap one of your Nazgul permanent-events in play to bring up to 5 hazard cards from your sideboard into your discard pile. The normal result of tapping a Nazgul does not apply and the Nazgul is discarded. Tapping a Nazgul in this fashion _does_ count against the hazard limit.
-   Alternatively, if your play deck has at least 5 cards, you may tap a Nazgul permanent-event to bring one hazard card directly from your sideboard into your play deck (reshuffle).
+ - During your organization phase, you may tap your Wizard to bring up to 5 resource and/or character cards from your sideboard into your discard pile.<br>Alternatively, if your play deck has at least 5 cards, you may tap your Wizard to bring one resource card directly from your sideboard into your play deck (reshuffle).
+ - During your opponent's movement/hazard phase, you may tap one of your Nazgul permanent-events in play to bring up to 5 hazard cards from your sideboard into your discard pile. The normal result of tapping a Nazgul does not apply and the Nazgul is discarded. Tapping a Nazgul in this fashion _does_ count against the hazard limit.<br>Alternatively, if your play deck has at least 5 cards, you may tap a Nazgul permanent-event to bring one hazard card directly from your sideboard into your play deck (reshuffle).
  
 ## 3 • GETTING READY TO PLAY
 
@@ -676,7 +674,8 @@ To influence an opponent's follower, you must make an influence check as outline
 
 To influence an opponent's faction, you must make an influence check as outlined above. However, the following exceptions apply:
 
- - Instead of a mind attribute, the influence check uses the value usually required to bring the faction into play (as given on the faction's card). The influence check is modified by any of the faction's applicable "Standard Modifications" (as given on the faction's card).
+ - Instead of a mind attribute, the influence check uses the value usually required to bring the faction into play (as given on the faction's card).
+ - The influence check is modified by any of the faction's applicable "Standard Modifications" (as given on the faction's card).
  - Revealing an identical faction card allows you to play that card if the influence check is successful.
 
 You may only influence one of your opponent's factions if the influencing character is at the site where the faction was played.
