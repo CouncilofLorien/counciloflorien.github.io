@@ -6,8 +6,10 @@
 }
 
 ::selection {
-  color: $white;
-  background: $link-color;
+  // color: $white;
+  // background: $link-color; $sidebar-color
+  color: $link-colore;
+  background: $sidebar-color
 }
 
 html {
