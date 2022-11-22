@@ -286,7 +286,7 @@ graph TD
 
  There are six types of regions and six types of sites:
 
-{: .d-none .d-md-inline-block }
+{: .d-none .d-md-block }
 | Region Type | Symbol | Site Type | Symbol |
 | ---: | :--- | ---: | :--- |
 Coastal Seas | \[ ![](/assets/images/coastalsea.svg) ] |  Havens  |  \[ ![](/assets/images/free-haven.svg) ]
@@ -296,7 +296,7 @@ Wilderness  |  \[ ![](/assets/images/wilderness.svg) ]  | Ruins & Lairs  | \[ ![
 Shadow-lands  | \[ ![](/assets/images/shadow-land.svg) ]  | Shadow-holds  | \[ ![](/assets/images/shadow-hold.svg) ]
 Dark-domains  | \[ ![](/assets/images/dark-domain.svg) ]  | Dark-holds |  \[ ![](/assets/images/dark-hold.svg) ]
 
-{: .d-xs-inline-block .d-sm-inline-block .d-md-none .d-lg-none .d-xl-none }
+{: .d-xs-block .d-sm-block .d-md-none .d-lg-none .d-xl-none }
 | Region Type | Symbol |
 | ---: | :--- |
 Coastal Seas | \[ ![](/assets/images/coastalsea.svg) ] | 
@@ -306,7 +306,7 @@ Wilderness  |  \[ ![](/assets/images/wilderness.svg) ]  |
 Shadow-lands  | \[ ![](/assets/images/shadow-land.svg) ]  | 
 Dark-domains  | \[ ![](/assets/images/dark-domain.svg) ]  | 
 
-{: .d-xs-inline-block .d-sm-inline-block .d-md-none .d-lg-none .d-xl-none }
+{: .d-xs-block .d-sm-block .d-md-none .d-lg-none .d-xl-none }
 | Site Type | Symbol |
 | ---: | :--- |
 |  Havens  |  \[ ![](/assets/images/free-haven.svg) ]
@@ -354,7 +354,7 @@ _Ruins & Lairs_ \[ ![](/assets/images/ruinlair.svg) ]: Deserted sites often inha
  
 _Shadow-holds_ \[ ![](/assets/images/shadow-hold.svg) ]: Relatively deserted sites often inhabited by dangerous creatures and Shadow-forces (e.g., Goblin-gate, Mount Gram, etc.).
  
-_Dark-holds_ \[ ![](/assets/images/dark-hold.svg) ]: Very dangerous sites with heavy concentrations of Shadow-forces (Dol Guldur, Barad-d–r, Minas Morgul, etc.).
+_Dark-holds_ \[ ![](/assets/images/dark-hold.svg) ]: Very dangerous sites with heavy concentrations of Shadow-forces (Dol Guldur, Barad-dur, Minas Morgul, etc.).
  
 ## 7 • COMBAT
 
