@@ -286,7 +286,7 @@ graph TD
 
  There are six types of regions and six types of sites:
 
-{: .d-none .d-md-block }
+{: .d-xs-none .d-sm-none }
 | Region Type | Symbol | Site Type | Symbol |
 | ---: | :--- | ---: | :--- |
 Coastal Seas | \[ ![](/assets/images/coastalsea.svg) ] |  Havens  |  \[ ![](/assets/images/free-haven.svg) ]
@@ -296,7 +296,7 @@ Wilderness  |  \[ ![](/assets/images/wilderness.svg) ]  | Ruins & Lairs  | \[ ![
 Shadow-lands  | \[ ![](/assets/images/shadow-land.svg) ]  | Shadow-holds  | \[ ![](/assets/images/shadow-hold.svg) ]
 Dark-domains  | \[ ![](/assets/images/dark-domain.svg) ]  | Dark-holds |  \[ ![](/assets/images/dark-hold.svg) ]
 
-{: .d-xs-block .d-sm-block .d-md-none .d-lg-none .d-xl-none }
+{: .d-md-none .d-lg-none .d-xl-none }
 | Region Type | Symbol |
 | ---: | :--- |
 Coastal Seas | \[ ![](/assets/images/coastalsea.svg) ] | 
@@ -306,7 +306,7 @@ Wilderness  |  \[ ![](/assets/images/wilderness.svg) ]  |
 Shadow-lands  | \[ ![](/assets/images/shadow-land.svg) ]  | 
 Dark-domains  | \[ ![](/assets/images/dark-domain.svg) ]  | 
 
-{: .d-xs-block .d-sm-block .d-md-none .d-lg-none .d-xl-none }
+{: .d-md-none .d-lg-none .d-xl-none }
 | Site Type | Symbol |
 | ---: | :--- |
 |  Havens  |  \[ ![](/assets/images/free-haven.svg) ]
@@ -364,9 +364,11 @@ An attack consists of one or more of _strikes_. Each strike can target one and o
 
 #### Strike Modifications
 
-If an attack has more strikes than the company has characters, the attacker may allocate the excess strikes as -1 modifications (i.e., a -1 modification for each unallocated strike) to the prowesses of whichever target(s) he chooses. Each unwounded, tapped character must modify his prowess by -1. Each wounded character must modify his prowess by -2.
+If an attack has more strikes than the company has characters, the attacker may allocate the excess strikes as -1 modifications (i.e., a -1 modification for each unallocated strike) to the prowesses of whichever target(s) he chooses.
 
-Normally a character that is the target of a strike is tapped after the strike is resolved. However, a character that is the target of a strike may choose to take a -3 modification to his prowess. If so, the character is not tapped after the strike is resolved (he is still tapped if he is wounded).
+Each unwounded, tapped character must modify his prowess by -1. Each wounded character must modify his prowess by -2.
+
+Normally a character that is the target of a strike is tapped after the strike is resolved. However, a character that is the target of a strike may choose to take a -3 modification to his prowess. If so, the character is not tapped after the strike is resolved (he is still tapped if he is wounded[^still-wounded]).
 
 The target's prowess may also be modified due to the play of certain resource and hazard cards. Only one resource card requiring skill may be played against a given strike.
 
@@ -1070,3 +1072,4 @@ _Unfinished Tales_ — Copyright © 1980 by George Allen & Unwin (Publishers) Lt
 [^m-h-shortsummary]: Except if the new site is a haven then you draw based on the site of origin instead. See the [Movement/Hazard Phase](/rulesarchive/the-wizards-limited#movementhazard-phase) in the Full Turn Summary.
 [^typo]: A typographical error in the original text.
 [^healallies]: Allies at a Haven also heal from wounded to tapped. This is because allies are characters for purposes of combat and so allies count as characters for purposes of being wounded in combat and for purposes of healed for combat.
+[^still-wounded]: A character taking the -3 modification to prowess will still be wounded if the strike against that character is successful (i.e., the modified roll against the strike is lower than the strike's prowess).
