@@ -5,6 +5,16 @@ parent: Cards
 permalink: /cards/lureofnature
 ---
 
+## Most Recent Publication and Notes 
+
+|  | Lure of Nature |
+| :---: | :--- |
+|     | Hazard Permanent-event | 
+| | _Corruption_. **_Playable on a non-Hobbit, non-Dwarf,<br>non-Orc, non-Ringwraith character.**_ Target character receives 2 corruption points and makes a corruption check at the end of his movement/hazard phase for each Wilderness \[![](/assets/images/wilderness.svg)] in his company's site path. _Clarification:_ Resources may be played to modify these corruption checks and hazards that directly affect these corruption checks may be played in response (counting against the hazard limit).<br>During his organization phase, the character may tap to attempt to remove this card. Opponent makes a roll (draws a #)&mdash;if the result is greater than 4, discard this card.<br>Cannot be duplicated on a given character.  |
+| |  2 |
+
+---
+
 ## Publication History
 
 ### The Challenge Decks (1997)
@@ -12,7 +22,7 @@ permalink: /cards/lureofnature
 |  | Lure of Nature |
 | :---: | :--- |
 |     | Hazard Permanent-event | 
-| | _Corruption_. **_Playable on a non-Hobbit, non-Dwarf,<br>non-Orc, non-Ringwraith character.**_ Target<br>character received 2 corruption points and makes a<br>corruption check at the end of his movement/hazard<br>phase for each Wilderness \[![](/assets/images/wilderness.svg)] in his company's site<br>path. During his organization phase, the character<br>may tap to attempt to remove this card. Opponent<br>makes a roll (draws a #)&mdash;if the result is greater than<br>4, discard this card. Cannot be duplicated on a<br>given character.  |
+| | _Corruption_. **_Playable on a non-Hobbit, non-Dwarf,<br>non-Orc, non-Ringwraith character.**_ Target<br>character receives 2 corruption points and makes a<br>corruption check at the end of his movement/hazard<br>phase for each Wilderness \[![](/assets/images/wilderness.svg)] in his company's site<br>path. During his organization phase, the character<br>may tap to attempt to remove this card. Opponent<br>makes a roll (draws a #)&mdash;if the result is greater than<br>4, discard this card. Cannot be duplicated on a given character.  |
 | |  2 |
 
 {: .counsel }
@@ -34,7 +44,7 @@ _Lure of Nature_ is probably the best corruption card in the game, although _Cov
 
 ### Dark Minions Player Guide (1997)
 
-_Lure of Nature_ (errata)%mdash;Replace "at the end of each movement/hazard phase" with "after all other hazards have been played."
+_Lure of Nature_ (errata)&mdash;Replace "at the end of each movement/hazard phase" with "after all other hazards have been played."
 
 \*_Lure of Nature_ (clarification)&mdash;The corruption checks caused by Lure of Nature happen at the end of the afflicted character's movement/hazard phase. Of course, the character's player can play resources to modify the corruption checks. The hazard player is allowed to play hazards in response, if the hazard player has enough hazard limit remaining. Hazards so played must directly affect the corruption checks caused by Lure of Nature. He can play no other hazards, no creature, no new corruption cards, etc. The spirit of Lure of Nature is that the corruption checks will happen after everything else the comany will face. 
 
@@ -53,13 +63,13 @@ _Lure of Nature_ (errata)&mdash;Replace "at the end of each movement/hazard phas
 | | _Corruption_. Does not affect Hobbits and Dwarves. A<br>character receives 2 corruption points. Target character<br>makes one corruption check (after all other hazards have<br>been played) for each Wilderness \[![](/assets/images/wilderness.svg)] in his company's<br>site path at that point in the movement/hazard site phase.<br>Cannot be duplicated on a given character.<br><br>During his organization phase, a character with this<br>card may tap to attempt to remove it. Make a roll (or<br>draw a #): if this result is greater than 4, discard<br>this card.  |
 | |  2 |
 
-#### The Wizards Player Guide
+### The Wizards Player Guide
 
 Though one of ther easiest to remove, _Lure of Nature_ is probably the most effective corruption card in _METW_. It is possible to play this card and force several checks on your opponent's characters the same turn (leaving your opponent very few ways to avoid the checks). Since the corruption checks come during the movement/hazard phase, your opponent's characters could be removed before the site phase (slowing his resource acquisition more). Though _Lure of Nature_ does not affect Hobbits or Dwarves, it does affect Wizards and is very good against Radagast decks. These decks usually seek to maximize the number of Wildernesses they move though. 
 
-#### The Wizards Companion (February 1996)
+### The Wizards Companion (February 1996)
 
-_Lure of Nature_ (errata)%mdash;Replace "&hellip; at the end of each movement/hazard phase &hellip;" with "&hellip; after all other hazards have been played&hellip;"
+_Lure of Nature_ (errata)&mdash;Replace "&hellip; at the end of each movement/hazard phase &hellip;" with "&hellip; after all other hazards have been played&hellip;"
 
 _Lure of Nature_ (clarification)&mdash;These corruption checks may be targetted at any point during his company's movement/hazard phase.
 
@@ -74,7 +84,7 @@ Added the keyword _Slayer_ and changed the upper-left marshalling points from 0 
 
 |  | Lure of Nature |
 | :---: | :--- |
-|     | Hazard Permanent-event | 
+| | Hazard Permanent-event | 
 | | _Corruption_. Does not affect Hobbits and Dwarves. A<br>character receives 2 corruption points. Target character<br>makes one corruption check at the end of each<br>movement/hazard phase for each Wilderness \[![](/assets/images/wilderness.svg)] in<br>the site path that his company moved through that turn. Cannot be duplicated on a given character.<br><br>During his organization phase, a character with this<br>card may tap to attempt to remove it. Make a roll (or<br>draw a #): if this result is greater than 4, discard<br>this card.  |
 | |  2 |
 
