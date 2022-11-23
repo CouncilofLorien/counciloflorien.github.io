@@ -46,7 +46,7 @@ Smaug  |  The Lonely Mountain  |  Northern Rhovanion
 
 ### HOARDS
 
-Certain items are _hoard items_. Such an item may only be played at a site that contains a hoard. Each site with a Dragon automatic-attack (i.e., each Dragon's lair) contains a hoard. A hoard minor item may not be included with a starting company, and may not be played at a site that does not contain a hoard.
+Certain items are _hoard items_. Such an item may only be played at a site that contains a hoard. ~~Each site with a Dragon automatic-attack (i.e., each Dragon's lair) contains a hoard.~~ Each site which had a Dragon automatic-attack at the beginning of the turn contains a hoard. A hoard minor item may not be included with a starting company, and may not be played at a site that does not contain a hoard.
 
 {: .note }
 > **Example:** You can not play a hoard minor item at Wellinghall after successfully influencing the _Ents of Fangorn_ like you can with a normal minor item. Wellinghall does not contain a hoard.
@@ -73,9 +73,9 @@ If at any time an attack from a manifestation of a unique Dragon is defeated or 
  - The Dragon's lair no longer has an automatic-attack.
 
 {: .note }
-> **Example:** You have played _Smaug at Home_ and _Smaug Ahunt_ (both are still in play). Then you play _Dragon's Desolation_ and _Smaug_ on one of your opponent's companies at Weathertop. Your opponent plays _Old Thrush_, rolls lucky, and defeats _Smaug_; He gets 5 MPs for defeating _Smaug_ **and** _Smaug_, _Smaug at Home_, and _Smaug Ahunt_ are all removed from play and The Lonely Mountain (Smaug's lair) no longer has an automatic-attack. 
+> **Example:** You have played _Smaug at Home_ and _Smaug Ahunt_ (both are still in play). Then you play _Dragon's Desolation_ and _Smaug_ on one of your opponent's companies at Weathertop. Your opponent plays _Old Thrush_, rolls lucky, and defeats _Smaug_. He gets 5 MPs for defeating _Smaug_ **and** _Smaug_, _Smaug at Home_, and _Smaug Ahunt_ are all removed from play and The Lonely Mountain (Smaug's lair) no longer has an automatic-attack. 
 > 
-> If, instead, one of your own companies hdd gone to The Lonely Mountain and defeated _Smaug at Home_, you ,vould not receive the 5 MPs.
+> If, instead, one of your own companies had gone to The Lonely Mountain and defeated _Smaug at Home_, you would not receive the 5 MPs.
 
 ### HAZARD LIMIT (_Clarification_)
 
@@ -83,11 +83,12 @@ The base hazard limit is determined (i.e., set) simultaneously at the moment a c
 
 ### CHARACTERS FACING MULTIPLE STRIKES
 
-When certain Middle-earth: The Dragons cards are played, a character may be assigned to receive more than one strike from a given attack. Such a character must face a strike sequence for each strike he is assigned to face. If a character is tapped or wounded following one of these strike sequences, he must then accordingly modify his prowess for any following strike sequences. If a character is eliminated or otherwise removed from play before he has faced all of his assigned strikes, those strikes he has yet to face are then considered to be cancelled (i.e., they have no further effect).
+When certain _Middle-earth: The Dragons_ cards are played, a character may be assigned to receive more than one strike from a given attack. Such a character must face a strike sequence for each strike he is assigned to face. If a character is tapped or wounded following one of these strike sequences, he must then accordingly modify his prowess for any following strike sequences. If a character is eliminated or otherwise removed from play before he has faced all of his assigned strikes, those strikes he has yet to face are then considered to be sucessful. ~~are then considered to be cancelled (i.e., they have no further effect).~~
 
 ### REMOVING CORRUPTION CARDS
 
-A character may choose to ignore the restriction that he tap to remove a corruption card (as printed on a corruption card). and suffer a -3 penalty to the dice roll to remove it. This means a character can remain untapped and still attempt to remove a corruption card (the roll is modified by -3), or that he can attempt to remove a corruption card even if he is already tapped or wounded (the roll is modified by -3). 
+A character may choose to ignore the restriction that he tap to remove a corruption card (as printed on a corruption card), and suffer a -3 penalty to the dice roll to remove it. This means a character can remain untapped and still attempt to remove a corruption card (the roll is modified by -3), **or** that he can attempt to remove a corruption card even if he is already tapped or wounded (the roll is modified by -3). 
+
 A character may only attempt to remove each corruption card once per turn if he ignores the tapping restriction to do so.
 
 {: .note }
@@ -96,7 +97,8 @@ A character may only attempt to remove each corruption card once per turn if he 
 ### THE SIDEBOARD
 
 With the publication of _Middle-earth: The Dragons_, the number of different resource and hazard strategies increases dramatically. To enable players to react to more specific strategies during play, the sideboard size is increased by five (e.g., from 15 to 20 for the 1-deck and 2-deck games, from 20 to 25 for the 3-deck game, etc.).[^sideboard]
-At the end of yonr opponent's untap phase, if your opponent's Wizard is in play, you may at this point bring up to five hazard cards from your sideboard to your discard pile; or, if your play deck has at least 5 cards, you may bring one hazard card directly from your sideboard into your play deck (reshuffle). If you move cards from your sideboard in this fashion, the hazard limit for each of your opponent"s companies is reduced to half of normal (round up, e.g., a hazard limit of 2 becomes l, a hazard limit of 3 becomes 2, etc.).
+
+At the end of yonr opponent's untap phase, if your opponent's Wizard is in play, you may at this point bring up to five hazard cards from your sideboard to your discard pile; **or**, if your play deck has at least 5 cards, you may bring one hazard card directly from your sideboard into your play deck (reshuffle). If you move cards from your sideboard in this fashion, the hazard limit for each of your opponent"s companies is reduced to half of normal (round up, e.g., a hazard limit of 2 becomes l, a hazard limit of 3 becomes 2, etc.).
 
 ### REGION MOVEMENT LIMITATION
 
@@ -117,12 +119,12 @@ Each player is attempting to acquire and store "lost treasures." A lost treasure
 
  - Only one lost treasure may be played at each different Dragon's lair. For example, if _Magical Harp_ (a unique hoard major item) is played at The Lonely Mountain and is designated to be a lost treasure, no other lost treasures may be played at The Lonely Mountain.
  - If a player already has one unstored lost treasure in play, he may not designate another hoard major or greater item to be a lost treasure.
- - Any unique hoard major or hoard greater item which has been designated as a lost treasure must retain this designation for the entire game. This distinction applies even if such ~an item is discarded (e.g., through a failed corruption check, by being influenced away. etc.) and then later brought back into play by either player. In such a case, a lost treasure may be played with a character even if another character under his player's control already bears a lost treasure (i.e., in this case a player could have more than one unstored lost treasure in play).
+ - Any unique hoard major or hoard greater item which has been designated as a lost treasure must retain this designation for the entire game. This distinction applies even if such an item is discarded (e.g., through a failed corruption check, by being influenced away. etc.) and then later brought back into play by either player. In such a case, a lost treasure may be played with a character even if another character under his player's control already bears a lost treasure (i.e., in this case a player could have more than one unstored lost treasure in play).
  - A player's hand size increases by one each time one of his characters stores a lost treasure.
 
 ### Victory Conditions
 
-The first player to store five lost treasures wins immediately. If both players have a limited collect ion of MED cards or want to play a shorter game, this requirement can be reduced to only 2, 3, or 4 lost treasures. For a longer game, you can require that the winner also defeat one or two unique Dragons.
+The first player to store five lost treasures wins immediately. If both players have a limited collection of _MED_ cards or want to play a shorter game, this requirement can be reduced to only 2, 3, or 4 lost treasures. For a longer game, you can require that the winner also defeat one or two unique Dragons.
 
 {: .text-gamma }
 CREDITS
