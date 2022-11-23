@@ -16,6 +16,8 @@ search_exclude: true
 {:toc}
 </details>
 
+---
+
 # MIDDLE-EARTH: THE DRAGONS
 
 This insert provides expansion rules, clarifications, and a scenario for use with both _Middle-earth: The Wizards_ (_METW_) and _Middle-earth: The Dragons_ (_METD_). These rules are recommended for all _METW_ games even if _METD_ is not used.
@@ -126,6 +128,8 @@ Each player is attempting to acquire and store "lost treasures." A lost treasure
 
 The first player to store five lost treasures wins immediately. If both players have a limited collection of _MED_ cards or want to play a shorter game, this requirement can be reduced to only 2, 3, or 4 lost treasures. For a longer game, you can require that the winner also defeat one or two unique Dragons.
 
+---
+
 {: .text-gamma }
 CREDITS
 
@@ -143,3 +147,5 @@ Proofreading: D. Begiebing, J. Curtis III, W. Frazer, J. Ney-Grimm, D. Platnick
 **Playtesting Credits:** The Arcane Circle. Deb Baedke, Neal Baedke, Richard Clyne, Eric DeBlackmere, B. Dietrich, Scott Forehand, S. Frazer. W. Frazer, A. Gunther, Joel Hedges, Larry Hughes, Mike Lowery, Todd McGovern, Eric McLuen, John Miceli, B. Mohney, C. O'Brien, Elmar Perkuhn, E. Peterson, Harry Schifflet, James Stellmach, Michael Sloan, Jimmy Twofeathers,
 J. Whitehouse, Jon Whitney, and Mark Wightman  
 **Additional credits** can be found in the _Middle-earth: The Wizards_ rulesbook (due to space limitations, we were unable to include them here).
+
+---
