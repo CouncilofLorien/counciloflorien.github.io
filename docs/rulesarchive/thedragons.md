@@ -48,7 +48,7 @@ Smaug  |  The Lonely Mountain  |  Northern Rhovanion
 
 ### HOARDS
 
-Certain items are _hoard items_. Such an item may only be played at a site that contains a hoard. ~~Each site with a Dragon automatic-attack (i.e., each Dragon's lair) contains a hoard.~~ Each site which had a Dragon automatic-attack at the beginning of the turn contains a hoard. A hoard minor item may not be included with a starting company, and may not be played at a site that does not contain a hoard.
+Certain items are _hoard items_. Such an item may only be played at a site that contains a hoard. ~~Each site with a Dragon automatic-attack (i.e., each Dragon's lair) contains a hoard.~~ Each site which had a Dragon automatic-attack at the beginning of the turn contains a hoard.[^dragon-hoard-errata] A hoard minor item may not be included with a starting company, and may not be played at a site that does not contain a hoard.
 
 {: .note }
 > **Example:** You can not play a hoard minor item at Wellinghall after successfully influencing the _Ents of Fangorn_ like you can with a normal minor item. Wellinghall does not contain a hoard.
@@ -85,7 +85,7 @@ The base hazard limit is determined (i.e., set) simultaneously at the moment a c
 
 ### CHARACTERS FACING MULTIPLE STRIKES
 
-When certain _Middle-earth: The Dragons_ cards are played, a character may be assigned to receive more than one strike from a given attack. Such a character must face a strike sequence for each strike he is assigned to face. If a character is tapped or wounded following one of these strike sequences, he must then accordingly modify his prowess for any following strike sequences. ~~If a character is eliminated or otherwise removed from play before he has faced all of his assigned strikes, those strikes he has yet to face are then considered to be cancelled (i.e., they have no further effect).~~ If a character is eliminated or otherwise removed from play before he has faced all of his assigned strikes, those strikes he has yet to face are then considered to be sucessful. 
+When certain _Middle-earth: The Dragons_ cards are played, a character may be assigned to receive more than one strike from a given attack. Such a character must face a strike sequence for each strike he is assigned to face. If a character is tapped or wounded following one of these strike sequences, he must then accordingly modify his prowess for any following strike sequences. ~~If a character is eliminated or otherwise removed from play before he has faced all of his assigned strikes, those strikes he has yet to face are then considered to be cancelled (i.e., they have no further effect).~~ If a character is eliminated or otherwise removed from play before he has faced all of his assigned strikes, those strikes he has yet to face are then considered to be sucessful.[^dragon-multiple-strike-errata]
 
 ### REMOVING CORRUPTION CARDS
 
@@ -151,3 +151,6 @@ J. Whitehouse, Jon Whitney, and Mark Wightman
 **Additional credits** can be found in the _Middle-earth: The Wizards_ rulesbook (due to space limitations, we were unable to include them here).
 
 ---
+
+[^dragon-hoard-errata]: From [CRF 15 Complete Errata Listing](/crf/errata#rules-errata): Dragon Rules, Hoards: Change “_Each site with a Dragon automatic-attack (i.e., each Dragon’s Lair) contains a hoard_” to “_Each site which had a Dragon automatic-attack at the beginning of the turn contains a hoard_.”
+[^dragon-multiple-strike-errata]: From [CRF 15 Complete Errata Listing](/crf/errata#rules-errata): Dragons Rules, Characters Facing Multiple Strikes: Change "_are then considered to be canceled_" to "_are then considered to be successful_."
