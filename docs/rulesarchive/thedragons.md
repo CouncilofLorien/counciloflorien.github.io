@@ -108,6 +108,8 @@ Normally, a company moving with region movement may lay down a maximum of four r
 
 [^sideboard]: The sideboard size was increased several times over the game's life. The final increase came with _Middle-earth: The White Hand_ which increased the sideboard to 30 cards for 1-deck and 2-deck games.
 
+---
+
 # MANY A GLEAMING GOLDEN HOARD
 
 {: .text-center }
