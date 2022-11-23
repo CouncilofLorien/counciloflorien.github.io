@@ -85,7 +85,7 @@ The base hazard limit is determined (i.e., set) simultaneously at the moment a c
 
 ### CHARACTERS FACING MULTIPLE STRIKES
 
-When certain _Middle-earth: The Dragons_ cards are played, a character may be assigned to receive more than one strike from a given attack. Such a character must face a strike sequence for each strike he is assigned to face. If a character is tapped or wounded following one of these strike sequences, he must then accordingly modify his prowess for any following strike sequences. If a character is eliminated or otherwise removed from play before he has faced all of his assigned strikes, those strikes he has yet to face are then considered to be sucessful. ~~are then considered to be cancelled (i.e., they have no further effect).~~
+When certain _Middle-earth: The Dragons_ cards are played, a character may be assigned to receive more than one strike from a given attack. Such a character must face a strike sequence for each strike he is assigned to face. If a character is tapped or wounded following one of these strike sequences, he must then accordingly modify his prowess for any following strike sequences. ~~If a character is eliminated or otherwise removed from play before he has faced all of his assigned strikes, those strikes he has yet to face are then considered to be cancelled (i.e., they have no further effect).~~ If a character is eliminated or otherwise removed from play before he has faced all of his assigned strikes, those strikes he has yet to face are then considered to be sucessful. 
 
 ### REMOVING CORRUPTION CARDS
 
