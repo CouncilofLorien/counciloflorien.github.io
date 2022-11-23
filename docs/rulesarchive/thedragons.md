@@ -22,9 +22,9 @@ This insert provides expansion rules, clarifications, and a scenario for use wit
 
 ### KEY WORDS AND TERMS (_Clarification_)
 
-A "key word" is an identifier for a card which makes it affectable by or usable with other cards as the cards' text dictate. For example, in _METW_, key words include: Orc, spell, environment, Dragon, Undead, Wolves, etc.
+A "key word" is an identifier for a card which makes it affectable by _or_ usable with other cards as the cards' text dictate. For example, in _METW_, key words include: Orc, spell, environment, Dragon, Undead, Wolves, etc.
 
-_Middle-earth: The Dragons_ introduces several "key words" to the Middle-earth collectible card game: Drake, light enchantment, dark enchantment, ritual, riddling attempt, riddling roll , offering attempt, flattery attempt, capture, and helmet. There are no special rules for these key words; except that a character may only use the effects of one helmet at a time. Note that the key words, Dragon and Drake, are mechanically independent. Some of the key words are not affected by any currently existing cards (e.g., offering attempt and capture), but they will be with the release of future expansions.
+_Middle-earth: The Dragons_ introduces several "key words" to the Middle-earth collectible card game: Drake, light enchantment, dark enchantment, ritual, riddling attempt, riddling roll, offering attempt, flattery attempt, capture, and helmet. There are no special rules for these key words; except that a character may only use the effects of one helmet at a time. Note that the key words, Dragon and Drake, are mechanically independent. Some of the key words are not affected by any currently existing cards (e.g., offering attempt and capture), but they will be with the release of future expansions.
 
 A "bearer" of a specific card refers to the character that bears or controls that card.
 
@@ -33,7 +33,7 @@ A "bearer" of a specific card refers to the character that bears or controls tha
 Any site with a Dragon automatic-attack is a Dragon's lair. There are nine unique Dragons associated with the following lairs:
 
 | Dragon | Lair (site) | Lair's Region | 
-| ---: | :---: | :--- |
+| :--- | ---: | ---: |
 Agburanar |  Caves of Ulund  |  Withered Heath
 Bairanax  | Ovir Hollow  |  Grey Mountain Narrows
 Daelomin  |  Dancing Spire | Withered Heath
@@ -46,7 +46,7 @@ Smaug  |  The Lonely Mountain  |  Northern Rhovanion
 
 ### HOARDS
 
-Certain items are hoard items. Such an item may only be played at a site that contains a hoard. Each site with a Dragon automatic-attack (i.e., each Dragon's lair) contains a hoard. A hoard minor item may not be included with a starting company, and may not be played at a site that does not contain a hoard.
+Certain items are _hoard items_. Such an item may only be played at a site that contains a hoard. Each site with a Dragon automatic-attack (i.e., each Dragon's lair) contains a hoard. A hoard minor item may not be included with a starting company, and may not be played at a site that does not contain a hoard.
 
 {: .note }
 > **Example:** You can not play a hoard minor item at Wellinghall after successfully influencing the _Ents of Fangorn_ like you can with a normal minor item. Wellinghall does not contain a hoard.
