@@ -16,6 +16,8 @@ search_exclude: true
 {:toc}
 </details>
 
+---
+
 # MIDDLE-EARTH: THE WIZARDS
 
 {: .text-center }
@@ -967,7 +969,13 @@ Dark-domains  |  ![](/assets/images/dark-domain.svg)
  Up to 1 resource card requiring skill | varies
  Other resource cards  |   varies
  Hazard cards    |    varies
- 
+
+
+{: .note }
+_Address rules questions and comments via email to metwice@aol.com or via snail mail to our P.O. Box address. Look for METW discussion areas on your favorite on-line service and visit our home page on the WWW (url not available at press time[^url])._
+
+---
+
 ## CREDITS
  
 **Art Director:** Jessica Ney-Grimm  
@@ -1001,8 +1009,7 @@ Dark-domains  |  ![](/assets/images/dark-domain.svg)
 **Special Thanks:** Peter Adkison, Laurie Battle, Will & Schar Niebling, Danny Kilbert, Bob Carty, Mike Davis, Lou Rexing, Wayne Godfrey, Gary E. Smith, the Chessex crews, the InQuest crew and our on-line friends, especially the {TFF Folder}.  
 **Playtesting Credits:** James Andrews, Christian Antonini, Kevin Barrett, D. Begiebing, Guy Botero, Brian Bouton, Jay Bryan, Brian Carr, Waldon Chisholm, Silvio Negri Clementi, Frank Coker, Jessica Colborn, R. Mark Colborn, Philip DeLuca, D. Dennis, Bernd Dietrich, Bill Edwards, O. Estefania, Klaus Etzold, Andrea Fattori, K. Fischer, Luigi Lo Forti, Scott Frazer, Wendy Frazer, Madai Frey, Matthew Fulton, Kevin Garber, Eduard Garcia, David Glenn, Jesse Goldstein, O. Johnston, Robert Kelly, Ralph Kennedy, Oscar Lafuente, Nick Laiacona, Steve Marvin, F. Navarro, Will Niebling, William Niebling, Elmar Perkuhn, D. Platnick, Frank Pfeifer, Jeffrey C. Riley, Cory John Rueb, Francesc Matas Salla, Doug Schnur, Jason Smith, Lowell Stouder, Henri Jean Vanaise, J.L. Viadel, D. Villanueva, Dave Weinstein, James Whitehouse, M. Wilson, Darrell Zuercher, Steven Balbo & "The Arcane Circle," J.L. Martinez & the Heroe Research Group, the Berkeley Games crew.
 
-{: .note }
-_Address rules questions and comments via email to metwice@aol.com or via snail mail to our P.O. Box address. Look for METW discussion areas on your favorite on-line service and visit our home page on the WWW (url not available at press time[^url])._
+---
 
 [^bar]: This web version of the rules is not marked with bars. See the printed _The Wizards Limited_ Rulesbook.
 [^randomvalue]: This method of obtaining a random value is not permitted in tournament play and it is not used in casual play. Instead, download a dice rolling application on your mobile device.
