@@ -612,9 +612,9 @@ During the organization phase, a company at a non-haven site may split into two 
  
 #### Joining Two Companies at a Non-Haven Site
 
-During the Organization Phase, two companies may move to the same site, but one of the following cases must apply:
- - One and only one company may already be at the site. In this case the other company must state that its new site card is already in play (the current site  card for the non-moving company).
- - One company moves to the site using the site path on that site card, and the other company moves to the site using region cards for its site path. In this case, both companies must state that the same face down site card is their new site card.
+During the Organization Phase, ~~two companies~~ two or more companies may move to the same site, but one of the following cases must apply:
+ - One and only one company may already be at the site. In this case the other ~~company~~ companies must state that its new site card is already in play (the current site  card for the non-moving company).
+ - ~~One company moves to the site using the site path on that site card, and the other company moves to the site using region cards for its site path.~~ One company may move to the site using the site path on that site card, and any other companies may move to the site using region cards for their site path. In this case, both companies must state that the same face down site card is their new site card.[^regionmovementerrata]
 
 In both cases, the two companies must face hazards separately and are then combined at the end of the movement/hazard phase.
 
@@ -976,7 +976,8 @@ _Address rules questions and comments via email to metwice@aol.com or via snail 
 
 ---
 
-## CREDITS
+{: .text-gamma }
+CREDITS
  
 **Art Director:** Jessica Ney-Grimm  
 **Base Design:** Coleman Charlton  
@@ -1027,3 +1028,4 @@ _Address rules questions and comments via email to metwice@aol.com or via snail 
 [^roundup]: There is never a need to round up. Instead, reduce the points of the type that is over half to be equal to the combined total points of the other types. For example, if you have 33 MPs with 10 MP from characters, 20 MP from items, and 3 MP from factions, then the 20 item MP are over half of your total of 33 MP. The 20 item MP are reduced to 13 MP (equal to 10 character MP + 3 faction MP).
 [^udun]: It is not normally possible to use region movement that "passes through" Udun since Udun is only adjacent to Gorgoroth (for Wizard players). However, the resource card _Morannon_ may be used as a site in Udun and a company may move from there to Gorgoroth under this rule.
 [^url]: The URL would be www.ironcrown.com. Several archives of ICE's website are hosted by web.archive.org. As an example, there is an [archive from 21 Feb 1999](https://web.archive.org/web/19990221081226/http://ironcrown.com:80/), which is before ICE lost their license from Tolkien Enterprises and took down all MECCG content in September 1999.
+[^regionmovementerrata]: There is errata from before _The Lidless Eye_ which states "When a company splits, any of the resulting companies can move with region movement. Region movement is not limited to one company of a split." However, it was already the case that when a company splits, any of the resulting companies could move with region movement. See [Splitting a Company at a Non-Haven Site](/rules-archive/the-wizards-limited#splitting-a-company-at-a-non-haven-site). It is the situation where two or more companies are joining by moving to the same site which had a limitation that only one company could use region movement. While not explicitly stated, this limitation in the rules assumed that only one copy of each region could be used. The original announcement of this errata by NetRep Craig "Ichabod" O'Brien on 27 November 1999 in rec.games.trading-cards.misc (titled "\[METW] Confirmations and Reversals") makes the situation more clear. The announcement states, in part, "_4) Regions are not unique, but only one of a specific region can occur in any particular site path (that is, you can't back track)_." and "_6) Region movement for companies to/from the same site is no longer limited to one company.  As many companies as you want can move to or from a site with region movement (provided they have different site paths). Consider this an errata to the rules._" This is confirmed in the _Challenge Decks_ and _The Balrog_ Rules Summary in the section PLAYING A NEW SITE CARD.
