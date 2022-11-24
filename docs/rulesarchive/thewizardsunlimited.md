@@ -22,13 +22,11 @@ search_exclude: true
 
 During the Third Age, the Valar sent five Maiar to Middle-earth to unite and counsel the Free Peoples in their struggles against Sauron, the Dark Lord. However, they were forbidden to dominate the peoples of Middle-earth or to match the power of Sauron with power. These five were known as “Wizards” (also called Istari) in Middle-earth, and individually they were called: Gandalf, Saruman, Radagast, Alatar, and Pallando.
 
-During the Third Age, the Valar sent five Maiar to Middle-earth to unite and counsel the Free Peoples in their struggles against Sauron, the Dark Lord. However, they were forbidden to dominate the peoples of Middle-earth or to match the power of Sauron with power. These five were known as “Wizards” (also called Istari) in Middle-earth, and individually they were called: Gandalf, Saruman, Radagast, Alatar, and Pallando.
-
 In _Middle-earth: The Wizards_, you play one of these five Wizards. Your goal is to marshal the forces of the Free Peoples so that Sauron can be resisted until the One Ring is destroyed. Since your fellow Wizards do not agree on how best to accomplish this goal, you must battle for the minds, bodies, and souls of the Free Peoples. 
 
 In _The Lord of the Rings_, Gandalf was the only Wizard to succeed. Saruman was corrupted by power, Radagast “went native,” and Alatar and Pallando disappeared into the East. Only Gandalf remained true to his task, marshalling the characters and forces that withstood Sauron long enough for the Fellowship to destroy the Ruling Ring. 
 
-“Evil forces” are represented by hazards that the players use against one another. For example, if you move a character into Moria, your opponent could play a Troll card as a hazard. These hazards are not “controlled” by the Wizards, but rather they represent the forces of Sauron, who himself is in a “dormant” or hiding phase. All players are “good,” so conflict takes the form of hazards and direct attempts to “persuade” or “dominate” each other and each other’s characters and forces, rather than the form of direct conflict. 
+“Evil forces” are represented by _hazards_ that the players use against one another. For example, if you move a character into Moria, your opponent could play a Troll card as a hazard. These hazards are not “controlled” by the Wizards, but rather they represent the forces of Sauron, who himself is in a “dormant” or hiding phase. All players are “good,” so conflict takes the form of hazards and direct attempts to “persuade” or “dominate” each other and each other’s characters and forces, rather than the form of direct conflict. 
 
 {: .note }
 > **Note:** For purposes of readability, these rules use the standard masculine pronouns when referring to a person of uncertain gender. In such cases, these pronouns are intended to convey the meanings: she/he, him/her, etc.
@@ -37,14 +35,11 @@ In _The Lord of the Rings_, Gandalf was the only Wizard to succeed. Saruman was 
 
 These rules are organized into four sections: the Starter Rules, the Standard Rules, the Optional Rules, and the Appendices. The Starter and Standard Rules are for a two-player game; multi-player rules are provided in the Optional Rules.
 
-The introductory material on pages 4-8 provides a brief player turn summary, player notes, and definitions of commonly used terms.
+The introductory material on [pages 4-8](/rules-archive/the-wizards-unlimited#brief-player-turn-summary) provides a brief player turn summary, player notes, and definitions of commonly used terms.
 
-_The Starter Rules_ — The Starter Rules contain all of the guidelines you need to play METW. They have been designed to simplify teaching the game and to speed up play. You should use the Starter
-Rules if you and your opponent have never played this game before **or** if one of you only has access to a starter deck.
+_The Starter Rules_ — The Starter Rules contain all of the guidelines you need to play _METW_. They have been designed to simplify teaching the game and to speed up play. You should use the Starter Rules if you and your opponent have never played this game before **or** if one of you only has access to a starter deck.<br>If you are already an experienced player of collectible card games, you might read the next couple of pages and the sections that are not boxed. As you play, you can refer to the other material that details the more complex rules and situations that may arise during play.
 
-If you are already an experienced player of collectible card games, you might read the next couple of pages and the sections that are not boxed. As you play, you can refer to the other material that details the more complex rules and situations that may arise during play.
-
-_The Standard Rules_ — These rules assume you have already played several games using the Starter Rules. The Standard Rules consist of additions and extensions to the Starter Rules that make play and deck building more flexible, exciting, and interesting. We recommend that experienced METW players use all of the Standard Rules. 
+_The Standard Rules_ — These rules assume you have already played several games using the Starter Rules. The Standard Rules consist of additions and extensions to the Starter Rules that make play and deck building more flexible, exciting, and interesting. We recommend that experienced _METW_ players use all of the Standard Rules. 
 
 _The Optional Rules_ — Interesting variations to the standard rules. Before play begins, both players must agree on which optional rules are to be used.
 
@@ -52,33 +47,33 @@ _The Appendices_ — An index, credits, keys, the Full Player Turn Summary. The 
 
 ## BRIEF PLAYER TURN SUMMARY
 
-Play consists of a series of “Player Turns.” During your turn, follow the steps outlined in this turn summary. Then, your opponent does the same during his turn. You and your opponent alternate turns until the game ends. This turn summary is included here to give you an idea of how play proceeds; see p. 68-70 for the Full Player Turn Summary.
+Play consists of a series of “Player Turns.” During your turn, follow the steps outlined in this turn summary. Then, your opponent does the same during his turn. You and your opponent alternate turns until the game ends. This turn summary is included here to give you an idea of how play proceeds; see [p. 68-70 for the Full Player Turn Summary](/rules-archive/the-wizards-unlimited#full-player-turn-summary).
 
-_Untap Phase_ — Each of your characters may do one of the following: Untap **or** Heal (if at a Haven site). In addition, untap (see page 15) all of your other tapped non-site cards.
+_Untap Phase_ — Each of your characters may do one of the following: Untap **or** Heal (if at a Haven site). In addition, untap (see [page 15](/rules-archive/the-wizards-unlimited#tapping-and-card-positions)) all of your other tapped non-site cards.
 
 _Organization Phase_ — You may take the following actions in any order: play one character (if allowed) or your Wizard (if available), reorganize your companies, transfer items between characters (corruption checks required), and store items (corruption checks required). In addition, each of your companies may plan its movement by playing a new site card face down on its present site card. 
 
 _Long-event Phase_ — Discard your resource long-events and your opponent’s hazard long-events. Play new resource long-event cards. 
 
-_Movement/Hazard Phase_ — One at a time, each of your companies takes the following actions. The company turns over its new site card (if it has one); its current site becomes its site of origin. If the company moved to a non-Haven site, you may draw up to the # of cards indicated by the site that it is moving to (at least one card must be draw); your opponent does the same. If the company is moving to a Haven site, you may draw up to the # of cards indicated by the site that you are moving from (at least one card must be drawn); your opponent does the same. Next, your opponent may play allowable hazard cards on the company; the maximum number of hazards that
+_Movement/Hazard Phase_ — One at a time, each of your companies takes the following actions. The company turns over its new site card (if it has one); its current site becomes its _site of origin_. If the company moved to a non-Haven site, you _may_ draw up to the # of cards indicated by the site that it is _moving to_ (at least one card must be draw); your opponent does the same. If the company is moving to a Haven site, you _may_ draw up to the # of cards indicated by the site that you are _moving from_ (at least one card must be drawn); your opponent does the same. Next, your opponent may play allowable hazard cards on the company; the maximum number of hazards that
 may be played on a company is equal to the size of the company (to a minimum of two). Finally, remove the site of origin card and each player discards or draws so that he has eight cards in his hand. 
 
-_Site Phase_ — One at a time, each of your companies may take the following actions at its current, untapped site. The company decides to enter and explore the site. First, if the site has an automatic-attack, it attacks the company. Then, the company may attempt to play one item, ally, faction, or information resource card that is “playable” at that site. A character in the company must tap to make this attempt. If the card is successfully played, tap the site.
+_Site Phase_ — One at a time, each of your companies _may_ take the following actions at its current, untapped site. The company decides to enter and explore the site. First, if the site has an automatic-attack, it attacks the company. Then, the company may attempt to play one item, ally, faction, or information resource card that is “playable” at that site. A character in the company must tap to make this attempt. If the card is successfully played, tap the site.
 
 _End-of-Turn Phase_ — Each player may discard one card. Then each player must draw or discard so that his hand has eight cards.
 
 ## PLAYER NOTES
 
  - Site cards (and region cards in the Standard Game) represent the geography of Middle-earth. They are used to control the acquisition of resources, but they should not direct play. Instead, a player should examine the resources in his hand and then select a nearby site to travel to. Initially, do not worry too much about which site to use, just pick one that has the resource type you want to play. It also helps if you preselect the location cards you are most likely to use when you put together a play deck.
- - In METW you will draw multiple cards each turn, and in some cases you will have to discard a number of cards each turn. Don’t let this worry you, it’s part of the flow of play. Just keep cards that are immediately useful during the next turn or that are crucial to your overall strategy (i.e., your primary resource acquisition strategy). 
+ - In _METW_ you will draw multiple cards each turn, and in some cases you will have to discard a number of cards each turn. Don’t let this worry you, it’s part of the flow of play. Just keep cards that are immediately useful during the next turn **or** that are crucial to your overall strategy (i.e., your primary resource acquisition strategy). 
   
 #### Notes For Players of other Collectible Card Games
 
 If you have played other collectible card games (CCG), there are several key factors to keep in mind:
 
- - METW is less tactical and more strategic than some other CCGs. There is combat, but it is not the dominant focus of the game.
- - The players in METW are in direct competition with each other to marshal resources. However, only hazards directly attack the players’ characters and they are handled in a less controlled fashion (e.g., they are only played during your opponent’s movement/hazard phase, hazard creatures do not remain in play, etc.).
- - For timing purposes, all cards in METW are played and tapped with the same “speed” (effects take place instantly). But, a player may only play resource cards during his own turn, and a player may only play hazard cards during his opponent’s movement/hazard phase.
+ - _METW_ is less tactical and more strategic than some other CCGs. There is combat, but it is not the dominant focus of the game.
+ - The players in _METW_ are in direct competition with each other to marshal resources. However, only hazards directly attack the players’ characters and they are handled in a less controlled fashion (e.g., they are only played during your opponent’s movement/hazard phase, hazard creatures do not remain in play, etc.).
+ - For timing purposes, all cards in _METW_ are played and tapped with the same “speed” (effects take place instantly). But, a player may only play resource cards during his own turn, and a player may only play hazard cards during his opponent’s movement/hazard phase.
 
 {: .note }
 > **Clarification:** The card, Twilight, is an exception to this rule—it can be played at anytime, either as a resource or as a hazard (it does not count against the hazard limit). Certain other cards specifically state when they may be played.
@@ -87,7 +82,7 @@ If you have played other collectible card games (CCG), there are several key fac
 
 **Action:** The various activities that you and your opponent can perform during play are called actions. Typical actions include playing a card, tapping a card, revealing a card, etc.  
 **Ally:** An ally is a resource that represents a personality (i.e., entity) that can be recruited to help the Free Peoples (e.g., Tom Bombadil, Treebeard, etc.).  
-**Attack:** Combat consists of one or more attacks that must be resolved one at a time. An attack consists of one or more strikes.  
+**Attack:** Combat consists of one or more _attacks_ that must be resolved one at a time. An attack consists of one or more _strikes_.  
 **Attribute:** Each character’s abilities are defined by the following attributes: race, skills, direct influence, prowess, body, mind, marshalling points, special abilities.  
 **Automatic-attack:** An attack that must be faced to enter and explore a site.  
 **Body Check:** When a character is wounded, he must make a body check to determine if he is eliminated. When all of a creature’s strikes fail, a body check is made for each of its strikes to determine if the creature is eliminated.  
@@ -97,10 +92,11 @@ If you have played other collectible card games (CCG), there are several key fac
 **Company:** During play, you may organize your characters into groups called companies.  
 **Corruption Card:** A hazard card that gives a character corruption points.   
 **Corruption Check:** A modified roll made to determine if a character is discarded or eliminated due to accumulated corruption points.  
-**Corruption Points:** This reflects the total amount of corruption a character has accumulated due to the effects of various hazards and resources. Creature: A creature is a hazard card that can be used to directly attack one of your opponent’s companies.  
-**Current Site Card:** A company has a current site card associated with it—the company is located at that site.  
+**Corruption Points:** This reflects the total amount of corruption a character has accumulated due to the effects of various hazards and resources.  
+**Creature:** A creature is a hazard card that can be used to directly attack one of your opponent’s companies.  
+**Current Site Card:** A company has a _current site card_ associated with it—the company is located at that site.  
 **Direct Influence:** A measure of a character’s ability to control other characters and to influence factions and your opponent’s resources.   
-**Event:** An event is either a resource card that is not an item, ally, or faction; or it is a hazard card that is not a creature. Based upon how long it stays in play, there are 3 types of events: short-events, long-events, and permanent-events.  
+**Event:** An event is _either_ a resource card that is not an item, ally, or faction; _or_ it is a hazard card that is not a creature. Based upon how long it stays in play, there are 3 types of events: short-events, long-events, and permanent-events.  
 **Exhausting a Deck:** Your play deck is “exhausted” when you draw its last card.  
 **Faction:** A faction is a resource that represents a group of people or creatures. A faction can be recruited to help the Free Peoples (e.g., Riders of Rohan, Elves of Lindon, etc.).  
 **Follower:** A character that is controlled by another character’s direct influence.  
@@ -110,16 +106,16 @@ If you have played other collectible card games (CCG), there are several key fac
 **Hazards:** Hazard cards represent evil forces and natural dangers. You may play hazard cards only during your opponent’s movement/hazard phase.  
 **Healing:** This consists of moving a character from a wounded state to a tapped state.  
 **Home Site:** A character may be brought into play at his home site or at a Haven.  
-**Influence Check:** In certain situations, a player can make an influence check to attempt to bring a faction into play or to disrupt his opponent’s control over one of his resources.  
+**Influence Check:** In certain situations, a player can make an influence check to attempt to bring a faction into play _or_ to disrupt his opponent’s control over one of his resources.  
 **Item:** An item is a resource that represents an object that can be acquired and used to help the Free Peoples. The different types of items are: minor, major, greater, gold ring, and special.  
-**Keyed:** A hazard creature may only be played against a company if the creature is “keyed to” the company’s site or site path.
+**Keyed:** A hazard creature may only be played against a company if the creature is “keyed to” the company’s site or site path.  
 **Location Deck:** A player’s site and region cards.  
 **Long-event:** Long-events last approximately two turns, one of yours and one of your opponent’s.  
 **Making a Roll:** Two six-sided dice (2D6) should be used to generate random values during play. This is called “making a roll.” To make a roll, roll 2D6 and add the two results together.  
 **Marshalling Points:** During play you receive marshalling points from: control of resources, destruction of evil forces, and various other actions. The winner is the player with the most marshalling points at the end of the game.  
 **Mind:** A character’s mind determines how many influence points are required to keep this character in play.  
-**Movement:** During a player’s turn, he may move each of his companies from its current site to another site.  
-**New Site Card:** When a company moves, it leaves its current site card and travels to its new site card.  
+**Movement:** During a player’s turn, he may _move_ each of his companies from its current site to another site.  
+**New Site Card:** When a company moves, it leaves its current site card and travels to its _new site card_.  
 **Permanent-event:** The effects of a resource permanent-event last until the card is discarded due to conditions stated on its card.  
 **Play Deck:** Each player has a play deck that consists of his resource, hazard, and character cards. During play, each player draws cards from his play deck.  
 **Prowess:** A measure of a character’s offensive capabilities in combat.  
@@ -127,10 +123,10 @@ If you have played other collectible card games (CCG), there are several key fac
 **Region:** The various lands of Middle-earth are represented by regions.  
 **Resources:** Resource cards represent good forces and various advantageous occurrences. You may play resource cards only during your own turn.   
 **Short-event:** A short-event card is discarded immediately after it is played. The effects of some short-events last for a specific period as stated on their cards.  
-**Site of Origin:** At the beginning of its movement/hazard phase, a moving company’s current site card becomes its site of origin—the company is considered to be en route to its new site card (i.e., the company is moving).  
+**Site of Origin:** At the beginning of its movement/hazard phase, a moving company’s current site card becomes its _site of origin_—the company is considered to be en route to its new site card (i.e., the company is moving).  
 **Site Path:** The site path of a site is the sequence of regions between the site and its nearest Haven as listed on the site’s card. A company’s site path is the sequence of regions between its site of origin and its new site.  
 **Site:** Sites represent places that characters can visit in Middle-earth.  
-**Size:** A company’s size is equal to the number of characters in it, with each Hobbit character only counting half (round up).  
+**Size:** A company’s _size_ is equal to the number of characters in it, with each Hobbit character only counting half (round up).  
 **Skill:** An attribute that helps define a character. The skills are: Diplomat, Ranger, Sage, Scout, Warrior.  
 **Standard Modification:** Most faction cards list some “standard modifications” to the influence check based only upon the race of the character that was tapped to make the influence check.  
 **Storing Cards:** Certain cards (e.g., items, information, etc.) can be stored if they are at a Haven. Such a card is removed from play and placed in its player’s marshalling point pile.  
