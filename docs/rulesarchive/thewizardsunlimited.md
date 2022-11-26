@@ -480,22 +480,23 @@ When you play a character, you may place him into a company already at his arriv
 {: .note }
 > **Clarification:** If character is played at his home site or a Haven site and there is no company there, you must play the site card for his arrival site with him. If the appropriate site card is not available, you may not play the character. 
 > 
-> **Clarification:** Playing a character does not tap a site.
+> **Clarification:** Playing a character does **not** tap a site.
 
 Each character and Wizard is unique. So if you already have a character in play, your opponent may not play the same character. Similarly, if a character has been eliminated, he may not be brought
 into play again by either player. 
 
 {: .note }
-> **Example:** In our example from page 11, Jessica calls the Free Council. Then Jason gets to take his final turn. Since his company is at a Haven, Jason may play a character card from his hand during his organization phase. Jason has Éomer (with a 3 mind attribute) in his hand so he plays him. Jason has 3 points of unused general influence; he also has Théoden with 3 points of unused direct influence and Radagast with 3 points of unused direct influence. So Éomer may be placed under the control of general influence, Théoden, or Radagast (Jason’s choice).
+> **Example:** In our example from page 11, Jessica calls the Free Council. Then Jason gets to take his final turn. Since his company is at a Haven, Jason may play a character card from his hand during his organization phase. Jason has Eomer (with a 3 mind attribute) in his hand so he plays him. Jason has 3 points of unused general influence; he also has Theoden with 3 points of unused direct influence and Radagast with 3 points of unused direct influence. So Eomer may be placed under the control of general influence, Theoden, or Radagast (Jason’s choice).
 
 ### REVEALING A WIZARD
 
-Once you decide to reveal your Wizard, you may still use your pool of general influence points; but, in addition, your Wizard acts as a character (a very powerful one). While revealing your Wizard is an advantage, it also carries with it the danger of losing the game by losing your Wizard to death or corruption. After being revealed, a Wizard operates as a character and thus may
-use his direct influence just like any other character. 
+Once you decide to reveal your Wizard, you may still use your pool of general influence points; but, in addition, your Wizard acts as a character (a very powerful one). While revealing your Wizard is an advantage, it also carries with it the danger of losing the game by losing your Wizard to death or corruption. 
+
+After being revealed, a Wizard operates as a character and thus may use his direct influence just like any other character. 
 
 ### HEALING
 
-Each of your characters at a Haven may heal during the untap phase of your turn. Such a character moves from a wounded position to a tapped position (i.e., the character is still tapped). In addition, certain cards can heal characters when they are played (e.g., Healing Herbs, Halfling Strength, etc.).
+Each of your characters at a Haven may heal during the untap phase of your turn. Such a character moves from a wounded position to a tapped position (i.e., the character is still tapped). In addition, certain cards can heal characters when they are played (e.g., _Healing Herbs_, _Halfling Strength_, etc.).
 
 ## 6 • MOVEMENT
 
