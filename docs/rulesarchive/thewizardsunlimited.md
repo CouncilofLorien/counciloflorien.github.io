@@ -500,10 +500,10 @@ Each of your characters at a Haven may heal during the untap phase of your turn.
 
 ## 6 • MOVEMENT
 
-In _METW_ the lands of northwest Middle-earth are represented by regions. The site cards represent places that companies can visit within those regions. Except for a moving company during its movement/hazard phase, each company always has a current site card associated with it—the company is located at that site.
+In _METW_ the lands of northwest Middle-earth are represented by regions. The site cards represent places that companies can visit within those regions. Except for a moving company during its movement/hazard phase, each company always has a _current site card_ associated with it—the company is located at that site.
 
 {: .note }
-> **Clarification:** The specific region cards are not used with the Starter Rules. Remove these cards from your location deck if you are not using the Standard Rules. Region cards are not included in starter decks.
+> **Clarification:** The specific region cards are not used with the Starter Rules. Remove these cards from your location deck if you are not using the Standard Rules. Region cards are **not** included in starter decks.
 > 
 > **Note:** Site paths do not direct the movement process. The site path is used to determine which hazard creatures your opponent may play against your moving company.
 > 
