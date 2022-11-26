@@ -202,7 +202,7 @@ The winner of the game is the player that has gathered the most marshalling poin
 >      - Celeborn………………………0 CPs………2 MP
 >      - Gildor Inglorion (controls:)………………………Total CPs: 1………1 MP
 >           - Healing Herbs (item)………………………1 CP………0 MPs
-> Legolas (controls:)………………………Total CPs: 2………2 MPs
+> - Legolas (controls:)………………………Total CPs: 2………2 MPs
 > - Elfstone (item)………………………1 CP………0 MPs
 > - Dagger of Westernesse (item)………………………1 CP………0 MPs
 > - Elrohir………………………0 CPs………1 MP
