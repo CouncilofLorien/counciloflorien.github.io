@@ -198,15 +198,15 @@ The winner of the game is the player that has gathered the most marshalling poin
 > | Men of Lebennin (faction) | 0 | 2 |
 > | Dreams of Lore (information) | 0 | 2 |
 > | Pallando (controls:) | Total CPs: 2 | 0 |
-> | &Tab; Sword of Gondolin (item) | 2 | 2 |
-> | &Tab; Gwaihir (ally) | 0 | 2 |
-> | &Tab; Celeborn | 0 | 2 |
-> | &Tab; Gildor Inglorion (controls:) | Total CPs: 1 | 1 |
-> | &Tab; &Tab; Healing Herbs (item) | 1 | 0 |
+> | &emsp; Sword of Gondolin (item) | 2 | 2 |
+> | &emsp; Gwaihir (ally) | 0 | 2 |
+> | &emsp; Celeborn | 0 | 2 |
+> | &emsp; Gildor Inglorion (controls:) | Total CPs: 1 | 1 |
+> | &emsp; &emsp; Healing Herbs (item) | 1 | 0 |
 > | Legolas (controls:) | Total CPs: 2 | 2 |
-> | &Tab; Elfstone (item) | 1 | 0 |
-> | &Tab; Dagger of Westernesse (item) | 1 | 0 |
-> | &Tab; Elrohir | 0 CPs | 1 MP
+> | &emsp; Elfstone (item) | 1 | 0 |
+> | &emsp; Dagger of Westernesse (item) | 1 | 0 |
+> | &emsp; Elrohir | 0 CPs | 1 MP
 > | Elladan | Total CPs: 0 | 1 |
 > 
 > **Jason Controls:**
