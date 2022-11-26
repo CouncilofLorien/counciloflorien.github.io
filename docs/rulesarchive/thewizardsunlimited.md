@@ -193,66 +193,33 @@ The winner of the game is the player that has gathered the most marshalling poin
 {: .note }
 > **Example:** (CPs = Corruption Points, MPs = Marshalling Points) Our two players Jessica and Jason have been playing for awhile and Jessica exhausts her play deck during her turn. Since she has 15 MPs and Jason only has 14, she decides to call the Free Council. Each player has one company in Lórien:
 >  
-> | Jessica Controls | CPs | MPs |
+> | Jessica Controls: | CPs | MPs |
 > | :--------------- | ---: | ---: |
 > | Men of Lebennin (faction) | 0 | 2 |
 > | Dreams of Lore (information) | 0 | 2 |
 > | Pallando (controls:) | Total CPs: 2 | 0 |
 > | &emsp; Sword of Gondolin (item) | 2 | 2 |
 > | &emsp; Gwaihir (ally) | 0 | 2 |
-> | &emsp; Celeborn | 0 | 2 |
+> | &emsp; Celeborn | Total CPs: 0 | 2 |
 > | &emsp; Gildor Inglorion (controls:) | Total CPs: 1 | 1 |
 > | &emsp; &emsp; Healing Herbs (item) | 1 | 0 |
 > | Legolas (controls:) | Total CPs: 2 | 2 |
 > | &emsp; Elfstone (item) | 1 | 0 |
 > | &emsp; Dagger of Westernesse (item) | 1 | 0 |
-> | &emsp; Elrohir | 0 CPs | 1 MP
+> | &emsp; Elrohir | Total CPs: 0 | 1 |
 > | Elladan | Total CPs: 0 | 1 |
 > 
-> **Jason Controls:**
-> 
-> - Radagast (controls:)………………………Total CPs: 0………0 MPs
-> - Beorn (controls:)………………………0 CPs………2 MPs
->      - Quickbeam (ally)………………………0 CPs………2 MP
-> - Théoden (controls:)………………………Total CPs: 4………2 MP
->      - Sword of Gondolin (item)………………………2 CPs………2 MP
->      - Great Shield of Rohan (item)………………………2 CPs………2 MP
-> - Faramir (controls:)………………………Total CPs: 2………2 MP
->      - Dagger of Westernesse (item)………………………1 CP………0 MP
->      - Healing Herbs (item)………………………1 CP………0 MP
-> - Imrahil (controls:)………………………Total CPs: 0………2 MP
-
-{: .note }
-> **Example:** (CPs = Corruption Points, MPs = Marshalling Points) Our two players Jessica and Jason have been playing for awhile and Jessica exhausts her play deck during her turn. Since she has 15 MPs and Jason only has 14, she decides to call the Free Council. Each player has one company in Lórien:
-> 
-> **Jessica Controls:** 
-> 
-> - Men of Lebennin (faction)…………………0 CPs………2 MPs
-> - Dreams of Lore (information)………………0 CPs………2 MPs
-> - Pallando (controls:)………………………Total CPs: 2………0 MPs
->      - Sword of Gondolin (item)…………………2 CPs………2 MPs
->      - Gwaihir (ally)………………………0 CPs………2 MP
->      - Celeborn……………………………0 CPs………2 MP
->      - Gildor Inglorion (controls:)……………Total CPs: 1………1 MP
->           - Healing Herbs (item)…………………1 CP………0 MPs
-> - Legolas (controls:)…………………Total CPs: 2………2 MPs
-> - Elfstone (item)………………………1 CP………0 MPs
-> - Dagger of Westernesse (item)…………………1 CP………0 MPs
-> - Elrohir………………………0 CPs………1 MP
-> - Elladan………………………Total CPs: 0………1 MP
-> 
-> **Jason Controls:**
-> 
-> - Radagast (controls:)………………………Total CPs: 0………0 MPs
-> - Beorn (controls:)………………………0 CPs………2 MPs
->      - Quickbeam (ally)………………………0 CPs………2 MP
-> - Théoden (controls:)………………………Total CPs: 4………2 MP
->      - Sword of Gondolin (item)………………………2 CPs………2 MP
->      - Great Shield of Rohan (item)………………………2 CPs………2 MP
-> - Faramir (controls:)………………………Total CPs: 2………2 MP
->      - Dagger of Westernesse (item)………………………1 CP………0 MP
->      - Healing Herbs (item)………………………1 CP………0 MP
-> - Imrahil (controls:)………………………Total CPs: 0………2 MP
+> | Jason Controls: | CPs | MPs |
+> | Radagast (controls:) | Total CPs: 0 | 0 |
+> | &emsp; Beorn (controls:) | 0 | 2 |
+> | &emsp; &emsp; Quickbeam (ally) | 0 | 2 |
+> | Théoden (controls:) | Total CPs: 4 | 2 |
+> | &emsp; Sword of Gondolin (item) | 2 | 2 |
+> | &emsp; Great Shield of Rohan (item) | 2 | 2 |
+> | Faramir (controls:) | Total CPs: 2 | 2 |
+> | &emsp; Dagger of Westernesse (item) | 1 | 0 | 
+> | &emsp; Healing Herbs (item) | 1 | 0 |
+> | Imrahil (controls:) | Total CPs: 0 | 2 |
 > 
 > Since Jessica called the council, Jason gets one final turn before the council starts. Jason brings Éomer into play for one more MP, and then moves his company to Lake-town. After facing the hazards Jessica plays, he successfully plays the Men of Northern Rhovanion faction for two more MPs. Jason now has 17 MPs and will win the game if he does not lose any MPs due to characters failing corruption checks. 
 > 
