@@ -523,7 +523,7 @@ At the end of a moving company’s movement/hazard phase (before players return 
  
 #### Moving From a Non-Haven Site
 
-If the company’s site of origin is a non-Haven site, the new site card must be the Haven listed as the nearest Haven on the site of origin card (i.e., the company can move back to its nearest Haven).
+If the company’s site of origin is a non-Haven site, the new site card _must_ be the Haven listed as the nearest Haven on the site of origin card (i.e., the company can move back to its nearest Haven).
 
 #### Moving From a Haven Site
 
@@ -532,12 +532,12 @@ If the company’s site of origin is a Haven, the new site card must meet one of
  - If the new site card is another Haven, it must give a site path to the site of origin (i.e., the company can move to one of two adjacent Havens; each Haven is adjacent to two other Havens).
 
 {: .note }
-> **Clarification:** If a company is not moving, no cards are drawn. If a company is moving to a non-haven site, you may draw up to the # of cards indicated by the site that it is moving to (at least one card must be drawn); your opponent does the same. If a company is moving to a haven site, you may draw up to the # of cards indicated by the site that it is moving from (at least one card must be draw); your opponent does the same.
+> **Clarification:** If a company is not moving, no cards are drawn. If a company is moving to a non-haven site, you _may_ draw up to the # of cards indicated by the site that it is _moving to_ (at least one card must be drawn); your opponent does the same. If a company is moving to a haven site, you _may_ draw up to the # of cards indicated by the site that it is _moving from_ (at least one card must be draw); your opponent does the same.
 > 
 > **Clarification:** To summarize the movement process:
-> - Except for a moving company during its movement/hazard phase, each company is always at a specific site, called its current site.
-> - A company wanting to move to a new site plays a new site card face down beside its current site card by the end of its organization phase. A company can only move: from a non-Haven site to its “Nearest Haven,” from a Haven site to one of its two “adjacent Havens,” or from a Haven site to a non-Haven site that lists that Haven as its “Nearest Haven.”
-> - At the beginning of its movement/hazard phase, a moving company’s new site card is revealed and its current site card becomes its site of origin.
+> - Except for a moving company during its movement/hazard phase, each company is always at a specific site, called its _current site_.
+> - A company wanting to move to a _new site_ plays a new site card face down beside its current site card by the end of its organization phase. A company can only move: from a non-Haven site to its “Nearest Haven,” from a Haven site to one of its two “adjacent Havens,” or from a Haven site to a non-Haven site that lists that Haven as its “Nearest Haven.”
+> - At the beginning of its movement/hazard phase, a moving company’s new site card is revealed and its current site card becomes its _site of origin_.
 > - At the end of its movement/hazard phase, the site of origin is removed and the moving company’s new site card becomes the company’s current site card.
 > 
 > **Suggestion:** To help decide where a company should move, look at the resource cards in your hand. Then decide to which of your available sites to move. For example, if you have a major item, go to a site where a major item can be played.
