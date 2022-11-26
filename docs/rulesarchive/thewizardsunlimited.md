@@ -190,7 +190,7 @@ The winner of the game is the player that has gathered the most marshalling poin
 > **Clarification:** If both players have the same number of marshalling points at the Free Council, the game ends in a tie—both players win (if you have to, roll dice and the high roller is the winner).
 
 {: .note }
-> **Example:** (CPs = Corruption Points, MPs = Marshalling Points) Our two players Jessica and Jason have been playing for awhile and Jessica exhausts her play deck during her turn. Since she has 15 MPs and Jason only has 14, she decides to call the Free Council. Each player has one company in Lórien:
+> **Example:** (CPs = Corruption Points, MPs = Marshalling Points) Our two players Jessica and Jason have been playing for awhile and Jessica exhausts her play deck during her turn. Since she has 15 MPs and Jason only has 14, she decides to call the Free Council. Each player has one company in Lorien:
 >  
 > | Jessica Controls: | CPs | MPs |
 > | :--------------- | ---: | ---: |
@@ -314,7 +314,7 @@ Only one of each “unique” card may be included in your play deck and startin
 
 Follow these steps to get ready to play:
 
- 1. Place your site cards in your location deck. This deck should contain all of your Haven cards (i.e., Rivendell, Edhellond, Grey Havens, and Lórien). You may include any number of Haven cards, but only one of each non-Haven site card.
+ 1. Place your site cards in your location deck. This deck should contain all of your Haven cards (i.e., Rivendell, Edhellond, Grey Havens, and Lorien). You may include any number of Haven cards, but only one of each non-Haven site card.
  2. Place between 25 and 50 Resource cards **and** an equal number of Hazard cards in your play deck (if you have fewer than 25 of either available, just use all of the cards you have). Only one of each “unique” card may be included. No more than three copies of any one non-unique card may be included.
  3. Place one to five starting characters (no Wizards) face down in front of you. The combined mind attributes (see [page 19](/rules-archive/the-wizards-unlimited#character-attributes)) of these characters must be 20 or less. You and your opponent reveal your characters simultaneously, placing any duplicated characters into your play decks. Then organize your starting characters into followers and companies and place them at Rivendell (i.e., place a Rivendell site card next to them).
  4. You _may_ assign up to two non-unique minor items to your starting characters (i.e., two items total, **not** two to each character). These items must come from cards that you have not already committed to your play deck.
@@ -555,14 +555,23 @@ If the company’s site of origin is a Haven, the new site card must meet one of
 
 There are six types of regions and six types of sites:
 
-| Region Type | Symbol | Site Type | Symbol |
-| ---: | :--- | ---: | :--- |
-Coastal Seas | \[ ![](/assets/images/coastalsea.svg) ] |  Havens  |  \[ ![](/assets/images/free-haven.svg) ]
-Free-domains |  \[ ![](/assets/images/free-domain.svg) ]  | Free-holds  | \[ ![](/assets/images/free-hold.svg) ]
-Border-lands |  \[ ![](/assets/images/border-land.svg) ] |  Border-holds  | \[ ![](/assets/images/border-hold.svg) ]
-Wilderness  |  \[ ![](/assets/images/wilderness.svg) ]  | Ruins & Lairs  | \[ ![](/assets/images/ruinlair.svg) ]
-Shadow-lands  | \[ ![](/assets/images/shadow-land.svg) ]  | Shadow-holds  | \[ ![](/assets/images/shadow-hold.svg) ]
-Dark-domains  | \[ ![](/assets/images/dark-domain.svg) ]  | Dark-holds |  \[ ![](/assets/images/dark-hold.svg) ]
+| Region Type | Symbol |
+| ---: | :--- | 
+Coastal Seas | \[ ![](/assets/images/coastalsea.svg) ] |  
+Free-domains |  \[ ![](/assets/images/free-domain.svg) ]  | 
+Border-lands |  \[ ![](/assets/images/border-land.svg) ] | 
+Wilderness  |  \[ ![](/assets/images/wilderness.svg) ]  | 
+Shadow-lands  | \[ ![](/assets/images/shadow-land.svg) ]  | 
+Dark-domains  | \[ ![](/assets/images/dark-domain.svg) ]  |
+
+| Site Type | Symbol |
+| ---: | :--- | 
+Havens  |  \[ ![](/assets/images/free-haven.svg) ]
+Free-holds  | \[ ![](/assets/images/free-hold.svg) ]
+Border-holds  | \[ ![](/assets/images/border-hold.svg) ]
+Ruins & Lairs  | \[ ![](/assets/images/ruinlair.svg) ]
+Shadow-holds  | \[ ![](/assets/images/shadow-hold.svg) ]
+Dark-holds |  \[ ![](/assets/images/dark-hold.svg) ]
 
 A _site path_ is the sequence of regions between a site and its nearest Haven. However, each region in the sequence is only indicated by its type, not by its name. Each non-Haven site card has a site path on it. Each Haven site card has two site paths, but each of those two paths gives the sequence of regions between the Haven and one of the two Havens nearest to it.
 
@@ -572,44 +581,48 @@ A _site path_ is the sequence of regions between a site and its nearest Haven. H
 > **Clarification:** A “company’s site path” during its movement /hazard phase is the site path between its site of origin and its new site. On non-Haven site cards, the site path is provided on the top left border. On Haven cards, the site path to each of the two adjacent Havens is provided in the card text.
 
 {: .note }
-> **Example:** The Lonely Mountain site’s nearest Haven is the Lórien site. The symbol for Wilderness is ![](/assets/images/wilderness.svg), the symbol for Border-land is ![](/assets/images/border-land.svg). So the site path between Lórien and the Lonely Mountain is: ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg). 
+> **Example:** The Lonely Mountain site’s nearest Haven is the Lorien site. The symbol for Wilderness is ![](/assets/images/wilderness.svg), the symbol for Border-land is ![](/assets/images/border-land.svg). So the site path between Lorien and the Lonely Mountain is: ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg). 
 > 
 > The regions between these two sites are Wold & Foothills (Wilderness), Anduin Vales (Border-lands), Woodland Realm (Border-land), and Northern Rhovanion (Wilderness).
 
 {: .note }
 > **Example:** In the Example of movement from Bree to Thranduil’s Halls on page 26, the first site path used was from Bree to Rivendell: ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg). During that movement/hazard phase, Jason (Jessica’s opponent) can play hazard creatures keyed to wilderness (![](/assets/images/wilderness.svg)), double wilderness (![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg)), and Havens (the new site).
 > 
-> During the next turn, the company uses the site path from Rivendell to Lórien: ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg). During that movement/hazard phase, Jason can play hazard creatures keyed to wilderness ( ![](/assets/images/wilderness.svg) ), double wilderness ( ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ), borderlands ( ![](/assets/images/border-land.svg) ), and Havens (the new site).
+> During the next turn, the company uses the site path from Rivendell to Lorien: ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg). During that movement/hazard phase, Jason can play hazard creatures keyed to wilderness ( ![](/assets/images/wilderness.svg) ), double wilderness ( ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ), border-lands ( ![](/assets/images/border-land.svg) ), and Havens (the new site).
 > 
-> Finally, the company takes one turn to move from Lórien to Thranduil’s Halls using the site path, ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/border-land.svg). Jason can play hazard creatures keyed to wilderness ( ![](/assets/images/wilderness.svg) ), border-lands ( ![](/assets/images/border-land.svg) ), and free-holds (the new site).
+> Finally, the company takes one turn to move from Lorien to Thranduil’s Halls using the site path, ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/border-land.svg). Jason can play hazard creatures keyed to wilderness ( ![](/assets/images/wilderness.svg) ), border-lands ( ![](/assets/images/border-land.svg) ), and free-holds (the new site).
 
-#### Region Types
-
-_Coastal Seas_ \[ ![](/assets/images/coastalsea.svg) ]: A region consisting primarily of open water.
-
-_Free-domains_ \[ ![](/assets/images/free-domain.svg) ]: Very safe, civilized regions (e.g., Lindon, The White, Belfalas, Anorien, etc.).
-
-_Border-lands_ \[ ![](/assets/images/border-land.svg) ]: Less civilized regions on the border of the wilderness or shadow territory (e.g., Rohan, Lamedon, etc.).
-
-_Wilderness_ \[ ![](/assets/images/wilderness.svg) ]: Sparsely populated, uncivilized regions that cover most of NW Middle-earth (e.g., High Pass, Enedhwaith, Rhudaur, etc.).
-
-_Shadow-lands_ \[ ![](/assets/images/shadow-land.svg) ]: Regions with some active Shadow-forces and settlements (Imlad Morgul, Dagorlad, etc.).
-
-_Dark-domains_ \[ ![](/assets/images/dark-domain.svg) ]: Regions with a heavy concentration of Shadow-forces (Southern Mirkwood, Gorgoroth, etc.).
- 
-#### Site Types
-
-_Havens_ \[ ![](/assets/images/free-haven.svg) ]: Very safe sites of rest and healing (e.g., Rivendell, Grey Havens, Edhellond, and Lorien).
- 
-_Free-holds_ \[ ![](/assets/images/free-hold.svg) ]: Sites of safety, but still dangerous due to assassins, traitors, etc. (e.g., Minas Tirith, Edoras, etc.).
- 
-_Border-holds_ \[ ![](/assets/images/border-hold.svg) ]: Sites of relative safety, but still dangerous due to bandits, assassins, traitors, etc. (e.g., Bree, Lake-town, etc.).
- 
-_Ruins & Lairs_ \[ ![](/assets/images/ruinlair.svg) ]: Deserted sites often inhabited by dangerous creatures (e.g., the Lonely Mountain, Barrow-downs, etc.).
- 
-_Shadow-holds_ \[ ![](/assets/images/shadow-hold.svg) ]: Relatively deserted sites often inhabited by dangerous creatures and Shadow-forces (e.g., Goblin-gate, Mount Gram, etc.).
- 
-_Dark-holds_ \[ ![](/assets/images/dark-hold.svg) ]: Very dangerous sites with heavy concentrations of Shadow-forces (Dol Guldur, Barad-dur, Minas Morgul, etc.).
+{: .note }
+>
+> {: .text-center }
+> #### Region Types
+>
+> _Coastal Seas_ \[ ![](/assets/images/coastalsea.svg) ]: A region consisting primarily of open water.
+>
+>_Free-domains_ \[ ![](/assets/images/free-domain.svg) ]: Very safe, civilized regions (e.g., Lindon, The White, Belfalas, Anorien, etc.).
+>
+> _Border-lands_ \[ ![](/assets/images/border-land.svg) ]: Less civilized regions on the border of the wilderness or shadow territory (e.g., Rohan, Lamedon, etc.).
+>
+> _Wilderness_ \[ ![](/assets/images/wilderness.svg) ]: Sparsely populated, uncivilized regions that cover most of NW Middle-earth (e.g., High Pass, Enedhwaith, Rhudaur, etc.).
+>
+> _Shadow-lands_ \[ ![](/assets/images/shadow-land.svg) ]: Regions with some active Shadow-forces and settlements (Imlad Morgul, Dagorlad, etc.).
+>
+> _Dark-domains_ \[ ![](/assets/images/dark-domain.svg) ]: Regions with a heavy concentration of Shadow-forces (Southern Mirkwood, Gorgoroth, etc.).
+>
+> {: .text-center }
+> #### Site Types
+>
+> _Havens_ \[ ![](/assets/images/free-haven.svg) ]: Very safe sites of rest and healing (e.g., Rivendell, Grey Havens, Edhellond, and Lorien).
+> 
+>_Free-holds_ \[ ![](/assets/images/free-hold.svg) ]: Sites of safety, but still dangerous due to assassins, traitors, etc. (e.g., Minas Tirith, Edoras, etc.).
+>
+>_Border-holds_ \[ ![](/assets/images/border-hold.svg) ]: Sites of relative safety, but still dangerous due to bandits, assassins, traitors, etc. (e.g., Bree, Lake-town, etc.).
+> 
+> _Ruins & Lairs_ \[ ![](/assets/images/ruinlair.svg) ]: Deserted sites often inhabited by dangerous creatures (e.g., the Lonely Mountain, Barrow-downs, etc.).
+>
+>_Shadow-holds_ \[ ![](/assets/images/shadow-hold.svg) ]: Relatively deserted sites often inhabited by dangerous creatures and Shadow-forces (e.g., Goblin-gate, Mount Gram, etc.).
+>
+>_Dark-holds_ \[ ![](/assets/images/dark-hold.svg) ]: Very dangerous sites with heavy concentrations of Shadow-forces (Dol Guldur, Barad-dur, Minas Morgul, etc.).
 
 ## 7 • COMBAT
 
@@ -722,7 +735,7 @@ All of the factors affecting the strike must be decided before making the roll (
 
 {: .note }
 > **Example of Combat** _\[(#/#) means (prowess/body)]_
-> You control Bilbo (1/9), Balin (4/7) and his follower Bofur (4/7) (with Healing Herbs), Beretar (5/8), and Beregond (4/8) (with an Elven Cloak). They are en route from Rivendell to Lórien. There are 4.5 characters in the company which rounds up to 5, meaning the hazard limit is 5. 
+> You control Bilbo (1/9), Balin (4/7) and his follower Bofur (4/7) (with Healing Herbs), Beretar (5/8), and Beregond (4/8) (with an Elven Cloak). They are en route from Rivendell to Lorien. There are 4.5 characters in the company which rounds up to 5, meaning the hazard limit is 5. 
 > 
 > Your opponent plays Orc-raiders. He keys this hazard creature to the border-land of your company’s site path because he is mindful of Beregond’s Elven Cloak (a minor item that cancels a strike keyed to wilderness). Bilbo, a scout, taps and plays Concealment to cancel the attack. Orc-raiders is discarded. That’s 1 hazard down and potentially 4 to go. 
 > 
@@ -732,7 +745,7 @@ All of the factors affecting the strike must be decided before making the roll (
 > 
 > Facing the next strike, Balin taps, and rolls a 7 to defeat it. Beretar resolves the final strike, taps, and defeats it by rolling a 3. Orc-warband is discarded. Your opponent sees that one character, Bofur, is untapped. He plays Giant (13/-) (a fourth hazard) and reasons that Bofur will have to take its one vicious strike. (After all, if you give up the option of assigning the one strike to your untapped character, namely Bofur, the opponent will be able to choose from all 5 characters which will take the strike). Your opponent does not see what Bofur sees. Before assigning the strike, Bofur taps and uses his Healing Herbs to untap Beregond, who then announces he is taking the strike. The Giant is keyed solely to double wilderness, so Beregond taps his Elven Cloak to cancel its single strike. The Giant is discarded.
 > 
-> The opponent announces he will play no more hazards and the company breathes a sigh of relief. Bilbo will be able to heal at the start of the next turn since his company will be in Lórien, a Haven.
+> The opponent announces he will play no more hazards and the company breathes a sigh of relief. Bilbo will be able to heal at the start of the next turn since his company will be in Lorien, a Haven.
 
 ## 8 • CORRUPTION
 
@@ -775,7 +788,7 @@ Certain characters receive modifications to corruption checks, and certain cards
 >  - Corruption point values never have a plus or minus sign. The sum of all such values is the character’s corruption point total for the purposes of a corruption check. Both values appear in the lower right of certain cards.
 
 {: .note }
-> **Example:** (CP = Corruption Points) Using the Middle-earth: The Wizards terms, lets take a look at Frodo at several points during the action in The Lord of the Rings between the Shire and Lórien. Frodo has a special ability: he has a corruption check modifier of +4 (as provided in the bottom right corner of his card). 
+> **Example:** (CP = Corruption Points) Using the Middle-earth: The Wizards terms, lets take a look at Frodo at several points during the action in The Lord of the Rings between the Shire and Lorien. Frodo has a special ability: he has a corruption check modifier of +4 (as provided in the bottom right corner of his card). 
 > 
 > When Frodo, Sam, Merry, and Pippin flee the Shire, Frodo only has one item: The One Ring (it gives Frodo 6 corruption points). Suppose Frodo has to make a corruption check (roll 2D6) in this situation: if a 2 is rolled, the modified roll is 6 (2 + 4 for his special ability) and Frodo is discarded. Any other roll would have no effect on Frodo.
 > 
@@ -940,7 +953,7 @@ You may only play a hazard long-event during your opponent’s movement/hazard p
 > **Clarification:** The effects of many long-events and permanent-events affect both players because they can remain in effect during both players’ turns. So remember, when you play a long-event hazard on your opponent during his turn, it will remain in effect during your next turn. For example, Awaken Denizens (a long-event) increases the number of automatic-attack strikes at Ruins & Lairs for one turn for each player.
 
 {: .note }
-> **Example:** One of Jason’s companies with a hazard limit of six is moving from Rivendell to Lórien; its site path is ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg). Jessica plays Doors of Night (a permanent-event) during Jason’s movement/hazard phase. This causes all resource environment cards in play to be discarded and their effects are canceled. This card will remain in play until it is discarded due to the play of a Gates of Morning, Twilight, or another card that targets the Doors of Night.
+> **Example:** One of Jason’s companies with a hazard limit of six is moving from Rivendell to Lorien; its site path is ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg). Jessica plays Doors of Night (a permanent-event) during Jason’s movement/hazard phase. This causes all resource environment cards in play to be discarded and their effects are canceled. This card will remain in play until it is discarded due to the play of a Gates of Morning, Twilight, or another card that targets the Doors of Night.
 > 
 > Jessica then plays Choking Shadows (a short-event). She decides to use its option of treating one wilderness \[ ![](/assets/images/wilderness.svg) ] as a shadow-land \[ ![](/assets/images/shadow-land.svg) ] until the end of the turn. This changes the site path for Jason’s company from ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg) to: ![](/assets/images/wilderness.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg). Choking Shadows is discarded, but its effects will remain until the end of the turn (unless canceled before that).
 > 
@@ -1162,10 +1175,10 @@ For the purposes of playing hazards, the site path for a company using region mo
 {: .note }
 > **Clarification:** Region movement can be more dangerous to use than normal movement—certain creatures can be played keyed to specific region cards.
 > 
-> For example, suppose you decide to move a company from Lórien to the Easterling Camp using the region cards: Wold & Foothills (![](/assets/images/wilderness.svg)), Brown Lands (![](/assets/images/shadow-land.svg)), Dagorlad (![](/assets/images/shadow-land.svg)), and Horse Plains (![](/assets/images/shadow-land.svg)). The region types traveled through are the same as the site path used in normal movement between Lórien and the Easterling Camp (as given on the Easterling Camp site card)—so the same creatures may be played against the company based on region type. Adûnaphel (a Nazgûl) card normally can only be played keyed to dark-holds and dark-domains, but it also states that it can be played keyed to Dagorlad (and the Brown Lands). Thus, Adûnaphel could be played on this company as it moves through Dagorlad. Similarly, Indûr Dawndeath and Khamûl the Easterling could also be played. 
+> For example, suppose you decide to move a company from Lorien to the Easterling Camp using the region cards: Wold & Foothills (![](/assets/images/wilderness.svg)), Brown Lands (![](/assets/images/shadow-land.svg)), Dagorlad (![](/assets/images/shadow-land.svg)), and Horse Plains (![](/assets/images/shadow-land.svg)). The region types traveled through are the same as the site path used in normal movement between Lorien and the Easterling Camp (as given on the Easterling Camp site card)—so the same creatures may be played against the company based on region type. Adûnaphel (a Nazgûl) card normally can only be played keyed to dark-holds and dark-domains, but it also states that it can be played keyed to Dagorlad (and the Brown Lands). Thus, Adûnaphel could be played on this company as it moves through Dagorlad. Similarly, Indûr Dawndeath and Khamûl the Easterling could also be played. 
 
 {: .note }
-> **Example:** Lets look at our example for movement from the Starter Game (see page 26). Jessica’s company in Bree (in the Arthedain region) wants to move to Thranduil’s Halls (in the Woodland Realm region) in order to bring the Wood-elves faction into play. If she does not use region movement, this takes three turns: Bree to Rivendell, Rivendell to Lórien, and Lórien to Thranduil’s Halls. Using region movement, she can do it in 2 turns. 
+> **Example:** Lets look at our example for movement from the Starter Game (see page 26). Jessica’s company in Bree (in the Arthedain region) wants to move to Thranduil’s Halls (in the Woodland Realm region) in order to bring the Wood-elves faction into play. If she does not use region movement, this takes three turns: Bree to Rivendell, Rivendell to Lorien, and Lorien to Thranduil’s Halls. Using region movement, she can do it in 2 turns. 
 > 
 > The shortest number of region cards required for this move is 5 and there are two possible routes:
 > 
