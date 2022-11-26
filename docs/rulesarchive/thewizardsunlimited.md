@@ -593,8 +593,9 @@ A _site path_ is the sequence of regions between a site and its nearest Haven. H
 > Finally, the company takes one turn to move from Lorien to Thranduil’s Halls using the site path, ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/border-land.svg). Jason can play hazard creatures keyed to wilderness ( ![](/assets/images/wilderness.svg) ), border-lands ( ![](/assets/images/border-land.svg) ), and free-holds (the new site).
 
 {: .note }
-> #### Region Types
 > {: .text-center }
+> #### Region Types
+> 
 > _Coastal Seas_ \[ ![](/assets/images/coastalsea.svg) ]: A region consisting primarily of open water.
 >
 >_Free-domains_ \[ ![](/assets/images/free-domain.svg) ]: Very safe, civilized regions (e.g., Lindon, The White, Belfalas, Anorien, etc.).
@@ -811,14 +812,14 @@ Certain characters receive modifications to corruption checks, and certain cards
 
 ## 9 • INFLUENCE
 
-You have a pool of general influence. Your characters and Wizard have direct influence. These two forms of influence can control and affect characters (see pages 18-20) and factions.
+You have a pool of general influence. Your characters and Wizard have direct influence. These two forms of influence can control and affect characters (see [pages 18-20](rules-archive/the-wizards-unlimited#5--characters--companies)) and factions.
 
 Your _unused general influence_ is equal to 20 minus the sum of the mind attributes of your non-follower characters in play (i.e., do not count your followers).
 
-A character’s unused direct influence is equal to his direct influence attribute minus the sum of the mind attributes of his followers. All characters have a direct influence attribute of at least zero, so any character has unused direct influence of at least zero.
+A character’s _unused direct influence_ is equal to his direct influence attribute minus the sum of the mind attributes of his followers. All characters have a direct influence attribute of at least zero, so any character has unused direct influence of at least zero.
 
 {: .note}
-> Note: In the Standard Game, direct influence can be used to attempt to interfere with your opponent’s control of his characters, followers, factions, allies, and items (see pages 58-60).
+> **Note:** In the Standard Game, direct influence can be used to attempt to interfere with your opponent’s control of his characters, followers, factions, allies, and items (see [pages 58-60](/rules-archive/the-wizards-unlimited#9--influence-1)).
 
 ### BRINGING AN ALLY INTO PLAY
 
@@ -826,7 +827,7 @@ You can automatically bring an ally into play by tapping one of your characters.
 
 ### BRINGING A FACTION INTO PLAY
 
-In order to play a faction card, you must tap one of your characters that is at the “site” indicated on the faction’s card. Then you must make an influence check. Make a roll (2D6), add your character’s unused direct influence, and add any appropriate modifications (any applicable standard modifications from the faction card and from any other cards played). All modification cards must be played before making the roll (2D6).
+In order to play a faction card, you must tap one of your characters that is at the “site” indicated on the faction’s card. Then you must make an influence check. Make a roll (2D6), add your character’s unused direct influence, and add any appropriate modifications (any applicable _standard modifications_ from the faction card and from any other cards played). All modification cards must be played before making the roll (2D6).
 
 If the modified result is greater than the value required on the faction card, you place the faction in your play area (it now counts towards your marshalling point total). Otherwise, you discard the faction card. Once a faction is brought into play, it is not controlled by any specific character and it does not count against general or direct influence.
 
@@ -834,10 +835,15 @@ If the modified result is greater than the value required on the faction card, y
 > **Clarification:** Most faction cards list some “standard modifications” to the influence check based only upon the race of the character that was tapped to make the influence check. Similarly, certain characters have special modifications to influence checks. Such a modification only applies if it belongs to the character that was tapped to make the influence check.
 
 {: .note }
-> **Example:** Suppose, during your site phase, you have the Knights of Dol Amroth in your hand and a company at Dol Amroth—the company contains Imrahil. He has no followers, so his unused direct influence is 2. You tap Imrahil to attempt to bring the Knights into play. You make your influence check roll (2D6), and the result is 5. This roll is modified by:
+> **Example:** Suppose, during your site phase, you have the Knights of Dol Amroth in your hand and a company at Dol Amroth—the company contains Imrahil. He has no followers, so his unused direct influence is 2. You tap Imrahil to attempt to bring the Knights into play. 
+> 
+> You make your influence check roll (2D6), and the result is 5. This roll is modified by:
+> 
 > - Imrahil’s unused direct influence: +2.
 > - +2 — Imrahil has a special ability: his direct influence is increased by +2 against the Knights of Dol Amroth.
-> - A standard modification of +1, because Imrahil is a Dúnadan and a standard modification of +1 is listed on the Knights of Dol Amroth card. So the modified result is 10 (=5+2+2+1). Since this is greater than 8 (the number required by the faction card), the Knights of Dol Amroth are successfully brought into play. 
+> - A standard modification of +1, because Imrahil is a Dunadan and a standard modification of +1 is listed on the Knights of Dol Amroth card. 
+> 
+> So the modified result is 10 (=5+2+2+1). Since this is greater than 8 (the number required by the faction card), the Knights of Dol Amroth are successfully brought into play. 
 > 
 > If you had rolled a 3, your modified result would have been 8 (=3+2+2+1), and you would have had to discard the faction card.
 
@@ -855,9 +861,9 @@ During your movement/hazard phase, both players draw cards when each company mov
 
 ### THE HAZARD LIMIT
 
-During your opponent’s movement/hazard phase, the number of hazard cards that you may play on one of your opponent’s companies is that company’s hazard limit. The hazard limit is equal to two or the company’s size, whichever is greater. A company’s size is equal to the number of characters in it, with each Hobbit counting half (round up). For this purpose, Wizards and followers do count as characters, but allies do **not**.
+During your opponent’s movement/hazard phase, the number of hazard cards that you may play on one of your opponent’s companies is that company’s _hazard limit_. The hazard limit is equal to two **or** the company’s size, whichever is greater. A company’s size is equal to the number of characters in it, with each Hobbit counting half (round up). For this purpose, Wizards and followers do count as characters, but allies do **not**.
 
-A hazard limit can be modified by the play of certain cards. Tapping a Nazgûl permanent-event does count against the hazard limit. 
+A hazard limit can be modified by the play of certain cards. Tapping a Nazgûl permanent-event _does_ count against the hazard limit. 
 
 {: .note }
 > **Clarification:** For the purposes of calculating hazard limits, each company’s size is determined for each company at the beginning of the movement/hazard phase (e.g., it remains fixed). So, if a character is eliminated during his company’s portion of the movement/hazard phase, his company’s hazard limit does not change.
@@ -867,7 +873,7 @@ A hazard limit can be modified by the play of certain cards. Tapping a Nazgûl p
 Hazard cards represent evil forces and natural dangers in Middle-earth. You may play hazard cards only during your opponent’s movement/hazard phase.
 
 ### Creature Cards
-You may use a creature card to directly attack one of your opponent’s companies. Such an attack can occur only if:
+You may use a creature card to _directly attack_ one of your opponent’s companies. Such an attack can occur only if:
 
 - The company is at a specific site at which the creature’s card text says it can be played.
 - The company’s site of origin or new site is in a region where the creature’s card text says it can be played.
@@ -885,17 +891,17 @@ If a creature satisfies more than one of these conditions, you must choose (when
 The region types that a company moves through during a given turn are determined by the following criteria:
 
  - If a company did not play a new site card, it did not move through any regions—so, no creature may be played based solely on region conditions.
- - If the company was at a Haven and has played a new non-Haven site card (but no region cards), the region types are indicated by the new site card’s site path.
- - If the company was at a Haven site and has played a new Haven site card (but no region cards), the region types are indicated by the new Haven site card’s “Site Path from” the old Haven site (i.e., the site path from the old Haven).
- - If the company was at a non-Haven site and has played a new Haven site card (but no region cards), the region types are indicated by the site of origin’s site path (i.e., the site path on the site that the company left).
+ - If the company was at a _Haven_ and has played a new _non-Haven_ site card (but no region cards), the region types are indicated by the new site card’s site path.
+ - If the company was at a _Haven_ site and has played a new _Haven_ site card (but no region cards), the region types are indicated by the new Haven site card’s “Site Path from” the old Haven site (i.e., the site path from the old Haven).
+ - If the company was at a _non-Haven_ site and has played a new _Haven_ site card (but no region cards), the region types are indicated by the site of origin’s site path (i.e., the site path on the site that the company left).
 
 {: .note }
 > **Standard Game Only:** If the company played region cards, the region types of the site path are indicated by the region cards (i.e., each region card has a region type).
 
 {: .note }
-> **Example:** Certain card combinations make a specific card more powerful and allow it to be played more often. Ren the Unclean (a Nazgûl) has one strike with a prowess of 15 and can only be played keyed to dark-domains and dark-holds. However, if played in combination with a Fell Beast card, Ren has two strikes with a prowess of 13 and can be played keyed to shadowlands, shadow-holds, dark-domains, and dark-holds.
+> **Example:** Certain card combinations make a specific card more powerful and allow it to be played more often. Ren the Unclean (a Nazgul) has one strike with a prowess of 15 and can only be played keyed to dark-domains and dark-holds. However, if played in combination with a Fell Beast card, Ren has two strikes with a prowess of 13 and can be played keyed to shadow-lands, shadow-holds, dark-domains, and dark-holds.
 > 
-> If Ren is played in combination with a Fell Beast card and a Morgul-knife card, he has two strikes with a prowess of 15 and can be played keyed to shadow-lands, shadow-holds, dark-domains, and dark-holds. In addition, one character wounded by his attack receives 4 corruption points due to the Morgul-knife.
+> If Ren is played in combination with a Fell Beast card _and_ a Morgul-knife card, he has two strikes with a prowess of 15 and can be played keyed to shadow-lands, shadow-holds, dark-domains, and dark-holds. In addition, one character wounded by his attack receives 4 corruption points due to the Morgul-knife.
 
 ### RESOURCE CARDS
 
