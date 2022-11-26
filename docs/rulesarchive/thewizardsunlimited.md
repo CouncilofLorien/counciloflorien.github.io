@@ -586,14 +586,13 @@ A _site path_ is the sequence of regions between a site and its nearest Haven. H
 > The regions between these two sites are Wold & Foothills (Wilderness), Anduin Vales (Border-lands), Woodland Realm (Border-land), and Northern Rhovanion (Wilderness).
 
 {: .note }
-> **Example:** In the Example of movement from Bree to Thranduil’s Halls on page 26, the first site path used was from Bree to Rivendell: ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg). During that movement/hazard phase, Jason (Jessica’s opponent) can play hazard creatures keyed to wilderness (![](/assets/images/wilderness.svg)), double wilderness (![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg)), and Havens (the new site).
+> **Example:** In the Example of movement from Bree to Thranduil’s Halls on [page 26](/rules-archive/the-wizards-unlimited#moving-from-a-haven-site), the first site path used was from Bree to Rivendell: ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg). During that movement/hazard phase, Jason (Jessica’s opponent) can play hazard creatures keyed to wilderness (![](/assets/images/wilderness.svg)), double wilderness (![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg)), and Havens (the new site).
 > 
 > During the next turn, the company uses the site path from Rivendell to Lorien: ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg). During that movement/hazard phase, Jason can play hazard creatures keyed to wilderness ( ![](/assets/images/wilderness.svg) ), double wilderness ( ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ), border-lands ( ![](/assets/images/border-land.svg) ), and Havens (the new site).
 > 
 > Finally, the company takes one turn to move from Lorien to Thranduil’s Halls using the site path, ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/border-land.svg). Jason can play hazard creatures keyed to wilderness ( ![](/assets/images/wilderness.svg) ), border-lands ( ![](/assets/images/border-land.svg) ), and free-holds (the new site).
 
 {: .note }
->
 > {: .text-center }
 > #### Region Types
 >
@@ -629,20 +628,22 @@ A _site path_ is the sequence of regions between a site and its nearest Haven. H
 Combat normally occurs when one of three things happen:
 
  - When a creature hazard is played on a company.
- - When a company at a site with an automatic-attack decides to attempt to play a resource card for that site (i.e., decides to attempt to enter and explore the site).
+ - When a company at a site with an _automatic-attack_ decides to attempt to play a resource card for that site (i.e., decides to attempt to enter and explore the site).
  - When any other card indicates that a company must face an attack.
 
 ### ATTACKS & STRIKES
 Combat consists of one or more _attacks_ that must be resolved one at a time. An attack consists of one or more _strikes_:
  - Each strike can target one and only one character in the attacked company.
  - Each character can be the target of only one strike from a given attack.
- - If an attack has more strikes than the company has characters, the attacker may allocate the excess strikes as -1 modifications (i.e., a -1 modification for each unallocated strike) to the prowess(es) of whichever target(s) he chooses. See the Strike Sequence on page 32. 
+ - If an attack has more strikes than the company has characters, the attacker may allocate the excess strikes as -1 modifications (i.e., a -1 modification for each unallocated strike) to the prowess(es) of whichever target(s) he chooses. See the [Strike Sequence on page 32](/rules-archive/the-wizards-unlimited#the-strike-sequence). 
 
 Unless the attack states otherwise, the defender chooses which _untapped_ characters will be the targets of given strikes. Then, the attacker chooses which other defending characters not yet assigned a strike will be the target of any remaining unassigned strikes. 
 
 {: .note }
 > **Clarification:** Against a given attack, a character may only defend against one strike.
+> 
 > **Clarification:** If the text on a creature card states that the “attacker chooses defending characters,” any characters in the defending company may be chosen (by the attacker) as the targets of the attack’s strikes.
+> 
 > **Clarification:** All of an attack’s strikes must be assigned to the characters in the defending company or as modifications to the strikes assigned. The attacker may **not** choose to not apply strikes. Any strike in excess of the number of characters in the company becomes a -1 modification to prowess of one character taking a strike (the attacker chooses). Only those strikes that are assigned need be defeated for the creature’s marshalling points to be received by the defender.
 
 #### Strike Modifications
@@ -656,7 +657,7 @@ There are a number of standard modifications to strikes:
  - The target’s prowess may also be modified due to the play of certain resource and hazard cards. Only one resource card requiring skill may be played against a given strike.
 
 | Condition | Mod. to Target's Prowess |
-| :--- | :--- |
+| :--- | ---: |
  Unwounded, tapped character * | -1
  Wounded character * | -2
  Untapped character decides not to tap * | -3
@@ -670,13 +671,13 @@ There are a number of standard modifications to strikes:
  
 #### Resolving Strikes
 
-Strikes are resolved one at a time as decided by the defending player. When you choose a strike to resolve, determine all of the factors affecting the strike before the roll is made (see “The Strike Sequence” below).
+Strikes are resolved one at a time as decided by the defending player. When you choose a strike to resolve, determine all of the factors affecting the strike before the roll is made (see “[The Strike Sequence](/rules-archive/the-wizards-unlimited#the-strike-sequence)” below).
 
 To resolve a strike, the defender makes a roll (2D6) and adds his modified prowess:
 
- - If this result is greater than the strike’s prowess, the strike fails. Such a strike is defeated if its body attribute is “–” or if it has a body attribute and fails a body check.
- - If this result is equal to the strike’s prowess, the strike was ineffectual (i.e., a “tie” means that the strike is avoided but not defeated).
- - Otherwise, the strike was successful (i.e., the character was defeated). The target character is wounded and must make a body check.
+ - If this result is greater than the strike’s prowess, the strike _fails_. Such a strike is defeated if its body attribute is “–” **or** if it has a body attribute and fails a body check.
+ - If this result is equal to the strike’s prowess, the strike was _ineffectual_ (i.e., a “tie” means that the strike is avoided but not defeated).
+ - Otherwise, the strike was _successful_ (i.e., the character was defeated). The target character is wounded and must make a body check.
 
 #### Body Checks
 
@@ -687,8 +688,7 @@ If a strike against a character is successful, the character is wounded and must
 > 
 > **Clarification:** If a strike against a character is successful, a body check must be resolved for the character before anything else happens. For example, Healing Herbs may not be used to heal such a character until after the body check is resolved (of course, if the character is eliminated, the Healing Herbs may not be used on him at all).
 
-As presented above, a strike that fails is defeated if its body attribute is “–” or if it has a body attribute and fails a body check. To make such a body check, the defender makes a roll (2D6); if this value is greater
-than the strike’s body attribute, the strike is defeated.
+As presented above, a strike that fails is defeated if its body attribute is “–” **or** if it has a body attribute and fails a body check. To make such a body check, the **defender** makes a roll (2D6); if this value is greater than the strike’s _body attribute_, the strike is defeated.
 
 {: .note } 
 > **Example:** Smaug has a prowess of 17 and a body of 8. He normally has two strikes when he attacks. If one of his strikes against a character fails, the defender makes a body check. If the resulting roll is greater than 8, that strike is defeated. However, both of Smaug’s strikes must be defeated in order for him to be eliminated—this would require at least two body check rolls greater than 8.
@@ -697,9 +697,9 @@ than the strike’s body attribute, the strike is defeated.
 
 An attack by a hazard creature is defeated if all of its strikes directed against (i.e., assigned to) a company are defeated. If a defeated attack is a hazard creature, the card is placed in the defender’s marshalling point pile. The defender receives marshalling points for eliminating it.
 
-If a hazard creature has multiple attacks, each must be defeated in order for the defender to receive the marshalling points.
+If a hazard creature has multiple attacks, each **must** be defeated in order for the defender to receive the marshalling points.
 
-If one of the strikes was canceled or ineffectual, the attack is not defeated. If the attack is canceled, the attack is not defeated. A canceled attack has no effect on the defending company.
+If one of the strikes was canceled or ineffectual, the attack is **not** defeated. If the attack is canceled, the attack is **not** defeated. A canceled attack has no effect on the defending company.
 
 {: .note }
 > **Example:** Faramir is untapped with a prowess of 5 and a body of 8. He is facing a strike from a Huorn (only has one strike) with a prowess of 10 and a body of “–.” Faramir could decide not to tap against the strike; in which case his prowess would only be 2 (his normal prowess of 5, minus 3 for not tapping) against this strike. However, Faramir decides to tap to face the strike.
@@ -735,6 +735,7 @@ All of the factors affecting the strike must be decided before making the roll (
 
 {: .note }
 > **Example of Combat** _\[(#/#) means (prowess/body)]_
+> 
 > You control Bilbo (1/9), Balin (4/7) and his follower Bofur (4/7) (with Healing Herbs), Beretar (5/8), and Beregond (4/8) (with an Elven Cloak). They are en route from Rivendell to Lorien. There are 4.5 characters in the company which rounds up to 5, meaning the hazard limit is 5. 
 > 
 > Your opponent plays Orc-raiders. He keys this hazard creature to the border-land of your company’s site path because he is mindful of Beregond’s Elven Cloak (a minor item that cancels a strike keyed to wilderness). Bilbo, a scout, taps and plays Concealment to cancel the attack. Orc-raiders is discarded. That’s 1 hazard down and potentially 4 to go. 
@@ -743,7 +744,9 @@ All of the factors affecting the strike must be decided before making the roll (
 > 
 > Beregond faces the next strike. Beregond taps and rolls a 10, defeating his strike handily. Bofur chooses to face his strike next. He a special +1 prowess bonus versus Orcs, and he chooses not to tap (-3 to his prowess). He rolls a 5 which ties the prowess of the Orc-warband strike. The strike is ineffectual. 
 > 
-> Facing the next strike, Balin taps, and rolls a 7 to defeat it. Beretar resolves the final strike, taps, and defeats it by rolling a 3. Orc-warband is discarded. Your opponent sees that one character, Bofur, is untapped. He plays Giant (13/-) (a fourth hazard) and reasons that Bofur will have to take its one vicious strike. (After all, if you give up the option of assigning the one strike to your untapped character, namely Bofur, the opponent will be able to choose from all 5 characters which will take the strike). Your opponent does not see what Bofur sees. Before assigning the strike, Bofur taps and uses his Healing Herbs to untap Beregond, who then announces he is taking the strike. The Giant is keyed solely to double wilderness, so Beregond taps his Elven Cloak to cancel its single strike. The Giant is discarded.
+> Facing the next strike, Balin taps, and rolls a 7 to defeat it. Beretar resolves the final strike, taps, and defeats it by rolling a 3. Orc-warband is discarded. 
+> 
+> Your opponent sees that one character, Bofur, is untapped. He plays Giant (13/-) (a fourth hazard) and reasons that Bofur will have to take its one vicious strike. (After all, if you give up the option of assigning the one strike to your untapped character, namely Bofur, the opponent will be able to choose from all 5 characters which will take the strike). Your opponent does not see what Bofur sees. Before assigning the strike, Bofur taps and uses his Healing Herbs to untap Beregond, who then announces he is taking the strike. The Giant is keyed solely to double wilderness, so Beregond taps his Elven Cloak to cancel its single strike. The Giant is discarded.
 > 
 > The opponent announces he will play no more hazards and the company breathes a sigh of relief. Bilbo will be able to heal at the start of the next turn since his company will be in Lorien, a Haven.
 
@@ -757,6 +760,7 @@ Each character has a corruption point total. This starts at zero, but certain ca
 > **Clarification:** For these purposes, a “corruption card” is a _hazard card_ that gives a character corruption points. Cards that force a corruption check but do not give corruption points (e.g., Weariness of the Heart, Ren the Unclean, etc.) are not “corruption cards.”
 > 
 > A character may have more than one corruption card, but only one may be played on him each turn. 
+> 
 > Certain corruption cards state: “Cannot be duplicated on a given character.” So, a given character may only have one of each such corruption card.
 
 ### CORRUPTION POINTS
@@ -769,14 +773,14 @@ When a card or other effect indicates that one of your characters must make a co
 
 **Nothing Happens** — If the modified result is greater than the character’s corruption point total, nothing happens. 
 
-**The Character is Discarded** — If the modified result is equal to the character’s corruption point total or one less than the character’s corruption point total, the character fails the corruption check and you must discard the character along with any non-follower cards he controls. In this case, if the character is a Wizard, you immediately lose the game.
+**The Character is Discarded** — If the modified result is equal to the character’s corruption point total **or** one less than the character’s corruption point total, the character _fails_ the corruption check and you must discard the character along with any non-follower cards he controls. In this case, if the character is a Wizard, you immediately lose the game.
 
 **The Character is Eliminated** — If the modified result is less than character’s corruption point total by two or more, the character _fails_ the corruption check and is eliminated (i.e., remove him from play) and you must discard any non-follower cards he controls. In this case, if the character is a Wizard, you immediately lose the game.
 
 {: .note }
 > **Clarification:** A character discarded due to a corruption check is **not** removed from play. He may be played again either by you (e.g., if you exhaust your play deck and draw that character) or by your opponent (e.g., if he has that character in his hand). In this case, the character stops working for the cause of the Free Peoples (at least for a while)—much as Radagast was corrupted by the physical nature of Middle-earth (i.e., he went “native”).
 > 
-> **Clarification:** A character eliminated due to a corruption check is removed from play. He may not be played again by either you or by your opponent. In this case, the character is permanently lost to the Free Peoples—much as Saruman was corrupted in The Lord of the Rings.
+> **Clarification:** A character eliminated due to a corruption check is removed from play. He may not be played again by either you or by your opponent. In this case, the character is permanently lost to the Free Peoples—much as Saruman was corrupted in _The Lord of the Rings_.
 
 ### CORRUPTION CHECK MODIFIERS
 
@@ -784,11 +788,13 @@ Certain characters receive modifications to corruption checks, and certain cards
 
 {: .note }
 > **Clarification:** There are two different values that affect corruption checks:
->  - Corruption check modifications always have either a plus (+) sign or a minus (–) sign (e.g., as noted on many character cards). The sum of all such applicable modifications are added to the corruption check roll.
->  - Corruption point values never have a plus or minus sign. The sum of all such values is the character’s corruption point total for the purposes of a corruption check. Both values appear in the lower right of certain cards.
+>  - _Corruption check modifications_ always have either a plus (+) sign or a minus (–) sign (e.g., as noted on many character cards). The sum of all such applicable modifications are added to the corruption check roll.
+>  - _Corruption point values_ never have a plus or minus sign. The sum of all such values is the character’s corruption point total for the purposes of a corruption check. 
+>  
+>  Both values appear in the lower right of certain cards.
 
 {: .note }
-> **Example:** (CP = Corruption Points) Using the Middle-earth: The Wizards terms, lets take a look at Frodo at several points during the action in The Lord of the Rings between the Shire and Lorien. Frodo has a special ability: he has a corruption check modifier of +4 (as provided in the bottom right corner of his card). 
+> **Example:** (CP = Corruption Points) Using the _Middle-earth: The Wizards_ terms, lets take a look at Frodo at several points during the action in _The Lord of the Rings_ between the Shire and Lorien. Frodo has a special ability: he has a corruption check modifier of +4 (as provided in the bottom right corner of his card). 
 > 
 > When Frodo, Sam, Merry, and Pippin flee the Shire, Frodo only has one item: The One Ring (it gives Frodo 6 corruption points). Suppose Frodo has to make a corruption check (roll 2D6) in this situation: if a 2 is rolled, the modified roll is 6 (2 + 4 for his special ability) and Frodo is discarded. Any other roll would have no effect on Frodo.
 > 
@@ -800,7 +806,7 @@ Certain characters receive modifications to corruption checks, and certain cards
 > 
 > Next, Frodo gets rid of the Lure of the Senses (by rolling greater than 6) and he transfers his Dagger of Westernesse. In addition, Bilbo gives him: Sting (1 CP) and The Mithril-coat (2 CPs). So Frodo’s CP total is 9 (6+1+2). If forced to make a corruption check, he is discarded on a roll of 4 or 5 and is eliminated on a roll of 2 or 3. 
 > 
-> Fortunately, the Fellowship of the Ring is formed (see the company in the example on page 21)—we will assume that two Fellowship cards (+1 to prowess and corruption checks for all characters in the company) are played initially. 
+> Fortunately, the Fellowship of the Ring is formed (see the company in the example on [page 21](/rules-archive/the-wizards-unlimited#direct-influence))—we will assume that two Fellowship cards (+1 to prowess and corruption checks for all characters in the company) are played initially. 
 > 
 > So Frodo leaves Rivendell with a CP total of 9 and corruption check modifiers totaling +6 (+4 normal +2 for Fellowship). Thus, if forced to make a corruption check (without other modifications), he will be discarded on a roll of 2 or 3.
 
