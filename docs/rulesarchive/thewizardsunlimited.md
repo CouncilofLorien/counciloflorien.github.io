@@ -556,7 +556,7 @@ If the company’s site of origin is a Haven, the new site card must meet one of
 There are six types of regions and six types of sites:
 
 | Region Type | Symbol |
-| ---: | :--- | 
+| :--- | :--- | 
 Coastal Seas | \[ ![](/assets/images/coastalsea.svg) ] |  
 Free-domains |  \[ ![](/assets/images/free-domain.svg) ]  | 
 Border-lands |  \[ ![](/assets/images/border-land.svg) ] | 
@@ -565,7 +565,7 @@ Shadow-lands  | \[ ![](/assets/images/shadow-land.svg) ]  |
 Dark-domains  | \[ ![](/assets/images/dark-domain.svg) ]  |
 
 | Site Type | Symbol |
-| ---: | :--- | 
+| :--- | :--- | 
 Havens  |  \[ ![](/assets/images/free-haven.svg) ]
 Free-holds  | \[ ![](/assets/images/free-hold.svg) ]
 Border-holds  | \[ ![](/assets/images/border-hold.svg) ]
@@ -593,9 +593,8 @@ A _site path_ is the sequence of regions between a site and its nearest Haven. H
 > Finally, the company takes one turn to move from Lorien to Thranduil’s Halls using the site path, ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/border-land.svg). Jason can play hazard creatures keyed to wilderness ( ![](/assets/images/wilderness.svg) ), border-lands ( ![](/assets/images/border-land.svg) ), and free-holds (the new site).
 
 {: .note }
-> {: .text-center }
 > #### Region Types
->
+> {: .text-center }
 > _Coastal Seas_ \[ ![](/assets/images/coastalsea.svg) ]: A region consisting primarily of open water.
 >
 >_Free-domains_ \[ ![](/assets/images/free-domain.svg) ]: Very safe, civilized regions (e.g., Lindon, The White, Belfalas, Anorien, etc.).
