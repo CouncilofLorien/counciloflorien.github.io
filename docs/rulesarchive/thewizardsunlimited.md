@@ -430,7 +430,7 @@ If a character directly influencing a follower is removed from play, the followe
 > ```
 
 {: .note } 
-> **Example:** In our example from page 11, Jessica and Jason each have one company organized as follows:
+> **Example:** In our example from [page 11](/rules-archive/the-wizards-unlimited#the-free-council), Jessica and Jason each have one company organized as follows:
 > 
 > ```mermaid
 > %%{init: {'flowchart' : {'curve' : 'linear'}, 'theme': 'base', 'themeVariables': { 'primaryColor': '#fff','primaryBorderColor': '#44434d','fontFamily': 'timesnewroman'}}}%%
