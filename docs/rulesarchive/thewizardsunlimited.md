@@ -222,9 +222,9 @@ The winner of the game is the player that has gathered the most marshalling poin
 > | &emsp; Healing Herbs (item) | 1 | 0 |
 > | Imrahil (controls:) | Total CPs: 0 | 2 |
 > 
-> Since Jessica called the council, Jason gets one final turn before the council starts. Jason brings Éomer into play for one more MP, and then moves his company to Lake-town. After facing the hazards Jessica plays, he successfully plays the Men of Northern Rhovanion faction for two more MPs. Jason now has 17 MPs and will win the game if he does not lose any MPs due to characters failing corruption checks. 
+> Since Jessica called the council, Jason gets one final turn before the council starts. Jason brings Eomer into play for one more MP, and then moves his company to Lake-town. After facing the hazards Jessica plays, he successfully plays the Men of Northern Rhovanion faction for two more MPs. Jason now has 17 MPs and will win the game if he does not lose any MPs due to characters failing corruption checks. 
 > 
-> In this example, any character with 2 or more CPs could fail his corruption check (see pages 35-36). If Pallando fails his corruption check, the game ends immediately and Jason wins. If Legolas fails his corruption check, Jessica loses 2 of her MPs. If Théoden fails his corruption check, Jason loses 6 of his MPs. If Faramir fails his corruption check, Jason loses 2 of his MPs. 
+> In this example, any character with 2 or more CPs could fail his corruption check (see [pages 35-36](/rules-archive/the-wizards-unlimited#8--corruption)). If Pallando fails his corruption check, the game ends immediately and Jason wins. If Legolas fails his corruption check, Jessica loses 2 of her MPs. If Theoden fails his corruption check, Jason loses 6 of his MPs. If Faramir fails his corruption check, Jason loses 2 of his MPs. 
 
 ## 2 • THE CARDS AND DECKS
 
@@ -235,7 +235,7 @@ There are five types of cards: site cards, character cards (including Wizard car
 > 
 > _Site cards_ have a white parchment background on the front.
 > 
-> Character cards (non-Wizard) have a blue stone background on the front. Each Wizard card has a differently colored stone background. 
+> _Character cards_ (non-Wizard) have a blue stone background on the front. Each Wizard card has a differently colored stone background. 
 > 
 > _Resource cards_ have a copper metal background on the front.
 > 
@@ -249,9 +249,7 @@ There are five types of cards: site cards, character cards (including Wizard car
 > 
 > **Clarification:** For emphasis, a value used during play is often provided both in a card’s text and in another place on the same card. For example, a character’s corruption check modification is stated both in the text and the lower right corner of the character’s card.
 > 
-> **Note:** Each starter deck has a small pack of cards called a fixed set. There are 5 fixed sets in all. One appears randomly in each starter deck. The top facing card of all fixed sets is Gates of Morning. 
-> 
-> A fixed set is included in each starter deck to make a starter deck playable without any other cards.
+> **Note:** Each starter deck has a small pack of cards called a fixed set. There are 5 fixed sets in all. One appears randomly in each starter deck. The top facing card of all fixed sets is Gates of Morning.<br>&ensp;A fixed set is included in each starter deck to make a starter deck playable without any other cards.
 
 {: .text-center }
 ![](/assets/images/cardsanddecks.svg)
