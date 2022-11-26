@@ -210,6 +210,7 @@ The winner of the game is the player that has gathered the most marshalling poin
 > | Elladan | Total CPs: 0 | 1 |
 > 
 > | Jason Controls: | CPs | MPs |
+> | :-------------- | ---: | ---: |
 > | Radagast (controls:) | Total CPs: 0 | 0 |
 > | &emsp; Beorn (controls:) | 0 | 2 |
 > | &emsp; &emsp; Quickbeam (ally) | 0 | 2 |
