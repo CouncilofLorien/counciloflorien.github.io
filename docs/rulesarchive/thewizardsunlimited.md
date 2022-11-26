@@ -923,7 +923,9 @@ If a character is eliminated by corruption, discard all of the items that he con
 
 {: .note }
 > **Clarification:** An item only taps when used if its text states so. Thus, weapons and armor do not normally tap when used.
+> 
 > **Clarification:** A character may control (i.e., bear) any item, even if he cannot use its abilities.
+> 
 > **Clarification:** A character may control (i.e., bear) more than one weapon or more than one shield or more than one armor. However, only one of each type may be used at any given time.
 
 **Minor Items** — If a resource card that taps a site (e.g., ally, faction, item, information, etc.) is successfully played at a site, one additional character may tap to play a minor item. Such a minor item may be played even if the site does not specifically state that a minor item is playable at the site. For example, a minor item played when bringing an ally into play would simulate a gift from the ally.
@@ -968,7 +970,7 @@ You may only play a hazard long-event during your opponent’s movement/hazard p
 > 
 > Jessica then plays Choking Shadows (a short-event). She decides to use its option of treating one wilderness \[ ![](/assets/images/wilderness.svg) ] as a shadow-land \[ ![](/assets/images/shadow-land.svg) ] until the end of the turn. This changes the site path for Jason’s company from ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg) to: ![](/assets/images/wilderness.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg). Choking Shadows is discarded, but its effects will remain until the end of the turn (unless canceled before that).
 > 
-> Then, Jessica next plays Morgul Night (a long-event)—all wildernesses \[ ![](/assets/images/wilderness.svg) ] to be treated as shadow-lands \[ ![](/assets/images/shadow-land.svg) ] and all shadow-lands \[ ![](/assets/images/shadow-land.svg) ] to be treated as dark-domains \[ ![](/assets/images/dark-domain.svg) ]. This changes the site path for Jason’s company from ![](/assets/images/wilderness.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg) to: ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg) ![](/assets/images/border-land.svg) ![](/assets/images/shadow-land.svg). Jessica can still play three more hazards and she can key them to border-lands, shadow-lands, and/or dark-domains. Unless its discard is forced by another card, Morgul Night and its effects will remain in play until Jessica’s next long-event phase (approximately two turns).
+> Then, Jessica next plays Morgul Night (a long-event)—all wildernesses \[ ![](/assets/images/wilderness.svg) ] are treated as shadow-lands \[ ![](/assets/images/shadow-land.svg) ] and all shadow-lands \[ ![](/assets/images/shadow-land.svg) ] are treated as dark-domains \[ ![](/assets/images/dark-domain.svg) ]. This changes the site path for Jason’s company from ![](/assets/images/wilderness.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg) to: ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg) ![](/assets/images/border-land.svg) ![](/assets/images/shadow-land.svg). Jessica can still play three more hazards and she can key them to border-lands, shadow-lands, and/or dark-domains. Unless its discard is forced by another card, Morgul Night and its effects will remain in play until Jessica’s next long-event phase (approximately two turns).
 
 ### STORING CARDS
 
@@ -976,7 +978,7 @@ During your organization phase, you may _store_ any of your items that are at a 
 
 A stored item is placed in your _marshalling point pile_ and still counts for marshalling points. Once an item is stored it may not be unstored and brought back into play. _The One Ring_ may not be stored.
 
-Some items and resource cards state that they can be stored when at a specific site (e.g., the Book of Mazarbul can be stored at a Dwarf-hold). Such an item or resource card is still placed in the marshalling point pile and cannot be brought back into play.
+Some items and resource cards state that they can be stored when at a specific site (e.g., the _Book of Mazarbul_ can be stored at a Dwarf-hold). Such an item or resource card is still placed in the marshalling point pile and cannot be brought back into play.
 
 {: .note }
 > **Clarification:** Certain cards state that a character bearing such a card cannot untap until the card is stored at a certain place. After storing such a card, the character does not untap until the untap phase of his player’s next turn. 
@@ -992,7 +994,7 @@ During your organization phase, you may transfer items between characters at the
 
 ### ACTIONS AND CARD PLAY
 
-The various activities that you and your opponent can perform during play are called actions. Typical actions include playing a card, tapping a card, revealing a card, etc. The following general guidelines apply to resolving actions; more detailed guidelines can be found on pages 61-63.
+The various activities that you and your opponent can perform during play are called actions. Typical actions include playing a card, tapping a card, revealing a card, etc. The following general guidelines apply to resolving actions; more detailed guidelines can be found on [pages 61-63](/rules-archive/the-wizards-unlimited#timing-rules).
 
  - You must give your opponent a chance to respond to every action, and vice versa. If you perform an action and move on to another action without giving your opponent a chance to respond, you must “back up” if he indicates that he wants to respond. A series of declared actions made in response to one another is called a chain of effects. You always have the option of declaring the first action in a chain of effects during your turn. The actions in a chain of effects are resolved one at a time from last declared to first declared (i.e., the last declared action is resolved first, then the second to the last, etc.).
  - If the play of a card requires other actions (e.g., corruption checks), the actions are resolved in the order in which they appear on the card.
@@ -1030,14 +1032,12 @@ At the Free Council, you may reveal any unique marshalling point cards in your h
 
 There are six different types of marshalling points; each is associated with a specific shape:
 
-| Types of Marshalling Points | Shape |
-| ---: | :--- |
-Character Points | ![](/assets/images/charactermp.svg)
-Item Points (Major, Greater, & Rings only) | ![](/assets/images/itemmp.svg)
-Faction Points | ![](/assets/images/factionmp.svg)
-Ally Points | ![](/assets/images/allymp.svg)
-Kill Points (from defeating creatures) | ![](/assets/images/killmp.svg)
-Miscellaneous Points | ![](/assets/images/miscmp.svg)
+| Character Points | ![](/assets/images/charactermp.svg) | 
+| Item Points (Major, Greater, & Rings only) | ![](/assets/images/itemmp.svg) | 
+| Faction Points | ![](/assets/images/factionmp.svg) | 
+| Ally Points | ![](/assets/images/allymp.svg) | 
+| Kill Points (from defeating creatures) | ![](/assets/images/killmp.svg) | 
+| Miscellaneous Points | ![](/assets/images/miscmp.svg) | 
 
 These types of marshalling points can affect your marshalling point
 total in two ways:
@@ -1049,7 +1049,7 @@ total in two ways:
 > **Clarification:** These marshalling point modifications do not apply until the Free Council actually takes place. Specifically, the modifications do not affect your marshalling point total when it is used to determine if you can call the Free Council (i.e., you need 20 MPs to call the Free Council before any of these modifications are made).
 
 {: .note }
-> **Example:** Let’s look again at our example from page 11. Assume Jason failed to play the Men of Northern Rhovanion (3 MPs) on his last turn. Assume none of the characters failed a corruption check (i.e., they all come to the Free Council). 
+> **Example:** Let’s look again at our [example from page 11](/rules-archive/the-wizards-unlimited#the-free-council). Assume Jason failed to play the Men of Northern Rhovanion (3 MPs) on his last turn. Assume none of the characters failed a corruption check (i.e., they all come to the Free Council). 
 > 
 > Jessica notices that Jason has no faction points (he blew his roll to get the Men of Northern Rhovanion). So her faction points are doubled to 4. 
 > 
@@ -1058,7 +1058,7 @@ total in two ways:
 > At this point, the marshalling points (MPs) break down as follows:
 > 
 > | Jessica’s MP Cards | MPs | Modified MPs |
-> | :--- | :--- | :--- |
+> | :--- | :---: | ---: |
 > | Celeborn  |  2  |  2
 > Elladan  |  1  |  1
 > Elrohir  |  1  |  1
@@ -1071,11 +1071,11 @@ total in two ways:
 > **Total**  | **15** |  **17**
 > 
 > | Jason’s MP Cards | MPs | Modified MPs |
-> | :--- | :--- | :--- |
+> | :--- | :---: | ---: |
 > Beorn  |  2  |  2
 > Faramir  |  2  |  2
 > Imrahil  |  2  |  2
-> Théoden  |  2  |  0
+> Theoden  |  2  |  0
 > Sword of Gondolin (item)  |  2  |  2
 > Great Shield of Rohan (item)  |  2  |  2
 > Quickbeam (ally)  |  2  |  2
