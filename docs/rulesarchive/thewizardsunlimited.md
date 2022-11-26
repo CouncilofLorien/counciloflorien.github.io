@@ -189,6 +189,39 @@ The winner of the game is the player that has gathered the most marshalling poin
 > 
 > **Clarification:** If both players have the same number of marshalling points at the Free Council, the game ends in a tie—both players win (if you have to, roll dice and the high roller is the winner).
 
+
+{: .note }
+> **Example:** (CPs = Corruption Points, MPs = Marshalling Points) Our two players Jessica and Jason have been playing for awhile and Jessica exhausts her play deck during her turn. Since she has 15 MPs and Jason only has 14, she decides to call the Free Council. Each player has one company in Lórien:
+>  
+> | Jessica Controls | CPs | MPs |
+> | :--------------- | ---: | ---: |
+> | Men of Lebennin (faction) | 0 | 2 |
+> | Dreams of Lore (information) | 0 | 2 |
+> | Pallando (controls:) | Total CPs: 2 | 0 |
+> | &Tab;Sword of Gondolin (item) | 2 | 2 |
+> | &Tab;Gwaihir (ally) | 0 | 2 |
+> | &Tab;Celeborn | 0 | 2 |
+> | &Tab;Gildor Inglorion (controls:) | Total CPs: 1 | 1 |
+> | &Tab;&Tab;Healing Herbs (item) | 1 | 0 |
+> | Legolas (controls:) | Total CPs: 2 | 2 |
+> | &Tab;Elfstone (item) | 1 | 0 |
+> | &Tab;Dagger of Westernesse (item) | 1 | 0 |
+> | &Tab;Elrohir | 0 CPs | 1 MP
+> | Elladan | Total CPs: 0 | 1 |
+> 
+> **Jason Controls:**
+> 
+> - Radagast (controls:)………………………Total CPs: 0………0 MPs
+> - Beorn (controls:)………………………0 CPs………2 MPs
+>      - Quickbeam (ally)………………………0 CPs………2 MP
+> - Théoden (controls:)………………………Total CPs: 4………2 MP
+>      - Sword of Gondolin (item)………………………2 CPs………2 MP
+>      - Great Shield of Rohan (item)………………………2 CPs………2 MP
+> - Faramir (controls:)………………………Total CPs: 2………2 MP
+>      - Dagger of Westernesse (item)………………………1 CP………0 MP
+>      - Healing Herbs (item)………………………1 CP………0 MP
+> - Imrahil (controls:)………………………Total CPs: 0………2 MP
+
 {: .note }
 > **Example:** (CPs = Corruption Points, MPs = Marshalling Points) Our two players Jessica and Jason have been playing for awhile and Jessica exhausts her play deck during her turn. Since she has 15 MPs and Jason only has 14, she decides to call the Free Council. Each player has one company in Lórien:
 > 
