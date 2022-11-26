@@ -194,19 +194,19 @@ The winner of the game is the player that has gathered the most marshalling poin
 > 
 > **Jessica Controls:** 
 > 
-> - Men of Lebennin (faction)………………………0 CPs………2 MPs
-> - Dreams of Lore (information)………………………0 CPs………2 MPs
+> - Men of Lebennin (faction)…………………0 CPs………2 MPs
+> - Dreams of Lore (information)………………0 CPs………2 MPs
 > - Pallando (controls:)………………………Total CPs: 2………0 MPs
->      - Sword of Gondolin (item)………………………2 CPs………2 MPs
+>      - Sword of Gondolin (item)…………………2 CPs………2 MPs
 >      - Gwaihir (ally)………………………0 CPs………2 MP
->      - Celeborn………………………0 CPs………2 MP
->      - Gildor Inglorion (controls:)………………………Total CPs: 1………1 MP
->           - Healing Herbs (item)………………………1 CP………0 MPs
-> - Legolas (controls:)………………………Total CPs: 2………2 MPs
+>      - Celeborn……………………………0 CPs………2 MP
+>      - Gildor Inglorion (controls:)……………Total CPs: 1………1 MP
+>           - Healing Herbs (item)…………………1 CP………0 MPs
+> - Legolas (controls:)…………………Total CPs: 2………2 MPs
 > - Elfstone (item)………………………1 CP………0 MPs
-> - Dagger of Westernesse (item)………………………1 CP………0 MPs
+> - Dagger of Westernesse (item)…………………1 CP………0 MPs
 > - Elrohir………………………0 CPs………1 MP
-> Elladan………………………Total CPs: 0………1 MP
+> - Elladan………………………Total CPs: 0………1 MP
 > 
 > **Jason Controls:**
 > 
