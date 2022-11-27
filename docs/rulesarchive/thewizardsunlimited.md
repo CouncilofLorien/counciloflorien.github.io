@@ -1585,7 +1585,7 @@ Dark-domains  |  ![](/assets/images/dark-domain.svg)
 {: .note} 
 > _Address rules questions and comments via email to metwice@aol.com or mail to: I.C.E, P.O. Box 1605, Charlottesville, VA, 22902. Look for METW discussion areas on your favorite on-line service and visit our home page on the WWW (http://www.ironcrown.com)._
 
-# CREDITS
+## CREDITS
 
 **Art Director:** Jessica Ney-Grimm  
 **Base Design:** Coleman Charlton  
