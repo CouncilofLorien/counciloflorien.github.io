@@ -863,7 +863,7 @@ During your movement/hazard phase, both players draw cards when each company mov
 
 During your opponent’s movement/hazard phase, the number of hazard cards that you may play on one of your opponent’s companies is that company’s _hazard limit_. The hazard limit is equal to two **or** the company’s size, whichever is greater. A company’s size is equal to the number of characters in it, with each Hobbit counting half (round up). For this purpose, Wizards and followers do count as characters, but allies do **not**.
 
-A hazard limit can be modified by the play of certain cards. Tapping a Nazgûl permanent-event _does_ count against the hazard limit. 
+A hazard limit can be modified by the play of certain cards. Tapping a Nazgul permanent-event _does_ count against the hazard limit. 
 
 {: .note }
 > **Clarification:** For the purposes of calculating hazard limits, each company’s size is determined for each company at the beginning of the movement/hazard phase (e.g., it remains fixed). So, if a character is eliminated during his company’s portion of the movement/hazard phase, his company’s hazard limit does not change.
@@ -1001,8 +1001,7 @@ The various activities that you and your opponent can perform during play are ca
  - A required or declared dice roll is an action and can be the target of another action or effect declared later in the same chain of effects.
  - When the effects of a dice roll require further actions (e.g., a roll for a strike requires a body check), those actions become the first actions (any further rolls come first) in the next chain of effects after the roll.
 
-{: .fs-7 .fw-700 .text-center }
-• PART I •<br>STANDARD RULES
+# • PART I •<br>STANDARD RULES
 
 You should read and master the Starter Rules before tackling the Standard Rules.
 
@@ -1049,7 +1048,7 @@ total in two ways:
 > **Clarification:** These marshalling point modifications do not apply until the Free Council actually takes place. Specifically, the modifications do not affect your marshalling point total when it is used to determine if you can call the Free Council (i.e., you need 20 MPs to call the Free Council before any of these modifications are made).
 
 {: .note }
-> **Example:** Let’s look again at our [example from page 11](/rules-archive/the-wizards-unlimited#the-free-council). Assume Jason failed to play the Men of Northern Rhovanion (3 MPs) on his last turn. Assume none of the characters failed a corruption check (i.e., they all come to the Free Council). 
+> **Example:** Let’s look again at our example from [page 11](/rules-archive/the-wizards-unlimited#the-free-council). Assume Jason failed to play the Men of Northern Rhovanion (3 MPs) on his last turn. Assume none of the characters failed a corruption check (i.e., they all come to the Free Council). 
 > 
 > Jessica notices that Jason has no faction points (he blew his roll to get the Men of Northern Rhovanion). So her faction points are doubled to 4. 
 > 
@@ -1097,11 +1096,11 @@ During your organization phase, you may tap your Wizard to bring up to 5 resourc
 
 Alternatively, if your play deck has at least 5 cards, you may tap your Wizard to bring one resource card directly from your sideboard into your play deck (reshuffle).
 
-#### Using Your Sideboard When You Tap a Nazgûl
+#### Using Your Sideboard When You Tap a Nazgul
 
-During your opponent’s movement/hazard phase, you may tap one of your Nazgûl permanent-events in play to bring up to 5 hazard cards from your sideboard into your discard pile. The normal result of tapping a Nazgûl does not apply. The Nazgûl is discarded. Tapping a Nazgûl in this fashion does count against the hazard limit.
+During your opponent’s movement/hazard phase, you may tap one of your Nazgul permanent-events in play to bring up to 5 hazard cards from your sideboard into your discard pile. The normal result of tapping a Nazgul does not apply. The Nazgul is discarded. Tapping a Nazgul in this fashion does count against the hazard limit.
 
-Alternatively, if your play deck has at least 5 cards, you may tap a Nazgûl permanent-event to bring one hazard card directly from your sideboard into your play deck (reshuffle).
+Alternatively, if your play deck has at least 5 cards, you may tap a Nazgul permanent-event to bring one hazard card directly from your sideboard into your play deck (reshuffle).
 
 {: .note }
 > **Clarification:** Your opponent may verify how many cards move to and from your sideboard, but you do not have to reveal what those cards are. 
@@ -1110,7 +1109,7 @@ Alternatively, if your play deck has at least 5 cards, you may tap a Nazgûl per
 
 ## 3 • GETTING READY TO PLAY
 
-Add your region cards to your location deck. See pages 54-56 for more information on how to use these cards.
+Add your region cards to your location deck. See [pages 54-56](/rules-archive/the-wizards-unlimited#region-movement) for more information on how to use these cards.
 
 {: .note }
 > **Note:** For play balance, we recommend both players have access to approximately the same number of region cards. If this cannot be achieved, region cards should not be used.
@@ -1186,7 +1185,7 @@ For the purposes of playing hazards, the site path for a company using region mo
 {: .note }
 > **Clarification:** Region movement can be more dangerous to use than normal movement—certain creatures can be played keyed to specific region cards.
 > 
-> For example, suppose you decide to move a company from Lorien to the Easterling Camp using the region cards: Wold & Foothills (![](/assets/images/wilderness.svg)), Brown Lands (![](/assets/images/shadow-land.svg)), Dagorlad (![](/assets/images/shadow-land.svg)), and Horse Plains (![](/assets/images/shadow-land.svg)). The region types traveled through are the same as the site path used in normal movement between Lorien and the Easterling Camp (as given on the Easterling Camp site card)—so the same creatures may be played against the company based on region type. Adûnaphel (a Nazgûl) card normally can only be played keyed to dark-holds and dark-domains, but it also states that it can be played keyed to Dagorlad (and the Brown Lands). Thus, Adûnaphel could be played on this company as it moves through Dagorlad. Similarly, Indûr Dawndeath and Khamûl the Easterling could also be played. 
+> For example, suppose you decide to move a company from Lorien to the Easterling Camp using the region cards: Wold & Foothills (![](/assets/images/wilderness.svg)), Brown Lands (![](/assets/images/shadow-land.svg)), Dagorlad (![](/assets/images/shadow-land.svg)), and Horse Plains (![](/assets/images/shadow-land.svg)). The region types traveled through are the same as the site path used in normal movement between Lorien and the Easterling Camp (as given on the Easterling Camp site card)—so the same creatures may be played against the company based on region type. Adunaphel (a Nazgul) card normally can only be played keyed to dark-holds and dark-domains, but it also states that it can be played keyed to Dagorlad (and the Brown Lands). Thus, Adûnaphel could be played on this company as it moves through Dagorlad. Similarly, Indûr Dawndeath and Khamûl the Easterling could also be played. 
 
 {: .note }
 > **Example:** Lets look at our example for movement from the Starter Game (see page 26). Jessica’s company in Bree (in the Arthedain region) wants to move to Thranduil’s Halls (in the Woodland Realm region) in order to bring the Wood-elves faction into play. If she does not use region movement, this takes three turns: Bree to Rivendell, Rivendell to Lorien, and Lorien to Thranduil’s Halls. Using region movement, she can do it in 2 turns. 
