@@ -133,7 +133,7 @@ Each player is attempting to acquire and store "lost treasures." A lost treasure
 
  - Only one lost treasure may be played at each different Dragon's lair. For example, if _Magical Harp_ (a unique hoard major item) is played at The Lonely Mountain and is designated to be a lost treasure, no other lost treasures may be played at The Lonely Mountain.
  - If a player already has one unstored lost treasure in play, he may not designate another hoard major or greater item to be a lost treasure.
- - Any unique hoard major or hoard greater item which has been designated as a lost treasure must retain this designation for the entire game. This distinction applies even if such an item is discarded (e.g., through a failed corruption check, by being influenced away. etc.) and then later brought back into play by either player. In such a case, a lost treasure may be played with a character even if another character under his player's control already bears a lost treasure (i.e., in this case a player could have more than one unstored lost treasure in play).
+ - Any unique hoard major or hoard greater item which has been designated as a lost treasure must retain this designation for the entire game. This distinction applies even if such an item is discarded (e.g., through a failed corruption check, by being influenced away, etc.) and then later brought back into play by either player. In such a case, a lost treasure may be played with a character even if another character under his player's control already bears a lost treasure (i.e., in this case a player could have more than one unstored lost treasure in play).
  - A player's hand size increases by one each time one of his characters stores a lost treasure.
 
 ### Victory Conditions
