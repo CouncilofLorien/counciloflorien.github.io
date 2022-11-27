@@ -55,7 +55,7 @@ Certain items are _hoard items_. Such an item may only be played at a site that 
 
 ### MANIFESTATIONS OF DRAGONS
 
-Each of the nine unique Dragons (see above) has three different manifestations:
+Each of the nine unique Dragons (see above) has three different _manifestations_:
 
 **Basic** — In this manifestation a Dragon is in his standard active mode. Each of these manifestations is represented by a standard creature
 card (e.g., the cards for Smaug, Agburanar, Daelomin, and Leucaruth from _METW_).
@@ -75,7 +75,7 @@ If at any time an attack from a manifestation of a unique Dragon is defeated or 
  - The Dragon's lair no longer has an automatic-attack.
 
 {: .note }
-> **Example:** You have played _Smaug at Home_ and _Smaug Ahunt_ (both are still in play). Then you play _Dragon's Desolation_ and _Smaug_ on one of your opponent's companies at Weathertop. Your opponent plays _Old Thrush_, rolls lucky, and defeats _Smaug_. He gets 5 MPs for defeating _Smaug_ **and** _Smaug_, _Smaug at Home_, and _Smaug Ahunt_ are all removed from play and The Lonely Mountain (Smaug's lair) no longer has an automatic-attack. 
+> **Example:** You have played _Smaug at Home_ and _Smaug Ahunt_ (both are still in play). Then you play _Dragon's Desolation_ and _Smaug_ on one of your opponent's companies at Weathertop. Your opponent plays _Old Thrush_, rolls lucky, and defeats _Smaug_. He gets 5 MPs for defeating _Smaug_ **and** _Smaug_, _Smaug at Home_, and _Smaug Ahunt_ are all removed from play **and** The Lonely Mountain (Smaug's lair) no longer has an automatic-attack. 
 > 
 > If, instead, one of your own companies had gone to The Lonely Mountain and defeated _Smaug at Home_, you would not receive the 5 MPs.
 
@@ -115,7 +115,7 @@ Normally, a company moving with region movement may lay down a maximum of four r
 {: .text-center }
 _A Scenario For Middle-earth: The Dragons_
 
-To play this scenario, each player will need at the **very** least one starter deck and several boosters from _Middle-earth: The Wizards_ plus some _Middle-earth: The Dragons_ (_METD_) booster packs—the exact number of which will depend on the chosen victory conditions.
+To play this scenario, each player will need at the **very** least one starter deck and several boosters from _Middle-earth: The Wizards_ **plus** some _Middle-earth: The Dragons_ (_METD_) booster packs—the exact number of which will depend on the chosen victory conditions.
 
 ### Special Rules
 
@@ -128,12 +128,11 @@ Each player is attempting to acquire and store "lost treasures." A lost treasure
 
 ### Victory Conditions
 
-The first player to store five lost treasures wins immediately. If both players have a limited collection of _MED_ cards or want to play a shorter game, this requirement can be reduced to only 2, 3, or 4 lost treasures. For a longer game, you can require that the winner also defeat one or two unique Dragons.
+The first player to store five lost treasures wins immediately. If both players have a limited collection of _METD_ cards or want to play a shorter game, this requirement can be reduced to only 2, 3, or 4 lost treasures. For a longer game, you can require that the winner also defeat one or two unique Dragons.
 
 ---
 
-{: .text-gamma }
-CREDITS
+## CREDITS
 
 **Art Director:** Jessica Ney-Grimm  
 **Base System Design:** Coleman Charlton  
