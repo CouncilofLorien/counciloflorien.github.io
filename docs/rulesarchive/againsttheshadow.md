@@ -16,13 +16,24 @@ search_exclude: true
 {:toc}
 </details>
 
-{: .fs-7 .fw-700 .text-center }
-MIDDLE-EARTH: AGAINST THE SHADOW
+<details markdown="block">
+  <summary>
+    NOTES <img src="/assets/images/scroll.svg">
+  </summary>
+  {: .text-gamma }
+  
+{: .counsel }
+> These rules include emendations correcting minor typographical and clerical errors in the original text. These emendations  are <b>not</b> annotated. 
+</details>
 
-This insert provides expansion rules and clari fications for use with all _Middle-earth Collectihle Card Game_ (_MECCG_) products.
+---
+
+# MIDDLE-EARTH: AGAINST THE SHADOW
+
+This insert provides expansion rules and clarifications for use with all _Middle-earth Collectible Card Game_ (_MECCG_) products.
 
 {: .note-dk }
-> **Note:** For a copy of these rules in larger type with more examples send a request and a self-addressed, stamped envelope to ICE, P.O. Box l605, Charlonesville, VA, 22903. Alternatively, visit our home page on the WWW (http://www.ironcrown.com).
+> **Note:** For a copy of these rules in larger type with more examples send a request and a self-addressed, stamped envelope to ICE, P.O. Box l605, Charlotesville, VA, 22903. Alternatively, visit our home page on the WWW (http://www.ironcrown.com).
 
 ### Placement of cards "off to the side" (_Clarification_)
 
@@ -32,7 +43,7 @@ Cards placed off to the side are in play for the purposes of uniqueness. Unless 
 
 ## HOARDS
 
-Certain items are _hoard_ items. Such an item may only be played at a site that contains a hoard. Each site with a Dragon automatic-attack (i.e., each Dragon's lair) contains a hoard. A hoard minor item may not be included with a starting company, and may not be played at a site that does not contain a hoard.
+Certain items are _hoard_ items. Such an item may only be played at a site that contains a hoard. Each site with a Dragon automatic-attack (i.e., each Dragon's lair) contains a hoard.[^hoard] A hoard minor item may not be included with a starting company, and may not be played at a site that does not contain a hoard.
 
 {: .note-dk }
 > **Example:** You can not play a hoard minor item at Mount Gram after successfully influencing the _Orcs of Angmar_ like you can with a normal minor item. Mount Gram does not contain a board.
@@ -82,16 +93,8 @@ Each adjacent site is followed by a number in parentheses—this number indicate
 > **Note:** A company moving from a surface site to its Under-deeps site does not need to make a roll.
 > **Example:** A minion company that starts a, Carn Dum can move normally or it can move to The Iron-deep—-The Iron-deeps lists Cam Dum as an adjacent site. Similarly, a minion company that starts at The Iron-deeps may attempt to move to any adjacent site listed: Cam Dum (0), The Under-leas (5), or The Under-vaults (6). However, after committing to movement, the moving player must roll a 5 or better to successfully move to The Under-leas or a 6 or better to successfully move to The Under-vaults.
 
-{: .fs-2 }
-_Middle-earth: Against The Shadow_ is a set of expansion cards for _Middle-earth: The Wizards_ and _Middle-earth: Lidless Eye, collectible card game produced by Iron Crown Enterprises, Inc. (ICE), Charlottesville, Virginia USA, the exclusive holder of the worldwide adventure games license based on J.R.R. Tolkien's _The Hobbit_ and _The Lord of the Rings_.  
-Copyright © 1995, 1996, 1997 Tolkien Enterprises, a division of The Saul Zaentz Company, Berkeley, CA. _Middle-earth: Against The Shadow_, _Middle-earth: The Wizards_, _Middle-earth: The Lidless Eye_, _Middle-earth: The Dragons_, _Middle-earth: Dark Minions_, _Middle-earth_, _The Hobbit_, _The Lord of the Rings_, and _The Return of the King_, and all characters and places therein, and the Burning Eye are trademark properties of Tolkien Enterprises. All rights reserved.  
-_The Fellowship of the Ring_ — Copyright © 1955, 1965 by J.R.R. Tolkien. Copyright © renewed 1982 by Christopher R. Tolkien, Michael H.R. Tolkien, John F.R. Tolkien and Priscilla M.A.R. Tolkien.  
-_The Hobbit_ — Copyright © 1937, 1938, 1966 by J.R.R. Tolkien.  
-_The Two Towers_ — Copyright © 1954, 1965 by J.R.R. Tolkien. Copyright © renewed 1982 by Christopher R. Tolkien, Michael H.R. Tolkien, John F.R. Tolkien and Priscilla M.A.R. Tolkien.   
-_The Return of the King_ — Copyright © 1955, 1965 by J.R.R. Tolkien. Copyright © renewed 1983 by Christopher R. Tolkien, Michael H.R. Tolkien, John F.R. Tolkien and Priscilla M.A.R. Tolkien.  
-_Unfinished Tales_ — Copyright © 1980 by George Allen & Unwin (Publishers) Ltd.  
-The characters "Alatar" and "Pallando" appear in _Unfinished Tales_. They appear here with specific permission of the Estate of J. R. R. Tolkien. The copyright to _Unfinished Tales_ is held by HarperCollins Publishers, in succession to George Allen & Unwin (Publishers) Ltd. and on behalf of Christopher Reuel Tolkien and Frank Richard Williamson, the Executors of the Estate of J.R.R. Tolkien.  
-The character symbols ( ![](/assets/images/di.svg) ![](/assets/images/mind.svg) ), region symbols ( ![](/assets/images/coastalsea.svg) ![](/assets/images/free-domain.svg) ![](/assets/images/border-land.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg) ![](/assets/images/wilderness.svg) ), and site symbols( ![](/assets/images/free-haven.svg) ![](/assets/images/free-hold.svg) ![](/assets/images/border-hold.svg) ![](/assets/images/shadow-hold.svg) ![](/assets/images/dark-hold.svg) ![](/assets/images/ruinlair.svg) ) are trademark properties of Iron Crown Enterprises. All rights reserved.  
-_Middle-earth: Against the Shadow_ is made for ICE in Belgium by Carta Mundi.
+---
 
-[^successful]: The rules were changes and these strikes are considered _successful_ (the same as if the character rolls too low), not cancelled.
+[^hoard]: On 29 June 1988 the [Hoards](/rules-archive/the-dragons#hoards) rule in _The Dragons_ received errara but this corresponding rule in _Against the Shadow_ did not receive the same errata. However, this rule change should be recognized here as well.
+[^successful]: On 29 June 1988 the [Characters Facing Multiple Strikes](/rules-archive/the-dragons#characters-facing-multiple-strikes) rule in _The Dragons_ received errara but this corresponding rule in _Against the Shadow_ did not receive the same errata. However, this rule change should be recognized here as well.
+
