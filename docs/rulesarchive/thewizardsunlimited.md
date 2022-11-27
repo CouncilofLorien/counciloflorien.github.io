@@ -1013,7 +1013,7 @@ The various activities that you and your opponent can perform during play are ca
  - A required or declared dice roll is an action and can be the target of another action or effect declared later in the same chain of effects.
  - When the effects of a dice roll require further actions (e.g., a roll for a strike requires a body check), those actions become the first actions (any further rolls come first) in the next chain of effects after the roll.
 
-# • PART I •<br>STANDARD RULES
+# • PART II •<br>STANDARD RULES
 
 You should read and master the Starter Rules before tackling the Standard Rules.
 
