@@ -218,7 +218,7 @@ When one of your agents attacks it is considered to be the _attacker_ and it has
 {: .note-dk }
 > **Example:** During your opponent's movement/hazard phase (MH-phase), you play Gisulf, counting as one against your hazard limit. He is placed face-down and is considered to start at any of his home sites: Woodmentown, Lake-town, or Dale (your choice whenever he is initially revealed). Gisulf may not take an action this turn—he was just played. However, if one of your opponent's companies were to move to one of Gisulf's home sites this tum, Gisulf could attack it during its site phase.
 > 
-> During your opponent's next MH-phase, his main company moves to Lorien. You decide to move Gisulf to a site in the Anduin Vales so that he is closer to more sites reachable from Lorien. He can do this because Woodmen-town is in Western Mirkwood, which is adjacent to Anduin Vales. One of your own company's is at Eagle's Eyrie and Framsburg is in your discard pile, so those cards are not available for Gisulf to use. Thus, Gisulf can only move to Gladden Fields or Beorn's House. You move him to Gladden Fields (counts one against the hazard limit), tapping him and placing that site card (his current site) face-down on lop of Gisulf. Maybe your opponent will try to get a ring next turn.
+> During your opponent's next MH-phase, his main company moves to Lorien. You decide to move Gisulf to a site in the Anduin Vales so that he is closer to more sites reachable from Lorien. He can do this because Woodmen-town is in Western Mirkwood, which is adjacent to Anduin Vales. One of your own company's is at Eagle's Eyrie and Framsburg is in your discard pile, so those cards are not available for Gisulf to use. Thus, Gisulf can only move to Gladden Fields or Beorn's House. You move him to Gladden Fields (counts one against the hazard limit), tapping him and placing that site card (his current site) face-down on top of Gisulf. Maybe your opponent will try to get a ring next turn.
 > 
 > Gisulf untaps during your untap phase. During your opponent's next MH-phase, his main company reveals that it is moving to Goblin-gate. Since Goblin-gate is in High Pass and High Pass is adjacent to Anduin Vales, you move Gisulf to Goblin-gate—tapping him and placing your Goblin-gate site card (his current site) face-down on top of him. 
 > 
@@ -232,7 +232,7 @@ When one of your agents attacks it is considered to be the _attacker_ and it has
 
 Only your opponent can receive marshalling points by defeating an agent that you played. If you defeat an agent that you played, it is removed from the game and no one receives its marshalling points.
 
-Marshalling points from defeating an agent count as kill points not as character points.
+Marshalling points from defeating an agent count as kill points **not** as character points.
 
 ### Influencing With an Agent
 
@@ -243,25 +243,13 @@ To influence an ally, follower, or character, the agent must be at the new site 
 
 To attempt to influence in this manner, your agenl must make an influence check as outlined in section 9 of the Standard Rules. However, the following exceptions apply:
 
- - Your agent's unused direcl influence and any other modifications are used ( i.e., the agent is doing the influencing, not a character).
+ - Your agent's unused direct influence and any other modifications are used (i.e., the agent is doing the influencing, not a character).
  - If your agent is _at his home site_ his direct influence is modified by +2.
  - You can't use resources cards to help the attempt (e.g., you may **not** reveal an identical resource card, you may not use a _Muster_, etc.).
  - If the target _character_ (or _follower_) has the same home site as the agent, treat the character's (or follower's) mind attribute as zero _and_ your agent's roll is modified by +2.
  - If the target _ally_ is playable at the agent's home site, treat the ally's mind attribute as zero _and_ your agent's roll is modified by +2.
- - If the target faction is playable at the agent's home site, treat the number required to bring the faction into play as zero and your agent's roll is modified by +2.
+ - If the target _faction_ is playable at the agent's home site, treat the number required to bring the faction into play as zero _and_ your agent's roll is modified by +2.
 
 ## CREATURES AS AUTOMATIC-ATTACKS
 
 Any hazard creature you play as an automatic-attack is discarded if defeated—it is not placed in your opponent's marshalling point pile.
-
-{: .fs-2 }
-_Middle-earth: Dark Minions_ is a set of expansion cards for _Middle-earth: The Wizards_, a collectible card game produced by Iron Crown Enterprises, Inc. (ICE), Charlottesville, Virginia USA, the exclusive holder of the worldwide adventure games license based on J.R.R. Tolkien's _The Hobbit_ and _The Lord of the Rings_.  
-Copyright © 1995, 1996 Tolkien Enterprises, a division of The Saul Zaentz Company, Berkeley, CA. _Middle-earth: Dark Minions_, _Middle-earth: The Wizards_, _Middle-earth: The Dragons_, _Middle-earth_, _The Hobbit_, _The Lord of the Rings_, and _The Return of the King_, and all characters and places therein, and the Burning Eye are trademark properties of Tolkien Enterprises. All rights reserved.  
-_The Fellowship of the Ring_ — Copyright © 1955, 1965 by J.R.R. Tolkien. Copyright © renewed 1982 by Christopher R. Tolkien, Michael H.R. Tolkien, John F.R. Tolkien and Priscilla M.A.R. Tolkien.  
-_The Hobbit_ — Copyright © 1937, 1938, 1966 by J.R.R. Tolkien.  
-_The Two Towers_ — Copyright © 1954, 1965 by J.R.R. Tolkien. Copyright © renewed 1982 by Christopher R. Tolkien, Michael H.R. Tolkien, John F.R. Tolkien and Priscilla M.A.R. Tolkien.   
-_The Return of the King_ — Copyright © 1955, 1965 by J.R.R. Tolkien. Copyright © renewed 1983 by Christopher R. Tolkien, Michael H.R. Tolkien, John F.R. Tolkien and Priscilla M.A.R. Tolkien.  
-_Unfinished Tales_ — Copyright © 1980 by George Allen & Unwin (Publishers) Ltd.  
-The characters "Alatar" and "Pallando" appear in _Unfinished Tales_. They appear here with specific permission of the Estate of J. R. R. Tolkien. The copyright to _Unfinished Tales_ is held by HarperCollins Publishers, in succession to George Allen & Unwin (Publishers) Ltd. and on behalf of Christopher Reuel Tolkien and Frank Richard Williamson, the Executors of the Estate of J.R.R. Tolkien. 
-The character symbols ( ![](/assets/images/di.svg) ![](/assets/images/mind.svg) ), region symbols ( ![](/assets/images/coastalsea.svg) ![](/assets/images/free-domain.svg) ![](/assets/images/border-land.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg) ![](/assets/images/wilderness.svg) ), and site symbols( ![](/assets/images/free-haven.svg) ![](/assets/images/free-hold.svg) ![](/assets/images/border-hold.svg) ![](/assets/images/shadow-hold.svg) ![](/assets/images/dark-hold.svg) ![](/assets/images/ruinlair.svg) ) are trademark properties of Iron Crown Enterprises. All rights reserved.  
-_Middle-earth: Dark Minions_ is made for ICE in Belgium by Carta Mundi.
