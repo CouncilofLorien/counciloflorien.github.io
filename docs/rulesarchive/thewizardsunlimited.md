@@ -1116,7 +1116,7 @@ Add your region cards to your location deck. See [pages 54-56](/rules-archive/th
 
 ## 4 • THE PLAYER TURN
 
-The Full Player Turn Summary is presented on pages 68-70.
+The [Full Player Turn Summary](/rules-archive/the-wizards-unlimited#full-player-turn-summary) is presented on [pages 68-70](/rules-archive/the-wizards-unlimited#full-player-turn-summary).
 
 ## 5 • CHARACTERS & COMPANIES
 
@@ -1154,7 +1154,7 @@ Before you play your Wizard, you may use general influence to bring a character 
 
 ## 6 • MOVEMENT
 
-There are two ways to move from one site to another. A company can use the site path on a site card (see the Starter Rules) or it can use region cards as its site path to a specific site card (i.e., region
+There are two ways to move from one site to another. A company can use the site path on a site card (see the Starter Rules) **or** it can use region cards as its site path to a specific site card (i.e., region
 movement). 
 
 {: .note }
@@ -1180,15 +1180,15 @@ A region is adjacent to another region if and only if each region lists the othe
 
 #### Playing Hazards
 
-For the purposes of playing hazards, the site path for a company using region movement is defined by the region types of the region cards played. You can use a creature hazard to directly attack one of your opponent’s companies if at least one of the region types on the creature’s card matches that region type of a region card played by the company (two are required for creatures that require two symbols of the same type).
+For the purposes of playing hazards, the site path for a company using region movement is defined by the region types of the region cards played. You can use a creature hazard to _directly attack_ one of your opponent’s companies if at least one of the region types on the creature’s card matches that region type of a region card played by the company (two are required for creatures that require two symbols of the same type).
 
 {: .note }
 > **Clarification:** Region movement can be more dangerous to use than normal movement—certain creatures can be played keyed to specific region cards.
 > 
-> For example, suppose you decide to move a company from Lorien to the Easterling Camp using the region cards: Wold & Foothills (![](/assets/images/wilderness.svg)), Brown Lands (![](/assets/images/shadow-land.svg)), Dagorlad (![](/assets/images/shadow-land.svg)), and Horse Plains (![](/assets/images/shadow-land.svg)). The region types traveled through are the same as the site path used in normal movement between Lorien and the Easterling Camp (as given on the Easterling Camp site card)—so the same creatures may be played against the company based on region type. Adunaphel (a Nazgul) card normally can only be played keyed to dark-holds and dark-domains, but it also states that it can be played keyed to Dagorlad (and the Brown Lands). Thus, Adûnaphel could be played on this company as it moves through Dagorlad. Similarly, Indûr Dawndeath and Khamûl the Easterling could also be played. 
+> For example, suppose you decide to move a company from Lorien to the Easterling Camp using the region cards: Wold & Foothills (![](/assets/images/wilderness.svg)), Brown Lands (![](/assets/images/shadow-land.svg)), Dagorlad (![](/assets/images/shadow-land.svg)), and Horse Plains (![](/assets/images/shadow-land.svg)). The region types traveled through are the same as the site path used in normal movement between Lorien and the Easterling Camp (as given on the Easterling Camp site card)—so the same creatures may be played against the company based on region type. Adunaphel (a Nazgul) card normally can only be played keyed to dark-holds and dark-domains, but it also states that it can be played keyed to Dagorlad (and the Brown Lands). Thus, Adunaphel could be played on this company as it moves through Dagorlad. Similarly, Indur Dawndeath and Khamul the Easterling could also be played. 
 
 {: .note }
-> **Example:** Lets look at our example for movement from the Starter Game (see page 26). Jessica’s company in Bree (in the Arthedain region) wants to move to Thranduil’s Halls (in the Woodland Realm region) in order to bring the Wood-elves faction into play. If she does not use region movement, this takes three turns: Bree to Rivendell, Rivendell to Lorien, and Lorien to Thranduil’s Halls. Using region movement, she can do it in 2 turns. 
+> **Example:** Lets look at our example for movement from the Starter Game (see [page 26](/rules-archive/the-wizards-unlimited#moving-from-a-haven-site)). Jessica’s company in Bree (in the Arthedain region) wants to move to Thranduil’s Halls (in the Woodland Realm region) in order to bring the Wood-elves faction into play. If she does not use region movement, this takes three turns: Bree to Rivendell, Rivendell to Lorien, and Lorien to Thranduil’s Halls. Using region movement, she can do it in 2 turns. 
 > 
 > The shortest number of region cards required for this move is 5 and there are two possible routes:
 > 
@@ -1206,7 +1206,7 @@ For the purposes of playing hazards, the site path for a company using region mo
 An _untapped_ character that is not the target of a strike may tap to support a character in the same company that is the target of a strike. The target’s prowess is modified by +1 for each supporting character.
 
 {: .note }
-> **Clarification:** If a character is assigned a strike from an attack, he may not tap to support a character that is facing a strike from the same attack. An ally may tap to give a +1 prowess modification in this manner. 
+> **Clarification:** If a character is assigned a strike from an attack, he may **not** tap to support a character that is facing a strike from the same attack. An ally may tap to give a +1 prowess modification in this manner. 
 
 {: .note }
 > **Example:** A Cave Drake (two strikes, 10/–) attacks your company which consists of the untapped characters: Bilbo, Balin, Bofur, Beretar, and Beregond.
@@ -1218,7 +1218,7 @@ An _untapped_ character that is not the target of a strike may tap to support a 
 Before the roll is made for a corruption check, you may tap other characters in the same company as the character making the check. The corruption check is modified by +1 for each such character and/or Wizard tapped. 
 
 {: .note }
-> **Clarification:** If more than one character in a company are forced to make corruption checks, the corruption checks are resolved one at a time in an order chosen by the player controlling the characters. Each character tapped may only give a +1 modification to one corruption check, not to all of the corruption checks.
+> **Clarification:** If more than one character in a company are forced to make corruption checks, the corruption checks are resolved one at a time in an order chosen by the player controlling the characters. Each character tapped may only give a +1 modification to one corruption check, **not** to all of the corruption checks.
 > 
 > **Clarification:** When the Free Council is called, a character may only tap to give a +1 corruption check modification to another character in the same company.
 
@@ -1242,13 +1242,13 @@ To attempt to influence one of your opponent’s non-Wizard characters you must 
 
 If the modified result is greater than the target’s mind attribute, the target character card and all of the non-follower cards he controls are discarded. Otherwise, nothing happens.
 
-If you reveal an identical character card from your hand before making the roll for the influence check, the target character’s mind attribute is treated as if it were zero. If the attempt is unsuccessful, you must discard the character card you revealed. If such an influence check is successful, the target character and his non-follower cards are discardedand the revealed character card may be immediately played (appearing at the same site). In order to play this character, you must have enough unused general influence to control him or an influencing character at the same site must have enough direct influence.
+If you reveal an identical character card from your hand before making the roll for the influence check, the target character’s mind attribute is treated as if it were zero. If the attempt is unsuccessful, you must discard the character card you revealed. If such an influence check is successful, the target character and his non-follower cards are discarded **and** the revealed character card may be immediately played (appearing at the same site). In order to play this character, you must have enough unused general influence to control him **or** an influencing character at the same site must have enough direct influence.
 
 {: .note }
 > **Clarification:** If you reveal an identical character in order to nullify the target character’s mind attribute for an influence check, you must discard that character if you do not play him.
 
 {: .note }
-> Example: Jessica and Jason each have one company organized as follows: 
+> **Example:** Jessica and Jason each have one company organized as follows: 
 > 
 > ```mermaid
 > %%{init: {'flowchart' : {'curve' : 'linear'}, 'theme': 'base', 'themeVariables': { 'primaryColor': '#fff','primaryBorderColor': '#44434d','fontFamily': 'timesnewroman'}}}%%
@@ -1295,7 +1295,9 @@ To influence an opponent’s faction, you must make an influence check as outlin
 
  - Instead of a mind attribute, the influence check uses the value usually required to bring the faction into play (as given on the faction’s card).
  - The influence check is modified by any of the faction’s applicable “Standard Modifications” (as given on the faction’s card).
- - Revealing an identical faction card reduces the the value usually required to bring the faction into play to zero and allows you to play that card if the influence check is successful. You may only influence an opponent’s factions if the influencing character is at the site where the faction was played. 
+ - Revealing an identical faction card reduces the the value usually required to bring the faction into play to zero and allows you to play that card if the influence check is successful. 
+
+You may only influence an opponent’s factions if the influencing character is at the site where the faction was played. 
  
 #### Influencing an Opponent’s Item
 
@@ -1303,7 +1305,7 @@ To influence an opponent’s item, you must make an influence check as outlined 
 
  - The mind attribute of the character controlling the item is used.
  - The result is also modified by subtracting the “unused direct influence” of the item’s controlling character.
- - You must reveal an identical item card in order to make an influence attempt on an item (i.e., you are attempting to convince the controlling character that the item would be more useful to the cause of the Free Peoples in your hands). If the influence check is successful, you may play your card with the character that made the influence check—if you choose not to play the item, discard it.
+ - You _must_ reveal an identical item card in order to make an influence attempt on an item (i.e., you are attempting to convince the controlling character that the item would be more useful to the cause of the Free Peoples in your hands). If the influence check is successful, you may play your card with the character that made the influence check—if you choose not to play the item, discard it.
 
 {: .note }
 > **Clarification:** The unused direct influence for an influence check against an item **is** affected by any direct influence modification that the target item gives its bearer.
@@ -1320,7 +1322,7 @@ During your turn, you may draw cards based on one of your moving companies only 
 
 During the movement/hazard phase of your opponent’s turn, you may place one card on-guard for each of your opponent’s companies. This card is played face down next to the company’s new site or next to its current site if it did not move. Any card can be placed on-guard (i.e., it does not have to be a hazard, you can bluff). Such a card does count against the hazard limit for the company it is placed on. The card will remain on that site until one of the following occurs:
 
- - _The company decides to face the site’s automatic-attack_. If the onguard card is a hazard creature keyed to the company’s site or a hazard that can modify the automatic-attack, it may be revealed before the automatic-attack is resolved. If it is a hazard creature, it will attack after the automatic-attack is resolved.
+ - _The company decides to face the site’s automatic-attack_. If the onguard card is a hazard creature keyed to the company’s site **or** a hazard that can modify the automatic-attack, it may be revealed before the automatic-attack is resolved. If it is a hazard creature, it will attack after the automatic-attack is resolved.
  - _The company plays a card keyed to the site_. If the on-guard card is a non-creature hazard, it may be revealed if it is a hazard that directly affects the company or a character in the company (e.g., a hazard that forces all characters to make a corruption check).
  - Otherwise, return the card to your hand at the end of the site phase. 
  
@@ -1329,13 +1331,15 @@ In the first two cases, the card is handled as if it had been played during the 
 {: .note }
 > **Example:** After visiting Thranduil’s Halls, Jessica’s company moves to The Lonely Mountain. During her movement/hazard phase, Jason places a card on-guard. The card is Awaken Denizens, but Jessica does not know that. This card doubles the # of strikes for an automatic-attack at a Ruins & Lairs site.
 > 
-> During her site phase, Jessica states that her company will face The Lonely Mountain’s automatic-attack (a Dragon, 1 strike with a prowess of 14). Jason reveals his on-guard card and the automatic-attack becomes 2 strikes with a prowess of 14 each. Jessica’s company must face this attack (it may be canceled.
+> During her site phase, Jessica states that her company will face The Lonely Mountain’s automatic-attack (a Dragon, 1 strike with a prowess of 14). Jason reveals his on-guard card and the automatic-attack becomes 2 strikes with a prowess of 14 each. Jessica’s company must face this attack (it may be canceled).
 > 
-> Suppose Jason had placed a Cave Drake on-guard. Then Jessica’s company would have to face the automatic-attack and then the Cave Drake. Suppose Jason had placed a Weariness of the Heart on-guard. Then, if Jessica’s company successfully faced the automatic-attack and played an item, Jason could reveal the Weariness of the Heart to force any one character in the company to make a corruption check. 
+> Suppose Jason had placed a Cave Drake on-guard. Then Jessica’s company would have to face the automatic-attack and then the Cave Drake. 
+> 
+> Suppose Jason had placed a Weariness of the Heart on-guard. Then, if Jessica’s company successfully faced the automatic-attack and played an item, Jason could reveal the Weariness of the Heart to force any one character in the company to make a corruption check. 
  
 #### Dice Roll Timing
 
-Before a roll is made for combat or a check, cards may be played that will modify the result of the roll. However, once the roll is actually made, no further cards may be played that modify the dice roll result. This modified result is used to determine effects of the combat or check before any other actions are taken. When the effects of a dice roll require other actions (e.g., a successful strike requires a body check) those actions become the initial actions (any further rolls come first) in the next chain of effects after the roll.
+Before a roll is made for combat or a check, cards may be played that will modify the result of the roll. However, once the roll is actually made, no further cards may be played that modify the dice roll result. This modified result is used to determine _effects_ of the combat or check before any other actions are taken. When the effects of a dice roll require other actions (e.g., a successful strike requires a body check) those actions become the initial actions (any further rolls come first) in the next chain of effects after the roll.
 
 #### Timing Rules
 
@@ -1353,22 +1357,22 @@ An action in a chain of effects is negated if the conditions required to perform
 
 {: .note }
 > **Timing Example:** You play Weariness of the Heart on Bilbo to force him to make a corruption check. Your opponent taps Frodo (2nd action in this chain of effects) to give Bilbo +1 to this check. You play Call of Home on Bilbo (3rd action), which forces Bilbo to make a successful roll or return to his owner’s hand. Finally, your opponent plays Tookish Blood on Bilbo. This cancels any effect for the rest of the turn which would discard Bilbo or send him to his owner’s hand. Now you resolve actions from last to first:
- - Tookish Blood takes effect.
- - Call of Home takes effect, but Tookish Blood negates any effect it would have.
- - Frodo gives +1 to Bilbo’s corruption check (an action can target a dicerolling action that was declared earlier in the same chain of effects, even though the dice-rolling action has not taken effect).
- - Bilbo makes his corruption check—he rolls the dice adding +1 to his roll because of Frodo’s help (other modifications not discussed here). Tookish Blood cancels any result of this corruption check that would discard Bilbo.
-
-If your opponent had played Tookish Blood on Bilbo after his dice roll, i.e. after this chain of effects was resolved, it would not have affected your Call of Home nor Bilbo’s corruption check. Tookish Blood only cancels those actions that occur during the rest of the turn, and not prior actions.
-
-Consider if Tookish Blood had not been played and if you played Call of Home on Frodo. First Frodo rolls for Call of Home when resolving the chain. If he fails this check, Frodo goes back to your opponent’s hand. The 2nd action in the chain would then be negated because the conditions required to perform it, namely Frodo being in Bilbo’s company, were negated by your Call of Home.
+> - Tookish Blood takes effect.
+> - Call of Home takes effect, but Tookish Blood negates any effect it would have.
+> - Frodo gives +1 to Bilbo’s corruption check (an action can target a dicerolling action that was declared earlier in the same chain of effects, even though the dice-rolling action has not taken effect).
+> - Bilbo makes his corruption check—he rolls the dice adding +1 to his roll because of Frodo’s help (other modifications not discussed here). Tookish Blood cancels any result of this corruption check that would discard Bilbo.
+>
+> If your opponent had played Tookish Blood on Bilbo after his dice roll, i.e. after this chain of effects was resolved, it would not have affected your Call of Home nor Bilbo’s corruption check. Tookish Blood only cancels those actions that occur during the rest of the turn, and not prior actions.
+>
+> Consider if Tookish Blood had not been played and if you played Call of Home on Frodo. First Frodo rolls for Call of Home when resolving the chain. If he fails this check, Frodo goes back to your opponent’s hand. The 2nd action in the chain would then be negated because the conditions required to perform it, namely Frodo being in Bilbo’s company, were negated by your Call of Home.
 
 # • PART III •<br/>OPTIONAL RULES
 
 Each of these optional rules may be used if all players agree before the game begins.
 
-**Special Movement to Gorgoroth Rules** — A company may only move to or from a site in Gorgoroth (e.g., Barad-dûr, Mount Doom) by using one of the following:
+**Special Movement to Gorgoroth Rules** — A company may only move to or from a site in Gorgoroth (e.g., Barad-dur, Mount Doom) by using one of the following:
  - Specific region movement from a site in Imlad Morgul (Cirith Ungol, Minas Morgul, or Shelob’s Lair).
- - Specific region movement that passes through Nurn or Udûn.
+ - Specific region movement that passes through Nurn or Udun.
 
 **Burglaring** — A Hobbit may attempt to “burglar” at an untapped site. If you decide to make a burglary attempt, make a roll. If the result is greater than 5, the Hobbit taps the site without facing the automatic-attack and may tap to play an item that is playable at that site. Otherwise, the Hobbit faces the automatic-attack alone.
 
@@ -1394,9 +1398,9 @@ After the characters are all revealed, each player may exchange up to three card
 
 The highest roller takes his turn first. Then, the player to his left takes his turn, and so on (i.e., play proceeds clockwise). 
 
-**The Player Turn:** Your “hazard-opponent” for the purposes of hazards is the player to your left. During your Long-event Phase, you remove your own resource long-events and the hazard long-events belonging to your hazard-opponent. Only your hazard-opponent may raw cards (based on the site being moved to) and play hazards during your movement/hazard phase. A player only has the option of discarding a card during an End-of-Turn Phase if it is his own turn or if it is his hazard-opponent’s turn.
+**The Player Turn:** Your “hazard-opponent” for the purposes of hazards is the player to your left. During your Long-event Phase, you remove your own resource long-events and the hazard long-events belonging to your hazard-opponent. Only your hazard-opponent may draw cards (based on the site being moved to) and play hazards during your movement/hazard phase. A player only has the option of discarding a card during an End-of-Turn Phase if it is his own turn or if it is his hazard-opponent’s turn.
 
-Twilight cards can be played at any time by any player. Permanentevents, long-events, and other “global” events (e.g., tapping Ren the Unclean) affect all players.
+Twilight cards can be played at any time by any player. Permanent-events, long-events, and other “global” events (e.g., tapping Ren the Unclean) affect all players.
 
 _Middle-earth: The Wizards Companion_ provides some expanded, variant multi-player rules.
 
@@ -1406,7 +1410,7 @@ _Middle-earth: The Wizards Companion_ provides some expanded, variant multi-play
 
 **During Play:** Proceed normally, except for the following exceptions. There is no opponent’s player turn. Whenever you would draw or discard to get a hand of 8 cards, you now draw or discard to get a hand of 5 cards. During the movement/hazard phase, you draw and discard normally for each company.
 
-**Playing Hazards:** During the movement/hazard phase, for each company, you draw hazard cards equal to 2 plus twice the number of hazard cards normally drawn for that site. Then you must play as many of those hazard cards as you can within the hazard limit for the company. You should play the hazards in the fashion that is most disadvantageous for your companies. Any cards requiring Doors of Night are saved and played when a Doors of Night is drawn. 
+**Playing Hazards:** During the movement/hazard phase, for each company, you draw hazard cards equal to 2 plus twice the number of hazard cards normally drawn for that site. Then you must play as many of those hazard cards as you can within the hazard limit for the company. You should play the hazards in the fashion that is most disadvantageous for your companies. Any cards requiring _Doors of Night_ are saved and played when a _Doors of Night_ is drawn. 
 
 **Object of the Game:** The object of the solitaire game is to accumulate as many marshalling points (MPs) as you can by the time you exhaust your play deck for the second time. 
 
@@ -1426,7 +1430,6 @@ _Middle-earth: The Wizards Companion_ provides some expanded, variant solitaire 
 
 ## MAP INDEX
 
-{: .d-xs-inline-block .d-sm-inline-block .d-md-none .d-lg-none .d-xl-none }
 | # | Region Name | Type |
 | ---: | :---: | :--- |
 1 | Lindon   | ![](/assets/images/free-domain.svg)
@@ -1468,7 +1471,7 @@ _Middle-earth: The Wizards Companion_ provides some expanded, variant solitaire 
 37 |   Lamedon  | ![](/assets/images/border-land.svg)
 38  |  Belfalas  | ![](/assets/images/free-domain.svg)
 39 |   Lebennin  | ![](/assets/images/free-domain.svg)
-40 |   An¢rien  | ![](/assets/images/free-domain.svg)
+40 |   Anorien  | ![](/assets/images/free-domain.svg)
 41 |   Ithilien  | ![](/assets/images/wilderness.svg)
 42 |   Harondor  | ![](/assets/images/wilderness.svg)
 43  |   Khand  | ![](/assets/images/shadow-land.svg)
@@ -1482,37 +1485,7 @@ _Middle-earth: The Wizards Companion_ provides some expanded, variant solitaire 
 51  |Bay of Belfalas  | ![](/assets/images/coastalsea.svg)
 52  |Mouths of the Anduin | ![](/assets/images/coastalsea.svg)
 
-{: .d-none .d-md-inline-block }
-| # | Region Name | Type | # | Region Name | Type |
-| ---: | :---: | :--- | --- | ---: | :---: | :--- | 
-1 | Lindon   | ![](/assets/images/free-domain.svg) |  27 |   Dagorlad  | ![](/assets/images/shadow-land.svg)
-2 | Numeriador  | ![](/assets/images/wilderness.svg)  | 28 | Withered Heath  | ![](/assets/images/wilderness.svg)
-3 | Forochel   | ![](/assets/images/wilderness.svg)  | 29 | Northern Rhovanion  | ![](/assets/images/wilderness.svg)
-4 | Arthedain |  ![](/assets/images/wilderness.svg) |  30 | Southern Rhovanion  | ![](/assets/images/wilderness.svg)
-5 | The Shire  | ![](/assets/images/free-domain.svg) |  31 |  Iron Hills  | ![](/assets/images/wilderness.svg)
-6 | Cardolan  |  ![](/assets/images/wilderness.svg) |  32 |   Dorwinion  | ![](/assets/images/border-land.svg)
-7 | Angmar   | ![](/assets/images/shadow-land.svg) |  33 |  Horse Plains  | ![](/assets/images/shadow-land.svg)
-8 | Rhudaur  |  ![](/assets/images/wilderness.svg) |   34 |  Old Pukel Gap  | ![](/assets/images/wilderness.svg)
-9 | Hollin   | ![](/assets/images/wilderness.svg) |   35 |   Andrast  | ![](/assets/images/wilderness.svg)
-10 |   Dunland  | ![](/assets/images/wilderness.svg) |   36  |  Anfalas  | ![](/assets/images/wilderness.svg)
-11 |  Enedhwaith  | ![](/assets/images/wilderness.svg) |   37 |   Lamedon  | ![](/assets/images/border-land.svg)
-12 | Old Pukel-land  | ![](/assets/images/wilderness.svg)   | 38  |  Belfalas  | ![](/assets/images/free-domain.svg)
-13  |  Gundabad  | ![](/assets/images/dark-domain.svg) |   39 |   Lebennin  | ![](/assets/images/free-domain.svg)
-14  |  High Pass  | ![](/assets/images/wilderness.svg) |   40 |   Anorien  | ![](/assets/images/free-domain.svg)
-15 |  Redhorn Gate  | ![](/assets/images/wilderness.svg) |   41 |   Ithilien  | ![](/assets/images/wilderness.svg)
-16  | Gap of Isen  | ![](/assets/images/border-land.svg) |   42 |   Harondor  | ![](/assets/images/wilderness.svg)
-17 |  Anduin Vales  | ![](/assets/images/border-land.svg) |  43  |   Khand  | ![](/assets/images/shadow-land.svg)
-18 | Wold & Foothills  | ![](/assets/images/wilderness.svg) |   44 |  Imlad Morgul  | ![](/assets/images/shadow-land.svg)
-19 |   Fangorn  | ![](/assets/images/wilderness.svg) |  45  |   Udun  | ![](/assets/images/dark-domain.svg)
-20 |    Rohan  | ![](/assets/images/border-land.svg) |  46  |  Gorgoroth   | ![](/assets/images/dark-domain.svg)
-21 | Grey Mountain Narrows  | ![](/assets/images/shadow-land.svg) | 47  |   Nurn  | ![](/assets/images/dark-domain.svg)
-22 | Woodland Realm  | ![](/assets/images/border-land.svg) |  48  | Elven Shores  | ![](/assets/images/coastalsea.svg)
-23 | Western Mirkwood  | ![](/assets/images/wilderness.svg) |  49  |Eriadoran Coast  | ![](/assets/images/coastalsea.svg)
-24 | Heart of Mirkwood  | ![](/assets/images/wilderness.svg) | 50  | Andrast Coast  | ![](/assets/images/coastalsea.svg)
-25 | Southern Mirkwood  | ![](/assets/images/dark-domain.svg) |  51  |Bay of Belfalas  | ![](/assets/images/coastalsea.svg)
-26 |  Brown Lands  | ![](/assets/images/shadow-land.svg) | 52  |Mouths of the Anduin | ![](/assets/images/coastalsea.svg)
-
-# FULL PLAYER TURN SUMMARY
+## FULL PLAYER TURN SUMMARY
 
 ### Untap Phase
 
@@ -1534,21 +1507,23 @@ The following actions may be taken in any order:
  - Each of your companies may do one of the following:
       - Stay at its current site.
       - Play another site (face down) that can be moved to (i.e., reached) directly from the company’s current site. This is the company’s new site card.
-      - _Standard Rules Only:_ Play a new site card and a series of up to four specific regions that connect the current site with the new site. (See pages 54-56.)
+      - _Standard Rules Only:_ Play a new site card and a series of up to four specific regions that connect the current site with the new site. (See [pages 54-56](/rules-archive/the-wizards-unlimited#region-movement).)
 
 ### Long-event Phase
 
 First, remove all of your resource long-events already in play.
+
 Then, play any new resource long-event cards.
+
 Finally, remove all of your opponent’s hazard long-events.
 
 ### Movement/Hazard Phase
 
 Follow this procedure for each of your companies. You decide which of your companies goes first, second, etc.:
 
- 1. If the company has a face down site card (i.e., its new site card), turn it over. Your company’s current site becomes its site of origin.
- 2. If the company is not moving, no cards are drawn. If the company is moving to a non-haven site, you may draw up to the number of cards indicated by the site that it is moving to (at least one card must be drawn); your opponent does the same. If the company is moving to a haven site, you may draw up to the number of cards indicated by the site that it is moving from (at least one card must be raw); your opponent does the same.
- 3. Your opponent plays hazards on the company—each hazard is resolved as indicated in its text. These hazards are played and resolved one at a time and in some cases may not directly affect the company. A hazard may not be played if it targets a different company or a character in a different company.<br><br>If the company is not moving, hazard creatures may only be keyed to the company’s site of origin. Hazard creatures must be “keyed to” the moving company’s site path and/or new site. If a creature is keyed to more than one region type and/or site type that applies, your opponent decides which one is used.<br><br>The maximum number of hazards that may be played on a company during a given movement/hazard phase (i.e., the hazard limit) is equal to the size of the company or two, whichever is larger (Hobbits count half, round up). The hazard limit is determined for each company at the beginning of the movement/hazard phase (e.g., it remains fixed).
+ 1. If the company has a face down site card (i.e., its new site card), turn it over. Your company’s current site becomes its _site of origin_.
+ 2. If the company is not moving, no cards are drawn. If the company is moving to a non-haven site, you _may_ draw up to the number of cards indicated by the site that it is _moving to_ (at least one card must be drawn); your opponent does the same. If the company is moving to a haven site, you _may_ draw up to the number of cards indicated by the site that it is _moving from_ (at least one card must be raw); your opponent does the same.
+ 3. Your opponent plays hazards on the company—each hazard is resolved as indicated in its text. These hazards are played and resolved one at a time and in some cases may not directly affect the company. A hazard may not be played if it targets a different company or a character in a different company.<br>If the company is not moving, hazard creatures may only be keyed to the company’s site of origin. Hazard creatures must be “keyed to” the moving company’s site path and/or new site. If a creature is keyed to more than one region type and/or site type that applies, your opponent decides which one is used.<br>The maximum number of hazards that may be played on a company during a given movement/hazard phase (i.e., the hazard limit) is equal to the size of the company _or_ two, whichever is larger (Hobbits count half, round up). The hazard limit is determined for each company at the beginning of the movement/hazard phase (e.g., it remains fixed).
  4. If the company has been required to return to its site of origin, return the new site card to the location deck (or discard if it is tapped) and proceed to step 6 (the site of origin becomes its current site). No additional hazards may be played on that company.
  5. Remove the company’s site of origin (i.e., the site the company came from). Discard the site card if it is tapped and not a Haven. Otherwise, return it to the location deck. At this point, the company is considered to have arrived at the new site (i.e., its new site becomes its site of origin). _Standard Rules Only:_ Return any region cards to the location deck.
  6. You must discard any cards in excess of eight in your hand; your opponent does the same for his hand. If you have fewer than eight cards, you must draw cards until your hand has eight cards; your opponent does the same for his hand. 
@@ -1557,15 +1532,14 @@ Follow this procedure for each of your companies. You decide which of your compa
 
 ### Site Phase
 
-In the order you decide (i.e., you decide which goes first, second, etc.), each of your companies at an untapped site may:
+In the order you decide (i.e., you decide which goes first, second, etc.), each of your companies at an _untapped_ site may:
 
  - do nothing **or**
  - follow this procedure:
       1. You decide to enter and explore the site.
-      2. If the site has an automatic-attack, it attacks the company. The attack is resolved normally (see pages 29-33).
-      3. The company may attempt to play one item, ally, faction, or information resource card that is “playable” at that site. Generally, this will involve tapping the character that will control the card played. If the resource card is successfully played, the site card is tapped **and** one additional character may tap to play a minor item.<br><br>Certain resource cards other than items, allies, factions, and information will state the conditions under which they may be played. Such cards may be played at tapped and untapped sites, and do not tap a site when played (e.g., _Return of the King_, _Lucky Search_, etc.).
-
-_Standard Rules Only:_ One of your characters or your Wizard may attempt to influence away one of your opponent’s characters, followers, allies, factions, or items (if it is at the same site).
+      2. If the site has an automatic-attack, it attacks the company. The attack is resolved normally (see [pages 29-33](/rules-archive/the-wizards-unlimited#7--combat)).
+      3. The company may attempt to play one item, ally, faction, or information resource card that is “playable” at that site. Generally, this will involve tapping the character that will control the card played. If the resource card is successfully played, the site card is tapped **and** one additional character may tap to play a minor item.<br>Certain resource cards other than items, allies, factions, and information will state the conditions under which they may be played. Such cards may be played at tapped and untapped sites, and do not tap a site when played (e.g., _Return of the King_, _Lucky Search_, etc.).
+      _Standard Rules Only:_ One of your characters or your Wizard may attempt to influence away one of your opponent’s characters, followers, allies, factions, or items (if it is at the same site).
 
 **End-of-Turn Phase**
 You may discard one card. Then you must draw or discard cards until your hand has 8 cards. Your opponent does the same.
@@ -1573,7 +1547,7 @@ You may discard one card. Then you must draw or discard cards until your hand ha
 ## SYMBOL KEY
 
 | Region Type | Symbol |
-| ---: | :--- |
+| :--- | :--- |
 Coastal Seas |   ![](/assets/images/coastalsea.svg)
 Free-domains |   ![](/assets/images/free-domain.svg)
 Border-lands |   ![](/assets/images/border-land.svg)
@@ -1582,7 +1556,7 @@ Shadow-lands |   ![](/assets/images/shadow-land.svg)
 Dark-domains  |  ![](/assets/images/dark-domain.svg)
 
 | Site Type | Symbol |
-| ---: | :--- |
+| :--- | :--- |
  Havens  |   ![](/assets/images/free-haven.svg)
  Free-holds  |  ![](/assets/images/free-hold.svg)
  Border-holds  |  ![](/assets/images/border-hold.svg)
@@ -1591,14 +1565,14 @@ Dark-domains  |  ![](/assets/images/dark-domain.svg)
  Dark-holds   | ![](/assets/images/dark-hold.svg)
  
  |  Other  |  Symbol | 
- | ---: | :--- |
+ | :--- | :--- |
  Mind   |  ![](/assets/images/mind.svg)
  Direct Influence  |  ![](/assets/images/di.svg)
  
 ## COMBAT MODIFICATIONS
 
 | Condition  |  Modification to Target's Prowess |
-| ---: | :--- |
+| :--- | :--- |
  Unwounded, tapped character |  -1
  Wounded character      |  -2
  For each unused strike allocated  |  -1
