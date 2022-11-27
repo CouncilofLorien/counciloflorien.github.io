@@ -16,8 +16,19 @@ search_exclude: true
 {:toc}
 </details>
 
-{: .fs-7 .fw-700 .text-center }
-MIDDLE-EARTH: DARK MINIONS
+<details markdown="block">
+  <summary>
+    NOTES <img src="/assets/images/scroll.svg">
+  </summary>
+  {: .text-gamma }
+  
+{: .counsel }
+> These rules include emendations correcting minor typographical and clerical errors in the original text. These emendations  are <b>not</b> annotated. 
+</details>
+
+---
+
+# MIDDLE-EARTH: DARK MINIONS
 
 This insert provides expansion rules and clarifications for use with all _Middle-earth Collectible Card Game_ (_MECCG_) products.
 
