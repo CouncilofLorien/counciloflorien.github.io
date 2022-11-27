@@ -16,6 +16,17 @@ search_exclude: true
 {:toc}
 </details>
 
+<details markdown="block">
+  <summary>
+    NOTES <img src="/assets/images/scroll.svg">
+  </summary>
+  {: .text-gamma }
+  
+{: .counsel }
+> ICE issued errata to the Unlimited version of <em>The Wizards</em> rules, not to the Limited version. As such, these rules do not include errata.<br><br>These rules do include emendations correcting minor typographical and clerical errors in the original text. Such corrections are <b>not</b> annotated. 
+</details>
+---
+
 ---
 
 # MIDDLE-EARTH: THE WIZARDS
