@@ -18,10 +18,12 @@ search_exclude: true
 
 <details markdown="block">
   <summary>
-    NOTES <img>/assets/images/scroll.svg</img>
+    NOTES <img src="/assets/images/scroll.svg">
   </summary>
-  {: .counsel }
-  ICE issued errata to the Unlimited version of <em>The Wizards</em> rules. The errata are included in these rules with markings to show the changes.<br><br>These rules also include emendations correcting minor typographical and clerical errors in the original text, including dropped characters (e.g., a closing missing closing parenthesis), word spacing (e.g., "FreeCouncil," a missing indentation in a table, etc.), and inconsistent emphasis (e.g., a single instance of non-Haven not emphasized in a paragraph having <em>Haven</em> and <em>non-Haven</em> emphasized). Such changes are <b>not</b> annotated. 
+  {: .text-gamma }
+  
+{: .counsel }
+> ICE issued errata to the Unlimited version of <em>The Wizards</em> rules. The errata are included in these rules with markings to show the changes. However, later changes in rules and wording are <b>not</b> included in these archived rules. The <em>Emended MECCG Rules</em> include and explain such changes<br><br>These rules do include emendations correcting minor typographical and clerical errors in the original text. For instance, there are corrections of dropped characters (e.g., a closing missing closing parenthesis), word spacing (e.g., "FreeCouncil," a missing indentation in a table, etc.), and inconsistent emphasis (e.g., a single instance of non-Haven not emphasized in a paragraph having <em>Haven</em> and <em>non-Haven</em> emphasized). Such corrections are <b>not</b> annotated. 
 </details>
 
 ---
