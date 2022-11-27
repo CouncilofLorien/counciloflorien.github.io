@@ -110,7 +110,7 @@ A character may only attempt to remove each corruption card once per turn if he 
 
 With the publication of _Middle-earth: The Dragons_, the number of different resource and hazard strategies increases dramatically. To enable players to react to more specific strategies during play, the sideboard size is increased by five (e.g., from 15 to 20 for the 1-deck and 2-deck games, from 20 to 25 for the 3-deck game, etc.).[^sideboard]
 
-At the end of yonr opponent's untap phase, if your opponent's Wizard is in play, you may at this point bring up to five hazard cards from your sideboard to your discard pile; **or**, if your play deck has at least 5 cards, you may bring one hazard card directly from your sideboard into your play deck (reshuffle). If you move cards from your sideboard in this fashion, the hazard limit for each of your opponent"s companies is reduced to half of normal (round up, e.g., a hazard limit of 2 becomes l, a hazard limit of 3 becomes 2, etc.).
+At the end of yonr opponent's untap phase, if your opponent's Wizard is in play, you may at this point bring up to five hazard cards from your sideboard to your discard pile; **or**, if your play deck has at least 5 cards, you may bring one hazard card directly from your sideboard into your play deck (reshuffle). If you move cards from your sideboard in this fashion, the hazard limit for each of your opponent's companies is reduced to half of normal (round up, e.g., a hazard limit of 2 becomes l, a hazard limit of 3 becomes 2, etc.).
 
 ### REGION MOVEMENT LIMITATION
 
