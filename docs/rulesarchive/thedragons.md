@@ -16,6 +16,16 @@ search_exclude: true
 {:toc}
 </details>
 
+<details markdown="block">
+  <summary>
+    NOTES <img src="/assets/images/scroll.svg">
+  </summary>
+  {: .text-gamma }
+  
+{: .counsel }
+> These rules include emendations correcting minor typographical and clerical errors in the original text. These emendations  are <b>not</b> annotated. 
+</details>
+
 ---
 
 # MIDDLE-EARTH: THE DRAGONS
