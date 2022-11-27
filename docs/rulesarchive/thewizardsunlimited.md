@@ -23,7 +23,7 @@ search_exclude: true
   {: .text-gamma }
   
 {: .counsel }
-> ICE issued errata to the Unlimited version of <em>The Wizards</em> rules. The errata are included in these rules with markings to show the changes. However, later changes in rules and wording are <b>not</b> included in these archived rules. The <em>Emended MECCG Rules</em> include and explain such changes<br><br>These rules do include emendations correcting minor typographical and clerical errors in the original text. For instance, there are corrections of dropped characters (e.g., a closing missing closing parenthesis), word spacing (e.g., "FreeCouncil," a missing indentation in a table, etc.), and inconsistent emphasis (e.g., a single instance of non-Haven not emphasized in a paragraph having <em>Haven</em> and <em>non-Haven</em> emphasized). Such corrections are <b>not</b> annotated. 
+> ICE issued errata to the Unlimited version of <em>The Wizards</em> rules. The errata are included in these rules with markings to show the changes. However, later changes in rules and wording are <b>not</b> included in these archived rules. The <em>Emended MECCG Rules</em> include and explain such changes.<br><br>These rules do include emendations correcting minor typographical and clerical errors in the original text. For instance, there are corrections of dropped characters (e.g., a closing missing closing parenthesis), word spacing (e.g., "FreeCouncil," a missing indentation in a table, etc.), and inconsistent emphasis (e.g., a single instance of non-Haven not emphasized in a paragraph having <em>Haven</em> and <em>non-Haven</em> emphasized). Such corrections are <b>not</b> annotated. 
 </details>
 
 ---
@@ -59,7 +59,7 @@ _The Appendices_ — An index, credits, keys, the Full Player Turn Summary. The 
 
 ## BRIEF PLAYER TURN SUMMARY
 
-Play consists of a series of “Player Turns.” During your turn, follow the steps outlined in this turn summary. Then, your opponent does the same during his turn. You and your opponent alternate turns until the game ends. This turn summary is included here to give you an idea of how play proceeds; see [p. 68-70 for the Full Player Turn Summary](/rules-archive/the-wizards-unlimited#full-player-turn-summary).
+Play consists of a series of “Player Turns.” During your turn, follow the steps outlined in this turn summary. Then, your opponent does the same during his turn. You and your opponent alternate turns until the game ends. This turn summary is included here to give you an idea of how play proceeds; see [p. 68-70](/rules-archive/the-wizards-unlimited#full-player-turn-summary) for the Full Player Turn Summary.
 
 _Untap Phase_ — Each of your characters may do one of the following: Untap **or** Heal (if at a Haven site). In addition, untap (see [page 15](/rules-archive/the-wizards-unlimited#tapping-and-card-positions)) all of your other tapped non-site cards.
 
