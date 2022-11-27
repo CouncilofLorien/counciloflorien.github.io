@@ -23,7 +23,7 @@ search_exclude: true
   {: .text-gamma }
   
 {: .counsel }
-> These rules include emendations correcting minor typographical and clerical errors in the original text. These emendations  are <b>not</b> annotated. 
+> These rules include emendations correcting minor typographical and clerical errors in the original text (e.g., "MED" instead of "METD"). These emendations are <b>not</b> annotated. 
 </details>
 
 ---
