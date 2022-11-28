@@ -7,6 +7,27 @@ permalink: /rules-archive/the-white-hand
 search_exclude: true
 ---
 
+<details markdown="block">
+  <summary>
+   CONTENTS
+  </summary>
+  {: .text-gamma }
+- TOC
+{:toc}
+</details>
+
+<details markdown="block">
+  <summary>
+    NOTES <img src="/assets/images/scroll.svg">
+  </summary>
+  {: .text-gamma }
+  
+{: .counsel }
+> These rules include emendations correcting minor typographical and clerical errors in the original text. These emendations are <b>not</b> annotated. 
+</details>
+
+---
+
 # Middle-earth: The White Hand
 
 {: .text-center}
@@ -20,65 +41,54 @@ This insert provides expansion rules and clarifications for use with all _Middle
 
 During the Third Age, the Valar sent five Maiar to Middle-earth to help the Free Peoples resist Sauron. However, they were forbidden to dominate the peoples of Middle-earth or to match the power of Sauron with power. They were known as the five "Wizards:" Alatar, Gandalf, Pallando, Radagast, and Saruman.
 
-In _The Lord of the Rings_, Gandalf was the only Wizard to remain
-true to his mission. Saruman was corrupted by power, Radagast "went
-native," and Alatar and Pallando disappeared into the East to pursue
-their own goals.
-Middle-earth: The White Hand allows you to play one of these
-"Fallen-wizards." As a Fallen-wizard, you can pick and choose the
-good and evil resources you will try to utilize-you will use any
-means to achieve your ends. However, you can only exert your influence
-and control over the weaker heroes and minions-the more
-powerful characters can sense your greed and weaknesses.
-Each Fallen-wizards is driven by a different obsession reflected in
-his abilities and goals:
-The fallen Pallando (Master of Doom) is the master of peoples and
-fate. He rules and dominates peoples. He is obsessed with building
-his own empire and defeating Sauron by force of arms.
+In _The Lord of the Rings_, Gandalf was the only Wizard to remain true to his mission. Saruman was corrupted by power, Radagast "went native," and Alatar and Pallando disappeared into the East to pursue their own goals.
 
-The fallen Alatar (Lord of the Hunt) is the master of animate nature-
-he is a hunter. He likes to do things personally. He is more
-likely to dominate individuals rather than peoples. He is obsessed
-with defeating Sauron by turning Middle-earth into a well-ordered
-game-preserve.
-The fallen Gandalf (the Careworn) is the friend of peoples, fate,
-and Middle-earth. He manipulates peoples and their rulers rather
-than dominate them-he is not an empire builder. He has lost hope
-of defeating Sauron. He just wants to delay the Dark Lord's final
-victory as long as possible, and to save as many of the Free Peoples
-as possible.
-The fallen Radagast (of the Greenwood) is the friend of animate
-nature. He looks at Middle-earth as a big garden with people as the
-gardeners. He persuades but doesn't dominate. He plans to help
-nature protect itself from the Dark Lord.
-The fallen Saruman (of Many Colours) is the master of inanimate
-nature. He gathers knowledge and makes inanimate objects. He is
-obsessed with using his own personal power, items, and abilities
-to contest Sauron.
+_Middle-earth: The White Hand_ allows you to play one of these "Fallen-wizards." As a Fallen-wizard, you can pick and choose the good and evil resources you will try to utilize&mdash;you will use any means to achieve your ends. However, you can only exert your influence and control over the weaker heroes and minions&mdash;the more powerful characters can sense your greed and weaknesses.
+
+Each Fallen-wizards is driven by a different obsession reflected in his abilities and goals:
+
+The fallen **Pallando** (Master of Doom) is the master of peoples and fate. He rules and dominates peoples. He is obsessed with building his own empire and defeating Sauron by force of arms.
+
+The fallen **Alatar** (Lord of the Hunt) is the master of animate nature&mdash;he is a hunter. He likes to do things personally. He is more likely to dominate individuals rather than peoples. He is obsessed with defeating Sauron by turning Middle-earth into a well-ordered game-preserve.
+
+The fallen **Gandalf** (the Careworn) is the friend of peoples, fate, and Middle-earth. He manipulates peoples and their rulers rather than dominate them&mdash;he is not an empire builder. He has lost hope of defeating Sauron. He just wants to delay the Dark Lord's final victory as long as possible, and to save as many of the Free Peoples as possible.
+
+The fallen **Radagast** (of the Greenwood) is the friend of animate nature. He looks at Middle-earth as a big garden with people as the gardeners. He persuades but doesn't dominate. He plans to help nature protect itself from the Dark Lord.
+
+The fallen **Saruman** (of Many Colours) is the master of inanimate nature. He gathers knowledge and makes inanimate objects. He is obsessed with using his own personal power, items, and abilities to contest Sauron.
 
 {: .note-dk }
 > **Note:** In terms of _ME: The Wizards_, a Wizard that has failed a corruption check by 1 of 2 has become a **Fallen-wizard** (the Wizards in _MEWH_ are all Fallen-wizards).
 
 ### USING MEWH
 
-When you play a Fallen-wizard, assume that your Fallen-wizard is a METW "Wizard." All of the normal METW rules apply except for the specific exceptions outlined in these rules. The MELE rules that concern Wizards also apply to Fallen-wizards.
+When you play a Fallen-wizard, assume that your Fallen-wizard is an _METW_ "Wizard." **All of the normal _METW_ rules apply except for the specific exceptions outlined in these rules.** The _MELE_ rules that concern Wizards also apply to Fallen-wizards.
 
 You should read the following section to get a general idea of how to play a Fallen-wizard. Then read the rest of the rules for more specific details.
 
-Wizards � When the rules and cards refer to a Wizard, they apply to your Fallen-wizard. The White hand symbol on a Fallen-wizard's card is that Fallen-wizard's general influence when that card is in active play.
-Wizardhavens � When the rules and non-site cards refer to Havens and Darkhavens, they apply instead to your Wizardhavens. The special effects of METW Havens (i.e., healing, bringing characters into play, etc.) do apply to your companies at your Wizardhavens. These same effects do not apply to your companies at MELE Darkhavens and METW Havens.
-Stage Points � Certain cards give your Fallen-wizard "stage points." Stage points reflect how far your Fallen-wizard has deviated from his original mission. You must keep track of your accumulated stage points. The number of stage points that a card gives is indicated by a cog-shaped symbol with a number inside.
-Stage Resources � MEWH introduces a new type of resource card called a stage resource card. Such a card is actually a "Fallen-wizard- only resource card"�only Fallen-wizard players may include them in their decks. Stage resources have a green-colored (i.e., tarnished copper) background. Most stage resource cards give stage points.
-Characters � You may use both hero and minion characters. However, you may only use a character if his mind attribute is 5 or less. All of your non-Orc/Troll characters are considered to be hero characters. You may only use up to two of each non-unique character.
-Orcs & Trolls � Because most Fallen-wizard characters will not be Orcs and Trolls, specific rules concerning Orc and Troll characters are collected in one section at the end of these rules.
-Hero/Minion Resources � You may use both hero and minion resources. However, you may only include up to a total of two of each non-unique hero or minion resource in your play deck and sideboard.
-Sites � There are four Fallen-wizard site cards: Isengard, The White Towers, Rhosgobel, and Deep Mines. These site cards have a light gray background. Unless stated otherwise on a card, a Fallen-wizard player may use these sites instead of the hero/minion versions.
+Wizards &mdash; When the rules and cards refer to a Wizard, they apply to your Fallen-wizard. The White hand symbol on a Fallen-wizard's card is that Fallen-wizard's general influence when that card is in active play.
+
+Wizardhavens &mdash; When the rules and non-site cards refer to Havens and Darkhavens, they apply instead to your Wizardhavens. The special effects of METW Havens (i.e., healing, bringing characters into play, etc.) do apply to your companies at your Wizardhavens. These same effects do not apply to your companies at MELE Darkhavens and METW Havens.
+
+Stage Points &mdash; Certain cards give your Fallen-wizard "stage points." Stage points reflect how far your Fallen-wizard has deviated from his original mission. You must keep track of your accumulated stage points. The number of stage points that a card gives is indicated by a cog-shaped symbol with a number inside.
+
+Stage Resources &mdash; MEWH introduces a new type of resource card called a stage resource card. Such a card is actually a "Fallen-wizard- only resource card"&mdash;only Fallen-wizard players may include them in their decks. Stage resources have a green-colored (i.e., tarnished copper) background. Most stage resource cards give stage points.
+
+Characters &mdash; You may use both hero and minion characters. However, you may only use a character if his mind attribute is 5 or less. All of your non-Orc/Troll characters are considered to be hero characters. You may only use up to two of each non-unique character.
+
+Orcs & Trolls &mdash; Because most Fallen-wizard characters will not be Orcs and Trolls, specific rules concerning Orc and Troll characters are collected in one section at the end of these rules.
+
+Hero/Minion Resources &mdash; You may use both hero and minion resources. However, you may only include up to a total of two of each non-unique hero or minion resource in your play deck and sideboard.
+
+Sites &mdash; There are four Fallen-wizard site cards: Isengard, The White Towers, Rhosgobel, and Deep Mines. These site cards have a light gray background. Unless stated otherwise on a card, a Fallen-wizard player may use these sites instead of the hero/minion versions.
 Most Fallen-wizard companies use hero site cards when moving to non-Fallen- wizard sites (see the Movement section for exceptions).
 
-Marshalling Points � Marshalling points for stage resource cards are handled normally (i.e., as printed on the card). However, all other marshalling point cards are only worth 1 marshalling point each to a Fallen- wizard (regardless of their printed value).
-These MPs cannot be modified by a hero or minion resource event (e.g., Rumor of the One, Tribute Garnered, Sentinels of N�menor, etc.). However, Fallen-wizard abilities and stage resource cards can modify the number of marshalling points certain cards give.
+Marshalling Points &mdash; Marshalling points for stage resource cards are handled normally (i.e., as printed on the card). However, all other marshalling point cards are only worth 1 marshalling point each to a Fallen- wizard (regardless of their printed value).
 
-The Victory Conditions
+These MPs cannot be modified by a hero or minion resource event (e.g., Rumor of the One, Tribute Garnered, Sentinels of Numenor, etc.). However, Fallen-wizard abilities and stage resource cards can modify the number of marshalling points certain cards give.
+
+### The Victory Conditions
+
 As a Fallen-wizard you may win in the same way a METW Wizard wins: your opponent is eliminated or you recover The One Ring or you have the most marshalling points at the Free Council. The following exceptions apply:
 
 In order to win by recovering The One Ring at least one A New Ringlord card must be played and the conditions outlined on that card must be met.
