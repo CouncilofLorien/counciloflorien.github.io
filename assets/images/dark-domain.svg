@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="3.0556507mm"
-   height="3.0556507mm"
-   viewBox="0 0 3.0556508 3.0556507"
+   width="3.9723461mm"
+   height="3.9723461mm"
+   viewBox="0 0 3.9723462 3.9723461"
    version="1.1"
    id="svg5305"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="dark-domain.svg">
+   sodipodi:docname="dark-domain-2.svg">
   <defs
      id="defs5299" />
   <sodipodi:namedview
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.678384"
-     inkscape:cx="-11.210624"
-     inkscape:cy="11.55553"
+     inkscape:cx="5.1057306"
+     inkscape:cy="11.551754"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -52,11 +52,11 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-165.24025,-125.94931)">
+     transform="translate(-164.78192,-125.49099)">
     <g
        style="fill:#000000;fill-opacity:1"
        id="g6760-6-1"
-       transform="matrix(1.7189085,0,0,1.7189085,-235.33964,-671.29613)"
+       transform="matrix(2.2345811,0,0,2.2345811,-355.97195,-910.92811)"
        inkscape:export-xdpi="1200.02"
        inkscape:export-ydpi="1200.02">
       <g
