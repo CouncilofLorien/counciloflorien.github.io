@@ -76,7 +76,7 @@ An Under-deeps site card has ''Under-deeps" in the section that normally gives s
  - A company moving to and/or from an Under-deeps site has no site path. So, hazards may only be played keyed to the company's new site.
  - An environment card that changes site type (e.g., _Choking Shadows_, _Quiet lands_, etc.) cannot be used to change the site type of an Under-deeps site.
  - You may not consider marshalling points associated with a company at an Under-deeps site for the purposes of calling the Free Council or the Audience with Sauron.
- - Normally, when you successfully play an item, faction, ally, or information at a si te, the site card is tapped and one additional character may tap to play a minor item. At an Under-deeps site, you can play any item playable at the site instead of this minor item.
+ - Normally, when you successfully play an item, faction, ally, or information at a site, the site card is tapped and one additional character may tap to play a minor item. At an Under-deeps site, you can play any item playable at the site instead of this minor item.
 
 {: .note-dk }
 > **Example:** Asternak taps and plays _High Helm_ (a major item) at The Under-grottos and the site taps. At this point, Dorelas could only tap to play a minor item at a non-Under-deeps site. But The Under-grottos is an Under-deeps
@@ -91,7 +91,8 @@ Each adjacent site is followed by a number in parentheses—this number indicate
 
 {: .note-dk }
 > **Note:** A company moving from a surface site to its Under-deeps site does not need to make a roll.
-> **Example:** A minion company that starts a, Carn Dum can move normally or it can move to The Iron-deep—-The Iron-deeps lists Cam Dum as an adjacent site. Similarly, a minion company that starts at The Iron-deeps may attempt to move to any adjacent site listed: Cam Dum (0), The Under-leas (5), or The Under-vaults (6). However, after committing to movement, the moving player must roll a 5 or better to successfully move to The Under-leas or a 6 or better to successfully move to The Under-vaults.
+> 
+> **Example:** A minion company that starts at Carn Dum can move normally or it can move to The Iron-deep—-The Iron-deeps lists Cam Dum as an adjacent site. Similarly, a minion company that starts at The Iron-deeps may attempt to move to any adjacent site listed: Cam Dum (0), The Under-leas (5), or The Under-vaults (6). However, after committing to movement, the moving player must roll a 5 or better to successfully move to The Under-leas or a 6 or better to successfully move to The Under-vaults.
 
 ---
 
