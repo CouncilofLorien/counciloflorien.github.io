@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="3.2688358mm"
-   height="3.2688358mm"
-   viewBox="0 0 3.2688358 3.2688358"
+   width="4.2494864mm"
+   height="4.2494864mm"
+   viewBox="0 0 4.2494865 4.2494865"
    version="1.1"
    id="svg5305"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="border-land.svg">
+   sodipodi:docname="border-land-2.svg">
   <defs
      id="defs5299" />
   <sodipodi:namedview
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.678384"
-     inkscape:cx="-4.1011612"
-     inkscape:cy="6.5612675"
+     inkscape:cx="-7.8038283"
+     inkscape:cy="8.4145564"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -52,11 +52,11 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-163.3592,-123.41247)">
+     transform="translate(-162.86888,-122.92217)">
     <g
        style="fill:#000000;fill-opacity:1"
        id="g6744-4-7"
-       transform="matrix(1.7189085,0,0,1.7189085,-203.66858,-673.57004)"
+       transform="matrix(2.2345811,0,0,2.2345811,-314.26724,-913.15512)"
        inkscape:export-xdpi="1200.02"
        inkscape:export-ydpi="1200.02">
       <g
