@@ -250,7 +250,7 @@ _If more than one action is required to be the first action declared in a chain 
 
 #### Annotation 11
 
-_The requirement of cards that cannot be duplicated is **not** considered while a chain of effects is being declared and resolved. Once the chain is resolved, second and later resolved copies of any card in play that cannot be duplicated are discarded. Once the chain is resolved, second and later resolved effects of any card that cannot be duplicated are cancelled. Some cards cannot be duplicated in limited cases-generally on a specific target. Multiple copies of these cards or their effects may be in play normally, so long as each applies to a different target.
+_The requirement of cards that cannot be duplicated is **not** considered while a chain of effects is being declared and resolved. Once the chain is resolved, second and later resolved copies of any card in play that cannot be duplicated are discarded. Once the chain is resolved, second and later resolved effects of any card that cannot be duplicated are cancelled. Some cards cannot be duplicated in limited cases-generally on a specific target. Multiple copies of these cards or their effects may be in play normally, so long as each applies to a different target._
 
 {: .note }
 > **Example:** Teri plays _Doors of Night_ during Ying's movement/hazard phase. Teri then plays _Morgul Night_. Ying responds with _Twilight_ targeting _Doors of Night_; she sees that if _Doors of Night_ is discarded before _Morgul Night_ is resolved, _Morgul Night_ will also have to be discarded because its active
@@ -291,7 +291,7 @@ _The only actions that may be declared during a strike sequence are those outlin
 
 #### Annotation 18
 
-_When a defending player chooses to resolve a strike against a particular character, the only actions that may be taken by either player until the strike dice-roll are those outlined in the section on sequencing strikes (page 24). An action that has the condition that a target character tap, but which otherwise has an effect not outlined in this section, may not be declared at this point. This is true even if the recipient of the strike would be the target character tapping and thus receive -1 to his prowess._
+_When a defending player chooses to resolve a strike against a particular character, the only actions that may be taken by either player until the strike dice-roll are those outlined in the section on sequencing strikes ([page 24](/rules-archive/the-wizards-unlimited#the-strike-sequence)). An action that has the condition that a target character tap, but which otherwise has an effect not outlined in this section, may not be declared at this point. This is true even if the recipient of the strike would be the target character tapping and thus receive -1 to his prowess._
 
 #### Annotation 19
 
