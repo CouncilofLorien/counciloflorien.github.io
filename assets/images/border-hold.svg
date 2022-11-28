@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1.8618151mm"
-   height="2.9419522mm"
-   viewBox="0 0 1.8618152 2.9419522"
+   width="2.4203596mm"
+   height="3.8245378mm"
+   viewBox="0 0 2.4203597 3.8245377"
    version="1.1"
    id="svg5305"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="border-hold.svg">
+   sodipodi:docname="border-hold-2.svg">
   <defs
      id="defs5299" />
   <sodipodi:namedview
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.678384"
-     inkscape:cx="-5.9861966"
-     inkscape:cy="10.79579"
+     inkscape:cx="-10.486498"
+     inkscape:cy="12.463657"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -52,11 +52,11 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-163.85795,-125.86199)">
+     transform="translate(-163.57867,-125.42069)">
     <g
        id="use6834-2-4"
        style="fill:#000000;fill-opacity:1"
-       transform="matrix(0.45479454,0,0,0.45479454,163.72293,128.84658)">
+       transform="matrix(0.5912329,0,0,0.5912329,163.40315,129.30066)">
       <path
          inkscape:connector-curvature="0"
          style="stroke:none"
