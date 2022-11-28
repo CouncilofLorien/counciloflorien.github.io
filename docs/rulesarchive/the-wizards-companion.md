@@ -35,21 +35,21 @@ The following list details card errata and clarifications. This list is official
 
 _Akhorahil_ (errata)—Replace "…gives -1 penalty to one character's body checks this turn." with "…modifies any one character's body by -1 for the rest of the turn."
 
-_Align Palantir_ (clarification)—
+_Align Palantir_ (clarification)—An aligned Palantir can be stored.
 
-_Army of the Dead_ (errata)—
+_Army of the Dead_ (errata)—May not be influenced by an opponent.
 
-_Bane of the Ithil-stone_ (clarification)—
+_Bane of the Ithil-stone_ (clarification)—This card cancels any action that _literally_ causes any player to search through or look at any portion of _any_ play deck or discard pile outside the normal sequence of play. E.g., this card cancels _Vilya_, which would otherwise allow Elrond's player to choose 5 cards from his discard pile and shuffle them into his play deck. This card does not cancel each player's card drawing option when a company reveals a new site, but it does cancel _Lucky Search_. This card does not affect an action which allows a player to bring cards from his sideboard into his discard pile or play deck. This card does not affect an action which otherwise only causes a player to reshuffle his play deck.
 
-_Bill the Pony_ (errata)—
+_Bill the Pony_ (errata)—The body of this ally is 10, not 6.
 
-_Book of Mazarbul_ (errata)—
+_Book of Mazarbul_ (errata)—Replace "…tap the bearer during your organization phase…" wit "…tap _Book of Mazarbul_ during your organization phase…"
 
-_Call of Home_ (clarification)—
+_Call of Home_ (clarification)—Besides the one item automatically transferrable, all other non-follower cards target character controls are discarded.
 
-_Call of the Sea_ (clarification)—
+_Call of the Sea_ (clarification)—Besides the one item automatically transferrable, all other non-follower cards target Elf controls are discarded.
 
-_Corpse-candle_ (clarification)—
+_Corpse-candle_ (clarification)—If this attack is cancelled, the company does not have to make corruption checks.
 
 _Corsairs of Umbar_ (errata)—
 
