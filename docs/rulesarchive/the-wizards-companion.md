@@ -57,127 +57,129 @@ _Cracks of Doom_ (errata)—Remove "Otherwise, discard _The One Ring_ and its be
 
 _Dodge_ (errata)—Replace "…his body check is modified by -1." with "…his body is modified by -1 for the resulting body check."
 
-_Doors of Night_ (clarification)—
+_Doors of Night_ (clarification)—This card only cancels resource environment effects already in play when this card is played. It does not cancel resource environment cards and effects played after this card is resolved. This card **cannot** be played after strikes from an attack have been assigned, if this card would cause the # of strikes from the attack to change. 
 
-_Dragon's Desolation_ (clarification)—
+_Dragon's Desolation_ (clarification)—The second potion of this card lasts until the end of the turn or until a dragon is played with it. The second option must target a Ruins and Lairs site with the site path requirement. The site path to consider is the one given on the Ruins and Lairs site card. This card can be used to attack a company that does not move and is at a Ruins and Lairs site with the proper site path requirements.
 
-_Drowning Seas_ (errata)—
+_Drowning Seas_ (errata)—Remove "Cannot be duplicated."
 
-_Dwarven Ring of Thelor's Tribe_ (errata)—
+_Dwarven Ring of Thelor's Tribe_ (errata)—The prowess/body modifications should read: "+2(4)/+1." Values in parenthesis and brackets apply to a Dwarf bearer.
 
-_Dwarven Ring of Thrar's Tribe_ (errata)—
+_Dwarven Ring of Thrar's Tribe_ (errata)—The prowess/body modifications should read: "+2(4)/+1." Values in parenthesis and brackets apply to a Dwarf bearer.
 
-_Ent-draughts_ (errata)—
+_Ent-draughts_ (errata)—Remove "as a minor item" and replace with "**in addition to an ally or faction that have been successfully played at _Wellinghall_ this turn**."
 
-_Escape_ (clarification)—
+_Escape_ (clarification)—An unwounded character must be used to satisfy the condition.
 
-_The Evenstar_ (clarification)—
+_The Evenstar_ (clarification)—The additional effect of this card if _Gates of Morning_ is in play (i.e., a Wilderness of a Border-land changes) is optional. Such a region of site type need not exist for this card to be declared.
 
-_Eye of Sauron_ (clarification)—
+_Eye of Sauron_ (clarification)—If _Doors of Night_ is in play, the _total_ prowess modification is +3 to each automatic-attack, not +3 in addition to the +1 listed at the start of this card.
 
-_Foul Fumes_ (clarification)—
+_Foul Fumes_ (clarification)—For the additional effect if _Doors of Night_ is in play, the site path to consider is the one given on the site card.
 
-_Gates of Morning_ (clarification)—
+_Gates of Morning_ (clarification)—This card only cancels hazard environment effects already in play when this card is played. It does not cancel hazard environment cards and effects played after this card is resolved. This card **cannot** be played after strikes from an attack have been assigned, if this card would cause the # of strikes from the attack to change. 
 
-_Giant_ (clarification)—
+_Giant_ (clarification)—Add "_Giant_."
 
-_Goldberry_ (clarification)—
+_Goldberry_ (clarification)—This ally can tap to cancel an effect declared earlier in the same chain of effects that would cause her company to return to its site of origin.
 
-_The Great Goblin_ (errata)—
+_The Great Goblin_ (errata)—"**_Unique._** _Orc_. One Strike…"
 
-_Great-road_ (errata)—
+_Great-road_ (errata)—Change "Opponent draws twice…" to "Opponent may draw up to twice…"
 
-_Great Ship_ (clarification)—
+_Great Ship_ (clarification)—A character can tap to cancel an attack. He can tap to cancel an ongoing hazard effect that targets his company or any entity associated with his company (item, character, site, etc.). He can tap to cancel an effect declared earlier in the same chain of effects.
 
-_Halfling Strength_ (clarification)—
+_Gwaihir_ (errata)—"…you may discard _Gwaihir_ during the orgnaization phase to allow his company…"
 
-_Horses_ (clarification)—
+_Halfling Strength_ (clarification)—This card can be played to heal all characters at the site if played to heal a Hobbit during the organization phase at a site where healing cards affect all characters at the site.
 
-_Leaflock_ (clarification)—
+_Horses_ (clarification)—Add "Playable only at the end of the organization phase."
 
-_Long Winter_ (clarification)—
+_Leaflock_ (clarification)—Add "_Awakened Plant_."
 
-_Lucky Search_ (clarification)—
+_Long Winter_ (clarification)—This ally can tap to cancel an attack. He can tap to cancel an ongoing hazard effect that targets his company or any entity associated with his company (item, character, site, etc.). He can tap to cancel an effect declared earlier in the same chain of effects.
 
-_Lucky Search_ (errata)—
+_Lucky Search_ (clarification)—Playable at a tapped or untapped site. Does not exhaust play deck if its final card is revealed. Continue revealing cards if a unique item already in play is revealed.
 
-_Lure of Expedience_ (clarification)—
+_Lucky Search_ (errata)—Replace "Discard all revealed cards except the item." with "Reshuffle all revealed cards except the item back into play deck."
 
-_Lure of Nature_ (errata)—
+_Lure of Expedience_ (clarification)—A ring played in response to a test would also cause a corruption check.
 
-_Lure of Nature_ (clarification)—
+_Lure of Nature_ (errata)—Replace "…at the end of each movement/hazard phase…" with "…after all other hazards have been played…"
 
-_Mirror of Galadriel_ (clarification)—
+_Lure of Nature_ (clarification)—These corruption checks may be targetted at any point during his company's movement/hazard phase.
 
-_Morannon_ (clarification)—
+_Mirror of Galadriel_ (clarification)—This card is playable is any of your characters is at Lorien.
 
-_Morgul-horse_ (clarification)—
+_Morannon_ (errata)—"This card is used as a Dark-hold (![](/assets/images/dark-hold.svg)) site card in the region of Udun that is move to…"
 
-_Morgul-knife_ (clarification)—
+_Morgul-horse_ (clarification)—The first option of this card must be declared in response to tapping a Nazgul permanent-event in the same chain of effects.
 
-_Morgul Night_ (clarification)—
+_Morgul-knife_ (clarification)—A wounded character receives the corruption from this card immediately following the Nazgul's attack.
 
-_Mouth of Sauron_ (clarification)—
+_Morgul Night_ (clarification)—_Doors of Night_ is only required when this card is brought into play. This card and its effects would be unaffected if _Doors of Night_ were later discarded.
 
-_Neeker-breekers_ (clarification)—
+_Mouth of Sauron_ (errata)—Add "_Man_."
 
-_Old Man Willow_ (clarification)—
+_Neeker-breekers_ \[promo card] (clarification)—A wizard does not face a strike from this hazard creature.
 
-_Palantir of Amon Sul_ (clarification)—
+_Old Man Willow_ (clarification)—Add "_Awakened Plant_."
 
-_Palantir of Osgiliath_ (clarification)—
+_Palantir of Amon Sul_ (clarification)—If bearer's company size goes below two during the movement/hazard phase when the company is moving to a new site, discard this card.
 
-_The Pale Sword_ (clarification)—
+_Palantir of Osgiliath_ (clarification)—If bearer's company size goes below four during the movement/hazard phase when the company is moving to a new site, discard this card.
 
-_Praise to Elbereth_ (clarification)—
+_The Pale Sword_ (clarification)—A wounded character receives the corruption from this card immediately following the Nazgul's attack.
 
-_The Precious_ (clarification)—
+_Praise to Elbereth_ (clarification)—When this card is played, you must declare which characters are targetting which Nazgul events. A cancelled Nazgul event&mdash;as a permanent-event or activated&mdash;is discarded and has no effect.
 
-_Pukel-men_ (clarification)—
+_The Precious_ (clarification)—The player playing this card chooses the character to make the corruption check.
 
-_Quiet Lands_ (clarification)—
+_Pukel-men_ (clarification)—Add "_Pukel-creature_."
 
-_Ren the Unclean_ (clarification)—
+_Quiet Lands_ (clarification)—Replace "…is reduced by half its original number (rounded up)." with "…is reduced by half (round up)."
 
-_Ringlore_ (clarification)—
+_Ren the Unclean_ (clarification)—All characters of all players must make a corruption check when this card becomes a short-event. For those characters whose turn it is **not**, no resource cards may be played to modify the corruption check, though untapped characters may tap to give +1 to another character's check in the same company.
 
-_River_ (clarification)—
+_Ringlore_ (errata)—Add "**_Playable only during the site phase._**" Tap the sage and the site."
 
-_Roac the Raven_ (errata)—
+_River_ (errata)—Remove "Discard at the end of the turn."
 
-_Secret Entrance_ (clarification)—
+_Roac the Raven_ (errata)—Remove "&mdash;no modifications to the influence check are required." Replace with "&mdash;treat this influence check as though it were made by a diplomat."
 
-_Seige_ (clarification)—
+_Secret Entrance_ (clarification)—If it is shown that at the time this card was played (i.e., at the end of its company's organization phase) the company had a face down site card that was in a dark-domain, the effects of this card are cancelled though the sage remains tapped. A long-event, (e.g., _Morgul Night_) in play at the end of the organization phase would have to be considered when determining this.
 
-_Silent Watcher_ (clarification)—
+_Seige_ (errata)—This card is playable on a border-hold. Change the border-land symbol in the first line to a border-hold symbol.
 
-_Slayer_ (errata)—
+_Silent Watcher_ (errata)—Add "_Pukel-creature._" Gives 1 marshalling point, not 0.
 
-_Slayer_ (clarification)—
+_Slayer_ (errata)—Add "_Slayer._" Gives 2 marshalling points, not 0.
 
-_Shadowfax_ (clarification)—
+_Slayer_ (clarification)—The defending character may tap to cancel one attack.
 
-_Thorin II_ (clarification)—
+_Shadowfax_ (clarification)—The company may contain no allies.
 
-_Tom Bombadil_ (clarification)—
+_Thorin II_ (clarification)—This character receives a total +4 direct influenece against Blue Mountain Dwarves.
 
-_Traitor_ (errata)—
+_Tom Bombadil_ (clarification)—This ally can tap to cancel an attack. He can tap to cancel an ongoing hazard effect that targets his company or any entity associated with his company (item, character, site, etc.). He can tap to cancel an effect declared earlier in the same chain of effects.
 
-_Twilight_ (errata)—
+_Traitor_ (errata)—This card is discarded when the character fails his corruption check.
 
-_Twilight_ (clarification)—
+_Twilight_ (errata)—This card may be played at any time during any player's turn.
 
-_Use Palantir_ (clarification)—
+_Twilight_ (clarification)—This card may target an environment card played earlier in the same chain of effects. This card may be played as a resource during opponent's turn, i.e., it would not count against the hazard limit.
 
-_Watcher in the Water_ (clarification)—
+_Use Palantir_ (clarification)—Change text to "**_Sage only._** Tap sage to enable him to use one Palantir he bears for the rest of the turn."
 
-_The White Tree_ (clarification)—
+_Watcher in the Water_ (clarification)—Add "_Animal._"
 
-_Wizard's Laughter_ (errata)—
+_The White Tree_ (errata)—Discard the _Sapling of the White Tree._
 
-_Wizard's Ring_ (errata)—
+_Wizard's Laughter_ (errata)—Change "**_Wizard only._**" to "**_Wizard only during opponent's site phase._**"
 
-_Wolves_ (errata)—
+_Wizard's Ring_ (errata)—Replace "Ignore any effect that would discard this item." with "Cannot be stored, stolen, or transferred."
+
+_Wolves_ (errata)—Change "_Animals._" to "_Wolves._"
 
 ## RULES ANNOTATIONS
 
