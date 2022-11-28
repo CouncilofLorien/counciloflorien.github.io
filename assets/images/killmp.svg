@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="3.0408559mm"
-   height="3.0408559mm"
-   viewBox="0 0 3.0408559 3.0408559"
+   width="4.5612841mm"
+   height="4.5612841mm"
+   viewBox="0 0 4.5612841 4.5612841"
    version="1.1"
    id="svg5305"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="killmp.svg">
+   sodipodi:docname="killmp-2.svg">
   <defs
      id="defs5299" />
   <sodipodi:namedview
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.678384"
-     inkscape:cx="0.068170479"
-     inkscape:cy="5.6301568"
+     inkscape:cx="-2.6144184"
+     inkscape:cy="8.503412"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -52,18 +52,18 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-165.02898,-123.55279)">
+     transform="translate(-164.26877,-122.79258)">
     <path
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#101010;stroke-width:0.16083176;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#101010;stroke-width:0.24124765;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
        id="path2310-3-7"
        sodipodi:type="arc"
        sodipodi:cx="166.54941"
        sodipodi:cy="125.07322"
-       sodipodi:rx="1.4400121"
-       sodipodi:ry="1.4400121"
+       sodipodi:rx="2.1600182"
+       sodipodi:ry="2.1600182"
        sodipodi:start="0"
        sodipodi:end="6.2828886"
        sodipodi:open="true"
-       d="m 167.98942,125.07322 a 1.4400121,1.4400121 0 0 1 -1.43991,1.44001 1.4400121,1.4400121 0 0 1 -1.44011,-1.4398 1.4400121,1.4400121 0 0 1 1.43969,-1.44022 1.4400121,1.4400121 0 0 1 1.44033,1.43958" />
+       d="m 168.70943,125.07322 a 2.1600182,2.1600182 0 0 1 -2.15986,2.16002 2.1600182,2.1600182 0 0 1 -2.16018,-2.1597 2.1600182,2.1600182 0 0 1 2.15954,-2.16034 2.1600182,2.1600182 0 0 1 2.1605,2.15938" />
   </g>
 </svg>
