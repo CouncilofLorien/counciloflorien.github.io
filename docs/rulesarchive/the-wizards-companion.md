@@ -1,9 +1,9 @@
 ---
 layout: default
-title: The Wizards Unlimited
+title: The Wizards Companion
 parent: Rules Archive
 nav_order: 2
-permalink: /rules-archive/the-wizards-unlimited
+permalink: /rules-archive/the-wizards-companion
 search_exclude: true
 ---
 
