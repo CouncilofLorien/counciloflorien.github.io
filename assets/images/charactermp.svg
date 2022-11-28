@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="2.7104001mm"
-   height="2.7104001mm"
-   viewBox="0 0 2.7104001 2.7104001"
+   width="4.0656004mm"
+   height="4.0656004mm"
+   viewBox="0 0 4.0656004 4.0656004"
    version="1.1"
    id="svg5305"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="charactermp.svg">
+   sodipodi:docname="charactermp-2.svg">
   <defs
      id="defs5299" />
   <sodipodi:namedview
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.678384"
-     inkscape:cx="7.01189"
-     inkscape:cy="8.8721574"
+     inkscape:cx="6.1320777"
+     inkscape:cy="7.3925628"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -52,22 +52,22 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-163.1918,-124.74102)">
+     transform="translate(-162.5142,-124.06342)">
     <path
        sodipodi:type="star"
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#101010;stroke-width:0.14761604;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#101010;stroke-width:0.22142407;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
        id="path829-4-7"
        sodipodi:sides="8"
        sodipodi:cx="164.547"
        sodipodi:cy="126.09622"
-       sodipodi:r1="1.3841606"
-       sodipodi:r2="1.2787974"
+       sodipodi:r1="2.076241"
+       sodipodi:r2="1.9181961"
        sodipodi:arg1="-1.1830262"
        sodipodi:arg2="-0.79032707"
        inkscape:flatsided="true"
        inkscape:rounded="0"
        inkscape:randomized="0"
-       d="m 165.07038,124.81483 0.75279,0.7454 0.005,1.05938 -0.7454,0.75278 -1.05938,0.005 -0.75278,-0.7454 -0.005,-1.05937 0.74541,-0.75279 z"
+       d="m 165.33208,124.17413 1.12917,1.1181 0.008,1.58907 -1.1181,1.12918 -1.58907,0.008 -1.12918,-1.1181 -0.008,-1.58907 1.1181,-1.12918 z"
        inkscape:transform-center-y="7.8248174e-06" />
   </g>
 </svg>
