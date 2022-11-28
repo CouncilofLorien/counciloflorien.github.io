@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="3.3922579mm"
-   height="3.3922579mm"
-   viewBox="0 0 3.3922579 3.3922579"
+   width="5.088387mm"
+   height="5.088387mm"
+   viewBox="0 0 5.088387 5.088387"
    version="1.1"
    id="svg5305"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="miscmp.svg">
+   sodipodi:docname="miscmp-2.svg">
   <defs
      id="defs5299" />
   <sodipodi:namedview
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.678384"
-     inkscape:cx="6.8222995"
-     inkscape:cy="9.0381592"
+     inkscape:cx="4.4717406"
+     inkscape:cy="12.243436"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -52,21 +52,21 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-163.24195,-124.10309)">
+     transform="translate(-162.39389,-123.25502)">
     <path
        sodipodi:type="star"
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#101010;stroke-width:0.14761604;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#101010;stroke-width:0.22142407;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
        id="path2312-6-1"
        sodipodi:sides="4"
        sodipodi:cx="164.93808"
        sodipodi:cy="125.79922"
-       sodipodi:r1="1.6439388"
-       sodipodi:r2="1.1624403"
+       sodipodi:r1="2.4659083"
+       sodipodi:r2="1.7436604"
        sodipodi:arg1="1.5707963"
        sodipodi:arg2="2.3561945"
        inkscape:flatsided="true"
        inkscape:rounded="0"
        inkscape:randomized="0"
-       d="m 164.93808,127.44316 -1.64394,-1.64394 1.64394,-1.64394 1.64394,1.64394 z" />
+       d="m 164.93808,128.26513 -2.46591,-2.46591 2.46591,-2.46591 2.46591,2.46591 z" />
   </g>
 </svg>
