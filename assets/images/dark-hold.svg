@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1.7978597mm"
-   height="2.8851027mm"
-   viewBox="0 0 1.7978597 2.8851027"
+   width="2.3372176mm"
+   height="3.7506335mm"
+   viewBox="0 0 2.3372176 3.7506334"
    version="1.1"
    id="svg5305"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="dark-hold.svg">
+   sodipodi:docname="dark-hold-2.svg">
   <defs
      id="defs5299" />
   <sodipodi:namedview
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.678384"
-     inkscape:cx="-11.923216"
-     inkscape:cy="15.038703"
+     inkscape:cx="-3.2331184"
+     inkscape:cy="7.1724952"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -52,11 +52,11 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-165.42879,-127.04145)">
+     transform="translate(-165.15911,-126.60866)">
     <g
        style="fill:#000000;fill-opacity:1"
        id="g6852-5-3"
-       transform="matrix(1.7189085,0,0,1.7189085,74.260946,-685.69096)"
+       transform="matrix(2.2345811,0,0,2.234581,46.640914,-929.94345)"
        inkscape:export-xdpi="1200.02"
        inkscape:export-ydpi="1200.02">
       <g
