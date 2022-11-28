@@ -72,6 +72,9 @@ You should read the following section to get a general idea of how to play a Fal
 
 **Stage Points** &mdash; Certain cards give your Fallen-wizard "stage points." Stage points reflect how far your Fallen-wizard has deviated from his original mission. You must keep track of your accumulated stage points. The number of stage points that a card gives is indicated by a cog-shaped symbol with a number inside.
 
+{: .text-center }
+![](/assets/images/stage-points.svg)
+
 **Stage Resources** &mdash; _MEWH_ introduces a new type of resource card called a _stage resource card_. Such a card is actually a "Fallen-wizard-only resource card"&mdash;only Fallen-wizard players may include them in their decks. Stage resources have a green-colored (i.e., tarnished copper) background. Most stage resource cards give stage points.
 
 **Characters** &mdash; You may use both hero and minion characters. However, you may only use a character if his mind attribute is 5 or less. All of your non-Orc/Troll characters are considered to be hero characters. You may only use up to two of each non-unique character.
