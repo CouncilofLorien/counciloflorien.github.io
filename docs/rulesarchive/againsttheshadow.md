@@ -35,32 +35,32 @@ This insert provides expansion rules and clarifications for use with all _Middle
 {: .note-dk }
 > **Note:** For a copy of these rules in larger type with more examples send a request and a self-addressed, stamped envelope to ICE, P.O. Box l605, Charlotesville, VA, 22903. Alternatively, visit our home page on the WWW (http://www.ironcrown.com).
 
-### Placement of cards "off to the side" (_Clarification_)
+#### Placement of cards "off to the side" (_Clarification_)
 
 Certain cards and effects require other cards be placed "off to the side" (e.g., _Sack Over the Head_). Cards placed off to the side are placed on the playing surface off to the side of the normal area of play. Such cards are kept with their host permanent-event that caused this effect. Any card placed off to the side absolutely cannot be targeted or otherwise affected by the game except by cards that specifically affect cards placed "off to the side."
 
 Cards placed off to the side are in play for the purposes of uniqueness. Unless stated otherwise, when a host permanent-event is removed from the playing surface, any cards placed off to the side under it are discarded. Usually the host card will state some mechanic that affects the cards placed off to the side with it. Unless stated otherwise on its host card, a card placed off to the side will give its marshalling points to its owner.
 
-## HOARDS
+### HOARDS
 
 Certain items are _hoard_ items. Such an item may only be played at a site that contains a hoard. Each site with a Dragon automatic-attack (i.e., each Dragon's lair) contains a hoard.[^hoard] A hoard minor item may not be included with a starting company, and may not be played at a site that does not contain a hoard.
 
 {: .note-dk }
 > **Example:** You can not play a hoard minor item at Mount Gram after successfully influencing the _Orcs of Angmar_ like you can with a normal minor item. Mount Gram does not contain a board.
 
-## REGION MOVEMENT LIMITATION
+### REGION MOVEMENT LIMITATION
 
 Normally, a company moving with region movement may lay down a maximum of four region cards. If a company moving with region movement is using effects that allows additional region cards to be laid down, no more than six regions may be used.
 
-## CHARACTERS FACING MULTIPLE STRIKES
+### CHARACTERS FACING MULTIPLE STRIKES
 
 Certain effects allow a character to be assigned more than one strike from a given attack. Such a character must face a strike sequence for each strike he is assigned to face. If a character is tapped or wounded following one of these strike sequences, he must then accordingly modify his prowess for any following strike sequences. If a character is eliminated or otherwise removed from play before he has faced all of his assigned strikes, those strikes he has yet to face are then considered to be canceled[^successful] (i.e., they have no further effect).
 
-## CREATURES AS AUTOMATIC-ATTACKS
+### CREATURES AS AUTOMATIC-ATTACKS
 
-Any hazard creature you play as an automatic-attack is di scarded if defeated—it is not placed in your opponent's marshalling point pile.
+Any hazard creature you play as an automatic-attack is discarded if defeated—it is not placed in your opponent's marshalling point pile.
 
-## THE UNDER-DEEPS
+### THE UNDER-DEEPS
 
 {: .note-dk }
 > **Note:** Created by streams of molten rock and expanded by geothermal eruptions of super-hot gas, the Under-deeps are a result of a combination of natural and supernatural forces. The hand of Morgoth joined what was once a collection of sundered cavern complexes. His greater servants used this maze of tunnels and chambers to travel surreptitiously throughout Endor.
@@ -82,7 +82,7 @@ An Under-deeps site card has ''Under-deeps" in the section that normally gives s
 > **Example:** Asternak taps and plays _High Helm_ (a major item) at The Under-grottos and the site taps. At this point, Dorelas could only tap to play a minor item at a non-Under-deeps site. But The Under-grottos is an Under-deeps
 site, so Dorelas can tap to play anything playable at The Under-grottos: a minor item, a major item, or a gold ring. He taps and plays a _Gold-ring that Sauron Fancies_.
 
-### Under-deep Site Movement
+#### Under-deep Site Movement
 
 One of your companies that begins its turn at the surface site of an Under-deeps site can move normally _or_ it can move to its adjacent Under-deeps site (i.e., the company moves to an Under-deeps site from its surface site). One of your companies that begins its turn at an Under-deeps site may only move to one of the adjacent sites listed on
 the Under-deeps site card.
