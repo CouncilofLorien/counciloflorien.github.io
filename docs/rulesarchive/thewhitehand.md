@@ -66,81 +66,81 @@ When you play a Fallen-wizard, assume that your Fallen-wizard is an _METW_ "Wiza
 
 You should read the following section to get a general idea of how to play a Fallen-wizard. Then read the rest of the rules for more specific details.
 
-Wizards &mdash; When the rules and cards refer to a Wizard, they apply to your Fallen-wizard. The White hand symbol on a Fallen-wizard's card is that Fallen-wizard's general influence when that card is in active play.
+**Wizards** &mdash; When the rules and cards refer to a Wizard, they apply to your Fallen-wizard. The White hand symbol on a Fallen-wizard's card is that Fallen-wizard's general influence when that card is in active play[^white-hand].
 
-Wizardhavens &mdash; When the rules and non-site cards refer to Havens and Darkhavens, they apply instead to your Wizardhavens. The special effects of METW Havens (i.e., healing, bringing characters into play, etc.) do apply to your companies at your Wizardhavens. These same effects do not apply to your companies at MELE Darkhavens and METW Havens.
+**Wizardhavens** &mdash; When the rules and non-site cards refer to Havens and Darkhavens, they apply instead to your Wizardhavens. The special effects of _METW_ Havens (i.e., healing, bringing characters into play, etc.) do apply to your companies at your Wizardhavens. These same effects do **not** apply to your companies at _MELE_ Darkhavens and _METW_ Havens.
 
-Stage Points &mdash; Certain cards give your Fallen-wizard "stage points." Stage points reflect how far your Fallen-wizard has deviated from his original mission. You must keep track of your accumulated stage points. The number of stage points that a card gives is indicated by a cog-shaped symbol with a number inside.
+**Stage Points** &mdash; Certain cards give your Fallen-wizard "stage points." Stage points reflect how far your Fallen-wizard has deviated from his original mission. You must keep track of your accumulated stage points. The number of stage points that a card gives is indicated by a cog-shaped symbol with a number inside.
 
-Stage Resources &mdash; MEWH introduces a new type of resource card called a stage resource card. Such a card is actually a "Fallen-wizard- only resource card"&mdash;only Fallen-wizard players may include them in their decks. Stage resources have a green-colored (i.e., tarnished copper) background. Most stage resource cards give stage points.
+**Stage Resources** &mdash; _MEWH_ introduces a new type of resource card called a _stage resource card_. Such a card is actually a "Fallen-wizard-only resource card"&mdash;only Fallen-wizard players may include them in their decks. Stage resources have a green-colored (i.e., tarnished copper) background. Most stage resource cards give stage points.
 
-Characters &mdash; You may use both hero and minion characters. However, you may only use a character if his mind attribute is 5 or less. All of your non-Orc/Troll characters are considered to be hero characters. You may only use up to two of each non-unique character.
+**Characters** &mdash; You may use both hero and minion characters. However, you may only use a character if his mind attribute is 5 or less. All of your non-Orc/Troll characters are considered to be hero characters. You may only use up to two of each non-unique character.
 
-Orcs & Trolls &mdash; Because most Fallen-wizard characters will not be Orcs and Trolls, specific rules concerning Orc and Troll characters are collected in one section at the end of these rules.
+**Orcs & Trolls** &mdash; Because most Fallen-wizard characters will _not_ be Orcs and Trolls, specific rules concerning Orc and Troll characters are collected in one section at the end of these rules.
 
-Hero/Minion Resources &mdash; You may use both hero and minion resources. However, you may only include up to a total of two of each non-unique hero or minion resource in your play deck and sideboard.
+**Hero/Minion Resources** &mdash; You may use both hero and minion resources. However, you may only include up to a total of two of each non-unique hero or minion resource in your play deck and sideboard.
 
-Sites &mdash; There are four Fallen-wizard site cards: Isengard, The White Towers, Rhosgobel, and Deep Mines. These site cards have a light gray background. Unless stated otherwise on a card, a Fallen-wizard player may use these sites instead of the hero/minion versions.
-Most Fallen-wizard companies use hero site cards when moving to non-Fallen- wizard sites (see the Movement section for exceptions).
+**Sites** &mdash; There are four Fallen-wizard site cards: Isengard, The White Towers, Rhosgobel, and Deep Mines. These site cards have a light gray background. Unless stated otherwise on a card, a Fallen-wizard player may use these sites instead of the hero/minion versions.<br>Most Fallen-wizard companies use hero site cards when moving to non-Fallen-wizard sites (see the Movement section for exceptions).
 
-Marshalling Points &mdash; Marshalling points for stage resource cards are handled normally (i.e., as printed on the card). However, all other marshalling point cards are only worth 1 marshalling point each to a Fallen- wizard (regardless of their printed value).
+**Marshalling Points** &mdash; Marshalling points for stage resource cards are handled normally (i.e., as printed on the card). However, all other marshalling point cards are only worth 1 marshalling point each to a Fallen-wizard (regardless of their printed value).<br>These MPs can **not** be modified by a hero or minion resource event (e.g., _Rumor of the One_, _Tribute Garnered_, _Sentinels of Numenor_, etc.). However, Fallen-wizard abilities and stage resource cards **can** modify the number of marshalling points certain cards give.
 
-These MPs cannot be modified by a hero or minion resource event (e.g., Rumor of the One, Tribute Garnered, Sentinels of Numenor, etc.). However, Fallen-wizard abilities and stage resource cards can modify the number of marshalling points certain cards give.
+### THE VICTORY CONDITIONS
 
-### The Victory Conditions
+As a Fallen-wizard you may win in the same way a _METW_ Wizard wins: your opponent is eliminated **or** you recover _The One Ring_ **or** you have the most marshalling points at the Free Council. The following exceptions apply:
 
-As a Fallen-wizard you may win in the same way a METW Wizard wins: your opponent is eliminated or you recover The One Ring or you have the most marshalling points at the Free Council. The following exceptions apply:
+ - In order to win by recovering _The One Ring_ at least one _A New Ringlord_ card must be played and the conditions outlined on that card must be met.
+ - The Free Council is handled normally, and victory is determined in the standard way by comparing marshalling points. However, to you (a Fallen- wizard) it is called your **Day of Reckoning** and your marshalling points reflect how far you have progressed towards completing your own personal agenda.
+ - You do not receive marshalling points for cards stored at non-Wizardhaven sites.
 
-In order to win by recovering The One Ring at least one A New Ringlord card must be played and the conditions outlined on that card must be met.
-The Free Council is handled normally, and victory is determined in the standard way by comparing marshalling points. However, to you (a Fallen- wizard) it is called your Day of Reckoning and your marshalling points reflect how far you have progressed towards completing your own personal agenda.
-You do not receive marshalling points for cards stored at non-Wizardhaven sites.
-Getting Ready to Play
+### GETTING READY TO PLAY
+
 A Fallen-wizard player prepares for play just as a Wizard does, with the following exceptions:
 
-Declaring That Your Wizard is Fallen
+#### Declaring That Your Wizard is Fallen
+
 If you are playing a Fallen-wizard, you must tell your opponent which Fallen-wizard you are playing before choosing starting companies. If your opponent has normal hero Wizard character cards in his play deck and/or sideboard that correspond to the Fallen-wizard you have declared, he may replace those Wizard cards with an equal number of other Wizard character cards that he has available. Your opponent may also add 10 cards to his sideboard (these cards should be preselected for a Fallen-wizard opponent).
 
-Note: This rule means that when you declare that you are playing a specific Fallen-wizard, your opponent may not play the corresponding hero Wizard (i.e., that Wizard has already fallen). You and your opponent may still both declare and attempt to play the same Fallen-wizard, but the game will probably be won by the first player to get his Fallen-wizard into play.
+{: .note-dk }
+> **Note:** This rule means that when you declare that you are playing a specific Fallen-wizard, your opponent may not play the corresponding hero Wizard (i.e., that Wizard has already fallen). You and your opponent may still both declare and attempt to play the same Fallen-wizard, but the game will probably be won by the first player to get his Fallen-wizard into play.
 
-Your Location Deck
+#### Your Location Deck
+
 Your location deck may include multiple copies of the Fallen-wizard site cards: Isengard, The White Towers, Rhosgobel, and Deep Mines. However, your location deck may only include one of every hero site and minion site.
 
-Your Play Deck
+#### Your Play Deck
+
 The resource half of your play deck (and your sideboard) may include hero, minion, and stage resources. But, you are limited to:
 
-One of each unique card (including cards with the same name)
-Three of each non-unique stage resource card
-Two of each non-unique character card
-Two of each non-unique hero resource card
-Two of each non-unique minion resource card
-You may not include stage resource cards that are "specific" to another Fallen-wizard (e.g., if you declare that you are Alatar, you may not include "Gandalf specific." cards).
-You may not include any of the following cards:
-The Balrog
-Messenger of Mordor
-Cracks of Doom
-News Must Get Through
-Favor of the Valar
-News of the Shire
-Gollum's Fate
-Old Road
-Hour of Need
-The Windlord Found Me
-Kill All But Not the Halflings
-Wizard Uncloaked
-The Lidless Eye
-Use Your Legs
-The Sun Unveiled
-Glamour of Surpassing Excellance
-Starting Stage Cards
+ - One of each unique card (including cards with the same name)
+ - Three of each non-unique stage resource card
+ - Two of each non-unique character card
+ - Two of each non-unique hero resource card
+ - Two of each non-unique minion resource card
+ - You may not include stage resource cards that are "specific" to another Fallen-wizard (e.g., if you declare that you are Alatar, you may not include "Gandalf specific." cards).
+ - You may not include any of the following cards:
+ 
+| The Balrog | Messenger of Mordor |
+| Cracks of Doom | News Must Get Through |
+| Favor of the Valar | News of the Shire |
+| Gollum's Fate | Old Road |
+| Hour of Need | The Windlord Found Me |
+| Kill All But Not the Halflings | Wizard Uncloaked |
+| The Lidless Eye | Use Your Legs |
+| The Sun Unveiled | GLamour of Surpassing Excellance |
+
+#### Starting Stage Cards
+
 You must attempt to start with one, two, or three (your choice) stage resource permanent-event cards in play. These cards must have a combined total of 3 stage points. At least one of these cards must be non-unique. You may not start such a card if the conditions required to play the card do not exist. These cards should be revealed as if they were starting characters with duplicate unique cards being discarded.
 
-Starting Characters
-Your starting characters (up to 5) may include hero characters and minion characters, but you may not start a character with a mind greater than 5. However, you may not start Orc and Troll characters unless you start with an appropriate stage resource card (e.g., Bad Company).
+#### Starting Characters
 
-Starting Site
-Your starting company may begin play at The White Towers or at any Ruins & Lairs site in Rhudaur or Arthedain. If you start at a Ruins & Lairs site, one of your starting stage resource cards may be a Hidden Haven played on your starting site.
+Your starting characters (up to 5) may include hero characters and minion characters, but you may not start a character with a mind greater than 5. However, you may not start Orc and Troll characters unless you start with an appropriate stage resource card (e.g., _Bad Company_).
 
-The Player Turn
+#### Starting Site
+
+Your starting company may begin play at The White Towers **or** at any Ruins & Lairs site in Rhudaur or Arthedain. If you start at a Ruins & Lairs site, one of your starting stage resource cards may be a _Hidden Haven_ played on your starting site.
+
+### THE PLAYER TURN
 The Player turn proceeds normally with the following exceptions:
 
 You may discard one of your stage resource cards already in play during your organization phase. You may not discard such a card if it would reduce your stage points below 3.
@@ -237,3 +237,7 @@ The sideboard size is increased to:
 40 cards for the 4-deck game.
 Revealing Your Wizard
 In the general opponent format, you must reveal the identity of your Fallen-wizard before the game begins.
+
+---
+
+[^white-hand]: The rule describing the white hand symbol was omitted from the rules included in the _MEWH_ booster packs. This rule was included in _The White Hand_ rules published on ICE's website.
