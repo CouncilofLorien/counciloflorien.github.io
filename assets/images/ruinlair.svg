@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1.7836473mm"
-   height="2.9419522mm"
-   viewBox="0 0 1.7836473 2.9419522"
+   width="2.3187416mm"
+   height="3.824538mm"
+   viewBox="0 0 2.3187416 3.824538"
    version="1.1"
    id="svg5305"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="ruinlair.svg">
+   sodipodi:docname="ruinlair-2.svg">
   <defs
      id="defs5299" />
   <sodipodi:namedview
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.678384"
-     inkscape:cx="-10.667551"
-     inkscape:cy="12.611762"
+     inkscape:cx="-15.212205"
+     inkscape:cy="14.27973"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -52,11 +52,11 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-165.09656,-126.34247)">
+     transform="translate(-164.82902,-125.9012)">
     <g
        style="fill:#000000;fill-opacity:1"
        id="g6860-9-9"
-       transform="matrix(1.7189085,0,0,1.7189085,62.865613,-686.36151)"
+       transform="matrix(2.2345811,0,0,2.2345811,31.928781,-930.614)"
        inkscape:export-xdpi="1200.02"
        inkscape:export-ydpi="1200.02">
       <g
