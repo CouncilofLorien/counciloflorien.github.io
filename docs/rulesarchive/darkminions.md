@@ -35,19 +35,19 @@ This insert provides expansion rules and clarifications for use with all _Middle
 {: .note-dk }
 > **Note:** For a copy of these rules in larger type with more examples send a request and a self-addressed, stamped envelope to ICE, P.O. Box 1605, Charlottesville, VA, 22903. Alternatively, visit our home page on the WWW (http://www.ironcrown.com).
 
-### Minion Cards (_Clarification_)
+#### Minion Cards (_Clarification_)
 
 _MEDM_ includes _minion cards_—a new type of card with a new type of template—the background is iron with a "rusted" purple tint. In _MEDM_, minions are used as hazards called _agents_. An agent is a hazard that represents an individual that has been sent on a covert mission by the Dark-lord or one of his Dark Lieutenants. However, not all agents are minions. The two agents on the normal hazard template are "non-Minion agents:" _My Precious_ and _Lobelia Sackville Baggins_.
 
 The concept of minions used in a non-agent fashion will be introduced in _Middle-earth: The Lidless Eye_ (a stand-alone expansion due out in the Spring of 1997). In _The Lidless Eye_, minions will be used like characters, but each minion will be under the influence of one of Sauron's Dark Lieutenants.
 
-### Permanent-events (_Clarification_)
+#### Permanent-events (_Clarification_)
 
 If one of your companies splits into two or more companies, you may place any resource permanent-events that were on the original company (as a whole) with any of the resulting companies. Some events of this type must be discarded (as specified) when a company splits (e.g., _Fellowship_).
 
 You may not make an influence attempt on an item with a permanent event on it.
 
-### Placement of cards "off to the side" (_Clarification_)
+#### Placement of cards "off to the side" (_Clarification_)
 
 Certain cards and effects require other cards be placed "off to the side" (for example, _Sacrifice of Form_ from _Middle-earth: The Wizards_). Cards placed off to the side are placed on the playing surface off to the side of the normal area of play. Such cards are kept with their host permanent-event that caused this effect. Any card placed off to the side absolutely cannot be targeted or otherwise affected by the game exceot bv cards that specifically affect cards placed "off to the side." 
 
@@ -55,7 +55,7 @@ Cards placed off to the side are in play for the purposes of uniqueness. Unless 
 
 Usually the host card will state some mechanic that affects the cards placed off to the side with it. Unless stated otherwise on its host card, a card placed off to the side will give its marshalling points to its owner. However, the cards typical with _Middle-earth: Dark Minions_ are "taking prisoners" cards, and characters taken prisoner yield negative marshalling points.
 
-## THE UNDER-DEEPS
+### THE UNDER-DEEPS
 
 {: .note-dk }
 > **Note:** Created by streams of molten rock and expanded by geothermal eruptions of super-hot gas, the Under-deeps are a result of a combination of natural and supenatural forces. The hand of Morgoth joined what was once a collection of countless, sundered cavern complexes. His greater servants used this maze of tunnels and chambers to travel surreptitiously throughout Endor.
@@ -75,7 +75,7 @@ An Under-deeps site card has "Under-deeps" in the section that normally gives a 
 {: .note-dk }
 > **Example:** Legolas taps and plays _Glamdring_ (a major item) at The Under-grottos and the site taps. At this point, Gimli could only tap to play a minor item at a non-Under-deeps site. But The Under-grottos is an Under-deeps site, so Gimli can tap to play anything playable at The Under-grottos: a minor item, a major item, or a gold ring. He taps and plays a _Precious Gold-ring_.
 
-### Under-deep Site Movement
+#### Under-deep Site Movement
 
 One of your companies that begins its turn at the surface site of an Under-deeps site can move normally _or_ it can move to its adjacent Under-deeps site (i.e., the company moves to an Under-deeps site from its surface site). One of your companies that begins its turn at an Underdeeps site may only move to one of the adjacent sites listed on the Under-deeps site card. 
 
@@ -86,7 +86,7 @@ Each adjacent site is followed by a number in parentheses—this number indicate
 > 
 > **Example:** A company that starts at Carn Dum can move normally or it can move to The Iron-deeps—The Iron-deeps lists Carn Dum as an adjacent site. Similarly, a company that starts at The Iron-deeps may attempt to move to any adjacent site listed: Carn Dum (0), The Under-leas (6), or The Under-vaults (7). However, after committing to movement, the moving player must roll a 6 or better to successfully move to The Under-leas or a 7 or better to successfully move to The Under-vaults.
 
-## MANIFESTATIONS
+### MANIFESTATIONS
 
 Certain entities (e.g., the Balrog, Gollum, Lobelia, etc.) have several different _manifestations_, each represented by a different _MECCG_ card.
  - If one manifestation of such an entity is already in play, you may _not_ play another manifestation of the same entity.
@@ -100,7 +100,7 @@ Certain entities (e.g., the Balrog, Gollum, Lobelia, etc.) have several differen
 > **Example:** _Gollum_ (the ally manifestation of Gollum) is in play with one of your characters. So, neither you nor your opponent can play _My Precious_ (the agent manifestation of Gollum) until _Gollum_ is discarded. If your _Gollum_ is eliminated, _My Precious_ and your opponent's _Gollum_ (if any) may never be
 played.
 
-## TAKING PRISONERS
+### TAKING PRISONERS
 
 Certain hazard permanent-events cause a character to be taken prisoner—these are called hazard hosts. A character taken prisoner immediately leaves his original company and is placed under its hazard host
 "off to the side." Additionally, the player playing the hazard host must take a site card from his location deck and place it with the hazard host—this is called the rescue site. Playing a rescue site is governed by the following rules.
@@ -116,7 +116,7 @@ When taken prisoner, a character cannot take any actions (including healing or u
 
 While a prisoner, a character yields negative character marshalling points equal to the marshalling points he normally would give. If eliminated while imprisoned, the character yields these negative character marshalling points permanently (place the character's card in your marshalling point pile).
 
-### Rescue and the Rescue-attack
+#### Rescue and the Rescue-attack
 
 Hazard hosts that cause a character to be taken prisoner require a company controlled by the player of the imprisoned character to rescue the character in order to return him to a nonnal status of play. Alternatively, if the hazard host is discarded by a non-rescue mechanism (e.g., by _Marvels Told_), the character forms his own company at the rescue site. At any point outside of the initial attack or conditions by which a hazard host is played, the hazard host is discarded if there are no imprisoned characters are under it. Whenever, the hazard host is discarded, the rescue site always returns to the location deck.
 
@@ -125,7 +125,7 @@ To rescue a character, the company must be at the rescue site during the site ph
 {: .note-dk }
 > **Note:** If he has one available, a player must use a site from his own location deck to rescue imprisoned characters. If he does not have the site or if the site is in his discard pile, the copy with the hazard host can be used to show the rescuing company's movement (if the rescue attempt is successful, the site would remain in play until the company leaves the site). In this case the site is not available for the rescuing player to use for any purpose (other than to rescue prisoners and play one minor item) until the company leaves the site and his play deck is exhausted.
 
-## AGENTS
+### AGENTS
 
 An agent has the same attributes as a character: race, skills, direct influence, prowess, body, mind, marshalling points, and special abilities. During play, each agent must be in one of the following states: face-down and untapped, face-down and tapped, face-up and untapped, face-up and tapped, or face-up and wounded.
 
@@ -138,14 +138,14 @@ An agent is always located at a site. Once an agent has been revealed _or_ has m
 
 Each agent is unique—all normal rules apply. If a specific agent is in play face-up and a second, identical agent is turned face-up (i.e., it is revealed), the second agent is immediately discarded.
 
-### Untapping an Agent
+#### Untapping an Agent
 
 Each of your agents untaps during your untap phase.
 
-### Playing an Agent
+#### Playing an Agent
 To play an agent, place it face-down (and untapped). The agent is assumed to be at any one of its home sites (no site card is required).
 
-### Agent Actions
+#### Agent Actions
 
 Each of your agents who was already in play at the beginning of your opponent's turn may take one and only one of the following actions each turn.
 
@@ -160,7 +160,7 @@ Performing any one of these actions with an agent counts as one against the haza
 {: .note-dk }
 > **Note:** Certain cards allow an agent to take more than one action during a given turn.
 
-### Moving an Agent (_Agent Action_)
+#### Moving an Agent (_Agent Action_)
 
 When one of your agents moves, tap it and place its new site card on top of the agent and any other site cards already on the agent (face-up if the agent is face-up, face-down if the agent is face-down). If the agent is face-up, return to your location deck all site cards other than the new site card. Thus, the top site card on an agent indicates its current site.
 
@@ -169,7 +169,7 @@ Alternatively, you may remove the top site card on a face-down agent (i.e., it m
 {: .note-dk }
 > **Note:** If Starter Rules are being used _and/or_ you are not using region movement, agents may not move.
 
-**Revealing an Agent**
+#### Revealing an Agent
 
 You may turn any of your face-down agents face-up (i.e., reveal them) at any time during your opponent's movement/hazard phase. This doesn't count as an agent action as outlined above **and** it doesn't count
 against the hazard limit. Alternatively, you must reveal an agent when it attacks, when it makes an influence attempt, or when certain cards are played.
@@ -185,7 +185,7 @@ If one of your agent's series of sites indicating its travel is illegal, the age
 
 When one of your agents and its site cards are revealed, all site cards other than the agent's current site card are returned to your location deck (after verifying that the path of movement was legal).
 
-### Playing Creatures at an Agent's Site (_Agent Action_)
+#### Playing Creatures at an Agent's Site (_Agent Action_)
 
 If one of your agents and one of your opponent's companies are both at the same Ruins & Lairs (![](/assets/images/ruinlair.svg)), Shadow-hold(![](/assets/images/shadow-hold.svg)), or Dark-hold (![](/assets/images/dark-hold.svg)), you may tap the agent and then attack that company with any non-unique hazard creatures (regardless of what they are keyed to) of the same creature type as the site's automatic-attack.
 
@@ -199,7 +199,7 @@ If one of your agents and one of your opponent's companies are both at the agent
 
 In either case, if a creature is played in this manner, the agent is revealed (if it was not already revealed).
 
-### Attacking With an Agent
+#### Attacking With an Agent
 
 During your opponent's site phase, each of your agents may attack a company if the following conditions are met:
 
@@ -211,7 +211,7 @@ This attack is declared and enacted at the start of the site phase immediately f
 {: .note-dk }
 > **Note:** Certain cards (e.g., _Cunning Foes_, _To Get You Away_, etc.) allow an agent at a company's new site to attack a company during the movement/hazard phase.
 
-### Resolving Combat With an Agent
+#### Resolving Combat With an Agent
 
 When one of your agents attacks it is considered to be the _attacker_ and it has one strike unless modified. Combat with an agent is handled like any other combat with the following exceptions:
 
@@ -239,13 +239,13 @@ When one of your agents attacks it is considered to be the _attacker_ and it has
 > 
 > Gisulf's prowess for this attack is 7 (5 normal, +2 because he was face-down when the attack was declared). Elladan is untapped and is in the target company. so your opponent chooses him to take the attack. Elladan's prowess is 5 (his normal prowess of 5 because he decides to tap). You (Gisulf) roll an eight for a total of 15, while your opponent rolls a six for a total of 11—Elladan is wounded.
 
-### Marshalling Points from Agents
+#### Marshalling Points from Agents
 
 Only your opponent can receive marshalling points by defeating an agent that you played. If you defeat an agent that you played, it is removed from the game and no one receives its marshalling points.
 
 Marshalling points from defeating an agent count as kill points **not** as character points.
 
-### Influencing With an Agent
+#### Influencing With an Agent
 
 During your opponent's movement/hazard phase, certain cards and special abilities allow your agents to auempt to influence allies, factions, followers, and characters. After an influence attempt, the agent
 remains face-up and in play.
@@ -261,6 +261,6 @@ To attempt to influence in this manner, your agenl must make an influence check 
  - If the target _ally_ is playable at the agent's home site, treat the ally's mind attribute as zero _and_ your agent's roll is modified by +2.
  - If the target _faction_ is playable at the agent's home site, treat the number required to bring the faction into play as zero _and_ your agent's roll is modified by +2.
 
-## CREATURES AS AUTOMATIC-ATTACKS
+### CREATURES AS AUTOMATIC-ATTACKS
 
 Any hazard creature you play as an automatic-attack is discarded if defeated—it is not placed in your opponent's marshalling point pile.
