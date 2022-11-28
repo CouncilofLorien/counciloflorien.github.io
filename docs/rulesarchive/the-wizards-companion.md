@@ -23,7 +23,7 @@ search_exclude: true
   {: .text-gamma }
   
 {: .counsel }
-> ICE issued errata to the Unlimited version of <em>The Wizards</em> rules. The errata are included in these rules with markings to show the changes. However, later changes in rules and wording are <b>not</b> included in these archived rules. The <em>Emended MECCG Rules</em> include and explain such changes.<br><br>These rules do include emendations correcting minor typographical and clerical errors in the original text. For instance, there are corrections of dropped characters (e.g., a closing missing closing parenthesis), word spacing (e.g., "FreeCouncil," a missing indentation in a table, etc.), and inconsistent emphasis (e.g., a single instance of non-Haven not emphasized in a paragraph having <em>Haven</em> and <em>non-Haven</em> emphasized). Such corrections are <b>not</b> annotated. 
+> Only PART V ERRATA AND CLARIFICATIONS is provided. 
 </details>
 ---
 
@@ -51,11 +51,11 @@ _Call of the Sea_ (clarification)—Besides the one item automatically transferr
 
 _Corpse-candle_ (clarification)—If this attack is cancelled, the company does not have to make corruption checks.
 
-_Corsairs of Umbar_ (errata)—
+_Corsairs of Umbar_ (errata)—May also be palyed at any site in Elven Shores, Eriadoran Coast, Andrast Coast, Bay of Belfalas, of Mounts of the Anduin.
 
-_Cracks of Doom_ (errata)—
+_Cracks of Doom_ (errata)—Remove "Otherwise, discard _The One Ring_ and its bearer."
 
-_Dodge_ (errata)—
+_Dodge_ (errata)—Replace "…his body check is modified by -1." with "…his body is modified by -1 for the resulting body check."
 
 _Doors of Night_ (clarification)—
 
@@ -118,35 +118,65 @@ _Morgul-knife_ (clarification)—
 _Morgul Night_ (clarification)—
 
 _Mouth of Sauron_ (clarification)—
+
 _Neeker-breekers_ (clarification)—
+
 _Old Man Willow_ (clarification)—
+
 _Palantir of Amon Sul_ (clarification)—
+
 _Palantir of Osgiliath_ (clarification)—
+
 _The Pale Sword_ (clarification)—
+
 _Praise to Elbereth_ (clarification)—
+
 _The Precious_ (clarification)—
+
 _Pukel-men_ (clarification)—
+
 _Quiet Lands_ (clarification)—
+
 _Ren the Unclean_ (clarification)—
+
 _Ringlore_ (clarification)—
+
 _River_ (clarification)—
+
 _Roac the Raven_ (errata)—
+
 _Secret Entrance_ (clarification)—
+
 _Seige_ (clarification)—
+
 _Silent Watcher_ (clarification)—
+
 _Slayer_ (errata)—
+
 _Slayer_ (clarification)—
+
 _Shadowfax_ (clarification)—
+
 _Thorin II_ (clarification)—
+
 _Tom Bombadil_ (clarification)—
+
 _Traitor_ (errata)—
+
 _Twilight_ (errata)—
+
 _Twilight_ (clarification)—
+
 _Use Palantir_ (clarification)—
+
 _Watcher in the Water_ (clarification)—
+
 _The White Tree_ (clarification)—
+
 _Wizard's Laughter_ (errata)—
+
 _Wizard's Ring_ (errata)—
+
 _Wolves_ (errata)—
 
 ## RULES ANNOTATIONS
