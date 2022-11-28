@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="3.1952214mm"
-   height="2.767143mm"
-   viewBox="0 0 3.1952214 2.767143"
+   width="4.7928324mm"
+   height="4.1507144mm"
+   viewBox="0 0 4.7928323 4.1507144"
    version="1.1"
    id="svg5305"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="allymp.svg">
+   sodipodi:docname="allymp-2.svg">
   <defs
      id="defs5299" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="31.678384"
-     inkscape:cx="4.8752743"
-     inkscape:cy="7.0397673"
+     inkscape:zoom="15.839192"
+     inkscape:cx="1.7874164"
+     inkscape:cy="11.627433"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -52,7 +52,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-163.7571,-124.19946)">
+     transform="translate(-162.9583,-123.50767)">
     <path
        sodipodi:type="star"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#101010;stroke-width:1.63184309;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
@@ -69,6 +69,6 @@
        inkscape:randomized="0"
        d="m 135.34735,54.998426 -15.52751,-26.894436 31.05502,-1e-6 z"
        inkscape:transform-center-y="-0.44112331"
-       transform="matrix(0.04920534,0.08522615,-0.08522615,0.04920534,161.85413,112.64496)" />
+       transform="matrix(0.07380801,0.12783922,-0.12783923,0.07380801,160.10384,106.17592)" />
   </g>
 </svg>
