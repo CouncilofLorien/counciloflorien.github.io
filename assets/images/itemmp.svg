@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="2.6918635mm"
-   height="2.123745mm"
-   viewBox="0 0 2.6918635 2.123745"
+   width="4.0377955mm"
+   height="3.1856177mm"
+   viewBox="0 0 4.0377955 3.1856177"
    version="1.1"
    id="svg5305"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="itemmp.svg">
+   sodipodi:docname="itemmp-2.svg">
   <defs
      id="defs5299" />
   <sodipodi:namedview
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.678384"
-     inkscape:cx="5.8042439"
-     inkscape:cy="5.4547574"
+     inkscape:cx="2.7919303"
+     inkscape:cy="7.4614698"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -52,13 +52,13 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-163.51132,-124.42349)">
+     transform="translate(-162.83835,-123.89256)">
     <rect
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#101010;stroke-width:0.16062792;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#101010;stroke-width:0.24094188;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect2283-4-4"
-       width="2.5312357"
-       height="1.9631171"
-       x="163.59163"
-       y="124.50381" />
+       width="3.7968535"
+       height="2.9446757"
+       x="162.95882"
+       y="124.01303" />
   </g>
 </svg>
