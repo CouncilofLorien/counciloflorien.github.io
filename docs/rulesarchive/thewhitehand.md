@@ -7,9 +7,60 @@ permalink: /rules-archive/the-white-hand
 search_exclude: true
 ---
 
-***Make sure to add the intro here***
+# Middle-earth: The White Hand
 
-Using MEWH
+{: .text-center}
+**_Not for the Free Peoples, not for the Dark Lord&mdash;For Youurself!!!_**
+
+_Middle-earth: The White Hand_ is an expansion set of 122 cards for the _Middle-earth Collectible Card Game_. It is fully compatible with both _Middle-earth: The Wizards_ and _Middle-earth: The Lidless Eye_. In fact, this set focuses on a "Fallen-wizard" player using resources from both _The Wizards_ and _The Lidless Eye_.
+
+This insert provides expansion rules and clarifications for use with all _Middle-earth Collectible Card Game_ products.
+
+### INTRODUCTION
+
+During the Third Age, the Valar sent five Maiar to Middle-earth to help the Free Peoples resist Sauron. However, they were forbidden to dominate the peoples of Middle-earth or to match the power of Sauron with power. They were known as the five "Wizards:" Alatar, Gandalf, Pallando, Radagast, and Saruman.
+
+In _The Lord of the Rings_, Gandalf was the only Wizard to remain
+true to his mission. Saruman was corrupted by power, Radagast "went
+native," and Alatar and Pallando disappeared into the East to pursue
+their own goals.
+Middle-earth: The White Hand allows you to play one of these
+"Fallen-wizards." As a Fallen-wizard, you can pick and choose the
+good and evil resources you will try to utilize-you will use any
+means to achieve your ends. However, you can only exert your influence
+and control over the weaker heroes and minions-the more
+powerful characters can sense your greed and weaknesses.
+Each Fallen-wizards is driven by a different obsession reflected in
+his abilities and goals:
+The fallen Pallando (Master of Doom) is the master of peoples and
+fate. He rules and dominates peoples. He is obsessed with building
+his own empire and defeating Sauron by force of arms.
+
+The fallen Alatar (Lord of the Hunt) is the master of animate nature-
+he is a hunter. He likes to do things personally. He is more
+likely to dominate individuals rather than peoples. He is obsessed
+with defeating Sauron by turning Middle-earth into a well-ordered
+game-preserve.
+The fallen Gandalf (the Careworn) is the friend of peoples, fate,
+and Middle-earth. He manipulates peoples and their rulers rather
+than dominate them-he is not an empire builder. He has lost hope
+of defeating Sauron. He just wants to delay the Dark Lord's final
+victory as long as possible, and to save as many of the Free Peoples
+as possible.
+The fallen Radagast (of the Greenwood) is the friend of animate
+nature. He looks at Middle-earth as a big garden with people as the
+gardeners. He persuades but doesn't dominate. He plans to help
+nature protect itself from the Dark Lord.
+The fallen Saruman (of Many Colours) is the master of inanimate
+nature. He gathers knowledge and makes inanimate objects. He is
+obsessed with using his own personal power, items, and abilities
+to contest Sauron.
+
+{: .note-dk }
+> **Note:** In terms of _ME: The Wizards_, a Wizard that has failed a corruption check by 1 of 2 has become a **Fallen-wizard** (the Wizards in _MEWH_ are all Fallen-wizards).
+
+### USING MEWH
+
 When you play a Fallen-wizard, assume that your Fallen-wizard is a METW "Wizard." All of the normal METW rules apply except for the specific exceptions outlined in these rules. The MELE rules that concern Wizards also apply to Fallen-wizards.
 
 You should read the following section to get a general idea of how to play a Fallen-wizard. Then read the rest of the rules for more specific details.
