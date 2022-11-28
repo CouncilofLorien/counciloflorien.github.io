@@ -2,7 +2,7 @@
 layout: default
 title: The Wizards Companion
 parent: Rules Archive
-nav_order: 2
+nav_order: 3
 permalink: /rules-archive/the-wizards-companion
 search_exclude: true
 ---
