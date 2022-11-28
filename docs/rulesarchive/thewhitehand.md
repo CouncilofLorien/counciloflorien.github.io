@@ -156,7 +156,7 @@ All of your non-Orc and non-Troll characters are considered to be hero character
  - You may not start or bring into play any character with a mind greater than 5.
 
 {: .note-dk }
-> Note: See the section on Orcs and Trolls for more details.
+> **Note:** See the section on Orcs and Trolls for more details.
 
 ## MOVEMENT
 
