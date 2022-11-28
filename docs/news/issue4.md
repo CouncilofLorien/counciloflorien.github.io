@@ -152,8 +152,7 @@ The tie-breaking policy requires that tournament coordinators keep a running rec
     - three-deck game—2 hours
     - campaign game—3 hours
     - sealed deck game—50 minutes*
-    - resource/character scenario game-1 hour*
-* See the descriptions of the different games below for further information.
+    - resource/character scenario game—1 hour*<br>* See the descriptions of the different games below for further information.
 
 - A tournament coordinator will have an official time keeping device. He or she should announce the time approximately 10 or 15 minutes before final time will be called. When the time limit is reached according to the official time keeping device, play of each game continues until: the player who went second in the game finishes a turn (i.e., until both players have played the same number of turns); or until the End-of-Game is called normally according to the rules. After the player who went second finishes his or her turn, the End-of-Game begins automatically, regardless of marshalling point totals.
 - _Marshalling Point Ratios_—If, at the Free Council after the final marshalling point (MP) totals have been tallied (including all standard rules interpretations), one player has more MPs than the opponent, that player wins. The winner receives either 4, 5, or 6 tournament points depending upon the ratio of his MP total to the opponent's (see above). The loser receives 2, 1, or 0 points respectively. To determine a winner's MP ratio, divide the winner's total MPs by the loser's MPs. A loser with zero MPs automatically gives the winner 6 points.
