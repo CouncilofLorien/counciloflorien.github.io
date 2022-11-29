@@ -38,7 +38,7 @@ Also note two points of errata to the rules insert from _Middle-earth: Dark Mini
 
 _Alatar_ (clarification)—Alatar can use his "teleport" ability if he is wounded, tapped, or untapped. Alatar always faces a strike when he teleports, regardless of his wounded or tapped status. Alatar must teleport (and declare he is facing a strike) before any other strikes are assigned.
 
-_Alatar_ (errata)—Change "…; he must tap and make a corruption check immediately following the attack." to "…; he must make a corruption check immediately following teh attack, and, if untapped, he must tap."
+_Alatar_ (errata)—Change "…; he must tap and make a corruption check immediately following the attack." to "…; he must make a corruption check immediately following the attack, and, if untapped, he must tap."
 
 _Align Palantir_ (errata)—Add "May not be duplicated on a given Palantir."
 
