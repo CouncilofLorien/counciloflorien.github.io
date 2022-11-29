@@ -2,7 +2,7 @@
 layout: default
 title: The Lidless Eye
 parent: Rules Archive
-nav_order: 5
+nav_order: 8
 permalink: /rules-archive/the-lidless-eye
 search_exclude: true
 ---
@@ -16,8 +16,7 @@ search_exclude: true
 {:toc}
 </details>
 
-{: .fs-7 .fw-700 .text-center }
-MIDDLE-EARTH: THE LIDLESS EYE
+# MIDDLE-EARTH: THE LIDLESS EYE
 
 # INTRODUCTION
 
