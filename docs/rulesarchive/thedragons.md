@@ -2,7 +2,7 @@
 layout: default
 title: The Dragons
 parent: Rules Archive
-nav_order: 3
+nav_order: 4
 permalink: /rules-archive/the-dragons
 search_exclude: true
 ---
