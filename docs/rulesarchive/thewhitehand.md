@@ -66,7 +66,7 @@ When you play a Fallen-wizard, assume that your Fallen-wizard is an _METW_ "Wiza
 
 You should read the following section to get a general idea of how to play a Fallen-wizard. Then read the rest of the rules for more specific details.
 
-**Wizards** &mdash; When the rules and cards refer to a Wizard, they apply to your Fallen-wizard. The White hand symbol on a Fallen-wizard's card is that Fallen-wizard's general influence when that card is in active play[^white-hand].
+**Wizards** &mdash; When the rules and cards refer to a Wizard, they apply to your Fallen-wizard.
 
 **Wizardhavens** &mdash; When the rules and non-site cards refer to Havens and Darkhavens, they apply instead to your Wizardhavens. The special effects of _METW_ Havens (i.e., healing, bringing characters into play, etc.) do apply to your companies at your Wizardhavens. These same effects do **not** apply to your companies at _MELE_ Darkhavens and _METW_ Havens.
 
@@ -274,5 +274,3 @@ The sideboard size is increased to:
 In the general opponent format, you must reveal the identity of your Fallen-wizard before the game begins.
 
 ---
-
-[^white-hand]: The rule describing the white hand symbol was omitted from the rules included in the _MEWH_ booster packs. This rule was included in _The White Hand_ rules published on ICE's website.
