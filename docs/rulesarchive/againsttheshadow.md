@@ -2,7 +2,7 @@
 layout: default
 title: Against The Shadow
 parent: Rules Archive
-nav_order: 6
+nav_order: 10
 permalink: /rules-archive/against-the-shadow
 search_exclude: true
 ---
