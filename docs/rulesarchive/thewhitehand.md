@@ -2,7 +2,7 @@
 layout: default
 title: The White Hand
 parent: Rules Archive
-nav_order: 7
+nav_order: 11
 permalink: /rules-archive/the-white-hand
 search_exclude: true
 ---
