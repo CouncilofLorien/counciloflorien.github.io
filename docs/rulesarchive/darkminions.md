@@ -2,7 +2,7 @@
 layout: default
 title: Dark Minions
 parent: Rules Archive
-nav_order: 4
+nav_order: 6
 permalink: /rules-archive/dark-minions
 search_exclude: true
 ---
