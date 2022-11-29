@@ -58,7 +58,7 @@ _Dragon's Desolation_ (clarification)—Playing _Dragon's Desolation_ to make a 
 
 _Dragon's Hunger_ (errata)—Replace "Otherwise, the attack is cancelled." with "Otherwise, the attack is cancelled and the opponent must reveal his hand."
 
-Dwarven Rings (all) (clarification)—Give +2 (+7) to direct influence.
+_Dwarven Rings_ (all) (clarification)—Give +2 (+7) to direct influence.
 
 _Elven Cloak_ (clarification)—Can cancel a strike keyed to double (or multiple) Wilderness.
 
