@@ -52,7 +52,7 @@ _Burglary_ (clarification)—If you fail the roll for the Burglary, you cannot t
 
 _Cruel Caradhras_ (errata)—Replace "Minas Morgul" with "Imlad Morgul."
 
-_Cruel Caradhras_ (clarification)—The attack does not apply to a company starting at a site in the affected regions.
+_Cruel Caradhras_ (clarification)—The attack does not apply to a company starting at a site in the affected regions.[^caradhras]
 
 _Dragon's Desolation_ (clarification)—Playing _Dragon's Desolation_ to make a Dragon playable at a Ruins & Lairs does not necessarily require you to play a Dragon later in the turn.
 
@@ -150,4 +150,5 @@ _The Windlord Found Me_ (clarification)—Can be used to recover a Wizard discar
 
 ---
 
+[^caradhras]: This ruling was later reversed. It can be played on a company starting in one of the regions. The _Challenge Deck_ printing reflects the later ruling.
 [^council]: This was a mistake and the clarification to Magical Harp was later changed from "Council of Lorien" to the "Free Council."
