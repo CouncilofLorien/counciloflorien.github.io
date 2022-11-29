@@ -2,7 +2,7 @@
 layout: default
 title: The Dragons Player Guide
 parent: Rules Archive
-nav_order: 3
+nav_order: 5
 permalink: /rules-archive/the-dragons-player-guide
 search_exclude: true
 ---
