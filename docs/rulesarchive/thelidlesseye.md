@@ -130,7 +130,8 @@ Marshalling  points are printed on the top left corner of the cards that award t
 > **Note:** You may find it useful to use pencil and paper or extra dice to keep a running total of marshalling points.
 > 
 > **Clarification:** If both players have the same number of marshalling points at the Audience with Sauron, the game ends in a tie.
-> 
+
+{: .note }
 > **Example:** Our two players are Wendy and Nick. Wendy has 20 marshalling points and Nick only had 18. During her turn, Wendy plays a _Sudden Call_ card—Sauron calls the audience. Each player has one company in Carn Dum (CP = Corruption Points. MP = Marshalling Points):
 >
 > | Wendy Controls: | CPs | MPs |
@@ -169,28 +170,31 @@ Marshalling  points are printed on the top left corner of the cards that award t
 
 ## 2 • THE CARDS AND DECKS
 
-There are four types of cards: site cards, character cards (including Wizard cards), resource cards, hazard cards, and region cards (this last type is not used with the Starter Rules).
+There are four types of cards: site cards, character cards (including Ringwraith cards), resource cards, hazard cards.
 
 {: .note }
 > **Note:** Color diagrams of the various types of cards can be found in the color insert. The card types can be distinguished as follows:
 > 
-> _Site cards_ have a white parchment background on the front.
+> _Site cards_ have a grey parchment background on the front.
 > 
-> _Character cards_ (non-Wizard) have a blue stone background on the front. Each Wizard card has a differently colored stone background. 
+> _Character cards_ (non-Ringwraith) have a rusted-purplish iron background on the front. Each Ringwraith card has a blood-red stone background. 
 > 
-> _Resource cards_ have a copper metal background on the front.
+> _Resource cards_ have a grey-blue steel background on the front.
 > 
-> _Hazard cards_ have a steel gray metal background on the front.
+> _Hazard cards_ have a steel grey metal background on the front.
 > 
-> _Site cards_ (i.e., location cards) have an unlabeled map of northwestern Middle-earth on the back.
+> _Site cards_ (i.e., location cards) have a map of Middle-earth on the back.
 > 
 > _Character_, _resource_, and _hazard cards_ have the burning eye on the back.
 > 
+> **Note:** _MELE_ doesn't include region cards. If you have _METW_ region cards, you can use region movement as outlined on page 78.
+> 
 > **Clarification:** For emphasis, a value used during play is often provided both in a card’s text and in another place on the same card. For example, a character’s corruption check modification is stated both in the text and the lower right corner of the character’s card.
 > 
-> **Note:** Each starter deck has a small pack of cards called a fixed set. There are 5 fixed sets in all. One appears randomly in each starter deck. The top facing card of all fixed sets is Gates of Morning.
+> **Note:** Each starter deck has a small pack of cards called a fixed set. There are 5 fixed sets in all. One appears randomly in each starter deck. The top facing card of all fixed sets is a Ringwraith and is different for each fixed set and can be seen through the window of the starter deck box.
 > 
 > A fixed set is included in each starter deck to make a starter deck playable without any other cards.
+
 {: .text-center }
 ![](/assets/images/cardsanddecks.svg)
 
@@ -198,33 +202,43 @@ During play, your cards are organized into 2 decks and 3 piles:
 
 _Location Deck_ — This deck consists of your site cards. You may examine and select cards from your location deck as required by play (i.e., do not randomly draw them). After being played, your non-Haven site cards are sometimes discarded and placed in the discard pile (i.e., when one of your companies leaves a tapped site, it is discarded).
 
-_Play Deck_ — This deck consists of your resource cards, hazards cards, and character cards. You randomly draw cards from this deck during play. Your play deck starts with an equal number of resource cards and hazard cards.
+{: .note }
+> **Note:** Site cards and regions represent the geography of Middle-earth. They are used to control the acquisition of resources. Each turn, examine the resources in your hand and select a nearby site to travel to. Do not worry too much about which site to use, just pick one that has the resource type you want to play. It also helps if you preselect the location cards you are most likely to use. See the color insert for a map of Middle-earth.
 
-You can use resources at certain sites and under certain conditions. Resources include: items, factions, allies, events, etc. _You may only play resource cards during your own turn_. You use hazards to hinder and attack your opponent’s characters in order to prevent them from marshalling resources. _You may only play hazard cards during your opponent’s movement/hazard phase_.
+_Play Deck_ — This deck consists of your resource cards, hazards cards, and character cards. You randomly draw cards from this deck during play. Your play deck starts with an equal number of resource cards and hazard cards.<br>You can use resources at certain sites and under certain conditions. Resources include: items, factions, allies, events, etc. _You may only play resource cards during your own turn_. You use hazards to hinder and attack your opponent’s characters in order to prevent them from marshalling resources. _You may only play hazard cards during your opponent’s movement/hazard phase_.
 
 {: .note} 
-> **Clarification:** The card, Twilight, is an exception to this rule—it can be played at anytime, either as a resource or as a hazard (it does not count against the hazard limit). Certain other cards specifically state when they may be played.
+> **Clarification:** The card, _Twilight_, is an exception to this rule—it can be played at anytime, either as a resource or as a hazard (it does not count against the hazard limit). Certain other cards specifically state when they may be played.
+
 _Discard Pile_ — Your discarded cards are placed face down in your discard pile. When your play deck is _exhausted_, location cards in your discard pile are returned to your location deck. You shuffle the other cards in your discard pile and they become your new play deck.
 
 {: .note} 
 > **Clarification:** Your play deck is “exhausted” when you draw its last card. Some cards require that your play deck be manipulated and then reshuffled—this does **not** “exhaust” your play deck.
-_Out-of-play Pile_—Your cards that are removed from play after being used are placed in your out-of-play pile. 
 
-_Marshalling Point Pile_ (_MP pile_) — In addition to marshalling points from cards in play, you gain marshalling points when certain cards are removed from play. When you defeat all of the strikes from a creature, the creature’s card is placed in your MP pile. When you store certain resource cards (e.g., items, information cards, etc.), they are placed in your MP pile.
+_Out-of-play Pile_ — Your cards that are removed from play after being used are placed in your out-of-play pile. 
+
+_Marshalling Point Pile_ (_MP pile_) — In addition to marshalling points from active cards in play, you gain marshalling points when certain cards become inactive. When you store certain resource cards (e.g., items, information cards, etc.), they are placed in your MP pile. When you defeat all of the strikes from a creature that has its MPs marked with an "\*" in the upper-left corner of its card, the creature’s card is placed in your MP pile.
 
 {: .note }
-> **Note:** Because hazard cards are distinct from resource cards, you may not play your hazards on your side of the playing surface. _At the end of a game, it will be obvious whose cards are whose, i.e., hazards in your area must belong to your opponent_. We suggest adopting a neutral zone between each player’s side of the playing surface. Non-targeted long-events and permanent-events can be played in this neutral zone.
+> **Note:** When you defeat all of the strikes from a creature that does _not_ have an "\*" next to its MP value in the upper-left corner of its card, the creature's card is **not** placed in your MP pile, it is placed in your opponent's out-of-play pile. Unlike _METW_, you do not get MPs for defeating certain creatures—after all, many creatures are fighting the Free People too.
+>
+>  **Note:** Because hazard cards are distinct from resource cards, you may not play your hazards on your side of the playing surface. _At the end of a game, it will be obvious whose cards are whose, i.e., hazards in your area must belong to your opponent_. We suggest adopting a neutral zone between each player’s side of the playing surface. Non-targeted long-events and permanent-events can be played in this neutral zone.
 > 
 > **Note:** You may freely examine the contents of your discard pile; your opponent may not. The contents of your out-of-play and marshalling point piles may be freely examined by you and your opponent.
 > 
-> **Clarification:** If a character is eliminated due to combat or due to failing a corruption check by 2 or more, his card is placed in the out-of-play pile—that character may not be brought back into play by either player. If a creature is defeated, its card is placed in the defender’s marshalling point pile. If such a creature is unique, it may not be brought back into play by either player.
+> **Clarification:** If a character is eliminated due to combat or due to failing a corruption check, his card is placed in the out-of-play pile—that character may not be brought back into play by either player.<br>When a card is removed from play in all other cases, the card is discarded unless the card specifically states otherwise.
 > 
-> When a card is removed from play in all other cases, the card is discarded unless the card specifically states otherwise.
-> 
-> **Clarification:** Several types of cards are referred to by the key word included in the first few words of a card’s text. For example, the text of a “spell” card starts with _spell_; the text of a “Nazgul” card starts with _Unique. Nazgul_; the text of a “Palantír” starts with _Unique. Palantir_.
+> **Clarification:** In general, cards in your out-of-play pile and your marshalling point pile are considered to be actively in play for the purposes of being unique (if the card states it is unique).
+
+### KEYWORDS
+
+Several types of cards are referred to by the key word included in the first few words of a card’s text. For example, the text of a “spirit-magic” card starts with _Magic. Spirit-magic_; the text of a “wolf” card starts with _Wolves_; the text of a “Palantír” starts with _Unique. Palantir_.
+
+Keywords do not necessarily carry any rules (though some do like _Unique_ and _Corruption_). Keywords are used to determine if an effect in the game affects a card.
+
 ### CARD COMBINATIONS
 
-Often combinations of several cards and other actions are required to achieve a desired result. For example, to bring The One Ring into play requires: traveling to a site to play one of the Gold Ring cards, some sort of “Test” card or ability, The One Ring card, and a high die roll. In addition, the Wizard’s Test card and the Scroll of Isildur card will dramatically improve the chances of successfully getting The One Ring into play.
+Often combinations of several cards and other actions are required to achieve a desired result. For example, to bring _The One Ring_ into play requires: traveling to a site to play one of the Gold Ring cards, some sort of “Test” card or ability, _The One Ring_ card, and a high die roll. In addition, the _Scroll of Isildur_ card will improve the chances of successfully getting _The One Ring_ into play.
 
 ### TAPPING AND CARD POSITIONS
 
@@ -233,34 +247,37 @@ Normally, during play, each of your cards is placed on the playing surface so th
 When one of your characters is wounded, his card is placed with its top towards you (i.e., rotated 180˚ from an untapped position). All restrictions to tapped characters also apply to wounded characters. 
 
 {: .note }
-> **Clarification:** A tapped (or wounded) character can perform any action that does not require the character to tap.
+> **Note:** At any given time during play, each character in play must be in one of the three "states:" he must be either untapped, tapped, or wounded.
 > 
-> For example, a tapped (or wounded) character can move normally, he can fight with a penalty (if the attacker chooses him as the target of a strike), he can transfer items, etc. A tapped (or wounded) character may **not** tap to acquire an item, to influence a faction, to play a card requiring that he tap, etc. 
-> 
-> Items and characters tap independently.
+> **Clarification:** A tapped (or wounded) character can perform any action that does not require the character to tap. For example, a tapped (or wounded) character can move normally, he can fight with a penalty (if the attacker chooses him as the target of a strike), he can transfer items, etc. A tapped (or wounded) character may **not** tap to acquire an item, to influence a faction, to play a card requiring that he tap, etc.<br>Items and characters tap independently.
+
 ### UNIQUE & “MAY NOT BE DUPLICATED” CARDS
 
 If a card states that it is “unique” or that it “may not be duplicated,” only one such card (or its effects) may be in play at a time. The first card played takes precedence (influence checks may change this). This restriction applies to all cards in play, i.e., both yours and your
 opponent’s.
 
-Only one of each “unique” card may be included in your play deck and starting cards combined. As an exception, two of the same Wizard may be included in your play deck (to give you a better chance of drawing one early).
+Only one of each “unique” card may be included in your play deck and starting cards combined. As an exception, two of the same Ringwraith may be included in your play deck (to give you a better chance of drawing one early).
+
+{: .note }
+> If a unique card is eliminated, that card may not be brought back into play by either player.
 
 ## 3 • GETTING READY TO PLAY
 
 Follow these steps to get ready to play:
 
- 1. Place your site cards in your location deck. This deck should contain all of your Haven cards (i.e., Rivendell, Edhellond, Grey Havens, and Lorien). You may include any number of Haven cards, but only one of each non-Haven site card.
+ 1. Place your site cards in your location deck. This deck should contain all of your Darkhaven cards (i.e., Minas Morgul, Dol Guldur, Carn Dum, and Geann a-Lisch). You may include any number of Darkhaven cards, but only one of each non-Haven site card.
  2. Place between 25 and 50 Resource cards **and** an equal number of Hazard cards in your play deck (if you have fewer than 25 of either available, just use all of the cards you have). Only one of each “unique” card may be included. No more than three copies of any one non-unique card may be included.
- 3. Place one to five starting characters (no Wizards) face down in front of you. The combined mind attributes (see [page 19](/rules-archive/the-wizards-unlimited#character-attributes)) of these characters must be 20 or less. You and your opponent reveal your characters simultaneously, placing any duplicated characters into your play decks. Then organize your starting characters into followers and companies and place them at Rivendell (i.e., place a Rivendell site card next to them).
- 4. You _may_ assign up to two non-unique minor items to your starting characters (i.e., two items total, **not** two to each character). These items must come from cards that you have not already committed to your play deck.
- 5. Place up to 10 character cards in your play deck. Only one of each character card may be included. In addition, place up to two Wizard cards in your play deck (you may place two copies of the same Wizard). Shuffle your play deck.
+ 3. Place one to fix starting characters (no Wizards) face down in front of you. The combined mind attributes (see [page 18]()) of these characters must be 20 or less. You and your opponent reveal your characters simultaneously, placing any duplicated characters into your play decks. Then organize your starting characters into followers and companies and place them at Minas Morgul (i.e., place a Minas Morgul site card next to them).
+ 4. You _may_ assign up to two non-unique minor items to your starting characters (i.e., 2 items total, **not** 2 to each character). These items must come from cards that you have not committed to your play deck.
+ 5. Place up to 10 character cards in your play deck. Only one of each character card may be included. In addition, place up to two Ringwraith cards in your play deck (you may place two copies of the same Wizard). Shuffle your play deck.
  6. Draw a hand of eight cards from your play deck.
  7. Each player makes a roll, and the player with the highest result goes first (reroll if tied).
  
 {: .note } 
-> **Clarification:** None of your starting characters may be considered to be followers for the purposes of determining their combined mind attributes—your initial characters have to have combined mind attributes of 20 or below. 
+> **Clarification:** None of your starting characters may be considered to be followers for the purposes of determining their combined mind attributes. That is, these characters have to have combined mind attributes of 20 or less. 
 > 
-> **Clarification:** The initial 1-5 characters and two minor items do count toward the “one-unique” and “three-others” limits on the play deck. However, they do **not** count towards the number of resource and character cards in your starting play deck.
+> **Clarification:** The initial 1-6 characters and two minor items do count toward the “one-unique” and “three-others” limits on the play deck. However, they do **not** count towards the number of resource and character cards in your starting play deck.
+
 ## 4 • THE PLAYER TURN
 
 Play consists of a series of “Player Turns.” During your turn, you take various actions during the following phases. Then, your opponent does the same during his turn.
@@ -272,22 +289,21 @@ Play consists of a series of “Player Turns.” During your turn, you take vari
  5. Site Phase
  6. End-of-Turn Phase
 
-A Brief Player Turn Summary is presented on [page 4](/rules-archive/the-wizards-unlimited#brief-player-turn-summary). A detailed Full Player Turn Summary is presented on [pages 68-70](/rules-archive/the-wizards-unlimited#full-player-turn-summary).
+A detailed Full Player Turn Summary is presented on [p. 92-94]().
 
 {: .note }
-> **Clarification:** The actions that may be taken during your organization phase may be taken in any order. Actions of the same type do not have to be taken together (e.g., you can store an item, then bring a character into play, and then store a second item).
+> **Clarification:** The actions that may be taken during your organization phase may be taken in any order (e.g., you can store an item, then bring a character into play, and then store a second item).
+> 
+> **Clarification:** You may play a site (i.e., move to a site) that your opponent previously used or is currently using.
 > 
 > **Clarification:** If one of your companies doesn’t move, neither player draws cards based on that company’s movement. However, your opponent can play still play allowable hazards on that company (hazard limit still applies). 
 > 
-> **Clarification:** Each player draws cards when each company moves and then discards or draws to 8 cards after the company has completed movement. Additionally, at the end of each turn, each player can discard one card and then discard or draw to 8 cards.
+> **Clarification:** During the site phase, a company may decide not to enter and explore its current site. In this case, the company does not face the automatic-attack, but it may not take any other actions or play any cards during the site phase. The company remains at the site and it may decide to enter the site on a later turn.
 > 
-> **Clarification:** During the site phase, a company may decide not to enter and explore its current site. In this case, the company does not face the automatic-attack, but it may not take any other actions or play any cards during the site phase. The company remains at the site and it may decide to enter and explore the site on a later turn.
+> **Clarification:** Before a company can attempt to play one item, ally, faction, or other card that is “playable” at its current site, it must face the site’s automatic-attacks. The company need not defeat the attacks, it merely needs to resolve the attacks normally (such attacks could be canceled).<br>A company can face a site’s automatic-attacks and still not play a card (e.g., all of its characters are tapped after facing the automatic-attacks). If such a company wants to play a card at the site on a later turn, it must face the automatic-attacks again. 
 > 
-> **Clarification:** Before a company can attempt to play one item, ally, faction, or information resource card that is “playable” at its current site, it must face the site’s automatic-attacks. The company need not defeat the attacks, it merely needs to resolve the attacks normally (such attacks can be canceled). 
-> 
-> A company can face a site’s automatic-attacks and still not play an item, ally, faction, or information resource card (e.g., all of its characters are tapped after facing the automatic-attacks). If such a company wants to play a card at the site on a later turn, it must face the automatic-attacks again. 
-> 
-> **Clarification:** A site is tapped when one item, ally, faction, or information card is played. Non-Haven sites only untap after being discarded and after your play deck is exhausted. So, each time through your play deck, only one such card may normally be played at a given non-Haven site. Haven cards, whether tapped or not, always return to your location deck.
+> **Clarification:** A site taps when one item, ally, or faction card is played at that site. The play of certain other resource cards may tap sites—such a card will specifically state that playing it taps the site. Non-Darkhaven sites only normally untap after being discarded and after your play deck is exhausted. So, each time through your play deck, only one such card may normally be played at a given non-Darkhaven site. Darkhaven cards, whether tapped or not, always return to your location deck untapped.
+
 ## 5 • CHARACTERS & COMPANIES
 
 As a player, you influence and control a number of characters that move and act in the world of Middle-earth. Each character’s abilities are defined by these attributes: race, skills, direct influence, prowess (offense), body (defense), mind, marshalling points, and special abilities (e.g., corruption check modifiers). A character can be _eliminated_ and removed from play as a result of combat (failing a body check) or corruption (failing a corruption check).
