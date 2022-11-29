@@ -2,7 +2,7 @@
 layout: default
 title: Dark Minions Player Guide
 parent: Rules Archive
-nav_order: 3
+nav_order: 7
 permalink: /rules-archive/dark-minions-player-guide
 search_exclude: true
 ---
