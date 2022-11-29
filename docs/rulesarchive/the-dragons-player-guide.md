@@ -64,7 +64,9 @@ _Elven Cloak_ (clarification)—Can cancel a strike keyed to double (or multiple
 
 _Escape_ (clarification)—Cannot be played on a wounded character.
 
-_Eye of Sauron_ (clarification)—This card can be played and resolved before any Nazgul is palyed with it. A Nazgul must be played as the first declared action in the chain of effects following the resolution of Fell Beast. If a Nazgul is not played immediately following the resolution of this card, this card is returned to its player's hand. This card cannot be played for no effect just to discard it. This card can be played on an existing Nazgul attack, but the extra platability this card provides would not apply.
+_Eye of Sauron_ (clarification)—With _Doors of Night_ in play _Eye of Sauron_ only gives +3 total to the prowess of automatic-attacks.
+
+_Fell Beast_ (clarification)—This card can be played and resolved before any Nazgul is palyed with it. A Nazgul must be played as the first declared action in the chain of effects following the resolution of Fell Beast. If a Nazgul is not played immediately following the resolution of this card, this card is returned to its player's hand. This card cannot be played for no effect just to discard it. This card can be played on an existing Nazgul attack, but the extra platability this card provides would not apply.
 
 _Goldberry_ (clarification)—No player may assign strikes to _Goldberry_. She may tap to give a character +1 in combat. _Goldberry_ cannot prevent a company from returning to its site of origin that failed its roll to move to an adjacent Under-deeps site. 
 
