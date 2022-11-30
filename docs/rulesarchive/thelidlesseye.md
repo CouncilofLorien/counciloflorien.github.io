@@ -308,138 +308,145 @@ A detailed Full Player Turn Summary is presented on [p. 92-94]().
 
 As a player, you influence and control a number of characters that move and act in the world of Middle-earth. Each character’s abilities are defined by these attributes: race, skills, direct influence, prowess (offense), body (defense), mind, marshalling points, and special abilities (e.g., corruption check modifiers). A character can be _eliminated_ and removed from play as a result of combat (failing a body check) or corruption (failing a corruption check).
 
-If you have enough general influence or direct influence during a given turn, you may bring into play: one character at his home site or at any Haven **or** your Wizard at his home site or Rivendell. 
+If you have enough general influence or direct influence during a given turn, you may bring into play: one non-Ringwraith character at his home site or at any Darkhaven **or** your Ringwraith at his home site or Minas Morgul (see page 20). 
 
-Characters are primarily controlled by your pool of 20 general influence points. For each controlled character, you must commit a number of general influence points equal to his mind attribute. In addition, you may control a character by using another character’s direct influence—a character controlled in this fashion is called a _follower_ and does not use general influence points. (See [page 21](/rules-archive/the-wizards-unlimited#direct-influence) for an extended example.)
+Characters are primarily controlled by your pool of 20 general influence points. For each controlled character, you must commit a number of general influence points equal to his mind attribute. In addition, you may control a character by using another character’s direct influence—a character controlled in this fashion is called a _follower_ and does not use general influence points. (See [page 19]() for an extended example.)
 
-During play, you may organize your characters into groups called companies. A company’s _size_ is equal to the number of characters in it, with each Hobbit character only counting half (round up). A company is limited to a size of seven. A company’s _hazard limit_ is equal to two or the size of the company, whichever is greater. The maximum number of hazards that can be played on a company during a given movement/hazard phase is equal to its hazard limit. 
+During play, you may organize your characters into groups called companies. A company’s _size_ is equal to the number of characters in it. A company is limited to a size of seven. A company’s _hazard limit_ is equal to two or the size of the company, whichever is greater. The maximum number of hazards that can be played on a company during a given movement/hazard phase is equal to its hazard limit. 
 
-Companies can only combine at a Haven—just remove all but one of the companies’ Haven site cards. The resulting company then has one site card consisting of one Haven site card.
+Companies can only combine at a Darkhaven—just remove all but one of the companies’ Darkhaven site cards. The resulting company then has one site card consisting of a Darkhaven site card.
 
-One company can split into two or more companies only at a Haven (use two Haven cards).
+One company can split into two or more companies only at a Darkhaven (use two Darkhaven cards).
 
 {: .note } 
-> **Note:** The number of characters you have in play limits the number of actions you may take during a given turn. You use your Wizard’s general influence or your other characters’ direct influence on a character to bring that character into play and to keep it in play. A character in play can move and take actions (e.g., defending against attacks, influencing, etc.). Items, allies, and other cards representing things a character acquires and controls are placed under his card.
+> **Note:** The number of characters you have in play limits the number of actions you may take during a given turn. You use your other characters’ direct influence on a character to bring that character into play and to keep him in play. A character in play can move and take actions (e.g., defending against attacks, influencing, etc.). Items, allies, and other cards representing things a character acquires and controls are placed under his card.
+> 
+> **Note:** Sometimes two or more companies combine and the resulting company has two or more of the came cards that say: "cannot be duplicated on a given company." When this happens, immediately discard all but one of those cards (your choice). 
+>
+> **Clarification:** During your organization phase, one Darkhaven card may be used to represent the location of two or more companies, so long as the distinction between companies is clearly presented spatially. However, we suggest the use of multiple Darkhaven cards for clarity.
+> 
+> **Clarification:** Even if you have no characters in play, the game is not over. You may continue to draw and discard cards—eventually you will draw your Ringwraith or a character.
+>
+> **Note:** _MELE_ characters are different from _METW_ characters. When it is important to distinguish between the two types of characters, _MELE_ characters are referred to as "minions" (or minion characters) and _METW_ characters are referred to as "heroes" (or hero characters). See [pages 74-75]() for more information.
  
 ### CHARACTER ATTRIBUTES
 
 Each character’s abilities are defined by the following attributes (the notation for certain attributes is given in brackets).
 
-_Race:_ This is one criterion for using certain resources and for bringing certain items, characters, and factions into play (e.g., only a Dwarf can fully utilize a Dwarven Ring). The races are: Elf, Hobbit, Dwarf, Dunadan, Man, and Wizard.
+_Race:_ This is one criterion for using certain resources and for bringing certain items, characters, and factions into play (e.g., only a Dwarf can fully utilize a Dwarven Ring). The races are: Elf, Dwarf, Dunadan, Man, Orc, Troll, and Ringwraith.
 
 _Skills:_ This is one of the criterion for using certain cards (e.g., warrior skill is required to use certain weapons). The skills are: warrior, scout, ranger, sage, and diplomat. Some characters have more than one skill.
 
-_Direct Influence_ \[  ![](/assets/images/di.svg) ]: A character’s direct influence determines how many of your characters he may control (i.e., have as followers). In addition, a character’s unused direct influence affects his chances of influencing factions and your opponent’s resources.
+_Direct Influence_ \[  ![](/assets/images/di.svg) ]: A character’s direct influence determines which of your characters he may control (i.e., have as followers). In addition, a character’s unused direct influence affects his chances of influencing factions and your opponent’s resources.
 
 _Prowess_ \[lower left, to left of “/”]: A character’s prowess is a measure of a character’s offensive capabilities in combat.
 
 _Body_ \[lower left, to right of “/”]: A character’s body is a measure of how difficult it is to physically eliminate the character. This is a mixture of the ability to avoid an attack and the ability to absorb or deflect an attack (e.g., armor, shield, blocking).
 
-_Mind_ \[  ![](/assets/images/mind.svg) ]: A character’s mind determines how many influence points (a Wizard’s general influence points or a character’s direct influence points) are required to keep this character in play.
+_Mind_ \[  ![](/assets/images/mind.svg) ]: A character’s mind determines how many influence points (a Ringwraith’s general influence points or a character’s direct influence points) are required to keep this character in play. Your Ringwraith has no mind and requires no influence to control.
 
-_Marshalling Points_ \[ upper left ]: This is the number of marshalling points you receive when you have the character in play. This value represents the character’s importance to the Free Peoples’ struggle against Sauron.
+_Marshalling Points_ \[ upper left ]: This is the number of marshalling points you receive when you have the character in play. This value represents the character’s importance to Sauron.
 
-_Special Abilities:_ Some characters have special abilities that are detailed on their cards. Common special abilities include corruption check modifiers, influence bonuses, prowess bonuses. For example, Faramir has an influence bonus against the _Rangers of Ithilien_ faction, Eowyn has a prowess bonus against Nazgul, Frodo has a corruption check modifier, etc.
+_Special Abilities:_ Some characters have special abilities that are detailed on their cards. Special abilities include corruption check modifiers, influence bonuses, and prowess bonuses. For example, Shamas has an influence bonus against the _Dunlending_ faction.
 
 ### INFLUENCING (CONTROLLING) A CHARACTER
 
-You have a pool of 20 general influence points. At any one time, the total mind attributes of your characters in play (not counting followers) must be less than or equal to 20; this total is equal to your _used general influence points_. Your _unused general influence points_ help your characters resist the effects of certain cards (e.g., _Call of Home_, _Call of the Sea_, _Muster Disperses_, etc.). 
+You have a pool of 20 general influence points. At the end of your organization phase, the total mind attributes of your characters in play (not counting followers) must be less than or equal to 20; this total is equal to your _used general influence points_. Your _unused general influence points_ help your characters resist the effects of certain cards (e.g., _Call of Home_, _Muster Disperses_, etc.). 
 
 {: .note } 
 > **Note:** In the Standard Rules, your _unused general influence points_ help your characters, factions, allies, and items resist influence attempts made by your opponent.
+
 #### Direct Influence
+
 Some characters have a direct influence attribute of one or more. If such a character’s direct influence is greater than or equal to another one of your characters’ mind attribute, he may take control of that other character, who then becomes a _follower_ of the controlling character. These conditions must be met:
  - The total mind attributes of all of a character’s followers may not exceed his direct influence.
- - A character can take control of another character that is in play only if both characters are at the same site.
+ - A character can take control of another character that is in play only if both characters are in the same company.
  
-A follower does not require influence points from your general pool. The follower must remain stacked under the character exerting the direct influence at all times. A follower may not use his direct influence to control characters (i.e., a follower may not have his own followers). **A follower is handled in all other ways as a normal character** (e.g., counts for company size, takes normal actions, etc.). 
+A follower does not require influence points from your general pool, and he must remain stacked under the character exerting the direct influence. A follower may not use his direct influence to control characters (i.e., a follower may not have his own followers). 
+
+_A follower is handled in all other ways as a normal character_ (e.g., counts for company size, takes normal actions, etc.). 
 
 If you have enough unused general influence points, you may move a follower from direct influence to general influence (or vice versa) during your organization phase.
 
 If a character directly influencing a follower is removed from play, the follower remains in play and does not immediately count against general influence. However, during your next organization phase, you must discard the follower, place the follower under the control of another character in his company with enough available direct influence, or place the follower under the control of general influence (if enough is available).
 
 {: .note } 
-> **Example:** In this example and later examples, the notation “#•#” is used. The first number is the character’s mind attribute; the second is his direct influence (DI). You have nine characters you want to control: Gandalf (- •10), Aragorn II (9•3), Boromir II (4•1), Legolas (6•2), Gimli (6•2), Frodo (5•1), Sam (4•0), Merry (4•1), and Pippin (4•1). In addition, Aragorn II has Narsil (+1 to direct influence), Frodo has The One Ring (+5 to direct influence), and Gandalf has a Lesser Ring (+2 to direct influence). In order for you to control and keep these characters in play, you must use all of your 20 points of general influence (GI) and their direct influence (DI).
-> 
-> First, Gandalf does not require any influence—he’s your Wizard. You use your GI to control Frodo, Aragorn II, and Gimli. This uses all 20 points: 5 for Frodo, 9 for Aragorn II, and 6 for Gimli. Gandalf has 12 DI (his normal 10 plus 2 for the Lesser Ring), so he uses it to control Sam, Merry, and Pippin (they become his followers). Aragorn II has 4 DI (his 3 plus 1 for Narsil), so he uses it to control Boromir II. Frodo has 6 DI (his 1 plus 5 for The One Ring), so he uses it to control Legolas. The company size is 7 because Hobbits only count half. The resulting ccompany organization is outlined below:
+> **Example:** In this example and later examples, the notation “#•#” is used. The first number is the character’s mind attribute; the second is his direct influence (DI). A direct influence value in brackets applies only against certain types of characters (in this example, only against Orcs and Trolls). In our example from page 8, Wendy and Nick each have one company at Carn Dum (a Darkhaven) organized as follows:
 > 
 > ```mermaid
 > %%{init: {'flowchart' : {'curve' : 'linear'}, 'theme': 'base', 'themeVariables': { 'primaryColor': '#fff','primaryBorderColor': '#44434d','fontFamily': 'timesnewroman'}}}%%
 > graph TD
->     GI("General Influence (-•20)")
->     GI --- Gm("Gimli (6•2)")
->     GI --- Ar("Aragorn (9•3+1)")
->     GI --- Fr("Frodo (5•1+5)")
->     Ar --- Br("Boromir (4•1)")
->     Fr --- Lg("Legolas (6•2)")
->     Gn("Gandalf (-•10+2)") --- Sm("Sam Gamgee (4•0)")
->     Gn --- Mr("Merry (4•1)")
->     Gn --- Pp("Pippin (4•1)")
-> ```
-{: .note } 
-> **Example:** In our example from [page 11](/rules-archive/the-wizards-unlimited#the-free-council), Jessica and Jason each have one company organized as follows:
-> 
-> ```mermaid
-> %%{init: {'flowchart' : {'curve' : 'linear'}, 'theme': 'base', 'themeVariables': { 'primaryColor': '#fff','primaryBorderColor': '#44434d','fontFamily': 'timesnewroman'}}}%%
-> graph TD
->     GI("Jessica's General Influence (-•20)") 
->     GI --- Ell("Elladan (4•0)")
->     GI --- Leg("Legolas (6•2+2)")
->     Leg --- Elr("Elrohir (4•0)")
->     Pal("Pallando (-•10)") --- Gil("Gildor<br>Inglorion (4•0)")
->     Pal --- Cel("Celeborn (6•1)")
+>     GI("Wendy's General Influence (20)")
+>     GI --- Tc("Troll-chief (6•\[3])")
+>     GI --- Sh("Aragorn (6•\[4])")
+>     GI --- Ot("Orc Tracker (3•0)")
+>     Tc --- Tl("Troll Lout (3•0)")
+>     Sh --- Gr("Grishnakh (3•0)")
+>     Dw("Dwar the Ringwraith (&ndash;•5)")
 > ```
 > 
 > ```mermaid
 > %%{init: {'flowchart' : {'curve' : 'linear'}, 'theme': 'base', 'themeVariables': { 'primaryColor': '#fff','primaryBorderColor': '#44434d','fontFamily': 'timesnewroman'}}}%%
 > graph TD
->     GI("Jason's General Influence (-•20)") 
->     GI --- The("Theoden (6•3)")
->     GI --- Far("Faramir (5•1)")
->     GI --- Imr("Imrahil (6•2)")
->     Rad("Radagast (-•10)") --- Beo("Beorn (7•2)")
+>     GI("Nick's General Influence (20)") 
+>     GI --- Ta("Tarcil (6•2)")
+>     GI --- Oc("Orc Captain (5•\[3])")
+>     GI --- Lt("Lieutenant of Morgul (9•2\[+3])")
+>     In("Indur the Ringwraith (&ndash;•5)") --- Ci("Ciryaher (5•2)")
 > ```
 > 
-> Jessica’s company size is 6 and she has 10 unused general influence;
-> Jason’s company size is 5 and he has 3 unused general influence.
-{: .note } 
-> **Clarification:** During the organization phase, you can move characters from control by general influence to control by direct influence and vice versa so long as your total of mind attributes does not exceed your available influence at the end of the organization phase.
-> 
-> **Clarification:** If you do not have enough influence to control all of your characters in play, you must discard any excess characters at the end of your next organization phase.
+> Wendy’s company size is 6 and she has 5 unused general influence; Nicks’s company size is 6 and he has 0 unused general influence.
+
+### BRINGING CHARACTERS INTO PLAY
+
+During your organization phase, you may perform **one and only one** of the following activities:
+ - You may play a non-Ringwraith character card. You must place him at his home site _or_ at any Darkhaven site. If you do not have enough general influence or direct influence to control the character by the end of your organization phase, then the character is returned to hand. You must place him at his home site or at any Darkhaven site.
+ - You may play a Ringwraith card if you do not have one in play. This is called "Revealing Your Ringwraith." You may **not** reveal a Ringwraith if your opponent has already revealed that Ringwraith. You must place your Ringwraith at his home site or at Minas Morgul. You need not control a Ringwraith with influence—he represents you, the player. While revealing your Ringwraith is an advantage, it also carries with it the danger of losing the game by having your Ringwraith eliminated.
+
+When you play a character, you may place him into a company already at his arrival site **or** he may become a new company (consisting of one character). In the second case, you must place the arrival site card next to the character played. If the appropriate site card is not available, you may not play the character.
+ 
+> **Clarification:** Playing a character does **not** tap a site.
+
+Most characters are unique. So if you already have a unique character in play, your opponent may not play the same character. Similarly, if a unique character has been eliminated, he may not be brought
+into play again by either player. 
+
+{: .note }
+> **Example:** In the p. 8 example, Wendy calls the audience. Then Nick takes his final turn. His company is at a Darkhaven, so he may play a character during his organzation phase. Nick has Grishnakh and an Orc Tracker in his hand (each has a 3 mind attribute). Nick would like to play Grishnakh, but he is unique and Wendy already has him in play. The Orc Tracker is not unique, so Nick plays him. Nick has no unused general influence, so the Orc Tracker must be placed under the control of one of Nick's non-follower characters with at least 3 unused direct influence. Only Nick's non-follower Orc Captain meets these requirements.
+
 ### COMPANIES
 
 A company is a group of characters that move and act together. This allows characters to move, act, and defend as a unit, allowing stronger characters to protect the weaker characters. This mechanism can be used to allow a variety of tactics during play. 
 
 For example, if you have 3 characters in play, the 3 characters can move separately and perhaps do more in terms of acquiring marshalling points (items, other characters, etc.); but each individual character is more vulnerable to danger. However, the same 3 characters operating as a company might acquire marshalling points more slowly, but they are safer (i.e., you risk less).
 
-Normally, a company is limited to a size of seven, but a company at a Haven site may be of any size. For these purposes, a Wizard counts as a character, but an ally does not. The size of a company is determined for each company at the beginning of the movement/ hazard phase (e.g., it remains fixed even if a character leaves the company).
-
-### BRINGING CHARACTERS INTO PLAY
-
-During your organization phase, you may perform **one and only one** of the following activities:
- - You may play a character card. You must have enough general influence or direct influence available to control the character. You must place him at his home site or at any Haven site.
- - You may play a Wizard card if you do not have one in play. You must place a Wizard at his home site or at Rivendell. You need not control a Wizard with influence—he represents you, the player.
-
-When you play a character, you may place him into a company already at his arrival site **or** he may become a new company (consisting of one character). In the second case, you must place the arrival site card next to the character played.
+Normally, a company is limited to a size of seven, but a company at a Darkhaven site may be of any size. For these purposes, an ally does not. The size of a company is determined for each company at the beginning of the movement/hazard phase (e.g., it remains fixed even if a character leaves the company).
 
 {: .note }
-> **Clarification:** If character is played at his home site or a Haven site and there is no company there, you must play the site card for his arrival site with him. If the appropriate site card is not available, you may not play the character. 
-> 
-> **Clarification:** Playing a character does **not** tap a site.
-Each character and Wizard is unique. So if you already have a character in play, your opponent may not play the same character. Similarly, if a character has been eliminated, he may not be brought
-into play again by either player. 
+> **Clarification:** A company is **not** an "attack," and a character is **note** an "attack." So hazards that modify attacks have no effect on characters and companies.
+
+#### Limitations on Company Composition
+
+Unless at a Darkhaven, a Ringwraith may not be in a company with other characters.
+
+#### Overt and Covert Companies
+
+The text for certain cards distinguish between overt companies and covert companies. Any company that contains a Ringwraith in _Fell Rider_ mode, an Orc, or a Troll is an overt company. Any other company is a covert company.
 
 {: .note }
-> **Example:** In our example from page 11, Jessica calls the Free Council. Then Jason gets to take his final turn. Since his company is at a Haven, Jason may play a character card from his hand during his organization phase. Jason has Eomer (with a 3 mind attribute) in his hand so he plays him. Jason has 3 points of unused general influence; he also has Theoden with 3 points of unused direct influence and Radagast with 3 points of unused direct influence. So Eomer may be placed under the control of general influence, Theoden, or Radagast (Jason’s choice).
-### REVEALING A WIZARD
-
-Once you decide to reveal your Wizard, you may still use your pool of general influence points; but, in addition, your Wizard acts as a character (a very powerful one). While revealing your Wizard is an advantage, it also carries with it the danger of losing the game by losing your Wizard to death or corruption. 
-
-After being revealed, a Wizard operates as a character and thus may use his direct influence just like any other character. 
+> **Note:** An overt company is readily identifiable as an evil force (i.e., it has Orcs, Trolls, etc.), and thus is subject to direct conflict with most Free Peoples. A covert company is not readily identifiable as an evil force, and thus can operate relatively freely in the domains of the Free Peoples.
 
 ### HEALING
 
-Each of your characters at a Haven may heal during the untap phase of your turn. Such a character moves from a wounded position to a tapped position (i.e., the character is still tapped). In addition, certain cards can heal characters when they are played (e.g., _Healing Herbs_, _Halfling Strength_, etc.).
+Each of your characters at a Darkhaven may heal during the untap phase of your turn. Such a character moves from a wounded position to a tapped position. In addition, certain cards can heal characters when they are played (e.g., _Foul Smelling Paste_).
+
+### RINGWRAITH EFFECTS
+
+After being revealed, a Ringwraith operates like any other character except that it may only be in a company with other characters if it is at a Darkhaven. There are several other special effects:
+
+ - Any gold ring in the Ringwraith's company is automatically tested at the beginning of the end-of-turn phase. Any ring test in a Ringwraith's company has a modification of -2.
+ - A Ringwraith may carry items (including rings) but may not use them (i.e., an item has no effect on a Ringwraith's company or on his attributes and abilities).
+ - Ringwraiths never make corruption decks and corruption cards may not be played on Ringwraiths.
+ - The movement of Ringwraiths is restricted (see \[page 25]()).
 
 ## 6 • MOVEMENT
 
@@ -452,7 +459,8 @@ In _METW_ the lands of northwest Middle-earth are represented by regions. The si
 > 
 > **Note:** By using the site cards and site cards only, a company can move from any site to any other site. First, if necessary, the company moves to the nearest Haven. Then, if necessary, it moves to another Haven. Finally, it moves from that Haven to the destination site.
 {: .text-center }
-![](/assets/images/startermovement.svg)
+
+![](/assets/images/mele-starter-movement.svg)
 
 A company commits to moving by playing a _new site card_ (face down) during its organization phase. A company does not have to move during a given turn (i.e., it does not play a new site card).
 
