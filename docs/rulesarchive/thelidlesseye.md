@@ -452,7 +452,7 @@ After being revealed, a Ringwraith operates like any other character except that
 
 ## 6 • MOVEMENT
 
-In _METW_ the lands of northwest Middle-earth are represented by regions. The site cards represent places that companies can visit within those regions. Except for a moving company during its movement/hazard phase, each company always has a _current site card_ associated with it—the company is located at that site.
+In _MELE_ the lands of northwest Middle-earth are represented by regions. The site cards represent places that companies can visit within those regions. Except for a moving company during its movement/hazard phase, each company always has a _current site card_ associated with it—the company is located at that site.
 
 {: .note }
 > **Note:** Site paths do not direct the movement process. The site path is used to determine which hazard creatures your opponent may play against your moving company.
@@ -585,32 +585,36 @@ Combat normally occurs when one of three things happen:
  - When any other card indicates that a company must face an attack.
 
 ### ATTACKS & STRIKES
+
 Combat consists of one or more _attacks_ that must be resolved one at a time. An attack consists of one or more _strikes_:
+
  - Each strike can target one and only one character in the attacked company.
  - Each character can be the target of only one strike from a given attack.
- - If an attack has more strikes than the company has characters, the attacker may allocate the excess strikes as -1 modifications (i.e., a -1 modification for each unallocated strike) to the prowess(es) of whichever target(s) he chooses. See the [Strike Sequence on page 32](/rules-archive/the-wizards-unlimited#the-strike-sequence). 
+ - If an attack has more strikes than the company has characters, the attacker may allocate the excess strikes as -1 modifiers (i.e., a -1 modifier for each unallocated strike) to the prowess(es) of whichever target(s) he chooses. See the Strike Sequence on [page 33]().
+ - You and your opponent must play any cards that modify the number of strikes before you assign the strikes. 
 
 Unless the attack states otherwise, the defender chooses which _untapped_ characters will be the targets of given strikes. Then, the attacker chooses which other defending characters not yet assigned a strike will be the target of any remaining unassigned strikes. 
 
 {: .note }
-> **Clarification:** Against a given attack, a character may only defend against one strike.
+> **Clarification:** If the text on a creature card states that the “attacker chooses defending characters,” any characters (not yet assigned a strike) in the defending company may be chosen (by the attacker) as the targets of the attack’s strikes.
 > 
-> **Clarification:** If the text on a creature card states that the “attacker chooses defending characters,” any characters in the defending company may be chosen (by the attacker) as the targets of the attack’s strikes.
+> **Clarification:** The defender may choose not to assign strikes that he is allowed to assign. These strikes are then assigned by the attacker to any characters that have not yet been assigned strikes.
 > 
-> **Clarification:** All of an attack’s strikes must be assigned to the characters in the defending company or as modifications to the strikes assigned. The attacker may **not** choose to not apply strikes. Any strike in excess of the number of characters in the company becomes a -1 modification to prowess of one character taking a strike (the attacker chooses). Only those strikes that are assigned need be defeated for the creature’s marshalling points to be received by the defender.
+> **Clarification:** All of an attack’s strikes must be assigned to the characters in the defending company or as modifiers to the strikes assigned. The attacker may **not** choose to not apply strikes or excess strike modifiers. Only those strikes that are assigned need be defeated for the creature’s marshalling points to be received by the defender.
+
 #### Strike Modifications
 
-There are a number of standard modifications to strikes:
+There are a number of standard modifications to the prowess of each target character facing a strike:
 
  - Each unwounded, tapped character must modify his prowess by -1.
  - Each wounded character must modify his prowess by -2.
- - Normally a character that is the target of a strike is tapped after the strike is resolved. However, a character that is the target of a strike may choose to take a -3 modification to his prowess to avoid being tapped. If so, the character is not tapped after the strike is resolved  (he may still be wounded).
- - If an attack has more strikes than the company has characters, the attacker may allocate the excess strikes as -1 modifications to the prowesses of whichever target(s) he chooses. See the Strike Sequence on page 32.
+ - Normally a character that is the target of a strike is tapped after the strike is resolved. However, a character that is the target of a strike may choose to take a -3 modification to his prowess to avoid being tapped. If so, the character is not tapped after the strike is resolved (he may still be wounded).
+ - If an attack has more strikes than the company has characters, the attacker may allocate the excess strikes as -1 modifiers to the prowesses of whichever target(s) he chooses. See the Strike Sequence on [page 33]().
  - The target’s prowess may also be modified due to the play of certain resource and hazard cards. Only one resource card requiring skill may be played against a given strike.
 
 | Condition | Mod. to Target's Prowess |
 | :--- | ---: |
- Unwounded, tapped character * | -1
+ Tapped character * | -1
  Wounded character * | -2
  Untapped character decides not to tap * | -3
  For each unused strike allocated (i.e., each extra strike) * | -1
@@ -619,83 +623,111 @@ There are a number of standard modifications to strikes:
  Hazard cards | varies
  
  {: .note }
- > **Clarification:** The prowess modifications marked with an * above are applied for a given attack and then are removed immediately after the attack is resolved. That is they do not carry over from attack to attack.
+ > **Clarification:** The prowess modifications marked with an * above are applied for a given strike and then are removed immediately after the attack is resolved. That is they do not carry over from strike to strike.
+ > 
+ > **Note:** Ignore effects that modify the number of strikes for an attack that states that "every character in the target company faces one strike" (unless an effect reduces the number of strikes to a specific number, e.g., _Veils of Shadow_).
  
 #### Resolving Strikes
 
-Strikes are resolved one at a time as decided by the defending player. When you choose a strike to resolve, determine all of the factors affecting the strike before the roll is made (see “[The Strike Sequence](/rules-archive/the-wizards-unlimited#the-strike-sequence)” below).
-
-To resolve a strike, the defender makes a roll (2D6) and adds his modified prowess:
+Strikes are resolved one at a time as decided by the defending player. When you choose a strike to resolve, determine all of the factors affecting the strike before the roll is made (see “The Strike Sequence” below). To resolve a strike, the defender makes a roll (2D6) and adds his modified prowess:
 
  - If this result is greater than the strike’s prowess, the strike _fails_. Such a strike is defeated if its body attribute is “–” **or** if it has a body attribute and fails a body check.
- - If this result is equal to the strike’s prowess, the strike was _ineffectual_ (i.e., a “tie” means that the strike is avoided but not defeated).
- - Otherwise, the strike was _successful_ (i.e., the character was defeated). The target character is wounded and must make a body check.
+ - If this result is equal to the strike’s prowess, the strike was _ineffectual_ (i.e., the strike is avoided but not defeated).
+ - Otherwise, the strike was _successful_ (i.e., the character was defeated). If the attack was a "detainment" attack, an untapped target is tapped. Otherwise, the target character is wounded and must make a body check.
 
 #### Body Checks
 
-If a strike against a character is successful, the character is wounded and must make a _body check_. To make a body check, the **attacker** makes a roll (2D6); if this value is greater than the character’s _body attribute_, the character is eliminated. If the character was already wounded before this strike, the roll is modified by +1.
+If a strike against a character is successful and the attack was _not_ a detainment attack, the character is wounded and must make a body check. To make a body check, the **attacker** makes a roll (2D6). If the character was already wounded before this strike, the roll is modified by +1.
+
+ - The text on certain characters' cards states: "Discard on a body check result of # or #." In this case, you must discard the character if the modified body check roll is equal to either of these numbers.
+ - Otherwise, if the modified body check roll is greater than the character's body attribute, the character is eliminated.
+ - Otherwise, nothing further happens (i.e., the character is just wounded).
 
 {: .note }
+> **Note:** As a result of certain rolls, certain characters may be discarded rather than being wounded. These characters are usually Orcs and Trolls. This effect represents the target running or slinking away from the attack.
+> 
 > **Clarification:** If a character was already wounded before a strike wounds him again, the resulting body check modification is always +1 (regardless of how many times a character is wounded).
 > 
-> **Clarification:** If a strike against a character is successful, a body check must be resolved for the character before anything else happens. For example, Healing Herbs may not be used to heal such a character until after the body check is resolved (of course, if the character is eliminated, the Healing Herbs may not be used on him at all).
+> **Clarification:** If a strike against a character is successful, a body check must be resolved for the character before anything else happens. For example, _Foul Smelling Paste_ may not be used to heal such a character until after the body check is resolved (of course, if the character is eliminated, the _Foul Smelling Paste_ may not be used on him at all).
+
 As presented above, a strike that fails is defeated if its body attribute is “–” **or** if it has a body attribute and fails a body check. To make such a body check, the **defender** makes a roll (2D6); if this value is greater than the strike’s _body attribute_, the strike is defeated.
 
 {: .note } 
-> **Example:** Smaug has a prowess of 17 and a body of 8. He normally has two strikes when he attacks. If one of his strikes against a character fails, the defender makes a body check. If the resulting roll is greater than 8, that strike is defeated. However, both of Smaug’s strikes must be defeated in order for him to be eliminated—this would require at least two body check rolls greater than 8.
-#### Defeating an Attack
+> **Example:** _Landroval_ has a prowess of 12 and a body of 6. He normally has two strikes when he attacks. If one of his strikes against a character fails, the defender makes a body check. If the resulting roll is greater than 6, that strike is defeated. However, both of _Landroval
+> s_ strikes must be defeated in order for him to be eliminated—this would require at least two body check rolls greater than 6.
 
-An attack by a hazard creature is defeated if all of its strikes directed against (i.e., assigned to) a company are defeated. If a defeated attack is a hazard creature, the card is placed in the defender’s marshalling point pile. The defender receives marshalling points for eliminating it.
+#### "Detainment" Attacks
 
-If a hazard creature has multiple attacks, each **must** be defeated in order for the defender to receive the marshalling points.
+Certain attacks detain targets rather than wound them. When a strike from a detainment attack is successful, an untapped target is tapped instead of being wounded. This represents the target being stopped and questioned. The following types of attacks are detainment attacks:
 
-If one of the strikes was canceled or ineffectual, the attack is **not** defeated. If the attack is canceled, the attack is **not** defeated. A canceled attack has no effect on the defending company.
+ - Card text will sometimes state that an attack is a detainment attack.
+ - Any Nazgul attack against a minion company is a detainment attack.
+ - Any attack keyed to Dark-domain, Shadow-hold, or Dark-hold is a detainment attack.
+ - Any Orc, Troll, Undead, or Man attack keyed to Shadow-land is a detainment attack.
+ 
+The parameters above apply if the attack is keyed to the region symbol or site symbol (by type) **or** if keyed to a region or site by name which happens to be of the appropriate type (i.e. has the appropriate symbol).
+
+### Defeating an Attack
+
+An attack by a hazard creature is defeated if it is _not_ a detainment attack **and** all of its strikes directed against (i.e., assigned to) a company are defeated. 
+
+If even one of the strikes was canceled or ineffectual, the attack is **not** defeated. If the attack is canceled, the attack is **not** defeated. A canceled attack has no effect on the defending company (though the company is considered in its history to have faced it). A detainment attack from a creature is never defeated and the creature's card is always discarded after the attack is resolved. 
+
+If a hazard creature has multiple attacks, each **must** be defeated in order for the creature to be defeated.
 
 {: .note }
-> **Example:** Faramir is untapped with a prowess of 5 and a body of 8. He is facing a strike from a Huorn (only has one strike) with a prowess of 10 and a body of “–.” Faramir could decide not to tap against the strike; in which case his prowess would only be 2 (his normal prowess of 5, minus 3 for not tapping) against this strike. However, Faramir decides to tap to face the strike.
+> **Example:** Lagduf is untapped with a prowess of 5 and a body of 8. He is facing a strike from a _Huorn_ (only has one strike) with a prowess of 10 and a body of “–.” Lagduf could decide not to tap against the strike; in which case his prowess would only be 2 (his normal prowess of 5, minus 3 for not tapping) against this strike. However, Lagduf decides to tap to face the strike.
 > 
-> If Faramir rolls a 6 or better (i.e., his prowess plus the roll will be greater than the Huorn’s prowess of 10), the strike fails and the Huorn attack is defeated (it only has one strike and its body attribute is “–”). 
+> Lagduf rolls an 8. 8 plus his prowess of 5 is greater than the Huorn’s prowess of 10. Therefore, the strike fails and the _Huorn_ attack is defeated (it only has one strike and its body attribute is “–”). 
 > 
-> If Faramir rolls a 5 (i.e., his prowess plus the roll is equal to the Huorn’s prowess of 10), the strike is ineffectual.
+> Next Lagduf has to face a _Slayer_, which has two attacks against the same character, each with one strike at 11 prowess. Lagduf is tapped, so he now has a -1 to his prowess (i.e., his prowess is 4).
 > 
-> If Faramir rolls a 4 or less (i.e., his prowess plus the roll is less than the Huorn’s prowess of 10), the strike was successful. Faramir is wounded and must make a body check. The attacker makes a die roll—if the result is 9 or more, Faramir is eliminated and removed from play.
-#### The Strike Sequence
+> Against the first attack's strike Lagduf rolls a 7. His total is 11 (= 7 + 4) which ties the strike's prowess of 11. Therefore the strike is ineffectual and nothing happens.
+> 
+> Against the next attack, Lagduf rolls a 3. His total of 7 (= 3 + 4) is less than the strike's prowess of 11. Therefore the strike is successful. Lagduf is immediately wounded and must make a body check. His opponent rolls the dice for the body check. If he rolls a 9 or more, Lagduf will be eliminated
+and removed from play. Lagduf's opponent actually rolls an 8 and Lagduf is not eliminated. However, Lagduf is discarded because his card states that he is discarded on a body check result of 8. 
 
-You and your opponent must play any cards that modify the number of strikes before you assign the strikes.
+#### Marshalling Points
+
+You receive creature marshalling points for defeating a creature with an * next to its marshalling points. Place the card in your marshalling point pile.
+
+If you defeat a creature that does _not_ have an * next to its marshalling points, place the card in your out-of-play pile. You do **not** not receive marshalling points for eliminating it.
 
 {: .note }
-> **Note:** The “strike sequence” is the time from when a player declares that one of his characters will resolve a strike until the strike die roll is made and any associated body checks are made.
+> **Note:** A Wizard player does not receive marshalling points for defeating a creature with an * next to its marshalling points.
+
+### THE STRIKE SEQUENCE
+
+The “strike sequence” is the time from when a player declares that one of his characters will resolve a strike until the strike die roll is made and any associated body checks are made.
+
 Strikes are resolved one at a time as decided by the defending player (i.e., he chooses a strike to resolve, the strike is resolved, he chooses the next strike to resolve, the strike is resolved, etc.).
 
-All of the factors affecting the strike must be decided before making the roll (2D6). Address these factors in the following order:
+All of the factors affecting the strike must be decided during the strike sequence before making the roll (2D6). Cards that do not affect the strike may not be played during the strike sequence. Address these factors in the following order:
 
  1. The attacker may play hazard cards that affect the strike (these count toward the hazard limit against this company).
- 2. The attacker may decide to use any or all of his remaining (if any) -1 modifications due to unallocated strikes (i.e., strikes in excess of the company’s size).
- 3. A target untapped character may take a -3 modification so that he will not automatically tap.
+ 2. The attacker may decide to use any or all of his remaining (if any) -1 modifiers due to unallocated strikes (i.e., strikes in excess of the company’s size).
+ 3. A target untapped character may take a -3 modification so that he will not automatically tap following the strike sequence.
  4. The defending player may play resource cards that affect the strike (up to one card that requires skill).
 
 {: .note }
-> **Clarification:** Certain attacks state that each character in the company “faces one strike” or “is attacked” (e.g., Crebain, Watcher in the Water, etc.). Such an attack is never affected by a card or effect that modifies the number of strikes of an attack.
+> **Clarification:** The prowess modifier and maximum for a weapon is applied to a character before any other modifications. For example, the Lieutenant of Dol Guldur has a base prowess of 7 and a _Broad-headed Spear_ (+2 prowess to a maximum of 8)—he starts with a prowess of 8 before any other modifiers are applied.
 > 
-> **Clarification:** The prowess modification and maximum for a weapon is applied to a character before any other modifications. For example, Beorn has a base prowess of 7 and a Sword of Gondolin (+2 prowess to a maximum of 8)—he starts with a prowess of 8 before any other modifications are applied.
-> 
-> Similarly, the body modification and maximum for a shield or armor is applied before any other modifications.
+> Similarly, the body modification and maximum for a shield, armor, or helmet is applied before any other modifications.
+
 {: .note }
 > **Example of Combat** _\[(#/#) means (prowess/body)]_
 > 
-> You control Bilbo (1/9), Balin (4/7) and his follower Bofur (4/7) (with Healing Herbs), Beretar (5/8), and Beregond (4/8) (with an Elven Cloak). They are en route from Rivendell to Lorien. There are 4.5 characters in the company which rounds up to 5, meaning the hazard limit is 5. 
+> You control Broin (3/8), Threlin (4/7) and his follower Dogrib (4/7) with _Foul-smelling Paste_, Jerrel (5/8), and Nevido Smod (4/8) (with a _Shadow-cloak_). They are en route from Carn Dum to Geann a-Lisch. There are 5 characters in the company, meaning the hazard limit is 5. 
 > 
-> Your opponent plays Orc-raiders. He keys this hazard creature to the border-land of your company’s site path because he is mindful of Beregond’s Elven Cloak (a minor item that cancels a strike keyed to wilderness). Bilbo, a scout, taps and plays Concealment to cancel the attack. Orc-raiders is discarded. That’s 1 hazard down and potentially 4 to go. 
+> Your opponent plays _Orc-raiders_. He keys this hazard creature to one of the Wilderness in your company’s site path. Broin, a scout, taps and plays _A Nice Place to Hide_ to cancel the attack. _Orc-raiders_ is discarded. 
 > 
-> Your opponent next plays Orc-warband (second hazard) and states it is keyed to the border-land. It’s a (4/-) hazard creature with 5 strikes that receives +3 to prowess against a company that has faced an Orc attack. Even though Bilbo canceled the Orc-raiders, the company is still considered to have faced them, so the Orc-warband will be (7/-). There are 5 strikes and 5 characters, so each character will face one strike (no decisions on strike allocation can be made). Bilbo elects to face his strike first. His opponent plays Weariness of the Heart (third hazard) on Bilbo to give -1 to his prowess. This modification to his prowess is in addition to the -1 Bilbo suffers for being tapped. No other effects are played to affect the strike and Bilbo rolls the dice. The result is a 5. Bilbo’s prowess of -1 plus the dice roll is less than the prowess of the Orc-warband’s strike against Bilbo, so Bilbo is wounded. Your opponent rolls the body check. It’s a 7—Bilbo lives! 
+> Your opponent next plays _Orc-warband_ (second hazard). He states it is keyed to a Wilderness in your company's site path, becasue the _Orc-warband_ becomes a detainment attack if he keys it to a Shadow-land. It’s a (4/-) hazard creature with 5 strikes that receives +3 to prowess against a company that has faced an Orc attack. Even though Broin canceled the _Orc-raiders_, the company is still considered to have faced them, so the _Orc-warband_ will be (7/-). There are 5 strikes and 5 characters, so each character will face one strike (no decisions on strike allocation can be made). Broin elects to face his strike first. His opponent plays _Weariness of the Heart_ (third hazard) on Broin to give -1 to his prowess. This modification to his prowess is in addition to the -1 Broin suffers for being tapped. No other effects are played to affect the strike and Broin rolls the dice. The result is a 4. Broin’s prowess of 1 plus the dice roll is less than the prowess of the _Orc-warband’s_ strike against Broin, so Broin is wounded. Your opponent rolls the body check. It’s a 7—Broin lives! 
 > 
-> Beregond faces the next strike. Beregond taps and rolls a 10, defeating his strike handily. Bofur chooses to face his strike next. He a special +1 prowess bonus versus Orcs, and he chooses not to tap (-3 to his prowess). He rolls a 5 which ties the prowess of the Orc-warband strike. The strike is ineffectual. 
+> Nevido Smod faces the next strike. Nevido Smod taps and rolls a 2, falling to a successfil strike. Your opponent rolls a body check, but only gets a 4 so Nevido Smod lives. Dogrib chooses to face his strike next. He chooses not to tap and therefore gets a -3 modifications to his prowess. He rolls a 6 which ties the prowess of the _Orc-warband_ strike. The strike is ineffectual. Threlin resolves his strike next, taps, and defeats it by rolling a 7. Jerrek resolves the final strike, taps, and defeats it by rolling a 3. _Orc-warband_ is discarded. 
 > 
-> Facing the next strike, Balin taps, and rolls a 7 to defeat it. Beretar resolves the final strike, taps, and defeats it by rolling a 3. Orc-warband is discarded. 
+> Your opponent sees that one character, Dogrib, is untapped. He plays an _Elf-lord Revealed in Wrath_ (15/9) (a fourth hazard) keyed to the Shadow-land (_Doors of Night_ is not in play) and reasons that Dogrib will have to take its one very powerful strike with little chance of cancelling it. (After all, if you give up the option of assigning the one strike to your untapped character, namely Dogrib, the opponent will be able to choose, from all 5 characters, which will take the strike). Your opponent does not see what Dogrib sees. Before assigning the strike, Dogrib discards his _Foul-smelling Paste_ to heal and untap Nevido Smod, who then announces he is taking the strike. The _Elf-lord_ is keyed to the Shadow-land, so Nevido Smod taps his _Shadow-cloak_ to cancel its single strike. The _Elf-lord_ is discarded.
 > 
-> Your opponent sees that one character, Bofur, is untapped. He plays Giant (13/-) (a fourth hazard) and reasons that Bofur will have to take its one vicious strike. (After all, if you give up the option of assigning the one strike to your untapped character, namely Bofur, the opponent will be able to choose from all 5 characters which will take the strike). Your opponent does not see what Bofur sees. Before assigning the strike, Bofur taps and uses his Healing Herbs to untap Beregond, who then announces he is taking the strike. The Giant is keyed solely to double wilderness, so Beregond taps his Elven Cloak to cancel its single strike. The Giant is discarded.
-> 
-> The opponent announces he will play no more hazards and the company breathes a sigh of relief. Bilbo will be able to heal at the start of the next turn since his company will be in Lorien, a Haven.
+> The opponent announces he will play no more hazards and the company breathes a sigh of relief. Broin will be able to heal at the start of the next turn since his company will be at Grann a-Lisch, a Haven.
 
 ## 8 • CORRUPTION
 
