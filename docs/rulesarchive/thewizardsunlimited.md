@@ -870,8 +870,7 @@ You may only play hazard cards during your opponent’s movement/hazard phase. E
 Unless stated otherwise, a card is playable only if its effect applies to an existing situation, hazard, attack, etc. (i.e., you may not play a card just to discard it).
 
 {: .note }
-> **Clarification:** An automatic-attack at a company’s new site may be targeted by a hazard during the company’s movement/hazard phase (e.g., Arouse Minions, Dragon’s Desolation, etc.). Playing such a hazard does count against the hazard limit. Such a hazard may be played even if the attack ultimately will not be faced (i.e., if the company decides not to face the
-automatic-attack during the site phase). 
+> **Clarification:** An automatic-attack at a company’s new site may be targeted by a hazard during the company’s movement/hazard phase (e.g., Arouse Minions, Dragon’s Desolation, etc.). Playing such a hazard does count against the hazard limit. Such a hazard may be played even if the attack ultimately will not be faced (i.e., if the company decides not to face the automatic-attack during the site phase). 
 
 During your movement/hazard phase, both players draw cards when each company moves. If a company moves to a non-Haven site, you _may_ draw up to the number of cards indicated by the site that it _moved to_ (at least one card must be drawn); your opponent does the same. If the company moves to a Haven site, you _may_ draw up to the number of cards indicated by the site that you _moved from_ (at least one card must be drawn); your opponent does the same.
 
