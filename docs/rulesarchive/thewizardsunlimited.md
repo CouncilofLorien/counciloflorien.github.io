@@ -483,7 +483,7 @@ A company is a group of characters that move and act together. This allows chara
 
 For example, if you have 3 characters in play, the 3 characters can move separately and perhaps do more in terms of acquiring marshalling points (items, other characters, etc.); but each individual character is more vulnerable to danger. However, the same 3 characters operating as a company might acquire marshalling points more slowly, but they are safer (i.e., you risk less).
 
-Normally, a company is limited to a size of seven, but a company at a Haven site may be of any size. For these purposes, a Wizard counts as a character, but an ally does not. The size of a company is determined for each company at the beginning of the movement/ hazard phase (e.g., it remains fixed even if a character leaves the company).
+Normally, a company is limited to a size of seven, but a company at a Haven site may be of any size. For these purposes, a Wizard counts as a character, but an ally does not. The size of a company is determined for each company at the beginning of the movement/hazard phase (e.g., it remains fixed even if a character leaves the company).
 
 ### BRINGING CHARACTERS INTO PLAY
 
