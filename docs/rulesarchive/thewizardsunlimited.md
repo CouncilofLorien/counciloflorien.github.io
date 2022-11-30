@@ -594,7 +594,7 @@ A _site path_ is the sequence of regions between a site and its nearest Haven. H
 {: .note }
 > **Note:** Site paths do not direct the movement process. The site path is used to determine which hazard creatures your opponent may play against your moving company.
 > 
-> **Clarification:** A “company’s site path” during its movement /hazard phase is the site path between its site of origin and its new site. On non-Haven site cards, the site path is provided on the top left border. On Haven cards, the site path to each of the two adjacent Havens is provided in the card text.
+> **Clarification:** A “company’s site path” during its movement/hazard phase is the site path between its site of origin and its new site. On non-Haven site cards, the site path is provided on the top left border. On Haven cards, the site path to each of the two adjacent Havens is provided in the card text.
 
 {: .note }
 > **Example:** The Lonely Mountain site’s nearest Haven is the Lorien site. The symbol for Wilderness is ![](/assets/images/wilderness.svg), the symbol for Border-land is ![](/assets/images/border-land.svg). So the site path between Lorien and the Lonely Mountain is: ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg). 
