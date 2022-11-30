@@ -458,8 +458,9 @@ In _METW_ the lands of northwest Middle-earth are represented by regions. The si
 > **Note:** Site paths do not direct the movement process. The site path is used to determine which hazard creatures your opponent may play against your moving company.
 > 
 > **Note:** By using the site cards and site cards only, a company can move from any site to any other site. First, if necessary, the company moves to the nearest Haven. Then, if necessary, it moves to another Haven. Finally, it moves from that Haven to the destination site.
-{: .text-center }
 
+
+{: .text-center }
 ![](/assets/images/mele-starter-movement.svg)
 
 A company commits to moving by playing a _new site card_ (face down) during its organization phase. A company does not have to move during a given turn (i.e., it does not play a new site card).
