@@ -614,7 +614,7 @@ A _site path_ is the sequence of regions between a site and its nearest Haven. H
 > 
 > _Coastal Seas_ \[ ![](/assets/images/coastalsea.svg) ]: A region consisting primarily of open water.
 >
->_Free-domains_ \[ ![](/assets/images/free-domain.svg) ]: Very safe, civilized regions (e.g., Lindon, The White, Belfalas, Anorien, etc.).
+>_Free-domains_ \[ ![](/assets/images/free-domain.svg) ]: Very safe, civilized regions (e.g., Lindon, The Shire, Belfalas, Anorien, etc.).
 >
 > _Border-lands_ \[ ![](/assets/images/border-land.svg) ]: Less civilized regions on the border of the wilderness or shadow territory (e.g., Rohan, Lamedon, etc.).
 >
