@@ -731,16 +731,22 @@ All of the factors affecting the strike must be decided during the strike sequen
 
 ## 8 • CORRUPTION
 
-As characters adventure in Middle-earth, they are subject to temptations. They run the risk of becoming corrupted and leaving the cause of the Free Peoples (i.e., a corrupted character leaves play, a corrupted Wizard loses the game). In _The Lord of the Rings_, Saruman was corrupted by power, Radagast was corrupted by the lure of nature, Alatar and Pallando succumbed to unknown corruption and disappeared into the East.
+As Sauron's minions (i.e., your characters) operate in Middle-earth, they are subject to temptations. A character runs the risk of becoming totally corrupted and fleeing Sauron's "service" to pursue his own nefarious schemes (i.e., a corrupted character leaves play).
 
-Each character has a corruption point total. This starts at zero, but certain cards and activities will increase and decrease this total during play. Most cards that affect a character’s corruption are kept under the character’s card until they are discarded. Only one corruption card (a hazard card that gives corruption points) may be played on a given character each turn.
+Each character has a corruption point total. This starts at zero, but certain cards and activities will change this total during play. Most cards that affect a character’s corruption are kept under the character’s card until they are discarded. Only one corruption card (a hazard card that gives corruption points) may be played on a given character each turn.
 
 {: .note }
-> **Clarification:** For these purposes, a “corruption card” is a _hazard card_ that gives a character corruption points. Cards that force a corruption check but do not give corruption points (e.g., Weariness of the Heart, Ren the Unclean, etc.) are not “corruption cards.”
-> 
-> A character may have more than one corruption card, but only one may be played on him each turn. 
-> 
-> Certain corruption cards state: “Cannot be duplicated on a given character.” So, a given character may only have one of each such corruption card.
+> **Note:** Minion characters are not completely subjected to Sauron will. If they were, they would be of little use—independent, but loyaL servants can accomplish much more than slaves. So, minion characters can be corrupted by having their own individual desires and temptations conflict with the goals of their masters. A corrupted minion character has decided that it is in his own best interest to make himself scarce and head for parts unknown. Ringwraiths can not be corrnpted—they already suffered the ultimate corruption when they became Ringwraiths.
+
+### CORRUPTION CARDS
+
+For these purposes, a “corruption card” is a _hazard card_ that gives a character corruption points. A corruption card's text includes the word "_Corruption._" in italics. Cards that force a corruption check but do not give corruption points (e.g., _Weariness of the Heart_) are not “corruption cards.” A corruption card is limited as follows. 
+
+ - A character may have more than one corruption card, but only one may be played on him each turn.
+ - Certain corruption cards state: "Cannot be duplicated on a given character." So, a given character may only have one of each such corruption card.
+ - Corruption cards that may not be played on Dwarves may also not be played on Orcs.
+ - Corruption cards may not be played on Ringwraiths.
+
 
 ### CORRUPTION POINTS
 
@@ -752,18 +758,18 @@ When a card or other effect indicates that one of your characters must make a co
 
 **Nothing Happens** — If the modified result is greater than the character’s corruption point total, nothing happens. 
 
-**The Character is Discarded** — If the modified result is equal to the character’s corruption point total **or** one less than the character’s corruption point total, the character _fails_ the corruption check and you must discard the character along with any non-follower cards he controls. In this case, if the character is a Wizard, you immediately lose the game.
+**The Character Taps** — If the modified result is equal to the character’s corruption point total **or** one less than the character’s corruption point total, the is very tempted but does _not_ fail the corruption check. If the character is untapped, tap the character.
 
-**The Character is Eliminated** — If the modified result is less than character’s corruption point total by two or more, the character _fails_ the corruption check and is eliminated (i.e., remove him from play) and you must discard any non-follower cards he controls. In this case, if the character is a Wizard, you immediately lose the game.
+**The Character is Eliminated** — If the modified result is less than character’s corruption point total by two or more, the character _fails_ the corruption check and is eliminated (i.e., remove him from play) and you must discard any non-follower cards he controls.
+
+Ringwraiths never make corruption checks.
 
 {: .note }
-> **Clarification:** A character discarded due to a corruption check is **not** removed from play. He may be played again either by you (e.g., if you exhaust your play deck and draw that character) or by your opponent (e.g., if he has that character in his hand). In this case, the character stops working for the cause of the Free Peoples (at least for a while)—much as Radagast was corrupted by the physical nature of Middle-earth (i.e., he went “native”).
-> 
-> **Clarification:** A character eliminated due to a corruption check is removed from play. He may not be played again by either you or by your opponent. In this case, the character is permanently lost to the Free Peoples—much as Saruman was corrupted in _The Lord of the Rings_.
+> **Clarification:** A character eliminated due to a corruption check is removed from active play. He may not be played again by either you or by your opponent. In this case, the character is permanently lost to Sauron.
 
 ### CORRUPTION CHECK MODIFIERS
 
-Certain characters receive modifications to corruption checks, and certain cards may give modifications to a corruption check. Modifications to corruption checks are printed in the lower right of the appropriate card. A plus or a minus sign indicates a **modification** to any corruption checks rather than corruption points.
+Certain characters receive modifiers to corruption checks, and certain cards may give modifiers to a corruption check. Modifiers to corruption checks are printed in the lower right of the appropriate card. A plus or a minus sign indicates a **modifier** to any corruption checks a character makes (rather than corruption points).
 
 {: .note }
 > **Clarification:** There are two different values that affect corruption checks:
@@ -772,22 +778,32 @@ Certain characters receive modifications to corruption checks, and certain cards
 >  
 >  Both values appear in the lower right of certain cards.
 
+### REMOVING CORRUPTION CARDS
+
+A character may choose to ignore the restriction that he tap to remove a corruption card (as printed on a corruption card), and suffer a -3 penalty to the dice roll to remove it. This means a character can remain untapped and still attempt to remove a corruption card (the roll is modified by -3), or that he can attempt to remove a corruption card even if he is already tapped or wounded (the roll is modified by -3).
+
+Each turn. a character may only make one removal attempt for each corruption card if he uses the -3 modifier.
+
 {: .note }
-> **Example:** (CP = Corruption Points) Using the _Middle-earth: The Wizards_ terms, lets take a look at Frodo at several points during the action in _The Lord of the Rings_ between the Shire and Lorien. Frodo has a special ability: he has a corruption check modifier of +4 (as provided in the bottom right corner of his card). 
+> **Example:** At the beginning of his organization phase, Tarcil has three corruption cards: _Lure of Nature_, _Lure of Expedience_, and _Lure of the Senses_. He taps and rolls to attempt to remove the _Lure of the Senses_; his roll is an 8, so the card is removed (greater than 6 was required). If instead, Tarcil had not tapped to attempt to remove _Lure of the Senses_, he would have failed (he would have needed to roll greater than a 9).
 > 
-> When Frodo, Sam, Merry, and Pippin flee the Shire, Frodo only has one item: The One Ring (it gives Frodo 6 corruption points). Suppose Frodo has to make a corruption check (roll 2D6) in this situation: if a 2 is rolled, the modified roll is 6 (2 + 4 for his special ability) and Frodo is discarded. Any other roll would have no effect on Frodo.
+> He then rolls to attempt to remove _Lure of Nature_; his roll is a 6 modified by -3 for a net result of 3, so the card is not removed (greater than 4 was required). Finally, he rolls to attempt to remove _Lure of Expedience_; his roll is a 9 modified by -3 for a net result of 6. This is greater than the 5 that is required, so the card is removed.
+
+{: .note }
+> **Example:** (CP = Corruption Point) Let us look at Layos traveling across Middle-earth. He starts out carrying a _Blazon of the Eye_, so he only has 1 CP when he leaves Carn Dum. For this example assume Layos is traveling with other Men who take care of any attacks played on his company.
 > 
-> When Tom Bombadil rescues Frodo and company in the Barrow Downs, Frodo receives a Dagger of Westernesse (1 CP). So Frodo’s CP total becomes 7. He would be discarded if he makes a corruption check roll of 2 or 3 (if there are no other modifications).
+> First he heads to the Dunnish Clan-hold. On the way there he gets a _Lure of Expedience_ played on him, which gives him 2 more CPs for a total of 3. While at the Dunnish Clan-hold he taps to plays _High Helm_. Not only does this raise his CP total to 5, but it also triggers a corruption check from the _Lure of Expedience_. Layos rolls a 6, which is greater than his CP total of 5, so he is fine.
 > 
-> On the way to Rivendell, Frodo is wounded by a Morgul-knife (4 CPs)—his CP total is now 11. If forced to make a corruption check, he is discarded on a roll of 6 or 7 and he is eliminated on a roll of 5 or less. 
+> During the organization phase Layos attempts to remove the _Lure of Expedience_. Since he is planning to return to Cam Dum, he is not worried about being tapped. So, he taps and rolls an 8, easily better than the 5 he needed to succeed. His CP total drops to 3.
 > 
-> Finally, he reaches Rivendell and the Morgul-knife card is removed, dropping his CP total back to 7. However, he is then affected by Lure of the Senses (a hazard card giving 2 CPs and requiring a corruption check each untap phase at a Haven). So during his next untap phase, he must make a corruption check with a CP total of 9—he is discarded on a roll of 4 or 5 and is eliminated on a roll of 2 or 3. 
+> On the way back to Carn Dum, Layos gets a _Lure of Nature_ played on him, bringing him back up to 5 CPs. Since there are three Wildernesses in the site path between Dunnish Clan-hold and Carn Dum, Layos must make three corruption checks. On the first two he rolls a 7 and a 12, easily beating his corruption point total. On the third check he rolls a 4. Since this is one less than his CP total, he would normally tap. However, he is already tapped, so there is no effect.
 > 
-> Next, Frodo gets rid of the Lure of the Senses (by rolling greater than 6) and he transfers his Dagger of Westernesse. In addition, Bilbo gives him: Sting (1 CP) and The Mithril-coat (2 CPs). So Frodo’s CP total is 9 (6+1+2). If forced to make a corruption check, he is discarded on a roll of 4 or 5 and is eliminated on a roll of 2 or 3. 
+> At Cam Dum he tries to remove the _Lure of Nature_ without tapping. He rolls a 7 modified by -3 for not tapping—this is not greater than 4, so the _Lure of Nature_ is not removed. Layos would like to tap and try again; but, since he tried without tapping, he cannot make another attempt.
 > 
-> Fortunately, the Fellowship of the Ring is formed (see the company in the example on [page 21](/rules-archive/the-wizards-unlimited#direct-influence))—we will assume that two Fellowship cards (+1 to prowess and corruption checks for all characters in the company) are played initially. 
+> His company moves to Dol Guldur. The hazard player plays a _Lure of the Senses_ on Layos bringing his CP total up to 7.
 > 
-> So Frodo leaves Rivendell with a CP total of 9 and corruption check modifiers totaling +6 (+4 normal +2 for Fellowship). Thus, if forced to make a corruption check (without other modifications), he will be discarded on a roll of 2 or 3.
+> At the beginning of his next turn, Layos is ready to tap to attempt to remove the _Lure of the Senses_, and then the _Lure of Narure_ without tapping. Unfortunately, he first has to make a corruption check at the end of the Untap phase because of his _Lure of the Senses_. He rolls a 5. Since this is 2 Jess than his CP total, he is eliminated from the game and his _Blazon of the
+Eye_ and _High Helm_ are discarded.
 
 ## 9 • INFLUENCE
 
