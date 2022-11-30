@@ -405,7 +405,8 @@ During your organization phase, you may perform **one and only one** of the foll
  - You may play a Ringwraith card if you do not have one in play. This is called "Revealing Your Ringwraith." You may **not** reveal a Ringwraith if your opponent has already revealed that Ringwraith. You must place your Ringwraith at his home site or at Minas Morgul. You need not control a Ringwraith with influence—he represents you, the player. While revealing your Ringwraith is an advantage, it also carries with it the danger of losing the game by having your Ringwraith eliminated.
 
 When you play a character, you may place him into a company already at his arrival site **or** he may become a new company (consisting of one character). In the second case, you must place the arrival site card next to the character played. If the appropriate site card is not available, you may not play the character.
- 
+
+{: .note }
 > **Clarification:** Playing a character does **not** tap a site.
 
 Most characters are unique. So if you already have a unique character in play, your opponent may not play the same character. Similarly, if a unique character has been eliminated, he may not be brought
