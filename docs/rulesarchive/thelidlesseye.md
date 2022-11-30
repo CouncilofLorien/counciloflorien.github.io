@@ -807,38 +807,56 @@ Eye_ and _High Helm_ are discarded.
 
 ## 9 • INFLUENCE
 
-You have a pool of general influence. Your characters and Wizard have direct influence. These two forms of influence can control and affect characters (see [pages 18-20](rules-archive/the-wizards-unlimited#5--characters--companies)) and factions.
+You have a pool of general influence. Your characters have direct influence. These two forms of influence can control and affect characters (see [pages 18-20]()) and factions.
 
 Your _unused general influence_ is equal to 20 minus the sum of the mind attributes of your non-follower characters in play (i.e., do not count your followers).
 
 A character’s _unused direct influence_ is equal to his direct influence attribute minus the sum of the mind attributes of his followers. All characters have a direct influence attribute of at least zero, so any character has unused direct influence of at least zero.
 
 {: .note}
-> **Note:** In the Standard Game, direct influence can be used to attempt to interfere with your opponent’s control of his characters, followers, factions, allies, and items (see [pages 58-60](/rules-archive/the-wizards-unlimited#9--influence-1)).
-### BRINGING AN ALLY INTO PLAY
-
-You can automatically bring an ally into play by tapping one of your characters. The character must be at the site indicated on the ally’s card. Every ally is controlled by the character that tapped to bring it into play; i.e., it must be placed under and remain with that character’s card. An ally does not count against its controlling character’s direct influence or your general influence.
+> **Note:** In the Standard Game, direct influence can be used to attempt to interfere with your opponent’s control of his characters, followers, factions, allies, and items (see [page 64]()).
 
 ### BRINGING A FACTION INTO PLAY
 
-In order to play a faction card, you must tap one of your characters that is at the “site” indicated on the faction’s card. Then you must make an influence check. Make a roll (2D6), add your character’s unused direct influence, and add any appropriate modifications (any applicable _standard modifications_ from the faction card and from any other cards played). All modification cards must be played before making the roll (2D6).
+In order to play a faction card, you must tap one of your characters that is at the “site” indicated on the faction’s card. Then you must make an influence check. Make a roll (2D6), add your character’s unused direct influence, and add any appropriate modifications (any applicable _standard modifications_ from the faction card and from any other cards played). All influence check modifier cards must be played before making the roll (2D6).
 
-If the modified result is greater than the value required on the faction card, you place the faction in your play area (it now counts towards your marshalling point total). Otherwise, you discard the faction card. Once a faction is brought into play, it is not controlled by any specific character and it does not count against general or direct influence.
+If the modified result is greater than the value required on the faction card, you place the faction in your marshalling point pile (it now counts towards your marshalling point total). Otherwise, you discard the faction card. Once a faction is brought into play, it is not controlled by any specific character and it does not count against general or direct influence.
+
+<details markdown="block">
+  <summary>
+    <img src="/assets/images/scroll.svg">
+  </summary>
+{: .counsel }
+> In _METW_ factions are placed in the play area. This rule in _MELE_ states that factions are placed in your marshalling point pile, not the play area. In Section 2 of _MELE_ there is a diagram showing that factions are in play, not in the marshalling point pile and section 10 states that factions are played into the play area. The _Challenge Deck_ and _The Balrog_ Rules Summary also state that factions are placed into the marshalling point pile. However, some of the cards that are played on factions (e.g., Trouble on All Borders, No Escape from my Magic, etc.) specifically state "a faction in play."
+> 
+> The reason that factions were played into the play area in the first place is that the Designers hoped to make more use out of factions. There was an expansion in development called _War Hosts_ which would allow factions to battle across the map. However, these mechanics were deemed to be too clunky in a game focusing on small groups of companies traveling the map. _Dark Minions_ was released instead and _War Hosts_ got pushed back until it was abandoned. 
+> 
+> Presumably the abandonment of _War Hosts_ meant that factions could simply go into the MP pile. However, the MP pile is out of play and so cards cannot be played on "factions in play." This led to rules changes in Section 2. Unlike in _METW_ where the MP pile and out-of-play pile are out of play, _MELE_ makes a distinction between "inactive" and "active" play. However, "inactive" play is never defined. 
+> 
+> In the end, it appears to be the same result achieved a different way. At least, ICE has never defined any mechanical difference between the _METW_ way and the _MELE_ way besides which place factions end up when played.
+</details>
+ 
+### STANDARD MODIFICATIONS
+
+Most faction cards list some “standard modifications” to the influence check based only upon what other factions are already in play for both players. 
 
 {: .note }
-> **Clarification:** Most faction cards list some “standard modifications” to the influence check based only upon the race of the character that was tapped to make the influence check. Similarly, certain characters have special modifications to influence checks. Such a modification only applies if it belongs to the character that was tapped to make the influence check.
+> **Note:** Some standard modifications are given for factions not included in _MELE_. Later products will include these factions.
+> 
+> **Clarification:** Certain characters have special modifications to influence checks. Such a modification only applies if it belongs to the character that was tapped to make the influence check.
+
 {: .note }
-> **Example:** Suppose, during your site phase, you have the Knights of Dol Amroth in your hand and a company at Dol Amroth—the company contains Imrahil. He has no followers, so his unused direct influence is 2. You tap Imrahil to attempt to bring the Knights into play. 
+> **Example:** During your site phase, you have Lieutenant of Morgul in play in a company at Lossadan Cairn. You also have _Ice-Orcs_ in your hand, and your opponent has Wargs of Forochel in play. Lieutenant of Morgul has no followers, so his unused direct influence is 2.
 > 
-> You make your influence check roll (2D6), and the result is 5. This roll is modified by:
+> You tap Lieutenant of Morgul to attempt to bring the _Ice-orcs_ into play. You make your influence check roll (2D6), and the result is 5. This roll is modified by:
+> - Lieutenant of Morgul's unused direct influence: +2
+> - +3 — Lieutenant of Morgul has a special ability: his direct influence is increased by +3 against Orc factions.
+> - A standard modification of +2 because the _Wargs of Forochel_ are already in play, as listed on the _Ice-Orcs_ card.
 > 
-> - Imrahil’s unused direct influence: +2.
-> - +2 — Imrahil has a special ability: his direct influence is increased by +2 against the Knights of Dol Amroth.
-> - A standard modification of +1, because Imrahil is a Dunadan and a standard modification of +1 is listed on the Knights of Dol Amroth card. 
+> So the modified result is 11 (= 5+2+3+1). Since this is greater than 10 (the number required by the faction card), the _Ice-Orcs_ are successfully brought into play and the site taps.
 > 
-> So the modified result is 10 (=5+2+2+1). Since this is greater than 8 (the number required by the faction card), the Knights of Dol Amroth are successfully brought into play. 
-> 
-> If you had rolled a 3, your modified result would have been 8 (=3+2+2+1), and you would have had to discard the faction card.
+> If you had rolled a 3, your modified result would have been 9 (= 3+2+3+1), and you would have had to discard the faction and Lossadan Cairn would not have tapped.
+
 ## 10 • PLAYING AND DRAWING CARDS
 
 You may only play hazard cards during your opponent’s movement/hazard phase. Except for resource long-events, you may play resource cards anytime during your own turn unless specifically prohibited by the rules or the cards themselves.
