@@ -152,6 +152,7 @@ Marshalling  points are printed on the top left corner of the cards that award t
 > | &emsp; Orc-liquor | 2 | 0 |
 >      
 > | Nick Controls: | CPs | MPs |
+> | :------------- | ---: | ---: |
 > | _Indur the Ringwraith_ (controls:) | Total CPs: 0 | 0 |
 > | _Ciryaher_ (controls:) | Total CPs: 0 | 2 |
 > | _Tarcil_ (controls:) | Total CPs: 5 | 2 |
@@ -453,53 +454,59 @@ After being revealed, a Ringwraith operates like any other character except that
 In _METW_ the lands of northwest Middle-earth are represented by regions. The site cards represent places that companies can visit within those regions. Except for a moving company during its movement/hazard phase, each company always has a _current site card_ associated with it—the company is located at that site.
 
 {: .note }
-> **Clarification:** The specific region cards are not used with the Starter Rules. Remove these cards from your location deck if you are not using the Standard Rules. Region cards are **not** included in starter decks.
-> 
 > **Note:** Site paths do not direct the movement process. The site path is used to determine which hazard creatures your opponent may play against your moving company.
 > 
-> **Note:** By using the site cards and site cards only, a company can move from any site to any other site. First, if necessary, the company moves to the nearest Haven. Then, if necessary, it moves to another Haven. Finally, it moves from that Haven to the destination site.
-
-
-{: .text-center }
-![](/assets/images/mele-starter-movement.svg)
+> **Note:** By using the site cards and site cards only, a company can move from any site to any other site. First, if necessary, the company moves to the nearest Darkaven. Then, if necessary, it moves to other Darkhavens. Finally, it moves from that Haven to the destination site.
 
 A company commits to moving by playing a _new site card_ (face down) during its organization phase. A company does not have to move during a given turn (i.e., it does not play a new site card).
 
-At the beginning of its movement/hazard phase, a moving company current site card becomes its _site of origin_—the company is considered to be en route to its new site card (i.e., the company is moving).
+At the beginning of its movement/hazard phase, a moving company's current site card becomes its _site of origin_—the company is considered to be en route to its new site card (i.e., the company is moving).
 
 At the end of a moving company’s movement/hazard phase (before players return to their hand sizes), its site of origin is removed (discard if tapped; otherwise, return it to your location deck) and the new site card becomes the company’s current site card.
 
 {: .note }
 > **Clarification:** Some cards can interrupt this process by forcing a company to return to its site of origin.
+
+{: .text-center }
+![](/assets/images/mele-starter-movement.svg)
  
-#### Moving From a Non-Haven Site
+#### Moving From a Non-Darkhaven Site
 
-If the company’s site of origin is a non-Haven site, the new site card _must_ be the Haven listed as the nearest Haven on the site of origin card (i.e., the company can move back to its nearest Haven).
+If the company’s site of origin is a non-Darkhaven site, the new site card _must_ be the Darkhaven listed as the nearest Darkhaven on the site of origin card (i.e., the company can move back to its nearest Darkhaven).
 
-#### Moving From a Haven Site
+#### Moving From a Darkhaven Site
 
-If the company’s site of origin is a Haven, the new site card must meet one of the following requirements:
- - If the new site card is not another Haven, it must list the site of origin as its nearest Haven (i.e., the company can move to any site that has the site of origin as the company’s nearest Haven).
- - If the new site card is another Haven, it must give a site path to the site of origin (i.e., the company can move to one of two adjacent Havens; each Haven is adjacent to two other Havens).
+If the company’s site of origin is a Darkhaven, the new site card must meet one of the following requirements:
+ - If the new site card is not another Darkhaven, it must list the site of origin as its nearest Darkhaven (i.e., the company can move to any site that has the Darkhaven the company is at currently as the site's nearest Darkhaven).
+ - If the new site card is another Darkhaven, it must give a site path to the Darkhaven (i.e., the company can move to one of its adjacent Darkhavens; each Darkhaven is adjacent to either one or two other Darkhavens).
 
 {: .note }
-> **Clarification:** If a company is not moving, no cards are drawn. If a company is moving to a non-haven site, you _may_ draw up to the # of cards indicated by the site that it is _moving to_ (at least one card must be drawn); your opponent does the same. If a company is moving to a haven site, you _may_ draw up to the # of cards indicated by the site that it is _moving from_ (at least one card must be draw); your opponent does the same.
+> **Clarification:** If a company is not moving, no cards are drawn. If a company is moving to a non-Darkhaven site, you _may_ draw up to the # of cards indicated by the site that it is _moving to_ (at least one card must be drawn); your opponent does the same. If a company is moving to a Darkhaven site, you _may_ draw up to the # of cards indicated by the site that it is _moving from_ (at least one card must be drawn); your opponent does the same.
 > 
 > **Clarification:** To summarize the movement process:
 > - Except for a moving company during its movement/hazard phase, each company is always at a specific site, called its _current site_.
-> - A company wanting to move to a _new site_ plays a new site card face down beside its current site card by the end of its organization phase. A company can only move: from a non-Haven site to its “Nearest Haven,” from a Haven site to one of its two “adjacent Havens,” or from a Haven site to a non-Haven site that lists that Haven as its “Nearest Haven.”
+> - A company wanting to move to a _new site_ plays a new site card face down beside its current site card by the end of its organization phase. A company can only move: from a non-darkhaven site to its “Nearest Haven,” from a Darkhaven site to one of its “adjacent Darkhavens,” or from a Darkhaven site to a non-Darkhaven site that lists that Darkhaven as its “Nearest Darkhaven.”
 > - At the beginning of its movement/hazard phase, a moving company’s new site card is revealed and its current site card becomes its _site of origin_.
-> - At the end of its movement/hazard phase, the site of origin is removed and the moving company’s new site card becomes the company’s current site card.
+> - At the end of its movement/hazard phase, the site of origin is removed and the moving company’s new site card becomes the company’s current site card (unless the company is forced to return to its site of origin).
 > 
 > **Suggestion:** To help decide where a company should move, look at the resource cards in your hand. Then decide to which of your available sites to move. For example, if you have a major item, go to a site where a major item can be played.
+
 {: .note }
-> **Example:** Jessica’s company is in Bree (i.e., its current site) and wants to go to Thranduil’s Halls to try and bring the Wood-elves faction into play. Bree’s nearest Haven is Rivendell, while Thranduil’s Halls nearest Haven is Lorien. 
+> **Example:** Wendy’s company is at Barad-dur (i.e., its current site) and wants to go to The Lonely Mountain to try and bring the Smaug Aroused faction into play. Barad-dur’s nearest Darkhaven is Minas Morgul, while The Lonely Mountain's nearest Darkhaven is Dol Guldur. 
 > 
-> First, it takes one turn to move from Bree to Rivendell using the site path, ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg), indicated on the Bree site card. Jessica just plays the Rivendell site card as her new site card during her organization phase, and she removes the Bree site card at the end of her movement/hazard phase.
+> First, it takes one turn to move from Barad-dur to Minas Morgul using the site path, ![](/assets/images/dark-domain.svg) ![](/assets/images/shadow-land.svg), indicated on the Barad-dur site card. Wendy just plays the Minas Morgul site card as her new site card during her organization phase, and she removes the Barad-dur site card at the end of her company's movement/hazard phase.
 > 
-> During the next turn, the company may move from Rivendell to Lorien using the site path, ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg), indicated on both the Rivendell and Lorien site cards. Jessica plays the Lorien site card during her organization phase, and she removes the Rivendell site card at the end of her movement/hazard phase. 
+> During her next turn, the company may move from Minas Morgul to Dol Guldur using the site path, ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg) ![](/assets/images/dark-domain.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg), indicated on both the Minas Morgul and Dol Guldur site cards. Wendy plays the Dol Guldur site card during her organization phase, and she removes the Minas Morgul site card at the end of her company's movement/hazard phase. 
 > 
-> Finally, the company takes one turn to move from Lorien to Thranduil’s Halls using the site path,  ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/border-land.svg), indicated on the Thranduil’s Halls site card. Jessica plays the Thranduil’s Halls site card during her organization phase, and she removes the Lorien site card at the end of her movement/hazard phase.
+> Finally, the company takes one turn to move from Dol Guldur to The Lonely Mountain using the site path, ![](/assets/images/dark-domain.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg), indicated on The Lonely Mountain site card. Wendy plays The Lonely Mountain site card during her organization phase, and she removes the Dol Guldur site card at the end of her company's movement/hazard phase.
+
+### MOVING YOUR RINGWRAITH'S COMPANY
+
+The company containing your Ringwraith may freely move from Darkhaven to Darkhaven and from a non-Darkhaven site to a Darkhaven. However, in order to move from a Darkhaven to a non-Darkhaven site, a Ringwraith must have a special resource card: a _Black Rider_ card, a _Fell Rider_ card, or a _Heralded Lord_ card (i.e., the Ringwraith must be in Black Rider mode, in Fell Rider mode, or in Heralded Lord Mode).
+
+{: .note }
+> **Example:** Suppose Ren the Ringwraith is at Barad-dur and wants to move to The Lonely Mountain as outlined in the previous example. On his first turn, he moves to Minas Morgul—he does not need a special card because he is moving from a non-Darkhaven site to a Darkhaven. On his second turn, he moves from Minas Morgul to Dol Guldur as outlined—he does not need a special card because he is moving from a Darkhaven to a Darkhaven. On his third turn, he plays a _Black Rider_ card in order to move from Dol Guldur (a Darkhaven) to The Lonely Mountain (a non-Darkhaven).
+
 ### SITE PATHS
 
 There are six types of regions and six types of sites:
@@ -515,36 +522,35 @@ Dark-domains  | \[ ![](/assets/images/dark-domain.svg) ]  |
 
 | Site Type | Symbol |
 | :--- | :--- | 
-Havens  |  \[ ![](/assets/images/free-haven.svg) ]
+Darkhavens  |  \[ ![](/assets/images/dark-haven.svg) ]
 Free-holds  | \[ ![](/assets/images/free-hold.svg) ]
 Border-holds  | \[ ![](/assets/images/border-hold.svg) ]
 Ruins & Lairs  | \[ ![](/assets/images/ruinlair.svg) ]
 Shadow-holds  | \[ ![](/assets/images/shadow-hold.svg) ]
 Dark-holds |  \[ ![](/assets/images/dark-hold.svg) ]
 
-A _site path_ is the sequence of regions between a site and its nearest Haven. However, each region in the sequence is only indicated by its type, not by its name. Each non-Haven site card has a site path on it. Each Haven site card has two site paths, but each of those two paths gives the sequence of regions between the Haven and one of the two Havens nearest to it.
+A _site path_ is the sequence of regions between a site and its nearest Darkhaven. However, each region in the sequence is only indicated by its type, not by its name. Each non-Darkhaven site card has a site path on it. Each Darkhaven site card has two site paths, but each of those two paths gives the sequence of regions between the Darkhaven and one of the two Darkhavens nearest to it.[^twopaths]
 
 {: .note }
-> **Note:** Site paths do not direct the movement process. The site path is used to determine which hazard creatures your opponent may play against your moving company.
+> **Note:** Site paths do not direct the movement process. The site path is used to determine which hazard creatures your opponent may play against your moving company (see [page 46]()).
 > 
-> **Clarification:** A “company’s site path” during its movement /hazard phase is the site path between its site of origin and its new site. On non-Haven site cards, the site path is provided on the top left border. On Haven cards, the site path to each of the two adjacent Havens is provided in the card text.
+> **Clarification:** A “company’s site path” during its movement/hazard phase is the site path between its site of origin and its new site. On non-Darkhaven site cards, the site path is provided on the top left border. On Darkhaven cards, the site path to each of the two adjacent Darkhavens is provided in the card text.[^twopaths]
+
 {: .note }
-> **Example:** The Lonely Mountain site’s nearest Haven is the Lorien site. The symbol for Wilderness is ![](/assets/images/wilderness.svg), the symbol for Border-land is ![](/assets/images/border-land.svg). So the site path between Lorien and the Lonely Mountain is: ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg). 
+> **Example:** The Lonely Mountain site’s nearest Darkhaven is the Dol Guldur site. The symbol for Wilderness is ![](/assets/images/wilderness.svg), the symbol for Dark-domain is ![](/assets/images/dark-domain.svg). So the site path between Dol Guldur and the Lonely Mountain is: ![](/assets/images/dark-domain.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg). 
 > 
-> The regions between these two sites are Wold & Foothills (Wilderness), Anduin Vales (Border-lands), Woodland Realm (Border-land), and Northern Rhovanion (Wilderness).
+> The regions between these two sites are Southern Mirkwood (Dark-domain), Heart of Mirkwood (Wilderness), and Northern Rhovanion (Wilderness).
+
 {: .note }
-> **Example:** In the Example of movement from Bree to Thranduil’s Halls on [page 26](/rules-archive/the-wizards-unlimited#moving-from-a-haven-site), the first site path used was from Bree to Rivendell: ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg). During that movement/hazard phase, Jason (Jessica’s opponent) can play hazard creatures keyed to wilderness (![](/assets/images/wilderness.svg)), double wilderness (![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg)), and Havens (the new site).
-> 
-> During the next turn, the company uses the site path from Rivendell to Lorien: ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg). During that movement/hazard phase, Jason can play hazard creatures keyed to wilderness ( ![](/assets/images/wilderness.svg) ), double wilderness ( ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ), border-lands ( ![](/assets/images/border-land.svg) ), and Havens (the new site).
-> 
-> Finally, the company takes one turn to move from Lorien to Thranduil’s Halls using the site path, ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/border-land.svg). Jason can play hazard creatures keyed to wilderness ( ![](/assets/images/wilderness.svg) ), border-lands ( ![](/assets/images/border-land.svg) ), and free-holds (the new site).
+> **Example:** In the Example of movement from Barad-dur to The Lonely Mountain on [page 25](), the first site path used was from Barad-dur to Minas Morgul: ![](/assets/images/dark-domain.svg) ![](/assets/images/shadow-land.svg). During that movement/hazard phase, Nick (Wendy’s opponent) can play hazard creatures keyed to Dark-domains (![](/assets/images/dark-domain.svg)), Shadow-lands (![](/assets/images/shadow-land.svg)), and Darkhavens (the new site). During the next turn, the company uses the site path from Minas Morgul to Dol Guldur: ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg) ![](/assets/images/dark-domain.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg). During that movement/hazard phase, Nick can play hazard creatures keyed to Shadow-lands (![](/assets/images/shadow-lands.svg)), double Shadow-lands (![](/assets/images/shadow-lands.svg) ![](/assets/images/shadow-lands.svg)), Dark-domains (![](/assets/images/dark-domains.svg)), double Dark-domains (![](/assets/images/dark-domains.svg) ![](/assets/images/dark-domains.svg)) and darkhavens (the new site). Finally, the company takes one turn to move from Dol Guldur to The Lonely Mountain using the site path, ![](/assets/images/shadow-land.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg). Nick can play hazard creatures keyed to Wilderness (![](/assets/images/wilderness.svg)), double Wilderness (![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg)), Shadow-lands (![](/assets/images/border-land.svg)), double Shadow-lands (![](/assets/images/border-land.svg) ![](/assets/images/border-land.svg)), and Ruins & Lairs (the new site).
+
 {: .note }
 > {: .text-center }
 > #### Region Types
 > 
 > _Coastal Seas_ \[ ![](/assets/images/coastalsea.svg) ]: A region consisting primarily of open water.
 >
->_Free-domains_ \[ ![](/assets/images/free-domain.svg) ]: Very safe, civilized regions (e.g., Lindon, The White, Belfalas, Anorien, etc.).
+>_Free-domains_ \[ ![](/assets/images/free-domain.svg) ]: Civilized regions (e.g., Lindon, Anorien, etc.).
 >
 > _Border-lands_ \[ ![](/assets/images/border-land.svg) ]: Less civilized regions on the border of the wilderness or shadow territory (e.g., Rohan, Lamedon, etc.).
 >
@@ -557,17 +563,18 @@ A _site path_ is the sequence of regions between a site and its nearest Haven. H
 > {: .text-center }
 > #### Site Types
 >
-> _Havens_ \[ ![](/assets/images/free-haven.svg) ]: Very safe sites of rest and healing (e.g., Rivendell, Grey Havens, Edhellond, and Lorien).
+> _Darkhavens_ \[ ![](/assets/images/dark-haven.svg) ]: Sites of rest and healing (e.g., Minas Morgul, Dol Guldur, Carn Dum, and Geann a-Lisch).
 > 
->_Free-holds_ \[ ![](/assets/images/free-hold.svg) ]: Sites of safety, but still dangerous due to assassins, traitors, etc. (e.g., Minas Tirith, Edoras, etc.).
+>_Free-holds_ \[ ![](/assets/images/free-hold.svg) ]: Dangerous sites for minions of Sauron (e.g., Minas Tirith, Edoras, etc.).
 >
->_Border-holds_ \[ ![](/assets/images/border-hold.svg) ]: Sites of relative safety, but still dangerous due to bandits, assassins, traitors, etc. (e.g., Bree, Lake-town, etc.).
+>_Border-holds_ \[ ![](/assets/images/border-hold.svg) ]: Relatively danerous sites for minions of Sauron (usually in Border regions;[^borderregions] e.g., Bree, Lake-town, etc.).
 > 
 > _Ruins & Lairs_ \[ ![](/assets/images/ruinlair.svg) ]: Deserted sites often inhabited by dangerous creatures (e.g., the Lonely Mountain, Barrow-downs, etc.).
 >
 >_Shadow-holds_ \[ ![](/assets/images/shadow-hold.svg) ]: Relatively deserted sites often inhabited by dangerous creatures and Shadow-forces (e.g., Goblin-gate, Mount Gram, etc.).
 >
->_Dark-holds_ \[ ![](/assets/images/dark-hold.svg) ]: Very dangerous sites with heavy concentrations of Shadow-forces (Dol Guldur, Barad-dur, Minas Morgul, etc.).
+>_Dark-holds_ \[ ![](/assets/images/dark-hold.svg) ]: Sites with heavy concentrations of Shadow-forces (Dol Guldur, Barad-dur, Minas Morgul, etc.).
+
 ## 7 • COMBAT
 
 Combat normally occurs when one of three things happen:
@@ -688,6 +695,7 @@ All of the factors affecting the strike must be decided before making the roll (
 > Your opponent sees that one character, Bofur, is untapped. He plays Giant (13/-) (a fourth hazard) and reasons that Bofur will have to take its one vicious strike. (After all, if you give up the option of assigning the one strike to your untapped character, namely Bofur, the opponent will be able to choose from all 5 characters which will take the strike). Your opponent does not see what Bofur sees. Before assigning the strike, Bofur taps and uses his Healing Herbs to untap Beregond, who then announces he is taking the strike. The Giant is keyed solely to double wilderness, so Beregond taps his Elven Cloak to cancel its single strike. The Giant is discarded.
 > 
 > The opponent announces he will play no more hazards and the company breathes a sigh of relief. Bilbo will be able to heal at the start of the next turn since his company will be in Lorien, a Haven.
+
 ## 8 • CORRUPTION
 
 As characters adventure in Middle-earth, they are subject to temptations. They run the risk of becoming corrupted and leaving the cause of the Free Peoples (i.e., a corrupted character leaves play, a corrupted Wizard loses the game). In _The Lord of the Rings_, Saruman was corrupted by power, Radagast was corrupted by the lure of nature, Alatar and Pallando succumbed to unknown corruption and disappeared into the East.
@@ -700,6 +708,7 @@ Each character has a corruption point total. This starts at zero, but certain ca
 > A character may have more than one corruption card, but only one may be played on him each turn. 
 > 
 > Certain corruption cards state: “Cannot be duplicated on a given character.” So, a given character may only have one of each such corruption card.
+
 ### CORRUPTION POINTS
 
 A character’s corruption point total can be determined at any time by summing the corruption point values of: the corruption cards under his card **and** any other cards he controls (e.g., usually items).
@@ -718,6 +727,7 @@ When a card or other effect indicates that one of your characters must make a co
 > **Clarification:** A character discarded due to a corruption check is **not** removed from play. He may be played again either by you (e.g., if you exhaust your play deck and draw that character) or by your opponent (e.g., if he has that character in his hand). In this case, the character stops working for the cause of the Free Peoples (at least for a while)—much as Radagast was corrupted by the physical nature of Middle-earth (i.e., he went “native”).
 > 
 > **Clarification:** A character eliminated due to a corruption check is removed from play. He may not be played again by either you or by your opponent. In this case, the character is permanently lost to the Free Peoples—much as Saruman was corrupted in _The Lord of the Rings_.
+
 ### CORRUPTION CHECK MODIFIERS
 
 Certain characters receive modifications to corruption checks, and certain cards may give modifications to a corruption check. Modifications to corruption checks are printed in the lower right of the appropriate card. A plus or a minus sign indicates a **modification** to any corruption checks rather than corruption points.
@@ -728,6 +738,7 @@ Certain characters receive modifications to corruption checks, and certain cards
 >  - _Corruption point values_ never have a plus or minus sign. The sum of all such values is the character’s corruption point total for the purposes of a corruption check. 
 >  
 >  Both values appear in the lower right of certain cards.
+
 {: .note }
 > **Example:** (CP = Corruption Points) Using the _Middle-earth: The Wizards_ terms, lets take a look at Frodo at several points during the action in _The Lord of the Rings_ between the Shire and Lorien. Frodo has a special ability: he has a corruption check modifier of +4 (as provided in the bottom right corner of his card). 
 > 
@@ -744,6 +755,7 @@ Certain characters receive modifications to corruption checks, and certain cards
 > Fortunately, the Fellowship of the Ring is formed (see the company in the example on [page 21](/rules-archive/the-wizards-unlimited#direct-influence))—we will assume that two Fellowship cards (+1 to prowess and corruption checks for all characters in the company) are played initially. 
 > 
 > So Frodo leaves Rivendell with a CP total of 9 and corruption check modifiers totaling +6 (+4 normal +2 for Fellowship). Thus, if forced to make a corruption check (without other modifications), he will be discarded on a roll of 2 or 3.
+
 ## 9 • INFLUENCE
 
 You have a pool of general influence. Your characters and Wizard have direct influence. These two forms of influence can control and affect characters (see [pages 18-20](rules-archive/the-wizards-unlimited#5--characters--companies)) and factions.
@@ -1520,3 +1532,5 @@ Dark-domains  |  ![](/assets/images/dark-domain.svg)
 ---
 
 [^bullets]: These online rules are not formatted with a line of bullets as a sidebar. See the pdf version of the rules to review this feature.
+[^twopaths]: This rule states that each Darkhaven has two site paths, which is not the case as previously mentioned in the _MELE_ rules. This text appears to be a holdover from _The Wizards_ rules which was not updated for _The Lidless Eye_.
+[^borderregions]: This phrase "usually in Border regions" appeared in the Limited version of _The Wizards_ rules but was taken out and not present in the Unlimited version—Border-holds are not _usually_ in "Border regions" (Border-lands), they are usually in Wilderness. However, this statement returned for _The Lidless Eye_ rules in a position within the sentence.
