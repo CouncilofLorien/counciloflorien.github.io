@@ -954,8 +954,7 @@ If a character is eliminated by corruption, discard all of the items that he con
 
 **Allies** — A character may tap to play an ally card if he is at the site specified on the ally card **and** the character meets the requirements indicated on the ally card. The ally card is placed under the character’s card and that character controls the ally. After an ally is played at a site, the site card is tapped. An ally does **not** count as a character for any purposes other than combat and the use of certain skills. Allies can **not** bear items.
 
-An ally with a skill may take actions and play cards that require that skill. For example, _Treebeard_ has the sage skill, so he can tap to play a _Dreams of Lore_ card. Similarly, _Gollum_ has the scout skill so he can
-tap to play a _Concealment_ card. 
+An ally with a skill may take actions and play cards that require that skill. For example, _Treebeard_ has the sage skill, so he can tap to play a _Dreams of Lore_ card. Similarly, _Gollum_ has the scout skill so he can tap to play a _Concealment_ card. 
 
 {: .note }
 > **Clarification:** Allies that are eliminated are placed in the out-of-play pile (i.e., neither player may bring that ally back into play). Allies are not affected by corruption.
