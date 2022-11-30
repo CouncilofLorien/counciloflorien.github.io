@@ -546,8 +546,7 @@ A _site path_ is the sequence of regions between a site and its nearest Darkhave
 > **Example:** In the Example of movement from Barad-dur to The Lonely Mountain on [page 25](), the first site path used was from Barad-dur to Minas Morgul: ![](/assets/images/dark-domain.svg) ![](/assets/images/shadow-land.svg). During that movement/hazard phase, Nick (Wendy’s opponent) can play hazard creatures keyed to Dark-domains (![](/assets/images/dark-domain.svg)), Shadow-lands (![](/assets/images/shadow-land.svg)), and Darkhavens (the new site). During the next turn, the company uses the site path from Minas Morgul to Dol Guldur: ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg) ![](/assets/images/dark-domain.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg). During that movement/hazard phase, Nick can play hazard creatures keyed to Shadow-lands (![](/assets/images/shadow-lands.svg)), double Shadow-lands (![](/assets/images/shadow-lands.svg) ![](/assets/images/shadow-lands.svg)), Dark-domains (![](/assets/images/dark-domains.svg)), double Dark-domains (![](/assets/images/dark-domains.svg) ![](/assets/images/dark-domains.svg)) and darkhavens (the new site). Finally, the company takes one turn to move from Dol Guldur to The Lonely Mountain using the site path, ![](/assets/images/shadow-land.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg). Nick can play hazard creatures keyed to Wilderness (![](/assets/images/wilderness.svg)), double Wilderness (![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg)), Shadow-lands (![](/assets/images/border-land.svg)), double Shadow-lands (![](/assets/images/border-land.svg) ![](/assets/images/border-land.svg)), and Ruins & Lairs (the new site).
 
 {: .note }
-> {: .text-center }
-> #### Region Types
+> #### Region Types {: .text-center }
 > 
 > _Coastal Seas_ \[ ![](/assets/images/coastalsea.svg) ]: A region consisting primarily of open water.
 >
@@ -746,7 +745,6 @@ For these purposes, a “corruption card” is a _hazard card_ that gives a char
  - Certain corruption cards state: "Cannot be duplicated on a given character." So, a given character may only have one of each such corruption card.
  - Corruption cards that may not be played on Dwarves may also not be played on Orcs.
  - Corruption cards may not be played on Ringwraiths.
-
 
 ### CORRUPTION POINTS
 
