@@ -413,7 +413,7 @@ Most characters are unique. So if you already have a unique character in play, y
 into play again by either player. 
 
 {: .note }
-> **Example:** In the p. 8 example, Wendy calls the audience. Then Nick takes his final turn. His company is at a Darkhaven, so he may play a character during his organzation phase. Nick has Grishnakh and an Orc Tracker in his hand (each has a 3 mind attribute). Nick would like to play Grishnakh, but he is unique and Wendy already has him in play. The Orc Tracker is not unique, so Nick plays him. Nick has no unused general influence, so the Orc Tracker must be placed under the control of one of Nick's non-follower characters with at least 3 unused direct influence. Only Nick's non-follower Orc Captain meets these requirements.
+> **Example:** In the [p. 8]() example, Wendy calls the audience. Then Nick takes his final turn. His company is at a Darkhaven, so he may play a character during his organzation phase. Nick has Grishnakh and an Orc Tracker in his hand (each has a 3 mind attribute). Nick would like to play Grishnakh, but he is unique and Wendy already has him in play. The Orc Tracker is not unique, so Nick plays him. Nick has no unused general influence, so the Orc Tracker must be placed under the control of one of Nick's non-follower characters with at least 3 unused direct influence. Only Nick's non-follower Orc Captain meets these requirements.
 
 ### COMPANIES
 
@@ -448,7 +448,7 @@ After being revealed, a Ringwraith operates like any other character except that
  - Any gold ring in the Ringwraith's company is automatically tested at the beginning of the end-of-turn phase. Any ring test in a Ringwraith's company has a modification of -2.
  - A Ringwraith may carry items (including rings) but may not use them (i.e., an item has no effect on a Ringwraith's company or on his attributes and abilities).
  - Ringwraiths never make corruption decks and corruption cards may not be played on Ringwraiths.
- - The movement of Ringwraiths is restricted (see \[page 25]()).
+ - The movement of Ringwraiths is restricted (see [page 25]()).
 
 ## 6 • MOVEMENT
 
