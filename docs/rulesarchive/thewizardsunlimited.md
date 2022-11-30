@@ -668,7 +668,7 @@ There are a number of standard modifications to strikes:
 
  - Each unwounded, tapped character must modify his prowess by -1.
  - Each wounded character must modify his prowess by -2.
- - Normally a character that is the target of a strike is tapped after the strike is resolved. However, a character that is the target of a strike may choose to take a -3 modification to his prowess to avoid being tapped. If so, the character is not tapped after the strike is resolved  (he may still be wounded).
+ - Normally a character that is the target of a strike is tapped after the strike is resolved. However, a character that is the target of a strike may choose to take a -3 modification to his prowess to avoid being tapped. If so, the character is not tapped after the strike is resolved (he may still be wounded).
  - If an attack has more strikes than the company has characters, the attacker may allocate the excess strikes as -1 modifications to the prowesses of whichever target(s) he chooses. See the Strike Sequence on page 32.
  - The target’s prowess may also be modified due to the play of certain resource and hazard cards. Only one resource card requiring skill may be played against a given strike.
 
