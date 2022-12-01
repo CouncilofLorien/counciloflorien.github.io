@@ -848,97 +848,23 @@ You may only play hazard cards during your opponent’s movement/hazard phase. E
 Unless stated otherwise, a card is playable only if its effect applies to an existing situation, hazard, attack, etc. (i.e., you may not play a card just to discard it).
 
 {: .note }
-> **Clarification:** An automatic-attack at a company’s new site may be targeted by a hazard during the company’s movement/hazard phase (e.g., Arouse Minions, Dragon’s Desolation, etc.). Playing such a hazard does count against the hazard limit. Such a hazard may be played even if the attack ultimately will not be faced (i.e., if the company decides not to face the
-automatic-attack during the site phase). 
-During your movement/hazard phase, both players draw cards when each company moves. If a company moves to a non-Haven site, you _may_ draw up to the number of cards indicated by the site that it _moved to_ (at least one card must be drawn); your opponent does the same. If the company moves to a Haven site, you _may_ draw up to the number of cards indicated by the site that you _moved from_ (at least one card must be drawn); your opponent does the same.
-
-### THE HAZARD LIMIT
-
-During your opponent’s movement/hazard phase, the number of hazard cards that you may play on one of your opponent’s companies is that company’s _hazard limit_. The hazard limit is equal to two **or** the company’s size, whichever is greater. A company’s size is equal to the number of characters in it, with each Hobbit counting half (round up). For this purpose, Wizards and followers do count as characters, but allies do **not**.
-
-A hazard limit can be modified by the play of certain cards. Tapping a Nazgul permanent-event _does_ count against the hazard limit. 
-
-{: .note }
-> **Clarification:** For the purposes of calculating hazard limits, each company’s size is determined for each company at the beginning of the movement/hazard phase (e.g., it remains fixed). So, if a character is eliminated during his company’s portion of the movement/hazard phase, his company’s hazard limit does not change.
-### HAZARD CARDS
-
-Hazard cards represent evil forces and natural dangers in Middle-earth. You may play hazard cards only during your opponent’s movement/hazard phase.
-
-### Creature Cards
-You may use a creature card to _directly attack_ one of your opponent’s companies. Such an attack can occur only if:
-
-- The company is at a specific site at which the creature’s card text says it can be played.
-- The company’s site of origin or new site is in a region where the creature’s card text says it can be played.
-- One of the site symbols on the creature’s card matches the site that the company moved to (i.e., the new site) or stayed at (i.e., if the company did not move).
-- At least one of the region symbols on the creature’s card matches one of the region types the company moved through this turn (see below). If the creature’s card has two region symbols of the same type (i.e., a deep wilderness creature), then the company must have moved through at least two regions of that same type.
-
-{: .note }
-> **Clarification:** Two wilderness symbols are required in a site path to play a deep wilderness creature. However, the two symbols need not be adjacent in the site path. For example, a deep wilderness creature may be played keyed to the site path: ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg). If a company travels with two wilderness on its site path, the chance of encountering very dangerous wilderness monsters has doubled, even if the two wildernesses are not adjacent.
-If a creature satisfies more than one of these conditions, you must choose (when you play the creature) one of these conditions that the attack is “keyed to.” The effects of certain cards are based upon the region or site type that a creature is _keyed to_.
-
-{: .note }
-> **Clarification:** The player that plays a hazard creature must specifically state the type of region or site that a creature is keyed to—it can affect the use of other cards. For example, if a character with an Elven Cloak faces a strike from a creature that has been played keyed to wilderness, he can tap the cloak to cancel the strike. However, if such a strike is keyed to border-lands, he cannot use his cloak against it.
-The region types that a company moves through during a given turn are determined by the following criteria:
-
- - If a company did not play a new site card, it did not move through any regions—so, no creature may be played based solely on region conditions.
- - If the company was at a _Haven_ and has played a new _non-Haven_ site card (but no region cards), the region types are indicated by the new site card’s site path.
- - If the company was at a _Haven_ site and has played a new _Haven_ site card (but no region cards), the region types are indicated by the new Haven site card’s “Site Path from” the old Haven site (i.e., the site path from the old Haven).
- - If the company was at a _non-Haven_ site and has played a new _Haven_ site card (but no region cards), the region types are indicated by the site of origin’s site path (i.e., the site path on the site that the company left).
-
-{: .note }
-> **Standard Game Only:** If the company played region cards, the region types of the site path are indicated by the region cards (i.e., each region card has a region type).
-{: .note }
-> **Example:** Certain card combinations make a specific card more powerful and allow it to be played more often. Ren the Unclean (a Nazgul) has one strike with a prowess of 15 and can only be played keyed to dark-domains and dark-holds. However, if played in combination with a Fell Beast card, Ren has two strikes with a prowess of 13 and can be played keyed to shadow-lands, shadow-holds, dark-domains, and dark-holds.
-> 
-> If Ren is played in combination with a Fell Beast card _and_ a Morgul-knife card, he has two strikes with a prowess of 15 and can be played keyed to shadow-lands, shadow-holds, dark-domains, and dark-holds. In addition, one character wounded by his attack receives 4 corruption points due to the Morgul-knife.
-### RESOURCE CARDS
-
-Certain resource cards may only be played if specific required conditions exist.
-
-{: .note }
-> **Clarification:** Playing a faction card, ally card, information card, or item card (unless stated otherwise on the card) requires an untapped character and an untapped site. In addition, the company must face any automatic-attacks located at the same site before such a card can be played. Playing another type of resource card does not neccessarily require an untapped site. This process may vary based upon specific card text.
-**Factions** — If one of your characters is at the site specified on a faction card, he may tap to attempt to play the faction card. If the character successfully influences the faction as indicated on the faction’s card (see p. 39), the faction card is placed in your play area. After a faction is successfully played at a site, the site card is tapped.
-
-{: .note }
-> **Clarification:** Once a faction is brought into play, it is not associated with any character. A faction plays no active role after it is brought into play. 
+> **Clarification:** An automatic-attack at a company’s new site may be targeted by a hazard during the company’s movement/hazard phase. Such a hazard may be played even if the attack will not be faced (i.e., if the company decides not to face the automatic-attack during the site phase).
+> a
+> **Note:** _MELE_ resources are different from _METW_ resources. _MELE_ resources are referred to as "minion resources" and _METW_ resources are referred to as "hero resources." See [page 74]() for more information.
  
-**Items** — If a character is at an untapped site that indicates that a specific type of item card (gold ring, minor, major, or greater) is “playable,” he may tap to bring an item of that type into play. The item card is placed under the character’s card. After an item is played at a site, the site card is tapped.
+During your movement/hazard phase, both players draw cards when each company moves. If a company moves to a non-Darkhaven site, you _may_ draw up to the number of cards indicated by the site that it _moved to_ (at least one card must be drawn); your opponent does the same. If the company moves to a Darkhaven site, you _may_ draw up to the number of cards indicated by the site that you _moved from_ (at least one card must be drawn); your opponent does the same.
 
-A character may only use the effects of one _weapon_ at a time **and** one _shield_ at a time **and** one _armor_ at a time.
-
-If a character is eliminated by corruption, discard all of the items that he controls. If a character is eliminated due to failing a body check, one item can be immediately transferred to each unwounded character in his company; but, the rest of his items are discarded.
-
-{: .note }
-> **Clarification:** An item only taps when used if its text states so. Thus, weapons and armor do not normally tap when used.
-> 
-> **Clarification:** A character may control (i.e., bear) any item, even if he cannot use its abilities.
-> 
-> **Clarification:** A character may control (i.e., bear) more than one weapon or more than one shield or more than one armor. However, only one of each type may be used at any given time.
-**Minor Items** — If a resource card that taps a site (e.g., ally, faction, item, information, etc.) is successfully played at a site, one additional character may tap to play a minor item. Such a minor item may be played even if the site does not specifically state that a minor item is playable at the site. For example, a minor item played when bringing an ally into play would simulate a gift from the ally.
-
-{: .note }
-> **Example:** Certain card combinations are required to bring certain powerful items into play. Narsil was a mighty sword that was broken when Elendil fell fighting Sauron. Narsil can be played and used as a greater item (+1 direct influence, +1 prowess, 3 MPs, 2 CPs). However, a player can attempt to reforge Narsil so that it becomes Andúril, the Flame of the West (Aragorn II’s weapon in _The Lord of the Rings_).
-> 
-> Two other cards are required. A Reforging card must be played at an “information site” and stored at a Haven—this represents gathering the resources required to reforge Narsil. Then, the Andúril card must be played at an “information site” and stored at a Haven—this represents gaining the knowledge of how to reforge Narsil. 
-> 
-> Then, the Reforging card is discarded and the Andúril card is placed with the Narsil card—giving a total of (+2 direct influence, +5 prowess, 7 MPs, 3 CPs) from the combination of the two cards.
-**Allies** — A character may tap to play an ally card if he is at the site specified on the ally card **and** the character meets the requirements indicated on the ally card. The ally card is placed under the character’s card and that character controls the ally. After an ally is played at a site, the site card is tapped. An ally does **not** count as a character for any purposes other than combat and the use of certain skills. Allies can **not** bear items.
-
-An ally with a skill may take actions and play cards that require that skill. For example, _Treebeard_ has the sage skill, so he can tap to play a _Dreams of Lore_ card. Similarly, _Gollum_ has the scout skill so he can
-tap to play a _Concealment_ card. 
-
-{: .note }
-> **Clarification:** Allies that are eliminated are placed in the out-of-play pile (i.e., neither player may bring that ally back into play). Allies are not affected by corruption.
 ### EVENTS
 
 There are both resource events and hazard events. Each event falls into one of three classifications based upon how long it stays in play.
 
-**Short-event** — A short-event’s effects are immediately implemented. Then the event card is discarded. The effects of some short-events last for a specific period as stated on its card (e.g., many short-event effects last “until the end of the turn”).
+**Short-event** — A short-event’s effects are immediately implemented; then, it is discarded. The effects of some short-events last for a specific period as stated on its card (e.g., some say: “until the end of the turn”).
 
-**Permanent-event** — The effects of a resource permanent-event are immediately implemented. Its effects last until the card is discarded. Certain effects can cause a permanent-event to be discarded; these effects are given in the text of specific cards.
+**Permanent-event** — The effects of a resource permanent-event are immediately implemented. Its effects last until the card is discarded. Certain effects can cause a permanent-event to be discarded; these effects are given in the text of specific cards.<br>If one of your companies splits into 2 or more companies, you may place any resource permanent-events that were on the original company (as a whole) with any of the resulting companies.
 
 {: .note }
 > **Clarification:** Hazard short-events and permanent-events can be played only during an opponent’s movement/hazard phase. Resource short-events and permanent-events can be played at any time during your turn—as limited by specific card text.
+
 **Long-event** — The effects of a long-event are immediately implemented when it is played. Long-events last approximately two turns, one of yours and one of your opponent’s.
 
 You may only play a resource long-event during your long-event phase. Its card and effects remain in play until your next long-event phase or until otherwise discarded.
@@ -946,38 +872,180 @@ You may only play a resource long-event during your long-event phase. Its card a
 You may only play a hazard long-event during your opponent’s movement/hazard phase. Its card and effects remain in play until your opponent’s next long-event phase or until otherwise discarded.
 
 {: .note }
-> **Clarification:** The effects of many long-events and permanent-events affect both players because they can remain in effect during both players’ turns. So remember, when you play a long-event hazard on your opponent during his turn, it will remain in effect during your next turn. For example, Awaken Denizens (a long-event) increases the number of automatic-attack strikes at Ruins & Lairs for one turn for each player.
+> **Clarification:** The effects of many long-events and permanent-events affect both players because they can remain in effect during both players’ turns. Remember, when you play a long-event hazard, it will remain in effect during your next turn. For example, _Awaken Denizens_ increases the # of automatic-attack strikes at Ruins & Lairs for one turn for each player.
+
 {: .note }
-> **Example:** One of Jason’s companies with a hazard limit of six is moving from Rivendell to Lorien; its site path is ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg). Jessica plays Doors of Night (a permanent-event) during Jason’s movement/hazard phase. This causes all resource environment cards in play to be discarded and their effects are canceled. This card will remain in play until it is discarded due to the play of a Gates of Morning, Twilight, or another card that targets the Doors of Night.
+> **Example:** One of Nicks’s companies with a hazard limit of six is moving from Minas Morgul to Dunharrow; its site path is ![](/assets/images/shadow-land.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/free-domain.svg) ![](/assets/images/border-land.svg). Wendy plays _Doors of Night_ (a permanent-event) during Nicks’s movement/hazard phase. This causes all resource environment cards in play to be discarded and their effects are canceled. This card will remain in play until it is discarded due to the play of _Skies of Fire_, _Twilight_, or another card that says it forces the discard of _Doors of Night_ or a hazard permanent-event.
 > 
-> Jessica then plays Choking Shadows (a short-event). She decides to use its option of treating one wilderness \[ ![](/assets/images/wilderness.svg) ] as a shadow-land \[ ![](/assets/images/shadow-land.svg) ] until the end of the turn. This changes the site path for Jason’s company from ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg) to: ![](/assets/images/wilderness.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg). Choking Shadows is discarded, but its effects will remain until the end of the turn (unless canceled before that).
+> Wendy then plays _Fell Winter_ (a long-event). First it gives all Border-holds \[![](/assets/images/border-hold.svg)] (including Dunharrow) an automatic-attack: Wolves — 3 strikes at 7 prowess. Since _Doors of Night_ is in play it can do two more things: change all Border-lands \[![](/assets/images/border-land.svg)] into Wilderness \[![](/assets/images/wilderness.svg)], making the site path ![](/assets/images/shadow-land.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/free-domain.svg) ![](/assets/images/wilderness.svg); and change all Free-domains \[![](/assets/images/free-domain.svg)] into Border-lands \[![](/assets/images/border-land.svg)], making the site path ![](/assets/images/shadow-land.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg). Unless it is discarded by another card, _Fell Winter_ will stay in play until Wendy's next long-event phase (about two turns).
 > 
-> Then, Jessica next plays Morgul Night (a long-event)—all wildernesses \[ ![](/assets/images/wilderness.svg) ] are treated as shadow-lands \[ ![](/assets/images/shadow-land.svg) ] and all shadow-lands \[ ![](/assets/images/shadow-land.svg) ] are treated as dark-domains \[ ![](/assets/images/dark-domain.svg) ]. This changes the site path for Jason’s company from ![](/assets/images/wilderness.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg) to: ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg) ![](/assets/images/border-land.svg) ![](/assets/images/shadow-land.svg). Jessica can still play three more hazards and she can key them to border-lands, shadow-lands, and/or dark-domains. Unless its discard is forced by another card, Morgul Night and its effects will remain in play until Jessica’s next long-event phase (approximately two turns).
+> Finally, Wendy plays _Arouse Defenders_ (a short-event), which allows her to add 3 to the prowess of one automatic-auack at a Border-hold \[![](/assets/images/border-hold.svg)]. She uses it on Dunharrow and chooses to add 3 to the Wolf attack from _Fell Winter_, making the prowess 10. _Arouse Defenders_ is discarded, but its effect will remain until the end of the turn (unless canceled before then).
+
+### RESOURCE CARDS, NON-EVENT
+
+Certain resource cards may only be played if specific required conditions exist. A faction card, ally card, or item card must be played during your site phase and requires an untapped character and an untapped site. In addition, the company must face any automatic-attacks located at the same site before such a card can be played. Resource events do not generally require an untapped site nor that the automatic-attack to be faced. This may vary based upon specific card text.
+
+Normally, when a character leaves play, all cards controlled or on him are discarded. There are two major exceptions to this:
+
+ - Sometimes, the card that causes the character to leave play allows him to transfer an item(s) (e.g., _Call of Home_).
+ - If a character is eliminated due to failing a body check, one item can be immediately transferred to each unwounded character in his company; but, the rest of his items are discarded.
+
+#### Factions
+
+If one of your characters is at the site specified on a faction card, he may tap to attempt an influence check in order to play the faction card. If the character successfully influences the faction as indicated on the faction’s card (see [pages 38-39]()), the faction card is placed in your play area. After a faction is successfully played at a site, the site card is tapped.
+
+{: .note }
+> **Clarification:** If an attack from a Dragon faction is defeated, remove the Dragon from play. No player receives its marshalling points.
+> 
+> **Clarification:** Once a faction is brought into play, it is not associated with any character or company. A faction plays no active role after it is brought into play. 
+ 
+#### Allies
+
+A character may tap during the site phase to play an ally card if he is at the site specified on the ally card **and** the character meets the requirements indicated on the ally card. The ally card is placed under the character’s card and that character controls the ally. After an ally is played at a site, the site card is tapped. An ally does **not** count as a character for any purposes other than combat and the use of certain skills. Allies can **not** bear items.
+
+An ally with a skill may take actions and play cards that require that skill. For example, _Last Child of Ungoliant_ has the sage skill, so she can tap to play a _Secerts of Their Forging_ card. Similarly, _Stinker_ has the scout skill so he can tap to play a _Sneakin'_ card. 
+
+{: .note }
+> **Clarification:** Allies that are eliminated are placed in the out-of-play pile (i.e., neither player may bring that ally back into play). Allies are not affected by corruption.
+
+#### Items
+
+If a character is at an untapped site that indicates that a specific type of item card (gold ring, minor, major, or greater) is “playable,” he may tap during the site phase to bring an item of that type into play. The item card is placed under the character’s card. After an item is played at a site, the site card is tapped.
+
+A special item states as what sites and under which conditions it is "playable."
+
+A character may only use the effects of one _weapon_ at a time **and** one _shield_ at a time **and** one _armor_ at a time.
+
+{: .note }
+> **Clarification:** A special item with the keyword, Ring, at the beginning of its text does not tap the character or the site when played.
+> 
+> **Clarification:** An item only taps when used if its text states so. Thus, weapons and armor do not normally tap when used.
+> 
+> **Clarification:** A character may control (i.e., bear) any item, even if he cannot use its abilities.
+> 
+> **Clarification:** A character may control (i.e., bear) more than one weapon or more than one shield or more than one armor. However, only one of each type may be used at any given time.
+
+#### Minor Items
+
+If a resource card that taps a site (e.g., ally, faction, item, etc.) is successfully played at a site, one additional character may tap to play a minor item. Such a minor item may be played even if the site does not specifically state that a minor item is playable at the site. For example, a minor item played when bringing an ally into play would simulate a gift from the ally.
+
+#### Rings
+
+One of the types of items that your characters can bring into play are rings. There are 7 types of rings: mind rings, gold rings, lesser rings, magic rings, Dwarven rings, spirit rings, and _The One Ring_.
+
+**Gold Rings** — After your company faces the automatic-attack at such a site which specifies that a gold ring can be played, you just tap a character and the site to play a gold ring from your hand.
+
+{: .note }
+> **Clarification:** A gold ring is a ring with unknown properties—it might be a lesser ring, a magic ring, a Dwarven ring, or even _The One Ring_. You will not know until you "test" it. There are 6 different gold rings in _MELE_: _A Little Gold Ring_, _The Least of Gold Rings_, _Gold Ring that Sauron Fancies_, _Bright Gold Ring_, _Gleaming Gold Ring_, and _Perfect Gold Ring_. Each has a different probability of being a specific type of special ring.
+
+**Testing a Gold Ring** — Once you have a gold ring, you can "test" it to determine what kind of special ring it is. When you test a gold ring, you make a roll and add any applicable modification (due to the test card used and other cards). The gold ring card will indicate what special rings may be played based upon the modified roll.<br>If the roll indicates a special ring that you have in your hand, you may replace the gold ring with that ring and discard the gold ring. Otherwise, you just discard the gold ring (i.e., it was not that special). If the roll indicates more than one special ring in your hand,
+you choose which to play.
+
+There are five ways to test a gold ring:
+ - If you have a sage character in the same company as the gold ring, you can play a _Test of Fire_ card.
+ - If you have a sage character in the same company as the gold ring and the company is at a site where "Information" is playable, you can play a _Secret of Their Forging_ card (you do not have to roll, you can just play any special item ring except _The One Ring_).
+ - Any gold ring in the Ringwraith's own company at the start of the end-of-turn phase is automatically tested. Any ring test in a Ringwraith's own company has a modification of -2.
+ - Any gold ring in one of your companies at Barad-dur at the start of the end-of-turn phase is automatically tested. Any ring test at Barad-dur has a -3 modification.
+ - If you store a gold ring, it is automatically tested with a modification of -2
+
+{: .note }
+> **Note:** Due to the -2 and -3 modifications, the last three ring test methods given above have little chance of resulting in _The One Ring_. This reflects the influence of "fate" on Sauron's efforts to find _The One Ring_.
+
+{: .note }
+> **Example:** You have Tarci! and Pon Opar (a sage) in the same company. Tarcil has _A little Gold Ring_. In your hand, you have a _Test of Fire_ card and three ring cards: _Trifling Ring_ (a lesser ring), _Magic Ring of Lies_, and _Dwarven Ring of Durin's Tribe_.
+> 
+> Because Pon Opar is a sage in the same company as a gold ring, you play your _Test of Fire_ on Tarcil's gold ring at any time during your turn. You roll a 5 for the test, so you may play either your _Trifling Ring_ (any result) or your _Magic Ring of Lies_ (6 or less) with Tarcil. In either case, the gold ring is discarded. If you had rolled a 9 or higher, you would have had the choice of playing your _Dwarven Ring of Durin's Tribe_ or your _Trifling Ring_.
+
+{: .note }
+> **Note:** A Ringwraith may carry a ring but may not use it (i.e., all items have no effect on a Ringwraith's company or on his attributes and abilities).
+> 
+> **Clarification:** Mind rings are minor items and are played as such. They are **not** special items.
+
+### THE HAZARD LIMIT
+
+During your opponent’s movement/hazard phase, the number of hazard cards that you may play on one of your opponent’s companies is that company’s _hazard limit_. The hazard limit is equal to two **or** the company’s size, whichever is greater. A company’s size is equal to the number of characters in it. For this purpose allies do **not** count as characters.
+
+A hazard limit can be modified by the play of certain cards. Tapping a Nazgul permanent-event _does_ count against the hazard limit. 
+
+{: .note }
+> **Clarification:** For the purposes of calculating hazard limits, each company’s size is determined for each company at the beginning of the movement/hazard phase (i.e., it remains fixed). So, if a character is eliminated during his company’s portion of the movement/hazard phase, his company’s hazard limit does not change.
+
+### HAZARD CARDS, NON-EVENT
+
+Hazard cards represent evil forces and natural dangers in Middle-earth. Even though your Ringwraith and his minions are serving Sauron, the evil forces in the world will often attack you on purpose or by mistake—that's the nature of evil.
+
+You may play hazard cards only during your opponent’s movement/hazard phase. Detainment attacks are described on [page 31]().
+
+{: .note }
+> Hazards that give bonuses to attacks do **not** give bonuses to characters and companies.
+
+### Creature Cards
+
+You may use a creature card to _directly attack_ one of your opponent’s companies. Such an attack can occur only if one of the following criterion is met:
+
+- The company is at a specific site at which the creature’s card text says it can be played.
+- The company’s site of origin or new site is in a region where the creature’s card text says it can be played.
+- One of the site symbols on the creature’s card matches the site that the company moved to (i.e., the new site) or stayed at (i.e., if the company did not move).
+- At least one of the region symbols on the creature’s card matches one of the region types the company moved through this turn (see below). If the creature’s card has two region symbols of the same type (i.e., a deep Wilderness creature), then the company must have moved through at least two regions of that same type.
+
+{: .note }
+> **Note:** The Geann a-Lisch site is a Darkhaven. However, as stated on its card, creatures keyed to Ruins & Lairs may be played against a company that has Geann a-Lisch as its new site or as its current site if it did not move.
+> 
+> **Clarification:** Two wilderness symbols are required in a site path to play a deep Wilderness creature. However, the two symbols need not be adjacent in the site path. For example, a deep wilderness creature may be played keyed to the site path: ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg). If a company travels with two Wilderness in its site path, the chance of encountering very dangerous Wilderness monsters has doubled, even if the two wildernesses are not adjacent.
+
+If a creature satisfies more than one of these conditions, you must choose (when you play the creature) one of these conditions that the attack is “keyed to.” The effects of certain cards are based upon the region or site type that a creature is _keyed to_.
+
+The region types that a company moves through during a given turn are determined by the following criteria:
+
+ - If a company did not play a new site card, it did not move through any regions—so, no creature may be played based solely on region conditions.
+ - If the company was at a _Darkhaven_ and has played a new _non-Darkhaven_ site card, the region types are indicated by the new site card’s site path.
+ - If the company was at a _Darkhaven_ site and has played a new _Darkhaven_ site card (but no region cards), the region types are indicated by the new Darkhaven site card’s “Site Path from” the old Darkhaven site (i.e., the site path from the site of origin Darkhaven).
+ - If the company was at a _non-Darkhaven_ site and has played a new _Darkhaven_ site card (but no region cards), the region types are indicated by the site of origin’s site path (i.e., the site path on the site that the company left).
+ - _Standard Rules:_ If the company used region movement, the region types of the site path are indicated by the region cards or an appropriate map (i.e., each region card has a region type).
+
+{: .note }
+> **Clarification:** The player that plays a hazard creature must specifically state the type of region or site that a creature is keyed to—it can affect the use of other cards.<br>For example, if a character with a _Shadow-cloak_ faces a strike from a creature that has been played keyed to a Shadow-land, he can tap the _Shadow-cloak_ to cancel the strike. However, if the creature is keyed to a Border-land, he cannot use his cloak against it.
+> 
+> **Note:** A creature played keyed to a specific region by name is **not** keyed to the specific region's type. For example, if _Thranduil's Folk_ is played keyed to the Grey Mountain Narrows (a Shadow-land region), a target character with a _Shadow-cloak_ can **not** use it to cancel a strike—the attack is keyed to the region by name, not by type.
+
+{: .note }
+> **Example:** Certain card combinations make creatures more powerful. The hazard creature, _Dire Wolves_, has 4 strike with a prowess of 8. However, if played in combination with a _Wake of War_ card, _Dire Wolves_ has 5 strikes with a prowess of 9. If played in combination with a _Wake of War_ and a
+_Doors of Night_, _Dire Wolves_ has 6 strikes with a prowess of 10.
+
 ### STORING CARDS
 
-During your organization phase, you may _store_ any of your items that are at a Haven site. The controlling character must make a corruption check before an item can be stored.
+During your organization phase, you may _store_ any of your items that are at a Darkhaven site. The controlling character must make a corruption check before an item can be stored.
 
-A stored item is placed in your _marshalling point pile_ and still counts for marshalling points. Once an item is stored it may not be unstored and brought back into play. _The One Ring_ may not be stored.
+A stored item is placed in your _marshalling point pile_ and counts for marshalling points. Once an item is stored it may not be unstored and brought back into play. _The One Ring_ may never be stored.
 
-Some items and resource cards state that they can be stored when at a specific site (e.g., the _Book of Mazarbul_ can be stored at a Dwarf-hold). Such an item or resource card is still placed in the marshalling point pile and cannot be brought back into play.
+Some items and resource cards state that they can be stored when at a specific site (e.g., the _Seize Prisoners_ card can be stored at a Darkhaven)—other cards may not be stored. Such an item or resource card is still placed in the marshalling point pile and cannot be brought back into play.
 
 {: .note }
-> **Clarification:** Certain cards state that a character bearing such a card cannot untap until the card is stored at a certain place. After storing such a card, the character does not untap until the untap phase of his player’s next turn. 
+> **Note:** If you store a gold ring, it is automatically tested (see [page 44]()).
+> 
+> **Clarification:** A character bearing a certain type of card cannot untap until the card is stored (as stated in the card's text). After storing such a card, the character does not untap until the untap phase of his player’s next turn. 
 > 
 > **Clarification:** Unless stated otherwise on the card, the marshalling points for a card that can be stored apply regardless of whether or not the card is stored.
+
 ### TRANSFERRING ITEMS
 
 During your organization phase, you may transfer items between characters at the same site. The controlling character must make a corruption check before an item can be transferred.
 
 {: .note }
-> **Clarification:** A corruption check is required before an item can be stored or transferred. A character that fails such a corruption check has decided not to follow his Wizard’s advice and influence concerning the item’s use (i.e., the item is discarded and the character is either discarded or eliminated).
+> **Clarification:** A corruption check is required before an item can be stored or transferred. A character that fails such a corruption check has decided not to follow his Ringwraith’s commands concerning the item’s use (i.e., the item is discarded and the character is eliminated).
+
+Normally, when a character leaves active play (e.g., is discarded or eliminated), all cards controlled by him are discarded. There are two major exceptions to this:
+
+ - Sometimes, the card that causes the character to leave play allows him to transfer an item(s) (e.g., _Call of Home_).
+ - lf a character is eliminated due to failing a body check, one item can be immediately transferred to each unwounded character in his company; but, the rest of his items are discarded.
+
 ### ACTIONS AND CARD PLAY
 
-The various activities that you and your opponent can perform during play are called actions. Typical actions include playing a card, tapping a card, revealing a card, etc. The following general guidelines apply to resolving actions; more detailed guidelines can be found on [pages 61-63](/rules-archive/the-wizards-unlimited#timing-rules).
+The various activities that you and your opponent can perform during play are called actions. Typical actions include playing a card, tapping a card, revealing a card, etc. The following general guidelines apply to resolving actions; more detailed guidelines can be found on [pages 69-70]().
 
- - You must give your opponent a chance to respond to every action, and vice versa. If you perform an action and move on to another action without giving your opponent a chance to respond, you must “back up” if he indicates that he wants to respond. A series of declared actions made in response to one another is called a chain of effects. You always have the option of declaring the first action in a chain of effects during your turn. The actions in a chain of effects are resolved one at a time from last declared to first declared (i.e., the last declared action is resolved first, then the second to the last, etc.).
+ - You must give your opponent a chance to respond to every action, and vice versa. If you perform an action and move on to another action without giving your opponent a chance to respond, you must “back up” if he indicates that he wants to respond. A series of declared actions made in response to one another is called a "chain of effects." You always have the option of declaring the first action in a chain of effects during your turn. The actions in a chain of effects are resolved one at a time from last declared to first declared (i.e., the last declared action is resolved first, then the second to the last, etc.).
  - If the play of a card requires other actions (e.g., corruption checks), the actions are resolved in the order in which they appear on the card.
- - A required or declared dice roll is an action and can be the target of another action or effect declared later in the same chain of effects.
+ - A required or declared dice roll is an action and can be the target of another action or effect declared later in the same chain of effects. Otherwise a card cannot be targeted until it resolves.
  - When the effects of a dice roll require further actions (e.g., a roll for a strike requires a body check), those actions become the first actions (any further rolls come first) in the next chain of effects after the roll.
 
 # • PART II •<br>STANDARD RULES
