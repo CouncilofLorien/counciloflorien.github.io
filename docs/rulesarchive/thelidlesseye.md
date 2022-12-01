@@ -1116,7 +1116,8 @@ Finally, you may reveal any unique marshalling point cards in your hand that mat
 > | Orcs of Angmar (faction) | 2 | 4 |
 > | The Warg-king (ally)  | 2 | 2 |
 > | Sieze Prisoners (miscellaneous) | 2 | 2 |
-  
+> | **Total** | **20** | **25** |
+> 
 > | Nick's MP Cards | Initial MPs | Modified MPs |
 > | :------------- | :---: | ---: |
 > | Ciryaher | 2 | 2 |
@@ -1131,30 +1132,67 @@ Finally, you may reveal any unique marshalling point cards in your hand that mat
 > 
 > At this point, Nick reveals that he has cards for _The Warg-king_, Shagrat, and Grishnakh in his hand (he was saving them for this). Since they duplicate three of Wendy's unique MP cards, her MP total is reduced by one for each of these. Thus. Wendy ends up with 22 MPs and Nick ends up with 14 MPs—Wendy wins. Nick curses his luck because he failed to bring the _Hillmen_ into play on his last turn.
 
+### SUDDEN CALL USED AS A HAZARD
+
+In addition to the normal situations outlined in the Starter Game, the Audience with Sauron is called when one of the following occurs:
+
+ - If your opponent's play deck has been exhausted _and_ you play a _Sudden Call_ card as a **hazard** during one of his turns, the audience starts following your next turn (i.e., you get one last turn).
+ - Tf your opponent has at least 20 marshalling points _and_ you play a _Sudden Call_ card as a **hazard** during one of his turns, the audience starts following your next turn (i.e., you get one last turn).
+
 ## 2 • THE CARDS AND DECKS
 
-In addition to the normal location deck and play deck, you can have a 15 card “sideboard” deck. A sideboard can contain resource, hazard, and character cards. However, the combined play deck and sideboard can only contain one of each unique card and a maximum of three of any non-unique card.
+There are several Standard Rules changes involving manifestations and sideboards.
+
+### SIDEBOARDS
+
+In addition to the normal location deck and play deck, you can have a 25 card “sideboard” deck. Your sideboard can contain resource, hazard, and character cards (including any Ringwraiths). However, your combined play deck, starting company, and sideboard can only contain one of each unique card and a maximum of three of any non-unique card. As an exception, you may choose one Ringwraith and include up to two copies of his card in your combined play deck and sideboard.
 
 #### Using Your Sideboard When You Exhaust Your Deck
 
 Whenever you exhaust your play deck, you may exchange (before reshuffling) up to 5 cards between your sideboard and discard pile. Each such card taken from your sideboard must be replaced by a card from your discard pile.
 
-#### Using Your Sideboard When You Tap Your Wizard
+#### Using Your Sideboard When You Tap Your Ringwraith
 
-During your organization phase, you may tap your Wizard to bring up to 5 resource and/or character cards from your sideboard into your discard pile.
+During your organization phase, you may tap your Ringwraith to bring up to 5 resource and/or character cards from your sideboard into your discard pile.
 
-Alternatively, if your play deck has at least 5 cards, you may tap your Wizard to bring one resource card directly from your sideboard into your play deck (reshuffle).
+Alternatively, if your play deck has at least 5 cards, you may tap your Ringwraith to bring one resource card directly from your sideboard into your play deck (reshuffle).
 
-#### Using Your Sideboard When You Tap a Nazgul
+#### Using Your Sideboard When You Tap a Nazgul Hazard
 
-During your opponent’s movement/hazard phase, you may tap one of your Nazgul permanent-events in play to bring up to 5 hazard cards from your sideboard into your discard pile. The normal result of tapping a Nazgul does not apply. The Nazgul is discarded. Tapping a Nazgul in this fashion does count against the hazard limit.
+During your opponent’s movement/hazard phase, you may tap and discard one of your Nazgul hazard permanent-events in play to bring up to 5 hazard cards from your sideboard into your discard pile. The normal result of tapping a Nazgul does not apply. The Nazgul hazard is discarded. Tapping a Nazgul hazard in this fashion _does_ count against the hazard limit.
 
-Alternatively, if your play deck has at least 5 cards, you may tap a Nazgul permanent-event to bring one hazard card directly from your sideboard into your play deck (reshuffle).
+Alternatively, if your play deck has at least 5 cards, you may tap and discard a Nazgul hazard permanent-event to bring one hazard card directly from your sideboard into your play deck (reshuffle).
+
+#### Using Your Sideboard When Your Opponent's Ringwraith is in Play
+
+At the end of your opponent's untap phase, if your opponent's Ringwraith is in play, you may at this point bring up to five hazard cards from your sideboard to your discard pile; **or**, if your play deck has at least 5 cards, you may bring one hazard card directly from your sideboard into your play deck (reshuffle).
+
+If you move cards from your sideboard in this fashion, the hazard limit for each of your opponent's companies is reduced to half of normal for the rest of the turn (round up, e.g., a hazard limit of 2
+becomes 1, a hazard limit of 3 becomes 2, etc.).
 
 {: .note }
 > **Clarification:** Your opponent may verify how many cards move to and from your sideboard, but you do not have to reveal what those cards are. 
 > 
-> **Clarification:** Your combined play deck and sideboard cannot violate the 1 unique card and 3 non-unique card limit. However, there is no restriction on the mix of hazards, resources, and characters in your sideboard. That is, for the purposes of your sideboard, you can ignore the play deck restrictions: the limit of 10 characters and the 50/50 resource/hazard mix.
+> **Clarification:** Your combined play deck and sideboard cannot violate the 1 unique card and 3 non-unique card limit. However, there is no restriction on the mix of hazards, resources, and characters in your sideboard. That is, for the purposes of your sideboard, you can ignore the play deck restrictions: the limit of 10 characters and the equal mix of resources and hazards.
+
+### MANIFESTATIONS
+
+Certain entities (e.g., _Stinker_, Ringwraiths, etc.) have several different _manifestations_, each represented by a different card.
+
+ - If one manifestation of such an entity is already in play, you may not play another manifestation of the same entity.
+ - If an attack from a manifestation is defeated, the manifestation is removed from active play and you may not play any further manifestations of the same entity.
+
+{: .note }
+> **Exception:** If you reveal your Ringwraith (see [page 20]()), any manifestations of that Ringwraith are immediately discarded (e.g., a corresponding Nazgul hazard or an identical Ringwraith card that has been played as a "Ringwraith follower," see [page 58]()). You cannot reveal a Ringwraith if your opponent has already revealed that same Ringwraith as his own (non-follower) Ringwraith.
+> 
+> **Exception:** Different manifestations of the same unique Dragon may be in play at the same time.
+> 
+> **Note:** If one card says that it is the manifestation of another card, these restrictions apply to both cards.
+
+{: .note }
+> **Example:** _Stinker_ (a minion ally) is in play with one of your characters. So, neither you nor your opponent can play _My Precious_ (the hazard manifestation of _Stinker_) until _Stinker_ is discarded. Similarly, if your opponent is playing a Wizard, he may not play _Gollum_ (the hero ally manifestation of _Stinker_). lf your _Stinker_ is eliminated, _My Precious_ and _Gollum_ may never
+be played.
+
 ## 3 • GETTING READY TO PLAY
 
 Add your region cards to your location deck. See [pages 54-56](/rules-archive/the-wizards-unlimited#region-movement) for more information on how to use these cards.
