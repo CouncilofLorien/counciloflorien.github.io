@@ -1195,13 +1195,16 @@ be played.
 
 ## 3 • GETTING READY TO PLAY
 
-Add your region cards to your location deck. See [pages 54-56](/rules-archive/the-wizards-unlimited#region-movement) for more information on how to use these cards.
+If both players agree to use _METW_ region cards, add them to your location deck (i.e., you decide to use region movement, see [page 78]()).
 
 {: .note }
 > **Note:** For play balance, we recommend both players have access to approximately the same number of region cards. If this cannot be achieved, region cards should not be used.
+
 ## 4 • THE PLAYER TURN
 
-The [Full Player Turn Summary](/rules-archive/the-wizards-unlimited#full-player-turn-summary) is presented on [pages 68-70](/rules-archive/the-wizards-unlimited#full-player-turn-summary).
+The Full Player Turn Summary is presented on [pages 92-94]().
+
+************
 
 ## 5 • CHARACTERS & COMPANIES
 
