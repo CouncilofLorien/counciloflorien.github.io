@@ -1048,15 +1048,16 @@ The various activities that you and your opponent can perform during play are ca
  - A required or declared dice roll is an action and can be the target of another action or effect declared later in the same chain of effects. Otherwise a card cannot be targeted until it resolves.
  - When the effects of a dice roll require further actions (e.g., a roll for a strike requires a body check), those actions become the first actions (any further rolls come first) in the next chain of effects after the roll.
 
-************************************************
-
 # • PART II •<br>STANDARD RULES
 
 You should read and master the Starter Rules before tackling the Standard Rules.
 
+{: .note }
+> **Note:** These rules apply to a Ringwraith player playing a Ringwraith player. See Part IV ([page 73]()) for guidelines for handling a game between a Ringwraith and a Wizard
+
 ## 1 • THE VICTORY CONDITIONS
 
-The Standard Rules victory conditions differ from those found in the Starter Rules in two ways. First, the players can decide to play a longer game, and/or second, certain modifications to the marshalling point totals can be made at the Free Council.
+The Standard Rules victory conditions differ from those found in the Starter Rules in three ways. First, the players can decide to play a longer game. Second, certain modifications to the marshalling point totals can be made at the Audience with Sauron. Third, _Sudden Call_ may be used as a hazard to cause the Audience with Sauron to be called.
 
 ### THE LONGER GAMES
 
@@ -1064,19 +1065,17 @@ The Starter Game is also called the “1-deck game.” For experienced players w
 
 #### The 2-deck Game
 
-In a “2-deck game” (the “short game”), the Council is called when each play deck has been exhausted twice. You may call the Council when your play deck has been exhausted twice, or when it has been exhausted once and you have at least 25 marshalling points (MPs).
+In a "2-deck game" (the "short game"), the Audience is called when each play deck has been exhausted twice. You may use a _Sudden Call_ card when a play deck has been exhausted twice, or when a play deck has been exhausted once and the player with that deck has at least 25 marshalling points (MPs).
 
 #### The 3-deck Game
 
-In a “3-deck game” (the “long game”), the Council is called when each play deck has been exhausted three times. You may call the Council when your play deck has been exhausted three times, or when it has been exhausted twice and you have at least 30 marshalling points. Increase the sideboard size to 20 cards.
+In a "3-deck game" (the "long game"), the Audience is called when each play deck has been exhausted three times. You may use a _Sudden Call_ card when a play deck has been exhausted three times, or when a play deck has been exhausted twice and the player with that deck has at least 30 marshalling points (MPs). Increase the sideboard size to 30 cards.
 
 #### The 4-deck Game
 
-In a “4-deck game” (i.e., the “campaign game”), the Council is called when each play deck has been exhausted four times. You may call the Council when your play deck has been exhausted four times, or when it has been exhausted three times and you have at least 40 marshalling points. Increase the sideboard size to 25 cards.
+In a "4-deck game" (the "campaign game"), the Audience is called when each play deck has been exhausted four times. You may use a _Sudden Call_ card when a play deck has been exhausted four times, or when a play deck has been exhausted three times and the player with that deck has at least 40 marshalling points (MPs). Increase the sideboard size to 35 cards.
 
 ### MARSHALLING POINT MODIFICATIONS
-
-At the Free Council, you may reveal any unique marshalling point cards in your hand that match unique cards that your opponent has in play. Each such revealed card reduces your opponent’s marshalling point total by one.
 
 There are six different types of marshalling points; each is associated with a specific shape:
 
@@ -1084,51 +1083,54 @@ There are six different types of marshalling points; each is associated with a s
 | Item Points (Major, Greater, & Rings only) | ![](/assets/images/itemmp.svg) | 
 | Faction Points | ![](/assets/images/factionmp.svg) | 
 | Ally Points | ![](/assets/images/allymp.svg) | 
-| Kill Points (from defeating creatures) | ![](/assets/images/killmp.svg) | 
+| Kill Points (from defeating "\*" creatures) | ![](/assets/images/killmp.svg) | 
 | Miscellaneous Points | ![](/assets/images/miscmp.svg) | 
 
-These types of marshalling points can affect your marshalling point
-total in two ways:
+At the audience, these types of marshalling points affect your final marshalling point total in two ways (apply them in the order listed):
 
 - If your opponent has zero (or negative) points for any one type of marshalling point, your points for that same type of marshalling point are doubled. This doesn’t apply to kill points and miscellaneous points.
 - No more than half (round up) of your final marshalling points can come from any one type of marshalling point. If one type of marshalling point is over half of your total, reduce the points for that type until they are only half (or less) of your total.
 
+Finally, you may reveal any unique marshalling point cards in your hand that match unique cards your opponent has in play. Each such revealed card reduces your opponent's final MP total by one.
+
 {: .note }
-> **Clarification:** These marshalling point modifications do not apply until the Free Council actually takes place. Specifically, the modifications do not affect your marshalling point total when it is used to determine if you can call the Free Council (i.e., you need 20 MPs to call the Free Council before any of these modifications are made).
+> **Clarification:** These marshalling point modifications do not apply until the audience actually takes place. Specifically, the modifications do not affect your MP total when it is used to determine if you can call the audience (i.e., you need 20 MPs to call the audience before any modification).
+
 {: .note }
-> **Example:** Let’s look again at our example from [page 11](/rules-archive/the-wizards-unlimited#the-free-council). Assume Jason failed to play the Men of Northern Rhovanion (3 MPs) on his last turn. Assume none of the characters failed a corruption check (i.e., they all come to the Free Council). 
+> **Example:** Let’s look again at our example with Wendy and Nick at the Audience With Sauron using Standard Rules. Assume their companies are composed as outlined in the example on [page 8](). Let's also assume Nick failed to play the _Hillmen_ faction. After corruption checks are made, Wendy has a raw marshalling point (MP) total of 20 and Nick has a MP total of 18.
 > 
-> Jessica notices that Jason has no faction points (he blew his roll to get the Men of Northern Rhovanion). So her faction points are doubled to 4. 
-> 
-> Unfortunately, Jason’s problems are not over. He failed to get the 3 MPs from the Men of Northern Rhovanion; so his MP total is only 14—8 of them are character points and only 6 are non-character points. Since you cannot have more than half of your points from any one source, Jason only gets 6 MPs from his characters.
+> Wendy notices that Nick has no faction points. So her faction points are doubled to 10. Unfortunately, Nick's problems are not over. 11 of his marshalling points are character points and only 7 are non-character points. Since he cannot have more than half of his points from any one source, Nick only gets 7 MPs from his characters.
 > 
 > At this point, the marshalling points (MPs) break down as follows:
 > 
-> | Jessica’s MP Cards | MPs | Modified MPs |
-> | :--- | :---: | ---: |
-> | Celeborn  |  2  |  2
-> Elladan  |  1  |  1
-> Elrohir  |  1  |  1
-> Gildor Inglorion  |  1  |  1
-> Legolas  |  2  |  2
-> Sword of Gondolin (item)  |  2  |  2
-> Men of Lebennin (faction)  |  2  |  4
-> Gwaihir (ally)  |  2  |  2
-> Dreams of Lore (misc)  |  2  |  2
-> **Total**  | **15** |  **17**
+> | Wendy's MP Cards | Initial MPs | Modified MPs |
+> | :------------- | :---: | ---: |
+> | Troll-chief   | 2 | 2 |
+> | Troll Lout | 1  | 1 |
+> | Shagrat  | 2 | 2 |
+> | Grisnakh  | 1 | 1 |
+> | Orc Tracker | 1 | 1 |
+> | Black Mace (item)  | 2 | 2 |
+> | Magic Ring of Fury (item) | 2 | 2 |
+> | Beornings (faction) | 3 | 6 |
+> | Orcs of Angmar (faction) | 2 | 4 |
+> | The Warg-king (ally)  | 2 | 2 |
+> | Sieze Prisoners (miscellaneous) | 2 | 2 |
+  
+> | Nick's MP Cards | Initial MPs | Modified MPs |
+> | :------------- | :---: | ---: |
+> | Ciryaher | 2 | 2 |
+> | Tarcil | 2 |  2 |
+> | Lieutenant of Morgul | 3 | 3 |
+> | Orc Captain | 2 | 0 |
+> | Orc Captain | 2 | 0 |
+> | Palantir of Orthanc (item) | 3 | 3 | 
+> | Magic Ring of Enigma (item) | 2 | 2  | 
+> |  Stinker (ally) | 2 | 2 |
+> | **Total** | **18** | **14** |
 > 
-> | Jason’s MP Cards | MPs | Modified MPs |
-> | :--- | :---: | ---: |
-> Beorn  |  2  |  2
-> Faramir  |  2  |  2
-> Imrahil  |  2  |  2
-> Theoden  |  2  |  0
-> Sword of Gondolin (item)  |  2  |  2
-> Great Shield of Rohan (item)  |  2  |  2
-> Quickbeam (ally)  |  2  |  2
-> **Total**  | **14**  | **12**
-> 
-> At this point, Jason reveals that he has cards for Gwaihir, Legolas, and Elrohir in his hand (he was saving them for this). Since they duplicate three of Jessica’s unique MP cards, her MP total is reduced by one for each of these cards. Thus, Jessica ends up with 14 MPs and Jason ends up with 12 MPs— Jessica wins. Jason curses his luck because he failed to bring the Men of Northern Rhovanion into play on his last turn.
+> At this point, Nick reveals that he has cards for _The Warg-king_, Shagrat, and Grishnakh in his hand (he was saving them for this). Since they duplicate three of Wendy's unique MP cards, her MP total is reduced by one for each of these. Thus. Wendy ends up with 22 MPs and Nick ends up with 14 MPs—Wendy wins. Nick curses his luck because he failed to bring the _Hillmen_ into play on his last turn.
+
 ## 2 • THE CARDS AND DECKS
 
 In addition to the normal location deck and play deck, you can have a 15 card “sideboard” deck. A sideboard can contain resource, hazard, and character cards. However, the combined play deck and sideboard can only contain one of each unique card and a maximum of three of any non-unique card.
