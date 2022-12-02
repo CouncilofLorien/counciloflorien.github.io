@@ -1334,9 +1334,11 @@ During your turn, you may draw cards based on one of your moving companies only 
 
 ### PLACING A CARD ON-GUARD
 
-During the movement/hazard phase of your opponent’s turn, you may place one card on-guard for each of your opponent’s companies. This card is played face down next to the company’s new site or next to its current site if it did not move. Any card can be placed on-guard (i.e., it does not have to be a hazard, you can bluff). Such a card does count against the hazard limit for the company it is placed on. The card will remain on that site until one of the following occurs:
+During the movement/hazard phase of your opponent’s turn, you may place one card on-guard for each of your opponent’s companies. This card is played face down next to the company’s new site or next to its current site if it did not move. Any card can be placed on-guard (i.e., it does not have to be a hazard, you can bluff). Such a card does count against the hazard limit for the company it is placed on. 
 
- - _The company decides to face the site’s automatic-attack_. If the onguard card is a hazard creature keyed to the company’s site **or** a hazard that can modify the automatic-attack, it may be revealed before the automatic-attack is resolved. If it is a hazard creature, it will attack after the automatic-attack is resolved.
+The card will remain on that site until one of the following occurs:
+
+ - _The company decides to face the site’s automatic-attack_. If the on-guard card is a hazard creature keyed to the company’s site **or** a hazard that can modify the automatic-attack, it may be revealed before the automatic-attack is resolved. If it is a hazard creature, it will attack after the automatic-attack is resolved.
  - _The company plays a card keyed to the site_. If the on-guard card is a non-creature hazard, it may be revealed if it is a hazard that directly affects the company or a character in the company (e.g., a hazard that forces all characters to make a corruption check).
  - Otherwise, return the card to your hand at the end of the site phase. 
  
