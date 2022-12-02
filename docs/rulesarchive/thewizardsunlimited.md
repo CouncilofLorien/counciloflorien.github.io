@@ -1309,7 +1309,7 @@ To influence an opponent’s faction, you must make an influence check as outlin
 
  - Instead of a mind attribute, the influence check uses the value usually required to bring the faction into play (as given on the faction’s card).
  - The influence check is modified by any of the faction’s applicable “Standard Modifications” (as given on the faction’s card).
- - Revealing an identical faction card reduces the the value usually required to bring the faction into play to zero and allows you to play that card if the influence check is successful. 
+ - Revealing an identical faction card reduces the value usually required to bring the faction into play to zero and allows you to play that card if the influence check is successful. 
 
 You may only influence an opponent’s factions if the influencing character is at the site where the faction was played. 
  
