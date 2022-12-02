@@ -1251,7 +1251,7 @@ To attempt to influence one of your opponent’s non-Wizard characters you must 
 
  - Add the influencing character’s unused direct influence.
  - Subtract your opponent’s unused general influence points.
- - Subtract the result of a roll (2D6) made by your opponent .
+ - Subtract the result of a roll (2D6) made by your opponent.
  - Add any other modifications (from cards and special abilities). All modification cards must be played before making the roll.
 
 If the modified result is greater than the target’s mind attribute, the target character card and all of the non-follower cards he controls are discarded. Otherwise, nothing happens.
