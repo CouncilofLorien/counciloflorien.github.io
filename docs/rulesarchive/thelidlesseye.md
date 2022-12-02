@@ -1204,7 +1204,6 @@ If both players agree to use _METW_ region cards, add them to your location deck
 
 The Full Player Turn Summary is presented on [pages 92-94]().
 
-
 ## 5 • CHARACTERS & COMPANIES
 
 There are several Standard Rules changes involving characters and companies.
@@ -1228,116 +1227,161 @@ These limitations also apply to moving companies.
 
 #### Discarding Characters
 
-Instead of bringing a new character/Wizard into play during your organization phase, you may discard a character that is at a Haven or at his home site. A Wizard may not be discarded.
+Instead of bringing a new character into play during your organization phase, you may discard a character that is at a Darkhaven or at his home site. Your Ringwraith may not be discarded.
 
-You must take this action when you are forced to discard a character due to a lack of available influence. In this case, the character(s) need not be at a Haven.
+You must take this action when you are forced to discard a character due to a lack of available influence. In this case, the character(s) need not be at a Darkhaven.
 
-#### Bringing Characters into Play
+{: .note }
+> **Clarification:** If a charac1er's mind changes at any point, the influence required to control him also changes
+> **Clarification:** If you do not have enough influence to control all of your character in p!ay, they remain in play. However, you must discard any excess characters at the end of your next organization phase. If you bring a character into play during your organization phase and then do not have enough influence to control him. the character just brought into play must be returned to your hand at the end of your organization phase.
 
-Before you play your Wizard, you may use general influence to bring a character into play at any haven or at his home site. After revealing your Wizard, you may use general influence to bring a character into play only if your Wizard is at the site at which the character arrives (i.e., a Haven or the character’s home site).
+### BRINGING CHARACTERS INTO PLAY
+
+To play a character card, you must have enough general influence or direct influence available to control the character. In addition, you must meet **both** of the following requirements:
+
+ - If the character is _not_ an agent, you may only play him at his home site or at any Darkhaven site. If the character is an agent, you may only play him at his home site.
+ - If your Ringwraith is in play, your Ringwraith (or a character with enough direct influence to control the character to be played) must be at the site at which the character is to be played.
+
+### RINGWRAITH FOLLOWERS
+
+If the following conditions are met, you may bring another (different) Ringwraith character into play at your Ringwraith's site—such a character is called a "Ringwraith follower."
+
+ - Your Ringwraith is already in play.
+ - Your Ringwraith is at a Darkhaven **or** he is at the Ringwraith follower's home site.
+ - You have the card of the additional Ringwraith in your hand.
+ - Your opponent does _not_ have the Ringwraith already in play **and** the Ringwraith has _not_ been eliminated.
+ - You have the card or ability allowing a Ringwraith follower to be played (e.g., _They Ride Together_, The Witch-king's ability).
+
+A Ringwraith follower must always be under the control of your Ringwraith and may move to non-Darkhaven sites with your Ringwraith. Your Ringwraith must use 1 point of direct influence to control each Ringwraith follower. Your Ringwraith followers may not be influenced away by your opponent.
+
+A Ringwraith follower may not use any of its special abilities. Uvatha's ability to automatically join another Ringwraith's company is an exception to this.
+
+When you reveal your Ringwraith, your opponent must discard any identical Ringwraith card that has been played as a Ringwraith follower.
+
+### RINGWRAITH EFFECTS
+
+This is a summary of the special effects of the Ringwraith character.
+
+ - A Ringwraith may only be in a company with non-Ringwraith characters if he is at a Darkhaven.
+ - Any ring in the Ringwraith's company at the beginning of the end-of-turn phase is automatically tested. Any ring test in a Ringwraith company has a modification of -2.
+ - A Ringwraith may carry items (including rings) but may not use them (i.e., an item has no effect on a Ringwraith's company or on his attributes and abilities). 
+ - Ringwraiths never make corruption checks and corruption cards may not be played on Ringwraiths. 
+ - Unless at a Darkhaven, a Ringwraith may not be in a company with non-Ringwraith characters.
+ - A Ringwraith may not use a site path that contains Coastal Sea regions.
+ - A Ringwraith's company may not use region movement.
+ - A Ringwraith follower is only discarded as described on the mode cards (i.e., _Heralded Lord_, _Black Rider_, and _Fell Rider_).
+ - A Ringwraith follower (see the previous page) may not use any of its special abilities. Uvatha's ability to automatically join another Ringwraith's company is an exception to this.
+ - If a body check against a Ringwraith is exactly equal to 7 or 8, the Ringwraith is returned to your hand. You do not lose the game if your Ringwraith is removed in this fashion—you may bring such a Ringwraith back into play in the same fashion as your revealed him in the first place. If this happens to your Ringwraith, you may _not_ reveal a different Ringwraith as your Ringwraith **and** your opponent may not reveal the Ringwraith that you returned to your hand.
+
+{: .note }
+> **Note:** This represents the Ringwraith's mount being eliminated.
 
 
+### SPLITTING A COMPANY AT A NON-DARKHAVEN SITE 
 
-#### Splitting a Company at a Non-Haven Site
-
-During the organization phase, a company at a non-haven site may split into two or more companies. The following instructions apply:
+During the organization phase, a company at a non-Darkhaven site may split into two or more companies. The following instructions apply:
 
  - One of the companies may remain at the current site.
- - One of the companies may return to the Haven site indicated by the current site’s site path.
+ - One of the companies may return to the nearest Darkhaven site indicated by the current site’s card.
  - Any other companies must move to different sites using region movement.
 
 {: .note }
 > **Clarification:** These restrictions mean that two companies may not start at the same site and then move to the same site separately (i.e., in such a situation the two companies would have to move as one company). 
  
-#### Joining Two Companies at a Non-Haven Site
-
-During the organization phase, two companies may move to the same site, but one of the following cases must apply:
-
- - One and only one company may already be at the site. In this case the other company must state that its new site card is already in play (the current site card for the non-moving company).
- - One company moves to the site using the site path on that site card (i.e., the company starts at the site’s nearest Haven), and the other company moves to the site using region cards for its site path. In this case, both companies must state that the same face down site card is their new site card.
-
-In both cases, the two companies must face hazards separately and are then combined at the end of the movement/hazard phase.
-
-
-
 ## 6 • MOVEMENT
 
-There are two ways to move from one site to another. A company can use the site path on a site card (see the Starter Rules) **or** it can use region cards as its site path to a specific site card (i.e., region
-movement). 
+If you have _Middle-earth: The Wizards_ cards (or an appropriate map), there are two ways to move from one site to another. A company can use the site path on a site card (i.e., starter movement, see the Starter Rules) **or** it can use region cards as its site path to a specific site card (i.e., region movement).
+
+_A Ringwraith's company may not use region movement._
+
+If both players agree, they can use region movement as it is used in _METW_. See page 78 for region movement guidelines.
 
 {: .note }
-> **Clarification:** Region movement is not necessary to play this game. Region movement just gives you more options; i.e., with region movement a company need not move to a Haven every other turn. Region cards are not included in starter decks.
-### REGION MOVEMENT
+> **Clarification:** Region movement is not necessary to play this game. Region movement just gives you more options; i.e., with region movement a company need not move to a Darkhaven every other turn. Region cards are not included in _MELE_. However, the map in the color insert facilitates region movement.
 
-To use region movement, play a new site card (face down) and a series of up to four regions (face down) that connect the company’s current site with the new site (i.e., the company moves). A series of regions “connects” two sites if:
+### MOVING COMPANIES TO THE SAME NON-DARKHAVEN SITE
 
-- The current (i.e., site of origin) site is located in the first region, **and**
-- That region card is adjacent to the next region card played, **and**
-- That region card is adjacent to the next region card played, … , **and**
-- Finally, the last region card played is the region that the new site card is located in.
+During the organization phase, two or more companies may move to the same non-Darkhaven site, but one of the following cases must apply:
 
-A region is adjacent to another region if and only if each region lists the other region on its card.
+ - One company may already be at the site. In this case the other company must state that its new site card is already in play (the current site card for the non-moving company). This site card remains in play until at least the end of the turn.
+ - Two or more companies moving to the site must state that the same face down site card is their new site card.
 
-{: .note }
-> **Clarification:** To use region movement for a company, the region cards played must include the region containing the company’s current site and the region containing the new site. If both the current site and the new site are in the same region, only that region card need be played.
-> 
-> **Clarification:** If two sites are separated by more than four regions, a company may not travel directly between them in one turn (unless some special resource card is used, e.g., Bridge, Shadowfax, etc.). The company must first travel to interim sites (one per turn) until it reaches a site that is within four regions of the destination site.
-> 
-> **Clarification:** Certain regions may appear to be adjacent on the maps, but turn out not to be adjacent upon examination of the lists on their cards. For example, Dagorlad and Rohan appear to be adjacent on the maps, but they are really separated by the Anduin River.
-#### Playing Hazards
-
-For the purposes of playing hazards, the site path for a company using region movement is defined by the region types of the region cards played. You can use a creature hazard to _directly attack_ one of your opponent’s companies if at least one of the region types on the creature’s card matches that region type of a region card played by the company (two are required for creatures that require two symbols of the same type).
+In both cases, the two companies must face hazards separately and are then combined at the end of the movement/hazard phase. If two companies end up at a first and combining those companies would biolate the limitations on copmany composition (see [page 57]()), one of these companies must return to its site of origin. Similarly, an effect that causes such a violation is cancelled.
 
 {: .note }
-> **Clarification:** Region movement can be more dangerous to use than normal movement—certain creatures can be played keyed to specific region cards.
-> 
-> For example, suppose you decide to move a company from Lorien to the Easterling Camp using the region cards: Wold & Foothills (![](/assets/images/wilderness.svg)), Brown Lands (![](/assets/images/shadow-land.svg)), Dagorlad (![](/assets/images/shadow-land.svg)), and Horse Plains (![](/assets/images/shadow-land.svg)). The region types traveled through are the same as the site path used in normal movement between Lorien and the Easterling Camp (as given on the Easterling Camp site card)—so the same creatures may be played against the company based on region type. Adunaphel (a Nazgul) card normally can only be played keyed to dark-holds and dark-domains, but it also states that it can be played keyed to Dagorlad (and the Brown Lands). Thus, Adunaphel could be played on this company as it moves through Dagorlad. Similarly, Indur Dawndeath and Khamul the Easterling could also be played. 
-{: .note }
-> **Example:** Lets look at our example for movement from the Starter Game (see [page 26](/rules-archive/the-wizards-unlimited#moving-from-a-haven-site)). Jessica’s company in Bree (in the Arthedain region) wants to move to Thranduil’s Halls (in the Woodland Realm region) in order to bring the Wood-elves faction into play. If she does not use region movement, this takes three turns: Bree to Rivendell, Rivendell to Lorien, and Lorien to Thranduil’s Halls. Using region movement, she can do it in 2 turns. 
-> 
-> The shortest number of region cards required for this move is 5 and there are two possible routes:
-> 
-> - Arthedain ![](/assets/images/wilderness.svg), Rhudaur ![](/assets/images/wilderness.svg), High Pass ![](/assets/images/wilderness.svg), Anduin Vales ![](/assets/images/border-land.svg), Woodland Realm ![](/assets/images/border-land.svg).
-> - Arthedain ![](/assets/images/wilderness.svg), Angmar ![](/assets/images/shadow-land.svg), Gundabad ![](/assets/images/dark-domain.svg), Anduin Vales ![](/assets/images/border-land.svg), Woodland Realm ![](/assets/images/border-land.svg).
-> 
-> Jessica decides on the first, less dangerous route. However, it is more than 4 regions long, so her company must first move to another site along the way. Jessica looks at her hand and sees that she has a Precious Gold Ring, so she decides move to Gladden Fields (in the Anduin Vales) to try and get the ring on her way to Thranduil’s Halls (why waste a turn).
-> 
-> On her first turn, she moves to the Gladden Fields by playing the Gladden Fields site and the following regions: Arthedain ![](/assets/images/wilderness.svg), Rhudaur ![](/assets/images/wilderness.svg), High Pass ![](/assets/images/wilderness.svg), Anduin Vales ![](/assets/images/border-land.svg). 
-> 
-> On her second turn, she moves to Thranduil’s Halls by playing the Thranduil’s Halls site and the following regions: Anduin Vales ![](/assets/images/border-land.svg), Woodland Realm ![](/assets/images/border-land.svg).
+> **Note:** This means that your Ringwraith's company may not move to the same non-Darkhaven site as one of your other companies, since this would result in your Ringwraith joining with other characters.
  
 ## 7 • COMBAT
-An _untapped_ character that is not the target of a strike may tap to support a character in the same company that is the target of a strike. The target’s prowess is modified by +1 for each supporting character.
+An _untapped_ character that is not the target of a strike may tap to _support_ a character in the same company that is the target of a strike. The target’s prowess is modified by +1 for each supporting character.
 
 {: .note }
-> **Clarification:** If a character is assigned a strike from an attack, he may **not** tap to support a character that is facing a strike from the same attack. An ally may tap to give a +1 prowess modification in this manner. 
+> **Clarification:** An ally may tap to give a +1 prowess modification in this manner. 
+
 {: .note }
-> **Example:** A Cave Drake (two strikes, 10/–) attacks your company which consists of the untapped characters: Bilbo, Balin, Bofur, Beretar, and Beregond.
-> 
-> You opponent assigns the two strikes to Bilbo and Balin. You play a Halfling Stealth to cancel the strike against Bilbo. Balin is carrying the Arkenstone, so you really want to keep him alive. You tap Balin to face the attack, and you tap Bofur and Beregond to support him. You would also like to tap Bilbo for support, but you cannot—he was assigned a strike, so he is still a target of this attack. Balin has a prowess of 6 versus this attack: 4 (his own prowess) + 1 (Bofur’s support) + 1 (Beregond’s support).
+> **Example:** A _Cave-drake_ (two strikes, 10/–) attacks your company which consists of the untapped characters: Gorbag, Snaga, Muzgash, Ufthak, and an Orc Veteran. _Cave-drake_ allows your opponent to assign the strikes, so he assigned them to Gorbag and Muzgash. Gorbag takes his strike without tapping and rolls a 12, easily defeating the attack. Muzgash has _He'll Talk_[^helltalk] played on him, so you want him to survive. You tap Snaga, Ufthak, and the Orc Veteran to aid Muzgash in facing the strike. You would also like to tap Gorbag, but you cannot—he was assigned a strike from the attack, so he is still a target of this attack. Muzgash has a prowess of 7 versus this attack?: 4 (his own process) + 1 (Snaga's support) + 1 (Ufthak's support) + 1 (Orc Veteran's support).
+
+### CANCELING AN AUTOMATIC-ATTACK
+
+A character at one of his home sites may tap to cancel one automatic-attack at that home site. This does not apply if a character's home site is not a specific site (e.g., an Orc with an "Any Dark~hold" home site may not cancel an attack in this fashion).
+
+### MARSHALLING POINTS
+
+You only receive kill marshalling points for defeating a creature  with an \* next to its marshalling points. You may use the creature's card as a trophy card (see below) **or** you may place the card in your marshalling point pile.
+
+{: .note }
+> **Note:** A Wizard player does not receive marshalling points for defeating such a creature with an \* next to its marshalling points.
+
+If you defeat a creature that does not have an * next to its marshalling points, you may use the creature's card as a trophy card (see below) **or** you may place the card in your out-of-play pile. You do **not** receive marshalling points for defeating it.
+
+{: .note }
+> **Note:** You do not receive marshalling points if the creature you defeat is one of your own cards.
+
+### TROPHIES
+
+If one of your minion companies defeats a creature, you may place the creature's card under the control of any Orc or Troll character that faced a strike from the creature's attack. This card is called a "_trophy_" and is treated as a minor item with zero corruption points. A trophy may not be transferred or stored. If a trophy that is _not_ worth kill marshalling points to you is discarded, it is placed in your out-of-play pile. If a trophy that is worth kill marshalling points to you is discarded, it is placed in your marshalling point pile.
+
+Trophies give a character bonuses based upon the total number of marshalling points indicated by the trophies (i.e., on the creature cards). One and only one of the following sets of bonuses applies to a character with trophies:
+
+ - If a character's trophies have 1 marshalling point, the character receives + 1 to direct influence.
+ - If a character's trophies have 2 marshalling points, the character receives +1 to direct influence and +1 to prowess (to a maximum of 9)
+ - If a character's trophies have 3 marshalling points, the character receives +2 to direct influence and +l to prowess (to a maximum of 9).
+ - If a character's trophies have 4 or more marshalling points, the character receives +2 to direct influence and +2 to prowess (to a maximum of 9).
+
+{: .note }
+> **Note:** You may not use one of your own cards as a trophy.
+
 ## 8 • CORRUPTION
 
-Before the roll is made for a corruption check, you may tap other characters in the same company as the character making the check. The corruption check is modified by +1 for each such character and/or Wizard tapped. 
+Before the roll is made for a corruption check, you may tap other characters in the same company as the character making the check. The corruption check is modified by +1 for each such character tapped.
+
+A corruption check for any character in a Ringwraith's company is modified by +2.
 
 {: .note }
 > **Clarification:** If more than one character in a company are forced to make corruption checks, the corruption checks are resolved one at a time in an order chosen by the player controlling the characters. Each character tapped may only give a +1 modification to one corruption check, **not** to all of the corruption checks.
 > 
-> **Clarification:** When the Free Council is called, a character may only tap to give a +1 corruption check modification to another character in the same company.
+> **Clarification:** When the Audience with Sauron is called, a character may only tap to give a +1 corruption check modification to another character in the same company.
+
 {: .note }
-> **Example:** Your company consists of the untapped characters: Bilbo, Balin, Bofur, Beretar, and Beregond. A Weariness of the Heart is played on Balin, requiring him to make a corruption check.
+> **Example:** Your company consists of the untapped characters: Gorbag, Snaga, Muzgash, Ufthak, and an Orc Veteran. A _Weariness of the Heart_ is played on Gorbag, requiring him to make a corruption check.
 > 
-> Balin is carrying the Arkenstone (4 corruption points) and some Healing Herbs (1 corruption point), so you tap Bilbo and Beregond to help him with his corruption check. Balin has a corruption point total of 5, but his roll is modified by +2 (+1 for Bilbo and +1 for Beregond). He will only fail if he rolls 3 or less.
+> Gorbag is carrying _The Iron Crown_ (5 corruption points), so you tap Ufthak and Musgash to help him with his corruption check. Gorbag has a corruption point total of 5, but his roll is modified by +2 (+1 for Ufthak and +1 for Muzgash). He cannot fail and will only tap on a 3 or less.
+
 ## 9 • INFLUENCE
 
-Influence is the only way that your characters can directly affect your opponent’s resources. During your site phase, one and only one of your characters may tap to attempt to influence away one of your opponent’s characters, followers, allies, factions, or items. This may only take place if the influencing character and the target of the influence are at the same site. If you successfully influence the target, it is discarded. In some cases, you may reveal an identical card and attempt to play it (i.e., he convinces the target to join his side). Such an influence attempt may not be made on the first turn, and a Wizard may not make such an attempt on the turn he is revealed.
+Influence is the only way that your characters can directly affect your Ringwraith opponent’s resources. During your site phase, one and only one of your characters may tap to attempt to influence away one of your opponent’s characters, followers, allies, factions, or items. This may only take place if the influencing character and the target of the influence are at the same site. If you successfully influence the target, it is discarded. In some cases, you may reveal an identical card and attempt to play it (i.e., he convinces the target to join his side). 
+
+Such an influence attempt may not be made on the first turn, and your Ringwraith may not make such an attempt on the turn he is revealed.
+
+{: .note }
+> **Note:** An influence check can never be made against your Ringwraith, a Ringwraith follower, an ally controlled by your Ringwraith, or an item controlled by your Ringwraith.
 
 #### Influencing an Opponent’s Character
 
-To attempt to influence one of your opponent’s non-Wizard characters you must make an influence check. You make a roll (2D6) and:
+To attempt to influence one of your opponent’s non-follower characters you must make an influence check. You make a roll (2D6) and:
 
  - Add the influencing character’s unused direct influence.
  - Subtract your opponent’s unused general influence points.
- - Subtract the result of a roll (2D6) made by your opponent .
+ - Subtract the result of a roll (2D6) made by your opponent.
  - Add any other modifications (from cards and special abilities). All modification cards must be played before making the roll.
 
 If the modified result is greater than the target’s mind attribute, the target character card and all of the non-follower cards he controls are discarded. Otherwise, nothing happens.
@@ -1346,42 +1390,6 @@ If you reveal an identical character card from your hand before making the roll 
 
 {: .note }
 > **Clarification:** If you reveal an identical character in order to nullify the target character’s mind attribute for an influence check, you must discard that character if you do not play him.
-{: .note }
-> **Example:** Jessica and Jason each have one company organized as follows: 
-> 
-> ```mermaid
-> %%{init: {'flowchart' : {'curve' : 'linear'}, 'theme': 'base', 'themeVariables': { 'primaryColor': '#fff','primaryBorderColor': '#44434d','fontFamily': 'timesnewroman'}}}%%
-> graph TD
->     GI("Jessica's General Influence (-•20)") 
->     GI --- Ell("Elladan (6•0)")
->     GI --- Leg("Legolas (6•2+2)")
->     Leg --- Elr("Elrohir (4•0)")
->     GI ---Cel("Celeborn (6•1)")
->     Pal("Pallando (-•10)") --- Gil("Gildor<br>Inglorion (4•0)")
-> ```
-> 
-> ```mermaid
-> %%{init: {'flowchart' : {'curve' : 'linear'}, 'theme': 'base', 'themeVariables': { 'primaryColor': '#fff','primaryBorderColor': '#44434d','fontFamily': 'timesnewroman'}}}%%
-> graph TD
->     GI("Jason's General Influence (-•20)") 
->     GI --- The("Theoden (6•3)")
->     GI --- Far("Faramir (5•1)")
->     GI --- Imr("Imrahil (6•2)")
->     Rad("Radagast (-•10)") --- Beo("Beorn (7•2)")
-> ```
-> 
-> Jessica moves her company to the same site as Jason’s company. During her site phase, Pallando attempts to influence Faramir. Jessica has 4 unused general influence, Jason has 3 unused general influence, and Pallando has 6 unused direct influence. Jessica rolls 2D6 and gets a 8, while Jason rolls 2D6 and gets a 7. So the modified result of the influence check is 4 = 8 (Jessica’s roll) + 6 (Pallando’s unused direct influence) - 3 (Jason’s unused general influence) - 7 (Jason’s roll). This result is not greater than Faramir’s mind attribute of 5, so Faramir is not influenced and remains in play. If Jessica had rolled a 10 or higher, Faramir would have been discarded.
-> 
-> If Jessica had revealed a Faramir card from her hand before the rolls were made, his mind attribute would have been zero for the purposes of this roll. In this case, the influence check would have been successful—Jason would have discarded his Faramir card and Jessica would have played her Faramir card. He must be played as Pallando’s follower because she only has 4 unused general influence.
-> 
-> In the case in which Faramir is influenced, Jessica should not celebrate too much. During his turn, Jason can shift Beorn to control by general influence and then use Radagast’s 10 unused general influence points to attempt to influence one of Jessica’s characters.
-#### Influencing an Opponent’s Ally
-
-To influence an opponent’s ally, you must make an influence check as outlined above. However, the following exceptions apply:
-
- - Instead of the controlling character’s mind attribute, the influence check uses the ally’s mind attribute.
- - The result is also modified by the “unused direct influence” of the character controlling the ally. 
- - Revealing an identical ally card reduces the ally’s mind attribute to 0 and allows you to play the card if the influence check is successful.
 
 #### Influencing an Opponent’s Follower
 
@@ -1393,9 +1401,17 @@ To influence an opponent’s faction, you must make an influence check as outlin
 
  - Instead of a mind attribute, the influence check uses the value usually required to bring the faction into play (as given on the faction’s card).
  - The influence check is modified by any of the faction’s applicable “Standard Modifications” (as given on the faction’s card).
- - Revealing an identical faction card reduces the the value usually required to bring the faction into play to zero and allows you to play that card if the influence check is successful. 
+ - Revealing an identical faction card reduces the value required to bring the faction into play to zero and allows you to play that card if the influence check is successful. 
 
 You may only influence an opponent’s factions if the influencing character is at the site where the faction was played. 
+
+#### Influencing an Opponent’s Ally
+
+To influence an opponent’s ally, you must make an influence check as outlined above. However, the following exceptions apply:
+
+ - Instead of the controlling character’s mind attribute, the influence check uses the ally’s mind attribute.
+ - The result is also modified by the “unused direct influence” of the character controlling the ally. 
+ - Revealing an identical ally card reduces the ally’s mind attribute to zero and allows you to play the card if the influence check is successful.
  
 #### Influencing an Opponent’s Item
 
@@ -1403,41 +1419,65 @@ To influence an opponent’s item, you must make an influence check as outlined 
 
  - The mind attribute of the character controlling the item is used.
  - The result is also modified by subtracting the “unused direct influence” of the item’s controlling character.
- - You _must_ reveal an identical item card in order to make an influence attempt on an item (i.e., you are attempting to convince the controlling character that the item would be more useful to the cause of the Free Peoples in your hands). If the influence check is successful, you may play your card with the character that made the influence check—if you choose not to play the item, discard it.
+ - You _must_ reveal an identical item card in order to make an influence attempt on an item (i.e., you are attempting to convince the controlling character that the item would be more useful to Sauron's cause in your hands). If the influence check is successful, you may play your card with the character that made the influence check—if you choose not to play the item, discard it.
 
 {: .note }
 > **Clarification:** The unused direct influence for an influence check against an item **is** affected by any direct influence modification that the target item gives its bearer.
+
+{: .note }
+> **Example:** Wendy moves her company to the same site as Nick's company. During her site phase, Lieutenant of Morgul attempts to influence Radbug (an Orc). Wendy has 5 unused general influence, Nick has 2 unused general influence, and Lieutenant of Morgul has 2 unused direct influence. Since Lieutenant of Morgul is attempting to influence an Orc, his special ability gives him +3 direct influence for a torn! of 5. Finally, Wendy reveals her own Radbug card. So. Radbug's mind is O for the purposes of this roll.
+> 
+> Wendy rolls 2D6 and gets a 6, while Nick rolls 2D6 and gets a 7. So the modified result of the influence check is 2 = 6 (Wendy's roll) + 5 (Lieutenant of Morgul's unused direct influence)- 2 (Nick's unused general influence) - 7 (Nick's roll).
+> 
+> This is greater than Radbug' s mind (0 for this roll), so Nick's Radbug card is discarded. Since Wendy revealed her Radbug card, she may now play it with her company. She decides to control him with her unused general influence, rather than place him as a follower of Lieutenant of Morgul.
+> 
+> Nick smiles when he sees this. On his turn he does not move. During the site phase he enters the site and his Lieutenant of Dol Guldur attempts to influence Radbug' s card back. Lieutenant of Dol Guldur has 3 unused direct influence and a +2 direct influence against Orcs. Wendy now only has 1 unused general influence, since she used 4 to control Radgug.
+> 
+> Nick rolls 2D6 and gets a 5, while Wendy rolls 2D6 and gets a 7. So the modified result of the influence check is 2 = 5 (Nick's Roll) + 5 (Lieutenant of Dol Guldur's unused direct influence) 1 1 (Wendy's unused general influence) -7 (Wendy's roll).
+> 
+> A 2 was good enough for Wendy, but it is not good enough for Nick. Since Nick could not play a Radbug card, he has to beat Radbug's mind of 4 to influence him away.
+
 ## 10 • PLAYING AND DRAWING CARDS
 
 There are several Standard Rules changes involving playing cards.
 
-### LIMITS ON DRAWING CARDS
 
-During your turn, you may draw cards based on one of your moving companies only if the company contains a Wizard or at least one character with a mind attribute of three or more.
 
 ### PLACING A CARD ON-GUARD
 
-During the movement/hazard phase of your opponent’s turn, you may place one card on-guard for each of your opponent’s companies. This card is played face down next to the company’s new site or next to its current site if it did not move. Any card can be placed on-guard (i.e., it does not have to be a hazard, you can bluff). Such a card does count against the hazard limit for the company it is placed on. The card will remain on that site until one of the following occurs:
+During the movement/hazard phase of your opponent’s turn, you may place one card _on-guard_ for each of your opponent’s companies. This card is played face down next to the company’s new site or next to its current site if it did not move. Any card can be placed on-guard (i.e., it does not have to be a hazard, you can bluff). Such a card does count against the hazard limit for the company it is placed on. 
 
- - _The company decides to face the site’s automatic-attack_. If the onguard card is a hazard creature keyed to the company’s site **or** a hazard that can modify the automatic-attack, it may be revealed before the automatic-attack is resolved. If it is a hazard creature, it will attack after the automatic-attack is resolved.
+The card will remain on that site until one of the following occurs:
+
+ - _The company decides to face the site’s automatic-attack_. If the on-guard card is a hazard creature keyed to the company’s site **or** a hazard that can modify the automatic-attack, it may be revealed before the automatic-attack is resolved. If it is a hazard creature, it will attack after the automatic-attack is resolved.
  - _The company plays a card keyed to the site_. If the on-guard card is a non-creature hazard, it may be revealed if it is a hazard that directly affects the company or a character in the company (e.g., a hazard that forces all characters to make a corruption check).
  - Otherwise, return the card to your hand at the end of the site phase. 
  
 In the first two cases, the card is handled as if it had been played during the movement-hazard phase (i.e., short-events are discarded, long-events last until your opponent’s next long-event phase, etc.).
 
 {: .note }
-> **Example:** After visiting Thranduil’s Halls, Jessica’s company moves to The Lonely Mountain. During her movement/hazard phase, Jason places a card on-guard. The card is Awaken Denizens, but Jessica does not know that. This card doubles the # of strikes for an automatic-attack at a Ruins & Lairs site.
+> **Note:** A card may not be revealed in the second case above if it: returns the company to its site of origin, taps the site or a character in the company, forces the company to do nothing during the site phase, or potentially removes a character or ally from the company (outside of combat or forcing a corruption check).
+
+{: .note }
+> **Example:** After visiting Gondmaeglom, Wendy’s company moves to The Lonely Mountain. During her movement/hazard phase, Nick places a card on-guard. The card is _Awaken Denizens_, but since it is face downWendy does not know that. This card doubles the number of strikes for an automatic-attack at a Ruins & Lairs site.
 > 
-> During her site phase, Jessica states that her company will face The Lonely Mountain’s automatic-attack (a Dragon, 1 strike with a prowess of 14). Jason reveals his on-guard card and the automatic-attack becomes 2 strikes with a prowess of 14 each. Jessica’s company must face this attack (it may be canceled).
+> During her site phase, Wendy states that her company will face The Lonely Mountain’s automatic-attack (a Dragon, 1 strike with a prowess of 14). Nick reveals his on-guard card and the automatic-attack becomes 2 strikes with a prowess of 14 each. Wendy’s company must face this attack.
 > 
-> Suppose Jason had placed a Cave Drake on-guard. Then Jessica’s company would have to face the automatic-attack and then the Cave Drake. 
+> On the next turn Nick's copmany moves to Dimrill Dale. Wendy plays a _Cave-drake_ on-guard. Nick declared he will face the automatic-attack (Orc, 1 strike at 6 prowess). Wendy reveals the _Cave-drake_, and Nick will have to face it after the automatic-attack.
 > 
-> Suppose Jason had placed a Weariness of the Heart on-guard. Then, if Jessica’s company successfully faced the automatic-attack and played an item, Jason could reveal the Weariness of the Heart to force any one character in the company to make a corruption check. 
+> Next, Wendy's company moves to the Dead Marshes. Nick plays a _Weariness of the Heart_ on-guard. Wendy faces the automatic-attack and then plays an item. In response to the item being played, Nick reveals the _Weariness of the Heart_ and forces one of Wendy's characters to make a corruption check.
+> 
+> Finally, Nick's company moves to Bag End. They face several creatures along the way and barely make it there in one piece. Addilionally, Wendy places _A Nice Place to Hide_ on-guard. Since it is a resource she will never be able to reveal it. Nick does not know this, and is worried about what the card might be, so he decides not to enter the site this turn. The site phase ends and _A Nice Place to Hide_ returns to Wendy's hand.
+
+### LIMITS ON DRAWING CARDS
+
+During your turn, you may draw cards based on one of your moving companies only if the company contains a Ringwraith _or_ at least one character with a mind attribute of three or more.
  
-#### Dice Roll Timing
+### DICE ROLL TIMING
+
 Before a roll is made for combat or a check, cards may be played that will modify the result of the roll. However, once the roll is actually made, no further cards may be played that modify the dice roll result. This modified result is used to determine _effects_ of the combat or check before any other actions are taken. When the effects of a dice roll require other actions (e.g., a successful strike requires a body check) those actions become the initial actions (any further rolls come first) in the next chain of effects after the roll.
 
-#### Timing Rules
+### TIMING RULES
 
 You and your opponent may both want to perform actions at the same time or actions that are sequenced with respect to other actions. This can happen during your movement/hazard phase (or during your site phase if your opponent has a card on-guard). Such actions almost always include playing a card, tapping a card already in play, and revealing an on-guard card.
 
@@ -1451,16 +1491,24 @@ You may follow one of your declared actions with another of your declared action
 
 An action in a chain of effects is negated if the conditions required to perform it are negated by another action that is resolved before it in the chain of effects.
 
+Creature hazards may not be played in response to other actions. They must always start a chain of effects.
+
 {: .note }
-> **Timing Example:** You play Weariness of the Heart on Bilbo to force him to make a corruption check. Your opponent taps Frodo (2nd action in this chain of effects) to give Bilbo +1 to this check. You play Call of Home on Bilbo (3rd action), which forces Bilbo to make a successful roll or return to his owner’s hand. Finally, your opponent plays Tookish Blood on Bilbo. This cancels any effect for the rest of the turn which would discard Bilbo or send him to his owner’s hand. Now you resolve actions from last to first:
-> - Tookish Blood takes effect.
-> - Call of Home takes effect, but Tookish Blood negates any effect it would have.
-> - Frodo gives +1 to Bilbo’s corruption check (an action can target a dicerolling action that was declared earlier in the same chain of effects, even though the dice-rolling action has not taken effect).
-> - Bilbo makes his corruption check—he rolls the dice adding +1 to his roll because of Frodo’s help (other modifications not discussed here). Tookish Blood cancels any result of this corruption check that would discard Bilbo.
->
-> If your opponent had played Tookish Blood on Bilbo after his dice roll, i.e. after this chain of effects was resolved, it would not have affected your Call of Home nor Bilbo’s corruption check. Tookish Blood only cancels those actions that occur during the rest of the turn, and not prior actions.
->
-> Consider if Tookish Blood had not been played and if you played Call of Home on Frodo. First Frodo rolls for Call of Home when resolving the chain. If he fails this check, Frodo goes back to your opponent’s hand. The 2nd action in the chain would then be negated because the conditions required to perform it, namely Frodo being in Bilbo’s company, were negated by your Call of Home.
+> **Timing Example:** One of your companies is moving with _Doors of Night_ in play. Your opponent plays _Minion Stir_ on the company. You think you can handle one extra strike and prowess, but not two, so you play _Skies of Fire_ in response to get rid of _Doors of Night_. Your opponent plays _Twilight_ in response, targeting your _Skies of Fire_. This is how it all works out:
+> 
+> 0) _Doors of Night_ in play.
+> 1) _Minion Stir_ declared.
+> 2) _Skies of Fire_ declared.
+> 3) _Twilight_ declared targeting _Skies of Fire_. Normally you can't target a card that isn't in play (hasn't resolved) yet, but _Twilight_ says it can be played on cards not yet resolved.
+> 4) No more actions are declared. so actions start resolving.
+> 5) _Twilight_ resolves cancelling and discarding _Skies of Fire_.
+> 6) _Skies of Fire_ would have resolved here, taking out _Doors of Night_, but it was cancelled so nothing happens.
+> 7) _Minion Stir_ resolves.
+> 
+> It is your turn so you have the option of starting the next chain of effects. You play a _Voices of Malice_, targeting _Minion Stir_. You would have like to have played it between 3) and 4), but _Minion Stir_ was not in play at that time so you could not target it. Your opponent does not respond, so _Voices of Malice_ resolves and discards _Minion Stir_.
+
+*******************************
+
 # • PART III •<br/>OPTIONAL RULES
 
 Each of these optional rules may be used if all players agree before the game begins.
@@ -1719,3 +1767,4 @@ Dark-domains  |  ![](/assets/images/dark-domain.svg)
 [^twopaths]: This rule states that each Darkhaven has two site paths, which is not the case as previously mentioned in the _MELE_ rules. This text appears to be a holdover from _The Wizards_ rules which was not updated for _The Lidless Eye_.
 [^borderregions]: This phrase "usually in Border regions" appeared in the Limited version of _The Wizards_ rules but was taken out and not present in the Unlimited version—Border-holds are not _usually_ in "Border regions" (Border-lands), they are usually in Wilderness. However, this statement returned for _The Lidless Eye_ rules in a position within the sentence.
 [^factionmppile]: In _METW_ factions are placed in the play area. This rule in _MELE_ states that factions are placed in your marshalling point pile, not the play area. In Section 2 of _MELE_ there is a diagram showing that factions are in play, not in the marshalling point pile and section 10 states that factions are played into the play area. The _Challenge Deck_ and _The Balrog_ Rules Summary also state that factions are placed into the marshalling point pile. However, some of the cards that are played on factions (e.g., Trouble on All Borders, No Escape from my Magic, etc.) specifically state "a faction in play." The reason that factions were played into the play area in the first place is that the Designers hoped to make more use out of factions. There was an expansion in development called _War Hosts_ which would allow factions to battle across the map. However, these mechanics were deemed to be too clunky in a game focusing on small groups of companies traveling the map. _Dark Minions_ was released instead and _War Hosts_ got pushed back until it was abandoned. Presumably the abandonment of _War Hosts_ meant that factions could simply go into the MP pile. However, the MP pile is out of play and so cards cannot be played on "factions in play." This led to rules changes in Section 2. Unlike in _METW_ where the MP pile and out-of-play pile are out of play, _MELE_ makes a distinction between "inactive" and "active" play. However, "inactive" play is never defined. In the end, the same result achieved a different way. At least, ICE has never defined any mechanical difference between the _METW_ way of playing factions into the play area and the _MELE_ way of placing the factions into the MP pile besides changing the place were factions end up after being played.
+[^helltalk]: The card named _He'll Talk_ does not exist in the published game. Presumably it is a permanent-event that gives marshalling points similar to _News of the Shire_, but it does not require the character to remain tapped as does _Kill All but NOT the Halflings_.
