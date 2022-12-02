@@ -18,7 +18,7 @@ Every other Monday, all rulings of the second type, made in the past two weeks, 
 #### Rulings Effective 10/26/98
 
 - Windlord Found Me: This resources requires that you tap a character to play it. You may not play it directly to your M.P. pile.
-- 
+
 #### Rulings Effective 10/12/98
 
 - Padding Feet: Card Erratum: Change the first sentence to read: “…at the same site as an opponent’s Hobbit”
