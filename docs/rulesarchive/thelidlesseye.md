@@ -1625,6 +1625,15 @@ Certain cards from the original _MECCG_ are inappropriate for play against _MELE
 | In the Heart of His Realm |
 | Mordor in Arms |
 
+| **From _ME: The Wizards_** | **From _ME: The Dragons_** | **From _ME: Dark Minions_** | 
+| :------------------------- | :--------------------------| :----------------------------|
+| Bane of the Ithil-stone | Winds of Wrath | all events that require an agent |
+| Foul Fumes | Worn and Famished | The Black Enemy's Wrath|
+| Mumak | | Chance of Being Lost |
+| The Nazgul are Abroad | | Great Secrets Buried There |
+| | | In the Heart of His Realm |
+| | | Mordor in Arms |
+
 There are also certain cards from the original _MECCG_ that your play group may not want to use. Some of these are cards that represent too much of an intentional action by Sauron himself. Sauron would not go about hindering his own lieutenants as they do his work. The rest of these cards represent something closely associated to the heroes of Middle-earth. Playing them on minions
 would make little sense in terms of simulating Tolkien 's works. Again, it is up to your playgroup to decide if these cards have an effect on Ringwraith players:
 
