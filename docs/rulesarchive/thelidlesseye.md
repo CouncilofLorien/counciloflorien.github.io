@@ -1505,49 +1505,35 @@ Creature hazards may not be played in response to other actions. They must alway
 > 
 > It is your turn so you have the option of starting the next chain of effects. You play a _Voices of Malice_, targeting _Minion Stir_. You would have like to have played it between 3) and 4), but _Minion Stir_ was not in play at that time so you could not target it. Your opponent does not respond, so _Voices of Malice_ resolves and discards _Minion Stir_.
 
-*******************************
-
 # • PART III •<br/>OPTIONAL RULES
 
-Each of these optional rules may be used if all players agree before the game begins.
+Each of these optional rules may be used if all players agree before the game begins. Refer to the appendices ([page 86]()) for conventions of tournament play—these are widely used for casual play.
 
-**Special Movement to Gorgoroth Rules** — A company may only move to or from a site in Gorgoroth (e.g., Barad-dur, Mount Doom) by using one of the following:
- - Specific region movement from a site in Imlad Morgul (Cirith Ungol, Minas Morgul, or Shelob’s Lair).
- - Specific region movement that passes through Nurn or Udun.
-
-**Burglaring** — A Hobbit may attempt to “burglar” at an untapped site. If you decide to make a burglary attempt, make a roll. If the result is greater than 5, the Hobbit taps the site without facing the automatic-attack and may tap to play an item that is playable at that site. Otherwise, the Hobbit faces the automatic-attack alone.
-
-**Recently Visited Sites** — If a site is in the opponent’s discard pile, the number of strikes and prowess for the site’s automatic-attack are increased by 1.
-
-**Tapping to Face Multiple Strikes** — A character can tap, take a -3 mod, and face two strikes.
+**Company vs. Company Combat** — When one player is a Ringwraith and his opponent is a Wizard (see Part IV), combat can occur between companies (see [page 80]()). After such a combat, if your opponent's company has only wounded characters you may attempt to "steal an item." To steal an item, you must tap a character in your company that was involved in the combat. Then, you can force your opponent to discard an item of your choice in his company that was involved in the combat. Finally, if you have a manifestation of the discarded item in your hand, you may play it with the character you just tapped.
 
 ### MULTI-PLAYER RULES
 
 Except for the guidelines presented in this section, a multi-player game (3-5 players) uses the normal rules.
 
-**Victory Conditions:** The normal rules are used for victory conditions and to determine when the game ends. However, when a player calls the Free Council, each of the other players gets to take one final turn. If a player’s Wizard is eliminated, that player is out of the game; however, the game only ends in this manner if only one player is left in the game. The doubling of your marshalling points based on a MP type only applies if none of your opponents has a card in play of that type.
+**Victory Conditions:** The normal rules are used for victory conditions and to determine when the game ends. However, when a player calls the Audience with Sauron, each of the other players gets to take one final turn. If a player’s Ringwarith is eliminated, that player is out of the game; however, the game only ends in this manner if only one player is left in the game. The doubling of your marshalling points based on a MP type only applies if none of your opponents has a card in play of that type.
 
-**Getting Ready to Play:** Before the players set up their decks for play, each player makes a roll (reroll all ties). When play starts, the second highest roller will sit to the left of the high roller, the third highest roller will sit to the left of the second highest roller, etc.
-
-The highest roller chooses the Wizard he will play, the second highest roller chooses his Wizard from the remaining Wizards, etc. Each player may place up to two of his Wizard cards in his play deck.
+**Getting Ready to Play:** Before the players set up their decks for play, each player makes a roll (reroll all ties). When play starts, the players will sit clockwise around the table in the order of their rolls from highest to lowest. The highest roller chooses the Ringwraith he will play, the second highest chooses his Ringwraith from the remaining Ringwraiths, etc. Each player may place up to two of his Ringwraith cards in his play deck.
 
 At this point each player should have his play deck constructed. For multi-player games, half (round up) of the hazards in your play deck must be hazard creatures.
 
-Each player should select a character pool of up to 25 characters. The _low_ roller reveals a character from his pool; this character starts in play. Then, the player to the right of the low roller reveals a starting character that has not already been revealed. This process continues in a counter-clockwise direction until all players have revealed their starting characters as outlined in the normal rules (i.e., 1-5 characters with a 20 or less mind attribute total). Then, each player may place up to 10 characters from their character pool into their play decks.
+Each player should select a character pool of up to 25 characters. The _low_ roller reveals a character from his pool; this character starts in play. Then, the player to the right of the low roller reveals a starting character that has not already been revealed. This process continues in a counter-clockwise direction until all players have revealed their starting characters as outlined in the normal rules. Then, each player may place up to 10 characters from their character pool into their play decks.
 
-After the characters are all revealed, each player may exchange up to three cards between his play deck and his cards not being used (all normal play deck restrictions must be met).
+After the characters are all revealed, each player may exchange up to three cards between his play deck and his cards not being used (all normal play deck restrictions must be met). The highest roller takes his turn first. Then, the player to his left takes his turn, and so on. 
 
-The highest roller takes his turn first. Then, the player to his left takes his turn, and so on (i.e., play proceeds clockwise). 
+**The Player Turn:** Your “hazard-opponent” for the purposes of hazards is the player to your left. During your long-event phase, you remove your own resource long-events and the hazard long-events belonging to your hazard-opponent. Only your hazard-opponent may draw cards (based on the site being moved to) and play hazards during your movement/hazard phase. A player only has the option of discarding a card during an end-of-turn phase if it is his own turn or if it is his hazard-opponent’s turn.
 
-**The Player Turn:** Your “hazard-opponent” for the purposes of hazards is the player to your left. During your Long-event Phase, you remove your own resource long-events and the hazard long-events belonging to your hazard-opponent. Only your hazard-opponent may draw cards (based on the site being moved to) and play hazards during your movement/hazard phase. A player only has the option of discarding a card during an End-of-Turn Phase if it is his own turn or if it is his hazard-opponent’s turn.
-
-Twilight cards can be played at any time by any player. Permanent-events, long-events, and other “global” events (e.g., tapping Ren the Unclean) affect all players.
+_Twilight_ cards can be played at any time by any player. Permanent-events, long-events, and other “global” events (e.g., tapping Ren the Unclean) affect all players.
 
 _Middle-earth: The Wizards Companion_ provides some expanded, variant multi-player rules.
 
 ### SOLITAIRE RULES
 
-**Getting Started:** Place all of your hazard cards in one shuffled deck. (_Variant #1_: Have someone construct a hazard deck for you. _Variant #2_: Construct several “well-tuned” hazard decks of approximately cards each, then play against each one.) Your play deck has no hazards and must have at least 30 cards. Your hand size is only five cards. 
+**Getting Started:** Place all of your hazard cards in one shuffled deck. (_Variant #1_: Have someone construct a hazard deck for you. _#2_: Construct several “well-tuned” hazard decks of approximately cards each, then play against each one.) Your play deck has no hazards and must have at least 30 cards. Your hand size is only five cards. 
 
 **During Play:** Proceed normally, except for the following exceptions. There is no opponent’s player turn. Whenever you would draw or discard to get a hand of 8 cards, you now draw or discard to get a hand of 5 cards. During the movement/hazard phase, you draw and discard normally for each company.
 
@@ -1557,7 +1543,338 @@ _Middle-earth: The Wizards Companion_ provides some expanded, variant multi-play
 
 _Middle-earth: The Wizards Companion_ provides some expanded, variant solitaire rules.
 
-# THE APPENDICES
+# • PART IV •<br/>USING MELE WITH METW
+
+When one player is a Ringwraith and his opponent is a Wizard, play proceeds normally for each player within the limitations outlined in this section.
+
+{: .note }
+> **Note:** Unless stated otherwise, the Wizard player uses the _METW_ rules and the Ringwraith player uses the _MELE_ rules. Most elements of _METW_ and _MELE_ are identical—both of these series are part of the _Middle-earth Collectible Card Game_ ("_MECCG_"). Should a discrepencey arise between an aspect of the _MELE_ rules and the _METW_ rules, the _MELE_ rules take precedence as they were written with refinements in language and organization. Do not to confuse an element of _MELE_ that is particular to playing a Ringwraith with a Wizard's perspective on things—passages containing Ringwraith only rules are marked with a line of bullets as a sidebar.
+
+## 1 · THE VICTORY CONDITIONS
+
+Assuming you are a Ringwraith and your opponent is a Wizard, the game ends when one of the following occurs during play:
+
+ 1. If your Ringwraith is "eliminated"—your opponent wins.
+ 2. If your opponent's Wizard is "eliminated" (i.e., through combat or corruption)—you win.
+ 3. If you move _The One Ring_ to Barad-dur—Sauron is reunited with _The One Ring_; you win. (See [page 44]() for more on Rings.)
+ 4. If your opponent moves _The One Ring_ to Mount Doom and plays certain cards—_The One Ring_ is destroyed; your opponent wins.
+ 5. Otherwise, the winner is decided when either the _Audience with Sauron_ is called (see [pages 6-7]()) or the _Free Council_ is called (see the _METW_ Rules). The audience and the council are called when one of the following occurs:
+
+ - When each play deck has been exhausted once, both the audience and the council start at the end of the current turn.
+ - Otherwise, you as a Ringwraith have played an _Sudden Call_ card or you as a Wizard have called the council (as outlined in the _MELE_ rules and the _METW_ rules). The council and the
+audience both start at the end of the next turn (i.e., your opponent gets one last turn).
+
+### THE AUDIENCE AND THE COUNCIL
+
+All characters and Wizards make corruption checks as outlined in the _MELE_ and _METW_ rules. The winner is the player with the most marshalling points—i.e., the player who has done the most to help his side win.
+
+At the Audience/Council, you may reveal any unique marshalling point cards in your hand that match unique cards that your opponent has in play. You may also reveal any marshalling point cards in your hand that are manifestations of cards that your opponent has in play. Each such revealed card reduces your opponent's marshalling point total by one.
+
+## 2 · THE CARDS AND DECKS
+
+Hazard cards are the same for both _MELE_ and _METW_ and may be freely used by both Ringwraiths and Wizards. _MELE_ does not include region cards. However, if region movement is being used,
+Ringwraith players may use _METW_ region cards (or an appropriate, mutually acceptable map).
+
+_MELE_ (i.e., Ringwraith) characters, resources, and sites are different from _METW_ (i.e., Wizard) characters, resources, and sites. It is very important to distinguish between the two types:
+
+ - _MELE_ characters are referred to as "minions" (or minion characters) and _METW_ characters are referred to as "heroes" (or hero characters). Minion characters have a rusted purple background, while hero characters have a blue stone background.
+ - _MELE_ resources are referred to as "minion resources" and _METW_ resources are referred to as "hero resources." Minion resources have a blue-gray metal background, while hero resources have a copper metal background.
+ - _MELE_ sites are referred to as "minion sites" and _METW_ sites are referred to as "hero sites." Minion sites have a burned-gray parchment background, while hero sites have a white parchment background.
+
+The hero version of a unique resource is a manifestation of the same minion version of the resource and vice versa. Normally, the only resources that have both minion and hero versions are items and factions.
+
+#### Deck Construction
+
+Only Ringwraith players may include minion characters, resources, and sites in their decks, while only Wizard players may include hero characters, resources, and sites in their decks.
+
+However, there is an exception to this: a Ringwraith player may use any hero item resource card as if it were a minion item resource card. Similarly, a Wizard player may use any minion item resource card as if it were a hero item resource card. The following apply:
+
+ - All normal requirements must be met to play the item.
+ - All restrictions to movement still apply.
+ - All bonuses and special abilities are ignored.
+ - The item is only worth half (round up) of its normal marshalling points.
+ - The hero version of a unique item is a manifestation of the same minion version of the item and vice versa.
+
+{: .note }
+> **Example:** Nick plays Wendy's favorite _METW_ deck a lot so he prepares for the next game by putting _Book of Mazarbul_ and _Glamdring_ in his deck. During the game, he still has to go to Moria to play the _Book of Mazarbul_ as it says on the card. Unfortunately, Nick cannot tap the Book of Mazarbul to increase his hand size, because all of its special abilities are ignored. If he gets _Glamdring_ into play, it will only be worth 1 marshalling point to Nick instead of the normal 2.
+> 
+> Likewise Wendy is prepared for Nick's _MELE_ One Ring deck. She plays the hero version of _Scroll of Isildur_ which Nick often uses to help him get _The One Ring_. Even though Nick's minion version of _Scroll of lsildur_ is a different card, it is considered a manifestation of Wendy's hero version. Since it is also unique, Nick cannot play his own _Scroll of Isildur_ if Wendy has hers in play.
+
+{: .note }
+> **Note:** Agent hazards (see _ME: Dark Minions_) require the use of sites for movement, and your agent hazards must still use sites from your site deck.
+
+### CARD EFFECT LIMITATIONS
+
+Certain cards from the original _MECCG_ are inappropriate for play against _MELE_ decks. The following cards will have no effect on a Ringwraith player. This is because the mechanics of the cards do not work with the mechanics of Ringwraith companies, or their effect is too powerful against a Ringwraith company.
+
+| **From _ME: The Wizards_** | 
+| Bane of the Ithil-stone | 
+| Foul Fumes | 
+| Mumak | 
+| The Nazgul are Abroad | 
+
+| **From _ME: The Dragons_** | 
+| Winds of Wrath |
+| Worn and Famished |
+
+| **From _ME: Dark Minions_** |
+| all events that require an agent |
+| The Black Enemy's Wrath|
+| Chance of Being Lost |
+| Great Secrets Buried There |
+| In the Heart of His Realm |
+| Mordor in Arms |
+
+There are also certain cards from the original _MECCG_ that your play group may not want to use. Some of these are cards that represent too much of an intentional action by Sauron himself. Sauron would not go about hindering his own lieutenants as they do his work. The rest of these cards represent something closely associated to the heroes of Middle-earth. Playing them on minions
+would make little sense in terms of simulating Tolkien 's works. Again, it is up to your playgroup to decide if these cards have an effect on Ringwraith players:
+
+| **From _ME: The Wizards_** |
+| Eye of Sauron | 
+| Morgul-knife | 
+| The Pale Sword |
+| Rogrog |
+
+| **From _ME: The Dragons_** |
+| Black Breath |
+| Gothmog |
+| Many Sorrows Befall |
+
+| **From _ME: Dark Minions_** |
+| Aware of Their Ways |
+| Eyes of the Shadow |
+| In Great Wrath |
+| Long Dark Reach |
+| Out of the Black Sky |
+| Revealed to All Watchers |
+| Wraith-lord |
+
+## 3 · GETTING READY TO PLAY
+
+As mentioned above, only Ringwraith players may include minion characters, resources, and sites in their decks, while only Wizard players may include hero characters, resources, and sites in their
+decks. For these purposes, decks include sideboards. The following modifications to the deck requirements should be used:
+
+ - Place between 30 and 50 Resource cards **and** an equal number of Hazard cards in your play deck.
+ - You may place up to three Ringwraiths in your play deck. As an exception to the "only one unique card," you may place up to three of the same Ringwraith in your play deck.
+ - Minion agents included in a Ringwraith's deck count as characters for the purposes of meeting deck requirements. However, during play, each minion agent may be played as either a character (i.e., as a minion character) or as a hazard (i.e., as an agent).
+ - Minion agents included in a Wizard's deck count as hazards for the purposes of meeting deck requirements.
+ - You must have at least 12 hazard creatures in your play deck. Several types of cards only count as half a creature for this purpose:
+      - A creature that is also playable as an event (e .g., Nazgul, _Mouth of Sauron_, _Shelob_, etc.).
+      - A Dragon "Ahunt" or "At Home" manifestation.
+      - An agent (Wizard player only)
+
+{: .note }
+> **Note:** These guidelines should also be used if both players have access to a large number of _MECCG_ cards from _MELE_, _METW_, _ME: The Dragons_, and _ME: Dark Minions_.
+
+## 4 · THE PLAYER TURN
+
+The player turn remains basically the same. However, during your site phase, one and only one of your companies may do _one and only one_ of the following:
+
+ - Attempt to influence away one of your opponent's characters, followers, allies, factions, or items (if it is at the same site).
+ - Make an attack against one of your opponent's companies (if it is at the same site). See [page 80]() for more details.
+
+## 5 · CHARACTERS & COMPANIES
+
+When you reveal your Ringwraith or play a Ringwraith follower, any corresponding Nazgul hazard in play is discarded.
+
+## 6 · MOVEMENT
+
+If region movement is being used, Ringwraith players may use _METW_ region cards (or an appropriate, mutually acceptable map).
+
+_Your Ringwraith company may not use region movement._
+
+{: .note }
+> **Note:** Ringwraith must use starter movement because of their difficulties with crossing water. It is assumed that the site paths used in starter movement represent known and well traveled routes so that the Ringwraiths can use them to avoid water barriers that do not have fords, bridges, or ferries.
+
+### REGION MOVEMENT
+
+To use region movement, play a new site card and a series of up to four regions (all face down) that connect the company's current site with the new site. A series of regions "connects" two sites if:
+
+ - The current (i.e., site of origin) site is located in the first region, **and**
+ - That region card is adjacent to the next region card played, **and**
+ - That region card is adjacent to the next region card played, … , **and**
+ - Finally, the last region card played is the region that the new site card is located in.
+
+A region is adjacent to another region if and only if each region lists the other region on its card. The only exception to this is that Udun is adjacent to Dagorlad for Ringwraith players.
+
+{: .note }
+> **Clarification:** To use region movement for a company, the region cards played must include the region containing the company's current site and the region containing the new site.
+> 
+> If both the current site and the new site are in the same region, only that region card need be played.
+> 
+> **Clarification:** If two sites are separated by more than four regions, a company may not travel directly between them in one turn (unless some special resource card is used). The company must first travel to interim sites (one per turn) until it reaches a site that is within four regions of the destination site
+> 
+> **Clarification:** Certain regions may appear to be adjacent on the maps, but turn out not to be adjacent upon examination of the lists on their cards. For example, Dagorlad and Rohan appear to be adjacent on the maps, but they are really separated by the Anduin River.
+
+### Playing Hazards
+
+For the purposes of playing hazards, the site path for a company using region movement is defined by the region types of the region cards played. You can use a creature hazard to _directly attack_ one of your opponent's companies if at least one of the region types on the creature's card matches that region type of a region card played by the company (two are required for creatures that require two symbols of the same type).
+
+{: .note }
+> **Clarification:** Region movement can be more dangerous to use than normal movement—certain creatures can be played keyed to specific region cards
+
+{: .note }
+> **Example:** Lets look at our example for movement from the Starter Game (see [page 25]()). Wendy's company is in Barad-dur (in the Gorgoroth region) and wants to move to The Lonely Mountain (in the Northern Rhovanion region) in order to bring the _Smaug Aroused_ faction into play. If she does not use region movement this takes three turns: Barad-dur to Minas Morgul, Minas Morgul to Dol Guldur, and Dol Guldur to The Lonely Mountain. Using region movement, she can do it in two turns.
+> 
+> The shortest number of region cards required for this move is 5 and there are two possible routes:
+> 
+> - Gorgoroth ![](/assets/images/dark-domain.svg), Udun ![](/assets/images/dark-domain.svg), Dagorlad ![](/assets/images/shadow-land.svg), Southern Rhovanion ![](/assets/images/wilderness.svg), Northern Rhovanion ![](/assets/images/wilderness.svg) 
+> Gorgoroth ![](/assets/images/dark-domain.svg), Nurn ![](/assets/images/dark-domain.svg), Horse Plains ![](/assets/images/shadow-land.svg), Southern Rhovanion ![](/assets/images/wilderness.svg), Northern Rhovanion ![](/assets/images/wilderness.svg) 
+> 
+> Since they both have the same site path neither is more dangerous than the other. Since they are both more than 4 regions long, Wendy's company will have to stop somewhere along the way. Wendy knows she has the _Easterlings_ in her deck. On the chance that she might draw it, she takes the second route and stops at the Easterling Camp (in the Horse Plains region).
+> 
+> On her first turn, she moves to the Easterling Camp by playing the Easterling Camp site and the following regions: Gorgoroth ![](/assets/images/dark-domain.svg), Nurn ![](/assets/images/dark-domain.svg), Horse Plains ![](/assets/images/shadow-land.svg). On her second turn, she moves to The Lonely Mountain by playing the Lonely Mountain and the following regions: Horse Plains ![](/assets/images/shadow-land.svg), Southern Rhovanion ![](/assets/images/wilderness.svg), Northern Rhovanion ![](/assets/images/wilderness.svg).
+
+## 7·COMBAT
+
+In Ringwraith vs. Wizard games, most combats with companies fighting creature attacks, automatic-attacks, and special attacks are handled normally. However, when combat occurs between a Ringwraith company and a Wizard company, certain special guidelines must be followed.
+
+### CANCELING AN AUTOMATIC-ATTACK
+
+A character at one of his home sites may tap to cancel one automatic-attack at that home site. This does not apply if a character's home site is not a specific site (e.g., an Orc with an "Any Dark-hold" home site may not cancel an attack in this fashion). 
+
+{: .note }
+> **Note:** This rule applies to both minion and hero characters.
+
+### COMPANY VS. COMPANY COMBAT
+
+During your site phase, one of your companies may attack one of your opponent's companies if the following conditions are met:
+
+ - Both companies are at the same site.
+ - Your company has faced the automatic-attack (if any).
+ - You have not already made an influence attempt against your opponent this turn.
+
+This attack is declared and enacted at the end of the site phase following all other actions your company takes during the site phase.
+
+{: .note }
+> **Note:** Hazards may not be played during company vs. company combat.
+> **Note:** Cards that affect the number of strikes of an attack have no effect on company vs. company combat.
+> **Note:** Hazards have no affect on company vs. company combat.
+
+
+#### Resolving Combat With Another Company
+
+When one of your companies is attacked by another company during your opponent's site phase, you are considered to be the defending company. Your opponent's company (the attacking company) is considered to be making a single attack with one strike corresponding to each of the characters in his company:
+
+ - Each strike can target one and only one character in the defending company.
+ - Each character can be the target of only one strike from a given attack.
+ - If an attack has more strikes than the defending company has characters, the attacker may allocate the excess strikes as -1 modifications (i.e., a -1 mod. for each unallocated strike) to the prowess(es) of whichever target(s) he chooses. See [page 29]().
+
+This combat is handled like any other combat with the exceptions noted in this section.
+
+#### Canceling an Attack From a Company
+
+You can cancel an attack from a company just like you would cancel any other attack. Certain cards and abilities only cancel attacks with specific race types (e.g., _Not Slay Needlessly_ only
+cancels attacks by Elves, Dwarves, Dunedain, and Men). Such a card can be used to cancel an attack from company only if each character in the company has one of the race types that the card can cancel.
+
+{: .note }
+> **Example:** In order to cancel an attack from a company, a scout in the defending company may tap to play _A Nice Place to Hide_.
+> 
+> _Orc Quarrels_ normally cancels an Orc, Troll, or Man attack. So it can be used to cancel an attack from a company if that company consists of only Orcs, Trolls, and Men.
+
+{: .note }
+> **Note:** If this attack is canceled, the site phase is over for the anacking company and play proceeds normally.
+
+#### Assigning Strikes
+
+For company vs. company combat, the process for assigning strikes differs slightly from normal combat:
+
+ - First, the defender chooses which _untapped_ characters will be the targets of given strikes.
+ - Then, the attacker chooses which other defending characters not yet assigned a strike will be the target of any remaining unassigned strikes corresponding to his _untapped_ characters.
+ - Finally, the defender assigns any remaining strikes to his characters that have not been assigned strikes.
+
+#### A Strike's Prowess
+
+Each strike's prowess is based upon the attacking character corresponding to the strike.
+
+ - The base prowess for each of the attack's strikes is equal to the corresponding character's prowess.
+ - A _wounded_ attacking character's prowess is modified by -2.
+ - A _tapped_ attacking character's prowess is modified by -1.
+ - An _untapped_ attacking character that does not tap has his prowess modified by -3 .
+ - If an attack has more strikes than the company has characters, the attacker may allocate the excess strikes as -1 modifications to the prowesses of whichever defending characters(s) he chooses. See the Strike Sequence on the next page.
+ - A strike's prowess may also be modified due to the play of certain resource cards. Each player may only play one resource card requiring skill on a given strike.
+
+#### Resolving Strikes
+
+Strikes are resolved one at a time as decided by the defending player. When you choose a strike to resolve, determine all of the factors affecting the strike before the roll is made (see "The Strike Sequence" below).
+
+To resolve a strike, the attacker rolls (2D6) and adds his modified prowess—this is the strike's _final prowess_.
+
+Then, the defender makes a roll (2D6) and adds his modified prowess:
+
+ - If this result is greater than the strike's final prowess, the strike _fails_. The character corresponding to the strike is wounded and must make a body check.
+ - If this result is equal to the strike's final prowess, the strike was _ineffectual_ (i.e., a "tie" means that the strike is avoided but not defeated).
+ - Otherwise, the strike was _successful_ (i.e., the character was defeated). The target character is wounded and must make a body check.
+
+#### Body Checks
+
+Body checks for both defending and attacking characters are resolved normally.
+
+If a defending character is eliminated, the attacking player receives "kill'' marshalling points as indicated on the character's card. If an attacking character is eliminated, the defending player receives "kill" marshalling points as indicated on the character's card.
+
+#### The Strike Sequence
+
+Strikes are resolved one at a time as decided by the defending player (i.e., he chooses a strike to resolve, the strike is resolved, he chooses the next strike to resolve, the strike is resolved, etc.).
+
+All of the factors affecting the strike must be decided before making any rolls (2D6). Address these factors in the following order:
+
+ 1. The attacker may play resource cards that affect the strike (up to one card that requires skill).
+ 2. The attacker may decide to use any or all of his remaining (if any) -1 modifications due to unallocated strikes (i.e., strikes in excess of the defending company's size).
+ 3. An attacking, untapped character may take a -3 modification so that he will not automatically tap.
+ 4. A defending untapped character may take a -3 modlfication so that he will not automatically tap.
+ 5. A untapped defending character that is not (and has not been) himself the target of a strike from the same attack may tap to support a defending character. The defending character's prowess is modified by +1 for each supporting character.
+ 6. The defending player may play resource cards that affect the strike (up to one card that requires skill).
+
+{: .note }
+> **Note:** Even though it is not his turn, the defending player may play resource cards that affect the resolution of strikes.
+
+{: .note }
+> **Example:** Wendy'ss company at Moria consisis of the untapped Beorn (7/9 Warrior/Ranger) and the wounded Frodo (1/9 Scout/Diplomat). Nick moves his copmany to Moria. It consists of the untapped Carambor (5/8), the untapped Ciryaher (2/7), and the tapped Gulla (5/8). During the site phase he deciares he is facing the automatic-attack. Ciryaher taps and plays _A Nice Place to Hide_ to cancel the automatic-attack.
+> 
+> Since he has faced the automatic-attack Nick's company may now attack Wendy's company. First, because Beorn is untapped, Wendy gets to assign the strike to Beorn—she assigns Ciryaher's strike to Beorn. Then, because Frodo is not untapped, Nick then assigns the untapped Carambor's strike to Frodo. He cannot assign Gulla to Frodo since Gulla is tapped. Since all the defending characters have been assigned a strike, Gulla's strike becomes a -l modifier that Nick can assign later.
+> 
+> Beorn does his strike sequence first. Nick plays no resources and decides to save his -1 modifier for Frodo. Beorn decides not to tap, so his prowess is 4 (= 7 - 3). Ciryaher is tapped, so his prowess is l (= 2 - l ). Wendy decides to play _Risky Blow_ (+3 prowess and -1 body to a Warrior facing a strike), so Beorn's prowess is back up to 7. Finally the dice are rolled. Nick rolls a 6 and Wendy rolls a 3. The attacks final prowess is 7, and Beorn beats this easily with his prowess plus his roll equal to 10. Now Wendy gets to roll a body check against Ciryaher, and she rolls a 4. Ciryaher ends up wounded but not eliminated.
+> 
+> Next Frodo does his strike sequence. Nick plays a _Bold Thrust_ and assigns the -1 modifier (from Gulla) to Frodo. Carambor then taps for his full prowess, plus 3 for the _Bold Thrust_, for a total of 8. Frodo has a -2 modifier because he is already wounded and a -1 modifier from the extra strike, so his prowess is a -2. Nick rolls for the final prowess of the strike and gets a 2, making the prowess 10. Frodo rolls and gets an 11, but unfortunately his -2 prowess drops this to a 9 and the strike succeeds. Nick rolls the body check and gets a 9. Normally this would not eliminate Frodo, but he was already wounded. So, he has a -1 body[^minusbody] for this body check—Frodo is eliminated and removed from play.
+
+### MARSHALLING POINTS
+
+A Wizard player does not receive marshalling points for defeating a creature with an \* next to its marshalling points or for defeating a detainment attack.
+
+If a hero company defeats an attack by a Ringwraith's Dragon faction, the hero player receives its marshalling points as kill marshalling points.
+
+## 8 · CORRUPTION
+
+There are no new guidelines for using corruption.
+
+## 9 · INFLUENCE
+
+Influencing your opponent's resources and characters is handled just as it is in _METW_ and _MELE_ with the following exceptions:
+
+ - All influence checks are modified by -5; i.e., its harder for evil characters to influence the Free Peoples and vice versa.
+ - Instead of revealing a card that is identical to the card being influenced, you may reveal a manifestation of that card or the same resource for the opposing side (e.g., if attempting to influence away the _Hillmen_ from a Wizard, you can reveal the _Hillmen_ minion faction resource for full effect).
+
+## 10 · PLAYING AND DRAWING CARDS
+
+This section presents some guidelines for handling several special types of cards.
+
+### RINGWRAITHS AND NAZGUL
+
+There are several types of cards that you can play a Ringwraith card even if the corresponding manifestation Nazgtll hazard permanent-event is already in play. In this case, the Nazgul hazard
+permanent-event is discarded. This also applies in a game with two Ringwraith players using the Nazgul hazard cards from _METW_.
+
+### AGENTS
+
+Agents operate as outlined in the _ME: Dark Minions_ rules with the following exceptions:
+
+ - Minion agents included in a Ringwraith's deck count as characters for the purposes of meeting deck requirements. However, during play, each minion agent may be played as either a character (i.e., as a minion character) or as a hazard (i.e., as an agent).
+ - Minion agents included in a Wizard's deck count as hazards for the purposes of meeting deck requirements.
+• Agent hazards require the use of sites for movement, and your agent hazards must still use sites from your location deck.
+
+# • PART V •<br/>APPENDICES
+
+### CONVENTIONS OF TOURNAMENT PLAY
+
+                                                          
 
 ## CARD DIAGRAMS
 
@@ -1766,3 +2083,4 @@ Dark-domains  |  ![](/assets/images/dark-domain.svg)
 [^borderregions]: This phrase "usually in Border regions" appeared in the Limited version of _The Wizards_ rules but was taken out and not present in the Unlimited version—Border-holds are not _usually_ in "Border regions" (Border-lands), they are usually in Wilderness. However, this statement returned for _The Lidless Eye_ rules in a position within the sentence.
 [^factionmppile]: In _METW_ factions are placed in the play area. This rule in _MELE_ states that factions are placed in your marshalling point pile, not the play area. In Section 2 of _MELE_ there is a diagram showing that factions are in play, not in the marshalling point pile and section 10 states that factions are played into the play area. The _Challenge Deck_ and _The Balrog_ Rules Summary also state that factions are placed into the marshalling point pile. However, some of the cards that are played on factions (e.g., Trouble on All Borders, No Escape from my Magic, etc.) specifically state "a faction in play." The reason that factions were played into the play area in the first place is that the Designers hoped to make more use out of factions. There was an expansion in development called _War Hosts_ which would allow factions to battle across the map. However, these mechanics were deemed to be too clunky in a game focusing on small groups of companies traveling the map. _Dark Minions_ was released instead and _War Hosts_ got pushed back until it was abandoned. Presumably the abandonment of _War Hosts_ meant that factions could simply go into the MP pile. However, the MP pile is out of play and so cards cannot be played on "factions in play." This led to rules changes in Section 2. Unlike in _METW_ where the MP pile and out-of-play pile are out of play, _MELE_ makes a distinction between "inactive" and "active" play. However, "inactive" play is never defined. In the end, the same result achieved a different way. At least, ICE has never defined any mechanical difference between the _METW_ way of playing factions into the play area and the _MELE_ way of placing the factions into the MP pile besides changing the place were factions end up after being played.
 [^helltalk]: The card named _He'll Talk_ does not exist in the published game. Presumably it is a permanent-event that gives marshalling points similar to _News of the Shire_, but it does not require the character to remain tapped as does _Kill All but NOT the Halflings_.
+[^minusbody]: This example states that Frodo has a -1 body for this body check. It is usually no different but the rules technically give a +1 modifier to the body check dice roll rather than a -1 modifier to the character's body. This would matter if an effect was used in response to the body check that had a maximum. For instance, if Frodo's 9 body is reduced to 8 with a -1 modifier (as stated in the example) and then _Miruvor_ is discarded in response to the declaration of the body check for +2 body to a maximum of 10, then the body check dice roll would need to be an 11 to eliminate Frodo. But if the body check against the charcter is given +1 (as the rules state) then Frodo would have only +1 to body (10 body_ from _Miruvor_ given the maximum and only a body check dice roll of 10 (+1 for being wounded) would be needed to eliminate Frodo rather than an 11.
