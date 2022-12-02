@@ -1204,11 +1204,39 @@ If both players agree to use _METW_ region cards, add them to your location deck
 
 The Full Player Turn Summary is presented on [pages 92-94]().
 
-************
 
 ## 5 • CHARACTERS & COMPANIES
 
 There are several Standard Rules changes involving characters and companies.
+
+### ORC SCOUTS
+
+Orc scouts only count half towards a company's size (round up).
+
+### LIMITATIONS ON COMPANY COMPOSITION
+
+There are three other limitations on the types of characters that can be in a company.
+
+ - Unless at a Darkhaven, an Orc or a Troll cannot be in a company that contains an Elf, a Dwarf, or a Dunadan—and vice versa.
+ - Unless at a Darkhaven, your Ringwraith's company may only contain your Ringwraith and Ringwraith followers (see [page 58]()).
+ - Unless at a Darkhaven, a company may only contain one leader. A leader is a character with the keyword "_leader_," in its text box. 
+
+These limitations also apply to moving companies.
+
+{: .note }
+> **Note:** If two companies end up at a non-Darkhaven site and combining those companies would violate the limitations on company composition, one of the companies that just moved must return to its site of origin. Similarly. an effect that causes such a violation is cancelled (e.g., We Have Come to Kill)
+
+#### Discarding Characters
+
+Instead of bringing a new character/Wizard into play during your organization phase, you may discard a character that is at a Haven or at his home site. A Wizard may not be discarded.
+
+You must take this action when you are forced to discard a character due to a lack of available influence. In this case, the character(s) need not be at a Haven.
+
+#### Bringing Characters into Play
+
+Before you play your Wizard, you may use general influence to bring a character into play at any haven or at his home site. After revealing your Wizard, you may use general influence to bring a character into play only if your Wizard is at the site at which the character arrives (i.e., a Haven or the character’s home site).
+
+
 
 #### Splitting a Company at a Non-Haven Site
 
@@ -1230,15 +1258,7 @@ During the organization phase, two companies may move to the same site, but one 
 
 In both cases, the two companies must face hazards separately and are then combined at the end of the movement/hazard phase.
 
-#### Discarding Characters
 
-Instead of bringing a new character/Wizard into play during your organization phase, you may discard a character that is at a Haven or at his home site. A Wizard may not be discarded.
-
-You must take this action when you are forced to discard a character due to a lack of available influence. In this case, the character(s) need not be at a Haven.
-
-#### Bringing Characters into Play
-
-Before you play your Wizard, you may use general influence to bring a character into play at any haven or at his home site. After revealing your Wizard, you may use general influence to bring a character into play only if your Wizard is at the site at which the character arrives (i.e., a Haven or the character’s home site).
 
 ## 6 • MOVEMENT
 
