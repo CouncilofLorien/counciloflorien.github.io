@@ -1441,8 +1441,6 @@ To influence an opponent’s item, you must make an influence check as outlined 
 
 There are several Standard Rules changes involving playing cards.
 
-
-
 ### PLACING A CARD ON-GUARD
 
 During the movement/hazard phase of your opponent’s turn, you may place one card _on-guard_ for each of your opponent’s companies. This card is played face down next to the company’s new site or next to its current site if it did not move. Any card can be placed on-guard (i.e., it does not have to be a hazard, you can bluff). Such a card does count against the hazard limit for the company it is placed on. 
