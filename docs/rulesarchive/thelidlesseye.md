@@ -1123,7 +1123,7 @@ Finally, you may reveal any unique marshalling point cards in your hand that mat
 In addition to the normal situations outlined in the Starter Game, the Audience with Sauron is called when one of the following occurs:
 
  - If your opponent's play deck has been exhausted _and_ you play a _Sudden Call_ card as a **hazard** during one of his turns, the audience starts following your next turn (i.e., you get one last turn).
- - Tf your opponent has at least 20 marshalling points _and_ you play a _Sudden Call_ card as a **hazard** during one of his turns, the audience starts following your next turn (i.e., you get one last turn).
+ - If your opponent has at least 20 marshalling points _and_ you play a _Sudden Call_ card as a **hazard** during one of his turns, the audience starts following your next turn (i.e., you get one last turn).
 
 ## 2 • THE CARDS AND DECKS
 
