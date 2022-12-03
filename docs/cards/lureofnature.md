@@ -76,10 +76,6 @@ _Lure of Nature_ (clarification)&mdash;These corruption checks may be targetted 
 {: .counsel }
 > Normally a card may only be played if it applies to an existing situation. However, there are several special allowances for dice rolls in MECCG. For instance, a dice-roll may be targeted when it is merely declared but not resolved while other actions that are merely declared cannot be targeted. This special rule is needed for dice rolls since dice rolls must be modified before the roll is resolved (the rolling of physical dice by the player). This clarification was issued before the Unlimited card was printed but along with the above errata to the Limited version, which, with the errata, is similar to but not the same as the Unlimited card. However, there seems to be no need for this clarification unless the movement/hazard phase truly is a "procedure" and there was no opportunity to take actions (play a card, tap in support, etc.) after Step 3 (after all other hazards have been played in Step 3) and between Steps 4-6 (which were later conslidated by Annotation 25a in the Lidless Eye Companion).
 
-##### Commentary
-
-Added the keyword _Slayer_ and changed the upper-left marshalling points from 0 to 2, matching the errata.
-
 ### The Wizards (Limited)
 
 |  | Lure of Nature |
