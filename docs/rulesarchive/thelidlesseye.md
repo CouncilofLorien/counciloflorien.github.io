@@ -1219,6 +1219,7 @@ You must take this action when you are forced to discard a character due to a la
 
 {: .note }
 > **Clarification:** If a character's mind changes at any point, the influence required to control him also changes
+>
 > **Clarification:** If you do not have enough influence to control all of your character in play, they remain in play. However, you must discard any excess characters at the end of your next organization phase. If you bring a character into play during your organization phase and then do not have enough influence to control him. the character just brought into play must be returned to your hand at the end of your organization phase.
 
 ### BRINGING CHARACTERS INTO PLAY
