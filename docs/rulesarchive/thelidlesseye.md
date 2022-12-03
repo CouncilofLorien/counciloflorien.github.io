@@ -1854,12 +1854,12 @@ Agents operate as outlined in the _ME: Dark Minions_ rules with the following ex
 ### CARD DIAGRAMS
 
 {: .text-center }
-![](/assets/images/unlimited-appendix-card-diagrams.png)
+![](/assets/images/mele-appendix-card-diagrams.png)
 
 ### MAP OF MIDDLE-EARTH
 
 {: .text-center }
-![](/assets/images/unlimited-appendix-map.png)
+![](/assets/images/mele-appendix-map.png)
 
 ### MAP INDEX
 
