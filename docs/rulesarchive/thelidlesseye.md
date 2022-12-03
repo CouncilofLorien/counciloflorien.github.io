@@ -2094,7 +2094,7 @@ You may discard one card. Then you must draw or discard cards until your hand ha
 ## SYMBOL KEY
 
 | Region Type | Symbol |
-| :--- | ---: |
+| :--- | :--- |
 Coastal Seas |   ![](/assets/images/coastalsea.svg)
 Free-domains |   ![](/assets/images/free-domain.svg)
 Border-lands |   ![](/assets/images/border-land.svg)
@@ -2103,7 +2103,7 @@ Shadow-lands |   ![](/assets/images/shadow-land.svg)
 Dark-domains  |  ![](/assets/images/dark-domain.svg)
 
 | Site Type | Symbol |
-| :--- | ---: |
+| :--- | :--- |
  Darkhavens  |   ![](/assets/images/dark-haven.svg)
  Free-holds  |  ![](/assets/images/free-hold.svg)
  Border-holds  |  ![](/assets/images/border-hold.svg)
@@ -2112,7 +2112,7 @@ Dark-domains  |  ![](/assets/images/dark-domain.svg)
  Dark-holds   | ![](/assets/images/dark-hold.svg)
  
  |  Other  |  Symbol | 
- | :--- | ---: |
+ | :--- | :--- |
  Mind   |  ![](/assets/images/mind.svg)
  Direct Influence  |  ![](/assets/images/di.svg)
  
