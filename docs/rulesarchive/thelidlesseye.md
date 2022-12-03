@@ -19,7 +19,7 @@ search_exclude: true
 # MIDDLE-EARTH: THE LIDLESS EYE
 
 {: .text-center }
-***"And into the heart of the storm,<br>with a cry that pierced all other sounds.<br>Tearing the clouds asunder, the Nazgul came…"<br>"…and all were branded with the foul token of the Lidless Eye…"***
+***"And into the heart of the storm,<br>with a cry that pierced all other sounds.<br>Tearing the clouds asunder, the Nazgul came…"<br>"…and all were branded with the foul token<br>of the Lidless Eye…"***
 
 # INTRODUCTION
 
@@ -37,12 +37,12 @@ In _The Lord of the Rings_, the Witch-king of Angmar was the first Ringwraith to
  
 These rules are organized into five sections: the Starter Rules, the Standard Rules, the Optional Rules, Using _MELE_ with _METW_, and the Appendices. The Starter and Standard Rules are for a two-player game; multi-player rules are provided in the Optional Rules.
 
-The "Using _MELE_ with _METW_" section contains the essential rules for integrating _METW_ cards with _MELE_. The Full Player Turn Summary provided on pages 92-94 is a great reference for getting started
+The "Using _MELE_ with _METW_" section contains the essential rules for integrating _METW_ cards with _MELE_. The Full Player Turn Summary provided on [pages 92-94]() is a great reference for getting started
 
 {: .note }
 > **Note:** The rules for _MELE_ are very similar to the rules for _Middle-earth: The Wizards_. Passages with major rule differences are marked with a line of bullets as a sidebar (just as this paragraph is marked[^bullets]). Experienced players of _METW_ can examine these passages and proceed with playing.
 
-_The Starter Rules_ — The Starter Rules contain all of the guidelines you need to play _MELE_. They have been designed to simplify teaching the game and to speed up play. You should use the Starter Rules if you and your opponent have never played this game before.<br>If you are already an experienced player of collectible card games, you might initially read the Full Player Turn Summary on pages 92-94 **and** the sections that are not boxed. Then, as you play, you can refer to the other material that details the more complex rules and situations that may arise during play.
+_The Starter Rules_ — The Starter Rules contain all of the guidelines you need to play _MELE_. They have been designed to simplify teaching the game and to speed up play. You should use the Starter Rules if you and your opponent have never played this game before.<br>If you are already an experienced player of collectible card games, you might initially read the Full Player Turn Summary on [pages 92-94]() **and** the sections that are not boxed. Then, as you play, you can refer to the other material that details the more complex rules and situations that may arise during play.
 
 _The Standard Rules_ — These rules assume you have already played several games using the Starter Rules. The Standard Rules consist of additions and extensions to the Starter Rules that make play and deck building more flexible, exciting, and interesting. We recommend that experienced _MELE_ players use all of the Standard Rules.
 
