@@ -644,8 +644,7 @@ If a strike against a character is successful and the attack was _not_ a detainm
 As presented above, a strike that fails is defeated if its body attribute is “–” **or** if it has a body attribute and fails a body check. To make such a body check, the **defender** makes a roll (2D6); if this value is greater than the strike’s _body attribute_, the strike is defeated.
 
 {: .note } 
-> **Example:** _Landroval_ has a prowess of 12 and a body of 6. He normally has two strikes when he attacks. If one of his strikes against a character fails, the defender makes a body check. If the resulting roll is greater than 6, that strike is defeated. However, both of _Landroval
-> s_ strikes must be defeated in order for him to be eliminated—this would require at least two body check rolls greater than 6.
+> **Example:** _Landroval_ has a prowess of 12 and a body of 6. He normally has two strikes when he attacks. If one of his strikes against a character fails, the defender makes a body check. If the resulting roll is greater than 6, that strike is defeated. However, both of _Landroval's_ strikes must be defeated in order for him to be eliminated—this would require at least two body check rolls greater than 6.
 
 #### "Detainment" Attacks
 
@@ -675,8 +674,7 @@ If a hazard creature has multiple attacks, each **must** be defeated in order fo
 > 
 > Against the first attack's strike Lagduf rolls a 7. His total is 11 (= 7 + 4) which ties the strike's prowess of 11. Therefore the strike is ineffectual and nothing happens.
 > 
-> Against the next attack, Lagduf rolls a 3. His total of 7 (= 3 + 4) is less than the strike's prowess of 11. Therefore the strike is successful. Lagduf is immediately wounded and must make a body check. His opponent rolls the dice for the body check. If he rolls a 9 or more, Lagduf will be eliminated
-and removed from play. Lagduf's opponent actually rolls an 8 and Lagduf is not eliminated. However, Lagduf is discarded because his card states that he is discarded on a body check result of 8. 
+> Against the next attack, Lagduf rolls a 3. His total of 7 (= 3 + 4) is less than the strike's prowess of 11. Therefore the strike is successful. Lagduf is immediately wounded and must make a body check. His opponent rolls the dice for the body check. If he rolls a 9 or more, Lagduf will be eliminated and removed from play. Lagduf's opponent actually rolls an 8 and Lagduf is not eliminated. However, Lagduf is discarded because his card states that he is discarded on a body check result of 8. 
 
 #### Marshalling Points
 
@@ -716,7 +714,7 @@ All of the factors affecting the strike must be decided during the strike sequen
 > 
 > Nevido Smod faces the next strike. Nevido Smod taps and rolls a 2, falling to a successfil strike. Your opponent rolls a body check, but only gets a 4 so Nevido Smod lives. Dogrib chooses to face his strike next. He chooses not to tap and therefore gets a -3 modifications to his prowess. He rolls a 6 which ties the prowess of the _Orc-warband_ strike. The strike is ineffectual. Threlin resolves his strike next, taps, and defeats it by rolling a 7. Jerrek resolves the final strike, taps, and defeats it by rolling a 3. _Orc-warband_ is discarded. 
 > 
-> Your opponent sees that one character, Dogrib, is untapped. He plays an _Elf-lord Revealed in Wrath_ (15/9) (a fourth hazard) keyed to the Shadow-land (_Doors of Night_ is not in play) and reasons that Dogrib will have to take its one very powerful strike with little chance of cancelling it. (After all, if you give up the option of assigning the one strike to your untapped character, namely Dogrib, the opponent will be able to choose, from all 5 characters, which will take the strike). Your opponent does not see what Dogrib sees. Before assigning the strike, Dogrib discards his _Foul-smelling Paste_ to heal and untap Nevido Smod, who then announces he is taking the strike. The _Elf-lord_ is keyed to the Shadow-land, so Nevido Smod taps his _Shadow-cloak_ to cancel its single strike. The _Elf-lord_ is discarded.
+> Your opponent sees that one character, Dogrib, is untapped. He plays an _Elf-lord Revealed in Wrath_ (15/9) (a fourth hazard) keyed to the Shadow-land (_Doors of Night_ is not in play) and reasons that Dogrib will have to take its one very powerful strike with little chance of canceling it. (After all, if you give up the option of assigning the one strike to your untapped character, namely Dogrib, the opponent will be able to choose, from all 5 characters, which will take the strike). Your opponent does not see what Dogrib sees. Before assigning the strike, Dogrib discards his _Foul-smelling Paste_ to heal and untap Nevido Smod, who then announces he is taking the strike. The _Elf-lord_ is keyed to the Shadow-land, so Nevido Smod taps his _Shadow-cloak_ to cancel its single strike. The _Elf-lord_ is discarded.
 > 
 > The opponent announces he will play no more hazards and the company breathes a sigh of relief. Broin will be able to heal at the start of the next turn since his company will be at Grann a-Lisch, a Haven.
 
@@ -727,7 +725,7 @@ As Sauron's minions (i.e., your characters) operate in Middle-earth, they are su
 Each character has a corruption point total. This starts at zero, but certain cards and activities will change this total during play. Most cards that affect a character’s corruption are kept under the character’s card until they are discarded. Only one corruption card (a hazard card that gives corruption points) may be played on a given character each turn.
 
 {: .note }
-> **Note:** Minion characters are not completely subjected to Sauron will. If they were, they would be of little use—independent, but loyaL servants can accomplish much more than slaves. So, minion characters can be corrupted by having their own individual desires and temptations conflict with the goals of their masters. A corrupted minion character has decided that it is in his own best interest to make himself scarce and head for parts unknown. Ringwraiths can not be corrnpted—they already suffered the ultimate corruption when they became Ringwraiths.
+> **Note:** Minion characters are not completely subjected to Sauron will. If they were, they would be of little use—independent, but loyal servants can accomplish much more than slaves. So, minion characters can be corrupted by having their own individual desires and temptations conflict with the goals of their masters. A corrupted minion character has decided that it is in his own best interest to make himself scarce and head for parts unknown. Ringwraiths can not be corrnpted—they already suffered the ultimate corruption when they became Ringwraiths.
 
 ### CORRUPTION CARDS
 
@@ -748,7 +746,7 @@ When a card or other effect indicates that one of your characters must make a co
 
 **Nothing Happens** — If the modified result is greater than the character’s corruption point total, nothing happens. 
 
-**The Character Taps** — If the modified result is equal to the character’s corruption point total **or** one less than the character’s corruption point total, the is very tempted but does _not_ fail the corruption check. If the character is untapped, tap the character.
+**The Character Taps** — If the modified result is equal to the character’s corruption point total **or** one less than the character’s corruption point total, the character is very tempted but does _not_ fail the corruption check. If the character is untapped, tap the character.
 
 **The Character is Eliminated** — If the modified result is less than character’s corruption point total by two or more, the character _fails_ the corruption check and is eliminated (i.e., remove him from play) and you must discard any non-follower cards he controls.
 
@@ -788,12 +786,11 @@ Each turn. a character may only make one removal attempt for each corruption car
 > 
 > On the way back to Carn Dum, Layos gets a _Lure of Nature_ played on him, bringing him back up to 5 CPs. Since there are three Wildernesses in the site path between Dunnish Clan-hold and Carn Dum, Layos must make three corruption checks. On the first two he rolls a 7 and a 12, easily beating his corruption point total. On the third check he rolls a 4. Since this is one less than his CP total, he would normally tap. However, he is already tapped, so there is no effect.
 > 
-> At Cam Dum he tries to remove the _Lure of Nature_ without tapping. He rolls a 7 modified by -3 for not tapping—this is not greater than 4, so the _Lure of Nature_ is not removed. Layos would like to tap and try again; but, since he tried without tapping, he cannot make another attempt.
+> At Carn Dum he tries to remove the _Lure of Nature_ without tapping. He rolls a 7 modified by -3 for not tapping—this is not greater than 4, so the _Lure of Nature_ is not removed. Layos would like to tap and try again; but, since he tried without tapping, he cannot make another attempt.
 > 
 > His company moves to Dol Guldur. The hazard player plays a _Lure of the Senses_ on Layos bringing his CP total up to 7.
 > 
-> At the beginning of his next turn, Layos is ready to tap to attempt to remove the _Lure of the Senses_, and then the _Lure of Narure_ without tapping. Unfortunately, he first has to make a corruption check at the end of the Untap phase because of his _Lure of the Senses_. He rolls a 5. Since this is 2 Jess than his CP total, he is eliminated from the game and his _Blazon of the
-Eye_ and _High Helm_ are discarded.
+> At the beginning of his next turn, Layos is ready to tap to attempt to remove the _Lure of the Senses_, and then the _Lure of Nature_ without tapping. Unfortunately, he first has to make a corruption check at the end of the Untap phase because of his _Lure of the Senses_. He rolls a 5. Since this is 2 less than his CP total, he is eliminated from the game and his _Blazon of the Eye_ and _High Helm_ are discarded.
 
 ## 9 • INFLUENCE
 
@@ -810,7 +807,7 @@ A character’s _unused direct influence_ is equal to his direct influence attri
 
 In order to play a faction card, you must tap one of your characters that is at the “site” indicated on the faction’s card. Then you must make an influence check. Make a roll (2D6), add your character’s unused direct influence, and add any appropriate modifications (any applicable _standard modifications_ from the faction card and from any other cards played). All influence check modifier cards must be played before making the roll (2D6).
 
-If the modified result is greater than the value required on the faction card, you place the faction in your marshalling point pile ![](/assets/images/scroll.svg)[^factionmppile] (it now counts towards your marshalling point total). Otherwise, you discard the faction card. Once a faction is brought into play, it is not controlled by any specific character and it does not count against general or direct influence.
+If the modified result is greater than the value required on the faction card, you place the faction in your marshalling point pile [^factionmppile] (it now counts towards your marshalling point total). Otherwise, you discard the faction card. Once a faction is brought into play, it is not controlled by any specific character and it does not count against general or direct influence.
  
 ### STANDARD MODIFICATIONS
 
@@ -841,7 +838,7 @@ Unless stated otherwise, a card is playable only if its effect applies to an exi
 
 {: .note }
 > **Clarification:** An automatic-attack at a company’s new site may be targeted by a hazard during the company’s movement/hazard phase. Such a hazard may be played even if the attack will not be faced (i.e., if the company decides not to face the automatic-attack during the site phase).
-> a
+> 
 > **Note:** _MELE_ resources are different from _METW_ resources. _MELE_ resources are referred to as "minion resources" and _METW_ resources are referred to as "hero resources." See [page 74]() for more information.
  
 During your movement/hazard phase, both players draw cards when each company moves. If a company moves to a non-Darkhaven site, you _may_ draw up to the number of cards indicated by the site that it _moved to_ (at least one card must be drawn); your opponent does the same. If the company moves to a Darkhaven site, you _may_ draw up to the number of cards indicated by the site that you _moved from_ (at least one card must be drawn); your opponent does the same.
@@ -930,10 +927,7 @@ One of the types of items that your characters can bring into play are rings. Th
 {: .note }
 > **Clarification:** A gold ring is a ring with unknown properties—it might be a lesser ring, a magic ring, a Dwarven ring, or even _The One Ring_. You will not know until you "test" it. There are 6 different gold rings in _MELE_: _A Little Gold Ring_, _The Least of Gold Rings_, _Gold Ring that Sauron Fancies_, _Bright Gold Ring_, _Gleaming Gold Ring_, and _Perfect Gold Ring_. Each has a different probability of being a specific type of special ring.
 
-**Testing a Gold Ring** — Once you have a gold ring, you can "test" it to determine what kind of special ring it is. When you test a gold ring, you make a roll and add any applicable modification (due to the test card used and other cards). The gold ring card will indicate what special rings may be played based upon the modified roll.<br>If the roll indicates a special ring that you have in your hand, you may replace the gold ring with that ring and discard the gold ring. Otherwise, you just discard the gold ring (i.e., it was not that special). If the roll indicates more than one special ring in your hand,
-you choose which to play.
-
-There are five ways to test a gold ring:
+**Testing a Gold Ring** — Once you have a gold ring, you can "test" it to determine what kind of special ring it is. When you test a gold ring, you make a roll and add any applicable modification (due to the test card used and other cards). The gold ring card will indicate what special rings may be played based upon the modified roll.<br>If the roll indicates a special ring that you have in your hand, you may replace the gold ring with that ring and discard the gold ring. Otherwise, you just discard the gold ring (i.e., it was not that special). If the roll indicates more than one special ring in your hand, you choose which to play.<br>There are five ways to test a gold ring:
  - If you have a sage character in the same company as the gold ring, you can play a _Test of Fire_ card.
  - If you have a sage character in the same company as the gold ring and the company is at a site where "Information" is playable, you can play a _Secret of Their Forging_ card (you do not have to roll, you can just play any special item ring except _The One Ring_).
  - Any gold ring in the Ringwraith's own company at the start of the end-of-turn phase is automatically tested. Any ring test in a Ringwraith's own company has a modification of -2.
@@ -944,7 +938,7 @@ There are five ways to test a gold ring:
 > **Note:** Due to the -2 and -3 modifications, the last three ring test methods given above have little chance of resulting in _The One Ring_. This reflects the influence of "fate" on Sauron's efforts to find _The One Ring_.
 
 {: .note }
-> **Example:** You have Tarci! and Pon Opar (a sage) in the same company. Tarcil has _A little Gold Ring_. In your hand, you have a _Test of Fire_ card and three ring cards: _Trifling Ring_ (a lesser ring), _Magic Ring of Lies_, and _Dwarven Ring of Durin's Tribe_.
+> **Example:** You have Tarcil and Pon Opar (a sage) in the same company. Tarcil has _A little Gold Ring_. In your hand, you have a _Test of Fire_ card and three ring cards: _Trifling Ring_ (a lesser ring), _Magic Ring of Lies_, and _Dwarven Ring of Durin's Tribe_.
 > 
 > Because Pon Opar is a sage in the same company as a gold ring, you play your _Test of Fire_ on Tarcil's gold ring at any time during your turn. You roll a 5 for the test, so you may play either your _Trifling Ring_ (any result) or your _Magic Ring of Lies_ (6 or less) with Tarcil. In either case, the gold ring is discarded. If you had rolled a 9 or higher, you would have had the choice of playing your _Dwarven Ring of Durin's Tribe_ or your _Trifling Ring_.
 
