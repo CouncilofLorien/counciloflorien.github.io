@@ -1209,7 +1209,7 @@ There are three other limitations on the types of characters that can be in a co
 These limitations also apply to moving companies.
 
 {: .note }
-> **Note:** If two companies end up at a non-Darkhaven site and combining those companies would violate the limitations on company composition, one of the companies that just moved must return to its site of origin. Similarly. an effect that causes such a violation is cancelled (e.g., We Have Come to Kill)
+> **Note:** If two companies end up at a non-Darkhaven site and combining those companies would violate the limitations on company composition, one of the companies that just moved must return to its site of origin. Similarly. an effect that causes such a violation is cancelled (e.g., _We Have Come to Kill_)
 
 #### Discarding Characters
 
