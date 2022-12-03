@@ -76,7 +76,6 @@ _End-of-Turn Phase_ — Your turn ends.
 {: .note }
 > **Note:** For purposes of readability, these rules use the standard masculine pronouns when referring to a person of uncertain gender. In such cases, these pronouns are intended to convey the meanings: she/he, him/her, etc.
 
-
 # • PART I •<br>STARTER RULES
 
 To get a general idea of how to play, read the Starter Rules sections that are not boxed. Later you can refer to the boxed sections for more information on special situations.
@@ -380,8 +379,8 @@ If a character directly influencing a follower is removed from play, the followe
 > %%{init: {'flowchart' : {'curve' : 'linear'}, 'theme': 'base', 'themeVariables': { 'primaryColor': '#fff','primaryBorderColor': '#44434d','fontFamily': 'timesnewroman'}}}%%
 > graph TD
 >     GI("Wendy's General Influence (20)")
->     GI --- Tc("Troll-chief (6•\[3])")
->     GI --- Sh("Aragorn (6•\[4])")
+>     GI --- Tc("Troll-chief (6•[3])")
+>     GI --- Sh("Shagrat (6•[4])")
 >     GI --- Ot("Orc Tracker (3•0)")
 >     Tc --- Tl("Troll Lout (3•0)")
 >     Sh --- Gr("Grishnakh (3•0)")
@@ -393,8 +392,8 @@ If a character directly influencing a follower is removed from play, the followe
 > graph TD
 >     GI("Nick's General Influence (20)") 
 >     GI --- Ta("Tarcil (6•2)")
->     GI --- Oc("Orc Captain (5•\[3])")
->     GI --- Lt("Lieutenant of Morgul (9•2\[+3])")
+>     GI --- Oc("Orc Captain (5•[3])")
+>     GI --- Lt("Lieutenant of Morgul (9•2[+3])")
 >     In("Indur the Ringwraith (&ndash;•5)") --- Ci("Ciryaher (5•2)")
 > ```
 > 
