@@ -1607,24 +1607,6 @@ However, there is an exception to this: a Ringwraith player may use any hero ite
 
 Certain cards from the original _MECCG_ are inappropriate for play against _MELE_ decks. The following cards will have no effect on a Ringwraith player. This is because the mechanics of the cards do not work with the mechanics of Ringwraith companies, or their effect is too powerful against a Ringwraith company.
 
-| **From _ME: The Wizards_** | 
-| Bane of the Ithil-stone | 
-| Foul Fumes | 
-| Mumak | 
-| The Nazgul are Abroad | 
-
-| **From _ME: The Dragons_** | 
-| Winds of Wrath |
-| Worn and Famished |
-
-| **From _ME: Dark Minions_** |
-| all events that require an agent |
-| The Black Enemy's Wrath|
-| Chance of Being Lost |
-| Great Secrets Buried There |
-| In the Heart of His Realm |
-| Mordor in Arms |
-
 | **From _ME: The Wizards_** | **From _ME: The Dragons_** | **From _ME: Dark Minions_** | 
 | :------------------------- | :--------------------------| :----------------------------|
 | Bane of the Ithil-stone | Winds of Wrath | all events that require an agent |
@@ -1637,25 +1619,14 @@ Certain cards from the original _MECCG_ are inappropriate for play against _MELE
 There are also certain cards from the original _MECCG_ that your play group may not want to use. Some of these are cards that represent too much of an intentional action by Sauron himself. Sauron would not go about hindering his own lieutenants as they do his work. The rest of these cards represent something closely associated to the heroes of Middle-earth. Playing them on minions
 would make little sense in terms of simulating Tolkien 's works. Again, it is up to your playgroup to decide if these cards have an effect on Ringwraith players:
 
-| **From _ME: The Wizards_** |
-| Eye of Sauron | 
-| Morgul-knife | 
-| The Pale Sword |
-| Rogrog |
-
-| **From _ME: The Dragons_** |
-| Black Breath |
-| Gothmog |
-| Many Sorrows Befall |
-
-| **From _ME: Dark Minions_** |
-| Aware of Their Ways |
-| Eyes of the Shadow |
-| In Great Wrath |
-| Long Dark Reach |
-| Out of the Black Sky |
-| Revealed to All Watchers |
-| Wraith-lord |
+| **From _ME: The Wizards_** | **From _ME: The Dragons_** | **From _ME: Dark Minions_** |
+| Eye of Sauron | Black Breath | Aware of Their Ways |
+| Morgul-knife | Gothmog | Eyes of the Shadow |
+| The Pale Sword | Many Sorrows Befall | In Great Wrath |
+| Rogrog | | Long Dark Reach |
+| | | Out of the Black Sky |
+| | | Revealed to All Watchers |
+| | | Wraith-lord |
 
 ## 3 · GETTING READY TO PLAY
 
@@ -1868,8 +1839,7 @@ This section presents some guidelines for handling several special types of card
 
 ### RINGWRAITHS AND NAZGUL
 
-There are several types of cards that you can play a Ringwraith card even if the corresponding manifestation Nazgtll hazard permanent-event is already in play. In this case, the Nazgul hazard
-permanent-event is discarded. This also applies in a game with two Ringwraith players using the Nazgul hazard cards from _METW_.
+There are several types of cards that[^severaltypeofcards] you can play a Ringwraith card even if the corresponding manifestation Nazgul hazard permanent-event is already in play. In this case, the Nazgul hazard permanent-event is discarded. This also applies in a game with two Ringwraith players using the Nazgul hazard cards from _METW_.
 
 ### AGENTS
 
@@ -1881,21 +1851,17 @@ Agents operate as outlined in the _ME: Dark Minions_ rules with the following ex
 
 # • PART V •<br/>APPENDICES
 
-### CONVENTIONS OF TOURNAMENT PLAY
-
-                                                          
-
-## CARD DIAGRAMS
+### CARD DIAGRAMS
 
 {: .text-center }
 ![](/assets/images/unlimited-appendix-card-diagrams.png)
 
-## MAP OF MIDDLE-EARTH
+### MAP OF MIDDLE-EARTH
 
 {: .text-center }
 ![](/assets/images/unlimited-appendix-map.png)
 
-## MAP INDEX
+### MAP INDEX
 
 | # | Region Name | Type |
 | ---: | :---: | :--- |
@@ -1951,6 +1917,119 @@ Agents operate as outlined in the _ME: Dark Minions_ rules with the following ex
 50  | Andrast Coast  | ![](/assets/images/coastalsea.svg)
 51  |Bay of Belfalas  | ![](/assets/images/coastalsea.svg)
 52  |Mouths of the Anduin | ![](/assets/images/coastalsea.svg)
+
+### CONVENTIONS OF TOURNAMENT PLAY
+
+The following lists the essential rules for tournament deck construction and play. Refer to ICE's WEB page at "_http://www.ironcrown.com_" for the complete rulings **or** write I.C.E. at ICE, P.O. Box 1605, Charlottesville, CA 22902.
+
+**Character Draft:** Starting characters are determined by **Character Draft.** Each player selects up to 10 characters to put into his or her pool or potential starting characters. This happens before characters are selected for the play deck. Each player reveals his or her first choice for a starting character simultaneously with their opponent. If this character is duplicated by their opponent's selection, both characters are set aside (this character may not appear in either player's starting company). Each player then selects a second character to reveal (but not a charter reealed earlier). Each unduplicated revealed character goes into its player's starting company. Each player continues this process until one of the following occurs: the player has 5 characters in his or her company, the Mind of that player's starting characters is 20, the player has exhausted his or her pool of 10 potential starting characters, or the player decides to stop revealing characters (i.e., he or she is satisfied with the starting company). Note that when one player stops, the other player continues revealing characters until one of the four conditions is met. A player may not reveal a character that would bring the total Mind of all of his or her starting characters above 20.
+
+In his or her play deck, each player may now assign up to 10 characters, and this may include any unrevealed or duplicated (set aside) characters from his or her pool of starting characters. Note that the Character Draft differs from the rulesbook in that a duplicated starting character does not automatically go into the play deck, and that its inclusion in the play deck does not count against the deck's 10 character maximum.
+
+**The Weakest Link Method:** If both players have an equal number of marshalling points (MPs) after the Free Council has resolved (i.e., there is a tie), add one corruption point to each non-Ringwraith character in play. Each character (except Ringwraiths) must make another corruption check, MPs are recounted, and victory is awarded to the player with the most MPs. If there is still a tie, add one more corruption point to each non-Ringwraith character and each makes another corruption check. Again, assess MPs to see if a winner emerges. If not, continue adding one corruption point, making corruption checks, and reassessing MPs until a winner emerges. If all non-Ringwraith characters in play are corrupted by the weakest link method (unlikely) and there is still a tie, roll dice to determine a victor.
+
+**Creature Minimum:** A 12 creature minimum is required in each play deck's hazard mix. Creatures that are also events count as only half a creature towards this limit (rounding down). Such creatures include the Nazgul, _Mouth of Sauron_, and _Shelob_. Sideboards have no such creature restrictions. Dragon "Ahunt" and "At Home" manifestations count as half a creature for these purposes. Agents also count as half a creature for these purposes.
+
+**Construction Minimums:** The minimum number of hazards and resources in a play deck is increased from 25 hazards and 25 resources to 30 hazards and 30 resources.
+
+**Number of Ringwraiths:** Up to 3 of the same Ringwraith **or** up to 2 of the same Ringwraith and 1 of a different Ringwraith may be included in a play deck.
+
+**Dual Purpose Cards:** A card that can be played as either a resource or as a hazard can be counted in either the resource mix or hazard mix of a deck for the purposes of including an equal number of resources and hazards.
+
+**Using Maps:** If region movement is being used, an appropriate map of the regions of _MECCG_ can be used to depict region movement (instead of using actual region cards). The text of region cards takes precedence over maps, however. Certain regions, which may appear to be adject on a map, in fact are not listed as adjacent on the appropriate region cards (e.g., Rohan and Dagorlad, Cardolan and Lindon). Such regions are not considered adjacent, even when a map is used for region movement. Maps from the _Middle-earth CCG Maps_ were designed to minimize any visual discrepancies.
+
+**Legal Play of Cards:** A player may not play a card just to discard it (i.e., just get it out of his or her hand). Specifically, a card may only be played if it meets at least one of the following criteria.
+
+ 1. The card must have an immediate effect on the game.
+ 2. The card is a long-event. Long-events can always be played, even if ultimately they will not affect play.
+ 3. The card has a potential effect on play that could be triggered later. Most permanent-events fall into this category. Only those that are playable on or with a certain entity are restrictive. E.g., you cannot play a corruption card if no characters exists that would be affected by it.
+
+In all cases, if a card "cannot be duplicated," a second copy of that card cannot be played—unless the first copy of the card is targeted for removal earlier in the same chain of effects when the second copy is played.
+
+### GLOSSARY
+
+The following list provides a definition of the most common game terms. In may cases, the most pertinent rules associated with each term as also given.
+
+**Action:** Any activity in the game (card play, a corruption check caused by _Lure of the Senses_, etc.). Each action is not immediately resolved when it is declared. An opponent and yourself have the opportunity to declare other actions in response. Meeting active conditions and exhausting a play deck are not actions—they are declared and resolved immediately.  
+**Ally:** A resource playable at an untapped site during the site phase that taps the site. Allies represents non-personalities (e.g., _war-wolf_ and _Stinker_) and require no influence check and no influence to control. An ally is considered a character only for the purposes of combat (facing strikes, tapping to support, etc.).  
+**Attack:** An action against a company that lists a number of strikes and prowess. Most attacks are either hazard creature attacks or automatic-attacks, though certain cards cause attacks which are neither of these. Most attacks are further described with a creature type though they do not have to be. An attack must be the first declared action in a chain of effects.  
+**Automatic-attack:** An attack a company must immediately face when it declares it will enter a site before it takes any actions at the site.
+**Attacker:** During an attack, the player whose company is not facing the attack. The attacker makes decisions on behalf of the attack.  
+**Attribute:** A characteristic of a character or attack: prowess, body,tace, a character's listed skills, direct influence, mind, marshalling points, and special abilities.  
+**Audience with Sauron:** The last stage of the game for a Ringwraith player. All non-Ringwraith minions make a corruption check, marshalling points are counted (with modifiers in the Standard Game), and MPs are compared to determine a winner.
+**Body:** The second attribute listed in the shield in the lower left corner of a character or creature card. Body relates to how difficult the character (or creature) is to eliminate (or defeat) in combat. A strike from an attack with no body (listed as "–" in the shield) is automatically defeated when it fails; no body check is required. If none is listed, an attack is considered to have no body.
+**Body Check:** A dice roll made by an opponent on your character or on a strike that failed against his character. On your character, if this dice roll is greater than the character's body, the character is eliminated. Body checks usually result from a strike sequence in combat, but certain cards call for body checks at other times.  
+**"Cannot be duplicated.":** Card text meaning only one copy of that card can be in play at all. No further copies of that card can be played unless the copy in play will be removed by an action declared in the same chain of effects.
+**"Cannot be duplicated on…":** Card text that means only one copy of that card can be in play as stated: by a player, or on a given entity. No further copies of that card can be so played unless the copy in play will be removed by an action declared in the same chain of effects.
+**Chain of Effects:** A series of actions declared in response to one another before any of them resolve. Actions in a chain of effects are resolved in the reverse order from which they were declared (last in, first out).  
+**Character:** A card representing an entity that is or directly serves a Ringwraith or Wizard.
+**Combat:** The resolution of an attack. This involves strikes being assigned and strike sequences being performed. Combat specifically encompasses the time from the resolution of an attack action until the first strike sequence is completed. During combat, no attack may be actively declared."
+**Company:** A coordinated group of characters as designed by their player.
+**Copmany Size:** The number of characters in the company with Orc scouts counting half (rounded up).
+**Condition, Active:** A prerequisite for an action actively made by a player. Typically this involves tapping a character, discarding an item, or having a character of a particular skill in play. Active conditions are declared and resolved with no time for response by an opponent or yourself.
+**Condition, Passive:** An action that causes another action to take effect. The triggered action will be the first declared action in the chain of effects immediately following the chain of effects that contained the passive condition.
+**Corruption:** A keyword typically found on hazard permanent-events that give corruption. Only one corruption card can be played on a given character a turn.
+**Corruption Check:** A dice roll a character makes if called for. If the result is greater than the character's accumulated corruption points, nothing happens. If the result equals or is one less than a minion's accumulated corruption, the minion becomes tapped if untapped (a hero would be discarded). If the roll is two or more less than a minion's accumulated corruption, the minion is eliminated and all cards on him are discarded (the same for a hero).
+**Corruption Points:** A number with no + or - symbol typically shown in the lower right corner of certain cards. Each corruption check (i.e., the dice roll) made by a character is modified by all corruption modifiers that apply.
+**Covert Company:** A minion company with no Orcs or Trolls.
+**Creature:** A hazard card with "Creature" in the classification line. 
+**Current Site:** The site card showing a non-moving company's location. A moving company has no current site from the moment its new site is revealed util its site of origin is removed.
+**Declaring an Action:** Stating that an action is being played, though the actual effects of the action are not implemented until both players have had the chance to respond with the declaration of other actions. Each time you play a card, you are declaring an action. Actions triggered by passive conditions are declared as the first action in the chain of effects following the chain of effects which produced the passive condition.
+**Defender:** During an attack, the player whose company is facing the attack. The defender makes decisions on behalf of his company.   
+**Detainment Attack:** An attack whose strikes do not wound (and require no body check) if successful. A successful strike from a detainment attack only causes an untapped character to become tapped.  
+**Direct Influence:** The attribute listed in the hand symbol on a character. A character can control any number of followers such that their total mind in less than or equal to his direct influence.    
+**Exhausting a Play Deck:** When you draw the final card from your play deck into your hand. Immediately when the card is drawn, your discard pile becomes your new play deck. _Standard Game:_ exchange up to 5 cards between it and your sideboard and shuffle. Return all discarded sites to your location deck.  
+**Faction:** A resource card with faction in the classification line. Factions represent unique Dragons or groups of creatures or peoples.  
+**Follower:** A character controlled with another charncter's direct influence. Followers cannot have followers.  
+**General Influence:** 20 points of influence a player inherently possesses—used to control characters.  
+**Hazard Limit:** The maximum number of hazard cards that may be played against a company. The hazard limit equals the company's size (to a minimum of two) when it declares its movement/hazard phase is starting.  
+**Hazards:** Cards with a steel grey metal background. You may only play hazards during your opponent's movement/hazard phase.  
+**Healing:** Moving a character at a Darkhaven from wounded to tapped during his untap phase. Certain cards allow healing at other times, and some even to an untapped state.  
+**Hero:** A character controlled by a Wizard player. Non-Wizard hero cards have a blue stone background. Each Wizard hero card has a differently colored stone background. Heroes are not included in _MELE_.  
+**Home Site:** A site listed in a character's card where he may be brought into play (or discarded during your organization phase) in addition to Darkhavens.  
+**Influence Check:** A dice roll you make when your character is attempting to influence a faction or an opponent's card. Influence checks are called for in others situations also.  
+**Item:** A resource playable at an untapped site during the site phase that taps the site. The different types of items are: minor, major, greater, gold ring, and special.  
+**Keyed To… (or Played At…):** The manner a creature is played on a company. A creature is either: keyed to a region by type or name in a moving company's site path, or keyed to (played at) a moving company's new site by type or name, or keyed to (played at) the current site by type or name of a company that is not moving.  
+**Keyword:** An italicized word in a card's text box typically stood off with a period. Keywords carry no inherent rules, but rather are used as card identifiers when determining if another card affects them. Many keywords do have rules accompanying them, however, like _Unique_ and _Corruption_. Any words given in a card's classification line are also keywords.  
+**Location Deck:** Your deck of available sites (and region cards, if used). Only one of each non-Darkhaven site may be included in your location deck.  
+**Long-event:** A resource or hazard that stays in play for approximately two turns. Resource long-events can be played during your long-event phase. Hazard long-events can be played during your opponent's movement/hazard phase. Long-events are discarded during the appropriate player's long-event phase as described in the Full Player Turn Summary.  
+**Marshalling points:** The number printed in a card's upper left corner. A card's marshalling points relates how important that card is to Suuron. After the Audience of Sauron/Free Council, the winner is the player with the most accumulated marshalling points.  
+**Mind:** The attribute that determines how many influence points are required to control that character.   
+**Minion:** A character controlled by a Ringwrnith player. Non-Ringwraith minion cards have a rusted-purplish iron background. Each Ringwraith minion card has a blood-red stone background. Minions are the only characters included in _MELE_.  
+**Moving Company:** A company in the process of moving between a site of origin and a new site. A company is moving during its movement/hazard phase from the time it reveals its new site until its site of origin is removed.  
+**New Site Card:** The site where a moving company is going. The company is at their new site when their site of origin is removed at the end of their movement/hazard phase.  
+**Normal:** As printed on the card without modification from other effects. Certain effects allow you to hold one more card than normal in your hand; these effects are cumulative and you should not necessarily consider normal in this sense to mean 8 cards.  
+**Overt Company:** A minion company with at least one Orc or Troll.  
+**Permanent-event:** A resource or hazard that stays in play indefinitely as stated in its text.  
+**Play Deck:** Your deck of cards from which you draw. At the start of the game, each player must have an equal number of resources and hazards with a minimum of 25 of each, up to two Ringwraith characters, and up to 10 of any other characters.  
+**Player:** You, the real person playing! A player is either a Ringwraith player or Wizard player. A Ringwraith player uses minion characters, minion sites, and minion resources, and can represent himself with a Ringwraith character. A Wizard player uses hero characters, hero sites, and hero resources, and can represent himself with a Wizard character.  
+**Prowess:** The first attribute listed in the shield in the lower left corner of a character or creature card. Prowess relates how well the character (or creature) performs in combat. All attacks in general have a given prowess.  
+**Race:** An attribute given in a character's classification line. The seven minion races are: Ringwraith, Orc, Troll, Elf, Dwarf, Dunadan, and Man.  
+**Region:** The geographic unit into which northwestern Middle-earth is broken down. Regions are represented in 2 ways: by name and by type. There are six region types: Coastal Sea (![](/assets/images/coastal-sea.svg)), Free-domain (![](/assets/images/free-domain.svg)), Border-land (![](/assets/images/border-land.svg)), Wilderness (![](/assets/images/wilderness.svg)), Shadow-land (![](/assets/images/shadow-land.svg)), and Dark-domain (![](/assets/images/dark-domain.svg)).  
+**Resolving an Action:** Carrying out the actual effect on the game of an action. Multiple actions are resolved in a chain of effects in the opposite order they are declared.  
+**Resources (minion):** Cards with a grey-blue steel background. You may only play resources during your turn. Hero resources (not included in _MELE_) have a copper metal background.  
+**Short-event:** A resource or hazard that is discarded when it resolves (though it may have a lasting effect).  
+**Site of Origin:** The site where a moving company began its turn. The company is no longer at its site of origin when it reveals a new site at the beginning of its movement/hazard phase.  
+**Site:** The locations in Middle-earth represented by cards with a grey parchment background. Sites are represented in 2 ways: by name and by type. There are six site types in _MELE_: Darkhaven ![](/assets/images/dark-haven.svg), Free-hold ![](/assets/images/free-hold.svg), Border-hold ![](/assets/images/border-hold.svg), Ruins & Lairs ![](/assets/images/ruinlair.svg), Shadow-hold ![](/assets/images/shadow-hold.svg), and Dark-hold ![](/assets/images/dark-hold.svg).  
+**Site Path, Site's:** The sequence of region types listed on a site's card.
+**Site Path, Company's:** The sequence of regions (by name and by type) through which a moving company moves. Most effects that refer to a site path mean a company's site path. However, you must be sure to recognize those effects that refer to a site's site path.  
+**Skill:** An attribute of a character as listed on the classification line. The five skills are: Diplomat, Ranger, Sage, Scout, and Warrior.  
+**Standard Modification:** A modifier to an influence check against a faction that is printed on the faction's card. Certain factions (like Dragon factions) list simple Modifications which affect an influence check the same way, but do not count as Standard Modifications as a keyword (like when interpreting _Old Prejudice_).  
+**Storing Cards:** During your organization phase, taking a card from a character or company to your marshalling point pile. An item can normally be stored if its bearer is at a Darkhaven, but other cards require explicit instructions given on the card.
+**Strike:** The portion of an attack that affects an individual character. Each attack has one or more strikes, each of which an individual character must face in a strike sequence. If an attak has more strikes than a defending company has chracters, every character faces one strike and the excess strikes are converted to -1 modifiers.  
+**Strike Sequence:** The time from when you declare one of your characters will resolve a strike until the strike dice roll is made and associated body checks are made. No actions may be declared except those that directly affect the strike as listed on [page 33](). Between strike sequences of an attack, players can declare more general effects (except declaring an attack and changing the current attack's number of strikes.)  
+**Tapping a Card:** Moving a card 90 degrees to a sideways position.  
+**Tapped:** The state of a card shown in a sideways position. You cannot declare an action that requires a character or other card to tap if that card is already tapped.  
+**Targeting:** Choosing a specific entity through which a card or effect will be played out. An entity chosen as such is the "target" of the action. Some possible targets are: characters, corruption checks, strike dice rolls, items, sites, and companies. A card that states it is playable on or with a certain entity targets that entity. Cards which affect an entire class of other cards do not target (e.g., _Wake of War_).  
+**Transferring Items:** During the organization phase, moving an item from the control of a character to another character at the same site. The character giving up the item must make a corruption check before the actual transfer takes place. Whenever a character is eliminated by a body check, he can automatically transfer one item to each unwounded character in his company with no corruption check.  
+**Turn:** The alternating sequence of steps you and your opponent perform: Untap, Organization, Long-event, Movement/Hazard, Site, and End-of-Turn.  
+**Unique:** A keyword that means only one copy of the card can be included in a player's play deck, starting company, and sideboard combined.   Additionally, only one copy of the card maybe in play at a time; additional copies cannot be played.  
+**Ringwraith:** A character representing one of the nine Nazgul of Sauron. The first Ringwraith you put into play represents you—the representative Ringwraith. This is sometimes referred to as "your Ringwraith."  
+**Ringwraith Follower:** A Ringwraith minion played in addition to your representative Ringwraith. Ringwraith followers are always followers of your representative Ringwraith.  
+**Untapping a Card:** Moving a tapped card 90 degrees from sideways to a normal position.  
+**Untapped:** The state of a card when its bottom is towards you. All cards enter play untapped and remain that way until an effect of the game taps or wounds them. Only entities that are untapped ,ay perform actions that require them to tap.  
+**Wizard:** A character representing one of the five Istiri. Wizards are not included in _MELE_. A player can have no Wizard followers.  
+**Wounded:** The state of a character shown by placing the top of his card towards you. A character in play who is not tapped or untapped is wounded. A character becomes wounded when a strike against him is successful. You cannot declare an action that requires a character to tap if the character is wounded.
 
 ## FULL PLAYER TURN SUMMARY
 
@@ -2051,6 +2130,7 @@ Dark-domains  |  ![](/assets/images/dark-domain.svg)
 
 {: .note} 
 > _Address rules questions and comments via email to metwice@aol.com or mail to: I.C.E, P.O. Box 1605, Charlottesville, VA, 22902. Look for METW discussion areas on your favorite on-line service and visit our home page on the WWW (http://www.ironcrown.com)._
+
 ---
 
 ## CREDITS
@@ -2093,3 +2173,4 @@ Dark-domains  |  ![](/assets/images/dark-domain.svg)
 [^factionmppile]: In _METW_ factions are placed in the play area. This rule in _MELE_ states that factions are placed in your marshalling point pile, not the play area. In Section 2 of _MELE_ there is a diagram showing that factions are in play, not in the marshalling point pile and section 10 states that factions are played into the play area. The _Challenge Deck_ and _The Balrog_ Rules Summary also state that factions are placed into the marshalling point pile. However, some of the cards that are played on factions (e.g., Trouble on All Borders, No Escape from my Magic, etc.) specifically state "a faction in play." The reason that factions were played into the play area in the first place is that the Designers hoped to make more use out of factions. There was an expansion in development called _War Hosts_ which would allow factions to battle across the map. However, these mechanics were deemed to be too clunky in a game focusing on small groups of companies traveling the map. _Dark Minions_ was released instead and _War Hosts_ got pushed back until it was abandoned. Presumably the abandonment of _War Hosts_ meant that factions could simply go into the MP pile. However, the MP pile is out of play and so cards cannot be played on "factions in play." This led to rules changes in Section 2. Unlike in _METW_ where the MP pile and out-of-play pile are out of play, _MELE_ makes a distinction between "inactive" and "active" play. However, "inactive" play is never defined. In the end, the same result achieved a different way. At least, ICE has never defined any mechanical difference between the _METW_ way of playing factions into the play area and the _MELE_ way of placing the factions into the MP pile besides changing the place were factions end up after being played.
 [^helltalk]: The card named _He'll Talk_ does not exist in the published game. Presumably it is a permanent-event that gives marshalling points similar to _News of the Shire_, but it does not require the character to remain tapped as does _Kill All but NOT the Halflings_.
 [^minusbody]: This example states that Frodo has a -1 body for this body check. It is usually no different but the rules technically give a +1 modifier to the body check dice roll rather than a -1 modifier to the character's body. This would matter if an effect was used in response to the body check that had a maximum. For instance, if Frodo's 9 body is reduced to 8 with a -1 modifier (as stated in the example) and then _Miruvor_ is discarded in response to the declaration of the body check for +2 body to a maximum of 10, then the body check dice roll would need to be an 11 to eliminate Frodo. But if the body check against the charcter is given +1 (as the rules state) then Frodo would have only +1 to body (10 body_ from _Miruvor_ given the maximum and only a body check dice roll of 10 (+1 for being wounded) would be needed to eliminate Frodo rather than an 11.
+[^severaltypeofcards]: The rules state "There are several types of cards that you can play a Ringwraith card even if the corresponding manifestation Nazgul hazard permanent-event is already in play." There was a clerical error. The rule should read "You can play a Ringwraith card even if the corresponding manifestation Nazgul hazard permanent-event is already in play."
