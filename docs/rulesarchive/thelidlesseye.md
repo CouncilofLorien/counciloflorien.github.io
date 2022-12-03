@@ -425,7 +425,7 @@ For example, if you have 3 characters in play, the 3 characters can move separat
 Normally, a company is limited to a size of seven, but a company at a Darkhaven site may be of any size. For these purposes, an ally does not count as a character. The size of a company is determined for each company at the beginning of the movement/hazard phase (e.g., it remains fixed even if a character leaves the company).
 
 {: .note }
-> **Clarification:** A company is **not** an "attack," and a character is **note** an "attack." So hazards that modify attacks have no effect on characters and companies.
+> **Clarification:** A company is **not** an "attack," and a character is **not** an "attack." So hazards that modify attacks have no effect on characters and companies.
 
 #### Limitations on Company Composition
 
