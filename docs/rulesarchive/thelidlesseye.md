@@ -1039,7 +1039,7 @@ The various activities that you and your opponent can perform during play are ca
 You should read and master the Starter Rules before tackling the Standard Rules.
 
 {: .note }
-> **Note:** These rules apply to a Ringwraith player playing a Ringwraith player. See Part IV ([page 73]()) for guidelines for handling a game between a Ringwraith and a Wizard
+> **Note:** These rules apply to a Ringwraith player playing a Ringwraith player. See Part IV ([page 73]()) for guidelines for handling a game between a Ringwraith and a Wizard.
 
 ## 1 • THE VICTORY CONDITIONS
 
