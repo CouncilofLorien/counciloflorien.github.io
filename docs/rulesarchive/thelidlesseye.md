@@ -572,7 +572,7 @@ A _site path_ is the sequence of regions between a site and its nearest Darkhave
 Combat normally occurs when one of three things happen:
 
  - When a creature hazard is played on a company.
- - When a company at a site with an _automatic-attack_ decides to attempt to play a resource card for that site (i.e., decides to attempt to enter and explore the site).
+ - When a company at a site with an _automatic-attack_ decides to attempt to play a resource card for that site (i.e., decides to attempt to enter the site).
  - When any other card indicates that a company must face an attack.
 
 ### ATTACKS & STRIKES
