@@ -513,33 +513,14 @@ The company containing your Ringwraith may freely move from Darkhaven to Darkhav
 
 There are six types of regions and six types of sites:
 
-| Region Type | Symbol |
-| :--- | :--- | 
-Coastal Seas | \[ ![](/assets/images/coastalsea.svg) ] |  
-Free-domains |  \[ ![](/assets/images/free-domain.svg) ]  | 
-Border-lands |  \[ ![](/assets/images/border-land.svg) ] | 
-Wilderness  |  \[ ![](/assets/images/wilderness.svg) ]  | 
-Shadow-lands  | \[ ![](/assets/images/shadow-land.svg) ]  | 
-Dark-domains  | \[ ![](/assets/images/dark-domain.svg) ]  |
-
-| Site Type | Symbol |
-| :--- | :--- | 
-Darkhavens  |  \[ ![](/assets/images/dark-haven.svg) ]
-Free-holds  | \[ ![](/assets/images/free-hold.svg) ]
-Border-holds  | \[ ![](/assets/images/border-hold.svg) ]
-Ruins & Lairs  | \[ ![](/assets/images/ruinlair.svg) ]
-Shadow-holds  | \[ ![](/assets/images/shadow-hold.svg) ]
-Dark-holds |  \[ ![](/assets/images/dark-hold.svg) ]
-
-
 | Region Type | Symbol | Site Type | Symbol |
 | :--- | :--- | :--- | :--- | 
-Coastal Seas | \[ ![](/assets/images/coastalsea.svg) ] |  Darkhavens  |  \[ ![](/assets/images/dark-haven.svg) ]
-Free-domains |  \[ ![](/assets/images/free-domain.svg) ]  | Free-holds  | \[ ![](/assets/images/free-hold.svg) ]
-Border-lands |  \[ ![](/assets/images/border-land.svg) ] | Border-holds  | \[ ![](/assets/images/border-hold.svg) ]
-Wilderness  |  \[ ![](/assets/images/wilderness.svg) ]  | Ruins & Lairs  | \[ ![](/assets/images/ruinlair.svg) ]
-Shadow-lands  | \[ ![](/assets/images/shadow-land.svg) ]  | Shadow-holds  | \[ ![](/assets/images/shadow-hold.svg) ]
-Dark-domains  | \[ ![](/assets/images/dark-domain.svg) ]  | Dark-holds |  \[ ![](/assets/images/dark-hold.svg) ]
+Coastal Seas |  ![](/assets/images/coastalsea.svg)  |  Darkhavens  |   ![](/assets/images/dark-haven.svg) 
+Free-domains |   ![](/assets/images/free-domain.svg)  | Free-holds  |  ![](/assets/images/free-hold.svg) 
+Border-lands |   ![](/assets/images/border-land.svg) | Border-holds  |  ![](/assets/images/border-hold.svg) 
+Wilderness  |   ![](/assets/images/wilderness.svg)  | Ruins & Lairs  |  ![](/assets/images/ruinlair.svg) 
+Shadow-lands  |  ![](/assets/images/shadow-land.svg)  | Shadow-holds  |  ![](/assets/images/shadow-hold.svg) 
+Dark-domains  |  ![](/assets/images/dark-domain.svg)  | Dark-holds |   ![](/assets/images/dark-hold.svg) 
 
 A _site path_ is the sequence of regions between a site and its nearest Darkhaven. However, each region in the sequence is only indicated by its type, not by its name. Each non-Darkhaven site card has a site path on it. Each Darkhaven site card has two site paths, but each of those two paths gives the sequence of regions between the Darkhaven and one of the two Darkhavens nearest to it.[^twopaths]
 
