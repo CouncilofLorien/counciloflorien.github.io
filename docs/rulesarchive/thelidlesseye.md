@@ -597,11 +597,11 @@ Unless the attack states otherwise, the defender chooses which _untapped_ charac
 
 There are a number of standard modifications to the prowess of each target character facing a strike:
 
- - Each unwounded, tapped character must modify his prowess by -1.
- - Each wounded character must modify his prowess by -2.
+ - An unwounded, tapped character must modify his prowess by -1.
+ - A wounded character must modify his prowess by -2.
  - Normally a character that is the target of a strike is tapped after the strike is resolved. However, a character that is the target of a strike may choose to take a -3 modification to his prowess to avoid being tapped. If so, the character is not tapped after the strike is resolved (he may still be wounded).
  - If an attack has more strikes than the company has characters, the attacker may allocate the excess strikes as -1 modifiers to the prowesses of whichever target(s) he chooses. See the Strike Sequence on [page 33]().
- - The target’s prowess may also be modified due to the play of certain resource and hazard cards. Only one resource card requiring skill may be played against a given strike.
+ - The target’s prowess may also be modified due to the play of certain resource and hazard cards. Only one resource card requiring a skill may be played against a given strike.
 
 | Condition | Mod. to Target's Prowess |
 | :--- | ---: |
@@ -620,7 +620,7 @@ There are a number of standard modifications to the prowess of each target chara
  
 #### Resolving Strikes
 
-Strikes are resolved one at a time as decided by the defending player. When you choose a strike to resolve, determine all of the factors affecting the strike before the roll is made (see “The Strike Sequence” below). To resolve a strike, the defender makes a roll (2D6) and adds his modified prowess:
+Strikes are resolved one at a time as decided by the defending player. When you choose a strike to resolve, determine all of the factors affecting the strike before the roll is made (see “The Strike Sequence” on [page 33]()). To resolve a strike, the defender makes a roll (2D6) and adds his modified prowess:
 
  - If this result is greater than the strike’s prowess, the strike _fails_. Such a strike is defeated if its body attribute is “–” **or** if it has a body attribute and fails a body check.
  - If this result is equal to the strike’s prowess, the strike was _ineffectual_ (i.e., the strike is avoided but not defeated).
