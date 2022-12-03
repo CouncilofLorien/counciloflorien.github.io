@@ -2078,22 +2078,25 @@ Follow this procedure for each of your companies. Each company has a separate mo
 
 ### Site Phase
 
-In the order you decide (i.e., you decide which goes first, second, etc.), each of your companies at an _untapped_ site may:
+In the order you decide (i.e., you decide which goes first, second, etc.), each of your companies may:
 
  - do nothing **or**
  - follow this procedure:
-      1. You decide to enter and explore the site.
-      2. If the site has an automatic-attack, it attacks the company. The attack is resolved normally (see [pages 29-33](/rules-archive/the-wizards-unlimited#7--combat)).
-      3. The company may attempt to play one item, ally, faction, or information resource card that is “playable” at that site. Generally, this will involve tapping the character that will control the card played. If the resource card is successfully played, the site card is tapped **and** one additional character may tap to play a minor item.<br>Certain resource cards other than items, allies, factions, and information will state the conditions under which they may be played. Such cards may be played at tapped and untapped sites, and do not tap a site when played (e.g., _Return of the King_, _Lucky Search_, etc.).<br>
-      _Standard Rules Only:_ One of your characters or your Wizard may attempt to influence away one of your opponent’s characters, followers, allies, factions, or items (if it is at the same site).
+      1. Enter the site.
+      2. If the site has an automatic-attack, it attacks the company. The attack is resolved normally (see [pages 28-34]()).
+      3. If the site is untapped, a character in the company may attempt to play an item, ally, or faction that is “playable” at that site. Tap the character, and the site.<br>Certain resource cards other than items, allies, and factions are playable during the site phase and state the conditions under which they may be played. Such a card only requires an untapped site if it states that the site taps when played.<br>If a tapped site should become untapped, an additional resource may be played that taps the site.<br>Anytime a resource card is played that taps the site, one additional character may tap to play a minor item.
+      4. _Standard Rules Only:_ One of your characters or your Ringwraith may attempt to influence away one of your opponent’s characters, followers, allies, factions, or items (if it is at the same site). See [pages 64-66](). **OR**<br>_Against Wizard Player Only:_ One of your companies may make an attack against one of your opponent's companies (if it is at the same site).
 
 **End-of-Turn Phase**
-You may discard one card. Then you must draw or discard cards until your hand has 8 cards. Your opponent does the same.
+You may discard one card. Then you must draw or discard cards until your hand has 8 cards. Your opponent does the same. *Note:* The number of cards you must keep in your hand can be increased beyond eight by certain cards and abilities.
+
+{: .note} 
+> _Address rules questions and comments via email to metwice@aol.com or mail to: I.C.E, P.O. Box 1605, Charlottesville, VA, 22902. Look for METW discussion areas on your favorite on-line service and visit our home page on the WWW (http://www.ironcrown.com)._
 
 ## SYMBOL KEY
 
 | Region Type | Symbol |
-| :--- | :--- |
+| :--- | ---: |
 Coastal Seas |   ![](/assets/images/coastalsea.svg)
 Free-domains |   ![](/assets/images/free-domain.svg)
 Border-lands |   ![](/assets/images/border-land.svg)
@@ -2102,8 +2105,8 @@ Shadow-lands |   ![](/assets/images/shadow-land.svg)
 Dark-domains  |  ![](/assets/images/dark-domain.svg)
 
 | Site Type | Symbol |
-| :--- | :--- |
- Havens  |   ![](/assets/images/free-haven.svg)
+| :--- | ---: |
+ Darkhavens  |   ![](/assets/images/dark-haven.svg)
  Free-holds  |  ![](/assets/images/free-hold.svg)
  Border-holds  |  ![](/assets/images/border-hold.svg)
  Ruins & Lairs |  ![](/assets/images/ruinlair.svg)
@@ -2111,7 +2114,7 @@ Dark-domains  |  ![](/assets/images/dark-domain.svg)
  Dark-holds   | ![](/assets/images/dark-hold.svg)
  
  |  Other  |  Symbol | 
- | :--- | :--- |
+ | :--- | ---: |
  Mind   |  ![](/assets/images/mind.svg)
  Direct Influence  |  ![](/assets/images/di.svg)
  
@@ -2128,42 +2131,22 @@ Dark-domains  |  ![](/assets/images/dark-domain.svg)
  Other resource cards  |   varies
  Hazard cards    |    varies
 
-{: .note} 
-> _Address rules questions and comments via email to metwice@aol.com or mail to: I.C.E, P.O. Box 1605, Charlottesville, VA, 22902. Look for METW discussion areas on your favorite on-line service and visit our home page on the WWW (http://www.ironcrown.com)._
-
 ---
 
 ## CREDITS
 
-**Art Director:** Jessica Ney-Grimm  
-**Base Design:** Coleman Charlton  
-**Project & Graphics Coordination:** Peter C. Fenlon  
-**Game Development:** Coleman Charlton, Mike Reynolds  
-**Card & Packaging Production:** Nick Morawitz  
+**Art Director:** Jessica Ney-Grimm   
+**Base System Design:** Coleman Charlton   
+**Base Expansion Design & Development:** Michael Reynolds, C. Charlton   
+**Graphics Coordination & Development:** Peter C. Fenlon, Nick Morawitz   
+**Color Corrections:** Alexander Gunther, J. Ney-Grimm, Wendy Frazer  
 **Assisting Art Direction:** Jason O. Hawkins  
-**Design Team:** Coleman Charlton, John W. Curtis III, Pete Fenlon, Jason Hawkins, Mike Reynolds  
-**Applescripting:** Sal Soghoian  
-**Cardface & Cardback Graphics:** Derek Carbonneau  
-**Computer Color Balancing:** Stephen Jiranek, Nick Morawitz  
-**Computer Scanning Coordination:** Cotton Puryear  
-**Computer Scanning:** Photoworks of Virginia, Inc.  
-**Design Contributions:** N. Morawitz, Jessica Ney-Grimm, Dave Platnick Eye Cardback Art: Derek Carbonneau  
-**Graphics Contributions:** Pete Fenlon, Nick Morawitz, Jessica Ney-Grimm  
-**General Production:** Donald Dennis, Wendy Frazer  
-**Initial Design Parameters:** C. Charlton, John Curtis, Pete Fenlon, Jason Hawkins, Nick Morawitz, Jessica Ney-Grimm, Mike Reynolds  
-**Map Cardback & Region Card Art:** Jo Hartwig   
-**Marketing, Operations & Sales:** Deane Begiebing, Will Dinwiddie, Olivia Johnston, Dave Morris, Bruce Neidlinger, Dave Platnick, Daniel Williams, Monica Wilson  
-**Middle-earth Content:** P. Fenlon, Jason Hawkins, Jessica Ney-Grimm  
-**Playtest Coordinator:** Mike Reynolds  
-**Printer & Service House Coordination:** Kurt H. Fischer  
-**Printer Liaison:** Ilse Hendrickx, Luc Mertens, André Van Laer  
-**Rules Production:** Coleman Charlton, Nick Morawitz, Pete Fenlon  
-**Symbols:** Derek Carbonneau, Pete Fenlon, Nick Morawitz  
-**Logo:** David Martin, Derek Carbonneau  
-**Proofreading:** Deane Begiebing, Pete Fenlon, Olivia Johnston, Heike Kubasch, Dave Platnick, Mike Reynolds, Monica Wilson  
-**Special Contributions:** Derek Carbonneau, DPP, Thomas Graves, KCJ, Liz Leonard, Ken McGlothlen, Jesper Myrfors, Bruce Neidlinger, Jeffrey Ney-Grimm, Lou Rexing, Michael Sloan, Robin Swope, James Whitehouse, Janet Winter, Wayne Young, and friends & families  
-**Special Thanks:** Peter Adkison, Laurie Battle, Will & Schar Niebling, Danny Kilbert, Bob Carty, Mike Davis, Lou Rexing, Wayne Godfrey, Gary E. Smith, the Chessex crews, the InQuest crew and our on-line friends, especially the {TFF Folder}.  
-**Playtesting Credits:** James Andrews, Christian Antonini, Kevin Barrett, D. Begiebing, Guy Botero, Brian Bouton, Jay Bryan, Brian Carr, Waldon Chisholm, Silvio Negri Clementi, Frank Coker, Jessica Colborn, R. Mark Colborn, Philip DeLuca, D. Dennis, Bernd Dietrich, Bill Edwards, O. Estefania, Klaus Etzold, Andrea Fattori, K. Fischer, Luigi Lo Forti, Scott Frazer, Wendy Frazer, Madai Frey, Matthew Fulton, Kevin Garber, Eduard Garcia, David Glenn, Jesse Goldstein, O. Johnston, Robert Kelly, Ralph Kennedy, Oscar Lafuente, Nick Laiacona, Steve Marvin, F. Navarro, Will Niebling, William Niebling, Elmar Perkuhn, D. Platnick, Frank Pfeifer, Jeffrey C. Riley, Cory John Rueb, Francesc Matas Salla, Doug Schnur, Jason Smith, Lowell Stouder, Henri Jean Vanaise, J.L. Viadel, D. Villanueva, Dave Weinstein, James Whitehouse, M. Wilson, Darrell Zuercher, Steven Balbo & “The Arcane Circle,” J.L. Martinez & the Heroe Research Group, the Berkeley Games crew.
+**Art Assistant:** Allyson Mohney  
+**Production:** N. Morawitz, Wendy Frazer, Kurt H. Fischer, Sherry Robinson  
+**Card Design:** C. Charlton, John W. Curtis III, P. Fenlon, J. Hawkins, N. Morawitz, J. Ney-Grimm, M. Reynolds  
+**Special Contributions:** Steven Arensberg, Deane Begiebing, Becky Blanton, Derek Carbonneau, Donald Dennis, Mike Dunbar, K. Fischer, Scott Frazer, Steve Hardy, Olivia Johnston, Chad McCully, Bob Mohney, Dave Morris, Bruce Neidlinger, Craig O'Brien, Dave Platnick, Matt Schwabel, Karina
+Swanberg, Daniel Williams, Monica Wilson  
+**Additional credits** can be found in the _Middle-earth: The Wizards_ rulesbook (due to space limitations. we were unable to include them here).
 
 ---
 
