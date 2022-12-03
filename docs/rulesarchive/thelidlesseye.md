@@ -626,7 +626,7 @@ Strikes are resolved one at a time as decided by the defending player. When you 
  - If this result is equal to the strike’s prowess, the strike was _ineffectual_ (i.e., the strike is avoided but not defeated).
  - Otherwise, the strike was _successful_ (i.e., the character was defeated). If the attack was a "detainment" attack, an untapped target is tapped. Otherwise, the target character is wounded and must make a body check.
 
-#### Body Checks
+### BODY CHECKS
 
 If a strike against a character is successful and the attack was _not_ a detainment attack, the character is wounded and must make a body check. To make a body check, the **attacker** makes a roll (2D6). If the character was already wounded before this strike, the roll is modified by +1.
 
@@ -658,7 +658,7 @@ Certain attacks detain targets rather than wound them. When a strike from a deta
  
 The parameters above apply if the attack is keyed to the region symbol or site symbol (by type) **or** if keyed to a region or site by name which happens to be of the appropriate type (i.e. has the appropriate symbol).
 
-### Defeating an Attack
+### DEFEATING AN ATTACK
 
 An attack by a hazard creature is defeated if it is _not_ a detainment attack **and** all of its strikes directed against (i.e., assigned to) a company are defeated. 
 
