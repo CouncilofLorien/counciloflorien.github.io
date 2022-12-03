@@ -393,7 +393,7 @@ If a character directly influencing a follower is removed from play, the followe
 >     GI("Nick's General Influence (20)") 
 >     GI --- Ta("Tarcil (6•2)")
 >     GI --- Oc("Orc Captain (5•[3])")
->     GI --- Lt("Lieutenant of Morgul (9•2[+3])")
+>     GI --- Lt("Lieutenant of<br>Morgul (9•2[+3])")
 >     In("Indur the Ringwraith (&ndash;•5)") --- Ci("Ciryaher (5•2)")
 > ```
 > 
