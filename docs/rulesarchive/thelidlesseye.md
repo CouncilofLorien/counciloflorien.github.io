@@ -440,7 +440,7 @@ The text for certain cards distinguish between overt companies and covert compan
 
 ### HEALING
 
-Each of your characters at a Darkhaven may heal during the untap phase of your turn. Such a character moves from a wounded position to a tapped position. In addition, certain cards can heal characters when they are played (e.g., _Foul Smelling Paste_).
+Each of your characters at a Darkhaven may heal during the untap phase of your turn. Such a character moves from a wounded position to a tapped position. In addition, certain cards can heal characters when they are played (e.g., _Foul-smelling Paste_).
 
 ### RINGWRAITH EFFECTS
 
