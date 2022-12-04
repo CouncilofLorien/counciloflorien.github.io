@@ -559,7 +559,7 @@ A _site path_ is the sequence of regions between a site and its nearest Darkhave
 > 
 >_Free-holds_ \[ ![](/assets/images/free-hold.svg) ]: Dangerous sites for minions of Sauron (e.g., Minas Tirith, Edoras, etc.).
 >
->_Border-holds_ \[ ![](/assets/images/border-hold.svg) ]: Relatively danerous sites for minions of Sauron (usually in Border regions;[^borderregions] e.g., Bree, Lake-town, etc.).
+>_Border-holds_ \[ ![](/assets/images/border-hold.svg) ]: Relatively dangerous sites for minions of Sauron (usually in Border regions;[^borderregions] e.g., Bree, Lake-town, etc.).
 > 
 > _Ruins & Lairs_ \[ ![](/assets/images/ruinlair.svg) ]: Deserted sites often inhabited by dangerous creatures (e.g., the Lonely Mountain, Barrow-downs, etc.).
 >
