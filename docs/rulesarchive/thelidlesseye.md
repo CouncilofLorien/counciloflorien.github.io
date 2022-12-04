@@ -139,7 +139,7 @@ Marshalling  points are printed on the top left corner of the cards that award t
 > | :------------- | ---: | ---: |
 > | Orcs of Angmar (faction) | 0 | 2 |
 > | Beornings (faction) | 0 | 3 |
-> | Sieze Prisoners (miscellaneous) | 0 | 2 |
+> | Seize Prisoners (miscellaneous) | 0 | 2 |
 > | _Dwar the Ringwraith_ (controls:) | Total CPs: 0 | 0 | 
 > | &emsp; The Warg-king (ally) | 0 | 2 |
 > | _Troll-chief_ (controls:)  | Total CPs: 5 | 2 |
@@ -1101,7 +1101,7 @@ Finally, you may reveal any unique marshalling point cards in your hand that mat
 > | Beornings (faction) | 3 | 6 |
 > | Orcs of Angmar (faction) | 2 | 4 |
 > | The Warg-king (ally)  | 2 | 2 |
-> | Sieze Prisoners (miscellaneous) | 2 | 2 |
+> | Seize Prisoners (miscellaneous) | 2 | 2 |
 > | **Total** | **20** | **25** |
 > 
 > | Nick's MP Cards | Initial MPs | Modified MPs |
