@@ -1547,7 +1547,7 @@ Assuming you are a Ringwraith and your opponent is a Wizard, the game ends when 
  4. If your opponent moves _The One Ring_ to Mount Doom and plays certain cards—_The One Ring_ is destroyed; your opponent wins.
  5. Otherwise, the winner is decided when either the _Audience with Sauron_ is called (see [pages 6-7]()) or the _Free Council_ is called (see the _METW_ Rules). The audience and the council are called when one of the following occurs:
       - When each play deck has been exhausted once, both the audience and the council start at the end of the current turn.
-      - Otherwise, you as a Ringwraith have played an _Sudden Call_ card or you as a Wizard have called the council (as outlined in the _MELE_ rules and the _METW_ rules). The council and the
+      - Otherwise, you as a Ringwraith have played a _Sudden Call_ card or you as a Wizard have called the council (as outlined in the _MELE_ rules and the _METW_ rules). The council and the
 audience both start at the end of the next turn (i.e., your opponent gets one last turn).
 
 ### THE AUDIENCE AND THE COUNCIL
