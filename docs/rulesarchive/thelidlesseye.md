@@ -1711,7 +1711,9 @@ This attack is declared and enacted at the end of the site phase following all o
 
 {: .note }
 > **Note:** Hazards may not be played during company vs. company combat.
+> 
 > **Note:** Cards that affect the number of strikes of an attack have no effect on company vs. company combat.
+>
 > **Note:** Hazards have no affect on company vs. company combat.
 
 
