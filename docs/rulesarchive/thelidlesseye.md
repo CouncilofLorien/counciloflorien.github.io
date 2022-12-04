@@ -1963,7 +1963,7 @@ The following list provides a definition of the most common game terms. In may c
 **Direct Influence:** The attribute listed in the hand symbol on a character. A character can control any number of followers such that their total mind in less than or equal to his direct influence.      
 **Exhausting a Play Deck:** When you draw the final card from your play deck into your hand. Immediately when the card is drawn, your discard pile becomes your new play deck. _Standard Game:_ exchange up to 5 cards between it and your sideboard and shuffle. Return all discarded sites to your location deck.    
 **Faction:** A resource card with faction in the classification line. Factions represent unique Dragons or groups of creatures or peoples.   
-**Follower:** A character controlled with another charncter's direct influence. Followers cannot have followers.   
+**Follower:** A character controlled with another character's direct influence. Followers cannot have followers.   
 **General Influence:** 20 points of influence a player inherently possesses—used to control characters.   
 **Hazard Limit:** The maximum number of hazard cards that may be played against a company. The hazard limit equals the company's size (to a minimum of two) when it declares its movement/hazard phase is starting.    
 **Hazards:** Cards with a steel grey metal background. You may only play hazards during your opponent's movement/hazard phase.   
