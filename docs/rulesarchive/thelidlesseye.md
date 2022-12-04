@@ -1094,7 +1094,7 @@ Finally, you may reveal any unique marshalling point cards in your hand that mat
 > | Troll-chief   | 2 | 2 |
 > | Troll Lout | 1  | 1 |
 > | Shagrat  | 2 | 2 |
-> | Grisnakh  | 1 | 1 |
+> | Grishnakh  | 1 | 1 |
 > | Orc Tracker | 1 | 1 |
 > | Black Mace (item)  | 2 | 2 |
 > | Magic Ring of Fury (item) | 2 | 2 |
