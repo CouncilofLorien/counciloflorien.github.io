@@ -414,7 +414,7 @@ Most characters are unique. So if you already have a unique character in play, y
 into play again by either player. 
 
 {: .note }
-> **Example:** In the [p. 8]() example, Wendy calls the audience. Then Nick takes his final turn. His company is at a Darkhaven, so he may play a character during his organzation phase. Nick has Grishnakh and an Orc Tracker in his hand (each has a 3 mind attribute). Nick would like to play Grishnakh, but he is unique and Wendy already has him in play. The Orc Tracker is not unique, so Nick plays him. Nick has no unused general influence, so the Orc Tracker must be placed under the control of one of Nick's non-follower characters with at least 3 unused direct influence. Only Nick's non-follower Orc Captain meets these requirements.
+> **Example:** In the [p. 8]() example, Wendy calls the audience. Then Nick takes his final turn. His company is at a Darkhaven, so he may play a character during his organization phase. Nick has Grishnakh and an Orc Tracker in his hand (each has a 3 mind attribute). Nick would like to play Grishnakh, but he is unique and Wendy already has him in play. The Orc Tracker is not unique, so Nick plays him. Nick has no unused general influence, so the Orc Tracker must be placed under the control of one of Nick's non-follower characters with at least 3 unused direct influence. Only Nick's non-follower Orc Captain meets these requirements.
 
 ### COMPANIES
 
