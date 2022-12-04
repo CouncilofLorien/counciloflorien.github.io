@@ -1682,7 +1682,7 @@ For the purposes of playing hazards, the site path for a company using region mo
 > The shortest number of region cards required for this move is 5 and there are two possible routes:
 > 
 > - Gorgoroth ![](/assets/images/dark-domain.svg), Udun ![](/assets/images/dark-domain.svg), Dagorlad ![](/assets/images/shadow-land.svg), Southern Rhovanion ![](/assets/images/wilderness.svg), Northern Rhovanion ![](/assets/images/wilderness.svg) 
-> Gorgoroth ![](/assets/images/dark-domain.svg), Nurn ![](/assets/images/dark-domain.svg), Horse Plains ![](/assets/images/shadow-land.svg), Southern Rhovanion ![](/assets/images/wilderness.svg), Northern Rhovanion ![](/assets/images/wilderness.svg) 
+> - Gorgoroth ![](/assets/images/dark-domain.svg), Nurn ![](/assets/images/dark-domain.svg), Horse Plains ![](/assets/images/shadow-land.svg), Southern Rhovanion ![](/assets/images/wilderness.svg), Northern Rhovanion ![](/assets/images/wilderness.svg) 
 > 
 > Since they both have the same site path neither is more dangerous than the other. Since they are both more than 4 regions long, Wendy's company will have to stop somewhere along the way. Wendy knows she has the _Easterlings_ in her deck. On the chance that she might draw it, she takes the second route and stops at the Easterling Camp (in the Horse Plains region).
 > 
