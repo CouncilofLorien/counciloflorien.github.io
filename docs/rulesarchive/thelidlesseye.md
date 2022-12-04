@@ -42,7 +42,7 @@ The "Using _MELE_ with _METW_" section contains the essential rules for integrat
 {: .note }
 > **Note:** The rules for _MELE_ are very similar to the rules for _Middle-earth: The Wizards_. Passages with major rule differences are marked with a line of bullets as a sidebar (just as this paragraph is marked[^bullets]). Experienced players of _METW_ can examine these passages and proceed with playing.
 
-_The Starter Rules_ — The Starter Rules contain all of the guidelines you need to play _MELE_. They have been designed to simplify teaching the game and to speed up play. You should use the Starter Rules if you and your opponent have never played this game before.<br>If you are already an experienced player of collectible card games, you might initially read the Full Player Turn Summary on [pages 92-94]() **and** the sections that are not boxed. Then, as you play, you can refer to the other material that details the more complex rules and situations that may arise during play.
+_The Starter Rules_ — The Starter Rules contain all of the guidelines you need to play _MELE_. They have been designed to simplify teaching the game and to speed up play. You should use the Starter Rules if you and your opponent have never played this game before.<br>&emsp; If you are already an experienced player of collectible card games, you might initially read the Full Player Turn Summary on [pages 92-94]() **and** the sections that are not boxed. Then, as you play, you can refer to the other material that details the more complex rules and situations that may arise during play.
 
 _The Standard Rules_ — These rules assume you have already played several games using the Starter Rules. The Standard Rules consist of additions and extensions to the Starter Rules that make play and deck building more flexible, exciting, and interesting. We recommend that experienced _MELE_ players use all of the Standard Rules.
 
@@ -207,7 +207,7 @@ _Location Deck_ — This deck consists of your site cards. You may examine and s
 {: .note }
 > **Note:** Site cards and regions represent the geography of Middle-earth. They are used to control the acquisition of resources. Each turn, examine the resources in your hand and select a nearby site to travel to. Do not worry too much about which site to use, just pick one that has the resource type you want to play. It also helps if you preselect the location cards you are most likely to use. See the color insert for a map of Middle-earth.
 
-_Play Deck_ — This deck consists of your resource cards, hazards cards, and character cards. You randomly draw cards from this deck during play. Your play deck starts with an equal number of resource cards and hazard cards.<br>You can use resources at certain sites and under certain conditions. Resources include: items, factions, allies, events, etc. _You may only play resource cards during your own turn_. You use hazards to hinder and attack your opponent’s characters in order to prevent them from marshalling resources. _You may only play hazard cards during your opponent’s movement/hazard phase_.
+_Play Deck_ — This deck consists of your resource cards, hazards cards, and character cards. You randomly draw cards from this deck during play. Your play deck starts with an equal number of resource cards and hazard cards.<br>&emsp;You can use resources at certain sites and under certain conditions. Resources include: items, factions, allies, events, etc. _You may only play resource cards during your own turn_. You use hazards to hinder and attack your opponent’s characters in order to prevent them from marshalling resources. _You may only play hazard cards during your opponent’s movement/hazard phase_.
 
 {: .note} 
 > **Clarification:** The card, _Twilight_, is an exception to this rule—it can be played at anytime, either as a resource or as a hazard (it does not count against the hazard limit). Certain other cards specifically state when they may be played.
@@ -228,7 +228,7 @@ _Marshalling Point Pile_ (_MP pile_) — In addition to marshalling points from 
 > 
 > **Note:** You may freely examine the contents of your discard pile; your opponent may not. The contents of your out-of-play and marshalling point piles may be freely examined by you and your opponent.
 > 
-> **Clarification:** If a character is eliminated due to combat or due to failing a corruption check, his card is placed in the out-of-play pile—that character may not be brought back into play by either player.<br>When a card is removed from play in all other cases, the card is discarded unless the card specifically states otherwise.
+> **Clarification:** If a character is eliminated due to combat or due to failing a corruption check, his card is placed in the out-of-play pile—that character may not be brought back into play by either player.<br>&emsp;When a card is removed from play in all other cases, the card is discarded unless the card specifically states otherwise.
 > 
 > **Clarification:** In general, cards in your out-of-play pile and your marshalling point pile are considered to be actively in play for the purposes of being unique (if the card states it is unique).
 
