@@ -1663,9 +1663,7 @@ To use region movement, play a new site card and a series of up to four regions 
 A region is adjacent to another region if and only if each region lists the other region on its card. The only exception to this is that Udun is adjacent to Dagorlad for Ringwraith players.
 
 {: .note }
-> **Clarification:** To use region movement for a company, the region cards played must include the region containing the company's current site and the region containing the new site.
-> 
-> If both the current site and the new site are in the same region, only that region card need be played.
+> **Clarification:** To use region movement for a company, the region cards played must include the region containing the company's current site and the region containing the new site.<br>If both the current site and the new site are in the same region, only that region card need be played.
 > 
 > **Clarification:** If two sites are separated by more than four regions, a company may not travel directly between them in one turn (unless some special resource card is used). The company must first travel to interim sites (one per turn) until it reaches a site that is within four regions of the destination site
 > 
