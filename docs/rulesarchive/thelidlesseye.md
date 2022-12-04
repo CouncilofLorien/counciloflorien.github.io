@@ -1794,7 +1794,7 @@ All of the factors affecting the strike must be decided before making any rolls 
 > **Note:** Even though it is not his turn, the defending player may play resource cards that affect the resolution of strikes.
 
 {: .note }
-> **Example:** Wendy'ss company at Moria consisis of the untapped Beorn (7/9 Warrior/Ranger) and the wounded Frodo (1/9 Scout/Diplomat). Nick moves his copmany to Moria. It consists of the untapped Carambor (5/8), the untapped Ciryaher (2/7), and the tapped Gulla (5/8). During the site phase he deciares he is facing the automatic-attack. Ciryaher taps and plays _A Nice Place to Hide_ to cancel the automatic-attack.
+> **Example:** Wendy's company at Moria consisis of the untapped Beorn (7/9 Warrior/Ranger) and the wounded Frodo (1/9 Scout/Diplomat). Nick moves his copmany to Moria. It consists of the untapped Carambor (5/8), the untapped Ciryaher (2/7), and the tapped Gulla (5/8). During the site phase he declares he is facing the automatic-attack. Ciryaher taps and plays _A Nice Place to Hide_ to cancel the automatic-attack.
 > 
 > Since he has faced the automatic-attack Nick's company may now attack Wendy's company. First, because Beorn is untapped, Wendy gets to assign the strike to Beorn—she assigns Ciryaher's strike to Beorn. Then, because Frodo is not untapped, Nick then assigns the untapped Carambor's strike to Frodo. He cannot assign Gulla to Frodo since Gulla is tapped. Since all the defending characters have been assigned a strike, Gulla's strike becomes a -l modifier that Nick can assign later.
 > 
