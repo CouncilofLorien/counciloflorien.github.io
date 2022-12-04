@@ -1479,18 +1479,18 @@ An action in a chain of effects is negated if the conditions required to perform
 Creature hazards may not be played in response to other actions. They must always start a chain of effects.
 
 {: .note }
-> **Timing Example:** One of your companies is moving with _Doors of Night_ in play. Your opponent plays _Minion Stir_ on the company. You think you can handle one extra strike and prowess, but not two, so you play _Skies of Fire_ in response to get rid of _Doors of Night_. Your opponent plays _Twilight_ in response, targeting your _Skies of Fire_. This is how it all works out:
+> **Timing Example:** One of your companies is moving with _Doors of Night_ in play. Your opponent plays _Minions Stir_ on the company. You think you can handle one extra strike and prowess, but not two, so you play _Skies of Fire_ in response to get rid of _Doors of Night_. Your opponent plays _Twilight_ in response, targeting your _Skies of Fire_. This is how it all works out:
 > 
-> 0) _Doors of Night_ in play.
-> 1) _Minion Stir_ declared.
-> 2) _Skies of Fire_ declared.
-> 3) _Twilight_ declared targeting _Skies of Fire_. Normally you can't target a card that isn't in play (hasn't resolved) yet, but _Twilight_ says it can be played on cards not yet resolved.
-> 4) No more actions are declared. so actions start resolving.
-> 5) _Twilight_ resolves cancelling and discarding _Skies of Fire_.
-> 6) _Skies of Fire_ would have resolved here, taking out _Doors of Night_, but it was cancelled so nothing happens.
-> 7) _Minion Stir_ resolves.
+> 0) _Doors of Night_ in play.<br>
+> 1) _Minions Stir_ declared.<br>
+> 2) _Skies of Fire_ declared.<br>
+> 3) _Twilight_ declared targeting _Skies of Fire_. Normally you can't target a card that isn't in play (hasn't resolved) yet, but _Twilight_ says it can be played on cards not yet resolved.<br>
+> 4) No more actions are declared, so actions start resolving.<br>
+> 5) _Twilight_ resolves cancelling and discarding _Skies of Fire_.<br>
+> 6) _Skies of Fire_ would have resolved here, taking out _Doors of Night_, but it was cancelled so nothing happens.<br>
+> 7) _Minions Stir_ resolves.<br>
 > 
-> It is your turn so you have the option of starting the next chain of effects. You play a _Voices of Malice_, targeting _Minion Stir_. You would have like to have played it between 3) and 4), but _Minion Stir_ was not in play at that time so you could not target it. Your opponent does not respond, so _Voices of Malice_ resolves and discards _Minion Stir_.
+> It is your turn so you have the option of starting the next chain of effects. You play a _Voices of Malice_, targeting _Minion Stir_. You would have like to have played it between 3) and 4)[^minionsstir], but _Minions Stir_ was not in play at that time so you could not target it. Your opponent does not respond, so _Voices of Malice_ resolves and discards _Minion Stir_.
 
 # • PART III •<br/>OPTIONAL RULES
 
@@ -2143,3 +2143,4 @@ Swanberg, Daniel Williams, Monica Wilson
 [^minusbody]: This example states that Frodo has a -1 body for this body check. It is usually no different but the rules technically give a +1 modifier to the body check dice roll rather than a -1 modifier to the character's body. This would matter if an effect was used in response to the body check that had a maximum. For instance, if Frodo's 9 body is reduced to 8 with a -1 modifier (as stated in the example) and then _Miruvor_ is discarded in response to the declaration of the body check for +2 body to a maximum of 10, then the body check dice roll would need to be an 11 to eliminate Frodo. But if the body check against the charcter is given +1 (as the rules state) then Frodo would have only +1 to body (10 body_ from _Miruvor_ given the maximum and only a body check dice roll of 10 (+1 for being wounded) would be needed to eliminate Frodo rather than an 11.
 [^severaltypeofcards]: The rules state "There are several types of cards that you can play a Ringwraith card even if the corresponding manifestation Nazgul hazard permanent-event is already in play." There was a clerical error. The rule should read "You can play a Ringwraith card even if the corresponding manifestation Nazgul hazard permanent-event is already in play."
 [^overtcompanies]: The rules on TROPHIES state "If one of your _minion companies_ defeats a creature…" However, all of a Ringwraith player's companies are minion companies. Given that trophies may only be taken by orc and troll characters and that orcs and trolls form overt companies, this rules on trophies appears to have a clerical error and should state "If one of your _overt companies_ defeats a creature…"
+[^minionsstir]: The rules say "You would have like to have played it between 3) and 4)" but it makes no difference. The effect of _Minions Stir_ does not depend on the timing of when it is played and there is no difference in the result whether it was discarded earlier or later. The effect of _Minions Stir_ leaves play immediately when the card leaves play (e.g., it is discarded).
