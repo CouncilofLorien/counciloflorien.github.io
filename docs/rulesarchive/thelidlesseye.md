@@ -1502,7 +1502,7 @@ Each of these optional rules may be used if all players agree before the game be
 
 Except for the guidelines presented in this section, a multi-player game (3-5 players) uses the normal rules.
 
-**Victory Conditions:** The normal rules are used for victory conditions and to determine when the game ends. However, when a player calls the Audience with Sauron, each of the other players gets to take one final turn. If a player’s Ringwarith is eliminated, that player is out of the game; however, the game only ends in this manner if only one player is left in the game. The doubling of your marshalling points based on a MP type only applies if none of your opponents has a card in play of that type.
+**Victory Conditions:** The normal rules are used for victory conditions and to determine when the game ends. However, when a player calls the Audience with Sauron, each of the other players gets to take one final turn. If a player’s Ringwraith is eliminated, that player is out of the game; however, the game only ends in this manner if only one player is left in the game. The doubling of your marshalling points based on a MP type only applies if none of your opponents has a card in play of that type.
 
 **Getting Ready to Play:** Before the players set up their decks for play, each player makes a roll (reroll all ties). When play starts, the players will sit clockwise around the table in the order of their rolls from highest to lowest. The highest roller chooses the Ringwraith he will play, the second highest chooses his Ringwraith from the remaining Ringwraiths, etc. Each player may place up to two of his Ringwraith cards in his play deck.
 
