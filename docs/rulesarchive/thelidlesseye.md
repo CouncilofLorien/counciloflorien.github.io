@@ -2011,7 +2011,7 @@ The following list provides a definition of the most common game terms. In may c
 **Ringwraith Follower:** A Ringwraith minion played in addition to your representative Ringwraith. Ringwraith followers are always followers of your representative Ringwraith.   
 **Untapping a Card:** Moving a tapped card 90 degrees from sideways to a normal position.  
 **Untapped:** The state of a card when its bottom is towards you. All cards enter play untapped and remain that way until an effect of the game taps or wounds them. Only entities that are untapped may perform actions that require them to tap.   
-**Wizard:** A character representing one of the five Istiri. Wizards are not included in _MELE_. A player can have no Wizard followers.   
+**Wizard:** A character representing one of the five Istari. Wizards are not included in _MELE_. A player can have no Wizard followers.   
 **Wounded:** The state of a character shown by placing the top of his card towards you. A character in play who is not tapped or untapped is wounded. A character becomes wounded when a strike against him is successful. You cannot declare an action that requires a character to tap if the character is wounded. 
 
 ## FULL PLAYER TURN SUMMARY
