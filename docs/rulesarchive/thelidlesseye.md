@@ -1412,7 +1412,7 @@ To influence an opponent’s item, you must make an influence check as outlined 
 > **Clarification:** The unused direct influence for an influence check against an item **is** affected by any direct influence modification that the target item gives its bearer.
 
 {: .note }
-> **Example:** Wendy moves her company to the same site as Nick's company. During her site phase, Lieutenant of Morgul attempts to influence Radbug (an Orc). Wendy has 5 unused general influence, Nick has 2 unused general influence, and Lieutenant of Morgul has 2 unused direct influence. Since Lieutenant of Morgul is attempting to influence an Orc, his special ability gives him +3 direct influence for a total of 5. Finally, Wendy reveals her own Radbug card. So. Radbug's mind is O for the purposes of this roll.
+> **Example:** Wendy moves her company to the same site as Nick's company. During her site phase, Lieutenant of Morgul attempts to influence Radbug (an Orc). Wendy has 5 unused general influence, Nick has 2 unused general influence, and Lieutenant of Morgul has 2 unused direct influence. Since Lieutenant of Morgul is attempting to influence an Orc, his special ability gives him +3 direct influence for a total of 5. Finally, Wendy reveals her own Radbug card. So. Radbug's mind is 0 for the purposes of this roll.
 > 
 > Wendy rolls 2D6 and gets a 6, while Nick rolls 2D6 and gets a 7. So the modified result of the influence check is 2 = 6 (Wendy's roll) + 5 (Lieutenant of Morgul's unused direct influence) - 2 (Nick's unused general influence) - 7 (Nick's roll).
 > 
@@ -1448,11 +1448,11 @@ In the first two cases, the card is handled as if it had been played during the 
 > 
 > During her site phase, Wendy states that her company will face The Lonely Mountain’s automatic-attack (a Dragon, 1 strike with a prowess of 14). Nick reveals his on-guard card and the automatic-attack becomes 2 strikes with a prowess of 14 each. Wendy’s company must face this attack.
 > 
-> On the next turn Nick's copmany moves to Dimrill Dale. Wendy plays a _Cave-drake_ on-guard. Nick declared he will face the automatic-attack (Orc, 1 strike at 6 prowess). Wendy reveals the _Cave-drake_, and Nick will have to face it after the automatic-attack.
+> On the next turn Nick's company moves to Dimrill Dale. Wendy plays a _Cave-drake_ on-guard. Nick declares he will face the automatic-attack (Orc, 1 strike at 6 prowess). Wendy reveals the _Cave-drake_, and Nick will have to face it after the automatic-attack.
 > 
 > Next, Wendy's company moves to the Dead Marshes. Nick plays a _Weariness of the Heart_ on-guard. Wendy faces the automatic-attack and then plays an item. In response to the item being played, Nick reveals the _Weariness of the Heart_ and forces one of Wendy's characters to make a corruption check.
 > 
-> Finally, Nick's company moves to Bag End. They face several creatures along the way and barely make it there in one piece. Addilionally, Wendy places _A Nice Place to Hide_ on-guard. Since it is a resource she will never be able to reveal it. Nick does not know this, and is worried about what the card might be, so he decides not to enter the site this turn. The site phase ends and _A Nice Place to Hide_ returns to Wendy's hand.
+> Finally, Nick's company moves to Bag End. They face several creatures along the way and barely make it there in one piece. Additionally, Wendy places _A Nice Place to Hide_ on-guard. Since it is a resource she will never be able to reveal it. Nick does not know this, and is worried about what the card might be, so he decides not to enter the site this turn. The site phase ends and _A Nice Place to Hide_ returns to Wendy's hand.
 
 ### LIMITS ON DRAWING CARDS
 
