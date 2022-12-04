@@ -1584,7 +1584,7 @@ However, there is an exception to this: a Ringwraith player may use any hero ite
 {: .note }
 > **Example:** Nick plays Wendy's favorite _METW_ deck a lot so he prepares for the next game by putting _Book of Mazarbul_ and _Glamdring_ in his deck. During the game, he still has to go to Moria to play the _Book of Mazarbul_ as it says on the card. Unfortunately, Nick cannot tap the Book of Mazarbul to increase his hand size, because all of its special abilities are ignored. If he gets _Glamdring_ into play, it will only be worth 1 marshalling point to Nick instead of the normal 2.
 > 
-> Likewise Wendy is prepared for Nick's _MELE_ One Ring deck. She plays the hero version of _Scroll of Isildur_ which Nick often uses to help him get _The One Ring_. Even though Nick's minion version of _Scroll of lsildur_ is a different card, it is considered a manifestation of Wendy's hero version. Since it is also unique, Nick cannot play his own _Scroll of Isildur_ if Wendy has hers in play.
+> Likewise Wendy is prepared for Nick's _MELE_ One Ring deck. She plays the hero version of _Scroll of Isildur_ which Nick often uses to help him get _The One Ring_. Even though Nick's minion version of _Scroll of Isildur_ is a different card, it is considered a manifestation of Wendy's hero version. Since it is also unique, Nick cannot play his own _Scroll of Isildur_ if Wendy has hers in play.
 
 {: .note }
 > **Note:** Agent hazards (see _ME: Dark Minions_) require the use of sites for movement, and your agent hazards must still use sites from your site deck.
