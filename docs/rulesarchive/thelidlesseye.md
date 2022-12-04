@@ -1325,7 +1325,7 @@ If you defeat a creature that does not have an * next to its marshalling points,
 
 ### TROPHIES
 
-If one of your minion companies defeats a creature, you may place the creature's card under the control of any Orc or Troll character that faced a strike from the creature's attack. This card is called a "_trophy_" and is treated as a minor item with zero corruption points. A trophy may not be transferred or stored. If a trophy that is _not_ worth kill marshalling points to you is discarded, it is placed in your out-of-play pile. If a trophy that is worth kill marshalling points to you is discarded, it is placed in your marshalling point pile.
+If one of your minion companies[^overtcompanies] defeats a creature, you may place the creature's card under the control of any Orc or Troll character that faced a strike from the creature's attack. This card is called a "_trophy_" and is treated as a minor item with zero corruption points. A trophy may not be transferred or stored. If a trophy that is _not_ worth kill marshalling points to you is discarded, it is placed in your out-of-play pile. If a trophy that is worth kill marshalling points to you is discarded, it is placed in your marshalling point pile.
 
 Trophies give a character bonuses based upon the total number of marshalling points indicated by the trophies (i.e., on the creature cards). One and only one of the following sets of bonuses applies to a character with trophies:
 
@@ -1344,7 +1344,7 @@ Before the roll is made for a corruption check, you may tap other characters in 
 A corruption check for any character in a Ringwraith's company is modified by +2.
 
 {: .note }
-> **Clarification:** If more than one character in a company are forced to make corruption checks, the corruption checks are resolved one at a time in an order chosen by the player controlling the characters. Each character tapped may only give a +1 modification to one corruption check, **not** to all of the corruption checks.
+> **Clarification:** If more than one character in a company is forced to make corruption checks, the corruption checks are resolved one at a time in an order chosen by the player controlling the characters. Each character tapped may only give a +1 modification to one corruption check, **not** to all of the corruption checks.
 > 
 > **Clarification:** When the Audience with Sauron is called, a character may only tap to give a +1 corruption check modification to another character in the same company.
 
@@ -2142,3 +2142,4 @@ Swanberg, Daniel Williams, Monica Wilson
 [^helltalk]: The card named _He'll Talk_ does not exist in the published game. Presumably it is a permanent-event that gives marshalling points similar to _News of the Shire_, but it does not require the character to remain tapped as does _Kill All but NOT the Halflings_.
 [^minusbody]: This example states that Frodo has a -1 body for this body check. It is usually no different but the rules technically give a +1 modifier to the body check dice roll rather than a -1 modifier to the character's body. This would matter if an effect was used in response to the body check that had a maximum. For instance, if Frodo's 9 body is reduced to 8 with a -1 modifier (as stated in the example) and then _Miruvor_ is discarded in response to the declaration of the body check for +2 body to a maximum of 10, then the body check dice roll would need to be an 11 to eliminate Frodo. But if the body check against the charcter is given +1 (as the rules state) then Frodo would have only +1 to body (10 body_ from _Miruvor_ given the maximum and only a body check dice roll of 10 (+1 for being wounded) would be needed to eliminate Frodo rather than an 11.
 [^severaltypeofcards]: The rules state "There are several types of cards that you can play a Ringwraith card even if the corresponding manifestation Nazgul hazard permanent-event is already in play." There was a clerical error. The rule should read "You can play a Ringwraith card even if the corresponding manifestation Nazgul hazard permanent-event is already in play."
+[^overtcompanies]: The rules on TROPHIES state "If one of your _minion companies_ defeats a creature…" However, all of a Ringwraith player's companies are minion companies. Given that trophies may only be taken by orc and troll characters and that orcs and trolls form overt companies, this rules on trophies appears to have a clerical error and should state "If one of your _overt companies_ defeats a creature…"
