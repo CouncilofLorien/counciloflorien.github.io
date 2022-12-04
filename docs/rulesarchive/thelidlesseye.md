@@ -1351,7 +1351,7 @@ A corruption check for any character in a Ringwraith's company is modified by +2
 {: .note }
 > **Example:** Your company consists of the untapped characters: Gorbag, Snaga, Muzgash, Ufthak, and an Orc Veteran. A _Weariness of the Heart_ is played on Gorbag, requiring him to make a corruption check.
 > 
-> Gorbag is carrying _The Iron Crown_ (5 corruption points), so you tap Ufthak and Musgash to help him with his corruption check. Gorbag has a corruption point total of 5, but his roll is modified by +2 (+1 for Ufthak and +1 for Muzgash). He cannot fail and will only tap on a 3 or less.
+> Gorbag is carrying _The Iron Crown_ (5 corruption points), so you tap Ufthak and Muzgash to help him with his corruption check. Gorbag has a corruption point total of 5, but his roll is modified by +2 (+1 for Ufthak and +1 for Muzgash). He cannot fail and will only tap on a 3 or less.
 
 ## 9 • INFLUENCE
 
