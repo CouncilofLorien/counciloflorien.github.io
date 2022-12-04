@@ -1833,7 +1833,7 @@ Agents operate as outlined in the _ME: Dark Minions_ rules with the following ex
 
  - Minion agents included in a Ringwraith's deck count as characters for the purposes of meeting deck requirements. However, during play, each minion agent may be played as either a character (i.e., as a minion character) or as a hazard (i.e., as an agent).
  - Minion agents included in a Wizard's deck count as hazards for the purposes of meeting deck requirements.
-• Agent hazards require the use of sites for movement, and your agent hazards must still use sites from your location deck.
+ - Agent hazards require the use of sites for movement, and your agent hazards must still use sites from your location deck.
 
 # • PART V •<br/>APPENDICES
 
