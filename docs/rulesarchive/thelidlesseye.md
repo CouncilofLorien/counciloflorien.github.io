@@ -1418,7 +1418,7 @@ To influence an opponent’s item, you must make an influence check as outlined 
 > 
 > This is greater than Radbug's mind (0 for this roll), so Nick's Radbug card is discarded. Since Wendy revealed her Radbug card, she may now play it with her company. She decides to control him with her unused general influence, rather than place him as a follower of Lieutenant of Morgul.
 > 
-> Nick smiles when he sees this. On his turn he does not move. During the site phase he enters the site and his Lieutenant of Dol Guldur attempts to influence Radbug's card back. Lieutenant of Dol Guldur has 3 unused direct influence and a + 2 direct influence against Orcs. Wendy now only has 1 unused general influence, since she used 4 to control Radgug.
+> Nick smiles when he sees this. On his turn he does not move. During the site phase he enters the site and his Lieutenant of Dol Guldur attempts to influence Radbug's card back. Lieutenant of Dol Guldur has 3 unused direct influence and a + 2 direct influence against Orcs. Wendy now only has 1 unused general influence, since she used 4 to control Radbug.
 > 
 > Nick rolls 2D6 and gets a 5, while Wendy rolls 2D6 and gets a 7. So the modified result of the influence check is 2 = 5 (Nick's Roll) + 5 (Lieutenant of Dol Guldur's unused direct influence) - 1 (Wendy's unused general influence) - 7 (Wendy's roll).
 > 
