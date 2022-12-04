@@ -458,7 +458,7 @@ In _MELE_ the lands of northwest Middle-earth are represented by regions. The si
 {: .note }
 > **Note:** Site paths do not direct the movement process. The site path is used to determine which hazard creatures your opponent may play against your moving company.
 > 
-> **Note:** By using the site cards and site cards only, a company can move from any site to any other site. First, if necessary, the company moves to the nearest Darkaven. Then, if necessary, it moves to other Darkhavens. Finally, it moves from that Haven to the destination site.
+> **Note:** By using the site cards and site cards only, a company can move from any site to any other site. First, if necessary, the company moves to the nearest Darkhaven. Then, if necessary, it moves to other Darkhavens. Finally, it moves from that Haven to the destination site.
 
 A company commits to moving by playing a _new site card_ (face down) during its organization phase. A company does not have to move during a given turn (i.e., it does not play a new site card).
 
