@@ -725,7 +725,7 @@ As Sauron's minions (i.e., your characters) operate in Middle-earth, they are su
 Each character has a corruption point total. This starts at zero, but certain cards and activities will change this total during play. Most cards that affect a character’s corruption are kept under the character’s card until they are discarded. Only one corruption card (a hazard card that gives corruption points) may be played on a given character each turn.
 
 {: .note }
-> **Note:** Minion characters are not completely subjected to Sauron will. If they were, they would be of little use—independent, but loyal servants can accomplish much more than slaves. So, minion characters can be corrupted by having their own individual desires and temptations conflict with the goals of their masters. A corrupted minion character has decided that it is in his own best interest to make himself scarce and head for parts unknown. Ringwraiths can not be corrnpted—they already suffered the ultimate corruption when they became Ringwraiths.
+> **Note:** Minion characters are not completely subjected to Sauron will. If they were, they would be of little use—independent, but loyal servants can accomplish much more than slaves. So, minion characters can be corrupted by having their own individual desires and temptations conflict with the goals of their masters. A corrupted minion character has decided that it is in his own best interest to make himself scarce and head for parts unknown. Ringwraiths can not be corrupted—they already suffered the ultimate corruption when they became Ringwraiths.
 
 ### CORRUPTION CARDS
 
