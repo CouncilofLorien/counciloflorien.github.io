@@ -148,7 +148,7 @@ Marshalling  points are printed on the top left corner of the cards that award t
 > | _Troll Lout_ (controls:) | Total CPs: 1 | 1  |
 > | &emsp; Saw-toothed Blade (item) | 1 | 0 |
 > | _Shagrat_ (controls:) | 0 | 2 |
-> | _Grisnakh_ (controls:) | 0 | 1 |
+> | _Grishnakh_ (controls:) | 0 | 1 |
 > | _Orc Tracker_ (controls:) | Total CPs: 1 | 1 |
 > | &emsp; Orc-liquor | 2 | 0 |
 >      
