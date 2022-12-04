@@ -210,7 +210,7 @@ _Location Deck_ — This deck consists of your site cards. You may examine and s
 _Play Deck_ — This deck consists of your resource cards, hazards cards, and character cards. You randomly draw cards from this deck during play. Your play deck starts with an equal number of resource cards and hazard cards.<br>&emsp;You can use resources at certain sites and under certain conditions. Resources include: items, factions, allies, events, etc. _You may only play resource cards during your own turn_. You use hazards to hinder and attack your opponent’s characters in order to prevent them from marshalling resources. _You may only play hazard cards during your opponent’s movement/hazard phase_.
 
 {: .note} 
-> **Clarification:** The card, _Twilight_, is an exception to this rule—it can be played at anytime, either as a resource or as a hazard (it does not count against the hazard limit). Certain other cards specifically state when they may be played.
+> **Clarification:** The card, _Twilight_, is an exception to this rule—it can be played at any time, either as a resource or as a hazard (it does not count against the hazard limit). Certain other cards specifically state when they may be played.
 
 _Discard Pile_ — Your discarded cards are placed face down in your discard pile. When your play deck is _exhausted_, location cards in your discard pile are returned to your location deck. You shuffle the other cards in your discard pile and they become your new play deck.
 
@@ -832,7 +832,7 @@ Most faction cards list some “standard modifications” to the influence check
 
 ## 10 • PLAYING AND DRAWING CARDS
 
-You may only play hazard cards during your opponent’s movement/hazard phase. Except for resource long-events, you may play resource cards anytime during your own turn unless specifically prohibited by the rules or the cards themselves.
+You may only play hazard cards during your opponent’s movement/hazard phase. Except for resource long-events, you may play resource cards any time during your own turn unless specifically prohibited by the rules or the cards themselves.
 
 Unless stated otherwise, a card is playable only if its effect applies to an existing situation, hazard, attack, etc. (i.e., you may not play a card just to discard it).
 
@@ -868,7 +868,7 @@ You may only play a hazard long-event during your opponent’s movement/hazard p
 > 
 > Wendy then plays _Fell Winter_ (a long-event). First it gives all Border-holds \[![](/assets/images/border-hold.svg)] (including Dunharrow) an automatic-attack: Wolves — 3 strikes at 7 prowess. Since _Doors of Night_ is in play it can do two more things: change all Border-lands \[![](/assets/images/border-land.svg)] into Wilderness \[![](/assets/images/wilderness.svg)], making the site path ![](/assets/images/shadow-land.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/free-domain.svg) ![](/assets/images/wilderness.svg); and change all Free-domains \[![](/assets/images/free-domain.svg)] into Border-lands \[![](/assets/images/border-land.svg)], making the site path ![](/assets/images/shadow-land.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg). Unless it is discarded by another card, _Fell Winter_ will stay in play until Wendy's next long-event phase (about two turns).
 > 
-> Finally, Wendy plays _Arouse Defenders_ (a short-event), which allows her to add 3 to the prowess of one automatic-auack at a Border-hold \[![](/assets/images/border-hold.svg)]. She uses it on Dunharrow and chooses to add 3 to the Wolf attack from _Fell Winter_, making the prowess 10. _Arouse Defenders_ is discarded, but its effect will remain until the end of the turn (unless canceled before then).
+> Finally, Wendy plays _Arouse Defenders_ (a short-event), which allows her to add 3 to the prowess of one automatic-attack at a Border-hold \[![](/assets/images/border-hold.svg)]. She uses it on Dunharrow and chooses to add 3 to the Wolf attack from _Fell Winter_, making the prowess 10. _Arouse Defenders_ is discarded, but its effect will remain until the end of the turn (unless canceled before then).
 
 ### RESOURCE CARDS, NON-EVENT
 
@@ -1535,7 +1535,7 @@ _Middle-earth: The Wizards Companion_ provides some expanded, variant solitaire 
 When one player is a Ringwraith and his opponent is a Wizard, play proceeds normally for each player within the limitations outlined in this section.
 
 {: .note }
-> **Note:** Unless stated otherwise, the Wizard player uses the _METW_ rules and the Ringwraith player uses the _MELE_ rules. Most elements of _METW_ and _MELE_ are identical—both of these series are part of the _Middle-earth Collectible Card Game_ ("_MECCG_"). Should a discrepencey arise between an aspect of the _MELE_ rules and the _METW_ rules, the _MELE_ rules take precedence as they were written with refinements in language and organization. Do not to confuse an element of _MELE_ that is particular to playing a Ringwraith with a Wizard's perspective on things—passages containing Ringwraith only rules are marked with a line of bullets as a sidebar.
+> **Note:** Unless stated otherwise, the Wizard player uses the _METW_ rules and the Ringwraith player uses the _MELE_ rules. Most elements of _METW_ and _MELE_ are identical—both of these series are part of the _Middle-earth Collectible Card Game_ ("_MECCG_"). Should a discrepancy arise between an aspect of the _MELE_ rules and the _METW_ rules, the _MELE_ rules take precedence as they were written with refinements in language and organization. Do not to confuse an element of _MELE_ that is particular to playing a Ringwraith with a Wizard's perspective on things—passages containing Ringwraith only rules are marked with a line of bullets as a sidebar.
 
 ## 1 · THE VICTORY CONDITIONS
 
@@ -1737,7 +1737,7 @@ cancels attacks by Elves, Dwarves, Dunedain, and Men). Such a card can be used t
 > _Orc Quarrels_ normally cancels an Orc, Troll, or Man attack. So it can be used to cancel an attack from a company if that company consists of only Orcs, Trolls, and Men.
 
 {: .note }
-> **Note:** If this attack is canceled, the site phase is over for the anacking company and play proceeds normally.
+> **Note:** If this attack is canceled, the site phase is over for the attacking company and play proceeds normally.
 
 #### Assigning Strikes
 
@@ -1919,7 +1919,7 @@ The following lists the essential rules for tournament deck construction and pla
 
 **Dual Purpose Cards:** A card that can be played as either a resource or as a hazard can be counted in either the resource mix or hazard mix of a deck for the purposes of including an equal number of resources and hazards.
 
-**Using Maps:** If region movement is being used, an appropriate map of the regions of _MECCG_ can be used to depict region movement (instead of using actual region cards). The text of region cards takes precedence over maps, however. Certain regions, which may appear to be adject on a map, in fact are not listed as adjacent on the appropriate region cards (e.g., Rohan and Dagorlad, Cardolan and Lindon). Such regions are not considered adjacent, even when a map is used for region movement. Maps from the _Middle-earth CCG Maps_ were designed to minimize any visual discrepancies.
+**Using Maps:** If region movement is being used, an appropriate map of the regions of _MECCG_ can be used to depict region movement (instead of using actual region cards). The text of region cards takes precedence over maps, however. Certain regions, which may appear to be adjacent on a map, in fact are not listed as adjacent on the appropriate region cards (e.g., Rohan and Dagorlad, Cardolan and Lindon). Such regions are not considered adjacent, even when a map is used for region movement. Maps from the _Middle-earth CCG Maps_ were designed to minimize any visual discrepancies.
 
 **Legal Play of Cards:** A player may not play a card just to discard it (i.e., just get it out of his or her hand). Specifically, a card may only be played if it meets at least one of the following criteria.
 
@@ -2065,7 +2065,7 @@ In the order you decide (i.e., you decide which goes first, second, etc.), each 
  - follow this procedure:
       1. Enter the site.
       2. If the site has an automatic-attack, it attacks the company. The attack is resolved normally (see [pages 28-34]()).
-      3. If the site is untapped, a character in the company may attempt to play an item, ally, or faction that is “playable” at that site. Tap the character, and the site.<br>Certain resource cards other than items, allies, and factions are playable during the site phase and state the conditions under which they may be played. Such a card only requires an untapped site if it states that the site taps when played.<br>If a tapped site should become untapped, an additional resource may be played that taps the site.<br>Anytime a resource card is played that taps the site, one additional character may tap to play a minor item.
+      3. If the site is untapped, a character in the company may attempt to play an item, ally, or faction that is “playable” at that site. Tap the character, and the site.<br>Certain resource cards other than items, allies, and factions are playable during the site phase and state the conditions under which they may be played. Such a card only requires an untapped site if it states that the site taps when played.<br>If a tapped site should become untapped, an additional resource may be played that taps the site.<br>Any time a resource card is played that taps the site, one additional character may tap to play a minor item.
       4. _Standard Rules Only:_ One of your characters or your Ringwraith may attempt to influence away one of your opponent’s characters, followers, allies, factions, or items (if it is at the same site). See [pages 64-66](). **OR**<br>_Against Wizard Player Only:_ One of your companies may make an attack against one of your opponent's companies (if it is at the same site).
 
 **End-of-Turn Phase**
