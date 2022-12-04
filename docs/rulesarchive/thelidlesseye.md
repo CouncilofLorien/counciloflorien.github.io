@@ -1293,7 +1293,7 @@ During the organization phase, two or more companies may move to the same non-Da
  - One company may already be at the site. In this case the other company must state that its new site card is already in play (the current site card for the non-moving company). This site card remains in play until at least the end of the turn.
  - Two or more companies moving to the site must state that the same face down site card is their new site card.
 
-In both cases, the two companies must face hazards separately and are then combined at the end of the movement/hazard phase. If two companies end up at a site and combining those companies would violate the limitations on copmany composition (see [page 57]()), one of these companies must return to its site of origin. Similarly, an effect that causes such a violation is cancelled.
+In both cases, the two companies must face hazards separately and are then combined at the end of the movement/hazard phase. If two companies end up at a site and combining those companies would violate the limitations on company composition (see [page 57]()), one of these companies must return to its site of origin. Similarly, an effect that causes such a violation is cancelled.
 
 {: .note }
 > **Note:** This means that your Ringwraith's company may not move to the same non-Darkhaven site as one of your other companies, since this would result in your Ringwraith joining with other characters.
