@@ -1786,7 +1786,7 @@ All of the factors affecting the strike must be decided before making any rolls 
  1. The attacker may play resource cards that affect the strike (up to one card that requires skill).
  2. The attacker may decide to use any or all of his remaining (if any) -1 modifications due to unallocated strikes (i.e., strikes in excess of the defending company's size).
  3. An attacking, untapped character may take a -3 modification so that he will not automatically tap.
- 4. A defending untapped character may take a -3 modlfication so that he will not automatically tap.
+ 4. A defending untapped character may take a -3 modification so that he will not automatically tap.
  5. A untapped defending character that is not (and has not been) himself the target of a strike from the same attack may tap to support a defending character. The defending character's prowess is modified by +1 for each supporting character.
  6. The defending player may play resource cards that affect the strike (up to one card that requires skill).
 
