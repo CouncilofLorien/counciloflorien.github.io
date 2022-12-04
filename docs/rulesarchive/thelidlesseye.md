@@ -1444,7 +1444,7 @@ In the first two cases, the card is handled as if it had been played during the 
 > **Note:** A card may not be revealed in the second case above if it: returns the company to its site of origin, taps the site or a character in the company, forces the company to do nothing during the site phase, or potentially removes a character or ally from the company (outside of combat or forcing a corruption check).
 
 {: .note }
-> **Example:** After visiting Gondmaeglom, Wendy’s company moves to The Lonely Mountain. During her movement/hazard phase, Nick places a card on-guard. The card is _Awaken Denizens_, but since it is face downWendy does not know that. This card doubles the number of strikes for an automatic-attack at a Ruins & Lairs site.
+> **Example:** After visiting Gondmaeglom, Wendy’s company moves to The Lonely Mountain. During her movement/hazard phase, Nick places a card on-guard. The card is _Awaken Denizens_, but since it is face down Wendy does not know that. This card doubles the number of strikes for an automatic-attack at a Ruins & Lairs site.
 > 
 > During her site phase, Wendy states that her company will face The Lonely Mountain’s automatic-attack (a Dragon, 1 strike with a prowess of 14). Nick reveals his on-guard card and the automatic-attack becomes 2 strikes with a prowess of 14 each. Wendy’s company must face this attack.
 > 
