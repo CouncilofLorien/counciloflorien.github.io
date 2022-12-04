@@ -1716,7 +1716,6 @@ This attack is declared and enacted at the end of the site phase following all o
 >
 > **Note:** Hazards have no affect on company vs. company combat.
 
-
 #### Resolving Combat With Another Company
 
 When one of your companies is attacked by another company during your opponent's site phase, you are considered to be the defending company. Your opponent's company (the attacking company) is considered to be making a single attack with one strike corresponding to each of the characters in his company:
@@ -1935,7 +1934,7 @@ In all cases, if a card "cannot be duplicated," a second copy of that card canno
 The following list provides a definition of the most common game terms. In may cases, the most pertinent rules associated with each term as also given.
 
 **Action:** Any activity in the game (card play, a corruption check caused by _Lure of the Senses_, etc.). Each action is not immediately resolved when it is declared. An opponent and yourself have the opportunity to declare other actions in response. Meeting active conditions and exhausting a play deck are not actions—they are declared and resolved immediately.  
-**Ally:** A resource playable at an untapped site during the site phase that taps the site. Allies represents non-personalities (e.g., _war-wolf_ and _Stinker_) and require no influence check and no influence to control. An ally is considered a character only for the purposes of combat (facing strikes, tapping to support, etc.).  
+**Ally:** A resource playable at an untapped site during the site phase that taps the site. Allies represent non-character personalities (e.g., _War-wolf_ and _Stinker_) and require no influence check and no influence to control. An ally is considered a character only for the purposes of combat (facing strikes, tapping to support, etc.).  
 **Attack:** An action against a company that lists a number of strikes and prowess. Most attacks are either hazard creature attacks or automatic-attacks, though certain cards cause attacks which are neither of these. Most attacks are further described with a creature type though they do not have to be. An attack must be the first declared action in a chain of effects.  
 **Automatic-attack:** An attack a company must immediately face when it declares it will enter a site before it takes any actions at the site.  
 **Attacker:** During an attack, the player whose company is not facing the attack. The attacker makes decisions on behalf of the attack.   
@@ -1957,7 +1956,7 @@ The following list provides a definition of the most common game terms. In may c
 **Corruption Points:** A number with no + or - symbol typically shown in the lower right corner of certain cards. Each corruption check (i.e., the dice roll) made by a character is modified by all corruption modifiers that apply.  
 **Covert Company:** A minion company with no Orcs or Trolls.  
 **Creature:** A hazard card with "Creature" in the classification line.   
-**Current Site:** The site card showing a non-moving company's location. A moving company has no current site from the moment its new site is revealed util its site of origin is removed.  
+**Current Site:** The site card showing a non-moving company's location. A moving company has no current site from the moment its new site is revealed until its site of origin is removed.  
 **Declaring an Action:** Stating that an action is being played, though the actual effects of the action are not implemented until both players have had the chance to respond with the declaration of other actions. Each time you play a card, you are declaring an action. Actions triggered by passive conditions are declared as the first action in the chain of effects following the chain of effects which produced the passive condition.  
 **Defender:** During an attack, the player whose company is facing the attack. The defender makes decisions on behalf of his company.     
 **Detainment Attack:** An attack whose strikes do not wound (and require no body check) if successful. A successful strike from a detainment attack only causes an untapped character to become tapped.    
@@ -1977,9 +1976,9 @@ The following list provides a definition of the most common game terms. In may c
 **Keyword:** An italicized word in a card's text box typically stood off with a period. Keywords carry no inherent rules, but rather are used as card identifiers when determining if another card affects them. Many keywords do have rules accompanying them, however, like _Unique_ and _Corruption_. Any words given in a card's classification line are also keywords.   
 **Location Deck:** Your deck of available sites (and region cards, if used). Only one of each non-Darkhaven site may be included in your location deck.   
 **Long-event:** A resource or hazard that stays in play for approximately two turns. Resource long-events can be played during your long-event phase. Hazard long-events can be played during your opponent's movement/hazard phase. Long-events are discarded during the appropriate player's long-event phase as described in the Full Player Turn Summary.   
-**Marshalling points:** The number printed in a card's upper left corner. A card's marshalling points relates how important that card is to Suuron. After the Audience of Sauron/Free Council, the winner is the player with the most accumulated marshalling points.   
+**Marshalling points:** The number printed in a card's upper left corner. A card's marshalling points relates how important that card is to Sauron. After the Audience of Sauron/Free Council, the winner is the player with the most accumulated marshalling points.   
 **Mind:** The attribute that determines how many influence points are required to control that character.   
-**Minion:** A character controlled by a Ringwrnith player. Non-Ringwraith minion cards have a rusted-purplish iron background. Each Ringwraith minion card has a blood-red stone background. Minions are the only characters included in _MELE_.   
+**Minion:** A character controlled by a Ringwraith player. Non-Ringwraith minion cards have a rusted-purplish iron background. Each Ringwraith minion card has a blood-red stone background. Minions are the only characters included in _MELE_.   
 **Moving Company:** A company in the process of moving between a site of origin and a new site. A company is moving during its movement/hazard phase from the time it reveals its new site until its site of origin is removed.   
 **New Site Card:** The site where a moving company is going. The company is at their new site when their site of origin is removed at the end of their movement/hazard phase.   
 **Normal:** As printed on the card without modification from other effects. Certain effects allow you to hold one more card than normal in your hand; these effects are cumulative and you should not necessarily consider normal in this sense to mean 8 cards.   
@@ -2000,7 +1999,7 @@ The following list provides a definition of the most common game terms. In may c
 **Skill:** An attribute of a character as listed on the classification line. The five skills are: Diplomat, Ranger, Sage, Scout, and Warrior.   
 **Standard Modification:** A modifier to an influence check against a faction that is printed on the faction's card. Certain factions (like Dragon factions) list simple Modifications which affect an influence check the same way, but do not count as Standard Modifications as a keyword (like when interpreting _Old Prejudice_).   
 **Storing Cards:** During your organization phase, taking a card from a character or company to your marshalling point pile. An item can normally be stored if its bearer is at a Darkhaven, but other cards require explicit instructions given on the card.  
-**Strike:** The portion of an attack that affects an individual character. Each attack has one or more strikes, each of which an individual character must face in a strike sequence. If an attak has more strikes than a defending company has chracters, every character faces one strike and the excess strikes are converted to -1 modifiers.   
+**Strike:** The portion of an attack that affects an individual character. Each attack has one or more strikes, each of which an individual character must face in a strike sequence. If an attack has more strikes than a defending company has characters, every character faces one strike and the excess strikes are converted to -1 modifiers.   
 **Strike Sequence:** The time from when you declare one of your characters will resolve a strike until the strike dice roll is made and associated body checks are made. No actions may be declared except those that directly affect the strike as listed on [page 33](). Between strike sequences of an attack, players can declare more general effects (except declaring an attack and changing the current attack's number of strikes.)  
 **Tapping a Card:** Moving a card 90 degrees to a sideways position.  
 **Tapped:** The state of a card shown in a sideways position. You cannot declare an action that requires a character or other card to tap if that card is already tapped.  
@@ -2011,7 +2010,7 @@ The following list provides a definition of the most common game terms. In may c
 **Ringwraith:** A character representing one of the nine Nazgul of Sauron. The first Ringwraith you put into play represents you—the representative Ringwraith. This is sometimes referred to as "your Ringwraith."  
 **Ringwraith Follower:** A Ringwraith minion played in addition to your representative Ringwraith. Ringwraith followers are always followers of your representative Ringwraith.   
 **Untapping a Card:** Moving a tapped card 90 degrees from sideways to a normal position.  
-**Untapped:** The state of a card when its bottom is towards you. All cards enter play untapped and remain that way until an effect of the game taps or wounds them. Only entities that are untapped ,ay perform actions that require them to tap.   
+**Untapped:** The state of a card when its bottom is towards you. All cards enter play untapped and remain that way until an effect of the game taps or wounds them. Only entities that are untapped may perform actions that require them to tap.   
 **Wizard:** A character representing one of the five Istiri. Wizards are not included in _MELE_. A player can have no Wizard followers.   
 **Wounded:** The state of a character shown by placing the top of his card towards you. A character in play who is not tapped or untapped is wounded. A character becomes wounded when a strike against him is successful. You cannot declare an action that requires a character to tap if the character is wounded. 
 
@@ -2021,7 +2020,7 @@ The following list provides a definition of the most common game terms. In may c
 
 Each of your characters may do one of the following:
 
-Heal (if at a Darkhaven site) **or** Untap.
+&emsp; Heal (if at a Darkhaven site) **or** Untap.
  
 Untap all of your other tapped non-site cards.
 
