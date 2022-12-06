@@ -53,43 +53,55 @@ Company Limitations (clarification)—If a company must return to its site of or
 Company vs. Company Combat (clarification)—The defender may take actions that affect the attack or any of the strikes. The attacker may only take actions taht affect individual strikes. <br>
 &emsp; _True Fana_ and _Sacrfice of Form_ (from _Middle-earth: The Wizards_) cannot be used in company vs. company combat.
 
-(clarification)—
+Darkhaven (clarification)—Whenever something affecting a hero refers to a Darkhaven, interpret it as referring to a Haven instead.
 
-(clarification)—
+Direct Influence (clarification)—Restricted direct influence is limited in its use, usually to characters or factions of specific races. Unrestricted direct influence has no restrictions on its use. When a character suffers a minus to direct influence, it must come from unrestricted direct influence first. If there is no unrestricted influence and there are multiple instances of restricted direct influence, the character's player may choose which restricted direct influence the minus is applied to.
 
-(clarification)—
+_Dwar Unleashed) (clarification)—_Dwar the Ringwraith must already be in a mode (Fell Rider, Black Rider, or Heralded Lord) to use this card.
 
-(clarification)—
+_Deeper Shadow_ (errata)—This is a short-event, not a long-event.
 
-(clarification)—
+Detainment Attacks (clarification)—Automatic-attacks are not detainment attacks unless specifically stated on the site card.
 
-(clarification)—
+_Fell Rider_ (clarification)—This card does not allow Ringwraiths to use region movement.
 
-(clarification)—
+Haven (clarification)—Whenever something affecting a minion refers to a Haven, interpret it as referring to a Darkhaven instead.
 
-(clarification)—
+_Heralded Lord_ (clarification)—This card does not allow Ringwraiths to use region movement.
 
-(clarification)—
+_Ice-orcs_ (errata)—Change the Shadow-hold symbol to a Ruins & Lairs symbol.
 
-(clarification)—
+Keyed (clarification)—Only sttacks from hazard creatures are considered "keyed."
 
-(clarification)—
+_The Lidless Eye_ (clarification)—Playing this card discards its players _Bade to Rule_ and prevents him from subsequently playing _Bade to Rule_.
 
-(clarification)—
+Marshalling Points (errata)—Under standard rules, no more than half of your marshalling points can come from any one type of marshalling point. Do not round up. 
 
-(clarification)—
+MELE vs. METW (clarification)—Hero items may not be used as passive condition[^passiveconditions] for minion resources, and minion items may not be used as passive conditions for hero resources.<br>
+&emsp; If you are playing in a Council of Lorien constructed deck tournament, you may play with three Ringwraiths. You may play iwth two of one Ringwraith and one of another, or with three of one Ringwraith. You may not play with one each of three different Ringwraiths. You must have a minimum of 30 resources and 30 hazards with the 12 creature minimum.<br>
+&emsp; Hero characters may not cancel automatic-attacks at their homesite, regardless of their opponent.<br>
+&emsp; You may not have both the minion and hero version of a unique item in your deck.
 
-(clarification)—
+Minion characters (clarification)—Are not affected by cards that target agents.
 
-(clarification)—
+Ringwraiths (clarification)—Ringwraiths may not use region movement. Ringwraiths may only move to a non-Darkhaven site if they are in a mode (Fell Rider, Black Rider, or Heralded Lord). <br>
+&emsp; In general, effects that affect Nazgul do not affect Ringwraiths. The exception is that characters with combat bonuses against Nazgul also get these bonuses against Ringwraiths.<br>
+&emsp; Ringwraiths may not move from one Darkhaven to another with non-Ringwraith characters. Neither may a Ringwraith company and a non-Ringwraith company move from the same Darkhaven to the same Darkhaven on the same turn. 
 
-(clarification)—
+Ringwraith Followers (clarification)—Ringwraith followers may use magic as printed on their card.
 
-(clarification)—
+_Ruse_ (clarification)—If _Ruse_ is played by a scout who is the only characters in the company, the attack has no effect, and, if there is a creature card, it is discarded. It is considered faced, but not cancelled. 
 
-(clarification)—
+_Spider of the Morlat_ (from _Middle-earth: Dark Minions_) (clarification)—Spider attacks from _Spider of the Morlat_ played as a permanent-event are considered detainment vs. minion companies.
 
-(clarification)—
+_Sudden Call_ (clarification)—You may not shufle _Sudden Call_ into your deck while you are drawing cards. Drawing cards is an indivisible action.
+
+Trophies (clarification)—Creatures whose marshalling points are listed with an * give marshalling points when used as trophies.<br>
+&emsp; Defeated Dragon manifestations can be used as trophies. 
+
+_Uvatha the Ringwraith_ (clarification)—Uvatha's special ability does not get around the one character per turn limitation.
+
+_Veils Flung Away_ (errata)—Each body check is modified by -1, not +1. 
 
 ## RULES ANNOTATIONS
 
@@ -262,4 +274,7 @@ _If a card has optional effects, the player playing the card must choose which w
 > 
 > **Example:** The _Witch-king of Angmar_ in play as a pennanent-event can tap during its opponent's movement/hazard phase and become a long-event changing all shadow-holds to dark-holds. During Claude's movement/hazard phase, Helmut has played _The Witch-king_ as a permanent-event. Claude plays _Gates of Morning_ and reveals a site for one of her companies that is a shadow-hold. For the purposes of playing hazards, Helmut wants this shadow-hold to change to a dark-hold; for the purposes of avoiding hazards, Claude wants the shadow-hold to change to a ruins & lairs. She plays _Quiet Lands_ which, among other alternatives, changes one shadow-hold (thus, a target site) to a ruins & lairs. Helmut taps _The Witch-king_ response to make the change he wants. Resolving the actions from last declared to first, _The Witch-king of Angmar_ goes off changing the shadow-hold to a dark-hold. _The Witch-king_ removed the target (and thus the active condition) for Claude's
 action! Unfortunately for her, _Quiet Lands_ fizzles for no effeet. She must discard it.
+
 ---
+
+[^passiveconditions]: This clarification states: "Hero items may not be used as passive condition for minion resources, and minion items may not be used as passive conditions for hero resources." This statement was later changed to state "conditions" instead of "passive conditions." 
