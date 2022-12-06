@@ -94,7 +94,7 @@ _Ruse_ (clarification)—If _Ruse_ is played by a scout who is the only characte
 
 _Spider of the Morlat_ (from _Middle-earth: Dark Minions_) (clarification)—Spider attacks from _Spider of the Morlat_ played as a permanent-event are considered detainment vs. minion companies.
 
-_Sudden Call_ (clarification)—You may not shufle _Sudden Call_ into your deck while you are drawing cards. Drawing cards is an indivisible action.
+_Sudden Call_ (clarification)—You may not shuffle _Sudden Call_ into your deck while you are drawing cards. Drawing cards is an indivisible action.
 
 Trophies (clarification)—Creatures whose marshalling points are listed with an * give marshalling points when used as trophies.<br>
 &emsp; Defeated Dragon manifestations can be used as trophies. 
