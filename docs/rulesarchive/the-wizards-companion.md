@@ -187,7 +187,7 @@ This section presents some annotations to various sections of the Starter and St
 
 ### TARGETS
 
-An action that is palyed out through one or more specific entities as stated on a card or in the rules is considered to "target" the entities. A targeted entity is said to be a "target" of the action. Possible targets include characters, sites, companies, regions, items, factions, corruption checks, and combat dice-rolls. A card that acts on a class of entities, however, does not target them (e.g., _Foul Fumes_). 
+An action that is played out through one or more specific entities as stated on a card or in the rules is considered to "target" the entities. A targeted entity is said to be a "target" of the action. Possible targets include characters, sites, companies, regions, items, factions, corruption checks, and combat dice-rolls. A card that acts on a class of entities, however, does not target them (e.g., _Long Winter_). 
 
 #### Annotation 1
 
@@ -205,7 +205,7 @@ _Long-events and certain other cards do not have targets because they are not pl
 
 _An action may not target a face-down card nor any element of a face down card. Face down cards include unrevealed new site cards and on-guard cards._
 
-### ACTIONS AND AVTIVE AND PASSIVE CONDITIONS
+### ACTIONS AND ACTIVE AND PASSIVE CONDITIONS
 
 There are two types of conditions for actions in _METW_: active and passive.
 
@@ -218,7 +218,7 @@ point; this is considered synonymous with the actions declaration, i.e., it is n
 
 #### Annotation 6
 
-_If an action requires an entity to be discarded as a condition for the actions main effect, that entity must be discarded when the action is declared; this is considered synonymous with the actions declaration, i.e., it is not a separate action._
+_If an action requires an entity to be discarded as a condition for the action's main effect, that entity must be discarded when the action is declared; this is considered synonymous with the actions declaration, i.e., it is not a separate action._
 
 #### Annotation 7
 
@@ -250,11 +250,10 @@ _If more than one action is required to be the first action declared in a chain 
 
 #### Annotation 11
 
-_The requirement of cards that cannot be duplicated is **not** considered while a chain of effects is being declared and resolved. Once the chain is resolved, second and later resolved copies of any card in play that cannot be duplicated are discarded. Once the chain is resolved, second and later resolved effects of any card that cannot be duplicated are cancelled. Some cards cannot be duplicated in limited cases-generally on a specific target. Multiple copies of these cards or their effects may be in play normally, so long as each applies to a different target._
+_The requirement of cards that cannot be duplicated is **not** considered while a chain of effects is being declared and resolved. Once the chain is resolved, second and later resolved copies of any card in play that cannot be duplicated are discarded. Once the chain is resolved, second and later resolved effects of any card that cannot be duplicated are cancelled. Some cards cannot be duplicated in limited cases—generally on a specific target. Multiple copies of these cards or their effects may be in play normally, so long as each applies to a different target._
 
 {: .note }
-> **Example:** Teri plays _Doors of Night_ during Ying's movement/hazard phase. Teri then plays _Morgul Night_. Ying responds with _Twilight_ targeting _Doors of Night_; she sees that if _Doors of Night_ is discarded before _Morgul Night_ is resolved, _Morgul Night_ will also have to be discarded because its active
-condition for play would be removed (_Morgul Night_ is playable only if _Doors of Night_ is in play). Teri, however, responds with a second _Doors of Night_. This will preserve her _Morgul Night_. Resolving from first to last, Teri's second _Doors of Night_ comes into play. Even though _Doors of Night_ cannot be duplicated, the card may be declared even if another is in play. _Twilight_ is resolved next, so the first _Doors of Night_ is discarded. Finally, _Morgul Night_ is played successfully. If Ying had not played _Twilight_, Teri's second _Doors of Night_ would be discarded at the end of the chain of effects.[^discard] (Of course: Teri would not have played her second _Doors of Night_, if Ying had not played _Twilight_.)
+> **Example:** Teri plays _Doors of Night_ during Ying's movement/hazard phase. Teri then plays _Morgul Night_. Ying responds with _Twilight_ targeting _Doors of Night_; she sees that if _Doors of Night_ is discarded before _Morgul Night_ is resolved, _Morgul Night_ will also have to be discarded because its active condition for play would be removed (_Morgul Night_ is playable only if _Doors of Night_ is in play). Teri, however, responds with a second _Doors of Night_. This will preserve her _Morgul Night_. Resolving from first to last, Teri's second _Doors of Night_ comes into play. Even though _Doors of Night_ cannot be duplicated, the card may be declared even if another is in play. _Twilight_ is resolved next, so the first _Doors of Night_ is discarded. Finally, _Morgul Night_ is played successfully. If Ying had not played _Twilight_, Teri's second _Doors of Night_ would be discarded at the end of the chain of effects.[^discard] (Of course: Teri would not have played her second _Doors of Night_, if Ying had not played _Twilight_.)
 
 ### THE ATTACK
 
@@ -316,8 +315,7 @@ _When a character fails a body check, his items may be immediately reassigned to
 
 #### Annotation 23
 
-_When a character fails a corruption check, the standard effects of this (i.e., the character being discarded or eliminated and his items being discarded) are implemented immediately and are considered synonymous with the failed check. A card causing the corruption check may modify the standard effects of a failed check (e.g., The Precious), but this timing would not be changed. Certain cards, e.g., Traitor, which do not cause a corruption
-check, but specify an action that results from the passive condition of a failed corruption check, take effect as the first declared action in a chain of effects immediately following the chain of effects that contains the corruption check._
+_When a character fails a corruption check, the standard effects of this (i.e., the character being discarded or eliminated and his items being discarded) are implemented immediately and are considered synonymous with the failed check. A card causing the corruption check may modify the standard effects of a failed check (e.g., The Precious), but this timing would not be changed. Certain cards, e.g., Traitor, which do not cause a corruption check, but specify an action that results from the passive condition of a failed corruption check, take effect as the first declared action in a chain of effects immediately following the chain of effects that contains the corruption check._
 
 ### GENERAL PLAY
 
@@ -351,7 +349,7 @@ _Once the effects of an environment card have been applied to change a site type
 
 #### Annotation 27
 
-_If a card has optional effects, the player playing the card must choose which will take place. He must do this at the time the card is played, not when it is resolved in its chain of effects. When such a card is resolved, if any active conditions for his choice of effects do not exist, the card no effect and is discarded&mdash;he may not at this point choose to implement an alternative effect of the card._
+_If a card has optional effects, the player playing the card must choose which will take place. He must do this at the time the card is played, not when it is resolved in its chain of effects. When such a card is resolved, if any active conditions for his choice of effects do not exist, the card has no effect and is discarded—he may not at this point choose to implement an alternative effect of the card._
 
 {: .note }
 > **Example:** Meredith plays a two-strike Troll-attack against one of Quinton's companies. Before declaring which untapped characters will receive the strikes, Quinton plays _Gates of Morning_. Then, Quinton plays _Dark Quarrels_ and chooses its second alternative effect, i.e., he would like to reduce the number of strikes of the Troll-attack by half to one. This alternative effect requires _Gates of Morning_ to be in play. Quinton believes his character _Boromir II_ can easily defeat one Troll-strike, but no other character would have good odds against the second strike. Naturally, Quinton is thinking about the marshalling points for defeating all strikes of this attack, so he does not want to cancel the attack. In response to _Dark Quarrels_, Meredith plays _Doors of Night_ which discards _Gates of Morning_. Quinton does not respond, and the two cards are resolved. First, _Doors of Night_ takes effect and _Gates of Morning_ is discarded. Then, _Dark Quarrels_ is resolved, but the active condition for Quinton's choice of effects no longer exists, so his card has no effect and he must choose to assign both strikes of the Troll-attack. Quinton does not have the option of now choosing the other alternative effect of _Dark Quarrels_, i.e., cancelling a Troll-attack.
