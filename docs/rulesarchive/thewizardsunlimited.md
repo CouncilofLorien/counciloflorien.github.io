@@ -35,7 +35,7 @@ RULESBOOK
 
 {: .text-center }
 ***"Do not meddle in the affairs of wizards&mdash;***<br>
-***for they are subtle and quick to anger."***
+***for they are subtle and quick to anger."***<br><br>
 
 {: .text-center .text-gamma }
 CONTENTS
@@ -1394,15 +1394,15 @@ An action in a chain of effects is negated if the conditions required to perform
 
 Each of these optional rules may be used if all players agree before the game begins.
 
-**Special Movement to Gorgoroth Rules** — A company may only move to or from a site in Gorgoroth (e.g., Barad-dur, Mount Doom) by using one of the following:
+<a id="special-movement-to-gorgoroth-rules"/>**Special Movement to Gorgoroth Rules** — A company may only move to or from a site in Gorgoroth (e.g., Barad-dur, Mount Doom) by using one of the following:
  - Specific region movement from a site in Imlad Morgul (Cirith Ungol, Minas Morgul, or Shelob’s Lair).
  - Specific region movement that passes through Nurn or Udun.
 
-**Burglaring** — A Hobbit may attempt to “burglar” at an untapped site. If you decide to make a burglary attempt, make a roll. If the result is greater than 5, the Hobbit taps the site without facing the automatic-attack and may tap to play an item that is playable at that site. Otherwise, the Hobbit faces the automatic-attack alone.
+<a id="burglaring"/>**Burglaring** — A Hobbit may attempt to “burglar” at an untapped site. If you decide to make a burglary attempt, make a roll. If the result is greater than 5, the Hobbit taps the site without facing the automatic-attack and may tap to play an item that is playable at that site. Otherwise, the Hobbit faces the automatic-attack alone.
 
-**Recently Visited Sites** — If a site is in the opponent’s discard pile, the number of strikes and prowess for the site’s automatic-attack are increased by 1.
+<a id="recently-visited-sites"/>**Recently Visited Sites** — If a site is in the opponent’s discard pile, the number of strikes and prowess for the site’s automatic-attack are increased by 1.
 
-**Tapping to Face Multiple Strikes** — A character can tap, take a -3 mod, and face two strikes.
+<a id="tapping-to-face-multiple-strikes"/>**Tapping to Face Multiple Strikes** — A character can tap, take a -3 mod, and face two strikes.
 
 ### MULTI-PLAYER RULES
 
