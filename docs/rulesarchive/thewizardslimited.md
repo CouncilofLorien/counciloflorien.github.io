@@ -28,16 +28,65 @@ search_exclude: true
 
 ---
 
-# MIDDLE-EARTH: THE WIZARDS
-
-# RULESBOOK
+# MIDDLE-EARTH: THE WIZARDS<br>RULESBOOK
 
 {: .text-center }
 ***"Do not meddle in the affairs of wizards&mdash;***<br>
 ***for they are subtle and quick to anger."***
 
-# CONTENTS
+{: .text-center }
+## CONTENTS
 
+<table>
+  <tr>
+    <td>&emsp; USING THIS RULESBOOK
+    <br>&emsp; PLAYER TURN SUMMARY
+    <br>&emsp; PLAYER NOTES
+    <br>PART I — THE STARTER RULES
+    <br>&emsp; 1 • THE VICTORY CONDITIONS
+    <br>&emsp; 2 • THE CARDS AND DECKS
+    <br>&emsp; 3 • GETTING READY TO PLAY
+    <br>&emsp; 4 • THE PLAYER TURN
+    <br>&emsp; 5 • CHARACTERS & COMPANIES
+    <br>&emsp; 6 • MOVEMENT  
+    <br>&emsp; 7 • COMBAT  
+    <br>&emsp; 8 • CORRUPTION  
+    <br>&emsp; 9 • INFLUENCE
+    <br>&emsp; 10 • PLAYING AND DRAWING CARDS
+    <br>PART II — THE STANDARD RULES
+    <br>&emsp; 1 • THE VICTORY CONDITIONS  
+    <br>&emsp; 2 • THE CARDS AND DECKS
+    <br>&emsp; 3 • GETTING READY TO PLAY
+    <br>&emsp; 4 • THE PLAYER TURN
+    <br>&emsp; 5 • CHARACTERS & COMPANIES  
+    </td>
+    <td>
+    &emsp; 6 • MOVEMENT
+    <br>&emsp; 7 • COMBAT
+    <br>&emsp; 8 • CORRUPTION
+    <br>&emsp; 9 • INFLUENCE 
+    <br>&emsp; 10 • PLAYING AND DRAWING CARDS 
+    <br>PART III — OPTIONAL RULES
+    <br>&emsp; Special Rules for Character Death
+    <br>&emsp; Special Movement to Gorgoroth Rules
+    <br>&emsp; Burglaring
+    <br>&emsp; Recently Visited Sites
+    <br>&emsp; Tapping to Face Multiple Strikes
+    <br>&emsp; Multi-player Rules
+    <br>&emsp; Solitaire Rules
+    <br>THE APPENDICES
+    <br>&emsp; CARD DIAGRAMS 
+    <br>&emsp; MAP OF MIDDLE-EARTH
+    <br>&emsp; MAP INDEX
+    <br>&emsp; FULL PLAYER TURN SUMMARY
+    <br>&emsp; SYMBOL KEY
+    <br>&emsp; COMBAT MODIFICATIONS
+    </td>
+  </tr>
+</table>
+
+|    <td>&emsp; USING THIS RULESBOOK    <br>&emsp; PLAYER TURN SUMMARY    <br>&emsp; PLAYER NOTES    <br>PART I — THE STARTER RULES    <br>&emsp; 1 • THE VICTORY CONDITIONS    <br>&emsp; 2 • THE CARDS AND DECKS    <br>&emsp; 3 • GETTING READY TO PLAY    <br>&emsp; 4 • THE PLAYER TURN    <br>&emsp; 5 • CHARACTERS & COMPANIES    <br>&emsp; 6 • MOVEMENT      <br>&emsp; 7 • COMBAT     <br>&emsp; 8 • CORRUPTION      <br>&emsp; 9 • INFLUENCE    <br>&emsp; 10 • PLAYING AND DRAWING CARDS    <br>PART II — THE STANDARD RULES    <br>&emsp; 1 • THE VICTORY CONDITIONS      <br>&emsp; 2 • THE CARDS AND DECKS    <br>&emsp; 3 • GETTING READY TO PLAY    <br>&emsp; 4 • THE PLAYER TURN    <br>&emsp; 5 • CHARACTERS & COMPANIES      |     &emsp; 6 • MOVEMENT    <br>&emsp; 7 • COMBAT    <br>&emsp; 8 • CORRUPTION    <br>&emsp; 9 • INFLUENCE     <br>&emsp; 10 • PLAYING AND DRAWING CARDS     <br>PART III — OPTIONAL RULES    <br>&emsp; Special Rules for Character Death    <br>&emsp; Special Movement to Gorgoroth Rules    <br>&emsp; Burglaring    <br>&emsp; Recently Visited Sites    <br>&emsp; Tapping to Face Multiple Strikes    <br>&emsp; Multi-player Rules    <br>&emsp; Solitaire Rules    <br>THE APPENDICES    <br>&emsp; CARD DIAGRAMS     <br>&emsp; MAP OF MIDDLE-EARTH    <br>&emsp; MAP INDEX    <br>&emsp; FULL PLAYER TURN SUMMARY    <br>&emsp; SYMBOL KEY    <br>&emsp; COMBAT MODIFICATIONS |
+      
 | &emsp; USING THIS RULESBOOK | &emsp; 6 • MOVEMENT |
 | &emsp; PLAYER TURN SUMMARY | &emsp; 7 • COMBAT  |
 | &emsp; PLAYER NOTES  | &emsp; 8 • CORRUPTION |
