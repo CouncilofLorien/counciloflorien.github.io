@@ -35,7 +35,7 @@ RULESBOOK
 
 {: .text-center }
 ***"Do not meddle in the affairs of wizards&mdash;***<br>
-***for they are subtle and quick to anger."***
+***for they are subtle and quick to anger."***<br><br>
 
 {: .text-center .text-gamma }
 CONTENTS
