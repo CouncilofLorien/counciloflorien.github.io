@@ -23,16 +23,24 @@ search_exclude: true
   {: .text-gamma }
   
 {: .counsel }
-> ICE issued errata to the Unlimited version of <em>The Wizards</em> rules. The errata are included in these rules with markings to show the changes. However, later changes in rules and wording are <b>not</b> included in these archived rules. The <em>Emended MECCG Rules</em> include and explain such changes.<br><br>These rules do include emendations correcting minor typographical and clerical errors in the original text. For instance, there are corrections of dropped characters (e.g., a closing missing closing parenthesis), word spacing (e.g., "FreeCouncil," a missing indentation in a table, etc.), and inconsistent emphasis (e.g., a single instance of non-Haven not emphasized in a paragraph having <em>Haven</em> and <em>non-Haven</em> emphasized). Such corrections are <b>not</b> annotated. 
+> The rulesbooks in the Rules Arrchive reflect the published text without any errata. However, they do have minor corrections to typographical, clerical, and typesetting issues in the original text. Such corrections are <b>not</b> annotated.
 </details>
 
 ---
 
 # MIDDLE-EARTH: THE WIZARDS
 
+{: .text-center .text-beta }
+RULESBOOK
+
 {: .text-center }
 ***"Do not meddle in the affairs of wizards&mdash;***<br>
 ***for they are subtle and quick to anger."***
+
+{: .text-center .text-gamma }
+CONTENTS
+
+|  &emsp; [Introduction](/rules-archive/the-wizards-unlimited#introduction) &emsp; [Using This Rulesbook](/rules-archive/the-wizards-unlimited#using-this-rulesbook)    <br>&emsp; [Brief Player Turn Summary](/rules-archive/the-wizards-unlimited#brief-player-turn-summary)    <br>&emsp; [Player Notes](/rules-archive/the-wizards-unlimited#player-notes)  <br>&emsp; [Commonly Used Terms](/rules-archive/the-wizards-unlimited#commonly-used-terms)  <br>**Part I — The Starter Rules**    <br>&emsp; [1 • The Victory Conditions](/rules-archive/the-wizards-unlimited#1--the-victory-conditions)    <br>&emsp; [2 • The Cards and Decks](/rules-archive/the-wizards-unlimited#2--the-cards-and-decks)    <br>&emsp; [3 • Getting Ready to Play](/rules-archive/the-wizards-unlimited#3--getting-ready-to-play)    <br>&emsp; [4 • The Player Turn](/rules-archive/the-wizards-unlimited#4--the-player-turn)    <br>&emsp; [5 • Characters and Companies](/rules-archive/the-wizards-unlimited#5--characters--companies)    <br>&emsp; [6 • Movement](/rules-archive/the-wizards-unlimited#6--movement)      <br>&emsp; [7 • Combat](/rules-archive/the-wizards-unlimited#7--combat)     <br>&emsp; [8 • Corruption](/rules-archive/the-wizards-unlimited#8--corruption)      <br>&emsp; [9 • Influence](/rules-archive/the-wizards-unlimited#9--influence)    <br>&emsp; [10 • Playing and Drawing Cards](/rules-archive/the-wizards-unlimited#10--playing-and-drawing-cards)    <br>**Part II — The Standard Rules**    <br>&emsp; [1 • The Victory Conditions](/rules-archive/the-wizards-unlimited#1--the-victory-conditions-1)      <br>&emsp; [2 • The Cards and Decks](/rules-archive/the-wizards-unlimited#2--the-cards-and-decks-1)    <br>&emsp; [3 • Getting Ready to Play](/rules-archive/the-wizards-unlimited#3--getting-ready-to-play-1)    <br>&emsp; [4 • The Player Turn](/rules-archive/the-wizards-unlimited#4--the-player-turn-1)    <br>&emsp; [5 • Characters and Companies](/rules-archive/the-wizards-unlimited#5--characters--companies-1)  <br>&emsp; [6 • Movement](/rules-archive/the-wizards-unlimited#6--movement-1)  |  &emsp; [7 • Combat](/rules-archive/the-wizards-unlimited#7--combat-1)    <br>&emsp; [8 • Corruption](/rules-archive/the-wizards-unlimited#8--corruption-1)    <br>&emsp; [9 • Influence](/rules-archive/the-wizards-unlimited#9--influence-1)     <br>&emsp; [10 • Playing and Drawing Cards](/rules-archive/the-wizards-unlimited#10--playing-and-drawing-cards-1)     <br>**Part III — Optional Rules**   <br>&emsp; [Special Movement to Gorgoroth](/rules-archive/the-wizards-unlimited#special-movement-to-gorgoroth-rules)    <br>&emsp; [Burglaring](/rules-archive/the-wizards-unlimited#burglaring)    <br>&emsp; [Recently Visited Sites](/rules-archive/the-wizards-unlimited#recently-visited-sites)    <br>&emsp; [Tapping to Face Multiple Strikes](/rules-archive/the-wizards-unlimited#tapping-to-face-multiple-strikes)    <br>&emsp; [Multi-player Rules](/rules-archive/the-wizards-unlimited#multi-player-rules)    <br>&emsp; [Solitaire Rules](/rules-archive/the-wizards-unlimited#solitaire-rules)    <br>**The Appendices**    <br>&emsp; [Card Diagrams](/rules-archive/the-wizards-unlimited#card-diagrams)     <br>&emsp; [Map of Middle-earth](/rules-archive/the-wizards-unlimited#map-of-middle-earth)    <br>&emsp; [Map Index](/rules-archive/the-wizards-unlimited#map-index)    <br>&emsp; [Full Player Turn Summary](/rules-archive/the-wizards-unlimited#full-player-turn-summary)    <br>&emsp; [Symbol Key](/rules-archive/the-wizards-unlimited#symbol-key)    <br>&emsp; [Combat Modifications](/rules-archive/the-wizards-unlimited#combat-modifications) <br>&emsp; [Credits](/rules-archive/the-wizards-unlimited#credits) <br> |
 
 ## INTRODUCTION
 
