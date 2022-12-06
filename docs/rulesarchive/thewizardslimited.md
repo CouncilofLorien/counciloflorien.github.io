@@ -994,8 +994,7 @@ _Address rules questions and comments via email to metwice@aol.com or via snail 
 
 ---
 
-{: .text-gamma }
-CREDITS
+### CREDITS
  
 **Art Director:** Jessica Ney-Grimm  
 **Base Design:** Coleman Charlton  
