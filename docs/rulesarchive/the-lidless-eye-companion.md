@@ -57,7 +57,7 @@ Darkhaven (clarification)—Whenever something affecting a hero refers to a Dark
 
 Direct Influence (clarification)—Restricted direct influence is limited in its use, usually to characters or factions of specific races. Unrestricted direct influence has no restrictions on its use. When a character suffers a minus to direct influence, it must come from unrestricted direct influence first. If there is no unrestricted influence and there are multiple instances of restricted direct influence, the character's player may choose which restricted direct influence the minus is applied to.
 
-_Dwar Unleashed) (clarification)—_Dwar the Ringwraith must already be in a mode (Fell Rider, Black Rider, or Heralded Lord) to use this card.
+_Dwar Unleashed_ (clarification)—_Dwar the Ringwraith must already be in a mode (Fell Rider, Black Rider, or Heralded Lord) to use this card.
 
 _Deeper Shadow_ (errata)—This is a short-event, not a long-event.
 
