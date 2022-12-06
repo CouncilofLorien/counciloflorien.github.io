@@ -57,7 +57,7 @@ Darkhaven (clarification)—Whenever something affecting a hero refers to a Dark
 
 Direct Influence (clarification)—Restricted direct influence is limited in its use, usually to characters or factions of specific races. Unrestricted direct influence has no restrictions on its use. When a character suffers a minus to direct influence, it must come from unrestricted direct influence first. If there is no unrestricted influence and there are multiple instances of restricted direct influence, the character's player may choose which restricted direct influence the minus is applied to.
 
-_Dwar Unleashed_ (clarification)—_Dwar the Ringwraith must already be in a mode (Fell Rider, Black Rider, or Heralded Lord) to use this card.
+_Dwar Unleashed_ (clarification)—Dwar the Ringwraith must already be in a mode (Fell Rider, Black Rider, or Heralded Lord) to use this card.
 
 _Deeper Shadow_ (errata)—This is a short-event, not a long-event.
 
@@ -71,7 +71,7 @@ _Heralded Lord_ (clarification)—This card does not allow Ringwraiths to use re
 
 _Ice-orcs_ (errata)—Change the Shadow-hold symbol to a Ruins & Lairs symbol.
 
-Keyed (clarification)—Only sttacks from hazard creatures are considered "keyed."
+Keyed (clarification)—Only attacks from hazard creatures are considered "keyed."
 
 _The Lidless Eye_ (clarification)—Playing this card discards its players _Bade to Rule_ and prevents him from subsequently playing _Bade to Rule_.
 
