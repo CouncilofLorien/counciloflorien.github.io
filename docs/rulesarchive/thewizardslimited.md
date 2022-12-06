@@ -37,76 +37,7 @@ search_exclude: true
 {: .text-center }
 ## CONTENTS
 
-<table>
-  <tr>
-    <td>&emsp; USING THIS RULESBOOK
-    <br>&emsp; PLAYER TURN SUMMARY
-    <br>&emsp; PLAYER NOTES
-    <br>PART I — THE STARTER RULES
-    <br>&emsp; 1 • THE VICTORY CONDITIONS
-    <br>&emsp; 2 • THE CARDS AND DECKS
-    <br>&emsp; 3 • GETTING READY TO PLAY
-    <br>&emsp; 4 • THE PLAYER TURN
-    <br>&emsp; 5 • CHARACTERS & COMPANIES
-    <br>&emsp; 6 • MOVEMENT  
-    <br>&emsp; 7 • COMBAT  
-    <br>&emsp; 8 • CORRUPTION  
-    <br>&emsp; 9 • INFLUENCE
-    <br>&emsp; 10 • PLAYING AND DRAWING CARDS
-    <br>PART II — THE STANDARD RULES
-    <br>&emsp; 1 • THE VICTORY CONDITIONS  
-    <br>&emsp; 2 • THE CARDS AND DECKS
-    <br>&emsp; 3 • GETTING READY TO PLAY
-    <br>&emsp; 4 • THE PLAYER TURN
-    <br>&emsp; 5 • CHARACTERS & COMPANIES  
-    </td>
-    <td>
-    &emsp; 6 • MOVEMENT
-    <br>&emsp; 7 • COMBAT
-    <br>&emsp; 8 • CORRUPTION
-    <br>&emsp; 9 • INFLUENCE 
-    <br>&emsp; 10 • PLAYING AND DRAWING CARDS 
-    <br>PART III — OPTIONAL RULES
-    <br>&emsp; Special Rules for Character Death
-    <br>&emsp; Special Movement to Gorgoroth Rules
-    <br>&emsp; Burglaring
-    <br>&emsp; Recently Visited Sites
-    <br>&emsp; Tapping to Face Multiple Strikes
-    <br>&emsp; Multi-player Rules
-    <br>&emsp; Solitaire Rules
-    <br>THE APPENDICES
-    <br>&emsp; CARD DIAGRAMS 
-    <br>&emsp; MAP OF MIDDLE-EARTH
-    <br>&emsp; MAP INDEX
-    <br>&emsp; FULL PLAYER TURN SUMMARY
-    <br>&emsp; SYMBOL KEY
-    <br>&emsp; COMBAT MODIFICATIONS
-    </td>
-  </tr>
-</table>
-
-|    <td>&emsp; USING THIS RULESBOOK    <br>&emsp; PLAYER TURN SUMMARY    <br>&emsp; PLAYER NOTES    <br>PART I — THE STARTER RULES    <br>&emsp; 1 • THE VICTORY CONDITIONS    <br>&emsp; 2 • THE CARDS AND DECKS    <br>&emsp; 3 • GETTING READY TO PLAY    <br>&emsp; 4 • THE PLAYER TURN    <br>&emsp; 5 • CHARACTERS & COMPANIES    <br>&emsp; 6 • MOVEMENT      <br>&emsp; 7 • COMBAT     <br>&emsp; 8 • CORRUPTION      <br>&emsp; 9 • INFLUENCE    <br>&emsp; 10 • PLAYING AND DRAWING CARDS    <br>PART II — THE STANDARD RULES    <br>&emsp; 1 • THE VICTORY CONDITIONS      <br>&emsp; 2 • THE CARDS AND DECKS    <br>&emsp; 3 • GETTING READY TO PLAY    <br>&emsp; 4 • THE PLAYER TURN    <br>&emsp; 5 • CHARACTERS & COMPANIES      |     &emsp; 6 • MOVEMENT    <br>&emsp; 7 • COMBAT    <br>&emsp; 8 • CORRUPTION    <br>&emsp; 9 • INFLUENCE     <br>&emsp; 10 • PLAYING AND DRAWING CARDS     <br>PART III — OPTIONAL RULES    <br>&emsp; Special Rules for Character Death    <br>&emsp; Special Movement to Gorgoroth Rules    <br>&emsp; Burglaring    <br>&emsp; Recently Visited Sites    <br>&emsp; Tapping to Face Multiple Strikes    <br>&emsp; Multi-player Rules    <br>&emsp; Solitaire Rules    <br>THE APPENDICES    <br>&emsp; CARD DIAGRAMS     <br>&emsp; MAP OF MIDDLE-EARTH    <br>&emsp; MAP INDEX    <br>&emsp; FULL PLAYER TURN SUMMARY    <br>&emsp; SYMBOL KEY    <br>&emsp; COMBAT MODIFICATIONS |
-      
-| &emsp; USING THIS RULESBOOK | &emsp; 6 • MOVEMENT |
-| &emsp; PLAYER TURN SUMMARY | &emsp; 7 • COMBAT  |
-| &emsp; PLAYER NOTES  | &emsp; 8 • CORRUPTION |
-| PART I — THE STARTER RULES | &emsp; 9 • INFLUENCE |
-| &emsp; 1 • THE VICTORY CONDITIONS | &emsp; 10 • PLAYING AND DRAWING CARDS  |
-| &emsp; 2 • THE CARDS AND DECKS | PART III — OPTIONAL RULES  |
-| &emsp; 3 • GETTING READY TO PLAY  | &emsp; Special Rules for Character Death[^specialrules] |
-| &emsp; 4 • THE PLAYER TURN  | &emsp; Special Movement to Gorgoroth Rules |
-| &emsp; 5 • CHARACTERS & COMPANIES  | &emsp; Burglaring |
-| &emsp; 6 • MOVEMENT  | &emsp; Recently Visited Sites |
-| &emsp; 7 • COMBAT  | &emsp; Tapping to Face Multiple Strikes |
-| &emsp; 8 • CORRUPTION  | &emsp; Multi-player Rules |
-| &emsp; 9 • INFLUENCE  | &emsp; Solitaire Rules |
-| &emsp; 10 • PLAYING AND DRAWING CARDS  | THE APPENDICES |
-| PART II — THE STANDARD RULES  | &emsp; CARD DIAGRAMS |
-| &emsp; 1 • THE VICTORY CONDITIONS  | &emsp; MAP OF MIDDLE-EARTH |
-| &emsp; 2 • THE CARDS AND DECKS  | &emsp; MAP INDEX |
-| &emsp; 3 • GETTING READY TO PLAY  | &emsp; FULL PLAYER TURN SUMMARY |
-| &emsp; 4 • THE PLAYER TURN  | &emsp; SYMBOL KEY |
-| &emsp; 5 • CHARACTERS & COMPANIES  | &emsp; COMBAT MODIFICATIONS |
+|    &emsp; [USING THIS RULESBOOK](/rules-archive/the-wizards-limited#using-this-rulesbook)    <br>&emsp; [PLAYER TURN SUMMARY](/rules-archive/the-wizards-limited#player-turn-summary)    <br>&emsp; [PLAYER NOTES](/rules-archive/the-wizards-limited#player-notes)    <br>**PART I — THE STARTER RULES**    <br>&emsp; [1 • THE VICTORY CONDITIONS](/rules-archive/the-wizards-limited#1--the-victory-conditions)    <br>&emsp; [2 • THE CARDS AND DECKS](/rules-archive/the-wizards-limited#2--the-cards-and-decks)    <br>&emsp; [3 • GETTING READY TO PLAY](/rules-archive/the-wizards-limited#3--getting-ready-to-play)    <br>&emsp; [4 • THE PLAYER TURN](/rules-archive/the-wizards-limited#4--the-player-turn)    <br>&emsp; [5 • CHARACTERS & COMPANIES](/rules-archive/the-wizards-limited#5--characters--companies)    <br>&emsp; [6 • MOVEMENT](/rules-archive/the-wizards-limited#6--movement)      <br>&emsp; [7 • COMBAT](/rules-archive/the-wizards-limited#7--combat)     <br>&emsp; [8 • CORRUPTION](/rules-archive/the-wizards-limited#8--corruption)      <br>&emsp; [9 • INFLUENCE](/rules-archive/the-wizards-limited#9--influence)    <br>&emsp; [10 • PLAYING AND DRAWING CARDS](/rules-archive/the-wizards-limited#10--playing-and-drawing-cards)    <br>PART II — THE STANDARD RULES    <br>&emsp; [1 • THE VICTORY CONDITIONS](/rules-archive/the-wizards-limited#1--the-victory-conditions-1)      <br>&emsp; [2 • THE CARDS AND DECKS](/rules-archive/the-wizards-limited#2--the-cards-and-decks-1)    <br>&emsp; [3 • GETTING READY TO PLAY](/rules-archive/the-wizards-limited#3--getting-ready-to-play-1)    <br>&emsp; [4 • THE PLAYER TURN](/rules-archive/the-wizards-limited#4--the-player-turn-1)    <br>&emsp; [5 • CHARACTERS & COMPANIES](/rules-archive/the-wizards-limited#5--characters--companies-1)      |     &emsp; 6 • MOVEMENT    <br>&emsp; 7 • COMBAT    <br>&emsp; 8 • CORRUPTION    <br>&emsp; 9 • INFLUENCE     <br>&emsp; 10 • PLAYING AND DRAWING CARDS     <br>PART III — OPTIONAL RULES    <br>&emsp; Special Rules for Character Death    <br>&emsp; Special Movement to Gorgoroth Rules    <br>&emsp; Burglaring    <br>&emsp; Recently Visited Sites    <br>&emsp; Tapping to Face Multiple Strikes    <br>&emsp; Multi-player Rules    <br>&emsp; Solitaire Rules    <br>THE APPENDICES    <br>&emsp; CARD DIAGRAMS     <br>&emsp; MAP OF MIDDLE-EARTH    <br>&emsp; MAP INDEX    <br>&emsp; FULL PLAYER TURN SUMMARY    <br>&emsp; SYMBOL KEY    <br>&emsp; COMBAT MODIFICATIONS 
 
 ## INTRODUCTION
 
