@@ -11,7 +11,7 @@ search_exclude: true
   mecd {
   font-style: normal;
   font-weight: 900;
-  font-family: sans-serif;
+  font-family: Arial;
 }
 </style>
 
@@ -866,37 +866,59 @@ During your opponent's first untap phase when you have few hazards in hand, half
 {: .text-center }
 DWAR'S CHALLENGE DECK
 
-#### Starting Company
+Dwar's deck sends the Lieutenant of Morgul and a detachment of orc warriors to Dragon country and to burn a couple Border-holds down. Dwar has unwavering faith in the philosophy of might, and seeks large factions of Orcs to serve his needs. The hazards use _Doors of Night_ to unleash packs of Wolves.
+
+#### Starting Company at Dol Guldur
+
+ - Lieutenant of Morgul, Muzgash, Lagduf, Radbug, and Tros Hesnef form the starting company. The Lieutenant controls Muzgash and Lagduf. Lagduf and Radbug each start with _Foul-smelling Paste_.
 
 #### Suggested Sites for Resources
 
-__—
+_The Arkenstone_—The Lonely Mountain, Moria, Caves of Ulund, Dancing Spire, Gold Hill, or Irerock.
 
-__—
+_Black Mace_ (x3)—The Lonely Mountain, Moria, Caves of Ulund, Dancing Spire, Gold Hill, or Irerock.
 
-__—
+_Burning Rick, Cot, and Tree_ (x2)—tapped Raider-hold or Dale
 
-__—
+_Gleaming Gold Ring_—Dale
 
-__—
+_Grey Mountain Goblins_—Gondmaeglom
 
-__—
+_High Helm_—Raider-hold
 
-__—
+_Ice-orcs_—Caves of Ulund, Dancing Spire, Gold Hill, or Irerock.
 
-__—
+_Orcs of Gundabad_—Mount Gundabad
 
-__—
+_Regiment of Black Crows_ (x2)—tapped Caves of Ulund, Dancing Spire, Gold Hill, Gondmaeglom, Irerock, or The Lonely Mountain.
 
-__—
+_Orcs of Moria_ (sideboard)—Moria (during second deck cycle)
+
+_Regiment of Black Crows_ (sideboard)—tapped Caves of Ulund, Irerock, Dancing Spire, Gold Hill, Gondmaeglom, or The Lonely Mountain.
+
+_Sable Shield_ (sideboard)—The Lonely Mountain, Caves of Ulund, Dancing Spire, Gold Hill, or Irerock
 
 #### Resource Play
 
-#### (Avatar)
+Dwar's deck is primed for a couple delights only Ringwrwaith players enjoy: trophies and the Troll trio of Burat, Tuma, and Wuluag. If at all possible, place prophies with the Lieutenant of Morgul. In fact, take any opportunity to increase his direct influence. He has multiple uses for it, such as _I'll Report You_, controlling followings, and recruiting factions. Particularly, you want to maximize the chance of successfully recruiting the _Ice-orcs_. Shagrat has almost the same potential as the Lieutenant in all these respects.
+
+Sacrifice almost any other card to keep members of the Orc trio in hand until playable. In a company together, their benefits are remarkable for the influence they trquire. The trio in tandem effectively have only a -1 penalty to prowess when not tapping to face a strike. Consider this scenario. Burat and Tuma each face a strike from an attack. Curat does first and taps—with his prowess, the strike likely fails. Tuma face his strike next, but first taps to untap Burat. Tuma has -1 prowess against the strike for being tapped, but Burat has become untapps.
+
+For the 2 Border-holds there are 2 site-tapping resources: _Gleaming Gold Ring_ and _High Helm_. In order to play the 2 _Burning Rick, Cot, and Trees_, you must use these resources at their designated Border-holds and not leave the sites ebfore burning them down. It is well worth it to discard a few hazards to keep components of the Border-hold combination in hand.
+
+#### Dwar
+
+Dwar does not move from Dol Guldur. During the earlier turns, he should tap to give the combat bonuses to his fledgling companies. On later turns, when the prowess of these characters increase, Dwar can freely tap to bring resources in from the sideboard. Do not forget to bring in _Sudden Call_ during the first deck cycle.
 
 #### Hazard Play
 
+Nothing tricky here. Wolves and animals do not hit as hard as other creatures, but they have a high frequency of play.
+
 #### Sideboard
+
+Use Dwar to bring the _Minor Ring_ to teh discard pile at his first safe opportunity. It is then available when _Gleaming Gold Ring_ is brought to him for testing. _Orders from Lugburz_ is good for getting the Lieutenant and Shagrat into one monster company.
+
+Against a Wizard opponent, consider bringing the _Rebel-talks_ in from teh sideboard and recycling _Stay Her Appetite_. You may remove all of your opponent's allies in this way and double the marshalling points from your allies.
 
 {: .text-center }
 ## <mecd>H</mecd> – STEALTHY TRIBE
@@ -904,37 +926,59 @@ __—
 {: .text-center }
 HOARMURATH'S CHALLENGE DECK
 
-#### Starting Company
+Hoarmurath directs a band of Morgul scouts into the fringe Shadow areas of the Misty Mountains to steal technologies and win over independent Orc tribes. His minions rely on stealth and minimal movement in the open, though tehy can fight in a pinch. The hazards are solid Undead. 
+
+#### Starting Companies (2) at Dol Guldur
+
+ - Gorbag, Grishnakh, Ufthak, and Lugdush form the main company.<br> Gorbag controls Grishnakh and starts with _Blazon of the Eye_. Ufthak starts with _Strange Rations_.
+ - Ill-favoured Fellow starts by himself at Dol Guldur and waits for more characters to join his company.
 
 #### Suggested Sites for Resources
 
-__—
+_The Arkenstone_—Moria or Caves of Ulund
 
-__—
+_Blasting Fire_ (x3)—tapped Shadow-hold
 
-__—
+_Great Lord of Goblin-gate_—Goblin-gate
 
-__—
+_High Helm_—Mount Gundabad or Sarn Goriwing
 
-__—
+_Orcs of Moria_—Moria
 
-__—
+_Sable Shield_—Mount Gundabad or Sarn Goriwing
 
-__—
+_Scroll of Isildur_—Moria or Caves of Ulund \[storing it at Barad-dur]
 
-__—
+_Snaga-hai_ (x2)—tapped Shadow-hold
 
-__—
+_Stinker_—Goblin-gate
 
-__—
+_Vile Fumes_ (x3)—tapped Shadow-hold
+
+_War-wolf_ (x3)—tapped Shadow-hold (except Dead Marshes and Mount Gram)
+
+_Black Mace_ (x2) (sideboard)—tapped Shadow-hold
+
+_Orcs of Mirkwood_ (sideboard)—Sarn Goriwing
+
 
 #### Resource Play
 
-#### (Avatar)
+The trickiest aspect of this deck is playing multiple site-tapping resources at a small number of Shadow-holds. The 3 _Records Undead_ are key to pulling this off. This minor item untaps Goblin-gate for the 2 allies playable there and Moria for its faction adn one greater item. The nature of this deck is for the company of Orc scouts to move very little, thereby decreaing the number of creatures that attack them. Once a Shadow-hold is tapped, the deck provides a great number of playable 1 marshalling point resources including factions, allies, and items. A company should not move to an untapped Moria or Goblin-gate unless it has one of the resources specific to that site in hand.
+
+#### Hoarmurath
+
+Hoarmurath taps every organization phase to bring a resource to the play deck from the sideboard. The only exception is when you have _Voices of Malice_ in your hand—Hoarmurath is your only safe. He does not move from Dol Guldur in any case, increasing your hand size by one. It may be useful to bring in _Fell Rider_ near the end of the first deck cycle. In this way, you have the option of moving Hoarmurath for the second cycle.
 
 #### Hazard Play
 
+Woe be the opponent who wanders into this hazard mix unprepared! Practicing a little patience, you can unload a vicious mix of Undead attacks. The key is to turn them into monsters with bonuses from _The Moon is Dead_, _Plague of Wights_, and _Chill Dousers_. For example, you can reasonably create a _Ghouls_ attack of 14 strikes at 10 prowess. You should generally look to discard hazards in favor of keeping your numerous marshalling point sources in hand, however.
+
 #### Sideboard
+
+Many resources in the sideboard will undoubtedly be useful against any opponent: _Orc Quarrels_, _Black Maces_, _Sudden Call_, etc. In fact, with Hoarmurath tapping most turns to bring a resource into the play deck, you effectively increase the number of resources in the play deck without increasing the number of hazards.
+
+There is nothing tricky about the sideboard hazards. Use _An Unexpected Outpost_ to recycle your best Undead creatures or enhancers if you are making good use of them. Otherwise bring in hazards from the sideboard to hit the elusive opponent in new ways.
 
 {: .text-center }
 ## <mecd>I</mecd> – MORGUL RALLYING CRY
@@ -942,7 +986,9 @@ __—
 {: .text-center }
 THE WITCH-KING'S CHALLENGE DECK
 
-#### Starting Company
+The Witch-king's mission is to solidify Sauron's forces in Mordor. His minions do best when not moving from the safety of this evil domain. They have very little to help them tactically, but in Mordor they should not need much. The hazards can create a devastating environment of roadblock.
+
+#### Starting Companies (3) at Minas Morgul
 
 #### Suggested Sites for Resources
 
@@ -968,7 +1014,7 @@ __—
 
 #### Resource Play
 
-#### (Avatar)
+#### The Witch-king
 
 #### Hazard Play
 
@@ -980,6 +1026,8 @@ __—
 {: .text-center }
 INDUR'S CHALLENGE DECK
 
+Indur enlists The Mouth to seduce nations of mannish factions in the less civilized lands surrounding Mordor. Adept in the dark arts of magic, Indur sends along a master of sorcery, Hador, to protect these efforts. The hazards feature corruption with a mix of general creatures. 
+
 #### Starting Company
 
 #### Suggested Sites for Resources
@@ -1006,7 +1054,7 @@ __—
 
 #### Resource Play
 
-#### (Avatar)
+#### Indur
 
 #### Hazard Play
 
