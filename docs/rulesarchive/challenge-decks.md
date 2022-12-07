@@ -518,7 +518,7 @@ A particularly useful section of a deck's Play Tips is _Suggested Sites for Reso
 {: .text-center .text-delta }
 SARUMAN'S CHALLENGE DECK
 
-With Saruman's deck, Glorfindel and a group of Hobbits travel into the civilized confines of GOndor, south of the White Mountains, to rally mannish factions against Sauron's hosts. The deck relies heavily on attack avoidance. The hazards mix is pure Orc/Troll strategy.
+With Saruman's deck, Glorfindel and a group of Hobbits travel into the civilized confines of Gondor, south of the White Mountains, to rally mannish factions against Sauron's hosts. The deck relies heavily on attack avoidance. The hazards mix is pure Orc/Troll strategy.
 
 #### Starting Company (2)
 
@@ -754,37 +754,56 @@ The Dragon Ahunt cards offer a nice opportunity against opponents who travel con
 {: .text-center }
 GANDALF'S CHALLENGE DECK
 
-#### Starting Company
+Gandalf sends Aragorn and Arwen into the lands along the Anduin River to find lost icons of Gondor. Their efforts also take the pair to Minas Tirith to be crowned King and Queen. The deck relies primarily on attack avoidance. The hazards contain a heavy mix of good general creatures.
+
+#### Starting Companies (2)
+
+ - Aragorn controls Arwen. Arwen starts with _Star-glass.
+ - Faramir controls Annalena. Faramir starts with _Elf-stone_.
 
 #### Suggested Sites for Resources
 
-__—
+_Beautiful Gold Ring_ (x3)—Bandit Lair, Gladden Fields, Isengard, or Moria
 
-__—
+_Glamdring_—Haudh-in-Gwanur, Buhr Widu, Moria, or Isengard
 
-__—
+_Hauberk of Bright Mail_—Haudh-in-Gwanur, Buhr Widu, Moria, or Isengard
 
-__—
+_Narsil_—Dead Marshes
 
-__—
+_Noble Steed_ (x2)—tapped Buhr Widu, Haudh-in-Gwanur, or Edoras
 
-__—
+_Quickbeam_—Wellinghall
 
-__—
+_Rangers of Ithilien_—Henneth Annun
 
-__—
+_Return of the King_—Minas Tirith
 
-__—
+_Sword of Gondolin_—Haudh-in-Gwanur, Buhr Widu, Moria, or Isengard
 
-__—
+_Tower Guard of Minas Tirith_—Minas Tirith
+
+_Knights of Dol Amroth_ (sideboard)—Dol Amroth
+
+_Riders of Rohan_ (sideboard)—Edoras
 
 #### Resource Play
 
+Untapped scouts can play a crucial part in the success of Gandalf's deck. They provide your main means of attack avoidance by using _Concealments_ and _Stealths_. There are enough weapons in your deck to make Aragorn and a couple of other warriors from the play deck into formidable fighters, so expect to receive a few marshalling points from creature kills.
+
+Ultimately, you want to give Arwen a _Lesser Ring_. This provides her with enough direct influence to control Aragorn. These two form a powerful 2-character company who require only 3 general influence. With _Return of the King_ on Aragorn, he can recruit any faction in the deck virtually automatically. If you play _Tower Guard of Minas Tirith_ before _Return of the King_, be sure to leave a character at Minas Tirith so that the site is still available to play _Return of the King_. _Return of the King_ does not require the site to tap, nor is its play limited ot the site phase.
+
 #### Gandalf
+
+One of Gandalf's primary tasks is testing the 3 _Beautiful Gold Rings_ with his special ability. This means Gandalf must be untapped and must have joined the company bearing the ting. It should not strain your hand too much to hold the _Magic Ring of Stealth_ and _Lesser Rings_ waiting for the gold rings and Gandalf's test. Otherwise, in a company with other characters, Gandalf should feel free to move around gathering resources.
 
 #### Hazard Play
 
+The hazards offer a wide variety of creatures with good attacks in a complete range of regions and sites. Except for _Searching Eye_, each hazard is playable on its own, without directly benefiting from another. This means the hazards do not require you to hold cards in hand waiting for an optimal complementary hazard before playing them. If you must discard and have a creature in hand you are not certain you can play soon, discard it and do not look back. The resource stratgy needs all the tactical supporting cards it can get, so freely sacrifice hazards to make room.
+
 #### Sideboard
+
+Tap Gandalf to bring in the 2 factions after playing _Return of the King_. Otherwise the resources in the sideboard offer general options to defend against specific opponents. This quality of generality holds even more for the sideboard hazards.
 
 {: .text-center }
 ## <mecd>F</mecd> – SPIES AND TRAITORS
@@ -792,7 +811,12 @@ __—
 {: .text-center }
 ADUNAPHEL'S CHALLENGE DECK
 
-#### Starting Company
+Adunapehl sends traitorous bands bent upon thievery and espionage into the untainted domains of the Free Peoples. Her inherent knowledge of these areas provides some cover, but her missions are extremely difficult to carry out. The hazards feature a potent offering of Drakes.
+
+#### Starting Companies (2) at Dol Guldur
+
+ - Ciryaher controls Ostisen. Ostisen starts with _Foul-smelling Paste_.
+ - Asternak, Dogrib, Mionid, and Luitprand form another company.<br>Asternak controls Dogrib and starts with _Blazon of the Eye_.
 
 #### Suggested Sites for Resources
 
