@@ -506,25 +506,188 @@ You exhaust your deck when you draw the final card from it. Discard any cards th
 
 ## INTRODUCTION
 
+The purpose of the Play Tips is to give practical advice and direction for playing your _Challenge Deck_. Most of these decks have a few cards whose successful play depends directly on the play of another card. Often, when just picking up a deck for the first time, these combination dependent cards are not obvious. Please read the Play Tips for your deck to make certain you have as much information as possible to enjoy it to its fullest.
+
+As mentioned in the Rules Summary, a listing of Starting Companies are included in the Play Tips. In official _Challenge Deck_ tournament play, you must start with your designated company—the characters of each have been chosen to not conflict with those of the other _Challenge Decks_. 
+
+A particularly useful section of a deck's Play Tips is _Suggested Sites for Resources_. These have been specially selected to minimize conflicts between available sites. For example, Moria is a greater item site. However, it is the only site where _Book of Mazarbul_ is playable. For the two decks with _Book of Mazarbul_, the _Suggested Sites_ do not list Moria as an option for those decks' greater items. In general, multiple sites are listed for a particular resource, try to use the first one, everything else being equal. Site options listed later tend to also be useful for other resources in the deck. Be aware that certain resources, especially those from the sideboard, can be played during your second deck cycle. When you exhaust your deck, all of your discarded sites becomes available again for the following cycle.
+
+{: .text-center}
 ## <mecd>A</mecd> – STEWARDS OF GONDOR
 
+{: .text-center .text-beta }
+SARUMAN'S CHALLENGE DECK
+
+With Saruman's deck, Glorfindel and a group of Hobbits travel into the civilized confines of GOndor, south of the White Mountains, to rally mannish factions against Sauron's hosts. The deck relies heavily on attack avoidance. The hazards mix is pure Orc/Troll strategy.
+
+#### Starting Company (2)
+
+ - Glorfindel II controls Anborn
+ - Fatty, Sam, and Adrazar form the second company.<br>Farry has _Cram_ and Adrazar has _Horn of Arnor_.
+
+#### Suggested Sites for Resources
+
+_Glamdring_—Glittering Caves, Isle of the Ulond, Moria, or Tolfalas
+
+_Hauberk of Bright Mail_ (x2)—Glittering Caves, Isle of the Ulond, or Tolfalas.
+
+_Knights of Dol Amroth_—Dol Amroth
+
+_Men of Anfalas_—Lond Galen
+
+_Men of Anorien_—Pelargir
+
+_Palantir of Orthanc_—Isengard
+
+_Rangers of Ithilien_—Henneth Annun
+
+_Sapling of the White Tree_—Glittering Caves, Isle of the Ulond, or Tolfalas.
+
+_Scroll of Isildur_—Tolfalas or Moria
+
+_Treebeard_—Wellinghall
+
+_Riders of Rohan_(sideboard)—Edoras
+
+_The White Tree_ (sideboard)—Minas Tirith
+
+#### Resource Play
+
+As quickly as possible, Adrazar and the Hobbits need find themselves in Gondor so that Adrazar can recruit factions. Stopping at the Glittering Caves along the way to pick up a major item is ideal. Glorfindel and Anborn can pick up other resources as needed.
+
+#### Saruman
+
+During the first free organiation phase after bringing Saruman into play, tap him to bring _Vanishment_, _Wizard's Laughter_, and _Wizard Uncloaked_ from the sidebaord to the discard pile. He can then tap to take one of these spells to your hand as needed.
+
+Consider bringing Saruman into play at Isengard. This allows him to play the _Palantir of Orthanc_, and to use it, without moving. When using the Palantir, Saruman needs other characters in his company to support his corruption checks. You may consider moving Saruman to Wellinghall—as it is safer—if he wishes to use the Palantir every turn.
+
+In general, Saruman has plenty of tasks that require him to tap. If you lose key characters and need Saruman's presence in the field, give the Palantir to another character and bring _Align Palantir_ in from the sideboard. A Hobbit is always a good choice to use an aligned Palantir.
+
+#### Hazard Play
+
+A major aspect of an Orc/Troll strategy is forcing so many combat rolls on your opponent that statistically some strikes are bound to be successful, even if the prowesses seem weak. The creatures in this deck have a high frequency of play, so it is usually a safe gambit to built them up in your hand waiting for a _Minions Stir_ or _Two or Three Tribes Present_.
+
+#### Sideboard
+
+After playing _Sapling of the White Tree_, tap Saruman to bring in _The White Tree_ from your sideboard. After playing _Palantir of Orthanc_, you probably want _Align Palantir_. On the hazard end of things, your sideboard has the potential of destroying a Wizard opponent's general influence. This makes your opponnet vulnerable to _Muster Disperses_ and to your influence attempts against his marshalling point sources. If you recognize early in the game that your opponent is played many factions, you may want to dedicate _An Unexpected Outpost_ to bringing these hazards into your play deck. Use _An Unexpected Outpost_ to recycle _Minions Stir_ and _Doors of Night_ otherwise.
+
+{: .text-center }
 ## <mecd>B</mecd> – RELEASE THE PRISONERS
+
+{: .text-center .text-beta }
+ALATAR'S CHALLENGE DECK
+
+Elrond leads Alatar's companies into the Orc-holds of the mountains surrounding Rivendell. Their errand is to rescue Free People captives and recover stolen items. _Gates of Morning_ and strong warriors see them through. The hazards feature a classic mix of corruption with Undead. 
+
+#### Starting Company
+
+ - Elrond controls Elladan. Erkenbrand controls Orophin. Elrond has _Cram_ and Erkenbrand has _Shield of Iron-bound Ash_. If you have multiple site-tapping resources for your initial draw, consider starting them as 2 companies: Elrond and Elladan, Erkenbrand and Orophin.
+
+#### Suggested Sites for Resources
+
+#### Resource Play
+
+#### Alatar
+
+#### Hazard Play
+
+#### Sideboard
 
 ## <mecd>C</mecd> – DWARVEN QUEST
 
+#### Suggested Sites for Resources
+
+#### Resource Play
+
+#### (Avatar)
+
+#### Hazard Play
+
+#### Sideboard
+
 ## <mecd>D</mecd> – BARGAIN BETWEEN FRIENDS
+
+#### Suggested Sites for Resources
+
+#### Resource Play
+
+#### (Avatar)
+
+#### Hazard Play
+
+#### Sideboard
 
 ## <mecd>E</mecd> – RETURN OF THE KING
 
+#### Suggested Sites for Resources
+
+#### Resource Play
+
+#### (Avatar)
+
+#### Hazard Play
+
+#### Sideboard
+
 ## <mecd>F</mecd> – SPIES AND TRAITORS
+
+#### Suggested Sites for Resources
+
+#### Resource Play
+
+#### (Avatar)
+
+#### Hazard Play
+
+#### Sideboard
 
 ## <mecd>G</mecd> – MARAUDING BROOD OF UGLIES
 
+#### Suggested Sites for Resources
+
+#### Resource Play
+
+#### (Avatar)
+
+#### Hazard Play
+
+#### Sideboard
+
 ## <mecd>H</mecd> – STEALTHY TRIBE
+
+#### Suggested Sites for Resources
+
+#### Resource Play
+
+#### (Avatar)
+
+#### Hazard Play
+
+#### Sideboard
 
 ## <mecd>I</mecd> – MORGUL RALLYING CRY
 
+#### Suggested Sites for Resources
+
+#### Resource Play
+
+#### (Avatar)
+
+#### Hazard Play
+
+#### Sideboard
+
 ## <mecd>J</mecd> – SECUDING NATIONS OF MEN
+
+#### Suggested Sites for Resources
+
+#### Resource Play
+
+#### (Avatar)
+
+#### Hazard Play
+
+#### Sideboard
 
 ## SYMBOL KEY
 
