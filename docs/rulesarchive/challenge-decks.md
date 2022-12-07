@@ -10,8 +10,8 @@ search_exclude: true
 <style>
   em {
   font-style: normal;
-  font-weight: bold;
-  font-family: Roboto;
+  font-weight: 900;
+  font-family: sans-serif;
 }
 </style>
 
