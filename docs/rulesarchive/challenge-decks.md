@@ -497,7 +497,7 @@ You exhaust your deck when you draw the final card from it. Discard any cards th
 
 ## INTRODUCTION
 
-## A — STEWARDS OF GONDOR
+## <span style="font-family: Roboto">A</span> — STEWARDS OF GONDOR
 
 ## B — RELEASE THE PRISONERS
 
