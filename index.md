@@ -17,9 +17,9 @@ permalink: /
 - [x] Empty larder and cask
 - [x] Be conscientious in the impossible task
 - [x] Maintain textual integrity 
-- [ ] Identify changes to the present text
-- [ ] Explain archaic or unusual words
-- [ ] Explore literary and historical influences
+- [x] Identify changes to the present text
+- [x] Explain archaic or unusual words
+- [x] Explore literary and historical influences
 - [ ] Note connections with other writings
 - [ ] Comment on differences in published forms
 - [ ] Light the beacons
