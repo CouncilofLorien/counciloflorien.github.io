@@ -106,7 +106,7 @@ Resources have a copper background in Wizard decks, and a grey-blue steel backgr
 
 Before you play the game, you must separate you cards into the appropriate decks. You also need a pair of six sided dice.
 
-First, take all of the site cards (with the map card back) and set them aside as your location deck. Then check the Play Tips (p. 27) to see what cards belong in your charting company. Put your starting company in front of you, with the site card Rivendell (for a Wizard deck) from your location deck or Minas Morgul or Dol Guldur (for a Ringwraith deck). Set your sideboard off to the side for the moment. These are the 20 cards with teh white letter of the deck on a black circle.
+First, take all of the site cards (with the map card back) and set them aside as your location deck. Then check the Play Tips (p. 27) to see what cards belong in your charting company. Put your starting company in front of you, with the site card Rivendell (for a Wizard deck) from your location deck or Minas Morgul or Dol Guldur (for a Ringwraith deck). Set your sideboard off to the side for the moment. These are the 20 cards with the white letter of the deck on a black circle.
 
 Shuffle together all of the remaining cards. These cards are your play deck. Let your opponent cut your deck, and draw eight cards for your starting hand.
 
@@ -627,81 +627,135 @@ The undead are fairly effortless to play. You can increase the threat of the cor
 
 After playing the _Book of Mazarbul_, tap Alatar to bring in the _Blue Mountain Dwarves_. Try to both store the item and recruit the faction with one trip to the Dwarf-hold. Of course, storing this item before the Free Council begins is the most important thing.
 
+{: .text-center }
 ## <mecd>C</mecd> – DWARVEN QUEST
 
 {: .text-center }
 PALLANDO'S CHALLENGE DECK
 
+With the prompting of Pallando, Thorin II leads a company of Dwarves into the Dragon lairs and Shadow-lands east of the Misty Mountains in a quest for their people. The Dwarves operate with a good mix of fighting enhancement and attack avoidance. The hazards are Animals and Wolves.
+
+#### Starting Company
+
+ - Thorin controls Kili and Dori. Gloin controls Oin.<br>Thorin and Oin have the _Crams_.
+
 #### Suggested Sites for Resources
 
-__—
+_Bow of Dragon-horn_—Ovir Hollow or with _Bounty of the Hoard_.
 
-__—
+_Book of Mazarbul_—Moria \[storing it at the Blue Mountain Dwarf-hold]
 
-__—
+_Durin's Axe_—Sarn Goriwing or Buhr Widu
 
-__—
+_Enruned Shield_—Caves of Ulund or The Lonely Mountain
 
-__—
+_Gollum_—Goblin-gate
 
-__—
+_Hauberk of Bright Mail_—Sarn Goriwing or Buhr Widu
 
-__—
+_Iron Hill Dwarves_—Iron Hill Dwarf-hold
 
-__—
+_Magical Harp_—Ovir Hollow or with _Bounty of the Hoard_.
 
-__—
+_Men of Dorwinion_—Shrel-Kain
 
-__—
+_Quickbeam_—Wellinghall
+
+_Wormsbane_—Dead Marshes, Caves of Ulund, or The Lonely Mountain
+
+_Blue Mountain Dwarves_ (sideboard)—Blue Mountain Dwarf-hold
 
 #### Resource Play
 
-#### (Avatar)
+This deck is loaded with items giving strong tactical advantages in play. Corruption is a natural danger when playing a large number of items, so take the time to play both _Fellowships_.
+
+In a deck using one large company, resources that allow multiple marshalling point sources to be played in one turn are needed for speed. This deck has three: _Bounty of the Hoard_, _Lucky Search_, and _Thror's Map_. Take special care to use these to their full advantage. _Thror's Map_ is the most powerful of the bunch so never discard it. Note that _Lucky Search_ can only be played at Dead Marshes, Goblin-gate, Moria, or Sarn Goriwing—not at a Dragon's Lair.
+
+This deck can fight creatures for marshalling points or cancel the overwhelming threats. After the first few risky turns, the Dwarven company should be in a comfortable position when attacked.
+
+#### Pallando
+
+Pallando should move to Lorien and form a company there from the play deck. This company is responsible for playing the two allies and the _Book of Mazarbul_—if not played with the Dwarves on an early turn. Otherwise, Pallando should not move unless you can properly protect him with tactical options from your hand. After playing _Quickbeam_, relocate Pallando's company to Rivendell. Tap Pallando to bring the _Blue Mountain Dwarves_ into the play deck. His company should be in a convenient position to move to the Blue Mountain Dwarf-hold to store the _Book of Mazarbul_ and play this faction.
 
 #### Hazard Play
 
+The hazards attempt to swarm an opponent with high frequency of play creatures. Do not underestimate the role of _Neeker-breekers_. The greatest threars are the spiders and _Watchers in the Water_ enhanced with _Full of Froth and Rage_ and _Wake of War_. The hazards also have a roadblock subtheme that fills out its blind spots in the dark areas against Ringwraith opponents.
+
 #### Sideboard
 
+The sideboard for this deck is not as important as with other Challenge Decks. The most important play is bringing in the _Blue Mountain Dwarves_ after playing the _Book of Mazarbul_. If you believe your opponent has any sort of Dragon or Drake creatures, bring in _The Old Thrush_. 
+
+{: .text-center }
 ## <mecd>D</mecd> – BARGAIN BETWEEN FRIENDS
 
 {: .text-center }
 RADAGASTS'S CHALLENGE DECK
 
+Along with Beorn, Gimli and Legolas, an unlikely duo of Dwarf and Elf, carry out missions of diplomacy in the hostile territories north of Mordor. Potent combat abilities with some subtle attack avoidance characterizes these heroes of Radagast. The hazards feature ranks of roguish Men.
+
+#### Starting Companies (2)
+
+ - Beorn, Gimli, and Legolas form one company. Beorn has _Black Arrow_ and Legolas has _Cram_.
+ - Halbarad starts by himself and should stay in Rivendell.
+
 #### Suggested Sites for Resources
 
-__—
+_Beornings_—Beorn's House
 
-__—
+_Bow of the Galadhrim_—Buhr Widu, Raider-hold, or Gobel Mirlond
 
-__—
+_Easterlings_—Easterling Camp
 
-__—
+_Iron Hill Dwarves_—Iron Hill Dwarf-hold
 
-__—
+_Men of Dorwinion_—Shrel-Kain
 
-__—
+_Noble Hount_ (x2)—tapped Easterling Camp, Dale, Gobel Mirlond, Raider-hold, or Shrel-Kain
 
-__—
+_Noble Steed_ (x3)—tapped Buhr Widu, Easterling Camp, Dale, Gobel Mirlond, Raider-hold, or Shrel-Kain
 
-__—
+_Orcrist_—Dead Marshes or Moria
 
-__—
+_Torque of Hues_—Buhr Widu, Raider-hold, or Gobel Mirlond
 
-__—
+_Wood-elves_—Thranduil's Halls
+
+_Great-shield of Rohan_ (sideboard)—Buhr Widu, Raider-hold, or Gobel Mirlond
+
+_Men of Dale_ (sideboard)—Dale
+
+_Wain-easterlings_ (sideboard)—Easterling Camp (during the 2nd deck cycle)
 
 #### Resource Play
 
-#### (Avatar)
+The diplomat skill rises to the forefront in Radagast's deck. You should only begrudgingly discard _New Friendships_. This card helps with corruption checks, influence attempts, and _Flatter a Foe_, which can devastate a well planned turn of hazards.
+
+Try to play _Forewarned is Forearmed_ only in response to the play of a creature or automatic-attacks it affects. You do not want an opponent to have an easy shot at killing your _Assassin_.
+
+#### Radagast
+
+Radagast must play an active role for this deck to succeed. He certainly should move through Wilderness to draw extra cards, but do not feel you should maximize the Wildernesses in his site path or draw all the cards he has coming. You can always draw cards one at a time and determine the potential of each before choosing to burden your hand with more. If Radagast does not keep the card drawing in check, you will draw more marshalling point sources than you can play in one turn. This forces you to discard hazards or resource tactical options while you wait to play the marshalling points. If you discard the marshalling points instead, you may not be able to accumulate enough when later turns arrive.
+
+Radagast's direct influence should be used to control characters as soon as possible in order to free general influence. Until this happens, the deck is vulnerable to _Muster Disperses_ and influence attempts by an opponent. The fact that he and a follower or two form a second company allows you to play more resources from your hand. His special ability then allows you to draw the next round of marshalling points–or a good complement of hazards–more regularly.
 
 #### Hazard Play
 
+This deck has what possibly is the best creature in the game, _Assassin_. If the option is available, use _Thrice Outnumbered_ to recycle _Assassin_ (unless you know your opponent is not going near its keyable sites).
+
 #### Sideboard
 
+Against a corruption strategy, tap Radagast to bring in _Glamour of Surpassing Excellence_ as soon as possible. This card is more effective against corruption than meets the eye.
+
+The Dragon Ahunt cards offer a nice opportunity against opponents who travel consistently in their affected regions, so quickly bring these in once you recognize you are playing the right opponent. 
+
+{: .text-center }
 ## <mecd>E</mecd> – RETURN OF THE KING
 
 {: .text-center }
 GANDALF'S CHALLENGE DECK
 
+#### Starting Company
+
 #### Suggested Sites for Resources
 
 __—
@@ -726,17 +780,20 @@ __—
 
 #### Resource Play
 
-#### (Avatar)
+#### Gandalf
 
 #### Hazard Play
 
 #### Sideboard
 
+{: .text-center }
 ## <mecd>F</mecd> – SPIES AND TRAITORS
 
 {: .text-center }
 ADUNAPHEL'S CHALLENGE DECK
 
+#### Starting Company
+
 #### Suggested Sites for Resources
 
 __—
@@ -767,11 +824,14 @@ __—
 
 #### Sideboard
 
+{: .text-center }
 ## <mecd>G</mecd> – MARAUDING BROOD OF UGLIES
 
 {: .text-center }
 DWAR'S CHALLENGE DECK
 
+#### Starting Company
+
 #### Suggested Sites for Resources
 
 __—
@@ -802,11 +862,14 @@ __—
 
 #### Sideboard
 
+{: .text-center }
 ## <mecd>H</mecd> – STEALTHY TRIBE
 
 {: .text-center }
 HOARMURATH'S CHALLENGE DECK
 
+#### Starting Company
+
 #### Suggested Sites for Resources
 
 __—
@@ -837,11 +900,14 @@ __—
 
 #### Sideboard
 
+{: .text-center }
 ## <mecd>I</mecd> – MORGUL RALLYING CRY
 
 {: .text-center }
 THE WITCH-KING'S CHALLENGE DECK
 
+#### Starting Company
+
 #### Suggested Sites for Resources
 
 __—
@@ -872,10 +938,13 @@ __—
 
 #### Sideboard
 
+{: .text-center }
 ## <mecd>J</mecd> – SECUDING NATIONS OF MEN
 
 {: .text-center }
 INDUR'S CHALLENGE DECK
+
+#### Starting Company
 
 #### Suggested Sites for Resources
 
