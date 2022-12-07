@@ -497,25 +497,25 @@ You exhaust your deck when you draw the final card from it. Discard any cards th
 
 ## INTRODUCTION
 
-## <span style="font-family: Roboto">A</span> — STEWARDS OF GONDOR
+## **A** – STEWARDS OF GONDOR
 
-## B — RELEASE THE PRISONERS
+## **B** – RELEASE THE PRISONERS
 
-## C — DWARVEN QUEST
+## **C** – DWARVEN QUEST
 
-## D — BARGAIN BETWEEN FRIENDS
+## **D** – BARGAIN BETWEEN FRIENDS
 
-## E — RETURN OF THE KING
+## **E** – RETURN OF THE KING
 
-## F — SPIES AND TRAITORS
+## **F** – SPIES AND TRAITORS
 
-## G — MARAUDING BROOD OF UGLIES
+## **G** – MARAUDING BROOD OF UGLIES
 
-## H — STEALTHY TRIBE
+## **H** – STEALTHY TRIBE
 
-## I — MORGUL RALLYING CRY
+## **I** – MORGUL RALLYING CRY
 
-## J — SECUDING NATIONS OF MEN
+## **J** – SECUDING NATIONS OF MEN
 
 ## SYMBOL KEY
 
