@@ -515,7 +515,7 @@ A particularly useful section of a deck's Play Tips is _Suggested Sites for Reso
 {: .text-center}
 ## <mecd>A</mecd> – STEWARDS OF GONDOR
 
-{: .text-center .text-beta }
+{: .text-center .text-gamma }
 SARUMAN'S CHALLENGE DECK
 
 With Saruman's deck, Glorfindel and a group of Hobbits travel into the civilized confines of GOndor, south of the White Mountains, to rally mannish factions against Sauron's hosts. The deck relies heavily on attack avoidance. The hazards mix is pure Orc/Troll strategy.
@@ -574,7 +574,7 @@ After playing _Sapling of the White Tree_, tap Saruman to bring in _The White Tr
 {: .text-center }
 ## <mecd>B</mecd> – RELEASE THE PRISONERS
 
-{: .text-center .text-beta }
+{: .text-center .text-gamma }
 ALATAR'S CHALLENGE DECK
 
 Elrond leads Alatar's companies into the Orc-holds of the mountains surrounding Rivendell. Their errand is to rescue Free People captives and recover stolen items. _Gates of Morning_ and strong warriors see them through. The hazards feature a classic mix of corruption with Undead. 
