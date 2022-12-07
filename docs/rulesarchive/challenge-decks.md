@@ -7,6 +7,12 @@ permalink: /rules-archive/challenge-decks
 search_exclude: true
 ---
 
+<style>
+  em {
+  font-style: bold;
+}
+</style>
+
 <details markdown="block">
   <summary>
    CONTENTS
@@ -25,6 +31,7 @@ search_exclude: true
 {: .counsel }
 > The rulesbooks in the Rules Arrchive reflect the published text without any errata. However, they do have minor corrections to typographical, clerical, and typesetting issues in the original text. Such corrections are <b>not</b> annotated.
 </details>
+
 ---
 
 # MIDDLE-EARTH: CHALLENGE DECKS
@@ -497,7 +504,7 @@ You exhaust your deck when you draw the final card from it. Discard any cards th
 
 ## INTRODUCTION
 
-## **A** – STEWARDS OF GONDOR
+## <em>A</em> – STEWARDS OF GONDOR
 
 ## **B** – RELEASE THE PRISONERS
 
