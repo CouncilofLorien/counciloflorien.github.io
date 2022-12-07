@@ -8,7 +8,7 @@ search_exclude: true
 ---
 
 <style>
-  em {
+  mecd {
   font-style: normal;
   font-weight: 900;
   font-family: sans-serif;
@@ -420,7 +420,7 @@ Then, the defender makes a roll and adds his modified prowess:
  - If this result is equal to the strike's final prowess. the strike was in _effectual_. Nothing happens.
  - Otherwise, the strike was _successful_. The target character is wounded and must make a body check.
 
-[^endofturn]
+(End-of-Turn Phase)[^endofturn]
 
 # • PART III •<br>SPECIAL SITUATIONS
 
@@ -506,25 +506,25 @@ You exhaust your deck when you draw the final card from it. Discard any cards th
 
 ## INTRODUCTION
 
-## <em>A</em> – STEWARDS OF GONDOR
+## <mecd>A</mecd> – STEWARDS OF GONDOR
 
-## <em>B</em> – RELEASE THE PRISONERS
+## <mecd>B</mecd> – RELEASE THE PRISONERS
 
-## <em>C</em> – DWARVEN QUEST
+## <mecd>C</mecd> – DWARVEN QUEST
 
-## <em>D</em> – BARGAIN BETWEEN FRIENDS
+## <mecd>D</mecd> – BARGAIN BETWEEN FRIENDS
 
-## <em>E</em> – RETURN OF THE KING
+## <mecd>E</mecd> – RETURN OF THE KING
 
-## <em>F</em> – SPIES AND TRAITORS
+## <mecd>F</mecd> – SPIES AND TRAITORS
 
-## <em>G</em> – MARAUDING BROOD OF UGLIES
+## <mecd>G</mecd> – MARAUDING BROOD OF UGLIES
 
-## <em>H</em> – STEALTHY TRIBE
+## <mecd>H</mecd> – STEALTHY TRIBE
 
-## <em>I</em> – MORGUL RALLYING CRY
+## <mecd>I</mecd> – MORGUL RALLYING CRY
 
-## <em>J</em> – SECUDING NATIONS OF MEN
+## <mecd>J</mecd> – SECUDING NATIONS OF MEN
 
 ## SYMBOL KEY
 
