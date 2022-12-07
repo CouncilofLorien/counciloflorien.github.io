@@ -9,7 +9,8 @@ search_exclude: true
 
 <style>
   em {
-  font-style: bold;
+  font-style: normal;
+  font-weight: bold;
 }
 </style>
 
