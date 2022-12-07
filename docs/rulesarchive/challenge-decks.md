@@ -758,7 +758,7 @@ Gandalf sends Aragorn and Arwen into the lands along the Anduin River to find lo
 
 #### Starting Companies (2)
 
- - Aragorn controls Arwen. Arwen starts with _Star-glass.
+ - Aragorn controls Arwen. Arwen starts with _Star-glass_.
  - Faramir controls Annalena. Faramir starts with _Elf-stone_.
 
 #### Suggested Sites for Resources
@@ -820,33 +820,45 @@ Adunapehl sends traitorous bands bent upon thievery and espionage into the untai
 
 #### Suggested Sites for Resources
 
-__—
+_The Least of Gold Rings_ (x2)—Bandit Lair, Beorn's House, Edoras, Moria, of Thranduil's Halls
 
-__—
+_Red Book of Westmarch_—Bag End \[storing it at Barad-dur]
 
-__—
+_Secrets of their Forging_ (x2)—Dimrill Dale, The Worthy Hills, Eagles' Eyrie, or Thranduil's Halls
 
-__—
+_Stinker_—Goblin-gate
 
-__—
+_That's Been Heard Before Tonight_ (x2)—Eagles' Eyrie, Thranduil's Halls, or Bag End
 
-__—
+_To Satisfy the Questioner_ (x2)—Eagles' Eyrie, Beorn's House, Edoras, or Thranduil's Halls
 
-__—
+_Woses of the Eryn Vorn_—The Worthy Hills
 
-__—
+_Goblins of Goblin-gate_ (sideboard)—Goblin-gate (2nd deck cycle)
 
-__—
+_Orcs of Moria_ (sideboard)—Moria
 
-__—
+_Regiment of Black Crows_ (sideboard)—The Worthy Hills, Dimrill Dale, or Bandit Lair
 
 #### Resource Play
 
-#### (Avatar)
+Adunaphel's deck has many resources that need one or more extra turns of preparation before awarding marshalling points. This makes the deck slow and requires holding cards in hand for along time. What is more, unlucky dice rolling can devastate this deck. The only consolation is that your marshalling point sources are generous, and that successfully playing this deck can be very rewarding. Amassing marshalling points from characters is key, so consider seriously the play of sources of extra influence.
+
+It is not necessary to play both Dwarven Rings. In fact, they appear in duplicate to ease the plight of playing one. Make a reasonable effort to play both, but not at the expense of attack avoidance or reasier marshalling points sources. Give the first Dwarven Ring to Asternak. He should try to influence the Wose faction with either the Dwarven Ring or _Join with that Power_.
+
+Note that _Deeper Shadow_ cancels and discards the second hazard against a moving 2-character company containing Ciryaher.
+
+#### Adunapehl
+
+Adunaphel's role is simple. She sits in Dol Guldur and cancels one attack a turn. However, you have many attack avoidance cards. During organization phases where you have 3 or more such cards in hand (including _Deeper Shadow_), she should tap to bring a resource in from the sideboard. Evaluate your opponent's hazards or your own marshalling point needs to make this choice. Recognizing when you do not need her attack cancellation is critical to this deck's success.
 
 #### Hazard Play
 
+To complement your difficult resource strategy is a deadly mix of Drake hazards. Key to successfully using them is knowning both what and how to recycle with _From the Pits of Angband_. Sending a drake back to your hand with _Doors of Night_ is not always best, especially with a resource strategy requiring a lot of cards in hand. Do not hesitate to place a drake with _Summons from Long Sleep_ to get it out of your hand. You do sacrifice its surprise value this way, but you also may cause an opponent to overestimate the threat against him and adjust his movement accordingly.
+
 #### Sideboard
+
+During your opponent's first untap phase when you have few hazards in hand, half his hazard limit. Then bring _Itangast Ahunt_, _Sand-drake_, and _True Cold-drake_ to your discard pile. These cards will be available options when _From the Pits of Angband_ hits the table.
 
 {: .text-center }
 ## <mecd>G</mecd> – MARAUDING BROOD OF UGLIES
