@@ -11,6 +11,7 @@ search_exclude: true
   em {
   font-style: normal;
   font-weight: bold;
+  font-family: Roboto;
 }
 </style>
 
@@ -507,23 +508,23 @@ You exhaust your deck when you draw the final card from it. Discard any cards th
 
 ## <em>A</em> – STEWARDS OF GONDOR
 
-## **B** – RELEASE THE PRISONERS
+## <em>B</em> – RELEASE THE PRISONERS
 
-## **C** – DWARVEN QUEST
+## <em>C</em> – DWARVEN QUEST
 
-## **D** – BARGAIN BETWEEN FRIENDS
+## <em>D</em> – BARGAIN BETWEEN FRIENDS
 
-## **E** – RETURN OF THE KING
+## <em>E</em> – RETURN OF THE KING
 
-## **F** – SPIES AND TRAITORS
+## <em>F</em> – SPIES AND TRAITORS
 
-## **G** – MARAUDING BROOD OF UGLIES
+## <em>G</em> – MARAUDING BROOD OF UGLIES
 
-## **H** – STEALTHY TRIBE
+## <em>H</em> – STEALTHY TRIBE
 
-## **I** – MORGUL RALLYING CRY
+## <em>I</em> – MORGUL RALLYING CRY
 
-## **J** – SECUDING NATIONS OF MEN
+## <em>J</em> – SECUDING NATIONS OF MEN
 
 ## SYMBOL KEY
 
