@@ -574,7 +574,7 @@ After playing _Sapling of the White Tree_, tap Saruman to bring in _The White Tr
 {: .text-center }
 ## <mecd>B</mecd> – RELEASE THE PRISONERS
 
-{: .text-center .text-delta }
+{: .text-center }
 ALATAR'S CHALLENGE DECK
 
 Elrond leads Alatar's companies into the Orc-holds of the mountains surrounding Rivendell. Their errand is to rescue Free People captives and recover stolen items. _Gates of Morning_ and strong warriors see them through. The hazards feature a classic mix of corruption with Undead. 
@@ -585,17 +585,74 @@ Elrond leads Alatar's companies into the Orc-holds of the mountains surrounding 
 
 #### Suggested Sites for Resources
 
+_Book of Mazarbul_—Moria \[storing it at the Blue Mountain Dwarf-hold]
+
+_Goldberry_—Old Forest
+
+_Gollum_—Goblin-gate
+
+_Orcrist_—Carn Dum or Mount Gundabad
+
+_Rangers of the North_—Bree
+
+_Rescue Prisoners_ (x3)—tapped Carn Dum, Mount Gram, Goblin-gate, Moria, or Mount Gundabad.
+
+_Scroll of Isildur_—Carn Dum or Mount Gundabad
+
+_Sword of Gondolin_—Barrow-downs or Zarak Dum
+
+_The Windlord Found Me_—Mount Gram
+
+_Blue Mountain Dwarves_ (sideboard)—Blue Mountain Dwarf-hold
+
+_Great-shield of Rohan_ (sideboard)—Zarak Dum or Barrow-downs
+
 #### Resource Play
+
+Alatar's deck makes active use of _Gates of Morning_. Its most powerful tactic is to cancel and discard the final hazard played against a company with _Many Turns and Doublings_ if _Gates of Morning_ is in play. _Gates of Morning_ provides a natural defense against some of the more powerful hazards that require or benefit from _Doors of Night_.
+
+A patient player can elegantly rise to the threat of most hazards. Take the time to move Elrond to Rivendell to play _Vilya_. Store a _Rescue Prisoners_ as soon as you can to get its character untapped. Do not forget that you can do this at Bree, Old Forest, and the Blue Mountain Dwarf-hold in addition to at a Haven. You will face strong creatures in the mountains, but always consider tapping your characters to face strikes and waiting another turn to play that resource. You should receive many kill marshalling points.
 
 #### Alatar
 
+Alatar works well being active and traveling with his characters. If his company is at a Haven, move it last to give him the option of "teleporting" to another company facing an attack. He has enough direct influence alone to bring any faction into play, but look to give him followers to free general influence in your defense. This deck is vulnerable to _Muster Disperses_.
+
 #### Hazard Play
+
+Play corruption cards as soon as you can. As an exception, consider playing _Lure of Expedience_ on-guard if you feel fairly certain a company will play an item. Then reveal it and place it on the character playing the item. He must make a dangerous corruption check.
+
+The undead are fairly effortless to play. You can increase the threat of the corruption cards by playing _Corpse-candle_ and then _Barrow-wight_ on corruption-laden companies. Hold off playing _Chill Douser_ until you can follow it up with another Undead. If an opponent is moving to a site with an Undead automatic-attack, _Chill Douser_ during the movement/hazard phase should make him think twice about entering the site. Consider this with _The Moon is Dead_ in play. Amassing bonuses to Undead prowesses and strikes during a turn gives its own rewards.
 
 #### Sideboard
 
+After playing the _Book of Mazarbul_, tap Alatar to bring in the _Blue Mountain Dwarves_. Try to both store the item and recruit the faction with one trip to the Dwarf-hold. Of course, storing this item before the Free Council begins is the most important thing.
+
 ## <mecd>C</mecd> – DWARVEN QUEST
 
+{: .text-center }
+PALLANDO'S CHALLENGE DECK
+
 #### Suggested Sites for Resources
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
 
 #### Resource Play
 
@@ -607,7 +664,30 @@ Elrond leads Alatar's companies into the Orc-holds of the mountains surrounding 
 
 ## <mecd>D</mecd> – BARGAIN BETWEEN FRIENDS
 
+{: .text-center }
+RADAGASTS'S CHALLENGE DECK
+
 #### Suggested Sites for Resources
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
 
 #### Resource Play
 
@@ -619,7 +699,30 @@ Elrond leads Alatar's companies into the Orc-holds of the mountains surrounding 
 
 ## <mecd>E</mecd> – RETURN OF THE KING
 
+{: .text-center }
+GANDALF'S CHALLENGE DECK
+
 #### Suggested Sites for Resources
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
 
 #### Resource Play
 
@@ -631,7 +734,30 @@ Elrond leads Alatar's companies into the Orc-holds of the mountains surrounding 
 
 ## <mecd>F</mecd> – SPIES AND TRAITORS
 
+{: .text-center }
+ADUNAPHEL'S CHALLENGE DECK
+
 #### Suggested Sites for Resources
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
 
 #### Resource Play
 
@@ -643,7 +769,30 @@ Elrond leads Alatar's companies into the Orc-holds of the mountains surrounding 
 
 ## <mecd>G</mecd> – MARAUDING BROOD OF UGLIES
 
+{: .text-center }
+DWAR'S CHALLENGE DECK
+
 #### Suggested Sites for Resources
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
 
 #### Resource Play
 
@@ -655,7 +804,30 @@ Elrond leads Alatar's companies into the Orc-holds of the mountains surrounding 
 
 ## <mecd>H</mecd> – STEALTHY TRIBE
 
+{: .text-center }
+HOARMURATH'S CHALLENGE DECK
+
 #### Suggested Sites for Resources
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
 
 #### Resource Play
 
@@ -667,7 +839,30 @@ Elrond leads Alatar's companies into the Orc-holds of the mountains surrounding 
 
 ## <mecd>I</mecd> – MORGUL RALLYING CRY
 
+{: .text-center }
+THE WITCH-KING'S CHALLENGE DECK
+
 #### Suggested Sites for Resources
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
 
 #### Resource Play
 
@@ -679,7 +874,30 @@ Elrond leads Alatar's companies into the Orc-holds of the mountains surrounding 
 
 ## <mecd>J</mecd> – SECUDING NATIONS OF MEN
 
+{: .text-center }
+INDUR'S CHALLENGE DECK
+
 #### Suggested Sites for Resources
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
+
+__—
 
 #### Resource Play
 
