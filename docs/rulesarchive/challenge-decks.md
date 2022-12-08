@@ -1163,9 +1163,6 @@ Dark-domains  |  ![](/assets/images/dark-domain.svg)
 ![](/assets/images/challenge-deck-color-insert-c-400.jpg)
 
 {: .text-center }
-![](/assets/images/IronHillDwarves.png)
-
-{: .text-center }
 ![](/assets/images/challenge-deck-color-insert-g-400.jpg)
 
 {: .text-center }
