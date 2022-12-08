@@ -43,7 +43,6 @@ RULES SUMMARY AND PLAY TIPS
 
 ## INTRODUCTION
 
-
 Welcome to the _MECCG Challenge Decks_. This box contains everything you need, except for a pair of dice, to challenge any opponent to a fun and competitive match of the _Middle-earth Collectible Card Game_ (_MECCG_).
 
 This deck is preconstructed with cards available from the following sets of _MECCG_: _Middle-earth: The Wizards_, _Middle-earth: The Dragons_, _Middle-earth: Dark Minions_, _Middle-earth: The Lidless Eye_, _Middle-earth: Against the Shadow_, and _Middle-earth: The White Hand_. Also, some promotional cards printed through _The White Hand_ were used. The cards were all originally printed as common or uncommon except for 3 rares per deck. The cards were chosen to complement each other in order to achieve maximum success in play, yet be rewarding as the story of the deck unfolds. _Challenge Deck_ cards reflect published card errata and clarifications.
@@ -77,28 +76,26 @@ The game ends when one of the following occurs during play:
  1. If your Wizard or Ringwraith is "eliminated." In this case your opponent automatically wins. As an exception in tournament play, the game continues. However. the player whose Wizard or Ringwraith is eliminated loses five MPs off his final total, and cannot reveal a new Wizard or Ringwraith.
  2. A Wizard player calls the Free Council. The Free Council may be called either:
       - After you have exhausted your play deck for the second time, you may choose to call the council. The council starts at the end of your opponent's next turn. This gives your opponent one last turn to catch up to you.
-      - After you have exhausted your play deck for the first time, you may choose to call the council if you have accumulated at least 25 marshalling points. The council starts at the end of your opponent 's next turn.
+      - After you have exhausted your play deck for the first time, you may choose to call the council if you have accumulated at least 25 marshalling points. The council starts at the end of your opponent's next turn.
       - When each play deck has been exhausted twice, the council starts at the end of the current turn.
  3. A Ringwraith player calls the Audience with Sauron. The audience may be called either:
       - When each play deck has been exhausted twice, the audience starts at the end of the current turn.
-      - After you have exhausted your play deck twice you may choose to play _Sudden Call_ as a resource. If you do so, the audience starts at the end of your opponent 's next turn.
-      - After you have exhausted your play deck for the first time, you may choose to play _Sudden Call_ as a resource, if you have at least 25 marshalling points. If you do so, the audience starts at the end of your opponent 's next turn.
+      - After you have exhausted your play deck twice you may choose to play _Sudden Call_ as a resource. If you do so, the audience starts at the end of your opponent's next turn.
+      - After you have exhausted your play deck for the first time, you may choose to play _Sudden Call_ as a resource, if you have at least 25 marshalling points. If you do so, the audience starts at the end of your opponent's next turn.
       - After your opponent has exhausted his deck twice you may play _Sudden Call_ as a hazard. If you do so, the audience is called after your next turn.
       - After your opponent has exhausted his play deck once, if he has at least 25 marshalling points, you may play _Sudden Call_ as a hazard. If you do so, the audience is called after your next turn.
 
 If your opponent has no marshalling points in a category (besides kill and miscellaneous), you may double your points in that category. No more than half of your positive MPs may come from one category.
 
-This is called the two-deck form of play. Other games are possible (METW Rules, p.49; MELE Rules, p.5 1 ).
-
 ## 3 • THE DIFFERENT CARDS
 
 There are four different types of cards in _MECCG_: sites, characters, hazards and resources. Images of the various card types are shown on the color inserts in the center of the book.
 
-Site cards have a map image on the card back, and a white or gray parchment background. The site type is indicated by a symbol in the upper left -hand comer of the card. A key to these symbols is on the back of this booklet. Havens for Wizard players, and Darkhavens for Ringwraith players, are special sites with a star icon in the upper left corner.
+Site cards have a map image on the card back, and a white or gray parchment background. The site type is indicated by a symbol in the upper left-hand comer of the card. A key to these symbols is on the back of this booklet. Havens for Wizard players, and Darkhavens for Ringwraith players, are special sites with a star icon in the upper left corner.
 
 Character cards have a blue background for Wizard decks, and a rusted purplish iron background for Ringwraith decks. Characters in Wizard decks are called heroes, and characters in Ringwraith decks are called minions.
 
-Hazards have a dark gray metal background. These Cards represent obstacles that your companies will face.
+Hazards have a dark gray metal background. These cards represent obstacles that your companies will face.
 
 Resources have a copper background in Wizard decks, and a grey-blue steel background in Ringwraith decks. These cards are your main source of MPs, and they help you overcome hazards.
 
@@ -106,13 +103,13 @@ Resources have a copper background in Wizard decks, and a grey-blue steel backgr
 
 Before you play the game, you must separate you cards into the appropriate decks. You also need a pair of six sided dice.
 
-First, take all of the site cards (with the map card back) and set them aside as your location deck. Then check the Play Tips (p. 27) to see what cards belong in your charting company. Put your starting company in front of you, with the site card Rivendell (for a Wizard deck) from your location deck or Minas Morgul or Dol Guldur (for a Ringwraith deck). Set your sideboard off to the side for the moment. These are the 20 cards with the white letter of the deck on a black circle.
+First, take all of the site cards (with the map card back) and set them aside as your location deck. Then check the Play Tips (p. 27) to see what cards belong in your starting company. Put your starting company in front of you, with the site card Rivendell (for a Wizard deck) from your location deck or Minas Morgul or Dol Guldur (for a Ringwraith deck). Set your sideboard off to the side for the moment. These are the 20 cards with the white letter of the deck on a black circle.
 
 Shuffle together all of the remaining cards. These cards are your play deck. Let your opponent cut your deck, and draw eight cards for your starting hand.
 
 Once both players have separated their decks, shuffled their play decks, and drawn their opening hand, each player should roll two dice. The player with the higher roll must go first.
 
-During the course of play, certain cards will be eliminated, particularly characters. These cards are removed from active play and placed in an _out-of-play pile_. Certain Cards you play for MPs will be placed in a _marshalling point pile_.
+During the course of play, certain cards will be eliminated, particularly characters. These cards are removed from active play and placed in an _out-of-play pile_. Certain cards you play for MPs will be placed in a _marshalling point pile_.
 
 # • PART II •<br>TURN SEQUENCE
 
@@ -131,7 +128,7 @@ Perform the following steps, in this order:
 
 Your organization phase is when you assign your characters into companies, and plan your movement for the next turn. During your organization phase, you may perform the following steps in any order:
 
-- Bring a new character into play at a Haven/Darkhaven or their home site, **or** reveal your Wizard or Ringwraith. A Wizard may be revealed at Rivendell or his home site. A Ringwraith may be revealed at Minas Morgul, Doi Guldur, or his home site.
+- Bring a new character into play at a Haven/Darkhaven or their home site, **or** reveal your Wizard or Ringwraith. A Wizard may be revealed at Rivendell or his home site. A Ringwraith may be revealed at Minas Morgul, Dol Guldur, or his home site.
 - Reorganize your characters and companies, including changing followers and company composition.
 - Transfer and store items.
 - Play a new site card for each company that you want to move.
@@ -157,13 +154,13 @@ Any time two of your companies move to the same non-Haven/non-Darkhaven site, th
 
 During the organization phase, you may transfer items from one character to another character. Both characters must be in the same company, and the character with the item must make a corruption check (p. 22). If the character does not fail the corruption check, the item may be moved to another character.
 
-An item may also be stored at a Haven/Darkhaven. The character must still make a corruption check, and if he does not fail , then the item is placed in your marshalling point pile. Stored items may not be retrieved.
+An item may also be stored at a Haven/Darkhaven. The character must still make a corruption check, and if he does not fail, then the item is placed in your marshalling point pile. Stored items may not be retrieved.
 
 Some resource events may also be stored, as indicated in their card text. No corruption check is required, unless otherwise specified on the card.
 
 ### PLAYING A NEW SITE CARD
 
-You must choose where each company is moving during the organization phase, by placing a new site card with each company. A company does not have to move. If you want to move a company, place the new site card representing their destination face down next to the site card representing their current site. You may look your location deck and pick this card, you do not have to draw it randomly.
+You must choose where each company is moving during the organization phase, by placing a new site card with each company. A company does not have to move. If you want to move a company, place the new site card representing their destination face down next to the site card representing their current site. You may look through your location deck and pick this card, you do not have to draw it randomly.
 
 If you wish to move a company to a site that is face down on the table (for another company), tell your opponent which site the company is moving to. If you wish to move a company to a site that is face up on the table (because another company is also moving there), tell your opponent the company is moving to a face up site.
 
@@ -171,7 +168,7 @@ The new site you choose must meet certain criteria. You may reach a site by eith
 
 #### Starter Movement
 
-If you are at a Haven/Darkhaven, the new site may be a site that lists your current site as its nearest Haven/ Darkhaven. The new site may also be another Haven/ Darkhaven that lists a site path to your current Haven/ Darkhaven.
+If you are at a Haven/Darkhaven, the new site may be a site that lists your current site as its nearest Haven/Darkhaven. The new site may also be another Haven/Darkhaven that lists a site path to your current Haven/Darkhaven.
 
 If you are not at a Haven/Darkhaven, the new site must be the nearest Haven/Darkhaven as listed on the site card.
 
@@ -183,11 +180,11 @@ If you are using region movement, the new site must be within four regions of th
  - The second region is adjacent to the first region on the map (two regions are adjacent if they are separated by one red line edge), and
  - The third region is adjacent to the second region, and
  - The fourth region is adjacent to the third region, and contains the new site.
- - If the 1st, 2nd, or 3rd region contains the new site, do not worry about the other regions . Only consider regions containing the sites, and any intervening regions.
+ - If the 1st, 2nd, or 3rd region contains the new site, do not worry about the other regions. Only consider regions containing the sites, and any intervening regions.
 
 #### Site Paths
 
-A _site path_ is the sequence of regions between a site and its nearest Haven/Darkhaven. Each region in the sequence is indicated by its type, not by its name. For starter movement a company's site path is listed on the left side of the non-Haven/non-Darkhaven card they are moving to or from, or in the text box of the Haven/ Darkhaven if moving between Havens/Darkhavens. For region movement, a company's site path is determined by the regions moved through.
+A _site path_ is the sequence of regions between a site and its nearest Haven/Darkhaven. Each region in the sequence is indicated by its type, not by its name. For starter movement a company's site path is listed on the left side of the non-Haven/non-Darkhaven card they are moving to or from, or in the text box of the Haven/Darkhaven if moving between Havens/Darkhavens. For region movement, a company's site path is determined by the regions moved through.
 
 Site paths are mostly used to determine if an opponent can play a particular creature on a company. Some hazards refer to the site's site path, which is always the one listed on the site card. Havens/Darkhavens have no site path.
 
@@ -196,21 +193,21 @@ Site paths are mostly used to determine if an opponent can play a particular cre
 During this phase do the following in this order:
  
  1. Discard all of your resource long-events.
- 2. Discard all of your opponent 's hazard long-events.
+ 2. Discard all of your opponent's hazard long-events.
  3. If you have any resource long-events in your hand, you may play them at this time.
 
 Resource long-events may only be played during this phase. You play hazard long-events during your opponent's movement/hazard phase.
 
-## 4 • MOVEMENT / HAZARD PHASE
+## 4 • MOVEMENT/HAZARD PHASE
 
 The movement/hazard phase is when your companies move from site to site, and is also when your opponent has a chance to play hazards on your companies. Each of you companies has a movement/hazard phase, even if it does not move. You choose the order to resolve your companies' movement/hazard phases. For each company, follow these steps in order:
 
  1. If the company has a face down site card, turn it over. This is your company's new site, and their current site becomes their site of origin If there is no new site, no cards are drawn. If the new site is a Haven/Darkhaven, each player may draw the number of cards indicated on the site of origin. Otherwise, each player may draw the number of cards indicated on the new site. Each player must draw at least one card.
- 2. Your opponent plays hazards on the company (see below). A number of hazards equal to the company s hazard limit (p. 9) may be played. Hazards may not be played that target another company, or an entity associated with another company. l f a hazard requires the company to return to its site of origin, return the new site card to the location deck (discard it if tapped) and proceed to step 4 (the site of origin becomes its current site). No additional hazards may be played on a company once it returns to its site of origin.
+ 2. Your opponent plays hazards on the company (see below). A number of hazards equal to the company's hazard limit (p. 9) may be played. Hazards may not be played that target another company, or an entity associated with another company. If a hazard requires the company to return to its site of origin, return the new site card to the location deck (discard it if tapped) and proceed to step 4 (the site of origin becomes its current site). No additional hazards may be played on a company once it returns to its site of origin.
  3. Remove the company's site of origin. Discard the site card if it is tapped and not a Haven/Darkhaven. Otherwise, return it to the location deck.
  4. You must discard any cards in excess of eight in your hand; your opponent does the same for his hand. If you have fewer than eight cards, you must draw cards until your hand has eight cards: your opponent does the same for his hand.
 
-Once all of your companies have resolved their movement/ hazard phases, any two of your companies at the same non-Haven/non-Darkhaven site combine (companies at Havens/Darkhavens may combine if they wish). Your companies are now considered to be at their new site (that is, the new site becomes its current site).
+Once all of your companies have resolved their movement/hazard phases, any two of your companies at the same non-Haven/non-Darkhaven site combine (companies at Havens/Darkhavens may combine if they wish). Your companies are now considered to be at their new site (that is, the new site becomes its current site).
 
 ### PLAYING HAZARDS
 
@@ -324,7 +321,7 @@ Playing an ally is similar to an item. Tap an untapped character at an untapped 
 
 ### PLAYING A FACTION
 
-To play a faction, tap one character in the company to make an influence attempt. Roll the dice, add the character 's unused direct influence, any standard modifications for the character's race (heroes) or other factions in play (minions), and any other modifications from other cards. If the result is higher than the number listed on the faction, put the faction in your MP pile, and tap the site. The site does not tap otherwise
+To play a faction, tap one character in the company to make an influence attempt. Roll the dice, add the character's unused direct influence, any standard modifications for the character's race (heroes) or other factions in play (minions), and any other modifications from other cards. If the result is higher than the number listed on the faction, put the faction in your MP pile, and tap the site. The site does not tap otherwise
 
 ### PLAYING MINOR ITEMS
 
@@ -348,7 +345,7 @@ To attempt to influence a character, make a roll and:
  - Subtract your opponent's unused general influence.
  - If the target character is a follower, subtract his controlling character's unused direct influence.
  - Subtract the result of a roll by your opponent.
- - Add any other modifications from special abilities and cards played before the roll .
+ - Add any other modifications from special abilities and cards played before the roll.
  - If you are a Ringwraith and your opponent is a Wizard, or vice versa, subtract five.
 
 If the modified result is greater than the target's mind, the target character and all of his non-follower cards are discarded.
@@ -389,7 +386,7 @@ Company vs. company combat is treated like an attack with a number of strikes eq
 
 Either player may play resources that affect the combat. However, only the defender may play cards that affect the attack as a whole. Hazards may not be played, and have no effect during company vs. company combat.
 
-The attack may be canceled like an ordinary attack. However, cards that cancel attacks from specific race types on! y work if each character in the attacking company has one of the races listed on the card.
+The attack may be canceled like an ordinary attack. However, cards that cancel attacks from specific race types only work if each character in the attacking company has one of the races listed on the card.
 
 #### Assigning Strikes
 
@@ -416,7 +413,7 @@ Next, the attacker makes a roll and adds his modified prowess to get the strikes
 
 Then, the defender makes a roll and adds his modified prowess:
 
- - If this result is greater than the strike 's final prowess, the strike _fails_. The character corresponding to the strike is wounded and must make a body check (p. 15).
+ - If this result is greater than the strike's final prowess, the strike _fails_. The character corresponding to the strike is wounded and must make a body check (p. 15).
  - If this result is equal to the strike's final prowess. the strike was in _effectual_. Nothing happens.
  - Otherwise, the strike was _successful_. The target character is wounded and must make a body check.
 
