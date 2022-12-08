@@ -990,35 +990,53 @@ The Witch-king's mission is to solidify Sauron's forces in Mordor. His minions d
 
 #### Starting Companies (3) at Minas Morgul
 
+ - One Orc Captain controls Ill-favoured Fellow. This company travels to Mount Doom to sit for most of the game.
+ - Horseman in the Night controls Orc Veteran. Horseman in the Night starts with _Blazon of the Eye_. This company travels to Nurniag Camp to sit for most of the game. 
+ - THe other Orc Captain and Orc Brawler form the third company. This Orc Captain starts with _Blazon of the Eye_, and the company travels to Cirith Gorgor to sit for most of the game.
+
 #### Suggested Sites for Resources
 
-__—
+_Asdriags_—Nurniag Camp
 
-__—
+_Blasting Fire_ (x3)—tapped Shadow-hold or Dark-hold
 
-__—
+_Great Bats_ (x3)—tapped Shadow-hold
 
-__—
+_Helm of Fear_—Barad-dur
 
-__—
+_Nurniags_—Nurniag Camp
 
-__—
+_Orcs of the Ash Mountains_—Cirith Gorgor
 
-__—
+_Orcs of Udun_—Cirith Gorgor
 
-__—
+_Palanir of Minas Tirith_—Minas Tirith
 
-__—
+_That Ain't No Secret_ (x3)—Mount Doom
 
-__—
+_Uruk Hai_—Cirith Gorgor
+
+_Vile Fumes_ (x3)—tapped Shadow-hold or Dark-hold
+
+_Black Trolls_ (sideboard)—Cirith Gorgor
+
+_Last Child of Ungoliant_ (sideboard)—Shelob's Lair
 
 #### Resource Play
 
+Play the _Awaiting the Calls_ on the 2 Orc Captains to free enough general influence to bring in more characters. This means you should play _That Ain't No Secret_ on the Ill-favoured FEllow since the Orc Captain at Mount Doom ideally should not move to store this event. The lesser mind characters will "shuttle" between sites, storing resources, delivering _Records Unread_ to Nurniag Camp, etc. Note that the lower mind characters from teh deck can come into play under direct influence at the Dark-holds.
+
 #### The Witch-king
+
+The Witch-king moes with _Fell Rider_ to Minas Tirith to play the Palantir, and to Barad-dur to play _Helm of Fear_. Playing these items requires him to tap twice. Otherwise, the Witch-king, as the deck's only sage, should be untapped to play _Voices of Malice_ to discard _Foolish Words_ or other debilitating hazard permanent-events. _Foolish Words_ can be revealed as an on-guard card in response to an attempt to play a faction. During the site phase, with _Voice of Malice_ in hand, the Witch-king should wait for all faction attempts before himself playing an item. He can always wait another turn to play his item.
 
 #### Hazard Play
 
+This deck has an unusual hazard strategy that often causes great frustration for an opponent—the "Roadblock Strategy." Its goal is to prevent an opponent from reaching his new site or to tap his new site prematurely to prevent the play of resources. An opponent who recognizes this strategy should forget all other sidebarding needs and bring in his anti-roadblock resources. These include _Gates of Morning_, _Skies of Fire_, _Promptings of Wisdom_, and _Piercing All Shadows_. As for your play, the key is your _An Unexpected Outposts_. You must choose your cards to recycle from _Long Winters_, _Snowstorm_, _Doors of Night_, another _An Unexpected Outpost_, and _Twilight_.
+
 #### Sideboard
+
+If _Voices of Malice_ is not in hand, or if you will not try to influence a faction, tap the Witch-king to bring in a resource from the sideboard. _Above the Abyss_ against a Wizard opponent is invaluable. When a company of 3 or more Orcs forms at Minas Morgul, bring in _Last Child of Ungoliant_. You should play her near the end of the first deck cycle. Of course, you will need _Sudden Call_ towards the end of the first cycle. Hazard-wise, bringing in _Foul Fumes_ against certain Wizard opponents can be important. 
 
 {: .text-center }
 ## <mecd>J</mecd> – SECUDING NATIONS OF MEN
@@ -1028,37 +1046,61 @@ INDUR'S CHALLENGE DECK
 
 Indur enlists The Mouth to seduce nations of mannish factions in the less civilized lands surrounding Mordor. Adept in the dark arts of magic, Indur sends along a master of sorcery, Hador, to protect these efforts. The hazards feature corruption with a mix of general creatures. 
 
-#### Starting Company
+#### Starting Company at Dol Guldur
+
+ - The Mouth controls Horseman in the Night. Hador controls Odoacer. The Mouth starts with _Strange Rations_ and Horseman in the Night starts with _Blazon of the Eye_.
 
 #### Suggested Sites for Resources
 
-__—
+_The Arkenstone_—Caves of Ulund of Moria
 
-__—
+_Balchoth_—Raider-hold
 
-__—
+_Corsairs of Rhun_—Raider-hold
 
-__—
+_Easterlings_—Easterling Camp
 
-__—
+_Haradrim_—Southron Oasis
 
-__—
+_High Helm_—The Wind Throne
 
-__—
+_Palantir of Orthanc_—Isengard
 
-__—
+_Scroll of Isildur_—Caves of Ulund or Moria \[storing it at Barad-dur]
 
-__—
+_Southrons_—Southron Oasis
 
-__—
+_Stinker_—Goblin-gate
+
+_Wain-easterlings_—Easterling Camp
+
+_Great Bats_ (sideboard)—tapped Goblin-gate, Moria, or Mount Gundabad
+
+_Grey Mountain Goblins_ (sideboard)—Gondmaeglom
+
+_Orcs of Gundabad_ (sideboard)—Mount Gundabad
 
 #### Resource Play
 
+Your hoal should be to play 5 of the 6 man factions at the 3 Border-holds surrounding Mordor. Essential to playing two at one site is the minor item, _Secret Book_. It may become a chore moving a character to a Border-hold just to untap it with this item, but it is often necessary.
+
+_High Helm_ can help The Mouth or Horseman in the Night with their influence attempts. Pay close attention to the Standard Modifications factions in play give. You may receive more bonuses here than anticipated.
+
+Hador plays a very important part in the success of this deck. He casts a powerful attack avoidance sorcery, _Tormented Earth_. When not needed otherwise, tap another character to help Hador with the corruption check from this spell. Note that Hador can play _Tormented Earth_ even if tapped or wounded. _Slayers_ are a real threar, so save _Ready to His Will_ to make this creature an ally and stop its attacks.
+
+One or more companies of Orcs should form at Dol Guldur. These are responsible for playing most of the non-faction resources. Never hesitate to sacrifice an Orc to a large attack for the greater good of Sauron.
+
 #### Indur
+
+Indur does not move. He uses his special ability to bring discarded _Tormented Earths_ back to your hand quickly. If enough attack avoidance is otherwise in hand, Indur can tap during his organization phase to bring a resource to the play deck. _Poisonous Despair_ works best if taken to teh discard pile first. Indur can bring this to your hand if your opponent brcomes a threat to influence your marshalling points away.
 
 #### Hazard Play
 
+The hazards have a high frequency of play so that the _Secret Books_ cycle into your hand quickly. The creatures will not consistently threaten your opponent, but your corruption should have a profound effect. A prudent opponent will slow down his movement to take time removing the corruption cards; a careless opponent will take costly losses from failed corruption checks.
+
 #### Sideboard
+
+The sideboard contains an additional 8 marshalling points of resources. They work well coming into the deck for the second deck cycle. If your copmanies are in good shape tactically, tap Indur to bring some of them in sooner.
 
 ## SYMBOL KEY
 
