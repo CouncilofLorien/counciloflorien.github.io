@@ -1153,20 +1153,27 @@ Dark-domains  |  ![](/assets/images/dark-domain.svg)
 
 ## CARD DIAGRAMS
 
+{: .text-center }
 ![](/assets/images/challenge-deck-color-insert-a.png)
 
+{: .text-center }
 ![](/assets/images/challenge-deck-color-insert-b.png)
 
+{: .text-center }
 ![](/assets/images/challenge-deck-color-insert-c.png)
 
+{: .text-center }
 ![](/assets/images/challenge-deck-color-insert-g.png)
 
+{: .text-center }
 ![](/assets/images/challenge-deck-color-insert-h.png)
 
 ## MAP OF MIDDLE-EARTH
 
+{: .text-center }
 ![](/assets/images/challenge-deck-color-insert-d-e.png)
 
+{: .text-center }
 ![](/assets/images/challenge-deck-color-insert-f.png)
 
 ---
