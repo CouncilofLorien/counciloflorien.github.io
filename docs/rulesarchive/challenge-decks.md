@@ -747,7 +747,7 @@ Try to play _Forewarned is Forearmed_ only in response to the play of a creature
 
 Radagast must play an active role for this deck to succeed. He certainly should move through Wilderness to draw extra cards, but do not feel you should maximize the Wildernesses in his site path or draw all the cards he has coming. You can always draw cards one at a time and determine the potential of each before choosing to burden your hand with more. If Radagast does not keep the card drawing in check, you will draw more marshalling point sources than you can play in one turn. This forces you to discard hazards or resource tactical options while you wait to play the marshalling points. If you discard the marshalling points instead, you may not be able to accumulate enough when later turns arrive.
 
-Radagast's direct influence should be used to control characters as soon as possible in order to free general influence. Until this happens, the deck is vulnerable to _Muster Disperses_ and influence attempts by an opponent. The fact that he and a follower or two form a second company allows you to play more resources from your hand. His special ability then allows you to draw the next round of marshalling points–or a good complement of hazards–more regularly.
+Radagast's direct influence should be used to control characters as soon as possible in order to free general influence. Until this happens, the deck is vulnerable to _Muster Disperses_ and influence attempts by an opponent. The fact that he and a follower or two form a second company allows you to play more resources from your hand. His special ability then allows you to draw the next round of marshalling points—or a good complement of hazards—more regularly.
 
 #### Hazard Play
 
@@ -806,7 +806,7 @@ Ultimately, you want to give Arwen a _Lesser Ring_. This provides her with enoug
 
 #### Gandalf
 
-One of Gandalf's primary tasks is testing the 3 _Beautiful Gold Rings_ with his special ability. This means Gandalf must be untapped and must have joined the company bearing the ting. It should not strain your hand too much to hold the _Magic Ring of Stealth_ and _Lesser Rings_ waiting for the gold rings and Gandalf's test. Otherwise, in a company with other characters, Gandalf should feel free to move around gathering resources.
+One of Gandalf's primary tasks is testing the 3 _Beautiful Gold Rings_ with his special ability. This means Gandalf must be untapped and must have joined the company bearing the ring. It should not strain your hand too much to hold the _Magic Ring of Stealth_ and _Lesser Rings_ waiting for the gold rings and Gandalf's test. Otherwise, in a company with other characters, Gandalf should feel free to move around gathering resources.
 
 #### Hazard Play
 
@@ -911,9 +911,9 @@ _Sable Shield_ (sideboard)—The Lonely Mountain, Caves of Ulund, Dancing Spire,
 
 #### Resource Play
 
-Dwar's deck is primed for a couple delights only Ringwraith players enjoy: trophies and the Troll trio of Burat, Tuma, and Wuluag. If at all possible, place prophies with the Lieutenant of Morgul. In fact, take any opportunity to increase his direct influence. He has multiple uses for it, such as _I'll Report You_, controlling followings, and recruiting factions. Particularly, you want to maximize the chance of successfully recruiting the _Ice-orcs_. Shagrat has almost the same potential as the Lieutenant in all these respects.
+Dwar's deck is primed for a couple delights only Ringwraith players enjoy: trophies and the Troll trio of Burat, Tuma, and Wuluag. If at all possible, place prophies with the Lieutenant of Morgul. In fact, take any opportunity to increase his direct influence. He has multiple uses for it, such as _I'll Report You_, controlling followers, and recruiting factions. Particularly, you want to maximize the chance of successfully recruiting the _Ice-orcs_. Shagrat has almost the same potential as the Lieutenant in all these respects.
 
-Sacrifice almost any other card to keep members of the Orc trio in hand until playable. In a company together, their benefits are remarkable for the influence they require. The trio in tandem effectively have only a -1 penalty to prowess when not tapping to face a strike. Consider this scenario. Burat and Tuma each face a strike from an attack. Burat does first and taps—with his prowess, the strike likely fails. Tuma face his strike next, but first taps to untap Burat. Tuma has -1 prowess against the strike for being tapped, but Burat has become untaps.
+Sacrifice almost any other card to keep members of the Troll trio in hand until playable. In a company together, their benefits are remarkable for the influence they require. The trio in tandem effectively have only a -1 penalty to prowess when not tapping to face a strike. Consider this scenario. Burat and Tuma each face a strike from an attack. Burat does first and taps—with his prowess, the strike likely fails. Tuma face his strike next, but first taps to untap Burat. Tuma has -1 prowess against the strike for being tapped, but Burat has become untaps.
 
 For the 2 Border-holds there are 2 site-tapping resources: _Gleaming Gold Ring_ and _High Helm_. In order to play the 2 _Burning Rick, Cot, and Trees_, you must use these resources at their designated Border-holds and not leave the sites before burning them down. It is well worth it to discard a few hazards to keep components of the Border-hold combination in hand.
 
@@ -968,7 +968,7 @@ _Vile Fumes_ (x3)—tapped Shadow-hold
 
 _War-wolf_ (x3)—tapped Shadow-hold (except Dead Marshes and Mount Gram)
 
-_Black Mace_ (x2) (sideboard)—tapped Shadow-hold
+_Black Mace_ (x2) (sideboard)—Moria or Caves of Ulund (2nd deck cycle)
 
 _Orcs of Mirkwood_ (sideboard)—Sarn Goriwing
 
@@ -979,7 +979,7 @@ The trickiest aspect of this deck is playing multiple site-tapping resources at 
 
 #### Hoarmurath
 
-Hoarmurath taps every organization phase to bring a resource to the play deck from the sideboard. The only exception is when you have _Voices of Malice_ in your hand—Hoarmurath is your only safe. He does not move from Dol Guldur in any case, increasing your hand size by one. It may be useful to bring in _Fell Rider_ near the end of the first deck cycle. In this way, you have the option of moving Hoarmurath for the second cycle.
+Hoarmurath taps every organization phase to bring a resource to the play deck from the sideboard. The only exception is when you have _Voices of Malice_ in your hand—Hoarmurath is your only sage. He does not move from Dol Guldur in any case, increasing your hand size by one. It may be useful to bring in _Fell Rider_ near the end of the first deck cycle. In this way, you have the option of moving Hoarmurath for the second cycle.
 
 #### Hazard Play
 
