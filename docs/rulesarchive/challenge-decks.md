@@ -1104,7 +1104,41 @@ The sideboard contains an additional 8 marshalling points of resources. They wor
 
 ## SYMBOL KEY
 
+| Region Type | Symbol |
+| :--- | :--- |
+Coastal Seas |   ![](/assets/images/coastalsea.svg)
+Free-domains |   ![](/assets/images/free-domain.svg)
+Border-lands |   ![](/assets/images/border-land.svg)
+Wilderness |   ![](/assets/images/wilderness.svg)
+Shadow-lands |   ![](/assets/images/shadow-land.svg)
+Dark-domains  |  ![](/assets/images/dark-domain.svg)
+
+| Site Type | Symbol |
+| :--- | :--- |
+ Havens  |   ![](/assets/images/free-haven.svg)
+ Free-holds  |  ![](/assets/images/free-hold.svg)
+ Border-holds  |  ![](/assets/images/border-hold.svg)
+ Ruins & Lairs |  ![](/assets/images/ruinlair.svg)
+ Shadow-holds   | ![](/assets/images/shadow-hold.svg)
+ Dark-holds   | ![](/assets/images/dark-hold.svg)
+ 
+ |  Other  |  Symbol | 
+ | :--- | :--- |
+ Mind   |  ![](/assets/images/mind.svg)
+ Direct Influence  |  ![](/assets/images/di.svg)
+
 ## COMBAT MODIFICATIONS
+
+| Condition  |  Modification to Target's Prowess |
+| :--- | :--- |
+ Unwounded, tapped character |  -1
+ Wounded character      |  -2
+ For each unused strike allocated  |  -1
+ Untapped character decides not to tap  | -3
+ For each character tapped to support |  +1
+ Up to 1 resource card requiring skill | varies
+ Other resource cards  |   varies
+ Hazard cards    |    varies
 
 ## CARD DIAGRAMS
 
