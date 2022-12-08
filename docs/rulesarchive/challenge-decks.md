@@ -1168,6 +1168,16 @@ Dark-domains  |  ![](/assets/images/dark-domain.svg)
 {: .text-center }
 ![](/assets/images/challenge-deck-color-insert-h.jpg)
 
+![](/assets/images/challenge-deck-color-insert-a-400.jpg)
+
+![](/assets/images/challenge-deck-color-insert-b-400.jpg)
+
+![](/assets/images/challenge-deck-color-insert-c-400.jpg)
+
+![](/assets/images/challenge-deck-color-insert-g-400.jpg)
+
+![](/assets/images/challenge-deck-color-insert-h-400.jpg)
+
 ## MAP OF MIDDLE-EARTH
 
 {: .text-center }
@@ -1175,6 +1185,10 @@ Dark-domains  |  ![](/assets/images/dark-domain.svg)
 
 {: .text-center }
 ![](/assets/images/challenge-deck-color-insert-f.jpg)
+
+![](/assets/images/challenge-deck-color-insert-d-e-400.jpg)
+
+![](/assets/images/challenge-deck-color-insert-f-400.jpg)
 
 ---
 
