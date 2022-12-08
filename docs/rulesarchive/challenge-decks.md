@@ -433,15 +433,15 @@ Certain situations occur at multiple points in the turn sequence, and are covere
 
 ## 1 • CORRUPTION CHECKS
 
-Each character has a corruption point total. This starts at zero, but certain cards will change this total during play. Only one corruption hazard may be played on a given character each turn. Normally, a character must tap to remove a corruption card. A character may attempt to remove a corruption card without tapping, at - 3 to the roll. If this option is used, only one attempt to remove that corruption card may be made that turn.
+Each character has a corruption point total. This starts at zero, but certain cards will change this total during play. Only one corruption hazard may be played on a given character each turn.
 
 ### CORRUPTION CHECKS
 
-When a card or other effect indicates that one of your characters must make a corruption check. you must make a roll and add any appropriate modifications:
+When a card or other effect indicates that one of your characters must make a corruption check, you must make a roll and add any appropriate modifications:
 
 **Nothing Happens**—If the modified result is greater than the character's corruption point total, nothing happens.
 
-**The Character is Discarded or Tapped**—If the modified result is equal to the character's corruption point total **or** one less than the total, a hero character _fails_ the corruption check and you must discard him along with any non-follower cards he control s. A Wizard failing in this manner is eliminated. If the character is a minion, he is not considered to have failed the check, and is tapped if not already tapped.
+**The Character is Discarded or Tapped**—If the modified result is equal to the character's corruption point total **or** one less than the total, a hero character _fails_ the corruption check and you must discard him along with any non-follower cards he controls. If the character is a minion, he is not considered to have failed the check, and is tapped if not already tapped.
 
 **The Character is Eliminated**—If the modified result is less than the character's corruption point total by two or more, the character _fails_ the corruption check and is eliminated. Discard any non-follower cards he controls.
 
@@ -452,7 +452,7 @@ If a Wizard fails a corruption check, he is immediately eliminated. Ringwraiths 
 Ringwraiths have many special effects, which are summarized below:
 
  - A Ringwraith may only be in a company with non-Ringwraith characters if he is at a Darkhaven.[^ringwraithfollowers]
- - Any ring in the Ringwraith's company at the beginning of the end-of-turn phase. is automatically tested. Any test in a Ringwraith's company has a modification of -2.
+ - Any ring in the Ringwraith's company at the beginning of the end-of-turn phase is automatically tested. Any test in a Ringwraith's company has a modification of -2.
  - A Ringwraith may carry items, but such items have no effect.
  - Ringwraiths never make corruption checks, and corruption hazards may not be played on Ringwraiths.
  - A Ringwraith may not use a site path that contains Coastal Sea regions.
@@ -461,7 +461,7 @@ Ringwraiths have many special effects, which are summarized below:
 
 ## 3 • RING ITEMS
 
-Ring special items are more complicated to play than normal items. First, you must play a gold ring item at an appropriate site. Then you must have a card or effect that tests the gold ring. When you test a gold ring, make a roll. On the gold ring item will be a list of results, and what ring special items you can play. If you have one of the indicated special ring items in your hand, you may replace the gold ring item with the special ring item. In any case, discard the gold ring item when it is tested.
+Ring special items are more complicated to play than normal items. First, you must play a gold ring item at an appropriate site. Then you must have a card or effect that _tests_ the gold ring. When you test a gold ring, make a roll. On the gold ring item will be a list of results, and what ring special items you can play. If you have one of the indicated special ring items in your hand, you may replace the gold ring item with the special ring item. In any case, discard the gold ring item when it is tested.
 
 ## 4 • SIDEBOARDS
 
@@ -479,19 +479,23 @@ Alternatively, if your play deck has at least 5 cards, you may tap your Ringwrai
 
 #### Using Your Sideboard When Your Opponent's Wizard or Ringwraith is in Play
 
-At the end of your opponent's untap phase, if your opponent's Ringwraith or Wizard is in play, you may at this point bring up to five hazard cards from your sideboard to your discard pile; **or**, if your play deck has at least 5 cards, you may bring one hazard card from your sideboard into your play deck (reshuffle). If you move cards from your sideboard in this fashion, the hazard limit for each of your opponent's companies is reduced to half of normal for the rest of the turn (round up).
+At the end of your opponent's untap phase, if your opponent's Ringwraith or Wizard is in play, you may at this point bring up to five hazard cards from your sideboard to your discard pile; **or**, if your play deck has at least 5 cards, you may bring one hazard card from your sideboard into your play deck (reshuffle). 
+
+If you move cards from your sideboard in this fashion, the hazard limit for each of your opponent's companies is reduced to half of normal for the rest of the turn (round up).
 
 ## 5 • TIMING
 
 You and your opponent may both want to perform actions at the same time or actions that are sequenced with respect to other actions. Such actions often include playing a card, tapping a character already in play, and revealing an on-guard card.
 
-Your opponent may always declare an action in response before. your action is resolved. You may respond to each other's actions until neither player can, or wants to, perform an action.
+Your opponent may always declare an action in response before your action is resolved. You may respond to each other's actions until neither player can, or wants to, perform an action.
 
 You must give your opponent a chance to respond to every action, and vice versa. If you perform an action and move on to another action without giving your opponent a chance to respond, you must "back-up" if he wants to respond.
 
 A series of declared actions is called a chain of effects. You always have the option of declaring the first action in a chain of effects during your turn. The actions in a chain of effects are resolved one at a time from last declared to first declared. That is, the last declared action is resolved first, and the first declared action is resolved last. This is called last in first out, or LIFO, order of resolution.
 
-An action in a chain of effects is negated if the conditions required to perform it are negated by another action that is resolved before it in the chain of effects. Creature hazards may not be played in response to other actions. They must always start a chain of effects.
+An action in a chain of effects is negated if the conditions required to perform it are negated by another action that is resolved before it in the chain of effects. 
+
+Creature hazards may not be played in response to other actions. They must always start a chain of effects.
 
 ## 6 • UNIQUE, CANNOT BE DUPLICATED, & MANIFESTATIONS
 
@@ -540,19 +544,21 @@ _Knights of Dol Amroth_—Dol Amroth
 
 _Men of Anfalas_—Lond Galen
 
-_Men of Anorien_—Pelargir
+_Men of Anorien_—Minas Tirith
+
+_Men of Lebennin_—Pelargir
 
 _Palantir of Orthanc_—Isengard
 
 _Rangers of Ithilien_—Henneth Annun
 
-_Sapling of the White Tree_—Glittering Caves, Isle of the Ulond, or Tolfalas.
+_Sapling of the White Tree_—Glittering Caves, Isle of the Ulond, Moria,[^sapling] or Tolfalas.
 
 _Scroll of Isildur_—Tolfalas or Moria
 
 _Treebeard_—Wellinghall
 
-_Riders of Rohan_(sideboard)—Edoras
+_Riders of Rohan_ (sideboard)—Edoras
 
 _The White Tree_ (sideboard)—Minas Tirith
 
@@ -570,11 +576,11 @@ In general, Saruman has plenty of tasks that require him to tap. If you lose key
 
 #### Hazard Play
 
-A major aspect of an Orc/Troll strategy is forcing so many combat rolls on your opponent that statistically some strikes are bound to be successful, even if the prowesses seem weak. The creatures in this deck have a high frequency of play, so it is usually a safe gambit to built them up in your hand waiting for a _Minions Stir_ or _Two or Three Tribes Present_.
+A major aspect of an Orc/Troll strategy is forcing so many combat rolls on your opponent that statistically some strikes are bound to be successful, even if the prowesses seem weak. The creatures in this deck have a high frequency of play, so it is usually a safe gambit to build them up in your hand waiting for a _Minions Stir_ or _Two or Three Tribes Present_.
 
 #### Sideboard
 
-After playing _Sapling of the White Tree_, tap Saruman to bring in _The White Tree_ from your sideboard. After playing _Palantir of Orthanc_, you probably want _Align Palantir_. On the hazard end of things, your sideboard has the potential of destroying a Wizard opponent's general influence. This makes your opponent vulnerable to _Muster Disperses_ and to your influence attempts against his marshalling point sources. If you recognize early in the game that your opponent is played many factions, you may want to dedicate _An Unexpected Outpost_ to bringing these hazards into your play deck. Use _An Unexpected Outpost_ to recycle _Minions Stir_ and _Doors of Night_ otherwise.
+After playing _Sapling of the White Tree_, tap Saruman to bring in _The White Tree_ from your sideboard. After playing _Palantir of Orthanc_, you probably want _Align Palantir_. On the hazard end of things, your sideboard has the potential of destroying a Wizard opponent's general influence. This makes your opponent vulnerable to _Muster Disperses_ and to your influence attempts against his marshalling point sources. If you recognize early in the game that your opponent is playing many factions, you may want to dedicate _An Unexpected Outpost_ to bringing these hazards into your play deck. Use _An Unexpected Outpost_ to recycle _Minions Stir_ and _Doors of Night_ otherwise.
 
 {: .text-center }
 ## <mecd>B</mecd> – RELEASE THE PRISONERS
@@ -1157,3 +1163,4 @@ Dark-domains  |  ![](/assets/images/dark-domain.svg)
 [^endofturn]: The End-of-Turn Phase is missing in the _Challenge Deck_ Rules Summary.
 [^ringwraithfollowers]: The rules on Ringwraith Followers is missing in the _Challenge Deck_ Rules Summary.
 [^modecard]: The requirement that Ringwraith characters be in a "mode" to move to a non-Darkhaven site is missing in the _Challenge Deck_ Rules Summary.
+[^sapling]: The Play Tips for Saruman's deck suggest playing _Sapling of the White Tree_ at Moria but _Sapling_ is "Not playable in a Shadow-hold ![](/assets/images/shadow-hold.svg) or Dark-hold ![](/assets/images/dark-hold.svg)" and Moria is a Shadow-hold.
