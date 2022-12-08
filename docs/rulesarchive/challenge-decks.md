@@ -557,7 +557,7 @@ As quickly as possible, Adrazar and the Hobbits need find themselves in Gondor s
 
 #### Saruman
 
-During the first free organiation phase after bringing Saruman into play, tap him to bring _Vanishment_, _Wizard's Laughter_, and _Wizard Uncloaked_ from the sidebaord to the discard pile. He can then tap to take one of these spells to your hand as needed.
+During the first free organization phase after bringing Saruman into play, tap him to bring _Vanishment_, _Wizard's Laughter_, and _Wizard Uncloaked_ from the sideboard to the discard pile. He can then tap to take one of these spells to your hand as needed.
 
 Consider bringing Saruman into play at Isengard. This allows him to play the _Palantir of Orthanc_, and to use it, without moving. When using the Palantir, Saruman needs other characters in his company to support his corruption checks. You may consider moving Saruman to Wellinghall—as it is safer—if he wishes to use the Palantir every turn.
 
@@ -569,7 +569,7 @@ A major aspect of an Orc/Troll strategy is forcing so many combat rolls on your 
 
 #### Sideboard
 
-After playing _Sapling of the White Tree_, tap Saruman to bring in _The White Tree_ from your sideboard. After playing _Palantir of Orthanc_, you probably want _Align Palantir_. On the hazard end of things, your sideboard has the potential of destroying a Wizard opponent's general influence. This makes your opponnet vulnerable to _Muster Disperses_ and to your influence attempts against his marshalling point sources. If you recognize early in the game that your opponent is played many factions, you may want to dedicate _An Unexpected Outpost_ to bringing these hazards into your play deck. Use _An Unexpected Outpost_ to recycle _Minions Stir_ and _Doors of Night_ otherwise.
+After playing _Sapling of the White Tree_, tap Saruman to bring in _The White Tree_ from your sideboard. After playing _Palantir of Orthanc_, you probably want _Align Palantir_. On the hazard end of things, your sideboard has the potential of destroying a Wizard opponent's general influence. This makes your opponent vulnerable to _Muster Disperses_ and to your influence attempts against his marshalling point sources. If you recognize early in the game that your opponent is played many factions, you may want to dedicate _An Unexpected Outpost_ to bringing these hazards into your play deck. Use _An Unexpected Outpost_ to recycle _Minions Stir_ and _Doors of Night_ otherwise.
 
 {: .text-center }
 ## <mecd>B</mecd> – RELEASE THE PRISONERS
@@ -679,7 +679,7 @@ Pallando should move to Lorien and form a company there from the play deck. This
 
 #### Hazard Play
 
-The hazards attempt to swarm an opponent with high frequency of play creatures. Do not underestimate the role of _Neeker-breekers_. The greatest threars are the spiders and _Watchers in the Water_ enhanced with _Full of Froth and Rage_ and _Wake of War_. The hazards also have a roadblock subtheme that fills out its blind spots in the dark areas against Ringwraith opponents.
+The hazards attempt to swarm an opponent with high frequency of play creatures. Do not underestimate the role of _Neeker-breekers_. The greatest threats are the spiders and _Watchers in the Water_ enhanced with _Full of Froth and Rage_ and _Wake of War_. The hazards also have a roadblock subtheme that fills out its blind spots in the dark areas against Ringwraith opponents.
 
 #### Sideboard
 
@@ -710,7 +710,7 @@ _Iron Hill Dwarves_—Iron Hill Dwarf-hold
 
 _Men of Dorwinion_—Shrel-Kain
 
-_Noble Hount_ (x2)—tapped Easterling Camp, Dale, Gobel Mirlond, Raider-hold, or Shrel-Kain
+_Noble Hound_ (x2)—tapped Easterling Camp, Dale, Gobel Mirlond, Raider-hold, or Shrel-Kain
 
 _Noble Steed_ (x3)—tapped Buhr Widu, Easterling Camp, Dale, Gobel Mirlond, Raider-hold, or Shrel-Kain
 
@@ -791,7 +791,7 @@ _Riders of Rohan_ (sideboard)—Edoras
 
 Untapped scouts can play a crucial part in the success of Gandalf's deck. They provide your main means of attack avoidance by using _Concealments_ and _Stealths_. There are enough weapons in your deck to make Aragorn and a couple of other warriors from the play deck into formidable fighters, so expect to receive a few marshalling points from creature kills.
 
-Ultimately, you want to give Arwen a _Lesser Ring_. This provides her with enough direct influence to control Aragorn. These two form a powerful 2-character company who require only 3 general influence. With _Return of the King_ on Aragorn, he can recruit any faction in the deck virtually automatically. If you play _Tower Guard of Minas Tirith_ before _Return of the King_, be sure to leave a character at Minas Tirith so that the site is still available to play _Return of the King_. _Return of the King_ does not require the site to tap, nor is its play limited ot the site phase.
+Ultimately, you want to give Arwen a _Lesser Ring_. This provides her with enough direct influence to control Aragorn. These two form a powerful 2-character company who require only 3 general influence. With _Return of the King_ on Aragorn, he can recruit any faction in the deck virtually automatically. If you play _Tower Guard of Minas Tirith_ before _Return of the King_, be sure to leave a character at Minas Tirith so that the site is still available to play _Return of the King_. _Return of the King_ does not require the site to tap, nor is its play limited to the site phase.
 
 #### Gandalf
 
@@ -799,7 +799,7 @@ One of Gandalf's primary tasks is testing the 3 _Beautiful Gold Rings_ with his 
 
 #### Hazard Play
 
-The hazards offer a wide variety of creatures with good attacks in a complete range of regions and sites. Except for _Searching Eye_, each hazard is playable on its own, without directly benefiting from another. This means the hazards do not require you to hold cards in hand waiting for an optimal complementary hazard before playing them. If you must discard and have a creature in hand you are not certain you can play soon, discard it and do not look back. The resource stratgy needs all the tactical supporting cards it can get, so freely sacrifice hazards to make room.
+The hazards offer a wide variety of creatures with good attacks in a complete range of regions and sites. Except for _Searching Eye_, each hazard is playable on its own, without directly benefiting from another. This means the hazards do not require you to hold cards in hand waiting for an optimal complementary hazard before playing them. If you must discard and have a creature in hand you are not certain you can play soon, discard it and do not look back. The resource strategy needs all the tactical supporting cards it can get, so freely sacrifice hazards to make room.
 
 #### Sideboard
 
@@ -811,7 +811,7 @@ Tap Gandalf to bring in the 2 factions after playing _Return of the King_. Other
 {: .text-center }
 ADUNAPHEL'S CHALLENGE DECK
 
-Adunapehl sends traitorous bands bent upon thievery and espionage into the untainted domains of the Free Peoples. Her inherent knowledge of these areas provides some cover, but her missions are extremely difficult to carry out. The hazards feature a potent offering of Drakes.
+Adunaphel sends traitorous bands bent upon thievery and espionage into the untainted domains of the Free Peoples. Her inherent knowledge of these areas provides some cover, but her missions are extremely difficult to carry out. The hazards feature a potent offering of Drakes.
 
 #### Starting Companies (2) at Dol Guldur
 
@@ -844,17 +844,17 @@ _Regiment of Black Crows_ (sideboard)—The Worthy Hills, Dimrill Dale, or Bandi
 
 Adunaphel's deck has many resources that need one or more extra turns of preparation before awarding marshalling points. This makes the deck slow and requires holding cards in hand for along time. What is more, unlucky dice rolling can devastate this deck. The only consolation is that your marshalling point sources are generous, and that successfully playing this deck can be very rewarding. Amassing marshalling points from characters is key, so consider seriously the play of sources of extra influence.
 
-It is not necessary to play both Dwarven Rings. In fact, they appear in duplicate to ease the plight of playing one. Make a reasonable effort to play both, but not at the expense of attack avoidance or reasier marshalling points sources. Give the first Dwarven Ring to Asternak. He should try to influence the Wose faction with either the Dwarven Ring or _Join with that Power_.
+It is not necessary to play both Dwarven Rings. In fact, they appear in duplicate to ease the plight of playing one. Make a reasonable effort to play both, but not at the expense of attack avoidance or easier marshalling points sources. Give the first Dwarven Ring to Asternak. He should try to influence the Wose faction with either the Dwarven Ring or _Join with that Power_.
 
 Note that _Deeper Shadow_ cancels and discards the second hazard against a moving 2-character company containing Ciryaher.
 
-#### Adunapehl
+#### Adunaphel
 
 Adunaphel's role is simple. She sits in Dol Guldur and cancels one attack a turn. However, you have many attack avoidance cards. During organization phases where you have 3 or more such cards in hand (including _Deeper Shadow_), she should tap to bring a resource in from the sideboard. Evaluate your opponent's hazards or your own marshalling point needs to make this choice. Recognizing when you do not need her attack cancellation is critical to this deck's success.
 
 #### Hazard Play
 
-To complement your difficult resource strategy is a deadly mix of Drake hazards. Key to successfully using them is knowning both what and how to recycle with _From the Pits of Angband_. Sending a drake back to your hand with _Doors of Night_ is not always best, especially with a resource strategy requiring a lot of cards in hand. Do not hesitate to place a drake with _Summons from Long Sleep_ to get it out of your hand. You do sacrifice its surprise value this way, but you also may cause an opponent to overestimate the threat against him and adjust his movement accordingly.
+To complement your difficult resource strategy is a deadly mix of Drake hazards. Key to successfully using them is knowing both what and how to recycle with _From the Pits of Angband_. Sending a drake back to your hand with _Doors of Night_ is not always best, especially with a resource strategy requiring a lot of cards in hand. Do not hesitate to place a drake with _Summons from Long Sleep_ to get it out of your hand. You do sacrifice its surprise value this way, but you also may cause an opponent to overestimate the threat against him and adjust his movement accordingly.
 
 #### Sideboard
 
@@ -900,11 +900,11 @@ _Sable Shield_ (sideboard)—The Lonely Mountain, Caves of Ulund, Dancing Spire,
 
 #### Resource Play
 
-Dwar's deck is primed for a couple delights only Ringwrwaith players enjoy: trophies and the Troll trio of Burat, Tuma, and Wuluag. If at all possible, place prophies with the Lieutenant of Morgul. In fact, take any opportunity to increase his direct influence. He has multiple uses for it, such as _I'll Report You_, controlling followings, and recruiting factions. Particularly, you want to maximize the chance of successfully recruiting the _Ice-orcs_. Shagrat has almost the same potential as the Lieutenant in all these respects.
+Dwar's deck is primed for a couple delights only Ringwraith players enjoy: trophies and the Troll trio of Burat, Tuma, and Wuluag. If at all possible, place prophies with the Lieutenant of Morgul. In fact, take any opportunity to increase his direct influence. He has multiple uses for it, such as _I'll Report You_, controlling followings, and recruiting factions. Particularly, you want to maximize the chance of successfully recruiting the _Ice-orcs_. Shagrat has almost the same potential as the Lieutenant in all these respects.
 
-Sacrifice almost any other card to keep members of the Orc trio in hand until playable. In a company together, their benefits are remarkable for the influence they trquire. The trio in tandem effectively have only a -1 penalty to prowess when not tapping to face a strike. Consider this scenario. Burat and Tuma each face a strike from an attack. Curat does first and taps—with his prowess, the strike likely fails. Tuma face his strike next, but first taps to untap Burat. Tuma has -1 prowess against the strike for being tapped, but Burat has become untapps.
+Sacrifice almost any other card to keep members of the Orc trio in hand until playable. In a company together, their benefits are remarkable for the influence they require. The trio in tandem effectively have only a -1 penalty to prowess when not tapping to face a strike. Consider this scenario. Burat and Tuma each face a strike from an attack. Burat does first and taps—with his prowess, the strike likely fails. Tuma face his strike next, but first taps to untap Burat. Tuma has -1 prowess against the strike for being tapped, but Burat has become untaps.
 
-For the 2 Border-holds there are 2 site-tapping resources: _Gleaming Gold Ring_ and _High Helm_. In order to play the 2 _Burning Rick, Cot, and Trees_, you must use these resources at their designated Border-holds and not leave the sites ebfore burning them down. It is well worth it to discard a few hazards to keep components of the Border-hold combination in hand.
+For the 2 Border-holds there are 2 site-tapping resources: _Gleaming Gold Ring_ and _High Helm_. In order to play the 2 _Burning Rick, Cot, and Trees_, you must use these resources at their designated Border-holds and not leave the sites before burning them down. It is well worth it to discard a few hazards to keep components of the Border-hold combination in hand.
 
 #### Dwar
 
@@ -916,9 +916,9 @@ Nothing tricky here. Wolves and animals do not hit as hard as other creatures, b
 
 #### Sideboard
 
-Use Dwar to bring the _Minor Ring_ to teh discard pile at his first safe opportunity. It is then available when _Gleaming Gold Ring_ is brought to him for testing. _Orders from Lugburz_ is good for getting the Lieutenant and Shagrat into one monster company.
+Use Dwar to bring the _Minor Ring_ to the discard pile at his first safe opportunity. It is then available when _Gleaming Gold Ring_ is brought to him for testing. _Orders from Lugburz_ is good for getting the Lieutenant and Shagrat into one monster company.
 
-Against a Wizard opponent, consider bringing the _Rebel-talks_ in from teh sideboard and recycling _Stay Her Appetite_. You may remove all of your opponent's allies in this way and double the marshalling points from your allies.
+Against a Wizard opponent, consider bringing the _Rebel-talks_ in from the sideboard and recycling _Stay Her Appetite_. You may remove all of your opponent's allies in this way and double the marshalling points from your allies.
 
 {: .text-center }
 ## <mecd>H</mecd> – STEALTHY TRIBE
@@ -926,7 +926,7 @@ Against a Wizard opponent, consider bringing the _Rebel-talks_ in from teh sideb
 {: .text-center }
 HOARMURATH'S CHALLENGE DECK
 
-Hoarmurath directs a band of Morgul scouts into the fringe Shadow areas of the Misty Mountains to steal technologies and win over independent Orc tribes. His minions rely on stealth and minimal movement in the open, though tehy can fight in a pinch. The hazards are solid Undead. 
+Hoarmurath directs a band of Morgul scouts into the fringe Shadow areas of the Misty Mountains to steal technologies and win over independent Orc tribes. His minions rely on stealth and minimal movement in the open, though they can fight in a pinch. The hazards are solid Undead. 
 
 #### Starting Companies (2) at Dol Guldur
 
@@ -964,7 +964,7 @@ _Orcs of Mirkwood_ (sideboard)—Sarn Goriwing
 
 #### Resource Play
 
-The trickiest aspect of this deck is playing multiple site-tapping resources at a small number of Shadow-holds. The 3 _Records Undead_ are key to pulling this off. This minor item untaps Goblin-gate for the 2 allies playable there and Moria for its faction adn one greater item. The nature of this deck is for the company of Orc scouts to move very little, thereby decreaing the number of creatures that attack them. Once a Shadow-hold is tapped, the deck provides a great number of playable 1 marshalling point resources including factions, allies, and items. A company should not move to an untapped Moria or Goblin-gate unless it has one of the resources specific to that site in hand.
+The trickiest aspect of this deck is playing multiple site-tapping resources at a small number of Shadow-holds. The 3 _Records Undead_ are key to pulling this off. This minor item untaps Goblin-gate for the 2 allies playable there and Moria for its faction and one greater item. The nature of this deck is for the company of Orc scouts to move very little, thereby decreasing the number of creatures that attack them. Once a Shadow-hold is tapped, the deck provides a great number of playable 1 marshalling point resources including factions, allies, and items. A company should not move to an untapped Moria or Goblin-gate unless it has one of the resources specific to that site in hand.
 
 #### Hoarmurath
 
@@ -992,7 +992,7 @@ The Witch-king's mission is to solidify Sauron's forces in Mordor. His minions d
 
  - One Orc Captain controls Ill-favoured Fellow. This company travels to Mount Doom to sit for most of the game.
  - Horseman in the Night controls Orc Veteran. Horseman in the Night starts with _Blazon of the Eye_. This company travels to Nurniag Camp to sit for most of the game. 
- - THe other Orc Captain and Orc Brawler form the third company. This Orc Captain starts with _Blazon of the Eye_, and the company travels to Cirith Gorgor to sit for most of the game.
+ - The other Orc Captain and Orc Brawler form the third company. This Orc Captain starts with _Blazon of the Eye_, and the company travels to Cirith Gorgor to sit for most of the game.
 
 #### Suggested Sites for Resources
 
@@ -1010,7 +1010,7 @@ _Orcs of the Ash Mountains_—Cirith Gorgor
 
 _Orcs of Udun_—Cirith Gorgor
 
-_Palanir of Minas Tirith_—Minas Tirith
+_Palantir of Minas Tirith_—Minas Tirith
 
 _That Ain't No Secret_ (x3)—Mount Doom
 
@@ -1024,15 +1024,15 @@ _Last Child of Ungoliant_ (sideboard)—Shelob's Lair
 
 #### Resource Play
 
-Play the _Awaiting the Calls_ on the 2 Orc Captains to free enough general influence to bring in more characters. This means you should play _That Ain't No Secret_ on the Ill-favoured FEllow since the Orc Captain at Mount Doom ideally should not move to store this event. The lesser mind characters will "shuttle" between sites, storing resources, delivering _Records Unread_ to Nurniag Camp, etc. Note that the lower mind characters from teh deck can come into play under direct influence at the Dark-holds.
+Play the _Awaiting the Calls_ on the 2 Orc Captains to free enough general influence to bring in more characters. This means you should play _That Ain't No Secret_ on the Ill-favoured Fellow since the Orc Captain at Mount Doom ideally should not move to store this event. The lesser mind characters will "shuttle" between sites, storing resources, delivering _Records Unread_ to Nurniag Camp, etc. Note that the lower mind characters from the deck can come into play under direct influence at the Dark-holds.
 
 #### The Witch-king
 
-The Witch-king moes with _Fell Rider_ to Minas Tirith to play the Palantir, and to Barad-dur to play _Helm of Fear_. Playing these items requires him to tap twice. Otherwise, the Witch-king, as the deck's only sage, should be untapped to play _Voices of Malice_ to discard _Foolish Words_ or other debilitating hazard permanent-events. _Foolish Words_ can be revealed as an on-guard card in response to an attempt to play a faction. During the site phase, with _Voice of Malice_ in hand, the Witch-king should wait for all faction attempts before himself playing an item. He can always wait another turn to play his item.
+The Witch-king moves with _Fell Rider_ to Minas Tirith to play the Palantir, and to Barad-dur to play _Helm of Fear_. Playing these items requires him to tap twice. Otherwise, the Witch-king, as the deck's only sage, should be untapped to play _Voices of Malice_ to discard _Foolish Words_ or other debilitating hazard permanent-events. _Foolish Words_ can be revealed as an on-guard card in response to an attempt to play a faction. During the site phase, with _Voice of Malice_ in hand, the Witch-king should wait for all faction attempts before himself playing an item. He can always wait another turn to play his item.
 
 #### Hazard Play
 
-This deck has an unusual hazard strategy that often causes great frustration for an opponent—the "Roadblock Strategy." Its goal is to prevent an opponent from reaching his new site or to tap his new site prematurely to prevent the play of resources. An opponent who recognizes this strategy should forget all other sidebarding needs and bring in his anti-roadblock resources. These include _Gates of Morning_, _Skies of Fire_, _Promptings of Wisdom_, and _Piercing All Shadows_. As for your play, the key is your _An Unexpected Outposts_. You must choose your cards to recycle from _Long Winters_, _Snowstorm_, _Doors of Night_, another _An Unexpected Outpost_, and _Twilight_.
+This deck has an unusual hazard strategy that often causes great frustration for an opponent—the "Roadblock Strategy." Its goal is to prevent an opponent from reaching his new site or to tap his new site prematurely to prevent the play of resources. An opponent who recognizes this strategy should forget all other sideboarding needs and bring in his anti-roadblock resources. These include _Gates of Morning_, _Skies of Fire_, _Promptings of Wisdom_, and _Piercing All Shadows_. As for your play, the key is your _An Unexpected Outposts_. You must choose your cards to recycle from _Long Winters_, _Snowstorm_, _Doors of Night_, another _An Unexpected Outpost_, and _Twilight_.
 
 #### Sideboard
 
@@ -1082,17 +1082,17 @@ _Orcs of Gundabad_ (sideboard)—Mount Gundabad
 
 #### Resource Play
 
-Your hoal should be to play 5 of the 6 man factions at the 3 Border-holds surrounding Mordor. Essential to playing two at one site is the minor item, _Secret Book_. It may become a chore moving a character to a Border-hold just to untap it with this item, but it is often necessary.
+Your goal should be to play 5 of the 6 man factions at the 3 Border-holds surrounding Mordor. Essential to playing two at one site is the minor item, _Secret Book_. It may become a chore moving a character to a Border-hold just to untap it with this item, but it is often necessary.
 
 _High Helm_ can help The Mouth or Horseman in the Night with their influence attempts. Pay close attention to the Standard Modifications factions in play give. You may receive more bonuses here than anticipated.
 
-Hador plays a very important part in the success of this deck. He casts a powerful attack avoidance sorcery, _Tormented Earth_. When not needed otherwise, tap another character to help Hador with the corruption check from this spell. Note that Hador can play _Tormented Earth_ even if tapped or wounded. _Slayers_ are a real threar, so save _Ready to His Will_ to make this creature an ally and stop its attacks.
+Hador plays a very important part in the success of this deck. He casts a powerful attack avoidance sorcery, _Tormented Earth_. When not needed otherwise, tap another character to help Hador with the corruption check from this spell. Note that Hador can play _Tormented Earth_ even if tapped or wounded. _Slayers_ are a real threat, so save _Ready to His Will_ to make this creature an ally and stop its attacks.
 
 One or more companies of Orcs should form at Dol Guldur. These are responsible for playing most of the non-faction resources. Never hesitate to sacrifice an Orc to a large attack for the greater good of Sauron.
 
 #### Indur
 
-Indur does not move. He uses his special ability to bring discarded _Tormented Earths_ back to your hand quickly. If enough attack avoidance is otherwise in hand, Indur can tap during his organization phase to bring a resource to the play deck. _Poisonous Despair_ works best if taken to teh discard pile first. Indur can bring this to your hand if your opponent brcomes a threat to influence your marshalling points away.
+Indur does not move. He uses his special ability to bring discarded _Tormented Earths_ back to your hand quickly. If enough attack avoidance is otherwise in hand, Indur can tap during his organization phase to bring a resource to the play deck. _Poisonous Despair_ works best if taken to the discard pile first. Indur can bring this to your hand if your opponent becomes a threat to influence your marshalling points away.
 
 #### Hazard Play
 
@@ -1100,7 +1100,7 @@ The hazards have a high frequency of play so that the _Secret Books_ cycle into 
 
 #### Sideboard
 
-The sideboard contains an additional 8 marshalling points of resources. They work well coming into the deck for the second deck cycle. If your copmanies are in good shape tactically, tap Indur to bring some of them in sooner.
+The sideboard contains an additional 8 marshalling points of resources. They work well coming into the deck for the second deck cycle. If your companies are in good shape tactically, tap Indur to bring some of them in sooner.
 
 ## SYMBOL KEY
 
