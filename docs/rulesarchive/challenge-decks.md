@@ -31,16 +31,17 @@ search_exclude: true
   {: .text-gamma }
   
 {: .counsel }
-> The rulesbooks in the Rules Arrchive reflect the published text without any errata. However, they do have minor corrections to typographical, clerical, and typesetting issues in the original text. Such corrections are <b>not</b> annotated.
+> The Rules Archive gives the original published text without modification from errata or official clarifications. However, they do have corrections to minor typographical, grammatical, clerical, and typesetting issues in the original text. Such corrections are <b>not</b> noted or annotated. Anything in the original text that goes beyond a minor issue is left unaltered and described with an annotation.
 </details>
 
 ---
 
 # MIDDLE-EARTH: CHALLENGE DECKS
 
-{: .text-center .text-beta }
+{: .text-center }
 RULES SUMMARY AND PLAY TIPS
 
+{: .text-center }
 ## INTRODUCTION
 
 Welcome to the _MECCG Challenge Decks_. This box contains everything you need, except for a pair of dice, to challenge any opponent to a fun and competitive match of the _Middle-earth Collectible Card Game_ (_MECCG_).
@@ -73,11 +74,11 @@ While your opponent is moving, you get to play hazards on his companies. These h
 
 The game ends when one of the following occurs during play:
 
- 1. If your Wizard or Ringwraith is "eliminated." In this case your opponent automatically wins. As an exception in tournament play, the game continues. However. the player whose Wizard or Ringwraith is eliminated loses five MPs off his final total, and cannot reveal a new Wizard or Ringwraith.
+ 1. If your Wizard or Ringwraith is "eliminated." In this case your opponent automatically wins. As an exception in tournament play, the game continues. However, the player whose Wizard or Ringwraith is eliminated loses five MPs off his final total, and cannot reveal a new Wizard or Ringwraith.
  2. A Wizard player calls the Free Council. The Free Council may be called either:
+      - When each play deck has been exhausted twice, the council starts at the end of the current turn.
       - After you have exhausted your play deck for the second time, you may choose to call the council. The council starts at the end of your opponent's next turn. This gives your opponent one last turn to catch up to you.
       - After you have exhausted your play deck for the first time, you may choose to call the council if you have accumulated at least 25 marshalling points. The council starts at the end of your opponent's next turn.
-      - When each play deck has been exhausted twice, the council starts at the end of the current turn.
  3. A Ringwraith player calls the Audience with Sauron. The audience may be called either:
       - When each play deck has been exhausted twice, the audience starts at the end of the current turn.
       - After you have exhausted your play deck twice you may choose to play _Sudden Call_ as a resource. If you do so, the audience starts at the end of your opponent's next turn.
@@ -91,7 +92,7 @@ If your opponent has no marshalling points in a category (besides kill and misce
 
 There are four different types of cards in _MECCG_: sites, characters, hazards and resources. Images of the various card types are shown on the color inserts in the center of the book.
 
-Site cards have a map image on the card back, and a white or gray parchment background. The site type is indicated by a symbol in the upper left-hand comer of the card. A key to these symbols is on the back of this booklet. Havens for Wizard players, and Darkhavens for Ringwraith players, are special sites with a star icon in the upper left corner.
+Site cards have a map image on the card back, and a white or gray parchment background. The site type is indicated by a symbol in the upper left-hand corner of the card. A key to these symbols is on the back of this booklet. Havens for Wizard players, and Darkhavens for Ringwraith players, are special sites with a star icon in the upper left corner.
 
 Character cards have a blue background for Wizard decks, and a rusted purplish iron background for Ringwraith decks. Characters in Wizard decks are called heroes, and characters in Ringwraith decks are called minions.
 
@@ -117,12 +118,15 @@ Player's alternate taking turns, following the sequence outlined below. You may 
 
 ## 1 • UNTAP PHASE
 
-During play, you will have to tap cards, usually to indicate that they have been used this turn. To tap a card, rotate it 90°, so that it is sideways on the table. During combat (p. 14) character may become wounded. To wound a character, rotate his card 180°, so that it is upside down on the table.
+During play, you will have to tap cards, usually to indicate that they have been used this turn. To tap a card, rotate it 90°, so that it is sideways on the table. 
+
+During combat (p. 14) characters may become wounded. To wound a character, rotate his card 180°, so that it is upside down on the table.
+
 Perform the following steps, in this order:
  
  1. Untap your tapped character cards.
  2. Heal any wounded characters you have at a Haven/Darkhaven. These characters move from wounded to tapped.
- 3. Untap your non-character, non-site cards. Sites, including Havens/Darkhavens, do not untap.
+ 3. Untap your non-character, non-site cards. Sites do not untap.
 
 ## 2 • ORGANIZATION PHASE
 
@@ -146,7 +150,7 @@ Each deck has a Wizard or Ringwraith in it. You may play this character without 
 
 ### REORGANIZING COMPANIES
 
-Characters are organized into companies, and each company moves together as a unit. A company's size is equal to the number of characters in it. When calculating company size, Hobbits and Orc scouts count as half a character (round up). A company's hazard limit is equal to two or the company's size, whichever is greater. The hazard limit is the number of hazards that may be played on a company each turn, and is set at the end of the organization phase.
+Characters are organized into companies, and each company moves together as a unit. A company's _size_ is equal to the number of characters in it. When calculating company size, Hobbits and Orc scouts count as half a character (round up). A company's _hazard limit_ is equal to two or the company's size, whichever is greater. The hazard limit is the number of hazards that may be played on a company each turn, and is set at the end of the organization phase.
 
 Any time two of your companies move to the same non-Haven/non-Darkhaven site, they will combine. Any company may split into multiple companies during the organization phase. However, if they are not at a Haven/Darkhaven, then only one company may stay at the site, and all other companies must try to move to different sites that turn.
 
@@ -162,7 +166,7 @@ Some resource events may also be stored, as indicated in their card text. No cor
 
 You must choose where each company is moving during the organization phase, by placing a new site card with each company. A company does not have to move. If you want to move a company, place the new site card representing their destination face down next to the site card representing their current site. You may look through your location deck and pick this card, you do not have to draw it randomly.
 
-If you wish to move a company to a site that is face down on the table (for another company), tell your opponent which site the company is moving to. If you wish to move a company to a site that is face up on the table (because another company is also moving there), tell your opponent the company is moving to a face up site.
+If you wish to move a company to a site that is face down on the table, tell your opponent which site the company is moving to. If you wish to move a company to a site that is face up on the table (because another company is also moving there[^faceup]), tell your opponent the company is moving to a face up site.
 
 The new site you choose must meet certain criteria. You may reach a site by either starter movement, or by region movement. Ringwraiths may not use region movement.
 
@@ -202,12 +206,12 @@ Resource long-events may only be played during this phase. You play hazard long-
 
 The movement/hazard phase is when your companies move from site to site, and is also when your opponent has a chance to play hazards on your companies. Each of you companies has a movement/hazard phase, even if it does not move. You choose the order to resolve your companies' movement/hazard phases. For each company, follow these steps in order:
 
- 1. If the company has a face down site card, turn it over. This is your company's new site, and their current site becomes their site of origin If there is no new site, no cards are drawn. If the new site is a Haven/Darkhaven, each player may draw the number of cards indicated on the site of origin. Otherwise, each player may draw the number of cards indicated on the new site. Each player must draw at least one card.
+ 1. If the company has a face down site card, turn it over. This is your company's _new site_, and their current site becomes their _site of origin_. If there is no new site, no cards are drawn. If the new site is a Haven/Darkhaven, each player _may_ draw the number of cards indicated on the site of origin. Otherwise, each player _may_ draw the number of cards indicated on the new site. Each player must draw at least one card.
  2. Your opponent plays hazards on the company (see below). A number of hazards equal to the company's hazard limit (p. 9) may be played. Hazards may not be played that target another company, or an entity associated with another company. If a hazard requires the company to return to its site of origin, return the new site card to the location deck (discard it if tapped) and proceed to step 4 (the site of origin becomes its current site). No additional hazards may be played on a company once it returns to its site of origin.
  3. Remove the company's site of origin. Discard the site card if it is tapped and not a Haven/Darkhaven. Otherwise, return it to the location deck.
- 4. You must discard any cards in excess of eight in your hand; your opponent does the same for his hand. If you have fewer than eight cards, you must draw cards until your hand has eight cards: your opponent does the same for his hand.
+ 4. You must discard any cards in excess of eight in your hand; your opponent does the same for his hand. If you have fewer than eight cards, you must draw cards until your hand has eight cards; your opponent does the same for his hand.
 
-Once all of your companies have resolved their movement/hazard phases, any two of your companies at the same non-Haven/non-Darkhaven site combine (companies at Havens/Darkhavens may combine if they wish). Your companies are now considered to be at their new site (that is, the new site becomes its current site).
+Once all of your companies have resolved their movement/hazard phases, any two of your companies at the same site combine[^combining]. Your companies are now considered to be at their new site (that is, the new site becomes its current site).
 
 ### PLAYING HAZARDS
 
@@ -217,9 +221,7 @@ Creature hazards must be keyed to a company's site path or site. This means you 
 
 If the company is not moving, you may only key creatures to their current site, by name or type.
 
-If the company is moving, you may key creatures to their new site, by name or type. You may key creatures by type to the regions of their site path.
-
-If the company is using starter movement, you may key creatures by name to the regions containing the site of origin and the new site. If the company is using region movement, you may key creatures by name to any regions the company passes through.
+If the company is moving, you may key creatures to their new site, by name or type. You may key creatures by type to the regions of their site path. If the company is using starter movement, you may key creatures by name to the regions containing the site of origin and the new site. If the company is using region movement, you may key creatures by name to any regions the company passes through.
 
 #### Placing Cards On-Guard
 
@@ -231,7 +233,7 @@ The card will remain on the site until either:
  - _The company plays a card that potentially would tap an untapped site_. If the on-guard card is a non-creature hazard, it may be revealed if it is a hazard that affects the company or a character in the company that site phase.
  - _The site phase ends_. Return the card to your hand. 
  
-If an on-guard card is revealed, treat it as if it had been played during the movement/hazard phase. This means whatever it is played on must have existed during the movement/hazard phase.
+If the card is revealed, treat it as if it had been played during the movement/hazard phase. This means whatever it is played on must have existed during the movement/hazard phase.
 
 An on-guard card cannot be revealed that:
 
@@ -243,7 +245,9 @@ An on-guard card cannot be revealed that:
 
 ### COMBAT
 
-Combat consists of one or more attacks that must be resolved one at a time. An attack consists of one or more strikes. Characters and attacks have prowess (the number before the slash in the lower left of the card), which is used to determine the outcome of strikes. Strikes are assigned in the following manner:
+Combat consists of one or more _attacks_ that must be resolved one at a time. An attack consists of one or more _strikes_. Characters and attacks have prowess (the number before the slash in the lower left of the card), which is used to determine the outcome of strikes. 
+
+Strikes are assigned in the following manner:
 
  1. The defending player may assign one strike each to any untapped characters he wants.
  2. The attacking player may assign strikes to any characters that are not already assigned strikes.
@@ -257,11 +261,11 @@ For each strike, follow the sequence below:
 
  1. The attacker may play hazard cards that affect the strike. These count toward the hazard limit.
  2. The attacker may decide to use any or all of his remaining -1 modifications from extra strikes.
- 3. If an untapped character is facing the strike, he must tap or take a -3 modification to prowess. An already tapped character gets -1 to prowess, and a wounded character gets -2 to prowess.
- 4. An untapped defending character that is not himself the target of a strike may tap to give + 1to the prowess of a defending character.
+ 3. If an untapped character is facing the strike, he must tap **or** take a -3 modification to prowess. An already tapped character gets -1 to prowess, and a wounded character gets -2 to prowess.
+ 4. An untapped defending character that is not himself the target of a strike may tap to give + 1 to the prowess of a defending character.
  5. The defending player may play resource cards that affect the strike, but only one that requires skill. 
 
-Next, the defender makes a roll, and adds his modified prowess (apply weapon modifiers before all other modifiers):
+Next, the defender makes a roll, and adds his modified prowess:
  
  - If the result is greater than the strike's prowess, the strike _fails_. Such a strike is defeated if it fails a body check (see below).
  - If the result is equal to the strike's prowess, the strike was _ineffectual_. Nothing happens.
@@ -275,12 +279,12 @@ If a non-detainment strike fails against a character, it is automatically defeat
 
 #### Detainment Attacks
 
-Detainment attacks tap rather than wound characters. Attacks are only detainment against hero companies if it says so on the card. An attack against a minion company is considered detainment in the following situations:
+Detainment attacks tap rather than wound characters. An attack is considered detainment in the following situations:
 
  - If it states the attack is detainment on the card.
- - All Nazgul attacks.
- - Any attack keyed to a Dark-domain, Shadow-hold, or Dark-hold.
- - Any Orc, Troll, Undead, or Man attack keyed to Shadow-land.
+ - All Nazgul attacks against minion companies.
+ - Any attack keyed, against a minion company, to a Dark-domain, Shadow-hold, or Dark-hold.
+ - Any Orc, Troll, Undead, or Man attack keyed to Shadow-land.[^detainment]
 
 The above parameters apply even if the attack is keyed to a region or site by name which has the appropriate type.
 
@@ -288,7 +292,9 @@ The above parameters apply even if the attack is keyed to a region or site by na
 
 An attack by a hazard creature is defeated if it is not detainment, **and** all of its strikes are defeated (strikes assigned as -1 modifiers need not be defeated). When a hazard creature is defeated, the card is placed in the defender's MP pile.
 
-If a hazard creature has multiple attacks, each **must** be defeated in order for the defender to receive MPs. If one of the strikes was canceled or ineffectual, the attack is **not** defeated. If the attack was canceled, it is **not** defeated.
+If a hazard creature has multiple attacks, each **must** be defeated in order for the defender to receive MPs. 
+
+If one of the strikes was canceled or ineffectual, the attack is **not** defeated. If the attack was canceled, it is **not** defeated.
 
 A Ringwraith player may only receive MPs from creatures with an \* next to the MPs. A Wizard player may only receive MPs from creatures without an \* next to the MPs.
 
@@ -296,7 +302,7 @@ If an Orc or Troll character faces a strike from an attack from an opponent's ca
 
 Trophies give the following bonuses based on the MP value printed on the card, with or without an \*:
 
- - 1MP worth of trophies gives + 1 direct influence.
+ - 1 MP worth of trophies gives + 1 direct influence.
  - 2 MPs worth of trophies gives +1 direct influence and + 1 prowess (to a maximum of 9)
  - 3 MPs worth of trophies gives +2 direct influence and + 1 prowess (to a maximum of 9)
  - 4+ MPs worth of trophies gives +2 direct influence and +2 prowess (to a maximum of 9)
@@ -1143,6 +1149,9 @@ Dark-domains  |  ![](/assets/images/dark-domain.svg)
 
 ---
 
+[^faceup]: The rules on Playing a New Site Card state: "If you wish to move a company to a site that is face down on the table, tell your opponent which site the company is moving to. If you wish to move a company to a site that is face up on the table (***because another company is also moving there***), tell your opponent the company is moving to a face up site." There appears to be a clerical error. A site card that is in play "because another company is also moving there" would be face down, not face up. A site card would be face up when a company is there and it is their current site. So they would not be "moving there." There appears to have been an issue with summarizing the rules for "Moving Companies to the Same Non-Darkhaven Site" from pages 60 and 61 of MELE. In MELE it is clear that player can "state that their new site card is already in play (the current site card for the non-moving company)" when they moving another company to that face up site to join the company already there (not "because another company is also moving there" as in the _Challenge Deck_ Rules Summary).
+[^Combining]" This rule was revised for _The Balrog_ Rules Summary: "Once all of your companies have resolved their movement/hazard phases, any two of your companies at the same _non-Haven/non-Darkhaven_ site combine (companies at Havens/Darkhavens may combine if they wish)."
+[^detainment]: The rules on Detainment Attacks state: "Any Orc, Troll, Undead, or Man attack keyed to Shadow-land." This only applies to such attacks against _minion_ companies, not hero companies. This statement was revised in _The Balrog_ Rules Summary.
 [^endofturn]: The End-of-Turn Phase is missing in the _Challenge Deck_ Rules Summary.
 [^ringwraithfollowers]: The rules on Ringwraith Followers is missing in the _Challenge Deck_ Rules Summary.
 [^modecard]: The requirement that Ringwraith characters be in a "mode" to move to a non-Darkhaven site is missing in the _Challenge Deck_ Rules Summary.
