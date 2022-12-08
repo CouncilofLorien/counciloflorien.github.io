@@ -327,7 +327,7 @@ Playing an ally is similar to an item. Tap an untapped character at an untapped 
 
 ### PLAYING A FACTION
 
-To play a faction, tap one character in the company to make an influence attempt. Roll the dice, add the character's unused direct influence, any standard modifications for the character's race (heroes) or other factions in play (minions), and any other modifications from other cards. If the result is higher than the number listed on the faction, put the faction in your MP pile, and tap the site. The site does not tap otherwise
+To play a faction, tap one character in the company to make an influence attempt. Roll the dice, add the character's unused direct influence, any standard modifications for the character's race (heroes) or other factions in play (minions), and any other modifications from other cards. If the result is higher than the number listed on the faction, put the faction in your MP pile, and tap the site. The site does not tap otherwise.
 
 ### PLAYING MINOR ITEMS
 
@@ -380,7 +380,7 @@ To influence an opponent's item, make an influence attempt as for a character, e
 
  - The mind of the controlling character is used.
  - Subtract the unused direct influence of the item's controlling character.
- - You must reveal an identical item card in order to make an influence attempt. If the influence attempt is successful, you may play your card with the influencing character.
+ - You _must_ reveal an identical item card in order to make an influence attempt. If the influence attempt is successful, you may play your card with the influencing character.
 
 ### COMPANY VS. COMPANY COMBAT
 
@@ -398,8 +398,8 @@ The attack may be canceled like an ordinary attack. However, cards that cancel a
 
 For company vs. company combat, assign strikes as follows:
 
- 1. The defender chooses which of his untapped characters will be the targets of given strikes.
- 2. The attacker choose which other defending characters not yet assigned a strike will be the target of any remaining unassigned strikes corresponding to his untapped characters.
+ 1. The defender chooses which of his _untapped_ characters will be the targets of given strikes.
+ 2. The attacker choose which other defending characters not yet assigned a strike will be the target of any remaining unassigned strikes corresponding to his _untapped_ characters.
  3. The defender assigns any remaining strikes to his characters that have not been assigned strikes.
 
 If there are more strikes than defending characters, the attacker may assign excess strikes as -1 modifiers to prowess, during the strike sequence outlined below.
@@ -420,8 +420,10 @@ Next, the attacker makes a roll and adds his modified prowess to get the strikes
 Then, the defender makes a roll and adds his modified prowess:
 
  - If this result is greater than the strike's final prowess, the strike _fails_. The character corresponding to the strike is wounded and must make a body check (p. 15).
- - If this result is equal to the strike's final prowess. the strike was in _effectual_. Nothing happens.
+ - If this result is equal to the strike's final prowess. the strike was _ineffectual_. Nothing happens.
  - Otherwise, the strike was _successful_. The target character is wounded and must make a body check.
+
+If a character is defeated in company vs. company combat, the opposing player receives kill marshalling points as indicated on the character's card.
 
 (End-of-Turn Phase)[^endofturn]
 
