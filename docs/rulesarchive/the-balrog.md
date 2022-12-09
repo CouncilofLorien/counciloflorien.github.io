@@ -354,9 +354,9 @@ The game ends when one of the following occurs during play:
 
  1. If your Wizard or Ringwraith is "eliminated." In this case your opponent automatically wins. As an exception in tournament play, the game continues. However, the player whose Wizard or Ringwraith is eliminated loses five MPs off his final total, and cannot reveal a new Wizard or Ringwraith.
  2. A Wizard player calls the Free Council. The Free Council may be called either:
-      - When each play deck has been exhausted twice, the council starts at the end of the current turn.
       - After you have exhausted your play deck for the second time, you may choose to call the council. The council starts at the end of your opponent's next turn. This gives your opponent one last turn to catch up to you.
       - After you have exhausted your play deck for the first time, you may choose to call the council if you have accumulated at least 25 marshalling points. The council starts at the end of your opponent's next turn.
+      - When each play deck has been exhausted twice, the council starts at the end of the current turn.
  3. A Ringwraith player calls the Audience with Sauron. The audience may be called either:
       - When each play deck has been exhausted twice, the audience starts at the end of the current turn.
       - After you have exhausted your play deck twice you may choose to play _Sudden Call_ as a resource. If you do so, the audience starts at the end of your opponent's next turn.
@@ -365,6 +365,8 @@ The game ends when one of the following occurs during play:
       - After your opponent has exhausted his play deck once, if he has at least 25 marshalling points, you may play _Sudden Call_ as a hazard. If you do so, the audience is called after your next turn.
 
 If your opponent has no marshalling points in a category (besides kill and miscellaneous), you may double your points in that category. No more than half of your positive MPs may come from one category.
+
+This is called the two-deck form of play. Other games are possible (_METW_ Rules, p. 49; _MELE_ Rules, p. 51).
 
 ## 3 • THE DIFFERENT CARDS
 
@@ -380,11 +382,9 @@ Resources have a copper background in Wizard decks, and a grey-blue steel backgr
 
 ## 4 • GETTING READY TO PLAY
 
-Before you play the game, you must separate you cards into the appropriate decks. You also need a pair of six sided dice.
+Before you play the game, you must separate your cards into the appropriate decks. You also need a pair of six-sided dice.
 
-First, take all of the site cards (with the map card back) and set them aside as your location deck. Then check the Play Tips (p. 27) to see what cards belong in your starting company. Put your starting company in front of you, with the site card Rivendell (for a Wizard deck) from your location deck or Minas Morgul or Dol Guldur (for a Ringwraith deck). Set your sideboard off to the side for the moment. These are the 20 cards with the white letter of the deck on a black circle.
-
-Shuffle together all of the remaining cards. These cards are your play deck. Let your opponent cut your deck, and draw eight cards for your starting hand.
+Look in the Play Tips (p. 6). There will be a list of what cards go in your play deck, site deck, starting company, and sideboard. Separate all of these cards out. Put your starting company in front of you, along with your starting site. For a Wizard the starting site is Rivendell, for a Ringwraith it is Minas Morgul or Dol Guldur, and for The Balrog it is Moria or The Under-gates. Shuffle the cards that go into your play deck. Let your opponent cut your play deck, and draw eight cards for your starting hand. 
 
 Once both players have separated their decks, shuffled their play decks, and drawn their opening hand, each player should roll two dice. The player with the higher roll must go first.
 
@@ -392,19 +392,19 @@ During the course of play, certain cards will be eliminated, particularly charac
 
 # • PART II •<br>TURN SEQUENCE
 
-Player's alternate taking turns, following the sequence outlined below. You may play resources any time during your turn, unless card text states otherwise. You may play hazards only during your opponent's movement/hazard phase. If both players wish to play cards at the same time, see p. 25.
+Player's alternate taking turns, following the sequence outlined below. You may play resources any time during your turn, unless card text states otherwise. You may play hazards only during your opponent's movement/hazard phase. If both players wish to play cards at the same time, see p. 20.
 
 ## 1 • UNTAP PHASE
 
 During play, you will have to tap cards, usually to indicate that they have been used this turn. To tap a card, rotate it 90°, so that it is sideways on the table. 
 
-During combat (p. 14) characters may become wounded. To wound a character, rotate his card 180°, so that it is upside down on the table.
+During combat (p. 16) characters may become wounded. To wound a character, rotate his card 180°, so that it is upside down on the table.
 
 Perform the following steps, in this order:
  
  1. Untap your tapped character cards.
  2. Heal any wounded characters you have at a Haven/Darkhaven. These characters move from wounded to tapped.
- 3. Untap your non-character, non-site cards. Sites do not untap.
+ 3. Untap your non-character, non-site cards. Sites, including Havens/Darkhavens, do not untap.
 
 ## 2 • ORGANIZATION PHASE
 
@@ -417,6 +417,7 @@ Your organization phase is when you assign your characters into companies, and p
 
 {: .note }
 > **Note:** All company composition changes, including organizing companies and bringing characters into play, must all be done at the same time during the organization phase. No other actions may be taken while you are making company composition changes.
+
 ### BRINGING A CHARACTER INTO PLAY
 
 To bring a character into play you must have enough influence to control him. Each player has a pool of 20 general influence with which to control characters. Each point of general influence can be used to control one point of mind. A character's mind is shown in the white head symbol on the left side of the character card. A character with eight mind would use eight points of general influence. 
@@ -787,5 +788,3 @@ Certain hero resources and minion resources have the same name. These resources 
 ## 7 • EXHAUSTING YOUR PLAY DECK
 
 You exhaust your deck when you draw the final card from it. Discard any cards that are discarded when a deck is exhausted, and make any exchanges with the sideboard (p. 24). Then shuffle your discard pile. This becomes your new play deck. Place all of your discarded sites back into your location deck.
-
-# 
