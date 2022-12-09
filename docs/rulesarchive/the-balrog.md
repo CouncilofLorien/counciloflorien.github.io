@@ -470,7 +470,7 @@ A _site path_ is the sequence of regions between a site and its nearest Haven/Da
 
 Site paths are mostly used to determine if an opponent can play a particular creature on a company. Some hazards refer to the site's site path, which is always the one listed on the site card. Havens/Darkhavens have no site path.
 
-## 3 · LONG-EVENT PHASE
+## 3 • LONG-EVENT PHASE
 
 During this phase do the following in this order:
  
@@ -489,7 +489,7 @@ The movement/hazard phase is when your companies move from site to site, and is 
  3. Remove the company's site of origin. Discard the site card if it is tapped and not a Haven/Darkhaven. Otherwise, return it to the location deck.
  4. You must discard any cards in excess of eight in your hand; your opponent does the same for his hand. If you have fewer than eight cards, you must draw cards until your hand has eight cards; your opponent does the same for his hand.
 
-Once all of your companies have resolved their movement/hazard phases, any two of your companies at the same site combine[^combining]. Your companies are now considered to be at their new site (that is, the new site becomes its current site).
+Once all of your companies have resolved their movement/hazard phases, any two of your companies at the same non-Haven/non-Darkhaven site combine (companies at Havens/Darkhavens may combine if they wish). Your companies are now considered to be at their new site (that is, the new site becomes its current site).
 
 ### PLAYING HAZARDS
 
@@ -511,14 +511,14 @@ The card will remain on the site until either:
  - _The company plays a card that potentially would tap an untapped site_. If the on-guard card is a non-creature hazard, it may be revealed if it is a hazard that affects the company or a character in the company that site phase.
  - _The site phase ends_. Return the card to your hand. 
  
-If the card is revealed, treat it as if it had been played during the movement/hazard phase. This means whatever it is played on must have existed during the movement/hazard phase.
+If an on-guard card is revealed, treat it as if it had been played during the movement/hazard phase. This means whatever it is played on must have existed during the movement/hazard phase.
 
 An on-guard card cannot be revealed that:
 
  - returns a company to its site of origin;
  - taps a company's site;
  - potentially removes a character from a company, other than through combat or corruption;
- - Forces a company to do nothing during the site phase; or
+ - Forces a company to do nothing during the site phase; **or**
  - directly taps a character.
 
 ### COMBAT
@@ -543,11 +543,11 @@ For each strike, follow the sequence below:
  4. An untapped defending character that is not himself the target of a strike may tap to give + 1 to the prowess of a defending character.
  5. The defending player may play resource cards that affect the strike, but only one that requires skill. 
 
-Next, the defender makes a roll, and adds his modified prowess:
+Next, the defender makes a roll, and adds his modified prowess (apply weapon modifiers before all other modifiers):
  
  - If the result is greater than the strike's prowess, the strike _fails_. Such a strike is defeated if it fails a body check (see below).
  - If the result is equal to the strike's prowess, the strike was _ineffectual_. Nothing happens.
- - Otherwise, the strike was _successful_. The target character is wounded and must make a body check. If the attack was detainment (p. 16), the character is tapped, not wounded, and makes no body check.
+ - Otherwise, the strike was _successful_. The target character is wounded and must make a body check. If the attack was detainment (see below), the character is tapped, not wounded, and makes no body check.
 
 #### Body Checks
 
@@ -557,12 +557,12 @@ If a non-detainment strike fails against a character, it is automatically defeat
 
 #### Detainment Attacks
 
-Detainment attacks tap rather than wound characters. An attack is considered detainment in the following situations:
+Detainment attacks tap rather than wound characters. Attacks are only detainment against hero companies if it says so on the card. An attack against a minion company is considered detainment in the following situations:
 
  - If it states the attack is detainment on the card.
- - All Nazgul attacks against minion companies.
- - Any attack keyed, against a minion company, to a Dark-domain, Shadow-hold, or Dark-hold.
- - Any Orc, Troll, Undead, or Man attack keyed to Shadow-land.[^detainment]
+ - All Nazgul attacks.
+ - Any attack keyed to a Dark-domain, Shadow-hold, or Dark-hold.
+ - Any Orc, Troll, Undead, or Man attack keyed to Shadow-land.
 
 The above parameters apply even if the attack is keyed to a region or site by name which has the appropriate type.
 
@@ -587,7 +587,7 @@ Trophies give the following bonuses based on the MP value printed on the card, w
 
 ## 5 • SITE PHASE
 
-Each of your companies has a site phase, and you may resolve them in any order you wish. In order to do **anything** during the site phase, you must first enter the site and then face any and all automatic-attacks listed on the site card (a character at his home site may tap to cancel one automatic-attack at his home site). See Combat, p. 14.
+Each of your companies has a site phase, and you may resolve them in any order you wish. In order to do **anything** during the site phase, you must first enter the site and then face any and all automatic-attacks listed on the site card (a character at his home site may tap to cancel one automatic-attack at his home site). See Combat, p. 16.
 
 Once you have entered the site, you may:
 
@@ -697,13 +697,15 @@ Next, the attacker makes a roll and adds his modified prowess to get the strikes
 
 Then, the defender makes a roll and adds his modified prowess:
 
- - If this result is greater than the strike's final prowess, the strike _fails_. The character corresponding to the strike is wounded and must make a body check (p. 15).
+ - If this result is greater than the strike's final prowess, the strike _fails_. The character corresponding to the strike is wounded and must make a body check (p. 16).
  - If this result is equal to the strike's final prowess. the strike was _ineffectual_. Nothing happens.
  - Otherwise, the strike was _successful_. The target character is wounded and must make a body check.
 
 If a character is defeated in company vs. company combat, the opposing player receives kill marshalling points as indicated on the character's card.
 
-(End-of-Turn Phase)[^endofturn]
+## 1 • END-OF-TURN PHASE
+
+During the end-of-turn phase, you may discard one card. Then you must draw or discard cards until you have eight cards in hand. You must discard the card before you reset to hand size. Note that some effects can increase or decrease the number of cards in your hand.
 
 # • PART III •<br>SPECIAL SITUATIONS
 
@@ -711,7 +713,7 @@ Certain situations occur at multiple points in the turn sequence, and are covere
 
 ## 1 • CORRUPTION CHECKS
 
-Each character has a corruption point total. This starts at zero, but certain cards will change this total during play. Only one corruption hazard may be played on a given character each turn.
+Each character has a corruption point total. This starts at zero, but certain cards will change this total during play. Only one corruption hazard may be played on a given character each turn. Normally, a character must tap to remove a corruption card. A character may attempt to remove a corruption card without tapping, at -3 to the roll. If this option is used, only one attempt to remove that corruption card may be made that turn.
 
 ### CORRUPTION CHECKS
 
@@ -719,7 +721,7 @@ When a card or other effect indicates that one of your characters must make a co
 
 **Nothing Happens**—If the modified result is greater than the character's corruption point total, nothing happens.
 
-**The Character is Discarded or Tapped**—If the modified result is equal to the character's corruption point total **or** one less than the total, a hero character _fails_ the corruption check and you must discard him along with any non-follower cards he controls. If the character is a minion, he is not considered to have failed the check, and is tapped if not already tapped.
+**The Character is Discarded or Tapped**—If the modified result is equal to the character's corruption point total **or** one less than the total, a hero character _fails_ the corruption check and you must discard him along with any non-follower cards he controls. A Wizard failing in this manner is eliminated. If the character is a minion, he is not considered to have failed the check, and is tapped if not already tapped.
 
 **The Character is Eliminated**—If the modified result is less than the character's corruption point total by two or more, the character _fails_ the corruption check and is eliminated. Discard any non-follower cards he controls.
 
@@ -729,13 +731,14 @@ If a Wizard fails a corruption check, he is immediately eliminated. Ringwraiths 
 
 Ringwraiths have many special effects, which are summarized below:
 
- - A Ringwraith may only be in a company with non-Ringwraith characters if he is at a Darkhaven.[^ringwraithfollowers]
+ - A Ringwraith may only be in a company with non-Ringwraith characters if he is at a Darkhaven.
  - Any ring in the Ringwraith's company at the beginning of the end-of-turn phase is automatically tested. Any test in a Ringwraith's company has a modification of -2.
  - A Ringwraith may carry items, but such items have no effect.
  - Ringwraiths never make corruption checks, and corruption hazards may not be played on Ringwraiths.
  - A Ringwraith may not use a site path that contains Coastal Sea regions.
  - A Ringwraith's company may not use region movement.[^modecard]
  - If a body check against a Ringwraith is exactly equal to 7 or 8, then Ringwraith is returned to your hand. You do not lose the game if your Ringwraith is removed in this fashion—you may bring such a Ringwraith back into play the same way you revealed him.
+ - The full _Middle-earth: Lidless Eye_ rules include provisions for Ringwraith followers (p. 58).
 
 ## 3 • RING ITEMS
 
@@ -787,7 +790,7 @@ Certain hero resources and minion resources have the same name. These resources 
 
 ## 7 • EXHAUSTING YOUR PLAY DECK
 
-You exhaust your deck when you draw the final card from it. Discard any cards that are discarded when a deck is exhausted, and make any exchanges with the sideboard (p. 24). Then shuffle your discard pile. This becomes your new play deck. Place all of your discarded sites back into your location deck.
+You exhaust your deck when you draw the final card from it. Discard any cards that are discarded when a deck is exhausted, and make any exchanges with the sideboard (see above). Then shuffle your discard pile. This becomes your new play deck. Place all of your discarded sites back into your location deck.
 
 ---
 
@@ -797,3 +800,4 @@ ANNOTATIONS
 The Rules Archive provides the original published text without modification from errata or official clarifications. However, they do have corrections to minor typographical, grammatical, clerical, and typesetting issues in the original text. Such corrections are not annotated. Anything in the original text that goes beyond a minor issue is left unaltered and described in these annotations.
 
 [^faceup]: The rules on Playing a New Site Card state: "If you wish to move a company to a site that is face down on the table (for another company), tell your opponent which site the company is moving to. If you wish to move a company to a site that is face up on the table (_because another company is also moving there_), tell your opponent the company is moving to a face up site." There appears to be a clerical error. A site card that is in play "because another company is also moving there" would be face down, not face up. This rule in _The Balrog_ Rules Summary has an addition compared to the _Challenge Deck_ Rules Summary: it adds "(for another company)" to the first sentence. It appears that this issue was noticed and the author was told to correct it but the author did not recognize the issue. As noted in the annotation to the _Challenge Deck_ Rules Summary, there appears to have been an issue with summarizing the rules for "Moving Companies to the Same Non-Darkhaven Site" from pages 60 and 61 of MELE. In MELE it is clear that player can "state that their new site card is already in play (the current site card for the non-moving company)" when they moving a company to a face up site to _join_ the company already there (not "because another company is also moving there"). The parenthetical statements should be swapped as follows: "If you wish to move a company to a site that is face down on the table (because another company is also moving there), tell your opponent which site the company is moving to. If you wish to move a company to a site that is face up on the table (for another company), tell your opponent the company is moving to a face up site."
+[^modecard]: The requirement that Ringwraith characters be in a "mode" to move to a non-Darkhaven site is missing in _The Balrog_ Rules Summary.
