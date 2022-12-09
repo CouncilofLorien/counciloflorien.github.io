@@ -7,8 +7,6 @@ permalink: /rules-archive/dark-minions
 search_exclude: true
 ---
 
----
-
 # MIDDLE-EARTH: DARK MINIONS
 
 This insert provides expansion rules and clarifications for use with all _Middle-earth Collectible Card Game_ (_MECCG_) products.
