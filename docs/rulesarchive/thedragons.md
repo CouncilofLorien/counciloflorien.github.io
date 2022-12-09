@@ -7,25 +7,6 @@ permalink: /rules-archive/the-dragons
 search_exclude: true
 ---
 
-<details markdown="block">
-  <summary>
-   CONTENTS
-  </summary>
-  {: .text-gamma }
-- TOC
-{:toc}
-</details>
-
-<details markdown="block">
-  <summary>
-    NOTES <img src="/assets/images/scroll.svg">
-  </summary>
-  {: .text-gamma }
-  
-{: .counsel }
-> These rules include emendations correcting minor typographical and clerical errors in the original text (e.g., "MED" instead of "METD"). These emendations are <b>not</b> annotated. 
-</details>
-
 ---
 
 # MIDDLE-EARTH: THE DRAGONS
@@ -160,6 +141,11 @@ J. Whitehouse, Jon Whitney, and Mark Wightman
 **Additional credits** can be found in the _Middle-earth: The Wizards_ rulesbook (due to space limitations, we were unable to include them here).
 
 ---
+
+{: .text-center .text-gamma }
+ANNOTATIONS
+
+The Rules Archive provides the original published text without modification from errata or official clarifications. However, they do have corrections to minor typographical, grammatical, clerical, and typesetting issues in the original text. Such corrections are not annotated. Anything in the original text that goes beyond a minor issue is left unaltered and described in these annotations.
 
 [^dragon-hoard-errata]: From [CRF 15 Complete Errata Listing](/crf/errata#rules-errata): Dragon Rules, Hoards: Change “_Each site with a Dragon automatic-attack (i.e., each Dragon’s Lair) contains a hoard_” to “_Each site which had a Dragon automatic-attack at the beginning of the turn contains a hoard_.”
 [^dragon-multiple-strike-errata]: From [CRF 15 Complete Errata Listing](/crf/errata#rules-errata): Dragons Rules, Characters Facing Multiple Strikes: Change "_are then considered to be canceled_" to "_are then considered to be successful_."
