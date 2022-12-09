@@ -7,6 +7,12 @@ permalink: /rules-archive/the-balrog
 search_exclude: true
 ---
 
+<style>
+td {
+  vertical-align: top;
+}
+</style>
+
 # MIDDLE-EARTH: THE BALROG
 
 {: .text-center }
@@ -254,61 +260,8 @@ The hazard mix contains plenty of Spiders, a handful of Animals, and enhancers f
 {: .v-align-text-top }	
 | <u>At Start</u> (7)<br>_Gangways over the Fire_<br>_Orders from the Great Demon_<br>Azog<br>Buthrakaur<br>Mountain-maggot (x2)<br>\[Orc Veteran] | <u>Other Characters</u> (10)<br>The Balrog (x3)<br>\[Burat]<br>\[Gorbag]<br>\[Orc Tracker (x2)]<br>\[Shagrat]<br>\[Tuma] <br>\[Wuluag] |
 
-Resources (32)
-MP Sources:
-Cave Troll
-Descent through Fire
-Evil Things Lingering
-Great Troll
-Maker's Map
-Tempest of Fire
-\[Black Mace (x2)]
-\[High Helm]
-\[Iron Shield of Old (x2)]
-\[Orcs of Mirkwood]
-\[Orcs of Moria]
-\[Sable Shield]
-\[Stinker]
-
-Supporting Resources:
-Ancient Secrets (x2)
-Angband Revisited
-Caverns Unchoked
-Foe Dismayed
-Going Ever Under Dark
-Great Fissure (x2)
-Great Shadow (x2)
-Out He Sprang
-Vanguard of Might
-\[Bold Thrust (x3)]
-\[I'll Report You (x2)]
-
-Hazards (32)
-Creatures:
-Beoming Skin-changers
-Carrion Feeders
-Monstrosity of
-Diverse Shape
-Shelob's Brood (x2)
-Spawn of Ungoliant
-Ungoliant's
-Foul Issue
-Ungoliant's Progeny
-\[Giant Spiders (x3)]
-\[Half-trolls of Far Harad (x2)]
-\[Lesser Spiders (x3)]
-\[Neeker-breekers (x2)]
-
-Events:
-Black Vapour
-Darkness Made By Malice
-The Reek
-Unabated in Malice
-\[Foolish Words (x2)]
-\[Full of Froth and Rage (x3)]
-\[Greed]
-\[Lure of Expedience (x2)]
-\[Twilight (x2)]
+| <u>Resources</u> (32)<br><br>_MP Sources:_<br>Cave Troll<br>Descent through Fire<br>Evil Things Lingering<br>Great Troll
+<br>Maker's Map<br>Tempest of Fire<br>\[Black Mace (x2)]<br>\[High Helm]<br>\[Iron Shield of Old (x2)]<br>\[Orcs of Mirkwood]<br>\[Orcs of Moria]<br>\[Sable Shield]<br>\[Stinker]<br><br>_Supporting Resources:_<br>Ancient Secrets (x2)<br>Angband Revisited<br>Caverns Unchoked<br>Foe Dismayed<br>Going Ever Under Dark<br>Great Fissure (x2)<br>Great Shadow (x2)<br>Out He Sprang<br>Vanguard of Might<br>\[Bold Thrust (x3)]<br>\[I'll Report You (x2)] | <u>Hazards</u> (32)<br><br>_Creatures:_<br>Beorning Skin-changers<br>Carrion Feeders<br>Monstrosity of Diverse Shape<br>Shelob's Brood (x2)<br>Spawn of Ungoliant<br>Ungoliant's Foul Issue<br>Ungoliant's Progeny<br>\[Giant Spiders (x3)]<br>\[Half-trolls of Far Harad (x2)]<br>\[Lesser Spiders (x3)]<br>\[Neeker-breekers (x2)]<br><br>_Events:_<br>Black Vapour<br>Darkness Made By Malice<br>The Reek<br>Unabated in Malice<br>\[Foolish Words (x2)]<br>\[Full of Froth and Rage (x3)]<br>\[Greed]<br>\[Lure of Expedience (x2)]<br>\[Twilight (x2)] |
 
 Sideboard (28)
 Resources
