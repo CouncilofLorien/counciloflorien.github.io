@@ -354,8 +354,67 @@ _If a card has optional effects, the player playing the card must choose which w
 {: .note }
 > **Example:** Meredith plays a two-strike Troll-attack against one of Quinton's companies. Before declaring which untapped characters will receive the strikes, Quinton plays _Gates of Morning_. Then, Quinton plays _Dark Quarrels_ and chooses its second alternative effect, i.e., he would like to reduce the number of strikes of the Troll-attack by half to one. This alternative effect requires _Gates of Morning_ to be in play. Quinton believes his character _Boromir II_ can easily defeat one Troll-strike, but no other character would have good odds against the second strike. Naturally, Quinton is thinking about the marshalling points for defeating all strikes of this attack, so he does not want to cancel the attack. In response to _Dark Quarrels_, Meredith plays _Doors of Night_ which discards _Gates of Morning_. Quinton does not respond, and the two cards are resolved. First, _Doors of Night_ takes effect and _Gates of Morning_ is discarded. Then, _Dark Quarrels_ is resolved, but the active condition for Quinton's choice of effects no longer exists, so his card has no effect and he must choose to assign both strikes of the Troll-attack. Quinton does not have the option of now choosing the other alternative effect of _Dark Quarrels_, i.e., cancelling a Troll-attack.
 > 
-> **Example:** The _Witch-king of Angmar_ in play as a pennanent-event can tap during its opponent's movement/hazard phase and become a long-event changing all shadow-holds to dark-holds. During Claude's movement/hazard phase, Helmut has played _The Witch-king_ as a permanent-event. Claude plays _Gates of Morning_ and reveals a site for one of her companies that is a shadow-hold. For the purposes of playing hazards, Helmut wants this shadow-hold to change to a dark-hold; for the purposes of avoiding hazards, Claude wants the shadow-hold to change to a ruins & lairs. She plays _Quiet Lands_ which, among other alternatives, changes one shadow-hold (thus, a target site) to a ruins & lairs. Helmut taps _The Witch-king_ response to make the change he wants. Resolving the actions from last declared to first, _The Witch-king of Angmar_ goes off changing the shadow-hold to a dark-hold. _The Witch-king_ removed the target (and thus the active condition) for Claude's
-action! Unfortunately for her, _Quiet Lands_ fizzles for no effeet. She must discard it.
+> **Example:** The _Witch-king of Angmar_ in play as a pennanent-event can tap during its opponent's movement/hazard phase and become a long-event changing all shadow-holds to dark-holds. During Claude's movement/hazard phase, Helmut has played _The Witch-king_ as a permanent-event. Claude plays _Gates of Morning_ and reveals a site for one of her companies that is a shadow-hold. For the purposes of playing hazards, Helmut wants this shadow-hold to change to a dark-hold; for the purposes of avoiding hazards, Claude wants the shadow-hold to change to a ruins & lairs. She plays _Quiet Lands_ which, among other alternatives, changes one shadow-hold (thus, a target site) to a ruins & lairs. Helmut taps _The Witch-king_ response to make the change he wants. Resolving the actions from last declared to first, _The Witch-king of Angmar_ goes off changing the shadow-hold to a dark-hold. _The Witch-king_ removed the target (and thus the active condition) for Claude's action! Unfortunately for her, _Quiet Lands_ fizzles for no effeet. She must discard it.
+
+### NOTES ON SPECIFIC CARDS AND CARD COMBINATIONS
+
+{: .note }
+> **Clarification:** Several types of cards are referred to by the key word included in the first few words of a card's text. For example, the text of a "spell" card starts with _spell_' the text of a "Nazgul" card starts with _Unique. Nazgul_; the text of a "Palantir" starts with _Unique. Palantir_.
+
+#### Bringing Rings into Play
+
+One of the types of items that your characters can bring into play are rings. There are five types of rings: gold rings, lesser rings, magic rings, Dwarven rings, and _The One Ring_.
+
+**Gold Rings** — After your company faces the automatic-attack at such a site which specifies that a gold ring can be played, you just tap a character and the site to play a gold ring from your hand.
+
+{: .note }
+> **Clarification:** A gold ring is a ring with unknown properies—it might be a lesser ring, a magic ring, a Dwarven ring, or even _The One Ring_. You will not know until you "test" it. There are 3 kinds of gold rings: _Beautiful Gold Rings_, _Fair Gold Rings_, and _Precious Gold Rings_. Each has a different probability of being a specific type of special ring.
+
+**Testing a Ring** — Once you have a gold ring, you can "test" it to determine what kind of special ring it is. When you test a gold ring, you make a roll and add any appliciable modification (due to the test card use and other cards). The gold ring card will indicate what special rings may be played based on the modified roll.
+
+If the roll indicates a special ring that you have in your hand, you may replace the gold ring with that ring and discard the gold ring. Otherwise, you just discard the gold ring (i.e., it was not special). If the roll indicates more than one special ring in your hand, you choose which to play.
+
+There are four ways to test a gold ring:
+
+ - If you have a sage character in the same company as the gold ring, you can play a _Test of Form_ card or a _Test of Lore_ card (modify the roll by -1)
+ - If you have your Wizard in the same company as the gold ring, you can play a _Wizard's Test_ card (you get to make two rolls and choose the one to use).
+ - If you have a sage character in the same company as the gold ring and the company is at a site where "Information" is playable, you can play a _Ringlore_ card (you do not have to roll, you can just play any ring except _The One Ring_).
+ - If _Gandalf_ is in the same company as the gold ring, he can tap to test it.
+
+#### Destroying The One Ring
+
+_The One Ring_ can be destroyed if its bearer has _Mount Doom_ as his company's current site and one of the following occurs:
+
+ - The _Cracks of Doom_ card is played and the bearer passes the corruption check called for by the card.
+ - _Gollum_ is in a company at _Mount Doom_ and the _Gollum's Fate_ card is played.
+
+#### Environment Cards
+
+There is a special class of cards called "environment" cards—the text for each such card starts with the word: _Environment_. These cards can change the physical environment in which your characters and companies move and take actions. For example, they can affect movement, region types, site types, an attack's number of strikes, and the prowess of characters and creatures.
+
+_Resource environment_ cards represent influencing the physical nature of Middle-earth towards "good." _Hazard environment_ cards represent influencing the physical nature of Middle-earth towards "evil."
+
+During play, the influence of good and evil on the environment shifts back and forth. These shifts are primarily focused through the play of _Doors of Night_ (a hazard), _Gates of Morning_ (a resource), and _Twilight_ (special).
+
+When a _Doors of Night_ is played, all resource environment cards are discarded (i.e., the influence of good wanes) and all hazard environment cards become more powerful. Middle-earth is more dangerous for your characters.
+
+When a _Gates of Morning_ is played, all hazard environment cards are discarded (i.e., the influence of evil wanes) and all resource environment cards become more powerful. Middle-earth is safer for your characters.
+
+_Twilight_ causes one environment card to be discarded. Since it is often used to cancel a _Doors of Night_ or a _Gates of Morning_, _Twilight_ represents a shift towards the natural balance between good and evil. _Twilight_ can be played at anytime, either as a resource or as a hazard (it does not count against the hazard limit).
+
+#### Using a Palantir
+
+A character that controls (i.e., bears) a Palantir can _use_ its abilities if one of the following occurs:
+
+ - The Palantir is "aligned" (i.e., it has an _Align Palantir_ card with it). An aligned Palantir may be transferred, but it becomes unaligned if moved.
+ - The bearer is a sage, he taps, and he plays a _Use Palantir_ card.
+ - The bearer is Saruman and he taps.
+
+#### Playing Nazgul
+
+When you play a Nazgul, you must decide whether it is being played as a creature or as a permanent-event. If played as a creature, it is handled like any other creature.
+
+If played as a permanent-event, it remains in play until it is tapped to use its special ability. Tapping a Nazgul permanent-event counts as playing a hazard for all purposes (i.e., hazard limit, targeting restrictions, etc.).
 
 ---
 
