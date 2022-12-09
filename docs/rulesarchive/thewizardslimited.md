@@ -7,27 +7,6 @@ permalink: /rules-archive/the-wizards-limited
 search_exclude: true
 ---
 
-<details markdown="block">
-  <summary>
-   CONTENTS
-  </summary>
-  {: .text-gamma }
-- TOC
-{:toc}
-</details>
-
-<details markdown="block">
-  <summary>
-    NOTES <img src="/assets/images/scroll.svg">
-  </summary>
-  {: .text-gamma }
-  
-{: .counsel }
-> The rulesbooks in the Rules Arrchive reflect the published text without any errata. However, they do have minor corrections to typographical, clerical, and typesetting issues in the original text. Such corrections are <b>not</b> annotated.
-</details>
-
----
-
 # MIDDLE-EARTH: THE WIZARDS
 
 {: .text-center .text-beta }
@@ -1029,6 +1008,11 @@ _Address rules questions and comments via email to metwice@aol.com or via snail 
 **Playtesting Credits:** James Andrews, Christian Antonini, Kevin Barrett, D. Begiebing, Guy Botero, Brian Bouton, Jay Bryan, Brian Carr, Waldon Chisholm, Silvio Negri Clementi, Frank Coker, Jessica Colborn, R. Mark Colborn, Philip DeLuca, D. Dennis, Bernd Dietrich, Bill Edwards, O. Estefania, Klaus Etzold, Andrea Fattori, K. Fischer, Luigi Lo Forti, Scott Frazer, Wendy Frazer, Madai Frey, Matthew Fulton, Kevin Garber, Eduard Garcia, David Glenn, Jesse Goldstein, O. Johnston, Robert Kelly, Ralph Kennedy, Oscar Lafuente, Nick Laiacona, Steve Marvin, F. Navarro, Will Niebling, William Niebling, Elmar Perkuhn, D. Platnick, Frank Pfeifer, Jeffrey C. Riley, Cory John Rueb, Francesc Matas Salla, Doug Schnur, Jason Smith, Lowell Stouder, Henri Jean Vanaise, J.L. Viadel, D. Villanueva, Dave Weinstein, James Whitehouse, M. Wilson, Darrell Zuercher, Steven Balbo & "The Arcane Circle," J.L. Martinez & the Heroe Research Group, the Berkeley Games crew.
 
 ---
+
+{: .text-center .text-gamma }
+ANNOTATIONS
+
+The Rules Archive provides the original published text without modification from errata or official clarifications. However, they do have corrections to minor typographical, grammatical, clerical, and typesetting issues in the original text. Such corrections are not annotated. Anything in the original text that goes beyond a minor issue is left unaltered and described in these annotations.
 
 [^specialrules]: The Table of Contents includes a reference to "Special Rules for Character Death" but this section of rules does not appear in the rulesbook.
 [^bar]: This web version of the rules is not marked with bars. See the printed _The Wizards Limited_ Rulesbook.
