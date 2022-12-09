@@ -1627,5 +1627,4 @@ Dark-domains  |  ![](/assets/images/dark-domain.svg)
 {: .text-center .text-gamma }
 ANNOTATIONS
 
-The Rules Archive provides the original published text without modification from errata or official clarifications. However, they do have corrections to minor typographical, grammatical, clerical, and typesetting issues in the original text. Such corrections are <b>not</b> annotated. Anything in the original text that goes beyond a minor issue is left unaltered and described in these annotations.
-
+The Rules Archive provides the original published text without modification from errata or official clarifications. However, they do have corrections to minor typographical, grammatical, clerical, and typesetting issues in the original text. Such corrections are not annotated. Anything in the original text that goes beyond a minor issue is left unaltered and described in these annotations.
