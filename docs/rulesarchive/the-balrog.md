@@ -7,42 +7,37 @@ permalink: /rules-archive/the-balrog
 search_exclude: true
 ---
 
-<details markdown="block">
-  <summary>
-   CONTENTS
-  </summary>
-  {: .text-gamma }
-- TOC
-{:toc}
-</details>
-
-<details markdown="block">
-  <summary>
-    NOTES <img src="/assets/images/scroll.svg">
-  </summary>
-  {: .text-gamma }
-  
-{: .counsel }
-> These rules include emendations correcting minor typographical and clerical errors in the original text. These emendations are <b>not</b> annotated. 
-</details>
----
-
 # MIDDLE-EARTH: THE BALROG
 
 {: .text-center }
 Rules Summary & Play Tips
 
+## INTRODUCTION
+
+There are two different _Middle-earth: The Balrog_ (MEBA) boxes-The Shadow-deeps (reddish) and the Balrog's Host (bluish). Together, these two boxes contain at least one copy of each of the 104 MEBA expansion cards. So, if you have purchased both boxes, you have a complete set of the MEBA cards.
+
+Each MEBA box contains all of the cards for a preconstructed Middle-earth Collectible Card Game (MECCG) deck-everything you need, except for a pair of dice, to challenge any opponent to a fun and competitive match of MECCG.
+
+This rulesbook has four parts:
+
+ - The specific rules for MEBA
+ - The play tips and deck lists for the two preconstructed MEBA decks
+ - The MECCG rules summary
+ - The card diagrams and Middle-earth map
+
 # SPECIFIC RULES FOR MIDDLE-EARTH: THE BALROG
 
 This is an expansion set of over 100 cards for the Middle-earth Collectible Card Game. While it is fully compatible with both Middle-earth: The Wizards and Middle-earth: The Lidless Eye, Middle-earth : The Balrog focuses on a player using resources from The Lidless Eye.
-The Balrog is supremely confident of his own immense personal power. After all, just like Sauron, he was one of Morgoth's chief lieutenants. The Balrog tends to rely on brute force and direct confrontation rather than more subtle approac hes ofte n used by Ringwraiths and Wizards. His goals are basic and simple-accumulate power and destroy his enemies. If he can do this, he can become a dominant power in Middle-earth-a factor to which both the Dark Lord and the Free Peoples will be forced react.
-Note: Middle- earth: The Balrog introduces a new classification of creatures called "Spawn." These monstrous creatures were created by Morgoth or other fallen spirits. Like the Balrog, a few Spawn survived the War of the Wrath and hid deep underground.
 
-A BALROG PLAYER
+The Balrog is supremely confident of his own immense personal power. After all, just like Sauron, he was one of Morgoth's chief lieutenants. The Balrog tends to rely on brute force and direct confrontation rather than more subtle approac hes ofte n used by Ringwraiths and Wizards. His goals are basic and simple-accumulate power and destroy his enemies. If he can do this, he can become a dominant power in Middle-earth-a factor to which both the Dark Lord and the Free Peoples will be forced react.
+
+**Note:** Middle-earth: The Balrog introduces a new classification of creatures called "Spawn." These monstrous creatures were created by Morgoth or other fallen spirits. Like the Balrog, a few Spawn survived the War of the Wrath and hid deep underground.
+
+## A BALROG PLAYER
 
 A Balrog player acts as a Ringwraith player. Any card and rules text applying to a Ringwraith also applies to The Balrog (e.g., if a card re fers to a Ringwraith, it now applies to "a Ringwraith or The Balrog").
 
-However, in stead of using the special rules listed on page 19 of this booklet (or on page 59 of the MELE rules), a Balrog player uses the following special rules:
+However, instead of using the special rules listed on page 19 of this booklet (or on page 59 of the MELE rules), a Balrog player uses the following special rules:
 
  - Any ring in The Balrog's company at the beginning of the end-of-turn phase is automatically tested. Any ring test in The Balrog's company is a modified by -2.
  - The Balrog may carry items (including rings) but may not use them (i.e., an item has no effect on The Balrog's company or on his attributes and abilities).
@@ -50,7 +45,7 @@ However, in stead of using the special rules listed on page 19 of this booklet (
  - Normally, The Balrog may not use starter and region movement (as stated on his card). However, the play of certain resources can expand his movement capabilities.
  - The Balrog's company is always overt.
 
-VICTORY CONDITIONS
+## VICTORY CONDITIONS
 
 As a Balrog player, you may win in the same way a MELE Ringwraith wins: your opponent is eliminated or you recover The One Ring or you have the most marshalling points at the Audience with Sauron. The
 following exceptions apply:
@@ -59,29 +54,28 @@ following exceptions apply:
  - The Audience with Sauron is handled normally, and victory is determined in the standard way by comparing marshalling points. However, to you (The Balrog) it is called your Day of Decision and your marshalling points reflect how far you have progressed towards taking your true place in Middle-earth. You must
 play Sudden Call to call your Day of Decision.
 
-GETTING READY TO PLAY
+## GETTING READY TO PLAY
 
 A Balrog player prepares for play just as a Ringwraith player does, with the following exceptions:
 
-Declaring that You Are a Balrog Player
+#### Declaring that You Are a Balrog Player
 
 If you include The Balrog card (the character card with the special reddish background) in your deck or sideboard, you are a "Balrog player." In this case, you must tell your opponent before choosing starting companies.
-Note: You and your opponent may both be Balrog players, but the winner will probably the first player to get his Balrog into play.
 
-Your Location Deck and Sites
+**Note**: You and your opponent may both be Balrog players, but the winner will probably the first player to get his Balrog into play.
+
+#### Your Location Deck and Sites
 
 Your location deck may include one copy of each of the minion site cards with the following exceptions:
 
  - Instead of the normal minion site cards use the Balrog specific site cards for:
-
- - Moria, Carn Dum, Doi Guldur, Minas Morgul
- - All Under-deeps site cards
- - All Dark-hold s (Barad-dur, Cirith Ungol, Cirith Gorgor)
-
+      - Moria, Carn Dum, Doi Guldur, Minas Morgul
+      - All Under-deeps site cards
+      - All Dark-hold s (Barad-dur, Cirith Ungol, Cirith Gorgor)
  - Since they are your only Darkhavens, The Under-gates and Moria are the only site cards that you may include multiple copies of in your location deck.
  - Geann a-Lisch is a Ruins & Lairs with no Darkhaven effects.
 
-Your Starting Company, Play Deck, and Sideboard
+#### Your Starting Company, Play Deck, and Sideboard
 
 Your starting company and play deck (and your sideboard) may be constructed like any other Ringwraith's with the following exceptions:
 
@@ -92,7 +86,8 @@ Your starting company and play deck (and your sideboard) may be constructed like
 "Balrog specific" cards does not require that The Balrog be in play, only that you are a Balrog player.
  - Agents only count as hazards, not as characters.
  - A Balrog player may not include any of the following cards:
-Above the Abyss
+
+| Above the Abyss
 Bade to Rule
 The Balrog (Ally)
 Balrog of Moria
@@ -107,7 +102,7 @@ Helm of Fear
 Heralded Lord
 Durin 's Bane
 Starting Site
-Kill All But NOT the Halflings
+Kill All But NOT the Halflings | 
 The Lidless Eye
 Morgul-blade
 News of the Shire
@@ -120,338 +115,159 @@ Ringwraith Unleashed cards
 Sauron
 They Ride Together
 Use Your Legs
-While the Yellow Face Sleeps
-You may have up to two starting companies-they
-may begin play at Moria and/or The Under-gates.
-MOVEMENT
-There are three types of basic movement in MECCG:
-starter movement, region movement, and Under-deeps
+While the Yellow Face Sleeps |
+
+#### Starting Site 
+
+You may have up to two starting companies-they may begin play at Moria and/or The Under-gates.
+
+## MOVEMENT
+
+There are three types of basic movement in MECCG: starter movement, region movement, and Under-deeps
 movement.
-• Balrog companies can never use starter movement.
-• When one of your Balrog companies moves to a site,
-you and your opponent draw cards based upon the site
-being moved to. This applies even if moving to one of
-your Darkhavens.
-CHARACTERS AND COMPANIES
-• The Balrog must come into play at The Under-gates
-(i.e., he may not come into play at Moria) .
-• Characters with a home site of "Any Dark-hold" have
-a home site of"Any non-Dark-hold Under-deeps site"
-instead.
-• During his organization phase, a Balrog player may
-bring into play (and/or remove from play) up to two
-characters--the second character must be non-unique.
-The normal requirements for bringing into play (or
-removing from play) a character must still be met.
 
-• When a Balrog player brings into play a non-unique
-character with a mind of 3 or less, that character may
-come from his hand, his discard pile, or his sideboard.
-• Agents may not be played as characters.
-MISCELLANEOUS
-• If you are a Balrog player, your opponent may not
-play any of the following cards: The Balrog (Ally),
-The Black Council, Durin 'sBane, Ba/rag of Moria,
-Reluctalll Final Parting.
-However, if at any time your opponent has one of
-these cards in his hand, he may remove it from play
-and bring a card from his sideboard into his play deck.
-• Rings are not automatically tested for a Balrog player
-at Barad-dur.
-• A Balrog player may not store anything at Barad-dur.
-• She/ob, Spider of Mor/at, and Ba/rag of Moria are
-Spawn.
-• A non-Balrog player cannot use Balrog sites. However,
-for the purposes of playing certain hazards, a
-non-Balrog player's location deck may include one
-copy each of: Ancient Deep-hold, The Wind-deeps,
-The Drowning Deeps, The Rusted-deeps, and Remains
-ofThangorodrim (i.e., the Balrog sites for which there
-is no corresponding hero or minion site).
-• If The Balrog is in play or has been defeated, ignore
-all Balrog automatic-attacks (i.e., at The Under-gates).
-DEFEATING A
-PERMANENT-EVENT (Clarification)
-Certain hazard permanent-events indicate that they
-give "kill" marshalling points (e.g., Dragon "Ahunt" and
-"At Home" cards, the "Spawn" hazards from ME: The
-Balrog, etc .). Each of these cards has an attack associated
-with it. If such an attack is defeated, treat the associated
-card as a defeated creature.
-CARDS WITH MULTIPLE
-ACTIONS (Clarification)
-If a card specifies that more than one action occurs
-when the card is itself resolved in a chain of effects, all
-of these actions are to be resolved in the card's chain of
-effects uninterrupted and in the order listed on the card.
-No actions may be declared to occur between these
-multiple actions. The actions listed on the card are considered
-to have been declared in the reverse order as
-they are printed. As an exception, in one of the effects
-of a card is an attack, cards may be played that cancel
-the attack, cancel one of the strikes, or that otherwise
-are playable during the strike sequence.
+ - Balrog companies can never use starter movement.
+ - When one of your Balrog companies moves to a site, you and your opponent draw cards based upon the site being moved to. This applies even if moving to one of your Darkhavens.
 
-PLACEMENT OF CARDS
-"OFF TO THE SIDE" (Clarification)
-Certain cards and effects require other cards be placed
-"off to the side" (e.g., Press Gang). Cards placed off to
-the side are placed on the playing surface, usually off to
-the side of the normal area of play. Such cards are kept
-with their host permanent-event that caused this effect.
-Any such card absolutely cannot be targeted or otherwise
-affected by the game except by cards that specifical
-ly affect cards placed "off to the side."
-Cards placed off to the side are only in play for the
-purposes of uniqueness. Unless stated otherwise, when
-a host permanent-event is removed from the playing
-surface, any cards placed off to the side under it are
-di scarded . Usually the host card will state a mechanic
-that affects the cards placed off to the side with it. Unless
-stated otherwise on its host card, a card placed off
-to the side will give its marshalling points to its owner.
-As a major exception, "taking prisoners" cards (primarily
-from Middle-earth: Dark Minions) yield negative
-marshalling points for characters taken prisoner.
-DISCARDING CARDS (Clarification)
-When a card leaves active play (discarded, eliminated,
-returned to hand, etc.). discard all cards played on it.
-TOURNAMENT RULES
-• Spawn hazard permanent-events count as half a creature
-for the Council of L6rien 12-creature minimum.
-• A Balrog player has an extra +5 general influence that
-cannot be used to control characters.
-THE UNDER-DEEPS
-Note: Created by streams of molten rock and expanded
-by geothermal eruptions of super-hot gas, the
-Under-deeps are a result of a combination of natural
-and supernatural forces. The hand ofMorgothjoined
-what was once a collection of sundered cavern complexes.
-His greater servants used this maze of tunnels
-and chambers to travel surreptitiously throughout
-Endor.
-Although Endor changed during the Elder Days,
-the core of the Under-deeps survive. Travel between
-the underground sites is now difficult, if not impossible,
-for all but the greatest (and luckiest) explorers.
-Blocked or twisting away from their original course,
-the Under-deeps seem broken. Junctions and strongholds
-seem lost. Many appear as simple caves or side
-passages. Others lie hidden behind veils of rock.
-Nearly all are still there, though, awaiting discovery.
+#### CHARACTERS AND COMPANIES
 
-An Under-deeps site card has "Under-deeps" in the
-section that normally gives the site's region. An Underdeeps
-site is just like any other site with the following
-exceptions:
-• Unlike other sites, each Under-deeps site is not considered
-to be in a region-instead it is located below
-another site, called the Under-deeps site's surface site.
-• Instead of a nearest Haven, each Under-deeps site lists
-all of its "Adjacent Sites ." Each Under-deeps site is
-adjacent to its one surface site and a number of other
-Under-deeps sites. The first adjacent site listed is always
-the Under-deeps site's surface site.
-• Eagle-mounts and Gwaihir cannot be used to move to
-or from an Under-deeps site.
-• A company moving to and/or from an Under-deeps
-site has no site path. So, hazards may only be played
-keyed to the company's new site.
-• An environment card that changes site type (e.g., Choking
-Shadows, Quiet Lands, etc.) cannot be used to
-change the site type of an Under-deeps site.
-• Unless you are a Balrog player; you may not consider
-marshalling points associated with a company at an
-Under-deeps site for the purposes of calling the Free
-Council, Audience with Sauron, or Day of Decision.
-• Normally, when you successfully play an item, faction,
-ally, or information at a site, the site card is tapped
-and another character may tap to play a minor item.
-At an Under-deeps site, you can play any item playable
-at the site instead of this minor item.
-• For the purposes of playing hazards, a Free-hold is
-never considered to be the surface site of an Underdeeps
-site.
-Example: Azog taps and plays High Helm (a major
-item) at The Gem-deeps and the site taps. Then, a
-Hill-troll in Azog's company could tap to play a minor
-item at a non-Under-deeps site. But The Gemdeeps
-is an Under-deeps site, so the Hill-troll can tap
-to play any item playable at The Gem-deeps: a minor
-item, a major item, or a gold ring. He taps and plays
-A Little Gold Ring.
-Under-deep Site Movement
-One of your companies that begins its tum at the surface
-site of an Under-deeps site can move normally or
-it can move to its adjacent Under-deeps site (i .e. , the
-company moves to an Under-deeps site from its surface
-site). One of your companies that begins its tum at an
-Under-deeps site may only move to one of the adjacent
-sites listed on the Under-deeps site card.
+ - The Balrog must come into play at The Under-gates (i.e., he may not come into play at Moria).
+ - Characters with a home site of "Any Dark-hold" have a home site of "Any non-Dark-hold Under-deeps site" instead.
+ - During his organization phase, a Balrog player may bring into play (and/or remove from play) up to two characters--the second character must be non-unique. The normal requirements for bringing into play (or removing from play) a character must still be met.
+ - When a Balrog player brings into play a non-unique character with a mind of 3 or less, that character may come from his hand, his discard pile, or his sideboard.
+ - Agents may not be played as characters.
 
-Each adjacent site is followed by a number in parentheses-
-this number indicates how difficult it is to move
-from the Under-deeps site to the adjacent site. When an
-adjacent site is revealed by one of your companies whose
-site of origin is an Under-deeps site, you must make a
-roll (2D6). If the result is greater than or equal to the
-number in parentheses following the adjacent site as
-listed on its site of origin, the movement/hazard phase
-proceeds normally. Otherwise, the company returns to
-Note: A company moving from a surface site to its
-Under-deeps site does not need to make a roll. As an
-exception to thi s, a Balrog company moving between
-the Blue Mountain Dwarf-hold and the The Drowning-
-deeps (or between the Iron Hill Dwarf-hold and
-the The Rusted-deeps) must roll the number given
-on the Under-deeps site, which is normally 13 and
-impossible to roll.
-Note: Movement between an Under-deeps site and
-its surface site is not affected by modifications that
-affect movement between adjacent Under-deeps sites.
-Modifications to movement to adjacent Under-deeps
-sites do apply.
+## MISCELLANEOUS
 
-its site of origin (no cards are drawn) and the movement/
-hazard phase proceeds as if the company had not
-moved.
-Example: A Balrog company that starts at Carn Dum
-can move normally or it can move to The Irondeeps-
-The Iron-deeps li sts Carn Dum as an adjacent
-site. Similarly, a minion company that starts at
-The Iron-deeps may attempt to move to any adjacent
-site li sted : Carn Dum (0), The Under-leas (6), or The
-Under-vaults (7). However, after committing to movement,
-the moving player must roll a 6 or better to
-successfully move to The Under-leas or a 7 or better
-to successfully move to The Under-vaults.
-Example: A company is moving from The Undergrottos
-to Goblin-gate with Long Winter in play. Long
-Winter's effect of returning a company to the site of
-origin has no effect , since it depends on the company's
-site path, and the company has no site path . Long
-Winter's effect of tapping a site will work, since that
-effect depends on the site's site path, which still exists.
-Finally, creatures can only be played keyed to
-the Shadow-hold of Goblin-gate.
+ - If you are a Balrog player, your opponent may not play any of the following cards: The Balrog (Ally), The Black Council, Durin's Bane, Balrog of Moria, Reluctant Final Parting.<br>However, if at any time your opponent has one ofthese cards in his hand, he may remove it from play and bring a card from his sideboard into his play deck.
+ - Rings are not automatically tested for a Balrog player at Barad-dur.
+ - A Balrog player may not store anything at Barad-dur.
+ - Shelob, Spider of Morlat, and Balrog of Moria are Spawn.
+ - A non-Balrog player cannot use Balrog sites. However, for the purposes of playing certain hazards, a non-Balrog player's location deck may include one copy each of: Ancient Deep-hold, The Wind-deeps, The Drowning Deeps, The Rusted-deeps, and Remains of Thangorodrim (i.e., the Balrog sites for which there is no corresponding hero or minion site).
+ - If The Balrog is in play or has been defeated, ignore all Balrog automatic-attacks (i.e., at The Under-gates).
 
-THE SHADOW-DEEPS
-PLAY TIPS
-This deck features the Balrog's Great Shadow formwhich
-is hi s stealthiest and most reclu sive-along with
-bold adventuring in Sauron 's domains. The Under-deeps
-beneath the Dark Lord's holds tempt the Balrog with
-the lingering power of Morgoth, the creator and Black
-Enemy. The Balrog di spatches his Ores and Trolls to
-retrieve what they can here and from the strongholds
-above. The deck's hazards center on Spiders and Animals
-and the horrible Spawn of Morgoth, newly unearthed
-for this expansion.
-Starting Company at Moria
-• Azog controls two Mountain-maggots, Buthrakaur
-controls the Ore Veteran. Instead of two minor items,
-start with Orders from the Great Demon on the company
-and Gangways over the Fire.
-Suggested Sites for Resources
-Black Mace (x2)-Cirith Gorgor, Minas Morgul,
-Barad-dilr, or Remains of Thangorodrim (after
-tapping otherwise)
-Cave Tmll-(tapped) The Sulfur-deeps, The lron deeps,
-The Under-courts, or The Under-galleries
+## DEFEATING A PERMANENT-EVENT (Clarification)
+
+Certain hazard permanent-events indicate that they give "kill" marshalling points (e.g., Dragon "Ahunt" and "At Home" cards, the "Spawn" hazards from ME: The Balrog, etc.). Each of these cards has an attack associated with it. If such an attack is defeated, treat the associated card as a defeated creature.
+
+## CARDS WITH MULTIPLE ACTIONS (Clarification)
+
+If a card specifies that more than one action occurs when the card is itself resolved in a chain of effects, all of these actions are to be resolved in the card's chain of effects uninterrupted and in the order listed on the card. No actions may be declared to occur between these multiple actions. The actions listed on the card are considered to have been declared in the reverse order as they are printed. As an exception, in one of the effects of a card is an attack, cards may be played that cancel the attack, cancel one of the strikes, or that otherwise are playable during the strike sequence.
+
+## PLACEMENT OF CARDS "OFF TO THE SIDE" (Clarification)
+
+Certain cards and effects require other cards be placed "off to the side" (e.g., Press Gang). Cards placed off to the side are placed on the playing surface, usually off to the side of the normal area of play. Such cards are kept with their host permanent-event that caused this effect. Any such card absolutely cannot be targeted or otherwise affected by the game except by cards that specifically affect cards placed "off to the side." 
+
+Cards placed off to the side are only in play for the purposes of uniqueness. Unless stated otherwise, when a host permanent-event is removed from the playing surface, any cards placed off to the side under it are discarded. Usually the host card will state a mechanic that affects the cards placed off to the side with it. Unless stated otherwise on its host card, a card placed off to the side will give its marshalling points to its owner. As a major exception, "taking prisoners" cards (primarily from Middle-earth: Dark Minions) yield negative marshalling points for characters taken prisoner.
+
+## DISCARDING CARDS (Clarification)
+
+When a card leaves active play (discarded, eliminated, returned to hand, etc.). discard all cards played on it.
+
+## TOURNAMENT RULES
+
+ - Spawn hazard permanent-events count as half a creature for the Council of L6rien 12-creature minimum.
+ - A Balrog player has an extra +5 general influence that cannot be used to control characters.
+
+## THE UNDER-DEEPS
+
+**Note:** Created by streams of molten rock and expanded by geothermal eruptions of super-hot gas, the Under-deeps are a result of a combination of natural and supernatural forces. The hand of Morgoth joined what was once a collection of sundered cavern complexes. His greater servants used this maze of tunnels
+and chambers to travel surreptitiously throughout Endor.
+
+Although Endor changed during the Elder Days, the core of the Under-deeps survive. Travel between the underground sites is now difficult, if not impossible, for all but the greatest (and luckiest) explorers. Blocked or twisting away from their original course, the Under-deeps seem broken. Junctions and strongholds
+seem lost. Many appear as simple caves or side passages. Others lie hidden behind veils of rock. Nearly all are still there, though, awaiting discovery.
+
+An Under-deeps site card has "Under-deeps" in the section that normally gives the site's region. An Underdeeps site is just like any other site with the following exceptions:
+
+ - Unlike other sites, each Under-deeps site is not considered to be in a region-instead it is located below another site, called the Under-deeps site's surface site.
+ - Instead of a nearest Haven, each Under-deeps site lists all of its "Adjacent Sites." Each Under-deeps site is adjacent to its one surface site and a number of other Under-deeps sites. The first adjacent site listed is always the Under-deeps site's surface site.
+ - Eagle-mounts and Gwaihir cannot be used to move to or from an Under-deeps site.
+ - A company moving to and/or from an Under-deeps site has no site path. So, hazards may only be played keyed to the company's new site.
+ - An environment card that changes site type (e.g., Choking Shadows, Quiet Lands, etc.) cannot be used to change the site type of an Under-deeps site.
+ - Unless you are a Balrog player; you may not consider marshalling points associated with a company at an Under-deeps site for the purposes of calling the Free Council, Audience with Sauron, or Day of Decision.
+ - Normally, when you successfully play an item, faction, ally, or information at a site, the site card is tapped and another character may tap to play a minor item. At an Under-deeps site, you can play any item playable at the site instead of this minor item.
+ - For the purposes of playing hazards, a Free-hold is never considered to be the surface site of an Underdeeps site. 
+
+**Example:** Azog taps and plays High Helm (a major item) at The Gem-deeps and the site taps. Then, a Hill-troll in Azog's company could tap to play a minor item at a non-Under-deeps site. But The Gemdeeps is an Under-deeps site, so the Hill-troll can tap to play any item playable at The Gem-deeps: a minor item, a major item, or a gold ring. He taps and plays A Little Gold Ring.
+
+#### Under-deep Site Movement
+
+One of your companies that begins its tum at the surface site of an Under-deeps site can move normally or it can move to its adjacent Under-deeps site (i.e., the company moves to an Under-deeps site from its surface site). One of your companies that begins its tum at an Under-deeps site may only move to one of the adjacent sites listed on the Under-deeps site card.
+
+Each adjacent site is followed by a number in parentheses-this number indicates how difficult it is to move from the Under-deeps site to the adjacent site. When an adjacent site is revealed by one of your companies whose site of origin is an Under-deeps site, you must make a roll (2D6). If the result is greater than or equal to the number in parentheses following the adjacent site as listed on its site of origin, the movement/hazard phase proceeds normally. Otherwise, the company returns to its site of origin (no cards are drawn) and the movement/hazard phase proceeds as if the company had not moved.
+
+Note: A company moving from a surface site to its Under-deeps site does not need to make a roll. As an exception to this, a Balrog company moving between the Blue Mountain Dwarf-hold and the The Drowning-deeps (or between the Iron Hill Dwarf-hold and the The Rusted-deeps) must roll the number given on the Under-deeps site, which is normally 13 and impossible to roll.
+
+Note: Movement between an Under-deeps site and its surface site is not affected by modifications that affect movement between adjacent Under-deeps sites. Modifications to movement to adjacent Under-deeps sites do apply.
+
+Example: A Balrog company that starts at Carn Dum can move normally or it can move to The Irondeeps-The Iron-deeps lists Carn Dum as an adjacent site. Similarly, a minion company that starts at The Iron-deeps may attempt to move to any adjacent site listed : Carn Dum (0), The Under-leas (6), or The Under-vaults (7). However, after committing to movement, the moving player must roll a 6 or better to successfully move to The Under-leas or a 7 or better to successfully move to The Under-vaults.
+
+Example: A company is moving from The Undergrottos to Goblin-gate with Long Winter in play. Long Winter's effect of returning a company to the site of origin has no effect, since it depends on the company's site path, and the company has no site path. Long Winter's effect of tapping a site will work, since that effect depends on the site's site path, which still exists. Finally, creatures can only be played keyed to the Shadow-hold of Goblin-gate.
+
+# THE SHADOW-DEEPS<br>PLAY TIPS
+
+This deck features the Balrog's Great Shadow form which is his stealthiest and most reclusive-along with bold adventuring in Sauron's domains. The Under-deeps beneath the Dark Lord's holds tempt the Balrog with the lingering power of Morgoth, the creator and Black Enemy. The Balrog dispatches his Orcs and Trolls to retrieve what they can here and from the strongholds above. The deck's hazards center on Spiders and Animals and the horrible Spawn of Morgoth, newly unearthed for this expansion.
+
+#### Starting Company at Moria
+
+ - Azog controls two Mountain-maggots, Buthrakaur controls the Ore Veteran. Instead of two minor items, start with Orders from the Great Demon on the company and Gangways over the Fire.
+
+#### Suggested Sites for Resources
+
+Black Mace (x2)-Cirith Gorgor, Minas Morgul, Barad-dilr, or Remains of Thangorodrim (after tapping otherwise)
+
+Cave Troll-(tapped) The Sulfur-deeps, The lron deeps, The Under-courts, or The Under-galleries
+
 Descent through Fire-The Under-courts or
 The Under-galleries
-Evil Things Lingering-The Under-courts, Remains
-of Thangorodrim, or The Under-gal leries
-Great Troll-The Under-grottos, The Iron-deeps, The
-Under-vault s, The Under-leas, The Sulfur-deeps, or
-The Drowning-deeps
-High Helm-any major item Under-deeps site (after
-tapping otherwise), Cirith Ungol, Carn Dum, or
-Barad-dilr
-Iron Shield of Old (x2)-(after tapping otherwise)
-The Under-grottos, The Under-vaults,
-The Under-leas, The Drowning-deeps, or
-Remains of Thangorodrim
-Maker '.i Map-Dol-Guldur, Remains of
-Thangorodrim, or The Under-galleries
-Ores of Mirkwood-Sarn Gori wing
-Ores of Moria- Moria
-Sable Shield-any major item Under-deeps site (after
-tapping otherwise}, Cirith Ungol, Carn Dum, or
-Barad-dilr
+
+Evil Things Lingering-The Under-courts, Remains of Thangorodrim, or The Under-gal leries
+
+Great Troll-The Under-grottos, The Iron-deeps, The Under-vaults, The Under-leas, The Sulfur-deeps, or The Drowning-deeps
+
+High Helm-any major item Under-deeps site (after tapping otherwise), Cirith Ungol, Carn Dum, or Barad-dur
+
+Iron Shield of Old (x2)-(after tapping otherwise) The Under-grottos, The Under-vaults, The Under-leas, The Drowning-deeps, or Remains of Thangorodrim
+
+Maker's Map-Dol-Guldur, Remains of Thangorodrim, or The Under-galleries
+
+Orcs of Mirkwood-Sarn Goriwing
+
+Orrs of Moria-Moria
+
+Sable Shield-any major item Under-deeps site (after tapping otherwise}, Cirith Ungol, Carn Dum, or Barad-dur
+
 Stinker-Goblin-gate
+
 Tempest of Fire-Dead Marshes
-Breachthe Hold (sideboard)-The Drowning-deeps
-Roots of the Earth (sideboard)-The Drowning-deeps
 
-Resource Play
-The power of this deck improves dramatically using
-Great Shadow's ability to recycle non-short-event resources
-and characters. Guiltlessly discard inconvenient
-MP sources drawn early in the game, because you can
-recycle and redraw them later. Access additional resources
-from the sideboard by tapping The Balrog to
-bring five to your discard pile, cycling these using Great
-Shadow's ability. Cycle and recycle Skies of Fire to foil
-an opponent 's Doors of Night strategy.
-The deck relies on one or more high prowess nonBalrog
-companies to roam the heart of Mordor and beyond.
-There are plenty of cards in the deck to make
-your characters colossal fighters. I'll Report You (x2},
-Black Mace (x2}, and Descent Through Fire are the main
-ones, so take special care to play these.
-The only underground route to The Under-galleries
-and The Under-courts-the two most important sitesgoes
-through The Sul fur-deeps. Therefore, avoid tapping
-The Sulfur-deeps until playing Descent Through
-Fire and tapping both later sites. Also, avoid tapping
-The Under-leas and The Under-vaults too early.
-The Balrog
-As soon as convenient, tap The Balrog to bring to the
-discard pile Breach the Hold, Roots of the Earth, Memories
-of Old Torture, Flame of Udun, and a sideboard
-resource that reacts to your opponent. These cards are
-now ready to easi ly pop into the play deck using Great
-Shadow's ab ility, and without taxing play.
-In Great Shadow form The Balrog should always be
-accompanied by his minions outside of a Darkhaven.
-While wai ting to draw Great Troll and Descent Through
-Fire, he should stay in Moria, conveniently bringing in
-characters and playing Ancient Secrets. When the Ores
-of Moria faction shows up, snag it for 3 MPs.
-Once The Balrog plays Descent Through Fire-the
-deck's most important card-bring in Breach the Hold
-and Roots of the Earth from the sideboard. Send the
-Balrog north to The Drowning-deeps/Remains of
-Thangorodrim area once you draw one of them. Most
-MP sources are playable between these two sites. Expect
-to have an excess of MP sources in hand as the
-game wears on if you have been recycling discarded
-ones. Consider Flame of Udun to maximize the Balrog's
-battle-readiness, though this minimizes playing additional
-MP cards.
-Eventually, Out He Sprang will hit the table, allowing
-The Balrog to surface for company vs. company
-combat against a hero opponent. To optimally prepare
-for attacking, bring in Flame of Udun , as The Balrog
-cannot move on the surface with Great Shadow.
+Breach the Hold (sideboard)-The Drowning-deeps Roots of the Earth (sideboard)-The Drowning-deeps
 
-Hazard Play
-The hazard mix contains plenty of Spiders, a handful
-of Animals, and enhancers for both. A few basic utility
-cards are included to cover blind spots. Certain enhancers-
-called Spawn-form a natural sub-theme of their
-own. Three of the deck's hazards depend on the number
-of Spawn in play. Take special care with the Spawn
-Monstrosity of Diverse Shape. It provides an ability of
-which you will no doubt make efficient use. However,
-it also creates a vicious automatic-attack at The Drowning-
-deeps and Remains ofThangorodrim. You must be
-prepared to either di scard this hazard yourself, cancel
-its attack, or sacrifice some scrub Ores to its horribly
-twisted mass.
+#### Resource Play
 
-DECK LIST
+The power of this deck improves dramatically using Great Shadow's ability to recycle non-short-event resources and characters. Guiltlessly discard inconvenient MP sources drawn early in the game, because you can recycle and redraw them later. Access additional resources from the sideboard by tapping The Balrog to bring five to your discard pile, cycling these using Great Shadow's ability. Cycle and recycle Skies of Fire to foil an opponent 's Doors of Night strategy. 
+
+The deck relies on one or more high prowess non-Balrog companies to roam the heart of Mordor and beyond. There are plenty of cards in the deck to make your characters colossal fighters. I'll Report You (x2}, Black Mace (x2}, and Descent Through Fire are the main ones, so take special care to play these.
+
+The only underground route to The Under-galleries and The Under-courts-the two most important sitesgoes through The Sulfur-deeps. Therefore, avoid tapping The Sulfur-deeps until playing Descent Through Fire and tapping both later sites. Also, avoid tapping The Under-leas and The Under-vaults too early.
+
+
+#### The Balrog
+
+As soon as convenient, tap The Balrog to bring to the discard pile Breach the Hold, Roots of the Earth, Memories of Old Torture, Flame of Udun, and a sideboard resource that reacts to your opponent. These cards are now ready to easily pop into the play deck using Great Shadow's ability, and without taxing play.
+
+In Great Shadow form The Balrog should always be accompanied by his minions outside of a Darkhaven. While waiting to draw Great Troll and Descent Through Fire, he should stay in Moria, conveniently bringing in characters and playing Ancient Secrets. When the Orcs of Moria faction shows up, snag it for 3 MPs.
+
+Once The Balrog plays Descent Through Fire-the deck's most important card-bring in Breach the Hold and Roots of the Earth from the sideboard. Send the Balrog north to The Drowning-deeps/Remains of Thangorodrim area once you draw one of them. Most MP sources are playable between these two sites. Expect to have an excess of MP sources in hand as the game wears on if you have been recycling discarded ones. Consider Flame of Udun to maximize the Balrog's battle-readiness, though this minimizes playing additional MP cards.
+
+Eventually, Out He Sprang will hit the table, allowing The Balrog to surface for company vs. company combat against a hero opponent. To optimally prepare for attacking, bring in Flame of Udun , as The Balrog cannot move on the surface with Great Shadow.
+
+#### Hazard Play
+
+The hazard mix contains plenty of Spiders, a handful of Animals, and enhancers for both. A few basic utility cards are included to cover blind spots. Certain enhancers-called Spawn-form a natural sub-theme of their own. Three of the deck's hazards depend on the number of Spawn in play. Take special care with the Spawn Monstrosity of Diverse Shape. It provides an ability of which you will no doubt make efficient use. However, it also creates a vicious automatic-attack at The Drowning- deeps and Remains ofThangorodrim. You must be prepared to either di scard this hazard yourself, cancel its attack, or sacrifice some scrub Ores to its horribly twisted mass.
+
+## DECK LIST
+
 Total: 132 cards - Cards in brackets [] are from earlier expansions.
 
 At Start (7)
@@ -461,15 +277,16 @@ the Great Demon
 Azog
 Buthrakaur
 Mountain-maggot (x2)
-[Ore Veteran]
+\[Orc Veteran]
 Other Characters ( 10)
 The Balrog (x3)
-[Burat]
-[Gorbag]
-[Ore Tracker (x2)]
-[Shagrat]
-[Tuma]
-[Wuluag]
+\[Burat]
+\[Gorbag]
+\[Orc Tracker (x2)]
+\[Shagrat]
+\[Tuma]
+\[Wuluag]
+
 Sites (20)
 Moria
 The Under-gates
@@ -488,9 +305,9 @@ Cirith Ungol
 Doi Guldur
 Minas Morgul
 Remains of Thangorodrim
-[Dead Marshes]
-[Goblin-gate]
-[Sam Goriwing]
+\[Dead Marshes]
+\[Goblin-gate]
+\[Sam Goriwing]
 
 Resources (32)
 MP Sources:
@@ -500,13 +317,14 @@ Evil Things Lingering
 Great Troll
 Maker's Map
 Tempest of Fire
-[Black Mace (x2)]
-[High Helm]
-[Iron Shield of Old (x2)]
-[Ores of Mirkwood]
-[Ores of Moria]
-[Sable Shield]
-[Stinker]
+\[Black Mace (x2)]
+\[High Helm]
+\[Iron Shield of Old (x2)]
+\[Orcs of Mirkwood]
+\[Orcs of Moria]
+\[Sable Shield]
+\[Stinker]
+
 Supporting Resources:
 Ancient Secrets (x2)
 Angband Revisited
@@ -517,8 +335,8 @@ Great Fissure (x2)
 Great Shadow (x2)
 Out He Sprang
 Vanguard of Might
-[Bold Thrust (x3)]
-[I'll Report You (x2)]
+\[Bold Thrust (x3)]
+\[I'll Report You (x2)]
 
 Hazards (32)
 Creatures:
@@ -530,23 +348,22 @@ Shelob's Brood (x2)
 Spawn of Ungoliant
 Ungoliant's
 Foul Issue
-Ungoliant 's Progeny
-[Giant Spiders (x3)]
-[Half-trolls of
-Far Harad (x2)]
-[Lesser Spiders (x3)]
-[Neeker-breekers (x2)]
+Ungoliant's Progeny
+\[Giant Spiders (x3)]
+\[Half-trolls of Far Harad (x2)]
+\[Lesser Spiders (x3)]
+\[Neeker-breekers (x2)]
+
 Events:
 Black Vapour
 Darkness Made By Malice
 The Reek
 Unabated in Malice
-[Foolish Words (x2)]
-[Full of Froth
-and Rage (x3)]
-[Greed]
-[Lure of Expedience (x2)]
-[Twilight (x2)]
+\[Foolish Words (x2)]
+\[Full of Froth and Rage (x3)]
+\[Greed]
+\[Lure of Expedience (x2)]
+\[Twilight (x2)]
 
 Sideboard (28)
 Resources
@@ -559,42 +376,36 @@ Hill-troll
 Memories of Old Torture
 Roots of the Earth
 Terror Heralds Doom
-[I'll Be at Your Heels]
-[Ore Veteran (x2)]
-[Piercing All Shadows]
-[Skies of Fire (x2)]
-[Sudden Call]
-[The Under-roads (x2)]
+\[I'll Be at Your Heels]
+\[Orc Veteran (x2)]
+\[Piercing All Shadows]
+\[Skies of Fire (x2)]
+\[Sudden Call]
+\[The Under-roads (x2)]
+
 Hazards
 Desire All for They Belly
 Glance of Arien
 The Sun Shone Fiercely
-[Corsairs of Umbar]
-[Covetous Thoughts (x2)]
-[Muster Disperses (x2)]
-[Stench of Mordor]
-[The Way ls Shut]
+\[Corsairs of Umbar]
+\[Covetous Thoughts (x2)]
+\[Muster Disperses (x2)]
+\[Stench of Mordor]
+\[The Way ls Shut]
 
 EXTRA CARDS (3)
 Longbottom Leaf
 No Better Use
 Rumours of Rings
 
-BALROG'S HOST
-PLAY TIPS
-The Balrog uses his Strangling Coils form in this deck
-to maximize direct influence and faction recruiting. He
-wants all Ore factions of the Misty Mountains in his
-Great Army. When the time is right, the Balrog burrows
-into the Iron Hill Dwarf-hold from the Under-deeps to
-claim the realm as his own-much as he took KhazaddGm,
-now called Moria. The hazards contain a mix of
-two sub-themes: Dragons/Drakes and roadblock.
+# BALROG'S HOST PLAY TIPS
+
+The Balrog uses his Strangling Coils form in this deck to maximize direct influence and faction recruiting. He wants all Orc factions of the Misty Mountains in his Great Army. When the time is right, the Balrog burrows into the Iron Hill Dwarf-hold from the Under-deeps to claim the realm as his own-much as he took KhazaddGm, now called Moria. The hazards contain a mix of two sub-themes: Dragons/Drakes and roadblock.
+
 Starting Company in Moria
-• Umagaur controls Bolg, Old Troll starts under general
-influence. In stead of two minor items, start with Orders
-from the Great Demon on the company and Gangways
-over the Fire.
+
+ - Umagaur controls Bolg, Old Troll starts under general influence. In stead of two minor items, start with Orders from the Great Demon on the company and Gangways over the Fire.
+
 Suggested Sites for Resources
 A Few Recruits-Gondmaeglom (tapped)
 Breach the Hold-The Rusted-deeps
