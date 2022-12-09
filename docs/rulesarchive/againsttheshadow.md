@@ -7,25 +7,6 @@ permalink: /rules-archive/against-the-shadow
 search_exclude: true
 ---
 
-<details markdown="block">
-  <summary>
-   CONTENTS
-  </summary>
-  {: .text-gamma }
-- TOC
-{:toc}
-</details>
-
-<details markdown="block">
-  <summary>
-    NOTES <img src="/assets/images/scroll.svg">
-  </summary>
-  {: .text-gamma }
-  
-{: .counsel }
-> These rules include emendations correcting minor typographical and clerical errors in the original text. These emendations  are <b>not</b> annotated. 
-</details>
-
 ---
 
 # MIDDLE-EARTH: AGAINST THE SHADOW
@@ -95,6 +76,11 @@ Each adjacent site is followed by a number in parentheses—this number indicate
 > **Example:** A minion company that starts at Carn Dum can move normally or it can move to The Iron-deep—-The Iron-deeps lists Cam Dum as an adjacent site. Similarly, a minion company that starts at The Iron-deeps may attempt to move to any adjacent site listed: Cam Dum (0), The Under-leas (5), or The Under-vaults (6). However, after committing to movement, the moving player must roll a 5 or better to successfully move to The Under-leas or a 6 or better to successfully move to The Under-vaults.
 
 ---
+
+{: .text-center .text-gamma }
+ANNOTATIONS
+
+The Rules Archive provides the original published text without modification from errata or official clarifications. However, they do have corrections to minor typographical, grammatical, clerical, and typesetting issues in the original text. Such corrections are not annotated. Anything in the original text that goes beyond a minor issue is left unaltered and described in these annotations.
 
 [^hoard]: On 29 June 1998 the [Hoards](/rules-archive/the-dragons#hoards) rule in _The Dragons_ received errara but this corresponding rule in _Against the Shadow_ did not receive the same errata. However, this rule change should be recognized here as well.
 [^successful]: On 29 June 1998 the [Characters Facing Multiple Strikes](/rules-archive/the-dragons#characters-facing-multiple-strikes) rule in _The Dragons_ received errara but this corresponding rule in _Against the Shadow_ did not receive the same errata. However, this rule change should be recognized here as well.
