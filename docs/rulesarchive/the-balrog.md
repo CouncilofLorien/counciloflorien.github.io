@@ -251,29 +251,8 @@ The hazard mix contains plenty of Spiders, a handful of Animals, and enhancers f
 {: .text-center }
 **Total:** 132 cards - Cards in brackets [] are from earlier expansions.
 
-| <u>At Start (7)</u><br>_Gangways over the Fire_<br>_Orders from the Great Demon_<br>Azog<br>Buthrakaur<br>Mountain-maggot (x2)<br>\[Orc Veteran] | <u>Other Characters (10)</u><br>The Balrog (x3)<br>\[Burat]<br>\[Gorbag]<br>\[Orc Tracker (x2)]<br>\[Shagrat]<br>\[Tuma] <br>\[Wuluag] |
-
-Sites (20)
-Moria
-The Under-gates
-The Drowning-deeps
-The Iron-deeps
-The Sulfur-deeps
-The Under-courts
-The Under-galleries
-The Under-grottos
-The Under-leas
-The Under-vaults
-Barad-dur
-Carn Dum
-Cirith Gorgor
-Cirith Ungol
-Dol Guldur
-Minas Morgul
-Remains of Thangorodrim
-\[Dead Marshes]
-\[Goblin-gate]
-\[Sam Goriwing]
+{: .v-align-text-top }	
+| <u>At Start</u> (7)<br>_Gangways over the Fire_<br>_Orders from the Great Demon_<br>Azog<br>Buthrakaur<br>Mountain-maggot (x2)<br>\[Orc Veteran] | <u>Other Characters</u> (10)<br>The Balrog (x3)<br>\[Burat]<br>\[Gorbag]<br>\[Orc Tracker (x2)]<br>\[Shagrat]<br>\[Tuma] <br>\[Wuluag] |
 
 Resources (32)
 MP Sources:
@@ -357,7 +336,29 @@ The Sun Shone Fiercely
 \[Covetous Thoughts (x2)]
 \[Muster Disperses (x2)]
 \[Stench of Mordor]
-\[The Way ls Shut]
+\[The Way Is Shut]
+
+<u>Sites (20)</u>
+<br>Moria
+<br>The Under-gates
+<br>The Drowning-deeps
+<br>The Iron-deeps
+<br>The Sulfur-deeps
+<br>The Under-courts
+<br>The Under-galleries
+<br>The Under-grottos
+<br>The Under-leas
+<br>The Under-vaults
+<br>Barad-dur
+<br>Carn Dum
+<br>Cirith Gorgor
+<br>Cirith Ungol
+<br>Dol Guldur
+<br>Minas Morgul
+<br>Remains of Thangorodrim
+<br>\[Dead Marshes]
+<br>\[Goblin-gate]
+<br>\[Sam Goriwing]
 
 EXTRA CARDS (3)
 Longbottom Leaf
