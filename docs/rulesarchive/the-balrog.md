@@ -420,11 +420,11 @@ Your organization phase is when you assign your characters into companies, and p
 
 ### BRINGING A CHARACTER INTO PLAY
 
-To bring a character into play you must have enough influence to control him. Each player has a pool of 20 general influence with which to control characters. Each point of general influence can be used to control one point of mind. A character's mind is shown in the white head symbol on the left side of the character card. A character with eight mind would use eight points of general influence. 
+To bring a character into play you must have enough influence to control him. Each player has a pool of 20 general influence with which to control characters. Each point of general influence can be used to control one point of mind. A character's mind is shown in the white head symbol on the left side of the character card. A character with eight mind would use eight points of general influence. If a character is brought in under general influence, and there is not enough influence to control him at the end of the organization phase, that character is returned to your hand.
 
 Some characters also have direct influence, shown in the black hand under their mind. Characters may use direct influence to control other characters. Characters must be fully controlled by either general influence or one character's direct influence. A character controlled by direct influence is called a follower. Followers may not control other characters.
 
-Each deck has a Wizard or Ringwraith in it. You may play this character without using influence to control him, as the card represents you in the game. Once your Wizard or Ringwraith is in play, you may not play other characters unless either your Wizard/Ringwraith is at the site where you play the character, or you bring the character into play with direct influence. If playing a Ringwraith, see p. 23.
+Each deck has a Wizard or Ringwraith in it. You may play this character without using influence to control him, as the card represents you in the game. Once your Wizard or Ringwraith is in play, you may not play other characters unless either your Wizard/Ringwraith is at the site where you play the character, or you bring the character into play with direct influence. If playing a Ringwraith, see p. 19.
 
 ### REORGANIZING COMPANIES
 
@@ -434,7 +434,7 @@ Any time two of your companies move to the same non-Haven/non-Darkhaven site, th
 
 ### TRANSFERRING/STORING ITEMS
 
-During the organization phase, you may transfer items from one character to another character. Both characters must be in the same company, and the character with the item must make a corruption check (p. 22). If the character does not fail the corruption check, the item may be moved to another character.
+During the organization phase, you may transfer items from one character to another character. Both characters must be in the same company, and the character with the item must make a corruption check (p. 19). If the character does not fail the corruption check, the item may be moved to another character.
 
 An item may also be stored at a Haven/Darkhaven. The character must still make a corruption check, and if he does not fail, then the item is placed in your marshalling point pile. Stored items may not be retrieved.
 
@@ -444,7 +444,7 @@ Some resource events may also be stored, as indicated in their card text. No cor
 
 You must choose where each company is moving during the organization phase, by placing a new site card with each company. A company does not have to move. If you want to move a company, place the new site card representing their destination face down next to the site card representing their current site. You may look through your location deck and pick this card, you do not have to draw it randomly.
 
-If you wish to move a company to a site that is face down on the table, tell your opponent which site the company is moving to. If you wish to move a company to a site that is face up on the table (because another company is also moving there[^faceup]), tell your opponent the company is moving to a face up site.
+If you wish to move a company to a site that is face down on the table (for another company), tell your opponent which site the company is moving to. If you wish to move a company to a site that is face up on the table (because another company is also moving there[^faceup]), tell your opponent the company is moving to a face up site.
 
 The new site you choose must meet certain criteria. You may reach a site by either starter movement, or by region movement. Ringwraiths may not use region movement.
 
@@ -788,3 +788,12 @@ Certain hero resources and minion resources have the same name. These resources 
 ## 7 • EXHAUSTING YOUR PLAY DECK
 
 You exhaust your deck when you draw the final card from it. Discard any cards that are discarded when a deck is exhausted, and make any exchanges with the sideboard (p. 24). Then shuffle your discard pile. This becomes your new play deck. Place all of your discarded sites back into your location deck.
+
+---
+
+{: .text-center .text-gamma }
+ANNOTATIONS
+
+The Rules Archive provides the original published text without modification from errata or official clarifications. However, they do have corrections to minor typographical, grammatical, clerical, and typesetting issues in the original text. Such corrections are not annotated. Anything in the original text that goes beyond a minor issue is left unaltered and described in these annotations.
+
+[^faceup]: The rules on Playing a New Site Card state: "If you wish to move a company to a site that is face down on the table (for another company), tell your opponent which site the company is moving to. If you wish to move a company to a site that is face up on the table (_because another company is also moving there_), tell your opponent the company is moving to a face up site." There appears to be a clerical error. A site card that is in play "because another company is also moving there" would be face down, not face up. This rule in _The Balrog_ Rules Summary has an addition compared to the _Challenge Deck_ Rules Summary: it adds "(for another company)" to the first sentence. It appears that this issue was noticed and the author was told to correct it but the author did not recognize the issue. As noted in the annotation to the _Challenge Deck_ Rules Summary, there appears to have been an issue with summarizing the rules for "Moving Companies to the Same Non-Darkhaven Site" from pages 60 and 61 of MELE. In MELE it is clear that player can "state that their new site card is already in play (the current site card for the non-moving company)" when they moving a company to a face up site to _join_ the company already there (not "because another company is also moving there"). The parenthetical statements should be swapped as follows: "If you wish to move a company to a site that is face down on the table (because another company is also moving there), tell your opponent which site the company is moving to. If you wish to move a company to a site that is face up on the table (for another company), tell your opponent the company is moving to a face up site."
