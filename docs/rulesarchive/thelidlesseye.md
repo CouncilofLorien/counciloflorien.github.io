@@ -13,7 +13,7 @@ search_exclude: true
 RULESBOOK
 
 {: .text-center }
-***"And into the heart of the storm,<br>with a cry that pierced all other sounds.<br>Tearing the clouds asunder, the Nazgul came…"<br>"…and all were branded with the foul token<br>of the Lidless Eye…"***
+***"And into the heart of the storm,<br>with a cry that pierced all other sounds.<br>Tearing the clouds asunder, the Nazgul came…"<br>"…and all were branded with the foul token<br>of the Lidless Eye…"***<br><br>
 
 {: .text-center .text-gamma }
 CONTENTS
