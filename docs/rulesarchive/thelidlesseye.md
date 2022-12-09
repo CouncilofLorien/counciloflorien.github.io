@@ -7,19 +7,18 @@ permalink: /rules-archive/the-lidless-eye
 search_exclude: true
 ---
 
-<details markdown="block">
-  <summary>
-   CONTENTS
-  </summary>
-  {: .text-gamma }
-- TOC
-{:toc}
-</details>
-
 # MIDDLE-EARTH: THE LIDLESS EYE
+
+{: .text-center .text-beta }
+RULESBOOK
 
 {: .text-center }
 ***"And into the heart of the storm,<br>with a cry that pierced all other sounds.<br>Tearing the clouds asunder, the Nazgul came…"<br>"…and all were branded with the foul token<br>of the Lidless Eye…"***
+
+{: .text-center .text-gamma }
+CONTENTS
+
+| &emsp; [Introduction](/rules-archive/the-lidless-eye#introduction)<br>&emsp;  [Using This Rulesbook](/rules-archive/the-lidless-eye#using-this-rulesbook)<br>&emsp;  [Brief Player Turn Summary](/rules-archive/the-lidless-eye#brief-player-turn-summary)<br>**Part I — The Starter Rules**<br>&emsp; [1 • The Victory Conditions](/rules-archive/the-lidless-eye#1--the-victory-conditions)<br>&emsp; [2 • The Cards and Decks](/rules-archive/the-lidless-eye#2--the-cards-and-decks)<br>&emsp; [3 • Getting Ready to Play](/rules-archive/the-lidless-eye#3--getting-ready-to-play)<br>&emsp; [4 • The Player Turn](/rules-archive/the-lidless-eye#4--the-player-turn)<br>&emsp; [5 • Characters & Companies](/rules-archive/the-lidless-eye#5--characters--companies)<br>&emsp; [6 • Movement](/rules-archive/the-lidless-eye#6--movement)<br>&emsp; [7 • Combat](/rules-archive/the-lidless-eye#7--combat)<br>&emsp; [8 • Corruption](/rules-archive/the-lidless-eye#8--corruption)<br>&emsp; [9 • Influence](/rules-archive/the-lidless-eye#9--influence)<br>&emsp; [10 • Playing & Drawing Cards](/rules-archive/the-lidless-eye#10--playing-and-drawing-cards)<br>**Part II — The Standard Rules**<br>&emsp; [1 • The Victory Conditions](/rules-archive/the-lidless-eye#1--the-victory-conditions-1)<br>&emsp; [2 • The Cards and Decks](/rules-archive/the-lidless-eye#2--the-cards-and-decks-1)<br>&emsp; [3 • Getting Ready to Play](/rules-archive/the-lidless-eye#3--getting-ready-to-play-1)<br>&emsp; [4 • The Player Turn](/rules-archive/the-lidless-eye#4--the-player-turn-1)<br>&emsp; [5 • Characters & Companies](/rules-archive/the-lidless-eye#5--characters--companies-1)<br>&emsp; [6 • Movement](/rules-archive/the-lidless-eye#6--movement-1)<br>&emsp; [7 • Combat](/rules-archive/the-lidless-eye#7--combat-1)<br>&emsp; [8 • Corruption](/rules-archive/the-lidless-eye#8--corruption-1)<br>&emsp; [9 • Influence](/rules-archive/the-lidless-eye#9--influence-1)<br>&emsp; [10 • Playing & Drawing Cards](/rules-archive/the-lidless-eye#10--playing-and-drawing-cards-1) | **Part III — Optional Rules**<br>**Part IV — Using MELE With METW**<br>&emsp; [1 • The Victory Conditions](/rules-archive/the-lidless-eye#1--the-victory-conditions-2)<br>&emsp; [2 • The Cards and Decks](/rules-archive/the-lidless-eye#2--the-cards-and-decks-2)<br>&emsp; [3 • Getting Ready to Play](/rules-archive/the-lidless-eye#3--getting-ready-to-play-2)<br>&emsp; [4 • The Player Turn](/rules-archive/the-lidless-eye#4--the-player-turn-2)<br>&emsp; [5 • Characters & Companies](/rules-archive/the-lidless-eye#5--characters--companies-2)<br>&emsp; [6 • Movement](/rules-archive/the-lidless-eye#6--movement-2)<br>&emsp; [7 • Combat](/rules-archive/the-lidless-eye#7combat)<br>&emsp; [8 • Corruption](/rules-archive/the-lidless-eye#8--corruption-2)<br>&emsp; [9 • Influence](/rules-archive/the-lidless-eye#9--influence-2)<br>&emsp; [10 • Playing & Drawing Cards](/rules-archive/the-lidless-eye#10--playing-and-drawing-cards-2)<br>**Part V — The Appendices**<br>&emsp; [Card Diagrams](/rules-archive/the-lidless-eye#card-diagrams)<br>&emsp; [Map of Middle-earth](/rules-archive/the-lidless-eye#map-of-middle-earth)<br>&emsp; [Map Index](/rules-archive/the-lidless-eye#map-index)<br>&emsp; [Conventions of Tournament Play](/rules-archive/the-lidless-eye#conventions-of-tournament-play)<br>&emsp; [Glossary](/rules-archive/the-lidless-eye#glossary)<br>&emsp; [Full Player Turn Summary](/rules-archive/the-lidless-eye#full-player-turn-summary)<br>&emsp; [Symbol Key](/rules-archive/the-lidless-eye#symbol-key)<br>&emsp; [Combat Modifications](/rules-archive/the-lidless-eye#combat-modifications) |
 
 # INTRODUCTION
 
@@ -2130,6 +2129,11 @@ Swanberg, Daniel Williams, Monica Wilson
 **Additional credits** can be found in the _Middle-earth: The Wizards_ rulesbook (due to space limitations. we were unable to include them here).
 
 ---
+
+{: .text-center .text-gamma }
+ANNOTATIONS
+
+The Rules Archive provides the original published text without modification from errata or official clarifications. However, they do have corrections to minor typographical, grammatical, clerical, and typesetting issues in the original text. Such corrections are not annotated. Anything in the original text that goes beyond a minor issue is left unaltered and described in these annotations.
 
 [^bullets]: These online rules are not formatted with a line of bullets as a sidebar. See the pdf version of the rules to review this feature.
 [^twopaths]: This rule states that each Darkhaven has two site paths, which is not the case as previously mentioned in the _MELE_ rules. This text appears to be a holdover from _The Wizards_ rules which was not updated for _The Lidless Eye_.
