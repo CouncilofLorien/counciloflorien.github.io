@@ -83,7 +83,7 @@ Resources have a copper background in Wizard decks, and a grey-blue steel backgr
 
 ## 4 • GETTING READY TO PLAY
 
-Before you play the game, you must separate you cards into the appropriate decks. You also need a pair of six sided dice.
+Before you play the game, you must separate your cards into the appropriate decks. You also need a pair of six sided dice.
 
 First, take all of the site cards (with the map card back) and set them aside as your location deck. Then check the Play Tips (p. 27) to see what cards belong in your starting company. Put your starting company in front of you, with the site card Rivendell (for a Wizard deck) from your location deck or Minas Morgul or Dol Guldur (for a Ringwraith deck). Set your sideboard off to the side for the moment. These are the 20 cards with the white letter of the deck on a black circle.
 
