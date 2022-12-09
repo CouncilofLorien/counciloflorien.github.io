@@ -4,13 +4,11 @@
 // stylelint-disable selector-no-type, max-nesting-depth, selector-max-compound-selectors, selector-max-type, selector-max-specificity, selector-max-id
 
 .main-content {
-// Things I added
-  td {
-    vertical-align: top;
-    }
-
-// Original below
   line-height: $content-line-height;
+
+  td { // I added this
+    vertical-align: top;
+  }
 
   ol,
   ul,
