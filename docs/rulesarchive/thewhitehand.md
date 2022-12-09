@@ -7,25 +7,6 @@ permalink: /rules-archive/the-white-hand
 search_exclude: true
 ---
 
-<details markdown="block">
-  <summary>
-   CONTENTS
-  </summary>
-  {: .text-gamma }
-- TOC
-{:toc}
-</details>
-
-<details markdown="block">
-  <summary>
-    NOTES <img src="/assets/images/scroll.svg">
-  </summary>
-  {: .text-gamma }
-  
-{: .counsel }
-> These rules include emendations correcting minor typographical and clerical errors in the original text. These emendations are <b>not</b> annotated. 
-</details>
-
 ---
 
 # Middle-earth: The White Hand
@@ -274,3 +255,8 @@ The sideboard size is increased to:
 In the general opponent format, you must reveal the identity of your Fallen-wizard before the game begins.
 
 ---
+
+{: .text-center .text-gamma }
+ANNOTATIONS
+
+The Rules Archive provides the original published text without modification from errata or official clarifications. However, they do have corrections to minor typographical, grammatical, clerical, and typesetting issues in the original text. Such corrections are not annotated. Anything in the original text that goes beyond a minor issue is left unaltered and described in these annotations.
