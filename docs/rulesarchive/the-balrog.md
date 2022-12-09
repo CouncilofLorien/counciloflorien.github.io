@@ -193,13 +193,13 @@ This deck features the Balrog's Great Shadow form—which is his stealthiest and
 
 #### Suggested Sites for Resources
 
-_Black Mace_ (x2)—Cirith Gorgor, Minas Morgul, Barad-dilr, or Remains of Thangorodrim (after tapping otherwise)
+_Black Mace_ (x2)—Cirith Gorgor, Minas Morgul, Barad-dur, or Remains of Thangorodrim (after tapping otherwise)
 
 _Cave Troll_—(tapped) The Sulfur-deeps, The lron deeps, The Under-courts, or The Under-galleries
 
 _Descent through Fire_—The Under-courts or The Under-galleries
 
-_Evil Things Lingering_—The Under-courts, Remains of Thangorodrim, or The Under-gal leries
+_Evil Things Lingering_—The Under-courts, Remains of Thangorodrim, or The Under-galleries
 
 _Great Troll_—The Under-grottos, The Iron-deeps, The Under-vaults, The Under-leas, The Sulfur-deeps, or The Drowning-deeps
 
@@ -207,64 +207,51 @@ _High Helm_—any major item Under-deeps site (after tapping otherwise), Cirith 
 
 _Iron Shield of Old_ (x2)—(after tapping otherwise) The Under-grottos, The Under-vaults, The Under-leas, The Drowning-deeps, or Remains of Thangorodrim
 
-_Maker's Map_—Dol-Guldur, Remains of Thangorodrim, or The Under-galleries
+_Maker's Map_—Dol Guldur, Remains of Thangorodrim, or The Under-galleries
 
 _Orcs of Mirkwood_—Sarn Goriwing
 
-Orcs of Moria_—Moria
+_Orcs of Moria_—Moria
 
-_Sable Shield_—any major item Under-deeps site (after tapping otherwise}, Cirith Ungol, Carn Dum, or Barad-dur
+_Sable Shield_—any major item Under-deeps site (after tapping otherwise), Cirith Ungol, Carn Dum, or Barad-dur
 
 _Stinker_—Goblin-gate
 
 _Tempest of Fire_—Dead Marshes
 
-_Breach the Hold_ (sideboard)—The Drowning-deeps Roots of the Earth (sideboard)-The Drowning-deeps
+_Breach the Hold_ (sideboard)—The Drowning-deeps 
+
+_Roots of the Earth_ (sideboard)—The Drowning-deeps
 
 #### Resource Play
 
-The power of this deck improves dramatically using Great Shadow's ability to recycle non-short-event resources and characters. Guiltlessly discard inconvenient MP sources drawn early in the game, because you can recycle and redraw them later. Access additional resources from the sideboard by tapping The Balrog to bring five to your discard pile, cycling these using Great Shadow's ability. Cycle and recycle Skies of Fire to foil an opponent 's Doors of Night strategy. 
+The power of this deck improves dramatically using _Great Shadow's_ ability to recycle non-short-event resources and characters. Guiltlessly discard inconvenient MP sources drawn early in the game, because you can recycle and redraw them later. Access additional resources from the sideboard by tapping The Balrog to bring five to your discard pile, cycling these using _Great Shadow's_ ability. Cycle and recycle _Skies of Fire_ to foil an opponent's _Doors of Night_ strategy. 
 
-The deck relies on one or more high prowess non-Balrog companies to roam the heart of Mordor and beyond. There are plenty of cards in the deck to make your characters colossal fighters. I'll Report You (x2}, Black Mace (x2}, and Descent Through Fire are the main ones, so take special care to play these.
+The deck relies on one or more high prowess non-Balrog companies to roam the heart of Mordor and beyond. There are plenty of cards in the deck to make your characters colossal fighters. _I'll Report You_ (x2), _Black Mace_ (x2), and _Descent Through Fire_ are the main ones, so take special care to play these.
 
-The only underground route to The Under-galleries and The Under-courts-the two most important sitesgoes through The Sulfur-deeps. Therefore, avoid tapping The Sulfur-deeps until playing Descent Through Fire and tapping both later sites. Also, avoid tapping The Under-leas and The Under-vaults too early.
+The only underground route to The Under-galleries and The Under-courts—the two most important sites—goes through The Sulfur-deeps. Therefore, avoid tapping The Sulfur-deeps until playing _Descent Through Fire_ and tapping both later sites. Also, avoid tapping The Under-leas and The Under-vaults too early.
 
 #### The Balrog
 
-As soon as convenient, tap The Balrog to bring to the discard pile Breach the Hold, Roots of the Earth, Memories of Old Torture, Flame of Udun, and a sideboard resource that reacts to your opponent. These cards are now ready to easily pop into the play deck using Great Shadow's ability, and without taxing play.
+As soon as convenient, tap The Balrog to bring to the discard pile _Breach the Hold_, _Roots of the Earth_, _Memories of Old Torture_, _Flame of Udun_, and a sideboard resource that reacts to your opponent. These cards are now ready to easily pop into the play deck using _Great Shadow's_ ability, and without taxing play.
 
-In Great Shadow form The Balrog should always be accompanied by his minions outside of a Darkhaven. While waiting to draw Great Troll and Descent Through Fire, he should stay in Moria, conveniently bringing in characters and playing Ancient Secrets. When the Orcs of Moria faction shows up, snag it for 3 MPs.
+In _Great Shadow_ form The Balrog should always be accompanied by his minions outside of a Darkhaven. While waiting to draw _Great Troll_ and _Descent Through Fire_, he should stay in Moria, conveniently bringing in characters and playing _Ancient Secrets_. When the _Orcs of Moria_ faction shows up, snag it for 3 MPs.
 
-Once The Balrog plays Descent Through Fire-the deck's most important card-bring in Breach the Hold and Roots of the Earth from the sideboard. Send the Balrog north to The Drowning-deeps/Remains of Thangorodrim area once you draw one of them. Most MP sources are playable between these two sites. Expect to have an excess of MP sources in hand as the game wears on if you have been recycling discarded ones. Consider Flame of Udun to maximize the Balrog's battle-readiness, though this minimizes playing additional MP cards.
+Once The Balrog plays _Descent Through Fire_—the deck's most important card—bring in _Breach the Hold_ and _Roots of the Earth_ from the sideboard. Send the Balrog north to The Drowning-deeps/Remains of Thangorodrim area once you draw one of them. Most MP sources are playable between these two sites. Expect to have an excess of MP sources in hand as the game wears on if you have been recycling discarded ones. Consider _Flame of Udun_ to maximize the Balrog's battle-readiness, though this minimizes playing additional MP cards.
 
-Eventually, Out He Sprang will hit the table, allowing The Balrog to surface for company vs. company combat against a hero opponent. To optimally prepare for attacking, bring in Flame of Udun , as The Balrog cannot move on the surface with Great Shadow.
+Eventually, _Out He Sprang_ will hit the table, allowing The Balrog to surface for company vs. company combat against a hero opponent. To optimally prepare for attacking, bring in _Flame of Udun_, as The Balrog cannot move on the surface with _Great Shadow_.
 
 #### Hazard Play
 
-The hazard mix contains plenty of Spiders, a handful of Animals, and enhancers for both. A few basic utility cards are included to cover blind spots. Certain enhancers-called Spawn-form a natural sub-theme of their own. Three of the deck's hazards depend on the number of Spawn in play. Take special care with the Spawn Monstrosity of Diverse Shape. It provides an ability of which you will no doubt make efficient use. However, it also creates a vicious automatic-attack at The Drowning- deeps and Remains ofThangorodrim. You must be prepared to either di scard this hazard yourself, cancel its attack, or sacrifice some scrub Ores to its horribly twisted mass.
+The hazard mix contains plenty of Spiders, a handful of Animals, and enhancers for both. A few basic utility cards are included to cover blind spots. Certain enhancers—called Spawn—form a natural sub-theme of their own. Three of the deck's hazards depend on the number of Spawn in play. Take special care with the Spawn _Monstrosity of Diverse Shape_. It provides an ability of which you will no doubt make efficient use. However, it also creates a vicious automatic-attack at The Drowning-deeps and Remains ofThangorodrim. You must be prepared to either discard this hazard yourself, cancel its attack, or sacrifice some scrub Orcs to its horribly twisted mass.
 
 {: .text-center }
 ## DECK LIST
 
 {: .text-center }
-Total: 132 cards - Cards in brackets [] are from earlier expansions.
+**Total:** 132 cards - Cards in brackets [] are from earlier expansions.
 
-At Start (7)
-Gangways over the Fire
-Orders from
-the Great Demon
-Azog
-Buthrakaur
-Mountain-maggot (x2)
-\[Orc Veteran]
-Other Characters ( 10)
-The Balrog (x3)
-\[Burat]
-\[Gorbag]
-\[Orc Tracker (x2)]
-\[Shagrat]
-\[Tuma]
-\[Wuluag]
+| <u>At Start (7)</u><br>_Gangways over the Fire_<br>_Orders from the Great Demon_<br>Azog<br>Buthrakaur<br>Mountain-maggot (x2)<br>\[Orc Veteran] | <u>Other Characters (10)</u><br>The Balrog (x3)<br>\[Burat]<br>\[Gorbag]<br>\[Orc Tracker (x2)]<br>\[Shagrat]<br>\[Tuma] <br>\[Wuluag] |
 
 Sites (20)
 Moria
