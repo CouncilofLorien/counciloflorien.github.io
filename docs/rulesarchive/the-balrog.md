@@ -34,106 +34,64 @@ Rules Summary & Play Tips
 
 # SPECIFIC RULES FOR MIDDLE-EARTH: THE BALROG
 
-This is an expansion set of over 100 cards for the
-Middle-earth Collectible Card Game. While it is fully
-compatible with both Middle-earth: The Wizards and
-Middle-earth: The Lidless Eye, Middle-ea rth : The
-Balrog foc uses on a player using resources from The
-Lidless Eye.
-The Balrog is supremely co nfident of his own immense
-personal power. After all, just like Sauron, he
-was one of Morgoth 's chief lieutenants. The Balrog tends
-to rely on brute force and direct confrontation rather
-than more subtle approac hes ofte n used by Ringwraiths
-and Wi zards. His goals are basic and simple-accumulate
-power and destroy hi s enemies. lfhe can do this, he
-can become a dominant power in Middle-earth-a factor
-to whi ch both the Dark Lord and the Free Peoples
-will be fo rced react.
-Note: Middle- earth: The Balrog introduces a new
-classification of creatures called "Spawn ." These
-monstrous creatures were created by Morgoth or other
-fallen spirits. Like the Balrog, a few Spawn survived
-the War of the Wrath and hid deep underground.
+This is an expansion set of over 100 cards for the Middle-earth Collectible Card Game. While it is fully compatible with both Middle-earth: The Wizards and Middle-earth: The Lidless Eye, Middle-earth : The Balrog focuses on a player using resources from The Lidless Eye.
+The Balrog is supremely confident of his own immense personal power. After all, just like Sauron, he was one of Morgoth's chief lieutenants. The Balrog tends to rely on brute force and direct confrontation rather than more subtle approac hes ofte n used by Ringwraiths and Wizards. His goals are basic and simple-accumulate power and destroy his enemies. If he can do this, he can become a dominant power in Middle-earth-a factor to which both the Dark Lord and the Free Peoples will be forced react.
+Note: Middle- earth: The Balrog introduces a new classification of creatures called "Spawn." These monstrous creatures were created by Morgoth or other fallen spirits. Like the Balrog, a few Spawn survived the War of the Wrath and hid deep underground.
+
 A BALROG PLAYER
-A Balrog player acts as a Ringwraith player. Any card
-and rules text applying to a Ringwraith also applies to
-The Balrog (e.g. , if a card re fers to a Ringwraith, it now
-applies to "a Ringwraith or The Balrog").
-However, in stead of using the special rules li sted on
-page 19 of this booklet (or on page 59 of the MELE
-rules), a Balrog player uses the following special rules:
-• Any ring in The Balrog's company at the beginning of
-the e nd -of-tum phase is automatically tested. Any ring
-test in The Balrog's company is a modified by -2.
-• The Balrog may carry items (including rings) but may
-not use them (i.e., an item has no effect on The Balrog's
-company or on his attributes and abilitie s).
-• The Balrog never makes corruption checks and corruption
-cards may not be played on The Bal rog.
-• Normall y, The Balrog may not use starter and region
-moveme nt (as stated on his card). However, the play
-of ce rtain resources can expand his movement capabilities.
-• The Balrog 's company is always overt.
+
+A Balrog player acts as a Ringwraith player. Any card and rules text applying to a Ringwraith also applies to The Balrog (e.g., if a card re fers to a Ringwraith, it now applies to "a Ringwraith or The Balrog").
+
+However, in stead of using the special rules listed on page 19 of this booklet (or on page 59 of the MELE rules), a Balrog player uses the following special rules:
+
+ - Any ring in The Balrog's company at the beginning of the end-of-turn phase is automatically tested. Any ring test in The Balrog's company is a modified by -2.
+ - The Balrog may carry items (including rings) but may not use them (i.e., an item has no effect on The Balrog's company or on his attributes and abilities).
+ - The Balrog never makes corruption checks and corruption cards may not be played on The Bal rog.
+ - Normally, The Balrog may not use starter and region movement (as stated on his card). However, the play of certain resources can expand his movement capabilities.
+ - The Balrog's company is always overt.
 
 VICTORY CONDITIONS
-As a Balrog player, you may win in the same way a
-MELE Ringwraith wins: your opponent is eliminated
-or you recover The One Ring or you have the most
-marshalling points at the Audience with Sauron. The
-fo llowing exceptions apply:
-• In order to win by recovering The One Ring, at least
-one Challenge the Power card must be played and the
-conditions o utlined on that card must be met.
-• The Audience with Sauron is handled normall y, and
-victory is determined in the standard way by comparing
-mars halling point s. However, to you (The Balrog)
-it is called your Day of Decision and your marshalling
-points reflec t how far you have progressed towards
-taking your true place in Middle-earth. You must
-play Sudden Call to call your Day of Decision.
-GETTING READYTO PLAY
-A Balrog player prepares for play just as a Ringwraith
-player does, with the following exceptions:
-Declaring that You Are a Balrog Player
-If you include The Balrog card (the character card with
-the spec ial reddi sh background) in your deck or sideboard,
-you arc a "Balrog playe r." In this case, you must
-tell your opponent before choosing starting companies.
-Note: You and your opponent may both be Balrog
-players, but the winner will probably the first player
-to get his Balrog into pl ay.
-Your Location Deck and Sites
-Your location deck may include one copy of each of
-the minion site cards with the following exceptions:
-• Instead of the normal minion site cards use the Balrogspeci
-fie site cards for:
-Moria, Carn DGm, Doi Guldur, Minas Morgul
-All Under-deeps site cards
-All Dark-hold s (Barad-dGr, Cirith Ungol, Cirith
-Gorgor)
-• Since they are your only Darkhavens, The Under-gates
-and Moria are the onl y site cards that you may include
-multiple copies of in your location deck .
-• Geann a-Lisch is a Ruins & Lairs with no Darkhaven
-effects.
-Your Starting Company, Play Deck, and Sideboard
-Your starting company and play deck (and your sideboard)
-may be constructed like any other Ringwraith'swith
-the following exceptions:
-• Only Ore, Troll, Dragon, Wolf, and Animal factions
-may be included .
 
-• Only Ore and Troll minion characters may be included.
-• Unless they are "Balrog specific," only Ore and Troll
-characters with a mind less than 9 may be included.
-• "Balrog specific" cards may be included. Such cards
-may only be included in a Balrog player's deck. Playing
-"Balrog specific" cards does not require that The
-Balrog be in play, only that you are a Balrog player.
-• Agents only count as hazards, not as characters.
-• A Balrog player may not include any of the following
-cards:
+As a Balrog player, you may win in the same way a MELE Ringwraith wins: your opponent is eliminated or you recover The One Ring or you have the most marshalling points at the Audience with Sauron. The
+following exceptions apply:
+
+ - In order to win by recovering The One Ring, at least one Challenge the Power card must be played and the conditions o utlined on that card must be met.
+ - The Audience with Sauron is handled normally, and victory is determined in the standard way by comparing marshalling points. However, to you (The Balrog) it is called your Day of Decision and your marshalling points reflect how far you have progressed towards taking your true place in Middle-earth. You must
+play Sudden Call to call your Day of Decision.
+
+GETTING READY TO PLAY
+
+A Balrog player prepares for play just as a Ringwraith player does, with the following exceptions:
+
+Declaring that You Are a Balrog Player
+
+If you include The Balrog card (the character card with the special reddish background) in your deck or sideboard, you are a "Balrog player." In this case, you must tell your opponent before choosing starting companies.
+Note: You and your opponent may both be Balrog players, but the winner will probably the first player to get his Balrog into play.
+
+Your Location Deck and Sites
+
+Your location deck may include one copy of each of the minion site cards with the following exceptions:
+
+ - Instead of the normal minion site cards use the Balrog specific site cards for:
+
+ - Moria, Carn Dum, Doi Guldur, Minas Morgul
+ - All Under-deeps site cards
+ - All Dark-hold s (Barad-dur, Cirith Ungol, Cirith Gorgor)
+
+ - Since they are your only Darkhavens, The Under-gates and Moria are the only site cards that you may include multiple copies of in your location deck.
+ - Geann a-Lisch is a Ruins & Lairs with no Darkhaven effects.
+
+Your Starting Company, Play Deck, and Sideboard
+
+Your starting company and play deck (and your sideboard) may be constructed like any other Ringwraith's with the following exceptions:
+
+ - Only Orc, Troll, Dragon, Wolf, and Animal factions may be included.
+ - Only Orc and Troll minion characters may be included.
+ - Unless they are "Balrog specific," only Orc and Troll characters with a mind less than 9 may be included.
+ - "Balrog specific" cards may be included. Such cards may only be included in a Balrog player's deck. Playing
+"Balrog specific" cards does not require that The Balrog be in play, only that you are a Balrog player.
+ - Agents only count as hazards, not as characters.
+ - A Balrog player may not include any of the following cards:
 Above the Abyss
 Bade to Rule
 The Balrog (Ally)
