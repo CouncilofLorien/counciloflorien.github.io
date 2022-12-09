@@ -7,12 +7,6 @@ permalink: /rules-archive/the-balrog
 search_exclude: true
 ---
 
-<style>
-td {
-  vertical-align: top;
-}
-</style>
-
 # MIDDLE-EARTH: THE BALROG
 
 {: .text-center }
