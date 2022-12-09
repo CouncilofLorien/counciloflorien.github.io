@@ -173,7 +173,7 @@ A _site path_ is the sequence of regions between a site and its nearest Haven/Da
 
 Site paths are mostly used to determine if an opponent can play a particular creature on a company. Some hazards refer to the site's site path, which is always the one listed on the site card. Havens/Darkhavens have no site path.
 
-## 3 · LONG-EVENT PHASE
+## 3 • LONG-EVENT PHASE
 
 During this phase do the following in this order:
  
