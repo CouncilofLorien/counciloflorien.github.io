@@ -251,7 +251,6 @@ The deck relies on one or more high prowess non-Balrog companies to roam the hea
 
 The only underground route to The Under-galleries and The Under-courts-the two most important sitesgoes through The Sulfur-deeps. Therefore, avoid tapping The Sulfur-deeps until playing Descent Through Fire and tapping both later sites. Also, avoid tapping The Under-leas and The Under-vaults too early.
 
-
 #### The Balrog
 
 As soon as convenient, tap The Balrog to bring to the discard pile Breach the Hold, Roots of the Earth, Memories of Old Torture, Flame of Udun, and a sideboard resource that reacts to your opponent. These cards are now ready to easily pop into the play deck using Great Shadow's ability, and without taxing play.
@@ -400,112 +399,83 @@ Rumours of Rings
 
 # BALROG'S HOST PLAY TIPS
 
-The Balrog uses his Strangling Coils form in this deck to maximize direct influence and faction recruiting. He wants all Orc factions of the Misty Mountains in his Great Army. When the time is right, the Balrog burrows into the Iron Hill Dwarf-hold from the Under-deeps to claim the realm as his own-much as he took KhazaddGm, now called Moria. The hazards contain a mix of two sub-themes: Dragons/Drakes and roadblock.
+The Balrog uses his Strangling Coils form in this deck to maximize direct influence and faction recruiting. He wants all Orc factions of the Misty Mountains in his Great Army. When the time is right, the Balrog burrows into the Iron Hill Dwarf-hold from the Under-deeps to claim the realm as his own-much as he took Khazad-dum, now called Moria. The hazards contain a mix of two sub-themes: Dragons/Drakes and roadblock.
 
 Starting Company in Moria
 
  - Umagaur controls Bolg, Old Troll starts under general influence. In stead of two minor items, start with Orders from the Great Demon on the company and Gangways over the Fire.
 
 Suggested Sites for Resources
+
 A Few Recruits-Gondmaeglom (tapped)
+
 Breach the Hold-The Rusted-deeps
+
 Goblins of Goblin-gate-Goblin-gate
+
 Grey Mountain Goblins-Gondmaeglom
+
 Iron Shield of Old-(after tapping otherwise)
+
 The Under-leas or any non-Darkhaven
+
 Under-deeps Ruins & Lairs
-Nasty Slimy Thing-The Gem-deeps, The Pukeldeeps,
-The Under-vaults or The Under-grottos
-Ores of Angmar-Mount Gram
-Ores of Gu11dabad-Moun1 Gundabad
+
+Nasty Slimy Thing-The Gem-deeps, The Pukeldeeps, The Under-vaults or The Under-grottos
+
+Orcs of Angmar-Mount Gram
+
+Orcs of Gu11dabad-Moun1 Gundabad
+
 Orcs of Moria- Moria
-People Diminished- Eagle's Eyrie, Beom's House,
-Thranduil's Halls, or Wellinghall
+
+People Diminished- Eagle's Eyrie, Beom's House, Thranduil's Halls, or Wellinghall
+
 Roots of the Earth-The Rusted-deeps
-Stabbing Tongue of Fire-(after tapping otherwise)
-any non-Darkhaven Under-deeps site
-Whip of Many Thongs-(after tapping otherwise)
-any non-Darkhaven Under-deeps site
-Eddy in Fate's Tide (sideboard)-Wellinghall,
-Eagle 's Eyrie, Thranduil's Halls, Beom's House
-In vade Their Domain (sideboard)-
-lron Hill Dwarf-hold
-Lord and Usurper (s ideboard)lron
-Hill Dwarf-hold
+Stabbing Tongue of Fire-(after tapping otherwise) any non-Darkhaven Under-deeps site
+
+Whip of Many Thongs-(after tapping otherwise) any non-Darkhaven Under-deeps site
+
+Eddy in Fate's Tide (sideboard)-Wellinghall, Eagle's Eyrie, Thranduil's Halls, Beorn's House
+
+Invade Their Domain (sideboard)-Iron Hill Dwarf-hold
+
+Lord and Usurper (sideboard)-Iron Hill Dwarf-hold
 
 Resource Play
-You must recruit at least four of the five unique Ore
-factions to receive two marshalling points from Great
-Army of the North. Therefore, do not discard unique
-Ore factions without attempting to influence them. On
-the other hand, A Few Recruits is an excellent di scard
-choice, unless you have Grey Mountain Goblins in hand
-or in play and Gondmaeglom is available.
-This deck contains two Out He Sprangs to help The
-Balrog reach an opponent's company for company vs.
-company combat. If you have a site where an opponent's
-company is present, attack them if at all convenient. It
-may be worth holding Great Fissure in your hand indefinitely
-as insurance waiting for the chance. Bring in
-Flame of Udun and Scourge of Fire from the sideboard
-if your opponent travels a lot around the Misty Mountains.
-Against a minion opponent, bring in Prone to Violence
-as soon as possible.
-The deck 's resources threaten your opponent as much
-as your hazards. Specifically, you have the potential to
-strip out MPs. Besides the potential of company vs.
-company combat, you have People Diminished,
-Crowned with Storm, Eddy in Fate 's Tide, Invade Their
-Domain, Mine or No One's, and Scourge of Fire, which
-is probably the most powerful.
-Ultimately, you want to complete this expansion 's
-ultimate quest- invading the Iron Hill Dwarf-hold.
-Leisurely play Roots of the Earth and Breach the Hold
-as your draw them. They do not have to be played in
-order, and each keeps The Rusted-deeps in play without
-committing a character garrison. After you have
-cycled about half your deck, bring in Invade Their Domain
-and Lord and Usurper. Keep a couple tactical cards
-in hand to insure their successful play.
-The only underground route to The Rusted-deeps goes
-through The Under-leas and The Wind-deeps. Therefore,
-avoid tapping these two sites at least until The
-Balrog is at The Rusted-deeps and prepared to play In vade
-Their Domain.
+
+You must recruit at least four of the five unique OrC factions to receive two marshalling points from Great Army of the North. Therefore, do not discard unique Orc factions without attempting to influence them. On the other hand, A Few Recruits is an excellent discard choice, unless you have Grey Mountain Goblins in hand or in play and Gondmaeglom is available.
+
+This deck contains two Out He Sprangs to help The Balrog reach an opponent's company for company vs. company combat. If you have a site where an opponent's company is present, attack them if at all convenient. It may be worth holding Great Fissure in your hand indefinitely as insurance waiting for the chance. Bring in Flame of Udun and Scourge of Fire from the sideboard if your opponent travels a lot around the Misty Mountains. Against a minion opponent, bring in Prone to Violence as soon as possible.
+
+The deck's resources threaten your opponent as much as your hazards. Specifically, you have the potential to strip out MPs. Besides the potential of company vs. company combat, you have People Diminished, Crowned with Storm, Eddy in Fate 's Tide, Invade Their Domain, Mine or No One's, and Scourge of Fire, which is probably the most powerful.
+
+Ultimately, you want to complete this expansion's ultimate quest-invading the Iron Hill Dwarf-hold. Leisurely play Roots of the Earth and Breach the Hold as your draw them. They do not have to be played in order, and each keeps The Rusted-deeps in play without committing a character garrison. After you have cycled about half your deck, bring in Invade Their Domain and Lord and Usurper. Keep a couple tactical cards in hand to insure their successful play.
+
+The only underground route to The Rusted-deeps goes through The Under-leas and The Wind-deeps. Therefore, avoid tapping these two sites at least until The Balrog is at The Rusted-deeps and prepared to play In vade Their Domain.
+
 The Balrog
-The Balrog with Strangling Coils recruits factions very
-well without enhancement-and usually requires no
-tactical cards to remain untapped against creatures.
-When he is not attacking an opponent, The Balrog is
-your number one option for gathering the Great Army.
-You will need The Balrog to tap to bring a few cards in
-from the sideboard. Do not forget to bring in Sudden
-Call before the first deck cycle ends.
+
+The Balrog with Strangling Coils recruits factions very well without enhancement-and usually requires no tactical cards to remain untapped against creatures. When he is not attacking an opponent, The Balrog is your number one option for gathering the Great Army. You will need The Balrog to tap to bring a few cards in from the sideboard. Do not forget to bring in Sudden Call before the first deck cycle ends.
 
 Hazard Play
-The hazards feature several Dragon Ahunt manifestati
-ons, powerful Drakes, Long Winter to tap your
-opponent 's deep Wilde rness sites, and Doors of Night
-to make everything fun ction effi cie nt ly. This deck's
-hazards slam oppone nts travelling around the Misty
-Mo unt ains and Dragon co untry. Unfortunately the hazards
-arc rather weak against Gondor decks, and on ly
-med iocre again st Mordor and Under-deeps minion
-decks. Bring in Covetous Th oughts as soon as possible
-Use An Unexpected Outposts to recycle Twilights,
-Long Winters, Doors of Nigh t, and itself as you determine
-their necessity again st each opponent. You need
-to consider your own movement when playing Long
-Winter because it taps your deep Wilderness sites too.
-You need to consider your own movement when playing
-the Dragon Ahunt cards as yo ur surface movement
-may take you th rough hunting grounds.
-against a minion opponent.
+
+The hazards feature several Dragon Ahunt manifestations, powerful Drakes, Long Winter to tap your opponent's deep Wilde rness sites, and Doors of Night to make everything function efficiently. This deck's hazards slam oppone nts travelling around the Misty Mountains and Dragon country. Unfortunately the hazards are rather weak against Gondor decks, and only mediocre against Mordor and Under-deeps minion decks. Bring in Covetous Th oughts as soon as possible
+
+Use An Unexpected Outposts to recycle Twilights, Long Winters, Doors of Night, and itself as you determine their necessity against each opponent. You need to consider your own movement when playing Long Winter because it taps your deep Wilderness sites too. You need to consider your own movement when playing the Dragon Ahunt cards as your surface movement may take you through hunting grounds against a minion opponent.
 
 DECK LIST
+
 Total: 132 cards - Cards in brackets [] are from earlier expansions.
 
-At Start (5) Resources (3 1) Hazards (3 1) Sideboard (25)
+At Start (5) 
+
+Resources (31) 
+
+Hazards (31) 
+
+Sideboard (25)
+
 Gangways over the Fire MP Sources: Creatures: Resources
 Orders from the A Few Rec ruits [Bai ranax Ahunt] Crook-legged Ore
 Great Demon Breach the Hold [Ghosts (x2)] Crowned with Storm
