@@ -96,6 +96,6 @@ Each adjacent site is followed by a number in parentheses—this number indicate
 
 ---
 
-[^hoard]: On 29 June 1988 the [Hoards](/rules-archive/the-dragons#hoards) rule in _The Dragons_ received errara but this corresponding rule in _Against the Shadow_ did not receive the same errata. However, this rule change should be recognized here as well.
-[^successful]: On 29 June 1988 the [Characters Facing Multiple Strikes](/rules-archive/the-dragons#characters-facing-multiple-strikes) rule in _The Dragons_ received errara but this corresponding rule in _Against the Shadow_ did not receive the same errata. However, this rule change should be recognized here as well.
+[^hoard]: On 29 June 1998 the [Hoards](/rules-archive/the-dragons#hoards) rule in _The Dragons_ received errara but this corresponding rule in _Against the Shadow_ did not receive the same errata. However, this rule change should be recognized here as well.
+[^successful]: On 29 June 1998 the [Characters Facing Multiple Strikes](/rules-archive/the-dragons#characters-facing-multiple-strikes) rule in _The Dragons_ received errara but this corresponding rule in _Against the Shadow_ did not receive the same errata. However, this rule change should be recognized here as well.
 
