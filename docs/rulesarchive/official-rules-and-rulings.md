@@ -9,7 +9,7 @@ search_exclude: true
 {: .text-center }
 # OFFICIAL RULES
 
-Each set and expansion of the _Middle-earth: Collectible Card Game_ came with a rulesbook or rules insert (leaflet). Errata and clarifications of the rules and cards were published in the _Companion_ and _Player Guide_ books and in the online Collected Rulings File (CRF). These are the official rules for _MECCG_. They are _official_ because they were authored or authorized by Coleman Charlton and Mike Reynolds, the Designers and Developers of _Middle-earth CCG_ at Iron Crown Enterprises.
+The official rules for the _Middle-earth: Collectible Card Game_ (_MECCG_) include the official rulesbooks, official errata & clarifications, and the tournament policies. The rulesbooks and rules inserts were published along with each set and expansion of _MECCG_. Additional rules and annotations to the rules were published in the _Companion_ books. Errata & Clarifications to the rules and cards were published in the various _Companion_ and _Player Guide_ books and in the online Collected Rulings File (CRF). Rules and regulations for sanctioned tournament play were published in the Council of Lórien Tournament Policy. These are _official_ in that they were authored or authorized by Coleman Charlton and Mike Reynolds, the Designers and Developers of _Middle-earth CCG_ at Iron Crown Enterprises.
 
 ## OFFICIAL RULESBOOKS
 
@@ -24,8 +24,8 @@ The official rulesbooks and rule sources include:
  - _Middle-earth: The Lidless Eye Companion_ (Jun. 1997), 95 pages. Published as a large-format paperback book. Includes _The Lidless Eye_ rulesbook and updates to the Rules Annotations in _The Wizards Companion_. Also includes Errata and Clarifications, Scenarios, Card Lists, Maps, and more. 
  - _Middle-earth: Against the Shadow_ (_MEAS_) Limited Edition rule insert (Sep. 1997), 4 pages. Included in _MEAS_ booster packs.
  - _Middle-earth: The White Hand_ (_MEWH_) Limited Edition rule insert (Dec. 1997), 12 pages (labeled 1-6). Included in _MEWH_ booster packs.
- - _Middle-earth Challenge Decks_ Rules Summary and Play Tips (Apr. 1998), 48 pages. Included in the preconstructed _Challenge Decks_. These rules are a summary of the _METW_ and _MELE_ rules with a few additional notes and clarifications.
- - _Middle-earth: The Balrog_ Rules Summary and Play Tips (Nov. 1998), 20 pages. Included in the preconstructed _MEBA_ decks. An update to the _Challenge Deck_ Rules Summary.
+ - _Middle-earth Challenge Decks_ Rules Summary and Play Tips (Apr. 1998), 48 pages. Included in the preconstructed _Challenge Decks_. These rules are a _summary_ of the _METW_ and _MELE_ rules but were updated based on intervening clarifications.
+ - _Middle-earth: The Balrog_ Rules Summary and Play Tips (Nov. 1998), 20 pages. Included in the preconstructed _MEBA_ decks. Has a few corrections and updates to the _Challenge Deck_ Rules Summary.
 
 ## OFFICIAL RULINGS
 
