@@ -11,7 +11,11 @@ search_exclude: true
 {: .text-center }
 # OFFICIAL RULES
 
-The official rules for the _Middle-earth: Collectible Card Game_ (_MECCG_) include the official rulesbooks, official errata & clarifications, and the tournament policies. The rulesbooks and rules inserts were published along with each set and expansion of _MECCG_. Additional rules and annotations to the rules were published in the _Companion_ books. Errata & Clarifications to the rules and cards were published in the various _Companion_ and _Player Guide_ books and in the online Collected Rulings File (CRF). Rules and regulations for sanctioned tournament play were published in the Council of Lórien Tournament Policy. These are _official_ in that they were authored or authorized by Coleman Charlton and Mike Reynolds, the Designers and Developers of _Middle-earth CCG_ at Iron Crown Enterprises.
+The official rules for the _Middle-earth: Collectible Card Game_ (_MECCG_) include the official rulesbooks, official errata & clarifications, and the tournament policies. 
+
+ - The rulesbooks and rules inserts were published along with each set and expansion of _MECCG_. Additional rules and annotations to the rules were published in the _Companion_ books. 
+ - Errata & Clarifications to the rules and cards were published in the various _Companion_ and _Player Guide_ books and in the online Collected Rulings File (CRF).
+ - Rules and regulations for sanctioned tournament play were published in the Council of Lórien Tournament Policy. These are _official_ in that they were authored or authorized by Coleman Charlton and Mike Reynolds, the Designers and Developers of _Middle-earth CCG_ at Iron Crown Enterprises.
 
 ## OFFICIAL RULESBOOKS
 
