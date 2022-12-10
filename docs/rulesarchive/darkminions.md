@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Dark Minions
-parent: Rules Archive
+parent: Official Rulesbooks
+grand_parent: Official Rules
 nav_order: 6
-permalink: /rules-archive/dark-minions
+permalink: /official/rulesbooks/dark-minions
 search_exclude: true
 ---
 
