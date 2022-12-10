@@ -31,4 +31,8 @@ The official rulesbooks and rule sources include:
 
 Official errata and clarifications were given in the following publications:
 
- - 
+ - _Middle-earth: The Wizards Companion_ (1996).
+ - _Middle-earth: The Dragons Player Guide_ (1997).
+ - _Middle-earth: Dark Minions Player Guide_ (1997).
+ - _Middle-earth: The Lidless Eye Companion_ (1997).
+ - Collected Rulings File (versions 1-15)
