@@ -3,6 +3,7 @@ layout: default
 title: Official Rules
 nav_order: 5
 permalink: /official
+has_children: true
 search_exclude: true
 ---
 
