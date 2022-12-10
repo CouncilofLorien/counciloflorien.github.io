@@ -9,7 +9,7 @@ search_exclude: true
 {: .text-center }
 # OFFICIAL RULES
 
-Each set and expansion of the _Middle-earth: Collectible Card Game_ came with a rulesbook or rules insert (leaflet). Errata and clarifications of the rules and cards were published in the _Companion_ and _Player Guide_ books and in the online Collected Rulings File (CRF). These are _official_ rules for _MECCG_. They are official because they were authored or authorized by Coleman Charlton and Mike Reynolds, the Designers and Developers of _Middle-earth CCG_ at Iron Crown Enterprises.
+Each set and expansion of the _Middle-earth: Collectible Card Game_ came with a rulesbook or rules insert (leaflet). Errata and clarifications of the rules and cards were published in the _Companion_ and _Player Guide_ books and in the online Collected Rulings File (CRF). These are the official rules for _MECCG_. They are _official_ because they were authored or authorized by Coleman Charlton and Mike Reynolds, the Designers and Developers of _Middle-earth CCG_ at Iron Crown Enterprises.
 
 ## OFFICIAL RULESBOOKS
 
