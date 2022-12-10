@@ -9,14 +9,14 @@ search_exclude: true
 {: .text-center }
 # OFFICIAL RULES
 
-The _Middle-earth: Collectible Card Game_ has a set of official rulebooks (i.e., rulesbooks and rule inserts) and official rulings (i.e., errata and clarifications). These are _official_ in that they were written by the Designers and Developers of _Middle-earth CCG_ at Iron Crown Enterprises (i.e., Coleman Charlton and Mike Reynolds) or they were authorized by the Designers.
+Each set and expansion of the _Middle-earth: Collectible Card Game_ came with a rulesbook or rules insert (leaflet). Errata and clarifications of the rules and cards were published in the _Companion_ and _Player Guide_ books and in the online Collected Rulings File (CRF). These are _official_ rules for _MECCG_. They are official because they were authored or authorized by Coleman Charlton and Mike Reynolds, the Designers and Developers of _Middle-earth CCG_ at Iron Crown Enterprises.
 
 ## OFFICIAL RULESBOOKS
 
-Each set and expansion of the _Middle-earth CCG_ includes a Rulesbook or Rules Insert (leaflet). ICE also published rules in a larger book format. The official rulesbooks include:
+The official rulesbooks and rule sources include:
 
  - _Middle-earth: The Wizards_ (_METW_) Limited Edition Rulesbook (Dec. 1995), 48 pages. Included in _METW_ Limited Edition Starter Decks.
- - _Middle-earth: The Wizards Companion_ (Feb. 1996), 96 pages. Published as a large-format paperback book. Includes _The Wizards_ rulesbook with numerous clarifications, notes, and additions and Rules Annotations. Also includes Errata and Clarifications, Scenarios, Card Lists, Maps, and more. 
+ - _Middle-earth: The Wizards Companion_ (Feb. 1996), 96 pages. Published as a large-format paperback book. Includes _The Wizards_ rulesbook with numerous clarifications, notes, examples, and Rules Annotations. Also includes Errata and Clarifications, Scenarios, Card Lists, Maps, and more. 
  - _Middle-earth: The Wizards_ Unlimited Edition Rulesbook (Mar. 1996), 72 pages. Included in _METW_ Unlimited Edition Starter Decks. Reflects the changes presented in _The Wizards Companion_.
  - _Middle-earth: The Dragons_ (_METD_) Limited Edition rule insert (Jun. 1996), 6 pages. Included in _METD_ booster packs.
  - _Middle-earth: Dark Minions_ (_MEDM_) Limited Edition rule insert (Nov. 1996), 12 pages (labeled 1-6). Included in _MEDM_ booster packs.
@@ -24,9 +24,11 @@ Each set and expansion of the _Middle-earth CCG_ includes a Rulesbook or Rules I
  - _Middle-earth: The Lidless Eye Companion_ (Jun. 1997), 95 pages. Published as a large-format paperback book. Includes _The Lidless Eye_ rulesbook and updates to the Rules Annotations in _The Wizards Companion_. Also includes Errata and Clarifications, Scenarios, Card Lists, Maps, and more. 
  - _Middle-earth: Against the Shadow_ (_MEAS_) Limited Edition rule insert (Sep. 1997), 4 pages. Included in _MEAS_ booster packs.
  - _Middle-earth: The White Hand_ (_MEWH_) Limited Edition rule insert (Dec. 1997), 12 pages (labeled 1-6). Included in _MEWH_ booster packs.
- - _Middle-earth Challenge Decks_ Rules Summary and Play Tips (Apr. 1998), 48 pages. Included in the preconstructed Challenge Decks. A Summary of the _METW_ and _MELE_ rules with some notes and clarifications.
- - _Middle-earth: The Balrog_ Rules Summary and Play Tips (Nov. 1998), 20 pages. Included in teh preconstructed _MEBA_ decks. A Summary of the _METW_ and _MELE_ rules with some notes and clarifications, as well as additions and changes from the Challenge Deck Rules Summary.
+ - _Middle-earth Challenge Decks_ Rules Summary and Play Tips (Apr. 1998), 48 pages. Included in the preconstructed _Challenge Decks_. These rules are a summary of the _METW_ and _MELE_ rules with a few additional notes and clarifications.
+ - _Middle-earth: The Balrog_ Rules Summary and Play Tips (Nov. 1998), 20 pages. Included in the preconstructed _MEBA_ decks. An update to the _Challenge Deck_ Rules Summary.
 
 ## OFFICIAL RULINGS
 
-ICE made official rulings...
+Official errata and clarifications were given in the following publications:
+
+ - 
