@@ -8,16 +8,14 @@ permalink: /original/rulings/faq-4
 search_exclude: true
 ---
 
-# Middle Earth: The Wizards<br>Frequently Asked Questions
+# Middle Earth: The Wizards<br>Frequently Asked Questions File
 
 {: .text-center }
 Number 4, current as of 1/21/96  
 What, me procrastinate? version  
-Maintained by Craig "Ichabod" O'Brien
+Maintained by Craig "Ichabod" O'Brien  
 
-Especially new and succulent information is marked with \*'s.
-
-Thanks to Herve Guillemet for help on information gathering for this FAQ.
+Especially new and succulent information is marked with \*'s. Thanks to Herve Guillemet for help on information gathering for this FAQ.
 
 #### Questions About Characters
 
