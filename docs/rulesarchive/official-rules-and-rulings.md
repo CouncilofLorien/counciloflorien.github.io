@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Official Rules
+title: Original Rules
 nav_order: 5
 permalink: /original
 has_children: true
