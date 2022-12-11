@@ -1,9 +1,10 @@
 ---
 layout: default
 title: The Wizards Companion
-parent: Rules Archive
+parent: Original Rulebooks
+grand_parent: Original Rules
+permalink: /original/rulebooks/the-wizards-companion
 nav_order: 3
-permalink: /rules-archive/the-wizards-companion
 search_exclude: true
 ---
 
