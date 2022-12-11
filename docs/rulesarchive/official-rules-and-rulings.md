@@ -11,16 +11,14 @@ search_exclude: true
 {: .text-center }
 # ORIGINAL RULES
 
-The original rules for the _Middle-earth: Collectible Card Game_ (_MECCG_) include the official rulesbooks, official errata & clarifications, and the sanctioned tournament policies:
- - The rulesbooks and rules inserts were published along with each set and expansion of _MECCG_. Additional rules and annotations to the rules were published in the _Companion_ books. 
- - Errata and clarifications to the rules and cards were published in the various _Companion_ and _Player Guide_ books and in the online Collected Rulings File (CRF). 
+Iron Crown Enterprises (ICE) published the rules for playing the _Middle-earth: Collectible Card Game_ (_MECCG_) across various set and expansion rulebooks, along with errata & clarifications to the rules and cards, and supplemented by policies for sanctioned tournament games.
+ - A Rulesbook or rules insert was published along with each set and expansion of _MECCG_. Additional rules and annotations to the rules were published in the _Companion_ books. 
+ - Errata and clarifications to the rules and cards were published in the various _Companion_ and _Player Guide_ books and provided on their website in the Frequently Asked Questions (FAQ) and Collected Rulings File (CRF). 
  - Rules and regulations for sanctioned tournament play were published in the Council of Lórien Tournament Policy. 
 
-These original rules are the _official_ rules in that they were authored or authorized by Coleman Charlton and Mike Reynolds, the Designers and Developers of _Middle-earth CCG_ at Iron Crown Enterprises. However, some of these official rules, rulings, and clarifications are _outdated_ as they were revised, clarified, over superceded over the course of the game. The Emended Rules present the correct, final, and complete version of the rules.
+These original rules are the _official_ rules in that they were authored or authorized by Coleman Charlton and Mike Reynolds, the Designers and Developers of _Middle-earth CCG_ at Iron Crown Enterprises. However, some of these rules are _outdated_ as they were revised, clarified, or superceded over the course of the game. ICE never published a complete and final ruleset as they were developing a second edition of _MECCG_ instead (titled "Lord of the Rings Expandable Card Game" (LoRE), which was never released as ICE lost their license to produce Middle-earth games. The digital version of these original rules do _not_ include errata, clarifications, or revisions but they do correct minor typographical, grammatical, and formatting issues. The Complete & Final Rules present the rules with all errata, clarifications, and other revisions.
 
-The digital versions of the original rules include annotations to the rules but the text is left in its original form except for minor typographical, grammatical, and formatting corrections.
-
-## OFFICIAL RULESBOOKS
+## ORIGINAL RULESBOOKS
 
 The official rulesbooks and rule sources include:
 
@@ -38,7 +36,7 @@ The official rulesbooks and rule sources include:
 
 ## OFFICIAL RULINGS
 
-Official errata and clarifications were given in the following publications:
+ICE provided official errata and clarifications in the following publications:
 
  - Frequently Asked Questions (number 1-7, 1995-1996).
  - Collected Rulings File (versions 1-15, 1996-1999).
