@@ -1,9 +1,10 @@
 ---
 layout: default
 title: The White Hand
-parent: Rules Archive
+parent: Original Rulebooks
+grand_parent: Original Rules
+permalink: /original/rulebooks/the-white-hand
 nav_order: 11
-permalink: /rules-archive/the-white-hand
 search_exclude: true
 ---
 
