@@ -1,9 +1,10 @@
 ---
 layout: default
 title: The Wizards Limited
-parent: Rules Archive
+parent: Original Rulebooks
+grand_parent: Original Rules
+permalink: /original/rulebooks/the-wizards-limited
 nav_order: 1
-permalink: /rules-archive/the-wizards-limited
 search_exclude: true
 ---
 
