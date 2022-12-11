@@ -1,11 +1,10 @@
-
 ---
 layout: default
-title: Frequently Asked Questions
+title: Frequently Asked Questions #3
 parent: Official Rulings
-grand_parent: Official Rules
+grand_parent: Original Rules
 nav_order: 7
-permalink: /original/rulings/dark-minions-player-guide
+permalink: /original/rulings/faq-3
 search_exclude: true
 ---
 
