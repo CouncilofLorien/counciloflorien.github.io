@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Dark Minions Player Guide
-parent: Rules Archive
+parent: Official Rulings
+grand_parent: Official Rules
 nav_order: 7
-permalink: /rules-archive/dark-minions-player-guide
+permalink: /official/rulings/dark-minions-player-guide
 search_exclude: true
 ---
 
