@@ -29,8 +29,8 @@ A: You can either put two of the same wizard in or two different wizards in.
 Q: Can characters with a bonus to influence against "Blue Mountain Dwarves" use that bonus against dwarf characters with the home site Blue Mountains?  
 A: No.  This bonus only applies to the Blue Mountain Dwarf faction.
 
-*Q: If a character has a bonus to their direct influence do they get the bonus for each of their followers?  
-*A: No.  They only get the bonus once.
+\*Q: If a character has a bonus to their direct influence do they get the bonus for each of their followers?  
+\*A: No.  They only get the bonus once.
 
 #### Questions About Combat
 
@@ -40,17 +40,17 @@ A: No. Wounded characters are only at -2.
 Q: How do creatures with a body number work?  
 A: For each strike that is defeated, a body check must also be made. The body must be defeated for every strike in order to get MPs for the creature.
 
-*Q: In what order are permanent bonuses applied?  
-*A: In any order you want, but before combat modifiers.
+\*Q: In what order are permanent bonuses applied?  
+\*A: In any order you want, but before combat modifiers.
 
-*Q: How exactly are strikes assigned?  
-*A: When you are facing a hazard creature, you may only assign strikes to untapped characters. You may only assign one strike to each character. Any strikes you do not assign your opponent may assign to any characters who have not yet been assigned a strike. Any strikes remaining after that may be assigned as -1 modifiers by your opponent.  More than one of these modifiers may be assigned to a single character.
+\*Q: How exactly are strikes assigned?  
+\*A: When you are facing a hazard creature, you may only assign strikes to untapped characters. You may only assign one strike to each character. Any strikes you do not assign your opponent may assign to any characters who have not yet been assigned a strike. Any strikes remaining after that may be assigned as -1 modifiers by your opponent.  More than one of these modifiers may be assigned to a single character.
 
-*Q: When is it too late to cancel a strike or an attack?  
-*A: Once the strikes have been assigned it is too late to cancel the attack.  Once the dice have been rolled it is too late to cancel the strike.
+\*Q: When is it too late to cancel a strike or an attack?  
+\*A: Once the strikes have been assigned it is too late to cancel the attack.  Once the dice have been rolled it is too late to cancel the strike.
 
-*Q: Are the side effects of losing a character dealt with before or after I finish resolving any other strikes?  
-*A: They are resolved immediately, before the other characters face their strikes.
+\*Q: Are the side effects of losing a character dealt with before or after I finish resolving any other strikes?  
+\*A: They are resolved immediately, before the other characters face their strikes.
 
 #### Questions About Movement
 
@@ -72,8 +72,8 @@ A: Region movement allows you to move from one non-haven site to another non-hav
 Q: Why don't the starter decks have region cards?  
 A: A priority in the design of the game was to insure the playability of starter decks. Region cards would likely be mechanically useless cards in a starter deck game.
 
-*Q: How exactly is the site path determined?  
-*A: The site path is determined by the way you got to the site. If you used starter movement the site path is the path on the site card for moving to and from a haven, or the path on the haven card for moving from haven to haven.  If you are using region movement the site path is made of the region types on the region card you played.  The site path always include the site type of the site you move to.
+\*Q: How exactly is the site path determined?  
+\*A: The site path is determined by the way you got to the site. If you used starter movement the site path is the path on the site card for moving to and from a haven, or the path on the haven card for moving from haven to haven.  If you are using region movement the site path is made of the region types on the region card you played.  The site path always include the site type of the site you move to.
 
 #### Questions About Playing Hazards
 
@@ -83,39 +83,39 @@ A: No. The hazard limit is set at the begining of movement.
 Q: Do permanent events count against the hazard limit?  
 A: Permanent events only count against the hazard limit when first played, unless they tap. In that case they count twice: once when played and once when tapped.
 
-*Q: If my opponent has 2 companies when the first one moves can I play a hazard on the second one?  
-*A: No.  Hazards may only be played on a company that is moving. Note that long and permanent events may affect both companies even if they are played "on" the first company.
+\*Q: If my opponent has 2 companies when the first one moves can I play a hazard on the second one?  
+\*A: No.  Hazards may only be played on a company that is moving. Note that long and permanent events may affect both companies even if they are played "on" the first company.
 
-*Q: Can an on guard card be triggered by one company and affect another?  
-*A: No.
+\*Q: Can an on guard card be triggered by one company and affect another?  
+\*A: No.
 
-*Q: If a card requires two wilderness in the site path do they need to be consecutive?  
-*A: No.
+\*Q: If a card requires two wilderness in the site path do they need to be consecutive?  
+\*A: No.
 
 #### Questions About the Site Phase 
 
-*Q: The rules say you can play a minor item after successfully playing a resource at a site.  Can you do this even if minor items are not playable at the site?  
-*A: Yes.
+\*Q: The rules say you can play a minor item after successfully playing a resource at a site.  Can you do this even if minor items are not playable at the site?  
+\*A: Yes.
 
-*Q: Once I get to a site how exactly do I go about exploring it?  
-*A: First declare that you are exploring the site.  Then face the automatic attack.  If you have an untapped character at the site play a card that is playable at that site.  For most items and information cards it will say on the site card if you can play an item of that type (minor, major, greater, gold ring).  For some items, factions, and allies it will say on the resource card if it is playable at that site.  If the resource is successfully played and you still have an untapped character you may play a minor item.  If after facing the automatic attack you have no untapped characters you must wait until next turn and face the automatic attack again.
+\*Q: Once I get to a site how exactly do I go about exploring it?  
+\*A: First declare that you are exploring the site.  Then face the automatic attack.  If you have an untapped character at the site play a card that is playable at that site.  For most items and information cards it will say on the site card if you can play an item of that type (minor, major, greater, gold ring).  For some items, factions, and allies it will say on the resource card if it is playable at that site.  If the resource is successfully played and you still have an untapped character you may play a minor item.  If after facing the automatic attack you have no untapped characters you must wait until next turn and face the automatic attack again.
 
-*Q: Can I use a card that cancels an attack to cancel an automatic attack?  
-*A: Yes. This counts as facing the automatic attack.
+\*Q: Can I use a card that cancels an attack to cancel an automatic attack?  
+\*A: Yes. This counts as facing the automatic attack.
 
 #### Questions About Specific Cards
 
-*Q: If Alatar uses his special ability to help a company, does he stay with that company?  
-*A: Yes, he does.
+\*Q: If Alatar uses his special ability to help a company, does he stay with that company?  
+\*A: Yes, he does.
 
 Q: If the Balrog of Moria is in play and Galadriel gets killed, what happens in Lorien?  
 A: Though it makes little sense, the "In addition" section is not used because she is "out-of-play."
 
-*Q: If I play the Balrog and then kill it do I get the MP's?  
-*A: No.
+\*Q: If I play the Balrog and then kill it do I get the MP's?  
+\*A: No.
 
 Q: Does Bane of the Ithil-stone stop me from drawing cards when someone moves?  
-A: No.  It will only cancel actions that literally cause a player to search throught or look at any pertion of any play deck or discard pile outside the sequence of normal play. It will cancel Vilya, which allows Elrond's player to look through their discard pile and put 5 cards into their play deck; and it will cancel Lucky Search.  Bane of the Ithil-stone will not stop an effect which allows a player to bring cards from their sideboard into their discard pile or play deck.  Neither will it affect an action which otherwise only causes a player to reshuffle their play deck.
+A: No. It will only cancel actions that literally cause a player to search throught or look at any pertion of any play deck or discard pile outside the sequence of normal play. It will cancel Vilya, which allows Elrond's player to look through their discard pile and put 5 cards into their play deck; and it will cancel Lucky Search.  Bane of the Ithil-stone will not stop an effect which allows a player to bring cards from their sideboard into their discard pile or play deck.  Neither will it affect an action which otherwise only causes a player to reshuffle their play deck.
 
 Q: If a character gets returned to your hand by Call of Home or Call of the Sea, can you transfer all their items to other characters?  
 A: No, you may transfer one item.  All other non-follower cards controlled by the target character are discarded.
@@ -126,14 +126,14 @@ A: Sure, go for it.
 Q: If you cancel the Corpse-candle's attack does the company still have to make the corruption checks?  
 A: No, they do not.
 
-*Q: Can you use an Elven Cloak to cancel a hazard keyed to double wilderness?  
-*A: Yes.
+\*Q: Can you use an Elven Cloak to cancel a hazard keyed to double wilderness?  
+\*A: Yes.
 
 Q: Does Doors of Night cancel resource environments played after the Doors of Night are played?  
 A: No. Doors of Night only cancels resource environments that are in play when the Doors of Night are played.  The same goes for Gates of Morning cancelling hazard environments.
 
-*Q: Does the site have to be untapped in order to use the Dwarven Ring of Barin's Tribe?  
-*A: Yes.
+\*Q: Does the site have to be untapped in order to use the Dwarven Ring of Barin's Tribe?  
+\*A: Yes.
 
 Q: Does the character wounded by Escape have to be unwounded when the Escape is played?  
 A: Yes. You cannot play Escape on a wounded character.
@@ -141,14 +141,14 @@ A: Yes. You cannot play Escape on a wounded character.
 Q: If Doors of Night is in play does Eye of Sauron give +3 or +4 to the prowess of each automatic attack?  
 A: Eye of Sauron will only give +3 to the prowes of each automatic attack.
 
-*Q: Do Dwarven Rings give Dwarves +7 influence, or an influence of 7?  
-*A: They give +7 to direct influence.
+\*Q: Do Dwarven Rings give Dwarves +7 influence, or an influence of 7?  
+\*A: They give +7 to direct influence.
 
-*Q: Whose body is refered to on Eowyn and many of the other female cards, hers or the Nazgul's?  
-*A: The Nazgul's.
+\*Q: Whose body is refered to on Eowyn and many of the other female cards, hers or the Nazgul's?  
+\*A: The Nazgul's.
 
-*Q: Can I play more than one Fellowship on a company?  
-*A: Yes.
+\*Q: Can I play more than one Fellowship on a company?  
+\*A: Yes.
 
 Q: If I stay at an untapped site during my movement and play a Foul Fumes during my opponent's movement, does my site tap?  
 A: No.  This is because the site path when you do not move consists of only the site type.
@@ -157,7 +157,7 @@ Q: What happens to a Gold Ring card when I test it?
 A: It is discarded, and you loose the Marshalling Point it gave you. If you have the right ring (as indicated by the test roll) in your hand you may play it immediately.
 
 Q: Can Gollum and the One Ring ever be together at the same site?  
-A: Yes.  The text on Gollum is an ability that you can choose to use, not an effect that happens automatically.
+A: Yes. The text on Gollum is an ability that you can choose to use, not an effect that happens automatically.
 
 Q: When Great Road is played does the opponent *have* to draw twice the number of cards normally drawn?  
 A: No, they may choose to draw less.  Consider Great Road to have errata that changes "Opponent draws twice..." to "Opponent may draw up to twice."
@@ -189,20 +189,20 @@ A: Yes. The following cards all have errata:
 Q: What do Great Ship, Leaflock, and Tom Bombadil mean when they say "cancel the effects of one hazard"?  
 A: These cards allow the cancelling of an attack.  They also allow the cancelling of an ongoing hazard effect that targets the company in question or any entity associated with that company (item, character, site, etc.).  They allow the cancelling of a dice-rolling action declared earlier in the same chain of effects but not yet resolved (as in Call of Home). They do not allow the cancelling of a non-dice-rolling effect declared earlier in the same chain of effects. For example, they do not allow you to stop "Tom" from forcing a wounded player to discard their item if you passed on the opportunity to cancel "Tom's" attack.  However, once a chain of effects has resolved Leaflock and the others allow the cancelling of an effect of an effect that is ongoing.  For example, Leaflock cound stop the effect of River, but he could not keep Adunaphel from tapping a  character as a short-event.
 
-*Q: If Doors of Night is in play, Long Winter only taps the sites belonging to the player whose turn it is, right?  
-*A: Wrong.  *All* sites in play with two Wildernesses in their site path become tapped.
+\*Q: If Doors of Night is in play, Long Winter only taps the sites belonging to the player whose turn it is, right?  
+\*A: Wrong.  *All* sites in play with two Wildernesses in their site path become tapped.
 
 Q: Can I play Lucky Search at a tapped site?  
 A: Sure, go ahead.  It can be played at a tapped or untapped site.
 
-*Q: If I get a second resource with Lucky Search can I play a second minor item too?  
-*A: No.
+\*Q: If I get a second resource with Lucky Search can I play a second minor item too?  
+\*A: No.
 
 Q: If I play a ring special item after testing a gold ring, will this trigger a corruption check for Lure of Expedience?  
 A: Yes, it will trigger a corruption check.
 
-*Q: If I tap a character to help another character with a Lure of the Sense's corruption check, do they then untap?  
-*A: No, they will not untap until next turn.
+\*Q: If I tap a character to help another character with a Lure of the Sense's corruption check, do they then untap?  
+\*A: No, they will not untap until next turn.
 
 Q: What exactly does the "Only playable at Lorien" mean on Mirror of Galadriel?  
 A: It means that Mirror of Galadriel is playable if any of your characters is at Lorien.
@@ -228,23 +228,23 @@ A: The player playing The Precious chooses.
 Q: If I tap Ren the Unclean on my opponent's turn, can I play resources to modify the corruption checks of my characters?  
 A: No you may not. If you are playing standard rules your characters can tap to give +1 to another character's check in the same company.
 
-*Q: I can tap Saruman to use an un-aligned palantir, right?  
-*A: Right.
+\*Q: I can tap Saruman to use an un-aligned palantir, right?  
+\*A: Right.
 
 Q: Can Shadowfax carry allies?  
 A: No. To be elligible for Shadowfax's special ability the party can contain no allies.
 
-*Q: When does Siege go away?  
-*A: When all copies of the site it is played on are removed.
+\*Q: When does Siege go away?  
+\*A: When all copies of the site it is played on are removed.
 
-*Q: Can I tap the target of Slayer to cancel one of the attacks?  
-*A: No.
+\*Q: Can I tap the target of Slayer to cancel one of the attacks?  
+\*A: No.
 
 Q: Does Thorin II get a total +4 direct influece against Blue Mountain Dwarves?  
 A: Yes, he does.
 
-*Q: Can I play Tookish Blood on a character who just failed a corruption check?  
-*A: The discarding of the character happens immediately after the failed roll. There is no time for any effects to be used.
+\*Q: Can I play Tookish Blood on a character who just failed a corruption check?  
+\*A: The discarding of the character happens immediately after the failed roll. There is no time for any effects to be used.
 
 Q: Can I play Twilight on a card that has not resolved yet?  
 A: Yes, Twilight may target a card played earlier in the same chain of effects.
@@ -254,16 +254,16 @@ A: Yes.  If you do so Twilight does not count against the hazard limit for that 
 
 #### Questions About Timing
 
-*Q: When is the validity of an effect checked?  
-*A: Upon resolution.
+\*Q: When is the validity of an effect checked?  
+\*A: Upon resolution.
 
 #### Miscellaneous Questions
 
-*Q: A hobbit is facing an automatic attack because he burgled a site. Can my other characters tap to aid him in facing the attack?  
-*A: Yes. Burgling hobbits must face the attack themselves, but can be aided by any other company members that can participate in the attack.
+\*Q: A hobbit is facing an automatic attack because he burgled a site. Can my other characters tap to aid him in facing the attack?  
+\*A: Yes. Burgling hobbits must face the attack themselves, but can be aided by any other company members that can participate in the attack.
 
-*Q: During the Free Council can I tap characters to give +1 to a corruption check?  
-*A: Yes, but note that the player calling the free council does not get an untap phase.
+\*Q: During the Free Council can I tap characters to give +1 to a corruption check?  
+\*A: Yes, but note that the player calling the free council does not get an untap phase.
 
 #### Questions About Support
 
