@@ -11,11 +11,11 @@ search_exclude: true
 # Middle Earth: The Wizards<br>Frequently Asked Questions
 
 {: .text-center }
-FileNumber 3, current as of 1/1/96  
+File Number 3, current as of 1/1/96  
 Blue in the Face Dwarf version  
 Maintained by Craig "Ichabod" O'Brien
 
-Especially new and succulent information is marked with *'s.
+Especially new and succulent information is marked with \*'s.
 
 #### Questions About Characters
 
