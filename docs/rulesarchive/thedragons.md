@@ -1,11 +1,11 @@
 ---
 layout: default
 title: The Dragons
-parent: Rules Archive
+parent: Original Rulebooks
+grand_parent: Original Rules
+permalink: /original/rulebooks/the-dragons
 nav_order: 4
-permalink: /rules-archive/the-dragons
 search_exclude: true
----
 ---
 
 # MIDDLE-EARTH: THE DRAGONS
