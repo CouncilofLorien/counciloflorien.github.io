@@ -1,34 +1,24 @@
 ---
 layout: default
-title: Frequently Asked Questions #3
+title: Frequently Asked Questions #4
 parent: Official Rulings
 grand_parent: Original Rules
 nav_order: 7
-permalink: /original/rulings/faq-3
+permalink: /original/rulings/faq-4
 search_exclude: true
 ---
 
 # Middle Earth: The Wizards<br>Frequently Asked Questions
 
 {: .text-center }
-FileNumber 3, current as of 1/1/96  
-Blue in the Face Dwarf version  
+Number 4, current as of 1/21/96, What, me procrastinate? version
 Maintained by Craig "Ichabod" O'Brien
 
-Especially new and succulent information is marked with *'s.
+Especially new and succulent information is marked with \*'s.
 
-----------------------------------------------------------------
-Middle Earth: The Wizards Frequently Asked Questions File
-Number 4, current as of 1/21/96, What, me procrastinate? version
-Maintained by Craig "Ichabod" O'Brien <ich...@cstone.net>
-----------------------------------------------------------------
+Thanks to Herve Guillemet for help on information gathering for this FAQ.
 
-Especially new and succulent information is marked with *'s.
-Thanks to Herve Guillemet for help on information gathering for
-this FAQ.
-
-Questions About Characters
---------------------------
+#### Questions About Characters
 
 Q: What is the difference between discarding a character and eliminating
    a character?
@@ -50,8 +40,7 @@ A: No.  This bonus only applies to the Blue Mountain Dwarf faction.
 *   the bonus for each of their followers?
 *A: No.  They only get the bonus once.
 
-Questions About Combat
-----------------------
+#### Questions About Combat
 
 Q: The rules say the modification for tapped is -1 and for wounded is
    -2.  If you are tapped and wounded is the modification -3?
@@ -85,8 +74,7 @@ A: For each strike that is defeated, a body check must also be made.
 *A: They are resolved immediately, before the other characters face
 *   their strikes.
 
-Questions About Movement
-------------------------
+#### Questions About Movement
 
 Q: How does starter movement work?
 A: Each company will have a face up site card showing the site it is at.
@@ -147,8 +135,7 @@ A: A priority in the design of the game was to insure the playability of
 *   card you played.  The site path always include the site type of
 *   the site you move to.
 
-Questions About Playing Hazards
--------------------------------
+#### Questions About Playing Hazards
 
 Q: Does the hazard limit change if a character is eliminated during
    the movement/hazard phase.
@@ -173,8 +160,7 @@ A: Permanent events only count against the hazard limit when first
 *   to be consecutive?
 *A: No.
 
-Questions About the Site Phase
------------------------------- 
+#### Questions About the Site Phase 
 
 *Q: The rules say you can play a minor item after successfully playing
 *   a resource at a site.  Can you do this even if minor items are
@@ -198,8 +184,7 @@ Questions About the Site Phase
 *   attack?
 *A: Yes.  This counts as facing the automatic attack.
 
-Questions About Specific Cards
-------------------------------
+#### Questions About Specific Cards
 
 *Q: If Alatar uses his special ability to help a company, does he stay
 *   with that company?
@@ -454,14 +439,12 @@ Q: Can I play Twilight as a resource during my opponent's turn?
 A: Yes.  If you do so Twilight does not count against the hazard limit
    for that company.
 
-Questions About Timing
-----------------------
+#### Questions About Timing
 
 *Q: When is the validity of an effect checked?
 *A: Upon resolution.
 
-Miscellaneous Questions
------------------------
+#### Miscellaneous Questions
 
 *Q: A hobbit is facing an automatic attack because he burgled a site.
 *   Can my other characters tap to aid him in facing the attack?
@@ -474,8 +457,7 @@ Miscellaneous Questions
 *A: Yes, but note that the player calling the free council does not
 *   get an untap phase.
 
-Questions About Support
------------------------
+#### Questions About Support
 
 Q: Is there an official netrep?
 A: Yes.  His name is Scott Frazer <sfr...@comet.net>.  On AOL he goes
