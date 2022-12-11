@@ -1,9 +1,10 @@
 ---
 layout: default
 title: The Lidless Eye
-parent: Rules Archive
+parent: Original Rulebooks
+grand_parent: Original Rules
+permalink: /original/rulebooks/the-lidless-eye
 nav_order: 8
-permalink: /rules-archive/the-lidless-eye
 search_exclude: true
 ---
 
