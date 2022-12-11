@@ -8,26 +8,6 @@ permalink: /original/rulings/dark-minions-player-guide
 search_exclude: true
 ---
 
-<details markdown="block">
-  <summary>
-   CONTENTS
-  </summary>
-  {: .text-gamma }
-- TOC
-{:toc}
-</details>
-
-<details markdown="block">
-  <summary>
-    NOTES <img src="/assets/images/scroll.svg">
-  </summary>
-  {: .text-gamma }
-  
-{: .counsel }
-> Only Section 7 "Card Errata and Clarifications" is provided. 
-</details>
----
-
 # MIDDLE-EARTH<br>DARK MINIONS PLAYER GUIDE
 
 ## 7 • CARD ERRATA AND CLARIFICATIONS
