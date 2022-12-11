@@ -11,7 +11,8 @@ search_exclude: true
 # Middle Earth: The Wizards<br>Frequently Asked Questions
 
 {: .text-center }
-Number 4, current as of 1/21/96, What, me procrastinate? version
+Number 4, current as of 1/21/96  
+What, me procrastinate? version  
 Maintained by Craig "Ichabod" O'Brien
 
 Especially new and succulent information is marked with \*'s.
