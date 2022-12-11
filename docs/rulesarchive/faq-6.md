@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Frequently Asked Questions #4
+title: Frequently Asked Questions #6
 parent: Official Rulings
 grand_parent: Original Rules
 nav_order: 7
-permalink: /original/rulings/faq-4
+permalink: /original/rulings/faq-6
 search_exclude: true
 ---
 
