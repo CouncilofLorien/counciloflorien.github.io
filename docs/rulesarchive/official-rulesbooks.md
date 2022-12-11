@@ -1,23 +1,19 @@
 ---
 layout: default
-title: Official Rulesbooks
-parent: Official Rules
+title: Original Rulebooks
+parent: Original Rules
 nav_order: 1
-permalink: /official/rulesbooks
+permalink: /official/rulebooks
 has_children: true
 search_exclude: true
 ---
 
 {: .text-center }
-# OFFICIAL RULES
+# ORIGINAL RULEBOOKS
 
-The official rules for the _Middle-earth: Collectible Card Game_ (_MECCG_) include the official rulesbooks, official errata & clarifications, and the tournament policies. 
+Iron Crown Enterprises (ICE) published the rules for playing the _Middle-earth: Collectible Card Game_ (_MECCG_) across various set and expansion rulebooks. A Rulesbook or rules insert was published along with each set and expansion of _MECCG_. Additional rules and annotations to the rules were published in the _Companion_ books. 
 
- - The rulesbooks and rules inserts were published along with each set and expansion of _MECCG_. Additional rules and annotations to the rules were published in the _Companion_ books. 
- - Errata & Clarifications to the rules and cards were published in the various _Companion_ and _Player Guide_ books and in the online Collected Rulings File (CRF).
- - Rules and regulations for sanctioned tournament play were published in the Council of Lórien Tournament Policy. These are _official_ in that they were authored or authorized by Coleman Charlton and Mike Reynolds, the Designers and Developers of _Middle-earth CCG_ at Iron Crown Enterprises.
-
-## OFFICIAL RULESBOOKS
+These original rules are the _official_ rules in that they were authored or authorized by Coleman Charlton and Mike Reynolds, the Designers and Developers of _Middle-earth CCG_ at Iron Crown Enterprises. However, some of these rules are _outdated_ as they were revised, clarified, or superceded over the course of the game. ICE never published a complete and final ruleset as they were developing a second edition of _MECCG_ instead (titled "Lord of the Rings Expandable Card Game" (LoRE), which was never released as ICE lost their license to produce Middle-earth games. The digital version of these original rulebooks do _not_ include errata, clarifications, or revisions but they do correct minor typographical, grammatical, and formatting issues. The Complete & Final Rules present the rules with all errata, clarifications, and other revisions.
 
 The official rulesbooks and rule sources include:
 
@@ -32,5 +28,3 @@ The official rulesbooks and rule sources include:
  - _Middle-earth: The White Hand_ (_MEWH_) Limited Edition rule insert (Dec. 1997), 12 pages (labeled 1-6). Included in _MEWH_ booster packs.
  - _Middle-earth Challenge Decks_ Rules Summary and Play Tips (Apr. 1998), 48 pages. Included in the preconstructed _Challenge Decks_. These rules are a _summary_ of the _METW_ and _MELE_ rules but were updated based on intervening clarifications.
  - _Middle-earth: The Balrog_ Rules Summary and Play Tips (Nov. 1998), 20 pages. Included in the preconstructed _MEBA_ decks. Has a few corrections and updates to the _Challenge Deck_ Rules Summary.
-
-## OFFICIAL RULINGS
