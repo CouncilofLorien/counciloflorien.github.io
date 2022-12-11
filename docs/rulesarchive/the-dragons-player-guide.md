@@ -1,9 +1,10 @@
 ---
 layout: default
 title: The Dragons Player Guide
-parent: Rules Archive
+parent: Official Rulings
+grand_parent: Official Rules
 nav_order: 5
-permalink: /rules-archive/the-dragons-player-guide
+permalink: /original/rulings/the-dragons-player-guide
 search_exclude: true
 ---
 
