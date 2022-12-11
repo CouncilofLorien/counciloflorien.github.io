@@ -109,26 +109,26 @@ Especially new and succulent information is marked with *'s.
 
 **Q**: Are there any other cards with errata?  
 **A**: Yes.  The following cards all have errata:
-<br>&emsp;_Akhorahil_: Change "...gives -1 penalty to one..." to "...gives a +1 penalty to one..."
-<br>&emsp;_Dwarven Ring of Bavor's Tribe_: one "reshuffle the play deck" is sufficient.
-<br>&emsp;_Dwarven Ring of Druin's Tribe_: one "reshuffle the play deck" is sufficient.
-<br>&emsp;_Dwarven Ring of Thelor's Tribe_: Values in parenthesis and brackets apply to Dwarf bearer. The prowess/body modifications should read: "+2(4)/+1."
-<br>&emsp;_Dwarven Ring of Thrar's Tribe_: Values in parenthesis and brackets apply to Dwarf bearer. The prowess/body modifications should read: "+2(4)/+1."
-<br>&emsp;_Ent-draughts_: Remove "as a minor item" and replace with "and only if an ally or faction has been succesfully played at Wellinghall."
-<br>&emsp;_The Great Goblin_: "Unique. Orc. One strike..."
-<br>&emsp;_Gwaihir_: Should read "...you may discard Gwaihir during the Organization phase to allow his company..."
-<br>&emsp;_Horses_: Add "Playable only at the end of the Organization phase."
-<br>&emsp;_Morannon_: Should read "This card is used as a Dark-hold (D) site card in the region of Udun that is moved to..."
-<br>&emsp;_\*Neeker Breekers_: Add "Does not affect Wizards."
-<br>&emsp;_Roac the Raven_: Remove "-no modifications to the influence check are required."  Replace with "-treat this influence check as though it were made by a Diplomat."
-<br>&emsp;_Seige_: Change the border-land symbol in the first line to a border-hold symbol.
-<br>&emsp;_Shadowfax_: "...an additional site card may be played and an additional movement/hazard phase..."
-<br>&emsp;_Silent Watcher_: Gives 1 marshalling point, not 0.
-<br>&emsp;_Slayer_: Gives 2 marshalling point, not 0
-<br>&emsp;_Traitor_: Remove the last paragraph.
-<br>&emsp;_Twilight_: This card may be played at any time during any player's turn.
-<br>&emsp;_Wizard's Laughter_: Change "Wizard only." to "Wizard only during opponent's site phase."
-<br>&emsp;_Wolves_: Change "Animals." to "Wolves."
+ - _Akhorahil_: Change "...gives -1 penalty to one..." to "...gives a +1 penalty to one..."
+ - _Dwarven Ring of Bavor's Tribe_: one "reshuffle the play deck" is sufficient.
+ - _Dwarven Ring of Druin's Tribe_: one "reshuffle the play deck" is sufficient.
+ - _Dwarven Ring of Thelor's Tribe_: Values in parenthesis and brackets apply to Dwarf bearer. The prowess/body modifications should read: "+2(4)/+1."
+ - _Dwarven Ring of Thrar's Tribe_: Values in parenthesis and brackets apply to Dwarf bearer. The prowess/body modifications should read: "+2(4)/+1."
+ - _Ent-draughts_: Remove "as a minor item" and replace with "and only if an ally or faction has been succesfully played at Wellinghall."
+ - _The Great Goblin_: "Unique. Orc. One strike..."
+ - _Gwaihir_: Should read "...you may discard Gwaihir during the Organization phase to allow his company..."
+ - _Horses_: Add "Playable only at the end of the Organization phase."
+ - _Morannon_: Should read "This card is used as a Dark-hold (D) site card in the region of Udun that is moved to..."
+ - _\*Neeker Breekers_: Add "Does not affect Wizards."
+ - _Roac the Raven_: Remove "-no modifications to the influence check are required."  Replace with "-treat this influence check as though it were made by a Diplomat."
+ - _Seige_: Change the border-land symbol in the first line to a border-hold symbol.
+ - _Shadowfax_: "...an additional site card may be played and an additional movement/hazard phase..."
+ - _Silent Watcher_: Gives 1 marshalling point, not 0.
+ - _Slayer_: Gives 2 marshalling point, not 0
+ - _Traitor_: Remove the last paragraph.
+ - _Twilight_: This card may be played at any time during any player's turn.
+ - _Wizard's Laughter_: Change "Wizard only." to "Wizard only during opponent's site phase."
+ - _Wolves_: Change "Animals." to "Wolves."
 
 **Q**: What do _Great Ship_, _Leaflock_, and _Tom Bombadil_ mean when they say "cancel the effects of one hazard?"
 **A**: These cards allow the cancelling of an attack. They also allow the cancelling of an ongoing hazard effect that targets the company in question or any entity associated with that company (item, character, site, etc.).  They allow the cancelling of a dice-rolling action declared earlier in the same chain of effects but not yet resolved (as in _Call of Home_). They do not allow the cancelling of a non-dice-rolling effect declared earlier in the same chain of effects. For example, they do not allow you to stop "_Tom_" from forcing a wounded player to discard their item if you passed on the opportunity to cancel "_Tom's_" attack. However, once a chain of effects has resolved _Leaflock_ and the others allow the cancelling of an effect of an effect that is ongoing. For example, _Leaflock_ cound stop the effect of _River_, but he could not keep _Adunaphel_ from tapping a character as a short-event.
