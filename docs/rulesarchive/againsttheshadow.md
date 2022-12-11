@@ -1,12 +1,11 @@
 ---
 layout: default
-title: Against The Shadow
-parent: Rules Archive
+title: Against the Shadow
+parent: Original Rulebooks
+grand_parent: Original Rules
+permalink: /original/rulebooks/against-the-shadow
 nav_order: 10
-permalink: /rules-archive/against-the-shadow
 search_exclude: true
----
-
 ---
 
 # MIDDLE-EARTH: AGAINST THE SHADOW
