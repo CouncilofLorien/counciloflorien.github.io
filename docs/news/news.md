@@ -5,6 +5,7 @@ nav_order: 9
 has_children: true
 permalink: /news
 search_exclude: true
+nav_exclude: true
 has_toc: false
 ---
 
