@@ -1,9 +1,10 @@
 ---
 layout: default
 title: The Balrog
-parent: Rules Archive
+parent: Original Rulebooks
+grand_parent: Original Rules
+permalink: /original/rulebooks/the-balrog
 nav_order: 13
-permalink: /rules-archive/the-balrog
 search_exclude: true
 ---
 
