@@ -8,10 +8,10 @@ permalink: /original/rulings/faq-3
 search_exclude: true
 ---
 
-# Middle Earth: The Wizards<br>Frequently Asked Questions
+# Middle Earth: The Wizards<br>Frequently Asked Questions File
 
 {: .text-center }
-File Number 3, current as of 1/1/96  
+Number 3, current as of 1/1/96  
 Blue in the Face Dwarf version  
 Maintained by Craig "Ichabod" O'Brien
 
