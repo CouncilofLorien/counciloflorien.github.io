@@ -2,21 +2,23 @@
 layout: default
 title: Official Rules
 nav_order: 5
-permalink: /official
+permalink: /original
 has_children: true
 nav_exclude: true
 search_exclude: true
 ---
 
 {: .text-center }
-# OFFICIAL RULES
+# ORIGINAL RULES
 
-The official rules for the _Middle-earth: Collectible Card Game_ (_MECCG_) include the official rulesbooks, official errata & clarifications, and the sanctioned tournament policies:
+The original rules for the _Middle-earth: Collectible Card Game_ (_MECCG_) include the official rulesbooks, official errata & clarifications, and the sanctioned tournament policies:
  - The rulesbooks and rules inserts were published along with each set and expansion of _MECCG_. Additional rules and annotations to the rules were published in the _Companion_ books. 
  - Errata and clarifications to the rules and cards were published in the various _Companion_ and _Player Guide_ books and in the online Collected Rulings File (CRF). 
  - Rules and regulations for sanctioned tournament play were published in the Council of Lórien Tournament Policy. 
 
-These are the _official_ rules in that they were authored or authorized by Coleman Charlton and Mike Reynolds, the Designers and Developers of _Middle-earth CCG_ at Iron Crown Enterprises.
+These original rules are the _official_ rules in that they were authored or authorized by Coleman Charlton and Mike Reynolds, the Designers and Developers of _Middle-earth CCG_ at Iron Crown Enterprises. However, some of these official rules, rulings, and clarifications are _outdated_ as they were revised, clarified, over superceded over the course of the game. The Emended Rules present the correct, final, and complete version of the rules.
+
+The digital versions of the original rules include annotations to the rules but the text is left in its original form except for minor typographical, grammatical, and formatting corrections.
 
 ## OFFICIAL RULESBOOKS
 
@@ -38,8 +40,9 @@ The official rulesbooks and rule sources include:
 
 Official errata and clarifications were given in the following publications:
 
+ - Frequently Asked Questions (number 1-7, 1995-1996).
+ - Collected Rulings File (versions 1-15, 1996-1999).
  - _Middle-earth: The Wizards Companion_ (1996).
  - _Middle-earth: The Dragons Player Guide_ (1997).
  - _Middle-earth: Dark Minions Player Guide_ (1997).
  - _Middle-earth: The Lidless Eye Companion_ (1997).
- - Collected Rulings File (versions 1-15)
