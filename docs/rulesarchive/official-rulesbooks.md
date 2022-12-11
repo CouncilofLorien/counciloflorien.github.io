@@ -3,7 +3,7 @@ layout: default
 title: Original Rulebooks
 parent: Original Rules
 nav_order: 1
-permalink: /official/rulebooks
+permalink: /original/rulebooks
 has_children: true
 search_exclude: true
 ---
