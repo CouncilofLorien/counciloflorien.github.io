@@ -8,26 +8,6 @@ nav_order: 3
 search_exclude: true
 ---
 
-<details markdown="block">
-  <summary>
-   CONTENTS
-  </summary>
-  {: .text-gamma }
-- TOC
-{:toc}
-</details>
-
-<details markdown="block">
-  <summary>
-    NOTES <img src="/assets/images/scroll.svg">
-  </summary>
-  {: .text-gamma }
-  
-{: .counsel }
-> Only PART V ERRATA AND CLARIFICATIONS is provided. 
-</details>
----
-
 # MIDDLE-EARTH<br>THE WIZARDS COMPANION
 
 # • PART V •<br>ERRATA AND CLARIFICATIONS
