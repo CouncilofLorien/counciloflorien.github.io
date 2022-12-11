@@ -197,8 +197,3 @@ Especially new and succulent information is marked with *'s.
 
 **Q**: How many cards were printed in the Limited Edition?  
 **A**: Carta Mundi printed 45 million cards for the Limited Edition.
-
-------
-Craig "Ichabod" O'Brien
-ich...@cstone.net
-http://www.io.com/~ichabod
