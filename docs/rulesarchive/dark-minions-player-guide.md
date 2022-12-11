@@ -4,7 +4,7 @@ title: Dark Minions Player Guide
 parent: Official Rulings
 grand_parent: Official Rules
 nav_order: 7
-permalink: /official/rulings/dark-minions-player-guide
+permalink: /original/rulings/dark-minions-player-guide
 search_exclude: true
 ---
 
