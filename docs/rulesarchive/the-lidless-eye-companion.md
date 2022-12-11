@@ -1,31 +1,11 @@
 ---
 layout: default
 title: The Lidless Eye Companion
-parent: Rules Archive
+parent: Original Rulebooks
+grand_parent: Original Rules
+permalink: /original/rulebooks/the-lidless-eye-companion
 nav_order: 9
-permalink: /rules-archive/the-lidless-eye-companion
 search_exclude: true
----
-
-<details markdown="block">
-  <summary>
-   CONTENTS
-  </summary>
-  {: .text-gamma }
-- TOC
-{:toc}
-</details>
-
-<details markdown="block">
-  <summary>
-    NOTES <img src="/assets/images/scroll.svg">
-  </summary>
-  {: .text-gamma }
-  
-{: .counsel }
-> Only PART V ERRATA AND CLARIFICATIONS is provided. 
-</details>
-
 ---
 
 # MIDDLE-EARTH<br>THE LIDLESS EYE COMPANION
