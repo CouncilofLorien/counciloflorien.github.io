@@ -14,7 +14,7 @@ _Middle-earth: Collectible Card Game_ Collected Official Rulings FileVersion 1 c
 
 The _MECCG_ Collected Official Ruling File has taken the place of the official FAQ.
 
-Around the first of every month (starting in December), this rulings file will be updated. Items marked with a -=- –=– are either new, changed, or certified free of Dragon infestations for the latest update. For this version, items marked with -=- are different from FAQ #7 Revised.
+Around the first of every month (starting in December), this rulings file will be updated. Items marked with a –=– are either new, changed, or certified free of Dragon infestations for the latest update. For this version, items marked with –=– are different from FAQ #7 Revised.
 
 The Annotations from the _Middle-earth: The Wizards Companion_ have now been integrated into the rulings. They are denoted as annotations and retain their original numbering as given in the Companion. Note that Annotations 11 and 24 have been modified from what is printed in the _Companion_.
 
@@ -124,7 +124,7 @@ The automatic-attack is not a hazard.
 
 You must face the automatic-attack on the turn you attempt to play any resource during the site phase (or enact any resource effect), even if you faced that attack on a previous turn.
 
--=- Automatic-attacks added to a site are faced after the normal automatic-attacks for the site. Multiple automatic-attacks are faced in the order listed and resolved.
+–=– Automatic-attacks added to a site are faced after the normal automatic-attacks for the site. Multiple automatic-attacks are faced in the order listed and resolved.
 Influence Attempts
 
 It is not possible to influence an item away from a Wizard.
@@ -137,19 +137,19 @@ You may influence a Hobbit if you are not at Bag End.
 
 #### On-Guard Cards
 
--=- An often confusing point is when and if certain hazards can be revealed as on-guard cards. There are two cases when a face down card may be revealed, and, thusly, affect an opponent's company: 1) when the company announces it will face a site's automatic-attacks (before the automatic-attack is itself faced), and 2) when the company plays a card keyed to the site.
+–=– An often confusing point is when and if certain hazards can be revealed as on-guard cards. There are two cases when a face down card may be revealed, and, thusly, affect an opponent's company: 1) when the company announces it will face a site's automatic-attacks (before the automatic-attack is itself faced), and 2) when the company plays a card keyed to the site.
 
--=- For case #1, it is essential to realize that if the site has no automatic-attacks (like all normally occuring Free-holds), you cannot reveal an on-guard card according to this criterium. Additionally, an event that modifies the prowess of a character may not be revealed--only hazards that modify an automatic-attack itself can be. A creature revealed as an on-guard card is not considered an automatic-attack--it is considered a hazard creature attack.
+–=– For case #1, it is essential to realize that if the site has no automatic-attacks (like all normally occuring Free-holds), you cannot reveal an on-guard card according to this criterium. Additionally, an event that modifies the prowess of a character may not be revealed--only hazards that modify an automatic-attack itself can be. A creature revealed as an on-guard card is not considered an automatic-attack--it is considered a hazard creature attack.
 
--=- For case #2, specifically, you may reveal an on-guard card in the same chain of effects in response to the play (declaration thereof) of any item, faction, ally, or other card that potentially taps the site. Successfully testing for and playing a ring special item does not count! You may reveal an on-guard card in response to the declaration of an influence attempt on a faction that only has an effect if the attempt would be successful (e.g., Lure of Power). Also, in the case of a faction, you may reveal an on-guard card that affects the actual influence attempt.
+–=– For case #2, specifically, you may reveal an on-guard card in the same chain of effects in response to the play (declaration thereof) of any item, faction, ally, or other card that potentially taps the site. Successfully testing for and playing a ring special item does not count! You may reveal an on-guard card in response to the declaration of an influence attempt on a faction that only has an effect if the attempt would be successful (e.g., Lure of Power). Also, in the case of a faction, you may reveal an on-guard card that affects the actual influence attempt.
 
--=- Additionally, the on-guard card may only be revealed if it affects the company or a character in the company that site phase--this clarification is actually looser than the rule printed on page page 61 of the METW Unlimited Rulesbook. This rule did state the on-guard card may only be revealed if it directly affected the company. Only declared or on-going cards and effects can be considered when determining the validy of revealing an on-guard card--cards in your hand, your opponent's hand, play deck, discard pile, etc. cannot be considered and potential effects that have not been triggered cannot be considered. An on-guard card may not be revealed if it has an effect that is meaningless during a company's site phase.
+–=– Additionally, the on-guard card may only be revealed if it affects the company or a character in the company that site phase--this clarification is actually looser than the rule printed on page page 61 of the METW Unlimited Rulesbook. This rule did state the on-guard card may only be revealed if it directly affected the company. Only declared or on-going cards and effects can be considered when determining the validy of revealing an on-guard card--cards in your hand, your opponent's hand, play deck, discard pile, etc. cannot be considered and potential effects that have not been triggered cannot be considered. An on-guard card may not be revealed if it has an effect that is meaningless during a company's site phase.
 
--=- As an example of how this requirement is looser now, Balance of Things may be revealed as an on-guard card so long as at least one character in the company, during whose site phase Balance of Things is revealed, carries at least one corruption source.
+–=– As an example of how this requirement is looser now, Balance of Things may be revealed as an on-guard card so long as at least one character in the company, during whose site phase Balance of Things is revealed, carries at least one corruption source.
 
--=- Balrog of Moria could be revealed when a company chooses to face the automatic-attacks at Moria (Balrog modifies Moria's automatic-attacks). However, it could not be revealed in response to the play of an item at Moria because Balrog in no way can affect the company for the rest of the site phase (unless for some reason the company is fated to face the automatic-attacks again).
+–=– Balrog of Moria could be revealed when a company chooses to face the automatic-attacks at Moria (Balrog modifies Moria's automatic-attacks). However, it could not be revealed in response to the play of an item at Moria because Balrog in no way can affect the company for the rest of the site phase (unless for some reason the company is fated to face the automatic-attacks again).
 
--=- A corruption card can be revealed as an on-guard card (so long as it otherwise is legal)--because a character in the company is affected. A card that changes the company's site type cannot be revealed unless this has some obvious effect on the company that site phase.
+–=– A corruption card can be revealed as an on-guard card (so long as it otherwise is legal)--because a character in the company is affected. A card that changes the company's site type cannot be revealed unless this has some obvious effect on the company that site phase.
 
  1. A card cannot be revealed that returns a company to its site of origin.
  2. A card cannot be revealed that taps a company's site.
@@ -159,11 +159,11 @@ You may influence a Hobbit if you are not at Bag End.
  6. Traitor cannot be revealed.
  7. Troll-purse (from Middle-earth: Dark Minions) can be revealed.
  
--=- The spirit of the on-guard card is to represent a hazard threat that existed during a company's movement/hazard phase, but of which the company was not aware. The actual rule that portrays this spirit is: an on-guard may only be revealed if it could have also been played during the movement/hazard phase--this is a slight modification from the rule printed on page page 61 of the METW Unlimited Rulesbook. Practically, this means all targets of the card must have existed during the movement/hazard phase in order for the card to be revealed.
+–=– The spirit of the on-guard card is to represent a hazard threat that existed during a company's movement/hazard phase, but of which the company was not aware. The actual rule that portrays this spirit is: an on-guard may only be revealed if it could have also been played during the movement/hazard phase--this is a slight modification from the rule printed on page page 61 of the METW Unlimited Rulesbook. Practically, this means all targets of the card must have existed during the movement/hazard phase in order for the card to be revealed.
 
--=- IMPORTANT: A revealed on-guard card retroactively takes effect as though it were both declared and resolved immediately prior to the chain of effects during which it was revealed. For example, if a Greed is played in reponse to the play of an item, it is considered to be in effect immediately prior to the play of item. Thus, Greed would cause corruption checks following the play of the item.
+–=– IMPORTANT: A revealed on-guard card retroactively takes effect as though it were both declared and resolved immediately prior to the chain of effects during which it was revealed. For example, if a Greed is played in reponse to the play of an item, it is considered to be in effect immediately prior to the play of item. Thus, Greed would cause corruption checks following the play of the item.
 
--=- As a final, encompassing example, Muster Disperses cannot be revealed as an on-guard card for three reasons.
+–=– As a final, encompassing example, Muster Disperses cannot be revealed as an on-guard card for three reasons.
 
  1. Muster Disperses cannot target a faction played during the site phase during which it would be revealed because this target did not exist during the movement/hazard phase.
  2. Muster Disperses cannot target a faction already in play at the start of the site phase because it would not affect a company or a character in the company.
@@ -175,13 +175,13 @@ Creatures cannot be revealed on-guard at a site with no automatic-attack. They c
 
 You may play two on-guard hazards on the same site if two companies are moving to the same site.
 
--=- The on-guard card is not considered to be in any player's hand.
+–=– The on-guard card is not considered to be in any player's hand.
 
 #### Playing Allies
 
 You do not need to spend influence (direct or general) to control an ally.
 
--=- Allies cannot be passed from one player to another.
+–=– Allies cannot be passed from one player to another.
 
 #### Playing Factions
 
@@ -213,27 +213,27 @@ Resources may be played during the Free Council.
 
 #### Actions/Active and Passive Conditions
 
--=- An active condition must be in play or established when the action requiring it is declared. Typical active conditions are tapping a card and discarding a card. For example, Magic Ring of Stealth can cancel a strike against its bearer if two particular active conditions are met: The bearer must be a scout and Magic Ring of Stealth must tap. These are called active conditions because a player actively decides to invoke the action they satisfy. Active conditions serve as the price of an action. They are restrictions to the player invoking the action. In the case of Magic Ring of Stealth, the player cancelling the strike must have provided a scout and he must tap the ring, which renders the ring unable to be used again until his next turn.
+–=– An active condition must be in play or established when the action requiring it is declared. Typical active conditions are tapping a card and discarding a card. For example, Magic Ring of Stealth can cancel a strike against its bearer if two particular active conditions are met: The bearer must be a scout and Magic Ring of Stealth must tap. These are called active conditions because a player actively decides to invoke the action they satisfy. Active conditions serve as the price of an action. They are restrictions to the player invoking the action. In the case of Magic Ring of Stealth, the player cancelling the strike must have provided a scout and he must tap the ring, which renders the ring unable to be used again until his next turn.
 
--=- Annotation 5: If an action requires an entitiy to tap as a condition for the action's main effect, that entity must be untapped when the action is declared; else, the action may not be declared. Tap the entity at this point; this is considered synonymous with the action's declarartion, i.e., it is not a seperate action. When it comes time to resolve the action in its chain of effects, that entity must still be in play and tapped or the action is cancelled.
+–=– Annotation 5: If an action requires an entitiy to tap as a condition for the action's main effect, that entity must be untapped when the action is declared; else, the action may not be declared. Tap the entity at this point; this is considered synonymous with the action's declarartion, i.e., it is not a seperate action. When it comes time to resolve the action in its chain of effects, that entity must still be in play and tapped or the action is cancelled.
 
--=- Annotation 6: If an action requires an entity to be discarded as a condition for the action's main effect, that entity must be discarded when the action is declared; this is considered synonymous with the action's declaration, i.e., it is not a seperate action.
+–=– Annotation 6: If an action requires an entity to be discarded as a condition for the action's main effect, that entity must be discarded when the action is declared; this is considered synonymous with the action's declaration, i.e., it is not a seperate action.
 
--=- Annotation 7: If any other active condition for an action does not exist when the action is resolved, the action has no effect; if the action were playing a card from your hand, it is discarded.
+–=– Annotation 7: If any other active condition for an action does not exist when the action is resolved, the action has no effect; if the action were playing a card from your hand, it is discarded.
 
--=- Annotation 8: An action that requires a target is considered to have the active condition that the target be in play when the action is declared and when it is resolved. An action may not be declared if its target is not in play. However, dice-rolling actions may always be targeted by other actions declared later in the same chain of effects.
+–=– Annotation 8: An action that requires a target is considered to have the active condition that the target be in play when the action is declared and when it is resolved. An action may not be declared if its target is not in play. However, dice-rolling actions may always be targeted by other actions declared later in the same chain of effects.
 
--=- A passive condition causes an action to happen as stated on a card already in play. Typical passive conditions involve forcing corruption checks and forcing the effects of environmental long-events. These are called passive conditions because the actions they satisfy come into play only indirectly as the result of a decision made by a player.
+–=– A passive condition causes an action to happen as stated on a card already in play. Typical passive conditions involve forcing corruption checks and forcing the effects of environmental long-events. These are called passive conditions because the actions they satisfy come into play only indirectly as the result of a decision made by a player.
 
--=- Annotation 9: If a card specifies that an action is to occur as a result of some specific passive condition, this action becomes automatically the first action declared in the chain of effects to immediately follow the chain of effects producing the passive condition. The passive condition must exist when this resulting action is resolved in its own chain of effects, or the action is cancelled. Note that actions in the strike sequence follow a different set of rules.
+–=– Annotation 9: If a card specifies that an action is to occur as a result of some specific passive condition, this action becomes automatically the first action declared in the chain of effects to immediately follow the chain of effects producing the passive condition. The passive condition must exist when this resulting action is resolved in its own chain of effects, or the action is cancelled. Note that actions in the strike sequence follow a different set of rules.
 
--=- Annotation 10: If more than one action is required to be the first action declared in a chain of effects, the player whose turn it is chooses the order in which they are declared. No other actions may be declared in this follow-up chain until the multiple required actions have been declared.
+–=– Annotation 10: If more than one action is required to be the first action declared in a chain of effects, the player whose turn it is chooses the order in which they are declared. No other actions may be declared in this follow-up chain until the multiple required actions have been declared.
 
 #### Ahunt Manifestations
 
--=- If one Ahunt is out and you move through four of the regions listed on it, then you face the attack once.
+–=– If one Ahunt is out and you move through four of the regions listed on it, then you face the attack once.
 
--=- If four Ahunts are out an you move through one region listed on all four, then you face each of the four attacks once.
+–=– If four Ahunts are out an you move through one region listed on all four, then you face each of the four attacks once.
 
 #### Ally
 
@@ -251,17 +251,17 @@ Allies never make corruption checks.
 
 Cancelling an attack will not defeat it. The company will not have to face the attack, but neither will they get marshalling points for it.
 
--=- In order to cancel an attack or to directly affect an attack, the character doing so must be in the company facing the attack. Note that the region/site type a hazard creature is keyed to (when declared) can be affected otherwise.
+–=– In order to cancel an attack or to directly affect an attack, the character doing so must be in the company facing the attack. Note that the region/site type a hazard creature is keyed to (when declared) can be affected otherwise.
 
--=- Annotation 12: An attack is considered to be resolved and concluded when the final strike, all special actions resulting from the final strike, and the associated body check are resolved.
+–=– Annotation 12: An attack is considered to be resolved and concluded when the final strike, all special actions resulting from the final strike, and the associated body check are resolved.
 
--=- Annotation 13: An attack may not be cancelled once its strikes have been assigned. A strike may not be cancelled once the dice-roll for the strike has been made.
+–=– Annotation 13: An attack may not be cancelled once its strikes have been assigned. A strike may not be cancelled once the dice-roll for the strike has been made.
 
--=- Annotation 14: A cancelled attack has no effect on its target company, except that the company is considered in its history to have faced the attack.
+–=– Annotation 14: A cancelled attack has no effect on its target company, except that the company is considered in its history to have faced the attack.
 
--=- Annotation 15: An attack must be the first declared action in a chain of effects, i.e., a creatue card may not be played in response to another card in the same chain of effects. Revealing an on-guard creature is an exception.
+–=– Annotation 15: An attack must be the first declared action in a chain of effects, i.e., a creatue card may not be played in response to another card in the same chain of effects. Revealing an on-guard creature is an exception.
 
--=- Annotation 16: When a wounded character becomes unwounded, he is considered in his history to have been wounded and must face any special actions the wounding strike presented him.
+–=– Annotation 16: When a wounded character becomes unwounded, he is considered in his history to have been wounded and must face any special actions the wounding strike presented him.
 
 #### Cannot be Duplicated
 
@@ -269,7 +269,7 @@ Short-events that cannot be duplicated cannot be played if a card of the same na
 
 A long- or permanent-events that cannot be duplicated can be played when a copy is already in play only if the copy in play is currently being targetted by an effect that will discard it.
 
--=- Annotation 11 (modified from its original version):Some cards cannot be duplicated in limited cases--generally on a specific target. Multiple copies of these cards or their effects may be in play normally, so long as each applies to a different target. A card that cannot be duplicated can be played when a copy is already in play only if the copy in play is currently being targetted by an effect that will discard it.
+–=– Annotation 11 (modified from its original version):Some cards cannot be duplicated in limited cases--generally on a specific target. Multiple copies of these cards or their effects may be in play normally, so long as each applies to a different target. A card that cannot be duplicated can be played when a copy is already in play only if the copy in play is currently being targetted by an effect that will discard it.
 
 #### Character
 
@@ -277,15 +277,15 @@ You may continue to play after you have lost all of your characters.
 
 A character enacting an effect counts as a character in his/her company.
 
--=- A character in play must always be in one of three independent states: untapped, tapped, or wounded.
+–=– A character in play must always be in one of three independent states: untapped, tapped, or wounded.
 
 #### Company
 
--=- If a company splits up, their player chooses which characters are the original company and which characters are a new company (unless otherwise directed by a card). All resource permanent-events played on the original company stay with the original company. This rule will mostly come into play with the release of Middle-earth: Dark Minions.
+–=– If a company splits up, their player chooses which characters are the original company and which characters are a new company (unless otherwise directed by a card). All resource permanent-events played on the original company stay with the original company. This rule will mostly come into play with the release of Middle-earth: Dark Minions.
 
--=- If all characters in a company are removed from the company (i.e., all characters have been explictly removed from the original company), all resource permanent-events played on the company as a whole are discarded. This rule will mostly come into play with the release of Middle-earth: Dark Minions.
+–=– If all characters in a company are removed from the company (i.e., all characters have been explictly removed from the original company), all resource permanent-events played on the company as a whole are discarded. This rule will mostly come into play with the release of Middle-earth: Dark Minions.
 
--=- Annotation 25: A company is considered to be at the site given by its site card at all times except from the moment their new site card is revealed during their movement/hazard phase until their old site card is discarded during the same movement/hazard phase. During this period a company is considered to be en route between sites and not at any site.
+–=– Annotation 25: A company is considered to be at the site given by its site card at all times except from the moment their new site card is revealed during their movement/hazard phase until their old site card is discarded during the same movement/hazard phase. During this period a company is considered to be en route between sites and not at any site.
 
 #### Corruption
 
@@ -295,7 +295,7 @@ A character may attempt to remove a corruption card without tapping (ignoring th
 
 #### Corruption Checks
 
--=- Annotation 23: When a character fails a corruption check, the standard effects of this (i.e., the character being discarded or eliminated and his items being discarded) are implemented immediately and are considered synonymous with the failed check. A card causing the corruption check may modify the standard effects of a failed check (e.g. The Precious), but this timing would not be changed. Certain cards, e.g., Traitor, which do not cause a corruption check, but specify an action that results from the passive condition of a failed check, take effect as the first declared action in a chain of effects immediately following the chain of effects that contains the corruption check.
+–=– Annotation 23: When a character fails a corruption check, the standard effects of this (i.e., the character being discarded or eliminated and his items being discarded) are implemented immediately and are considered synonymous with the failed check. A card causing the corruption check may modify the standard effects of a failed check (e.g. The Precious), but this timing would not be changed. Certain cards, e.g., Traitor, which do not cause a corruption check, but specify an action that results from the passive condition of a failed check, take effect as the first declared action in a chain of effects immediately following the chain of effects that contains the corruption check.
 
 #### Discard
 
@@ -311,7 +311,7 @@ An eliminated character may not be played by any player for the rest of the game
 
 #### Environment Cards
 
--=- Once the effects of an environment card have been applied again during a given movement/hazard phase, that effect is not applied again during the current turn. If several environment cards are in effect at the beginning of a movement/hazard phase, the non-phasing player chooses the order in which the effects of those cards are applied. This choice is made after the moving player has revealed the first movement declaration where the order of application would be a consideration.
+–=– Once the effects of an environment card have been applied again during a given movement/hazard phase, that effect is not applied again during the current turn. If several environment cards are in effect at the beginning of a movement/hazard phase, the non-phasing player chooses the order in which the effects of those cards are applied. This choice is made after the moving player has revealed the first movement declaration where the order of application would be a consideration.
 
 #### Gold Ring Item
 
@@ -323,7 +323,7 @@ Havens can tap, but Havens are always returned to the location deck and not the 
 
 #### Hobbits
 
--=- Hobbit characters may only be brought into play at havens if it is the start of the game and they are your starting characters. If a Hobbit is a starting character and leaves play, then it may only be normally brought back into play at Bag End.
+–=– Hobbit characters may only be brought into play at havens if it is the start of the game and they are your starting characters. If a Hobbit is a starting character and leaves play, then it may only be normally brought back into play at Bag End.
 
 #### Sideboard
 
@@ -333,7 +333,7 @@ You can access hazards from your sideboard when your opponent's Wizard is in pla
 
 #### Site
 
--=- To untap a site the character doing so must be at that site.
+–=– To untap a site the character doing so must be at that site.
 
 #### Site Path
 
@@ -352,19 +352,19 @@ A strike is only defeated if the body of the strike is defeated.
 
 #### The Strike Sequence
 
--=- The strike sequence is a period of time that begins when a player announces one of his characters will resolve a strike and ends after the strike dice-roll (or strike cancellation) and any body checks resulting from that strike.
+–=– The strike sequence is a period of time that begins when a player announces one of his characters will resolve a strike and ends after the strike dice-roll (or strike cancellation) and any body checks resulting from that strike.
 
--=- Annotation 17: The only actions that may be declared during a strike sequence are those outlined in Annotation 18.
+–=– Annotation 17: The only actions that may be declared during a strike sequence are those outlined in Annotation 18.
 
--=- Annotation 18: When a defending player chooses to resolve a strike against a particular character, the only actions that may be taken by either player until the strike dice-roll is made are the following: play hazard cards that affect the strike, the attacker may decide to use any or all of his remaining -1 modifications due to strikes in excess of the company's size, a target untapped character may take a -3 modification so that he will not automatically tap, and the defending character may play resource cards that affect the strike. An action that has the condition that a target character tap, but which otherwise has an effect not outlined here, may not be declared at this point. This is true even if the recipient of the strike would be the target character tapping and thus recieve -1 to his prowess.
+–=– Annotation 18: When a defending player chooses to resolve a strike against a particular character, the only actions that may be taken by either player until the strike dice-roll is made are the following: play hazard cards that affect the strike, the attacker may decide to use any or all of his remaining -1 modifications due to strikes in excess of the company's size, a target untapped character may take a -3 modification so that he will not automatically tap, and the defending character may play resource cards that affect the strike. An action that has the condition that a target character tap, but which otherwise has an effect not outlined here, may not be declared at this point. This is true even if the recipient of the strike would be the target character tapping and thus recieve -1 to his prowess.
 
--=- Annotation 19: Following each successful strike or failed strike, a body check must be rolled (unless the failed strike has no body). However, if the strike calls for any special actions to follow it (e.g., a character wounded by "William" may be required to discard his items), these special actions are resolved before the body check. The body check is the first declared action in a nested chain of effects that immediately follows the strike dice-roll and special actions resulting from the strike. Other actions may be declared in response to a body check, in the same chain of effects, but these are limited to those actions that directly affect the body check dice-roll. E.g., Tookish Blood could not be declared in response to the body check caused by Giant Spiders wounding a Hobbit. No action may be declared in response to a special action resulting from a strike unless the special action is a dice-rolling action, i.e., a special action is generally considered synonymous with the strike dice-roll. If the special action is a dice-rolling action, an action may be declared in response to it if the action directly affects the dice-roll.
+–=– Annotation 19: Following each successful strike or failed strike, a body check must be rolled (unless the failed strike has no body). However, if the strike calls for any special actions to follow it (e.g., a character wounded by "William" may be required to discard his items), these special actions are resolved before the body check. The body check is the first declared action in a nested chain of effects that immediately follows the strike dice-roll and special actions resulting from the strike. Other actions may be declared in response to a body check, in the same chain of effects, but these are limited to those actions that directly affect the body check dice-roll. E.g., Tookish Blood could not be declared in response to the body check caused by Giant Spiders wounding a Hobbit. No action may be declared in response to a special action resulting from a strike unless the special action is a dice-rolling action, i.e., a special action is generally considered synonymous with the strike dice-roll. If the special action is a dice-rolling action, an action may be declared in response to it if the action directly affects the dice-roll.
 
--=- Annotation 20: If more than one special action is to follow a strike, the defending player decides the order they are resolved.
+–=– Annotation 20: If more than one special action is to follow a strike, the defending player decides the order they are resolved.
 
--=- Annotation 21: A successful strike against a character is synonymous with that character being wounded, i.e., inverting a character card on the playing surface is not a seperate action from the successful strike.
+–=– Annotation 21: A successful strike against a character is synonymous with that character being wounded, i.e., inverting a character card on the playing surface is not a seperate action from the successful strike.
 
--=- Annotation 22: When a character fails a body check, his items may be immediately reassigned to unwounded character in his company. Reassigning of the eliminate character's items is considered to be synonymous with his failed body check, i.e., no action may take place between the failed check and reassigning the items. Unassigned items are discarded.
+–=– Annotation 22: When a character fails a body check, his items may be immediately reassigned to unwounded character in his company. Reassigning of the eliminate character's items is considered to be synonymous with his failed body check, i.e., no action may take place between the failed check and reassigning the items. Unassigned items are discarded.
 
 #### Tap
 
@@ -374,15 +374,15 @@ A spell only taps a Wizard if the spell card says it does.
 
 #### Targets
 
--=- An action that is played out thrugh one or more specific entities as stated on a card or in the rules is considered to "target" the entities. A targeted entity is said to be a "target" of the action. Possible targets include characters, sites, companies, regions, items, factions, corruption checks, and combat dice rolls. A card that acts on a class of entities, however, does not target them (e.g., Foul Fumes).
+–=– An action that is played out thrugh one or more specific entities as stated on a card or in the rules is considered to "target" the entities. A targeted entity is said to be a "target" of the action. Possible targets include characters, sites, companies, regions, items, factions, corruption checks, and combat dice rolls. A card that acts on a class of entities, however, does not target them (e.g., Foul Fumes).
 
--=- Annotation 1: A card is not in play until it is resolved in its chain of effects. When the play of a card is declared, no elements of the card may be the target of actions declared in the same chain of effects. An exception to this is a dice-rolling action, e.g. a corruption check.
+–=– Annotation 1: A card is not in play until it is resolved in its chain of effects. When the play of a card is declared, no elements of the card may be the target of actions declared in the same chain of effects. An exception to this is a dice-rolling action, e.g. a corruption check.
 
--=- Annotation 2: A corruption check or any dice-rolling action can be targeted in the chain of effects during which it was declared.
+–=– Annotation 2: A corruption check or any dice-rolling action can be targeted in the chain of effects during which it was declared.
 
--=- Annotation 3: Long-events and certain other cards do not have targets because they are not played out through one specific entity, i.e., they generally affect an entire class of things.
+–=– Annotation 3: Long-events and certain other cards do not have targets because they are not played out through one specific entity, i.e., they generally affect an entire class of things.
 
--=- Annotation 4: An action may not target a face-down card nor any element of a face down card. Face down cards include unrevealed new site cards and on-guard cards.
+–=– Annotation 4: An action may not target a face-down card nor any element of a face down card. Face down cards include unrevealed new site cards and on-guard cards.
 
 #### Wizard
 
@@ -394,19 +394,19 @@ The validity of an effect is checked upon declaration and upon resolution.
 The effects of a card happen in the order listed on the card.
 If a card has an alternate use the player playing the card chooses the use at declaration.
 
--=- Annotation 24: If a card specifices that more than one action occur when the card itself is resolved in a chain of effects, all of these actions are to be resolved in the card's chain of effects uninterrupted and in the order listed on the card. No actions may be declared to occur between these multiple actions. The actions listed on the card are considered to have been declared in the reverse order as they are printed.
+–=– Annotation 24: If a card specifices that more than one action occur when the card itself is resolved in a chain of effects, all of these actions are to be resolved in the card's chain of effects uninterrupted and in the order listed on the card. No actions may be declared to occur between these multiple actions. The actions listed on the card are considered to have been declared in the reverse order as they are printed.
 
--=- (amendment to original version of Annotation 24): As an exception, if one of the effects of a card is an attack, cards may be played that cancel the attack, cancel one of its strikes, or that otherwise are playable during the strike sequence--see Annotation 18.
+–=– (amendment to original version of Annotation 24): As an exception, if one of the effects of a card is an attack, cards may be played that cancel the attack, cancel one of its strikes, or that otherwise are playable during the strike sequence--see Annotation 18.
 
 ## IV. Miscellaneous Rulings
 
 #### General Play
 
--=- Annotation 26: If at the start of a movement/hazard phase there are multiple effects in play such that their net effect depends on the order they are applied, the player who is currently not taking his turn decides the order in which they are to be applied. Once this interpretation is established, all further actions are applied in the order they are resolved for the rest of the turn.
+–=– Annotation 26: If at the start of a movement/hazard phase there are multiple effects in play such that their net effect depends on the order they are applied, the player who is currently not taking his turn decides the order in which they are to be applied. Once this interpretation is established, all further actions are applied in the order they are resolved for the rest of the turn.
 
--=- Once the effects of an environment card have been applied again during a given movement/hazard phase, that effect is not applied again during the current turn. If several environment cards are in effect at the beginning of a movement/hazard phase, the non-phasing player chooses the order in which the effects of those cards are applied. This choice is made after the moving player has revealed the first movement declaration where the order of application would be a consideration.
+–=– Once the effects of an environment card have been applied again during a given movement/hazard phase, that effect is not applied again during the current turn. If several environment cards are in effect at the beginning of a movement/hazard phase, the non-phasing player chooses the order in which the effects of those cards are applied. This choice is made after the moving player has revealed the first movement declaration where the order of application would be a consideration.
 
--=- Annotation 27: If a card has optional effects, the player playing the card must choose which will take place. He must do this at the time the card is played, not when it is resolved in its chain of effects. When such a card is resolved, if any active conditions for the choice of effects do not exist, the card has no effect and is discarded. The player may not at this point choose to implement an alternative effect of the card.
+–=– Annotation 27: If a card has optional effects, the player playing the card must choose which will take place. He must do this at the time the card is played, not when it is resolved in its chain of effects. When such a card is resolved, if any active conditions for the choice of effects do not exist, the card has no effect and is discarded. The player may not at this point choose to implement an alternative effect of the card.
 
 #### Optional Rules
 
@@ -438,18 +438,18 @@ Tournament rulings are modifications and additions to the rules presented in the
 
 Dice must be used to obtain random numbers.
 
--=- There is now a required 30 card minimum for both resources and hazards for sanctioned tournament play.
+–=– There is now a required 30 card minimum for both resources and hazards for sanctioned tournament play.
 
--=- Cards that can be played as either hazards or resources (can we say Twilight boys and girls?) may count as either.
+–=– Cards that can be played as either hazards or resources (can we say Twilight boys and girls?) may count as either.
 
--=- Up to 3 copies of one Wizard is allowed in a play deck, or up to 2 copies of one Wizard and 1 copy of another Wizard. One copy of three different Wizards is not allowed.
+–=– Up to 3 copies of one Wizard is allowed in a play deck, or up to 2 copies of one Wizard and 1 copy of another Wizard. One copy of three different Wizards is not allowed.
 
 #### Deck Construction
 
--=- There is a Council of Lórien creature minimum of 12 creatures. Each deck must contain at least 12 creatures.
+–=– There is a Council of Lórien creature minimum of 12 creatures. Each deck must contain at least 12 creatures.
 
 A hazard that can be played as a creature or an event counts as 1/2 a creature.
--=- At Home and Ahunt Dragon manifestations count as 1/2 a creature for the Council of Lórien creature minimum.
+–=– At Home and Ahunt Dragon manifestations count as 1/2 a creature for the Council of Lórien creature minimum.
 
 #### The Character Draft
 
@@ -464,7 +464,7 @@ No player may reveal a character that would bring his starting company's total m
 When players are finished, each may put up to 10 characters into their deck, including character from his starting pool that did not end up in the starting company.
 Map Movement
 
--=- Maps of the regions of METW may be used in place of region cards in Council of Lorien tournaments. If two companies move on the same turn, then the second company does not have to determine it's site path until the begining of it's movement/hazard phase.
+–=– Maps of the regions of METW may be used in place of region cards in Council of Lorien tournaments. If two companies move on the same turn, then the second company does not have to determine it's site path until the begining of it's movement/hazard phase.
 
 #### The Weakest Link Method
 
@@ -490,7 +490,7 @@ Alatar stays with a company if he uses his special ability to aid that company.
 
 Alatar can force someone to draw 0 cards when he moves.
 
--=- Alatar can interfere with the attacker assigning strike. When he uses his special ability he must face a strike.
+–=– Alatar can interfere with the attacker assigning strike. When he uses his special ability he must face a strike.
 
 #### Align Palantir
 
@@ -504,13 +504,13 @@ Has errata: Add "May not be influenced by an opponent."
 
 #### Assassin
 
--=- All of the strikes will go against the same character.
+–=– All of the strikes will go against the same character.
 
 ### -B-
 
 #### Balance of Things
 
--=- Balance of Things may be revealed as an on-guard card so long as at least one character in the company during whose site phase Balance of Things is revealed carries at least one corruption source.
+–=– Balance of Things may be revealed as an on-guard card so long as at least one character in the company during whose site phase Balance of Things is revealed carries at least one corruption source.
 
 #### Balrog of Moria
 
@@ -544,11 +544,11 @@ Has errata: Add "May also be played at any sites in Elven Shores, Eriadoran Coas
 
 Has errata: Remove "Otherwise, discard the One Ring."
 
--=- The character who makes the corruption check must be bearing The One Ring at the time, or else Cracks of Doom has no effect.
+–=– The character who makes the corruption check must be bearing The One Ring at the time, or else Cracks of Doom has no effect.
 
 #### Cruel Caradhras
 
--=- Errata: Replace "Minas Morgul" with "Imlad Morgul."
+–=– Errata: Replace "Minas Morgul" with "Imlad Morgul."
 
 ### -D-
 
@@ -567,7 +567,7 @@ Playing Dragon's Desolation to make a Dragon playable at a Ruins & Lairs does no
 
 #### Dragon's Hunger
 
--=- Errata: Replace "Otherwise, the attack is cancelled." with "Otherwise, the attack is cancelled and the opponent must reveal his hand." \[effective 10/24/96]
+–=– Errata: Replace "Otherwise, the attack is cancelled." with "Otherwise, the attack is cancelled and the opponent must reveal his hand." \[effective 10/24/96]
 
 #### Dreams of Lore
 
@@ -675,7 +675,7 @@ Has errata: Replace "opponent draws twice" with "opponent draws up to twice"
 
 #### Great Ship
 
--=- Errata: Add "Tap a character in target company during the organization phase to play Great Ship on that company." Replace "...contains a coastal sea region..." with "...contains a coastal sea region and no consecutive non-coastal sea regions..."
+–=– Errata: Add "Tap a character in target company during the organization phase to play Great Ship on that company." Replace "...contains a coastal sea region..." with "...contains a coastal sea region and no consecutive non-coastal sea regions..."
 
 Allows the cancelling of one creature or the cancelling and discarding of an event that targets the company in question or an entity associated with that company.
 
@@ -698,7 +698,7 @@ Cannot stop a body check.
 The ally does not have to be chosen or played until after the dice are rolled.
 Hoarmurath of Dir
 
--=- Can affect an automatic-attack.
+–=– Can affect an automatic-attack.
 
 #### Horses
 
@@ -746,7 +746,7 @@ Affects all sites in play that with two Wilderness in their site path.
 
 #### Lucky Search
 
--=- Has errata: Replace "Discard all revealed cards except the item." with "Reshuffle all revealed cards except the item back into the play deck." Add at the end of the first paragraph "Discard item if the scout is wounded by this attack." \[addition effective 10/24/96]
+–=– Has errata: Replace "Discard all revealed cards except the item." with "Reshuffle all revealed cards except the item back into the play deck." Add at the end of the first paragraph "Discard item if the scout is wounded by this attack." \[addition effective 10/24/96]
 
 May be played at a tapped site.
 
@@ -778,7 +778,7 @@ Can be used at the Council of Lorien.
 
 #### Many Foes He Fought
 
--=- The penalty is -0/-0 for the first strike, -1/-1 for the second, -2/-2 for the third, and so on.
+–=– The penalty is -0/-0 for the first strike, -1/-1 for the second, -2/-2 for the third, and so on.
 
 #### Many Sorrows Befall
 
@@ -790,7 +790,7 @@ Cannot be played on a card that has not yet resolved.
 
 Master of Water, Wood & Hill
 
--=- The sage does not have to be in a moving company whose site path is affected.
+–=– The sage does not have to be in a moving company whose site path is affected.
 
 #### Mirror of Galadriel
 
@@ -802,7 +802,7 @@ Has errata: Should read "This card is used as a Dark-hold site card in the regio
 
 #### More Sense than You
 
--=- If there is only on character in the company, this will cancel the attack.
+–=– If there is only on character in the company, this will cancel the attack.
 
 #### Morgul-horse
 
@@ -826,7 +826,7 @@ Facing the attack is not required if using the "otherwise..." section.
 
 Hazard creatures kayable to Mount Doom can be played regardless of any resources prohibitting their play. Creatures that can be played at Mount Doom by description can always be played at Mount Doom regardless of resources in play (like Stealth, Hiding, etc.).
 
--=- If the site type of Mount Doom changes, creatures may be keyed to the new site type, but not to the old site type.
+–=– If the site type of Mount Doom changes, creatures may be keyed to the new site type, but not to the old site type.
 
 #### Mouth of Sauron
 
@@ -838,7 +838,7 @@ Can be played when influencing an opponent's faction.
 
 #### Muster Disperses
 
--=- Muster Disperses cannot be revealed as on-guard card.
+–=– Muster Disperses cannot be revealed as on-guard card.
 
 ### -N-
 
@@ -919,7 +919,7 @@ Has errata: Replace "is reduced to half its original prowess (rounded up)." with
 
 #### Reforging
 
--=- You may only bring back minor and major weapons, minor and major armor, or minor and major shields with Reforging. You can use it on hoard items.
+–=– You may only bring back minor and major weapons, minor and major armor, or minor and major shields with Reforging. You can use it on hoard items.
 
 #### Ren the Unclean
 
@@ -927,7 +927,7 @@ If you tap Ren, then you cannot play resources to aid your character's corruptio
 
 #### Rescue Prisoners
 
--=- Has errata: This cards gives 2 marshalling points, not 3. Add "You recieve the marshalling points for this card only when it is stored. \[effective 10/24/96]
+–=– Has errata: This cards gives 2 marshalling points, not 3. Add "You recieve the marshalling points for this card only when it is stored. \[effective 10/24/96]
 
 #### Rhosgobel
 
@@ -941,7 +941,7 @@ Has errata: Add "Playable only during the site phase. Tap the sage and the site.
 
 Has errata: Should read "Playable on a site. If a company that has moved to this site this turn does not tap a ranger, it must do nothing during its site phase."
 
--=- Cannot be revealed on-guard.
+–=– Cannot be revealed on-guard.
 
 #### Roac the Raven
 
@@ -1004,7 +1004,7 @@ The target of Slayer can tap to cancel an attack.
 
 Only one attack can be cancelled by tapping a character.
 
--=- All of the strikes will go against the same character.
+–=– All of the strikes will go against the same character.
 
 #### Sun
 
@@ -1018,11 +1018,11 @@ Gets a total of +4 direct influence against the Blue Mountain Dwarves.
 
 #### Thorough Search
 
--=- Has errata: Replace "...to play any item normally found at its current site." with "...to play a minor or major item normally found at its current site."
+–=– Has errata: Replace "...to play any item normally found at its current site." with "...to play a minor or major item normally found at its current site."
 
 #### Tolfalas
 
--=- Has errata: Playable: Items (minor, major, greater*) *Scroll of Isildur only.
+–=– Has errata: Playable: Items (minor, major, greater*) *Scroll of Isildur only.
 
 #### Tom Bombadil
 
@@ -1041,7 +1041,7 @@ Has errata: Replace the last paragraph with "This card is discarded when a chara
 
 Two Traitors have no extra effect.
 
--=- Traitor cannot be revealed as an on-guard card.
+–=– Traitor cannot be revealed as an on-guard card.
 
 #### Treebeard
 
@@ -1064,7 +1064,7 @@ Has errata: Change text to "Sage only. Tap sage to enable him to use one Palanti
 
 #### Vilya
 
--=- Has errata: Replace "If your play deck has at least 5 cards in it, you may take 5 resource cards." with "If Elrond is at Rivendell and your play deck has at least 5 cards in it, you may take 3 cards."
+–=– Has errata: Replace "If your play deck has at least 5 cards in it, you may take 5 resource cards." with "If Elrond is at Rivendell and your play deck has at least 5 cards in it, you may take 3 cards."
 
 ### -W-
 
@@ -1076,7 +1076,7 @@ You can only discard a Sapling of the White Tree that you have played.
 
 If you leave a tapped Minas Tirith while this card is in play, Minas Tirith will still be discarded.
 
--=- "Playing hazards" refers to keying creatures to the site, not passive conditions of cards like Lure of the Senses.
+–=– "Playing hazards" refers to keying creatures to the site, not passive conditions of cards like Lure of the Senses.
 
 #### Wizard's Laughter
 
@@ -1085,4 +1085,3 @@ Has errata: Change "Wizard only." to "Wizard only during opponent's site phase."
 #### Wizard's Ring
 
 Has errata: Replace "Ignore any effect that would discard this item" with "Cannot be stored, stolen, or transfered."
-
