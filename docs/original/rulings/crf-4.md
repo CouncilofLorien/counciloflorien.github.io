@@ -216,14 +216,14 @@ Balrog of Moria could be revealed when a company chooses to face the automatic-a
 
 A corruption card can be revealed as an on-guard card (so long as it otherwise is legal)--because a character in the company is affected. A card that changes the company's site type cannot be revealed unless this has some obvious effect on the company that site phase.
 
- 1) A card cannot be revealed that returns a company to its site of origin.
- 2) A card cannot be revealed that taps a company's site.
- 3) A card cannot be revealed that potentially removes a character from a company.
- 4) A card cannot be revealed that forces a company to do nothing during its site phase.
- 5) A card that potentially removes an ally from the company can be revealed (so long as it otherwise is legal).
- 6) Traitor cannot be revealed.
- 7) Troll-purse (from _Middle-earth: Dark Minions_) can be revealed.
- 8) –=– A card may not be revealed that taps a character in the company.
+ 1. A card cannot be revealed that returns a company to its site of origin.
+ 2. A card cannot be revealed that taps a company's site.
+ 3. A card cannot be revealed that potentially removes a character from a company.
+ 4. A card cannot be revealed that forces a company to do nothing during its site phase.
+ 5. A card that potentially removes an ally from the company can be revealed (so long as it otherwise is legal).
+ 6. Traitor cannot be revealed.
+ 7. Troll-purse (from _Middle-earth: Dark Minions_) can be revealed.
+ 8. –=– A card may not be revealed that taps a character in the company.
 
 The spirit of the on-guard card is to represent a hazard threat that existed during a company's movement/hazard phase, but of which the company was not aware. The actual rule that portrays this spirit is: an on-guard may only be revealed if it could have also been played during the movement/hazard phase--this is a slight modification from the rule printed on page page 61 of the METW Unlimited Rulesbook. Practically, this means all targets of the card must have existed during the movement/hazard phase in order for the card to be revealed.
 
