@@ -20,13 +20,14 @@ The Annotations from the _Middle-earth: The Wizards Companion_ have now been int
 
 If playing in a tournament, be sure to check the tournament rulings, as some of them differ from the rulings for casual play.
 
-0. TABLE OF CONTENTS
-I. The Turn Sequence
-II. Rulings by Term
-III. Timing Rulings
-IV. Miscellaneous Rulings
-V. Tournament Rulings
-VI. Card Errata and Rulings
+TABLE OF CONTENTS
+
+I. The Turn Sequence  
+II. Rulings by Term  
+III. Timing Rulings  
+IV. Miscellaneous Rulings  
+V. Tournament Rulings  
+VI. Card Errata and Rulings  
 
 ## I. TURN SEQUENCE
 
