@@ -1,12 +1,10 @@
 ---
 layout: default
 title: Original
-nav_order: 5
 has_children: true
 has_toc: true
 nav_exclude: true
 search_exclude: true
-permalink: /original
 ---
 
 {: .text-center }
