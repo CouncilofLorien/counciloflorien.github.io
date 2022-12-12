@@ -2,7 +2,7 @@
 layout: default
 title: The Dragons
 parent: Rulebooks
-grand_parent: Original
+grand_parent: Original Rules
 ---
 
 # MIDDLE-EARTH: THE DRAGONS
