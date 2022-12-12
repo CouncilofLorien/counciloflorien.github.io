@@ -2,11 +2,9 @@
 layout: default
 title: Rulebooks
 parent: Original
-nav_order: 1
 has_toc: true
 has_children: true
 search_exclude: true
-permalink: /original/rulebooks
 ---
 
 {: .text-center }
