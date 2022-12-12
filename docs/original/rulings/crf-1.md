@@ -14,7 +14,7 @@ _Middle-earth: Collectible Card Game_ Collected Official Rulings FileVersion 1 c
 
 The _MECCG_ Collected Official Ruling File has taken the place of the official FAQ.
 
-Around the first of every month (starting in December), this rulings file will be updated. Items marked with a –=– are either new, changed, or certified free of Dragon infestations for the latest update. For this version, items marked with –=– are different from FAQ #7 Revised.
+Around the first of every month (starting in December), this rulings file will be updated. Items marked with a –=– –≡– are either new, changed, or certified free of Dragon infestations for the latest update. For this version, items marked with –=– are different from FAQ #7 Revised.
 
 The Annotations from the _Middle-earth: The Wizards Companion_ have now been integrated into the rulings. They are denoted as annotations and retain their original numbering as given in the Companion. Note that Annotations 11 and 24 have been modified from what is printed in the _Companion_.
 
