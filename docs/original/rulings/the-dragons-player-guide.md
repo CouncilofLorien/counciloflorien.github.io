@@ -2,7 +2,7 @@
 layout: default
 title: The Dragons Player Guide
 parent: Rulings
-grand_parent: Original
+grand_parent: Original Rules
 ---
 
 # MIDDLE-EARTH<br>THE DRAGONS PLAYER GUIDE
