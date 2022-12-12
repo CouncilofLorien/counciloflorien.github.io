@@ -32,7 +32,7 @@ IV. Miscellaneous Rulings
 
 V. Tournament Rulings
 
-## VI. Card Errata and Rulings
+ VI. Card Errata and Rulings
 
 ### I. TURN SEQUENCE
 
