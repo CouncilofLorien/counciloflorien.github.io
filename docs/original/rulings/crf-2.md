@@ -799,7 +799,8 @@ Has errata: Replace "opponent draws twice" with "opponent draws up to twice"
 Errata: Add "Tap a character in target company during the organization phase to play Great Ship on that company." Replace "...contains a coastal sea region..." with "...contains a coastal sea region and no consecutive non-coastal sea regions..."
 
 Allows the cancelling of one creature or the cancelling and discarding of an event that targets the company in question or an entity associated with that company.
-Gwaihir
+
+#### Gwaihir
 
 Has errata: Should read "you may discard Gwaihir during the organization phase to allow his company..."
 
