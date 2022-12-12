@@ -1,11 +1,8 @@
 ---
 layout: default
 title: The Balrog
-parent: Original Rulebooks
-grand_parent: Original Rules
-permalink: /original/rulebooks/the-balrog
-nav_order: 13
-search_exclude: true
+parent: Rulebooks
+grand_parent: Original
 ---
 
 # MIDDLE-EARTH: THE BALROG
