@@ -363,7 +363,8 @@ An eliminated character may not be played by any player for the rest of the game
 #### Environment Cards
 
 Once the effects of an environment card have been applied again during a given movement/hazard phase, that effect is not applied again during the current turn. If several environment cards are in effect at the beginning of a movement/hazard phase, the non-phasing player chooses the order in which the effects of those cards are applied. This choice is made after the moving player has revealed the first movement declaration where the order of application would be a consideration.
-Events targetting sites
+
+#### Events targetting sites
 
 –=– Events that target sites can only target sites in play used to show a company's location or movement. –=–
 
