@@ -4,7 +4,7 @@ title: Official Rulings
 parent: Original Rules
 nav_order: 1
 permalink: /original/rulings
-has_toc: false
+has_toc: true
 has_children: true
 search_exclude: true
 ---
