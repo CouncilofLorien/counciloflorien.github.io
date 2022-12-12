@@ -758,7 +758,7 @@ Must be in the same company as the ring he tests.
 
 Has errata: Add "Giant."
 
-#### #### Goldberry
+#### Goldberry
 
 No player may assign strikes to Goldberry
 
