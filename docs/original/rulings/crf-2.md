@@ -19,7 +19,7 @@ The Annotations from the _Middle-earth: The Wizards Companion_ have now been int
 
 If playing in a tournament, be sure to check the tournament rulings, as some of them differ from the rulings for casual play.
 
-0. TABLE OF CONTENTS
+## TABLE OF CONTENTS
 
 I. The Turn Sequence
 
