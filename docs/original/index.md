@@ -2,7 +2,6 @@
 layout: default
 title: Original Rules
 has_children: true
-has_toc: true
 search_exclude: true
 nav_exclude:true
 ---
