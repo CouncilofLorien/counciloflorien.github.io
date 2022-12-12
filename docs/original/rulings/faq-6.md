@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Frequently Asked Questions #6"
+title: "FAQ #6"
 parent: Rulings
-grand_parent: Original
+grand_parent: Original Rules
 ---
 
 # Middle Earth: The Wizards<br>Frequently Asked Questions File
