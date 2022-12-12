@@ -2,7 +2,7 @@
 layout: default
 title: METW Companion
 parent: Rulebooks
-grand_parent: Original
+grand_parent: Original Rules
 ---
 
 # MIDDLE-EARTH<br>THE WIZARDS COMPANION
