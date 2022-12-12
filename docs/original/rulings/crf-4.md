@@ -14,7 +14,7 @@ _Middle-earth: Collectible Card Game_ Collected Official Rulings File Version 4 
 
 The _MECCG_ Collected Official Ruling File has taken the place of the official FAQ.
 
-Every now and then, this rulings file will be updated. Items marked with a -=- are either new, changed, or certified free of Dragon infestations for the latest update.
+Every now and then, this rulings file will be updated. Items marked with a –=– are either new, changed, or certified free of Dragon infestations for the latest update.
 
 The Annotations from the _Middle-earth: The Wizards Companion_ have now been integrated into the rulings. They are denoted as annotations and retain their original numbering as given in the Companion. Note that Annotations 11 and 24 have been modified from what is printed in the Companion.
 
@@ -74,7 +74,7 @@ Hobbits may only be brought into play at Bag End, not at Havens.
 (errata) This is big, a company can split, and any of the resulting companies can move with region movement. Region movement is no longer limited to one company of a split. This is errata to the rules about a company splitting.
 
 
--=- Any company may declare as its new site a site already on the table. That site will remain on the table at least until the end of that company's movement/hazard phase.
+–=– Any company may declare as its new site a site already on the table. That site will remain on the table at least until the end of that company's movement/hazard phase.
 
 ### C. Long Event Phase
 
@@ -106,7 +106,7 @@ If a creature has a body, each strike is only defeated if the body is defeated f
 
 Prowess modifications from items come first. Then other bonuses are applied in the order the player controlling the character decides. Even a bonus given on a character's card is applied after item bonuses.
 
--=- If an attack states all characters in a company face a strike, then effects which allow a character to face more than one strike have no effect against the attack. Similarly, effects that change the attack's number of strikes have no effect. As an exception, effects which reduce the number of strikes to a specific number do work.
+–=– If an attack states all characters in a company face a strike, then effects which allow a character to face more than one strike have no effect against the attack. Similarly, effects that change the attack's number of strikes have no effect. As an exception, effects which reduce the number of strikes to a specific number do work.
 
 #### The Strike Sequence
 
@@ -223,7 +223,7 @@ A corruption card can be revealed as an on-guard card (so long as it otherwise i
  5) A card that potentially removes an ally from the company can be revealed (so long as it otherwise is legal).
  6) Traitor cannot be revealed.
  7) Troll-purse (from _Middle-earth: Dark Minions_) can be revealed.
- 8) -=- A card may not be revealed that taps a character in the company.
+ 8) –=– A card may not be revealed that taps a character in the company.
 
 The spirit of the on-guard card is to represent a hazard threat that existed during a company's movement/hazard phase, but of which the company was not aware. The actual rule that portrays this spirit is: an on-guard may only be revealed if it could have also been played during the movement/hazard phase--this is a slight modification from the rule printed on page page 61 of the METW Unlimited Rulesbook. Practically, this means all targets of the card must have existed during the movement/hazard phase in order for the card to be revealed.
 
@@ -243,7 +243,7 @@ You may play two on-guard hazards on the same site if two companies are moving t
 
 The on-guard card is not considered to be in any player's hand.
 
--=- On-guard creatures are faced after a Burglaring attempt regardless of the success of the attempt.
+–=– On-guard creatures are faced after a Burglaring attempt regardless of the success of the attempt.
 
 #### Playing Allies
 
@@ -315,11 +315,11 @@ An influence attempt by an agent does not count against the hazard limit in and 
 
 Playing a card that makes an agent attack is considered the attack's declaration. Thus, if an agent is face down when Cunning Foes is played on him, he receives all the face down bonuses.
 
--=- Agents are *not* creatures.
+–=– Agents are *not* creatures.
 
--=- Agents do not face attacks when moving.
+–=– Agents do not face attacks when moving.
 
--=- Rolls made by agents during combat are done simultaneously with rolls
+–=– Rolls made by agents during combat are done simultaneously with rolls
 made by characters during combat (after step 4 of the strike sequence).
 
 #### Ahunt Manifestations
@@ -330,7 +330,7 @@ If four Ahunts are out an you move through one region listed on all four, then y
 
 Ahunt manifestations of unique Dragons are not considered creatures for cards that affect the playing of a creature hazards, since Ahunt manifestations are not played as creatures. An attack caused by an Ahunt manifestation is considered from a hazard creature for cards that affect hazard creatures already in play. 
 
--=- Attacks from Ahunt manifestations are not keyed to anything.
+–=– Attacks from Ahunt manifestations are not keyed to anything.
 
 #### Ally
 
@@ -390,9 +390,9 @@ If all characters in a company are removed from the company (i.e., all character
 
 Annotation 25: A company is considered to be at the site given by its site card at all times except from the moment their new site card is revealed during their movement/hazard phase until their old site card is discarded during the same movement/hazard phase. During this period a company is considered to be en route between sites and not at any site.
 
--=- If two companies join at a site, cards affecting one of the companies now affect them both (Stealth, Great Road, River).
+–=– If two companies join at a site, cards affecting one of the companies now affect them both (Stealth, Great Road, River).
 
--=- Two companies moving to the same haven must join.
+–=– Two companies moving to the same haven must join.
 
 #### Corruption
 
@@ -578,7 +578,7 @@ Up to 3 copies of one Wizard is allowed in a play deck, or up to 2 copies of one
 
 #### Deck Construction
 
--=- Cards that can be played as either hazards or resources (can we say Twilight boys and girls?) may count as either for purposes of deck construction.
+–=– Cards that can be played as either hazards or resources (can we say Twilight boys and girls?) may count as either for purposes of deck construction.
 
 There is a Council of Lorien creature minimum of 12 creatures. Each deck must contain at least 12 creatures.
 
@@ -586,7 +586,7 @@ A hazard that can be played as a creature or an event counts as 1/2 a creature.
 
 At Home and Ahunt Dragon manifestations count as 1/2 a creature for the Council of L�rien creature minimum.
 
--=- Agents count as 1/2 creatures for deck construction.
+–=– Agents count as 1/2 creatures for deck construction.
 
 #### The Character Draft
 
@@ -618,7 +618,7 @@ Continue this until there is no longer a tie or until all non-Wizard characters 
 
 Treat character discarded by Abductor to be discarded but not eliminated.
 
--=- All non-follower cards are discarded along with the character.
+–=– All non-follower cards are discarded along with the character.
 
 #### Akhorahil
 
@@ -656,7 +656,7 @@ All of the strikes will go against the same character.
 
 If an attack from Assassin is given more than one strike, each additional strike becomes an excess strike (-1 prowess modification) against the attacked character. An Assassin can never assign strikes to more than one character.
 
--=- You may decide to cancel one of the attacks after facing another attack.
+–=– You may decide to cancel one of the attacks after facing another attack.
 
 ### -B-
 
@@ -678,11 +678,11 @@ You cannot get the MP from a Balrog of Moria that you played.
 
 Bane of the Ithil-stone will only cancel effects outside of normal play. It will not stop you from drawing cards when moving or discarding and drawing at the end of the turn. It will not stop getting cards from the sideboard. It will stop looking thourgh the discard piles or play decks. This will stop cards like Far Sight, the Nazgul are Abroad, Lucky Search, and From the Pits of Angbad.
 
--=- "Within the normal sequence of play" is meant to cover things mentioned in the rules.
+–=– "Within the normal sequence of play" is meant to cover things mentioned in the rules.
 
--=- Bane will not cancel Revealed to All Watchers or similar effects.
+–=– Bane will not cancel Revealed to All Watchers or similar effects.
 
--=- If a card has multiple effects, Bane will only cancel those effects that concern searching through decks and discard piles.
+–=– If a card has multiple effects, Bane will only cancel those effects that concern searching through decks and discard piles.
 
 #### Bill the Pony
 
@@ -704,7 +704,7 @@ Revealing an on-guard creature or attacking with an agent can be declared when a
 
 #### Chance of Being lost
 
--=- Chance of Being Lost will change your site path.
+–=– Chance of Being Lost will change your site path.
 
 #### Corsairs of the Umbar
 
@@ -718,7 +718,7 @@ The character who makes the corruption check must be bearing The One Ring at the
 
 #### Crown of Flowers
 
--=- Crown will be discarded by Doors of Night.
+–=– Crown will be discarded by Doors of Night.
 
 #### Cruel Caradhras
 
@@ -730,7 +730,7 @@ The attack does not apply to a company starting at a site in the affected region
 
 #### Deftness of Agility
 
--=- The extra strike is dealt with in a seperate strike sequence.
+–=– The extra strike is dealt with in a seperate strike sequence.
 
 #### Dodge
 
@@ -796,7 +796,7 @@ Can cancel a strike keyed to double (or multiple) wilderness.
 
 #### Emerald of the Mariner
 
--=- The Emerald is considered a source of 0 corruption.
+–=– The Emerald is considered a source of 0 corruption.
 
 #### Ent-draughts
 
@@ -830,7 +830,7 @@ Can be duplicated on a given company.
 
 #### Fever of Unrest
 
--=- The Dragon played is not considered keyed to anything.
+–=– The Dragon played is not considered keyed to anything.
 
 #### Foul Fumes
 
@@ -908,7 +908,7 @@ In fact, you can play multiple Helms of Her Secrecy in one chain of effects. The
 
 #### Here is a Snake
 
--=- Here is a Snake does not prevent the use of hazards already on the table.
+–=– Here is a Snake does not prevent the use of hazards already on the table.
 
 #### Here, There, or Yonder?
 
@@ -932,7 +932,7 @@ Has errata: Add "Playable only at the end of the organization phase."
 
 #### Hunt, The
 
--=- The Hunt cannot be used on Nazguls who are in play as permanent-events.
+–=– The Hunt cannot be used on Nazguls who are in play as permanent-events.
 
 #### Huorn
 
@@ -967,9 +967,9 @@ The cards are discarded from opponent's hand.
 
 #### Leaf Brooch
 
--=- The item being replaced by the Leaf Brooch being discarded must be in play to satisfy any targetting restrictions.  When it comes time to discard that item, discard Leaf Brooch instead.
+–=– The item being replaced by the Leaf Brooch being discarded must be in play to satisfy any targetting restrictions.  When it comes time to discard that item, discard Leaf Brooch instead.
 
--=- If used to replace a gold ring after a successful test, the bearer of the gold ring item gets the special ring item, not the bearer of the Leaf Brooch.
+–=– If used to replace a gold ring after a successful test, the bearer of the gold ring item gets the special ring item, not the bearer of the Leaf Brooch.
 
 #### Leaflock
 
@@ -981,11 +981,11 @@ Allows the cancelling of one creature or the cancelling and discarding of an eve
 
 #### Long Dark Reach
 
--=- The creature does not count against the hazard limit.
+–=– The creature does not count against the hazard limit.
 
--=- If the creature is keyable only to regions by name, that is sufficient.
+–=– If the creature is keyable only to regions by name, that is sufficient.
 
--=- A creature must be played if there is one available.
+–=– A creature must be played if there is one available.
 
 #### Long Winter
 
@@ -1037,7 +1037,7 @@ Can be used at the Council of Lorien.
 
 The penalty is -0/-0 for the first strike, -1/-1 for the second, -2/-2 for the third, and so on.
 
--=- The penalties on the card are cumulative with the normal combat penalties.
+–=– The penalties on the card are cumulative with the normal combat penalties.
 
 #### Many Sorrows Befall
 
@@ -1057,7 +1057,7 @@ Only playable if you currently have a company at Lorien.
 
 #### Moon is Dead, The
 
--=- The second automatic-attack goes away if the Moon is Dead is discarded before the attack is faced.
+–=– The second automatic-attack goes away if the Moon is Dead is discarded before the attack is faced.
 
 #### Morannon
 
@@ -1065,7 +1065,7 @@ Has errata: Should read "This card is used as a Dark-hold site card in the regio
 
 #### More Alert than Most
 
--=- The minimum of one strike still applies while Gates of Morning is in play.
+–=– The minimum of one strike still applies while Gates of Morning is in play.
 
 #### More Sense than You
 
@@ -1127,9 +1127,9 @@ Has errata: Add "Does not effect Wizards."
 
 (errata)-Add the sentence: "If Noble Hound is tapped or wounded, treat it as though it were untapped for the purposes of assigning strikes."
 
--=- If for any reason you are unable to assign strikes to the Hound, then you cannot assign strikes to its master either.
+–=– If for any reason you are unable to assign strikes to the Hound, then you cannot assign strikes to its master either.
 
--=- If an attack assigns one strike for each character, then both the Hound and its master will recieve strikes.
+–=– If an attack assigns one strike for each character, then both the Hound and its master will recieve strikes.
 
 ### -O-
 
@@ -1185,7 +1185,7 @@ Nazgul events discarded by Praise to Elbereth have no effect.
 
 Which characters are tapping to discard which events must be declared when Praise to Elbereth is declared.
 
--=- Nazgul permanent-events that are targeted by Praise to Elbereth may not be tapped in response to its play.
+–=– Nazgul permanent-events that are targeted by Praise to Elbereth may not be tapped in response to its play.
 
 #### The Precious
 
@@ -1244,7 +1244,7 @@ Using this ally to make an influence attempt does not tap a site, and may be don
 
 Can be played on-guard.
 
--=- Rumor only allows you to play a Dragon, no other hazards are allowed.
+–=– Rumor only allows you to play a Dragon, no other hazards are allowed.
 
 ### -S-
 
@@ -1280,7 +1280,7 @@ Can be avoided with Shadowfax.
 
 #### Sentinels of Numenor
 
--=- Sentinels will not give an extra marshalling point to Army of the Dead.
+–=– Sentinels will not give an extra marshalling point to Army of the Dead.
 
 #### Shadowfax
 
@@ -1312,7 +1312,7 @@ The bonuses are cumulative.
 
 #### Taladhan
 
--=- Always attacks as a thief, so he will never wound anyone.
+–=– Always attacks as a thief, so he will never wound anyone.
 
 #### Thorin II
 
@@ -1378,7 +1378,7 @@ Has errata: Change text to "Sage only. Tap sage to enable him to use one Palanti
 
 #### Vilya
 
--=- Has errata: Replace "If your play deck has at least 5 cards in it, you  may take 5 resource cards." with "If Elrond is at Rivendell and your play deck has at least 5 resource cards in it, you may take 3 resource cards."
+–=– Has errata: Replace "If your play deck has at least 5 cards in it, you  may take 5 resource cards." with "If Elrond is at Rivendell and your play deck has at least 5 resource cards in it, you may take 3 resource cards."
 
 ### -W-
 
@@ -1406,11 +1406,11 @@ You can play your Wizard at the Haven when you store this card even if Saw Furth
 
 #### Witch-king of Angmar
 
--=- Although he becomes a long-event when tapped, he is discarded when the effect resolves just like ohter Nazgul.  The long-event effect will remain until the appropriate time.
+–=– Although he becomes a long-event when tapped, he is discarded when the effect resolves just like ohter Nazgul.  The long-event effect will remain until the appropriate time.
 
 #### Withdrawn to Mordor
 
--=- No agent is required for the alternate use.
+–=– No agent is required for the alternate use.
 
 #### Wizard's Laughter
 
