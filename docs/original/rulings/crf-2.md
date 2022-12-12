@@ -169,7 +169,9 @@ Automatic-attacks added to a site are faced after the normal automatic-attacks f
 It is not possible to influence an item away from a Wizard.
 
 If an influence attempt against a character is succesful, then any allies they control are discarded.
+
 You must enter a site to make an influence attempt.
+
 You may influence a Hobbit if you are not at Bag End.
 
 #### On-Guard Cards
