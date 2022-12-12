@@ -2,7 +2,7 @@
 layout: default
 title: The Wizards Limited
 parent: Rulebooks
-grand_parent: Original
+grand_parent: Original Rules
 ---
 
 # MIDDLE-EARTH: THE WIZARDS
