@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Wizards Limited
+title: The Wizards Ltd.
 parent: Rulebooks
 grand_parent: Original Rules
 nav_order: 1
