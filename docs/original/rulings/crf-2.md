@@ -313,6 +313,7 @@ Annotation 16: When a wounded character becomes unwounded, he is considered in h
 #### Cannot be Duplicated
 
 Short-events that cannot be duplicated cannot be played if a card of the same name is currently having an effect on play.
+
 A long- or permanent-events that cannot be duplicated can be played when a copy is already in play only if the copy in play is currently being targetted by an effect that will discard it.
 
 Annotation 11 (modified from its original version):Some cards cannot be duplicated in limited cases--generally on a specific target. Multiple copies of these cards or their effects may be in play normally, so long as each applies to a different target. A card that cannot be duplicated can be played when a copy is already in play only if the copy in play is currently being targetted by an effect that will discard it.
