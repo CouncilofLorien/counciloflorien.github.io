@@ -2,7 +2,7 @@
 layout: default
 title: Challenge Decks
 parent: Rulebooks
-grand_parent: Original
+grand_parent: Original Rules
 ---
 
 <style>
