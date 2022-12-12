@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Wizards Unlimited
+title: The Wizards Unltd.
 parent: Rulebooks
 grand_parent: Original Rules
 nav_order: 3
