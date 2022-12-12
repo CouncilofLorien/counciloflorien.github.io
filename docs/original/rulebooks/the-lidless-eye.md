@@ -3,6 +3,7 @@ layout: default
 title: The Lidless Eye
 parent: Rulebooks
 grand_parent: Original Rules
+nav_order: 6
 ---
 
 # MIDDLE-EARTH: THE LIDLESS EYE
