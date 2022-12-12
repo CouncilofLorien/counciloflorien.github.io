@@ -94,6 +94,7 @@ An attack may be canceled at any time up until the strikes are assigned. A strik
 Cancelling a strike does not defeat it.
 
 A creature cannot be canceled based on region type if that creature was played keyed to a region by name.
+
 Side effects of losing a character are resolved immediately after the character is lost, before other characters resolve their strikes.
 
 Wounded characters only suffer a -2 prowess. In general, wounded charcters are not considered tapped.
