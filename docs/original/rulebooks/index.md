@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Rulebooks
-parent: Original
-has_toc: true
+parent: Original Rules
 has_children: true
 search_exclude: true
 ---
