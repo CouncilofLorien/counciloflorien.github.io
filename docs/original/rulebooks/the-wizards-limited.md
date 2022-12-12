@@ -1,11 +1,8 @@
 ---
 layout: default
 title: The Wizards Limited
-parent: Original Rulebooks
-grand_parent: Original Rules
-permalink: /original/rulebooks/the-wizards-limited
-nav_order: 1
-search_exclude: true
+parent: Rulebooks
+grand_parent: Original
 ---
 
 # MIDDLE-EARTH: THE WIZARDS
