@@ -3,7 +3,6 @@ layout: default
 title: Original
 has_children: true
 has_toc: true
-nav_exclude: true
 search_exclude: true
 ---
 
