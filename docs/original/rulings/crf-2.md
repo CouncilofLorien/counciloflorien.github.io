@@ -100,6 +100,7 @@ Side effects of losing a character are resolved immediately after the character 
 Wounded characters only suffer a -2 prowess. In general, wounded charcters are not considered tapped.
 
 If a creature has a body, each strike is only defeated if the body is defeated for that strike.
+
 Prowess modifications from items come first. Then other bonuses are applied in the order the player controlling the character decides. Even a bonus given on a character's card is applied after item bonuses.
 
 –=– If an attack states all characters in a company face a strike, then effects which allow a character to face more than one strike have no effect against the attack. Similarly, effects that increase the attack's number of strikes have no effect. –=–
