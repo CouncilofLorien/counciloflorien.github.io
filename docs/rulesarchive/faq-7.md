@@ -163,7 +163,7 @@ Especially new and/or changed information is marked with *'s.
 **A**: No.
 
 **Q**: Does the site tap if I fail my roll to play a faction?  
-**A**: No.  The site on taps if the resource card is played successfully.
+**A**: No. The site on taps if the resource card is played successfully.
 
 **Q**: When exactly can I play a minor item after playing another item?  
 **A**: Only if the first item is played as part of the normal sequence for playing items in the site phase.
@@ -235,110 +235,110 @@ A:
 **Q**: Can I play more than one _Fellowship_ on a company?  
 **A**: Yes.
 
-**Q**: If I stay at an untapped site during my movement and play a Foul Fumes during my opponent's movement, does my site tap?  
-**A**: Yes. The site path to consider for the second paragraph of Foul Fumes is the one listed on the site card, not the company's site path.
+**Q**: If I stay at an untapped site during my movement and play a _Foul Fumes_ during my opponent's movement, does my site tap?  
+**A**: Yes. The site path to consider for the second paragraph of _Foul Fumes_ is the one listed on the site card, not the company's site path.
 
 **Q**: Does Gandalf have to be in the same company as the ring he tests?  
 **A**: Yes.
 
-**Q**: When can you use Goldberry's special ability?  
-**A**: You can tap Goldbery to cancel an effect declared earlier in the same chain of effects that would return her company to its site of origin.
+**Q**: When can you use _Goldberry's_ special ability?  
+**A**: You can tap _Goldbery_ to cancel an effect declared earlier in the same chain of effects that would return her company to its site of origin.
 
 **Q**: What happens to a Gold Ring card when I test it?  
 **A**: It is discarded, and you loose the Marshalling Point it gave you. If you have the right ring (as indicated by the test roll) in your hand you may play it immediately.
 
-**Q**: Can Gollum and the One Ring ever be together at the same site?  
-**A**: Yes. The text on Gollum is an ability that you can choose to use, not an effect that happens automatically.
+**Q**: Can _Gollum_ and _The One Ring_ ever be together at the same site?  
+**A**: Yes. The text on _Gollum_ is an ability that you can choose to use, not an effect that happens automatically.
 
-**Q**: What do Great Ship, Leaflock, and Tom Bombadil mean when they say "cancel the effects of one hazard?"  
-**A**: These cards allow the cancelling of an attack. They also allow the cancelling of an ongoing hazard effect that targets the company in question or any entity associated with that company (item, character, site, etc.).  They allow the cancelling of an effect declared earlier in the same chain of effects.
+**Q**: What do _Great Ship_, _Leaflock_, and _Tom Bombadil_ mean when they say "cancel the effects of one hazard?"  
+**A**: These cards allow the cancelling of an attack. They also allow the cancelling of an ongoing hazard effect that targets the company in question or any entity associated with that company (item, character, site, etc.). They allow the cancelling of an effect declared earlier in the same chain of effects.
 
-**Q**: If I am at a site where healing cards affect all characters at the site and I play Halfling Strength, is everyone healed?  
+**Q**: If I am at a site where healing cards affect all characters at the site and I play _Halfling Strength_, is everyone healed?  
 **A**: Yes.
 
-**Q**: Can Healing Herbs be used to heal a wounded character before the body check, and thus avoid the body check?  
+**Q**: Can _Healing Herbs_ be used to heal a wounded character before the body check, and thus avoid the body check?  
 **A**: The character will heal, but the body check is unavoidable.
 
-**Q**: Do the cards you have to discard when Khamul the Easterling taps come from your hand, from in play, or both?  
+**Q**: Do the cards you have to discard when _Khamul the Easterling_ taps come from your hand, from in play, or both?  
 **A**: From your hand only.
 
-**Q**: Is the number of cards discarded determined when Khamul is declared or when he is resolved?  
+**Q**: Is the number of cards discarded determined when _Khamul_ is declared or when he is resolved?  
 **A**: When he is declared.
 
-**Q**: If Doors of Night is in play, Long Winter only taps the sites belonging to the player whose turn it is, right?  
-**A**: Wrong. \*All\* sites in play with two Wildernesses in the site path given on the card become tapped.
+**Q**: If _Doors of Night_ is in play, _Long Winter_ only taps the sites belonging to the player whose turn it is, right?  
+**A**: Wrong. *All* sites in play with two Wildernesses in the site path given on the card become tapped.
 
-**Q**: Can I play Lucky Search at a tapped site?  
-**A**: Sure, go ahead.  It can be played at a tapped or untapped site.
+**Q**: Can I play _Lucky Search_ at a tapped site?  
+**A**: Sure, go ahead. It can be played at a tapped or untapped site.
 
-**Q**: If I get a second resource with Lucky Search can I play a second minor item too?  
+**Q**: If I get a second resource with _Lucky Search_ can I play a second minor item too?  
 **A**: No.
 
-**Q**: When the scout faces the attack for Lucky Search are they tapped and do they have the item?  
+**Q**: When the scout faces the attack for _Lucky Search_ are they tapped and do they have the item?  
 **A**: They are tapped and they do have the item.
 
-**Q**: What if the item revealed by Lucky Search is Unique and already in play?  
-**A**: Keep turning over cards.  Not that if the final card in the deck is revealed the deck is not considered to be exhausted.
+**Q**: What if the item revealed by _Lucky Search_ is Unique and already in play?  
+**A**: Keep turning over cards. Not that if the final card in the deck is revealed the deck is not considered to be exhausted.
 
-**Q**: If I play a ring special item after testing a gold ring, will this trigger a corruption check for Lure of Expedience?  
+**Q**: If I play a ring special item after testing a gold ring, will this trigger a corruption check for _Lure of Expedience_?  
 **A**: Yes, it will trigger a corruption check.
 
-**Q**: Will Lure of Expedience trigger if I transfer an item from one character to another?  
+**Q**: Will _Lure of Expedience_ trigger if I transfer an item from one character to another?  
 **A**: Yes, it will.
 
-**Q**: If I tap a character to help another character with a Lure of the Sense's corruption check, do they then untap?  
+**Q**: If I tap a character to help another character with a _Lure of the Sense's_ corruption check, do they then untap?  
 **A**: No, they will not untap until next turn.
 
-**Q**: What exactly does the "Only playable at Lorien" mean on Mirror of Galadriel?  
-**A**: It means that Mirror of Galadriel is playable if any of your characters is at Lorien.
+**Q**: What exactly does the "Only playable at Lorien" mean on _Mirror of Galadriel_?  
+**A**: It means that _Mirror of Galadriel_ is playable if any of your characters is at Lorien.
 
-**Q**: When do I have to declare using the Morgul-horse to bring a Nazgul permanent-event back into my hand?  
+**Q**: When do I have to declare using the _Morgul-horse_ to bring a Nazgul permanent-event back into my hand?  
 **A**: You must declare this immediately after declaring the Nazgul permanent-event is tapping, before the Nazgul resolves and goes to the discard pile.
 
-**\*Q**: If a character already has had a corruption card played on him during his turn, and he is wounded by a Nazgul bearing Morgul-knife or the Pale Sword, are they eligible to receive one of these corruption cards also? The rules state that a maximum of one corruption card may be played on a character per turn.  
-**\*A**: The character may not be assigned the Pale Sword or Morgul-knife as corruption cards in this situation. These two Nazgul enhancers should be ammended to say that playing them as corruption cards is optional.
+**\*Q**: If a character already has had a corruption card played on him during his turn, and he is wounded by a Nazgul bearing _Morgul-knife_ or _The Pale Sword_, are they eligible to receive one of these corruption cards also? The rules state that a maximum of one corruption card may be played on a character per turn.  
+**\*A**: The character may not be assigned _The Pale Sword_ or _Morgul-knife_ as corruption cards in this situation. These two Nazgul enhancers should be ammended to say that playing them as corruption cards is optional.
 
-**Q**: Do I have to discard my Morgul Night if Doors of Night is discarded?  
-**A**: No, Doors of Night is only required when Morgul Night comes into play.
+**Q**: Do I have to discard my _Morgul Night_ if _Doors of Night_ is discarded?  
+**A**: No, _Doors of Night_ is only required when _Morgul Night_ comes into play.
 
-**Q**: Can Muster be played when influencing an opponent's faction?  
+**Q**: Can _Muster_ be played when influencing an opponent's faction?  
 **A**: Yes.
 
-**Q**: Can I use the Nazgul are Abroad to bring back a Nazgul that I played as a creature?  
-**A**: Yes, the cards do not remember how they were played.  You can also play a Nazgul you get back with the Nazgul are Abroad as a creature.
+**Q**: Can I use _The Nazgul are Abroad_ to bring back a Nazgul that I played as a creature?  
+**A**: Yes, the cards do not remember how they were played. You can also play a Nazgul you get back with _The Nazgul are Abroad_ as a creature.
 
-**Q**: What happens to Nazgul events cancelled using Praise to Elbereth?  
-**A**: They are discarded and have no effect.  Also note that when Praise to Elbereth is played, you must declare which characters are tapping to cancel which Nazgul events.
+**Q**: What happens to Nazgul events cancelled using _Praise to Elbereth_?  
+**A**: They are discarded and have no effect. Also note that when _Praise to Elbereth_ is played, you must declare which characters are tapping to cancel which Nazgul events.
 
-**Q**: What happens if I use the Palantir of Orthanc to get a site card from my discard deck?  
-**A**: This is actually an invalid use of the card.  You can't use it to get site cards because they don't belong in your play deck.
+**Q**: What happens if I use the _Palantir of Orthanc_ to get a site card from my discard deck?  
+**A**: This is actually an invalid use of the card. You can't use it to get site cards because they don't belong in your play deck.
 
-**Q**: If you are moving with the Palantir of Amon Sul or the Palantir of Osgiliath and the company size goes below the required number, do you have to discard the Palantir?  
+**Q**: If you are moving with the _Palantir of Amon Sul_ or the _Palantir of Osgiliath_ and the company size goes below the required number, do you have to discard the Palantir?  
 **A**: Yes.
 
-**Q**: When does a wounded character recieve the corruption from the Pale Sword?  
-**A**: Immediately following the Nazgul's attack.  The same is true for the Morgul-knife.
+**Q**: When does a wounded character recieve the corruption from _The Pale Sword_?  
+**A**: Immediately following the Nazgul's attack. The same is true for the _Morgul-knife_.
 
-**Q**: Can the One Ring be used more than once in a turn?  
+**Q**: Can _The One Ring_ be used more than once in a turn?  
 **A**: As long as all the corruption checks are made, yes.
 
-**Q**: Who chooses the character to make the corruption check when The Precious is played?  
-**A**: The player playing The Precious chooses.
+**Q**: Who chooses the character to make the corruption check when _The Precious_ is played?  
+**A**: The player playing _The Precious_ chooses.
 
-**Q**: If I tap Ren the Unclean on my opponent's turn, can I play resources to modify the corruption checks of my characters?  
-**A**: No you may not.  If you are playing standard rules your characters can tap to give +1 to another character's check in the same company.
+**Q**: If I tap _Ren the Unclean_ on my opponent's turn, can I play resources to modify the corruption checks of my characters?  
+**A**: No you may not. If you are playing standard rules your characters can tap to give +1 to another character's check in the same company.
 
-**\*Q**: What exactly happens when I play Sacrifice of Form?  
-**\*A**: Remove your Wizard from play and place all of his items on the Sacrifice of Form card.  If your opponent plays the same Wizard they do not get the items on the Sacrifice of Form.  Note that it is legal to sac one Wizard and then play a different one, but again the Wizard does not get the items
+**\*Q**: What exactly happens when I play _Sacrifice of Form_?  
+**\*A**: Remove your Wizard from play and place all of his items on the _Sacrifice of Form_ card. If your opponent plays the same Wizard they do not get the items on the _Sacrifice of Form_. Note that it is legal to sac one Wizard and then play a different one, but again the Wizard does not get the items
 
-**\*Q**: Can I play Secret Entrance on a company that doesn't move?  
+**\*Q**: Can I play _Secret Entrance_ on a company that doesn't move?  
 **\*A**: Yes.
 
-**\*Q**: When can Roac the Raven use his special ability?  
+**\*Q**: When can _Roac the Raven_ use his special ability?  
 **\*A**: Only during your site phase.
 
-**\*Q**: Does another character have to make the attempt with Roac?  
-**\*A**: No, Roac can do it all by himself.
+**\*Q**: Does another character have to make the attempt with _Roac_?  
+**\*A**: No, _Roac_ can do it all by himself.
 
 **Q**: I can tap Saruman to use an un-aligned palantir, right?  
 **A**: Right.
@@ -346,131 +346,131 @@ A:
 **\*Q**: Can Saruman use a palantir someone else in his party is carrying?  
 **\*A**: No.
 
-**Q**: What happens if it turns out someone played a Secret Entrance while the company had a face down card that was a Dark-domain?  
+**Q**: What happens if it turns out someone played a _Secret Entrance_ while the company had a face down card that was a Dark-domain?  
 **A**: The effects of the card would be cancelled and the sage would remain tapped.  Note that long events that were in play at the end of the organization phase would have to be considered when determining this.
 
-**Q**: Can Shadowfax carry allies?  
-**A**: No. To be elligible for Shadowfax's special ability the party can contain no allies.(except Shadowfax himself).
+**Q**: Can _Shadowfax_ carry allies?  
+**A**: No. To be elligible for _Shadowfax's_ special ability the party can contain no allies (except _Shadowfax_ himself).
 
-**Q**: When does Siege go away?  
+**Q**: When does _Siege_ go away?  
 **A**: When all copies of the site it is played on are removed.
 
-**Q**: Can I tap the target of Slayer to cancel one of the attacks?  
+**Q**: Can I tap the target of _Slayer_ to cancel one of the attacks?  
 **A**: Yes.
 
-**Q**: Can I tap two characters to cancel both of the Slayer's attacks?  
+**Q**: Can I tap two characters to cancel both of the _Slayer's_ attacks?  
 **A**: No. Only one attack can be canceled.
 
-**Q**: Does Thorin II get a total +4 direct influece against Blue Mountain Dwarves?  
+**Q**: Does Thorin II get a total +4 direct influece against _Blue Mountain Dwarves_?  
 **A**: Yes, he does.
 
-**Q**: Can I play Tookish Blood on a character who just failed a corruption check?  
+**Q**: Can I play _Tookish Blood_ on a character who just failed a corruption check?  
 **A**: The discarding of the character happens immediately after the failed roll.  There is no time for any effects to be used.
 
-**Q**: Can Tom Bombadil cancel the effects of a Long Winter?  
+**Q**: Can _Tom Bombadil_ cancel the effects of a _Long Winter_?  
 **A**: No, because the effect is not targeted.
 
-**\*Q**: What happens if a character fails a corruption check while two Traitors are in play?  
-**\*A**: The character attacks once and both Traitors are discarded.
+**\*Q**: What happens if a character fails a corruption check while two _Traitors_ are in play?  
+**\*A**: The character attacks once and both _Traitors_ are discarded.
 
-**Q**: Can I play Twilight on a card that has not resolved yet?  
-**A**: Yes, Twilight may target a card played earlier in the same chain of effects.
+**Q**: Can I play _Twilight_ on a card that has not resolved yet?  
+**A**: Yes, _Twilight_ may target a card played earlier in the same chain of effects.
 
-**Q**: Can I play Twilight as a resource during my opponent's turn?  
-**A**: Yes.  If you do so Twilight does not count against the hazard limit for that company.
+**Q**: Can I play _Twilight_ as a resource during my opponent's turn?  
+**A**: Yes. If you do so _Twilight_ does not count against the hazard limit for that company.
 
-**Q**: If the White Tree is in play and I leave Minas Tirith while it is tapped, what happens to the cards?  
-**A**: Minas Tirith is discarded and the White Tree remains in play.
+**Q**: If _The White Tree_ is in play and I leave Minas Tirith while it is tapped, what happens to the cards?  
+**A**: Minas Tirith is discarded and _The White Tree_ remains in play.
 
 #### Cards with Errata
 
-Akhorahil: Change "...gives -1 penalty to one..." to "...modifies any one character's body by -1 for the rest of the turn."
+_Akhorahil_: Change "...gives -1 penalty to one..." to "...modifies any one character's body by -1 for the rest of the turn."
 
-Army of the Dead: Add "May not be influenced by an opponent."
+_Army of the Dead_: Add "May not be influenced by an opponent."
 
-*Bill the Pony: The body of this ally should be 10, not 6.
+_\*Bill the Pony_: The body of this ally should be 10, not 6.
 
-Book of Mazarbul:  Replace "...tap the bearer during your organization phase..." with "tap Book of Mazarbul during you organization phase..."
+_Book of Mazarbul_: Replace "...tap the bearer during your organization phase..." with "tap Book of Mazarbul during you organization phase..."
 
-Corsairs of Umbar:  Add "May also be played at any site in Elven Shores, Eriadoran Coast, Andrast Coast, Bay of Belfalas, or  Mouths of the Anduin."
+_Corsairs of Umbar_: Add "May also be played at any site in Elven Shores, Eriadoran Coast, Andrast Coast, Bay of Belfalas, or  Mouths of the Anduin."
 
-Cracks of Doom:  Remove "Otherwise, discard The One Ring and its bearer."
+_Cracks of Doom_: Remove "Otherwise, discard The One Ring and its bearer."
 
-Dodge: Replace "...his body check is modified by -1." with "...his body is modified by -1 for the resulting body check."
+_Dodge_: Replace "...his body check is modified by -1." with "...his body is modified by -1 for the resulting body check."
 
-Drowning Seas: Remove "Cannot be duplicated."
+_Drowning Seas_: Remove "Cannot be duplicated."
 
-Dwarven Ring of Bavor's Tribe: one "reshuffle the play deck" is sufficient.
+_Dwarven Ring of Bavor's Tribe_: one "reshuffle the play deck" is sufficient.
 
-Dwarven Ring of Druin's Tribe: one "reshuffle the play deck" is sufficient.
+_Dwarven Ring of Druin's Tribe_: one "reshuffle the play deck" is sufficient.
 
-Dwarven Ring of Thelor's Tribe: Values in parenthesis and brackets apply to Dwarf bearer. The prowess/body modifications should read: "+2(4)/+1."
+_Dwarven Ring of Thelor's Tribe_: Values in parenthesis and brackets apply to Dwarf bearer. The prowess/body modifications should read: "+2(4)/+1."
 
-Dwarven Ring of Thrar's Tribe: Values in parenthesis and brackets apply to Dwarf bearer. The prowess/body modifications should read: "+2(4)/+1."
+_Dwarven Ring of Thrar's Tribe_: Values in parenthesis and brackets apply to Dwarf bearer. The prowess/body modifications should read: "+2(4)/+1."
 
-Ent-draughts: Remove "as a minor item" and replace with "in addition to an ally or faction has been succesfully played at Wellinghall."
+_Ent-draughts_: Remove "as a minor item" and replace with "in addition to an ally or faction has been succesfully played at Wellinghall."
 
-Giant: Add "Giant."
+_Giant_: Add "Giant."
 
-The Great Goblin: "Unique. Orc. One strike..."
+_The Great Goblin_: "Unique. Orc. One strike..."
 
-Great-road: Replace "Opponent draws twice..." with "Opponent may draw up to twice..."
+_Great-road_: Replace "Opponent draws twice..." with "Opponent may draw up to twice..."
 
-Gwaihir: Should read "...you may discard Gwaihir during the organization phase to allow his company..."
+_Gwaihir_: Should read "...you may discard Gwaihir during the organization phase to allow his company..."
 
-Horses: Add "Playable only at the end of the Organization phase."
+_Horses_: Add "Playable only at the end of the Organization phase."
 
-Huorn: Add "Awakened Plant."
+_Huorn_: Add "Awakened Plant."
 
-Lucky Search: Replace "Discard all revealed cards except the item." with "Reshuffle all revealed cards except the item back into the play deck."
+_Lucky Search_: Replace "Discard all revealed cards except the item." with "Reshuffle all revealed cards except the item back into the play deck."
 
-Lure of Nature: Replace "...at the end of each movement/hazard phase..." with "...after all other hazards have been played..."
+_Lure of Nature_: Replace "...at the end of each movement/hazard phase..." with "...after all other hazards have been played..."
 
-Morannon: Should read "This card is used as a Dark-hold (D) site card in the region of Udun that is moved to..."
+_Morannon_: Should read "This card is used as a Dark-hold (D) site card in the region of Udun that is moved to..."
 
-Mouth of Sauron: Add "Man."
+_Mouth of Sauron_: Add "Man."
 
-Neeker Breekers: Add "Does not affect Wizards."
+_Neeker Breekers_: Add "Does not affect Wizards."
 
-Old Man Willow: Add "Awakened Plant."
+_Old Man Willow_: Add "Awakened Plant."
 
-*The Old Thrush:  Add "Cannot be duplicated on a given attack."
+_\*The Old Thrush_:  Add "Cannot be duplicated on a given attack."
 
-Pukel-men: Add "Pukel-creature."
+_Pukel-men_: Add "Pukel-creature."
 
-Quiet lands: Replace "...is reduced to half its original number (rounded up)." with "...is reduced by half (rounded up)."
+_Quiet lands_: Replace "...is reduced to half its original number (rounded up)." with "...is reduced by half (rounded up)."
 
-Ringlore: Add "Playable only during the site phase.  Tap the sage and the site."
+_Ringlore_: Add "Playable only during the site phase.  Tap the sage and the site."
 
-Roac the Raven: Remove "-no modifications to the influence check are required." Replace with "-treat this influence check as though it were made by a Diplomat."
+_Roac the Raven: Remove "-no modifications to the influence check are required." Replace with "-treat this influence check as though it were made by a Diplomat."
 
-*Sacrifice of Form:  Replace "-3 to any body checks..." with "+3 to any body checks..."
+_\*Sacrifice of Form_:  Replace "-3 to any body checks..." with "+3 to any body checks..."
 
-Seige: Change the border-land symbol in the first line to a border-hold symbol.
+_Seige_: Change the border-land symbol in the first line to a border-hold symbol.
 
-Shadowfax: "...an additional site card may be played and an additional movement/hazard phase..."
+_Shadowfax_: "...an additional site card may be played and an additional movement/hazard phase..."
 
-Silent Watcher: Gives 1 marshalling point, not 0.  Add "Pukel-creature."
+_Silent Watcher_: Gives 1 marshalling point, not 0. Add "Pukel-creature."
 
-Slayer: Gives 2 marshalling point, not 0.  Add "Slayer."
+_Slayer_: Gives 2 marshalling point, not 0.  Add "Slayer."
 
-*Tookish Blood: There is no errata on Tookish Blood.
+_\*Tookish Blood_: There is no errata on Tookish Blood.
 
-Traitor: Replace the last paragraph with "This card is discarded when a character fails his corruption check."
+_Traitor_: Replace the last paragraph with "This card is discarded when a character fails his corruption check."
 
-*Treebeard: Replace "Redhorn Gap" with "Redhorn Gate."
+_\*Treebeard_: Replace "Redhorn Gap" with "Redhorn Gate."
 
-Twilight: This card may be played at any time during any player's turn.
+_Twilight_: This card may be played at any time during any player's turn.
 
-Use Palantir: Change text to "Sage only. Tap sage to enable him to use one Palantir he bears for the rest of the turn."
+_Use Palantir_: Change text to "Sage only. Tap sage to enable him to use one Palantir he bears for the rest of the turn."
 
-Wizard's Laughter: Change "Wizard only." to "Wizard only during opponent's site phase."
+_Wizard's Laughter_: Change "Wizard only." to "Wizard only during opponent's site phase."
 
-Wizard's Ring: Replace "Ignore any effect that would discard this item" with "Cannot be stored, stolen, or transfered."
+_Wizard's Ring_: Replace "Ignore any effect that would discard this item" with "Cannot be stored, stolen, or transfered."
 
-*The White Tree: Add "Discard the Sapling of the White Tree." Note that you can only discard a Sapling that you played.
+_\*The White Tree_: Add "Discard the Sapling of the White Tree." Note that you can only discard a Sapling that you played.
 
-Wolves: Change "Animals." to "Wolves."
+_Wolves_: Change "Animals." to "Wolves."
 
 #### Questions About Timing
 
@@ -500,7 +500,7 @@ Wolves: Change "Animals." to "Wolves."
 **Q**: Can an ally carry weapons?  
 **A**: No.
 
-**Q**: Can an ally tap to support a character in combat or to cancel an attack with an Assassin or Slayer?  
+**Q**: Can an ally tap to support a character in combat or to cancel an attack with an _Assassin_ or _Slayer_?  
 **A**: Yes and Yes.
 
 **Q**: If I'm using the optional rule that allows a character to tap to take two strikes, and the first strike kills the character, what happens to the second strike?  
@@ -530,10 +530,10 @@ Wolves: Change "Animals." to "Wolves."
 **A**: Yes. The hurl is http://www.ironcrown.com.
 
 **Q**: How do I get my questions answered?  
-**A**: Probably the best way is to post your question to the Usenet group rec.games.trading-cards.misc, with "[METW]" in the subject.  If you are in no particular rush you can mail questions to Mike Reynolds at met...@aol.com.  It might be a few days before he can get to it.
+**A**: Probably the best way is to post your question to the Usenet group rec.games.trading-cards.misc, with "\[METW]" in the subject.  If you are in no particular rush you can mail questions to Mike Reynolds at <met...@aol.com>.  It might be a few days before he can get to it.
 
 **Q**: Is there going to be a player's guide published?  
-**A**: The Companion is already out. There is an Adventurers Guide that is still in production.
+**A**: The _Companion_ is already out. There is an Adventurers Guide that is still in production.
 
 **Q**: Are there any expansion sets planned?  
 **A**: Yes.  At this moment Iron Crown is hard at work on the first one, _Middle-earth: The Dragons_.
