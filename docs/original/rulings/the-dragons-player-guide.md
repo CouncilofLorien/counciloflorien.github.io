@@ -1,11 +1,8 @@
 ---
 layout: default
 title: The Dragons Player Guide
-parent: Official Rulings
-grand_parent: Official Rules
-nav_order: 5
-permalink: /original/rulings/the-dragons-player-guide
-search_exclude: true
+parent: Rulings
+grand_parent: Original
 ---
 
 # MIDDLE-EARTH<br>THE DRAGONS PLAYER GUIDE
