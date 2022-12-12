@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Lidless Eye Companion
+title: MELE Companion
 parent: Rulebooks
 grand_parent: Original
 ---
