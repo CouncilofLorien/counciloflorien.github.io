@@ -3,6 +3,7 @@ layout: default
 title: MELE Companion
 parent: Rulebooks
 grand_parent: Original Rules
+nav_order: 7
 ---
 
 # MIDDLE-EARTH<br>THE LIDLESS EYE COMPANION
