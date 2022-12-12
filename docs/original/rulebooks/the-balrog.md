@@ -3,6 +3,7 @@ layout: default
 title: The Balrog
 parent: Rulebooks
 grand_parent: Original Rules
+nav_order: 12
 ---
 
 # MIDDLE-EARTH: THE BALROG
