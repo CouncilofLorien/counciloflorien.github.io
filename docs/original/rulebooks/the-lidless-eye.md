@@ -1,11 +1,8 @@
 ---
 layout: default
 title: The Lidless Eye
-parent: Original Rulebooks
-grand_parent: Original Rules
-permalink: /original/rulebooks/the-lidless-eye
-nav_order: 8
-search_exclude: true
+parent: Rulebooks
+grand_parent: Original
 ---
 
 # MIDDLE-EARTH: THE LIDLESS EYE
