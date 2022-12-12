@@ -1,11 +1,8 @@
 ---
 layout: default
-title: The Wizards Companion
-parent: Original Rulebooks
-grand_parent: Original Rules
-permalink: /original/rulebooks/the-wizards-companion
-nav_order: 3
-search_exclude: true
+title: METW Companion
+parent: Rulebooks
+grand_parent: Original
 ---
 
 # MIDDLE-EARTH<br>THE WIZARDS COMPANION
