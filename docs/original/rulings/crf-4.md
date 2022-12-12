@@ -584,7 +584,7 @@ There is a Council of Lorien creature minimum of 12 creatures. Each deck must co
 
 A hazard that can be played as a creature or an event counts as 1/2 a creature.
 
-At Home and Ahunt Dragon manifestations count as 1/2 a creature for the Council of L�rien creature minimum.
+At Home and Ahunt Dragon manifestations count as 1/2 a creature for the Council of Lorien creature minimum.
 
 –=– Agents count as 1/2 creatures for deck construction.
 
