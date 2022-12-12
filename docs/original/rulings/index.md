@@ -3,10 +3,10 @@ layout: default
 title: Rulings
 parent: Original
 nav_order: 1
-permalink: /original/rulings
 has_toc: true
 has_children: true
 search_exclude: true
+permalink: /original/rulings
 ---
 
 {: .text-center }
