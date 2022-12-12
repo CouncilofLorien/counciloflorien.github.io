@@ -2,7 +2,7 @@
 layout: default
 title: Against the Shadow
 parent: Rulebooks
-grand_parent: Original
+grand_parent: Original Rules
 ---
 
 # MIDDLE-EARTH: AGAINST THE SHADOW
