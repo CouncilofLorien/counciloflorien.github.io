@@ -817,7 +817,8 @@ Cannot stop a body check.
 #### Helm of Her Secrecy
 
 –=– In fact, you can play multiple Helms of Her Secrecy in one chain of effects. The player must make sure that he does not take the option of playing Eowyn out of his hand until the first copy played is resolved. –=–
-Here, There, or Yonder?
+
+#### Here, There, or Yonder?
 
 The ally does not have to be chosen or played until after the dice are rolled.
 
@@ -905,7 +906,7 @@ Has errata: Replace "at the end of each movement/hazard phase" with "after all o
 
 –=– The corruption checks caused by Lure of Nature happen at the end of the afflicted character's movement/hazard phase. Of course, the character's player can play resources to modify the corruption checks. The hazard player is allowed to play hazards in response, if the hazard player has enough hazard limit remaining. Hazards so played must directly affect the corruption checks caused by Lure of Nature. He can play no other hazards, no creature, no new corruption cards, etc. The spirit of Lure of Nature is that the corruption checks happen after everything else the company will face. –=–
 
-Lure of Power
+#### Lure of Power
 
 –=– This card is in no way affected by an influence attempt of an agent. –=–
 
@@ -1272,7 +1273,7 @@ Has errata: Replace "Ignore any effect that would discard this item" with "Canno
 
 ## VII. Dark Minions Rulings
 
-Cards form Middle-earth: Dark Minions may be used in Council of Lórien constructed deck tournaments after December 5, 1996. Cards from MEDM may be used in Council of Lórien sealed deck play immediately.
+Cards from _Middle-earth: Dark Minions_ may be used in Council of Lórien constructed deck tournaments after December 5, 1996. Cards from _MEDM_ may be used in Council of Lórien sealed deck play immediately.
  
 In Rules Insert, under Agents, Agent Acitons (errata)
 
@@ -1282,58 +1283,56 @@ In Rules Insert, under Agents, Playing Creatures at an Agent's Site (errata)
 
 In the second paragraph of this section, replace: "If one of your agents and one of your opponent's companies are both at the agent's home site, " with "If one of your agents is at his home site and one of your opponent's companies is at or moving to that site,
  
-Agents (clarification)-Agents are not hazard creatures. They are their own class of hazards. They count as hazards for deck construction.
+Agents (clarification)--Agents are not hazard creatures. They are their own class of hazards. They count as hazards for deck construction.
  
-Agents (clarification)-Agents do not work for your Wizard. As any hazard, agents represent the bad forces of Middle-earth whose inclusion in your deck on a simulation level is independent of your Wizards's efforts.
+Agents (clarification)--Agents do not work for your Wizard. As any hazard, agents represent the bad forces of Middle-earth whose inclusion in your deck on a simulation level is independent of your Wizards's efforts.
  
-Agents (clarification)-Agents cannot attack or influence each other.
+Agents (clarification)---Agents cannot attack or influence each other.
  
-Agents (clarification)-Agent attacks are not keyed to a site, and thusly, cannot be cancelled with Not at Home, etc.
+Agents (clarification)---Agent attacks are not keyed to a site, and thusly, cannot be cancelled with Not at Home, etc.
  
-Agent movement (clarification)-A tapped agent can move. Tapping is not condition of agent movement, it is an effect of agent movement.
+Agent movement (clarification)---A tapped agent can move. Tapping is not condition of agent movement, it is an effect of agent movement.
  
-Influencing with an Agent (clarification)-An influence attempt by an agent does not count against the hazard limit in and of itself. Nor does it count as an agent action. Playing a hazard event that allows an agent to make an influence attempt does count against the hazard limit.
+Influencing with an Agent (clarification)---An influence attempt by an agent does not count against the hazard limit in and of itself. Nor does it count as an agent action. Playing a hazard event that allows an agent to make an influence attempt does count against the hazard limit.
  
-Attacking with an Agent (clarification)-Playing a card that makes an agent attack is considered the attack's declaration. Thus, if an agent is face down when Cunning Foes is played on him, he receives all the face down bonuses.
+Attacking with an Agent (clarification)---Playing a card that makes an agent attack is considered the attack's declaration. Thus, if an agent is face down when Cunning Foes is played on him, he receives all the face down bonuses.
 
 –=– Underdeeps (clarification)-Marshalling points with companies at an Under-deeps site only do not count for the purposes of actually calling the Free Council. They do count at the actual Council itself. –=–
 
-Under-deep site movement (clarification)-When a company's site of origin is an Under-deeps site and the company reveals a new site at the start of its movement/hazard phase, the company is declaring it will make a roll to determine if the movement was successful. No cards can be played between the site being revealed and the roll except for Reach of Ulmo.
+Under-deep site movement (clarification)---When a company's site of origin is an Under-deeps site and the company reveals a new site at the start of its movement/hazard phase, the company is declaring it will make a roll to determine if the movement was successful. No cards can be played between the site being revealed and the roll except for Reach of Ulmo.
  
-Under-deep site movement (clarification)-If you move to an Under-deeps site from a tapped surface site, the tapped surface site is dicarded at the end of the company's movement/hazard phase. The discarded surface site is not available until it is returned to your location deck. The moral of this story is: do not tap your surface site when moving to an Under-deeps site unless you are prepared to leave the Under-deeps site via another Under-deeps site.
+Under-deep site movement (clarification)---If you move to an Under-deeps site from a tapped surface site, the tapped surface site is dicarded at the end of the company's movement/hazard phase. The discarded surface site is not available until it is returned to your location deck. The moral of this story is: do not tap your surface site when moving to an Under-deeps site unless you are prepared to leave the Under-deeps site via another Under-deeps site.
  
-Under-deep site movement (clarification)-Goldberry cannot prevent a company from returning to its site of origin that failed its roll to move to an adjacent Under-deeps site.
+Under-deep site movement (clarification)---Goldberry cannot prevent a company from returning to its site of origin that failed its roll to move to an adjacent Under-deeps site.
  
-Taking Prisoner-Allies cannot be targetted to be taken prisoner, and otherwise cannot be taken prisoner.
+Taking Prisoner---Allies cannot be targetted to be taken prisoner, and otherwise cannot be taken prisoner.
  
-Rescue Attempts-At an Under-deeps site, after a successul rescue attempt, a character can tap for a minor item only. This is despite the fact that with the play of resources that tap an Under-deeps site, a character could tap for any playable item.
+Rescue Attempts---At an Under-deeps site, after a successul rescue attempt, a character can tap for a minor item only. This is despite the fact that with the play of resources that tap an Under-deeps site, a character could tap for any playable item.
 
-Baduila (clarification)- Read "If Baduila is discarded" as "If you choose to discard Baduila." It is something you choose to do.
+Baduila (clarification)---Read "If Baduila is discarded" as "If you choose to discard Baduila." It is something you choose to do.
 
-Golodhros (clarification)-He may use his special influence ability only during an opponent's movement/hazard phase, not during the site phase. His tapping to use his special ability does not count against the hazard limit.
+Golodhros (clarification)---He may use his special influence ability only during an opponent's movement/hazard phase, not during the site phase. His tapping to use his special ability does not count against the hazard limit.
  
-Great Secrets Buried There (clarification)-The item placed under this card is considered in play for the purposes of uniqueness, just like any card placed off to the side.
+Great Secrets Buried There (clarification)---The item placed under this card is considered in play for the purposes of uniqueness, just like any card placed off to the side.
 
-Hermit's Hill (clarification)-Unless a card specifically states otherwise, to play any item at a site, the site must be untapped. To play a major item here, Hermit's Hill must be untapped. 
+Hermit's Hill (clarification)---Unless a card specifically states otherwise, to play any item at a site, the site must be untapped. To play a major item here, Hermit's Hill must be untapped. 
 
-Hidden Knife (clarification)-Hidden Knife is effectively an attack. As per Annotation 15 in The Companion, attacks must be the first items declared in a chain of effects, Hidden Knife must be so played. Thus, if your opponent reveals an agent during your site phase and attacks with it, you must wait until after this attack to play Hidden Knife.
+Hidden Knife (clarification)---Hidden Knife is effectively an attack. As per Annotation 15 in The Companion, attacks must be the first items declared in a chain of effects, Hidden Knife must be so played. Thus, if your opponent reveals an agent during your site phase and attacks with it, you must wait until after this attack to play Hidden Knife.
  
-Lure of Power (clarification)-This card is in no way affected by an influence attempt of an agent.
+Lure of Power (clarification)---This card is in no way affected by an influence attempt of an agent.
  
-Mallorn (errata)-The first sentence should read: "Playable at Bag End only if Earth of Galadriel's Orchard is stored there."
+Mallorn (errata)---The first sentence should read: "Playable at Bag End only if Earth of Galadriel's Orchard is stored there."
 
-My Precious (clarification)-Does not count as Gollum for the purposes of Gollum's Fate or any other card that specifically calls for Gollum.
+My Precious (clarification)---Does not count as Gollum for the purposes of Gollum's Fate or any other card that specifically calls for Gollum.
 
-Noble Hound (errata)-Add the sentence: "If Noble Hound is tapped or wounded, treat it as though it were untapped for the purposes of assigning strikes."
+Noble Hound (errata)---Add the sentence: "If Noble Hound is tapped or wounded, treat it as though it were untapped for the purposes of assigning strikes."
  
+The Old Thrush (clarification)---Can only be used on agents whose listed prowess is 13 or greater, not whose prowess plus dice roll is 13 or greater. Presently, there are no agents with this listed prowess.
 
-The Old Thrush (clarification)-Can only be used on agents whose listed prowess is 13 or greater, not whose prowess plus dice roll is 13 or greater. Presently, there are no agents with this listed prowess.
+The White Tree (clarification)---The White Tree in play does not at all restrict agent movement. The White Tree makes Minas Tirith a Haven for the purposes of playing hazards, but an agent moving to Minas Tirith is not playing the agent. Playing a card is the action of taking it out of your hand.
 
-The White Tree (clarification)-The White Tree in play does not at all restrict agent movement. The White Tree makes Minas Tirith a Haven for the purposes of playing hazards, but an agent moving to Minas Tirith is not playing the agent. Playing a card is the action of taking it out of your hand.
+The Windlord Found Me (clarification)---Can be used to recover a Wizard discarded with Sacrifice of Form.
 
-The Windlord Found Me (clarification)-Can be used to recover a Wizard discarded with Sacrifice of Form.
+The Windlord Found Me (clarification)---You can play your Wizard at the Haven when you store this card even if Saw Further and Deeper is in play.
 
-The Windlord Found Me (clarification)-You can play your Wizard at the Haven when you store this card even if Saw Further and Deeper is in play.
-
-The Under-galleries (clarification)-You cannot play Morannon at The Under-galleries. However, you can play Ancient Stair from Morannon, move to The Under-galleries, and zip back to Morannon at the end of the turn.
-
+The Under-galleries (clarification)---You cannot play Morannon at The Under-galleries. However, you can play Ancient Stair from Morannon, move to The Under-galleries, and zip back to Morannon at the end of the turn.
