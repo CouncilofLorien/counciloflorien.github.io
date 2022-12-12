@@ -4,8 +4,6 @@ title: Dark Minions Player Guide
 parent: Official Rulings
 grand_parent: Original Rules
 nav_order: 7
-permalink: /original/rulings/dark-minions-player-guide
-search_exclude: true
 ---
 
 # MIDDLE-EARTH<br>DARK MINIONS PLAYER GUIDE
