@@ -3,6 +3,7 @@ layout: default
 title: The White Hand
 parent: Rulebooks
 grand_parent: Original Rules
+nav_order: 9
 ---
 
 # Middle-earth: The White Hand
