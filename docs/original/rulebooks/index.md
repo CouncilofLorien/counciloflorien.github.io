@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Original Rulebooks"
-parent: "Original Rules"
+title: Original Rulebooks
+parent: Original Rules
 nav_order: 1
 permalink: /original/rulebooks
 has_toc: true
