@@ -204,9 +204,9 @@ IMPORTANT: A revealed on-guard card retroactively takes effect as though it were
 
 As a final, encompassing example, Muster Disperses cannot be revealed as an on-guard card for three reasons.
 
- 1) Muster Disperses cannot target a faction played during the site phase during which it would be revealed because this target did not exist during the movement/hazard phase.
- 2) Muster Disperses cannot target a faction already in play at the start of the site phase because it would not affect a company or a character in the company.
- 3) Muster Disperses cannot target a faction played during the site phase during which it would be revealed because this target does not exist when Muster Disperses would be revealed. A card can only be revealed in the same chain of effects as the play of a resource that potentially taps the site, and this resource actually is not resolved and cannot be targetted at that point.
+ 1. Muster Disperses cannot target a faction played during the site phase during which it would be revealed because this target did not exist during the movement/hazard phase.
+ 2. Muster Disperses cannot target a faction already in play at the start of the site phase because it would not affect a company or a character in the company.
+ 3. Muster Disperses cannot target a faction played during the site phase during which it would be revealed because this target does not exist when Muster Disperses would be revealed. A card can only be revealed in the same chain of effects as the play of a resource that potentially taps the site, and this resource actually is not resolved and cannot be targetted at that point.
 
 Some long- and permanent-events (like Awaken Denizens) can be revealed on-guard and effect multiple companies. These cards specify that they affect "each" or "all" sites of a certain type.
 
