@@ -1,11 +1,8 @@
 ---
 layout: default
 title: The Lidless Eye Companion
-parent: Original Rulebooks
-grand_parent: Original Rules
-permalink: /original/rulebooks/the-lidless-eye-companion
-nav_order: 9
-search_exclude: true
+parent: Rulebooks
+grand_parent: Original
 ---
 
 # MIDDLE-EARTH<br>THE LIDLESS EYE COMPANION
