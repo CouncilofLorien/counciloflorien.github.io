@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Official Rulings"
-parent: "Original Rules"
+title: Rulings
+parent: Original
 nav_order: 1
 permalink: /original/rulings
 has_toc: true
