@@ -3,6 +3,7 @@ layout: default
 title: Challenge Decks
 parent: Rulebooks
 grand_parent: Original Rules
+nav_order: 10
 ---
 
 <style>
