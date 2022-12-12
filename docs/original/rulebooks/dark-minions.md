@@ -1,11 +1,8 @@
 ---
 layout: default
 title: Dark Minions
-parent: Original Rulebooks
-grand_parent: Original Rules
-permalink: /original/rulebooks/dark-minions
-nav_order: 6
-search_exclude: true
+parent: Rulebooks
+grand_parent: Original
 ---
 
 # MIDDLE-EARTH: DARK MINIONS
