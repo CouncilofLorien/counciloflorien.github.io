@@ -612,7 +612,7 @@ Continue this until there is no longer a tie or until all non-Wizard characters 
 
 ## VI. Card Errata and Rulings
 
-#### -A-
+### -A-
 
 #### Abductor
 
@@ -658,7 +658,7 @@ If an attack from Assassin is given more than one strike, each additional strike
 
 -=- You may decide to cancel one of the attacks after facing another attack.
 
-#### -B-
+### -B-
 
 #### Baduila
 
@@ -700,7 +700,7 @@ The character who fails the burglary roll must face the automatic-attack as thou
 
 Revealing an on-guard creature or attacking with an agent can be declared when a character plays burglary. The creature or agent would attack the entire company after Burglary is resolved. Of course, the site must have an auto-attack to reveal an on-guard creature.
 
-#### -C-
+### -C-
 
 #### Chance of Being lost
 
@@ -784,7 +784,7 @@ Has errata: Values in parenthesis and brackets apply to Dwarf bearer. The prowes
 
 Has errata: Values in parenthesis and brackets apply to Dwarf bearer. The prowess/body modifications should read: "+2(4)/+1."
 
-#### -E-
+### -E-
 
 #### Elf-song
 
@@ -818,7 +818,7 @@ With Doors of Night in play Eye of Sauron only gives +3 total to the prowess of 
 
 The body refered to in Eowyn's text (and other female characters) is the Nazgul's body.
 
-#### -F-
+### -F-
 
 #### Fell Beast
 
@@ -836,7 +836,7 @@ Can be duplicated on a given company.
 
 Will tap all sites in play that meet the requirements.
 
--G-
+### -G-
 
 #### Gandalf
 
@@ -892,7 +892,7 @@ Allows the cancelling of one creature or the cancelling and discarding of an eve
 
 Has errata: Should read "you may discard Gwaihir during the organization phase to allow his company..."
 
-#### -H-
+### -H-
 
 #### Halfling Strength
 
@@ -938,7 +938,7 @@ Has errata: Add "Playable only at the end of the organization phase."
 
 Has errata: Add "Awakened Plant."
 
--I-
+### -I-
 
 #### Incite Denizens
 
@@ -1113,7 +1113,7 @@ Muster Disperses cannot be revealed as on-guard card.
 
 Does not count as Gollum for the purposes of Gollum's Fate or any other card that specifically calls for Gollum.
 
-#### -N-
+### -N-
 
 #### The Nazgul are Abroad
 
@@ -1131,7 +1131,7 @@ Has errata: Add "Does not effect Wizards."
 
 -=- If an attack assigns one strike for each character, then both the Hound and its master will recieve strikes.
 
-#### -O-
+### -O-
 
 #### Old Forest
 
@@ -1153,7 +1153,7 @@ Can be used multiple times in a turn if the corruption checks are successful.
 
 "Starting prowess" refers to the prowess printed on the character card.
 
-#### -P-
+### -P-
 
 #### Palantir of Amon Sul
 
@@ -1195,14 +1195,14 @@ The player of The Precious chooses who makes the corruption check.
 
 Has errata: Add "Pukel-creature."
 
-#### -Q-
+### -Q-
 
 #### Quiet Lands
 
 Has errata: Replace "is reduced to half its original prowess (rounded up)."
 with "is reduced by half (rounded up)."
 
-#### -R-
+### -R-
 
 #### Reforging
 
@@ -1364,7 +1364,7 @@ Can target a card that has not yet resolved.
 
 Can be played as a resource during your opponent's turn. If played this way it will not count toward the hazard limit.
 
-#### -U-
+### -U-
 
 #### The Under-galleries
 
