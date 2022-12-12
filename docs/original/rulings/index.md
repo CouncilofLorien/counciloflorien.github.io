@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Rulings
-parent: Original
-has_toc: true
+grand_parent: Original Rules
 has_children: true
 search_exclude: true
 ---
