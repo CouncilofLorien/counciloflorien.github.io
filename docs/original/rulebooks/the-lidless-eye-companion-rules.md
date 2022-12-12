@@ -172,6 +172,3 @@ _If at the start of a movement/hazard phase there are multiple effects in play s
 _If a card has optional effects, the player playing the card must choose which will take place. He must do this at the time the card is played, not when it is resolved in its chain of effects. When such a card is resolved, if any active conditions for his choice of effects do not exist, the card has no effect and is discarded—he may not at this point choose to implement an alternative effect of the card._
 
 ---
-
-[^passiveconditions]: This clarification states: "Hero items may not be used as passive condition for minion resources, and minion items may not be used as passive conditions for hero resources." This statement was later changed to state "conditions" instead of "passive conditions." 
-[^Indy]: There is a typo in the original where Indur is called "Indy."
