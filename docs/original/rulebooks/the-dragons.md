@@ -3,6 +3,7 @@ layout: default
 title: The Dragons
 parent: Rulebooks
 grand_parent: Original Rules
+nav_order: 4
 ---
 
 # MIDDLE-EARTH: THE DRAGONS
