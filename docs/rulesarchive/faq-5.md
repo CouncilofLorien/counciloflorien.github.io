@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Frequently Asked Questions #5
+title: "Frequently Asked Questions #5"
 parent: Official Rulings
 grand_parent: Original Rules
 nav_order: 7
