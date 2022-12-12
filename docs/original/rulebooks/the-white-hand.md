@@ -1,13 +1,8 @@
 ---
 layout: default
 title: The White Hand
-parent: Original Rulebooks
-grand_parent: Original Rules
-permalink: /original/rulebooks/the-white-hand
-nav_order: 11
-search_exclude: true
----
-
+parent: Rulebooks
+grand_parent: Original
 ---
 
 # Middle-earth: The White Hand
