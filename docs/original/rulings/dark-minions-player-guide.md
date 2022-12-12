@@ -3,7 +3,6 @@ layout: default
 title: Dark Minions Player Guide
 parent: Official Rulings
 grand_parent: Original Rules
-nav_order: 7
 ---
 
 # MIDDLE-EARTH<br>DARK MINIONS PLAYER GUIDE
