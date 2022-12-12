@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: "CRF 1"
@@ -8,7 +7,7 @@ grand_parent: Original Rules
 
 # Middle Earth: The Wizards
 
-{: .text-center text-gamma }
+{: .text-center text-beta }
 Official Rulings
 
 _Middle-earth: Collectible Card Game_ Collected Official Rulings FileVersion 1 current as of 10/24/96.
