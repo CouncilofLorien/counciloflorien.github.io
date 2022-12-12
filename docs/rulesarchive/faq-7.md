@@ -49,7 +49,7 @@ Especially new and/or changed information is marked with *'s.
 **Q**: Can I play a character if I don't have enough general influence to control them?  
 **A**: Yes, as long as you have enough general and direct influence to control all of your characters at the end of the organization phase. Note that you cannot play a character and remove a character in the same organization phase. If you play a character and cannot control them by the end of the phase, the just played character must be returned to your hand.
 
-**\*Q**: What happens if I try to influence away an item from an opponent's wizard? The rules state that his mind stat is used for this roll, and a wizard has no mind stat.
+**\*Q**: What happens if I try to influence away an item from an opponent's wizard? The rules state that his mind stat is used for this roll, and a wizard has no mind stat.  
 **\*A**: You may not attempt to influence away an item from an opponent's hand.
 
 **\*Q**: Can an ally play cards that require a character with a specific skill?    
@@ -118,7 +118,7 @@ Especially new and/or changed information is marked with *'s.
 
 #### Questions About Playing Hazards
 
-**Q**: Does the hazard limit change if a character is eliminated during the movement/hazard phase.
+**Q**: Does the hazard limit change if a character is eliminated during the movement/hazard phase?  
 **A**: No. The hazard limit is set at the begining of movement.
 
 **Q**: Do permanent events count against the hazard limit?  
@@ -151,8 +151,7 @@ Especially new and/or changed information is marked with *'s.
 **A**: Yes.
 
 **Q**: Once I get to a site how exactly do I go about exploring it?  
-**A**: First declare that you are exploring the site. Then face the automatic attack. If you have an untapped character at the
-   site play a card that is playable at that site. For most items and inormation cards it will say on the site card if you can play an item of that type (minor, major, greater, gold ring). For some items, factions, and allies it will say on the resource card if it is playable at that site. If the resource is successfully played and you still have an untapped character you may play a minor item.  If after facing the automatic attack you have no untapped characters you must wait until next turn and face the automatic attack again.
+**A**: First declare that you are exploring the site. Then face the automatic attack. If you have an untapped character at the site play a card that is playable at that site. For most items and inormation cards it will say on the site card if you can play an item of that type (minor, major, greater, gold ring). For some items, factions, and allies it will say on the resource card if it is playable at that site. If the resource is successfully played and you still have an untapped character you may play a minor item.  If after facing the automatic attack you have no untapped characters you must wait until next turn and face the automatic attack again.
 
 **Q**: Can I use a card that cancels an attack to cancel an automatic attack?  
 **A**: Yes. This counts as facing the automatic attack.
@@ -251,7 +250,7 @@ A:
 **Q**: Can Gollum and the One Ring ever be together at the same site?  
 **A**: Yes. The text on Gollum is an ability that you can choose to use, not an effect that happens automatically.
 
-**Q**: What do Great Ship, Leaflock, and Tom Bombadil mean when they say "cancel the effects of one hazard?  "
+**Q**: What do Great Ship, Leaflock, and Tom Bombadil mean when they say "cancel the effects of one hazard?"  
 **A**: These cards allow the cancelling of an attack. They also allow the cancelling of an ongoing hazard effect that targets the company in question or any entity associated with that company (item, character, site, etc.).  They allow the cancelling of an effect declared earlier in the same chain of effects.
 
 **Q**: If I am at a site where healing cards affect all characters at the site and I play Halfling Strength, is everyone healed?  
@@ -296,7 +295,7 @@ A:
 **Q**: When do I have to declare using the Morgul-horse to bring a Nazgul permanent-event back into my hand?  
 **A**: You must declare this immediately after declaring the Nazgul permanent-event is tapping, before the Nazgul resolves and goes to the discard pile.
 
-**\*Q**: If a character already has had a corruption card played on him during his turn, and he is wounded by a Nazgul bearing Morgul-knife or the Pale Sword, are they eligible to receive one of these corruption cards also?    The rules state that a maximum of one corruption card may be played on a character per turn.
+**\*Q**: If a character already has had a corruption card played on him during his turn, and he is wounded by a Nazgul bearing Morgul-knife or the Pale Sword, are they eligible to receive one of these corruption cards also? The rules state that a maximum of one corruption card may be played on a character per turn.  
 **\*A**: The character may not be assigned the Pale Sword or Morgul-knife as corruption cards in this situation. These two Nazgul enhancers should be ammended to say that playing them as corruption cards is optional.
 
 **Q**: Do I have to discard my Morgul Night if Doors of Night is discarded?  
