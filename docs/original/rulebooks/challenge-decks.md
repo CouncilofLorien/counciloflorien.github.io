@@ -1,11 +1,8 @@
 ---
 layout: default
 title: Challenge Decks
-parent: Original Rulebooks
-grand_parent: Original Rules
-permalink: /original/rulebooks/challenge-decks
-nav_order: 12
-search_exclude: true
+parent: Rulebooks
+grand_parent: Original
 ---
 
 <style>
