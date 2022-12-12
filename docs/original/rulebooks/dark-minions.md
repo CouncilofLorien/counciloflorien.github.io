@@ -2,7 +2,7 @@
 layout: default
 title: Dark Minions
 parent: Rulebooks
-grand_parent: Original
+grand_parent: Original Rules
 ---
 
 # MIDDLE-EARTH: DARK MINIONS
