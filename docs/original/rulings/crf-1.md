@@ -79,6 +79,7 @@ You do not have to decide how many cards you want to draw before you start to dr
 Strikes are assigned in the following manner: First the defending player assigns strikes to his untapped characters; Second the attacking player assigns the remaining strikes; Third the attacking player may assign extra strikes as -1 modifiers to characters' prowess. Each character must be assigned one strike before any character gets an extra strike. The extra strikes need not be assigned to a character until that character's strike is resolved.
 
 An attack may be canceled at any time up until the strikes are assigned. A strike may be canceled at any time up until the dice are rolled.
+
 Cancelling a strike does not defeat it.
 
 A creature cannot be canceled based on region type if that creature was played keyed to a region by name.
@@ -96,7 +97,9 @@ Prowess modifications from items come first. Then other bonuses are applied in t
 Starter movement works as follows: Each company will have a face up site card showing the site it is at. This is called the site of origin. By the end of the organization phase put a face down new site for each of your companies that wishes to move. If a company's site of origin is a non-haven site (not Rivendell, Lorien, Edhellond, or Grey Havens), the new site must be the nearest haven. If the site of origin is a haven site there are two options. If you want to go to another haven you may go to one of the two nearest havens listed on your site of origin card, the new site card would be one of these two havens. If you want to go to a non-haven site it must be one which lists the site of origin as the nearest haven. If the company successfully makes it to the new site, discard the site of origin at the end of that company's movement/hazard phase.
 
 Region movement works as follows: To move a company from its site of origin to another site using region movement, lay down a series of up to four regions and the new site by the end of your organization phase. Each region in the series must list on its card the regions that are connected with it in the series as adjacent regions. The region at the beginning of the series must be the region listed on the site of origin card. The region at the end of the series must be the region listed on the new site card. A site which lies more than four regions away from the site of origin may not be reached in one turn with region movement (without Bridge, Shadowfax, etc.).
+
 Region movement can be used to move from one non-Haven site to another non-Haven site.
+
 A company does not have to move each turn. If a company does not move it still has a movement/hazard phase. No cards are drawn for the company and the only hazards that can be played on the company are creatures that can be keyed to the company's site and events.
 
 Lebennin and Ithilien are not adjacent, even though they look that way in the rule book.
@@ -130,7 +133,8 @@ The automatic-attack is not a hazard.
 You must face the automatic-attack on the turn you attempt to play any resource during the site phase (or enact any resource effect), even if you faced that attack on a previous turn.
 
 –=– Automatic-attacks added to a site are faced after the normal automatic-attacks for the site. Multiple automatic-attacks are faced in the order listed and resolved.
-Influence Attempts
+
+#### Influence Attempts
 
 It is not possible to influence an item away from a Wizard.
 
@@ -345,6 +349,7 @@ You can access hazards from your sideboard when your opponent's Wizard is in pla
 The site path depends on what sort of movement was used. If using starter movement between Havens the site path is given on the Haven card in the text box. If using starter movement to or from a non-Haven site the site path is given on the non-Haven site, along the left side of the card. If using region movement the site path is determined by the region cards played on the company. In all of the above cases the site path includes the site you are moving to.
 
 Certain cards refer to the site's site path. The site's site path is always the site path given on the site card, regardless of how the company got to that site.
+
 Events can alter both the site's site path and a company's site path.
 
 #### Skill Cards
@@ -396,7 +401,9 @@ You may put two of the same Wizard in your deck, or you may put one copy each of
 ## III. Timing Rulings
 
 The validity of an effect is checked upon declaration and upon resolution.
+
 The effects of a card happen in the order listed on the card.
+
 If a card has an alternate use the player playing the card chooses the use at declaration.
 
 –=– Annotation 24: If a card specifices that more than one action occur when the card itself is resolved in a chain of effects, all of these actions are to be resolved in the card's chain of effects uninterrupted and in the order listed on the card. No actions may be declared to occur between these multiple actions. The actions listed on the card are considered to have been declared in the reverse order as they are printed.
@@ -435,7 +442,7 @@ The best way to get questions answered is to post them to the usenet newsgroup r
 
 Promotional cards can be obtained by sending a SASE to ICE with a letter requesting them.
 
-### V. Tournament Rulings
+## V. Tournament Rulings
 
 Tournament rulings are modifications and additions to the rules presented in the Unlimited Edition rulesbook that are required for sanctioned Council of Lórien tournament play.
 
@@ -454,6 +461,7 @@ Dice must be used to obtain random numbers.
 –=– There is a Council of Lórien creature minimum of 12 creatures. Each deck must contain at least 12 creatures.
 
 A hazard that can be played as a creature or an event counts as 1/2 a creature.
+
 –=– At Home and Ahunt Dragon manifestations count as 1/2 a creature for the Council of Lórien creature minimum.
 
 #### The Character Draft
@@ -467,7 +475,8 @@ If one player stops revealing characters, the other one may continue to play cha
 No player may reveal a character that would bring his starting company's total mind over 20.
 
 When players are finished, each may put up to 10 characters into their deck, including character from his starting pool that did not end up in the starting company.
-Map Movement
+
+#### Map Movement
 
 –=– Maps of the regions of METW may be used in place of region cards in Council of Lorien tournaments. If two companies move on the same turn, then the second company does not have to determine it's site path until the begining of it's movement/hazard phase.
 
@@ -564,6 +573,7 @@ Has errata: Replace "his body check is modified by -1." with "his body is modifi
 #### Dragon's Blood
 
 If the body check forced by Dragon's Blood fails, the character is not wounded.
+
 No body check is required if the affected strike is ineffectual.
 
 #### Dragon's Desolation
@@ -793,7 +803,7 @@ Cannot be played on-guard.
 
 Cannot be played on a card that has not yet resolved.
 
-Master of Water, Wood & Hill
+#### Master of Water, Wood & Hill
 
 –=– The sage does not have to be in a moving company whose site path is affected.
 
@@ -880,7 +890,8 @@ Can be used multiple times in a turn if the corruption checks are successful.
 #### Palantir of Amon Sul
 
 Discard immediately if its company contains less than two characters while moving.
-Palantir of Orthanc
+
+#### Palantir of Orthanc
 
 Cannot be used on site cards.
 
@@ -965,6 +976,7 @@ Can be played on-guard.
 #### Sacrifice of Form
 
 Has errata: Replace "-3 to any body checks" with "+3 to any body checks."
+
 After Sacrifice of Form is played, you may not play a different Wizard and your opponent may not play the Wizard you sacrificed.
 
 #### Saruman
@@ -999,7 +1011,7 @@ Cannot use his special ability if another ally is in the company.
 
 #### Silent Watcher
 
-Has errata: Gives 1 marshalling point, not O. Add "Pukel-creature."
+Has errata: Gives 1 marshalling point, not 0. Add "Pukel-creature."
 
 #### Slayer
 
