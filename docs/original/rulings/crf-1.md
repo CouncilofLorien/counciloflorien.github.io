@@ -711,7 +711,8 @@ Cannot stop a body check.
 #### Here, There, or Yonder?
 
 The ally does not have to be chosen or played until after the dice are rolled.
-Hoarmurath of Dir
+
+#### Hoarmurath of Dir
 
 –=– Can affect an automatic-attack.
 
