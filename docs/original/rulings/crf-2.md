@@ -158,6 +158,7 @@ A creature that be played in a specific region (i.e., "Playable in Cardolan") ca
 To explore a site, first declare you are exploring the site. Then face any automatic-attacks at the site and any on-guard hazard creatures revealed. Then, if you have any untapped characters, you may tap one to play an item, information, ally, or faction card. For most items and information cards the site will say if they are playable at that site. Some items, and factions and allies, say on the resource card at which sites they are playable.
 
 A card that can cancel an attack can cancel an automatic-attack, and this counts as facing the automatic-attack.
+
 The automatic-attack is not a hazard.
 
 You must face the automatic-attack on the turn you attempt to play any resource during the site phase (or enact any resource effect), even if you faced that attack on a previous turn.
@@ -1154,7 +1155,7 @@ Cannot use his special ability if another ally is in the company.
 
 #### Silent Watcher
 
-Has errata: Gives 1 marshalling point, not O. Add "Pukel-creature."
+Has errata: Gives 1 marshalling point, not 0. Add "Pukel-creature."
 
 #### Slayer
 
@@ -1253,6 +1254,7 @@ Has errata: Add "Discard the Sapling of the White Tree."
 You can only discard a Sapling of the White Tree that you have played.
 
 If you leave a tapped Minas Tirith while this card is in play, Minas Tirith will still be discarded.
+
 "Playing hazards" refers to keying creatures to the site, not passive conditions of cards like Lure of the Senses.
 
 –=– The White Tree in play does not at all restrict agent movement. The White Tree makes Minas Tirith a Haven for the purposes of playing hazards, but an agent moving to Minas Tirith is not playing the agent. Playing a card is the action of taking it out of your hand. –=–
