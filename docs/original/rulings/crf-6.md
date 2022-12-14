@@ -49,13 +49,13 @@ wrappers. International customers should include an IRC.
 
 ## I. TABLE OF CONTENTS
 
-&emsp;[II. Turn Sequence Rulings]()
+&emsp;[II. Turn Sequence Rulings](#ii-turn-sequence)
 
-&emsp;[III. Rulings by Term]()
+&emsp;[III. Rulings by Term](#iii-rulings-by-term)
 
-&emsp;[IV. Tournament Rulings]()
+&emsp;[IV. Tournament Rulings](#iv-tournament-rulings)
 
-&emsp;[V. Card Errata and Rulings]()
+&emsp;[V. Card Errata and Rulings](#v-card-errata-and-rulings)
 
 ## II. TURN SEQUENCE
 
