@@ -696,9 +696,6 @@ Continue this until there is no longer a tie or until all non-Wizard characters 
 
 [[M]](#-m-)	[[N]](#-n-)	[[O]](#-o-)	[[P]](#-p-)	[[Q]](#-q-)	[[R]](#-r-)	[[S]](#-s-)	[[T]](#-t-)	[[U]](#-u-)	[[V]](#-v-)	[[W]](#-w-)
 
- | [A](#-a-) | 	[B](#-b-)	 | [C](#-c-)	 | [[D](#-d-)	 | [E](#-e-) | 	[F](#-f-) | 	[G](#-g-) | 	[H](#-h-) | 	[I](#-i-) | 	[K](#-k-) | 	[L](#-l-)
- | [M](#-m-)	 | [N](#-n-)	 | [O](#-o-) | 	[P](#-p-)	 | [Q](#-q-)	 | [R](#-r-) | 	[S](#-s-)	 | [T](#-t-)	 | [U](#-u-)	 | [V](#-v-) | 	[W](#-w-)
-
 ### -A-
 
 #### Akhôrahil
