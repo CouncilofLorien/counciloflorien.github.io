@@ -5,12 +5,14 @@ parent: Rulings
 grand_parent: Original Rules
 ---
 
-# Middle Earth: The Wizards
+# Middle-earth: Collectible Card Game
 
-{: .text-center .text-beta }
-Official Rulings
+Collected Official Rulings File
+{: .text-center .text-beta}
 
-_Middle-earth: Collectible Card Game_ Collected Official Rulings FileVersion 2 current as of 01-09-97.
+Version 2 current as of 01-09-97
+{: .text-center }
+
 The _MECCG_ Collected Official Ruling File has taken the place of the official FAQ.
 
 Around the first of every month, this rulings file will be updated. Items marked with a –=– are either new, changed, or certified free of Dragon infestations for the latest update.
