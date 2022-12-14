@@ -5,12 +5,8 @@ parent: Rulings
 grand_parent: Original Rules
 ---
 
-# Middle Earth: The Wizards
-
-{: .text-center .text-beta }
-Official Rulings
-
-_Middle-earth: Collectible Card Game_ Collected Official Rulings File
+# _Middle-earth: Collectible Card Game_<br>Collected Official Rulings File
+{: .text-center }
 Version 6 current as of July 10th, 1997.
 
 If playing in a tournament, be sure to check Section III: Tournament
