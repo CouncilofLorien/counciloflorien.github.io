@@ -15,7 +15,7 @@ Number 5, current as of 2/5/96,
 Where Havens Go When They Die version  
 Maintained by Craig "Ichabod" O'Brien \<ich...@cstone.net>
 
-<br>Especially new and/or changed information is marked with \*s. Thanks to Herve Guillemet for help on information gathering for this FAQ.
+<br><br>Especially new and/or changed information is marked with \*s. Thanks to Herve Guillemet for help on information gathering for this FAQ.
 
 #### Questions About Characters
 
