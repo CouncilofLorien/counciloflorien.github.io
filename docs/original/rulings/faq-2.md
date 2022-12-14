@@ -14,7 +14,7 @@ Frequently Asked Questions File
 Number 2[^FAQ2]  
 Maintained by Craig "Ichabod" O'Brien
 
-Especially new and succulent information is marked with \*s.
+<br>Especially new and succulent information is marked with \*s.
 
 #### Questions About Characters
 
