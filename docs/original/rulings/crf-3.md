@@ -10,7 +10,7 @@ grand_parent: Original Rules
 {: .text-center .text-beta }
 Official Rulings
 
-_Middle-earth: Collectible Card Game_ Collected Official Rulings FileVersion 3 current as of 02-28-97.
+_Middle-earth: Collectible Card Game_ Collected Official Rulings FileVersion 3.[^CRF3]
 
 The _MECCG_ Collected Official Ruling File has taken the place of the official FAQ.
 
@@ -1337,3 +1337,7 @@ The Windlord Found Me (clarification)---Can be used to recover a Wizard discarde
 –=– The Windlord Found Me (clarification)---You can play your Wizard at the Haven when you store this card even if Saw Further and Deeper is in play. –=–
 
 The Under-galleries (clarification)---You cannot play Morannon at The Under-galleries. However, you can play Ancient Stair from Morannon, move to The Under-galleries, and zip back to Morannon at the end of the turn.
+
+---
+
+[^CRF3]: A source of CRF version 3 is unavailable but the available copy of CRF labeled "version 2" from ICE's website appears to include later changes (the updates between the MEDM Player Guide and the METD Player Guide) and earlier changes both marked as new (-=-). These later updates are given here as "CRF 3." 
