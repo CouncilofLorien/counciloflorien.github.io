@@ -13,7 +13,7 @@ Frequently Asked Questions File
 {: .text-center }
 Number 6, current as of 2/20/96  
 Absent Minded Nazgul version  
-Maintained by Craig "Ichabod" O'Brien <ich...@cstone.net>
+Maintained by Craig "Ichabod" O'Brien \<ich...@cstone.net>
 
 <br>Especially new and/or changed information is marked with \*s.
 
@@ -434,13 +434,13 @@ A:
 #### Questions About Support
 
 **Q**: Is there an official netrep?  
-**A**: Yes. His name is Scott Frazer <sfr...@comet.net>. On AOL he goes by MetWiNetRp.
+**A**: Yes. His name is Scott Frazer \<sfr...@comet.net>. On AOL he goes by MetWiNetRp.
 
 **Q**: Is there a website?  
-**A**: Yes. The hurl is http://www.ironcrown.com.
+**A**: Yes. The hurl is <span>http://www.ironcrown.com</span>.
 
 **Q**: How do I get my questions answered?  
-**A**: Probably the best way is to post your question to the Usenet group rec.games.trading-cards.misc, with "\[METW]" in the subject.  If you are in no particular rush you can mail questions to Mike Reynolds at met...@aol.com.  It might be a few days before he can get to it.
+**A**: Probably the best way is to post your question to the Usenet group rec.games.trading-cards.misc, with "\[METW]" in the subject.  If you are in no particular rush you can mail questions to Mike Reynolds at \<met...@aol.com>.  It might be a few days before he can get to it.
 
 **\*Q**: Is there going to be a player's guide published?  
 **\*A**: The Companion is already out.  There is an Adventurers Guide that is still in production.
