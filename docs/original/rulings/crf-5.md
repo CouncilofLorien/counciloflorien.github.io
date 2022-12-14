@@ -33,21 +33,21 @@ If playing in a tournament, be sure to check the tournament rulings, as
 some of them differ from the rulings for casual play.
 
 
-0. TABLE OF CONTENTS
+TABLE OF CONTENTS
 
-I. The Turn Sequence
+[I. The Turn Sequence](#i-turn-sequence)
 
-II. Rulings by Term
+[II. Rulings by Term](#ii-rulings-by-term)
 
-III. Timing Rulings
+[III. Timing Rulings](#iii-timing-rulings)
 
-IV. Miscellaneous Rulings
+[IV. Miscellaneous Rulings](#iv-miscellaneous-rulings)
 
-V. Tournament Rulings
+[V. Tournament Rulings](#v-tournament-rulings)
 
-VI. Lidless Eye Rulings
+[VI. Lidless Eye Rulings](#vi-lidless-eye-rulings)
 
-VII. Card Errata and Rulings
+[VII. Card Errata and Rulings](#vii-card-errata-and-rulings)
 
 
 ### I. TURN SEQUENCE
