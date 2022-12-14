@@ -495,7 +495,7 @@ during the Free Council.
 count for calling the Audience with Sauron, but do count at the Audience
 with Sauron.
 
-## Rulings By Term
+## Rulings By Term[^rulingsbyterm]
 
 ### -= AAA =-
 
@@ -566,7 +566,7 @@ and agents played as minion characters may not become hazards.
 An agent played as a character in a Ringwraith deck can only be played at
 his home site.
 
-When constructing a Ringwraith deck, agents are always considered
+@ When constructing a Ringwraith deck, agents are always considered
 characters. The maximum of 36 mind of agents in your sideboard and play deck
 combined still applies.
 
@@ -577,7 +577,8 @@ Revealed agents may return to their home site, even if they are at one of
 their home sites.
 
 Cards played on an agent remain face up when the agent turns face down.
-Agents may not move to any version of a hero Haven, unless they have a
+
+@ Agents may not move to any version of a hero Haven, unless they have a
 special ability allowing them to.
 
 #### Ahunt Manifestations
@@ -713,7 +714,7 @@ The following allies make a company overt: The Balrog, Creature of an Older
 World, Great Bats, Great Lord of Goblin-gate, Last Child of Ungoliant,
 Regiment of Black Crows, and "Two-headed" Troll.
 
-Entities associated with a company include the characters, allies, and
+@ Entities associated with a company include the characters, allies, and
 items in the company, and any events played on the company or on another
 entity in the company. The new site and site of origin are not entities
 associated with the company.
@@ -735,6 +736,7 @@ chain of effects immediately following the chain of effects that contains the
 corruption check.
 
 Characters with 0 corruption points must still make corruption checks.
+
 A character may attempt to remove a corruption card without tapping. The
 roll is at -3.
 
@@ -756,14 +758,15 @@ See also Turn Sequence, Organization Phase, Storing Items.
 
 #### Darkhaven
 
-Rules Erratum: Attacks keyed to Darkhavens are detainment. \[effective
+@ Rules Erratum: Attacks keyed to Darkhavens are detainment. \[effective
 11/17/97]
 
 Whenever a hazard affecting heroes refers to a Darkhaven, interpret it as
 referring to a Haven instead.
 
 Attacks at Darkhavens are canceled only if the company is at the Darkhaven.
-Darkhavens count as their own nearest Darkhaven.
+
+@ Darkhavens count as their own nearest Darkhaven.
 
 #### Detainment Attacks
 
@@ -780,18 +783,19 @@ A discarded non-Wizard/non-Ringwraith character may be brought into play
 again by any player.
 
 When a card is discarded, so are all permanent-events on that card.
+
 Cards discarded from a player's hand must be discarded one at a time. This
 is mainly to allow a Pallando player to see each card as it is discarded.
 
 Whenever a character is discarded, all non-follower cards played with that
 character are also discarded.
 
-If a card leaves active play, including being returned to a player's hand,
+@ If a card leaves active play, including being returned to a player's hand,
 it immediately ceases having an effect on play. \[effective 11/3/97]
 
 #### Dragons
 
-Dragon automatic-attacks are not considered manifestations of any unique
+@ Dragon automatic-attacks are not considered manifestations of any unique
 Dragon.
 
 ### -= EEE =-
@@ -823,7 +827,7 @@ Effects which increase your hand size or allow you to hold one more card in
 your hand mean that you draw up to your new hand size or discard down to it at
 the appropriate points during the game.
 
-Effects which increase hand size are cumulative.
+@ Effects which increase hand size are cumulative.
 
 See also Card Errata and Rulings, Favor of the Valar.
 
@@ -834,7 +838,7 @@ Havens can tap.
 Whenever a hazard affecting minions refers to a Haven, interpret it as
 referring to a Darkhaven instead.
 
-Havens count as their own nearest Haven.
+@ Havens count as their own nearest Haven.
 
 #### Hobbits
 
@@ -858,11 +862,11 @@ A character removed from the control of direct influence outside the
 organization phase does not need to be controlled by general influence until
 that player's next organization phase.
 
+@ Changes to general influence take place immediately, with a minimum of zero
+free general influence.
+
 See also Turn Sequence, Organization Phase, Followers and Organizing
 Companies; and Rulings by Term, Company.
-
-Changes to general influence take place immediately, with a minimum of zero
-free general influence.
 
 #### Items
 
@@ -873,7 +877,7 @@ resource that taps that site.
 
 #### Marshalling Point Pile
 
-Under standard rules, no more than half of your marshalling points can come
+@ Under standard rules, no more than half of your marshalling points can come
 from any one type of marshalling point. Do not round up. The easiest way to
 deal with this is to set the category with the most marshalling points to
 equal the total of all other categories of marshalling points.
@@ -881,7 +885,7 @@ equal the total of all other categories of marshalling points.
 You may not target hazards in your opponent's marshalling point pile for
 removal.
 
-You may not gain marshalling points from a hazard you played yourself.
+@ You may not gain marshalling points from a hazard you played yourself.
 
 #### May not Untap
 
@@ -908,16 +912,16 @@ Minion characters are not affected by cards that target agents.
 
 #### Modes
 
-When one mode effect is applied to a Ringwraith, all other cards applying a
+@ When one mode effect is applied to a Ringwraith, all other cards applying a
 mode effect to that Ringwraith are discarded.
 
-When a Ringwraith is in a mode, only apply the effects listed on the mode
+@ When a Ringwraith is in a mode, only apply the effects listed on the mode
 card, on the Ringwraith, and in the rules for that mode. Do not worry about
 cards that are not in play.
 
 #### Multi-player Games
 
-Only the moving player, and the hazard player drawing cards based on his
+@ Only the moving player, and the hazard player drawing cards based on his
 movement, may take advantage of drawing cards, including cards drawn for
 events like The Nazgul are Abroad and From the Pits of Angband. These two
 players are also the only ones who may discard a card at the end of the turn.
@@ -948,7 +952,7 @@ show hazards.
 
 Normal means as written on the card, not considering other card's effects.
 
-Note that this definition only applies to affects refering to card texts.
+@ Note that this definition only applies to affects refering to card texts.
 
 #### Nazgul
 
@@ -963,7 +967,7 @@ against Nazgul is the body of the Nazgul
 
 #### Off to the Side
 
-Host cards of cards off to the side can be targeted normally.
+@ Host cards of cards off to the side can be targeted normally.
 
 #### Optional Rules
 
@@ -1007,7 +1011,7 @@ when the action resolves, or else the action is canceled.
 
 #### Playing a Card
 
-Playing a card is the process of bringing a card from your hand into play.
+@ Playing a card is the process of bringing a card from your hand into play.
 
 ### -= RRR =-
 
@@ -1020,7 +1024,7 @@ Any revealed cards are shown to all players.
 You may have any number of Ringwraiths in your sideboard, as long as you do
 not duplicate more than one of them in the combined deck and sideboard.
 
-Characters with combat bonuses against Nazgul also get those bonuses
+@ Characters with combat bonuses against Nazgul also get those bonuses
 against Ringwraiths. However, other effects that affect Nazgul do not affect
 Ringwraiths.
 
@@ -1028,7 +1032,7 @@ Ringwraiths.
 
 Ringwraith followers may still use magic as printed on their card.
 
-When your revealed Ringwraith leaves play without being eliminated, you
+@ When your revealed Ringwraith leaves play without being eliminated, you
 have until the end of your next organization phase to bring your Ringwraith
 back into play, and use him to re-control any Ringwraith followers. Otherwise,
 all Ringwraith followers are discarded.
@@ -1052,14 +1056,13 @@ The sideboard is increased to 25 cards.
 You can access hazards from your sideboard when your opponent's Wizard is
 in play. You must declare this at the end of your opponent's untap phase and
 then access hazards as if you had tapped a Nazgul permanent-event to do so.
-
 The hazard limit against all of your opponent's companies that turn is halved,
 rounded up.
 
-Tapping a Nazgul to bring cards in from the sideboard does not turn the
+@ Tapping a Nazgul to bring cards in from the sideboard does not turn the
 Nazgul into a short-event. It is discarded immediately upon declaration.
 
-You may have Wizards in your sideboard. You may have no more than three
+@ You may have Wizards in your sideboard. You may have no more than three
 copies of one Wizard, and one copy of each other Wizard, in your sideboard and
 play deck combined.
 
@@ -1083,7 +1086,7 @@ strike sequence.
 Two skill cards may not be declared by one character against a given
 strike.
 
-"\<Foo> only" cards can only be played by characters with the \<foo> skill.
+@ "\<Foo> only" cards can only be played by characters with the \<foo> skill.
 
 ### -= TTT =-
 
@@ -1113,7 +1116,7 @@ guard cards.
 You cannot target an opponent's character or resources with your own
 resources.
 
-A card that is played on a card continuously targets the card it is on.
+@ A card that is played on a card continuously targets the card it is on.
 
 See also Rulings by Term, Active Condition.
 
@@ -2428,3 +2431,7 @@ Wizard's Ring: Replace "Ignore any effect that would discard this item"
 with "Cannot be stored, stolen, or transferred."
 
 Woses of Eryn Vorn (minion version): Change "Man faction" to "Wose faction."
+
+---
+
+[^rulingsbyterm]: The Rulings by Term for CRF 8 are not available online. The Rulings by Term were reconstructed from CRF 7 and CRF 9.
