@@ -5,10 +5,10 @@ parent: Rulings
 grand_parent: Original Rules
 ---
 
-# Middle-earth: Collectible Card Game
+# Middle Earth: The Wizards
 
-Collected Official Rulings File
-{: .text-center .text-beta}
+{: .text-center .text-beta }
+Official Rulings
 
 Version 3[^CRF3]
 {: .text-center }
