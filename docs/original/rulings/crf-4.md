@@ -22,17 +22,17 @@ If playing in a tournament, be sure to check the tournament rulings, as some of 
 
 ## TABLE OF CONTENTS
 
-I. The Turn Sequence
+[I. The Turn Sequence](#i-turn-sequence)
 
-II. Rulings by Term
+[II. Rulings by Term](#ii-rulings-by-term)
 
-III. Timing Rulings
+[III. Timing Rulings](#iii-timing-rulings)
 
-IV. Miscellaneous Rulings
+[IV. Miscellaneous Rulings](#iv-miscellaneous-rulings)
 
-V. Tournament Rulings
+[V. Tournament Rulings](#v-tournament-rulings)
 
- VI. Card Errata and Rulings
+[VI. Card Errata and Rulings](#vi-card-errata-and-rulings)
 
 ### I. TURN SEQUENCE
 
@@ -116,12 +116,9 @@ Annotation 17: The only actions that may be declared during a strike sequence ar
 
 Annotation 18: When a defending player chooses to resolve a strike against a particular character, the only actions that may be taken by either player until the strike dice-roll is made are the following: play hazard cards that affect the strike, the attacker may decide to use any or all of his remaining -1 modifications due to strikes in excess of the company's size, a target untapped character may take a -3 modification so that he will not automatically tap, and the defending character may play resource cards that affect the strike. An action that has the condition that a target character tap, but which otherwise has an effect not outlined here, may not be declared at this point. This is true even if the recipient of the strike would be the target character tapping and thus recieve -1 to his prowess.
 
-
 Annotation 19: Following each successful strike or failed strike, a body check must be rolled (unless the failed strike has no body). However, if the strike calls for any special actions to follow it (e.g., a character wounded by "William" may be required to discard his items), these special actions are resolved before the body check. The body check is the first declared action in a nested chain of effects that immediately follows the strike dice-roll and special actions resulting from the strike. Other actions may be declared in response to a body check, in the same chain of effects, but these are limited to those actions that directly affect the body check dice-roll. E.g., Tookish Blood could not be declared in response to the body check caused by Giant Spiders wounding a Hobbit. No action may be declared in response to a special action resulting from a strike unless the special action is a dice-rolling action, i.e., a special action is generally considered synonymous with the strike dice-roll. If the special action is a dice-rolling action, an action may be declared in response to it if the action directly affects the dice-roll.
 
-
 Annotation 20: If more than one special action is to follow a strike, the defending player decides the order they are resolved.
-
 
 Annotation 21: A successful strike against a character is synonymous with that character being wounded, i.e., inverting a character card on the playing surface is not a seperate action from the successful strike. 
 
@@ -158,7 +155,6 @@ If a card must be keyed to two or more instances of a region type, those region 
 If a creature hazard resolves and there are no longer any instances of the region or site it was keyed to, then the creature is immediately discarded for no effect on play. If any instances of the region or site it was keyed to are in the site path when the creature resolves, the creature takes effect (even if those instances are not the ones that were there when the creature was declared).
 
 If you say you are done playing hazards and your opponent plays a resource before the movement/hazard phase ends, you may then continue playing hazards (assuming you have not yet reached the hazard limit).
-
 
 A creature that be played in a specific region (i.e., "Playable in Cardolan") can be played on a company using starter movement if that company's site of origin or site of destination is in that specific region.
 
@@ -574,7 +570,6 @@ Dice must be used to obtain random numbers.
 There is now a required 30 card minimum for both resources and hazards for sanctioned tournament play.
 
 Up to 3 copies of one Wizard is allowed in a play deck, or up to 2 copies of one Wizard and 1 copy of another Wizard. One copy of three different Wizards is not allowed.
-
 
 #### Deck Construction
 
