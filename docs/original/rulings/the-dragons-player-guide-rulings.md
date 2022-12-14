@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Dragons Player Guide
+title: The Dragons Player Guide Rulings
 parent: Rulings
 grand_parent: Original Rules
 ---
