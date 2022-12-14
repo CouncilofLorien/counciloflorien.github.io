@@ -35,19 +35,19 @@ some of them differ from the rulings for casual play.
 
 ## TABLE OF CONTENTS
 
-[I. The Turn Sequence](#i-turn-sequence)
+&emsp;[I. The Turn Sequence](#i-turn-sequence)
 
-[II. Rulings by Term](#ii-rulings-by-term)
+&emsp;[II. Rulings by Term](#ii-rulings-by-term)
 
-[III. Timing Rulings](#iii-timing-rulings)
+&emsp;[III. Timing Rulings](#iii-timing-rulings)
 
-[IV. Miscellaneous Rulings](#iv-miscellaneous-rulings)
+&emsp;[IV. Miscellaneous Rulings](#iv-miscellaneous-rulings)
 
-[V. Tournament Rulings](#v-tournament-rulings)
+&emsp;[V. Tournament Rulings](#v-tournament-rulings)
 
-[VI. Lidless Eye Rulings](#vi-lidless-eye-rulings)
+&emsp;[VI. Lidless Eye Rulings](#vi-lidless-eye-rulings)
 
-[VII. Card Errata and Rulings](#vii-card-errata-and-rulings)
+&emsp;[VII. Card Errata and Rulings](#vii-card-errata-and-rulings)
 
 
 ### I. TURN SEQUENCE
