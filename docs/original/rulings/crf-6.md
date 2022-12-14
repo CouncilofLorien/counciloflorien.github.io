@@ -5,7 +5,10 @@ parent: Rulings
 grand_parent: Original Rules
 ---
 
-# _Middle-earth: Collectible Card Game_<br>Collected Official Rulings File
+# Middle-earth: Collectible Card Game
+
+Collected Official Rulings File
+{: .text-center .text-beta}
 
 Version 6 current as of July 10th, 1997.
 {: .text-center }
