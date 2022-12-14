@@ -21,19 +21,19 @@ If playing in a tournament, be sure to check the tournament rulings, as some of 
 
 ## TABLE OF CONTENTS
 
-I. The Turn Sequence
+[I. The Turn Sequence](#i-turn-sequence)
 
-II. Rulings by Term
+[II. Rulings by Term](#ii-rulings-by-term)
 
-III. Timing Rulings
+[III. Timing Rulings](#iii-timing-rulings)
 
-IV. Miscellaneous Rulings
+[IV. Miscellaneous Rulings](#iv-miscellaneous-rulings)
 
-V. Tournament Rulings
+[V. Tournament Rulings](#v-tournament-rulings)
 
-VI. Card Errata and Rulings
+[VI. Card Errata and Rulings](#vi-card-errata-and-rulings)
 
-VII. Dark Minions Rulings (NEW)
+[VII. Dark Minions Rulings (NEW)](#vii-dark-minions-rulings)
 
 ## I. TURN SEQUENCE
 
