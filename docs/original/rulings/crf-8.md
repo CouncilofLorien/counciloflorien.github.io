@@ -495,107 +495,7 @@ during the Free Council.
 count for calling the Audience with Sauron, but do count at the Audience
 with Sauron.
 
-## Tournament Rulings
-
-Tournament rulings are modifications and additions to the rules
-presented in the Unlimited Edition rules book that are required for
-sanctioned Council of Lorien tournament play.
-
-#### General
-
-Dice must be used to obtain random numbers.
-
-There is a required 30 card minimum for both resources and hazards for
-sanctioned tournament play.
-
-All Ringwraith/Sauron players always have +5 unused general influence
-at all times. This bonus general influence can never be used to control
-characters.
-
-#### The Character Draft
-
-The starting character pool consists of 10 characters.
-
-Each player reveals one character at a time from their pool,
-simultaneously with their opponent. Non-duplicated characters go into the
-starting companies, duplicated characters are put aside and not allowed in
-either starting company. Each player continues until they want to stop,
-they have 20 points of mind in their starting company, or they have five
-characters in their starting company.
-
-Ringwraith players may start with 6 characters in the character draft
-If one player stops revealing characters, the other one may continue to
-reveal characters.
-
-No player may reveal a character that would bring his starting
-company's total mind over 20.
-
-When players are finished, each may put up to 10 characters into their
-deck, including characters from his starting pool that did not end up in
-the starting company.
-
-@ Characters left over from the character pool may be placed either in
-the play deck, or out of play, but may not be placed in the sideboard.
-
-#### Deck Construction
-
-Cards that can be played as either hazards or resources may count as
-either for purposes of deck construction.
-
-Each deck must contain at least 12 creatures.
-
-The following count as 1/2 a creature for deck construction: hazards
-that can be played as creatures or events, At Home Dragon manifestations,
-Ahunt Dragon manifestations, and agents. Note that agents count as
-characters in Ringwraith decks, not as 1/2 creatures.
-
-Up to 3 copies of one Wizard or Ringwraith is allowed in a play deck,
-or up to 2 copies of one and 1 copy of another. One copy each of three
-different Wizards or Ringwraiths is not allowed.
-
-You may place Ringwraiths or Wizards in your sideboard, as long as only
-one of them is duplicated in the deck and sideboard combined, and you have
-only Ringwraiths or only Wizards in the deck and sideboard combined.
-
-#### Great Secrets Buried There
-
-If you play this card as a hazard on your opponent, you must be able to
-provide your opponent with a copy of any uncommon Under-deeps sites if he
-does not have a copy in his location deck.
-
-If you give an Under-deeps site to your opponent, it will return to
-your location deck when he is done with it, unless you have also used the
-site, in which case it returns to your discard pile.
-
-#### Movement
-
-Maps of the regions of MECCG may be used in place of region cards in
-Council of Lorien tournaments. If two or more companies move on the same
-turn, then each company does not have to determine the site path to its
-new site until the beginning of it's movement/hazard phase.
-
-Wizard companies cannot use starter movement to or from sites in
-Gorgoroth. If using region movement to or from sites in Gorgoroth, they
-must move from a site in Imlad Morgul, through either Nurn or Udun, or use
-a movement enhancer like Ash Mountains or Eagle-mounts. Such sites may be
-reached normally with Under-deeps movement.
-
-#### Starting Companies
-
-Ringwraith/Sauron players may have starting companies at Dol Guldur
-and/or Minas Morgul. A Ringwraith may also be brought into play at Dol
-Guldur, Minas Morgul, or his home site.
-
-#### The Weakest Link Method
-
-If there is a tie at the Free Council, add one corruption point to each
-non-Wizard in play. Each character then makes a corruption check and
-marshalling points are recounted.
-
-Continue this until there is no longer a tie or until all non-Wizard
-characters are corrupted away.
-
-## Rulings By Term (from CRF 9, pare down)
+## Rulings By Term
 
 ### -= AAA =-
 
@@ -716,7 +616,7 @@ than what he himself can provide.
 On-guard creatures are faced by the whole company after a Burglaring
 attempt, regardless of the success of the attempt.
 
-Body Check
+#### Body Check
 
 Annotation 22: When a character fails a body check, his items may be
 immediately reassigned to unwounded characters in his company, one item per
@@ -795,9 +695,6 @@ untapped, tapped, or wounded.
 
 You can have three of a non-unique character in your deck.
 
-@ Prowess modification due to tapped and wounded status apply only
-during the strike sequence.
-
 See also Turn Sequence, Organization Phase, Followers and Playing
 Characters
 
@@ -853,9 +750,6 @@ character is not considered to fail his corruption check if a result is
 achieved that would discard him. A Wizard would not be eliminated and his
 player would not lose the game.
 
-@ A character attempting to remove a corruption card on another character
-may ignore the tapping requirement and recieve a -3 to the roll.
-
 See also Turn Sequence, Organization Phase, Storing Items.
 
 ### -= DDD =-
@@ -888,6 +782,7 @@ again by any player.
 When a card is discarded, so are all permanent-events on that card.
 Cards discarded from a player's hand must be discarded one at a time. This
 is mainly to allow a Pallando player to see each card as it is discarded.
+
 Whenever a character is discarded, all non-follower cards played with that
 character are also discarded.
 
@@ -898,10 +793,6 @@ it immediately ceases having an effect on play. \[effective 11/3/97]
 
 Dragon automatic-attacks are not considered manifestations of any unique
 Dragon.
-
-@ If a manifestation of a unique Dragon is defeated, then the autmatic-attack
-at the associated site is removed, and that site therefore loses its hoard
-status.
 
 ### -= EEE =-
 
@@ -1133,10 +1024,6 @@ Characters with combat bonuses against Nazgul also get those bonuses
 against Ringwraiths. However, other effects that affect Nazgul do not affect
 Ringwraiths.
 
-@ Ringwraith may not move from a non-Darkhaven site to another non-Darkhaven
-site unless they are using Dwar Unleashed. This means a Ringwraith may not
-move to Under-deeps sites that do not have a Darkhaven for a surface site.
-
 #### Ringwraith Follower
 
 Ringwraith followers may still use magic as printed on their card.
@@ -1287,14 +1174,112 @@ tap for a minor item only.
 Automatic-attacks that allow the revealing of creature cards are not
 stopped by Stealth or Secret Entrance.
 
-@ Creatures revealed as automatic-attacks do not count as creatures.
-
 ### -= WWW =-
 
 #### Wizard
 
 \# You may put two of the same Wizard in your deck, or you may put one copy
 each of two different Wizards in your deck.
+
+## Tournament Rulings
+
+Tournament rulings are modifications and additions to the rules
+presented in the Unlimited Edition rules book that are required for
+sanctioned Council of Lorien tournament play.
+
+#### General
+
+Dice must be used to obtain random numbers.
+
+There is a required 30 card minimum for both resources and hazards for
+sanctioned tournament play.
+
+All Ringwraith/Sauron players always have +5 unused general influence
+at all times. This bonus general influence can never be used to control
+characters.
+
+#### The Character Draft
+
+The starting character pool consists of 10 characters.
+
+Each player reveals one character at a time from their pool,
+simultaneously with their opponent. Non-duplicated characters go into the
+starting companies, duplicated characters are put aside and not allowed in
+either starting company. Each player continues until they want to stop,
+they have 20 points of mind in their starting company, or they have five
+characters in their starting company.
+
+Ringwraith players may start with 6 characters in the character draft
+If one player stops revealing characters, the other one may continue to
+reveal characters.
+
+No player may reveal a character that would bring his starting
+company's total mind over 20.
+
+When players are finished, each may put up to 10 characters into their
+deck, including characters from his starting pool that did not end up in
+the starting company.
+
+@ Characters left over from the character pool may be placed either in
+the play deck, or out of play, but may not be placed in the sideboard.
+
+#### Deck Construction
+
+Cards that can be played as either hazards or resources may count as
+either for purposes of deck construction.
+
+Each deck must contain at least 12 creatures.
+
+The following count as 1/2 a creature for deck construction: hazards
+that can be played as creatures or events, At Home Dragon manifestations,
+Ahunt Dragon manifestations, and agents. Note that agents count as
+characters in Ringwraith decks, not as 1/2 creatures.
+
+Up to 3 copies of one Wizard or Ringwraith is allowed in a play deck,
+or up to 2 copies of one and 1 copy of another. One copy each of three
+different Wizards or Ringwraiths is not allowed.
+
+You may place Ringwraiths or Wizards in your sideboard, as long as only
+one of them is duplicated in the deck and sideboard combined, and you have
+only Ringwraiths or only Wizards in the deck and sideboard combined.
+
+#### Great Secrets Buried There
+
+If you play this card as a hazard on your opponent, you must be able to
+provide your opponent with a copy of any uncommon Under-deeps sites if he
+does not have a copy in his location deck.
+
+If you give an Under-deeps site to your opponent, it will return to
+your location deck when he is done with it, unless you have also used the
+site, in which case it returns to your discard pile.
+
+#### Movement
+
+Maps of the regions of MECCG may be used in place of region cards in
+Council of Lorien tournaments. If two or more companies move on the same
+turn, then each company does not have to determine the site path to its
+new site until the beginning of it's movement/hazard phase.
+
+Wizard companies cannot use starter movement to or from sites in
+Gorgoroth. If using region movement to or from sites in Gorgoroth, they
+must move from a site in Imlad Morgul, through either Nurn or Udun, or use
+a movement enhancer like Ash Mountains or Eagle-mounts. Such sites may be
+reached normally with Under-deeps movement.
+
+#### Starting Companies
+
+Ringwraith/Sauron players may have starting companies at Dol Guldur
+and/or Minas Morgul. A Ringwraith may also be brought into play at Dol
+Guldur, Minas Morgul, or his home site.
+
+#### The Weakest Link Method
+
+If there is a tie at the Free Council, add one corruption point to each
+non-Wizard in play. Each character then makes a corruption check and
+marshalling points are recounted.
+
+Continue this until there is no longer a tie or until all non-Wizard
+characters are corrupted away.
 
 ## Card Errata and Rulings
 
