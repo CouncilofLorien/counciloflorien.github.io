@@ -599,10 +599,6 @@ All of the strikes will go against the same character.
 
 ### -B-
 
-#### Baduila
-
-–=– Read "If Baduila is discarded" as "If you choose to discard Baduila." It is something you choose to do. –=–
-
 #### Balance of Things
 
 Balance of Things may be revealed as an on-guard card so long as at least one character in the company during whose site phase Balance of Things is revealed carries at least one corruption source.
@@ -628,10 +624,6 @@ Has errata: Replace "tap the bearer during the organization phase" with "tap Boo
 #### Burglary
 
 If you fail the roll for the Burglary, you cannot then play an item.
-
-–=– The character who fails the burglary roll must face the automatic-attack as though he were a one-character company. This means he can receive no combat support other than what he himself can provide. This is a reversal of an earlier ruling. Others characters in his company cannot tap in support, etc. –=–
-
-–=– Revealing an on-guard creature or attacking with an agent can be declared when a character plays burglary. The creature or agent would attack the entire company after Burglary is resolved. Of course, the site must have an auto-attack to reveal an on-guard creature. –=–
  
 ### -C-
 
@@ -791,10 +783,6 @@ May be played against companies using region movement.
 
 Has errata: Replace "opponent draws twice" with "opponent draws up to twice"
 
-#### Great Secrets Buried There
-
-–=– The item placed under this card is considered in play for the purposes of uniqueness, just like any card placed off to the side. –=–
-
 #### Great Ship
 
 Errata: Add "Tap a character in target company during the organization phase to play Great Ship on that company." Replace "...contains a coastal sea region..." with "...contains a coastal sea region and no consecutive non-coastal sea regions..."
@@ -815,10 +803,6 @@ If used to heal a Hobbit when healing effects affect all characters in a company
 
 Cannot stop a body check.
 
-#### Helm of Her Secrecy
-
-–=– In fact, you can play multiple Helms of Her Secrecy in one chain of effects. The player must make sure that he does not take the option of playing Eowyn out of his hand until the first copy played is resolved. –=–
-
 #### Here, There, or Yonder?
 
 The ally does not have to be chosen or played until after the dice are rolled.
@@ -826,10 +810,6 @@ The ally does not have to be chosen or played until after the dice are rolled.
 #### Hermit's Hill
 
 –=– Unless a card specifically states otherwise, to play any item at a site, the site must be untapped. To play a major item here, Hermit's Hill must be untapped –=–
-
-#### Hidden Knife
-
-–=– Hidden Knife is effectively an attack. As per the rule about attacks must be the first items declared in a chain of effects, Hidden Knife must be so played. Thus, if your opponent reveals an agent during your site phase and attacks with it, you must wait until after this attack to play Hidden Knife. –=–
 
 #### Hoarmurath of Dir
 
@@ -904,8 +884,6 @@ Can be played on-guard and will trigger a corruption check when revealed in resp
 #### Lure of Nature
 
 Has errata: Replace "at the end of each movement/hazard phase" with "after all other hazards have been played."
-
-–=– The corruption checks caused by Lure of Nature happen at the end of the afflicted character's movement/hazard phase. Of course, the character's player can play resources to modify the corruption checks. The hazard player is allowed to play hazards in response, if the hazard player has enough hazard limit remaining. Hazards so played must directly affect the corruption checks caused by Lure of Nature. He can play no other hazards, no creature, no new corruption cards, etc. The spirit of Lure of Nature is that the corruption checks happen after everything else the company will face. –=–
 
 #### Lure of Power
 
@@ -1019,8 +997,6 @@ Has errata: Add "Awakened Plant."
 
 Has errata: Add "Cannot be duplicated on a given attack."
 
-–=– Can only be used on agents whose listed prowess is 13 or greater, not whose prowess plus dice roll is 13 or greater. Presently, there are no agents with this listed prowess. –=–
-
 #### The One Ring
 
 Can be used multiple times in a turn if the corruption checks are successful.
@@ -1108,8 +1084,6 @@ Has errata: Remove "no modifications to the influence check are required." with 
 His special ability may only be used during the site phase.
 
 Can make the attempt by himself.
-
-–=– Using this ally to make an influence attempt does not tap a site, and may be done if his company is at a tapped site. –=–
 
 #### Rumor of Wealth
 
@@ -1211,12 +1185,6 @@ Traitor cannot be revealed as an on-guard card.
 
 Has errata: Replace "Redhorn Gap" with "Redhorn Gate."
 
-#### True Fána
-
-–=– Combat modifiers (things that modify prowess only against a strike) do not count when determining the Wizard's prowess. For example, Risky Blow, tapped or wounded status, etc. do not count. Weapons do count. –=–
-
-–=– When this spell is used against an agent, the agent does not receive the two 6-sided dice bonus. –=–
-
 #### Twilight
 
 Has errata: Add "This card may be played at any time during any player's turn."
@@ -1263,8 +1231,6 @@ If you leave a tapped Minas Tirith while this card is in play, Minas Tirith will
 
 –=– Can be used to recover a Wizard discarded with Sacrifice of Form. –=–
 
-–=– You can play your Wizard at the Haven when you store this card even if Saw Further and Deeper is in play. –=–
-
 #### Wizard's Laughter
 
 Has errata: Change "Wizard only." to "Wizard only during opponent's site phase."
@@ -1292,9 +1258,7 @@ Agents (clarification)--Agents do not work for your Wizard. As any hazard, agent
 Agents (clarification)---Agents cannot attack or influence each other.
  
 Agents (clarification)---Agent attacks are not keyed to a site, and thusly, cannot be cancelled with Not at Home, etc.
- 
-Agent movement (clarification)---A tapped agent can move. Tapping is not condition of agent movement, it is an effect of agent movement.
- 
+  
 Influencing with an Agent (clarification)---An influence attempt by an agent does not count against the hazard limit in and of itself. Nor does it count as an agent action. Playing a hazard event that allows an agent to make an influence attempt does count against the hazard limit.
  
 Attacking with an Agent (clarification)---Playing a card that makes an agent attack is considered the attack's declaration. Thus, if an agent is face down when Cunning Foes is played on him, he receives all the face down bonuses.
@@ -1310,8 +1274,6 @@ Under-deep site movement (clarification)---Goldberry cannot prevent a company fr
 Taking Prisoner---Allies cannot be targetted to be taken prisoner, and otherwise cannot be taken prisoner.
  
 Rescue Attempts---At an Under-deeps site, after a successul rescue attempt, a character can tap for a minor item only. This is despite the fact that with the play of resources that tap an Under-deeps site, a character could tap for any playable item.
-
-Baduila (clarification)---Read "If Baduila is discarded" as "If you choose to discard Baduila." It is something you choose to do.
 
 Golodhros (clarification)---He may use his special influence ability only during an opponent's movement/hazard phase, not during the site phase. His tapping to use his special ability does not count against the hazard limit.
  
@@ -1334,7 +1296,5 @@ The Old Thrush (clarification)---Can only be used on agents whose listed prowess
 The White Tree (clarification)---The White Tree in play does not at all restrict agent movement. The White Tree makes Minas Tirith a Haven for the purposes of playing hazards, but an agent moving to Minas Tirith is not playing the agent. Playing a card is the action of taking it out of your hand.
 
 The Windlord Found Me (clarification)---Can be used to recover a Wizard discarded with Sacrifice of Form.
-
-The Windlord Found Me (clarification)---You can play your Wizard at the Haven when you store this card even if Saw Further and Deeper is in play.
 
 The Under-galleries (clarification)---You cannot play Morannon at The Under-galleries. However, you can play Ancient Stair from Morannon, move to The Under-galleries, and zip back to Morannon at the end of the turn.
