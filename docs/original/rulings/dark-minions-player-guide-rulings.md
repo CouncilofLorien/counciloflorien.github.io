@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dark Minions Player Guide
+title: Dark Minions Player Guide Rulings
 parent: Official Rulings
 grand_parent: Original Rules
 ---
