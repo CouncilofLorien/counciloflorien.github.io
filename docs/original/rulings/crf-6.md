@@ -6,8 +6,9 @@ grand_parent: Original Rules
 ---
 
 # _Middle-earth: Collectible Card Game_<br>Collected Official Rulings File
-{: .text-center }
+
 Version 6 current as of July 10th, 1997.
+{: .text-center }
 
 If playing in a tournament, be sure to check Section III: Tournament
 Rulings first, as some of them differ from the rulings for casual play.
