@@ -1340,4 +1340,4 @@ The Under-galleries (clarification)---You cannot play Morannon at The Under-gall
 
 ---
 
-[^CRF3]: A source of CRF version 3 is unavailable but the available copy of CRF labeled "version 2" from ICE's website appears to include later changes (the updates between the MEDM Player Guide and the METD Player Guide) and earlier changes both marked as new (-=-). These later updates are given here as "CRF 3." 
+[^CRF3]: A source of CRF version 3 is unavailable online. The copy of the CRF labeled "version 2" from ICE's archived website includes earlier and later changes both marked as new (-=-). Specifically, the updates between the MEDM Player Guide and the METD Player Guide. These later updates are given here as "CRF 3." 
