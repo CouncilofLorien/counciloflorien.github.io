@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "CRF 7"
+title: "CRF 8"
 parent: Rulings
 grand_parent: Original Rules
 ---
@@ -10,13 +10,13 @@ grand_parent: Original Rules
 Collected Official Rulings File
 {: .text-center .text-beta}
 
-Version 7 current as of October 23, 1997
+Version 8 current as of October 23, 1997
 {: .text-center }
 
 ## Collected Rulings
 
 This booklet is a collection of clarifications to the rules for the
-Middle-earth: Collectible Card Game, up to October 23, 1997. Some of these
+_Middle-earth: Collectible Card Game_, up to October 23, 1997. Some of these
 clarifications are considered errata to the rules or cards, and are noted
 as such. The Turn Sequence and Rulings by Term sections are specifically
 considered clarifications to the rules, and are therefore overridden by
