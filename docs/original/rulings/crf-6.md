@@ -1059,425 +1059,447 @@ the starting parties, duplicated charcters are put aside and not allowed
 in either starting company. Each player continues until they want to
 stop, they have 20 points of mind in their starting company, or they
 have five characters in their starting company.
+
 Ringwraith players may start with 6 characters in the character
-draft, not
-just 5.
+draft, not just 5.
+
 If one player stops revealing characters, the other one may continue
 to play charcters.
+
 No player may reveal a character that would bring his starting
 company's total mind over 20.
+
 When players are finished, each may put up to 10 characters into
 their deck, including characters from his starting pool that did not end
 up in the starting company.
 
-Great Secrets Buried There
+#### Great Secrets Buried There
 
 If you play this card as a hazard on your opponent, you must be able
 to provide your opponent with a copy of any uncommon Under-deeps sites
 if he does not have a copy in his location deck.
 
-Map Movement
+#### Map Movement
 
 Maps of the regions of MECCG may be used in place of region cards in
 Council of Lórien tournaments. If two companies move on the same turn,
 then the second company does not have to determine the site path to its
 new site until the begining of it's movement/hazard phase.
 
-The Weakest Link Method
+#### The Weakest Link Method
 
 If there is a tie at the Free Council, add one corruption point to
 each non-Wizard in play. Each character then makes a corruption check
 and marshalling points are recounted.
+
 Continue this until there is no longer a tie or until all non-Wizard
 characters are corrupted away.
 
-V. Card Errata and Rulings
--A-
+## V. Card Errata and Rulings
 
-Abductor
+### -A-
+
+#### Abductor
 
 Treat character discarded by Abductor to be discarded but not
 eliminated.
 
-Akhôrahil
+#### Akhôrahil
 
 Card Erratum: Change "...gives -1 penalty to one..." to "...modifies any
 one character's body by -1 for the rest of the turn.
 
-Alatar
+#### Alatar
 
 Card Erratum: Change ":he must tap and make a corruption check
 immediately following the attack." to ": he must make a corruption check
 immediately following the attack, and, if untapped, he must tap."
+
 Alatar stays with a company if he uses his special ability to aid
 that company.
+
 Alatar can force someone to draw 0 cards when he moves.
+
 When Alatar uses his special ability he must face a strike, and this
 can interfere with the attacker assigning a strike.
+
 Alatar can use his "teleport" ability if he is wounded, tapped, or
 untapped. Alatar always faces a strike when he teleports, regarless of
 his wounded or tapped status. Alatar must teleport and declare he is
 facing a strike before any other strikes are assigned.
+
 Allies Alatar controls are discarded when he teleports.
 
-Align Palantír
+#### Align Palantír
 
 Card Erratum: Add "May not be duplicated on a given Palantír."
 Align Palantír can be stored.
 
-Army of the Dead
+#### Army of the Dead
 
 Card Erratum: Add "May not be influenced by an opponent."
 
-A Short Rest
+#### A Short Rest
 
 This card only allows the extra card draw for moving companies that
 actually have a site path. If a company moves with Eagle-mounts, for
 example, it does not have a site path and does not trigger A Short Rest.
 Thank you, Wolfgang, for illustrating this point.
 
-Assassin
+#### Assassin
 
 All of the strikes will go against the same character.
+
 If an attack from Assassin is given more than one strike, each
 additional strike becomes an excess strike (-1 prowess modification)
 against the attacked character. An Assassin can never assign strikes to
 more than one character.
+
 You may decide to cancel one of the attacks after facing another
 attack.
 
-Aware of Their Ways
+#### Aware of Their Ways
 
 Consider sites to be unique cards for the play of this card.
 
--B-
+### -B-
 
-Baduila
+#### Baduila
 
 Read "If Baduila is discarded" as "If you choose to discard Baduila."
 It is something you choose to do.
 
-Balance of Things
+#### Balance of Things
 
 Balance of Things may be revealed as an on-guard card so long as at
 least one character in the company during whose site phase Balance of
 Things is revealed carries at least one corruption source.
 
-Balrog of Moria
+#### Balrog of Moria
 
 The "in addition" section of Balrog of Moria is not used if Galadriel
 is out of play, even if she is eliminated.
+
 You cannot get the MP from a Balrog of Moria that you played.
 
-Bane of the Ithil-stone
+#### Bane of the Ithil-stone
 
 Bane of the Ithil-stone will only cancel effects outside of normal
 play as outlined in the rules. It will not stop you from drawing cards
 when moving or discarding and drawing at the end of the turn. It will
 not stop getting cards from the sideboard. It will stop looking thourgh
 the discard piles or play decks.
+
 If a card has multiple effects, Bane will only cancel those effects
 that concern searching through decks and discard piles.
 
-Bill the Pony
+#### Bill the Pony
 
 Card Erratum: The body should be 10, not 6.
+
 Bill's special ability may not be used at an under-deeps site.
 
-Black Rider
+#### Black Rider
 
 This card does not allow Ringwraiths to use region movement.
 
-Book of Mazarbul
+#### Book of Mazarbul
 
 Card Erratum: Replace "tap the bearer during the organization phase"
 with "tap Book of Mazarbul during your organization phase."
 
-Burglary
+#### Burglary
 
 If you fail the roll for the Burglary, you cannot then play an item.
 
--C-
+### -C-
 
-Chance of Being lost
+#### Chance of Being lost
 
 Chance of Being Lost will change your site path.
 
-Corsairs of the Umbar
+#### Corsairs of the Umbar
 
 Card Erratum: Add "May also be played at any sites in Elven Shores,
 Eriadoran Coast, Andrast Coast, Bay of Belfalas, or Mouths of the
 Anuin."
 
-Cracks of Doom
+#### Cracks of Doom
 
 Card Erratum: Add "Only playable during the site phase." Remove
 "Otherwise, discard the One Ring."
+
 The character who makes the corruption check must be bearing The One
 Ring at the time, or else Cracks of Doom has no effect.
 
-Crown of Flowers
+#### Crown of Flowers
 
 Crown of Flowers will be discarded by Doors of Night.
 
-Cruel Caradhras
+#### Cruel Caradhras
 
 Card Erratum: Replace "Minas Morgul" with "Imlad Morgul."
 This card can be played on a company using region movement to leave a
 site in an affected region. This is a reversal of a previous ruling
 
--D-
+### -D-
 
-Deeper Shadow
+#### Deeper Shadow
 
 Card Erratum: This is a short-event, not a long-event.
 
-Deftness of Agility
+#### Deftness of Agility
 
 The extra strike is dealt with in a seperate strike sequence.
 
-Despair of the Heart
+#### Despair of the Heart
 
 @ The corruption check occurs before the body check.
 
-Dodge
+#### Dodge
 
 Card Erratum: Replace "his body check is modified by -1." with "his
 body is modified by -1 for the resulting body check."
 
-Dragon's Blood
+#### Dragon's Blood
 
 If the body check forced by Dragon's Blood fails, the character is
 not wounded.
+
 No body check is required if the affected strike is ineffectual.
 
-Dragon's Desolation
+#### Dragon's Desolation
 
 Playing Dragon's Desolation to make a Dragon playable at a Ruins &
 Lairs does not necessarilly require you to play a Dragon later in the
 turn.
 
-Dragon's Hunger
+#### Dragon's Hunger
 
 Card Erratum: Replace "Otherwise, the attack is cancelled." with
 "Otherwise, the attack is cancelled and the opponent must reveal his
 hand."
+
 This card can be played regardless of how much of the hazard limit is
 used up, and may also be played against an automatic-attack. The
 opponent must discard a hazard creature from his hand if he has one.
 
-Dreams of Lore
+#### Dreams of Lore
 
 Does not have to be stored to recieve the marshalling points.
 
-Drowning Seas
+#### Drowning Seas
 
 Card Erratum: Remove "Cannot be duplicated."
 
-Dwar Unleashed
+#### Dwar Unleashed
 
 Dwar must already be in a mode (Fell Rider, Black Rider, or Heralded
 Lord) to use this card.
 
-Dwarven Rings (all)
+#### Dwarven Rings (all)
 
 Give +7 to direct influence.
 
-Dwarven Ring of Barin's Tribe
+#### Dwarven Ring of Barin's Tribe
 
 The site has to be untapped to use this ring.
 
-Dwarven Ring of Bavor's Tribe
+#### Dwarven Ring of Bavor's Tribe
 
 Card Erratum: One "reshuffle the play deck" is sufficient.
 
-Dwarven Ring of Druin's Tribe
+#### Dwarven Ring of Druin's Tribe
 
 Card Erratum: One "reshuffle the play deck" is sufficient.
 
-Dwarven Ring of Thelor's Tribe
+#### Dwarven Ring of Thelor's Tribe
 
 Card Erratum: Values in parenthesis and brackets apply to Dwarf
 bearer. The prowess/body modifications should read: "+2(4)/+1."
 
-Dwarven Ring of Thrar's Tribe
+#### Dwarven Ring of Thrar's Tribe
 
 Card Erratum: Values in parenthesis and brackets apply to Dwarf
 bearer. The prowess/body modifications should read: "+2(4)/+1."
 
--E-
+### -E-
 
-Elf-song
+#### Elf-song
 
 When Elf-song saves a character from being discarded it also saves
 that character's items.
 
-Elven Cloak
+#### Elven Cloak
 
 Can cancel a strike keyed to two or more wilderness.
 
-Emerald of the Mariner
+#### Emerald of the Mariner
 
 The Emerald is considered a source of 0 corruption.
 
-Ent-draughts
+#### Ent-draughts
 
 Card Erratum: Replace "as a minor item" with "in addition to an ally
 or faction which has been succesfully been played at Wellinghall."
 
-Escape
+#### Escape
 
 Cannot be played on a wounded character.
 
-Evenstar
+#### Evenstar
 
 Can be played even if there are no Wilderness in play.
 
-Eye of Sauron
+#### Eye of Sauron
 
 With Doors of Night in play Eye of Sauron only gives +3 total to the
 prowess of automatic-attacks.
 
--F-
+### -F-
 
-Favor of the Valar
+#### Favor of the Valar
 
 Favor of the Valar requires you to draw 8 cards, not to your hand
 size.
 
-Fell Beast
+#### Fell Beast
 
-This card can be played and resolved before any Nazgűl is played with
-it. A Nazgűl must be played as the first declared action in the chain of
-effects following the resolution of Fell Beast. If a Nazgűl is not
+This card can be played and resolved before any Nazgul is played with
+it. A Nazgul must be played as the first declared action in the chain of
+effects following the resolution of Fell Beast. If a Nazgul is not
 played immediately following the resolution of this card, this card is
 returned to its player's hand. This card cannot be played for no effect
-just to discard it. This card can be played on an existing Nazgűl
+just to discard it. This card can be played on an existing Nazgul
 attack, but the extra playability this card provides would not apply.
 
-Fellowship
+#### Fellowship
 
 Can be duplicated on a given company.
 
-Fell Rider
+#### Fell Rider
 
 This card does not allow Ringwraiths to use region movement.
 
-Fever of Unrest
+#### Fever of Unrest
 
 The Dragon played is not considered keyed to anything.
 
-Foul Fumes
+#### Foul Fumes
 
 Will tap all sites in play that meet the requirements.
+
 @ Foul Fumes will tap a site when either the site is revealed or Foul
 Fumes comes into play, but will not continually keeps sites tapped.
 
--G-
+### -G-
 
-Gandalf
+#### Gandalf
 
 Must be in the same company as the ring he tests.
 
-Giant
+#### Giant
 
 Card Erratum: Add "Giant."
 
-Goldberry
+#### Goldberry
 
 No player may assign strikes to Goldberry
+
 You may tap Goldbery to cancel an effect declared earlier in the same
 chain of effects that would return Goldberry's company to its site of
 origin.
+
 Goldberry cannot prevent a company from returning to its site of
 origin that failed its roll to move to an adjacent Under-deeps site.
 
-Gollum
+#### Gollum
 
 The text on Gollum is an ability that you can choose to use, not an
 effect that happens automatically.
 
-Gollum's Fate
+#### Gollum's Fate
 
 This card is considered to target both The One Ring and Gollum.
 
-Golodhros
+#### Golodhros
 
 He may use his special influence ability only during an opponent's
 movement/hazard phase, not during the site phase. His tapping to use his
 special ability does not count against the hazard limit.
 
-Great Goblin
+#### Great Goblin
 
 Card Erratum: "Unique. Orc. One Strike"
 May be played against companies using region movement.
 
-Great-road
+#### Great-road
 
 Card Erratum: Replace "opponent draws twice" with "opponent draws up
 to twice"
 
-Great Secrets Buried There
+#### Great Secrets Buried There
 
 The item placed under this card is considered in play for the
 purposes of uniqueness.
 
-Great Ship
+#### Great Ship
 
 Card Erratum: Add "Tap a character in target company during the
 organization phase to play Great Ship on that company." Replace
 "...contains a coastal sea region..." with "...contains a coastal sea
 region and no consecutive non-coastal sea regions..."
+
 Allows the cancelling of one creature or the cancelling and
 discarding of an event that targets the company in question or an entity
 associated with that company.
 
-Greed
+#### Greed
 
 Is triggered by a special ring item being played, but not by items
 being transfered.
 
-Gwaihir
+#### Gwaihir
 
 Card Erratum: Should read "you may discard Gwaihir during the
 organization phase to allow his company..."
 
--H-
+### -H-
 
-Halfling Strength
+#### Halfling Strength
 
 If used to heal a Hobbit when healing effects affect all characters
 in a company, it will heal all other wounded characters in the company.
 
-Healing Herbs
+#### Healing Herbs
 
 Cannot stop a body check.
 
-Helm of Her Secrecy
+#### Helm of Her Secrecy
 
 You can play multiple Helms of Her Secrecy in one chain of effects.
 The player must make sure that he does not take the option of playing
 Eowyn out of his hand until the first copy played is resolved.
 
-Heralded Lord
+#### Heralded Lord
 
 This card does not allow Ringwraiths to use region movement.
 
-Here is a Snake
+#### Here is a Snake
 
 Here is a Snake does not prevent the use of hazards already on the
 table.
 
-Here, There, or Yonder?
+#### Here, There, or Yonder?
 
 The ally does not have to be chosen or played until after the dice
 are rolled.
 
-Hermit's Hill
+#### Hermit's Hill
 
 To play a major item here, Hermit's Hill must be untapped
 
-Hidden Knife
+#### Hidden Knife
 
 Hidden Knife is effectively an attack. As per the rule about attacks
 must be the first items declared in a chain of effects, Hidden Knife
@@ -1485,118 +1507,132 @@ must be so played. So if your opponent reveals an agent during your site
 phase and attacks with it, you must wait until after this attack to play
 Hidden Knife.
 
-Hoarmurath of Dir
+#### Hoarmurath of Dir
 
 Can affect an automatic-attack.
 
-Horses
+#### Horses
 
 Card Erratum: Add "Playable only at the end of the organization
 phase."
 
-Hunt, The
+#### Hunt, The
 
 The Hunt cannot be used on Nazguls who are in play as permanent-
 events.
 
-Huorn
+#### Huorn
 
 Card Erratum: Add "Awakened Plant."
 
--I-
+### -I-
 
-Ice-orcs
+#### Ice-orcs
 
 Card Erratum: Change the Shadow-hold symbol into a Ruins & Lairs
 symbol.
 
-Incite Denizens
+#### Incite Denizens
 
 When copying an attack put on the site by another card it will not
 copy any other effects of the card.
+
 When copying an attack put on the site by another card, the Incite
 Denizens attack will disappear if the other card is discarded.
 
-Indűr Dawndeath
+#### Indur Dawndeath
 
 The attacker chooses which item is discarded if the target has more
 than one.
+
 @ Only one wounded character has to discard an item, and the hazard
 player chooses which character.
 
-Ioreth
+#### Ioreth
 
 Card Erratum: Replace "Healing card" with "Healing effect."
+
 Will not duplicate the untap portion of a healing effect on tapped
 but unwounded characters.
 
--K-
+### -K-
 
-Khaműl the Easterling
+#### Khaműl the Easterling
 
 The number of cards discarded is set at the time of declaration.
 The cards are discarded from your opponent's hand.
 
--L-
+### -L-
 
-Leaf Brooch
+#### Leaf Brooch
 
 The item being replaced by the Leaf Brooch being discarded must be in
 play to satisfy any targetting restrictions. When it comes time to
 discard that item, discard Leaf Brooch instead.
+
 If used to replace a gold ring after a successful test, the bearer of
 the gold ring item gets the special ring item, not the bearer of the
 Leaf Brooch.
 
-Leaflock
+#### Leaflock
 
 Allows the cancelling of one creature or the cancelling and
 discarding of an event that targets the company in question or an entity
 associated with that company.
 
-The Lidless Eye
+#### The Lidless Eye
 
 Playing this card discards its players Bade to Rule and prevents him
 from subsequently playing Bade to Rule.
 
-Long Dark Reach
+#### Long Dark Reach
 
 The creature does not count against the hazard limit.
 If the creature is keyable only to regions by name, that is
 sufficient.
+
 A creature must be played if there is one available.
 
-Long Winter
+#### Long Winter
 
 Affects all sites in play that with two Wilderness in their site
 path.
 
-Lucky Search
+#### Lucky Search
 
 Card Erratum: Replace "Discard all revealed cards except the item."
 with "Reshuffle all revealed cards except the item back into the play
 deck." Add at the end of the first paragraph "Discard item if the scout
 is wounded by this attack."
+
 May be played at a tapped site.
+
 You are not allowed a minor item after the Lucky Search item.
+
 When the scout faces the attack they are tapped and have the item.
+
 Copies of unique items in play are ignored when turning over cards.
+
 Does not exhaust the play deck.
 
-Lure of Expedience
+#### Lure of Expedience
 
 Will trigger when a gold ring item is tested and a special item is
 successfully played.
+
 Will trigger when an item is transferred.
+
 Can be played on-guard and will trigger a corruption check when
 revealed in response to an item played.
 
-Lure of Nature
+#### Lure of Nature
 
 Card Erratum: Replace "at the end of each movement/hazard phase" with
 "after all other hazards have been played."
+
 Corruption checks from Lure of Nature do not trigger if its bearer's
 company returns to its site of origin.
+
 The corruption checks caused by Lure of Nature happen at the end of
 the afflicted character's movement/hazard phase. Of course, the
 character's player can play resources to modify the corruption checks.
@@ -1605,91 +1641,95 @@ player has enough hazard limit remaining. Hazards so played must
 directly affect the corruption checks caused by Lure of Nature. He can
 play no other hazards, no creature, no new corruption cards, etc.
 
-Lure of Power
+#### Lure of Power
 
 This card is in no way affected by an influence attempt of an agent.
+
 @ Two Lure of Powers only force one check at -4, and both are
 discarded.
 
--M-
+### -M-
 
-Magical Harp
+#### Magical Harp
 
 Can be used at the Free Council.
 
-Mallorn
+#### Mallorn
 
 Card Erratum: The first sentence should read: "Playable at Bag End
 only if Earth of Galadriel's Orchard is stored there."
 
-Many Foes He Fought
+#### Many Foes He Fought
 
 The penalty is -0/-0 for the first strike, -1/-1 for the second, -2/-
 2 for the third, and so on.
+
 The penalties on the card are cumulative with the normal combat
 penalties.
 
-Many Sorrows Befall
+#### Many Sorrows Befall
 
 Cannot be played on-guard.
 
-Marvels Told
+#### Marvels Told
 
 Cannot be played on a card that has not yet resolved.
 
-Master of Water, Wood & Hill
+#### Master of Water, Wood & Hill
 
 The sage does not have to be in a moving company whose site path is
 affected.
 
-Mirror of Galadriel
+#### Mirror of Galadriel
 
 Only playable if you currently have a company at Lórien.
 
-Moon is Dead, The
+#### Moon is Dead, The
 
 The second automatic-attack goes away if the Moon is Dead is
 discarded before the attack is faced.
 
-Morannon
+#### Morannon
 
 Card Erratum: Should read "This card is used as a Dark-hold site card
 in the region of Udun that is moved to..."
 
-More Alert than Most
+#### More Alert than Most
 
 The minimum of one strike still applies while Gates of Morning is in
 play.
 
-More Sense than You
+#### More Sense than You
 
 If there is only one character in the company, the attack is
 discarded without effect but not cancelled.
 
-Morgul-horse
+#### Morgul-horse
 
-To bring a Nazgűl permanent-event back into your hand, Morgul-horse
-must be declared after tapping the Nazgűl is declared and before it
+To bring a Nazgul permanent-event back into your hand, Morgul-horse
+must be declared after tapping the Nazgul is declared and before it
 resolves.
+
 The alternative effect of this card can be played and resolved before
-any Nazgűl is played with it. A Nazgűl must be played as the first
+any Nazgul is played with it. A Nazgul must be played as the first
 declared action in the chain of effects following the resolution of the
-alternative effect of Morgul-horse. If a Nazgűl is not played
+alternative effect of Morgul-horse. If a Nazgul is not played
 immediately following the resolution of this card, this card is returned
 to its player's hand. This card cannot be played for no effect just to
 discard it.
 
-Morgul-knife
+#### Morgul-knife
 
 May not be played on a character who has already had a corruption
 card played on them this turn.
+
 The corruption is recieved immediately following the attack.
 
-Morgul Night
+#### Morgul Night
 
 Morgul Night is not discarded if Doors of Night leaves play.
 
-Mountains of Shadow
+#### Mountains of Shadow
 
 Facing the attack is not required if using the "otherwise..."
 section.
