@@ -1810,13 +1810,13 @@ Vails Flung Away
 
 This card has errata. Each body check is modified by -1, not +1.
 
-VII. Card Errata and Rulings
+## VII. Card Errata and Rulings
 
 
--A-
+### -A-
 
 
-Abductor
+#### Abductor
 
 
 Treat character discarded by Abductor to be discarded but not eliminated.
@@ -1825,14 +1825,14 @@ Treat character discarded by Abductor to be discarded but not eliminated.
 All non-follower cards are discarded along with the character.
 
 
-Akhorahil
+#### Akhorahil
 
 
 Has errata: Change "...gives -1 penalty to one..." to "...modifies any one
 character's body by -1 for the rest of the turn.
 
 
-Alatar
+#### Alatar
 
 
 Alatar stays with a company if he uses his special ability to aid that company.
@@ -1851,12 +1851,12 @@ wounded or tapped status. Alatar must teleport (and declare he is facing a
 strike) before any other strikes are assigned.
 
 
-(errata)-Change ":he must tap and make a corruption check immediately
+(errata)---Change ":he must tap and make a corruption check immediately
 following the attack." to ": he must make a corruption check immediately
 following the attack, and, if untapped, he must tap."
 
 
-Align Palantir
+#### Align Palantir
 
 
 Align Palantir can be stored.
@@ -1865,13 +1865,13 @@ Align Palantir can be stored.
 Has errata: Add "May not be duplicated on a given Palantir."
 
 
-Army of the Dead
+#### Army of the Dead
 
 
 Has errata: Add "May not be influenced by an opponent."
 
 
-A Short Rest
+#### A Short Rest
 
 
 This card only allows the extra card draw for moving companies that
@@ -1880,7 +1880,7 @@ example, it does not have a site path and does not trigger A Short Rest.
 Thank you, Wolfgang, for illustrating this point.
 
 
-Assassin
+#### Assassin
 
 
 All of the strikes will go against the same character.
@@ -1895,23 +1895,23 @@ character.
 You may decide to cancel one of the attacks after facing another attack.
 
 
-Aware of Their Ways
+#### Aware of Their Ways
 
 
 -=-Consider sites to be unique cards for the play of this card.
 
 
--B-
+### -B-
 
 
-Baduila
+#### Baduila
 
 
 Read "If Baduila is discarded" as "If you choose to discard Baduila." It is
 something you choose to do.
 
 
-Balance of Things
+#### Balance of Things
 
 
 Balance of Things may be revealed as an on-guard card so long as at least
@@ -1919,7 +1919,7 @@ one character in the company during whose site phase Balance of Things is
 revealed carries at least one corruption source.
 
 
-Balrog of Moria
+#### Balrog of Moria
 
 
 The "in addition" section of Balrog of Moria is not used if Galadriel is
@@ -1929,7 +1929,7 @@ out of play, even if she is eliminated.
 You cannot get the MP from a Balrog of Moria that you played.
 
 
-Bane of the Ithil-stone
+#### Bane of the Ithil-stone
 
 
 Bane of the Ithil-stone will only cancel effects outside of normal play. It
@@ -1951,7 +1951,7 @@ If a card has multiple effects, Bane will only cancel those effects that
 concern searching through decks and discard piles.
 
 
-Bill the Pony
+#### Bill the Pony
 
 
 Has errata: The body should be 10, not 6.
@@ -1960,14 +1960,14 @@ Has errata: The body should be 10, not 6.
 -=-May not be used at an under-deeps site.
 
 
-Book of Mazarbul
+#### Book of Mazarbul
 
 
 Has errata: Replace "tap the bearer during the organization phase" with
 "tap Book of Mazarbul during your organization phase."
 
 
-Burglary
+#### Burglary
 
 
 If you fail the roll for the Burglary, you cannot then play an item.
@@ -1986,23 +1986,23 @@ entire company after Burglary is resolved. Of course, the site must have an
 auto-attack to reveal an on-guard creature.
 
 
--C-
+### -C-
 
 
-Chance of Being lost
+#### Chance of Being lost
 
 
 Chance of Being Lost will change your site path.
 
 
-Corsairs of the Umbar
+#### Corsairs of the Umbar
 
 
 Has errata: Add "May also be played at any sites in Elven Shores, Eriadoran
 Coast, Andrast Coast, Bay of Belfalas, or Mouths of the Anuin."
 
 
-Cracks of Doom
+#### Cracks of Doom
 
 
 Has errata: Add "Only playable during the site phase." Remove "Otherwise,
@@ -2013,13 +2013,13 @@ The character who makes the corruption check must be bearing The One Ring
 at the time, or else Cracks of Doom has no effect.
 
 
-Crown of Flowers
+#### Crown of Flowers
 
 
 Crown will be discarded by Doors of Night.
 
 
-Cruel Caradhras
+#### Cruel Caradhras
 
 
 Errata: Replace "Minas Morgul" with "Imlad Morgul."
@@ -2029,23 +2029,23 @@ Errata: Replace "Minas Morgul" with "Imlad Morgul."
 site in an affected region.  This is a reversal of a previous ruling
 
 
--D-
+### -D-
 
 
-Deftness of Agility
+#### Deftness of Agility
 
 
 The extra strike is dealt with in a seperate strike sequence.
 
 
-Dodge
+#### Dodge
 
 
 Has errata: Replace "his body check is modified by -1." with "his body is
 modified by -1 for the resulting body check."
 
 
-Dragon's Blood
+#### Dragon's Blood
 
 
 If the body check forced by Dragon's Blood fails, the character is not wounded.
@@ -2054,14 +2054,14 @@ If the body check forced by Dragon's Blood fails, the character is not wounded.
 No body check is required if the affected strike is ineffectual.
 
 
-Dragon's Desolation
+#### Dragon's Desolation
 
 
 Playing Dragon's Desolation to make a Dragon playable at a Ruins & Lairs
 does not necessarilly require you to play a Dragon later in the turn.
 
 
-Dragon's Hunger
+#### Dragon's Hunger
 
 
 Errata: Replace "Otherwise, the attack is cancelled." with "Otherwise, the
@@ -2073,160 +2073,160 @@ up (and also against an automatic-attack), and opponent must discard a
 hazard creature from his hand if he has one.
 
 
-Dreams of Lore
+#### Dreams of Lore
 
 
 Does not have to be stored to recieve the marshalling points.
 
 
-Drowning Seas
+#### Drowning Seas
 
 
 Has errata: Remove "Cannot be duplicated."
 
 
-Dwarven Rings (all)
+#### Dwarven Rings (all)
 
 
 Give +7 to direct influence.
 
 
-Dwarven Ring of Barin's Tribe
+#### Dwarven Ring of Barin's Tribe
 
 
 The site has to be untapped to use this ring.
 
 
-Dwarven Ring of Bavor's Tribe
+#### Dwarven Ring of Bavor's Tribe
 
 
 Has errata: One "reshuffle the play deck" is sufficient.
 
 
-Dwarven Ring of Druin's Tribe
+#### Dwarven Ring of Druin's Tribe
 
 
 Has errata: One "reshuffle the play deck" is sufficient.
 
 
-Dwarven Ring of Thelor's Tribe
+#### Dwarven Ring of Thelor's Tribe
 
 
 Has errata: Values in parenthesis and brackets apply to Dwarf bearer. The
 prowess/body modifications should read: "+2(4)/+1."
 
 
-Dwarven Ring of Thrar's Tribe
+#### Dwarven Ring of Thrar's Tribe
 
 
 Has errata: Values in parenthesis and brackets apply to Dwarf bearer. The
 prowess/body modifications should read: "+2(4)/+1."
 
 
--E-
+### -E-
 
 
-Elf-song
+#### Elf-song
 
 
 When Elf-song saves a character from being discarded it also saves that
 character's items.
 
 
-Elven Cloak
+#### Elven Cloak
 
 
 Can cancel a strike keyed to double (or multiple) wilderness.
 
 
-Emerald of the Mariner
+#### Emerald of the Mariner
 
 
 The Emerald is considered a source of 0 corruption.
 
 
-Ent-draughts
+#### Ent-draughts
 
 
 Has errata: Replace "as a minor item" with "in addition to an ally or
 faction which has been succesfully been played at Wellinghall."
 
 
-Escape
+#### Escape
 
 
 Cannot be played on a wounded character.
 
 
-Evenstar
+#### Evenstar
 
 
 Can be played even if there are no Wilderness in play.
 
 
-Eye of Sauron
+#### Eye of Sauron
 
 
 With Doors of Night in play Eye of Sauron only gives +3 total to the
 prowess of automatic-attacks.
 
 
-Eowyn
+#### Eowyn
 
 
 The body refered to in Eowyn's text (and other female characters) is the
 Nazgul's body.
 
 
--F-
+### -F-
 
 
-Fell Beast
+#### Fell Beast
 
 
-This card can be played and resolved before any Nazg�l is played with it. A
-Nazg�l must be played as the first declared action in the chain of effects
-following the resolution of Fell Beast. If a Nazg�l is not played
+This card can be played and resolved before any Nazgul is played with it. A
+Nazgul must be played as the first declared action in the chain of effects
+following the resolution of Fell Beast. If a Nazgul is not played
 immediately following the resolution of this card, this card is returned to
 its player's hand. This card cannot be played for no effect just to discard
-it. This card can be played on an existing Nazg�l attack, but the extra
+it. This card can be played on an existing Nazgul attack, but the extra
 playability this card provides would not apply.
 
 
-Fellowship
+#### Fellowship
 
 
 Can be duplicated on a given company.
 
 
-Fever of Unrest
+#### Fever of Unrest
 
 
 The Dragon played is not considered keyed to anything.
 
 
-Foul Fumes
+#### Foul Fumes
 
 
 Will tap all sites in play that meet the requirements.
 
 
--G-
+### -G-
 
 
-Gandalf
+#### Gandalf
 
 
 Must be in the same company as the ring he tests.
 
 
-Giant
+#### Giant
 
 
 Has errata: Add "Giant."
 
 
-Goldberry
+#### Goldberry
 
 
 No player may assign strikes to Goldberry
@@ -2243,14 +2243,14 @@ Goldberry cannot prevent a company from returning to its site of origin
 that failed its roll to move to an adjacent Under-deeps site.
 
 
-Gollum
+#### Gollum
 
 
 The text on Gollum is an ability that you can choose to use, not an effect
 that happens automatically.
 
 
-Gollum's Fate
+#### Gollum's Fate
 
 
 This card is considered to target both The One Ring and Gollum. Thus, you
@@ -2258,7 +2258,7 @@ can only play Gollum's Fate if The One Ring and Gollum that you own are
 both at Mount Doom.
 
 
-Golodhros
+#### Golodhros
 
 
 He may use his special influence ability only during an opponent's
@@ -2266,7 +2266,7 @@ movement/hazard phase, not during the site phase. His tapping to use his
 special ability does not count against the hazard limit.
 
 
-Great Goblin
+#### Great Goblin
 
 
 Has errata: "Unique. Orc. One Strike"
@@ -2275,26 +2275,26 @@ Has errata: "Unique. Orc. One Strike"
 May be played against companies using region movement.
 
 
-Great-road
+#### Great-road
 
 
 Has errata: Replace "opponent draws twice" with "opponent draws up to twice"
 
 
-Great Secrets Buried There
+#### Great Secrets Buried There
 
 
 The item placed under this card is considered in play for the purposes of
 uniqueness, just like any card placed off to the side.
 
 
--=-(Council of L�rien ruling)�In sanctioned tournament play, if you play
+-=-(Council of Lorien ruling)---In sanctioned tournament play, if you play
 this card as a hazard on your opponent, you must be able to provide your
 opponent with a copy of any uncommon Under-deeps sites if he does not have
 a copy in his location deck.
 
 
-Great Ship
+#### Great Ship
 
 
 Errata: Add "Tap a character in target company during the organization
@@ -2308,37 +2308,37 @@ an event that targets the company in question or an entity associated with
 that company.
 
 
-Greed
+#### Greed
 
 
 -=-Is triggered by a special ring item being played, but not by items being
 transfered.
 
 
-Gwaihir
+#### Gwaihir
 
 
 Has errata: Should read "you may discard Gwaihir during the organization
 phase to allow his company..."
 
 
--H-
+### -H-
 
 
-Halfling Strength
+#### Halfling Strength
 
 
 If used to heal a Hobbit when healing effects affect all characters in a
 company, it will heal all other wounded characters in the company.
 
 
-Healing Herbs
+#### Healing Herbs
 
 
 Cannot stop a body check.
 
 
-Helm of Her Secrecy
+#### Helm of Her Secrecy
 
 
 In fact, you can play multiple Helms of Her Secrecy in one chain of
@@ -2346,25 +2346,25 @@ effects. The player must make sure that he does not take the option of
 playing Eowyn out of his hand until the first copy played is resolved.
 
 
-Here is a Snake
+#### Here is a Snake
 
 
 Here is a Snake does not prevent the use of hazards already on the table.
 
 
-Here, There, or Yonder?
+#### Here, There, or Yonder?
 
 
 The ally does not have to be chosen or played until after the dice are rolled.
 
 
-Hermit's Hill
+#### Hermit's Hill
 
 
 To play a major item here, Hermit's Hill must be untapped
 
 
-Hidden Knife
+#### Hidden Knife
 
 
 Hidden Knife is effectively an attack. As per the rule about attacks must
@@ -2374,34 +2374,34 @@ attacks with it, you must wait until after this attack to play Hidden
 Knife.
 
 
-Hoarmurath of Dir
+#### Hoarmurath of Dir
 
 
 Can affect an automatic-attack.
 
 
-Horses
+#### Horses
 
 
 Has errata: Add "Playable only at the end of the organization phase."
 
 
-Hunt, The
+#### Hunt, The
 
 
 The Hunt cannot be used on Nazguls who are in play as permanent-events.
 
 
-Huorn
+#### Huorn
 
 
 Has errata: Add "Awakened Plant."
 
 
--I-
+### -I-
 
 
-Incite Denizens
+#### Incite Denizens
 
 
 When copying an attack put on the site by another card it will not copy any
@@ -2412,13 +2412,13 @@ When copying an attack put on the site by another card, the Incite Denizens
 attack will disappear if the other card is discarded.
 
 
-Indur Dawndeath
+#### Indur Dawndeath
 
 
 -=-The attacker chooses which item is discarded if the target has more than one.
 
 
-Ioreth
+#### Ioreth
 
 
 Has errata: Replace "Healing card" with "Healing effect."
@@ -2428,10 +2428,10 @@ Will not duplicate the untap portion of a healing effect on tapped but
 unwounded characters.
 
 
--K-
+### -K-
 
 
-Khamul the Easterling
+#### Khamul the Easterling
 
 
 The number of cards discarded is set at the time of declaration.
@@ -2440,10 +2440,10 @@ The number of cards discarded is set at the time of declaration.
 The cards are discarded from opponent's hand.
 
 
--L-
+### -L-
 
 
-Leaf Brooch
+#### Leaf Brooch
 
 
 The item being replaced by the Leaf Brooch being discarded must be in play
@@ -2456,7 +2456,7 @@ gold ring item gets the special ring item, not the bearer of the Leaf
 Brooch.
 
 
-Leaflock
+#### Leaflock
 
 
 No player may assign Leaflock strikes from an automatic-attack.
@@ -2470,7 +2470,7 @@ an event that targets the company in question or an entity associated with
 that company.
 
 
-Long Dark Reach
+#### Long Dark Reach
 
 
 The creature does not count against the hazard limit.
@@ -2482,19 +2482,19 @@ If the creature is keyable only to regions by name, that is sufficient.
 A creature must be played if there is one available.
 
 
-Long Winter
+#### Long Winter
 
 
 Affects all sites in play that with two Wilderness in their site path.
 
 
-Lucky Search
+#### Lucky Search
 
 
 Has errata: Replace "Discard all revealed cards except the item." with
 "Reshuffle all revealed cards except the item back into the play deck." Add
 at the end of the first paragraph "Discard item if the scout is wounded by
-this attack." [addition effective 10/24/96]
+this attack." \[addition effective 10/24/96]
 
 
 May be played at a tapped site.
@@ -2512,7 +2512,7 @@ Unique in play items are ignored when turning over cards.
 Does not exhaust the play deck.
 
 
-Lure of Expedience
+#### Lure of Expedience
 
 
 Will trigger when a gold ring item is tested and a special item is
@@ -2526,7 +2526,7 @@ Can be played on-guard and will trigger a corruption check when revealed in
 response to an item played.
 
 
-Lure of Nature
+#### Lure of Nature
 
 
 Has errata: Replace "at the end of each movement/hazard phase" with "after
@@ -2544,29 +2544,29 @@ that the corruption checks happen after everything else the company will
 face.
 
 
-Lure of Power
+#### Lure of Power
 
 
 This card is in no way affected by an influence attempt of an agent.
 
 
--M-
+### -M-
 
 
-Magical Harp
+#### Magical Harp
 
 
 Can be used at the Council of Lorien.
 
 
-Mallorn
+#### Mallorn
 
 
 (errata)-The first sentence should read: "Playable at Bag End only if Earth
 of Galadriel's Orchard is stored there."
 
 
-Many Foes He Fought
+#### Many Foes He Fought
 
 
 The penalty is -0/-0 for the first strike, -1/-1 for the second, -2/-2 for
@@ -2576,57 +2576,57 @@ the third, and so on.
 The penalties on the card are cumulative with the normal combat penalties.
 
 
-Many Sorrows Befall
+#### Many Sorrows Befall
 
 
 Cannot be played on-guard.
 
 
-Marvels Told
+#### Marvels Told
 
 
 Cannot be played on a card that has not yet resolved.
 
 
-Master of Water, Wood & Hill
+#### Master of Water, Wood & Hill
 
 
 The sage does not have to be in a moving company whose site path is affected.
 
 
-Mirror of Galadriel
+#### Mirror of Galadriel
 
 
 Only playable if you currently have a company at Lorien.
 
 
-Moon is Dead, The
+#### Moon is Dead, The
 
 
 The second automatic-attack goes away if the Moon is Dead is discarded
 before the attack is faced.
 
 
-Morannon
+#### Morannon
 
 
 Has errata: Should read "This card is used as a Dark-hold site card in the
 region of Udun that is moved to..."
 
 
-More Alert than Most
+#### More Alert than Most
 
 
 The minimum of one strike still applies while Gates of Morning is in play.
 
 
-More Sense than You
+#### More Sense than You
 
 
 If there is only on character in the company, this will cancel the attack.
 
 
-Morgul-horse
+#### Morgul-horse
 
 
 To bring a Nazgul permanent-event back into your hand Morgul-horse must be
@@ -2634,16 +2634,16 @@ declared after tapping the Nazgul is declared and before it resolves.
 
 
 Regarding only the alternative effect, this card can be played and resolved
-before any Nazg�l is played with it. A Nazg�l must be played as the first
+before any Nazgul is played with it. A Nazgul must be played as the first
 declared action in the chain of effects following the resolution of the
-alternative effect of Morgul-horse. If a Nazg�l is not played immediately
+alternative effect of Morgul-horse. If a Nazgul is not played immediately
 following the resolution of this card, this card is returned to its
 player's hand. This card cannot be played for no effect just to discard it.
 
 
 
 
-Morgul-knife
+#### Morgul-knife
 
 
 May not be played on a character who has already had a corruption card
@@ -2653,19 +2653,19 @@ played on them this turn.
 The corruption is recieved immediately following the attack.
 
 
-Morgul Night
+#### Morgul Night
 
 
 Is not discarded if Doors of Night leaves play.
 
 
-Mountains of Shadow
+#### Mountains of Shadow
 
 
 Facing the attack is not required if using the "otherwise..." section.
 
 
-Mount Doom
+#### Mount Doom
 
 
 Hazard creatures kayable to Mount Doom can be played regardless of any
@@ -2684,46 +2684,46 @@ Mouth of Sauron
 Has errata: Add "Man."
 
 
-Muster
+#### Muster
 
 
--=-Has errata. Replace entire text with: �Warrior only. An influence check
-against a faction by a warrior is modified by adding the warrior�s prowess
-to a maximum modifier of +5.�
+-=-Has errata. Replace entire text with: "Warrior only. An influence check
+against a faction by a warrior is modified by adding the warrior's prowess
+to a maximum modifier of +5."
 
 
 Can be played when influencing an opponent's faction.
 
 
-Muster Disperses
+#### Muster Disperses
 
 
 Muster Disperses cannot be revealed as on-guard card.
 
 
-My Precious
+#### My Precious
 
 
 Does not count as Gollum for the purposes of Gollum's Fate or any other
 card that specifically calls for Gollum.
 
 
--N-
+### -N-
 
 
-The Nazgul are Abroad
+#### The Nazgul are Abroad
 
 
 Can bring back a Nazgul played as a creature.
 
 
-Neeker-breekers
+#### Neeker-breekers
 
 
 Has errata: Add "Does not effect Wizards."
 
 
-Noble Hound
+#### Noble Hound
 
 
 (errata)-Add the sentence: "If Noble Hound is tapped or wounded, treat it
@@ -2741,36 +2741,36 @@ its master will recieve strikes.
 -=-Does not protect against the strike from Lucky Search.
 
 
-Not at Home
+#### Not at Home
 
 
 -=-Cannot cancel any attack other than a Dragon, Drake, or Troll attack.
 This inlcudes automatic-attacks.
 
 
--O-
+### -O-
 
 
-Old Forest
+#### Old Forest
 
 
 Has errata: Replace "healing cards" with "healing effects."
 
 
-Old Man Willow
+#### Old Man Willow
 
 
 Has errata: Add "Awakened Plant."
 
 
-Old Road
+#### Old Road
 
 
 -=-May be used to influence an opponent's faction only when you are
 attempting to bring your copy of the faction into play.
 
 
-The Old Thrush
+#### The Old Thrush
 
 
 Has errata: Add "Cannot be duplicated on a given attack."
@@ -2781,7 +2781,7 @@ prowess plus dice roll is 13 or greater. Presently, there are no agents
 with this listed prowess.
 
 
-The One Ring
+#### The One Ring
 
 
 Can be used multiple times in a turn if the corruption checks are successful.
@@ -2790,30 +2790,30 @@ Can be used multiple times in a turn if the corruption checks are successful.
 "Starting prowess" refers to the prowess printed on the character card.
 
 
--P-
+### -P-
 
 
-Palantir of Amon Sul
+#### Palantir of Amon Sul
 
 
 Discard immediately if its company contains less than two characters while
 moving.
 
 
-Palantir of Orthanc
+#### Palantir of Orthanc
 
 
 Cannot be used on site cards.
 
 
-Palantir of Osgiliath
+#### Palantir of Osgiliath
 
 
 Discard immediately if its company contains less than four characters while
 moving.
 
 
-The Pale Sword
+#### The Pale Sword
 
 
 May not be played on a character who has already had a corruption card
@@ -2826,17 +2826,17 @@ The corruption is recieved immediately following the attack.
 You must control both the Pale Sword and the Nazgul it is played on.
 
 
-Pallando
+#### Pallando
 
 
 Does not suck.
 
 
--=-Can only see the top card of an opponent's discard pile. [Note: cards
+-=-Can only see the top card of an opponent's discard pile. \[Note: cards
 are discarded one at a time with a reasonable pause, not all at once.]
 
 
-Praise to Elbereth
+#### Praise to Elbereth
 
 
 Nazgul events discarded by Praise to Elbereth have no effect.
@@ -2850,39 +2850,39 @@ Nazgul permanent-events that are targeted by Praise to Elbereth may not be
 tapped in response to its play.
 
 
-The Precious
+#### The Precious
 
 
 The player of The Precious chooses who makes the corruption check.
 
 
-Pukel-men
+#### Pukel-men
 
 
 Has errata: Add "Pukel-creature."
 
 
--Q-
+### -Q-
 
 
-Quiet Lands
+#### Quiet Lands
 
 
 Has errata: Replace "is reduced to half its original prowess (rounded up)."
 with "is reduced by half (rounded up)."
 
 
--R-
+### -R-
 
 
-Reforging
+#### Reforging
 
 
 You may only bring back minor and major weapons, minor and major armor, or
 minor and major shields with Reforging. You can use it on hoard items.
 
 
-Ren the Unclean
+#### Ren the Unclean
 
 
 If you tap Ren, then you cannot play resources to aid your character's
@@ -2893,35 +2893,35 @@ corruption checks. Your characters may tap in support.
 order of the corruption checks for their characters.
 
 
-Rescue Prisoners
+#### Rescue Prisoners
 
 
 Has errata: This cards gives 2 marshalling points, not 3. Add "You recieve
-the marshalling points for this card only when it is stored. [effective
+the marshalling points for this card only when it is stored. \[effective
 10/24/96]
 
 
-Rhosgobel
+#### Rhosgobel
 
 
 Has errata: Replace "healing cards" with "healing effects."
 
 
-Ringlore
+#### Ringlore
 
 
 Has errata: Add "Playable only during the site phase. Tap the sage and the
 site."
 
 
-The Ring's Betrayal
+#### The Ring's Betrayal
 
 
 -=-Targets one character and a ring they bear.  The ring must be chosen at
 time of declaration if the character bears more than one.
 
 
-River
+#### River
 
 
 Has errata: Should read "Playable on a site. If a company that has moved to
@@ -2932,7 +2932,7 @@ site phase."
 Cannot be revealed on-guard.
 
 
-Roac the Raven
+#### Roac the Raven
 
 
 Has errata: Remove "no modifications to the influence check are required."
@@ -2949,7 +2949,7 @@ Using this ally to make an influence attempt does not tap a site, and may
 be done if his company is at a tapped site.
 
 
-Rumor of Wealth
+#### Rumor of Wealth
 
 
 Can be played on-guard.
@@ -2958,10 +2958,10 @@ Can be played on-guard.
 Rumor only allows you to play a Dragon, no other hazards are allowed.
 
 
--S-
+### -S-
 
 
-Sacrifice of Form
+#### Sacrifice of Form
 
 
 Has errata: Replace "-3 to any body checks" with "+3 to any body checks."
@@ -2978,7 +2978,7 @@ your opponent may not play the Wizard you sacrificed.
 him, such as the body check from Dragon's Blood.
 
 
-Saruman
+#### Saruman
 
 
 Can use an un-aligned palantir.
@@ -2987,7 +2987,7 @@ Can use an un-aligned palantir.
 Must be bearing the palantir to use it.
 
 
-Secret Entrance
+#### Secret Entrance
 
 
 Can be played on a company that does not move.
@@ -2996,13 +2996,13 @@ Can be played on a company that does not move.
 If the site is revealed and it is in a Dark-domain, the sage is still tapped.
 
 
-Secret Passage
+#### Secret Passage
 
 
 Does not work if the site type changes.
 
 
-Seige
+#### Seige
 
 
 Has errata: Change the Border-land symbol in the first line with a
@@ -3015,13 +3015,13 @@ Goes away when all copies of the site it was played on are discarded.
 Can be avoided with Shadowfax.
 
 
-Sentinels of Numenor
+#### Sentinels of Numenor
 
 
 Sentinels will not give an extra marshalling point to Army of the Dead.
 
 
-Shadowfax
+#### Shadowfax
 
 
 Has errata: "an additional site card may be played and an additional
@@ -3031,13 +3031,13 @@ movement/hazard phase."
 Cannot use his special ability if another ally is in the company.
 
 
-Silent Watcher
+#### Silent Watcher
 
 
 Has errata: Gives 1 marshalling point, not O. Add "Pukel-creature."
 
 
-Slayer
+#### Slayer
 
 
 Has errata: Gives 2 marshalling points, not 0. Add "Slayer."
@@ -3058,28 +3058,28 @@ attacked character. A Slayer can never assign strikes to more than one
 character.
 
 
-Sun
+#### Sun
 
 
 The bonuses are cumulative.
 
 
--T-
+### -T-
 
 
-Taladhan
+#### Taladhan
 
 
 Always attacks as a thief, so he will never wound anyone.
 
 
-Thorin II
+#### Thorin II
 
 
 Gets a total of +4 direct influence against the Blue Mountain Dwarves.
 
 
-Thorough Search
+#### Thorough Search
 
 
 Has errata: Replace "...to play any item normally found at its current
@@ -3087,13 +3087,13 @@ site." with "...to play a minor, major, or gold ring item normally found at
 its current site."
 
 
-Tolfalas
+#### Tolfalas
 
 
 Has errata: Playable: Items (minor, major, greater*) *Scroll of Isildur only.
 
 
-Tom Bombadil
+#### Tom Bombadil
 
 
 Allows the cancelling of one creature or the cancelling and discarding of
@@ -3104,7 +3104,7 @@ that company.
 Cannot cancel non-targetted effects like Long Winter.
 
 
-Tookish Blood
+#### Tookish Blood
 
 
 This card has no errata.
@@ -3113,7 +3113,7 @@ This card has no errata.
 Cannot be played just after a failed corruption check.
 
 
-Traitor
+#### Traitor
 
 
 Has errata: Replace the last paragraph with "This card is discarded when a
@@ -3126,13 +3126,13 @@ Two Traitors have no extra effect.
 Traitor cannot be revealed as an on-guard card.
 
 
-Treebeard
+#### Treebeard
 
 
 Has errata: Replace "Redhorn Gap" with "Redhorn Gate."
 
 
-True F�na
+#### True Fana
 
 
 Combat modifiers (things that modify prowess only against a strike) do not
@@ -3144,7 +3144,7 @@ When this spell is used against an agent, the agent does not receive the
 two 6-sided dice bonus.
 
 
-Twilight
+#### Twilight
 
 
 Has errata: Add "This card may be played at any time during any player's turn."
@@ -3161,10 +3161,10 @@ it will not count toward the hazard limit.
 hand or discard pile.
 
 
--U-
+### -U-
 
 
-The Under-galleries
+#### The Under-galleries
 
 
 You cannot play Morannon at The Under-galleries. However, you can play
@@ -3172,42 +3172,33 @@ Ancient Stair from Morannon, move to The Under-galleries, and zip back to
 Morannon at the end of the turn.
 
 
-Use Palantir
+#### Use Palantir
 
 
 Has errata: Change text to "Sage only. Tap sage to enable him to use one
 Palantir he bears for the rest of the turn."
 
 
--V-
+### -V-
 
-
-Vilya
-
+#### Vilya
 
 Has errata: Replace "If your play deck has at least 5 cards in it, you may
 take 5 resource cards." with "If Elrond is at Rivendell and your play deck
 has at least 5 cards in it, you may take 3 cards."
 
-
--=-Has errata. The entire text on Vilya should now read: �Playable on
+-=-Has errata. The entire text on Vilya should now read: "Playable on
 Elrond only. +4 prowess, +2 body, +6 direct influence until the end of the
 turn. If Elrond is at Rivendell and your play deck has at least 5 cards in
 it, you may take 3 resource cards of your choice from your discard pile and
 shuffle them into your play deck. Elrond makes a corruption check modified
-by -3. Cannot be duplicated on a given turn.�
+by -3. Cannot be duplicated on a given turn."
 
+### -W-
 
--W-
+#### Weariness of the Heart
 
-
-Weariness of the Heart
-
-
-Only the first paragraph of this card cannot be duplicated. The alternative
-effect of forcing a character to make a corruption check does not have the
-cannot be duplicated restriction.
-
+Only the first paragraph of this card cannot be duplicated. The alternative effect of forcing a character to make a corruption check does not have the cannot be duplicated restriction.
 
 #### The White Tree
 
@@ -3220,7 +3211,6 @@ If you leave a tapped Minas Tirith while this card is in play, Minas Tirith will
 "Playing hazards" refers to keying creatures to the site, not passive conditions of cards like Lure of the Senses.
 
 The White Tree in play does not at all restrict agent movement. The White Tree makes Minas Tirith a Haven for the purposes of playing hazards, but an agent moving to Minas Tirith is not playing the agent. Playing a card is the action of taking it out of your hand.
-
 
 #### The Windlord Found Me
 
