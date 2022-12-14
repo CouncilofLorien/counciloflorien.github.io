@@ -57,116 +57,135 @@ wrappers. International customers should include an IRC.
 
 &emsp;[V. Card Errata and Rulings]()
 
-II. TURN SEQUENCE
+## II. TURN SEQUENCE
 
-A. Begining of the Game
+### A. Begining of the Game
 
 If a character is put in the deck due to duplication in the starting
 company, then it does not count against the 10 character limit.
+
 Either draw numbers for the whole game or roll dice for the whole
 game.
 
-B. Untap Phase
+### B. Untap Phase
 
 Corruption checks triggered at the end of this phase happen after
 everyone untaps. Characters that tap to aid the check will not untap
 until their next untap phase.
+
 You may do things besides untap during this phase.
 
-C. Organization Phase
+### C. Organization Phase
 
-Choosing a New Site
+#### Choosing a New Site
 
 Rules Erratum: When a company splits any of the resulting companies
 can move with region movement. Region movement is not limited to one
 company of a split.
+
 Region cards are not unique. However, any single site path cannot
 have more than one copy of a particular region.
+
 Any company may declare as its new site a site already on the table.
 That site will remain on the table at least until the end of that
 company's movement/hazard phase.
+
 Two companies may not start at the same site and move to the same new
 site.
 
-Followers
+#### Followers
 
 A character cannot use a bonus to direct influence against "Blue
 Mountain Dwarves" to control characters with the home site Blue Mountain
 Dwarf-hold.
+
 Bonuses to direct influence against characters apply only once, not
 for each character.
 
-Organizing Companies
+#### Organizing Companies
 
 If a company splits up, their player chooses which characters are the
 original company and which characters are a new company, unless
 otherwise directed by a card. All resource permanent-events played on
 the original company stay with the original company.
+
 Company composition changes, including bringing a character into
 play, must all be done at the same time during the organization phase.
 During this time no other actions may be taken.
 
-Playing Characters
+#### Playing Characters
 
 Rules Erratum: You may play a character if you do not have enough
 influence to control them. However, if there are any characters you do
 not have the influence to control at the end of your organization phase,
 the character you brought into play this turn must be returned to your
 hand.
+
 You may play a character under general influence at their home site
 without a company at that site. The one exception to this is if you are
 playing Standard Game and your Wizard has been revealed. In that case
 your Wizard must be present to bring a character into play under general
 influence.
+
 Hobbits may only be brought into play at Bag End, not at Havens.
 
-Storing Items
+#### Storing Items
 
 @ Minions who roll equal to or one less than their accumulated
 corruption when storing an item are only tapped.
 
-D. Long Event Phase
+### D. Long Event Phase
 
-E. Movement/Hazard Phase
+### E. Movement/Hazard Phase
 
-General
+#### General
 
 Annotation 25: A company is considered to be at the site given by its
 site card at all times except from the moment their new site card is
 revealed during their movement/hazard phase until their old site card is
 discarded during the same movement/hazard phase. During this period a
 company is considered to be en route between sites and not at any site.
+
 Annotation 26: If at the start of a movement/hazard phase there are
 multiple effects in play such that their net effect depends on the order
 they are applied, the player who is currently not taking his turn
 decides the order in which they are to be applied. Once this
 interpretation is established, all further actions are applied in the
 order they are resolved for the rest of the turn.
+
 Once the effects of an environment card have been applied to a target
 during a given movement/hazard phase, that effect is not applied again
 to that target during the current turn.
+
 A company is not considered to be at its new site until the end of
 the company's site of origin is removed. A company is only considered
 to be moving during its movement/hazard phase, and only if it plays a
 new site card.
+
 Resource cards cannot be played between the movement/hazard phases of
 two different companies.
+
 You do not have to decide how many cards you want to draw before you
 start to draw them.
+
 Companies at the same non-haven/non-darkhaven site must join at the
 end of all movement/hazard phases, before the site phase starts.
+
 Companies at the same haven/darkhaven site may join at this time.
+
 If companies would join at the end of the movement/hazard phase such
 that the company composition rules are violated, one company of the
 hazard playerąs choice must return to its site of origin.
+
 If two companies join at a site, cards affecting one of the companies
 now affect them both.
+
 A company's movement/hazard phase is concluded when both players
 agree to reconcile their hand sizes. No actions may be taken until the
 site phase or until both players have drawn cards for the movement of a
 following company.
 
-Combat
+#### Combat
 
 Strikes are assigned in the following manner: First the defending
 player assigns strikes to his untapped characters; Second the attacking
@@ -175,30 +194,38 @@ assign extra strikes as -1 modifiers to characters' prowess. Each
 character must be assigned one strike before any character gets an extra
 strike. The extra strikes are not assigned to a character until that
 character's strike is resolved.
+
 Cancelling an attack does not defeat it.
+
 A creature cannot be canceled based on region type if that creature
 was played keyed to a region by name.
+
 Side effects of losing a character are resolved immediately after the
 character is lost, before other characters resolve their strikes.
+
 If a creature has a body, each strike is only defeated if the body is
 defeated for that strike.
+
 If an attack states all characters in a company face a strike, then
 effects which allow a character to face more than one strike have no
 effect against the attack. Similarly, effects that change the attack's
 number of strikes have no effect. As an exception, effects which reduce
 the number of strikes to a specific number do work.
 
-The Strike Sequence
+#### The Strike Sequence
 
 The strike sequence is a period of time that begins when a player
 announces one of his characters will resolve a strike. It ends after the
 strike dice-roll or strike cancellation, and any body checks resulting
 from that strike.
+
 Annotation 16: When a wounded character becomes unwounded, he is
 considered in his history to have been wounded and must face any special
 actions the wounding strike presented him.
+
 Annotation 17: The only actions that may be declared during a strike
 sequence are those outlined in Annotation 18.
+
 Annotation 18: When a defending player chooses to resolve a strike
 against a particular character, the only actions that may be taken by
 either player until the strike dice-roll is made are the following: play
@@ -211,6 +238,7 @@ condition that a target character tap, but which otherwise has an effect
 not outlined here, may not be declared at this point. This is true even
 if the recipient of the strike would be the target character tapping and
 thus recieve -1 to his prowess.
+
 Annotation 19: Following each successful strike or failed strike, a
 body check must be rolled (unless the failed strike has no body).
 However, if the strike calls for any special actions to follow it (e.g.,
@@ -225,23 +253,28 @@ Blood could not be declared in response to the body check caused by
 Giant Spiders wounding a Hobbit. No action may be declared in response
 to a special action resulting from a strike unless the special action is
 a dice-rolling action, i.e., a special action is generally considered
-synonymous with the strike dice-roll. If the special action is a dice-
-rolling action, an action may be declared in response to it if the
+synonymous with the strike dice-roll. If the special action is a dice-rolling 
+action, an action may be declared in response to it if the
 action directly affects the dice-roll.
+
 Annotation 20: If more than one special action is to follow a strike,
 the defending player decides the order they are resolved.
+
 Annotation 21: A successful strike against a character is synonymous
 with that character being wounded, i.e., inverting a character card on
 the playing surface is not a seperate action from the successful strike.
 Cancelling a strike does not defeat it.
+
 A strike is only defeated if the body of the strike is defeated.
+
 Wounded characters only suffer a -2 prowess. In general, wounded
 charcters are not considered tapped.
+
 Prowess modifications from items come first. Then other bonuses are
 applied in the order the player controlling the character decides. Even
 a bonus given on a character's card is applied after item bonuses.
 
-Movement
+#### Movement
 
 Starter movement works as follows: Each company will have a face up
 site card showing where it is. This is called the site of origin. By
@@ -256,6 +289,7 @@ site of origin as the nearest Haven. If the company successfully makes
 it to the new site, discard the site of origin at the end of that
 company's movement/hazard phase. For a minion company, replace Haven
 with Dark Haven in the above paragraph.
+
 Region movement works as follows: To move a company from its site of
 origin to another site using region movement, lay down a series of up to
 four regions and the new site by the end of your organization phase.
@@ -266,62 +300,76 @@ card. The region at the end of the series must be the region listed on
 the new site card. A site which lies more than four regions away from
 the site of origin may not normally be reached in one turn with region
 movement.
+
 Region movement can be used to move from one non-Haven/non-Dark Haven
 site to another non-Haven/non-Dark Haven site.
+
 A company does not have to move each turn. If a company does not move
 it still has a movement/hazard phase. No cards are drawn for the company
 and the only hazards that can be played on the company are creatures
 that can be keyed to the company's site and events.
+
 Lebennin and Ithilien are not adjacent, even though they look that
 way on some maps.
 
-Playing Hazards
+#### Playing Hazards
 
 The hazard limit does not change if a character is eliminated or
 discarded during the movement/hazard phase.
+
 Hazard permanent-events count against the hazard limit. Some hazard
 permanent-events allow you to tap or discard them for an effect, and
 this counts against the hazard limit unless specified otherwise on the
 card.
+
 Hazards may only be played on a company whose movement/hazard phase
 is being resolved. Long-events and permanent-events may effect more than
 one company even though they are only played "on" one company.
+
 If a card must be keyed to two or more instances of a region type,
 those region types do not have to be consecutive in the site path.
+
 If a creature hazard resolves and there are no longer any instances
 of the region or site it was keyed to, then the creature is immediately
 discarded for no effect on play. If any instances of the region or site
 it was keyed to are in the site path when the creature resolves then the
 creature takes effect, even if those instances are not the ones that
 were there when the creature was declared.
+
 If you say you are done playing hazards and your opponent plays a
 resource before the movement/hazard phase ends, you may then continue
 playing hazards, assuming you have not yet reached the hazard limit.
+
 A creature that can be played in a specific region by name can be
 played on a company using starter movement if that company's site of
 origin or site of destination are in that specific region.
+
 If a company is moving from a surface site to an Under-deeps site,
 hazards may not be played keyed to the region of the surface site.
+
 Angmar Arises, In Darkness Bind Them, and Reaching Shadow may not be
 used to play creatures keyed to double shadow-lands.
 
-Returning to Site of Origin
+#### Returning to Site of Origin
 
 If a company returns to its site of origin, its site path immediately
 disappears.
+
 An effect that returns a company to its site of origin may not be
 declared in the middle of an attack.
 
-F. Site Phase
+## F. Site Phase
 
-General
+#### General
 
 The Golden Rule: in order to play any card or take any action during
 the site phase, the site must be entered. This means facing any
 automatic-attacks, even if you have entered the site on a previous turn.
+
 The Golden Rule, Part II: A resource does not have to be played
 during the site phase unless the card says so; or unless the card is an
 item, faction or ally.
+
 The Golden Rule, Part III: There is no one resource card per site
 phase rule. The only requirements for playing such a resource are that
 the site be untapped and that you faced any automatic-attacks at the
@@ -329,15 +377,16 @@ start of the site phase. If you can find a way to untap the site or play
 a resource at a tapped site, you can play more than one resource per
 site phase.
 
-Company vs. Company Combat
+#### Company vs. Company Combat
 
 The defender may take actions that affect the attack or any of the
 strikes. The attacker may only take actions that affect individual
 strikes.
+
 True Fana and Sacrifice of Form cannot be used in company versus
 company combat.
 
-Exploring A Site/Automatic-attacks
+#### Exploring A Site/Automatic-attacks
 
 To explore a site, first declare you are exploring the site. Then
 face any automatic-attacks at the site, and any on-guard hazard
@@ -346,107 +395,133 @@ may then tap one to play an item, information, ally or faction card. For
 most items and information cards the site will say if they are playable
 at that site. Special items, and factions and allies, say on the
 resource card at which sites they are playable.
+
 A card that can cancel an attack can cancel an automatic-attack, and
 this counts as facing the automatic-attack.
+
 The automatic-attack is not a hazard, nor is it a creature.
+
 Automatic-attacks added to a site are faced after the normal
 automatic-attacks for the site. Multiple automatic-attacks are faced in
 the order listed and/or resolved.
+
 @ Company composition and overt/covert status is checked before each
 automatic attack
 
-Influence Attempts
+#### Influence Attempts
 
 It is not possible to influence an item away from a Wizard or
 Ringwraith.
+
 You must enter a site to make an influence attempt.
+
 You may influence a Hobbit if you are not at Bag End.
+
 A successful influence attempt on an opponent's resource does not tap
 the site.
 
-On-Guard Cards
+#### On-Guard Cards
 
 Rules Erratum: An on-guard may only be revealed if it could have also
 been played during the movement/hazard phase. This means all targets of
 the card must have existed during the movement/hazard phase in order for
 the card to be revealed.
+
 A revealed on-guard card retroactively takes effect as though it were
 both declared and resolved immediately prior to the chain of effects
 during which it was revealed.
+
 There are two cases when a face down on-guard card may be revealed:
-1) When the company announces it will face a site's automatic-attack,
-but before the automatic-attack is itself faced. The site must have an
-automatic-attack to reveal the card now. The card must either modify
-the automatic-attack or be a creature hazard keyable to the site.
-2) When the company plays resource that potentially taps the site.
-The card must affect the company or a character in the company that site
-phase. Note that this clarification is looser than the rule printed on
-p.61 of the Unlimited Rulesbook
+
+ 1. When the company announces it will face a site's automatic-attack, but before the automatic-attack is itself faced. The site must have an automatic-attack to reveal the card now. The card must either modify the automatic-attack or be a creature hazard keyable to the site.
+ 2. When the company plays resource that potentially taps the site. The card must affect the company or a character in the company that site
+phase. Note that this clarification is looser than the rule printed on p.61 of the Unlimited Rulesbook
+
 A creature revealed as an on-guard card is considered a hazard
 creature attack, not an automatic-attack.
+
 A successful ring test does not allow an on-guard card to be
 revealed.
+
 You may reveal a card in response to an influence attempt against a
 faction even if the on-guard card only has an effect if the attempt is
 successful. You may also reveal a card in response to such an attempt
 that affects the actual influence attempt.
+
 Only declared or on-going cards and effects can be considered when
 determining the validy of revealing an on-guard card. Cards in your
 hand, your opponent's hand, play deck, discard pile, etc. cannot be
 considered and potential effects that have not been triggered cannot be
 considered.
+
 A corruption card can be revealed as an on-guard card, so long as it
 otherwise is legal, because a character in the company is affected.
+
 A card that changes the company's site type cannot be revealed unless
 this has some obvious effect on the company that site phase.
+
 A card cannot be revealed that returns a company to its site of
 origin.
+
 A card cannot be revealed that taps a company's site.
+
 A card cannot be revealed that potentially removes a character from a
 company.
+
 A card cannot be revealed that forces a company to do nothing during
 its site phase.
+
 A card that potentially removes an ally from the company can be
 revealed, so long as it otherwise is legal.
+
 A card may not be revealed that taps a character in the company.
+
 Some long- and permanent-events can be revealed on-guard and effect
 multiple companies.
+
 You may play two on-guard hazards on the same site only if two
 companies are moving to the same site.
+
 The on-guard card is not considered to be in any player's hand.
 
-G. End-of-Turn Phase
+### G. End-of-Turn Phase
 
 End-of-Turn effects are triggered by the ending of the End of Turn
 phase. Once both players are done with all actions in the End of Turn
 phase, all End of Turn effects are declared and resolved in the order
 chosen by the current player.
+
 Cards may be played during the End-of-Turn phase after hand size has
 been reconciled.
 
-H. Free Council
+### H. Free Council
 
 If you have 0 marshalling points in characters, items, factions, or
 allies then your opponent's points for that type are doubled. This
 includes if you are brought down to 0 points in a category due to
 negative marshalling points.
+
 Characters may tap to aid corruption checks. Note that the player
 calling the Free Council does not get an untap phase before it.
+
 Long- and permanent-events still in play will still have an effect.
+
 Only resources that directly affect corruption checks may be played
 during the Free Council.
 
-III. Rulings By Term
-Actions
+## III. Rulings By Term
+
+#### Actions
 
 @ Tapping a resource can only be done at a time when you could
 otherwise play a resource event.
 
-Active Conditions
+#### Active Conditions
 
 An active condition must be in play or established when the action
 requiring it is declared. Active conditions serve as the price of an
 action. They are restrictions on the player invoking the action.
+
 Annotation 5: If an action requires an entitiy to tap as a condition
 for the action's main effect, that entity must be untapped when the
 action is declared; else, the action may not be declared. Tap the entity
@@ -454,209 +529,269 @@ at this point; this is considered synonymous with the action's
 declarartion, i.e., it is not a seperate action. When it comes time to
 resolve the action in its chain of effects, that entity must still be in
 play and tapped or the action is cancelled.
+
 Annotation 6: If an action requires an entity to be discarded as a
 condition for the action's main effect, that entity must be discarded
 when the action is declared; this is considered synonymous with the
 action's declaration, i.e., it is not a seperate action.
+
 Annotation 7: If any other active condition for an action does not
 exist when the action is resolved, the action has no effect; if the
 action were playing a card from your hand, it is discarded.
+
 Annotation 8: An action that requires a target is considered to have
 the active condition that the target be in play when the action is
 declared and when it is resolved. An action may not be declared if its
 target is not in play. However, dice-rolling actions may always be
 targeted by other actions declared later in the same chain of effects.
+
 When a card mentions an alternate use, the active conditions given in
 the begining of the card text need only be met if they are also
 mentioned by the alternate use.
+
 Your opponent's resources may be the active conditions for your
 resources, but may not be the targets for your resources.
 
-Agent
+#### Agent
 
 Rules Erratum: A tapped agent may take an action to untap (i.e., move
 from tapped status to utapped status).
+
 Rules Erratum: An agent may tap to play creatures at a site if the
 company is moving to the site.
+
 Agents cannot attack or influence each other.
+
 A tapped agent can move. Tapping is not condition of agent movement,
 it is an effect of agent movement.
+
 An influence attempt by an agent does not count against the hazard
 limit in and of itself. Nor does it count as an agent action. Playing a
 hazard event that allows an agent to make an influence attempt does
 count against the hazard limit.
+
 Playing a card that makes an agent attack is considered the attack's
 declaration. Thus, if an agent is face down when Cunning Foes is played
 on him, he receives all the face down bonuses.
+
 Agents are *not* creatures.
+
 Agents do not face attacks when moving.
+
 Rolls made by agents during combat are done simultaneously with rolls
 made by characters during combat, after step 4 of the strike sequence.
+
 Agents revealed at Under-deeps are discarded without effect.
+
 Agents may not be attacked by companies.
+
 Only face-up agents are considered for uniqueness.
+
 While in play agents played as hazards may not become minion
 characters, and agents played as minion characters may not become
 hazards.
+
 An agent in a Ringwraith deck can only be played as a character at
 his home site.
+
 Agents may not be in a minion starting company.
+
 When constructing a Ringwraith deck, agents are always considered
 characters.
+
 @ To wound an agent you only need to defeat the prowess of one strike.
+
 To eliminate one you must defeat the prowess and body for all strikes.
+
 @ Revealed agents may return to their homesite, even if they are at
 one of their homesites.
+
 @ Cards played on an agent remain face up when the agent turns face
 down.
 
-Ahunt Manifestations
+#### Ahunt Manifestations
 
 If one Ahunt is out and you move through four of the regions listed
 on it, then you face the attack once.
+
 If four Ahunts are out an you move through one region listed on all
 four, then you face each of the four attacks once.
+
 Ahunt manifestations of unique Dragons are not considered creatures
 for cards that affect the playing of a creature hazards, since Ahunt
 manifestations are not played as creatures. An attack caused by an Ahunt
 manifestation is considered to be from a hazard creature for cards that
 affect hazard creatures already in play.
 
-Ally
+#### Ally
 
 An ally can play any non-item resource that requires a specific
 skill.
+
 Allies cannot bear items.
+
 Allies cannot tap to support corruption checks.
+
 Allies may tap to cancel attacks from Slayers and Assassins.
+
 Allies never make corruption checks.
+
 Ent allies can be attacked by rescue attacks.
+
 Allies cannot be targetted to be taken prisoner, and otherwise cannot
 be taken prisoner.
+
 Allies that may not be attacked by certain attacks may still tap to
 give +1 prowess to characters facing auch attacks, but no player may
 assign strikes from such attacks to that ally.
+
 Allies can be controlled by followers.
+
 You do not need to spend influence to control an ally.
+
 Allies cannot be passed from one player to another.
+
 @ Playing an ally is not an influence attempt.
+
 If an ally's controller leaves play for any reason, that ally is
 discarded.
 
-Attack
+#### Attack
 
 Annotation 12: An attack is considered to be resolved and concluded
 when the final strike, all special actions resulting from the final
 strike, and the associated body check are resolved.
+
 Annotation 13: An attack may not be cancelled once its strikes have
 been assigned. A strike may not be cancelled once the dice-roll for the
 strike has been made.
+
 Annotation 14: A cancelled attack has no effect on its target
 company, except that the company is considered in its history to have
 faced the attack.
+
 Annotation 15: An attack must be the first declared action in a chain
 of effects, i.e., a creatue card may not be played in response to
 another card in the same chain of effects. Revealing an on-guard
 creature is an exception.
+
 In order to cancel an attack or to directly affect an attack, the
 character doing so must be in the company facing the attack. Note that
 the region/site type a hazard creature is keyed to (when declared) can
 be affected otherwise.
+
 Cards only modify attacks if they say they do. So Sun will not
 modify an Assassin.
+
 @ When a minion company defeats an attack with no * by the MPs, the
 creature goes to the out-of-play pile belonging to the person who played
 the attack.
+
 @ Excess strikes applied as -1 modifiers do not have to have their
 body defeated
 
-Burglary Attempts
+#### Burglary Attempts
 
 After a succesful burglary attempt, another character may tap to play
 a minor item.
+
 May not be used to pick up Ally or Information cards.
+
 The character who fails the burglary roll must face the automatic-
 attack as though he were a one-character company. He can receive no
 combat support other than what he himself can provide. This is a
 reversal of an earlier ruling.
+
 On-guard creatures are faced after a Burglaring attempt regardless of
 the success of the attempt.
 
-Body Check
+#### Body Check
 
 Annotation 22: When a character fails a body check, his items may be
 immediately reassigned to unwounded character in his company.
+
 Reassigning of the eliminate character's items is considered to be
 synonymous with his failed body check, i.e., no action may take place
 between the failed check and reassigning the items. Unassigned items are
 discarded.
+
 Effects that modify a character's body also modify the number an Orc
 or Troll would be discarded on. A maximum to body applies equally to the
 discard number.
+
 If an Orc or Troll character is discarded by the results of a body
 check, all cards played with the character are also discarded.
+
 @ If an Orc or Troll could be discarded and eliminated by a result,
 discard them instead of eliminating them.
 
-Cannot be Duplicated
+#### Cannot be Duplicated
 
 Short-events that cannot be duplicated cannot be played if a card of
 the same name is currently having an effect on play.
+
 Annotation 11 (modified from its original version): Some cards cannot
 be duplicated in limited cases -- generally on a specific target.
+
 Multiple copies of these cards or their effects may be in play normally,
 so long as each applies to a different target. A card that cannot be
 duplicated can be played when a copy is already in play only if the copy
 in play is currently being targetted by an effect that will discard it.
 
-Card Effect Limitations
+#### Card Effect Limitations
 
 You may not play the following cards if your opponent is a Ringwraith
 or Sauron. Additionally, if you are not a Ringwraith or Sauron, a
 Ringwraith or Sauron opponent can play these cards against you and not
 be affected by any of their global effects.
 
-All hazard events that require an agent*
-Bane of the Ithil-stone
-The Black Enemy's Wrath
-Foul Fumes
-In the Heart of His Realm
-Mordor in Arms
-Mûmak
-Worn and Famished
+- All hazard events that require an agent\*
+- Bane of the Ithil-stone
+- The Black Enemy's Wrath
+- Foul Fumes
+- In the Heart of His Realm
+- Mordor in Arms
+- Mûmak
+- Worn and Famished
 
-*Near to Hear a Whisper from Middle-earth: Against the Shadow and
+\*Near to Hear a Whisper from Middle-earth: Against the Shadow and
 Great Need or Purpose may be played because they do not target a
 specific agent.
+
 The following cards are also listed in the MELE Rulesbook as having
 no effect on a Ringwraith/Sauron player, but this interpretation has
 been modified.
+
 Chance of Being Lost and Winds of Wrath: You may play these cards
 against any opponent who is using the same type of location deck (hero
 sites or minion sites) as yourself.
+
 Great Secrets Buried There: This card may be played against a
 Ringwraith or Sauron player one month after the release of Middle-earth:
 Against the Shadow.
-The Nazgûl are Abroad: This card may be played against a Ringwraith
+
+The Nazgul are Abroad: This card may be played against a Ringwraith
 or Sauron player. The only restriction is that the first two paragraphs
-are ignored when you play Nazgûl creatures against a Ringwraith or
-Sauron opponent. Any player can recycle Nazgûl hazards as stated on the
+are ignored when you play Nazgul creatures against a Ringwraith or
+Sauron opponent. Any player can recycle Nazgul hazards as stated on the
 card.
 
-Character
+#### Character
 
 You may continue to play after you have lost all of your characters.
+
 A character enacting an effect counts as a character in his company.
+
 A character in play must always be in one of three independent
 states: untapped, tapped, or wounded.
 
-Company
+#### Company
 
 If all characters in a company are removed from the company, all
 resource permanent-events played on the company as a whole are
 discarded.
 
-Corruption
+#### Corruption
 
 Annotation 23: When a character fails a corruption check, the
 standard effects of this (i.e., the character being discarded or
@@ -668,201 +803,236 @@ e.g., Traitor, which do not cause a corruption check, but specify an
 action that results from the passive condition of a failed check, take
 effect as the first declared action in a chain of effects immediately
 following the chain of effects that contains the corruption check.
+
 Characters with 0 corruption points must still make corruption
 checks.
+
 A character may attempt to remove a corruption card without tapping.
-The roll is at -3. A corruption card may only be attemtped to be removed
+The roll is at -3. A corruption card may only be attempted to be removed
 once per turn if the tapping requirement is ignored.
+
 You can not attempt to remove a corruption card without tapping if
 you have attempted to remove that card already this turn.
+
 The resolution of a character tapping to give +1 to a corruption
 check happens when the corruption check itself resolves.
+
 If an effect is in play that prevents a character from being
 discarded, the character is not considered to fail his corruption check
 if a result is achieved that would discard him. A Wizard would not be
 eliminated and his player would not lose the game.
 
-Darkhaven
+#### Darkhaven
 
 Whenever an effect targeting a hero refers to Darkhavens, interpret
 it as refering to Havens instead.
 
-Detainment Attacks
+#### Detainment Attacks
 
 Automatic-attacks are not detainment attacks unless specifically
 stated on the site card.
+
 @ Automatic-attacks are not detainment attacks unless specifically
 stated to be such on the site card.
+
 @ When a strike from a detainment attack succeeds, the character who
 was facing that particular strike must tap.
+
 @ Detainment attacks cannot be defeated.
+
 @ Detainment attacks that would force item discards normally do not
 force discards while they are detainment attacks.
+
 @ Only cards that say they are detainment vs. hero companies are
 detainment vs. hero companies.
 
-Discard
+#### Discard
 
 A discarded character may be brought into play again by any player.
+
 When a card is discarded, so are all permanent-events on that card.
+
 Cards discarded from a player's hand must be discarded one at a time
 as seperate actions.
+
 Whenever a character is discarded, all non-follower cards played with
 that character are also discarded.
 
-Dúnadan
+#### Dúnadan
 
 Dúnadan do not count as Men.
 
-Eliminated
+#### Eliminated
 
 An eliminated character may not be played by any player for the rest
 of the game.
+
 When a card is eliminated, all permanent-events on that card are
 discarded.
 
-Exhausted
+#### Exhausted
 
 Permanent-events discarded when the play deck is exhausted are
 shuffled into the new play deck along with the rest of the discard pile.
+
 The play deck is exhausted when the last card is drawn.
 
-Factions
+#### Factions
 
 The site does not tap unless the faction is succesfully played.
 
-Gold Ring Item
+#### Gold Ring Item
 
 When a gold ring item is tested, the ring is discarded and its
 marshalling points are lost whether or not you are able to play a
 special item.
+
 @ Ring tests may have a result of less than two, given sufficient
 negative modifiers.
+
 @ Ring special items played as a result of storing a ring at a Dark
 Haven will come into play stored.
 
-Hand Size
+#### Hand Size
 
 Effects which increase your hand size or allow you to hold one more
 card in your hand mean you draw up to your new hand size or discard down
 to it at the appropriate points during the game. This supercedes the
 normal requirement of drawing up to or discarding down to 8 cards.
 
-Haven
+#### Haven
 
 Havens can tap, but Havens are always returned to the location deck
 and not the discard pile.
+
 Whenever an effect targetting a minion refers to a Haven, interpret
 as a Darkhaven instead.
 
-Hobbits
+#### Hobbits
 
 Hobbit characters may only be brought into play at Havens if it is
 the start of the game and they are your starting characters. If a Hobbit
 is a starting character and leaves play, then it may only be brought
 back into play normally at Bag End.
 
-Influence
+#### Influence
 
 Restricted direct influence is limited in its use, usually to
 characters and/or factions of specific races. Unrestricted direct
 influence has no restrictions on its use.
+
 When a character suffers a minus to direct influence, it must come
 from unrestricted direct influence first. If there is no unrestricted
 influence and there are multiple instances of restricted direct
 influence, the player may choose which restricted direct influence the
 minus is applied to.
+
 @ If a card reduces direct influence, making it illegal for a follower
 to be controlled, the follower does need to be controlled until their
 next organization phase.
+
 @ A character removed from the control of direct influence outside the
 organization phase does not need to be controlled by general influence
 until their next organization phase.
 
-Items
+#### Items
 
 You may play two weapons, shields, or armors on the same character
 but only one of each may have an effect on the character.
+
 You may play a minor item after succesfully playing a resource that
 taps the site even if minor items are not playable at that site.
+
 The "free" minor item may only be played immediately after playing
 the resource that taps that site.
 
-Keyed
+#### Keyed
 
 Only attacks from hazard creatures are considered keyed.
 
-Marshalling Point Pile
+#### Marshalling Point Pile
 
 Under standard rules, no more than half of your marshalling points
 can come from any one type of marshalling point. Do not round up.
+
 @ You may not target hazards in your opponent's marshalling point pile
 for removal.
 
-May not Untap
+#### May not Untap
 
 Nothing may untap a character who is the subject of an effect that
 states the character may not untap.
 
-MELE vs. METW
+#### MELE vs. METW
 
 Hero items may not be used as active condtions for minion resources,
 and minion items may not be used as passive conditions for hero
 resources.
+
 If you are playing against a deck with three Wizards in it, you may
 play three Ringwraiths. You may play with two of one Ringwraith and one
 of another, or with three of one Ringwraith. You may not play with one
 each of three different Ringwraiths.
+
 Hero characters may now cancel automatic-attacks at their homesite,
 regardless of their opponent.
+
 You may not have both the minion and hero version of a unique item in
 your deck.
 
-Minion characters
+#### Minion characters
 
 Minion characters are not affected by cards that target agents.
 
-Multi-player Games
+#### Multi-player Games
 
 Only the player to the left of the moving player may take advantage
 of drawing cards, including cards drawn for events like The Nazgul are
 Abroad and From the Pits of Angbad.
+
 Only the hazard player and the moving player may play Twilight unless
 a third player¹s card is affected by an environment card.
+
 All players reset their hand size when any turn or movement/hazard
 phase ends.
+
 In multi-player games the following hazards count as 1/2 a creature:
 hazards that can be played as events or creatures, Ahunt Dragon
 manifestations, and At Home Dragon manifestations. Agents in a Wizard
 deck also count as 1/2 creatures.
+
 @ You may only play The Lidless Eye if none of your opponents are
 Ringwraiths.
+
 @ Twilight may only be played by the moving player and the hazard
 player. As an exception, a player who's own enviroment will be
 discarded by an environment may play Twilight to cancel that
 environment.
 
-Nazgûl
+#### Nazgul
 
 If a Nazgûl is tapped to become a short-event as printed on its card,
 it turns into a short-event upon declaration. At this point, the Nazgul
 is a short-event just as if had been played as such from your hand.
 The body refered to in the text of female characters with combat
-bonuses against Nazgûl is the body of the Nazgûl
+bonuses against Nazgul is the body of the Nazgul
 
-Optional Rules
+#### Optional Rules
 
 If a character is facing two strikes, and the first strike kills the
 character, the second strike is considered succesful.
+
 A character tapping to face two strikes is at -3 prowess against both
 strikes. The character taps when resolving the second strike.
+
 For recently visited sites in multi-player games, the automatic-
 attack gets +1 for each player who has that site in their discard pile.
 
-Passive Conditions
+#### Passive Conditions
 
 A passive condition causes an action to happen as stated on a card
 already in play.
+
 Annotation 9: If a card specifies that an action is to occur as a
 result of some specific passive condition, this action becomes
 automatically the first action declared in the chain of effects to
@@ -870,63 +1040,69 @@ immediately follow the chain of effects producing the passive condition.
 The passive condition must exist when this resulting action is resolved
 in its own chain of effects, or the action is cancelled. Note that
 actions in the strike sequence follow a different set of rules.
+
 Annotation 10: If more than one action is required to be the first
 action declared in a chain of effects, the player whose turn it is
 chooses the order in which they are declared. No other actions may be
 declared in this follow-up chain until the multiple required actions
 have been declared.
+
 A card causing an action as a result of a passive condition must be
 in play when the action resolves, or else the action is cancelled.
+
 @ When something would be discarded by a passive condition, that
 discard is considered simultaneous with the resolution of the the
 passive condition.
 
-Ringwraiths
+#### Ringwraiths
 
 You may have any number of Ringwraiths in your sideboard, as long as
 you do not duplicate more than one of them in the combined deck and
 sideboard.
+
 Ringwraiths may not use region movement. Ringwraiths may only move to
 a non-Darkhaven site if they are in a mode (Fell Rider, Black Rider, or
 Heralded Lord).
+
 In general, effects that affect Nazgul do not affect Ringwraiths. The
 exception is that characters with combat bonuses against Nazgul also get
 those bonuses against Ringwraiths.
-Ringwraiths may not move from one Darkhaven to another with non-
-Ringwraith
-characters.
 
-Ringwraith Followers
+Ringwraiths may not move from one Darkhaven to another with non-Ringwraith characters.
+
+#### Ringwraith Followers
 
 Ringwraith followers may still use magic as printed on their card.
 
-Sage Only
+#### Sage Only
 
 Any card requiring a sage to play is a sage only card.
 
-Short-event
+#### Short-event
 
 Short-events are discarded when resolved in a chain of effects, not
 when declared. Thus, they can be targetted by certain special effects in
 the chain of effects.
 
-Sideboard
+#### Sideboard
 
 The sideboard is increased to 25 cards.
+
 You can access hazards from your sideboard when your opponent's
 Wizard is in play. You must declare this at the end of your opponent's
-untap phase and then access hazards as if you had tapped a Nazgûl
+untap phase and then access hazards as if you had tapped a Nazgul
 permament-event to do so. The hazard limit against all of your
 opponent's companies that turn is halved, rounded up.
-Tapping a Nazgûl to bring cards in from the sideboard does not turn
-the Nazgûl into a short-event. The Nazgûl permanent-event is discarded
+
+Tapping a Nazgul to bring cards in from the sideboard does not turn
+the Nazgul into a short-event. The Nazgul permanent-event is discarded
 upon declaration of this effect as per Annotation 6.
 
-Site
+#### Site
 
 To untap a site the character doing so must be at that site.
 
-Site Path
+#### Site Path
 
 The site path depends on what sort of movement was used. If using
 starter movement between Havens the site path is given on the Haven card
@@ -936,48 +1112,57 @@ card. If using region movement the site path is determined by the region
 cards played on the company. In all of the above cases the site path
 includes the site you are moving to. For a Ringwraith player substitute
 Dark Haven in the above paragraph.
+
 Certain cards refer to the site's site path. The site's site path is
 always the site path given on the site card, regardless of how the
 company got to that site.
+
 Events can alter both the site's site path and a company's site path.
 
-Skill Cards
+#### Skill Cards
 
 Two skill cards may be played at one time on the same character
 outside of combat.
 
-Tap
+#### Tap
 
 Tapping a character does not tap that character's items.
 A spell only taps a Wizard if the spell card says it does.
 
-Targets
+#### Targets
 
 An action that is played out through one or more specific entities as
 stated on a card or in the rules is considered to "target" the entities.
 A targeted entity is said to be a "target" of the action. A card that
 acts on a class of entities does not target them.
+
 Annotation 1: A card is not in play until it is resolved in its chain
 of effects. When the play of a card is declared, no elements of the card
 may be the target of actions declared in the same chain of effects. An
 exception to this is a dice-rolling action, e.g. a corruption check.
+
 Annotation 2: A corruption check or any dice-rolling action can be
 targeted in the chain of effects during which it was declared.
+
 Annotation 3: Long-events and certain other cards do not have targets
 because they are not played out through one specific entity, i.e., they
 generally affect an entire class of things.
+
 Annotation 4: An action may not target a face-down card nor any
 element of a face down card. Face down cards include unrevealed new site
 cards and on-guard cards.
+
 You cannot target an opponent's character or resouces with your own
 resources.
+
 Events that target sites can only target sites in play used to show a
 company's location or movement.
 
-Timing
+#### Timing
 
 The validity of an effect, including the hazard limit, is checked
 upon declaration and upon resolution.
+
 Annotation 24: If a card specifices that more than one action occur
 when the card itself is resolved in a chain of effects, all of these
 actions are to be resolved in the card's chain of effects uninterrupted
@@ -985,10 +1170,12 @@ and in the order listed on the card. No actions may be declared to occur
 between these multiple actions. The actions listed on the card are
 considered to have been declared in the reverse order as they are
 printed.
+
 (amendment to original version of Annotation 24): As an exception, if
 one of the effects of a card is an attack, cards may be played that
 cancel the attack, cancel one of its strikes, or that otherwise are
 playable during the strike sequence--see Annotation 18.
+
 Annotation 27: If a card has optional effects, the player playing the
 card must choose which will take place. He must do this at the time the
 card is played, not when it is resolved in its chain of effects. When
