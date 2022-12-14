@@ -33,7 +33,7 @@ If playing in a tournament, be sure to check the tournament rulings, as
 some of them differ from the rulings for casual play.
 
 
-TABLE OF CONTENTS
+## TABLE OF CONTENTS
 
 [I. The Turn Sequence](#i-turn-sequence)
 
