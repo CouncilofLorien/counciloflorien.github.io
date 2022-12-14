@@ -5,7 +5,7 @@ parent: Rulings
 grand_parent: Original Rules
 ---
 
-[^CRF3]:
+[^CRF3]
 
 ---
 
