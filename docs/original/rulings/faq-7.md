@@ -15,7 +15,7 @@ Number 7, current as of 3/16/96
 Kleptomaniac Wizard version  
 Maintained by Craig "Ichabod" O'Brien \<ich...@cstone.net>
 
-<br>Especially new and/or changed information is marked with *'s.
+<br><br>Especially new and/or changed information is marked with *'s.
 
 #### Questions About Characters
 
