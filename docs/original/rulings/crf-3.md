@@ -5,7 +5,13 @@ parent: Rulings
 grand_parent: Original Rules
 ---
 
-[^CRF3]
+# Middle-earth: Collectible Card Game
+
+Collected Official Rulings File
+{: .text-center .text-beta}
+
+Version 3[^CRF3]
+{: .text-center }
 
 ---
 
