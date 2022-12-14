@@ -5,7 +5,10 @@ parent: Rulings
 grand_parent: Original Rules
 ---
 
-# Middle Earth: The Wizards<br>Frequently Asked Questions File
+# Middle Earth: The Wizards
+
+{: .text-center .text-beta}
+Frequently Asked Questions File
 
 {: .text-center }
 Number 3, current as of 1/1/96  
