@@ -161,7 +161,9 @@ If a company returns to its site of origin, its site path immediately disappears
 
 An effect that returns a company to its site of origin may not be declared in the middle of an attack.
 
-### F. Site Phase General
+### F. Site Phase 
+
+#### General
 
 Items, factions and allies must be played during the site phase..
 
