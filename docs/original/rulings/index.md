@@ -18,10 +18,10 @@ The digital version of these official rulings correct minor typographical, gramm
 
 ICE provided official errata and clarifications in the following publications:
 
- - [_Middle-earth: The Wizards Companion_](/wizards-companion-rulings.md) (1996)
- - [_Middle-earth: The Dragons Player Guide_](/the-dragons-player-guide-rulings) (1997)
- - [_Middle-earth: Dark Minions Player Guide_](/dark-minions-player-guide-rulings) (1997)
- - [_Middle-earth: The Lidless Eye Companion_](/the-lidless-eye-companion-rulings) (1997)
+ - [_Middle-earth: The Wizards Companion_](/wizards-companion-rulings.md) available February 1996)
+ - [_Middle-earth: The Dragons Player Guide_](/the-dragons-player-guide-rulings) available January 1997
+ - [_Middle-earth: Dark Minions Player Guide_](/dark-minions-player-guide-rulings) available February 1997
+ - [_Middle-earth: The Lidless Eye Companion_](/the-lidless-eye-companion-rulings) printed June 1997
  - Frequently Asked Questions (FAQ) Files
      - FAQ #1[^CRF1]
      - [FAQ #2](/faq-2) current as of December 1995
