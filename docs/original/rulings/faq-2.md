@@ -12,7 +12,7 @@ Frequently Asked Questions File
 
 {: .text-center }
 Number 2[^FAQ2]  
-Maintained by Craig "Ichabod" O'Brien
+Maintained by Craig "Ichabod" O'Brien \<ich...@cstone.net>
 
 <br>Especially new and succulent information is marked with \*s.
 
@@ -146,13 +146,13 @@ Maintained by Craig "Ichabod" O'Brien
 #### Questions About Support
 
 **Q**: Is there an official netrep?  
-**A**: Yes. His name is Scott Frazer <sfr...@comet.net>. On AOL he goes by MetWiNetRp.
+**A**: Yes. His name is Scott Frazer \<sfr...@comet.net>. On AOL he goes by MetWiNetRp.
 
 **Q**: Is there a website?  
-**A**: Yes. The hurl is http://www.ironcrown.com.
+**A**: Yes. The hurl is <span>http://www.ironcrown.com</span>.
 
 **Q**: How do I get my questions answered?  
-**A**: Probably the best way is to post your question to the Usenet group [rec.games.trading-cards.misc](https://groups.google.com/g/rec.games.trading-cards.misc), with "\[MetW]" in the subject.  If you are in no particular rush you can mail questions to Mike Reynolds at <met...@aol.com>.  It might be a few days before he can get to it.
+**A**: Probably the best way is to post your question to the Usenet group \[rec.games.trading-cards.misc](https://groups.google.com/g/rec.games.trading-cards.misc), with "\[MetW]" in the subject.  If you are in no particular rush you can mail questions to Mike Reynolds at \<met...@aol.com>.  It might be a few days before he can get to it.
 
 **Q**: Are there any expansion sets planned?  
 **A**: Yes.  At this moment Iron Crown is hard at work on the first one, _Middle Earth: The Dragons_.
