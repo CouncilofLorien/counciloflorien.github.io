@@ -18,9 +18,31 @@ The digital version of these official rulings correct minor typographical, gramm
 
 ICE provided official errata and clarifications in the following publications:
 
- - Frequently Asked Questions (number 1-7, 1995-1996).
- - Collected Rulings File (versions 1-15, 1996-1999).
- - _Middle-earth: The Wizards Companion_ (1996).
- - _Middle-earth: The Dragons Player Guide_ (1997).
- - _Middle-earth: Dark Minions Player Guide_ (1997).
- - _Middle-earth: The Lidless Eye Companion_ (1997).
+ - [_Middle-earth: The Wizards Companion_](/wizards-companion-rulings.md) (1996)
+ - [_Middle-earth: The Dragons Player Guide_](/the-dragons-player-guide-rulings) (1997)
+ - [_Middle-earth: Dark Minions Player Guide_](/dark-minions-player-guide-rulings) (1997)
+ - [_Middle-earth: The Lidless Eye Companion_](/the-lidless-eye-companion-rulings) (1997)
+ - Frequently Asked Questions (FAQ) Files
+     - FAQ #1
+     - [FAQ #2](/faq-2) current as of December 1995
+     - [FAQ #3](/faq-3) current as of 1 January 1996
+     - [FAQ #4](/faq-4) current as of 21 January 1996
+     - [FAQ #5](/faq-5) current as of 5 February 1996
+     - [FAQ #6](/faq-6) current as of 20 February 1996
+     - [FAQ #7](/faq-7) current as of 16 March 1996
+ - Collected Official Rulings Files (CRF)
+     - [CRF version 1](/crf-1) current as of 24 October 1996
+     - [CRF version 2](/crf-2) current as of 9 January 1996
+     - [CRF version 3](/crf-3)
+     - [CRF version 4](/crf-4) current as of 28 February 1997 
+     - [CRF version 5](/crf-5) current as of 19 May 1997
+     - [CRF version 6](/crf-6) current as of 10 July 1997
+     - [CRF version 7](/crf-7) current as of 15 September 1997
+     - [CRF version 8](/crf-8) current as of 23 October 1997
+     - [CRF version 9](/crf-9) current as of 31 November 1997
+     - [CRF version 10](/crf-10) current as of 1 January 1998
+     - [CRF version 11](/crf-11) current as of 30 March 1998
+     - [CRF version 12](/crf-12) current as of 
+     - [CRF version 13](/crf-13) current as of 11 August 1998
+     - [CRF version 14](/crf-14) current as of 21 December 1998
+     - [CRF version 15](/crf-15) current as of 29 May 1999
