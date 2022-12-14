@@ -31,13 +31,13 @@ The best way to get questions answered is to post them to the usenet newsgroup r
 
 ## I. TABLE OF CONTENTS
 
-[Turn Sequence Rulings]()
+[Turn Sequence Rulings](#ii-turn-sequence-rulings)
 
-[Rulings by Term]()
+[Rulings by Term](#iii-rulings-by-term)
 
-[Tournament Rulings]()
+[Tournament Rulings](#iv-tournament-rulings)
 
-[Card Errata and Rulings]()
+[Card Errata and Rulings](#v-card-errata-and-rulings)
 
 ## II. Turn Sequence Rulings
 
@@ -692,8 +692,9 @@ Continue this until there is no longer a tie or until all non-Wizard characters 
 
 ## V. Card Errata and Rulings
 
-[[A]]()	[[B]]()	[[C]]()	[[D]]()	[[E]]()	[[F]]()	[[G]]()	[[H]]()	[[I]]()	[[K]]()	[[L]]()
-[[M]]()	[[N]]()	[[O]]()	[[P]]()	[[Q]]()	[[R]]()	[[S]]()	[[T]]()	[[U]]()	[[V]]()	[[W]]()
+[[A]](#-a-)	[[B]](#-b-)	[[C]](#-c-)	[[D]](#-d-)	[[E]](#-e-)	[[F]](#-f-)	[[G]](#-g-)	[[H]](#-h-)	[[I]](#-i-)	[[K]](#-k-)	[[L]](#-l-)
+
+[[M]](#-m-)	[[N]](#-n-)	[[O]](#-o-)	[[P]](#-p-)	[[Q]](#-q-)	[[R]](#-r-)	[[S]](#-s-)	[[T]](#-t-)	[[U]](#-u-)	[[V]](#-v-)	[[W]](#-w-)
 
 ### -A-
 
