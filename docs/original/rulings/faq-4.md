@@ -15,7 +15,7 @@ Number 4, current as of 1/21/96
 What, me procrastinate? version  
 Maintained by Craig "Ichabod" O'Brien \<ich...@cstone.net>
 
-<br>Especially new and succulent information is marked with \*s. Thanks to Herve Guillemet for help on information gathering for this FAQ.
+<br><br>Especially new and succulent information is marked with \*s. Thanks to Herve Guillemet for help on information gathering for this FAQ.
 
 #### Questions About Characters
 
