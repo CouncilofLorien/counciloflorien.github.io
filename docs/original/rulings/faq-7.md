@@ -524,13 +524,13 @@ _Wolves_: Change "Animals." to "Wolves."
 #### Questions About Support
 
 **Q**: Is there an official netrep?  
-**A**: Yes.  His name is Scott Frazer <sfr...@comet.net>. On AOL he goes by MetWiNetRp.
+**A**: Yes.  His name is Scott Frazer \<sfr...@comet.net>. On AOL he goes by MetWiNetRp.
 
 **Q**: Is there a website?  
-**A**: Yes. The hurl is http://www.ironcrown.com.
+**A**: Yes. The hurl is <span>http://www.ironcrown.com</span>.
 
 **Q**: How do I get my questions answered?  
-**A**: Probably the best way is to post your question to the Usenet group rec.games.trading-cards.misc, with "\[METW]" in the subject.  If you are in no particular rush you can mail questions to Mike Reynolds at <met...@aol.com>.  It might be a few days before he can get to it.
+**A**: Probably the best way is to post your question to the Usenet group rec.games.trading-cards.misc, with "\[METW]" in the subject.  If you are in no particular rush you can mail questions to Mike Reynolds at \<met...@aol.com>.  It might be a few days before he can get to it.
 
 **Q**: Is there going to be a player's guide published?  
 **A**: The _Companion_ is already out. There is an Adventurers Guide that is still in production.
