@@ -10,7 +10,7 @@ grand_parent: Original Rules
 Collected Official Rulings File
 {: .text-center .text-beta}
 
-Version 6 current as of July 10th, 1997.
+Version 6 current as of July 10th, 1997
 {: .text-center }
 
 If playing in a tournament, be sure to check Section III: Tournament
