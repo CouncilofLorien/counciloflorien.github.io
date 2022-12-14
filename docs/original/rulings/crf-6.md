@@ -997,62 +997,72 @@ effects do not exist, the card has no effect and is discarded. The
 player may not at this point choose to implement an alternative effect
 of the card.
 
-Trophies
+#### Trophies
 
 Creatures whose marshalling points are listed with an * give
 marshalling points when used as trophies.
 Defeated Dragon manifestations can be used as trophies.
+
 @ Can be discarded to satisfy thief creatures.
 
-Under-deeps
+#### Under-deeps
 
 Marshalling points with companies at an Under-deeps site do not count
 only for the purposes of calling the Free Council. They do count at the
 actual Council itself.
+
 When a company's site of origin is an Under-deeps site and the
 company reveals a new site at the start of its movement/hazard phase,
 the company is declaring it will make a roll to determine if the
 movement was successful. No cards can be played between the site being
 revealed and the roll except for Reach of Ulmo.
+
 If you move to an Under-deeps site from a tapped surface site, the
 tapped surface site is dicarded at the end of the company's
 movement/hazard phase. The discarded surface site is not available until
 it is returned to your location deck.
+
 At an Under-deeps site, after a successul rescue attempt, a character
 can tap for a minor item only.
 
-Wizard
+#### Wizard
 
 You may put two of the same Wizard in your deck, or you may put one
 copy each of two different Wizards in your deck.
 
-IV. Tournament Rulings
+## IV. Tournament Rulings
+
 Tournament rulings are modifications and additions to the rules
 presented in the Unlimited Edition rulesbook that are required for
 sanctioned Council of Lórien tournament play.
 
-General
+#### General
 
 Dice must be used to obtain random numbers.
-There isa required 30 card minimum for both resources and hazards for
+
+There is a required 30 card minimum for both resources and hazards for
 sanctioned tournament play.
+
 Up to 3 copies of one Wizard or Ringwraith is allowed in a play deck,
-or up to 2 copies of one and 1 copy of another . One copy each of three
+or up to 2 copies of one and 1 copy of another. One copy each of three
 different Wizards or Ringwraiths is not allowed.
 
-Deck Construction
+#### Deck Construction
 
 Cards that can be played as either hazards or resources may count as
 either for purposes of deck construction.
+
 Each deck must contain at least 12 creatures.
+
 The following count as 1/2 a creature for deck construction: hazards
 that can be played as creatures or events, At Home Dragon
 manifestations, Ahunt Dragon manifestions and agents. Note that agents
 count as characters in Ringwraith decks, not as 1/2 creatures.
 
-The Character Draft
+#### The Character Draft
 
 The starting character pool consists of 10 characters.
+
 Each player reveals one character at a time from their pool,
 simultaneously with their opponent. Non-duplicated characters go into
 the starting parties, duplicated charcters are put aside and not allowed
