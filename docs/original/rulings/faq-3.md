@@ -13,9 +13,10 @@ Frequently Asked Questions File
 {: .text-center }
 Number 3, current as of 1/1/96  
 Blue in the Face Dwarf version  
+
 Maintained by Craig "Ichabod" O'Brien \<ich...@cstone.net>
 
-<br><br>Especially new and succulent information is marked with \*s.
+Especially new and succulent information is marked with \*s.
 
 #### Questions About Characters
 
