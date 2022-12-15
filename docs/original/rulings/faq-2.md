@@ -12,6 +12,7 @@ Frequently Asked Questions File
 
 {: .text-center }
 Number 2[^FAQ2]  
+
 Maintained by Craig "Ichabod" O'Brien \<ich...@cstone.net><br>
 
 Especially new and succulent information is marked with \*s.
