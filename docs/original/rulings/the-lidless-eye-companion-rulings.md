@@ -7,7 +7,7 @@ grand_parent: Original Rules
 
 # MIDDLE-EARTH<br>THE LIDLESS EYE COMPANION
 
-# • PART VI •<br>ERRATA AND CLARIFICATIONS
+@# • PART VI •<br>ERRATA AND CLARIFICATIONS
 
 This section lists errata and clarifications to the cards and rulesbook of _Middle-earth: The Lidless Eye_. If a card or rule lists an errata, it means the text of the card is wrong or incomplete. If a card or rule lists a clarification, it means the text could be ambiguous. All of these are official and are included in the _MECCG_ Collected Rulings File (MECCG CRF) which can be found on ICE's WEB page at http://www.ironcrown.com. The MECCG CRF is maintained by Craig "Ichabod" O'Brien at ichabod@cstone.net.
 
