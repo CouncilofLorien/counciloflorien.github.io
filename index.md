@@ -8,4 +8,5 @@ description: "The Council of Lórien is the U.S. sanctioning body for the Middle
 permalink: /
 ---
 
-Return to your site of origin.
+{: .text-center }
+_Return to your site of origin._
