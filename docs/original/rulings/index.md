@@ -16,16 +16,12 @@ However, some of these rulings are _outdated_ as the Rulings were revised, clari
 
 The digital version of these official rulings correct minor typographical, grammatical, and formatting issues. The Complete & Final Rules present the rules with all official errata, clarifications, and other revisions.
 
-## OFFICIAL RULINGS
+## RULING CHRONOLOGY
 
 ICE provided official errata and clarifications in the following publications:
 
- - [_Middle-earth: The Wizards Companion_](./wizards-companion-rulings.md) available February 1996)
- - [_Middle-earth: The Dragons Player Guide_](./the-dragons-player-guide-rulings) available January 1997
- - [_Middle-earth: Dark Minions Player Guide_](./dark-minions-player-guide-rulings) available February 1997
- - [_Middle-earth: The Lidless Eye Companion_](./the-lidless-eye-companion-rulings) printed June 1997
  - Frequently Asked Questions (FAQ) Files
-     - FAQ #1[^CRF1]
+     - FAQ #1 \[unavailable][^CRF1]
      - [FAQ #2](./faq-2) current as of December 1995
      - [FAQ #3](./faq-3) current as of 1 January 1996
      - [FAQ #4](./faq-4) current as of 21 January 1996
@@ -35,7 +31,7 @@ ICE provided official errata and clarifications in the following publications:
  - Collected Official Rulings Files (CRF)
      - [CRF version 1](./crf-1) current as of 24 October 1996
      - [CRF version 2](./crf-2) current as of 9 January 1996
-     - [CRF version 3](./crf-3)[^CRF3]
+     - [CRF version 3](./crf-3) \[commentary only][^CRF3]
      - [CRF version 4](./crf-4) current as of 28 February 1997 
      - [CRF version 5](./crf-5) current as of 19 May 1997
      - [CRF version 6](./crf-6) current as of 10 July 1997
@@ -48,7 +44,11 @@ ICE provided official errata and clarifications in the following publications:
      - [CRF version 13](./crf-13) current as of 11 August 1998
      - [CRF version 14](./crf-14) current as of 21 December 1998
      - [CRF version 15](./crf-15) current as of 29 May 1999
-
+ - [_Middle-earth: The Wizards Companion_](./wizards-companion-rulings.md) available February 1996)
+ - [_Middle-earth: The Dragons Player Guide_](./the-dragons-player-guide-rulings) available January 1997
+ - [_Middle-earth: Dark Minions Player Guide_](./dark-minions-player-guide-rulings) available February 1997
+ - [_Middle-earth: The Lidless Eye Companion_](./the-lidless-eye-companion-rulings) printed June 1997
+ - 
 ---
 
 [^CRF1]: The original FAQ was posted to www.ironcrown.com, not the usernet group. It has not been archived.
