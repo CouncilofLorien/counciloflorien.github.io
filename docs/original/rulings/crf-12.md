@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "CRF 11"
+title: CRF 12
 parent: Rulings
 grand_parent: Original Rules
 ---
