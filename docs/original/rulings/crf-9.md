@@ -486,7 +486,7 @@ Sauron.
 @ You may only call the Free Council if you have met the deck cycling and
 marshalling point requirments, no if only your opponent has.
 
-## Rulings By Term (from CRF 9, pare down)
+## Rulings By Term
 
 ### -= AAA =-
 
