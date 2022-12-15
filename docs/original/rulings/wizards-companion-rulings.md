@@ -7,6 +7,7 @@ grand_parent: Original Rules
 
 # MIDDLE-EARTH<br>THE WIZARDS COMPANION
 
+{: .text-center }
 ## • PART V •<br>ERRATA AND CLARIFICATIONS
 
 The following list details card errata and clarifications. This list is official. If a card lists an errata, it means the text on the card is wrong or incomplete. If a card lists a clarification, it means that the text on the card could be ambiguous. All of these errata changes have been made on Unlimited Edition cards (i.e., blue bordered cards).
