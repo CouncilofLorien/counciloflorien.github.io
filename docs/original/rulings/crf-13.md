@@ -10,7 +10,7 @@ grand_parent: Original Rules
 Collected Official Rulings File
 {: .text-center .text-beta}
 
-Version 13 current as of 
+Version 13 current as of August 11, 1998
 {: .text-center }
 
 Collected Rulings
