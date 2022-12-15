@@ -13,9 +13,10 @@ Frequently Asked Questions File
 {: .text-center }
 Number 6, current as of 2/20/96  
 Absent Minded Nazgul version  
+
 Maintained by Craig "Ichabod" O'Brien \<ich...@cstone.net>
 
-<br><br>Especially new and/or changed information is marked with \*s.
+Especially new and/or changed information is marked with \*s.
 
 #### Questions About Characters
 
