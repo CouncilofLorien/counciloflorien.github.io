@@ -13,7 +13,8 @@ Collected Official Rulings File
 Version 10 current as of January 1, 1998
 {: .text-center }
 
-Collected Rulings
+## Collected Rulings
+
 This is version 10 of the collected clarifications to the rules for the
 Middle-earth: Collectible Card Game, up to January 1, 1998. Some of these
 clarifications are considered errata to the rules or cards, and are noted as
@@ -21,41 +22,40 @@ such. The Turn Sequence and Rulings by Term sections are specifically
 considered clarifications to the rules, and are therefore overridden by card
 text that specifically does so. A complete list of errata is included on the
 back page of this booklet. There will be periodic updates to this booklet, and
-items marked with a " " are new or changed since the last version.
+items marked with a "@" are new or changed since the last version.
 New rulings that clarify ambiguous situtations take effect immediately.
+
 Reversals of old rulings, changes to the rules, and new rulings not covering
 ambiguous situations will not have an effect on tournament play until two to
 four weeks after they are made. Every other Monday, starting November 3, 1997,
 will be a Rulings Monday. On a Rulings Monday, delayed rulings that have been
 made will be announced on the internet, and rulings that were announced on the
 previous Rulings Monday will take effect.
+
 The main thing to remember, when making rulings based on the rules and the
 cards, is that if it isn't there, then it isn't there. If a card says a site
 counts as a Haven for purposes of healing, that does not mean the site counts
 as a Haven for any other purposes. If a card says it can be played as a
 resource, that does not mean it counts as a resource at any time except when
 it is being played. Remember: If it isn't there, it isn't there.
+
 Tournament rules for MECCG differ slightly from the rules for casual play.
 Rulings marked with a "#" differ from those in tournament play. When playing
 in a tournament, be sure to check the Tournament Rulings section.
+
 If you have any further questions concerning MECCG, you can either:
+ - Write Iron Crown Enterprises at P.O. Box 1605, Charlottesville, VA, 22902.
+ - Email the official rules representative, Craig "Ichabod" O'Brien, at \<ichabod cstone.net>
+ - Post the message to the Usenet news group rec.games.trading-cards.misc, with "\[MECCG]" in the subject line, or
+ - Join the official MECCG mailing list by sending a message to listproc tower.ml.org with "subscribe metw" and your email address in the body of the message.
 
+## Turn Sequence Rulings
 
-* Write Iron Crown Enterprises at P.O. Box 1605, Charlottesville, VA, 22902.
-* Email the official rules representative, Craig "Ichabod" O'Brien, at
-<ichabod cstone.net>
-* Post the message to the Usenet news group rec.games.trading-cards.misc, with
-"[MECCG]" in the subject line, or
-* Join the official MECCG mailing list by sending a message to
-listproc tower.ml.org with "subscribe metw" and your email address in the body
-of the message.
-
-Turn Sequence Rulings
-
-Beginning of the Game
-# If a character is put in the deck due to duplication in the starting
+### Beginning of the Game
+\# If a character is put in the deck due to duplication in the starting
 company, then it does not count against the 10 character limit.
-# You should either draw numbers for the whole game or roll dice for the
+
+\# You should either draw numbers for the whole game or roll dice for the
 whole game.
 
 Untap Phase
@@ -128,13 +128,13 @@ considered to be en route between sites and not at any site.
 Annotation 25a: A company's movement/hazard phase is concluded when a
 moving company removes its site of origin and both players agree to reconcile
 (discard down to/draw up to) their hand sizes. No resources (and obviously no
-hazards) can be played卟nd no resource effects can be activated𠹹ntil the site
+hazards) can be played卟nd no resource effects can be activated until the site
 phase or until both players have drawn cards for the movement of a following
 company.
 Annotation 25b: Players drawing cards when a new site is revealed is
 synonymous with the resolution of the new site being revealed. It happens
 immediately, not in the following chain of effects.
-Annotation 26: If at the start of a player零 movement/hazard phase, there
+Annotation 26: If at the start of a player's movement/hazard phase, there
 are multiple effects in play such that their net effect depends on the order
 they are applied, the player who is currently not taking his turn (i.e., the
 hazard player) decides the order in which they are to be applied. Once this
@@ -150,13 +150,13 @@ Companies at the same non-Haven/non-Darkhaven site must join at the end of
 all movement/hazard phases, before the site phase starts. Companies at the
 same Haven/Darkhaven site may join at this time.
 If companies would join at the end of the movement/hazard phase such that
-the company composition rules are violated, one company of the hazard player零
+the company composition rules are violated, one company of the hazard player's
 choice must return to its site of origin.
 If two companies join at a site, cards affecting one of the companies now
 affect them both.
 Removing the site of origin and resetting to hand size are simultaneous
 actions, and they are the last actions in any movement/hazard phase. This
-means a moving company is not at a site until the site phase. [effective
+means a moving company is not at a site until the site phase. \[effective
 11/17/97]
 
 Movement
@@ -2073,124 +2073,189 @@ An agent may tap to play creatures at a site if the company is moving to
 the site.
 Attacks keyed to Darkhavens are considered detainment.
 
-Card Errata
+## Card Errata
 
-Akhorahil: Change "...gives -1 penalty to one..." to "...modifies any one
+  Akhorahil: Change "...gives -1 penalty to one..." to "...modifies any one
 character's body by -1 for the rest of the turn.
-Alatar: Change "he must tap and make a corruption check immediately
+
+  Alatar: Change "he must tap and make a corruption check immediately
 following the attack." to "he must make a corruption check immediately
 following the attack, and, if untapped, he must tap."
-Align Palantir: Add "May not be duplicated on a given Palantir."
-Army of the Dead: Add "May not be influenced by an opponent."
-Assassin: Gives 2 MP, not 1.
-Bill the Pony: The body should be 10, not 6.
-Book of Mazarbul: Replace "tap the bearer during the organization phase"
+
+  Align Palantir: Add "May not be duplicated on a given Palantir."
+
+  Army of the Dead: Add "May not be influenced by an opponent."
+
+  Assassin: Gives 2 MP, not 1.
+
+  Bill the Pony: The body should be 10, not 6.
+
+  Book of Mazarbul: Replace "tap the bearer during the organization phase"
 with "tap Book of Mazarbul during your organization phase."
 Corsairs of the Umbar: Add "May also be played at any sites in Elven
 Shores, Eriadoran Coast, Andrast Coast, Bay of Belfalas, or Mouths of the
 Anuin."
-Cracks of Doom: Add "Only playable during the site phase." Remove
+
+  Cracks of Doom: Add "Only playable during the site phase." Remove
 "Otherwise, discard The One Ring."
-Cruel Caradhras: Replace "Minas Morgul" with "Imlad Morgul."
-Deeper Shadow: This is a short-event, not a long-event.
-Dodge: Replace "his body check is modified by -1." with "his body is
+
+  Cruel Caradhras: Replace "Minas Morgul" with "Imlad Morgul."
+
+  Deeper Shadow: This is a short-event, not a long-event.
+
+  Dodge: Replace "his body check is modified by -1." with "his body is
 modified by -1 for the resulting body check."
-Dragon's Hunger: Replace "Otherwise, the attack is canceled." with
+
+  Dragon's Hunger: Replace "Otherwise, the attack is canceled." with
 "Otherwise, the attack is canceled and the opponent must reveal his hand."
-Drowning Seas: Remove "Cannot be duplicated."
-Dwarven Ring of Bavor's/Druin's Tribe: One "reshuffle the play deck" is
+
+  Drowning Seas: Remove "Cannot be duplicated."
+
+  Dwarven Ring of Bavor's/Druin's Tribe: One "reshuffle the play deck" is
 sufficient.
-Dwarven Ring of Thelor's/Thrar's Tribe: Values in parenthesis and brackets
+
+  Dwarven Ring of Thelor's/Thrar's Tribe: Values in parenthesis and brackets
 apply to Dwarf bearer. The prowess/body modifications should read: "+2(4)/+1."
-Ent-draughts: Replace "as a minor item" with "in addition to an ally or
+
+  Ent-draughts: Replace "as a minor item" with "in addition to an ally or
 faction which has been successfully been played at Wellinghall."
-Giant: Add "Giant."
-Great Goblin: Add "Unique. Orc. One Strike."
-Great Lord of Goblin-gate: Add "Unique."
-Great Ship: Add "Tap a character in target company during the organization
+
+  Giant: Add "Giant."
+
+  Great Goblin: Add "Unique. Orc. One Strike."
+
+  Great Lord of Goblin-gate: Add "Unique."
+
+  Great Ship: Add "Tap a character in target company during the organization
 phase to play Great Ship on that company." Replace "...contains a coastal sea
 region..." with "...contains a coastal sea region and no consecutive non-
 coastal sea regions..."
-Gwaihir: Should read "you may discard Gwaihir during the organization phase
+
+  Gwaihir: Should read "you may discard Gwaihir during the organization phase
 to allow his company..."
-Hold Rebuilt and Repaired: "Playable during the site phase."
-Horses: Add "Playable only at the end of the organization phase."
-Huorn: Add "Awakened Plant."
-Ice-orcs: Change the Shadow-hold symbol into a Ruins & Lairs .
-Ioreth: Replace "Healing card" with "Healing effect."
-Iron Shield of Old: Add "Shield." [effective 11/17/97]
-Lucky Search: Replace "Discard all revealed cards except the item." with
+
+  Hold Rebuilt and Repaired: "Playable during the site phase."
+
+  Horses: Add "Playable only at the end of the organization phase."
+
+  Huorn: Add "Awakened Plant."
+
+  Ice-orcs: Change the Shadow-hold symbol into a Ruins & Lairs .
+
+  Ioreth: Replace "Healing card" with "Healing effect."
+
+  Iron Shield of Old: Add "Shield." [effective 11/17/97]
+
+  Lucky Search: Replace "Discard all revealed cards except the item." with
 "Reshuffle all revealed cards except the item back into the play deck." Add at
 the end of the first paragraph "Discard item if the scout is wounded by this
 attack."
-Lure of Nature: Replace "at the end of each movement/hazard phase" with
+
+  Lure of Nature: Replace "at the end of each movement/hazard phase" with
 "after all other hazards have been played."
-Mallorn: The first sentence should read: "Playable at Bag End only if Earth
+
+  Mallorn: The first sentence should read: "Playable at Bag End only if Earth
 of Galadriel's Orchard is stored there."
-Morannon: Should read "This card is used as a Dark-hold site card in the
+
+  Morannon: Should read "This card is used as a Dark-hold site card in the
 region of Udun that is moved to..."
-Mouth of Sauron: Add "Man."
-Muster: Replace entire text with: "Warrior only. An influence check against
+
+  Mouth of Sauron: Add "Man."
+
+  Muster: Replace entire text with: "Warrior only. An influence check against
 a faction by a warrior is modified by adding the warriorąs prowess to a
 maximum modifier of +5."
-Neeker-breekers: Add "Does not effect Wizards."
-Noble Hound: Add the sentence: "If Noble Hound is tapped or wounded, treat
+
+  Neeker-breekers: Add "Does not effect Wizards."
+
+  Noble Hound: Add the sentence: "If Noble Hound is tapped or wounded, treat
 it as though it were untapped for the purposes of assigning strikes."
-No Escape from My Magic: Change "Playable on any faction in play" to
+
+  No Escape from My Magic: Change "Playable on any faction in play" to
 "Playable on any unique faction in play."
-Old Forest: Replace "healing cards" with "healing effects."
-Old Man Willow: Add "Awakened Plant."
-The Old Thrush: Add "Cannot be duplicated on a given attack."
-Pukel-men: Add "Pukel-creature."
-Quiet Lands: Replace "is reduced to half its original prowess (rounded
+
+  Old Forest: Replace "healing cards" with "healing effects."
+
+  Old Man Willow: Add "Awakened Plant."
+
+  The Old Thrush: Add "Cannot be duplicated on a given attack."
+
+  Pukel-men: Add "Pukel-creature."
+
+  Quiet Lands: Replace "is reduced to half its original prowess (rounded
 up)." with "is reduced by half (rounded up)."
-Rebuild the Town: Replace "Playable on" with "Playable during the site
+
+  Rebuild the Town: Replace "Playable on" with "Playable during the site
 phase on."
-Rescue Prisoners: This cards gives 2 marshalling points, not 3. Add "You
+
+  Rescue Prisoners: This cards gives 2 marshalling points, not 3. Add "You
 receive the marshalling points for this card only when it is stored."
-Rhosgobel: Replace "healing cards" with "healing effects."
-Ringlore: Add "Playable only during the site phase. Tap the sage and the
+
+  Rhosgobel: Replace "healing cards" with "healing effects."
+
+  Ringlore: Add "Playable only during the site phase. Tap the sage and the
 site."
-River: Should read "Playable on a site. If a company that has moved to this
+
+  River: Should read "Playable on a site. If a company that has moved to this
 site this turn does not tap a ranger, it must do nothing during its site
 phase."
-Roac the Raven: Replace "no modifications to the influence check are
+
+  Roac the Raven: Replace "no modifications to the influence check are
 required." with "treat this influence check as if it was made by a diplomat."
-Sacrifice of Form: Replace "-3 to any body checks" with "+3 to any body
+
+  Sacrifice of Form: Replace "-3 to any body checks" with "+3 to any body
 checks."
-Siege: Change the Border-land symbol in the first line to a Border-hold
+
+  Siege: Change the Border-land symbol in the first line to a Border-hold
 symbol.
-Shadowfax: Change to "an additional site card may be played and an
+
+  Shadowfax: Change to "an additional site card may be played and an
 additional movement/hazard phase."
-Silent Watcher: Gives 1 marshalling point, not O. Add "Pukel-creature."
-Slayer: Gives 2 marshalling points, not 0. Add "Slayer."
-Stay Her Appetite: Change "plus two" to "plus five." [effective 11/3/97]
-Summons from Long Sleep: Change "When the reserved creature is played,
+
+  Silent Watcher: Gives 1 marshalling point, not O. Add "Pukel-creature."
+
+  Slayer: Gives 2 marshalling points, not 0. Add "Slayer."
+
+  Stay Her Appetite: Change "plus two" to "plus five." [effective 11/3/97]
+
+  Summons from Long Sleep: Change "When the reserved creature is played,
 another Dragon or Drake may be reserved." to "Discard this card after the
 reserved creature attacks."
-Thorough Search: Replace "...to play any item normally found at its current
+
+  Thorough Search: Replace "...to play any item normally found at its current
 site." with "...to play a minor, major, or gold ring item normally found at
 its current site."
-Tolfalas: Should read: "Playable: Items (minor, major, greater*) *Scroll of
+
+  Tolfalas: Should read: "Playable: Items (minor, major, greater*) *Scroll of
 Isildur only."
-Traitor: Replace the last paragraph with "This card is discarded when a
+
+  Traitor: Replace the last paragraph with "This card is discarded when a
 character fails his corruption check."
-Treebeard: Replace "Redhorn Gap" with "Redhorn Gate."
-Twilight: Add "This card may be played at any time during any player's
+
+  Treebeard: Replace "Redhorn Gap" with "Redhorn Gate."
+
+  Twilight: Add "This card may be played at any time during any player's
 turn."
-Use Palantir: Change text to "Sage only. Tap sage to enable him to use one
+
+  Use Palantir: Change text to "Sage only. Tap sage to enable him to use one
 Palantir he bears for the rest of the turn."
-Veils Flung Away: Each body check is modified by -1, not +1.
-Vilya: Vilya should now read: "Playable on Elrond only. +4 prowess, +2
+
+  Veils Flung Away: Each body check is modified by -1, not +1.
+
+  Vilya: Vilya should now read: "Playable on Elrond only. +4 prowess, +2
 body, +6 direct influence until the end of the turn. If Elrond is at Rivendell
 and your play deck has at least 5 cards in it, you may take 3 resource cards
 of your choice from your discard pile and shuffle them into your play deck.
 Elrond makes a corruption check modified by -3. Cannot be duplicated on a
 given turn."
-The White Tree: Add "Discard the Sapling of the White Tree."
-Wizard's Laughter: Change "Wizard only." to "Wizard only during opponent's
+
+  The White Tree: Add "Discard the Sapling of the White Tree."
+
+  Wizard's Laughter: Change "Wizard only." to "Wizard only during opponent's
 site phase."
-Wizard's Ring: Replace "Ignore any effect that would discard this item"
+
+  Wizard's Ring: Replace "Ignore any effect that would discard this item"
 with "Cannot be stored, stolen, or transferred."
-Woses of Eryn Vorn (minion version): Change "Man faction" to "Wose
+
+  Woses of Eryn Vorn (minion version): Change "Man faction" to "Wose
 faction."
