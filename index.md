@@ -7,3 +7,5 @@ nav_exclude: true
 description: "The Council of Lórien is the U.S. sanctioning body for the Middle-earth CCG."
 permalink: /
 ---
+
+Return to your site of origin.
