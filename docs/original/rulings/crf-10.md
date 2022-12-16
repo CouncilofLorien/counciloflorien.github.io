@@ -7,7 +7,7 @@ grand_parent: Original Rules
 
 # Middle-earth: Collectible Card Game
 
-Collected Official Rulings File
+Collected Clarifications to the Rules
 {: .text-center .text-beta}
 
 Version 10 current as of January 1, 1998
