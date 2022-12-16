@@ -51,11 +51,15 @@ If you have any further questions concerning MECCG, you can either:
 Beginning of the Game
 \# If a character is put in the deck due to duplication in the starting
 company, then it does not count against the 10 character limit.
+
 \# You should either draw numbers for the whole game or roll dice for the
 whole game.
+
 Your starting company can only contain 20 points of unmodified mind.
+
 Non-character cards duplicated in the character draft may not be placed
 into the play deck.
+
 Your staring hand is eight cards, regardless of what characters you
 have at particular sites.
 
@@ -69,12 +73,16 @@ everyone untaps.
 Rules Erratum: When a company splits, any of the resulting companies can
 move with region movement. Region movement is not limited to one company of a
 split.
+
 Any single site path cannot have more than one copy of a particular region.
+
 Any company may declare as its new site a site already on the table. That
 site will remain on the table at least until the end of that company's
 movement/hazard phase.
+
 Two companies may not start at the same site of origin and move to the same
 new site.
+
 Effects that are played during the organization phase, and depend on the
 site or site path of a moving company, create an effect which is not declared
 until the new site is revealed. If the site or site path is not of the
@@ -86,7 +94,9 @@ met.
 #### Followers
 A character cannot use a bonus to direct influence against "Blue Mountain
 Dwarves" to control characters with the home site Blue Mountain Dwarf-hold.
+
 The bonus only applies to the faction.
+
 Bonuses to direct influence against characters apply only once, not for
 each character.
 
@@ -95,14 +105,18 @@ When a company splits up, its player chooses which characters are the
 original company and which characters are a new company, unless otherwise
 directed by a card. All resource permanent-events played on the original
 company stay with the original company.
+
 Company composition changes that you choose to make, including bringing a
 character into play, must all be done at the same time during the organization
 phase. During this time no other actions may be taken.
+
 If a company splits, all but one of the split companies must attempt to
 move to a different site this turn. The company may not rejoin in the same
 phase.
+
 You may transfer a character from one company at a site to another,
 without creating a third company.
+
 See also Rulings by Term, Company and Influence
 
 #### Playing Characters
@@ -110,6 +124,7 @@ Rules Erratum: You may play a character if you do not have enough influence
 to control them. However, if there are any characters you do not have the
 influence to control at the end of your organization phase, the character you
 brought into play this turn must be returned to your hand.
+
 If you play a Ringwraith at a non-Darkahven site where there is one of your
 non-Ringwraith comapnies, one of the companies must move that turn. If both
 companies are still there at the end of the movement/hazard phase, discard
@@ -118,6 +133,7 @@ the non-Rinwraith company.
 #### Storing Items
 Minions who roll equal to or one less than their accumulated corruption
 when storing an item are only tapped.
+
 A minion who taps from a corruption check for storing/transferring an item
 still successfully stores/transfers that item.
 
@@ -131,39 +147,48 @@ card at all times except from the moment their new site card is revealed
 during their movement/hazard phase until their old site card is discarded
 during the same movement/hazard phase. During this period a company is
 considered to be en route between sites and not at any site.
+
 Annotation 25a: A company's movement/hazard phase is concluded when a
 moving company removes its site of origin and both players agree to reconcile
 (discard down to/draw up to) their hand sizes. No resources (and obviously no
 hazards) can be played卟nd no resource effects can be activated𠹹ntil the site
 phase or until both players have drawn cards for the movement of a following
 company.
+
 Annotation 25b: Players drawing cards when a new site is revealed is
 synonymous with the resolution of the new site being revealed. It happens
 immediately, not in the following chain of effects.
-Annotation 26: If at the start of a player零 movement/hazard phase, there
+
+Annotation 26: If at the start of a player's movement/hazard phase, there
 are multiple effects in play such that their net effect depends on the order
 they are applied, the player who is currently not taking his turn (i.e., the
 hazard player) decides the order in which they are to be applied. Once this
 interpretation is established, all further actions are applied in the order
 they are resolved for the rest of the turn.
+
 Once the effects of an environment card have been applied to a target
 during a given movement/hazard phase, that effect is not applied again to that
 target during the current turn.
+
 When you draw cards for movement, you may continue drawing cards until you
 either want to stop, or have drawn the number of cards allowed for the
 movement.
+
 Companies at the same non-Haven/non-Darkhaven site must join at the end of
 all movement/hazard phases, before the site phase starts. Companies at the
 same Haven/Darkhaven site may join at this time.
+
 If companies would join at the end of the movement/hazard phase such that
-the company composition rules are violated, one company of the hazard player零
-choice must return to its site of origin.
+the company composition rules are violated, one company of the hazard player's choice must return to its site of origin.
+
 If two companies join at a site, cards affecting one of the companies now
 affect them both.
+
 Removing the site of origin and resetting to hand size are simultaneous
 actions, and they are the last actions in any movement/hazard phase. This
 means a moving company is not at a site until the site phase. \[effective
 11/17/97]
+
 @ A non-moving company's current site is considered its new site for card
 play.
 
@@ -174,15 +199,19 @@ If a company does not move, it still has a movement/hazard phase. No cards
 are drawn based on the company's movement, and the only hazards that can be
 played on the company are creatures that can be keyed to the company's site
 and events.
+
 Lebennin and Ithilien are not adjacent, even though they look that way on
 some maps.
+
 If a company moves twice in one turn, resources played during the
 organization phase, like Secret Passage, are reapplied to the company at the
 beginning of each of their movement/hazard phases, if the conditions of the
 card are met.
+
 If both players have access to region movement, then neither player may
 be stopped from using region movement. Access includes region cards or an
 appropriate map.
+
 The same region (as in region card) may not occur twice in a single site
 path.
 
@@ -190,24 +219,33 @@ path.
 Some hazard permanent-events allow you to tap or discard them for an
 effect, and this does not count against the hazard limit unless specified
 otherwise on the card. \[effective 11/17/97]
+
 Hazards may only be played on a company whose movement/hazard phase is
 being resolved, or on the site they are moving to. Long-events and permanent-
 events may effect more than one company even though they are only played "on"
 one company.
+
 If a card must be keyed to two or more instances of a region type, those
 region types do not have to be consecutive in the site path.
+
 If you say you are done playing hazards and your opponent plays a resource
 before the movement/hazard phase ends, you may then resume playing hazards,
 assuming you have not yet reached the hazard limit.
+
 If a company is moving from a surface site to an Under-deeps site, hazards
 may not be played keyed to the region of the surface site.
+
 Angmar Arises, In Darkness Bind Them, and Reaching Shadow may not be used
 to play creatures keyed to double shadow-lands.
+
 A creature "played at" a site is the same as being "keyed to" the site.
+
 A creature "played at a site in" a region is the same as being "keyed to"
 the site by name.
+
 For the purposes of interpreting hazards, no Darkhaven or Haven has a
 site path except Geann a-Lisch.
+
 @ You check the hazard limit at declaration and resolution. At declaration
 there must be less hazards already declared than the hazard limit. At
 resolution there must be no more hazards declared than the hazard limit.
@@ -215,6 +253,7 @@ resolution there must be no more hazards declared than the hazard limit.
 #### Returning to Site of Origin
 If a company returns to its site of origin, its site path immediately
 disappears, and its movement/hazard phase immediately ends.
+
 An effect that returns a company to its site of origin may not be declared
 in the middle of an attack.
 
@@ -223,7 +262,9 @@ in the middle of an attack.
 #### General
 Side effects of losing a character are resolved immediately after the
 character is lost, before other characters resolve their strikes.
+
 All strikes of an attack must be assigned before any are resolved.
+
 See also Rulings by Term, Body Check and Ally; and Turn Sequence, Site
 Phase, Company vs. Company Combat.
 
@@ -231,35 +272,46 @@ Phase, Company vs. Company Combat.
 Annotation 12: An attack is considered to be resolved and concluded when
 the final strike, all special actions resulting from the final strike, and the
 associated body check are resolved.
+
 Annotation 13: An attack may not be canceled once its strikes have been
 assigned. A strike may not be canceled once the dice-roll for the strike has
 been made.
+
 Annotation 14: A canceled attack has no effect on its target company,
 except that the company is considered in its history to have faced the attack.
+
 Annotation 15: An attack must be the first declared action in a chain of
 effects, i.e., a creature card may not be played in response to another card
 in the same chain of effects. Revealing an on-guard creature is an exception.
+
 In order to cancel an attack or to directly affect an attack, the character
 doing so must be in the company facing the attack. Note that the region/site
 type a hazard creature was keyed to can be affected otherwise.
+
 Cards only modify attacks if they say they specifically mention attacks.
-When a minion company defeats an attack with no * by the MPs, the creature
+
+When a minion company defeats an attack with no \* by the MPs, the creature
 goes to the out-of-play pile belonging to the person who played the attack.
 They may still be taken as a trophy, but go to the appropriate out-of-play
 pile when the trophy is discarded.
+
 Excess strikes applied as -1 modifiers do not have to have their body
 defeated.
+
 If an attack states all characters in a company face a strike, then effects
 which allow a character to face more than one strike have no effect against
 the attack. Similarly, effects that change the attack's number of strikes have
 no effect. As an exception, effects which reduce the number of strikes to a
 specific number do work.
+
 Any effect that would change the number of strikes for an attack may not be
 played after strikes are assigned. This includes cards that have other
 additional effects, and cards that only indirectly change the number of
 strikes.
+
 Attacks created by events are not keyed to anything unless specifically
 stated as being keyed to something on the card.
+
 There are three levels of cards which reassign strikes. Alatar is the top
 level, and overrides any other conflicting card which changes the assignment
 of strikes. Cards which say they "always" or "in all cases" change the
