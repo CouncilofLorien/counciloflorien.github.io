@@ -980,12 +980,14 @@ Page 12 should say that companies must join at non-Haven sites. Companies at Hav
 The end-of-turn phase was left out of the rulesbook. During the end of turn phase you may discard one card, then you must reset to hand size.
 
 In the Dwar deck (H) and the Indûr deck (J), the Arkenstone should have the icon for a play deck card, not a sideboard card.
+
 Old Forest should read "healing effects," not "healing cards."
 
 #### Character
 A character enacting an effect counts as a character in his company, and may affect himself as a character in the company.
 
 A character in play must always be in one of three independent states: untapped, tapped, or wounded.
+
 You can have three of a non-unique character in your deck.
 
 Prowess modifications due to tapped and wounded status apply only during the strike sequence.
@@ -1003,6 +1005,7 @@ If all characters in a company leave play, the site goes to the location deck or
 The following allies make a company overt: The Balrog, Creature of an Older World, Great Bats, Great Lord of Goblin-gate, Last Child of Ungoliant, Regiment of Black Crows, and "Two- headed" Troll.
 
 Entities associated with a company include the characters, allies, and items in the company, and any events played on the company or on another entity in the company. The new site and site of origin are not entities associated with the company.
+
 A hero company is Wizard player's company, or a Fallen-wizard's company that has no Orcs or Trolls. A minion company is a Ringwraith player's company, or a Balrog player's company. An overt company is a company with Orcs and/or Trolls in it. Note that some allies can make a company overt, but Half-orcs do not.
 
 See also Turn Sequence, Organization Phase, Organizing Companies; and Rulings by Term, Influence.
@@ -1143,7 +1146,8 @@ A character removed from the control of direct influence outside the organizatio
 Changes to general influence take place immediately, with a minimum of zero free general influence.
 
 See also Turn Sequence, Organization Phase, Followers and Organizing Companies; and Rulings by Term, Company.
-Items
+
+#### Items
 
 The "free" minor item may only be played immediately after playing the resource that taps that site.
 
@@ -1425,10 +1429,10 @@ general influence at all times. This
 bonus general influence can never be used to control
 characters.
 
- @ You may not shuffle your discard pile unless a game
+You may not shuffle your discard pile unless a game
 effect requires it.
 
- @ To randomly access a card or cards from your discard
+To randomly access a card or cards from your discard
 pile, shuffle it and draw the
 required number of cards from the pile. The remaining
 cards become your new discard pile.
@@ -1587,9 +1591,6 @@ away.
 
 ### -= AAA =-
 
-#### A Strident Spawn
- Card Erratum: Add "Unique."
-
 #### Abductor
  Does not affect Ringwraiths.
 
@@ -1675,8 +1676,11 @@ Assassin by tapping a character, after
 strikes are assigned.
 
 #### A Strident Spawn
- Allows you to play Half-orcs without Bad Company in play.
 
+@ Card Erratum: Add "Unique."
+ 
+ Allows you to play Half-orcs without Bad Company in play.
+ 
 #### Await the Advent of Allies
  Read "is wounded" as "becomes wounded."
  
@@ -1735,6 +1739,7 @@ apply.
 
 #### Bill the Pony
  Card Erratum: The body should be 10, not 6.
+ 
  Bill the Pony's special ability may not be used at an
 Under-deeps site.
 
@@ -1787,7 +1792,8 @@ previously in the turn on the same company.
 
 #### Cirdan
  Cancels creatures keyed by region type, not by name.
-Corsairs of the Umbar
+
+#### Corsairs of the Umbar
 
  Card Erratum: Add "May also be played at any sites in
 Elven Shores, Eriadoran Coast,
@@ -1804,12 +1810,14 @@ of Doom without effect.
 
 #### Creature of an Older World
  Makes a company overt.
+ 
  This card will not put a Ringwraith into Fell Rider mode
 if there are any other allies in the
 company.
 
 #### Cruel Caradhras
  Card Erratum: Replace "Minas Morgul" with "Imlad Morgul."
+ 
  This card can be played on a company using region
 movement to leave a site in an affected
 region.
@@ -1818,6 +1826,7 @@ region.
 
 #### Deeper Shadow
  Card Erratum: This is a short-event, not a long-event.
+ 
  Deeper Shadow can cancel hazards by reducing the hazard
 limit to the point where the
 hazard resolving is no longer playable. If this is done
@@ -1931,6 +1940,7 @@ been successfully been played at Wellinghall."
 
 #### Evenstar
  Can be played even if there are no Wilderness in play.
+ 
  Does not affect attacks.
 
 ### -= FFF =-
@@ -1941,7 +1951,7 @@ Site.
 
 #### Fate of the Ithil-stone
  Fate of the Ithil-stone must be tapped before entering
-Barad- dur, in order to rotate it 180
+Barad-dur, in order to rotate it 180
 degrees.
 
 #### Favor of the Valar
@@ -1949,7 +1959,7 @@ degrees.
 your hand size.
 
 #### Fell Beast
- This card can be played and resolved before any Nazg l is
+ This card can be played and resolved before any Nazgul is
 played with it. A Nazgul must
 be played as the first declared action in the chain of
 effects following the resolution of Fell
@@ -2067,8 +2077,7 @@ do not apply to the second paragraph.
 
 #### Gothmog
  Gothmog is not keyed to anything, the Orc or Troll he is
-played after must be keyed to a
-Shadow-land or Dark-domain.
+played after must be keyed to a Shadow-land or Dark-domain.
 
 #### Great Bats
  Makes a company overt.
@@ -2088,8 +2097,7 @@ Shadow-land or Dark-domain.
 "opponent draws up to twice"
 
  If you have two movement/hazard phases on the turn you
-played a Great Road, you return to
-the Haven at which you started the turn.
+played a Great Road, you return to the Haven at which you started the turn.
 
  Replacing the site card is considered movement, without a
 movement/hazard phase.
@@ -2120,13 +2128,10 @@ company.
 by items being transferred.
 
 #### Guarded Haven
- You may not use this card as a starting stage resource.
+ @ Card Erratum: Remove "A company moving to or from this site is not considered to be moving through the region containing the site (including one less region in their site path."
+ 
+You may not use this card as a starting stage resource.
 \[Effective 8/27/98]
-
- @ Card Erratum: Remove "A company moving to or from this
-site is not considered to be
-moving through the region containing the site (including
-one less region in their site path."
 
 #### Gwaihir
  Card Erratum: Should read "you may discard Gwaihir during
@@ -2420,12 +2425,12 @@ skills are lost as long as this card is in
 play.
 
 #### Messenger to Mordor
- Cards stored with Messenger to Mordor must be storable at
-a generic Darkhaven, not a
-specific one.
+
+Cards stored with Messenger to Mordor must be storable at a generic Darkhaven, not a specific one.
 
 #### Mind Ring
- May not be used by a Fallen-wizard to play a six mind
+
+May not be used by a Fallen-wizard to play a six mind
 character.
 
 #### Mistress Lobelia
@@ -2637,16 +2642,14 @@ hero company containing a hobbit."
 characters while moving.
 
 #### Palantir of Elostirion
- @ Card Erratum: This item does not give MPs to a
-Fallen-Wizard regardless of other cards
-in play.
+
+@ Card Erratum: This item does not give MPs to a Fallen-Wizard regardless of other cards in play.
 
 #### Palantir of Orthanc
- Cannot be used on site cards.
- 
- @ Card Erratum: This item does not give MPs to a
-Fallen-Wizard regardless of other cards
-in play.
+
+@ Card Erratum: This item does not give MPs to a Fallen-Wizard regardless of other cards in play.
+
+Cannot be used on site cards.
 
 #### Palantir of Osgiliath
  Discard immediately if its company contains less than
@@ -2659,7 +2662,7 @@ continuous effects.
  The corruption is received immediately following the
 attack.
 
- You must control both the Pale Sword and the Nazg l it is
+ You must control both the Pale Sword and the Nazgul it is
 played on.
 
 #### Pallando
@@ -2764,9 +2767,7 @@ corruption checks for their characters.
  See also Rulings by Term, Nazgul.
 
 #### Rescue Prisoners
- Card Erratum: This cards gives 2 marshalling points, not
-3. Add "You receive the
-marshalling points for this card only when it is stored."
+ Card Erratum: This cards gives 2 marshalling points, not 3. Add "You receive the marshalling points for this card only when it is stored."
 
 #### Returned Beyond All Hope
  Returned Beyond All Hope "un-eliminates" a creature,
@@ -2910,7 +2911,9 @@ keyed to his site.
 #### Slayer
  Card Erratum: Gives 2 marshalling points, not 0. Add
 "Slayer."
+
  Only one attack can be canceled by tapping a character.
+ 
  All of the strikes will go against the same character.
 
 #### Sly Southerner
@@ -2918,12 +2921,14 @@ keyed to his site.
 
 #### Snaga-hai
  Can be influenced at any site they can be played at.
-Sneakin'
- Will still affect the company if its size rises above 2
-after resolution.
+
+#### Sneakin'
+
+ Will still affect the company if its size rises above 2 after resolution.
 
 #### Something Has Slipped
  The -2 applies for each character that is wounded.
+ 
  Wounding an ally triggers this card.
  
  You cannot "become wounded" if you are already wounded
@@ -3131,9 +3136,8 @@ to play this card.
  Wounding an ally discards an item.
 
 #### Where There's a Whip
- Only characters with a mind and prowess less than the
-
-#### Whip bearer's will untap.
+ Only characters with a mind and prowess less than the Whip bearer's will untap.
+ 
  The body check will discard Orcs and Trolls.
 
 #### White Mountains
@@ -3175,7 +3179,7 @@ until the appropriate time.
 
  See also Rulings by Term, Nazgul.
 
-#### #### Withdrawn to Mordor
+#### Withdrawn to Mordor
  To discard an on-guard card with Withdrawn to Mordor you
 must do so before the card is
 revealed.
@@ -3427,7 +3431,7 @@ End only if Earth of Galadriel's
 Orchard is stored there."
  
 Morannon: Should read "This card is used as a Dark-hold
-site card in the region of Ud n
+site card in the region of Udun
 that is moved to..."
  
 Mouth of Sauron: Add "Man."
@@ -3525,8 +3529,7 @@ Shadowfax: Change to "an additional site card may be
 played and an additional
 movement/hazard phase."
  
-Silent Watcher: Gives 1 marshalling point, not O. Add "P
-kel- creature."
+Silent Watcher: Gives 1 marshalling point, not 0. Add "Pukel-creature."
  
 Slayer: Gives 2 marshalling points, not 0. Add "Slayer."
 
