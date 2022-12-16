@@ -7,83 +7,8 @@ grand_parent: Original Rules
 
 # Middle-earth: Collectible Card Game
 
-Collected Official Rulings File
+Collected Clarifications to the Rules
 {: .text-center .text-beta}
-
-Version 15 current as of May 29, 1999
-{: .text-center }
-
-
-Hi,
-
-I failed to change the @ symbols when I posted the CRF. I will correct that
-ASAP. In the mean time, here are all the changes:
-
-Changes for MECCG CRF 15
-
-Turn Sequence Ruling-Movement/Hazard Phase-Movement-Returning to Site of
-Origin
-ERRATA: If a company returns to its site of origin, it may do nothing during
-it's site phase. A company failing it underdeeps movement roll is not
-effected by this rule.
-
-Turn Sequence Ruling-Site Phase-Company Vs. Company Combat
-ERRATA: Hazard effects in play that affect attacks have no effect on company
-vs. company combat. (This replaces the CRF entry, "Hazards have no effect on
-company vs. company combat.)
-
-Turn Sequence Ruling-Site Phase-Influence Attempts
-Change "It is not possible to influence an item away from a Wizard or
-Ringwraith." to "It is not possible to influence anything away from a Wizard
-or Ringwraith."
-
-Turn Sequence Ruling-Site Phase-On-Guard Cards
-Add: If the site an on-guard card is played upon leaves play before the site
-phase, the on-guard cards at that site return to their owner's hand.
-
-Rulings by Term - Balrog
-ERRATA: Balrog players receive no Marshaling Points for hero items played at
-their darkhavens.
-
-Rulings by Term - Underdeeps
-With the addition of the sites in Balrog, Windthrone is now always the
-surface site of an underdeeps.
-
-Card Rulings - A Strident Spawn
-Add, ERRATA: Unique.
-
-Card Ruling - Long Grievous Siege
-There must be an eligible borderhold for this card to be played.
-
-Card Ruling - River
-You must tap one ranger for each river played on the site.
-
-Card Ruling - Fortress of Isen: Remove "A company moving to or from Isengard
-is not
-considered to be moving through Gap of Isen (including one less Border-
-land in their site path)."
-
-Card Ruling - Fortress of the Towers: Remove: "A company moving to or from
-The Wither Towers is not considered to be moving through ARthedain
-(including one
-less Wilderness in their site path)."
-
-Card Ruling - Guarded Haven: Remove "A company moving to or from this site
-is not
-considered to be moving through the region containing the site (including
-one less of its region type in their site path)."
-
-Card Ruling - Palantir of Elostirion: This item does not give MPs to a
-Fallen-wizard,
-regardless of other cards in play.
-
-Card Ruling - Palantir of Orthanc: This item does not give MPs to a
-Fallen-wizard,
-regardless of other cards in play.
-
-Card Ruling - Rhosgobel: Remove "Any of your companies moving to or from
-Rhosgobel is not considered to be moving through Southern Mirkwood
-(including one less Dark-domain in their site path)."
 
 ## Introduction
 
