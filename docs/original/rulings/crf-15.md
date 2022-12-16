@@ -1920,31 +1920,31 @@ immediately following the resolution of this card, this
 card is returned to its player's hand.
 This card cannot be played for no effect just to discard
 it.
-Morgul-knife
+#### Morgul-knife
  The corruption is received immediately following the
 attack.
-Morgul Night
+#### Morgul Night
  Morgul Night is not discarded if Doors of Night leaves
 play.
-Mountains of Shadow
+#### Mountains of Shadow
  The "otherwise" on this card should be read as
 "alternatively."
-Mount Doom
+#### Mount Doom
  If the site type of Mount Doom changes, creatures may be
 keyed to the new site type, but not
 to the old site type.
-Mouth of Sauron
+#### Mouth of Sauron
  Card Erratum: Add "Man."
-M mak
+#### Mumak
  See Rulings by Term, Card Effect Limitations.
-Muster
+#### Muster
  Card Erratum: Replace entire text with: "Warrior only. An
 influence check against a faction
 by a warrior is modified by adding the warrior's prowess
 to a maximum modifier of +5."
-Muster Disperses
+#### Muster Disperses
  Muster Disperses cannot be revealed as an on-guard card.
-My Precious
+#### My Precious
  Does not count as Gollum for the purposes of Gollum's
 Fate or any other card that
 specifically calls for Gollum.
@@ -1954,68 +1954,71 @@ specifically calls for Gollum.
  His attack is successful if all of the strikes are
 successful. His attack fails if any of his strikes
 fail.
--= NNN =-
-Narya
+
+### -= NNN =-
+
+#### Narya
  Because of the way that timing rules work, characters
 tapping in support have no effect on
 the corruption check, since they will be untapped when
 the support resovles.
  See also Rulings by Term, Corruption.
-The Nazg l are Abroad
+#### The Nazgul are Abroad
  See Rulings by Term, Card Effect Limitations.
-Neeker-breekers
+#### Neeker-breekers
  Card Erratum: Add "Does not effect Wizards."
-Nenseld� the Wingild
+#### Nenselde the Wingild
  May tap to give +1 prowess to another character facing an
 attack.
-New Friendship
+#### New Friendship
  The influence bonus from New Friendship applies only to
 the diplomat, but the corruption
 check bonus applies to any character in the diplomat's
 company.
-News Must Get Through
+#### News Must Get Through
  Cards stored with News Must Get Through must be storable
 at a generic Darkhaven, not a
 specific one.
-News of the Shire
+#### News of the Shire
  Affects all versions of Bag End.
-Night
- The bonuses for Men and D�nedain do not apply to attacks.
-Noble Hound
+#### Night
+ The bonuses for Men and Dunedain do not apply to attacks.
+#### Noble Hound
  Card Erratum: Add the sentence: "If Noble Hound is tapped
 or wounded, treat it as though
 it were untapped for the purposes of assigning strikes."
-Nobody's Friend
+#### Nobody's Friend
  The "playable on ..." conditions of the first paragraph
 do not apply to the second paragraph.
-No Escape From My Magic
+#### No Escape From My Magic
  Card Erratum: Change "Playable on any faction in play" to
 "Playable on any unique faction
 in play."
-Not at Home
+#### Not at Home
  Cannot cancel any attack or automatic-attack except one
 from a Dragon, Drake, or Troll.
--= OOO =-
-Old Forest
+
+### -= OOO =-
+#### Old Forest
  Card Erratum: Replace "healing cards" with "healing
 effects."
-Old Friendship
+#### Old Friendship
  The influence bonus from Old Friendship applies only to
 the diplomat, but the corruption
 check bonus applies to any character in the diplomat's
 company.
-Old Man Willow
+#### Old Man Willow
  Card Erratum: Add "Awakened Plant."
-Old Road
+#### Old Road
  May be used to influence an opponent's faction only when
 you are attempting to bring your
 copy of the faction into play.
-The Old Thrush
+#### The Old Thrush
  Card Erratum: Add "Cannot be duplicated on a given
 attack."
  Cannot be used against agents, since none of them have a
 listed prowess of 13 or greater.
-The One Ring
+#### The One Ring
  Can be used multiple times in a turn if the corruption
 checks are successful.
  "Starting prowess" refers to the prowess printed on the
@@ -2024,398 +2027,496 @@ character card.
 provide corruption to the characters in
 the company.
  Cannot be played after a test from storing a gold ring.
-Open to the Summons
+
+#### Open to the Summons
  Card Erratum: Replace "minion company" with "company."
  Does not allow you to start with a character that says he
 cannot be in the starting company.
-Orc Mail
+
+#### Orc Mail
  Cannot be played on a company with allies in it, as there
 are no Dwarf or Hobbit allies.
--= PPP =-
-Padding Feet
+
+### -= PPP =-
+
+#### Padding Feet
  Card Erratum: Replace the first sentence with: "Playable
 during the site phase on a lone
 scout minion (no other characters or allies in his
 company) at the same site as an opponent
 hero company containing a hobbit."
-Palant�r of Amon Sul
+
+#### Palantir of Amon Sul
  Discard immediately if its company contains less than two
 characters while moving.
-Palant�r of Elostirion
+
+#### Palantir of Elostirion
  @ Card Erratum: This item does not give MPs to a
 Fallen-Wizard regardless of other cards
 in play.
-Palant�r of Orthanc
+
+#### Palantir of Orthanc
  Cannot be used on site cards.
+ 
  @ Card Erratum: This item does not give MPs to a
 Fallen-Wizard regardless of other cards
 in play.
-Palant�r of Osgiliath
+
+#### Palantir of Osgiliath
  Discard immediately if its company contains less than
 four characters while moving.
- Only copies tapping effects of other Palant�ri, not
+
+ Only copies tapping effects of other Palantiri, not
 continuous effects.
-The Pale Sword
+
+#### The Pale Sword
  The corruption is received immediately following the
 attack.
+
  You must control both the Pale Sword and the Nazg l it is
 played on.
-Pallando
+
+#### Pallando
  Can only see the top card of an opponent's discard pile.
-Panalopy of Wings
+
+#### Panalopy of Wings
  The Radagast bonus applies if you have a character
 manifestation of Radagast in play, or if
 you have declared you are playing Fallen-Radagast.
-Peril Returned
+
+#### Peril Returned
  Will not stop Gates of Morning from discarding hazard
-environments when it resolves.
-[effective 11/17/97]
-Plague
+environments when it resolves. \[effective 11/17/97]
+
+#### Plague
+
  Card Erratum: Change "At the end of the target's
 movement/hazard phase" to "At the end of
-your opponent's turn." [Effective 8/27/98]
-Praise to Elbereth
- Nazg l events discarded by Praise to Elbereth have no
+your opponent's turn." \[Effective 8/27/98]
+
+#### Praise to Elbereth
+ Nazgul events discarded by Praise to Elbereth have no
 effect.
+
  Which characters are tapping to discard which events must
 be declared when Praise to
 Elbereth is declared.
- Nazg l permanent-events that are targeted by Praise to
+
+ Nazgul permanent-events that are targeted by Praise to
 Elbereth may not be tapped in
 response to its play.
-Prophet of Doom
+
+#### Prophet of Doom
  "Number of regions between" includes the region of
 Pallando's site and the region the
 faction is played in.
-P kel-men
- Card Erratum: Add "P kel-creature."
--= QQQ =-
-Quiet Lands
+
+#### Pukel-men
+ Card Erratum: Add "Pukel-creature."
+
+### -= QQQ =-
+
+#### Quiet Lands
  Card Erratum: Replace "is reduced to half its original
 prowess (rounded up)." with "is
 reduced by half (rounded up)."
-Quickbeam
+
+#### Quickbeam
  May tap to give +1 prowess to another character facing an
 automatic- attack, or hazard
 keyed to his site.
--= RRR =-
-Radagast's Black Bird
+
+### -= RRR =-
+
+#### Radagast's Black Bird
  This is a two mind ally.
-Rats
+
+#### Rats
  Only an unwounded character may be wounded by this card.
-Rebuild the Town
+
+#### Rebuild the Town
  Card Erratum: Replace "Playable on" with "Playable during
 the site phase on."
+
  See also Turn Sequence, Site Phase, General.
-Reforging
+
+#### Reforging
  You can use it on hoard items.
-Reaching Shadow
+
+#### Reaching Shadow
  May not be used to play creatures keyed to double
 Shadow-lands.
-Ready to his Will
+
+#### Ready to his Will
  Note that cards like Rank Upon Rank are applied as a
 passive condition, once an attack of
 the right type is in play. Therfore you can play and
 successfully resolve Ready to His Will in
 respons to the declaration of Rank Upon Rank's effect.
-Regiment of Black Crows
+
+#### Regiment of Black Crows
  Makes a company overt.
+ 
  May tap to give +1 prowess to characters during combat.
-Reluctant Final Parting
+
+#### Reluctant Final Parting
  Card Errratum: Add "Determine nearest Haven using site
-cards of the same alignment
-(minion/hero) as the ally." [Effective 4/20/98]
+cards of the same alignment (minion/hero) as the ally." \[Effective 4/20/98]
+
  Reluctant Final Parting has no effect on The Balrog.
-Ren the Unclean
+
+#### Ren the Unclean
  If you tap Ren, then you cannot play resources to aid
 your character's corruption checks.
+
 Your characters may tap in support.
+
  The moving player makes corruption checks first. Each
 player decides the order of the
 corruption checks for their characters.
- See also Rulings by Term, Nazg l.
-Rescue Prisoners
+
+ See also Rulings by Term, Nazgul.
+
+#### Rescue Prisoners
  Card Erratum: This cards gives 2 marshalling points, not
 3. Add "You receive the
 marshalling points for this card only when it is stored."
-Returned Beyond All Hope
+
+#### Returned Beyond All Hope
  Returned Beyond All Hope "un-eliminates" a creature,
 allowing any manifestations of that
 character to be played.
+
  This card may target creatures still in play as trophies.
-Rhosgobel
+
+#### Rhosgobel
  @ Card Erratum: Remove "A company moving to or from
 Rhosgobel is not considered to
 be moving through Southern Mirkwood (including one less
 Dark-domain in their site path."
+
  Card Erratum: Replace "healing cards" with "healing
 effects."
-Ride Against the Enemy
+
+#### Ride Against the Enemy
  Hazards have no effect on the attack, and any resource
 effects that benefit the attack are
 cancelled. The attack may still be cancelled.
+
  You may not use a Wizard your opponent has played
 Sacrifice of Form on.
+
  The character gets any appropriate combat bonuses list on
 his card.
-Ringlore
+
+#### Ringlore
  Card Erratum: Add "Playable only during the site phase.
 Tap the sage and the site."
-The Ring's Betrayal
+
+#### The Ring's Betrayal
  The ring must be chosen at time of declaration if the
 character bears more than one.
-River
+
+#### River
  Card Erratum: Should read "Playable on a site. If a
 company that has moved to this site this
 turn does not tap a ranger, it must do nothing during its
 site phase."
+
  @ You have until the beginning of the site phase to tap a
 ranger, and you may tap the ranger
 at the beginning of the site phase without entering the
 site. You must tap one ranger for each
 river played on the site.
-R�ac the Raven
+
+#### Roac the Raven
  Card Erratum: Replace "no modifications to the influence
 check are required." with "treat
 this influence check as if it was made by a diplomat."
+
  His special ability may only be used during the site
 phase.
+
  He can make the attempt by himself.
+ 
  Using this ally to make an influence attempt does not tap
 a site, and may be done if his
 company is at a tapped site.
-Rumor of Wealth
+
+#### Rumor of Wealth
  Can be played on-guard.
-Ruse
+
+#### Ruse
  If Ruse is played by a scout who is the only character in
 the company, the attack has no
 effect. If there is a creature card it is discarded. The
 attack is considered faced but not
 canceled.
--= SSS =-
-Sable Shield
+
+### -= SSS =-
+
+#### Sable Shield
  A bearer who did not tap while facing a strike will not
 tap if the strike is successful.
+
  A detainment strike will not discard the Sable Shield.
-Sack over the Head
+ 
+#### Sack over the Head
  Affects any Hobbit or Dwarf wounded by the attack, not
 just those wounded by the Troll.
-Sacrifice of Form
+
+#### Sacrifice of Form
  Card Erratum: Replace "-3 to any body checks" with "+3 to
 any body checks."
+
  After Sacrifice of Form is played, you may not play a
 different Wizard and your opponent
 may not play the Wizard you sacrificed.
+
  This card is played after strikes are assigned.
+ 
  See also Turn Sequence, Site Phase, Company versus
 Company Combat.
-Secret Entrance
+
+#### Secret Entrance
  Can be played on a company that does not move.
+ 
  See also Turn Sequence, Organization Phase, Choosing a
 New Site.
-Secret Passage
+
+#### Secret Passage
  Does not work if the site type changes.
+ 
  See also Turn Sequence, Organization Phase, Choosing a
 New Site.
-Siege
+
+#### Siege
  Card Erratum: Change the Border-land symbol in the first
 line to a Border-hold symbol.
+
  Goes away when the site it was played on is discarded.
+ 
  If you move to a site with Siege played on it, any effect
 which can give you a second
 movment/hazard phase that turn will allow you to avoid
 the effects of Siege.
-Sentinels of Numenor
+
+#### Sentinels of Numenor
  Sentinels of Numenor will not give an extra marshalling
 point to Army of the Dead.
-Shadowfax
+
+#### Shadowfax
  Card Erratum: "an additional site card may be played and
 an additional movement/hazard
 phase."
+
  Cannot use his special ability if another ally is in the
 company.
-Silent Watcher
- Card Erratum: Gives 1 marshalling point, not 0. Add "P
-kel- creature."
-Skinbark
+
+#### Silent Watcher
+ Card Erratum: Gives 1 marshalling point, not 0. Add "Pukel- creature."
+
+#### Skinbark
  May tap to give +1 prowess to another character facing an
 automatic- attack, or hazard
 keyed to his site.
-Slayer
+
+#### Slayer
  Card Erratum: Gives 2 marshalling points, not 0. Add
 "Slayer."
  Only one attack can be canceled by tapping a character.
  All of the strikes will go against the same character.
-Sly Southerner
+
+#### Sly Southerner
  This is a two mind character.
-Snaga-hai
+
+#### Snaga-hai
  Can be influenced at any site they can be played at.
 Sneakin'
  Will still affect the company if its size rises above 2
 after resolution.
-Something Has Slipped
+
+#### Something Has Slipped
  The -2 applies for each character that is wounded.
  Wounding an ally triggers this card.
+ 
  You cannot "become wounded" if you are already wounded
 before the strike.
-So You've Come Back
+
+#### So You've Come Back
  If two companies join, and both companies have a So
 You've Come Back played on them,
 the hazard player chooses which one to discard.
+
  A character in a company with just allies is by himself
 for the purposes of this card.
 
-Spider of the Morlat
+#### Spider of the Morlat
  Spider attacks from Spider of the Morlat played as a
 permanent- event are considered
 detainment vs. minion companies.
 
-Squint-eyed Brute
+#### Squint-eyed Brute
  This is a two mind character.
 
-Star of High Hope
+#### Star of High Hope
  Does not affect attacks.
 
-Stay Her Appetite
+#### Stay Her Appetite
  Card Erratum: Change "plus two" to "plus five."
 \[Effective 11/3/97]
+
  If Stay Her Appetite is played on an ally with no
 prowess, there is no attack, but all other
 affects of the card apply.
 
-Stealth
+#### Stealth
  Prevents the revealing of a creature on-guard.
 
-Sudden Call
+#### Sudden Call
  You may not shuffle Sudden Call into your deck while you
 are drawing cards. Drawing
 cards is an indivisible action.
 
-Summons from Long Sleep
+#### Summons from Long Sleep
  Card Erratum: Change "When the reserved creature is
 played, another Dragon or Drake
 may be reserved." to "Discard this card after the
 reserved creature attacks."
+
  Reseving the creature does not count against the hazard
 limit.
 
-Sun
+#### Sun
  Does not affect attacks.
 
-Swarm of Bats
+#### Swarm of Bats
  Does not help an attacking company in company vs. company
 combat.
 
--= TTT =-
+### -= TTT =-
 
-They Ride Together
+#### They Ride Together
  Company size is still limited to seven.
 
-Thing Stolen
+#### Thing Stolen
  Playing the item will tap the site if it is not already
 tapped.
 
-Thong of Fire
+#### Thong of Fire
  The prowess requirement only applies when transfering or
 playing Thong of Fire, and
 includes modifications to the character's prowess.
 
-Thorough Search
+#### Thorough Search
  Card Erratum: Replace "...to play any item normally found
 at its current site." with "...to
 play a minor, major, or gold ring item normally found at
 its current site."
 
-Thrall of the Voice
+#### Thrall of the Voice
  Does not allow starting with a character that specifies
 it may not be in the starting company.
 
-Threats
+#### Threats
  For this card, your prowess is calculated when it
 resolves.
 
-Tidings of Bold Spies
+#### Tidings of Bold Spies
  Tidings of Bold Spies only copies attacks, not effects
 that allow certain creatures to become
 automatic-attacks.
 
-Tolfalas
+#### Tolfalas
  Card Erratum: Should read: "Playable: Items (minor,
 major, greater*) *Scroll of Isildur
 only."
 
-Tom Bombadil
+#### Tom Bombadil
  Card Erratum: Change "that targets a company" to "that
 targets a company, or an entity
 associated with a company."
 
-Traitor
+#### Traitor
  Card Erratum: Replace the last paragraph with "This card
 is discarded when a character
 fails his corruption check."
+
  Two Traitors have no extra effect and are both discarded
 with the next failed corruption
 check.
+
  Traitor cannot be revealed as an on-guard card.
+ 
  This is an attack with the same race as the character
 attacking, and a normal prowess of ten
 plus the character's prowess.
+
  Characters facing a Traitor when it is not their turn may
 not play resources, but may still tap
 for full prowess.
 
-Treebeard
+#### Treebeard
  Card Erratum: Replace "Redhorn Gap" with "Redhorn Gate."
+ 
  May tap to give +1 prowess to another character facing an
-automatic- attack, or hazard
+automatic-attack, or hazard
 keyed to his site.
 
-True Fana
+#### True Fana
  Combat modifiers that modify prowess only against a
 strike do not count when determining
 the Wizard's prowess.
+
  When this spell is used against an agent, the agent does
 not receive the two 6-sided dice
 bonus.
+
  See also Turn Sequence, Site Phase, Company versus
 Company Combat.
 
-Twilight
+#### Twilight
  Card Erratum: Add "This card may be played at any time
 during any player's turn."
+
  Can target a card that has not yet resolved.
+ 
  Can be played as a resource during your opponent's turn.
-"Two-headed" Troll
+
+#### "Two-headed" Troll
  Makes a company overt.
 
--= UUU =-
+### -= UUU =-
 
-The Under-galleries
+#### The Under-galleries
  You cannot play Morannon at The Under-galleries. However,
 you can play Ancient Stair
 from Morannon, move to The Under-galleries, and zip back
 to Morannon at the end of the
 turn.
 
-Ursiev of Treachery
+#### Ursiev of Treachery
  You may not use this item to assign a third strike to the
 character.
 
-Use Palantir
+#### Use Palantir
  Card Erratum: Change text to "Sage only. Tap sage to
-enable him to use one Palant�r he
+enable him to use one Palantir he
 bears for the rest of the turn."
-Use Your Legs
+
+#### Use Your Legs
  All strikes by the entire company count for capturing
 Hobbits.
+
  The characters placed off to the side are not considered
 prisoners for MP purposes.
 
--= VVV =-
+### -= VVV =-
 
-Veils Flung Away
+#### Veils Flung Away
  Card Erratum: Each body check is modified by -1, not +1.
-Vilya
+
+#### Vilya
  Card Erratum: Vilya should now read: "Playable on Elrond
 only. +4 prowess, +2 body, +6
 direct influence until the end of the turn. If Elrond is
@@ -2426,41 +2527,43 @@ shuffle them into your play deck. Elrond makes a
 corruption check modified by -3. Cannot
 be duplicated on a given turn."
 
-Voices of Malice
+#### Voices of Malice
  May be played during the site phase by a character in
 another company, as if he were in the
 company resolving their site phase.
 
--= WWW =-
+### -= WWW =-
 
-We Have Come to Kill
+#### We Have Come to Kill
  We Have Come to Kill may be used to bring in agents, but
 not Ringwraiths.
+
  You must have enough influence to control the character
 to play this card.
 
-Were-worm
+#### Were-worm
  Wounding an ally discards an item.
 
-Where There's a Whip
+#### Where There's a Whip
  Only characters with a mind and prowess less than the
-Whip bearer's will untap.
+
+#### Whip bearer's will untap.
  The body check will discard Orcs and Trolls.
 
-White Mountains
+#### White Mountains
  The "otherwise" on this card should be read as
 "alternatively."
 
-The White Tree
+#### The White Tree
  Card Erratum: Add "Discard the Sapling of the White
 Tree."
 
-Will of Sauron
+#### Will of Sauron
  Long-events are only discarded if Will of Sauron ceases
 to be in play, not if one particular
 card leaves play.
 
-The Windlord Found Me
+#### The Windlord Found Me
  Can be used to recover a Wizard discarded with Sacrifice
 of Form.
 
@@ -2472,60 +2575,64 @@ Deeper is in play.
 character after the attack, discard
 it."
 
-Winds of Wrath
+#### Winds of Wrath
  See Rulings by Term, Card Effect Limitations.
 
-Winged Change Master
+#### Winged Change Master
  Only affects Radagast when using region movement.
 
-Witch-king of Angmar
+#### Witch-king of Angmar
  Although he becomes a long-event when tapped, he is
 discarded when the effect resolves
-just like other Nazg l. The long-event effect will remain
+just like other Nazgul. The long-event effect will remain
 until the appropriate time.
- See also Rulings by Term, Nazg l.
 
-Withdrawn to Mordor
+ See also Rulings by Term, Nazgul.
+
+#### #### Withdrawn to Mordor
  To discard an on-guard card with Withdrawn to Mordor you
 must do so before the card is
 revealed.
+
  The "playable on ..." conditions of the first paragraph
 do not apply to the second paragraph.
 
-Wizard's Laughter
+#### Wizard's Laughter
  Card Erratum: Change "Wizard only." to "Wizard only
 during opponent's site phase."
 
-Wizard's Myrmidon
+#### Wizard's Myrmidon
  Can be played wiht another card, like Squire of the Hunt,
 that reduces the influence required
 to control the character. Use the lower number to control
 the character.
 
-Wizard's Ring
+#### Wizard's Ring
  Card Erratum: Replace "Ignore any effect that would
 discard this item" with "Cannot be
 stored, stolen, or transferred."
+
  This is not a ring item.
 
-Wolf-riders
+#### Wolf-riders
  The "playable on ..." conditions of the first paragraph
 do not apply to the second paragraph.
 
-Wolves
+#### Wolves
  Card Erratum: Change "Animals" to "Wolves."
 
-Worn and Famished
+#### Worn and Famished
  See Rulings by Term, Card Effect Limitations.
 
-The Worthy Hills
+#### The Worthy Hills
  Since this site never taps, no free minor items may be
 played here.
+
  (minion) The Worthy Hills effect of not tapping does not
 interfere with the satisfying of
 active conditions.
 
-Woses of Eryn Vorn
+#### Woses of Eryn Vorn
  Card erratum (minion version): Change "Man faction" to
 "Wose faction."
 
@@ -2711,6 +2818,7 @@ Horses: Add "Playable only at the end of the organization
 phase."
  
 Huorn: Add "Awakened Plant."
+
  Ice-orcs: Change the Shadow-hold symbol into a Ruins &
 Lairs.
  
@@ -2844,7 +2952,6 @@ creature is played, another
 Dragon or Drake may be reserved." to "Discard this card
 after the reserved creature attacks."
 
- 
 Thorough Search: Replace "...to play any item normally
 found at its current site." with
 "...to play a minor, major, or gold ring item normally
@@ -2867,7 +2974,7 @@ Twilight: Add "This card may be played at any time during
 any player's turn."
  
 Use Palantir: Change text to "Sage only. Tap sage to
-enable him to use one Palant�r he
+enable him to use one Palantir he
 bears for the rest of the turn."
  
 Veils Flung Away: Each body check is modified by -1, not
