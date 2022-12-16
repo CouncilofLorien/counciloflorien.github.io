@@ -7,11 +7,8 @@ grand_parent: Original Rules
 
 # Middle-earth: Collectible Card Game
 
-Collected Official Rulings File
+Collected Clarifications to the Rules
 {: .text-center .text-beta}
-
-Version 12 current as of June 16, 1998
-{: .text-center }
 
 This is version 12 of the collected clarifications to the rules for the Middle- earth: Collectible Card Game, up to June 16, 1998; including up to digest 96 of the mailing list. Some of these clarifications are considered errata to the rules or cards, and are noted as such. The Turn Sequence and Rulings by Term sections are specifically considered clarifications to the rules, and are therefore overridden by card text that specifically does so. A complete list of errata is included. There will be periodic updates to this file, and items marked with a "@" are new or changed since the last version.
 
