@@ -29,22 +29,22 @@ If you have any further questions concerning _MECCG_, you can either:
 ## Table of Contents
  - [Introduction](#introduction)
  - [Table of Contents]()
- - [Turn Sequence Rulings]()
- - [Beginning of the Game]()
- - [Untap Phase]()
- - [Organization Phase]()
- - [Long-event Phase]()
- - [Movement/Hazard Phase]()
- - [Site Phase]()
- - [End-of-Turn Phase]()
- - [Free Council]()
- - [Rulings by Term]()
- - [A][B][C][D][E][F][G][H][I][J][K][L][M]<br>[N][O][P][Q][R][S][T][U][V][W][X][Y][Z]
- - [Tournament Rulings]()
- - [Card Errata and Rulings]()
- - [A][B][C][D][E][F][G][H][I][J][K][L][M]<br>[N][O][P][Q][R][S][T][U][V][W][X][Y][Z]
- - [Complete Errata Listing]()
- - [Delayed Rulings for tournament play.]()
+ - [Turn Sequence Rulings](#turn-sequence-rulings)
+     - [Beginning of the Game](#beginning-of-the-game)
+     - [Untap Phase](#untap-phase)
+     - [Organization Phase](#organization-phase)
+     - [Long-event Phase](#long-event-phase)
+     - [Movement/Hazard Phase](#movementhazard-phase)
+     - [Site Phase](#site-phase)
+     - [End-of-Turn Phase](#end-of-turn-phase)
+     - [End-of-Game](#end-of-game)
+ - [Rulings by Term](#rulings-by-term)
+     - [[A]](#--aaa--)[[B]](#--bbb--)[[C]](#--ccc--)[[D]](#--ddd--)[[E]](#--eee--)[[F]](#--fff--)[[G]](#--ggg--)[[H]](#--hhh--)[[I]](#--iii--)[[J]](#--jjj--)[[K]](#--kkk--)[[L]](#--lll--)[[M]](#--mmm--)<br>[[N]](#--nnn--)[[O]](#--ooo--)[[P]](#--ppp--)[[Q]](#--qqq--)[[R]](#--rrr--)[[S]](#--sss--)[[T]](#--ttt--)[[U]](#--uuu--)[[V]](#--vvv--)[[W]](#--www--)[[X]](#--xxx--)[[Y]](#--yyy--)[[Z]]#--zzz--)
+ - [Tournament Rulings](#tournament-rulings)
+ - [Card Errata and Rulings](#card-errata-and-rulings)
+     - [[A]]()[[B]]()[[C]]()[[D]]()[[E]]()[[F]]()[[G]]()[[H]]()[[I]]()[[J]]()[[K]]()[[L]]()[[M]]()<br>[[N]]()[[O]]()[[P]]()[[Q]]()[[R]]()[[S]]()[[T]]()[[U]]()[[V]]()[[W]]()[[X]]()[[Y]]()[[Z]]()
+ - [Complete Errata Listing](#complete-errata-listing)
+ - [Delayed Rulings for tournament play.](#rulings-monday)
 
 ## Turn Sequence Rulings
 
