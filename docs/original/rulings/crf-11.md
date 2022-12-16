@@ -7,11 +7,8 @@ grand_parent: Original Rules
 
 # Middle-earth: Collectible Card Game
 
-Collected Official Rulings File
+Collected Clarifications to the Rules
 {: .text-center .text-beta}
-
-Version 11 current as of March 30, 1998
-{: .text-center }
 
 This is version 11 of the collected clarifications to the rules for the
 Middle-earth: Collectible Card Game, up to March 30, 1998. This includes
