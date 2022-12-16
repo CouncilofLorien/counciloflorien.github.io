@@ -10,9 +10,6 @@ grand_parent: Original Rules
 Collected Official Rulings File
 {: .text-center .text-beta}
 
-Version 13 current as of August 11, 1998
-{: .text-center }
-
 This is version 13 of the collected clarifications to the rules for the
 Middle-earth: Collectible Card Game, up to August 11, 1998. This includes
 rulings made through digest 118 of the MECCG mailing list. Some of these
@@ -48,7 +45,7 @@ If you have any further questions concerning MECCG, you can either:
 
 ## Turn Sequence Rulings
 
-Beginning of the Game
+### Beginning of the Game
 \# If a character is put in the deck due to duplication in the starting
 company, then it does not count against the 10 character limit.
 
