@@ -42,7 +42,7 @@ If you have any further questions concerning _MECCG_, you can either:
      - [[A]](#--aaa--)[[B]](#--bbb--)[[C]](#--ccc--)[[D]](#--ddd--)[[E]](#--eee--)[[F]](#--fff--)[[G]](#--ggg--)[[H]](#--hhh--)[[I]](#--iii--)\[J][[K]](#--kkk--)[[L]](#--lll--)[[M]](#--mmm--)<br>[[N]](#--nnn--)[[O]](#--ooo--)[[P]](#--ppp--)[[Q]](#--qqq--)[[R]](#--rrr--)[[S]](#--sss--)[[T]](#--ttt--)[[U]](#--uuu--)[[V]](#--vvv--)[[W]](#--www--)\[X]\[Y]\[Z]
  - [Tournament Rulings](#tournament-rulings)
  - [Card Errata and Rulings](#card-errata-and-rulings)
-     - [[A]](#--aaa---1)[[B]](#--bbb---1)[[C]](#--ccc---1)[[D]](#--ddd---1)[[E]](#--eee---1)[[F]](#--fff---1)[[G]](#--ggg---1)[[H]](#--hhh---1)[[I]](#--iii---1)[[J]](#--jjj---1)[[K]](#--kkk--)[[L]](#--lll---1)[[M]](#--mmm---1)<br>[[N]](#--nnn---1)[[O]](#--ooo---1)[[P]](#--ppp---1)[[Q]](#--qqq--)[[R]](#--rrr---1)[[S]](#--sss---1)[[T]](#--ttt---1)[[U]](#--uuu---1)[[V]](#--vvv---1)[[W]](#--www---1)\[X]\[Y]\[Z]
+     - [[A]](#--aaa---1)[[B]](#--bbb---1)[[C]](#--ccc---1)[[D]](#--ddd---1)[[E]](#--eee---1)[[F]](#--fff---1)[[G]](#--ggg---1)[[H]](#--hhh---1)[[I]](#--iii---1)\[J][[K]](#--kkk--)[[L]](#--lll---1)[[M]](#--mmm---1)<br>[[N]](#--nnn---1)[[O]](#--ooo---1)[[P]](#--ppp---1)[[Q]](#--qqq--)[[R]](#--rrr---1)[[S]](#--sss---1)[[T]](#--ttt---1)[[U]](#--uuu---1)[[V]](#--vvv--)[[W]](#--www---1)\[X]\[Y]\[Z]
  - [Complete Errata Listing](#complete-errata-listing)
  - [Delayed Rulings for tournament play.](#rulings-monday)
 
@@ -782,8 +782,7 @@ requirements, not if only your opponent has.
 
 ## Rulings By Term
 
-[A][B][C][D][E][F][G][H][I][J][K][L][M]
-[N][O][P][Q][R][S][T][U][V][W][X][Y][Z]
+[[A]](#--aaa--)[[B]](#--bbb--)[[C]](#--ccc--)[[D]](#--ddd--)[[E]](#--eee--)[[F]](#--fff--)[[G]](#--ggg--)[[H]](#--hhh--)[[I]](#--iii--)\[J][[K]](#--kkk--)[[L]](#--lll--)[[M]](#--mmm--)<br>[[N]](#--nnn--)[[O]](#--ooo--)[[P]](#--ppp--)[[Q]](#--qqq--)[[R]](#--rrr--)[[S]](#--sss--)[[T]](#--ttt--)[[U]](#--uuu--)[[V]](#--vvv--)[[W]](#--www--)\[X]\[Y]\[Z]
 
 ### -= AAA =-
 
@@ -1547,8 +1546,7 @@ away.
 
 ## Card Errata and Rulings
 
-[A][B][C][D][E][F][G][H][I][J][K][L][M]
-[N][O][P][Q][R][S][T][U][V][W][X][Y][Z]
+[[A]](#--aaa---1)[[B]](#--bbb---1)[[C]](#--ccc---1)[[D]](#--ddd---1)[[E]](#--eee---1)[[F]](#--fff---1)[[G]](#--ggg---1)[[H]](#--hhh---1)[[I]](#--iii---1)\[J][[K]](#--kkk--)[[L]](#--lll---1)[[M]](#--mmm---1)<br>[[N]](#--nnn---1)[[O]](#--ooo---1)[[P]](#--ppp---1)[[Q]](#--qqq--)[[R]](#--rrr---1)[[S]](#--sss---1)[[T]](#--ttt---1)[[U]](#--uuu---1)[[V]](#--vvv--)[[W]](#--www---1)\[X]\[Y]\[Z]
 
 ### -= AAA =-
 
