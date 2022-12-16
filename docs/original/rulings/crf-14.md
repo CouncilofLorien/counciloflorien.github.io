@@ -163,11 +163,13 @@ composition rules are violated, one company of the hazard player's choice must r
 site of origin.
 
 If two companies join at a site, cards affecting one of the companies now affect them both.
+
 Removing the site of origin and resetting to hand size are simultaneous actions, and they are
 the last actions in any movement/hazard phase. This means a moving company is not at a
 site until the site phase. \[effective 11/17/97]
 
 The same region (as in region card) may not occur twice in a single site path.
+
 A non-moving company's current site is considered its new site for card play.
 
 ### Movement
@@ -465,6 +467,7 @@ resolved in the order chosen by the current player. No further actions may be de
 turn.
 
 Cards may be played during the End-of-Turn phase after hand size has been reconciled.
+
 Replacing one site with another at the end of the turn counts as movement, without a
 movement/hazard phase.
 
@@ -491,8 +494,7 @@ To calculate marshalling points at the Free Council, follow these steps:
  - Doubling does not apply to the Miscellaneous or Kill categories.
  - If one of your categories accounts for more than half of your positive marshalling point total, reduce it so that it has the same number of points as the rest of your positive categories combined. 
  - Subtract any points that are subtracted from your total, including points from unique resources your opponent has duplicated in his hand.
-
-See also Rulings by Term, Under-deeps.
+ - See also Rulings by Term, Under-deeps.
 
 Marshalling points that minions have at an Under-deeps site do not count for calling the
 Audience with Sauron, but do count at the Audience with Sauron.
@@ -513,9 +515,7 @@ Tapping a resource can only be done at a time when you could otherwise play a re
 event.
 
 #### Active Conditions
-An active condition must be in play or established when the action requiring it is declared.
-
-Active conditions serve as the price of an action. They are restrictions on the player
+An active condition must be in play or established when the action requiring it is declared. Active conditions serve as the price of an action. They are restrictions on the player
 invoking the action.
 
 Annotation 5: If an action requires an entity to tap as a condition for the action's main
@@ -543,9 +543,7 @@ the targets for your resources.
 If an "alternative" or "additional" effect does not have any "playable ..." conditions, then the
 "playable on ..." conditions from the primary effect of the card apply. The following cards
 are exceptions to this rule: Gloom, Good Sense Revolts, Half an Eye Open, Heedless
-Revelry, Here is a Snake, In the Name of Mordor, Inner Cunning, Nobody's Friend,
-
-Withdrawn to Mordor, and Wolf- riders.
+Revelry, Here is a Snake, In the Name of Mordor, Inner Cunning, Nobody's Friend, Withdrawn to Mordor, and Wolf- riders.
 
 See also Rulings by Term, Target.
 
@@ -618,6 +616,7 @@ face the attack once.
 Allies may tap to cancel attacks from Slayers and Assassins.
 
 Allies cannot be targeted to be taken prisoner, and otherwise cannot be taken prisoner.
+
 If an ally may not be attacked by certain attacks, he may still tap to give +1 prowess to
 characters facing such attacks.
 
@@ -675,10 +674,7 @@ Short-events that cannot be duplicated cannot be played if a card of the same na
 currently having an effect on play.
 
 #### Card Effect Limitations
-You may not play the following cards if your opponent is a Ringwraith or Sauron.
-
-Additionally, if you are not a Ringwraith or Sauron, a Ringwraith or Sauron opponent can
-play these cards against you and not be affected by any of their global effects.
+You may not play the following cards if your opponent is a Ringwraith or Sauron. Additionally, if you are not a Ringwraith or Sauron, a Ringwraith or Sauron opponent can play these cards against you and not be affected by any of their global effects.
 
  - All hazard events that require an agent\*
  - Bane of the Ithil-stone
