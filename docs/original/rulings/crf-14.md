@@ -39,7 +39,7 @@ Tournament Rulings section.
 If you have any further questions concerning MECCG, you can either:
 
  - Write Iron Crown Enterprises at P.O. Box 1605, Charlottesville, VA, 22902.
- - Email the official rules representative, Van Norton, at: \<VanN...@compuserve.com>
+ - Email the official rules representative, Van Norton, at: \<VanNorton@compuserve.com>
  - Post the message to the Usenet news group rec.games.trading-cards.misc, with "\[MECCG]" in the subject line, or
  - Join the official MECCG mailing list by sending a message to list...@tower.ml.org with "subscribe metw" and your email address in the body of the message.
 
