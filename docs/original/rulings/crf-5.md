@@ -10,8 +10,8 @@ grand_parent: Original Rules
 Collected Official Rulings File
 {: .text-center .text-beta}
 
-Version 5 current as of 05/19/97
-{: .text-center }
+_Middle-earth: Collectible Card Game_ Collected Official Rulings File Version
+5 current as of 05/19/97.
 
 The _MECCG_ Collected Official Ruling File has taken the place of the
 official FAQ.
