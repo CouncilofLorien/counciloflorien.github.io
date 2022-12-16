@@ -48,7 +48,7 @@ ICE provided official errata and clarifications in the following publications:
  - [_Middle-earth: The Dragons Player Guide_](./the-dragons-player-guide-rulings) available January 1997
  - [_Middle-earth: Dark Minions Player Guide_](./dark-minions-player-guide-rulings) available February 1997
  - [_Middle-earth: The Lidless Eye Companion_](./the-lidless-eye-companion-rulings) printed June 1997
- - 
+
 ---
 
 [^CRF1]: The original FAQ was posted to www.ironcrown.com, not the usernet group. It has not been archived.
