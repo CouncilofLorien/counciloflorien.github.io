@@ -12,51 +12,40 @@ Collected Clarifications to the Rules
 
 ## Introduction
 
-This is version 15 of the collected clarifications to the rules for the _Middle-earth: Collectible Card Game_, up to May 29, 1999; including up to digest 578 of the mailing list. Some of these clarifications are considered errata to the rules or cards, and are noted as such. The [Turn Sequence] and [Rulings by Term] sections are specifically considered clarifications to the rules, and are therefore overridden by card text that specifically does so. A [complete list of errata](#complete-errata-listing) is included. There will be periodic updates to this file, and items marked with a "@" are new or changed since the last version.
+This is version 15 of the collected clarifications to the rules for the _Middle-earth: Collectible Card Game_, up to May 29, 1999; including up to digest 578 of the mailing list. Some of these clarifications are considered errata to the rules or cards, and are noted as such. The [Turn Sequence](#turn-sequence-rulings) and [Rulings by Term](#rulings-by-term) sections are specifically considered clarifications to the rules, and are therefore overridden by card text that specifically does so. A [complete list of errata](#complete-errata-listing) is included. There will be periodic updates to this file, and items marked with a "@" are new or changed since the last version.
 
-New rulings that clarify ambiguous situtations take effect immediately. Reversals of old rulings, changes to the rules, and new rulings not covering ambiguous situations will not have an effect on tournament play until two to four weeks after they are made. Every other Monday, starting November 3, 1997, will be a Rulings Monday. On a Rulings Monday, delayed rulings that have been made will be announced on the internet, and rulings that were announced on the previous Rulings Monday will take effect.
+New rulings that clarify ambiguous situtations take effect immediately. Reversals of old rulings, changes to the rules, and new rulings not covering ambiguous situations will not have an effect on tournament play until two to four weeks after they are made. Every other Monday, starting November 3, 1997, will be a [Rulings Monday](#rulings-monday). On a Rulings Monday, delayed rulings that have been made will be announced on the internet, and rulings that were announced on the previous Rulings Monday will take effect.
 
 The main thing to remember, when making rulings based on the rules and the cards, is that if it isn't there, then it isn't there. If a card says a site counts as a Haven for purposes of healing, that does not mean the site counts as a Haven for any other purposes. If a card says it can be played as a resource, that does not mean it counts as a resource at any time except when it is being played. Remember: If it isn't there, it isn't there.
 
-Tournament rules for _MECCG_ differ slightly from the rules for casual play.
-Rulings marked with
-a "#" differ from those in tournament play. When playing in a tournament, be
-sure to check the
-Tournament Rulings section.
+Tournament rules for _MECCG_ differ slightly from the rules for casual play. Rulings marked with a "#" differ from those in tournament play. When playing in a tournament, be sure to check the [Tournament Rulings](#tournament-rulings) section.
 
-If you have any further questions concerning MECCG, you can either:
+If you have any further questions concerning _MECCG_, you can either:
 
  - Write Iron Crown Enterprises at P.O. Box 1605, Charlottesville, VA, 22902.
  - Email the official rules representative, Van Norton, at: \<mailto: vnorton@mindspring.com>
  - Post the message to the Usenet news group rec.games.trading-cards.misc, with "\[MECCG]" in the subject line.
  
- Table of Contents
- Introduction
- Table of Contents
- Turn Sequence Rulings
-Beginning of the Game
-Untap Phase
-Organization Phase
-Long-event Phase
-Movement/Hazard Phase
-Site Phase
-End-of-Turn Phase
-Free Council
+## Table of Contents
+ - [Introduction](#introduction)
+ - [Table of Contents]()
+ - [Turn Sequence Rulings]()
+ - [Beginning of the Game]()
+ - [Untap Phase]()
+ - [Organization Phase]()
+ - [Long-event Phase]()
+ - [Movement/Hazard Phase]()
+ - [Site Phase]()
+ - [End-of-Turn Phase]()
+ - [Free Council]()
+ - [Rulings by Term]()
+ - [A][B][C][D][E][F][G][H][I][J][K][L][M]<br>[N][O][P][Q][R][S][T][U][V][W][X][Y][Z]
+ - [Tournament Rulings]()
+ - [Card Errata and Rulings]()
+ - [A][B][C][D][E][F][G][H][I][J][K][L][M]<br>[N][O][P][Q][R][S][T][U][V][W][X][Y][Z]
+ - [Complete Errata Listing]()
+ - [Delayed Rulings for tournament play.]()
 
- Rulings by Term
-[A][B][C][D][E][F][G][H][I][J][K][L][M]
-[N][O][P][Q][R][S][T][U][V][W][X][Y][Z]
-
- Tournament Rulings
- Card Errata and Rulings
-[A][B][C][D][E][F][G][H][I][J][K][L][M]
-[N][O][P][Q][R][S][T][U][V][W][X][Y][Z]
-
- Complete Errata Listing
- Delayed Rulings for tournament play.
-
-
- 
 ## Turn Sequence Rulings
 
 Turn Sequence Rulings
