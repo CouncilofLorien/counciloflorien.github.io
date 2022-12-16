@@ -10,9 +10,6 @@ grand_parent: Original Rules
 Collected Clarifications to the Rules
 {: .text-center .text-beta}
 
-Version 10 current as of January 1, 1998
-{: .text-center }
-
 ## Collected Rulings
 
 This is version 10 of the collected clarifications to the rules for the
