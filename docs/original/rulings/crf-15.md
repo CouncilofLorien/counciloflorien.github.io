@@ -3237,284 +3237,277 @@ their darkhavens.
  
 ### Card Errata
  
-Akhorahil: Change "...gives -1 penalty to one..." to
-"...modifies any one character's body by
--1 for the rest of the turn.
+ - **Akhorahil:** Change "...gives -1 penalty to one..." to "...modifies any one character's body by -1 for the rest of the turn.
+  - **Alatar:** Change "he must tap and make a corruption check immediately following the attack." to "he must make a corruption check immediately following the attack, and, if untapped, he must tap."
  
-Alatar: Change "he must tap and make a corruption check
-immediately following the
-attack." to "he must make a corruption check immediately
-following the attack, and, if
-untapped, he must tap."
- 
-Align Palantir: Add "May not be duplicated on a given
+ - **Align Palantir:** Add "May not be duplicated on a given
 Palantir."
  
-Arkenstone: (minion version): Change "and all cards he
+ - **Arkenstone:** (minion version): Change "and all cards he
 controls" to "and all non-follower
 cards he controls.' \[Effective 7/13/96]
  
-Army of the Dead: Add "May not be influenced by an
+ - **Army of the Dead:** Add "May not be influenced by an
 opponent."
  
-Assassin: Gives 2 MP, not 1.
+ - **Assassin:** Gives 2 MP, not 1.
  
-A Strident Spawn: Add "Unique." \[Effective 8/27/98]
+ - **A Strident Spawn:** Add "Unique." \[Effective 8/27/98]
  
-Bill the Pony: The body should be 10, not 6.
+ - **Bill the Pony:** The body should be 10, not 6.
  
-Book of Mazarbul: Replace "tap the bearer during the
+ - **Book of Mazarbul:** Replace "tap the bearer during the
 organization phase" with "tap Book
 of Mazarbul during your organization phase."
  
-Corsairs of the Umbar: Add "May also be played at any
+ - **Corsairs of the Umbar:** Add "May also be played at any
 sites in Elven Shores, Eriadoran
 Coast, Andrast Coast, Bay of Belfalas, or Mouths of the
 Anuin."
  
-Cracks of Doom: Add "Only playable during the site
+ - **Cracks of Doom:** Add "Only playable during the site
 phase." Remove "Otherwise, discard
 The One Ring."
  
-Cruel Caradhras: Replace "Minas Morgul" with "Imlad
+ - **Cruel Caradhras:** Replace "Minas Morgul" with "Imlad
 Morgul."
  
-Deep Mines: Add "Cannot be duplicated on a given
+ - **Deep Mines:** Add "Cannot be duplicated on a given
 Wizardhaven." \[Effective 4/20/98]
  
-Deeper Shadow: This is a short-event, not a long-event.
+ - **Deeper Shadow:** This is a short-event, not a long-event.
  
-Dodge: Replace "his body check is modified by -1." with
+ - **Dodge:** Replace "his body check is modified by -1." with
 "his body is modified by -1 for the
 resulting body check."
  
-Dragon's Hunger: Replace "Otherwise, the attack is
+ - **Dragon's Hunger:** Replace "Otherwise, the attack is
 canceled." with "Otherwise, the attack
 is canceled and the opponent must reveal his hand."
  
-Drowning Seas: Remove "Cannot be duplicated."
+ - **Drowning Seas:** Remove "Cannot be duplicated."
  
-Dwarven Ring of Bavor's/Druin's Tribe: One "reshuffle the
+ - **Dwarven Ring of Bavor's/Druin's Tribe:** One "reshuffle the
 play deck" is sufficient.
  
-Dwarven Ring of Thelor's/Thror's Tribe: Values in
+ - **Dwarven Ring of Thelor's/Thror's Tribe:** Values in
 parenthesis and brackets apply to
 Dwarf bearer. The prowess/body modifications should read:
 "+2(4)/+1."
  
-Ent-draughts: Replace "as a minor item" with "in addition
+ - **Ent-draughts:** Replace "as a minor item" with "in addition
 to an ally or faction which has
 been successfully been played at Wellinghall."
  
-Foolish Words: Add "Cannot be duplicated."
+ - **Foolish Words:** Add "Cannot be duplicated."
  
-@ Fortress of Isen: Remove "A company moving to or from
+ - **@ Fortress of Isen:** Remove "A company moving to or from
 Isengard is not considered to
 be moving through Gap of Isen (including one less
 Borderland in their site path."
  
-@ Fortress of the Towers: Remove "A company moving to or
+ - **@ Fortress of the Towers:** Remove "A company moving to or
 from White Towers is not
 considered to be moving through Arthedain (including one
 less Wilderness in their site
 path."
  
-Giant: Add "Giant."
+ - **Giant:** Add "Giant."
  
-Great Goblin: Add "Unique. Orc. One Strike."
+ - **Great Goblin:** Add "Unique. Orc. One Strike."
  
-Great Lord of Goblin-gate: Add "Unique."
+ - **Great Lord of Goblin-gate:** Add "Unique."
  
-Great Ship: Add "Tap a character in target company during
+ - **Great Ship:** Add "Tap a character in target company during
 the organization phase to play
 Great Ship on that company." Replace "...contains a
 coastal sea region..." with "...contains a
 coastal sea region and no consecutive non- coastal sea
 regions..."
 
-@ Guarded Haven: Remove "A company moving to or from this
+ - **@ Guarded Haven:** Remove "A company moving to or from this
 site is not considered to
 be moving through the region containing the site
 (including one less region in their site
 path."
  
-Gwaihir: Should read "you may discard Gwaihir during the
+ - **Gwaihir:** Should read "you may discard Gwaihir during the
 organization phase to allow his
 company..."
  
-Heedless Revelry: Change "after the successful play" to
+ - **Heedless Revelry:** Change "after the successful play" to
 "in response to the play." Effective
 8/27/98]
  
-Hold Rebuilt and Repaired: "Playable during the site
+ - **Hold Rebuilt and Repaired:** "Playable during the site
 phase."
  
-Horses: Add "Playable only at the end of the organization
+ - **Horses:** Add "Playable only at the end of the organization
 phase."
  
-Huorn: Add "Awakened Plant."
+ - **Huorn:** Add "Awakened Plant."
 
- Ice-orcs: Change the Shadow-hold symbol into a Ruins &
+ - **Ice-orcs:** Change the Shadow-hold symbol into a Ruins &
 Lairs.
  
-Ioreth: Replace "Healing card" with "Healing effect."
+ - **Ioreth:** Replace "Healing card" with "Healing effect."
  
-Iron Shield of Old: Add "Shield." \[effective 11/17/97]
+ - **Iron Shield of Old:** Add "Shield." \[effective 11/17/97]
  
-Lucky Search: Replace "Discard all revealed cards except
+ - **Lucky Search:** Replace "Discard all revealed cards except
 the item." with "Reshuffle all
 revealed cards except the item back into the play deck."
 Add at the end of the first paragraph
 "Discard item if the scout is wounded by this attack."
  
-Lure of Nature: Replace "at the end of each
+ - **Lure of Nature:** Replace "at the end of each
 movement/hazard phase" with "after all other
 hazards have been played."
  
-Mallorn: The first sentence should read: "Playable at Bag
+ - **Mallorn:** The first sentence should read: "Playable at Bag
 End only if Earth of Galadriel's
 Orchard is stored there."
  
-Morannon: Should read "This card is used as a Dark-hold
+ - **Morannon:** Should read "This card is used as a Dark-hold
 site card in the region of Udun
 that is moved to..."
  
-Mouth of Sauron: Add "Man."
+ - **Mouth of Sauron:** Add "Man."
  
-Muster: Replace entire text with: "Warrior only. An
+ - **Muster:** Replace entire text with: "Warrior only. An
 influence check against a faction by a
 warrior is modified by adding the warrior's prowess to a
 maximum modifier of +5."
  
-Neeker-breekers: Add "Does not effect Wizards."
+ - **Neeker-breekers:** Add "Does not effect Wizards."
 
- Noble Hound: Add the sentence: "If Noble Hound is tapped
+ - **Noble Hound:** Add the sentence: "If Noble Hound is tapped
 or wounded, treat it as though
 it were untapped for the purposes of assigning strikes."
  
-No Escape From My Magic: Change "Playable on any faction
+ - **No Escape From My Magic:** Change "Playable on any faction
 in play" to "Playable on any
 unique faction in play."
  
-Old Forest: Replace "healing cards" with "healing
+ - **Old Forest:** Replace "healing cards" with "healing
 effects."
  
-Old Man Willow: Add "Awakened Plant."
+ - **Old Man Willow:** Add "Awakened Plant."
  
-The Old Thrush: Add "Cannot be duplicated on a given
+ - **The Old Thrush:** Add "Cannot be duplicated on a given
 attack."
  
-Open to the Summons: Replace "minion company" with
+ - **Open to the Summons:** Replace "minion company" with
 "company."
  
-Padding Feet: Replace the first sentence with: "Playable
+ - **Padding Feet:** Replace the first sentence with: "Playable
 during the site phase on a lone
 scout minion (no other characters or allies in his
 company) at the same site as an opponent
 hero company containing a hobbit."
  
-@ Palantir of Elostirion: This item does not give M.P.s
+ - **@ Palantir of Elostirion:** This item does not give M.P.s
 to a Fallen-Wizard, regardless of
 other cards in play.
  
-@ Palantir of Orthanc: This item does not give M.P.s to a
+ - **@ Palantir of Orthanc:** This item does not give M.P.s to a
 Fallen-Wizard, regardless of
 other cards in play.
  
-Plague: Change "At the end of the target's
+ - **Plague:** Change "At the end of the target's
 movement/hazard phase" to "At the end of your
 opponent's turn." \[Effective 8/27/98]
  
-Pukel-men: Add "Pukel-creature."
+ - **Pukel-men:** Add "Pukel-creature."
  
-Quiet Lands: Replace "is reduced to half its original
+ - **Quiet Lands:** Replace "is reduced to half its original
 prowess (rounded up)." with "is
 reduced by half (rounded up)."
  
-Rebuild the Town: Replace "Playable on" with "Playable
+ - **Rebuild the Town:** Replace "Playable on" with "Playable
 during the site phase on."
  
-Reluctant Final Parting: Add "Determine nearest Haven
+ - **Reluctant Final Parting:** Add "Determine nearest Haven
 using site cards of the same
 alignment (minion/hero) as the ally." \[Effective
 4/20/98]
  
-Rescue Prisoners: This cards gives 2 marshalling points,
+ - **Rescue Prisoners:** This cards gives 2 marshalling points,
 not 3. Add "You receive the
 marshalling points for this card only when it is stored."
  
-Rhosgobel: Replace "healing cards" with "healing
+ - **Rhosgobel:** Replace "healing cards" with "healing
 effects."
 
-@ Rhosgobel: Fallen Wizardhaven. Remove "A company moving
+ - **@ Rhosgobel:** Fallen Wizardhaven. Remove "A company moving
 to or from Rhosgobel is
 not considered to be moving through Southern Mirkwood
 (including one less Dark-domain
 in their site path."
  
-Ringlore: Add "Playable only during the site phase. Tap
+ - **Ringlore:** Add "Playable only during the site phase. Tap
 the sage and the site."
  
-River: Should read "Playable on a site. If a company that
+ - **River:** Should read "Playable on a site. If a company that
 has moved to this site this turn
 does not tap a ranger, it must do nothing during its site
 phase."
  
-Roac the Raven: Replace "no modifications to the
+ - **Roac the Raven:** Replace "no modifications to the
 influence check are required." with "treat
 this influence check as if it was made by a diplomat."
  
-Sacrifice of Form: Replace "-3 to any body checks" with
+ - **Sacrifice of Form:** Replace "-3 to any body checks" with
 "+3 to any body checks."
  
-Siege: Change the Border-land symbol in the first line to
+ - **Siege:** Change the Border-land symbol in the first line to
 a Border- hold symbol.
  
-Shadowfax: Change to "an additional site card may be
+ - **Shadowfax:** Change to "an additional site card may be
 played and an additional
 movement/hazard phase."
  
-Silent Watcher: Gives 1 marshalling point, not 0. Add "Pukel-creature."
+ - **Silent Watcher:** Gives 1 marshalling point, not 0. Add "Pukel-creature."
  
-Slayer: Gives 2 marshalling points, not 0. Add "Slayer."
+ - **Slayer:** Gives 2 marshalling points, not 0. Add "Slayer."
 
- Stay Her Appetite: Change "plus two" to "plus five."
+ - **Stay Her Appetite:** Change "plus two" to "plus five."
 \[effective 11/3/97]
  
-Summons from Long Sleep: Change "When the reserved
+ - **Summons from Long Sleep:** Change "When the reserved
 creature is played, another
 Dragon or Drake may be reserved." to "Discard this card
 after the reserved creature attacks."
 
-Thorough Search: Replace "...to play any item normally
+ - **Thorough Search:** Replace "...to play any item normally
 found at its current site." with
 "...to play a minor, major, or gold ring item normally
 found at its current site."
  
-Tolfalas: Should read: "Playable: Items (minor, major,
+ - **Tolfalas:** Should read: "Playable: Items (minor, major,
 greater\*) \*Scroll of Isildur only."
  
-Tom Bombadil: Change "that targets a company" to "that
+ - **Tom Bombadil:** Change "that targets a company" to "that
 targets a company, or an entity
 associated with a company."
  
-Traitor: Replace the last paragraph with "This card is
+ - **Traitor:** Replace the last paragraph with "This card is
 discarded when a character fails his
 corruption check."
  
-Treebeard: Replace "Redhorn Gap" with "Redhorn Gate."
+ - **Treebeard:** Replace "Redhorn Gap" with "Redhorn Gate."
  
-Twilight: Add "This card may be played at any time during
+ - **Twilight:** Add "This card may be played at any time during
 any player's turn."
  
-Use Palantir: Change text to "Sage only. Tap sage to
+ - **Use Palantir:** Change text to "Sage only. Tap sage to
 enable him to use one Palantir he
 bears for the rest of the turn."
  
-Veils Flung Away: Each body check is modified by -1, not
+ - **Veils Flung Away:** Each body check is modified by -1, not
 +1.
  
-Vilya: Vilya should now read: "Playable on Elrond only.
+ - **Vilya:** Vilya should now read: "Playable on Elrond only.
 +4 prowess, +2 body, +6 direct
 influence until the end of the turn. If Elrond is at
 Rivendell and your play deck has at least 5
@@ -3524,78 +3517,60 @@ them into your play deck. Elrond makes a corruption check
 modified by -3. Cannot be
 duplicated on a given turn."
  
-The White Tree: Add "Discard the Sapling of the White
+ - **The White Tree:** Add "Discard the Sapling of the White
 Tree."
  
-Windlord Found Me: Add "If you do not place this card
+ - **Windlord Found Me:** Add "If you do not place this card
 with a character after the attack,
 discard it."
 
-Wizard's Laughter: Change "Wizard only." to "Wizard only
+ - **Wizard's Laughter:** Change "Wizard only." to "Wizard only
 during opponent's site phase."
  
-Wizard's Ring: Replace "Ignore any effect that woulddiscard this item" with "Cannot bestored, stolen, or transferred."
+ - **Wizard's Ring:** Replace "Ignore any effect that woulddiscard this item" with "Cannot bestored, stolen, or transferred."
 
-Wolves: Change "Animal" to "Wolves."
+ - **Wolves:** Change "Animal" to "Wolves."
 
-Woses of Eryn Vorn (minion version): Change "Man faction"
-to "Wose faction."
+ - **Woses of Eryn Vorn (minion version):** Change "Man faction" to "Wose faction."
 
 ## Rulings Monday
 
-Rulings for the Middle-earth: Collectible Card Game fall into two categories now. First are those which cover ambiguous situations, and those rulings take effect immediately. Second are those which reverse previous rulings, introduce new rulings on non-ambiguous situations, and errata. These rulings will not take effect in tournament play for two to four weeks.
+Rulings for the _Middle-earth: Collectible Card Game_ fall into two categories now. First are those which cover ambiguous situations, and those rulings take effect immediately. Second are those which reverse previous rulings, introduce new rulings on non-ambiguous situations, and errata. These rulings will not take effect in tournament play for two to four weeks.
 
 Every other Monday, all rulings of the second type, made in the past two weeks, will be announced. Also, with each announcement will come a list of rulings which are effective starting that Monday.
 
 #### Rulings Effective 10/26/98
-
-Windlord Found Me: This resources requires that you tap a character to play it. You may not play it directly to your M.P. pile.
+ - _Windlord Found Me_: This resources requires that you tap a character to play it. You may not play it directly to your M.P. pile.
 
 #### Rulings Effective 10/12/98
-
-Padding Feet: Card Erratum: Change the first sentence to read: “…at the same site as an opponent’s Hobbit”
+ - _Padding Feet_: Card Erratum: Change the first sentence to read: “…at the same site as an opponent’s Hobbit”
 
 #### Rulings Effective 4/20/98
-
-Deep Mines, Card Erratum: Add "Cannot be duplicated on a given Wizardhaven."
-
-Reluctant Final Parting, Card Erratum: Add "Determine nearest Haven using site cards of the same alignment (minion/hero) as the ally."
+ - _Deep Mines_, Card Erratum: Add "Cannot be duplicated on a given Wizardhaven."
+ - _Reluctant Final Parting_, Card Erratum: Add "Determine nearest Haven using site cards of the same alignment (minion/hero) as the ally."
 
 #### Rulings Effective 2/9/98
-
-Open to the Summons, Card Erratum: Change "Playable on a minion company" to "Playable on a company."
+ - _Open to the Summons_, Card Erratum: Change "Playable on a minion company" to "Playable on a company."
 
 #### Rulings Effective 1/26/98
-
-The MEWH hand rules need errata. They should read that "a Fallen-wizard must not use starter movement," not that they may only use region movement. This means they can use Under-deeps movement, and cards like Belegaer.
-
-Forcing a dice roll is consdiered to be having an effect on the game. This means you can play Muster or Weariness of the Heart, even if there is no chance of the card doing anything.
+ - The _MEWH_ hand rules need errata. They should read that "a Fallen-wizard must not use starter movement," not that they may only use region movement. This means they can use Under-deeps movement, and cards like _Belegaer_.
+ - Forcing a dice roll is considered to be having an effect on the game. This means you can play _Muster_ or _Weariness of the Heart_, even if there is no chance of the card doing anything.
 
 #### Rulings Effective 12/6/97
-
-Agents count as both characters and hazards during the game in a Ringwraith deck.
+ - Agents count as both characters and hazards during the game in a Ringwraith deck.
 
 #### Rulings Effective 12/1/97
-
-No Escape from My Magic, Card Erratum: Change "Playable on any faction in play" to "Playable on any unique faction in play."
-
-Ringwraiths may not move from a non-Darkhaven site to another non- Darkhaven site unless they are using Dwar Unleashed. This means a Ringwraith may not move to Under-deeps sites that do not have a Darkhaven for a surface site.
+ - _No Escape from My Magic_, Card Erratum: Change "Playable on any faction in play" to "Playable on any unique faction in play."
+ - Ringwraiths may not move from a non-Darkhaven site to another non-Darkhaven site unless they are using _Dwar Unleashed_. This means a Ringwraith may not move to Under-deeps sites that do not have a Darkhaven for a surface site.
 
 #### Rulings Effective 11/17/97
-
-Removing the site of origin and resetting to hand size are simultaneous actions, and they are the last actions in any movement/hazard phase. This means a moving company is not at a site until the site phase.
-
-Some hazard permanent-events allow you to tap or discard them for an effect, and this does not count against the hazard limit unless specified otherwise on the card.
-
-Rules Erratum: Attacks keyed to Darkhavens are detainment.
-
-Gates of Morning discards hazard environments when it resolves, even if Peril Returned is in play.
-
-Iron Shield of Old: Card Erratum: Add "Shield."
+ - Removing the site of origin and resetting to hand size are simultaneous actions, and they are the last actions in any movement/hazard phase. This means a moving company is not at a site until the site phase.
+ - Some hazard permanent-events allow you to tap or discard them for an effect, and this does not count against the hazard limit unless specified otherwise on the card.
+ - Rules Erratum: Attacks keyed to Darkhavens are detainment.
+ - _Gates of Morning_ discards hazard environments when it resolves, even if _Peril Returned_ is in play.
+ - _Iron Shield of Old_: Card Erratum: Add "_Shield._"
 
 #### Rulings Effective 11/3/97
-
-If a card leaves active play, including being returned to a player's hand, it immediately ceases having an effect on play.
-
-Stay Her Appetite: Card Erratum: Change "plus two" to "plus five."
+ - If a card leaves active play, including being returned to a player's hand, it immediately ceases having an effect on play.
+ - _Stay Her Appetite_: Card Erratum: Change "plus two" to "plus five."
 
