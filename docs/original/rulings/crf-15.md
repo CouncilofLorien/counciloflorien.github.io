@@ -48,14 +48,14 @@ If you have any further questions concerning _MECCG_, you can either:
 
 ## Turn Sequence Rulings
 
-[Beginning of the Game](#beginning-of-the-game)  
-[Untap Phase](#untap-phase)  
-[Organization Phase](#organization-phase)  
-[Long-event Phase](#long-event-phase)  
-[Movement/Hazard Phase](#movementhazard-phase)  
-[Site Phase](#site-phase)  
-[End-of-Turn Phase](#end-of-turn-phase)  
-[End-of-Game](#end-of-game)
+<br>&emsp;[Beginning of the Game](#beginning-of-the-game)  
+&emsp;[Untap Phase](#untap-phase)  
+&emsp;[Organization Phase](#organization-phase)  
+&emsp;[Long-event Phase](#long-event-phase)  
+&emsp;[Movement/Hazard Phase](#movementhazard-phase)  
+&emsp;[Site Phase](#site-phase)  
+&emsp;[End-of-Turn Phase](#end-of-turn-phase)  
+&emsp;[End-of-Game](#end-of-game)
 
 ### Beginning of the Game
 
@@ -757,7 +757,7 @@ requirements, not if only your opponent has.
 
 ## Rulings By Term
 
-[[A]](#--aaa--)[[B]](#--bbb--)[[C]](#--ccc--)[[D]](#--ddd--)[[E]](#--eee--)[[F]](#--fff--)[[G]](#--ggg--)[[H]](#--hhh--)[[I]](#--iii--)\[J][[K]](#--kkk--)[[L]](#--lll--)[[M]](#--mmm--)<br>[[N]](#--nnn--)[[O]](#--ooo--)[[P]](#--ppp--)[[Q]](#--qqq--)[[R]](#--rrr--)[[S]](#--sss--)[[T]](#--ttt--)[[U]](#--uuu--)[[V]](#--vvv--)[[W]](#--www--)\[X]\[Y]\[Z]
+<br>[[A]](#--aaa--)[[B]](#--bbb--)[[C]](#--ccc--)[[D]](#--ddd--)[[E]](#--eee--)[[F]](#--fff--)[[G]](#--ggg--)[[H]](#--hhh--)[[I]](#--iii--)\[J][[K]](#--kkk--)[[L]](#--lll--)[[M]](#--mmm--)<br>[[N]](#--nnn--)[[O]](#--ooo--)[[P]](#--ppp--)[[Q]](#--qqq--)[[R]](#--rrr--)[[S]](#--sss--)[[T]](#--ttt--)[[U]](#--uuu--)[[V]](#--vvv--)[[W]](#--www--)\[X]\[Y]\[Z]
 
 ### -= AAA =-
 
@@ -1351,6 +1351,17 @@ If you are influencing against your opponent, and he is at a Wizardhaven where y
 Tournament rulings are modifications and additions to the rules presented in
 the Unlimited Edition of the Rulebook that are required for sanctioned Council of Lorien
 tournament play.
+
+&emsp;[General](#general-4)
+&emsp;[The Character Draft](#the-character-draft)
+&emsp;[Deck Construction](#deck-construction)
+&emsp;[Freeze the Flesh](#freeze-the-flesh)
+&emsp;[Great Secrets Buried There](#great-secrets-buried-there)
+&emsp;[Movement](#movement-1)
+&emsp;[Sites](#sites)
+&emsp;[Starting Companies](#starting-companies)
+&emsp;[Victory Conditions](#victory-conditions)
+&emsp;[The Weakest Link Method](#the-weakest-link-method)
  
 #### General
  Dice must be used to obtain random numbers.
@@ -1521,7 +1532,7 @@ away.
 
 ## Card Errata and Rulings
 
-[[A]](#--aaa---1)[[B]](#--bbb---1)[[C]](#--ccc---1)[[D]](#--ddd---1)[[E]](#--eee---1)[[F]](#--fff---1)[[G]](#--ggg---1)[[H]](#--hhh---1)[[I]](#--iii---1)\[J][[K]](#--kkk--)[[L]](#--lll---1)[[M]](#--mmm---1)<br>[[N]](#--nnn---1)[[O]](#--ooo---1)[[P]](#--ppp---1)[[Q]](#--qqq--)[[R]](#--rrr---1)[[S]](#--sss---1)[[T]](#--ttt---1)[[U]](#--uuu---1)[[V]](#--vvv--)[[W]](#--www---1)\[X]\[Y]\[Z]
+<br>&emsp;[[A]](#--aaa---1)[[B]](#--bbb---1)[[C]](#--ccc---1)[[D]](#--ddd---1)[[E]](#--eee---1)[[F]](#--fff---1)[[G]](#--ggg---1)[[H]](#--hhh---1)[[I]](#--iii---1)\[J][[K]](#--kkk--)[[L]](#--lll---1)[[M]](#--mmm---1)<br>&emsp;[[N]](#--nnn---1)[[O]](#--ooo---1)[[P]](#--ppp---1)[[Q]](#--qqq--)[[R]](#--rrr---1)[[S]](#--sss---1)[[T]](#--ttt---1)[[U]](#--uuu---1)[[V]](#--vvv--)[[W]](#--www---1)\[X]\[Y]\[Z]
 
 ### -= AAA =-
 
