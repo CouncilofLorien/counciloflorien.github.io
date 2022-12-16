@@ -739,9 +739,8 @@ card stays in play until the end of all movement/hazard phases. In this case, on
 may still be played on the site.
 
 The following allies make a company overt: The Balrog, Creature of an Older World, Great
-Bats, Great Lord of Goblin-gate, Last Child of Ungoliant, Regiment of Black Crows, and
+Bats, Great Lord of Goblin-gate, Last Child of Ungoliant, Regiment of Black Crows, and "Two- headed" Troll.
 
-#### "Two- headed" Troll.
 Entities associated with a company include the characters, allies, and items in the company,
 and any events played on the company or on another entity in the company. The new site
 and site of origin are not entities associated with the company.
@@ -825,7 +824,7 @@ Cards in the discard pile do not remember how they were played.
 #### Dragons
 Dragon automatic-attacks are not considered manifestations of any unique Dragon.
 
-If a manifestation of a unique Dragon is defeated, then the automatic- attack at the
+If a manifestation of a unique Dragon is defeated, then the automatic-attack at the
 associated site is removed, and that site therefore loses its hoard status.
 
 If you defeat the attack from a Dragon manifestation, you get kill marshalling points from
@@ -1275,9 +1274,9 @@ If you are influencing against your opponent, and he is at a Wizardhaven where y
 play cards that give MPs, you can reveal the card you are influencing against to reduce the
 number you roll against to 0, but you may not play that card afterwards (if it gives MPs).
 
-#### Tournament Rulings
+## Tournament Rulings
 Tournament rulings are modifications and additions to the rules presented in the Unlimited
-Edition of the Rulebook that are required for sanctioned Council of L rien tournament play.
+Edition of the Rulebook that are required for sanctioned Council of Lorien tournament play.
 
 #### General
 Dice must be used to obtain random numbers.
@@ -1306,6 +1305,7 @@ Ringwraith players may start with 6 characters in the character draft
 If one player stops revealing characters, the other one may continue to reveal characters.
 
 No player may reveal a character that would bring his starting company's total mind over 20.
+
 When players are finished, each may put up to 10 characters into their deck, including
 characters from his starting pool that did not end up in the starting company.
 
@@ -1321,6 +1321,7 @@ Each deck must contain at least 12 creatures.
 The following count as 1/2 a creature for deck construction: hazards that can be played as
 creatures or events, At Home Dragon manifestations, Ahunt Dragon manifestations, and
 agents. Note that agents count as characters in Ringwraith decks, not as 1/2 creatures.
+
 Up to 3 copies of one Wizard or Ringwraith is allowed in a play deck, or up to 2 copies of
 one and 1 copy of another. One copy each of three different Wizards or Ringwraiths is not
 allowed.
@@ -1352,7 +1353,7 @@ he is done with it, unless you have also used the site, in which case it returns
 pile.
 
 #### Movement
-Maps of the regions of MECCG may be used in place of region cards in Council of L rien
+Maps of the regions of MECCG may be used in place of region cards in Council of Lorien
 tournaments. If two or more companies move on the same turn, then each company does not
 have to determine the site path to its new site until the beginning of it's movement/hazard
 phase.
@@ -1455,10 +1456,13 @@ Belegaer.
 
 #### Assassin
 Card Erratum: Gives 2 MP, not 1.
+
 If an attack from Assassin is given more than one strike, each additional strike becomes an
 excess strike (-1 prowess modification) against the attacked character. An Assassincan never
 assign strikes to more than one character.
+
 You may decide to cancel one of the attacks after facing another attack.
+
 @ As a special case, you may cancel the first attack of an Assassin by tapping a character,
 after strikes are assigned.
 
@@ -1693,7 +1697,7 @@ degrees.
 Favor of the Valar requires you to draw 8 cards, not to your hand size.
 
 #### Fell Beast
-This card can be played and resolved before any Nazg l is played with it. A Nazgul must
+This card can be played and resolved before any Nazgul is played with it. A Nazgul must
 be played as the first declared action in the chain of effects following the resolution of Fell
 Beast, or else this card is returned to its player's hand. This card can be played on an existing
 Nazgul attack, but the extra playability this card provides would not apply.
@@ -1794,6 +1798,7 @@ Makes a company overt.
 
 #### Great-road
 Card Erratum: Replace "opponent draws twice" with "opponent draws up to twice"
+
 If you have two movement/hazard phases on the turn you played a Great Road, you return to
 the Haven at which you started the turn.
 
@@ -2129,6 +2134,7 @@ fail.
 #### Narya
 Because of the way that timing rules work, characters tapping in support have no effect on
 the corruption check, since they will be untapped when the support resovles.
+
 See also Rulings by Term, Corruption.
 
 #### The Nazgul are Abroad
@@ -2377,8 +2383,10 @@ canceled.
 #### Sable Shield
 
 A bearer who did not tap while facing a strike will not tap if the strike is successful.
+
 A detainment strike will not discard the Sable Shield.
-Sack over the Head
+
+#### Sack over the Head
 
 Affects any Hobbit or Dwarf wounded by the attack, not just those wounded by the Troll.
 
@@ -2556,6 +2564,7 @@ See also Turn Sequence, Site Phase, Company versus Company Combat.
 
 #### Twilight
 Card Erratum: Add "This card may be played at any time during any player's turn."
+
 Can target a card that has not yet resolved.
 
 Can be played as a resource during your opponent's turn.
@@ -2574,7 +2583,7 @@ turn.
 You may not use this item to assign a third strike to the character.
 
 #### Use Palantir
-Card Erratum: Change text to "Sage only. Tap sage to enable him to use one Palant¡r he
+Card Erratum: Change text to "Sage only. Tap sage to enable him to use one Palantir he
 bears for the rest of the turn."
 
 #### Use Your Legs
@@ -2733,6 +2742,7 @@ Arkenstone: (minion version): Change "and all cards he controls" to "and all non
 cards he controls.' \[Effective 7/13/96]
 
 Army of the Dead: Add "May not be influenced by an opponent."
+
 Assassin: Gives 2 MP, not 1.
 
 A Strident Spawn: Add "Unique." \[Effective 8/27/98]
@@ -2811,7 +2821,7 @@ hazards have been played."
 Mallorn: The first sentence should read: "Playable at Bag End only if Earth of Galadriel's
 Orchard is stored there."
 
-Morannon: Should read "This card is used as a Dark-hold site card in the region of Ud n
+Morannon: Should read "This card is used as a Dark-hold site card in the region of Udun
 that is moved to..."
 
 Mouth of Sauron: Add "Man."
@@ -2872,7 +2882,7 @@ Siege: Change the Border-land symbol in the first line to a Border- hold symbol.
 Shadowfax: Change to "an additional site card may be played and an additional
 movement/hazard phase."
 
-Silent Watcher: Gives 1 marshalling point, not O. Add "P kel- creature."
+Silent Watcher: Gives 1 marshalling point, not 0. Add "Pukel-creature."
 
 Slayer: Gives 2 marshalling points, not 0. Add "Slayer."
 
