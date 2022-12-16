@@ -10,8 +10,8 @@ grand_parent: Original Rules
 Collected Official Rulings File
 {: .text-center .text-beta}
 
-Version 7 current as of September 15th, 1997
-{: .text-center }
+_Middle-earth: Collectible Card Game_ Collected Official Rulings File Version 7 
+current as of September 15th, 1997.
 
 ## READ THIS FIRST
 
