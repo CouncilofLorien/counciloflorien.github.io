@@ -48,39 +48,14 @@ If you have any further questions concerning _MECCG_, you can either:
 
 ## Turn Sequence Rulings
 
-Turn Sequence Rulings
- Beginning of the Game
- Untap Phase
- Organization Phase
-Choosing a New Site
-Followers
-Organizing Companies
-Playing Characters
-Storing Items
-
- Long-event Phase
- Movement/Hazard Phase
-General
-Movement
-� General
-� Playing Hazards
-� Returning to Site of Origin
-
-Combat
-� General
-� Attack
-� The Strike Sequence
-
-
- Site Phase
-General
-Company vs. Company Combat
-Exploring a Site/Automatic-attacks
-Influence Attempts
-On-guard Cards
-
- End-of-Turn Phase
- Free Council
+[Beginning of the Game](#beginning-of-the-game)  
+[Untap Phase](#untap-phase)  
+[Organization Phase](#organization-phase)  
+[Long-event Phase](#long-event-phase)  
+[Movement/Hazard Phase](#movementhazard-phase)  
+[Site Phase](#site-phase)  
+[End-of-Turn Phase](#end-of-turn-phase)  
+[End-of-Game](#end-of-game)
 
 ### Beginning of the Game
 
