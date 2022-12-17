@@ -95,7 +95,7 @@ If you have any further questions concerning _MECCG_, you can either:
 #### Playing Characters
 
  - _Rules Erratum:_ You may play a character if you do not have enough influence to control them. However, if there are any characters you do not have the influence to control at the end of your organization phase, the character you brought into play this turn must be returned to your hand.
- - If you play a Ringwraith at a non-Darkhaven site where there is one of your non-Ringwraith companies, one of the companies must move that turn. If both companies are still there at the end of the movement/hazard phase, discard the non-Rinwraith company. \[Effective 11/17/97]()
+ - If you play a Ringwraith at a non-Darkhaven site where there is one of your non-Ringwraith companies, one of the companies must move that turn. If both companies are still there at the end of the movement/hazard phase, discard the non-Ringwraith company. \[Effective 11/17/97]()
 
 #### Storing Items
 
@@ -114,7 +114,7 @@ If you have any further questions concerning _MECCG_, you can either:
  -  **Annotation 26:** If at the start of a player's movement/hazard phase, there are multiple effects in play such that their net effect depends on the order they are applied, the player who is currently not taking his turn (i.e., the hazard player) decides the order in which they are to be applied. Once this interpretation is established, all further actions are applied in theborder they are resolved for the rest of the turn.
  -  Once the effects of an environment card have been applied to a target during a given movement/hazard phase, that effect is not applied again to that target during the current turn.
  -  When you draw cards for movement, you may continue drawing cards until you either want to stop, or have drawn the number of cards allowed for the movement.
- -  Companies at the same non-Haven/non-Darkhaven site mustnjoin at the end of all movement/hazard phases, before the site phase starts. Companies at the same Haven/Darkhaven site may join at this time.
+ -  Companies at the same non-Haven/non-Darkhaven site must join at the end of all movement/hazard phases, before the site phase starts. Companies at the same Haven/Darkhaven site may join at this time.
  -  If companies would join at the end of the movement/hazard phase such that the company composition rules are violated, one company of the hazard player's choice must return to its site of origin.
  -  If two companies join at a site, cards affecting one of the companies now affect them both.
  -  Removing the site of origin and resetting to hand size are simultaneous actions, and they are the last actions in any movement/hazard phase. This means a moving company is not at a site until the site phase. [effective 11/17/97](#rulings-effective-111797)
