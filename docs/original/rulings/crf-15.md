@@ -2086,62 +2086,43 @@ allow his company..."
 ### -= HHH =-
 
 #### Half an Eye Open
- The "playable on ..." conditions of the first paragraph
-do not apply to the second paragraph.
+ The "playable on ..." conditions of the first paragraph do not apply to the second paragraph.
 
 #### Halfling Strength
- If used to heal a Hobbit when healing effects affect all
-characters in a company, Halfling
-Strength will heal all other wounded characters in the
-company.
+ If used to heal a Hobbit when healing effects affect all characters in a company, Halfling Strength will heal all other wounded characters in the company.
 
 #### Healing Herbs
  Cannot stop a body check.
 
 #### Healing of Nimrodel
- See Turn Sequence, Organization Phase, Choosing a New
-Site.
+ See Turn Sequence, Organization Phase, Choosing a New Site.
 
 #### Heedless Revelry
- The "playable on ..." conditions of the first paragraph
-do not apply to the second paragraph.
+ The "playable on ..." conditions of the first paragraph do not apply to the second paragraph.
 
- Card Erratum: Change "after the successful play" to "in
-response to the play." \[Effective
-8/27/98]
+ Card Erratum: Change "after the successful play" to "in response to the play." \[Effective 8/27/98]
 
- Does not interfere with the playing of the card it is
-revealed in response to.
+ Does not interfere with the playing of the card it is revealed in response to.
 
 #### Helm of Her Secrecy
- You can play multiple Helms of Her Secrecy in one chain
-of effects. The player should make
-sure that he does not take the option of playing Eowyn
-out of his hand until the first copy
-declared is resolved.
+ You can play multiple Helms of Her Secrecy in one chain of effects. The player should make sure that he does not take the option of playing Eowyn out of his hand until the first copy declared is resolved.
 
 #### Helm of Fear
  Has no effect on a non-Ringwraith.
 
 #### Here is a Snake
- Here is a Snake does not prevent the use of hazards
-already on the table.
+ Here is a Snake does not prevent the use of hazards already on the table.
 
- The "playable on ..." conditions of the first paragraph
-do not apply to the second paragraph.
+ The "playable on ..." conditions of the first paragraph do not apply to the second paragraph.
 
 #### Here, There, or Yonder?
- The ally does not have to be chosen or played until after
-the dice are rolled.
+ The ally does not have to be chosen or played until after the dice are rolled.
 
 #### Hermit's Hill
  To play a major item here, Hermit's Hill must be untapped
 
 #### Hidden Haven
- If both players reveal this as a starting stage card, on
-the same site, at the same time, it is set
-aside, and may not be played on that site by either
-player until the game begins.
+ If both players reveal this as a starting stage card, on the same site, at the same time, it is set aside, and may not be played on that site by either player until the game begins.
 
 #### Hidden Knife
  Hidden Knife is effectively an attack.
@@ -2155,15 +2136,13 @@ player until the game begins.
  See also Turn Sequence, Site Phase, General.
  
 #### Horses
- Card Erratum: Add "Playable only at the end of the
-organization phase."
+ Card Erratum: Add "Playable only at the end of the organization phase."
 
 #### Hour of Need
  May not be played in the Under-deeps.
  
 #### The Hunt
- The discarding and revealing of the card do not have to
-be in any specific order.
+ The discarding and revealing of the card do not have to be in any specific order.
 
 #### Huorn
  Card Erratum: Add "Awakened Plant."
@@ -2171,47 +2150,34 @@ be in any specific order.
 ### -= III =-
 
 #### Ice-orcs
- Card Erratum: Change the Shadow-hold symbol into a Ruins
-& Lairs symbol.
+ Card Erratum: Change the Shadow-hold symbol into a Ruins & Lairs symbol.
 
 #### Icy Touch
- If two of these are in play, they both trigger at the
-same time, and the second one is
-discarded without effect.
+ If two of these are in play, they both trigger at the same time, and the second one is discarded without effect.
 
 #### Incite Denizens
- When copying an attack put on the site by another card,
-Incite Denizens will not copy any
-other effects of the card.
+ When copying an attack put on the site by another card, Incite Denizens will not copy any other effects of the card.
 
- When copying an attack put on the site by another card,
-the Incite Denizens attack will
-disappear if the other card is discarded.
+ When copying an attack put on the site by another card, the Incite Denizens attack will disappear if the other card is discarded.
 
 #### In Darkness Bind Them
- May not be used to play creatures keyed to double
-Shadow-lands.
+ May not be used to play creatures keyed to double Shadow-lands.
 
 #### Indur Dawndeath
- Only one wounded character has to discard an item, and
-the hazard player chooses which
-character and which item they bear.
+ Only one wounded character has to discard an item, and the hazard player chooses which character and which item they bear.
 
  See also Rulings by Term, Nazgul.
  
 #### Inner Cunning
- The site type for the agent's home site is the one you
-would use if you went to visit the site.
+ The site type for the agent's home site is the one you would use if you went to visit the site.
 
- The "playable on ..." conditions of the first paragraph
-do not apply to the second paragraph.
+ The "playable on ..." conditions of the first paragraph do not apply to the second paragraph.
 
 #### In the Heart of His Realm
  See Rulings by Term, Card Effect Limitations.
  
 #### In the Name of Mordor
- The "playable on ..." conditions of the first paragraph
-do not apply to the second paragraph.
+ The "playable on ..." conditions of the first paragraph do not apply to the second paragraph.
 
 #### Ioreth
  Card Erratum: Replace "Healing card" with "Healing effect."
