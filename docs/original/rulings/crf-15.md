@@ -257,407 +257,185 @@ site for card play.
 ### Movement
 
 #### General
- If a company does not move, it still has a
-movement/hazard phase. No cards are drawn
-based on the company's movement, and the only hazards
-that can be played on the company
-are creatures that can be keyed to the company's site and
+ If a company does not move, it still has a movement/hazard phase. No cards are drawn based on the company's movement, and the only hazards that can be played on the company are creatures that can be keyed to the company's site and
 events.
 
- Lebennin and Ithilien are not adjacent, even though they
-look that way on some maps.
+ Lebennin and Ithilien are not adjacent, even though they look that way on some maps.
 
- If a company moves twice in one turn, resources played
-during the organization phase, like
-Secret Passage, are reapplied to the company at the
-beginning of each of their
-movement/hazard phases, if the conditions of the card are
-met.
+ If a company moves twice in one turn, resources played during the organization phase, like Secret Passage, are reapplied to the company at the beginning of each of their movement/hazard phases, if the conditions of the card are met.
 
- If both players have access to region movement, then
-neither player may be stopped from
-using region movement. Access includes region cards or an
-appropriate map.
+ If both players have access to region movement, then neither player may be stopped from using region movement. Access includes region cards or an appropriate map.
 
 #### Playing Hazards
 
- Some hazard permanent-events allow you to tap or discard
-them for an effect, and this does
-not count against the hazard limit unless specified
-otherwise on the card. \[effective 11/17/97]
+ Some hazard permanent-events allow you to tap or discard them for an effect, and this does not count against the hazard limit unless specified otherwise on the card. \[effective 11/17/97]
 
- Hazards may only be played on a company whose
-movement/hazard phase is being resolved,
-or on the site they are moving to. Long-events and
-permanent- events may effect more than
-one company even though they are only played "on" one
-company.
+ Hazards may only be played on a company whose movement/hazard phase is being resolved, or on the site they are moving to. Long-events and permanent-events may effect more than one company even though they are only played "on" one company.
 
- If a card must be keyed to two or more instances of a
-region type, those region types do not
-have to be consecutive in the site path.
+ If a card must be keyed to two or more instances of a region type, those region types do not have to be consecutive in the site path.
 
- If you say you are done playing hazards and your opponent
-plays a resource before the
-movement/hazard phase ends, you may then resume playing
-hazards, assuming you have not
-yet reached the hazard limit.
+ If you say you are done playing hazards and your opponent plays a resource before the movement/hazard phase ends, you may then resume playing hazards, assuming you have not yet reached the hazard limit.
 
- If a company is moving from a surface site to an
-Under-deeps site, hazards may not be
-played keyed to the region of the surface site.
+ If a company is moving from a surface site to an Under-deeps site, hazards may not be played keyed to the region of the surface site.
 
- Angmar Arises, In Darkness Bind Them, and Reaching Shadow
-may not be used to play
-creatures keyed to double shadow-lands.
+ Angmar Arises, In Darkness Bind Them, and Reaching Shadow may not be used to play creatures keyed to double shadow-lands.
 
- A creature "played at" a site is the same as being "keyed
-to" the site.
+ A creature "played at" a site is the same as being "keyed to" the site.
 
- A creature "played at a site in" a region is the same as
-being "keyed to" the site by name.
- For the purposes of interpreting hazards, no Darkhaven or
-Haven has a site path except for
-Geann a-Lisch.
+ A creature "played at a site in" a region is the same as being "keyed to" the site by name.
 
- You check the hazard limit at declaration and resolution.
-At declaration there must be less
-hazards already declared than the hazard limit. At
-resolution there must be no more hazards
-declared than the hazard limit.
+For the purposes of interpreting hazards, no Darkhaven or Haven has a site path except for Geann a-Lisch.
+
+ You check the hazard limit at declaration and resolution. At declaration there must be less hazards already declared than the hazard limit. At resolution there must be no more hazards declared than the hazard limit.
 
 #### Returning to Site of Origin
- If a company returns to its site of origin, its site path
-immediately disappears, and its
-movement/hazard phase immediately ends.
+ If a company returns to its site of origin, its site path immediately disappears, and its movement/hazard phase immediately ends.
 
- An effect that returns a company to its site of origin
-may not be declared in the middle of an
-attack.
+ An effect that returns a company to its site of origin may not be declared in the middle of an attack.
 
- @ Rules Erratum: If a company returns to it's site of
-origin, it may do nothing during it's site
-phase. A company failing it's underdeeps movement roll is
-not effected by this rule.
+ @ Rules Erratum: If a company returns to it's site of origin, it may do nothing during it's site phase. A company failing it's underdeeps movement roll is not effected by this rule.
 
 ### Combat
 
 #### General
 
- Side effects of losing a character are resolved
-immediately after the character is lost, before
-other characters resolve their strikes.
+ Side effects of losing a character are resolved immediately after the character is lost, before other characters resolve their strikes.
 
- All strikes of an attack must be assigned before any are
-resolved.
+ All strikes of an attack must be assigned before any are resolved.
 
- See also Rulings by Term, Ally and Body Check; and
-Turn Sequence, Site Phase, Company
-vs. Company Combat.
+ See also Rulings by Term, Ally and Body Check; and Turn Sequence, Site Phase, Company vs. Company Combat.
 
 #### Attack
 
- Annotation 12: An attack is considered to be resolved and
-concluded when the final strike,
-all special actions resulting from the final strike, and
-the associated body check are resolved.
+ Annotation 12: An attack is considered to be resolved and concluded when the final strike, all special actions resulting from the final strike, and the associated body check are resolved.
 
- Annotation 13: An attack may not be canceled once its
-strikes have been assigned. A strike
-may not be canceled once the dice-roll for the strike has
-been made.
+ Annotation 13: An attack may not be canceled once its strikes have been assigned. A strike may not be canceled once the dice-roll for the strike has been made.
 
- Annotation 14: A canceled attack has no effect on its
-target company, except that the
-company is considered in its history to have faced the
-attack.
+ Annotation 14: A canceled attack has no effect on its target company, except that the company is considered in its history to have faced the attack.
 
- Annotation 15: An attack must be the first declared
-action in a chain of effects, i.e., a
-creature card may not be played in response to another
-card in the same chain of effects. 
-Revealing an on-guard creature is an exception.
+ Annotation 15: An attack must be the first declared action in a chain of effects, i.e., a creature card may not be played in response to another card in the same chain of effects. Revealing an on-guard creature is an exception.
+ 
+ In order to cancel an attack or to directly affect an attack, the character doing so must be in the company facing the attack. Note that the region/site type a hazard creature was keyed to can be affected otherwise.
 
- In order to cancel an attack or to directly affect an
-attack, the character doing so must be in
-the company facing the attack. Note that the region/site
-type a hazard creature was keyed to
-can be affected otherwise.
+ Cards only modify attacks if they say they specifically mention attacks.
 
- Cards only modify attacks if they say they specifically
-mention attacks.
+ When a minion company defeats an attack with no * by the MPs, the creature goes to the out-of-play pile belonging to the person who played the attack. They may still be taken as a trophy, but go to the appropriate out-of-play pile when the trophy is discarded.
 
- When a minion company defeats an attack with no * by the
-MPs, the creature goes to the
-out-of-play pile belonging to the person who played the
-attack. They may still be taken as a
-trophy, but go to the appropriate out-of-play pile when
-the trophy is discarded.
+ Excess strikes applied as -1 modifiers do not have to have their body defeated.
 
- Excess strikes applied as -1 modifiers do not have to
-have their body defeated.
+ If an attack states all characters in a company face a strike, then effects which allow a character to face more than one strike have no effect against the attack. Similarly, effects that change the attack's number of strikes have no effect. As an exception, effects which reduce the number of strikes to a specific number do work.
 
- If an attack states all characters in a company face a
-strike, then effects which allow a
-character to face more than one strike have no effect
-against the attack. Similarly, effects
-that change the attack's number of strikes have no
-effect. As an exception, effects which
-reduce the number of strikes to a specific number do
-work.
+ Any effect that would change the number of strikes for an attack may not be played after strikes are assigned. This includes cards that have other additional effects, and cards that only indirectly change the number of strikes.
 
- Any effect that would change the number of strikes for an
-attack may not be played after
-strikes are assigned. This includes cards that have other
-additional effects, and cards that
-only indirectly change the number of strikes.
+ Attacks created by events are not keyed to anything unless specifically stated as being keyed to something on the card.
 
- Attacks created by events are not keyed to anything
-unless specifically stated as being keyed
-to something on the card.
+ There are three levels of cards which reassign strikes. Alatar is the top level, and overrides any other conflicting card which changes the assignment of strikes. Cards which say they "always" or "in all cases" change the assignment of strikes are the next level, and override any other conflicting effects except Alatar. Cards which say they change the assignment of strikes "regardless of ..." certain factors are the third level, and are overridden by all other effects from conflicting cards. If two effects on the same level conflict, the resource overrides the hazard.
 
- There are three levels of cards which reassign strikes.
-Alatar is the top level, and overrides
-any other conflicting card which changes the assignment
-of strikes. Cards which say they
-"always" or "in all cases" change the assignment of
-strikes are the next level, and override
-any other conflicting effects except Alatar. Cards which
-say they change the assignment of
-strikes "regardless of ..." certain factors are the
-third level, and are overridden by all other
-effects from conflicting cards. If two effects on the
-same level conflict, the resource
-overrides the hazard.
+ If an attack can not be cancelled, strikes from the attack may still be cancelled.
 
- If an attack can not be cancelled, strikes from the
-attack may still be cancelled.
+ An attack is considered faced by a company if it successfully resolves in its chain of effects.
 
- An attack is considered faced by a company if it
-successfully resolves in its chain of effects.
-
- Attacks or strikes keyed by name to a region or site
-cannot be cancelled by effects which
-refer only to the type of the region or site.
+ Attacks or strikes keyed by name to a region or site cannot be cancelled by effects which refer only to the type of the region or site.
 
 #### The Strike Sequence
 
- Annotation 16: When a wounded character becomes
-unwounded, he is considered in his
-history to have been wounded and must face any special
-actions the wounding strike
-presented him.
+ Annotation 16: When a wounded character becomes unwounded, he is considered in his history to have been wounded and must face any special actions the wounding strike presented him.
 
- Annotation 17: The only actions that may be declared
-during a strike sequence are those
-outlined in Annotation 18.
+ Annotation 17: The only actions that may be declared during a strike sequence are those outlined in Annotation 18.
 
- Annotation 18: When a defending player chooses to resolve
-a strike against a particular
-character, the only actions that may be taken by either
-player until the strike dice-roll is
-made are the following: playing hazard cards that affect
-the strike, the attacker may decide
-to use any or all of his remaining -1 modifications due
-to strikes in excess of the company's
-size, a target untapped character may take a -3
-modification so that he will not automatically
-tap, and the defending character may play resource cards
-that affect the strike. An action that
-has the condition that a target character tap, but
-which otherwise has an effect not outlined
-here, may not be declared at this point. This is true
-even if the recipient of the strike would
-be the target character tapping and thus receive -1 to
-his prowess.
+ Annotation 18: When a defending player chooses to resolve a strike against a particular character, the only actions that may be taken by either player until the strike dice-roll is made are the following: playing hazard cards that affect the strike, the attacker may decide to use any or all of his remaining -1 modifications due to strikes in excess of the company's size, a target untapped character may take a -3 modification so that he will not automatically tap, and the defending character may play resource cards that affect the strike. An action that has the condition that a target character tap, but which otherwise has an effect not outlined here, may not be declared at this point. This is true even if the recipient of the strike would be the target character tapping and thus receive -1 to his prowess.
 
- Annotation 19: Following each successful strike or failed
-strike, a body check must be
-rolled (unless the failed strike has no body). However,
-if the strike calls for any special
-actions to follow it (e.g., a character wounded by
-"William" may be required to discard his
-items), these special actions are resolved before the
-body check. The body check is the first
-declared action in a nested chain of effects that
-immediately follows the strike dice-roll and
-special actions resulting from the strike. Other actions
-may be declared in response to a body
-check, in the same chain of effects, but these are
-limited to those actions that directly affect
-the body check dice-roll. E.g., Tookish Blood could
-not be declared in response to the body
-check caused by Giant Spiderswounding a Hobbit. No action
-may be declared in response to a
-special action resulting from a strike unless the
-special action is a dice-rolling action, i.e., a
-special action is generally considered synonymous with
-the strike dice-roll. If the special
-action is a dice-rolling action, an action may be
-declared in response to it if the action
-directly affects the dice-roll.
+ Annotation 19: Following each successful strike or failed strike, a body check must be rolled (unless the failed strike has no body). However, if the strike calls for any special actions to follow it (e.g., a character wounded by "William" may be required to discard his items), these special actions are resolved before the body check. The body check is the first declared action in a nested chain of effects that immediately follows the strike dice-roll and special actions resulting from the strike. Other actions may be declared in response to a body check, in the same chain of effects, but these are limited to those actions that directly affect the body check dice-roll. E.g., Tookish Blood could not be declared in response to the body check caused by Giant Spiderswounding a Hobbit. No action may be declared in response to a special action resulting from a strike unless the special action is a dice-rolling action, i.e., a special action is generally considered synonymous with the strike dice-roll. If the special action is a dice-rolling action, an action may be declared in response to it if the action directly affects the dice-roll.
 
- Annotation 20: If more than one special action is to
-follow a strike, the defending player
-decides the order they are resolved.
+ Annotation 20: If more than one special action is to follow a strike, the defending player decides the order they are resolved.
 
- Annotation 21: A successful strike against a character is
-synonymous with that character
-being wounded, i.e., inverting a character card on the
-playing surface is not a separate action
-from the successful strike.
+ Annotation 21: A successful strike against a character is synonymous with that character being wounded, i.e., inverting a character card on the playing surface is not a separate action from the successful strike.
 
- Wounded characters only suffer a -2 prowess. In general,
-wounded characters are not
-considered tapped.
+ Wounded characters only suffer a -2 prowess. In general, wounded characters are notconsidered tapped.
 
- Non-item prowess bonuses are applied in the order the
-player controlling the character
-decides.
+ Non-item prowess bonuses are applied in the order the player controlling the character decides.
 
- If a character is facing two strikes, and the first
-strike kills the character, the second strike is
-considered successful.
+ If a character is facing two strikes, and the first strike kills the character, the second strike is considered successful.
 
- There is time between the strike sequences to take
-actions that are otherwise legal.
+ There is time between the strike sequences to take actions that are otherwise legal.
 
 ### Site Phase
 
 #### General
 
- Items, factions and allies must be played during the site
-phase.
+ Items, factions and allies must be played during the site phase.
 
  There is no one resource card per site phase rule.
  
-However, the tapping of the site usually
-limits you to one card per site phase.
+However, the tapping of the site usually limits you to one card per site phase.
 
- The site taps upon successful play of the resource that
-would tap it.
+ The site taps upon successful play of the resource that would tap it.
 
- A company may not play any resource during the site phase
-until they have faced all
-automatic-attacks, unless that resource directly affects
-an automatic-attack. Removing an
-automatic-attack does not directly affect it, although
-cancelling does.
+ A company may not play any resource during the site phase until they have faced all automatic-attacks, unless that resource directly affects an automatic-attack. Removing an automatic-attack does not directly affect it, although cancelling does.
 
- You may only play a free minor item after playing an
-ally, faction, or item that taps the site.
+ You may only play a free minor item after playing an ally, faction, or item that taps the site.
 
  See also Rulings by Term, Item.
  
- Play of an ally, item, faction, or resource card which
-will normally tap the site must be after
-the company resolves all automatic, agentm and on-guard
-creature attacks.
+ Play of an ally, item, faction, or resource card which will normally tap the site must be after the company resolves all automatic, agentm and on-guard creature attacks.
 
 #### Company vs. Company Combat
 
- The defender may take actions that affect the attack or
-any of the strikes. The attacker may
-only take actions that affect individual strikes.
+ The defender may take actions that affect the attack or any of the strikes. The attacker may only take actions that affect individual strikes.
 
- True Fana and Sacrifice of Form cannot be used in company
-versus company combat.
+ True Fana and Sacrifice of Form cannot be used in company versus company combat.
 
- @ Rules Erratum: Hazards effects in play that affect
-attacks have no effect on company vs.
-company combat.
+ @ Rules Erratum: Hazards effects in play that affect attacks have no effect on company vs. company combat.
 
- Only the defender is considered to be facing an attack,
-but all characters are considered to be
-facing strikes.
+ Only the defender is considered to be facing an attack, but all characters are considered to be facing strikes.
 
- Tapped defending characters choose their strikes after
-untapped attacking characters have
-assigned their strikes.
+ Tapped defending characters choose their strikes after untapped attacking characters have assigned their strikes.
 
- Minion and hero companies can attack each other. Hero
-companies may not attack each
-other. A Fallen Wizard covert company is considered a
-hero company.
+ Minion and hero companies can attack each other. Hero companies may not attack each other. A Fallen Wizard covert company is considered a hero company.
 
  See also Card Rulings, Swarm of Bats.
  
 #### Automatic-attacks
 
- A card that can cancel an attack can cancel an
-automatic-attack, and this counts as facing the
-automatic-attack.
+ A card that can cancel an attack can cancel an automatic-attack, and this counts as facing the automatic-attack.
 
- Automatic-attacks added to a site are faced after the
-normal automatic- attacks for the site.
+ Automatic-attacks added to a site are faced after the normal automatic- attacks for the site.
 
-Multiple automatic-attacks are faced in the order listed
-and/or resolved.
+Multiple automatic-attacks are faced in the order listed and/or resolved.
 
- Company composition and overt/covert status is checked
-before each automatic attack.
+ Company composition and overt/covert status is checked before each automatic attack.
 
- Any character may tap to cancel one automatic-attack at
-his home site.
+ Any character may tap to cancel one automatic-attack at his home site.
 
- The only resources you may play against automatic-attacks
-are ones that cancel the attack,
-cancel a strike, or would be otherwise playable during
-the strike sequence.
+ The only resources you may play against automatic-attacks are ones that cancel the attack, cancel a strike, or would be otherwise playable during the strike sequence.
 
 #### Influence Attempts
 
- @ It is not possible to influence anything away from a
-Wizard or Ringwraith.
+ @ It is not possible to influence anything away from a Wizard or Ringwraith.
 
  You may influence a Hobbit if you are not at Bag End.
- A successful influence attempt on an opponent's resource
-does not tap the site.
+ 
+A successful influence attempt on an opponent's resource does not tap the site.
 
- You may only make one influence attempt against your
-opponent's resources during each
-turn.
+ You may only make one influence attempt against your opponent's resources during each turn.
 
- When influencing factions across alignments, you roll
-against the number on the card in
-play, that you are trying to influence away.
+ When influencing factions across alignments, you roll against the number on the card in play, that you are trying to influence away.
 
- For a Fallen-wizard, the resource revealed must match the
-alignment of the site at which the
-attempt is taking place.
+ For a Fallen-wizard, the resource revealed must match the alignment of the site at which the attempt is taking place.
 
 #### On-Guard Cards
 
- Rules Erratum: An on-guard card may only be revealed if
-it could have also been played
-during the movement/hazard phase. This means all targets
-of the card must have existed
-during the movement/hazard phase in order for the card to
-be revealed.
+ Rules Erratum: An on-guard card may only be revealed if it could have also been played during the movement/hazard phase. This means all targets of the card must have existed during the movement/hazard phase in order for the card to be revealed.
 
- A revealed on-guard card retroactively takes effect as
-though it were both declared and
-resolved immediately prior to the chain of effects during
-which it was revealed.
+ A revealed on-guard card retroactively takes effect as though it were both declared and resolved immediately prior to the chain of effects during which it was revealed.
 
- An on-guard card may be revealed when the company plays a
-resource that potentially taps
-the site. The card must affect the company or a character
-in the company that site phase. Note that this clarification is looser than the rule printed on p.61 of the Unlimited Rules book.
+ An on-guard card may be revealed when the company plays a resource that potentially taps the site. The card must affect the company or a character in the company that site phase. Note that this clarification is looser than the rule printed on p.61 of the Unlimited Rules book.
 
- A successful ring test does not allow an on-guard card to
-be revealed.
+ A successful ring test does not allow an on-guard card to be revealed.
 
- You may reveal a card in response to an influence attempt
-against a faction even if the
-on-guard card only has an effect if the attempt is
-successful. You may also reveal a card in
-response to such an attempt that affects the actual
-influence attempt.
+ You may reveal a card in response to an influence attempt against a faction even if the on-guard card only has an effect if the attempt is successful. You may also reveal a card in response to such an attempt that affects the actual influence attempt.
 
- Only declared or on-going cards and effects can be
-considered when determining the
-validity of revealing an on-guard card. Potential effects that have not been triggered cannot be considered.
+ Only declared or on-going cards and effects can be considered when determining the validity of revealing an on-guard card. Potential effects that have not been triggered cannot be considered.
 
  A card cannot be revealed that:
 
