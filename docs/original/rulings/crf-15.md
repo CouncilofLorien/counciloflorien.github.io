@@ -657,9 +657,7 @@ influence attempt.
 
  Only declared or on-going cards and effects can be
 considered when determining the
-validity of revealing an on-guard card. Potential effects
-that have not been triggered cannot
-be considered.
+validity of revealing an on-guard card. Potential effects that have not been triggered cannot be considered.
 
  A card cannot be revealed that:
 
@@ -669,72 +667,39 @@ be considered.
 - Forces a company to do nothing during its site phase.
 - Directly taps a character in the company.
 
- A card that potentially removes an ally from the company
-can be revealed, so long as it otherwise is legal.
+ A card that potentially removes an ally from the company can be revealed, so long as it otherwise is legal.
 
- The on-guard card is not considered to be in any player's
-hand.
+ The on-guard card is not considered to be in any player's hand.
 
- When an on-guard card is revealed, it immediately ceases
-to be considered an on-guard card.
+ When an on-guard card is revealed, it immediately ceases to be considered an on-guard card.
 
- Creatures may only be revealed on-guard if there is an
-automatic-attack at the site.
+ Creatures may only be revealed on-guard if there is an automatic-attack at the site.
 
- If two companies are at a Haven, on-guard cards played on
-one company can only be
-revealed against that company, and can only affect that
-company (unless the hazard states it
-affects all versions of the site).
+ If two companies are at a Haven, on-guard cards played on one company can only be revealed against that company, and can only affect that company (unless the hazard states it affects all versions of the site).
 
- @ If the site an on-guard card is played on leaves play
-before the site phase, the on-guard
-cards are returned to their owner's hand.
+ @ If the site an on-guard card is played on leaves play before the site phase, the on-guard cards are returned to their owner's hand.
 
  See also Rulings By Term, Burglary Attempts.
  
 ### End-of-Turn Phase
- End-of-turn effects are triggered by the ending of the
-End-of-Turn phase. Once both players
-are done with all actions in the End-of-Turn phase, all
-End-of-Turn effects are declared and
-resolved in the order chosen by the current player. No
-further actions may be declared that
-turn.
+ End-of-turn effects are triggered by the ending of the End-of-Turn phase. Once both players are done with all actions in the End-of-Turn phase, all End-of-Turn effects are declared and resolved in the order chosen by the current player. No further actions may be declared that turn.
 
- Cards may be played during the End-of-Turn phase after
-hand size has been reconciled.
+ Cards may be played during the End-of-Turn phase after hand size has been reconciled.
 
- Replacing one site with another at the end of the turn
-counts as movement, without a
-movement/hazard phase.
+ Replacing one site with another at the end of the turn counts as movement, without a movement/hazard phase.
 
 ### End-of-Game
- These rulings apply to any end game, whether it is the
-Free Council, the Audience with
-Sauron, or the Day of Reckoning.
+ These rulings apply to any end game, whether it is the Free Council, the Audience with Sauron, or the Day of Reckoning.
 
- Characters may tap to aid corruption checks, if they are
-in the same company.
+ Characters may tap to aid corruption checks, if they are in the same company.
 
- Long- and permanent-events still in play will still have
-an effect.
+ Long- and permanent-events still in play will still have an effect.
 
- Only resources that directly affect corruption checks may
-be played during the Free Council. This includes cards that reduce a character's corruption
-point total or prevent a character
-from being discarded.
+ Only resources that directly affect corruption checks may be played during the Free Council. This includes cards that reduce a character's corruption point total or prevent a character from being discarded.
 
- When determining if more than half of your marshalling
-points come from one type of
-marshalling point, ignore negative marshalling points. The easy way to do this is if one
-category is more than half of your positive marshalling
-points, reduce that category to equal
-all of your other positive marshalling point categories
-combined.
+ When determining if more than half of your marshalling points come from one type of marshalling point, ignore negative marshalling points. The easy way to do this is if one category is more than half of your positive marshalling points, reduce that category to equal all of your other positive marshalling point categories combined.
 
- To calculate marshalling points at the Free Council,
-follow these steps:
+ To calculate marshalling points at the Free Council, follow these steps:
 
  - Total up the marshalling points for each category. The modifications from My Precious, factions played on a leader, and eliminated characters apply now.
  - If your opponent has no points in a category double your points in that category. Doubling does not apply to the Miscellaneous or Kill categories.
@@ -1348,9 +1313,7 @@ The phrase 'protected Wizardhaven' is just a keyword, and has no effect by itsel
 If you are influencing against your opponent, and he is at a Wizardhaven where you can not play cards that give MPs, you can reveal the card you are influencing against to reduce the number you roll against to 0, but you may not play that card afterwards (if it gives MPs).
 
 ## Tournament Rulings
-Tournament rulings are modifications and additions to the rules presented in
-the Unlimited Edition of the Rulebook that are required for sanctioned Council of Lorien
-tournament play.
+Tournament rulings are modifications and additions to the rules presented in the Unlimited Edition of the Rulebook that are required for sanctioned Council of Lorien tournament play.
 
 &emsp;[General](#general-4)
 &emsp;[The Character Draft](#the-character-draft)
@@ -1366,141 +1329,68 @@ tournament play.
 #### General
  Dice must be used to obtain random numbers.
  
- There is a required 30 card minimum for both resources
-and hazards for sanctioned
-tournament play.
+ There is a required 30 card minimum for both resources and hazards for sanctioned tournament play.
 
- All Ringwraith/Sauron players always have +5 unused
-general influence at all times. This
-bonus general influence can never be used to control
-characters.
+ All Ringwraith/Sauron players always have +5 unused general influence at all times. This bonus general influence can never be used to control characters.
 
-You may not shuffle your discard pile unless a game
-effect requires it.
+You may not shuffle your discard pile unless a game effect requires it.
 
-To randomly access a card or cards from your discard
-pile, shuffle it and draw the
-required number of cards from the pile. The remaining
-cards become your new discard pile.
+To randomly access a card or cards from your discard pile, shuffle it and draw the required number of cards from the pile. The remaining cards become your new discard pile.
 
 #### The Character Draft
  The starting character pool consists of 10 characters.
  
- Each player reveals one character at a time from their
-pool, simultaneously with their
-opponent. Non-duplicated characters go into the starting
-companies, duplicated characters
-are put aside and not allowed in either starting company.
-Each player continues until they
-want to stop, they have 20 points of mind in their
-starting company, or they have five
-characters in their starting company.
+ Each player reveals one character at a time from their pool, simultaneously with their opponent. Non-duplicated characters go into the starting companies, duplicated characters are put aside and not allowed in either starting company.
 
- Ringwraith players may start with 6 characters in the
-character draft
- If one player stops revealing characters, the other one
-may continue to reveal characters.
+Each player continues until they want to stop, they have 20 points of mind in their starting company, or they have five characters in their starting company.
 
- No player may reveal a character that would bring his
-starting company's total mind over 20.
+ Ringwraith players may start with 6 characters in the character draft.
+ 
+If one player stops revealing characters, the other one may continue to reveal characters.
 
- When players are finished, each may put up to 10
-characters into their deck, including
-characters from his starting pool that did not end up in
-the starting company.
+ No player may reveal a character that would bring his starting company's total mind over 20.
 
- Characters left over from the character pool may be
-placed either in the play deck, or out of
-play, but may not be placed in the sideboard.
+ When players are finished, each may put up to 10 characters into their deck, including characters from his starting pool that did not end up in the starting company.
+
+ Characters left over from the character pool may be placed either in the play deck, or out of play, but may not be placed in the sideboard.
 
 #### Deck Construction
- Cards that can be played as either hazards or resources
-may count as either for purposes of
-deck construction.
+ Cards that can be played as either hazards or resources may count as either for purposes of deck construction.
 
  Each deck must contain at least 12 creatures.
  
- The following count as 1/2 a creature for deck
-construction: hazards that can be played as
-creatures or events, At Home Dragon manifestations, Ahunt
-Dragon manifestations, and
-agents. Note that agents count as characters in
-Ringwraith decks, not as 1/2 creatures.
+ The following count as 1/2 a creature for deck construction: hazards that can be played as creatures or events, At Home Dragon manifestations, Ahunt Dragon manifestations, and agents. Note that agents count as characters in Ringwraith decks, not as 1/2 creatures.
 
- Up to 3 copies of one Wizard or Ringwraith is allowed in
-a play deck, or up to 2 copies of
-one and 1 copy of another. One copy each of three
-different Wizards or Ringwraiths is not
-allowed.
+ Up to 3 copies of one Wizard or Ringwraith is allowed in a play deck, or up to 2 copies of one and 1 copy of another. One copy each of three different Wizards or Ringwraiths is not allowed.
 
- You may place Ringwraiths or Wizards in your sideboard,
-as long as only one of them is
-duplicated in the deck and sideboard combined, and you
-have only Ringwraiths or only
-Wizards in the deck and sideboard combined.
+ You may place Ringwraiths or Wizards in your sideboard, as long as only one of them is duplicated in the deck and sideboard combined, and you have only Ringwraiths or only Wizards in the deck and sideboard combined.
 
- You may include hero items in a Ringwraith deck even in a
-Ringwraith vs. Ringwraith
-game.
+ You may include hero items in a Ringwraith deck even in a Ringwraith vs. Ringwraith game.
 
- A Fallen-wizard may only count two Twilights as
-resources, the third must be counted as a
-hazard. The same goes for other hazards that may be
-played as resources.
+ A Fallen-wizard may only count two Twilights as resources, the third must be counted as a hazard. The same goes for other hazards that may be played as resources.
 
- The two starting minor items must be chosen before the
-character draft, and must be the
-same for every game in the tournament.
+ The two starting minor items must be chosen before the character draft, and must be the same for every game in the tournament.
 
 #### Freeze the Flesh
- If used on your Ringwraith or Fallen-wizard, it will
-remove the -5 MP penalty for having
-them eliminated.
+ If used on your Ringwraith or Fallen-wizard, it will remove the -5 MP penalty for having them eliminated.
 
 #### Great Secrets Buried There
- If you play this card as a hazard on your opponent, you
-must be able to provide your
-opponent with a copy of any uncommon Under-deeps sites if
-he does not have a copy in his
-location deck.
+ If you play this card as a hazard on your opponent, you must be able to provide your opponent with a copy of any uncommon Under-deeps sites if he does not have a copy in his location deck.
 
- If you give an Under-deeps site to your opponent, it will
-return to your location deck when
-he is done with it, unless you have also used the site,
-in which case it returns to your discard
-pile.
+ If you give an Under-deeps site to your opponent, it will return to your location deck when he is done with it, unless you have also used the site, in which case it returns to your discard pile.
 
 #### Movement
- Maps of the regions of MECCG may be used in place of
-region cards in Council of Lorien
-tournaments. If two or more companies move on the same
-turn, then each company does not
-have to determine the site path to its new site until the
-beginning of it's movement/hazard
-phase.
+ Maps of the regions of MECCG may be used in place of region cards in Council of Lorien tournaments. If two or more companies move on the same turn, then each company does not have to determine the site path to its new site until the beginning of it's movement/hazard phase.
 
- Wizard companies cannot use starter movement to or from
-sites in Gorgoroth. If using
-region movement to or from sites in Gorgoroth, they must
-move from a site in Imlad Morgul,
-through either Nurn or Udun, or use a movement enhancer
-like Ash Mountains or
-Eagle-mounts. Such sites may be reached normally with
-Under-deeps movement.
+ Wizard companies cannot use starter movement to or from sites in Gorgoroth. If using region movement to or from sites in Gorgoroth, they must move from a site in Imlad Morgul, through either Nurn or Udun, or use a movement enhancer like Ash Mountains or Eagle-mounts. Such sites may be reached normally with Under-deeps movement.
 
 #### Sites
- If you play a hazard forcing a Fallen-wizard to change
-site alignments, and he does not have
-the other version of the site he is moving to, you must
-provide it for him. After that it is his
-responsibility to provide sites.
+ If you play a hazard forcing a Fallen-wizard to change site alignments, and he does not have the other version of the site he is moving to, you must provide it for him. After that it is his responsibility to provide sites.
 
 #### Starting Companies
- Ringwraith/Sauron players may have starting companies at
-Dol Guldur and/or Minas Morgul.
+ Ringwraith/Sauron players may have starting companies at Dol Guldur and/or Minas Morgul.
 
-A Ringwraith may also be brought into play at Dol
-Guldur, Minas Morgul, or his home site.
+A Ringwraith may also be brought into play at Dol Guldur, Minas Morgul, or his home site.
 
 #### Victory Conditions
  Eliminating a Wizard or Ringwraith does not end the game.
