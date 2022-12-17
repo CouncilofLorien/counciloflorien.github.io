@@ -3117,7 +3117,7 @@ it."
  Only affects Radagast when using region movement.
 
 #### Witch-king of Angmar
- Although he becomes a long-event when tapped, he is
+Although he becomes a long-event when tapped, he is
 discarded when the effect resolves
 just like other Nazgul. The long-event effect will remain
 until the appropriate time.
@@ -3125,115 +3125,53 @@ until the appropriate time.
  See also Rulings by Term, Nazgul.
 
 #### Withdrawn to Mordor
- To discard an on-guard card with Withdrawn to Mordor you
-must do so before the card is
-revealed.
-
- The "playable on ..." conditions of the first paragraph
-do not apply to the second paragraph.
+ - To discard an on-guard card with Withdrawn to Mordor you must do so before the card is revealed.
+ - The "playable on ..." conditions of the first paragraph do not apply to the second paragraph.
 
 #### Wizard's Laughter
- Card Erratum: Change "Wizard only." to "Wizard only
-during opponent's site phase."
+ - Card Erratum: Change "Wizard only." to "Wizard only during opponent's site phase."
 
 #### Wizard's Myrmidon
- Can be played wiht another card, like Squire of the Hunt,
-that reduces the influence required
-to control the character. Use the lower number to control
-the character.
+ - Can be played with another card, like Squire of the Hunt, that reduces the influence required to control the character. Use the lower number to control the character.
 
 #### Wizard's Ring
- Card Erratum: Replace "Ignore any effect that would
-discard this item" with "Cannot be
-stored, stolen, or transferred."
-
- This is not a ring item.
+ - Card Erratum: Replace "Ignore any effect that would discard this item" with "Cannot be stored, stolen, or transferred."
+ - This is not a ring item.
 
 #### Wolf-riders
- The "playable on ..." conditions of the first paragraph
-do not apply to the second paragraph.
+ - The "playable on ..." conditions of the first paragraph do not apply to the second paragraph.
 
 #### Wolves
- Card Erratum: Change "Animals" to "Wolves."
+ - Card Erratum: Change "Animals" to "Wolves."
 
 #### Worn and Famished
- See Rulings by Term, Card Effect Limitations.
+ - See Rulings by Term, Card Effect Limitations.
 
 #### The Worthy Hills
- Since this site never taps, no free minor items may be
-played here.
-
- (minion) The Worthy Hills effect of not tapping does not
-interfere with the satisfying of
-active conditions.
+ - Since this site never taps, no free minor items may be played here.
+ - (minion) The Worthy Hills effect of not tapping does not interfere with the satisfying of active conditions.
 
 #### Woses of Eryn Vorn
- Card erratum (minion version): Change "Man faction" to
-"Wose faction."
+ - Card erratum (minion version): Change "Man faction" to "Wose faction."
 
 ## Complete Errata Listing
 
 ### Rules Errata
 
- When a company splits, any of the resulting companies can
-move with region movement.
-Region movement is not limited to one company of a split.
-
- You may play a character if you do not have enough
-influence to control them. However, if
-there are any characters you do not have the influence to
-control at the end of your
-organization phase, the character you brought into play
-this turn must be returned to your
-hand.
-
- An on-guard may only be revealed if it could have also
-been played during the
-movement/hazard phase. This means all targets of the card
-must have existed during the
-movement/hazard phase in order for the card to be
-revealed.
-
- A tapped agent may take an action to untap (i.e., move
-from tapped status to utapped status).
-
- An agent may tap to play creatures at a site if the
-company is moving to the site.
-
- Attacks keyed to Darkhavens are considered detainment.
-\[effective 11/17/97]
-
- Dragons Rules, Characters Facing Multiple Strikes: Change
-"are then considered to be
-canceled" to "are thenn considered to be successful."
-
- Dragon Rules, Hoards: Change "Each site with a Dragon
-automatic-attack (i.e., each
-Dragon's Lair) contains a hoard" to "Each site which had
-a Dragon automatic-attack at the
-beginning of the turn contains a hoard."
-
- White Hand Rules, Playing and Using Resource, Targeting Site and Resource Cards: change
-both instances of "resource card may not target/affect"
-to "resource event card may not
-target/affect."
-
- Agent attacks against minions are always detainment.
-\[Effective 8/27/98]
-
- Corruption cards must always start a chain of effects.
-\[Effective 8/27/98]
-
- @ If a company returns to it's site of origin, it must do
-nothing during it's site phase. A
-company failing it's underdeeps movement roll is not
-effected by this rule.
- 
-@ Hazard effects in play that affect attacks have no
-effect on company vs.company combat.
- 
-@ Balrog players receive no MPs for hero items played at
-their darkhavens.
+ - When a company splits, any of the resulting companies can move with region movement. Region movement is not limited to one company of a split.
+ - You may play a character if you do not have enough influence to control them. However, if there are any characters you do not have the influence to control at the end of your organization phase, the character you brought into play this turn must be returned to your hand.
+ - An on-guard may only be revealed if it could have also been played during the movement/hazard phase. This means all targets of the card must have existed during the movement/hazard phase in order for the card to be revealed. 
+ - A tapped agent may take an action to untap (i.e., move from tapped status to utapped status).
+ - An agent may tap to play creatures at a site if the company is moving to the site.
+ - Attacks keyed to Darkhavens are considered detainment. \[effective 11/17/97]
+ - Dragons Rules, Characters Facing Multiple Strikes: Change "are then considered to be canceled" to "are thenn considered to be successful."
+ - Dragon Rules, Hoards: Change "Each site with a Dragon automatic-attack (i.e., each Dragon's Lair) contains a hoard" to "Each site which had a Dragon automatic-attack at the beginning of the turn contains a hoard."
+ - White Hand Rules, Playing and Using Resource, Targeting Site and Resource Cards: change both instances of "resource card may not target/affect" to "resource event card may not target/affect."
+ - Agent attacks against minions are always detainment. \[Effective 8/27/98]
+ - Corruption cards must always start a chain of effects. \[Effective 8/27/98]
+ - @ If a company returns to it's site of origin, it must do nothing during it's site phase. A company failing it's underdeeps movement roll is not effected by this rule.
+ - @ Hazard effects in play that affect attacks have no effect on company vs.company combat.
+ - @ Balrog players receive no MPs for hero items played at their darkhavens.
  
 ### Card Errata
  
