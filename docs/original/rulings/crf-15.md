@@ -76,7 +76,7 @@ If you have any further questions concerning _MECCG_, you can either:
  -  _Rules Erratum:_ When a company splits, any of the resulting companies can move with region movement. Region movement is not limited to one company of a split.
  -  Any single site path cannot have more than one copy of a particular region.
  -  Any company may declare as its new site a site already on the table. That site will remain on the table at least until the end of that company's movement/hazard phase.
- -  Two companies may not start at the same site of origin and move to the same new site. - 
+ -  Two companies may not start at the same site of origin and move to the same new site.
  -  Effects that are played during the organization phase, and depend on the site or site path of a moving company, create an effect which is not declared until the new site is revealed. If the site or site path is not of the appropriate type when the effect resolves, the resource has no effect. If the company has multiple movement/hazard phases on the same turn, the card applies separately to each phase, having an effect only if the correct conditions are met.
 
 #### Followers
@@ -86,16 +86,16 @@ If you have any further questions concerning _MECCG_, you can either:
 
 #### Organizing Companies
 
- -  When a company splits up, its player chooses which characters are the original company and which characters are a new company, unless otherwise directed by a card. All resource permanent-events played on the original company stay with the original company.
+ - When a company splits up, its player chooses which characters are the original company and which characters are a new company, unless otherwise directed by a card. All resource permanent-events played on the original company stay with the original company.
  -  Company composition changes that you choose to make, including bringing a character into play, must all be done at the same time during the organization phase. During this time no other actions may be taken.
- -  If a company splits, all but one of the split companies must attempt to move to a different site this turn. The company may not rejoin in the same phase.
- -  You may transfer a character from one company at a site to another, without creating a third company.
- -  See also Rulings by Term, Company and Influence.
+ - If a company splits, all but one of the split companies must attempt to move to a different site this turn. The company may not rejoin in the same phase.
+ - You may transfer a character from one company at a site to another, without creating a third company.
+ - See also Rulings by Term, [Company](#company) and [Influence](#influence).
  
 #### Playing Characters
 
- -  _Rules Erratum:_ You may play a character if you do not have enough influence to control them. However, if there are any characters you do not have the influence to control at the end of your organization phase, the character you brought into play this turn must be returned to your hand.
- -  If you play a Ringwraith at a non-Darkhaven site where there is one of your non-Ringwraith companies, one of the companies must move that turn. If both companies are still there at the end of the movement/hazard phase, discard the non-Rinwraith company. \[Effective 11/17/97]()
+ - _Rules Erratum:_ You may play a character if you do not have enough influence to control them. However, if there are any characters you do not have the influence to control at the end of your organization phase, the character you brought into play this turn must be returned to your hand.
+ - If you play a Ringwraith at a non-Darkhaven site where there is one of your non-Ringwraith companies, one of the companies must move that turn. If both companies are still there at the end of the movement/hazard phase, discard the non-Rinwraith company. \[Effective 11/17/97]()
 
 #### Storing Items
 
@@ -117,7 +117,7 @@ If you have any further questions concerning _MECCG_, you can either:
  -  Companies at the same non-Haven/non-Darkhaven site mustnjoin at the end of all movement/hazard phases, before the site phase starts. Companies at the same Haven/Darkhaven site may join at this time.
  -  If companies would join at the end of the movement/hazard phase such that the company composition rules are violated, one company of the hazard player's choice must return to its site of origin.
  -  If two companies join at a site, cards affecting one of the companies now affect them both.
- -  Removing the site of origin and resetting to hand size are simultaneous actions, and they are the last actions in any movement/hazard phase. This means a moving company is not at a site until the site phase. [effective 11/17/97]()
+ -  Removing the site of origin and resetting to hand size are simultaneous actions, and they are the last actions in any movement/hazard phase. This means a moving company is not at a site until the site phase. [effective 11/17/97](#rulings-effective-111797)
  -  The same region (as in region card) may not occur twice in a single site path.
  -  A non-moving company's current site is considered its new site for card play.
 
@@ -126,17 +126,17 @@ If you have any further questions concerning _MECCG_, you can either:
 #### General
  -  If a company does not move, it still has a movement/hazard phase. No cards are drawn based on the company's movement, and the only hazards that can be played on the company are creatures that can be keyed to the company's site and events.
  -  Lebennin and Ithilien are not adjacent, even though they look that way on some maps.
- -  If a company moves twice in one turn, resources played during the organization phase, like Secret Passage, are reapplied to the company at the beginning of each of their movement/hazard phases, if the conditions of the card are met.
+ -  If a company moves twice in one turn, resources played during the organization phase, like _Secret Passage_, are reapplied to the company at the beginning of each of their movement/hazard phases, if the conditions of the card are met.
  -  If both players have access to region movement, then neither player may be stopped from using region movement. Access includes region cards or an appropriate map.
 
 #### Playing Hazards
 
- -  Some hazard permanent-events allow you to tap or discard them for an effect, and this does not count against the hazard limit unless specified otherwise on the card. \[effective 11/17/97]
+ -  Some hazard permanent-events allow you to tap or discard them for an effect, and this does not count against the hazard limit unless specified otherwise on the card. [effective 11/17/97](#rulings-effective-111797)
  -  Hazards may only be played on a company whose movement/hazard phase is being resolved, or on the site they are moving to. Long-events and permanent-events may effect more than one company even though they are only played "on" one company.
  -  If a card must be keyed to two or more instances of a region type, those region types do not have to be consecutive in the site path.
  -  If you say you are done playing hazards and your opponent plays a resource before the movement/hazard phase ends, you may then resume playing hazards, assuming you have not yet reached the hazard limit.
  -  If a company is moving from a surface site to an Under-deeps site, hazards may not be played keyed to the region of the surface site.
- -  Angmar Arises, In Darkness Bind Them, and Reaching Shadow may not be used to play creatures keyed to double shadow-lands.
+ -  _Angmar Arises_, _In Darkness Bind Them_, and _Reaching Shadow_ may not be used to play creatures keyed to double shadow-lands.
  -  A creature "played at" a site is the same as being "keyed to" the site.
  -  A creature "played at a site in" a region is the same as being "keyed to" the site by name.
  - For the purposes of interpreting hazards, no Darkhaven or Haven has a site path except for Geann a-Lisch.
@@ -145,7 +145,7 @@ If you have any further questions concerning _MECCG_, you can either:
 #### Returning to Site of Origin
  -  If a company returns to its site of origin, its site path immediately disappears, and its movement/hazard phase immediately ends.
  -  An effect that returns a company to its site of origin may not be declared in the middle of an attack.
- -  @ Rules Erratum: If a company returns to it's site of origin, it may do nothing during it's site phase. A company failing it's underdeeps movement roll is not effected by this rule.
+ -  @ _Rules Erratum_: If a company returns to it's site of origin, it may do nothing during it's site phase. A company failing it's underdeeps movement roll is not effected by this rule.
 
 ### Combat
 
@@ -178,7 +178,7 @@ If you have any further questions concerning _MECCG_, you can either:
  -  **Annotation 16**: When a wounded character becomes unwounded, he is considered in his history to have been wounded and must face any special actions the wounding strike presented him.
  -  **Annotation 17**: The only actions that may be declared during a strike sequence are those outlined in Annotation 18.
  -  **Annotation 18**: When a defending player chooses to resolve a strike against a particular character, the only actions that may be taken by either player until the strike dice-roll is made are the following: playing hazard cards that affect the strike, the attacker may decide to use any or all of his remaining -1 modifications due to strikes in excess of the company's size, a target untapped character may take a -3 modification so that he will not automatically tap, and the defending character may play resource cards that affect the strike. An action that has the condition that a target character tap, but which otherwise has an effect not outlined here, may not be declared at this point. This is true even if the recipient of the strike would be the target character tapping and thus receive -1 to his prowess.
- -  **Annotation 19**: Following each successful strike or failed strike, a body check must be rolled (unless the failed strike has no body). However, if the strike calls for any special actions to follow it (e.g., a character wounded by "William" may be required to discard his items), these special actions are resolved before the body check. The body check is the first declared action in a nested chain of effects that immediately follows the strike dice-roll and special actions resulting from the strike. Other actions may be declared in response to a body check, in the same chain of effects, but these are limited to those actions that directly affect the body check dice-roll. E.g., Tookish Blood could not be declared in response to the body check caused by Giant Spiderswounding a Hobbit. No action may be declared in response to a special action resulting from a strike unless the special action is a dice-rolling action, i.e., a special action is generally considered synonymous with the strike dice-roll. If the special action is a dice-rolling action, an action may be declared in response to it if the action directly affects the dice-roll.
+ -  **Annotation 19**: Following each successful strike or failed strike, a body check must be rolled (unless the failed strike has no body). However, if the strike calls for any special actions to follow it (e.g., a character wounded by _"William"_ may be required to discard his items), these special actions are resolved before the body check. The body check is the first declared action in a nested chain of effects that immediately follows the strike dice-roll and special actions resulting from the strike. Other actions may be declared in response to a body check, in the same chain of effects, but these are limited to those actions that directly affect the body check dice-roll. E.g., _Tookish Blood_ could not be declared in response to the body check caused by _Giant Spiders_ wounding a Hobbit. No action may be declared in response to a special action resulting from a strike unless the special action is a dice-rolling action, i.e., a special action is generally considered synonymous with the strike dice-roll. If the special action is a dice-rolling action, an action may be declared in response to it if the action directly affects the dice-roll.
  -  **Annotation 20**: If more than one special action is to follow a strike, the defending player decides the order they are resolved.
  -  **Annotation 21**: A successful strike against a character is synonymous with that character being wounded, i.e., inverting a character card on the playing surface is not a separate action from the successful strike.
  -  Wounded characters only suffer a -2 prowess. In general, wounded characters are notconsidered tapped.
