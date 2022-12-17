@@ -181,7 +181,7 @@ If you have any further questions concerning _MECCG_, you can either:
  -  **Annotation 19**: Following each successful strike or failed strike, a body check must be rolled (unless the failed strike has no body). However, if the strike calls for any special actions to follow it (e.g., a character wounded by _"William"_ may be required to discard his items), these special actions are resolved before the body check. The body check is the first declared action in a nested chain of effects that immediately follows the strike dice-roll and special actions resulting from the strike. Other actions may be declared in response to a body check, in the same chain of effects, but these are limited to those actions that directly affect the body check dice-roll. E.g., _Tookish Blood_ could not be declared in response to the body check caused by _Giant Spiders_ wounding a Hobbit. No action may be declared in response to a special action resulting from a strike unless the special action is a dice-rolling action, i.e., a special action is generally considered synonymous with the strike dice-roll. If the special action is a dice-rolling action, an action may be declared in response to it if the action directly affects the dice-roll.
  -  **Annotation 20**: If more than one special action is to follow a strike, the defending player decides the order they are resolved.
  -  **Annotation 21**: A successful strike against a character is synonymous with that character being wounded, i.e., inverting a character card on the playing surface is not a separate action from the successful strike.
- -  Wounded characters only suffer a -2 prowess. In general, wounded characters are notconsidered tapped.
+ -  Wounded characters only suffer a -2 prowess. In general, wounded characters are not considered tapped.
  -  Non-item prowess bonuses are applied in the order the player controlling the character decides.
  -  If a character is facing two strikes, and the first strike kills the character, the second strike is considered successful.
  - There is time between the strike sequences to take actions that are otherwise legal.
@@ -191,18 +191,17 @@ If you have any further questions concerning _MECCG_, you can either:
 #### General
 
  - Items, factions and allies must be played during the site phase.
- - There is no one resource card per site phase rule.
- - However, the tapping of the site usually limits you to one card per site phase.
+ - There is no one resource card per site phase rule. However, the tapping of the site usually limits you to one card per site phase.
  - The site taps upon successful play of the resource that would tap it.
  - A company may not play any resource during the site phase until they have faced all automatic-attacks, unless that resource directly affects an automatic-attack. Removing an automatic-attack does not directly affect it, although cancelling does.
  - You may only play a free minor item after playing an ally, faction, or item that taps the site.
  - See also Rulings by Term, Item. 
- - Play of an ally, item, faction, or resource card which will normally tap the site must be after the company resolves all automatic, agentm and on-guard creature attacks.
+ - Play of an ally, item, faction, or resource card which will normally tap the site must be after the company resolves all automatic, agent and on-guard creature attacks.
 
 #### Company vs. Company Combat
 
  -  The defender may take actions that affect the attack or any of the strikes. The attacker may only take actions that affect individual strikes.
- -  True Fana and Sacrifice of Form cannot be used in company versus company combat.
+ -  _True Fana_ and _Sacrifice of Form_ cannot be used in company versus company combat.
  -  @ _Rules Erratum:_ Hazards effects in play that affect attacks have no effect on company vs. company combat.
  -  Only the defender is considered to be facing an attack, but all characters are considered to be facing strikes.
  -  Tapped defending characters choose their strikes after untapped attacking characters have assigned their strikes.
@@ -229,7 +228,7 @@ If you have any further questions concerning _MECCG_, you can either:
 
 #### On-Guard Cards
 
- -  Rules Erratum: An on-guard card may only be revealed if it could have also been played during the movement/hazard phase. This means all targets of the card must have existed during the movement/hazard phase in order for the card to be revealed.
+ -  _Rules Erratum_: An on-guard card may only be revealed if it could have also been played during the movement/hazard phase. This means all targets of the card must have existed during the movement/hazard phase in order for the card to be revealed.
  -  A revealed on-guard card retroactively takes effect as though it were both declared and resolved immediately prior to the chain of effects during which it was revealed.
  -  An on-guard card may be revealed when the company plays a resource that potentially taps the site. The card must affect the company or a character in the company that site phase. Note that this clarification is looser than the rule printed on p.61 of the Unlimited Rules book.
  -  A successful ring test does not allow an on-guard card to be revealed.
@@ -261,7 +260,7 @@ If you have any further questions concerning _MECCG_, you can either:
  -  Only resources that directly affect corruption checks may be played during the Free Council. This includes cards that reduce a character's corruption point total or prevent a character from being discarded.
  -  When determining if more than half of your marshalling points come from one type of marshalling point, ignore negative marshalling points. The easy way to do this is if one category is more than half of your positive marshalling points, reduce that category to equal all of your other positive marshalling point categories combined.
  - To calculate marshalling points at the Free Council, follow these steps:
-     - Total up the marshalling points for each category. The modifications from My Precious, factions played on a leader, and eliminated characters apply now.
+     - Total up the marshalling points for each category. The modifications from _My Precious_, factions played on a leader, and eliminated characters apply now.
      - If your opponent has no points in a category double your points in that category. Doubling does not apply to the Miscellaneous or Kill categories.
      - If one of your categories accounts for more than half of your positive marshalling point total, reduce it so that it has the same number of points as the rest of your positive categories combined.
      - Subtract any points that are subtracted from your total, including points from unique resources your opponent has duplicated in his hand.
