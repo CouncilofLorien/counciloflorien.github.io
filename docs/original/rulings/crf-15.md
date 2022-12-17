@@ -48,14 +48,14 @@ If you have any further questions concerning _MECCG_, you can either:
 
 ## Turn Sequence Rulings
 
-<br>&emsp;[Beginning of the Game](#beginning-of-the-game)  
-&emsp;[Untap Phase](#untap-phase)  
-&emsp;[Organization Phase](#organization-phase)  
-&emsp;[Long-event Phase](#long-event-phase)  
-&emsp;[Movement/Hazard Phase](#movementhazard-phase)  
-&emsp;[Site Phase](#site-phase)  
-&emsp;[End-of-Turn Phase](#end-of-turn-phase)  
-&emsp;[End-of-Game](#end-of-game)
+ - &emsp;[Beginning of the Game](#beginning-of-the-game)  
+ - [Untap Phase](#untap-phase)  
+ - [Organization Phase](#organization-phase)  
+ - [Long-event Phase](#long-event-phase)  
+ - [Movement/Hazard Phase](#movementhazard-phase)  
+ - [Site Phase](#site-phase)  
+ - [End-of-Turn Phase](#end-of-turn-phase)  
+ - [End-of-Game](#end-of-game)
 
 ### Beginning of the Game
 
@@ -73,7 +73,7 @@ If you have any further questions concerning _MECCG_, you can either:
 
 #### Choosing a New Site
 
- -  Rules Erratum: When a company splits, any of the resulting companies can move with region movement. Region movement is not limited to one company of a split.
+ -  _Rules Erratum:_ When a company splits, any of the resulting companies can move with region movement. Region movement is not limited to one company of a split.
  -  Any single site path cannot have more than one copy of a particular region.
  -  Any company may declare as its new site a site already on the table. That site will remain on the table at least until the end of that company's movement/hazard phase.
  -  Two companies may not start at the same site of origin and move to the same new site. - 
@@ -94,7 +94,7 @@ If you have any further questions concerning _MECCG_, you can either:
  
 #### Playing Characters
 
- -  Rules Erratum: You may play a character if you do not have enough influence to control them. However, if there are any characters you do not have the influence to control at the end of your organization phase, the character you brought into play this turn must be returned to your hand.
+ -  _Rules Erratum:_ You may play a character if you do not have enough influence to control them. However, if there are any characters you do not have the influence to control at the end of your organization phase, the character you brought into play this turn must be returned to your hand.
  -  If you play a Ringwraith at a non-Darkhaven site where there is one of your non-Ringwraith companies, one of the companies must move that turn. If both companies are still there at the end of the movement/hazard phase, discard the non-Rinwraith company. \[Effective 11/17/97]()
 
 #### Storing Items
@@ -108,10 +108,10 @@ If you have any further questions concerning _MECCG_, you can either:
 
 #### General
 
- -  Annotation 25: A company is considered to be at the site given by its site card at all times except from the moment their new site card is revealed during their movement/hazard phase until their old site card is discarded during the same movement/hazard phase. During this period a company is considered to be en route between sites and not at any site.
- -  Annotation 25a: A company's movement/hazard phase is concluded when a moving company removes its site of origin and both players agree to reconcile (discard down to/draw up to) their hand sizes. No resources (and obviously no hazards) can be played, and no resource effects can be activated, until the site phase or until both players have drawn cards for the movement of a following company.
- -  Annotation 25b: Players drawing cards when a new site is revealed is synonymous with the resolution of the new site being revealed. It happens immediately, not in the following chain of effects.
- -  Annotation 26: If at the start of a player's movement/hazard phase, there are multiple effects in play such that their net effect depends on the order they are applied, the player who is currently not taking his turn (i.e., the hazard player) decides the order in which they are to be applied. Once this interpretation is established, all further actions are applied in theborder they are resolved for the rest of the turn.
+ -  **Annotation 25:** A company is considered to be at the site given by its site card at all times except from the moment their new site card is revealed during their movement/hazard phase until their old site card is discarded during the same movement/hazard phase. During this period a company is considered to be en route between sites and not at any site.
+ -  **Annotation 25a:** A company's movement/hazard phase is concluded when a moving company removes its site of origin and both players agree to reconcile (discard down to/draw up to) their hand sizes. No resources (and obviously no hazards) can be played, and no resource effects can be activated, until the site phase or until both players have drawn cards for the movement of a following company.
+ -  **Annotation 25b:** Players drawing cards when a new site is revealed is synonymous with the resolution of the new site being revealed. It happens immediately, not in the following chain of effects.
+ -  **Annotation 26:** If at the start of a player's movement/hazard phase, there are multiple effects in play such that their net effect depends on the order they are applied, the player who is currently not taking his turn (i.e., the hazard player) decides the order in which they are to be applied. Once this interpretation is established, all further actions are applied in theborder they are resolved for the rest of the turn.
  -  Once the effects of an environment card have been applied to a target during a given movement/hazard phase, that effect is not applied again to that target during the current turn.
  -  When you draw cards for movement, you may continue drawing cards until you either want to stop, or have drawn the number of cards allowed for the movement.
  -  Companies at the same non-Haven/non-Darkhaven site mustnjoin at the end of all movement/hazard phases, before the site phase starts. Companies at the same Haven/Darkhaven site may join at this time.
@@ -157,10 +157,10 @@ If you have any further questions concerning _MECCG_, you can either:
 
 #### Attack
 
- -  Annotation 12: An attack is considered to be resolved and concluded when the final strike, all special actions resulting from the final strike, and the associated body check are resolved.
- -  Annotation 13: An attack may not be canceled once its strikes have been assigned. A strike may not be canceled once the dice-roll for the strike has been made.
- -  Annotation 14: A canceled attack has no effect on its target company, except that the company is considered in its history to have faced the attack.
- -  Annotation 15: An attack must be the first declared action in a chain of effects, i.e., a creature card may not be played in response to another card in the same chain of effects. Revealing an on-guard creature is an exception.
+ -  **Annotation 12**: An attack is considered to be resolved and concluded when the final strike, all special actions resulting from the final strike, and the associated body check are resolved.
+ -  **Annotation 13**: An attack may not be canceled once its strikes have been assigned. A strike may not be canceled once the dice-roll for the strike has been made.
+ -  **Annotation 14**: A canceled attack has no effect on its target company, except that the company is considered in its history to have faced the attack.
+ -  **Annotation 15**: An attack must be the first declared action in a chain of effects, i.e., a creature card may not be played in response to another card in the same chain of effects. Revealing an on-guard creature is an exception.
  -  In order to cancel an attack or to directly affect an attack, the character doing so must be in the company facing the attack. Note that the region/site type a hazard creature was keyed to can be affected otherwise.
  -  Cards only modify attacks if they say they specifically mention attacks.
  -  When a minion company defeats an attack with no * by the MPs, the creature goes to the out-of-play pile belonging to the person who played the attack. They may still be taken as a trophy, but go to the appropriate out-of-play pile when the trophy is discarded.
@@ -175,12 +175,12 @@ If you have any further questions concerning _MECCG_, you can either:
 
 #### The Strike Sequence
 
- -  Annotation 16: When a wounded character becomes unwounded, he is considered in his history to have been wounded and must face any special actions the wounding strike presented him.
- -  Annotation 17: The only actions that may be declared during a strike sequence are those outlined in Annotation 18.
- -  Annotation 18: When a defending player chooses to resolve a strike against a particular character, the only actions that may be taken by either player until the strike dice-roll is made are the following: playing hazard cards that affect the strike, the attacker may decide to use any or all of his remaining -1 modifications due to strikes in excess of the company's size, a target untapped character may take a -3 modification so that he will not automatically tap, and the defending character may play resource cards that affect the strike. An action that has the condition that a target character tap, but which otherwise has an effect not outlined here, may not be declared at this point. This is true even if the recipient of the strike would be the target character tapping and thus receive -1 to his prowess.
- -  Annotation 19: Following each successful strike or failed strike, a body check must be rolled (unless the failed strike has no body). However, if the strike calls for any special actions to follow it (e.g., a character wounded by "William" may be required to discard his items), these special actions are resolved before the body check. The body check is the first declared action in a nested chain of effects that immediately follows the strike dice-roll and special actions resulting from the strike. Other actions may be declared in response to a body check, in the same chain of effects, but these are limited to those actions that directly affect the body check dice-roll. E.g., Tookish Blood could not be declared in response to the body check caused by Giant Spiderswounding a Hobbit. No action may be declared in response to a special action resulting from a strike unless the special action is a dice-rolling action, i.e., a special action is generally considered synonymous with the strike dice-roll. If the special action is a dice-rolling action, an action may be declared in response to it if the action directly affects the dice-roll.
- -  Annotation 20: If more than one special action is to follow a strike, the defending player decides the order they are resolved.
- -  Annotation 21: A successful strike against a character is synonymous with that character being wounded, i.e., inverting a character card on the playing surface is not a separate action from the successful strike.
+ -  **Annotation 16**: When a wounded character becomes unwounded, he is considered in his history to have been wounded and must face any special actions the wounding strike presented him.
+ -  **Annotation 17**: The only actions that may be declared during a strike sequence are those outlined in Annotation 18.
+ -  **Annotation 18**: When a defending player chooses to resolve a strike against a particular character, the only actions that may be taken by either player until the strike dice-roll is made are the following: playing hazard cards that affect the strike, the attacker may decide to use any or all of his remaining -1 modifications due to strikes in excess of the company's size, a target untapped character may take a -3 modification so that he will not automatically tap, and the defending character may play resource cards that affect the strike. An action that has the condition that a target character tap, but which otherwise has an effect not outlined here, may not be declared at this point. This is true even if the recipient of the strike would be the target character tapping and thus receive -1 to his prowess.
+ -  **Annotation 19**: Following each successful strike or failed strike, a body check must be rolled (unless the failed strike has no body). However, if the strike calls for any special actions to follow it (e.g., a character wounded by "William" may be required to discard his items), these special actions are resolved before the body check. The body check is the first declared action in a nested chain of effects that immediately follows the strike dice-roll and special actions resulting from the strike. Other actions may be declared in response to a body check, in the same chain of effects, but these are limited to those actions that directly affect the body check dice-roll. E.g., Tookish Blood could not be declared in response to the body check caused by Giant Spiderswounding a Hobbit. No action may be declared in response to a special action resulting from a strike unless the special action is a dice-rolling action, i.e., a special action is generally considered synonymous with the strike dice-roll. If the special action is a dice-rolling action, an action may be declared in response to it if the action directly affects the dice-roll.
+ -  **Annotation 20**: If more than one special action is to follow a strike, the defending player decides the order they are resolved.
+ -  **Annotation 21**: A successful strike against a character is synonymous with that character being wounded, i.e., inverting a character card on the playing surface is not a separate action from the successful strike.
  -  Wounded characters only suffer a -2 prowess. In general, wounded characters are notconsidered tapped.
  -  Non-item prowess bonuses are applied in the order the player controlling the character decides.
  -  If a character is facing two strikes, and the first strike kills the character, the second strike is considered successful.
@@ -203,7 +203,7 @@ If you have any further questions concerning _MECCG_, you can either:
 
  -  The defender may take actions that affect the attack or any of the strikes. The attacker may only take actions that affect individual strikes.
  -  True Fana and Sacrifice of Form cannot be used in company versus company combat.
- -  @ Rules Erratum: Hazards effects in play that affect attacks have no effect on company vs. company combat.
+ -  @ _Rules Erratum:_ Hazards effects in play that affect attacks have no effect on company vs. company combat.
  -  Only the defender is considered to be facing an attack, but all characters are considered to be facing strikes.
  -  Tapped defending characters choose their strikes after untapped attacking characters have assigned their strikes.
  -  Minion and hero companies can attack each other. Hero companies may not attack each other. A Fallen Wizard covert company is considered a hero company.
@@ -292,9 +292,9 @@ If you have any further questions concerning _MECCG_, you can either:
 
 #### Agent
 
- - Rules Erratum: A tapped agent may take an action to untap (i.e., move from tapped status to utapped status).
- - Rules Erratum: An agent may tap to play creatures at a site if the company is moving to the site.
- - Rules Erratum: Agent attacks against minions are always detainment. [Effective 8/27/98]
+ - _Rules Erratum:_ A tapped agent may take an action to untap (i.e., move from tapped status to utapped status).
+ - _Rules Erratum:_ An agent may tap to play creatures at a site if the company is moving to the site.
+ - _Rules Erratum:_ Agent attacks against minions are always detainment. [Effective 8/27/98]
  - Playing a card that makes an agent attack is considered the attack's declaration.
  - Agents are not creatures.
  - Rolls made by agents during combat are done simultaneously with rolls made by characters during combat, after step 4 of the strike sequence.
@@ -336,7 +336,7 @@ If you have any further questions concerning _MECCG_, you can either:
 
 #### Balrog
 
- - @ Erratum: Balrog players receive no MPs for hero items played at their darkhavens.
+ - @ _Erratum_: Balrog players receive no MPs for hero items played at their darkhavens.
 
 #### Burglary Attempts
 
@@ -346,7 +346,7 @@ If you have any further questions concerning _MECCG_, you can either:
 
 #### Body Check
 
- - Annotation 22: When a character fails a body check, his items may be immediately reassigned to unwounded characters in his company, one item per character. Reassigning of the eliminated character's items is considered to be synonymous with his failed body check, i.e., no action may take place between the failed check and reassigning the items. Unassigned items are discarded.
+ - **Annotation 22**: When a character fails a body check, his items may be immediately reassigned to unwounded characters in his company, one item per character. Reassigning of the eliminated character's items is considered to be synonymous with his failed body check, i.e., no action may take place between the failed check and reassigning the items. Unassigned items are discarded.
  - Effects that modify a character's body also modify the number an Orc or Troll would be discarded on. A maximum to body applies equally to the discard number.
  - If an Orc or Troll could be discarded and eliminated by a result, discard them instead of eliminating them.
  - "Affecting the body check" includes modifying the die roll or the body of the character making the check.
@@ -355,7 +355,7 @@ If you have any further questions concerning _MECCG_, you can either:
 ### -= CCC =-
 
 #### Cannot be Duplicated
- - Annotation 11 (modified from its original version): Some cards cannot be duplicated in limited cases -- generally on a specific target. Multiple copies of these cards or their effects may be in play normally, so long as each applies to a different target. A card that cannot be duplicated can be played when a copy is already in play only if the copy in play is currently being targeted by an effect that will discard it.
+ - **Annotation 11** (modified from its original version): Some cards cannot be duplicated in limited cases -- generally on a specific target. Multiple copies of these cards or their effects may be in play normally, so long as each applies to a different target. A card that cannot be duplicated can be played when a copy is already in play only if the copy in play is currently being targeted by an effect that will discard it.
  - Short-events that cannot be duplicated cannot be played if a card of the same name is currently having an effect on play.
 
 #### Card Effect Limitations
@@ -399,8 +399,8 @@ If you have any further questions concerning _MECCG_, you can either:
  - See also Turn Sequence, Organization Phase, Organizing Companies; and Rulings by Term, Influence.
 
 #### Corruption
- - Rules Erratum: Corruption cards must always start a chain of effects. [Effective 8/27/98]
- - Annotation 23: When a character fails a corruption check, the standard effects of this (i.e., the character being discarded or eliminated and his items being discarded) are implemented immediately and are considered synonymous with the failed check. A card causing the corruption check may modify the standard effects of a failed check (e.g. The Precious), but this timing would not be changed. Certain cards, e.g., Traitor, which do not cause a corruption check, but specify an action that results from the passive condition of a failed check, take effect as the first declared action in a chain of effects immediately following the chain of effects that contains the corruption check.
+ - _Rules Erratum_: Corruption cards must always start a chain of effects. [Effective 8/27/98]
+ - **Annotation 23**: When a character fails a corruption check, the standard effects of this (i.e., the character being discarded or eliminated and his items being discarded) are implemented immediately and are considered synonymous with the failed check. A card causing the corruption check may modify the standard effects of a failed check (e.g. The Precious), but this timing would not be changed. Certain cards, e.g., Traitor, which do not cause a corruption check, but specify an action that results from the passive condition of a failed check, take effect as the first declared action in a chain of effects immediately following the chain of effects that contains the corruption check.
  - Characters with 0 corruption points must still make corruption checks.
  - A character may attempt to remove a corruption card without tapping. The roll is at -3.
  - You can not attempt to remove a corruption card without tapping if you have attempted to remove that card already this turn. You may not tap to remove a corruption card that you tried to remove without tapping already this turn.
@@ -570,9 +570,9 @@ If you have any further questions concerning _MECCG_, you can either:
 #### Passive Conditions
 
  - A passive condition causes an action to happen as stated on a card already in play.
- - Annotation 9: If a card specifies that an action is to occur as a result of some specific passive condition, this action becomes automatically the first action declared in the chain of effects to immediately follow the chain of effects producing the passive condition. The passive condition must exist when this resulting action is resolved in its own chain of effects, or the action is canceled. Note that actions in the strike sequence follow a different set of rules.
- - Annotation 9a: If a card is required to be discarded by some passive condition, the card is discarded immediately when the condition resolves, not in the following chain of effects.
- - Annotation 10: If more than one action is required to be the first action declared in a chain of effects, the player whose turn it is chooses the order in which they are declared. No other actions may be declared in this follow-up chain until the multiple required actions have been declared.
+ - **Annotation 9**: If a card specifies that an action is to occur as a result of some specific passive condition, this action becomes automatically the first action declared in the chain of effects to immediately follow the chain of effects producing the passive condition. The passive condition must exist when this resulting action is resolved in its own chain of effects, or the action is canceled. Note that actions in the strike sequence follow a different set of rules.
+ - **Annotation 9a**: If a card is required to be discarded by some passive condition, the card is discarded immediately when the condition resolves, not in the following chain of effects.
+ - **Annotation 10**: If more than one action is required to be the first action declared in a chain of effects, the player whose turn it is chooses the order in which they are declared. No other actions may be declared in this follow-up chain until the multiple required actions have been declared.
  - A card causing an action as a result of a passive condition must be in play when the action resolves, or else the action is canceled.
 
 #### Playing a Card
@@ -654,19 +654,19 @@ If you have any further questions concerning _MECCG_, you can either:
 
 #### Targets
  - A target is an entity that an action is played out through. Enitities are only targets of an action if the action specifies those entities by number and type. Note that "the foo" counts as specifying one "foo."
- - Annotation 1: A card is not in play until it is resolved in its chain of effects. When the play of a card is declared, no elements of the card may be the target of actions declared in the same chain of effects. An exception to this is a dice-rolling action, e.g. a corruption check.
- - Annotation 2: A corruption check or any dice-rolling action can be targeted in the chain of effects during which it was declared.
- - Annotation 3: Long-events and certain other cards do not have targets because they are not played out through one specific entity, i.e., they generally affect an entire class of things.
- - Annotation 4: An action may not target a face-down card nor any element of a face down card. Face down cards include unrevealed new site cards and on-guard cards.
+ - **Annotation 1**: A card is not in play until it is resolved in its chain of effects. When the play of a card is declared, no elements of the card may be the target of actions declared in the same chain of effects. An exception to this is a dice-rolling action, e.g. a corruption check.
+ - **Annotation 2**: A corruption check or any dice-rolling action can be targeted in the chain of effects during which it was declared.
+ - **Annotation 3**: Long-events and certain other cards do not have targets because they are not played out through one specific entity, i.e., they generally affect an entire class of things.
+ - **Annotation 4**: An action may not target a face-down card nor any element of a face down card. Face down cards include unrevealed new site cards and on-guard cards.
  - You cannot target an opponent's character or resources with your own resources.
  - A card that is played on a card continuously targets the card it is on.
  - See also Rulings by Term, Active Condition.
 
 #### Timing
  - The validity of an effect, including the hazard limit, is checked upon declaration and upon resolution.
- - Annotation 24: If a card specifies that more than one action occurs when the card itself is resolved in a chain of effects, all of these actions are to be resolved in the card's chain of effects uninterrupted and in the order listed on the card. No actions may be declared to occur between these multiple actions. The actions listed on the card are considered to have been declared in the reverse order as they are printed.
+ - **Annotation 24**: If a card specifies that more than one action occurs when the card itself is resolved in a chain of effects, all of these actions are to be resolved in the card's chain of effects uninterrupted and in the order listed on the card. No actions may be declared to occur between these multiple actions. The actions listed on the card are considered to have been declared in the reverse order as they are printed.
  - (amendment to original version of Annotation 24): As an exception, if one of the effects of a card is an attack, cards may be played that cancel the attack, cancel one of its strikes, or that otherwise are playable during the strike sequence--see Annotation 18 (Turn Sequence, Movement/ Hazard Phase, Combat, Strike Sequence).
- - Annotation 27 : If a card has optional effects, the player playing the card must choose which will take place. He must do this at the time the card is played, not when it is resolved in its chain of effects. When such a card is resolved, if any active conditions for the choice of effects do not exist, the card has no effect and is discarded. The player may not at this point choose to implement an alternative effect of the card.
+ - **Annotation 27**: If a card has optional effects, the player playing the card must choose which will take place. He must do this at the time the card is played, not when it is resolved in its chain of effects. When such a card is resolved, if any active conditions for the choice of effects do not exist, the card has no effect and is discarded. The player may not at this point choose to implement an alternative effect of the card.
 
 #### Trophies
 
