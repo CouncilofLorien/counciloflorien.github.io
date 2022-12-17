@@ -59,122 +59,63 @@ If you have any further questions concerning _MECCG_, you can either:
 
 ### Beginning of the Game
 
-\# If a character is put in the deck due to duplication in
-the starting company, then it does not
-count against the 10 character limit.
+\# If a character is put in the deck due to duplication in the starting company, then it does not count against the 10 character limit.
 
-\# You should either draw numbers for the whole game or
-roll dice for the whole game.
+\# You should either draw numbers for the whole game or roll dice for the whole game.
 
- Your starting company can only contain 20 points of
-unmodified mind.
+ Your starting company can only contain 20 points of unmodified mind.
 
- Non-character cards duplicated in the character draft may
-not be placed into the play deck.
+ Non-character cards duplicated in the character draft may not be placed into the play deck.
 
- Your staring hand is eight cards, regardless of what
-characters you have at particular sites.
+ Your staring hand is eight cards, regardless of what characters you have at particular sites.
 
 ### Untap Phase
 
- Corruption checks triggered at the end of the untap phase
-happen after everyone untaps.
+ Corruption checks triggered at the end of the untap phase happen after everyone untaps.
 
 ### Organization Phase
 
 #### Choosing a New Site
 
- Rules Erratum: When a company splits, any of the
-resulting companies can move with
-region movement. Region movement is not limited to one
-company of a split.
+ Rules Erratum: When a company splits, any of the resulting companies can move with region movement. Region movement is not limited to one company of a split.
 
- Any single site path cannot have more than one copy of a
-particular region.
+ Any single site path cannot have more than one copy of a particular region.
 
- Any company may declare as its new site a site already on
-the table. That site will remain on
-the table at least until the end of that company's
-movement/hazard phase.
+ Any company may declare as its new site a site already on the table. That site will remain on the table at least until the end of that company's movement/hazard phase.
 
- Two companies may not start at the same site of origin
-and move to the same new site.
+ Two companies may not start at the same site of origin and move to the same new site.
 
- Effects that are played during the organization phase,
-and depend on the site or site path of a
-moving company, create an effect which is not declared
-until the new site is revealed. If the
-site or site path is not of the appropriate type when the
-effect resolves, the resource has no
-effect. If the company has multiple movement/hazard
-phases on the same turn, the card
-applies separately to each phase, having an effect only
-if the correct conditions are met.
+ Effects that are played during the organization phase, and depend on the site or site path of a moving company, create an effect which is not declared until the new site is revealed. If the site or site path is not of the appropriate type when the effect resolves, the resource has no effect. If the company has multiple movement/hazard phases on the same turn, the card applies separately to each phase, having an effect only if the correct conditions are met.
 
 #### Followers
 
- A character cannot use a bonus to direct influence
-against "Blue Mountain Dwarves" to
-control characters with the home site Blue Mountain
-Dwarf-hold. The bonus only applies to
-the faction.
+ A character cannot use a bonus to direct influence against "Blue Mountain Dwarves" to control characters with the home site Blue Mountain Dwarf-hold. The bonus only applies to the faction.
 
- Bonuses to direct influence against characters apply only
-once, not for each character.
+ Bonuses to direct influence against characters apply only once, not for each character.
 
 #### Organizing Companies
 
- When a company splits up, its player chooses which
-characters are the original company and
-which characters are a new company, unless otherwise
-directed by a card. All resource
-permanent-events played on the original company stay with
-the original company.
+ When a company splits up, its player chooses which characters are the original company and which characters are a new company, unless otherwise directed by a card. All resource permanent-events played on the original company stay with the original company.
 
- Company composition changes that you choose to make,
-including bringing a character into
-play, must all be done at the same time during the
-organization phase. During this time no
-other actions may be taken.
+ Company composition changes that you choose to make, including bringing a character into play, must all be done at the same time during the organization phase. During this time no other actions may be taken.
 
- If a company splits, all but one of the split companies
-must attempt to move to a different
-site this turn. The company may not rejoin in the same
-phase.
+ If a company splits, all but one of the split companies must attempt to move to a different site this turn. The company may not rejoin in the same phase.
 
- You may transfer a character from one company at a site
-to another, without creating a third
-company.
+ You may transfer a character from one company at a site to another, without creating a third company.
 
  See also Rulings by Term, Company and Influence.
  
 #### Playing Characters
 
- Rules Erratum: You may play a character if you do not
-have enough influence to control
-them. However, if there are any characters you do not
-have the influence to control at the
-end of your organization phase, the character you brought
-into play this turn must be
-returned to your hand.
+ Rules Erratum: You may play a character if you do not have enough influence to control them. However, if there are any characters you do not have the influence to control at the end of your organization phase, the character you brought into play this turn must be returned to your hand.
 
- If you play a Ringwraith at a non-Darkahven site where
-there is one of your non-Ringwraith
-comapnies, one of the companies must move that turn. If
-both companies are still there at
-the end of the movement/hazard phase, discard the
-non-Rinwraith company. \[Effective
-11/17/97]()
+ If you play a Ringwraith at a non-Darkhaven site where there is one of your non-Ringwraith companies, one of the companies must move that turn. If both companies are still there at the end of the movement/hazard phase, discard the non-Rinwraith company. \[Effective 11/17/97]()
 
 #### Storing Items
 
- Minions who roll equal to or one less than their
-accumulated corruption when storing an
-item are only tapped.
+ Minions who roll equal to or one less than their accumulated corruption when storing an item are only tapped.
 
- A minion who taps from a corruption check for
-storing/transferring an item still successfully
-stores/transfers that item.
+ A minion who taps from a corruption check for storing/transferring an item still successfully stores/transfers that item.
 
 ### Long Event Phase
 
@@ -182,77 +123,29 @@ stores/transfers that item.
 
 #### General
 
- Annotation 25: A company is considered to be at the site
-given by its site card at all times
-except from the moment their new site card is revealed
-during their movement/hazard phase
-until their old site card is discarded during the same
-movement/hazard phase. During this
-period a company is considered to be en route between
-sites and not at any site.
+ Annotation 25: A company is considered to be at the site given by its site card at all times except from the moment their new site card is revealed during their movement/hazard phase until their old site card is discarded during the same movement/hazard phase. During this period a company is considered to be en route between sites and not at any site.
 
- Annotation 25a: A company's movement/hazard phase is
-concluded when a moving
-company removes its site of origin and both players agree
-to reconcile (discard down
-to/draw up to) their hand sizes. No resources (and
-obviously no hazards) can be played, and
-no resource effects can be activated, until the site
-phase or until both players have drawn
-cards for the movement of a following company.
+ Annotation 25a: A company's movement/hazard phase is concluded when a moving company removes its site of origin and both players agree to reconcile (discard down to/draw up to) their hand sizes. No resources (and obviously no hazards) can be played, and no resource effects can be activated, until the site phase or until both players have drawn cards for the movement of a following company.
 
- Annotation 25b: Players drawing cards when a new site is
-revealed is synonymous with the
-resolution of the new site being revealed. It happens
-immediately, not in the following chain
-of effects.
+ Annotation 25b: Players drawing cards when a new site is revealed is synonymous with the resolution of the new site being revealed. It happens immediately, not in the following chain of effects.
 
- Annotation 26: If at the start of a player's
-movement/hazard phase, there are multiple
-effects in play such that their net effect depends on the
-order they are applied, the player
-who is currently not taking his turn (i.e., the hazard
-player) decides the order in which they
-are to be applied. Once this interpretation is
-established, all further actions are applied in the
-order they are resolved for the rest of the turn.
+ Annotation 26: If at the start of a player's movement/hazard phase, there are multiple effects in play such that their net effect depends on the order they are applied, the player who is currently not taking his turn (i.e., the hazard player) decides the order in which they are to be applied. Once this interpretation is established, all further actions are applied in theborder they are resolved for the rest of the turn.
 
- Once the effects of an environment card have been applied
-to a target during a given
-movement/hazard phase, that effect is not applied again
-to that target during the current turn.
+ Once the effects of an environment card have been applied to a target during a given movement/hazard phase, that effect is not applied again to that target during the current turn.
 
- When you draw cards for movement, you may continue
-drawing cards until you either want
-to stop, or have drawn the number of cards allowed for
-the movement.
+ When you draw cards for movement, you may continue drawing cards until you either want to stop, or have drawn the number of cards allowed for the movement.
 
- Companies at the same non-Haven/non-Darkhaven site must
-join at the end of all
-movement/hazard phases, before the site phase starts.
-Companies at the same
-Haven/Darkhaven site may join at this time.
+ Companies at the same non-Haven/non-Darkhaven site mustnjoin at the end of all movement/hazard phases, before the site phase starts. Companies at the same Haven/Darkhaven site may join at this time.
 
- If companies would join at the end of the movement/hazard
-phase such that the company
-composition rules are violated, one company of the hazard
-player's choice must return to its
-site of origin.
+ If companies would join at the end of the movement/hazard phase such that the company composition rules are violated, one company of the hazard player's choice must return to its site of origin.
 
- If two companies join at a site, cards affecting one of
-the companies now affect them both.
+ If two companies join at a site, cards affecting one of the companies now affect them both.
 
- Removing the site of origin and resetting to hand size
-are simultaneous actions, and they are
-the last actions in any movement/hazard phase. This means
-a moving company is not at a
-site until the site phase. [effective 11/17/97]()
+ Removing the site of origin and resetting to hand size are simultaneous actions, and they are the last actions in any movement/hazard phase. This means a moving company is not at a site until the site phase. [effective 11/17/97]()
 
- The same region (as in region card) may not occur twice
-in a single site path.
+ The same region (as in region card) may not occur twice in a single site path.
 
- A non-moving company's current site is considered its new
-site for card play.
+ A non-moving company's current site is considered its new site for card play.
 
 ### Movement
 
