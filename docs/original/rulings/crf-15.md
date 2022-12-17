@@ -48,7 +48,7 @@ If you have any further questions concerning _MECCG_, you can either:
 
 ## Turn Sequence Rulings
 
- - &emsp;[Beginning of the Game](#beginning-of-the-game)  
+ - [Beginning of the Game](#beginning-of-the-game)  
  - [Untap Phase](#untap-phase)  
  - [Organization Phase](#organization-phase)  
  - [Long-event Phase](#long-event-phase)  
