@@ -701,16 +701,16 @@ If you have any further questions concerning _MECCG_, you can either:
 ## Tournament Rulings
 Tournament rulings are modifications and additions to the rules presented in the Unlimited Edition of the Rulebook that are required for sanctioned Council of Lorien tournament play.
 
-&emsp;[General](#general-4)
-&emsp;[The Character Draft](#the-character-draft)
-&emsp;[Deck Construction](#deck-construction)
-&emsp;[Freeze the Flesh](#freeze-the-flesh)
-&emsp;[Great Secrets Buried There](#great-secrets-buried-there)
-&emsp;[Movement](#movement-1)
-&emsp;[Sites](#sites)
-&emsp;[Starting Companies](#starting-companies)
-&emsp;[Victory Conditions](#victory-conditions)
-&emsp;[The Weakest Link Method](#the-weakest-link-method)
+&emsp;[General](#general-4)  
+&emsp;[The Character Draft](#the-character-draft)  
+&emsp;[Deck Construction](#deck-construction)  
+&emsp;[Freeze the Flesh](#freeze-the-flesh)  
+&emsp;[Great Secrets Buried There](#great-secrets-buried-there)  
+&emsp;[Movement](#movement-1)  
+&emsp;[Sites](#sites)  
+&emsp;[Starting Companies](#starting-companies)  
+&emsp;[Victory Conditions](#victory-conditions)  
+&emsp;[The Weakest Link Method](#the-weakest-link-method)  
  
 #### General
  - Dice must be used to obtain random numbers.
