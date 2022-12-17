@@ -3,7 +3,9 @@ layout: default
 title: Original Rules
 has_children: true
 search_exclude: true
-nav_exclude:true
+nav_exclude: true
+has_toc: false
+permalink: /original/
 ---
 
 {: .text-center }
