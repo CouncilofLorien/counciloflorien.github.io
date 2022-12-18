@@ -476,7 +476,8 @@ If you have any further questions concerning _MECCG_, you can either:
  - See also Card Errata and Rulings, Favor of the Valar.
 
 #### Haven
- - Havens can tap. Whenever a hazard affecting minions refers to a Haven, interpret it as referring to a Darkhaven instead. Havens count as their own nearest Haven.
+ - Havens can tap. 
+ - Whenever a hazard affecting minions refers to a Haven, interpret it as referring to a Darkhaven instead. Havens count as their own nearest Haven.
  - If two companies join at a Haven, cards played on the discarded version of the Haven transfer to the version of the Haven that stays in play.
 
 #### Hobbits
