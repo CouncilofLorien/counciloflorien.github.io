@@ -34,7 +34,7 @@ _An action may not target a face-down card nor any element of a face down card. 
 
 ### ACTIONS AND ACTIVE AND PASSIVE CONDITIONS
 
-There are two types of conditions for actions in _MECCG_: active and passive.
+There are two types of conditions for actions in _MECCG:_ active and passive.
 
 An active condition must be in play or established when the action requiring it is declared. Typical active conditions are tapping a card and discarding a card. For example, _Magic Ring of Guile_ can cancel a strike against its bearer if two particular active conditions are met: the bearer must be a scout and _Magic Ring of Guile_ must tap. These are called active conditions because a player actively decides to invoke the action they satisfy. Active conditions serve as the price of an action. They are restrictions to the player invoking the action. In the case of _Magic Ring of Guile_, the player cancelling the strike must have provided a scout and he must tap the ring, which renders the ring unable to be used again until his next turn.
 
