@@ -117,7 +117,7 @@ _The only actions that may be declared during a strike sequence are those outlin
 
 #### Annotation 18
 
-_When a defending player chooses to resolve a strike against a particular character, the only actions that may be taken by either player until the strike dice-roll are those outlined in the section on sequencing strikes ([page 24](/rules-archive/the-wizards-unlimited#the-strike-sequence)). An action that has the condition that a target character tap, but which otherwise has an effect not outlined in this section, may not be declared at this point. This is true even if the recipient of the strike would be the target character tapping and thus receive -1 to his prowess._
+_When a defending player chooses to resolve a strike against a particular character, the only actions that may be taken by either player until the strike dice-roll are those outlined in the section on sequencing strikes (page 24). An action that has the condition that a target character tap, but which otherwise has an effect not outlined in this section, may not be declared at this point. This is true even if the recipient of the strike would be the target character tapping and thus receive -1 to his prowess._
 
 #### Annotation 19
 
