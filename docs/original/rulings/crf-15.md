@@ -281,12 +281,12 @@ If you have any further questions concerning _MECCG_, you can either:
 
 #### Active Conditions
  - An active condition must be in play or established when the action requiring it is declared. Active conditions serve as the price of an action. They are restrictions on the player invoking the action.
- - Annotation 5: If an action requires an entity to tap as a condition for the action's main effect, that entity must be untapped when the action is declared; else, the action may not be declared. Tap the entity at this point; this is considered synonymous with the action's declaration, i.e., it is not a separate action. When it comes time to resolve the action in its chain of effects, that entity must still be in play and tapped or the action is canceled.
- - Annotation 6: If an action requires an entity to be discarded as a condition for the action's main effect, that entity must be discarded when the action is declared; this is considered synonymous with the action's declaration, i.e., it is not a separate action.
- - Annotation 7: If any other active condition for an action does not exist when the action is resolved, the action has no effect; if the action was playing a card from your hand, it is discarded.
- - Annotation 8: An action that requires a target is considered to have the active condition that the target be in play when the action is declared and when it is resolved. An action may not be declared if its target is not in play. However, dice-rolling actions may always be targeted by other actions declared later in the same chain of effects.
+ - **Annotation 5**: If an action requires an entity to tap as a condition for the action's main effect, that entity must be untapped when the action is declared; else, the action may not be declared. Tap the entity at this point; this is considered synonymous with the action's declaration, i.e., it is not a separate action. When it comes time to resolve the action in its chain of effects, that entity must still be in play and tapped or the action is canceled.
+ - **Annotation 6**: If an action requires an entity to be discarded as a condition for the action's main effect, that entity must be discarded when the action is declared; this is considered synonymous with the action's declaration, i.e., it is not a separate action.
+ - **Annotation 7:** If any other active condition for an action does not exist when the action is resolved, the action has no effect; if the action was playing a card from your hand, it is discarded.
+ - **Annotation 8**: An action that requires a target is considered to have the active condition that the target be in play when the action is declared and when it is resolved. An action may not be declared if its target is not in play. However, dice-rolling actions may always be targeted by other actions declared later in the same chain of effects.
  - Your opponent's resources may be the active conditions for your resources, but may not be the targets for your resources.
- - If an "alternative" or "additional" effect does not have any "playable ..." conditions, then the "playable on ..." conditions from the primary effect of the card apply. The following cards are exceptions to this rule: Gloom, Good Sense Revolts, Half an Eye Open, Heedless Revelry, Here is a Snake, In the Name of Mordor, Inner Cunning, Nobody's Friend, Withdrawn to Mordor, and Wolf-riders.
+ - If an "alternative" or "additional" effect does not have any "playable ..." conditions, then the "playable on ..." conditions from the primary effect of the card apply. The following cards are exceptions to this rule: _Gloom_, _Good Sense Revolts_, _Half an Eye Open_, _Heedless Revelry_, _Here is a Snake_, _In the Name of Mordor_, _Inner Cunning_, _Nobody's Friend_, _Withdrawn to Mordor_, and _Wolf-riders_.
  - See also Rulings by Term, Target.
 
 #### Agent
@@ -323,7 +323,7 @@ If you have any further questions concerning _MECCG_, you can either:
 
 #### Ally
 
- - Allies may tap to cancel attacks from Slayers and Assassins.
+ - Allies may tap to cancel attacks from _Slayers_ and _Assassins_.
  - Allies cannot be targeted to be taken prisoner, and otherwise cannot be taken prisoner.
  - If an ally may not be attacked by certain attacks, he may still tap to give +1 prowess to characters facing such attacks.
  - Playing an ally is not an influence attempt.
@@ -354,29 +354,29 @@ If you have any further questions concerning _MECCG_, you can either:
 ### -= CCC =-
 
 #### Cannot be Duplicated
- - **Annotation 11** (modified from its original version): Some cards cannot be duplicated in limited cases -- generally on a specific target. Multiple copies of these cards or their effects may be in play normally, so long as each applies to a different target. A card that cannot be duplicated can be played when a copy is already in play only if the copy in play is currently being targeted by an effect that will discard it.
+ - **Annotation 11** (modified from its original version): Some cards cannot be duplicated in limited cases---generally on a specific target. Multiple copies of these cards or their effects may be in play normally, so long as each applies to a different target. A card that cannot be duplicated can be played when a copy is already in play only if the copy in play is currently being targeted by an effect that will discard it.
  - Short-events that cannot be duplicated cannot be played if a card of the same name is currently having an effect on play.
 
 #### Card Effect Limitations
  - You may not play the following cards if your opponent is a Ringwraith or Sauron. Additionally, if you are not a Ringwraith or Sauron, a Ringwraith or Sauron opponent can play these cards against you and not be affected by any of their global effects.
      - All hazard events that require an agent\*
-     - Bane of the Ithil-stone
-     - The Black Enemy's Wrath
-     - Foul Fumes
-     - In the Heart of His Realm
-     - Mordor in Arms
-     - Mûmak
-     - Worn and Famished
- - \* Near to Hear a Whisper and Sudden Fury from Middle- earth: Against the Shadow and Great Need or Purpose may be played because they do not target a specific agent.
- - The following cards are also listed in the MELE Rules book as having no effect on a Ringwraith/Sauron player, but this interpretation has been modified.
- - Chance of Being Lost and Winds of Wrath: You may play these cards against any opponent who is using the same type of location deck (hero sites or minion sites) as yourself.
- - Great Secrets Buried There: This card may be played against a Ringwraith or Sauron player.
- - The Nazgûl are Abroad: This card may be played against a Ringwraith or Sauron player. The only restriction is that the first two paragraphs are ignored when you play Nazgûl creatures against a Ringwraith or Sauron opponent. Any player can recycle Nazgûl hazards as stated on the card.
+     - _Bane of the Ithil-stone_
+     - _The Black Enemy's Wrath_
+     - _Foul Fumes_
+     - _In the Heart of His Realm_
+     - _Mordor in Arms_
+     - _Mumak_
+     - _Worn and Famished_
+ - \* _Near to Hear a Whisper_ and _Sudden Fury_ from _Middle-earth: Against the Shadow_ and _Great Need or Purpose_ may be played because they do not target a specific agent.
+ - The following cards are also listed in the _MELE_ Rules book as having no effect on a Ringwraith/Sauron player, but this interpretation has been modified.
+     - _Chance of Being Lost_ and _Winds of Wrath_: You may play these cards against any opponent who is using the same type of location deck (hero sites or minion sites) as yourself.
+     - _Great Secrets Buried There_: This card may be played against a Ringwraith or Sauron player.
+     - _The Nazgul are Abroad_: This card may be played against a Ringwraith or Sauron player. The only restriction is that the first two paragraphs are ignored when you play Nazgul creatures against a Ringwraith or Sauron opponent. Any player can recycle Nazgul hazards as stated on the card.
 
 #### Challenge Decks
  - Page 12 should say that companies must join at non-Haven sites. Companies at Havens at the end of the movement/hazard phase may join or not as they choose.
  - The end-of-turn phase was left out of the rulesbook. During the end of turn phase you may discard one card, then you must reset to hand size.
- - In the Dwar deck (H) and the Indûr deck (J), the Arkenstone should have the icon for a play deck card, not a sideboard card.
+ - In the Dwar deck (H) and the Indur deck (J), _The Arkenstone_ should have the icon for a play deck card, not a sideboard card.
  - Old Forest should read "healing effects," not "healing cards."
 
 #### Character
@@ -392,14 +392,14 @@ If you have any further questions concerning _MECCG_, you can either:
 #### Company
  - If all characters in a company are removed from the company, all resource permanent-events played on the company as a whole are discarded.
  - If all characters in a company leave play, the site goes to the location deck or discard pile, depending on its tapped status. If this happens during the movement/hazard phase, the site card stays in play until the end of all movement/hazard phases. In this case, on-guard cards may still be played on the site.
- - The following allies make a company overt: The Balrog, Creature of an Older World, Great Bats, Great Lord of Goblin-gate, Last Child of Ungoliant, Regiment of Black Crows, and "Two- headed" Troll.
+ - The following allies make a company overt: _The Balrog_, _Creature of an Older World_, _Great Bats_, _Great Lord of Goblin-gate_, _Last Child of Ungoliant_, _Regiment of Black Crows_, and _"Two- headed" Troll_.
  - Entities associated with a company include the characters, allies, and items in the company, and any events played on the company or on another entity in the company. The new site and site of origin are not entities associated with the company.
  - A hero company is Wizard player's company, or a Fallen-wizard's company that has no Orcs or Trolls. A minion company is a Ringwraith player's company, or a Balrog player's company. An overt company is a company with Orcs and/or Trolls in it. Note that some allies can make a company overt, but Half-orcs do not.
  - See also Turn Sequence, Organization Phase, Organizing Companies; and Rulings by Term, Influence.
 
 #### Corruption
  - _Rules Erratum_: Corruption cards must always start a chain of effects. [Effective 8/27/98]
- - **Annotation 23**: When a character fails a corruption check, the standard effects of this (i.e., the character being discarded or eliminated and his items being discarded) are implemented immediately and are considered synonymous with the failed check. A card causing the corruption check may modify the standard effects of a failed check (e.g. The Precious), but this timing would not be changed. Certain cards, e.g., Traitor, which do not cause a corruption check, but specify an action that results from the passive condition of a failed check, take effect as the first declared action in a chain of effects immediately following the chain of effects that contains the corruption check.
+ - **Annotation 23**: When a character fails a corruption check, the standard effects of this (i.e., the character being discarded or eliminated and his items being discarded) are implemented immediately and are considered synonymous with the failed check. A card causing the corruption check may modify the standard effects of a failed check (e.g. _The Precious_), but this timing would not be changed. Certain cards, e.g., _Traitor_, which do not cause a corruption check, but specify an action that results from the passive condition of a failed check, take effect as the first declared action in a chain of effects immediately following the chain of effects that contains the corruption check.
  - Characters with 0 corruption points must still make corruption checks.
  - A character may attempt to remove a corruption card without tapping. The roll is at -3.
  - You can not attempt to remove a corruption card without tapping if you have attempted to remove that card already this turn. You may not tap to remove a corruption card that you tried to remove without tapping already this turn.
@@ -426,12 +426,11 @@ If you have any further questions concerning _MECCG_, you can either:
  - Cards discarded from a player's hand must be discarded one at a time. This is mainly to allow a Pallando player to see each card as it is discarded.
  - Whenever a character is discarded, all non-follower cards played with that character are also discarded.
  - If a card leaves active play, including being returned to a player's hand, it immediately ceases having an effect on play. \[effective 11/3/97]
-
  - Cards in the discard pile do not remember how they were played.
 
 #### Dragons
  - Dragon automatic-attacks are not considered manifestations of any unique Dragon.
- - If a manifestation of a unique Dragon is defeated, then the automatic- attack at the associated site is removed, and that site therefore loses its hoard status.
+ - If a manifestation of a unique Dragon is defeated, then the automatic-attack at the associated site is removed, and that site therefore loses its hoard status.
  - If you defeat the attack from a Dragon manifestation, you get kill marshalling points from the manifestation as if you had defeated a creature.
 
 ### -= EEE =-
@@ -459,7 +458,7 @@ If you have any further questions concerning _MECCG_, you can either:
  - If any version of a site is in play or in your discard pile, you may not play another version of that site.
  - Fallen-wizards may recieve one extra MP for factions played on a leader.
  - Fallen-wizards may not play Bade to Rule.
- - If you reveal your Fallen-wizard, and no longer have enough influence to controll your characters, discard other characters until you can control them all.
+ - If you reveal your Fallen-wizard, and no longer have enough influence to control your characters, discard other characters until you can control them all.
  - None of a Fallen-wizards MPs may be modified by non-stage resources.
  - See also Rulings by Term, Specific.
 
@@ -532,12 +531,12 @@ If you have any further questions concerning _MECCG_, you can either:
 
 #### Multi-player Games
 
- - Only the moving player, and the hazard player drawing cards based on his movement, may take advantage of drawing cards, including cards drawn for events like The Nazgul are Abroad and From the Pits of Angband. These two players are also the only ones who may discard a card at the end of the turn.
+ - Only the moving player, and the hazard player drawing cards based on his movement, may take advantage of drawing cards, including cards drawn for events like _The Nazgul are Abroad_ and _From the Pits of Angband_. These two players are also the only ones who may discard a card at the end of the turn.
  - All players reset their hand size when any turn or movement/hazard phase ends.
- - In multi-player games the following hazards count as 1/2 a creature: hazards that can be played as events or creatures, Ahunt Dragon manifestations, and At Home Dragon manifestations. Agents in a Wizard deck also count as 1/2 creatures.
- - You may only play The Lidless Eye if none of your opponents are Ringwraiths.
- - Twilight may only be played by the moving player and the hazard player. As an exception, a player who's own environment will be discarded by an environment may play Twilight to cancel that environment.
- - For Spying out the Land and Here is a Snake, each hazard player shows hazards immediately before he draws and/or plays hazards, and then can only play those hazards. Players who are not playing hazards are not required to show hazards.
+ - In multi-player games the following hazards count as 1/2 a creature: hazards that can be played as events or creatures, _Ahunt_ Dragon manifestations, and _At Home_ Dragon manifestations. Agents in a Wizard deck also count as 1/2 creatures.
+ - You may only play _The Lidless Eye_ if none of your opponents are Ringwraiths.
+ - _Twilight_ may only be played by the moving player and the hazard player. As an exception, a player who's own environment will be discarded by an environment may play _Twilight_ to cancel that environment.
+ - For _Spying out the Land_ and _Here is a Snake_, each hazard player shows hazards immediately before he draws and/or plays hazards, and then can only play those hazards. Players who are not playing hazards are not required to show hazards.
  - Actions taken during the movement/hazard phase, against a specific player, must be done against the moving player.
 
 ### -= NNN =-
@@ -546,10 +545,10 @@ If you have any further questions concerning _MECCG_, you can either:
 
  - Normal means as written on the card, not considering other card's effects. Note that this definition only applies to effects refering to card texts.
 
-#### Nazgûl
+#### Nazgul
 
- - If a Nazgûl is tapped to become a short-event as printed on its card, it turns into a short-event upon declaration. At this point, the Nazgûl is a short-event just as if had been played as such from your hand.
- - The body referred to in the text of female characters with combat bonuses against Nazgûl is the body of the Nazgûl
+ - If a Nazuûl is tapped to become a short-event as printed on its card, it turns into a short-event upon declaration. At this point, the Nazgul is a short-event just as if had been played as such from your hand.
+ - The body referred to in the text of female characters with combat bonuses against Nazgul is the body of the Nazgul
 
 ### -= OOO =-
 
