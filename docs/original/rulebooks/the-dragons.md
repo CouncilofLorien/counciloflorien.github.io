@@ -36,7 +36,7 @@ Smaug  |  The Lonely Mountain  |  Northern Rhovanion
 
 ### HOARDS
 
-Certain items are _hoard items_. Such an item may only be played at a site that contains a hoard. ~~Each site with a Dragon automatic-attack (i.e., each Dragon's lair) contains a hoard.~~ Each site which had a Dragon automatic-attack at the beginning of the turn contains a hoard.[^dragon-hoard-errata] A hoard minor item may not be included with a starting company, and may not be played at a site that does not contain a hoard.
+Certain items are _hoard items_. Such an item may only be played at a site that contains a hoard. Each site with a Dragon automatic-attack (i.e., each Dragon's lair) contains a hoard. A hoard minor item may not be included with a starting company, and may not be played at a site that does not contain a hoard.
 
 {: .note-dk }
 > **Example:** You can not play a hoard minor item at Wellinghall after successfully influencing the _Ents of Fangorn_ like you can with a normal minor item. Wellinghall does not contain a hoard.
@@ -73,7 +73,7 @@ The base hazard limit is determined (i.e., set) simultaneously at the moment a c
 
 ### CHARACTERS FACING MULTIPLE STRIKES
 
-When certain _Middle-earth: The Dragons_ cards are played, a character may be assigned to receive more than one strike from a given attack. Such a character must face a strike sequence for each strike he is assigned to face. If a character is tapped or wounded following one of these strike sequences, he must then accordingly modify his prowess for any following strike sequences. ~~If a character is eliminated or otherwise removed from play before he has faced all of his assigned strikes, those strikes he has yet to face are then considered to be cancelled (i.e., they have no further effect).~~ If a character is eliminated or otherwise removed from play before he has faced all of his assigned strikes, those strikes he has yet to face are then considered to be sucessful.[^dragon-multiple-strike-errata]
+When certain _Middle-earth: The Dragons_ cards are played, a character may be assigned to receive more than one strike from a given attack. Such a character must face a strike sequence for each strike he is assigned to face. If a character is tapped or wounded following one of these strike sequences, he must then accordingly modify his prowess for any following strike sequences. If a character is eliminated or otherwise removed from play before he has faced all of his assigned strikes, those strikes he has yet to face are then considered to be cancelled (i.e., they have no further effect).
 
 ### REMOVING CORRUPTION CARDS
 
@@ -86,7 +86,7 @@ A character may only attempt to remove each corruption card once per turn if he 
 
 ### THE SIDEBOARD
 
-With the publication of _Middle-earth: The Dragons_, the number of different resource and hazard strategies increases dramatically. To enable players to react to more specific strategies during play, the sideboard size is increased by five (e.g., from 15 to 20 for the 1-deck and 2-deck games, from 20 to 25 for the 3-deck game, etc.).[^sideboard]
+With the publication of _Middle-earth: The Dragons_, the number of different resource and hazard strategies increases dramatically. To enable players to react to more specific strategies during play, the sideboard size is increased by five (e.g., from 15 to 20 for the 1-deck and 2-deck games, from 20 to 25 for the 3-deck game, etc.).
 
 At the end of yonr opponent's untap phase, if your opponent's Wizard is in play, you may at this point bring up to five hazard cards from your sideboard to your discard pile; **or**, if your play deck has at least 5 cards, you may bring one hazard card directly from your sideboard into your play deck (reshuffle). If you move cards from your sideboard in this fashion, the hazard limit for each of your opponent's companies is reduced to half of normal (round up, e.g., a hazard limit of 2 becomes l, a hazard limit of 3 becomes 2, etc.).
 
@@ -144,5 +144,5 @@ ANNOTATIONS
 
 The Rules Archive provides the original published text without modification from errata or official clarifications. However, they do have corrections to minor typographical, grammatical, clerical, and typesetting issues in the original text. Such corrections are not annotated. Anything in the original text that goes beyond a minor issue is left unaltered and described in these annotations.
 
-[^dragon-hoard-errata]: From [CRF 15 Complete Errata Listing](/crf/errata#rules-errata): Dragon Rules, Hoards: Change “_Each site with a Dragon automatic-attack (i.e., each Dragon’s Lair) contains a hoard_” to “_Each site which had a Dragon automatic-attack at the beginning of the turn contains a hoard_.”
-[^dragon-multiple-strike-errata]: From [CRF 15 Complete Errata Listing](/crf/errata#rules-errata): Dragons Rules, Characters Facing Multiple Strikes: Change "_are then considered to be canceled_" to "_are then considered to be successful_."
+[^dragon-hoard-errata]: Rules Erratum: Dragon Rules, Hoards: Change “_Each site with a Dragon automatic-attack (i.e., each Dragon’s Lair) contains a hoard_” to “_Each site which had a Dragon automatic-attack at the beginning of the turn contains a hoard_.”
+[^dragon-multiple-strike-errata]: Rules Erratum: Dragons Rules, Characters Facing Multiple Strikes: Change "_are then considered to be canceled_" to "_are then considered to be successful_."
