@@ -18,7 +18,7 @@ RULESBOOK
 {: .text-center .text-gamma }
 CONTENTS
 
-|  &emsp; [Introduction](/rules-archive/the-wizards-unlimited#introduction) <br>&emsp; [Using This Rulesbook](/rules-archive/the-wizards-unlimited#using-this-rulesbook)    <br>&emsp; [Brief Player Turn Summary](/rules-archive/the-wizards-unlimited#brief-player-turn-summary)    <br>&emsp; [Player Notes](/rules-archive/the-wizards-unlimited#player-notes)  <br>&emsp; [Commonly Used Terms](/rules-archive/the-wizards-unlimited#commonly-used-terms)  <br>**Part I — The Starter Rules**    <br>&emsp; [1 • The Victory Conditions](/rules-archive/the-wizards-unlimited#1--the-victory-conditions)    <br>&emsp; [2 • The Cards and Decks](/rules-archive/the-wizards-unlimited#2--the-cards-and-decks)    <br>&emsp; [3 • Getting Ready to Play](/rules-archive/the-wizards-unlimited#3--getting-ready-to-play)    <br>&emsp; [4 • The Player Turn](/rules-archive/the-wizards-unlimited#4--the-player-turn)    <br>&emsp; [5 • Characters and Companies](/rules-archive/the-wizards-unlimited#5--characters--companies)    <br>&emsp; [6 • Movement](/rules-archive/the-wizards-unlimited#6--movement)      <br>&emsp; [7 • Combat](/rules-archive/the-wizards-unlimited#7--combat)     <br>&emsp; [8 • Corruption](/rules-archive/the-wizards-unlimited#8--corruption)      <br>&emsp; [9 • Influence](/rules-archive/the-wizards-unlimited#9--influence)    <br>&emsp; [10 • Playing and Drawing Cards](/rules-archive/the-wizards-unlimited#10--playing-and-drawing-cards)    <br>**Part II — The Standard Rules**    <br>&emsp; [1 • The Victory Conditions](/rules-archive/the-wizards-unlimited#1--the-victory-conditions-1)      <br>&emsp; [2 • The Cards and Decks](/rules-archive/the-wizards-unlimited#2--the-cards-and-decks-1)    <br>&emsp; [3 • Getting Ready to Play](/rules-archive/the-wizards-unlimited#3--getting-ready-to-play-1)    <br>&emsp; [4 • The Player Turn](/rules-archive/the-wizards-unlimited#4--the-player-turn-1)  |  &emsp; [5 • Characters and Companies](/rules-archive/the-wizards-unlimited#5--characters--companies-1)  <br>&emsp; [6 • Movement](/rules-archive/the-wizards-unlimited#6--movement-1)    <br>&emsp; [7 • Combat](/rules-archive/the-wizards-unlimited#7--combat-1)    <br>&emsp; [8 • Corruption](/rules-archive/the-wizards-unlimited#8--corruption-1)    <br>&emsp; [9 • Influence](/rules-archive/the-wizards-unlimited#9--influence-1)     <br>&emsp; [10 • Playing and Drawing Cards](/rules-archive/the-wizards-unlimited#10--playing-and-drawing-cards-1)     <br>**Part III — Optional Rules**   <br>&emsp; [Special Movement to Gorgoroth](/rules-archive/the-wizards-unlimited#special-movement-to-gorgoroth-rules)    <br>&emsp; [Burglaring](/rules-archive/the-wizards-unlimited#burglaring)    <br>&emsp; [Recently Visited Sites](/rules-archive/the-wizards-unlimited#recently-visited-sites)    <br>&emsp; [Tapping to Face Multiple Strikes](/rules-archive/the-wizards-unlimited#tapping-to-face-multiple-strikes)    <br>&emsp; [Multi-player Rules](/rules-archive/the-wizards-unlimited#multi-player-rules)    <br>&emsp; [Solitaire Rules](/rules-archive/the-wizards-unlimited#solitaire-rules)    <br>**The Appendices**    <br>&emsp; [Card Diagrams](/rules-archive/the-wizards-unlimited#card-diagrams)     <br>&emsp; [Map of Middle-earth](/rules-archive/the-wizards-unlimited#map-of-middle-earth)    <br>&emsp; [Map Index](/rules-archive/the-wizards-unlimited#map-index)    <br>&emsp; [Full Player Turn Summary](/rules-archive/the-wizards-unlimited#full-player-turn-summary)    <br>&emsp; [Symbol Key](/rules-archive/the-wizards-unlimited#symbol-key)    <br>&emsp; [Combat Modifications](/rules-archive/the-wizards-unlimited#combat-modifications) <br>&emsp; [Credits](/rules-archive/the-wizards-unlimited#credits)  |
+|  &emsp; [Introduction](#introduction) <br>&emsp; [Using This Rulesbook](#using-this-rulesbook)    <br>&emsp; [Brief Player Turn Summary](#brief-player-turn-summary)    <br>&emsp; [Player Notes](#player-notes)  <br>&emsp; [Commonly Used Terms](#commonly-used-terms)  <br>**Part I — The Starter Rules**    <br>&emsp; [1 • The Victory Conditions](#1--the-victory-conditions)    <br>&emsp; [2 • The Cards and Decks](#2--the-cards-and-decks)    <br>&emsp; [3 • Getting Ready to Play](#3--getting-ready-to-play)    <br>&emsp; [4 • The Player Turn](#4--the-player-turn)    <br>&emsp; [5 • Characters and Companies](#5--characters--companies)    <br>&emsp; [6 • Movement](#6--movement)      <br>&emsp; [7 • Combat](#7--combat)     <br>&emsp; [8 • Corruption](#8--corruption)      <br>&emsp; [9 • Influence](#9--influence)    <br>&emsp; [10 • Playing and Drawing Cards](#10--playing-and-drawing-cards)    <br>**Part II — The Standard Rules**    <br>&emsp; [1 • The Victory Conditions](#1--the-victory-conditions-1)      <br>&emsp; [2 • The Cards and Decks](#2--the-cards-and-decks-1)    <br>&emsp; [3 • Getting Ready to Play](#3--getting-ready-to-play-1)    <br>&emsp; [4 • The Player Turn](#4--the-player-turn-1)  |  &emsp; [5 • Characters and Companies](#5--characters--companies-1)  <br>&emsp; [6 • Movement](#6--movement-1)    <br>&emsp; [7 • Combat](#7--combat-1)    <br>&emsp; [8 • Corruption](#8--corruption-1)    <br>&emsp; [9 • Influence](#9--influence-1)     <br>&emsp; [10 • Playing and Drawing Cards](#10--playing-and-drawing-cards-1)     <br>**Part III — Optional Rules**   <br>&emsp; [Special Movement to Gorgoroth](#special-movement-to-gorgoroth-rules)    <br>&emsp; [Burglaring](#burglaring)    <br>&emsp; [Recently Visited Sites](#recently-visited-sites)    <br>&emsp; [Tapping to Face Multiple Strikes](#tapping-to-face-multiple-strikes)    <br>&emsp; [Multi-player Rules](#multi-player-rules)    <br>&emsp; [Solitaire Rules](#solitaire-rules)    <br>**The Appendices**    <br>&emsp; [Card Diagrams](#card-diagrams)     <br>&emsp; [Map of Middle-earth](#map-of-middle-earth)    <br>&emsp; [Map Index](#map-index)    <br>&emsp; [Full Player Turn Summary](#full-player-turn-summary)    <br>&emsp; [Symbol Key](#symbol-key)    <br>&emsp; [Combat Modifications](#combat-modifications) <br>&emsp; [Credits](#credits)  |
 
 ## INTRODUCTION
 
@@ -37,7 +37,7 @@ In _The Lord of the Rings_, Gandalf was the only Wizard to succeed. Saruman was 
 
 These rules are organized into four sections: the Starter Rules, the Standard Rules, the Optional Rules, and the Appendices. The Starter and Standard Rules are for a two-player game; multi-player rules are provided in the Optional Rules.
 
-The introductory material on [pages 4-8](/rules-archive/the-wizards-unlimited#brief-player-turn-summary) provides a brief player turn summary, player notes, and definitions of commonly used terms.
+The introductory material on [pages 4-8](#brief-player-turn-summary) provides a brief player turn summary, player notes, and definitions of commonly used terms.
 
 _The Starter Rules_ — The Starter Rules contain all of the guidelines you need to play _METW_. They have been designed to simplify teaching the game and to speed up play. You should use the Starter Rules if you and your opponent have never played this game before **or** if one of you only has access to a starter deck.<br>If you are already an experienced player of collectible card games, you might read the next couple of pages and the sections that are not boxed. As you play, you can refer to the other material that details the more complex rules and situations that may arise during play.
 
@@ -49,9 +49,9 @@ _The Appendices_ — An index, credits, keys, the Full Player Turn Summary. The 
 
 ## BRIEF PLAYER TURN SUMMARY
 
-Play consists of a series of “Player Turns.” During your turn, follow the steps outlined in this turn summary. Then, your opponent does the same during his turn. You and your opponent alternate turns until the game ends. This turn summary is included here to give you an idea of how play proceeds; see [p. 68-70](/rules-archive/the-wizards-unlimited#full-player-turn-summary) for the Full Player Turn Summary.
+Play consists of a series of “Player Turns.” During your turn, follow the steps outlined in this turn summary. Then, your opponent does the same during his turn. You and your opponent alternate turns until the game ends. This turn summary is included here to give you an idea of how play proceeds; see [p. 68-70](#full-player-turn-summary) for the Full Player Turn Summary.
 
-_Untap Phase_ — Each of your characters may do one of the following: Untap **or** Heal (if at a Haven site). In addition, untap (see [page 15](/rules-archive/the-wizards-unlimited#tapping-and-card-positions)) all of your other tapped non-site cards.
+_Untap Phase_ — Each of your characters may do one of the following: Untap **or** Heal (if at a Haven site). In addition, untap (see [page 15](#tapping-and-card-positions)) all of your other tapped non-site cards.
 
 _Organization Phase_ — You may take the following actions in any order: play one character (if allowed) or your Wizard (if available), reorganize your companies, transfer items between characters (corruption checks required), and store items (corruption checks required). In addition, each of your companies may plan its movement by playing a new site card face down on its present site card. 
 
@@ -225,7 +225,7 @@ The winner of the game is the player that has gathered the most marshalling poin
 > 
 > Since Jessica called the council, Jason gets one final turn before the council starts. Jason brings Eomer into play for one more MP, and then moves his company to Lake-town. After facing the hazards Jessica plays, he successfully plays the Men of Northern Rhovanion faction for two more MPs. Jason now has 17 MPs and will win the game if he does not lose any MPs due to characters failing corruption checks. 
 > 
-> In this example, any character with 2 or more CPs could fail his corruption check (see [pages 35-36](/rules-archive/the-wizards-unlimited#8--corruption)). If Pallando fails his corruption check, the game ends immediately and Jason wins. If Legolas fails his corruption check, Jessica loses 2 of her MPs. If Theoden fails his corruption check, Jason loses 6 of his MPs. If Faramir fails his corruption check, Jason loses 2 of his MPs. 
+> In this example, any character with 2 or more CPs could fail his corruption check (see [pages 35-36](#8--corruption)). If Pallando fails his corruption check, the game ends immediately and Jason wins. If Legolas fails his corruption check, Jessica loses 2 of her MPs. If Theoden fails his corruption check, Jason loses 6 of his MPs. If Faramir fails his corruption check, Jason loses 2 of his MPs. 
 
 ## 2 • THE CARDS AND DECKS
 
@@ -318,7 +318,7 @@ Follow these steps to get ready to play:
 
  1. Place your site cards in your location deck. This deck should contain all of your Haven cards (i.e., Rivendell, Edhellond, Grey Havens, and Lorien). You may include any number of Haven cards, but only one of each non-Haven site card.
  2. Place between 25 and 50 Resource cards **and** an equal number of Hazard cards in your play deck (if you have fewer than 25 of either available, just use all of the cards you have). Only one of each “unique” card may be included. No more than three copies of any one non-unique card may be included.
- 3. Place one to five starting characters (no Wizards) face down in front of you. The combined mind attributes (see [page 19](/rules-archive/the-wizards-unlimited#character-attributes)) of these characters must be 20 or less. You and your opponent reveal your characters simultaneously, placing any duplicated characters into your play decks. Then organize your starting characters into followers and companies and place them at Rivendell (i.e., place a Rivendell site card next to them).
+ 3. Place one to five starting characters (no Wizards) face down in front of you. The combined mind attributes (see [page 19](#character-attributes)) of these characters must be 20 or less. You and your opponent reveal your characters simultaneously, placing any duplicated characters into your play decks. Then organize your starting characters into followers and companies and place them at Rivendell (i.e., place a Rivendell site card next to them).
  4. You _may_ assign up to two non-unique minor items to your starting characters (i.e., two items total, **not** two to each character). These items must come from cards that you have not already committed to your play deck.
  5. Place up to 10 character cards in your play deck. Only one of each character card may be included. In addition, place up to two Wizard cards in your play deck (you may place two copies of the same Wizard). Shuffle your play deck.
  6. Draw a hand of eight cards from your play deck.
@@ -340,7 +340,7 @@ Play consists of a series of “Player Turns.” During your turn, you take vari
  5. Site Phase
  6. End-of-Turn Phase
 
-A Brief Player Turn Summary is presented on [page 4](/rules-archive/the-wizards-unlimited#brief-player-turn-summary). A detailed Full Player Turn Summary is presented on [pages 68-70](/rules-archive/the-wizards-unlimited#full-player-turn-summary).
+A Brief Player Turn Summary is presented on [page 4](#brief-player-turn-summary). A detailed Full Player Turn Summary is presented on [pages 68-70](#full-player-turn-summary).
 
 {: .note }
 > **Clarification:** The actions that may be taken during your organization phase may be taken in any order. Actions of the same type do not have to be taken together (e.g., you can store an item, then bring a character into play, and then store a second item).
@@ -363,7 +363,7 @@ As a player, you influence and control a number of characters that move and act 
 
 If you have enough general influence or direct influence during a given turn, you may bring into play: one character at his home site or at any Haven **or** your Wizard at his home site or Rivendell. 
 
-Characters are primarily controlled by your pool of 20 general influence points. For each controlled character, you must commit a number of general influence points equal to his mind attribute. In addition, you may control a character by using another character’s direct influence—a character controlled in this fashion is called a _follower_ and does not use general influence points. (See [page 21](/rules-archive/the-wizards-unlimited#direct-influence) for an extended example.)
+Characters are primarily controlled by your pool of 20 general influence points. For each controlled character, you must commit a number of general influence points equal to his mind attribute. In addition, you may control a character by using another character’s direct influence—a character controlled in this fashion is called a _follower_ and does not use general influence points. (See [page 21](#direct-influence) for an extended example.)
 
 During play, you may organize your characters into groups called companies. A company’s _size_ is equal to the number of characters in it, with each Hobbit character only counting half (round up). A company is limited to a size of seven. A company’s _hazard limit_ is equal to two or the size of the company, whichever is greater. The maximum number of hazards that can be played on a company during a given movement/hazard phase is equal to its hazard limit. 
 
@@ -432,7 +432,7 @@ If a character directly influencing a follower is removed from play, the followe
 > ```
 
 {: .note } 
-> **Example:** In our example from [page 11](/rules-archive/the-wizards-unlimited#the-free-council), Jessica and Jason each have one company organized as follows:
+> **Example:** In our example from [page 11](#the-free-council), Jessica and Jason each have one company organized as follows:
 > 
 > ```mermaid
 > %%{init: {'flowchart' : {'curve' : 'linear'}, 'theme': 'base', 'themeVariables': { 'primaryColor': '#fff','primaryBorderColor': '#44434d','fontFamily': 'timesnewroman'}}}%%
@@ -588,7 +588,7 @@ A _site path_ is the sequence of regions between a site and its nearest Haven. H
 > The regions between these two sites are Wold & Foothills (Wilderness), Anduin Vales (Border-lands), Woodland Realm (Border-land), and Northern Rhovanion (Wilderness).
 
 {: .note }
-> **Example:** In the Example of movement from Bree to Thranduil’s Halls on [page 26](/rules-archive/the-wizards-unlimited#moving-from-a-haven-site), the first site path used was from Bree to Rivendell: ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg). During that movement/hazard phase, Jason (Jessica’s opponent) can play hazard creatures keyed to wilderness (![](/assets/images/wilderness.svg)), double wilderness (![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg)), and Havens (the new site).
+> **Example:** In the Example of movement from Bree to Thranduil’s Halls on [page 26](#moving-from-a-haven-site), the first site path used was from Bree to Rivendell: ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg). During that movement/hazard phase, Jason (Jessica’s opponent) can play hazard creatures keyed to wilderness (![](/assets/images/wilderness.svg)), double wilderness (![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg)), and Havens (the new site).
 > 
 > During the next turn, the company uses the site path from Rivendell to Lorien: ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg). During that movement/hazard phase, Jason can play hazard creatures keyed to wilderness ( ![](/assets/images/wilderness.svg) ), double wilderness ( ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ), border-lands ( ![](/assets/images/border-land.svg) ), and Havens (the new site).
 > 
@@ -637,7 +637,7 @@ Combat normally occurs when one of three things happen:
 Combat consists of one or more _attacks_ that must be resolved one at a time. An attack consists of one or more _strikes_:
  - Each strike can target one and only one character in the attacked company.
  - Each character can be the target of only one strike from a given attack.
- - If an attack has more strikes than the company has characters, the attacker may allocate the excess strikes as -1 modifications (i.e., a -1 modification for each unallocated strike) to the prowess(es) of whichever target(s) he chooses. See the [Strike Sequence on page 32](/rules-archive/the-wizards-unlimited#the-strike-sequence). 
+ - If an attack has more strikes than the company has characters, the attacker may allocate the excess strikes as -1 modifications (i.e., a -1 modification for each unallocated strike) to the prowess(es) of whichever target(s) he chooses. See the [Strike Sequence on page 32](#the-strike-sequence). 
 
 Unless the attack states otherwise, the defender chooses which _untapped_ characters will be the targets of given strikes. Then, the attacker chooses which other defending characters not yet assigned a strike will be the target of any remaining unassigned strikes. 
 
@@ -673,7 +673,7 @@ There are a number of standard modifications to strikes:
  
 #### Resolving Strikes
 
-Strikes are resolved one at a time as decided by the defending player. When you choose a strike to resolve, determine all of the factors affecting the strike before the roll is made (see “[The Strike Sequence](/rules-archive/the-wizards-unlimited#the-strike-sequence)” below).
+Strikes are resolved one at a time as decided by the defending player. When you choose a strike to resolve, determine all of the factors affecting the strike before the roll is made (see “[The Strike Sequence](#the-strike-sequence)” below).
 
 To resolve a strike, the defender makes a roll (2D6) and adds his modified prowess:
 
@@ -808,7 +808,7 @@ Certain characters receive modifications to corruption checks, and certain cards
 > 
 > Next, Frodo gets rid of the Lure of the Senses (by rolling greater than 6) and he transfers his Dagger of Westernesse. In addition, Bilbo gives him: Sting (1 CP) and The Mithril-coat (2 CPs). So Frodo’s CP total is 9 (6+1+2). If forced to make a corruption check, he is discarded on a roll of 4 or 5 and is eliminated on a roll of 2 or 3. 
 > 
-> Fortunately, the Fellowship of the Ring is formed (see the company in the example on [page 21](/rules-archive/the-wizards-unlimited#direct-influence))—we will assume that two Fellowship cards (+1 to prowess and corruption checks for all characters in the company) are played initially. 
+> Fortunately, the Fellowship of the Ring is formed (see the company in the example on [page 21](#direct-influence))—we will assume that two Fellowship cards (+1 to prowess and corruption checks for all characters in the company) are played initially. 
 > 
 > So Frodo leaves Rivendell with a CP total of 9 and corruption check modifiers totaling +6 (+4 normal +2 for Fellowship). Thus, if forced to make a corruption check (without other modifications), he will be discarded on a roll of 2 or 3.
 
@@ -821,7 +821,7 @@ Your _unused general influence_ is equal to 20 minus the sum of the mind attribu
 A character’s _unused direct influence_ is equal to his direct influence attribute minus the sum of the mind attributes of his followers. All characters have a direct influence attribute of at least zero, so any character has unused direct influence of at least zero.
 
 {: .note}
-> **Note:** In the Standard Game, direct influence can be used to attempt to interfere with your opponent’s control of his characters, followers, factions, allies, and items (see [pages 58-60](/rules-archive/the-wizards-unlimited#9--influence-1)).
+> **Note:** In the Standard Game, direct influence can be used to attempt to interfere with your opponent’s control of his characters, followers, factions, allies, and items (see [pages 58-60](#9--influence-1)).
 
 ### BRINGING AN ALLY INTO PLAY
 
@@ -994,7 +994,7 @@ During your organization phase, you may transfer items between characters at the
 
 ### ACTIONS AND CARD PLAY
 
-The various activities that you and your opponent can perform during play are called actions. Typical actions include playing a card, tapping a card, revealing a card, etc. The following general guidelines apply to resolving actions; more detailed guidelines can be found on [pages 61-63](/rules-archive/the-wizards-unlimited#timing-rules).
+The various activities that you and your opponent can perform during play are called actions. Typical actions include playing a card, tapping a card, revealing a card, etc. The following general guidelines apply to resolving actions; more detailed guidelines can be found on [pages 61-63](#timing-rules).
 
  - You must give your opponent a chance to respond to every action, and vice versa. If you perform an action and move on to another action without giving your opponent a chance to respond, you must “back up” if he indicates that he wants to respond. A series of declared actions made in response to one another is called a chain of effects. You always have the option of declaring the first action in a chain of effects during your turn. The actions in a chain of effects are resolved one at a time from last declared to first declared (i.e., the last declared action is resolved first, then the second to the last, etc.).
  - If the play of a card requires other actions (e.g., corruption checks), the actions are resolved in the order in which they appear on the card.
@@ -1048,7 +1048,7 @@ total in two ways:
 > **Clarification:** These marshalling point modifications do not apply until the Free Council actually takes place. Specifically, the modifications do not affect your marshalling point total when it is used to determine if you can call the Free Council (i.e., you need 20 MPs to call the Free Council before any of these modifications are made).
 
 {: .note }
-> **Example:** Let’s look again at our example from [page 11](/rules-archive/the-wizards-unlimited#the-free-council). Assume Jason failed to play the Men of Northern Rhovanion (3 MPs) on his last turn. Assume none of the characters failed a corruption check (i.e., they all come to the Free Council). 
+> **Example:** Let’s look again at our example from [page 11](#the-free-council). Assume Jason failed to play the Men of Northern Rhovanion (3 MPs) on his last turn. Assume none of the characters failed a corruption check (i.e., they all come to the Free Council). 
 > 
 > Jessica notices that Jason has no faction points (he blew his roll to get the Men of Northern Rhovanion). So her faction points are doubled to 4. 
 > 
@@ -1109,14 +1109,14 @@ Alternatively, if your play deck has at least 5 cards, you may tap a Nazgul perm
 
 ## 3 • GETTING READY TO PLAY
 
-Add your region cards to your location deck. See [pages 54-56](/rules-archive/the-wizards-unlimited#region-movement) for more information on how to use these cards.
+Add your region cards to your location deck. See [pages 54-56](#region-movement) for more information on how to use these cards.
 
 {: .note }
 > **Note:** For play balance, we recommend both players have access to approximately the same number of region cards. If this cannot be achieved, region cards should not be used.
 
 ## 4 • THE PLAYER TURN
 
-The [Full Player Turn Summary](/rules-archive/the-wizards-unlimited#full-player-turn-summary) is presented on [pages 68-70](/rules-archive/the-wizards-unlimited#full-player-turn-summary).
+The [Full Player Turn Summary](#full-player-turn-summary) is presented on [pages 68-70](#full-player-turn-summary).
 
 ## 5 • CHARACTERS & COMPANIES
 
@@ -1188,7 +1188,7 @@ For the purposes of playing hazards, the site path for a company using region mo
 > For example, suppose you decide to move a company from Lorien to the Easterling Camp using the region cards: Wold & Foothills (![](/assets/images/wilderness.svg)), Brown Lands (![](/assets/images/shadow-land.svg)), Dagorlad (![](/assets/images/shadow-land.svg)), and Horse Plains (![](/assets/images/shadow-land.svg)). The region types traveled through are the same as the site path used in normal movement between Lorien and the Easterling Camp (as given on the Easterling Camp site card)—so the same creatures may be played against the company based on region type. Adunaphel (a Nazgul) card normally can only be played keyed to dark-holds and dark-domains, but it also states that it can be played keyed to Dagorlad (and the Brown Lands). Thus, Adunaphel could be played on this company as it moves through Dagorlad. Similarly, Indur Dawndeath and Khamul the Easterling could also be played. 
 
 {: .note }
-> **Example:** Lets look at our example for movement from the Starter Game (see [page 26](/rules-archive/the-wizards-unlimited#moving-from-a-haven-site)). Jessica’s company in Bree (in the Arthedain region) wants to move to Thranduil’s Halls (in the Woodland Realm region) in order to bring the Wood-elves faction into play. If she does not use region movement, this takes three turns: Bree to Rivendell, Rivendell to Lorien, and Lorien to Thranduil’s Halls. Using region movement, she can do it in 2 turns. 
+> **Example:** Lets look at our example for movement from the Starter Game (see [page 26](#moving-from-a-haven-site)). Jessica’s company in Bree (in the Arthedain region) wants to move to Thranduil’s Halls (in the Woodland Realm region) in order to bring the Wood-elves faction into play. If she does not use region movement, this takes three turns: Bree to Rivendell, Rivendell to Lorien, and Lorien to Thranduil’s Halls. Using region movement, she can do it in 2 turns. 
 > 
 > The shortest number of region cards required for this move is 5 and there are two possible routes:
 > 
@@ -1509,7 +1509,7 @@ The following actions may be taken in any order:
  - Each of your companies may do one of the following:
       - Stay at its current site.
       - Play another site (face down) that can be moved to (i.e., reached) directly from the company’s current site. This is the company’s new site card.
-      - _Standard Rules Only:_ Play a new site card and a series of up to four specific regions that connect the current site with the new site. (See [pages 54-56](/rules-archive/the-wizards-unlimited#region-movement).)
+      - _Standard Rules Only:_ Play a new site card and a series of up to four specific regions that connect the current site with the new site. (See [pages 54-56](#region-movement).)
 
 ### Long-event Phase
 
@@ -1539,7 +1539,7 @@ In the order you decide (i.e., you decide which goes first, second, etc.), each 
  - do nothing **or**
  - follow this procedure:
       1. You decide to enter and explore the site.
-      2. If the site has an automatic-attack, it attacks the company. The attack is resolved normally (see [pages 29-33](/rules-archive/the-wizards-unlimited#7--combat)).
+      2. If the site has an automatic-attack, it attacks the company. The attack is resolved normally (see [pages 29-33](#7--combat)).
       3. The company may attempt to play one item, ally, faction, or information resource card that is “playable” at that site. Generally, this will involve tapping the character that will control the card played. If the resource card is successfully played, the site card is tapped **and** one additional character may tap to play a minor item.<br>Certain resource cards other than items, allies, factions, and information will state the conditions under which they may be played. Such cards may be played at tapped and untapped sites, and do not tap a site when played (e.g., _Return of the King_, _Lucky Search_, etc.).<br>
       _Standard Rules Only:_ One of your characters or your Wizard may attempt to influence away one of your opponent’s characters, followers, allies, factions, or items (if it is at the same site).
 
