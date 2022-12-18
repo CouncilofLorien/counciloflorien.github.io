@@ -82,8 +82,54 @@ $meba-300: #d74431;
   .page-header {
     display: none;
   }
+
   .main-content {
     max-width: auto;
     margin: 1em;
   }
+
+  h1 {
+    page-break-inside: avoid;
+}
+
+  h1::after {
+    content: "";
+    display: block;
+    height: 100px;
+    margin-bottom: -100px;
+}
+
+    h2 {
+    page-break-inside: avoid;
+}
+
+  h2::after {
+    content: "";
+    display: block;
+    height: 100px;
+    margin-bottom: -100px;
+}
+
+  h3 {
+    page-break-inside: avoid;
+}
+
+  h3::after {
+    content: "";
+    display: block;
+    height: 100px;
+    margin-bottom: -100px;
+}
+
+  h4 {
+    page-break-inside: avoid;
+}
+
+  h4::after {
+    content: "";
+    display: block;
+    height: 100px;
+    margin-bottom: -100px;
+}
+  
 }
