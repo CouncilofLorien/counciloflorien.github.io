@@ -358,7 +358,7 @@ disappears.
 An effect that returns a company to its site of origin may not be
 declared in the middle of an attack.
 
-## F. Site Phase
+### F. Site Phase
 
 #### General
 
