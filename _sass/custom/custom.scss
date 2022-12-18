@@ -75,3 +75,15 @@ $meba-300: #d74431;
     min-width: 10px;
   }
 }
+
+// Print-only styles.
+@media print {
+  .side-bar,
+  .page-header {
+    display: none;
+  }
+  .main-content {
+    max-width: auto;
+    margin: 1em;
+  }
+}
