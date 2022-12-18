@@ -18,7 +18,7 @@ RULESBOOK
 {: .text-center .text-gamma }
 CONTENTS
 
-|  &emsp; [Using This Rulesbook](/rules-archive/the-wizards-limited#using-this-rulesbook)    <br>&emsp; [Player Turn Summary](/rules-archive/the-wizards-limited#player-turn-summary)    <br>&emsp; [Player Notes](/rules-archive/the-wizards-limited#player-notes)    <br>**Part I — The Starter Rules**    <br>&emsp; [1 • The Victory Conditions](/rules-archive/the-wizards-limited#1--the-victory-conditions)    <br>&emsp; [2 • The Cards and Decks](/rules-archive/the-wizards-limited#2--the-cards-and-decks)    <br>&emsp; [3 • Getting Ready to Play](/rules-archive/the-wizards-limited#3--getting-ready-to-play)    <br>&emsp; [4 • The Player Turn](/rules-archive/the-wizards-limited#4--the-player-turn)    <br>&emsp; [5 • Characters and Companies](/rules-archive/the-wizards-limited#5--characters--companies)    <br>&emsp; [6 • Movement](/rules-archive/the-wizards-limited#6--movement)      <br>&emsp; [7 • Combat](/rules-archive/the-wizards-limited#7--combat)     <br>&emsp; [8 • Corruption](/rules-archive/the-wizards-limited#8--corruption)      <br>&emsp; [9 • Influence](/rules-archive/the-wizards-limited#9--influence)    <br>&emsp; [10 • Playing and Drawing Cards](/rules-archive/the-wizards-limited#10--playing-and-drawing-cards)    <br>**Part II — The Standard Rules**    <br>&emsp; [1 • The Victory Conditions](/rules-archive/the-wizards-limited#1--the-victory-conditions-1)      <br>&emsp; [2 • The Cards and Decks](/rules-archive/the-wizards-limited#2--the-cards-and-decks-1)    <br>&emsp; [3 • Getting Ready to Play](/rules-archive/the-wizards-limited#3--getting-ready-to-play-1)    <br>&emsp; [4 • The Player Turn](/rules-archive/the-wizards-limited#4--the-player-turn-1)    <br>&emsp; [5 • Characters and Companies](/rules-archive/the-wizards-limited#5--characters--companies-1)  <br>&emsp; [6 • Movement](/rules-archive/the-wizards-limited#6--movement-1)  |  &emsp; [7 • Combat](/rules-archive/the-wizards-limited#7--combat-1)    <br>&emsp; [8 • Corruption](/rules-archive/the-wizards-limited#8--corruption-1)    <br>&emsp; [9 • Influence](/rules-archive/the-wizards-limited#9--influence-1)     <br>&emsp; [10 • Playing and Drawing Cards](/rules-archive/the-wizards-limited#10--playing-and-drawing-cards-1)     <br>**Part III — Optional Rules**    <br>&emsp; Special Rules for Character Death[^specialrules]    <br>&emsp; [Special Movement to Gorgoroth](/rules-archive/the-wizards-limited#special-movement-to-gorgoroth-rules)    <br>&emsp; [Burglaring](/rules-archive/the-wizards-limited#burglaring)    <br>&emsp; [Recently Visited Sites](/rules-archive/the-wizards-limited#recently-visited-sites)    <br>&emsp; [Tapping to Face Multiple Strikes](/rules-archive/the-wizards-limited#tapping-to-face-multiple-strikes)    <br>&emsp; [Multi-player Rules](/rules-archive/the-wizards-limited#multi-player-rules)    <br>&emsp; [Solitaire Rules](/rules-archive/the-wizards-limited#solitaire-rules)    <br>**The Appendices**    <br>&emsp; [Card Diagrams](/rules-archive/the-wizards-limited#card-diagrams)     <br>&emsp; [Map of Middle-earth](/rules-archive/the-wizards-limited#map-of-middle-earth)    <br>&emsp; [Map Index](/rules-archive/the-wizards-limited#map-index)    <br>&emsp; [Full Player Turn Summary](/rules-archive/the-wizards-limited#full-player-turn-summary)    <br>&emsp; [Symbol Key](/rules-archive/the-wizards-limited#symbol-key)    <br>&emsp; [Combat Modifications](/rules-archive/the-wizards-limited#combat-modifications) <br>&emsp; [Credits](/rules-archive/the-wizards-limited#credits) <br>&emsp; |
+|  &emsp; [Using This Rulesbook](#using-this-rulesbook)    <br>&emsp; [Player Turn Summary](#player-turn-summary)    <br>&emsp; [Player Notes](#player-notes)    <br>**Part I — The Starter Rules**    <br>&emsp; [1 • The Victory Conditions](#1--the-victory-conditions)    <br>&emsp; [2 • The Cards and Decks](#2--the-cards-and-decks)    <br>&emsp; [3 • Getting Ready to Play](#3--getting-ready-to-play)    <br>&emsp; [4 • The Player Turn](#4--the-player-turn)    <br>&emsp; [5 • Characters and Companies](#5--characters--companies)    <br>&emsp; [6 • Movement](#6--movement)      <br>&emsp; [7 • Combat](#7--combat)     <br>&emsp; [8 • Corruption](#8--corruption)      <br>&emsp; [9 • Influence](#9--influence)    <br>&emsp; [10 • Playing and Drawing Cards](#10--playing-and-drawing-cards)    <br>**Part II — The Standard Rules**    <br>&emsp; [1 • The Victory Conditions](#1--the-victory-conditions-1)      <br>&emsp; [2 • The Cards and Decks](#2--the-cards-and-decks-1)    <br>&emsp; [3 • Getting Ready to Play](#3--getting-ready-to-play-1)    <br>&emsp; [4 • The Player Turn](#4--the-player-turn-1)    <br>&emsp; [5 • Characters and Companies](#5--characters--companies-1)  <br>&emsp; [6 • Movement](#6--movement-1)  |  &emsp; [7 • Combat](#7--combat-1)    <br>&emsp; [8 • Corruption](#8--corruption-1)    <br>&emsp; [9 • Influence](#9--influence-1)     <br>&emsp; [10 • Playing and Drawing Cards](#10--playing-and-drawing-cards-1)     <br>**Part III — Optional Rules**    <br>&emsp; Special Rules for Character Death[^specialrules]    <br>&emsp; [Special Movement to Gorgoroth](#special-movement-to-gorgoroth-rules)    <br>&emsp; [Burglaring](#burglaring)    <br>&emsp; [Recently Visited Sites](#recently-visited-sites)    <br>&emsp; [Tapping to Face Multiple Strikes](#tapping-to-face-multiple-strikes)    <br>&emsp; [Multi-player Rules](#multi-player-rules)    <br>&emsp; [Solitaire Rules](#solitaire-rules)    <br>**The Appendices**    <br>&emsp; [Card Diagrams](#card-diagrams)     <br>&emsp; [Map of Middle-earth](#map-of-middle-earth)    <br>&emsp; [Map Index](#map-index)    <br>&emsp; [Full Player Turn Summary](#full-player-turn-summary)    <br>&emsp; [Symbol Key](#symbol-key)    <br>&emsp; [Combat Modifications](#combat-modifications) <br>&emsp; [Credits](#credits) <br>&emsp; |
 
 
 ## INTRODUCTION
@@ -169,7 +169,7 @@ Play consists of a series of "Player Turns." During your turn, you take various 
  5. Site Phase
  6. End-of-Turn Phase
 
-The steps taken during a turn are outlined in the turn summary on page 4, and in a more detailed summary provided on [pages 44-46](/rules-archive/the-wizards-limited#full-player-turn-summary).
+The steps taken during a turn are outlined in the turn summary on page 4, and in a more detailed summary provided on [pages 44-46](#full-player-turn-summary).
 
 ## 5 • CHARACTERS & COMPANIES
 
@@ -438,7 +438,7 @@ When a card indicates that one of your characters must make a corruption check, 
 
 ## 9 • INFLUENCE
 
- You have a pool of general influence. Your characters and Wizard have direct influence. These two forms of influence can control and affect characters (see [pages 14-15](/rules-archive/the-wizards-limited#influencing-controlling-a-character)) and factions.
+ You have a pool of general influence. Your characters and Wizard have direct influence. These two forms of influence can control and affect characters (see [pages 14-15](#influencing-controlling-a-character)) and factions.
 
 #### Bringing an Ally into Play
 
@@ -524,7 +524,7 @@ A character may only use the effects of one _weapon_ at a time **and** one _shie
 
 If a character is eliminated by corruption, discard all of the items that he controls. If a character is eliminated due to failing a body check, one item can be transferred to each unwounded character in his company; but, the rest of his items are discarded.
 
-**Factions** — One of your characters may tap to play a faction card if he is at the site specified on the faction card **and** the character successfully influences the faction as indicated on the faction's card (see [page 28](/rules-archive/the-wizards-limited#bringing-a-faction-into-play)). The faction card is placed in your play area. After a faction is successfully played at a site, the site card is tapped.
+**Factions** — One of your characters may tap to play a faction card if he is at the site specified on the faction card **and** the character successfully influences the faction as indicated on the faction's card (see [page 28](#bringing-a-faction-into-play)). The faction card is placed in your play area. After a faction is successfully played at a site, the site card is tapped.
 
 ### EVENTS
 
@@ -594,7 +594,7 @@ Add your region cards to your location deck.
  
 ## 4 • THE PLAYER TURN
 
-The Standard Rules full turn sequence is presented on [pages 44-46](/rules-archive/the-wizards-limited#full-player-turn-summary).
+The Standard Rules full turn sequence is presented on [pages 44-46](#full-player-turn-summary).
  
 ## 5 • CHARACTERS & COMPANIES
 
@@ -625,7 +625,7 @@ Before you play your Wizard, you may use general influence to bring a character 
 
 ## 6 • MOVEMENT
 
-There are two ways to move from one site to another. A company can use site paths (see the [Starter Rules](/rules-archive/the-wizards-limited#6--movement)) **or** it can use region cards.
+There are two ways to move from one site to another. A company can use site paths (see the [Starter Rules](#6--movement)) **or** it can use region cards.
  
 To use region movement, play a new site card (face down) and a series of up to four regions (face down) that connect the current site with the new site (i.e., it moves). For the purposes of movement, a series of regions "connects" two sites if:
 
@@ -889,7 +889,7 @@ Each of your companies may do one of the following:
 
  - Stay at its current site.
  - Play another site (face down) that can be moved to directly from the company's current site (i.e., its site of origin).
- - _Standard Rules Only:_ Play a new site card and a series of up to four specific regions that connect the current site with the new site. (See [Page 36](/rules-archive/the-wizards-limited#6--movement-1).)
+ - _Standard Rules Only:_ Play a new site card and a series of up to four specific regions that connect the current site with the new site. (See [Page 36](#6--movement-1).)
  
 #### Long-event Phase
 
@@ -923,7 +923,7 @@ Follow this procedure for each of your companies. You decide which of your compa
    2. If the site has an automatic-attack, it attacks the company.
    3. The company may attempt to play one item, ally, faction, or information resource card that is "playable" at that site. Generally, this will involve tapping the character that will control the card played. If the resource card is successfully played, the site card is tapped **and** one additional character may tap to play a minor item.<br>Certain resource cards other than items, allies, factions, and information will state under what conditions they may be played. Such cards may be played at tapped and untapped sites, and do not tap a site when played. 
   
-  _Standard Rules Only:_ One of your characters or your Wizard may attempt to influence away of one of your opponent's characters, followers, allies, factions, or items. See [Pages 37-38](/rules-archive/the-wizards-limited#9--influence-1).
+  _Standard Rules Only:_ One of your characters or your Wizard may attempt to influence away of one of your opponent's characters, followers, allies, factions, or items. See [Pages 37-38](#9--influence-1).
  
 #### End-of-Turn Phase
 
