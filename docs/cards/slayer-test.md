@@ -2,7 +2,8 @@
 layout: card
 title: Slayer
 parent: Cards
-permalink: /cards/slayer
+search_exclude: true
+nav_exclude: true
 ---
 
 <style>
