@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Annotated CRF
+nav_exclude: true
 ---
 
 # Annotated CRF
