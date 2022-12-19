@@ -11,9 +11,9 @@ nav_exclude: true
   font-style: normal;
   font-weight: 400;
   color: white;
-  font-size: 3em;
   margin: 0;
-  -webkit-text-stroke: 1px black;
+  text-shadow: 1px 1px 1px #000;
+  //-webkit-text-stroke: 1px black;
 }
 </style>
 
