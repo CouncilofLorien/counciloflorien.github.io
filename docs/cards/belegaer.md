@@ -24,7 +24,7 @@ Resource Event
 
 {: .metw .mr-8 }
 > {: .text-center .text-gamma }
-> BELEGAER
+> <card>BELEGAER</card>
 > 
 > {: .text-right .pr-4 }
 > Short-event
