@@ -7,13 +7,14 @@ nav_exclude: true
 ---
 
 <style>
-  title {
+  card-name {
   font-variant: small-caps;
   font-weight: 500;
   color: white;
-  text-shadow: 1px 1px 2px #000;
+  text-shadow: 1px 1px 1px #000;
 }
-  type {
+  
+  card-type {
   font-variant: small-caps;
   font-weight: 300;
   color: white;
@@ -28,10 +29,10 @@ Resource Event
 
 {: .metw .m-md-8 }
 > {: .note-dk .text-center .text-gamma }
-> > <title>Belegaer</title>
+> > <card-name>Belegaer</card-name>
 > 
 > {: .text-right }
-> <type>Short-event</type>
+> <card-type>Short-event</card-type>
 > 
 > {: .text-left }
 > _**Playable during organization phase on a company  
