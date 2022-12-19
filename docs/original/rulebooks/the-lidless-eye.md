@@ -4,6 +4,7 @@ title: The Lidless Eye
 parent: Rulebooks
 grand_parent: Original Rules
 nav_order: 6
+permalink: /original/rulebooks/the-lidless-eye/
 ---
 
 # MIDDLE-EARTH: THE LIDLESS EYE
