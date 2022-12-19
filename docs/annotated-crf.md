@@ -65,11 +65,14 @@ If you have any further questions concerning _MECCG_, you can either:
 ### Beginning of the Game
 
  - \# If a character is put in the deck due to duplication in the starting company, then it does not count against the 10 character limit.
-     {: .note}
-     > ***Corresponding Rule:*** 5) Place up to 10 character cards in your play deck. Only one of each character card may be included. In addition, place up to two Wizard cards in your play deck (you may place two copies of the same Wizard). Shuffle your play deck.
-     > [_METW_ 3 • GETTING READY TO PLAY](/original/rulebooks/the-wizards-unlimited/#3--getting-ready-to-play)
+     {: .note }
+     > [_METW_ --- 3 • GETTING READY TO PLAY](/original/rulebooks/the-wizards-unlimited/#3--getting-ready-to-play)
      > 
-     > [_MELE_ 3 • GETTING READY TO PLAY of ](/original/rulebooks/the-wizards-unlimited/#3--getting-ready-to-play)
+     > 5) Place up to 10 character cards in your play deck. Only one of each character card may be included. In addition, place up to two Wizard cards in your play deck (you may place two copies of the same Wizard). Shuffle your play deck.
+     > 
+     > [_MELE_ --- 3 • GETTING READY TO PLAY](/original/rulebooks/the-wizards-unlimited/#3--getting-ready-to-play)
+     > 
+     > 5) Place up to 10 non-Ringwraith character cards in your play deck. Only one of each character card may be included. In addition, place up to two Ringwraith cards in your play deck (you may place two copies of the same Ringwraith). Shuffle your play deck.
      > 
      > ***Comment:*** When not using the _Character Draft_, duplicated characters are placed into the play deck at Step 3 and then at Step 5 up to 10 characters are placed into the play deck. There is no specific limit on the total number of characters placed into the play deck during Step 3 and 5 combined.     
  - \# You should either draw numbers for the whole game or roll dice for the whole game.
