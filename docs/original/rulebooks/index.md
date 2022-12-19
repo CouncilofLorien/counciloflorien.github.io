@@ -4,6 +4,7 @@ title: Rulebooks
 parent: Original Rules
 has_children: true
 search_exclude: true
+permalink: /original/rulebooks/
 ---
 
 {: .text-center }
