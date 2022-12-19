@@ -19,7 +19,7 @@ title: Council of Lórien
 # description: Council of Lórien
 # baseurl: "/just-the-docs" # the subpath of your site, e.g. /blog
 # url: "https://counciloflorien.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/meccg" # the subpath of your site, e.g. /blog
 url: "https://www.counciloflorien.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
