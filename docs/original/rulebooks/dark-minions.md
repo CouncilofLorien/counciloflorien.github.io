@@ -4,6 +4,7 @@ title: Dark Minions
 parent: Rulebooks
 grand_parent: Original Rules
 nav_order: 5
+permalink: /original/rulebooks/dark-minions/
 ---
 
 # MIDDLE-EARTH: DARK MINIONS
