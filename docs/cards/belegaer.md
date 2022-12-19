@@ -11,7 +11,7 @@ METD
 Resource Event
 
 
-{: .metw .mb-lg-8 }
+{: .metw .m-8 .p-4 }
 > {: .text-center .text-gamma }
 > Belegaer
 > 
