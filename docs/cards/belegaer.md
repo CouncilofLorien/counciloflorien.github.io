@@ -8,7 +8,7 @@ nav_exclude: true
 
 <style>
   card {
-  font-style: normal;
+  font-variant: small-caps;
   font-weight: 400;
   color: white;
   margin: 0;
@@ -23,7 +23,7 @@ Resource Event
 
 
 {: .metw .mr-lg-8 }
-> {: .text-center .text-gamma }
+> {: .note-dk .text-center .text-gamma }
 > <card>BELEGAER</card>
 > 
 > {: .text-right }
