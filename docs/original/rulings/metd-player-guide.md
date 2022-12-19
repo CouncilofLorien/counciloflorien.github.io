@@ -3,6 +3,7 @@ layout: default
 title: The Dragons Player Guide Rulings
 parent: Rulings
 grand_parent: Original Rules
+permalink: /original/rulings/metd-player-guide/
 ---
 
 # MIDDLE-EARTH<br>THE DRAGONS PLAYER GUIDE
