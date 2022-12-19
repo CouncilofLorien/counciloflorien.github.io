@@ -3,6 +3,7 @@ layout: default
 title: MELE Companion
 parent: Rulings
 grand_parent: Original Rules
+permalink: /original/rulings/mele-companion/
 ---
 
 # MIDDLE-EARTH<br>THE LIDLESS EYE COMPANION
