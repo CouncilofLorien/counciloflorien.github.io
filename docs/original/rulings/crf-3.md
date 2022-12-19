@@ -3,6 +3,7 @@ layout: default
 title: "CRF 3"
 parent: Rulings
 grand_parent: Original Rules
+permalink: /original/rulings/crf-3/
 ---
 
 # Middle Earth: The Wizards
