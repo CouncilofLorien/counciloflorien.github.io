@@ -3,7 +3,7 @@ layout: default
 title: METW Companion
 parent: Rulings
 grand_parent: Original Rules
-permalink: /original/rulings/wizards-companion-rulings/
+permalink: /original/rulings/metw-companion/
 ---
 
 # MIDDLE-EARTH<br>THE WIZARDS COMPANION
