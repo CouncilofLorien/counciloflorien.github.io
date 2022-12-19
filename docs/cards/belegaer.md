@@ -7,13 +7,17 @@ nav_exclude: true
 ---
 
 <style>
-  card {
+  title {
   font-variant: small-caps;
-  font-weight: 400;
+  font-weight: 500;
   color: white;
-  margin: 0;
+  text-shadow: 1px 1px 2px #000;
+}
+  type {
+  font-variant: small-caps;
+  font-weight: 300;
+  color: white;
   text-shadow: 1px 1px 1px #000;
-  //-webkit-text-stroke: 1px black;
 }
 </style>
 
@@ -22,12 +26,12 @@ METD
 Resource Event
 
 
-{: .metw .mr-lg-8 }
+{: .metw .m-md-8 }
 > {: .note-dk .text-center .text-gamma }
-> > <card>BELEGAER</card>
+> > <title>Belegaer</title>
 > 
 > {: .text-right }
-> <card>SHORT-EVENT</card>
+> <type>Short-event</type>
 > 
 > {: .text-left }
 > _**Playable during organization phase on a company  
