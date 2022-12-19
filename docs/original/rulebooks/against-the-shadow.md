@@ -4,6 +4,7 @@ title: Against the Shadow
 parent: Rulebooks
 grand_parent: Original Rules
 nav_order: 8
+permalink: /original/rulebooks/against-the-shadow/
 ---
 
 # MIDDLE-EARTH: AGAINST THE SHADOW
