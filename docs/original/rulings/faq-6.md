@@ -3,6 +3,7 @@ layout: default
 title: "FAQ #6"
 parent: Rulings
 grand_parent: Original Rules
+permalink: /original/rulings/faq-6/
 ---
 
 # Middle Earth: The Wizards
