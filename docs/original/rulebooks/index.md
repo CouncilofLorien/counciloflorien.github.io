@@ -3,7 +3,8 @@ layout: default
 title: Rulebooks
 parent: Original Rules
 has_children: true
-search_exclude: true
+search_exclude: false
+has_toc: false
 permalink: /original/rulebooks/
 ---
 
