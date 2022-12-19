@@ -4,6 +4,7 @@ title: The White Hand
 parent: Rulebooks
 grand_parent: Original Rules
 nav_order: 9
+permalink: /original/rulebooks/the-white-hand/
 ---
 
 # Middle-earth: The White Hand
