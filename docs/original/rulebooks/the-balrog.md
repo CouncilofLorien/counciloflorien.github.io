@@ -4,6 +4,7 @@ title: The Balrog
 parent: Rulebooks
 grand_parent: Original Rules
 nav_order: 12
+permalink: /original/rulebooks/the-balrog/
 ---
 
 # MIDDLE-EARTH: THE BALROG
