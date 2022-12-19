@@ -74,7 +74,7 @@ If you have any further questions concerning _MECCG_, you can either:
      > >
      > > 5) Place up to 10 character cards in your play deck. Only one of each character card may be included. In addition, place up to two Wizard cards in your play deck (you may place two copies of the same Wizard). Shuffle your play deck.
      > 
-     > {:. mele }
+     > {: .mele }
      > > [_MELE_ --- 3 • GETTING READY TO PLAY](/original/rulebooks/the-wizards-unlimited/#3--getting-ready-to-play)
      > > 
      > > 5) Place up to 10 non-Ringwraith character cards in your play deck. Only one of each character card may be included. In addition, place up to two Ringwraith cards in your play deck (you may place two copies of the same Ringwraith). Shuffle your play deck.
