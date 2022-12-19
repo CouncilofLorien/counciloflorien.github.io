@@ -65,7 +65,10 @@ If you have any further questions concerning _MECCG_, you can either:
 ### Beginning of the Game
 
  - \# If a character is put in the deck due to duplication in the starting company, then it does not count against the 10 character limit.
-     - In [3 • GETTING READY TO PLAY of _METW_](the-wizards-unlimited.md/#3--getting-ready-to-play) and [3 • GETTING READY TO PLAY of_MELE_](the-lidless-eye.md/#3--getting-ready-to-play) (when not using the Character Draft), duplicated characters are placed into the play deck at Step 3 and then up to 10 characters are placed into the play deck at Step 5. There is a limit of 10 characters placed into the play deck in Step 5. However, there is no specific limit on the total number of characters placed into the play deck during Step 3 and 5 combined. 
+      - When not using the _Character Draft_, duplicated characters are placed into the play deck at Step 3 and then at Step 5 up to 10 characters are placed into the play deck. There is no specific limit on the total number of characters placed into the play deck during Step 3 and 5 combined. 
+      -  { .meul-title }
+      > [3 • GETTING READY TO PLAY of _METW_](the-wizards-unlimited.md/#3--getting-ready-to-play)
+      - [3 • GETTING READY TO PLAY of _MELE_](the-lidless-eye.md/#3--getting-ready-to-play)
  - \# You should either draw numbers for the whole game or roll dice for the whole game.
  -  Your starting company can only contain 20 points of unmodified mind.
  -  Non-character cards duplicated in the character draft may not be placed into the play deck.
