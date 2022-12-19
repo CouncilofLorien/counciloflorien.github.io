@@ -22,11 +22,11 @@ METD
 Resource Event
 
 
-{: .metw .mr-8 }
+{: .metw .mr-lg-8 }
 > {: .text-center .text-gamma }
 > <card>BELEGAER</card>
 > 
-> {: .text-right .pr-4 }
+> {: .text-right }
 > Short-event
 > 
 > {: .text-left }
