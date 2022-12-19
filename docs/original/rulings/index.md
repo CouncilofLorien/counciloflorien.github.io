@@ -4,7 +4,8 @@ title: Rulings
 grand_parent: Original Rules
 has_children: true
 search_exclude: true
-nav_exclude: true
+nav_exclude: false
+permalink: /original/rulings/
 ---
 
 {: .text-center }
