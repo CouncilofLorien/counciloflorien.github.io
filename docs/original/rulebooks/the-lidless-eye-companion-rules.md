@@ -4,6 +4,7 @@ title: MELE Companion
 parent: Rulebooks
 grand_parent: Original Rules
 nav_order: 7
+permalink: /original/rulebooks/the-lidless-eye-companion/
 ---
 
 # MIDDLE-EARTH<br>THE LIDLESS EYE COMPANION
