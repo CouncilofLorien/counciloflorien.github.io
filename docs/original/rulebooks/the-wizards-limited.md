@@ -4,6 +4,7 @@ title: The Wizards Ltd.
 parent: Rulebooks
 grand_parent: Original Rules
 nav_order: 1
+permalink: /original/rulebooks/the-wizards-limited/
 ---
 
 # MIDDLE-EARTH: THE WIZARDS
