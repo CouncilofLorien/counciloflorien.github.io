@@ -4,6 +4,7 @@ title: The Dragons
 parent: Rulebooks
 grand_parent: Original Rules
 nav_order: 4
+permalink: /original/rulebooks/the-dragons/
 ---
 
 # MIDDLE-EARTH: THE DRAGONS
