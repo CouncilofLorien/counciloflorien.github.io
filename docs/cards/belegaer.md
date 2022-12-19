@@ -24,10 +24,10 @@ Resource Event
 
 {: .metw .mr-lg-8 }
 > {: .note-dk .text-center .text-gamma }
-> <card>BELEGAER</card>
+> > <card>BELEGAER</card>
 > 
 > {: .text-right }
-> Short-event
+> <card>SHORT-EVENT</card>
 > 
 > {: .text-left }
 > _**Playable during organization phase on a company  
