@@ -6,6 +6,17 @@ search_exclude: true
 nav_exclude: true
 ---
 
+<style>
+  card {
+  font-style: normal;
+  font-weight: 400;
+  color: white;
+  font-size: 3em;
+  margin: 0;
+  -webkit-text-stroke: 1px black;
+}
+</style>
+
 METD
 
 Resource Event
