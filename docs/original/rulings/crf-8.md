@@ -3,6 +3,7 @@ layout: default
 title: "CRF 8"
 parent: Rulings
 grand_parent: Original Rules
+permalink: /original/rulings/crf-8/
 ---
 
 # Middle-earth: Collectible Card Game
