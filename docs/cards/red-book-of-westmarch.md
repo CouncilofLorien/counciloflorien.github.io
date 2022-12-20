@@ -6,7 +6,7 @@ nav_exclude: true
 ---
 
 <style>
-.card-name {
+card-name {
   font-weight: 200;
   font-variant: small-caps;
   color: white;
@@ -14,31 +14,11 @@ nav_exclude: true
   width: 80%;
   text-align: center;
 }
-.upper-left {
-  width: 10%;
-  text-align: left;
-}
-.upper-right {
-  width: 10%;
-  text-align: right;
-}
-.lower-left {
-  width: 10%;
-  text-align: left;
-}
-.lower-center {
-  width: 80%;
-  text-align: center;
-}
-.lower-right {
-  width: 10%;
-  text-align: right;
-}
 </style>
 
 {: .hero-resource .mx-sm-8 .mb-4 }
 > {: .hero-resource-name .text-center .fs-6 .mb-4 .p-1 }
-> > <span style=(1) <card-name>Red Book of Westmarch</card-name>
+> > <card-name>Red Book of Westmarch</card-name>
 > 
 > \[+2![](/assets/images/di.svg)]
 > 
@@ -51,24 +31,7 @@ nav_exclude: true
 > > {: .fs-3 }
 > > _"...in a single red case, where the three large columes, bound in red leather, that Bilbo gave to him as a parting gift..."&emsp;&emsp; **---LotR I**_
 > 
-> +1/+1 <span class="corruption-points">1</span>
+> --/-- 
 > 
 > {: .fs-2 }
 > _**Middle-earth: The Wizards**_
-
-{: .hero-resource .d-flex .mx-sm-8 .mb-4 }
-> {: .hero-resource-name .d-flex .fs-6 .mb-4 .p-1 }
-> > <upper-left>(1)</upper-left> <card-name>Red Book of Westmarch</card-name>
-> 
-> \[+2![](/assets/images/di.svg)]
-> 
-> {: .hero-resource-name .text-right .p-1 }
-> > <card-name>Special Item</card-name>
-> 
-> {: .hero-resource-text .p-2 }
-> > _Unique._ ***Only playable at Bag End*** +2 to direct influence against a Hobbit character or faction. 1 marshalling point if stored at a Haven \[![](/assets/images/free-haven.svg)] 
-> > 
-> > {: .fs-3 }
-> > _"...in a single red case, where the three large columes, bound in red leather, that Bilbo gave to him as a parting gift..."&emsp;&emsp; **---LotR I**_
-> 
-> <lower-left>+1/+1</lower-left> <lower-center>Middle-earth: The Wizards</lower-center> <lower-right>1</lower-right>
