@@ -55,13 +55,6 @@ $hero-resource-text-100: #f0ead5;
 $hero-resource-text-200: #f0ead5;
 $hero-resource-text-300: #f0ead5;
 
-.card-text {
-  font-variant: small-caps;
-  font-weight: 400;
-  color: white;
-  text-shadow: 1px 1px 1px #000;
-}
-
 .contact-form {
   input[type="text"],
   input[type="email"],
@@ -82,17 +75,6 @@ $hero-resource-text-300: #f0ead5;
 
 .scroll {
   list-style: none;
-}
-
-.card {
-  table {
-    table-layout: fixed;
-  }
-
-  th,
-  td {
-    min-width: 10px;
-  }
 }
 
 // Print-only styles.
