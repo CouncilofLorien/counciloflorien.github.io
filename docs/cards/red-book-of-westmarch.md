@@ -18,8 +18,10 @@ card-name {
 > {: .fs-6 }
 > (1)
 > 
-> {: .hero-resource-name .text-center .fs-6 .mb-8 .p-1 }
+> {: .hero-resource-name .text-center .fs-6 .mb-4 .p-1 }
 > > <card-name>Red Book of Westmarch</card-name>
+> 
+> \[+2![](/assets/images/di.svg)]
 > 
 > {: .hero-resource-name .text-right .p-1 }
 > > <card-name>Special Item</card-name>
@@ -34,4 +36,4 @@ card-name {
 > 1
 > 
 > {: .fs-2 }
-> _**Middle-earth: The Dragons**_
+> _**Middle-earth: The Wizards**_
