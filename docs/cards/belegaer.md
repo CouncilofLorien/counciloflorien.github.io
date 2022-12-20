@@ -16,15 +16,13 @@ nav_exclude: true
 </style>
 
 {: .hero-resource .mx-sm-8 }
-> {: .hero-resource-title }
-> > 
-> > <card-name>Belegaer</card-name>
-> > {: .text-center .fs6 .mb-3 }
 > 
-> {: .hero-resource-title }
-> > 
+> {: .hero-resource-title .text-center .fs6 .mb-3}
+> > <card-name>Belegaer</card-name>
+> 
+> 
+> {: .hero-resource-title .text-right }
 > > <card-name>Short-event</card-name>
-> > {: .text-right }
 > 
 > 
 > {: .hero-resource-text }
