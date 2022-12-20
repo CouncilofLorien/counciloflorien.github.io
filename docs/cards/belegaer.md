@@ -11,7 +11,7 @@ nav_exclude: true
   font-variant: small-caps;
   font-weight: 400;
   color: white;
-  text-shadow: 1px 1px 2px #000;
+  text-shadow: 1px 1px 1px #000;
 }
   
   card-type {
