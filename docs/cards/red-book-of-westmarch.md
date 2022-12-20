@@ -19,14 +19,14 @@ table {
 </style>
 
 
-{: .hero-resource .mr-sm-8 .mb-4 }
+{: .hero-resource .mr-sm-12 .mb-4 }
 > {: .hero-resource-name .fs-6 .mb-2 .p-1 }
 > > (1)&emsp;<card-name>Red Book of Westmarch</card-name>
 > 
 > \[+2![](/assets/images/di.svg)]
 > 
 > {: .hero-resource-name .text-right .p-1 }
-> > <card-name>Special Item</card-name>&emsp;
+> > <card-name>Special Item</card-name>
 > 
 > {: .hero-resource-text .p-2 }
 > > _Unique._ ***Only playable at Bag End*** +2 to direct influence against a Hobbit character or faction. 1 marshalling point if stored at a Haven \[![](/assets/images/free-haven.svg)] 
@@ -61,7 +61,7 @@ table {
 
 {: .hero-resource .mx-sm-8 .mb-4 }
 > {: .hero-resource-name .fs-6 .mb-4 .p-1 }
-> > | :-| :------------------------------------------: |  |
+> > | :--- | :------------------------------------------: | ---: |
 > > |  (1)  | <card-name>Red Book of Westmarch</card-name> |  |
 > 
 > \[+2![](/assets/images/di.svg)]
@@ -77,3 +77,7 @@ table {
 > 
 > | :---- | :---------------------------------: | ----: |
 > | --/-- | _**Middle-earth: The Wizards**_     |  1    |
+
+
+| :---- | :---------------------------------: | ----: |
+| --/-- |  _**Middle-earth: The Wizards**_     |  1    |
