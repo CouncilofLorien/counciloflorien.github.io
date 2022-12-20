@@ -12,14 +12,20 @@ card-name {
   color: white;
   text-shadow: 1px 1px 1px #000;
 }
+marshalling-points {
+  text-align:left;
+}
+prowess-body {
+  text-align:left;
+}
+corruption-points {
+  text-align:right;
+}
 </style>
 
 {: .hero-resource .mx-sm-8 .mb-4 }
-> {: .fs-6 }
-> (1)
-> 
 > {: .hero-resource-name .text-center .fs-6 .mb-4 .p-1 }
-> > <card-name>Red Book of Westmarch</card-name>
+> > <marshalling-points>(1)</marshalling-points> <card-name>Red Book of Westmarch</card-name>
 > 
 > \[+2![](/assets/images/di.svg)]
 > 
@@ -32,8 +38,7 @@ card-name {
 > > {: .fs-3 }
 > > _"...in a single red case, where the three large columes, bound in red leather, that Bilbo gave to him as a parting gift..."&emsp;&emsp; **---LotR I**_
 > 
-> {: .fs-6 .text-right }
-> 1
+> <prowess-body>+1/+1</prowess-body> <corruption-points>1</corruption-points>
 > 
 > {: .fs-2 }
 > _**Middle-earth: The Wizards**_
