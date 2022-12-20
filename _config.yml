@@ -214,6 +214,8 @@ callouts:
     color: grey-md
   hero-resource:
     color: hero-resource
+  hero-resource-title:
+    color: hero-resource-title
   hero-resource-text:
     color: hero-resource-text
 
