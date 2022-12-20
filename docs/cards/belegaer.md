@@ -26,10 +26,13 @@ nav_exclude: true
 {: .hero-resource .m-sm-8 }
 > {: .hero-resource-text .text-center .fs-6 }
 > > <card-name>Belegaer</card-name>
-> <br>
-> <br>
-> <br>
-> <br>
+> 
+> &nbsp;
+> 
+> &nbsp;
+> 
+> &nbsp;
+> 
 > {: .hero-resource-text .text-right }
 > > <card-type>Short-event</card-type>
 > 
