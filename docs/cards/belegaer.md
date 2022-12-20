@@ -8,14 +8,13 @@ nav_exclude: true
 
 <style>
 card-name {
-  font-variant: small-caps !important;
   font-weight: 300 !important;
   color: white !important;
   text-shadow: 1px 1px 1px #000 !important;
 }
 </style>
 
-{: .hero-resource .mx-sm-8 }
+{: .hero-resource .mx-sm-8 .mb-4 }
 > 
 > {: .hero-resource-title .text-center .v-align-middle .fs-6 .mb-8 }
 > > <card-name>Belegaer</card-name>
@@ -31,17 +30,16 @@ card-name {
 > {: .fs-2 }
 > _**Middle-earth: The Dragons**_
 
-{: .hero-resource .mx-sm-8 }
+
+{: .hero-resource .mx-sm-8 .mb-4 }
 > 
-> {: .hero-resource-title }
-> > 
-> > {: .text-center .v-align-middle .fs-6 .mb-3 }
+> {: .text-center .v-align-middle .fs-6 .mb-8 }
+> {: .hero-resource-title } 
 > > <card-name>Belegaer</card-name>
 > 
 > 
+> {: .text-right .v-align-middle }
 > {: .hero-resource-title }
-> > 
-> > {: .text-right .v-align-middle }
 > > <card-name>Short-event</card-name>
 > 
 > 
@@ -50,4 +48,3 @@ card-name {
 > 
 > {: .fs-2 }
 > _**Middle-earth: The Dragons**_
-
