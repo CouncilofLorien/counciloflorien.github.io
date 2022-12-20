@@ -7,10 +7,10 @@ search_exclude: true
 
 {: .hero-resource .mx-s-8 }
 > {: .hero-resource-title }
-> > Secret News
+> Secret News
 > 
 > {: .hero-resource-title }
-> > Short-event
+> Short-event
 > 
 > {: .hero-resource-text }
 > > Opponent reveals to you 5 random cards at once from his hand
