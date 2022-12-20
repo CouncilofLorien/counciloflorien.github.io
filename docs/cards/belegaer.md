@@ -24,7 +24,7 @@ nav_exclude: true
 </style>
 
 {: .hero-resource .m-sm-8 }
-> {: .hero-resource-title .text-center .fs-7 .mb-8 }
+> {: .hero-resource-title .text-center .fs-6 .mb-8 }
 > > <card-name>Belegaer</card-name>
 > 
 > {: .hero-resource-title .text-right }
