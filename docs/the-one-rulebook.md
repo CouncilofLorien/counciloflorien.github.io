@@ -3,7 +3,9 @@ layout: default
 title: The Lidless Eye
 parent: Rulebooks
 grand_parent: The One Rulebook
-nav_order: 6
+nav_order: 1
+nav_exclude: true
+search_exclude: true
 permalink: /the-one-rulebook/
 ---
 
