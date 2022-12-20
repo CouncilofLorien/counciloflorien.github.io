@@ -26,7 +26,8 @@ corruption-points {
 
 {: .hero-resource .mx-sm-8 .mb-4 }
 > {: .hero-resource-name .text-center .fs-6 .mb-4 .p-1 }
-> > (1) <span class="card-name">Red Book of Westmarch</span>
+> > | :--- | :---: | ---: |
+> > | (1) | <span class="card-name">Red Book of Westmarch</span> | |
 > 
 > \[+2![](/assets/images/di.svg)]
 > 
