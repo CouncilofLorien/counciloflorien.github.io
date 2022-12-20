@@ -17,7 +17,7 @@ nav_exclude: true
 
 {: .hero-resource .mx-sm-8 }
 > 
-> {: .hero-resource-title .text-center .fs6 .mb-3}
+> {: .hero-resource-title .text-center .fs-6 .mb-3 }
 > > <card-name>Belegaer</card-name>
 > 
 > 
