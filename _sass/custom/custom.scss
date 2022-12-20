@@ -46,14 +46,21 @@ $hero-resource-000: #edb09f;
 $hero-resource-100: #edb09f;
 $hero-resource-200: #44434d;
 $hero-resource-300: #44434d;
-$hero-resource-title-000: #a07771;
-$hero-resource-title-100: #a07771;
-$hero-resource-title-200: #a07771;
-$hero-resource-title-300: #a07771;
+$hero-resource-title-000: #e58e76;
+$hero-resource-title-100: #e58e76;
+$hero-resource-title-200: #e58e76;
+$hero-resource-title-300: #e58e76;
 $hero-resource-text-000: #f0ead5;
 $hero-resource-text-100: #f0ead5;
 $hero-resource-text-200: #f0ead5;
 $hero-resource-text-300: #f0ead5;
+
+.card-text {
+  font-variant: small-caps;
+  font-weight: 400;
+  color: white;
+  text-shadow: 1px 1px 1px #000;
+}
 
 .contact-form {
   input[type="text"],
