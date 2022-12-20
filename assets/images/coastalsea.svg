@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="3.9538701mm"
-   height="3.870728mm"
-   viewBox="0 0 3.95387 3.870728"
+   width="3.0414383mm"
+   height="2.977483mm"
+   viewBox="0 0 3.0414383 2.977483"
    version="1.1"
    id="svg5305"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="coastalsea-2.svg">
+   sodipodi:docname="coastal-sea-2.svg">
   <defs
      id="defs5299" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="31.678384"
-     inkscape:cx="-7.5235999"
-     inkscape:cy="8.0722035"
+     inkscape:zoom="45.254834"
+     inkscape:cx="10.9797"
+     inkscape:cy="2.001986"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -52,11 +52,29 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-162.79473,-123.21035)">
+     transform="translate(-163.25094,-123.65695)">
+    <path
+       style="fill:#ffffff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 166.16447,125.75327 0.0517,-0.10689 -2.92075,-0.20671 0.0408,0.11463 z"
+       id="path817"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.14084351;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       id="path815"
+       sodipodi:type="arc"
+       sodipodi:cx="163.46655"
+       sodipodi:cy="126.78823"
+       sodipodi:rx="1.4708598"
+       sodipodi:ry="1.4458529"
+       sodipodi:start="0"
+       sodipodi:end="6.2828886"
+       sodipodi:open="true"
+       d="m 164.93741,126.78823 a 1.4708598,1.4458529 0 0 1 -1.47075,1.44585 1.4708598,1.4458529 0 0 1 -1.47097,-1.44563 1.4708598,1.4458529 0 0 1 1.47054,-1.44607 1.4708598,1.4458529 0 0 1 1.47118,1.44542"
+       transform="matrix(0.99994982,-0.01001755,0.01036712,0.99994626,0,0)" />
     <g
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="g6728-1-2"
-       transform="matrix(2.2345811,0,0,2.2345811,-270.82526,-913.22722)"
+       transform="matrix(1.7189085,0,0,1.7189085,-170.30289,-673.6027)"
        inkscape:export-xdpi="1200.02"
        inkscape:export-ydpi="1200.02">
       <g
