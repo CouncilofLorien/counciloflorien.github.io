@@ -213,6 +213,8 @@ callouts:
     color: grey-md
   hero-resource:
     color: hero-resource
+  hero-resource-text:
+    color: hero-resource-text
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
