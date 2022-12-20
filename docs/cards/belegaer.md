@@ -20,16 +20,15 @@ nav_exclude: true
   color: white;
   text-shadow: 1px 1px 1px #000;
 }  
-  
 </style>
 
 {: .hero-resource .m-sm-8 }
 > {: .hero-resource-title .mb-8 }
-> > {: .card-text .text-center .fs-7 }
+> > {: .card-name .text-center .fs-7 }
 > > Belegaer
 > 
 > {: .hero-resource-title }
-> > {: .card-text .text-right }
+> > {: .card-name .text-right }
 > > Short-event
 > 
 > {: .hero-resource-text }
