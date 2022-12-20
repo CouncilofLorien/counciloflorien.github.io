@@ -16,11 +16,11 @@ card-name {
 
 {: .hero-resource .mx-sm-8 .mb-4 }
 > 
-> {: .hero-resource-title .text-center .v-align-middle .fs-6 .mb-8 }
+> {: .hero-resource-name .text-center .v-align-middle .fs-6 .mb-8 }
 > > <card-name>Belegaer</card-name>
 > 
 > 
-> {: .hero-resource-title .text-right .v-align-middle }
+> {: .hero-resource-name .text-right .v-align-middle }
 > > <card-name>Short-event</card-name>
 > 
 > 
@@ -34,12 +34,12 @@ card-name {
 {: .hero-resource .mx-sm-8 .mb-4 }
 > 
 > {: .text-center .v-align-middle .fs-6 .mb-8 }
-> {: .hero-resource-title } 
+> {: .hero-resource-name } 
 > > <card-name>Belegaer</card-name>
 > 
 > 
 > {: .text-right .v-align-middle }
-> {: .hero-resource-title }
+> {: .hero-resource-name }
 > > <card-name>Short-event</card-name>
 > 
 > 
