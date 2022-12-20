@@ -211,6 +211,8 @@ callouts:
   tip:
     title: Tip
     color: grey-md
+  hero-resource:
+    color: hero-resource
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
