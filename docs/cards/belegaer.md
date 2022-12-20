@@ -28,8 +28,8 @@ card-name {
 > {: .fs-2 }
 > _**Middle-earth: The Dragons**_
 
-{: .hero-resource .mx-sm-8 .mb-4 .p-1 }
-> {: .hero-resource-name .text-center .fs-6 .mb-8 }
+{: .hero-resource .mx-sm-8 .mb-4 }
+> {: .hero-resource-name .text-center .fs-6 .mb-8 .p-1 }
 > > <card-name>Belegaer</card-name>
 > 
 > {: .hero-resource-name .text-right .p-1 }
