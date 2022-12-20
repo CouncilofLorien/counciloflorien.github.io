@@ -5,11 +5,12 @@ nav_exclude: true
 search_exclude: true
 ---
 
-{: .hero-resource .mx-s-8 }
-> {: .hero-resource-title }
+{: .mx-s-8 }
+{: .hero-resource }
+> {: .hero-resource-name }
 > Secret News
 > 
-> {: .hero-resource-title }
+> {: .hero-resource-name }
 > Short-event
 > 
 > {: .hero-resource-text }
