@@ -7,7 +7,7 @@ nav_exclude: true
 ---
 
 <style>
-  card-name {
+card-name {
   font-variant: small-caps !important;
   font-weight: 300 !important;
   color: white !important;
@@ -17,11 +17,11 @@ nav_exclude: true
 
 {: .hero-resource .mx-sm-8 }
 > 
-> {: .hero-resource-title .text-center .fs-6 .mb-3 }
+> {: .hero-resource-title .text-center .v-align-middle .fs-6 .mb-3 }
 > > <card-name>Belegaer</card-name>
 > 
 > 
-> {: .hero-resource-title .text-right }
+> {: .hero-resource-title .text-right .v-align-middle }
 > > <card-name>Short-event</card-name>
 > 
 > 
