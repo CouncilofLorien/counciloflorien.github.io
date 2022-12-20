@@ -11,8 +11,10 @@ card-name {
   font-variant: small-caps;
   color: white;
   text-shadow: 1px 1px 1px #000;
-  width: 80%;
-  text-align: center;
+}
+
+table {
+  background-color: rgba(0, 0, 0, 0);
 }
 </style>
 
@@ -38,7 +40,7 @@ card-name {
 
 
 {: .hero-resource .mx-sm-8 .mb-4 }
-> {: .hero-resource-name .text-center .fs-6 .mb-4 .p-1 }
+> {: .hero-resource-name .fs-6 .mb-4 .p-1 }
 > > | :---- | :------------------------------------------: |  |
 > > |  (1)  | <card-name>Red Book of Westmarch</card-name> |  |
 > 
@@ -53,5 +55,5 @@ card-name {
 > > {: .fs-3 }
 > > _"...in a single red case, where the three large columes, bound in red leather, that Bilbo gave to him as a parting gift..."&emsp;&emsp; **---LotR I**_
 > 
-> | :---- | :---------------------------------: | ---: |
-> | --/-- | _**Middle-earth: The Wizards**_     |  1   |
+> | :---- | :---------------------------------: | ----: |
+> | --/-- | _**Middle-earth: The Wizards**_     |  1    |
