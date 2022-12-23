@@ -13,13 +13,13 @@ permalink: /the-one-rulebook/
 THE ONE RULEBOOK
 
 {: .text-center .mb-4 }
-***"
-Three types of the alignment of the players,  
+***"Three types of the alignment of the players,  
 Seven of the sets and expansions of cards,  
 Nine of the Nazgul and Dragons,  
 In the land of Middle-earth where the D-6 roll,  
 One Book to Rule them all, One Book to find them,  
-One Book to bring them all, and in completeness bind them…"***
+One Book to bring them all, and in completeness bind them,
+In the land of Middle-earth where the D-6 roll."***
 
 {: .text-center .text-gamma }
 CONTENTS
