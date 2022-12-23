@@ -7,13 +7,19 @@ search_exclude: true
 permalink: /the-one-rulebook/
 ---
 
-# MIDDLE-EARTH: THE ONE RULEBOOK
+# MIDDLE-EARTH: COLLECTIBLE CARD GAME
 
 {: .text-center .text-beta }
-COMPLETE & FINAL
+THE ONE RULEBOOK
 
-{: .text-center }
-***"One Book to Rule them all<br>One Book to find them,<br>One Book to bring them all,<br>and in completeness bind them…"***<br><br>
+{: .text-center .mb-4 }
+***"
+Three types of the alignment of the players,  
+Seven of the sets and expansions of cards,  
+Nine of the Nazgul and Dragons,  
+In the land of Middle-earth where the D-6 roll,  
+One Book to Rule them all, One Book to find them,  
+One Book to bring them all, and in completeness bind them…"***
 
 {: .text-center .text-gamma }
 CONTENTS
