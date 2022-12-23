@@ -9,10 +9,10 @@ permalink: /the-one-rulebook/
 
 # MIDDLE-EARTH: COLLECTIBLE CARD GAME
 
-{: .text-center .text-beta }
+{: .text-center .text-beta .mb-4 }
 THE ONE RULEBOOK
 
-{: .text-center .mb-8 }
+{: .text-center .mb-6 }
 ***"Three types of the alignment of the players,  
 Seven of the sets and expansions of cards,  
 Nine of the Nazgul and Dragons,  
@@ -24,7 +24,52 @@ In the land of Middle-earth where the D-6 roll."***
 {: .text-center .text-gamma }
 CONTENTS
 
-| &emsp; [Introduction](#introduction)<br>&emsp;  [Using This Rulesbook](#using-this-rulesbook)<br>&emsp;  [Brief Player Turn Summary](#brief-player-turn-summary)<br>**Part I — The Starter Rules**<br>&emsp; [1 • The Victory Conditions](#1--the-victory-conditions)<br>&emsp; [2 • The Cards and Decks](#2--the-cards-and-decks)<br>&emsp; [3 • Getting Ready to Play](#3--getting-ready-to-play)<br>&emsp; [4 • The Player Turn](#4--the-player-turn)<br>&emsp; [5 • Characters & Companies](#5--characters--companies)<br>&emsp; [6 • Movement](#6--movement)<br>&emsp; [7 • Combat](#7--combat)<br>&emsp; [8 • Corruption](#8--corruption)<br>&emsp; [9 • Influence](#9--influence)<br>&emsp; [10 • Playing & Drawing Cards](#10--playing-and-drawing-cards)<br>**Part II — The Standard Rules**<br>&emsp; [1 • The Victory Conditions](#1--the-victory-conditions-1)<br>&emsp; [2 • The Cards and Decks](#2--the-cards-and-decks-1)<br>&emsp; [3 • Getting Ready to Play](#3--getting-ready-to-play-1)<br>&emsp; [4 • The Player Turn](#4--the-player-turn-1)<br>&emsp; [5 • Characters & Companies](#5--characters--companies-1)<br>&emsp; [6 • Movement](#6--movement-1)<br>&emsp; [7 • Combat](#7--combat-1)<br>&emsp; [8 • Corruption](#8--corruption-1) | &emsp; [9 • Influence](#9--influence-1)<br>&emsp; [10 • Playing & Drawing Cards](#10--playing-and-drawing-cards-1)  <br>**Part III — Optional Rules**<br>**Part IV — Using MELE With METW**<br>&emsp; [1 • The Victory Conditions](#1--the-victory-conditions-2)<br>&emsp; [2 • The Cards and Decks](#2--the-cards-and-decks-2)<br>&emsp; [3 • Getting Ready to Play](#3--getting-ready-to-play-2)<br>&emsp; [4 • The Player Turn](#4--the-player-turn-2)<br>&emsp; [5 • Characters & Companies](#5--characters--companies-2)<br>&emsp; [6 • Movement](#6--movement-2)<br>&emsp; [7 • Combat](#7combat)<br>&emsp; [8 • Corruption](#8--corruption-2)<br>&emsp; [9 • Influence](#9--influence-2)<br>&emsp; [10 • Playing & Drawing Cards](#10--playing-and-drawing-cards-2)<br>**Part V — The Appendices**<br>&emsp; [Card Diagrams](#card-diagrams)<br>&emsp; [Map of Middle-earth](#map-of-middle-earth)<br>&emsp; [Map Index](#map-index)<br>&emsp; [Conventions of Tournament Play](#conventions-of-tournament-play)<br>&emsp; [Glossary](#glossary)<br>&emsp; [Full Player Turn Summary](#full-player-turn-summary)<br>&emsp; [Symbol Key](#symbol-key)<br>&emsp; [Combat Modifications](#combat-modifications) |
+| contents | contents |
+
+## The Middle-earth CCG
+
+The _Middle-earth collectible card game_ was published by Iron Crown Enterprises (ICE), Charlottesville, Virginia USA between 1995 and 1998. It was printed as a two base sets (_The Wizards_ and _The Lidless Eye_) and five expansions (_The Dragons_, _Dark Minions_, _Against the Shadow_, _The White Hand_, and _The Balrog_). The _Middle-earth CCG_, _The Hobbit_, _The Lord of the Rings_, and all characters and places therein are trademark properties under the eye of the Dark Power that rules the License.
+
+### Introduction
+
+During the Third Age, Sauron the Dark Lord returned and threatened to enslave all of Middle-earth. Against Sauron's threat, the Valar sent five Maiar, known as "Wizards," to Middle-earth to unite and counsel the Free. These five were known as “Wizards” (also called Istari) in Middle-earth, and individually they were called: Gandalf, Saruman, Radagast, Alatar, and Pallando. 
+
+_Middle-earth: The Wizards_ lets you play one of these five Wizards. Your goal is to marshal the forces of the Free Peoples so that Sauron can be resisted until the One Ring is destroyed. 
+
+_Middle-earth: The Lidless Eye (MELE)_ lets you play one of Sauron's nine Ringwraiths, the Nazgul. Your goal is to marshal enough resources so that the Dark Lord will be confident enough to send you and your armies to launch the first blow necessary to crush the Free Peoples. 
+
+_Middle-earth: The White Hand_ lets you play as a "Fallen-wizard" corrupted by power. You pursue your own goals using both good and evil resources as you will use to achieve your ends.
+
+_Middle-earth: The Balrog_ lets you play as The Balrog. Your goals are basic and simple---accumulate power and destroy your enemies.
+
+### Alignment
+
+You may choose between three _alignments_ which determine the types of cards that may be included in your deck and the rules you follow: 
+- _Heroes of the Free People_---The Hero alignment includes Wizard players using hero characters and resources.
+- _Minions of Morgoth_---The Minion alignment includes Ringwraith, Sauron, and Balrog players using minion characters and resources.
+- _Lackeys of a Fallen-wizard_---The Fallen-wizard alignment includes Fallen-wizard players using both hero and minion characters and resources.
+
+The different alignments of cards have differen colorations which are described in [The Cards and The Decks](#cards-and-decks).
+
+While direct conflict can occur between the different alignments of companies, most conflict takes the form of _hazards_ or attempts to persuade or dominate each other's characters and forces. Hazards are not "controlled" by the Wizards or Ringwraiths, but rather they represent the evil or dangerous forces that are abroad in Middle-earth, which the players use against one another.
+
+#### Terminology and Rules Applicability
+
+The different alignments and different types of players in _Middle-earth CCG_ often use similar rules but with variations or exceptions. In this Rulesbook, the following terminology is used:
+- _Wizard player_---A player playing a _hero_ deck as a Wizard whether they _reveal_ themselves as a Wizard character card or not. 
+- _Ringwraith player_---A player playing a _minion_ deck as a Ringwraith, whether they _reveal_ themselves as a Ringwraith character card, or playing a _minion_ deck as Sauron through _The Lidless Eye_ card or the _Sauron_ card (i.e., a Sauron player is a Ringwraith player). 
+- _Fallen-wizard Player_---A player playing a _Fallen-wizard_ deck. Rather than revealing themselves by playing a Fallen-wizard character card, a Fallen-wizard player must reveal themselves before the game begins by declaring which Fallen-wizard they are playing as. Rules that apply to a Wizard players also apply to Fallen-wizard players with some exceptions. Rules that apply to Ringwraith players do not apply to Fallen-wizard players but certain rules for minion cards do. 
+- _Balrog player_---A player playing a _minion_ deck as The Balrog, whether they _reveal_ themselves as _The Balrog_ character card or not. Rules that apply to Ringwraith players also apply to Balrog players with some exceptions.
+
+### Differences From Other Card Games
+
+- Site cards and region cards represent the geography of Middle-earth. They are used to control the acquisition of resources, but they should not direct play. Instead, a player should examine the resources in his hand and then select a nearby site to travel to. Initially, do not worry too much about which site to use, just pick one that has the resource type you want to play. It also helps if you select the location cards you are most likely to use when you put together a play deck.
+- In _Middle-earth_ you will draw multiple cards each turn, and in some cases you will have to discard a number of cards each turn. Don't let this worry you, it's part of the flow of play. Just keep cards that are immediately useful during the next turn **or** that are crucial to your overall strategy (i.e., your primary resource acquisition strategy). 
+- _Middle-earth_ is less tactical and more strategic than some other CCGs. There is combat, but it is not the dominant focus of the game. The players in _Middle-earth_ are in direct competition with each other to marshal resources. However, only hazards directly attack the players' characters and they are handled in a less controlled fashion (e.g., they are only played during your opponent's movement/hazard phase, hazard creatures do not remain in play, etc.).
+- For timing purposes, all cards in _Middle-earth_ are played and tapped with the same "speed" (effects take place instantly). But, a player may only play resource cards during his own turn, and a player may only play hazard cards during his opponent's movement/hazard phase. The card, _Twilight_, is an exception to this rule—it can be played at anytime, either as a resource or as a hazard.
+- _Middle-earth_ uses the "hand-filling" card draw mechanic. Each player has a hand-size of 8 cards and both draw cards when each company moves. During a company's movement they can both play cards for or against that company. After, both players draw cards to fill their hand back to their hand-size of 8 cards. Any cards in excess of hand-size must be discarded. The players can also discard a card at the end-of-turn phase and then refill their hand. The more cards you play (or discard), the more cards you draw.
+- There is no numerical currency to use when paying to play resource cards in Middle-earth. Instead, costs are typically paid by tapping characters or by tapping or discarding resources. In addition, because the game uses hand-filling card draw, another typical cost is for the game play to match a particular situation given on an event card. A card cannot be played if it does not apply to a given situation and it cannot be discarded for no effect. Hazard cards typically require a particular situation but the play of hazard cards is also restricted by the hazard limit (typically equal to the company's size).
+
 
 # INTRODUCTION
 
