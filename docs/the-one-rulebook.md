@@ -26,32 +26,34 @@ CONTENTS
 
 | contents | contents |
 
-## The Middle-earth CCG
+# INTRODUCTION
 
 The _Middle-earth collectible card game_ was published by Iron Crown Enterprises (ICE), Charlottesville, Virginia USA between 1995 and 1998. It was printed as a two base sets (_The Wizards_ and _The Lidless Eye_) and five expansions (_The Dragons_, _Dark Minions_, _Against the Shadow_, _The White Hand_, and _The Balrog_). The _Middle-earth CCG_, _The Hobbit_, _The Lord of the Rings_, and all characters and places therein are trademark properties under the eye of the Dark Power that rules the License.
 
-### Introduction
+## OVERVIEW
 
-During the Third Age, Sauron the Dark Lord returned and threatened to enslave all of Middle-earth. Against Sauron's threat, the Valar sent five Maiar, known as "Wizards," to Middle-earth to unite and counsel the Free. These five were known as “Wizards” (also called Istari) in Middle-earth, and individually they were called: Gandalf, Saruman, Radagast, Alatar, and Pallando. 
+During the Third Age, Sauron the Dark Lord returned and threatened to enslave all of Middle-earth. Against Sauron's threat, the Valar sent five Wizards to Middle-earth to unite and counsel the Free People.
 
-_Middle-earth: The Wizards_ lets you play one of these five Wizards. Your goal is to marshal the forces of the Free Peoples so that Sauron can be resisted until the One Ring is destroyed. 
+_Middle-earth: The Wizards_ lets you play one of these five Wizards: Gandalf, Saruman, Radagast, Alatar, and Pallando. Your goal is to marshal the forces of the Free Peoples so that Sauron can be resisted until _The One Ring_ is destroyed. 
 
-_Middle-earth: The Lidless Eye (MELE)_ lets you play one of Sauron's nine Ringwraiths, the Nazgul. Your goal is to marshal enough resources so that the Dark Lord will be confident enough to send you and your armies to launch the first blow necessary to crush the Free Peoples. 
+_Middle-earth: The Lidless Eye (MELE)_ lets you play one of Sauron's nine Ringwraiths: the Witch-king of Angmar, Khamul the Easterling, and seven others. Your goal is to marshal enough resources so that the Dark Lord will be confident enough to send you and your armies to launch the first blow necessary to crush the Free Peoples. 
 
 _Middle-earth: The White Hand_ lets you play as a "Fallen-wizard" corrupted by power. You pursue your own goals using both good and evil resources as you will use to achieve your ends.
 
 _Middle-earth: The Balrog_ lets you play as The Balrog. Your goals are basic and simple---accumulate power and destroy your enemies.
 
+While direct conflict and attempts dominate can occur between the different alignments of companies, most conflict takes the form of _hazards_. Hazards are not "controlled" by the Wizard or Ringwraith players, but rather they represent the evil or dangerous forces that are abroad in Middle-earth, which the players use against one another.
+
+## USING THIS RULEBOOK
+
 ### Alignment
 
-You may choose between three _alignments_ which determine the types of cards that may be included in your deck and the rules you follow: 
-- _Heroes of the Free People_---The Hero alignment includes Wizard players using hero characters and resources.
-- _Minions of Morgoth_---The Minion alignment includes Ringwraith, Sauron, and Balrog players using minion characters and resources.
-- _Lackeys of a Fallen-wizard_---The Fallen-wizard alignment includes Fallen-wizard players using both hero and minion characters and resources.
+As a player you may choose between three _alignments_ which determine the types of cards that may be included in your deck and the rules you follow: 
+- _Heroes of the Free People_---A Hero player uses hero characters (light blue frame) and hero resources (copper frame) and may play as one of the five Wizards (different colored frames).
+- _Minions of Morgoth_---A Minion player uses minion characters (purple frame) and minion resources (dark blue frame) and may play as a Ringwraith (red frame), Sauron (using resource cards), or The Balrog (red frame).
+- _Fallen-wizard_---A Fallen-wizard player can use both hero and minion characters and hero and minion resources and may play as one of the five Fallen-wizards (different colored frames).
 
-The different alignments of cards have differen colorations which are described in [The Cards and The Decks](#cards-and-decks).
-
-While direct conflict can occur between the different alignments of companies, most conflict takes the form of _hazards_ or attempts to persuade or dominate each other's characters and forces. Hazards are not "controlled" by the Wizards or Ringwraiths, but rather they represent the evil or dangerous forces that are abroad in Middle-earth, which the players use against one another.
+The different alignments of cards have different colorations which are described in [The Cards and The Decks](#cards-and-decks).
 
 #### Terminology and Rules Applicability
 
@@ -67,21 +69,10 @@ The different alignments and different types of players in _Middle-earth CCG_ of
 - In _Middle-earth_ you will draw multiple cards each turn, and in some cases you will have to discard a number of cards each turn. Don't let this worry you, it's part of the flow of play. Just keep cards that are immediately useful during the next turn **or** that are crucial to your overall strategy (i.e., your primary resource acquisition strategy). 
 - _Middle-earth_ is less tactical and more strategic than some other CCGs. There is combat, but it is not the dominant focus of the game. The players in _Middle-earth_ are in direct competition with each other to marshal resources. However, only hazards directly attack the players' characters and they are handled in a less controlled fashion (e.g., they are only played during your opponent's movement/hazard phase, hazard creatures do not remain in play, etc.).
 - For timing purposes, all cards in _Middle-earth_ are played and tapped with the same "speed" (effects take place instantly). But, a player may only play resource cards during his own turn, and a player may only play hazard cards during his opponent's movement/hazard phase. The card, _Twilight_, is an exception to this rule—it can be played at anytime, either as a resource or as a hazard.
-- _Middle-earth_ uses the "hand-filling" card draw mechanic. Each player has a hand-size of 8 cards and both draw cards when each company moves. During a company's movement they can both play cards for or against that company. After, both players draw cards to fill their hand back to their hand-size of 8 cards. Any cards in excess of hand-size must be discarded. The players can also discard a card at the end-of-turn phase and then refill their hand. The more cards you play (or discard), the more cards you draw.
+- _Middle-earth_ uses a hand-filling card draw mechanic. Each player normally has a hand-size of 8 cards and both players draw cards when either player's company moves. During a company's movement they can both play cards for or against that company. After, both players draw cards to fill their hand back to their hand-size of 8 cards. Any cards in excess of hand-size must be discarded. The players can also discard a card at the end-of-turn phase and then refill their hand. The more cards you play (or discard), the more cards you draw.
 - There is no numerical currency to use when paying to play resource cards in Middle-earth. Instead, costs are typically paid by tapping characters or by tapping or discarding resources. In addition, because the game uses hand-filling card draw, another typical cost is for the game play to match a particular situation given on an event card. A card cannot be played if it does not apply to a given situation and it cannot be discarded for no effect. Hazard cards typically require a particular situation but the play of hazard cards is also restricted by the hazard limit (typically equal to the company's size).
 
-
-# INTRODUCTION
-
-During the Third Age, Sauron the Dark Lord returned and threatened to enslave all of Middle-earth. However, having been defeated and almost destroyed in the Second Age, Sauron hesitated—he wanted to restore himself to full power before starting his final assault on the Free Peoples. This meant he needed to marshal overwhelming tactical and strategic resources: and, if possible, he needed to recover the lost reservoir of his vast might, The One Ring.
-
-Sauron wanted to remain in the safety of Barad-Dur, in the center of his web of control. So his chief tools for gathering resources were his Ringwraiths the nine Nazgul. While Sauron could automatically exert control over any Nazgul, the Nazgul maintained a large amount of independence and free will—they were of little use to Sauron without it.
-
-In _Middle-earth: The Lidless Eye (MELE)_, you play one of these nine Ringwraiths, the Nazgul. Your goal is to marshal enough resources so that the Dark Lord will be confident enough to send you and your armies to launch the first blow necessary to crush the Free Peoples. Since your fellow Ringwraiths do not agree on how best to accomplish this goal (and of course none are as worthy as you), you must compete with them to be the first to gather enough forces to gain the Dark Lord's confidence. If your opponent has access to _Middle-earth: The Wizards_ (_METW_) cards, you will also be able to play a Ringwraith against a Wizard.
-
-In _The Lord of the Rings_, the Witch-king of Angmar was the first Ringwraith to succeed. Sauron dispatched him and his armies to destroy Gondor. However, due to a subtle twist of fate, he fell on the brink of victory, not against a "man" of great power, but against a woman (Eowyn) and a single Hobbit (Merry).
- 
-"Dangerous forces" in _Middle-earth: The Lidless Eye_ are represented by _hazards_ that the players use against one another. For example, if you move a character into the Lonely Mountain, your opponent could play a Dragon card as a hazard. These hazards are not "controlled" by the Ringwraiths, but rather they represent the dangerous forces that are abroad in Middle-earth, threatening everyone, good and evil characters alike. All Ringwraiths are working to bring Sauron to full power, so conflict takes the form of hazards and direct attempts to "persuade" or "dominate" each other and each other's characters and forces, rather than the form of direct conflict.
+-------------------------------------
  
 ## USING THIS RULESBOOK
  
