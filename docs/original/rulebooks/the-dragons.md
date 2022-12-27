@@ -143,6 +143,3 @@ J. Whitehouse, Jon Whitney, and Mark Wightman
 ANNOTATIONS
 
 The Rules Archive provides the original published text without modification from errata or official clarifications. However, they do have corrections to minor typographical, grammatical, clerical, and typesetting issues in the original text. Such corrections are not annotated. Anything in the original text that goes beyond a minor issue is left unaltered and described in these annotations.
-
-[^dragon-hoard-errata]: Rules Erratum: Dragon Rules, Hoards: Change “_Each site with a Dragon automatic-attack (i.e., each Dragon’s Lair) contains a hoard_” to “_Each site which had a Dragon automatic-attack at the beginning of the turn contains a hoard_.”
-[^dragon-multiple-strike-errata]: Rules Erratum: Dragons Rules, Characters Facing Multiple Strikes: Change "_are then considered to be canceled_" to "_are then considered to be successful_."
