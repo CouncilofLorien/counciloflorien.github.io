@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Dragons - Emended
+title: The Dragons
 parent: Emended Rules
 nav_order: 2
 permalink: /emended/metd-emended/
