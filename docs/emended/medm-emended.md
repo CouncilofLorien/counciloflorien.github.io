@@ -8,6 +8,9 @@ permalink: /emended/medm-emended/
 
 # MIDDLE-EARTH: DARK MINIONS
 
+{: .text-center .text-beta }
+EMENDED RULESBOOK
+
 This insert provides expansion rules and clarifications for use with all _Middle-earth Collectible Card Game_ (_MECCG_) products.
 
 {: .note-dk }
