@@ -22,7 +22,7 @@ Cards placed off to the side are in play for the purposes of uniqueness. Unless 
 
 ### HOARDS
 
-Certain items are _hoard_ items. Such an item may only be played at a site that contains a hoard. Each site with a Dragon automatic-attack (i.e., each Dragon's lair) contains a hoard.[^hoard] A hoard minor item may not be included with a starting company, and may not be played at a site that does not contain a hoard.
+Certain items are _hoard_ items. Such an item may only be played at a site that contains a hoard. Each site with a Dragon automatic-attack (i.e., each Dragon's lair) contains a hoard. A hoard minor item may not be included with a starting company, and may not be played at a site that does not contain a hoard.
 
 {: .note-dk }
 > **Example:** You can not play a hoard minor item at Mount Gram after successfully influencing the _Orcs of Angmar_ like you can with a normal minor item. Mount Gram does not contain a board.
@@ -33,7 +33,7 @@ Normally, a company moving with region movement may lay down a maximum of four r
 
 ### CHARACTERS FACING MULTIPLE STRIKES
 
-Certain effects allow a character to be assigned more than one strike from a given attack. Such a character must face a strike sequence for each strike he is assigned to face. If a character is tapped or wounded following one of these strike sequences, he must then accordingly modify his prowess for any following strike sequences. If a character is eliminated or otherwise removed from play before he has faced all of his assigned strikes, those strikes he has yet to face are then considered to be canceled[^successful] (i.e., they have no further effect).
+Certain effects allow a character to be assigned more than one strike from a given attack. Such a character must face a strike sequence for each strike he is assigned to face. If a character is tapped or wounded following one of these strike sequences, he must then accordingly modify his prowess for any following strike sequences. If a character is eliminated or otherwise removed from play before he has faced all of his assigned strikes, those strikes he has yet to face are then considered to be canceled (i.e., they have no further effect).
 
 ### CREATURES AS AUTOMATIC-ATTACKS
 
@@ -76,10 +76,7 @@ Each adjacent site is followed by a number in parentheses—this number indicate
 ---
 
 {: .text-center .text-gamma }
-ANNOTATIONS
+NOTES
 
-The Rules Archive provides the original published text without modification from errata or official clarifications. However, they do have corrections to minor typographical, grammatical, clerical, and typesetting issues in the original text. Such corrections are not annotated. Anything in the original text that goes beyond a minor issue is left unaltered and described in these annotations.
-
-[^hoard]: On 29 June 1998 the [Hoards](/rules-archive/the-dragons#hoards) rule in _The Dragons_ received errara but this corresponding rule in _Against the Shadow_ did not receive the same errata. However, this rule change should be recognized here as well.
-[^successful]: On 29 June 1998 the [Characters Facing Multiple Strikes](/rules-archive/the-dragons#characters-facing-multiple-strikes) rule in _The Dragons_ received errara but this corresponding rule in _Against the Shadow_ did not receive the same errata. However, this rule change should be recognized here as well.
+These Original Rules provide the original published text without modification from errata or official clarifications. However, they do have corrections to minor typographical, grammatical, clerical, and typesetting issues in the original text. Such corrections are not annotated. Any correction beyond a minor issue would be left unaltered and described in an annotation.
 
