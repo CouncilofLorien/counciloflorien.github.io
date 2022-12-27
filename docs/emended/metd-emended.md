@@ -2,8 +2,8 @@
 layout: default
 title: The Dragons
 parent: Emended Rules
-nav_order: 2
-permalink: /emended/metd-emended/
+nav_order: 3
+permalink: /emended/the-dragons/
 ---
 
 # MIDDLE-EARTH: THE DRAGONS
