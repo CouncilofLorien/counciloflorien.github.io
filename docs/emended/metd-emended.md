@@ -147,9 +147,9 @@ Normally, a company moving with region movement may lay down a maximum of four r
 {: .note }
 > **Notice:** _Burglary_ states: "If the attempt fails, the character must face all automatic-attacks **alone**." 
 > 
-> **Definition:** "Alone" means "having no one else present" and "having no help or participation from others."
+> **Definition: alone ▶ adj. & adv. 1** on one's own; by one's self. ◾ isolated and lonely. **2** only; exclusively. 
 > 
-> **Comment:** A character facing an attack "alone" means that the character must face the automatic-attack as though he were a one-character company, as stated in the "Rulings by Term, Burglary Attempts." This also means that the other characters in the company are not considered to have "faced" the attack (for purposes of _Dark Numbers_, etc.) nor would they be considered to have "defeated" the attack (for purposes of _King Under the Mountain_, etc.) if it were defeated.
+> **Comment:** A character facing an attack "alone" means that the character must face the automatic-attack as though he were a one-character company, as stated in the "Rulings by Term, Burglary Attempts." This also means that the other characters in the company are not considered to have "faced" the attack (for purposes of _Dark Numbers_, etc.) nor would they be considered to have "defeated" the attack (for purposes of _King Under the Mountain_, etc.) if it were defeated because the character facing the attack did it on their own. The other characters were excluded.
 
 #### Cruel Caradhras
  - _Card Erratum_: Replace "Minas Morgul" with "Imlad Morgul."
@@ -157,6 +157,9 @@ Normally, a company moving with region movement may lay down a maximum of four r
 
 {: .note }
 > **Notice:** The most recent printing (_Challenge Deck_) of _Cruel Caradhras_ states: "***Playable on a company using region movement to move though (not stopping at a site therein) or leave one of the following regions:*** High Pass, Redhorn Gate, Angmar, Gundabad, Grey Mountain Narrows, or Imlad Morgul. Each character in target company must face one strike (not an attack) of 8 prowesss which cannot be canceled. Any resulting body check is modified by +1." 
+
+#### Deftness of Agility
+ - The extra strike is dealt with in a separate strike sequence.
 
 ---
 
