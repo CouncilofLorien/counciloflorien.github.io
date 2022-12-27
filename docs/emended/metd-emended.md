@@ -33,7 +33,7 @@ Daelomin  |  Dancing Spire | Withered Heath
 Earcaraxe  | Isle of the Ulond  |  Andrast Coast
 Itangast |  Gold Hill  | Withered Heath
 Leucaruth  | Irerock  |  Withered Heath
-Scatha  |  Gondmaeglom  |  Grey Moumain Narrows
+Scatha  |  Gondmaeglom  |  Grey Mountain Narrows
 Scorba  | Zarak Dum  | Angmar
 Smaug  |  The Lonely Mountain  |  Northern Rhovanion
 
@@ -57,7 +57,7 @@ Each of the nine unique Dragons (see above) has ~~three~~ <ins>four</ins> differ
 
 **At Home** — In this manifestation a Dragon is considered to be resident in his lair. Each of these manifestations is represented by a hazard permanent-event that gives its lair an additional automatic-attack and causes certain other global effects (e.g., _Scorba At Home_ gives Zarak Dum an additional automatic-attack and each major item gives an additional corruption point).
 
-<ins>**Roused** (from _MELE_ and _MEAS_) — In this manifestation a Dragon is considered to have joined forces with a player. Each of these manifestations is represented by a minion faction resource that gives marshalling points and will attack an opponent's companies moving in the same set of regions as the Ahunt manifestation normally attacks.</ins>
+**Roused** (from _MELE_ and _MEAS_) — <ins>In this manifestation a Dragon is considered to have joined forces with a player. Each of these manifestations is represented by a minion faction resource that gives marshalling points and will attack an opponent's companies moving in the same set of regions as the Ahunt manifestation normally attacks.</ins>
 
 Different manifestations of the same Dragon may be in play at the same time. The fact that each manifestation is unique unto itself does not preclude the other manifestations.
 
@@ -69,6 +69,8 @@ Only your opponent can receive marshalling points from defeating a manifestation
 > **Clarification:** <ins>If a Ringwraith player defeats an attack from a Dragon faction, remove the Dragon from play. That player does not receive its marshalling points.</ins>
 > 
 > **Clarification:** <ins>If a hero company defeats an attack by a Ringwraith’s Dragon faction, the hero player receives its marshalling points as kill marshalling points.</ins>
+> 
+> **See:** <ins>[_MELE_, Standard Rules, Combat, Trophies](/original/rulebooks/the-lidless-eye/#trophies): Defeated Dragon manifestations can be used as trophies, including Dragon factions.</ins>
 
 If at any time an attack from a manifestation of a unique Dragon is defeated or if the manifestation is otherwise removed from the game:
 
@@ -76,7 +78,7 @@ If at any time an attack from a manifestation of a unique Dragon is defeated or 
  - No further manifestations of the same Dragon may be played.
  - The Dragon's lair no longer has an automatic-attack.
 
-{: .note-dk }
+{: .note }
 > **Example:** You have played _Smaug at Home_ and _Smaug Ahunt_ (both are still in play). Then you play _Dragon's Desolation_ and _Smaug_ on one of your opponent's companies at Weathertop. Your opponent plays _Old Thrush_, rolls lucky, and defeats _Smaug_. He gets 5 MPs for defeating _Smaug_ **and** _Smaug_, _Smaug at Home_, and _Smaug Ahunt_ are all removed from play **and** The Lonely Mountain (Smaug's lair) no longer has an automatic-attack. 
 > 
 > If, instead, one of your own companies had gone to The Lonely Mountain and defeated _Smaug at Home_, you would not receive the 5 MPs.
@@ -89,11 +91,17 @@ The base hazard limit is determined (i.e., set) simultaneously at the moment a c
 
 When certain _Middle-earth: The Dragons_ cards are played, a character may be assigned to receive more than one strike from a given attack. Such a character must face a strike sequence for each strike he is assigned to face. If a character is tapped or wounded following one of these strike sequences, he must then accordingly modify his prowess for any following strike sequences. ~~If a character is eliminated or otherwise removed from play before he has faced all of his assigned strikes, those strikes he has yet to face are then considered to be cancelled (i.e., they have no further effect).~~ <ins>If a character is eliminated or otherwise removed from play before he has faced all of his assigned strikes, those strikes he has yet to face are then considered to be _successful_.</ins>
 
+{: .note }
+> **Clarification:** <ins>If an attack states all characters in a company face a strike, then effects which allow a character to face more than one strike have no effect against the attack. Similarly, effects that change the attack’s number of strikes have no effect. As an exception, effects which reduce the number of strikes to a specific number do work.</ins>
+
 ### REMOVING CORRUPTION CARDS
 
 A character may choose to ignore the restriction that he tap to remove a corruption card (as printed on a corruption card), and suffer a -3 penalty to the dice roll to remove it. This means a character can remain untapped and still attempt to remove a corruption card (the roll is modified by -3), **or** that he can attempt to remove a corruption card even if he is already tapped or wounded (the roll is modified by -3). 
 
 A character may only attempt to remove each corruption card once per turn if he ignores the tapping restriction to do so.
+
+{: .note }
+> **Clarification:** <ins>A character attempting to remove a corruption card on another character may ignore the tapping requirement and recieve -3 to the roll.</ins>
 
 {: .note-dk }
 > **Example:** During his organization phase, Beorn has 3 corruption cards: _Lure of Nature_, _Lure of Expedience_, and _Lure of the Senses_. He taps and rolls to attempt to remove the _Lure of the Senses_; his roll is an 8, so the card is removed (greater than 6 was required). If, instead, Beorn had not tapped for this attempt, he would have failed (he would have needed to roll a 10 or better). He then rolls to attempt to remove _Lure of Nature_; his roll is a 6 modified by -3 for a net result of 3, so the card is **not** removed (greater than 4 was required). Finally, he rolls to attempt to remove _Lure of Expedience_; his roll is a 9 modified by -3 for a net result of 6, so the card is removed (greater than 5 was required). 
@@ -102,11 +110,53 @@ A character may only attempt to remove each corruption card once per turn if he 
 
 With the publication of _Middle-earth: The Dragons_, the number of different resource and hazard strategies increases dramatically. To enable players to react to more specific strategies during play, the sideboard size is increased by five (e.g., from 15 to 20 for the 1-deck and 2-deck games, from 20 to 25 for the 3-deck game, etc.).
 
-At the end of yonr opponent's untap phase, if your opponent's Wizard is in play, you may at this point bring up to five hazard cards from your sideboard to your discard pile; **or**, if your play deck has at least 5 cards, you may bring one hazard card directly from your sideboard into your play deck (reshuffle). If you move cards from your sideboard in this fashion, the hazard limit for each of your opponent's companies is reduced to half of normal (round up, e.g., a hazard limit of 2 becomes l, a hazard limit of 3 becomes 2, etc.).
+{: .note }
+> **Clarification:** <ins>With the later set _Middle-earth: The White Hand_, the sideboard size is further increased to:</ins>
+> - <ins>30 cards for the 1-deck game and the 2-deck game.</ins>
+> - <ins>35 cards for the 3-deck game.</ins>
+> - <ins>40 cards for the 4-deck game.</ins>
+
+At the end of your opponent's untap phase, if your opponent's Wizard is in play, you may at this point bring up to five hazard cards from your sideboard to your discard pile; **or**, if your play deck has at least 5 cards, you may bring one hazard card directly from your sideboard into your play deck (reshuffle). If you move cards from your sideboard in this fashion, the hazard limit for each of your opponent's companies is reduced to half of normal (round up, e.g., a hazard limit of 2 becomes l, a hazard limit of 3 becomes 2, etc.).
 
 ### REGION MOVEMENT LIMITATION
 
 Normally, a company moving with region movement may lay down a maximum of four region cards. If a company moving with region movement is using effects that allows additional region cards to be laid down, no more than six regions may be used.
+
+---
+
+# _METD_ CARD ERRATA AND CLARIFICATIONS
+
+#### A Short Rest
+ - This card only allows the extra card draw for moving companies that actually have a site path. It cannot be used with Under-deeps movement, or special movement cards like _Belegaer_.
+
+{: .note }
+> **Comment:** This clarification is partly incorrect. _A Short Rest_ ***can*** be used with _Belegaer_ because a company moving using _Belegaer_ **does** have a site path. _Belegaer_ specifically states: "the site path is \[![](/assets/images/coastalsea.svg)![](/assets/images/coastalsea.svg)![](/assets/images/coastalsea.svg)\]." A company using _Belegaer_ has three coastal-sea regions in its site path and may draw 1 extra cards by the effect of _A Short Rest_. In fact, most special movement cards either provide the company with a site path (_Belegaer_, _Forod_, _Harad_, and _Rhun_) or they require a company to play region cards which provide the company's site path (_Anduin River_, _Ash Mountains_, _Misty Mountains_, _Mountains of Shadow_, and _White Mountains_). 
+> 
+> There appears to have been an oversight as this clarification was changed later on without being marked as a change changed (with -= =- markings).
+> - [CRF 2](/original/rulings/crf-2/#a-short-rest), the original ruling, stated: "-=- This card only allows the extra card draw for moving companies that actually have a site path. If a company moves with Eagle-mounts, for example, it does not have a site path and does not trigger A Short Rest. Thank you, Wolfgang, for illustrating this point. -=-"
+> - [CRF 7](/original/rulings/crf-7/) states: "This card only allows the extra card draw for moving companies that actually have a site path."
+> - [CRF 8](/original/rulings/crf-8/#a-short-rest) states: "This card only allows the extra card draw for moving companies that actually have a site path. It cannot be used with Under-deeps movement, or special movement cards like Belegaer." 
+
+#### Burglary
+ - If you fail the roll for _Burglary_, you cannot then play an item.
+ - See also Rulings by Term, Burglary Attempts.
+      - After a successful burglary attempt, another character may tap to play a minor item.
+      - The character who fails the burglary roll must face the automatic-attack as though he were a one-character company. He can receive no combat support other than what he himself can provide.
+      - On-guard creatures are faced by the whole company after a Burglaring attempt, regardless of the success of the attempt.
+
+{: .note }
+> **Notice:** _Burglary_ states: "If the attempt fails, the character must face all automatic-attacks **alone**." 
+> 
+> **Definition:** "Alone" means "having no one else present" and "having no help or participation from others."
+> 
+> **Comment:** A character facing an attack "alone" means that the character must face the automatic-attack as though he were a one-character company, as stated in the "Rulings by Term, Burglary Attempts." This also means that the other characters in the company are not considered to have "faced" the attack (for purposes of _Dark Numbers_, etc.) nor would they be considered to have "defeated" the attack (for purposes of _King Under the Mountain_, etc.) if it were defeated.
+
+#### Cruel Caradhras
+ - _Card Erratum_: Replace "Minas Morgul" with "Imlad Morgul."
+ - This card can be played on a company using region movement to leave a site in an affected region.
+
+{: .note }
+> **Notice:** The most recent printing (_Challenge Deck_) of _Cruel Caradhras_ states: "***Playable on a company using region movement to move though (not stopping at a site therein) or leave one of the following regions:*** High Pass, Redhorn Gate, Angmar, Gundabad, Grey Mountain Narrows, or Imlad Morgul. Each character in target company must face one strike (not an attack) of 8 prowesss which cannot be canceled. Any resulting body check is modified by +1." 
 
 ---
 
