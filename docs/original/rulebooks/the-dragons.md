@@ -94,8 +94,6 @@ At the end of yonr opponent's untap phase, if your opponent's Wizard is in play,
 
 Normally, a company moving with region movement may lay down a maximum of four region cards. If a company moving with region movement is using effects that allows additional region cards to be laid down, no more than six regions may be used.
 
-[^sideboard]: The sideboard size was increased several times over the game's life. The final increase came with _Middle-earth: The White Hand_ which increased the sideboard to 30 cards for 1-deck and 2-deck games.
-
 ---
 
 # MANY A GLEAMING GOLDEN HOARD
