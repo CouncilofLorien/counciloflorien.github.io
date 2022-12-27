@@ -57,7 +57,7 @@ Each of the nine unique Dragons (see above) has four[^four-manifestations] diffe
 
 **At Home** — In this manifestation a Dragon is considered to be resident in his lair. Each of these manifestations is represented by a hazard permanent-event that gives its lair an additional automatic-attack and causes certain other global effects (e.g., _Scorba At Home_ gives Zarak Dum an additional automatic-attack and each major item gives an additional corruption point).
 
-**Roused** (from _MELE_ and _MEAS_) — In this manifestation a Dragon is considered to have joined forces with a player. Each of these manifestations is represented by a minion faction resource that gives marshalling points and will attack an opponent's companies moving in the same set of regions as the Ahunt manifestation normally attacks.[^roused]
+**Roused**[^roused] (from _MELE_ and _MEAS_) — In this manifestation a Dragon is considered to have joined forces with a player. Each of these manifestations is represented by a minion faction resource that gives marshalling points and will attack an opponent's companies moving in the same set of regions as the Ahunt manifestation normally attacks.
 
 Different manifestations of the same Dragon may be in play at the same time. The fact that each manifestation is unique unto itself does not preclude the other manifestations.
 
