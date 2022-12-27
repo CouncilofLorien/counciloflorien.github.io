@@ -245,3 +245,8 @@ When you play a Nazgul, you must decide whether it is being played as a creature
 If played as a permanent-event, it remains in play until it is tapped to use its special ability. Tapping a Nazgul permanent-event counts as playing a hazard for all purposes (i.e., hazard limit, targeting restrictions, etc.).
 
 ---
+
+{: .text-center .text-gamma }
+NOTES
+
+These Original Rules provide the original published text without modification from errata or official clarifications. However, they do have corrections to minor typographical, grammatical, clerical, and typesetting issues in the original text. Such corrections are not annotated. Any correction beyond a minor issue would be left unaltered and described in an annotation.
