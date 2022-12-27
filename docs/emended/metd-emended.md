@@ -55,11 +55,17 @@ Each of the nine unique Dragons (see above) has four[^four-manifestations] diffe
 
 **Ahunt** — In this manifestation a Dragon is considered to be hunting in a wide range of regions. Each of these manifestations is represented by a hazard long-event that will attack any company moving in a given set of regions (e.g., _Smaug Ahunt_ normally causes an attack against any company moving in Withered Heath, Northern Rhovanion, Iron Hills, and/or Grey Mountain Narrows).
 
+{: .note }
+> If one Ahunt is out and your company moves through two or more of the regions listed on it, then you face the attack once.[^crf-terms-ahunt]
+
 **At Home** — In this manifestation a Dragon is considered to be resident in his lair. Each of these manifestations is represented by a hazard permanent-event that gives its lair an additional automatic-attack and causes certain other global effects (e.g., _Scorba At Home_ gives Zarak Dum an additional automatic-attack and each major item gives an additional corruption point).
 
 **Roused**[^roused] (from _MELE_ and _MEAS_) — In this manifestation a Dragon is considered to have joined forces with a player. Each of these manifestations is represented by a minion faction resource that gives marshalling points and will attack an opponent's companies moving in the same set of regions as the Ahunt manifestation normally attacks.
 
 Different manifestations of the same Dragon may be in play at the same time. The fact that each manifestation is unique unto itself does not preclude the other manifestations.
+
+{: .note }
+> **Notice:** Dragon manifestations have an exception to the [MANIFESTATION rules in _Dark Minions_](/original/rulebooks/dark-minions/#manifestations): Different manifestations of the same unique Dragon may be in play at the same time.
 
 Only your opponent can receive marshalling points from defeating a manifestation of a Dragon that you played. If you defeat a Dragon manifestation that you played, it is removed from the game and no one receives its marshalling points. 
 
@@ -171,6 +177,7 @@ NOTES
 These Emended Rules provide the original published text with emendations from errata and official clarifications. Such emendations are annotated. The rules also include corrections to minor typographical, grammatical, clerical, and typesetting issues in the original text. Such corrections are not marked or annotated. Any correction beyond a minor issue would be annotated.
 
 [^capture]: There is no _Capture_ keyword in _MECCG_.
+[^crf-terms-ahunt]: See [CRF 15, Rulings by Term, Ahunt Manifestations](/original/rulings/crf-15/#ahunt-manifestations)
 [^crf-terms-dragons]: See [CRF 15, Rulings by Term, Dragons](/original/rulings/crf-15/#dragons)
 [^dragon-hoard-errata]: Rules Erratum: Dragon Rules, Hoards: Change “_Each site with a Dragon automatic-attack (i.e., each Dragon’s Lair) contains a hoard_” to “_Each site which had a Dragon automatic-attack at the beginning of the turn contains a hoard_.”
 [^dragon-multiple-strike-errata]: Rules Erratum: Dragons Rules, Characters Facing Multiple Strikes: Change "_are then considered to be canceled_" to "_are then considered to be successful_."
