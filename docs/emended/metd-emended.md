@@ -42,14 +42,14 @@ Smaug  |  The Lonely Mountain  |  Northern Rhovanion
 
 ### HOARDS
 
-Certain items are _hoard items_. Such an item may only be played at a site that contains a hoard. ~~Each site with a Dragon automatic-attack (i.e., each Dragon's lair) contains a hoard.~~ <ins>Each site which had a Dragon automatic-attack at the beginning of the turn contains a hoard.</ins> A hoard minor item may not be included with a starting company, and may not be played at a site that does not contain a hoard.
+Certain items are _hoard items_. Such an item may only be played at a site that contains a hoard. Each site which had a Dragon automatic-attack at the beginning of the turn contains a hoard.[^dragon-hoard-errata] A hoard minor item may not be included with a starting company, and may not be played at a site that does not contain a hoard.
 
 {: .note-dk }
 > **Example:** You can not play a hoard minor item at Wellinghall after successfully influencing the _Ents of Fangorn_ like you can with a normal minor item. Wellinghall does not contain a hoard.
 
 ### MANIFESTATIONS OF DRAGONS
 
-Each of the nine unique Dragons (see above) has ~~three~~ <ins>four</ins> different _manifestations_:
+Each of the nine unique Dragons (see above) has four[^four-manifestations] different _manifestations_:
 
 **Basic** — In this manifestation a Dragon is in his standard active mode. Each of these manifestations is represented by a standard creature card (e.g., the cards for Smaug, Agburanar, Daelomin, and Leucaruth from _METW_).
 
@@ -57,7 +57,7 @@ Each of the nine unique Dragons (see above) has ~~three~~ <ins>four</ins> differ
 
 **At Home** — In this manifestation a Dragon is considered to be resident in his lair. Each of these manifestations is represented by a hazard permanent-event that gives its lair an additional automatic-attack and causes certain other global effects (e.g., _Scorba At Home_ gives Zarak Dum an additional automatic-attack and each major item gives an additional corruption point).
 
-**Roused** (from _MELE_ and _MEAS_) — <ins>In this manifestation a Dragon is considered to have joined forces with a player. Each of these manifestations is represented by a minion faction resource that gives marshalling points and will attack an opponent's companies moving in the same set of regions as the Ahunt manifestation normally attacks.</ins>
+**Roused** (from _MELE_ and _MEAS_) — In this manifestation a Dragon is considered to have joined forces with a player. Each of these manifestations is represented by a minion faction resource that gives marshalling points and will attack an opponent's companies moving in the same set of regions as the Ahunt manifestation normally attacks.[^roused]
 
 Different manifestations of the same Dragon may be in play at the same time. The fact that each manifestation is unique unto itself does not preclude the other manifestations.
 
@@ -89,10 +89,10 @@ The base hazard limit is determined (i.e., set) simultaneously at the moment a c
 
 ### CHARACTERS FACING MULTIPLE STRIKES
 
-When certain _Middle-earth: The Dragons_ cards are played, a character may be assigned to receive more than one strike from a given attack. Such a character must face a strike sequence for each strike he is assigned to face. If a character is tapped or wounded following one of these strike sequences, he must then accordingly modify his prowess for any following strike sequences. ~~If a character is eliminated or otherwise removed from play before he has faced all of his assigned strikes, those strikes he has yet to face are then considered to be cancelled (i.e., they have no further effect).~~ <ins>If a character is eliminated or otherwise removed from play before he has faced all of his assigned strikes, those strikes he has yet to face are then considered to be _successful_.</ins>
+When certain _Middle-earth: The Dragons_ cards are played, a character may be assigned to receive more than one strike from a given attack. Such a character must face a strike sequence for each strike he is assigned to face. If a character is tapped or wounded following one of these strike sequences, he must then accordingly modify his prowess for any following strike sequences. If a character is eliminated or otherwise removed from play before he has faced all of his assigned strikes, those strikes he has yet to face are then considered to be _successful_.[^dragon-multiple-strike-errata]
 
 {: .note }
-> **Clarification:** <ins>If an attack states all characters in a company face a strike, then effects which allow a character to face more than one strike have no effect against the attack. Similarly, effects that change the attack’s number of strikes have no effect. As an exception, effects which reduce the number of strikes to a specific number do work.</ins>
+> **Clarification:** If an attack states all characters in a company face a strike, then effects which allow a character to face more than one strike have no effect against the attack. Similarly, effects that change the attack’s number of strikes have no effect. As an exception, effects which reduce the number of strikes to a specific number do work.
 
 ### REMOVING CORRUPTION CARDS
 
@@ -101,7 +101,7 @@ A character may choose to ignore the restriction that he tap to remove a corrupt
 A character may only attempt to remove each corruption card once per turn if he ignores the tapping restriction to do so.
 
 {: .note }
-> **Clarification:** <ins>A character attempting to remove a corruption card on another character may ignore the tapping requirement and recieve -3 to the roll.</ins>
+> **Clarification:** A character attempting to remove a corruption card on another character may ignore the tapping requirement and recieve -3 to the roll.[^remove-another-characters-corruption]
 
 {: .note-dk }
 > **Example:** During his organization phase, Beorn has 3 corruption cards: _Lure of Nature_, _Lure of Expedience_, and _Lure of the Senses_. He taps and rolls to attempt to remove the _Lure of the Senses_; his roll is an 8, so the card is removed (greater than 6 was required). If, instead, Beorn had not tapped for this attempt, he would have failed (he would have needed to roll a 10 or better). He then rolls to attempt to remove _Lure of Nature_; his roll is a 6 modified by -3 for a net result of 3, so the card is **not** removed (greater than 4 was required). Finally, he rolls to attempt to remove _Lure of Expedience_; his roll is a 9 modified by -3 for a net result of 6, so the card is removed (greater than 5 was required). 
@@ -168,10 +168,11 @@ J. Whitehouse, Jon Whitney, and Mark Wightman
 {: .text-center .text-gamma }
 NOTES
 
-These Emended Rules provide the original published text with emendations from errata and official clarifications. Such emendations are marked by ~~strikingthrough~~ the original text and <ins>underlining</ins> the new text. The rules also include corrections to minor typographical, grammatical, clerical, and typesetting issues in the original text. Such corrections are not marked or annotated. Any correction beyond a minor issue would be marked as an emendation.
+These Emended Rules provide the original published text with emendations from errata and official clarifications. Such emendations are annotated. The rules also include corrections to minor typographical, grammatical, clerical, and typesetting issues in the original text. Such corrections are not marked or annotated. Any correction beyond a minor issue would be annotated.
 
 [^capture]: There is no _Capture_ keyword in _MECCG_.
-
 [^dragon-hoard-errata]: Rules Erratum: Dragon Rules, Hoards: Change “_Each site with a Dragon automatic-attack (i.e., each Dragon’s Lair) contains a hoard_” to “_Each site which had a Dragon automatic-attack at the beginning of the turn contains a hoard_.”
 [^dragon-multiple-strike-errata]: Rules Erratum: Dragons Rules, Characters Facing Multiple Strikes: Change "_are then considered to be canceled_" to "_are then considered to be successful_."
-[^sideboard]: The sideboard size was increased several times over the game's life. The final increase came with _Middle-earth: The White Hand_ which increased the sideboard to 30 cards for 1-deck and 2-deck games.
+[^four-manifestations]: With the _Roused_ Dragon factions there are now four manifestations of dragons, not three.
+[^roused]: The _Roused_ dragon manifestations were introduced in _Middle-earth: The Lidless Eye_. See also [CRF 15, Rulings by Term, Dragons](/original/rulings/crf-15/#dragons).
+[^remove-another-characters-corruption]: See also [CRF 15, Rulings by Term, Corruption](/original/rulings/crf-15/#corruption): A character attempting to remove a corruption card on another character may ignore the tapping requirement and recieve -3 to the roll.
