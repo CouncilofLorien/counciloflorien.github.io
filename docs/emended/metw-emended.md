@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Wizards - Emended
+title: The Wizards
 parent: Emended Rules
 nav_order: 1
 permalink: /emended/metw-emended/
