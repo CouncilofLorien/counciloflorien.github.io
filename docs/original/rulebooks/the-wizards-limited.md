@@ -1010,9 +1010,9 @@ _Address rules questions and comments via email to metwice@aol.com or via snail 
 ---
 
 {: .text-center .text-gamma }
-ANNOTATIONS
+NOTES
 
-The Rules Archive provides the original published text without modification from errata or official clarifications. However, they do have corrections to minor typographical, grammatical, clerical, and typesetting issues in the original text. Such corrections are not annotated. Anything in the original text that goes beyond a minor issue is left unaltered and described in these annotations.
+These Original Rules provide the original published text without modification from errata or official clarifications. However, they do have corrections to minor typographical, grammatical, clerical, and typesetting issues in the original text. Such corrections are not annotated. Any correction beyond a minor issue would be left unaltered and described in an annotation.
 
 [^specialrules]: The Table of Contents includes a reference to "Special Rules for Character Death" but this section of rules does not appear in the rulesbook.
 [^bar]: This web version of the rules is not marked with bars. See the printed _The Wizards Limited_ Rulesbook.
