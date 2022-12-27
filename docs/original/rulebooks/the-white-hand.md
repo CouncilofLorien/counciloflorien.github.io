@@ -255,6 +255,6 @@ In the general opponent format, you must reveal the identity of your Fallen-wiza
 ---
 
 {: .text-center .text-gamma }
-ANNOTATIONS
+NOTES
 
-The Rules Archive provides the original published text without modification from errata or official clarifications. However, they do have corrections to minor typographical, grammatical, clerical, and typesetting issues in the original text. Such corrections are not annotated. Anything in the original text that goes beyond a minor issue is left unaltered and described in these annotations.
+These Original Rules provide the original published text without modification from errata or official clarifications. However, they do have corrections to minor typographical, grammatical, clerical, and typesetting issues in the original text. Such corrections are not annotated. Any correction beyond a minor issue would be left unaltered and described in an annotation.
