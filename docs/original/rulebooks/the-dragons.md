@@ -46,8 +46,7 @@ Certain items are _hoard items_. Such an item may only be played at a site that 
 
 Each of the nine unique Dragons (see above) has three different _manifestations_:
 
-**Basic** — In this manifestation a Dragon is in his standard active mode. Each of these manifestations is represented by a standard creature
-card (e.g., the cards for Smaug, Agburanar, Daelomin, and Leucaruth from _METW_).
+**Basic** — In this manifestation a Dragon is in his standard active mode. Each of these manifestations is represented by a standard creature card (e.g., the cards for Smaug, Agburanar, Daelomin, and Leucaruth from _METW_).
 
 **Ahunt** — In this manifestation a Dragon is considered to be hunting in a wide range of regions. Each of these manifestations is represented by a hazard long-event that will attack any company moving in a given set of regions (e.g., _Smaug Ahunt_ normally causes an attack against any company moving in Withered Heath, Northern Rhovanion, Iron Hills, and/or Grey Mountain Narrows).
 
