@@ -1,10 +1,15 @@
 ---
 layout: default
-title: Annotated CRF
-nav_exclude: true
+title: Emended CRF
+parent: Emended Rules
+nav_order: 1
+permalink: /emended/crf/
 ---
 
-# Annotated CRF
+# Collected Rulings File
+
+{: .text-center .text-beta }
+EMENDED RULINGS
 
 The Collected Rulings File (CRF) for the _Middle-earth: Collectible Card Game_ includes clarifications and errata. A common misconception is that only _errata_ could change how the game played and that _clarifications_ were merely explanations. This miconception is dispelled by ICE's own description of these terms from the _Companion_ books: _If a card or rule lists an errata, it means that the text of the card is wrong or incomplete. If a card or rule lists clarification, it means the text could be ambiguous._ Both clarifications and errata can change how a card or rule work, but errata changes the wording while a clarification explains or adds to the existing wording without changing it. Given that too much errata had been the death of other CCGs at the time, ICE was obstinant against issuing "errata."
 
@@ -911,7 +916,7 @@ Tournament rulings are modifications and additions to the rules presented in the
       - The character who fails the burglary roll must face the automatic-attack as though he were a one-character company. He can receive no combat support other than what he himself can provide.
       - On-guard creatures are faced by the whole company after a Burglaring attempt, regardless of the success of the attempt.
  - **Notice:** _Burglary_ states: "If the attempt fails, the character must face all automatic-attacks **alone**." 
-     - **Definition: alone ▶ adj. & adv. 1** on one's own; by one's self. ◾ isolated and lonely. **2** only; exclusively. _Concise Oxford English Dictionary_ Twelfth edition.
+     - **Definition: alone** ▶ adj. & adv. **1** on one's own; by one's self. ◾ isolated and lonely. **2** only; exclusively. _Concise Oxford English Dictionary_ Twelfth edition.
      -  **Comment:** A character facing an attack "alone" means that the character must face the automatic-attack as though he were a one-character company, as stated in the "Rulings by Term, Burglary Attempts." This also means that the other characters in the company are not considered to have "faced" the attack (for purposes of _Dark Numbers_, etc.) nor would they be considered to have "defeated" the attack (for purposes of _King Under the Mountain_, etc.) if it were defeated because the character facing the attack did it on their own. The other characters were excluded.
 
 ### -= CCC =-
