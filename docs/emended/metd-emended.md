@@ -124,45 +124,6 @@ Normally, a company moving with region movement may lay down a maximum of four r
 
 ---
 
-# _METD_ CARD ERRATA AND CLARIFICATIONS
-
-#### A Short Rest
- - This card only allows the extra card draw for moving companies that actually have a site path. It cannot be used with Under-deeps movement, or special movement cards like _Belegaer_.
-
-{: .note }
-> **Comment:** This clarification is partly incorrect. _A Short Rest_ ***can*** be used with _Belegaer_ because a company moving using _Belegaer_ **does** have a site path. _Belegaer_ specifically states: "the site path is \[![](/assets/images/coastalsea.svg)![](/assets/images/coastalsea.svg)![](/assets/images/coastalsea.svg)\]." A company using _Belegaer_ has three coastal-sea regions in its site path and may draw 1 extra cards by the effect of _A Short Rest_. In fact, most special movement cards either provide the company with a site path (_Belegaer_, _Forod_, _Harad_, and _Rhun_) or they require a company to play region cards which provide the company's site path (_Anduin River_, _Ash Mountains_, _Misty Mountains_, _Mountains of Shadow_, and _White Mountains_). 
-> 
-> There appears to have been an oversight as this clarification was changed later on without being marked as a change changed (with -= =- markings).
-> - [CRF 2](/original/rulings/crf-2/#a-short-rest), the original ruling, stated: "-=- This card only allows the extra card draw for moving companies that actually have a site path. If a company moves with Eagle-mounts, for example, it does not have a site path and does not trigger A Short Rest. Thank you, Wolfgang, for illustrating this point. -=-"
-> - [CRF 7](/original/rulings/crf-7/) states: "This card only allows the extra card draw for moving companies that actually have a site path."
-> - [CRF 8](/original/rulings/crf-8/#a-short-rest) states: "This card only allows the extra card draw for moving companies that actually have a site path. It cannot be used with Under-deeps movement, or special movement cards like Belegaer." 
-
-#### Burglary
- - If you fail the roll for _Burglary_, you cannot then play an item.
- - See also Rulings by Term, Burglary Attempts.
-      - After a successful burglary attempt, another character may tap to play a minor item.
-      - The character who fails the burglary roll must face the automatic-attack as though he were a one-character company. He can receive no combat support other than what he himself can provide.
-      - On-guard creatures are faced by the whole company after a Burglaring attempt, regardless of the success of the attempt.
-
-{: .note }
-> **Notice:** _Burglary_ states: "If the attempt fails, the character must face all automatic-attacks **alone**." 
-> 
-> **Definition: alone ▶ adj. & adv. 1** on one's own; by one's self. ◾ isolated and lonely. **2** only; exclusively. 
-> 
-> **Comment:** A character facing an attack "alone" means that the character must face the automatic-attack as though he were a one-character company, as stated in the "Rulings by Term, Burglary Attempts." This also means that the other characters in the company are not considered to have "faced" the attack (for purposes of _Dark Numbers_, etc.) nor would they be considered to have "defeated" the attack (for purposes of _King Under the Mountain_, etc.) if it were defeated because the character facing the attack did it on their own. The other characters were excluded.
-
-#### Cruel Caradhras
- - _Card Erratum_: Replace "Minas Morgul" with "Imlad Morgul."
- - This card can be played on a company using region movement to leave a site in an affected region.
-
-{: .note }
-> **Notice:** The most recent printing (_Challenge Deck_) of _Cruel Caradhras_ states: "***Playable on a company using region movement to move though (not stopping at a site therein) or leave one of the following regions:*** High Pass, Redhorn Gate, Angmar, Gundabad, Grey Mountain Narrows, or Imlad Morgul. Each character in target company must face one strike (not an attack) of 8 prowesss which cannot be canceled. Any resulting body check is modified by +1." 
-
-#### Deftness of Agility
- - The extra strike is dealt with in a separate strike sequence.
-
----
-
 # MANY A GLEAMING GOLDEN HOARD
 
 {: .text-center }
