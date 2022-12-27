@@ -17,7 +17,7 @@ This insert provides expansion rules, clarifications, and a scenario for use wit
 
 A "key word" is an identifier for a card which makes it affectable by _or_ usable with other cards as the cards' text dictate. For example, in _METW_, key words include: Orc, spell, environment, Dragon, Undead, Wolves, etc.
 
-_Middle-earth: The Dragons_ introduces several "key words" to the Middle-earth collectible card game: Drake, light enchantment, dark enchantment, ritual, riddling attempt, riddling roll, offering attempt, flattery attempt, capture, and helmet. There are no special rules for these key words; except that a character may only use the effects of one helmet at a time. Note that the key words, Dragon and Drake, are mechanically independent. Some of the key words are not affected by any currently existing cards (e.g., offering attempt and capture), but they will be with the release of future expansions.
+_Middle-earth: The Dragons_ introduces several "key words" to the Middle-earth collectible card game: Drake, light enchantment, dark enchantment, ritual, riddling attempt, riddling roll, offering attempt, flattery attempt, capture,[^capture] and helmet. There are no special rules for these key words; except that a character may only use the effects of one helmet at a time. Note that the key words, Dragon and Drake, are mechanically independent. Some of the key words are not affected by any currently existing cards (e.g., offering attempt and capture), but they will be with the release of future expansions.
 
 A "bearer" of a specific card refers to the character that bears or controls that card.
 
@@ -37,27 +37,38 @@ Scatha  |  Gondmaeglom  |  Grey Moumain Narrows
 Scorba  | Zarak Dum  | Angmar
 Smaug  |  The Lonely Mountain  |  Northern Rhovanion
 
+{: .note }
+> **Clarification:** <ins>The normal Dragon automatic-attacks printed on these sites are **not** considered manifestations of the unique Dragon.</ins>
+
 ### HOARDS
 
-Certain items are _hoard items_. Such an item may only be played at a site that contains a hoard. Each site with a Dragon automatic-attack (i.e., each Dragon's lair) contains a hoard. A hoard minor item may not be included with a starting company, and may not be played at a site that does not contain a hoard.
+Certain items are _hoard items_. Such an item may only be played at a site that contains a hoard. ~~Each site with a Dragon automatic-attack (i.e., each Dragon's lair) contains a hoard.~~ <ins>Each site which had a Dragon automatic-attack at the beginning of the turn contains a hoard.</ins> A hoard minor item may not be included with a starting company, and may not be played at a site that does not contain a hoard.
 
 {: .note-dk }
 > **Example:** You can not play a hoard minor item at Wellinghall after successfully influencing the _Ents of Fangorn_ like you can with a normal minor item. Wellinghall does not contain a hoard.
 
 ### MANIFESTATIONS OF DRAGONS
 
-Each of the nine unique Dragons (see above) has three different _manifestations_:
+Each of the nine unique Dragons (see above) has ~~three~~ <ins>four</ins> different _manifestations_:
 
-**Basic** — In this manifestation a Dragon is in his standard active mode. Each of these manifestations is represented by a standard creature
-card (e.g., the cards for Smaug, Agburanar, Daelomin, and Leucaruth from _METW_).
+**Basic** — In this manifestation a Dragon is in his standard active mode. Each of these manifestations is represented by a standard creature card (e.g., the cards for Smaug, Agburanar, Daelomin, and Leucaruth from _METW_).
 
 **Ahunt** — In this manifestation a Dragon is considered to be hunting in a wide range of regions. Each of these manifestations is represented by a hazard long-event that will attack any company moving in a given set of regions (e.g., _Smaug Ahunt_ normally causes an attack against any company moving in Withered Heath, Northern Rhovanion, Iron Hills, and/or Grey Mountain Narrows).
 
 **At Home** — In this manifestation a Dragon is considered to be resident in his lair. Each of these manifestations is represented by a hazard permanent-event that gives its lair an additional automatic-attack and causes certain other global effects (e.g., _Scorba At Home_ gives Zarak Dum an additional automatic-attack and each major item gives an additional corruption point).
 
+<ins>**Roused** (from _MELE_ and _MEAS_) — In this manifestation a Dragon is considered to have joined forces with a player. Each of these manifestations is represented by a minion faction resource that gives marshalling points and will attack an opponent's companies moving in the same set of regions as the Ahunt manifestation normally attacks.</ins>
+
 Different manifestations of the same Dragon may be in play at the same time. The fact that each manifestation is unique unto itself does not preclude the other manifestations.
 
-Only your opponent can receive marshalling points from defeating a manifestation of a Dragon that you played. If you defeat a Dragon manifestation that you played, it is removed from the game and no one receives its marshalling points.
+Only your opponent can receive marshalling points from defeating a manifestation of a Dragon that you played. If you defeat a Dragon manifestation that you played, it is removed from the game and no one receives its marshalling points. 
+
+{: .note }
+> **Clarification:** <ins>If you defeat the attack from a Dragon manifestation, you get kill marshalling points from the manifestation as if you had defeated a creature.</ins>
+> 
+> **Clarification:** <ins>If a Ringwraith player defeats an attack from a Dragon faction, remove the Dragon from play. That player does not receive its marshalling points.</ins>
+> 
+> **Clarification:** <ins>If a hero company defeats an attack by a Ringwraith’s Dragon faction, the hero player receives its marshalling points as kill marshalling points.</ins>
 
 If at any time an attack from a manifestation of a unique Dragon is defeated or if the manifestation is otherwise removed from the game:
 
@@ -76,7 +87,7 @@ The base hazard limit is determined (i.e., set) simultaneously at the moment a c
 
 ### CHARACTERS FACING MULTIPLE STRIKES
 
-When certain _Middle-earth: The Dragons_ cards are played, a character may be assigned to receive more than one strike from a given attack. Such a character must face a strike sequence for each strike he is assigned to face. If a character is tapped or wounded following one of these strike sequences, he must then accordingly modify his prowess for any following strike sequences. If a character is eliminated or otherwise removed from play before he has faced all of his assigned strikes, those strikes he has yet to face are then considered to be cancelled (i.e., they have no further effect).
+When certain _Middle-earth: The Dragons_ cards are played, a character may be assigned to receive more than one strike from a given attack. Such a character must face a strike sequence for each strike he is assigned to face. If a character is tapped or wounded following one of these strike sequences, he must then accordingly modify his prowess for any following strike sequences. ~~If a character is eliminated or otherwise removed from play before he has faced all of his assigned strikes, those strikes he has yet to face are then considered to be cancelled (i.e., they have no further effect).~~ <ins>If a character is eliminated or otherwise removed from play before he has faced all of his assigned strikes, those strikes he has yet to face are then considered to be _successful_.</ins>
 
 ### REMOVING CORRUPTION CARDS
 
@@ -96,8 +107,6 @@ At the end of yonr opponent's untap phase, if your opponent's Wizard is in play,
 ### REGION MOVEMENT LIMITATION
 
 Normally, a company moving with region movement may lay down a maximum of four region cards. If a company moving with region movement is using effects that allows additional region cards to be laid down, no more than six regions may be used.
-
-[^sideboard]: The sideboard size was increased several times over the game's life. The final increase came with _Middle-earth: The White Hand_ which increased the sideboard to 30 cards for 1-deck and 2-deck games.
 
 ---
 
@@ -143,9 +152,12 @@ J. Whitehouse, Jon Whitney, and Mark Wightman
 ---
 
 {: .text-center .text-gamma }
-ANNOTATIONS
+NOTES
 
-The Rules Archive provides the original published text without modification from errata or official clarifications. However, they do have corrections to minor typographical, grammatical, clerical, and typesetting issues in the original text. Such corrections are not annotated. Anything in the original text that goes beyond a minor issue is left unaltered and described in these annotations.
+These Emended Rules provide the original published text with emendations from errata and official clarifications. Such emendations are marked by ~~strikingthrough~~ the original text and <ins>underlining</ins> the new text. The rules also include corrections to minor typographical, grammatical, clerical, and typesetting issues in the original text. Such corrections are not marked or annotated. Any correction beyond a minor issue would be marked as an emendation.
+
+[^capture]: There is no _Capture_ keyword in _MECCG_.
 
 [^dragon-hoard-errata]: Rules Erratum: Dragon Rules, Hoards: Change “_Each site with a Dragon automatic-attack (i.e., each Dragon’s Lair) contains a hoard_” to “_Each site which had a Dragon automatic-attack at the beginning of the turn contains a hoard_.”
 [^dragon-multiple-strike-errata]: Rules Erratum: Dragons Rules, Characters Facing Multiple Strikes: Change "_are then considered to be canceled_" to "_are then considered to be successful_."
+[^sideboard]: The sideboard size was increased several times over the game's life. The final increase came with _Middle-earth: The White Hand_ which increased the sideboard to 30 cards for 1-deck and 2-deck games.
