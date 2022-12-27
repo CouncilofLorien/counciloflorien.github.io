@@ -38,7 +38,7 @@ Scorba  | Zarak Dum  | Angmar
 Smaug  |  The Lonely Mountain  |  Northern Rhovanion
 
 {: .note }
-> **Clarification:** <ins>The normal Dragon automatic-attacks printed on these sites are **not** considered manifestations of the unique Dragon.</ins>
+> **Clarification:** The normal Dragon automatic-attacks printed on these sites are **not** considered manifestations of the unique Dragon.[^crf-terms-dragons]
 
 ### HOARDS
 
@@ -64,13 +64,13 @@ Different manifestations of the same Dragon may be in play at the same time. The
 Only your opponent can receive marshalling points from defeating a manifestation of a Dragon that you played. If you defeat a Dragon manifestation that you played, it is removed from the game and no one receives its marshalling points. 
 
 {: .note }
-> **Clarification:** <ins>If you defeat the attack from a Dragon manifestation, you get kill marshalling points from the manifestation as if you had defeated a creature.</ins>
+> **Clarification:** If you defeat the attack from a Dragon manifestation, you get kill marshalling points from the manifestation as if you had defeated a creature.[^crf-terms-dragons]
 > 
-> **Clarification:** <ins>If a Ringwraith player defeats an attack from a Dragon faction, remove the Dragon from play. That player does not receive its marshalling points.</ins>
+> **Clarification:** If a Ringwraith player defeats an attack from a Dragon faction, remove the Dragon from play. That player does not receive its marshalling points.[^mele-factions]
 > 
-> **Clarification:** <ins>If a hero company defeats an attack by a Ringwraith’s Dragon faction, the hero player receives its marshalling points as kill marshalling points.</ins>
+> **Clarification:** If a hero company defeats an attack by a Ringwraith’s Dragon faction, the hero player receives its marshalling points as kill marshalling points.[^mele-mp]
 > 
-> **See:** <ins>[_MELE_, Standard Rules, Combat, Trophies](/original/rulebooks/the-lidless-eye/#trophies): Defeated Dragon manifestations can be used as trophies, including Dragon factions.</ins>
+> **See:** [_MELE_, Standard Rules, Combat, Trophies](/original/rulebooks/the-lidless-eye/#trophies): Defeated Dragon manifestations can be used as trophies, including Dragon factions.[^crf-terms-trophies]
 
 If at any time an attack from a manifestation of a unique Dragon is defeated or if the manifestation is otherwise removed from the game:
 
@@ -111,10 +111,10 @@ A character may only attempt to remove each corruption card once per turn if he 
 With the publication of _Middle-earth: The Dragons_, the number of different resource and hazard strategies increases dramatically. To enable players to react to more specific strategies during play, the sideboard size is increased by five (e.g., from 15 to 20 for the 1-deck and 2-deck games, from 20 to 25 for the 3-deck game, etc.).
 
 {: .note }
-> **Clarification:** <ins>With the later set _Middle-earth: The White Hand_, the sideboard size is further increased to:</ins>
-> - <ins>30 cards for the 1-deck game and the 2-deck game.</ins>
-> - <ins>35 cards for the 3-deck game.</ins>
-> - <ins>40 cards for the 4-deck game.</ins>
+> **Clarification:** With the later set _Middle-earth: The White Hand_,[^mewh-sideboard] the sideboard size is further increased to:
+> - 30 cards for the 1-deck game and the 2-deck game.
+> - 35 cards for the 3-deck game.
+> - 40 cards for the 4-deck game.
 
 At the end of your opponent's untap phase, if your opponent's Wizard is in play, you may at this point bring up to five hazard cards from your sideboard to your discard pile; **or**, if your play deck has at least 5 cards, you may bring one hazard card directly from your sideboard into your play deck (reshuffle). If you move cards from your sideboard in this fashion, the hazard limit for each of your opponent's companies is reduced to half of normal (round up, e.g., a hazard limit of 2 becomes l, a hazard limit of 3 becomes 2, etc.).
 
@@ -171,8 +171,13 @@ NOTES
 These Emended Rules provide the original published text with emendations from errata and official clarifications. Such emendations are annotated. The rules also include corrections to minor typographical, grammatical, clerical, and typesetting issues in the original text. Such corrections are not marked or annotated. Any correction beyond a minor issue would be annotated.
 
 [^capture]: There is no _Capture_ keyword in _MECCG_.
+[^crf-terms-dragons]: See [CRF 15, Rulings by Term, Dragons](/original/rulings/crf-15/#dragons)
 [^dragon-hoard-errata]: Rules Erratum: Dragon Rules, Hoards: Change “_Each site with a Dragon automatic-attack (i.e., each Dragon’s Lair) contains a hoard_” to “_Each site which had a Dragon automatic-attack at the beginning of the turn contains a hoard_.”
 [^dragon-multiple-strike-errata]: Rules Erratum: Dragons Rules, Characters Facing Multiple Strikes: Change "_are then considered to be canceled_" to "_are then considered to be successful_."
 [^four-manifestations]: With the _Roused_ Dragon factions there are now four manifestations of dragons, not three.
 [^roused]: The _Roused_ dragon manifestations were introduced in _Middle-earth: The Lidless Eye_. See also [CRF 15, Rulings by Term, Dragons](/original/rulings/crf-15/#dragons).
 [^remove-another-characters-corruption]: See also [CRF 15, Rulings by Term, Corruption](/original/rulings/crf-15/#corruption): A character attempting to remove a corruption card on another character may ignore the tapping requirement and recieve -3 to the roll.
+[^crf-terms-trophies]: See [CRF 15, Rulings by Term, Trophies](/original/rulings/crf-15/#trophies)
+[^mele-factions]: See [The Lidless Eye, Starter Rules, 10 • PLAYING AND DRAWING CARDS, RESOURCE CARDS, NON-EVENT, Factions](/original/rulebooks/the-lidless-eye/#factions)
+[^mele-mp]: See [The Lidless Eye, Using MELE with METW, 7 • COMBAT, Marshalling Points](/original/rulebooks/the-lidless-eye/#marshalling-points-2)
+[^mewh-sideboard]: See [The White Hand, Sideboard Size](/original/rulebooks/the-white-hand/#sideboard-size)
