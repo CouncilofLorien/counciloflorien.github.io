@@ -2131,9 +2131,9 @@ Swanberg, Daniel Williams, Monica Wilson
 ---
 
 {: .text-center .text-gamma }
-ANNOTATIONS
+NOTES
 
-The Rules Archive provides the original published text without modification from errata or official clarifications. However, they do have corrections to minor typographical, grammatical, clerical, and typesetting issues in the original text. Such corrections are not annotated. Anything in the original text that goes beyond a minor issue is left unaltered and described in these annotations.
+These Original Rules provide the original published text without modification from errata or official clarifications. However, they do have corrections to minor typographical, grammatical, clerical, and typesetting issues in the original text. Such corrections are not annotated. Any correction beyond a minor issue would be left unaltered and described in an annotation.
 
 [^bullets]: These online rules are not formatted with a line of bullets as a sidebar. See the pdf version of the rules to review this feature.
 [^twopaths]: This rule states that each Darkhaven has two site paths, which is not the case as previously mentioned in the _MELE_ rules. This text appears to be a holdover from _The Wizards_ rules which was not updated for _The Lidless Eye_.
