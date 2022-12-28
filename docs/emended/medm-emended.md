@@ -219,7 +219,9 @@ This attack is declared and enacted at the start of the site phase immediately f
 > 
 > **Clarification:** Playing a card that makes an agent attack is considered the attack’s declaration.[^crf-terms-agent]
 > 
-> **Notice:** Automatic-attacks and on-guard creatures are declared at Step 1 of the site phase (See [_MELE_, 7 • COMBAT](/original/rulebooks/the-lidless-eye/#7--combat) and [_MELE_, Placing a Card On-guard](/original/rulebooks/the-lidless-eye/#placing-a-card-on-guard). Then the automatic-attacks and any on-guard creature attacks are resolved at Step 2 of the site phase (See [_MELE_ Site Phase](/original/rulebooks/the-lidless-eye/#site-phase). An attack by an agent is declared in Step 2 after the automatic-attacks and any on-guard attacks are resolved (see also the example below).
+> **Notice:** Automatic-attacks and on-guard creatures are declared at Step 1 of the site phase (See [_MELE_, 7 • COMBAT](/original/rulebooks/the-lidless-eye/#7--combat) and [_MELE_, Placing a Card On-guard](/original/rulebooks/the-lidless-eye/#placing-a-card-on-guard). Then the automatic-attacks and any on-guard creature attacks are resolved at Step 2 of the site phase (See [_MELE_ Site Phase](/original/rulebooks/the-lidless-eye/#site-phase). An attack by an agent is declared in Step 2 after the automatic-attacks and any on-guard attacks are resolved (see also the example below). It is not until Step 3 of the site phase that a company may attempt to play one item, ally, faction, or information resource card that is “playable” at that site.
+> 
+> **Clarification:** Play of an ally, item, faction, or resource card which will normally tap the site must be after the company resolves all automatic, agent and on-guard creature attacks.[^crf-site-phase-general]
 
 #### Resolving Combat With an Agent
 
@@ -236,6 +238,8 @@ When one of your agents attacks it is considered to be the _attacker_ and it has
 
 {: .note }
 > **Note:** Agents are **not** characters—you may not play resource cards to modify an agent's prowess (e.g., a _Risky Blow_ will not affect an agent's prowess). Hazard cards affect an agent attack normally.
+> 
+> **Notice:** A tapped agent's prowess is not modified by -1.
 > 
 > **Clarification:** To wound an agent you only need to defeat the prowess of one strike. To eliminate an agent you must defeat the prowess and body for all strikes.[^crf-terms-agent]
 > 
@@ -296,3 +300,4 @@ These Emended Rules provide the original published text with emendations from er
 [^rulings-monday-12-6-97]: See [CRF, Delayed Rulings / Rulings Monday, Rulings Effective 12/6/97](/original/rulings/crf-15/#rulings-effective-12697)
 [^crf-errata-agent-detainment]: Agent attacks against minions are always detainment. \[Effective 8/27/98]. See [CRF, Complete Errata Listing, Rules Errata](/original/rulings/crf-15/#rules-errata)
 [^crf-current-site]: A non-moving company’s current site is considered its new site for card play. See [CRF, Turn Sequence, Movement/Hazard Phase, General](/original/rulings/crf-15/#general).
+[^crf-site-phase-general]: Play of an ally, item, faction, or resource card which will normally tap the site must be after the company resolves all automatic, agent and on-guard creature attacks. See [CRF, Turn Sequence, Site Phase, General](/original/rulings/crf-15/#general-3)
