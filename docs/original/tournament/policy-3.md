@@ -100,122 +100,136 @@ In addition to these guidelines, a few rules which do not appear in older versio
  34. **General Influence Bonus**---Ringwraith/Sauron players have +5 unused general influence at all times. This bonus general influence can never be used to control characters.
  35. **Starting Companies**---Ringwraith/Sauron players may have starting companies at Dol Guldur and/or Minas Morgul. A ringwraith may also be brought into play at Dol Guldur, Minas Morgul, or his home site.
 
-## The Swiss System Format
+   <h2>The Swiss System Format</h2>
 
 The Council of Lórien has adopted a variation of the Swiss System for its official tournament format. This tournament format allows the success of each player to be determined by a total of tournament points awarded from the play of several games, thereby decreasing the deterministic role of luck in each game. Keep in mind that this format measures a player's performance versus the field of players, not necessarily against specific players. It is important that players not be allowed to scout their opponent's decks.
 
 The Swiss System format can be used for any of the actual types of games being run (two-deck standard rules, sealed deck starter rules, scenario, etc.). The guidelines below assume a game type using an End-of-Game. will be run. This is as opposed to a Resource/Character scenario tournament; see the special section below for specific suggestions on running a Resource/ Character scenario tournament. Here are the basics of the Swiss System tournament structure that The Council of Lórien has adopted:
 
-Number of rounds-A Swiss System tournament is comprised of a certain number of rounds as dictated by the number of participants in the tournament.
+ - _Number of rounds_---A Swiss System tournament is comprised of a certain number of rounds as dictated by the number of participants in the tournament.
 
-| Players | Rounds | Official |
-| ------- | ------ | -------- |
-| 2 | 1 | No | 
-| 3-4	 | 2 | 	No |
-| 5	 | 3	 | No |
-| 6-8	 | 3 | 	Yes |
-| 9-16 | 	4	 | Yes  |
-| 17-32 | 	5	 | Yes |
-| 33-64	 | 6 | 	Yes |
-| 64+ |	7 | Yes |
+   | Players | Rounds | Official |
+   | ------- | ------ | -------- |
+   | 2 | 1 | No | 
+   | 3-4	 | 2 | 	No |
+   | 5	 | 3	 | No |
+   | 6-8	 | 3 | 	Yes |
+   | 9-16 | 	4	 | Yes  |
+   | 17-32 | 	5	 | Yes |
+   | 33-64	 | 6 | 	Yes |
+   | 64+ |	7 | Yes |
 
-Each player may participate and play (unless a bye is given) in each round. If a player drops out of a tournament, he or she must inform the tournament coordinator.
-Awarding Byes-For each round, it must be determined if an even or odd number of players are participating. If an odd number are participating, one player is given a "bye". The player given the bye does not play a game that round. If a bye needs to be given for the first round, the tournament coordinator randomly chooses a player from all players. If a bye needs to be given for any later rounds, the tournament coordinator randomly chooses one player from the group of players having the lowest tournament point totals. No player should recieve two byes in one tournament. A player given a bye recieves tournament points depending on the round of the tournament:
-Round	Points
- 1	6
-2	5
-3	4
-4	3
-5	2
-6+	1
-After awarding one player a bye, an even number of players will remain to play in the round. It is encouraged that the tournament coordinator take steps to avoid giving a bye for the first round. If at all possible, the tournament coordinator should have someone available to play or not play, to make sure there is an even number of players.
+ - Each player may participate and play (unless a bye is given) in each round. If a player drops out of a tournament, he or she must inform the tournament coordinator.
+ - _Awarding Byes_---For each round, it must be determined if an even or odd number of players are participating. If an odd number are participating, one player is given a "bye". The player given the bye does not play a game that round. If a bye needs to be given for the first round, the tournament coordinator randomly chooses a player from all players. If a bye needs to be given for any later rounds, the tournament coordinator randomly chooses one player from the group of players having the lowest tournament point totals. No player should recieve two byes in one tournament. A player given a bye recieves tournament points depending on the round of the tournament:
 
-With an even number of players participating in a round, players are paired off. Paired players play one game within a time limit. Specific game rules and time limits are dictated by the game type of the tournament (two-deck standard rules, sealed deck starter rules, scenario, etc.).
-For the first round only, players are paired off randomly (i.e., each player has zero tournament points).
-Pairing Players -For each round after the first round, each player is paired off with another player with the exact same total of tournament points. A tournament coordinator begins pairing each round with the group of players who have the highest total tournament points. When pairings are being determined, choose a player at random from the pool of available players with the same total of tournament points, and then choose the player with whom he or she is paired.
-If more than one eligible player exists with whom a player may be paired, the second player is determined randomly from all eligible players. If no eligible players exist with whom a player may be paired, the player is paired with a player with the next lowest total tournament points (chosen randomly if more than one player exists with the next lowest total).
+   | Round   | 	Points   |
+   | ------- | --------- |
+   | 1	   | 6   | 
+   | 2	   | 5   | 
+   | 3   | 	4   | 
+   | 4	   | 3   | 
+   | 5	   | 2   | 
+   | 6+	   | 1   | 
+   
+   After awarding one player a bye, an even number of players will remain to play in the round. It is encouraged that the tournament coordinator take steps to avoid giving a bye for the first round. If at all possible, the tournament coordinator should have someone available to play or not play, to make sure there is an even number of players.
 
-Tournament coordinators must try to avoid having the same players play each other more than once. If a player's tournament points indicate that he should face an opponent he has already faced, try to rearange the pairings with other players of the same tournament points, so that all player's are facing a new opponent. If this is not possible, randomly choose a player from with the next lowest number of tournament points as that player's initially chosen opponent.
+ - With an even number of players participating in a round, players are paired off. Paired players play one game within a time limit. Specific game rules and time limits are dictated by the game type of the tournament (two-deck standard rules, sealed deck starter rules, scenario, etc.).
+ - For the first round only, players are paired off randomly (i.e., each player has zero tournament points).
+ - _Pairing Players_---For each round after the first round, each player is paired off with another player with the exact same total of tournament points. A tournament coordinator begins pairing each round with the group of players who have the highest total tournament points. When pairings are being determined, choose a player at random from the pool of available players with the same total of tournament points, and then choose the player with whom he or she is paired.
 
-Each player is awarded a certain number of tournament points based upon the result of each game he or she plays.
-Upon completing a game, a player must notify the tournament coordinator if he or she intends not to participate in the next round. A player can feel free to drop out of the tournament after any round, but the player would then be ineligible to reenter the tournament and ineligible to receive any prize or ranking consideration.
-A total of accumulated tournament points is kept for each player. The winner of the tournament is the player with the most tournament points when all rounds of the tournament are completed. Runners-up can also be determined at that time by comparing tournament point totals.
-Tournament Points-A player is awarded a number of tournament points for the following game results (only one result can apply to each player at the conclusion of each of his or her games).
-Winning with The One Ring (i.e., successfully executing Cracks of Doom, A New Ringlord, etc.)-10 (in sealed deck game), 8 (in a single-deck game), 7 (in a two-deck), 6 (in a three-deck or four-deck game);
-Defeating opponent with a Marshalling Points Ratio of 2 or greater-6;
-Defeating opponent with a Marshalling Points Ratio less than 2 but greater than or equal to 1.5-5;
-Defeating opponent with a Marshalling Points Ratio less than 1.5 but greater than one-4;
-Defeating opponent with the Weakest Link Method of breaking ties at the Free Council-3.5;
-Achieving a tie as per item 6 under GENERAL at the top of this document-3;
-Losing with the Weakest Link Method of breaking ties at the Free Council-2.5;
-Losing to an opponent who wins by result (d) above-2;
-Loosing to an opponent who wins by result (c) above-1;
-Losing the game otherwise-0.
-Tournament Point Ties-When all rounds are completed, it is possible that more than one player will have the same highest tournament point total (i.e., the leaders will be tied). The following menu of tie-breaking criteria is followed. Each tied participant is in contention until a criterion is resolved that takes him or her out of contention. Those leading participants removed from contention are relegated to the tier of runners-up (and possibly could face another series of tie-breaking criteria-see below). The coordinator resolves the list of criteria in the order given, establishing each player removed from contention, until one player is left in contention, or until the entire list of criteria is resolved and a tie still exists (see below for this case).
-Head-to-Head. Tally the number of losses of each tied player from all games played with any other tied players. The players with the fewest total head-to-head losses stay in contention. All other players are out of contention.
-Number of Wins. Tally the number of games each tied player received 3.5 or more tournament points-these are wins. Players with the most wins stay in contention, all others are out of contention.
-Sum of Opponent's Scores. For each tied player, add up all of their opponent's tournament point totals. The player with the highest sum wins the tie-breaker.
-If more than one player is still in contention after criterion III is resolved, playoff rounds are held. The playoff rounds are formatted in the same manner as the tournament. See the Number of Rounds note above regarding the number of rounds to be played. If both players and the tournament coordinator agree, however, no tie breaker actions are taken, and each tied participant is recognized as co-champion. The pre-determined prizes for the number of top finishers equal to the number of co-champions should be divided up and awarded evenly amongst the co-champions.
+   If more than one eligible player exists with whom a player may be paired, the second player is determined randomly from all eligible players. If no eligible players exist with whom a player may be paired, the player is paired with a player with the next lowest total tournament points (chosen randomly if more than one player exists with the next lowest total).
 
-If multiple players are tied in a lower tier, the previously mentioned guidelines also apply. Replace the concept of players tied with the most points with players tied with the same number of points.
+   Tournament coordinators must try to avoid having the same players play each other more than once. If a player's tournament points indicate that he should face an opponent he has already faced, try to rearange the pairings with other players of the same tournament points, so that all player's are facing a new opponent. If this is not possible, randomly choose a player from with the next lowest number of tournament points as that player's initially chosen opponent.
 
-The tie-breaking policy requires that tournament coordinators keep a running record of each player's opponent in addition to tournament point results each round.
+ - Each player is awarded a certain number of tournament points based upon the result of each game he or she plays.
+ - Upon completing a game, a player must notify the tournament coordinator if he or she intends not to participate in the next round. A player can feel free to drop out of the tournament after any round, but the player would then be ineligible to reenter the tournament and ineligible to receive any prize or ranking consideration.
+ - A total of accumulated tournament points is kept for each player. The winner of the tournament is the player with the most tournament points when all rounds of the tournament are completed. Runners-up can also be determined at that time by comparing tournament point totals.
+ - _Tournament Points_-A player is awarded a number of tournament points for the following game results (only one result can apply to each player at the conclusion of each of his or her games).
+      1. Winning with The One Ring (i.e., successfully executing Cracks of Doom, A New Ringlord, etc.)---10 (in sealed deck game), 8 (in a single-deck game), 7 (in a two-deck), 6 (in a three-deck or four-deck game);
+      2. Defeating opponent with a Marshalling Points Ratio of 2 or greater---6;
+      3. Defeating opponent with a Marshalling Points Ratio less than 2 but greater than or equal to 1.5---5;
+      4. Defeating opponent with a Marshalling Points Ratio less than 1.5 but greater than one---4;
+      5. Defeating opponent with the Weakest Link Method of breaking ties at the Free Council---3.5;
+      6. Achieving a tie as per item 6 under GENERAL at the top of this document---3;
+      7. Losing with the Weakest Link Method of breaking ties at the Free Council---2.5;
+      8. Losing to an opponent who wins by result (d) above---2;
+      9. Loosing to an opponent who wins by result (c) above---1;
+      10. Losing the game otherwise---0.
+ - _Tournament Point Ties_---When all rounds are completed, it is possible that more than one player will have the same highest tournament point total (i.e., the leaders will be tied). The following menu of tie-breaking criteria is followed. Each tied participant is in contention until a criterion is resolved that takes him or her out of contention. Those leading participants removed from contention are relegated to the tier of runners-up (and possibly could face another series of tie-breaking criteria-see below). The coordinator resolves the list of criteria in the order given, establishing each player removed from contention, until one player is left in contention, or until the entire list of criteria is resolved and a tie still exists (see below for this case).
+      1. _Head-to-Head_. Tally the number of losses of each tied player from all games played with any other tied players. The players with the fewest total head-to-head losses stay in contention. All other players are out of contention.
+      2. _Number of Wins_. Tally the number of games each tied player received 3.5 or more tournament points-these are wins. Players with the most wins stay in contention, all others are out of contention.
+      3. _Sum of Opponent's Scores_. For each tied player, add up all of their opponent's tournament point totals. The player with the highest sum wins the tie-breaker.
 
-Time Limits-Each game has a time limit that depends on the type of game being played. The time limit is the amount of time allowed for the play of games. A tournament coordinator needs to consider an additional 15 minutes or so between rounds for administrative tasks. Also, a coordinator needs to consider an amount of start-up time (20 minutes or so).
-one-deck game-50 minutes
-two-deck game-1 hour and 20 minutes
-three-deck game-2 hours
-campaign game-3 hours
-sealed deck game-50 minutes*
-resource/character scenario game-1 hour*
-* See the descriptions of the different games below for further information.
+   If more than one player is still in contention after criterion III is resolved, playoff rounds are held. The playoff rounds are formatted in the same manner as the tournament. See the Number of Rounds note above regarding the number of rounds to be played. If both players and the tournament coordinator agree, however, no tie breaker actions are taken, and each tied participant is recognized as co-champion. The pre-determined prizes for the number of top finishers equal to the number of co-champions should be divided up and awarded evenly amongst the co-champions.
 
-A tournament coordinator will have an official time keeping device. He or she should announce the time approximately 10 or 15 minutes before final time will be called. When the time limit is reached according to the official time keeping device, play of each game continues until: the player who went second in the game finishes a turn (i.e., until both players have played the same number of turns); or until the End-of-Game is called normally according to the rules. After the player who went second finishes his or her turn, the End-of-Game begins automatically, regardless of marshalling point totals.
-Marshalling Point Ratios-If, at the Free Council after the final marshalling point (MP) totals have been tallied (including all standard rules interpretations), one player has more MPs than the opponent, that player wins. The winner receives either 4, 5, or 6 tournament points depending upon the ratio of his MP total to the opponent's (see above). The loser receives 2, 1, or 0 points respectively. To determine a winner's MP ratio, divide the winner's total MPs by the loser's MPs. A loser with zero MPs automatically gives the winner 6 points.
-Negative MPs-A player's final MP total after all End-of-Game modifications cannot be negative. In this case, the MP total is zero.
-If, at the Free Council after the final MP totals have been tallied (including all standard rules interpretations), both players have the same number of MPs (i.e., they are tied), use the Weakest Link Method to determine a winner and a loser (see above). The winner receives 3.5 tournament points; the looser receives 2.5.
-Formats
+   If multiple players are tied in a lower tier, the previously mentioned guidelines also apply. Replace the concept of players tied with the most points with players tied with the same number of points.
+
+   The tie-breaking policy requires that tournament coordinators keep a running record of each player's opponent in addition to tournament point results each round.
+
+ - _Time Limits_---Each game has a time limit that depends on the type of game being played. The time limit is the amount of time allowed for the play of games. A tournament coordinator needs to consider an additional 15 minutes or so between rounds for administrative tasks. Also, a coordinator needs to consider an amount of start-up time (20 minutes or so).
+      - one-deck game---50 minutes
+      - two-deck game---1 hour and 20 minutes
+      - three-deck game---2 hours
+      - campaign game---3 hours
+      - sealed deck game---50 minutes\*
+      - resource/character scenario game---1 hour\*
+
+   \* See the descriptions of the different games below for further information.
+
+ - A tournament coordinator will have an official time keeping device. He or she should announce the time approximately 10 or 15 minutes before final time will be called. When the time limit is reached according to the official time keeping device, play of each game continues until: the player who went second in the game finishes a turn (i.e., until both players have played the same number of turns); or until the End-of-Game is called normally according to the rules. After the player who went second finishes his or her turn, the End-of-Game begins automatically, regardless of marshalling point totals.
+ - _Marshalling Point Ratios_---If, at the Free Council after the final marshalling point (MP) totals have been tallied (including all standard rules interpretations), one player has more MPs than the opponent, that player wins. The winner receives either 4, 5, or 6 tournament points depending upon the ratio of his MP total to the opponent's (see above). The loser receives 2, 1, or 0 points respectively. To determine a winner's MP ratio, divide the winner's total MPs by the loser's MPs. A loser with zero MPs automatically gives the winner 6 points.
+ - _Negative MPs_---A player's final MP total after all End-of-Game modifications cannot be negative. In this case, the MP total is zero.
+ - If, at the Free Council after the final MP totals have been tallied (including all standard rules interpretations), both players have the same number of MPs (i.e., they are tied), use the Weakest Link Method to determine a winner and a loser (see above). The winner receives 3.5 tournament points; the looser receives 2.5.
+
+   <h2>Formats</h2>
+
 The following formats are allowed for sanctioned tournament play. Other formats will require a written proposal, as outlined above.
 
 Hero alignment includes Wizard players. Minion alignment includes Ringwraith, Sauron, and Balrog players. Fallen-wizard alignment includes Fallen-wizard players. As new avatars come out in future expansions, they will specify to which alignment the avatars belong.
 
-Single Alignment
+   <h3>Single Alignment</h3>
+   
 Each player is the same alignment: hero, minion, or Fallen-wizard. Any hazards from any MECCG expansion may be used, but only the appropriate resources, characters and sites may be used. As an exception, hero items may be used in a minion tournament, and vice versa, as per the rules on p.75 of the MELE rulesbook. In a Fallen-wizard only tournament, each player should declare which Fallen-wizard he or she is playing to the tournament coordinator. The tournament coordinator should, and is allowed, to break normal pairing rules to not pair two players with the same Fallen-wizard against each other. Single Alignment tournaments require players to each bring one deck.
 
-General Opponent
+   <h3>General Opponent</h3>
+
 You may play either any alignment you choose: hero, minion, or Fallen-wizard. You do not know the alignment of your opponent until he tells you at the start of the game. You may bring two decks of the same alignment to the tournament. One must be dedicated for play against minion opponents, and the other against hero opponents. Either deck may be used against a Fallen-wizard. You may have cards which are used in both decks, but each deck must contain the same cards for each game it is used in.
 
 If your opponent declares he is a Fallen-wizard, he must also declare which one he is. You may add ten predetermined cards to your sideboard against a Fallen-wizard opponent. If you are playing with the Wizard corresponding to the Fallen-wizard your opponent is playing, then you may replace those Wizard cards with an equal number of other Wizard character cards that you have available (these need not come from any deck). In any case, you may not play the Wizard corresponding to your opponent's Fallen-wizard.
 
-The Sealed Deck Game
+   <h3>The Sealed Deck Game</h3>
+    
 Due to size considerations, sealed deck tournaments only require a 25/25 card minimum deck size (as printed in the rulesbook). For a sealed deck game tournament, each player receives a starter deck and three booster packs. ICE suggest using either 3 boosters from Middle-earth The Wizards, or 1 booster from Middle-earth the Wizards and two from either Middle-earth: Dragons or Middle-earth: Dark Minions. No other cards are allowed in the play area besides the cards received from the Tournament Coordinator. Tournament coordinators should feel free to enforce this policy any way they see fit.
 
 Each player is allowed 45 minutes to construct a deck for a one-deck game. It will have to determined if standard or starter rules are being used by the tournament coordinator. It should be noted that on average, seven cards (not counting region cards) from each player's set of cards will not be playable at all. Players should be aware of this extra baggage when constructing their decks. If a player does not have 25 playable hazards or resources, he or she should play with all that he or she does have, and still play with 25 of the other.
 
 Players may exchange cards between his or her deck and the set of cards he received but did not use between rounds. Such exchanges must be completed in the time allotted between rounds and may not interfere with the running of the tournament (i.e., when the Tournament Coordinator announces that the players are to pair up and begin the next round, players must immediately stop exchanging cards and get ready to play the next round).
 
-The Challenge Deck Game
+   <h3>The Challenge Deck Game</h3>
+       
 Each player brings a Challenge Deck to the tournament, or purchases one at the tournament. No cards may be added to or removed from the deck, and all cards in the deck must contain the proper icon for that deck. Standard rules should be used for the tournament, and it should be run as a two-deck tournament.
 
-The Resource/Character Scenario Game
+   <h3>The Resource/Character Scenario Game</h3>
+       
 It is recommended that resource/character scenarios be considered by a tournament coordinator who has the means of communicating to all players in advance what the pool of scenarios will be for the tournament. It is suggested that the coordinator post (in advance) three resource/character scenarios that will be used for the tournament. Each player comes to the tournament with a deck constructed for his or her chosen scenario.
 
-Present Official Scenarios-Presently, the three scenarios for official Council event tournaments are:
+Present Official Scenarios---Presently, the three scenarios for official Council event tournaments are:
 
-A Hobbit's Quest (found on page 72 of the Middle-earth: The Wizards Companion)
-Barrels out of Bond (found on page 66 of the Middle-earth: The Wizards Companion)
-The King beneath the Mountains (found on page 67 of the Middle-earth: The Wizards Companion)
+ 1. A Hobbit's Quest (found on page 72 of the Middle-earth: The Wizards Companion)
+ 2. Barrels out of Bond (found on page 66 of the Middle-earth: The Wizards Companion)
+ 3. The King beneath the Mountains (found on page 67 of the Middle-earth: The Wizards Companion)
+
 A complete copy of these scenarios can also be found on the ICE WEB page at "http://www.ironcrown.com."
 
 Resource/character scenario game tournaments can be run within the same tournament Swiss System structure as the other Free Council games (which are the games presented in the rulesbook). Each player attempts to complete the victory conditions of his or her chosen scenario instead of playing for the Free Council. After starting characters are revealed, each player must announce to the opponent which scenario he or she has chosen. The opponent then knows what victory conditions the player is trying to achieve.
 
 Other resource/character scenarios can be used if approved by the Council of Lórien. To obtain permission, the tournament coordinator must submit a written proposal for the scenarios he or she proposes to use. Original scenarios so submitted become the property of Iron Crown Enterprises, which may choose to publish them (with credit to the original designer).
 
-Time Limit-For a Resource/Character Scenario tournament game, time is called after one hour . If, at this point, no player has achieved the victory conditions for his or her scenario, the player who currently is taking his or her turn finishes the turn. If the opponent did not have the first turn, the opponent then takes one final turn (i.e., both players get the same number of turns). Assuming in the interim no player achieves the victory conditions for his or her chosen scenario, the winner is the player who achieves the higher "rank" as indicated by his or her specific scenario.
-Ties-If both players have achieved the same "rank" as indicated by the specific scenarios, the players tie. Each receives 3 tournament points.
-Tournament Points-A player is awarded a number of tournament points in a resource/character scenario game for the following game results:
-Achieving the victory conditions of his or her chosen scenario-6
-Achieving the higher rank at the game's end-4
-Tying-3
-Losing with a lower rank at the game's end-2
-Losing if opponent achieves his or her victory conditions-0
+ - _Time Limit_---For a Resource/Character Scenario tournament game, time is called after one hour . If, at this point, no player has achieved the victory conditions for his or her scenario, the player who currently is taking his or her turn finishes the turn. If the opponent did not have the first turn, the opponent then takes one final turn (i.e., both players get the same number of turns). Assuming in the interim no player achieves the victory conditions for his or her chosen scenario, the winner is the player who achieves the higher "rank" as indicated by his or her specific scenario.
+ - _Ties_---If both players have achieved the same "rank" as indicated by the specific scenarios, the players tie. Each receives 3 tournament points.
+ - _Tournament Points_---A player is awarded a number of tournament points in a resource/character scenario game for the following game results:
+      - Achieving the victory conditions of his or her chosen scenario---6
+      - Achieving the higher rank at the game's end---4
+      - Tying---3
+      - Losing with a lower rank at the game's end---2
+      - Losing if opponent achieves his or her victory conditions---0
