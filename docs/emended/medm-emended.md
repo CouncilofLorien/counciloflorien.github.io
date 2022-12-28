@@ -116,11 +116,23 @@ An agent can be thought of as a _hazard_ that acts as a creature with the follow
 > 
 > **Clarification:** When constructing a Ringwraith deck, agents are always considered characters. The maximum of 36 mind of agents in your sideboard and play deck combined still applies.[^crf-terms-agent]
 > 
+> **Clarification:** Agents in starting companies count against the 36 mind limit.[^crf-terms-agent]
+> 
 > **Clarification:** Agents count as both characters and hazards during the game in a Ringwraith deck.[^rulings-monday-12-6-97]
 
 An agent is always located at a site. Once an agent has been revealed _or_ has moved to a site that is not one of its home sites, one of your site cards must be used for this purpose. A face-up agent's site card must always be face-up. Agents move and operate alone (i.e., they do not move and operate in "companies").
 
+{: .note }
+> **Notice:** Certain hazard events require tapping or discarding an agent at a target company's new site (_An Article Missing_, _Cunning Foes_, _Seek Without Success_, _To Get You Away_).
+> 
+> **Clarification:** A non-moving company’s current site is considered its new site for card play.[^crf-current-site]
+> 
+> **Notice:** The hazard agents _Anarin_ and _The Grimburgoth_ have special _Agent only_ abilities that allow them to tap at a company's new site. Such special abilities are not "card play" and cannot be used at a non-moving company's current sute.
+
 Each agent is unique—all normal rules apply. If a specific agent is in play face-up and a second, identical agent is turned face-up (i.e., it is revealed), the second agent is immediately discarded.
+
+{: .note }
+> **Clarification:** Only face-up agents are considered for uniqueness.[^crf-terms-agent]
 
 #### Untapping an Agent
 
@@ -283,3 +295,4 @@ These Emended Rules provide the original published text with emendations from er
 [^medm-errata-play-creatures]: _Rules Erratum_: An agent may tap to play creatures at a site if the company is moving to the site. See [CRF 15, Rulings by Term, Agents](/original/rulings/crf-15/#agent).
 [^rulings-monday-12-6-97]: See [CRF, Delayed Rulings / Rulings Monday, Rulings Effective 12/6/97](/original/rulings/crf-15/#rulings-effective-12697)
 [^crf-errata-agent-detainment]: Agent attacks against minions are always detainment. \[Effective 8/27/98]. See [CRF, Complete Errata Listing, Rules Errata](/original/rulings/crf-15/#rules-errata)
+[^crf-current-site]: A non-moving company’s current site is considered its new site for card play. See [CRF, Turn Sequence, Movement/Hazard Phase, General](/original/rulings/crf-15/#general).
