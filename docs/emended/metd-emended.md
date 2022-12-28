@@ -60,8 +60,8 @@ Each of the nine unique Dragons (see above) has four[^four-manifestations] diffe
 
 **Ahunt** — In this manifestation a Dragon is considered to be hunting in a wide range of regions. Each of these manifestations is represented by a hazard long-event that will attack any company moving in a given set of regions (e.g., _Smaug Ahunt_ normally causes an attack against any company moving in Withered Heath, Northern Rhovanion, Iron Hills, and/or Grey Mountain Narrows).
 
-{: .note }
-> If one Ahunt is out and your company moves through two or more of the regions listed on it, then you face the attack once.[^crf-terms-ahunt]
+     {: .note }
+     > **Clarification:** If one Ahunt is out and your company moves through two or more of the regions listed on it, then you face the attack once.[^crf-terms-ahunt]
 
 **At Home** — In this manifestation a Dragon is considered to be resident in his lair. Each of these manifestations is represented by a hazard permanent-event that gives its lair an additional automatic-attack and causes certain other global effects (e.g., _Scorba At Home_ gives Zarak Dum an additional automatic-attack and each major item gives an additional corruption point).
 
