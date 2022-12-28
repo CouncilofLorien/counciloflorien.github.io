@@ -20,6 +20,8 @@ _MEDM_ includes _minion cards_—a new type of card with a new type of template�
 The concept of minions used in a non-agent fashion will be introduced in _Middle-earth: The Lidless Eye_ (a stand-alone expansion due out in the Spring of 1997). In _The Lidless Eye_, minions will be used like characters, but each minion will be under the influence of one of Sauron's Dark Lieutenants.
 
 {: .note }
+> **Clarification:** Minion characters are not affected by cards that target agents.[^crf-minion-characters]
+> 
 > **Clarification:** While in play agents played as hazards may not become minion characters, and agents played as minion characters may not become hazards.[^crf-terms-agent] See also [_MELE_, Agents](/original/rulebooks/the-lidless-eye/#agents)
 
 #### Permanent-events (_Clarification_)
@@ -31,6 +33,9 @@ You may not make an influence attempt on an item with a permanent event on it.
 #### Placement of cards "off to the side" (_Clarification_)
 
 Certain cards and effects require other cards be placed "off to the side" (for example, _Sacrifice of Form_ from _Middle-earth: The Wizards_). Cards placed off to the side are placed on the playing surface off to the side of the normal area of play. Such cards are kept with their host permanent-event that caused this effect. Any card placed off to the side absolutely cannot be targeted or otherwise affected by the game except by cards that specifically affect cards placed "off to the side." 
+
+{: .note }
+> **Clarification:** Host cards of cards off to the side can be targeted normally.[^crf-terms-off-to-the-side]
 
 Cards placed off to the side are in play for the purposes of uniqueness. Unless stated otherwise, when a host permanent-event is removed from the playing surface, any cards placed off to the side under it are discarded.
 
@@ -307,6 +312,7 @@ NOTES
 
 These Emended Rules provide the original published text with emendations from errata and official clarifications. Such emendations are annotated. The rules also include corrections to minor typographical, grammatical, clerical, and typesetting issues in the original text. Such corrections are not marked or annotated. Any correction beyond a minor issue would be annotated.
 
+[^crf-minion-characters]: Minion characters are not affected by cards that target agents. See [CRF, Rulings by Term, Minion Characters](/original/rulings/crf-15/#minion-characters)
 [^crf-terms-agent]: See [CRF 15, Rulings by Term, Agents](/original/rulings/crf-15/#agent).
 [^medm-errata-play-creatures]: _Rules Erratum_: An agent may tap to play creatures at a site if the company is moving to the site. See [CRF 15, Rulings by Term, Agents](/original/rulings/crf-15/#agent).
 [^rulings-monday-12-6-97]: See [CRF, Delayed Rulings / Rulings Monday, Rulings Effective 12/6/97](/original/rulings/crf-15/#rulings-effective-12697)
@@ -314,3 +320,4 @@ These Emended Rules provide the original published text with emendations from er
 [^crf-current-site]: A non-moving company’s current site is considered its new site for card play. See [CRF, Turn Sequence, Movement/Hazard Phase, General](/original/rulings/crf-15/#general).
 [^crf-site-phase-general]: Play of an ally, item, faction, or resource card which will normally tap the site must be after the company resolves all automatic, agent and on-guard creature attacks. See [CRF, Turn Sequence, Site Phase, General](/original/rulings/crf-15/#general-3)
 [^crf-card-effect-limitations]: You may not play the following cards if your opponent is a Ringwraith or Sauron. Additionally, if you are not a Ringwraith or Sauron, a Ringwraith or Sauron opponent can play these cards against you and not be affected by any of their global effects: All hazard events that require an agent. _Near to Hear a Whisper_ and _Sudden Fury_ from _Middle-earth: Against the Shadow_ and _Great Need or Purpose_ may be played because they do not target a specific agent. See [CRF, Rulings by Term, Card Effect Limitations](/original/rulings/crf-15/#card-effect-limitations)
+[^crf-terms-off-to-the-side]: Host cards of cards off to the side can be targeted normally. See [CRF, Rulings by Term, Off-to-the-side](/original/rulings/crf-15/#off-to-the-side)
