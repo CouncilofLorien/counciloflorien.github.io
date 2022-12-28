@@ -37,7 +37,6 @@ Each Sanctioned or Qualifier tournament has a tournament coordinator. This is th
    > 
    > Allowing players to introduce characters in this fashion minimizes matches where each player starts with very few characters because of multiple duplications.
  6. **End-of-Game Ties**---The End-of-Game is a general term that encompasses a game's final "process:" Free Council, Audience with Sauron, Day of Reckoning, etc. The Weakest Link Method, as printed on page 57 of the Middle-earth: The Wizards Companion (and detailed below), is used to break ties at the End-of-Game.
-
    > {: .text-center }
    > <h3>The Weakest Link Method</h3>
    > 
@@ -46,7 +45,6 @@ Each Sanctioned or Qualifier tournament has a tournament coordinator. This is th
    > If, in the unlikely event, all non-Wizard/Ringwraith characters in play are corrupted away by this method, and there is still a tie, each player receives 3 tournament points (see description of the Swiss System tournament format below).
    > 
    > Note that the Weakest Link Method simulates who will most likely fail in the final struggle against the enemy. The characters are not actually being corrupted during the End-of-Game. Instead, the End-of-Game Council is "peering into the heart and soul" of each character and assessing him or her.
-
  7. **End-of-Game Order**---To determine which player's characters make their corruption checks first when going into the End-of-Game (and possibly carried into The Weakest Link Method), each player makes a dice roll. Rerolling ties, the player who rolls highest chooses which player's characters go first. This rule only has a significant application in limited cases, such as when a Traitor card is in play.
  8. **Creature Minimum**---A 12 creature minimum is required in each play deck's hazard mix. Creatures that are also events count as only half a creature towards this limit (rounding down). Such creatures include the Nazgûl, Mouth of Sauron, and Shelob. Dragon Ahunt and At Home manifestations count as half a creature for these purposes. Agents (introduced in Middle-earth: Dark Minions) also count as half a creature for these purposes, when constructing a hero or Balrog deck. Agents count as characters in minion and Fallen-wizard decks for these purposes. Sideboards have no such creature restrictions.
  9. **Card Minimums**---The minimum number of hazards and resources in a play deck is increased from 25 and 25 to 30 and 30.
