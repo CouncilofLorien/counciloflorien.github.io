@@ -118,6 +118,8 @@ An agent can be thought of as a _hazard_ that acts as a creature with the follow
 > **Clarification:** Agents are not creatures.[^crf-terms-agent]
 > 
 > **Clarification:** When constructing a Ringwraith deck, agents are always considered characters. The maximum of 36 mind of agents in your sideboard and play deck combined still applies.[^crf-terms-agent]
+> 
+> **Clarification:** Agents count as both characters and hazards during the game in a Ringwraith deck.[^rulings-monday-12-6-97]
 
 An agent is always located at a site. Once an agent has been revealed _or_ has moved to a site that is not one of its home sites, one of your site cards must be used for this purpose. A face-up agent's site card must always be face-up. Agents move and operate alone (i.e., they do not move and operate in "companies").
 
@@ -207,6 +209,8 @@ This attack is declared and enacted at the start of the site phase immediately f
 > **Note:** Certain cards (e.g., _Cunning Foes_, _To Get You Away_, etc.) allow an agent at a company's new site to attack a company during the movement/hazard phase.
 > 
 > **Clarification:** Playing a card that makes an agent attack is considered the attack’s declaration.[^crf-terms-agent]
+> 
+> **Notice:** Automatic-attacks and on-guard creatures are declared at Step 1 of the site phase (See [_MELE_, 7 • COMBAT](/original/rulebooks/the-lidless-eye/#7--combat) and [_MELE_, Placing a Card On-guard](/original/rulebooks/the-lidless-eye/#placing-a-card-on-guard). Then the automatic-attacks and any on-guard creature attacks are resolved at Step 2 of the site phase (See [_MELE_ Site Phase](/original/rulebooks/the-lidless-eye/#site-phase). An attack by an agent is declared in Step 2 after the automatic-attacks and any on-guard attacks are resolved (see also the example below).
 
 #### Resolving Combat With an Agent
 
@@ -218,6 +222,7 @@ When one of your agents attacks it is considered to be the _attacker_ and it has
      - If at his home site, his prowess is modified by +5 for that attack **and** his body is modified by +l **and** the attacker chooses defending characters.
      - If _not_ at his home site, his prowess is modified by +2 for that attack.<br>If a face-down agent attacks as the result of the play of a card, the agent is considered to be face-down when the attack is declared.
  - If the agent is _face-up at his home site_ when the attack is declared, his prowess is modified by +2 for that attack **and** his body is modified by + 1.
+ - Agent attacks against minions are always detainment.[^crf-errata-agent-detainment] See [The Lidless Eye, Starter Rules, 7 • COMBAT, "Detainment" attacks](/original/rulebooks/the-lidless-eye/#detainment-attacks)
  - After the combat, the agent remains in play **and** it must be face-up and tapped _or_ face-up and wounded.
 
 {: .note }
@@ -268,6 +273,8 @@ To attempt to influence in this manner, your agent must make an influence check 
 
 Any hazard creature you play as an automatic-attack is discarded if defeated—it is not placed in your opponent's marshalling point pile.
 
+> **Notice:** Combat consisting of one or more automatic-attacks, including creatures played as automatic-attacks, occurs when a company decides to enter the site at Step 1 (see [_MELE_, 7 • COMBAT](/original/rulebooks/the-lidless-eye/#7--combat)). The automatic-attacks attack the company at Step 2. (see [_MELE_, Site Phase](/original/rulebooks/the-lidless-eye/#site-phase)). This means that any creature played as an automatic-attack is played when the company enters the site (Step 1 of the site phase) such that its attack is declared along with any other automatic-attacks.
+
 ---
 
 {: .text-center .text-gamma }
@@ -277,3 +284,5 @@ These Emended Rules provide the original published text with emendations from er
 
 [^crf-terms-agent]: See [CRF 15, Rulings by Term, Agents](/original/rulings/crf-15/#agent).
 [^medm-errata-play-creatures]: _Rules Erratum_: An agent may tap to play creatures at a site if the company is moving to the site. See [CRF 15, Rulings by Term, Agents](/original/rulings/crf-15/#agent).
+[^rulings-monday-12-6-97]: See [CRF, Delayed Rulings / Rulings Monday, Rulings Effective 12/6/97](/original/rulings/crf-15/#rulings-effective-12697)
+[^crf-errata-agent-detainment]: Agent attacks against minions are always detainment. \[Effective 8/27/98]. See [CRF, Complete Errata Listing, Rules Errata](/original/rulings/crf-15/#rules-errata)
