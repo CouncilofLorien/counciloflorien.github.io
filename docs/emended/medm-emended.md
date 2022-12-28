@@ -10,9 +10,6 @@ permalink: /emended/dark-minions/
 
 This insert provides expansion rules and clarifications for use with all _Middle-earth Collectible Card Game_ (_MECCG_) products.
 
-{: .note }
-> **Note:** For a copy of these rules in larger type with more examples send a request and a self-addressed, stamped envelope to ICE, P.O. Box 1605, Charlottesville, VA, 22903. Alternatively, visit our home page on the WWW (http://www.ironcrown.com).
-
 #### Minion Cards (_Clarification_)
 
 _MEDM_ includes _minion cards_—a new type of card with a new type of template—the background is iron with a "rusted" purple tint. In _MEDM_, minions are used as hazards called _agents_. An agent is a hazard that represents an individual that has been sent on a covert mission by the Dark-lord or one of his Dark Lieutenants. However, not all agents are minions. The two agents on the normal hazard template are "non-Minion agents:" _My Precious_ and _Lobelia Sackville Baggins_.
