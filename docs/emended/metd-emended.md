@@ -38,7 +38,7 @@ Scorba  | Zarak Dum  | Angmar
 Smaug  |  The Lonely Mountain  |  Northern Rhovanion
 
 {: .note }
-> **Clarification:** The normal Dragon automatic-attacks printed on these sites are **not** considered manifestations of the unique Dragon.[^crf-terms-dragons]
+> **Clarification:** The normal Dragon automatic-attacks printed on these sites are **not** considered manifestations of the unique Dragon.[^crf-terms-dragon-lairs]
 
 ### HOARDS
 
@@ -189,16 +189,17 @@ NOTES
 These Emended Rules provide the original published text with emendations from errata and official clarifications. Such emendations are annotated. The rules also include corrections to minor typographical, grammatical, clerical, and typesetting issues in the original text. Such corrections are not marked or annotated. Any correction beyond a minor issue would be annotated.
 
 [^capture]: There is no _Capture_ keyword in _MECCG_.
-[^crf-terms-ahunt]: See [CRF 15, Rulings by Term, Ahunt Manifestations](/original/rulings/crf-15/#ahunt-manifestations)
-[^crf-terms-dragons]: See [CRF 15, Rulings by Term, Dragons](/original/rulings/crf-15/#dragons)
+[^crf-terms-ahunt]: See CRF 15, Rulings by Term, [Ahunt Manifestations](/original/rulings/crf-15/#ahunt-manifestations)
+[^crf-terms-dragons]: See CRF 15, Rulings by Term, [Dragons](/original/rulings/crf-15/#dragons)
+[^crf-terms-dragon-lairs]: Dragon automatic-attacks are not considered manifestations of any unique Dragon. See CRF 15, Rulings by Term, [Dragons](/original/rulings/crf-15/#dragons)
 [^dragon-hoard-errata]: Rules Erratum: Dragon Rules, Hoards: Change “_Each site with a Dragon automatic-attack (i.e., each Dragon’s Lair) contains a hoard_” to “_Each site which had a Dragon automatic-attack at the beginning of the turn contains a hoard_.”
 [^dragon-multiple-strike-errata]: Rules Erratum: Dragons Rules, Characters Facing Multiple Strikes: Change "_are then considered to be canceled_" to "_are then considered to be successful_."
 [^four-manifestations]: With the _Roused_ Dragon factions there are now four manifestations of dragons, not three.
 [^roused]: The _Roused_ dragon manifestations were introduced in _Middle-earth: The Lidless Eye_. See also [CRF 15, Rulings by Term, Dragons](/original/rulings/crf-15/#dragons).
-[^remove-another-characters-corruption]: See also [CRF 15, Rulings by Term, Corruption](/original/rulings/crf-15/#corruption): A character attempting to remove a corruption card on another character may ignore the tapping requirement and recieve -3 to the roll.
-[^crf-terms-trophies]: See [CRF 15, Rulings by Term, Trophies](/original/rulings/crf-15/#trophies)
-[^mele-factions]: See [The Lidless Eye, Starter Rules, 10 • PLAYING AND DRAWING CARDS, RESOURCE CARDS, NON-EVENT, Factions](/original/rulebooks/the-lidless-eye/#factions)
-[^mele-mp]: See [The Lidless Eye, Using MELE with METW, 7 • COMBAT, Marshalling Points](/original/rulebooks/the-lidless-eye/#marshalling-points-2)
-[^mewh-sideboard]: See [The White Hand, Sideboard Size](/original/rulebooks/the-white-hand/#sideboard-size)
-[^crf-turn-attack]: See [CRF 15, Turn Sequence, Combat, Attack](original/rulings/crf-15/#attack)
-[^crf-terms-sideboard]: You can access hazards from your sideboard when your opponent’s Wizard/Ringwraith is in play or if your opponent plays _The Lidless Eye_ or _Sauron_. See [CRF, Rulings by Term, Sideboard](/original/rulings/crf-15/#sideboard) and [Council of Lorien Tournament Policy #3, Accessing Hazards in Sideboard](/original/tournament/policy-3)
+[^remove-another-characters-corruption]: See also CRF 15, Rulings by Term, [Corruption](/original/rulings/crf-15/#corruption): A character attempting to remove a corruption card on another character may ignore the tapping requirement and recieve -3 to the roll.
+[^crf-terms-trophies]: See CRF 15, Rulings by Term, [Trophies](/original/rulings/crf-15/#trophies)
+[^mele-factions]: See The Lidless Eye, Starter Rules, 10 • PLAYING AND DRAWING CARDS, RESOURCE CARDS, NON-EVENT, [Factions](/original/rulebooks/the-lidless-eye/#factions)
+[^mele-mp]: See The Lidless Eye, Using MELE with METW, 7 • COMBAT, [Marshalling Points](/original/rulebooks/the-lidless-eye/#marshalling-points-2)
+[^mewh-sideboard]: See _MEWH_, [Sideboard Size](/original/rulebooks/the-white-hand/#sideboard-size)
+[^crf-turn-attack]: See CRF 15, Turn Sequence, Combat, [Attack](original/rulings/crf-15/#attack)
+[^crf-terms-sideboard]: You can access hazards from your sideboard when your opponent’s Wizard/Ringwraith is in play or if your opponent plays _The Lidless Eye_ or _Sauron_. See CRF, Rulings by Term, [Sideboard](/original/rulings/crf-15/#sideboard) and Council of Lorien Tournament Policy #3, [Accessing Hazards in Sideboard](/original/tournament/policy-3)
