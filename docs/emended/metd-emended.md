@@ -60,8 +60,8 @@ Each of the nine unique Dragons (see above) has four[^four-manifestations] diffe
 
 **Ahunt** — In this manifestation a Dragon is considered to be hunting in a wide range of regions. Each of these manifestations is represented by a hazard long-event that will attack any company moving in a given set of regions (e.g., _Smaug Ahunt_ normally causes an attack against any company moving in Withered Heath, Northern Rhovanion, Iron Hills, and/or Grey Mountain Narrows).
 
-     {: .note }
-     > **Clarification:** If one Ahunt is out and your company moves through two or more of the regions listed on it, then you face the attack once.[^crf-terms-ahunt]
+{: .note }
+> **Clarification:** If one Ahunt is out and your company moves through two or more of the regions listed on it, then you face the attack once.[^crf-terms-ahunt]
 
 **At Home** — In this manifestation a Dragon is considered to be resident in his lair. Each of these manifestations is represented by a hazard permanent-event that gives its lair an additional automatic-attack and causes certain other global effects (e.g., _Scorba At Home_ gives Zarak Dum an additional automatic-attack and each major item gives an additional corruption point).
 
@@ -99,6 +99,9 @@ If at any time an attack from a manifestation of a unique Dragon is defeated or 
 ### HAZARD LIMIT (_Clarification_)
 
 The base hazard limit is determined (i.e., set) simultaneously at the moment a company reveals its new site or otherwise announces it is beginning its movement/hazard phase. Any cards which modify a company's hazard limit played prior to this point are then immediately applied to the company's base hazard limit in the order chosen by the player controlling the company. With such modifications established, any cards played after this point are interpreted in the order they are resolved. Any effects which modify the hazard limit against a company during its site phase are ignored. Any reduction in the hazard limit during a movement/hazard phase does not affect cards already announced and played.
+
+{: .note }
+> **Clarification:** The hazard limit is checked at declaration and resolution. At declaration there must be fewer hazards already declared than the hazard limit. At resolution there must be no more hazards declared than the hazard limit.[^crf-turn-hazard-limit]
 
 ### CHARACTERS FACING MULTIPLE STRIKES
 
@@ -203,3 +206,5 @@ These Emended Rules provide the original published text with emendations from er
 [^mewh-sideboard]: See _MEWH_, [Sideboard Size](/original/rulebooks/the-white-hand/#sideboard-size)
 [^crf-turn-attack]: See CRF 15, Turn Sequence, Combat, [Attack](original/rulings/crf-15/#attack)
 [^crf-terms-sideboard]: You can access hazards from your sideboard when your opponent’s Wizard/Ringwraith is in play or if your opponent plays _The Lidless Eye_ or _Sauron_. See CRF, Rulings by Term, [Sideboard](/original/rulings/crf-15/#sideboard) and Council of Lorien Tournament Policy #3, [Accessing Hazards in Sideboard](/original/tournament/policy-3)
+[^crf-turn-hazard-limit]: You check the hazard limit at declaration and resolution. At declaration there must be less hazards already declared than the hazard limit. At resolution there must be no more hazards declared than the hazard limit. See CRF, Turn Sequence, Movement/Hazard Phase, Movement, [Playing Hazards](/original/rulings/crf-15/#playing-hazards)
+
