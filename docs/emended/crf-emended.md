@@ -9,7 +9,7 @@ permalink: /emended/crf/
 # Collected Rulings File
 
 {: .text-center .text-beta }
-EMENDED RULINGS
+ANNOTATED AND EMENDED
 
 The Collected Rulings File (CRF) for the _Middle-earth: Collectible Card Game_ includes clarifications and errata. A common misconception is that only _errata_ could change how the game played and that _clarifications_ were merely explanations. This miconception is dispelled by ICE's own description of these terms from the _Companion_ books: _If a card or rule lists an errata, it means that the text of the card is wrong or incomplete. If a card or rule lists clarification, it means the text could be ambiguous._ Both clarifications and errata can change how a card or rule work, but errata changes the wording while a clarification explains or adds to the existing wording without changing it. Given that too much errata had been the death of other CCGs at the time, ICE was obstinant against issuing "errata."
 
