@@ -72,11 +72,13 @@ Only your opponent can receive marshalling points from defeating a manifestation
 {: .note }
 > **Clarification:** If you defeat the attack from a Dragon manifestation, you get kill marshalling points from the manifestation as if you had defeated a creature.[^crf-terms-dragons]
 > 
+> **Clarification:** If a hero company defeats an attack by a Ringwraith’s Dragon faction, the hero player receives its marshalling points as kill marshalling points.[^mele-mp]
+>
 > **Clarification:** If a Ringwraith player defeats an attack from a Dragon faction, remove the Dragon from play. That player does not receive its marshalling points.[^mele-factions]
 > 
-> **Clarification:** If a hero company defeats an attack by a Ringwraith’s Dragon faction, the hero player receives its marshalling points as kill marshalling points.[^mele-mp]
+> **Clarification:** [_MELE_, Standard Rules, Combat, Trophies](/original/rulebooks/the-lidless-eye/#trophies): Defeated Dragon manifestations can be used as trophies, including Dragon factions.[^crf-terms-trophies]
 > 
-> **See:** [_MELE_, Standard Rules, Combat, Trophies](/original/rulebooks/the-lidless-eye/#trophies): Defeated Dragon manifestations can be used as trophies, including Dragon factions.[^crf-terms-trophies]
+> **Clarification:** When a minion company defeats an attack with no * by the MPs, the creature goes to the out-of-play pile belonging to the person who played the attack. They may still be taken as a trophy, but go to the appropriate out-of-play pile when the trophy is discarded.[^crf-turn-attack]
 
 If at any time an attack from a manifestation of a unique Dragon is defeated or if the manifestation is otherwise removed from the game:
 
@@ -188,3 +190,4 @@ These Emended Rules provide the original published text with emendations from er
 [^mele-factions]: See [The Lidless Eye, Starter Rules, 10 • PLAYING AND DRAWING CARDS, RESOURCE CARDS, NON-EVENT, Factions](/original/rulebooks/the-lidless-eye/#factions)
 [^mele-mp]: See [The Lidless Eye, Using MELE with METW, 7 • COMBAT, Marshalling Points](/original/rulebooks/the-lidless-eye/#marshalling-points-2)
 [^mewh-sideboard]: See [The White Hand, Sideboard Size](/original/rulebooks/the-white-hand/#sideboard-size)
+[^crf-turn-attack]: See [CRF 15, Turn Sequence, Combat, Attack](original/rulings/crf-15/#attack)
