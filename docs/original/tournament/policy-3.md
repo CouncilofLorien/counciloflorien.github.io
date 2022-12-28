@@ -139,16 +139,16 @@ The Swiss System format can be used for any of the actual types of games being r
  - Upon completing a game, a player must notify the tournament coordinator if he or she intends not to participate in the next round. A player can feel free to drop out of the tournament after any round, but the player would then be ineligible to reenter the tournament and ineligible to receive any prize or ranking consideration.
  - A total of accumulated tournament points is kept for each player. The winner of the tournament is the player with the most tournament points when all rounds of the tournament are completed. Runners-up can also be determined at that time by comparing tournament point totals.
  - _Tournament Points_-A player is awarded a number of tournament points for the following game results (only one result can apply to each player at the conclusion of each of his or her games).
-      1. Winning with The One Ring (i.e., successfully executing Cracks of Doom, A New Ringlord, etc.)---**10** (in sealed deck game), **8** (in a single-deck game), **7** (in a two-deck), **6** (in a three-deck or four-deck game);
-      2. Defeating opponent with a Marshalling Points Ratio of 2 or greater---**6**;
-      3. Defeating opponent with a Marshalling Points Ratio less than 2 but greater than or equal to 1.5---**5**;
-      4. Defeating opponent with a Marshalling Points Ratio less than 1.5 but greater than one---**4**;
-      5. Defeating opponent with the Weakest Link Method of breaking ties at the Free Council---**3.5**;
-      6. Achieving a tie as per item 6 under GENERAL at the top of this document---**3**;
-      7. Losing with the Weakest Link Method of breaking ties at the Free Council---**2.5**;
-      8. Losing to an opponent who wins by result (d) above---**2**;
-      9. Loosing to an opponent who wins by result (c) above---**1**;
-      10. Losing the game otherwise---**0**.
+           1. Winning with The One Ring (i.e., successfully executing Cracks of Doom, A New Ringlord, etc.)---**10** (in sealed deck game), **8** (in a single-deck game), **7** (in a two-deck), **6** (in a three-deck or four-deck game);
+           2. Defeating opponent with a Marshalling Points Ratio of 2 or greater---**6**;
+           3. Defeating opponent with a Marshalling Points Ratio less than 2 but greater than or equal to 1.5---**5**;
+           4. Defeating opponent with a Marshalling Points Ratio less than 1.5 but greater than one---**4**;
+           5. Defeating opponent with the Weakest Link Method of breaking ties at the Free Council---**3.5**;
+           6. Achieving a tie as per item 6 under GENERAL at the top of this document---**3**;
+           7. Losing with the Weakest Link Method of breaking ties at the Free Council---**2.5**;
+           8. Losing to an opponent who wins by result (d) above---**2**;
+           9. Loosing to an opponent who wins by result (c) above---**1**;
+           10. Losing the game otherwise---**0**.
  - _Tournament Point Ties_---When all rounds are completed, it is possible that more than one player will have the same highest tournament point total (i.e., the leaders will be tied). The following menu of tie-breaking criteria is followed. Each tied participant is in contention until a criterion is resolved that takes him or her out of contention. Those leading participants removed from contention are relegated to the tier of runners-up (and possibly could face another series of tie-breaking criteria-see below). The coordinator resolves the list of criteria in the order given, establishing each player removed from contention, until one player is left in contention, or until the entire list of criteria is resolved and a tie still exists (see below for this case).
       1. _Head-to-Head_. Tally the number of losses of each tied player from all games played with any other tied players. The players with the fewest total head-to-head losses stay in contention. All other players are out of contention.
       2. _Number of Wins_. Tally the number of games each tied player received 3.5 or more tournament points-these are wins. Players with the most wins stay in contention, all others are out of contention.
