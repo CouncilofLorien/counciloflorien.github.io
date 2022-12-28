@@ -126,16 +126,23 @@ An agent can be thought of as a _hazard_ that acts as a creature with the follow
 An agent is always located at a site. Once an agent has been revealed _or_ has moved to a site that is not one of its home sites, one of your site cards must be used for this purpose. A face-up agent's site card must always be face-up. Agents move and operate alone (i.e., they do not move and operate in "companies").
 
 {: .note }
-> **Notice:** Certain hazard events require tapping or discarding an agent at a target company's new site (_An Article Missing_, _Cunning Foes_, _Seek Without Success_, _To Get You Away_).
+> **Notice:** Certain hazard events require tapping or discarding an agent at a target company's new site (e.g., _An Article Missing_, _Cunning Foes_, _Seek Without Success_, _To Get You Away_).
 > 
 > **Clarification:** A non-moving company’s current site is considered its new site for card play.[^crf-current-site]
 > 
 > **Notice:** The hazard agents _Anarin_ and _The Grimburgoth_ have special _Agent only_ abilities that allow them to tap at a company's new site. Such special abilities are not "card play" and cannot be used at a non-moving company's current sute.
+> 
+> **Clarification:** 
 
 Each agent is unique—all normal rules apply. If a specific agent is in play face-up and a second, identical agent is turned face-up (i.e., it is revealed), the second agent is immediately discarded.
 
 {: .note }
 > **Clarification:** Only face-up agents are considered for uniqueness.[^crf-terms-agent]
+
+You may not play hazard events that require an agent if your opponent is a Ringwraith or Sauron. Additionally, if you are not a Ringwraith or Sauron, a Ringwraith or Sauron opponent can play these cards against you and not be affected by any of their global effects. _Near to Hear a Whisper_ and _Sudden Fury_ from _Middle-earth: Against the Shadow_ and _Great Need or Purpose_ from _Middle-earth: Dark Minions_ may be played because they do not target a specific agent.[^crf-card-effect-limitations] See also [_MELE_ Card Effect Limitations](/original/rulebooks/the-lidless-eye/#card-effect-limitations).
+
+
+{: .note}
 
 #### Untapping an Agent
 
@@ -219,6 +226,8 @@ This attack is declared and enacted at the start of the site phase immediately f
 
 {: .note }
 > **Note:** Certain cards (e.g., _Cunning Foes_, _To Get You Away_, etc.) allow an agent at a company's new site to attack a company during the movement/hazard phase.
+> 
+> **Clarification:** An agent may only attack once per site phase.[^crf-terms-agent]
 > 
 > **Clarification:** Playing a card that makes an agent attack is considered the attack’s declaration.[^crf-terms-agent]
 > 
@@ -304,3 +313,4 @@ These Emended Rules provide the original published text with emendations from er
 [^crf-errata-agent-detainment]: Agent attacks against minions are always detainment. \[Effective 8/27/98]. See [CRF, Complete Errata Listing, Rules Errata](/original/rulings/crf-15/#rules-errata)
 [^crf-current-site]: A non-moving company’s current site is considered its new site for card play. See [CRF, Turn Sequence, Movement/Hazard Phase, General](/original/rulings/crf-15/#general).
 [^crf-site-phase-general]: Play of an ally, item, faction, or resource card which will normally tap the site must be after the company resolves all automatic, agent and on-guard creature attacks. See [CRF, Turn Sequence, Site Phase, General](/original/rulings/crf-15/#general-3)
+[^crf-card-effect-limitations]: You may not play the following cards if your opponent is a Ringwraith or Sauron. Additionally, if you are not a Ringwraith or Sauron, a Ringwraith or Sauron opponent can play these cards against you and not be affected by any of their global effects: All hazard events that require an agent. _Near to Hear a Whisper_ and _Sudden Fury_ from _Middle-earth: Against the Shadow_ and _Great Need or Purpose_ may be played because they do not target a specific agent. See [CRF, Rulings by Term, Card Effect Limitations](/original/rulings/crf-15/#card-effect-limitations)
