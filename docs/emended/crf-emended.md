@@ -332,6 +332,8 @@ If you have any further questions concerning _MECCG_, you can either:
  - Only Elven agents can move to a site that is a Wizardhaven.
  - Agent attacks are not keyed to anything.
  - When an agent is revealed, only the site he is at will be affected by environment cards.
+      - **Source:** [\[MECCG\] Rules Digest 53](https://groups.google.com/g/rec.games.trading-cards.misc/c/0fNSsP7zhdc/m/tTCYRzkG2OAJ) ([Archive](https://web.archive.org/web/20221228010403/https://groups.google.com/g/rec.games.trading-cards.misc/c/0fNSsP7zhdc/m/tTCYRzkG2OAJ)). A question about whether _Long Winter_ taps an agent's sites.
+      - **Comment:** It does not matter whether _Long Winter_ taps an agents site because the sites used by an agent are returned to the location deck. The sites used by an are not discarded if they are tapped. See [MEDM, Agents, Moving an agent](/original/rulebooks/dark-minions/#moving-an-agent-agent-action) and [MEDM, Agents, Revealing an Agent](/original/rulebooks/dark-minions/#revealing-an-agent)
  - Agents do not get the -5 penalty for influencing across alignments.
  - If you are a Ringwraith, your agents may move as if Dagorlad and Udun are adjacent.
  - The rules on agent movement do not apply to revealed agents, since they refer to the first site card played, which is discarded when the agent is revealed the first time.
