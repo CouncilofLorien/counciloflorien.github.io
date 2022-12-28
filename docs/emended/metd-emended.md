@@ -45,6 +45,11 @@ Smaug  |  The Lonely Mountain  |  Northern Rhovanion
 Certain items are _hoard items_. Such an item may only be played at a site that contains a hoard. Each site which had a Dragon automatic-attack at the beginning of the turn contains a hoard.[^dragon-hoard-errata] A hoard minor item may not be included with a starting company, and may not be played at a site that does not contain a hoard.
 
 {: .note }
+> **Comment:** The rule "_Each site which had a Dragon automatic-attack at the beginning of the turn contains a hoard_" replaces an original rule stating "_Each site with a Dragon automatic-attack (i.e., each Dragon’s Lair) contains a hoard._" The original rule meant that a site would not contain a hoard if an _At Home_ dragon automatic-attack were defeated because that causes the Dragon’s lair to no longer have a Dragon automatic-attack. The rule was changed to enable hoard items to be played on the same turn that a unique Dragon manifestation was defeated. There is no indication that the new rule was intended to require the Dragon's lair site to have been in play at the beginning of the turn.
+> 
+> **Notice:** Only sites which had a Dragon automatic-attack at the _beginning_ of the turn contain a hoard. Sites which gain a Dragon automatic-attack by (e.g., by playing a Dragon as an automatic-attack. See [_MEDM_ Creatures as Automatic-attacks](/emended/dark-minions/#creatures-as-automatic-attacks)) do not contain a hoard.
+
+{: .note }
 > **Example:** You can not play a hoard minor item at Wellinghall after successfully influencing the _Ents of Fangorn_ like you can with a normal minor item. Wellinghall does not contain a hoard.
 
 ### MANIFESTATIONS OF DRAGONS
@@ -124,7 +129,12 @@ With the publication of _Middle-earth: The Dragons_, the number of different res
 > - 35 cards for the 3-deck game.
 > - 40 cards for the 4-deck game.
 
-At the end of your opponent's untap phase, if your opponent's Wizard is in play, you may at this point bring up to five hazard cards from your sideboard to your discard pile; **or**, if your play deck has at least 5 cards, you may bring one hazard card directly from your sideboard into your play deck (reshuffle). If you move cards from your sideboard in this fashion, the hazard limit for each of your opponent's companies is reduced to half of normal (round up, e.g., a hazard limit of 2 becomes l, a hazard limit of 3 becomes 2, etc.).
+At the end of your opponent's untap phase, if your opponent's Wizard is in play, you may at this point bring up to five hazard cards from your sideboard to your discard pile; **or**, if your play deck has at least 5 cards, you may bring one hazard card directly from your sideboard into your play deck (reshuffle). If you move cards from your sideboard in this fashion, the hazard limit for each of your opponent's companies is reduced to half of normal (round up, e.g., a hazard limit of 2 becomes 1, a hazard limit of 3 becomes 2, etc.).
+
+{: .note}
+> **Clarification:** You can access hazards from your sideboard when your opponent’s Wizard/Ringwraith is in play. You must declare this at the end of your opponent’s untap phase and then access hazards as if you had tapped a Nazgul permanent-event to do so. The hazard limit against all of your opponent’s companies that turn is halved, rounded up. [^crf-terms-sideboard]
+> 
+> **Clarification:** You may access your sideboard when your opponent plays _The Lidless Eye_ or _Sauron_ as if he had revealed his Ringwraith.[^crf-terms-sideboard]
 
 ### REGION MOVEMENT LIMITATION
 
@@ -191,3 +201,4 @@ These Emended Rules provide the original published text with emendations from er
 [^mele-mp]: See [The Lidless Eye, Using MELE with METW, 7 • COMBAT, Marshalling Points](/original/rulebooks/the-lidless-eye/#marshalling-points-2)
 [^mewh-sideboard]: See [The White Hand, Sideboard Size](/original/rulebooks/the-white-hand/#sideboard-size)
 [^crf-turn-attack]: See [CRF 15, Turn Sequence, Combat, Attack](original/rulings/crf-15/#attack)
+[^crf-terms-sideboard]: You can access hazards from your sideboard when your opponent’s Wizard/Ringwraith is in play or if your opponent plays _The Lidless Eye_ or _Sauron_. See [CRF, Rulings by Term, Sideboard](/original/rulings/crf-15/#sideboard) and [Council of Lorien Tournament Policy #3, Accessing Hazards in Sideboard](/original/tournament/policy-3)
