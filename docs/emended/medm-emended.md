@@ -20,7 +20,7 @@ _MEDM_ includes _minion cards_â€”a new type of card with a new type of templateâ
 The concept of minions used in a non-agent fashion will be introduced in _Middle-earth: The Lidless Eye_ (a stand-alone expansion due out in the Spring of 1997). In _The Lidless Eye_, minions will be used like characters, but each minion will be under the influence of one of Sauron's Dark Lieutenants.
 
 {: .note }
-> **Clarification:** While in play agents played as hazards may not become minion characters, and agents played as minion characters may not become hazards.[^crf-terms-agent]
+> **Clarification:** While in play agents played as hazards may not become minion characters, and agents played as minion characters may not become hazards.[^crf-terms-agent] See also [_MELE_, Agents](/original/rulebooks/the-lidless-eye/#agents)
 
 #### Permanent-events (_Clarification_)
 
