@@ -164,7 +164,7 @@ The first player to store five lost treasures wins immediately. If both players 
 **Color Corrections:** Bernd Dietrich, Alexander Gunther, J. Ney-Grimm  
 **Production:** Wendy Frazer, Kurt H. Fischer, N. Morawitz  
 **Assisting Art Direction:** Jason O. Hawkins  
-**Card Design:** C. Charlton, John W. Curtis III, P. Fenlon, J. Hawkins, M. Morawitz, J. Ney-Grimm, M. Reynolds, Mark Ward
+**Card Design:** C. Charlton, John W. Curtis III, P. Fenlon, J. Hawkins, M. Morawitz, J. Ney-Grimm, M. Reynolds, Mark Ward  
 **Special Contributions:** Steven Balbo, Deane Begiebing, K. Fischer, Scott Frazer, W. Frazer, Olivia Johnston, Bob Mohney, Dave Morris, Bruce Neidlinger, Craig "Ichabod" O'Brien, Erik Peterson, Dave Platnick, James Whitehouse, Daniel Williams, Monica Wilson
 Proofreading: D. Begiebing, J. Curtis III, W. Frazer, J. Ney-Grimm, D. Platnick  
 **Playtesting Credits:** The Arcane Circle. Deb Baedke, Neal Baedke, Richard Clyne, Eric DeBlackmere, B. Dietrich, Scott Forehand, S. Frazer. W. Frazer, A. Gunther, Joel Hedges, Larry Hughes, Mike Lowery, Todd McGovern, Eric McLuen, John Miceli, B. Mohney, C. O'Brien, Elmar Perkuhn, E. Peterson, Harry Schifflet, James Stellmach, Michael Sloan, Jimmy Twofeathers,
