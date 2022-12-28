@@ -1536,7 +1536,7 @@ When one player is a Ringwraith and his opponent is a Wizard, play proceeds norm
 {: .note }
 > **Note:** Unless stated otherwise, the Wizard player uses the _METW_ rules and the Ringwraith player uses the _MELE_ rules. Most elements of _METW_ and _MELE_ are identical—both of these series are part of the _Middle-earth Collectible Card Game_ ("_MECCG_"). Should a discrepancy arise between an aspect of the _MELE_ rules and the _METW_ rules, the _MELE_ rules take precedence as they were written with refinements in language and organization. Do not to confuse an element of _MELE_ that is particular to playing a Ringwraith with a Wizard's perspective on things—passages containing Ringwraith only rules are marked with a line of bullets as a sidebar.
 
-## 1 · THE VICTORY CONDITIONS
+## 1 • THE VICTORY CONDITIONS
 
 Assuming you are a Ringwraith and your opponent is a Wizard, the game ends when one of the following occurs during play:
 
@@ -1555,7 +1555,7 @@ All characters and Wizards make corruption checks as outlined in the _MELE_ and 
 
 At the Audience/Council, you may reveal any unique marshalling point cards in your hand that match unique cards that your opponent has in play. You may also reveal any marshalling point cards in your hand that are manifestations of cards that your opponent has in play. Each such revealed card reduces your opponent's marshalling point total by one.
 
-## 2 · THE CARDS AND DECKS
+## 2 • THE CARDS AND DECKS
 
 Hazard cards are the same for both _MELE_ and _METW_ and may be freely used by both Ringwraiths and Wizards. _MELE_ does not include region cards. However, if region movement is being used,
 Ringwraith players may use _METW_ region cards (or an appropriate, mutually acceptable map).
@@ -1613,7 +1613,7 @@ would make little sense in terms of simulating Tolkien's works. Again, it is up 
 | | | Revealed to All Watchers |
 | | | Wraith-lord |
 
-## 3 · GETTING READY TO PLAY
+## 3 • GETTING READY TO PLAY
 
 As mentioned above, only Ringwraith players may include minion characters, resources, and sites in their decks, while only Wizard players may include hero characters, resources, and sites in their
 decks. For these purposes, decks include sideboards. The following modifications to the deck requirements should be used:
@@ -1630,18 +1630,18 @@ decks. For these purposes, decks include sideboards. The following modifications
 {: .note }
 > **Note:** These guidelines should also be used if both players have access to a large number of _MECCG_ cards from _MELE_, _METW_, _ME: The Dragons_, and _ME: Dark Minions_.
 
-## 4 · THE PLAYER TURN
+## 4 • THE PLAYER TURN
 
 The player turn remains basically the same. However, during your site phase, one and only one of your companies may do _one and only one_ of the following:
 
  - Attempt to influence away one of your opponent's characters, followers, allies, factions, or items (if it is at the same site).
  - Make an attack against one of your opponent's companies (if it is at the same site). See [page 80]() for more details.
 
-## 5 · CHARACTERS & COMPANIES
+## 5 • CHARACTERS & COMPANIES
 
 When you reveal your Ringwraith or play a Ringwraith follower, any corresponding Nazgul hazard in play is discarded.
 
-## 6 · MOVEMENT
+## 6 • MOVEMENT
 
 If region movement is being used, Ringwraith players may use _METW_ region cards (or an appropriate, mutually acceptable map).
 
@@ -1687,7 +1687,7 @@ For the purposes of playing hazards, the site path for a company using region mo
 > 
 > On her first turn, she moves to the Easterling Camp by playing the Easterling Camp site and the following regions: Gorgoroth ![](/assets/images/dark-domain.svg), Nurn ![](/assets/images/dark-domain.svg), Horse Plains ![](/assets/images/shadow-land.svg). On her second turn, she moves to The Lonely Mountain by playing the Lonely Mountain and the following regions: Horse Plains ![](/assets/images/shadow-land.svg), Southern Rhovanion ![](/assets/images/wilderness.svg), Northern Rhovanion ![](/assets/images/wilderness.svg).
 
-## 7·COMBAT
+## 7 • COMBAT
 
 In Ringwraith vs. Wizard games, most combats with companies fighting creature attacks, automatic-attacks, and special attacks are handled normally. However, when combat occurs between a Ringwraith company and a Wizard company, certain special guidelines must be followed.
 
@@ -1806,18 +1806,18 @@ A Wizard player does not receive marshalling points for defeating a creature wit
 
 If a hero company defeats an attack by a Ringwraith's Dragon faction, the hero player receives its marshalling points as kill marshalling points.
 
-## 8 · CORRUPTION
+## 8 • CORRUPTION
 
 There are no new guidelines for using corruption.
 
-## 9 · INFLUENCE
+## 9 • INFLUENCE
 
 Influencing your opponent's resources and characters is handled just as it is in _METW_ and _MELE_ with the following exceptions:
 
  - All influence checks are modified by -5; i.e., its harder for evil characters to influence the Free Peoples and vice versa.
  - Instead of revealing a card that is identical to the card being influenced, you may reveal a manifestation of that card or the same resource for the opposing side (e.g., if attempting to influence away the _Hillmen_ from a Wizard, you can reveal the _Hillmen_ minion faction resource for full effect).
 
-## 10 · PLAYING AND DRAWING CARDS
+## 10 • PLAYING AND DRAWING CARDS
 
 This section presents some guidelines for handling several special types of cards.
 
