@@ -96,7 +96,7 @@ If you have any further questions concerning _MECCG_, you can either:
 #### Playing Characters
 
  - _Rules Erratum:_ You may play a character if you do not have enough influence to control them. However, if there are any characters you do not have the influence to control at the end of your organization phase, the character you brought into play this turn must be returned to your hand.
- - If you play a Ringwraith at a non-Darkhaven site where there is one of your non-Ringwraith companies, one of the companies must move that turn. If both companies are still there at the end of the movement/hazard phase, discard the non-Ringwraith company. \[Effective 11/17/97]()
+ - If you play a Ringwraith at a non-Darkhaven site where there is one of your non-Ringwraith companies, one of the companies must move that turn. If both companies are still there at the end of the movement/hazard phase, discard the non-Ringwraith company. [\[Effective 11/17/97]](/original/rulings/crf-15/#rulings-effective-111797)
 
 #### Storing Items
 
@@ -118,7 +118,7 @@ If you have any further questions concerning _MECCG_, you can either:
  -  Companies at the same non-Haven/non-Darkhaven site must join at the end of all movement/hazard phases, before the site phase starts. Companies at the same Haven/Darkhaven site may join at this time.
  -  If companies would join at the end of the movement/hazard phase such that the company composition rules are violated, one company of the hazard player's choice must return to its site of origin.
  -  If two companies join at a site, cards affecting one of the companies now affect them both.
- -  Removing the site of origin and resetting to hand size are simultaneous actions, and they are the last actions in any movement/hazard phase. This means a moving company is not at a site until the site phase. [effective 11/17/97](#rulings-effective-111797)
+ -  Removing the site of origin and resetting to hand size are simultaneous actions, and they are the last actions in any movement/hazard phase. This means a moving company is not at a site until the site phase. [\[effective 11/17/97]](#rulings-effective-111797)
  -  The same region (as in region card) may not occur twice in a single site path.
  -  A non-moving company's current site is considered its new site for card play.
 
@@ -132,7 +132,7 @@ If you have any further questions concerning _MECCG_, you can either:
 
 #### Playing Hazards
 
- -  Some hazard permanent-events allow you to tap or discard them for an effect, and this does not count against the hazard limit unless specified otherwise on the card. [effective 11/17/97](#rulings-effective-111797)
+ -  Some hazard permanent-events allow you to tap or discard them for an effect, and this does not count against the hazard limit unless specified otherwise on the card. [\[effective 11/17/97]](#rulings-effective-111797)
  -  Hazards may only be played on a company whose movement/hazard phase is being resolved, or on the site they are moving to. Long-events and permanent-events may effect more than one company even though they are only played "on" one company.
  -  If a card must be keyed to two or more instances of a region type, those region types do not have to be consecutive in the site path.
  -  If you say you are done playing hazards and your opponent plays a resource before the movement/hazard phase ends, you may then resume playing hazards, assuming you have not yet reached the hazard limit.
@@ -154,7 +154,7 @@ If you have any further questions concerning _MECCG_, you can either:
 
  -  Side effects of losing a character are resolved immediately after the character is lost, before other characters resolve their strikes.
  -  All strikes of an attack must be assigned before any are resolved.
- -  See also Rulings by Term, Ally and Body Check; and Turn Sequence, Site Phase, Company vs. Company Combat.
+ -  See also Rulings by Term, [Ally](/original/rulings/crf-15/#ally) and [Body Check](/original/rulings/crf-15/#body-check); and Turn Sequence, Site Phase, [Company vs. Company Combat](/original/rulings/crf-15/#company-vs-company-combat).
 
 #### Attack
 
@@ -196,7 +196,7 @@ If you have any further questions concerning _MECCG_, you can either:
  - The site taps upon successful play of the resource that would tap it.
  - A company may not play any resource during the site phase until they have faced all automatic-attacks, unless that resource directly affects an automatic-attack. Removing an automatic-attack does not directly affect it, although cancelling does.
  - You may only play a free minor item after playing an ally, faction, or item that taps the site.
- - See also Rulings by Term, Item. 
+ - See also Rulings by Term, [Item](/original/rulings/crf-15/#items). 
  - Play of an ally, item, faction, or resource card which will normally tap the site must be after the company resolves all automatic, agent and on-guard creature attacks.
 
 #### Company vs. Company Combat
@@ -207,7 +207,7 @@ If you have any further questions concerning _MECCG_, you can either:
  -  Only the defender is considered to be facing an attack, but all characters are considered to be facing strikes.
  -  Tapped defending characters choose their strikes after untapped attacking characters have assigned their strikes.
  -  Minion and hero companies can attack each other. Hero companies may not attack each other. A Fallen Wizard covert company is considered a hero company.
- -  See also Card Rulings, Swarm of Bats.
+ -  See also Card Rulings, [Swarm of Bats](/original/rulings/crf-15/#swarm-of-bats).
  
 #### Automatic-attacks
 
@@ -247,7 +247,7 @@ If you have any further questions concerning _MECCG_, you can either:
  -  Creatures may only be revealed on-guard if there is an automatic-attack at the site.
  -  If two companies are at a Haven, on-guard cards played on one company can only be revealed against that company, and can only affect that company (unless the hazard states it affects all versions of the site).
  -  @ If the site an on-guard card is played on leaves play before the site phase, the on-guard cards are returned to their owner's hand.
- -  See also Rulings By Term, Burglary Attempts.
+ -  See also Rulings By Term, [Burglary Attempts](/original/rulings/crf-15/#burglary-attempts).
  
 ### End-of-Turn Phase
  -  End-of-turn effects are triggered by the ending of the End-of-Turn phase. Once both players are done with all actions in the End-of-Turn phase, all End-of-Turn effects are declared and resolved in the order chosen by the current player. No further actions may be declared that turn.
@@ -265,7 +265,7 @@ If you have any further questions concerning _MECCG_, you can either:
      - If your opponent has no points in a category double your points in that category. Doubling does not apply to the Miscellaneous or Kill categories.
      - If one of your categories accounts for more than half of your positive marshalling point total, reduce it so that it has the same number of points as the rest of your positive categories combined.
      - Subtract any points that are subtracted from your total, including points from unique resources your opponent has duplicated in his hand.
-     - See also Rulings by Term, Under-deeps.
+     - See also Rulings by Term, [Under-deeps](/original/rulings/crf-15/#under-deeps).
  -  Marshalling points that minions have at an Under-deeps site do not count for calling the Audience with Sauron, but do count at the Audience with Sauron.
  -  You may only call the Free Council if you have met the deck cycling and marshalling point requirements, not if only your opponent has.
  -  You may not recieve kill MPs from a card you played.
@@ -288,13 +288,13 @@ If you have any further questions concerning _MECCG_, you can either:
  - **Annotation 8**: An action that requires a target is considered to have the active condition that the target be in play when the action is declared and when it is resolved. An action may not be declared if its target is not in play. However, dice-rolling actions may always be targeted by other actions declared later in the same chain of effects.
  - Your opponent's resources may be the active conditions for your resources, but may not be the targets for your resources.
  - If an "alternative" or "additional" effect does not have any "playable ..." conditions, then the "playable on ..." conditions from the primary effect of the card apply. The following cards are exceptions to this rule: _Gloom_, _Good Sense Revolts_, _Half an Eye Open_, _Heedless Revelry_, _Here is a Snake_, _In the Name of Mordor_, _Inner Cunning_, _Nobody's Friend_, _Withdrawn to Mordor_, and _Wolf-riders_.
- - See also Rulings by Term, Target.
+ - See also Rulings by Term, [Target](/original/rulings/crf-15/#targets).
 
 #### Agent
 
  - _Rules Erratum:_ A tapped agent may take an action to untap (i.e., move from tapped status to utapped status).
  - _Rules Erratum:_ An agent may tap to play creatures at a site if the company is moving to the site.
- - _Rules Erratum:_ Agent attacks against minions are always detainment. [Effective 8/27/98]
+ - _Rules Erratum:_ Agent attacks against minions are always detainment. [\[Effective 8/27/98]](/original/rulings/crf-15/#rules-errata)
  - Playing a card that makes an agent attack is considered the attack's declaration.
  - Agents are not creatures.
  - Rolls made by agents during combat are done simultaneously with rolls made by characters during combat, after step 4 of the strike sequence.
@@ -316,7 +316,7 @@ If you have any further questions concerning _MECCG_, you can either:
  - When you flip an agent face down, leave it's current site face up with the agent. That now counts as a legal first card "played" for when you reveal the agent again.
  - Agents in starting companies count against the 36 mind limit.
  - An agent may only attack once per site phase.
- - See also Rulings by Term, Card Effect Limitations.
+ - See also Rulings by Term, [Card Effect Limitations](/original/rulings/crf-15/#card-effect-limitations).
 
 #### Ahunt Manifestations
 
@@ -350,7 +350,7 @@ If you have any further questions concerning _MECCG_, you can either:
  - Effects that modify a character's body also modify the number an Orc or Troll would be discarded on. A maximum to body applies equally to the discard number.
  - If an Orc or Troll could be discarded and eliminated by a result, discard them instead of eliminating them.
  - "Affecting the body check" includes modifying the die roll or the body of the character making the check.
- - See also Movement/Hazard Phase, Combat, General.
+ - See also Movement/Hazard Phase, [Combat, General](/original/rulings/crf-15/#general).
 
 ### -= CCC =-
 
@@ -385,7 +385,7 @@ If you have any further questions concerning _MECCG_, you can either:
  - A character in play must always be in one of three independent states: untapped, tapped, or wounded.
  - You can have three of a non-unique character in your deck.
  - Prowess modifications due to tapped and wounded status apply only during the strike sequence.
- - See also Turn Sequence, Organization Phase, Followers and Playing Characters.
+ - See also Turn Sequence, Organization Phase, [Followers](/original/rulings/crf-15/#followers) and [Playing Characters](/original/rulings/crf-15/#playing-characters).
 
 #### Command Cards
  - Command cards return other command cards of the same name to your hand.
@@ -396,10 +396,10 @@ If you have any further questions concerning _MECCG_, you can either:
  - The following allies make a company overt: _The Balrog_, _Creature of an Older World_, _Great Bats_, _Great Lord of Goblin-gate_, _Last Child of Ungoliant_, _Regiment of Black Crows_, and _"Two- headed" Troll_.
  - Entities associated with a company include the characters, allies, and items in the company, and any events played on the company or on another entity in the company. The new site and site of origin are not entities associated with the company.
  - A hero company is Wizard player's company, or a Fallen-wizard's company that has no Orcs or Trolls. A minion company is a Ringwraith player's company, or a Balrog player's company. An overt company is a company with Orcs and/or Trolls in it. Note that some allies can make a company overt, but Half-orcs do not.
- - See also Turn Sequence, Organization Phase, Organizing Companies; and Rulings by Term, Influence.
+ - See also Turn Sequence, Organization Phase, [Organizing Companies](/original/rulings/crf-15/#organizing-companies); and Rulings by Term, [Influence](/original/rulings/crf-15/#influence).
 
 #### Corruption
- - _Rules Erratum_: Corruption cards must always start a chain of effects. [Effective 8/27/98]
+ - _Rules Erratum_: Corruption cards must always start a chain of effects. [\[Effective 8/27/98]](/original/rulings/crf-15/#rules-errata)
  - **Annotation 23**: When a character fails a corruption check, the standard effects of this (i.e., the character being discarded or eliminated and his items being discarded) are implemented immediately and are considered synonymous with the failed check. A card causing the corruption check may modify the standard effects of a failed check (e.g. _The Precious_), but this timing would not be changed. Certain cards, e.g., _Traitor_, which do not cause a corruption check, but specify an action that results from the passive condition of a failed check, take effect as the first declared action in a chain of effects immediately following the chain of effects that contains the corruption check.
  - Characters with 0 corruption points must still make corruption checks.
  - A character may attempt to remove a corruption card without tapping. The roll is at -3.
@@ -407,12 +407,12 @@ If you have any further questions concerning _MECCG_, you can either:
  - The resolution of a character tapping to give +1 to a corruption check happens when the corruption check itself resolves.
  - If an effect is in play that prevents a character from being discarded, the character is not considered to fail his corruption check if a result is achieved that would discard him. A Wizard would not be eliminated and his player would not lose the game.
  - A character attempting to remove a corruption card on another character may ignore the tapping requirement and recieve -3 to the roll.
- - See also Turn Sequence, Organization Phase, Storing Items.
+ - See also Turn Sequence, Organization Phase, [Storing Items](/original/rulings/crf-15/#storing-items).
 
 ### -= DDD =-
 
 #### Darkhaven
- - Rules Erratum: Attacks keyed to Darkhavens are detainment. [effective 11/17/97]
+ - Rules Erratum: Attacks keyed to Darkhavens are detainment. [\[effective 11/17/97]](/original/rulings/crf-15/#rulings-effective-111797)
  - Whenever a hazard affecting heroes refers to a Darkhaven, interpret it as referring to a Haven instead.
  - Attacks at Darkhavens are canceled only if the company is at the Darkhaven.
  - Darkhavens count as their own nearest Darkhaven.
@@ -426,7 +426,7 @@ If you have any further questions concerning _MECCG_, you can either:
  - When a card is discarded, so are all permanent-events on that card.
  - Cards discarded from a player's hand must be discarded one at a time. This is mainly to allow a Pallando player to see each card as it is discarded.
  - Whenever a character is discarded, all non-follower cards played with that character are also discarded.
- - If a card leaves active play, including being returned to a player's hand, it immediately ceases having an effect on play. \[effective 11/3/97]
+ - If a card leaves active play, including being returned to a player's hand, it immediately ceases having an effect on play. [\[effective 11/3/97]](/original/rulings/crf-15/#rulings-effective-11397)
  - Cards in the discard pile do not remember how they were played.
 
 #### Dragons
@@ -461,7 +461,7 @@ If you have any further questions concerning _MECCG_, you can either:
  - Fallen-wizards may not play Bade to Rule.
  - If you reveal your Fallen-wizard, and no longer have enough influence to control your characters, discard other characters until you can control them all.
  - None of a Fallen-wizards MPs may be modified by non-stage resources.
- - See also Rulings by Term, Specific.
+ - See also Rulings by Term, [Specific](/original/rulings/crf-15/#specific).
 
 ### -= GGG =-
 
@@ -474,7 +474,7 @@ If you have any further questions concerning _MECCG_, you can either:
 #### Hand Size
  - Effects which increase your hand size or allow you to hold one more card in your hand mean that you draw up to your new hand size or discard down to it at the appropriate points during the game.
  - Effects which increase hand size are cumulative.
- - See also Card Errata and Rulings, Favor of the Valar.
+ - See also Card Errata and Rulings, [Favor of the Valar](/original/rulings/crf-15/#favor-of-the-valar).
 
 #### Haven
  - Havens can tap. 
@@ -491,7 +491,7 @@ If you have any further questions concerning _MECCG_, you can either:
  - When a character suffers a minus to direct influence, it must come from unrestricted direct influence first. If there is no unrestricted influence and there are multiple instances of restricted direct influence, the player may choose which restricted direct influence the minus is applied to.
  - A character removed from the control of direct influence outside the organization phase does not need to be controlled by general influence until that player's next organization phase.
  - Changes to general influence take place immediately, with a minimum of zero free general influence.
- - See also Turn Sequence, Organization Phase, Followers and Organizing Companies; and Rulings by Term, Company.
+ - See also Turn Sequence, Organization Phase, [Followers](/original/rulings/crf-15/#followers) and [Organizing Companies](/original/rulings/crf-15/#organizing-companies); and Rulings by Term, [Company](/original/rulings/crf-15/#company).
 
 #### Items
 
@@ -563,7 +563,7 @@ If you have any further questions concerning _MECCG_, you can either:
  - If a character is facing two strikes, and the first strike kills the character, the second strike is considered successful.
  - A character tapping to face two strikes is at -3 prowess against both strikes. The character taps when resolving the second strike.
  - For recently visited sites in multi-player games, the automatic-attack gets +1 for each player who has that site in their discard pile.
- - See also Rulings by Term, Burglary Attempts.
+ - See also Rulings by Term, [Burglary Attempts](/original/rulings/crf-15/#burglary-attempts).
 
 ### -= PPP =-
 
@@ -648,7 +648,7 @@ If you have any further questions concerning _MECCG_, you can either:
 #### Stored Cards
  - Stored cards are not considered to be in play, except for uniqueness.
  - Stored cards get no bonuses based on who bears them.
- - See also Rulings by Term, Stage Resource.
+ - See also Rulings by Term, [Stage Resources](/original/rulings/crf-15/#stage-resources).
 
 ### -= TTT =-
 
@@ -660,7 +660,7 @@ If you have any further questions concerning _MECCG_, you can either:
  - **Annotation 4**: An action may not target a face-down card nor any element of a face down card. Face down cards include unrevealed new site cards and on-guard cards.
  - You cannot target an opponent's character or resources with your own resources.
  - A card that is played on a card continuously targets the card it is on.
- - See also Rulings by Term, Active Condition.
+ - See also Rulings by Term, [Active Condition](/original/rulings/crf-15/#active-conditions).
 
 #### Timing
  - The validity of an effect, including the hazard limit, is checked upon declaration and upon resolution.
@@ -781,7 +781,7 @@ Tournament rulings are modifications and additions to the rules presented in the
 
 #### Akhorahil
  - Card Erratum: Change "...gives -1 penalty to one..." to "...modifies any one character's body by -1 for the rest of the turn.
- - See also Rulings by Term, Nazgul.
+ - See also Rulings by Term, [Nazgul](/original/rulings/crf-15/#nazgul).
 
 #### Alatar
  - Card Erratum: Change "he must tap and make a corruption check immediately following the attack." to "he must make a corruption check immediately following the attack, and, if untapped, he must tap."
@@ -855,7 +855,7 @@ Tournament rulings are modifications and additions to the rules presented in the
 #### Bane of the Ithil-stone
  - _Bane of the Ithil-stone_ will only cancel effects outside of normal play as outlined in the rules.
  - If a card has multiple effects, _Bane of the Ithil-stone_ will only cancel those effects that concern searching through decks and discard piles.
- - See also Rulings by Term, Card Effect Limitations.
+ - See also Rulings by Term, [Card Effect Limitations(/original/rulings/crf-15/#card-effect-limitations).
 
 #### Beater and Biter
  - _Beater and Biter_ increases the bonus the weapon gives, so maximums on the weapon still apply.
@@ -871,7 +871,7 @@ Tournament rulings are modifications and additions to the rules presented in the
  - _Blackbole_ may attack in company vs. company combat, but he may not defend.
 
 #### The Black Enemy's Wrath
- - See Rulings by Term, Card Effect Limitations.
+ - See Rulings by Term, [Card Effect Limitations(/original/rulings/crf-15/#card-effect-limitations).
 
 #### Black Rain
  - A Fallen-wizard may use this to play a hero ring item, but a Ringwraith player could not.
@@ -884,13 +884,13 @@ Tournament rulings are modifications and additions to the rules presented in the
 
 #### Burglary
  - If you fail the roll for _Burglary_, you cannot then play an item.
- - See also Rulings by Term, Burglary Attempts.
+ - See also Rulings by Term, [Burglary Attempts](/original/rulings/crf-15/#burglary-attempts).
 
 ### -= CCC =-
 
 #### Chance of Being lost
  - _Chance of Being Lost_ will change your site path.
- - See also Rulings by Term, Card Effect Limitations.
+ - See also Rulings by Term, [Card Effect Limitations(/original/rulings/crf-15/#card-effect-limitations).
 
 #### Chill Douser
  - Does not receive benefits from itself, although it is affected by other _Chill Dousers_ played previously in the turn on the same company.
@@ -922,7 +922,7 @@ Tournament rulings are modifications and additions to the rules presented in the
  - The character must be moving to the site to change the site type. This works even though the site is not technically part of the site path. The character must also be moving to lower the hazard limit.
 
 #### Deep Mines
- - _Card Erratum_: Add "Cannot be duplicated on a given Wizardhaven." \[Effective 4/20/98]
+ - _Card Erratum_: Add "Cannot be duplicated on a given Wizardhaven." [\[Effective 4/20/98]](/original/rulings/crf-15/#rulings-effective-42098)
 
 #### Deftness of Agility
  - The extra strike is dealt with in a separate strike sequence.
@@ -953,7 +953,7 @@ Tournament rulings are modifications and additions to the rules presented in the
  - _Card Erratum_: Remove "Cannot be duplicated."
 
 #### Dwar of Waw
- - See Rulings by Term, Nazgul.
+ - See Rulings by Term, [Nazgul](/original/rulings/crf-15/#nazgul).
 
 #### Dwar Unleashed
  - Dwar must already be in a mode to use this card.
@@ -998,7 +998,7 @@ Tournament rulings are modifications and additions to the rules presented in the
 ### -= FFF =-
 
 #### Fair Sailing/Fair Travels cards
- - See Turn Sequence, Organization Phase, Choosing a New Site.
+ - See Turn Sequence, Organization Phase, [Choosing a New Site](/original/rulings/crf-15/#choosing-a-new-site).
 
 #### Fate of the Ithil-stone
  - _Fate of the Ithil-stone_ must be tapped before entering Barad-dur, in order to rotate it 180 degrees.
@@ -1026,7 +1026,7 @@ Tournament rulings are modifications and additions to the rules presented in the
 #### Foul Fumes
  - Will tap all sites in play that meet the requirements.
  - _Foul Fumes_ will not continually keeps sites tapped, it is only applied once to each site each turn.
- - See also Rulings by Term, Card Effect Limitations.
+ - See also Rulings by Term, [Card Effect Limitations](/original/rulings/crf-15/#card-effect-limitations).
 
 #### Freeze the Flesh
  - _Freeze the Flesh_ will stop your opponent from gaining kill marshalling points from a character he eliminated in company vs. company combat.
@@ -1048,7 +1048,7 @@ Tournament rulings are modifications and additions to the rules presented in the
  - Must be in the same company as the ring he tests.
 
 #### Gates of Morning
- - _Gates of Morning_ discards hazard environments when it resolves, even if _Peril Returned_ is in play. \[effective 11/17/97]
+ - _Gates of Morning_ discards hazard environments when it resolves, even if _Peril Returned_ is in play. [\[effective 11/17/97]](/original/rulings/crf-15/#rulings-effective-111797)
 
 #### Giant
  - Card Erratum: Add "_Giant_."
@@ -1098,7 +1098,7 @@ Tournament rulings are modifications and additions to the rules presented in the
 
 #### Great Secrets Buried There
  - The item must be normally playable at the Under-deeps site.
- - See Tournament Rulings, Great Secrets Buried There and Rulings by Term, Card Effect Limitations.
+ - See Tournament Rulings, [Great Secrets Buried There](/original/rulings/crf-15/#great-secrets-buried-there) and Rulings by Term, [Card Effect Limitations](/original/rulings/crf-15/#card-effect-limitations).
 
 #### Great Ship
  - _Card Erratum_: Add "Tap a character in target company during the organization phase to play _Great Ship_ on that company." Replace "...contains a coastal sea region..." with "...contains a coastal sea region and no consecutive non-coastal sea regions..."
@@ -1126,7 +1126,7 @@ Tournament rulings are modifications and additions to the rules presented in the
  - Cannot stop a body check.
 
 #### Healing of Nimrodel
- - See Turn Sequence, Organization Phase, Choosing a New Site.
+ - See Turn Sequence, Organization Phase, [Choosing a New Site](/original/rulings/crf-15/#choosing-a-new-site).
 
 #### Heedless Revelry
  - _Card Erratum_: Change "after the successful play" to "in response to the play." \[Effective 8/27/98]
@@ -1156,11 +1156,11 @@ Tournament rulings are modifications and additions to the rules presented in the
  - _Hidden Knife_ is effectively an attack.
  
 #### Hoarmurath of Dir
- - See Rulings by Term, Nazgul.
+ - See Rulings by Term, [Nazgul](/original/rulings/crf-15/#nazgul).
  
 #### Hold Rebuilt and Repaired
  - _Card Erratum_: Add "Playable during the site phase."
- - See also Turn Sequence, Site Phase, General.
+ - See also Turn Sequence, [Site Phase, General](/original/rulings/crf-15/#general-3).
  
 #### Horses
  - Card Erratum: Add "_**Playable only at the end of the organization phase.**_"
@@ -1191,14 +1191,14 @@ Tournament rulings are modifications and additions to the rules presented in the
 
 #### Indur Dawndeath
  - Only one wounded character has to discard an item, and the hazard player chooses which character and which item they bear.
- - See also Rulings by Term, Nazgul.
+ - See also Rulings by Term, [Nazgul](/original/rulings/crf-15/#nazgul).
  
 #### Inner Cunning
  - The site type for the agent's home site is the one you would use if you went to visit the site.
  - The "playable on ..." conditions of the first paragraph do not apply to the second paragraph.
 
 #### In the Heart of His Realm
- - See Rulings by Term, Card Effect Limitations.
+ - See Rulings by Term, [Card Effect Limitations](/original/rulings/crf-15/#card-effect-limitations).
  
 #### In the Name of Mordor
  - The "playable on ..." conditions of the first paragraph do not apply to the second paragraph.
@@ -1211,14 +1211,14 @@ Tournament rulings are modifications and additions to the rules presented in the
  - Replacing the site card is considered movement, without a movement/hazard phase.
 
 #### Iron Shield of Old
- - _Card Erratum_: Add "_Shield._" \[effective 11/17/97]
+ - _Card Erratum_: Add "_Shield._" [\[effective 11/17/97]](/original/rulings/crf-15/#rulings-effective-111797)
 
 ### -= KKK =-
 
 #### Khamul the Easterling
  - The number of cards discarded is set at the time of declaration.
  - The cards are discarded from your opponent's hand.
- - See also Rulings by Term, Nazgul.
+ - See also Rulings by Term, [Nazgul](/original/rulings/crf-15/#nazgul).
  
 #### Knowledge of the Enemy
  - Removes cards from the game, not just from play.
@@ -1308,7 +1308,7 @@ Tournament rulings are modifications and additions to the rules presented in the
  - _Card Erratum_: Should read "This card is used as a Dark-hold site card in the region of Udun that is moved to..."
 
 #### Mordor in Arms
- - See Rulings by Term, Card Effect Limitations.
+ - See Rulings by Term, [Card Effect Limitations](/original/rulings/crf-15/#card-effect-limitations).
  
 #### More Alert than Most
  - The minimum of one strike still applies while _Gates of Morning_ is in play.
@@ -1337,7 +1337,7 @@ Tournament rulings are modifications and additions to the rules presented in the
  - _Card Erratum_: Add "_Man_."
  
 #### Mumak
- - See Rulings by Term, Card Effect Limitations.
+ - See Rulings by Term, [Card Effect Limitations](/original/rulings/crf-15/#card-effect-limitations).
  
 #### Muster
  - Card Erratum: Replace entire text with: "_**Warrior only.**_ An influence check against a faction by a warrior is modified by adding the warrior's prowess to a maximum modifier of +5."
@@ -1356,10 +1356,10 @@ Tournament rulings are modifications and additions to the rules presented in the
 
 #### Narya
  - Because of the way that timing rules work, characters tapping in support have no effect on the corruption check, since they will be untapped when the support resovles.
- - See also Rulings by Term, Corruption.
+ - See also Rulings by Term, [Corruption](/original/rulings/crf-15/#corruption).
  
 #### The Nazgul are Abroad
- - See Rulings by Term, Card Effect Limitations.
+ - See Rulings by Term, [Card Effect Limitations](/original/rulings/crf-15/#card-effect-limitations).
  
 #### Neeker-breekers
  - _Card Erratum_: Add "Does not effect Wizards."
@@ -1453,7 +1453,7 @@ Tournament rulings are modifications and additions to the rules presented in the
  - The Radagast bonus applies if you have a character manifestation of Radagast in play, or if you have declared you are playing Fallen-Radagast.
 
 #### Peril Returned
- - Will not stop _Gates of Morning_ from discarding hazard environments when it resolves. \[effective 11/17/97]
+ - Will not stop _Gates of Morning_ from discarding hazard environments when it resolves. [\[effective 11/17/97]](/original/rulings/crf-15/#rulings-effective-111797)
 
 #### Plague
  - _Card Erratum_: Change "At the end of the target's movement/hazard phase" to "At the end of your opponent's turn." \[Effective 8/27/98]
@@ -1487,7 +1487,7 @@ Tournament rulings are modifications and additions to the rules presented in the
 
 #### Rebuild the Town
  - _Card Erratum_: Replace "Playable on" with "Playable during the site phase on."
- - See also Turn Sequence, Site Phase, General.
+ - See also Turn Sequence, [Site Phase, General](/original/rulings/crf-15/#general-3).
 
 #### Reforging
  - You can use it on hoard items.
@@ -1510,7 +1510,7 @@ Tournament rulings are modifications and additions to the rules presented in the
  - If you tap _Ren_, then you cannot play resources to aid your character's corruption checks.
  - Your characters may tap in support.
  - The moving player makes corruption checks first. Each player decides the order of the corruption checks for their characters.
- - See also Rulings by Term, Nazgul.
+ - See also Rulings by Term, [Nazgul](/original/rulings/crf-15/#nazgul).
 
 #### Rescue Prisoners
  - _Card Erratum_: This cards gives 2 marshalling points, not 3. Add "You receive the marshalling points for this card only when it is stored."
@@ -1563,15 +1563,15 @@ Tournament rulings are modifications and additions to the rules presented in the
  - _Card Erratum_: Replace "-3 to any body checks" with "+3 to any body checks."
  - After _Sacrifice of Form_ is played, you may not play a different Wizard and your opponent may not play the Wizard you sacrificed.
  - This card is played after strikes are assigned.
- - See also Turn Sequence, Site Phase, Company versus Company Combat.
+ - See also Turn Sequence, Site Phase, [Company versus Company Combat](/original/rulings/crf-15/#company-vs-company-combat).
 
 #### Secret Entrance
  - Can be played on a company that does not move.
- - See also Turn Sequence, Organization Phase, Choosing a New Site.
+ - See also Turn Sequence, Organization Phase, [Choosing a New Site](/original/rulings/crf-15/#choosing-a-new-site).
 
 #### Secret Passage
  - Does not work if the site type changes.
- - See also Turn Sequence, Organization Phase, Choosing a New Site.
+ - See also Turn Sequence, Organization Phase, [Choosing a New Site](/original/rulings/crf-15/#choosing-a-new-site).
 
 #### Siege
  - _Card Erratum_: Change the Border-land symbol in the first line to a Border-hold symbol.
@@ -1624,7 +1624,7 @@ Tournament rulings are modifications and additions to the rules presented in the
  - Does not affect attacks.
 
 #### Stay Her Appetite
- - _Card Erratum_: Change "plus two" to "plus five." \[Effective 11/3/97]
+ - _Card Erratum_: Change "plus two" to "plus five." [\[Effective 11/3/97]](/original/rulings/crf-15/#rulings-effective-11397)
  - _If Stay Her Appetite_ is played on an ally with no prowess, there is no attack, but all other affects of the card apply.
 
 #### Stealth
@@ -1686,7 +1686,7 @@ Tournament rulings are modifications and additions to the rules presented in the
 #### True Fana
  - Combat modifiers that modify prowess only against a strike do not count when determining the Wizard's prowess.
  - When this spell is used against an agent, the agent does not receive the two 6-sided dice bonus.
- - See also Turn Sequence, Site Phase, Company versus Company Combat.
+ - See also Turn Sequence, Site Phase, [Company versus Company Combat](/original/rulings/crf-15/#company-vs-company-combat).
 
 #### Twilight
  - _Card Erratum_: Add "This card may be played at any time
@@ -1751,14 +1751,14 @@ during any player's turn."
  - _Card Erratum_: Add "If you do not place this card with a character after the attack, discard it."
 
 #### Winds of Wrath
- - See Rulings by Term, Card Effect Limitations.
+ - See Rulings by Term, [Card Effect Limitations](/original/rulings/crf-15/#card-effect-limitations).
 
 #### Winged Change Master
  - Only affects Radagast when using region movement.
 
 #### Witch-king of Angmar
  - Although he becomes a long-event when tapped, he is discarded when the effect resolves just like other Nazgul. The long-event effect will remain until the appropriate time.
- - See also Rulings by Term, Nazgul.
+ - See also Rulings by Term, [Nazgul](/original/rulings/crf-15/#nazgul).
 
 #### Withdrawn to Mordor
  - To discard an on-guard card with _Withdrawn to Mordor_ you must do so before the card is revealed.
@@ -1781,7 +1781,7 @@ during any player's turn."
  - _Card Erratum_: Change "_Animals_" to "_Wolves."_
 
 #### Worn and Famished
- - See Rulings by Term, Card Effect Limitations.
+ - See Rulings by Term, [Card Effect Limitations](/original/rulings/crf-15/#card-effect-limitations).
 
 #### The Worthy Hills
  - Since this site never taps, no free minor items may be played here.
@@ -1799,7 +1799,7 @@ during any player's turn."
  - An on-guard may only be revealed if it could have also been played during the movement/hazard phase. This means all targets of the card must have existed during the movement/hazard phase in order for the card to be revealed. 
  - A tapped agent may take an action to untap (i.e., move from tapped status to utapped status).
  - An agent may tap to play creatures at a site if the company is moving to the site.
- - Attacks keyed to Darkhavens are considered detainment. \[effective 11/17/97]
+ - Attacks keyed to Darkhavens are considered detainment. [\[effective 11/17/97]](/original/rulings/crf-15/#rulings-effective-111797)
  - Dragons Rules, Characters Facing Multiple Strikes: Change "are then considered to be canceled" to "are thenn considered to be successful."
  - Dragon Rules, Hoards: Change "Each site with a Dragon automatic-attack (i.e., each Dragon's Lair) contains a hoard" to "Each site which had a Dragon automatic-attack at the beginning of the turn contains a hoard."
  - White Hand Rules, Playing and Using Resource, Targeting Site and Resource Cards: change both instances of "resource card may not target/affect" to "resource event card may not target/affect."
@@ -1846,7 +1846,7 @@ The One Ring."
  - **Cruel Caradhras:** Replace "Minas Morgul" with "Imlad
 Morgul."
  
- - **Deep Mines:** Add "Cannot be duplicated on a given Wizardhaven." \[Effective 4/20/98]
+ - **Deep Mines:** Add "Cannot be duplicated on a given Wizardhaven." [\[Effective 4/20/98]](/original/rulings/crf-15/#rulings-effective-42098)
  - **Deeper Shadow:** This is a short-event, not a long-event.
  - **Dodge:** Replace "his body check is modified by -1." with "his body is modified by -1 for the resulting body check."
  - **Dragon's Hunger:** Replace "Otherwise, the attack is canceled." with "Otherwise, the attack is canceled and the opponent must reveal his hand."
@@ -1870,7 +1870,7 @@ phase."
  - **Huorn:** Add "Awakened Plant."
  - **Ice-orcs:** Change the Shadow-hold symbol into a Ruins & Lairs.
  - **Ioreth:** Replace "Healing card" with "Healing effect."
- - **Iron Shield of Old:** Add "Shield." \[effective 11/17/97]
+ - **Iron Shield of Old:** Add "Shield." [\[effective 11/17/97]](/original/rulings/crf-15/#rulings-effective-111797)
  - **Lucky Search:** Replace "Discard all revealed cards except the item." with "Reshuffle all revealed cards except the item back into the play deck." Add at the end of the first paragraph "Discard item if the scout is wounded by this attack."
  - **Lure of Nature:** Replace "at the end of each movement/hazard phase" with "after all other hazards have been played."
  - **Mallorn:** The first sentence should read: "Playable at Bag End only if Earth of Galadriel's Orchard is stored there."
@@ -1891,7 +1891,7 @@ phase."
  - **Pukel-men:** Add "Pukel-creature."
  - **Quiet Lands:** Replace "is reduced to half its original prowess (rounded up)." with "is reduced by half (rounded up)."
  - **Rebuild the Town:** Replace "Playable on" with "Playable during the site phase on."
- - **Reluctant Final Parting:** Add "Determine nearest Haven using site cards of the same alignment (minion/hero) as the ally." \[Effective 4/20/98]
+ - **Reluctant Final Parting:** Add "Determine nearest Haven using site cards of the same alignment (minion/hero) as the ally." [\[Effective 4/20/98]](/original/rulings/crf-15/#rulings-effective-42098)
  - **Rescue Prisoners:** This cards gives 2 marshalling points, not 3. Add "You receive the marshalling points for this card only when it is stored."
  - **Rhosgobel:** Replace "healing cards" with "healing effects."
  - **@ Rhosgobel:** Fallen Wizardhaven. Remove "A company moving to or from Rhosgobel is not considered to be moving through Southern Mirkwood (including one less Dark-domain in their site path."
@@ -1903,7 +1903,7 @@ phase."
  - **Shadowfax:** Change to "an additional site card may beplayed and an additional movement/hazard phase."
  - **Silent Watcher:** Gives 1 marshalling point, not 0. Add "Pukel-creature."
  - **Slayer:** Gives 2 marshalling points, not 0. Add "Slayer."
- - **Stay Her Appetite:** Change "plus two" to "plus five." \[effective 11/3/97]
+ - **Stay Her Appetite:** Change "plus two" to "plus five." [\[effective 11/3/97]](/original/rulings/crf-15/#rulings-effective-11397)
  - **Summons from Long Sleep:** Change "When the reserved creature is played, another Dragon or Drake may be reserved." to "Discard this card after the reserved creature attacks."
  - **Thorough Search:** Replace "...to play any item normally found at its current site." with "...to play a minor, major, or gold ring item normally found at its current site."
  - **Tolfalas:** Should read: "Playable: Items (minor, major,
@@ -1969,4 +1969,3 @@ Every other Monday, all rulings of the second type, made in the past two weeks, 
 #### Rulings Effective 11/3/97
  - If a card leaves active play, including being returned to a player's hand, it immediately ceases having an effect on play.
  - _Stay Her Appetite_: Card Erratum: Change "plus two" to "plus five."
-
