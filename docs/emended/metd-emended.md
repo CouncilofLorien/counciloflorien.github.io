@@ -11,6 +11,11 @@ permalink: /emended/the-dragons/
 {: .text-center .text-beta }
 EMENDED RULESBOOK
 
+{: .text-center .text-gamma }
+CONTENTS
+
+| [Key Words and Terms](#key-words-and-terms-clarification)<br>[Dragon Lairs](#dragon-lairs)<br>[Hoards](#hoards)<br>[Manifestations of Dragons](#manifestations-of-dragons)<br>[Hazard Limit](#hazard-limit-clarification)<br> | [Characters Facing Multiple Strikes](#characters-facing-multiple-strikes)<br>[Removing Corruption Cards](#removing-corruption-cards)<br>[The Sideboard](#the-sideboard)<br>[Region Movement Limitation](#region-movement-limitation)<br>[Many A Gleaming Golden Hoard Scenario](#many-a-gleaming-golden-hoard) |
+
 This insert provides expansion rules, clarifications, and a scenario for use with both _Middle-earth: The Wizards_ (_METW_) and _Middle-earth: The Dragons_ (_METD_). These rules are recommended for all _METW_ games even if _METD_ is not used.
 
 ### KEY WORDS AND TERMS (_Clarification_)
