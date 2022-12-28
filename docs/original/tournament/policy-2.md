@@ -1,9 +1,12 @@
+
 ---
 layout: default
-title: Tournament Policy, Issue Number 2
-nav_order: 2
-nav_exclude: true
+title: "Tournament Policy #2"
+nav_order: 1
+parent: Original Rules
+grand_parent: Tournament Policy
 search_exclude: true
+permalink: /original/tournament/policy-2/
 ---
 
 
