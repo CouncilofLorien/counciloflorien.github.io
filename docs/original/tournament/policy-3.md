@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: "Tournament Policy #3"
