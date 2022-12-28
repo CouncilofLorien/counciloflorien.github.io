@@ -6,7 +6,6 @@ nav_exclude: true
 search_exclude: true
 ---
 
-
 News from The Council of Lórien, Issue Number One (05/21/96)
 
 The official U.S. sanctioning body for the
