@@ -16,7 +16,7 @@ ICE reserves the right to award Sanctioned or Qualifier status to MECCG tourname
 
 Each Sanctioned or Qualifier tournament has a tournament coordinator. This is the person in charge of running the tournament. In the text below "tournament coordinator" means the coordinator or any staff member assigned by the coordinator to assist him or her. Tournament coordinators are responsible for seeing that the council guidelines are kept, prizes are properly awarded, and that that the tournament is run in a fair and impartial manner. Tournament coordinators need to make sure that all results (including the individual score sheets of each player) are returned to the Council of Lórien by the deadlines on page two so that they can be properly recorded. Failure to report the results of a Sanctioned or Qualified event may mean that ICE will not Sanction or Qualify future events run by said coordinator.
 
-    <h2>General</h2>
+   <h2>General</h2>
 
  1. **Participation**---Anyone is welcome to participate in a Council of Lórien sanctioned tournament except:
       1. ICE employees, their spouses, and their immediate family. Free-lance contractors and artists are eligible to compete.
