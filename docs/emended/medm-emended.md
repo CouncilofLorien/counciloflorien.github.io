@@ -3,7 +3,7 @@ layout: default
 title: Dark Minions
 parent: Emended Rules
 nav_order: 4
-permalink: /emended/medm-emended/
+permalink: /emended/dark-minions/
 ---
 
 # MIDDLE-EARTH: DARK MINIONS
