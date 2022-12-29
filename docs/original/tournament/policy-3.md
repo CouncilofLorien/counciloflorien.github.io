@@ -10,7 +10,8 @@ permalink: /original/tournament/policy-3/
 
 <details>
 <summary>Source</summary>
-http://www.ironcrown.com/ccgs/lorien/coltnry3.html - Council of Lórien Tournament Policy Number 3 <a href="https://web.archive.org/web/19990503174527/http://www.ironcrown.com/ccgs/lorien/coltnry3.html">(Web Archive)</a>
+http://www.ironcrown.com/ccgs/lorien/coltnry3.html - Council of Lórien Tournament Policy Number 3 <a href="https://web.archive.org/web/19990503174527/http://www.ironcrown.com/ccgs/lorien/coltnry3.html">(Web Archive)</a><br>
+http://www.cstone.net/~ichabod/METW/council.html - Council of Lórien Tournament Policy Number 3 <a href="https://web.archive.org/web/19980706212627/http://www.cstone.net/~ichabod/METW/council.html">(Web Archive)</a>
 </details>
 
 # Council of Lórien<br>Tournament Policy<br>Number 3
