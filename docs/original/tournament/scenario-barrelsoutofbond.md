@@ -3,7 +3,8 @@ layout: default
 title: Barrels out of Bond
 search_exclude: true
 nav_exclude: true
-permalink: /scenarios/barrelsoutofbond
+parent: Tournament
+permalink: /original/tournament/barrels-out-of-bond/
 ---
 
 # Scenarios
