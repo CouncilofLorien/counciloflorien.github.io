@@ -6,13 +6,18 @@ grand_parent: Original Rules
 permalink: /original/rulings/faq-2/
 ---
 
+<details>
+<summary>Source</summary>
+FAQ #2 is not available online. This version has been reconstructed from FAQ #3 dated 1/1/96 based on the marked changes therein. _Middle-earth: The Wizards_ was released weeks before on 12/11/1995.
+</details>
+
 # Middle Earth: The Wizards
 
 {: .text-center .text-beta}
 Frequently Asked Questions File
 
 {: .text-center }
-Number 2[^FAQ2]  
+Number 2 
 
 Maintained by Craig "Ichabod" O'Brien \<ich...@cstone.net><br>
 
@@ -166,5 +171,3 @@ Especially new and succulent information is marked with \*s.
 **A**: Carta Mundi printed 45 million cards for the Limited Edition.
 
 ---
-
-[^FAQ2]: FAQ #2 is not archived online. Instead, it is reconstructed from FAQ #3 dated 1/1/96. _Middle-earth: The Wizards_ was released weeks before on 12/11/1995.
