@@ -10,13 +10,11 @@ permalink: /original/rulings/crf-7/
 <details>
 <summary>Sources and Citations</summary>
 <ul>
-<li><a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a></li>
-<li><a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a></li>
-<li><a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a></li>
-<li><a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a></li>
-<li><a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a></li>
-<li><a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a></li>
-<li><a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a></li>
+<li><a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/bUufBbdMj_U/m/eNP9gzEw2asJ">rec.games.trading-cards.misc - [METW] CRF 7 Changes</a> <a href="https://web.archive.org/web/20221229211247/https://groups.google.com/g/rec.games.trading-cards.misc/c/bUufBbdMj_U/m/eNP9gzEw2asJ">(Web Archive)</a></li>
+<li><a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/vfQJSPzWCf0/m/pKus9dXC2joJ">rec.games.trading-cards.misc - [MECCG] CRF 7 Turn Sequence</a> <a href="https://web.archive.org/web/20221229211335/https://groups.google.com/g/rec.games.trading-cards.misc/c/vfQJSPzWCf0/m/pKus9dXC2joJ">(Web Archive)</a></li>
+<li><a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/v-hvJ8OjgUI/m/KU1kUvL9ZjkJ">rec.games.trading-cards.misc - [MECCG] CRF 7 Rulings by Term</a> <a href="https://web.archive.org/web/20221229211354/https://groups.google.com/g/rec.games.trading-cards.misc/c/v-hvJ8OjgUI/m/KU1kUvL9ZjkJ">(Web Archive)</a></li>
+<li><a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/_jrAz0TRJUI/m/Mg3s5wrlzXUJ">rec.games.trading-cards.misc - [MECCG] CRF 7 Tournament Rulings</a> <a href="https://web.archive.org/web/20221229211511/https://groups.google.com/g/rec.games.trading-cards.misc/c/_jrAz0TRJUI/m/Mg3s5wrlzXUJ">(Web Archive)</a></li>
+<li><a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/MmBUTY_QyEY/m/NhIoSe5HvZsJ">rec.games.trading-cards.misc - [MECCG] CRF 7 Card Errata and Rulings</a> <a href="https://web.archive.org/web/20221229211640/https://groups.google.com/g/rec.games.trading-cards.misc/c/MmBUTY_QyEY/m/NhIoSe5HvZsJ">(Web Archive)</a></li>
 </ul>
 </details>
 
