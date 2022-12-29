@@ -209,7 +209,7 @@ These Emended Rules provide the original published text with emendations from er
 [^mele-factions]: See The Lidless Eye, Starter Rules, 10 • PLAYING AND DRAWING CARDS, RESOURCE CARDS, NON-EVENT, [Factions](/original/rulebooks/the-lidless-eye/#factions)
 [^mele-mp]: See The Lidless Eye, Using MELE with METW, 7 • COMBAT, [Marshalling Points](/original/rulebooks/the-lidless-eye/#marshalling-points-2)
 [^mewh-sideboard]: See _MEWH_, [Sideboard Size](/original/rulebooks/the-white-hand/#sideboard-size)
-[^crf-turn-attack]: See CRF 15, Turn Sequence, Combat, [Attack](original/rulings/crf-15/#attack)
+[^crf-turn-attack]: See CRF 15, Turn Sequence, Combat, [Attack](/original/rulings/crf-15/#attack)
 [^crf-terms-sideboard]: You can access hazards from your sideboard when your opponent’s Wizard/Ringwraith is in play or if your opponent plays _The Lidless Eye_ or _Sauron_. See CRF, Rulings by Term, [Sideboard](/original/rulings/crf-15/#sideboard) and Council of Lorien Tournament Policy #3, [Accessing Hazards in Sideboard](/original/tournament/policy-3)
 [^crf-turn-hazard-limit]: You check the hazard limit at declaration and resolution. At declaration there must be less hazards already declared than the hazard limit. At resolution there must be no more hazards declared than the hazard limit. See CRF, Turn Sequence, Movement/Hazard Phase, Movement, [Playing Hazards](/original/rulings/crf-15/#playing-hazards)
 
