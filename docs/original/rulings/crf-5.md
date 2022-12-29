@@ -10,13 +10,10 @@ permalink: /original/rulings/crf-5/
 <details>
 <summary>Sources and Citations</summary>
 <ul>
-<li><a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a></li>
-<li><a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a></li>
-<li><a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a></li>
-<li><a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a></li>
-<li><a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a></li>
-<li><a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a></li>
-<li><a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a></li>
+<li><a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/JgKwKjCK3A0/m/V_nJHU5WTx4J">rec.games.trading-cards.misc - [MECCG] CRF 5, General pt.1</a> <a href="https://web.archive.org/web/20221229212448/https://groups.google.com/g/rec.games.trading-cards.misc/c/JgKwKjCK3A0/m/V_nJHU5WTx4J">(Web Archive)</a></li>
+<li><a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/vdQ25mgCxbo/m/Bnr7TH9_8QwJ">rec.games.trading-cards.misc - [MECCG] CRF 5, General pt.2</a> <a href="https://web.archive.org/web/20221229212538/https://groups.google.com/g/rec.games.trading-cards.misc/c/vdQ25mgCxbo/m/Bnr7TH9_8QwJ">(Web Archive)</a></li>
+<li><a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/6mfvSpguvWA/m/1nWUKhhITlIJ">rec.games.trading-cards.misc - [MECCG] CRF 5, General pt. 3</a> <a href="https://web.archive.org/web/20221229212601/https://groups.google.com/g/rec.games.trading-cards.misc/c/6mfvSpguvWA/m/1nWUKhhITlIJ">(Web Archive)</a></li>
+<li><a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/E_FAz5nbMoE/m/UhLq_F2CVboJ">rec.games.trading-cards.misc - [MECCG] CRF 5, Cards</a> <a href="https://web.archive.org/web/20221229212633/https://groups.google.com/g/rec.games.trading-cards.misc/c/E_FAz5nbMoE/m/UhLq_F2CVboJ">(Web Archive)</a></li>
 </ul>
 </details>
 
