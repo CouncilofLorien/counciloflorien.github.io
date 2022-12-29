@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: "Policy #2"
