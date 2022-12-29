@@ -9,13 +9,13 @@ permalink: /original/rulings/crf-11/
 
 <details>
 <summary>Source</summary>
-<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
-<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
-<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
-<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
-<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
-<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
-<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
+<a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/wpfYN1vg-N8/m/2sX06f2fAXkJ">rec.games.trading-cards.misc - [MECCG] CRF 11: Changes only</a> <a href="https://web.archive.org/web/20221229173149/https://groups.google.com/g/rec.games.trading-cards.misc/c/wpfYN1vg-N8/m/2sX06f2fAXkJ">(Web Archive)</a><br>
+<a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/h4NRnJPpIgQ/m/FKSRw1HJ8mkJ">rec.games.trading-cards.misc - [MECCG] CRF 11: Turn Sequence</a> <a href="https://web.archive.org/web/20221229173232/https://groups.google.com/g/rec.games.trading-cards.misc/c/h4NRnJPpIgQ/m/FKSRw1HJ8mkJ">(Web Archive)</a><br>
+<a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/rFL4wIYqWys/m/iaOdQEi1jh8J">rec.games.trading-cards.misc - [MECCG] CRF 11: Rulings by Term</a> <a href="https://web.archive.org/web/20221229173317/https://groups.google.com/g/rec.games.trading-cards.misc/c/rFL4wIYqWys/m/iaOdQEi1jh8J">(Web Archive)</a><br>
+<a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/r_8cIy0LMgA/m/CW8-_7mfoEcJ">rec.games.trading-cards.misc - [MECCG] CRF 11: Tournament Rulings</a> <a href="https://web.archive.org/web/20221229173413/https://groups.google.com/g/rec.games.trading-cards.misc/c/r_8cIy0LMgA/m/CW8-_7mfoEcJ">(Web Archive)</a><br>
+<a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/OxDklnkEUm8/m/a4tQTw1M7BAJ">rec.games.trading-cards.misc - [MECCG] CRF 11: Card Errata and Rulings, A-M</a> <a href="https://web.archive.org/web/20221229173507/https://groups.google.com/g/rec.games.trading-cards.misc/c/OxDklnkEUm8/m/a4tQTw1M7BAJ">(Web Archive)</a><br>
+<a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/F1VjHJYzO90/m/QCX2C1I0pswJ">rec.games.trading-cards.misc - [MECCG] CRF 11: Card Errata and Rulings, N-W</a> <a href="https://web.archive.org/web/20221229173608/https://groups.google.com/g/rec.games.trading-cards.misc/c/F1VjHJYzO90/m/QCX2C1I0pswJ">(Web Archive)</a><br>
+<a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/y9jmlNOABfA/m/aJboFnqUhkAJ">rec.games.trading-cards.misc - [MECCG] CRF 11: Complete Errata List</a> <a href="https://web.archive.org/web/20221229173635/https://groups.google.com/g/rec.games.trading-cards.misc/c/y9jmlNOABfA/m/aJboFnqUhkAJ">(Web Archive)</a><br>
 </details>
 
 # Middle-earth: Collectible Card Game
