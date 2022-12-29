@@ -8,7 +8,7 @@ permalink: /original/rulings/crf-11/
 ---
 
 <details>
-<summary>Source</summary>
+<summary>Sources and Citations</summary>
 <ul>
 <li><a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/wpfYN1vg-N8/m/2sX06f2fAXkJ">rec.games.trading-cards.misc - [MECCG] CRF 11: Changes only</a> <a href="https://web.archive.org/web/20221229173149/https://groups.google.com/g/rec.games.trading-cards.misc/c/wpfYN1vg-N8/m/2sX06f2fAXkJ">(Web Archive)</a></li>
 <li><a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/h4NRnJPpIgQ/m/FKSRw1HJ8mkJ">rec.games.trading-cards.misc - [MECCG] CRF 11: Turn Sequence</a> <a href="https://web.archive.org/web/20221229173232/https://groups.google.com/g/rec.games.trading-cards.misc/c/h4NRnJPpIgQ/m/FKSRw1HJ8mkJ">(Web Archive)</a></li>
