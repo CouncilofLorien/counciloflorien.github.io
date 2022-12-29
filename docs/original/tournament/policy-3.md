@@ -9,7 +9,7 @@ permalink: /original/tournament/policy-3/
 ---
 
 <details>
-<summary>Source</summary>
+<summary>Sources and Citations</summary>
 <ul>
 <li>http://www.ironcrown.com/ccgs/lorien/coltnry3.html - Council of Lórien Tournament Policy Number 3 <a href="https://web.archive.org/web/19990503174527/http://www.ironcrown.com/ccgs/lorien/coltnry3.html">(Web Archive)</a></li>
 <li>http://www.cstone.net/~ichabod/METW/council.html - Council of Lórien Tournament Policy Number 3 <a href="https://web.archive.org/web/19980706212627/http://www.cstone.net/~ichabod/METW/council.html">(Web Archive)</a></li>
@@ -217,9 +217,9 @@ It is recommended that resource/character scenarios be considered by a tournamen
 
 Present Official Scenarios---Presently, the three scenarios for official Council event tournaments are:
 
- 1. A Hobbit's Quest (found on page 72 of the Middle-earth: The Wizards Companion)
- 2. Barrels out of Bond (found on page 66 of the Middle-earth: The Wizards Companion)
- 3. The King beneath the Mountains (found on page 67 of the Middle-earth: The Wizards Companion)
+ 1. [A Hobbit's Quest](/original/tournament/a-hobbits-quest/) (found on page 72 of the Middle-earth: The Wizards Companion)
+ 2. [Barrels out of Bond](/original/tournament/barrels-out-of-bond/) (found on page 66 of the Middle-earth: The Wizards Companion)
+ 3. [The King beneath the Mountains](/original/tournament/the-king-beneath-the-mountains/) (found on page 67 of the Middle-earth: The Wizards Companion)
 
 A complete copy of these scenarios can also be found on the ICE WEB page at "http://www.ironcrown.com."
 
