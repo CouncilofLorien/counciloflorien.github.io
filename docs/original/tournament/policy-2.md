@@ -142,7 +142,7 @@ Each Sanctioned or Qualifier tournament has a tournament coordinator. This is th
           - Nobody's Friend--RE
           - Smoke Rings--RR
           - Token of Goodwill--RR
- 31. All rulings from the Council of Lórien ruling file (compiled by Craig &quotIchabod" O'Brien) given on ICE's WEB page at &quothttp://www.ironcrown.com" are official rulings for use with Council events.
+ 31. All rulings from the Council of Lórien ruling file (compiled by Craig "Ichabod" O'Brien) given on ICE's WEB page at &quothttp://www.ironcrown.com" are official rulings for use with Council events.
 
      <h2>ADDITIONAL RULES</h2>
      
