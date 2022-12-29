@@ -8,7 +8,7 @@ permalink: /original/rulings/crf-14/
 ---
 
 <details>
-<summary>Source</summary>
+<summary>Sources and Citations</summary>
 <ul>
 <li><a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/yaYpm1XgIx0/m/AFRQwcSQoIcJ">rec.games.trading-cards.misc - [MECCG] CRF 14 Changes</a> <a href="https://web.archive.org/web/20221229004923/https://groups.google.com/g/rec.games.trading-cards.misc/c/yaYpm1XgIx0/m/AFRQwcSQoIcJ">(Web Archive)</a></li>
 <li><a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/UT2_tjg99pY/m/tACqgCZawfkJ">rec.games.trading-cards.misc - [MECCG] CRF 14 Part 1 of 6</a> <a href="https://web.archive.org/web/20221229005040/https://groups.google.com/g/rec.games.trading-cards.misc/c/UT2_tjg99pY/m/tACqgCZawfkJ">(Web Archive)</a></li>
