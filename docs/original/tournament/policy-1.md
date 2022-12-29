@@ -14,45 +14,35 @@ permalink: /original/tournament/policy-1/
 <li>http://horizon.nl/~jdirksen/council.html#News - jdirksen's Cards 'R' Us (unofficial) <a href="https://web.archive.org/web/19980128154912fw_/http://horizon.nl/~jdirksen/council.html#News">(Web Archive)</a></li>
 <ul>
 </details>
+  
+### News from The Council of Lórien, Issue Number One (05/21/96)
 
-# The official U.S. sanctioning body for the<br>Middle-earth® collectible card game
+**Downloads** (in Adobe Acrobat format):
 
-News from The Council of Lórien, Issue Number One (05/21/96)
+- [Download Player Sheets](/assets/files/CoL-PlayerSheets.pdf) Coordinators should distribute these sheets at tournaments.
+- [Download Registration Form](/assets/files/CoL-RegistrationForm.pdf) - Registration form for use by tournament coordinators
 
-Downloads (in Adobe Acrobat format):
+**Council Scenarios**
 
-Download Player Sheets Coordinators should distribute these sheets at tournaments.
-Download Registration Form - Registration form for use by tournament coordinators
+The following resource/character scenarios are the three choices for sanctioned scenario tournaments:
 
-Council Scenarios:
+- [A Hobbit's Quest](/original/tournament/a-hobbits-quest/)
+- [Barrels out of Bond](/original/tournament/barrels-out-of-bond/)
+- [The King beneath the Mountains](/original/tournament/the-king-beneath-the-mountains/)
 
-A Hobbit's Quest
-Barrels out of Bond
-The King beneath the Mountains
+# News from The Council of Lórien
 
-
-News from The Council of Lórien
-Issue Number One
-(policy good through July 15, 1996)
-
-Permission granted to photocopy for official Council of Lórien tournament use.
-©1996 Iron Crown Enterprises, Inc. All rights reserved.
+{: .text-center }
+Issue Number One<br>(policy good through July 15, 1996)
 
 As of May 1996, the following policy is in place for official Council tournaments. Each tournament has a tournament coordinator. This is the person in charge of running the tournament. In the text below, "tournament coordinator" means the coordinator or any staff member assigned by the coordinator to assist him or her.
 
-Table of Contents:
-
-General
-Clarifications and Rulings
-Additional Rules
-The Tournament Format
-Games not in the rulesbook
-
-GENERAL
-1) Two Player Games Only-All Council matches will be between two players. Multi-player and solitaire tournaments will not be official Council events.
-2) Accommodations-Players must be provided with reasonably comfortable accommodations. The playing environment must be clean and reasonably free of elements that pose a threat to the physical integrity of each player's cards.
-3) Using Maps-If standard rules are being used, an appropriate map of the regions of Middle-earth collectible card game can be used to depict region movement (instead of using actual region cards). Certain regions, which appear to be adjacent on the map, in fact, are not listed as adjacent on the appropriate region cards (e.g., Rohan and Dagorlad, Cardolan and Lindon). Such regions are not considered adjacent, even when a map is used for region movement.
-4) Character Draft-Starting characters will be determined by draft as per the guidelines printed on page 55 of the Middle-earth: The Wizards Companion. This method is called the Character Draft (and is detailed below).
+## GENERAL
+  
+ 1. Two Player Games Only---All Council matches will be between two players. Multi-player and solitaire tournaments will not be official Council events.
+ 2. Accommodations-Players must be provided with reasonably comfortable accommodations. The playing environment must be clean and reasonably free of elements that pose a threat to the physical integrity of each player's cards.
+ 3. Using Maps---If standard rules are being used, an appropriate map of the regions of Middle-earth collectible card game can be used to depict region movement (instead of using actual region cards). Certain regions, which appear to be adjacent on the map, in fact, are not listed as adjacent on the appropriate region cards (e.g., Rohan and Dagorlad, Cardolan and Lindon). Such regions are not considered adjacent, even when a map is used for region movement.
+ 4. Character Draft---Starting characters will be determined by draft as per the guidelines printed on page 55 of the Middle-earth: The Wizards Companion. This method is called the Character Draft (and is detailed below).
 
 Character Draft
 Each Player selects up to 10 characters to put into his or her pool of potential starting characters. This happens before characters are selected for the play deck. Each player reveals his or her first choice for a starting character simultaneously with opponent. If this character is duplicated by opponent's selection, both characters are set aside (this character may not appear in either player's starting company). Each player then selects a second character to reveal (but not a character revealed earlier). Each unduplicated revealed character goes into its player's starting company. Each player continues this process until one of the following occurs: the player has 5 characters in his or her company, the total Mind stats of that player's starting characters is 20, the player has exhausted his or her pool of 10 potential starting characters, or the player decides to stop revealing characters (i.e., he or she is satisfied with the starting company). Note that when one player stops, the other player continues revealing characters until one of the four conditions is met. A player may not reveal a character that would bring the total Mind stats of all of his or her starting characters above 20.
