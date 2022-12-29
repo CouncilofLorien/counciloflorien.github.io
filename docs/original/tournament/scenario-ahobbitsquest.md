@@ -1,9 +1,10 @@
 ---
 layout: default
 title: A Hobbit's Quest
+parent: Tournament
 search_exclude: true
 nav_exclude: true
-permalink: /scenarios/ahobbitsquest
+permalink: /original/tournaments/a-hobbits-quest/
 ---
 
 # Scenarios
