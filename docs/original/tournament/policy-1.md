@@ -8,10 +8,15 @@ search_exclude: true
 permalink: /original/tournament/policy-1/
 ---
 
-News from The Council of Lórien, Issue Number One (05/21/96)
+<details>
+<summary>Source</summary>
+<ul>
+<li>http://horizon.nl/~jdirksen/council.html#News - jdirksen's Cards 'R' Us (unofficial) <a href="https://web.archive.org/web/19980128154912fw_/http://horizon.nl/~jdirksen/council.html#News">(Web Archive)</a></li>
+<ul>
+</details>
 
-The official U.S. sanctioning body for the
-Middle-earth® collectible card game
+# The official U.S. sanctioning body for the<br>Middle-earth® collectible card game
+
 News from The Council of Lórien, Issue Number One (05/21/96)
 
 Downloads (in Adobe Acrobat format):
