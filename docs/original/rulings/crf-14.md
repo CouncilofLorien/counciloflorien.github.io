@@ -6,6 +6,17 @@ grand_parent: Original Rules
 permalink: /original/rulings/crf-14/
 ---
 
+<details>
+<summary>Source</summary>
+<a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/yaYpm1XgIx0/m/AFRQwcSQoIcJ">rec.games.trading-cards.misc - [MECCG] CRF 14 Changes</a> <a href="https://web.archive.org/web/20221229004923/https://groups.google.com/g/rec.games.trading-cards.misc/c/yaYpm1XgIx0/m/AFRQwcSQoIcJ">(Web Archive)</a>
+<a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/UT2_tjg99pY/m/tACqgCZawfkJ">rec.games.trading-cards.misc - [MECCG] CRF 14 Part 1 of 6</a> <a href="https://web.archive.org/web/20221229005040/https://groups.google.com/g/rec.games.trading-cards.misc/c/UT2_tjg99pY/m/tACqgCZawfkJ">(Web Archive)</a>
+<a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/tv8QFTf5mLk/m/CEu0I4GP-YUJ">rec.games.trading-cards.misc - [MECCG] CRF 14 Part 2 of 6</a> <a href="https://web.archive.org/web/20221229005825/https://groups.google.com/g/rec.games.trading-cards.misc/c/tv8QFTf5mLk/m/CEu0I4GP-YUJ">(Web Archive)</a>
+<a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/cjA-OOWX1h8/m/_ss1vGehe3oJ">rec.games.trading-cards.misc - [MECCG] CRF 14 part 3 of 6</a> <a href="https://web.archive.org/web/20221229010059/https://groups.google.com/g/rec.games.trading-cards.misc/c/cjA-OOWX1h8/m/_ss1vGehe3oJ">(Web Archive)</a>
+<a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/W0-k1WdM-z0/m/YIT2HArbsk4J">rec.games.trading-cards.misc - [MECCG] CRF 14 Part 4 of 6</a> <a href="https://web.archive.org/web/20221229010300/https://groups.google.com/g/rec.games.trading-cards.misc/c/W0-k1WdM-z0/m/YIT2HArbsk4J">(Web Archive)</a>
+<a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/04ZrByKGyF4/m/rQujmpcp0o8J">rec.games.trading-cards.misc - [MECCG] CRF 14 part 5 of 6</a> <a href="https://web.archive.org/web/20221229010455/https://groups.google.com/g/rec.games.trading-cards.misc/c/04ZrByKGyF4/m/rQujmpcp0o8J">(Web Archive)</a>
+<a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/8VtkLE1ul6s/m/AHdBWrb7keMJ">rec.games.trading-cards.misc - [MECCG] CRF 14 part 6 of 6</a> <a href="https://web.archive.org/web/20221229010602/https://groups.google.com/g/rec.games.trading-cards.misc/c/8VtkLE1ul6s/m/AHdBWrb7keMJ">(Web Archive)</a>
+</details>
+
 # Middle-earth: Collectible Card Game
 
 Collected Clarifications to the Rules
