@@ -8,14 +8,16 @@ permalink: /original/rulings/crf-5/
 ---
 
 <details>
-<summary>Source</summary>
-<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
-<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
-<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
-<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
-<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
-<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
-<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
+<summary>Sources and Citations</summary>
+<ul>
+<li><a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a></li>
+<li><a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a></li>
+<li><a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a></li>
+<li><a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a></li>
+<li><a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a></li>
+<li><a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a></li>
+<li><a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a></li>
+</ul>
 </details>
 
 # Middle-earth: Collectible Card Game
