@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Tournament Policy #3"
+title: "Policy #3"
 nav_order: 1
-parent: Original Rules
-grand_parent: Tournament Policy
+parent: Tournament
+grand_parent: Original Rules
 search_exclude: true
 permalink: /original/tournament/policy-3/
 ---
