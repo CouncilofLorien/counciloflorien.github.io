@@ -8,7 +8,7 @@ permalink: /original/rulings/crf-13/
 ---
 
 <details>
-<summary>Source</summary>
+<summary>Sources and Citations</summary>
 <ul>
 <li><a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/OhnMo1761Lk/m/Jopj8h0n8j4J">rec.games.trading-cards.misc - [MECCG] CRF 13 Changes</a> <a href="https://web.archive.org/web/20221229020136/https://groups.google.com/g/rec.games.trading-cards.misc/c/OhnMo1761Lk/m/Jopj8h0n8j4J">(Web Archive)</a></li>
 <li><a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/SX9htwfR9VY/m/9uIGvlrMTVEJ">rec.games.trading-cards.misc - [MECCG] CRF 13 Turn Sequence</a> <a href="https://web.archive.org/web/20221229020207/https://groups.google.com/g/rec.games.trading-cards.misc/c/SX9htwfR9VY/m/9uIGvlrMTVEJ">(Web Archive)</a></li>
