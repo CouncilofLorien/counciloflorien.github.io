@@ -52,7 +52,7 @@ Certain items are _hoard items_. Such an item may only be played at a site that 
 {: .note }
 > **Comment:** The rule "_Each site which had a Dragon automatic-attack at the beginning of the turn contains a hoard_" replaces an original rule stating "_Each site with a Dragon automatic-attack (i.e., each Dragon’s Lair) contains a hoard._" The original rule meant that a site would not contain a hoard if an _At Home_ dragon automatic-attack were defeated because that causes the Dragon’s lair to no longer have a Dragon automatic-attack. The rule was changed to enable hoard items to be played on the same turn that a unique Dragon manifestation was defeated. There is no indication that the new rule was intended to require the Dragon's lair site to have been in play at the beginning of the turn.
 > 
-> **Notice:** Only sites which had a Dragon automatic-attack at the _beginning_ of the turn contain a hoard. Sites which gain a Dragon automatic-attack by (e.g., by playing a Dragon as an automatic-attack. See [_MEDM_ Creatures as Automatic-attacks](/emended/dark-minions/#creatures-as-automatic-attacks)) do not contain a hoard.
+> **Notice:** Only sites which had a Dragon automatic-attack at the _beginning_ of the turn contain a hoard. Sites which gain a Dragon automatic-attack (e.g., by playing a Dragon as an automatic-attack; see [_MEDM_ Creatures as Automatic-attacks](/emended/dark-minions/#creatures-as-automatic-attacks)) do not contain a hoard.
 
 {: .note }
 > **Example:** You can not play a hoard minor item at Wellinghall after successfully influencing the _Ents of Fangorn_ like you can with a normal minor item. Wellinghall does not contain a hoard.
