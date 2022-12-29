@@ -44,47 +44,34 @@ As of November 1st, the following policy is in place for official Sanctioned and
 
 Each Sanctioned or Qualifier tournament has a tournament coordinator. This is the person in charge of running the tournament. In the text below, "tournament coordinator" means the coordinator or any staff member assigned by the coordinator to assist him or her. Tournament coordinators are responsible for seeing that the council guidelines are kept, prizes are properly awarded, and that that the tournament is run in a fair and impartial manner. Tournament coordinators need to make sure that all results (including the individual score sheets of each player) are returned to the Council of Lórien within two weeks after the tournament so that they can be properly recorded. Failure to report a the results of a Sanctioned or Qualified event may mean that ICE will not Sanction or Qualify future events run by said coordinator.
 
-GENERAL
+### GENERAL
 
-1) Participation-- Anyone is welcome to participate in a Council of Lórien sanctioned tournament except:
-a) I.C.E. employees, their spouses, and their immediate family. Free-lance contractors and artists are eligible to compete.
-
- 
-
-b) Official representatives of Iron Crown Enterprises in an on-going agency status such as on-line and net representatives.
-
-c) Show staff who are working in any capacity at the event where the tournament is run. This status includes people who wish to volunteer time running demos at an I.C.E. booth, sanctioned demo, or sanctioned tournament area. This also includes any staff working a sales booth and anyone receiving a badge from I.C.E.
-
-2) Two Player Games Only--All Council matches will be between two players. Multi-player and solitaire tournaments will not be official Council events without specific approval from the Council of Lórien. Permission for a multi-player event must be obtained prior to the running of the event. To obtain permission, the tournament coordinator must submit a written proposal for the tournament structure he or she proposes to use. All such submissions become the property of Iron Crown Enterprises which may choose to publish them (with credit to the original designer).
-3) Accommodations--Players must be provided with reasonably comfortable accommodations. The playing environment must be clean and reasonably free of elements that pose a threat to the physical integrity of each player's cards.
-4) Using Maps--If standard rules are being used, an appropriate map of the regions of MECCG can be used to depict region movement (instead of using actual region cards). The text of region cards takes precedence over maps, however. Certain regions, which may appear to be adjacent on a map, in fact, are not listed as adjacent on the appropriate region cards (e.g., Rohan and Dagorlad, Cardolan and Lindon). Such regions are not considered adjacent, even when a map is used for region movement. Maps from the Middle-earth CCG Mapsª were designed to minimize any discrepancies.
-5) Character Draft--Starting characters will be determined by draft as per the guidelines printed on page 55 of the Middle-earth: The Wizards Companion.; This method is called the Character Draft (and is detailed below).
- 
-
-Character Draft
-
- 
-
-Each Player selects up to 10 characters to put into his or her pool of potential starting characters. This happens before characters are selected for the play deck. Each player reveals his or her first choice for a starting character simultaneously with opponent. If this character is duplicated by opponent's selection, both characters are set aside (this character may not appear in either player's starting company). Each player then selects a second character to reveal (but not a character revealed earlier). Each unduplicated revealed character goes into its player's starting company. Each player continues this process until one of the following occurs: the player has 5 characters in his or her company, the total Mind of that player's starting characters is 20, the player has exhausted his or her pool of 10 potential starting characters, or the player decides to stop revealing characters (i.e., he or she is satisfied with the starting company). Note that when one player stops, the other player continues revealing characters until one of the four conditions is met. A player may not reveal a character that would bring the total Mind of all of his or her starting characters above 20.
-
-In his or her play deck, each player may now assign up to 10 characters, and this may include any unrevealed or duplicated (set aside) characters from his or her pool of starting characters. Note that the Character Draft differs from the rulesbook in that a duplicated starting character does not automatically go into the play deck, and that its inclusion in the play deck does count against the deck's 10 character maximum.
-
-Allowing players to introduce characters in this fashion minimizes matches where each player starts with very few characters because of multiple duplications.
-
-6) Free Council Ties--The Weakest Link Method, as printed on page 57 of the Middle-earth: The Wizards Companion (and detailed below), is used to break Free Council ties.
- 
-
-The Weakest Link Method
-
- 
-
-If both players have an equal number of marshalling points after the Free Council has resolved (i.e., there is a tie), add one corruption point to each non-Wizard character in play. Each character (including the Wizard) must make another corruption check. marshalling points are recounted and victory is awarded to the player with the most marshalling points. If there is still a tie, add one more corruption point to each non-Wizard character and each makes another corruption check. Again, assess marshalling points to see if a winner emerges. If not, continue adding one corruption point, making corruption checks, and reassessing marshalling points until a winner emerges.
-
-If, in the unlikely event, all non-Wizard characters in play are corrupted away by this method, and there is still a tie, each player receives 3 tournament points (see description of the Swiss System tournament format below):
-
-Note that the Weakest Link Method simulates who will most likely fail in the final struggle against Sauron. The characters are not actually being corrupted at the Free Council. Instead, the Free Council is "peering; into the heart and soul" of each character and assessing him or her.
-
-7) Simultaneous Elimination--If each player's Wizard is eliminated by the corruption checks made before the Free Council (or on the same round of The Weakest Link Method), there is a tie. Each player receives 3 tournament points (see description of the Swiss System tournament format below).
+1) Participation---Anyone is welcome to participate in a Council of Lórien sanctioned tournament except:
+     a) I.C.E. employees, their spouses, and their immediate family. Free-lance contractors and artists are eligible to compete.
+     b) Official representatives of Iron Crown Enterprises in an on-going agency status such as on-line and net representatives.
+     c) Show staff who are working in any capacity at the event where the tournament is run. This status includes people who wish to volunteer time running demos at an I.C.E. booth, sanctioned demo, or sanctioned tournament area. This also includes any staff working a sales booth and anyone receiving a badge from I.C.E.
+2) Two Player Games Only---All Council matches will be between two players. Multi-player and solitaire tournaments will not be official Council events without specific approval from the Council of Lórien. Permission for a multi-player event must be obtained prior to the running of the event. To obtain permission, the tournament coordinator must submit a written proposal for the tournament structure he or she proposes to use. All such submissions become the property of Iron Crown Enterprises which may choose to publish them (with credit to the original designer).
+3) Accommodations---Players must be provided with reasonably comfortable accommodations. The playing environment must be clean and reasonably free of elements that pose a threat to the physical integrity of each player's cards.
+4) Using Maps---If standard rules are being used, an appropriate map of the regions of MECCG can be used to depict region movement (instead of using actual region cards). The text of region cards takes precedence over maps, however. Certain regions, which may appear to be adjacent on a map, in fact, are not listed as adjacent on the appropriate region cards (e.g., Rohan and Dagorlad, Cardolan and Lindon). Such regions are not considered adjacent, even when a map is used for region movement. Maps from the Middle-earth CCG Mapsª were designed to minimize any discrepancies.
+5) Character Draft---Starting characters will be determined by draft as per the guidelines printed on page 55 of the Middle-earth: The Wizards Companion.; This method is called the Character Draft (and is detailed below).
+> {:. text-center }
+> **Character Draft**
+> 
+> Each Player selects up to 10 characters to put into his or her pool of potential starting characters. This happens before characters are selected for the play deck. Each player reveals his or her first choice for a starting character simultaneously with opponent. If this character is duplicated by opponent's selection, both characters are set aside (this character may not appear in either player's starting company). Each player then selects a second character to reveal (but not a character revealed earlier). Each unduplicated revealed character goes into its player's starting company. Each player continues this process until one of the following occurs: the player has 5 characters in his or her company, the total Mind of that player's starting characters is 20, the player has exhausted his or her pool of 10 potential starting characters, or the player decides to stop revealing characters (i.e., he or she is satisfied with the starting company). Note that when one player stops, the other player continues revealing characters until one of the four conditions is met. A player may not reveal a character that would bring the total Mind of all of his or her starting characters above 20.
+> 
+> In his or her play deck, each player may now assign up to 10 characters, and this may include any unrevealed or duplicated (set aside) characters from his or her pool of starting characters. Note that the Character Draft differs from the rulesbook in that a duplicated starting character does not automatically go into the play deck, and that its inclusion in the play deck does count against the deck's 10 character maximum.
+> 
+> Allowing players to introduce characters in this fashion minimizes matches where each player starts with very few characters because of multiple duplications.
+6) Free Council Ties---The Weakest Link Method, as printed on page 57 of the Middle-earth: The Wizards Companion (and detailed below), is used to break Free Council ties.
+> {:. text-center }
+> **The Weakest Link Method**
+> 
+> If both players have an equal number of marshalling points after the Free Council has resolved (i.e., there is a tie), add one corruption point to each non-Wizard character in play. Each character (including the Wizard) must make another corruption check. marshalling points are recounted and victory is awarded to the player with the most marshalling points. If there is still a tie, add one more corruption point to each non-Wizard character and each makes another corruption check. Again, assess marshalling points to see if a winner emerges. If not, continue adding one corruption point, making corruption checks, and reassessing marshalling points until a winner emerges.
+> 
+> If, in the unlikely event, all non-Wizard characters in play are corrupted away by this method, and there is still a tie, each player receives 3 tournament points (see description of the Swiss System tournament format below):
+> 
+> Note that the Weakest Link Method simulates who will most likely fail in the final struggle against Sauron. The characters are not actually being corrupted at the Free Council. Instead, the Free Council is "peering; into the heart and soul" of each character and assessing him or her.
+7) Simultaneous Elimination---If each player's Wizard is eliminated by the corruption checks made before the Free Council (or on the same round of The Weakest Link Method), there is a tie. Each player receives 3 tournament points (see description of the Swiss System tournament format below).
 8) To determine which player's characters make their corruption checks first when going before the Free Council (and possibly carried into The Weakest Link Method), each player makes a dice roll. Rerolling ties, the player who rolls highest chooses which player's characters go first. This rule only has a significant application in limited cases, such as when a Traitor card is in play.
 9) A 12 creature minimum is required in each play deck's hazard mix. Creatures that are also events count as only half a creature towards this limit (rounding down). Such creatures include the Nazgul, Mouth of Sauron, and Shelob. Sideboards have no such creature restrictions. Dragon &quotAhunt" and At Home" manifestations count as half a creature for these purposes. Agents (introduced in Middle-earth: Dark Minionsª) also count as half a creature for these purposes.
 10) The minimum number of hazards and resources in a play deck is increased from 25 and 25 to 30 and 30.
@@ -92,94 +79,73 @@ Note that the Weakest Link Method simulates who will most likely fail in the fin
 12) Only one of each unique card and a maximum of three of any other cards can be included in a player's play deck, sideboard, and starting cards collectively. As an exception, a player may include 2 or 3 of the same Wizard in his or her play deck. No Wizards are allowed in the sideboard.
 13) A card that can be played as either a resource or as a hazard can be counted in either the resource mix or hazard mix of a deck for the purposes of including an equal number of resources and hazards.
 14) Players and the coordinator should make certain that, for standard rules games, all of the Marshalling point modifications printed on page 50 of the Middle-earth: The Wizardsª Unlimited Edition rulesbook and on page 32 of the Middle-earth: The Wizards Companion are properly accounted for. These modifications are to be interpreted in the order they are printed.
-RULES OF ETIQUETTE
-
-15) Deck Construction--The cards used in deck building may be from any edition or expansion of the MECCG (including foreign translations and official promotional cards). The mechanics of any given card will be determined from the most recent English printing (as well as from official errata and the official rulings). No proxy cards will be allowed. Cards from any particular expansion may only be used in Council events after a minimum time of 30 days following their official retail release has passed.
-16) Deck Integrity--Each player is required to use the same play deck, sideboard, and pool of starting characters for the entire tournament. No card substitutions are allowed between games. A player must start each game with the same cards in his or her play deck, sideboard, and pool of starting characters as he or she started the tournament. The tournament coordinator may choose to require each player to submit a written copy of all cards in his or her play deck, sideboard, and pool of starting characters before playing (spot checks may be used to ensure decks are legal).
-17) Marked Cards--A player may petition the tournament coordinator to disallow a non-location card from an opponent's cards, if the offending card has a distinguishing mark, tear, or fold visible on its generic side.
-18) Protective Sleeves--A player may play with his or her cards in protective sleeves unless the tournament coordinator requires the cards to be taken out of the sleeves. An opponent may petition the tournament coordinator to require that a player remove his or her cards from their protective sleeves, if the opponent reasonably believes that one of the following rules is being violated.
-Each of a player's cards must be in the same make of protective sleeve.
-Each card must be oriented the same way with respect to the opening of the sleeve.
-No distinguishing marks or inconsistent degree of wear is allowed on individual sleeves.
-Only one card is allowed in each sleeve.
-19) Shuffling--All deck shuffling must be made above the edge of the table (in clear view of your opponent). After you shuffle your cards at least three times, your opponent will be allowed to shuffle your cards and/or cut your deck up to three times. An opponent must shuffle a player's cards in a manner that will not damage the cards physical integrity. It is highly recommended that an opponent shuffle a player's cards by dealing them out in some number of face-down stacks.
-20) Conventions of Play--Each player and opponent should make sure that any conventions used for card play (including denoting play decks and discard piles) are obvious and agreed upon by both players.
+   ### RULES OF ETIQUETTE
+15) Deck Construction---The cards used in deck building may be from any edition or expansion of the MECCG (including foreign translations and official promotional cards). The mechanics of any given card will be determined from the most recent English printing (as well as from official errata and the official rulings). No proxy cards will be allowed. Cards from any particular expansion may only be used in Council events after a minimum time of 30 days following their official retail release has passed.
+16) Deck Integrity---Each player is required to use the same play deck, sideboard, and pool of starting characters for the entire tournament. No card substitutions are allowed between games. A player must start each game with the same cards in his or her play deck, sideboard, and pool of starting characters as he or she started the tournament. The tournament coordinator may choose to require each player to submit a written copy of all cards in his or her play deck, sideboard, and pool of starting characters before playing (spot checks may be used to ensure decks are legal).
+17) Marked Cards---A player may petition the tournament coordinator to disallow a non-location card from an opponent's cards, if the offending card has a distinguishing mark, tear, or fold visible on its generic side.
+18) Protective Sleeves---A player may play with his or her cards in protective sleeves unless the tournament coordinator requires the cards to be taken out of the sleeves. An opponent may petition the tournament coordinator to require that a player remove his or her cards from their protective sleeves, if the opponent reasonably believes that one of the following rules is being violated.
+     - Each of a player's cards must be in the same make of protective sleeve.
+     - Each card must be oriented the same way with respect to the opening of the sleeve.
+     - No distinguishing marks or inconsistent degree of wear is allowed on individual sleeves.
+     - Only one card is allowed in each sleeve.
+19) Shuffling---All deck shuffling must be made above the edge of the table (in clear view of your opponent). After you shuffle your cards at least three times, your opponent will be allowed to shuffle your cards and/or cut your deck up to three times. An opponent must shuffle a player's cards in a manner that will not damage the cards physical integrity. It is highly recommended that an opponent shuffle a player's cards by dealing them out in some number of face-down stacks.
+20) Conventions of Play---Each player and opponent should make sure that any conventions used for card play (including denoting play decks and discard piles) are obvious and agreed upon by both players.
 21) Finishing Games--When a game is finished, both players should leave their cards on the playing surface and notify the tournament coordinator that their game is finished. Players do not pick up their cards until the tournament coordinator says so. The tournament coordinator has the option of observing the game's final position and tallying the game's score and tournament points to be awarded. The tournament coordinator may announce that, if both players agree on their game, they can pick up their cards and report their game's results to the coordinator without inspection.
-22) Players that Stall--If an opponent is believed to be stalling for purposeful gain, or if an opponent is believed to be stalling through a lack of respect for or sensitivity to the time limit, the player can petition the tournament coordinator to observe the game. If the coordinator observes that the opponent is stalling more than what is reasonable and necessary, the coordinator can call the game in favor of the non-stalling player. In a Swiss System format (see below), the player receives the maximum tournament points for the capability of his or her deck. The tournament coordinator would have to make a judgment as to what the deck's capability is. There are exactly two choices: the deck is either capable of destroying The One Ring [must have a ring test (not counting Ringlores or Tests of Lore) and three Precious Gold Rings in the starting play deck, and must have The One Ring and either the Cracks of Doom or Gollum's Fate and Gollum in the starting play deck or sideboard]; or the deck is only capable of the maximum Marshalling points win. Note that a player receives tournament points for a ratio of his or her Marshalling points with the opponent's if time is called.
-23) Players Dropping Out--A player should be discouraged from dropping out of a game before the game has reached its natural conclusion. A player is expected to drop out of the tournament between rounds if he or she believes he or she will be unable to complete the following round's game. Certain emergencies cannot be avoided though, and a player may be forced to drop out of a game. If a player drops out of a game, he or she drops out of the tournament, cannot reenter the tournament in a later round, and receives no consideration for prizes or tournament ranking. If a player drops out of the game, the player concedes the game and the opponent receives the win. In a Swiss System format (see below), the opponent receives the maximum tournament points for the capability of his or her deck. The tournament coordinator would have to make a judgment as to what the deck's capability is. There are exactly two choices: the deck is either capable of destroying The One Ring [must have a ring test (not counting Ringlores or Tests of Lore) and three Precious Gold Rings in the starting play deck, and must have The One Ring and either the Cracks of Doom or Gollum's Fate and Gollum in the starting play deck or sideboard]; or the deck is only capable of the maximum Marshalling points win.
-24) Rules Violations during Play--Rules violations will probably occur in tournaments, especially now in the younger days of the MECCG. It is suggested that these violations not be policed or worried about until a player involved notes it. At that point in the game, the correct rule is adopted. Previous violations are not affected or retroactively corrected. For example, if a player chooses Sting (a unique minor item) for his starting company, and his opponent notices after the first turn of the game that unique minor items may not be chosen for starting companies, do not replace Sting at this point. If the opponent noticed the violation before either player had taken a first turn, the offending player must replace Sting with a non-unique minor item. The tournament coordinator may choose to immediately correct any rules violations brought to his or her attention.
-25) Cheating--If a player cheats, he or she is immediately ejected from the event. In a Swiss System format (see below), an opponent receives the maximum tournament points for the capability of his or her deck. The tournament coordinator would have to make a judgment as to what the deck's capability is. There are exactly two choices: the deck is either capable of destroying The One Ring [must have a ring test (not counting Ringlores or Tests of Lore) and three Precious Gold Rings in the starting play deck, and must have The One Ring and either the Cracks of Doom or Gollum's Fate and Gollum in the starting play deck or sideboard]; or the deck is only capable of the maximum Marshalling points win.
-CLARIFICATIONS AND RULINGS
-26) Legal Play of Cards--A player may not play a card just to discard it (i.e., just get it out of his or her hand). Specifically, a card may only be played if it meets at least one of the following criteria.
-1) The card must have an immediate effect on the game.
-
-2) The card is a long-event. Long-events can always be played, even if ultimately they will not affect play.
-
-3) The card has a potential effect on play that could be triggered later (e.g., the second use of Dragon's Desolation). Most permanent-events fall into this category. Only those that are playable on or with a certain entity are restrictive. For example, you cannot play a corruption card if no character exists that would be affected by it.
-
-In all cases, if a card "cannot; be duplicated," a second copy of that card cannot be played--unless the first copy of the card is targeted for removal earlier in the same chain of effects when the second copy is played. This is a clarification of Annotation 11 given on page 50 of the Middle-earth: The Wizards Companion.
-
+22) Players that Stall---If an opponent is believed to be stalling for purposeful gain, or if an opponent is believed to be stalling through a lack of respect for or sensitivity to the time limit, the player can petition the tournament coordinator to observe the game. If the coordinator observes that the opponent is stalling more than what is reasonable and necessary, the coordinator can call the game in favor of the non-stalling player. In a Swiss System format (see below), the player receives the maximum tournament points for the capability of his or her deck. The tournament coordinator would have to make a judgment as to what the deck's capability is. There are exactly two choices: the deck is either capable of destroying The One Ring \[must have a ring test (not counting Ringlores or Tests of Lore) and three Precious Gold Rings in the starting play deck, and must have The One Ring and either the Cracks of Doom or Gollum's Fate and Gollum in the starting play deck or sideboard]; or the deck is only capable of the maximum Marshalling points win. Note that a player receives tournament points for a ratio of his or her Marshalling points with the opponent's if time is called.
+23) Players Dropping Out---A player should be discouraged from dropping out of a game before the game has reached its natural conclusion. A player is expected to drop out of the tournament between rounds if he or she believes he or she will be unable to complete the following round's game. Certain emergencies cannot be avoided though, and a player may be forced to drop out of a game. If a player drops out of a game, he or she drops out of the tournament, cannot reenter the tournament in a later round, and receives no consideration for prizes or tournament ranking. If a player drops out of the game, the player concedes the game and the opponent receives the win. In a Swiss System format (see below), the opponent receives the maximum tournament points for the capability of his or her deck. The tournament coordinator would have to make a judgment as to what the deck's capability is. There are exactly two choices: the deck is either capable of destroying The One Ring \[must have a ring test (not counting Ringlores or Tests of Lore) and three Precious Gold Rings in the starting play deck, and must have The One Ring and either the Cracks of Doom or Gollum's Fate and Gollum in the starting play deck or sideboard]; or the deck is only capable of the maximum Marshalling points win.
+24) Rules Violations during Play---Rules violations will probably occur in tournaments, especially now in the younger days of the MECCG. It is suggested that these violations not be policed or worried about until a player involved notes it. At that point in the game, the correct rule is adopted. Previous violations are not affected or retroactively corrected. For example, if a player chooses Sting (a unique minor item) for his starting company, and his opponent notices after the first turn of the game that unique minor items may not be chosen for starting companies, do not replace Sting at this point. If the opponent noticed the violation before either player had taken a first turn, the offending player must replace Sting with a non-unique minor item. The tournament coordinator may choose to immediately correct any rules violations brought to his or her attention.
+25) Cheating---If a player cheats, he or she is immediately ejected from the event. In a Swiss System format (see below), an opponent receives the maximum tournament points for the capability of his or her deck. The tournament coordinator would have to make a judgment as to what the deck's capability is. There are exactly two choices: the deck is either capable of destroying The One Ring \[must have a ring test (not counting Ringlores or Tests of Lore) and three Precious Gold Rings in the starting play deck, and must have The One Ring and either the Cracks of Doom or Gollum's Fate and Gollum in the starting play deck or sideboard]; or the deck is only capable of the maximum Marshalling points win.
+   ### CLARIFICATIONS AND RULINGS
+26) _Legal Play of Cards_---A player may not play a card just to discard it (i.e., just get it out of his or her hand). Specifically, a card may only be played if it meets at least one of the following criteria.
+     1) The card must have an immediate effect on the game.
+     2) The card is a long-event. Long-events can always be played, even if ultimately they will not affect play.
+     3) The card has a potential effect on play that could be triggered later (e.g., the second use of _Dragon's Desolation_). Most permanent-events fall into this category. Only those that are playable on or with a certain entity are restrictive. For example, you cannot play a corruption card if no character exists that would be affected by it.<br>In all cases, if a card "cannot; be duplicated," a second copy of that card cannot be played--unless the first copy of the card is targeted for removal earlier in the same chain of effects when the second copy is played. This is a clarification of Annotation 11 given on page 50 of the Middle-earth: The Wizards Companion.
 27) A player may not play any resources during the opponent's turn. Additionally, a player may not actively engage any resource or character effect during the opponent's turn (e.g., a player may not tap a Palant'r during the opponent's turn). A player may not play any hazards and may not actively engage any hazard permanent-events, etc. outside of the opponent's movement/hazard phase.
 28) A player may not target an opponent's characters, companies, items, followers, etc. with his or her own resources. Of course, resource long-events and other cards which do not target and have global effects will affect opponent's cards.
 29) A card's text takes precedence if it contradicts a rule of the game (or these rules).
-30) Certain cards, effects, and/or rules allow a player to search for cards and add them to his or her hand, play deck, or discard pile outside of the normal sequence of play (i.e., in addition to filling out the hand and drawing cards when a company moves). A player may or may not be required to reveal some or all of the identity of such manipulated cards. Given below is a list of all such effects and cards included in MECCG and the official ruling on how the implementing player must reveal the manipulated cards, if at all. If multiple cards are manipulated at a time (e.g., exchanging cards with the sideboard when a play deck is exhausted), the player must declare the number of cards so manipulated. [Key: RE--the manipulated card must be revealed to an opponent; RR--enough of the manipulated card's face must be revealed to show opponent that it is a resource/character; RH--enough of the manipulated card's face must be revealed to show opponent that it is a hazard; NR--the manipulated card need not be revealed to opponent.]
-Bringing a resource/character in from the sideboard to the play deck or discard pile (by tapping a Wizard)--RR
-
-Bringing a hazard in from the sideboard to the play deck or discard pile (by tapping a Nazgl permanent-event or by option when op-ponent's Wizard is revealed--see below)--RH
-
-Exchanging cards from the sideboard with the play deck when a player exhausts his or her deck--NR
-
- 
-
-from Middle-earth The Wizards;
-
-Dwarven Rings (all, except for Durin's Tribe)-RE
-Far-sight--RE
-Favor of the Valar--NR
-Lordly Presence--NR
-Lucky Search--RE
-Mouth of Sauron--RH
-Palantír of Annúminas--RE
-Palantír of Minas Tirith--NR
-Palantír of Orthanc--NR
-Reforging--RE
-The Nazgûl Are Abroad--RE
-Uvatha the Horseman--RE
-Vilya--RR
-
-from Middle-earth: The Dragons;
-
-Dragon-lore--RE
-From the Pits of Angband--RE
-Mathom Lore--RE
-Nenseld` the Wingild--RE
-Parsimony of Seclusion--RE
-
- 
-
-from Middle-earth: Dark Minions;
-
-An Unexpected Outpost--RH
-Choice of Loethien--RE
-Cup of Farewell--RE
-Eyes of Mandos--RE
-Horns, Horns, Horns--RE
-Inner Cunning--RE
-Mistress Lobelia--RE
-Nobody's Friend--RE
-Smoke Rings--RR
-Token of Goodwill--RR
-
- 
-
+30) Certain cards, effects, and/or rules allow a player to search for cards and add them to his or her hand, play deck, or discard pile outside of the normal sequence of play (i.e., in addition to filling out the hand and drawing cards when a company moves). A player may or may not be required to reveal some or all of the identity of such manipulated cards. Given below is a list of all such effects and cards included in MECCG and the official ruling on how the implementing player must reveal the manipulated cards, if at all. If multiple cards are manipulated at a time (e.g., exchanging cards with the sideboard when a play deck is exhausted), the player must declare the number of cards so manipulated. \[Key: RE--the manipulated card must be revealed to an opponent; RR--enough of the manipulated card's face must be revealed to show opponent that it is a resource/character; RH--enough of the manipulated card's face must be revealed to show opponent that it is a hazard; NR--the manipulated card need not be revealed to opponent.]
+     - Bringing a resource/character in from the sideboard to the play deck or discard pile (by tapping a Wizard)--RR
+     - Bringing a hazard in from the sideboard to the play deck or discard pile (by tapping a Nazgl permanent-event or by option when op-ponent's Wizard is revealed--see below)--RH
+     - Exchanging cards from the sideboard with the play deck when a player exhausts his or her deck--NR
+     - from _Middle-earth The Wizards;_
+     - Dwarven Rings (all, except for Durin's Tribe)-RE
+     - Far-sight--RE
+     - Favor of the Valar--NR
+     - Lordly Presence--NR
+     - Lucky Search--RE
+     - Mouth of Sauron--RH
+     - Palantír of Annúminas--RE
+     - Palantír of Minas Tirith--NR
+     - Palantír of Orthanc--NR
+     - Reforging--RE
+     - The Nazgûl Are Abroad--RE
+     - Uvatha the Horseman--RE
+     - Vilya--RR
+     - from _Middle-earth: The Dragons_;
+     - Dragon-lore--RE
+     - From the Pits of Angband--RE
+     - Mathom Lore--RE
+     - Nenseld` the Wingild--RE
+     - Parsimony of Seclusion--RE
+     - from _Middle-earth: Dark Minions_;
+     - An Unexpected Outpost--RH
+     - Choice of Loethien--RE
+     - Cup of Farewell--RE
+     - Eyes of Mandos--RE
+     - Horns, Horns, Horns--RE
+     - Inner Cunning--RE
+     - Mistress Lobelia--RE
+     - Nobody's Friend--RE
+     - Smoke Rings--RR
+     - Token of Goodwill--RR
 31) All rulings from the Council of Lórien ruling file (compiled by Craig &quotIchabod" O'Brien) given on ICE's WEB page at &quothttp://www.ironcrown.com" are official rulings for use with Council events.
-ADDITIONAL RULES
+   ### ADDITIONAL RULES
 In addition to these guidelines, a few rules not presented in the METW rulesbook take effect for tournament play. These rules are presented in the expansion Middle-earth: The Dragons.
+32) Removing Corruption Cards---A character may choose to ignore the restriction that he or she tap to remove a corruption card (as printed on a corruption card), and suffer a -3 penalty to the dice roll to remove it. This means a character can remain untapped to remove a corruption card and modify his roll by -3. The character can remove a corruption card when already tapped (or wounded) and modify his roll by -3. A character may only attempt to remove each corruption card once per turn if he or she ignores the tapping restriction to do so.
+33) Larger Sideboard---The sideboard (which is not used with starter rules) has been increased by 5 cards for all standard rules game formats. This means, for example, that in a standard rules 1-deck and 2-deck game, the sideboard must contain 20 cards.
+34) Accessing Hazards in Sideboard---A player can access hazard cards in his or her sideboard when the opponent's Wizard is in play. A player must do this at the end of the opponent's untap phase. Specifically, the player may either bring up to 5 hazard cards from the sideboard into the discard pile, or 1 hazard card from the sideboard into the play deck (if at least 5 cards are in the play deck). In either case, the hazard limit against all of the opponent's companies this turn is halved, rounded up.
 
-32) Removing Corruption Cards--A character may choose to ignore the restriction that he or she tap to remove a corruption card (as printed on a corruption card), and suffer a -3 penalty to the dice roll to remove it. This means a character can remain untapped to remove a corruption card and modify his roll by -3. The character can remove a corruption card when already tapped (or wounded) and modify his roll by -3. A character may only attempt to remove each corruption card once per turn if he or she ignores the tapping restriction to do so.
-33) Larger Sideboard--The sideboard (which is not used with starter rules) has been increased by 5 cards for all standard rules game formats. This means, for example, that in a standard rules 1-deck and 2-deck game, the sideboard must contain 20 cards.
-34) Accessing Hazards in Sideboard--A player can access hazard cards in his or her sideboard when the opponent's Wizard is in play. A player must do this at the end of the opponent's untap phase. Specifically, the player may either bring up to 5 hazard cards from the sideboard into the discard pile, or 1 hazard card from the sideboard into the play deck (if at least 5 cards are in the play deck). In either case, the hazard limit against all of the opponent's companies this turn is halved, rounded up.
-THE SWISS SYSTEM FORMAT
+## THE SWISS SYSTEM FORMAT
 As of October 1st 1996, the Council of Lórien has adopted a Swiss System official tournament format. This tournament format allows the success of each player to be determined by a total of tournament points awarded from the play of several games, thereby decreasing the deterministic role of luck in each game.
 
 The Swiss System format can be used for any of the actual types of games being run (two-deck standard rules, sealed deck starter rules, scenario, etc.). The guidelines below are assuming a game type using the Free Council will be run. This is as opposed to a Resource/Character scenario tournament; see the special section below for specific suggestions on running a Resource/Character scenario tournament. Here are the basics the Swiss System tournament structure that The Council of Lórien has adopted:
