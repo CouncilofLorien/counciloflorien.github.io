@@ -3,6 +3,7 @@ layout: default
 title: MELE Companion
 parent: Rulings
 grand_parent: Original Rules
+search_exclude: true
 permalink: /original/rulings/mele-companion/
 ---
 
