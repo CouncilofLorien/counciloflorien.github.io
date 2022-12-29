@@ -3,6 +3,7 @@ layout: default
 title: The Dragons Player Guide Rulings
 parent: Rulings
 grand_parent: Original Rules
+search_exclude: true
 permalink: /original/rulings/metd-player-guide/
 ---
 
