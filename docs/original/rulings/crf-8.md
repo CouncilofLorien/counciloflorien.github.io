@@ -10,13 +10,11 @@ permalink: /original/rulings/crf-8/
 <details>
 <summary>Sources and Citations</summary>
 <ul>
-<li><a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a></li>
-<li><a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a></li>
-<li><a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a></li>
-<li><a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a></li>
-<li><a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a></li>
-<li><a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a></li>
-<li><a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a></li>
+<li><a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/Y5e_VZr9D28/m/spvTc_183tgJ">rec.games.trading-cards.misc - [MECCG] CRF 8, Turn Sequence Rulings</a> <a href="https://web.archive.org/web/20221229204608/https://groups.google.com/g/rec.games.trading-cards.misc/c/Y5e_VZr9D28/m/spvTc_183tgJ">(Web Archive)</a></li>
+<li>CRF 8, Rulings by Term (Missing)</li>
+<li><a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/EmyvbehMJsE/m/B59fZou-nZEJ">rec.games.trading-cards.misc - [MECCG] CRF 8, Tournament Rulings</a> <a href="https://web.archive.org/web/20221229204750/https://groups.google.com/g/rec.games.trading-cards.misc/c/EmyvbehMJsE/m/B59fZou-nZEJ">(Web Archive)</a></li>
+<li><a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/F1mKeEbKUWM/m/iJgkwmS00wsJ">rec.games.trading-cards.misc - [MECCG] CRF 8, Card Rulings</a> <a href="https://web.archive.org/web/20221229204742/https://groups.google.com/g/rec.games.trading-cards.misc/c/F1mKeEbKUWM/m/iJgkwmS00wsJ">(Web Archive)</a></li>
+<li><a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/pnmTHUZ0Ocs/m/lkrxIMjqlvAJ">rec.games.trading-cards.misc - [MECCG] CRF 8, Errata List</a> <a href="https://web.archive.org/web/20221229204842/https://groups.google.com/g/rec.games.trading-cards.misc/c/pnmTHUZ0Ocs/m/lkrxIMjqlvAJ">(Web Archive)</a></li>
 </ul>
 </details>
 
