@@ -8,7 +8,7 @@ permalink: /original/rulings/crf-12/
 ---
 
 <details>
-<summary>Source</summary>
+<summary>Sources and Citations</summary>
 <ul>
 <li>http://www.ironcrown.com/ccgs/CRF/index.html - Introduction <a href="https://web.archive.org/web/19990423222234/http://www.ironcrown.com/ccgs/CRF/index.html">(Web Archive)</a></li>
 <li>http://www.ironcrown.com/ccgs/CRF/turn.html - Turn Sequence <a href="https://web.archive.org/web/19990427052330/http://www.ironcrown.com/ccgs/CRF/turn.html">(Web Archive)</a></li>
