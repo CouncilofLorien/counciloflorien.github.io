@@ -10,13 +10,14 @@ permalink: /original/rulings/crf-9/
 <details>
 <summary>Sources and Citations</summary>
 <ul>
-<li><a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a></li>
-<li><a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a></li>
-<li><a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a></li>
-<li><a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a></li>
-<li><a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a></li>
-<li><a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a></li>
-<li><a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a></li>
+<li><a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/2XCyydDmCaw/m/n1AvLovRrJoJ">rec.games.trading-cards.misc - [MECCG] CRF 9 Changes</a> <a href="https://web.archive.org/web/20221229203513/https://groups.google.com/g/rec.games.trading-cards.misc/c/2XCyydDmCaw/m/n1AvLovRrJoJ">(Web Archive)</a></li>
+<li><a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/2ZQ5G0seRxs/m/G1LTUCUMNjQJ">rec.games.trading-cards.misc - MECCG] CRF 9 Turn Sequence Rulings</a> <a href="https://web.archive.org/web/20221229203535/https://groups.google.com/g/rec.games.trading-cards.misc/c/2ZQ5G0seRxs/m/G1LTUCUMNjQJ">(Web Archive)</a></li>
+<li><a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/_yPo6g34DnI/m/p8xe2n8W6jUJ">rec.games.trading-cards.misc - [MECCG] CRF 9 Rulings by Term 1/2</a> <a href="https://web.archive.org/web/20221229203603/https://groups.google.com/g/rec.games.trading-cards.misc/c/_yPo6g34DnI/m/p8xe2n8W6jUJ">(Web Archive)</a></li>
+<li><a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/HUkFJVw0edM/m/TYBXUr4z8p4J">rec.games.trading-cards.misc - [MECCG] CRF 9 Rulings by Term 2/2</a> <a href="https://web.archive.org/web/20221229203633/https://groups.google.com/g/rec.games.trading-cards.misc/c/HUkFJVw0edM/m/TYBXUr4z8p4J">(Web Archive)</a></li>
+<li><a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/Y66ttIc9R_A/m/AC_11hlZowsJ">rec.games.trading-cards.misc - [MECCG] CRF 9 Tournament Rulings</a> <a href="https://web.archive.org/web/20221229203810/https://groups.google.com/g/rec.games.trading-cards.misc/c/Y66ttIc9R_A/m/AC_11hlZowsJ">(Web Archive)</a></li>
+<li><a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/_IgvAIRqDl4/m/NEGJLUy0j_oJ">rec.games.trading-cards.misc - [MECCG] CRF 9 Card Rulings 1/2</a> <a href="https://web.archive.org/web/20221229203753/https://groups.google.com/g/rec.games.trading-cards.misc/c/_IgvAIRqDl4/m/NEGJLUy0j_oJ">(Web Archive)</a></li>
+<li><a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/V7Op3W1nYXk/m/6ZgZfRswsu0J">rec.games.trading-cards.misc - [MECCG] CRF 9 Card Rulings 2/2</a> <a href="https://web.archive.org/web/20221229203956/https://groups.google.com/g/rec.games.trading-cards.misc/c/V7Op3W1nYXk/m/6ZgZfRswsu0J">(Web Archive)</a></li>
+<li><a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/tgCni8S-Tmg/m/Sv7iq1v44AoJ">rec.games.trading-cards.misc - [MECCG] CRF 9 Errata List</a> <a href="https://web.archive.org/web/20221229204003/https://groups.google.com/g/rec.games.trading-cards.misc/c/tgCni8S-Tmg/m/Sv7iq1v44AoJ">(Web Archive)</a></li>
 </ul>
 </details>
 
