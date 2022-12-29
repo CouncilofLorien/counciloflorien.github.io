@@ -8,10 +8,11 @@ permalink: /original/rulings/crf-15/
 
 <details>
 <summary>Source</summary>
-The official sources of CRF 15 are no longer available on the internet. However, a copy of the official post to the METW mailing list was saved and posted on the Council of Elrond forum. An incomplete copy of CRF 15 hosted by "exy" (an unofficial source) has also been archived.<br>
-<a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/2i5OrdXlruY/m/vdHqWIQoxb0J">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a> <a href="https://web.archive.org/web/20221229012428/https://groups.google.com/g/rec.games.trading-cards.misc/c/2i5OrdXlruY/m/vdHqWIQoxb0J">[Announcement] rec.games.trading-cards.misc - [MECCG] CRF 15</a> <a href="">(Web Archive)</a><br>
-<a href="https://councilofelrond.org/forum/viewtopic.php?p=32651#p32651">Council of Elrond forums - CRF #15 - May 29, 1999 (Historical Backup)</a> <a href="https://web.archive.org/web/20221229015623/https://councilofelrond.org/forum/viewtopic.php?f=68&t=3928">(Web Archive)</a><br>
-<a href="https://web.archive.org/web/20010413151704/http://www.jps.net/exy/me/crf/crf.htm">Web Archive of CRF 15 hosted by "exy"</a>
+The official sources of CRF 15 are no longer available on the internet. However, a copy of the official post to the METW mailing list was saved and posted on the Council of Elrond forum. An incomplete copy of CRF 15 hosted by "exy" (an unofficial source) has also been archived.<br><br>
+<a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/2i5OrdXlruY/m/vdHqWIQoxb0J">rec.games.trading-cards.misc - [MECCG] CRF 15 (announcement only)</a> <a href="https://web.archive.org/web/20221229012428/https://groups.google.com/g/rec.games.trading-cards.misc/c/2i5OrdXlruY/m/vdHqWIQoxb0J">(Web Archive)</a><br>
+<a href="https://web.archive.org/web/20021003225709/http://groups.yahoo.com:80/group/metw/messages/16592?expand=1">Yahoo! Groups "metw" mailing list - Post 16602 - Subject: CRF changes (official source) (Web Archive)</a><br>
+<a href="https://councilofelrond.org/forum/viewtopic.php?p=32651#p32651">Council of Elrond forums - CRF #15 - May 29, 1999 (Historical Backup) (unofficial source)</a> <a href="https://web.archive.org/web/20221229015623/https://councilofelrond.org/forum/viewtopic.php?f=68&t=3928">(Web Archive)</a><br>
+<a href="https://web.archive.org/web/20010413151704/http://www.jps.net/exy/me/crf/crf.htm">Web Archive of CRF 15 hosted by "exy" (unofficial source)</a>
 </details>
 
 # Middle-earth: Collectible Card Game
