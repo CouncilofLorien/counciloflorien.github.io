@@ -9,7 +9,7 @@ permalink: /original/tournament/policy-2/
 ---
 
 <details>
-<summary>Source</summary>
+<summary>Sources and Citations</summary>
 <ul>
 <li>http://www.ironcrown.com/ICESite/MeCCG/CouncilOfLorien.html#News - News from The Council of Lórien, Issue Number Two (10/29/96) <a href="http://web.archive.org/web/19970503144734fw_/http://www.ironcrown.com/ICESite/MeCCG/CouncilOfLorien.html#News">(Web Archive)</a></li>
 <li>http://www.ironcrown.com:80/ICESite/MeCCG/News2.pdf - News from The Council of Lórien <a href="http://web.archive.org/web/19970503144734fw_/http://www.ironcrown.com/ICESite/MeCCG/CouncilOfLorien.html#News">(Web Archive)</a></li>
@@ -44,7 +44,7 @@ As of November 1st, the following policy is in place for official Sanctioned and
 
 Each Sanctioned or Qualifier tournament has a tournament coordinator. This is the person in charge of running the tournament. In the text below, "tournament coordinator" means the coordinator or any staff member assigned by the coordinator to assist him or her. Tournament coordinators are responsible for seeing that the council guidelines are kept, prizes are properly awarded, and that that the tournament is run in a fair and impartial manner. Tournament coordinators need to make sure that all results (including the individual score sheets of each player) are returned to the Council of Lórien within two weeks after the tournament so that they can be properly recorded. Failure to report a the results of a Sanctioned or Qualified event may mean that ICE will not Sanction or Qualify future events run by said coordinator.
 
-### GENERAL
+     <h2>GENERAL</h2>
 
  1. Participation---Anyone is welcome to participate in a Council of Lórien sanctioned tournament except:
      a) I.C.E. employees, their spouses, and their immediate family. Free-lance contractors and artists are eligible to compete.
@@ -79,7 +79,9 @@ Each Sanctioned or Qualifier tournament has a tournament coordinator. This is th
  12. Only one of each unique card and a maximum of three of any other cards can be included in a player's play deck, sideboard, and starting cards collectively. As an exception, a player may include 2 or 3 of the same Wizard in his or her play deck. No Wizards are allowed in the sideboard.
  13. A card that can be played as either a resource or as a hazard can be counted in either the resource mix or hazard mix of a deck for the purposes of including an equal number of resources and hazards.
  14. Players and the coordinator should make certain that, for standard rules games, all of the Marshalling point modifications printed on page 50 of the Middle-earth: The Wizardsª Unlimited Edition rulesbook and on page 32 of the Middle-earth: The Wizards Companion are properly accounted for. These modifications are to be interpreted in the order they are printed.
-   ### RULES OF ETIQUETTE
+ 
+     <h2>RULES OF ETIQUETTE</h2>
+     
  15. Deck Construction---The cards used in deck building may be from any edition or expansion of the MECCG (including foreign translations and official promotional cards). The mechanics of any given card will be determined from the most recent English printing (as well as from official errata and the official rulings). No proxy cards will be allowed. Cards from any particular expansion may only be used in Council events after a minimum time of 30 days following their official retail release has passed.
  16. Deck Integrity---Each player is required to use the same play deck, sideboard, and pool of starting characters for the entire tournament. No card substitutions are allowed between games. A player must start each game with the same cards in his or her play deck, sideboard, and pool of starting characters as he or she started the tournament. The tournament coordinator may choose to require each player to submit a written copy of all cards in his or her play deck, sideboard, and pool of starting characters before playing (spot checks may be used to ensure decks are legal).
  17. Marked Cards---A player may petition the tournament coordinator to disallow a non-location card from an opponent's cards, if the offending card has a distinguishing mark, tear, or fold visible on its generic side.
@@ -95,7 +97,9 @@ Each Sanctioned or Qualifier tournament has a tournament coordinator. This is th
  23. Players Dropping Out---A player should be discouraged from dropping out of a game before the game has reached its natural conclusion. A player is expected to drop out of the tournament between rounds if he or she believes he or she will be unable to complete the following round's game. Certain emergencies cannot be avoided though, and a player may be forced to drop out of a game. If a player drops out of a game, he or she drops out of the tournament, cannot reenter the tournament in a later round, and receives no consideration for prizes or tournament ranking. If a player drops out of the game, the player concedes the game and the opponent receives the win. In a Swiss System format (see below), the opponent receives the maximum tournament points for the capability of his or her deck. The tournament coordinator would have to make a judgment as to what the deck's capability is. There are exactly two choices: the deck is either capable of destroying The One Ring \[must have a ring test (not counting Ringlores or Tests of Lore) and three Precious Gold Rings in the starting play deck, and must have The One Ring and either the Cracks of Doom or Gollum's Fate and Gollum in the starting play deck or sideboard]; or the deck is only capable of the maximum Marshalling points win.
  24. Rules Violations during Play---Rules violations will probably occur in tournaments, especially now in the younger days of the MECCG. It is suggested that these violations not be policed or worried about until a player involved notes it. At that point in the game, the correct rule is adopted. Previous violations are not affected or retroactively corrected. For example, if a player chooses Sting (a unique minor item) for his starting company, and his opponent notices after the first turn of the game that unique minor items may not be chosen for starting companies, do not replace Sting at this point. If the opponent noticed the violation before either player had taken a first turn, the offending player must replace Sting with a non-unique minor item. The tournament coordinator may choose to immediately correct any rules violations brought to his or her attention.
  25. Cheating---If a player cheats, he or she is immediately ejected from the event. In a Swiss System format (see below), an opponent receives the maximum tournament points for the capability of his or her deck. The tournament coordinator would have to make a judgment as to what the deck's capability is. There are exactly two choices: the deck is either capable of destroying The One Ring \[must have a ring test (not counting Ringlores or Tests of Lore) and three Precious Gold Rings in the starting play deck, and must have The One Ring and either the Cracks of Doom or Gollum's Fate and Gollum in the starting play deck or sideboard]; or the deck is only capable of the maximum Marshalling points win.
-   ### CLARIFICATIONS AND RULINGS
+
+     <h2>CLARIFICATIONS AND RULINGS</h2>
+     
  26. _Legal Play of Cards_---A player may not play a card just to discard it (i.e., just get it out of his or her hand). Specifically, a card may only be played if it meets at least one of the following criteria.
      1) The card must have an immediate effect on the game.
      2) The card is a long-event. Long-events can always be played, even if ultimately they will not affect play.
@@ -139,13 +143,16 @@ Each Sanctioned or Qualifier tournament has a tournament coordinator. This is th
      - Smoke Rings--RR
      - Token of Goodwill--RR
  31. All rulings from the Council of Lórien ruling file (compiled by Craig &quotIchabod" O'Brien) given on ICE's WEB page at &quothttp://www.ironcrown.com" are official rulings for use with Council events.
-   ### ADDITIONAL RULES
+
+     <h2>ADDITIONAL RULES</h2>
+     
 In addition to these guidelines, a few rules not presented in the METW rulesbook take effect for tournament play. These rules are presented in the expansion Middle-earth: The Dragons.
  32. Removing Corruption Cards---A character may choose to ignore the restriction that he or she tap to remove a corruption card (as printed on a corruption card), and suffer a -3 penalty to the dice roll to remove it. This means a character can remain untapped to remove a corruption card and modify his roll by -3. The character can remove a corruption card when already tapped (or wounded) and modify his roll by -3. A character may only attempt to remove each corruption card once per turn if he or she ignores the tapping restriction to do so.
  33. Larger Sideboard---The sideboard (which is not used with starter rules) has been increased by 5 cards for all standard rules game formats. This means, for example, that in a standard rules 1-deck and 2-deck game, the sideboard must contain 20 cards.
  34. Accessing Hazards in Sideboard---A player can access hazard cards in his or her sideboard when the opponent's Wizard is in play. A player must do this at the end of the opponent's untap phase. Specifically, the player may either bring up to 5 hazard cards from the sideboard into the discard pile, or 1 hazard card from the sideboard into the play deck (if at least 5 cards are in the play deck). In either case, the hazard limit against all of the opponent's companies this turn is halved, rounded up.
 
 ## THE SWISS SYSTEM FORMAT
+
 As of October 1st 1996, the Council of Lórien has adopted a Swiss System official tournament format. This tournament format allows the success of each player to be determined by a total of tournament points awarded from the play of several games, thereby decreasing the deterministic role of luck in each game.
 
 The Swiss System format can be used for any of the actual types of games being run (two-deck standard rules, sealed deck starter rules, scenario, etc.). The guidelines below are assuming a game type using the Free Council will be run. This is as opposed to a Resource/Character scenario tournament; see the special section below for specific suggestions on running a Resource/Character scenario tournament. Here are the basics the Swiss System tournament structure that The Council of Lórien has adopted:
@@ -216,16 +223,22 @@ The Swiss System format can be used for any of the actual types of games being r
 
 Tournament coordinators of sanctioned tournaments will be provided with the following items, in addition to any product, as prize support: a silver Wizard's Ring Certificate; a gold Council Coin; a silver Council Coin; and a number of Sage Pins. These items are to be distributed as follows:
 
-Tournament Place	Prize
-Tournament Winner	Wizard's Ring Certificate
-1st Runner Up	Gold Council Coin
-2nd Runner Up	Silver Council Coin
-1st time a player wins a game	Sage pin for the Wizard the player was playing
+| Tournament Place |	Prize |
+| --------------- | ------ |
+| Tournament Winner	| Wizard's Ring Certificate | 
+| 1st Runner Up	| Gold Council Coin | 
+| 2nd Runner Up	| Silver Council Coin | 
+| 1st time a player wins a game	| Sage pin for the Wizard the player was playing | 
+
 The Wizard's Ring Certificate should be filled out by the tournament coordinator before being awarded to the Winner. The Winner can send the certificate back to ICE where we will process it and send a Wizard's Ring back to the Winner. Winners do not need to include postage to have the Wizard's Ring sent back to them.
 
 Only one Sage pin should be given out to each player who qualifies (i.e., wins a game) during each tournament. Organizers should feel free to let the player choose the Sage pin.
 
-Prize items not awarded should be returned to ICE. GAMES NOT IN THE RULESBOOK The Sealed Deck Game
+Prize items not awarded should be returned to ICE. 
+
+## GAMES NOT IN THE RULESBOOK 
+
+### The Sealed Deck Game
 
 Due to size considerations, sealed deck tournaments only require a 25/25 card minimum deck size (as printed in the rulesbook). For a sealed deck game tournament, each player receives a starter deck and three booster packs. ICE suggest using either 3 boosters from Middle-earth The Wizards, or 1 booster from Middle-earth the Wizards and two from either Middle-earth: Dragons or Middle-earth: Dark Minions. No other cards are allowed in the play area besides the cards received from the Tournament Coordinator. Tournament coordinators should feel free to enforce this policy any way they see fit.
 
@@ -237,31 +250,25 @@ Players may exchange cards between his or her deck and the set of cards he recei
 
 Tournament coordinators can purchase product from ICE for Sanctioned or Qualified sealed deck tournaments. Coordinators will generally be limited to 16 decks for any one retail event and 32 for any one other type of event. Requests will be considered on a case-by-case basis and is subject to availability as ICE inventory allows. Coordinators must submit a flyer or handbill as evidence that participants are being recruited in advance and that entry fees are being charged, and confirming the date and place of the event. Unsold inventory should be returned to ICE for a refund to the purchaser. Coordinators can contact Monica Wilson at (804) 295-4280 for further information on this.
 
-The Resource/Character Scenario Game
+### The Resource/Character Scenario Game
 
 It is recommended that resource/character scenarios be considered by a tournament coordinator who has the means of communicating to all players in advance what the pool of scenarios will be for the tournament. It is suggested that the coordinator post (in advance) three resource/character scenarios that will be used for the tournament. Each player comes to the tournament with a deck constructed for his or her chosen scenario.
 
-Present Official Scenarios--Presently, the three scenarios for official Council event tournaments are:
-1) A Hobbit's Quest (found on page 72 of the Middle-earth: The Wizards Companion)
+ - Present Official Scenarios--Presently, the three scenarios for official Council event tournaments are:
+      - [A Hobbit's Quest](/original/tournament/a-hobbits-quest/) (found on page 72 of the Middle-earth: The Wizards Companion)
+      - [Barrels out of Bond](/original/tournament/barrels-out-of-bond/) (found on page 66 of the Middle-earth: The Wizards Companion)
+      - [The King beneath the Mountains](/original/tournament/the-king-beneath-the-mountains/) (found on page 67 of the Middle-earth: The Wizards Companion)
+ - A complete copy of these scenarios can also be found on the ICE WEB page at &quothttp://www.ironcrown.com."
 
-2) Barrels out of Bond (found on page 66 of the Middle-earth: The Wizards Companion)
-
-3) The King beneath the Mountains (found on page 67 of the Middle-earth: The Wizards Companion)
-
-A complete copy of these scenarios can also be found on the ICE WEB page at &quothttp://www.ironcrown.com."
 Resource/character scenario game tournaments can be run within the same tournament Swiss System structure as the other Free Council games (which are the games presented in the rulesbook). Each player attempts to complete the victory conditions of his or her chosen scenario instead of playing for the Free Council. After starting characters are revealed, each player must announce to the opponent which scenario he or she has chosen. The opponent then knows what victory conditions the player is trying to achieve.
 
 Other resource/character scenarios can be used if approved by the Council of Lórien. To obtain permission, the tournament coordinator must submit a written proposal for the scenarios he or she proposes to use. Original scenarios so submitted become the property of Iron Crown Enterprises, which may choose to publish them (with credit to the original designer).
 
-Time Limit--For a Resource/Character Scenario tournament game, time is called after one hour . If, at this point, no player has achieved the victory conditions for his or her scenario, the player who currently is taking his or her turn finishes the turn. If the opponent did not have the first turn, the opponent then takes one final turn (i.e., both players get the same number of turns). Assuming in the interim no player achieves the victory conditions for his or her chosen scenario, the winner is the player who achieves the higher &quotrank" as indicated by his or her specific scenario.
-Ties--If both players have achieved the same &quotrank" as indicated by the specific scenarios, the players tie. Each receives 3 tournament points.
-Tournament Points--A player is awarded a number of tournament points in a resource/character scenario game for the following game results:
-Achieving the victory conditions of his or her chosen scenario--6
-
-Achieving the higher rank at the game's end--4
-
-Tying--3
-
-Losing with a lower rank at the game's end--2
-
-Losing if opponent achieves his or her victory conditions--0
+ - Time Limit---For a Resource/Character Scenario tournament game, time is called after one hour. If, at this point, no player has achieved the victory conditions for his or her scenario, the player who currently is taking his or her turn finishes the turn. If the opponent did not have the first turn, the opponent then takes one final turn (i.e., both players get the same number of turns). Assuming in the interim no player achieves the victory conditions for his or her chosen scenario, the winner is the player who achieves the higher &quotrank" as indicated by his or her specific scenario.
+ - Ties---If both players have achieved the same &quotrank" as indicated by the specific scenarios, the players tie. Each receives 3 tournament points.
+ - Tournament Points---A player is awarded a number of tournament points in a resource/character scenario game for the following game results:
+      - Achieving the victory conditions of his or her chosen scenario---**6**
+      - Achieving the higher rank at the game's end---**4**
+      - Tying---**3**
+      - Losing with a lower rank at the game's end---**2**
+      - Losing if opponent achieves his or her victory conditions---**0**
