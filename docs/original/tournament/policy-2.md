@@ -44,7 +44,7 @@ As of November 1st, the following policy is in place for official Sanctioned and
 
 Each Sanctioned or Qualifier tournament has a tournament coordinator. This is the person in charge of running the tournament. In the text below, "tournament coordinator" means the coordinator or any staff member assigned by the coordinator to assist him or her. Tournament coordinators are responsible for seeing that the council guidelines are kept, prizes are properly awarded, and that that the tournament is run in a fair and impartial manner. Tournament coordinators need to make sure that all results (including the individual score sheets of each player) are returned to the Council of Lórien within two weeks after the tournament so that they can be properly recorded. Failure to report a the results of a Sanctioned or Qualified event may mean that ICE will not Sanction or Qualify future events run by said coordinator.
 
-     <h2>GENERAL</h2>
+<h2>GENERAL</h2>
 
  1. Participation---Anyone is welcome to participate in a Council of Lórien sanctioned tournament except:
      a) I.C.E. employees, their spouses, and their immediate family. Free-lance contractors and artists are eligible to compete.
@@ -214,7 +214,7 @@ The Swiss System format can be used for any of the actual types of games being r
      - sealed deck game starter rules---50 minutes*
      - sealed deck game standard rules---50 minutes*
      - resource/character scenario game---1 hour*
-     - * See the descriptions of the different games below for further information.
+     - \* See the descriptions of the different games below for further information.
  - A tournament coordinator will have an official time keeping device. He or she should announce the time 10 minutes before final time will be called. When the time limit is reached according to the official time keeping device, play of each game continues until: the player who went second in the game finishes a turn (i.e., both players play the same number of turns); or until the Free Council is called normally according to the rules. After the player who went second finishes his or her turn, the Free Council begins automatically, regardless of Marshalling Point totals.
  - Marshalling Point Ratios---If, at the Free Council after the final Marshalling Point (MP) totals have been tallied (including all standard rules interpretations), one player has more MPs than the opponent, that player wins. The winner receives either 4, 5, or 6 tournament points depending upon the ratio of his MP total to the opponent's (see above). The loser receives 2, 1, or 0 points respectively. To determine a winner's MP ratio, divide the winner's total MPs by the loser's MPs. A loser with zero or negative MPs automatically gives the winner 6 tournament points (and a method b win).
  - If, at the Free Council after the final MP totals have been tallied (including all standard rules interpretations), both players have the same number of MPs (i.e., they are tied), use the Weakest Link Method to determine a winner and a loser (see above). The winner receives 3 tournament points; the looser receives 2.
