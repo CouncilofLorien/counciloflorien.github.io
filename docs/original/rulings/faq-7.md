@@ -8,8 +8,8 @@ permalink: /original/rulings/faq-7/
 ---
 
 <details>
-<summary>Source</summary>
-<a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/LzyGIMDwZaM/m/HvI5LY98txoJ">rec.games.trading-cards.misc - [METW] Middle Earth the Wizards FAQ #7</a> <a href="http://web.archive.org/web/20221229000704/https://groups.google.com/g/rec.games.trading-cards.misc/c/LzyGIMDwZaM/m/HvI5LY98txoJ">(Web Archive)</a>
+<summary>Sources and Citations</summary>
+<ul><li><a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/LzyGIMDwZaM/m/HvI5LY98txoJ">rec.games.trading-cards.misc - [METW] Middle Earth the Wizards FAQ #7</a> <a href="http://web.archive.org/web/20221229000704/https://groups.google.com/g/rec.games.trading-cards.misc/c/LzyGIMDwZaM/m/HvI5LY98txoJ">(Web Archive)</a></li></ul>
 </details>
 
 # Middle Earth: The Wizards
