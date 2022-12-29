@@ -12,7 +12,7 @@ permalink: /original/tournament/policy-1/
 <summary>Source</summary>
 <ul>
 <li>http://horizon.nl/~jdirksen/council.html#News - jdirksen's Cards 'R' Us (unofficial) <a href="https://web.archive.org/web/19980128154912fw_/http://horizon.nl/~jdirksen/council.html#News">(Web Archive)</a></li>
-<ul>
+</ul>
 </details>
   
 ### News from The Council of Lórien, Issue Number One (05/21/96)
