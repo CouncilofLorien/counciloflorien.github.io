@@ -9,8 +9,11 @@ permalink: /original/rulings/crf-2/
 
 <details>
 <summary>Source</summary>
-http://www.ironcrown.com/ICESite/metwfaq.html - Middle Earth: The Wizards Official Rulings <a href="http://web.archive.org/web/19970503144708fw_/http://www.ironcrown.com/ICESite/metwfaq.html">(Web Archive)</a><br><br>
-Note: There is a typo in the opening statement "FileVersion 2 current as of 01-09-96." CRF 2 was current as of January 1997, not 1996.
+<ul>
+<li>http://www.ironcrown.com/ICESite/metwfaq.html - Middle Earth: The Wizards Official Rulings <a href="http://web.archive.org/web/19970503144708fw_/http://www.ironcrown.com/ICESite/metwfaq.html">(Web Archive)</a></li>
+<ul><li>Note: There is a typo in the opening statement "FileVersion 2 current as of 01-09-96." CRF 2 was current as of January 1997, not 1996.</ul></li>
+</ul>
+
 </details>
 
 # Middle Earth: The Wizards
