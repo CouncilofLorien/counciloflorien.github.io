@@ -16,10 +16,29 @@ permalink: /original/tournament/policy-2/
 </ul>
 </details>
 
-News from The Council of Lórien, Issue Number Two (10/29/96)
+## News from The Council of Lórien, Issue Number Two (10/29/96)
 
-News from The Council of Lórien
-vaice@aol.com [attn: Council of Lórien]
+Council of Lórien Final Player Rankings
+Council of Lórien Championship
+
+**Downloads** (in Adobe Acrobat format):
+
+- [Download Player Sheets](/assets/files/CoL-PlayerSheets.pdf) Coordinators should distribute these sheets at tournaments.
+- [Download Registration Form](/assets/files/CoL-RegistrationForm.pdf) - Registration form for use by tournament coordinators
+- [Download News from The Council of Lórien](/assets/files/CoL-News2.pdf), Issue Number Two (10/29/96)
+
+**Council Scenarios**
+
+The following resource/character scenarios are the three choices for sanctioned scenario tournaments:
+
+- [A Hobbit's Quest](/original/tournament/a-hobbits-quest/)
+- [Barrels out of Bond](/original/tournament/barrels-out-of-bond/)
+- [The King beneath the Mountains](/original/tournament/the-king-beneath-the-mountains/)
+
+# News from The Council of Lórien
+
+{: .text-center. }
+vaice@aol.com \[attn: Council of Lórien]
 
 As of November 1st, the following policy is in place for official Sanctioned and Qualifier Council tournaments. A Sanctioned Council tournament is an MECCG event that requires advance approval for sanction status and use of the Council package for running the event, awarding Council prizes, and reporting results to ICE to rank the players. Winners of Sanctioned Council Events may qualify to participate in that year's Council of Lórien National tournament. A Qualifier Council tournament is a special type of Sanctioned Council tournament that ICE determines in advance to guarantee the winner(s) participation in that year's Council of Lórien National tournament. ICE reserves the right to award Sanctioned or Qualifier status on MECCG tournaments and will periodically review its award policy. Other MECCG events may receive promo material and prize support, other than that officially reserved for Council of Lórien Sanctioned and Qualifier tournaments, from ICE, but winner(s) will not be ranked, and are not qualified to participate in that years Council of Lórien National tournament.
 
