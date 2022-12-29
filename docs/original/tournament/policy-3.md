@@ -8,6 +8,11 @@ search_exclude: true
 permalink: /original/tournament/policy-3/
 ---
 
+<details>
+<summary>Source</summary>
+http://www.ironcrown.com/ccgs/lorien/coltnry3.html - Council of Lórien Tournament Policy Number 3 <a href="https://web.archive.org/web/19990503174527/http://www.ironcrown.com/ccgs/lorien/coltnry3.html">(Web Archive)</a>
+</details>
+
 # Council of Lórien<br>Tournament Policy<br>Number 3
 
 As of May 9, 1998, the following policy is in place for official Sanctioned and Qualifier Council tournaments. A Sanctioned Council tournament is an MECCG event that requires advance approval for sanction status and use of the Council package for running the event, awarding Council prizes, and reporting results to ICE to rank the players. Winners of Sanctioned Council Events may qualify to participate in that year's Council of Lórien Annual Championship event. A Qualifier Council tournament is a special type of Sanctioned Council tournament that ICE determines in advance to guarantee the winner(s) participation in that year's Council of Lórien Annual Championship event.
