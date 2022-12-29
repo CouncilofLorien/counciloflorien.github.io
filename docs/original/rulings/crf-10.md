@@ -3,6 +3,7 @@ layout: default
 title: "CRF 10"
 parent: Rulings
 grand_parent: Original Rules
+search_exclude: true
 permalink: /original/rulings/crf-10/
 ---
 
