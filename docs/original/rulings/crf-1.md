@@ -9,7 +9,9 @@ permalink: /original/rulings/crf-1/
 
 <details>
 <summary>Source</summary>
-http://ironcrown.com/ICESite/metwfaq.html Middle Earth: The Wizards Official Rulings <a href="http://web.archive.org/web/19961107062944fw_/http://ironcrown.com/ICESite/metwfaq.html">(Web Archive)</a>
+<ul>
+<li>http://ironcrown.com/ICESite/metwfaq.html Middle Earth: The Wizards Official Rulings <a href="http://web.archive.org/web/19961107062944fw_/http://ironcrown.com/ICESite/metwfaq.html">(Web Archive)</a></li>
+</ul>
 </details>
 
 # Middle Earth: The Wizards
