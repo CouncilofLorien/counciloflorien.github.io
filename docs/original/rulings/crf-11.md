@@ -10,6 +10,7 @@ permalink: /original/rulings/crf-11/
 <details>
 <summary>Sources and Citations</summary>
 <ul>
+<li>http://www.cstone.net:80/~ichabod/METW/CRF/index.html - Ichabod's Home Page - MECCG Collected Rulings #11 <a href="https://web.archive.org/web/19980706212235/http://www.cstone.net:80/~ichabod/METW/CRF/index.html">(Web Archive)</a></li>
 <li><a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/wpfYN1vg-N8/m/2sX06f2fAXkJ">rec.games.trading-cards.misc - [MECCG] CRF 11: Changes only</a> <a href="https://web.archive.org/web/20221229173149/https://groups.google.com/g/rec.games.trading-cards.misc/c/wpfYN1vg-N8/m/2sX06f2fAXkJ">(Web Archive)</a></li>
 <li><a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/h4NRnJPpIgQ/m/FKSRw1HJ8mkJ">rec.games.trading-cards.misc - [MECCG] CRF 11: Turn Sequence</a> <a href="https://web.archive.org/web/20221229173232/https://groups.google.com/g/rec.games.trading-cards.misc/c/h4NRnJPpIgQ/m/FKSRw1HJ8mkJ">(Web Archive)</a></li>
 <li><a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/rFL4wIYqWys/m/iaOdQEi1jh8J">rec.games.trading-cards.misc - [MECCG] CRF 11: Rulings by Term</a> <a href="https://web.archive.org/web/20221229173317/https://groups.google.com/g/rec.games.trading-cards.misc/c/rFL4wIYqWys/m/iaOdQEi1jh8J">(Web Archive)</a></li>
