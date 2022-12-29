@@ -10,8 +10,10 @@ permalink: /original/tournament/policy-2/
 
 <details>
 <summary>Source</summary>
-http://www.ironcrown.com/ICESite/MeCCG/CouncilOfLorien.html#News - News from The Council of Lórien, Issue Number Two (10/29/96) <a href="http://web.archive.org/web/19970503144734fw_/http://www.ironcrown.com/ICESite/MeCCG/CouncilOfLorien.html#News">(Web Archive)</a><br>
-http://www.ironcrown.com:80/ICESite/MeCCG/News2.pdf - News from The Council of Lórien <a href="http://web.archive.org/web/19970503144734fw_/http://www.ironcrown.com/ICESite/MeCCG/CouncilOfLorien.html#News">(Web Archive)</a><br>
+<ul>
+<li>http://www.ironcrown.com/ICESite/MeCCG/CouncilOfLorien.html#News - News from The Council of Lórien, Issue Number Two (10/29/96) <a href="http://web.archive.org/web/19970503144734fw_/http://www.ironcrown.com/ICESite/MeCCG/CouncilOfLorien.html#News">(Web Archive)</a></li>
+http://www.ironcrown.com:80/ICESite/MeCCG/News2.pdf - News from The Council of Lórien <a href="http://web.archive.org/web/19970503144734fw_/http://www.ironcrown.com/ICESite/MeCCG/CouncilOfLorien.html#News">(Web Archive)</a></li>
+</ul>
 </details>
 
 News from The Council of Lórien, Issue Number Two (10/29/96)
