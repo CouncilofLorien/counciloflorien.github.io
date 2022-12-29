@@ -9,13 +9,14 @@ permalink: /original/rulings/crf-13/
 
 <details>
 <summary>Source</summary>
-<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
-<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
-<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
-<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
-<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
-<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
-<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
+<a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/OhnMo1761Lk/m/Jopj8h0n8j4J">rec.games.trading-cards.misc - [MECCG] CRF 13 Changes</a> <a href="https://web.archive.org/web/20221229020136/https://groups.google.com/g/rec.games.trading-cards.misc/c/OhnMo1761Lk/m/Jopj8h0n8j4J">(Web Archive)</a>
+<a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/SX9htwfR9VY/m/9uIGvlrMTVEJ">rec.games.trading-cards.misc - [MECCG] CRF 13 Turn Sequence</a> <a href="https://web.archive.org/web/20221229020207/https://groups.google.com/g/rec.games.trading-cards.misc/c/SX9htwfR9VY/m/9uIGvlrMTVEJ">(Web Archive)</a>
+<a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/wS8B71i2ZcE/m/rjFFk4anRycJ">rec.games.trading-cards.misc - [MECCG] CRF 13 Terms A-M</a> <a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/wS8B71i2ZcE/m/rjFFk4anRycJ">(Web Archive)</a>
+<a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/8yVDSFhKF3g/m/ojccohv9T2gJ">rec.games.trading-cards.misc - [MECCG] CRF 13 Term N-Z</a> <a href="https://web.archive.org/web/20221229020417/https://groups.google.com/g/rec.games.trading-cards.misc/c/wS8B71i2ZcE/m/rjFFk4anRycJ">(Web Archive)</a> 
+<a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/WFBQZC-_mfk/m/uwVxvfykkpcJ">rec.games.trading-cards.misc - [MECCG] CRF 13 Tournaments</a> <a href="https://web.archive.org/web/20221229020504/https://groups.google.com/g/rec.games.trading-cards.misc/c/WFBQZC-_mfk/m/uwVxvfykkpcJ">(Web Archive)</a>
+<a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/oyaAQWL791k/m/kv8VruAB9ugJ">rec.games.trading-cards.misc - [MECCG] CRF 13 Cards A-M</a> <a href="https://web.archive.org/web/20221229020653/https://groups.google.com/g/rec.games.trading-cards.misc/c/oyaAQWL791k/m/kv8VruAB9ugJ">(Web Archive)</a>
+<a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/dDt3u_pWKT8/m/VrbsfH44UHUJ">rec.games.trading-cards.misc - [MECCG] CRF 13 Cards N-Z</a> <a href="https://web.archive.org/web/20221229020703/https://groups.google.com/g/rec.games.trading-cards.misc/c/dDt3u_pWKT8/m/VrbsfH44UHUJ">(Web Archive)</a>
+<a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/vtbG8zMBDIg/m/9ymPCstilVQJ">rec.games.trading-cards.misc - [MECCG] CRF 13 Errata</a> <a href="https://web.archive.org/web/20221229020750/https://groups.google.com/g/rec.games.trading-cards.misc/c/vtbG8zMBDIg/m/9ymPCstilVQJ">(Web Archive)</a>
 </details>
 
 # Middle-earth: Collectible Card Game
