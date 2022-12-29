@@ -4,7 +4,7 @@ title: A Hobbit's Quest
 parent: Tournament
 search_exclude: true
 nav_exclude: true
-permalink: /original/tournaments/a-hobbits-quest/
+permalink: /original/tournament/a-hobbits-quest/
 ---
 
 # Scenarios
