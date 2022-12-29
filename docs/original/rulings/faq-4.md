@@ -8,7 +8,7 @@ permalink: /original/rulings/faq-4/
 
 <details>
 <summary>Source</summary>
-<a href="[https://groups.google.com/g/rec.games.trading-cards.misc/c/zNBaWwdEMX8/m/po1jjKBSv9cJ](https://groups.google.com/g/rec.games.trading-cards.misc/c/2Y6H-LS6I94/m/4Zqo_CtelcYJ)">rec.games.trading-cards.misc - [METW] FAQ #4</a> <a href="https://web.archive.org/web/20221229000218/https://groups.google.com/g/rec.games.trading-cards.misc/c/2Y6H-LS6I94/m/4Zqo_CtelcYJ">(Web Archive)</a>
+<a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/2Y6H-LS6I94/m/4Zqo_CtelcYJ">rec.games.trading-cards.misc - [METW] FAQ #4</a> <a href="https://web.archive.org/web/20221229000218/https://groups.google.com/g/rec.games.trading-cards.misc/c/2Y6H-LS6I94/m/4Zqo_CtelcYJ">(Web Archive)</a>
 </details>
 
 # Middle Earth: The Wizards
