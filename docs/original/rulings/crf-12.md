@@ -9,13 +9,13 @@ permalink: /original/rulings/crf-12/
 
 <details>
 <summary>Source</summary>
-<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
-<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
-<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
-<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
-<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
-<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
-<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
+http://www.ironcrown.com/ccgs/CRF/index.html - Introduction <a href="https://web.archive.org/web/19990423222234/http://www.ironcrown.com/ccgs/CRF/index.html">(Web Archive)</a><br>
+http://www.ironcrown.com/ccgs/CRF/turn.html - Turn Sequence <a href="https://web.archive.org/web/19990427052330/http://www.ironcrown.com/ccgs/CRF/turn.html">(Web Archive)</a><br>
+http://www.ironcrown.com/ccgs/CRF/term.html - Rulings by Term <a href="https://web.archive.org/web/19990427014951/http://www.ironcrown.com/ccgs/CRF/term.html">(Web Archive)</a><br>
+http://www.ironcrown.com/ccgs/CRF/tourney.html - Tournament Rulings <a href="https://web.archive.org/web/19990210081655/http://www.ironcrown.com/ccgs/CRF/tourney.html">(Web Archive)</a><br>
+https://web.archive.org/web/19990423222234/http://www.ironcrown.com/ccgs/CRF/card.html - Card Errata and Rulings (Missing)
+http://www.ironcrown.com/ccgs/CRF/errata.html - Complete Errata Listing <a href="https://web.archive.org/web/19990203235523/http://www.ironcrown.com/ccgs/CRF/errata.html">(Web Archive)</a><br>
+http://www.ironcrown.com/ccgs/CRF/monday.html - Delayed Rulings / Rulings Monday <a href="https://web.archive.org/web/19990429215236/http://www.ironcrown.com/ccgs/CRF/monday.html">(Web Archive)</a><br>
 </details>
 
 # Middle-earth: Collectible Card Game
