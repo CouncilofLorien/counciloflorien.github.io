@@ -9,13 +9,7 @@ permalink: /original/rulings/crf-2/
 
 <details>
 <summary>Source</summary>
-<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
-<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
-<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
-<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
-<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
-<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
-<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
+http://www.ironcrown.com/ICESite/metwfaq.html - Middle Earth: The Wizards Official Rulings <a href="http://web.archive.org/web/19970503144708fw_/http://www.ironcrown.com/ICESite/metwfaq.html">(Web Archive)</a>
 </details>
 
 # Middle Earth: The Wizards
