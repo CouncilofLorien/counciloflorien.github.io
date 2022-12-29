@@ -6,6 +6,17 @@ grand_parent: Original Rules
 permalink: /original/rulings/crf-11/
 ---
 
+<details>
+<summary>Source</summary>
+<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
+<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
+<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
+<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
+<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
+<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
+<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
+</details>
+
 # Middle-earth: Collectible Card Game
 
 Collected Clarifications to the Rules
