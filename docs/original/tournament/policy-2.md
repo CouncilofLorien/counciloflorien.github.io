@@ -112,41 +112,41 @@ Each Sanctioned or Qualifier tournament has a tournament coordinator. This is th
      - Bringing a hazard in from the sideboard to the play deck or discard pile (by tapping a Nazgl permanent-event or by option when op-ponent's Wizard is revealed--see below)--RH
      - Exchanging cards from the sideboard with the play deck when a player exhausts his or her deck--NR
      - from _Middle-earth The Wizards;_
-     - Dwarven Rings (all, except for Durin's Tribe)-RE
-     - Far-sight--RE
-     - Favor of the Valar--NR
-     - Lordly Presence--NR
-     - Lucky Search--RE
-     - Mouth of Sauron--RH
-     - Palantír of Annúminas--RE
-     - Palantír of Minas Tirith--NR
-     - Palantír of Orthanc--NR
-     - Reforging--RE
-     - The Nazgûl Are Abroad--RE
-     - Uvatha the Horseman--RE
-     - Vilya--RR
+          - Dwarven Rings (all, except for Durin's Tribe)--RE
+          - Far-sight--RE
+          - Favor of the Valar--NR
+          - Lordly Presence--NR
+          - Lucky Search--RE
+          - Mouth of Sauron--RH
+          - Palantír of Annúminas--RE
+          - Palantír of Minas Tirith--NR
+          - Palantír of Orthanc--NR
+          - Reforging--RE
+          - The Nazgûl Are Abroad--RE
+          - Uvatha the Horseman--RE
+          - Vilya--RR
      - from _Middle-earth: The Dragons_;
-     - Dragon-lore--RE
-     - From the Pits of Angband--RE
-     - Mathom Lore--RE
-     - Nenseld` the Wingild--RE
-     - Parsimony of Seclusion--RE
+          - Dragon-lore--RE
+          - From the Pits of Angband--RE
+          - Mathom Lore--RE
+          - Nenseld` the Wingild--RE
+          - Parsimony of Seclusion--RE
      - from _Middle-earth: Dark Minions_;
-     - An Unexpected Outpost--RH
-     - Choice of Loethien--RE
-     - Cup of Farewell--RE
-     - Eyes of Mandos--RE
-     - Horns, Horns, Horns--RE
-     - Inner Cunning--RE
-     - Mistress Lobelia--RE
-     - Nobody's Friend--RE
-     - Smoke Rings--RR
-     - Token of Goodwill--RR
+          - An Unexpected Outpost--RH
+          - Choice of Loethien--RE
+          - Cup of Farewell--RE
+          - Eyes of Mandos--RE
+          - Horns, Horns, Horns--RE
+          - Inner Cunning--RE
+          - Mistress Lobelia--RE
+          - Nobody's Friend--RE
+          - Smoke Rings--RR
+          - Token of Goodwill--RR
  31. All rulings from the Council of Lórien ruling file (compiled by Craig &quotIchabod" O'Brien) given on ICE's WEB page at &quothttp://www.ironcrown.com" are official rulings for use with Council events.
 
      <h2>ADDITIONAL RULES</h2>
      
-In addition to these guidelines, a few rules not presented in the METW rulesbook take effect for tournament play. These rules are presented in the expansion Middle-earth: The Dragons.
+     In addition to these guidelines, a few rules not presented in the METW rulesbook take effect for tournament play. These rules are presented in the expansion Middle-earth: The Dragons.
  32. Removing Corruption Cards---A character may choose to ignore the restriction that he or she tap to remove a corruption card (as printed on a corruption card), and suffer a -3 penalty to the dice roll to remove it. This means a character can remain untapped to remove a corruption card and modify his roll by -3. The character can remove a corruption card when already tapped (or wounded) and modify his roll by -3. A character may only attempt to remove each corruption card once per turn if he or she ignores the tapping restriction to do so.
  33. Larger Sideboard---The sideboard (which is not used with starter rules) has been increased by 5 cards for all standard rules game formats. This means, for example, that in a standard rules 1-deck and 2-deck game, the sideboard must contain 20 cards.
  34. Accessing Hazards in Sideboard---A player can access hazard cards in his or her sideboard when the opponent's Wizard is in play. A player must do this at the end of the opponent's untap phase. Specifically, the player may either bring up to 5 hazard cards from the sideboard into the discard pile, or 1 hazard card from the sideboard into the play deck (if at least 5 cards are in the play deck). In either case, the hazard limit against all of the opponent's companies this turn is halved, rounded up.
