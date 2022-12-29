@@ -8,7 +8,7 @@ permalink: /original/rulings/faq-2/
 ---
 
 <details>
-<summary>Source</summary>
+<summary>Sources and Citations</summary>
 FAQ #2 is not available online. This version has been reconstructed from FAQ #3 dated 1/1/96 based on the marked changes therein. <em>Middle-earth: The Wizards</em> was released weeks before on 12/11/1995.
 </details>
 
