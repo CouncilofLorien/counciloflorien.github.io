@@ -3,6 +3,7 @@ layout: default
 title: "FAQ #7"
 parent: Rulings
 grand_parent: Original Rules
+search_exclude: true
 permalink: /original/rulings/faq-7/
 ---
 
