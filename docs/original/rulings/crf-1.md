@@ -6,6 +6,17 @@ grand_parent: Original Rules
 permalink: /original/rulings/crf-1/
 ---
 
+<details>
+<summary>Source</summary>
+<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
+<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
+<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
+<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
+<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
+<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
+<a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a>
+</details>
+
 # Middle Earth: The Wizards
 
 {: .text-center .text-beta }
