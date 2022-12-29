@@ -131,11 +131,11 @@ An agent can be thought of as a _hazard_ that acts as a creature with the follow
 An agent is always located at a site. Once an agent has been revealed _or_ has moved to a site that is not one of its home sites, one of your site cards must be used for this purpose. A face-up agent's site card must always be face-up. Agents move and operate alone (i.e., they do not move and operate in "companies").
 
 {: .note }
-> **Notice:** Certain hazard events require tapping or discarding an agent at a target company's new site (e.g., _An Article Missing_, _Cunning Foes_, _Seek Without Success_, _To Get You Away_).
+> **Notice:** Certain hazard events have play-conditions which require an agent at a target company's new site (e.g., _An Article Missing_, _Cunning Foes_, and _To Get You Away_).
 > 
 > **Clarification:** A non-moving company’s current site is considered its new site for card play.[^crf-current-site]
 > 
-> **Notice:** The hazard agents _Anarin_ and _The Grimburgoth_ have special _Agent only_ abilities that allow them to tap at a company's new site. Such special abilities are not "card play" and cannot be used at a non-moving company's current sute.
+> **Notice:** The hazard agents _Anarin_ and _The Grimburgoth_ have special _Agent only_ abilities that allow them to tap at a company's new site. Such special abilities are not "card play" and cannot be used at a non-moving company's current site.
 > 
 > **Clarification:** 
 
