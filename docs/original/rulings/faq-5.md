@@ -6,6 +6,11 @@ grand_parent: Original Rules
 permalink: /original/rulings/faq-5/
 ---
 
+<details>
+<summary>Source</summary>
+<a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/eimN1jqX6Xk/m/QlilrI_LR-sJ">rec.games.trading-cards.misc - [METW] FAQ #5</a> <a href="http://web.archive.org/web/20221229000350/https://groups.google.com/g/rec.games.trading-cards.misc/c/eimN1jqX6Xk/m/QlilrI_LR-sJ">(Web Archive)</a>
+</details>
+
 # Middle Earth: The Wizards
 
 {: .text-center .text-beta}
