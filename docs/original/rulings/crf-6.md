@@ -10,13 +10,10 @@ permalink: /original/rulings/crf-6/
 <details>
 <summary>Sources and Citations</summary>
 <ul>
-<li><a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a></li>
-<li><a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a></li>
-<li><a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a></li>
-<li><a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a></li>
-<li><a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a></li>
-<li><a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a></li>
-<li><a href="">rec.games.trading-cards.misc - </a> <a href="">(Web Archive)</a></li>
+<li><a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/0Ed_5owhii0/m/HcgUyhtLx4QJ">rec.games.trading-cards.misc - [MECCG] CRF 6 Turn Sequence</a> <a href="https://web.archive.org/save/https://groups.google.com/g/rec.games.trading-cards.misc/c/0Ed_5owhii0/m/HcgUyhtLx4QJ">(Web Archive)</a></li>
+<li><a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/nk3P3zUpCYw/m/DGrsVAgoNMgJ">rec.games.trading-cards.misc - [MECCG] CRF 6 Rulings by Term</a> <a href="https://web.archive.org/web/20221229211932/https://groups.google.com/g/rec.games.trading-cards.misc/c/nk3P3zUpCYw/m/DGrsVAgoNMgJ">(Web Archive)</a></li>
+<li><a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/VMbTOpFxXQ8/m/kS-mwHeZuPQJ">rec.games.trading-cards.misc - [MECCG] CRF 6 Tournament Rules</a> <a href="https://web.archive.org/web/20221229212004/https://groups.google.com/g/rec.games.trading-cards.misc/c/VMbTOpFxXQ8/m/kS-mwHeZuPQJ">(Web Archive)</a></li>
+<li><a href="https://groups.google.com/g/rec.games.trading-cards.misc/c/3912F0PMNrw/m/9GQFG09-ynEJ">rec.games.trading-cards.misc - [MECCG] CRF 6 Rulings by Card</a> <a href="https://web.archive.org/web/20221229212044/https://groups.google.com/g/rec.games.trading-cards.misc/c/3912F0PMNrw/m/9GQFG09-ynEJ">(Web Archive)</a></li>
 </ul>
 </details>
 
