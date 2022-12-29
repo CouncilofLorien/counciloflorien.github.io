@@ -106,6 +106,8 @@ If at any time an attack from a manifestation of a unique Dragon is defeated or 
 The base hazard limit is determined (i.e., set) simultaneously at the moment a company reveals its new site or otherwise announces it is beginning its movement/hazard phase. Any cards which modify a company's hazard limit played prior to this point are then immediately applied to the company's base hazard limit in the order chosen by the player controlling the company. With such modifications established, any cards played after this point are interpreted in the order they are resolved. Any effects which modify the hazard limit against a company during its site phase are ignored. Any reduction in the hazard limit during a movement/hazard phase does not affect cards already announced and played.
 
 {: .note }
+> **Comment:** Here, "announced and played" means "declared and resolved."
+>
 > **Clarification:** The hazard limit is checked at declaration and resolution. At declaration there must be fewer hazards already declared than the hazard limit. At resolution there must be no more hazards declared than the hazard limit.[^crf-turn-hazard-limit]
 
 ### CHARACTERS FACING MULTIPLE STRIKES
