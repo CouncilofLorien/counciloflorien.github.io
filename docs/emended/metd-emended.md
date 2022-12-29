@@ -75,7 +75,7 @@ Each of the nine unique Dragons (see above) has four[^four-manifestations] diffe
 Different manifestations of the same Dragon may be in play at the same time. The fact that each manifestation is unique unto itself does not preclude the other manifestations.
 
 {: .note }
-> **Notice:** Dragon manifestations have an exception to the [MANIFESTATION rules in _Dark Minions_](/original/rulebooks/dark-minions/#manifestations): Different manifestations of the same unique Dragon may be in play at the same time.
+> **Notice:** This same rule is also an exception to the [MANIFESTATION rules in _Dark Minions_](/original/rulebooks/dark-minions/#manifestations).
 
 Only your opponent can receive marshalling points from defeating a manifestation of a Dragon that you played. If you defeat a Dragon manifestation that you played, it is removed from the game and no one receives its marshalling points. 
 
