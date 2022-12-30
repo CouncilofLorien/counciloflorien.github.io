@@ -17,8 +17,8 @@ These rulings are _official_ in that they were authored or authorized by Coleman
 
 ICE provided official errata and clarifications in the following publications:
 
- - Frequently Asked Questions (number 1-7, 1995-1998).
-      - [FAQ #1] (missing)
+ - Frequently Asked Questions Files
+      - FAQ #1 (missing)
       - [FAQ #2](/original/rulings/faq-2/)
       - [FAQ #3](/original/rulings/faq-3/) (1 Jan. 1996)
       - [FAQ #4](/original/rulings/faq-4/) (21 Jan. 1996)
@@ -26,7 +26,7 @@ ICE provided official errata and clarifications in the following publications:
       - [FAQ #6](/original/rulings/faq-6/) (20 Feb. 1996)
       - [FAQ #7](/original/rulings/faq-7/) (1 Mar. 1996)
       - [FAQ 9808](/original/rulings/faq-9808/) (Aug. 1998)
- - Collected Rulings File (versions 1-15, 1996-1999).
+ - Collected Rulings Files
       - [CRF 1](/original/rulings/crf-1/) (24 Oct. 1996)
       - [CRF 2](/original/rulings/crf-2/) (9 Jan. 1997)
       - [CRF 3](/original/rulings/crf-3/) (missing)
@@ -36,13 +36,13 @@ ICE provided official errata and clarifications in the following publications:
       - [CRF 7](/original/rulings/crf-7/) (15 Sep. 1997)
       - [CRF 8](/original/rulings/crf-8/) (23 Oct. 1997)
       - [CRF 9](/original/rulings/crf-9/) (31 Nov. 1997)
-      - [CRF 10]](/original/rulings/crf-10/) (1 Jan. 1998)
+      - [CRF 10](/original/rulings/crf-10/) (1 Jan. 1998)
       - [CRF 11](/original/rulings/crf-11/) (30 Mar. 1998)
       - [CRF 12](/original/rulings/crf-12/) (16 Jun. 1998)
       - [CRF 13](/original/rulings/crf-13/) (11 Aug. 1998)
       - [CRF 14](/original/rulings/crf-14/) (21 Dec. 1998)
       - [CRF 15](/original/rulings/crf-15/)
- - [_Middle-earth: The Wizards Companion_](/original/rulebooks/the-wizards-companion#rules-annotations) (1996).
- - [_Middle-earth: The Dragons Player Guide_](/original/rulings/the-dragons-player-guide) (1997).
- - [_Middle-earth: Dark Minions Player Guide_](/original/rulings/dark-minions-player-guide) (1997).
- - [_Middle-earth: The Lidless Eye Companion_](/original/rulebooks/the-lidless-eye-companion) (1997).
+ - [_Middle-earth: The Wizards Companion_](/original/rulings/metw-companion/) (1996).
+ - [_Middle-earth: The Dragons Player Guide_](/original/rulings/metd-player-guide/) (1997).
+ - [_Middle-earth: Dark Minions Player Guide_](/original/rulings/medm-player-guide/) (1997).
+ - [_Middle-earth: The Lidless Eye Companion_](/original/rulings/mele-companion/) (1997).
