@@ -12,9 +12,7 @@ permalink: /original/rulings/
 
 # OFFICIAL RULINGS
 
-Iron Crown Enterprises (ICE) published errata & clarifications to the rules and cards in Frequently Asked Questions (FAQ) files and Collected Rulings Files (CRF). These were published on ICE's website and posted to the rec.games.trading-card.misc newsgroup by the MECCG NetRep. Rulings were also published in the various _Companion_ and _Player Guide_ books and  
-
-These rulings are _official_ in that they were authored or authorized by Coleman Charlton and Mike Reynolds, the Designers and Developers of _Middle-earth CCG_ at Iron Crown Enterprises. However, some of these rules and rulings are _outdated_ as they were revised, clarified, or superceded over the course of the game. ICE never published a complete and final ruleset as they were developing a second edition of _MECCG_ instead (called "Lord of the Rings Expandable Card Game" (LoRE)), which was never released as ICE lost their license to produce Middle-earth games.
+Iron Crown Enterprises (ICE) published errata & clarifications to the rules and cards in Frequently Asked Questions (FAQ) files and Collected Rulings Files (CRF). These were published on ICE's website and posted to the rec.games.trading-card.misc newsgroup by the MECCG NetRep. Rulings were also published in the various _Companion_ and _Player Guide_ books.
 
 ICE provided official errata and clarifications in the following publications:
 
