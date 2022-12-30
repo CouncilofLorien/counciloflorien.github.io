@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "FAQ #2"
+title: "FAQ #2 (unknown)"
 parent: Rulings
 grand_parent: Original Rules
 search_exclude: true
