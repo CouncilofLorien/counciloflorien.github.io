@@ -173,8 +173,3 @@ _If at the start of a movement/hazard phase there are multiple effects in play s
 _If a card has optional effects, the player playing the card must choose which will take place. He must do this at the time the card is played, not when it is resolved in its chain of effects. When such a card is resolved, if any active conditions for his choice of effects do not exist, the card has no effect and is discarded—he may not at this point choose to implement an alternative effect of the card._
 
 ---
-
-{: .text-center .text-gamma }
-NOTES
-
-These Original Rules provide the original published text without modification from errata or official clarifications. However, they do have corrections to minor typographical, grammatical, clerical, and typesetting issues in the original text. Such corrections are not annotated. Any correction beyond a minor issue would be left unaltered and described in an annotation.
