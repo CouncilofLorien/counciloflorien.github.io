@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "FAQ #4"
+title: "FAQ #4 (21 Jan. 1996)"
 parent: Rulings
 grand_parent: Original Rules
 search_exclude: true
