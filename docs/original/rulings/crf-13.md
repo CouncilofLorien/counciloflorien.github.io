@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CRF 13
+title: "CRF 13 (11 Aug. 1998)"
 parent: Rulings
 grand_parent: Original Rules
 search_exclude: true
