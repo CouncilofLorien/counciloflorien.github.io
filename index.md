@@ -4,7 +4,7 @@ title: Haven
 nav_order: 1
 search_exclude: true
 nav_exclude: true
-permalink: /
+permalink: /haven/
 ---
 
 {: .text-center .mt-6 }
