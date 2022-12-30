@@ -245,8 +245,3 @@ To attempt to influence in this manner, your agenl must make an influence check 
 Any hazard creature you play as an automatic-attack is discarded if defeated—it is not placed in your opponent's marshalling point pile.
 
 ---
-
-{: .text-center .text-gamma }
-NOTES
-
-These Original Rules provide the original published text without modification from errata or official clarifications. However, they do have corrections to minor typographical, grammatical, clerical, and typesetting issues in the original text. Such corrections are not annotated. Any correction beyond a minor issue would be left unaltered and described in an annotation.
