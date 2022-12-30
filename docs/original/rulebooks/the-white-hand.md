@@ -253,8 +253,3 @@ The sideboard size is increased to:
 In the general opponent format, you must reveal the identity of your Fallen-wizard before the game begins.
 
 ---
-
-{: .text-center .text-gamma }
-NOTES
-
-These Original Rules provide the original published text without modification from errata or official clarifications. However, they do have corrections to minor typographical, grammatical, clerical, and typesetting issues in the original text. Such corrections are not annotated. Any correction beyond a minor issue would be left unaltered and described in an annotation.
