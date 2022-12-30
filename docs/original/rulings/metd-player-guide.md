@@ -1,6 +1,6 @@
 ---
 layout: default
-title: METD Player Guide
+title: "METD Player Guide (1997)"
 parent: Rulings
 grand_parent: Original Rules
 search_exclude: true
