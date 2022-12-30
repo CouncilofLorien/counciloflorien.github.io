@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "CRF 5 (19 May. 1997)"
+title: "CRF 5 (May 1997)"
 parent: Rulings
 grand_parent: Original Rules
 search_exclude: true
