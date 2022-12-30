@@ -4,6 +4,7 @@ title: "FAQ #5"
 parent: Rulings
 grand_parent: Original Rules
 search_exclude: true
+nav_order: 19
 permalink: /original/rulings/faq-5/
 ---
 
