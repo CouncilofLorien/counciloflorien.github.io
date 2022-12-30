@@ -5,6 +5,7 @@ parent: Original Rules
 has_children: true
 search_exclude: true
 has_toc: false
+nav_order: 1
 permalink: /original/rulebooks/
 ---
 
