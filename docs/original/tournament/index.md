@@ -7,6 +7,7 @@ has_children: true
 has_toc: false
 search_exclude: true
 nav_exclude: false
+nav_order: 3
 permalink: /original/tournament/
 ---
 
