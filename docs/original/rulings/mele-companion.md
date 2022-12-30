@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "MELE Companion (1997)"
+title: "MELE Companion"
 parent: Rulings
 grand_parent: Original Rules
 search_exclude: true
