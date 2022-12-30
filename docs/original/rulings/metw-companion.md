@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "METW Companion (1996)"
+title: "METW Companion"
 parent: Rulings
 grand_parent: Original Rules
 search_exclude: true
