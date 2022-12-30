@@ -17,8 +17,8 @@ Iron Crown Enterprises (ICE) published errata & clarifications to the rules and 
 ICE provided official errata and clarifications in the following publications:
 
  - Frequently Asked Questions Files
-      - FAQ #1 (missing)
-      - [FAQ #2](/original/rulings/faq-2/)
+      - [FAQ #1](/original/rulings/faq-1/) (missing)
+      - [FAQ #2](/original/rulings/faq-2/) (Dec. 1995)
       - [FAQ #3](/original/rulings/faq-3/) (1 Jan. 1996)
       - [FAQ #4](/original/rulings/faq-4/) (21 Jan. 1996)
       - [FAQ #5](/original/rulings/faq-5/) (5 Feb. 1996)
