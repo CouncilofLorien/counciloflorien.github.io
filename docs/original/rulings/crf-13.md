@@ -4,6 +4,7 @@ title: CRF 13
 parent: Rulings
 grand_parent: Original Rules
 search_exclude: true
+nav_order: 3
 permalink: /original/rulings/crf-13/
 ---
 
