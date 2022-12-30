@@ -32,7 +32,7 @@ The official rulesbooks and rule sources include:
  - [_Middle-earth: The Lidless Eye_ (_MELE_) Limited Edition Rulesbook](/original/rulebooks/the-lidless-eye) (Jun. 1997), 96 pages. Included in _MELE_ Starter Decks.
  - [_Middle-earth: The Lidless Eye Companion_](/original/rulebooks/the-lidless-eye-companion) (Jun. 1997), 95 pages. Published as a large-format paperback book. Includes _The Lidless Eye_ rulesbook and updates to the Rules Annotations in _The Wizards Companion_. Also includes Errata and Clarifications, Scenarios, Card Lists, Maps, and more. 
  - [_Middle-earth: Against the Shadow_ (_MEAS_) Limited Edition rule insert](/original/rulebooks/against-the-shadow) (Sep. 1997), 4 pages. Included in _MEAS_ booster packs.
- - [_Middle-earth: The White Hand_ (_MEWH_) Limited Edition rule insert](/original/rulebooks/the-white-hand) (Dec. 1997), 12 pages (labeled 1-6). Included in _MEWH_ booster packs.
+ - [_Middle-earth: The White Hand_ (_MEWH_) Limited Edition rule insert](/original/rulebooks/the-white-hand) (Dec. 1997), 6 pages. Included in _MEWH_ booster packs.
  - [_Middle-earth Challenge Decks_ Rules Summary and Play Tips](/original/rulebooks/challenge-decks) (Apr. 1998), 48 pages. Included in the preconstructed _Challenge Decks_. These rules are a _summary_ of the _METW_ and _MELE_ rules but were updated based on intervening clarifications.
  - [_Middle-earth: The Balrog_ (_MEBA_) Rules Summary and Play Tips](/original/rulebooks/the-balrog) (Nov. 1998), 20 pages. Included in the preconstructed _MEBA_ decks. Has a few corrections and updates to the _Challenge Deck_ Rules Summary.
 
