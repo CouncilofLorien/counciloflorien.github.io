@@ -20,7 +20,7 @@ permalink: /original/tournament/policy-1/
 
 **Downloads** (in Adobe Acrobat format):
 
-- [Download Player Sheets](/assets/files/CoL-PlayerSheets.pdf) Coordinators should distribute these sheets at tournaments.
+- Download Player Sheets - Coordinators should distribute these sheets at tournaments.
 - [Download Registration Form](/assets/files/CoL-RegistrationForm.pdf) - Registration form for use by tournament coordinators
 
 **Council Scenarios**
