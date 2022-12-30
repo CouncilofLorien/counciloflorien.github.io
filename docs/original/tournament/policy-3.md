@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Policy #3"
+title: "Policy #3 (May 1998)"
 nav_order: 1
 parent: Tournament
 grand_parent: Original Rules
