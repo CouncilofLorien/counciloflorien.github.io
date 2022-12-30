@@ -3,6 +3,7 @@ layout: default
 title: CRF 15
 parent: Rulings
 grand_parent: Original Rules
+nav_order: 1
 permalink: /original/rulings/crf-15/
 ---
 
