@@ -4,6 +4,7 @@ title: METW Companion
 parent: Rulings
 grand_parent: Original Rules
 search_exclude: true
+nav_order: 23
 permalink: /original/rulings/metw-companion/
 ---
 
