@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "CRF 3"
+title: "CRF 3 (missing)"
 parent: Rulings
 grand_parent: Original Rules
 search_exclude: true
