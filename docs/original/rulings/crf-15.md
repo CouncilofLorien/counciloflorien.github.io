@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "CRF 15 29 May 1999"
+title: "CRF 15 (29 May 1999)"
 parent: Rulings
 grand_parent: Original Rules
 nav_order: 1
