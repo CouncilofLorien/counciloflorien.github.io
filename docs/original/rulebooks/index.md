@@ -13,6 +13,8 @@ permalink: /original/rulebooks/
 
 Iron Crown Enterprises (ICE) published the rules for playing the _Middle-earth: Collectible Card Game_ (_MECCG_) across various set and expansion rulebooks. A rulesbook or rules insert was published along with each set and expansion of _MECCG_. Additional rules and annotations to the rules were published in the _Companion_ books. 
 
+These original rules are _official_ in that they were authored or authorized by Coleman Charlton and Mike Reynolds, the Designers and Developers of _Middle-earth CCG_ at Iron Crown Enterprises. However, some of these rules are _outdated_ as they were revised, clarified, or superceded over the course of the game. ICE never published a complete and final ruleset as they were developing a second edition of _MECCG_ instead (called "Lord of the Rings Expandable Card Game" (LoRE)), which was never released as ICE lost their license to produce Middle-earth games.
+
 The official rulesbooks and rule sources include:
 
  - [_Middle-earth: The Wizards_ (_METW_) Limited Edition Rulesbook](/original/rulebooks/the-wizards-limited) (Dec. 1995), 48 pages. Included in _METW_ Limited Edition Starter Decks.
