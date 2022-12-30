@@ -64,7 +64,7 @@ ICE provided official errata and clarifications in the following publications:
       - [CRF 12](/original/rulings/crf-12/) (16 Jun. 1998)
       - [CRF 13](/original/rulings/crf-13/) (11 Aug. 1998)
       - [CRF 14](/original/rulings/crf-14/) (21 Dec. 1998)
-      - [CRF 15](/original/rulings/crf-15/)
+      - [CRF 15](/original/rulings/crf-15/) (29 May 1999)
  - [_Middle-earth: The Wizards Companion_](/original/rulings/metw-companion/) (1996).
  - [_Middle-earth: The Dragons Player Guide_](/original/rulings/metd-player-guide/) (1997).
  - [_Middle-earth: Dark Minions Player Guide_](/original/rulings/medm-player-guide/) (1997).
