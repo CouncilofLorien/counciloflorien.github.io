@@ -9,7 +9,7 @@ permalink: /original/tournament/policy-1/
 ---
 
 <details>
-<summary>Source</summary>
+<summary>Sources and Citations</summary>
 <ul>
 <li>http://horizon.nl/~jdirksen/council.html#News - jdirksen's Cards 'R' Us (unofficial) <a href="https://web.archive.org/web/19980128154912fw_/http://horizon.nl/~jdirksen/council.html#News">(Web Archive)</a></li>
 </ul>
