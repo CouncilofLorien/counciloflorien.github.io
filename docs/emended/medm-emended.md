@@ -3,6 +3,7 @@ layout: default
 title: Dark Minions
 parent: Emended Rules
 nav_order: 4
+search_exclude: true
 permalink: /emended/dark-minions/
 ---
 
