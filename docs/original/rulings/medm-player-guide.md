@@ -4,6 +4,7 @@ title: Dark Minions Player Guide Rulings
 parent: Official Rulings
 grand_parent: Original Rules
 search_exclude: true
+nav_order: 25
 permalink: /original/rulings/medm-player-guide/
 ---
 
