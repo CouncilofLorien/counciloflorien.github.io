@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Haven
 nav_order: 1
 search_exclude: true
 nav_exclude: true
-permalink: /haven/
+permalink: /
 ---
 
 {: .text-center .mt-6 }
