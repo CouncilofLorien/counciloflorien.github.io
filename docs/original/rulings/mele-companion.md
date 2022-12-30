@@ -4,6 +4,7 @@ title: MELE Companion
 parent: Rulings
 grand_parent: Original Rules
 search_exclude: true
+nav_order: 26
 permalink: /original/rulings/mele-companion/
 ---
 
