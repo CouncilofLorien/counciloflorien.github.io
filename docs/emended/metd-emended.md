@@ -3,6 +3,7 @@ layout: default
 title: The Dragons
 parent: Emended Rules
 nav_order: 3
+search_exclude: true
 permalink: /emended/the-dragons/
 ---
 
