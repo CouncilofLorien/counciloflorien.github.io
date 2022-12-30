@@ -74,7 +74,7 @@ ICE provided official errata and clarifications in the following publications:
 
 ICE provided supplemental rules and regulations for sanction tournament play:
 
- - News from The Council of Lórien, Issue Number One (May 1996)
- - News from The Council of Lórien, Issue Number Two (29 October 1996)
- - Council of Lórien Tournament Policy Number 3 (9 May 1998)
+ - [News from The Council of Lórien, Issue Number One](/original/tournament/policy-1/) (May 1996)
+ - [News from The Council of Lórien, Issue Number Two](/original/tournament/policy-2/) (29 October 1996)
+ - [Council of Lórien Tournament Policy Number 3](/original/tournament/policy-3/) (9 May 1998)
 
