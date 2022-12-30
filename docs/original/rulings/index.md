@@ -12,46 +12,40 @@ permalink: /original/rulings/
 {: .text-center }
 # OFFICIAL RULINGS
 
-Iron Crown Enterprises (ICE) published errata and clarifications to the rules and cards in the various _Companion_ and _Player Guide_ books and on their website in the Frequently Asked Questions (FAQ) File and Collected Rulings File (CRF). The FAQ and Ruling files were prepared and maintained by Craig "Ichabod" O'Brien, author of the _Player Guides_ and NetRep (Nov. 1996--Sep. 1998). These rulings are _official_ in that they were authored or authorized by Coleman Charlton and Mike Reynolds, the Designers and Developers of _Middle-earth CCG_ at ICE. 
+Iron Crown Enterprises (ICE) published errata & clarifications to the rules and cards in Frequently Asked Questions (FAQ) files and Collected Rulings Files (CRF). These were published on ICE's website and posted to the rec.games.trading-card.misc newsgroup by the MECCG NetRep. Rulings were also published in the various _Companion_ and _Player Guide_ books and  
 
-However, some of these rulings are _outdated_ as the Rulings were revised, clarified, overturned, or superceded over the course of the game. Even the final CRF (version 15) includes outdated rulings as superceded rulings were not removed. 
+These rulings are _official_ in that they were authored or authorized by Coleman Charlton and Mike Reynolds, the Designers and Developers of _Middle-earth CCG_ at Iron Crown Enterprises. However, some of these rules and rulings are _outdated_ as they were revised, clarified, or superceded over the course of the game. ICE never published a complete and final ruleset as they were developing a second edition of _MECCG_ instead (called "Lord of the Rings Expandable Card Game" (LoRE)), which was never released as ICE lost their license to produce Middle-earth games.
 
-The digital version of these official rulings correct minor typographical, grammatical, and formatting issues. The Complete & Final Rules present the rules with all official errata, clarifications, and other revisions.
-
-## RULING CHRONOLOGY
+## OFFICIAL RULINGS
 
 ICE provided official errata and clarifications in the following publications:
 
- - Frequently Asked Questions (FAQ) Files
-     - FAQ #1 \[unavailable][^CRF1]
-     - [FAQ #2](./faq-2) current as of December 1995
-     - [FAQ #3](./faq-3) current as of 1 January 1996
-     - [FAQ #4](./faq-4) current as of 21 January 1996
-     - [FAQ #5](./faq-5) current as of 5 February 1996
-     - [FAQ #6](./faq-6) current as of 20 February 1996
-     - [FAQ #7](./faq-7) current as of 16 March 1996
- - Collected Official Rulings Files (CRF)
-     - [CRF version 1](./crf-1) current as of 24 October 1996
-     - [CRF version 2](./crf-2) current as of 9 January 1996
-     - [CRF version 3](./crf-3) \[commentary only][^CRF3]
-     - [CRF version 4](./crf-4) current as of 28 February 1997 
-     - [CRF version 5](./crf-5) current as of 19 May 1997
-     - [CRF version 6](./crf-6) current as of 10 July 1997
-     - [CRF version 7](./crf-7) current as of 15 September 1997
-     - [CRF version 8](./crf-8) current as of 23 October 1997
-     - [CRF version 9](./crf-9) current as of 31 November 1997
-     - [CRF version 10](./crf-10) current as of 1 January 1998
-     - [CRF version 11](./crf-11) current as of 30 March 1998
-     - [CRF version 12](./crf-12) current as of 16 June 1998
-     - [CRF version 13](./crf-13) current as of 11 August 1998
-     - [CRF version 14](./crf-14) current as of 21 December 1998
-     - [CRF version 15](./crf-15) current as of 29 May 1999
- - [_Middle-earth: The Wizards Companion_](./wizards-companion-rulings.md) available February 1996)
- - [_Middle-earth: The Dragons Player Guide_](./the-dragons-player-guide-rulings) available January 1997
- - [_Middle-earth: Dark Minions Player Guide_](./dark-minions-player-guide-rulings) available February 1997
- - [_Middle-earth: The Lidless Eye Companion_](./the-lidless-eye-companion-rulings) printed June 1997
-
----
-
-[^CRF1]: The original FAQ was posted to www.ironcrown.com, not the usernet group. It has not been archived.
-[^CRF3]: CRF version 3 has not been archived online. Further discussion of CRF 3 is given on its page.
+ - Frequently Asked Questions (number 1-7, 1995-1998).
+      - [FAQ #1] (missing)
+      - [FAQ #2](/original/rulings/faq-2/)
+      - [FAQ #3](/original/rulings/faq-3/) (1 Jan. 1996)
+      - [FAQ #4](/original/rulings/faq-4/) (21 Jan. 1996)
+      - [FAQ #5](/original/rulings/faq-5/) (5 Feb. 1996)
+      - [FAQ #6](/original/rulings/faq-6/) (20 Feb. 1996)
+      - [FAQ #7](/original/rulings/faq-7/) (1 Mar. 1996)
+      - [FAQ 9808](/original/rulings/faq-9808/) (Aug. 1998)
+ - Collected Rulings File (versions 1-15, 1996-1999).
+      - [CRF 1](/original/rulings/crf-1/) (24 Oct. 1996)
+      - [CRF 2](/original/rulings/crf-2/) (9 Jan. 1997)
+      - [CRF 3](/original/rulings/crf-3/) (missing)
+      - [CRF 4](/original/rulings/crf-4/) (28 Feb. 1997)
+      - [CRF 5](/original/rulings/crf-5/) (19 May. 1997)
+      - [CRF 6](/original/rulings/crf-6/) (10 Jul. 1997)
+      - [CRF 7](/original/rulings/crf-7/) (15 Sep. 1997)
+      - [CRF 8](/original/rulings/crf-8/) (23 Oct. 1997)
+      - [CRF 9](/original/rulings/crf-9/) (31 Nov. 1997)
+      - [CRF 10]](/original/rulings/crf-10/) (1 Jan. 1998)
+      - [CRF 11](/original/rulings/crf-11/) (30 Mar. 1998)
+      - [CRF 12](/original/rulings/crf-12/) (16 Jun. 1998)
+      - [CRF 13](/original/rulings/crf-13/) (11 Aug. 1998)
+      - [CRF 14](/original/rulings/crf-14/) (21 Dec. 1998)
+      - [CRF 15](/original/rulings/crf-15/)
+ - [_Middle-earth: The Wizards Companion_](/original/rulebooks/the-wizards-companion#rules-annotations) (1996).
+ - [_Middle-earth: The Dragons Player Guide_](/original/rulings/the-dragons-player-guide) (1997).
+ - [_Middle-earth: Dark Minions Player Guide_](/original/rulings/dark-minions-player-guide) (1997).
+ - [_Middle-earth: The Lidless Eye Companion_](/original/rulebooks/the-lidless-eye-companion) (1997).
