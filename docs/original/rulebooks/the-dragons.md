@@ -136,8 +136,3 @@ J. Whitehouse, Jon Whitney, and Mark Wightman
 **Additional credits** can be found in the _Middle-earth: The Wizards_ rulesbook (due to space limitations, we were unable to include them here).
 
 ---
-
-{: .text-center .text-gamma }
-NOTES
-
-These Original Rules provide the original published text without modification from errata or official clarifications. However, they do have corrections to minor typographical, grammatical, clerical, and typesetting issues in the original text. Such corrections are not annotated. Any correction beyond a minor issue would be left unaltered and described in an annotation.
