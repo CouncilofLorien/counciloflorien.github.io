@@ -4,6 +4,7 @@ title: The Dragons Player Guide Rulings
 parent: Rulings
 grand_parent: Original Rules
 search_exclude: true
+nav_order: 24
 permalink: /original/rulings/metd-player-guide/
 ---
 
