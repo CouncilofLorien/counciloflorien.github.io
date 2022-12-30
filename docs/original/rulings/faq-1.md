@@ -10,7 +10,7 @@ permalink: /original/rulings/faq-1/
 
 <details>
 <summary>Sources and Citations</summary>
-FAQ #1 is not available online. This version has been reconstructed from FAQ #3 dated 1/1/96 based on the marked changes therein. <em>Middle-earth: The Wizards</em> was released weeks before on 12/11/1995.
+FAQ #1 is not available online.
 </details>
 
 # Middle Earth: The Wizards
@@ -20,3 +20,5 @@ Frequently Asked Questions File
 
 {: .text-center }
 Number 1
+
+FAQ #1 is not available.
