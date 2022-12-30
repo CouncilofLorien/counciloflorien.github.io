@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "MEDM Guide (1997)"
+title: "MEDM Guide"
 parent: Rulings
 grand_parent: Original Rules
 search_exclude: true
