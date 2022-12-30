@@ -4,6 +4,7 @@ title: "CRF 9"
 parent: Rulings
 grand_parent: Original Rules
 search_exclude: true
+nav_order: 8
 permalink: /original/rulings/crf-9/
 ---
 
