@@ -147,7 +147,7 @@ Some resource events may also be stored, as indicated in their card text. No cor
 
 You must choose where each company is moving during the organization phase, by placing a new site card with each company. A company does not have to move. If you want to move a company, place the new site card representing their destination face down next to the site card representing their current site. You may look through your location deck and pick this card, you do not have to draw it randomly.
 
-If you wish to move a company to a site that is face down on the table, tell your opponent which site the company is moving to. If you wish to move a company to a site that is face up on the table (because another company is also moving there[^faceup]), tell your opponent the company is moving to a face up site.
+If you wish to move a company to a site that is face down on the table, tell your opponent which site the company is moving to. If you wish to move a company to a site that is face up on the table (because another company is also moving there), tell your opponent the company is moving to a face up site.
 
 The new site you choose must meet certain criteria. You may reach a site by either starter movement, or by region movement. Ringwraiths may not use region movement.
 
@@ -192,7 +192,7 @@ The movement/hazard phase is when your companies move from site to site, and is 
  3. Remove the company's site of origin. Discard the site card if it is tapped and not a Haven/Darkhaven. Otherwise, return it to the location deck.
  4. You must discard any cards in excess of eight in your hand; your opponent does the same for his hand. If you have fewer than eight cards, you must draw cards until your hand has eight cards; your opponent does the same for his hand.
 
-Once all of your companies have resolved their movement/hazard phases, any two of your companies at the same site combine[^combining]. Your companies are now considered to be at their new site (that is, the new site becomes its current site).
+Once all of your companies have resolved their movement/hazard phases, any two of your companies at the same site combine. Your companies are now considered to be at their new site (that is, the new site becomes its current site).
 
 ### PLAYING HAZARDS
 
@@ -265,7 +265,7 @@ Detainment attacks tap rather than wound characters. An attack is considered det
  - If it states the attack is detainment on the card.
  - All Nazgul attacks against minion companies.
  - Any attack keyed, against a minion company, to a Dark-domain, Shadow-hold, or Dark-hold.
- - Any Orc, Troll, Undead, or Man attack keyed to Shadow-land.[^detainment]
+ - Any Orc, Troll, Undead, or Man attack keyed to Shadow-land.
 
 The above parameters apply even if the attack is keyed to a region or site by name which has the appropriate type.
 
@@ -406,8 +406,6 @@ Then, the defender makes a roll and adds his modified prowess:
 
 If a character is defeated in company vs. company combat, the opposing player receives kill marshalling points as indicated on the character's card.
 
-(End-of-Turn Phase)[^endofturn]
-
 # • PART III •<br>SPECIAL SITUATIONS
 
 Certain situations occur at multiple points in the turn sequence, and are covered here.
@@ -432,12 +430,12 @@ If a Wizard fails a corruption check, he is immediately eliminated. Ringwraiths 
 
 Ringwraiths have many special effects, which are summarized below:
 
- - A Ringwraith may only be in a company with non-Ringwraith characters if he is at a Darkhaven.[^ringwraithfollowers]
+ - A Ringwraith may only be in a company with non-Ringwraith characters if he is at a Darkhaven.
  - Any ring in the Ringwraith's company at the beginning of the end-of-turn phase is automatically tested. Any test in a Ringwraith's company has a modification of -2.
  - A Ringwraith may carry items, but such items have no effect.
  - Ringwraiths never make corruption checks, and corruption hazards may not be played on Ringwraiths.
  - A Ringwraith may not use a site path that contains Coastal Sea regions.
- - A Ringwraith's company may not use region movement.[^modecard]
+ - A Ringwraith's company may not use region movement.
  - If a body check against a Ringwraith is exactly equal to 7 or 8, then Ringwraith is returned to your hand. You do not lose the game if your Ringwraith is removed in this fashion—you may bring such a Ringwraith back into play the same way you revealed him.
 
 ## 3 • RING ITEMS
@@ -533,7 +531,7 @@ _Palantir of Orthanc_—Isengard
 
 _Rangers of Ithilien_—Henneth Annun
 
-_Sapling of the White Tree_—Glittering Caves, Isle of the Ulond, Moria,[^sapling] or Tolfalas.
+_Sapling of the White Tree_—Glittering Caves, Isle of the Ulond, Moria, or Tolfalas.
 
 _Scroll of Isildur_—Tolfalas or Moria
 
