@@ -8,7 +8,6 @@ has_toc: false
 permalink: /original/rulebooks/
 ---
 
-{: .text-center }
 # ORIGINAL RULEBOOKS
 
 Iron Crown Enterprises (ICE) published the rules for playing the _Middle-earth: Collectible Card Game_ (_MECCG_) across various set and expansion rulebooks. A rulesbook or rules insert was published along with each set and expansion of _MECCG_. Additional rules and annotations to the rules were published in the _Companion_ books. 
