@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Dragons Player Guide Rulings
+title: METD Player Guide
 parent: Rulings
 grand_parent: Original Rules
 search_exclude: true
