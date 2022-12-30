@@ -1009,13 +1009,4 @@ _Address rules questions and comments via email to metwice@aol.com or via snail 
 
 ---
 
-{: .text-center .text-gamma }
-NOTES
-
-These Original Rules provide the original published text without modification from errata or official clarifications. However, they do have corrections to minor typographical, grammatical, clerical, and typesetting issues in the original text. Such corrections are not annotated. Any correction beyond a minor issue would be left unaltered and described in an annotation.
-
-[^specialrules]: The Table of Contents includes a reference to "Special Rules for Character Death" but this section of rules does not appear in the rulesbook.
-[^bar]: This web version of the rules is not marked with bars. See the printed _The Wizards Limited_ Rulesbook.
-[^gundabad]: Gundabad is a ![](/assets/images/dark-domain.svg), not a ![](/assets/images/wilderness.svg). 
-[^highpass]: High Pass is a ![](/assets/images/wilderness.svg), not a ![](/assets/images/dark-domain.svg)
-[^url]: The URL would be www.ironcrown.com. Several archives of ICE's website are hosted by web.archive.org. As an example, there is an [archive from 21 Feb 1999](https://web.archive.org/web/19990221081226/http://ironcrown.com:80/), which is before ICE lost their license from Tolkien Enterprises and took down all MECCG content in September 1999.
+[^bar]: This web version of the rules is not marked with bars. See the pdf of _The Wizards Limited_ Rulesbook instead.
