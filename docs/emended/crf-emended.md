@@ -3,6 +3,7 @@ layout: default
 title: Emended CRF
 parent: Emended Rules
 nav_order: 1
+search_exclude: true
 permalink: /emended/crf/
 ---
 
