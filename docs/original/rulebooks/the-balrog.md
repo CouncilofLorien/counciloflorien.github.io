@@ -444,7 +444,7 @@ Some resource events may also be stored, as indicated in their card text. No cor
 
 You must choose where each company is moving during the organization phase, by placing a new site card with each company. A company does not have to move. If you want to move a company, place the new site card representing their destination face down next to the site card representing their current site. You may look through your location deck and pick this card, you do not have to draw it randomly.
 
-If you wish to move a company to a site that is face down on the table (for another company), tell your opponent which site the company is moving to. If you wish to move a company to a site that is face up on the table (because another company is also moving there[^faceup]), tell your opponent the company is moving to a face up site.
+If you wish to move a company to a site that is face down on the table (for another company), tell your opponent which site the company is moving to. If you wish to move a company to a site that is face up on the table (because another company is also moving there), tell your opponent the company is moving to a face up site.
 
 The new site you choose must meet certain criteria. You may reach a site by either starter movement, or by region movement. Ringwraiths may not use region movement.
 
@@ -736,7 +736,7 @@ Ringwraiths have many special effects, which are summarized below:
  - A Ringwraith may carry items, but such items have no effect.
  - Ringwraiths never make corruption checks, and corruption hazards may not be played on Ringwraiths.
  - A Ringwraith may not use a site path that contains Coastal Sea regions.
- - A Ringwraith's company may not use region movement.[^modecard]
+ - A Ringwraith's company may not use region movement.
  - If a body check against a Ringwraith is exactly equal to 7 or 8, then Ringwraith is returned to your hand. You do not lose the game if your Ringwraith is removed in this fashion—you may bring such a Ringwraith back into play the same way you revealed him.
  - The full _Middle-earth: Lidless Eye_ rules include provisions for Ringwraith followers (p. 58).
 
