@@ -3,6 +3,7 @@ layout: default
 title: Tournament Policy
 parent: News
 nav_order: 1
+search_exclude: true
 permalink: /news/issue4
 ---
 
