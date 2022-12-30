@@ -3,6 +3,7 @@ layout: default
 title: The Wizards
 parent: Emended Rules
 nav_order: 1
+search_exclude: true
 permalink: /emended/metw-emended/
 ---
 
