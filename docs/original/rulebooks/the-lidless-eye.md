@@ -521,12 +521,12 @@ Wilderness  |   ![](/assets/images/wilderness.svg)  | Ruins & Lairs  |  ![](/ass
 Shadow-lands  |  ![](/assets/images/shadow-land.svg)  | Shadow-holds  |  ![](/assets/images/shadow-hold.svg) 
 Dark-domains  |  ![](/assets/images/dark-domain.svg)  | Dark-holds |   ![](/assets/images/dark-hold.svg) 
 
-A _site path_ is the sequence of regions between a site and its nearest Darkhaven. However, each region in the sequence is only indicated by its type, not by its name. Each non-Darkhaven site card has a site path on it. Each Darkhaven site card has two site paths, but each of those two paths gives the sequence of regions between the Darkhaven and one of the two Darkhavens nearest to it.[^twopaths]
+A _site path_ is the sequence of regions between a site and its nearest Darkhaven. However, each region in the sequence is only indicated by its type, not by its name. Each non-Darkhaven site card has a site path on it. Each Darkhaven site card has two site paths, but each of those two paths gives the sequence of regions between the Darkhaven and one of the two Darkhavens nearest to it.
 
 {: .note }
 > **Note:** Site paths do not direct the movement process. The site path is used to determine which hazard creatures your opponent may play against your moving company (see [page 46]()).
 > 
-> **Clarification:** A “company’s site path” during its movement/hazard phase is the site path between its site of origin and its new site. On non-Darkhaven site cards, the site path is provided on the top left border. On Darkhaven cards, the site path to each of the two adjacent Darkhavens is provided in the card text.[^twopaths]
+> **Clarification:** A “company’s site path” during its movement/hazard phase is the site path between its site of origin and its new site. On non-Darkhaven site cards, the site path is provided on the top left border. On Darkhaven cards, the site path to each of the two adjacent Darkhavens is provided in the card text.
 
 {: .note }
 > **Example:** The Lonely Mountain site’s nearest Darkhaven is the Dol Guldur site. The symbol for Wilderness is ![](/assets/images/wilderness.svg), the symbol for Dark-domain is ![](/assets/images/dark-domain.svg). So the site path between Dol Guldur and the Lonely Mountain is: ![](/assets/images/dark-domain.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg). 
@@ -558,7 +558,7 @@ A _site path_ is the sequence of regions between a site and its nearest Darkhave
 > 
 >_Free-holds_ \[ ![](/assets/images/free-hold.svg) ]: Dangerous sites for minions of Sauron (e.g., Minas Tirith, Edoras, etc.).
 >
->_Border-holds_ \[ ![](/assets/images/border-hold.svg) ]: Relatively dangerous sites for minions of Sauron (usually in Border regions;[^borderregions] e.g., Bree, Lake-town, etc.).
+>_Border-holds_ \[ ![](/assets/images/border-hold.svg) ]: Relatively dangerous sites for minions of Sauron (usually in Border regions; e.g., Bree, Lake-town, etc.).
 > 
 > _Ruins & Lairs_ \[ ![](/assets/images/ruinlair.svg) ]: Deserted sites often inhabited by dangerous creatures (e.g., the Lonely Mountain, Barrow-downs, etc.).
 >
@@ -806,7 +806,7 @@ A character’s _unused direct influence_ is equal to his direct influence attri
 
 In order to play a faction card, you must tap one of your characters that is at the “site” indicated on the faction’s card. Then you must make an influence check. Make a roll (2D6), add your character’s unused direct influence, and add any appropriate modifications (any applicable _standard modifications_ from the faction card and from any other cards played). All influence check modifier cards must be played before making the roll (2D6).
 
-If the modified result is greater than the value required on the faction card, you place the faction in your marshalling point pile [^factionmppile] (it now counts towards your marshalling point total). Otherwise, you discard the faction card. Once a faction is brought into play, it is not controlled by any specific character and it does not count against general or direct influence.
+If the modified result is greater than the value required on the faction card, you place the faction in your marshalling point pile (it now counts towards your marshalling point total). Otherwise, you discard the faction card. Once a faction is brought into play, it is not controlled by any specific character and it does not count against general or direct influence.
  
 ### STANDARD MODIFICATIONS
 
@@ -1304,7 +1304,7 @@ An _untapped_ character that is not the target of a strike may tap to _support_ 
 > **Clarification:** An ally may tap to give a +1 prowess modification in this manner. 
 
 {: .note }
-> **Example:** A _Cave-drake_ (two strikes, 10/–) attacks your company which consists of the untapped characters: Gorbag, Snaga, Muzgash, Ufthak, and an Orc Veteran. _Cave-drake_ allows your opponent to assign the strikes, so he assigned them to Gorbag and Muzgash. Gorbag takes his strike without tapping and rolls a 12, easily defeating the attack. Muzgash has _He'll Talk_[^helltalk] played on him, so you want him to survive. You tap Snaga, Ufthak, and the Orc Veteran to aid Muzgash in facing the strike. You would also like to tap Gorbag, but you cannot—he was assigned a strike from the attack, so he is still a target of this attack. Muzgash has a prowess of 7 versus this attack: 4 (his own process) + 1 (Snaga's support) + 1 (Ufthak's support) + 1 (Orc Veteran's support).
+> **Example:** A _Cave-drake_ (two strikes, 10/–) attacks your company which consists of the untapped characters: Gorbag, Snaga, Muzgash, Ufthak, and an Orc Veteran. _Cave-drake_ allows your opponent to assign the strikes, so he assigned them to Gorbag and Muzgash. Gorbag takes his strike without tapping and rolls a 12, easily defeating the attack. Muzgash has _He'll Talk_ played on him, so you want him to survive. You tap Snaga, Ufthak, and the Orc Veteran to aid Muzgash in facing the strike. You would also like to tap Gorbag, but you cannot—he was assigned a strike from the attack, so he is still a target of this attack. Muzgash has a prowess of 7 versus this attack: 4 (his own process) + 1 (Snaga's support) + 1 (Ufthak's support) + 1 (Orc Veteran's support).
 
 ### CANCELING AN AUTOMATIC-ATTACK
 
@@ -1324,7 +1324,7 @@ If you defeat a creature that does not have an * next to its marshalling points,
 
 ### TROPHIES
 
-If one of your minion companies[^overtcompanies] defeats a creature, you may place the creature's card under the control of any Orc or Troll character that faced a strike from the creature's attack. This card is called a "_trophy_" and is treated as a minor item with zero corruption points. A trophy may not be transferred or stored. If a trophy that is _not_ worth kill marshalling points to you is discarded, it is placed in your out-of-play pile. If a trophy that is worth kill marshalling points to you is discarded, it is placed in your marshalling point pile.
+If one of your minion companies defeats a creature, you may place the creature's card under the control of any Orc or Troll character that faced a strike from the creature's attack. This card is called a "_trophy_" and is treated as a minor item with zero corruption points. A trophy may not be transferred or stored. If a trophy that is _not_ worth kill marshalling points to you is discarded, it is placed in your out-of-play pile. If a trophy that is worth kill marshalling points to you is discarded, it is placed in your marshalling point pile.
 
 Trophies give a character bonuses based upon the total number of marshalling points indicated by the trophies (i.e., on the creature cards). One and only one of the following sets of bonuses applies to a character with trophies:
 
@@ -1489,7 +1489,7 @@ Creature hazards may not be played in response to other actions. They must alway
 > 6) _Skies of Fire_ would have resolved here, taking out _Doors of Night_, but it was cancelled so nothing happens.<br>
 > 7) _Minions Stir_ resolves.<br>
 > 
-> It is your turn so you have the option of starting the next chain of effects. You play a _Voices of Malice_, targeting _Minion Stir_. You would have like to have played it between 3) and 4)[^minionsstir], but _Minions Stir_ was not in play at that time so you could not target it. Your opponent does not respond, so _Voices of Malice_ resolves and discards _Minion Stir_.
+> It is your turn so you have the option of starting the next chain of effects. You play a _Voices of Malice_, targeting _Minion Stir_. You would have like to have played it between 3) and 4), but _Minions Stir_ was not in play at that time so you could not target it. Your opponent does not respond, so _Voices of Malice_ resolves and discards _Minion Stir_.
 
 # • PART III •<br/>OPTIONAL RULES
 
@@ -1798,7 +1798,7 @@ All of the factors affecting the strike must be decided before making any rolls 
 > 
 > Beorn does his strike sequence first. Nick plays no resources and decides to save his -1 modifier for Frodo. Beorn decides not to tap, so his prowess is 4 (= 7 - 3). Ciryaher is tapped, so his prowess is l (= 2 - l ). Wendy decides to play _Risky Blow_ (+3 prowess and -1 body to a Warrior facing a strike), so Beorn's prowess is back up to 7. Finally the dice are rolled. Nick rolls a 6 and Wendy rolls a 3. The attacks final prowess is 7, and Beorn beats this easily with his prowess plus his roll equal to 10. Now Wendy gets to roll a body check against Ciryaher, and she rolls a 4. Ciryaher ends up wounded but not eliminated.
 > 
-> Next Frodo does his strike sequence. Nick plays a _Bold Thrust_ and assigns the -1 modifier (from Gulla) to Frodo. Carambor then taps for his full prowess, plus 3 for the _Bold Thrust_, for a total of 8. Frodo has a -2 modifier because he is already wounded and a -1 modifier from the extra strike, so his prowess is a -2. Nick rolls for the final prowess of the strike and gets a 2, making the prowess 10. Frodo rolls and gets an 11, but unfortunately his -2 prowess drops this to a 9 and the strike succeeds. Nick rolls the body check and gets a 9. Normally this would not eliminate Frodo, but he was already wounded. So, he has a -1 body[^minusbody] for this body check—Frodo is eliminated and removed from play.
+> Next Frodo does his strike sequence. Nick plays a _Bold Thrust_ and assigns the -1 modifier (from Gulla) to Frodo. Carambor then taps for his full prowess, plus 3 for the _Bold Thrust_, for a total of 8. Frodo has a -2 modifier because he is already wounded and a -1 modifier from the extra strike, so his prowess is a -2. Nick rolls for the final prowess of the strike and gets a 2, making the prowess 10. Frodo rolls and gets an 11, but unfortunately his -2 prowess drops this to a 9 and the strike succeeds. Nick rolls the body check and gets a 9. Normally this would not eliminate Frodo, but he was already wounded. So, he has a -1 body for this body check—Frodo is eliminated and removed from play.
 
 ### MARSHALLING POINTS
 
@@ -1823,7 +1823,7 @@ This section presents some guidelines for handling several special types of card
 
 ### RINGWRAITHS AND NAZGUL
 
-There are several types of cards that[^severaltypeofcards] you can play a Ringwraith card even if the corresponding manifestation Nazgul hazard permanent-event is already in play. In this case, the Nazgul hazard permanent-event is discarded. This also applies in a game with two Ringwraith players using the Nazgul hazard cards from _METW_.
+There are several types of cards that you can play a Ringwraith card even if the corresponding manifestation Nazgul hazard permanent-event is already in play. In this case, the Nazgul hazard permanent-event is discarded. This also applies in a game with two Ringwraith players using the Nazgul hazard cards from _METW_.
 
 ### AGENTS
 
