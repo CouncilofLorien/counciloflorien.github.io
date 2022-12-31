@@ -10,7 +10,7 @@ permalink: /original/rulebooks/the-wizards-unlimited/
 <details>
 <summary>Rules as Published</summary>
 <a href="/assets/files/Middle-earth%20The%20Wizards%20Unimited.pdf"><img src="/assets/images/metw-unltd-cover.png"></a>
- 
+<br>
 <a href="/assets/files/Middle-earth%20The%20Wizards%20Unimited.pdf">Middle-earth The Wizards Unlimited.pdf</a>
 </details>
 
