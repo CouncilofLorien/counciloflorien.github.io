@@ -10,7 +10,7 @@ permalink: /original/rulebooks/the-lidless-eye/
 <details>
 <summary>Rules as Published</summary>
 <a href="/assets/files/Middle-earth%20The%20Lidless%20Eye.pdf"><img src="/assets/images/mele-cover.png"></a>
- 
+<br>
 <a href="/assets/files/Middle-earth%20The%20Lidless%20Eye.pdf">Middle-earth The Lidless Eye.pdf</a>
 </details>
 
