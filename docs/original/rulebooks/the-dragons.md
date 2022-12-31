@@ -7,6 +7,11 @@ nav_order: 4
 permalink: /original/rulebooks/the-dragons/
 ---
 
+<details>
+<summary>Rules as Published</summary>
+<a href="/assets/files/Middle-earth%20The%Dragons.pdf"><img src="/assets/images/metd-cover.png"></a>
+</details>
+
 # MIDDLE-EARTH: THE DRAGONS
 
 This insert provides expansion rules, clarifications, and a scenario for use with both _Middle-earth: The Wizards_ (_METW_) and _Middle-earth: The Dragons_ (_METD_). These rules are recommended for all _METW_ games even if _METD_ is not used.
