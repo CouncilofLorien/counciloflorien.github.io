@@ -15,7 +15,7 @@ permalink: /original/
 
 Iron Crown Enterprises (ICE) published the rules for playing the _Middle-earth: Collectible Card Game_ (_MECCG_) across various set and expansion rulebooks along with errata & clarifications to the rules and cards. The rules were supplemented by policies for sanctioned tournament games.
  - A rulesbook or rules insert was published along with each set and expansion of _MECCG_. Additional rules and annotations to the rules were published in the _Companion_ books. 
- - Errata and clarifications to the rules and cards were provided in Frequently Asked Questions (FAQ) files and Collected Rulings Files (CRF). These were published on ICE's website and posted to the rec.games.trading-card.misc newsgroup by the MECCG NetRep. Rulings were also published in the various _Companion_ and _Player Guide_ books and  
+ - Errata and clarifications to the rules and cards were provided in Frequently Asked Questions (FAQ) files and Collected Rulings Files (CRF). These were published on ICE's website and posted to the rec.games.trading-card.misc newsgroup by the MECCG NetRep. Rulings were also published in the various _Companion_ and _Player Guide_ books.  
  - Rules and regulations for sanctioned tournament play were published in the Council of Lórien Tournament Policies. 
 
 {: .note }
