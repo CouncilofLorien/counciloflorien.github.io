@@ -7,6 +7,11 @@ nav_order: 12
 permalink: /original/rulebooks/the-balrog/
 ---
 
+<details>
+<summary>Rules as Published</summary>
+<a href="/assets/files/Middle-earth%20The%20Balrog.pdf"><img src="/assets/images/meba-cover.png"></a>
+</details>
+
 # MIDDLE-EARTH: THE BALROG
 
 {: .text-center }
