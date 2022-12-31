@@ -17,7 +17,7 @@ permalink: /original/rulebooks/challenge-decks/
 
 <details>
 <summary>Rules as Published</summary>
-<a href=""><img src="/assets/images/mecd-cover.png"></a>
+<a href="/assets/files/Middle-earth%20Challenge%20Decks.pdf"><img src="/assets/images/mecd-cover.png"></a>
 </details>
 
 # MIDDLE-EARTH: CHALLENGE DECKS
