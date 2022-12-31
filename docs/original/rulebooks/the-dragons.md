@@ -9,7 +9,7 @@ permalink: /original/rulebooks/the-dragons/
 
 <details>
 <summary>Rules as Published</summary>
-<a href="/assets/files/Middle-earth%20The%Dragons.pdf"><img src="/assets/images/metd-cover.png"></a>
+<a href="/assets/files/Middle-earth%20The%20Dragons.pdf"><img src="/assets/images/metd-cover.png"></a>
 </details>
 
 # MIDDLE-EARTH: THE DRAGONS
