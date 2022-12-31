@@ -7,6 +7,11 @@ nav_order: 8
 permalink: /original/rulebooks/against-the-shadow/
 ---
 
+<details>
+<summary>Rules as Published</summary>
+<a href="/assets/files/Middle-earth%20Against%20The%20Shadow.pdf"><img src="/assets/images/meas-cover.png"></a>
+</details>
+
 # MIDDLE-EARTH: AGAINST THE SHADOW
 
 This insert provides expansion rules and clarifications for use with all _Middle-earth Collectible Card Game_ (_MECCG_) products.
