@@ -9,7 +9,7 @@ permalink: /original/rulebooks/the-wizards-limited/
 
 <details>
 <summary>Rules as Published</summary>
-<a href="/assets/files/Middle-earth%20The%20Wizards%20Limited%20Rulesbook.pdf"><img style="padding:1px;border:thin solid #f5f6fa;" src="/assets/images/metw-ltd-cover.png"></a>
+<a href="/assets/files/Middle-earth%20The%20Wizards%20Limited%20Rulesbook.pdf"><img src="/assets/images/metw-ltd-cover.png"></a>
 </details>
 
 # MIDDLE-EARTH: THE WIZARDS
