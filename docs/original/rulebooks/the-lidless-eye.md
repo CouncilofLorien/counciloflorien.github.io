@@ -7,6 +7,11 @@ nav_order: 6
 permalink: /original/rulebooks/the-lidless-eye/
 ---
 
+<details>
+<summary>Rules as Published</summary>
+<a href="/assets/files/Middle-earth%20The%20Lidless%20Eye.pdf"><img src="/assets/images/mele-cover.png"></a>
+</details>
+
 # MIDDLE-EARTH: THE LIDLESS EYE
 
 {: .text-center .text-beta }
