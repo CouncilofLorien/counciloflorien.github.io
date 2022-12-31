@@ -4,7 +4,7 @@ title: "Policy #3 (May 1998)"
 nav_order: 1
 parent: Tournament
 grand_parent: Original Rules
-search_exclude: true
+search_exclude: false
 permalink: /original/tournament/policy-3/
 ---
 
