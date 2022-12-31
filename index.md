@@ -24,6 +24,10 @@ Iron Crown Enterprises (ICE) published the rules for playing the _Middle-earth: 
 {: .note }
 > **Note:** ICE never published a complete and final ruleset as they were developing a second edition of _MECCG_ instead, called "Lord of the Rings Expandable Card Game." LoRE was never released as ICE lost their license to produce Middle-earth games.
 
+### COUNCIL OF LÓRIEN
+
+The Council of Lórien was the sanctioning body of official _MECCG_ tournament play in the United States and Canada. 
+
 ## USING THIS WEBSITE
 
 This website provides a collection of _MECCG_ rules and rulings. It is meant to be searched in order to find the relevant rules on a given topic. Only the original rules, CRF 15, and the Council of Lórien tournament policy number 3 are included in the search. 
