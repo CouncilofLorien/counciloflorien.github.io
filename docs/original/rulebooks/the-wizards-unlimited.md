@@ -7,6 +7,11 @@ nav_order: 3
 permalink: /original/rulebooks/the-wizards-unlimited/
 ---
 
+<details>
+<summary>Rules as Published</summary>
+<a href="/assets/files/Middle-earth%20The%20Wizards%20Unimited.pdf"><img src="/assets/images/metw-unltd-cover.png"></a>
+</details>
+
 # MIDDLE-EARTH: THE WIZARDS
 
 {: .text-center .text-beta }
