@@ -7,6 +7,11 @@ nav_order: 1
 permalink: /original/rulebooks/the-wizards-limited/
 ---
 
+<details>
+<summary>Rules as Published</summary>
+<a href="/assets/files/Middle-earth%20The%20Wizards%20Limited%20Rulesbook.pdf"><img src="/assets/images/metw-ltd-cover.png"></a>
+</details>
+
 # MIDDLE-EARTH: THE WIZARDS
 
 {: .text-center .text-beta }
