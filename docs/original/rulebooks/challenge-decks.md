@@ -15,6 +15,11 @@ permalink: /original/rulebooks/challenge-decks/
 }
 </style>
 
+<details>
+<summary>Rules as Published</summary>
+<a href=""><img src="/assets/images/mecd-cover.png"></a>
+</details>
+
 # MIDDLE-EARTH: CHALLENGE DECKS
 
 {: .text-center }
