@@ -11,7 +11,7 @@ permalink: /original/rulebooks/the-balrog/
 <summary>Rules as Published</summary>
 <a href="/assets/files/Middle-earth%20The%20Balrog.pdf"><img src="/assets/images/meba-cover.png"></a>
 <br>
-<a href="/assets/files/Middle-earth%20The%20Balrog.pdf">Middle-earth: The Balrog</a>
+<a href="/assets/files/Middle-earth%20The%20Balrog.pdf">Middle-earth: The Balrog.pdf</a>
 </details>
 
 # MIDDLE-EARTH: THE BALROG
