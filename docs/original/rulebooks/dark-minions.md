@@ -9,7 +9,7 @@ permalink: /original/rulebooks/dark-minions/
 
 <details>
 <summary>Rules as Published</summary>
-<a href="/assets/files/Middle-earth%20Dark%Minions.pdf"><img src="/assets/images/medm-cover.png"></a>
+<a href="/assets/files/Middle-earth%20Dark%20Minions.pdf"><img src="/assets/images/medm-cover.png"></a>
 </details>
 
 # MIDDLE-EARTH: DARK MINIONS
