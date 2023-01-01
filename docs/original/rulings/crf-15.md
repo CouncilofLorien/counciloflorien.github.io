@@ -902,7 +902,7 @@ Tournament rulings are modifications and additions to the rules presented in the
 
 #### Chance of Being lost
  - _Chance of Being Lost_ will change your site path.
- - See also Rulings by Term, [Card Effect Limitations(/original/rulings/crf-15/#card-effect-limitations).
+ - See also Rulings by Term, [Card Effect Limitations](/original/rulings/crf-15/#card-effect-limitations).
 
 #### Chill Douser
  - Does not receive benefits from itself, although it is affected by other _Chill Dousers_ played previously in the turn on the same company.
