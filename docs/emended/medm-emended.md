@@ -53,11 +53,14 @@ An Under-deeps site card has "Under-deeps" in the section that normally gives a 
 
 - Unlike other sites, each Under-deeps site is **not** considered to be in a region—instead it is located below another site, called the Underdeeps site's _surface site_.
 - Instead of a nearest Haven, each Under-deeps site lists all of its "Adjacent Sites." Each Under-deeps site is adjacent to its one surface site and a number of other Under-deeps sites. The first adjacent site listed is always the Under-deeps site's surface site.
-- _Eagle-mounts_ and _Gwaihir_ cannot be used to move to or from an Under-deeps site.
+- _Eagle-mounts_, _Gwaihir_, and _Bill the Pony_ cannot be used to move to or from an Under-deeps site.[^crf-bill-the-pony]
 - A company moving to and/or from an Under-deeps site has no site path. So, hazards may only be played keyed to the company's new site.
 - An environment card that changes site type (e.g., _Choking Shadows_, _Quiet Lands_, etc.) cannot be used to change the site type of an Under-deeps site.
 - Normally, when you successfully play an item, faction, ally, or information at a site, the site card is tapped and one additional character may tap to play a minor item. At an Under-deeps site, you can play any item playable at the site instead of this minor item.
-- You may not consider marshalling points associated with a company at an Under-deeps site for the purposes of calling the Free Council.
+- You may not consider marshalling points associated with a company at or moving from an Under-deeps site for the purposes of calling the Free Council. These marshalling points do count at the Free Council.[^crf-under-deeps-mp]
+
+{: .note }
+> **Note:** With the addition of the sites in _Middle-earth: The Balrog_, Windthrone is now always a surface site of an underdeeps.[^crf-under-deeps-windthrone]
 
 {: .note }
 > **Example:** Legolas taps and plays _Glamdring_ (a major item) at The Under-grottos and the site taps. At this point, Gimli could only tap to play a minor item at a non-Under-deeps site. But The Under-grottos is an Under-deeps site, so Gimli can tap to play anything playable at The Under-grottos: a minor item, a major item, or a gold ring. He taps and plays a _Precious Gold-ring_.
@@ -66,11 +69,18 @@ An Under-deeps site card has "Under-deeps" in the section that normally gives a 
 
 One of your companies that begins its turn at the surface site of an Under-deeps site can move normally _or_ it can move to its adjacent Under-deeps site (i.e., the company moves to an Under-deeps site from its surface site). One of your companies that begins its turn at an Under-deeps site may only move to one of the adjacent sites listed on the Under-deeps site card. 
 
-Each adjacent site is followed by a number in parentheses—this number indicates how difficult it is to move from the Under-deeps site to the adjacent site. When an adjacent site is revealed by one of your companies whose site of origin is an Under-deeps site, you must make a roll (2D6). If the result is greater than or equal to the number in parentheses following the adjacent site as listed on its site of origin, the movement/hazard phase proceeds normally. Otherwise, the company returns to its site of origin and the movement/hazard phase proceeds as if the company had not moved.
+Each adjacent site is followed by a number in parentheses---this number indicates how difficult it is to move from the Under-deeps site to the adjacent site. When an adjacent site is revealed by one of your companies whose site of origin is an Under-deeps site, you must make a roll (2D6). If the result is greater than or equal to the number in parentheses following the adjacent site as listed on its site of origin, the movement/hazard phase proceeds normally. Otherwise, the company returns to its site of origin and the movement/hazard phase proceeds as if the company had not moved.
 
 {: .note }
 > **Note:** A company moving from a surface site to its Under-deeps site does not need to make a roll.
 > 
+> **Clarification:** When a company’s site of origin is an Under-deeps site and the company reveals a new site at the start of its movement/hazard phase, the company is declaring it will make a roll to determine if the movement was successful. No cards can be played between the site being revealed and the roll except for _Reach of Ulmo_. Neither player draws cards for this movement if the roll is not successful.[^crf-under-deeps-roll]
+> 
+> **Clarification:** _Goldberry_ cannot prevent a company from returning to its site of origin that failed its roll to move to an adjacent Under-deeps site.[^crf-goldberry]
+> 
+> **Clarification:** If a company returns to it’s site of origin, it may do nothing during it’s site phase. A company failing it’s underdeeps movement roll is **not** effected by this rule.[^crf-return-to-origin]
+
+{: .note }
 > **Example:** A company that starts at Carn Dum can move normally or it can move to The Iron-deeps—The Iron-deeps lists Carn Dum as an adjacent site. Similarly, a company that starts at The Iron-deeps may attempt to move to any adjacent site listed: Carn Dum (0), The Under-leas (6), or The Under-vaults (7). However, after committing to movement, the moving player must roll a 6 or better to successfully move to The Under-leas or a 7 or better to successfully move to The Under-vaults.
 
 ### MANIFESTATIONS
@@ -110,6 +120,9 @@ To rescue a character, the company must be at the rescue site during the site ph
 
 {: .note }
 > **Note:** If he has one available, a player must use a site from his own location deck to rescue imprisoned characters. If he does not have the site or if the site is in his discard pile, the copy with the hazard host can be used to show the rescuing company's movement (if the rescue attempt is successful, the site would remain in play until the company leaves the site). In this case the site is not available for the rescuing player to use for any purpose (other than to rescue prisoners and play one minor item) until the company leaves the site and his play deck is exhausted.
+> 
+> **Clarification:** At an Under-deeps site, after a successful rescue attempt, a character can tap for a minor item only.[^crf-under-deeps-rescue]
+
 
 ### AGENTS
 
@@ -304,6 +317,11 @@ To attempt to influence in this manner, your agent must make an influence check 
 
 Any hazard creature you play as an automatic-attack is discarded if defeated—it is not placed in your opponent's marshalling point pile.
 
+{: .note }
+> **Clarification:** Creatures revealed as automatic-attacks do not count as creatures.[^crf-under-deeps-creatures]
+> 
+> **Clarification:** Automatic-attacks that allow the revealing of creature cards are not stopped by _Stealth_ or _Secret Entrance_.[^crf-under-deeps-stealth]
+> 
 > **Notice:** Combat consisting of one or more automatic-attacks, including creatures played as automatic-attacks, occurs when a company decides to enter the site at Step 1 (see [_MELE_, 7 • COMBAT](/original/rulebooks/the-lidless-eye/#7--combat)). The automatic-attacks attack the company at Step 2. (see [_MELE_, Site Phase](/original/rulebooks/the-lidless-eye/#site-phase)). This means that any creature played as an automatic-attack is played when the company enters the site (Step 1 of the site phase) such that its attack is declared along with any other automatic-attacks.
 
 ---
@@ -322,3 +340,12 @@ These Emended Rules provide the original published text with emendations from er
 [^crf-site-phase-general]: Play of an ally, item, faction, or resource card which will normally tap the site must be after the company resolves all automatic, agent and on-guard creature attacks. See [CRF, Turn Sequence, Site Phase, General](/original/rulings/crf-15/#general-3)
 [^crf-card-effect-limitations]: You may not play the following cards if your opponent is a Ringwraith or Sauron. Additionally, if you are not a Ringwraith or Sauron, a Ringwraith or Sauron opponent can play these cards against you and not be affected by any of their global effects: All hazard events that require an agent. _Near to Hear a Whisper_ and _Sudden Fury_ from _Middle-earth: Against the Shadow_ and _Great Need or Purpose_ may be played because they do not target a specific agent. See [CRF, Rulings by Term, Card Effect Limitations](/original/rulings/crf-15/#card-effect-limitations)
 [^crf-terms-off-to-the-side]: Host cards of cards off to the side can be targeted normally. See [CRF, Rulings by Term, Off-to-the-side](/original/rulings/crf-15/#off-to-the-side)
+[^crf-under-deeps-mp]: Marshalling points with companies at or moving from an Under-deeps site do not count for the purposes of calling the Free Council. They do count at the Council. This includes minion and Fallen-wizard companies. See CRF 15, Rulings by Term, [Under-deeps](/original/rulings/crf-15/#under-deeps).
+[^crf-return-to-origin]: _Rules Erratum:_ If a company returns to it’s site of origin, it may do nothing during it’s site phase. A company failing it’s underdeeps movement roll is not effected by this rule. See CRF 15, Turn Sequence Rulings, Movement/Hazard Phase, [Returning to Site of Origin](/original/rulings/crf-15/#returning-to-site-of-origin).
+[^crf-under-deeps-roll]: When a company’s site of origin is an Under-deeps site and the company reveals a new site at the start of its movement/hazard phase, the company is declaring it will make a roll to determine if the movement was successful. No cards can be played between the site being revealed and the roll except for Reach of Ulmo. Neither player draws cards for this movement if the roll is not successful. See CRF 15, Rulings by Term, [Under-deeps](/original/rulings/crf-15/#under-deeps).
+[^crf-under-deeps-rescue]: At an Under-deeps site, after a successful rescue attempt, a character can tap for a minor item only. See CRF 15, Rulings by Term, [Under-deeps](/original/rulings/crf-15/#under-deeps).
+[^crf-under-deeps-creatures]: Creatures revealed as automatic-attacks do not count as creatures.
+[^crf-under-deeps-stealth]: Automatic-attacks that allow the revealing of creature cards are not stopped by _Stealth_ or _Secret Entrance_. See CRF 15, Rulings by Term, [Under-deeps](/original/rulings/crf-15/#under-deeps).
+[^crf-under-deeps-windthrone]: With the addition of the sites in _Middle-earth: The Balrog_, Windthrone is now always a surface site of an underdeeps. 
+[^crf-bill-the-pony]: _Bill the Pony's_ special ability may not be used at an Under-deeps site. See CRF 15, Card Errata and Rulings, [Bill the Pony](/original/rulings/crf-15/#bill-the-pony)
+[^crf-goldberry]: _Goldberry_ cannot prevent a company from returning to its site of origin that failed its roll to move to an adjacent Under-deeps site.
