@@ -340,7 +340,7 @@ Any hazard creature you play as an automatic-attack is discarded if defeated—i
 {: .text-center .text-gamma }
 NOTES
 
-These Emended Rules provide the original published text with emendations from errata and official clarifications. Such emendations are annotated. The rules also include corrections to minor typographical, grammatical, clerical, and typesetting issues in the original text. Such corrections are not marked or annotated. Any correction beyond a minor issue would be annotated.
+These Emended Rules provide the published text with additions and emendations from offiicial errata and clarifications along with corrections to minor typographical, grammatical, clerical, and typesetting issues. All changes in the wording of the text are annotated but corrections to minor issues are not. 
 
 [^crf-minion-characters]: Minion characters are not affected by cards that target agents. See [CRF, Rulings by Term, Minion Characters](/original/rulings/crf-15/#minion-characters)
 [^crf-terms-agent]: See [CRF 15, Rulings by Term, Agents](/original/rulings/crf-15/#agent).
