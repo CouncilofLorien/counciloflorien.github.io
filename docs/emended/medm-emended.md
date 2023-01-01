@@ -160,9 +160,7 @@ An agent is always located at a site. Once an agent has been revealed _or_ has m
 > 
 > **Clarification:** A non-moving company’s current site is considered its new site for card play.[^crf-current-site]
 > 
-> **Notice:** The hazard agents _Anarin_ and _The Grimburgoth_ have special _Agent only_ abilities that allow them to tap at a company's new site. Such special abilities are not "card play" and cannot be used at a non-moving company's current site.
-> 
-> **Clarification:** 
+> **Notice:** The hazard agents _Anarin_ and _The Grimburgoth_ have special _Agent only_ abilities that allow them to tap at a company's new site. Such special abilities are not "card play" and cannot be used at a non-moving company's current site. 
 
 Each agent is unique—all normal rules apply. If a specific agent is in play face-up and a second, identical agent is turned face-up (i.e., it is revealed), the second agent is immediately discarded.
 
