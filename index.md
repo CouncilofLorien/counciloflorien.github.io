@@ -30,4 +30,10 @@ The Council of Lórien was the sanctioning body of official _MECCG_ tournament p
 
 ## USING THIS WEBSITE
 
-This website provides a collection of _MECCG_ rules and rulings. It is meant to be searched in order to find the relevant rules on a given topic. Only the original rules, CRF 15, and the Council of Lórien tournament policy number 3 are included in the search. 
+This website provides a collection of _MECCG_ rules and rulings. It is meant to be searched in order to find the relevant rules on a given topic. The search only includes:
+
+ - The original rulebooks and rule inserts
+ - Collected Rulings File 15
+ - The Council of Lórien tournament policy number 3 
+ - Cards 
+ 
