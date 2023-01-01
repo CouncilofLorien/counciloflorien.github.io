@@ -934,7 +934,7 @@ Tournament rulings are modifications and additions to the rules presented in the
  - The character must be moving to the site to change the site type. This works even though the site is not technically part of the site path. The character must also be moving to lower the hazard limit.
 
 #### Deep Mines
- - _Card Erratum_: Add "Cannot be duplicated on a given Wizardhaven." [\[Effective 4/20/98]](/original/rulings/crf-15/#rulings-effective-42098)
+ - _Card Erratum_: Add "Cannot be duplicated on a given Wizardhaven." [\[Effective 4/20/98\]](/original/rulings/crf-15/#rulings-effective-42098)
 
 #### Deftness of Agility
  - The extra strike is dealt with in a separate strike sequence.
