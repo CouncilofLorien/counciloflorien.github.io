@@ -1811,7 +1811,7 @@ during any player's turn."
  - An on-guard may only be revealed if it could have also been played during the movement/hazard phase. This means all targets of the card must have existed during the movement/hazard phase in order for the card to be revealed. 
  - A tapped agent may take an action to untap (i.e., move from tapped status to utapped status).
  - An agent may tap to play creatures at a site if the company is moving to the site.
- - Attacks keyed to Darkhavens are considered detainment. [\[effective 11/17/97]](/original/rulings/crf-15/#rulings-effective-111797)
+ - Attacks keyed to Darkhavens are considered detainment. [\[effective 11/17/97\]](/original/rulings/crf-15/#rulings-effective-111797)
  - Dragons Rules, Characters Facing Multiple Strikes: Change "are then considered to be canceled" to "are thenn considered to be successful."
  - Dragon Rules, Hoards: Change "Each site with a Dragon automatic-attack (i.e., each Dragon's Lair) contains a hoard" to "Each site which had a Dragon automatic-attack at the beginning of the turn contains a hoard."
  - White Hand Rules, Playing and Using Resource, Targeting Site and Resource Cards: change both instances of "resource card may not target/affect" to "resource event card may not target/affect."
