@@ -130,7 +130,7 @@ If you have any further questions concerning _MECCG_, you can either:
  -  Companies at the same non-Haven/non-Darkhaven site must join at the end of all movement/hazard phases, before the site phase starts. Companies at the same Haven/Darkhaven site may join at this time.
  -  If companies would join at the end of the movement/hazard phase such that the company composition rules are violated, one company of the hazard player's choice must return to its site of origin.
  -  If two companies join at a site, cards affecting one of the companies now affect them both.
- -  Removing the site of origin and resetting to hand size are simultaneous actions, and they are the last actions in any movement/hazard phase. This means a moving company is not at a site until the site phase. [\[effective 11/17/97]](#rulings-effective-111797)
+ -  Removing the site of origin and resetting to hand size are simultaneous actions, and they are the last actions in any movement/hazard phase. This means a moving company is not at a site until the site phase. [\[effective 11/17/97\]](#rulings-effective-111797)
  -  The same region (as in region card) may not occur twice in a single site path.
  -  A non-moving company's current site is considered its new site for card play.
 
@@ -144,7 +144,7 @@ If you have any further questions concerning _MECCG_, you can either:
 
 #### Playing Hazards
 
- -  Some hazard permanent-events allow you to tap or discard them for an effect, and this does not count against the hazard limit unless specified otherwise on the card. [\[effective 11/17/97]](#rulings-effective-111797)
+ -  Some hazard permanent-events allow you to tap or discard them for an effect, and this does not count against the hazard limit unless specified otherwise on the card. [\[effective 11/17/97]\](#rulings-effective-111797)
  -  Hazards may only be played on a company whose movement/hazard phase is being resolved, or on the site they are moving to. Long-events and permanent-events may effect more than one company even though they are only played "on" one company.
  -  If a card must be keyed to two or more instances of a region type, those region types do not have to be consecutive in the site path.
  -  If you say you are done playing hazards and your opponent plays a resource before the movement/hazard phase ends, you may then resume playing hazards, assuming you have not yet reached the hazard limit.
