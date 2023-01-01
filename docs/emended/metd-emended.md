@@ -197,7 +197,9 @@ J. Whitehouse, Jon Whitney, and Mark Wightman
 {: .text-center .text-gamma }
 NOTES
 
-These Emended Rules provide the original published text with emendations from errata and official clarifications. Such emendations are annotated. The rules also include corrections to minor typographical, grammatical, clerical, and typesetting issues in the original text. Such corrections are not marked or annotated. Any correction beyond a minor issue would be annotated.
+The Emended Rules provide the published text with additions and emendations from offiicial errata and clarifications along with corrections to minor typographical, grammatical, clerical, and typesetting issues. Typically, errata will be reflected directly in the text while clarifications will be below the text and labeled "**Clarification**." Certain clarifications are given directly in the text when appropriate. All changes in the wording of the text are annotated but corrections to minor issues are not. 
+
+The Emended Rules also include notices and comments beyond the official errata and clarifications. A **Notice** calls attention to certain rules or cards. A **Comment** explains a rule. 
 
 [^capture]: There is no _Capture_ keyword in _MECCG_.
 [^crf-terms-ahunt]: See CRF 15, Rulings by Term, [Ahunt Manifestations](/original/rulings/crf-15/#ahunt-manifestations)
