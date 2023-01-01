@@ -108,7 +108,7 @@ If you have any further questions concerning _MECCG_, you can either:
 #### Playing Characters
 
  - _Rules Erratum:_ You may play a character if you do not have enough influence to control them. However, if there are any characters you do not have the influence to control at the end of your organization phase, the character you brought into play this turn must be returned to your hand.
- - If you play a Ringwraith at a non-Darkhaven site where there is one of your non-Ringwraith companies, one of the companies must move that turn. If both companies are still there at the end of the movement/hazard phase, discard the non-Ringwraith company. [\[Effective 11/17/97]](/original/rulings/crf-15/#rulings-effective-111797)
+ - If you play a Ringwraith at a non-Darkhaven site where there is one of your non-Ringwraith companies, one of the companies must move that turn. If both companies are still there at the end of the movement/hazard phase, discard the non-Ringwraith company. [\[Effective 11/17/97\]](/original/rulings/crf-15/#rulings-effective-111797)
 
 #### Storing Items
 
@@ -306,7 +306,7 @@ If you have any further questions concerning _MECCG_, you can either:
 
  - _Rules Erratum:_ A tapped agent may take an action to untap (i.e., move from tapped status to utapped status).
  - _Rules Erratum:_ An agent may tap to play creatures at a site if the company is moving to the site.
- - _Rules Erratum:_ Agent attacks against minions are always detainment. [\[Effective 8/27/98]](/original/rulings/crf-15/#rules-errata)
+ - _Rules Erratum:_ Agent attacks against minions are always detainment. [\[Effective 8/27/98\]](/original/rulings/crf-15/#rules-errata)
  - Playing a card that makes an agent attack is considered the attack's declaration.
  - Agents are not creatures.
  - Rolls made by agents during combat are done simultaneously with rolls made by characters during combat, after step 4 of the strike sequence.
@@ -411,7 +411,7 @@ If you have any further questions concerning _MECCG_, you can either:
  - See also Turn Sequence, Organization Phase, [Organizing Companies](/original/rulings/crf-15/#organizing-companies); and Rulings by Term, [Influence](/original/rulings/crf-15/#influence).
 
 #### Corruption
- - _Rules Erratum_: Corruption cards must always start a chain of effects. [\[Effective 8/27/98]](/original/rulings/crf-15/#rules-errata)
+ - _Rules Erratum_: Corruption cards must always start a chain of effects. [\[Effective 8/27/98\]](/original/rulings/crf-15/#rules-errata)
  - **Annotation 23**: When a character fails a corruption check, the standard effects of this (i.e., the character being discarded or eliminated and his items being discarded) are implemented immediately and are considered synonymous with the failed check. A card causing the corruption check may modify the standard effects of a failed check (e.g. _The Precious_), but this timing would not be changed. Certain cards, e.g., _Traitor_, which do not cause a corruption check, but specify an action that results from the passive condition of a failed check, take effect as the first declared action in a chain of effects immediately following the chain of effects that contains the corruption check.
  - Characters with 0 corruption points must still make corruption checks.
  - A character may attempt to remove a corruption card without tapping. The roll is at -3.
@@ -424,7 +424,7 @@ If you have any further questions concerning _MECCG_, you can either:
 ### -= DDD =-
 
 #### Darkhaven
- - Rules Erratum: Attacks keyed to Darkhavens are detainment. [\[effective 11/17/97]](/original/rulings/crf-15/#rulings-effective-111797)
+ - Rules Erratum: Attacks keyed to Darkhavens are detainment. [\[effective 11/17/97\]](/original/rulings/crf-15/#rulings-effective-111797)
  - Whenever a hazard affecting heroes refers to a Darkhaven, interpret it as referring to a Haven instead.
  - Attacks at Darkhavens are canceled only if the company is at the Darkhaven.
  - Darkhavens count as their own nearest Darkhaven.
@@ -867,7 +867,7 @@ Tournament rulings are modifications and additions to the rules presented in the
 #### Bane of the Ithil-stone
  - _Bane of the Ithil-stone_ will only cancel effects outside of normal play as outlined in the rules.
  - If a card has multiple effects, _Bane of the Ithil-stone_ will only cancel those effects that concern searching through decks and discard piles.
- - See also Rulings by Term, [Card Effect Limitations(/original/rulings/crf-15/#card-effect-limitations).
+ - See also Rulings by Term, [Card Effect Limitations](/original/rulings/crf-15/#card-effect-limitations).
 
 #### Beater and Biter
  - _Beater and Biter_ increases the bonus the weapon gives, so maximums on the weapon still apply.
@@ -1060,7 +1060,7 @@ Tournament rulings are modifications and additions to the rules presented in the
  - Must be in the same company as the ring he tests.
 
 #### Gates of Morning
- - _Gates of Morning_ discards hazard environments when it resolves, even if _Peril Returned_ is in play. [\[effective 11/17/97]](/original/rulings/crf-15/#rulings-effective-111797)
+ - _Gates of Morning_ discards hazard environments when it resolves, even if _Peril Returned_ is in play. [\[effective 11/17/97\]](/original/rulings/crf-15/#rulings-effective-111797)
 
 #### Giant
  - Card Erratum: Add "_Giant_."
@@ -1636,7 +1636,7 @@ Tournament rulings are modifications and additions to the rules presented in the
  - Does not affect attacks.
 
 #### Stay Her Appetite
- - _Card Erratum_: Change "plus two" to "plus five." [\[Effective 11/3/97]](/original/rulings/crf-15/#rulings-effective-11397)
+ - _Card Erratum_: Change "plus two" to "plus five." [\[Effective 11/3/97\]](/original/rulings/crf-15/#rulings-effective-11397)
  - _If Stay Her Appetite_ is played on an ally with no prowess, there is no attack, but all other affects of the card apply.
 
 #### Stealth
@@ -1858,7 +1858,7 @@ The One Ring."
  - **Cruel Caradhras:** Replace "Minas Morgul" with "Imlad
 Morgul."
  
- - **Deep Mines:** Add "Cannot be duplicated on a given Wizardhaven." [\[Effective 4/20/98]](/original/rulings/crf-15/#rulings-effective-42098)
+ - **Deep Mines:** Add "Cannot be duplicated on a given Wizardhaven." [\[Effective 4/20/98\]](/original/rulings/crf-15/#rulings-effective-42098)
  - **Deeper Shadow:** This is a short-event, not a long-event.
  - **Dodge:** Replace "his body check is modified by -1." with "his body is modified by -1 for the resulting body check."
  - **Dragon's Hunger:** Replace "Otherwise, the attack is canceled." with "Otherwise, the attack is canceled and the opponent must reveal his hand."
@@ -1882,7 +1882,7 @@ phase."
  - **Huorn:** Add "Awakened Plant."
  - **Ice-orcs:** Change the Shadow-hold symbol into a Ruins & Lairs.
  - **Ioreth:** Replace "Healing card" with "Healing effect."
- - **Iron Shield of Old:** Add "Shield." [\[effective 11/17/97]](/original/rulings/crf-15/#rulings-effective-111797)
+ - **Iron Shield of Old:** Add "Shield." [\[effective 11/17/97\]](/original/rulings/crf-15/#rulings-effective-111797)
  - **Lucky Search:** Replace "Discard all revealed cards except the item." with "Reshuffle all revealed cards except the item back into the play deck." Add at the end of the first paragraph "Discard item if the scout is wounded by this attack."
  - **Lure of Nature:** Replace "at the end of each movement/hazard phase" with "after all other hazards have been played."
  - **Mallorn:** The first sentence should read: "Playable at Bag End only if Earth of Galadriel's Orchard is stored there."
@@ -1903,7 +1903,7 @@ phase."
  - **Pukel-men:** Add "Pukel-creature."
  - **Quiet Lands:** Replace "is reduced to half its original prowess (rounded up)." with "is reduced by half (rounded up)."
  - **Rebuild the Town:** Replace "Playable on" with "Playable during the site phase on."
- - **Reluctant Final Parting:** Add "Determine nearest Haven using site cards of the same alignment (minion/hero) as the ally." [\[Effective 4/20/98]](/original/rulings/crf-15/#rulings-effective-42098)
+ - **Reluctant Final Parting:** Add "Determine nearest Haven using site cards of the same alignment (minion/hero) as the ally." [\[Effective 4/20/98\]](/original/rulings/crf-15/#rulings-effective-42098)
  - **Rescue Prisoners:** This cards gives 2 marshalling points, not 3. Add "You receive the marshalling points for this card only when it is stored."
  - **Rhosgobel:** Replace "healing cards" with "healing effects."
  - **@ Rhosgobel:** Fallen Wizardhaven. Remove "A company moving to or from Rhosgobel is not considered to be moving through Southern Mirkwood (including one less Dark-domain in their site path."
@@ -1915,7 +1915,7 @@ phase."
  - **Shadowfax:** Change to "an additional site card may beplayed and an additional movement/hazard phase."
  - **Silent Watcher:** Gives 1 marshalling point, not 0. Add "Pukel-creature."
  - **Slayer:** Gives 2 marshalling points, not 0. Add "Slayer."
- - **Stay Her Appetite:** Change "plus two" to "plus five." [\[effective 11/3/97]](/original/rulings/crf-15/#rulings-effective-11397)
+ - **Stay Her Appetite:** Change "plus two" to "plus five." [\[effective 11/3/97\]](/original/rulings/crf-15/#rulings-effective-11397)
  - **Summons from Long Sleep:** Change "When the reserved creature is played, another Dragon or Drake may be reserved." to "Discard this card after the reserved creature attacks."
  - **Thorough Search:** Replace "...to play any item normally found at its current site." with "...to play a minor, major, or gold ring item normally found at its current site."
  - **Tolfalas:** Should read: "Playable: Items (minor, major,
