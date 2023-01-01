@@ -1465,7 +1465,7 @@ Tournament rulings are modifications and additions to the rules presented in the
  - The Radagast bonus applies if you have a character manifestation of Radagast in play, or if you have declared you are playing Fallen-Radagast.
 
 #### Peril Returned
- - Will not stop _Gates of Morning_ from discarding hazard environments when it resolves. [\[effective 11/17/97]](/original/rulings/crf-15/#rulings-effective-111797)
+ - Will not stop _Gates of Morning_ from discarding hazard environments when it resolves. [\[effective 11/17/97\]](/original/rulings/crf-15/#rulings-effective-111797)
 
 #### Plague
  - _Card Erratum_: Change "At the end of the target's movement/hazard phase" to "At the end of your opponent's turn." \[Effective 8/27/98]
