@@ -1223,7 +1223,7 @@ Tournament rulings are modifications and additions to the rules presented in the
  - Replacing the site card is considered movement, without a movement/hazard phase.
 
 #### Iron Shield of Old
- - _Card Erratum_: Add "_Shield._" [\[effective 11/17/97]](/original/rulings/crf-15/#rulings-effective-111797)
+ - _Card Erratum_: Add "_Shield._" [\[effective 11/17/97\]](/original/rulings/crf-15/#rulings-effective-111797)
 
 ### -= KKK =-
 
