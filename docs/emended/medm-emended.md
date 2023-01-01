@@ -29,6 +29,8 @@ The concept of minions used in a non-agent fashion will be introduced in _Middle
 
 If one of your companies splits into two or more companies, you may place any resource permanent-events that were on the original company (as a whole) with any of the resulting companies. Some events of this type must be discarded (as specified) when a company splits (e.g., _Fellowship_).
 
+If all characters in a company are removed from the company, all resource permanent-events played on the company as a whole are discarded.[^crf-company]
+
 You may not make an influence attempt on an item with a permanent event on it.
 
 #### Placement of cards "off to the side" (_Clarification_)
@@ -51,16 +53,20 @@ Usually the host card will state some mechanic that affects the cards placed off
 
 An Under-deeps site card has "Under-deeps" in the section that normally gives a site's region, and its name contains "…-deeps" or "Under-…" An Under-deeps site is just like any other site with the following exceptions:
 
-- Unlike other sites, each Under-deeps site is **not** considered to be in a region—instead it is located below another site, called the Underdeeps site's _surface site_.
+- Unlike other sites, each Under-deeps site is **not** considered to be in a region—instead it is located below another site, called the Under-deeps site's _surface site_.
 - Instead of a nearest Haven, each Under-deeps site lists all of its "Adjacent Sites." Each Under-deeps site is adjacent to its one surface site and a number of other Under-deeps sites. The first adjacent site listed is always the Under-deeps site's surface site.
 - _Eagle-mounts_, _Gwaihir_, and _Bill the Pony_ cannot be used to move to or from an Under-deeps site.[^crf-bill-the-pony]
-- A company moving to and/or from an Under-deeps site has no site path. So, hazards may only be played keyed to the company's new site.
+- A company moving to and/or from an Under-deeps site has no site path. So, hazards may only be played keyed to the company's new site. If a company is moving from a surface site to an Under-deeps site, hazards may not be played keyed to the region of the surface site.[^crf-surface-keying]
+- A Ringwraith character may not move to Under-deeps sites that do not have a Darkhaven for a surface site.[^crf-terms-ringwraith]
+- A Fallen-wizard player's companies can use Under-deeps movement.[^crf-fw-under-deeps-movement]
 - An environment card that changes site type (e.g., _Choking Shadows_, _Quiet Lands_, etc.) cannot be used to change the site type of an Under-deeps site.
 - Normally, when you successfully play an item, faction, ally, or information at a site, the site card is tapped and one additional character may tap to play a minor item. At an Under-deeps site, you can play any item playable at the site instead of this minor item.
-- You may not consider marshalling points associated with a company at or moving from an Under-deeps site for the purposes of calling the Free Council. These marshalling points do count at the Free Council.[^crf-under-deeps-mp]
+- You may not consider marshalling points with or associated with a company at or moving from an Under-deeps site for the purposes of calling the Free Council. This includes minion and Fallen-wizard companies.[^crf-under-deeps-mp] These marshalling points do count at the Free Council.[^crf-under-deeps-mp] Marshalling points that minions have at an Under-deeps site do not count for calling the Audience with Sauron, but do count at the Audience with Sauron.[^crf-under-deep-minion-mp]
 
 {: .note }
 > **Note:** With the addition of the sites in _Middle-earth: The Balrog_, Windthrone is now always a surface site of an underdeeps.[^crf-under-deeps-windthrone]
+> 
+> **Clarification:** A Fallen-wizard player's Wizardhaven is not considered to be adjacent to an Under-deeps site unless Deep Mines has been played on it.[^crf-wizardhaven]
 
 {: .note }
 > **Example:** Legolas taps and plays _Glamdring_ (a major item) at The Under-grottos and the site taps. At this point, Gimli could only tap to play a minor item at a non-Under-deeps site. But The Under-grottos is an Under-deeps site, so Gimli can tap to play anything playable at The Under-grottos: a minor item, a major item, or a gold ring. He taps and plays a _Precious Gold-ring_.
@@ -90,6 +96,8 @@ Certain entities (e.g., the Balrog, Gollum, Lobelia, etc.) have several differen
  - If an attack from a manifestation is defeated, the manifestation is removed from play and you may not play any further manifestations of the same entity.
 
 {: .note }
+> **Clarification:** A Fallen-wizard (nor any other player) may not have two resource manifestations of the same unique resource in his deck.[^crf-manifestation]
+> 
 > **Exception:** Different manifestations of the same unique Dragon may be in play at the same time.
 > 
 > **Note:** If one card says that it is the manifestation of another card, these restrictions apply to both cards.
@@ -107,6 +115,9 @@ Certain hazard permanent-events cause a character to be taken prisoner—these a
  5. If the hazard host is played on a character moving to a new site that is an adjacent site of an Under-deeps site, the rescue site can be that Under-deeps site.
  6. If a rescue site is not available within these rules, the hazard host cannot be played!
  7. When removed from the play surface, rescue sites always return to the location deck.
+
+{: .note }
+> **Clarification:** Allies cannot be targeted to be taken prisoner, and otherwise cannot be taken prisoner.
 
 When taken prisoner, a character cannot take any actions (including healing or untapping) and cannot be affected by any cards except for those that specifically affect characters taken prisoner. A character taken prisoner is not controlled (i.e., does not use any influence), and all of his followers revert to general influence (which must be legally reconciled during his player's next organization phase). Any items, allies, or events controlled by a character are discarded when the character is taken prisoner unless the hazard host states otherwise. As an exception, a ring born by an imprisoned character stays with the character.
 
@@ -349,3 +360,10 @@ These Emended Rules provide the original published text with emendations from er
 [^crf-under-deeps-windthrone]: With the addition of the sites in _Middle-earth: The Balrog_, Windthrone is now always a surface site of an underdeeps. 
 [^crf-bill-the-pony]: _Bill the Pony's_ special ability may not be used at an Under-deeps site. See CRF 15, Card Errata and Rulings, [Bill the Pony](/original/rulings/crf-15/#bill-the-pony)
 [^crf-goldberry]: _Goldberry_ cannot prevent a company from returning to its site of origin that failed its roll to move to an adjacent Under-deeps site.
+[^crf-surface-keying]: If a company is moving from a surface site to an Under-deeps site, hazards may not be played keyed to the region of the surface site. See CRF, Turn Sequence Rulings, Movement/Hazard Phase, Movement, [Playing Hazards](/original/rulings/crf-15/#playing-hazards).
+[^crf-under-deep-minion-mp]: Marshalling points that minions have at an Under-deeps site do not count for calling the Audience with Sauron, but do count at the Audience with Sauron. See CRF 15 Turn Sequence Rulings, [End-of-Game](/original/rulings/crf-15/#end-of-game).
+[^crf-terms-ringwraith]: Ringwraiths may not move from a non-Darkhaven site to another non-Darkhaven site unless they are using Dwar Unleashed. This means a Ringwraith may not move to Under-deeps sites that do not have a Darkhaven for a surface site. See CRF 15, Rulings by Term, [Ringwraith](/original/rulings/crf-15/#ringwraith)
+[^crf-wizardhaven]: A Wizardhaven is not considered to be adjacent to an Under-deeps site unless Deep Mines has been played on it. See CRF 15, Rulings by Term, [Wizardhaven](https://www.counciloflorien.com/original/rulings/crf-15/#wizardhaven)
+[^crf-fw-under-deeps-movement]: The _MEWH_ hand rules need errata. They should read that “a Fallen-wizard must not use starter movement,” not that they may only use region movement. This means they can use Under-deeps movement, and cards like _Belegaer_. See CRF 15, Delayed Rulings/Rulings Monday, [Rulings Effective 12/1/97](/original/rulings/crf-15/#rulings-effective-12197)
+[^crf-manifestation]: A Fallen-wizard (nor any other player) may not have two resource manifestations of the same unique resource in his deck. See CRF 15, Rulings by Term, [Manifestations](/original/rulings/crf-15/#manifestations)
+[^crf-company]: If all characters in a company are removed from the company, all resource permanent-events played on the company as a whole are discarded. See CRF 15, Rulings by Term, [Company](/original/rulings/crf-15/#company)
