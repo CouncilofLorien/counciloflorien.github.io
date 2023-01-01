@@ -883,7 +883,7 @@ Tournament rulings are modifications and additions to the rules presented in the
  - _Blackbole_ may attack in company vs. company combat, but he may not defend.
 
 #### The Black Enemy's Wrath
- - See Rulings by Term, [Card Effect Limitations(/original/rulings/crf-15/#card-effect-limitations).
+ - See Rulings by Term, [Card Effect Limitations](/original/rulings/crf-15/#card-effect-limitations).
 
 #### Black Rain
  - A Fallen-wizard may use this to play a hero ring item, but a Ringwraith player could not.
