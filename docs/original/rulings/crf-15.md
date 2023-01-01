@@ -438,7 +438,7 @@ If you have any further questions concerning _MECCG_, you can either:
  - When a card is discarded, so are all permanent-events on that card.
  - Cards discarded from a player's hand must be discarded one at a time. This is mainly to allow a Pallando player to see each card as it is discarded.
  - Whenever a character is discarded, all non-follower cards played with that character are also discarded.
- - If a card leaves active play, including being returned to a player's hand, it immediately ceases having an effect on play. [\[effective 11/3/97]](/original/rulings/crf-15/#rulings-effective-11397)
+ - If a card leaves active play, including being returned to a player's hand, it immediately ceases having an effect on play. [\[effective 11/3/97\]](/original/rulings/crf-15/#rulings-effective-11397)
  - Cards in the discard pile do not remember how they were played.
 
 #### Dragons
