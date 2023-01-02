@@ -275,7 +275,7 @@ When one of your agents attacks it is considered to be the _attacker_ and it has
      - If at his home site, his prowess is modified by +5 for that attack **and** his body is modified by +l **and** the attacker chooses defending characters.
      - If _not_ at his home site, his prowess is modified by +2 for that attack.<br>If a face-down agent attacks as the result of the play of a card, the agent is considered to be face-down when the attack is declared.
  - If the agent is _face-up at his home site_ when the attack is declared, his prowess is modified by +2 for that attack **and** his body is modified by +1.
- - Agent attacks against minions are always detainment.[^crf-errata-agent-detainment] See [The Lidless Eye, Starter Rules, 7 • COMBAT, "Detainment" attacks](/original/rulebooks/the-lidless-eye/#detainment-attacks)
+ - Agent attacks against minions are always detainment.[^crf-errata-agent-detainment] See also [_MELE_, "Detainment" attacks](/original/rulebooks/the-lidless-eye/#detainment-attacks)
  - After the combat, the agent remains in play **and** it must be face-up and tapped _or_ face-up and wounded.
 
 {: .note }
