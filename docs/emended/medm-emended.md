@@ -12,7 +12,7 @@ permalink: /emended/dark-minions/
 {: .text-center .text-beta }
 EMENDED RULESBOOK
 
-The _Middle-earth: Dark Minions_ Emended Rulesbook incorporates official errata and clarifications. 
+These rules incorporate official errata and clarifications. All emendations are annotated.
 
 {: .text-center .text-gamma .mt-4 }
 CONTENTS
