@@ -12,6 +12,8 @@ permalink: /emended/metw-emended/
 {: .text-center .text-beta }
 EMENDED RULESBOOK
 
+The _Middle-earth: The Wizards_ Emended Rulesbook incorporates official errata and clarifications. 
+
 {: .text-center }
 ***"Do not meddle in the affairs of wizards&mdash;***<br>
 ***for they are subtle and quick to anger."***<br><br>
