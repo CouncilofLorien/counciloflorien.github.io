@@ -103,6 +103,8 @@ Certain entities (e.g., the Balrog, Gollum, Lobelia, etc.) have several differen
  - If an attack from a manifestation is defeated, the manifestation is removed from play and you may not play any further manifestations of the same entity.
 
 {: .note }
+> **Note:** The hero version of a unique item is a manifestation of the same minion version of the item and vice versa.[^mele-card-and-decks]
+> 
 > **Clarification:** A Fallen-wizard (nor any other player) may not have two resource manifestations of the same unique resource in his deck.[^crf-manifestation]
 > 
 > **Exception:** Different manifestations of the same unique Dragon may be in play at the same time.
@@ -357,3 +359,4 @@ Any hazard creature you play as an automatic-attack is discarded if defeated—i
 [^crf-fw-under-deeps-movement]: The _MEWH_ hand rules need errata. They should read that “a Fallen-wizard must not use starter movement,” not that they may only use region movement. This means they can use Under-deeps movement, and cards like _Belegaer_. See CRF 15, Delayed Rulings/Rulings Monday, [Rulings Effective 12/1/97](/original/rulings/crf-15/#rulings-effective-12197)
 [^crf-manifestation]: A Fallen-wizard (nor any other player) may not have two resource manifestations of the same unique resource in his deck. See CRF 15, Rulings by Term, [Manifestations](/original/rulings/crf-15/#manifestations)
 [^crf-company]: If all characters in a company are removed from the company, all resource permanent-events played on the company as a whole are discarded. See CRF 15, Rulings by Term, [Company](/original/rulings/crf-15/#company)
+[^mele-card-and-decks]: The hero version of a unique item is a manifestation of the same minion version of the item and vice versa. See _MELE_, [THE CARDS AND DECKS](/original/rulebooks/the-lidless-eye/#2--the-cards-and-decks-2).
