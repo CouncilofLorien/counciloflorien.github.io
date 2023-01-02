@@ -186,8 +186,7 @@ J. Whitehouse, Jon Whitney, and Mark Wightman
 
 ---
 
-{: .text-center .text-gamma }
-FOOTNOTES
+## FOOTNOTES
 
 [^capture]: There is no _Capture_ keyword in _MECCG_.
 [^crf-terms-ahunt]: See CRF 15, Rulings by Term, [Ahunt Manifestations](/original/rulings/crf-15/#ahunt-manifestations)
