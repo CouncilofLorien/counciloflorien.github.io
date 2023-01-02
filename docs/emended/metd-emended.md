@@ -17,7 +17,7 @@ _The Dragons_ Emended Rulesbook provides the published text with additions and e
 {: .text-center .text-gamma .mt-4 }
 CONTENTS
 
-| [KEY WORDS AND TERMS](#key-words-and-terms-clarification)<br>[DRAGON LAIRS](#dragon-lairs)<br>[HOARDS](#hoards)<br>[MANIFESTATIONS OF DRAGONS](#manifestations-of-dragons)<br>[HAZARD LIMIT](#hazard-limit-clarification)<br> | [CHARACTERS FACING MULTIPLE STRIKES](#characters-facing-multiple-strikes)<br>[REMOVING CORRUPTION CARDS](#removing-corruption-cards)<br>[THE SIDEBOARD](#the-sideboard)<br>[REGION MOVEMENT LIMITATION](#region-movement-limitation)<br>[MANY A GLEAMING GOLDEN HOARD Scenario](#many-a-gleaming-golden-hoard) |
+| [KEY WORDS AND TERMS](#key-words-and-terms-clarification)<br>[DRAGON LAIRS](#dragon-lairs)<br>[HOARDS](#hoards)<br>[MANIFESTATIONS OF DRAGONS](#manifestations-of-dragons)<br>[HAZARD LIMIT](#hazard-limit-clarification)<br> | [CHARACTERS FACING MULTIPLE STRIKES](#characters-facing-multiple-strikes)<br>[REMOVING CORRUPTION CARDS](#removing-corruption-cards)<br>[THE SIDEBOARD](#the-sideboard)<br>[REGION MOVEMENT LIMITATION](#region-movement-limitation)<br>[MANY A GLEAMING GOLDEN HOARD](#many-a-gleaming-golden-hoard) |
 
 This insert provides expansion rules, clarifications, and a scenario for use with both _Middle-earth: The Wizards_ (_METW_) and _Middle-earth: The Dragons_ (_METD_). These rules are recommended for all _METW_ games even if _METD_ is not used.
 
