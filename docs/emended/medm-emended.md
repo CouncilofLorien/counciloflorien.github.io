@@ -7,6 +7,10 @@ search_exclude: true
 permalink: /emended/dark-minions/
 ---
 
+The Dark Minions Emended Rulesbook provides the published text with additions and emendations from offiicial errata and clarifications. 
+
+---
+
 # MIDDLE-EARTH: DARK MINIONS
 
 {: .text-center .text-beta }
@@ -156,11 +160,7 @@ An agent can be thought of as a _hazard_ that acts as a creature with the follow
 An agent is always located at a site. Once an agent has been revealed _or_ has moved to a site that is not one of its home sites, one of your site cards must be used for this purpose. A face-up agent's site card must always be face-up. Agents move and operate alone (i.e., they do not move and operate in "companies").
 
 {: .note }
-> **Notice:** Certain hazard events have play-conditions which require an agent at a target company's new site (e.g., _An Article Missing_, _Cunning Foes_, and _To Get You Away_).
-> 
-> **Clarification:** A non-moving company’s current site is considered its new site for card play.[^crf-current-site]
-> 
-> **Notice:** The hazard agents _Anarin_ and _The Grimburgoth_ have special _Agent only_ abilities that allow them to tap at a company's new site. Such special abilities are not "card play" and cannot be used at a non-moving company's current site. 
+> **Clarification:** Certain hazard events require an agent at a target company's new site (e.g., _An Article Missing_, _Cunning Foes_, and _To Get You Away_). A non-moving company’s current site is considered its new site for card play.[^crf-current-site]
 
 Each agent is unique—all normal rules apply. If a specific agent is in play face-up and a second, identical agent is turned face-up (i.e., it is revealed), the second agent is immediately discarded.
 
@@ -226,8 +226,6 @@ When one of your agents and its site cards are revealed, all site cards other th
 
 {: .note }
 > **Clarification:** When an agent is revealed, only the site he is at will be affected by environment cards.[^crf-terms-agent]
-> 
-> **Notice:** When sites are removed from an agent they are returned to the location deck. An agent's site that is tapped is **not** discarded when it is removed. 
 
 #### Playing Creatures at an Agent's Site (_Agent Action_)
 
@@ -259,8 +257,6 @@ This attack is declared and enacted at the start of the site phase immediately f
 > 
 > **Clarification:** Playing a card that makes an agent attack is considered the attack’s declaration.[^crf-terms-agent]
 > 
-> **Notice:** Automatic-attacks and on-guard creatures are declared at Step 1 of the site phase (See [_MELE_, 7 • COMBAT](/original/rulebooks/the-lidless-eye/#7--combat) and [_MELE_, Placing a Card On-guard](/original/rulebooks/the-lidless-eye/#placing-a-card-on-guard). Then the automatic-attacks and any on-guard creature attacks are resolved at Step 2 of the site phase (See [_MELE_ Site Phase](/original/rulebooks/the-lidless-eye/#site-phase). An attack by an agent is declared in Step 2 after the automatic-attacks and any on-guard attacks are resolved (see also the example below). It is not until Step 3 of the site phase that a company may attempt to play one item, ally, faction, or information resource card that is “playable” at that site.
-> 
 > **Clarification:** Play of an ally, item, faction, or resource card which will normally tap the site must be after the company resolves all automatic, agent and on-guard creature attacks.[^crf-site-phase-general]
 
 #### Resolving Combat With an Agent
@@ -278,8 +274,6 @@ When one of your agents attacks it is considered to be the _attacker_ and it has
 
 {: .note }
 > **Note:** Agents are **not** characters—you may not play resource cards to modify an agent's prowess (e.g., a _Risky Blow_ will not affect an agent's prowess). Hazard cards affect an agent attack normally.
-> 
-> **Notice:** A tapped agent's prowess is not modified by -1.
 > 
 > **Clarification:** To wound an agent you only need to defeat the prowess of one strike. To eliminate an agent you must defeat the prowess and body for all strikes.[^crf-terms-agent]
 > 
@@ -330,17 +324,11 @@ Any hazard creature you play as an automatic-attack is discarded if defeated—i
 > **Clarification:** Creatures revealed as automatic-attacks do not count as creatures.[^crf-under-deeps-creatures]
 > 
 > **Clarification:** Automatic-attacks that allow the revealing of creature cards are not stopped by _Stealth_ or _Secret Entrance_.[^crf-under-deeps-stealth]
-> 
-> **Notice:** Combat consisting of one or more automatic-attacks, including creatures played as automatic-attacks, occurs when a company decides to enter the site at Step 1 (see [_MELE_, 7 • COMBAT](/original/rulebooks/the-lidless-eye/#7--combat)). The automatic-attacks attack the company at Step 2. (see [_MELE_, Site Phase](/original/rulebooks/the-lidless-eye/#site-phase)). This means that any creature played as an automatic-attack is played when the company enters the site (Step 1 of the site phase) such that its attack is declared along with any other automatic-attacks.
 
 ---
 
 {: .text-center .text-gamma }
-NOTES
-
-The Emended Rules provide the published text with additions and emendations from offiicial errata and clarifications along with corrections to minor typographical, grammatical, clerical, and typesetting issues. Typically, errata will be reflected directly in the text while clarifications will be below the text and labeled "**Clarification**." Certain clarifications are given directly in the text when appropriate. All changes in the wording of the text are annotated but corrections to minor issues are not. 
-
-The Emended Rules also include notices and comments beyond the official errata and clarifications. A **Notice** calls attention to certain rules or cards. A **Comment** explains a rule. 
+FOOTNOTES
 
 [^crf-minion-characters]: Minion characters are not affected by cards that target agents. See [CRF, Rulings by Term, Minion Characters](/original/rulings/crf-15/#minion-characters)
 [^crf-terms-agent]: See [CRF 15, Rulings by Term, Agents](/original/rulings/crf-15/#agent).
