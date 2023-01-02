@@ -51,11 +51,6 @@ Smaug  |  The Lonely Mountain  |  Northern Rhovanion
 Certain items are _hoard items_. Such an item may only be played at a site that contains a hoard. Each site which had a Dragon automatic-attack at the beginning of the turn contains a hoard.[^dragon-hoard-errata] A hoard minor item may not be included with a starting company, and may not be played at a site that does not contain a hoard.
 
 {: .note }
-> **Comment:** The rule "_Each site which had a Dragon automatic-attack at the beginning of the turn contains a hoard_" replaces an original rule stating "_Each site with a Dragon automatic-attack (i.e., each Dragon’s Lair) contains a hoard._" The original rule meant that a site would not contain a hoard if an _At Home_ dragon automatic-attack were defeated because that causes the Dragon’s lair to no longer have a Dragon automatic-attack. The rule was changed to enable hoard items to be played on the same turn that a unique Dragon manifestation was defeated. There is no indication that the new rule was intended to require the Dragon's lair site to have been in play at the beginning of the turn.
-> 
-> **Notice:** Only sites which had a Dragon automatic-attack at the _beginning_ of the turn contain a hoard. Sites which gain a Dragon automatic-attack (e.g., by playing a Dragon as an automatic-attack; see [_MEDM_ Creatures as Automatic-attacks](/emended/dark-minions/#creatures-as-automatic-attacks)) do not contain a hoard.
-
-{: .note }
 > **Example:** You can not play a hoard minor item at Wellinghall after successfully influencing the _Ents of Fangorn_ like you can with a normal minor item. Wellinghall does not contain a hoard.
 
 ### MANIFESTATIONS OF DRAGONS
@@ -74,9 +69,6 @@ Each of the nine unique Dragons (see above) has four[^four-manifestations] diffe
 **Roused**[^roused] (from _MELE_ and _MEAS_) — In this manifestation a Dragon is considered to have joined forces with a player. Each of these manifestations is represented by a minion faction resource that gives marshalling points and will attack an opponent's companies moving in the same set of regions as the Ahunt manifestation normally attacks.
 
 Different manifestations of the same Dragon may be in play at the same time. The fact that each manifestation is unique unto itself does not preclude the other manifestations.
-
-{: .note }
-> **Notice:** This same rule is also an exception to the [MANIFESTATION rules in _Dark Minions_](/original/rulebooks/dark-minions/#manifestations).
 
 Only your opponent can receive marshalling points from defeating a manifestation of a Dragon that you played. If you defeat a Dragon manifestation that you played, it is removed from the game and no one receives its marshalling points. 
 
@@ -107,8 +99,6 @@ If at any time an attack from a manifestation of a unique Dragon is defeated or 
 The base hazard limit is determined (i.e., set) simultaneously at the moment a company reveals its new site or otherwise announces it is beginning its movement/hazard phase. Any cards which modify a company's hazard limit played prior to this point are then immediately applied to the company's base hazard limit in the order chosen by the player controlling the company. With such modifications established, any cards played after this point are interpreted in the order they are resolved. Any effects which modify the hazard limit against a company during its site phase are ignored. Any reduction in the hazard limit during a movement/hazard phase does not affect cards already announced and played.
 
 {: .note }
-> **Comment:** Here, "announced and played" means "declared and resolved."
->
 > **Clarification:** The hazard limit is checked at declaration and resolution. At declaration there must be fewer hazards already declared than the hazard limit. At resolution there must be no more hazards declared than the hazard limit.[^crf-turn-hazard-limit]
 
 ### CHARACTERS FACING MULTIPLE STRIKES
@@ -195,11 +185,7 @@ J. Whitehouse, Jon Whitney, and Mark Wightman
 ---
 
 {: .text-center .text-gamma }
-NOTES
-
-The Emended Rules provide the published text with additions and emendations from offiicial errata and clarifications along with corrections to minor typographical, grammatical, clerical, and typesetting issues. Typically, errata will be reflected directly in the text while clarifications will be below the text and labeled "**Clarification**." Certain clarifications are given directly in the text when appropriate. All changes in the wording of the text are annotated but corrections to minor issues are not. 
-
-The Emended Rules also include notices and comments beyond the official errata and clarifications. A **Notice** calls attention to certain rules or cards. A **Comment** explains a rule. 
+FOOTNOTES
 
 [^capture]: There is no _Capture_ keyword in _MECCG_.
 [^crf-terms-ahunt]: See CRF 15, Rulings by Term, [Ahunt Manifestations](/original/rulings/crf-15/#ahunt-manifestations)
