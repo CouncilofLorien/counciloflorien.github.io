@@ -132,4 +132,15 @@ $hero-resource-text-300: #f0ead5;
     height: 100px;
     margin-bottom: -100px;
   }
+  
+  .note {
+    page-break-inside: avoid;
+  }
+
+  .note::after {
+    content: "";
+    display: block;
+    height: 100px;
+    margin-bottom: -100px;
+  }
 }
