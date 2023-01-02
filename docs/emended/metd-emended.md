@@ -12,6 +12,8 @@ permalink: /emended/the-dragons/
 {: .text-center .text-beta }
 EMENDED RULESBOOK
 
+_The Dragons_ Emended Rulesbook provides the published text with additions and emendations from offiicial errata and clarifications. 
+
 {: .text-center .text-gamma }
 CONTENTS
 
