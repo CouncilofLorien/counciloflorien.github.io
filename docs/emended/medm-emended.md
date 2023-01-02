@@ -110,7 +110,8 @@ Certain entities (e.g., the Balrog, Gollum, Lobelia, etc.) have several differen
 > **Exception:** Different manifestations of the same unique Dragon may be in play at the same time.
 > 
 > **Note:** If one card says that it is the manifestation of another card, these restrictions apply to both cards.
-> 
+
+{: .note }
 > **Example:** _Gollum_ (the ally manifestation of Gollum) is in play with one of your characters. So, neither you nor your opponent can play _My Precious_ (the agent manifestation of Gollum) until _Gollum_ is discarded. If your _Gollum_ is eliminated, _My Precious_ and your opponent's _Gollum_ (if any) may never be
 played.
 
