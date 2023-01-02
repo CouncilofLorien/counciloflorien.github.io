@@ -7,14 +7,17 @@ search_exclude: true
 permalink: /emended/dark-minions/
 ---
 
-The Dark Minions Emended Rulesbook provides the published text with additions and emendations from offiicial errata and clarifications. 
-
----
-
 # MIDDLE-EARTH: DARK MINIONS
 
 {: .text-center .text-beta }
 EMENDED RULESBOOK
+
+The _Dark Minions_ Emended Rulesbook provides the published text with additions and emendations from offiicial errata and clarifications. 
+
+{: .text-center .text-gamma }
+CONTENTS
+
+| &emsp;[Minion Cards (_Clarification_)][#minion-cards-clarification]<br>&emsp;[Permanent-events (_Clarification_)](#permanent-events-clarification)<br>&emsp;[Placement of cards “off to the side” (_Clarification_)](#placement-of-cards-off-to-the-side-clarification)<br>[THE UNDER-DEEPS](#the-under-deeps)<br>&emsp;[Under-deep Site Movement](#under-deep-site-movement)<br>[MANIFESTATIONS](#manifestations)<br>[TAKING PRISONERS](#taking-prisoners)<br>&emsp;[Rescue and the Rescue-attack](#rescue-and-the-rescue-attack)<br>[AGENTS](#agents)<br>&emsp;[Untapping an Agent](#untapping-an-agent) | &emsp;[Playing an Agent](#playing-an-agent)<br>&emsp;[Agent Actions](#agent-actions)<br>&emsp;[Moving an Agent](#moving-an-agent-agent-action)<br>&emsp;[Revealing an Agent](#revealing-an-agent)<br>&emsp;[Playing Creatures at an Agent’s Site](#playing-creatures-at-an-agents-site-agent-action)<br>&emsp;[Attacking With an Agent](#attacking-with-an-agent)<br>&emsp;[Resolving Combat With an Agent](#resolving-combat-with-an-agent)<br>&emsp;[Marshalling Points from Agents](#marshalling-points-from-agents)<br>&emsp;[Influencing With an Agent](#influencing-with-an-agent)<br>[CREATURES AS AUTOMATIC-ATTACKS](#creatures-as-automatic-attacks) |
 
 This insert provides expansion rules and clarifications for use with all _Middle-earth Collectible Card Game_ (_MECCG_) products.
 
@@ -327,8 +330,7 @@ Any hazard creature you play as an automatic-attack is discarded if defeated—i
 
 ---
 
-{: .text-center .text-gamma }
-FOOTNOTES
+## FOOTNOTES
 
 [^crf-minion-characters]: Minion characters are not affected by cards that target agents. See [CRF, Rulings by Term, Minion Characters](/original/rulings/crf-15/#minion-characters)
 [^crf-terms-agent]: See [CRF 15, Rulings by Term, Agents](/original/rulings/crf-15/#agent).
