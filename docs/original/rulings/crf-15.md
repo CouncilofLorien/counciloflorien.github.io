@@ -144,7 +144,7 @@ If you have any further questions concerning _MECCG_, you can either:
 
 #### Playing Hazards
 
- -  Some hazard permanent-events allow you to tap or discard them for an effect, and this does not count against the hazard limit unless specified otherwise on the card. [\[effective 11/17/97]\](#rulings-effective-111797)
+ -  Some hazard permanent-events allow you to tap or discard them for an effect, and this does not count against the hazard limit unless specified otherwise on the card. [\[effective 11/17/97\]](#rulings-effective-111797)
  -  Hazards may only be played on a company whose movement/hazard phase is being resolved, or on the site they are moving to. Long-events and permanent-events may effect more than one company even though they are only played "on" one company.
  -  If a card must be keyed to two or more instances of a region type, those region types do not have to be consecutive in the site path.
  -  If you say you are done playing hazards and your opponent plays a resource before the movement/hazard phase ends, you may then resume playing hazards, assuming you have not yet reached the hazard limit.
