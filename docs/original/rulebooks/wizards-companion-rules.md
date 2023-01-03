@@ -4,7 +4,7 @@ title: METW Companion
 parent: Rulebooks
 grand_parent: Original Rules
 nav_order: 2
-permalink: /original/rulebooks/wizard-companion-rules/
+permalink: /original/rulebooks/metw-companion/
 ---
 
 # MIDDLE-EARTH<br>THE WIZARDS COMPANION
