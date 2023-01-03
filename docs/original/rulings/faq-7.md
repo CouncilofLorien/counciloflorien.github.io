@@ -451,7 +451,7 @@ _Quiet lands_: Replace "...is reduced to half its original number (rounded up)."
 
 _Ringlore_: Add "Playable only during the site phase.  Tap the sage and the site."
 
-_Roac the Raven: Remove "-no modifications to the influence check are required." Replace with "-treat this influence check as though it were made by a Diplomat."
+_Roac the Raven_: Remove "-no modifications to the influence check are required." Replace with "-treat this influence check as though it were made by a Diplomat."
 
 _\*Sacrifice of Form_:  Replace "-3 to any body checks..." with "+3 to any body checks..."
 
