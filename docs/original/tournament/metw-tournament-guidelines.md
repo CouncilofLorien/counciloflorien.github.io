@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Policy #3 (May 1998)"
-nav_order: 1
+title: "Tournament Guidelines"
+nav_order: 4
 parent: Tournament
 grand_parent: Original Rules
 search_exclude: false
-permalink: /original/tournament/policy-3/
+permalink: /original/tournament/metw-tournament-guidelines/
 ---
 
 <details>
