@@ -59,13 +59,13 @@ search:
   heading_level: 4
   # Maximum amount of previews per search result
   # Default: 3
-  previews: 3
+  previews: 5
   # Maximum amount of words to display before a matched word in the preview
   # Default: 5
-  preview_words_before: 5
+  preview_words_before: 10
   # Maximum amount of words to display after a matched word in the preview
   # Default: 10
-  preview_words_after: 10
+  preview_words_after: 15
   # Set the search token separator
   # Default: /[\s\-/]+/
   # Example: enable support for hyphenated search words
@@ -93,8 +93,8 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  #"Riddle":
-  #  - "/riddle"
+  "Riddle":
+    - "/riddle"
   #"About":
   #  - "/about"
   #"Just the Docs":
