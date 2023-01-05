@@ -1,7 +1,6 @@
 ---
 layout: card
 title: Lure of Nature
-parent: Cards
 permalink: /cards/lureofnature
 search_exclude: true
 nav_exclude: true
