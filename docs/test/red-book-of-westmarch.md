@@ -1,7 +1,6 @@
 ---
 layout: card
 title: Red Book of Westmarch
-parent: Cards
 search_exclude: true
 nav_exclude: true
 ---
