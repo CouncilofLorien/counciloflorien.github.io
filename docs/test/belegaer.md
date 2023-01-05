@@ -1,7 +1,6 @@
 ---
 layout: card
 title: Belegaer
-parent: Cards
 search_exclude: true
 nav_exclude: true
 ---
