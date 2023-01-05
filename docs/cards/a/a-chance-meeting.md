@@ -3,7 +3,7 @@ layout: default
 title: A Chance Meeting
 grand_parent: Cards
 parent: A
-]permalink: /original/a/a-chance-meeting/
+permalink: /original/a/a-chance-meeting/
 ---
 
 A character (even a Hobbit) may be brought into play with direct influence at any Free-hold \[ ![](/assets/images/free-hold.svg) ], Border-hold \[ ![](/assets/images/border-hold.svg) ] , or Ruins & Lairs \[ ![](/assets/images/ruinlair.svg) ].
