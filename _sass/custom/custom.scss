@@ -60,6 +60,11 @@ $hero-resource-text-300: #f0ead5;
   font-variant: small-caps;
 }
 
+.float-right {
+  width: 50%;
+  float: right;
+}
+
 .contact-form {
   input[type="text"],
   input[type="email"],
