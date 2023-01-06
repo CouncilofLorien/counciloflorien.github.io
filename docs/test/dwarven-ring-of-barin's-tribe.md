@@ -6,7 +6,11 @@ nav_exclude: true
 permalink: /cards/dwarven-ring-of-barin's-tribe/
 ---
 
-Hero Resource
+### Test
+
+<div style="float: left">4(6)</div>
+<div style="float: right"; class="card-name"></div>
+<div style="text-align: center">Dwarven Ring of Barin's Tribe</div>
 
 ### _Middle-earth: The Wizards (Unlimited)_
 
@@ -22,10 +26,7 @@ Special Item
 _Unique. Dwarven Ring._ ***Playable only with a Gold Ring and after a test indicates a Dwarven Ring.*** Values in parentheses and brackets apply to a Dwarf bearer. Tap a Dwarf bearer to search your play deck for a major item playable at the bearer's site. Play this item immediately or discard; reshuffle the play deck. Bearer makes a corruption check modified by +2.
 
 {: .fs-5 } 
-+2(4)/+1
-
-{: .fs-5 .text-right }
-3(5)
++2(4)**/**+1
 
 ### _Middle-earth: The Wizards (Limited)_
 
