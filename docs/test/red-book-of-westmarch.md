@@ -9,6 +9,7 @@ permalink: /cards/red-book-of-westmarch/
 {: .fs-6 .mb-2 .card-name .text-center }
 Red Book of Westmarch
 
+{: .px-4 .px-sm-8 }
 \[+2![](/assets/images/di.svg)]
  
 {: .card-name .px-4 .px-sm-8 }
