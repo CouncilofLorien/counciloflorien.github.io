@@ -6,23 +6,15 @@ nav_exclude: true
 permalink: /cards/red-book-of-westmarch
 ---
 
-<style>
-card-name {
-  font-weight: 200;
-  font-variant: small-caps;
-  color: white;
-  text-shadow: 1px 1px 1px #000;
-}
-
-</style>
-
 {: .fs-6 .mb-2 .p-1 .card-name }
 Red Book of Westmarch
 
 \[+2![](/assets/images/di.svg)]
  
-<card-name>Special Item</card-name>
- 
+{: .card-name }
+Special Item
+
+{: .p-6 }
 _Unique._ ***Only playable at Bag End*** +2 to direct influence against a Hobbit character or faction. 1 marshalling point if stored at a Haven \[![](/assets/images/free-haven.svg)].
  
 {: .fs-3 }
