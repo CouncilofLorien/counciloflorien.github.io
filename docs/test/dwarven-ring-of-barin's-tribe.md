@@ -21,10 +21,10 @@ Special Item
 {: .px-4 .px-sm-8 }
 _Unique. Dwarven Ring._ ***Playable only with a Gold Ring and after a test indicates a Dwarven Ring.*** Values in parentheses and brackets apply to a Dwarf bearer. Tap a Dwarf bearer to search your play deck for a major item playable at the bearer's site. Play this item immediately or discard; reshuffle the play deck. Bearer makes a corruption check modified by +2.
 
-{: .fs-4 } 
+{: .fs-5 } 
 +2(4)/+1
 
-{: .fs-4 .text-right }
+{: .fs-5 .text-right }
 3(5)
 
 ### _Middle-earth: The Wizards (Limited)_
