@@ -58,6 +58,7 @@ $hero-resource-text-300: #f0ead5;
 .card-name {
   font-weight: 200;
   font-variant: small-caps;
+  @include fs-6;
 }
 
 .float-right {
