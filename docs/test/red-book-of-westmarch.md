@@ -3,6 +3,7 @@ layout: card
 title: Red Book of Westmarch
 search_exclude: true
 nav_exclude: true
+permalink: /cards/red-book-of-westmarch
 ---
 
 <style>
@@ -17,7 +18,7 @@ card-name {
 
 {: .hero-resource .mr-sm-8 .mb-4 }
 > {: .hero-resource-name .text-center .fs-6 .mb-2 .p-1 }
-> > (1) <card-name>Red Book of Westmarch</card-name>
+> > <card-name>Red Book of Westmarch</card-name>
 > 
 > \[+2![](/assets/images/di.svg)]
 > 
