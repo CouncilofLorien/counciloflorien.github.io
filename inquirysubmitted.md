@@ -2,7 +2,7 @@
 layout: default
 title: Riddle Submitted
 nav_exclude: true
-permalink: /riddlesubmitted
+permalink: /riddlesubmitted/
 ---
 
 _Make for Lorien. There I hope we may meet again. If I do not come, Galadriel will advise you. You may meet a friend of mine on the Road: a Man, Ranger/Sage, by some called the King's Writer. He knows our business and will help you._
