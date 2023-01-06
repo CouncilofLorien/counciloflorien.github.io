@@ -58,7 +58,29 @@ $hero-resource-text-300: #f0ead5;
 .card-name {
   font-weight: 200;
   font-variant: small-caps;
+  text-align: center;
   @include fs-6;
+}
+
+.card-mp {
+  text-align: center
+  float: left;
+  @include fs-6;
+}
+
+.card-classification {
+  font-weight: 200;
+  font-variant: small-caps;
+}
+
+.card-shield {
+  float: left;
+  @include fs-5;
+}
+
+.card-corruption {
+  float: right;
+  @include fs-5;
 }
 
 .float-right {
