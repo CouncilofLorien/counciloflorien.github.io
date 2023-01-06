@@ -9,7 +9,6 @@ permalink: /cards/dwarven-ring-of-barin's-tribe/
 ### Test
 
 <div style="float: left">4(6)</div>
-<div style="float: right"></div>
 <div class="card-name" style="text-align: center">Dwarven Ring of Barin's Tribe</div>
 
 +2![](/assets/images/di.svg) \[7![](/assets/images/di.svg)]
@@ -18,8 +17,7 @@ permalink: /cards/dwarven-ring-of-barin's-tribe/
 _Unique. Dwarven Ring._ ***Playable only with a Gold Ring and after a test indicates a Dwarven Ring.*** Values in parentheses and brackets apply to a Dwarf bearer. Tap a Dwarf bearer to search your play deck for a major item playable at the bearer's site. Play this item immediately or discard; reshuffle the play deck. Bearer makes a corruption check modified by +2.
 
 <div style="float: left">+2(4)/+1</div>
-<div style="float: right">3(5)</div>+
-
+<div style="float: right">3(5)</div>
 
 ### _Middle-earth: The Wizards (Unlimited)_
 
