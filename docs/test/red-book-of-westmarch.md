@@ -8,8 +8,11 @@ permalink: /cards/red-book-of-westmarch/
 
 ### _Middle-earth: The Wizards (Unlimited)_
 
-{: .fs-6 .mt-4 .mb-2 .card-name .text-center }
+{: .fs-6 .mt-4 .card-name .text-center }
 Red Book of Westmarch
+
+{: .fs-2 .card-name .text-center }
+Hero Resource
 
 {: .px-4 .px-sm-8 }
 \[+2![](/assets/images/di.svg)]
@@ -28,7 +31,7 @@ _**---LotR I**_
 
 ### _Middle-earth: The Wizards_ (_Limited_)
 
-{: .fs-6 .mt-4 .mb-4 .card-name .text-center }
+{: .fs-6 .mt-4 .mb-2 .card-name .text-center }
 Red Book of Westmarch
 
 {: .px-4 .px-sm-8 }
