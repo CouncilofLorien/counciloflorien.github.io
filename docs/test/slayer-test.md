@@ -7,11 +7,11 @@ nav_exclude: true
 
 ### _Middle-earth: The Wizards (Limited)_
 
-{: .fs-6 .mt-4 .mb-2 .card-name .text-center }
-Slayer
+{: .fs-6 .mt-4 .mb-2 .card-name }
+0 emsp; Slayer
 
 {: .px-4 .px-sm-8 }
-![](/assets/images/border-land.svg)<br><br>[](/assets/images/border-hold.svg)
+![](/assets/images/border-land.svg)<br><br>![](/assets/images/border-hold.svg)
  
 {: .card-name .px-4 .px-sm-8 .text-right }
 Creature
@@ -24,6 +24,8 @@ _"In one of the windows he caught a glimpse of a sallow face with sly, slanting 
 
 {: .px-4 .px-sm-8 .fs-3 .text-right }
 _**---LotR I**_
+
+11/--
 
 ### The Wizards (Limited)
 
