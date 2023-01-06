@@ -8,9 +8,11 @@ nav_exclude: true
 ### _Middle-earth: The Wizards (Unlimited)_
 
 {: .fs-6 .mt-4 .mb-2 .card-name }
-2 &emsp; Slayer
+2&emsp;Slayer
 
-![](/assets/images/border-land.svg)&emsp;![](/assets/images/border-hold.svg)
+![](/assets/images/border-land.svg)
+
+![](/assets/images/border-hold.svg)
  
 {: .card-name .px-4 .px-sm-8 .text-right }
 Creature
