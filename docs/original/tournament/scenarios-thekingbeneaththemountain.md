@@ -30,13 +30,13 @@ You are a Dwarf lord gathering a host of companions to your side. Who will marsh
 {: .float-right }
 ![](/assets/images/IronHillDwarves.png)
 
-{: .float-right }
-![](/assets/images/BlueMountainDwarves.png)
-
 - Only marshalling points from Dwarven factions, Dwarf characters, items, and defeated creatures count towards victory.
 - Marshalling points for Dwarven factions are doubled if you control both the _Iron Hill Dwarves_ and the _Blue Mountain Dwarves_.
 
 ### Victory Conditions
+
+{: .float-right }
+![](/assets/images/BlueMountainDwarves.png)
 
 Once you have exhausted your play deck once, you may bid for a victory at the end of any turn if you have 22 marshalling points **and** five or more Dwarf characters in play. At this point, each of your characters makes a corruption check outside of the turn sequence. If you still have at least 18 marshalling points after these checks, the Lonely Mountain achieves a grandeur unrivalled, and you win automatically. 
 
