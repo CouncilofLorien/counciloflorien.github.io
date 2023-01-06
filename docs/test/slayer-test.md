@@ -25,6 +25,7 @@ _"In one of the windows he caught a glimpse of a sallow face with sly, slanting 
 {: .px-4 .px-sm-8 .fs-3 .text-right }
 _**---LotR I**_
 
+{: .fs-6 }
 11/--
 
 ### The Wizards (Limited)
