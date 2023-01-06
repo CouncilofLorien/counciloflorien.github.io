@@ -15,8 +15,8 @@ permalink: /riddle
 
 <div class="contact-form">
 <form method="post" action="https://forms.un-static.com/forms/870c9fca8c1e2d184592d226cb8a21c725eed1a1">
-  <input type="text" name="name" placeholder="Known as" required>
-  <input type="email" name="email" placeholder="Address" required>
+  <input type="text" name="name" placeholder="Your name in the West that is forgotten" required>
+  <input type="email" name="email" placeholder="Site path to your nearest Haven" required>
   <textarea name="message" placeholder="Inside, written in strong but graceful script, was the following riddle:" cols="50" rows="5" required></textarea>
   <br>
   <button type="submit" class="btn">Riddle</button>
