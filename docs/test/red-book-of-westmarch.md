@@ -6,12 +6,12 @@ nav_exclude: true
 permalink: /cards/red-book-of-westmarch
 ---
 
-{: .fs-6 .mb-2 .p-1 .card-name }
+{: .fs-6 .mb-2 .card-name .text-center }
 Red Book of Westmarch
 
 \[+2![](/assets/images/di.svg)]
  
-{: .card-name }
+{: .card-name .p-6 }
 Special Item
 
 {: .p-6 }
