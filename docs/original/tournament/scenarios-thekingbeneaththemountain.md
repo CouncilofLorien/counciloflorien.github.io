@@ -9,8 +9,6 @@ permalink: /original/tournament/the-king-beneath-the-mountains/
 
 # Scenarios
 
-<div style="text-align: center"></div>
-
 {: .text-center }
 ## The King beneath the Mountains
 
@@ -23,12 +21,19 @@ The king of friend and kin has need.
 _—The Hobbit_
 {: .px-8 .fs-4 .fw-500 .text-center }
 
-<a href="/assets/images/IronHillDwarves.png"><img align="right" src="/assets/images/IronHillDwarves.png" width="150" hspace="0" vspace="0" alt=""></a>With the unexpected fall of the dragon Smaug, Thorin Oakenshield became King under the Mountain. He sent messages to all his folk calling upon them for aid, as his need was great. Yet his kin were few and scattered. Only some might quickly reach him, but all would be needed in time, if Lonely Mountain were again to be made fair.
+With the unexpected fall of the dragon Smaug, Thorin Oakenshield became King under the Mountain. He sent messages to all his folk calling upon them for aid, as his need was great. Yet his kin were few and scattered. Only some might quickly reach him, but all would be needed in time, if Lonely Mountain were again to be made fair.
 
 You are a Dwarf lord gathering a host of companions to your side. Who will marshal the most useful force and gain the favor of the King under the Mountain? Will you be the one to sit at the King's side or will another take your place?
 
 ### Special Rules
-- <a href="/assets/images/BlueMountainDwarves.png"><img align="right" src="/assets/images/BlueMountainDwarves.png" width="150" hspace="10" vspace="10" alt=""></a>Only marshalling points from Dwarven factions, Dwarf characters, items, and defeated creatures count towards victory.
+
+{: .float-right }
+![](/assets/images/IronHillDwarves.png)
+
+{: .float-right }
+![](/assets/images/BlueMountainDwarves.png)
+
+- Only marshalling points from Dwarven factions, Dwarf characters, items, and defeated creatures count towards victory.
 - Marshalling points for Dwarven factions are doubled if you control both the _Iron Hill Dwarves_ and the _Blue Mountain Dwarves_.
 
 ### Victory Conditions
