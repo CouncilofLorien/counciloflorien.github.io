@@ -3,7 +3,7 @@ layout: default
 title: A Chance Meeting
 grand_parent: Cards
 parent: A
-permalink: /original/a/a-chance-meeting/
+permalink: /cards/a/a-chance-meeting/
 ---
 
 <style>
