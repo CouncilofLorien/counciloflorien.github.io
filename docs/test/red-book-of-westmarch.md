@@ -45,13 +45,3 @@ _"...in a single red case, where the three large volumes, bound in red leather, 
 
 {: .px-4 .px-sm-8 .fs-3 .text-right }
 _**---LotR I**_
-
-### Middle-earth: The Wizards (Limited)
-
-| (1) | Red Book of Westmarch | |
-| :----: | ----- | :-----: |
-| \[+2![](/assets/images/di.svg)] | | |
-| | | Special Item |
-| | _Unique._ ***Only playable at Bag End*** +2 to direct influence against a Hobbit character or faction. 1 marshalling point if stored at a Haven \[![](/assets/images/free-haven.svg)]. | |
-| | _"...in a single red case, where the three large volumes, bound in red leather, that Bilbo gave to him as a parting gift..."_<br>_**---LotR I**_ | |
-| --/-- | Middle-earth: The Wizards (Limited) | 1 |
