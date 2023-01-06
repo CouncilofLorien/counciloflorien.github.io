@@ -6,7 +6,7 @@ nav_exclude: true
 permalink: /cards/red-book-of-westmarch/
 ---
 
-### _Middle-earth: The Wizards (Unlimited)
+### _Middle-earth: The Wizards (Unlimited)_
 
 {: .fs-6 .mt-4 .mb-4 .card-name .text-center }
 Red Book of Westmarch
