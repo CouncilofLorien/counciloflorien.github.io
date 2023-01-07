@@ -224,6 +224,12 @@ callouts:
     color: hazard-title
   hazard-text:
     color: hazard-text
+  character:
+    color: character
+  character-frame:
+    color: character-title
+  character-text:
+    color: character-text
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
