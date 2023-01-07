@@ -14,7 +14,7 @@ permalink: /cards/crebain/
 > > <div class="card-name">Crebain&emsp;</div>
 > 
 > {: .pl-2 }
-> ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg) &emsp; ![](/assets/images/ruinlair.svg) ![](/assets/images/shadow-hold.svg) ![](/assets/images/dark-hold.svg) ![](/assets/images/mind.svg) ![](/assets/images/di.svg)
+> ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/ruinlair.svg)&ensp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)&ensp;![](/assets/images/mind.svg)&ensp;![](/assets/images/di.svg)
 > 
 > {: .hero-resource-name .p-1 .card-classification .pr-2 }
 > > Creature
