@@ -88,7 +88,7 @@ $character-text-300: #cfdde8;
   @include fs-6;
 }
 
-.character-name {
+.character-card-name {
   font-weight: 200;
   font-variant: small-caps;
   color: $body-text-color;
@@ -125,9 +125,10 @@ $character-text-300: #cfdde8;
   text-align: right;
 }
 
-.character-classification {
+.character-card-classification {
   font-weight: 200;
   font-variant: small-caps;
+  color: $body-text-color;
   text-shadow: 1px 1px 1px #000;
   text-align: right;
 }
