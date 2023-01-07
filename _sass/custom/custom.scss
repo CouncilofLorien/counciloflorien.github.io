@@ -101,6 +101,11 @@ $hero-resource-text-300: #f0ead5;
   @include fs-5;
 }
 
+.card-corruption-float {
+  float: right;
+  @include fs-5;
+}
+
 .float-right {
   width: 50%;
   float: right;
