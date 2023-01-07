@@ -66,16 +66,25 @@ $hero-resource-text-300: #f0ead5;
 
 .card-mp {
   float: left;
+  color: $body-text-color;
   @include fs-6;
 }
 
-.card-mp-hidden {
-  float: right;
-  //visibility: hidden;
+.hazard-mp {
+  float: left;
+  color: white;
   @include fs-6;
 }
 
 .card-classification {
+  font-weight: 200;
+  font-variant: small-caps;
+  color: white;
+  text-shadow: 1px 1px 1px #000;
+  text-align: right;
+}
+
+.hazard-classification {
   font-weight: 200;
   font-variant: small-caps;
   color: white;
