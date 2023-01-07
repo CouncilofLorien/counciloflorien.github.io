@@ -137,6 +137,7 @@ permalink: /cards/dwarven-ring-of-barin's-tribe/
 > {: .hero-resource-name .mb-2 .p-1 .pr-4 }
 > > <div class="card-mp">4(6)</div>
 > > <div class="card-name">Dwarven Ring of Barin's Tribe&emsp;</div>
+> > <div class="card-mp-hidden">4(6)</div>
 > 
 > +2![](/assets/images/di.svg) \[7![](/assets/images/di.svg)]
 > 
@@ -151,5 +152,3 @@ permalink: /cards/dwarven-ring-of-barin's-tribe/
 > > <div class="card-corruption">3(5)</div>
 > 
 > {: .fs-2 }
-> _**Middle-earth: The Wizards**_
-
