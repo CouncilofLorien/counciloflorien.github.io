@@ -45,5 +45,5 @@ permalink: /cards/dwarven-ring-of-barin's-tribe/
 > {: .hero-resource-name .p-1 .pr-2 .card-shield }
 > > +2(4)/+1
 >
-> {: .hero-resource-name .p-1 .pr-2 .card-corruption } 
+> {: .hero-resource-name .p-1 .pr-2 .card-corruption-float } 
 > > 3(5)
