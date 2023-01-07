@@ -45,7 +45,7 @@ permalink: /cards/crebain/
 > {: .hazard-text .p-4 }
 > > _Animals._ Each character in the company faces one strike.<br>&emsp;After the attack, the defender must reveal one random card from his hand for each character in the defending company.
 > > 
-> > {: .fs-3 }
+> > {: .fs-2 }
 > > _"As they passed overhead, in so dense a throng that their shadow followed them darkly over the ground below, one harsh croak was heard." **---LotRII**_ 
 > 
 > {: .hazard-name .p-1 .pr-2 }
