@@ -230,6 +230,8 @@ callouts:
     color: character-title
   character-text:
     color: character-text
+  character-shield:
+    color: character-shield
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
