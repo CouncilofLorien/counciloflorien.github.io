@@ -29,14 +29,14 @@ permalink: /cards/dwarven-ring-of-barin's-tribe/
 ### _Middle-earth: The Wizards Limited_
 
 {: .hero-resource .mx-sm-4 .mx-lg-8 .mb-4 }
-> {: .hero-resource-name .mb-2 .p-1 }
+> {: .hero-resource-name .mb-4 .p-1 }
 > > <div class="card-mp">4(6)</div>
 > > <div class="card-name">Dwarven Ring of Barin's Tribe</div>
 > 
 > {: .hero-resource-name .p-1 .pl-2 }
 > +2![](/assets/images/di.svg) \[7![](/assets/images/di.svg)]
 > 
-> {: .p-1 .card-classification .pr-2 }
+> {: .card-classification .pr-2 }
 > Special Item
 > 
 > {: .hero-resource-text .p-4 }
