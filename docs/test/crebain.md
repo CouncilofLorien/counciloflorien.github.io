@@ -27,4 +27,4 @@ permalink: /cards/crebain/
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">5/&ndash;</div>
-> > <div class="card-corruption">&ndash;</div>
+> > <div class="card-corruption">&nbsp;</div>
