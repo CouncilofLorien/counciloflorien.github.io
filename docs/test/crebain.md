@@ -59,7 +59,7 @@ permalink: /cards/crebain/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Crebain</div>
 > 
-> {: .hazard-name .pl-4 }
+> {: .hazard-name .p-1 .pl-4 }
 > ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/ruinlair.svg)&ensp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)
 > 
 > {: .hazard-classification .pr-2 }
