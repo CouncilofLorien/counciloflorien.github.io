@@ -26,7 +26,5 @@ permalink: /cards/crebain/
 > > _"As they passed overhead, in so dense a throng that their shadow followed them darkly over the ground below, one harsh croak was heard." **---LotRII**_ 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">5/--</div>
-> > <div class="card-corruption"> </div>
-
-
+> > <div class="card-shield">5/&ndash;</div>
+> > <div class="card-corruption">&ndash;</div>
