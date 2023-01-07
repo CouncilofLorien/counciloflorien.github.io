@@ -25,16 +25,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="12.139473"
-     inkscape:cx="12.160243"
-     inkscape:cy="8.2975739"
+     inkscape:zoom="34.335615"
+     inkscape:cx="6.0684216"
+     inkscape:cy="7.073476"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1338"
      inkscape:window-height="853"
-     inkscape:window-x="32"
-     inkscape:window-y="32"
+     inkscape:window-x="567"
+     inkscape:window-y="67"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata5302">
@@ -53,6 +53,12 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-164.31685,-126.01293)">
+    <circle
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.14868177;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       id="path815"
+       cx="166.31264"
+       cy="128.00182"
+       r="1.9572729" />
     <g
        style="fill:#000000;fill-opacity:1"
        id="g6768-4-7"
