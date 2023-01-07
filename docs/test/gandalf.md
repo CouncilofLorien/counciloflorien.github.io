@@ -25,6 +25,6 @@ permalink: /cards/gandalf/
 > > {: .fs-2 }
 > > _"In his aged face under great snowy brows his eyes were set like coals that could leap suddenly into fire." **---LotRII**_ 
 > 
-> {: .character-frame .p-1 .pr-2 }
+> {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">6/9</div>
 > > <div class="card-corruption">+1</div>
