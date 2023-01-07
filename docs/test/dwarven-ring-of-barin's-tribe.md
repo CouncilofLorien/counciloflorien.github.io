@@ -13,6 +13,7 @@ permalink: /cards/dwarven-ring-of-barin's-tribe/
 > > <div class="card-mp">4(6)</div>
 > > <div class="card-name">Dwarven Ring of Barin's Tribe</div>
 > 
+> {: .pl-4 }
 > +2![](/assets/images/di.svg) \[7![](/assets/images/di.svg)]
 > 
 > {: .hero-resource-name .p-1 .card-classification .pr-2 }
