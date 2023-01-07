@@ -218,6 +218,12 @@ callouts:
     color: hero-resource-title
   hero-resource-text:
     color: hero-resource-text
+  hazard:
+    color: hazard
+  hazard-name:
+    color: hazard-title
+  hazard-text:
+    color: hazard-text
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
