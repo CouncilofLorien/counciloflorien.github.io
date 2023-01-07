@@ -58,6 +58,8 @@ $hero-resource-text-300: #f0ead5;
 .card-name {
   font-weight: 200;
   font-variant: small-caps;
+  color: white;
+  text-shadow: 1px 1px 1px #000;
   text-align: center;
   @include fs-6;
 }
@@ -71,12 +73,21 @@ $hero-resource-text-300: #f0ead5;
 .card-classification {
   font-weight: 200;
   font-variant: small-caps;
-  float: right;
+  color: white;
+  text-shadow: 1px 1px 1px #000;
+  text-align: right;
 }
 
 .card-shield {
   float: left;
   @include fs-5;
+}
+
+.card-set {
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+  @include fs-2;
 }
 
 .card-corruption {
