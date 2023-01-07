@@ -65,8 +65,13 @@ $hero-resource-text-300: #f0ead5;
 }
 
 .card-mp {
-  text-align: center;
   float: left;
+  @include fs-6;
+}
+
+.card-mp-hidden {
+  float: right;
+  visibility: hidden;
   @include fs-6;
 }
 
