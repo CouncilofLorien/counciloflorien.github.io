@@ -55,7 +55,7 @@ permalink: /cards/crebain/
 ### _Middle-earth: The Wizards Limited_
 
 {: .hazard .mx-sm-4 .mx-lg-8 .mb-4 }
-> {: .hazard-name .mb-2 .p-1 }
+> {: .hazard-name .mb-4 .p-1 }
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Crebain</div>
 > 
