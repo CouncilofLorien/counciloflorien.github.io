@@ -232,6 +232,10 @@ callouts:
     color: character-text
   character-shield:
     color: character-shield
+  hero-site:
+    color: hero-site
+  hero-site-text:
+    color: hero-site-text
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
