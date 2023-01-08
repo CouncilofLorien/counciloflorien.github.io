@@ -30,6 +30,6 @@ permalink: /cards/barad-dur/
 > > 
 > > _**Special:**_ Any company moving to Barad-dur has its hazard limit modified by +2.
 > 
-> {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">⟦ 3 <hero-opp-draw> 6 </hero-opp-draw>⟧</div>
+> {: .hero-site-text .p-1 .pr-2 }
+> > <div class="card-shield">⟦ 3 <span style="hero-opp-draw"> 6 </span>⟧</div>
 > > <div class="card-corruption">&nbsp;</div>
