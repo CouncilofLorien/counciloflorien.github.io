@@ -24,7 +24,7 @@ permalink: /cards/barad-dur/
 > > 
 > > _**Playable:**_ Items (minor, major, greater)
 > > 
-> > _**Automatic-attacks (2):**_ 
+> > _**Automatic-attacks (2):**_  
 > > Orcs --- 4 strikes with 7 prowess  
 > > Trolls --- 3 strikes with 9 prowess
 > > 
