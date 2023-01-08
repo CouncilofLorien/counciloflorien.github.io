@@ -9,17 +9,17 @@ permalink: /cards/gandalf/
 ### _Middle-earth: The Wizards Limited_
 
 {: .character .mx-sm-4 .mx-lg-8 .mb-4 }
-> {: .character-frame .mb-4 .p-1 }
+> {: .character-frame .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="character-card-name">Gandalf</div>
 > 
-> {: .character-frame .p-1 .pl-4 }
+> {: .character-frame .p-1 .pl-2 }
 > > 10![](/assets/images/di.svg)
 > 
 > {: .character-card-classification .pr-2 }
 > Warrior/Scout/Sage/Diplomat Wizard
 > 
-> {: .character-text .p-4 }
+> {: .character-text .p-2 }
 > > _**Unique.**_ All of his corruption checks are modified by +1.<br>&emsp;Can tap to "test" a gold ring.
 > > 
 > > {: .fs-2 }
