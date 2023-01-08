@@ -9,17 +9,17 @@ permalink: /cards/barad-dur/
 ### _Middle-earth: The Wizards Limited_
 
 {: .hero-site .mx-sm-4 .mx-lg-8 .mb-4 }
-> {: .hero-site-text .mb-4 .p-1 }
+> {: .hero-site-text .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
 > > <div class="character-card-name">Barad-dur</div>
 > 
-> {: .hero-site-text .p-1 .pl-4 }
+> {: .hero-site-text .p-1 .pl-2 }
 > > ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/free-domain.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg)
 > 
 > {: .character-card-classification .pr-2 }
 > Gorgoroth
 > 
-> {: .hero-site-text .p-4 }
+> {: .hero-site-text .p-2 }
 > > _**Nearest Haven:**_ Lorien
 > > 
 > > _**Playable:**_ Items (minor, major, greater)
