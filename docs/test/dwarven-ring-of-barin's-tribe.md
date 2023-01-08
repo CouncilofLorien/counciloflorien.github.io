@@ -9,7 +9,7 @@ permalink: /cards/dwarven-ring-of-barin's-tribe/
 ### _Middle-earth: The Wizards Limited_
 
 {: .hero-resource .mx-sm-4 .mx-lg-8 .mb-4 }
-> {: .hero-resource-name .mb-4 .p-1 }
+> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">4(6)</div>
 > > <div class="card-name">Dwarven Ring of Barin's Tribe</div>
 > 
@@ -19,7 +19,7 @@ permalink: /cards/dwarven-ring-of-barin's-tribe/
 > {: .card-classification .pr-2 }
 > Special Item
 > 
-> {: .hero-resource-text .p-4 }
+> {: .hero-resource-text .p-2 }
 > > _Unique. Dwarven Ring._ ***Playable only with a Gold Ring and after a test indicates a Dwarven Ring.*** Values in parentheses and brackets apply to a Dwarf bearer. Tap a Dwarf bearer to search your play deck for a major item playable at the bearer's site. Play this item immediately or discard; reshuffle the play deck. Bearer makes a corruption check modified by +2.
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
