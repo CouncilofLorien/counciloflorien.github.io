@@ -26,7 +26,7 @@ permalink: /cards/barrow-downs/
 > > Nearest Haven: Rivendell Playable: Items (minor, major) Automatic-attacks: Undead - 1 strike with 8 prowess; each character wounded must make a corruption check  "...the green mounds, and the stone-rings upon the hills and on the hollows..."-LotRI 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
-> > <div class="hero-site-draw"><span class="hero-you-draw">&nbsp; 1&nbsp;</span><span class="hero-opp-draw">&nbsp;2 &nbsp;</span></div>
+> > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards (Limited)_
