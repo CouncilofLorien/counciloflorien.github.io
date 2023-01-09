@@ -10,7 +10,7 @@ permalink: /cards/barrow-downs/
 
 {: .hero-site-unlimited .mx-sm-4 .mx-lg-8 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp">![](/assets/images/ruinlair.svg)</div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
 > > <div class="character-card-name">Barrow-downs</div>
 >
 > {: .hero-site-text .p-1 .pl-2 }
@@ -23,14 +23,14 @@ permalink: /cards/barrow-downs/
 > > Nearest Haven: Rivendell Playable: Items (minor, major) Automatic-attacks: Undead - 1 strike with 8 prowess; each character wounded must make a corruption check  "...the green mounds, and the stone-rings upon the hills and on the hollows..."-LotRI 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
-> > <div class="card-shield">【 1  2 】</div>
+> > <div class="card-shield">【 1|2 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards (Limited)_
 
 {: .hero-site .mx-sm-4 .mx-lg-8 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp">![](/assets/images/ruinlair.svg)</div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
 > > <div class="character-card-name">Barrow-downs</div>
 >
 > {: .hero-site-text .p-1 .pl-2 }
@@ -43,5 +43,5 @@ permalink: /cards/barrow-downs/
 > > Nearest Haven: Rivendell Playable: Items (minor, major) Automatic-attacks: Undead - 1 strike with 8 prowess; each character wounded must make a corruption check  "...the green mounds, and the stone-rings upon the hills and on the hollows..."-LotRI 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
-> > <div class="card-shield">【 1  2 】</div>
+> > <div class="card-shield">【 1|2 】</div>
 > > <div class="card-corruption">&nbsp;</div>
