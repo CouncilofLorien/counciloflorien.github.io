@@ -49,7 +49,7 @@ permalink: /cards/barrow-downs/
 > > <div class="hero-site-draw"><span class="hero-you-draw">&nbsp; 1&nbsp;</span><span class="hero-opp-draw">&nbsp;2 &nbsp;</span></div>
 > > <div class="card-corruption">&nbsp;</div>
 
- ## CORRESPONDING NAMES
+## CORRESPONDING NAMES
 
  - French: Hauts des Galgals
  - German: Hügelgraberhöhen
