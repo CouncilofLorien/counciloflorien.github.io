@@ -1,6 +1,7 @@
 ---
 layout: default
-nav_order: 1
+title: haven
+description: "The Council of Lórien provides Rulebooks, Guides, and Aids for playing the Middle-earth Collectible Card Game." 
 search_exclude: true
 nav_exclude: true
 permalink: /
