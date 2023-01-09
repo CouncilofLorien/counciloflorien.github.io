@@ -6,6 +6,9 @@ nav_exclude: true
 permalink: /cards/barrow-downs/
 ---
 
+## PRINTINGS
+
+
 ### _Middle-earth: The Wizards (Unlimited)_
 
 {: .hero-site-unlimited .mx-sm-4 .mx-lg-8 .mb-4 }
@@ -23,7 +26,7 @@ permalink: /cards/barrow-downs/
 > > Nearest Haven: Rivendell Playable: Items (minor, major) Automatic-attacks: Undead - 1 strike with 8 prowess; each character wounded must make a corruption check  "...the green mounds, and the stone-rings upon the hills and on the hollows..."-LotRI 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
-> > <div class="card-shield">【 1|2 】</div>
+> > <div class="hero-site-draw"><span class="hero-you-draw">&nbsp; 1&nbsp;</span><span class="hero-opp-draw">&nbsp;2 &nbsp;</span></div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards (Limited)_
@@ -43,5 +46,14 @@ permalink: /cards/barrow-downs/
 > > Nearest Haven: Rivendell Playable: Items (minor, major) Automatic-attacks: Undead - 1 strike with 8 prowess; each character wounded must make a corruption check  "...the green mounds, and the stone-rings upon the hills and on the hollows..."-LotRI 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
-> > <div class="card-shield">【 1|2 】</div>
+> > <div class="hero-site-draw"><span class="hero-you-draw">&nbsp; 1&nbsp;</span><span class="hero-opp-draw">&nbsp;2 &nbsp;</span></div>
 > > <div class="card-corruption">&nbsp;</div>
+
+ ## CORRESPONDING NAMES
+
+ - French: Hauts des Galgals
+ - German: Hügelgraberhöhen
+ - Italian: Tumulilande
+ - Spanish: Quebradas de los Tumulos
+ - Finnish: Hautakerot
+ - Japanese: 塚山丘陵
