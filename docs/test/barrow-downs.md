@@ -17,7 +17,7 @@ permalink: /cards/barrow-downs/
 > > <div class="character-card-name">Barrow-downs</div>
 >
 > {: .hero-site-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/free-domain.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg)
+> > ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) 
 >
 > {: .character-card-classification .pr-2 }
 > Cardolan
@@ -37,7 +37,7 @@ permalink: /cards/barrow-downs/
 > > <div class="character-card-name">Barrow-downs</div>
 >
 > {: .hero-site-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/free-domain.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg)
+> > ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) 
 >
 > {: .character-card-classification .pr-2 }
 > Cardolan
