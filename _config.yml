@@ -236,6 +236,14 @@ callouts:
     color: hero-site
   hero-site-text:
     color: hero-site-text
+  hero-resource-unlimited:
+    color: hero-resource-unlimited
+  hazard-unlimited:
+    color: hazard-unlimited
+  character-unlimited:
+    color: character-unlimited
+  hero-site-unlimited:
+    color: hero-site-unlimited
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
