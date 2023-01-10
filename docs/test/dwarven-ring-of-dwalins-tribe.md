@@ -56,7 +56,7 @@ permalink: /cards/dwarven-ring-of-dwalins-tribe/
 > > <div class="hazard-mp">4</div>
 > > <div class="card-name">Dwarven Ring of Dwalin's Tribe</div>
 >
-> {: .minion-resource-name .p-1 .pl-2 }
+> {: .minion-resource-name .white-text .p-1 .pl-2 }
 > > +2[7]![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
