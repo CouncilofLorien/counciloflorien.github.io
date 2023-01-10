@@ -158,7 +158,7 @@ $minion-site-text-300: #b5afb1;
 
 .card-mp {
   float: left;
-  color: $body-text-color;
+  color: black;
   @include fs-6;
 }
 
@@ -187,7 +187,7 @@ $minion-site-text-300: #b5afb1;
 .character-card-classification {
   font-weight: 200;
   font-variant: small-caps;
-  color: $body-text-color;
+  color: black;
   text-align: right;
 }
 
@@ -206,6 +206,7 @@ $minion-site-text-300: #b5afb1;
 
 .card-corruption {
   text-align: right;
+  color: black;
   @include fs-5;
 }
 
@@ -226,7 +227,7 @@ $minion-site-text-300: #b5afb1;
 }
 
 .hero-you-draw {
-  color: $body-text-color;
+  color: black;
   background-color: #dfddd0;
 }
 
@@ -236,7 +237,7 @@ $minion-site-text-300: #b5afb1;
 }
 
 .minion-you-draw {
-  color: $body-text-color;
+  color: black;
   background-color: $grey-lt-300;
 }
 
@@ -247,6 +248,10 @@ $minion-site-text-300: #b5afb1;
 
 .white-text {
   color: white;
+}
+
+.black-text {
+  color: black;
 }
 
 .float-right {
