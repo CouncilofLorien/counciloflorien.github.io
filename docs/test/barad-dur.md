@@ -11,7 +11,7 @@ permalink: /cards/barad-dur/
 
 ### _Middle-earth: The Wizards (Unlimited)_
 
-{: .hero-site-unlimited .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hero-site-unlimited .black-text .mx-sm-4 .mx-lg-8 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
 > > <div class="character-card-name">Barad-dur</div>
