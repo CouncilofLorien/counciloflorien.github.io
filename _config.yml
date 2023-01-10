@@ -214,8 +214,12 @@ callouts:
     color: grey-md
   hero-resource:
     color: hero-resource
+  minion-resource:
+    color: minion-resource
   hero-resource-name:
     color: hero-resource-title
+  minion-resource-name:
+    color: minion-resource-title
   hero-resource-text:
     color: hero-resource-text
   hazard:
@@ -226,16 +230,26 @@ callouts:
     color: hazard-text
   character:
     color: character
+  minion-character:
+    color: minion-character
   character-frame:
     color: character-title
+  minion-character-frame:
+    color: minion-character-title
   character-text:
     color: character-text
+  minion-character-text:
+    color: minion-character-text
   character-shield:
     color: character-shield
   hero-site:
     color: hero-site
   hero-site-text:
     color: hero-site-text
+  minion-site:
+    color: minion-site
+  minion-site-text:
+    color: minion-site-text
   hero-resource-unlimited:
     color: hero-resource-unlimited
   hazard-unlimited:
