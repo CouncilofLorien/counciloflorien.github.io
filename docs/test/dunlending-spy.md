@@ -22,7 +22,7 @@ permalink: /cards/dunlending-spy/
 > {: .hazard-classification .pr-2 }
 > Scout Man
 >
-> {: .minion-character-text .p-2 }
+> {: .minion-character-text .black-text .p-2 }
 > > Unique.   "...a squint-eyed ill-favoured fellow..."-LotRI  Home Site: Bree 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
