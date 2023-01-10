@@ -25,6 +25,6 @@ permalink: /cards/dunlending-spy/
 > {: .minion-character-text .p-2 }
 > > Unique.   "...a squint-eyed ill-favoured fellow..."-LotRI  Home Site: Bree 
 >
-> {: .minion-character-shield .p-1 .pr-2 }
+> {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【2/8】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
