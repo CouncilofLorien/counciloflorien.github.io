@@ -177,6 +177,12 @@ $hero-site-text-300: #f9f7f3;
   @include fs-5;
 }
 
+.card-corruption-white {
+  text-align: right;
+  color: white;
+  @include fs-5;
+}
+
 .card-corruption-float {
   float: right;
   @include fs-5;
