@@ -232,7 +232,17 @@ $minion-site-text-300: #b5afb1;
 
 .hero-opp-draw {
   color: white;
-  background-color: $grey-dk-000;
+  background-color: #5b5b5b;
+}
+
+.minion-you-draw {
+  color: $body-text-color;
+  background-color: $minion-site-000;
+}
+
+.minion-opp-draw {
+  color: white;
+  background-color: $minion-site-text-000;
 }
 
 .float-right {
