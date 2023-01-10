@@ -221,8 +221,8 @@ callouts:
   minion-resource-name:
     color: minion-resource-title
   hero-resource-text:
-    color: minion-resource-text
-  hero-resource-text:
+    color: hero-resource-text
+  minion-resource-text:
     color: minion-resource-text
   hazard:
     color: hazard
