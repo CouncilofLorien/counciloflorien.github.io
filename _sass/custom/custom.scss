@@ -237,12 +237,16 @@ $minion-site-text-300: #b5afb1;
 
 .minion-you-draw {
   color: $body-text-color;
-  background-color: $minion-site-000;
+  background-color: $grey-lt-300;
 }
 
 .minion-opp-draw {
   color: white;
-  background-color: $minion-site-text-000;
+  background-color: $5b5b5b;
+}
+
+.white-text {
+  color: white;
 }
 
 .float-right {
