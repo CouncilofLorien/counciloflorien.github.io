@@ -58,7 +58,7 @@ _The Lidless Eye_ (clarification)—Playing this card discards its players _Bade
 
 Marshalling Points (errata)—Under standard rules, no more than half of your marshalling points can come from any one type of marshalling point. Do not round up. 
 
-MELE vs. METW (clarification)—Hero items may not be used as passive conditions[^passiveconditions] for minion resources, and minion items may not be used as passive conditions for hero resources.<br>
+MELE vs. METW (clarification)—Hero items may not be used as passive conditions for minion resources, and minion items may not be used as passive conditions for hero resources.<br>
 &emsp; If you are playing in a Council of Lorien constructed deck tournament, you may play with three Ringwraiths. You may play with two of one Ringwraith and one of another, or with three of one Ringwraith. You may not play with one each of three different Ringwraiths. You must have a minimum of 30 resources and 30 hazards with the 12 creature minimum.<br>
 &emsp; Hero characters may not cancel automatic-attacks at their homesite, regardless of their opponent.<br>
 &emsp; You may not have both the minion and hero version of a unique item in your deck.
