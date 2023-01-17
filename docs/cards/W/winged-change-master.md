@@ -4,7 +4,7 @@ title: Winged Change-master
 grand_parent: Cards
 parent: W
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/winged-change-master/
 ---
 
@@ -19,7 +19,7 @@ permalink: /cards/winged-change-master/
 > > <div class="card-name">Winged Change-master</div>
 >
 > {: .stage-resource-name .black-text .p-1 .pl-2 }
-> > 19[gi] 8![](/assets/images/di.svg) 1[sp]
+> > 19[gi] 8![](/assets/images/di.svg) 1![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event

@@ -4,7 +4,7 @@ title: An Untimely Brood
 grand_parent: Cards
 parent: A
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/an-untimely-brood/
 ---
 
@@ -19,7 +19,7 @@ permalink: /cards/an-untimely-brood/
 > > <div class="card-name">An Untimely Brood</div>
 >
 > {: .stage-resource-name .black-text .p-1 .pl-2 }
-> > 4[sp]
+> > 4![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event

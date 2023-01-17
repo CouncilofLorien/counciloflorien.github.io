@@ -4,7 +4,7 @@ title: Master of Shapes
 grand_parent: Cards
 parent: M
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/master-of-shapes/
 ---
 
@@ -19,7 +19,7 @@ permalink: /cards/master-of-shapes/
 > > <div class="card-name">Master of Shapes</div>
 >
 > {: .stage-resource-name .black-text .p-1 .pl-2 }
-> > 25[gi] 1![](/assets/images/di.svg) 1[sp]
+> > 25[gi] 1![](/assets/images/di.svg) 1![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event

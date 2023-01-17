@@ -4,7 +4,7 @@ title: Horseman in the Night
 grand_parent: Cards
 parent: H
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/horseman-in-the-night/
 ---
 

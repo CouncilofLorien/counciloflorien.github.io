@@ -4,7 +4,7 @@ title: The Grey Hat
 grand_parent: Cards
 parent: T
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/the-grey-hat/
 ---
 
@@ -19,7 +19,7 @@ permalink: /cards/the-grey-hat/
 > > <div class="card-name">The Grey Hat</div>
 >
 > {: .stage-resource-name .black-text .p-1 .pl-2 }
-> > 1[sp]
+> > 1![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event

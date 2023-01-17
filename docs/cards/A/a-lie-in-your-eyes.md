@@ -4,7 +4,7 @@ title: A Lie in Your Eyes
 grand_parent: Cards
 parent: A
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/a-lie-in-your-eyes/
 ---
 

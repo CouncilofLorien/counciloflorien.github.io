@@ -4,7 +4,7 @@ title: Plotting Ruin
 grand_parent: Cards
 parent: P
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/plotting-ruin/
 ---
 
@@ -19,7 +19,7 @@ permalink: /cards/plotting-ruin/
 > > <div class="card-name">Plotting Ruin</div>
 >
 > {: .stage-resource-name .black-text .p-1 .pl-2 }
-> > 3[sp]
+> > 3![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event

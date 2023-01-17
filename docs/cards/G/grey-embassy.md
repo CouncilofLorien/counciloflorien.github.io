@@ -4,7 +4,7 @@ title: Grey Embassy
 grand_parent: Cards
 parent: G
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/grey-embassy/
 ---
 
@@ -19,7 +19,7 @@ permalink: /cards/grey-embassy/
 > > <div class="card-name">Grey Embassy</div>
 >
 > {: .stage-resource-name .black-text .p-1 .pl-2 }
-> > 3[sp]
+> > 3![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event

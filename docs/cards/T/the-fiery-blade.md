@@ -4,7 +4,7 @@ title: The Fiery Blade
 grand_parent: Cards
 parent: T
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/the-fiery-blade/
 ---
 

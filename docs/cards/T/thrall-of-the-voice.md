@@ -4,7 +4,7 @@ title: Thrall of the Voice
 grand_parent: Cards
 parent: T
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/thrall-of-the-voice/
 ---
 
@@ -19,7 +19,7 @@ permalink: /cards/thrall-of-the-voice/
 > > <div class="card-name">Thrall of the Voice</div>
 >
 > {: .stage-resource-name .black-text .p-1 .pl-2 }
-> > -1![](/assets/images/mind.svg) 1[sp]
+> > -1![](/assets/images/mind.svg) 1![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event

@@ -4,7 +4,7 @@ title: Words of Menace and Deceit
 grand_parent: Cards
 parent: W
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/words-of-menace-and-deceit/
 ---
 

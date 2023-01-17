@@ -4,7 +4,7 @@ title: Haudh-in-Gwanur
 grand_parent: Cards
 parent: H
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/haudh-in-gwanur/
 ---
 

@@ -4,7 +4,7 @@ title: Prophet of Doom
 grand_parent: Cards
 parent: P
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/prophet-of-doom/
 ---
 
@@ -19,7 +19,7 @@ permalink: /cards/prophet-of-doom/
 > > <div class="card-name">Prophet of Doom</div>
 >
 > {: .stage-resource-name .black-text .p-1 .pl-2 }
-> > 3[sp]
+> > 3![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event

@@ -4,7 +4,7 @@ title: The Least of Gold Rings
 grand_parent: Cards
 parent: T
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/the-least-of-gold-rings/
 ---
 

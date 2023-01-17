@@ -4,7 +4,7 @@ title: Echo of all Joy
 grand_parent: Cards
 parent: E
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/echo-of-all-joy/
 ---
 

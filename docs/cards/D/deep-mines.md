@@ -4,7 +4,7 @@ title: Deep Mines
 grand_parent: Cards
 parent: D
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/deep-mines/
 ---
 
@@ -19,7 +19,7 @@ permalink: /cards/deep-mines/
 > > <div class="card-name">Deep Mines</div>
 >
 > {: .fw-site-text .black-text .p-1 .pl-2 }
-> > 3[sp]
+> > 3![](/assets/images/stage-point.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Under-deeps

@@ -4,7 +4,7 @@ title: Heart Grown Cold
 grand_parent: Cards
 parent: H
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/heart-grown-cold/
 ---
 

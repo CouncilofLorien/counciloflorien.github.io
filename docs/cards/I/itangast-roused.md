@@ -4,7 +4,7 @@ title: Itangast Roused
 grand_parent: Cards
 parent: I
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/itangast-roused/
 ---
 

@@ -4,7 +4,7 @@ title: Radagast's Black Bird
 grand_parent: Cards
 parent: R
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/radagasts-black-bird/
 ---
 
@@ -19,7 +19,7 @@ permalink: /cards/radagasts-black-bird/
 > > <div class="card-name">Radagast's Black Bird</div>
 >
 > {: .stage-resource-name .black-text .p-1 .pl-2 }
-> > 2![](/assets/images/mind.svg) 3![](/assets/images/di.svg) 2[sp]
+> > 2![](/assets/images/mind.svg) 3![](/assets/images/di.svg) 2![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Scout/Diplomat Ally

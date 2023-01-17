@@ -4,7 +4,7 @@ title: Far Below the Deepest Delvings
 grand_parent: Cards
 parent: F
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/far-below-the-deepest-delvings/
 ---
 

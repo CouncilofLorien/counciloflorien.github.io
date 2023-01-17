@@ -4,7 +4,7 @@ title: Blind to All Else
 grand_parent: Cards
 parent: B
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/blind-to-all-else/
 ---
 
@@ -19,7 +19,7 @@ permalink: /cards/blind-to-all-else/
 > > <div class="card-name">Blind to All Else</div>
 >
 > {: .stage-resource-name .black-text .p-1 .pl-2 }
-> > 2[sp]
+> > 2![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event

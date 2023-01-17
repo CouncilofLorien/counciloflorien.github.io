@@ -4,7 +4,7 @@ title: Keys of Orthanc
 grand_parent: Cards
 parent: K
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/keys-of-orthanc/
 ---
 
@@ -19,7 +19,7 @@ permalink: /cards/keys-of-orthanc/
 > > <div class="card-name">Keys of Orthanc</div>
 >
 > {: .stage-resource-name .black-text .p-1 .pl-2 }
-> > 1[sp]
+> > 1![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Special Item

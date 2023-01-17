@@ -4,7 +4,7 @@ title: Greater Half-orcs
 grand_parent: Cards
 parent: G
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/greater-half-orcs/
 ---
 
@@ -19,7 +19,7 @@ permalink: /cards/greater-half-orcs/
 > > <div class="card-name">Greater Half-orcs</div>
 >
 > {: .stage-resource-name .black-text .p-1 .pl-2 }
-> > 1[sp]
+> > 1![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Orc Faction

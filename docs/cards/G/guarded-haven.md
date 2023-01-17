@@ -4,7 +4,7 @@ title: Guarded Haven
 grand_parent: Cards
 parent: G
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/guarded-haven/
 ---
 
@@ -19,7 +19,7 @@ permalink: /cards/guarded-haven/
 > > <div class="card-name">Guarded Haven</div>
 >
 > {: .stage-resource-name .black-text .p-1 .pl-2 }
-> > 1[sp]
+> > 1![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event

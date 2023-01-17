@@ -4,7 +4,7 @@ title: Refuge
 grand_parent: Cards
 parent: R
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/refuge/
 ---
 

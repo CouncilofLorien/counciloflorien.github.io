@@ -4,7 +4,7 @@ title: Mistress Lobelia
 grand_parent: Cards
 parent: M
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/mistress-lobelia/
 ---
 

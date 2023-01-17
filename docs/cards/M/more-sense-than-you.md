@@ -4,7 +4,7 @@ title: More Sense than You
 grand_parent: Cards
 parent: M
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/more-sense-than-you/
 ---
 

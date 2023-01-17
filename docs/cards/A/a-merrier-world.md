@@ -4,7 +4,7 @@ title: A Merrier World
 grand_parent: Cards
 parent: A
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/a-merrier-world/
 ---
 
@@ -19,7 +19,7 @@ permalink: /cards/a-merrier-world/
 > > <div class="card-name">A Merrier World</div>
 >
 > {: .stage-resource-name .black-text .p-1 .pl-2 }
-> > 2[sp]
+> > 2![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event

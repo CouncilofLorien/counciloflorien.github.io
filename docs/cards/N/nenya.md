@@ -4,7 +4,7 @@ title: Nenya
 grand_parent: Cards
 parent: N
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/nenya/
 ---
 

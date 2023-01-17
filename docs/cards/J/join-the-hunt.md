@@ -4,7 +4,7 @@ title: Join the Hunt
 grand_parent: Cards
 parent: J
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/join-the-hunt/
 ---
 
@@ -19,7 +19,7 @@ permalink: /cards/join-the-hunt/
 > > <div class="card-name">Join the Hunt</div>
 >
 > {: .stage-resource-name .black-text .p-1 .pl-2 }
-> > 2[sp]
+> > 2![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event

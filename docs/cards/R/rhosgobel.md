@@ -4,7 +4,7 @@ title: Rhosgobel
 grand_parent: Cards
 parent: R
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/rhosgobel/
 ---
 
@@ -79,7 +79,7 @@ permalink: /cards/rhosgobel/
 > > <div class="card-name">Rhosgobel</div>
 >
 > {: .fw-site-text .black-text .p-1 .pl-2 }
-> > 1[sp]
+> > 1![](/assets/images/stage-point.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Southern Mirkwood

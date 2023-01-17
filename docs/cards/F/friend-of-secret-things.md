@@ -4,7 +4,7 @@ title: Friend of Secret Things
 grand_parent: Cards
 parent: F
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/friend-of-secret-things/
 ---
 
@@ -19,7 +19,7 @@ permalink: /cards/friend-of-secret-things/
 > > <div class="card-name">Friend of Secret Things</div>
 >
 > {: .stage-resource-name .black-text .p-1 .pl-2 }
-> > 2[sp]
+> > 2![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event

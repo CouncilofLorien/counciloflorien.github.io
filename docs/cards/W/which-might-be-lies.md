@@ -4,7 +4,7 @@ title: Which Might Be Lies
 grand_parent: Cards
 parent: W
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/which-might-be-lies/
 ---
 

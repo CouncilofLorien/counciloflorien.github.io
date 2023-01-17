@@ -4,7 +4,7 @@ title: Fair Travels in Free-domains
 grand_parent: Cards
 parent: F
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/fair-travels-in-free-domains/
 ---
 

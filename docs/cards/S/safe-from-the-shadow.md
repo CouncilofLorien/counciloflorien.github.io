@@ -4,7 +4,7 @@ title: Safe from the Shadow
 grand_parent: Cards
 parent: S
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/safe-from-the-shadow/
 ---
 

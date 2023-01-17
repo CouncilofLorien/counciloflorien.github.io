@@ -4,7 +4,7 @@ title: Saruman's Ring
 grand_parent: Cards
 parent: S
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/sarumans-ring/
 ---
 
@@ -19,7 +19,7 @@ permalink: /cards/sarumans-ring/
 > > <div class="card-name">Saruman's Ring</div>
 >
 > {: .stage-resource-name .black-text .p-1 .pl-2 }
-> > 2[sp]
+> > 2![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event

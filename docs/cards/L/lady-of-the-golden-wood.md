@@ -4,7 +4,7 @@ title: Lady of the Golden Wood
 grand_parent: Cards
 parent: L
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/lady-of-the-golden-wood/
 ---
 

@@ -4,7 +4,7 @@ title: Great Secrets Buried There
 grand_parent: Cards
 parent: G
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/great-secrets-buried-there/
 ---
 

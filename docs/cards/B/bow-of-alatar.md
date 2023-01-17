@@ -4,7 +4,7 @@ title: Bow of Alatar
 grand_parent: Cards
 parent: B
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/bow-of-alatar/
 ---
 
@@ -19,7 +19,7 @@ permalink: /cards/bow-of-alatar/
 > > <div class="card-name">Bow of Alatar</div>
 >
 > {: .stage-resource-name .black-text .p-1 .pl-2 }
-> > 2[sp]
+> > 2![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event

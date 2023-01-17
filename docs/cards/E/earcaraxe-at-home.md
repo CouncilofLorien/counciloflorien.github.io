@@ -4,7 +4,7 @@ title: Earcaraxe at Home
 grand_parent: Cards
 parent: E
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/earcaraxe-at-home/
 ---
 

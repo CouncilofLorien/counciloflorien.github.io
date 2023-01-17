@@ -4,7 +4,7 @@ title: Gifts as Given of Old
 grand_parent: Cards
 parent: G
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/gifts-as-given-of-old/
 ---
 

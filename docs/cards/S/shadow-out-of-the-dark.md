@@ -4,7 +4,7 @@ title: Shadow out of the Dark
 grand_parent: Cards
 parent: S
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/shadow-out-of-the-dark/
 ---
 

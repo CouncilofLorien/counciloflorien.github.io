@@ -4,7 +4,7 @@ title: Truths of Doom
 grand_parent: Cards
 parent: T
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/truths-of-doom/
 ---
 
@@ -19,7 +19,7 @@ permalink: /cards/truths-of-doom/
 > > <div class="card-name">Truths of Doom</div>
 >
 > {: .stage-resource-name .black-text .p-1 .pl-2 }
-> > 4[sp]
+> > 4![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event

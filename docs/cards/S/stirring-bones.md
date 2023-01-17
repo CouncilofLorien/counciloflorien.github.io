@@ -4,7 +4,7 @@ title: Stirring Bones
 grand_parent: Cards
 parent: S
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/stirring-bones/
 ---
 

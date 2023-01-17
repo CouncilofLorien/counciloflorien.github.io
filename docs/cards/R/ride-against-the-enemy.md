@@ -4,7 +4,7 @@ title: Ride Against the Enemy
 grand_parent: Cards
 parent: R
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/ride-against-the-enemy/
 ---
 

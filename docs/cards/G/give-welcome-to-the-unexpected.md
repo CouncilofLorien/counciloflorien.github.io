@@ -4,7 +4,7 @@ title: Give Welcome to the Unexpected
 grand_parent: Cards
 parent: G
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/give-welcome-to-the-unexpected/
 ---
 
@@ -19,7 +19,7 @@ permalink: /cards/give-welcome-to-the-unexpected/
 > > <div class="card-name">Give Welcome to the Unexpected</div>
 >
 > {: .stage-resource-name .black-text .p-1 .pl-2 }
-> > 2[sp]
+> > 2![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event

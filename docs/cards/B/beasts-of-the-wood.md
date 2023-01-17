@@ -4,7 +4,7 @@ title: Beasts of the Wood
 grand_parent: Cards
 parent: B
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/beasts-of-the-wood/
 ---
 

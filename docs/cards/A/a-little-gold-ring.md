@@ -4,7 +4,7 @@ title: A Little Gold Ring
 grand_parent: Cards
 parent: A
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/a-little-gold-ring/
 ---
 

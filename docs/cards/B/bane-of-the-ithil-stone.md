@@ -4,7 +4,7 @@ title: Bane of the Ithil-stone
 grand_parent: Cards
 parent: B
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/bane-of-the-ithil-stone/
 ---
 

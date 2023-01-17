@@ -4,7 +4,7 @@ title: Desire All for Thy Belly
 grand_parent: Cards
 parent: D
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/desire-all-for-thy-belly/
 ---
 

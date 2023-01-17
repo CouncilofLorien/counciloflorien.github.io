@@ -4,7 +4,7 @@ title: Mischief in a Mean Way
 grand_parent: Cards
 parent: M
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/mischief-in-a-mean-way/
 ---
 
@@ -19,7 +19,7 @@ permalink: /cards/mischief-in-a-mean-way/
 > > <div class="card-name">Mischief in a Mean Way</div>
 >
 > {: .stage-resource-name .black-text .p-1 .pl-2 }
-> > 2[sp]
+> > 2![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event

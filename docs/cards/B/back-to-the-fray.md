@@ -4,7 +4,7 @@ title: Back to the Fray
 grand_parent: Cards
 parent: B
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/back-to-the-fray/
 ---
 

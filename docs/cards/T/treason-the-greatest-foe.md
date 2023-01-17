@@ -4,7 +4,7 @@ title: Treason the Greatest Foe
 grand_parent: Cards
 parent: T
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/treason-the-greatest-foe/
 ---
 

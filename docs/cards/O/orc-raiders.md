@@ -4,7 +4,7 @@ title: Orc-raiders
 grand_parent: Cards
 parent: O
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/orc-raiders/
 ---
 

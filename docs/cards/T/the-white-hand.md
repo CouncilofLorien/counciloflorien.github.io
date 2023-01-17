@@ -4,7 +4,7 @@ title: The White Hand
 grand_parent: Cards
 parent: T
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/the-white-hand/
 ---
 
@@ -19,7 +19,7 @@ permalink: /cards/the-white-hand/
 > > <div class="card-name">The White Hand</div>
 >
 > {: .stage-resource-name .black-text .p-1 .pl-2 }
-> > +2![](/assets/images/di.svg) 3[sp]
+> > +2![](/assets/images/di.svg) 3![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event

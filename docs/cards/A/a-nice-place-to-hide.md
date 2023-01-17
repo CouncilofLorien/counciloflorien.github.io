@@ -4,7 +4,7 @@ title: A Nice Place to Hide
 grand_parent: Cards
 parent: A
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/a-nice-place-to-hide/
 ---
 

@@ -4,7 +4,7 @@ title: Like the Crash of Battering-rams
 grand_parent: Cards
 parent: L
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/like-the-crash-of-battering-rams/
 ---
 

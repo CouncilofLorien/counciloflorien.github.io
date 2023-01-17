@@ -4,7 +4,7 @@ title: Squire of the Hunt
 grand_parent: Cards
 parent: S
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/squire-of-the-hunt/
 ---
 
@@ -19,7 +19,7 @@ permalink: /cards/squire-of-the-hunt/
 > > <div class="card-name">Squire of the Hunt</div>
 >
 > {: .stage-resource-name .black-text .p-1 .pl-2 }
-> > +1![](/assets/images/di.svg) 2[sp]
+> > +1![](/assets/images/di.svg) 2![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event

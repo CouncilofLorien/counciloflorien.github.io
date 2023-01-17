@@ -4,7 +4,7 @@ title: Waylaid, Wounded, and Orc-dragged
 grand_parent: Cards
 parent: W
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/waylaid,-wounded,-and-orc-dragged/
 ---
 

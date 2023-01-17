@@ -4,7 +4,7 @@ title: A Strident Spawn
 grand_parent: Cards
 parent: A
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/a-strident-spawn/
 ---
 
@@ -19,7 +19,7 @@ permalink: /cards/a-strident-spawn/
 > > <div class="card-name">A Strident Spawn</div>
 >
 > {: .stage-resource-name .black-text .p-1 .pl-2 }
-> > 4[sp]
+> > 4![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event

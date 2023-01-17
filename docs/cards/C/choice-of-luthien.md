@@ -4,7 +4,7 @@ title: Choice of Luthien
 grand_parent: Cards
 parent: C
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/choice-of-luthien/
 ---
 

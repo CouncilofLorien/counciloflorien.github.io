@@ -4,7 +4,7 @@ title: Use Your Legs
 grand_parent: Cards
 parent: U
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/use-your-legs/
 ---
 

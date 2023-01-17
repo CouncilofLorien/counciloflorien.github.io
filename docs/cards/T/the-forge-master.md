@@ -4,7 +4,7 @@ title: The Forge-master
 grand_parent: Cards
 parent: T
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/the-forge-master/
 ---
 
@@ -19,7 +19,7 @@ permalink: /cards/the-forge-master/
 > > <div class="card-name">The Forge-master</div>
 >
 > {: .stage-resource-name .black-text .p-1 .pl-2 }
-> > +1![](/assets/images/di.svg) 2[sp]
+> > +1![](/assets/images/di.svg) 2![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event

@@ -4,7 +4,7 @@ title: Sapling of the White Tree
 grand_parent: Cards
 parent: S
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/sapling-of-the-white-tree/
 ---
 

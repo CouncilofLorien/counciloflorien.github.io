@@ -4,7 +4,7 @@ title: Call of Home
 grand_parent: Cards
 parent: C
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/call-of-home/
 ---
 

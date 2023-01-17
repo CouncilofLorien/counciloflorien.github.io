@@ -4,7 +4,7 @@ title: A New Ringlord
 grand_parent: Cards
 parent: A
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/a-new-ringlord/
 ---
 
@@ -19,7 +19,7 @@ permalink: /cards/a-new-ringlord/
 > > <div class="card-name">A New Ringlord</div>
 >
 > {: .stage-resource-name .black-text .p-1 .pl-2 }
-> > 3[sp]
+> > 3![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event

@@ -4,7 +4,7 @@ title: Will You Not Come Down
 grand_parent: Cards
 parent: W
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/will-you-not-come-down/
 ---
 
@@ -19,7 +19,7 @@ permalink: /cards/will-you-not-come-down/
 > > <div class="card-name">Will You Not Come Down</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > 4[sp]
+> > 4![](/assets/images/stage-point.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Permanent-event

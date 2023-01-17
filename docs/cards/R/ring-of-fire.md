@@ -4,7 +4,7 @@ title: Ring of Fire
 grand_parent: Cards
 parent: R
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/ring-of-fire/
 ---
 
@@ -19,7 +19,7 @@ permalink: /cards/ring-of-fire/
 > > <div class="card-name">Ring of Fire</div>
 >
 > {: .stage-resource-name .black-text .p-1 .pl-2 }
-> > 2[sp]
+> > 2![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event

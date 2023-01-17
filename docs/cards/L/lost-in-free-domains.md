@@ -4,7 +4,7 @@ title: Lost in Free-domains
 grand_parent: Cards
 parent: L
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/lost-in-free-domains/
 ---
 

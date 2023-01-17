@@ -4,7 +4,7 @@ title: Men of Lake-town
 grand_parent: Cards
 parent: M
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/men-of-lake-town/
 ---
 

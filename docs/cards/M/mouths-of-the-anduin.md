@@ -4,7 +4,7 @@ title: Mouths of the Anduin
 grand_parent: Cards
 parent: M
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/mouths-of-the-anduin/
 ---
 

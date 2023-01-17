@@ -4,7 +4,7 @@ title: Your Welcome Is Doubtful
 grand_parent: Cards
 parent: Y
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/your-welcome-is-doubtful/
 ---
 

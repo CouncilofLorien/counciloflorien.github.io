@@ -4,7 +4,7 @@ title: Orders from the Great Demon
 grand_parent: Cards
 parent: O
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/orders-from-the-great-demon/
 ---
 

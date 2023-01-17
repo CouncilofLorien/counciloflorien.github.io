@@ -4,7 +4,7 @@ title: That's Been Heard Before Tonight
 grand_parent: Cards
 parent: T
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/thats-been-heard-before-tonight/
 ---
 

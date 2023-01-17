@@ -4,7 +4,7 @@ title: Pallando's Apprentice
 grand_parent: Cards
 parent: P
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/pallandos-apprentice/
 ---
 
@@ -19,7 +19,7 @@ permalink: /cards/pallandos-apprentice/
 > > <div class="card-name">Pallando's Apprentice</div>
 >
 > {: .stage-resource-name .black-text .p-1 .pl-2 }
-> > +1![](/assets/images/di.svg) 2[sp]
+> > +1![](/assets/images/di.svg) 2![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event

@@ -4,7 +4,7 @@ title: Huntsman's Garb
 grand_parent: Cards
 parent: H
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/huntsmans-garb/
 ---
 
@@ -19,7 +19,7 @@ permalink: /cards/huntsmans-garb/
 > > <div class="card-name">Huntsman's Garb</div>
 >
 > {: .stage-resource-name .black-text .p-1 .pl-2 }
-> > 1[sp]
+> > 1![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event

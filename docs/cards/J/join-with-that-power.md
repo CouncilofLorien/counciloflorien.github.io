@@ -4,7 +4,7 @@ title: Join With That Power
 grand_parent: Cards
 parent: J
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/join-with-that-power/
 ---
 

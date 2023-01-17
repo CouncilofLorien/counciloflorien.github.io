@@ -4,7 +4,7 @@ title: More Alert than Most
 grand_parent: Cards
 parent: M
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/more-alert-than-most/
 ---
 

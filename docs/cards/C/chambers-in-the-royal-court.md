@@ -4,7 +4,7 @@ title: Chambers in the Royal Court
 grand_parent: Cards
 parent: C
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/chambers-in-the-royal-court/
 ---
 
@@ -19,7 +19,7 @@ permalink: /cards/chambers-in-the-royal-court/
 > > <div class="card-name">Chambers in the Royal Court</div>
 >
 > {: .stage-resource-name .black-text .p-1 .pl-2 }
-> > 1[sp]
+> > 1![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event

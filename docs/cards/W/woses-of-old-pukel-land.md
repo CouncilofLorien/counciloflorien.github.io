@@ -4,7 +4,7 @@ title: Woses of Old Pukel-land
 grand_parent: Cards
 parent: W
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/woses-of-old-pukel-land/
 ---
 

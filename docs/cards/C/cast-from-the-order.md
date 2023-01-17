@@ -4,7 +4,7 @@ title: Cast from the Order
 grand_parent: Cards
 parent: C
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/cast-from-the-order/
 ---
 

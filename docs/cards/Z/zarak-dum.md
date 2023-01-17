@@ -4,7 +4,7 @@ title: Zarak Dum
 grand_parent: Cards
 parent: Z
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/zarak-dum/
 ---
 

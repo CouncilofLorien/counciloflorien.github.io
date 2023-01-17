@@ -4,7 +4,7 @@ title: Ungoliant's Progeny
 grand_parent: Cards
 parent: U
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/ungoliants-progeny/
 ---
 

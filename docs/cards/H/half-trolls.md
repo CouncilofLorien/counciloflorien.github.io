@@ -4,7 +4,7 @@ title: Half-trolls
 grand_parent: Cards
 parent: H
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/half-trolls/
 ---
 

@@ -4,7 +4,7 @@ title: Hidden Haven
 grand_parent: Cards
 parent: H
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/hidden-haven/
 ---
 
@@ -19,7 +19,7 @@ permalink: /cards/hidden-haven/
 > > <div class="card-name">Hidden Haven</div>
 >
 > {: .stage-resource-name .black-text .p-1 .pl-2 }
-> > 1[sp]
+> > 1![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event

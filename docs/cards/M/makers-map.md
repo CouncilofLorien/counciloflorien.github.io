@@ -4,7 +4,7 @@ title: Maker's Map
 grand_parent: Cards
 parent: M
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/makers-map/
 ---
 

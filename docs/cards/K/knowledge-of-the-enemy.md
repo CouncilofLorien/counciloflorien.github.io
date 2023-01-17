@@ -4,7 +4,7 @@ title: Knowledge of the Enemy
 grand_parent: Cards
 parent: K
 search_exclude: false
-nav_exclude: true
+nav_exclude: false
 permalink: /cards/knowledge-of-the-enemy/
 ---
 
