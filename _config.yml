@@ -270,6 +270,8 @@ callouts:
     color: hazard-unlimited
   hazard-reprint:
     color: hazard-reprint
+  hazard-starter:
+    color: hazard-starter
   character-unlimited:
     color: character-unlimited
   character-starter:
