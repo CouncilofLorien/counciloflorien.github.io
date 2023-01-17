@@ -19,9 +19,6 @@ permalink: /cards/dagorlad/
 > {: .hero-site-text .black-text .p-1 .pl-2 }
 > > ![](/assets/images/shadow-land.svg)
 >
-> {: .character-card-classification .pr-2 }
-> 
-> 
 > {: .hero-site-text .black-text .p-2 }
 > > Brown Lands, Horse Plains, Ithilien, Southern Mirkwood, Southern Rhovanion 
 > 
