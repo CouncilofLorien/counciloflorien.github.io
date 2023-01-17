@@ -250,16 +250,36 @@ callouts:
     color: hero-site-text
   minion-site:
     color: minion-site
+  minion-site-reprint:
+    color: minion-site-reprint
+  balrog-site:
+    color: balrog-site
   minion-site-text:
     color: minion-site-text
+  balrog-site-text:
+    color: balrog-site-text
+  fw-site-text:
+    color: fw-site-text
   hero-resource-unlimited:
     color: hero-resource-unlimited
+  hero-resource-reprint:
+    color: hero-resource-reprint
+  hero-resource-starter:
+    color: hero-resource-starter
   hazard-unlimited:
     color: hazard-unlimited
+  hazard-reprint:
+    color: hazard-reprint
   character-unlimited:
     color: character-unlimited
+  character-starter:
+    color: character-starter
+  character-reprint:
+    color: character-reprint
   hero-site-unlimited:
     color: hero-site-unlimited
+  hero-site-reprint:
+    color: hero-site-reprint
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
