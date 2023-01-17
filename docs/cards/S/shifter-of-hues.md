@@ -2,7 +2,7 @@
 layout: card
 title: Shifter of Hues
 grand_parent: Cards
-parent: Shifter of Hues
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/shifter-of-hues/

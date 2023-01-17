@@ -2,7 +2,7 @@
 layout: card
 title: Ulkaur the Tongueless
 grand_parent: Cards
-parent: Ulkaur the Tongueless
+parent: U
 search_exclude: false
 nav_exclude: true
 permalink: /cards/ulkaur-the-tongueless/

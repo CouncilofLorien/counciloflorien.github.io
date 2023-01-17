@@ -2,7 +2,7 @@
 layout: card
 title: Chill Douser
 grand_parent: Cards
-parent: Chill Douser
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/chill-douser/

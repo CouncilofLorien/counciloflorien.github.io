@@ -2,7 +2,7 @@
 layout: card
 title: From the Pits of Angband
 grand_parent: Cards
-parent: From the Pits of Angband
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/from-the-pits-of-angband/

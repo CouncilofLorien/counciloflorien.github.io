@@ -2,7 +2,7 @@
 layout: card
 title: Blasting Fire
 grand_parent: Cards
-parent: Blasting Fire
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/blasting-fire/

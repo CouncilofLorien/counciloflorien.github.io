@@ -2,7 +2,7 @@
 layout: card
 title: Lure of Expedience
 grand_parent: Cards
-parent: Lure of Expedience
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/lure-of-expedience/

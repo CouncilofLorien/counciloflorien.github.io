@@ -2,7 +2,7 @@
 layout: card
 title: Radbug
 grand_parent: Cards
-parent: Radbug
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/radbug/

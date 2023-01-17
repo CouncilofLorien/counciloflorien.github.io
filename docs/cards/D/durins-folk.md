@@ -2,7 +2,7 @@
 layout: card
 title: Durin's Folk
 grand_parent: Cards
-parent: Durin's Folk
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/durins-folk/

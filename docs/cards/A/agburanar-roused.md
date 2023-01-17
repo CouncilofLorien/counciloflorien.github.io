@@ -2,7 +2,7 @@
 layout: card
 title: Agburanar Roused
 grand_parent: Cards
-parent: Agburanar Roused
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/agburanar-roused/

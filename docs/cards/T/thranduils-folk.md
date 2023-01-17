@@ -2,7 +2,7 @@
 layout: card
 title: Thranduil's Folk
 grand_parent: Cards
-parent: Thranduil's Folk
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/thranduils-folk/

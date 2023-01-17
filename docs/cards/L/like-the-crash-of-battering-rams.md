@@ -2,7 +2,7 @@
 layout: card
 title: Like the Crash of Battering-rams
 grand_parent: Cards
-parent: Like the Crash of Battering-rams
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/like-the-crash-of-battering-rams/

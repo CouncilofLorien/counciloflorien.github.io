@@ -2,7 +2,7 @@
 layout: card
 title: Velocity of Haste
 grand_parent: Cards
-parent: Velocity of Haste
+parent: V
 search_exclude: false
 nav_exclude: true
 permalink: /cards/velocity-of-haste/

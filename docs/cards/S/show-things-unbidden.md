@@ -2,7 +2,7 @@
 layout: card
 title: Show Things Unbidden
 grand_parent: Cards
-parent: Show Things Unbidden
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/show-things-unbidden/

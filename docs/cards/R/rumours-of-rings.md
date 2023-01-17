@@ -2,7 +2,7 @@
 layout: card
 title: Rumours of Rings
 grand_parent: Cards
-parent: Rumours of Rings
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/rumours-of-rings/

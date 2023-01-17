@@ -2,7 +2,7 @@
 layout: card
 title: Folco Boffin
 grand_parent: Cards
-parent: Folco Boffin
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/folco-boffin/

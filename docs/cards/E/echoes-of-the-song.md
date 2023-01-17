@@ -2,7 +2,7 @@
 layout: card
 title: Echoes of the Song
 grand_parent: Cards
-parent: Echoes of the Song
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/echoes-of-the-song/

@@ -2,7 +2,7 @@
 layout: card
 title: Goldberry
 grand_parent: Cards
-parent: Goldberry
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/goldberry/

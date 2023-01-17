@@ -2,7 +2,7 @@
 layout: card
 title: Wake of War
 grand_parent: Cards
-parent: Wake of War
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/wake-of-war/

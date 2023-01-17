@@ -2,7 +2,7 @@
 layout: card
 title: Dori
 grand_parent: Cards
-parent: Dori
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/dori/

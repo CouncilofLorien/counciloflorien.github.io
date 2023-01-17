@@ -2,7 +2,7 @@
 layout: card
 title: Scourge of Fire
 grand_parent: Cards
-parent: Scourge of Fire
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/scourge-of-fire/

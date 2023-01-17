@@ -2,7 +2,7 @@
 layout: card
 title: Seized by Terror
 grand_parent: Cards
-parent: Seized by Terror
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/seized-by-terror/

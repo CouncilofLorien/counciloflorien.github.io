@@ -2,7 +2,7 @@
 layout: card
 title: Ordered to Kill
 grand_parent: Cards
-parent: Ordered to Kill
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/ordered-to-kill/

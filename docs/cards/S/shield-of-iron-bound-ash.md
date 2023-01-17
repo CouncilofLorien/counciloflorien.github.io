@@ -2,7 +2,7 @@
 layout: card
 title: Shield of Iron-bound Ash
 grand_parent: Cards
-parent: Shield of Iron-bound Ash
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/shield-of-iron-bound-ash/

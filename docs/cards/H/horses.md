@@ -2,7 +2,7 @@
 layout: card
 title: Horses
 grand_parent: Cards
-parent: Horses
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/horses/

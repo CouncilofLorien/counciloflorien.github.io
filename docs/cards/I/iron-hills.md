@@ -2,7 +2,7 @@
 layout: card
 title: Iron Hills
 grand_parent: Cards
-parent: Iron Hills
+parent: I
 search_exclude: false
 nav_exclude: true
 permalink: /cards/iron-hills/

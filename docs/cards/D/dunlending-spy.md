@@ -2,7 +2,7 @@
 layout: card
 title: Dunlending Spy
 grand_parent: Cards
-parent: Dunlending Spy
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/dunlending-spy/

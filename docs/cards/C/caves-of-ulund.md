@@ -2,7 +2,7 @@
 layout: card
 title: Caves of Ulund
 grand_parent: Cards
-parent: Caves of Ulund
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/caves-of-ulund/

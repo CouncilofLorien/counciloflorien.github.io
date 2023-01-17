@@ -2,7 +2,7 @@
 layout: card
 title: In the Heart of his Realm
 grand_parent: Cards
-parent: In the Heart of his Realm
+parent: I
 search_exclude: false
 nav_exclude: true
 permalink: /cards/in-the-heart-of-his-realm/

@@ -2,7 +2,7 @@
 layout: card
 title: Skin-changer
 grand_parent: Cards
-parent: Skin-changer
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/skin-changer/

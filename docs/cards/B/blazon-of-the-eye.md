@@ -2,7 +2,7 @@
 layout: card
 title: Blazon of the Eye
 grand_parent: Cards
-parent: Blazon of the Eye
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/blazon-of-the-eye/

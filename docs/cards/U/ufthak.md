@@ -2,7 +2,7 @@
 layout: card
 title: Ufthak
 grand_parent: Cards
-parent: Ufthak
+parent: U
 search_exclude: false
 nav_exclude: true
 permalink: /cards/ufthak/

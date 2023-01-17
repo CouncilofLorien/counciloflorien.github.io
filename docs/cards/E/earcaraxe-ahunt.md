@@ -2,7 +2,7 @@
 layout: card
 title: Earcaraxe Ahunt
 grand_parent: Cards
-parent: Earcaraxe Ahunt
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/earcaraxe-ahunt/

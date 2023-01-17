@@ -2,7 +2,7 @@
 layout: card
 title: Bairanax Roused
 grand_parent: Cards
-parent: Bairanax Roused
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/bairanax-roused/

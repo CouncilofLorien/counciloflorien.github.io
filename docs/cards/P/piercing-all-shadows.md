@@ -2,7 +2,7 @@
 layout: card
 title: Piercing All Shadows
 grand_parent: Cards
-parent: Piercing All Shadows
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/piercing-all-shadows/

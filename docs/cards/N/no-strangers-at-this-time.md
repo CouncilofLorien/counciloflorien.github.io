@@ -2,7 +2,7 @@
 layout: card
 title: No Strangers at this Time
 grand_parent: Cards
-parent: No Strangers at this Time
+parent: N
 search_exclude: false
 nav_exclude: true
 permalink: /cards/no-strangers-at-this-time/

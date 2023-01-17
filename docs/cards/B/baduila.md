@@ -2,7 +2,7 @@
 layout: card
 title: Baduila
 grand_parent: Cards
-parent: Baduila
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/baduila/

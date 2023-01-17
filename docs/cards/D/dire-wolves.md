@@ -2,7 +2,7 @@
 layout: card
 title: Dire Wolves
 grand_parent: Cards
-parent: Dire Wolves
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/dire-wolves/

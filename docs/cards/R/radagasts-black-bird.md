@@ -2,7 +2,7 @@
 layout: card
 title: Radagast's Black Bird
 grand_parent: Cards
-parent: Radagast's Black Bird
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/radagasts-black-bird/

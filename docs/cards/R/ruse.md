@@ -2,7 +2,7 @@
 layout: card
 title: Ruse
 grand_parent: Cards
-parent: Ruse
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/ruse/

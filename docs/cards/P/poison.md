@@ -2,7 +2,7 @@
 layout: card
 title: Poison
 grand_parent: Cards
-parent: Poison
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/poison/

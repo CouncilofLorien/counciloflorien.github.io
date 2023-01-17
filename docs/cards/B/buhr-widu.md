@@ -2,7 +2,7 @@
 layout: card
 title: Buhr Widu
 grand_parent: Cards
-parent: Buhr Widu
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/buhr-widu/

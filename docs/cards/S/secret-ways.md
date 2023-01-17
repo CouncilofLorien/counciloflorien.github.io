@@ -2,7 +2,7 @@
 layout: card
 title: Secret Ways
 grand_parent: Cards
-parent: Secret Ways
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/secret-ways/

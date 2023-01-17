@@ -2,7 +2,7 @@
 layout: card
 title: The Undeeps of Anduin
 grand_parent: Cards
-parent: The Undeeps of Anduin
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-undeeps-of-anduin/

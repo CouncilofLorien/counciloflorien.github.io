@@ -2,7 +2,7 @@
 layout: card
 title: Wizard Uncloaked
 grand_parent: Cards
-parent: Wizard Uncloaked
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/wizard-uncloaked/

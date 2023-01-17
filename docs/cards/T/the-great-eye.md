@@ -2,7 +2,7 @@
 layout: card
 title: The Great Eye
 grand_parent: Cards
-parent: The Great Eye
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-great-eye/

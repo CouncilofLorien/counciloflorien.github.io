@@ -2,7 +2,7 @@
 layout: card
 title: Thorin II
 grand_parent: Cards
-parent: Thorin II
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/thorin-ii/

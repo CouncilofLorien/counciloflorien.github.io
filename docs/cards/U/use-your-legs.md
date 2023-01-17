@@ -2,7 +2,7 @@
 layout: card
 title: Use Your Legs
 grand_parent: Cards
-parent: Use Your Legs
+parent: U
 search_exclude: false
 nav_exclude: true
 permalink: /cards/use-your-legs/

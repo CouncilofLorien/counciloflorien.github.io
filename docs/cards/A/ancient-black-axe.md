@@ -2,7 +2,7 @@
 layout: card
 title: Ancient Black Axe
 grand_parent: Cards
-parent: Ancient Black Axe
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/ancient-black-axe/

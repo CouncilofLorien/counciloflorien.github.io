@@ -2,7 +2,7 @@
 layout: card
 title: Doubled Vigilance
 grand_parent: Cards
-parent: Doubled Vigilance
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/doubled-vigilance/

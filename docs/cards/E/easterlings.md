@@ -2,7 +2,7 @@
 layout: card
 title: Easterlings
 grand_parent: Cards
-parent: Easterlings
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/easterlings/

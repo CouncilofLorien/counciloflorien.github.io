@@ -2,7 +2,7 @@
 layout: card
 title: I'll Be At Your Heels
 grand_parent: Cards
-parent: I'll Be At Your Heels
+parent: I
 search_exclude: false
 nav_exclude: true
 permalink: /cards/ill-be-at-your-heels/

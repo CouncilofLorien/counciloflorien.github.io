@@ -2,7 +2,7 @@
 layout: card
 title: Bow of Dragon-horn
 grand_parent: Cards
-parent: Bow of Dragon-horn
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/bow-of-dragon-horn/

@@ -2,7 +2,7 @@
 layout: card
 title: Open to the Summons
 grand_parent: Cards
-parent: Open to the Summons
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/open-to-the-summons/

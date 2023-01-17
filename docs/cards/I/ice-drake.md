@@ -2,7 +2,7 @@
 layout: card
 title: Ice-drake
 grand_parent: Cards
-parent: Ice-drake
+parent: I
 search_exclude: false
 nav_exclude: true
 permalink: /cards/ice-drake/

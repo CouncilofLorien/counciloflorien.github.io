@@ -2,7 +2,7 @@
 layout: card
 title: In Darkness Bind Them
 grand_parent: Cards
-parent: In Darkness Bind Them
+parent: I
 search_exclude: false
 nav_exclude: true
 permalink: /cards/in-darkness-bind-them/

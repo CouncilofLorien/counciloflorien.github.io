@@ -2,7 +2,7 @@
 layout: card
 title: The Sulfur-deeps
 grand_parent: Cards
-parent: The Sulfur-deeps
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-sulfur-deeps/

@@ -2,7 +2,7 @@
 layout: card
 title: The Lidless Eye
 grand_parent: Cards
-parent: The Lidless Eye
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-lidless-eye/

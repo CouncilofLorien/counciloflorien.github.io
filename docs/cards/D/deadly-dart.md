@@ -2,7 +2,7 @@
 layout: card
 title: Deadly Dart
 grand_parent: Cards
-parent: Deadly Dart
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/deadly-dart/

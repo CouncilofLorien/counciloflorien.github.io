@@ -2,7 +2,7 @@
 layout: card
 title: In the Grip of Ambition
 grand_parent: Cards
-parent: In the Grip of Ambition
+parent: I
 search_exclude: false
 nav_exclude: true
 permalink: /cards/in-the-grip-of-ambition/

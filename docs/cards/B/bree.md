@@ -2,7 +2,7 @@
 layout: card
 title: Bree
 grand_parent: Cards
-parent: Bree
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/bree/

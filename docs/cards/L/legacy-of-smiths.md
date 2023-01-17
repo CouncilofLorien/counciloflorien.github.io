@@ -2,7 +2,7 @@
 layout: card
 title: Legacy of Smiths
 grand_parent: Cards
-parent: Legacy of Smiths
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/legacy-of-smiths/

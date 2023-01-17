@@ -2,7 +2,7 @@
 layout: card
 title: Wizard's Staff
 grand_parent: Cards
-parent: Wizard's Staff
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/wizards-staff/

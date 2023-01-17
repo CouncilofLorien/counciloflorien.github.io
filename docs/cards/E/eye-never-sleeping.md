@@ -2,7 +2,7 @@
 layout: card
 title: Eye Never Sleeping
 grand_parent: Cards
-parent: Eye Never Sleeping
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/eye-never-sleeping/

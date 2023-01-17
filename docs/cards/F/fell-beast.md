@@ -2,7 +2,7 @@
 layout: card
 title: Fell Beast
 grand_parent: Cards
-parent: Fell Beast
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/fell-beast/

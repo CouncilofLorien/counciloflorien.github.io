@@ -2,7 +2,7 @@
 layout: card
 title: Poison of his Voice
 grand_parent: Cards
-parent: Poison of his Voice
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/poison-of-his-voice/

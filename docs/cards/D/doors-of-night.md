@@ -2,7 +2,7 @@
 layout: card
 title: Doors of Night
 grand_parent: Cards
-parent: Doors of Night
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/doors-of-night/

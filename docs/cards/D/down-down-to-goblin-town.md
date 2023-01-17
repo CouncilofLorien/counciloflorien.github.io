@@ -2,7 +2,7 @@
 layout: card
 title: Down Down to Goblin-town
 grand_parent: Cards
-parent: Down Down to Goblin-town
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/down-down-to-goblin-town/

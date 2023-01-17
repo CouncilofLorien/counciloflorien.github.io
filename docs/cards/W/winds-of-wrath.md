@@ -2,7 +2,7 @@
 layout: card
 title: Winds of Wrath
 grand_parent: Cards
-parent: Winds of Wrath
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/winds-of-wrath/

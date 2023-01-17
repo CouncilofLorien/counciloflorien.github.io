@@ -2,7 +2,7 @@
 layout: card
 title: Wold & Foothills
 grand_parent: Cards
-parent: Wold & Foothills
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/wold-&-foothills/

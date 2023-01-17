@@ -2,7 +2,7 @@
 layout: card
 title: Bifur
 grand_parent: Cards
-parent: Bifur
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/bifur/

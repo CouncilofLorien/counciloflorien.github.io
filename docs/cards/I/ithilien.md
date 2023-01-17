@@ -2,7 +2,7 @@
 layout: card
 title: Ithilien
 grand_parent: Cards
-parent: Ithilien
+parent: I
 search_exclude: false
 nav_exclude: true
 permalink: /cards/ithilien/

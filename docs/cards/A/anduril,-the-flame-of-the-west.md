@@ -2,7 +2,7 @@
 layout: card
 title: Anduril, the Flame of the West
 grand_parent: Cards
-parent: Anduril, the Flame of the West
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/anduril,-the-flame-of-the-west/

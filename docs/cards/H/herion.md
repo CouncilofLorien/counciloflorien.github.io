@@ -2,7 +2,7 @@
 layout: card
 title: Herion
 grand_parent: Cards
-parent: Herion
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/herion/

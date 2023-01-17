@@ -2,7 +2,7 @@
 layout: card
 title: Magical Harp
 grand_parent: Cards
-parent: Magical Harp
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/magical-harp/

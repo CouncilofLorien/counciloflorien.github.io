@@ -2,7 +2,7 @@
 layout: card
 title: One Dear to You
 grand_parent: Cards
-parent: One Dear to You
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/one-dear-to-you/

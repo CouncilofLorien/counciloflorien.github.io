@@ -2,7 +2,7 @@
 layout: card
 title: Rohan
 grand_parent: Cards
-parent: Rohan
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/rohan/

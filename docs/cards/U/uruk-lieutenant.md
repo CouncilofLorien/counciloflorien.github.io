@@ -2,7 +2,7 @@
 layout: card
 title: Uruk-lieutenant
 grand_parent: Cards
-parent: Uruk-lieutenant
+parent: U
 search_exclude: false
 nav_exclude: true
 permalink: /cards/uruk-lieutenant/

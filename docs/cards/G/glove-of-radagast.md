@@ -2,7 +2,7 @@
 layout: card
 title: Glove of Radagast
 grand_parent: Cards
-parent: Glove of Radagast
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/glove-of-radagast/

@@ -2,7 +2,7 @@
 layout: card
 title: Necklace of Girion
 grand_parent: Cards
-parent: Necklace of Girion
+parent: N
 search_exclude: false
 nav_exclude: true
 permalink: /cards/necklace-of-girion/

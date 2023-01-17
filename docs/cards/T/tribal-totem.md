@@ -2,7 +2,7 @@
 layout: card
 title: Tribal Totem
 grand_parent: Cards
-parent: Tribal Totem
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/tribal-totem/

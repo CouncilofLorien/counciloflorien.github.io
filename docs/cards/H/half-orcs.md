@@ -2,7 +2,7 @@
 layout: card
 title: Half-orcs
 grand_parent: Cards
-parent: Half-orcs
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/half-orcs/

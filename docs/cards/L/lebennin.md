@@ -2,7 +2,7 @@
 layout: card
 title: Lebennin
 grand_parent: Cards
-parent: Lebennin
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/lebennin/

@@ -2,7 +2,7 @@
 layout: card
 title: Ren the Unclean
 grand_parent: Cards
-parent: Ren the Unclean
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/ren-the-unclean/

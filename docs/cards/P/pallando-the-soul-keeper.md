@@ -2,7 +2,7 @@
 layout: card
 title: Pallando the Soul-keeper
 grand_parent: Cards
-parent: Pallando the Soul-keeper
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/pallando-the-soul-keeper/

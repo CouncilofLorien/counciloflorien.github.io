@@ -2,7 +2,7 @@
 layout: card
 title: Ren Unleashed
 grand_parent: Cards
-parent: Ren Unleashed
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/ren-unleashed/

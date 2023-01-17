@@ -2,7 +2,7 @@
 layout: card
 title: News Must Get Through
 grand_parent: Cards
-parent: News Must Get Through
+parent: N
 search_exclude: false
 nav_exclude: true
 permalink: /cards/news-must-get-through/

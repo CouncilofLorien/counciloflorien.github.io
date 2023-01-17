@@ -2,7 +2,7 @@
 layout: card
 title: Eddy in Fate's Tide
 grand_parent: Cards
-parent: Eddy in Fate's Tide
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/eddy-in-fates-tide/

@@ -2,7 +2,7 @@
 layout: card
 title: Knights of Dol Amroth
 grand_parent: Cards
-parent: Knights of Dol Amroth
+parent: K
 search_exclude: false
 nav_exclude: true
 permalink: /cards/knights-of-dol-amroth/

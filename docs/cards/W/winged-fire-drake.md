@@ -2,7 +2,7 @@
 layout: card
 title: Winged Fire-drake
 grand_parent: Cards
-parent: Winged Fire-drake
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/winged-fire-drake/

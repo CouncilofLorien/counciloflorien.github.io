@@ -2,7 +2,7 @@
 layout: card
 title: Call of Home
 grand_parent: Cards
-parent: Call of Home
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/call-of-home/

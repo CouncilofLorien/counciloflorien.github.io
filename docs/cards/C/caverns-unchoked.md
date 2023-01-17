@@ -2,7 +2,7 @@
 layout: card
 title: Caverns Unchoked
 grand_parent: Cards
-parent: Caverns Unchoked
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/caverns-unchoked/

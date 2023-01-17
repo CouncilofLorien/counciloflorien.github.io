@@ -2,7 +2,7 @@
 layout: card
 title: Gems of Arda
 grand_parent: Cards
-parent: Gems of Arda
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/gems-of-arda/

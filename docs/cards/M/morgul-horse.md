@@ -2,7 +2,7 @@
 layout: card
 title: Morgul-horse
 grand_parent: Cards
-parent: Morgul-horse
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/morgul-horse/

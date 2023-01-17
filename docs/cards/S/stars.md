@@ -2,7 +2,7 @@
 layout: card
 title: Stars
 grand_parent: Cards
-parent: Stars
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/stars/

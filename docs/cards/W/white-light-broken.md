@@ -2,7 +2,7 @@
 layout: card
 title: White Light Broken
 grand_parent: Cards
-parent: White Light Broken
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/white-light-broken/

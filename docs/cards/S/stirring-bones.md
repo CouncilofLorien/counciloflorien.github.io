@@ -2,7 +2,7 @@
 layout: card
 title: Stirring Bones
 grand_parent: Cards
-parent: Stirring Bones
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/stirring-bones/

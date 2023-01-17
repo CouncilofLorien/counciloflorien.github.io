@@ -2,7 +2,7 @@
 layout: card
 title: Hauberk of Bright Mail
 grand_parent: Cards
-parent: Hauberk of Bright Mail
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/hauberk-of-bright-mail/

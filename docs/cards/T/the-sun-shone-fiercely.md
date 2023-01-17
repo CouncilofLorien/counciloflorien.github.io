@@ -2,7 +2,7 @@
 layout: card
 title: The Sun Shone Fiercely
 grand_parent: Cards
-parent: The Sun Shone Fiercely
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-sun-shone-fiercely/

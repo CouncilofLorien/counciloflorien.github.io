@@ -2,7 +2,7 @@
 layout: card
 title: Smaug
 grand_parent: Cards
-parent: Smaug
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/smaug/

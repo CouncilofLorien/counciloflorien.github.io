@@ -2,7 +2,7 @@
 layout: card
 title: Fireworks
 grand_parent: Cards
-parent: Fireworks
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/fireworks/

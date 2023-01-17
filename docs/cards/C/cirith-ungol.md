@@ -2,7 +2,7 @@
 layout: card
 title: Cirith Ungol
 grand_parent: Cards
-parent: Cirith Ungol
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/cirith-ungol/

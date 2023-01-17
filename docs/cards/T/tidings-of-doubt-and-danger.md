@@ -2,7 +2,7 @@
 layout: card
 title: Tidings of Doubt and Danger
 grand_parent: Cards
-parent: Tidings of Doubt and Danger
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/tidings-of-doubt-and-danger/

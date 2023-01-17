@@ -2,7 +2,7 @@
 layout: card
 title: Waiting Shadow
 grand_parent: Cards
-parent: Waiting Shadow
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/waiting-shadow/

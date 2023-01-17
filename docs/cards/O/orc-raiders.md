@@ -2,7 +2,7 @@
 layout: card
 title: Orc-raiders
 grand_parent: Cards
-parent: Orc-raiders
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/orc-raiders/

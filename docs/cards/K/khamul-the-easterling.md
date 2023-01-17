@@ -2,7 +2,7 @@
 layout: card
 title: Khamul the Easterling
 grand_parent: Cards
-parent: Khamul the Easterling
+parent: K
 search_exclude: false
 nav_exclude: true
 permalink: /cards/khamul-the-easterling/

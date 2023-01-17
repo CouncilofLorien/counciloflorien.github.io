@@ -2,7 +2,7 @@
 layout: card
 title: Gondmaeglom
 grand_parent: Cards
-parent: Gondmaeglom
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/gondmaeglom/

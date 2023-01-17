@@ -2,7 +2,7 @@
 layout: card
 title: Glamour of Surpassing Excellance
 grand_parent: Cards
-parent: Glamour of Surpassing Excellance
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/glamour-of-surpassing-excellance/

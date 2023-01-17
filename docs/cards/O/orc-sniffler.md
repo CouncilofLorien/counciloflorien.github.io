@@ -2,7 +2,7 @@
 layout: card
 title: Orc Sniffler
 grand_parent: Cards
-parent: Orc Sniffler
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/orc-sniffler/

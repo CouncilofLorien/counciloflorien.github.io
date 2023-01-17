@@ -2,7 +2,7 @@
 layout: card
 title: Spells Born of Discord
 grand_parent: Cards
-parent: Spells Born of Discord
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/spells-born-of-discord/

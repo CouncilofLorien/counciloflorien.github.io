@@ -2,7 +2,7 @@
 layout: card
 title: Annalena
 grand_parent: Cards
-parent: Annalena
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/annalena/

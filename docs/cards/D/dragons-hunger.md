@@ -2,7 +2,7 @@
 layout: card
 title: Dragon's Hunger
 grand_parent: Cards
-parent: Dragon's Hunger
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/dragons-hunger/

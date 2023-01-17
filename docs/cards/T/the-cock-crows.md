@@ -2,7 +2,7 @@
 layout: card
 title: The Cock Crows
 grand_parent: Cards
-parent: The Cock Crows
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-cock-crows/

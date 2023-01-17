@@ -2,7 +2,7 @@
 layout: card
 title: Elladan
 grand_parent: Cards
-parent: Elladan
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/elladan/

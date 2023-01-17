@@ -2,7 +2,7 @@
 layout: card
 title: Seize Prisoners
 grand_parent: Cards
-parent: Seize Prisoners
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/seize-prisoners/

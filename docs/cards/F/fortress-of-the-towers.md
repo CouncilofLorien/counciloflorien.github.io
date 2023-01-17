@@ -2,7 +2,7 @@
 layout: card
 title: Fortress of the Towers
 grand_parent: Cards
-parent: Fortress of the Towers
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/fortress-of-the-towers/

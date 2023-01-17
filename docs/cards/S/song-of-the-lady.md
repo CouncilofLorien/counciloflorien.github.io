@@ -2,7 +2,7 @@
 layout: card
 title: Song of the Lady
 grand_parent: Cards
-parent: Song of the Lady
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/song-of-the-lady/

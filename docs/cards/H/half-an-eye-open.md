@@ -2,7 +2,7 @@
 layout: card
 title: Half an Eye Open
 grand_parent: Cards
-parent: Half an Eye Open
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/half-an-eye-open/

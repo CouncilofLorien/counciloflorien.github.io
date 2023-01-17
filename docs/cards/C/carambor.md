@@ -2,7 +2,7 @@
 layout: card
 title: Carambor
 grand_parent: Cards
-parent: Carambor
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/carambor/

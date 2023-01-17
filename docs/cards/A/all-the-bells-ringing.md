@@ -2,7 +2,7 @@
 layout: card
 title: All the Bells Ringing
 grand_parent: Cards
-parent: All the Bells Ringing
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/all-the-bells-ringing/

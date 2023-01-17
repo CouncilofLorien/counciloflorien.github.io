@@ -2,7 +2,7 @@
 layout: card
 title: Thrall of the Voice
 grand_parent: Cards
-parent: Thrall of the Voice
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/thrall-of-the-voice/

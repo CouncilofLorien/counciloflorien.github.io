@@ -2,7 +2,7 @@
 layout: card
 title: Orcs of Udun
 grand_parent: Cards
-parent: Orcs of Udun
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/orcs-of-udun/

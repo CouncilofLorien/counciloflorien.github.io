@@ -2,7 +2,7 @@
 layout: card
 title: The Will of the Ring
 grand_parent: Cards
-parent: The Will of the Ring
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-will-of-the-ring/

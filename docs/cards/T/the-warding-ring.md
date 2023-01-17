@@ -2,7 +2,7 @@
 layout: card
 title: The Warding Ring
 grand_parent: Cards
-parent: The Warding Ring
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-warding-ring/

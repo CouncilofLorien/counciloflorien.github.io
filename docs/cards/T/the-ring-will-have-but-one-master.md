@@ -2,7 +2,7 @@
 layout: card
 title: The Ring Will Have But One Master
 grand_parent: Cards
-parent: The Ring Will Have But One Master
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-ring-will-have-but-one-master/

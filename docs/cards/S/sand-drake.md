@@ -2,7 +2,7 @@
 layout: card
 title: Sand-drake
 grand_parent: Cards
-parent: Sand-drake
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/sand-drake/

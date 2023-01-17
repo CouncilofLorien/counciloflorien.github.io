@@ -2,7 +2,7 @@
 layout: card
 title: Dror
 grand_parent: Cards
-parent: Dror
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/dror/

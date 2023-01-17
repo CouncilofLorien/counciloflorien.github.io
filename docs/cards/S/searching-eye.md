@@ -2,7 +2,7 @@
 layout: card
 title: Searching Eye
 grand_parent: Cards
-parent: Searching Eye
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/searching-eye/

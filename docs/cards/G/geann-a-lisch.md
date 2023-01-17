@@ -2,7 +2,7 @@
 layout: card
 title: Geann a-Lisch
 grand_parent: Cards
-parent: Geann a-Lisch
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/geann-a-lisch/

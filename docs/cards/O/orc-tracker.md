@@ -2,7 +2,7 @@
 layout: card
 title: Orc Tracker
 grand_parent: Cards
-parent: Orc Tracker
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/orc-tracker/

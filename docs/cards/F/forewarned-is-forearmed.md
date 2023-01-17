@@ -2,7 +2,7 @@
 layout: card
 title: Forewarned is Forearmed
 grand_parent: Cards
-parent: Forewarned is Forearmed
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/forewarned-is-forearmed/

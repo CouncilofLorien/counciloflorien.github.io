@@ -2,7 +2,7 @@
 layout: card
 title: A New Ringlord
 grand_parent: Cards
-parent: A New Ringlord
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/a-new-ringlord/

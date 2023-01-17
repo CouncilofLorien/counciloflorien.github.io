@@ -2,7 +2,7 @@
 layout: card
 title: Forgotten Scrolls
 grand_parent: Cards
-parent: Forgotten Scrolls
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/forgotten-scrolls/

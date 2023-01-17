@@ -2,7 +2,7 @@
 layout: card
 title: Giant Spiders
 grand_parent: Cards
-parent: Giant Spiders
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/giant-spiders/

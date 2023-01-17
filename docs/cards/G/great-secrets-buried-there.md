@@ -2,7 +2,7 @@
 layout: card
 title: Great Secrets Buried There
 grand_parent: Cards
-parent: Great Secrets Buried There
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/great-secrets-buried-there/

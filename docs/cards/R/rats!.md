@@ -2,7 +2,7 @@
 layout: card
 title: Rats!
 grand_parent: Cards
-parent: Rats!
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/rats!/

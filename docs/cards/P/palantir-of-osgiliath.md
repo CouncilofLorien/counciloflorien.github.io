@@ -2,7 +2,7 @@
 layout: card
 title: Palantir of Osgiliath
 grand_parent: Cards
-parent: Palantir of Osgiliath
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/palantir-of-osgiliath/

@@ -2,7 +2,7 @@
 layout: card
 title: Wild Hounds
 grand_parent: Cards
-parent: Wild Hounds
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/wild-hounds/

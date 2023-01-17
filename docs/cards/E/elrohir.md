@@ -2,7 +2,7 @@
 layout: card
 title: Elrohir
 grand_parent: Cards
-parent: Elrohir
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/elrohir/

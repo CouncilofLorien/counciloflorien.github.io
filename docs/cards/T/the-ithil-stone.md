@@ -2,7 +2,7 @@
 layout: card
 title: The Ithil-stone
 grand_parent: Cards
-parent: The Ithil-stone
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-ithil-stone/

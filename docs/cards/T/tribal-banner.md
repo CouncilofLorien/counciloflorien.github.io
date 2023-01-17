@@ -2,7 +2,7 @@
 layout: card
 title: Tribal Banner
 grand_parent: Cards
-parent: Tribal Banner
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/tribal-banner/

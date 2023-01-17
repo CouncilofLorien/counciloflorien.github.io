@@ -2,7 +2,7 @@
 layout: card
 title: Shelob
 grand_parent: Cards
-parent: Shelob
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/shelob/

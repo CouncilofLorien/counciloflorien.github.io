@@ -2,7 +2,7 @@
 layout: card
 title: Hoarmurath of Dir
 grand_parent: Cards
-parent: Hoarmurath of Dir
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/hoarmurath-of-dir/

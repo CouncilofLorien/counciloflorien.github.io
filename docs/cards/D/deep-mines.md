@@ -2,7 +2,7 @@
 layout: card
 title: Deep Mines
 grand_parent: Cards
-parent: Deep Mines
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/deep-mines/

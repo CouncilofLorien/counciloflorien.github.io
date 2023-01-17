@@ -2,7 +2,7 @@
 layout: card
 title: Press-gang
 grand_parent: Cards
-parent: Press-gang
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/press-gang/

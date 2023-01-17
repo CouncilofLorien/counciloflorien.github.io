@@ -2,7 +2,7 @@
 layout: card
 title: Redhorn Gate
 grand_parent: Cards
-parent: Redhorn Gate
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/redhorn-gate/

@@ -2,7 +2,7 @@
 layout: card
 title: Rumor of Wealth
 grand_parent: Cards
-parent: Rumor of Wealth
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/rumor-of-wealth/

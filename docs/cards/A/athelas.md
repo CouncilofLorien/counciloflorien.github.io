@@ -2,7 +2,7 @@
 layout: card
 title: Athelas
 grand_parent: Cards
-parent: Athelas
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/athelas/

@@ -2,7 +2,7 @@
 layout: card
 title: Choice of Luthien
 grand_parent: Cards
-parent: Choice of Luthien
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/choice-of-luthien/

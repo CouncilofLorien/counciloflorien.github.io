@@ -2,7 +2,7 @@
 layout: card
 title: Whip of Many Thongs
 grand_parent: Cards
-parent: Whip of Many Thongs
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/whip-of-many-thongs/

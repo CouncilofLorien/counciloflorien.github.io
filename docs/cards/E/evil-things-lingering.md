@@ -2,7 +2,7 @@
 layout: card
 title: Evil Things Lingering
 grand_parent: Cards
-parent: Evil Things Lingering
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/evil-things-lingering/

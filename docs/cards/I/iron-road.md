@@ -2,7 +2,7 @@
 layout: card
 title: Iron-road
 grand_parent: Cards
-parent: Iron-road
+parent: I
 search_exclude: false
 nav_exclude: true
 permalink: /cards/iron-road/

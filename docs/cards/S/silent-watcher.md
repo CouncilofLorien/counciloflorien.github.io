@@ -2,7 +2,7 @@
 layout: card
 title: Silent Watcher
 grand_parent: Cards
-parent: Silent Watcher
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/silent-watcher/

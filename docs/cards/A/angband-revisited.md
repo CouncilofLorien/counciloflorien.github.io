@@ -2,7 +2,7 @@
 layout: card
 title: Angband Revisited
 grand_parent: Cards
-parent: Angband Revisited
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/angband-revisited/

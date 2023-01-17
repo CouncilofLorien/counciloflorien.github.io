@@ -2,7 +2,7 @@
 layout: card
 title: Great Ship
 grand_parent: Cards
-parent: Great Ship
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/great-ship/

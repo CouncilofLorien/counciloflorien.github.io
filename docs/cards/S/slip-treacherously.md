@@ -2,7 +2,7 @@
 layout: card
 title: Slip Treacherously
 grand_parent: Cards
-parent: Slip Treacherously
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/slip-treacherously/

@@ -2,7 +2,7 @@
 layout: card
 title: Far-sight
 grand_parent: Cards
-parent: Far-sight
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/far-sight/

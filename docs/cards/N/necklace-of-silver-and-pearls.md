@@ -2,7 +2,7 @@
 layout: card
 title: Necklace of Silver and Pearls
 grand_parent: Cards
-parent: Necklace of Silver and Pearls
+parent: N
 search_exclude: false
 nav_exclude: true
 permalink: /cards/necklace-of-silver-and-pearls/

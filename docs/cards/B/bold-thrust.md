@@ -2,7 +2,7 @@
 layout: card
 title: Bold Thrust
 grand_parent: Cards
-parent: Bold Thrust
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/bold-thrust/

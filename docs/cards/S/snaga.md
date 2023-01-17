@@ -2,7 +2,7 @@
 layout: card
 title: Snaga
 grand_parent: Cards
-parent: Snaga
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/snaga/

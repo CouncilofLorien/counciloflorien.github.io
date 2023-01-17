@@ -2,7 +2,7 @@
 layout: card
 title: Durin's Axe
 grand_parent: Cards
-parent: Durin's Axe
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/durins-axe/

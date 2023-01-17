@@ -2,7 +2,7 @@
 layout: card
 title: Shadowfax
 grand_parent: Cards
-parent: Shadowfax
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/shadowfax/

@@ -2,7 +2,7 @@
 layout: card
 title: Man of Skill
 grand_parent: Cards
-parent: Man of Skill
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/man-of-skill/

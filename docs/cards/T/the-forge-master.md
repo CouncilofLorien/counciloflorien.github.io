@@ -2,7 +2,7 @@
 layout: card
 title: The Forge-master
 grand_parent: Cards
-parent: The Forge-master
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-forge-master/

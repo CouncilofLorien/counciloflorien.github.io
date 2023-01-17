@@ -2,7 +2,7 @@
 layout: card
 title: Enchanted Stream
 grand_parent: Cards
-parent: Enchanted Stream
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/enchanted-stream/

@@ -2,7 +2,7 @@
 layout: card
 title: Shadow-cloak
 grand_parent: Cards
-parent: Shadow-cloak
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/shadow-cloak/

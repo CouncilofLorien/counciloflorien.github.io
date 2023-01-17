@@ -2,7 +2,7 @@
 layout: card
 title: Elven Shores
 grand_parent: Cards
-parent: Elven Shores
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/elven-shores/

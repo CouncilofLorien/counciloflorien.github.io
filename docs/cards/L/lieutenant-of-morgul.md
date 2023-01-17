@@ -2,7 +2,7 @@
 layout: card
 title: Lieutenant of Morgul
 grand_parent: Cards
-parent: Lieutenant of Morgul
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/lieutenant-of-morgul/

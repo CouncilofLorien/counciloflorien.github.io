@@ -2,7 +2,7 @@
 layout: card
 title: New Moon
 grand_parent: Cards
-parent: New Moon
+parent: N
 search_exclude: false
 nav_exclude: true
 permalink: /cards/new-moon/

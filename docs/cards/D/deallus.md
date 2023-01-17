@@ -2,7 +2,7 @@
 layout: card
 title: Deallus
 grand_parent: Cards
-parent: Deallus
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/deallus/

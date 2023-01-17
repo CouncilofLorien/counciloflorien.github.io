@@ -2,7 +2,7 @@
 layout: card
 title: Goblin-gate
 grand_parent: Cards
-parent: Goblin-gate
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/goblin-gate/

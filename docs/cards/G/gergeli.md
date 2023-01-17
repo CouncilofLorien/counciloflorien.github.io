@@ -2,7 +2,7 @@
 layout: card
 title: Gergeli
 grand_parent: Cards
-parent: Gergeli
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/gergeli/

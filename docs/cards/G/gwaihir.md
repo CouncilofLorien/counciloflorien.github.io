@@ -2,7 +2,7 @@
 layout: card
 title: Gwaihir
 grand_parent: Cards
-parent: Gwaihir
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/gwaihir/

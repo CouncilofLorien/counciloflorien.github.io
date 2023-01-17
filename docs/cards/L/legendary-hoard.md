@@ -2,7 +2,7 @@
 layout: card
 title: Legendary Hoard
 grand_parent: Cards
-parent: Legendary Hoard
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/legendary-hoard/

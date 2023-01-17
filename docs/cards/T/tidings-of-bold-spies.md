@@ -2,7 +2,7 @@
 layout: card
 title: Tidings of Bold Spies
 grand_parent: Cards
-parent: Tidings of Bold Spies
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/tidings-of-bold-spies/

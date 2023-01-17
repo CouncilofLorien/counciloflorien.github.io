@@ -2,7 +2,7 @@
 layout: card
 title: Forlong
 grand_parent: Cards
-parent: Forlong
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/forlong/

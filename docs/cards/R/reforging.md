@@ -2,7 +2,7 @@
 layout: card
 title: Reforging
 grand_parent: Cards
-parent: Reforging
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/reforging/

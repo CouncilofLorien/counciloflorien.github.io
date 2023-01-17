@@ -2,7 +2,7 @@
 layout: card
 title: Cruel Caradhras
 grand_parent: Cards
-parent: Cruel Caradhras
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/cruel-caradhras/

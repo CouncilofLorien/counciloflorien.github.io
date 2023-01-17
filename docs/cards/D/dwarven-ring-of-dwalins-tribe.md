@@ -2,7 +2,7 @@
 layout: card
 title: Dwarven Ring of Dwalin's Tribe
 grand_parent: Cards
-parent: Dwarven Ring of Dwalin's Tribe
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/dwarven-ring-of-dwalins-tribe/

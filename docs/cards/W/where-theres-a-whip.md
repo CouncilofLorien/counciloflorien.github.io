@@ -2,7 +2,7 @@
 layout: card
 title: Where There's a Whip
 grand_parent: Cards
-parent: Where There's a Whip
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/where-theres-a-whip/

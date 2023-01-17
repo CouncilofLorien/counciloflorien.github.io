@@ -2,7 +2,7 @@
 layout: card
 title: The Dwarves Are upon You!
 grand_parent: Cards
-parent: The Dwarves Are upon You!
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-dwarves-are-upon-you!/

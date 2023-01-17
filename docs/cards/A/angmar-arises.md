@@ -2,7 +2,7 @@
 layout: card
 title: Angmar Arises
 grand_parent: Cards
-parent: Angmar Arises
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/angmar-arises/

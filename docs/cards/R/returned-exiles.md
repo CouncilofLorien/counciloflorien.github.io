@@ -2,7 +2,7 @@
 layout: card
 title: Returned Exiles
 grand_parent: Cards
-parent: Returned Exiles
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/returned-exiles/

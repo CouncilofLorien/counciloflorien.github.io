@@ -2,7 +2,7 @@
 layout: card
 title: Jerrek
 grand_parent: Cards
-parent: Jerrek
+parent: J
 search_exclude: false
 nav_exclude: true
 permalink: /cards/jerrek/

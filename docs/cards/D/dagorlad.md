@@ -2,7 +2,7 @@
 layout: card
 title: Dagorlad
 grand_parent: Cards
-parent: Dagorlad
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/dagorlad/

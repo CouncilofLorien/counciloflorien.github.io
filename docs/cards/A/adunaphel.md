@@ -2,7 +2,7 @@
 layout: card
 title: Adunaphel
 grand_parent: Cards
-parent: Adunaphel
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/adunaphel/

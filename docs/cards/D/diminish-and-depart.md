@@ -2,7 +2,7 @@
 layout: card
 title: Diminish and Depart
 grand_parent: Cards
-parent: Diminish and Depart
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/diminish-and-depart/

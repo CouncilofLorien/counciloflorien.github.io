@@ -2,7 +2,7 @@
 layout: card
 title: Durin's Bane
 grand_parent: Cards
-parent: Durin's Bane
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/durins-bane/

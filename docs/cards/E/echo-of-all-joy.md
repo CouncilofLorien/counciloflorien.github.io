@@ -2,7 +2,7 @@
 layout: card
 title: Echo of all Joy
 grand_parent: Cards
-parent: Echo of all Joy
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/echo-of-all-joy/

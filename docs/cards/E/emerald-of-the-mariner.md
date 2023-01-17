@@ -2,7 +2,7 @@
 layout: card
 title: Emerald of the Mariner
 grand_parent: Cards
-parent: Emerald of the Mariner
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/emerald-of-the-mariner/

@@ -2,7 +2,7 @@
 layout: card
 title: Spies Feared
 grand_parent: Cards
-parent: Spies Feared
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/spies-feared/

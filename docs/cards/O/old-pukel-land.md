@@ -2,7 +2,7 @@
 layout: card
 title: Old Pukel-land
 grand_parent: Cards
-parent: Old Pukel-land
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/old-pukel-land/

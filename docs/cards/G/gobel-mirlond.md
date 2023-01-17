@@ -2,7 +2,7 @@
 layout: card
 title: Gobel Mirlond
 grand_parent: Cards
-parent: Gobel Mirlond
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/gobel-mirlond/

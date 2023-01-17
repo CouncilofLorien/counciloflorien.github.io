@@ -2,7 +2,7 @@
 layout: card
 title: Om-buri-Om
 grand_parent: Cards
-parent: Om-buri-Om
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/om-buri-om/

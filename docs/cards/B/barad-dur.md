@@ -2,7 +2,7 @@
 layout: card
 title: Barad-dur
 grand_parent: Cards
-parent: Barad-dur
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/barad-dur/

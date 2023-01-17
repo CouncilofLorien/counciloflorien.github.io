@@ -2,7 +2,7 @@
 layout: card
 title: Awaken Denizens
 grand_parent: Cards
-parent: Awaken Denizens
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/awaken-denizens/

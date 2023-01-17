@@ -2,7 +2,7 @@
 layout: card
 title: The Nazgul are Abroad
 grand_parent: Cards
-parent: The Nazgul are Abroad
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-nazgul-are-abroad/

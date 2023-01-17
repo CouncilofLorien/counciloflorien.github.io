@@ -2,7 +2,7 @@
 layout: card
 title: Black Rain
 grand_parent: Cards
-parent: Black Rain
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/black-rain/

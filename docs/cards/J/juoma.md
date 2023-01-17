@@ -2,7 +2,7 @@
 layout: card
 title: Juoma
 grand_parent: Cards
-parent: Juoma
+parent: J
 search_exclude: false
 nav_exclude: true
 permalink: /cards/juoma/

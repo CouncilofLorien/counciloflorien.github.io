@@ -2,7 +2,7 @@
 layout: card
 title: War-warg
 grand_parent: Cards
-parent: War-warg
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/war-warg/

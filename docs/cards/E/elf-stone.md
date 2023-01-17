@@ -2,7 +2,7 @@
 layout: card
 title: Elf-stone
 grand_parent: Cards
-parent: Elf-stone
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/elf-stone/

@@ -2,7 +2,7 @@
 layout: card
 title: Wizard's Trove
 grand_parent: Cards
-parent: Wizard's Trove
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/wizards-trove/

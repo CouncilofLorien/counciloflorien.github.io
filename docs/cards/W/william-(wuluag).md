@@ -2,7 +2,7 @@
 layout: card
 title: William (Wuluag)
 grand_parent: Cards
-parent: William (Wuluag)
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/william-(wuluag)/

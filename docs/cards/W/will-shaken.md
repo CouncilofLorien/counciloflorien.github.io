@@ -2,7 +2,7 @@
 layout: card
 title: Will Shaken
 grand_parent: Cards
-parent: Will Shaken
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/will-shaken/

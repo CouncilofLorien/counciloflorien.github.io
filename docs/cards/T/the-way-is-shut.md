@@ -2,7 +2,7 @@
 layout: card
 title: The Way is Shut
 grand_parent: Cards
-parent: The Way is Shut
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-way-is-shut/

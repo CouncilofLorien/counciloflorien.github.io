@@ -2,7 +2,7 @@
 layout: card
 title: Sapling of the White Tree
 grand_parent: Cards
-parent: Sapling of the White Tree
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/sapling-of-the-white-tree/

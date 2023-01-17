@@ -2,7 +2,7 @@
 layout: card
 title: Balrog of Moria
 grand_parent: Cards
-parent: Balrog of Moria
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/balrog-of-moria/

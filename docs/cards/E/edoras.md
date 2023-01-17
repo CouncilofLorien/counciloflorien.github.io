@@ -2,7 +2,7 @@
 layout: card
 title: Edoras
 grand_parent: Cards
-parent: Edoras
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/edoras/

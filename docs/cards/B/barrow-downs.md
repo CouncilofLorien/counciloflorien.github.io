@@ -2,7 +2,7 @@
 layout: card
 title: Barrow-downs
 grand_parent: Cards
-parent: Barrow-downs
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/barrow-downs/

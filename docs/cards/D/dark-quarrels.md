@@ -2,7 +2,7 @@
 layout: card
 title: Dark Quarrels
 grand_parent: Cards
-parent: Dark Quarrels
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/dark-quarrels/

@@ -2,7 +2,7 @@
 layout: card
 title: Horn of Anor
 grand_parent: Cards
-parent: Horn of Anor
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/horn-of-anor/

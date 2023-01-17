@@ -2,7 +2,7 @@
 layout: card
 title: White Mountain Wolves
 grand_parent: Cards
-parent: White Mountain Wolves
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/white-mountain-wolves/

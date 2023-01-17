@@ -2,7 +2,7 @@
 layout: card
 title: Scorba Ahunt
 grand_parent: Cards
-parent: Scorba Ahunt
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/scorba-ahunt/

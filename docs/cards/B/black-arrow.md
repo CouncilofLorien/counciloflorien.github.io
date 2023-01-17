@@ -2,7 +2,7 @@
 layout: card
 title: Black Arrow
 grand_parent: Cards
-parent: Black Arrow
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/black-arrow/

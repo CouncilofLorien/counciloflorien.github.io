@@ -2,7 +2,7 @@
 layout: card
 title: We Have Come to Kill
 grand_parent: Cards
-parent: We Have Come to Kill
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/we-have-come-to-kill/

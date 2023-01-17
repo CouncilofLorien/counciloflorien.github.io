@@ -2,7 +2,7 @@
 layout: card
 title: Gold Hill
 grand_parent: Cards
-parent: Gold Hill
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/gold-hill/

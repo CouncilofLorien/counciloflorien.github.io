@@ -2,7 +2,7 @@
 layout: card
 title: Ancient Stair
 grand_parent: Cards
-parent: Ancient Stair
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/ancient-stair/

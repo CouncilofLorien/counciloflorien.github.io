@@ -2,7 +2,7 @@
 layout: card
 title: Wielded Twice
 grand_parent: Cards
-parent: Wielded Twice
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/wielded-twice/

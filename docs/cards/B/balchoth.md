@@ -2,7 +2,7 @@
 layout: card
 title: Balchoth
 grand_parent: Cards
-parent: Balchoth
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/balchoth/

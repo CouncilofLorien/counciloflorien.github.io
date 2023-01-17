@@ -2,7 +2,7 @@
 layout: card
 title: No More Nonsense
 grand_parent: Cards
-parent: No More Nonsense
+parent: N
 search_exclude: false
 nav_exclude: true
 permalink: /cards/no-more-nonsense/

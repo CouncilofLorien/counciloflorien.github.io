@@ -2,7 +2,7 @@
 layout: card
 title: Morgul-knife
 grand_parent: Cards
-parent: Morgul-knife
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/morgul-knife/

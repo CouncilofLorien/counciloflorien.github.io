@@ -2,7 +2,7 @@
 layout: card
 title: Keys to the White Towers
 grand_parent: Cards
-parent: Keys to the White Towers
+parent: K
 search_exclude: false
 nav_exclude: true
 permalink: /cards/keys-to-the-white-towers/

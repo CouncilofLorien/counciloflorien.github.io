@@ -2,7 +2,7 @@
 layout: card
 title: More Sense than You
 grand_parent: Cards
-parent: More Sense than You
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/more-sense-than-you/

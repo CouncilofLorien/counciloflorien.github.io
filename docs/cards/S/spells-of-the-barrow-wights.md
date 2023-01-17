@@ -2,7 +2,7 @@
 layout: card
 title: Spells of the Barrow-wights
 grand_parent: Cards
-parent: Spells of the Barrow-wights
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/spells-of-the-barrow-wights/

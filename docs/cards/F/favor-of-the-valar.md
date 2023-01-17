@@ -2,7 +2,7 @@
 layout: card
 title: Favor of the Valar
 grand_parent: Cards
-parent: Favor of the Valar
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/favor-of-the-valar/

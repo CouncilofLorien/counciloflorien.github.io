@@ -2,7 +2,7 @@
 layout: card
 title: Secret Passage
 grand_parent: Cards
-parent: Secret Passage
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/secret-passage/

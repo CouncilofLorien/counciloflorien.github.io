@@ -2,7 +2,7 @@
 layout: card
 title: Not at Home
 grand_parent: Cards
-parent: Not at Home
+parent: N
 search_exclude: false
 nav_exclude: true
 permalink: /cards/not-at-home/

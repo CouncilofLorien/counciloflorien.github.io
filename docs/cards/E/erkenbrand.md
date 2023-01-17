@@ -2,7 +2,7 @@
 layout: card
 title: Erkenbrand
 grand_parent: Cards
-parent: Erkenbrand
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/erkenbrand/

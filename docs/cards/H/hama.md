@@ -2,7 +2,7 @@
 layout: card
 title: Hama
 grand_parent: Cards
-parent: Hama
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/hama/

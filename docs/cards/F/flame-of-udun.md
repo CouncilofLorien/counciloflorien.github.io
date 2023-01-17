@@ -2,7 +2,7 @@
 layout: card
 title: Flame of Udun
 grand_parent: Cards
-parent: Flame of Udun
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/flame-of-udun/

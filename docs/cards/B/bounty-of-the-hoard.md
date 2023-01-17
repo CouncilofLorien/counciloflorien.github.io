@@ -2,7 +2,7 @@
 layout: card
 title: Bounty of the Hoard
 grand_parent: Cards
-parent: Bounty of the Hoard
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/bounty-of-the-hoard/

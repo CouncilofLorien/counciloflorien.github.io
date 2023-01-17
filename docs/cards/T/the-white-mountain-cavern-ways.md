@@ -2,7 +2,7 @@
 layout: card
 title: The White Mountain Cavern-ways
 grand_parent: Cards
-parent: The White Mountain Cavern-ways
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-white-mountain-cavern-ways/

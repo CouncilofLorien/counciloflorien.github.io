@@ -2,7 +2,7 @@
 layout: card
 title: Balin
 grand_parent: Cards
-parent: Balin
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/balin/

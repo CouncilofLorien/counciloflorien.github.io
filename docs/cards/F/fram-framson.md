@@ -2,7 +2,7 @@
 layout: card
 title: Fram Framson
 grand_parent: Cards
-parent: Fram Framson
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/fram-framson/

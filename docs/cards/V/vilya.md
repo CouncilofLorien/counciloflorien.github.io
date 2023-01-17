@@ -2,7 +2,7 @@
 layout: card
 title: Vilya
 grand_parent: Cards
-parent: Vilya
+parent: V
 search_exclude: false
 nav_exclude: true
 permalink: /cards/vilya/

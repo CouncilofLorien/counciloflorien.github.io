@@ -2,7 +2,7 @@
 layout: card
 title: Indur Dawndeath
 grand_parent: Cards
-parent: Indur Dawndeath
+parent: I
 search_exclude: false
 nav_exclude: true
 permalink: /cards/indur-dawndeath/

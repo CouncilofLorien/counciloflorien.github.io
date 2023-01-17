@@ -2,7 +2,7 @@
 layout: card
 title: Rolled down to the Sea
 grand_parent: Cards
-parent: Rolled down to the Sea
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/rolled-down-to-the-sea/

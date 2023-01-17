@@ -2,7 +2,7 @@
 layout: card
 title: Horse Plains
 grand_parent: Cards
-parent: Horse Plains
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/horse-plains/

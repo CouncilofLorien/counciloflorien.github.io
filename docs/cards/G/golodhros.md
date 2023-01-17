@@ -2,7 +2,7 @@
 layout: card
 title: Golodhros
 grand_parent: Cards
-parent: Golodhros
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/golodhros/

@@ -2,7 +2,7 @@
 layout: card
 title: High Helm
 grand_parent: Cards
-parent: High Helm
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/high-helm/

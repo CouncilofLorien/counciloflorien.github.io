@@ -2,7 +2,7 @@
 layout: card
 title: Saruman the Wise
 grand_parent: Cards
-parent: Saruman the Wise
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/saruman-the-wise/

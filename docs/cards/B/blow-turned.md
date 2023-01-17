@@ -2,7 +2,7 @@
 layout: card
 title: Blow Turned
 grand_parent: Cards
-parent: Blow Turned
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/blow-turned/

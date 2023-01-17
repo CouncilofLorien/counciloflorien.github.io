@@ -2,7 +2,7 @@
 layout: card
 title: Glittering Caves
 grand_parent: Cards
-parent: Glittering Caves
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/glittering-caves/

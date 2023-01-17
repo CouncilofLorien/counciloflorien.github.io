@@ -2,7 +2,7 @@
 layout: card
 title: Two or Three Tribes Present
 grand_parent: Cards
-parent: Two or Three Tribes Present
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/two-or-three-tribes-present/

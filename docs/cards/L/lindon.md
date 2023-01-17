@@ -2,7 +2,7 @@
 layout: card
 title: Lindon
 grand_parent: Cards
-parent: Lindon
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/lindon/

@@ -2,7 +2,7 @@
 layout: card
 title: Fair Gold Ring
 grand_parent: Cards
-parent: Fair Gold Ring
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/fair-gold-ring/

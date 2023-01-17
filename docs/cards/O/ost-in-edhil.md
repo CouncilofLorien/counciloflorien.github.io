@@ -2,7 +2,7 @@
 layout: card
 title: Ost-in-Edhil
 grand_parent: Cards
-parent: Ost-in-Edhil
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/ost-in-edhil/

@@ -2,7 +2,7 @@
 layout: card
 title: Wizard's Voice
 grand_parent: Cards
-parent: Wizard's Voice
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/wizards-voice/

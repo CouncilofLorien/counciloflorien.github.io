@@ -2,7 +2,7 @@
 layout: card
 title: Something Has Slipped
 grand_parent: Cards
-parent: Something Has Slipped
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/something-has-slipped/

@@ -2,7 +2,7 @@
 layout: card
 title: The Under-vaults
 grand_parent: Cards
-parent: The Under-vaults
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-under-vaults/

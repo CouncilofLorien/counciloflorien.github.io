@@ -2,7 +2,7 @@
 layout: card
 title: Join With That Power
 grand_parent: Cards
-parent: Join With That Power
+parent: J
 search_exclude: false
 nav_exclude: true
 permalink: /cards/join-with-that-power/

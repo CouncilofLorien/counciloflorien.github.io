@@ -2,7 +2,7 @@
 layout: card
 title: Assassin
 grand_parent: Cards
-parent: Assassin
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/assassin/

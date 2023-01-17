@@ -2,7 +2,7 @@
 layout: card
 title: Wizard's Flame
 grand_parent: Cards
-parent: Wizard's Flame
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/wizards-flame/

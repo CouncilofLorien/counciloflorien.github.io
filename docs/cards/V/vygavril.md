@@ -2,7 +2,7 @@
 layout: card
 title: Vygavril
 grand_parent: Cards
-parent: Vygavril
+parent: V
 search_exclude: false
 nav_exclude: true
 permalink: /cards/vygavril/

@@ -2,7 +2,7 @@
 layout: card
 title: Mountains of Shadow
 grand_parent: Cards
-parent: Mountains of Shadow
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/mountains-of-shadow/

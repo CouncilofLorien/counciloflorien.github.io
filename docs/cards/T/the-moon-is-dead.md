@@ -2,7 +2,7 @@
 layout: card
 title: The Moon Is Dead
 grand_parent: Cards
-parent: The Moon Is Dead
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-moon-is-dead/

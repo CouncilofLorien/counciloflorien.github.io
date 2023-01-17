@@ -2,7 +2,7 @@
 layout: card
 title: Prowess of Age
 grand_parent: Cards
-parent: Prowess of Age
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/prowess-of-age/

@@ -2,7 +2,7 @@
 layout: card
 title: Carn Dum
 grand_parent: Cards
-parent: Carn Dum
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/carn-dum/

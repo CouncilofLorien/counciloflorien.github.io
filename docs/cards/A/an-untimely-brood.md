@@ -2,7 +2,7 @@
 layout: card
 title: An Untimely Brood
 grand_parent: Cards
-parent: An Untimely Brood
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/an-untimely-brood/

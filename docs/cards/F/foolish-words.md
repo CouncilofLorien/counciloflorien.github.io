@@ -2,7 +2,7 @@
 layout: card
 title: Foolish Words
 grand_parent: Cards
-parent: Foolish Words
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/foolish-words/

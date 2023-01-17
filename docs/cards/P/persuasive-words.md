@@ -2,7 +2,7 @@
 layout: card
 title: Persuasive Words
 grand_parent: Cards
-parent: Persuasive Words
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/persuasive-words/

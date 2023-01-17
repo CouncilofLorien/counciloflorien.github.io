@@ -2,7 +2,7 @@
 layout: card
 title: Enedhwaith
 grand_parent: Cards
-parent: Enedhwaith
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/enedhwaith/

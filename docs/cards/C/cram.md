@@ -2,7 +2,7 @@
 layout: card
 title: Cram
 grand_parent: Cards
-parent: Cram
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/cram/

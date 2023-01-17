@@ -2,7 +2,7 @@
 layout: card
 title: Padding Feet
 grand_parent: Cards
-parent: Padding Feet
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/padding-feet/

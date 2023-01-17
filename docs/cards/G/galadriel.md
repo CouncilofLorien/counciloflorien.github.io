@@ -2,7 +2,7 @@
 layout: card
 title: Galadriel
 grand_parent: Cards
-parent: Galadriel
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/galadriel/

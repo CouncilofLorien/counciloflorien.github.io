@@ -2,7 +2,7 @@
 layout: card
 title: Magic Ring of Stealth
 grand_parent: Cards
-parent: Magic Ring of Stealth
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/magic-ring-of-stealth/

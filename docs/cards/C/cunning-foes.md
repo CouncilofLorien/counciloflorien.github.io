@@ -2,7 +2,7 @@
 layout: card
 title: Cunning Foes
 grand_parent: Cards
-parent: Cunning Foes
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/cunning-foes/

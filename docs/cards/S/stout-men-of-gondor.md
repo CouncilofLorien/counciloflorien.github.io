@@ -2,7 +2,7 @@
 layout: card
 title: Stout Men of Gondor
 grand_parent: Cards
-parent: Stout Men of Gondor
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/stout-men-of-gondor/

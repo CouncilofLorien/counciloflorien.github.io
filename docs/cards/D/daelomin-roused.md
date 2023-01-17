@@ -2,7 +2,7 @@
 layout: card
 title: Daelomin Roused
 grand_parent: Cards
-parent: Daelomin Roused
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/daelomin-roused/

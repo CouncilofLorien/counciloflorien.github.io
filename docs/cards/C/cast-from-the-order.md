@@ -2,7 +2,7 @@
 layout: card
 title: Cast from the Order
 grand_parent: Cards
-parent: Cast from the Order
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/cast-from-the-order/

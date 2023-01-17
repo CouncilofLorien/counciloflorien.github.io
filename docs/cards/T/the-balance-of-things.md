@@ -2,7 +2,7 @@
 layout: card
 title: The Balance of Things
 grand_parent: Cards
-parent: The Balance of Things
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-balance-of-things/

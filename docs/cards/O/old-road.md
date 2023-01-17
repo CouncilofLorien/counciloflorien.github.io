@@ -2,7 +2,7 @@
 layout: card
 title: Old Road
 grand_parent: Cards
-parent: Old Road
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/old-road/

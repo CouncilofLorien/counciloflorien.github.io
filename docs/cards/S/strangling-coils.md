@@ -2,7 +2,7 @@
 layout: card
 title: Strangling Coils
 grand_parent: Cards
-parent: Strangling Coils
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/strangling-coils/

@@ -2,7 +2,7 @@
 layout: card
 title: Tokens to Show
 grand_parent: Cards
-parent: Tokens to Show
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/tokens-to-show/

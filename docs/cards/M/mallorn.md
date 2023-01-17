@@ -2,7 +2,7 @@
 layout: card
 title: Mallorn
 grand_parent: Cards
-parent: Mallorn
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/mallorn/

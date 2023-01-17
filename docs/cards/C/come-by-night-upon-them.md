@@ -2,7 +2,7 @@
 layout: card
 title: Come by Night Upon Them
 grand_parent: Cards
-parent: Come by Night Upon Them
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/come-by-night-upon-them/

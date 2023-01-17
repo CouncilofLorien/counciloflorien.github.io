@@ -2,7 +2,7 @@
 layout: card
 title: Noose of the Sea
 grand_parent: Cards
-parent: Noose of the Sea
+parent: N
 search_exclude: false
 nav_exclude: true
 permalink: /cards/noose-of-the-sea/

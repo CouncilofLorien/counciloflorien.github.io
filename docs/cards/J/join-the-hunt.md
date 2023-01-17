@@ -2,7 +2,7 @@
 layout: card
 title: Join the Hunt
 grand_parent: Cards
-parent: Join the Hunt
+parent: J
 search_exclude: false
 nav_exclude: true
 permalink: /cards/join-the-hunt/

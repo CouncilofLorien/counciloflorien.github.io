@@ -2,7 +2,7 @@
 layout: card
 title: Earth of Galadriel's Orchard
 grand_parent: Cards
-parent: Earth of Galadriel's Orchard
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/earth-of-galadriels-orchard/

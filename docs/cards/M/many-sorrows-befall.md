@@ -2,7 +2,7 @@
 layout: card
 title: Many Sorrows Befall
 grand_parent: Cards
-parent: Many Sorrows Befall
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/many-sorrows-befall/

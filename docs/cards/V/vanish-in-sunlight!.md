@@ -2,7 +2,7 @@
 layout: card
 title: Vanish in Sunlight!
 grand_parent: Cards
-parent: Vanish in Sunlight!
+parent: V
 search_exclude: false
 nav_exclude: true
 permalink: /cards/vanish-in-sunlight!/

@@ -2,7 +2,7 @@
 layout: card
 title: Shadow of Mordor
 grand_parent: Cards
-parent: Shadow of Mordor
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/shadow-of-mordor/

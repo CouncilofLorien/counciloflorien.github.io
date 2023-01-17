@@ -2,7 +2,7 @@
 layout: card
 title: Corpse-candle
 grand_parent: Cards
-parent: Corpse-candle
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/corpse-candle/

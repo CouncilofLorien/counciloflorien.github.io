@@ -2,7 +2,7 @@
 layout: card
 title: Oin
 grand_parent: Cards
-parent: Oin
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/oin/

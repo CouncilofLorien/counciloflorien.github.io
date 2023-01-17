@@ -2,7 +2,7 @@
 layout: card
 title: Gandalf's Friend
 grand_parent: Cards
-parent: Gandalf's Friend
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/gandalfs-friend/

@@ -2,7 +2,7 @@
 layout: card
 title: Aiglos
 grand_parent: Cards
-parent: Aiglos
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/aiglos/

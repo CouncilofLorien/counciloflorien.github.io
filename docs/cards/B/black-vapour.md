@@ -2,7 +2,7 @@
 layout: card
 title: Black Vapour
 grand_parent: Cards
-parent: Black Vapour
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/black-vapour/

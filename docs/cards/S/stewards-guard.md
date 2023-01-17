@@ -2,7 +2,7 @@
 layout: card
 title: Steward's Guard
 grand_parent: Cards
-parent: Steward's Guard
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/stewards-guard/

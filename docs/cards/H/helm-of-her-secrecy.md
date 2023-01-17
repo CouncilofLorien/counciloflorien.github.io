@@ -2,7 +2,7 @@
 layout: card
 title: Helm of Her Secrecy
 grand_parent: Cards
-parent: Helm of Her Secrecy
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/helm-of-her-secrecy/

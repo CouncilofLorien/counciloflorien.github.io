@@ -2,7 +2,7 @@
 layout: card
 title: Lure of Nature
 grand_parent: Cards
-parent: Lure of Nature
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/lure-of-nature/

@@ -2,7 +2,7 @@
 layout: card
 title: When I Know Anything
 grand_parent: Cards
-parent: When I Know Anything
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/when-i-know-anything/

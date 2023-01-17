@@ -2,7 +2,7 @@
 layout: card
 title: Bitter Cold
 grand_parent: Cards
-parent: Bitter Cold
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/bitter-cold/

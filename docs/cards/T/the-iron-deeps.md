@@ -2,7 +2,7 @@
 layout: card
 title: The Iron-deeps
 grand_parent: Cards
-parent: The Iron-deeps
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-iron-deeps/

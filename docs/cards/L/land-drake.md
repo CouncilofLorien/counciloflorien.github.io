@@ -2,7 +2,7 @@
 layout: card
 title: Land-drake
 grand_parent: Cards
-parent: Land-drake
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/land-drake/

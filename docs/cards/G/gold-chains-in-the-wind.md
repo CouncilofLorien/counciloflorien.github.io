@@ -2,7 +2,7 @@
 layout: card
 title: Gold Chains in the Wind
 grand_parent: Cards
-parent: Gold Chains in the Wind
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/gold-chains-in-the-wind/

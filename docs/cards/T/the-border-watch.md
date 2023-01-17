@@ -2,7 +2,7 @@
 layout: card
 title: The Border-watch
 grand_parent: Cards
-parent: The Border-watch
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-border-watch/

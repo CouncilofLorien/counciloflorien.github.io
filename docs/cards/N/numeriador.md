@@ -2,7 +2,7 @@
 layout: card
 title: Numeriador
 grand_parent: Cards
-parent: Numeriador
+parent: N
 search_exclude: false
 nav_exclude: true
 permalink: /cards/numeriador/

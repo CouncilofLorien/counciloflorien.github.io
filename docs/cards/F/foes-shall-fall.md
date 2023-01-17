@@ -2,7 +2,7 @@
 layout: card
 title: Foes Shall Fall
 grand_parent: Cards
-parent: Foes Shall Fall
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/foes-shall-fall/

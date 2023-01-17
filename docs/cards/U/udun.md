@@ -2,7 +2,7 @@
 layout: card
 title: Udun
 grand_parent: Cards
-parent: Udun
+parent: U
 search_exclude: false
 nav_exclude: true
 permalink: /cards/udun/

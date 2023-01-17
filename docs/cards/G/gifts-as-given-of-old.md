@@ -2,7 +2,7 @@
 layout: card
 title: Gifts as Given of Old
 grand_parent: Cards
-parent: Gifts as Given of Old
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/gifts-as-given-of-old/

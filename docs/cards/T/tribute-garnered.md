@@ -2,7 +2,7 @@
 layout: card
 title: Tribute Garnered
 grand_parent: Cards
-parent: Tribute Garnered
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/tribute-garnered/

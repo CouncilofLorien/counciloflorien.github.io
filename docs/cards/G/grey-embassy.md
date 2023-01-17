@@ -2,7 +2,7 @@
 layout: card
 title: Grey Embassy
 grand_parent: Cards
-parent: Grey Embassy
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/grey-embassy/

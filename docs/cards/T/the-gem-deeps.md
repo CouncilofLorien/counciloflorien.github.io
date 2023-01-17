@@ -2,7 +2,7 @@
 layout: card
 title: The Gem-deeps
 grand_parent: Cards
-parent: The Gem-deeps
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-gem-deeps/

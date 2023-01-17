@@ -2,7 +2,7 @@
 layout: card
 title: Orcs of Gorgoroth
 grand_parent: Cards
-parent: Orcs of Gorgoroth
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/orcs-of-gorgoroth/

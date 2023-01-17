@@ -2,7 +2,7 @@
 layout: card
 title: Great Army of the North
 grand_parent: Cards
-parent: Great Army of the North
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/great-army-of-the-north/

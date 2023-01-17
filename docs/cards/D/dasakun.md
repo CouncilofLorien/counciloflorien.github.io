@@ -2,7 +2,7 @@
 layout: card
 title: Dasakun
 grand_parent: Cards
-parent: Dasakun
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/dasakun/

@@ -2,7 +2,7 @@
 layout: card
 title: Heart of Mirkwood
 grand_parent: Cards
-parent: Heart of Mirkwood
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/heart-of-mirkwood/

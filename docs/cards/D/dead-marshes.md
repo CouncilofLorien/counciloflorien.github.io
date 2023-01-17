@@ -2,7 +2,7 @@
 layout: card
 title: Dead Marshes
 grand_parent: Cards
-parent: Dead Marshes
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/dead-marshes/

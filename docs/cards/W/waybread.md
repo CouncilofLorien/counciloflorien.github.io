@@ -2,7 +2,7 @@
 layout: card
 title: Waybread
 grand_parent: Cards
-parent: Waybread
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/waybread/

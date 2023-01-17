@@ -2,7 +2,7 @@
 layout: card
 title: Elrond
 grand_parent: Cards
-parent: Elrond
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/elrond/

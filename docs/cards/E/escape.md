@@ -2,7 +2,7 @@
 layout: card
 title: Escape
 grand_parent: Cards
-parent: Escape
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/escape/

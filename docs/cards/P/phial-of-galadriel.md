@@ -2,7 +2,7 @@
 layout: card
 title: Phial of Galadriel
 grand_parent: Cards
-parent: Phial of Galadriel
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/phial-of-galadriel/

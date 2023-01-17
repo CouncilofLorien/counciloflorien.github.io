@@ -2,7 +2,7 @@
 layout: card
 title: Elerina
 grand_parent: Cards
-parent: Elerina
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/elerina/

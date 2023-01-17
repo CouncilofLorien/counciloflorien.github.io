@@ -2,7 +2,7 @@
 layout: card
 title: The Oracle's Ring
 grand_parent: Cards
-parent: The Oracle's Ring
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-oracles-ring/

@@ -2,7 +2,7 @@
 layout: card
 title: Flatter a Foe
 grand_parent: Cards
-parent: Flatter a Foe
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/flatter-a-foe/

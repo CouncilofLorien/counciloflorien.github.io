@@ -2,7 +2,7 @@
 layout: card
 title: Goblin-faces
 grand_parent: Cards
-parent: Goblin-faces
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/goblin-faces/

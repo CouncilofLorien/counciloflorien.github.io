@@ -2,7 +2,7 @@
 layout: card
 title: Bill Ferny
 grand_parent: Cards
-parent: Bill Ferny
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/bill-ferny/

@@ -2,7 +2,7 @@
 layout: card
 title: Sea Serpent
 grand_parent: Cards
-parent: Sea Serpent
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/sea-serpent/

@@ -2,7 +2,7 @@
 layout: card
 title: Wrath of the West
 grand_parent: Cards
-parent: Wrath of the West
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/wrath-of-the-west/

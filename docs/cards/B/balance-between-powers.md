@@ -2,7 +2,7 @@
 layout: card
 title: Balance Between Powers
 grand_parent: Cards
-parent: Balance Between Powers
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/balance-between-powers/

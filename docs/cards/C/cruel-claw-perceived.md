@@ -2,7 +2,7 @@
 layout: card
 title: Cruel Claw Perceived
 grand_parent: Cards
-parent: Cruel Claw Perceived
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/cruel-claw-perceived/

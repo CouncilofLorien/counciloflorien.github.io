@@ -2,7 +2,7 @@
 layout: card
 title: Heralded Lord
 grand_parent: Cards
-parent: Heralded Lord
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/heralded-lord/

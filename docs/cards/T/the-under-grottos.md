@@ -2,7 +2,7 @@
 layout: card
 title: The Under-grottos
 grand_parent: Cards
-parent: The Under-grottos
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-under-grottos/

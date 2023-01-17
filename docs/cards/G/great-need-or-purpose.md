@@ -2,7 +2,7 @@
 layout: card
 title: Great Need or Purpose
 grand_parent: Cards
-parent: Great Need or Purpose
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/great-need-or-purpose/

@@ -2,7 +2,7 @@
 layout: card
 title: Cirith Gorgor
 grand_parent: Cards
-parent: Cirith Gorgor
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/cirith-gorgor/

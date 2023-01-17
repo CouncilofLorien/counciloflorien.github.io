@@ -2,7 +2,7 @@
 layout: card
 title: Misty Mountain Wargs
 grand_parent: Cards
-parent: Misty Mountain Wargs
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/misty-mountain-wargs/

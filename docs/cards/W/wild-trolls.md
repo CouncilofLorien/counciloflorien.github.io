@@ -2,7 +2,7 @@
 layout: card
 title: Wild Trolls
 grand_parent: Cards
-parent: Wild Trolls
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/wild-trolls/

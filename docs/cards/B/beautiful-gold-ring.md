@@ -2,7 +2,7 @@
 layout: card
 title: Beautiful Gold Ring
 grand_parent: Cards
-parent: Beautiful Gold Ring
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/beautiful-gold-ring/

@@ -2,7 +2,7 @@
 layout: card
 title: Hillmen
 grand_parent: Cards
-parent: Hillmen
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/hillmen/

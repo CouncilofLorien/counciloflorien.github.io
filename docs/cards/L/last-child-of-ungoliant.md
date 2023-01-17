@@ -2,7 +2,7 @@
 layout: card
 title: Last Child of Ungoliant
 grand_parent: Cards
-parent: Last Child of Ungoliant
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/last-child-of-ungoliant/

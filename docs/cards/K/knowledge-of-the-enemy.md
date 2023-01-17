@@ -2,7 +2,7 @@
 layout: card
 title: Knowledge of the Enemy
 grand_parent: Cards
-parent: Knowledge of the Enemy
+parent: K
 search_exclude: false
 nav_exclude: true
 permalink: /cards/knowledge-of-the-enemy/

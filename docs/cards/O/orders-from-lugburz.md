@@ -2,7 +2,7 @@
 layout: card
 title: Orders from Lugburz
 grand_parent: Cards
-parent: Orders from Lugburz
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/orders-from-lugburz/

@@ -2,7 +2,7 @@
 layout: card
 title: Palantir of Annuminas
 grand_parent: Cards
-parent: Palantir of Annuminas
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/palantir-of-annuminas/

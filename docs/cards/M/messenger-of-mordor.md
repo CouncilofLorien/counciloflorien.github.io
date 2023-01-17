@@ -2,7 +2,7 @@
 layout: card
 title: Messenger of Mordor
 grand_parent: Cards
-parent: Messenger of Mordor
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/messenger-of-mordor/

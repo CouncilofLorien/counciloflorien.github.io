@@ -2,7 +2,7 @@
 layout: card
 title: Black Horse
 grand_parent: Cards
-parent: Black Horse
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/black-horse/

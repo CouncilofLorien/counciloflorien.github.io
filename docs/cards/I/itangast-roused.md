@@ -2,7 +2,7 @@
 layout: card
 title: Itangast Roused
 grand_parent: Cards
-parent: Itangast Roused
+parent: I
 search_exclude: false
 nav_exclude: true
 permalink: /cards/itangast-roused/

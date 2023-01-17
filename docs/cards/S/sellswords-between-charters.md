@@ -2,7 +2,7 @@
 layout: card
 title: Sellswords Between Charters
 grand_parent: Cards
-parent: Sellswords Between Charters
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/sellswords-between-charters/

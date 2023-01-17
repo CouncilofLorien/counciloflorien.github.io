@@ -2,7 +2,7 @@
 layout: card
 title: Smaug Ahunt
 grand_parent: Cards
-parent: Smaug Ahunt
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/smaug-ahunt/

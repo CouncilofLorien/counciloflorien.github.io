@@ -2,7 +2,7 @@
 layout: card
 title: Peath
 grand_parent: Cards
-parent: Peath
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/peath/

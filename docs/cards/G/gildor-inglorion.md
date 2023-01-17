@@ -2,7 +2,7 @@
 layout: card
 title: Gildor Inglorion
 grand_parent: Cards
-parent: Gildor Inglorion
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/gildor-inglorion/

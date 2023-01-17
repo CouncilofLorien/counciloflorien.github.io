@@ -2,7 +2,7 @@
 layout: card
 title: True Cold-drake
 grand_parent: Cards
-parent: True Cold-drake
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/true-cold-drake/

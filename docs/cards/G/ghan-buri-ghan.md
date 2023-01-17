@@ -2,7 +2,7 @@
 layout: card
 title: Ghan-buri-Ghan
 grand_parent: Cards
-parent: Ghan-buri-Ghan
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/ghan-buri-ghan/

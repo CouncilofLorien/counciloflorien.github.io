@@ -2,7 +2,7 @@
 layout: card
 title: A Friend or Three
 grand_parent: Cards
-parent: A Friend or Three
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/a-friend-or-three/

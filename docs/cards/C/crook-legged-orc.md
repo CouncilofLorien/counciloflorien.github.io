@@ -2,7 +2,7 @@
 layout: card
 title: Crook-legged Orc
 grand_parent: Cards
-parent: Crook-legged Orc
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/crook-legged-orc/

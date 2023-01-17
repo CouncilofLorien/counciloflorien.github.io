@@ -2,7 +2,7 @@
 layout: card
 title: Mount Slain
 grand_parent: Cards
-parent: Mount Slain
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/mount-slain/

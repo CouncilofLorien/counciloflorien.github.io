@@ -2,7 +2,7 @@
 layout: card
 title: Nameless Thing
 grand_parent: Cards
-parent: Nameless Thing
+parent: N
 search_exclude: false
 nav_exclude: true
 permalink: /cards/nameless-thing/

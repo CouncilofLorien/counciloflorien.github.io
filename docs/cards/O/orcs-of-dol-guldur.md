@@ -2,7 +2,7 @@
 layout: card
 title: Orcs of Dol Guldur
 grand_parent: Cards
-parent: Orcs of Dol Guldur
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/orcs-of-dol-guldur/

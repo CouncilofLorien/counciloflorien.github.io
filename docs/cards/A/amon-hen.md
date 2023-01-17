@@ -2,7 +2,7 @@
 layout: card
 title: Amon Hen
 grand_parent: Cards
-parent: Amon Hen
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/amon-hen/

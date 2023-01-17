@@ -2,7 +2,7 @@
 layout: card
 title: Lieutenant of Dol Guldur
 grand_parent: Cards
-parent: Lieutenant of Dol Guldur
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/lieutenant-of-dol-guldur/

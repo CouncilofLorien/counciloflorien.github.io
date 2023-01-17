@@ -2,7 +2,7 @@
 layout: card
 title: Hail of Darts
 grand_parent: Cards
-parent: Hail of Darts
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/hail-of-darts/

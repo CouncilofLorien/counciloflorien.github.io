@@ -2,7 +2,7 @@
 layout: card
 title: Old Treasure
 grand_parent: Cards
-parent: Old Treasure
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/old-treasure/

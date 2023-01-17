@@ -2,7 +2,7 @@
 layout: card
 title: Thror's Map
 grand_parent: Cards
-parent: Thror's Map
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/thrors-map/

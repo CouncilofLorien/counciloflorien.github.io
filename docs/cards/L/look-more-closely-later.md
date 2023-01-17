@@ -2,7 +2,7 @@
 layout: card
 title: Look More Closely Later
 grand_parent: Cards
-parent: Look More Closely Later
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/look-more-closely-later/

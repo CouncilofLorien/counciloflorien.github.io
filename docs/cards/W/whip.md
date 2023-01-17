@@ -2,7 +2,7 @@
 layout: card
 title: Whip
 grand_parent: Cards
-parent: Whip
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/whip/

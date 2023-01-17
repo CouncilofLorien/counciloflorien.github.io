@@ -2,7 +2,7 @@
 layout: card
 title: Ioreth
 grand_parent: Cards
-parent: Ioreth
+parent: I
 search_exclude: false
 nav_exclude: true
 permalink: /cards/ioreth/

@@ -2,7 +2,7 @@
 layout: card
 title: Gamling the Old
 grand_parent: Cards
-parent: Gamling the Old
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/gamling-the-old/

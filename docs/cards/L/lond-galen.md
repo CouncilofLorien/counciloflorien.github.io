@@ -2,7 +2,7 @@
 layout: card
 title: Lond Galen
 grand_parent: Cards
-parent: Lond Galen
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/lond-galen/

@@ -2,7 +2,7 @@
 layout: card
 title: King under the Mountain
 grand_parent: Cards
-parent: King under the Mountain
+parent: K
 search_exclude: false
 nav_exclude: true
 permalink: /cards/king-under-the-mountain/

@@ -2,7 +2,7 @@
 layout: card
 title: Bridge
 grand_parent: Cards
-parent: Bridge
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/bridge/

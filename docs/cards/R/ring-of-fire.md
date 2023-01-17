@@ -2,7 +2,7 @@
 layout: card
 title: Ring of Fire
 grand_parent: Cards
-parent: Ring of Fire
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/ring-of-fire/

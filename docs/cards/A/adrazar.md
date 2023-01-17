@@ -2,7 +2,7 @@
 layout: card
 title: Adrazar
 grand_parent: Cards
-parent: Adrazar
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/adrazar/

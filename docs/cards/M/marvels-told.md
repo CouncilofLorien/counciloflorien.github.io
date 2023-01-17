@@ -2,7 +2,7 @@
 layout: card
 title: Marvels Told
 grand_parent: Cards
-parent: Marvels Told
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/marvels-told/

@@ -2,7 +2,7 @@
 layout: card
 title: Dancing Spire
 grand_parent: Cards
-parent: Dancing Spire
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/dancing-spire/

@@ -2,7 +2,7 @@
 layout: card
 title: Mine or No One's
 grand_parent: Cards
-parent: Mine or No One's
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/mine-or-no-ones/

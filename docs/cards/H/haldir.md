@@ -2,7 +2,7 @@
 layout: card
 title: Haldir
 grand_parent: Cards
-parent: Haldir
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/haldir/

@@ -2,7 +2,7 @@
 layout: card
 title: Swag
 grand_parent: Cards
-parent: Swag
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/swag/

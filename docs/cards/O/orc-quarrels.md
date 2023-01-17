@@ -2,7 +2,7 @@
 layout: card
 title: Orc Quarrels
 grand_parent: Cards
-parent: Orc Quarrels
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/orc-quarrels/

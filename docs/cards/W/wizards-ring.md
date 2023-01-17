@@ -2,7 +2,7 @@
 layout: card
 title: Wizard's Ring
 grand_parent: Cards
-parent: Wizard's Ring
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/wizards-ring/

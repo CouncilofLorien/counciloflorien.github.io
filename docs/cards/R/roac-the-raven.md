@@ -2,7 +2,7 @@
 layout: card
 title: Roac the Raven
 grand_parent: Cards
-parent: Roac the Raven
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/roac-the-raven/

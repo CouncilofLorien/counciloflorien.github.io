@@ -2,7 +2,7 @@
 layout: card
 title: Gift of Comprehension
 grand_parent: Cards
-parent: Gift of Comprehension
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/gift-of-comprehension/

@@ -2,7 +2,7 @@
 layout: card
 title: Thrice Outnumbered
 grand_parent: Cards
-parent: Thrice Outnumbered
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/thrice-outnumbered/

@@ -2,7 +2,7 @@
 layout: card
 title: Khamul Unleashed
 grand_parent: Cards
-parent: Khamul Unleashed
+parent: K
 search_exclude: false
 nav_exclude: true
 permalink: /cards/khamul-unleashed/

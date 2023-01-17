@@ -2,7 +2,7 @@
 layout: card
 title: Robin Smallburrow
 grand_parent: Cards
-parent: Robin Smallburrow
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/robin-smallburrow/

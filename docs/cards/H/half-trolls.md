@@ -2,7 +2,7 @@
 layout: card
 title: Half-trolls
 grand_parent: Cards
-parent: Half-trolls
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/half-trolls/

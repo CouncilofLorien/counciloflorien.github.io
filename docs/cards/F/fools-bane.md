@@ -2,7 +2,7 @@
 layout: card
 title: Fool's Bane
 grand_parent: Cards
-parent: Fool's Bane
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/fools-bane/

@@ -2,7 +2,7 @@
 layout: card
 title: Fell Turtle
 grand_parent: Cards
-parent: Fell Turtle
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/fell-turtle/

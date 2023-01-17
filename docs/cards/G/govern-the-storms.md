@@ -2,7 +2,7 @@
 layout: card
 title: Govern the Storms
 grand_parent: Cards
-parent: Govern the Storms
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/govern-the-storms/

@@ -2,7 +2,7 @@
 layout: card
 title: Longbottom Leaf
 grand_parent: Cards
-parent: Longbottom Leaf
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/longbottom-leaf/

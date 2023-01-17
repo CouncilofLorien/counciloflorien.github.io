@@ -2,7 +2,7 @@
 layout: card
 title: Voices of Malice
 grand_parent: Cards
-parent: Voices of Malice
+parent: V
 search_exclude: false
 nav_exclude: true
 permalink: /cards/voices-of-malice/

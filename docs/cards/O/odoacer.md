@@ -2,7 +2,7 @@
 layout: card
 title: Odoacer
 grand_parent: Cards
-parent: Odoacer
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/odoacer/

@@ -2,7 +2,7 @@
 layout: card
 title: Arouse Denizens
 grand_parent: Cards
-parent: Arouse Denizens
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/arouse-denizens/

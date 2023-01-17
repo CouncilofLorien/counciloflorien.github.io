@@ -2,7 +2,7 @@
 layout: card
 title: Scabbard of Chalcedony
 grand_parent: Cards
-parent: Scabbard of Chalcedony
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/scabbard-of-chalcedony/

@@ -2,7 +2,7 @@
 layout: card
 title: The Water's Tithe
 grand_parent: Cards
-parent: The Water's Tithe
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-waters-tithe/

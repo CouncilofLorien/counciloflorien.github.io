@@ -2,7 +2,7 @@
 layout: card
 title: Neither so Ancient Nor so Potent
 grand_parent: Cards
-parent: Neither so Ancient Nor so Potent
+parent: N
 search_exclude: false
 nav_exclude: true
 permalink: /cards/neither-so-ancient-nor-so-potent/

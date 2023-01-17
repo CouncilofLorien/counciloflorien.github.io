@@ -2,7 +2,7 @@
 layout: card
 title: Anarin
 grand_parent: Cards
-parent: Anarin
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/anarin/

@@ -2,7 +2,7 @@
 layout: card
 title: Western Mirkwood
 grand_parent: Cards
-parent: Western Mirkwood
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/western-mirkwood/

@@ -2,7 +2,7 @@
 layout: card
 title: Long Grievous Siege
 grand_parent: Cards
-parent: Long Grievous Siege
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/long-grievous-siege/

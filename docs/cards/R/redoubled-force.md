@@ -2,7 +2,7 @@
 layout: card
 title: Redoubled Force
 grand_parent: Cards
-parent: Redoubled Force
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/redoubled-force/

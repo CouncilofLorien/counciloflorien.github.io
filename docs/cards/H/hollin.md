@@ -2,7 +2,7 @@
 layout: card
 title: Hollin
 grand_parent: Cards
-parent: Hollin
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/hollin/

@@ -2,7 +2,7 @@
 layout: card
 title: Fate of the Ithil-Stone
 grand_parent: Cards
-parent: Fate of the Ithil-Stone
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/fate-of-the-ithil-stone/

@@ -2,7 +2,7 @@
 layout: card
 title: Dwalin
 grand_parent: Cards
-parent: Dwalin
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/dwalin/

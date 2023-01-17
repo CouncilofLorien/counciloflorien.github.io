@@ -2,7 +2,7 @@
 layout: card
 title: Arthedain
 grand_parent: Cards
-parent: Arthedain
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/arthedain/

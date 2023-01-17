@@ -2,7 +2,7 @@
 layout: card
 title: Orc-mail
 grand_parent: Cards
-parent: Orc-mail
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/orc-mail/

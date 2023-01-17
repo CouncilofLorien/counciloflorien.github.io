@@ -2,7 +2,7 @@
 layout: card
 title: Watcher in the Water
 grand_parent: Cards
-parent: Watcher in the Water
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/watcher-in-the-water/

@@ -2,7 +2,7 @@
 layout: card
 title: Wuluag
 grand_parent: Cards
-parent: Wuluag
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/wuluag/

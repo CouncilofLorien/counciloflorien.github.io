@@ -2,7 +2,7 @@
 layout: card
 title: Black Breath
 grand_parent: Cards
-parent: Black Breath
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/black-breath/

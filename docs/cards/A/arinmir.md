@@ -2,7 +2,7 @@
 layout: card
 title: Arinmir
 grand_parent: Cards
-parent: Arinmir
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/arinmir/

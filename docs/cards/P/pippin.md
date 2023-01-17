@@ -2,7 +2,7 @@
 layout: card
 title: Pippin
 grand_parent: Cards
-parent: Pippin
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/pippin/

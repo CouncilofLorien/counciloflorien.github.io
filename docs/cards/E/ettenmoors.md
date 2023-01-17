@@ -2,7 +2,7 @@
 layout: card
 title: Ettenmoors
 grand_parent: Cards
-parent: Ettenmoors
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/ettenmoors/

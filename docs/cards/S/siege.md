@@ -2,7 +2,7 @@
 layout: card
 title: Siege
 grand_parent: Cards
-parent: Siege
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/siege/

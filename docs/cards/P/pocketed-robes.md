@@ -2,7 +2,7 @@
 layout: card
 title: Pocketed Robes
 grand_parent: Cards
-parent: Pocketed Robes
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/pocketed-robes/

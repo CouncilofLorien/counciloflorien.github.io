@@ -2,7 +2,7 @@
 layout: card
 title: The Grey Hat
 grand_parent: Cards
-parent: The Grey Hat
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-grey-hat/

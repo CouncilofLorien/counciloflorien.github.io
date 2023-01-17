@@ -2,7 +2,7 @@
 layout: card
 title: Long Winter
 grand_parent: Cards
-parent: Long Winter
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/long-winter/

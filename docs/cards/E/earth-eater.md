@@ -2,7 +2,7 @@
 layout: card
 title: Earth-eater
 grand_parent: Cards
-parent: Earth-eater
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/earth-eater/

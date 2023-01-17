@@ -2,7 +2,7 @@
 layout: card
 title: Dol Guldur
 grand_parent: Cards
-parent: Dol Guldur
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/dol-guldur/

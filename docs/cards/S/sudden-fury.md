@@ -2,7 +2,7 @@
 layout: card
 title: Sudden Fury
 grand_parent: Cards
-parent: Sudden Fury
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/sudden-fury/

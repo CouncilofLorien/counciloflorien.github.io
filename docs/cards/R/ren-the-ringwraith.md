@@ -2,7 +2,7 @@
 layout: card
 title: Ren the Ringwraith
 grand_parent: Cards
-parent: Ren the Ringwraith
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/ren-the-ringwraith/

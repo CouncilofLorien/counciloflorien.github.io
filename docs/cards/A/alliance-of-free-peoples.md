@@ -2,7 +2,7 @@
 layout: card
 title: Alliance of Free Peoples
 grand_parent: Cards
-parent: Alliance of Free Peoples
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/alliance-of-free-peoples/

@@ -2,7 +2,7 @@
 layout: card
 title: Wisdom to Wield
 grand_parent: Cards
-parent: Wisdom to Wield
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/wisdom-to-wield/

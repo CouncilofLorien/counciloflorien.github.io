@@ -2,7 +2,7 @@
 layout: card
 title: Gloom
 grand_parent: Cards
-parent: Gloom
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/gloom/

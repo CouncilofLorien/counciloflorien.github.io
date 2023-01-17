@@ -2,7 +2,7 @@
 layout: card
 title: Magic Ring of Shadows
 grand_parent: Cards
-parent: Magic Ring of Shadows
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/magic-ring-of-shadows/

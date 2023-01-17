@@ -2,7 +2,7 @@
 layout: card
 title: Beorn
 grand_parent: Cards
-parent: Beorn
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/beorn/

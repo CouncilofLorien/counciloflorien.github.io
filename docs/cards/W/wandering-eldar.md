@@ -2,7 +2,7 @@
 layout: card
 title: Wandering Eldar
 grand_parent: Cards
-parent: Wandering Eldar
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/wandering-eldar/

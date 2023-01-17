@@ -2,7 +2,7 @@
 layout: card
 title: Dragon's Terror
 grand_parent: Cards
-parent: Dragon's Terror
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/dragons-terror/

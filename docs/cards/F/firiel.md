@@ -2,7 +2,7 @@
 layout: card
 title: Firiel
 grand_parent: Cards
-parent: Firiel
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/firiel/

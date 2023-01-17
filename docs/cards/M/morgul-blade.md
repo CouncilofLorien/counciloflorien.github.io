@@ -2,7 +2,7 @@
 layout: card
 title: Morgul-blade
 grand_parent: Cards
-parent: Morgul-blade
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/morgul-blade/

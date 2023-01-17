@@ -2,7 +2,7 @@
 layout: card
 title: Legendary Stair
 grand_parent: Cards
-parent: Legendary Stair
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/legendary-stair/

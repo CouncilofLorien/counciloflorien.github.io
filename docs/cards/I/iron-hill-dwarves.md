@@ -2,7 +2,7 @@
 layout: card
 title: Iron Hill Dwarves
 grand_parent: Cards
-parent: Iron Hill Dwarves
+parent: I
 search_exclude: false
 nav_exclude: true
 permalink: /cards/iron-hill-dwarves/

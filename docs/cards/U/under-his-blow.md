@@ -2,7 +2,7 @@
 layout: card
 title: Under His Blow
 grand_parent: Cards
-parent: Under His Blow
+parent: U
 search_exclude: false
 nav_exclude: true
 permalink: /cards/under-his-blow/

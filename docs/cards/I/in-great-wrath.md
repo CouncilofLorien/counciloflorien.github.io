@@ -2,7 +2,7 @@
 layout: card
 title: In Great Wrath
 grand_parent: Cards
-parent: In Great Wrath
+parent: I
 search_exclude: false
 nav_exclude: true
 permalink: /cards/in-great-wrath/

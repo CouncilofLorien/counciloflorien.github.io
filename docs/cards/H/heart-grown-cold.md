@@ -2,7 +2,7 @@
 layout: card
 title: Heart Grown Cold
 grand_parent: Cards
-parent: Heart Grown Cold
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/heart-grown-cold/

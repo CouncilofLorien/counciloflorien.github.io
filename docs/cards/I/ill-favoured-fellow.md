@@ -2,7 +2,7 @@
 layout: card
 title: Ill-favoured Fellow
 grand_parent: Cards
-parent: Ill-favoured Fellow
+parent: I
 search_exclude: false
 nav_exclude: true
 permalink: /cards/ill-favoured-fellow/

@@ -2,7 +2,7 @@
 layout: card
 title: Blind to All Else
 grand_parent: Cards
-parent: Blind to All Else
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/blind-to-all-else/

@@ -2,7 +2,7 @@
 layout: card
 title: Elven Cloak
 grand_parent: Cards
-parent: Elven Cloak
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/elven-cloak/

@@ -2,7 +2,7 @@
 layout: card
 title: Sarn Goriwing
 grand_parent: Cards
-parent: Sarn Goriwing
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/sarn-goriwing/

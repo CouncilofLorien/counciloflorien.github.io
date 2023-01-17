@@ -2,7 +2,7 @@
 layout: card
 title: Tidings of Death
 grand_parent: Cards
-parent: Tidings of Death
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/tidings-of-death/

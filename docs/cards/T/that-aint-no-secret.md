@@ -2,7 +2,7 @@
 layout: card
 title: That Ain't No Secret
 grand_parent: Cards
-parent: That Ain't No Secret
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/that-aint-no-secret/

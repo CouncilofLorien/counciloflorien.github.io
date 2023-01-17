@@ -2,7 +2,7 @@
 layout: card
 title: Ghosts
 grand_parent: Cards
-parent: Ghosts
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/ghosts/

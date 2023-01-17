@@ -2,7 +2,7 @@
 layout: card
 title: Southrons
 grand_parent: Cards
-parent: Southrons
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/southrons/

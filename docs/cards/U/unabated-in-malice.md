@@ -2,7 +2,7 @@
 layout: card
 title: Unabated in Malice
 grand_parent: Cards
-parent: Unabated in Malice
+parent: U
 search_exclude: false
 nav_exclude: true
 permalink: /cards/unabated-in-malice/

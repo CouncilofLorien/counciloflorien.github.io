@@ -2,7 +2,7 @@
 layout: card
 title: Isle of the Ulond
 grand_parent: Cards
-parent: Isle of the Ulond
+parent: I
 search_exclude: false
 nav_exclude: true
 permalink: /cards/isle-of-the-ulond/

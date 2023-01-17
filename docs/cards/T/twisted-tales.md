@@ -2,7 +2,7 @@
 layout: card
 title: Twisted Tales
 grand_parent: Cards
-parent: Twisted Tales
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/twisted-tales/

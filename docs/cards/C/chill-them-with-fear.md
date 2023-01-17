@@ -2,7 +2,7 @@
 layout: card
 title: Chill Them with Fear
 grand_parent: Cards
-parent: Chill Them with Fear
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/chill-them-with-fear/

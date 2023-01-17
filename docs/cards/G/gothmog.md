@@ -2,7 +2,7 @@
 layout: card
 title: Gothmog
 grand_parent: Cards
-parent: Gothmog
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/gothmog/

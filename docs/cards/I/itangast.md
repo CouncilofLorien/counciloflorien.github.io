@@ -2,7 +2,7 @@
 layout: card
 title: Itangast
 grand_parent: Cards
-parent: Itangast
+parent: I
 search_exclude: false
 nav_exclude: true
 permalink: /cards/itangast/

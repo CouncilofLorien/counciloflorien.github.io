@@ -2,7 +2,7 @@
 layout: card
 title: Broad-headed Spear
 grand_parent: Cards
-parent: Broad-headed Spear
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/broad-headed-spear/

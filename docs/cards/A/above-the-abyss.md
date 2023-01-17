@@ -2,7 +2,7 @@
 layout: card
 title: Above the Abyss
 grand_parent: Cards
-parent: Above the Abyss
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/above-the-abyss/

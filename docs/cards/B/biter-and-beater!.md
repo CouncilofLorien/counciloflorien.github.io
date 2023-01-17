@@ -2,7 +2,7 @@
 layout: card
 title: Biter and Beater!
 grand_parent: Cards
-parent: Biter and Beater!
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/biter-and-beater!/

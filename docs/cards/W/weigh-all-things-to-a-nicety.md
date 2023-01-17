@@ -2,7 +2,7 @@
 layout: card
 title: Weigh All Things to a Nicety
 grand_parent: Cards
-parent: Weigh All Things to a Nicety
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/weigh-all-things-to-a-nicety/

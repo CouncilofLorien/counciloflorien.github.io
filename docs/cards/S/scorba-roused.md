@@ -2,7 +2,7 @@
 layout: card
 title: Scorba Roused
 grand_parent: Cards
-parent: Scorba Roused
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/scorba-roused/

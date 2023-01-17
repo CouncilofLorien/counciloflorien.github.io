@@ -2,7 +2,7 @@
 layout: card
 title: Records Unread
 grand_parent: Cards
-parent: Records Unread
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/records-unread/

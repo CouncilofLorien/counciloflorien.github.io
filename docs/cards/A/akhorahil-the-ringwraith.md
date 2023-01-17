@@ -2,7 +2,7 @@
 layout: card
 title: Akhorahil the Ringwraith
 grand_parent: Cards
-parent: Akhorahil the Ringwraith
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/akhorahil-the-ringwraith/

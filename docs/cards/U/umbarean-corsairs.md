@@ -2,7 +2,7 @@
 layout: card
 title: Umbarean Corsairs
 grand_parent: Cards
-parent: Umbarean Corsairs
+parent: U
 search_exclude: false
 nav_exclude: true
 permalink: /cards/umbarean-corsairs/

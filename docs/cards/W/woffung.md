@@ -2,7 +2,7 @@
 layout: card
 title: Woffung
 grand_parent: Cards
-parent: Woffung
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/woffung/

@@ -2,7 +2,7 @@
 layout: card
 title: Southern Rhovanion
 grand_parent: Cards
-parent: Southern Rhovanion
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/southern-rhovanion/

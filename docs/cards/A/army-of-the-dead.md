@@ -2,7 +2,7 @@
 layout: card
 title: Army of the Dead
 grand_parent: Cards
-parent: Army of the Dead
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/army-of-the-dead/

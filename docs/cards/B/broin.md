@@ -2,7 +2,7 @@
 layout: card
 title: Broin
 grand_parent: Cards
-parent: Broin
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/broin/

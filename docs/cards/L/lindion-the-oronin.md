@@ -2,7 +2,7 @@
 layout: card
 title: Lindion the Oronin
 grand_parent: Cards
-parent: Lindion the Oronin
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/lindion-the-oronin/

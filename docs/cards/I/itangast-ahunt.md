@@ -2,7 +2,7 @@
 layout: card
 title: Itangast Ahunt
 grand_parent: Cards
-parent: Itangast Ahunt
+parent: I
 search_exclude: false
 nav_exclude: true
 permalink: /cards/itangast-ahunt/

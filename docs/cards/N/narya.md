@@ -2,7 +2,7 @@
 layout: card
 title: Narya
 grand_parent: Cards
-parent: Narya
+parent: N
 search_exclude: false
 nav_exclude: true
 permalink: /cards/narya/

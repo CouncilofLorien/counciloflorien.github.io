@@ -2,7 +2,7 @@
 layout: card
 title: Test of Form
 grand_parent: Cards
-parent: Test of Form
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/test-of-form/

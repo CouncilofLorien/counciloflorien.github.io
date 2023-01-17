@@ -2,7 +2,7 @@
 layout: card
 title: Were-worm
 grand_parent: Cards
-parent: Were-worm
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/were-worm/

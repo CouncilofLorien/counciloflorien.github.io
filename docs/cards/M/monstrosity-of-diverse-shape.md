@@ -2,7 +2,7 @@
 layout: card
 title: Monstrosity of Diverse Shape
 grand_parent: Cards
-parent: Monstrosity of Diverse Shape
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/monstrosity-of-diverse-shape/

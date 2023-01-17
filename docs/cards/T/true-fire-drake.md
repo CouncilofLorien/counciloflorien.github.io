@@ -2,7 +2,7 @@
 layout: card
 title: True Fire-drake
 grand_parent: Cards
-parent: True Fire-drake
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/true-fire-drake/

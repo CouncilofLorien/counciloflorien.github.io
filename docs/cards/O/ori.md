@@ -2,7 +2,7 @@
 layout: card
 title: Ori
 grand_parent: Cards
-parent: Ori
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/ori/

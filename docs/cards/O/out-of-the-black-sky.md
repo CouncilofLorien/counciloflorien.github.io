@@ -2,7 +2,7 @@
 layout: card
 title: Out of the Black Sky
 grand_parent: Cards
-parent: Out of the Black Sky
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/out-of-the-black-sky/

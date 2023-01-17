@@ -2,7 +2,7 @@
 layout: card
 title: Men of Dorwinion
 grand_parent: Cards
-parent: Men of Dorwinion
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/men-of-dorwinion/

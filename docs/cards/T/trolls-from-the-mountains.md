@@ -2,7 +2,7 @@
 layout: card
 title: Trolls from the Mountains
 grand_parent: Cards
-parent: Trolls from the Mountains
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/trolls-from-the-mountains/

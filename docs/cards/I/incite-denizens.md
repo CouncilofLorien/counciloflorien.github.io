@@ -2,7 +2,7 @@
 layout: card
 title: Incite Denizens
 grand_parent: Cards
-parent: Incite Denizens
+parent: I
 search_exclude: false
 nav_exclude: true
 permalink: /cards/incite-denizens/

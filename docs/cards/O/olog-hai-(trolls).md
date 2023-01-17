@@ -2,7 +2,7 @@
 layout: card
 title: Olog-hai (Trolls)
 grand_parent: Cards
-parent: Olog-hai (Trolls)
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/olog-hai-(trolls)/

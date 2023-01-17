@@ -2,7 +2,7 @@
 layout: card
 title: An Unexpected Party
 grand_parent: Cards
-parent: An Unexpected Party
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/an-unexpected-party/

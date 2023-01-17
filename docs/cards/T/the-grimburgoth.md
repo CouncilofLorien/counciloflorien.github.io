@@ -2,7 +2,7 @@
 layout: card
 title: The Grimburgoth
 grand_parent: Cards
-parent: The Grimburgoth
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-grimburgoth/

@@ -2,7 +2,7 @@
 layout: card
 title: Wizard's River-horses
 grand_parent: Cards
-parent: Wizard's River-horses
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/wizards-river-horses/

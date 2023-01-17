@@ -2,7 +2,7 @@
 layout: card
 title: Greater Half-orcs
 grand_parent: Cards
-parent: Greater Half-orcs
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/greater-half-orcs/

@@ -2,7 +2,7 @@
 layout: card
 title: Dunnish Clan-hold
 grand_parent: Cards
-parent: Dunnish Clan-hold
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/dunnish-clan-hold/

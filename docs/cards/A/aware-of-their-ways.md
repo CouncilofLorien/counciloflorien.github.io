@@ -2,7 +2,7 @@
 layout: card
 title: Aware of Their Ways
 grand_parent: Cards
-parent: Aware of Their Ways
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/aware-of-their-ways/

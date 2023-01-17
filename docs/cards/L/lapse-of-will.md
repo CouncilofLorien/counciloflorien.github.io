@@ -2,7 +2,7 @@
 layout: card
 title: Lapse of Will
 grand_parent: Cards
-parent: Lapse of Will
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/lapse-of-will/

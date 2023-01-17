@@ -2,7 +2,7 @@
 layout: card
 title: Wain-easterlings
 grand_parent: Cards
-parent: Wain-easterlings
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/wain-easterlings/

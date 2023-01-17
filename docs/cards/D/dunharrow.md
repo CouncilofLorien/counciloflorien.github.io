@@ -2,7 +2,7 @@
 layout: card
 title: Dunharrow
 grand_parent: Cards
-parent: Dunharrow
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/dunharrow/

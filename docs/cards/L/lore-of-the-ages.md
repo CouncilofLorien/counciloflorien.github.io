@@ -2,7 +2,7 @@
 layout: card
 title: Lore of the Ages
 grand_parent: Cards
-parent: Lore of the Ages
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/lore-of-the-ages/

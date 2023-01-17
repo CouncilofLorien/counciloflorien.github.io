@@ -2,7 +2,7 @@
 layout: card
 title: Bard Bowman
 grand_parent: Cards
-parent: Bard Bowman
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/bard-bowman/

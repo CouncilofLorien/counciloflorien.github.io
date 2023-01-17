@@ -2,7 +2,7 @@
 layout: card
 title: Sons of Kings
 grand_parent: Cards
-parent: Sons of Kings
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/sons-of-kings/

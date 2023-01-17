@@ -2,7 +2,7 @@
 layout: card
 title: Dwarven Hoard
 grand_parent: Cards
-parent: Dwarven Hoard
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/dwarven-hoard/

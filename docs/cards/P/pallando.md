@@ -2,7 +2,7 @@
 layout: card
 title: Pallando
 grand_parent: Cards
-parent: Pallando
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/pallando/

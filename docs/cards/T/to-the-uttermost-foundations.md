@@ -2,7 +2,7 @@
 layout: card
 title: To the Uttermost Foundations
 grand_parent: Cards
-parent: To the Uttermost Foundations
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/to-the-uttermost-foundations/

@@ -2,7 +2,7 @@
 layout: card
 title: The Drowning-deeps
 grand_parent: Cards
-parent: The Drowning-deeps
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-drowning-deeps/

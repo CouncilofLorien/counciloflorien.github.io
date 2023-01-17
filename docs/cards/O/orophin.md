@@ -2,7 +2,7 @@
 layout: card
 title: Orophin
 grand_parent: Cards
-parent: Orophin
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/orophin/

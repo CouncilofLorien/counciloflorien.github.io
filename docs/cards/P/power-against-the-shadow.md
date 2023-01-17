@@ -2,7 +2,7 @@
 layout: card
 title: Power Against the Shadow
 grand_parent: Cards
-parent: Power Against the Shadow
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/power-against-the-shadow/

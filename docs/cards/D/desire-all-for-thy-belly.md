@@ -2,7 +2,7 @@
 layout: card
 title: Desire All for Thy Belly
 grand_parent: Cards
-parent: Desire All for Thy Belly
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/desire-all-for-thy-belly/

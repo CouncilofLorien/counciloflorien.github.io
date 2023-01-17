@@ -2,7 +2,7 @@
 layout: card
 title: Ruined Signal Tower
 grand_parent: Cards
-parent: Ruined Signal Tower
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/ruined-signal-tower/

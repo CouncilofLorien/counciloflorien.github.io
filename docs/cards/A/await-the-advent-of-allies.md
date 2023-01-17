@@ -2,7 +2,7 @@
 layout: card
 title: Await the Advent of Allies
 grand_parent: Cards
-parent: Await the Advent of Allies
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/await-the-advent-of-allies/

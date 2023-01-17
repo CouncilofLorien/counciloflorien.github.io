@@ -2,7 +2,7 @@
 layout: card
 title: Tom Bombadil
 grand_parent: Cards
-parent: Tom Bombadil
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/tom-bombadil/

@@ -2,7 +2,7 @@
 layout: card
 title: Old Friendship
 grand_parent: Cards
-parent: Old Friendship
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/old-friendship/

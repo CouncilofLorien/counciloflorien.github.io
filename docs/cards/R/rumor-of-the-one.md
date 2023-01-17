@@ -2,7 +2,7 @@
 layout: card
 title: Rumor of the One
 grand_parent: Cards
-parent: Rumor of the One
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/rumor-of-the-one/

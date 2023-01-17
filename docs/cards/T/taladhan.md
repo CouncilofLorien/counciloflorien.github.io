@@ -2,7 +2,7 @@
 layout: card
 title: Taladhan
 grand_parent: Cards
-parent: Taladhan
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/taladhan/

@@ -2,7 +2,7 @@
 layout: card
 title: Mount Gram
 grand_parent: Cards
-parent: Mount Gram
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/mount-gram/

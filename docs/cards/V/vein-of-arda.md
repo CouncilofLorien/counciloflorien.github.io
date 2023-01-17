@@ -2,7 +2,7 @@
 layout: card
 title: Vein of Arda
 grand_parent: Cards
-parent: Vein of Arda
+parent: V
 search_exclude: false
 nav_exclude: true
 permalink: /cards/vein-of-arda/

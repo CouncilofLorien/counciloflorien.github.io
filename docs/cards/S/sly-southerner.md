@@ -2,7 +2,7 @@
 layout: card
 title: Sly Southerner
 grand_parent: Cards
-parent: Sly Southerner
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/sly-southerner/

@@ -2,7 +2,7 @@
 layout: card
 title: Orc-guard
 grand_parent: Cards
-parent: Orc-guard
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/orc-guard/

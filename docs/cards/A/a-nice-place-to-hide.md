@@ -2,7 +2,7 @@
 layout: card
 title: A Nice Place to Hide
 grand_parent: Cards
-parent: A Nice Place to Hide
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/a-nice-place-to-hide/

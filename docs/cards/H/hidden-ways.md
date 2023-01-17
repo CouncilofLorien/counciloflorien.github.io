@@ -2,7 +2,7 @@
 layout: card
 title: Hidden Ways
 grand_parent: Cards
-parent: Hidden Ways
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/hidden-ways/

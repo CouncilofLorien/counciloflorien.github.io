@@ -2,7 +2,7 @@
 layout: card
 title: Wolf-riders
 grand_parent: Cards
-parent: Wolf-riders
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/wolf-riders/

@@ -2,7 +2,7 @@
 layout: card
 title: Swarm of Bats
 grand_parent: Cards
-parent: Swarm of Bats
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/swarm-of-bats/

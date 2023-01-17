@@ -2,7 +2,7 @@
 layout: card
 title: Akhorahil
 grand_parent: Cards
-parent: Akhorahil
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/akhorahil/

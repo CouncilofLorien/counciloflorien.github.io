@@ -2,7 +2,7 @@
 layout: card
 title: Asternak
 grand_parent: Cards
-parent: Asternak
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/asternak/

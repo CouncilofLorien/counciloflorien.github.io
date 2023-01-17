@@ -2,7 +2,7 @@
 layout: card
 title: Remains of Thangorodrim
 grand_parent: Cards
-parent: Remains of Thangorodrim
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/remains-of-thangorodrim/

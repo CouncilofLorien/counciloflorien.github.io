@@ -2,7 +2,7 @@
 layout: card
 title: Leucaruth Ahunt
 grand_parent: Cards
-parent: Leucaruth Ahunt
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/leucaruth-ahunt/

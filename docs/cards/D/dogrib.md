@@ -2,7 +2,7 @@
 layout: card
 title: Dogrib
 grand_parent: Cards
-parent: Dogrib
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/dogrib/

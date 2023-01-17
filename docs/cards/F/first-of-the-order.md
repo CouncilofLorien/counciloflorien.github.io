@@ -2,7 +2,7 @@
 layout: card
 title: First of the Order
 grand_parent: Cards
-parent: First of the Order
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/first-of-the-order/

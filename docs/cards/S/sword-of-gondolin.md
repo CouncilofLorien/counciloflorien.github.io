@@ -2,7 +2,7 @@
 layout: card
 title: Sword of Gondolin
 grand_parent: Cards
-parent: Sword of Gondolin
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/sword-of-gondolin/

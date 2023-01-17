@@ -2,7 +2,7 @@
 layout: card
 title: Orc Stealth
 grand_parent: Cards
-parent: Orc Stealth
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/orc-stealth/

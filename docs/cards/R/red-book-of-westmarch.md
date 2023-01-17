@@ -2,7 +2,7 @@
 layout: card
 title: Red Book of Westmarch
 grand_parent: Cards
-parent: Red Book of Westmarch
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/red-book-of-westmarch/

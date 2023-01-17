@@ -2,7 +2,7 @@
 layout: card
 title: Lord of the Carrock
 grand_parent: Cards
-parent: Lord of the Carrock
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/lord-of-the-carrock/

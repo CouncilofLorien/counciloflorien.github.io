@@ -2,7 +2,7 @@
 layout: card
 title: Indur Unleashed
 grand_parent: Cards
-parent: Indur Unleashed
+parent: I
 search_exclude: false
 nav_exclude: true
 permalink: /cards/indur-unleashed/

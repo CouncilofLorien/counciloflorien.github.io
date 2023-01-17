@@ -2,7 +2,7 @@
 layout: card
 title: Eagles' Eyrie
 grand_parent: Cards
-parent: Eagles' Eyrie
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/eagles-eyrie/

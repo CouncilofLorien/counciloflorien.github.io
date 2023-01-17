@@ -2,7 +2,7 @@
 layout: card
 title: Southron Oasis
 grand_parent: Cards
-parent: Southron Oasis
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/southron-oasis/

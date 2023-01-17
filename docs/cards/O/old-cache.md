@@ -2,7 +2,7 @@
 layout: card
 title: Old Cache
 grand_parent: Cards
-parent: Old Cache
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/old-cache/

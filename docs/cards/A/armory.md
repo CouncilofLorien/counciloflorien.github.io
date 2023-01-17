@@ -2,7 +2,7 @@
 layout: card
 title: Armory
 grand_parent: Cards
-parent: Armory
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/armory/

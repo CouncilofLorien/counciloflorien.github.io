@@ -2,7 +2,7 @@
 layout: card
 title: Emerald of Doriath
 grand_parent: Cards
-parent: Emerald of Doriath
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/emerald-of-doriath/

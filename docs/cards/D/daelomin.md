@@ -2,7 +2,7 @@
 layout: card
 title: Daelomin
 grand_parent: Cards
-parent: Daelomin
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/daelomin/

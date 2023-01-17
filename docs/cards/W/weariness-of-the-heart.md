@@ -2,7 +2,7 @@
 layout: card
 title: Weariness of the Heart
 grand_parent: Cards
-parent: Weariness of the Heart
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/weariness-of-the-heart/

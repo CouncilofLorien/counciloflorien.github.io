@@ -2,7 +2,7 @@
 layout: card
 title: Something Else at Work
 grand_parent: Cards
-parent: Something Else at Work
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/something-else-at-work/

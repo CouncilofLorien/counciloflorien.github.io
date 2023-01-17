@@ -2,7 +2,7 @@
 layout: card
 title: Narsil
 grand_parent: Cards
-parent: Narsil
+parent: N
 search_exclude: false
 nav_exclude: true
 permalink: /cards/narsil/

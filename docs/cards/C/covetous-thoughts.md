@@ -2,7 +2,7 @@
 layout: card
 title: Covetous Thoughts
 grand_parent: Cards
-parent: Covetous Thoughts
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/covetous-thoughts/

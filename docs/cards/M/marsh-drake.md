@@ -2,7 +2,7 @@
 layout: card
 title: Marsh-drake
 grand_parent: Cards
-parent: Marsh-drake
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/marsh-drake/

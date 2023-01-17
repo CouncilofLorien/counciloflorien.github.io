@@ -2,7 +2,7 @@
 layout: card
 title: Noble Steed
 grand_parent: Cards
-parent: Noble Steed
+parent: N
 search_exclude: false
 nav_exclude: true
 permalink: /cards/noble-steed/

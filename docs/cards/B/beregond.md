@@ -2,7 +2,7 @@
 layout: card
 title: Beregond
 grand_parent: Cards
-parent: Beregond
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/beregond/

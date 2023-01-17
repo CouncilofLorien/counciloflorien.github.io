@@ -2,7 +2,7 @@
 layout: card
 title: Merry
 grand_parent: Cards
-parent: Merry
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/merry/

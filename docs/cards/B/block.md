@@ -2,7 +2,7 @@
 layout: card
 title: Block
 grand_parent: Cards
-parent: Block
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/block/

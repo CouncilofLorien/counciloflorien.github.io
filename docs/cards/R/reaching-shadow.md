@@ -2,7 +2,7 @@
 layout: card
 title: Reaching Shadow
 grand_parent: Cards
-parent: Reaching Shadow
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/reaching-shadow/

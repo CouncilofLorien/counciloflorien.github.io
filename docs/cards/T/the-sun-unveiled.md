@@ -2,7 +2,7 @@
 layout: card
 title: The Sun Unveiled
 grand_parent: Cards
-parent: The Sun Unveiled
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-sun-unveiled/

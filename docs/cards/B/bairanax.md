@@ -2,7 +2,7 @@
 layout: card
 title: Bairanax
 grand_parent: Cards
-parent: Bairanax
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/bairanax/

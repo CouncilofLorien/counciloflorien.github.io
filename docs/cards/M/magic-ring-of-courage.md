@@ -2,7 +2,7 @@
 layout: card
 title: Magic Ring of Courage
 grand_parent: Cards
-parent: Magic Ring of Courage
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/magic-ring-of-courage/

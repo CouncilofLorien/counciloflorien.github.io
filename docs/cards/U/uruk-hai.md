@@ -2,7 +2,7 @@
 layout: card
 title: Uruk-hai
 grand_parent: Cards
-parent: Uruk-hai
+parent: U
 search_exclude: false
 nav_exclude: true
 permalink: /cards/uruk-hai/

@@ -2,7 +2,7 @@
 layout: card
 title: Mirror of Galadriel
 grand_parent: Cards
-parent: Mirror of Galadriel
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/mirror-of-galadriel/

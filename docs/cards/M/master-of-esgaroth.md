@@ -2,7 +2,7 @@
 layout: card
 title: Master of Esgaroth
 grand_parent: Cards
-parent: Master of Esgaroth
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/master-of-esgaroth/

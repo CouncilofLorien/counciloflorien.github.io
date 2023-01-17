@@ -2,7 +2,7 @@
 layout: card
 title: Gatherer of Loyalties
 grand_parent: Cards
-parent: Gatherer of Loyalties
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/gatherer-of-loyalties/

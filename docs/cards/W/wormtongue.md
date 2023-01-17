@@ -2,7 +2,7 @@
 layout: card
 title: Wormtongue
 grand_parent: Cards
-parent: Wormtongue
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/wormtongue/

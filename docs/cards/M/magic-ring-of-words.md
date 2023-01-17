@@ -2,7 +2,7 @@
 layout: card
 title: Magic Ring of Words
 grand_parent: Cards
-parent: Magic Ring of Words
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/magic-ring-of-words/

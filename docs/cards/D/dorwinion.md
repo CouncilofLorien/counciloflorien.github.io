@@ -2,7 +2,7 @@
 layout: card
 title: Dorwinion
 grand_parent: Cards
-parent: Dorwinion
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/dorwinion/

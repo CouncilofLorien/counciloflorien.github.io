@@ -2,7 +2,7 @@
 layout: card
 title: Pallando's Hood
 grand_parent: Cards
-parent: Pallando's Hood
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/pallandos-hood/

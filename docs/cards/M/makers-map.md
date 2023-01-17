@@ -2,7 +2,7 @@
 layout: card
 title: Maker's Map
 grand_parent: Cards
-parent: Maker's Map
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/makers-map/

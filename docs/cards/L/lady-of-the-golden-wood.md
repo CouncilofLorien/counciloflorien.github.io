@@ -2,7 +2,7 @@
 layout: card
 title: Lady of the Golden Wood
 grand_parent: Cards
-parent: Lady of the Golden Wood
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/lady-of-the-golden-wood/

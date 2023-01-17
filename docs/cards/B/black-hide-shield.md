@@ -2,7 +2,7 @@
 layout: card
 title: Black-hide Shield
 grand_parent: Cards
-parent: Black-hide Shield
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/black-hide-shield/

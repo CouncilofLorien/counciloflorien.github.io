@@ -2,7 +2,7 @@
 layout: card
 title: Urlurtsu Nurn
 grand_parent: Cards
-parent: Urlurtsu Nurn
+parent: U
 search_exclude: false
 nav_exclude: true
 permalink: /cards/urlurtsu-nurn/

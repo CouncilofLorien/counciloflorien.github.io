@@ -2,7 +2,7 @@
 layout: card
 title: Terror Heralds Doom
 grand_parent: Cards
-parent: Terror Heralds Doom
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/terror-heralds-doom/

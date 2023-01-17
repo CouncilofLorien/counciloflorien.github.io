@@ -2,7 +2,7 @@
 layout: card
 title: Glamdring
 grand_parent: Cards
-parent: Glamdring
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/glamdring/

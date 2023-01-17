@@ -2,7 +2,7 @@
 layout: card
 title: Hobbits
 grand_parent: Cards
-parent: Hobbits
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/hobbits/

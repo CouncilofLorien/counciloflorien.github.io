@@ -2,7 +2,7 @@
 layout: card
 title: Woodmen-town
 grand_parent: Cards
-parent: Woodmen-town
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/woodmen-town/

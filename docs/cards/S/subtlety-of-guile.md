@@ -2,7 +2,7 @@
 layout: card
 title: Subtlety of Guile
 grand_parent: Cards
-parent: Subtlety of Guile
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/subtlety-of-guile/

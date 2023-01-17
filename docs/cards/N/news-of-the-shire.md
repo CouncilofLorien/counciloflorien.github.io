@@ -2,7 +2,7 @@
 layout: card
 title: News of the Shire
 grand_parent: Cards
-parent: News of the Shire
+parent: N
 search_exclude: false
 nav_exclude: true
 permalink: /cards/news-of-the-shire/

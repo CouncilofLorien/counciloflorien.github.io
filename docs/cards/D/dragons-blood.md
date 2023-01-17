@@ -2,7 +2,7 @@
 layout: card
 title: Dragon's Blood
 grand_parent: Cards
-parent: Dragon's Blood
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/dragons-blood/

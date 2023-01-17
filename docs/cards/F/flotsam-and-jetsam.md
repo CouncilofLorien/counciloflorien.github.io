@@ -2,7 +2,7 @@
 layout: card
 title: Flotsam and Jetsam
 grand_parent: Cards
-parent: Flotsam and Jetsam
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/flotsam-and-jetsam/

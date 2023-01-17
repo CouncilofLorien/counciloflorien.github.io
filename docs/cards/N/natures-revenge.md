@@ -2,7 +2,7 @@
 layout: card
 title: Nature's Revenge
 grand_parent: Cards
-parent: Nature's Revenge
+parent: N
 search_exclude: false
 nav_exclude: true
 permalink: /cards/natures-revenge/

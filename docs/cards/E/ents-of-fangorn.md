@@ -2,7 +2,7 @@
 layout: card
 title: Ents of Fangorn
 grand_parent: Cards
-parent: Ents of Fangorn
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/ents-of-fangorn/

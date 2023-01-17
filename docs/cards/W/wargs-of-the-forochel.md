@@ -2,7 +2,7 @@
 layout: card
 title: Wargs of the Forochel
 grand_parent: Cards
-parent: Wargs of the Forochel
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/wargs-of-the-forochel/

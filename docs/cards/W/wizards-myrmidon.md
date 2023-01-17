@@ -2,7 +2,7 @@
 layout: card
 title: Wizard's Myrmidon
 grand_parent: Cards
-parent: Wizard's Myrmidon
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/wizards-myrmidon/

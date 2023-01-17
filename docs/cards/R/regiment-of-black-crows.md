@@ -2,7 +2,7 @@
 layout: card
 title: Regiment of Black Crows
 grand_parent: Cards
-parent: Regiment of Black Crows
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/regiment-of-black-crows/

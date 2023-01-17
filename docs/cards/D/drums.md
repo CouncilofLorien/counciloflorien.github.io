@@ -2,7 +2,7 @@
 layout: card
 title: Drums
 grand_parent: Cards
-parent: Drums
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/drums/

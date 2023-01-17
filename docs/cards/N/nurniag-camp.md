@@ -2,7 +2,7 @@
 layout: card
 title: Nurniag Camp
 grand_parent: Cards
-parent: Nurniag Camp
+parent: N
 search_exclude: false
 nav_exclude: true
 permalink: /cards/nurniag-camp/

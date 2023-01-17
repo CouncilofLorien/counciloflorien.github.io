@@ -2,7 +2,7 @@
 layout: card
 title: Beorn's House
 grand_parent: Cards
-parent: Beorn's House
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/beorns-house/

@@ -2,7 +2,7 @@
 layout: card
 title: Wraith-lord
 grand_parent: Cards
-parent: Wraith-lord
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/wraith-lord/

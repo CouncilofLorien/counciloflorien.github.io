@@ -2,7 +2,7 @@
 layout: card
 title: Invade Their Domain
 grand_parent: Cards
-parent: Invade Their Domain
+parent: I
 search_exclude: false
 nav_exclude: true
 permalink: /cards/invade-their-domain/

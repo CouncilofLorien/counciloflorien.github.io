@@ -2,7 +2,7 @@
 layout: card
 title: Dwarven Ring of Thelor's Tribe
 grand_parent: Cards
-parent: Dwarven Ring of Thelor's Tribe
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/dwarven-ring-of-thelors-tribe/

@@ -2,7 +2,7 @@
 layout: card
 title: The Reach of Ulmo
 grand_parent: Cards
-parent: The Reach of Ulmo
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-reach-of-ulmo/

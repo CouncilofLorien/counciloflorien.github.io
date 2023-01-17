@@ -2,7 +2,7 @@
 layout: card
 title: Hoarmurath the Ringwraith
 grand_parent: Cards
-parent: Hoarmurath the Ringwraith
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/hoarmurath-the-ringwraith/

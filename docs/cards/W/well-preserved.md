@@ -2,7 +2,7 @@
 layout: card
 title: Well-preserved
 grand_parent: Cards
-parent: Well-preserved
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/well-preserved/

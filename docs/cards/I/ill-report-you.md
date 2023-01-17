@@ -2,7 +2,7 @@
 layout: card
 title: I'll Report You
 grand_parent: Cards
-parent: I'll Report You
+parent: I
 search_exclude: false
 nav_exclude: true
 permalink: /cards/ill-report-you/

@@ -2,7 +2,7 @@
 layout: card
 title: Men of Lake-town
 grand_parent: Cards
-parent: Men of Lake-town
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/men-of-lake-town/

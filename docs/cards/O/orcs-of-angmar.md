@@ -2,7 +2,7 @@
 layout: card
 title: Orcs of Angmar
 grand_parent: Cards
-parent: Orcs of Angmar
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/orcs-of-angmar/

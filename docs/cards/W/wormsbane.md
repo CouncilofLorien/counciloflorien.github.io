@@ -2,7 +2,7 @@
 layout: card
 title: Wormsbane
 grand_parent: Cards
-parent: Wormsbane
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/wormsbane/

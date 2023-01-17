@@ -2,7 +2,7 @@
 layout: card
 title: Poisonous Despair
 grand_parent: Cards
-parent: Poisonous Despair
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/poisonous-despair/

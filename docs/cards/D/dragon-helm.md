@@ -2,7 +2,7 @@
 layout: card
 title: Dragon-helm
 grand_parent: Cards
-parent: Dragon-helm
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/dragon-helm/

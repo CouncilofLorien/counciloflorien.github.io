@@ -2,7 +2,7 @@
 layout: card
 title: Minions Stir
 grand_parent: Cards
-parent: Minions Stir
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/minions-stir/

@@ -2,7 +2,7 @@
 layout: card
 title: Noldo-lantern
 grand_parent: Cards
-parent: Noldo-lantern
+parent: N
 search_exclude: false
 nav_exclude: true
 permalink: /cards/noldo-lantern/

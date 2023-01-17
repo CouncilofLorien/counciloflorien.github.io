@@ -2,7 +2,7 @@
 layout: card
 title: Darkness Wielded
 grand_parent: Cards
-parent: Darkness Wielded
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/darkness-wielded/

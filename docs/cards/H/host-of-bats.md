@@ -2,7 +2,7 @@
 layout: card
 title: Host of Bats
 grand_parent: Cards
-parent: Host of Bats
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/host-of-bats/

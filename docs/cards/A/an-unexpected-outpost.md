@@ -2,7 +2,7 @@
 layout: card
 title: An Unexpected Outpost
 grand_parent: Cards
-parent: An Unexpected Outpost
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/an-unexpected-outpost/

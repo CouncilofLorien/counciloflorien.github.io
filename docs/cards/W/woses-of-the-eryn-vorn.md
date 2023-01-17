@@ -2,7 +2,7 @@
 layout: card
 title: Woses of the Eryn Vorn
 grand_parent: Cards
-parent: Woses of the Eryn Vorn
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/woses-of-the-eryn-vorn/

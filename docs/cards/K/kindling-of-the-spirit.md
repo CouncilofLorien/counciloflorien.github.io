@@ -2,7 +2,7 @@
 layout: card
 title: Kindling of the Spirit
 grand_parent: Cards
-parent: Kindling of the Spirit
+parent: K
 search_exclude: false
 nav_exclude: true
 permalink: /cards/kindling-of-the-spirit/

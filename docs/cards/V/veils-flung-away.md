@@ -2,7 +2,7 @@
 layout: card
 title: Veils Flung Away
 grand_parent: Cards
-parent: Veils Flung Away
+parent: V
 search_exclude: false
 nav_exclude: true
 permalink: /cards/veils-flung-away/

@@ -2,7 +2,7 @@
 layout: card
 title: Bade to Rule
 grand_parent: Cards
-parent: Bade to Rule
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/bade-to-rule/

@@ -2,7 +2,7 @@
 layout: card
 title: Ent in Search of the Entwives
 grand_parent: Cards
-parent: Ent in Search of the Entwives
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/ent-in-search-of-the-entwives/

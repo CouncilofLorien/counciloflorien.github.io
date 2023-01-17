@@ -2,7 +2,7 @@
 layout: card
 title: Framsburg
 grand_parent: Cards
-parent: Framsburg
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/framsburg/

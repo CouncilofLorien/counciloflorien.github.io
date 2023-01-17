@@ -2,7 +2,7 @@
 layout: card
 title: Ire of the East
 grand_parent: Cards
-parent: Ire of the East
+parent: I
 search_exclude: false
 nav_exclude: true
 permalink: /cards/ire-of-the-east/

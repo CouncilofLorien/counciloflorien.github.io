@@ -2,7 +2,7 @@
 layout: card
 title: Rhun
 grand_parent: Cards
-parent: Rhun
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/rhun/

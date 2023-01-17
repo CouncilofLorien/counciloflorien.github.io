@@ -2,7 +2,7 @@
 layout: card
 title: Burat
 grand_parent: Cards
-parent: Burat
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/burat/

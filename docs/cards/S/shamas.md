@@ -2,7 +2,7 @@
 layout: card
 title: Shamas
 grand_parent: Cards
-parent: Shamas
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/shamas/

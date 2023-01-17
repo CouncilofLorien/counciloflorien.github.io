@@ -2,7 +2,7 @@
 layout: card
 title: Men of Dale
 grand_parent: Cards
-parent: Men of Dale
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/men-of-dale/

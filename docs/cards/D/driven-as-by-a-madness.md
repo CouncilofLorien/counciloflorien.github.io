@@ -2,7 +2,7 @@
 layout: card
 title: Driven as by a Madness
 grand_parent: Cards
-parent: Driven as by a Madness
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/driven-as-by-a-madness/

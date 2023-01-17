@@ -2,7 +2,7 @@
 layout: card
 title: Galadhrim
 grand_parent: Cards
-parent: Galadhrim
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/galadhrim/

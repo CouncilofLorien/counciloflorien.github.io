@@ -2,7 +2,7 @@
 layout: card
 title: All Thought Bent upon It
 grand_parent: Cards
-parent: All Thought Bent upon It
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/all-thought-bent-upon-it/

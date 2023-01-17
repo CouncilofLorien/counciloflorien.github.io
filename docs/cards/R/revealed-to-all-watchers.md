@@ -2,7 +2,7 @@
 layout: card
 title: Revealed to all Watchers
 grand_parent: Cards
-parent: Revealed to all Watchers
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/revealed-to-all-watchers/

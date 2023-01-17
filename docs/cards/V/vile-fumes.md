@@ -2,7 +2,7 @@
 layout: card
 title: Vile Fumes
 grand_parent: Cards
-parent: Vile Fumes
+parent: V
 search_exclude: false
 nav_exclude: true
 permalink: /cards/vile-fumes/

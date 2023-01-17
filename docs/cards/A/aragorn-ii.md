@@ -2,7 +2,7 @@
 layout: card
 title: Aragorn II
 grand_parent: Cards
-parent: Aragorn II
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/aragorn-ii/

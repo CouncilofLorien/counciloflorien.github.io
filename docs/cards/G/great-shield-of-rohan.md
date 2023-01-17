@@ -2,7 +2,7 @@
 layout: card
 title: Great-shield of Rohan
 grand_parent: Cards
-parent: Great-shield of Rohan
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/great-shield-of-rohan/

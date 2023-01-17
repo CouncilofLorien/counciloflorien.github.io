@@ -2,7 +2,7 @@
 layout: card
 title: Tookish Blood
 grand_parent: Cards
-parent: Tookish Blood
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/tookish-blood/

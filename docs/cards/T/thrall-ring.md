@@ -2,7 +2,7 @@
 layout: card
 title: Thrall-ring
 grand_parent: Cards
-parent: Thrall-ring
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/thrall-ring/

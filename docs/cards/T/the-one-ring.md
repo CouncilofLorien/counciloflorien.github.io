@@ -2,7 +2,7 @@
 layout: card
 title: The One Ring
 grand_parent: Cards
-parent: The One Ring
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-one-ring/

@@ -2,7 +2,7 @@
 layout: card
 title: Pierced by Many Wounds
 grand_parent: Cards
-parent: Pierced by Many Wounds
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/pierced-by-many-wounds/

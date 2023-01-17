@@ -2,7 +2,7 @@
 layout: card
 title: Threats
 grand_parent: Cards
-parent: Threats
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/threats/

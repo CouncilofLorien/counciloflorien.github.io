@@ -2,7 +2,7 @@
 layout: card
 title: The Great Eagles
 grand_parent: Cards
-parent: The Great Eagles
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-great-eagles/

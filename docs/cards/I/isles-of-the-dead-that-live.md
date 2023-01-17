@@ -2,7 +2,7 @@
 layout: card
 title: Isles of the Dead That Live
 grand_parent: Cards
-parent: Isles of the Dead That Live
+parent: I
 search_exclude: false
 nav_exclude: true
 permalink: /cards/isles-of-the-dead-that-live/

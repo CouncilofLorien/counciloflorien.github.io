@@ -2,7 +2,7 @@
 layout: card
 title: Concealment
 grand_parent: Cards
-parent: Concealment
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/concealment/

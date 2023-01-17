@@ -2,7 +2,7 @@
 layout: card
 title: Uvatha the Ringwraith
 grand_parent: Cards
-parent: Uvatha the Ringwraith
+parent: U
 search_exclude: false
 nav_exclude: true
 permalink: /cards/uvatha-the-ringwraith/

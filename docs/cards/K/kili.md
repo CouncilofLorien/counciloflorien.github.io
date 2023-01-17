@@ -2,7 +2,7 @@
 layout: card
 title: Kili
 grand_parent: Cards
-parent: Kili
+parent: K
 search_exclude: false
 nav_exclude: true
 permalink: /cards/kili/

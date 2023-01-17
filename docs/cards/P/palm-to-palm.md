@@ -2,7 +2,7 @@
 layout: card
 title: Palm to Palm
 grand_parent: Cards
-parent: Palm to Palm
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/palm-to-palm/

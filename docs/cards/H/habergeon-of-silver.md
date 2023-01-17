@@ -2,7 +2,7 @@
 layout: card
 title: Habergeon of Silver
 grand_parent: Cards
-parent: Habergeon of Silver
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/habergeon-of-silver/

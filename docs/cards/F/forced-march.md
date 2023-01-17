@@ -2,7 +2,7 @@
 layout: card
 title: Forced March
 grand_parent: Cards
-parent: Forced March
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/forced-march/

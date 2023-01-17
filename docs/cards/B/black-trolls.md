@@ -2,7 +2,7 @@
 layout: card
 title: Black Trolls
 grand_parent: Cards
-parent: Black Trolls
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/black-trolls/

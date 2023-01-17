@@ -2,7 +2,7 @@
 layout: card
 title: Foul Tooth Unsheathed
 grand_parent: Cards
-parent: Foul Tooth Unsheathed
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/foul-tooth-unsheathed/

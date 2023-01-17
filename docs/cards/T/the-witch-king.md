@@ -2,7 +2,7 @@
 layout: card
 title: The Witch-king
 grand_parent: Cards
-parent: The Witch-king
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-witch-king/

@@ -2,7 +2,7 @@
 layout: card
 title: Morgul Night
 grand_parent: Cards
-parent: Morgul Night
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/morgul-night/

@@ -2,7 +2,7 @@
 layout: card
 title: Ungoliant's Progeny
 grand_parent: Cards
-parent: Ungoliant's Progeny
+parent: U
 search_exclude: false
 nav_exclude: true
 permalink: /cards/ungoliants-progeny/

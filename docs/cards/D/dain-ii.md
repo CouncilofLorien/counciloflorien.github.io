@@ -2,7 +2,7 @@
 layout: card
 title: Dain II
 grand_parent: Cards
-parent: Dain II
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/dain-ii/

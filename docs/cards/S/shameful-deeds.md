@@ -2,7 +2,7 @@
 layout: card
 title: Shameful Deeds
 grand_parent: Cards
-parent: Shameful Deeds
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/shameful-deeds/

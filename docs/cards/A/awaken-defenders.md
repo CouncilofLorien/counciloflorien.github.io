@@ -2,7 +2,7 @@
 layout: card
 title: Awaken Defenders
 grand_parent: Cards
-parent: Awaken Defenders
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/awaken-defenders/

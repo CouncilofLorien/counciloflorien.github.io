@@ -2,7 +2,7 @@
 layout: card
 title: Adunaphel the Ringwraith
 grand_parent: Cards
-parent: Adunaphel the Ringwraith
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/adunaphel-the-ringwraith/

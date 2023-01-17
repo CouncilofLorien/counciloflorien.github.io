@@ -2,7 +2,7 @@
 layout: card
 title: Shut Yer Mouth
 grand_parent: Cards
-parent: Shut Yer Mouth
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/shut-yer-mouth/

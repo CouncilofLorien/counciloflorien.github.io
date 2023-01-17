@@ -2,7 +2,7 @@
 layout: card
 title: Tales of the Hunt
 grand_parent: Cards
-parent: Tales of the Hunt
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/tales-of-the-hunt/

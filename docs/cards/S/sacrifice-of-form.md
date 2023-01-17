@@ -2,7 +2,7 @@
 layout: card
 title: Sacrifice of Form
 grand_parent: Cards
-parent: Sacrifice of Form
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/sacrifice-of-form/

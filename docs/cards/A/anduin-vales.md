@@ -2,7 +2,7 @@
 layout: card
 title: Anduin Vales
 grand_parent: Cards
-parent: Anduin Vales
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/anduin-vales/

@@ -2,7 +2,7 @@
 layout: card
 title: Many Foes he Fought
 grand_parent: Cards
-parent: Many Foes he Fought
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/many-foes-he-fought/

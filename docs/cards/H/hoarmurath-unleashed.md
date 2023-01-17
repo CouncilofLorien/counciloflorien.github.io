@@ -2,7 +2,7 @@
 layout: card
 title: Hoarmurath Unleashed
 grand_parent: Cards
-parent: Hoarmurath Unleashed
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/hoarmurath-unleashed/

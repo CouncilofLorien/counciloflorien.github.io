@@ -2,7 +2,7 @@
 layout: card
 title: Into the Smoking Cone
 grand_parent: Cards
-parent: Into the Smoking Cone
+parent: I
 search_exclude: false
 nav_exclude: true
 permalink: /cards/into-the-smoking-cone/

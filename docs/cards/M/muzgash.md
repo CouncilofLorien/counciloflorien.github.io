@@ -2,7 +2,7 @@
 layout: card
 title: Muzgash
 grand_parent: Cards
-parent: Muzgash
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/muzgash/

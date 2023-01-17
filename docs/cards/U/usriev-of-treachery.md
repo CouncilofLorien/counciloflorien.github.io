@@ -2,7 +2,7 @@
 layout: card
 title: Usriev of Treachery
 grand_parent: Cards
-parent: Usriev of Treachery
+parent: U
 search_exclude: false
 nav_exclude: true
 permalink: /cards/usriev-of-treachery/

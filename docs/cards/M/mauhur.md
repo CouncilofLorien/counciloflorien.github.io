@@ -2,7 +2,7 @@
 layout: card
 title: Mauhur
 grand_parent: Cards
-parent: Mauhur
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/mauhur/

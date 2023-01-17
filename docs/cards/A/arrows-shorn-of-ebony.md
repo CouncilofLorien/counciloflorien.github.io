@@ -2,7 +2,7 @@
 layout: card
 title: Arrows Shorn of Ebony
 grand_parent: Cards
-parent: Arrows Shorn of Ebony
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/arrows-shorn-of-ebony/

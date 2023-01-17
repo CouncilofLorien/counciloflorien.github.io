@@ -2,7 +2,7 @@
 layout: card
 title: Valiant Sword
 grand_parent: Cards
-parent: Valiant Sword
+parent: V
 search_exclude: false
 nav_exclude: true
 permalink: /cards/valiant-sword/

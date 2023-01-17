@@ -2,7 +2,7 @@
 layout: card
 title: Drowning Seas
 grand_parent: Cards
-parent: Drowning Seas
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/drowning-seas/

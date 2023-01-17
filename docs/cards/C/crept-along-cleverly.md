@@ -2,7 +2,7 @@
 layout: card
 title: Crept Along Cleverly
 grand_parent: Cards
-parent: Crept Along Cleverly
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/crept-along-cleverly/

@@ -2,7 +2,7 @@
 layout: card
 title: Leaflock
 grand_parent: Cards
-parent: Leaflock
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/leaflock/

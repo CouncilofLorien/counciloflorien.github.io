@@ -2,7 +2,7 @@
 layout: card
 title: Bow of the Galadhrim
 grand_parent: Cards
-parent: Bow of the Galadhrim
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/bow-of-the-galadhrim/

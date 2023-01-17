@@ -2,7 +2,7 @@
 layout: card
 title: Gold Ring that Sauron Fancies
 grand_parent: Cards
-parent: Gold Ring that Sauron Fancies
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/gold-ring-that-sauron-fancies/

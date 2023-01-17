@@ -2,7 +2,7 @@
 layout: card
 title: A Short Rest
 grand_parent: Cards
-parent: A Short Rest
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/a-short-rest/

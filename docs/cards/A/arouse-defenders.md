@@ -2,7 +2,7 @@
 layout: card
 title: Arouse Defenders
 grand_parent: Cards
-parent: Arouse Defenders
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/arouse-defenders/

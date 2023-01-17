@@ -2,7 +2,7 @@
 layout: card
 title: Pon-ora-Pon
 grand_parent: Cards
-parent: Pon-ora-Pon
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/pon-ora-pon/

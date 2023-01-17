@@ -2,7 +2,7 @@
 layout: card
 title: Mouths of the Anduin
 grand_parent: Cards
-parent: Mouths of the Anduin
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/mouths-of-the-anduin/

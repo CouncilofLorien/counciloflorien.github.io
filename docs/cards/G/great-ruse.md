@@ -2,7 +2,7 @@
 layout: card
 title: Great Ruse
 grand_parent: Cards
-parent: Great Ruse
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/great-ruse/

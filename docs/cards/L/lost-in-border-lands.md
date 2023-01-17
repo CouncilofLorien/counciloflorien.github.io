@@ -2,7 +2,7 @@
 layout: card
 title: Lost in Border-lands
 grand_parent: Cards
-parent: Lost in Border-lands
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/lost-in-border-lands/

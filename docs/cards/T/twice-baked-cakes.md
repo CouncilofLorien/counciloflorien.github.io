@@ -2,7 +2,7 @@
 layout: card
 title: Twice-baked Cakes
 grand_parent: Cards
-parent: Twice-baked Cakes
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/twice-baked-cakes/

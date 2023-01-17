@@ -2,7 +2,7 @@
 layout: card
 title: Promptings of Wisdom
 grand_parent: Cards
-parent: Promptings of Wisdom
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/promptings-of-wisdom/

@@ -2,7 +2,7 @@
 layout: card
 title: Orc-liquor
 grand_parent: Cards
-parent: Orc-liquor
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/orc-liquor/

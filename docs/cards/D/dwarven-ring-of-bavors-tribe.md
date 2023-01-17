@@ -2,7 +2,7 @@
 layout: card
 title: Dwarven Ring of Bavor's Tribe
 grand_parent: Cards
-parent: Dwarven Ring of Bavor's Tribe
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/dwarven-ring-of-bavors-tribe/

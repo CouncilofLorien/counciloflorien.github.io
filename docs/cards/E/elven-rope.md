@@ -2,7 +2,7 @@
 layout: card
 title: Elven Rope
 grand_parent: Cards
-parent: Elven Rope
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/elven-rope/

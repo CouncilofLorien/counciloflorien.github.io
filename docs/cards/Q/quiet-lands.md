@@ -2,7 +2,7 @@
 layout: card
 title: Quiet Lands
 grand_parent: Cards
-parent: Quiet Lands
+parent: Q
 search_exclude: false
 nav_exclude: true
 permalink: /cards/quiet-lands/

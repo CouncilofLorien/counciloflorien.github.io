@@ -2,7 +2,7 @@
 layout: card
 title: A Merrier World
 grand_parent: Cards
-parent: A Merrier World
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/a-merrier-world/

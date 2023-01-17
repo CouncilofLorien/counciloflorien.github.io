@@ -2,7 +2,7 @@
 layout: card
 title: Face out of Sight
 grand_parent: Cards
-parent: Face out of Sight
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/face-out-of-sight/

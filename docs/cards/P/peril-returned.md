@@ -2,7 +2,7 @@
 layout: card
 title: Peril Returned
 grand_parent: Cards
-parent: Peril Returned
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/peril-returned/

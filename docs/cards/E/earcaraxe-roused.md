@@ -2,7 +2,7 @@
 layout: card
 title: Earcaraxe Roused
 grand_parent: Cards
-parent: Earcaraxe Roused
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/earcaraxe-roused/

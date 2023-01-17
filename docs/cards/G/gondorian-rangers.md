@@ -2,7 +2,7 @@
 layout: card
 title: Gondorian Rangers
 grand_parent: Cards
-parent: Gondorian Rangers
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/gondorian-rangers/

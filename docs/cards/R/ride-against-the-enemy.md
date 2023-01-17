@@ -2,7 +2,7 @@
 layout: card
 title: Ride Against the Enemy
 grand_parent: Cards
-parent: Ride Against the Enemy
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/ride-against-the-enemy/

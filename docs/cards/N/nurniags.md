@@ -2,7 +2,7 @@
 layout: card
 title: Nurniags
 grand_parent: Cards
-parent: Nurniags
+parent: N
 search_exclude: false
 nav_exclude: true
 permalink: /cards/nurniags/

@@ -2,7 +2,7 @@
 layout: card
 title: Some Secret Art of Flame
 grand_parent: Cards
-parent: Some Secret Art of Flame
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/some-secret-art-of-flame/

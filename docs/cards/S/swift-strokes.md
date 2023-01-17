@@ -2,7 +2,7 @@
 layout: card
 title: Swift Strokes
 grand_parent: Cards
-parent: Swift Strokes
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/swift-strokes/

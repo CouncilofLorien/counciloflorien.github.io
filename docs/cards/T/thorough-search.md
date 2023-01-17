@@ -2,7 +2,7 @@
 layout: card
 title: Thorough Search
 grand_parent: Cards
-parent: Thorough Search
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/thorough-search/

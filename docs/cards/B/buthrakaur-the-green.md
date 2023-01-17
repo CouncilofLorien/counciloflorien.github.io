@@ -2,7 +2,7 @@
 layout: card
 title: Buthrakaur the Green
 grand_parent: Cards
-parent: Buthrakaur the Green
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/buthrakaur-the-green/

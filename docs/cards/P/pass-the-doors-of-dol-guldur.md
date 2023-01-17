@@ -2,7 +2,7 @@
 layout: card
 title: Pass the Doors of Dol Guldur
 grand_parent: Cards
-parent: Pass the Doors of Dol Guldur
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/pass-the-doors-of-dol-guldur/

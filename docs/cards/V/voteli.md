@@ -2,7 +2,7 @@
 layout: card
 title: Voteli
 grand_parent: Cards
-parent: Voteli
+parent: V
 search_exclude: false
 nav_exclude: true
 permalink: /cards/voteli/

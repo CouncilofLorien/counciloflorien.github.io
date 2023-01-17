@@ -2,7 +2,7 @@
 layout: card
 title: Return of the King
 grand_parent: Cards
-parent: Return of the King
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/return-of-the-king/

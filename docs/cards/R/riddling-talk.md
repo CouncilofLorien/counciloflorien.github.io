@@ -2,7 +2,7 @@
 layout: card
 title: Riddling Talk
 grand_parent: Cards
-parent: Riddling Talk
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/riddling-talk/

@@ -2,7 +2,7 @@
 layout: card
 title: Elves upon Errantry
 grand_parent: Cards
-parent: Elves upon Errantry
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/elves-upon-errantry/

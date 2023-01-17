@@ -2,7 +2,7 @@
 layout: card
 title: Huntsman's Garb
 grand_parent: Cards
-parent: Huntsman's Garb
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/huntsmans-garb/

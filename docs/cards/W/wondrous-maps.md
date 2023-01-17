@@ -2,7 +2,7 @@
 layout: card
 title: Wondrous Maps
 grand_parent: Cards
-parent: Wondrous Maps
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/wondrous-maps/

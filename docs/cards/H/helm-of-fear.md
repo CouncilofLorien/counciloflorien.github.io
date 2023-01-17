@@ -2,7 +2,7 @@
 layout: card
 title: Helm of Fear
 grand_parent: Cards
-parent: Helm of Fear
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/helm-of-fear/

@@ -2,7 +2,7 @@
 layout: card
 title: Lure of the Senses
 grand_parent: Cards
-parent: Lure of the Senses
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/lure-of-the-senses/

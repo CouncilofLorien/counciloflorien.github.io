@@ -2,7 +2,7 @@
 layout: card
 title: Himring
 grand_parent: Cards
-parent: Himring
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/himring/

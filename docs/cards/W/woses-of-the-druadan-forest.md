@@ -2,7 +2,7 @@
 layout: card
 title: Woses of the Druadan Forest
 grand_parent: Cards
-parent: Woses of the Druadan Forest
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/woses-of-the-druadan-forest/

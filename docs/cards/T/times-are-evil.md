@@ -2,7 +2,7 @@
 layout: card
 title: Times Are Evil
 grand_parent: Cards
-parent: Times Are Evil
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/times-are-evil/

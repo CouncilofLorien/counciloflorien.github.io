@@ -2,7 +2,7 @@
 layout: card
 title: Strange Rations
 grand_parent: Cards
-parent: Strange Rations
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/strange-rations/

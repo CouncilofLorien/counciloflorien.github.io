@@ -2,7 +2,7 @@
 layout: card
 title: Anorien
 grand_parent: Cards
-parent: Anorien
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/anorien/

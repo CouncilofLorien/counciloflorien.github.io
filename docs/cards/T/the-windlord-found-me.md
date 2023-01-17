@@ -2,7 +2,7 @@
 layout: card
 title: The Windlord Found Me
 grand_parent: Cards
-parent: The Windlord Found Me
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-windlord-found-me/

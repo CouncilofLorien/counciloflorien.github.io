@@ -2,7 +2,7 @@
 layout: card
 title: Awaiting the Call
 grand_parent: Cards
-parent: Awaiting the Call
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/awaiting-the-call/

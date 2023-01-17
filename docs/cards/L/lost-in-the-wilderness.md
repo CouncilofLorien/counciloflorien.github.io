@@ -2,7 +2,7 @@
 layout: card
 title: Lost in the Wilderness
 grand_parent: Cards
-parent: Lost in the Wilderness
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/lost-in-the-wilderness/

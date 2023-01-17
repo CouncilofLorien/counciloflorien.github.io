@@ -2,7 +2,7 @@
 layout: card
 title: Men of Lamedon
 grand_parent: Cards
-parent: Men of Lamedon
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/men-of-lamedon/

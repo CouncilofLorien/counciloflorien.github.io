@@ -2,7 +2,7 @@
 layout: card
 title: An Article Missing
 grand_parent: Cards
-parent: An Article Missing
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/an-article-missing/

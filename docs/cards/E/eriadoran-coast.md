@@ -2,7 +2,7 @@
 layout: card
 title: Eriadoran Coast
 grand_parent: Cards
-parent: Eriadoran Coast
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/eriadoran-coast/

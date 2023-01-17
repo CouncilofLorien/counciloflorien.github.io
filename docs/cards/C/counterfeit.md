@@ -2,7 +2,7 @@
 layout: card
 title: Counterfeit
 grand_parent: Cards
-parent: Counterfeit
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/counterfeit/

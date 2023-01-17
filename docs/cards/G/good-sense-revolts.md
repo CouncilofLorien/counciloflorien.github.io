@@ -2,7 +2,7 @@
 layout: card
 title: Good Sense Revolts
 grand_parent: Cards
-parent: Good Sense Revolts
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/good-sense-revolts/

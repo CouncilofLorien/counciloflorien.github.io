@@ -2,7 +2,7 @@
 layout: card
 title: Veils of Shadow
 grand_parent: Cards
-parent: Veils of Shadow
+parent: V
 search_exclude: false
 nav_exclude: true
 permalink: /cards/veils-of-shadow/

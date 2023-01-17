@@ -2,7 +2,7 @@
 layout: card
 title: Scroll of Isildur
 grand_parent: Cards
-parent: Scroll of Isildur
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/scroll-of-isildur/

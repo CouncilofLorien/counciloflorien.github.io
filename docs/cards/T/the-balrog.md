@@ -2,7 +2,7 @@
 layout: card
 title: The Balrog
 grand_parent: Cards
-parent: The Balrog
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-balrog/

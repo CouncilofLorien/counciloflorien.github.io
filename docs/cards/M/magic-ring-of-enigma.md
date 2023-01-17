@@ -2,7 +2,7 @@
 layout: card
 title: Magic Ring of Enigma
 grand_parent: Cards
-parent: Magic Ring of Enigma
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/magic-ring-of-enigma/

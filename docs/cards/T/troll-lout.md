@@ -2,7 +2,7 @@
 layout: card
 title: Troll Lout
 grand_parent: Cards
-parent: Troll Lout
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/troll-lout/

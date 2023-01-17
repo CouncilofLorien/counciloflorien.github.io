@@ -2,7 +2,7 @@
 layout: card
 title: No Waiting to Wonder
 grand_parent: Cards
-parent: No Waiting to Wonder
+parent: N
 search_exclude: false
 nav_exclude: true
 permalink: /cards/no-waiting-to-wonder/

@@ -2,7 +2,7 @@
 layout: card
 title: Eye of Sauron
 grand_parent: Cards
-parent: Eye of Sauron
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/eye-of-sauron/

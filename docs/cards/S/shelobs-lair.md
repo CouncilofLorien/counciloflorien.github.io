@@ -2,7 +2,7 @@
 layout: card
 title: Shelob's Lair
 grand_parent: Cards
-parent: Shelob's Lair
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/shelobs-lair/

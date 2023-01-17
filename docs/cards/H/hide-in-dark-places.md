@@ -2,7 +2,7 @@
 layout: card
 title: Hide in Dark Places
 grand_parent: Cards
-parent: Hide in Dark Places
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/hide-in-dark-places/

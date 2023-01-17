@@ -2,7 +2,7 @@
 layout: card
 title: Inner Cunning
 grand_parent: Cards
-parent: Inner Cunning
+parent: I
 search_exclude: false
 nav_exclude: true
 permalink: /cards/inner-cunning/

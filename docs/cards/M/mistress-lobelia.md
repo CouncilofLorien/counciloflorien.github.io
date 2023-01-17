@@ -2,7 +2,7 @@
 layout: card
 title: Mistress Lobelia
 grand_parent: Cards
-parent: Mistress Lobelia
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/mistress-lobelia/

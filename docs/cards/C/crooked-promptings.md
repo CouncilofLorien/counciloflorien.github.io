@@ -2,7 +2,7 @@
 layout: card
 title: Crooked Promptings
 grand_parent: Cards
-parent: Crooked Promptings
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/crooked-promptings/

@@ -2,7 +2,7 @@
 layout: card
 title: Foe Dismayed
 grand_parent: Cards
-parent: Foe Dismayed
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/foe-dismayed/

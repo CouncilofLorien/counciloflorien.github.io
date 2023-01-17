@@ -2,7 +2,7 @@
 layout: card
 title: Plotting Ruin
 grand_parent: Cards
-parent: Plotting Ruin
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/plotting-ruin/

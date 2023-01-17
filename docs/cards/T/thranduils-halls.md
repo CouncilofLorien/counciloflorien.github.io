@@ -2,7 +2,7 @@
 layout: card
 title: Thranduil's Halls
 grand_parent: Cards
-parent: Thranduil's Halls
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/thranduils-halls/

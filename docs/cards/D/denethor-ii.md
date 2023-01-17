@@ -2,7 +2,7 @@
 layout: card
 title: Denethor II
 grand_parent: Cards
-parent: Denethor II
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/denethor-ii/

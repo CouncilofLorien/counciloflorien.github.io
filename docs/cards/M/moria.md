@@ -2,7 +2,7 @@
 layout: card
 title: Moria
 grand_parent: Cards
-parent: Moria
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/moria/

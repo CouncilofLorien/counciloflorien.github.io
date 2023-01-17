@@ -2,7 +2,7 @@
 layout: card
 title: Burglary
 grand_parent: Cards
-parent: Burglary
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/burglary/

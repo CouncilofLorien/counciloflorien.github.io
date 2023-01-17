@@ -2,7 +2,7 @@
 layout: card
 title: Lordly Presence
 grand_parent: Cards
-parent: Lordly Presence
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/lordly-presence/

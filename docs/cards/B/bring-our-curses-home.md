@@ -2,7 +2,7 @@
 layout: card
 title: Bring Our Curses Home
 grand_parent: Cards
-parent: Bring Our Curses Home
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/bring-our-curses-home/

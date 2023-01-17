@@ -2,7 +2,7 @@
 layout: card
 title: Descent through Fire
 grand_parent: Cards
-parent: Descent through Fire
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/descent-through-fire/

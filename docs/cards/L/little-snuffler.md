@@ -2,7 +2,7 @@
 layout: card
 title: Little Snuffler
 grand_parent: Cards
-parent: Little Snuffler
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/little-snuffler/

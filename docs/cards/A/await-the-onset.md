@@ -2,7 +2,7 @@
 layout: card
 title: Await the Onset
 grand_parent: Cards
-parent: Await the Onset
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/await-the-onset/

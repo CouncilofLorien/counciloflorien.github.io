@@ -2,7 +2,7 @@
 layout: card
 title: Icy Touch
 grand_parent: Cards
-parent: Icy Touch
+parent: I
 search_exclude: false
 nav_exclude: true
 permalink: /cards/icy-touch/

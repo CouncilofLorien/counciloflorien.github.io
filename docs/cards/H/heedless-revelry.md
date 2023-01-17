@@ -2,7 +2,7 @@
 layout: card
 title: Heedless Revelry
 grand_parent: Cards
-parent: Heedless Revelry
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/heedless-revelry/

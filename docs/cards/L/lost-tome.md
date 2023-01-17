@@ -2,7 +2,7 @@
 layout: card
 title: Lost Tome
 grand_parent: Cards
-parent: Lost Tome
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/lost-tome/

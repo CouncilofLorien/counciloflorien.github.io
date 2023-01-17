@@ -2,7 +2,7 @@
 layout: card
 title: The Ring's Betrayal
 grand_parent: Cards
-parent: The Ring's Betrayal
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-rings-betrayal/

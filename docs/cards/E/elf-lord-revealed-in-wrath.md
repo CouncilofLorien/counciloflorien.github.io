@@ -2,7 +2,7 @@
 layout: card
 title: Elf-lord Revealed in Wrath
 grand_parent: Cards
-parent: Elf-lord Revealed in Wrath
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/elf-lord-revealed-in-wrath/

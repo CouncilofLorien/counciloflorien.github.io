@@ -2,7 +2,7 @@
 layout: card
 title: Hill-troll
 grand_parent: Cards
-parent: Hill-troll
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/hill-troll/

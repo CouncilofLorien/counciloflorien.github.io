@@ -2,7 +2,7 @@
 layout: card
 title: Tempest of Fire
 grand_parent: Cards
-parent: Tempest of Fire
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/tempest-of-fire/

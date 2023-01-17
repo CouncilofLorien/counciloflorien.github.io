@@ -2,7 +2,7 @@
 layout: card
 title: Pallando's Apprentice
 grand_parent: Cards
-parent: Pallando's Apprentice
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/pallandos-apprentice/

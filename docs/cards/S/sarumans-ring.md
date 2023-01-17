@@ -2,7 +2,7 @@
 layout: card
 title: Saruman's Ring
 grand_parent: Cards
-parent: Saruman's Ring
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/sarumans-ring/

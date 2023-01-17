@@ -2,7 +2,7 @@
 layout: card
 title: Eyes of the Shadow
 grand_parent: Cards
-parent: Eyes of the Shadow
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/eyes-of-the-shadow/

@@ -2,7 +2,7 @@
 layout: card
 title: Left Behind
 grand_parent: Cards
-parent: Left Behind
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/left-behind/

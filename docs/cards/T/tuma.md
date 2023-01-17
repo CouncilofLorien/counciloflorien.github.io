@@ -2,7 +2,7 @@
 layout: card
 title: Tuma
 grand_parent: Cards
-parent: Tuma
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/tuma/

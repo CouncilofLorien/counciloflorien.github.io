@@ -2,7 +2,7 @@
 layout: card
 title: Clouds
 grand_parent: Cards
-parent: Clouds
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/clouds/

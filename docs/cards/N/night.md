@@ -2,7 +2,7 @@
 layout: card
 title: Night
 grand_parent: Cards
-parent: Night
+parent: N
 search_exclude: false
 nav_exclude: true
 permalink: /cards/night/

@@ -2,7 +2,7 @@
 layout: card
 title: Faces of the Dead
 grand_parent: Cards
-parent: Faces of the Dead
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/faces-of-the-dead/

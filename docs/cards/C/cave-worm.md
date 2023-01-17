@@ -2,7 +2,7 @@
 layout: card
 title: Cave Worm
 grand_parent: Cards
-parent: Cave Worm
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/cave-worm/

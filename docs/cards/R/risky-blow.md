@@ -2,7 +2,7 @@
 layout: card
 title: Risky Blow
 grand_parent: Cards
-parent: Risky Blow
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/risky-blow/

@@ -2,7 +2,7 @@
 layout: card
 title: People Diminished
 grand_parent: Cards
-parent: People Diminished
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/people-diminished/

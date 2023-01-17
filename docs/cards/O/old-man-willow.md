@@ -2,7 +2,7 @@
 layout: card
 title: Old Man Willow
 grand_parent: Cards
-parent: Old Man Willow
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/old-man-willow/

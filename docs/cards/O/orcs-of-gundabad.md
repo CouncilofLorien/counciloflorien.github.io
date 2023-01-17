@@ -2,7 +2,7 @@
 layout: card
 title: Orcs of Gundabad
 grand_parent: Cards
-parent: Orcs of Gundabad
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/orcs-of-gundabad/

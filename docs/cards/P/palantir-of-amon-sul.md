@@ -2,7 +2,7 @@
 layout: card
 title: Palantir of Amon Sul
 grand_parent: Cards
-parent: Palantir of Amon Sul
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/palantir-of-amon-sul/

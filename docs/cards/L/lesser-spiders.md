@@ -2,7 +2,7 @@
 layout: card
 title: Lesser Spiders
 grand_parent: Cards
-parent: Lesser Spiders
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/lesser-spiders/

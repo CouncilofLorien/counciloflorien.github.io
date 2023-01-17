@@ -2,7 +2,7 @@
 layout: card
 title: Lucky Strike
 grand_parent: Cards
-parent: Lucky Strike
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/lucky-strike/

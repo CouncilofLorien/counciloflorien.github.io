@@ -2,7 +2,7 @@
 layout: card
 title: Withdrawn to Mordor
 grand_parent: Cards
-parent: Withdrawn to Mordor
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/withdrawn-to-mordor/

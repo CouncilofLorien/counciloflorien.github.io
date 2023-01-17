@@ -2,7 +2,7 @@
 layout: card
 title: Incite Minions
 grand_parent: Cards
-parent: Incite Minions
+parent: I
 search_exclude: false
 nav_exclude: true
 permalink: /cards/incite-minions/

@@ -2,7 +2,7 @@
 layout: card
 title: Alert the Folk
 grand_parent: Cards
-parent: Alert the Folk
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/alert-the-folk/

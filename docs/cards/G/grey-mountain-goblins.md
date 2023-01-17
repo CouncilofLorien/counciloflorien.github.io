@@ -2,7 +2,7 @@
 layout: card
 title: Grey Mountain Goblins
 grand_parent: Cards
-parent: Grey Mountain Goblins
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/grey-mountain-goblins/

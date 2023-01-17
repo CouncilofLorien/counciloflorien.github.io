@@ -2,7 +2,7 @@
 layout: card
 title: Rebel-talk
 grand_parent: Cards
-parent: Rebel-talk
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/rebel-talk/

@@ -2,7 +2,7 @@
 layout: card
 title: Palantir of Elostirion
 grand_parent: Cards
-parent: Palantir of Elostirion
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/palantir-of-elostirion/

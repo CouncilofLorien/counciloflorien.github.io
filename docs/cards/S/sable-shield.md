@@ -2,7 +2,7 @@
 layout: card
 title: Sable Shield
 grand_parent: Cards
-parent: Sable Shield
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/sable-shield/

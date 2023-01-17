@@ -2,7 +2,7 @@
 layout: card
 title: Earth-tremors
 grand_parent: Cards
-parent: Earth-tremors
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/earth-tremors/

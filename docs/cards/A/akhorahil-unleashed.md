@@ -2,7 +2,7 @@
 layout: card
 title: Akhorahil Unleashed
 grand_parent: Cards
-parent: Akhorahil Unleashed
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/akhorahil-unleashed/

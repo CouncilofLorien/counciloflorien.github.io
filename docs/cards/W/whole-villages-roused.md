@@ -2,7 +2,7 @@
 layout: card
 title: Whole Villages Roused
 grand_parent: Cards
-parent: Whole Villages Roused
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/whole-villages-roused/

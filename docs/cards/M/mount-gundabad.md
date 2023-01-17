@@ -2,7 +2,7 @@
 layout: card
 title: Mount Gundabad
 grand_parent: Cards
-parent: Mount Gundabad
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/mount-gundabad/

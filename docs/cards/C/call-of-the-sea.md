@@ -2,7 +2,7 @@
 layout: card
 title: Call of the Sea
 grand_parent: Cards
-parent: Call of the Sea
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/call-of-the-sea/

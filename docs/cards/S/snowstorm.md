@@ -2,7 +2,7 @@
 layout: card
 title: Snowstorm
 grand_parent: Cards
-parent: Snowstorm
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/snowstorm/

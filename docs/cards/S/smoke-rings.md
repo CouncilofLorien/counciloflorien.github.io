@@ -2,7 +2,7 @@
 layout: card
 title: Smoke Rings
 grand_parent: Cards
-parent: Smoke Rings
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/smoke-rings/

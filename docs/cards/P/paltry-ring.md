@@ -2,7 +2,7 @@
 layout: card
 title: Paltry Ring
 grand_parent: Cards
-parent: Paltry Ring
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/paltry-ring/

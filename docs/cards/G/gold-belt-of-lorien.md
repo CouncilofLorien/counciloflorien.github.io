@@ -2,7 +2,7 @@
 layout: card
 title: Gold Belt of Lorien
 grand_parent: Cards
-parent: Gold Belt of Lorien
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/gold-belt-of-lorien/

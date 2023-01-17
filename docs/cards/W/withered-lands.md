@@ -2,7 +2,7 @@
 layout: card
 title: Withered Lands
 grand_parent: Cards
-parent: Withered Lands
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/withered-lands/

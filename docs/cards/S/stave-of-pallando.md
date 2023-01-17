@@ -2,7 +2,7 @@
 layout: card
 title: Stave of Pallando
 grand_parent: Cards
-parent: Stave of Pallando
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/stave-of-pallando/

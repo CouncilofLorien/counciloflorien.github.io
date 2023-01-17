@@ -2,7 +2,7 @@
 layout: card
 title: Hall of Fire
 grand_parent: Cards
-parent: Hall of Fire
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/hall-of-fire/

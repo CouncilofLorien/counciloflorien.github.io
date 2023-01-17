@@ -2,7 +2,7 @@
 layout: card
 title: Herb-lore
 grand_parent: Cards
-parent: Herb-lore
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/herb-lore/

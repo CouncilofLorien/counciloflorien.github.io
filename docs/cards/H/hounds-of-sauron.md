@@ -2,7 +2,7 @@
 layout: card
 title: Hounds of Sauron
 grand_parent: Cards
-parent: Hounds of Sauron
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/hounds-of-sauron/

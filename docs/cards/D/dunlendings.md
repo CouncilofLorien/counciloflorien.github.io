@@ -2,7 +2,7 @@
 layout: card
 title: Dunlendings
 grand_parent: Cards
-parent: Dunlendings
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/dunlendings/

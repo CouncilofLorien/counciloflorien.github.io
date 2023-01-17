@@ -2,7 +2,7 @@
 layout: card
 title: The Shire
 grand_parent: Cards
-parent: The Shire
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-shire/

@@ -2,7 +2,7 @@
 layout: card
 title: Gorbag
 grand_parent: Cards
-parent: Gorbag
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/gorbag/

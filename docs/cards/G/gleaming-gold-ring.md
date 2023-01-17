@@ -2,7 +2,7 @@
 layout: card
 title: Gleaming Gold Ring
 grand_parent: Cards
-parent: Gleaming Gold Ring
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/gleaming-gold-ring/

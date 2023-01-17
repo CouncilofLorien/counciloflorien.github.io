@@ -2,7 +2,7 @@
 layout: card
 title: The Arkenstone
 grand_parent: Cards
-parent: The Arkenstone
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-arkenstone/

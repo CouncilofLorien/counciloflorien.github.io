@@ -2,7 +2,7 @@
 layout: card
 title: Skies of Fire
 grand_parent: Cards
-parent: Skies of Fire
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/skies-of-fire/

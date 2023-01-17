@@ -2,7 +2,7 @@
 layout: card
 title: Greed
 grand_parent: Cards
-parent: Greed
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/greed/

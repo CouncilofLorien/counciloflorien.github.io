@@ -2,7 +2,7 @@
 layout: card
 title: Daelomin at Home
 grand_parent: Cards
-parent: Daelomin at Home
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/daelomin-at-home/

@@ -2,7 +2,7 @@
 layout: card
 title: Longing for the West
 grand_parent: Cards
-parent: Longing for the West
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/longing-for-the-west/

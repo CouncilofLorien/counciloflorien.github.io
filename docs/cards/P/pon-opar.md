@@ -2,7 +2,7 @@
 layout: card
 title: Pon Opar
 grand_parent: Cards
-parent: Pon Opar
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/pon-opar/

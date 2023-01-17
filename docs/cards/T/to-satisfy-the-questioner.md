@@ -2,7 +2,7 @@
 layout: card
 title: To Satisfy the Questioner
 grand_parent: Cards
-parent: To Satisfy the Questioner
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/to-satisfy-the-questioner/

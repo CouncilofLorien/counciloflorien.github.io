@@ -2,7 +2,7 @@
 layout: card
 title: Focus Palantir
 grand_parent: Cards
-parent: Focus Palantir
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/focus-palantir/

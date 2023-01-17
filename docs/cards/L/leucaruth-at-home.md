@@ -2,7 +2,7 @@
 layout: card
 title: Leucaruth at Home
 grand_parent: Cards
-parent: Leucaruth at Home
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/leucaruth-at-home/

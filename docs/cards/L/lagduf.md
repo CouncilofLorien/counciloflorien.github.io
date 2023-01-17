@@ -2,7 +2,7 @@
 layout: card
 title: Lagduf
 grand_parent: Cards
-parent: Lagduf
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/lagduf/

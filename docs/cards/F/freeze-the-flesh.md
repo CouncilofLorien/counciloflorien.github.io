@@ -2,7 +2,7 @@
 layout: card
 title: Freeze the Flesh
 grand_parent: Cards
-parent: Freeze the Flesh
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/freeze-the-flesh/

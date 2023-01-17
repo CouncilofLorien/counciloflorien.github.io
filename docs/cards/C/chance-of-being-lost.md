@@ -2,7 +2,7 @@
 layout: card
 title: Chance of Being Lost
 grand_parent: Cards
-parent: Chance of Being Lost
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/chance-of-being-lost/

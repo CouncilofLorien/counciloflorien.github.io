@@ -2,7 +2,7 @@
 layout: card
 title: Cave-drake
 grand_parent: Cards
-parent: Cave-drake
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/cave-drake/

@@ -2,7 +2,7 @@
 layout: card
 title: Beasts of the Wood
 grand_parent: Cards
-parent: Beasts of the Wood
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/beasts-of-the-wood/

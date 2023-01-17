@@ -2,7 +2,7 @@
 layout: card
 title: The White Towers
 grand_parent: Cards
-parent: The White Towers
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-white-towers/

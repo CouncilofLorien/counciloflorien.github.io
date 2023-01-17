@@ -2,7 +2,7 @@
 layout: card
 title: A Few Recruits
 grand_parent: Cards
-parent: A Few Recruits
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/a-few-recruits/

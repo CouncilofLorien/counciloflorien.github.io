@@ -2,7 +2,7 @@
 layout: card
 title: Ireful Flames
 grand_parent: Cards
-parent: Ireful Flames
+parent: I
 search_exclude: false
 nav_exclude: true
 permalink: /cards/ireful-flames/

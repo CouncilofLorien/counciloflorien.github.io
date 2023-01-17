@@ -2,7 +2,7 @@
 layout: card
 title: Minor Ring
 grand_parent: Cards
-parent: Minor Ring
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/minor-ring/

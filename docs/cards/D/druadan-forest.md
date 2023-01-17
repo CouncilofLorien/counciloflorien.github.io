@@ -2,7 +2,7 @@
 layout: card
 title: Druadan Forest
 grand_parent: Cards
-parent: Druadan Forest
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/druadan-forest/

@@ -2,7 +2,7 @@
 layout: card
 title: Ungol-orcs
 grand_parent: Cards
-parent: Ungol-orcs
+parent: U
 search_exclude: false
 nav_exclude: true
 permalink: /cards/ungol-orcs/

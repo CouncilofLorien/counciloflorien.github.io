@@ -2,7 +2,7 @@
 layout: card
 title: Healing of Nimrodel
 grand_parent: Cards
-parent: Healing of Nimrodel
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/healing-of-nimrodel/

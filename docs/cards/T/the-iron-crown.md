@@ -2,7 +2,7 @@
 layout: card
 title: The Iron Crown
 grand_parent: Cards
-parent: The Iron Crown
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-iron-crown/

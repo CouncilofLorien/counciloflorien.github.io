@@ -2,7 +2,7 @@
 layout: card
 title: Lucky Search
 grand_parent: Cards
-parent: Lucky Search
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/lucky-search/

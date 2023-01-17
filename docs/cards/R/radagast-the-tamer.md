@@ -2,7 +2,7 @@
 layout: card
 title: Radagast the Tamer
 grand_parent: Cards
-parent: Radagast the Tamer
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/radagast-the-tamer/

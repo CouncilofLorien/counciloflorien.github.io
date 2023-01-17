@@ -2,7 +2,7 @@
 layout: card
 title: Map to Mithril
 grand_parent: Cards
-parent: Map to Mithril
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/map-to-mithril/

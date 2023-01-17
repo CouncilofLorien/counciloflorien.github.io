@@ -2,7 +2,7 @@
 layout: card
 title: Stone of Erech
 grand_parent: Cards
-parent: Stone of Erech
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/stone-of-erech/

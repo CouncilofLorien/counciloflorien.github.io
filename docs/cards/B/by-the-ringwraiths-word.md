@@ -2,7 +2,7 @@
 layout: card
 title: By the Ringwraith's Word
 grand_parent: Cards
-parent: By the Ringwraith's Word
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/by-the-ringwraiths-word/

@@ -2,7 +2,7 @@
 layout: card
 title: No Better Use
 grand_parent: Cards
-parent: No Better Use
+parent: N
 search_exclude: false
 nav_exclude: true
 permalink: /cards/no-better-use/

@@ -2,7 +2,7 @@
 layout: card
 title: Magic Ring of Guile
 grand_parent: Cards
-parent: Magic Ring of Guile
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/magic-ring-of-guile/

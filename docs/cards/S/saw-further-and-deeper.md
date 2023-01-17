@@ -2,7 +2,7 @@
 layout: card
 title: Saw Further and Deeper
 grand_parent: Cards
-parent: Saw Further and Deeper
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/saw-further-and-deeper/

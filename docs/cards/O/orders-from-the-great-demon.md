@@ -2,7 +2,7 @@
 layout: card
 title: Orders from the Great Demon
 grand_parent: Cards
-parent: Orders from the Great Demon
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/orders-from-the-great-demon/

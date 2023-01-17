@@ -2,7 +2,7 @@
 layout: card
 title: Creature of an Older World
 grand_parent: Cards
-parent: Creature of an Older World
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/creature-of-an-older-world/

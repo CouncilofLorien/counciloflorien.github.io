@@ -2,7 +2,7 @@
 layout: card
 title: Halfling Stealth
 grand_parent: Cards
-parent: Halfling Stealth
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/halfling-stealth/

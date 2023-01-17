@@ -2,7 +2,7 @@
 layout: card
 title: The Least of Gold Rings
 grand_parent: Cards
-parent: The Least of Gold Rings
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-least-of-gold-rings/

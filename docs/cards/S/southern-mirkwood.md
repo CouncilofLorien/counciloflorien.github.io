@@ -2,7 +2,7 @@
 layout: card
 title: Southern Mirkwood
 grand_parent: Cards
-parent: Southern Mirkwood
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/southern-mirkwood/

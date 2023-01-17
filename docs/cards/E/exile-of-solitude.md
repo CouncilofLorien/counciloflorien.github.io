@@ -2,7 +2,7 @@
 layout: card
 title: Exile of Solitude
 grand_parent: Cards
-parent: Exile of Solitude
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/exile-of-solitude/

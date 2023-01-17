@@ -2,7 +2,7 @@
 layout: card
 title: Liquid Fire
 grand_parent: Cards
-parent: Liquid Fire
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/liquid-fire/

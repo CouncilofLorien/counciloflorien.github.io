@@ -2,7 +2,7 @@
 layout: card
 title: Rank upon Rank
 grand_parent: Cards
-parent: Rank upon Rank
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/rank-upon-rank/

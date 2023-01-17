@@ -2,7 +2,7 @@
 layout: card
 title: The White Council
 grand_parent: Cards
-parent: The White Council
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-white-council/

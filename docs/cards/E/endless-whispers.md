@@ -2,7 +2,7 @@
 layout: card
 title: Endless Whispers
 grand_parent: Cards
-parent: Endless Whispers
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/endless-whispers/

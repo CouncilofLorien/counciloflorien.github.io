@@ -2,7 +2,7 @@
 layout: card
 title: Dark Numbers
 grand_parent: Cards
-parent: Dark Numbers
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/dark-numbers/

@@ -2,7 +2,7 @@
 layout: card
 title: Hundreds of Butterflies
 grand_parent: Cards
-parent: Hundreds of Butterflies
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/hundreds-of-butterflies/

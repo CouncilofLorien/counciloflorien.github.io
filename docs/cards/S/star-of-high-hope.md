@@ -2,7 +2,7 @@
 layout: card
 title: Star of High Hope
 grand_parent: Cards
-parent: Star of High Hope
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/star-of-high-hope/

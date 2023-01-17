@@ -2,7 +2,7 @@
 layout: card
 title: Fury of the Iron Crown
 grand_parent: Cards
-parent: Fury of the Iron Crown
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/fury-of-the-iron-crown/

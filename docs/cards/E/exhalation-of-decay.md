@@ -2,7 +2,7 @@
 layout: card
 title: Exhalation of Decay
 grand_parent: Cards
-parent: Exhalation of Decay
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/exhalation-of-decay/

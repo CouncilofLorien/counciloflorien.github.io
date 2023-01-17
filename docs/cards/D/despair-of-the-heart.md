@@ -2,7 +2,7 @@
 layout: card
 title: Despair of the Heart
 grand_parent: Cards
-parent: Despair of the Heart
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/despair-of-the-heart/

@@ -2,7 +2,7 @@
 layout: card
 title: Torque of Hues
 grand_parent: Cards
-parent: Torque of Hues
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/torque-of-hues/

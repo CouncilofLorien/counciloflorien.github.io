@@ -2,7 +2,7 @@
 layout: card
 title: Chambers in the Royal Court
 grand_parent: Cards
-parent: Chambers in the Royal Court
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/chambers-in-the-royal-court/

@@ -2,7 +2,7 @@
 layout: card
 title: Northern Rhovanion
 grand_parent: Cards
-parent: Northern Rhovanion
+parent: N
 search_exclude: false
 nav_exclude: true
 permalink: /cards/northern-rhovanion/

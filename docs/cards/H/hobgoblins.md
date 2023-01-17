@@ -2,7 +2,7 @@
 layout: card
 title: Hobgoblins
 grand_parent: Cards
-parent: Hobgoblins
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/hobgoblins/

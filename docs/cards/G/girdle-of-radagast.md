@@ -2,7 +2,7 @@
 layout: card
 title: Girdle of Radagast
 grand_parent: Cards
-parent: Girdle of Radagast
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/girdle-of-radagast/

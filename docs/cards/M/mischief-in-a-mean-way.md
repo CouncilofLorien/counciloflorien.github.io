@@ -2,7 +2,7 @@
 layout: card
 title: Mischief in a Mean Way
 grand_parent: Cards
-parent: Mischief in a Mean Way
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/mischief-in-a-mean-way/

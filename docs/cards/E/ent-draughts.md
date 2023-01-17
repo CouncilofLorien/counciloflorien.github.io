@@ -2,7 +2,7 @@
 layout: card
 title: Ent-draughts
 grand_parent: Cards
-parent: Ent-draughts
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/ent-draughts/

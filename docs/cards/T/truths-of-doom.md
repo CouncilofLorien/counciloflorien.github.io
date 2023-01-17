@@ -2,7 +2,7 @@
 layout: card
 title: Truths of Doom
 grand_parent: Cards
-parent: Truths of Doom
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/truths-of-doom/

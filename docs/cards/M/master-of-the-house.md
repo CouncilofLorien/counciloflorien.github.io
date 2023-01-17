@@ -2,7 +2,7 @@
 layout: card
 title: Master of the House
 grand_parent: Cards
-parent: Master of the House
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/master-of-the-house/

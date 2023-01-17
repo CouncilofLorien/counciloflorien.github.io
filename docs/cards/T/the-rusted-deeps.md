@@ -2,7 +2,7 @@
 layout: card
 title: The Rusted-deeps
 grand_parent: Cards
-parent: The Rusted-deeps
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-rusted-deeps/

@@ -2,7 +2,7 @@
 layout: card
 title: Orome's Warders
 grand_parent: Cards
-parent: Orome's Warders
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/oromes-warders/

@@ -2,7 +2,7 @@
 layout: card
 title: Dwarven Light-stone
 grand_parent: Cards
-parent: Dwarven Light-stone
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/dwarven-light-stone/

@@ -2,7 +2,7 @@
 layout: card
 title: Umagaur the Pale
 grand_parent: Cards
-parent: Umagaur the Pale
+parent: U
 search_exclude: false
 nav_exclude: true
 permalink: /cards/umagaur-the-pale/

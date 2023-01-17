@@ -2,7 +2,7 @@
 layout: card
 title: Great Lord of Goblin-gate
 grand_parent: Cards
-parent: Great Lord of Goblin-gate
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/great-lord-of-goblin-gate/

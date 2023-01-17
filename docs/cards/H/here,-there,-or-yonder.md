@@ -2,7 +2,7 @@
 layout: card
 title: Here, There, or Yonder
 grand_parent: Cards
-parent: Here, There, or Yonder
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/here,-there,-or-yonder/

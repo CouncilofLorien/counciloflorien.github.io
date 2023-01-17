@@ -2,7 +2,7 @@
 layout: card
 title: Never Seen Him
 grand_parent: Cards
-parent: Never Seen Him
+parent: N
 search_exclude: false
 nav_exclude: true
 permalink: /cards/never-seen-him/

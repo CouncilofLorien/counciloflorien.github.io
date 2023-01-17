@@ -2,7 +2,7 @@
 layout: card
 title: Power Built by Waiting
 grand_parent: Cards
-parent: Power Built by Waiting
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/power-built-by-waiting/

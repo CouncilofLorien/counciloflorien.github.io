@@ -2,7 +2,7 @@
 layout: card
 title: Bad Company
 grand_parent: Cards
-parent: Bad Company
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/bad-company/

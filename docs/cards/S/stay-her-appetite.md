@@ -2,7 +2,7 @@
 layout: card
 title: Stay Her Appetite
 grand_parent: Cards
-parent: Stay Her Appetite
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/stay-her-appetite/

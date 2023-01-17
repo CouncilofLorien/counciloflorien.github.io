@@ -2,7 +2,7 @@
 layout: card
 title: Cloaked by Darkness
 grand_parent: Cards
-parent: Cloaked by Darkness
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/cloaked-by-darkness/

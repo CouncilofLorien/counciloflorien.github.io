@@ -2,7 +2,7 @@
 layout: card
 title: Lossadan Camp
 grand_parent: Cards
-parent: Lossadan Camp
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/lossadan-camp/

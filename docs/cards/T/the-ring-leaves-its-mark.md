@@ -2,7 +2,7 @@
 layout: card
 title: The Ring Leaves Its Mark
 grand_parent: Cards
-parent: The Ring Leaves Its Mark
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-ring-leaves-its-mark/

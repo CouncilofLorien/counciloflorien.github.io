@@ -2,7 +2,7 @@
 layout: card
 title: Mask Torn
 grand_parent: Cards
-parent: Mask Torn
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/mask-torn/

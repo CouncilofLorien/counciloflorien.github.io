@@ -2,7 +2,7 @@
 layout: card
 title: Troth-ring
 grand_parent: Cards
-parent: Troth-ring
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/troth-ring/

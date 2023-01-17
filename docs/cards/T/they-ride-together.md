@@ -2,7 +2,7 @@
 layout: card
 title: They Ride Together
 grand_parent: Cards
-parent: They Ride Together
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/they-ride-together/

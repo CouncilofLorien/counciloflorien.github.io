@@ -2,7 +2,7 @@
 layout: card
 title: Early Harvest
 grand_parent: Cards
-parent: Early Harvest
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/early-harvest/

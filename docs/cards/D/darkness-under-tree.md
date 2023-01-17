@@ -2,7 +2,7 @@
 layout: card
 title: Darkness Under Tree
 grand_parent: Cards
-parent: Darkness Under Tree
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/darkness-under-tree/

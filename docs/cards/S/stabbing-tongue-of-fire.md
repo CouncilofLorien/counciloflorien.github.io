@@ -2,7 +2,7 @@
 layout: card
 title: Stabbing Tongue of Fire
 grand_parent: Cards
-parent: Stabbing Tongue of Fire
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/stabbing-tongue-of-fire/

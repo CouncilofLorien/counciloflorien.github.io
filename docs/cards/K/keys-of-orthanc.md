@@ -2,7 +2,7 @@
 layout: card
 title: Keys of Orthanc
 grand_parent: Cards
-parent: Keys of Orthanc
+parent: K
 search_exclude: false
 nav_exclude: true
 permalink: /cards/keys-of-orthanc/

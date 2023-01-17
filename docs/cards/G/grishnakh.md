@@ -2,7 +2,7 @@
 layout: card
 title: Grishnakh
 grand_parent: Cards
-parent: Grishnakh
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/grishnakh/

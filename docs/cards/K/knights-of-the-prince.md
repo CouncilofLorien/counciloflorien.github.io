@@ -2,7 +2,7 @@
 layout: card
 title: Knights of the Prince
 grand_parent: Cards
-parent: Knights of the Prince
+parent: K
 search_exclude: false
 nav_exclude: true
 permalink: /cards/knights-of-the-prince/

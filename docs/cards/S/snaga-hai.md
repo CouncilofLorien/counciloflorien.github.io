@@ -2,7 +2,7 @@
 layout: card
 title: Snaga-hai
 grand_parent: Cards
-parent: Snaga-hai
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/snaga-hai/

@@ -2,7 +2,7 @@
 layout: card
 title: Washed and Refreshed
 grand_parent: Cards
-parent: Washed and Refreshed
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/washed-and-refreshed/

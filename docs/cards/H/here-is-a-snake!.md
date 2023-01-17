@@ -2,7 +2,7 @@
 layout: card
 title: Here Is a Snake!
 grand_parent: Cards
-parent: Here Is a Snake!
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/here-is-a-snake!/

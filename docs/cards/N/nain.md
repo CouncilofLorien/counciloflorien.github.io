@@ -2,7 +2,7 @@
 layout: card
 title: Nain
 grand_parent: Cards
-parent: Nain
+parent: N
 search_exclude: false
 nav_exclude: true
 permalink: /cards/nain/

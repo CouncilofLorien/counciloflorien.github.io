@@ -2,7 +2,7 @@
 layout: card
 title: Power Relinquished to Artifice
 grand_parent: Cards
-parent: Power Relinquished to Artifice
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/power-relinquished-to-artifice/

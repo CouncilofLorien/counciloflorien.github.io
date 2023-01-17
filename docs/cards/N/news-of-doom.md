@@ -2,7 +2,7 @@
 layout: card
 title: News of Doom
 grand_parent: Cards
-parent: News of Doom
+parent: N
 search_exclude: false
 nav_exclude: true
 permalink: /cards/news-of-doom/

@@ -2,7 +2,7 @@
 layout: card
 title: The Names Among Them
 grand_parent: Cards
-parent: The Names Among Them
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-names-among-them/

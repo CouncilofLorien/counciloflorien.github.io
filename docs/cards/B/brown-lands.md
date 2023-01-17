@@ -2,7 +2,7 @@
 layout: card
 title: Brown Lands
 grand_parent: Cards
-parent: Brown Lands
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/brown-lands/

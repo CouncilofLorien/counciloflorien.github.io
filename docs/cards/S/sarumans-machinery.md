@@ -2,7 +2,7 @@
 layout: card
 title: Saruman's Machinery
 grand_parent: Cards
-parent: Saruman's Machinery
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/sarumans-machinery/

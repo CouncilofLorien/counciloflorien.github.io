@@ -2,7 +2,7 @@
 layout: card
 title: Orc-warband
 grand_parent: Cards
-parent: Orc-warband
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/orc-warband/

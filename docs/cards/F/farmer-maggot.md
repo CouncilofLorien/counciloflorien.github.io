@@ -2,7 +2,7 @@
 layout: card
 title: Farmer Maggot
 grand_parent: Cards
-parent: Farmer Maggot
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/farmer-maggot/

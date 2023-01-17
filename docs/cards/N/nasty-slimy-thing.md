@@ -2,7 +2,7 @@
 layout: card
 title: Nasty Slimy Thing
 grand_parent: Cards
-parent: Nasty Slimy Thing
+parent: N
 search_exclude: false
 nav_exclude: true
 permalink: /cards/nasty-slimy-thing/

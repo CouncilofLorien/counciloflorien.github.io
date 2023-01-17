@@ -2,7 +2,7 @@
 layout: card
 title: Easterling Camp
 grand_parent: Cards
-parent: Easterling Camp
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/easterling-camp/

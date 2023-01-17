@@ -2,7 +2,7 @@
 layout: card
 title: Thranduil
 grand_parent: Cards
-parent: Thranduil
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/thranduil/

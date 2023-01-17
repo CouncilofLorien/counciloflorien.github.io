@@ -2,7 +2,7 @@
 layout: card
 title: Orcs of the Ephel Duath
 grand_parent: Cards
-parent: Orcs of the Ephel Duath
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/orcs-of-the-ephel-duath/

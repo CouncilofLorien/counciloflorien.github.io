@@ -2,7 +2,7 @@
 layout: card
 title: Awaken the Earth's Fire
 grand_parent: Cards
-parent: Awaken the Earth's Fire
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/awaken-the-earths-fire/

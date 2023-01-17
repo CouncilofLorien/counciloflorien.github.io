@@ -2,7 +2,7 @@
 layout: card
 title: Powers Too Dark and Terrible
 grand_parent: Cards
-parent: Powers Too Dark and Terrible
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/powers-too-dark-and-terrible/

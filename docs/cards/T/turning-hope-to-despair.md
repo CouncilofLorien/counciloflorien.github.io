@@ -2,7 +2,7 @@
 layout: card
 title: Turning Hope to Despair
 grand_parent: Cards
-parent: Turning Hope to Despair
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/turning-hope-to-despair/

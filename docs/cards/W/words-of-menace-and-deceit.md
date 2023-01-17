@@ -2,7 +2,7 @@
 layout: card
 title: Words of Menace and Deceit
 grand_parent: Cards
-parent: Words of Menace and Deceit
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/words-of-menace-and-deceit/

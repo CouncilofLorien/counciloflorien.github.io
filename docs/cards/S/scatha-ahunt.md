@@ -2,7 +2,7 @@
 layout: card
 title: Scatha Ahunt
 grand_parent: Cards
-parent: Scatha Ahunt
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/scatha-ahunt/

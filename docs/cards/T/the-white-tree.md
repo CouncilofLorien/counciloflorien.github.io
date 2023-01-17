@@ -2,7 +2,7 @@
 layout: card
 title: The White Tree
 grand_parent: Cards
-parent: The White Tree
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-white-tree/

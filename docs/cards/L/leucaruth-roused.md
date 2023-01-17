@@ -2,7 +2,7 @@
 layout: card
 title: Leucaruth Roused
 grand_parent: Cards
-parent: Leucaruth Roused
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/leucaruth-roused/

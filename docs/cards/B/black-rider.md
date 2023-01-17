@@ -2,7 +2,7 @@
 layout: card
 title: Black Rider
 grand_parent: Cards
-parent: Black Rider
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/black-rider/

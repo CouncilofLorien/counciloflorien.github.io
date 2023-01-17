@@ -2,7 +2,7 @@
 layout: card
 title: Elves of Lindon
 grand_parent: Cards
-parent: Elves of Lindon
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/elves-of-lindon/

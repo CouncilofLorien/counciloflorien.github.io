@@ -2,7 +2,7 @@
 layout: card
 title: Halfling Strength
 grand_parent: Cards
-parent: Halfling Strength
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/halfling-strength/

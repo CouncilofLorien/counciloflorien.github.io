@@ -2,7 +2,7 @@
 layout: card
 title: The Riddle Game
 grand_parent: Cards
-parent: The Riddle Game
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-riddle-game/

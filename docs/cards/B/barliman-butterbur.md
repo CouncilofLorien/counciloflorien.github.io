@@ -2,7 +2,7 @@
 layout: card
 title: Barliman Butterbur
 grand_parent: Cards
-parent: Barliman Butterbur
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/barliman-butterbur/

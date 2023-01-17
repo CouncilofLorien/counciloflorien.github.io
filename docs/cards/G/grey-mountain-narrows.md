@@ -2,7 +2,7 @@
 layout: card
 title: Grey Mountain Narrows
 grand_parent: Cards
-parent: Grey Mountain Narrows
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/grey-mountain-narrows/

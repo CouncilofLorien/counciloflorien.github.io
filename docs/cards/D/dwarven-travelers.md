@@ -2,7 +2,7 @@
 layout: card
 title: Dwarven Travelers
 grand_parent: Cards
-parent: Dwarven Travelers
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/dwarven-travelers/

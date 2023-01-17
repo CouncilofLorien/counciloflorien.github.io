@@ -2,7 +2,7 @@
 layout: card
 title: Gates of Morning
 grand_parent: Cards
-parent: Gates of Morning
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/gates-of-morning/

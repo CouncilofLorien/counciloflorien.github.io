@@ -2,7 +2,7 @@
 layout: card
 title: The Lonely Mountain
 grand_parent: Cards
-parent: The Lonely Mountain
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-lonely-mountain/

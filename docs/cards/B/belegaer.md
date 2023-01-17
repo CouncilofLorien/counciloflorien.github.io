@@ -2,7 +2,7 @@
 layout: card
 title: Belegaer
 grand_parent: Cards
-parent: Belegaer
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/belegaer/

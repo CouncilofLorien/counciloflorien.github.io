@@ -2,7 +2,7 @@
 layout: card
 title: Catch an Elusive Scent
 grand_parent: Cards
-parent: Catch an Elusive Scent
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/catch-an-elusive-scent/

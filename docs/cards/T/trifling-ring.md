@@ -2,7 +2,7 @@
 layout: card
 title: Trifling Ring
 grand_parent: Cards
-parent: Trifling Ring
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/trifling-ring/

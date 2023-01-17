@@ -2,7 +2,7 @@
 layout: card
 title: Wound of Long Burden
 grand_parent: Cards
-parent: Wound of Long Burden
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/wound-of-long-burden/

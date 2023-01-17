@@ -2,7 +2,7 @@
 layout: card
 title: Gangways over the Fire
 grand_parent: Cards
-parent: Gangways over the Fire
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/gangways-over-the-fire/

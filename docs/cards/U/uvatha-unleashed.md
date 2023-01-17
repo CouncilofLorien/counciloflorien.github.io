@@ -2,7 +2,7 @@
 layout: card
 title: Uvatha Unleashed
 grand_parent: Cards
-parent: Uvatha Unleashed
+parent: U
 search_exclude: false
 nav_exclude: true
 permalink: /cards/uvatha-unleashed/

@@ -2,7 +2,7 @@
 layout: card
 title: Many-coloured Robes
 grand_parent: Cards
-parent: Many-coloured Robes
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/many-coloured-robes/

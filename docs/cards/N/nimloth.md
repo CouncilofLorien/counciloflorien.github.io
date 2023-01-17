@@ -2,7 +2,7 @@
 layout: card
 title: Nimloth
 grand_parent: Cards
-parent: Nimloth
+parent: N
 search_exclude: false
 nav_exclude: true
 permalink: /cards/nimloth/

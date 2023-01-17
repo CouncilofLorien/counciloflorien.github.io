@@ -2,7 +2,7 @@
 layout: card
 title: One Foe to Breed a War
 grand_parent: Cards
-parent: One Foe to Breed a War
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/one-foe-to-breed-a-war/

@@ -2,7 +2,7 @@
 layout: card
 title: The White Wizard
 grand_parent: Cards
-parent: The White Wizard
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-white-wizard/

@@ -2,7 +2,7 @@
 layout: card
 title: Fair Travels in Free-domains
 grand_parent: Cards
-parent: Fair Travels in Free-domains
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/fair-travels-in-free-domains/

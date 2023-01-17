@@ -2,7 +2,7 @@
 layout: card
 title: Stone-circle
 grand_parent: Cards
-parent: Stone-circle
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/stone-circle/

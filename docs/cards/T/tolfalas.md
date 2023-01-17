@@ -2,7 +2,7 @@
 layout: card
 title: Tolfalas
 grand_parent: Cards
-parent: Tolfalas
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/tolfalas/

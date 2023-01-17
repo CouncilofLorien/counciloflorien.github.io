@@ -2,7 +2,7 @@
 layout: card
 title: Deeper Shadow
 grand_parent: Cards
-parent: Deeper Shadow
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/deeper-shadow/

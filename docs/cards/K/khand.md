@@ -2,7 +2,7 @@
 layout: card
 title: Khand
 grand_parent: Cards
-parent: Khand
+parent: K
 search_exclude: false
 nav_exclude: true
 permalink: /cards/khand/

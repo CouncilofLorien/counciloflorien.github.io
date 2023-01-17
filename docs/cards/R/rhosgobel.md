@@ -2,7 +2,7 @@
 layout: card
 title: Rhosgobel
 grand_parent: Cards
-parent: Rhosgobel
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/rhosgobel/

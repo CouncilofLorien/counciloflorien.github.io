@@ -2,7 +2,7 @@
 layout: card
 title: The Evenstar
 grand_parent: Cards
-parent: The Evenstar
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-evenstar/

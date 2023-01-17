@@ -2,7 +2,7 @@
 layout: card
 title: Refuge
 grand_parent: Cards
-parent: Refuge
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/refuge/

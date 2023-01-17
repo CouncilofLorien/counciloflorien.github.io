@@ -2,7 +2,7 @@
 layout: card
 title: A Little Gold Ring
 grand_parent: Cards
-parent: A Little Gold Ring
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/a-little-gold-ring/

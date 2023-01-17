@@ -2,7 +2,7 @@
 layout: card
 title: Ciryaher
 grand_parent: Cards
-parent: Ciryaher
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/ciryaher/

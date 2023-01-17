@@ -2,7 +2,7 @@
 layout: card
 title: Smoke on the Wind
 grand_parent: Cards
-parent: Smoke on the Wind
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/smoke-on-the-wind/

@@ -2,7 +2,7 @@
 layout: card
 title: A Chance Meeting
 grand_parent: Cards
-parent: A Chance Meeting
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/a-chance-meeting/

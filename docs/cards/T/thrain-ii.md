@@ -2,7 +2,7 @@
 layout: card
 title: Thrain II
 grand_parent: Cards
-parent: Thrain II
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/thrain-ii/

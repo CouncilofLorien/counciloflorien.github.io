@@ -2,7 +2,7 @@
 layout: card
 title: Gisulf
 grand_parent: Cards
-parent: Gisulf
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/gisulf/

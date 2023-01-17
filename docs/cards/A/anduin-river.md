@@ -2,7 +2,7 @@
 layout: card
 title: Anduin River
 grand_parent: Cards
-parent: Anduin River
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/anduin-river/

@@ -2,7 +2,7 @@
 layout: card
 title: Surion
 grand_parent: Cards
-parent: Surion
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/surion/

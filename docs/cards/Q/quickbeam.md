@@ -2,7 +2,7 @@
 layout: card
 title: Quickbeam
 grand_parent: Cards
-parent: Quickbeam
+parent: Q
 search_exclude: false
 nav_exclude: true
 permalink: /cards/quickbeam/

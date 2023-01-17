@@ -2,7 +2,7 @@
 layout: card
 title: Rescue Prisoners
 grand_parent: Cards
-parent: Rescue Prisoners
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/rescue-prisoners/

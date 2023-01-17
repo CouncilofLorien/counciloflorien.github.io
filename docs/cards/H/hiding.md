@@ -2,7 +2,7 @@
 layout: card
 title: Hiding
 grand_parent: Cards
-parent: Hiding
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/hiding/

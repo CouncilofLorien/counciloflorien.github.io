@@ -2,7 +2,7 @@
 layout: card
 title: Bergil
 grand_parent: Cards
-parent: Bergil
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/bergil/

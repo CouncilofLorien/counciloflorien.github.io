@@ -2,7 +2,7 @@
 layout: card
 title: Orcs of Moria
 grand_parent: Cards
-parent: Orcs of Moria
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/orcs-of-moria/

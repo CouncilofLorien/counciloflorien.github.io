@@ -2,7 +2,7 @@
 layout: card
 title: Mionid
 grand_parent: Cards
-parent: Mionid
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/mionid/

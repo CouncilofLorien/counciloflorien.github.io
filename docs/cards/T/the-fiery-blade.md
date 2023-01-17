@@ -2,7 +2,7 @@
 layout: card
 title: The Fiery Blade
 grand_parent: Cards
-parent: The Fiery Blade
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-fiery-blade/

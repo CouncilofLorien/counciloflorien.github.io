@@ -2,7 +2,7 @@
 layout: card
 title: Ancient Deep-hold
 grand_parent: Cards
-parent: Ancient Deep-hold
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/ancient-deep-hold/

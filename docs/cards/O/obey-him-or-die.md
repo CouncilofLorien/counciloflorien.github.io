@@ -2,7 +2,7 @@
 layout: card
 title: Obey Him or Die
 grand_parent: Cards
-parent: Obey Him or Die
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/obey-him-or-die/

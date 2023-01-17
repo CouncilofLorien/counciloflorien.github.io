@@ -2,7 +2,7 @@
 layout: card
 title: Lieutenant of Angmar
 grand_parent: Cards
-parent: Lieutenant of Angmar
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/lieutenant-of-angmar/

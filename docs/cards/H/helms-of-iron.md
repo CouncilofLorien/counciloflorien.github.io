@@ -2,7 +2,7 @@
 layout: card
 title: Helms of Iron
 grand_parent: Cards
-parent: Helms of Iron
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/helms-of-iron/

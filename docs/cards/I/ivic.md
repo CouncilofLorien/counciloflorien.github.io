@@ -2,7 +2,7 @@
 layout: card
 title: Ivic
 grand_parent: Cards
-parent: Ivic
+parent: I
 search_exclude: false
 nav_exclude: true
 permalink: /cards/ivic/

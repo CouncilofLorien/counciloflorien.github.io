@@ -2,7 +2,7 @@
 layout: card
 title: Give Welcome to the Unexpected
 grand_parent: Cards
-parent: Give Welcome to the Unexpected
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/give-welcome-to-the-unexpected/

@@ -2,7 +2,7 @@
 layout: card
 title: Motionless Among the Slain
 grand_parent: Cards
-parent: Motionless Among the Slain
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/motionless-among-the-slain/

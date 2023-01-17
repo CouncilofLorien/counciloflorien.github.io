@@ -2,7 +2,7 @@
 layout: card
 title: Lost in Dark-domains
 grand_parent: Cards
-parent: Lost in Dark-domains
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/lost-in-dark-domains/

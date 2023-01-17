@@ -2,7 +2,7 @@
 layout: card
 title: Choking Shadows
 grand_parent: Cards
-parent: Choking Shadows
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/choking-shadows/

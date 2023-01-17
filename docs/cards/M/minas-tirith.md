@@ -2,7 +2,7 @@
 layout: card
 title: Minas Tirith
 grand_parent: Cards
-parent: Minas Tirith
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/minas-tirith/

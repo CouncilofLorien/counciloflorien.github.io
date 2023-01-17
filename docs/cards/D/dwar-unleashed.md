@@ -2,7 +2,7 @@
 layout: card
 title: Dwar Unleashed
 grand_parent: Cards
-parent: Dwar Unleashed
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/dwar-unleashed/

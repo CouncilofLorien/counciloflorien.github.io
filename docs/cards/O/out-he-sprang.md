@@ -2,7 +2,7 @@
 layout: card
 title: Out He Sprang
 grand_parent: Cards
-parent: Out He Sprang
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/out-he-sprang/

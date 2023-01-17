@@ -2,7 +2,7 @@
 layout: card
 title: Shrel-Kain
 grand_parent: Cards
-parent: Shrel-Kain
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/shrel-kain/

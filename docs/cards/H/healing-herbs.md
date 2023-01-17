@@ -2,7 +2,7 @@
 layout: card
 title: Healing Herbs
 grand_parent: Cards
-parent: Healing Herbs
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/healing-herbs/

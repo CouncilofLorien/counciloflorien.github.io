@@ -2,7 +2,7 @@
 layout: card
 title: Align Palantir
 grand_parent: Cards
-parent: Align Palantir
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/align-palantir/

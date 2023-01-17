@@ -2,7 +2,7 @@
 layout: card
 title: Blue Mountain Dwarves
 grand_parent: Cards
-parent: Blue Mountain Dwarves
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/blue-mountain-dwarves/

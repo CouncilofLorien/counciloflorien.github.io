@@ -2,7 +2,7 @@
 layout: card
 title: The Old Thrush
 grand_parent: Cards
-parent: The Old Thrush
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-old-thrush/

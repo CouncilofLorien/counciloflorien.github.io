@@ -2,7 +2,7 @@
 layout: card
 title: Foul Fumes
 grand_parent: Cards
-parent: Foul Fumes
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/foul-fumes/

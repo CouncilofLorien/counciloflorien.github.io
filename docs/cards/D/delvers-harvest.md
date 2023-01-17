@@ -2,7 +2,7 @@
 layout: card
 title: Delver's Harvest
 grand_parent: Cards
-parent: Delver's Harvest
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/delvers-harvest/

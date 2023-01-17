@@ -2,7 +2,7 @@
 layout: card
 title: Blue Mountain Dwarf-hold
 grand_parent: Cards
-parent: Blue Mountain Dwarf-hold
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/blue-mountain-dwarf-hold/

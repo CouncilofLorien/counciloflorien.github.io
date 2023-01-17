@@ -2,7 +2,7 @@
 layout: card
 title: Free to Choose
 grand_parent: Cards
-parent: Free to Choose
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/free-to-choose/

@@ -2,7 +2,7 @@
 layout: card
 title: Dwar of Waw
 grand_parent: Cards
-parent: Dwar of Waw
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/dwar-of-waw/

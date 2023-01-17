@@ -2,7 +2,7 @@
 layout: card
 title: Men of Lebennin
 grand_parent: Cards
-parent: Men of Lebennin
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/men-of-lebennin/

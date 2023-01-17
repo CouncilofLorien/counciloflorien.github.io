@@ -2,7 +2,7 @@
 layout: card
 title: Orc Veteran
 grand_parent: Cards
-parent: Orc Veteran
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/orc-veteran/

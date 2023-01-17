@@ -2,7 +2,7 @@
 layout: card
 title: Hoard Well-searched
 grand_parent: Cards
-parent: Hoard Well-searched
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/hoard-well-searched/

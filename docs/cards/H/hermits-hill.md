@@ -2,7 +2,7 @@
 layout: card
 title: Hermit's Hill
 grand_parent: Cards
-parent: Hermit's Hill
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/hermits-hill/

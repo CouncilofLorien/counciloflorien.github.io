@@ -2,7 +2,7 @@
 layout: card
 title: Bairanax Ahunt
 grand_parent: Cards
-parent: Bairanax Ahunt
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/bairanax-ahunt/

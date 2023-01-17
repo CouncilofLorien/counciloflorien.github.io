@@ -2,7 +2,7 @@
 layout: card
 title: Winged Change-master
 grand_parent: Cards
-parent: Winged Change-master
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/winged-change-master/

@@ -2,7 +2,7 @@
 layout: card
 title: Friend of Secret Things
 grand_parent: Cards
-parent: Friend of Secret Things
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/friend-of-secret-things/

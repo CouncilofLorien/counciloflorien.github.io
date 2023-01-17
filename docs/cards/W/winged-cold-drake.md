@@ -2,7 +2,7 @@
 layout: card
 title: Winged Cold-drake
 grand_parent: Cards
-parent: Winged Cold-drake
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/winged-cold-drake/

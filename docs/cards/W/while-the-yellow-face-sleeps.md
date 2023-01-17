@@ -2,7 +2,7 @@
 layout: card
 title: While the Yellow Face Sleeps
 grand_parent: Cards
-parent: While the Yellow Face Sleeps
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/while-the-yellow-face-sleeps/

@@ -2,7 +2,7 @@
 layout: card
 title: Blind to the West
 grand_parent: Cards
-parent: Blind to the West
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/blind-to-the-west/

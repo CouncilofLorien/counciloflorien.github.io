@@ -2,7 +2,7 @@
 layout: card
 title: Reluctant Final Parting
 grand_parent: Cards
-parent: Reluctant Final Parting
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/reluctant-final-parting/

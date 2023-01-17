@@ -2,7 +2,7 @@
 layout: card
 title: Stinker
 grand_parent: Cards
-parent: Stinker
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/stinker/

@@ -2,7 +2,7 @@
 layout: card
 title: Gorgoroth
 grand_parent: Cards
-parent: Gorgoroth
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/gorgoroth/

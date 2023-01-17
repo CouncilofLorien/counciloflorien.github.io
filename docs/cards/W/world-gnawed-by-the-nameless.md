@@ -2,7 +2,7 @@
 layout: card
 title: World Gnawed by the Nameless
 grand_parent: Cards
-parent: World Gnawed by the Nameless
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/world-gnawed-by-the-nameless/

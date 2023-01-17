@@ -2,7 +2,7 @@
 layout: card
 title: Cup of Farewell
 grand_parent: Cards
-parent: Cup of Farewell
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/cup-of-farewell/

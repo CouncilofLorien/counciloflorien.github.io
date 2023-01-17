@@ -2,7 +2,7 @@
 layout: card
 title: Master of Wood, Water, or Hill
 grand_parent: Cards
-parent: Master of Wood, Water, or Hill
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/master-of-wood,-water,-or-hill/

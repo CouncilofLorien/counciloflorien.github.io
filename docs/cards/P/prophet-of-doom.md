@@ -2,7 +2,7 @@
 layout: card
 title: Prophet of Doom
 grand_parent: Cards
-parent: Prophet of Doom
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/prophet-of-doom/

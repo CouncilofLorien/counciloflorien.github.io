@@ -2,7 +2,7 @@
 layout: card
 title: Short Legs Are Slow
 grand_parent: Cards
-parent: Short Legs Are Slow
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/short-legs-are-slow/

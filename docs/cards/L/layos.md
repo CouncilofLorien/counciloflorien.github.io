@@ -2,7 +2,7 @@
 layout: card
 title: Layos
 grand_parent: Cards
-parent: Layos
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/layos/

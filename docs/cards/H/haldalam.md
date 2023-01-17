@@ -2,7 +2,7 @@
 layout: card
 title: Haldalam
 grand_parent: Cards
-parent: Haldalam
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/haldalam/

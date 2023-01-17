@@ -2,7 +2,7 @@
 layout: card
 title: Legolas
 grand_parent: Cards
-parent: Legolas
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/legolas/

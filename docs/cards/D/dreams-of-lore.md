@@ -2,7 +2,7 @@
 layout: card
 title: Dreams of Lore
 grand_parent: Cards
-parent: Dreams of Lore
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/dreams-of-lore/

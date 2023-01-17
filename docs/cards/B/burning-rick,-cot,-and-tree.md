@@ -2,7 +2,7 @@
 layout: card
 title: Burning Rick, Cot, and Tree
 grand_parent: Cards
-parent: Burning Rick, Cot, and Tree
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/burning-rick,-cot,-and-tree/

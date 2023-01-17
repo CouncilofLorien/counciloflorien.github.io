@@ -2,7 +2,7 @@
 layout: card
 title: Morgul-orcs
 grand_parent: Cards
-parent: Morgul-orcs
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/morgul-orcs/

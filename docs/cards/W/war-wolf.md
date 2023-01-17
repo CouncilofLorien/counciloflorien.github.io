@@ -2,7 +2,7 @@
 layout: card
 title: War-wolf
 grand_parent: Cards
-parent: War-wolf
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/war-wolf/

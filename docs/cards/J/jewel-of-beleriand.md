@@ -2,7 +2,7 @@
 layout: card
 title: Jewel of Beleriand
 grand_parent: Cards
-parent: Jewel of Beleriand
+parent: J
 search_exclude: false
 nav_exclude: true
 permalink: /cards/jewel-of-beleriand/

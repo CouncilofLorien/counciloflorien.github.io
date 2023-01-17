@@ -2,7 +2,7 @@
 layout: card
 title: Long Dark Reach
 grand_parent: Cards
-parent: Long Dark Reach
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/long-dark-reach/

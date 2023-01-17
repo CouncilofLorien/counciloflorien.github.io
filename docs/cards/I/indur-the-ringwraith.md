@@ -2,7 +2,7 @@
 layout: card
 title: Indur the Ringwraith
 grand_parent: Cards
-parent: Indur the Ringwraith
+parent: I
 search_exclude: false
 nav_exclude: true
 permalink: /cards/indur-the-ringwraith/

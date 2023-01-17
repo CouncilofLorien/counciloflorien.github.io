@@ -2,7 +2,7 @@
 layout: card
 title: Saruman
 grand_parent: Cards
-parent: Saruman
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/saruman/

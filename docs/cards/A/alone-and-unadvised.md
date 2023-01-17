@@ -2,7 +2,7 @@
 layout: card
 title: Alone and Unadvised
 grand_parent: Cards
-parent: Alone and Unadvised
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/alone-and-unadvised/

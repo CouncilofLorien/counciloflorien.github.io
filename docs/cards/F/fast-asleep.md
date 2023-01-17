@@ -2,7 +2,7 @@
 layout: card
 title: Fast Asleep
 grand_parent: Cards
-parent: Fast Asleep
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/fast-asleep/

@@ -2,7 +2,7 @@
 layout: card
 title: Angmar
 grand_parent: Cards
-parent: Angmar
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/angmar/

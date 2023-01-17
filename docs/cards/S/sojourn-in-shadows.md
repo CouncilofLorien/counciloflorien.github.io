@@ -2,7 +2,7 @@
 layout: card
 title: Sojourn in Shadows
 grand_parent: Cards
-parent: Sojourn in Shadows
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/sojourn-in-shadows/

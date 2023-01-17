@@ -2,7 +2,7 @@
 layout: card
 title: Agburanar at Home
 grand_parent: Cards
-parent: Agburanar at Home
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/agburanar-at-home/

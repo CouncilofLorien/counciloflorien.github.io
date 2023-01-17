@@ -2,7 +2,7 @@
 layout: card
 title: Grey Havens
 grand_parent: Cards
-parent: Grey Havens
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/grey-havens/

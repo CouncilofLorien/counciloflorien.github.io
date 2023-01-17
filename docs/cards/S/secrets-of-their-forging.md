@@ -2,7 +2,7 @@
 layout: card
 title: Secrets of Their Forging
 grand_parent: Cards
-parent: Secrets of Their Forging
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/secrets-of-their-forging/

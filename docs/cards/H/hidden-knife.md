@@ -2,7 +2,7 @@
 layout: card
 title: Hidden Knife
 grand_parent: Cards
-parent: Hidden Knife
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/hidden-knife/

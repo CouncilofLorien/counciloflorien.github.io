@@ -2,7 +2,7 @@
 layout: card
 title: Near to Hear a Whisper
 grand_parent: Cards
-parent: Near to Hear a Whisper
+parent: N
 search_exclude: false
 nav_exclude: true
 permalink: /cards/near-to-hear-a-whisper/

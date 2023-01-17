@@ -2,7 +2,7 @@
 layout: card
 title: Words of Power and Terror
 grand_parent: Cards
-parent: Words of Power and Terror
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/words-of-power-and-terror/

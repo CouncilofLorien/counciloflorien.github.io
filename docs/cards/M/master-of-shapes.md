@@ -2,7 +2,7 @@
 layout: card
 title: Master of Shapes
 grand_parent: Cards
-parent: Master of Shapes
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/master-of-shapes/

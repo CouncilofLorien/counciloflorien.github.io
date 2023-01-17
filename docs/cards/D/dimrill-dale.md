@@ -2,7 +2,7 @@
 layout: card
 title: Dimrill Dale
 grand_parent: Cards
-parent: Dimrill Dale
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/dimrill-dale/

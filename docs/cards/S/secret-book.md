@@ -2,7 +2,7 @@
 layout: card
 title: Secret Book
 grand_parent: Cards
-parent: Secret Book
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/secret-book/

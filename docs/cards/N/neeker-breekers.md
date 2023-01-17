@@ -2,7 +2,7 @@
 layout: card
 title: Neeker-breekers
 grand_parent: Cards
-parent: Neeker-breekers
+parent: N
 search_exclude: false
 nav_exclude: true
 permalink: /cards/neeker-breekers/

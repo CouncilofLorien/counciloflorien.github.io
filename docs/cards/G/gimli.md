@@ -2,7 +2,7 @@
 layout: card
 title: Gimli
 grand_parent: Cards
-parent: Gimli
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/gimli/

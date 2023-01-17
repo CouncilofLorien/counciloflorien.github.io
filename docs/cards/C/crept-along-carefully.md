@@ -2,7 +2,7 @@
 layout: card
 title: Crept Along Carefully
 grand_parent: Cards
-parent: Crept Along Carefully
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/crept-along-carefully/

@@ -2,7 +2,7 @@
 layout: card
 title: Raider-hold
 grand_parent: Cards
-parent: Raider-hold
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/raider-hold/

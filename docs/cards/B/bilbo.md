@@ -2,7 +2,7 @@
 layout: card
 title: Bilbo
 grand_parent: Cards
-parent: Bilbo
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/bilbo/

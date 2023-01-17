@@ -2,7 +2,7 @@
 layout: card
 title: Nevido Smod
 grand_parent: Cards
-parent: Nevido Smod
+parent: N
 search_exclude: false
 nav_exclude: true
 permalink: /cards/nevido-smod/

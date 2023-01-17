@@ -2,7 +2,7 @@
 layout: card
 title: The Black Enemy's Wrath
 grand_parent: Cards
-parent: The Black Enemy's Wrath
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-black-enemys-wrath/

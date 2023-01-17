@@ -2,7 +2,7 @@
 layout: card
 title: Clear Skies
 grand_parent: Cards
-parent: Clear Skies
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/clear-skies/

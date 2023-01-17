@@ -2,7 +2,7 @@
 layout: card
 title: Elf-song
 grand_parent: Cards
-parent: Elf-song
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/elf-song/

@@ -2,7 +2,7 @@
 layout: card
 title: Gap of Isen
 grand_parent: Cards
-parent: Gap of Isen
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/gap-of-isen/

@@ -2,7 +2,7 @@
 layout: card
 title: Wellinghall
 grand_parent: Cards
-parent: Wellinghall
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/wellinghall/

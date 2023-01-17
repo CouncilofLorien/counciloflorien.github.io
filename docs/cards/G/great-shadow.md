@@ -2,7 +2,7 @@
 layout: card
 title: Great Shadow
 grand_parent: Cards
-parent: Great Shadow
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/great-shadow/

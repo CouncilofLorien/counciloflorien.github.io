@@ -2,7 +2,7 @@
 layout: card
 title: Precious Gold Ring
 grand_parent: Cards
-parent: Precious Gold Ring
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/precious-gold-ring/

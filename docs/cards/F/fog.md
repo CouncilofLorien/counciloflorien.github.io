@@ -2,7 +2,7 @@
 layout: card
 title: Fog
 grand_parent: Cards
-parent: Fog
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/fog/

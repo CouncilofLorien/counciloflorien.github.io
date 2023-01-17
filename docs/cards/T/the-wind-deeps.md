@@ -2,7 +2,7 @@
 layout: card
 title: The Wind-deeps
 grand_parent: Cards
-parent: The Wind-deeps
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-wind-deeps/

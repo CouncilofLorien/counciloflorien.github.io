@@ -2,7 +2,7 @@
 layout: card
 title: Sleepless Malice
 grand_parent: Cards
-parent: Sleepless Malice
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/sleepless-malice/

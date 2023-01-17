@@ -2,7 +2,7 @@
 layout: card
 title: Bow of Alatar
 grand_parent: Cards
-parent: Bow of Alatar
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/bow-of-alatar/

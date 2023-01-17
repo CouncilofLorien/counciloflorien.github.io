@@ -2,7 +2,7 @@
 layout: card
 title: Lossoth
 grand_parent: Cards
-parent: Lossoth
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/lossoth/

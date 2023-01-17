@@ -2,7 +2,7 @@
 layout: card
 title: Ungoliant's Foul Issue
 grand_parent: Cards
-parent: Ungoliant's Foul Issue
+parent: U
 search_exclude: false
 nav_exclude: true
 permalink: /cards/ungoliants-foul-issue/

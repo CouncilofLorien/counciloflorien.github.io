@@ -2,7 +2,7 @@
 layout: card
 title: Daelomin Ahunt
 grand_parent: Cards
-parent: Daelomin Ahunt
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/daelomin-ahunt/

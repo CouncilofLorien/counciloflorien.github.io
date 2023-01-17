@@ -2,7 +2,7 @@
 layout: card
 title: Challenge the Power
 grand_parent: Cards
-parent: Challenge the Power
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/challenge-the-power/

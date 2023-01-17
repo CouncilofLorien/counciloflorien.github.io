@@ -2,7 +2,7 @@
 layout: card
 title: The Roving Eye
 grand_parent: Cards
-parent: The Roving Eye
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-roving-eye/

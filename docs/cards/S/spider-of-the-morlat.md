@@ -2,7 +2,7 @@
 layout: card
 title: Spider of the Morlat
 grand_parent: Cards
-parent: Spider of the Morlat
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/spider-of-the-morlat/

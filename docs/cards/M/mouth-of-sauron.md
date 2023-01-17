@@ -2,7 +2,7 @@
 layout: card
 title: Mouth of Sauron
 grand_parent: Cards
-parent: Mouth of Sauron
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/mouth-of-sauron/

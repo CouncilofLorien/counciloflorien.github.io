@@ -2,7 +2,7 @@
 layout: card
 title: Forod
 grand_parent: Cards
-parent: Forod
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/forod/

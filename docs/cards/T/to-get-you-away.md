@@ -2,7 +2,7 @@
 layout: card
 title: To Get You Away
 grand_parent: Cards
-parent: To Get You Away
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/to-get-you-away/

@@ -2,7 +2,7 @@
 layout: card
 title: Hour of Need
 grand_parent: Cards
-parent: Hour of Need
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/hour-of-need/

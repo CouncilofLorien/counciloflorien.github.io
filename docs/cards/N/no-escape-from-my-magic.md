@@ -2,7 +2,7 @@
 layout: card
 title: No Escape from My Magic
 grand_parent: Cards
-parent: No Escape from My Magic
+parent: N
 search_exclude: false
 nav_exclude: true
 permalink: /cards/no-escape-from-my-magic/

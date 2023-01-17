@@ -2,7 +2,7 @@
 layout: card
 title: Prone to Violence
 grand_parent: Cards
-parent: Prone to Violence
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/prone-to-violence/

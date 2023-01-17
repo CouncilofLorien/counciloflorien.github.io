@@ -2,7 +2,7 @@
 layout: card
 title: Woodland Realm
 grand_parent: Cards
-parent: Woodland Realm
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/woodland-realm/

@@ -2,7 +2,7 @@
 layout: card
 title: Ice-orcs
 grand_parent: Cards
-parent: Ice-orcs
+parent: I
 search_exclude: false
 nav_exclude: true
 permalink: /cards/ice-orcs/

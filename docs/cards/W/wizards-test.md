@@ -2,7 +2,7 @@
 layout: card
 title: Wizard's Test
 grand_parent: Cards
-parent: Wizard's Test
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/wizards-test/

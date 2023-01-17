@@ -2,7 +2,7 @@
 layout: card
 title: Agburanar
 grand_parent: Cards
-parent: Agburanar
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/agburanar/

@@ -2,7 +2,7 @@
 layout: card
 title: Treebeard
 grand_parent: Cards
-parent: Treebeard
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/treebeard/

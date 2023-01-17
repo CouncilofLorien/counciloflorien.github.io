@@ -2,7 +2,7 @@
 layout: card
 title: Saw-toothed Blade
 grand_parent: Cards
-parent: Saw-toothed Blade
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/saw-toothed-blade/

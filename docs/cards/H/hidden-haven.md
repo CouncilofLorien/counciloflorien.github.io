@@ -2,7 +2,7 @@
 layout: card
 title: Hidden Haven
 grand_parent: Cards
-parent: Hidden Haven
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/hidden-haven/

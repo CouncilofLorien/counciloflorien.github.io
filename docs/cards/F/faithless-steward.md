@@ -2,7 +2,7 @@
 layout: card
 title: Faithless Steward
 grand_parent: Cards
-parent: Faithless Steward
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/faithless-steward/

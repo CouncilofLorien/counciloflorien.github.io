@@ -2,7 +2,7 @@
 layout: card
 title: Fori the Beardless
 grand_parent: Cards
-parent: Fori the Beardless
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/fori-the-beardless/

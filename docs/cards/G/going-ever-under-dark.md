@@ -2,7 +2,7 @@
 layout: card
 title: Going Ever Under Dark
 grand_parent: Cards
-parent: Going Ever Under Dark
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/going-ever-under-dark/

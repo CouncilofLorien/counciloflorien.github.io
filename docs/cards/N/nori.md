@@ -2,7 +2,7 @@
 layout: card
 title: Nori
 grand_parent: Cards
-parent: Nori
+parent: N
 search_exclude: false
 nav_exclude: true
 permalink: /cards/nori/

@@ -2,7 +2,7 @@
 layout: card
 title: Nenya
 grand_parent: Cards
-parent: Nenya
+parent: N
 search_exclude: false
 nav_exclude: true
 permalink: /cards/nenya/

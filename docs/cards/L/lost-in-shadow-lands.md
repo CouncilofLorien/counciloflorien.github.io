@@ -2,7 +2,7 @@
 layout: card
 title: Lost in Shadow-lands
 grand_parent: Cards
-parent: Lost in Shadow-lands
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/lost-in-shadow-lands/

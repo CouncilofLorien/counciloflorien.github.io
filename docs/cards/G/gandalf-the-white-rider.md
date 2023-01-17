@@ -2,7 +2,7 @@
 layout: card
 title: Gandalf the White Rider
 grand_parent: Cards
-parent: Gandalf the White Rider
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/gandalf-the-white-rider/

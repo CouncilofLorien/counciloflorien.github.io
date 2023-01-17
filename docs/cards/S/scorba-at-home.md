@@ -2,7 +2,7 @@
 layout: card
 title: Scorba at Home
 grand_parent: Cards
-parent: Scorba at Home
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/scorba-at-home/

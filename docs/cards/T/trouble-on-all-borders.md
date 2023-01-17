@@ -2,7 +2,7 @@
 layout: card
 title: Trouble on All Borders
 grand_parent: Cards
-parent: Trouble on All Borders
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/trouble-on-all-borders/

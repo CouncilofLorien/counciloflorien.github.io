@@ -2,7 +2,7 @@
 layout: card
 title: Sentinels of Numenor
 grand_parent: Cards
-parent: Sentinels of Numenor
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/sentinels-of-numenor/

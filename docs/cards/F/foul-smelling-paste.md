@@ -2,7 +2,7 @@
 layout: card
 title: Foul-smelling Paste
 grand_parent: Cards
-parent: Foul-smelling Paste
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/foul-smelling-paste/

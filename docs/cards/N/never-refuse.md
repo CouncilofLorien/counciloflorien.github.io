@@ -2,7 +2,7 @@
 layout: card
 title: Never Refuse
 grand_parent: Cards
-parent: Never Refuse
+parent: N
 search_exclude: false
 nav_exclude: true
 permalink: /cards/never-refuse/

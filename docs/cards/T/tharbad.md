@@ -2,7 +2,7 @@
 layout: card
 title: Tharbad
 grand_parent: Cards
-parent: Tharbad
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/tharbad/

@@ -2,7 +2,7 @@
 layout: card
 title: Dunlending Raiders
 grand_parent: Cards
-parent: Dunlending Raiders
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/dunlending-raiders/

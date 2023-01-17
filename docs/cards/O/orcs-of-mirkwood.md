@@ -2,7 +2,7 @@
 layout: card
 title: Orcs of Mirkwood
 grand_parent: Cards
-parent: Orcs of Mirkwood
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/orcs-of-mirkwood/

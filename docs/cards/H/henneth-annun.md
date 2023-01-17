@@ -2,7 +2,7 @@
 layout: card
 title: Henneth Annun
 grand_parent: Cards
-parent: Henneth Annun
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/henneth-annun/

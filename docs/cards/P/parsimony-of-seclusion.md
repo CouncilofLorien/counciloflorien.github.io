@@ -2,7 +2,7 @@
 layout: card
 title: Parsimony of Seclusion
 grand_parent: Cards
-parent: Parsimony of Seclusion
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/parsimony-of-seclusion/

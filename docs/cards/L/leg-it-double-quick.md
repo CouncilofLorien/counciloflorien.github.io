@@ -2,7 +2,7 @@
 layout: card
 title: Leg It Double Quick
 grand_parent: Cards
-parent: Leg It Double Quick
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/leg-it-double-quick/

@@ -2,7 +2,7 @@
 layout: card
 title: Rebuild the Town
 grand_parent: Cards
-parent: Rebuild the Town
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/rebuild-the-town/

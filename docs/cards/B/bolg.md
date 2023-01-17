@@ -2,7 +2,7 @@
 layout: card
 title: Bolg
 grand_parent: Cards
-parent: Bolg
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/bolg/

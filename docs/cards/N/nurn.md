@@ -2,7 +2,7 @@
 layout: card
 title: Nurn
 grand_parent: Cards
-parent: Nurn
+parent: N
 search_exclude: false
 nav_exclude: true
 permalink: /cards/nurn/

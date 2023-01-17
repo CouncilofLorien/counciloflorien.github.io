@@ -2,7 +2,7 @@
 layout: card
 title: Honey on the Tongue
 grand_parent: Cards
-parent: Honey on the Tongue
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/honey-on-the-tongue/

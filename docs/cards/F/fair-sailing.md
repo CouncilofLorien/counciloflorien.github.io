@@ -2,7 +2,7 @@
 layout: card
 title: Fair Sailing
 grand_parent: Cards
-parent: Fair Sailing
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/fair-sailing/

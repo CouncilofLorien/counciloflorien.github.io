@@ -2,7 +2,7 @@
 layout: card
 title: Mathom Lore
 grand_parent: Cards
-parent: Mathom Lore
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/mathom-lore/

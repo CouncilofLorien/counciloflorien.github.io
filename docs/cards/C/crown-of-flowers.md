@@ -2,7 +2,7 @@
 layout: card
 title: Crown of Flowers
 grand_parent: Cards
-parent: Crown of Flowers
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/crown-of-flowers/

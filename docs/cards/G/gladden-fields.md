@@ -2,7 +2,7 @@
 layout: card
 title: Gladden Fields
 grand_parent: Cards
-parent: Gladden Fields
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/gladden-fields/

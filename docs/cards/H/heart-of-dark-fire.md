@@ -2,7 +2,7 @@
 layout: card
 title: Heart of Dark Fire
 grand_parent: Cards
-parent: Heart of Dark Fire
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/heart-of-dark-fire/

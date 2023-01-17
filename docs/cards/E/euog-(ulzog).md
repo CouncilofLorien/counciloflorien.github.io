@@ -2,7 +2,7 @@
 layout: card
 title: Euog (Ulzog)
 grand_parent: Cards
-parent: Euog (Ulzog)
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/euog-(ulzog)/

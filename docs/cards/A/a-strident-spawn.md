@@ -2,7 +2,7 @@
 layout: card
 title: A Strident Spawn
 grand_parent: Cards
-parent: A Strident Spawn
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/a-strident-spawn/

@@ -2,7 +2,7 @@
 layout: card
 title: Arcane School
 grand_parent: Cards
-parent: Arcane School
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/arcane-school/

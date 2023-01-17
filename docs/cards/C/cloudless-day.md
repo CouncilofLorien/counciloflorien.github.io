@@ -2,7 +2,7 @@
 layout: card
 title: Cloudless Day
 grand_parent: Cards
-parent: Cloudless Day
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/cloudless-day/

@@ -2,7 +2,7 @@
 layout: card
 title: Dodge
 grand_parent: Cards
-parent: Dodge
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/dodge/

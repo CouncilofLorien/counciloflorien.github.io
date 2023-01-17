@@ -2,7 +2,7 @@
 layout: card
 title: Crebain
 grand_parent: Cards
-parent: Crebain
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/crebain/

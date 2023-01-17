@@ -2,7 +2,7 @@
 layout: card
 title: Many Turns and Doublings
 grand_parent: Cards
-parent: Many Turns and Doublings
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/many-turns-and-doublings/

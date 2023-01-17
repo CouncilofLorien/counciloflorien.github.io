@@ -2,7 +2,7 @@
 layout: card
 title: Dragon-feuds
 grand_parent: Cards
-parent: Dragon-feuds
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/dragon-feuds/

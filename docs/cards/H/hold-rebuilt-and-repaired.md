@@ -2,7 +2,7 @@
 layout: card
 title: Hold Rebuilt and Repaired
 grand_parent: Cards
-parent: Hold Rebuilt and Repaired
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/hold-rebuilt-and-repaired/

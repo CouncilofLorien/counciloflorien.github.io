@@ -2,7 +2,7 @@
 layout: card
 title: Wild Fell Beast
 grand_parent: Cards
-parent: Wild Fell Beast
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/wild-fell-beast/

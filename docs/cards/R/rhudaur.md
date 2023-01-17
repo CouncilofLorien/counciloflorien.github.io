@@ -2,7 +2,7 @@
 layout: card
 title: Rhudaur
 grand_parent: Cards
-parent: Rhudaur
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/rhudaur/

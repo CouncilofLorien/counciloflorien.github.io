@@ -2,7 +2,7 @@
 layout: card
 title: Doeth (Durthak)
 grand_parent: Cards
-parent: Doeth (Durthak)
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/doeth-(durthak)/

@@ -2,7 +2,7 @@
 layout: card
 title: Riders of Rohan
 grand_parent: Cards
-parent: Riders of Rohan
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/riders-of-rohan/

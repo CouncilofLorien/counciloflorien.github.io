@@ -2,7 +2,7 @@
 layout: card
 title: Memories Stolen
 grand_parent: Cards
-parent: Memories Stolen
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/memories-stolen/

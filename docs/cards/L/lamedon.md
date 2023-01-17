@@ -2,7 +2,7 @@
 layout: card
 title: Lamedon
 grand_parent: Cards
-parent: Lamedon
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/lamedon/

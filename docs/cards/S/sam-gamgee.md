@@ -2,7 +2,7 @@
 layout: card
 title: Sam Gamgee
 grand_parent: Cards
-parent: Sam Gamgee
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/sam-gamgee/

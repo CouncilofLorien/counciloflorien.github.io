@@ -2,7 +2,7 @@
 layout: card
 title: The Warg-king
 grand_parent: Cards
-parent: The Warg-king
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-warg-king/

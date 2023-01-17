@@ -2,7 +2,7 @@
 layout: card
 title: Star-glass
 grand_parent: Cards
-parent: Star-glass
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/star-glass/

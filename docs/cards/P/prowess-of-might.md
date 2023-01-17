@@ -2,7 +2,7 @@
 layout: card
 title: Prowess of Might
 grand_parent: Cards
-parent: Prowess of Might
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/prowess-of-might/

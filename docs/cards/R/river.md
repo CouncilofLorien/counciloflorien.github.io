@@ -2,7 +2,7 @@
 layout: card
 title: River
 grand_parent: Cards
-parent: River
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/river/

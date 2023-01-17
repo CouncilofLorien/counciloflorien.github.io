@@ -2,7 +2,7 @@
 layout: card
 title: Worn and Famished
 grand_parent: Cards
-parent: Worn and Famished
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/worn-and-famished/

@@ -2,7 +2,7 @@
 layout: card
 title: Crack in the Wall
 grand_parent: Cards
-parent: Crack in the Wall
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/crack-in-the-wall/

@@ -2,7 +2,7 @@
 layout: card
 title: Orcs of the Red Eye
 grand_parent: Cards
-parent: Orcs of the Red Eye
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/orcs-of-the-red-eye/

@@ -2,7 +2,7 @@
 layout: card
 title: Landroval
 grand_parent: Cards
-parent: Landroval
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/landroval/

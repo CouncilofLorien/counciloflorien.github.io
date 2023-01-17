@@ -2,7 +2,7 @@
 layout: card
 title: Stench of Mordor
 grand_parent: Cards
-parent: Stench of Mordor
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/stench-of-mordor/

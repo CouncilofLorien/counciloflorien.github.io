@@ -2,7 +2,7 @@
 layout: card
 title: Belfalas
 grand_parent: Cards
-parent: Belfalas
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/belfalas/

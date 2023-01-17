@@ -2,7 +2,7 @@
 layout: card
 title: Sudden Call
 grand_parent: Cards
-parent: Sudden Call
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/sudden-call/

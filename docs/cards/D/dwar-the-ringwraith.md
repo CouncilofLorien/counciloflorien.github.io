@@ -2,7 +2,7 @@
 layout: card
 title: Dwar the Ringwraith
 grand_parent: Cards
-parent: Dwar the Ringwraith
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/dwar-the-ringwraith/

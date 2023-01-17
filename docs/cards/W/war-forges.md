@@ -2,7 +2,7 @@
 layout: card
 title: War-forges
 grand_parent: Cards
-parent: War-forges
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/war-forges/

@@ -2,7 +2,7 @@
 layout: card
 title: Full of Froth and Rage
 grand_parent: Cards
-parent: Full of Froth and Rage
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/full-of-froth-and-rage/

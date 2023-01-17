@@ -2,7 +2,7 @@
 layout: card
 title: Ringlore
 grand_parent: Cards
-parent: Ringlore
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/ringlore/

@@ -2,7 +2,7 @@
 layout: card
 title: I Know Much about You
 grand_parent: Cards
-parent: I Know Much about You
+parent: I
 search_exclude: false
 nav_exclude: true
 permalink: /cards/i-know-much-about-you/

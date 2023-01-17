@@ -2,7 +2,7 @@
 layout: card
 title: Shadow out of the Dark
 grand_parent: Cards
-parent: Shadow out of the Dark
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/shadow-out-of-the-dark/

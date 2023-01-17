@@ -2,7 +2,7 @@
 layout: card
 title: Bofur
 grand_parent: Cards
-parent: Bofur
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/bofur/

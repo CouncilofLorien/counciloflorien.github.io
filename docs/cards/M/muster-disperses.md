@@ -2,7 +2,7 @@
 layout: card
 title: Muster Disperses
 grand_parent: Cards
-parent: Muster Disperses
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/muster-disperses/

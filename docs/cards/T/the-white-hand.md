@@ -2,7 +2,7 @@
 layout: card
 title: The White Hand
 grand_parent: Cards
-parent: The White Hand
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-white-hand/

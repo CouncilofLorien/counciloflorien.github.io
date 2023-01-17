@@ -2,7 +2,7 @@
 layout: card
 title: Uchel
 grand_parent: Cards
-parent: Uchel
+parent: U
 search_exclude: false
 nav_exclude: true
 permalink: /cards/uchel/

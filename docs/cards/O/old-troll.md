@@ -2,7 +2,7 @@
 layout: card
 title: Old Troll
 grand_parent: Cards
-parent: Old Troll
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/old-troll/

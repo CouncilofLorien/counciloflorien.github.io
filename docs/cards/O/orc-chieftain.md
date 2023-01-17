@@ -2,7 +2,7 @@
 layout: card
 title: Orc Chieftain
 grand_parent: Cards
-parent: Orc Chieftain
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/orc-chieftain/

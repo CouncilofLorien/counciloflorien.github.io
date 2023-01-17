@@ -2,7 +2,7 @@
 layout: card
 title: Fell Rider
 grand_parent: Cards
-parent: Fell Rider
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/fell-rider/

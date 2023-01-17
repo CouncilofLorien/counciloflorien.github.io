@@ -2,7 +2,7 @@
 layout: card
 title: Stabbed Him in His Sleep
 grand_parent: Cards
-parent: Stabbed Him in His Sleep
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/stabbed-him-in-his-sleep/

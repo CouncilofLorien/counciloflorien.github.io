@@ -2,7 +2,7 @@
 layout: card
 title: Dark Tryst
 grand_parent: Cards
-parent: Dark Tryst
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/dark-tryst/

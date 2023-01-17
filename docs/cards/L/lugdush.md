@@ -2,7 +2,7 @@
 layout: card
 title: Lugdush
 grand_parent: Cards
-parent: Lugdush
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/lugdush/

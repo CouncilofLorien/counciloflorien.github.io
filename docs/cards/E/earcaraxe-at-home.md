@@ -2,7 +2,7 @@
 layout: card
 title: Earcaraxe at Home
 grand_parent: Cards
-parent: Earcaraxe at Home
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/earcaraxe-at-home/

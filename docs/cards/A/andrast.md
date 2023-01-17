@@ -2,7 +2,7 @@
 layout: card
 title: Andrast
 grand_parent: Cards
-parent: Andrast
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/andrast/

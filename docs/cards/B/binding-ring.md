@@ -2,7 +2,7 @@
 layout: card
 title: Binding-ring
 grand_parent: Cards
-parent: Binding-ring
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/binding-ring/

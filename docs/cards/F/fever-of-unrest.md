@@ -2,7 +2,7 @@
 layout: card
 title: Fever of Unrest
 grand_parent: Cards
-parent: Fever of Unrest
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/fever-of-unrest/

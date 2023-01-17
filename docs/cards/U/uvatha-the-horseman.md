@@ -2,7 +2,7 @@
 layout: card
 title: Uvatha the Horseman
 grand_parent: Cards
-parent: Uvatha the Horseman
+parent: U
 search_exclude: false
 nav_exclude: true
 permalink: /cards/uvatha-the-horseman/

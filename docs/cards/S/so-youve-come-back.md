@@ -2,7 +2,7 @@
 layout: card
 title: So You've Come Back
 grand_parent: Cards
-parent: So You've Come Back
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/so-youve-come-back/

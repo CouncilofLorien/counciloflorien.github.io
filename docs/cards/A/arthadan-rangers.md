@@ -2,7 +2,7 @@
 layout: card
 title: Arthadan Rangers
 grand_parent: Cards
-parent: Arthadan Rangers
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/arthadan-rangers/

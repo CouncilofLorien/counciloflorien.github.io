@@ -2,7 +2,7 @@
 layout: card
 title: Noble Hound
 grand_parent: Cards
-parent: Noble Hound
+parent: N
 search_exclude: false
 nav_exclude: true
 permalink: /cards/noble-hound/

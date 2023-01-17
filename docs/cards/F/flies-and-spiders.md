@@ -2,7 +2,7 @@
 layout: card
 title: Flies and Spiders
 grand_parent: Cards
-parent: Flies and Spiders
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/flies-and-spiders/

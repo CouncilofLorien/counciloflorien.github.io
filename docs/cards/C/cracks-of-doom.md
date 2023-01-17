@@ -2,7 +2,7 @@
 layout: card
 title: Cracks of Doom
 grand_parent: Cards
-parent: Cracks of Doom
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/cracks-of-doom/

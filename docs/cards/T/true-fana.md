@@ -2,7 +2,7 @@
 layout: card
 title: True Fana
 grand_parent: Cards
-parent: True Fana
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/true-fana/

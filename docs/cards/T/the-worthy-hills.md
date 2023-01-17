@@ -2,7 +2,7 @@
 layout: card
 title: The Worthy Hills
 grand_parent: Cards
-parent: The Worthy Hills
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-worthy-hills/

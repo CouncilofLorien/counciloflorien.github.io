@@ -2,7 +2,7 @@
 layout: card
 title: Eun
 grand_parent: Cards
-parent: Eun
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/eun/

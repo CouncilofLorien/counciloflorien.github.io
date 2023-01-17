@@ -2,7 +2,7 @@
 layout: card
 title: Plague of Wights
 grand_parent: Cards
-parent: Plague of Wights
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/plague-of-wights/

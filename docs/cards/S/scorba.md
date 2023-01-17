@@ -2,7 +2,7 @@
 layout: card
 title: Scorba
 grand_parent: Cards
-parent: Scorba
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/scorba/

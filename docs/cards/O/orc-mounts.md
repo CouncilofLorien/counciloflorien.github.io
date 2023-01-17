@@ -2,7 +2,7 @@
 layout: card
 title: Orc-mounts
 grand_parent: Cards
-parent: Orc-mounts
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/orc-mounts/

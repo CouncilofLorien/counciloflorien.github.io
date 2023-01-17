@@ -2,7 +2,7 @@
 layout: card
 title: Barrow-wight
 grand_parent: Cards
-parent: Barrow-wight
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/barrow-wight/

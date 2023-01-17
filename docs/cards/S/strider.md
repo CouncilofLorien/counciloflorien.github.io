@@ -2,7 +2,7 @@
 layout: card
 title: Strider
 grand_parent: Cards
-parent: Strider
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/strider/

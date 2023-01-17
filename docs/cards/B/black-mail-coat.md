@@ -2,7 +2,7 @@
 layout: card
 title: Black-mail Coat
 grand_parent: Cards
-parent: Black-mail Coat
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/black-mail-coat/

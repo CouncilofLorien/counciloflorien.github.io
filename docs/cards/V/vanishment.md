@@ -2,7 +2,7 @@
 layout: card
 title: Vanishment
 grand_parent: Cards
-parent: Vanishment
+parent: V
 search_exclude: false
 nav_exclude: true
 permalink: /cards/vanishment/

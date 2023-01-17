@@ -2,7 +2,7 @@
 layout: card
 title: Adunaphel Unleashed
 grand_parent: Cards
-parent: Adunaphel Unleashed
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/adunaphel-unleashed/

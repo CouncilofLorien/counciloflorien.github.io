@@ -2,7 +2,7 @@
 layout: card
 title: Roam the Waste
 grand_parent: Cards
-parent: Roam the Waste
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/roam-the-waste/

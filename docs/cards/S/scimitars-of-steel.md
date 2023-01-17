@@ -2,7 +2,7 @@
 layout: card
 title: Scimitars of Steel
 grand_parent: Cards
-parent: Scimitars of Steel
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/scimitars-of-steel/

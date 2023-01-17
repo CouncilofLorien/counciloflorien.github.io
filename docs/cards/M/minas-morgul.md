@@ -2,7 +2,7 @@
 layout: card
 title: Minas Morgul
 grand_parent: Cards
-parent: Minas Morgul
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/minas-morgul/

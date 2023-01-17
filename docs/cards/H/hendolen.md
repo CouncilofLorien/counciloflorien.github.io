@@ -2,7 +2,7 @@
 layout: card
 title: Hendolen
 grand_parent: Cards
-parent: Hendolen
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/hendolen/

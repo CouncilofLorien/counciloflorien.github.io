@@ -2,7 +2,7 @@
 layout: card
 title: And Forth He Hastened
 grand_parent: Cards
-parent: And Forth He Hastened
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/and-forth-he-hastened/

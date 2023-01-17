@@ -2,7 +2,7 @@
 layout: card
 title: Mountain-maggot
 grand_parent: Cards
-parent: Mountain-maggot
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/mountain-maggot/

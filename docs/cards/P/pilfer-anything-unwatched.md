@@ -2,7 +2,7 @@
 layout: card
 title: Pilfer Anything Unwatched
 grand_parent: Cards
-parent: Pilfer Anything Unwatched
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/pilfer-anything-unwatched/

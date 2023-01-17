@@ -2,7 +2,7 @@
 layout: card
 title: Hey! come merry dol!
 grand_parent: Cards
-parent: Hey! come merry dol!
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/hey!-come-merry-dol!/

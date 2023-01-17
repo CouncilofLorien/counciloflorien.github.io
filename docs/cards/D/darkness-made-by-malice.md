@@ -2,7 +2,7 @@
 layout: card
 title: Darkness Made by Malice
 grand_parent: Cards
-parent: Darkness Made by Malice
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/darkness-made-by-malice/

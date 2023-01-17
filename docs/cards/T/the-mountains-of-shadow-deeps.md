@@ -2,7 +2,7 @@
 layout: card
 title: The Mountains of Shadow Deeps
 grand_parent: Cards
-parent: The Mountains of Shadow Deeps
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-mountains-of-shadow-deeps/

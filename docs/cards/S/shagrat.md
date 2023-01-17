@@ -2,7 +2,7 @@
 layout: card
 title: Shagrat
 grand_parent: Cards
-parent: Shagrat
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/shagrat/

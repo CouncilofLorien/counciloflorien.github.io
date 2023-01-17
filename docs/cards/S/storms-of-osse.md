@@ -2,7 +2,7 @@
 layout: card
 title: Storms of Osse
 grand_parent: Cards
-parent: Storms of Osse
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/storms-of-osse/

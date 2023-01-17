@@ -2,7 +2,7 @@
 layout: card
 title: Weathertop
 grand_parent: Cards
-parent: Weathertop
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/weathertop/

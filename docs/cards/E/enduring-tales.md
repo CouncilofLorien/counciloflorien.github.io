@@ -2,7 +2,7 @@
 layout: card
 title: Enduring Tales
 grand_parent: Cards
-parent: Enduring Tales
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/enduring-tales/

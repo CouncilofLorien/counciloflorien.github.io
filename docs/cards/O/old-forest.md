@@ -2,7 +2,7 @@
 layout: card
 title: Old Forest
 grand_parent: Cards
-parent: Old Forest
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/old-forest/

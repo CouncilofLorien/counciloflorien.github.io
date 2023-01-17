@@ -2,7 +2,7 @@
 layout: card
 title: Traitor
 grand_parent: Cards
-parent: Traitor
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/traitor/

@@ -2,7 +2,7 @@
 layout: card
 title: Fifteen Birds in Five Firtrees
 grand_parent: Cards
-parent: Fifteen Birds in Five Firtrees
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/fifteen-birds-in-five-firtrees/

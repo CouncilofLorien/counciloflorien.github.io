@@ -2,7 +2,7 @@
 layout: card
 title: Incite Defenders
 grand_parent: Cards
-parent: Incite Defenders
+parent: I
 search_exclude: false
 nav_exclude: true
 permalink: /cards/incite-defenders/

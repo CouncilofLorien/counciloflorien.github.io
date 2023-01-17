@@ -2,7 +2,7 @@
 layout: card
 title: Nothing to Eat or Drink
 grand_parent: Cards
-parent: Nothing to Eat or Drink
+parent: N
 search_exclude: false
 nav_exclude: true
 permalink: /cards/nothing-to-eat-or-drink/

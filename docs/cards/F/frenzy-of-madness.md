@@ -2,7 +2,7 @@
 layout: card
 title: Frenzy of Madness
 grand_parent: Cards
-parent: Frenzy of Madness
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/frenzy-of-madness/

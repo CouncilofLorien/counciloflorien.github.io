@@ -2,7 +2,7 @@
 layout: card
 title: Tros Hesnef
 grand_parent: Cards
-parent: Tros Hesnef
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/tros-hesnef/

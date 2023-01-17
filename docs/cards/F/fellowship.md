@@ -2,7 +2,7 @@
 layout: card
 title: Fellowship
 grand_parent: Cards
-parent: Fellowship
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/fellowship/

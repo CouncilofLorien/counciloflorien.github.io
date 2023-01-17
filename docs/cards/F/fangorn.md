@@ -2,7 +2,7 @@
 layout: card
 title: Fangorn
 grand_parent: Cards
-parent: Fangorn
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/fangorn/

@@ -2,7 +2,7 @@
 layout: card
 title: Anborn
 grand_parent: Cards
-parent: Anborn
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/anborn/

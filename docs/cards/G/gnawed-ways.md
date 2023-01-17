@@ -2,7 +2,7 @@
 layout: card
 title: Gnawed Ways
 grand_parent: Cards
-parent: Gnawed Ways
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/gnawed-ways/

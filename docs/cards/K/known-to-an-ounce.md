@@ -2,7 +2,7 @@
 layout: card
 title: Known to an Ounce
 grand_parent: Cards
-parent: Known to an Ounce
+parent: K
 search_exclude: false
 nav_exclude: true
 permalink: /cards/known-to-an-ounce/

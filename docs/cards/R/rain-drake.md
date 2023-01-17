@@ -2,7 +2,7 @@
 layout: card
 title: Rain-drake
 grand_parent: Cards
-parent: Rain-drake
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/rain-drake/

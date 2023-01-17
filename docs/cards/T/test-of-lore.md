@@ -2,7 +2,7 @@
 layout: card
 title: Test of Lore
 grand_parent: Cards
-parent: Test of Lore
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/test-of-lore/

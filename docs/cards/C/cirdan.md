@@ -2,7 +2,7 @@
 layout: card
 title: Cirdan
 grand_parent: Cards
-parent: Cirdan
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/cirdan/

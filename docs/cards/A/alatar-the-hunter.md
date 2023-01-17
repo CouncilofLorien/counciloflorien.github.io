@@ -2,7 +2,7 @@
 layout: card
 title: Alatar the Hunter
 grand_parent: Cards
-parent: Alatar the Hunter
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/alatar-the-hunter/

@@ -2,7 +2,7 @@
 layout: card
 title: Memories of Old Torture
 grand_parent: Cards
-parent: Memories of Old Torture
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/memories-of-old-torture/

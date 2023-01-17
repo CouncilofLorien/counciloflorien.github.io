@@ -2,7 +2,7 @@
 layout: card
 title: Variags of Khand
 grand_parent: Cards
-parent: Variags of Khand
+parent: V
 search_exclude: false
 nav_exclude: true
 permalink: /cards/variags-of-khand/

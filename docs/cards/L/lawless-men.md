@@ -2,7 +2,7 @@
 layout: card
 title: Lawless Men
 grand_parent: Cards
-parent: Lawless Men
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/lawless-men/

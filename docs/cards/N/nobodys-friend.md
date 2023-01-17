@@ -2,7 +2,7 @@
 layout: card
 title: Nobody's Friend
 grand_parent: Cards
-parent: Nobody's Friend
+parent: N
 search_exclude: false
 nav_exclude: true
 permalink: /cards/nobodys-friend/

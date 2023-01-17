@@ -2,7 +2,7 @@
 layout: card
 title: Carrion Feeders
 grand_parent: Cards
-parent: Carrion Feeders
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/carrion-feeders/

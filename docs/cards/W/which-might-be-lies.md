@@ -2,7 +2,7 @@
 layout: card
 title: Which Might Be Lies
 grand_parent: Cards
-parent: Which Might Be Lies
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/which-might-be-lies/

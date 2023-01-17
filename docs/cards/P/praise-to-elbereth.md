@@ -2,7 +2,7 @@
 layout: card
 title: Praise to Elbereth
 grand_parent: Cards
-parent: Praise to Elbereth
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/praise-to-elbereth/

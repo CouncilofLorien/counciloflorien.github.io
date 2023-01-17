@@ -2,7 +2,7 @@
 layout: card
 title: Eyes of Mandos
 grand_parent: Cards
-parent: Eyes of Mandos
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/eyes-of-mandos/

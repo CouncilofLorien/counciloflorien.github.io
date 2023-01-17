@@ -2,7 +2,7 @@
 layout: card
 title: Mordor in Arms
 grand_parent: Cards
-parent: Mordor in Arms
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/mordor-in-arms/

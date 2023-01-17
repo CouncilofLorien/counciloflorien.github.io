@@ -2,7 +2,7 @@
 layout: card
 title: Leamon
 grand_parent: Cards
-parent: Leamon
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/leamon/

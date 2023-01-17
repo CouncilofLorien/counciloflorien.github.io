@@ -2,7 +2,7 @@
 layout: card
 title: Vanguard of Might
 grand_parent: Cards
-parent: Vanguard of Might
+parent: V
 search_exclude: false
 nav_exclude: true
 permalink: /cards/vanguard-of-might/

@@ -2,7 +2,7 @@
 layout: card
 title: Wisp of Pale Sheen
 grand_parent: Cards
-parent: Wisp of Pale Sheen
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/wisp-of-pale-sheen/

@@ -2,7 +2,7 @@
 layout: card
 title: Wood-elves
 grand_parent: Cards
-parent: Wood-elves
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/wood-elves/

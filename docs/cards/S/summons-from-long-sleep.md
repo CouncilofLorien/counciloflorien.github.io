@@ -2,7 +2,7 @@
 layout: card
 title: Summons from Long Sleep
 grand_parent: Cards
-parent: Summons from Long Sleep
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/summons-from-long-sleep/

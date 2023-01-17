@@ -2,7 +2,7 @@
 layout: card
 title: Elwen
 grand_parent: Cards
-parent: Elwen
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/elwen/

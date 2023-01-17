@@ -2,7 +2,7 @@
 layout: card
 title: White Mountains
 grand_parent: Cards
-parent: White Mountains
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/white-mountains/

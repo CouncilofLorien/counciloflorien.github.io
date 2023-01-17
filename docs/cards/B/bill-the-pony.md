@@ -2,7 +2,7 @@
 layout: card
 title: Bill the Pony
 grand_parent: Cards
-parent: Bill the Pony
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/bill-the-pony/

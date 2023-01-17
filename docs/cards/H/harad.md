@@ -2,7 +2,7 @@
 layout: card
 title: Harad
 grand_parent: Cards
-parent: Harad
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/harad/

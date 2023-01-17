@@ -2,7 +2,7 @@
 layout: card
 title: Bay of Belfalas
 grand_parent: Cards
-parent: Bay of Belfalas
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/bay-of-belfalas/

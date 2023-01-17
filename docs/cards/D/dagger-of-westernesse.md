@@ -2,7 +2,7 @@
 layout: card
 title: Dagger of Westernesse
 grand_parent: Cards
-parent: Dagger of Westernesse
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/dagger-of-westernesse/

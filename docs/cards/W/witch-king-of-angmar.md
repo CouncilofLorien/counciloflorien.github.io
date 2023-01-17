@@ -2,7 +2,7 @@
 layout: card
 title: Witch-king of Angmar
 grand_parent: Cards
-parent: Witch-king of Angmar
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/witch-king-of-angmar/

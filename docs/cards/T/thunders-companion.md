@@ -2,7 +2,7 @@
 layout: card
 title: Thunder's Companion
 grand_parent: Cards
-parent: Thunder's Companion
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/thunders-companion/

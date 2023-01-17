@@ -2,7 +2,7 @@
 layout: card
 title: Kill All But NOT the Halflings
 grand_parent: Cards
-parent: Kill All But NOT the Halflings
+parent: K
 search_exclude: false
 nav_exclude: true
 permalink: /cards/kill-all-but-not-the-halflings/

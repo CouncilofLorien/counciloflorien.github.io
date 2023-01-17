@@ -2,7 +2,7 @@
 layout: card
 title: Men of Northern Rhovanion
 grand_parent: Cards
-parent: Men of Northern Rhovanion
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/men-of-northern-rhovanion/

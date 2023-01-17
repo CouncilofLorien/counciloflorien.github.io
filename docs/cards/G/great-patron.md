@@ -2,7 +2,7 @@
 layout: card
 title: Great Patron
 grand_parent: Cards
-parent: Great Patron
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/great-patron/

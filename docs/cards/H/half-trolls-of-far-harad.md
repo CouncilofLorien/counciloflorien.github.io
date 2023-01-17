@@ -2,7 +2,7 @@
 layout: card
 title: Half-trolls of Far Harad
 grand_parent: Cards
-parent: Half-trolls of Far Harad
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/half-trolls-of-far-harad/

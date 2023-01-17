@@ -2,7 +2,7 @@
 layout: card
 title: Celeborn
 grand_parent: Cards
-parent: Celeborn
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/celeborn/

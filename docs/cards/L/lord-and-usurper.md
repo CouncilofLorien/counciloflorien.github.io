@@ -2,7 +2,7 @@
 layout: card
 title: Lord and Usurper
 grand_parent: Cards
-parent: Lord and Usurper
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/lord-and-usurper/

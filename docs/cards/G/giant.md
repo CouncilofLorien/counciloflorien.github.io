@@ -2,7 +2,7 @@
 layout: card
 title: Giant
 grand_parent: Cards
-parent: Giant
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/giant/

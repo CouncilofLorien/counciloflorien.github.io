@@ -2,7 +2,7 @@
 layout: card
 title: Gnaw with Words
 grand_parent: Cards
-parent: Gnaw with Words
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/gnaw-with-words/

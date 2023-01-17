@@ -2,7 +2,7 @@
 layout: card
 title: To Fealty Sworn
 grand_parent: Cards
-parent: To Fealty Sworn
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/to-fealty-sworn/

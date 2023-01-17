@@ -2,7 +2,7 @@
 layout: card
 title: Fatty Bolger
 grand_parent: Cards
-parent: Fatty Bolger
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/fatty-bolger/

@@ -2,7 +2,7 @@
 layout: card
 title: Red Arrow
 grand_parent: Cards
-parent: Red Arrow
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/red-arrow/

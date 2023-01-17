@@ -2,7 +2,7 @@
 layout: card
 title: The Burden of Time
 grand_parent: Cards
-parent: The Burden of Time
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-burden-of-time/

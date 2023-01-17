@@ -2,7 +2,7 @@
 layout: card
 title: Wacho
 grand_parent: Cards
-parent: Wacho
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/wacho/

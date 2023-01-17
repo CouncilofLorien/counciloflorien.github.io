@@ -2,7 +2,7 @@
 layout: card
 title: Gundabad
 grand_parent: Cards
-parent: Gundabad
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/gundabad/

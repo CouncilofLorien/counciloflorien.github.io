@@ -2,7 +2,7 @@
 layout: card
 title: Woses of Old Pukel-land
 grand_parent: Cards
-parent: Woses of Old Pukel-land
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/woses-of-old-pukel-land/

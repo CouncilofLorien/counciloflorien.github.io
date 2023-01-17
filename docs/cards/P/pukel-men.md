@@ -2,7 +2,7 @@
 layout: card
 title: Pukel-men
 grand_parent: Cards
-parent: Pukel-men
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/pukel-men/

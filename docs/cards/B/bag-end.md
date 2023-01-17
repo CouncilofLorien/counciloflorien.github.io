@@ -2,7 +2,7 @@
 layout: card
 title: Bag End
 grand_parent: Cards
-parent: Bag End
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/bag-end/

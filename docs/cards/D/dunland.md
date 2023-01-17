@@ -2,7 +2,7 @@
 layout: card
 title: Dunland
 grand_parent: Cards
-parent: Dunland
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/dunland/

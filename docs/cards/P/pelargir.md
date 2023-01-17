@@ -2,7 +2,7 @@
 layout: card
 title: Pelargir
 grand_parent: Cards
-parent: Pelargir
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/pelargir/

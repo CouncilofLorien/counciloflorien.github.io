@@ -2,7 +2,7 @@
 layout: card
 title: Eowyn
 grand_parent: Cards
-parent: Eowyn
+parent: E
 search_exclude: false
 nav_exclude: true
 permalink: /cards/eowyn/

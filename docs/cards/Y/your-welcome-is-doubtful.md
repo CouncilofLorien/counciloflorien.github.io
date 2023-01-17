@@ -2,7 +2,7 @@
 layout: card
 title: Your Welcome Is Doubtful
 grand_parent: Cards
-parent: Your Welcome Is Doubtful
+parent: Y
 search_exclude: false
 nav_exclude: true
 permalink: /cards/your-welcome-is-doubtful/

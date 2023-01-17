@@ -2,7 +2,7 @@
 layout: card
 title: Crowned with Storm
 grand_parent: Cards
-parent: Crowned with Storm
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/crowned-with-storm/

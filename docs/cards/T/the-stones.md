@@ -2,7 +2,7 @@
 layout: card
 title: The Stones
 grand_parent: Cards
-parent: The Stones
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-stones/

@@ -2,7 +2,7 @@
 layout: card
 title: Olog Warlords
 grand_parent: Cards
-parent: Olog Warlords
+parent: O
 search_exclude: false
 nav_exclude: true
 permalink: /cards/olog-warlords/

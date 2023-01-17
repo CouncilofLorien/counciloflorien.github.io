@@ -2,7 +2,7 @@
 layout: card
 title: Lossadan Cairn
 grand_parent: Cards
-parent: Lossadan Cairn
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/lossadan-cairn/

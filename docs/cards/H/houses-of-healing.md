@@ -2,7 +2,7 @@
 layout: card
 title: Houses of Healing
 grand_parent: Cards
-parent: Houses of Healing
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/houses-of-healing/

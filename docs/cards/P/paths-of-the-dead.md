@@ -2,7 +2,7 @@
 layout: card
 title: Paths of the Dead
 grand_parent: Cards
-parent: Paths of the Dead
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/paths-of-the-dead/

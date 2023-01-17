@@ -2,7 +2,7 @@
 layout: card
 title: Haradrim
 grand_parent: Cards
-parent: Haradrim
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/haradrim/

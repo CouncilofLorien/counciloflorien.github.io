@@ -2,7 +2,7 @@
 layout: card
 title: Bairanax at Home
 grand_parent: Cards
-parent: Bairanax at Home
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/bairanax-at-home/

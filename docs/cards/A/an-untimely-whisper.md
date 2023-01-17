@@ -2,7 +2,7 @@
 layout: card
 title: An Untimely Whisper
 grand_parent: Cards
-parent: An Untimely Whisper
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/an-untimely-whisper/

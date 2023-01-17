@@ -2,7 +2,7 @@
 layout: card
 title: Ford
 grand_parent: Cards
-parent: Ford
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/ford/

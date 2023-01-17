@@ -2,7 +2,7 @@
 layout: card
 title: Rangers of the North
 grand_parent: Cards
-parent: Rangers of the North
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/rangers-of-the-north/

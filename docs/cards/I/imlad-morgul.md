@@ -2,7 +2,7 @@
 layout: card
 title: Imlad Morgul
 grand_parent: Cards
-parent: Imlad Morgul
+parent: I
 search_exclude: false
 nav_exclude: true
 permalink: /cards/imlad-morgul/

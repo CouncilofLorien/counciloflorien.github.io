@@ -2,7 +2,7 @@
 layout: card
 title: Squint-eyed Brute
 grand_parent: Cards
-parent: Squint-eyed Brute
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/squint-eyed-brute/

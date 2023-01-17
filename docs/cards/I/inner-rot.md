@@ -2,7 +2,7 @@
 layout: card
 title: Inner Rot
 grand_parent: Cards
-parent: Inner Rot
+parent: I
 search_exclude: false
 nav_exclude: true
 permalink: /cards/inner-rot/

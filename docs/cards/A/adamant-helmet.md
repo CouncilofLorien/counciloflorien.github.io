@@ -2,7 +2,7 @@
 layout: card
 title: Adamant Helmet
 grand_parent: Cards
-parent: Adamant Helmet
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/adamant-helmet/

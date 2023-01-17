@@ -2,7 +2,7 @@
 layout: card
 title: The Tormented Earth
 grand_parent: Cards
-parent: The Tormented Earth
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-tormented-earth/

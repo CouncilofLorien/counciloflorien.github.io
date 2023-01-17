@@ -2,7 +2,7 @@
 layout: card
 title: Tempering Friendship
 grand_parent: Cards
-parent: Tempering Friendship
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/tempering-friendship/

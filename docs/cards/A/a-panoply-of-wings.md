@@ -2,7 +2,7 @@
 layout: card
 title: A Panoply of Wings
 grand_parent: Cards
-parent: A Panoply of Wings
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/a-panoply-of-wings/

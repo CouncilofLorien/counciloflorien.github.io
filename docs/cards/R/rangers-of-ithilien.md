@@ -2,7 +2,7 @@
 layout: card
 title: Rangers of Ithilien
 grand_parent: Cards
-parent: Rangers of Ithilien
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/rangers-of-ithilien/

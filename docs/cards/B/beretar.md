@@ -2,7 +2,7 @@
 layout: card
 title: Beretar
 grand_parent: Cards
-parent: Beretar
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/beretar/

@@ -2,7 +2,7 @@
 layout: card
 title: Riven Gate
 grand_parent: Cards
-parent: Riven Gate
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/riven-gate/

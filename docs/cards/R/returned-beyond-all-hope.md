@@ -2,7 +2,7 @@
 layout: card
 title: Returned Beyond All Hope
 grand_parent: Cards
-parent: Returned Beyond All Hope
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/returned-beyond-all-hope/

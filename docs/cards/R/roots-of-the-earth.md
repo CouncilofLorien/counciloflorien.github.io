@@ -2,7 +2,7 @@
 layout: card
 title: Roots of the Earth
 grand_parent: Cards
-parent: Roots of the Earth
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/roots-of-the-earth/

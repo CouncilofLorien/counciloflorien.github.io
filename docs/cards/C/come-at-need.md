@@ -2,7 +2,7 @@
 layout: card
 title: Come at Need
 grand_parent: Cards
-parent: Come at Need
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/come-at-need/

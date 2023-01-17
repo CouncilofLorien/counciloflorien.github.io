@@ -2,7 +2,7 @@
 layout: card
 title: Glance of Arien
 grand_parent: Cards
-parent: Glance of Arien
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/glance-of-arien/

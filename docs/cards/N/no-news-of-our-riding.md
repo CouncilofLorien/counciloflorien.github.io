@@ -2,7 +2,7 @@
 layout: card
 title: No News of Our Riding
 grand_parent: Cards
-parent: No News of Our Riding
+parent: N
 search_exclude: false
 nav_exclude: true
 permalink: /cards/no-news-of-our-riding/

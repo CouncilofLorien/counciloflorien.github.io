@@ -2,7 +2,7 @@
 layout: card
 title: Into Dark Tunnels
 grand_parent: Cards
-parent: Into Dark Tunnels
+parent: I
 search_exclude: false
 nav_exclude: true
 permalink: /cards/into-dark-tunnels/

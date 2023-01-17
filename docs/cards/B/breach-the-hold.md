@@ -2,7 +2,7 @@
 layout: card
 title: Breach the Hold
 grand_parent: Cards
-parent: Breach the Hold
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/breach-the-hold/

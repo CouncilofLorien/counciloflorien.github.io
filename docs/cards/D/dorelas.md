@@ -2,7 +2,7 @@
 layout: card
 title: Dorelas
 grand_parent: Cards
-parent: Dorelas
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/dorelas/

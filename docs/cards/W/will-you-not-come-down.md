@@ -2,7 +2,7 @@
 layout: card
 title: Will You Not Come Down
 grand_parent: Cards
-parent: Will You Not Come Down
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/will-you-not-come-down/

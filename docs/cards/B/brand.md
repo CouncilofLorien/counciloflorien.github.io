@@ -2,7 +2,7 @@
 layout: card
 title: Brand
 grand_parent: Cards
-parent: Brand
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/brand/

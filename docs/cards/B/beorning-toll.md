@@ -2,7 +2,7 @@
 layout: card
 title: Beorning Toll
 grand_parent: Cards
-parent: Beorning Toll
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/beorning-toll/

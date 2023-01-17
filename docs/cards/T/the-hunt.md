@@ -2,7 +2,7 @@
 layout: card
 title: The Hunt
 grand_parent: Cards
-parent: The Hunt
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-hunt/

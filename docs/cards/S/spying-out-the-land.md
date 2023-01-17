@@ -2,7 +2,7 @@
 layout: card
 title: Spying out the Land
 grand_parent: Cards
-parent: Spying out the Land
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/spying-out-the-land/

@@ -2,7 +2,7 @@
 layout: card
 title: The Misty Mountain Deeps
 grand_parent: Cards
-parent: The Misty Mountain Deeps
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-misty-mountain-deeps/

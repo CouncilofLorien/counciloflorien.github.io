@@ -2,7 +2,7 @@
 layout: card
 title: Lost in Free-domains
 grand_parent: Cards
-parent: Lost in Free-domains
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/lost-in-free-domains/

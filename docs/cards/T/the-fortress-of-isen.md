@@ -2,7 +2,7 @@
 layout: card
 title: The Fortress of Isen
 grand_parent: Cards
-parent: The Fortress of Isen
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-fortress-of-isen/

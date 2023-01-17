@@ -2,7 +2,7 @@
 layout: card
 title: The Witch-king Unleashed
 grand_parent: Cards
-parent: The Witch-king Unleashed
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-witch-king-unleashed/

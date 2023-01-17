@@ -2,7 +2,7 @@
 layout: card
 title: Remnants of Old Robberies
 grand_parent: Cards
-parent: Remnants of Old Robberies
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/remnants-of-old-robberies/

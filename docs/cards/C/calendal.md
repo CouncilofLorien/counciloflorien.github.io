@@ -2,7 +2,7 @@
 layout: card
 title: Calendal
 grand_parent: Cards
-parent: Calendal
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/calendal/

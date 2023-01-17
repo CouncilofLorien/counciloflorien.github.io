@@ -2,7 +2,7 @@
 layout: card
 title: Corsairs of Rhun
 grand_parent: Cards
-parent: Corsairs of Rhun
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/corsairs-of-rhun/

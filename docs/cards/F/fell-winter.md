@@ -2,7 +2,7 @@
 layout: card
 title: Fell Winter
 grand_parent: Cards
-parent: Fell Winter
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/fell-winter/

@@ -2,7 +2,7 @@
 layout: card
 title: Great Fissure
 grand_parent: Cards
-parent: Great Fissure
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/great-fissure/

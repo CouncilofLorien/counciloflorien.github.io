@@ -2,7 +2,7 @@
 layout: card
 title: The Dark Power
 grand_parent: Cards
-parent: The Dark Power
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-dark-power/

@@ -2,7 +2,7 @@
 layout: card
 title: Ready to His Will
 grand_parent: Cards
-parent: Ready to His Will
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/ready-to-his-will/

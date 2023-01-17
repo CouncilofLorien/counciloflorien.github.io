@@ -2,7 +2,7 @@
 layout: card
 title: Galdor
 grand_parent: Cards
-parent: Galdor
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/galdor/

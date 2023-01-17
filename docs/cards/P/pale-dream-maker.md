@@ -2,7 +2,7 @@
 layout: card
 title: Pale Dream-maker
 grand_parent: Cards
-parent: Pale Dream-maker
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/pale-dream-maker/

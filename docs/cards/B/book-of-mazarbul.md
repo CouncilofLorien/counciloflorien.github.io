@@ -2,7 +2,7 @@
 layout: card
 title: Book of Mazarbul
 grand_parent: Cards
-parent: Book of Mazarbul
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/book-of-mazarbul/

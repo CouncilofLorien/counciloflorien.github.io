@@ -2,7 +2,7 @@
 layout: card
 title: Luitprand
 grand_parent: Cards
-parent: Luitprand
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/luitprand/

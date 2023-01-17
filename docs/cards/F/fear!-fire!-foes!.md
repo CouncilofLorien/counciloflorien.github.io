@@ -2,7 +2,7 @@
 layout: card
 title: FEAR! FIRE! FOES!
 grand_parent: Cards
-parent: FEAR! FIRE! FOES!
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/fear!-fire!-foes!/

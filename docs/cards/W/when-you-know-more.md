@@ -2,7 +2,7 @@
 layout: card
 title: When You Know More
 grand_parent: Cards
-parent: When You Know More
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/when-you-know-more/

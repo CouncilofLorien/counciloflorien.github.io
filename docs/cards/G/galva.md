@@ -2,7 +2,7 @@
 layout: card
 title: Galva
 grand_parent: Cards
-parent: Galva
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/galva/

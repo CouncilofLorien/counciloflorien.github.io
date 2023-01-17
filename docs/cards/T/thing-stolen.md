@@ -2,7 +2,7 @@
 layout: card
 title: Thing Stolen
 grand_parent: Cards
-parent: Thing Stolen
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/thing-stolen/

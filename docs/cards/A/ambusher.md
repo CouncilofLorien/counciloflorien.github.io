@@ -2,7 +2,7 @@
 layout: card
 title: Ambusher
 grand_parent: Cards
-parent: Ambusher
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/ambusher/

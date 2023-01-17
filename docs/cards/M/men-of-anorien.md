@@ -2,7 +2,7 @@
 layout: card
 title: Men of Anorien
 grand_parent: Cards
-parent: Men of Anorien
+parent: M
 search_exclude: false
 nav_exclude: true
 permalink: /cards/men-of-anorien/

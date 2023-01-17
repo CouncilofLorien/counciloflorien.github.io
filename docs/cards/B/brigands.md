@@ -2,7 +2,7 @@
 layout: card
 title: Brigands
 grand_parent: Cards
-parent: Brigands
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/brigands/

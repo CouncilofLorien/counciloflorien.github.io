@@ -2,7 +2,7 @@
 layout: card
 title: The Reek
 grand_parent: Cards
-parent: The Reek
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-reek/

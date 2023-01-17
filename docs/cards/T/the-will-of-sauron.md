@@ -2,7 +2,7 @@
 layout: card
 title: The Will of Sauron
 grand_parent: Cards
-parent: The Will of Sauron
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-will-of-sauron/

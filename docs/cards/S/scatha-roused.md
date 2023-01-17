@@ -2,7 +2,7 @@
 layout: card
 title: Scatha Roused
 grand_parent: Cards
-parent: Scatha Roused
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/scatha-roused/

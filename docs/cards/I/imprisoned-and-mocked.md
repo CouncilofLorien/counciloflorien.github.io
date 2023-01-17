@@ -2,7 +2,7 @@
 layout: card
 title: Imprisoned and Mocked
 grand_parent: Cards
-parent: Imprisoned and Mocked
+parent: I
 search_exclude: false
 nav_exclude: true
 permalink: /cards/imprisoned-and-mocked/

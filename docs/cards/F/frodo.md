@@ -2,7 +2,7 @@
 layout: card
 title: Frodo
 grand_parent: Cards
-parent: Frodo
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/frodo/

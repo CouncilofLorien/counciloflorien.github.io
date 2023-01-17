@@ -2,7 +2,7 @@
 layout: card
 title: Worm's Stench
 grand_parent: Cards
-parent: Worm's Stench
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/worms-stench/

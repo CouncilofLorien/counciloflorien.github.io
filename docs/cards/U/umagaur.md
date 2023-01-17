@@ -2,7 +2,7 @@
 layout: card
 title: Umagaur
 grand_parent: Cards
-parent: Umagaur
+parent: U
 search_exclude: false
 nav_exclude: true
 permalink: /cards/umagaur/

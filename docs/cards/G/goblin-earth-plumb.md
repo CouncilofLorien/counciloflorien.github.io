@@ -2,7 +2,7 @@
 layout: card
 title: Goblin Earth-plumb
 grand_parent: Cards
-parent: Goblin Earth-plumb
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/goblin-earth-plumb/

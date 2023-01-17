@@ -2,7 +2,7 @@
 layout: card
 title: Ancient Secrets
 grand_parent: Cards
-parent: Ancient Secrets
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/ancient-secrets/

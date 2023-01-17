@@ -2,7 +2,7 @@
 layout: card
 title: Not Slay Needlessly
 grand_parent: Cards
-parent: Not Slay Needlessly
+parent: N
 search_exclude: false
 nav_exclude: true
 permalink: /cards/not-slay-needlessly/

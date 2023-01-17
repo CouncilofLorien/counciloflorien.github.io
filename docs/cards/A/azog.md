@@ -2,7 +2,7 @@
 layout: card
 title: Azog
 grand_parent: Cards
-parent: Azog
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/azog/

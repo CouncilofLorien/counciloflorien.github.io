@@ -2,7 +2,7 @@
 layout: card
 title: Gollum
 grand_parent: Cards
-parent: Gollum
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/gollum/

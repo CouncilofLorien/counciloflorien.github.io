@@ -2,7 +2,7 @@
 layout: card
 title: Forochel
 grand_parent: Cards
-parent: Forochel
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/forochel/

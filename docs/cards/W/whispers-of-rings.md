@@ -2,7 +2,7 @@
 layout: card
 title: Whispers of Rings
 grand_parent: Cards
-parent: Whispers of Rings
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/whispers-of-rings/

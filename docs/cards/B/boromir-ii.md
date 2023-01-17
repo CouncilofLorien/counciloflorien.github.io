@@ -2,7 +2,7 @@
 layout: card
 title: Boromir II
 grand_parent: Cards
-parent: Boromir II
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/boromir-ii/

@@ -2,7 +2,7 @@
 layout: card
 title: Sack Over the Head
 grand_parent: Cards
-parent: Sack Over the Head
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/sack-over-the-head/

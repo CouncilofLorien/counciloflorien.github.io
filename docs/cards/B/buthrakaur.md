@@ -2,7 +2,7 @@
 layout: card
 title: Buthrakaur
 grand_parent: Cards
-parent: Buthrakaur
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/buthrakaur/

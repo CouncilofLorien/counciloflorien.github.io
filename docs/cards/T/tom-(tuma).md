@@ -2,7 +2,7 @@
 layout: card
 title: Tom (Tuma)
 grand_parent: Cards
-parent: Tom (Tuma)
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/tom-(tuma)/

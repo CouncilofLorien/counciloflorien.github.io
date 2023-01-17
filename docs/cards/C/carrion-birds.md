@@ -2,7 +2,7 @@
 layout: card
 title: Carrion Birds
 grand_parent: Cards
-parent: Carrion Birds
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/carrion-birds/

@@ -2,7 +2,7 @@
 layout: card
 title: Vale of Erech
 grand_parent: Cards
-parent: Vale of Erech
+parent: V
 search_exclude: false
 nav_exclude: true
 permalink: /cards/vale-of-erech/

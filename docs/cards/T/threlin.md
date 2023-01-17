@@ -2,7 +2,7 @@
 layout: card
 title: Threlin
 grand_parent: Cards
-parent: Threlin
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/threlin/

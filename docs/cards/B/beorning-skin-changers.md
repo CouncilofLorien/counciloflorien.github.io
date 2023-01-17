@@ -2,7 +2,7 @@
 layout: card
 title: Beorning Skin-changers
 grand_parent: Cards
-parent: Beorning Skin-changers
+parent: B
 search_exclude: false
 nav_exclude: true
 permalink: /cards/beorning-skin-changers/

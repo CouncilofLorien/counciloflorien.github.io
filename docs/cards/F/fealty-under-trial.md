@@ -2,7 +2,7 @@
 layout: card
 title: Fealty Under Trial
 grand_parent: Cards
-parent: Fealty Under Trial
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/fealty-under-trial/

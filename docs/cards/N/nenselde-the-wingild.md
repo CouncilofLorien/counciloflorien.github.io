@@ -2,7 +2,7 @@
 layout: card
 title: Nenselde the Wingild
 grand_parent: Cards
-parent: Nenselde the Wingild
+parent: N
 search_exclude: false
 nav_exclude: true
 permalink: /cards/nenselde-the-wingild/

@@ -2,7 +2,7 @@
 layout: card
 title: Leaf Brooch
 grand_parent: Cards
-parent: Leaf Brooch
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/leaf-brooch/

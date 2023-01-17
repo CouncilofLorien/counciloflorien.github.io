@@ -2,7 +2,7 @@
 layout: card
 title: Iron Shield of Old
 grand_parent: Cards
-parent: Iron Shield of Old
+parent: I
 search_exclude: false
 nav_exclude: true
 permalink: /cards/iron-shield-of-old/

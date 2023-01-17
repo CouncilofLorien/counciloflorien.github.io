@@ -2,7 +2,7 @@
 layout: card
 title: Dale
 grand_parent: Cards
-parent: Dale
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/dale/

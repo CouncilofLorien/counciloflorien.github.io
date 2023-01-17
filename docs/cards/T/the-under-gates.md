@@ -2,7 +2,7 @@
 layout: card
 title: The Under-gates
 grand_parent: Cards
-parent: The Under-gates
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-under-gates/

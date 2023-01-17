@@ -2,7 +2,7 @@
 layout: card
 title: Dragon's Curse
 grand_parent: Cards
-parent: Dragon's Curse
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/dragons-curse/

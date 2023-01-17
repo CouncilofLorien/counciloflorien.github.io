@@ -2,7 +2,7 @@
 layout: card
 title: Andrast Coast
 grand_parent: Cards
-parent: Andrast Coast
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/andrast-coast/

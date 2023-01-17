@@ -2,7 +2,7 @@
 layout: card
 title: Cameth Brin
 grand_parent: Cards
-parent: Cameth Brin
+parent: C
 search_exclude: false
 nav_exclude: true
 permalink: /cards/cameth-brin/

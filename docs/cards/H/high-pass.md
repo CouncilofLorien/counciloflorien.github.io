@@ -2,7 +2,7 @@
 layout: card
 title: High Pass
 grand_parent: Cards
-parent: High Pass
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/high-pass/

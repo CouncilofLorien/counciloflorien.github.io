@@ -2,7 +2,7 @@
 layout: card
 title: Shelob's Brood
 grand_parent: Cards
-parent: Shelob's Brood
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/shelobs-brood/

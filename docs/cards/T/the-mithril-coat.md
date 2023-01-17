@@ -2,7 +2,7 @@
 layout: card
 title: The Mithril-coat
 grand_parent: Cards
-parent: The Mithril-coat
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/the-mithril-coat/

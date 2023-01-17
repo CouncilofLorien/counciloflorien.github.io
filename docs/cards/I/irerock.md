@@ -2,7 +2,7 @@
 layout: card
 title: Irerock
 grand_parent: Cards
-parent: Irerock
+parent: I
 search_exclude: false
 nav_exclude: true
 permalink: /cards/irerock/

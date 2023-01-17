@@ -2,7 +2,7 @@
 layout: card
 title: Two-headed Troll
 grand_parent: Cards
-parent: Two-headed Troll
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/two-headed-troll/

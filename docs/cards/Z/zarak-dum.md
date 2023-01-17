@@ -2,7 +2,7 @@
 layout: card
 title: Zarak Dum
 grand_parent: Cards
-parent: Zarak Dum
+parent: Z
 search_exclude: false
 nav_exclude: true
 permalink: /cards/zarak-dum/

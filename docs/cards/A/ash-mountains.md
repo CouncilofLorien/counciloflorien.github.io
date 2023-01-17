@@ -2,7 +2,7 @@
 layout: card
 title: Ash Mountains
 grand_parent: Cards
-parent: Ash Mountains
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/ash-mountains/

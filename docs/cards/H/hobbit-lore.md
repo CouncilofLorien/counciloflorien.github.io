@@ -2,7 +2,7 @@
 layout: card
 title: Hobbit-lore
 grand_parent: Cards
-parent: Hobbit-lore
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/hobbit-lore/

@@ -2,7 +2,7 @@
 layout: card
 title: Fair Travels in Dark-domains
 grand_parent: Cards
-parent: Fair Travels in Dark-domains
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/fair-travels-in-dark-domains/

@@ -2,7 +2,7 @@
 layout: card
 title: Grond
 grand_parent: Cards
-parent: Grond
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/grond/

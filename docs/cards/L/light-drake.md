@@ -2,7 +2,7 @@
 layout: card
 title: Light-drake
 grand_parent: Cards
-parent: Light-drake
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/light-drake/

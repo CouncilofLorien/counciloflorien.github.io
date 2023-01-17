@@ -2,7 +2,7 @@
 layout: card
 title: Arouse Minions
 grand_parent: Cards
-parent: Arouse Minions
+parent: A
 search_exclude: false
 nav_exclude: true
 permalink: /cards/arouse-minions/

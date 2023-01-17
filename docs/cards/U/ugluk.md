@@ -2,7 +2,7 @@
 layout: card
 title: Ugluk
 grand_parent: Cards
-parent: Ugluk
+parent: U
 search_exclude: false
 nav_exclude: true
 permalink: /cards/ugluk/

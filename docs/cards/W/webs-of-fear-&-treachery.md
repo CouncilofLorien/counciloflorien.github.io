@@ -2,7 +2,7 @@
 layout: card
 title: Webs of Fear & Treachery
 grand_parent: Cards
-parent: Webs of Fear & Treachery
+parent: W
 search_exclude: false
 nav_exclude: true
 permalink: /cards/webs-of-fear-&-treachery/

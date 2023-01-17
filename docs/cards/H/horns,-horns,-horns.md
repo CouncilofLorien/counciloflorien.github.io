@@ -2,7 +2,7 @@
 layout: card
 title: Horns, Horns, Horns
 grand_parent: Cards
-parent: Horns, Horns, Horns
+parent: H
 search_exclude: false
 nav_exclude: true
 permalink: /cards/horns,-horns,-horns/

@@ -2,7 +2,7 @@
 layout: card
 title: Fled into Darkness
 grand_parent: Cards
-parent: Fled into Darkness
+parent: F
 search_exclude: false
 nav_exclude: true
 permalink: /cards/fled-into-darkness/

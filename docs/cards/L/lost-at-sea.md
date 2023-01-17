@@ -2,7 +2,7 @@
 layout: card
 title: Lost at Sea
 grand_parent: Cards
-parent: Lost at Sea
+parent: L
 search_exclude: false
 nav_exclude: true
 permalink: /cards/lost-at-sea/

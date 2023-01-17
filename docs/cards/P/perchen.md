@@ -2,7 +2,7 @@
 layout: card
 title: Perchen
 grand_parent: Cards
-parent: Perchen
+parent: P
 search_exclude: false
 nav_exclude: true
 permalink: /cards/perchen/

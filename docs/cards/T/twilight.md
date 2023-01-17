@@ -2,7 +2,7 @@
 layout: card
 title: Twilight
 grand_parent: Cards
-parent: Twilight
+parent: T
 search_exclude: false
 nav_exclude: true
 permalink: /cards/twilight/

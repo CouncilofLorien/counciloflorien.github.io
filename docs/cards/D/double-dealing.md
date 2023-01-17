@@ -2,7 +2,7 @@
 layout: card
 title: Double-dealing
 grand_parent: Cards
-parent: Double-dealing
+parent: D
 search_exclude: false
 nav_exclude: true
 permalink: /cards/double-dealing/

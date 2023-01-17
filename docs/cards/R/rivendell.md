@@ -2,7 +2,7 @@
 layout: card
 title: Rivendell
 grand_parent: Cards
-parent: Rivendell
+parent: R
 search_exclude: false
 nav_exclude: true
 permalink: /cards/rivendell/

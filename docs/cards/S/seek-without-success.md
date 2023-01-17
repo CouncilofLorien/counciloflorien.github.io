@@ -2,7 +2,7 @@
 layout: card
 title: Seek without Success
 grand_parent: Cards
-parent: Seek without Success
+parent: S
 search_exclude: false
 nav_exclude: true
 permalink: /cards/seek-without-success/

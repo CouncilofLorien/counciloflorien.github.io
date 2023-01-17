@@ -2,7 +2,7 @@
 layout: card
 title: Great-road
 grand_parent: Cards
-parent: Great-road
+parent: G
 search_exclude: false
 nav_exclude: true
 permalink: /cards/great-road/
