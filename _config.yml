@@ -262,6 +262,8 @@ callouts:
     color: minion-site-text
   balrog-site-text:
     color: balrog-site-text
+  fw-site:
+    color: fw-site
   fw-site-text:
     color: fw-site-text
   hero-resource-unlimited:
