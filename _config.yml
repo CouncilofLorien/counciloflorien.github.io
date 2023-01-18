@@ -73,7 +73,7 @@ search:
   tokenizer_separator: /[\s\-/]+/
   # Display the relative url in search results
   # Supports true (default) or false
-  rel_url: false
+  rel_url: true
   # Enable or disable the search button that appears in the bottom right corner of every page
   # Supports true or false (default)
   button: true
@@ -216,6 +216,8 @@ callouts:
     color: hero-resource
   minion-resource:
     color: minion-resource
+  minion-resource-reprint:
+    color: minion-resource-reprint
   hero-resource-name:
     color: hero-resource-title
   minion-resource-name:
@@ -234,6 +236,8 @@ callouts:
     color: character
   minion-character:
     color: minion-character
+  minion-character-reprint:
+    color: minion-character-reprint
   character-frame:
     color: character-title
   minion-character-frame:
