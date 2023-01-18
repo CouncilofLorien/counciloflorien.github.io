@@ -286,6 +286,13 @@ callouts:
     color: hero-site-unlimited
   hero-site-reprint:
     color: hero-site-reprint
+  stage-resource:
+    color: stage-resource
+  stage-resource-name:
+    color: stage-resource-name
+  stage-resource-text:
+    color: stage-resource-text
+  
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
