@@ -28,7 +28,7 @@ permalink: /cards/pallando/
 > > Unique. His controlling player may keep one more card than normal in his hand. Opponent must discard his cards face up.  "They came therefore in the shape of Men, though they were never young and aged only slowly..." ---LotR  Home Site: Grey Havens 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【6/11】</div>
+> > <div class="card-shield">【6/9】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -48,7 +48,7 @@ permalink: /cards/pallando/
 > > Unique. His controlling player may keep one more card than normal in his hand. Opponent must discard his cards face up.  "They came therefore in the shape of Men, though they were never young and aged only slowly..." ---LotR  Home Site: Grey Havens 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【6/11】</div>
+> > <div class="card-shield">【6/9】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The White Hand_
@@ -88,5 +88,5 @@ permalink: /cards/pallando/
 > > Unique. His controlling player may keep one more card than normal in his hand. Opponent must discard his cards face up.  "They came therefore in the shape of Men, though they were never young and aged only slowly..." ---LotR  Home Site: Grey Havens 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【6/11】</div>
+> > <div class="card-shield">【6/9】</div>
 > > <div class="card-corruption">&nbsp;</div>
