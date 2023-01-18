@@ -59,7 +59,7 @@ permalink: /cards/radagast/
 > > <div class="character-card-name">Radagast</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 22[gi] 5![](/assets/images/di.svg)
+> > 22![](/assets/images/gi.svg) 5![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Scout/Ranger/Diplomat Fallen-wizard
