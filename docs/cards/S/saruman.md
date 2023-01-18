@@ -28,7 +28,7 @@ permalink: /cards/saruman/
 > > Unique. May tap to use a palantir. At the beginning of each of his end-of-turn phases, he may tap to take one "spell" card from his discard pile and return it to his hand.  "His face was long, with a high forehead, he had deep darkling eyes, hard to fathom..." ---LotRIII  Home Site: Isengard 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【6/13】</div>
+> > <div class="card-shield">【6/9】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -48,7 +48,7 @@ permalink: /cards/saruman/
 > > Unique. May tap to use a palantir. At the beginning of each of his end-of-turn phases, he may tap to take one "spell" card from his discard pile and return it to his hand.  "His face was long, with a high forehead, he had deep darkling eyes, hard to fathom..." ---LotRIII  Home Site: Isengard 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【6/13】</div>
+> > <div class="card-shield">【6/9】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Starter Set_
@@ -68,7 +68,7 @@ permalink: /cards/saruman/
 > > Unique. May tap to use a palantir. At the beginning of each of his end-of-turn phases, he may tap to take one "spell" card from his discard pile and return it to his hand.  "His face was long, with a high forehead, he had deep darkling eyes, hard to fathom..." ---LotRIII  Home Site: Isengard 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【6/13】</div>
+> > <div class="card-shield">【6/9】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The White Hand_
@@ -108,5 +108,5 @@ permalink: /cards/saruman/
 > > Unique. May tap to use a palantir. At the beginning of each of his end-of-turn phases, he may tap to take one "spell" card from his discard pile and return it to his hand.  "His face was long, with a high forehead, he had deep darkling eyes, hard to fathom..." ---LotRIII  Home Site: Isengard 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【6/13】</div>
+> > <div class="card-shield">【6/9】</div>
 > > <div class="card-corruption">&nbsp;</div>
