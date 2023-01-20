@@ -26,7 +26,7 @@ Your Wizard has decided to ask a Hobbit to obtain a few useful items; all travel
 ### Special Rules
 
 {: .float-right }
-![](/assets/images/BillThePony.png)
+![](/assets/images/BillThePony.gif)
 
 - Start any Hobbit at Bag End with Bill the Pony and equip the Hobbit with any one minor item and any one major item. If Bill is not available, just start without him. Any duplicated unique starting items are put into the play decks. Bill the Pony is not considered unique for this scenario. In addition, Bill may be brought into play at any haven. Multiple copies of Bill in play can be interpreted as Gilly the Pony, Nob the Pony, etc.
 - You may not reveal yourself with a Wizard card.
