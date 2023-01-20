@@ -25,7 +25,7 @@ permalink: /cards/when-i-know-anything/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Light enchantment. Playable on a sage during the site phase at a site where "Information" is playable. Tap sage and site. Tap sage to modify one corruption check by a character in his company by +3. Sage makes a corruption check. <br>_"'You are an interfering old busybody,' laughed Bilbo, 'but I expect you know best, as usual.' 'I do-when I know anything...'"_ ***---LotRI*** 
+> > Light enchantment. Playable on a sage during the site phase at a site where "Information" is playable. Tap sage and site. Tap sage to modify one corruption check by a character in his company by +3. Sage makes a corruption check. <br>_“‘You are an interfering old busybody,' laughed Bilbo, 'but I expect you know best, as usual.' 'I do-when I know anything...’”_ ***---LotRI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

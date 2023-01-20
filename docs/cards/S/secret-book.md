@@ -25,7 +25,7 @@ permalink: /cards/secret-book/
 > Minor Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Cannot be included with a starting company. Discard: to untap a Free-hold \[![](/assets/images/free-hold.svg)] or to make Information playable at any Ruins & Lairs \[![](/assets/images/ruinlair.svg)]. Cannot be duplicated in a given party. <br>_"'I must be the only one in the Shire, besides you and Frodo, that has ever seen the old fellow's secret book.'"_ ***---LotRI*** 
+> > Cannot be included with a starting company. Discard: to untap a Free-hold \[![](/assets/images/free-hold.svg)] or to make Information playable at any Ruins & Lairs \[![](/assets/images/ruinlair.svg)]. Cannot be duplicated in a given party. <br>_“‘I must be the only one in the Shire, besides you and Frodo, that has ever seen the old fellow's secret book.’”_ ***---LotRI*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/secret-book/
 > Minor Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Cannot be included with a starting company. Discard: to untap a Free-hold \[![](/assets/images/free-hold.svg)] or to make Information playable at any Ruins & Lairs \[![](/assets/images/ruinlair.svg)]. Cannot be duplicated in a given party. <br>_"'I must be the only one in the Shire, besides you and Frodo, that has ever seen the old fellow's secret book.'"_ ***---LotRI*** 
+> > Cannot be included with a starting company. Discard: to untap a Free-hold \[![](/assets/images/free-hold.svg)] or to make Information playable at any Ruins & Lairs \[![](/assets/images/ruinlair.svg)]. Cannot be duplicated in a given party. <br>_“‘I must be the only one in the Shire, besides you and Frodo, that has ever seen the old fellow's secret book.’”_ ***---LotRI*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

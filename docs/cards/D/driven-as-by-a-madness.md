@@ -25,7 +25,7 @@ permalink: /cards/driven-as-by-a-madness/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Magic._ _Spirit-_Magic.__ Playable on a spirit-magic-using character facing an attack. All characters in his company receive +2 prowess and -1 body against the attack. Unless he is a Ringwraith, character makes a corruption check modified by -3. Cannot be duplicated against a given attack. <br>_"...a great fear fell on all, defender and foe alike..."_ ***---LotRV*** 
+> > _Magic._ _Spirit-_Magic.__ Playable on a spirit-magic-using character facing an attack. All characters in his company receive +2 prowess and -1 body against the attack. Unless he is a Ringwraith, character makes a corruption check modified by -3. Cannot be duplicated against a given attack. <br>_“...a great fear fell on all, defender and foe alike...”_ ***---LotRV*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

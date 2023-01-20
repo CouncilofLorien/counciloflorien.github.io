@@ -25,7 +25,7 @@ permalink: /cards/barrow-downs/
 > Cardolan
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Undead - 1 strike with 8 prowess; each character wounded must make a corruption check  "...the green mounds, and the stone-rings upon the hills and on the hollows..."_ ***---LotRI*** 
+> > Nearest Haven: Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Undead - 1 strike with 8 prowess; each character wounded must make a corruption check  “...the green mounds, and the stone-rings upon the hills and on the hollows...”_ ***---LotRI*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/barrow-downs/
 > Cardolan
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Undead - 1 strike with 8 prowess; each character wounded must make a corruption check  "...the green mounds, and the stone-rings upon the hills and on the hollows..."_ ***---LotRI*** 
+> > Nearest Haven: Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Undead - 1 strike with 8 prowess; each character wounded must make a corruption check  “...the green mounds, and the stone-rings upon the hills and on the hollows...”_ ***---LotRI*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/barrow-downs/
 > Cardolan
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Undead - 1 strike with 8 prowess; each character wounded must make a corruption check  "...the green mounds, and the stone-rings upon the hills and on the hollows..."_ ***---LotRI*** 
+> > Nearest Haven: Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Undead - 1 strike with 8 prowess; each character wounded must make a corruption check  “...the green mounds, and the stone-rings upon the hills and on the hollows...”_ ***---LotRI*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>

@@ -25,7 +25,7 @@ permalink: /cards/dire-wolves/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Wolves._ Four strikes. Two wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. <br>_"...the evil packs that lived under the shadow of the goblin-infested mountains, over the Edge of the Wild on the borders of the unknown. Wolves of that sort smell keened than goblins, and do not need to see you to catch you!"_ ***---Hob*** 
+> > _Wolves._ Four strikes. Two wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. <br>_“...the evil packs that lived under the shadow of the goblin-infested mountains, over the Edge of the Wild on the borders of the unknown. Wolves of that sort smell keened than goblins, and do not need to see you to catch you!"_ ***---Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【8/4】</div>
@@ -45,7 +45,7 @@ permalink: /cards/dire-wolves/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Wolves._ Four strikes.   "A shuddering howl broke from him, as if he were a captain summoning his pack to assault.'"_ ***---LotRII*** 
+> > _Wolves._ Four strikes.   "A shuddering howl broke from him, as if he were a captain summoning his pack to assault.’”_ ***---LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【8/&ndash;】</div>
@@ -65,7 +65,7 @@ permalink: /cards/dire-wolves/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Wolves._ Four strikes. Two wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. <br>_"...the evil packs that lived under the shadow of the goblin-infested mountains, over the Edge of the Wild on the borders of the unknown. Wolves of that sort smell keened than goblins, and do not need to see you to catch you!"_ ***---Hob*** 
+> > _Wolves._ Four strikes. Two wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. <br>_“...the evil packs that lived under the shadow of the goblin-infested mountains, over the Edge of the Wild on the borders of the unknown. Wolves of that sort smell keened than goblins, and do not need to see you to catch you!"_ ***---Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【8/4】</div>

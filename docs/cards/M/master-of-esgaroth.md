@@ -25,7 +25,7 @@ permalink: /cards/master-of-esgaroth/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable at the end of the organization phase on a moving company. If the company moves to a Border-hold \[![](/assets/images/border-hold.svg)], it can take a second movement/hazard phase immediately following its first movement/hazard phase. <br>_"'...What help we can offer shall be yours, and we trust your gratitude when your kingdom is regained.'"_ ***---Hob*** 
+> > Playable at the end of the organization phase on a moving company. If the company moves to a Border-hold \[![](/assets/images/border-hold.svg)], it can take a second movement/hazard phase immediately following its first movement/hazard phase. <br>_“‘...What help we can offer shall be yours, and we trust your gratitude when your kingdom is regained.’”_ ***---Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

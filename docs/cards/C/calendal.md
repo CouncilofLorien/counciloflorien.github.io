@@ -25,7 +25,7 @@ permalink: /cards/calendal/
 > Scout/Sage Elf
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ May tap to use a Palantir he bears. +2 direct influence against Elves and Elf factions. <br>_"...lingered in the twilight of our Sun and Moon but loved best the stars."_ ***---Hob***  <br><br>**Home Site:** Dol Guldur 
+> > _**Unique.**_ May tap to use a Palantir he bears. +2 direct influence against Elves and Elf factions. <br>_“...lingered in the twilight of our Sun and Moon but loved best the stars."_ ***---Hob***  <br><br>**Home Site:** Dol Guldur 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【4/8】</div>

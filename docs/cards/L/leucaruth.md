@@ -25,7 +25,7 @@ permalink: /cards/leucaruth/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ May be played at Irerock. _Dragon._ Two strikes. If Doors of Night is in play, may also be played keyed to Grey Mountain Narrows, Iron Hills, Northern Rhovanion, and Withered Heath; and may also be played at sites in these regions. <br>_"Dragons steal gold and jewels..."_ ***---Hob***  
+> > _**Unique.**_ May be played at Irerock. _Dragon._ Two strikes. If Doors of Night is in play, may also be played keyed to Grey Mountain Narrows, Iron Hills, Northern Rhovanion, and Withered Heath; and may also be played at sites in these regions. <br>_"Dragons steal gold and jewels...”_ ***---Hob***  
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【16/8】</div>
@@ -45,7 +45,7 @@ permalink: /cards/leucaruth/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ May be played at Irerock. _Dragon._ Two strikes. If Doors of Night is in play, may also be played keyed to Grey Mountain Narrows, Iron Hills, Northern Rhovanion, and Withered Heath; and may also be played at sites in these regions. <br>_"Dragons steal gold and jewels..."_ ***---Hob***  
+> > _**Unique.**_ May be played at Irerock. _Dragon._ Two strikes. If Doors of Night is in play, may also be played keyed to Grey Mountain Narrows, Iron Hills, Northern Rhovanion, and Withered Heath; and may also be played at sites in these regions. <br>_"Dragons steal gold and jewels...”_ ***---Hob***  
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【16/8】</div>

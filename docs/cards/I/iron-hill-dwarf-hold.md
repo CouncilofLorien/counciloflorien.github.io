@@ -25,7 +25,7 @@ permalink: /cards/iron-hill-dwarf-hold/
 > Iron Hills
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien  "'...go specially to my cousin Dain in the Iron Hills, for he has many people well-armed, and dwells nearest to this place.'"_ ***---LotRIII*** 
+> > Nearest Haven: Lorien  “‘...go specially to my cousin Dain in the Iron Hills, for he has many people well-armed, and dwells nearest to this place.’”_ ***---LotRIII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;3&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/iron-hill-dwarf-hold/
 > Iron Hills
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien  "'...go specially to my cousin Dain in the Iron Hills, for he has many people well-armed, and dwells nearest to this place.'"_ ***---LotRIII*** 
+> > Nearest Haven: Lorien  “‘...go specially to my cousin Dain in the Iron Hills, for he has many people well-armed, and dwells nearest to this place.’”_ ***---LotRIII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;3&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/iron-hill-dwarf-hold/
 > Iron Hills
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dwarves-4 strikes with 10 prowess  "'But nothing will we give, not even a loaf's worth, under threat of force'"_ ***---Hob*** 
+> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dwarves-4 strikes with 10 prowess  “‘But nothing will we give, not even a loaf's worth, under threat of force’”_ ***---Hob*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/iron-hill-dwarf-hold/
 > Iron Hills
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien  "'...go specially to my cousin Dain in the Iron Hills, for he has many people well-armed, and dwells nearest to this place.'"_ ***---LotRIII*** 
+> > Nearest Haven: Lorien  “‘...go specially to my cousin Dain in the Iron Hills, for he has many people well-armed, and dwells nearest to this place.’”_ ***---LotRIII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;3&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -105,7 +105,7 @@ permalink: /cards/iron-hill-dwarf-hold/
 > Iron Hills
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dwarves-4 strikes with 10 prowess  "'But nothing will we give, not even a loaf's worth, under threat of force'"_ ***---Hob*** 
+> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dwarves-4 strikes with 10 prowess  “‘But nothing will we give, not even a loaf's worth, under threat of force’”_ ***---Hob*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

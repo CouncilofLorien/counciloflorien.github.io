@@ -25,7 +25,7 @@ permalink: /cards/dorelas/
 > Warrior/Sage Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_   "...the sun went down like blood behind Pinnath Gelin..."_ ***---LotRV***  <br><br>**Home Site:** Lond Galen 
+> > _**Unique.**_   “...the sun went down like blood behind Pinnath Gelin...”_ ***---LotRV***  <br><br>**Home Site:** Lond Galen 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【2/7】</div>

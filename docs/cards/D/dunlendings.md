@@ -25,7 +25,7 @@ permalink: /cards/dunlendings/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Dunnish Clan-Hold if the influence check is greater than 9. <br>_Standard Modifications:_ Men (-1), Dunadain (-1), Dwarves (-1). <br>_"...in the hills of Dunland a remnant lingered of an old people, the former inhabitants of much of Gondor."_ ***---LotR*** 
+> > _**Unique.**_ Playable at Dunnish Clan-Hold if the influence check is greater than 9. <br>_Standard Modifications:_ Men (-1), Dunadain (-1), Dwarves (-1). <br>_“...in the hills of Dunland a remnant lingered of an old people, the former inhabitants of much of Gondor."_ ***---LotR*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/dunlendings/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Dunnish Clan-Hold if the influence check is greater than 9. <br>_Standard Modifications:_ Men (-1), Dunadain (-1), Dwarves (-1). <br>_"...in the hills of Dunland a remnant lingered of an old people, the former inhabitants of much of Gondor."_ ***---LotR*** 
+> > _**Unique.**_ Playable at Dunnish Clan-Hold if the influence check is greater than 9. <br>_Standard Modifications:_ Men (-1), Dunadain (-1), Dwarves (-1). <br>_“...in the hills of Dunland a remnant lingered of an old people, the former inhabitants of much of Gondor."_ ***---LotR*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/dunlendings/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Dunnish Clan-Hold if the influence check is greater than 9. <br>_Standard Modifications:_ Men (-1), Dunadain (-1), Dwarves (-1). <br>_"...in the hills of Dunland a remnant lingered of an old people, the former inhabitants of much of Gondor."_ ***---LotR*** 
+> > _**Unique.**_ Playable at Dunnish Clan-Hold if the influence check is greater than 9. <br>_Standard Modifications:_ Men (-1), Dunadain (-1), Dwarves (-1). <br>_“...in the hills of Dunland a remnant lingered of an old people, the former inhabitants of much of Gondor."_ ***---LotR*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

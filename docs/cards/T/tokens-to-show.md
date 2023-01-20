@@ -25,7 +25,7 @@ permalink: /cards/tokens-to-show/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Minion characters may store resources (items and events) during the end-of-turn phase as though it were their organization phase. Cannot be duplicated. Discard when any play deck is exhausted.   "...he held up first a short sword such as Sam had carried, and next a grey cloak with an elven-brooch, and last the coat of mithril-mail..."_ ***---LotRV*** 
+> > Minion characters may store resources (items and events) during the end-of-turn phase as though it were their organization phase. Cannot be duplicated. Discard when any play deck is exhausted.   “...he held up first a short sword such as Sam had carried, and next a grey cloak with an elven-brooch, and last the coat of mithril-mail...”_ ***---LotRV*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/tokens-to-show/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Minion characters may store resources (items and events) during the end-of-turn phase as though it were their organization phase. Cannot be duplicated. Discard when any play deck is exhausted.   "...he held up first a short sword such as Sam had carried, and next a grey cloak with an elven-brooch, and last the coat of mithril-mail..."_ ***---LotRV*** 
+> > Minion characters may store resources (items and events) during the end-of-turn phase as though it were their organization phase. Cannot be duplicated. Discard when any play deck is exhausted.   “...he held up first a short sword such as Sam had carried, and next a grey cloak with an elven-brooch, and last the coat of mithril-mail...”_ ***---LotRV*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

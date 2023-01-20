@@ -25,7 +25,7 @@ permalink: /cards/men-of-anorien/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Minas Tirith if the influence check is greater than 7.  <br>_Standard Modifications:_ Dunedain (+1). <br>_"...many rills rippling through the green from the highlands down to the Anduin. Yet the herdsmen and husbandmen that dwelt there were not many..."_ ***---LotRV*** 
+> > _**Unique.**_ Playable at Minas Tirith if the influence check is greater than 7.  <br>_Standard Modifications:_ Dunedain (+1). <br>_“...many rills rippling through the green from the highlands down to the Anduin. Yet the herdsmen and husbandmen that dwelt there were not many...”_ ***---LotRV*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/men-of-anorien/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Minas Tirith if the influence check is greater than 7.  <br>_Standard Modifications:_ Dunedain (+1). <br>_"...many rills rippling through the green from the highlands down to the Anduin. Yet the herdsmen and husbandmen that dwelt there were not many..."_ ***---LotRV*** 
+> > _**Unique.**_ Playable at Minas Tirith if the influence check is greater than 7.  <br>_Standard Modifications:_ Dunedain (+1). <br>_“...many rills rippling through the green from the highlands down to the Anduin. Yet the herdsmen and husbandmen that dwelt there were not many...”_ ***---LotRV*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/men-of-anorien/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Minas Tirith if the influence check is greater than 7.  <br>_Standard Modifications:_ Dunedain (+1). <br>_"...many rills rippling through the green from the highlands down to the Anduin. Yet the herdsmen and husbandmen that dwelt there were not many..."_ ***---LotRV*** 
+> > _**Unique.**_ Playable at Minas Tirith if the influence check is greater than 7.  <br>_Standard Modifications:_ Dunedain (+1). <br>_“...many rills rippling through the green from the highlands down to the Anduin. Yet the herdsmen and husbandmen that dwelt there were not many...”_ ***---LotRV*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

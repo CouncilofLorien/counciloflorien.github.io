@@ -25,7 +25,7 @@ permalink: /cards/mount-gundabad/
 > Gundabad
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Orcs - 2 strikes with 8 prowess  "...around and beneath the great mountain Gundabad of the North...a vast host was assembled..."_ ***---Hob*** 
+> > Nearest Haven: Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Orcs - 2 strikes with 8 prowess  “...around and beneath the great mountain Gundabad of the North...a vast host was assembled...”_ ***---Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/mount-gundabad/
 > Gundabad
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Orcs - 2 strikes with 8 prowess  "...around and beneath the great mountain Gundabad of the North...a vast host was assembled..."_ ***---Hob*** 
+> > Nearest Haven: Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Orcs - 2 strikes with 8 prowess  “...around and beneath the great mountain Gundabad of the North...a vast host was assembled...”_ ***---Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/mount-gundabad/
 > Gundabad
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Orcs - 2 strikes with 8 prowess  "...around and beneath the great mountain Gundabad of the North...a vast host was assembled..."_ ***---Hob*** 
+> > Nearest Haven: Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Orcs - 2 strikes with 8 prowess  “...around and beneath the great mountain Gundabad of the North...a vast host was assembled...”_ ***---Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>

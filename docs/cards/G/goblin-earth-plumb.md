@@ -25,7 +25,7 @@ permalink: /cards/goblin-earth-plumb/
 > Minor Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable only on an Orc or Troll. +1 to all rolls required for bearer's company to move to adjacent Under-deeps sites. <br>_"Now goblins are cruel, wicked, and bad-hearted. They make no beautiful things, but they make many clever ones... It is not unlikely thay invented some of the machines that have since troubled the world..."_ ***---Hob*** 
+> > Playable only on an Orc or Troll. +1 to all rolls required for bearer's company to move to adjacent Under-deeps sites. <br>_"Now goblins are cruel, wicked, and bad-hearted. They make no beautiful things, but they make many clever ones... It is not unlikely thay invented some of the machines that have since troubled the world...”_ ***---Hob*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

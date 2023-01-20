@@ -25,7 +25,7 @@ permalink: /cards/scabbard-of-chalcedony/
 > Minor Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Hoard item._ -1 body to all failed strikes against bearer. Cannot be duplicated on a given character.   "...his scabbard of chalcedony..."_ ***---LotRII*** 
+> > _Hoard item._ -1 body to all failed strikes against bearer. Cannot be duplicated on a given character.   “...his scabbard of chalcedony...”_ ***---LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

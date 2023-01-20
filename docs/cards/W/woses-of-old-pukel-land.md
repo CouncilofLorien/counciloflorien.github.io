@@ -25,7 +25,7 @@ permalink: /cards/woses-of-old-pukel-land/
 > Wose Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Wose Passage-hold if the influence check is greater than 8. <br>_Standard Modifications:_ none. <br>_"'Remnants of an older time they be, living few and secretly, wild and wary as the beasts.'"_ ***---LotRV*** 
+> > _**Unique.**_ Playable at Wose Passage-hold if the influence check is greater than 8. <br>_Standard Modifications:_ none. <br>_“‘Remnants of an older time they be, living few and secretly, wild and wary as the beasts.’”_ ***---LotRV*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/woses-of-old-pukel-land/
 > Wose Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Wose Passage-hold if the influence check is greater than 8. <br>_Standard Modifications:_ none. <br>_"'Remnants of an older time they be, living few and secretly, wild and wary as the beasts.'"_ ***---LotRV*** 
+> > _**Unique.**_ Playable at Wose Passage-hold if the influence check is greater than 8. <br>_Standard Modifications:_ none. <br>_“‘Remnants of an older time they be, living few and secretly, wild and wary as the beasts.’”_ ***---LotRV*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

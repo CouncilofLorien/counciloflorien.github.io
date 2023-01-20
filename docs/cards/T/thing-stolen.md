@@ -25,7 +25,7 @@ permalink: /cards/thing-stolen/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable after a faction is successfully played at a Shadow-hold \[![](/assets/images/shadow-hold.svg)] or Dark-hold \[![](/assets/images/dark-hold.svg)]. Tap a character at the site to play a non-unique, non-hoard minor or major item (even if the item is not normally playable there).   "...Shagrat could not both fight and keep hold of his treasure..."_ ***---LotRVI*** 
+> > Playable after a faction is successfully played at a Shadow-hold \[![](/assets/images/shadow-hold.svg)] or Dark-hold \[![](/assets/images/dark-hold.svg)]. Tap a character at the site to play a non-unique, non-hoard minor or major item (even if the item is not normally playable there).   “...Shagrat could not both fight and keep hold of his treasure...”_ ***---LotRVI*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

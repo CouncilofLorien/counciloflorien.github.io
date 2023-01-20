@@ -65,7 +65,7 @@ permalink: /cards/lost-in-free-domains/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a moving company. The company must do nothing during its site phase if it has a Free-domain \[![](/assets/images/free-domain.svg)] in its site path  "...and they were also no longer certain of the direction in which they were going."_ ***---LotRI*** 
+> > Playable on a moving company. The company must do nothing during its site phase if it has a Free-domain \[![](/assets/images/free-domain.svg)] in its site path  “...and they were also no longer certain of the direction in which they were going."_ ***---LotRI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -85,7 +85,7 @@ permalink: /cards/lost-in-free-domains/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a moving company. The company must do nothing during its site phase if it has a Free-domain \[![](/assets/images/free-domain.svg)] in its site path  "...and they were also no longer certain of the direction in which they were going."_ ***---LotRI*** 
+> > Playable on a moving company. The company must do nothing during its site phase if it has a Free-domain \[![](/assets/images/free-domain.svg)] in its site path  “...and they were also no longer certain of the direction in which they were going."_ ***---LotRI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

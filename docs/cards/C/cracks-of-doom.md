@@ -25,7 +25,7 @@ permalink: /cards/cracks-of-doom/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Only playable if The One Ring is at Mount Doom during the site phase. Its bearer must make a corruption check modified by -4. If successful, The One Ring is destroyed and its bearer's player wins. <br>_"...on the brink of the chasm, at the very Crack of Doom, stood Frodo..."_ ***---LotRVI*** 
+> > Only playable if The One Ring is at Mount Doom during the site phase. Its bearer must make a corruption check modified by -4. If successful, The One Ring is destroyed and its bearer's player wins. <br>_“...on the brink of the chasm, at the very Crack of Doom, stood Frodo...”_ ***---LotRVI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/cracks-of-doom/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Only playable if The One Ring is at Mount Doom during the site phase. Its bearer must make a corruption check modified by -4. If successful, The One Ring is destroyed and its bearer's player wins. <br>_"...on the brink of the chasm, at the very Crack of Doom, stood Frodo..."_ ***---LotRVI*** 
+> > Only playable if The One Ring is at Mount Doom during the site phase. Its bearer must make a corruption check modified by -4. If successful, The One Ring is destroyed and its bearer's player wins. <br>_“...on the brink of the chasm, at the very Crack of Doom, stood Frodo...”_ ***---LotRVI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

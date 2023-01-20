@@ -25,7 +25,7 @@ permalink: /cards/dunnish-clan-hold/
 > Dunland
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Rivendell  "'...they hid themselves in secret places in the mountains and had no dealings with other men...'"_ ***---LotRV*** 
+> > Nearest Haven: Rivendell  “‘...they hid themselves in secret places in the mountains and had no dealings with other men...’”_ ***---LotRV*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/dunnish-clan-hold/
 > Dunland
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Rivendell  "'...they hid themselves in secret places in the mountains and had no dealings with other men...'"_ ***---LotRV*** 
+> > Nearest Haven: Rivendell  “‘...they hid themselves in secret places in the mountains and had no dealings with other men...’”_ ***---LotRV*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/dunnish-clan-hold/
 > Dunland
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Items (minor, major*) *-weapon, armor, shield, or helmet only <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 7 prowess (detainment against covert company)  "Dunland...a green and pleasant country. September came in with golden days and silver nights..."_ ***---LotRVI*** 
+> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Items (minor, major*) *-weapon, armor, shield, or helmet only <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 7 prowess (detainment against covert company)  "Dunland...a green and pleasant country. September came in with golden days and silver nights...”_ ***---LotRVI*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

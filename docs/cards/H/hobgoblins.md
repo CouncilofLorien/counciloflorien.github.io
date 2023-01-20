@@ -25,7 +25,7 @@ permalink: /cards/hobgoblins/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Orcs._ Two strikes. Two Wilderness \[![](/assets/images/wilderness.svg)] in site path are required. <br>_"'...Before you could get round Mirkwood in the North you would be right among the slopes of the Grey Mountains, and they are simply stiff with goblins, hobgoblins, and orcs of the worst description."_ ***---Hob*** 
+> > _Orcs._ Two strikes. Two Wilderness \[![](/assets/images/wilderness.svg)] in site path are required. <br>_“‘...Before you could get round Mirkwood in the North you would be right among the slopes of the Grey Mountains, and they are simply stiff with goblins, hobgoblins, and orcs of the worst description."_ ***---Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【10/&ndash;】</div>
@@ -45,7 +45,7 @@ permalink: /cards/hobgoblins/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Orcs._ Two strikes. Two Wilderness \[![](/assets/images/wilderness.svg)] in site path are required. <br>_"...devouring people waked suddenly from their sleep."_ ***---Hob*** 
+> > _Orcs._ Two strikes. Two Wilderness \[![](/assets/images/wilderness.svg)] in site path are required. <br>_“...devouring people waked suddenly from their sleep."_ ***---Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【10/&ndash;】</div>
@@ -65,7 +65,7 @@ permalink: /cards/hobgoblins/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Orcs._ Two strikes. Two Wilderness \[![](/assets/images/wilderness.svg)] in site path are required. <br>_"'...Before you could get round Mirkwood in the North you would be right among the slopes of the Grey Mountains, and they are simply stiff with goblins, hobgoblins, and orcs of the worst description."_ ***---Hob*** 
+> > _Orcs._ Two strikes. Two Wilderness \[![](/assets/images/wilderness.svg)] in site path are required. <br>_“‘...Before you could get round Mirkwood in the North you would be right among the slopes of the Grey Mountains, and they are simply stiff with goblins, hobgoblins, and orcs of the worst description."_ ***---Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【10/&ndash;】</div>

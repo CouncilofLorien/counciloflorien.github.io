@@ -25,7 +25,7 @@ permalink: /cards/ireful-flames/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Affects the following sites: The Lonely Mountain, Irerock, Zarak Dum, and Gold Hill. For any item played at one of these sites, its player must remove an item from his hand that would itself be playable at the site. Cannot be revealed as an on-guard card. Discard Ireful Flames when any play deck is exhausted. <br>_"'...It has been said that dragon-fire could melt and consume the Rings of Power...'"_ ***---LotRI*** 
+> > Affects the following sites: The Lonely Mountain, Irerock, Zarak Dum, and Gold Hill. For any item played at one of these sites, its player must remove an item from his hand that would itself be playable at the site. Cannot be revealed as an on-guard card. Discard Ireful Flames when any play deck is exhausted. <br>_“‘...It has been said that dragon-fire could melt and consume the Rings of Power...’”_ ***---LotRI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

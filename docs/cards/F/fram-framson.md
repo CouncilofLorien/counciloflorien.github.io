@@ -25,7 +25,7 @@ permalink: /cards/fram-framson/
 > Warrior/Ranger Man
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ He may not be one of the starting characters. He may only be brought into play at his home site. +3 prowess against Dragon and Drake attacks. <br>_"Of Fram Framson's ancestor...the tales recount that he slew Scatha the Worm and fashioned a necklace from the dragon's teeth..."_ ***---Kuduk Lore***  <br><br>**Home Site:** Framsburg 
+> > _**Unique.**_ He may not be one of the starting characters. He may only be brought into play at his home site. +3 prowess against Dragon and Drake attacks. <br>_"Of Fram Framson's ancestor...the tales recount that he slew Scatha the Worm and fashioned a necklace from the dragon's teeth...”_ ***---Kuduk Lore***  <br><br>**Home Site:** Framsburg 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【6/8】</div>

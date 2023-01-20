@@ -65,7 +65,7 @@ permalink: /cards/beorns-house/
 > Anduin Vales
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 10 prowess (detainment against covert company)  "...a courtyard, three walls of which were formed by the wooden house and its long wings."_ ***---Hob*** 
+> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 10 prowess (detainment against covert company)  “...a courtyard, three walls of which were formed by the wooden house and its long wings."_ ***---Hob*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -105,7 +105,7 @@ permalink: /cards/beorns-house/
 > Anduin Vales
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 10 prowess (detainment against covert company)  "...a courtyard, three walls of which were formed by the wooden house and its long wings."_ ***---Hob*** 
+> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 10 prowess (detainment against covert company)  “...a courtyard, three walls of which were formed by the wooden house and its long wings."_ ***---Hob*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -125,7 +125,7 @@ permalink: /cards/beorns-house/
 > Anduin Vales
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 10 prowess (detainment against covert company)  "...a courtyard, three walls of which were formed by the wooden house and its long wings."_ ***---Hob*** 
+> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 10 prowess (detainment against covert company)  “...a courtyard, three walls of which were formed by the wooden house and its long wings."_ ***---Hob*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>

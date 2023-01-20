@@ -25,7 +25,7 @@ permalink: /cards/orc-raiders/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Orcs._ Four strikes. <br>_"...Ugluk's followers leaped over him and cut down another with their broad-bladed swords. It was the yellow-fanged guard. His bloody body fell...still clutching his long saw-edged knife."_ ***---LotRIII*** 
+> > _Orcs._ Four strikes. <br>_“...Ugluk's followers leaped over him and cut down another with their broad-bladed swords. It was the yellow-fanged guard. His bloody body fell...still clutching his long saw-edged knife."_ ***---LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【6/&ndash;】</div>
@@ -45,7 +45,7 @@ permalink: /cards/orc-raiders/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Orcs._ Four strikes. <br>_"...Ugluk's followers leaped over him and cut down another with their broad-bladed swords. It was the yellow-fanged guard. His bloody body fell...still clutching his long saw-edged knife."_ ***---LotRIII*** 
+> > _Orcs._ Four strikes. <br>_“...Ugluk's followers leaped over him and cut down another with their broad-bladed swords. It was the yellow-fanged guard. His bloody body fell...still clutching his long saw-edged knife."_ ***---LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【6/&ndash;】</div>
@@ -65,7 +65,7 @@ permalink: /cards/orc-raiders/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Orcs._ Four strikes. <br>_"...Ugluk's followers leaped over him and cut down another with their broad-bladed swords. It was the yellow-fanged guard. His bloody body fell...still clutching his long saw-edged knife."_ ***---LotRIII*** 
+> > _Orcs._ Four strikes. <br>_“...Ugluk's followers leaped over him and cut down another with their broad-bladed swords. It was the yellow-fanged guard. His bloody body fell...still clutching his long saw-edged knife."_ ***---LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【6/&ndash;】</div>

@@ -65,7 +65,7 @@ permalink: /cards/watcher-in-the-water/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Animal. Each character in the company faces one strike. May also be played at Moria.   "'...the arms were all guided by one purpose. Something has crept, or has been driven out of dark waters under the mountains'"_ ***---LotRII*** 
+> > Animal. Each character in the company faces one strike. May also be played at Moria.   “‘...the arms were all guided by one purpose. Something has crept, or has been driven out of dark waters under the mountains’”_ ***---LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【8/&ndash;】</div>
@@ -85,7 +85,7 @@ permalink: /cards/watcher-in-the-water/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Animal. Each character in the company faces one strike. May also be played at Moria.   "'...the arms were all guided by one purpose. Something has crept, or has been driven out of dark waters under the mountains'"_ ***---LotRII*** 
+> > Animal. Each character in the company faces one strike. May also be played at Moria.   “‘...the arms were all guided by one purpose. Something has crept, or has been driven out of dark waters under the mountains’”_ ***---LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【8/&ndash;】</div>

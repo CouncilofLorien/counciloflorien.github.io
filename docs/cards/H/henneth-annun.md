@@ -25,7 +25,7 @@ permalink: /cards/henneth-annun/
 > Ithilien
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien  "'...Window of the Sunset, Henneth Annun, fairest of all the falls of Ithilien, land of many fountains.'"_ ***---LotRIV*** 
+> > Nearest Haven: Lorien  “‘...Window of the Sunset, Henneth Annun, fairest of all the falls of Ithilien, land of many fountains.’”_ ***---LotRIV*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/henneth-annun/
 > Ithilien
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien  "'...Window of the Sunset, Henneth Annun, fairest of all the falls of Ithilien, land of many fountains.'"_ ***---LotRIV*** 
+> > Nearest Haven: Lorien  “‘...Window of the Sunset, Henneth Annun, fairest of all the falls of Ithilien, land of many fountains.’”_ ***---LotRIV*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/henneth-annun/
 > Ithilien
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien  "'...Window of the Sunset, Henneth Annun, fairest of all the falls of Ithilien, land of many fountains.'"_ ***---LotRIV*** 
+> > Nearest Haven: Lorien  “‘...Window of the Sunset, Henneth Annun, fairest of all the falls of Ithilien, land of many fountains.’”_ ***---LotRIV*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>

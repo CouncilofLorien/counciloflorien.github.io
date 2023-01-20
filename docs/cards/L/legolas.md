@@ -25,7 +25,7 @@ permalink: /cards/legolas/
 > Warrior/Diplomat Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Wood-elves faction. <br>_"Only Legolas still stepped as lightly as ever, his feet hardly seeming to press the grass, leaving no footprint as he passed..."_ ***---LotRIII***  <br><br>**Home Site:** Thranduil's Halls 
+> > _**Unique.**_ +2 direct influence against the Wood-elves faction. <br>_"Only Legolas still stepped as lightly as ever, his feet hardly seeming to press the grass, leaving no footprint as he passed...”_ ***---LotRIII***  <br><br>**Home Site:** Thranduil's Halls 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【5/8】</div>
@@ -45,7 +45,7 @@ permalink: /cards/legolas/
 > Warrior/Diplomat Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Wood-elves faction. <br>_"Only Legolas still stepped as lightly as ever, his feet hardly seeming to press the grass, leaving no footprint as he passed..."_ ***---LotRIII***  <br><br>**Home Site:** Thranduil's Halls 
+> > _**Unique.**_ +2 direct influence against the Wood-elves faction. <br>_"Only Legolas still stepped as lightly as ever, his feet hardly seeming to press the grass, leaving no footprint as he passed...”_ ***---LotRIII***  <br><br>**Home Site:** Thranduil's Halls 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【5/8】</div>
@@ -65,7 +65,7 @@ permalink: /cards/legolas/
 > Warrior/Diplomat Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Wood-elves faction. <br>_"Only Legolas still stepped as lightly as ever, his feet hardly seeming to press the grass, leaving no footprint as he passed..."_ ***---LotRIII***  <br><br>**Home Site:** Thranduil's Halls 
+> > _**Unique.**_ +2 direct influence against the Wood-elves faction. <br>_"Only Legolas still stepped as lightly as ever, his feet hardly seeming to press the grass, leaving no footprint as he passed...”_ ***---LotRIII***  <br><br>**Home Site:** Thranduil's Halls 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【5/8】</div>
@@ -85,7 +85,7 @@ permalink: /cards/legolas/
 > Warrior/Diplomat Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Wood-elves faction. <br>_"Only Legolas still stepped as lightly as ever, his feet hardly seeming to press the grass, leaving no footprint as he passed..."_ ***---LotRIII***  <br><br>**Home Site:** Thranduil's Halls 
+> > _**Unique.**_ +2 direct influence against the Wood-elves faction. <br>_"Only Legolas still stepped as lightly as ever, his feet hardly seeming to press the grass, leaving no footprint as he passed...”_ ***---LotRIII***  <br><br>**Home Site:** Thranduil's Halls 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【5/8】</div>

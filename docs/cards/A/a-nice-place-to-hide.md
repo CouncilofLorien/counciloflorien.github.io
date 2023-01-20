@@ -25,7 +25,7 @@ permalink: /cards/a-nice-place-to-hide/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Scout only._ Tap scout to cancel an attack against his company.   "'And a nice place to choose, too. The River seems set on taking us right into their arms!'"_ ***---LotRII*** 
+> > _Scout only._ Tap scout to cancel an attack against his company.   “‘And a nice place to choose, too. The River seems set on taking us right into their arms!’”_ ***---LotRII*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/a-nice-place-to-hide/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Scout only._ Tap scout to cancel an attack against his company.   "'And a nice place to choose, too. The River seems set on taking us right into their arms!'"_ ***---LotRII*** 
+> > _Scout only._ Tap scout to cancel an attack against his company.   “‘And a nice place to choose, too. The River seems set on taking us right into their arms!’”_ ***---LotRII*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

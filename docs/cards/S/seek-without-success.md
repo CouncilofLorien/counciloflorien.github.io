@@ -25,7 +25,7 @@ permalink: /cards/seek-without-success/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Discard a ranger agent at target company's new site. Company must immediately return to its site of origin.   "'...Together we sought for Gollum down the whole length of Wilderland, without hope. And without success."_ ***---LotRI***  
+> > Discard a ranger agent at target company's new site. Company must immediately return to its site of origin.   “‘...Together we sought for Gollum down the whole length of Wilderland, without hope. And without success."_ ***---LotRI***  
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

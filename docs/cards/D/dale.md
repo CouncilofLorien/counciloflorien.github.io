@@ -45,7 +45,7 @@ permalink: /cards/dale/
 > Northern Rhovanion
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 5 prowess (detainment against covert company)  "'You should see the waterways of Dale...and the mountains, and the pools...and the stone-paved roads of many colors!'"_ ***---LotRII*** 
+> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 5 prowess (detainment against covert company)  “‘You should see the waterways of Dale...and the mountains, and the pools...and the stone-paved roads of many colors!’”_ ***---LotRII*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/dale/
 > Northern Rhovanion
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 5 prowess (detainment against covert company)  "'You should see the waterways of Dale...and the mountains, and the pools...and the stone-paved roads of many colors!'"_ ***---LotRII*** 
+> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 5 prowess (detainment against covert company)  “‘You should see the waterways of Dale...and the mountains, and the pools...and the stone-paved roads of many colors!’”_ ***---LotRII*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

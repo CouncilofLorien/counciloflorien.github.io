@@ -25,7 +25,7 @@ permalink: /cards/back-to-the-fray/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Each player may remove any number of characters from his discard pile and shuffle them into his play deck.   "...flung them into the fray; Easterlings with axes, and Variags of Khand, Southrons in scarlet, and out of the Far Harad black men..."_ ***---LotRI*** 
+> > Each player may remove any number of characters from his discard pile and shuffle them into his play deck.   “...flung them into the fray; Easterlings with axes, and Variags of Khand, Southrons in scarlet, and out of the Far Harad black men...”_ ***---LotRI*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

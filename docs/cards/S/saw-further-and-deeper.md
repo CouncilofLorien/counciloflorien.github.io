@@ -25,7 +25,7 @@ permalink: /cards/saw-further-and-deeper/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable only if your Wizard is not revealed. Your general influence is increased by 5. Your Wizard may only be brought into play at his home site. Discard when you bring your Wizard into play. Cannot be duplicated by a given player.   "...he welcomed Mithrandir at the Grey Havens, knowing whence he came and whither he would return."_ ***---LotR*** 
+> > Playable only if your Wizard is not revealed. Your general influence is increased by 5. Your Wizard may only be brought into play at his home site. Discard when you bring your Wizard into play. Cannot be duplicated by a given player.   “...he welcomed Mithrandir at the Grey Havens, knowing whence he came and whither he would return."_ ***---LotR*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

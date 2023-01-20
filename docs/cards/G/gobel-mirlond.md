@@ -25,7 +25,7 @@ permalink: /cards/gobel-mirlond/
 > Harondor
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Minas Morgul <br>_**Playable:**_ Items (minor, major*) *-Weapon, armor, shield, or helmet only <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 8 prowess (detainment against covert company)  "...one of the most ancient Numenorean colonies along the Bay of Belfalas, founded duringthe noontide of Numernor's imperial expansion."_ ***---Kuduk Lore*** 
+> > Nearest Darkhaven: Minas Morgul <br>_**Playable:**_ Items (minor, major*) *-Weapon, armor, shield, or helmet only <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 8 prowess (detainment against covert company)  “...one of the most ancient Numenorean colonies along the Bay of Belfalas, founded duringthe noontide of Numernor's imperial expansion."_ ***---Kuduk Lore*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/gobel-mirlond/
 > Harondor
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Edhellond <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Men-4 strikes with 9 prowess (detainment)   "...could be seen in clear weather even on the coasts of Gondor or far upon the western sea."_ ***---LotR*** 
+> > Nearest Haven: Edhellond <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Men-4 strikes with 9 prowess (detainment)   “...could be seen in clear weather even on the coasts of Gondor or far upon the western sea."_ ***---LotR*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/gobel-mirlond/
 > Harondor
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Edhellond <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Men-4 strikes with 9 prowess (detainment)   "...could be seen in clear weather even on the coasts of Gondor or far upon the western sea."_ ***---LotR*** 
+> > Nearest Haven: Edhellond <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Men-4 strikes with 9 prowess (detainment)   “...could be seen in clear weather even on the coasts of Gondor or far upon the western sea."_ ***---LotR*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>

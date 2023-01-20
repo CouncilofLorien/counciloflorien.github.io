@@ -25,7 +25,7 @@ permalink: /cards/voices-of-malice/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Sage only._ Tap a sage to discard one non-environment hazard permanent-event on non-environment hazard long-event. Sage makes a corruption check modified by -2. <br>_"...so their voices, which uttered only his will and malice, were filled with evil and horror."_ ***---LotRI*** 
+> > _Sage only._ Tap a sage to discard one non-environment hazard permanent-event on non-environment hazard long-event. Sage makes a corruption check modified by -2. <br>_“...so their voices, which uttered only his will and malice, were filled with evil and horror."_ ***---LotRI*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/voices-of-malice/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Sage only._ Tap a sage to discard one non-environment hazard permanent-event on non-environment hazard long-event. Sage makes a corruption check modified by -2. <br>_"...so their voices, which uttered only his will and malice, were filled with evil and horror."_ ***---LotRI*** 
+> > _Sage only._ Tap a sage to discard one non-environment hazard permanent-event on non-environment hazard long-event. Sage makes a corruption check modified by -2. <br>_“...so their voices, which uttered only his will and malice, were filled with evil and horror."_ ***---LotRI*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/voices-of-malice/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Sage only._ Tap a sage to discard one non-environment hazard permanent-event on non-environment hazard long-event. Sage makes a corruption check modified by -2. <br>_"...so their voices, which uttered only his will and malice, were filled with evil and horror."_ ***---LotRI*** 
+> > _Sage only._ Tap a sage to discard one non-environment hazard permanent-event on non-environment hazard long-event. Sage makes a corruption check modified by -2. <br>_“...so their voices, which uttered only his will and malice, were filled with evil and horror."_ ***---LotRI*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

@@ -85,7 +85,7 @@ permalink: /cards/scroll-of-isildur/
 > Greater Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ When a gold Ring is tested in a company bearing the Scroll of Isildur, the random value obtained is modified by +1. May be stored at Barad-dur for 5 marshalling points.   "'...there lies...unread, I guess, by any save Saruman and myself, since the kings failed, a scroll that Isildur made himself."_ ***---LotRII*** 
+> > _**Unique.**_ When a gold Ring is tested in a company bearing the Scroll of Isildur, the random value obtained is modified by +1. May be stored at Barad-dur for 5 marshalling points.   “‘...there lies...unread, I guess, by any save Saruman and myself, since the kings failed, a scroll that Isildur made himself."_ ***---LotRII*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -125,7 +125,7 @@ permalink: /cards/scroll-of-isildur/
 > Greater Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ When a gold Ring is tested in a company bearing the Scroll of Isildur, the random value obtained is modified by +1. May be stored at Barad-dur for 5 marshalling points.   "'...there lies...unread, I guess, by any save Saruman and myself, since the kings failed, a scroll that Isildur made himself."_ ***---LotRII*** 
+> > _**Unique.**_ When a gold Ring is tested in a company bearing the Scroll of Isildur, the random value obtained is modified by +1. May be stored at Barad-dur for 5 marshalling points.   “‘...there lies...unread, I guess, by any save Saruman and myself, since the kings failed, a scroll that Isildur made himself."_ ***---LotRII*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

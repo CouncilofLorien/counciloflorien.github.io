@@ -25,7 +25,7 @@ permalink: /cards/squint-eyed-brute/
 > Warrior Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _Half-orc._ Discard on a body check result of 9. <br>_"...one of their own number had also disappeared in the night, none other than Bill Ferny's squint-eyed companion."_ ***---LotRI***  <br><br>**Home Site:** Any Dark-hold 
+> > _Half-orc._ Discard on a body check result of 9. <br>_“...one of their own number had also disappeared in the night, none other than Bill Ferny's squint-eyed companion."_ ***---LotRI***  <br><br>**Home Site:** Any Dark-hold 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【3/9】</div>

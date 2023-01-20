@@ -25,7 +25,7 @@ permalink: /cards/riders-of-rohan/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Edoras if the influence check is greater than 9.  <br>_Standard Modifications:_ Hobbits (+1), Dunedain (+1). <br>_"...tall and long-limbed; their hair, flaxen pale, flowed under their light helms, and streamed in long braids behind them; their faces were stern and keen..."_ ***---LotRIII*** 
+> > _**Unique.**_ Playable at Edoras if the influence check is greater than 9.  <br>_Standard Modifications:_ Hobbits (+1), Dunedain (+1). <br>_“...tall and long-limbed; their hair, flaxen pale, flowed under their light helms, and streamed in long braids behind them; their faces were stern and keen...”_ ***---LotRIII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/riders-of-rohan/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Edoras if the influence check is greater than 9.  <br>_Standard Modifications:_ Hobbits (+1), Dunedain (+1). <br>_"...tall and long-limbed; their hair, flaxen pale, flowed under their light helms, and streamed in long braids behind them; their faces were stern and keen..."_ ***---LotRIII*** 
+> > _**Unique.**_ Playable at Edoras if the influence check is greater than 9.  <br>_Standard Modifications:_ Hobbits (+1), Dunedain (+1). <br>_“...tall and long-limbed; their hair, flaxen pale, flowed under their light helms, and streamed in long braids behind them; their faces were stern and keen...”_ ***---LotRIII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/riders-of-rohan/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Edoras if the influence check is greater than 9.  <br>_Standard Modifications:_ Hobbits (+1), Dunedain (+1). <br>_"...tall and long-limbed; their hair, flaxen pale, flowed under their light helms, and streamed in long braids behind them; their faces were stern and keen..."_ ***---LotRIII*** 
+> > _**Unique.**_ Playable at Edoras if the influence check is greater than 9.  <br>_Standard Modifications:_ Hobbits (+1), Dunedain (+1). <br>_“...tall and long-limbed; their hair, flaxen pale, flowed under their light helms, and streamed in long braids behind them; their faces were stern and keen...”_ ***---LotRIII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -85,7 +85,7 @@ permalink: /cards/riders-of-rohan/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Edoras if the influence check is greater than 9.  <br>_Standard Modifications:_ Hobbits (+1), Dunedain (+1). <br>_"...tall and long-limbed; their hair, flaxen pale, flowed under their light helms, and streamed in long braids behind them; their faces were stern and keen..."_ ***---LotRIII*** 
+> > _**Unique.**_ Playable at Edoras if the influence check is greater than 9.  <br>_Standard Modifications:_ Hobbits (+1), Dunedain (+1). <br>_“...tall and long-limbed; their hair, flaxen pale, flowed under their light helms, and streamed in long braids behind them; their faces were stern and keen...”_ ***---LotRIII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

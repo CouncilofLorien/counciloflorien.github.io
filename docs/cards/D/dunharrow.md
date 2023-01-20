@@ -25,7 +25,7 @@ permalink: /cards/dunharrow/
 > Rohan
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien  "'The Paths of the Dead!... If there be in truth such paths,' said Theoden, 'their gate is in Dunharrow; but no living man may pass it.'"_ ***---LotRV*** 
+> > Nearest Haven: Lorien  “‘The Paths of the Dead!... If there be in truth such paths,' said Theoden, 'their gate is in Dunharrow; but no living man may pass it.’”_ ***---LotRV*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/dunharrow/
 > Rohan
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien  "'The Paths of the Dead!... If there be in truth such paths,' said Theoden, 'their gate is in Dunharrow; but no living man may pass it.'"_ ***---LotRV*** 
+> > Nearest Haven: Lorien  “‘The Paths of the Dead!... If there be in truth such paths,' said Theoden, 'their gate is in Dunharrow; but no living man may pass it.’”_ ***---LotRV*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/dunharrow/
 > Rohan
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Minas Morgul <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 6 prowess (detainment against covert company)  "'But in Dunharrow the people may long defend themselves, and if the battle go ill, thither will come all who escape.'"_ ***---LotRIII*** 
+> > Nearest Darkhaven: Minas Morgul <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 6 prowess (detainment against covert company)  “‘But in Dunharrow the people may long defend themselves, and if the battle go ill, thither will come all who escape.’”_ ***---LotRIII*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

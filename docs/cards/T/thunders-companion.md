@@ -45,7 +45,7 @@ permalink: /cards/thunders-companion/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Giants._ Three strikes. <br>_"...there are fell voices on the air; and these stones are aimed at us."_ ***---LotRII*** 
+> > _Giants._ Three strikes. <br>_“...there are fell voices on the air; and these stones are aimed at us."_ ***---LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【9/&ndash;】</div>

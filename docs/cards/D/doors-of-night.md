@@ -25,7 +25,7 @@ permalink: /cards/doors-of-night/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ When Doors of Night is played, all resource environment cards in play are immediately discarded, and all resource environment effects are canceled. Cannot be duplicated. <br>_"...already the fire in the sky was burning out, and the smouldering hills were fading, while ash-grey evening crept over the fields."_ ***---LotRV*** 
+> > _Environment._ When Doors of Night is played, all resource environment cards in play are immediately discarded, and all resource environment effects are canceled. Cannot be duplicated. <br>_“...already the fire in the sky was burning out, and the smouldering hills were fading, while ash-grey evening crept over the fields."_ ***---LotRV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/doors-of-night/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ When Doors of Night is played, all resource environment cards in play are immediately discarded, and all resource environment effects are canceled. Cannot be duplicated. <br>_"...already the fire in the sky was burning out, and the smouldering hills were fading, while ash-grey evening crept over the fields."_ ***---LotRV*** 
+> > _Environment._ When Doors of Night is played, all resource environment cards in play are immediately discarded, and all resource environment effects are canceled. Cannot be duplicated. <br>_“...already the fire in the sky was burning out, and the smouldering hills were fading, while ash-grey evening crept over the fields."_ ***---LotRV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

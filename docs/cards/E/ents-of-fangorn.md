@@ -25,7 +25,7 @@ permalink: /cards/ents-of-fangorn/
 > Ent Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Wellinghall if the influence check is greater than 9.  <br>_Standard Modifications:_ Hobbits (+4). <br>_"Learn now the lore of Living Creatures! ...Ent the firstborn, old as mountains..."_ ***---LotRIII*** 
+> > _**Unique.**_ Playable at Wellinghall if the influence check is greater than 9.  <br>_Standard Modifications:_ Hobbits (+4). <br>_"Learn now the lore of Living Creatures! ...Ent the firstborn, old as mountains...”_ ***---LotRIII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/ents-of-fangorn/
 > Ent Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Wellinghall if the influence check is greater than 9.  <br>_Standard Modifications:_ Hobbits (+4). <br>_"Learn now the lore of Living Creatures! ...Ent the firstborn, old as mountains..."_ ***---LotRIII*** 
+> > _**Unique.**_ Playable at Wellinghall if the influence check is greater than 9.  <br>_Standard Modifications:_ Hobbits (+4). <br>_"Learn now the lore of Living Creatures! ...Ent the firstborn, old as mountains...”_ ***---LotRIII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/ents-of-fangorn/
 > Ent Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Wellinghall if the influence check is greater than 9.  <br>_Standard Modifications:_ Hobbits (+4). <br>_"Learn now the lore of Living Creatures! ...Ent the firstborn, old as mountains..."_ ***---LotRIII*** 
+> > _**Unique.**_ Playable at Wellinghall if the influence check is greater than 9.  <br>_Standard Modifications:_ Hobbits (+4). <br>_"Learn now the lore of Living Creatures! ...Ent the firstborn, old as mountains...”_ ***---LotRIII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

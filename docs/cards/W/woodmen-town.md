@@ -25,7 +25,7 @@ permalink: /cards/woodmen-town/
 > Western Mirkwood
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien  "...all the wide forest between was given to the Beornings and the Woodmen."_ ***---LotR*** 
+> > Nearest Haven: Lorien  “...all the wide forest between was given to the Beornings and the Woodmen."_ ***---LotR*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/woodmen-town/
 > Western Mirkwood
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien  "...all the wide forest between was given to the Beornings and the Woodmen."_ ***---LotR*** 
+> > Nearest Haven: Lorien  “...all the wide forest between was given to the Beornings and the Woodmen."_ ***---LotR*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>

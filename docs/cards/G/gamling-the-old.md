@@ -25,7 +25,7 @@ permalink: /cards/gamling-the-old/
 > Warrior Man
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_  "'Maybe, we have a thousand to fight on foot... But most of them have seen too many winters, as I have, or too few, as my son's son here.'"_ ***---LotRIII***  <br><br>**Home Site:** Edoras 
+> > _**Unique.**_  “‘Maybe, we have a thousand to fight on foot... But most of them have seen too many winters, as I have, or too few, as my son's son here.’”_ ***---LotRIII***  <br><br>**Home Site:** Edoras 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【3/7】</div>
@@ -45,7 +45,7 @@ permalink: /cards/gamling-the-old/
 > Warrior Man
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_  "'Maybe, we have a thousand to fight on foot... But most of them have seen too many winters, as I have, or too few, as my son's son here.'"_ ***---LotRIII***  <br><br>**Home Site:** Edoras 
+> > _**Unique.**_  “‘Maybe, we have a thousand to fight on foot... But most of them have seen too many winters, as I have, or too few, as my son's son here.’”_ ***---LotRIII***  <br><br>**Home Site:** Edoras 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【3/7】</div>

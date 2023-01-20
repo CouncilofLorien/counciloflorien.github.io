@@ -25,7 +25,7 @@ permalink: /cards/gift-of-comprehension/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable on a Dunadan at a Haven \[![](/assets/images/free-haven.svg)]; tap the Dunadan. Gives the bearer sage skill.   "The Dunadain alone of all the races of Men knew and spoke an Elvish tongue; for their forefathers had learned Sindarin..."_ ***---LotR*** 
+> > Playable on a Dunadan at a Haven \[![](/assets/images/free-haven.svg)]; tap the Dunadan. Gives the bearer sage skill.   "The Dunadain alone of all the races of Men knew and spoke an Elvish tongue; for their forefathers had learned Sindarin...”_ ***---LotR*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

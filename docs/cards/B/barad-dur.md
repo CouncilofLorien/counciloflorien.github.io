@@ -65,7 +65,7 @@ permalink: /cards/barad-dur/
 > Gorgoroth
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Minas Morgul <br>_**Special:**_ Treat this site as a Darkhaven during the Untap Phase. Any gold ring at this site is automatically tested during the site phase (the site need not be entered). All ring tests at this site are modified by -3. <br>_"...rising black, blacker and darker than the vast shades amid which it stood, the cruel pinnacle and iron crown of the topmost tower of Barad-dur."_ ***---LotRVI*** 
+> > Nearest Darkhaven: Minas Morgul <br>_**Special:**_ Treat this site as a Darkhaven during the Untap Phase. Any gold ring at this site is automatically tested during the site phase (the site need not be entered). All ring tests at this site are modified by -3. <br>_“...rising black, blacker and darker than the vast shades amid which it stood, the cruel pinnacle and iron crown of the topmost tower of Barad-dur."_ ***---LotRVI*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/barad-dur/
 > Gorgoroth
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Minas Morgul <br>_**Special:**_ Treat this site as a Darkhaven during the Untap Phase. Any gold ring at this site is automatically tested during the site phase (the site need not be entered). All ring tests at this site are modified by -3. <br>_"...rising black, blacker and darker than the vast shades amid which it stood, the cruel pinnacle and iron crown of the topmost tower of Barad-dur."_ ***---LotRVI*** 
+> > Nearest Darkhaven: Minas Morgul <br>_**Special:**_ Treat this site as a Darkhaven during the Untap Phase. Any gold ring at this site is automatically tested during the site phase (the site need not be entered). All ring tests at this site are modified by -3. <br>_“...rising black, blacker and darker than the vast shades amid which it stood, the cruel pinnacle and iron crown of the topmost tower of Barad-dur."_ ***---LotRVI*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>

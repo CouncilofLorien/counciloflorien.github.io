@@ -25,7 +25,7 @@ permalink: /cards/dunlending-spy/
 > Scout Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_   "...a squint-eyed ill-favoured fellow..."_ ***---LotRI***  <br><br>**Home Site:** Bree 
+> > _**Unique.**_   “...a squint-eyed ill-favoured fellow...”_ ***---LotRI***  <br><br>**Home Site:** Bree 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【2/8】</div>

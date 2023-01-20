@@ -25,7 +25,7 @@ permalink: /cards/gloin/
 > Warrior/Diplomat Dwarf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against Blue Mountain Dwarves faction, +1 prowess against Orcs. +1 direct influence against Dwarves and Dwarf factions. <br>_"His beard, very long and forked, was white...and around his neck hung a chain..."_ ***---LotRII***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
+> > _**Unique.**_ +2 direct influence against Blue Mountain Dwarves faction, +1 prowess against Orcs. +1 direct influence against Dwarves and Dwarf factions. <br>_"His beard, very long and forked, was white...and around his neck hung a chain...”_ ***---LotRII***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【5/7】</div>
@@ -45,7 +45,7 @@ permalink: /cards/gloin/
 > Warrior/Diplomat Dwarf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against Blue Mountain Dwarves faction, +1 prowess against Orcs. +1 direct influence against Dwarves and Dwarf factions. <br>_"His beard, very long and forked, was white...and around his neck hung a chain..."_ ***---LotRII***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
+> > _**Unique.**_ +2 direct influence against Blue Mountain Dwarves faction, +1 prowess against Orcs. +1 direct influence against Dwarves and Dwarf factions. <br>_"His beard, very long and forked, was white...and around his neck hung a chain...”_ ***---LotRII***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【5/7】</div>
@@ -65,7 +65,7 @@ permalink: /cards/gloin/
 > Warrior/Diplomat Dwarf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against Blue Mountain Dwarves faction, +1 prowess against Orcs. +1 direct influence against Dwarves and Dwarf factions. <br>_"His beard, very long and forked, was white...and around his neck hung a chain..."_ ***---LotRII***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
+> > _**Unique.**_ +2 direct influence against Blue Mountain Dwarves faction, +1 prowess against Orcs. +1 direct influence against Dwarves and Dwarf factions. <br>_"His beard, very long and forked, was white...and around his neck hung a chain...”_ ***---LotRII***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【5/7】</div>

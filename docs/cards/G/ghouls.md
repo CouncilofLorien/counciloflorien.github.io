@@ -85,7 +85,7 @@ permalink: /cards/ghouls/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Undead._ Five strikes. <br>_"'Yes, yes...all dead, all rotten.'"_ ***---LotRIV*** 
+> > _Undead._ Five strikes. <br>_“‘Yes, yes...all dead, all rotten.’”_ ***---LotRIV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【7/&ndash;】</div>
@@ -105,7 +105,7 @@ permalink: /cards/ghouls/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Undead._ Five strikes. <br>_"'Yes, yes...all dead, all rotten.'"_ ***---LotRIV*** 
+> > _Undead._ Five strikes. <br>_“‘Yes, yes...all dead, all rotten.’”_ ***---LotRIV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【7/&ndash;】</div>

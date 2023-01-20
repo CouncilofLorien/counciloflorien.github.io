@@ -25,7 +25,7 @@ permalink: /cards/blue-mountain-dwarf-hold/
 > Numeriador
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Grey Havens  "...and soon afterwards they removed and wandered in Eriador, until at last they made a home in exile in the east of the Ered Luin beyond the Lune."_ ***---LotR*** 
+> > Nearest Haven: Grey Havens  “...and soon afterwards they removed and wandered in Eriador, until at last they made a home in exile in the east of the Ered Luin beyond the Lune."_ ***---LotR*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/blue-mountain-dwarf-hold/
 > Numeriador
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Grey Havens  "...and soon afterwards they removed and wandered in Eriador, until at last they made a home in exile in the east of the Ered Luin beyond the Lune."_ ***---LotR*** 
+> > Nearest Haven: Grey Havens  “...and soon afterwards they removed and wandered in Eriador, until at last they made a home in exile in the east of the Ered Luin beyond the Lune."_ ***---LotR*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/blue-mountain-dwarf-hold/
 > Numeriador
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Grey Havens  "...and soon afterwards they removed and wandered in Eriador, until at last they made a home in exile in the east of the Ered Luin beyond the Lune."_ ***---LotR*** 
+> > Nearest Haven: Grey Havens  “...and soon afterwards they removed and wandered in Eriador, until at last they made a home in exile in the east of the Ered Luin beyond the Lune."_ ***---LotR*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>

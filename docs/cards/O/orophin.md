@@ -25,7 +25,7 @@ permalink: /cards/orophin/
 > Warrior/Ranger Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ -1 to all of his corruption checks. -1 to influence checks against factions. <br>_"...the woodland folk were altogether noiseless in their movements."_ ***---LotRII***  <br><br>**Home Site:** Lorien 
+> > _**Unique.**_ -1 to all of his corruption checks. -1 to influence checks against factions. <br>_“...the woodland folk were altogether noiseless in their movements."_ ***---LotRII***  <br><br>**Home Site:** Lorien 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【2/7】</div>
@@ -45,7 +45,7 @@ permalink: /cards/orophin/
 > Warrior/Ranger Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ -1 to all of his corruption checks. -1 to influence checks against factions. <br>_"...the woodland folk were altogether noiseless in their movements."_ ***---LotRII***  <br><br>**Home Site:** Lorien 
+> > _**Unique.**_ -1 to all of his corruption checks. -1 to influence checks against factions. <br>_“...the woodland folk were altogether noiseless in their movements."_ ***---LotRII***  <br><br>**Home Site:** Lorien 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【2/7】</div>
@@ -65,7 +65,7 @@ permalink: /cards/orophin/
 > Warrior/Ranger Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ -1 to all of his corruption checks. -1 to influence checks against factions. <br>_"...the woodland folk were altogether noiseless in their movements."_ ***---LotRII***  <br><br>**Home Site:** Lorien 
+> > _**Unique.**_ -1 to all of his corruption checks. -1 to influence checks against factions. <br>_“...the woodland folk were altogether noiseless in their movements."_ ***---LotRII***  <br><br>**Home Site:** Lorien 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【2/7】</div>

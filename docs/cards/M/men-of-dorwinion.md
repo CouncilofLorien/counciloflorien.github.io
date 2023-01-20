@@ -25,7 +25,7 @@ permalink: /cards/men-of-dorwinion/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Shrel-Kain if the influence check is greater than 6.  <br>_Standard Modifications:_ Men (+1). <br>_"...but this wine, it would seem, was the heady vintage of the great gardens of Dorwinion, not meant for his soldiers or his servants..."_ ***---Hob*** 
+> > _**Unique.**_ Playable at Shrel-Kain if the influence check is greater than 6.  <br>_Standard Modifications:_ Men (+1). <br>_“...but this wine, it would seem, was the heady vintage of the great gardens of Dorwinion, not meant for his soldiers or his servants...”_ ***---Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/men-of-dorwinion/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Shrel-Kain if the influence check is greater than 6.  <br>_Standard Modifications:_ Men (+1). <br>_"...but this wine, it would seem, was the heady vintage of the great gardens of Dorwinion, not meant for his soldiers or his servants..."_ ***---Hob*** 
+> > _**Unique.**_ Playable at Shrel-Kain if the influence check is greater than 6.  <br>_Standard Modifications:_ Men (+1). <br>_“...but this wine, it would seem, was the heady vintage of the great gardens of Dorwinion, not meant for his soldiers or his servants...”_ ***---Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -85,7 +85,7 @@ permalink: /cards/men-of-dorwinion/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Shrel-Kain if the influence check is greater than 6.  <br>_Standard Modifications:_ Men (+1). <br>_"...but this wine, it would seem, was the heady vintage of the great gardens of Dorwinion, not meant for his soldiers or his servants..."_ ***---Hob*** 
+> > _**Unique.**_ Playable at Shrel-Kain if the influence check is greater than 6.  <br>_Standard Modifications:_ Men (+1). <br>_“...but this wine, it would seem, was the heady vintage of the great gardens of Dorwinion, not meant for his soldiers or his servants...”_ ***---Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

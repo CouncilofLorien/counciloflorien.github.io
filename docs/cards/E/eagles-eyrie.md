@@ -25,7 +25,7 @@ permalink: /cards/eagles-eyrie/
 > Anduin Vales
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien  "...a wide shelf of rock on the mountain-side. There was no path down on to it save by flying; and no path down off it except by jumping over a precipice."_ ***---Hob*** 
+> > Nearest Haven: Lorien  “...a wide shelf of rock on the mountain-side. There was no path down on to it save by flying; and no path down off it except by jumping over a precipice."_ ***---Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/eagles-eyrie/
 > Anduin Vales
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien  "...a wide shelf of rock on the mountain-side. There was no path down on to it save by flying; and no path down off it except by jumping over a precipice."_ ***---Hob*** 
+> > Nearest Haven: Lorien  “...a wide shelf of rock on the mountain-side. There was no path down on to it save by flying; and no path down off it except by jumping over a precipice."_ ***---Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>

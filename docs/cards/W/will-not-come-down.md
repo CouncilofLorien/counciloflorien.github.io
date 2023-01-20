@@ -25,7 +25,7 @@ permalink: /cards/will-not-come-down/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on an untapped agent. Tap the agent who may then make an influence attempt against an ally, faction, or character. Unused general influence modification does not apply. If successful, the target is not discarded, but rather is returned to its owner's hand.   "'...He has gone up into the high places, among the birches that he loves best, and he will not come down.'"_ ***---LotRIII*** 
+> > Playable on an untapped agent. Tap the agent who may then make an influence attempt against an ally, faction, or character. Unused general influence modification does not apply. If successful, the target is not discarded, but rather is returned to its owner's hand.   “‘...He has gone up into the high places, among the birches that he loves best, and he will not come down.’”_ ***---LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

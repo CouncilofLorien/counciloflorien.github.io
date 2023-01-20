@@ -25,7 +25,7 @@ permalink: /cards/exhalation-of-decay/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on an Undead hazard creature in your discard pile. If target Undead can attack, brig it into play as a creature that attacks immediately (not counting against the hazard limit). The attacks prowess is modified by -1. <br>_"...wavering and blowing like a noisome exhalation of decay, a corpse-light, a light the illuminated nothing."_ ***---LotRIV*** 
+> > Playable on an Undead hazard creature in your discard pile. If target Undead can attack, brig it into play as a creature that attacks immediately (not counting against the hazard limit). The attacks prowess is modified by -1. <br>_“...wavering and blowing like a noisome exhalation of decay, a corpse-light, a light the illuminated nothing."_ ***---LotRIV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/exhalation-of-decay/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on an Undead hazard creature in your discard pile. If target Undead can attack, brig it into play as a creature that attacks immediately (not counting against the hazard limit). The attacks prowess is modified by -1. <br>_"...wavering and blowing like a noisome exhalation of decay, a corpse-light, a light the illuminated nothing."_ ***---LotRIV*** 
+> > Playable on an Undead hazard creature in your discard pile. If target Undead can attack, brig it into play as a creature that attacks immediately (not counting against the hazard limit). The attacks prowess is modified by -1. <br>_“...wavering and blowing like a noisome exhalation of decay, a corpse-light, a light the illuminated nothing."_ ***---LotRIV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

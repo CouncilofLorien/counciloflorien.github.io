@@ -45,7 +45,7 @@ permalink: /cards/zarak-dum/
 > Angmar
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Dargon-1 strike with 11 prowess  "'While an armed host lies before the doors, we look upon you as foes and thieves."_ ***---Hob*** 
+> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Dargon-1 strike with 11 prowess  “‘While an armed host lies before the doors, we look upon you as foes and thieves."_ ***---Hob*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>

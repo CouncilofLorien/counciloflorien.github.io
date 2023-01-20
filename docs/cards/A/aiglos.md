@@ -25,7 +25,7 @@ permalink: /cards/aiglos/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at any Under-deeps Dark-hold \[![](/assets/images/dark-hold.svg)] or Shadow-hold \[![](/assets/images/shadow-hold.svg)]. _Weapon._ Warrior only: +2 prowess (+5 if Doors of Night is in play) (to a maximum of 11); +1 body (to a maximum of 10); -2 to target's body; +3 direct influence against Elves and Elf factions. <br>_"'...for the Spear Gil-galad and the Sword of Elendil, Aiglos and Narsil, none could withstand.'"_ ***---LotRII*** 
+> > _**Unique.**_ Playable at any Under-deeps Dark-hold \[![](/assets/images/dark-hold.svg)] or Shadow-hold \[![](/assets/images/shadow-hold.svg)]. _Weapon._ Warrior only: +2 prowess (+5 if Doors of Night is in play) (to a maximum of 11); +1 body (to a maximum of 10); -2 to target's body; +3 direct influence against Elves and Elf factions. <br>_“‘...for the Spear Gil-galad and the Sword of Elendil, Aiglos and Narsil, none could withstand.’”_ ***---LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【+2(5)/+1】</div>

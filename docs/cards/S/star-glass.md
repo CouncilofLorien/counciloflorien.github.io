@@ -25,7 +25,7 @@ permalink: /cards/star-glass/
 > Minor Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Tap bearer of Star-glass to cancel an attack by Undead or to modify the prowess of a spiders, animals, or wolves attack by -2. Bearer makes a corruption check. <br>_"...it glimmered, faint as a rising star struggling in heavy earthward mists, and then as its power waxed...it began to burn, and kindled to a silver flame, a minute heart of dazzling light..."_ ***---LotRIV*** 
+> > Tap bearer of Star-glass to cancel an attack by Undead or to modify the prowess of a spiders, animals, or wolves attack by -2. Bearer makes a corruption check. <br>_“...it glimmered, faint as a rising star struggling in heavy earthward mists, and then as its power waxed...it began to burn, and kindled to a silver flame, a minute heart of dazzling light...”_ ***---LotRIV*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/star-glass/
 > Minor Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Tap bearer of Star-glass to cancel an attack by Undead or to modify the prowess of a spiders, animals, or wolves attack by -2. Bearer makes a corruption check. <br>_"...it glimmered, faint as a rising star struggling in heavy earthward mists, and then as its power waxed...it began to burn, and kindled to a silver flame, a minute heart of dazzling light..."_ ***---LotRIV*** 
+> > Tap bearer of Star-glass to cancel an attack by Undead or to modify the prowess of a spiders, animals, or wolves attack by -2. Bearer makes a corruption check. <br>_“...it glimmered, faint as a rising star struggling in heavy earthward mists, and then as its power waxed...it began to burn, and kindled to a silver flame, a minute heart of dazzling light...”_ ***---LotRIV*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/star-glass/
 > Minor Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Tap bearer of Star-glass to cancel an attack by Undead or to modify the prowess of a spiders, animals, or wolves attack by -2. Bearer makes a corruption check. <br>_"...it glimmered, faint as a rising star struggling in heavy earthward mists, and then as its power waxed...it began to burn, and kindled to a silver flame, a minute heart of dazzling light..."_ ***---LotRIV*** 
+> > Tap bearer of Star-glass to cancel an attack by Undead or to modify the prowess of a spiders, animals, or wolves attack by -2. Bearer makes a corruption check. <br>_“...it glimmered, faint as a rising star struggling in heavy earthward mists, and then as its power waxed...it began to burn, and kindled to a silver flame, a minute heart of dazzling light...”_ ***---LotRIV*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

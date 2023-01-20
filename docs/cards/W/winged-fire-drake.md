@@ -25,7 +25,7 @@ permalink: /cards/winged-fire-drake/
 > Creature or Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Drake._ Two strikes. Attacker chooses defending characters. Three Wildernesses \[![](/assets/images/wilderness.svg)] or two Shadow-lands \[![](/assets/images/shadow-land.svg)] in site path are required. <br>_"'As like as not it is the marauding fire of the Dragon, the only king under the Mountain we have ever known.'"_ ***---Hob*** 
+> > _Drake._ Two strikes. Attacker chooses defending characters. Three Wildernesses \[![](/assets/images/wilderness.svg)] or two Shadow-lands \[![](/assets/images/shadow-land.svg)] in site path are required. <br>_“‘As like as not it is the marauding fire of the Dragon, the only king under the Mountain we have ever known.’”_ ***---Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【8/&ndash;】</div>

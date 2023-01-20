@@ -25,7 +25,7 @@ permalink: /cards/secret-passage/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable only at the end of the organization phase. If the company that it is played on moves to a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] site, opponent may only play hazard creatures that are keyed to the company's site. <br>_"...a great doorway was outlined, though not a crack or joint had been visible before. Slowly it...swung outwards inch by inch..."_ ***---LotRII*** 
+> > Playable only at the end of the organization phase. If the company that it is played on moves to a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] site, opponent may only play hazard creatures that are keyed to the company's site. <br>_“...a great doorway was outlined, though not a crack or joint had been visible before. Slowly it...swung outwards inch by inch...”_ ***---LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/secret-passage/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable only at the end of the organization phase. If the company that it is played on moves to a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] site, opponent may only play hazard creatures that are keyed to the company's site. <br>_"...a great doorway was outlined, though not a crack or joint had been visible before. Slowly it...swung outwards inch by inch..."_ ***---LotRII*** 
+> > Playable only at the end of the organization phase. If the company that it is played on moves to a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] site, opponent may only play hazard creatures that are keyed to the company's site. <br>_“...a great doorway was outlined, though not a crack or joint had been visible before. Slowly it...swung outwards inch by inch...”_ ***---LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

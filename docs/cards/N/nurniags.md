@@ -25,7 +25,7 @@ permalink: /cards/nurniags/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Nurniag Camp if the influence check is greater than 9.  <br>_Standard Modifications:_ Nuriags (+2), Balchoth (-2), Variags of Khand (+2). <br>_"...strong and war-hardened and asked for no quarter."_ ***---LotRV***  
+> > _**Unique.**_ Playable at Nurniag Camp if the influence check is greater than 9.  <br>_Standard Modifications:_ Nuriags (+2), Balchoth (-2), Variags of Khand (+2). <br>_“...strong and war-hardened and asked for no quarter."_ ***---LotRV***  
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/nurniags/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Manifestation of minion Nurniags. Playable at Nurniag Camp if the influence check is greater than 13 (Muster has no effect on this attempt). <br>_Standard Modifications:_ Wizards (-5), Men (+1). <br>_"'They read the wind and the land like storied scribes.'"_ ***---Kuduk Lore*** 
+> > _**Unique.**_ Manifestation of minion Nurniags. Playable at Nurniag Camp if the influence check is greater than 13 (Muster has no effect on this attempt). <br>_Standard Modifications:_ Wizards (-5), Men (+1). <br>_“‘They read the wind and the land like storied scribes.’”_ ***---Kuduk Lore*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/nurniags/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Nurniag Camp if the influence check is greater than 9.  <br>_Standard Modifications:_ Nuriags (+2), Balchoth (-2), Variags of Khand (+2). <br>_"...strong and war-hardened and asked for no quarter."_ ***---LotRV***  
+> > _**Unique.**_ Playable at Nurniag Camp if the influence check is greater than 9.  <br>_Standard Modifications:_ Nuriags (+2), Balchoth (-2), Variags of Khand (+2). <br>_“...strong and war-hardened and asked for no quarter."_ ***---LotRV***  
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

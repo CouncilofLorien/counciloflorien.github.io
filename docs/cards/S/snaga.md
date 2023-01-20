@@ -25,7 +25,7 @@ permalink: /cards/snaga/
 > Warrior Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ _Uruk-hai._ Discard on a body check result of 9. <br>_"'I'm not going down those stairs again...be you captain or no. Nar!'"_ ***---LotRVI***  <br><br>**Home Site:** Any site in Imlad Morgul 
+> > _**Unique.**_ _Uruk-hai._ Discard on a body check result of 9. <br>_“‘I'm not going down those stairs again...be you captain or no. Nar!’”_ ***---LotRVI***  <br><br>**Home Site:** Any site in Imlad Morgul 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【5/9】</div>

@@ -25,7 +25,7 @@ permalink: /cards/iron-shield-of-old/
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable at any Under-deeps Shadow-hold \[![](/assets/images/shadow-hold.svg)] or Ruins & Lairs \[![](/assets/images/ruinlair.svg)]. +2 to all rolls required for bearer's company to move to adjacent Under-deeps sites. Warrior only: tap this item to make one strike against its bearer ineffectual (i.e., the strike neither succeeds nor fails). <br>_"Morgoth's troops were shod with iron and iron-shielded..."_ ***---Kuduk Lore*** 
+> > Playable at any Under-deeps Shadow-hold \[![](/assets/images/shadow-hold.svg)] or Ruins & Lairs \[![](/assets/images/ruinlair.svg)]. +2 to all rolls required for bearer's company to move to adjacent Under-deeps sites. Warrior only: tap this item to make one strike against its bearer ineffectual (i.e., the strike neither succeeds nor fails). <br>_"Morgoth's troops were shod with iron and iron-shielded...”_ ***---Kuduk Lore*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/iron-shield-of-old/
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable at any Under-deeps Shadow-hold \[![](/assets/images/shadow-hold.svg)] or Ruins & Lairs \[![](/assets/images/ruinlair.svg)]. +2 to all rolls required for bearer's company to move to adjacent Under-deeps sites. Warrior only: tap this item to make one strike against its bearer ineffectual (i.e., the strike neither succeeds nor fails). <br>_"Morgoth's troops were shod with iron and iron-shielded..."_ ***---Kuduk Lore*** 
+> > Playable at any Under-deeps Shadow-hold \[![](/assets/images/shadow-hold.svg)] or Ruins & Lairs \[![](/assets/images/ruinlair.svg)]. +2 to all rolls required for bearer's company to move to adjacent Under-deeps sites. Warrior only: tap this item to make one strike against its bearer ineffectual (i.e., the strike neither succeeds nor fails). <br>_"Morgoth's troops were shod with iron and iron-shielded...”_ ***---Kuduk Lore*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

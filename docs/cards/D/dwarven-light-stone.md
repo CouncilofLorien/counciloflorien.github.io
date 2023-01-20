@@ -25,7 +25,7 @@ permalink: /cards/dwarven-light-stone/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable at any Under-deeps site. +2 to all rolls required for bearer's company to move to an adjacent site in the Under-deeps. Tap Dwarven Light-stone: to modify by -2 the prowess of one Orc or Troll attack or to modify by -2 the prowess of one attack for which  "weapons do not modify the target's prowess" (e.g., Trap, Lava Flow, etc.). <br>_"'...as once shone in Khazad-dum; and when we wished we would drive away the night..."_ ***---LotRIII***  
+> > Playable at any Under-deeps site. +2 to all rolls required for bearer's company to move to an adjacent site in the Under-deeps. Tap Dwarven Light-stone: to modify by -2 the prowess of one Orc or Troll attack or to modify by -2 the prowess of one attack for which  "weapons do not modify the target's prowess" (e.g., Trap, Lava Flow, etc.). <br>_“‘...as once shone in Khazad-dum; and when we wished we would drive away the night...”_ ***---LotRIII***  
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

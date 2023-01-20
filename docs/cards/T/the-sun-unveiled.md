@@ -25,7 +25,7 @@ permalink: /cards/the-sun-unveiled/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable on a character at a Free-hold \[![](/assets/images/free-hold.svg)] if Gates of Morning is in play. Remove all hazard permanent-events on the character and, if tapped, untap him. <br>_"And the Shadow departed, and the Sun was unveiled, and light leaped forth..."_ ***---LotRVI*** 
+> > Playable on a character at a Free-hold \[![](/assets/images/free-hold.svg)] if Gates of Morning is in play. Remove all hazard permanent-events on the character and, if tapped, untap him. <br>_"And the Shadow departed, and the Sun was unveiled, and light leaped forth...”_ ***---LotRVI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

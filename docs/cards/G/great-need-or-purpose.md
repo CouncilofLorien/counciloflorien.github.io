@@ -25,7 +25,7 @@ permalink: /cards/great-need-or-purpose/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Each agent may take an extra agent action each time he normally takes an agent action. Cannot be duplicated. <br>_"'So he is seeking it, seeking it, and all his thought is bent on it. It is his great hope and our great fear.'"_ ***---LotRI*** 
+> > Each agent may take an extra agent action each time he normally takes an agent action. Cannot be duplicated. <br>_“‘So he is seeking it, seeking it, and all his thought is bent on it. It is his great hope and our great fear.’”_ ***---LotRI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
