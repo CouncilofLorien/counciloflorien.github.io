@@ -25,7 +25,7 @@ permalink: /cards/not-slay-needlessly/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable on an attack by Elves, Dwarves, Dunedain, or Men. Against a covert company, the attack is canceled. Otherwise, -2 to the attack's prowess. Cannot be duplicated on a given attack.   "'You will not have us slay wild beasts for no purpose, and it seemed no more, so I tried no arrow.'" ---LotRII 
+> > Playable on an attack by Elves, Dwarves, Dunedain, or Men. Against a covert company, the attack is canceled. Otherwise, -2 to the attack's prowess. Cannot be duplicated on a given attack.   "'You will not have us slay wild beasts for no purpose, and it seemed no more, so I tried no arrow.'"_ ***---LotRII*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/not-slay-needlessly/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable on an attack by Elves, Dwarves, Dunedain, or Men. Against a covert company, the attack is canceled. Otherwise, -2 to the attack's prowess. Cannot be duplicated on a given attack.   "'You will not have us slay wild beasts for no purpose, and it seemed no more, so I tried no arrow.'" ---LotRII 
+> > Playable on an attack by Elves, Dwarves, Dunedain, or Men. Against a covert company, the attack is canceled. Otherwise, -2 to the attack's prowess. Cannot be duplicated on a given attack.   "'You will not have us slay wild beasts for no purpose, and it seemed no more, so I tried no arrow.'"_ ***---LotRII*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

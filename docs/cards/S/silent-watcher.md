@@ -25,7 +25,7 @@ permalink: /cards/silent-watcher/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Pukel-creature. Each character in the company faces one strike.  "They seemed to be carved out of huge blocks of stone, immovable, and yet they were aware: some dreadful spirit of evil vigilance abode in them." ---LotRVI 
+> > _Pukel-creature._ Each character in the company faces one strike. <br>_"They seemed to be carved out of huge blocks of stone, immovable, and yet they were aware: some dreadful spirit of evil vigilance abode in them."_ ***---LotRVI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【8/&ndash;】</div>
@@ -45,7 +45,7 @@ permalink: /cards/silent-watcher/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Pukel-creature. Each character in the company faces one strike.  "They seemed to be carved out of huge blocks of stone, immovable, and yet they were aware: some dreadful spirit of evil vigilance abode in them." ---LotRVI 
+> > _Pukel-creature._ Each character in the company faces one strike. <br>_"They seemed to be carved out of huge blocks of stone, immovable, and yet they were aware: some dreadful spirit of evil vigilance abode in them."_ ***---LotRVI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【8/&ndash;】</div>

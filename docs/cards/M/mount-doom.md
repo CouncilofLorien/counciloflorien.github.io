@@ -25,7 +25,7 @@ permalink: /cards/mount-doom/
 > Gorgoroth
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien Special: Any company moving to Mount Doom has its hazard limit modified by +2 and hazard creatures may always be keyed to the site regardless of any other cards played.  "...a huge mass of ash and slag and burned stone...a sheer-sided cone..." ---LotRVI 
+> > Nearest Haven: Lorien <br>_**Special:**_ Any company moving to Mount Doom has its hazard limit modified by +2 and hazard creatures may always be keyed to the site regardless of any other cards played. <br>_"...a huge mass of ash and slag and burned stone...a sheer-sided cone..."_ ***---LotRVI*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;3&ensp;</span><span class="hero-opp-draw">&ensp;6&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/mount-doom/
 > Gorgoroth
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien Special: Any company moving to Mount Doom has its hazard limit modified by +2 and hazard creatures may always be keyed to the site regardless of any other cards played.  "...a huge mass of ash and slag and burned stone...a sheer-sided cone..." ---LotRVI 
+> > Nearest Haven: Lorien <br>_**Special:**_ Any company moving to Mount Doom has its hazard limit modified by +2 and hazard creatures may always be keyed to the site regardless of any other cards played. <br>_"...a huge mass of ash and slag and burned stone...a sheer-sided cone..."_ ***---LotRVI*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;3&ensp;</span><span class="hero-opp-draw">&ensp;6&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/mount-doom/
 > Gorgoroth
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Minas Morgul Playable: Information Automatic-attacks: Orcs-1 strike with 6 prowess Special: Any sage may tap to test a ring at this site, modifying the result by -3.  "Ever and anon the furnaces far below its ashen cone would grow hot and...pour forth rivers of molten rock from chasms in its sides." ---LotRVI 
+> > Nearest Darkhaven: Minas Morgul <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Orcs-1 strike with 6 prowess <br>_**Special:**_ Any sage may tap to test a ring at this site, modifying the result by -3. <br>_"Ever and anon the furnaces far below its ashen cone would grow hot and...pour forth rivers of molten rock from chasms in its sides."_ ***---LotRVI*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/mount-doom/
 > Gorgoroth
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Minas Morgul Playable: Information Automatic-attacks: Orcs-1 strike with 6 prowess Special: Any sage may tap to test a ring at this site, modifying the result by -3.  "Ever and anon the furnaces far below its ashen cone would grow hot and...pour forth rivers of molten rock from chasms in its sides." ---LotRVI 
+> > Nearest Darkhaven: Minas Morgul <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Orcs-1 strike with 6 prowess <br>_**Special:**_ Any sage may tap to test a ring at this site, modifying the result by -3. <br>_"Ever and anon the furnaces far below its ashen cone would grow hot and...pour forth rivers of molten rock from chasms in its sides."_ ***---LotRVI*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>

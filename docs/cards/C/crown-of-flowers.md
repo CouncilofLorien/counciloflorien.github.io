@@ -25,7 +25,7 @@ permalink: /cards/crown-of-flowers/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Environment. Crown of Flowers has no effect until you play a resource with it. You can play one resource from your hand with this card. The resource is considered to be in play as though Gates of Morning were in play and Doors of Night were not. Crown of Flowers does not affect the interpretation of any card except the resource played with it. Discard Crown of Flowers when the resource is discarded. Discard the resource if Crown of Flowers is discarded.  
+> > _Environment._ Crown of Flowers has no effect until you play a resource with it. You can play one resource from your hand with this card. The resource is considered to be in play as though Gates of Morning were in play and Doors of Night were not. Crown of Flowers does not affect the interpretation of any card except the resource played with it. Discard Crown of Flowers when the resource is discarded. Discard the resource if Crown of Flowers is discarded.  
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/crown-of-flowers/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Environment. Crown of Flowers has no effect until you play a resource with it. You can play one resource from your hand with this card. The resource is considered to be in play as though Gates of Morning were in play and Doors of Night were not. Crown of Flowers does not affect the interpretation of any card except the resource played with it. Discard Crown of Flowers when the resource is discarded. Discard the resource if Crown of Flowers is discarded.  
+> > _Environment._ Crown of Flowers has no effect until you play a resource with it. You can play one resource from your hand with this card. The resource is considered to be in play as though Gates of Morning were in play and Doors of Night were not. Crown of Flowers does not affect the interpretation of any card except the resource played with it. Discard Crown of Flowers when the resource is discarded. Discard the resource if Crown of Flowers is discarded.  
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

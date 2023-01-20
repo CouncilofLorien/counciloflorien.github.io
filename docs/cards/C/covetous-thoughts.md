@@ -25,7 +25,7 @@ permalink: /cards/covetous-thoughts/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Corruption. Playable only on a minion. At the end of each of his turns, target minion makes a corruption check for each item his company bears that he does not bear. For each check, modify the roll by subtracting the corruption of that item. During his organization phase, the minion may tap to attempt to remove this card by making a roll (drawing a #)-if the result is greater than 5, discard this card. Cannot be duplicated on a given minion.  
+> > _Corruption._ Playable only on a minion. At the end of each of his turns, target minion makes a corruption check for each item his company bears that he does not bear. For each check, modify the roll by subtracting the corruption of that item. During his organization phase, the minion may tap to attempt to remove this card by making a roll (drawing a #)-if the result is greater than 5, discard this card. Cannot be duplicated on a given minion.  
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/covetous-thoughts/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Corruption. Playable only on a minion. At the end of each of his turns, target minion makes a corruption check for each item his company bears that he does not bear. For each check, modify the roll by subtracting the corruption of that item. During his organization phase, the minion may tap to attempt to remove this card by making a roll (drawing a #)-if the result is greater than 5, discard this card. Cannot be duplicated on a given minion.  
+> > _Corruption._ Playable only on a minion. At the end of each of his turns, target minion makes a corruption check for each item his company bears that he does not bear. For each check, modify the roll by subtracting the corruption of that item. During his organization phase, the minion may tap to attempt to remove this card by making a roll (drawing a #)-if the result is greater than 5, discard this card. Cannot be duplicated on a given minion.  
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/covetous-thoughts/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Corruption. Playable only on a minion. At the end of each of his turns, target minion makes a corruption check for each item his company bears that he does not bear. For each check, modify the roll by subtracting the corruption of that item. During his organization phase, the minion may tap to attempt to remove this card by making a roll (drawing a #)-if the result is greater than 5, discard this card. Cannot be duplicated on a given minion.  
+> > _Corruption._ Playable only on a minion. At the end of each of his turns, target minion makes a corruption check for each item his company bears that he does not bear. For each check, modify the roll by subtracting the corruption of that item. During his organization phase, the minion may tap to attempt to remove this card by making a roll (drawing a #)-if the result is greater than 5, discard this card. Cannot be duplicated on a given minion.  
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

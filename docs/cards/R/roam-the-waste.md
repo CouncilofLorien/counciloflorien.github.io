@@ -25,7 +25,7 @@ permalink: /cards/roam-the-waste/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Balrog specific. Playable during the organization phase if Strangling Coils is in play. You may bring this card from your sideboard into your play deck and reshuffle during your organization phase. Each of your companies this turn is considered to have one fewer Wilderness \[![](/assets/images/wilderness.svg)] and one fewer Shadow-land \[![](/assets/images/shadow-land.svg)] in its site path. 
+> > _Balrog specific._ Playable during the organization phase if Strangling Coils is in play. You may bring this card from your sideboard into your play deck and reshuffle during your organization phase. Each of your companies this turn is considered to have one fewer Wilderness \[![](/assets/images/wilderness.svg)] and one fewer Shadow-land \[![](/assets/images/shadow-land.svg)] in its site path. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

@@ -19,13 +19,13 @@ permalink: /cards/orc-brawler/
 > > <div class="card-name">Orc Brawler</div>
 >
 > {: .minion-character-frame .black-text .p-1 .pl-2 }
-> > 1![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 1 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > Discard on a body check result of 7 or 8. -1 to all corruption checks.  "...long-armed crook-legged Orcs." ---LotRIII  Home Site: Any Dark-hold 
+> > Discard on a body check result of 7 or 8. -1 to all corruption checks. <br>_"...long-armed crook-legged Orcs."_ ***---LotRIII***  <br><br>**Home Site:** Any Dark-hold 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【3/8】</div>
@@ -39,13 +39,13 @@ permalink: /cards/orc-brawler/
 > > <div class="card-name">Orc Brawler</div>
 >
 > {: .minion-character-frame .black-text .p-1 .pl-2 }
-> > 1![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 1 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > Discard on a body check result of 7 or 8. -1 to all corruption checks.  "...long-armed crook-legged Orcs." ---LotRIII  Home Site: Any Dark-hold 
+> > Discard on a body check result of 7 or 8. -1 to all corruption checks. <br>_"...long-armed crook-legged Orcs."_ ***---LotRIII***  <br><br>**Home Site:** Any Dark-hold 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【3/8】</div>

@@ -19,7 +19,7 @@ permalink: /cards/black-horse/
 > > <div class="card-name">Black Horse</div>
 >
 > {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > 2![](/assets/images/mind.svg)
+> > 2 ![](/assets/images/mind.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior Ally

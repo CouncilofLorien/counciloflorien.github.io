@@ -65,7 +65,7 @@ permalink: /cards/lossadan-camp/
 > Forochel
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Carn Dum Playable: Items (gold ring) Automatic-attacks: Men-each character faces 1 strike with 5 prowess (detainment against covert company)  "...and they drew the king and those that survived of his company out over the ice in their sliding carts..." ---LotR 
+> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 5 prowess (detainment against covert company)  "...and they drew the king and those that survived of his company out over the ice in their sliding carts..." ---LotR 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>

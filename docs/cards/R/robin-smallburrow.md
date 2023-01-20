@@ -19,13 +19,13 @@ permalink: /cards/robin-smallburrow/
 > > <div class="character-card-name">Robin Smallburrow</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 3![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 3 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Scout Hobbit
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +2.  "'...I went for a Shirrif... Gave me a chance of walking round the country and seeing folk, and hearing the news...'" ---LotRVI  Home Site: Bag End 
+> > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +2. <br>_"'...I went for a Shirrif... Gave me a chance of walking round the country and seeing folk, and hearing the news...'"_ ***---LotRVI***  <br><br>**Home Site:** Bag End 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【1/9】</div>
@@ -39,13 +39,13 @@ permalink: /cards/robin-smallburrow/
 > > <div class="character-card-name">Robin Smallburrow</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 3![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 3 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Scout Hobbit
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +2.  "'...I went for a Shirrif... Gave me a chance of walking round the country and seeing folk, and hearing the news...'" ---LotRVI  Home Site: Bag End 
+> > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +2. <br>_"'...I went for a Shirrif... Gave me a chance of walking round the country and seeing folk, and hearing the news...'"_ ***---LotRVI***  <br><br>**Home Site:** Bag End 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【1/9】</div>

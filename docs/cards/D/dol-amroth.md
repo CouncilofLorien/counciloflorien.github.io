@@ -25,7 +25,7 @@ permalink: /cards/dol-amroth/
 > Belfalas
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Edhellond  "But beyond, in the great fief of Belfalas, dwelt Prince Imrahil in his castle of Dol Amroth by the sea, and he was of high blood, and his folk also, tall men and proud with sea-grey eyes." ---LotRV 
+> > Nearest Haven: Edhellond  "But beyond, in the great fief of Belfalas, dwelt Prince Imrahil in his castle of Dol Amroth by the sea, and he was of high blood, and his folk also, tall men and proud with sea-grey eyes."_ ***---LotRV*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/dol-amroth/
 > Belfalas
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Edhellond  "But beyond, in the great fief of Belfalas, dwelt Prince Imrahil in his castle of Dol Amroth by the sea, and he was of high blood, and his folk also, tall men and proud with sea-grey eyes." ---LotRV 
+> > Nearest Haven: Edhellond  "But beyond, in the great fief of Belfalas, dwelt Prince Imrahil in his castle of Dol Amroth by the sea, and he was of high blood, and his folk also, tall men and proud with sea-grey eyes."_ ***---LotRV*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/dol-amroth/
 > Belfalas
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Minas Morgul Playable: Information, Items (minor, major, gold ring) Automatic-attacks (2):  (1st) Men-each character faces 1 strike with 8 prowess (detainment against covert company) (2nd) Dunedain - 3 strikes with 10 prowess (against overt company only)  
+> > Nearest Darkhaven: Minas Morgul <br>_**Playable:**_ Information, Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>  (1st) Men-each character faces 1 strike with 8 prowess (detainment against covert company) (2nd) Dunedain - 3 strikes with 10 prowess (against overt company only)  
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;4&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/dol-amroth/
 > Belfalas
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Edhellond  "But beyond, in the great fief of Belfalas, dwelt Prince Imrahil in his castle of Dol Amroth by the sea, and he was of high blood, and his folk also, tall men and proud with sea-grey eyes." ---LotRV 
+> > Nearest Haven: Edhellond  "But beyond, in the great fief of Belfalas, dwelt Prince Imrahil in his castle of Dol Amroth by the sea, and he was of high blood, and his folk also, tall men and proud with sea-grey eyes."_ ***---LotRV*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>

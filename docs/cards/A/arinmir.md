@@ -19,13 +19,13 @@ permalink: /cards/arinmir/
 > > <div class="character-card-name">Arinmir</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 4![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Sage/Diplomat Elf
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. +2 direct influence against the Variags of Khand faction.  "They dwelt most often by the edges of the woods, from which they could escape at times to hunt, or to ride and run over open lands by moonlight or starlight..." ---Hob  Home Site: Edhellond 
+> > _**Unique.**_ +2 direct influence against the Variags of Khand faction. <br>_"They dwelt most often by the edges of the woods, from which they could escape at times to hunt, or to ride and run over open lands by moonlight or starlight..."_ ***---Hob***  <br><br>**Home Site:** Edhellond 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【2/7】</div>
@@ -39,13 +39,13 @@ permalink: /cards/arinmir/
 > > <div class="character-card-name">Arinmir</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 4![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Sage/Diplomat Elf
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. +2 direct influence against the Variags of Khand faction.  "They dwelt most often by the edges of the woods, from which they could escape at times to hunt, or to ride and run over open lands by moonlight or starlight..." ---Hob  Home Site: Edhellond 
+> > _**Unique.**_ +2 direct influence against the Variags of Khand faction. <br>_"They dwelt most often by the edges of the woods, from which they could escape at times to hunt, or to ride and run over open lands by moonlight or starlight..."_ ***---Hob***  <br><br>**Home Site:** Edhellond 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【2/7】</div>

@@ -25,7 +25,7 @@ permalink: /cards/new-friendship/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Diplomat only. +3 to any one influence check or +2 to a corruption check made by a character in the same company.  "'You may meet a friend of mine on the Road: a Man, lean, dark, tall, by some called Strider. He knows our business and will help you.'" ---LotRI 
+> > _Diplomat only._ +3 to any one influence check or +2 to a corruption check made by a character in the same company. <br>_"'You may meet a friend of mine on the Road: a Man, lean, dark, tall, by some called Strider. He knows our business and will help you.'"_ ***---LotRI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/new-friendship/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Diplomat only. +3 to any one influence check or +2 to a corruption check made by a character in the same company.  "'You may meet a friend of mine on the Road: a Man, lean, dark, tall, by some called Strider. He knows our business and will help you.'" ---LotRI 
+> > _Diplomat only._ +3 to any one influence check or +2 to a corruption check made by a character in the same company. <br>_"'You may meet a friend of mine on the Road: a Man, lean, dark, tall, by some called Strider. He knows our business and will help you.'"_ ***---LotRI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/new-friendship/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Diplomat only. +3 to any one influence check or +2 to a corruption check made by a character in the same company.  "'You may meet a friend of mine on the Road: a Man, lean, dark, tall, by some called Strider. He knows our business and will help you.'" ---LotRI 
+> > _Diplomat only._ +3 to any one influence check or +2 to a corruption check made by a character in the same company. <br>_"'You may meet a friend of mine on the Road: a Man, lean, dark, tall, by some called Strider. He knows our business and will help you.'"_ ***---LotRI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

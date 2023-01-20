@@ -25,7 +25,7 @@ permalink: /cards/thranduils-halls/
 > Woodland Realm
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien  "This was the bridge that led across the river to the king's doors. The water flowed dark and swift and strong beneath; and at the far end were gates before the mouth of a huge cave that ran into the side of a steep slope covered with trees." ---Hob 
+> > Nearest Haven: Lorien  "This was the bridge that led across the river to the king's doors. The water flowed dark and swift and strong beneath; and at the far end were gates before the mouth of a huge cave that ran into the side of a steep slope covered with trees."_ ***---Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/thranduils-halls/
 > Woodland Realm
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien  "This was the bridge that led across the river to the king's doors. The water flowed dark and swift and strong beneath; and at the far end were gates before the mouth of a huge cave that ran into the side of a steep slope covered with trees." ---Hob 
+> > Nearest Haven: Lorien  "This was the bridge that led across the river to the king's doors. The water flowed dark and swift and strong beneath; and at the far end were gates before the mouth of a huge cave that ran into the side of a steep slope covered with trees."_ ***---Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/thranduils-halls/
 > Woodland Realm
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur Playable: Inromation, Items (minor, major, gold ring) Automatic-attacks (2):  (1st) Elves-each character faces 1 strike with 9 prowess (detainment against covert company) (2nd) Elves-3 strikes with 10 prowess (against overt company only) 
+> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Inromation, Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>  (1st) Elves-each character faces 1 strike with 9 prowess (detainment against covert company) (2nd) Elves-3 strikes with 10 prowess (against overt company only) 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/thranduils-halls/
 > Woodland Realm
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien  "This was the bridge that led across the river to the king's doors. The water flowed dark and swift and strong beneath; and at the far end were gates before the mouth of a huge cave that ran into the side of a steep slope covered with trees." ---Hob 
+> > Nearest Haven: Lorien  "This was the bridge that led across the river to the king's doors. The water flowed dark and swift and strong beneath; and at the far end were gates before the mouth of a huge cave that ran into the side of a steep slope covered with trees."_ ***---Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -105,7 +105,7 @@ permalink: /cards/thranduils-halls/
 > Woodland Realm
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur Playable: Inromation, Items (minor, major, gold ring) Automatic-attacks (2):  (1st) Elves-each character faces 1 strike with 9 prowess (detainment against covert company) (2nd) Elves-3 strikes with 10 prowess (against overt company only) 
+> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Inromation, Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>  (1st) Elves-each character faces 1 strike with 9 prowess (detainment against covert company) (2nd) Elves-3 strikes with 10 prowess (against overt company only) 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -125,7 +125,7 @@ permalink: /cards/thranduils-halls/
 > Woodland Realm
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur Playable: Inromation, Items (minor, major, gold ring) Automatic-attacks (2):  (1st) Elves-each character faces 1 strike with 9 prowess (detainment against covert company) (2nd) Elves-3 strikes with 10 prowess (against overt company only) 
+> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Inromation, Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>  (1st) Elves-each character faces 1 strike with 9 prowess (detainment against covert company) (2nd) Elves-3 strikes with 10 prowess (against overt company only) 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

@@ -25,7 +25,7 @@ permalink: /cards/tempest-of-fire/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Balrog specific. Playable during the site phase on an untapped Border-hold \[![](/assets/images/border-hold.svg)] or Shadow-hold \[![](/assets/images/shadow-hold.svg)]; the site cannot be an Under-deeps site or a surface site thereof. Tap the site. The company faces three attacks (Men at a Border-hold \[![](/assets/images/border-hold.svg)], Orcs at a Shadow-hold \[![](/assets/images/shadow-hold.svg)]-5 strikes with 8 prowess, 4 strikes with 9 prowess, 3 strikes with 10 prowess). Following these attacks: discard this card or tap a character, place this card in your marshalling point pile, and return each unique faction playable at the site to its owner's hand. 
+> > _Balrog specific._ Playable during the site phase on an untapped Border-hold \[![](/assets/images/border-hold.svg)] or Shadow-hold \[![](/assets/images/shadow-hold.svg)]; the site cannot be an Under-deeps site or a surface site thereof. Tap the site. The company faces three attacks (Men at a Border-hold \[![](/assets/images/border-hold.svg)], Orcs at a Shadow-hold \[![](/assets/images/shadow-hold.svg)]-5 strikes with 8 prowess, 4 strikes with 9 prowess, 3 strikes with 10 prowess). Following these attacks: discard this card or tap a character, place this card in your marshalling point pile, and return each unique faction playable at the site to its owner's hand. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

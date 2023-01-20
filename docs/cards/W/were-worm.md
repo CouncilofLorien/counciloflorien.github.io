@@ -25,7 +25,7 @@ permalink: /cards/were-worm/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Drake. One strike. Attacker chooses defending characters. Defending company must discard one item of attacker's choice for each character wounded by Were-worm. Three Wildernesses \[![](/assets/images/wilderness.svg)] in site path are required.  "'...if I have to walk from here to the East of East and fight the wild Were-worms in the Last Desert.'" ---Hob 
+> > _Drake._ One strike. Attacker chooses defending characters. Defending company must discard one item of attacker's choice for each character wounded by Were-worm. Three Wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. <br>_"'...if I have to walk from here to the East of East and fight the wild Were-worms in the Last Desert.'"_ ***---Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【13/6】</div>

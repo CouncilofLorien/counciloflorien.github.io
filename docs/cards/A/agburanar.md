@@ -25,7 +25,7 @@ permalink: /cards/agburanar/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Unique. May be played at Caves of Ulond. Dragon. Two strikes. If Doors of Night is in play, may also be played keyed to Grey Mountain Narrows, Iron Hills, Northern Rhovanion, and Withered Heath; and may also be played at sites in these regions. 
+> > _**Unique.**_ May be played at Caves of Ulond. _Dragon._ Two strikes. If Doors of Night is in play, may also be played keyed to Grey Mountain Narrows, Iron Hills, Northern Rhovanion, and Withered Heath; and may also be played at sites in these regions. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【15/9】</div>
@@ -45,7 +45,7 @@ permalink: /cards/agburanar/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Unique. May be played at Caves of Ulond. Dragon. Two strikes. If Doors of Night is in play, may also be played keyed to Grey Mountain Narrows, Iron Hills, Northern Rhovanion, and Withered Heath; and may also be played at sites in these regions. 
+> > _**Unique.**_ May be played at Caves of Ulond. _Dragon._ Two strikes. If Doors of Night is in play, may also be played keyed to Grey Mountain Narrows, Iron Hills, Northern Rhovanion, and Withered Heath; and may also be played at sites in these regions. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【15/9】</div>

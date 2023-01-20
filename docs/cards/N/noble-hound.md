@@ -19,7 +19,7 @@ permalink: /cards/noble-hound/
 > > <div class="card-name">Noble Hound</div>
 >
 > {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > 1![](/assets/images/mind.svg)
+> > 1 ![](/assets/images/mind.svg)
 >
 > {: .card-classification .pr-2 }
 > Ally
@@ -39,7 +39,7 @@ permalink: /cards/noble-hound/
 > > <div class="card-name">Noble Hound</div>
 >
 > {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > 1![](/assets/images/mind.svg)
+> > 1 ![](/assets/images/mind.svg)
 >
 > {: .card-classification .pr-2 }
 > Ally

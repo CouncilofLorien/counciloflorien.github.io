@@ -25,7 +25,7 @@ permalink: /cards/hobbits/
 > Hobbit Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Unique. Playable at Bag End if the influence check is greater than 8.  Standard Modifications: Hobbits (+4).  "They are...a little people...inclined to be fat in the stomach...dress in bright colors,...and wear no shoes, because their feet grow natural leathery soles and thick warm brown hair like the stuff on their heads..." ---Hob 
+> > _**Unique.**_ Playable at Bag End if the influence check is greater than 8.  <br>_Standard Modifications:_ Hobbits (+4). <br>_"They are...a little people...inclined to be fat in the stomach...dress in bright colors,...and wear no shoes, because their feet grow natural leathery soles and thick warm brown hair like the stuff on their heads..."_ ***---Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/hobbits/
 > Hobbit Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Unique. Playable at Bag End if the influence check is greater than 8.  Standard Modifications: Hobbits (+4).  "They are...a little people...inclined to be fat in the stomach...dress in bright colors,...and wear no shoes, because their feet grow natural leathery soles and thick warm brown hair like the stuff on their heads..." ---Hob 
+> > _**Unique.**_ Playable at Bag End if the influence check is greater than 8.  <br>_Standard Modifications:_ Hobbits (+4). <br>_"They are...a little people...inclined to be fat in the stomach...dress in bright colors,...and wear no shoes, because their feet grow natural leathery soles and thick warm brown hair like the stuff on their heads..."_ ***---Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

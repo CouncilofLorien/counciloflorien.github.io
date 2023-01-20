@@ -25,7 +25,7 @@ permalink: /cards/rivendell/
 > Rhudaur
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Site Path From Lorien: \[![](/assets/images/wilderness.svg)] \[![](/assets/images/border-land.svg)] \[![](/assets/images/wilderness.svg)] \[![](/assets/images/wilderness.svg)] Site Path From Grey Havens: \[![](/assets/images/free-domain.svg)] \[![](/assets/images/wilderness.svg)] \[![](/assets/images/wilderness.svg)]  "'His house was perfect, whether you liked food, or sleep, or work, or story-telling, or singing, or just sitting and thinking best, or a pleasant mixture of them all. Evil things did not come into that valley.'" ---Hob 
+> > Site Path From Lorien: \[![](/assets/images/wilderness.svg)] \[![](/assets/images/border-land.svg)] \[![](/assets/images/wilderness.svg)] \[![](/assets/images/wilderness.svg)] Site Path From Grey Havens: \[![](/assets/images/free-domain.svg)] \[![](/assets/images/wilderness.svg)] \[![](/assets/images/wilderness.svg)]  "'His house was perfect, whether you liked food, or sleep, or work, or story-telling, or singing, or just sitting and thinking best, or a pleasant mixture of them all. Evil things did not come into that valley.'"_ ***---Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/rivendell/
 > Rhudaur
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Site Path From Lorien: \[![](/assets/images/wilderness.svg)] \[![](/assets/images/border-land.svg)] \[![](/assets/images/wilderness.svg)] \[![](/assets/images/wilderness.svg)] Site Path From Grey Havens: \[![](/assets/images/free-domain.svg)] \[![](/assets/images/wilderness.svg)] \[![](/assets/images/wilderness.svg)]  "'His house was perfect, whether you liked food, or sleep, or work, or story-telling, or singing, or just sitting and thinking best, or a pleasant mixture of them all. Evil things did not come into that valley.'" ---Hob 
+> > Site Path From Lorien: \[![](/assets/images/wilderness.svg)] \[![](/assets/images/border-land.svg)] \[![](/assets/images/wilderness.svg)] \[![](/assets/images/wilderness.svg)] Site Path From Grey Havens: \[![](/assets/images/free-domain.svg)] \[![](/assets/images/wilderness.svg)] \[![](/assets/images/wilderness.svg)]  "'His house was perfect, whether you liked food, or sleep, or work, or story-telling, or singing, or just sitting and thinking best, or a pleasant mixture of them all. Evil things did not come into that valley.'"_ ***---Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/rivendell/
 > Rhudaur
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Carn Dum Playable: Information, Items (minor, major, greater, gold ring) Automatic-attacks (2):  Elves-4 strikes with 8 prowess Dunedain-3 strikes with 10 prowess Special: Any company moving to this site has its hazard limit increased by 2. A minion company may not attack another company at this site. A Ringwraith may not move to this site. 
+> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Information, Items (minor, major, greater, gold ring) <br>_**Automatic-attacks (2):**_<br>  Elves-4 strikes with 8 prowess Dunedain-3 strikes with 10 prowess <br>_**Special:**_ Any company moving to this site has its hazard limit increased by 2. A minion company may not attack another company at this site. A Ringwraith may not move to this site. 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/rivendell/
 > Rhudaur
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Site Path From Lorien: \[![](/assets/images/wilderness.svg)] \[![](/assets/images/border-land.svg)] \[![](/assets/images/wilderness.svg)] \[![](/assets/images/wilderness.svg)] Site Path From Grey Havens: \[![](/assets/images/free-domain.svg)] \[![](/assets/images/wilderness.svg)] \[![](/assets/images/wilderness.svg)]  "'His house was perfect, whether you liked food, or sleep, or work, or story-telling, or singing, or just sitting and thinking best, or a pleasant mixture of them all. Evil things did not come into that valley.'" ---Hob 
+> > Site Path From Lorien: \[![](/assets/images/wilderness.svg)] \[![](/assets/images/border-land.svg)] \[![](/assets/images/wilderness.svg)] \[![](/assets/images/wilderness.svg)] Site Path From Grey Havens: \[![](/assets/images/free-domain.svg)] \[![](/assets/images/wilderness.svg)] \[![](/assets/images/wilderness.svg)]  "'His house was perfect, whether you liked food, or sleep, or work, or story-telling, or singing, or just sitting and thinking best, or a pleasant mixture of them all. Evil things did not come into that valley.'"_ ***---Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>

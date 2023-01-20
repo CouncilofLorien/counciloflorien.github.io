@@ -25,7 +25,7 @@ permalink: /cards/govern-the-storms/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Magic. Sorcery. Cancel all hazard effects for the rest of the turn that: force a sorcery-using character's company to return to its site of origin or would tap its current or new site. Unless he is a Ringwraith, the sorcery using character makes a corruption check modified by -4.  "'...he can govern the storms... He has strange powers and many allies.'" ---LotRII 
+> > _Magic._ _Sorcery._ Cancel all hazard effects for the rest of the turn that: force a sorcery-using character's company to return to its site of origin or would tap its current or new site. Unless he is a Ringwraith, the sorcery using character makes a corruption check modified by -4. <br>_"'...he can govern the storms... He has strange powers and many allies.'"_ ***---LotRII*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

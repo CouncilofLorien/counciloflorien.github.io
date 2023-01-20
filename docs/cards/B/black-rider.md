@@ -25,7 +25,7 @@ permalink: /cards/black-rider/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Black Rider mode. Playable at a Darkhaven during the organization phase on your Ringwraith's own company. The company may move to a non-Darkhaven site. Discard this card and any other Ringwraith followers in the company during any of your following organization phases the company is at a Darkhaven \[![](/assets/images/dark-haven.svg)]. Cannot be duplicated on a given company. 
+> > _Black Rider mode._ Playable at a Darkhaven during the organization phase on your Ringwraith's own company. The company may move to a non-Darkhaven site. Discard this card and any other Ringwraith followers in the company during any of your following organization phases the company is at a Darkhaven \[![](/assets/images/dark-haven.svg)]. Cannot be duplicated on a given company. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

@@ -25,7 +25,7 @@ permalink: /cards/scourge-of-fire/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Balrog specific. Playable if Flame of Udun is in play. You may bring this card from your sideboard into your play deck and reshuffle during your organization phase. Choose and discard one item an opponent's company bears if The Balrog is untapped and in company vs. company combat with that company. Cannot be duplicated on a given turn. 
+> > _Balrog specific._ Playable if Flame of Udun is in play. You may bring this card from your sideboard into your play deck and reshuffle during your organization phase. Choose and discard one item an opponent's company bears if The Balrog is untapped and in company vs. company combat with that company. Cannot be duplicated on a given turn. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

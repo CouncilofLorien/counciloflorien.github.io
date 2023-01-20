@@ -19,13 +19,13 @@ permalink: /cards/ufthak/
 > > <div class="card-name">Ufthak</div>
 >
 > {: .minion-character-frame .black-text .p-1 .pl-2 }
-> > 4![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Scout/Ranger Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > Unique. Uruk-hai. Discard on a body check result of 8.  "'Then we found him in a corner; hanging up he was, but he was wide awake and glaring.'"  ---LotRIV  Home Site: Any site in Imlad Morgul 
+> > _**Unique.**_ _Uruk-hai._ Discard on a body check result of 8. <br>_"'Then we found him in a corner; hanging up he was, but he was wide awake and glaring.'"_ ***---LotRIV***  <br><br>**Home Site:** Any site in Imlad Morgul 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【4/8】</div>
@@ -39,13 +39,13 @@ permalink: /cards/ufthak/
 > > <div class="card-name">Ufthak</div>
 >
 > {: .minion-character-frame .black-text .p-1 .pl-2 }
-> > 4![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Scout/Ranger Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > Unique. Uruk-hai. Discard on a body check result of 8.  "'Then we found him in a corner; hanging up he was, but he was wide awake and glaring.'"  ---LotRIV  Home Site: Any site in Imlad Morgul 
+> > _**Unique.**_ _Uruk-hai._ Discard on a body check result of 8. <br>_"'Then we found him in a corner; hanging up he was, but he was wide awake and glaring.'"_ ***---LotRIV***  <br><br>**Home Site:** Any site in Imlad Morgul 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【4/8】</div>

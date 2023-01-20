@@ -25,7 +25,7 @@ permalink: /cards/dagger-of-westernesse/
 > Minor Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Weapon. +1 prowess to a maximum of 8.  "For each of the hobbits he chose a dagger, long, leaf-shaped, and keen, of marvelous workmanship, damasked with serpent-forms in red and gold. They gleamed as he drew them from their black sheaths, wrought of some strange metal, light and strong, and set with many fiery stones." ---LotRI 
+> > __Weapon.__ +1 prowess to a maximum of 8. <br>_"For each of the hobbits he chose a dagger, long, leaf-shaped, and keen, of marvelous workmanship, damasked with serpent-forms in red and gold. They gleamed as he drew them from their black sheaths, wrought of some strange metal, light and strong, and set with many fiery stones."_ ***---LotRI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【+1/&ndash;】</div>
@@ -45,7 +45,7 @@ permalink: /cards/dagger-of-westernesse/
 > Minor Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Weapon. +1 prowess to a maximum of 8.  "For each of the hobbits he chose a dagger, long, leaf-shaped, and keen, of marvelous workmanship, damasked with serpent-forms in red and gold. They gleamed as he drew them from their black sheaths, wrought of some strange metal, light and strong, and set with many fiery stones." ---LotRI 
+> > __Weapon.__ +1 prowess to a maximum of 8. <br>_"For each of the hobbits he chose a dagger, long, leaf-shaped, and keen, of marvelous workmanship, damasked with serpent-forms in red and gold. They gleamed as he drew them from their black sheaths, wrought of some strange metal, light and strong, and set with many fiery stones."_ ***---LotRI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【+1/&ndash;】</div>
@@ -65,7 +65,7 @@ permalink: /cards/dagger-of-westernesse/
 > Minor Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Weapon. +1 prowess to a maximum of 8.  "For each of the hobbits he chose a dagger, long, leaf-shaped, and keen, of marvelous workmanship, damasked with serpent-forms in red and gold. They gleamed as he drew them from their black sheaths, wrought of some strange metal, light and strong, and set with many fiery stones." ---LotRI 
+> > _Weapon._ +1 prowess to a maximum of 8. <br>_"For each of the hobbits he chose a dagger, long, leaf-shaped, and keen, of marvelous workmanship, damasked with serpent-forms in red and gold. They gleamed as he drew them from their black sheaths, wrought of some strange metal, light and strong, and set with many fiery stones."_ ***---LotRI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【+1/&ndash;】</div>

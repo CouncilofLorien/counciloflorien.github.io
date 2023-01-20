@@ -25,7 +25,7 @@ permalink: /cards/king-under-the-mountain/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Unique. Playable on Balin, Dain II, Thorin II, or Thrain II if his company has defeated an at home Dragon manifestation attack other than Earcaraxe at Home. The target Dwarf receives +5 direct influence against Dwarves and Dwarf factions. The site where the Dragon was defeated becomes a Border-hold and Dwarf-hold for all purposes and has no dragon automatic attacks. Only Dwarves may play items at this site.  
+> > _**Unique.**_ Playable on Balin, Dain II, Thorin II, or Thrain II if his company has defeated an at home Dragon manifestation attack other than Earcaraxe at Home. The target Dwarf receives +5 direct influence against Dwarves and Dwarf factions. The site where the Dragon was defeated becomes a Border-hold and Dwarf-hold for all purposes and has no dragon automatic attacks. Only Dwarves may play items at this site.  
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

@@ -25,7 +25,7 @@ permalink: /cards/hiding/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Scout only at the end of the organization phase. Scout's company may not move to another site this turn. Cancels all hazard creature attacks against the scout's company this turn.  "They were clad in shadow-grey, and could not be seen among the tree-stems, unless they moved suddenly."  ---LotRII 
+> > Scout only at the end of the organization phase. Scout's company may not move to another site this turn. Cancels all hazard creature attacks against the scout's company this turn. <br>_"They were clad in shadow-grey, and could not be seen among the tree-stems, unless they moved suddenly."_ ***---LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/hiding/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Scout only at the end of the organization phase. Scout's company may not move to another site this turn. Cancels all hazard creature attacks against the scout's company this turn.  "They were clad in shadow-grey, and could not be seen among the tree-stems, unless they moved suddenly."  ---LotRII 
+> > Scout only at the end of the organization phase. Scout's company may not move to another site this turn. Cancels all hazard creature attacks against the scout's company this turn. <br>_"They were clad in shadow-grey, and could not be seen among the tree-stems, unless they moved suddenly."_ ***---LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

@@ -19,13 +19,13 @@ permalink: /cards/ill-favoured-fellow/
 > > <div class="card-name">Ill-favoured Fellow</div>
 >
 > {: .minion-character-frame .black-text .p-1 .pl-2 }
-> > 3![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 3 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Ranger Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > Half-orc. Discard on a body check result of 9.  "One of the travelers, a squint-eyed ill-favoured fellow, was foretelling that more and more people would be coming north in the near future."  ---LotRI  Home Site: Any Dark-hold 
+> > _Half-orc._ Discard on a body check result of 9. <br>_"One of the travelers, a squint-eyed ill-favoured fellow, was foretelling that more and more people would be coming north in the near future."_ ***---LotRI***  <br><br>**Home Site:** Any Dark-hold 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【2/9】</div>
@@ -39,13 +39,13 @@ permalink: /cards/ill-favoured-fellow/
 > > <div class="card-name">Ill-favoured Fellow</div>
 >
 > {: .minion-character-frame .black-text .p-1 .pl-2 }
-> > 3![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 3 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Ranger Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > Half-orc. Discard on a body check result of 9.  "One of the travelers, a squint-eyed ill-favoured fellow, was foretelling that more and more people would be coming north in the near future."  ---LotRI  Home Site: Any Dark-hold 
+> > _Half-orc._ Discard on a body check result of 9. <br>_"One of the travelers, a squint-eyed ill-favoured fellow, was foretelling that more and more people would be coming north in the near future."_ ***---LotRI***  <br><br>**Home Site:** Any Dark-hold 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【2/9】</div>

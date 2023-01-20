@@ -25,7 +25,7 @@ permalink: /cards/ancient-black-axe/
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Unique. Playable at any Under-deeps Shadow-hold \[![](/assets/images/shadow-hold.svg)]. Weapon. +2 direct influence. Warrior only: +3 prowess (to a maximum of 11); -1 to strike's body.; tap this item to make a character at the same site automatically pass a corruption check. When this item becomes tapped, bearer makes a corruption check. 
+> > _**Unique.**_ Playable at any Under-deeps Shadow-hold \[![](/assets/images/shadow-hold.svg)]. _Weapon._ +2 direct influence. Warrior only: +3 prowess (to a maximum of 11); -1 to strike's body.; tap this item to make a character at the same site automatically pass a corruption check. When this item becomes tapped, bearer makes a corruption check. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【+3/&ndash;】</div>

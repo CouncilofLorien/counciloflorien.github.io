@@ -25,7 +25,7 @@ permalink: /cards/star-of-high-hope/
 > Long-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Environment. The prowess of each Elf and Dunadan is modified by +1 (by +2 if Gates of Morning is in play).   "...ever still a herald on an errand that should never rest to bear his shining lamp afar the Flammifer of the Westerness."  ---LotRII 
+> > _Environment._ The prowess of each Elf and Dunadan is modified by +1 (by +2 if Gates of Morning is in play).   "...ever still a herald on an errand that should never rest to bear his shining lamp afar the Flammifer of the Westerness."_ ***---LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

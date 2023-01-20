@@ -25,7 +25,7 @@ permalink: /cards/not-at-home/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Cancel one Dragon, Drake, or Troll automatic-attack or attack keyed to a site. Alternatively, if Gates of Morning is in play, reduce the number of strikes of any automatic-attack by 2 (to a minimum of one).   "'...He is not at home today (or tonight, or whatever it is), I do believe.'"  ---Hob 
+> > Cancel one Dragon, Drake, or Troll automatic-attack or attack keyed to a site. Alternatively, if Gates of Morning is in play, reduce the number of strikes of any automatic-attack by 2 (to a minimum of one).   "'...He is not at home today (or tonight, or whatever it is), I do believe.'"_ ***---Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/not-at-home/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Cancel one Dragon, Drake, or Troll automatic-attack or attack keyed to a site. Alternatively, if Gates of Morning is in play, reduce the number of strikes of any automatic-attack by 2 (to a minimum of one).   "'...He is not at home today (or tonight, or whatever it is), I do believe.'"  ---Hob 
+> > Cancel one Dragon, Drake, or Troll automatic-attack or attack keyed to a site. Alternatively, if Gates of Morning is in play, reduce the number of strikes of any automatic-attack by 2 (to a minimum of one).   "'...He is not at home today (or tonight, or whatever it is), I do believe.'"_ ***---Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

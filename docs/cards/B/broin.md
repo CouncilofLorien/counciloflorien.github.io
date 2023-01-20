@@ -19,13 +19,13 @@ permalink: /cards/broin/
 > > <div class="card-name">Broin</div>
 >
 > {: .minion-character-frame .black-text .p-1 .pl-2 }
-> > 3![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 3 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Scout Dwarf
 >
 > {: .minion-character-text .black-text .p-2 }
-> > Unique. +1 prowess against Orcs and Elves.  "Though they be slain or broken, they could not be reduced to shadows enslaved to another will." ---LotR  Home Site: Moria 
+> > _**Unique.**_ +1 prowess against Orcs and Elves. <br>_"Though they be slain or broken, they could not be reduced to shadows enslaved to another will." ---LotR  <br><br>**Home Site:** Moria 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【3/8】</div>

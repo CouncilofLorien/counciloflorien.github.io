@@ -25,7 +25,7 @@ permalink: /cards/fell-winter/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Environment. Each Border-hold \[![](/assets/images/border-hold.svg)] receives an automatic-attack: Wolves-3 strikes with 7 prowess. Additionally, if Doors of Night is in play, treat all Free-domains \[![](/assets/images/free-domain.svg)] as Border-lands \[![](/assets/images/border-land.svg)] and all Border-lands \[![](/assets/images/border-land.svg)] as Wildernesses \[![](/assets/images/wilderness.svg)]. Cannot be duplicated. 
+> > _Environment._ Each Border-hold \[![](/assets/images/border-hold.svg)] receives an automatic-attack: Wolves-3 strikes with 7 prowess. Additionally, if Doors of Night is in play, treat all Free-domains \[![](/assets/images/free-domain.svg)] as Border-lands \[![](/assets/images/border-land.svg)] and all Border-lands \[![](/assets/images/border-land.svg)] as Wildernesses \[![](/assets/images/wilderness.svg)]. Cannot be duplicated. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/fell-winter/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Environment. Each Border-hold \[![](/assets/images/border-hold.svg)] receives an automatic-attack: Wolves-3 strikes with 7 prowess. Additionally, if Doors of Night is in play, treat all Free-domains \[![](/assets/images/free-domain.svg)] as Border-lands \[![](/assets/images/border-land.svg)] and all Border-lands \[![](/assets/images/border-land.svg)] as Wildernesses \[![](/assets/images/wilderness.svg)]. Cannot be duplicated. 
+> > _Environment._ Each Border-hold \[![](/assets/images/border-hold.svg)] receives an automatic-attack: Wolves-3 strikes with 7 prowess. Additionally, if Doors of Night is in play, treat all Free-domains \[![](/assets/images/free-domain.svg)] as Border-lands \[![](/assets/images/border-land.svg)] and all Border-lands \[![](/assets/images/border-land.svg)] as Wildernesses \[![](/assets/images/wilderness.svg)]. Cannot be duplicated. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/fell-winter/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Environment. Each Border-hold \[![](/assets/images/border-hold.svg)] receives an additional automatic-attack: Wolves-3 strikes with 7 prowess. Additionally, if Doors of Night is in play, treat all Free-domains \[![](/assets/images/free-domain.svg)] as Border-lands \[![](/assets/images/border-land.svg)] and all Border-lands \[![](/assets/images/border-land.svg)] as Wildernesses \[![](/assets/images/wilderness.svg)]. Cannot be duplicated. 
+> > _Environment._ Each Border-hold \[![](/assets/images/border-hold.svg)] receives an additional automatic-attack: Wolves-3 strikes with 7 prowess. Additionally, if Doors of Night is in play, treat all Free-domains \[![](/assets/images/free-domain.svg)] as Border-lands \[![](/assets/images/border-land.svg)] and all Border-lands \[![](/assets/images/border-land.svg)] as Wildernesses \[![](/assets/images/wilderness.svg)]. Cannot be duplicated. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

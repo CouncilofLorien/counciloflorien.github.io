@@ -25,7 +25,7 @@ permalink: /cards/gold-chains-in-the-wind/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Magic. Shadow-magic. Playable on a shadow-magic-using character facing an attack before strikes are assigned. An Ally with a prowess of 5 is created which leaves the game when the attack is finished. In all cases, the ally must face one of the attack's strikes. Unless he is a Ringwraith, character makes a corruption check modified by -4. 
+> > _Magic._ _Shadow-_Magic.__ Playable on a shadow-magic-using character facing an attack before strikes are assigned. An Ally with a prowess of 5 is created which leaves the game when the attack is finished. In all cases, the ally must face one of the attack's strikes. Unless he is a Ringwraith, character makes a corruption check modified by -4. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

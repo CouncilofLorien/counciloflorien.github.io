@@ -25,7 +25,7 @@ permalink: /cards/bag-end/
 > Shire
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Rivendell  "In a hole in ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down or to eat: it was a hobbit-hole and that means comfort." ---Hob 
+> > Nearest Haven: Rivendell  "In a hole in ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down or to eat: it was a hobbit-hole and that means comfort."_ ***---Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/bag-end/
 > Shire
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Rivendell  "In a hole in ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down or to eat: it was a hobbit-hole and that means comfort." ---Hob 
+> > Nearest Haven: Rivendell  "In a hole in ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down or to eat: it was a hobbit-hole and that means comfort."_ ***---Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/bag-end/
 > The Shire
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Carn Dum Playable: Information, Items (minor, major, greater*, gold ring) *-hero item only Automatic-attacks (2):  (1st) Hobbits-5 strikes with 5 prowess (2nd) Dunedain-3 strikes with 11 prowess 
+> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Information, Items (minor, major, greater*, gold ring) *-hero item only <br>_**Automatic-attacks (2):**_<br>  (1st) Hobbits-5 strikes with 5 prowess (2nd) Dunedain-3 strikes with 11 prowess 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/bag-end/
 > The Shire
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Carn Dum Playable: Information, Items (minor, major, greater*, gold ring) *-hero item only Automatic-attacks (2):  (1st) Hobbits-5 strikes with 5 prowess (2nd) Dunedain-3 strikes with 11 prowess 
+> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Information, Items (minor, major, greater*, gold ring) *-hero item only <br>_**Automatic-attacks (2):**_<br>  (1st) Hobbits-5 strikes with 5 prowess (2nd) Dunedain-3 strikes with 11 prowess 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>

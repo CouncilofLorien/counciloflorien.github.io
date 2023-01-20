@@ -25,7 +25,7 @@ permalink: /cards/bree/
 > Arthedain
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Rivendell  "Bree was the chief village of the Bree-land, a small inhabited region, like an island in the empty lands round about... The village of Bree had some hundred houses of the Big Folk, mostly above the road, nestling on the hillside with windows looking west." ---LotRI 
+> > Nearest Haven: Rivendell  "Bree was the chief village of the Bree-land, a small inhabited region, like an island in the empty lands round about... The village of Bree had some hundred houses of the Big Folk, mostly above the road, nestling on the hillside with windows looking west."_ ***---LotRI*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/bree/
 > Arthedain
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Rivendell  "Bree was the chief village of the Bree-land, a small inhabited region, like an island in the empty lands round about... The village of Bree had some hundred houses of the Big Folk, mostly above the road, nestling on the hillside with windows looking west." ---LotRI 
+> > Nearest Haven: Rivendell  "Bree was the chief village of the Bree-land, a small inhabited region, like an island in the empty lands round about... The village of Bree had some hundred houses of the Big Folk, mostly above the road, nestling on the hillside with windows looking west."_ ***---LotRI*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/bree/
 > Arthedain
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Carn Dum Playable: Information, Items (minor, gold ring) Automatic-attacks: Dunedain-each character faces 1 strike with 7 prowess (detainment against covert company) Special: Agent minions may be brought into play under direct influence at this site. 
+> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Information, Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Dunedain-each character faces 1 strike with 7 prowess (detainment against covert company) <br>_**Special:**_ Agent minions may be brought into play under direct influence at this site. 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/bree/
 > Arthedain
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Rivendell  "Bree was the chief village of the Bree-land, a small inhabited region, like an island in the empty lands round about... The village of Bree had some hundred houses of the Big Folk, mostly above the road, nestling on the hillside with windows looking west." ---LotRI 
+> > Nearest Haven: Rivendell  "Bree was the chief village of the Bree-land, a small inhabited region, like an island in the empty lands round about... The village of Bree had some hundred houses of the Big Folk, mostly above the road, nestling on the hillside with windows looking west."_ ***---LotRI*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>

@@ -25,7 +25,7 @@ permalink: /cards/brigands/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Men. Two strikes. If any strike of Brigands wounds a character, the company must immediately discard one item (of defender's choice).  "...some would join forces with the Easterlings, either out of greed for spoil, or in furtherance of feuds among their princes." ---LotR 
+> > _Men._ Two strikes. If any strike of Brigands wounds a character, the company must immediately discard one item (of defender's choice). <br>_"...some would join forces with the Easterlings, either out of greed for spoil, or in furtherance of feuds among their princes." ---LotR 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【8/&ndash;】</div>
@@ -45,7 +45,7 @@ permalink: /cards/brigands/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Men. Two strikes. If any strike of Brigands wounds a character, the company must immediately discard one item (of defender's choice).  "...some would join forces with the Easterlings, either out of greed for spoil, or in furtherance of feuds among their princes." ---LotR 
+> > _Men._ Two strikes. If any strike of Brigands wounds a character, the company must immediately discard one item (of defender's choice). <br>_"...some would join forces with the Easterlings, either out of greed for spoil, or in furtherance of feuds among their princes." ---LotR 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【8/&ndash;】</div>
@@ -65,7 +65,7 @@ permalink: /cards/brigands/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Men. Two strikes. If any strike of Brigands wounds a character, the company must immediately discard one item (of defender's choice).  "...some would join forces with the Easterlings, either out of greed for spoil, or in furtherance of feuds among their princes." ---LotR 
+> > _Men._ Two strikes. If any strike of Brigands wounds a character, the company must immediately discard one item (of defender's choice). <br>_"...some would join forces with the Easterlings, either out of greed for spoil, or in furtherance of feuds among their princes." ---LotR 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【8/&ndash;】</div>
@@ -85,7 +85,7 @@ permalink: /cards/brigands/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Men. Two strikes. If any strike of Brigands wounds a character, the company must immediately discard one item (of defender's choice).  "'...most were bad men, full o'thievery and mischief.'" ---LotRVI 
+> > _Men._ Two strikes. If any strike of Brigands wounds a character, the company must immediately discard one item (of defender's choice). <br>_"'...most were bad men, full o'thievery and mischief.'"_ ***---LotRVI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【8/&ndash;】</div>
@@ -105,7 +105,7 @@ permalink: /cards/brigands/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Men. Two strikes. If any strike of Brigands wounds a character, the company must immediately discard one item (of defender's choice).  "...some would join forces with the Easterlings, either out of greed for spoil, or in furtherance of feuds among their princes." ---LotR 
+> > _Men._ Two strikes. If any strike of Brigands wounds a character, the company must immediately discard one item (of defender's choice). <br>_"...some would join forces with the Easterlings, either out of greed for spoil, or in furtherance of feuds among their princes." ---LotR 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【8/&ndash;】</div>

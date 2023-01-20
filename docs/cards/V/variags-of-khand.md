@@ -25,7 +25,7 @@ permalink: /cards/variags-of-khand/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Unique. Playable at Variag Camp if the influence check is greater than 9.  Standard Modifications: none.  "...passed south of Mordor and made alliance with the men of Khand..." ---LotR 
+> > _**Unique.**_ Playable at Variag Camp if the influence check is greater than 9.  <br>_Standard Modifications:_ none. <br>_"...passed south of Mordor and made alliance with the men of Khand..." ---LotR 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/variags-of-khand/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Unique. Playable at Variag Camp if the influence check is greater than 9.  Standard Modifications: none.  "...passed south of Mordor and made alliance with the men of Khand..." ---LotR 
+> > _**Unique.**_ Playable at Variag Camp if the influence check is greater than 9.  <br>_Standard Modifications:_ none. <br>_"...passed south of Mordor and made alliance with the men of Khand..." ---LotR 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/variags-of-khand/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Unique. Manifestation of hero Variags of Khand. Playable at Variag Camp if the influence check is greater than 8.  Standard Modifications: Nurniags (+2), Haradrim (-2).  "Hard fighting...and the hills and mountains were dyed as with blood." ---LotRV  
+> > _**Unique.**_ Manifestation of hero Variags of Khand. Playable at Variag Camp if the influence check is greater than 8.  <br>_Standard Modifications:_ Nurniags (+2), Haradrim (-2). <br>_"Hard fighting...and the hills and mountains were dyed as with blood."_ ***---LotRV***  
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

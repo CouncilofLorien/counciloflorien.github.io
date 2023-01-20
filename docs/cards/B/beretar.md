@@ -19,13 +19,13 @@ permalink: /cards/beretar/
 > > <div class="character-card-name">Beretar</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 5![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
+> > 5 ![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Ranger Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. +2 direct influence against the Rangers of the North faction.  "When the kingdom ended the Dunedain passed into the shadows and became a secret and wandering people, and their deeds and labours were seldom sung or recorded." ---LotR  Home Site: Bree 
+> > _**Unique.**_ +2 direct influence against the Rangers of the North faction. <br>_"When the kingdom ended the Dunedain passed into the shadows and became a secret and wandering people, and their deeds and labours were seldom sung or recorded." ---LotR  <br><br>**Home Site:** Bree 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【5/8】</div>
@@ -39,13 +39,13 @@ permalink: /cards/beretar/
 > > <div class="character-card-name">Beretar</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 5![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
+> > 5 ![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Ranger Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. +2 direct influence against the Rangers of the North faction.  "When the kingdom ended the Dunedain passed into the shadows and became a secret and wandering people, and their deeds and labours were seldom sung or recorded." ---LotR  Home Site: Bree 
+> > _**Unique.**_ +2 direct influence against the Rangers of the North faction. <br>_"When the kingdom ended the Dunedain passed into the shadows and became a secret and wandering people, and their deeds and labours were seldom sung or recorded." ---LotR  <br><br>**Home Site:** Bree 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【5/8】</div>
@@ -59,13 +59,13 @@ permalink: /cards/beretar/
 > > <div class="character-card-name">Beretar</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 5![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
+> > 5 ![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Ranger Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. +2 direct influence against the Rangers of the North faction.  "When the kingdom ended the Dunedain passed into the shadows and became a secret and wandering people, and their deeds and labours were seldom sung or recorded." ---LotR  Home Site: Bree 
+> > _**Unique.**_ +2 direct influence against the Rangers of the North faction. <br>_"When the kingdom ended the Dunedain passed into the shadows and became a secret and wandering people, and their deeds and labours were seldom sung or recorded." ---LotR  <br><br>**Home Site:** Bree 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【5/8】</div>

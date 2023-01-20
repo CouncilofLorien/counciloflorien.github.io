@@ -19,13 +19,13 @@ permalink: /cards/damrod/
 > > <div class="character-card-name">Damrod</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 2![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 2 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Scout/Ranger Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. +2 direct influence against the Men of Lamedon faction.  "...and they were Rangers of Ithilien; for they were descended from folk who lived in Ithilien at one time, before it was overrun." ---LotRIV  Home Site: Vale of Erech 
+> > _**Unique.**_ +2 direct influence against the Men of Lamedon faction. <br>_"...and they were Rangers of Ithilien; for they were descended from folk who lived in Ithilien at one time, before it was overrun."_ ***---LotRIV***  <br><br>**Home Site:** Vale of Erech 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【2/7】</div>
@@ -39,13 +39,13 @@ permalink: /cards/damrod/
 > > <div class="character-card-name">Damrod</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 2![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 2 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Scout/Ranger Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. +2 direct influence against the Men of Lamedon faction.  "...and they were Rangers of Ithilien; for they were descended from folk who lived in Ithilien at one time, before it was overrun." ---LotRIV  Home Site: Vale of Erech 
+> > _**Unique.**_ +2 direct influence against the Men of Lamedon faction. <br>_"...and they were Rangers of Ithilien; for they were descended from folk who lived in Ithilien at one time, before it was overrun."_ ***---LotRIV***  <br><br>**Home Site:** Vale of Erech 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【2/7】</div>

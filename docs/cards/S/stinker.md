@@ -19,13 +19,13 @@ permalink: /cards/stinker/
 > > <div class="card-name">Stinker</div>
 >
 > {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > 4![](/assets/images/mind.svg)
+> > 4 ![](/assets/images/mind.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Scout Ally
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Unique. Playable at Goblin-gate or Moria. Manifestation of Gollum and My Precious. If his company's size is less than three, tap Stinker to cancel one attack against his company keyed to Wilderness \[![](/assets/images/wilderness.svg)] or Shadow-land \[![](/assets/images/shadow-land.svg)]. You may tap Stinker if he is at the same non-Darkhaven site as The One Ring; then both Stinker and The One Ring are discarded. 
+> > _**Unique.**_ Playable at Goblin-gate or Moria. Manifestation of Gollum and My Precious. If his company's size is less than three, tap Stinker to cancel one attack against his company keyed to Wilderness \[![](/assets/images/wilderness.svg)] or Shadow-land \[![](/assets/images/shadow-land.svg)]. You may tap Stinker if he is at the same non-Darkhaven site as The One Ring; then both Stinker and The One Ring are discarded. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【2/9】</div>
@@ -39,13 +39,13 @@ permalink: /cards/stinker/
 > > <div class="card-name">Stinker</div>
 >
 > {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > 4![](/assets/images/mind.svg)
+> > 4 ![](/assets/images/mind.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Scout Ally
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Unique. Playable at Goblin-gate or Moria. Manifestation of Gollum and My Precious. If his company's size is less than three, tap Stinker to cancel one attack against his company keyed to Wilderness \[![](/assets/images/wilderness.svg)] or Shadow-land \[![](/assets/images/shadow-land.svg)]. You may tap Stinker if he is at the same non-Darkhaven site as The One Ring; then both Stinker and The One Ring are discarded. 
+> > _**Unique.**_ Playable at Goblin-gate or Moria. Manifestation of Gollum and My Precious. If his company's size is less than three, tap Stinker to cancel one attack against his company keyed to Wilderness \[![](/assets/images/wilderness.svg)] or Shadow-land \[![](/assets/images/shadow-land.svg)]. You may tap Stinker if he is at the same non-Darkhaven site as The One Ring; then both Stinker and The One Ring are discarded. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【2/9】</div>
@@ -59,13 +59,13 @@ permalink: /cards/stinker/
 > > <div class="card-name">Stinker</div>
 >
 > {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > 4![](/assets/images/mind.svg)
+> > 4 ![](/assets/images/mind.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Scout Ally
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Unique. Playable at Goblin-gate or Moria. Manifestation of Gollum and My Precious. If his company's size is less than three, tap Stinker to cancel one attack against his company keyed to Wilderness \[![](/assets/images/wilderness.svg)] or Shadow-land \[![](/assets/images/shadow-land.svg)]. You may tap Stinker if he is at the same non-Darkhaven site as The One Ring; then both Stinker and The One Ring are discarded. 
+> > _**Unique.**_ Playable at Goblin-gate or Moria. Manifestation of Gollum and My Precious. If his company's size is less than three, tap Stinker to cancel one attack against his company keyed to Wilderness \[![](/assets/images/wilderness.svg)] or Shadow-land \[![](/assets/images/shadow-land.svg)]. You may tap Stinker if he is at the same non-Darkhaven site as The One Ring; then both Stinker and The One Ring are discarded. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【2/9】</div>

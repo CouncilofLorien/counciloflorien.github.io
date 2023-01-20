@@ -25,7 +25,7 @@ permalink: /cards/goblin-faces/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Orcs. Men. 3 strikes. Following the attack, the attacker looks at a number of cards from the top of the defender's play deck equal to the number of successful strikes of the attack. The attacker may place any of these cards face down on the bottom of the defender's bottom of the defender's play deck (in any order he chooses). He places the rest on top of the defender's deck (in any order he chooses). 
+> > _Orcs._ Men. 3 strikes. Following the attack, the attacker looks at a number of cards from the top of the defender's play deck equal to the number of successful strikes of the attack. The attacker may place any of these cards face down on the bottom of the defender's bottom of the defender's play deck (in any order he chooses). He places the rest on top of the defender's deck (in any order he chooses). 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【7/&ndash;】</div>

@@ -25,7 +25,7 @@ permalink: /cards/full-of-froth-and-rage/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > All Spider and Animal attacks receive +2 prowess. Discard if a Spider or Animal attack is defeated. Cannot be duplicated.   "...hairy legs waving, nippers and spinners snapping, eyes, popping, full of froth and rage." ---Hob 
+> > All Spider and Animal attacks receive +2 prowess. Discard if a Spider or Animal attack is defeated. Cannot be duplicated.   "...hairy legs waving, nippers and spinners snapping, eyes, popping, full of froth and rage."_ ***---Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/full-of-froth-and-rage/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > All Spider and Animal attacks receive +2 prowess. Discard if a Spider or Animal attack is defeated. Cannot be duplicated.   "...hairy legs waving, nippers and spinners snapping, eyes, popping, full of froth and rage." ---Hob 
+> > All Spider and Animal attacks receive +2 prowess. Discard if a Spider or Animal attack is defeated. Cannot be duplicated.   "...hairy legs waving, nippers and spinners snapping, eyes, popping, full of froth and rage."_ ***---Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/full-of-froth-and-rage/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > All Spider and Animal attacks receive +2 prowess. Discard if a Spider or Animal attack is defeated. Cannot be duplicated.   "...hairy legs waving, nippers and spinners snapping, eyes, popping, full of froth and rage." ---Hob 
+> > All Spider and Animal attacks receive +2 prowess. Discard if a Spider or Animal attack is defeated. Cannot be duplicated.   "...hairy legs waving, nippers and spinners snapping, eyes, popping, full of froth and rage."_ ***---Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

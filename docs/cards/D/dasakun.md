@@ -19,13 +19,13 @@ permalink: /cards/dasakun/
 > > <div class="card-name">Dasakun</div>
 >
 > {: .minion-character-frame .black-text .p-1 .pl-2 }
-> > 5![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
+> > 5 ![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Ranger Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > Unique. Agent.  "...a fierce people...wholly under the shadow of Dol Guldur..." ---LotR  Home Site: Easterling Camp, Variag Camp, Shrel-Kain  
+> > _**Unique.**_ Agent. <br>_"...a fierce people...wholly under the shadow of Dol Guldur..." ---LotR  <br><br>**Home Site:** Easterling Camp, Variag Camp, Shrel-Kain  
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【6/7】</div>

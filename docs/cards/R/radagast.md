@@ -25,7 +25,7 @@ permalink: /cards/radagast/
 > Warrior/Scout/Ranger/Diplomat Wizard
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. If his company moves to a new site during the movement/hazard phase, he may draw 1 additional card for each Wilderness \[![](/assets/images/wilderness.svg)] region in his company's site path. +1 to all of his corruption checks.  "'...a worthy wizard...has much lore of herbs and beasts...'" ---LotRII  Home Site: Rhosgobel 
+> > _**Unique.**_ If his company moves to a new site during the movement/hazard phase, he may draw 1 additional card for each Wilderness \[![](/assets/images/wilderness.svg)] region in his company's site path. +1 to all of his corruption checks. <br>_"'...a worthy wizard...has much lore of herbs and beasts...'"_ ***---LotRII***  <br><br>**Home Site:** Rhosgobel 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【6/9】</div>
@@ -45,10 +45,10 @@ permalink: /cards/radagast/
 > Warrior/Scout/Ranger/Diplomat Wizard
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. If his company moves to a new site during the movement/hazard phase, he may draw 1 additional card for each Wilderness \[![](/assets/images/wilderness.svg)] region in his company's site path. +1 to all of his corruption checks.  "'...a worthy wizard...has much lore of herbs and beasts...'" ---LotRII  Home Site: Rhosgobel 
+> > _**Unique.**_ If his company moves to a new site during the movement/hazard phase, he may draw 1 additional card for each Wilderness \[![](/assets/images/wilderness.svg)] region in his company's site path. +1 to all of his corruption checks. <br>_"'...a worthy wizard...has much lore of herbs and beasts...'"_ ***---LotRII***  <br><br>**Home Site:** Rhosgobel 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【6/9】</div>
+> > <div class="card-shield">【6/12】</div>
 > > <div class="card-corruption">〔+1〕</div>
 
 ### _Middle-earth: The White Hand_
@@ -59,13 +59,13 @@ permalink: /cards/radagast/
 > > <div class="character-card-name">Radagast</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 22![](/assets/images/gi.svg) 5![](/assets/images/di.svg)
+> > 22[gi] 5![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Scout/Ranger/Diplomat Fallen-wizard
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. Your unique factions that are neither Man, Dwarf, Dunedain, Hobbit, Orc, nor Troll are each worth 2 marshalling points. Your hero allies each are worth full marshalling points. Hero allies Radagast controls have no movement restrictions. When Radagast's new site is revealed, he may draw one additional card for each Wilderness \[![](/assets/images/wilderness.svg)] in his company's site path.   Home Site: Rhosgobel 
+> > _**Unique.**_ Your unique factions that are neither Man, Dwarf, Dunedain, Hobbit, Orc, nor Troll are each worth 2 marshalling points. Your hero allies each are worth full marshalling points. Hero allies Radagast controls have no movement restrictions. When Radagast's new site is revealed, he may draw one additional card for each Wilderness \[![](/assets/images/wilderness.svg)] in his company's site path.   <br><br>**Home Site:** Rhosgobel 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【6/9】</div>
@@ -85,8 +85,8 @@ permalink: /cards/radagast/
 > Warrior/Scout/Ranger/Diplomat Wizard
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. If his company moves to a new site during the movement/hazard phase, he may draw 1 additional card for each Wilderness \[![](/assets/images/wilderness.svg)] region in his company's site path. +1 to all of his corruption checks.  "'...a worthy wizard...has much lore of herbs and beasts...'" ---LotRII  Home Site: Rhosgobel 
+> > _**Unique.**_ If his company moves to a new site during the movement/hazard phase, he may draw 1 additional card for each Wilderness \[![](/assets/images/wilderness.svg)] region in his company's site path. +1 to all of his corruption checks. <br>_"'...a worthy wizard...has much lore of herbs and beasts...'"_ ***---LotRII***  <br><br>**Home Site:** Rhosgobel 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【6/9】</div>
+> > <div class="card-shield">【6/12】</div>
 > > <div class="card-corruption">〔+1〕</div>

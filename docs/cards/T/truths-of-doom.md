@@ -25,7 +25,7 @@ permalink: /cards/truths-of-doom/
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > Unique. Pallando specific. Your general influence is increased by 6 points. You may only use 2 of these 6 points to control characters.  "When the Numenoreans strayed from reverence for the Powers, then they made sacrifice in the mighty temple built upon the slopes of once-sacred Meneltarma."  ---Kuduk Lore 
+> > _**Unique.**_ _Pallando specific._ Your general influence is increased by 6 points. You may only use 2 of these 6 points to control characters. <br>_"When the Numenoreans strayed from reverence for the Powers, then they made sacrifice in the mighty temple built upon the slopes of once-sacred Meneltarma."_ ***---Kuduk Lore*** 
 > 
 > {: .stage-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

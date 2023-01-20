@@ -25,7 +25,7 @@ permalink: /cards/sellswords-between-charters/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Men. Two strikes.  "The Silver Age of the Mercenaries is said to have begun when the remaining Raggers besieged the first Canotaur to collect their back pay." ---Kuduk Lore 
+> > _Men._ Two strikes. <br>_"The Silver Age of the Mercenaries is said to have begun when the remaining Raggers besieged the first Canotaur to collect their back pay."_ ***---Kuduk Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【11/&ndash;】</div>
@@ -45,7 +45,7 @@ permalink: /cards/sellswords-between-charters/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Men. Two strikes.  "The Silver Age of the Mercenaries is said to have begun when the remaining Raggers besieged the first Canotaur to collect their back pay." ---Kuduk Lore 
+> > _Men._ Two strikes. <br>_"The Silver Age of the Mercenaries is said to have begun when the remaining Raggers besieged the first Canotaur to collect their back pay."_ ***---Kuduk Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【11/&ndash;】</div>
@@ -65,7 +65,7 @@ permalink: /cards/sellswords-between-charters/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Men. Two strikes.  "The Silver Age of the Mercenaries is said to have begun when the remaining Raggers besieged the first Canotaur to collect their back pay." ---Kuduk Lore 
+> > _Men._ Two strikes. <br>_"The Silver Age of the Mercenaries is said to have begun when the remaining Raggers besieged the first Canotaur to collect their back pay."_ ***---Kuduk Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【11/&ndash;】</div>

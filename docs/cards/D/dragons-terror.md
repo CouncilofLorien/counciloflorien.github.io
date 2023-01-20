@@ -25,7 +25,7 @@ permalink: /cards/dragons-terror/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Dark Enchantment. Playable on a Dragon or Drake hazard creature attack before the strikes are assigned. For each card you discard from your hand, when Dragon's Terror is declared, target one non-Wizard character of your choice in the defending company and make a roll (or draw a #)-add +2 for a Dragon attack. If the result is greater than the character's mind, the character taps. Each card discarded in this fashion counts as one against the company's hazard limit. 
+> > _Dark Enchantment._ Playable on a Dragon or Drake hazard creature attack before the strikes are assigned. For each card you discard from your hand, when Dragon's Terror is declared, target one non-Wizard character of your choice in the defending company and make a roll (or draw a #)-add +2 for a Dragon attack. If the result is greater than the character's mind, the character taps. Each card discarded in this fashion counts as one against the company's hazard limit. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

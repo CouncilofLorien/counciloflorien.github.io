@@ -25,7 +25,7 @@ permalink: /cards/durins-folk/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Dwarves. Five strikes. Detainment and -2 prowess against hero companies. May also be played keyed to The Shire.   "Fathers would beg us to take their sons as apprentices, and pay us handsomely, especially in food supplies, which we never bothered to grow or find for ourselves." ---Hob 
+> > _Dwarves._ Five strikes. Detainment and -2 prowess against hero companies. May also be played keyed to The Shire.   "Fathers would beg us to take their sons as apprentices, and pay us handsomely, especially in food supplies, which we never bothered to grow or find for ourselves."_ ***---Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【8/&ndash;】</div>

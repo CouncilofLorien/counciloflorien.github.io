@@ -19,13 +19,13 @@ permalink: /cards/om-buri-om/
 > > <div class="card-name">Om-buri-Om</div>
 >
 > {: .minion-character-frame .black-text .p-1 .pl-2 }
-> > 5![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
+> > 5 ![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Scout/Ranger Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > Unique. Agent. +3 direct influence against Wose factions.  "Here was one of those old images brought to life." ---LotRV  Home Site: Druadan Forest, Wose Passage-hold, Stone-circle 
+> > _**Unique.**_ Agent. +3 direct influence against Wose factions. <br>_"Here was one of those old images brought to life."_ ***---LotRV***  <br><br>**Home Site:** Druadan Forest, Wose Passage-hold, Stone-circle 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【2/9】</div>

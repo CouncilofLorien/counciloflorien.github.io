@@ -25,7 +25,7 @@ permalink: /cards/white-light-broken/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Magic. Sorcery. Playable on a sorcery-using character. All of his corruption checks are modifiedby +2 for the rest of the turn. Alternatively, playable on a sorcery-using Fallen-wizard. -4 to his stage points (to a minimum of 3) for the rest of the turn. Unless the sorcery-user is a Ringwraith, he makes a corruption check. 
+> > _Magic._ _Sorcery._ Playable on a sorcery-using character. All of his corruption checks are modifiedby +2 for the rest of the turn. Alternatively, playable on a sorcery-using Fallen-wizard. -4 to his stage points (to a minimum of 3) for the rest of the turn. Unless the sorcery-user is a Ringwraith, he makes a corruption check. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

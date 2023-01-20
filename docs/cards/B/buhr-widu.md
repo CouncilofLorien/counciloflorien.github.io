@@ -25,7 +25,7 @@ permalink: /cards/buhr-widu/
 > Southern Rhovanion
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien Playable: Items (minor, major) Automatic-attacks: Troll-1 strike with 10 prowess Special: This site is always returned to the location deck, never to the discard pile.  "...from their tree-felling they created the grassy East Blight, where stood Buhr Widu, their lord's hold and capital." ---Kuduk Lore 
+> > Nearest Haven: Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Troll-1 strike with 10 prowess <br>_**Special:**_ This site is always returned to the location deck, never to the discard pile. <br>_"...from their tree-felling they created the grassy East Blight, where stood Buhr Widu, their lord's hold and capital."_ ***---Kuduk Lore*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;3&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/buhr-widu/
 > Southern Rhovanion
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur Playable: Items (minor, major) Automatic-attacks: Troll-1 strike with 10 prowess  "...there, in Mirkwood's East Blight, stood the ancient capital of a Northern Kingdom." ---Kuduk Lore 
+> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Troll-1 strike with 10 prowess  "...there, in Mirkwood's East Blight, stood the ancient capital of a Northern Kingdom."_ ***---Kuduk Lore*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/buhr-widu/
 > Southern Rhovanion
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien Playable: Items (minor, major) Automatic-attacks: Troll-1 strike with 10 prowess Special: This site is always returned to the location deck, never to the discard pile.  "...from their tree-felling they created the grassy East Blight, where stood Buhr Widu, their lord's hold and capital." ---Kuduk Lore 
+> > Nearest Haven: Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Troll-1 strike with 10 prowess <br>_**Special:**_ This site is always returned to the location deck, never to the discard pile. <br>_"...from their tree-felling they created the grassy East Blight, where stood Buhr Widu, their lord's hold and capital."_ ***---Kuduk Lore*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;3&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>

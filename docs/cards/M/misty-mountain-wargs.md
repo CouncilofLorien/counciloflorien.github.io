@@ -25,7 +25,7 @@ permalink: /cards/misty-mountain-wargs/
 > Wolf Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Unique. Playable at Ettenmoors if the influence check is greater than 9. Once in play, the number required to influence this faction is 0. If this influence attempt is made by an Orc or Troll leader, you may place this faction under the control of that leader and not tap the site. Discard the faction if the leader moves or leaves play. 3 or more factions controlled by the same leader give 2 extra marshalling points. Standard Modifications: Goblins of Goblin-gate (+2), Wargs of Forochel (+2).   
+> > _**Unique.**_ Playable at Ettenmoors if the influence check is greater than 9. Once in play, the number required to influence this faction is 0. If this influence attempt is made by an Orc or Troll leader, you may place this faction under the control of that leader and not tap the site. Discard the faction if the leader moves or leaves play. 3 or more factions controlled by the same leader give 2 extra marshalling points. <br>_Standard Modifications:_ Goblins of Goblin-gate (+2), Wargs of Forochel (+2).   
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

@@ -19,13 +19,13 @@ permalink: /cards/fatty-bolger/
 > > <div class="character-card-name">Fatty Bolger</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 3![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 3 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Scout Hobbit
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. Unless he is one of the starting characters, he may only be brought into play at his home site. All his corruption checks are modified by +1. He can tap to cancel a strike against another Hobbit in his company.  "Fatty Bolger had not been idle. As soon as he saw the dark shapes creep from the garden, he knew the he must run for it, or perish." ---LotRI  Home Site: Bag End 
+> > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All his corruption checks are modified by +1. He can tap to cancel a strike against another Hobbit in his company. <br>_"Fatty Bolger had not been idle. As soon as he saw the dark shapes creep from the garden, he knew the he must run for it, or perish."_ ***---LotRI***  <br><br>**Home Site:** Bag End 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【1/8】</div>
@@ -39,13 +39,13 @@ permalink: /cards/fatty-bolger/
 > > <div class="character-card-name">Fatty Bolger</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 3![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 3 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > 
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. Unless he is one of the starting characters, he may only be brought into play at his home site. All his corruption checks are modified by +1. He can tap to cancel a strike against another Hobbit in his company.  "Fatty Bolger had not been idle. As soon as he saw the dark shapes creep from the garden, he knew the he must run for it, or perish." ---LotRI  Home Site: Bag End 
+> > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All his corruption checks are modified by +1. He can tap to cancel a strike against another Hobbit in his company. <br>_"Fatty Bolger had not been idle. As soon as he saw the dark shapes creep from the garden, he knew the he must run for it, or perish."_ ***---LotRI***  <br><br>**Home Site:** Bag End 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【1/8】</div>

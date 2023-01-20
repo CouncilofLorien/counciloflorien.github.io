@@ -25,7 +25,7 @@ permalink: /cards/thunders-companion/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Giants. Three strikes. Two Wildernesses \[![](/assets/images/wilderness.svg)] in site path are required.  "They could hear the giants guffawing and shouting all over the mountainsides." ---Hob 
+> > _Giants._ Three strikes. Two Wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. <br>_"They could hear the giants guffawing and shouting all over the mountainsides."_ ***---Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【9/&ndash;】</div>
@@ -45,7 +45,7 @@ permalink: /cards/thunders-companion/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Giants. Three strikes.  "...there are fell voices on the air; and these stones are aimed at us." ---LotRII 
+> > _Giants._ Three strikes. <br>_"...there are fell voices on the air; and these stones are aimed at us."_ ***---LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【9/&ndash;】</div>

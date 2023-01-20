@@ -19,13 +19,13 @@ permalink: /cards/erkenbrand/
 > > <div class="character-card-name">Erkenbrand</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 4![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior Man
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. +2 direct influence against the Riders of Rohan faction.  "Amid them strode a man tall and strong. His shield was red. As he came to the valley's brink, he set to his lips a great black horn and blew a ringing blast." ---LotRIII  Home Site: Edoras 
+> > _**Unique.**_ +2 direct influence against the Riders of Rohan faction. <br>_"Amid them strode a man tall and strong. His shield was red. As he came to the valley's brink, he set to his lips a great black horn and blew a ringing blast."_ ***---LotRIII***  <br><br>**Home Site:** Edoras 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【5/6】</div>
@@ -39,13 +39,13 @@ permalink: /cards/erkenbrand/
 > > <div class="character-card-name">Erkenbrand</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 4![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior Man
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. +2 direct influence against the Riders of Rohan faction.  "Amid them strode a man tall and strong. His shield was red. As he came to the valley's brink, he set to his lips a great black horn and blew a ringing blast." ---LotRIII  Home Site: Edoras 
+> > _**Unique.**_ +2 direct influence against the Riders of Rohan faction. <br>_"Amid them strode a man tall and strong. His shield was red. As he came to the valley's brink, he set to his lips a great black horn and blew a ringing blast."_ ***---LotRIII***  <br><br>**Home Site:** Edoras 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【5/6】</div>
@@ -59,13 +59,13 @@ permalink: /cards/erkenbrand/
 > > <div class="character-card-name">Erkenbrand</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 4![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior Man
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. +2 direct influence against the Riders of Rohan faction.  "Amid them strode a man tall and strong. His shield was red. As he came to the valley's brink, he set to his lips a great black horn and blew a ringing blast." ---LotRIII  Home Site: Edoras 
+> > _**Unique.**_ +2 direct influence against the Riders of Rohan faction. <br>_"Amid them strode a man tall and strong. His shield was red. As he came to the valley's brink, he set to his lips a great black horn and blew a ringing blast."_ ***---LotRIII***  <br><br>**Home Site:** Edoras 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【5/6】</div>
@@ -79,13 +79,13 @@ permalink: /cards/erkenbrand/
 > > <div class="character-card-name">Erkenbrand</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 4![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior Man
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. +2 direct influence against the Riders of Rohan faction.  "Amid them strode a man tall and strong. His shield was red. As he came to the valley's brink, he set to his lips a great black horn and blew a ringing blast." ---LotRIII  Home Site: Edoras 
+> > _**Unique.**_ +2 direct influence against the Riders of Rohan faction. <br>_"Amid them strode a man tall and strong. His shield was red. As he came to the valley's brink, he set to his lips a great black horn and blew a ringing blast."_ ***---LotRIII***  <br><br>**Home Site:** Edoras 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【5/6】</div>

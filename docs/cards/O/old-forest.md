@@ -25,7 +25,7 @@ permalink: /cards/old-forest/
 > Cardolan
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Rivendell Special: Healing effects affect all characters at the site  "'For you are still afraid, perhaps, of mist and tree-shadows and deep water, and untame things. Fear Nothing!'" ---LotRI 
+> > Nearest Haven: Rivendell <br>_**Special:**_ Healing effects affect all characters at the site  "'For you are still afraid, perhaps, of mist and tree-shadows and deep water, and untame things. Fear Nothing!'"_ ***---LotRI*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/old-forest/
 > Cardolan
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Rivendell Special: Healing effects affect all characters at the site  "'For you are still afraid, perhaps, of mist and tree-shadows and deep water, and untame things. Fear Nothing!'" ---LotRI 
+> > Nearest Haven: Rivendell <br>_**Special:**_ Healing effects affect all characters at the site  "'For you are still afraid, perhaps, of mist and tree-shadows and deep water, and untame things. Fear Nothing!'"_ ***---LotRI*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/old-forest/
 > Cardolan
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Carn Dum Playable: Items (minor, major) Automatic-attacks: Maia-2 strikes with 15 prowess (cannot be canceled)  "'Very few people live in these parts, unless they have come here since I was last down this way, which is some years ago. But there is somebody that I know of, who lives not far away.'" ---Hob 
+> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Maia-2 strikes with 15 prowess (cannot be canceled)  "'Very few people live in these parts, unless they have come here since I was last down this way, which is some years ago. But there is somebody that I know of, who lives not far away.'"_ ***---Hob*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/old-forest/
 > Cardolan
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Rivendell Special: Healing effects affect all characters at the site  "'For you are still afraid, perhaps, of mist and tree-shadows and deep water, and untame things. Fear Nothing!'" ---LotRI 
+> > Nearest Haven: Rivendell <br>_**Special:**_ Healing effects affect all characters at the site  "'For you are still afraid, perhaps, of mist and tree-shadows and deep water, and untame things. Fear Nothing!'"_ ***---LotRI*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>

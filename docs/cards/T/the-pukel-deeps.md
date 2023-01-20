@@ -25,7 +25,7 @@ permalink: /cards/the-pukel-deeps/
 > Under-deeps
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Adjacent Sites: Dunharrow (0), The Gem-deeps (9), The Sulfur-deeps (9) Playable: Items (minor, major, gold ring) Automatic-attacks (2): Pukel-men (1st attack)-2 strikes with 11 prowess (2nd attack)-Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Shadow-holds \[![](/assets/images/shadow-hold.svg)] Special: Any Undead creature or Pukel-creature may also be keyed to this site. 
+> > _**Adjacent Sites:**_ Dunharrow (0), The Gem-deeps (9), The Sulfur-deeps (9) <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br> Pukel-men (1st attack)-2 strikes with 11 prowess (2nd attack)-Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Shadow-holds \[![](/assets/images/shadow-hold.svg)] <br>_**Special:**_ Any Undead creature or Pukel-creature may also be keyed to this site. 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/the-pukel-deeps/
 > Under-deeps
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Adjacent Sites: Dunharrow (0), The Gem-deeps (9), The Sulfur-deeps (9) Playable: Items (minor, major, gold ring) Automatic-attacks (2): Pukel-men (1st attack)-2 strikes with 11 prowess (2nd attack)-Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Shadow-holds \[![](/assets/images/shadow-hold.svg)] Special: Any Undead creature or Pukel-creature may also be keyed to this site. 
+> > _**Adjacent Sites:**_ Dunharrow (0), The Gem-deeps (9), The Sulfur-deeps (9) <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br> Pukel-men (1st attack)-2 strikes with 11 prowess (2nd attack)-Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Shadow-holds \[![](/assets/images/shadow-hold.svg)] <br>_**Special:**_ Any Undead creature or Pukel-creature may also be keyed to this site. 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/the-pukel-deeps/
 > Under-deeps
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > Adjacent Sites: Dunharrow (0), The Gem-deeps (8), The Sulfur-deeps (9) Playable: Items (minor, major, gold ring) Automatic-attacks (2):  Pukel-creature (1st attack)-2 strikes with 11 prowess; (2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold \[![](/assets/images/shadow-hold.svg)] Special: Any Undead creature or Pukel-creature may also be keyed to this site. 
+> > _**Adjacent Sites:**_ Dunharrow (0), The Gem-deeps (8), The Sulfur-deeps (9) <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>  Pukel-creature (1st attack)-2 strikes with 11 prowess; (2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold \[![](/assets/images/shadow-hold.svg)] <br>_**Special:**_ Any Undead creature or Pukel-creature may also be keyed to this site. 
 > 
 > {: .balrog-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

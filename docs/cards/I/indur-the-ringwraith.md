@@ -25,7 +25,7 @@ permalink: /cards/indur-the-ringwraith/
 > Warrior/Diplomat Ringwraith
 >
 > {: .minion-character-text .black-text .p-2 }
-> > Unique. Manifestation of Indur Dawndeath. Can use sorcery and spirit-magic. -1 direct influence in Heralded Lord mode. -3 prowess in Fell Rider mode. As your Ringwraith, at the beginning of each of his end-of-turn phases, he may tap to take a magic card from your discard pile to your hand.   Home Site: Any site in Udun or Imlad Morgul 
+> > _**Unique.**_ Manifestation of Indur Dawndeath. Can use sorcery and spirit-magic. -1 direct influence in Heralded Lord mode. -3 prowess in Fell Rider mode. As your Ringwraith, at the beginning of each of his end-of-turn phases, he may tap to take a magic card from your discard pile to your hand.   <br><br>**Home Site:** Any site in Udun or Imlad Morgul 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【9/10】</div>
@@ -45,7 +45,7 @@ permalink: /cards/indur-the-ringwraith/
 > Warrior/Diplomat Ringwraith
 >
 > {: .minion-character-text .black-text .p-2 }
-> > Unique. Manifestation of Indur Dawndeath. Can use sorcery and spirit-magic. -1 direct influence in Heralded Lord mode. -3 prowess in Fell Rider mode. As your Ringwraith, at the beginning of each of his end-of-turn phases, he may tap to take a magic card from your discard pile to your hand.   Home Site: Any site in Udun or Imlad Morgul 
+> > _**Unique.**_ Manifestation of Indur Dawndeath. Can use sorcery and spirit-magic. -1 direct influence in Heralded Lord mode. -3 prowess in Fell Rider mode. As your Ringwraith, at the beginning of each of his end-of-turn phases, he may tap to take a magic card from your discard pile to your hand.   <br><br>**Home Site:** Any site in Udun or Imlad Morgul 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【9/10】</div>

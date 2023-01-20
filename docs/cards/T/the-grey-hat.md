@@ -25,7 +25,7 @@ permalink: /cards/the-grey-hat/
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > Unique. Gandalf specific. Place this card on Gandalf if he is in play. If on Gandalf, you may tap The Grey Hat during your end-of-turn phase to take New Friendship, Wizard's Test, or Hobbit-lore from your discard pile to your hand.   "Had his spirit grown wearier, he might have doffed his signature blue hat for a more somber head covering." ---Kuduk Lore 
+> > _**Unique.**_ _Gandalf specific._ Place this card on Gandalf if he is in play. If on Gandalf, you may tap The Grey Hat during your end-of-turn phase to take New Friendship, Wizard's Test, or Hobbit-lore from your discard pile to your hand.   "Had his spirit grown wearier, he might have doffed his signature blue hat for a more somber head covering."_ ***---Kuduk Lore*** 
 > 
 > {: .stage-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

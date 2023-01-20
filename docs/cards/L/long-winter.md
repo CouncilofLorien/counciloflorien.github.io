@@ -25,7 +25,7 @@ permalink: /cards/long-winter/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Environment. Each moving company that has at least two Wildernesses \[![](/assets/images/wilderness.svg)] in its site path must return to its site of origin unless it contains a ranger. Additionally, if Doors of Night is in play, each non-Haven site card with at least two Wildernesses in its site path is tapped. Cannot be duplicated. 
+> > _Environment._ Each moving company that has at least two Wildernesses \[![](/assets/images/wilderness.svg)] in its site path must return to its site of origin unless it contains a ranger. Additionally, if Doors of Night is in play, each non-Haven site card with at least two Wildernesses in its site path is tapped. Cannot be duplicated. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/long-winter/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Environment. Each moving company that has at least two Wildernesses \[![](/assets/images/wilderness.svg)] in its site path must return to its site of origin unless it contains a ranger. Additionally, if Doors of Night is in play, each non-Haven site card with at least two Wildernesses in its site path is tapped. Cannot be duplicated. 
+> > _Environment._ Each moving company that has at least two Wildernesses \[![](/assets/images/wilderness.svg)] in its site path must return to its site of origin unless it contains a ranger. Additionally, if Doors of Night is in play, each non-Haven site card with at least two Wildernesses in its site path is tapped. Cannot be duplicated. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/long-winter/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Environment. Each moving company that has at least two Wildernesses \[![](/assets/images/wilderness.svg)] in its site path must return to its site of origin unless it contains a ranger. Additionally, if Doors of Night is in play, each non-Darkhaven site in play with at least two Wildernesses in its site path is tapped. Cannot be duplicated. 
+> > _Environment._ Each moving company that has at least two Wildernesses \[![](/assets/images/wilderness.svg)] in its site path must return to its site of origin unless it contains a ranger. Additionally, if Doors of Night is in play, each non-Darkhaven site in play with at least two Wildernesses in its site path is tapped. Cannot be duplicated. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -85,7 +85,7 @@ permalink: /cards/long-winter/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Environment. Each moving company that has at least two Wildernesses \[![](/assets/images/wilderness.svg)] in its site path must return to its site of origin unless it contains a ranger. Additionally, if Doors of Night is in play, each non-Darkhaven site in play with at least two Wildernesses in its site path is tapped. Cannot be duplicated. 
+> > _Environment._ Each moving company that has at least two Wildernesses \[![](/assets/images/wilderness.svg)] in its site path must return to its site of origin unless it contains a ranger. Additionally, if Doors of Night is in play, each non-Darkhaven site in play with at least two Wildernesses in its site path is tapped. Cannot be duplicated. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -105,7 +105,7 @@ permalink: /cards/long-winter/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Environment. Each moving company that has at least two Wildernesses \[![](/assets/images/wilderness.svg)] in its site path must return to its site of origin unless it contains a ranger. Additionally, if Doors of Night is in play, each non-Darkhaven site in play with at least two Wildernesses in its site path is tapped. Cannot be duplicated. 
+> > _Environment._ Each moving company that has at least two Wildernesses \[![](/assets/images/wilderness.svg)] in its site path must return to its site of origin unless it contains a ranger. Additionally, if Doors of Night is in play, each non-Darkhaven site in play with at least two Wildernesses in its site path is tapped. Cannot be duplicated. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

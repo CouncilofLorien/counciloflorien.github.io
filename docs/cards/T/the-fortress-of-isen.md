@@ -25,7 +25,7 @@ permalink: /cards/the-fortress-of-isen/
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > Unique. May not be a starting stage card. Playable if you are Alatar, Pallando, or Saruman. Playable on Isengard. Isengard is protected. Other Fallen-wizards may not use the Wizardhaven \[![](/assets/images/free-haven.svg)] card for Isengard. Cards that give marshalling points are not playable at the site by your opponent in all cases. A company moving to or from Isengard is not considered to be moving through Gap of Isen (including one less Border-land \[![](/assets/images/border-land.svg)] in their site path). Discard this card when the site is discarded or returned to its location deck 
+> > _**Unique.**_ May not be a starting stage card. Playable if you are Alatar, Pallando, or Saruman. Playable on Isengard. Isengard is protected. Other Fallen-wizards may not use the Wizardhaven \[![](/assets/images/free-haven.svg)] card for Isengard. Cards that give marshalling points are not playable at the site by your opponent in all cases. A company moving to or from Isengard is not considered to be moving through Gap of Isen (including one less Border-land \[![](/assets/images/border-land.svg)] in their site path). Discard this card when the site is discarded or returned to its location deck 
 > 
 > {: .stage-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

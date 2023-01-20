@@ -25,7 +25,7 @@ permalink: /cards/strangling-coils/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Balrog specific. Demon fana. Playable during your organization phase on The Balrog. Return this card to your hand: when you play another Demon fana card, or, if you choose, during your organization phase. +3 direct influence; -1 body. The Balrog gains the diplomat skill and may have followers. Once during his movement/hazard phase, you may untap all tapped characters in The Balrog's company. If then untapped, tap The Balrog. 
+> > _Balrog specific._ _Demon fana._ Playable during your organization phase on The Balrog. Return this card to your hand: when you play another Demon fana card, or, if you choose, during your organization phase. +3 direct influence; -1 body. The Balrog gains the diplomat skill and may have followers. Once during his movement/hazard phase, you may untap all tapped characters in The Balrog's company. If then untapped, tap The Balrog. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

@@ -25,7 +25,7 @@ permalink: /cards/dwar-of-waw/
 > Creature or Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Unique. Nazgul (3rd). May be played as a hazard creature (with one strike) or as a permanent event. As a creature, may also be played keyed to Harondor, Imlad Morgul, Gorgoroth, and Ithilien; and may also be played at sites in these regions. If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, Dwar of Waw becomes a short-event and gives +1 prowess to all Wolf, Spider, and Animal attacks until the end of the turn. 
+> > _**Unique.**_ _Nazgul (3rd)._ May be played as a hazard creature (with one strike) or as a permanent event. As a creature, may also be played keyed to Harondor, Imlad Morgul, Gorgoroth, and Ithilien; and may also be played at sites in these regions. If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, Dwar of Waw becomes a short-event and gives +1 prowess to all Wolf, Spider, and Animal attacks until the end of the turn. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【15/10】</div>
@@ -45,7 +45,7 @@ permalink: /cards/dwar-of-waw/
 > Creature or Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Unique. Nazgul (3rd). May be played as a hazard creature (with one strike) or as a permanent event. As a creature, may also be played keyed to Harondor, Imlad Morgul, Gorgoroth, and Ithilien; and may also be played at sites in these regions. If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, Dwar of Waw becomes a short-event and gives +1 prowess to all Wolf, Spider, and Animal attacks until the end of the turn. 
+> > _**Unique.**_ _Nazgul (3rd)._ May be played as a hazard creature (with one strike) or as a permanent event. As a creature, may also be played keyed to Harondor, Imlad Morgul, Gorgoroth, and Ithilien; and may also be played at sites in these regions. If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, Dwar of Waw becomes a short-event and gives +1 prowess to all Wolf, Spider, and Animal attacks until the end of the turn. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【15/10】</div>

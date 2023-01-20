@@ -25,7 +25,7 @@ permalink: /cards/night/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Environment. The prowess of each non-ranger Dunadan is modified by -1. Additionally, if Doors of Night is in play, the prowesses of all attacks are modified by +1 and the prowess of each Man and Dunadan is modified by -1. Cannot be duplicated. 
+> > _Environment._ The prowess of each non-ranger Dunadan is modified by -1. Additionally, if Doors of Night is in play, the prowesses of all attacks are modified by +1 and the prowess of each Man and Dunadan is modified by -1. Cannot be duplicated. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/night/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Environment. The prowess of each non-ranger Dunadan is modified by -1. Additionally, if Doors of Night is in play, the prowesses of all attacks are modified by +1 and the prowess of each Man and Dunadan is modified by -1. Cannot be duplicated. 
+> > _Environment._ The prowess of each non-ranger Dunadan is modified by -1. Additionally, if Doors of Night is in play, the prowesses of all attacks are modified by +1 and the prowess of each Man and Dunadan is modified by -1. Cannot be duplicated. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

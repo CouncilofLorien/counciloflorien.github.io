@@ -25,7 +25,7 @@ permalink: /cards/barad-dur/
 > Gorgoroth
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien Playable: Items (minor, major, greater) Automatic-attacks (2): Orcs - 4 strikes with 7 prowess, Trolls - 3 strikes with 9 prowess Special: Any company moving to Barad-dur has its hazard limit modified by +2. 
+> > Nearest Haven: Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br> Orcs - 4 strikes with 7 prowess, Trolls - 3 strikes with 9 prowess <br>_**Special:**_ Any company moving to Barad-dur has its hazard limit modified by +2. 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;3&ensp;</span><span class="hero-opp-draw">&ensp;6&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/barad-dur/
 > Gorgoroth
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien Playable: Items (minor, major, greater) Automatic-attacks (2): Orcs - 4 strikes with 7 prowess, Trolls - 3 strikes with 9 prowess Special: Any company moving to Barad-dur has its hazard limit modified by +2. 
+> > Nearest Haven: Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br> Orcs - 4 strikes with 7 prowess, Trolls - 3 strikes with 9 prowess <br>_**Special:**_ Any company moving to Barad-dur has its hazard limit modified by +2. 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;3&ensp;</span><span class="hero-opp-draw">&ensp;6&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/barad-dur/
 > Gorgoroth
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Minas Morgul Special: Treat this site as a Darkhaven during the Untap Phase. Any gold ring at this site is automatically tested during the site phase (the site need not be entered). All ring tests at this site are modified by -3.  "...rising black, blacker and darker than the vast shades amid which it stood, the cruel pinnacle and iron crown of the topmost tower of Barad-dur." ---LotRVI 
+> > Nearest Darkhaven: Minas Morgul <br>_**Special:**_ Treat this site as a Darkhaven during the Untap Phase. Any gold ring at this site is automatically tested during the site phase (the site need not be entered). All ring tests at this site are modified by -3. <br>_"...rising black, blacker and darker than the vast shades amid which it stood, the cruel pinnacle and iron crown of the topmost tower of Barad-dur."_ ***---LotRVI*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/barad-dur/
 > Gorgoroth
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Minas Morgul Special: Treat this site as a Darkhaven during the Untap Phase. Any gold ring at this site is automatically tested during the site phase (the site need not be entered). All ring tests at this site are modified by -3.  "...rising black, blacker and darker than the vast shades amid which it stood, the cruel pinnacle and iron crown of the topmost tower of Barad-dur." ---LotRVI 
+> > Nearest Darkhaven: Minas Morgul <br>_**Special:**_ Treat this site as a Darkhaven during the Untap Phase. Any gold ring at this site is automatically tested during the site phase (the site need not be entered). All ring tests at this site are modified by -3. <br>_"...rising black, blacker and darker than the vast shades amid which it stood, the cruel pinnacle and iron crown of the topmost tower of Barad-dur."_ ***---LotRVI*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -105,7 +105,7 @@ permalink: /cards/barad-dur/
 > Gorgoroth
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > Playable: Items (minor, major, greater) Automatic-attacks (3):  Orcs-4 strikes with 7 prowess; Trolls-3 strikes with 9 prowess; Maia (cannot be canceled)-1 strike with 24 prowess. Any creature wounded by the Maia's attack is automatically eliminated. Special: Creatures keyed to this site attack normally, not as detainment. 
+> > <br>_**Playable:**_ Items (minor, major, greater) Automatic-attacks (3):  Orcs-4 strikes with 7 prowess; Trolls-3 strikes with 9 prowess; Maia (cannot be canceled)-1 strike with 24 prowess. Any creature wounded by the Maia's attack is automatically eliminated. <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. 
 > 
 > {: .balrog-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;4&ensp;</span></div>

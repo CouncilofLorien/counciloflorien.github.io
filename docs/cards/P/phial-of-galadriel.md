@@ -25,7 +25,7 @@ permalink: /cards/phial-of-galadriel/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Unique. Playable on any non-Wizard, non-Dwarf bearer of Star-glass at a Haven \[![](/assets/images/free-haven.svg)] in the same company as an untapped Galadriel. Tap Galadriel, replace Star-glass with Phial of Galadriel, remove Star-glass from play. Tap Phial of Galadriel to cancel any Undead attack. Tap Phial of Galadriel to modify the prowess of any hazard creature keyed to a Dark-domain \[![](/assets/images/dark-domain.svg)], Dark-hold \[![](/assets/images/dark-hold.svg)], or Shadow-hold \[![](/assets/images/shadow-hold.svg)] by -2-you choose targets of such attack's strikes (regardless of tapped status, wounded status, and the normal abilities of the attack). Tap Phial of Galadriel to give +2 prowess to any corruption check by its bearer. Cannot be transferred.  
+> > _**Unique.**_ Playable on any non-Wizard, non-Dwarf bearer of Star-glass at a Haven \[![](/assets/images/free-haven.svg)] in the same company as an untapped Galadriel. Tap Galadriel, replace Star-glass with Phial of Galadriel, remove Star-glass from play. Tap Phial of Galadriel to cancel any Undead attack. Tap Phial of Galadriel to modify the prowess of any hazard creature keyed to a Dark-domain \[![](/assets/images/dark-domain.svg)], Dark-hold \[![](/assets/images/dark-hold.svg)], or Shadow-hold \[![](/assets/images/shadow-hold.svg)] by -2-you choose targets of such attack's strikes (regardless of tapped status, wounded status, and the normal abilities of the attack). Tap Phial of Galadriel to give +2 prowess to any corruption check by its bearer. Cannot be transferred.  
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

@@ -19,13 +19,13 @@ permalink: /cards/squint-eyed-brute/
 > > <div class="card-name">Squint-eyed Brute</div>
 >
 > {: .minion-character-frame .black-text .p-1 .pl-2 }
-> > 2![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 2 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > Half-orc. Discard on a body check result of 9.  "...one of their own number had also disappeared in the night, none other than Bill Ferny's squint-eyed companion."  ---LotRI  Home Site: Any Dark-hold 
+> > _Half-orc._ Discard on a body check result of 9. <br>_"...one of their own number had also disappeared in the night, none other than Bill Ferny's squint-eyed companion."_ ***---LotRI***  <br><br>**Home Site:** Any Dark-hold 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【3/9】</div>

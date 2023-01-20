@@ -25,7 +25,7 @@ permalink: /cards/a-malady-without-healing/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Magic. Shadow-magic. Playable during the site phase on a non-Ringwraith, non-Wizard character at the same site as a shadow-magic using character. Target character must make a corruption check modified by -1 followed by a body check (modified by +1 if tapped). If target character is a hero and is eliminated by these checks, you receive his kill marshalling points. Unless the shadow-magic user is a Ringwraith, he makes a corruption check modified by -5. 
+> > _Magic._ _Shadow-_Magic.__ Playable during the site phase on a non-Ringwraith, non-Wizard character at the same site as a shadow-magic using character. Target character must make a corruption check modified by -1 followed by a body check (modified by +1 if tapped). If target character is a hero and is eliminated by these checks, you receive his kill marshalling points. Unless the shadow-magic user is a Ringwraith, he makes a corruption check modified by -5. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

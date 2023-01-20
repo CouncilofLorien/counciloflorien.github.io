@@ -25,7 +25,7 @@ permalink: /cards/radagast-the-tamer/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Unique. Maia. Manifestation of Radgast. Two strikes. Detainment and -3 prowess against hero companies. Discard this card if Radgast comes into play. As a creature, may be played keyed to Southern Mirkwood, Western Mirkwood, Woodland Realm, Heart of Mirkwood, or Rhosgobel As a permanent-event, all companies moving in Southern Mirkwood, Western Mirkwood, Woodland Realm, and/or Heart of Mirkwood have their hazard limit increased by one. Discard when any play deck is exhausted. 
+> > _**Unique.**_ Maia. Manifestation of Radgast. Two strikes. Detainment and -3 prowess against hero companies. Discard this card if Radgast comes into play. As a creature, may be played keyed to Southern Mirkwood, Western Mirkwood, Woodland Realm, Heart of Mirkwood, or Rhosgobel As a permanent-event, all companies moving in Southern Mirkwood, Western Mirkwood, Woodland Realm, and/or Heart of Mirkwood have their hazard limit increased by one. Discard when any play deck is exhausted. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【13/9】</div>

@@ -19,13 +19,13 @@ permalink: /cards/tom-bombadil/
 > > <div class="card-name">Tom Bombadil</div>
 >
 > {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > 4![](/assets/images/mind.svg)
+> > 4 ![](/assets/images/mind.svg)
 >
 > {: .card-classification .pr-2 }
 > Sage Ally
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Unique. Playable at Old Forest.  Tap to cancel the effects of one hazard that targets a company, or an entity associated with a company, moving to a site in: Arthedain, Cardolan, Rhudaur, or The Shire. Discard Tom Bombadil if his company moves to a site that is not in: Arthedain, Cardolan, Rhudaur, or The Shire. 
+> > _**Unique.**_ Playable at Old Forest.  Tap to cancel the effects of one hazard that targets a company, or an entity associated with a company, moving to a site in: Arthedain, Cardolan, Rhudaur, or The Shire. Discard Tom Bombadil if his company moves to a site that is not in: Arthedain, Cardolan, Rhudaur, or The Shire. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【12/11】</div>
@@ -39,13 +39,13 @@ permalink: /cards/tom-bombadil/
 > > <div class="card-name">Tom Bombadil</div>
 >
 > {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > 4![](/assets/images/mind.svg)
+> > 4 ![](/assets/images/mind.svg)
 >
 > {: .card-classification .pr-2 }
 > Sage Ally
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Unique. Playable at Old Forest.  Tap to cancel the effects of one hazard that targets a company, or an entity associated with a company, moving to a site in: Arthedain, Cardolan, Rhudaur, or The Shire. Discard Tom Bombadil if his company moves to a site that is not in: Arthedain, Cardolan, Rhudaur, or The Shire. 
+> > _**Unique.**_ Playable at Old Forest.  Tap to cancel the effects of one hazard that targets a company, or an entity associated with a company, moving to a site in: Arthedain, Cardolan, Rhudaur, or The Shire. Discard Tom Bombadil if his company moves to a site that is not in: Arthedain, Cardolan, Rhudaur, or The Shire. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【12/11】</div>

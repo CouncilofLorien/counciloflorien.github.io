@@ -19,13 +19,13 @@ permalink: /cards/strider/
 > > <div class="character-card-name">Strider</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 8![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
+> > 8 ![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Scout/Ranger Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. Manifestation of Aragorn II. You may bring Aragorn II into play with Strider's company, removing Strider from the game and automatically transferring all cards on Strider to Aragorn II. +3 direct influence against the Rangers of the North faction. Tap Strider to search your discard pile for any one item, ally, or faction playable at his current site-the site must be in Arthedain, Cardolan, Rhudaur, or The Shire.   Home Site: Bree 
+> > _**Unique.**_ Manifestation of Aragorn II. You may bring Aragorn II into play with Strider's company, removing Strider from the game and automatically transferring all cards on Strider to Aragorn II. +3 direct influence against the Rangers of the North faction. Tap Strider to search your discard pile for any one item, ally, or faction playable at his current site-the site must be in Arthedain, Cardolan, Rhudaur, or The Shire.   <br><br>**Home Site:** Bree 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【6/9】</div>

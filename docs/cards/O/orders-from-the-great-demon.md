@@ -25,7 +25,7 @@ permalink: /cards/orders-from-the-great-demon/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Balrog specific. Playable on a company. May be played with a starting company in lieu of a minor item. This company may contain an additional leader who does not count against the company size maximum.  "'Not our orders!' said one of the earlier voices. 'We have come all the way from the Mines to kill...'" ---LotRIII 
+> > _Balrog specific._ Playable on a company. May be played with a starting company in lieu of a minor item. This company may contain an additional leader who does not count against the company size maximum. <br>_"'Not our orders!' said one of the earlier voices. 'We have come all the way from the Mines to kill...'"_ ***---LotRIII*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

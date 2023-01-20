@@ -25,7 +25,7 @@ permalink: /cards/edhellond/
 > Anfalas
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Site Path From Grey Havens: \[![](/assets/images/free-domain.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/wilderness.svg)] Site Path From Lorien: \[![](/assets/images/wilderness.svg)] \[![](/assets/images/border-land.svg)] \[![](/assets/images/free-domain.svg)] \[![](/assets/images/free-domain.svg)] \[![](/assets/images/border-land.svg)] \[![](/assets/images/wilderness.svg)]  "It is long since the people of Nimrodel left the woodlands of Lorien, and yet one may see that not all sailed from Amroth's haven west over water." ---LotRV 
+> > Site Path From Grey Havens: \[![](/assets/images/free-domain.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/wilderness.svg)] Site Path From Lorien: \[![](/assets/images/wilderness.svg)] \[![](/assets/images/border-land.svg)] \[![](/assets/images/free-domain.svg)] \[![](/assets/images/free-domain.svg)] \[![](/assets/images/border-land.svg)] \[![](/assets/images/wilderness.svg)]  "It is long since the people of Nimrodel left the woodlands of Lorien, and yet one may see that not all sailed from Amroth's haven west over water."_ ***---LotRV*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/edhellond/
 > Anfalas
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Site Path From Grey Havens: \[![](/assets/images/free-domain.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/wilderness.svg)] Site Path From Lorien: \[![](/assets/images/wilderness.svg)] \[![](/assets/images/border-land.svg)] \[![](/assets/images/free-domain.svg)] \[![](/assets/images/free-domain.svg)] \[![](/assets/images/border-land.svg)] \[![](/assets/images/wilderness.svg)]  "It is long since the people of Nimrodel left the woodlands of Lorien, and yet one may see that not all sailed from Amroth's haven west over water." ---LotRV 
+> > Site Path From Grey Havens: \[![](/assets/images/free-domain.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/wilderness.svg)] Site Path From Lorien: \[![](/assets/images/wilderness.svg)] \[![](/assets/images/border-land.svg)] \[![](/assets/images/free-domain.svg)] \[![](/assets/images/free-domain.svg)] \[![](/assets/images/border-land.svg)] \[![](/assets/images/wilderness.svg)]  "It is long since the people of Nimrodel left the woodlands of Lorien, and yet one may see that not all sailed from Amroth's haven west over water."_ ***---LotRV*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/edhellond/
 > Anfalas
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Geann a-Lisch Playable: Information, Items (minor, major, greater) Automatic-attacks (2):  Elves-4 strikes with 7 prowess Dunedain-3 strikes with 10 prowess Special: Any company moving to this site has its hazard limit increased by 2. A minion company may not attack another company at this site. A Ringwraith may not move to this site.  
+> > Nearest Darkhaven: Geann a-Lisch <br>_**Playable:**_ Information, Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br>  Elves-4 strikes with 7 prowess Dunedain-3 strikes with 10 prowess <br>_**Special:**_ Any company moving to this site has its hazard limit increased by 2. A minion company may not attack another company at this site. A Ringwraith may not move to this site.  
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;3&ensp;</span><span class="minion-opp-draw">&ensp;5&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/edhellond/
 > Anfalas
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Site Path From Grey Havens: \[![](/assets/images/free-domain.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/wilderness.svg)] Site Path From Lorien: \[![](/assets/images/wilderness.svg)] \[![](/assets/images/border-land.svg)] \[![](/assets/images/free-domain.svg)] \[![](/assets/images/free-domain.svg)] \[![](/assets/images/border-land.svg)] \[![](/assets/images/wilderness.svg)]  "It is long since the people of Nimrodel left the woodlands of Lorien, and yet one may see that not all sailed from Amroth's haven west over water." ---LotRV 
+> > Site Path From Grey Havens: \[![](/assets/images/free-domain.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/wilderness.svg)] Site Path From Lorien: \[![](/assets/images/wilderness.svg)] \[![](/assets/images/border-land.svg)] \[![](/assets/images/free-domain.svg)] \[![](/assets/images/free-domain.svg)] \[![](/assets/images/border-land.svg)] \[![](/assets/images/wilderness.svg)]  "It is long since the people of Nimrodel left the woodlands of Lorien, and yet one may see that not all sailed from Amroth's haven west over water."_ ***---LotRV*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>

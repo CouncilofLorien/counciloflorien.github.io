@@ -25,7 +25,7 @@ permalink: /cards/orc-patrol/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Orcs. Three strikes.  "...hundreds of hideous orc-faces grinned at him out of the shadows, hundreds of hideous arms grasped at him from every side." ---LotRIII 
+> > _Orcs._ Three strikes. <br>_"...hundreds of hideous orc-faces grinned at him out of the shadows, hundreds of hideous arms grasped at him from every side."_ ***---LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【7/&ndash;】</div>
@@ -45,7 +45,7 @@ permalink: /cards/orc-patrol/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Orcs. Three strikes.  "...hundreds of hideous orc-faces grinned at him out of the shadows, hundreds of hideous arms grasped at him from every side." ---LotRIII 
+> > _Orcs._ Three strikes. <br>_"...hundreds of hideous orc-faces grinned at him out of the shadows, hundreds of hideous arms grasped at him from every side."_ ***---LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【7/&ndash;】</div>

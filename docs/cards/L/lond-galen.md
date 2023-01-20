@@ -25,7 +25,7 @@ permalink: /cards/lond-galen/
 > Anfalas
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Edhellond  "'Or we might pass by and cross the Isen into Langstrans and Lebennin, and so come to Gondo from the regions nigh to the sea.'" ---LotRII 
+> > Nearest Haven: Edhellond  "'Or we might pass by and cross the Isen into Langstrans and Lebennin, and so come to Gondo from the regions nigh to the sea.'"_ ***---LotRII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/lond-galen/
 > Anfalas
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Edhellond  "'Or we might pass by and cross the Isen into Langstrans and Lebennin, and so come to Gondo from the regions nigh to the sea.'" ---LotRII 
+> > Nearest Haven: Edhellond  "'Or we might pass by and cross the Isen into Langstrans and Lebennin, and so come to Gondo from the regions nigh to the sea.'"_ ***---LotRII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/lond-galen/
 > Anfalas
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Geann a-Lisch Playable: Items (gold ring) Automatic-attacks: Men-each character faces 1 strike with 6 prowess (detainment against covert company)  "In the years of their power the Numeroreans had maintained many forts and havens upon the western coasts of Middle-earth..." ---LotR 
+> > Nearest Darkhaven: Geann a-Lisch <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 6 prowess (detainment against covert company)  "In the years of their power the Numeroreans had maintained many forts and havens upon the western coasts of Middle-earth..." ---LotR 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/lond-galen/
 > Anfalas
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Edhellond  "'Or we might pass by and cross the Isen into Langstrans and Lebennin, and so come to Gondo from the regions nigh to the sea.'" ---LotRII 
+> > Nearest Haven: Edhellond  "'Or we might pass by and cross the Isen into Langstrans and Lebennin, and so come to Gondo from the regions nigh to the sea.'"_ ***---LotRII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>

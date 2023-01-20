@@ -25,7 +25,7 @@ permalink: /cards/await-the-onset/
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > Gandalf specific. Playable if you are Gandalf and have at least: 12 stage points, two protected Wizardhavens \[![](/assets/images/free-haven.svg)], 4 factions, and 6 characters. Each faction you play after Await the Onset is worth 1 marshalling point regardless of other cards in play (place these factions under Await the Onset). Each of your marshalling point cards in a company not in one of your Wizardhavens \[![](/assets/images/free-haven.svg)] when the game ends is worth 1 marshalling point regardless of other cards in play. Cannot be duplicated.  
+> > _Gandalf specific._ Playable if you are Gandalf and have at least: 12 stage points, two protected Wizardhavens \[![](/assets/images/free-haven.svg)], 4 factions, and 6 characters. Each faction you play after Await the Onset is worth 1 marshalling point regardless of other cards in play (place these factions under Await the Onset). Each of your marshalling point cards in a company not in one of your Wizardhavens \[![](/assets/images/free-haven.svg)] when the game ends is worth 1 marshalling point regardless of other cards in play. Cannot be duplicated.  
 > 
 > {: .stage-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

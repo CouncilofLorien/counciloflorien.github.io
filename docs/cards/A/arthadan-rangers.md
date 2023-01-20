@@ -25,7 +25,7 @@ permalink: /cards/arthadan-rangers/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Dunedain. Each character in the company faces one strike (detainment against covert and hero companies). May be played keyed to Artedain, Rhudaur, Cardolan, Hollin, and The Shire; and may also be played at sites in these regions. May not be played against a company containing a character with Bree as a home site. 
+> > _Dunedain._ Each character in the company faces one strike (detainment against covert and hero companies). May be played keyed to Artedain, Rhudaur, Cardolan, Hollin, and The Shire; and may also be played at sites in these regions. May not be played against a company containing a character with Bree as a home site. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【10/6】</div>

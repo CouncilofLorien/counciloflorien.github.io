@@ -19,13 +19,13 @@ permalink: /cards/lagduf/
 > > <div class="card-name">Lagduf</div>
 >
 > {: .minion-character-frame .black-text .p-1 .pl-2 }
-> > 3![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 3 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > Unique. Uruk-hai. Discard on a body check result of 8.  "'...Gorbag's swine got to the gate first, and none of ours got out. Lagduf...'" ---LotRVI  Home Site: Any site in Imlad Morgol 
+> > _**Unique.**_ _Uruk-hai._ Discard on a body check result of 8. <br>_"'...Gorbag's swine got to the gate first, and none of ours got out. Lagduf...'"_ ***---LotRVI***  <br><br>**Home Site:** Any site in Imlad Morgol 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【5/8】</div>
@@ -39,13 +39,13 @@ permalink: /cards/lagduf/
 > > <div class="card-name">Lagduf</div>
 >
 > {: .minion-character-frame .black-text .p-1 .pl-2 }
-> > 3![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 3 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > Unique. Uruk-hai. Discard on a body check result of 8.  "'...Gorbag's swine got to the gate first, and none of ours got out. Lagduf...'" ---LotRVI  Home Site: Any site in Imlad Morgol 
+> > _**Unique.**_ _Uruk-hai._ Discard on a body check result of 8. <br>_"'...Gorbag's swine got to the gate first, and none of ours got out. Lagduf...'"_ ***---LotRVI***  <br><br>**Home Site:** Any site in Imlad Morgol 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【5/8】</div>

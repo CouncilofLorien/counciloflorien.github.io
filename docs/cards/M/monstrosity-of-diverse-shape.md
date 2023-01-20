@@ -25,7 +25,7 @@ permalink: /cards/monstrosity-of-diverse-shape/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Unique. Spawn. The Drowning-deeps and Remains of Thangorodrim each have an additional automatic-attack: Spawn-2 strikes with 15/9 prowess/body. In addition, once per turn the hazard player may use one against the hazard limit to play a Wolf or Animal hazard creature from his discard pile. This card must have already attacked the company this turn. 
+> > _**Unique.**_ _Spawn._. The Drowning-deeps and Remains of Thangorodrim each have an additional automatic-attack: _Spawn._-2 strikes with 15/9 prowess/body. In addition, once per turn the hazard player may use one against the hazard limit to play a Wolf or Animal hazard creature from his discard pile. This card must have already attacked the company this turn. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【15/9】</div>

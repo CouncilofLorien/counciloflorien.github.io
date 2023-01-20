@@ -25,7 +25,7 @@ permalink: /cards/nuriags/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Unique. Playable at Variag Camp if the influence check is greater than 9. Standard modifications: Haradrim (+2), Southrons (-2).  "They swift masters of the steppe, following the course of nearly traceless paths and always knowing where to find sweet water." ---Kuduk Lore 
+> > _**Unique.**_ Playable at Variag Camp if the influence check is greater than 9. <br>_Standard Modifications:_ Haradrim (+2), Southrons (-2). <br>_"They swift masters of the steppe, following the course of nearly traceless paths and always knowing where to find sweet water."_ ***---Kuduk Lore*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

@@ -25,7 +25,7 @@ permalink: /cards/safe-from-the-shadow/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Hero characters may store resources (items and events) during the end-of-turn phase as though it were their organization phase. Cannot be duplicated. Discard when any play deck is exhausted.  "Frodo was now safe in the Last Homely House east of the Sea." ---LotRII 
+> > Hero characters may store resources (items and events) during the end-of-turn phase as though it were their organization phase. Cannot be duplicated. Discard when any play deck is exhausted. <br>_"Frodo was now safe in the Last Homely House east of the Sea."_ ***---LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/safe-from-the-shadow/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Hero characters may store resources (items and events) during the end-of-turn phase as though it were their organization phase. Cannot be duplicated. Discard when any play deck is exhausted.  "Frodo was now safe in the Last Homely House east of the Sea." ---LotRII 
+> > Hero characters may store resources (items and events) during the end-of-turn phase as though it were their organization phase. Cannot be duplicated. Discard when any play deck is exhausted. <br>_"Frodo was now safe in the Last Homely House east of the Sea."_ ***---LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

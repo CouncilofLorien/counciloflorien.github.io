@@ -25,7 +25,7 @@ permalink: /cards/himring/
 > Elven Shores
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Grey Havens Playable: Items (minor, major) Automatic-attacks: Undead - 1 strike with 8 prowess; each character wounded must make a corruption check  "...on starless waters far astray...and foundered shores that drowned..." ---LotRII 
+> > Nearest Haven: Grey Havens <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Undead - 1 strike with 8 prowess; each character wounded must make a corruption check  "...on starless waters far astray...and foundered shores that drowned..."_ ***---LotRII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/himring/
 > Elven Shores
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Grey Havens Playable: Items (minor, major) Automatic-attacks: Undead - 1 strike with 8 prowess; each character wounded must make a corruption check  "...on starless waters far astray...and foundered shores that drowned..." ---LotRII 
+> > Nearest Haven: Grey Havens <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Undead - 1 strike with 8 prowess; each character wounded must make a corruption check  "...on starless waters far astray...and foundered shores that drowned..."_ ***---LotRII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/himring/
 > Elven Shores
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Geann a-Lisch Playable: Items (minor, major) Automatic-attacks: Undead - 1 strike with 8 prowess; each character wounded must make a corruption check modified by -2 Special: An overt company must tap an untapped character (if available) if this site is revealed as its new site.  
+> > Nearest Darkhaven: Geann a-Lisch <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Undead - 1 strike with 8 prowess; each character wounded must make a corruption check modified by -2 <br>_**Special:**_ An overt company must tap an untapped character (if available) if this site is revealed as its new site.  
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;3&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>

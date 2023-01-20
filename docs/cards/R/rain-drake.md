@@ -25,7 +25,7 @@ permalink: /cards/rain-drake/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Drake. One strikes. Three Wildernesses \[![](/assets/images/wilderness.svg)] in the site path are required. May also be played at Ruins & Lairs \[![](/assets/images/ruinlair.svg)] that has two Wildernesses \[![](/assets/images/wilderness.svg)] or one Coastal Sea \[![](/assets/images/coastalsea.svg)] in its site path.  "There are strange things living in the pools and lakes in the hearts of mountains." ---Hob 
+> > _Drake._ One strikes. Three Wildernesses \[![](/assets/images/wilderness.svg)] in the site path are required. May also be played at Ruins & Lairs \[![](/assets/images/ruinlair.svg)] that has two Wildernesses \[![](/assets/images/wilderness.svg)] or one Coastal Sea \[![](/assets/images/coastalsea.svg)] in its site path. <br>_"There are strange things living in the pools and lakes in the hearts of mountains."_ ***---Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【15/&ndash;】</div>
@@ -45,7 +45,7 @@ permalink: /cards/rain-drake/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Drake. One strikes. Three Wildernesses \[![](/assets/images/wilderness.svg)] in the site path are required. May also be played at Ruins & Lairs \[![](/assets/images/ruinlair.svg)] that has two Wildernesses \[![](/assets/images/wilderness.svg)] or one Coastal Sea \[![](/assets/images/coastalsea.svg)] in its site path.  "There are strange things living in the pools and lakes in the hearts of mountains." ---Hob 
+> > _Drake._ One strikes. Three Wildernesses \[![](/assets/images/wilderness.svg)] in the site path are required. May also be played at Ruins & Lairs \[![](/assets/images/ruinlair.svg)] that has two Wildernesses \[![](/assets/images/wilderness.svg)] or one Coastal Sea \[![](/assets/images/coastalsea.svg)] in its site path. <br>_"There are strange things living in the pools and lakes in the hearts of mountains."_ ***---Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【15/&ndash;】</div>

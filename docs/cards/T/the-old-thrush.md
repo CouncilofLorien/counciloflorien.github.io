@@ -25,7 +25,7 @@ permalink: /cards/the-old-thrush/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > -3 to the prowess and body of a non-Nazgul attack with a normal prowess of 13 or more. Cannot be duplicated on a given attack.  "Suddenly out of the dark something fluttered to his shoulder. 'Wait! Wait!' it said to him. 'The moon is rising. Look for the 
+> > -3 to the prowess and body of a non-Nazgul attack with a normal prowess of 13 or more. Cannot be duplicated on a given attack. <br>_"Suddenly out of the dark something fluttered to his shoulder. 'Wait! Wait!' it said to him. 'The moon is rising. Look for the 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/the-old-thrush/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > -3 to the prowess and body of a non-Nazgul attack with a normal prowess of 13 or more. Cannot be duplicated on a given attack.  "Suddenly out of the dark something fluttered to his shoulder. 'Wait! Wait!' it said to him. 'The moon is rising. Look for the 
+> > -3 to the prowess and body of a non-Nazgul attack with a normal prowess of 13 or more. Cannot be duplicated on a given attack. <br>_"Suddenly out of the dark something fluttered to his shoulder. 'Wait! Wait!' it said to him. 'The moon is rising. Look for the 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/the-old-thrush/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > -3 to the prowess and body of a non-Nazgul attack with a normal prowess of 13 or more. Cannot be duplicated on a given attack.  "Suddenly out of the dark something fluttered to his shoulder. 'Wait! Wait!' it said to him. 'The moon is rising. Look for the 
+> > -3 to the prowess and body of a non-Nazgul attack with a normal prowess of 13 or more. Cannot be duplicated on a given attack. <br>_"Suddenly out of the dark something fluttered to his shoulder. 'Wait! Wait!' it said to him. 'The moon is rising. Look for the 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

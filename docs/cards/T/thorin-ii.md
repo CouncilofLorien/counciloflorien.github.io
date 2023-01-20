@@ -19,13 +19,13 @@ permalink: /cards/thorin-ii/
 > > <div class="character-card-name">Thorin II</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 8![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
+> > 8 ![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Scout/Diplomat Dwarf
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. +2 direct influence against Blue Mountain Dwarves faction. +3 prowess against Orcs. -1 to all of his corruption checks. +2 direct influence against Dwarves and Dwarf factions.  "Out lept the King under the Mountain. ...the great dwarf gleamed like gold in a dying fire." ---Hob  Home Site: Blue Mountain Dwarf-hold 
+> > _**Unique.**_ +2 direct influence against Blue Mountain Dwarves faction. +3 prowess against Orcs. -1 to all of his corruption checks. +2 direct influence against Dwarves and Dwarf factions. <br>_"Out lept the King under the Mountain. ...the great dwarf gleamed like gold in a dying fire."_ ***---Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【5/8】</div>
@@ -39,13 +39,13 @@ permalink: /cards/thorin-ii/
 > > <div class="character-card-name">Thorin II</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 8![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
+> > 8 ![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Scout/Diplomat Dwarf
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. +2 direct influence against Blue Mountain Dwarves faction. +3 prowess against Orcs. -1 to all of his corruption checks. +2 direct influence against Dwarves and Dwarf factions.  "Out lept the King under the Mountain. ...the great dwarf gleamed like gold in a dying fire." ---Hob  Home Site: Blue Mountain Dwarf-hold 
+> > _**Unique.**_ +2 direct influence against Blue Mountain Dwarves faction. +3 prowess against Orcs. -1 to all of his corruption checks. +2 direct influence against Dwarves and Dwarf factions. <br>_"Out lept the King under the Mountain. ...the great dwarf gleamed like gold in a dying fire."_ ***---Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【5/8】</div>
@@ -59,13 +59,13 @@ permalink: /cards/thorin-ii/
 > > <div class="character-card-name">Thorin II</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 8![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
+> > 8 ![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Scout/Diplomat Dwarf
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. +2 direct influence against Blue Mountain Dwarves faction. +3 prowess against Orcs. -1 to all of his corruption checks. +2 direct influence against Dwarves and Dwarf factions.  "Out lept the King under the Mountain. ...the great dwarf gleamed like gold in a dying fire." ---Hob  Home Site: Blue Mountain Dwarf-hold 
+> > _**Unique.**_ +2 direct influence against Blue Mountain Dwarves faction. +3 prowess against Orcs. -1 to all of his corruption checks. +2 direct influence against Dwarves and Dwarf factions. <br>_"Out lept the King under the Mountain. ...the great dwarf gleamed like gold in a dying fire."_ ***---Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【5/8】</div>

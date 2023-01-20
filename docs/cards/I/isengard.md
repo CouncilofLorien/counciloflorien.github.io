@@ -25,7 +25,7 @@ permalink: /cards/isengard/
 > Gap of Isen
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien Playable: Items (minor, major, gold ring) Automatic-attacks: Wolves - 3 strikes with 7 prowess  "...four mighty piers of many-sided stone were welded into one, but near the summit they opened into gaping horns, their pinnacles sharp as the points of spears." ---LotRIII 
+> > Nearest Haven: Lorien <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br> Wolves - 3 strikes with 7 prowess  "...four mighty piers of many-sided stone were welded into one, but near the summit they opened into gaping horns, their pinnacles sharp as the points of spears."_ ***---LotRIII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/isengard/
 > Gap of Isen
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien Playable: Items (minor, major, gold ring) Automatic-attacks: Wolves - 3 strikes with 7 prowess  "...four mighty piers of many-sided stone were welded into one, but near the summit they opened into gaping horns, their pinnacles sharp as the points of spears." ---LotRIII 
+> > Nearest Haven: Lorien <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br> Wolves - 3 strikes with 7 prowess  "...four mighty piers of many-sided stone were welded into one, but near the summit they opened into gaping horns, their pinnacles sharp as the points of spears."_ ***---LotRIII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/isengard/
 > Gap of Isen
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Geann a-Lisch Playable: Items (minor, major, gold ring) Automatic-attacks: Wolves - 3 strikes with 7 prowess  "...yet it seemed a thing not made by the craft of Men, but riven from the bones of the earth in the ancient torment of the hills." ---LotRIII 
+> > Nearest Darkhaven: Geann a-Lisch <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br> Wolves - 3 strikes with 7 prowess  "...yet it seemed a thing not made by the craft of Men, but riven from the bones of the earth in the ancient torment of the hills."_ ***---LotRIII*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/isengard/
 > Gap of Isen
 >
 > {: .fw-site-text .black-text .p-2 }
-> > Special: If one of your companies is at this site, all attacks against it are canceled.   "A strong place and wonderful was Isengard, and long it had been beautiful; and there great lords had dwelt, the wardens of Gondor upon the West, and wise men that watched the stars." ---LotRIII  
+> > <br>_**Special:**_ If one of your companies is at this site, all attacks against it are canceled.   "A strong place and wonderful was Isengard, and long it had been beautiful; and there great lords had dwelt, the wardens of Gondor upon the West, and wise men that watched the stars."_ ***---LotRIII***  
 > 
 > {: .fw-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -105,7 +105,7 @@ permalink: /cards/isengard/
 > Gap of Isen
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien Playable: Items (minor, major, gold ring) Automatic-attacks: Wolves - 3 strikes with 7 prowess  "...four mighty piers of many-sided stone were welded into one, but near the summit they opened into gaping horns, their pinnacles sharp as the points of spears." ---LotRIII 
+> > Nearest Haven: Lorien <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br> Wolves - 3 strikes with 7 prowess  "...four mighty piers of many-sided stone were welded into one, but near the summit they opened into gaping horns, their pinnacles sharp as the points of spears."_ ***---LotRIII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -125,7 +125,7 @@ permalink: /cards/isengard/
 > Gap of Isen
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Geann a-Lisch Playable: Items (minor, major, gold ring) Automatic-attacks: Wolves - 3 strikes with 7 prowess  "...yet it seemed a thing not made by the craft of Men, but riven from the bones of the earth in the ancient torment of the hills." ---LotRIII 
+> > Nearest Darkhaven: Geann a-Lisch <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br> Wolves - 3 strikes with 7 prowess  "...yet it seemed a thing not made by the craft of Men, but riven from the bones of the earth in the ancient torment of the hills."_ ***---LotRIII*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

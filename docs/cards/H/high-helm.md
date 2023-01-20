@@ -25,7 +25,7 @@ permalink: /cards/high-helm/
 > Major Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Unique. Helmet. +2 to direct influence. +1 to body to a maximum of 9. Warrior only: +1 to prowess to a maximum of 8.  "...and black was his lofty helm..." ---LotRI 
+> > _**Unique.**_ _Helmet:_ +2 to direct influence. +1 to body to a maximum of 9. Warrior only: +1 to prowess to a maximum of 8. <br>_"...and black was his lofty helm..."_ ***---LotRI*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【(+1)/+1】</div>
@@ -45,7 +45,7 @@ permalink: /cards/high-helm/
 > Major Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Unique. Helmet. +2 to direct influence. +1 to body to a maximum of 9. Warrior only: +1 to prowess to a maximum of 8.  "...and black was his lofty helm..." ---LotRI 
+> > _**Unique.**_ _Helmet:_ +2 to direct influence. +1 to body to a maximum of 9. Warrior only: +1 to prowess to a maximum of 8. <br>_"...and black was his lofty helm..."_ ***---LotRI*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【(+1)/+1】</div>
@@ -65,7 +65,7 @@ permalink: /cards/high-helm/
 > Major Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Unique. Helmet. +2 to direct influence. +1 to body to a maximum of 9. Warrior only: +1 to prowess to a maximum of 8.  "...and black was his lofty helm..." ---LotRI 
+> > _**Unique.**_ _Helmet:_ +2 to direct influence. +1 to body to a maximum of 9. Warrior only: +1 to prowess to a maximum of 8. <br>_"...and black was his lofty helm..."_ ***---LotRI*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【(+1)/+1】</div>

@@ -25,7 +25,7 @@ permalink: /cards/itangast-roused/
 > Dragon Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Unique. Manifestation of Itangast. Playable at Gold Hill if the influence check is greater than 15. Modifications: influencer discards a major item (+4) or a greater item (+8). All attacks by manifestations of Itangast against any of your companies are canceled. Any company moving in Withered Heath, Iron Hills, Northern Rhovanion, and/or Grey Mountain Narrows faces one attack: Dragon-three strikes at 18/8 prowess/body. 
+> > _**Unique.**_ Manifestation of Itangast. Playable at Gold Hill if the influence check is greater than 15. Modifications: influencer discards a major item (+4) or a greater item (+8). All attacks by manifestations of Itangast against any of your companies are canceled. Any company moving in Withered Heath, Iron Hills, Northern Rhovanion, and/or Grey Mountain Narrows faces one attack: Dragon-three strikes at 18/8 prowess/body. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

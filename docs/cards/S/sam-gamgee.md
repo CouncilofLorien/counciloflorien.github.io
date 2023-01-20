@@ -19,13 +19,13 @@ permalink: /cards/sam-gamgee/
 > > <div class="character-card-name">Sam Gamgee</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 4![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Scout/Ranger Hobbit
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +3.  "'I'll get there if I leave everything but my bones behind...And I'll carry Mr. Frodo up myself...'"  ---LotRVI  Home Site: Bag End 
+> > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +3. <br>_"'I'll get there if I leave everything but my bones behind...And I'll carry Mr. Frodo up myself...'"_ ***---LotRVI***  <br><br>**Home Site:** Bag End 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【1/9】</div>
@@ -39,13 +39,13 @@ permalink: /cards/sam-gamgee/
 > > <div class="character-card-name">Sam Gamgee</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 4![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Scout/Ranger Hobbit
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +3.  "'I'll get there if I leave everything but my bones behind...And I'll carry Mr. Frodo up myself...'"  ---LotRVI  Home Site: Bag End 
+> > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +3. <br>_"'I'll get there if I leave everything but my bones behind...And I'll carry Mr. Frodo up myself...'"_ ***---LotRVI***  <br><br>**Home Site:** Bag End 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【1/9】</div>
@@ -59,13 +59,13 @@ permalink: /cards/sam-gamgee/
 > > <div class="character-card-name">Sam Gamgee</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 4![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Scout/Ranger Hobbit
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +3.  "'I'll get there if I leave everything but my bones behind...And I'll carry Mr. Frodo up myself...'"  ---LotRVI  Home Site: Bag End 
+> > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +3. <br>_"'I'll get there if I leave everything but my bones behind...And I'll carry Mr. Frodo up myself...'"_ ***---LotRVI***  <br><br>**Home Site:** Bag End 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【1/9】</div>

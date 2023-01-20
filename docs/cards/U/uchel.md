@@ -19,13 +19,13 @@ permalink: /cards/uchel/
 > > <div class="card-name">Uchel</div>
 >
 > {: .minion-character-frame .black-text .p-1 .pl-2 }
-> > 1![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 1 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Ranger Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > Unique. +4 direct influence against the Hillmen faction.  "'The king, the king!'...'We will take their king. Death to the Forgoil! Death to the Strawheads! Death to the robbers of the North!'"  ---LotRIII  Home Site: Cameth Brin 
+> > _**Unique.**_ +4 direct influence against the Hillmen faction. <br>_"'The king, the king!'...'We will take their king. Death to the Forgoil! Death to the Strawheads! Death to the robbers of the North!'"_ ***---LotRIII***  <br><br>**Home Site:** Cameth Brin 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【2/7】</div>

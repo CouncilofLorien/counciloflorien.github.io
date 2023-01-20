@@ -19,13 +19,13 @@ permalink: /cards/bard-bowman/
 > > <div class="character-card-name">Bard Bowman</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 2![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 2 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Scout Man
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. +2 direct influence against the Men of Northern Rhovanian faction.  "Their captain was Bard, grim-voiced and grim-faced, whose friends had accused him of prophesying floods and poisoned fish, though they knew his worth and courage." ---Hob  Home Site: Lake-town 
+> > _**Unique.**_ +2 direct influence against the Men of Northern Rhovanian faction. <br>_"Their captain was Bard, grim-voiced and grim-faced, whose friends had accused him of prophesying floods and poisoned fish, though they knew his worth and courage."_ ***---Hob***  <br><br>**Home Site:** Lake-town 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【3/6】</div>
@@ -39,13 +39,13 @@ permalink: /cards/bard-bowman/
 > > <div class="character-card-name">Bard Bowman</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 2![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 2 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Scout Man
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. +2 direct influence against the Men of Northern Rhovanian faction.  "Their captain was Bard, grim-voiced and grim-faced, whose friends had accused him of prophesying floods and poisoned fish, though they knew his worth and courage." ---Hob  Home Site: Lake-town 
+> > _**Unique.**_ +2 direct influence against the Men of Northern Rhovanian faction. <br>_"Their captain was Bard, grim-voiced and grim-faced, whose friends had accused him of prophesying floods and poisoned fish, though they knew his worth and courage."_ ***---Hob***  <br><br>**Home Site:** Lake-town 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【3/6】</div>
@@ -59,13 +59,13 @@ permalink: /cards/bard-bowman/
 > > <div class="character-card-name">Bard Bowman</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 2![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 2 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Scout Man
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. +2 direct influence against the Men of Northern Rhovanian faction.  "Their captain was Bard, grim-voiced and grim-faced, whose friends had accused him of prophesying floods and poisoned fish, though they knew his worth and courage." ---Hob  Home Site: Lake-town 
+> > _**Unique.**_ +2 direct influence against the Men of Northern Rhovanian faction. <br>_"Their captain was Bard, grim-voiced and grim-faced, whose friends had accused him of prophesying floods and poisoned fish, though they knew his worth and courage."_ ***---Hob***  <br><br>**Home Site:** Lake-town 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【3/6】</div>

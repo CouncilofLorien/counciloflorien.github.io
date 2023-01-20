@@ -19,13 +19,13 @@ permalink: /cards/gildor-inglorion/
 > > <div class="character-card-name">Gildor Inglorion</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 4![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Ranger Elf
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. +2 prowess against Orcs.  "'I am...Gildor Inglorion of the House of Finrod. We are Exiles, and most of our kindred have long ago departed and we too are now only tarrying here a while, ere we return over the Great Sea.'" ---LotRI  Home Site: Rivendell 
+> > _**Unique.**_ +2 prowess against Orcs. <br>_"'I am...Gildor Inglorion of the House of Finrod. We are Exiles, and most of our kindred have long ago departed and we too are now only tarrying here a while, ere we return over the Great Sea.'"_ ***---LotRI***  <br><br>**Home Site:** Rivendell 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【5/7】</div>
@@ -39,13 +39,13 @@ permalink: /cards/gildor-inglorion/
 > > <div class="character-card-name">Gildor Inglorion</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 4![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Ranger Elf
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. +2 prowess against Orcs.  "'I am...Gildor Inglorion of the House of Finrod. We are Exiles, and most of our kindred have long ago departed and we too are now only tarrying here a while, ere we return over the Great Sea.'" ---LotRI  Home Site: Rivendell 
+> > _**Unique.**_ +2 prowess against Orcs. <br>_"'I am...Gildor Inglorion of the House of Finrod. We are Exiles, and most of our kindred have long ago departed and we too are now only tarrying here a while, ere we return over the Great Sea.'"_ ***---LotRI***  <br><br>**Home Site:** Rivendell 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【5/7】</div>
@@ -59,13 +59,13 @@ permalink: /cards/gildor-inglorion/
 > > <div class="character-card-name">Gildor Inglorion</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 4![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Ranger Elf
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. +2 prowess against Orcs.  "'I am...Gildor Inglorion of the House of Finrod. We are Exiles, and most of our kindred have long ago departed and we too are now only tarrying here a while, ere we return over the Great Sea.'" ---LotRI  Home Site: Rivendell 
+> > _**Unique.**_ +2 prowess against Orcs. <br>_"'I am...Gildor Inglorion of the House of Finrod. We are Exiles, and most of our kindred have long ago departed and we too are now only tarrying here a while, ere we return over the Great Sea.'"_ ***---LotRI***  <br><br>**Home Site:** Rivendell 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【5/7】</div>

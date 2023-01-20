@@ -25,7 +25,7 @@ permalink: /cards/vale-of-erech/
 > Lamedon
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Edhellond  "...made a great bay that beat up against the sheer southern faces of the mountains. Its steep slopes were grass-grown...The vale was rich and many folk dwelt there." ---LotRV 
+> > Nearest Haven: Edhellond  "...made a great bay that beat up against the sheer southern faces of the mountains. Its steep slopes were grass-grown...The vale was rich and many folk dwelt there."_ ***---LotRV*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/vale-of-erech/
 > Lamedon
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Edhellond  "...made a great bay that beat up against the sheer southern faces of the mountains. Its steep slopes were grass-grown...The vale was rich and many folk dwelt there." ---LotRV 
+> > Nearest Haven: Edhellond  "...made a great bay that beat up against the sheer southern faces of the mountains. Its steep slopes were grass-grown...The vale was rich and many folk dwelt there."_ ***---LotRV*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/vale-of-erech/
 > Lamedon
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Minas Morgul Playable: Items (gold ring) Automatic-attacks: Men-each character face 1 strike with 7 prowess (detainment against covert companies)  "'For at Erech there stands yet a black stone that was brought, it was said, from Numenor by Isildur; and it was set upon a hill...'" ---LotRV 
+> > Nearest Darkhaven: Minas Morgul <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men-each character face 1 strike with 7 prowess (detainment against covert companies)  "'For at Erech there stands yet a black stone that was brought, it was said, from Numenor by Isildur; and it was set upon a hill...'"_ ***---LotRV*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>

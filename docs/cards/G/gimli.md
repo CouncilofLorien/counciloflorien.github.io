@@ -19,13 +19,13 @@ permalink: /cards/gimli/
 > > <div class="character-card-name">Gimli</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 6![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
+> > 6 ![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Diplomat Dwarf
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. +2 direct influence against Iron Hill Dwarves faction, +2 prowess against Orcs. +1 direct influence against Elves and Elf factions.  "Gimli...wore openly a short of steel-rings, for dwarves make light of burdens..." ---LotRII  Home Site: Iron Hill Dwarf-hold 
+> > _**Unique.**_ +2 direct influence against Iron Hill Dwarves faction, +2 prowess against Orcs. +1 direct influence against Elves and Elf factions. <br>_"Gimli...wore openly a short of steel-rings, for dwarves make light of burdens..."_ ***---LotRII***  <br><br>**Home Site:** Iron Hill Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【5/8】</div>
@@ -39,13 +39,13 @@ permalink: /cards/gimli/
 > > <div class="character-card-name">Gimli</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 6![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
+> > 6 ![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Diplomat Dwarf
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. +2 direct influence against Iron Hill Dwarves faction, +2 prowess against Orcs. +1 direct influence against Elves and Elf factions.  "Gimli...wore openly a short of steel-rings, for dwarves make light of burdens..." ---LotRII  Home Site: Iron Hill Dwarf-hold 
+> > _**Unique.**_ +2 direct influence against Iron Hill Dwarves faction, +2 prowess against Orcs. +1 direct influence against Elves and Elf factions. <br>_"Gimli...wore openly a short of steel-rings, for dwarves make light of burdens..."_ ***---LotRII***  <br><br>**Home Site:** Iron Hill Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【5/8】</div>
@@ -59,13 +59,13 @@ permalink: /cards/gimli/
 > > <div class="character-card-name">Gimli</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 6![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
+> > 6 ![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Diplomat Dwarf
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. +2 direct influence against Iron Hill Dwarves faction, +2 prowess against Orcs. +1 direct influence against Elves and Elf factions.  "Gimli...wore openly a short of steel-rings, for dwarves make light of burdens..." ---LotRII  Home Site: Iron Hill Dwarf-hold 
+> > _**Unique.**_ +2 direct influence against Iron Hill Dwarves faction, +2 prowess against Orcs. +1 direct influence against Elves and Elf factions. <br>_"Gimli...wore openly a short of steel-rings, for dwarves make light of burdens..."_ ***---LotRII***  <br><br>**Home Site:** Iron Hill Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【5/8】</div>
@@ -79,13 +79,13 @@ permalink: /cards/gimli/
 > > <div class="character-card-name">Gimli</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 6![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
+> > 6 ![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Diplomat Dwarf
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. +2 direct influence against Iron Hill Dwarves faction, +2 prowess against Orcs. +1 direct influence against Elves and Elf factions.  "Gimli...wore openly a short of steel-rings, for dwarves make light of burdens..." ---LotRII  Home Site: Iron Hill Dwarf-hold 
+> > _**Unique.**_ +2 direct influence against Iron Hill Dwarves faction, +2 prowess against Orcs. +1 direct influence against Elves and Elf factions. <br>_"Gimli...wore openly a short of steel-rings, for dwarves make light of burdens..."_ ***---LotRII***  <br><br>**Home Site:** Iron Hill Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【5/8】</div>

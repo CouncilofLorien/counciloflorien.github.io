@@ -25,7 +25,7 @@ permalink: /cards/pale-dream-maker/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Corruption. Dark Enchantment. Playable on a non-Wizard character wounded by an Undead attack this turn.; does not count against the hazard limit. Target character receives 2 corruption points and makes a corruption check each time a player discards a card from his hand during his turn. His direct influence is zero while bearing this card. Cannot be duplicated on a given character. During the organization phase, a sage in target character's company (other than character) may tap to attempt to remove this card. Make a roll (or draw a #): if the result is greater than 6, discard this card.  
+> > _Corruption._ Dark Enchantment. Playable on a non-Wizard character wounded by an Undead attack this turn.; does not count against the hazard limit. Target character receives 2 corruption points and makes a corruption check each time a player discards a card from his hand during his turn. His direct influence is zero while bearing this card. Cannot be duplicated on a given character. During the organization phase, a sage in target character's company (other than character) may tap to attempt to remove this card. Make a roll (or draw a #): if the result is greater than 6, discard this card.  
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

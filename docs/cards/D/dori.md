@@ -19,13 +19,13 @@ permalink: /cards/dori/
 > > <div class="character-card-name">Dori</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 1![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 1 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior Dwarf
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions.  "'I can't always be carrying burglars on my back,' said Dori, 'down tunnels and up trees! What do you think I am? A porter?'" ---Hob  Home Site: Blue Mountain Dwarf-hold 
+> > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions. <br>_"'I can't always be carrying burglars on my back,' said Dori, 'down tunnels and up trees! What do you think I am? A porter?'"_ ***---Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【3/6】</div>
@@ -39,13 +39,13 @@ permalink: /cards/dori/
 > > <div class="character-card-name">Dori</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 1![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 1 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior Dwarf
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions.  "'I can't always be carrying burglars on my back,' said Dori, 'down tunnels and up trees! What do you think I am? A porter?'" ---Hob  Home Site: Blue Mountain Dwarf-hold 
+> > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions. <br>_"'I can't always be carrying burglars on my back,' said Dori, 'down tunnels and up trees! What do you think I am? A porter?'"_ ***---Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【3/6】</div>
@@ -59,13 +59,13 @@ permalink: /cards/dori/
 > > <div class="character-card-name">Dori</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 1![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 1 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior Dwarf
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions.  "'I can't always be carrying burglars on my back,' said Dori, 'down tunnels and up trees! What do you think I am? A porter?'" ---Hob  Home Site: Blue Mountain Dwarf-hold 
+> > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions. <br>_"'I can't always be carrying burglars on my back,' said Dori, 'down tunnels and up trees! What do you think I am? A porter?'"_ ***---Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【3/6】</div>

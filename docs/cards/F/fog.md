@@ -25,7 +25,7 @@ permalink: /cards/fog/
 > Long-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Environment. Playable only if Gates of Morning is in play. Treat all Free-domains \[![](/assets/images/free-domain.svg)] as Border-Lands and all Border-lands \[![](/assets/images/border-land.svg)] as Wildernesses \[![](/assets/images/wilderness.svg)] and all Shadow-lands \[![](/assets/images/shadow-land.svg)] as Wildernesses \[![](/assets/images/wilderness.svg)] and all Dark-domains \[![](/assets/images/dark-domain.svg)] as Shadow-lands \[![](/assets/images/shadow-land.svg)]. Cannot be duplicated. 
+> > _Environment._ Playable only if Gates of Morning is in play. Treat all Free-domains \[![](/assets/images/free-domain.svg)] as Border-Lands and all Border-lands \[![](/assets/images/border-land.svg)] as Wildernesses \[![](/assets/images/wilderness.svg)] and all Shadow-lands \[![](/assets/images/shadow-land.svg)] as Wildernesses \[![](/assets/images/wilderness.svg)] and all Dark-domains \[![](/assets/images/dark-domain.svg)] as Shadow-lands \[![](/assets/images/shadow-land.svg)]. Cannot be duplicated. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/fog/
 > Long-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Environment. Playable only if Gates of Morning is in play. Treat all Free-domains \[![](/assets/images/free-domain.svg)] as Border-Lands and all Border-lands \[![](/assets/images/border-land.svg)] as Wildernesses \[![](/assets/images/wilderness.svg)] and all Shadow-lands \[![](/assets/images/shadow-land.svg)] as Wildernesses \[![](/assets/images/wilderness.svg)] and all Dark-domains \[![](/assets/images/dark-domain.svg)] as Shadow-lands \[![](/assets/images/shadow-land.svg)]. Cannot be duplicated. 
+> > _Environment._ Playable only if Gates of Morning is in play. Treat all Free-domains \[![](/assets/images/free-domain.svg)] as Border-Lands and all Border-lands \[![](/assets/images/border-land.svg)] as Wildernesses \[![](/assets/images/wilderness.svg)] and all Shadow-lands \[![](/assets/images/shadow-land.svg)] as Wildernesses \[![](/assets/images/wilderness.svg)] and all Dark-domains \[![](/assets/images/dark-domain.svg)] as Shadow-lands \[![](/assets/images/shadow-land.svg)]. Cannot be duplicated. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

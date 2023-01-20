@@ -25,7 +25,7 @@ permalink: /cards/bow-of-the-galadhrim/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Unique. The following effect applies only if the bearer is an Elf Warrior. In company versus company combat, make a roll (draw a #) before strikes are assigned for each non-unique minion ally in the company the bearer is facing. If the result for an ally is greater than the ally's mind plus five, discard the ally.  
+> > _**Unique.**_ The following effect applies only if the bearer is an Elf Warrior. In company versus company combat, make a roll (draw a #) before strikes are assigned for each non-unique minion ally in the company the bearer is facing. If the result for an ally is greater than the ally's mind plus five, discard the ally.  
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/bow-of-the-galadhrim/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Unique. The following effect applies only if the bearer is an Elf Warrior. In company versus company combat, make a roll (draw a #) before strikes are assigned for each non-unique minion ally in the company the bearer is facing. If the result for an ally is greater than the ally's mind plus five, discard the ally.  
+> > _**Unique.**_ The following effect applies only if the bearer is an Elf Warrior. In company versus company combat, make a roll (draw a #) before strikes are assigned for each non-unique minion ally in the company the bearer is facing. If the result for an ally is greater than the ally's mind plus five, discard the ally.  
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

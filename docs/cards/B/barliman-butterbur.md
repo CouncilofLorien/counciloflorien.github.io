@@ -19,13 +19,13 @@ permalink: /cards/barliman-butterbur/
 > > <div class="character-card-name">Barliman Butterbur</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 1![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 1 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior Man
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. -1 to all of his corruption checks. -1 to all influence checks against factions.  "...a short fat man with a bald head and a red face... He seemed capable of an endless stream of talk, however busy he might be." ---LotRI  Home Site: Bree 
+> > _**Unique.**_ -1 to all of his corruption checks. -1 to all influence checks against factions. <br>_"...a short fat man with a bald head and a red face... He seemed capable of an endless stream of talk, however busy he might be."_ ***---LotRI***  <br><br>**Home Site:** Bree 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【2/6】</div>
@@ -39,13 +39,13 @@ permalink: /cards/barliman-butterbur/
 > > <div class="character-card-name">Barliman Butterbur</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 1![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 1 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior Man
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. -1 to all of his corruption checks. -1 to all influence checks against factions.  "...a short fat man with a bald head and a red face... He seemed capable of an endless stream of talk, however busy he might be." ---LotRI  Home Site: Bree 
+> > _**Unique.**_ -1 to all of his corruption checks. -1 to all influence checks against factions. <br>_"...a short fat man with a bald head and a red face... He seemed capable of an endless stream of talk, however busy he might be."_ ***---LotRI***  <br><br>**Home Site:** Bree 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【2/6】</div>

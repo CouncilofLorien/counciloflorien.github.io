@@ -25,7 +25,7 @@ permalink: /cards/arouse-denizens/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The prowess of one automatic-attack at a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] site is increased by 3 until the end of turn. Cannot be duplicated at a given site.  "...the goblin army had gathered behind the resisted vanguard, and poured now in rage into the valley..." ---Hob 
+> > The prowess of one automatic-attack at a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] site is increased by 3 until the end of turn. Cannot be duplicated at a given site. <br>_"...the goblin army had gathered behind the resisted vanguard, and poured now in rage into the valley..."_ ***---Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/arouse-denizens/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The prowess of one automatic-attack at a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] site is increased by 3 until the end of turn. Cannot be duplicated at a given site.  "...the goblin army had gathered behind the resisted vanguard, and poured now in rage into the valley..." ---Hob 
+> > The prowess of one automatic-attack at a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] site is increased by 3 until the end of turn. Cannot be duplicated at a given site. <br>_"...the goblin army had gathered behind the resisted vanguard, and poured now in rage into the valley..."_ ***---Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/arouse-denizens/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a Ruins & Lairs \[![](/assets/images/ruinlair.svg)]. This turn, the prowess of one automatic-attack (your choice) at target site is increased by 3. Cannot be duplicated on a given site.  "...hundreds of black bears dancing slow heavy dances round and round in the moonlight..." ---Hob 
+> > Playable on a Ruins & Lairs \[![](/assets/images/ruinlair.svg)]. This turn, the prowess of one automatic-attack (your choice) at target site is increased by 3. Cannot be duplicated on a given site. <br>_"...hundreds of black bears dancing slow heavy dances round and round in the moonlight..."_ ***---Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

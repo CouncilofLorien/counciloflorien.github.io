@@ -25,7 +25,7 @@ permalink: /cards/uvatha-the-horseman/
 > Creature or Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Unique. Nazgul (9th). May be played as a hazard creature (with one strike) or as a permanent event. As a creature, may also be played keyed to Harondor, Horse Plains, Gorgoroth, and Khand; and may also be played at sites in these regions. If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, Uvatha the Horseman becomes a short-event and you may bring one hazard creature from your discard pile to your hand. 
+> > _**Unique.**_ _Nazgul (9th)._ May be played as a hazard creature (with one strike) or as a permanent event. As a creature, may also be played keyed to Harondor, Horse Plains, Gorgoroth, and Khand; and may also be played at sites in these regions. If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, Uvatha the Horseman becomes a short-event and you may bring one hazard creature from your discard pile to your hand. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【15/9】</div>
@@ -45,7 +45,7 @@ permalink: /cards/uvatha-the-horseman/
 > Creature or Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Unique. Nazgul (9th). May be played as a hazard creature (with one strike) or as a permanent event. As a creature, may also be played keyed to Harondor, Horse Plains, Gorgoroth, and Khand; and may also be played at sites in these regions. If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, Uvatha the Horseman becomes a short-event and you may bring one hazard creature from your discard pile to your hand. 
+> > _**Unique.**_ _Nazgul (9th)._ May be played as a hazard creature (with one strike) or as a permanent event. As a creature, may also be played keyed to Harondor, Horse Plains, Gorgoroth, and Khand; and may also be played at sites in these regions. If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, Uvatha the Horseman becomes a short-event and you may bring one hazard creature from your discard pile to your hand. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【15/9】</div>

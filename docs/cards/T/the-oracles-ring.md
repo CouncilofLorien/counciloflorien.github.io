@@ -19,13 +19,13 @@ permalink: /cards/the-oracles-ring/
 > > <div class="card-name">The Oracle's Ring</div>
 >
 > {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > -2![](/assets/images/mind.svg) +2![](/assets/images/di.svg)
+> > -2 ![](/assets/images/mind.svg) +2![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Spirit Ring. Playable only with a Gold Ring and after a test indicates a Spirit Ring. -2 to bearer's mind (minimum of 1). +4 to bearer's direct influence. Cannot be duplicated on a given character.  "'Here is the ring...the token of our kinship from afar...'" ---LotR 
+> > _Spirit Ring._ Playable only with a Gold Ring and after a test indicates a _Spirit Ring._ -2 to bearer's mind (minimum of 1). +4 to bearer's direct influence. Cannot be duplicated on a given character. <br>_"'Here is the ring...the token of our kinship from afar...'" ---LotR 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

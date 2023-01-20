@@ -25,7 +25,7 @@ permalink: /cards/master-of-the-house/
 > Creature or Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Unique. Elf. Manifestation of Elrond. One strike. Detainment against hero companies. As a creature, may be played keyed to Rhudaur, Arthedain, High Pass, The Shire, or Cardolan; or at sites in these regions. As a permanent-event, each player at the end of each turn may bring one Elf creature from his discard pile to his hand. Discard when any play deck is exhausted. 
+> > _**Unique.**_ _Elf._ Manifestation of Elrond. One strike. Detainment against hero companies. As a creature, may be played keyed to Rhudaur, Arthedain, High Pass, The Shire, or Cardolan; or at sites in these regions. As a permanent-event, each player at the end of each turn may bring one Elf creature from his discard pile to his hand. Discard when any play deck is exhausted. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【14/9】</div>

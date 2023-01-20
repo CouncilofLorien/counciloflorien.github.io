@@ -25,7 +25,7 @@ permalink: /cards/gloom/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Environment. Playable only on a company that is moving this turn. Once character (attacker's choice) in that company suffers -1 to his prowess until the end of the turn. Alternatively, if Doors of Night is in play, treat one Border-land \[![](/assets/images/border-land.svg)] as a Wilderness \[![](/assets/images/wilderness.svg)] or one Border-hold \[![](/assets/images/border-hold.svg)] as a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] until the end of the turn. Cannot be duplicated. 
+> > _Environment._ Playable only on a company that is moving this turn. Once character (attacker's choice) in that company suffers -1 to his prowess until the end of the turn. Alternatively, if Doors of Night is in play, treat one Border-land \[![](/assets/images/border-land.svg)] as a Wilderness \[![](/assets/images/wilderness.svg)] or one Border-hold \[![](/assets/images/border-hold.svg)] as a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] until the end of the turn. Cannot be duplicated. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/gloom/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Environment. Playable only on a company that is moving this turn. Once character (attacker's choice) in that company suffers -1 to his prowess until the end of the turn. Alternatively, if Doors of Night is in play, treat one Border-land \[![](/assets/images/border-land.svg)] as a Wilderness \[![](/assets/images/wilderness.svg)] or one Border-hold \[![](/assets/images/border-hold.svg)] as a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] until the end of the turn. Cannot be duplicated. 
+> > _Environment._ Playable only on a company that is moving this turn. Once character (attacker's choice) in that company suffers -1 to his prowess until the end of the turn. Alternatively, if Doors of Night is in play, treat one Border-land \[![](/assets/images/border-land.svg)] as a Wilderness \[![](/assets/images/wilderness.svg)] or one Border-hold \[![](/assets/images/border-hold.svg)] as a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] until the end of the turn. Cannot be duplicated. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

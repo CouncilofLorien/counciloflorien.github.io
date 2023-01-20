@@ -19,13 +19,13 @@ permalink: /cards/ioreth/
 > > <div class="character-card-name">Ioreth</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 1![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
+> > 1 ![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Sage Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. Healing effects affect all characters in her company.  "...an old wife, Ioreth, the eldest of the women who served in that house..."  ---LotRV  Home Site: Minas Tirith 
+> > _**Unique.**_ Healing effects affect all characters in her company. <br>_"...an old wife, Ioreth, the eldest of the women who served in that house..."_ ***---LotRV***  <br><br>**Home Site:** Minas Tirith 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【0/7】</div>
@@ -39,13 +39,13 @@ permalink: /cards/ioreth/
 > > <div class="character-card-name">Ioreth</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 1![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
+> > 1 ![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Sage Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. Healing effects affect all characters in her company.  "...an old wife, Ioreth, the eldest of the women who served in that house..."  ---LotRV  Home Site: Minas Tirith 
+> > _**Unique.**_ Healing effects affect all characters in her company. <br>_"...an old wife, Ioreth, the eldest of the women who served in that house..."_ ***---LotRV***  <br><br>**Home Site:** Minas Tirith 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【0/7】</div>

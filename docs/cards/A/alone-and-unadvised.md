@@ -25,7 +25,7 @@ permalink: /cards/alone-and-unadvised/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Corruption. Playable on a non-Wizard, non-Ringwraith character in a company with 3 of fewer characters. Target character makes a corruption check at the end of his movement/hazard phase for each region he moved through. All of his corruption checks are modified by adding the number of characters in his company. During his organization phase, the character may tap to attempt to remove this card by making a roll (drawing a #)-ifthe result is greater than 6, discard this card. Discard this card if hiscompany has 4 or more characters. Cannot be duplicated on a given character. 
+> > _Corruption._ Playable on a non-Wizard, non-Ringwraith character in a company with 3 of fewer characters. Target character makes a corruption check at the end of his movement/hazard phase for each region he moved through. All of his corruption checks are modified by adding the number of characters in his company. During his organization phase, the character may tap to attempt to remove this card by making a roll (drawing a #)-ifthe result is greater than 6, discard this card. Discard this card if hiscompany has 4 or more characters. Cannot be duplicated on a given character. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/alone-and-unadvised/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Corruption. Playable on a non-Wizard, non-Ringwraith character in a company with 3 of fewer characters. Target character makes a corruption check at the end of his movement/hazard phase for each region he moved through. All of his corruption checks are modified by adding the number of characters in his company. During his organization phase, the character may tap to attempt to remove this card by making a roll (drawing a #)-ifthe result is greater than 6, discard this card. Discard this card if hiscompany has 4 or more characters. Cannot be duplicated on a given character. 
+> > _Corruption._ Playable on a non-Wizard, non-Ringwraith character in a company with 3 of fewer characters. Target character makes a corruption check at the end of his movement/hazard phase for each region he moved through. All of his corruption checks are modified by adding the number of characters in his company. During his organization phase, the character may tap to attempt to remove this card by making a roll (drawing a #)-ifthe result is greater than 6, discard this card. Discard this card if hiscompany has 4 or more characters. Cannot be duplicated on a given character. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

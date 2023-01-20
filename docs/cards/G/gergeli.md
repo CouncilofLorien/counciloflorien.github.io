@@ -19,13 +19,13 @@ permalink: /cards/gergeli/
 > > <div class="card-name">Gergeli</div>
 >
 > {: .minion-character-frame .black-text .p-1 .pl-2 }
-> > 5![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
+> > 5 ![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Scout/Diplomat Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > Unique. Agent.  "Wise-man say that Gergeli paddled every stream between the shrouded summits of the Hithaeglir and the jagged teeth of the Orocarni." ---Kuduk Lore  Home Site: Shrel-Kain, Lake-town, Easterling Camp  
+> > _**Unique.**_ Agent. <br>_"Wise-man say that Gergeli paddled every stream between the shrouded summits of the Hithaeglir and the jagged teeth of the Orocarni."_ ***---Kuduk Lore***  <br><br>**Home Site:** Shrel-Kain, Lake-town, Easterling Camp  
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【3/9】</div>

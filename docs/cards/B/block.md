@@ -25,7 +25,7 @@ permalink: /cards/block/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Warrior only. Warrior does not tap against one strike (unless he is wounded by the strike).  "...there was a twang of bowstrings: several arrows whistled over them, and some fell among them. One smote Frodo between the shoulders...but the arrow fell back, foiled by his hidden coat of mail." ---LotRII 
+> > _Warrior only._ Warrior does not tap against one strike (unless he is wounded by the strike). <br>_"...there was a twang of bowstrings: several arrows whistled over them, and some fell among them. One smote Frodo between the shoulders...but the arrow fell back, foiled by his hidden coat of mail."_ ***---LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/block/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Warrior only. Warrior does not tap against one strike (unless he is wounded by the strike).  "...there was a twang of bowstrings: several arrows whistled over them, and some fell among them. One smote Frodo between the shoulders...but the arrow fell back, foiled by his hidden coat of mail." ---LotRII 
+> > _Warrior only._ Warrior does not tap against one strike (unless he is wounded by the strike). <br>_"...there was a twang of bowstrings: several arrows whistled over them, and some fell among them. One smote Frodo between the shoulders...but the arrow fell back, foiled by his hidden coat of mail."_ ***---LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/block/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Warrior only. Warrior does not tap against one strike (unless he is wounded by the strike).  "...there was a twang of bowstrings: several arrows whistled over them, and some fell among them. One smote Frodo between the shoulders...but the arrow fell back, foiled by his hidden coat of mail." ---LotRII 
+> > _Warrior only._ Warrior does not tap against one strike (unless he is wounded by the strike). <br>_"...there was a twang of bowstrings: several arrows whistled over them, and some fell among them. One smote Frodo between the shoulders...but the arrow fell back, foiled by his hidden coat of mail."_ ***---LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

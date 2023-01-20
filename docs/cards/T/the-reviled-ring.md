@@ -19,13 +19,13 @@ permalink: /cards/the-reviled-ring/
 > > <div class="card-name">The Reviled Ring</div>
 >
 > {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > -2![](/assets/images/mind.svg)
+> > -2 ![](/assets/images/mind.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Spirit Ring. Weapon. Playable only with a Gold Ring and after a test indicates a Spirit Ring. -2 to bearer's mind (minimum of 1). +3 to bearer's prowess. Cannot be duplicated on a given character.  "'This is a thing of worth...For its ancientry alone.'" ---LotR 
+> > _Spirit Ring._ _Weapon._ Playable only with a Gold Ring and after a test indicates a _Spirit Ring._ -2 to bearer's mind (minimum of 1). +3 to bearer's prowess. Cannot be duplicated on a given character. <br>_"'This is a thing of worth...For its ancientry alone.'" ---LotR 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【+3/&ndash;】</div>

@@ -19,13 +19,13 @@ permalink: /cards/carambor/
 > > <div class="card-name">Carambor</div>
 >
 > {: .minion-character-frame .black-text .p-1 .pl-2 }
-> > 6![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 6 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Scout/Ranger Elf
 >
 > {: .minion-character-text .black-text .p-2 }
-> > Unique. May tap at the end of his company's movement/hazard phase to allow it to move to an additional site on the same turn. Another site card may be played and another movement/hazard phase immediately follows for his company. The new site path must contain at least one Wilderness \[![](/assets/images/wilderness.svg)].   Home Site: Carn Dum  
+> > _**Unique.**_ May tap at the end of his company's movement/hazard phase to allow it to move to an additional site on the same turn. Another site card may be played and another movement/hazard phase immediately follows for his company. The new site path must contain at least one Wilderness \[![](/assets/images/wilderness.svg)].   <br><br>**Home Site:** Carn Dum  
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【5/8】</div>

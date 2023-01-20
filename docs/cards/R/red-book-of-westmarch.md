@@ -25,7 +25,7 @@ permalink: /cards/red-book-of-westmarch/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Unique. Only playable at Bag End. +2 to direct influence against a Hobbit character of faction. 1 marshalling point if stored at a Haven \[![](/assets/images/free-haven.svg)].  "...in a single red case, were the three large volumes, bound in red leather, that Bilbo gave to him as a parting gift..." ---LotRV 
+> > _**Unique.**_ Only playable at Bag End. +2 to direct influence against a Hobbit character of faction. 1 marshalling point if stored at a Haven \[![](/assets/images/free-haven.svg)]. <br>_"...in a single red case, were the three large volumes, bound in red leather, that Bilbo gave to him as a parting gift..."_ ***---LotRV*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/red-book-of-westmarch/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Unique. Only playable at Bag End. +2 to direct influence against a Hobbit character of faction. 1 marshalling point if stored at a Haven \[![](/assets/images/free-haven.svg)].  "...in a single red case, were the three large volumes, bound in red leather, that Bilbo gave to him as a parting gift..." ---LotRV 
+> > _**Unique.**_ Only playable at Bag End. +2 to direct influence against a Hobbit character of faction. 1 marshalling point if stored at a Haven \[![](/assets/images/free-haven.svg)]. <br>_"...in a single red case, were the three large volumes, bound in red leather, that Bilbo gave to him as a parting gift..."_ ***---LotRV*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/red-book-of-westmarch/
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Unique. Playable at Bag End. May be stored at Barad-dur for 5 marshalling points.  "There was a big book with plain red leather covers; its tall pages wee now almost filled." ---LotRVI 
+> > _**Unique.**_ Playable at Bag End. May be stored at Barad-dur for 5 marshalling points. <br>_"There was a big book with plain red leather covers; its tall pages wee now almost filled."_ ***---LotRVI*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -85,7 +85,7 @@ permalink: /cards/red-book-of-westmarch/
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Unique. Playable at Bag End. May be stored at Barad-dur for 5 marshalling points.  "There was a big book with plain red leather covers; its tall pages wee now almost filled." ---LotRVI 
+> > _**Unique.**_ Playable at Bag End. May be stored at Barad-dur for 5 marshalling points. <br>_"There was a big book with plain red leather covers; its tall pages wee now almost filled."_ ***---LotRVI*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

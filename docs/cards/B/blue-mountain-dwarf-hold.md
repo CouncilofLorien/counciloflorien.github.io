@@ -65,7 +65,7 @@ permalink: /cards/blue-mountain-dwarf-hold/
 > Numeriador
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Carn Dum Playable: Items (minor, major, greater, gold ring) Automatic-attacks: Dwarves-4 strikes with 10 prowess  "There remained Dwarves on the eastern side of Ered Lindon, not far from Nenuial" ---Kuduk Lore 
+> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dwarves-4 strikes with 10 prowess  "There remained Dwarves on the eastern side of Ered Lindon, not far from Nenuial"_ ***---Kuduk Lore*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

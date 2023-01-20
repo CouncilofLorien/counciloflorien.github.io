@@ -19,13 +19,13 @@ permalink: /cards/snaga/
 > > <div class="card-name">Snaga</div>
 >
 > {: .minion-character-frame .black-text .p-1 .pl-2 }
-> > 4![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > Unique. Uruk-hai. Discard on a body check result of 9.  "'I'm not going down those stairs again...be you captain or no. Nar!'" ---LotRVI  Home Site: Any site in Imlad Morgul 
+> > _**Unique.**_ _Uruk-hai._ Discard on a body check result of 9. <br>_"'I'm not going down those stairs again...be you captain or no. Nar!'"_ ***---LotRVI***  <br><br>**Home Site:** Any site in Imlad Morgul 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【5/9】</div>

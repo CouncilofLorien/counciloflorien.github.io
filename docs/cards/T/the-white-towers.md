@@ -25,7 +25,7 @@ permalink: /cards/the-white-towers/
 > Arthedain
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Rivendell Automatic-attacks: Wolves - 2 strikes with 6 prowess
+> > Nearest Haven: Rivendell <br>_**Automatic-attacks:**_<br> Wolves - 2 strikes with 6 prowess
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/the-white-towers/
 > Arthedain
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Rivendell Automatic-attacks: Wolves - 2 strikes with 6 prowess
+> > Nearest Haven: Rivendell <br>_**Automatic-attacks:**_<br> Wolves - 2 strikes with 6 prowess
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/the-white-towers/
 > Arthedain
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Carn Dum Playable: Information Automatic-attacks: Wolves - 2 strikes with 6 prowess
+> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Wolves - 2 strikes with 6 prowess
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/the-white-towers/
 > Arthedain
 >
 > {: .fw-site-text .black-text .p-2 }
-> > Special: If one of your companies is at this site, all attacks against it are canceled.   "Tales of the Second Age say that the towers of the Tower Hills were raised by Gil-galad, and thither the King would repair to gaze westward through the palantir of Elostirion." ---Kuduk Lore  
+> > <br>_**Special:**_ If one of your companies is at this site, all attacks against it are canceled.   "Tales of the Second Age say that the towers of the Tower Hills were raised by Gil-galad, and thither the King would repair to gaze westward through the palantir of Elostirion."_ ***---Kuduk Lore***  
 > 
 > {: .fw-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

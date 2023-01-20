@@ -19,13 +19,13 @@ permalink: /cards/roac-the-raven/
 > > <div class="card-name">Roac the Raven</div>
 >
 > {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > 1![](/assets/images/mind.svg)
+> > 1 ![](/assets/images/mind.svg)
 >
 > {: .card-classification .pr-2 }
 > Diplomat Ally
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Unique. Playable at any site in Northern Rhovanion.  Tap and discard to attempt to bring any faction into play - treat this influence check as though it were made by a diplomat.  "'Now I am chief of the great ravens of the Mountain. We are few, but we remember still the king that was of old.'" ---Hob 
+> > _**Unique.**_ Playable at any site in Northern Rhovanion.  Tap and discard to attempt to bring any faction into play - treat this influence check as though it were made by a diplomat. <br>_"'Now I am chief of the great ravens of the Mountain. We are few, but we remember still the king that was of old.'"_ ***---Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【-3/8】</div>
@@ -39,13 +39,13 @@ permalink: /cards/roac-the-raven/
 > > <div class="card-name">Roac the Raven</div>
 >
 > {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > 1![](/assets/images/mind.svg)
+> > 1 ![](/assets/images/mind.svg)
 >
 > {: .card-classification .pr-2 }
 > Diplomat Ally
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Unique. Playable at any site in Northern Rhovanion.  Tap and discard to attempt to bring any faction into play - treat this influence check as though it were made by a diplomat.  "'Now I am chief of the great ravens of the Mountain. We are few, but we remember still the king that was of old.'" ---Hob 
+> > _**Unique.**_ Playable at any site in Northern Rhovanion.  Tap and discard to attempt to bring any faction into play - treat this influence check as though it were made by a diplomat. <br>_"'Now I am chief of the great ravens of the Mountain. We are few, but we remember still the king that was of old.'"_ ***---Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【-3/8】</div>

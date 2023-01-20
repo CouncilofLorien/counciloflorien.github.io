@@ -19,13 +19,13 @@ permalink: /cards/quickbeam/
 > > <div class="card-name">Quickbeam</div>
 >
 > {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > 3![](/assets/images/mind.svg)
+> > 3 ![](/assets/images/mind.svg)
 >
 > {: .card-classification .pr-2 }
 > Ally
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Unique. Playable at Wellinghall.  May not be attacked by automatic-attacks or hazards keyed to his site.  "He was tall, and seemed to be one of the younger Ents; he had smooth shining skin on his arms and legs; his lips were ruddy, and his hair was grey-green. He could bend and sway like a slender tree in the wind." ---LotRIII 
+> > _**Unique.**_ Playable at Wellinghall.  May not be attacked by automatic-attacks or hazards keyed to his site. <br>_"He was tall, and seemed to be one of the younger Ents; he had smooth shining skin on his arms and legs; his lips were ruddy, and his hair was grey-green. He could bend and sway like a slender tree in the wind."_ ***---LotRIII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【6/9】</div>
@@ -39,13 +39,13 @@ permalink: /cards/quickbeam/
 > > <div class="card-name">Quickbeam</div>
 >
 > {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > 3![](/assets/images/mind.svg)
+> > 3 ![](/assets/images/mind.svg)
 >
 > {: .card-classification .pr-2 }
 > Ally
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Unique. Playable at Wellinghall.  May not be attacked by automatic-attacks or hazards keyed to his site.  "He was tall, and seemed to be one of the younger Ents; he had smooth shining skin on his arms and legs; his lips were ruddy, and his hair was grey-green. He could bend and sway like a slender tree in the wind." ---LotRIII 
+> > _**Unique.**_ Playable at Wellinghall.  May not be attacked by automatic-attacks or hazards keyed to his site. <br>_"He was tall, and seemed to be one of the younger Ents; he had smooth shining skin on his arms and legs; his lips were ruddy, and his hair was grey-green. He could bend and sway like a slender tree in the wind."_ ***---LotRIII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【6/9】</div>
@@ -59,13 +59,13 @@ permalink: /cards/quickbeam/
 > > <div class="card-name">Quickbeam</div>
 >
 > {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > 3![](/assets/images/mind.svg)
+> > 3 ![](/assets/images/mind.svg)
 >
 > {: .card-classification .pr-2 }
 > Ally
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Unique. Playable at Wellinghall.  May not be attacked by automatic-attacks or hazards keyed to his site.  "He was tall, and seemed to be one of the younger Ents; he had smooth shining skin on his arms and legs; his lips were ruddy, and his hair was grey-green. He could bend and sway like a slender tree in the wind." ---LotRIII 
+> > _**Unique.**_ Playable at Wellinghall.  May not be attacked by automatic-attacks or hazards keyed to his site. <br>_"He was tall, and seemed to be one of the younger Ents; he had smooth shining skin on his arms and legs; his lips were ruddy, and his hair was grey-green. He could bend and sway like a slender tree in the wind."_ ***---LotRIII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【6/9】</div>
@@ -79,13 +79,13 @@ permalink: /cards/quickbeam/
 > > <div class="card-name">Quickbeam</div>
 >
 > {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > 3![](/assets/images/mind.svg)
+> > 3 ![](/assets/images/mind.svg)
 >
 > {: .card-classification .pr-2 }
 > Ally
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Unique. Playable at Wellinghall.  May not be attacked by automatic-attacks or hazards keyed to his site.  "He was tall, and seemed to be one of the younger Ents; he had smooth shining skin on his arms and legs; his lips were ruddy, and his hair was grey-green. He could bend and sway like a slender tree in the wind." ---LotRIII 
+> > _**Unique.**_ Playable at Wellinghall.  May not be attacked by automatic-attacks or hazards keyed to his site. <br>_"He was tall, and seemed to be one of the younger Ents; he had smooth shining skin on his arms and legs; his lips were ruddy, and his hair was grey-green. He could bend and sway like a slender tree in the wind."_ ***---LotRIII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【6/9】</div>

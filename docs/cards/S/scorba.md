@@ -25,7 +25,7 @@ permalink: /cards/scorba/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Unique. May be played at Zarak Dum. Dragon. Three strikes. Attacker chooses defending characters. If Doors of Night is in play, may also be played keyed to Forochel, Angmar, Gundabad; may also be played at sites in those regions.  "As lithe as a viper, Scorba the Rubine employs cunning and trickery to toy with his foes before slaying them." ---Kuduk Lore 
+> > _**Unique.**_ May be played at Zarak Dum. _Dragon._ Three strikes. Attacker chooses defending characters. If Doors of Night is in play, may also be played keyed to Forochel, Angmar, Gundabad; may also be played at sites in those regions. <br>_"As lithe as a viper, Scorba the Rubine employs cunning and trickery to toy with his foes before slaying them."_ ***---Kuduk Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【12/8】</div>

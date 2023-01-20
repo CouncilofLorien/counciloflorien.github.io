@@ -25,7 +25,7 @@ permalink: /cards/bounty-of-the-hoard/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable during the site phase. One minor or major item may be played at a tapped site that contains a hoard.  "'Mr. Baggins!' he cried. 'Here is the first payment of your reward! Cast off your old coat and put on this!'"  ---Hob 
+> > Playable during the site phase. One minor or major item may be played at a tapped site that contains a hoard. <br>_"'Mr. Baggins!' he cried. 'Here is the first payment of your reward! Cast off your old coat and put on this!'"_ ***---Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/bounty-of-the-hoard/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable during the site phase. One minor or major item may be played at a tapped site that contains a hoard.  "'Mr. Baggins!' he cried. 'Here is the first payment of your reward! Cast off your old coat and put on this!'"  ---Hob 
+> > Playable during the site phase. One minor or major item may be played at a tapped site that contains a hoard. <br>_"'Mr. Baggins!' he cried. 'Here is the first payment of your reward! Cast off your old coat and put on this!'"_ ***---Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

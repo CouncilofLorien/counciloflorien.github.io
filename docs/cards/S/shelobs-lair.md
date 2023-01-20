@@ -25,7 +25,7 @@ permalink: /cards/shelobs-lair/
 > Imlad Morgul
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien Playable: Items (minor, major) Automatic-attacks: Orcs - 2 strikes with 8 prowess  "...the air was still, stagnant, heavy, and sound fell dead. They walked...in a black vapour wrought of veritable darkness itself that, as it breathed, brought blindness..." ---LotRIV 
+> > Nearest Haven: Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - 2 strikes with 8 prowess  "...the air was still, stagnant, heavy, and sound fell dead. They walked...in a black vapour wrought of veritable darkness itself that, as it breathed, brought blindness..."_ ***---LotRIV*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;3&ensp;</span><span class="hero-opp-draw">&ensp;4&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/shelobs-lair/
 > Imlad Morgul
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien Playable: Items (minor, major) Automatic-attacks: Orcs - 2 strikes with 8 prowess  "...the air was still, stagnant, heavy, and sound fell dead. They walked...in a black vapour wrought of veritable darkness itself that, as it breathed, brought blindness..." ---LotRIV 
+> > Nearest Haven: Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - 2 strikes with 8 prowess  "...the air was still, stagnant, heavy, and sound fell dead. They walked...in a black vapour wrought of veritable darkness itself that, as it breathed, brought blindness..."_ ***---LotRIV*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;3&ensp;</span><span class="hero-opp-draw">&ensp;4&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/shelobs-lair/
 > Imlad Morgul
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Minas Morgul Playable: Items (minor, major) Automatic-attacks (2):  (1st) Orcs - 2 strikes with 8 prowess (2nd) Spider (cannot be canceled)-1 strike with 16 prowess: any character wounded is immediately eliminated Special: Contains a hoard. Non-Nazgul creatures keyed at this site attack normally, not as detainment. 
+> > Nearest Darkhaven: Minas Morgul <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>  (1st) Orcs - 2 strikes with 8 prowess (2nd) Spider (cannot be canceled)-1 strike with 16 prowess: any character wounded is immediately eliminated <br>_**Special:**_ Contains a hoard. Non-Nazgul creatures keyed at this site attack normally, not as detainment. 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/shelobs-lair/
 > Imlad Morgul
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Minas Morgul Playable: Items (minor, major) Automatic-attacks (2):  (1st) Orcs - 2 strikes with 8 prowess (2nd) Spider (cannot be canceled)-1 strike with 16 prowess: any character wounded is immediately eliminated Special: Contains a hoard. Non-Nazgul creatures keyed at this site attack normally, not as detainment. 
+> > Nearest Darkhaven: Minas Morgul <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>  (1st) Orcs - 2 strikes with 8 prowess (2nd) Spider (cannot be canceled)-1 strike with 16 prowess: any character wounded is immediately eliminated <br>_**Special:**_ Contains a hoard. Non-Nazgul creatures keyed at this site attack normally, not as detainment. 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>

@@ -25,7 +25,7 @@ permalink: /cards/the-under-galleries/
 > Under-deeps
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Adjacent Sites: Any site in Udun (0), The Under-courts (4), The Sulfur-deeps (8) Playable: Items (minor, major, greater) Automatic-attacks (2): Trolls (1st attack)-4 strikes with 9 prowess (2nd attack)-Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Shadow-holds \[![](/assets/images/shadow-hold.svg)] Special: Stolen Knowledge. When Under-galleries would be placed in your discard pile, place it in your marshalling point pile instead for 3 marshalling points-this card is considered stored. 
+> > _**Adjacent Sites:**_ Any site in Udun (0), The Under-courts (4), The Sulfur-deeps (8) <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br> Trolls (1st attack)-4 strikes with 9 prowess (2nd attack)-Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Shadow-holds \[![](/assets/images/shadow-hold.svg)] <br>_**Special:**_ Stolen Knowledge. When Under-galleries would be placed in your discard pile, place it in your marshalling point pile instead for 3 marshalling points-this card is considered stored. 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;4&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/the-under-galleries/
 > Under-deeps
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Adjacent Sites: Any site in Udun (0), The Under-courts (4), The Sulfur-deeps (7) Playable: Information, Items (minor) Automatic-attacks: Trolls-4 strikes with 10 prowess (detainment)  "Here wer bred countless, unspeakable things." ---Kuduk Lore 
+> > _**Adjacent Sites:**_ Any site in Udun (0), The Under-courts (4), The Sulfur-deeps (7) <br>_**Playable:**_ Information, Items (minor) <br>_**Automatic-attacks:**_<br> Trolls-4 strikes with 10 prowess (detainment)  "Here wer bred countless, unspeakable things."_ ***---Kuduk Lore*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/the-under-galleries/
 > Under-deeps
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > Adjacent Sites: Any site in Udun (0), The Under-courts (6), The Sulfur-deeps (9) Playable: Items (minor, major) Automatic-attacks (2):  Trolls (1st attack)-4 strikes with 9 prowess; (2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold \[![](/assets/images/shadow-hold.svg)] Special: Creatures keyed to this site attack normally, not as detainment. 
+> > _**Adjacent Sites:**_ Any site in Udun (0), The Under-courts (6), The Sulfur-deeps (9) <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>  Trolls (1st attack)-4 strikes with 9 prowess; (2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold \[![](/assets/images/shadow-hold.svg)] <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. 
 > 
 > {: .balrog-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

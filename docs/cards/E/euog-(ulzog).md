@@ -19,13 +19,13 @@ permalink: /cards/euog-(ulzog)/
 > > <div class="card-name">Euog (Ulzog)</div>
 >
 > {: .minion-character-frame .black-text .p-1 .pl-2 }
-> > 5![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
+> > 5 ![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Diplomat Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > Unique. Half-orc. Leader. Discard on a body check result of 9. +2 direct influence against Orcs and Orc factions.  "'If you pick up with a horse-thief...you ought to pay for all the damage yourselves and not come shouting at me.'" ---LotRI  Home Site: Any Dark-hold 
+> > _**Unique.**_ _Half-orc._ _Leader._ Discard on a body check result of 9. +2 direct influence against Orcs and Orc factions. <br>_"'If you pick up with a horse-thief...you ought to pay for all the damage yourselves and not come shouting at me.'"_ ***---LotRI***  <br><br>**Home Site:** Any Dark-hold 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【5/9】</div>

@@ -25,7 +25,7 @@ permalink: /cards/sapling-of-the-white-tree/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Not playable in a Shadow-hold \[![](/assets/images/shadow-hold.svg)] or Dark-hold \[![](/assets/images/dark-hold.svg)]. May be stored at Minas Tirith. 2 marshalling points if stored at Minas Tirith.  "And he climbed to it, and saw that out of the very edge of the snow there sprung a sapling tree no more than three foot high." ---LotRVI 
+> > Not playable in a Shadow-hold \[![](/assets/images/shadow-hold.svg)] or Dark-hold \[![](/assets/images/dark-hold.svg)]. May be stored at Minas Tirith. 2 marshalling points if stored at Minas Tirith. <br>_"And he climbed to it, and saw that out of the very edge of the snow there sprung a sapling tree no more than three foot high."_ ***---LotRVI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/sapling-of-the-white-tree/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Not playable in a Shadow-hold \[![](/assets/images/shadow-hold.svg)] or Dark-hold \[![](/assets/images/dark-hold.svg)]. May be stored at Minas Tirith. 2 marshalling points if stored at Minas Tirith.  "And he climbed to it, and saw that out of the very edge of the snow there sprung a sapling tree no more than three foot high." ---LotRVI 
+> > Not playable in a Shadow-hold \[![](/assets/images/shadow-hold.svg)] or Dark-hold \[![](/assets/images/dark-hold.svg)]. May be stored at Minas Tirith. 2 marshalling points if stored at Minas Tirith. <br>_"And he climbed to it, and saw that out of the very edge of the snow there sprung a sapling tree no more than three foot high."_ ***---LotRVI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/sapling-of-the-white-tree/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Not playable in a Shadow-hold \[![](/assets/images/shadow-hold.svg)] or Dark-hold \[![](/assets/images/dark-hold.svg)]. May be stored at Minas Tirith. 2 marshalling points if stored at Minas Tirith.  "And he climbed to it, and saw that out of the very edge of the snow there sprung a sapling tree no more than three foot high." ---LotRVI 
+> > Not playable in a Shadow-hold \[![](/assets/images/shadow-hold.svg)] or Dark-hold \[![](/assets/images/dark-hold.svg)]. May be stored at Minas Tirith. 2 marshalling points if stored at Minas Tirith. <br>_"And he climbed to it, and saw that out of the very edge of the snow there sprung a sapling tree no more than three foot high."_ ***---LotRVI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

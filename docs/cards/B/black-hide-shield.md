@@ -25,7 +25,7 @@ permalink: /cards/black-hide-shield/
 > Minor Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Shield. +1 to body to a maximum of 9.  "Upon their shields...a black field..." LotRIII 
+> > _Shield._ +1 to body to a maximum of 9. <br>_"Upon their shields...a black field..." LotRIII 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【&ndash;/+1】</div>

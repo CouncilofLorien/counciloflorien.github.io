@@ -25,7 +25,7 @@ permalink: /cards/many-foes-he-fought/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > If defender chooses a warrior to be the target of a strike from an attack, that character may choose to face any number of the strikes from that attack. The character suffers a cumulative -1 prowess/-1 body for each additional strike faced. The character faces a separate strike sequence for each strike.   "...and they shot a rain of arrows: always at Boromir." ---LotRIII 
+> > If defender chooses a warrior to be the target of a strike from an attack, that character may choose to face any number of the strikes from that attack. The character suffers a cumulative -1 prowess/-1 body for each additional strike faced. The character faces a separate strike sequence for each strike.   "...and they shot a rain of arrows: always at Boromir."_ ***---LotRIII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

@@ -19,13 +19,13 @@ permalink: /cards/arwen/
 > > <div class="character-card-name">Arwen</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 3![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 3 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Scout/Sage Elf
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. +7 direct influence only usable toward Aragorn II.  "The braids of her dark hair were touched by no frost; her white arms and clear face were flawless and smooth, and the light of stars was in her eyes...queenly she looked, and thought and knowledge were in her glance..." ---LotRII  Home Site: Rivendell 
+> > _**Unique.**_ +7 direct influence only usable against Aragorn II. <br>_"The braids of her dark hair were touched by no frost; her white arms and clear face were flawless and smooth, and the light of stars was in her eyes...queenly she looked, and thought and knowledge were in her glance..."_ ***---LotRII***  <br><br>**Home Site:** Rivendell 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【2/8】</div>
@@ -39,13 +39,13 @@ permalink: /cards/arwen/
 > > <div class="character-card-name">Arwen</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 3![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 3 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Scout/Sage Elf
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. +7 direct influence only usable toward Aragorn II.  "The braids of her dark hair were touched by no frost; her white arms and clear face were flawless and smooth, and the light of stars was in her eyes...queenly she looked, and thought and knowledge were in her glance..." ---LotRII  Home Site: Rivendell 
+> > _**Unique.**_ +7 direct influence only usable against Aragorn II. <br>_"The braids of her dark hair were touched by no frost; her white arms and clear face were flawless and smooth, and the light of stars was in her eyes...queenly she looked, and thought and knowledge were in her glance..."_ ***---LotRII***  <br><br>**Home Site:** Rivendell 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【2/8】</div>
@@ -59,13 +59,13 @@ permalink: /cards/arwen/
 > > <div class="character-card-name">Arwen</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 3![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 3 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Scout/Sage Elf
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. +7 direct influence only usable toward Aragorn II.  "The braids of her dark hair were touched by no frost; her white arms and clear face were flawless and smooth, and the light of stars was in her eyes...queenly she looked, and thought and knowledge were in her glance..." ---LotRII  Home Site: Rivendell 
+> > _**Unique.**_ +7 direct influence only usable against Aragorn II. <br>_"The braids of her dark hair were touched by no frost; her white arms and clear face were flawless and smooth, and the light of stars was in her eyes...queenly she looked, and thought and knowledge were in her glance..."_ ***---LotRII***  <br><br>**Home Site:** Rivendell 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【2/8】</div>

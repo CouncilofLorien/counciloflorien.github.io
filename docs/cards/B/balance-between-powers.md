@@ -25,7 +25,7 @@ permalink: /cards/balance-between-powers/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Environment. No environment cards can be played. At the start of your organization phase, discard this card or keep it in play by discarding an environment card from your hand. Your opponent can then discard an environment card from his hand to discard this card, which you can counter by discarding two environment cards from your hand, which he can counter by discarding one, which you can counter with two, etc. Discard when any play deck is exhausted.  
+> > _Environment._ No environment cards can be played. At the start of your organization phase, discard this card or keep it in play by discarding an environment card from your hand. Your opponent can then discard an environment card from his hand to discard this card, which you can counter by discarding two environment cards from your hand, which he can counter by discarding one, which you can counter with two, etc. Discard when any play deck is exhausted.  
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

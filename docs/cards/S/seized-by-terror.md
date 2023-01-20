@@ -25,7 +25,7 @@ permalink: /cards/seized-by-terror/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a non-Wizard character moving in a Shadow-land \[![](/assets/images/shadow-land.svg)] or a Dark-domain \[![](/assets/images/dark-domain.svg)]. Target character makes a roll (draws a #) and adds his mind. If that result is less than 12, that character splits off into a different company. This new company immediately returns to his original company's site of origin.   "Terror seized him. He shrank back, and for a moment he stood trembling in the hall." ---LotRI  
+> > Playable on a non-Wizard character moving in a Shadow-land \[![](/assets/images/shadow-land.svg)] or a Dark-domain \[![](/assets/images/dark-domain.svg)]. Target character makes a roll (draws a #) and adds his mind. If that result is less than 12, that character splits off into a different company. This new company immediately returns to his original company's site of origin.   "Terror seized him. He shrank back, and for a moment he stood trembling in the hall."_ ***---LotRI***  
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/seized-by-terror/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a non-Wizard character moving in a Shadow-land \[![](/assets/images/shadow-land.svg)] or a Dark-domain \[![](/assets/images/dark-domain.svg)]. Target character makes a roll (draws a #) and adds his mind. If that result is less than 12, that character splits off into a different company. This new company immediately returns to his original company's site of origin.   "Terror seized him. He shrank back, and for a moment he stood trembling in the hall." ---LotRI  
+> > Playable on a non-Wizard character moving in a Shadow-land \[![](/assets/images/shadow-land.svg)] or a Dark-domain \[![](/assets/images/dark-domain.svg)]. Target character makes a roll (draws a #) and adds his mind. If that result is less than 12, that character splits off into a different company. This new company immediately returns to his original company's site of origin.   "Terror seized him. He shrank back, and for a moment he stood trembling in the hall."_ ***---LotRI***  
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

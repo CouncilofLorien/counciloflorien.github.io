@@ -19,13 +19,13 @@ permalink: /cards/bofur/
 > > <div class="character-card-name">Bofur</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 2![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 2 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior Dwarf
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions.  "Bifur and Bofur went out too, and came back with clarinets that they had left among the walking sticks." ---Hob  Home Site: Blue Mountain Dwarf-hold 
+> > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions. <br>_"Bifur and Bofur went out too, and came back with clarinets that they had left among the walking sticks."_ ***---Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【4/7】</div>
@@ -39,13 +39,13 @@ permalink: /cards/bofur/
 > > <div class="character-card-name">Bofur</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 2![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 2 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior Dwarf
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions.  "Bifur and Bofur went out too, and came back with clarinets that they had left among the walking sticks." ---Hob  Home Site: Blue Mountain Dwarf-hold 
+> > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions. <br>_"Bifur and Bofur went out too, and came back with clarinets that they had left among the walking sticks."_ ***---Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【4/7】</div>
@@ -59,13 +59,13 @@ permalink: /cards/bofur/
 > > <div class="character-card-name">Bofur</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 2![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 2 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior Dwarf
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions.  "Bifur and Bofur went out too, and came back with clarinets that they had left among the walking sticks." ---Hob  Home Site: Blue Mountain Dwarf-hold 
+> > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions. <br>_"Bifur and Bofur went out too, and came back with clarinets that they had left among the walking sticks."_ ***---Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【4/7】</div>

@@ -19,13 +19,13 @@ permalink: /cards/gwaihir/
 > > <div class="card-name">Gwaihir</div>
 >
 > {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > 4![](/assets/images/mind.svg)
+> > 4 ![](/assets/images/mind.svg)
 >
 > {: .card-classification .pr-2 }
 > Ally
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Unique. Playable at Eagles' Eyrie.  If his company's size is two or less, you may discard Gwaihir during the organization phase to allow his company to move to any site that is not a Shadow-land \[![](/assets/images/shadow-land.svg)] or Dark-domain \[![](/assets/images/dark-domain.svg)]; only hazard creatures keyed to the site may be played on a company that moves in this fashion. 
+> > _**Unique.**_ Playable at Eagles' Eyrie.  If his company's size is two or less, you may discard Gwaihir during the organization phase to allow his company to move to any site that is not a Shadow-land \[![](/assets/images/shadow-land.svg)] or Dark-domain \[![](/assets/images/dark-domain.svg)]; only hazard creatures keyed to the site may be played on a company that moves in this fashion. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【4/8】</div>
@@ -39,13 +39,13 @@ permalink: /cards/gwaihir/
 > > <div class="card-name">Gwaihir</div>
 >
 > {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > 4![](/assets/images/mind.svg)
+> > 4 ![](/assets/images/mind.svg)
 >
 > {: .card-classification .pr-2 }
 > Ally
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Unique. Playable at Eagles' Eyrie.  If his company's size is two or less, you may discard Gwaihir during the organization phase to allow his company to move to any site that is not a Shadow-land \[![](/assets/images/shadow-land.svg)] or Dark-domain \[![](/assets/images/dark-domain.svg)]; only hazard creatures keyed to the site may be played on a company that moves in this fashion. 
+> > _**Unique.**_ Playable at Eagles' Eyrie.  If his company's size is two or less, you may discard Gwaihir during the organization phase to allow his company to move to any site that is not a Shadow-land \[![](/assets/images/shadow-land.svg)] or Dark-domain \[![](/assets/images/dark-domain.svg)]; only hazard creatures keyed to the site may be played on a company that moves in this fashion. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【4/8】</div>

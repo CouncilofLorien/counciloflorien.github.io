@@ -25,7 +25,7 @@ permalink: /cards/the-witch-king/
 > Warrior/Sage/Diplomat Ringwraith
 >
 > {: .minion-character-text .black-text .p-2 }
-> > Unique. Manifestation of The Witch-king of Angmar. Can use spirit-magic and shadow-magic. +3 direct influence in Heralded Lord mode. +1 prowess in Fell Rider mode. As your Ringwraith, up to two Ringwraith followers in his company may be controlled with no influence. You may bring these followers into play during separate organization phases.   Home Site: Any site in Imlad Morgul 
+> > _**Unique.**_ Manifestation of The Witch-king of Angmar. Can use spirit-magic and shadow-magic. +3 direct influence in Heralded Lord mode. +1 prowess in Fell Rider mode. As your Ringwraith, up to two Ringwraith followers in his company may be controlled with no influence. You may bring these followers into play during separate organization phases.   <br><br>**Home Site:** Any site in Imlad Morgul 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【9/12】</div>
@@ -45,7 +45,7 @@ permalink: /cards/the-witch-king/
 > Warrior/Sage/Diplomat Ringwraith
 >
 > {: .minion-character-text .black-text .p-2 }
-> > Unique. Manifestation of The Witch-king of Angmar. Can use spirit-magic and shadow-magic. +3 direct influence in Heralded Lord mode. +1 prowess in Fell Rider mode. As your Ringwraith, up to two Ringwraith followers in his company may be controlled with no influence. You may bring these followers into play during separate organization phases.   Home Site: Any site in Imlad Morgul 
+> > _**Unique.**_ Manifestation of The Witch-king of Angmar. Can use spirit-magic and shadow-magic. +3 direct influence in Heralded Lord mode. +1 prowess in Fell Rider mode. As your Ringwraith, up to two Ringwraith followers in his company may be controlled with no influence. You may bring these followers into play during separate organization phases.   <br><br>**Home Site:** Any site in Imlad Morgul 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【9/12】</div>

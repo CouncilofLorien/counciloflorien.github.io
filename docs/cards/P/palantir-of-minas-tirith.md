@@ -25,7 +25,7 @@ permalink: /cards/palantir-of-minas-tirith/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Unique. Palantir. Playable only at Minas Tirith. With its bearer able to use a Palantir, tap Palantir of Minas Tirith to look at the top five cards of your play deck; shuffle these 5 cards and return them to the top of your play deck. Do the same to your opponent's play deck. Bearer makes a corruption check. 
+> > _**Unique.**_ _Palantir._ Playable only at Minas Tirith. With its bearer able to use a Palantir, tap Palantir of Minas Tirith to look at the top five cards of your play deck; shuffle these 5 cards and return them to the top of your play deck. Do the same to your opponent's play deck. Bearer makes a corruption check. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/palantir-of-minas-tirith/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Unique. Palantir. Playable only at Minas Tirith. With its bearer able to use a Palantir, tap Palantir of Minas Tirith to look at the top five cards of your play deck; shuffle these 5 cards and return them to the top of your play deck. Do the same to your opponent's play deck. Bearer makes a corruption check. 
+> > _**Unique.**_ _Palantir._ Playable only at Minas Tirith. With its bearer able to use a Palantir, tap Palantir of Minas Tirith to look at the top five cards of your play deck; shuffle these 5 cards and return them to the top of your play deck. Do the same to your opponent's play deck. Bearer makes a corruption check. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/palantir-of-minas-tirith/
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Unique. Palantir. Playable at Minas Tirith. With its bearer able to use a Palantir, tap Palantir of Minas Tirith to look at the top five cards of your play deck; shuffle these 5 cards and return them to the top of your play deck. Do the same to your opponent's deck. Bearer then makes a corruption check. 
+> > _**Unique.**_ _Palantir._ Playable at Minas Tirith. With its bearer able to use a Palantir, tap Palantir of Minas Tirith to look at the top five cards of your play deck; shuffle these 5 cards and return them to the top of your play deck. Do the same to your opponent's deck. Bearer then makes a corruption check. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -85,7 +85,7 @@ permalink: /cards/palantir-of-minas-tirith/
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Unique. Palantir. Playable at Minas Tirith. With its bearer able to use a Palantir, tap Palantir of Minas Tirith to look at the top five cards of your play deck; shuffle these 5 cards and return them to the top of your play deck. Do the same to your opponent's deck. Bearer then makes a corruption check. 
+> > _**Unique.**_ _Palantir._ Playable at Minas Tirith. With its bearer able to use a Palantir, tap Palantir of Minas Tirith to look at the top five cards of your play deck; shuffle these 5 cards and return them to the top of your play deck. Do the same to your opponent's deck. Bearer then makes a corruption check. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

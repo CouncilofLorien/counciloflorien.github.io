@@ -19,13 +19,13 @@ permalink: /cards/hill-troll/
 > > <div class="card-name">Hill-troll</div>
 >
 > {: .minion-character-frame .black-text .p-1 .pl-2 }
-> > 3![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 3 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior Troll
 >
 > {: .minion-character-text .black-text .p-2 }
-> > Balrog specific. Discard on a body check result of 7.   "...clad only in close-fitting mesh of horny scales, or maybe that was their hideous hide: but they bore round bucklers huge and black and wielded heavy hammers in their knotted hands."  ---LotRV  Home Site: any non-Dark-hold Under-deeps site 
+> > _Balrog specific._ Discard on a body check result of 7.   "...clad only in close-fitting mesh of horny scales, or maybe that was their hideous hide: but they bore round bucklers huge and black and wielded heavy hammers in their knotted hands."_ ***---LotRV***  <br><br>**Home Site:** any non-Dark-hold Under-deeps site 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【5/7】</div>

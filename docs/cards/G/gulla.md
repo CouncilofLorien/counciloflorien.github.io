@@ -19,13 +19,13 @@ permalink: /cards/gulla/
 > > <div class="card-name">Gulla</div>
 >
 > {: .minion-character-frame .black-text .p-1 .pl-2 }
-> > 4![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Ranger Dwarf
 >
 > {: .minion-character-text .black-text .p-2 }
-> > Unique. +1 prowess against Orcs and Elves.  "...a great anger without hope burned him as he smote the red iron on the anvil." ---LotR  Home Site: Carn Dum 
+> > _**Unique.**_ +1 prowess against Orcs and Elves. <br>_"...a great anger without hope burned him as he smote the red iron on the anvil." ---LotR  <br><br>**Home Site:** Carn Dum 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【5/8】</div>

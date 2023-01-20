@@ -19,13 +19,13 @@ permalink: /cards/nasty-slimy-thing/
 > > <div class="card-name">Nasty Slimy Thing</div>
 >
 > {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > 2![](/assets/images/mind.svg)
+> > 2 ![](/assets/images/mind.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Ally
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Unique. Balrog-specific. Spawn. Playable at a non-Darkhaven Under-deeps site. Tap o cancel a Drake attack. Discard this ally if its company moves using region or starter movement.  "...also there are other things more slimy than fish." ---Hob 
+> > _**Unique.**_ Balrog-specific. _Spawn._. Playable at a non-Darkhaven Under-deeps site. Tap o cancel a Drake attack. Discard this ally if its company moves using region or starter movement. <br>_"...also there are other things more slimy than fish."_ ***---Hob*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【4/9】</div>

@@ -25,7 +25,7 @@ permalink: /cards/foul-fumes/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Environment. Each moving company that has a Shadow-land \[![](/assets/images/shadow-land.svg)] or a Dark-domain \[![](/assets/images/dark-domain.svg)] in its site path must return to its site of origin unless it contains a ranger. Additionally, if Doors of Night is in play, each non-Haven site in play with a Shadow-land \[![](/assets/images/shadow-land.svg)] or a Dark-domain \[![](/assets/images/dark-domain.svg)] in its site path is tapped. Cannot be duplicated. 
+> > _Environment._ Each moving company that has a Shadow-land \[![](/assets/images/shadow-land.svg)] or a Dark-domain \[![](/assets/images/dark-domain.svg)] in its site path must return to its site of origin unless it contains a ranger. Additionally, if Doors of Night is in play, each non-Haven site in play with a Shadow-land \[![](/assets/images/shadow-land.svg)] or a Dark-domain \[![](/assets/images/dark-domain.svg)] in its site path is tapped. Cannot be duplicated. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/foul-fumes/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Environment. Each moving company that has a Shadow-land \[![](/assets/images/shadow-land.svg)] or a Dark-domain \[![](/assets/images/dark-domain.svg)] in its site path must return to its site of origin unless it contains a ranger. Additionally, if Doors of Night is in play, each non-Haven site in play with a Shadow-land \[![](/assets/images/shadow-land.svg)] or a Dark-domain \[![](/assets/images/dark-domain.svg)] in its site path is tapped. Cannot be duplicated. 
+> > _Environment._ Each moving company that has a Shadow-land \[![](/assets/images/shadow-land.svg)] or a Dark-domain \[![](/assets/images/dark-domain.svg)] in its site path must return to its site of origin unless it contains a ranger. Additionally, if Doors of Night is in play, each non-Haven site in play with a Shadow-land \[![](/assets/images/shadow-land.svg)] or a Dark-domain \[![](/assets/images/dark-domain.svg)] in its site path is tapped. Cannot be duplicated. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/foul-fumes/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Environment. Each moving company that has a Shadow-land \[![](/assets/images/shadow-land.svg)] or a Dark-domain \[![](/assets/images/dark-domain.svg)] in its site path must return to its site of origin unless it contains a ranger. Additionally, if Doors of Night is in play, each non-Haven site in play with a Shadow-land \[![](/assets/images/shadow-land.svg)] or a Dark-domain \[![](/assets/images/dark-domain.svg)] in its site path is tapped. Cannot be duplicated. 
+> > _Environment._ Each moving company that has a Shadow-land \[![](/assets/images/shadow-land.svg)] or a Dark-domain \[![](/assets/images/dark-domain.svg)] in its site path must return to its site of origin unless it contains a ranger. Additionally, if Doors of Night is in play, each non-Haven site in play with a Shadow-land \[![](/assets/images/shadow-land.svg)] or a Dark-domain \[![](/assets/images/dark-domain.svg)] in its site path is tapped. Cannot be duplicated. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

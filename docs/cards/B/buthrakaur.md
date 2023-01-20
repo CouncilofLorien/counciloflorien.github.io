@@ -19,13 +19,13 @@ permalink: /cards/buthrakaur/
 > > <div class="card-name">Buthrakaur</div>
 >
 > {: .minion-character-frame .black-text .p-1 .pl-2 }
-> > 9![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 9 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Scout/Ranger Troll
 >
 > {: .minion-character-text .black-text .p-2 }
-> > Unique. Balrog specific. Leader. Manifestation of Buthrakaur the Green. Discard on a body check result of 9. +3 direct influence against Trolls, Orcs, Troll factions, and Orc factions. +3 direct influence against Balrog specific characters.   "A huge arm and shoulder, with a dark skin of greenish scales, was thrust through the widening gap." ---LotRII  Home Site: Moria, The Under-gates 
+> > _**Unique.**_ _Balrog specific._ _Leader._ Manifestation of Buthrakaur the Green. Discard on a body check result of 9. +3 direct influence against Trolls, Orcs, Troll factions, and Orc factions. +3 direct influence against Balrog specific characters.   "A huge arm and shoulder, with a dark skin of greenish scales, was thrust through the widening gap."_ ***---LotRII***  <br><br>**Home Site:** Moria, The Under-gates 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【8/9】</div>

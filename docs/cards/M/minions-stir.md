@@ -25,7 +25,7 @@ permalink: /cards/minions-stir/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The number of strikes and prowess of each Orc and Troll attack is increased by one (by two for Orcs if Doors of Night is in play). Cannot be duplicated.  "...for in the gloom the Shadow Host seemed to grow stronger and more terrible to look upon." ---LotRV 
+> > The number of strikes and prowess of each Orc and Troll attack is increased by one (by two for Orcs if Doors of Night is in play). Cannot be duplicated. <br>_"...for in the gloom the Shadow Host seemed to grow stronger and more terrible to look upon."_ ***---LotRV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/minions-stir/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The number of strikes and prowess of each Orc and Troll attack is increased by one (by two for Orcs if Doors of Night is in play). Cannot be duplicated.  "...for in the gloom the Shadow Host seemed to grow stronger and more terrible to look upon." ---LotRV 
+> > The number of strikes and prowess of each Orc and Troll attack is increased by one (by two for Orcs if Doors of Night is in play). Cannot be duplicated. <br>_"...for in the gloom the Shadow Host seemed to grow stronger and more terrible to look upon."_ ***---LotRV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/minions-stir/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The number of strikes and prowess of each Orc and Troll attack is increased by one (by two for Orcs if Doors of Night is in play). Cannot be duplicated.  "...for in the gloom the Shadow Host seemed to grow stronger and more terrible to look upon." ---LotRV 
+> > The number of strikes and prowess of each Orc and Troll attack is increased by one (by two for Orcs if Doors of Night is in play). Cannot be duplicated. <br>_"...for in the gloom the Shadow Host seemed to grow stronger and more terrible to look upon."_ ***---LotRV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -85,7 +85,7 @@ permalink: /cards/minions-stir/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The number of strikes and prowess of each Orc and Troll attack are increased by one (by two for Orc attacks if Doors of Night is in play). Cannot be duplicated.  "Tom got the branch in his teeth for that, and lost one of the front ones." ---Hob 
+> > The number of strikes and prowess of each Orc and Troll attack are increased by one (by two for Orc attacks if Doors of Night is in play). Cannot be duplicated. <br>_"Tom got the branch in his teeth for that, and lost one of the front ones."_ ***---Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -105,7 +105,7 @@ permalink: /cards/minions-stir/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The number of strikes and prowess of each Orc and Troll attack are increased by one (by two for Orc attacks if Doors of Night is in play). Cannot be duplicated.  "Tom got the branch in his teeth for that, and lost one of the front ones." ---Hob 
+> > The number of strikes and prowess of each Orc and Troll attack are increased by one (by two for Orc attacks if Doors of Night is in play). Cannot be duplicated. <br>_"Tom got the branch in his teeth for that, and lost one of the front ones."_ ***---Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

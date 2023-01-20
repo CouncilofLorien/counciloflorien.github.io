@@ -19,7 +19,7 @@ permalink: /cards/regiment-of-black-crows/
 > > <div class="card-name">Regiment of Black Crows</div>
 >
 > {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > 1![](/assets/images/mind.svg)
+> > 1 ![](/assets/images/mind.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Ally
@@ -39,7 +39,7 @@ permalink: /cards/regiment-of-black-crows/
 > > <div class="card-name">Regiment of Black Crows</div>
 >
 > {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > 1![](/assets/images/mind.svg)
+> > 1 ![](/assets/images/mind.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Ally

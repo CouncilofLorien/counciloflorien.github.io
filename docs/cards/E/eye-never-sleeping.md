@@ -25,7 +25,7 @@ permalink: /cards/eye-never-sleeping/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable if you are Sauron. Cancel one hazard creature attack.  "There was an eye in the Dark Tower that did not sleep." ---LotRII 
+> > Playable if you are Sauron. Cancel one hazard creature attack. <br>_"There was an eye in the Dark Tower that did not sleep."_ ***---LotRII*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

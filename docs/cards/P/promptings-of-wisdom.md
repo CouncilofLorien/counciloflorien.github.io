@@ -25,7 +25,7 @@ permalink: /cards/promptings-of-wisdom/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Light Enchantment. Playable during the organization phase on a ranger. Target ranger may tap to cancel all hazard effects for the rest of the turn that: force his company to return to its site of origin or that tap his company's current or new site. If so tapped, target ranger makes a corruption check. Cannot be duplicated in a given company. 
+> > _Light Enchantment._ Playable during the organization phase on a ranger. Target ranger may tap to cancel all hazard effects for the rest of the turn that: force his company to return to its site of origin or that tap his company's current or new site. If so tapped, target ranger makes a corruption check. Cannot be duplicated in a given company. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/promptings-of-wisdom/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Light Enchantment. Playable during the organization phase on a ranger. Target ranger may tap to cancel all hazard effects for the rest of the turn that: force his company to return to its site of origin or that tap his company's current or new site. If so tapped, target ranger makes a corruption check. Cannot be duplicated in a given company. 
+> > _Light Enchantment._ Playable during the organization phase on a ranger. Target ranger may tap to cancel all hazard effects for the rest of the turn that: force his company to return to its site of origin or that tap his company's current or new site. If so tapped, target ranger makes a corruption check. Cannot be duplicated in a given company. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

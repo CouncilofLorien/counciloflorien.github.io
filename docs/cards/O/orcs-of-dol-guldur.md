@@ -25,7 +25,7 @@ permalink: /cards/orcs-of-dol-guldur/
 > Orc Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Unique. Playable at Dol Guldur if the influence check is greater than 8. Standard modifications: Orcs of Moria (-2), Orcs of the Red Eye (+2). Once in play, the number required to influence this faction is 0.  "Three times Lorien had been assailed from Dol Guldur..." ---LotR 
+> > _**Unique.**_ Playable at Dol Guldur if the influence check is greater than 8. <br>_Standard Modifications:_ Orcs of Moria (-2), Orcs of the Red Eye (+2). Once in play, the number required to influence this faction is 0. <br>_"Three times Lorien had been assailed from Dol Guldur..." ---LotR 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

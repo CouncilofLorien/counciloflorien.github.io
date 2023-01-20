@@ -25,7 +25,7 @@ permalink: /cards/stone-of-erech/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Unique. Playable at the Vale of Erech and if the Men of Lamedon are already in play. Discard if the Men of Lamedon leave play.  "Then Elohir gave to Aragorn a silver horn, and he blew upon it; and it seemed to those that stood near that they heard a sound of answering horns, as if it was an echo in deep caves far away." ---LotRV 
+> > _**Unique.**_ Playable at the Vale of Erech and if the Men of Lamedon are already in play. Discard if the Men of Lamedon leave play. <br>_"Then Elohir gave to Aragorn a silver horn, and he blew upon it; and it seemed to those that stood near that they heard a sound of answering horns, as if it was an echo in deep caves far away."_ ***---LotRV*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/stone-of-erech/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Unique. Playable at the Vale of Erech and if the Men of Lamedon are already in play. Discard if the Men of Lamedon leave play.  "Then Elohir gave to Aragorn a silver horn, and he blew upon it; and it seemed to those that stood near that they heard a sound of answering horns, as if it was an echo in deep caves far away." ---LotRV 
+> > _**Unique.**_ Playable at the Vale of Erech and if the Men of Lamedon are already in play. Discard if the Men of Lamedon leave play. <br>_"Then Elohir gave to Aragorn a silver horn, and he blew upon it; and it seemed to those that stood near that they heard a sound of answering horns, as if it was an echo in deep caves far away."_ ***---LotRV*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

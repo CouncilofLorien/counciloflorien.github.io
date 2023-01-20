@@ -19,13 +19,13 @@ permalink: /cards/dorelas/
 > > <div class="card-name">Dorelas</div>
 >
 > {: .minion-character-frame .black-text .p-1 .pl-2 }
-> > 3![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
+> > 3 ![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Sage Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > Unique.   "...the sun went down like blood behind Pinnath Gelin..." ---LotRV  Home Site: Lond Galen 
+> > _**Unique.**_   "...the sun went down like blood behind Pinnath Gelin..."_ ***---LotRV***  <br><br>**Home Site:** Lond Galen 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【2/7】</div>

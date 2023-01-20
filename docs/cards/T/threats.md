@@ -25,7 +25,7 @@ permalink: /cards/threats/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Warrior only. Playable on a warrior attempting to influence a faction. Warrior does not use his unused direct influence for the attempt. Instead he uses his prowess, to a maximum modifier of +6.   "Refuse and things will not seem so well. Do you refuse?" ---LotRII 
+> > _Warrior only._ Playable on a warrior attempting to influence a faction. Warrior does not use his unused direct influence for the attempt. Instead he uses his prowess, to a maximum modifier of +6.   "Refuse and things will not seem so well. Do you refuse?"_ ***---LotRII*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

@@ -25,7 +25,7 @@ permalink: /cards/choking-shadows/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Environment. Modify the prowess of one automatic-attack at a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] site by +2. Alternatively, if Doors of Night is in play, treat one Wilderness \[![](/assets/images/wilderness.svg)] as a Shadow-land \[![](/assets/images/shadow-land.svg)] or one Ruins & Lairs \[![](/assets/images/ruinlair.svg)] as a Shadow-hold \[![](/assets/images/shadow-hold.svg)] until the end of the turn. Cannot be duplicated. 
+> > _Environment._ Modify the prowess of one automatic-attack at a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] site by +2. Alternatively, if Doors of Night is in play, treat one Wilderness \[![](/assets/images/wilderness.svg)] as a Shadow-land \[![](/assets/images/shadow-land.svg)] or one Ruins & Lairs \[![](/assets/images/ruinlair.svg)] as a Shadow-hold \[![](/assets/images/shadow-hold.svg)] until the end of the turn. Cannot be duplicated. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/choking-shadows/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Environment. Modify the prowess of one automatic-attack at a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] site by +2. Alternatively, if Doors of Night is in play, treat one Wilderness \[![](/assets/images/wilderness.svg)] as a Shadow-land \[![](/assets/images/shadow-land.svg)] or one Ruins & Lairs \[![](/assets/images/ruinlair.svg)] as a Shadow-hold \[![](/assets/images/shadow-hold.svg)] until the end of the turn. Cannot be duplicated. 
+> > _Environment._ Modify the prowess of one automatic-attack at a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] site by +2. Alternatively, if Doors of Night is in play, treat one Wilderness \[![](/assets/images/wilderness.svg)] as a Shadow-land \[![](/assets/images/shadow-land.svg)] or one Ruins & Lairs \[![](/assets/images/ruinlair.svg)] as a Shadow-hold \[![](/assets/images/shadow-hold.svg)] until the end of the turn. Cannot be duplicated. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/choking-shadows/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Environment. Modify the prowess of one automatic-attack at a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] site by +2. Alternatively, if Doors of Night is in play, treat one Wilderness \[![](/assets/images/wilderness.svg)] as a Shadow-land \[![](/assets/images/shadow-land.svg)] or one Ruins & Lairs \[![](/assets/images/ruinlair.svg)] as a Shadow-hold \[![](/assets/images/shadow-hold.svg)] until the end of the turn. Cannot be duplicated. 
+> > _Environment._ Modify the prowess of one automatic-attack at a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] site by +2. Alternatively, if Doors of Night is in play, treat one Wilderness \[![](/assets/images/wilderness.svg)] as a Shadow-land \[![](/assets/images/shadow-land.svg)] or one Ruins & Lairs \[![](/assets/images/ruinlair.svg)] as a Shadow-hold \[![](/assets/images/shadow-hold.svg)] until the end of the turn. Cannot be duplicated. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

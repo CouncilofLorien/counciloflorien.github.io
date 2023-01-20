@@ -25,7 +25,7 @@ permalink: /cards/orcs-of-gundabad/
 > Orc Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Unique. Playable at Mount Gundadbad if the influence check is greater than 9. Once in play, the number required to influence this faction is 0. Standard Modifications: Grey Mountain Goblins (+2), Orcs of Angmar (-2).  "...Orcs, multiplying again in the Misty Mountains, began to ravage the lands..." ---LotR  
+> > _**Unique.**_ Playable at Mount Gundadbad if the influence check is greater than 9. Once in play, the number required to influence this faction is 0. <br>_Standard Modifications:_ Grey Mountain Goblins (+2), Orcs of Angmar (-2). <br>_"...Orcs, multiplying again in the Misty Mountains, began to ravage the lands..." ---LotR  
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/orcs-of-gundabad/
 > Orc Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Unique. Playable at Mount Gundadbad if the influence check is greater than 9. Once in play, the number required to influence this faction is 0. Standard Modifications: Grey Mountain Goblins (+2), Orcs of Angmar (-2).  "...Orcs, multiplying again in the Misty Mountains, began to ravage the lands..." ---LotR  
+> > _**Unique.**_ Playable at Mount Gundadbad if the influence check is greater than 9. Once in play, the number required to influence this faction is 0. <br>_Standard Modifications:_ Grey Mountain Goblins (+2), Orcs of Angmar (-2). <br>_"...Orcs, multiplying again in the Misty Mountains, began to ravage the lands..." ---LotR  
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/orcs-of-gundabad/
 > Orc Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Unique. Playable at Mount Gundadbad if the influence check is greater than 9. Once in play, the number required to influence this faction is 0. Standard Modifications: Grey Mountain Goblins (+2), Orcs of Angmar (-2).  "...Orcs, multiplying again in the Misty Mountains, began to ravage the lands..." ---LotR  
+> > _**Unique.**_ Playable at Mount Gundadbad if the influence check is greater than 9. Once in play, the number required to influence this faction is 0. <br>_Standard Modifications:_ Grey Mountain Goblins (+2), Orcs of Angmar (-2). <br>_"...Orcs, multiplying again in the Misty Mountains, began to ravage the lands..." ---LotR  
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

@@ -25,7 +25,7 @@ permalink: /cards/rangers-of-the-north/
 > Dunadan Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Unique. Playable at Bree if the influence check is greater than 9.  Standard Modifications: Dunedain (+1).  "...an ordered company, armed with spear and bow and sword. They were clad in cloaks of dark grey...pinned upon the left shoulder by a brooch of silver shaped like a rayed star." ---LotRV 
+> > _**Unique.**_ Playable at Bree if the influence check is greater than 9.  <br>_Standard Modifications:_ Dunedain (+1). <br>_"...an ordered company, armed with spear and bow and sword. They were clad in cloaks of dark grey...pinned upon the left shoulder by a brooch of silver shaped like a rayed star."_ ***---LotRV*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/rangers-of-the-north/
 > Dunadan Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Unique. Playable at Bree if the influence check is greater than 9.  Standard Modifications: Dunedain (+1).  "...an ordered company, armed with spear and bow and sword. They were clad in cloaks of dark grey...pinned upon the left shoulder by a brooch of silver shaped like a rayed star." ---LotRV 
+> > _**Unique.**_ Playable at Bree if the influence check is greater than 9.  <br>_Standard Modifications:_ Dunedain (+1). <br>_"...an ordered company, armed with spear and bow and sword. They were clad in cloaks of dark grey...pinned upon the left shoulder by a brooch of silver shaped like a rayed star."_ ***---LotRV*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/rangers-of-the-north/
 > Dunadan Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Unique. Playable at Bree if the influence check is greater than 9.  Standard Modifications: Dunedain (+1).  "...an ordered company, armed with spear and bow and sword. They were clad in cloaks of dark grey...pinned upon the left shoulder by a brooch of silver shaped like a rayed star." ---LotRV 
+> > _**Unique.**_ Playable at Bree if the influence check is greater than 9.  <br>_Standard Modifications:_ Dunedain (+1). <br>_"...an ordered company, armed with spear and bow and sword. They were clad in cloaks of dark grey...pinned upon the left shoulder by a brooch of silver shaped like a rayed star."_ ***---LotRV*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -85,7 +85,7 @@ permalink: /cards/rangers-of-the-north/
 > Dunadan Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Unique. Playable at Bree if the influence check is greater than 9.  Standard Modifications: Dunedain (+1).  "...an ordered company, armed with spear and bow and sword. They were clad in cloaks of dark grey...pinned upon the left shoulder by a brooch of silver shaped like a rayed star." ---LotRV 
+> > _**Unique.**_ Playable at Bree if the influence check is greater than 9.  <br>_Standard Modifications:_ Dunedain (+1). <br>_"...an ordered company, armed with spear and bow and sword. They were clad in cloaks of dark grey...pinned upon the left shoulder by a brooch of silver shaped like a rayed star."_ ***---LotRV*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

@@ -25,7 +25,7 @@ permalink: /cards/dale/
 > Northern Rhovanion
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien  "Bard had rebuilt the town in Dale and men had gathered to him from the Lake and from South and West, and all the valley had become tilled again and rich, and the desolation was now filled with birds and blossums in spring and fruit and feasting in autumn." ---Hob 
+> > Nearest Haven: Lorien  "Bard had rebuilt the town in Dale and men had gathered to him from the Lake and from South and West, and all the valley had become tilled again and rich, and the desolation was now filled with birds and blossums in spring and fruit and feasting in autumn."_ ***---Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/dale/
 > Northern Rhovanion
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur Playable: Items (gold ring) Automatic-attacks: Men-each character faces 1 strike with 5 prowess (detainment against covert company)  "'You should see the waterways of Dale...and the mountains, and the pools...and the stone-paved roads of many colors!'" ---LotRII 
+> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 5 prowess (detainment against covert company)  "'You should see the waterways of Dale...and the mountains, and the pools...and the stone-paved roads of many colors!'"_ ***---LotRII*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/dale/
 > Northern Rhovanion
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien  "Bard had rebuilt the town in Dale and men had gathered to him from the Lake and from South and West, and all the valley had become tilled again and rich, and the desolation was now filled with birds and blossums in spring and fruit and feasting in autumn." ---Hob 
+> > Nearest Haven: Lorien  "Bard had rebuilt the town in Dale and men had gathered to him from the Lake and from South and West, and all the valley had become tilled again and rich, and the desolation was now filled with birds and blossums in spring and fruit and feasting in autumn."_ ***---Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/dale/
 > Northern Rhovanion
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur Playable: Items (gold ring) Automatic-attacks: Men-each character faces 1 strike with 5 prowess (detainment against covert company)  "'You should see the waterways of Dale...and the mountains, and the pools...and the stone-paved roads of many colors!'" ---LotRII 
+> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 5 prowess (detainment against covert company)  "'You should see the waterways of Dale...and the mountains, and the pools...and the stone-paved roads of many colors!'"_ ***---LotRII*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

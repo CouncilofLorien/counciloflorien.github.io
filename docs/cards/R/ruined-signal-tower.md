@@ -25,7 +25,7 @@ permalink: /cards/ruined-signal-tower/
 > Enedhwaith
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Rivendell Playable: Items (minor, major) Automatic-attacks: Spiders - 2 strikes with 8 prowess  "'But long before, in the first days of the North Kingdom, they built a great watch-tower... It was burned down and broken, and nothing remains of it now but a tumbled ring...'" ---LotRI 
+> > Nearest Haven: Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Spiders - 2 strikes with 8 prowess  "'But long before, in the first days of the North Kingdom, they built a great watch-tower... It was burned down and broken, and nothing remains of it now but a tumbled ring...'"_ ***---LotRI*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/ruined-signal-tower/
 > Enedhwaith
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Rivendell Playable: Items (minor, major) Automatic-attacks: Spiders - 2 strikes with 8 prowess  "'But long before, in the first days of the North Kingdom, they built a great watch-tower... It was burned down and broken, and nothing remains of it now but a tumbled ring...'" ---LotRI 
+> > Nearest Haven: Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Spiders - 2 strikes with 8 prowess  "'But long before, in the first days of the North Kingdom, they built a great watch-tower... It was burned down and broken, and nothing remains of it now but a tumbled ring...'"_ ***---LotRI*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/ruined-signal-tower/
 > Enedwaith
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Geann a-Lisch Playable: Items (minor, major) Automatic-attacks: Spiders - 2 strikes with 8 prowess  "...beacons built on the tops of outlying hills...points where fresh horses were always in readiness..." ---LotRV 
+> > Nearest Darkhaven: Geann a-Lisch <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Spiders - 2 strikes with 8 prowess  "...beacons built on the tops of outlying hills...points where fresh horses were always in readiness..."_ ***---LotRV*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>

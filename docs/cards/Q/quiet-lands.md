@@ -25,7 +25,7 @@ permalink: /cards/quiet-lands/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Environment. Until the end of the turn, the number of strikes for one automatic-attack at a Shadow-hold \[![](/assets/images/shadow-hold.svg)] or a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] is reduced by half (rounded up). Alternatively, if Gates of Morning is in play, treat one Shadow-land \[![](/assets/images/shadow-land.svg)] as a Wilderness \[![](/assets/images/wilderness.svg)] or one Shadow-hold \[![](/assets/images/shadow-hold.svg)] as a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] until the end of turn. Cannot be duplicated. 
+> > _Environment._ Until the end of the turn, the number of strikes for one automatic-attack at a Shadow-hold \[![](/assets/images/shadow-hold.svg)] or a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] is reduced by half (rounded up). Alternatively, if Gates of Morning is in play, treat one Shadow-land \[![](/assets/images/shadow-land.svg)] as a Wilderness \[![](/assets/images/wilderness.svg)] or one Shadow-hold \[![](/assets/images/shadow-hold.svg)] as a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] until the end of turn. Cannot be duplicated. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/quiet-lands/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Environment. Until the end of the turn, the number of strikes for one automatic-attack at a Shadow-hold \[![](/assets/images/shadow-hold.svg)] or a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] is reduced by half (rounded up). Alternatively, if Gates of Morning is in play, treat one Shadow-land \[![](/assets/images/shadow-land.svg)] as a Wilderness \[![](/assets/images/wilderness.svg)] or one Shadow-hold \[![](/assets/images/shadow-hold.svg)] as a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] until the end of turn. Cannot be duplicated. 
+> > _Environment._ Until the end of the turn, the number of strikes for one automatic-attack at a Shadow-hold \[![](/assets/images/shadow-hold.svg)] or a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] is reduced by half (rounded up). Alternatively, if Gates of Morning is in play, treat one Shadow-land \[![](/assets/images/shadow-land.svg)] as a Wilderness \[![](/assets/images/wilderness.svg)] or one Shadow-hold \[![](/assets/images/shadow-hold.svg)] as a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] until the end of turn. Cannot be duplicated. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

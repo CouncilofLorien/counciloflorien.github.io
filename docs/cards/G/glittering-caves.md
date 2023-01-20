@@ -25,7 +25,7 @@ permalink: /cards/glittering-caves/
 > Gap of Isen
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien Playable: Items (minor, major) Automatic-attacks: Pukel-creature - 1 strike with 9 prowess  "'...columns of white and saffron and dawn-rose...glistening pendants of the roof: wings, ropes, curtains fine as frozen clouds...pinnacles of suspended palaces!'" ---LotRIII 
+> > Nearest Haven: Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Pukel-creature - 1 strike with 9 prowess  "'...columns of white and saffron and dawn-rose...glistening pendants of the roof: wings, ropes, curtains fine as frozen clouds...pinnacles of suspended palaces!'"_ ***---LotRIII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/glittering-caves/
 > Gap of Isen
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien Playable: Items (minor, major) Automatic-attacks: Pukel-creature - 1 strike with 9 prowess  "'...columns of white and saffron and dawn-rose...glistening pendants of the roof: wings, ropes, curtains fine as frozen clouds...pinnacles of suspended palaces!'" ---LotRIII 
+> > Nearest Haven: Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Pukel-creature - 1 strike with 9 prowess  "'...columns of white and saffron and dawn-rose...glistening pendants of the roof: wings, ropes, curtains fine as frozen clouds...pinnacles of suspended palaces!'"_ ***---LotRIII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/glittering-caves/
 > Gap of Isen
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Geann a-Lisch Playable: Items (minor, major) Automatic-attacks: Pukel-creature - 1 strike with 9 prowess  "'...immeasurable halls, filled with an everlasting music of water that tinkles into pools...'" ---LotRIII 
+> > Nearest Darkhaven: Geann a-Lisch <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Pukel-creature - 1 strike with 9 prowess  "'...immeasurable halls, filled with an everlasting music of water that tinkles into pools...'"_ ***---LotRIII*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/glittering-caves/
 > Gap of Isen
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien Playable: Items (minor, major) Automatic-attacks: Pukel-creature - 1 strike with 9 prowess  "'...columns of white and saffron and dawn-rose...glistening pendants of the roof: wings, ropes, curtains fine as frozen clouds...pinnacles of suspended palaces!'" ---LotRIII 
+> > Nearest Haven: Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Pukel-creature - 1 strike with 9 prowess  "'...columns of white and saffron and dawn-rose...glistening pendants of the roof: wings, ropes, curtains fine as frozen clouds...pinnacles of suspended palaces!'"_ ***---LotRIII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>

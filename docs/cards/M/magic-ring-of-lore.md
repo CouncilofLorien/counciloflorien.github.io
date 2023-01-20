@@ -25,7 +25,7 @@ permalink: /cards/magic-ring-of-lore/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Magic Ring. Playable only with a Gold Ring and after a test indicates a Magic Ring. Gives the bearer sage skill. If the bearer is already a sage, he may tap to use a Palantir. May not be duplicated on a given character.  "Those who made them did not desire strength or domination or hoarded wealth, but understanding, making, and healing, to preserve all things unstained." ---LotRII 
+> > _Magic Ring._ Playable only with a Gold Ring and after a test indicates a _Magic Ring._ Gives the bearer sage skill. If the bearer is already a sage, he may tap to use a Palantir. May not be duplicated on a given character. <br>_"Those who made them did not desire strength or domination or hoarded wealth, but understanding, making, and healing, to preserve all things unstained."_ ***---LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/magic-ring-of-lore/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Magic Ring. Playable only with a Gold Ring and after a test indicates a Magic Ring. Gives the bearer sage skill. If the bearer is already a sage, he may tap to use a Palantir. May not be duplicated on a given character.  "Those who made them did not desire strength or domination or hoarded wealth, but understanding, making, and healing, to preserve all things unstained." ---LotRII 
+> > _Magic Ring._ Playable only with a Gold Ring and after a test indicates a _Magic Ring._ Gives the bearer sage skill. If the bearer is already a sage, he may tap to use a Palantir. May not be duplicated on a given character. <br>_"Those who made them did not desire strength or domination or hoarded wealth, but understanding, making, and healing, to preserve all things unstained."_ ***---LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

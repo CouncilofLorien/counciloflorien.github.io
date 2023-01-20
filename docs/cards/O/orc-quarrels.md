@@ -25,7 +25,7 @@ permalink: /cards/orc-quarrels/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable on an Orc, Troll, or Man attack. The attack is canceled.  Alternatively, playable on any attack if Skies of Fire is in play. The number of strikes from the attack is reduced to half of its original number (rounded up).   "...something like a quarrel had begun, and was getting hotter."  ---LotRIII 
+> > Playable on an Orc, Troll, or Man attack. The attack is canceled.  Alternatively, playable on any attack if Skies of Fire is in play. The number of strikes from the attack is reduced to half of its original number (rounded up).   "...something like a quarrel had begun, and was getting hotter."_ ***---LotRIII*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/orc-quarrels/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable on an Orc, Troll, or Man attack. The attack is canceled.  Alternatively, playable on any attack if Skies of Fire is in play. The number of strikes from the attack is reduced to half of its original number (rounded up).   "...something like a quarrel had begun, and was getting hotter."  ---LotRIII 
+> > Playable on an Orc, Troll, or Man attack. The attack is canceled.  Alternatively, playable on any attack if Skies of Fire is in play. The number of strikes from the attack is reduced to half of its original number (rounded up).   "...something like a quarrel had begun, and was getting hotter."_ ***---LotRIII*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

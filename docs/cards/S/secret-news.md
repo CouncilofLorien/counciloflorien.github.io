@@ -25,7 +25,7 @@ permalink: /cards/secret-news/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Opponent reveals to you 5 random cards at once from his hand.  "'...I met two of Elrond's people. They were hurrying along for fear of the trolls. It was they who told me that three of them had come down from the mountains...'" ---Hob 
+> > Opponent reveals to you 5 random cards at once from his hand. <br>_"'...I met two of Elrond's people. They were hurrying along for fear of the trolls. It was they who told me that three of them had come down from the mountains...'"_ ***---Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

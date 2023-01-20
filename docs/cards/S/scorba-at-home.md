@@ -25,7 +25,7 @@ permalink: /cards/scorba-at-home/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Unique. Unless Scorba Ahunt is in play, Zarak Dum has an additional automatic-attack: Dragon-3 strikes at 13/8. In addition, each major item gives an additional corruption point.   "'The dragon is still alive and in the halls under the Mountain then-or so I imagine from the smoke...'" ---Hob 
+> > _**Unique.**_ Unless Scorba Ahunt is in play, Zarak Dum has an additional automatic-attack: Dragon-3 strikes at 13/8. In addition, each major item gives an additional corruption point.   "'The dragon is still alive and in the halls under the Mountain then-or so I imagine from the smoke...'"_ ***---Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【13/8】</div>

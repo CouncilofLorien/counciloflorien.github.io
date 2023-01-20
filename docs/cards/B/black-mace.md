@@ -25,7 +25,7 @@ permalink: /cards/black-mace/
 > Greater Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Weapon. Warrior only: +3 to prowess to a maximum of 10 (+4 to a maximum of 10 against Elves).  "A great black mace he wielded." LotRI 
+> > _Weapon._ Warrior only: +3 to prowess to a maximum of 10 (+4 to a maximum of 10 against Elves). <br>_"A great black mace he wielded." LotRI 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【+3/&ndash;】</div>
@@ -45,7 +45,7 @@ permalink: /cards/black-mace/
 > Greater Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Weapon. Warrior only: +3 to prowess to a maximum of 10 (+4 to a maximum of 10 against Elves).  "A great black mace he wielded." LotRI 
+> > _Weapon._ Warrior only: +3 to prowess to a maximum of 10 (+4 to a maximum of 10 against Elves). <br>_"A great black mace he wielded." LotRI 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【+3/&ndash;】</div>
@@ -65,7 +65,7 @@ permalink: /cards/black-mace/
 > Greater Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Weapon. Warrior only: +3 to prowess to a maximum of 10 (+4 to a maximum of 10 against Elves).  "A great black mace he wielded." LotRI 
+> > _Weapon._ Warrior only: +3 to prowess to a maximum of 10 (+4 to a maximum of 10 against Elves). <br>_"A great black mace he wielded." LotRI 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【+3/&ndash;】</div>

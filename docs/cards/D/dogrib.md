@@ -19,13 +19,13 @@ permalink: /cards/dogrib/
 > > <div class="card-name">Dogrib</div>
 >
 > {: .minion-character-frame .black-text .p-1 .pl-2 }
-> > 2![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 2 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > Unique. -1 to all corruption checks.  "'...you may stay here until the Witch-king goes home. For in summer his power wanes; but now his breath is deadly, and his cold arm is long." ---LotR  Home Site: Lossadan Camp 
+> > _**Unique.**_ -1 to all corruption checks. <br>_"'...you may stay here until the Witch-king goes home. For in summer his power wanes; but now his breath is deadly, and his cold arm is long." ---LotR  <br><br>**Home Site:** Lossadan Camp 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【4/7】</div>
@@ -39,13 +39,13 @@ permalink: /cards/dogrib/
 > > <div class="card-name">Dogrib</div>
 >
 > {: .minion-character-frame .black-text .p-1 .pl-2 }
-> > 2![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 2 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > Unique. -1 to all corruption checks.  "'...you may stay here until the Witch-king goes home. For in summer his power wanes; but now his breath is deadly, and his cold arm is long." ---LotR  Home Site: Lossadan Camp 
+> > _**Unique.**_ -1 to all corruption checks. <br>_"'...you may stay here until the Witch-king goes home. For in summer his power wanes; but now his breath is deadly, and his cold arm is long." ---LotR  <br><br>**Home Site:** Lossadan Camp 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【4/7】</div>

@@ -19,13 +19,13 @@ permalink: /cards/the-balrog/
 > > <div class="card-name">The Balrog</div>
 >
 > {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > 6![](/assets/images/mind.svg)
+> > 6 ![](/assets/images/mind.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior Ally
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Unique. Manifestation of Balrog of Moria. Playable by a non-Ringwraith character at the Under-gates. Discard this ally if its company moves from a non-Under-deeps site to a non-Under-deeps site. During your organization phase, your opponent makes a roll (draws a #) and subtracts two. If the result is greater than the mind of this ally's controlling character, the character is eliminated. 
+> > _**Unique.**_ Manifestation of Balrog of Moria. Playable by a non-Ringwraith character at the Under-gates. Discard this ally if its company moves from a non-Under-deeps site to a non-Under-deeps site. During your organization phase, your opponent makes a roll (draws a #) and subtracts two. If the result is greater than the mind of this ally's controlling character, the character is eliminated. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【13/9】</div>
@@ -45,7 +45,7 @@ permalink: /cards/the-balrog/
 > Warrior/Ranger Balrog
 >
 > {: .minion-character-text .black-text .p-2 }
-> > Unique. Manifestation of Balrog of Moria. Discard all other manifestations of Balrog of Moria when this card comes into play. +3 to the roll for his company to move between adjacent Under-deeps sites. The Balrog's prowess is only modified by -1 when not tapping to face a strike. He may not have any followers and may not use region or starter movement.   Home Site: The Under-gates  
+> > _**Unique.**_ Manifestation of Balrog of Moria. Discard all other manifestations of Balrog of Moria when this card comes into play. +3 to the roll for his company to move between adjacent Under-deeps sites. The Balrog's prowess is only modified by -1 when not tapping to face a strike. He may not have any followers and may not use region or starter movement.   <br><br>**Home Site:** The Under-gates  
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【8/11】</div>

@@ -25,7 +25,7 @@ permalink: /cards/wargs/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Wolves. Two strikes.  "They heard the wind hissing among the rocks and trees, and there was a howling and wailing round them in the empty spaces of the night." ---LotRII 
+> > _Wolves._ Two strikes. <br>_"They heard the wind hissing among the rocks and trees, and there was a howling and wailing round them in the empty spaces of the night."_ ***---LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【9/&ndash;】</div>
@@ -45,7 +45,7 @@ permalink: /cards/wargs/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Wolves. Two strikes.  "They heard the wind hissing among the rocks and trees, and there was a howling and wailing round them in the empty spaces of the night." ---LotRII 
+> > _Wolves._ Two strikes. <br>_"They heard the wind hissing among the rocks and trees, and there was a howling and wailing round them in the empty spaces of the night."_ ***---LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【9/&ndash;】</div>
@@ -65,7 +65,7 @@ permalink: /cards/wargs/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Wolves. Two strikes.  "They heard the wind hissing among the rocks and trees, and there was a howling and wailing round them in the empty spaces of the night." ---LotRII 
+> > _Wolves._ Two strikes. <br>_"They heard the wind hissing among the rocks and trees, and there was a howling and wailing round them in the empty spaces of the night."_ ***---LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【9/&ndash;】</div>
@@ -85,7 +85,7 @@ permalink: /cards/wargs/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Wolves. Two strikes.  "In a minute there was a whole pack of them yelping around the tree and leaping up at the trunk, with eyes blazing and tongues hanging out." ---Hob 
+> > _Wolves._ Two strikes. <br>_"In a minute there was a whole pack of them yelping around the tree and leaping up at the trunk, with eyes blazing and tongues hanging out."_ ***---Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【9/&ndash;】</div>
@@ -105,7 +105,7 @@ permalink: /cards/wargs/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Wolves. Two strikes.  "They heard the wind hissing among the rocks and trees, and there was a howling and wailing round them in the empty spaces of the night." ---LotRII 
+> > _Wolves._ Two strikes. <br>_"They heard the wind hissing among the rocks and trees, and there was a howling and wailing round them in the empty spaces of the night."_ ***---LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【9/&ndash;】</div>

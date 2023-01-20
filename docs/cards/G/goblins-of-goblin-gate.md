@@ -25,7 +25,7 @@ permalink: /cards/goblins-of-goblin-gate/
 > Orc Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Unique. Playable at Goblin-gate if the influence check is greater than 8. Once in play, the number required to influence this faction is 0. Standard Modifications: Grey Mountain Goblins (+2).  "...goblins in full armour with drawn swords sitting just inside the door, watching it with wide eyes..." ---Hob 
+> > _**Unique.**_ Playable at Goblin-gate if the influence check is greater than 8. Once in play, the number required to influence this faction is 0. <br>_Standard Modifications:_ Grey Mountain Goblins (+2). <br>_"...goblins in full armour with drawn swords sitting just inside the door, watching it with wide eyes..."_ ***---Hob*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/goblins-of-goblin-gate/
 > Orc Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Unique. Playable at Goblin-gate if the influence check is greater than 8. Once in play, the number required to influence this faction is 0. Standard Modifications: Grey Mountain Goblins (+2).  "...goblins in full armour with drawn swords sitting just inside the door, watching it with wide eyes..." ---Hob 
+> > _**Unique.**_ Playable at Goblin-gate if the influence check is greater than 8. Once in play, the number required to influence this faction is 0. <br>_Standard Modifications:_ Grey Mountain Goblins (+2). <br>_"...goblins in full armour with drawn swords sitting just inside the door, watching it with wide eyes..."_ ***---Hob*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/goblins-of-goblin-gate/
 > Orc Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Unique. Playable at Goblin-gate if the influence check is greater than 8. Once in play, the number required to influence this faction is 0. Standard Modifications: Grey Mountain Goblins (+2).  "...goblins in full armour with drawn swords sitting just inside the door, watching it with wide eyes..." ---Hob 
+> > _**Unique.**_ Playable at Goblin-gate if the influence check is greater than 8. Once in play, the number required to influence this faction is 0. <br>_Standard Modifications:_ Grey Mountain Goblins (+2). <br>_"...goblins in full armour with drawn swords sitting just inside the door, watching it with wide eyes..."_ ***---Hob*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

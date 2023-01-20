@@ -19,13 +19,13 @@ permalink: /cards/anborn/
 > > <div class="character-card-name">Anborn</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 2![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 2 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Scout/Ranger Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. +2 direct influence against the Men of Lebennin faction.  "'Now I have him at the arrow-point,' said Anborn. 'Shall I not shoot, Captain? For coming unbidden to this place death is our law.'" ---LotRIV  Home Site: Pelargir 
+> > _**Unique.**_ +2 direct influence against the Men of Lebennin faction. <br>_"'Now I have him at the arrow-point,' said Anborn. 'Shall I not shoot, Captain? For coming unbidden to this place death is our law.'"_ ***---LotRIV***  <br><br>**Home Site:** Pelargir 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【2/8】</div>
@@ -39,13 +39,13 @@ permalink: /cards/anborn/
 > > <div class="character-card-name">Anborn</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 2![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 2 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Scout/Ranger Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. +2 direct influence against the Men of Lebennin faction.  "'Now I have him at the arrow-point,' said Anborn. 'Shall I not shoot, Captain? For coming unbidden to this place death is our law.'" ---LotRIV  Home Site: Pelargir 
+> > _**Unique.**_ +2 direct influence against the Men of Lebennin faction. <br>_"'Now I have him at the arrow-point,' said Anborn. 'Shall I not shoot, Captain? For coming unbidden to this place death is our law.'"_ ***---LotRIV***  <br><br>**Home Site:** Pelargir 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【2/8】</div>
@@ -59,13 +59,13 @@ permalink: /cards/anborn/
 > > <div class="character-card-name">Anborn</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 2![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 2 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Scout/Ranger Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. +2 direct influence against the Men of Lebennin faction.  "'Now I have him at the arrow-point,' said Anborn. 'Shall I not shoot, Captain? For coming unbidden to this place death is our law.'" ---LotRIV  Home Site: Pelargir 
+> > _**Unique.**_ +2 direct influence against the Men of Lebennin faction. <br>_"'Now I have him at the arrow-point,' said Anborn. 'Shall I not shoot, Captain? For coming unbidden to this place death is our law.'"_ ***---LotRIV***  <br><br>**Home Site:** Pelargir 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【2/8】</div>

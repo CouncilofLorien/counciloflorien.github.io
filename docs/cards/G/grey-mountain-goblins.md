@@ -25,7 +25,7 @@ permalink: /cards/grey-mountain-goblins/
 > Orc Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Unique. Playable at Gondmeaglom if the influence check is greater than 8. Once in play, the number required to influence this faction is 0. Standard Modifications: Orcs of Gundabad (+2), Orcs of Goblin-gate (+2). 
+> > _**Unique.**_ Playable at Gondmeaglom if the influence check is greater than 8. Once in play, the number required to influence this faction is 0. <br>_Standard Modifications:_ Orcs of Gundabad (+2), Orcs of Goblin-gate (+2). 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/grey-mountain-goblins/
 > Orc Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Unique. Playable at Gondmeaglom if the influence check is greater than 8. Once in play, the number required to influence this faction is 0. Standard Modifications: Orcs of Gundabad (+2), Orcs of Goblin-gate (+2). 
+> > _**Unique.**_ Playable at Gondmeaglom if the influence check is greater than 8. Once in play, the number required to influence this faction is 0. <br>_Standard Modifications:_ Orcs of Gundabad (+2), Orcs of Goblin-gate (+2). 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/grey-mountain-goblins/
 > Orc Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Unique. Playable at Gondmeaglom if the influence check is greater than 8. Once in play, the number required to influence this faction is 0. Standard Modifications: Orcs of Gundabad (+2), Orcs of Goblin-gate (+2). 
+> > _**Unique.**_ Playable at Gondmeaglom if the influence check is greater than 8. Once in play, the number required to influence this faction is 0. <br>_Standard Modifications:_ Orcs of Gundabad (+2), Orcs of Goblin-gate (+2). 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

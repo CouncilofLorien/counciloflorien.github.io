@@ -25,7 +25,7 @@ permalink: /cards/hauberk-of-bright-mail/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Armor. +2 to body to a maximum of 9.  "Each one of his folk was clad in a hauberk of steel that hung to his knees." ---Hob 
+> > _Armor._ +2 to body to a maximum of 9. <br>_"Each one of his folk was clad in a hauberk of steel that hung to his knees."_ ***---Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/hauberk-of-bright-mail/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Armor. +2 to body to a maximum of 9.  "Each one of his folk was clad in a hauberk of steel that hung to his knees." ---Hob 
+> > _Armor._ +2 to body to a maximum of 9. <br>_"Each one of his folk was clad in a hauberk of steel that hung to his knees."_ ***---Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/hauberk-of-bright-mail/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Armor. +2 to body to a maximum of 9.  "Each one of his folk was clad in a hauberk of steel that hung to his knees." ---Hob 
+> > _Armor._ +2 to body to a maximum of 9. <br>_"Each one of his folk was clad in a hauberk of steel that hung to his knees."_ ***---Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -85,7 +85,7 @@ permalink: /cards/hauberk-of-bright-mail/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Armor. +2 to body to a maximum of 9.  "Each one of his folk was clad in a hauberk of steel that hung to his knees." ---Hob 
+> > _Armor._ +2 to body to a maximum of 9. <br>_"Each one of his folk was clad in a hauberk of steel that hung to his knees."_ ***---Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

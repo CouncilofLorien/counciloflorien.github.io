@@ -25,7 +25,7 @@ permalink: /cards/indur-dawndeath/
 > Creature or Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Unique. Nazgul (4th). May be played as a hazard creature (with one strike) or as a permanent event. As a creature, may also be played keyed to Harondor, Imlad Morgul, Gorgoroth, and Khand; and may also be played at sites in these regions. If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, Indur Dawndeath becomes a short-event and makes any wounded character discard an item of his choice (but not a ring). 
+> > _**Unique.**_ _Nazgul (4th)._ May be played as a hazard creature (with one strike) or as a permanent event. As a creature, may also be played keyed to Harondor, Imlad Morgul, Gorgoroth, and Khand; and may also be played at sites in these regions. If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, Indur Dawndeath becomes a short-event and makes any wounded character discard an item of his choice (but not a ring). 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【15/10】</div>
@@ -45,7 +45,7 @@ permalink: /cards/indur-dawndeath/
 > Creature or Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Unique. Nazgul (4th). May be played as a hazard creature (with one strike) or as a permanent event. As a creature, may also be played keyed to Harondor, Imlad Morgul, Gorgoroth, and Khand; and may also be played at sites in these regions. If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, Indur Dawndeath becomes a short-event and makes any wounded character discard an item of his choice (but not a ring). 
+> > _**Unique.**_ _Nazgul (4th)._ May be played as a hazard creature (with one strike) or as a permanent event. As a creature, may also be played keyed to Harondor, Imlad Morgul, Gorgoroth, and Khand; and may also be played at sites in these regions. If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, Indur Dawndeath becomes a short-event and makes any wounded character discard an item of his choice (but not a ring). 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【15/10】</div>

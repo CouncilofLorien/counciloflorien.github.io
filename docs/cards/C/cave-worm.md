@@ -25,7 +25,7 @@ permalink: /cards/cave-worm/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Drake. One strike. May be played keyed to Redhorn Gate, High Pass, Gap of Isen, Angmar, Gundabad, Grey Mountain Narrows, Withered Heath, Numeriador, and Iron Hills.  "...there are other things more slimy than fish." ---Hob 
+> > _Drake._ One strike. May be played keyed to Redhorn Gate, High Pass, Gap of Isen, Angmar, Gundabad, Grey Mountain Narrows, Withered Heath, Numeriador, and Iron Hills. <br>_"...there are other things more slimy than fish."_ ***---Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【16/&ndash;】</div>
@@ -45,7 +45,7 @@ permalink: /cards/cave-worm/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Drake. One strike. May be played keyed to Redhorn Gate, High Pass, Gap of Isen, Angmar, Gundabad, Grey Mountain Narrows, Withered Heath, Numeriador, and Iron Hills.  "'There are older and fouler things than Orcs in the deep places of the world.'" ---LotRII 
+> > _Drake._ One strike. May be played keyed to Redhorn Gate, High Pass, Gap of Isen, Angmar, Gundabad, Grey Mountain Narrows, Withered Heath, Numeriador, and Iron Hills. <br>_"'There are older and fouler things than Orcs in the deep places of the world.'"_ ***---LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【16/&ndash;】</div>
@@ -65,7 +65,7 @@ permalink: /cards/cave-worm/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Drake. One strike. May be played keyed to Redhorn Gate, High Pass, Gap of Isen, Angmar, Gundabad, Grey Mountain Narrows, Withered Heath, Numeriador, and Iron Hills.  "'There are older and fouler things than Orcs in the deep places of the world.'" ---LotRII 
+> > _Drake._ One strike. May be played keyed to Redhorn Gate, High Pass, Gap of Isen, Angmar, Gundabad, Grey Mountain Narrows, Withered Heath, Numeriador, and Iron Hills. <br>_"'There are older and fouler things than Orcs in the deep places of the world.'"_ ***---LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【16/&ndash;】</div>

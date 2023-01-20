@@ -19,13 +19,13 @@ permalink: /cards/luitprand/
 > > <div class="card-name">Luitprand</div>
 >
 > {: .minion-character-frame .black-text .p-1 .pl-2 }
-> > 1![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 1 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Scout Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > Unique.   "The men of the lake-town Esgaroth were mostly indoors, for the breeze was from the black East and chill, but a few were walking on the quays, and watching, as they were fond of doing, the stars..." ---Hob  Home Site: Lake-town 
+> > _**Unique.**_   "The men of the lake-town Esgaroth were mostly indoors, for the breeze was from the black East and chill, but a few were walking on the quays, and watching, as they were fond of doing, the stars..."_ ***---Hob***  <br><br>**Home Site:** Lake-town 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【3/7】</div>
@@ -39,13 +39,13 @@ permalink: /cards/luitprand/
 > > <div class="card-name">Luitprand</div>
 >
 > {: .minion-character-frame .black-text .p-1 .pl-2 }
-> > 1![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 1 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Scout Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > Unique.   "The men of the lake-town Esgaroth were mostly indoors, for the breeze was from the black East and chill, but a few were walking on the quays, and watching, as they were fond of doing, the stars..." ---Hob  Home Site: Lake-town 
+> > _**Unique.**_   "The men of the lake-town Esgaroth were mostly indoors, for the breeze was from the black East and chill, but a few were walking on the quays, and watching, as they were fond of doing, the stars..."_ ***---Hob***  <br><br>**Home Site:** Lake-town 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【3/7】</div>

@@ -25,7 +25,7 @@ permalink: /cards/swift-strokes/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Warrior only. Warrior receives +1 prowess against one strike and obtains two random values against it, choosing the one to use.   "...Ugluk sprang forwards, and with two swift strokes swept the heads off two of his opponents." ---LotRIII 
+> > _Warrior only._ Warrior receives +1 prowess against one strike and obtains two random values against it, choosing the one to use.   "...Ugluk sprang forwards, and with two swift strokes swept the heads off two of his opponents."_ ***---LotRIII*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/swift-strokes/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Warrior only. Warrior receives +1 prowess against one strike and obtains two random values against it, choosing the one to use.   "...Ugluk sprang forwards, and with two swift strokes swept the heads off two of his opponents." ---LotRIII 
+> > _Warrior only._ Warrior receives +1 prowess against one strike and obtains two random values against it, choosing the one to use.   "...Ugluk sprang forwards, and with two swift strokes swept the heads off two of his opponents."_ ***---LotRIII*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/swift-strokes/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Warrior only. Warrior receives +1 prowess against one strike and obtains two random values against it, choosing the one to use.   "...Ugluk sprang forwards, and with two swift strokes swept the heads off two of his opponents." ---LotRIII 
+> > _Warrior only._ Warrior receives +1 prowess against one strike and obtains two random values against it, choosing the one to use.   "...Ugluk sprang forwards, and with two swift strokes swept the heads off two of his opponents."_ ***---LotRIII*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

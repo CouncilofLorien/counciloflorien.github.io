@@ -25,7 +25,7 @@ permalink: /cards/palantir-of-elostirion/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Unique. Palantir. Playable only at The White Towers. Discard if the bearer moves. If the bearer is a sage, he may tap Palantir of Elostirion to remove one corruption card from an Elf or a Wizard under you control. Bearer makes a corruption check.  "...but unlike the others and not in accord with them; it looked only to the Sea." ---LotR 
+> > _**Unique.**_ _Palantir._ Playable only at The White Towers. Discard if the bearer moves. If the bearer is a sage, he may tap Palantir of Elostirion to remove one corruption card from an Elf or a Wizard under you control. Bearer makes a corruption check. <br>_"...but unlike the others and not in accord with them; it looked only to the Sea." ---LotR 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/palantir-of-elostirion/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Unique. Palantir. Playable only at The White Towers. Discard if the bearer moves. If the bearer is a sage, he may tap Palantir of Elostirion to remove one corruption card from an Elf or a Wizard under you control. Bearer makes a corruption check.  "...but unlike the others and not in accord with them; it looked only to the Sea." ---LotR 
+> > _**Unique.**_ _Palantir._ Playable only at The White Towers. Discard if the bearer moves. If the bearer is a sage, he may tap Palantir of Elostirion to remove one corruption card from an Elf or a Wizard under you control. Bearer makes a corruption check. <br>_"...but unlike the others and not in accord with them; it looked only to the Sea." ---LotR 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/palantir-of-elostirion/
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Unique. Palantir. Playable at The White Towers. Discard if the bearer moves. If the bearer is a sage: your hand size increases by one and the bearer is able to use this Palantir this turn if he taps. With its bearer able to use a Palantir, tap Palantir of Elostirion to draw a card. Bearer then makes a corruption check. 
+> > _**Unique.**_ _Palantir._ Playable at The White Towers. Discard if the bearer moves. If the bearer is a sage: your hand size increases by one and the bearer is able to use this Palantir this turn if he taps. With its bearer able to use a Palantir, tap Palantir of Elostirion to draw a card. Bearer then makes a corruption check. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

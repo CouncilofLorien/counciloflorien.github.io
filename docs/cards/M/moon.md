@@ -25,7 +25,7 @@ permalink: /cards/moon/
 > Long-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Environment. If Gates of Morning is in play, treat all Wildernesses \[![](/assets/images/wilderness.svg)] as Border-lands \[![](/assets/images/border-land.svg)] and all Border-lands \[![](/assets/images/border-land.svg)] as Free-domains \[![](/assets/images/free-domain.svg)] for the purposes of playing hazards. If Doors of Night is in play, treat all Dark-domains \[![](/assets/images/dark-domain.svg)] as Shadow-lands \[![](/assets/images/shadow-land.svg)] and all Shadow-lands \[![](/assets/images/shadow-land.svg)] as Wilderness \[![](/assets/images/wilderness.svg)] for the purposes of playing hazards. Cannot be duplicated. 
+> > _Environment._ If Gates of Morning is in play, treat all Wildernesses \[![](/assets/images/wilderness.svg)] as Border-lands \[![](/assets/images/border-land.svg)] and all Border-lands \[![](/assets/images/border-land.svg)] as Free-domains \[![](/assets/images/free-domain.svg)] for the purposes of playing hazards. If Doors of Night is in play, treat all Dark-domains \[![](/assets/images/dark-domain.svg)] as Shadow-lands \[![](/assets/images/shadow-land.svg)] and all Shadow-lands \[![](/assets/images/shadow-land.svg)] as Wilderness \[![](/assets/images/wilderness.svg)] for the purposes of playing hazards. Cannot be duplicated. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/moon/
 > Long-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Environment. If Gates of Morning is in play, treat all Wildernesses \[![](/assets/images/wilderness.svg)] as Border-lands \[![](/assets/images/border-land.svg)] and all Border-lands \[![](/assets/images/border-land.svg)] as Free-domains \[![](/assets/images/free-domain.svg)] for the purposes of playing hazards. If Doors of Night is in play, treat all Dark-domains \[![](/assets/images/dark-domain.svg)] as Shadow-lands \[![](/assets/images/shadow-land.svg)] and all Shadow-lands \[![](/assets/images/shadow-land.svg)] as Wilderness \[![](/assets/images/wilderness.svg)] for the purposes of playing hazards. Cannot be duplicated. 
+> > _Environment._ If Gates of Morning is in play, treat all Wildernesses \[![](/assets/images/wilderness.svg)] as Border-lands \[![](/assets/images/border-land.svg)] and all Border-lands \[![](/assets/images/border-land.svg)] as Free-domains \[![](/assets/images/free-domain.svg)] for the purposes of playing hazards. If Doors of Night is in play, treat all Dark-domains \[![](/assets/images/dark-domain.svg)] as Shadow-lands \[![](/assets/images/shadow-land.svg)] and all Shadow-lands \[![](/assets/images/shadow-land.svg)] as Wilderness \[![](/assets/images/wilderness.svg)] for the purposes of playing hazards. Cannot be duplicated. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

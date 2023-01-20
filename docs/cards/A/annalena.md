@@ -19,13 +19,13 @@ permalink: /cards/annalena/
 > > <div class="character-card-name">Annalena</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 3![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 3 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Scout/Sage Elf
 >
 > {: .character-text .black-text .p-2 }
-> > Unique.  "...the Gift of the Elf-minstrels, who can make the things of which they sing appear before the eyes of those that listen." ---LotR  Home Site: Edhellond 
+> > _**Unique.**_  "...the Gift of the Elf-minstrels, who can make the things of which they sing appear before the eyes of those that listen." ---LotR  <br><br>**Home Site:** Edhellond 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【3/8】</div>
@@ -39,13 +39,13 @@ permalink: /cards/annalena/
 > > <div class="character-card-name">Annalena</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 3![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 3 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Scout/Sage Elf
 >
 > {: .character-text .black-text .p-2 }
-> > Unique.  "...the Gift of the Elf-minstrels, who can make the things of which they sing appear before the eyes of those that listen." ---LotR  Home Site: Edhellond 
+> > _**Unique.**_  "...the Gift of the Elf-minstrels, who can make the things of which they sing appear before the eyes of those that listen." ---LotR  <br><br>**Home Site:** Edhellond 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【3/8】</div>
@@ -59,13 +59,13 @@ permalink: /cards/annalena/
 > > <div class="character-card-name">Annalena</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 3![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 3 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Scout/Sage Elf
 >
 > {: .character-text .black-text .p-2 }
-> > Unique.  "...the Gift of the Elf-minstrels, who can make the things of which they sing appear before the eyes of those that listen." ---LotR  Home Site: Edhellond 
+> > _**Unique.**_  "...the Gift of the Elf-minstrels, who can make the things of which they sing appear before the eyes of those that listen." ---LotR  <br><br>**Home Site:** Edhellond 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【3/8】</div>
@@ -79,13 +79,13 @@ permalink: /cards/annalena/
 > > <div class="character-card-name">Annalena</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 3![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 3 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Scout/Sage Elf
 >
 > {: .character-text .black-text .p-2 }
-> > Unique.  "...the Gift of the Elf-minstrels, who can make the things of which they sing appear before the eyes of those that listen." ---LotR  Home Site: Edhellond 
+> > _**Unique.**_  "...the Gift of the Elf-minstrels, who can make the things of which they sing appear before the eyes of those that listen." ---LotR  <br><br>**Home Site:** Edhellond 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【3/8】</div>

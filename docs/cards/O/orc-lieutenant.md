@@ -25,7 +25,7 @@ permalink: /cards/orc-lieutenant/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Orcs. One strike. If played on a company that has already faced an Orc attack this turn, Orc-lieutenant receives +4 prowess.  "Then suddenly, without warning, Ugluk sprang forwards, and with two swift strokes swept the heads off two of his opponents." ---LotRIII 
+> > _Orcs._ One strike. If played on a company that has already faced an Orc attack this turn, Orc-lieutenant receives +4 prowess. <br>_"Then suddenly, without warning, Ugluk sprang forwards, and with two swift strokes swept the heads off two of his opponents."_ ***---LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【8/&ndash;】</div>
@@ -45,7 +45,7 @@ permalink: /cards/orc-lieutenant/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Orcs. One strike. If played on a company that has already faced an Orc attack this turn, Orc-lieutenant receives +4 prowess.  "Then suddenly, without warning, Ugluk sprang forwards, and with two swift strokes swept the heads off two of his opponents." ---LotRIII 
+> > _Orcs._ One strike. If played on a company that has already faced an Orc attack this turn, Orc-lieutenant receives +4 prowess. <br>_"Then suddenly, without warning, Ugluk sprang forwards, and with two swift strokes swept the heads off two of his opponents."_ ***---LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【8/&ndash;】</div>
@@ -65,7 +65,7 @@ permalink: /cards/orc-lieutenant/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Orcs. One strike. If played on a company that has already faced an Orc attack this turn, Orc-lieutenant receives +4 prowess.  "Then suddenly, without warning, Ugluk sprang forwards, and with two swift strokes swept the heads off two of his opponents." ---LotRIII 
+> > _Orcs._ One strike. If played on a company that has already faced an Orc attack this turn, Orc-lieutenant receives +4 prowess. <br>_"Then suddenly, without warning, Ugluk sprang forwards, and with two swift strokes swept the heads off two of his opponents."_ ***---LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【8/&ndash;】</div>

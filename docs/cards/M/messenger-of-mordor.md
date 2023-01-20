@@ -25,7 +25,7 @@ permalink: /cards/messenger-of-mordor/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Magic. Shadow-magic. Playable on a spirit-magic using character at a Darkhaven \[![](/assets/images/dark-haven.svg)], Shadow-hold \[![](/assets/images/shadow-hold.svg)], or Dark-hold \[![](/assets/images/dark-hold.svg)]. Any items and resource events with his company that can be stored at a Darkhaven \[![](/assets/images/dark-haven.svg)] may now be so stored. Unless he is a Ringwraith, character makes a corruption check modified by -4.  
+> > _Magic._ _Shadow-_Magic.__ Playable on a spirit-magic using character at a Darkhaven \[![](/assets/images/dark-haven.svg)], Shadow-hold \[![](/assets/images/shadow-hold.svg)], or Dark-hold \[![](/assets/images/dark-hold.svg)]. Any items and resource events with his company that can be stored at a Darkhaven \[![](/assets/images/dark-haven.svg)] may now be so stored. Unless he is a Ringwraith, character makes a corruption check modified by -4.  
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

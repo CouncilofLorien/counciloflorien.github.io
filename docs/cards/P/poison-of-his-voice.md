@@ -25,7 +25,7 @@ permalink: /cards/poison-of-his-voice/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Magic. Spirit-magic. Playable on a hazard permanent-event on a character in a spirit-magic-using character's company. Discard target hazard. Alternatively, playable on a spirit-magic-using Fallen-wizard. -6 to his stage points (to a minimum of 3) for the rest of the turn. Unless the spirit-magic-using character is a Ringwraith, he makes a corruption check modified by -3. 
+> > _Magic._ _Spirit-_Magic.__ Playable on a hazard permanent-event on a character in a spirit-magic-using character's company. Discard target hazard. Alternatively, playable on a spirit-magic-using Fallen-wizard. -6 to his stage points (to a minimum of 3) for the rest of the turn. Unless the spirit-magic-using character is a Ringwraith, he makes a corruption check modified by -3. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

@@ -25,7 +25,7 @@ permalink: /cards/smart-and-secret/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Command. Playable on a leader during the organization phase. Return all other command cards on target leader to your hand when this card is played. -2 to leader's direct influence (to a minimum of 0) and +1 body to all characters in his company. You may return this card to your hand during any organization phase. 
+> > _Command._ Playable on a leader during the organization phase. Return all other command cards on target leader to your hand when this card is played. -2 to leader's direct influence (to a minimum of 0) and +1 body to all characters in his company. You may return this card to your hand during any organization phase. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

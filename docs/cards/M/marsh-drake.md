@@ -25,7 +25,7 @@ permalink: /cards/marsh-drake/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Drake. Two strikes.   "The hiswaloki rarely ignite their breath, preferring to allow the corrosive gases to burn prey via chemical rather than combustive means." ---Kuduk Lore 
+> > _Drake._ Two strikes.   "The hiswaloki rarely ignite their breath, preferring to allow the corrosive gases to burn prey via chemical rather than combustive means."_ ***---Kuduk Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【11/&ndash;】</div>
@@ -45,7 +45,7 @@ permalink: /cards/marsh-drake/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Drake. Two strikes.   "'...that is the dragon's way, he has piled it all up in a great heap far inside, and sleeps on it for a bed." ---Hob 
+> > _Drake._ Two strikes.   "'...that is the dragon's way, he has piled it all up in a great heap far inside, and sleeps on it for a bed."_ ***---Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【11/&ndash;】</div>
@@ -65,7 +65,7 @@ permalink: /cards/marsh-drake/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Drake. Two strikes.   "The hiswaloki rarely ignite their breath, preferring to allow the corrosive gases to burn prey via chemical rather than combustive means." ---Kuduk Lore 
+> > _Drake._ Two strikes.   "The hiswaloki rarely ignite their breath, preferring to allow the corrosive gases to burn prey via chemical rather than combustive means."_ ***---Kuduk Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【11/&ndash;】</div>
@@ -85,7 +85,7 @@ permalink: /cards/marsh-drake/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Drake. Two strikes.   "'...that is the dragon's way, he has piled it all up in a great heap far inside, and sleeps on it for a bed." ---Hob 
+> > _Drake._ Two strikes.   "'...that is the dragon's way, he has piled it all up in a great heap far inside, and sleeps on it for a bed."_ ***---Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【11/&ndash;】</div>

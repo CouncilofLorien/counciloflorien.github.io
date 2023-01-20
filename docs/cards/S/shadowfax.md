@@ -19,13 +19,13 @@ permalink: /cards/shadowfax/
 > > <div class="card-name">Shadowfax</div>
 >
 > {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > 2![](/assets/images/mind.svg)
+> > 2 ![](/assets/images/mind.svg)
 >
 > {: .card-classification .pr-2 }
 > Ally
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Unique. Playable at Edoras or Dunharrow.  If his company only has one character or one character and a Hobbit at the end of the movement/hazard phase, tap Shadowfax to allow his company to immediately move again; an additional site card may be played and an additional movement/hazard phase follows for that company. 
+> > _**Unique.**_ Playable at Edoras or Dunharrow.  If his company only has one character or one character and a Hobbit at the end of the movement/hazard phase, tap Shadowfax to allow his company to immediately move again; an additional site card may be played and an additional movement/hazard phase follows for that company. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【2/8】</div>
@@ -39,13 +39,13 @@ permalink: /cards/shadowfax/
 > > <div class="card-name">Shadowfax</div>
 >
 > {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > 2![](/assets/images/mind.svg)
+> > 2 ![](/assets/images/mind.svg)
 >
 > {: .card-classification .pr-2 }
 > Ally
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Unique. Playable at Edoras or Dunharrow.  If his company only has one character or one character and a Hobbit at the end of the movement/hazard phase, tap Shadowfax to allow his company to immediately move again; an additional site card may be played and an additional movement/hazard phase follows for that company. 
+> > _**Unique.**_ Playable at Edoras or Dunharrow.  If his company only has one character or one character and a Hobbit at the end of the movement/hazard phase, tap Shadowfax to allow his company to immediately move again; an additional site card may be played and an additional movement/hazard phase follows for that company. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【2/8】</div>

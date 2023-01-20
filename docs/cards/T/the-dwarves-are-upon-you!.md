@@ -25,7 +25,7 @@ permalink: /cards/the-dwarves-are-upon-you!/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable on a company containing Dwarves facing an attack. All Dwarves in the company receive +2 prowess and -1 body against the attack. Cannot be duplicated against a given attack.  "Out leapt the King under the Mountain, and his companions followed him...they were in shining armour, and red light leapt from their eyes." ---Hob 
+> > Playable on a company containing Dwarves facing an attack. All Dwarves in the company receive +2 prowess and -1 body against the attack. Cannot be duplicated against a given attack. <br>_"Out leapt the King under the Mountain, and his companions followed him...they were in shining armour, and red light leapt from their eyes."_ ***---Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/the-dwarves-are-upon-you!/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable on a company containing Dwarves facing an attack. All Dwarves in the company receive +2 prowess and -1 body against the attack. Cannot be duplicated against a given attack.  "Out leapt the King under the Mountain, and his companions followed him...they were in shining armour, and red light leapt from their eyes." ---Hob 
+> > Playable on a company containing Dwarves facing an attack. All Dwarves in the company receive +2 prowess and -1 body against the attack. Cannot be duplicated against a given attack. <br>_"Out leapt the King under the Mountain, and his companions followed him...they were in shining armour, and red light leapt from their eyes."_ ***---Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

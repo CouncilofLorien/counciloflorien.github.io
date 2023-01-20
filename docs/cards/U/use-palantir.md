@@ -25,7 +25,7 @@ permalink: /cards/use-palantir/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Sage only. Tap sage to enable him to use one Palantir he bears for the rest of the turn.  "But he himself went up alone into the secret room under the summit of the Tower; and many who looked up thither at that time saw a pale light that gleamed and flickered from the narrow windows for a while, and then flashed and went out." ---LotRV 
+> > _Sage only._ Tap sage to enable him to use one Palantir he bears for the rest of the turn. <br>_"But he himself went up alone into the secret room under the summit of the Tower; and many who looked up thither at that time saw a pale light that gleamed and flickered from the narrow windows for a while, and then flashed and went out."_ ***---LotRV*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/use-palantir/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Sage only. Tap sage to enable him to use one Palantir he bears for the rest of the turn.  "But he himself went up alone into the secret room under the summit of the Tower; and many who looked up thither at that time saw a pale light that gleamed and flickered from the narrow windows for a while, and then flashed and went out." ---LotRV 
+> > _Sage only._ Tap sage to enable him to use one Palantir he bears for the rest of the turn. <br>_"But he himself went up alone into the secret room under the summit of the Tower; and many who looked up thither at that time saw a pale light that gleamed and flickered from the narrow windows for a while, and then flashed and went out."_ ***---LotRV*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

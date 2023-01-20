@@ -25,7 +25,7 @@ permalink: /cards/druadan-forest/
 > Anorien
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien  "The host was bivouacked in the pine-woods that clustered about Eilenach Beacon, a tall hill standing up from the long ridges of the Druadan Forest that lay beside the great road in East Anorien." ---LotRV 
+> > Nearest Haven: Lorien  "The host was bivouacked in the pine-woods that clustered about Eilenach Beacon, a tall hill standing up from the long ridges of the Druadan Forest that lay beside the great road in East Anorien."_ ***---LotRV*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/druadan-forest/
 > Anorien
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien  "The host was bivouacked in the pine-woods that clustered about Eilenach Beacon, a tall hill standing up from the long ridges of the Druadan Forest that lay beside the great road in East Anorien." ---LotRV 
+> > Nearest Haven: Lorien  "The host was bivouacked in the pine-woods that clustered about Eilenach Beacon, a tall hill standing up from the long ridges of the Druadan Forest that lay beside the great road in East Anorien."_ ***---LotRV*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/druadan-forest/
 > Anorien
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Minas Morgul Automatic-attacks: Men-3 strikes with 6 prowess  "...the forgotten wain-road long ago had run down...but now for many lives of men trees had had their way with it, and it had vanished, broken and buried under the leaves of uncounted years." ---LotRV 
+> > Nearest Darkhaven: Minas Morgul <br>_**Automatic-attacks:**_<br> Men-3 strikes with 6 prowess  "...the forgotten wain-road long ago had run down...but now for many lives of men trees had had their way with it, and it had vanished, broken and buried under the leaves of uncounted years."_ ***---LotRV*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

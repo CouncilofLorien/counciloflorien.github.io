@@ -25,7 +25,7 @@ permalink: /cards/great-fissure/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Balrog specific. Target and cancel any effect (declared earlier in the same chain of effects) that would cancel an attack by The Balrog's company against an opponent's company. Alternatively, cancel an attack against a company at, or moving to or from, an Under-deeps site.  "...close to the feet of two huge pillars a great fissure had opened." ---LotRII 
+> > _Balrog specific._ Target and cancel any effect (declared earlier in the same chain of effects) that would cancel an attack by The Balrog's company against an opponent's company. Alternatively, cancel an attack against a company at, or moving to or from, an Under-deeps site. <br>_"...close to the feet of two huge pillars a great fissure had opened."_ ***---LotRII*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

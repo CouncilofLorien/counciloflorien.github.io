@@ -19,13 +19,13 @@ permalink: /cards/leaflock/
 > > <div class="card-name">Leaflock</div>
 >
 > {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > 3![](/assets/images/mind.svg)
+> > 3 ![](/assets/images/mind.svg)
 >
 > {: .card-classification .pr-2 }
 > Ally
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Unique. Playable at Wellinghall.  Tap to cancel the effects of one hazard that targets his company. May not be attacked by automatic-attacks or hazards keyed to his site. Discard Leaflock if his company moves to a site that is not in: Fangorn, Rohan, Gap of Isen, Wold & Foothills, Enedhwaith, Old Pukel-land, Brown Lands, Anduin Vales, or Redhorn Gate. 
+> > _**Unique.**_ Playable at Wellinghall.  Tap to cancel the effects of one hazard that targets his company. May not be attacked by automatic-attacks or hazards keyed to his site. Discard Leaflock if his company moves to a site that is not in: Fangorn, Rohan, Gap of Isen, Wold & Foothills, Enedhwaith, Old Pukel-land, Brown Lands, Anduin Vales, or Redhorn Gate. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【5/8】</div>
@@ -39,13 +39,13 @@ permalink: /cards/leaflock/
 > > <div class="card-name">Leaflock</div>
 >
 > {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > 3![](/assets/images/mind.svg)
+> > 3 ![](/assets/images/mind.svg)
 >
 > {: .card-classification .pr-2 }
 > Ally
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Unique. Playable at Wellinghall.  Tap to cancel the effects of one hazard that targets his company. May not be attacked by automatic-attacks or hazards keyed to his site. Discard Leaflock if his company moves to a site that is not in: Fangorn, Rohan, Gap of Isen, Wold & Foothills, Enedhwaith, Old Pukel-land, Brown Lands, Anduin Vales, or Redhorn Gate. 
+> > _**Unique.**_ Playable at Wellinghall.  Tap to cancel the effects of one hazard that targets his company. May not be attacked by automatic-attacks or hazards keyed to his site. Discard Leaflock if his company moves to a site that is not in: Fangorn, Rohan, Gap of Isen, Wold & Foothills, Enedhwaith, Old Pukel-land, Brown Lands, Anduin Vales, or Redhorn Gate. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【5/8】</div>

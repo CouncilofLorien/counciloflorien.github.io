@@ -25,7 +25,7 @@ permalink: /cards/the-misty-mountain-deeps/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Ranger only. Playable during the organization phase on a ranger. If his company uses region movement, it may move as if the following pairs of regions were adjacent: Rhudaur and Anduin Vales, Rhudaur and Wold & Foothills, Hollin and Wold & Foothills, Hollin and Fangorn, Dunland and Fangorn. Alternatively, if the site moved to is in one of the regions listed above, the hazard limit is reduced by two (to a minimum of two). 
+> > _Ranger only._ Playable during the organization phase on a ranger. If his company uses region movement, it may move as if the following pairs of regions were adjacent: Rhudaur and Anduin Vales, Rhudaur and Wold & Foothills, Hollin and Wold & Foothills, Hollin and Fangorn, Dunland and Fangorn. Alternatively, if the site moved to is in one of the regions listed above, the hazard limit is reduced by two (to a minimum of two). 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

@@ -25,7 +25,7 @@ permalink: /cards/lucky-search/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Scout only. During the site phase, tap a scout at a tapped or untapped Shadow-hold \[![](/assets/images/shadow-hold.svg)] or Dark-hold \[![](/assets/images/dark-hold.svg)]. Turn over cards from your play deck one at a time until you reveal a non-special item (it cannot be a unique item already in play) or reach the end. If you reveal such an item, the scout takes control of it. In any case, the scout must face a single strike attack with a prowess equal to 3 plus the number of cards revealed: this attack/strike cannot be canceled. Discard item if the scout is wounded by this attack. Reshuffle all revealed cards except the item back into the play deck (this does not exhaust the play deck). 
+> > _Scout only._ During the site phase, tap a scout at a tapped or untapped Shadow-hold \[![](/assets/images/shadow-hold.svg)] or Dark-hold \[![](/assets/images/dark-hold.svg)]. Turn over cards from your play deck one at a time until you reveal a non-special item (it cannot be a unique item already in play) or reach the end. If you reveal such an item, the scout takes control of it. In any case, the scout must face a single strike attack with a prowess equal to 3 plus the number of cards revealed: this attack/strike cannot be canceled. Discard item if the scout is wounded by this attack. Reshuffle all revealed cards except the item back into the play deck (this does not exhaust the play deck). 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/lucky-search/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Scout only. During the site phase, tap a scout at a tapped or untapped Shadow-hold \[![](/assets/images/shadow-hold.svg)] or Dark-hold \[![](/assets/images/dark-hold.svg)]. Turn over cards from your play deck one at a time until you reveal a non-special item (it cannot be a unique item already in play) or reach the end. If you reveal such an item, the scout takes control of it. In any case, the scout must face a single strike attack with a prowess equal to 3 plus the number of cards revealed: this attack/strike cannot be canceled. Discard item if the scout is wounded by this attack. Reshuffle all revealed cards except the item back into the play deck (this does not exhaust the play deck). 
+> > _Scout only._ During the site phase, tap a scout at a tapped or untapped Shadow-hold \[![](/assets/images/shadow-hold.svg)] or Dark-hold \[![](/assets/images/dark-hold.svg)]. Turn over cards from your play deck one at a time until you reveal a non-special item (it cannot be a unique item already in play) or reach the end. If you reveal such an item, the scout takes control of it. In any case, the scout must face a single strike attack with a prowess equal to 3 plus the number of cards revealed: this attack/strike cannot be canceled. Discard item if the scout is wounded by this attack. Reshuffle all revealed cards except the item back into the play deck (this does not exhaust the play deck). 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/lucky-search/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Scout only. During the site phase, tap a scout at a tapped or untapped Shadow-hold \[![](/assets/images/shadow-hold.svg)] or Dark-hold \[![](/assets/images/dark-hold.svg)]. Turn over cards from your play deck one at a time until you reveal a non-special item (it cannot be a unique item already in play) or reach the end. If you reveal such an item, the scout takes control of it. In any case, the scout must face a single strike attack with a prowess equal to 3 plus the number of cards revealed: this attack/strike cannot be canceled. Discard item if the scout is wounded by this attack. Reshuffle all revealed cards except the item back into the play deck (this does not exhaust the play deck). 
+> > _Scout only._ During the site phase, tap a scout at a tapped or untapped Shadow-hold \[![](/assets/images/shadow-hold.svg)] or Dark-hold \[![](/assets/images/dark-hold.svg)]. Turn over cards from your play deck one at a time until you reveal a non-special item (it cannot be a unique item already in play) or reach the end. If you reveal such an item, the scout takes control of it. In any case, the scout must face a single strike attack with a prowess equal to 3 plus the number of cards revealed: this attack/strike cannot be canceled. Discard item if the scout is wounded by this attack. Reshuffle all revealed cards except the item back into the play deck (this does not exhaust the play deck). 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

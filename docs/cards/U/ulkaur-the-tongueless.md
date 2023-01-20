@@ -19,13 +19,13 @@ permalink: /cards/ulkaur-the-tongueless/
 > > <div class="card-name">Ulkaur the Tongueless</div>
 >
 > {: .minion-character-frame .black-text .p-1 .pl-2 }
-> > 5![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 5 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior Troll
 >
 > {: .minion-character-text .black-text .p-2 }
-> > Unique. Olog-hai. Leader. Discard on a body check result of 9. +2 direct influence against Trolls, Orcs, Troll factions, and Orc factions.  "'Hee now! See now! I'm tired o' gnawing old bones and skins; I've a mind to dine on thee now.'"  ---LotRI  Home Site: Barad-dur 
+> > _**Unique.**_ _Olog-hai._ _Leader._ Discard on a body check result of 9. +2 direct influence against Trolls, Orcs, Troll factions, and Orc factions. <br>_"'Hee now! See now! I'm tired o' gnawing old bones and skins; I've a mind to dine on thee now.'"_ ***---LotRI***  <br><br>**Home Site:** Barad-dur 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【6/9】</div>

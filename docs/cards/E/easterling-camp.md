@@ -65,7 +65,7 @@ permalink: /cards/easterling-camp/
 > Horse Plains
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur Automatic-attacks: Men-each character faces 1 strike with 5 prowess (detainment against covert company)  "They journeyed in great wains, and their chieftains fought in chariots."  ---LotR 
+> > Nearest Darkhaven: Dol Guldur <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 5 prowess (detainment against covert company)  "They journeyed in great wains, and their chieftains fought in chariots."_ ***---LotR*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -105,7 +105,7 @@ permalink: /cards/easterling-camp/
 > Horse Plains
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur Automatic-attacks: Men-each character faces 1 strike with 5 prowess (detainment against covert company)  "They journeyed in great wains, and their chieftains fought in chariots."  ---LotR 
+> > Nearest Darkhaven: Dol Guldur <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 5 prowess (detainment against covert company)  "They journeyed in great wains, and their chieftains fought in chariots."_ ***---LotR*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

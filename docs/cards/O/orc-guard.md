@@ -25,7 +25,7 @@ permalink: /cards/orc-guard/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Orcs. Five strikes.  "...a grim band, four score at least of large, swart, slant-eyed Orcs..." ---LotRIII 
+> > _Orcs._ Five strikes. <br>_"...a grim band, four score at least of large, swart, slant-eyed _Orcs._.."_ ***---LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【10/5】</div>
@@ -45,7 +45,7 @@ permalink: /cards/orc-guard/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Orcs. Five strikes.  "...a grim band, four score at least of large, swart, slant-eyed Orcs..." ---LotRIII 
+> > _Orcs._ Five strikes. <br>_"...a grim band, four score at least of large, swart, slant-eyed _Orcs._.."_ ***---LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【10/5】</div>
@@ -65,7 +65,7 @@ permalink: /cards/orc-guard/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Orcs. Five strikes.  "...a grim band, four score at least of large, swart, slant-eyed Orcs..." ---LotRIII 
+> > _Orcs._ Five strikes. <br>_"...a grim band, four score at least of large, swart, slant-eyed _Orcs._.."_ ***---LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【10/5】</div>
@@ -85,7 +85,7 @@ permalink: /cards/orc-guard/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Orcs. Five strikes.  "...a grim band, four score at least of large, swart, slant-eyed Orcs..." ---LotRIII 
+> > _Orcs._ Five strikes. <br>_"...a grim band, four score at least of large, swart, slant-eyed _Orcs._.."_ ***---LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【10/5】</div>

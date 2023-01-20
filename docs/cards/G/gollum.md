@@ -19,13 +19,13 @@ permalink: /cards/gollum/
 > > <div class="card-name">Gollum</div>
 >
 > {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > 4![](/assets/images/mind.svg)
+> > 4 ![](/assets/images/mind.svg)
 >
 > {: .card-classification .pr-2 }
 > Scout Ally
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Unique. Playable at Goblin-gate or Moria.  If his company's size is less than three, tap Gollum to cancel one attack against his company keyed to Wilderness \[![](/assets/images/wilderness.svg)] or Shadow-land \[![](/assets/images/shadow-land.svg)]. Tap Gollum if he is at the same non-Haven site as The One Ring; then both Gollum and The One Ring are discarded. 
+> > _**Unique.**_ Playable at Goblin-gate or Moria.  If his company's size is less than three, tap Gollum to cancel one attack against his company keyed to Wilderness \[![](/assets/images/wilderness.svg)] or Shadow-land \[![](/assets/images/shadow-land.svg)]. Tap Gollum if he is at the same non-Haven site as The One Ring; then both Gollum and The One Ring are discarded. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【2/9】</div>
@@ -39,13 +39,13 @@ permalink: /cards/gollum/
 > > <div class="card-name">Gollum</div>
 >
 > {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > 4![](/assets/images/mind.svg)
+> > 4 ![](/assets/images/mind.svg)
 >
 > {: .card-classification .pr-2 }
 > Scout Ally
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Unique. Playable at Goblin-gate or Moria.  If his company's size is less than three, tap Gollum to cancel one attack against his company keyed to Wilderness \[![](/assets/images/wilderness.svg)] or Shadow-land \[![](/assets/images/shadow-land.svg)]. Tap Gollum if he is at the same non-Haven site as The One Ring; then both Gollum and The One Ring are discarded. 
+> > _**Unique.**_ Playable at Goblin-gate or Moria.  If his company's size is less than three, tap Gollum to cancel one attack against his company keyed to Wilderness \[![](/assets/images/wilderness.svg)] or Shadow-land \[![](/assets/images/shadow-land.svg)]. Tap Gollum if he is at the same non-Haven site as The One Ring; then both Gollum and The One Ring are discarded. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【2/9】</div>
@@ -59,13 +59,13 @@ permalink: /cards/gollum/
 > > <div class="card-name">Gollum</div>
 >
 > {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > 4![](/assets/images/mind.svg)
+> > 4 ![](/assets/images/mind.svg)
 >
 > {: .card-classification .pr-2 }
 > Scout Ally
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Unique. Playable at Goblin-gate or Moria.  If his company's size is less than three, tap Gollum to cancel one attack against his company keyed to Wilderness \[![](/assets/images/wilderness.svg)] or Shadow-land \[![](/assets/images/shadow-land.svg)]. Tap Gollum if he is at the same non-Haven site as The One Ring; then both Gollum and The One Ring are discarded. 
+> > _**Unique.**_ Playable at Goblin-gate or Moria.  If his company's size is less than three, tap Gollum to cancel one attack against his company keyed to Wilderness \[![](/assets/images/wilderness.svg)] or Shadow-land \[![](/assets/images/shadow-land.svg)]. Tap Gollum if he is at the same non-Haven site as The One Ring; then both Gollum and The One Ring are discarded. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【2/9】</div>
@@ -79,13 +79,13 @@ permalink: /cards/gollum/
 > > <div class="card-name">Gollum</div>
 >
 > {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > 4![](/assets/images/mind.svg)
+> > 4 ![](/assets/images/mind.svg)
 >
 > {: .card-classification .pr-2 }
 > Scout Ally
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Unique. Playable at Goblin-gate or Moria.  If his company's size is less than three, tap Gollum to cancel one attack against his company keyed to Wilderness \[![](/assets/images/wilderness.svg)] or Shadow-land \[![](/assets/images/shadow-land.svg)]. Tap Gollum if he is at the same non-Haven site as The One Ring; then both Gollum and The One Ring are discarded. 
+> > _**Unique.**_ Playable at Goblin-gate or Moria.  If his company's size is less than three, tap Gollum to cancel one attack against his company keyed to Wilderness \[![](/assets/images/wilderness.svg)] or Shadow-land \[![](/assets/images/shadow-land.svg)]. Tap Gollum if he is at the same non-Haven site as The One Ring; then both Gollum and The One Ring are discarded. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【2/9】</div>

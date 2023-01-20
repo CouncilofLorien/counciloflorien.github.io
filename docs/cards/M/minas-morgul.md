@@ -25,7 +25,7 @@ permalink: /cards/minas-morgul/
 > Imlad Morgul
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien Playable: Items (minor, major, greater) Automatic-attacks: Undead - 3 strikes with 8 prowess; each character wounded must make a corruption check  "...its cavernous gate, shaped like an open mouth with gleaming teeth..." ---LotRIV 
+> > Nearest Haven: Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Undead - 3 strikes with 8 prowess; each character wounded must make a corruption check  "...its cavernous gate, shaped like an open mouth with gleaming teeth..."_ ***---LotRIV*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;3&ensp;</span><span class="hero-opp-draw">&ensp;4&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/minas-morgul/
 > Imlad Morgul
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien Playable: Items (minor, major, greater) Automatic-attacks: Undead - 3 strikes with 8 prowess; each character wounded must make a corruption check  "...its cavernous gate, shaped like an open mouth with gleaming teeth..." ---LotRIV 
+> > Nearest Haven: Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Undead - 3 strikes with 8 prowess; each character wounded must make a corruption check  "...its cavernous gate, shaped like an open mouth with gleaming teeth..."_ ***---LotRIV*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;3&ensp;</span><span class="hero-opp-draw">&ensp;4&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/minas-morgul/
 > Imlad Morgul
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Site Path From Dol Guldur: \[![](/assets/images/dark-domain.svg)] \[![](/assets/images/shadow-land.svg)] \[![](/assets/images/dark-domain.svg)] \[![](/assets/images/dark-domain.svg)] \[![](/assets/images/shadow-land.svg)] Special: Any Gold Ring tested at this site is automatically tested (modify the roll by -2). Any attack against a minion company at this site is canceled.  "...the topmost course of the tower revolved slowly, first one way and then another, a huge ghostly head leering into the night." ---LotRIV 
+> > Site Path From Dol Guldur: \[![](/assets/images/dark-domain.svg)] \[![](/assets/images/shadow-land.svg)] \[![](/assets/images/dark-domain.svg)] \[![](/assets/images/dark-domain.svg)] \[![](/assets/images/shadow-land.svg)] <br>_**Special:**_ Any Gold Ring tested at this site is automatically tested (modify the roll by -2). Any attack against a minion company at this site is canceled. <br>_"...the topmost course of the tower revolved slowly, first one way and then another, a huge ghostly head leering into the night."_ ***---LotRIV*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/minas-morgul/
 > Imlad Morgul
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Site Path From Dol Guldur: \[![](/assets/images/dark-domain.svg)] \[![](/assets/images/shadow-land.svg)] \[![](/assets/images/dark-domain.svg)] \[![](/assets/images/dark-domain.svg)] \[![](/assets/images/shadow-land.svg)] Special: Any Gold Ring tested at this site is automatically tested (modify the roll by -2). Any attack against a minion company at this site is canceled.  "...the topmost course of the tower revolved slowly, first one way and then another, a huge ghostly head leering into the night." ---LotRIV 
+> > Site Path From Dol Guldur: \[![](/assets/images/dark-domain.svg)] \[![](/assets/images/shadow-land.svg)] \[![](/assets/images/dark-domain.svg)] \[![](/assets/images/dark-domain.svg)] \[![](/assets/images/shadow-land.svg)] <br>_**Special:**_ Any Gold Ring tested at this site is automatically tested (modify the roll by -2). Any attack against a minion company at this site is canceled. <br>_"...the topmost course of the tower revolved slowly, first one way and then another, a huge ghostly head leering into the night."_ ***---LotRIV*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -105,7 +105,7 @@ permalink: /cards/minas-morgul/
 > Imlad Morgul
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > Playable: Items (minor, major, greater) Automatic-attacks (2): Undead-3 strikes with 8 prowess; Nazgul (cannot be canceled)-1 strike with 15 prowess Special: Creatures keyed to this site attack normally, not as detainment.  "...and its cavernous gate, shaped like an open mouth with gleaming teeth, was gaping wide." ---LotRIV 
+> > <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br> Undead-3 strikes with 8 prowess; Nazgul (cannot be canceled)-1 strike with 15 prowess <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. <br>_"...and its cavernous gate, shaped like an open mouth with gleaming teeth, was gaping wide."_ ***---LotRIV*** 
 > 
 > {: .balrog-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;4&ensp;</span></div>

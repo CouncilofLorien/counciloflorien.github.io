@@ -25,7 +25,7 @@ permalink: /cards/whip/
 > Minor Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Orc or Troll only: provides +2 direct influence against one character with a mind and prowess less than the bearer's. Cannot be duplicated on a given character.  "'There now!' he laughed, flicking at their legs, "Where there's a whip there's a will my slugs.'"  ---LotRVI 
+> > Orc or Troll only: provides +2 direct influence against one character with a mind and prowess less than the bearer's. Cannot be duplicated on a given character. <br>_"'There now!' he laughed, flicking at their legs, "Where there's a whip there's a will my slugs.'"_ ***---LotRVI*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

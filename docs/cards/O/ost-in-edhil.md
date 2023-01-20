@@ -25,7 +25,7 @@ permalink: /cards/ost-in-edhil/
 > Hollin
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Rivendell Playable: Items (minor, gold ring) Automatic-attacks: Wolves - 3 strikes with 5 prowess  "'There is a wholesome air about Hollin. Much evil must befall a country before it wholly forgets the Elves, if once they dwelt there.'" ---LotRII 
+> > Nearest Haven: Rivendell <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Wolves - 3 strikes with 5 prowess  "'There is a wholesome air about Hollin. Much evil must befall a country before it wholly forgets the Elves, if once they dwelt there.'"_ ***---LotRII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/ost-in-edhil/
 > Hollin
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Rivendell Playable: Items (minor, gold ring) Automatic-attacks: Wolves - 3 strikes with 5 prowess  "'There is a wholesome air about Hollin. Much evil must befall a country before it wholly forgets the Elves, if once they dwelt there.'" ---LotRII 
+> > Nearest Haven: Rivendell <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Wolves - 3 strikes with 5 prowess  "'There is a wholesome air about Hollin. Much evil must befall a country before it wholly forgets the Elves, if once they dwelt there.'"_ ***---LotRII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/ost-in-edhil/
 > Hollin
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Carn Dum Playable: Items (minor, gold ring) Automatic-attacks: Wolves - 3 strikes with 5 prowess  "...he told of the Elven-smiths of Eregion and their friendship with Moria, and their eagerness for knowledge, by which Sauron ensanared them." ---LotRI 
+> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Wolves - 3 strikes with 5 prowess  "...he told of the Elven-smiths of Eregion and their friendship with Moria, and their eagerness for knowledge, by which Sauron ensanared them."_ ***---LotRI*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

@@ -25,7 +25,7 @@ permalink: /cards/sarumans-machinery/
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > Saruman specific. Playable, if you are Saruman, on your protected Isengard or your protected The White Towers. Once technology item is playable at the site during your site phase whether the site is tapped or untapped. Discard when this site is discarded or returned to your location deck. Cannot be duplicated on a given site. 
+> > _Saruman specific._ Playable, if you are Saruman, on your protected Isengard or your protected The White Towers. Once technology item is playable at the site during your site phase whether the site is tapped or untapped. Discard when this site is discarded or returned to your location deck. Cannot be duplicated on a given site. 
 > 
 > {: .stage-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

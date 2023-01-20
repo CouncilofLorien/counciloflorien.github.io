@@ -25,7 +25,7 @@ permalink: /cards/weathertop/
 > Arthedain
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Rivendell Playable: Information Automatic-attacks: Wolves - 2 strikes with 6 prowess  "On the top they found...a wide ring of ancient stone-work, now crumbling or covered with age-long grass. But in the centre a cairn of broken stones had been piled." ---LotRI 
+> > Nearest Haven: Rivendell <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Wolves - 2 strikes with 6 prowess  "On the top they found...a wide ring of ancient stone-work, now crumbling or covered with age-long grass. But in the centre a cairn of broken stones had been piled."_ ***---LotRI*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/weathertop/
 > Arthedain
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Rivendell Playable: Information Automatic-attacks: Wolves - 2 strikes with 6 prowess  "On the top they found...a wide ring of ancient stone-work, now crumbling or covered with age-long grass. But in the centre a cairn of broken stones had been piled." ---LotRI 
+> > Nearest Haven: Rivendell <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Wolves - 2 strikes with 6 prowess  "On the top they found...a wide ring of ancient stone-work, now crumbling or covered with age-long grass. But in the centre a cairn of broken stones had been piled."_ ***---LotRI*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/weathertop/
 > Arthedain
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Carn Dum Playable: Information Automatic-attacks: Wolves - 2 strikes with 6 prowess  "'...in the first days of the Northern Kingdom, they built a great watch-tower on Weathertop, Amon Sul they called it." ---LotRII 
+> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Wolves - 2 strikes with 6 prowess  "'...in the first days of the Northern Kingdom, they built a great watch-tower on Weathertop, Amon Sul they called it."_ ***---LotRII*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>

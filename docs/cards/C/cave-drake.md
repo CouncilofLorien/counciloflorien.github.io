@@ -25,7 +25,7 @@ permalink: /cards/cave-drake/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Dragon. Two strikes. Attacker chooses defending characters. Two wildernesses \[![](/assets/images/wilderness.svg)] in site path are required.  "About this time Dragons reappear in the far North and begin to afflict the Dwarves." ---LotR 
+> > _Dragon._ Two strikes. Attacker chooses defending characters. Two wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. <br>_"About this time Dragons reappear in the far North and begin to afflict the Dwarves." ---LotR 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【10/&ndash;】</div>
@@ -45,7 +45,7 @@ permalink: /cards/cave-drake/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Dragon. Two strikes. Attacker chooses defending characters. Two wildernesses \[![](/assets/images/wilderness.svg)] in site path are required.  "About this time Dragons reappear in the far North and begin to afflict the Dwarves." ---LotR 
+> > _Dragon._ Two strikes. Attacker chooses defending characters. Two wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. <br>_"About this time Dragons reappear in the far North and begin to afflict the Dwarves." ---LotR 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【10/&ndash;】</div>
@@ -65,7 +65,7 @@ permalink: /cards/cave-drake/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Dragon. Two strikes. Attacker chooses defending characters.   "'Long and slow is the life of Cave-drakes.'"  ---Kuduk Lore 
+> > _Dragon._ Two strikes. Attacker chooses defending characters.   "'Long and slow is the life of Cave-drakes.'"_ ***---Kuduk Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【10/&ndash;】</div>
@@ -85,7 +85,7 @@ permalink: /cards/cave-drake/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Dragon. Two strikes. Attacker chooses defending characters.   "'Long and slow is the life of Cave-drakes.'"  ---Kuduk Lore 
+> > _Dragon._ Two strikes. Attacker chooses defending characters.   "'Long and slow is the life of Cave-drakes.'"_ ***---Kuduk Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【10/&ndash;】</div>

@@ -25,7 +25,7 @@ permalink: /cards/white-mountain-wolves/
 > Wolf Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Unique. Playable at Stone-circle if the influence check is greater than 10. Once in play, the number required to influence this faction is 0. Standard Modifications: Dunlendings (+2).  "In the dead of night many shining eyes were seen peering over the brow of the hill." ---LotRII  
+> > _**Unique.**_ Playable at Stone-circle if the influence check is greater than 10. Once in play, the number required to influence this faction is 0. <br>_Standard Modifications:_ Dunlendings (+2). <br>_"In the dead of night many shining eyes were seen peering over the brow of the hill."_ ***---LotRII***  
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

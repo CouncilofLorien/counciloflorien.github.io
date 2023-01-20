@@ -25,7 +25,7 @@ permalink: /cards/uruk-lieutenant/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Orc. One strike. If played on a company that has already faced an Orc attack this turn, Uruk-lieutenant receives +3 prowess. Orc-lieutenant receives an additional +3 prowess if played on a company that has already faced Uruk-lieutenant this turn.  "...he turned Boromir's sword and bore him backwards..." ---LotRII 
+> > _Orc._ One strike. If played on a company that has already faced an Orc attack this turn, Uruk-lieutenant receives +3 prowess. Orc-lieutenant receives an additional +3 prowess if played on a company that has already faced Uruk-lieutenant this turn. <br>_"...he turned Boromir's sword and bore him backwards..."_ ***---LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【9/&ndash;】</div>

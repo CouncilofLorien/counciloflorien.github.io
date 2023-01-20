@@ -25,7 +25,7 @@ permalink: /cards/smaug-roused/
 > Dragon Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Unique. Manifestation of Smaug. Playable at The Lonely Mountain if the influence check is greater than 12.  Modifications: influencer discards a major item (+3) or a greater item (+6). All attacks by manifestations of Smaug against your companies are canceled. Any company moving in Withered Heath, Northern Rhovanion, Grey Mountain Narrows, and/or Iron Hills faces one attack: Dragon-two strikes at 17/8 prowess/body (attacker chooses defending characters). 
+> > _**Unique.**_ Manifestation of Smaug. Playable at The Lonely Mountain if the influence check is greater than 12.  Modifications: influencer discards a major item (+3) or a greater item (+6). All attacks by manifestations of Smaug against your companies are canceled. Any company moving in Withered Heath, Northern Rhovanion, Grey Mountain Narrows, and/or Iron Hills faces one attack: Dragon-two strikes at 17/8 prowess/body (attacker chooses defending characters). 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

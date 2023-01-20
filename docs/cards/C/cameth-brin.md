@@ -65,7 +65,7 @@ permalink: /cards/cameth-brin/
 > Rhudaur
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Carn Dum Playable: Items (minor, major*) *-weapon, armor, shield, or helmet only Automatic-attacks: Men-each character faces 1 strike with 7 prowess (detainment against covert company)  "...between the Ettenmoors, the Weather Hills, and the Misty Mountains." ---LotR 
+> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Items (minor, major*) *-weapon, armor, shield, or helmet only <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 7 prowess (detainment against covert company)  "...between the Ettenmoors, the Weather Hills, and the Misty Mountains." ---LotR 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>

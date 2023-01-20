@@ -25,7 +25,7 @@ permalink: /cards/half-trolls-of-far-harad/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Trolls. Two strikes.  "...and out of Far Harad black men like half-trolls with white eyes and red tongues." ---LotRV 
+> > _Trolls._ Two strikes. <br>_"...and out of Far Harad black men like half-trolls with white eyes and red tongues."_ ***---LotRV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【10/&ndash;】</div>
@@ -45,7 +45,7 @@ permalink: /cards/half-trolls-of-far-harad/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Trolls. Two strikes.  "...and out of Far Harad black men like half-trolls with white eyes and red tongues." ---LotRV 
+> > _Trolls._ Two strikes. <br>_"...and out of Far Harad black men like half-trolls with white eyes and red tongues."_ ***---LotRV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【10/&ndash;】</div>
@@ -65,7 +65,7 @@ permalink: /cards/half-trolls-of-far-harad/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Trolls. Two strikes.  "...and out of Far Harad black men like half-trolls with white eyes and red tongues." ---LotRV 
+> > _Trolls._ Two strikes. <br>_"...and out of Far Harad black men like half-trolls with white eyes and red tongues."_ ***---LotRV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【10/&ndash;】</div>

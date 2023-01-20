@@ -19,7 +19,7 @@ permalink: /cards/open-to-the-summons/
 > > <div class="card-name">Open to the Summons</div>
 >
 > {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > -1![](/assets/images/mind.svg)
+> > -1 ![](/assets/images/mind.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Permanent-event

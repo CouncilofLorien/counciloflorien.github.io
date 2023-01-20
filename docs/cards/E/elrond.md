@@ -19,13 +19,13 @@ permalink: /cards/elrond/
 > > <div class="character-card-name">Elrond</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 10![](/assets/images/mind.svg) 4![](/assets/images/di.svg)
+> > 10 ![](/assets/images/mind.svg) 4![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Sage/Diplomat Elf
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. When Elrond is at Rivendell, his controlling player may keep one more card than normal in his hand. -3 marshalling points if eliminated.  "Venerable...as a king crowned with many winters...hale as a tried warrior in the fulness of his strength." ---LotRII  Home Site: Rivendell 
+> > _**Unique.**_ When Elrond is at Rivendell, his controlling player may keep one more card than normal in his hand. -3 marshalling points if eliminated. <br>_"Venerable...as a king crowned with many winters...hale as a tried warrior in the fulness of his strength."_ ***---LotRII***  <br><br>**Home Site:** Rivendell 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【7/9】</div>
@@ -39,13 +39,13 @@ permalink: /cards/elrond/
 > > <div class="character-card-name">Elrond</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 10![](/assets/images/mind.svg) 4![](/assets/images/di.svg)
+> > 10 ![](/assets/images/mind.svg) 4![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Sage/Diplomat Elf
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. When Elrond is at Rivendell, his controlling player may keep one more card than normal in his hand. -3 marshalling points if eliminated.  "Venerable...as a king crowned with many winters...hale as a tried warrior in the fulness of his strength." ---LotRII  Home Site: Rivendell 
+> > _**Unique.**_ When Elrond is at Rivendell, his controlling player may keep one more card than normal in his hand. -3 marshalling points if eliminated. <br>_"Venerable...as a king crowned with many winters...hale as a tried warrior in the fulness of his strength."_ ***---LotRII***  <br><br>**Home Site:** Rivendell 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【7/9】</div>
@@ -59,13 +59,13 @@ permalink: /cards/elrond/
 > > <div class="character-card-name">Elrond</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 10![](/assets/images/mind.svg) 4![](/assets/images/di.svg)
+> > 10 ![](/assets/images/mind.svg) 4![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Sage/Diplomat Elf
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. When Elrond is at Rivendell, his controlling player may keep one more card than normal in his hand. -3 marshalling points if eliminated.  "Venerable...as a king crowned with many winters...hale as a tried warrior in the fulness of his strength." ---LotRII  Home Site: Rivendell 
+> > _**Unique.**_ When Elrond is at Rivendell, his controlling player may keep one more card than normal in his hand. -3 marshalling points if eliminated. <br>_"Venerable...as a king crowned with many winters...hale as a tried warrior in the fulness of his strength."_ ***---LotRII***  <br><br>**Home Site:** Rivendell 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【7/9】</div>
@@ -79,13 +79,13 @@ permalink: /cards/elrond/
 > > <div class="character-card-name">Elrond</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 10![](/assets/images/mind.svg) 4![](/assets/images/di.svg)
+> > 10 ![](/assets/images/mind.svg) 4![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Sage/Diplomat Elf
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. When Elrond is at Rivendell, his controlling player may keep one more card than normal in his hand. -3 marshalling points if eliminated.  "Venerable...as a king crowned with many winters...hale as a tried warrior in the fulness of his strength." ---LotRII  Home Site: Rivendell 
+> > _**Unique.**_ When Elrond is at Rivendell, his controlling player may keep one more card than normal in his hand. -3 marshalling points if eliminated. <br>_"Venerable...as a king crowned with many winters...hale as a tried warrior in the fulness of his strength."_ ***---LotRII***  <br><br>**Home Site:** Rivendell 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【7/9】</div>

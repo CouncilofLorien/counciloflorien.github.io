@@ -25,7 +25,7 @@ permalink: /cards/black-breath/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Corruption. Place with any wounded character in a company that just faced a Nazgul attack; the character receives 3 corruption points. Target character makes a body check during each of his organization phases. Whenever target character would normally heal, he instead makes a roll (or draws a #); if this result is greater than 10, he heals normally and this card is removed. This roll is modified by +2 if the character is at a Haven \[![](/assets/images/free-haven.svg)] and by +2 for each sage in his company that taps in support. 
+> > _Corruption._ Place with any wounded character in a company that just faced a Nazgul attack; the character receives 3 corruption points. Target character makes a body check during each of his organization phases. Whenever target character would normally heal, he instead makes a roll (or draws a #); if this result is greater than 10, he heals normally and this card is removed. This roll is modified by +2 if the character is at a Haven \[![](/assets/images/free-haven.svg)] and by +2 for each sage in his company that taps in support. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

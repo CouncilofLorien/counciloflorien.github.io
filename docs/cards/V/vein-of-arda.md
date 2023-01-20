@@ -25,7 +25,7 @@ permalink: /cards/vein-of-arda/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Sage or Dwarf only during the site phase at any Under-deeps site. Tap the sage or Dwarf. Tap the site if it is not already tapped. Sage or Dwarf may not untap until Vein of Arda is stored at a Haven \[![](/assets/images/free-haven.svg)]. Cannot be duplicated at a given site.  "...gems and crystals and veins of precious are glint in the polished walls..." ---LotRIII 
+> > Sage or Dwarf only during the site phase at any Under-deeps site. Tap the sage or Dwarf. Tap the site if it is not already tapped. Sage or Dwarf may not untap until Vein of Arda is stored at a Haven \[![](/assets/images/free-haven.svg)]. Cannot be duplicated at a given site. <br>_"...gems and crystals and veins of precious are glint in the polished walls..."_ ***---LotRIII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

@@ -19,13 +19,13 @@ permalink: /cards/juoma/
 > > <div class="card-name">Juoma</div>
 >
 > {: .minion-character-frame .black-text .p-1 .pl-2 }
-> > 3![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
+> > 3 ![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Ranger Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > Unique. Agent.  "The Lossoth house in the snow..." ---LotR  Home Site: Lossadan Camp, Bree 
+> > _**Unique.**_ Agent. <br>_"The Lossoth house in the snow..." ---LotR  <br><br>**Home Site:** Lossadan Camp, Bree 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【3/7】</div>

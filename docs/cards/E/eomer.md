@@ -19,13 +19,13 @@ permalink: /cards/eomer/
 > > <div class="character-card-name">Eomer</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 3![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 3 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Ranger Man
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. +2 direct influence against the Riders of Rohan faction.  "...one rode forward, a tall man...from his helm as a crest a white horsetail flowed... He bent his clear bright eyes...'I am named Eomer son of Eomund, and I am called Third Marshall of the Riddermark.'" ---LotRIII  Home Site: Edoras 
+> > _**Unique.**_ +2 direct influence against the Riders of Rohan faction. <br>_"...one rode forward, a tall man...from his helm as a crest a white horsetail flowed... He bent his clear bright eyes...'I am named Eomer son of Eomund, and I am called Third Marshall of the Riddermark.'"_ ***---LotRIII***  <br><br>**Home Site:** Edoras 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【3/8】</div>
@@ -39,13 +39,13 @@ permalink: /cards/eomer/
 > > <div class="character-card-name">Eomer</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 3![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 3 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Ranger Man
 >
 > {: .character-text .black-text .p-2 }
-> > Unique. +2 direct influence against the Riders of Rohan faction.  "...one rode forward, a tall man...from his helm as a crest a white horsetail flowed... He bent his clear bright eyes...'I am named Eomer son of Eomund, and I am called Third Marshall of the Riddermark.'" ---LotRIII  Home Site: Edoras 
+> > _**Unique.**_ +2 direct influence against the Riders of Rohan faction. <br>_"...one rode forward, a tall man...from his helm as a crest a white horsetail flowed... He bent his clear bright eyes...'I am named Eomer son of Eomund, and I am called Third Marshall of the Riddermark.'"_ ***---LotRIII***  <br><br>**Home Site:** Edoras 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【3/8】</div>

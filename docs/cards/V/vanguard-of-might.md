@@ -25,7 +25,7 @@ permalink: /cards/vanguard-of-might/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Balrog specific. Playable if a company at or maving to an Under-deeps site is facing an attack and Flame of Udun is not in play. If not in the company, The Balrog immediately joins the company. This is considered movement for The Balrog with no movement/hazard phase. The Balrog must face a strike from the attack, regardless of any conflicting effects. Following the attack, if untapped, tap The Balrog. 
+> > _Balrog specific._ Playable if a company at or maving to an Under-deeps site is facing an attack and Flame of Udun is not in play. If not in the company, The Balrog immediately joins the company. This is considered movement for The Balrog with no movement/hazard phase. The Balrog must face a strike from the attack, regardless of any conflicting effects. Following the attack, if untapped, tap The Balrog. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

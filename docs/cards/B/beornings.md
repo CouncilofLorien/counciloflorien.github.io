@@ -25,7 +25,7 @@ permalink: /cards/beornings/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Unique. Playable at Beorn's House if the influence check is greater than 7.  Standard Modifications: Men (+1).  "'...if it were not for the Beornings, the passage from Dale to Rivendell would long ago have become impassable. They are valiant men...'" ---LotRII 
+> > _**Unique.**_ Playable at Beorn's House if the influence check is greater than 7.  <br>_Standard Modifications:_ Men (+1). <br>_"'...if it were not for the Beornings, the passage from Dale to Rivendell would long ago have become impassable. They are valiant men...'"_ ***---LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/beornings/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Unique. Playable at Beorn's House if the influence check is greater than 7.  Standard Modifications: Men (+1).  "'...if it were not for the Beornings, the passage from Dale to Rivendell would long ago have become impassable. They are valiant men...'" ---LotRII 
+> > _**Unique.**_ Playable at Beorn's House if the influence check is greater than 7.  <br>_Standard Modifications:_ Men (+1). <br>_"'...if it were not for the Beornings, the passage from Dale to Rivendell would long ago have become impassable. They are valiant men...'"_ ***---LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/beornings/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Unique. Manifestation of hero Beornings. Playable at Beorn's House if the influence check is greater than 9.   "'... the Beornings are the best bakers that I know of; but they are none too willing to deal out their cakes to travelers these days.'" ---LotRII 
+> > _**Unique.**_ Manifestation of hero Beornings. Playable at Beorn's House if the influence check is greater than 9.   "'... the Beornings are the best bakers that I know of; but they are none too willing to deal out their cakes to travelers these days.'"_ ***---LotRII*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -85,7 +85,7 @@ permalink: /cards/beornings/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Unique. Playable at Beorn's House if the influence check is greater than 7.  Standard Modifications: Men (+1).  "'...if it were not for the Beornings, the passage from Dale to Rivendell would long ago have become impassable. They are valiant men...'" ---LotRII 
+> > _**Unique.**_ Playable at Beorn's House if the influence check is greater than 7.  <br>_Standard Modifications:_ Men (+1). <br>_"'...if it were not for the Beornings, the passage from Dale to Rivendell would long ago have become impassable. They are valiant men...'"_ ***---LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

@@ -25,7 +25,7 @@ permalink: /cards/stone-circle/
 > Old Pukel Gap
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Edhellond Playable: Information, Items (minor) Automatic-attacks: Pukel-creature - 1 strike with 9 prowess  "Stone rings grinned out of the ground like broken teeth in the moonlight." ---LotRI 
+> > Nearest Haven: Edhellond <br>_**Playable:**_ Information, Items (minor) <br>_**Automatic-attacks:**_<br> Pukel-creature - 1 strike with 9 prowess  "Stone rings grinned out of the ground like broken teeth in the moonlight."_ ***---LotRI*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/stone-circle/
 > Old Pukel Gap
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Edhellond Playable: Information, Items (minor) Automatic-attacks: Pukel-creature - 1 strike with 9 prowess  "Stone rings grinned out of the ground like broken teeth in the moonlight." ---LotRI 
+> > Nearest Haven: Edhellond <br>_**Playable:**_ Information, Items (minor) <br>_**Automatic-attacks:**_<br> Pukel-creature - 1 strike with 9 prowess  "Stone rings grinned out of the ground like broken teeth in the moonlight."_ ***---LotRI*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/stone-circle/
 > Old Pukel Gap
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Geann a-Lisch Playable: Information, Items (minor) Automatic-attacks: Pukel-creature - 1 strike with 9 prowess  "Standing upon the rim of the ruined circle, they saw all round below them a wide prospect..." ---LotRII 
+> > Nearest Darkhaven: Geann a-Lisch <br>_**Playable:**_ Information, Items (minor) <br>_**Automatic-attacks:**_<br> Pukel-creature - 1 strike with 9 prowess  "Standing upon the rim of the ruined circle, they saw all round below them a wide prospect..."_ ***---LotRII*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>

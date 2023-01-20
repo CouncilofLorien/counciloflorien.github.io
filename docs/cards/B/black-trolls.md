@@ -25,7 +25,7 @@ permalink: /cards/black-trolls/
 > Troll Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Unique. Playable at Cirith Gorgor or Barad-dur if the influence check is greater than 10. Once in play, the number required to influence this faction is 0. If this influence attempt is made by an Orc or Troll leader, you may place this faction under the control of that leader and not tap the site. Discard the faction if the leader moves or leaves play. 3 or more factions controlled by the same leader give 2 extra marshalling points. Standard Modifications: Morgul Orcs (+2), Orcs of Gundabad (-2).   
+> > _**Unique.**_ Playable at Cirith Gorgor or Barad-dur if the influence check is greater than 10. Once in play, the number required to influence this faction is 0. If this influence attempt is made by an Orc or Troll leader, you may place this faction under the control of that leader and not tap the site. Discard the faction if the leader moves or leaves play. 3 or more factions controlled by the same leader give 2 extra marshalling points. <br>_Standard Modifications:_ Morgul Orcs (+2), Orcs of Gundabad (-2).   
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/black-trolls/
 > Troll Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Unique. Playable at Cirith Gorgor or Barad-dur if the influence check is greater than 10. Once in play, the number required to influence this faction is 0. If this influence attempt is made by an Orc or Troll leader, you may place this faction under the control of that leader and not tap the site. Discard the faction if the leader moves or leaves play. 3 or more factions controlled by the same leader give 2 extra marshalling points. Standard Modifications: Morgul Orcs (+2), Orcs of Gundabad (-2).   
+> > _**Unique.**_ Playable at Cirith Gorgor or Barad-dur if the influence check is greater than 10. Once in play, the number required to influence this faction is 0. If this influence attempt is made by an Orc or Troll leader, you may place this faction under the control of that leader and not tap the site. Discard the faction if the leader moves or leaves play. 3 or more factions controlled by the same leader give 2 extra marshalling points. <br>_Standard Modifications:_ Morgul Orcs (+2), Orcs of Gundabad (-2).   
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

@@ -25,7 +25,7 @@ permalink: /cards/urlurtsu-nurn/
 > Nurn
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Edhellond Playable: Information, Items (minor, major) Automatic-attacks: Orcs- 4 strikes with 7 prowess  "Neither he nor Frodo knew anything of the great slave-worked fields away to the south in this wide realm, beyond the fumes of the Mountain by the sad waters of Lake Nurnen..." ---LotRVI 
+> > Nearest Haven: Edhellond <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs- 4 strikes with 7 prowess  "Neither he nor Frodo knew anything of the great slave-worked fields away to the south in this wide realm, beyond the fumes of the Mountain by the sad waters of Lake Nurnen..."_ ***---LotRVI*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;3&ensp;</span><span class="hero-opp-draw">&ensp;5&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/urlurtsu-nurn/
 > Nurn
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Minas Morgul Special: If your Ringwraith is at this site, he may tap during the organization phase to bring one Orc or Troll character from your discard pile into play at this site (as another company). The character must move to a different site from that of your Ringwraith this turn or he is discarded at the end of the movement/hazard phase. 
+> > Nearest Darkhaven: Minas Morgul <br>_**Special:**_ If your Ringwraith is at this site, he may tap during the organization phase to bring one Orc or Troll character from your discard pile into play at this site (as another company). The character must move to a different site from that of your Ringwraith this turn or he is discarded at the end of the movement/hazard phase. 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>

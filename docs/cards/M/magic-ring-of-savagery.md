@@ -25,7 +25,7 @@ permalink: /cards/magic-ring-of-savagery/
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Magic Ring. Playable only with a Gold Ring and after a test indicates a Magic Ring. Gives the bearer ranger skill. If the bearer is already a ranger, he may tap to cancel an attack against his company. Cannot be duplicated on a given character.  "'The very desire of it corrupts the heart.'" ---LotRII 
+> > _Magic Ring._ Playable only with a Gold Ring and after a test indicates a _Magic Ring._ Gives the bearer ranger skill. If the bearer is already a ranger, he may tap to cancel an attack against his company. Cannot be duplicated on a given character. <br>_"'The very desire of it corrupts the heart.'"_ ***---LotRII*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

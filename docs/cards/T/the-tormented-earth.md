@@ -25,7 +25,7 @@ permalink: /cards/the-tormented-earth/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Magic. Sorcery. Playable on a sorcery-using character facing a non-automatic-attack. Cancels the attack or gives the attack -3 prowess, your choice. Unless he is a Ringwraith, character makes a corruption check modified by -4. Cannot be duplicated against a given attack.  "...as if...smitten with a shower of bolts and huge slingstones..." ---LotRVI 
+> > _Magic._ _Sorcery._ Playable on a sorcery-using character facing a non-automatic-attack. Cancels the attack or gives the attack -3 prowess, your choice. Unless he is a Ringwraith, character makes a corruption check modified by -4. Cannot be duplicated against a given attack. <br>_"...as if...smitten with a shower of bolts and huge slingstones..."_ ***---LotRVI*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/the-tormented-earth/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Magic. Sorcery. Playable on a sorcery-using character facing a non-automatic-attack. Cancels the attack or gives the attack -3 prowess, your choice. Unless he is a Ringwraith, character makes a corruption check modified by -4. Cannot be duplicated against a given attack.  "...as if...smitten with a shower of bolts and huge slingstones..." ---LotRVI 
+> > _Magic._ _Sorcery._ Playable on a sorcery-using character facing a non-automatic-attack. Cancels the attack or gives the attack -3 prowess, your choice. Unless he is a Ringwraith, character makes a corruption check modified by -4. Cannot be duplicated against a given attack. <br>_"...as if...smitten with a shower of bolts and huge slingstones..."_ ***---LotRVI*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

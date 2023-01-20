@@ -25,7 +25,7 @@ permalink: /cards/true-fana/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Spell. Wizard only. Before resolving an attack against the Wizard's company, make a roll (or draw a #) and add the Wizard's prowess to the result. If the total is greater than the attack's prowess, all of the attack's strikes fail (if the attack has body, make body checks to determine if the attack is defeated). Otherwise, the attack proceeds normally. Wizard makes a corruption check modified by -3. 
+> > _Spell._ _Wizard only._ Before resolving an attack against the Wizard's company, make a roll (or draw a #) and add the Wizard's prowess to the result. If the total is greater than the attack's prowess, all of the attack's strikes fail (if the attack has body, make body checks to determine if the attack is defeated). Otherwise, the attack proceeds normally. Wizard makes a corruption check modified by -3. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/true-fana/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Spell. Wizard only. Before resolving an attack against the Wizard's company, make a roll (or draw a #) and add the Wizard's prowess to the result. If the total is greater than the attack's prowess, all of the attack's strikes fail (if the attack has body, make body checks to determine if the attack is defeated). Otherwise, the attack proceeds normally. Wizard makes a corruption check modified by -3. 
+> > _Spell._ _Wizard only._ Before resolving an attack against the Wizard's company, make a roll (or draw a #) and add the Wizard's prowess to the result. If the total is greater than the attack's prowess, all of the attack's strikes fail (if the attack has body, make body checks to determine if the attack is defeated). Otherwise, the attack proceeds normally. Wizard makes a corruption check modified by -3. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
