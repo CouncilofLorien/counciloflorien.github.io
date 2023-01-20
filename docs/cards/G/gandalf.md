@@ -85,7 +85,7 @@ permalink: /cards/gandalf/
 > Warrior/Scout/Sage/Diplomat Fallen-wizard
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ Can use spirit-magic. May untap at the end of your organization phase. Your characters and hero allies are each worth full marshalling points. Gandalf may tap to "test" a ring in his company.   “‘Yet the way of the Ring to my heart is by pity, pity for weakness and the desire of strength to do good.’”_ ***---&#65279;LotRI***  <br><br>**Home Site:** Any Free-hold 
+> > _**Unique.**_ Can use spirit-magic. May untap at the end of your organization phase. Your characters and hero allies are each worth full marshalling points. Gandalf may tap to "test" a ring in his company.   <br>_“‘Yet the way of the Ring to my heart is by pity, pity for weakness and the desire of strength to do good.’”_ ***---&#65279;LotRI***  <br><br>**Home Site:** Any Free-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【6/9】</div>

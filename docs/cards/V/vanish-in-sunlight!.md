@@ -25,7 +25,7 @@ permalink: /cards/vanish-in-sunlight!/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Modify the prowess of one Nazgul or Undead attack by -2 (by -4 if Gates of Morning is in play).   “...and there was Tom's head (hat, feather, and all) framed against the light of the sun rising behind him."_ ***---&#65279;LotRI*** 
+> > Modify the prowess of one Nazgul or Undead attack by -2 (by -4 if Gates of Morning is in play).   <br>_“...and there was Tom's head (hat, feather, and all) framed against the light of the sun rising behind him."_ ***---&#65279;LotRI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

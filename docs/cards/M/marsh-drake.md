@@ -45,7 +45,7 @@ permalink: /cards/marsh-drake/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Drake._ Two strikes.   “‘...that is the dragon's way, he has piled it all up in a great heap far inside, and sleeps on it for a bed."_ ***---&#65279;Hob*** 
+> > _Drake._ Two strikes.   <br>_“‘...that is the dragon's way, he has piled it all up in a great heap far inside, and sleeps on it for a bed."_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【11/&ndash;】</div>
@@ -85,7 +85,7 @@ permalink: /cards/marsh-drake/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Drake._ Two strikes.   “‘...that is the dragon's way, he has piled it all up in a great heap far inside, and sleeps on it for a bed."_ ***---&#65279;Hob*** 
+> > _Drake._ Two strikes.   <br>_“‘...that is the dragon's way, he has piled it all up in a great heap far inside, and sleeps on it for a bed."_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【11/&ndash;】</div>

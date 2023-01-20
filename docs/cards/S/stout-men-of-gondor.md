@@ -25,7 +25,7 @@ permalink: /cards/stout-men-of-gondor/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Men._ Six strikes. Detainment against hero and covert companies. May be played keyed to Old Pukel-land, Old Pukel Gap, Andrast, Anfalas, Lamedon, Belfalas, Lebennin, Anorien, or Rohan; or at its sites in these regions.   “‘But still we fight on, holding all the west shores of Anduin; and those who shelter behind us give us praise...’”_ ***---&#65279;LotRII*** 
+> > _Men._ Six strikes. Detainment against hero and covert companies. May be played keyed to Old Pukel-land, Old Pukel Gap, Andrast, Anfalas, Lamedon, Belfalas, Lebennin, Anorien, or Rohan; or at its sites in these regions.   <br>_“‘But still we fight on, holding all the west shores of Anduin; and those who shelter behind us give us praise...’”_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【7/&ndash;】</div>
@@ -45,7 +45,7 @@ permalink: /cards/stout-men-of-gondor/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Men._ Six strikes. Detainment against hero and covert companies. May be played keyed to Old Pukel-land, Old Pukel Gap, Andrast, Anfalas, Lamedon, Belfalas, Lebennin, Anorien, or Rohan; or at its sites in these regions.   “‘But still we fight on, holding all the west shores of Anduin; and those who shelter behind us give us praise...’”_ ***---&#65279;LotRII*** 
+> > _Men._ Six strikes. Detainment against hero and covert companies. May be played keyed to Old Pukel-land, Old Pukel Gap, Andrast, Anfalas, Lamedon, Belfalas, Lebennin, Anorien, or Rohan; or at its sites in these regions.   <br>_“‘But still we fight on, holding all the west shores of Anduin; and those who shelter behind us give us praise...’”_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【7/&ndash;】</div>

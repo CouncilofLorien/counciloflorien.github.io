@@ -25,7 +25,7 @@ permalink: /cards/lawless-men/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Men._ Two strikes.   “...a most unsavory variety of brigands, rogues, and wanderers roam the Wilderlands, wresting their livelihood from the trunks of unwary or unfortunate travelers of means."_ ***---&#65279;Kuduk Lore*** 
+> > _Men._ Two strikes.   <br>_“...a most unsavory variety of brigands, rogues, and wanderers roam the Wilderlands, wresting their livelihood from the trunks of unwary or unfortunate travelers of means."_ ***---&#65279;Kuduk Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【9/&ndash;】</div>
@@ -45,7 +45,7 @@ permalink: /cards/lawless-men/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Men._ Two strikes.   “...a most unsavory variety of brigands, rogues, and wanderers roam the Wilderlands, wresting their livelihood from the trunks of unwary or unfortunate travelers of means."_ ***---&#65279;Kuduk Lore*** 
+> > _Men._ Two strikes.   <br>_“...a most unsavory variety of brigands, rogues, and wanderers roam the Wilderlands, wresting their livelihood from the trunks of unwary or unfortunate travelers of means."_ ***---&#65279;Kuduk Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【9/&ndash;】</div>

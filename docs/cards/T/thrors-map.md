@@ -25,7 +25,7 @@ permalink: /cards/thrors-map/
 > Minor Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Discard Thror's Map to untap a site with a Dragon automatic-attack.   “...he spread a piece of parchment rather like a map. 'This was made by Thror, your grandfather, Thorin...’”_ ***---&#65279;Hob*** 
+> > _**Unique.**_ Discard Thror's Map to untap a site with a Dragon automatic-attack.   <br>_“...he spread a piece of parchment rather like a map. 'This was made by Thror, your grandfather, Thorin...’”_ ***---&#65279;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/thrors-map/
 > Minor Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Discard Thror's Map to untap a site with a Dragon automatic-attack.   “...he spread a piece of parchment rather like a map. 'This was made by Thror, your grandfather, Thorin...’”_ ***---&#65279;Hob*** 
+> > _**Unique.**_ Discard Thror's Map to untap a site with a Dragon automatic-attack.   <br>_“...he spread a piece of parchment rather like a map. 'This was made by Thror, your grandfather, Thorin...’”_ ***---&#65279;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

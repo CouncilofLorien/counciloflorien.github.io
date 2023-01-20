@@ -45,7 +45,7 @@ permalink: /cards/land-drake/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Drake._ One strike. Attacker chooses defending characters.   “‘He came with great thunder, and lightning, and a tempest of doom.’”_ ***---&#65279;Kuduk Lore*** 
+> > _Drake._ One strike. Attacker chooses defending characters.   <br>_“‘He came with great thunder, and lightning, and a tempest of doom.’”_ ***---&#65279;Kuduk Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【12/6】</div>

@@ -65,7 +65,7 @@ permalink: /cards/lesser-spiders/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Spiders._ Four strikes.   “...along the ground and the branches, hairy legs waving, nippers and spinners snapping, eyes popping, full of froth and rage."_ ***---&#65279;Hob*** 
+> > _Spiders._ Four strikes.   <br>_“...along the ground and the branches, hairy legs waving, nippers and spinners snapping, eyes popping, full of froth and rage."_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【7/&ndash;】</div>
@@ -85,7 +85,7 @@ permalink: /cards/lesser-spiders/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Spiders._ Four strikes.   “...along the ground and the branches, hairy legs waving, nippers and spinners snapping, eyes popping, full of froth and rage."_ ***---&#65279;Hob*** 
+> > _Spiders._ Four strikes.   <br>_“...along the ground and the branches, hairy legs waving, nippers and spinners snapping, eyes popping, full of froth and rage."_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【7/&ndash;】</div>
@@ -105,7 +105,7 @@ permalink: /cards/lesser-spiders/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Spiders._ Four strikes.   “...along the ground and the branches, hairy legs waving, nippers and spinners snapping, eyes popping, full of froth and rage."_ ***---&#65279;Hob*** 
+> > _Spiders._ Four strikes.   <br>_“...along the ground and the branches, hairy legs waving, nippers and spinners snapping, eyes popping, full of froth and rage."_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【7/&ndash;】</div>

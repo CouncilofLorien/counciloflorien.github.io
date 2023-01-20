@@ -65,7 +65,7 @@ permalink: /cards/woodmen/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Manifestation of hero Woodmen. Playable at Woodmen Town if the influence check is greater than 10.   “‘Swords in these parts are mostly blunt, and exes are used for trees , and shields as cradles or dish covers...’”- Hob  
+> > _**Unique.**_ Manifestation of hero Woodmen. Playable at Woodmen Town if the influence check is greater than 10.   <br>_“‘Swords in these parts are mostly blunt, and exes are used for trees , and shields as cradles or dish covers...’”- Hob  
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

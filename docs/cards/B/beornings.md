@@ -65,7 +65,7 @@ permalink: /cards/beornings/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Manifestation of hero Beornings. Playable at Beorn's House if the influence check is greater than 9.   “‘... the Beornings are the best bakers that I know of; but they are none too willing to deal out their cakes to travelers these days.’”_ ***---&#65279;LotRII*** 
+> > _**Unique.**_ Manifestation of hero Beornings. Playable at Beorn's House if the influence check is greater than 9.   <br>_“‘... the Beornings are the best bakers that I know of; but they are none too willing to deal out their cakes to travelers these days.’”_ ***---&#65279;LotRII*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

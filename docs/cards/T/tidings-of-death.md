@@ -25,7 +25,7 @@ permalink: /cards/tidings-of-death/
 > Long-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > -1 to each influence check against a faction, but for each influence check make an additional roll (or draw an additional #) and choose which result to use. May also be played as a hero resource.   “‘It was Boromir, my brother, dead. I knew his gear, his 
+> > -1 to each influence check against a faction, but for each influence check make an additional roll (or draw an additional #) and choose which result to use. May also be played as a hero resource.   <br>_“‘It was Boromir, my brother, dead. I knew his gear, his 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
