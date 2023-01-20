@@ -25,7 +25,7 @@ permalink: /cards/elf-stone/
 > Minor Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > #ERROR!
+> > +2 direct influence used against an Elf character or an Elf faction. May not be duplicated on a given character. <br>_"Then she lifted from her lap a great stone of a great clear green, set in a brooch that was wrought in the likeness of an eagle with outspread wings; and as she held it up the gem flashed like the sun shining through the leaves of spring."_ ***---LotRII***
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/elf-stone/
 > Minor Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > #ERROR!
+> > +2 direct influence used against an Elf character or an Elf faction. May not be duplicated on a given character. <br>_"Then she lifted from her lap a great stone of a great clear green, set in a brooch that was wrought in the likeness of an eagle with outspread wings; and as she held it up the gem flashed like the sun shining through the leaves of spring."_ ***---LotRII***
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/elf-stone/
 > Minor Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > #ERROR!
+> > +2 direct influence used against an Elf character or an Elf faction. May not be duplicated on a given character. <br>_"Then she lifted from her lap a great stone of a great clear green, set in a brooch that was wrought in the likeness of an eagle with outspread wings; and as she held it up the gem flashed like the sun shining through the leaves of spring."_ ***---LotRII***
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

@@ -25,7 +25,7 @@ permalink: /cards/blazon-of-the-eye/
 > Minor Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > #ERROR!
+> > +2 to direct influence against factions. Cannot be duplicated on a given character. <br>_"...and a single banner, black but bearing on it in red the evil Eye."_ ***---LotRV***
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/blazon-of-the-eye/
 > Minor Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > #ERROR!
+> > +2 to direct influence against factions. Cannot be duplicated on a given character. <br>_"...and a single banner, black but bearing on it in red the evil Eye."_ ***---LotRV***
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
