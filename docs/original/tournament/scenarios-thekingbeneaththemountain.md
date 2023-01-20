@@ -28,7 +28,7 @@ You are a Dwarf lord gathering a host of companions to your side. Who will marsh
 ### Special Rules
 
 {: .float-right }
-![](/assets/images/IronHillDwarves.png)
+![](/assets/images/IronHillDwarves.gif)
 
 - Only marshalling points from Dwarven factions, Dwarf characters, items, and defeated creatures count towards victory.
 - Marshalling points for Dwarven factions are doubled if you control both the _Iron Hill Dwarves_ and the _Blue Mountain Dwarves_.
