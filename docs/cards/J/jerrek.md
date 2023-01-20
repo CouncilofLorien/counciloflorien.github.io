@@ -25,7 +25,7 @@ permalink: /cards/jerrek/
 > Warrior/Scout Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ +1 direct influence against any faction playable at Southron Oasis. <br>_“‘You speak of the false cripple Sen Jerrek, dark arbitrator, ambassador to thieves, spy for any and all who trade darkness.’”_ ***---Kuduk Lore***  <br><br>**Home Site:** Southron Oasis 
+> > _**Unique.**_ +1 direct influence against any faction playable at Southron Oasis. <br>_“‘You speak of the false cripple Sen Jerrek, dark arbitrator, ambassador to thieves, spy for any and all who trade darkness.’”_ ***---&NoBreak;Kuduk Lore***  <br><br>**Home Site:** Southron Oasis 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【5/8】</div>
@@ -45,7 +45,7 @@ permalink: /cards/jerrek/
 > Warrior/Scout Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ +1 direct influence against any faction playable at Southron Oasis. <br>_“‘You speak of the false cripple Sen Jerrek, dark arbitrator, ambassador to thieves, spy for any and all who trade darkness.’”_ ***---Kuduk Lore***  <br><br>**Home Site:** Southron Oasis 
+> > _**Unique.**_ +1 direct influence against any faction playable at Southron Oasis. <br>_“‘You speak of the false cripple Sen Jerrek, dark arbitrator, ambassador to thieves, spy for any and all who trade darkness.’”_ ***---&NoBreak;Kuduk Lore***  <br><br>**Home Site:** Southron Oasis 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【5/8】</div>

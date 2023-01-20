@@ -25,7 +25,7 @@ permalink: /cards/orc-warriors/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Orcs._ Three strikes. <br>_"The yells and yammering, croaking, jibbering and jabbering; howls, growls and curses; shrieking and shriking, that followed were beyond description. Several hundred wild cats and wolves being roasted slowly alive together would not have compared with it."_ ***---Hob*** 
+> > _Orcs._ Three strikes. <br>_"The yells and yammering, croaking, jibbering and jabbering; howls, growls and curses; shrieking and shriking, that followed were beyond description. Several hundred wild cats and wolves being roasted slowly alive together would not have compared with it."_ ***---&NoBreak;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【7/&ndash;】</div>
@@ -45,7 +45,7 @@ permalink: /cards/orc-warriors/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Orcs._ Three strikes. <br>_"The yells and yammering, croaking, jibbering and jabbering; howls, growls and curses; shrieking and shriking, that followed were beyond description. Several hundred wild cats and wolves being roasted slowly alive together would not have compared with it."_ ***---Hob*** 
+> > _Orcs._ Three strikes. <br>_"The yells and yammering, croaking, jibbering and jabbering; howls, growls and curses; shrieking and shriking, that followed were beyond description. Several hundred wild cats and wolves being roasted slowly alive together would not have compared with it."_ ***---&NoBreak;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【7/&ndash;】</div>
@@ -65,7 +65,7 @@ permalink: /cards/orc-warriors/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Orcs._ Three strikes. <br>_"The yells and yammering, croaking, jibbering and jabbering; howls, growls and curses; shrieking and shriking, that followed were beyond description. Several hundred wild cats and wolves being roasted slowly alive together would not have compared with it."_ ***---Hob*** 
+> > _Orcs._ Three strikes. <br>_"The yells and yammering, croaking, jibbering and jabbering; howls, growls and curses; shrieking and shriking, that followed were beyond description. Several hundred wild cats and wolves being roasted slowly alive together would not have compared with it."_ ***---&NoBreak;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【7/&ndash;】</div>

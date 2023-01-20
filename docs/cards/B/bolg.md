@@ -25,7 +25,7 @@ permalink: /cards/bolg/
 > Warrior/Ranger Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ _Balrog specific._ _Leader._ Discard on a body check result of 9. +3 direct influence against Orcs and Orc factions. +2 direct influence against Balrog specific characters.   “‘Bolg of the North is coming.’”_ ***---Hob***  <br><br>**Home Site:** Moria, The Under-gates 
+> > _**Unique.**_ _Balrog specific._ _Leader._ Discard on a body check result of 9. +3 direct influence against Orcs and Orc factions. +2 direct influence against Balrog specific characters.   “‘Bolg of the North is coming.’”_ ***---&NoBreak;Hob***  <br><br>**Home Site:** Moria, The Under-gates 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【7/9】</div>

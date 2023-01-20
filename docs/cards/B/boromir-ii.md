@@ -25,7 +25,7 @@ permalink: /cards/boromir-ii/
 > Warrior Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Men of Anorien faction. -1 to all of his corruption checks. <br>_“‘And very valiant indeed he was: no heir of Minas Tirith has for long years been so hardy in toil, so onward in battle, or blown a mightier note on the Great Horn.’”_ ***---LotRIV***  <br><br>**Home Site:** Minas Tirith 
+> > _**Unique.**_ +2 direct influence against the Men of Anorien faction. -1 to all of his corruption checks. <br>_“‘And very valiant indeed he was: no heir of Minas Tirith has for long years been so hardy in toil, so onward in battle, or blown a mightier note on the Great Horn.’”_ ***---&NoBreak;LotRIV***  <br><br>**Home Site:** Minas Tirith 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【6/7】</div>
@@ -45,7 +45,7 @@ permalink: /cards/boromir-ii/
 > Warrior Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Men of Anorien faction. -1 to all of his corruption checks. <br>_“‘And very valiant indeed he was: no heir of Minas Tirith has for long years been so hardy in toil, so onward in battle, or blown a mightier note on the Great Horn.’”_ ***---LotRIV***  <br><br>**Home Site:** Minas Tirith 
+> > _**Unique.**_ +2 direct influence against the Men of Anorien faction. -1 to all of his corruption checks. <br>_“‘And very valiant indeed he was: no heir of Minas Tirith has for long years been so hardy in toil, so onward in battle, or blown a mightier note on the Great Horn.’”_ ***---&NoBreak;LotRIV***  <br><br>**Home Site:** Minas Tirith 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【6/7】</div>
@@ -65,7 +65,7 @@ permalink: /cards/boromir-ii/
 > Warrior Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Men of Anorien faction. -1 to all of his corruption checks. <br>_“‘And very valiant indeed he was: no heir of Minas Tirith has for long years been so hardy in toil, so onward in battle, or blown a mightier note on the Great Horn.’”_ ***---LotRIV***  <br><br>**Home Site:** Minas Tirith 
+> > _**Unique.**_ +2 direct influence against the Men of Anorien faction. -1 to all of his corruption checks. <br>_“‘And very valiant indeed he was: no heir of Minas Tirith has for long years been so hardy in toil, so onward in battle, or blown a mightier note on the Great Horn.’”_ ***---&NoBreak;LotRIV***  <br><br>**Home Site:** Minas Tirith 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【6/7】</div>
@@ -85,7 +85,7 @@ permalink: /cards/boromir-ii/
 > Warrior Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Men of Anorien faction. -1 to all of his corruption checks. <br>_“‘And very valiant indeed he was: no heir of Minas Tirith has for long years been so hardy in toil, so onward in battle, or blown a mightier note on the Great Horn.’”_ ***---LotRIV***  <br><br>**Home Site:** Minas Tirith 
+> > _**Unique.**_ +2 direct influence against the Men of Anorien faction. -1 to all of his corruption checks. <br>_“‘And very valiant indeed he was: no heir of Minas Tirith has for long years been so hardy in toil, so onward in battle, or blown a mightier note on the Great Horn.’”_ ***---&NoBreak;LotRIV***  <br><br>**Home Site:** Minas Tirith 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【6/7】</div>

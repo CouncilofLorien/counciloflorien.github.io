@@ -25,7 +25,7 @@ permalink: /cards/orc-captain/
 > Warrior Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _Leader._ Discard on a body check result of 8. +3 direct influence against Orcs and Orc factions. <br>_“‘Their masters would not dare give such plain orders to Orcs, even if they knew so much themselves...they are not trusty servants.’”_ ***---LotRIII***  <br><br>**Home Site:** Any Dark-hold 
+> > _Leader._ Discard on a body check result of 8. +3 direct influence against Orcs and Orc factions. <br>_“‘Their masters would not dare give such plain orders to Orcs, even if they knew so much themselves...they are not trusty servants.’”_ ***---&NoBreak;LotRIII***  <br><br>**Home Site:** Any Dark-hold 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【5/8】</div>
@@ -45,7 +45,7 @@ permalink: /cards/orc-captain/
 > Warrior Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _Leader._ Discard on a body check result of 8. +3 direct influence against Orcs and Orc factions. <br>_“‘Their masters would not dare give such plain orders to Orcs, even if they knew so much themselves...they are not trusty servants.’”_ ***---LotRIII***  <br><br>**Home Site:** Any Dark-hold 
+> > _Leader._ Discard on a body check result of 8. +3 direct influence against Orcs and Orc factions. <br>_“‘Their masters would not dare give such plain orders to Orcs, even if they knew so much themselves...they are not trusty servants.’”_ ***---&NoBreak;LotRIII***  <br><br>**Home Site:** Any Dark-hold 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【5/8】</div>
@@ -65,7 +65,7 @@ permalink: /cards/orc-captain/
 > Warrior Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _Leader._ Discard on a body check result of 8. +3 direct influence against Orcs and Orc factions. <br>_“‘Their masters would not dare give such plain orders to Orcs, even if they knew so much themselves...they are not trusty servants.’”_ ***---LotRIII***  <br><br>**Home Site:** Any Dark-hold 
+> > _Leader._ Discard on a body check result of 8. +3 direct influence against Orcs and Orc factions. <br>_“‘Their masters would not dare give such plain orders to Orcs, even if they knew so much themselves...they are not trusty servants.’”_ ***---&NoBreak;LotRIII***  <br><br>**Home Site:** Any Dark-hold 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【5/8】</div>

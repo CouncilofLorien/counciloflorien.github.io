@@ -25,7 +25,7 @@ permalink: /cards/orc-draughts/
 > Minor Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Discard to give +1 prowess to all characters in bearer's company until the end of turn. <br>_"Ugluk thrust a flask between his teeth and poured some burning liquid down his throat: he felt a fierce glow flow through him. The pain in his legs and ankles vanished."_ ***---LotRIII*** 
+> > Discard to give +1 prowess to all characters in bearer's company until the end of turn. <br>_"Ugluk thrust a flask between his teeth and poured some burning liquid down his throat: he felt a fierce glow flow through him. The pain in his legs and ankles vanished."_ ***---&NoBreak;LotRIII*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【(+1)/&ndash;】</div>

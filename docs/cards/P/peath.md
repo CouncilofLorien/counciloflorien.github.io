@@ -25,7 +25,7 @@ permalink: /cards/peath/
 > Ranger/Diplomat Man
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +4 direct influence against the Dunlending faction. Against Nazgul, +5 to her prowess, his body is halved (round up). <br>_“...a Dunlending conjurer...given to strange beliefs; yet she was comely, wise and fair...possessed by a proud untameable spirit."_ ***---Kuduk Lore***  <br><br>**Home Site:** Dunnish Clan-hold 
+> > _**Unique.**_ +4 direct influence against the Dunlending faction. Against Nazgul, +5 to her prowess, his body is halved (round up). <br>_“...a Dunlending conjurer...given to strange beliefs; yet she was comely, wise and fair...possessed by a proud untameable spirit."_ ***---&NoBreak;Kuduk Lore***  <br><br>**Home Site:** Dunnish Clan-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【4/7】</div>
@@ -45,7 +45,7 @@ permalink: /cards/peath/
 > Ranger/Diplomat Man
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +4 direct influence against the Dunlending faction. Against Nazgul, +5 to her prowess, his body is halved (round up). <br>_“...a Dunlending conjurer...given to strange beliefs; yet she was comely, wise and fair...possessed by a proud untameable spirit."_ ***---Kuduk Lore***  <br><br>**Home Site:** Dunnish Clan-hold 
+> > _**Unique.**_ +4 direct influence against the Dunlending faction. Against Nazgul, +5 to her prowess, his body is halved (round up). <br>_“...a Dunlending conjurer...given to strange beliefs; yet she was comely, wise and fair...possessed by a proud untameable spirit."_ ***---&NoBreak;Kuduk Lore***  <br><br>**Home Site:** Dunnish Clan-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【4/7】</div>
@@ -65,7 +65,7 @@ permalink: /cards/peath/
 > Ranger/Diplomat Man
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +4 direct influence against the Dunlending faction. Against Nazgul, +5 to her prowess, his body is halved (round up). <br>_“...a Dunlending conjurer...given to strange beliefs; yet she was comely, wise and fair...possessed by a proud untameable spirit."_ ***---Kuduk Lore***  <br><br>**Home Site:** Dunnish Clan-hold 
+> > _**Unique.**_ +4 direct influence against the Dunlending faction. Against Nazgul, +5 to her prowess, his body is halved (round up). <br>_“...a Dunlending conjurer...given to strange beliefs; yet she was comely, wise and fair...possessed by a proud untameable spirit."_ ***---&NoBreak;Kuduk Lore***  <br><br>**Home Site:** Dunnish Clan-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【4/7】</div>

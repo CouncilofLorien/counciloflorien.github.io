@@ -25,7 +25,7 @@ permalink: /cards/diminish-and-depart/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on an Elf, Hobbit, or Wizard. All Elves and Hobbits in the target's company have +1 mind, and a Wizard in the company has -1 direct influence. Tap target character at a Haven \[![](/assets/images/free-haven.svg)] during the organization phase to discard this card. Cannot be duplicated in a given company. <br>_“‘...if all the fair folk take to to the Havens, it will be a duller world for those who are doomed to stay.’”_ ***---LotRV*** 
+> > Playable on an Elf, Hobbit, or Wizard. All Elves and Hobbits in the target's company have +1 mind, and a Wizard in the company has -1 direct influence. Tap target character at a Haven \[![](/assets/images/free-haven.svg)] during the organization phase to discard this card. Cannot be duplicated in a given company. <br>_“‘...if all the fair folk take to to the Havens, it will be a duller world for those who are doomed to stay.’”_ ***---&NoBreak;LotRV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

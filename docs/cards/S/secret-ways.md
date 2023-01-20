@@ -25,7 +25,7 @@ permalink: /cards/secret-ways/
 > Long-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > The roll required to move between adjacent Under-deeps sites is decreased by 4. Cannot be duplicated.   “‘In that despair, my enemy was my only hope, and I pursued him, clutching at his heel. Thus he brought me at last to the secret ways of Khazad-dum too well he knew them all...’”_ ***---LotRIII*** 
+> > The roll required to move between adjacent Under-deeps sites is decreased by 4. Cannot be duplicated.   “‘In that despair, my enemy was my only hope, and I pursued him, clutching at his heel. Thus he brought me at last to the secret ways of Khazad-dum too well he knew them all...’”_ ***---&NoBreak;LotRIII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

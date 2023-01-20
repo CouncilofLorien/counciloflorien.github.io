@@ -65,7 +65,7 @@ permalink: /cards/lure-of-expedience/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Corruption._ Playable on a non-Ringwraith, non-Wizard, non ---Hobbit character. Target character receives 2 corruption points and makes a corruption check each time a character in his company gains an item (including a ring special item). During his organization phase, the character may tap to attempt to remove this card by making a roll (drawing a #)-if this result is greater than 5, discard this card. Cannot be duplicated on a given character. 
+> > _Corruption._ Playable on a non-Ringwraith, non-Wizard, non ---&NoBreak;Hobbit character. Target character receives 2 corruption points and makes a corruption check each time a character in his company gains an item (including a ring special item). During his organization phase, the character may tap to attempt to remove this card by making a roll (drawing a #)-if this result is greater than 5, discard this card. Cannot be duplicated on a given character. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -85,7 +85,7 @@ permalink: /cards/lure-of-expedience/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Corruption._ Playable on a non-Ringwraith, non-Wizard, non ---Hobbit character. Target character receives 2 corruption points and makes a corruption check each time a character in his company gains an item (including a ring special item). During his organization phase, the character may tap to attempt to remove this card by making a roll (drawing a #)-if this result is greater than 5, discard this card. Cannot be duplicated on a given character. 
+> > _Corruption._ Playable on a non-Ringwraith, non-Wizard, non ---&NoBreak;Hobbit character. Target character receives 2 corruption points and makes a corruption check each time a character in his company gains an item (including a ring special item). During his organization phase, the character may tap to attempt to remove this card by making a roll (drawing a #)-if this result is greater than 5, discard this card. Cannot be duplicated on a given character. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -105,7 +105,7 @@ permalink: /cards/lure-of-expedience/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Corruption._ Playable on a non-Ringwraith, non-Wizard, non ---Hobbit character. Target character receives 2 corruption points and makes a corruption check each time a character in his company gains an item (including a ring special item). During his organization phase, the character may tap to attempt to remove this card by making a roll (drawing a #)-if this result is greater than 5, discard this card. Cannot be duplicated on a given character. 
+> > _Corruption._ Playable on a non-Ringwraith, non-Wizard, non ---&NoBreak;Hobbit character. Target character receives 2 corruption points and makes a corruption check each time a character in his company gains an item (including a ring special item). During his organization phase, the character may tap to attempt to remove this card by making a roll (drawing a #)-if this result is greater than 5, discard this card. Cannot be duplicated on a given character. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

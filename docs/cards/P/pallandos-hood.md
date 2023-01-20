@@ -25,7 +25,7 @@ permalink: /cards/pallandos-hood/
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > _**Unique.**_ Palando specific. Place this card on Pallando if he is in play. If on Pallando, you may tap Pallando's Hood during your end-of-turn phase to take Gifts as Given of Old, Wizard's Voice, or Eyes of Mandos from your discard pile to your hand. <br>_“...even as the stars moved in Endor's skies, so the spangles on Pallando's hood mirrored the heaven's gyrations."_ ***---Kuduk Lore*** 
+> > _**Unique.**_ Palando specific. Place this card on Pallando if he is in play. If on Pallando, you may tap Pallando's Hood during your end-of-turn phase to take Gifts as Given of Old, Wizard's Voice, or Eyes of Mandos from your discard pile to your hand. <br>_“...even as the stars moved in Endor's skies, so the spangles on Pallando's hood mirrored the heaven's gyrations."_ ***---&NoBreak;Kuduk Lore*** 
 > 
 > {: .stage-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

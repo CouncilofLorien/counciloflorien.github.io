@@ -25,7 +25,7 @@ permalink: /cards/zarak-dum/
 > Angmar
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Dragon-1 strike with 11 prowess  "The intricate and exquisite Dwarven city delved into the mountains of Angmar was abandoned in the aftermath of a deadly pestilence."_ ***---Kuduk Lore*** 
+> > Nearest Haven: Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Dragon-1 strike with 11 prowess  "The intricate and exquisite Dwarven city delved into the mountains of Angmar was abandoned in the aftermath of a deadly pestilence."_ ***---&NoBreak;Kuduk Lore*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/zarak-dum/
 > Angmar
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Dargon-1 strike with 11 prowess  “‘While an armed host lies before the doors, we look upon you as foes and thieves."_ ***---Hob*** 
+> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Dargon-1 strike with 11 prowess  “‘While an armed host lies before the doors, we look upon you as foes and thieves."_ ***---&NoBreak;Hob*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/zarak-dum/
 > Angmar
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Dragon-1 strike with 11 prowess  "The intricate and exquisite Dwarven city delved into the mountains of Angmar was abandoned in the aftermath of a deadly pestilence."_ ***---Kuduk Lore*** 
+> > Nearest Haven: Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Dragon-1 strike with 11 prowess  "The intricate and exquisite Dwarven city delved into the mountains of Angmar was abandoned in the aftermath of a deadly pestilence."_ ***---&NoBreak;Kuduk Lore*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>

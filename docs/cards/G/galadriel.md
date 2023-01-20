@@ -25,7 +25,7 @@ permalink: /cards/galadriel/
 > Scout/Sage/Diplomat Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ When Galadriel is at Lorien, her controlling player may keep one more card than normal in his hand. -3 marshalling points if eliminated. <br>_"Tall and white and fair...and beautiful beyond enduring, terrible, and worshipful."_ ***---LotRII***  <br><br>**Home Site:** Lorien 
+> > _**Unique.**_ When Galadriel is at Lorien, her controlling player may keep one more card than normal in his hand. -3 marshalling points if eliminated. <br>_"Tall and white and fair...and beautiful beyond enduring, terrible, and worshipful."_ ***---&NoBreak;LotRII***  <br><br>**Home Site:** Lorien 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【3/10】</div>
@@ -45,7 +45,7 @@ permalink: /cards/galadriel/
 > Scout/Sage/Diplomat Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ When Galadriel is at Lorien, her controlling player may keep one more card than normal in his hand. -3 marshalling points if eliminated. <br>_"Tall and white and fair...and beautiful beyond enduring, terrible, and worshipful."_ ***---LotRII***  <br><br>**Home Site:** Lorien 
+> > _**Unique.**_ When Galadriel is at Lorien, her controlling player may keep one more card than normal in his hand. -3 marshalling points if eliminated. <br>_"Tall and white and fair...and beautiful beyond enduring, terrible, and worshipful."_ ***---&NoBreak;LotRII***  <br><br>**Home Site:** Lorien 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【3/10】</div>

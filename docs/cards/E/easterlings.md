@@ -25,7 +25,7 @@ permalink: /cards/easterlings/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Easterling Camp if the influence check is greater than 9.  <br>_Standard Modifications:_ Dunadain (-2). <br>_"The Wainriders were a people, or a confederacy of many peoples, that came from the East; but they were stronger and better armed than any that had appeared before."_ ***---LotR*** 
+> > _**Unique.**_ Playable at Easterling Camp if the influence check is greater than 9.  <br>_Standard Modifications:_ Dunadain (-2). <br>_"The Wainriders were a people, or a confederacy of many peoples, that came from the East; but they were stronger and better armed than any that had appeared before."_ ***---&NoBreak;LotR*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/easterlings/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Easterling Camp if the influence check is greater than 9.  <br>_Standard Modifications:_ Dunadain (-2). <br>_"The Wainriders were a people, or a confederacy of many peoples, that came from the East; but they were stronger and better armed than any that had appeared before."_ ***---LotR*** 
+> > _**Unique.**_ Playable at Easterling Camp if the influence check is greater than 9.  <br>_Standard Modifications:_ Dunadain (-2). <br>_"The Wainriders were a people, or a confederacy of many peoples, that came from the East; but they were stronger and better armed than any that had appeared before."_ ***---&NoBreak;LotR*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/easterlings/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Manifestation of hero Easterlings. Playable at Easterling Camp if the influence check is greater than 8.  <br>_Standard Modifications:_ Balchoth (+2), Wain-easterlings (+2), Men of Dorwinion (-2). <br>_"For in the past the attacks of the Easterlings had come mostly over the plain...”_ ***---LotR*** 
+> > _**Unique.**_ Manifestation of hero Easterlings. Playable at Easterling Camp if the influence check is greater than 8.  <br>_Standard Modifications:_ Balchoth (+2), Wain-easterlings (+2), Men of Dorwinion (-2). <br>_"For in the past the attacks of the Easterlings had come mostly over the plain...”_ ***---&NoBreak;LotR*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -85,7 +85,7 @@ permalink: /cards/easterlings/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Easterling Camp if the influence check is greater than 9.  <br>_Standard Modifications:_ Dunadain (-2). <br>_"The Wainriders were a people, or a confederacy of many peoples, that came from the East; but they were stronger and better armed than any that had appeared before."_ ***---LotR*** 
+> > _**Unique.**_ Playable at Easterling Camp if the influence check is greater than 9.  <br>_Standard Modifications:_ Dunadain (-2). <br>_"The Wainriders were a people, or a confederacy of many peoples, that came from the East; but they were stronger and better armed than any that had appeared before."_ ***---&NoBreak;LotR*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -105,7 +105,7 @@ permalink: /cards/easterlings/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Manifestation of hero Easterlings. Playable at Easterling Camp if the influence check is greater than 8.  <br>_Standard Modifications:_ Balchoth (+2), Wain-easterlings (+2), Men of Dorwinion (-2). <br>_"For in the past the attacks of the Easterlings had come mostly over the plain...”_ ***---LotR*** 
+> > _**Unique.**_ Manifestation of hero Easterlings. Playable at Easterling Camp if the influence check is greater than 8.  <br>_Standard Modifications:_ Balchoth (+2), Wain-easterlings (+2), Men of Dorwinion (-2). <br>_"For in the past the attacks of the Easterlings had come mostly over the plain...”_ ***---&NoBreak;LotR*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

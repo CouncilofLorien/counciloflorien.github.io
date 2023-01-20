@@ -25,7 +25,7 @@ permalink: /cards/stave-of-pallando/
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Pallando specific._ Place this card on Pallando if he is in play. If on Pallando, you may tap Stave of Pallando during your end-of-turn phase to take a faction from your discard pile to you hand.   “‘...and the rods of the Five Wizards...”_ ***---LotRIII*** 
+> > _**Unique.**_ _Pallando specific._ Place this card on Pallando if he is in play. If on Pallando, you may tap Stave of Pallando during your end-of-turn phase to take a faction from your discard pile to you hand.   “‘...and the rods of the Five Wizards...”_ ***---&NoBreak;LotRIII*** 
 > 
 > {: .stage-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

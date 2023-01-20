@@ -25,7 +25,7 @@ permalink: /cards/fever-of-unrest/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > A Dragon hazard creature can attack a company with four Wildernesses \[![](/assets/images/wilderness.svg)] in its site path. Alternatively, Leucaruth can attack a company with three Wildernesses \[![](/assets/images/wilderness.svg)] in her site path. <br>_"Perpetually angry and always prowling, the Worm of Ire suffers a restlessness that drives her onward to the spore of her hated Dwarven enemies."_ ***---Kuduk Lore*** 
+> > A Dragon hazard creature can attack a company with four Wildernesses \[![](/assets/images/wilderness.svg)] in its site path. Alternatively, Leucaruth can attack a company with three Wildernesses \[![](/assets/images/wilderness.svg)] in her site path. <br>_"Perpetually angry and always prowling, the Worm of Ire suffers a restlessness that drives her onward to the spore of her hated Dwarven enemies."_ ***---&NoBreak;Kuduk Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

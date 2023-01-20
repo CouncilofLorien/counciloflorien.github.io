@@ -25,7 +25,7 @@ permalink: /cards/ill-favoured-fellow/
 > Warrior/Ranger Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _Half-orc._ Discard on a body check result of 9. <br>_"One of the travelers, a squint-eyed ill-favoured fellow, was foretelling that more and more people would be coming north in the near future."_ ***---LotRI***  <br><br>**Home Site:** Any Dark-hold 
+> > _Half-orc._ Discard on a body check result of 9. <br>_"One of the travelers, a squint-eyed ill-favoured fellow, was foretelling that more and more people would be coming north in the near future."_ ***---&NoBreak;LotRI***  <br><br>**Home Site:** Any Dark-hold 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【2/9】</div>
@@ -45,7 +45,7 @@ permalink: /cards/ill-favoured-fellow/
 > Warrior/Ranger Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _Half-orc._ Discard on a body check result of 9. <br>_"One of the travelers, a squint-eyed ill-favoured fellow, was foretelling that more and more people would be coming north in the near future."_ ***---LotRI***  <br><br>**Home Site:** Any Dark-hold 
+> > _Half-orc._ Discard on a body check result of 9. <br>_"One of the travelers, a squint-eyed ill-favoured fellow, was foretelling that more and more people would be coming north in the near future."_ ***---&NoBreak;LotRI***  <br><br>**Home Site:** Any Dark-hold 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【2/9】</div>

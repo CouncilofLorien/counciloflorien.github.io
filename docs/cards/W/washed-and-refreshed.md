@@ -25,7 +25,7 @@ permalink: /cards/washed-and-refreshed/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable at the end of the organization phase on a moving company. When the company's new site is revealed, the company may untap a number of characters equal to the number of regions less than four in its site path.   "It was a long and merry meal. Though the hobbits ate, as only famished hobbits can eat, there was no lack."_ ***---LotRI*** 
+> > Playable at the end of the organization phase on a moving company. When the company's new site is revealed, the company may untap a number of characters equal to the number of regions less than four in its site path.   "It was a long and merry meal. Though the hobbits ate, as only famished hobbits can eat, there was no lack."_ ***---&NoBreak;LotRI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

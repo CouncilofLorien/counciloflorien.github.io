@@ -25,7 +25,7 @@ permalink: /cards/test-of-form/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Sage only, and only if a character in his company has a Gold Ring. Play to test a Gold Ring. <br>_"To Frodo's astonishment and distress the wizard threw it suddenly into the middle of a glowing corner of the fire. Frodo gave a cry and groped for the tongs; but Gandalf held him back."_ ***---LotRI*** 
+> > Sage only, and only if a character in his company has a Gold Ring. Play to test a Gold Ring. <br>_"To Frodo's astonishment and distress the wizard threw it suddenly into the middle of a glowing corner of the fire. Frodo gave a cry and groped for the tongs; but Gandalf held him back."_ ***---&NoBreak;LotRI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/test-of-form/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Sage only, and only if a character in his company has a Gold Ring. Play to test a Gold Ring. <br>_"To Frodo's astonishment and distress the wizard threw it suddenly into the middle of a glowing corner of the fire. Frodo gave a cry and groped for the tongs; but Gandalf held him back."_ ***---LotRI*** 
+> > Sage only, and only if a character in his company has a Gold Ring. Play to test a Gold Ring. <br>_"To Frodo's astonishment and distress the wizard threw it suddenly into the middle of a glowing corner of the fire. Frodo gave a cry and groped for the tongs; but Gandalf held him back."_ ***---&NoBreak;LotRI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

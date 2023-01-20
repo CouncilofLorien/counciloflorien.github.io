@@ -25,7 +25,7 @@ permalink: /cards/galadhrim/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Elves._ Three strikes. Detainment and -2 prowess against hero companies. Playable keyed to Lindon, Rhudaur, Wold & Foothills, or Anfalas; or at non-Haven sites in these regions. Each character wounded by this attack must discard all items he bears.   “‘...they dwell now deep in the woods and far from the northern border.’”_ ***---LotRII*** 
+> > _Elves._ Three strikes. Detainment and -2 prowess against hero companies. Playable keyed to Lindon, Rhudaur, Wold & Foothills, or Anfalas; or at non-Haven sites in these regions. Each character wounded by this attack must discard all items he bears.   “‘...they dwell now deep in the woods and far from the northern border.’”_ ***---&NoBreak;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【11/7】</div>

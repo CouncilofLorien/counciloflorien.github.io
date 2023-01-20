@@ -25,7 +25,7 @@ permalink: /cards/ovir-hollow/
 > Grey Mountain Narrows
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Dragon-1 strike with 12 prowess  “...tucked in a ring of volcanic rock within a high vale and surrounded by a natural, flower-filled moat."_ ***---Kuduk Lore*** 
+> > Nearest Haven: Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Dragon-1 strike with 12 prowess  “...tucked in a ring of volcanic rock within a high vale and surrounded by a natural, flower-filled moat."_ ***---&NoBreak;Kuduk Lore*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/ovir-hollow/
 > Grey Mountain Narrows
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur  <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Dragon-1 strike with 12 prowess  "From out of the hollow came a cry, the song of an angry white bear, a warning of cold doom."_ ***---Kuduk Lore*** 
+> > Nearest Darkhaven: Dol Guldur  <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Dragon-1 strike with 12 prowess  "From out of the hollow came a cry, the song of an angry white bear, a warning of cold doom."_ ***---&NoBreak;Kuduk Lore*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

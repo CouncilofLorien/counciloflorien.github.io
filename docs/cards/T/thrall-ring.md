@@ -25,7 +25,7 @@ permalink: /cards/thrall-ring/
 > Minor Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Mind Ring._ -1 to mind to a minimum of 1, +1 to direct influence. Cannot be duplicated on a given character. <br>_"As it encircles the finger it ensnares the mind."_ ***---Kuduk Lore*** 
+> > _Mind Ring._ -1 to mind to a minimum of 1, +1 to direct influence. Cannot be duplicated on a given character. <br>_"As it encircles the finger it ensnares the mind."_ ***---&NoBreak;Kuduk Lore*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

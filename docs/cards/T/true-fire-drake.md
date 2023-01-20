@@ -25,7 +25,7 @@ permalink: /cards/true-fire-drake/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Drake._ Two strikes. Three Wildernesses \[![](/assets/images/wilderness.svg)] in site path are required (only two Wildernesses \[![](/assets/images/wilderness.svg)] are required if Doors of Night is in play). <br>_"Fire leaped from the dragon's jaws."_ ***---Hob*** 
+> > _Drake._ Two strikes. Three Wildernesses \[![](/assets/images/wilderness.svg)] in site path are required (only two Wildernesses \[![](/assets/images/wilderness.svg)] are required if Doors of Night is in play). <br>_"Fire leaped from the dragon's jaws."_ ***---&NoBreak;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【13/&ndash;】</div>
@@ -45,7 +45,7 @@ permalink: /cards/true-fire-drake/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Drake._ Two strikes. Only two Wildernesses \[![](/assets/images/wilderness.svg)] in site path are required if Doors of Night is in play. <br>_"Fire leaped from the thatched roofs and wooden beam-ends as he hurtled down and past and round again...”_ ***---Hob*** 
+> > _Drake._ Two strikes. Only two Wildernesses \[![](/assets/images/wilderness.svg)] in site path are required if Doors of Night is in play. <br>_"Fire leaped from the thatched roofs and wooden beam-ends as he hurtled down and past and round again...”_ ***---&NoBreak;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【13/&ndash;】</div>
@@ -65,7 +65,7 @@ permalink: /cards/true-fire-drake/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Drake._ Two strikes. Three Wildernesses \[![](/assets/images/wilderness.svg)] in site path are required (only two Wildernesses \[![](/assets/images/wilderness.svg)] are required if Doors of Night is in play). <br>_"Fire leaped from the dragon's jaws."_ ***---Hob*** 
+> > _Drake._ Two strikes. Three Wildernesses \[![](/assets/images/wilderness.svg)] in site path are required (only two Wildernesses \[![](/assets/images/wilderness.svg)] are required if Doors of Night is in play). <br>_"Fire leaped from the dragon's jaws."_ ***---&NoBreak;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【13/&ndash;】</div>
@@ -85,7 +85,7 @@ permalink: /cards/true-fire-drake/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Drake._ Two strikes. Only two Wildernesses \[![](/assets/images/wilderness.svg)] in site path are required if Doors of Night is in play. <br>_"Fire leaped from the thatched roofs and wooden beam-ends as he hurtled down and past and round again...”_ ***---Hob*** 
+> > _Drake._ Two strikes. Only two Wildernesses \[![](/assets/images/wilderness.svg)] in site path are required if Doors of Night is in play. <br>_"Fire leaped from the thatched roofs and wooden beam-ends as he hurtled down and past and round again...”_ ***---&NoBreak;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【13/&ndash;】</div>

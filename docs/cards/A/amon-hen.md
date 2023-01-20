@@ -25,7 +25,7 @@ permalink: /cards/amon-hen/
 > Rohan
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien <br>_**Playable:**_ Information, Items (minor) <br>_**Automatic-attacks:**_<br> Undead - 1 strike with 6 prowess; each character wounded must make a corruption check  “...the Hill of the Eye of the Men of Numenor."_ ***---LotRII*** 
+> > Nearest Haven: Lorien <br>_**Playable:**_ Information, Items (minor) <br>_**Automatic-attacks:**_<br> Undead - 1 strike with 6 prowess; each character wounded must make a corruption check  “...the Hill of the Eye of the Men of Numenor."_ ***---&NoBreak;LotRII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/amon-hen/
 > Rohan
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien <br>_**Playable:**_ Information, Items (minor) <br>_**Automatic-attacks:**_<br> Undead - 1 strike with 6 prowess; each character wounded must make a corruption check  “...the Hill of the Eye of the Men of Numenor."_ ***---LotRII*** 
+> > Nearest Haven: Lorien <br>_**Playable:**_ Information, Items (minor) <br>_**Automatic-attacks:**_<br> Undead - 1 strike with 6 prowess; each character wounded must make a corruption check  “...the Hill of the Eye of the Men of Numenor."_ ***---&NoBreak;LotRII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/amon-hen/
 > Rohan
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Minas Morgul <br>_**Playable:**_ Information, Items (minor) <br>_**Automatic-attacks:**_<br> Undead - 1 strike with 6 prowess; each character wounded must make a corruption check modified by -2  “...great works that could still be seen in this strange border-land of the Emyn Muil: the stone kings and the seats of Lhaw and Hen...”_ ***---LotRII*** 
+> > Nearest Darkhaven: Minas Morgul <br>_**Playable:**_ Information, Items (minor) <br>_**Automatic-attacks:**_<br> Undead - 1 strike with 6 prowess; each character wounded must make a corruption check modified by -2  “...great works that could still be seen in this strange border-land of the Emyn Muil: the stone kings and the seats of Lhaw and Hen...”_ ***---&NoBreak;LotRII*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

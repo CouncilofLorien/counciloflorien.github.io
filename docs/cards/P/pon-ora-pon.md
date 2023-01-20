@@ -25,7 +25,7 @@ permalink: /cards/pon-ora-pon/
 > Scout/Ranger/Diplomat Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ Agent. +3 direct influence against Wose factions. <br>_“...maybe a creature descended in true line through endless years from models used by forgotten craftsmen long ago."_ ***---LotRV***  <br><br>**Home Site:** Druadan Forest, Wose Passage-hold, Stone-circle 
+> > _**Unique.**_ Agent. +3 direct influence against Wose factions. <br>_“...maybe a creature descended in true line through endless years from models used by forgotten craftsmen long ago."_ ***---&NoBreak;LotRV***  <br><br>**Home Site:** Druadan Forest, Wose Passage-hold, Stone-circle 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【1/9】</div>

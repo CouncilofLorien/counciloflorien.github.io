@@ -25,7 +25,7 @@ permalink: /cards/dol-amroth/
 > Belfalas
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Edhellond  "But beyond, in the great fief of Belfalas, dwelt Prince Imrahil in his castle of Dol Amroth by the sea, and he was of high blood, and his folk also, tall men and proud with sea-grey eyes."_ ***---LotRV*** 
+> > Nearest Haven: Edhellond  "But beyond, in the great fief of Belfalas, dwelt Prince Imrahil in his castle of Dol Amroth by the sea, and he was of high blood, and his folk also, tall men and proud with sea-grey eyes."_ ***---&NoBreak;LotRV*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/dol-amroth/
 > Belfalas
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Edhellond  "But beyond, in the great fief of Belfalas, dwelt Prince Imrahil in his castle of Dol Amroth by the sea, and he was of high blood, and his folk also, tall men and proud with sea-grey eyes."_ ***---LotRV*** 
+> > Nearest Haven: Edhellond  "But beyond, in the great fief of Belfalas, dwelt Prince Imrahil in his castle of Dol Amroth by the sea, and he was of high blood, and his folk also, tall men and proud with sea-grey eyes."_ ***---&NoBreak;LotRV*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/dol-amroth/
 > Belfalas
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Edhellond  "But beyond, in the great fief of Belfalas, dwelt Prince Imrahil in his castle of Dol Amroth by the sea, and he was of high blood, and his folk also, tall men and proud with sea-grey eyes."_ ***---LotRV*** 
+> > Nearest Haven: Edhellond  "But beyond, in the great fief of Belfalas, dwelt Prince Imrahil in his castle of Dol Amroth by the sea, and he was of high blood, and his folk also, tall men and proud with sea-grey eyes."_ ***---&NoBreak;LotRV*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>

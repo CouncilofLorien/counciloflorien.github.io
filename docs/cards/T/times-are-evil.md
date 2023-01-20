@@ -25,7 +25,7 @@ permalink: /cards/times-are-evil/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > All offering attempts and influence attempts are modified by -3. <br>_“...they hid themselves in fear and would not come forth until the day was up, and the reckless strangers were gone."_ ***---LotRV*** 
+> > All offering attempts and influence attempts are modified by -3. <br>_“...they hid themselves in fear and would not come forth until the day was up, and the reckless strangers were gone."_ ***---&NoBreak;LotRV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

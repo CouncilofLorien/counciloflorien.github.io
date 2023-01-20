@@ -25,7 +25,7 @@ permalink: /cards/durins-bane/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ Manifestation of Balrog of Moria. Balrog. 2 strikes-all body checks resulting from a successful strike are modified by +1. May be played at The Under-gates and at all of its adjacent sites. If Doors of Night is in play, Durin's Bane may be played at any Under-deeps site.   “‘...even as mithril was the foundation of their wealth, so also was it their destruction: they delved too greedily and too deep, and disturbed that from which they fled, Durin's Bane.’”_ ***---LotRV*** 
+> > _**Unique.**_ Manifestation of Balrog of Moria. Balrog. 2 strikes-all body checks resulting from a successful strike are modified by +1. May be played at The Under-gates and at all of its adjacent sites. If Doors of Night is in play, Durin's Bane may be played at any Under-deeps site.   “‘...even as mithril was the foundation of their wealth, so also was it their destruction: they delved too greedily and too deep, and disturbed that from which they fled, Durin's Bane.’”_ ***---&NoBreak;LotRV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【18/9】</div>

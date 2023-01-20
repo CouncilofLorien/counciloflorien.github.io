@@ -25,7 +25,7 @@ permalink: /cards/horns,-horns,-horns/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Each player removes all factions from his discard pile and shuffles them into his play deck. <br>_"And straightway all the horns in the host were lifted up in music, and the blowing of the horns of Rohan in that hour was like a storm upon the plain and a thunder in the mountains."_ ***---LotRV*** 
+> > Each player removes all factions from his discard pile and shuffles them into his play deck. <br>_"And straightway all the horns in the host were lifted up in music, and the blowing of the horns of Rohan in that hour was like a storm upon the plain and a thunder in the mountains."_ ***---&NoBreak;LotRV*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

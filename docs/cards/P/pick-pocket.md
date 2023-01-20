@@ -25,7 +25,7 @@ permalink: /cards/pick-pocket/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Men._ One strike. Attacker chooses defending characters. For each successful strike, an item the defending character bears must be discarded (defender's choice); he is not harmed. <br>_"A really first class...burglar would at this point have picked the trolls' pockets...and walked off without their noticing him."_ ***---Hob*** 
+> > _Men._ One strike. Attacker chooses defending characters. For each successful strike, an item the defending character bears must be discarded (defender's choice); he is not harmed. <br>_"A really first class...burglar would at this point have picked the trolls' pockets...and walked off without their noticing him."_ ***---&NoBreak;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【11/&ndash;】</div>
@@ -45,7 +45,7 @@ permalink: /cards/pick-pocket/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Men._ One strike. Attacker chooses defending characters. For each successful strike, an item the defending character bears must be discarded (defender's choice); he is not harmed. <br>_"A really first class...burglar would at this point have picked the trolls' pockets...and walked off without their noticing him."_ ***---Hob*** 
+> > _Men._ One strike. Attacker chooses defending characters. For each successful strike, an item the defending character bears must be discarded (defender's choice); he is not harmed. <br>_"A really first class...burglar would at this point have picked the trolls' pockets...and walked off without their noticing him."_ ***---&NoBreak;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【11/&ndash;】</div>

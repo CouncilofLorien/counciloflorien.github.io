@@ -25,7 +25,7 @@ permalink: /cards/hide-in-dark-places/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Scout only._ Playable during the organization phase on scout whose company is not moving. All hazard creature attacks against the scout's company this turn are canceled. <br>_“...fled wailing back to hide in holes and dark lightless places far from hope."_ ***---LotRVI*** 
+> > _Scout only._ Playable during the organization phase on scout whose company is not moving. All hazard creature attacks against the scout's company this turn are canceled. <br>_“...fled wailing back to hide in holes and dark lightless places far from hope."_ ***---&NoBreak;LotRVI*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

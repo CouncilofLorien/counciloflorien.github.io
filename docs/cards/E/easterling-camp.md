@@ -25,7 +25,7 @@ permalink: /cards/easterling-camp/
 > Horse Plains
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien  “...a large army of Easterlings and...all their camps and settlements east of the Sea."_ ***---LotR*** 
+> > Nearest Haven: Lorien  “...a large army of Easterlings and...all their camps and settlements east of the Sea."_ ***---&NoBreak;LotR*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;4&ensp;</span><span class="hero-opp-draw">&ensp;4&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/easterling-camp/
 > Horse Plains
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien  “...a large army of Easterlings and...all their camps and settlements east of the Sea."_ ***---LotR*** 
+> > Nearest Haven: Lorien  “...a large army of Easterlings and...all their camps and settlements east of the Sea."_ ***---&NoBreak;LotR*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;4&ensp;</span><span class="hero-opp-draw">&ensp;4&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/easterling-camp/
 > Horse Plains
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 5 prowess (detainment against covert company)  "They journeyed in great wains, and their chieftains fought in chariots."_ ***---LotR*** 
+> > Nearest Darkhaven: Dol Guldur <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 5 prowess (detainment against covert company)  "They journeyed in great wains, and their chieftains fought in chariots."_ ***---&NoBreak;LotR*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/easterling-camp/
 > Horse Plains
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien  “...a large army of Easterlings and...all their camps and settlements east of the Sea."_ ***---LotR*** 
+> > Nearest Haven: Lorien  “...a large army of Easterlings and...all their camps and settlements east of the Sea."_ ***---&NoBreak;LotR*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;4&ensp;</span><span class="hero-opp-draw">&ensp;4&ensp;</span></div>
@@ -105,7 +105,7 @@ permalink: /cards/easterling-camp/
 > Horse Plains
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 5 prowess (detainment against covert company)  "They journeyed in great wains, and their chieftains fought in chariots."_ ***---LotR*** 
+> > Nearest Darkhaven: Dol Guldur <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 5 prowess (detainment against covert company)  "They journeyed in great wains, and their chieftains fought in chariots."_ ***---&NoBreak;LotR*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

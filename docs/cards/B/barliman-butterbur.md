@@ -25,7 +25,7 @@ permalink: /cards/barliman-butterbur/
 > Warrior Man
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ -1 to all of his corruption checks. -1 to all influence checks against factions. <br>_“...a short fat man with a bald head and a red face... He seemed capable of an endless stream of talk, however busy he might be."_ ***---LotRI***  <br><br>**Home Site:** Bree 
+> > _**Unique.**_ -1 to all of his corruption checks. -1 to all influence checks against factions. <br>_“...a short fat man with a bald head and a red face... He seemed capable of an endless stream of talk, however busy he might be."_ ***---&NoBreak;LotRI***  <br><br>**Home Site:** Bree 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【2/6】</div>
@@ -45,7 +45,7 @@ permalink: /cards/barliman-butterbur/
 > Warrior Man
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ -1 to all of his corruption checks. -1 to all influence checks against factions. <br>_“...a short fat man with a bald head and a red face... He seemed capable of an endless stream of talk, however busy he might be."_ ***---LotRI***  <br><br>**Home Site:** Bree 
+> > _**Unique.**_ -1 to all of his corruption checks. -1 to all influence checks against factions. <br>_“...a short fat man with a bald head and a red face... He seemed capable of an endless stream of talk, however busy he might be."_ ***---&NoBreak;LotRI***  <br><br>**Home Site:** Bree 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【2/6】</div>

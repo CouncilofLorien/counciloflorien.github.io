@@ -45,7 +45,7 @@ permalink: /cards/the-sulfur-deeps/
 > Under-deeps
 >
 > {: .minion-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Dol Guldur (0), The Under-courts (4), The Pukel-deeps (9), The Under-gates (4), The Under-galleries (7) <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br> Trolls-2 strikes with 10 prowess (detainment)  “‘Amidst the stench all our silver turned black and all our party turned back.’”_ ***---Kuduk Lore*** 
+> > _**Adjacent Sites:**_ Dol Guldur (0), The Under-courts (4), The Pukel-deeps (9), The Under-gates (4), The Under-galleries (7) <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br> Trolls-2 strikes with 10 prowess (detainment)  “‘Amidst the stench all our silver turned black and all our party turned back.’”_ ***---&NoBreak;Kuduk Lore*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>

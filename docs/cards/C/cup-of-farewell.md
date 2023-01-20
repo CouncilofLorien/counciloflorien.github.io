@@ -25,7 +25,7 @@ permalink: /cards/cup-of-farewell/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable on a company at a Haven \[![](/assets/images/free-haven.svg)] during the organization phase. Once during each of your turns, you can tap a character in this company, if the company is at a Haven \[![](/assets/images/free-haven.svg)], to take a minor item from your sideboard into your hand (show opponent). Cannot be duplicated on a given company.   “‘...I have brought in my ship gifts which the Lord and Lady of the Galadhrim now offer you...”_ ***---LotRII***  
+> > Playable on a company at a Haven \[![](/assets/images/free-haven.svg)] during the organization phase. Once during each of your turns, you can tap a character in this company, if the company is at a Haven \[![](/assets/images/free-haven.svg)], to take a minor item from your sideboard into your hand (show opponent). Cannot be duplicated on a given company.   “‘...I have brought in my ship gifts which the Lord and Lady of the Galadhrim now offer you...”_ ***---&NoBreak;LotRII***  
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

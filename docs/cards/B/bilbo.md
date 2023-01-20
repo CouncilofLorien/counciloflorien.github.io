@@ -25,7 +25,7 @@ permalink: /cards/bilbo/
 > Scout/Sage Hobbit
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +4. -2 marshalling points if eliminated. <br>_“‘I am Ringwinner and Luckwearer...’”_ ***---Hob***  <br><br>**Home Site:** Bag End 
+> > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +4. -2 marshalling points if eliminated. <br>_“‘I am Ringwinner and Luckwearer...’”_ ***---&NoBreak;Hob***  <br><br>**Home Site:** Bag End 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【1/9】</div>
@@ -45,7 +45,7 @@ permalink: /cards/bilbo/
 > Scout/Sage Hobbit
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +4. -2 marshalling points if eliminated. <br>_“‘I am Ringwinner and Luckwearer...’”_ ***---Hob***  <br><br>**Home Site:** Bag End 
+> > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +4. -2 marshalling points if eliminated. <br>_“‘I am Ringwinner and Luckwearer...’”_ ***---&NoBreak;Hob***  <br><br>**Home Site:** Bag End 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【1/9】</div>

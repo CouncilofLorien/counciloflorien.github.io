@@ -25,7 +25,7 @@ permalink: /cards/down-down-to-goblin-town/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable during the organization phase on a moving company. If the company moves to a Ruins & Lairs \[![](/assets/images/ruinlair.svg)], no hazard creatures may be played (by type or by name) keyed to regions against his company. <br>_"The passages there were crossed and tangled in all directions, but the goblins knew their way...”_ ***---Hob*** 
+> > Playable during the organization phase on a moving company. If the company moves to a Ruins & Lairs \[![](/assets/images/ruinlair.svg)], no hazard creatures may be played (by type or by name) keyed to regions against his company. <br>_"The passages there were crossed and tangled in all directions, but the goblins knew their way...”_ ***---&NoBreak;Hob*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

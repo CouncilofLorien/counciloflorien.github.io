@@ -25,7 +25,7 @@ permalink: /cards/under-his-blow/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Untapped character does not tap against one strike. <br>_"Diving under Aragorn's blow with the speed of a striking snake he charged...”_ ***---LotRII*** 
+> > Untapped character does not tap against one strike. <br>_"Diving under Aragorn's blow with the speed of a striking snake he charged...”_ ***---&NoBreak;LotRII*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/under-his-blow/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Untapped character does not tap against one strike. <br>_"Diving under Aragorn's blow with the speed of a striking snake he charged...”_ ***---LotRII*** 
+> > Untapped character does not tap against one strike. <br>_"Diving under Aragorn's blow with the speed of a striking snake he charged...”_ ***---&NoBreak;LotRII*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

@@ -25,7 +25,7 @@ permalink: /cards/saw-toothed-blade/
 > Minor Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Weapon._ +1 to prowess to a maximum of 8.   "He had a black knife with a long jagged blade in his hand. 'Lie quiet, or I'll tickle you with this,' he hissed."_ ***---LotRIII*** 
+> > _Weapon._ +1 to prowess to a maximum of 8.   "He had a black knife with a long jagged blade in his hand. 'Lie quiet, or I'll tickle you with this,' he hissed."_ ***---&NoBreak;LotRIII*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【+1/&ndash;】</div>

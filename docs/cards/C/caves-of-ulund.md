@@ -25,7 +25,7 @@ permalink: /cards/caves-of-ulund/
 > Withered Heath
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon - 1 strike with 13 prowess  "That...is the dangerous part about caves: you don't know how far they go back...or what is waiting for you inside."_ ***---Hob*** 
+> > Nearest Haven: Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon - 1 strike with 13 prowess  "That...is the dangerous part about caves: you don't know how far they go back...or what is waiting for you inside."_ ***---&NoBreak;Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;3&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/caves-of-ulund/
 > Withered Heath
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon - 1 strike with 13 prowess  "That...is the dangerous part about caves: you don't know how far they go back...or what is waiting for you inside."_ ***---Hob*** 
+> > Nearest Haven: Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon - 1 strike with 13 prowess  "That...is the dangerous part about caves: you don't know how far they go back...or what is waiting for you inside."_ ***---&NoBreak;Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;3&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/caves-of-ulund/
 > Withered Heath
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon - 1 strike with 13 prowess  “‘...you don't know how far they go back, sometimes, or where a passage behind may lead or what is waiting for you inside.’”_ ***---Hob*** 
+> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon - 1 strike with 13 prowess  “‘...you don't know how far they go back, sometimes, or where a passage behind may lead or what is waiting for you inside.’”_ ***---&NoBreak;Hob*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/caves-of-ulund/
 > Withered Heath
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon - 1 strike with 13 prowess  "That...is the dangerous part about caves: you don't know how far they go back...or what is waiting for you inside."_ ***---Hob*** 
+> > Nearest Haven: Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon - 1 strike with 13 prowess  "That...is the dangerous part about caves: you don't know how far they go back...or what is waiting for you inside."_ ***---&NoBreak;Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;3&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -105,7 +105,7 @@ permalink: /cards/caves-of-ulund/
 > Withered Heath
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon - 1 strike with 13 prowess  “‘...you don't know how far they go back, sometimes, or where a passage behind may lead or what is waiting for you inside.’”_ ***---Hob*** 
+> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon - 1 strike with 13 prowess  “‘...you don't know how far they go back, sometimes, or where a passage behind may lead or what is waiting for you inside.’”_ ***---&NoBreak;Hob*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

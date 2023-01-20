@@ -25,7 +25,7 @@ permalink: /cards/arinmir/
 > Sage/Diplomat Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Variags of Khand faction. <br>_"They dwelt most often by the edges of the woods, from which they could escape at times to hunt, or to ride and run over open lands by moonlight or starlight...”_ ***---Hob***  <br><br>**Home Site:** Edhellond 
+> > _**Unique.**_ +2 direct influence against the Variags of Khand faction. <br>_"They dwelt most often by the edges of the woods, from which they could escape at times to hunt, or to ride and run over open lands by moonlight or starlight...”_ ***---&NoBreak;Hob***  <br><br>**Home Site:** Edhellond 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【2/7】</div>
@@ -45,7 +45,7 @@ permalink: /cards/arinmir/
 > Sage/Diplomat Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Variags of Khand faction. <br>_"They dwelt most often by the edges of the woods, from which they could escape at times to hunt, or to ride and run over open lands by moonlight or starlight...”_ ***---Hob***  <br><br>**Home Site:** Edhellond 
+> > _**Unique.**_ +2 direct influence against the Variags of Khand faction. <br>_"They dwelt most often by the edges of the woods, from which they could escape at times to hunt, or to ride and run over open lands by moonlight or starlight...”_ ***---&NoBreak;Hob***  <br><br>**Home Site:** Edhellond 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【2/7】</div>

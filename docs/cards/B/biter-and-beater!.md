@@ -25,7 +25,7 @@ permalink: /cards/biter-and-beater!/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable on a company facing an Orc attack or in combat with an overt company. Also playable during opponent's site phase. Every Sword of Gondolin, Orcrist, and Glamdring in target company give an additional +2 prowess bonus and lower the body of strikes their bearers face by 1. <br>_“‘They knew the sword at once...the goblins called it simply Biter. They hated it...”_ ***---Hob*** 
+> > Playable on a company facing an Orc attack or in combat with an overt company. Also playable during opponent's site phase. Every Sword of Gondolin, Orcrist, and Glamdring in target company give an additional +2 prowess bonus and lower the body of strikes their bearers face by 1. <br>_“‘They knew the sword at once...the goblins called it simply Biter. They hated it...”_ ***---&NoBreak;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

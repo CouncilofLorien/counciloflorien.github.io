@@ -25,7 +25,7 @@ permalink: /cards/magic-ring-of-words/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Magic Ring._ Playable only with a Gold Ring and after a test indicates a _Magic Ring._ Gives the bearer diplomat skill. If the bearer is already a diplomat, he gets +3 to direct influence. May not be duplicated on a given character. <br>_"But none were unmoved; none rejected its please and its commands...”_ ***---LotRIII*** 
+> > _Magic Ring._ Playable only with a Gold Ring and after a test indicates a _Magic Ring._ Gives the bearer diplomat skill. If the bearer is already a diplomat, he gets +3 to direct influence. May not be duplicated on a given character. <br>_"But none were unmoved; none rejected its please and its commands...”_ ***---&NoBreak;LotRIII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/magic-ring-of-words/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Magic Ring._ Playable only with a Gold Ring and after a test indicates a _Magic Ring._ Gives the bearer diplomat skill. If the bearer is already a diplomat, he gets +3 to direct influence. May not be duplicated on a given character. <br>_"But none were unmoved; none rejected its please and its commands...”_ ***---LotRIII*** 
+> > _Magic Ring._ Playable only with a Gold Ring and after a test indicates a _Magic Ring._ Gives the bearer diplomat skill. If the bearer is already a diplomat, he gets +3 to direct influence. May not be duplicated on a given character. <br>_"But none were unmoved; none rejected its please and its commands...”_ ***---&NoBreak;LotRIII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

@@ -25,7 +25,7 @@ permalink: /cards/dragons-hunger/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable on a Dragon or Drake attack. If one is available, opponent must discard a hazard creature from his hand; this reduces the company's hazard limit by one. Otherwise, the attack is canceled and the opponent must reveal his hand.   "The ponies screamed with terror, burst their ropes, and galloped wildly off. The dragon swooped and turned to pursue them...”_ ***---Hob*** 
+> > Playable on a Dragon or Drake attack. If one is available, opponent must discard a hazard creature from his hand; this reduces the company's hazard limit by one. Otherwise, the attack is canceled and the opponent must reveal his hand.   "The ponies screamed with terror, burst their ropes, and galloped wildly off. The dragon swooped and turned to pursue them...”_ ***---&NoBreak;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

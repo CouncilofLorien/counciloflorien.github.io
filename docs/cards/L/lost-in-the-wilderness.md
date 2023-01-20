@@ -25,7 +25,7 @@ permalink: /cards/lost-in-the-wilderness/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a company that is moving this turn. You may play one additional hazard on target company for each Wilderness \[![](/assets/images/wilderness.svg)] in its site path. <br>_"After an hour or two they lost all clear sense of direction, though they knew well enough that they had long ceased to go northward at all."_ ***---LotRI*** 
+> > Playable on a company that is moving this turn. You may play one additional hazard on target company for each Wilderness \[![](/assets/images/wilderness.svg)] in its site path. <br>_"After an hour or two they lost all clear sense of direction, though they knew well enough that they had long ceased to go northward at all."_ ***---&NoBreak;LotRI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/lost-in-the-wilderness/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a company that is moving this turn. You may play one additional hazard on target company for each Wilderness \[![](/assets/images/wilderness.svg)] in its site path. <br>_"After an hour or two they lost all clear sense of direction, though they knew well enough that they had long ceased to go northward at all."_ ***---LotRI*** 
+> > Playable on a company that is moving this turn. You may play one additional hazard on target company for each Wilderness \[![](/assets/images/wilderness.svg)] in its site path. <br>_"After an hour or two they lost all clear sense of direction, though they knew well enough that they had long ceased to go northward at all."_ ***---&NoBreak;LotRI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/lost-in-the-wilderness/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a moving company. Its hazard limit increases by one for every Wilderness \[![](/assets/images/wilderness.svg)] in its site path. <br>_"Not far ahead were dreary hills, rising higher and higher, dark with trees. On some of them were old castles with an evil look, as if they had been built by wicked people.."_ ***---Hob*** 
+> > Playable on a moving company. Its hazard limit increases by one for every Wilderness \[![](/assets/images/wilderness.svg)] in its site path. <br>_"Not far ahead were dreary hills, rising higher and higher, dark with trees. On some of them were old castles with an evil look, as if they had been built by wicked people.."_ ***---&NoBreak;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

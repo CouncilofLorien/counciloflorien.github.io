@@ -25,7 +25,7 @@ permalink: /cards/galdor/
 > Ranger/Diplomat Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +1 direct influence against Elves and Elf factions. <br>_“...Galdor, an Elf from the Grey Havens who had come on an errand from Cirdan the Shipwright."_ ***---LotRII***  <br><br>**Home Site:** Grey Havens 
+> > _**Unique.**_ +1 direct influence against Elves and Elf factions. <br>_“...Galdor, an Elf from the Grey Havens who had come on an errand from Cirdan the Shipwright."_ ***---&NoBreak;LotRII***  <br><br>**Home Site:** Grey Havens 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【2/9】</div>

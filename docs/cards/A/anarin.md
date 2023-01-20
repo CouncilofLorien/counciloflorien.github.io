@@ -25,7 +25,7 @@ permalink: /cards/anarin/
 > Scout/Diplomat Elf
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ Agent. Agent only: may move to a Haven \[![](/assets/images/free-haven.svg)] and may tap at a company's new site to attack that company during opponent's movement/hazard phase. <br>_“...out of the thicket of young trees an Elf stepped, clad in grey, but with his hood thrown back; his hair glinted like gold in the morning sun."_ ***---LotRII***  <br><br>**Home Site:** Moria 
+> > _**Unique.**_ Agent. Agent only: may move to a Haven \[![](/assets/images/free-haven.svg)] and may tap at a company's new site to attack that company during opponent's movement/hazard phase. <br>_“...out of the thicket of young trees an Elf stepped, clad in grey, but with his hood thrown back; his hair glinted like gold in the morning sun."_ ***---&NoBreak;LotRII***  <br><br>**Home Site:** Moria 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【4/8】</div>

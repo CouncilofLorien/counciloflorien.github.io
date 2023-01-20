@@ -25,7 +25,7 @@ permalink: /cards/grishnakh/
 > Warrior/Scout Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ _Uruk-hai._ Discard on a body check result of 8. <br>_“‘They might agree with me, with Grishnakh their trusted messenger...’”_ ***---LotRII***  <br><br>**Home Site:** Any site in Imlad Morgul 
+> > _**Unique.**_ _Uruk-hai._ Discard on a body check result of 8. <br>_“‘They might agree with me, with Grishnakh their trusted messenger...’”_ ***---&NoBreak;LotRII***  <br><br>**Home Site:** Any site in Imlad Morgul 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【4/8】</div>
@@ -45,7 +45,7 @@ permalink: /cards/grishnakh/
 > Warrior/Scout Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ _Uruk-hai._ Discard on a body check result of 8. <br>_“‘They might agree with me, with Grishnakh their trusted messenger...’”_ ***---LotRII***  <br><br>**Home Site:** Any site in Imlad Morgul 
+> > _**Unique.**_ _Uruk-hai._ Discard on a body check result of 8. <br>_“‘They might agree with me, with Grishnakh their trusted messenger...’”_ ***---&NoBreak;LotRII***  <br><br>**Home Site:** Any site in Imlad Morgul 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【4/8】</div>

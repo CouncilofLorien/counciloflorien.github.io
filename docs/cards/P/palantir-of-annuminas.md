@@ -25,7 +25,7 @@ permalink: /cards/palantir-of-annuminas/
 > Greater Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Palantir._ With its bearer able to use a Palantir, tap Palantir of Annuminas to search through your play deck and discard pile for a "sage only" card. Put this card in your hand. Reshuffle your play deck. Bearer makes a corruption check. <br>_"The Palantiri came from beyond Westernesse, from Eldamar."_ ***---LotRIII*** 
+> > _**Unique.**_ _Palantir._ With its bearer able to use a Palantir, tap Palantir of Annuminas to search through your play deck and discard pile for a "sage only" card. Put this card in your hand. Reshuffle your play deck. Bearer makes a corruption check. <br>_"The Palantiri came from beyond Westernesse, from Eldamar."_ ***---&NoBreak;LotRIII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/palantir-of-annuminas/
 > Greater Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Palantir._ With its bearer able to use a Palantir, tap Palantir of Annuminas to search through your play deck and discard pile for a "sage only" card. Put this card in your hand. Reshuffle your play deck. Bearer makes a corruption check. <br>_"The Palantiri came from beyond Westernesse, from Eldamar."_ ***---LotRIII*** 
+> > _**Unique.**_ _Palantir._ With its bearer able to use a Palantir, tap Palantir of Annuminas to search through your play deck and discard pile for a "sage only" card. Put this card in your hand. Reshuffle your play deck. Bearer makes a corruption check. <br>_"The Palantiri came from beyond Westernesse, from Eldamar."_ ***---&NoBreak;LotRIII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/palantir-of-annuminas/
 > Greater Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Palantir._ With its bearer able to use a Palantir, tap Palantir of Annuminas to take a sage only card from your play deck and/or discard pile into your hand. Reshuffle your play deck. Bearer then makes a corruption check. <br>_“‘...the Men of Westernesse were diminished, and their city, Annuminas...fell into ruin...’”_ ***---LotRII*** 
+> > _**Unique.**_ _Palantir._ With its bearer able to use a Palantir, tap Palantir of Annuminas to take a sage only card from your play deck and/or discard pile into your hand. Reshuffle your play deck. Bearer then makes a corruption check. <br>_“‘...the Men of Westernesse were diminished, and their city, Annuminas...fell into ruin...’”_ ***---&NoBreak;LotRII*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

@@ -25,7 +25,7 @@ permalink: /cards/many-turns-and-doublings/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Ranger only._ Cancel an attack by Wolves, Spiders, Animals, or Undead. Alternatively, if Gates of Morning is in play, decrease the hazard limit against the ranger's company by one (no minimum).   "He was taking a wandering course with many turns and doublings, to put off any pursuit."_ ***---LotRI*** 
+> > _Ranger only._ Cancel an attack by Wolves, Spiders, Animals, or Undead. Alternatively, if Gates of Morning is in play, decrease the hazard limit against the ranger's company by one (no minimum).   "He was taking a wandering course with many turns and doublings, to put off any pursuit."_ ***---&NoBreak;LotRI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/many-turns-and-doublings/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Ranger only._ Cancel an attack by Wolves, Spiders, Animals, or Undead. Alternatively, if Gates of Morning is in play, decrease the hazard limit against the ranger's company by one (no minimum).   "He was taking a wandering course with many turns and doublings, to put off any pursuit."_ ***---LotRI*** 
+> > _Ranger only._ Cancel an attack by Wolves, Spiders, Animals, or Undead. Alternatively, if Gates of Morning is in play, decrease the hazard limit against the ranger's company by one (no minimum).   "He was taking a wandering course with many turns and doublings, to put off any pursuit."_ ***---&NoBreak;LotRI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

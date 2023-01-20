@@ -25,7 +25,7 @@ permalink: /cards/dror/
 > Warrior/Diplomat Dwarf
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ Agent. +2 direct influence against Dwarves and Dwarf factions. <br>_"Ever low he sat, always abiding by greed...oaths are broken, vows refused, or solemn agreements."_ ***---Kuduk Lore***  <br><br>**Home Site:** Blue Mountain Dwarf-hold  
+> > _**Unique.**_ Agent. +2 direct influence against Dwarves and Dwarf factions. <br>_"Ever low he sat, always abiding by greed...oaths are broken, vows refused, or solemn agreements."_ ***---&NoBreak;Kuduk Lore***  <br><br>**Home Site:** Blue Mountain Dwarf-hold  
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【3/7】</div>

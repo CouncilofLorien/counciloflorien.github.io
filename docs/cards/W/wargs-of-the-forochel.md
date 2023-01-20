@@ -25,7 +25,7 @@ permalink: /cards/wargs-of-the-forochel/
 > Wolf Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Lossadan Cairn if the influence check is greater than 10. Once in play, the number required to influence this faction is 0. <br>_Standard Modifications:_ Ice-orcs (+2), Misty Mountain Wargs (+2). <br>_“...come ravening out of the North in bitter white winters...”_ ***---LotRI***  
+> > _**Unique.**_ Playable at Lossadan Cairn if the influence check is greater than 10. Once in play, the number required to influence this faction is 0. <br>_Standard Modifications:_ Ice-orcs (+2), Misty Mountain Wargs (+2). <br>_“...come ravening out of the North in bitter white winters...”_ ***---&NoBreak;LotRI***  
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

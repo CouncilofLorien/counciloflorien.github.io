@@ -25,7 +25,7 @@ permalink: /cards/narsil/
 > Greater Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ __Weapon.__ +1 to prowess and direct influence. <br>_“‘For the Sword that was Broken is the Sword of Elendil that broke beneath him when he fell. It has been treasured by his heirs when all other heirlooms were lost; for it was spoken of old among us that it should be made again when the Ring, Isildur's Bane, was found.’”_ ***---LotRII*** 
+> > _**Unique.**_ __Weapon.__ +1 to prowess and direct influence. <br>_“‘For the Sword that was Broken is the Sword of Elendil that broke beneath him when he fell. It has been treasured by his heirs when all other heirlooms were lost; for it was spoken of old among us that it should be made again when the Ring, Isildur's Bane, was found.’”_ ***---&NoBreak;LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【+1/&ndash;】</div>
@@ -45,7 +45,7 @@ permalink: /cards/narsil/
 > Greater Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Weapon._ +1 to prowess and direct influence. <br>_“‘For the Sword that was Broken is the Sword of Elendil that broke beneath him when he fell. It has been treasured by his heirs when all other heirlooms were lost; for it was spoken of old among us that it should be made again when the Ring, Isildur's Bane, was found.’”_ ***---LotRII*** 
+> > _**Unique.**_ _Weapon._ +1 to prowess and direct influence. <br>_“‘For the Sword that was Broken is the Sword of Elendil that broke beneath him when he fell. It has been treasured by his heirs when all other heirlooms were lost; for it was spoken of old among us that it should be made again when the Ring, Isildur's Bane, was found.’”_ ***---&NoBreak;LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【+1/&ndash;】</div>
@@ -65,7 +65,7 @@ permalink: /cards/narsil/
 > Greater Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Weapon._ +1 to prowess and direct influence. <br>_“‘For the Sword that was Broken is the Sword of Elendil that broke beneath him when he fell. It has been treasured by his heirs when all other heirlooms were lost; for it was spoken of old among us that it should be made again when the Ring, Isildur's Bane, was found.’”_ ***---LotRII*** 
+> > _**Unique.**_ _Weapon._ +1 to prowess and direct influence. <br>_“‘For the Sword that was Broken is the Sword of Elendil that broke beneath him when he fell. It has been treasured by his heirs when all other heirlooms were lost; for it was spoken of old among us that it should be made again when the Ring, Isildur's Bane, was found.’”_ ***---&NoBreak;LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【+1/&ndash;】</div>

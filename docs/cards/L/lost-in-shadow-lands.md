@@ -25,7 +25,7 @@ permalink: /cards/lost-in-shadow-lands/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a company that is moving this turn. You may play one additional hazard on target company for each Shadow-land \[![](/assets/images/shadow-land.svg)] in its site path. <br>_"The remainder of that journey was a shadow of growing fear in which memory could find nothing to rest upon."_ ***---LotRIV*** 
+> > Playable on a company that is moving this turn. You may play one additional hazard on target company for each Shadow-land \[![](/assets/images/shadow-land.svg)] in its site path. <br>_"The remainder of that journey was a shadow of growing fear in which memory could find nothing to rest upon."_ ***---&NoBreak;LotRIV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/lost-in-shadow-lands/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a company that is moving this turn. You may play one additional hazard on target company for each Shadow-land \[![](/assets/images/shadow-land.svg)] in its site path. <br>_"The remainder of that journey was a shadow of growing fear in which memory could find nothing to rest upon."_ ***---LotRIV*** 
+> > Playable on a company that is moving this turn. You may play one additional hazard on target company for each Shadow-land \[![](/assets/images/shadow-land.svg)] in its site path. <br>_"The remainder of that journey was a shadow of growing fear in which memory could find nothing to rest upon."_ ***---&NoBreak;LotRIV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/lost-in-shadow-lands/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a moving company. Its hazard limit increases by one for every Shadow-land \[![](/assets/images/shadow-land.svg)] in its site path. <br>_"The nights were the worst...really pitch; so black that you could really see nothing."_ ***---Hob*** 
+> > Playable on a moving company. Its hazard limit increases by one for every Shadow-land \[![](/assets/images/shadow-land.svg)] in its site path. <br>_"The nights were the worst...really pitch; so black that you could really see nothing."_ ***---&NoBreak;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

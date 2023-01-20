@@ -25,7 +25,7 @@ permalink: /cards/they-ride-together/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable only at a Darkhaven \[![](/assets/images/dark-haven.svg)] during the organization phase on your Ringwraith's company. You may bring any Ringwraith followers into play with your Ringwraith's company as you have in your hand and have direct influence to control.   “‘...even the Wise might fear to withstand the Nine, when they are gathered together undertheir fell chieftain.’”_ ***---LotRI*** 
+> > Playable only at a Darkhaven \[![](/assets/images/dark-haven.svg)] during the organization phase on your Ringwraith's company. You may bring any Ringwraith followers into play with your Ringwraith's company as you have in your hand and have direct influence to control.   “‘...even the Wise might fear to withstand the Nine, when they are gathered together undertheir fell chieftain.’”_ ***---&NoBreak;LotRI*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

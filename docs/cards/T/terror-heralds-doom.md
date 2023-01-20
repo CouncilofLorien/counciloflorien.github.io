@@ -25,7 +25,7 @@ permalink: /cards/terror-heralds-doom/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Balrog specific._ Playable during the organization phase if Flame of Udun is in play. You may bring this card from your sideboard into your play deck and reshuffle during your organization phase. +2 to all influence attempts this turn by any of your characters.   “...he looked grey in the face, as one who has felt great fear."_ ***---LotR*** 
+> > _Balrog specific._ Playable during the organization phase if Flame of Udun is in play. You may bring this card from your sideboard into your play deck and reshuffle during your organization phase. +2 to all influence attempts this turn by any of your characters.   “...he looked grey in the face, as one who has felt great fear."_ ***---&NoBreak;LotR*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

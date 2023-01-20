@@ -25,7 +25,7 @@ permalink: /cards/weigh-all-things-to-a-nicety/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Bring one resource or character (including your Ringwraith) from your sideboard or discard pile into your play deck and shuffle.   "But it was no orc-chieftain or brigand that led the assault upon Gondor."_ ***---LotRI*** 
+> > Bring one resource or character (including your Ringwraith) from your sideboard or discard pile into your play deck and shuffle.   "But it was no orc-chieftain or brigand that led the assault upon Gondor."_ ***---&NoBreak;LotRI*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/weigh-all-things-to-a-nicety/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Bring one resource or character (including your Ringwraith) from your sideboard or discard pile into your play deck and shuffle.   "But it was no orc-chieftain or brigand that led the assault upon Gondor."_ ***---LotRI*** 
+> > Bring one resource or character (including your Ringwraith) from your sideboard or discard pile into your play deck and shuffle.   "But it was no orc-chieftain or brigand that led the assault upon Gondor."_ ***---&NoBreak;LotRI*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

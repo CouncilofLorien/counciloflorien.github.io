@@ -25,7 +25,7 @@ permalink: /cards/gandalfs-friend/
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Gandalf specific._ Playable on one of your characters at one of your Wizardhavens \[![](/assets/images/free-haven.svg)] (or in your starting company). +2 to his direct influence. This character requires 1 point of influence to control and may only be controlled by general influence or Gandalf.   “‘...eye fixed on Mithrandir, seeking whether you said well or too much? He has long had your heart in his keeping.’”_ ***---LotRV*** 
+> > _**Unique.**_ _Gandalf specific._ Playable on one of your characters at one of your Wizardhavens \[![](/assets/images/free-haven.svg)] (or in your starting company). +2 to his direct influence. This character requires 1 point of influence to control and may only be controlled by general influence or Gandalf.   “‘...eye fixed on Mithrandir, seeking whether you said well or too much? He has long had your heart in his keeping.’”_ ***---&NoBreak;LotRV*** 
 > 
 > {: .stage-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

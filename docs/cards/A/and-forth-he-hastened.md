@@ -25,7 +25,7 @@ permalink: /cards/and-forth-he-hastened/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Untap a character in your Wizard's company. <br>_"Enchantment healed his weary feet... And forth he hastened, string and fleet...”_ ***---LotRI*** 
+> > Untap a character in your Wizard's company. <br>_"Enchantment healed his weary feet... And forth he hastened, string and fleet...”_ ***---&NoBreak;LotRI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/and-forth-he-hastened/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Untap a character in your Wizard's company. <br>_"Enchantment healed his weary feet... And forth he hastened, string and fleet...”_ ***---LotRI*** 
+> > Untap a character in your Wizard's company. <br>_"Enchantment healed his weary feet... And forth he hastened, string and fleet...”_ ***---&NoBreak;LotRI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

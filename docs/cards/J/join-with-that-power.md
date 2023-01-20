@@ -25,7 +25,7 @@ permalink: /cards/join-with-that-power/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Diplomat only._ One influence check or corruption check by a character in a diplomat's company receives a bonus equal to the number of characters in the company minus 1. Cannot be duplicated on a given check. <br>_“‘...only in the mouths of emissaries sent from Mordor to deceive the ignorant.’”_ ***---LotRII*** 
+> > _Diplomat only._ One influence check or corruption check by a character in a diplomat's company receives a bonus equal to the number of characters in the company minus 1. Cannot be duplicated on a given check. <br>_“‘...only in the mouths of emissaries sent from Mordor to deceive the ignorant.’”_ ***---&NoBreak;LotRII*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/join-with-that-power/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Diplomat only._ One influence check or corruption check by a character in a diplomat's company receives a bonus equal to the number of characters in the company minus 1. Cannot be duplicated on a given check. <br>_“‘...only in the mouths of emissaries sent from Mordor to deceive the ignorant.’”_ ***---LotRII*** 
+> > _Diplomat only._ One influence check or corruption check by a character in a diplomat's company receives a bonus equal to the number of characters in the company minus 1. Cannot be duplicated on a given check. <br>_“‘...only in the mouths of emissaries sent from Mordor to deceive the ignorant.’”_ ***---&NoBreak;LotRII*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

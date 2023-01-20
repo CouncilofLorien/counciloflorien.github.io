@@ -25,7 +25,7 @@ permalink: /cards/the-under-roads/
 > Long-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > The roll required for minions to move between adjacent Under-deeps sites is decreased by 3. Discards and prohibits subsequent play of The Way is Shut.   "Rivulets of liquid rock spilled into the molten river, which wound its way beneath basalt arches."_ ***---Kuduk Lore*** 
+> > The roll required for minions to move between adjacent Under-deeps sites is decreased by 3. Discards and prohibits subsequent play of The Way is Shut.   "Rivulets of liquid rock spilled into the molten river, which wound its way beneath basalt arches."_ ***---&NoBreak;Kuduk Lore*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/the-under-roads/
 > Long-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > The roll required for minions to move between adjacent Under-deeps sites is decreased by 3. Discards and prohibits subsequent play of The Way is Shut.   "Rivulets of liquid rock spilled into the molten river, which wound its way beneath basalt arches."_ ***---Kuduk Lore*** 
+> > The roll required for minions to move between adjacent Under-deeps sites is decreased by 3. Discards and prohibits subsequent play of The Way is Shut.   "Rivulets of liquid rock spilled into the molten river, which wound its way beneath basalt arches."_ ***---&NoBreak;Kuduk Lore*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

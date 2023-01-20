@@ -25,7 +25,7 @@ permalink: /cards/narya/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Gandalf only._ +4 prowess, +1 body, +2 direct influence for the rest of the turn. Immediately untap all unwounded characters in Gandalf's company. Gandalf makes a corruption check modified by -5. <br>_“‘For this is the Ring of Fire and with it you may rekindle hearts in a world the grows chill.’”_ ***---LotRVI*** 
+> > _Gandalf only._ +4 prowess, +1 body, +2 direct influence for the rest of the turn. Immediately untap all unwounded characters in Gandalf's company. Gandalf makes a corruption check modified by -5. <br>_“‘For this is the Ring of Fire and with it you may rekindle hearts in a world the grows chill.’”_ ***---&NoBreak;LotRVI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/narya/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Gandalf only._ +4 prowess, +1 body, +2 direct influence for the rest of the turn. Immediately untap all unwounded characters in Gandalf's company. Gandalf makes a corruption check modified by -5. <br>_“‘For this is the Ring of Fire and with it you may rekindle hearts in a world the grows chill.’”_ ***---LotRVI*** 
+> > _Gandalf only._ +4 prowess, +1 body, +2 direct influence for the rest of the turn. Immediately untap all unwounded characters in Gandalf's company. Gandalf makes a corruption check modified by -5. <br>_“‘For this is the Ring of Fire and with it you may rekindle hearts in a world the grows chill.’”_ ***---&NoBreak;LotRVI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

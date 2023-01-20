@@ -25,7 +25,7 @@ permalink: /cards/elven-cloak/
 > Minor Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Tap Elven Cloak to cancel one strike against bearer; the strike must be keyed to Wilderness \[![](/assets/images/wilderness.svg)]. May not be duplicated on a given character. <br>_“...grey with the hue of twilight under the trees they seemed to be; and yet if they move, or set in another light, they were green as shadowed leaves, or brown as fallow fields by night...”_ ***---LotRII*** 
+> > Tap Elven Cloak to cancel one strike against bearer; the strike must be keyed to Wilderness \[![](/assets/images/wilderness.svg)]. May not be duplicated on a given character. <br>_“...grey with the hue of twilight under the trees they seemed to be; and yet if they move, or set in another light, they were green as shadowed leaves, or brown as fallow fields by night...”_ ***---&NoBreak;LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/elven-cloak/
 > Minor Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Tap Elven Cloak to cancel one strike against bearer; the strike must be keyed to Wilderness \[![](/assets/images/wilderness.svg)]. May not be duplicated on a given character. <br>_“...grey with the hue of twilight under the trees they seemed to be; and yet if they move, or set in another light, they were green as shadowed leaves, or brown as fallow fields by night...”_ ***---LotRII*** 
+> > Tap Elven Cloak to cancel one strike against bearer; the strike must be keyed to Wilderness \[![](/assets/images/wilderness.svg)]. May not be duplicated on a given character. <br>_“...grey with the hue of twilight under the trees they seemed to be; and yet if they move, or set in another light, they were green as shadowed leaves, or brown as fallow fields by night...”_ ***---&NoBreak;LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/elven-cloak/
 > Minor Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Tap Elven Cloak to cancel one strike against bearer; the strike must be keyed to Wilderness \[![](/assets/images/wilderness.svg)]. May not be duplicated on a given character. <br>_“...grey with the hue of twilight under the trees they seemed to be; and yet if they move, or set in another light, they were green as shadowed leaves, or brown as fallow fields by night...”_ ***---LotRII*** 
+> > Tap Elven Cloak to cancel one strike against bearer; the strike must be keyed to Wilderness \[![](/assets/images/wilderness.svg)]. May not be duplicated on a given character. <br>_“...grey with the hue of twilight under the trees they seemed to be; and yet if they move, or set in another light, they were green as shadowed leaves, or brown as fallow fields by night...”_ ***---&NoBreak;LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

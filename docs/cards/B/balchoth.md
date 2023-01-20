@@ -25,7 +25,7 @@ permalink: /cards/balchoth/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Raider-hold if the influence check is greater than 8.  <br>_Standard Modifications:_ Easterlings (+2), Men of Dorwinion(-2). <br>_“... a fierce people...they made raids...until the vale of Anduin south of the Gladden was largely deserted."_ ***---LotR*** 
+> > _**Unique.**_ Playable at Raider-hold if the influence check is greater than 8.  <br>_Standard Modifications:_ Easterlings (+2), Men of Dorwinion(-2). <br>_“... a fierce people...they made raids...until the vale of Anduin south of the Gladden was largely deserted."_ ***---&NoBreak;LotR*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/balchoth/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Raider-hold if the influence check is greater than 8.  <br>_Standard Modifications:_ Easterlings (+2), Men of Dorwinion(-2). <br>_“... a fierce people...they made raids...until the vale of Anduin south of the Gladden was largely deserted."_ ***---LotR*** 
+> > _**Unique.**_ Playable at Raider-hold if the influence check is greater than 8.  <br>_Standard Modifications:_ Easterlings (+2), Men of Dorwinion(-2). <br>_“... a fierce people...they made raids...until the vale of Anduin south of the Gladden was largely deserted."_ ***---&NoBreak;LotR*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

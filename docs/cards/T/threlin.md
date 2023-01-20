@@ -25,7 +25,7 @@ permalink: /cards/threlin/
 > Warrior/Diplomat Dwarf
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against Dwarves and Dwarf factions. +1 prowess against Orcs and Elves. <br>_“...all other good things seemed profitless, and they were filled with wrath and desire for vengeance on all who deprived them."_ ***---LotR***  <br><br>**Home Site:** Minas Morgul 
+> > _**Unique.**_ +2 direct influence against Dwarves and Dwarf factions. +1 prowess against Orcs and Elves. <br>_“...all other good things seemed profitless, and they were filled with wrath and desire for vengeance on all who deprived them."_ ***---&NoBreak;LotR***  <br><br>**Home Site:** Minas Morgul 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【4/7】</div>

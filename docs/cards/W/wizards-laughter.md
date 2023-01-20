@@ -25,7 +25,7 @@ permalink: /cards/wizards-laughter/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Spell._ Wizard only during your opponent's site phase. Automatically cancels an influence check against one of the Wizard's player's characters, followers, factions, allies, or items. Wizard makes a corruption check modified by -2. <br>_"Then Gandalf laughed. The fantasy vanished like a puff of smoke. 'Saruman...you should have been the king's jester...’”_ ***---LotRIII*** 
+> > _Spell._ Wizard only during your opponent's site phase. Automatically cancels an influence check against one of the Wizard's player's characters, followers, factions, allies, or items. Wizard makes a corruption check modified by -2. <br>_"Then Gandalf laughed. The fantasy vanished like a puff of smoke. 'Saruman...you should have been the king's jester...’”_ ***---&NoBreak;LotRIII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/wizards-laughter/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Spell._ Wizard only during your opponent's site phase. Automatically cancels an influence check against one of the Wizard's player's characters, followers, factions, allies, or items. Wizard makes a corruption check modified by -2. <br>_"Then Gandalf laughed. The fantasy vanished like a puff of smoke. 'Saruman...you should have been the king's jester...’”_ ***---LotRIII*** 
+> > _Spell._ Wizard only during your opponent's site phase. Automatically cancels an influence check against one of the Wizard's player's characters, followers, factions, allies, or items. Wizard makes a corruption check modified by -2. <br>_"Then Gandalf laughed. The fantasy vanished like a puff of smoke. 'Saruman...you should have been the king's jester...’”_ ***---&NoBreak;LotRIII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/wizards-laughter/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Spell._ Wizard only during your opponent's site phase. Automatically cancels an influence check against one of the Wizard's player's characters, followers, factions, allies, or items. Wizard makes a corruption check modified by -2. <br>_"Then Gandalf laughed. The fantasy vanished like a puff of smoke. 'Saruman...you should have been the king's jester...’”_ ***---LotRIII*** 
+> > _Spell._ Wizard only during your opponent's site phase. Automatically cancels an influence check against one of the Wizard's player's characters, followers, factions, allies, or items. Wizard makes a corruption check modified by -2. <br>_"Then Gandalf laughed. The fantasy vanished like a puff of smoke. 'Saruman...you should have been the king's jester...’”_ ***---&NoBreak;LotRIII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

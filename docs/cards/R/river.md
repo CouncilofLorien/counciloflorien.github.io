@@ -25,7 +25,7 @@ permalink: /cards/river/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a site. If a company that has moved to this site this turn does not tap a ranger, it must do nothing during its site phase. <br>_"I don't know what river it was, a rushing red one, swollen with the ruins of the last few days, that came down from the hills and mountains...”_ ***---Hob*** 
+> > Playable on a site. If a company that has moved to this site this turn does not tap a ranger, it must do nothing during its site phase. <br>_"I don't know what river it was, a rushing red one, swollen with the ruins of the last few days, that came down from the hills and mountains...”_ ***---&NoBreak;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/river/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a site. If a company that has moved to this site this turn does not tap a ranger, it must do nothing during its site phase. <br>_"I don't know what river it was, a rushing red one, swollen with the ruins of the last few days, that came down from the hills and mountains...”_ ***---Hob*** 
+> > Playable on a site. If a company that has moved to this site this turn does not tap a ranger, it must do nothing during its site phase. <br>_"I don't know what river it was, a rushing red one, swollen with the ruins of the last few days, that came down from the hills and mountains...”_ ***---&NoBreak;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/river/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a site. If a company that has moved to this site this turn does not tap a ranger, it must do nothing during its site phase. <br>_"I don't know what river it was, a rushing red one, swollen with the ruins of the last few days, that came down from the hills and mountains...”_ ***---Hob*** 
+> > Playable on a site. If a company that has moved to this site this turn does not tap a ranger, it must do nothing during its site phase. <br>_"I don't know what river it was, a rushing red one, swollen with the ruins of the last few days, that came down from the hills and mountains...”_ ***---&NoBreak;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -85,7 +85,7 @@ permalink: /cards/river/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a site. If a company that has moved to this site this turn does not tap a ranger, it must do nothing during its site phase. <br>_"In the far stage, under the distant lamps, they could just make out a figure...as they looked it seemed to move and sway this way and that, as if searching the ground. It then crawled, or went crouching, back into the gloom beyond the lamps."_ ***---LotRI*** 
+> > Playable on a site. If a company that has moved to this site this turn does not tap a ranger, it must do nothing during its site phase. <br>_"In the far stage, under the distant lamps, they could just make out a figure...as they looked it seemed to move and sway this way and that, as if searching the ground. It then crawled, or went crouching, back into the gloom beyond the lamps."_ ***---&NoBreak;LotRI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -105,7 +105,7 @@ permalink: /cards/river/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a site. If a company that has moved to this site this turn does not tap a ranger, it must do nothing during its site phase. <br>_"I don't know what river it was, a rushing red one, swollen with the ruins of the last few days, that came down from the hills and mountains...”_ ***---Hob*** 
+> > Playable on a site. If a company that has moved to this site this turn does not tap a ranger, it must do nothing during its site phase. <br>_"I don't know what river it was, a rushing red one, swollen with the ruins of the last few days, that came down from the hills and mountains...”_ ***---&NoBreak;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

@@ -25,7 +25,7 @@ permalink: /cards/abductor/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Men._ One strike. Each non-Wizard defending character wounded by the Abductor is discarded. <br>_"Suddenly he seized them. The strength in his long arms and shoulders was terrifying. He tucked them one under each armpit, and crushed them fiercely to his sides; a great stifling hand was clapped over each of their mouths."_ ***---LotRIII*** 
+> > _Men._ One strike. Each non-Wizard defending character wounded by the Abductor is discarded. <br>_"Suddenly he seized them. The strength in his long arms and shoulders was terrifying. He tucked them one under each armpit, and crushed them fiercely to his sides; a great stifling hand was clapped over each of their mouths."_ ***---&NoBreak;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【10/&ndash;】</div>
@@ -45,7 +45,7 @@ permalink: /cards/abductor/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Men._ One strike. Each non-Wizard defending character wounded by the Abductor is discarded. <br>_"Suddenly he seized them. The strength in his long arms and shoulders was terrifying. He tucked them one under each armpit, and crushed them fiercely to his sides; a great stifling hand was clapped over each of their mouths."_ ***---LotRIII*** 
+> > _Men._ One strike. Each non-Wizard defending character wounded by the Abductor is discarded. <br>_"Suddenly he seized them. The strength in his long arms and shoulders was terrifying. He tucked them one under each armpit, and crushed them fiercely to his sides; a great stifling hand was clapped over each of their mouths."_ ***---&NoBreak;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【10/&ndash;】</div>
@@ -65,7 +65,7 @@ permalink: /cards/abductor/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Men._ One strike. Each non-Wizard defending character wounded by the Abductor is discarded. <br>_"Suddenly he seized them. The strength in his long arms and shoulders was terrifying. He tucked them one under each armpit, and crushed them fiercely to his sides; a great stifling hand was clapped over each of their mouths."_ ***---LotRIII*** 
+> > _Men._ One strike. Each non-Wizard defending character wounded by the Abductor is discarded. <br>_"Suddenly he seized them. The strength in his long arms and shoulders was terrifying. He tucked them one under each armpit, and crushed them fiercely to his sides; a great stifling hand was clapped over each of their mouths."_ ***---&NoBreak;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【10/&ndash;】</div>

@@ -25,7 +25,7 @@ permalink: /cards/glance-of-arien/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ Playable on The Balrog at or moving to a non-Under-deeps site. -2/-1 to his prowess/body until the end of turn. This modification is -4/-2 if Gates of Morning is in play. Cannot be duplicated on a given turn.   "The Black Enemy and his servants could not endure the glance of the Sun's bright eyes."_ ***---Kuduk Lore*** 
+> > _Environment._ Playable on The Balrog at or moving to a non-Under-deeps site. -2/-1 to his prowess/body until the end of turn. This modification is -4/-2 if Gates of Morning is in play. Cannot be duplicated on a given turn.   "The Black Enemy and his servants could not endure the glance of the Sun's bright eyes."_ ***---&NoBreak;Kuduk Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

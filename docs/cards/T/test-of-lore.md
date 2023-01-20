@@ -25,7 +25,7 @@ permalink: /cards/test-of-lore/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Sage only, and only if a character in his company has a Gold Ring. Play to test a Gold Ring; subtract one from the result of the roll (or draw). <br>_"The moon was shining in a broad silver crescent. He held up the map and the white light shone through it."_ ***---Hob*** 
+> > Sage only, and only if a character in his company has a Gold Ring. Play to test a Gold Ring; subtract one from the result of the roll (or draw). <br>_"The moon was shining in a broad silver crescent. He held up the map and the white light shone through it."_ ***---&NoBreak;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/test-of-lore/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Sage only, and only if a character in his company has a Gold Ring. Play to test a Gold Ring; subtract one from the result of the roll (or draw). <br>_"The moon was shining in a broad silver crescent. He held up the map and the white light shone through it."_ ***---Hob*** 
+> > Sage only, and only if a character in his company has a Gold Ring. Play to test a Gold Ring; subtract one from the result of the roll (or draw). <br>_"The moon was shining in a broad silver crescent. He held up the map and the white light shone through it."_ ***---&NoBreak;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

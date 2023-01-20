@@ -25,7 +25,7 @@ permalink: /cards/glorfindel-ii/
 > Warrior/Sage Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +1 direct influence against Elves. <br>_"Glorfindel was tall and straight; his hair was of shining gold, his face fair and young and fearless and full of joy; his eyes were bright and keen, and his voice like music; on his brow sat wisdom, and in his hand was strength."_ ***---LotRII***  <br><br>**Home Site:** Rivendell 
+> > _**Unique.**_ +1 direct influence against Elves. <br>_"Glorfindel was tall and straight; his hair was of shining gold, his face fair and young and fearless and full of joy; his eyes were bright and keen, and his voice like music; on his brow sat wisdom, and in his hand was strength."_ ***---&NoBreak;LotRII***  <br><br>**Home Site:** Rivendell 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【8/9】</div>
@@ -45,7 +45,7 @@ permalink: /cards/glorfindel-ii/
 > Warrior/Sage Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +1 direct influence against Elves. <br>_"Glorfindel was tall and straight; his hair was of shining gold, his face fair and young and fearless and full of joy; his eyes were bright and keen, and his voice like music; on his brow sat wisdom, and in his hand was strength."_ ***---LotRII***  <br><br>**Home Site:** Rivendell 
+> > _**Unique.**_ +1 direct influence against Elves. <br>_"Glorfindel was tall and straight; his hair was of shining gold, his face fair and young and fearless and full of joy; his eyes were bright and keen, and his voice like music; on his brow sat wisdom, and in his hand was strength."_ ***---&NoBreak;LotRII***  <br><br>**Home Site:** Rivendell 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【8/9】</div>
@@ -65,7 +65,7 @@ permalink: /cards/glorfindel-ii/
 > Warrior/Sage Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +1 direct influence against Elves. <br>_"Glorfindel was tall and straight; his hair was of shining gold, his face fair and young and fearless and full of joy; his eyes were bright and keen, and his voice like music; on his brow sat wisdom, and in his hand was strength."_ ***---LotRII***  <br><br>**Home Site:** Rivendell 
+> > _**Unique.**_ +1 direct influence against Elves. <br>_"Glorfindel was tall and straight; his hair was of shining gold, his face fair and young and fearless and full of joy; his eyes were bright and keen, and his voice like music; on his brow sat wisdom, and in his hand was strength."_ ***---&NoBreak;LotRII***  <br><br>**Home Site:** Rivendell 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【8/9】</div>

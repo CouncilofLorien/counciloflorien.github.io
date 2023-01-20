@@ -25,7 +25,7 @@ permalink: /cards/spawn-of-ungoliant/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Spawn._. The Pukel-deeps and The Gem-deeps each have an additional attack: _Spawn._-3 strikes with 15/8 prowess. In addition, +1 to all body checks for Elves, Dwarves, Hobbits, Dunedain, and Men resulting from Spider attacks. <br>_“...such as once of old had lived in the Land of the Elves in the West that is now under the sea...”_ ***---LotRIV*** 
+> > _**Unique.**_ _Spawn._. The Pukel-deeps and The Gem-deeps each have an additional attack: _Spawn._-3 strikes with 15/8 prowess. In addition, +1 to all body checks for Elves, Dwarves, Hobbits, Dunedain, and Men resulting from Spider attacks. <br>_“...such as once of old had lived in the Land of the Elves in the West that is now under the sea...”_ ***---&NoBreak;LotRIV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

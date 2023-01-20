@@ -25,7 +25,7 @@ permalink: /cards/pelargir/
 > Lebennin
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Edhellond  “‘The hour is come at last. Now I will go to Pelargir upon Anduin, and ye shall come after me.’”_ ***---LotRV*** 
+> > Nearest Haven: Edhellond  “‘The hour is come at last. Now I will go to Pelargir upon Anduin, and ye shall come after me.’”_ ***---&NoBreak;LotRV*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/pelargir/
 > Lebennin
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Edhellond  “‘The hour is come at last. Now I will go to Pelargir upon Anduin, and ye shall come after me.’”_ ***---LotRV*** 
+> > Nearest Haven: Edhellond  “‘The hour is come at last. Now I will go to Pelargir upon Anduin, and ye shall come after me.’”_ ***---&NoBreak;LotRV*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/pelargir/
 > Lebennin
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Edhellond  “‘The hour is come at last. Now I will go to Pelargir upon Anduin, and ye shall come after me.’”_ ***---LotRV*** 
+> > Nearest Haven: Edhellond  “‘The hour is come at last. Now I will go to Pelargir upon Anduin, and ye shall come after me.’”_ ***---&NoBreak;LotRV*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>

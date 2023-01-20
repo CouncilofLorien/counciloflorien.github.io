@@ -25,7 +25,7 @@ permalink: /cards/lake-town/
 > Northern Rhovanion
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien  "It was not built on the shore...but right out on the surface of the lake, protected from the swirl of the entering river by a promontory of rock which formed a calm bay. A great bridge made of wood ran out to where on huge piles of forest trees was built a busy wooden town...”_ ***---LotRI*** 
+> > Nearest Haven: Lorien  "It was not built on the shore...but right out on the surface of the lake, protected from the swirl of the entering river by a promontory of rock which formed a calm bay. A great bridge made of wood ran out to where on huge piles of forest trees was built a busy wooden town...”_ ***---&NoBreak;LotRI*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/lake-town/
 > Northern Rhovanion
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien  "It was not built on the shore...but right out on the surface of the lake, protected from the swirl of the entering river by a promontory of rock which formed a calm bay. A great bridge made of wood ran out to where on huge piles of forest trees was built a busy wooden town...”_ ***---LotRI*** 
+> > Nearest Haven: Lorien  "It was not built on the shore...but right out on the surface of the lake, protected from the swirl of the entering river by a promontory of rock which formed a calm bay. A great bridge made of wood ran out to where on huge piles of forest trees was built a busy wooden town...”_ ***---&NoBreak;LotRI*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/lake-town/
 > Northern Rhovanion
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 6 prowess (detainment against covert company)  “...tall piles on which were built the greater houses, and...long wooden quays with many steps and ladders going down to the surface of the lake."_ ***---Hob*** 
+> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 6 prowess (detainment against covert company)  “...tall piles on which were built the greater houses, and...long wooden quays with many steps and ladders going down to the surface of the lake."_ ***---&NoBreak;Hob*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

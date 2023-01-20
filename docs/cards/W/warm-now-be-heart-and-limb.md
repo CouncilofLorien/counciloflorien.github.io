@@ -25,7 +25,7 @@ permalink: /cards/warm-now-be-heart-and-limb/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Ritual._ Playable on a company during organization phase. Each sage in company that taps may heal one character (from wounded to tapped). Each sage so tapping makes a corruption check.   "To Frodo's great joy the Hobbits stirred, stretched their arms, rubbed their eyes, and then suddenly sprang up."_ ***---LotRI*** 
+> > _Ritual._ Playable on a company during organization phase. Each sage in company that taps may heal one character (from wounded to tapped). Each sage so tapping makes a corruption check.   "To Frodo's great joy the Hobbits stirred, stretched their arms, rubbed their eyes, and then suddenly sprang up."_ ***---&NoBreak;LotRI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

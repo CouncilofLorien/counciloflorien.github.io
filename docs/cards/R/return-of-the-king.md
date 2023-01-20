@@ -25,7 +25,7 @@ permalink: /cards/return-of-the-king/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Aragorn II only. Only playable at Minas Tirith and only if Denethor II is not in play. Aragorn II's direct influence is modified by +3. Keep this card with Aragorn II; discard if he leaves play. <br>_“...wisdom sat upon his brow, and strength and healing were in his hands, and a light was about him."_ ***---LotRVI***  
+> > _**Unique.**_ Aragorn II only. Only playable at Minas Tirith and only if Denethor II is not in play. Aragorn II's direct influence is modified by +3. Keep this card with Aragorn II; discard if he leaves play. <br>_“...wisdom sat upon his brow, and strength and healing were in his hands, and a light was about him."_ ***---&NoBreak;LotRVI***  
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/return-of-the-king/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Aragorn II only. Only playable at Minas Tirith and only if Denethor II is not in play. Aragorn II's direct influence is modified by +3. Keep this card with Aragorn II; discard if he leaves play. <br>_“...wisdom sat upon his brow, and strength and healing were in his hands, and a light was about him."_ ***---LotRVI***  
+> > _**Unique.**_ Aragorn II only. Only playable at Minas Tirith and only if Denethor II is not in play. Aragorn II's direct influence is modified by +3. Keep this card with Aragorn II; discard if he leaves play. <br>_“...wisdom sat upon his brow, and strength and healing were in his hands, and a light was about him."_ ***---&NoBreak;LotRVI***  
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/return-of-the-king/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Aragorn II only. Only playable at Minas Tirith and only if Denethor II is not in play. Aragorn II's direct influence is modified by +3. Keep this card with Aragorn II; discard if he leaves play. <br>_“...wisdom sat upon his brow, and strength and healing were in his hands, and a light was about him."_ ***---LotRVI***  
+> > _**Unique.**_ Aragorn II only. Only playable at Minas Tirith and only if Denethor II is not in play. Aragorn II's direct influence is modified by +3. Keep this card with Aragorn II; discard if he leaves play. <br>_“...wisdom sat upon his brow, and strength and healing were in his hands, and a light was about him."_ ***---&NoBreak;LotRVI***  
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

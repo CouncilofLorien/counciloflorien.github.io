@@ -25,7 +25,7 @@ permalink: /cards/ire-of-the-east/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Targets and cancels one minion short-event played by a Fallen-wizard earlier in the same chain of effects. This card can be played at any time and does not count against the hazard limit. Remove this card from the game. <br>_“‘So whether he will or no, he will appear a rebel.’”_ ***---LotRII*** 
+> > Targets and cancels one minion short-event played by a Fallen-wizard earlier in the same chain of effects. This card can be played at any time and does not count against the hazard limit. Remove this card from the game. <br>_“‘So whether he will or no, he will appear a rebel.’”_ ***---&NoBreak;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

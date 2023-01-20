@@ -25,7 +25,7 @@ permalink: /cards/juoma/
 > Warrior/Ranger Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ Agent. <br>_"The Lossoth house in the snow...”_ ***---LotR***  <br><br>**Home Site:** Lossadan Camp, Bree 
+> > _**Unique.**_ Agent. <br>_"The Lossoth house in the snow...”_ ***---&NoBreak;LotR***  <br><br>**Home Site:** Lossadan Camp, Bree 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【3/7】</div>

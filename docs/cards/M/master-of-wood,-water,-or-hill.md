@@ -25,7 +25,7 @@ permalink: /cards/master-of-wood,-water,-or-hill/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Ritual._ Tap a sage to change one Wilderness \[![](/assets/images/wilderness.svg)] to a Border-land \[![](/assets/images/border-land.svg)] or Shadow-land \[![](/assets/images/shadow-land.svg)] or one Shadow-land \[![](/assets/images/shadow-land.svg)] to a Wilderness \[![](/assets/images/wilderness.svg)] or one Border-land \[![](/assets/images/border-land.svg)] to a Wilderness \[![](/assets/images/wilderness.svg)]. Sage makes a corruption check.   “‘...No one has ever caught old Tom walking in the forest, wading in the water, leaping on the hill-tops under light and shadow. He has no fear.’”_ ***---LotRI*** 
+> > _Ritual._ Tap a sage to change one Wilderness \[![](/assets/images/wilderness.svg)] to a Border-land \[![](/assets/images/border-land.svg)] or Shadow-land \[![](/assets/images/shadow-land.svg)] or one Shadow-land \[![](/assets/images/shadow-land.svg)] to a Wilderness \[![](/assets/images/wilderness.svg)] or one Border-land \[![](/assets/images/border-land.svg)] to a Wilderness \[![](/assets/images/wilderness.svg)]. Sage makes a corruption check.   “‘...No one has ever caught old Tom walking in the forest, wading in the water, leaping on the hill-tops under light and shadow. He has no fear.’”_ ***---&NoBreak;LotRI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

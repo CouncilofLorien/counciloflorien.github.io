@@ -25,7 +25,7 @@ permalink: /cards/umbarean-corsairs/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Gobel Mirlond if the influence check is greater than 8.  <br>_Standard Modifications:_ Black Numenoreans (+2), Southrons (+2). <br>_"Umbar remained at war with Gondor for many lives of men, a threat to its coastlands and to all traffic on the sea."_ ***---LotR***  
+> > _**Unique.**_ Playable at Gobel Mirlond if the influence check is greater than 8.  <br>_Standard Modifications:_ Black Numenoreans (+2), Southrons (+2). <br>_"Umbar remained at war with Gondor for many lives of men, a threat to its coastlands and to all traffic on the sea."_ ***---&NoBreak;LotR***  
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

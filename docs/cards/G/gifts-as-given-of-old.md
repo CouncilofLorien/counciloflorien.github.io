@@ -25,7 +25,7 @@ permalink: /cards/gifts-as-given-of-old/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Provides +3 to an influence attempt against a faction. <br>_“‘The Lord Sauron the Great, so he said, wished for our friendship. Ring he would give for it, such as he gave of old.’”_ ***---LotRII*** 
+> > Provides +3 to an influence attempt against a faction. <br>_“‘The Lord Sauron the Great, so he said, wished for our friendship. Ring he would give for it, such as he gave of old.’”_ ***---&NoBreak;LotRII*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/gifts-as-given-of-old/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Provides +3 to an influence attempt against a faction. <br>_“‘The Lord Sauron the Great, so he said, wished for our friendship. Ring he would give for it, such as he gave of old.’”_ ***---LotRII*** 
+> > Provides +3 to an influence attempt against a faction. <br>_“‘The Lord Sauron the Great, so he said, wished for our friendship. Ring he would give for it, such as he gave of old.’”_ ***---&NoBreak;LotRII*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

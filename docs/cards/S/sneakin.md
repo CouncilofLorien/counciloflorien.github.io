@@ -25,7 +25,7 @@ permalink: /cards/sneakin/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Scout only._ Playable during the organization phase on an untapped scout in a company with a company size less than 3. Tap the scout. No creature hazards may beplayed on his company this turn.   “‘...he has been lying on a log and paddling with hands and feet...slier than a fox, and slippery as a fish.’”_ ***---LotRII*** 
+> > _Scout only._ Playable during the organization phase on an untapped scout in a company with a company size less than 3. Tap the scout. No creature hazards may beplayed on his company this turn.   “‘...he has been lying on a log and paddling with hands and feet...slier than a fox, and slippery as a fish.’”_ ***---&NoBreak;LotRII*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/sneakin/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Scout only._ Playable during the organization phase on an untapped scout in a company with a company size less than 3. Tap the scout. No creature hazards may beplayed on his company this turn.   “‘...he has been lying on a log and paddling with hands and feet...slier than a fox, and slippery as a fish.’”_ ***---LotRII*** 
+> > _Scout only._ Playable during the organization phase on an untapped scout in a company with a company size less than 3. Tap the scout. No creature hazards may beplayed on his company this turn.   “‘...he has been lying on a log and paddling with hands and feet...slier than a fox, and slippery as a fish.’”_ ***---&NoBreak;LotRII*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

@@ -25,7 +25,7 @@ permalink: /cards/bombur/
 > Warrior Dwarf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions. <br>_“‘I am too fat for such fly-walks,' he said. 'I should turn dizzy and tread on my beard, and then you would be thirteen again.’”_ ***---Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
+> > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions. <br>_“‘I am too fat for such fly-walks,' he said. 'I should turn dizzy and tread on my beard, and then you would be thirteen again.’”_ ***---&NoBreak;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【3/6】</div>
@@ -45,7 +45,7 @@ permalink: /cards/bombur/
 > Warrior Dwarf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions. <br>_“‘I am too fat for such fly-walks,' he said. 'I should turn dizzy and tread on my beard, and then you would be thirteen again.’”_ ***---Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
+> > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions. <br>_“‘I am too fat for such fly-walks,' he said. 'I should turn dizzy and tread on my beard, and then you would be thirteen again.’”_ ***---&NoBreak;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【3/6】</div>

@@ -25,7 +25,7 @@ permalink: /cards/ugluk/
 > Warrior/Ranger Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ _Uruk-hai._ _Leader._ Discard on a body check result of 9. +3 direct influence against Orcs and Orc factions. <br>_“‘I am Ugluk. I command."_ ***---LotRIII***  <br><br>**Home Site:** Isengard 
+> > _**Unique.**_ _Uruk-hai._ _Leader._ Discard on a body check result of 9. +3 direct influence against Orcs and Orc factions. <br>_“‘I am Ugluk. I command."_ ***---&NoBreak;LotRIII***  <br><br>**Home Site:** Isengard 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【5/9】</div>

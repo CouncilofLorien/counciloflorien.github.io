@@ -25,7 +25,7 @@ permalink: /cards/black-numenoreans/
 > Dunadan Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Gobel Mirlond if the influence check is greater than 8. <br>_Standard Modifications:_ Umbarean Corsairs (+2). <br>_"Proud and eager for wealth, they colonized and conquered and laid many men under tribute."_ ***---Kuduk Lore*** 
+> > _**Unique.**_ Playable at Gobel Mirlond if the influence check is greater than 8. <br>_Standard Modifications:_ Umbarean Corsairs (+2). <br>_"Proud and eager for wealth, they colonized and conquered and laid many men under tribute."_ ***---&NoBreak;Kuduk Lore*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

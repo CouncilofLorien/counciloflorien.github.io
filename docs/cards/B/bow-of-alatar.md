@@ -25,7 +25,7 @@ permalink: /cards/bow-of-alatar/
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Alatar specific._ Place this card on Alatar if he is in play. If on Alatar, you may tap Bow of Alatar to allow him to face a strike from an attack against his company regardless of the attack's normal capabilities and his status. If such a strike fails, the attack's body is reduced by 1.   “...longer and stouter than the bows of Mirkwood and strung with a string of elf-hair."_ ***---LotRII*** 
+> > _**Unique.**_ _Alatar specific._ Place this card on Alatar if he is in play. If on Alatar, you may tap Bow of Alatar to allow him to face a strike from an attack against his company regardless of the attack's normal capabilities and his status. If such a strike fails, the attack's body is reduced by 1.   “...longer and stouter than the bows of Mirkwood and strung with a string of elf-hair."_ ***---&NoBreak;LotRII*** 
 > 
 > {: .stage-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

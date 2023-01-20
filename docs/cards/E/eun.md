@@ -25,7 +25,7 @@ permalink: /cards/eun/
 > Warrior Scout Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ Agent. <br>_"Few knew the ancient paths and secrets of the White Mountains like Eun of Erech, a fair lass whose eyes reflected the fires hidden in the heart of the Black Stone of her home."_ ***---Kuduk Lore***  <br><br>**Home Site:** Vale of Erech, Lond Galen  
+> > _**Unique.**_ Agent. <br>_"Few knew the ancient paths and secrets of the White Mountains like Eun of Erech, a fair lass whose eyes reflected the fires hidden in the heart of the Black Stone of her home."_ ***---&NoBreak;Kuduk Lore***  <br><br>**Home Site:** Vale of Erech, Lond Galen  
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【4/8】</div>
