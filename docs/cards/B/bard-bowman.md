@@ -25,7 +25,7 @@ permalink: /cards/bard-bowman/
 > Warrior/Scout Man
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Men of Northern Rhovanian faction. <br>_"Their captain was Bard, grim-voiced and grim-faced, whose friends had accused him of prophesying floods and poisoned fish, though they knew his worth and courage."_ ***---&NoBreak;Hob***  <br><br>**Home Site:** Lake-town 
+> > _**Unique.**_ +2 direct influence against the Men of Northern Rhovanian faction. <br>_"Their captain was Bard, grim-voiced and grim-faced, whose friends had accused him of prophesying floods and poisoned fish, though they knew his worth and courage."_ ***---&#65279;Hob***  <br><br>**Home Site:** Lake-town 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【3/6】</div>
@@ -45,7 +45,7 @@ permalink: /cards/bard-bowman/
 > Warrior/Scout Man
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Men of Northern Rhovanian faction. <br>_"Their captain was Bard, grim-voiced and grim-faced, whose friends had accused him of prophesying floods and poisoned fish, though they knew his worth and courage."_ ***---&NoBreak;Hob***  <br><br>**Home Site:** Lake-town 
+> > _**Unique.**_ +2 direct influence against the Men of Northern Rhovanian faction. <br>_"Their captain was Bard, grim-voiced and grim-faced, whose friends had accused him of prophesying floods and poisoned fish, though they knew his worth and courage."_ ***---&#65279;Hob***  <br><br>**Home Site:** Lake-town 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【3/6】</div>
@@ -65,7 +65,7 @@ permalink: /cards/bard-bowman/
 > Warrior/Scout Man
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Men of Northern Rhovanian faction. <br>_"Their captain was Bard, grim-voiced and grim-faced, whose friends had accused him of prophesying floods and poisoned fish, though they knew his worth and courage."_ ***---&NoBreak;Hob***  <br><br>**Home Site:** Lake-town 
+> > _**Unique.**_ +2 direct influence against the Men of Northern Rhovanian faction. <br>_"Their captain was Bard, grim-voiced and grim-faced, whose friends had accused him of prophesying floods and poisoned fish, though they knew his worth and courage."_ ***---&#65279;Hob***  <br><br>**Home Site:** Lake-town 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【3/6】</div>

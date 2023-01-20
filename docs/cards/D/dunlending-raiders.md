@@ -25,7 +25,7 @@ permalink: /cards/dunlending-raiders/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Men._ Five strikes. Playable keyed to Enedhwaith, Cardolan, Hollin, Rhudaur, and Dunland; and may also be played at Ruins & Lairs \[![](/assets/images/ruinlair.svg)] in these regions. Two wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. <br>_"Only in Dunland did Men of this race hold to their old speech and manners: a secret folk, unfriendly to the Dunedain, hating the Rohirrim."_ ***---&NoBreak;LotR*** 
+> > _Men._ Five strikes. Playable keyed to Enedhwaith, Cardolan, Hollin, Rhudaur, and Dunland; and may also be played at Ruins & Lairs \[![](/assets/images/ruinlair.svg)] in these regions. Two wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. <br>_"Only in Dunland did Men of this race hold to their old speech and manners: a secret folk, unfriendly to the Dunedain, hating the Rohirrim."_ ***---&#65279;LotR*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【8/&ndash;】</div>

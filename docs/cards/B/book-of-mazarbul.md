@@ -25,7 +25,7 @@ permalink: /cards/book-of-mazarbul/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Only playable at Moria. May be stored at a Dwarf-hold for 5 marshalling points. If its bearer is a sage, tap the Book of Mazarbul during your organizational phase to increase your hand size by 1 until your next untap phase. <br>_“...it was so stained...that little of it could be read."_ ***---&NoBreak;LotRII*** 
+> > _**Unique.**_ Only playable at Moria. May be stored at a Dwarf-hold for 5 marshalling points. If its bearer is a sage, tap the Book of Mazarbul during your organizational phase to increase your hand size by 1 until your next untap phase. <br>_“...it was so stained...that little of it could be read."_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/book-of-mazarbul/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Only playable at Moria. May be stored at a Dwarf-hold for 5 marshalling points. If its bearer is a sage, tap the Book of Mazarbul during your organizational phase to increase your hand size by 1 until your next untap phase. <br>_“...it was so stained...that little of it could be read."_ ***---&NoBreak;LotRII*** 
+> > _**Unique.**_ Only playable at Moria. May be stored at a Dwarf-hold for 5 marshalling points. If its bearer is a sage, tap the Book of Mazarbul during your organizational phase to increase your hand size by 1 until your next untap phase. <br>_“...it was so stained...that little of it could be read."_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/book-of-mazarbul/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Only playable at Moria. May be stored at a Dwarf-hold for 5 marshalling points. If its bearer is a sage, tap the Book of Mazarbul during your organizational phase to increase your hand size by 1 until your next untap phase. <br>_“...it was so stained...that little of it could be read."_ ***---&NoBreak;LotRII*** 
+> > _**Unique.**_ Only playable at Moria. May be stored at a Dwarf-hold for 5 marshalling points. If its bearer is a sage, tap the Book of Mazarbul during your organizational phase to increase your hand size by 1 until your next untap phase. <br>_“...it was so stained...that little of it could be read."_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

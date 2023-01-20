@@ -25,7 +25,7 @@ permalink: /cards/raisha/
 > Warrior/Scout Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ Agent. <br>_"Not all of those Southerners meant well...”_ ***---&NoBreak;LotRI***  <br><br>**Home Site:** Variag Camp, Easterling Camp, Southron Oasis 
+> > _**Unique.**_ Agent. <br>_"Not all of those Southerners meant well...”_ ***---&#65279;LotRI***  <br><br>**Home Site:** Variag Camp, Easterling Camp, Southron Oasis 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【5/9】</div>

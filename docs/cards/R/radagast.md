@@ -25,7 +25,7 @@ permalink: /cards/radagast/
 > Warrior/Scout/Ranger/Diplomat Wizard
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ If his company moves to a new site during the movement/hazard phase, he may draw 1 additional card for each Wilderness \[![](/assets/images/wilderness.svg)] region in his company's site path. +1 to all of his corruption checks. <br>_“‘...a worthy wizard...has much lore of herbs and beasts...’”_ ***---&NoBreak;LotRII***  <br><br>**Home Site:** Rhosgobel 
+> > _**Unique.**_ If his company moves to a new site during the movement/hazard phase, he may draw 1 additional card for each Wilderness \[![](/assets/images/wilderness.svg)] region in his company's site path. +1 to all of his corruption checks. <br>_“‘...a worthy wizard...has much lore of herbs and beasts...’”_ ***---&#65279;LotRII***  <br><br>**Home Site:** Rhosgobel 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【6/9】</div>
@@ -45,7 +45,7 @@ permalink: /cards/radagast/
 > Warrior/Scout/Ranger/Diplomat Wizard
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ If his company moves to a new site during the movement/hazard phase, he may draw 1 additional card for each Wilderness \[![](/assets/images/wilderness.svg)] region in his company's site path. +1 to all of his corruption checks. <br>_“‘...a worthy wizard...has much lore of herbs and beasts...’”_ ***---&NoBreak;LotRII***  <br><br>**Home Site:** Rhosgobel 
+> > _**Unique.**_ If his company moves to a new site during the movement/hazard phase, he may draw 1 additional card for each Wilderness \[![](/assets/images/wilderness.svg)] region in his company's site path. +1 to all of his corruption checks. <br>_“‘...a worthy wizard...has much lore of herbs and beasts...’”_ ***---&#65279;LotRII***  <br><br>**Home Site:** Rhosgobel 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【6/12】</div>
@@ -85,7 +85,7 @@ permalink: /cards/radagast/
 > Warrior/Scout/Ranger/Diplomat Wizard
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ If his company moves to a new site during the movement/hazard phase, he may draw 1 additional card for each Wilderness \[![](/assets/images/wilderness.svg)] region in his company's site path. +1 to all of his corruption checks. <br>_“‘...a worthy wizard...has much lore of herbs and beasts...’”_ ***---&NoBreak;LotRII***  <br><br>**Home Site:** Rhosgobel 
+> > _**Unique.**_ If his company moves to a new site during the movement/hazard phase, he may draw 1 additional card for each Wilderness \[![](/assets/images/wilderness.svg)] region in his company's site path. +1 to all of his corruption checks. <br>_“‘...a worthy wizard...has much lore of herbs and beasts...’”_ ***---&#65279;LotRII***  <br><br>**Home Site:** Rhosgobel 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【6/12】</div>

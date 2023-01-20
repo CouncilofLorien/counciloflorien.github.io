@@ -25,7 +25,7 @@ permalink: /cards/peril-returned/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > If Gates of Morning is not in play, Doors of Night is considered to be in play. If Gates of Morning is in play, it is considered to be out of play while Peril returned is in play. Gates of Morning may still be removed normally (e.g., through the use of Twilight, Doors of Night, etc.). <br>_"A shadow came out of dark places far away, and the bones were stirred in the mounds."_ ***---&NoBreak;LotRI*** 
+> > If Gates of Morning is not in play, Doors of Night is considered to be in play. If Gates of Morning is in play, it is considered to be out of play while Peril returned is in play. Gates of Morning may still be removed normally (e.g., through the use of Twilight, Doors of Night, etc.). <br>_"A shadow came out of dark places far away, and the bones were stirred in the mounds."_ ***---&#65279;LotRI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

@@ -25,7 +25,7 @@ permalink: /cards/a-friend-or-three/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > For every character in the influencing character's company, A Friend or Three gives a +1 modification to an influence check or to a corruption check made by a character in the same company. <br>_“‘I was coming...with a friend or two...' said the wizard...'One or three you meant, I see!' said Beorn."_ ***---&NoBreak;Hob*** 
+> > For every character in the influencing character's company, A Friend or Three gives a +1 modification to an influence check or to a corruption check made by a character in the same company. <br>_“‘I was coming...with a friend or two...' said the wizard...'One or three you meant, I see!' said Beorn."_ ***---&#65279;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/a-friend-or-three/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > For every character in the influencing character's company, A Friend or Three gives a +1 modification to an influence check or to a corruption check made by a character in the same company. <br>_“‘I was coming...with a friend or two...' said the wizard...'One or three you meant, I see!' said Beorn."_ ***---&NoBreak;Hob*** 
+> > For every character in the influencing character's company, A Friend or Three gives a +1 modification to an influence check or to a corruption check made by a character in the same company. <br>_“‘I was coming...with a friend or two...' said the wizard...'One or three you meant, I see!' said Beorn."_ ***---&#65279;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/a-friend-or-three/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > For every character in the influencing character's company, A Friend or Three gives a +1 modification to an influence check or to a corruption check made by a character in the same company. <br>_“‘I was coming...with a friend or two...' said the wizard...'One or three you meant, I see!' said Beorn."_ ***---&NoBreak;Hob*** 
+> > For every character in the influencing character's company, A Friend or Three gives a +1 modification to an influence check or to a corruption check made by a character in the same company. <br>_“‘I was coming...with a friend or two...' said the wizard...'One or three you meant, I see!' said Beorn."_ ***---&#65279;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

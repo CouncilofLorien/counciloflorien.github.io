@@ -25,7 +25,7 @@ permalink: /cards/neither-so-ancient-nor-so-potent/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a stored item. Return item to opponent's hand (discard all attached cards). Place this card in opponent's marshalling point pile. <br>_"Though it had been made in Imladris for Valandil, it was neither so ancient nor so potent as the one lost with King Isildur at the Gladden Fields."_ ***---&NoBreak;Kuduk Lore*** 
+> > Playable on a stored item. Return item to opponent's hand (discard all attached cards). Place this card in opponent's marshalling point pile. <br>_"Though it had been made in Imladris for Valandil, it was neither so ancient nor so potent as the one lost with King Isildur at the Gladden Fields."_ ***---&#65279;Kuduk Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

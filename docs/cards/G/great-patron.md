@@ -25,7 +25,7 @@ permalink: /cards/great-patron/
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > Your characters and allies that normally give 2 or more marshalling points are each worth 2 marshalling points. Cannot be duplicated by a given player.   “‘Could we not still send messages to him and obtain his help?’”_ ***---&NoBreak;LotRII*** 
+> > Your characters and allies that normally give 2 or more marshalling points are each worth 2 marshalling points. Cannot be duplicated by a given player.   “‘Could we not still send messages to him and obtain his help?’”_ ***---&#65279;LotRII*** 
 > 
 > {: .stage-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

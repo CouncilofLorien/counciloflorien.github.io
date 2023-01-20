@@ -25,7 +25,7 @@ permalink: /cards/tower-guard-of-minas-tirith/
 > Dunadan Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Minas Tirith if the influence check is greater than 7.  <br>_Standard Modifications:_ Dunedain (+1). <br>_“‘This is a fortress and a tower of guard and is now in posture of war. We rise ere the Sun, and take a morsel in grey light, and go to our duties at the opening hour.’”_ ***---&NoBreak;LotRV*** 
+> > _**Unique.**_ Playable at Minas Tirith if the influence check is greater than 7.  <br>_Standard Modifications:_ Dunedain (+1). <br>_“‘This is a fortress and a tower of guard and is now in posture of war. We rise ere the Sun, and take a morsel in grey light, and go to our duties at the opening hour.’”_ ***---&#65279;LotRV*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/tower-guard-of-minas-tirith/
 > Dunadan Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Minas Tirith if the influence check is greater than 7.  <br>_Standard Modifications:_ Dunedain (+1). <br>_“‘This is a fortress and a tower of guard and is now in posture of war. We rise ere the Sun, and take a morsel in grey light, and go to our duties at the opening hour.’”_ ***---&NoBreak;LotRV*** 
+> > _**Unique.**_ Playable at Minas Tirith if the influence check is greater than 7.  <br>_Standard Modifications:_ Dunedain (+1). <br>_“‘This is a fortress and a tower of guard and is now in posture of war. We rise ere the Sun, and take a morsel in grey light, and go to our duties at the opening hour.’”_ ***---&#65279;LotRV*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/tower-guard-of-minas-tirith/
 > Dunadan Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Minas Tirith if the influence check is greater than 7.  <br>_Standard Modifications:_ Dunedain (+1). <br>_“‘This is a fortress and a tower of guard and is now in posture of war. We rise ere the Sun, and take a morsel in grey light, and go to our duties at the opening hour.’”_ ***---&NoBreak;LotRV*** 
+> > _**Unique.**_ Playable at Minas Tirith if the influence check is greater than 7.  <br>_Standard Modifications:_ Dunedain (+1). <br>_“‘This is a fortress and a tower of guard and is now in posture of war. We rise ere the Sun, and take a morsel in grey light, and go to our duties at the opening hour.’”_ ***---&#65279;LotRV*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -85,7 +85,7 @@ permalink: /cards/tower-guard-of-minas-tirith/
 > Dunadan Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Minas Tirith if the influence check is greater than 7.  <br>_Standard Modifications:_ Dunedain (+1). <br>_“‘This is a fortress and a tower of guard and is now in posture of war. We rise ere the Sun, and take a morsel in grey light, and go to our duties at the opening hour.’”_ ***---&NoBreak;LotRV*** 
+> > _**Unique.**_ Playable at Minas Tirith if the influence check is greater than 7.  <br>_Standard Modifications:_ Dunedain (+1). <br>_“‘This is a fortress and a tower of guard and is now in posture of war. We rise ere the Sun, and take a morsel in grey light, and go to our duties at the opening hour.’”_ ***---&#65279;LotRV*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

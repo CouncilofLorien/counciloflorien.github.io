@@ -25,7 +25,7 @@ permalink: /cards/parsimony-of-seclusion/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Return any Dragon manifestation to your hand from your discard pile. Alternatively, return any manifestation of Agburanar to your hand from your discard pile and increase the hazard limit by two. <br>_“...all the land was desolate and empty."_ ***---&NoBreak;Hob*** 
+> > Return any Dragon manifestation to your hand from your discard pile. Alternatively, return any manifestation of Agburanar to your hand from your discard pile and increase the hazard limit by two. <br>_“...all the land was desolate and empty."_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

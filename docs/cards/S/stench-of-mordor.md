@@ -25,7 +25,7 @@ permalink: /cards/stench-of-mordor/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ At the start of its site phase, each company at a site in a Dark-domain \[![](/assets/images/dark-domain.svg)], (or Shadow-land \[![](/assets/images/shadow-land.svg)] if Doors of Night is in play) must tap one untapped character if available. Discard when any play deck is exhausted. Cannot be duplicated. <br>_“...he saw them fall, worn out, or choked with fumes and heat, or stricken down by despair at last, hiding their eyes from death."_ ***---&NoBreak;LotRVI*** 
+> > _Environment._ At the start of its site phase, each company at a site in a Dark-domain \[![](/assets/images/dark-domain.svg)], (or Shadow-land \[![](/assets/images/shadow-land.svg)] if Doors of Night is in play) must tap one untapped character if available. Discard when any play deck is exhausted. Cannot be duplicated. <br>_“...he saw them fall, worn out, or choked with fumes and heat, or stricken down by despair at last, hiding their eyes from death."_ ***---&#65279;LotRVI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/stench-of-mordor/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ At the start of its site phase, each company at a site in a Dark-domain \[![](/assets/images/dark-domain.svg)], (or Shadow-land \[![](/assets/images/shadow-land.svg)] if Doors of Night is in play) must tap one untapped character if available. Discard when any play deck is exhausted. Cannot be duplicated. <br>_“...he saw them fall, worn out, or choked with fumes and heat, or stricken down by despair at last, hiding their eyes from death."_ ***---&NoBreak;LotRVI*** 
+> > _Environment._ At the start of its site phase, each company at a site in a Dark-domain \[![](/assets/images/dark-domain.svg)], (or Shadow-land \[![](/assets/images/shadow-land.svg)] if Doors of Night is in play) must tap one untapped character if available. Discard when any play deck is exhausted. Cannot be duplicated. <br>_“...he saw them fall, worn out, or choked with fumes and heat, or stricken down by despair at last, hiding their eyes from death."_ ***---&#65279;LotRVI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/stench-of-mordor/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ At the start of its site phase, each company at a site in a Dark-domain \[![](/assets/images/dark-domain.svg)], (or Shadow-land \[![](/assets/images/shadow-land.svg)] if Doors of Night is in play) must tap one untapped character if available. Discard when any play deck is exhausted. Cannot be duplicated. <br>_“...he saw them fall, worn out, or choked with fumes and heat, or stricken down by despair at last, hiding their eyes from death."_ ***---&NoBreak;LotRVI*** 
+> > _Environment._ At the start of its site phase, each company at a site in a Dark-domain \[![](/assets/images/dark-domain.svg)], (or Shadow-land \[![](/assets/images/shadow-land.svg)] if Doors of Night is in play) must tap one untapped character if available. Discard when any play deck is exhausted. Cannot be duplicated. <br>_“...he saw them fall, worn out, or choked with fumes and heat, or stricken down by despair at last, hiding their eyes from death."_ ***---&#65279;LotRVI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

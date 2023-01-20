@@ -25,7 +25,7 @@ permalink: /cards/troth-ring/
 > Minor Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Mind Ring._ -1 to mind to a minimum of 1, -1 to all body checks against bearer. Cannot be duplicated on a given character. <br>_"Those who hunger for dominion are themselves enslaved. Power makes a dangerous support."_ ***---&NoBreak;Kuduk Lore*** 
+> > _Mind Ring._ -1 to mind to a minimum of 1, -1 to all body checks against bearer. Cannot be duplicated on a given character. <br>_"Those who hunger for dominion are themselves enslaved. Power makes a dangerous support."_ ***---&#65279;Kuduk Lore*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

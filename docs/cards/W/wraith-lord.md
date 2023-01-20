@@ -25,7 +25,7 @@ permalink: /cards/wraith-lord/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a moving character with two Dark-domains \[![](/assets/images/dark-domain.svg)] in its site path. Each Nazgul that attacks target company this turn receives +2 prowess and lowers the body of any characters it wounds by one (for the rest of the turn). Each Nazgul so played does not count against the hazard limit. Cannot be duplicated on a given turn.   "This way and that turned the dark head helmed and crowned with fear, sweeping shadows with its unseen eyes."_ ***---&NoBreak;LotRIV*** 
+> > Playable on a moving character with two Dark-domains \[![](/assets/images/dark-domain.svg)] in its site path. Each Nazgul that attacks target company this turn receives +2 prowess and lowers the body of any characters it wounds by one (for the rest of the turn). Each Nazgul so played does not count against the hazard limit. Cannot be duplicated on a given turn. <br>_"This way and that turned the dark head helmed and crowned with fear, sweeping shadows with its unseen eyes."_ ***---&#65279;LotRIV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

@@ -25,7 +25,7 @@ permalink: /cards/mountain-maggot/
 > Warrior Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _Balrog specific._ Discard on a body check result of 7.   “‘There's only one thing these maggots can do: they can see like gimlets in the dark."_ ***---&NoBreak;LotRIII***  <br><br>**Home Site:** any non-Dark-hold Under-deeps site 
+> > _Balrog specific._ Discard on a body check result of 7.   “‘There's only one thing these maggots can do: they can see like gimlets in the dark."_ ***---&#65279;LotRIII***  <br><br>**Home Site:** any non-Dark-hold Under-deeps site 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【3/7】</div>

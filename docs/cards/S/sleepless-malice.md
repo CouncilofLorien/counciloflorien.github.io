@@ -25,7 +25,7 @@ permalink: /cards/sleepless-malice/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > One Undead hazard creature against each company doesn't count against it's hazard limit. Additionally, if Doors of Night is in play, any Undead hazard creature may be played keyed to Ruins & Lairs \[![](/assets/images/ruinlair.svg)]. Cannot be duplicated.   "The night was railing against the morning of which it was bereaved, and the cold was cursing the warmth for which it hungered."_ ***---&NoBreak;LotRI*** 
+> > One Undead hazard creature against each company doesn't count against it's hazard limit. Additionally, if Doors of Night is in play, any Undead hazard creature may be played keyed to Ruins & Lairs \[![](/assets/images/ruinlair.svg)]. Cannot be duplicated. <br>_"The night was railing against the morning of which it was bereaved, and the cold was cursing the warmth for which it hungered."_ ***---&#65279;LotRI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

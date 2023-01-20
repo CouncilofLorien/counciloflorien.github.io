@@ -25,7 +25,7 @@ permalink: /cards/voteli/
 > Ranger/Sage Man
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Lossoth faction. Against Nazgul, +5 to her prowess, and his body is halved (round up). <br>_"The Lossoth...can run on the ice with bones on their feet, and have carts without wheels."_ ***---&NoBreak;LotR***  <br><br>**Home Site:** Lossadan Camp 
+> > _**Unique.**_ +2 direct influence against the Lossoth faction. Against Nazgul, +5 to her prowess, and his body is halved (round up). <br>_"The Lossoth...can run on the ice with bones on their feet, and have carts without wheels."_ ***---&#65279;LotR***  <br><br>**Home Site:** Lossadan Camp 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【3/6】</div>
@@ -45,7 +45,7 @@ permalink: /cards/voteli/
 > Ranger/Sage Man
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Lossoth faction. Against Nazgul, +5 to her prowess, and his body is halved (round up). <br>_"The Lossoth...can run on the ice with bones on their feet, and have carts without wheels."_ ***---&NoBreak;LotR***  <br><br>**Home Site:** Lossadan Camp 
+> > _**Unique.**_ +2 direct influence against the Lossoth faction. Against Nazgul, +5 to her prowess, and his body is halved (round up). <br>_"The Lossoth...can run on the ice with bones on their feet, and have carts without wheels."_ ***---&#65279;LotR***  <br><br>**Home Site:** Lossadan Camp 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【3/6】</div>

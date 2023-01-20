@@ -25,7 +25,7 @@ permalink: /cards/leaf-brooch/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Only playable at Lorien. If a non-special item must be discarded from the company of Leach Brooch's bearer (according to any hazard or resource effect), you may discard Leaf Brooch instead to fulfill this requirement. <br>_"It looked like the new-opened leaf of a beech tree, fair and strange in that treeless plain."_ ***---&NoBreak;LotRIV*** 
+> > Only playable at Lorien. If a non-special item must be discarded from the company of Leach Brooch's bearer (according to any hazard or resource effect), you may discard Leaf Brooch instead to fulfill this requirement. <br>_"It looked like the new-opened leaf of a beech tree, fair and strange in that treeless plain."_ ***---&#65279;LotRIV*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

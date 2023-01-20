@@ -25,7 +25,7 @@ permalink: /cards/the-white-towers/
 > Arthedain
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Rivendell <br>_**Automatic-attacks:**_<br> Wolves - 2 strikes with 6 prowess
+> > _**Nearest Haven:**_ Rivendell <br>_**Automatic-attacks:**_<br> Wolves - 2 strikes with 6 prowess <br>_"Three Elf-towers of immemorial age were still to be seen beyond the western marshes. They shone far off in the moonlight. The tallest was furthest away, standing alone upon a green hill."_ ***---&#65279;LotRI***
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/the-white-towers/
 > Arthedain
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Rivendell <br>_**Automatic-attacks:**_<br> Wolves - 2 strikes with 6 prowess
+> > _**Nearest Haven:**_ Rivendell <br>_**Automatic-attacks:**_<br> Wolves - 2 strikes with 6 prowess <br>_"Three Elf-towers of immemorial age were still to be seen beyond the western marshes. They shone far off in the moonlight. The tallest was furthest away, standing alone upon a green hill."_ ***---&#65279;LotRI***
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/the-white-towers/
 > Arthedain
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Wolves - 2 strikes with 6 prowess
+> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Wolves - 2 strikes with 6 prowess <br>_"...they came to the Far Downs, and to the Towers, and looked on the distant Sea..."_ ***---&#65279;LotRVI***
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/the-white-towers/
 > Arthedain
 >
 > {: .fw-site-text .black-text .p-2 }
-> > <br>_**Special:**_ If one of your companies is at this site, all attacks against it are canceled.   "Tales of the Second Age say that the towers of the Tower Hills were raised by Gil-galad, and thither the King would repair to gaze westward through the palantir of Elostirion."_ ***---&NoBreak;Kuduk Lore***  
+> > <br>_**Special:**_ If one of your companies is at this site, all attacks against it are canceled. <br>_"Tales of the Second Age say that the towers of the Tower Hills were raised by Gil-galad, and thither the King would repair to gaze westward through the palantir of Elostirion."_ ***---&#65279;Kuduk Lore***  
 > 
 > {: .fw-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

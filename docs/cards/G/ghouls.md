@@ -25,7 +25,7 @@ permalink: /cards/ghouls/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Undead._ Five strikes. <br>_"Halfling tales speak of the dark, wet slime where the Gorcrows croak and the Mewlips dwell, patiently awaiting their prey, like ever-hungry caretakers ringing soft, beckoning bells."_ ***---&NoBreak;Kuduk Lore*** 
+> > _Undead._ Five strikes. <br>_"Halfling tales speak of the dark, wet slime where the Gorcrows croak and the Mewlips dwell, patiently awaiting their prey, like ever-hungry caretakers ringing soft, beckoning bells."_ ***---&#65279;Kuduk Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【7/&ndash;】</div>
@@ -45,7 +45,7 @@ permalink: /cards/ghouls/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Undead._ Five strikes. <br>_"Halfling tales speak of the dark, wet slime where the Gorcrows croak and the Mewlips dwell, patiently awaiting their prey, like ever-hungry caretakers ringing soft, beckoning bells."_ ***---&NoBreak;Kuduk Lore*** 
+> > _Undead._ Five strikes. <br>_"Halfling tales speak of the dark, wet slime where the Gorcrows croak and the Mewlips dwell, patiently awaiting their prey, like ever-hungry caretakers ringing soft, beckoning bells."_ ***---&#65279;Kuduk Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【7/&ndash;】</div>
@@ -65,7 +65,7 @@ permalink: /cards/ghouls/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Undead._ Five strikes. <br>_"Halfling tales speak of the dark, wet slime where the Gorcrows croak and the Mewlips dwell, patiently awaiting their prey, like ever-hungry caretakers ringing soft, beckoning bells."_ ***---&NoBreak;Kuduk Lore*** 
+> > _Undead._ Five strikes. <br>_"Halfling tales speak of the dark, wet slime where the Gorcrows croak and the Mewlips dwell, patiently awaiting their prey, like ever-hungry caretakers ringing soft, beckoning bells."_ ***---&#65279;Kuduk Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【7/&ndash;】</div>
@@ -85,7 +85,7 @@ permalink: /cards/ghouls/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Undead._ Five strikes. <br>_“‘Yes, yes...all dead, all rotten.’”_ ***---&NoBreak;LotRIV*** 
+> > _Undead._ Five strikes. <br>_“‘Yes, yes...all dead, all rotten.’”_ ***---&#65279;LotRIV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【7/&ndash;】</div>
@@ -105,7 +105,7 @@ permalink: /cards/ghouls/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Undead._ Five strikes. <br>_“‘Yes, yes...all dead, all rotten.’”_ ***---&NoBreak;LotRIV*** 
+> > _Undead._ Five strikes. <br>_“‘Yes, yes...all dead, all rotten.’”_ ***---&#65279;LotRIV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【7/&ndash;】</div>

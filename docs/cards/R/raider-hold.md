@@ -25,7 +25,7 @@ permalink: /cards/raider-hold/
 > Horse Plains
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major*) *-weapon, armor, shield, or helmet only <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 7 prowess (detainment against covert company)  "Often they made raids through the forest"_ ***---&NoBreak;Kuduk Lore*** 
+> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major*) *-weapon, armor, shield, or helmet only <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 7 prowess (detainment against covert company)  <br>_"Often they made raids through the forest"_ ***---&#65279;Kuduk Lore*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/raider-hold/
 > Horse Plain
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Men-4 strikes with 9 prowess (detainment)  “‘It looks like a rock from afar, and tales of murder ward away those who might draw close by.’”_ ***---&NoBreak;Kuduk Lore*** 
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Men-4 strikes with 9 prowess (detainment)  <br>_“‘It looks like a rock from afar, and tales of murder ward away those who might draw close by.’”_ ***---&#65279;Kuduk Lore*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;3&ensp;</span><span class="hero-opp-draw">&ensp;4&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/raider-hold/
 > Horse Plains
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major*) *-weapon, armor, shield, or helmet only <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 7 prowess (detainment against covert company)  "Often they made raids through the forest"_ ***---&NoBreak;Kuduk Lore*** 
+> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major*) *-weapon, armor, shield, or helmet only <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 7 prowess (detainment against covert company)  <br>_"Often they made raids through the forest"_ ***---&#65279;Kuduk Lore*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/raider-hold/
 > Horse Plain
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Men-4 strikes with 9 prowess (detainment)  “‘It looks like a rock from afar, and tales of murder ward away those who might draw close by.’”_ ***---&NoBreak;Kuduk Lore*** 
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Men-4 strikes with 9 prowess (detainment)  <br>_“‘It looks like a rock from afar, and tales of murder ward away those who might draw close by.’”_ ***---&#65279;Kuduk Lore*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;3&ensp;</span><span class="hero-opp-draw">&ensp;4&ensp;</span></div>

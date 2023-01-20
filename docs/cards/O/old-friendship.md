@@ -25,7 +25,7 @@ permalink: /cards/old-friendship/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Diplomat only._ +5 to an influence check against a character or +4 to a corruption check made by a character in the same company. <br>_“‘We last met on the first of May: at Sarn Ford down the Brandywine. He told me that his business with you have gone well, and you would be starting for Rivendell in the last week of September.’”_ ***---&NoBreak;LotRI***  
+> > _Diplomat only._ +5 to an influence check against a character or +4 to a corruption check made by a character in the same company. <br>_“‘We last met on the first of May: at Sarn Ford down the Brandywine. He told me that his business with you have gone well, and you would be starting for Rivendell in the last week of September.’”_ ***---&#65279;LotRI***  
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/old-friendship/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Diplomat only._ +5 to an influence check against a character or +4 to a corruption check made by a character in the same company. <br>_“‘We last met on the first of May: at Sarn Ford down the Brandywine. He told me that his business with you have gone well, and you would be starting for Rivendell in the last week of September.’”_ ***---&NoBreak;LotRI***  
+> > _Diplomat only._ +5 to an influence check against a character or +4 to a corruption check made by a character in the same company. <br>_“‘We last met on the first of May: at Sarn Ford down the Brandywine. He told me that his business with you have gone well, and you would be starting for Rivendell in the last week of September.’”_ ***---&#65279;LotRI***  
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

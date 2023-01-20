@@ -25,7 +25,7 @@ permalink: /cards/the-precious/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > A character in the same company (hazard player's choice) as The One Ring (not the bearer himself) must make a corruption check modified by -2. If he fails, discard The One Ring along with the target character. <br>_“‘It is not yours save by unhappy chance. It might have been mine. It should be mine. Give it to me!’”_ ***---&NoBreak;LotRII*** 
+> > A character in the same company (hazard player's choice) as The One Ring (not the bearer himself) must make a corruption check modified by -2. If he fails, discard The One Ring along with the target character. <br>_“‘It is not yours save by unhappy chance. It might have been mine. It should be mine. Give it to me!’”_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/the-precious/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > A character in the same company (hazard player's choice) as The One Ring (not the bearer himself) must make a corruption check modified by -2. If he fails, discard The One Ring along with the target character. <br>_“‘It is not yours save by unhappy chance. It might have been mine. It should be mine. Give it to me!’”_ ***---&NoBreak;LotRII*** 
+> > A character in the same company (hazard player's choice) as The One Ring (not the bearer himself) must make a corruption check modified by -2. If he fails, discard The One Ring along with the target character. <br>_“‘It is not yours save by unhappy chance. It might have been mine. It should be mine. Give it to me!’”_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

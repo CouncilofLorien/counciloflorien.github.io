@@ -25,7 +25,7 @@ permalink: /cards/gollums-fate/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Only playable if the One Ring and Gollum are both at Mount Doom during the site phase. The One Ring is destroyed and its bearer's player wins. <br>_“...even as his eyes were lifted up to gloat on his prize, he stepped too far...and then with a shriek he fell. Out of the depths came his last wail 'precious', and he was gone."_ ***---&NoBreak;LotRVI*** 
+> > _**Unique.**_ Only playable if the One Ring and Gollum are both at Mount Doom during the site phase. The One Ring is destroyed and its bearer's player wins. <br>_“...even as his eyes were lifted up to gloat on his prize, he stepped too far...and then with a shriek he fell. Out of the depths came his last wail 'precious', and he was gone."_ ***---&#65279;LotRVI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/gollums-fate/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Only playable if the One Ring and Gollum are both at Mount Doom during the site phase. The One Ring is destroyed and its bearer's player wins. <br>_“...even as his eyes were lifted up to gloat on his prize, he stepped too far...and then with a shriek he fell. Out of the depths came his last wail 'precious', and he was gone."_ ***---&NoBreak;LotRVI*** 
+> > _**Unique.**_ Only playable if the One Ring and Gollum are both at Mount Doom during the site phase. The One Ring is destroyed and its bearer's player wins. <br>_“...even as his eyes were lifted up to gloat on his prize, he stepped too far...and then with a shriek he fell. Out of the depths came his last wail 'precious', and he was gone."_ ***---&#65279;LotRVI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

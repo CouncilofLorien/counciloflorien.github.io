@@ -25,7 +25,7 @@ permalink: /cards/blue-mountain-dwarf-hold/
 > Numeriador
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Grey Havens  “...and soon afterwards they removed and wandered in Eriador, until at last they made a home in exile in the east of the Ered Luin beyond the Lune."_ ***---&NoBreak;LotR*** 
+> > _**Nearest Haven:**_ Grey Havens  <br>_“...and soon afterwards they removed and wandered in Eriador, until at last they made a home in exile in the east of the Ered Luin beyond the Lune."_ ***---&#65279;LotR*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/blue-mountain-dwarf-hold/
 > Numeriador
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Grey Havens  “...and soon afterwards they removed and wandered in Eriador, until at last they made a home in exile in the east of the Ered Luin beyond the Lune."_ ***---&NoBreak;LotR*** 
+> > _**Nearest Haven:**_ Grey Havens  <br>_“...and soon afterwards they removed and wandered in Eriador, until at last they made a home in exile in the east of the Ered Luin beyond the Lune."_ ***---&#65279;LotR*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/blue-mountain-dwarf-hold/
 > Numeriador
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dwarves-4 strikes with 10 prowess  "There remained Dwarves on the eastern side of Ered Lindon, not far from Nenuial"_ ***---&NoBreak;Kuduk Lore*** 
+> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dwarves-4 strikes with 10 prowess  <br>_"There remained Dwarves on the eastern side of Ered Lindon, not far from Nenuial"_ ***---&#65279;Kuduk Lore*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/blue-mountain-dwarf-hold/
 > Numeriador
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Grey Havens  “...and soon afterwards they removed and wandered in Eriador, until at last they made a home in exile in the east of the Ered Luin beyond the Lune."_ ***---&NoBreak;LotR*** 
+> > _**Nearest Haven:**_ Grey Havens  <br>_“...and soon afterwards they removed and wandered in Eriador, until at last they made a home in exile in the east of the Ered Luin beyond the Lune."_ ***---&#65279;LotR*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>

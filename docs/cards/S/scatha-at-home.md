@@ -25,7 +25,7 @@ permalink: /cards/scatha-at-home/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ Unless Scatha Ahunt is in play, Gondmaeglom has an additional automatic-attack: Dragon-3 strikes at 16/9. In addition, -1 to all influence attempts. <br>_"Above him the sleeping dragon lay, a dire menace even in his sleep."_ ***---&NoBreak;Hob*** 
+> > _**Unique.**_ Unless Scatha Ahunt is in play, Gondmaeglom has an additional automatic-attack: Dragon-3 strikes at 16/9. In addition, -1 to all influence attempts. <br>_"Above him the sleeping dragon lay, a dire menace even in his sleep."_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【16/9】</div>

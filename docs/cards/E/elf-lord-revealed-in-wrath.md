@@ -25,7 +25,7 @@ permalink: /cards/elf-lord-revealed-in-wrath/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Elf._ One strike (detainment against hero companies). +4 prowess versus Ringwraiths. If Doors of Night is not in play, may also be played keyed to Shadow-lands \[![](/assets/images/shadow-land.svg)].   “‘...the Elven-wise, lords of the Eldar from beyond the farthest seas. They do not fear the Ringwraiths, for those who have dwelt in the Blessed Realm live at once in both worlds, and against both the seen and the Unseen they have great power.’”_ ***---&NoBreak;LotRII*** 
+> > _Elf._ One strike (detainment against hero companies). +4 prowess versus Ringwraiths. If Doors of Night is not in play, may also be played keyed to Shadow-lands \[![](/assets/images/shadow-land.svg)].   “‘...the Elven-wise, lords of the Eldar from beyond the farthest seas. They do not fear the Ringwraiths, for those who have dwelt in the Blessed Realm live at once in both worlds, and against both the seen and the Unseen they have great power.’”_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【15/9】</div>

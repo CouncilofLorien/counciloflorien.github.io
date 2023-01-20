@@ -25,7 +25,7 @@ permalink: /cards/reluctant-final-parting/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Discard any ally if its current site is an Under-deeps site or if its current site's nearest Haven is not the same as the nearest Haven for the site at which the ally can be played. Discard this card when any play deck is exhausted. Cannot be duplicated. <br>_"A deep loneliness and sense of loss was on them. They stood silent, reluctant to make the final parting...”_ ***---&NoBreak;LotRI***  
+> > Discard any ally if its current site is an Under-deeps site or if its current site's nearest Haven is not the same as the nearest Haven for the site at which the ally can be played. Discard this card when any play deck is exhausted. Cannot be duplicated. <br>_"A deep loneliness and sense of loss was on them. They stood silent, reluctant to make the final parting...”_ ***---&#65279;LotRI***  
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

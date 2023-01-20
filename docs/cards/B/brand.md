@@ -25,7 +25,7 @@ permalink: /cards/brand/
 > Warrior/Diplomat Man
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against Men of Dale Faction. <br>_“‘The grandson of Bard the Bowman rules them, Brand son of Bain son of Bard. He is a strong king, and his realm now reaches far south and east of Esgaroth.’”_ ***---&NoBreak;LotRII***  <br><br>**Home Site:** Dale 
+> > _**Unique.**_ +2 direct influence against Men of Dale Faction. <br>_“‘The grandson of Bard the Bowman rules them, Brand son of Bain son of Bard. He is a strong king, and his realm now reaches far south and east of Esgaroth.’”_ ***---&#65279;LotRII***  <br><br>**Home Site:** Dale 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【4/9】</div>
@@ -45,7 +45,7 @@ permalink: /cards/brand/
 > Warrior/Diplomat Man
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against Men of Dale Faction. <br>_“‘The grandson of Bard the Bowman rules them, Brand son of Bain son of Bard. He is a strong king, and his realm now reaches far south and east of Esgaroth.’”_ ***---&NoBreak;LotRII***  <br><br>**Home Site:** Dale 
+> > _**Unique.**_ +2 direct influence against Men of Dale Faction. <br>_“‘The grandson of Bard the Bowman rules them, Brand son of Bain son of Bard. He is a strong king, and his realm now reaches far south and east of Esgaroth.’”_ ***---&#65279;LotRII***  <br><br>**Home Site:** Dale 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【4/9】</div>

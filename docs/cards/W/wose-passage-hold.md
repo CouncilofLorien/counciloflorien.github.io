@@ -25,7 +25,7 @@ permalink: /cards/wose-passage-hold/
 > Old Pukel-land
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Edhellond  “‘...Wild Men have long ears and eyes; know all paths. Wild Men live here before Stone-houses; before Tall Men come up out of Water.’”_ ***---&NoBreak;LotRIII*** 
+> > _**Nearest Haven:**_ Edhellond  <br>_“‘...Wild Men have long ears and eyes; know all paths. Wild Men live here before Stone-houses; before Tall Men come up out of Water.’”_ ***---&#65279;LotRIII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/wose-passage-hold/
 > Old Pukel-land
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Edhellond  “‘...Wild Men have long ears and eyes; know all paths. Wild Men live here before Stone-houses; before Tall Men come up out of Water.’”_ ***---&NoBreak;LotRIII*** 
+> > _**Nearest Haven:**_ Edhellond  <br>_“‘...Wild Men have long ears and eyes; know all paths. Wild Men live here before Stone-houses; before Tall Men come up out of Water.’”_ ***---&#65279;LotRIII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/wose-passage-hold/
 > Old Pukel-land
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Geann a-Lisch <br>_**Automatic-attacks:**_<br> Men-3 strikes with 5 prowess  “...they found themselves in a rock-chamber, wide and rough, with an uneven stooping roof."_ ***---&NoBreak;LotRIV*** 
+> > Nearest Darkhaven: Geann a-Lisch <br>_**Automatic-attacks:**_<br> Men-3 strikes with 5 prowess  <br>_“...they found themselves in a rock-chamber, wide and rough, with an uneven stooping roof."_ ***---&#65279;LotRIV*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>

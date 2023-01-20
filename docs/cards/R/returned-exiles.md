@@ -25,7 +25,7 @@ permalink: /cards/returned-exiles/
 > Dwarf Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at a tapped or untapped site where an at home Dragon manifestation was defeated if the influence is greater than 12. <br>_Standard Modifications:_ King under the Mountain Dwarf (+5), other Dwarves (+2). <br>_“‘Don't call my place a nasty hole! You wait till it has been cleaned and redecorated!’”_ ***---&NoBreak;Hob*** 
+> > _**Unique.**_ Playable at a tapped or untapped site where an at home Dragon manifestation was defeated if the influence is greater than 12. <br>_Standard Modifications:_ King under the Mountain Dwarf (+5), other Dwarves (+2). <br>_“‘Don't call my place a nasty hole! You wait till it has been cleaned and redecorated!’”_ ***---&#65279;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

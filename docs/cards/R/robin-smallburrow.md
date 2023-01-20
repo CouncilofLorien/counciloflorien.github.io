@@ -25,7 +25,7 @@ permalink: /cards/robin-smallburrow/
 > Scout Hobbit
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +2. <br>_“‘...I went for a Shirrif... Gave me a chance of walking round the country and seeing folk, and hearing the news...’”_ ***---&NoBreak;LotRVI***  <br><br>**Home Site:** Bag End 
+> > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +2. <br>_“‘...I went for a Shirrif... Gave me a chance of walking round the country and seeing folk, and hearing the news...’”_ ***---&#65279;LotRVI***  <br><br>**Home Site:** Bag End 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【1/9】</div>
@@ -45,7 +45,7 @@ permalink: /cards/robin-smallburrow/
 > Scout Hobbit
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +2. <br>_“‘...I went for a Shirrif... Gave me a chance of walking round the country and seeing folk, and hearing the news...’”_ ***---&NoBreak;LotRVI***  <br><br>**Home Site:** Bag End 
+> > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +2. <br>_“‘...I went for a Shirrif... Gave me a chance of walking round the country and seeing folk, and hearing the news...’”_ ***---&#65279;LotRVI***  <br><br>**Home Site:** Bag End 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【1/9】</div>

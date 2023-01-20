@@ -25,7 +25,7 @@ permalink: /cards/baduila/
 > Warrior/Scout/Ranger Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ Agent. Agent only: if Baduila is discarded at target company's new site, company must return to its site of origin. <br>_"They are valiant men and keep open the High Pass and the Ford of Carrock. But their tolls are high...and they are not overfond of dwarves."_ ***---&NoBreak;LotRII***  <br><br>**Home Site:** Goblin-gate, Mount Gundabad  
+> > _**Unique.**_ Agent. Agent only: if Baduila is discarded at target company's new site, company must return to its site of origin. <br>_"They are valiant men and keep open the High Pass and the Ford of Carrock. But their tolls are high...and they are not overfond of dwarves."_ ***---&#65279;LotRII***  <br><br>**Home Site:** Goblin-gate, Mount Gundabad  
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【6/8】</div>

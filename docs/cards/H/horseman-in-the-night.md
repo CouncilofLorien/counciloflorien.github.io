@@ -25,7 +25,7 @@ permalink: /cards/horseman-in-the-night/
 > Warrior/Diplomat Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > +1 direct influence against any faction.  "<br>_'Then about a year ago a messenger came to Dain, but not from Moria-from Mordor: a horseman in the night, who called Dain to his gate. The Lord Sauron the Great, so he said, wished for our friendship.’”_ ***---&NoBreak;LotRII***  <br>**Home Site:** Any Dark-hold
+> > +1 direct influence against any faction.  "<br>_'Then about a year ago a messenger came to Dain, but not from Moria-from Mordor: a horseman in the night, who called Dain to his gate. The Lord Sauron the Great, so he said, wished for our friendship.’”_ ***---&#65279;LotRII***  <br>**Home Site:** Any Dark-hold
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【3/7】</div>
@@ -45,7 +45,7 @@ permalink: /cards/horseman-in-the-night/
 > Warrior/Diplomat Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > +1 direct influence against any faction.  "<br>_'Then about a year ago a messenger came to Dain, but not from Moria-from Mordor: a horseman in the night, who called Dain to his gate. The Lord Sauron the Great, so he said, wished for our friendship.’”_ ***---&NoBreak;LotRII***  <br>**Home Site:** Any Dark-hold
+> > +1 direct influence against any faction.  "<br>_'Then about a year ago a messenger came to Dain, but not from Moria-from Mordor: a horseman in the night, who called Dain to his gate. The Lord Sauron the Great, so he said, wished for our friendship.’”_ ***---&#65279;LotRII***  <br>**Home Site:** Any Dark-hold
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【3/7】</div>

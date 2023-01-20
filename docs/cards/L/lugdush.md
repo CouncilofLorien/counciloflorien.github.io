@@ -25,7 +25,7 @@ permalink: /cards/lugdush/
 > Warrior/Scout Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ _Uruk-hai._ Discard on a body check result of 8. <br>_“‘You, Lugdush, get two others and stand guard over them."_ ***---&NoBreak;LotRIII***  <br><br>**Home Site:** Isengard 
+> > _**Unique.**_ _Uruk-hai._ Discard on a body check result of 8. <br>_“‘You, Lugdush, get two others and stand guard over them."_ ***---&#65279;LotRIII***  <br><br>**Home Site:** Isengard 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【5/8】</div>
@@ -45,7 +45,7 @@ permalink: /cards/lugdush/
 > Warrior/Scout Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ _Uruk-hai._ Discard on a body check result of 8. <br>_“‘You, Lugdush, get two others and stand guard over them."_ ***---&NoBreak;LotRIII***  <br><br>**Home Site:** Isengard 
+> > _**Unique.**_ _Uruk-hai._ Discard on a body check result of 8. <br>_“‘You, Lugdush, get two others and stand guard over them."_ ***---&#65279;LotRIII***  <br><br>**Home Site:** Isengard 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【5/8】</div>

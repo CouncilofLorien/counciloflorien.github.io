@@ -25,7 +25,7 @@ permalink: /cards/a-short-rest/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Each moving company may draw an extra card for each region less than four in its site path. <br>_"That day he looked at the swords they had brought from the trolls' lair, and he said: 'These are not troll-make.’”_ ***---&NoBreak;Hob*** 
+> > Each moving company may draw an extra card for each region less than four in its site path. <br>_"That day he looked at the swords they had brought from the trolls' lair, and he said: 'These are not troll-make.’”_ ***---&#65279;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

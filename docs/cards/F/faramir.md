@@ -25,7 +25,7 @@ permalink: /cards/faramir/
 > Warrior/Ranger Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Rangers of Ithilien faction. <br>_"He could see Faramir's face, which was now unmasked: it was stern and commanding, and a keen wit lay behind his searching glance."_ ***---&NoBreak;LotRIV***  <br><br>**Home Site:** Henneth Annun 
+> > _**Unique.**_ +2 direct influence against the Rangers of Ithilien faction. <br>_"He could see Faramir's face, which was now unmasked: it was stern and commanding, and a keen wit lay behind his searching glance."_ ***---&#65279;LotRIV***  <br><br>**Home Site:** Henneth Annun 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【5/8】</div>
@@ -45,7 +45,7 @@ permalink: /cards/faramir/
 > Warrior/Ranger Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Rangers of Ithilien faction. <br>_"He could see Faramir's face, which was now unmasked: it was stern and commanding, and a keen wit lay behind his searching glance."_ ***---&NoBreak;LotRIV***  <br><br>**Home Site:** Henneth Annun 
+> > _**Unique.**_ +2 direct influence against the Rangers of Ithilien faction. <br>_"He could see Faramir's face, which was now unmasked: it was stern and commanding, and a keen wit lay behind his searching glance."_ ***---&#65279;LotRIV***  <br><br>**Home Site:** Henneth Annun 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【5/8】</div>
@@ -65,7 +65,7 @@ permalink: /cards/faramir/
 > Warrior/Ranger Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Rangers of Ithilien faction. <br>_"He could see Faramir's face, which was now unmasked: it was stern and commanding, and a keen wit lay behind his searching glance."_ ***---&NoBreak;LotRIV***  <br><br>**Home Site:** Henneth Annun 
+> > _**Unique.**_ +2 direct influence against the Rangers of Ithilien faction. <br>_"He could see Faramir's face, which was now unmasked: it was stern and commanding, and a keen wit lay behind his searching glance."_ ***---&#65279;LotRIV***  <br><br>**Home Site:** Henneth Annun 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【5/8】</div>
@@ -85,7 +85,7 @@ permalink: /cards/faramir/
 > Warrior/Ranger Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Rangers of Ithilien faction. <br>_"He could see Faramir's face, which was now unmasked: it was stern and commanding, and a keen wit lay behind his searching glance."_ ***---&NoBreak;LotRIV***  <br><br>**Home Site:** Henneth Annun 
+> > _**Unique.**_ +2 direct influence against the Rangers of Ithilien faction. <br>_"He could see Faramir's face, which was now unmasked: it was stern and commanding, and a keen wit lay behind his searching glance."_ ***---&#65279;LotRIV***  <br><br>**Home Site:** Henneth Annun 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【5/8】</div>

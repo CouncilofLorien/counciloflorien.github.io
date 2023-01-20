@@ -25,7 +25,7 @@ permalink: /cards/lossadan-cairn/
 > Forochel
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Rivendell <br>_**Playable:**_ Items (minor, major, greater*) *-Palantiri Only <br>_**Automatic-attacks:**_<br> Undead - 2 strikes with 8 prowess; each character wounded must make a corruption check 
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major, greater\*) \*-Palantiri Only <br>_**Automatic-attacks:**_<br> Undead - 2 strikes with 8 prowess; each character wounded must make a corruption check 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/lossadan-cairn/
 > Forochel
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Rivendell <br>_**Playable:**_ Items (minor, major, greater*) *-Palantiri Only <br>_**Automatic-attacks:**_<br> Undead - 2 strikes with 8 prowess; each character wounded must make a corruption check 
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major, greater\*) \*-Palantiri Only <br>_**Automatic-attacks:**_<br> Undead - 2 strikes with 8 prowess; each character wounded must make a corruption check 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/lossadan-cairn/
 > Forochel
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Items (minor, major, greater*) *-Palantiri Only <br>_**Automatic-attacks:**_<br> Undead - 2 strikes with 8 prowess; each character wounded must make a corruption check modified by -2  “...a great storm of wind arose, and came with blinding snow out of the North...”_ ***---&NoBreak;LotR*** 
+> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Items (minor, major, greater*) *-Palantiri Only <br>_**Automatic-attacks:**_<br> Undead - 2 strikes with 8 prowess; each character wounded must make a corruption check modified by -2  <br>_“...a great storm of wind arose, and came with blinding snow out of the North...”_ ***---&#65279;LotR*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/lossadan-cairn/
 > Forochel
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Rivendell <br>_**Playable:**_ Items (minor, major, greater*) *-Palantiri Only <br>_**Automatic-attacks:**_<br> Undead - 2 strikes with 8 prowess; each character wounded must make a corruption check 
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major, greater\*) \*-Palantiri Only <br>_**Automatic-attacks:**_<br> Undead - 2 strikes with 8 prowess; each character wounded must make a corruption check 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>

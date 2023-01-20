@@ -25,7 +25,7 @@ permalink: /cards/pippin/
 > Scout Hobbit
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +2. <br>_“...then there came a faint glow...and it held his eyes, so that now he could be look away."_ ***---&NoBreak;LotRIII***  <br><br>**Home Site:** Bag End 
+> > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +2. <br>_“...then there came a faint glow...and it held his eyes, so that now he could be look away."_ ***---&#65279;LotRIII***  <br><br>**Home Site:** Bag End 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【1/9】</div>
@@ -45,7 +45,7 @@ permalink: /cards/pippin/
 > Scout Hobbit
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +2. <br>_“...then there came a faint glow...and it held his eyes, so that now he could be look away."_ ***---&NoBreak;LotRIII***  <br><br>**Home Site:** Bag End 
+> > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +2. <br>_“...then there came a faint glow...and it held his eyes, so that now he could be look away."_ ***---&#65279;LotRIII***  <br><br>**Home Site:** Bag End 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【1/9】</div>
@@ -65,7 +65,7 @@ permalink: /cards/pippin/
 > Scout Hobbit
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +2. <br>_“...then there came a faint glow...and it held his eyes, so that now he could be look away."_ ***---&NoBreak;LotRIII***  <br><br>**Home Site:** Bag End 
+> > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +2. <br>_“...then there came a faint glow...and it held his eyes, so that now he could be look away."_ ***---&#65279;LotRIII***  <br><br>**Home Site:** Bag End 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【1/9】</div>

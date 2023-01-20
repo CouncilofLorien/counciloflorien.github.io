@@ -25,7 +25,7 @@ permalink: /cards/carrion-feeders/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Animals._ Each wounded character faces one strike. All body checks resulting from successful strikes are modified by +1. Each untapped character in the company may tap to cancel a strike against a wounded character.   “...the great bats swirled about the heads and ears of the elves and men, or fastened vampire-like on the stricken."_ ***---&NoBreak;Hob*** 
+> > _Animals._ Each wounded character faces one strike. All body checks resulting from successful strikes are modified by +1. Each untapped character in the company may tap to cancel a strike against a wounded character.   “...the great bats swirled about the heads and ears of the elves and men, or fastened vampire-like on the stricken."_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【9/&ndash;】</div>

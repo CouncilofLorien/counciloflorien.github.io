@@ -25,7 +25,7 @@ permalink: /cards/wolf-riders/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Orcs._ May be played following any Orc attack not keyed to a site. Three strikes. If played as a short-event, modify the prowess and strikes of a Wolf attack by +1. <br>_"But in those days they sometimes used to go on raids...they often got the wargs to help and shared their plunder with them. Sometimes they rode on wolves like men do on horses."_ ***---&NoBreak;Hob*** 
+> > _Orcs._ May be played following any Orc attack not keyed to a site. Three strikes. If played as a short-event, modify the prowess and strikes of a Wolf attack by +1. <br>_"But in those days they sometimes used to go on raids...they often got the wargs to help and shared their plunder with them. Sometimes they rode on wolves like men do on horses."_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

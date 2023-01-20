@@ -25,7 +25,7 @@ permalink: /cards/greed/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a site. Until the end of the turn, each non ---&NoBreak;Hobbit, non-Wizard character at the site must make a corruption check each time an item is played at the site. The character playing an item need not make a corruption check. When a character makes one of these corruption checks, it is modified by subtracting the corruption points that the item would normally give the character if he controlled the item. Cannot be duplicated on a given site. 
+> > Playable on a site. Until the end of the turn, each non ---&#65279;Hobbit, non-Wizard character at the site must make a corruption check each time an item is played at the site. The character playing an item need not make a corruption check. When a character makes one of these corruption checks, it is modified by subtracting the corruption points that the item would normally give the character if he controlled the item. Cannot be duplicated on a given site. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/greed/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a site. Until the end of the turn, each non ---&NoBreak;Hobbit, non-Wizard character at the site must make a corruption check each time an item is played at the site. The character playing an item need not make a corruption check. When a character makes one of these corruption checks, it is modified by subtracting the corruption points that the item would normally give the character if he controlled the item. Cannot be duplicated on a given site. 
+> > Playable on a site. Until the end of the turn, each non ---&#65279;Hobbit, non-Wizard character at the site must make a corruption check each time an item is played at the site. The character playing an item need not make a corruption check. When a character makes one of these corruption checks, it is modified by subtracting the corruption points that the item would normally give the character if he controlled the item. Cannot be duplicated on a given site. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/greed/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a site. Until the end of the turn, each non ---&NoBreak;Hobbit, non-Wizard, non-Ringwraith character at the site must make a corruption check each time an item is played at the site. The character playing an item need not make a corruption check. When a character makes one of these checks, it is modified by subtracting the corruption points that the item would normally give the character if he controlled it. Cannot be duplicated on a given site. 
+> > Playable on a site. Until the end of the turn, each non ---&#65279;Hobbit, non-Wizard, non-Ringwraith character at the site must make a corruption check each time an item is played at the site. The character playing an item need not make a corruption check. When a character makes one of these checks, it is modified by subtracting the corruption points that the item would normally give the character if he controlled it. Cannot be duplicated on a given site. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -85,7 +85,7 @@ permalink: /cards/greed/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a site. Until the end of the turn, each non ---&NoBreak;Hobbit, non-Wizard, non-Ringwraith character at the site must make a corruption check each time an item is played at the site. The character playing an item need not make a corruption check. When a character makes one of these checks, it is modified by subtracting the corruption points that the item would normally give the character if he controlled it. Cannot be duplicated on a given site. 
+> > Playable on a site. Until the end of the turn, each non ---&#65279;Hobbit, non-Wizard, non-Ringwraith character at the site must make a corruption check each time an item is played at the site. The character playing an item need not make a corruption check. When a character makes one of these checks, it is modified by subtracting the corruption points that the item would normally give the character if he controlled it. Cannot be duplicated on a given site. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

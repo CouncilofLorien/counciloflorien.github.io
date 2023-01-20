@@ -25,7 +25,7 @@ permalink: /cards/muster/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Warrior only._ An influence check against a faction by a warrior is modified by adding the warrior's prowess to a maximum modifier of +5. <br>_“...more than a hundred sturdy hobbits were assembled with axes, and heavy hammers, and long-knives, and stout staves; and a few had hunting-bows."_ ***---&NoBreak;LotRVI*** 
+> > _Warrior only._ An influence check against a faction by a warrior is modified by adding the warrior's prowess to a maximum modifier of +5. <br>_“...more than a hundred sturdy hobbits were assembled with axes, and heavy hammers, and long-knives, and stout staves; and a few had hunting-bows."_ ***---&#65279;LotRVI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/muster/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Warrior only._ An influence check against a faction by a warrior is modified by adding the warrior's prowess to a maximum modifier of +5. <br>_“...more than a hundred sturdy hobbits were assembled with axes, and heavy hammers, and long-knives, and stout staves; and a few had hunting-bows."_ ***---&NoBreak;LotRVI*** 
+> > _Warrior only._ An influence check against a faction by a warrior is modified by adding the warrior's prowess to a maximum modifier of +5. <br>_“...more than a hundred sturdy hobbits were assembled with axes, and heavy hammers, and long-knives, and stout staves; and a few had hunting-bows."_ ***---&#65279;LotRVI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/muster/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Warrior only._ An influence check against a faction by a warrior is modified by adding the warrior's prowess to a maximum modifier of +5. <br>_“...more than a hundred sturdy hobbits were assembled with axes, and heavy hammers, and long-knives, and stout staves; and a few had hunting-bows."_ ***---&NoBreak;LotRVI*** 
+> > _Warrior only._ An influence check against a faction by a warrior is modified by adding the warrior's prowess to a maximum modifier of +5. <br>_“...more than a hundred sturdy hobbits were assembled with axes, and heavy hammers, and long-knives, and stout staves; and a few had hunting-bows."_ ***---&#65279;LotRVI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -85,7 +85,7 @@ permalink: /cards/muster/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Warrior only._ An influence check against a faction by a warrior is modified by adding the warrior's prowess to a maximum modifier of +5. <br>_“...more than a hundred sturdy hobbits were assembled with axes, and heavy hammers, and long-knives, and stout staves; and a few had hunting-bows."_ ***---&NoBreak;LotRVI*** 
+> > _Warrior only._ An influence check against a faction by a warrior is modified by adding the warrior's prowess to a maximum modifier of +5. <br>_“...more than a hundred sturdy hobbits were assembled with axes, and heavy hammers, and long-knives, and stout staves; and a few had hunting-bows."_ ***---&#65279;LotRVI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

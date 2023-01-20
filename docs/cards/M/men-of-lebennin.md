@@ -25,7 +25,7 @@ permalink: /cards/men-of-lebennin/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Pelargir if the influence check is greater than 7.  <br>_Standard Modifications:_ Dunedain (+1). <br>_“...or further south in fair Lebennin with its five swift streams. There dwelt a hardy folk between the mountains and the sea."_ ***---&NoBreak;LotRV*** 
+> > _**Unique.**_ Playable at Pelargir if the influence check is greater than 7.  <br>_Standard Modifications:_ Dunedain (+1). <br>_“...or further south in fair Lebennin with its five swift streams. There dwelt a hardy folk between the mountains and the sea."_ ***---&#65279;LotRV*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/men-of-lebennin/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Pelargir if the influence check is greater than 7.  <br>_Standard Modifications:_ Dunedain (+1). <br>_“...or further south in fair Lebennin with its five swift streams. There dwelt a hardy folk between the mountains and the sea."_ ***---&NoBreak;LotRV*** 
+> > _**Unique.**_ Playable at Pelargir if the influence check is greater than 7.  <br>_Standard Modifications:_ Dunedain (+1). <br>_“...or further south in fair Lebennin with its five swift streams. There dwelt a hardy folk between the mountains and the sea."_ ***---&#65279;LotRV*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/men-of-lebennin/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Pelargir if the influence check is greater than 7.  <br>_Standard Modifications:_ Dunedain (+1). <br>_“...or further south in fair Lebennin with its five swift streams. There dwelt a hardy folk between the mountains and the sea."_ ***---&NoBreak;LotRV*** 
+> > _**Unique.**_ Playable at Pelargir if the influence check is greater than 7.  <br>_Standard Modifications:_ Dunedain (+1). <br>_“...or further south in fair Lebennin with its five swift streams. There dwelt a hardy folk between the mountains and the sea."_ ***---&#65279;LotRV*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

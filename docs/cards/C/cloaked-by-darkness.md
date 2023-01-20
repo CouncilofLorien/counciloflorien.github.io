@@ -25,7 +25,7 @@ permalink: /cards/cloaked-by-darkness/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Balrog specific._ Playable on a company if Great Shadow is in play. You may bring this card from your sideboard into your play deck and reshuffle during your organization phase. The hazard limit against the company is reduced by one to no minimum. <br>_"Fire claimed their hearts, but shadow cloaked the forms of the Valaraukar."_ ***---&NoBreak;Kuduk Lore*** 
+> > _Balrog specific._ Playable on a company if Great Shadow is in play. You may bring this card from your sideboard into your play deck and reshuffle during your organization phase. The hazard limit against the company is reduced by one to no minimum. <br>_"Fire claimed their hearts, but shadow cloaked the forms of the Valaraukar."_ ***---&#65279;Kuduk Lore*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

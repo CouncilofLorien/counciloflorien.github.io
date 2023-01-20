@@ -65,7 +65,7 @@ permalink: /cards/lure-of-nature/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Corruption._ Playable on a non ---&NoBreak;Hobbit, non-Dwarf, non-Orc, non-Ringwraith character. Target character receives 2 corruption points and makes a corruption check at the end of his movement/hazard phase for each Wilderness \[![](/assets/images/wilderness.svg)] in his company's site path. During his organization phase, the character may tap to attempt to remove this card by making a roll (drawing a #)-if the result is greater than 4, discard this card. Cannot be duplicated on a given character 
+> > _Corruption._ Playable on a non ---&#65279;Hobbit, non-Dwarf, non-Orc, non-Ringwraith character. Target character receives 2 corruption points and makes a corruption check at the end of his movement/hazard phase for each Wilderness \[![](/assets/images/wilderness.svg)] in his company's site path. During his organization phase, the character may tap to attempt to remove this card by making a roll (drawing a #)-if the result is greater than 4, discard this card. Cannot be duplicated on a given character 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

@@ -25,7 +25,7 @@ permalink: /cards/celeborn/
 > Warrior/Sage Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +5 direct influence that is only usable against Galadriel. <br>_“...and the hair of Lord Celeborn was of silver long and bright; but no sign of age was upon them, unless in the depths of their eyes; for these were keen as lances in the starlight, and yet profound, the wells of deep memory."_ ***---&NoBreak;LotRII***  <br><br>**Home Site:** Lorien 
+> > _**Unique.**_ +5 direct influence that is only usable against Galadriel. <br>_“...and the hair of Lord Celeborn was of silver long and bright; but no sign of age was upon them, unless in the depths of their eyes; for these were keen as lances in the starlight, and yet profound, the wells of deep memory."_ ***---&#65279;LotRII***  <br><br>**Home Site:** Lorien 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【6/9】</div>
@@ -45,7 +45,7 @@ permalink: /cards/celeborn/
 > Warrior/Sage Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +5 direct influence that is only usable against Galadriel. <br>_“...and the hair of Lord Celeborn was of silver long and bright; but no sign of age was upon them, unless in the depths of their eyes; for these were keen as lances in the starlight, and yet profound, the wells of deep memory."_ ***---&NoBreak;LotRII***  <br><br>**Home Site:** Lorien 
+> > _**Unique.**_ +5 direct influence that is only usable against Galadriel. <br>_“...and the hair of Lord Celeborn was of silver long and bright; but no sign of age was upon them, unless in the depths of their eyes; for these were keen as lances in the starlight, and yet profound, the wells of deep memory."_ ***---&#65279;LotRII***  <br><br>**Home Site:** Lorien 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【6/9】</div>
@@ -65,7 +65,7 @@ permalink: /cards/celeborn/
 > Warrior/Sage Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +5 direct influence that is only usable against Galadriel. <br>_“...and the hair of Lord Celeborn was of silver long and bright; but no sign of age was upon them, unless in the depths of their eyes; for these were keen as lances in the starlight, and yet profound, the wells of deep memory."_ ***---&NoBreak;LotRII***  <br><br>**Home Site:** Lorien 
+> > _**Unique.**_ +5 direct influence that is only usable against Galadriel. <br>_“...and the hair of Lord Celeborn was of silver long and bright; but no sign of age was upon them, unless in the depths of their eyes; for these were keen as lances in the starlight, and yet profound, the wells of deep memory."_ ***---&#65279;LotRII***  <br><br>**Home Site:** Lorien 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【6/9】</div>
@@ -85,7 +85,7 @@ permalink: /cards/celeborn/
 > Warrior/Sage Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +5 direct influence that is only usable against Galadriel. <br>_“...and the hair of Lord Celeborn was of silver long and bright; but no sign of age was upon them, unless in the depths of their eyes; for these were keen as lances in the starlight, and yet profound, the wells of deep memory."_ ***---&NoBreak;LotRII***  <br><br>**Home Site:** Lorien 
+> > _**Unique.**_ +5 direct influence that is only usable against Galadriel. <br>_“...and the hair of Lord Celeborn was of silver long and bright; but no sign of age was upon them, unless in the depths of their eyes; for these were keen as lances in the starlight, and yet profound, the wells of deep memory."_ ***---&#65279;LotRII***  <br><br>**Home Site:** Lorien 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【6/9】</div>

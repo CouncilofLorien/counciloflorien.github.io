@@ -25,7 +25,7 @@ permalink: /cards/darkness-under-tree/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on an untapped Orc, Troll, or Man character if Doors of Night is in play. Tap the character. <br>_“...there now a forest loomed. Great trees, bare and silent, stood, rank on rank,  with tangled bow and hoary head; their twisted roots were buried in the long green grass. Darkness was under them."_ ***---&NoBreak;LotRIII*** 
+> > Playable on an untapped Orc, Troll, or Man character if Doors of Night is in play. Tap the character. <br>_“...there now a forest loomed. Great trees, bare and silent, stood, rank on rank,  with tangled bow and hoary head; their twisted roots were buried in the long green grass. Darkness was under them."_ ***---&#65279;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

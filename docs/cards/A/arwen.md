@@ -25,7 +25,7 @@ permalink: /cards/arwen/
 > Scout/Sage Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +7 direct influence only usable against Aragorn II. <br>_"The braids of her dark hair were touched by no frost; her white arms and clear face were flawless and smooth, and the light of stars was in her eyes...queenly she looked, and thought and knowledge were in her glance...”_ ***---&NoBreak;LotRII***  <br><br>**Home Site:** Rivendell 
+> > _**Unique.**_ +7 direct influence only usable against Aragorn II. <br>_"The braids of her dark hair were touched by no frost; her white arms and clear face were flawless and smooth, and the light of stars was in her eyes...queenly she looked, and thought and knowledge were in her glance...”_ ***---&#65279;LotRII***  <br><br>**Home Site:** Rivendell 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【2/8】</div>
@@ -45,7 +45,7 @@ permalink: /cards/arwen/
 > Scout/Sage Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +7 direct influence only usable against Aragorn II. <br>_"The braids of her dark hair were touched by no frost; her white arms and clear face were flawless and smooth, and the light of stars was in her eyes...queenly she looked, and thought and knowledge were in her glance...”_ ***---&NoBreak;LotRII***  <br><br>**Home Site:** Rivendell 
+> > _**Unique.**_ +7 direct influence only usable against Aragorn II. <br>_"The braids of her dark hair were touched by no frost; her white arms and clear face were flawless and smooth, and the light of stars was in her eyes...queenly she looked, and thought and knowledge were in her glance...”_ ***---&#65279;LotRII***  <br><br>**Home Site:** Rivendell 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【2/8】</div>
@@ -65,7 +65,7 @@ permalink: /cards/arwen/
 > Scout/Sage Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +7 direct influence only usable against Aragorn II. <br>_"The braids of her dark hair were touched by no frost; her white arms and clear face were flawless and smooth, and the light of stars was in her eyes...queenly she looked, and thought and knowledge were in her glance...”_ ***---&NoBreak;LotRII***  <br><br>**Home Site:** Rivendell 
+> > _**Unique.**_ +7 direct influence only usable against Aragorn II. <br>_"The braids of her dark hair were touched by no frost; her white arms and clear face were flawless and smooth, and the light of stars was in her eyes...queenly she looked, and thought and knowledge were in her glance...”_ ***---&#65279;LotRII***  <br><br>**Home Site:** Rivendell 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【2/8】</div>

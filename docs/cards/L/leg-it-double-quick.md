@@ -25,7 +25,7 @@ permalink: /cards/leg-it-double-quick/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable at the end of the movement/hazard phase on a moving company. Tap all untapped characters in the company. The company may move to an additional site this turn. Another site card may be played and another movement hazard phase immediately follows for that company.   “‘The cursed horse-breeders will hear of us by morning. Now we'll have to leg it double quick.’”_ ***---&NoBreak;LotRIII***  
+> > Playable at the end of the movement/hazard phase on a moving company. Tap all untapped characters in the company. The company may move to an additional site this turn. Another site card may be played and another movement hazard phase immediately follows for that company.   “‘The cursed horse-breeders will hear of us by morning. Now we'll have to leg it double quick.’”_ ***---&#65279;LotRIII***  
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

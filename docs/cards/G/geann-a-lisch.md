@@ -45,7 +45,7 @@ permalink: /cards/geann-a-lisch/
 > Old Pukel-land
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Edhellond <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br> Men-4 strikes with 8 prowess <br>_**Special:**_ Any Man hazard creature can be played at this site. <br>_“‘Here lived tall Adan captains who once sailed near the lights of the Undying Lands.’”_ ***---&NoBreak;Kuduk Lore*** 
+> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br> Men-4 strikes with 8 prowess <br>_**Special:**_ Any Man hazard creature can be played at this site. <br>_“‘Here lived tall Adan captains who once sailed near the lights of the Undying Lands.’”_ ***---&#65279;Kuduk Lore*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>

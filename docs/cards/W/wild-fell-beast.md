@@ -25,7 +25,7 @@ permalink: /cards/wild-fell-beast/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Drake._ Three strikes. Attacker chooses defending characters. Unless this attack is canceled, all untapped characters in defending company are tapped following attack. Two Shadow-lands \[![](/assets/images/shadow-land.svg)] in site path are required. <br>_"A creature of an older world maybe it was, whose kind lingered in forgotten mountains cold beneath the Moon, outstayed their days, and in hideous eyrie bred this last untimely brood, apt to evil."_ ***---&NoBreak;LotRV*** 
+> > _Drake._ Three strikes. Attacker chooses defending characters. Unless this attack is canceled, all untapped characters in defending company are tapped following attack. Two Shadow-lands \[![](/assets/images/shadow-land.svg)] in site path are required. <br>_"A creature of an older world maybe it was, whose kind lingered in forgotten mountains cold beneath the Moon, outstayed their days, and in hideous eyrie bred this last untimely brood, apt to evil."_ ***---&#65279;LotRV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【12/6】</div>

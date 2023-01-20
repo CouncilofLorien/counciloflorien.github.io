@@ -25,7 +25,7 @@ permalink: /cards/tharbad/
 > Cardolan
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Rivendell <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br> Men-3 strikes with 6 prowess <br>_**Special:**_ Items may be played here even if the site is tapped. <br>_“...as far as Tharbad, where the old North Road crossed the river by a ruined town."_ ***---&NoBreak;LotRII*** 
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br> Men-3 strikes with 6 prowess <br>_**Special:**_ Items may be played here even if the site is tapped. <br>_“...as far as Tharbad, where the old North Road crossed the river by a ruined town."_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/tharbad/
 > Cardolan
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br> Men-3 strikes with 6 prowess <br>_**Special:**_ Items may be played at this site even if it is tapped. <br>_"Great floods devastate Enedwaiith and Minhiriath. Tharbad is ruined and deserted."_ ***---&NoBreak;LotR*** 
+> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br> Men-3 strikes with 6 prowess <br>_**Special:**_ Items may be played at this site even if it is tapped. <br>_"Great floods devastate Enedwaiith and Minhiriath. Tharbad is ruined and deserted."_ ***---&#65279;LotR*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

@@ -25,7 +25,7 @@ permalink: /cards/pallandos-apprentice/
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > _**Unique.**_ Palando specific. _Sage only._ Playable on a non ---&NoBreak;Hobbit, non-Dwarf sage character at one of your Wizardhavens \[![](/assets/images/free-haven.svg)] (or in your starting company). +1 to his direct influence. This character requires 2 points of influence to control and may only be controlled by general influence or Pallando. This character may tap to use a Palantir he bears. 
+> > _**Unique.**_ Palando specific. _Sage only._ Playable on a non ---&#65279;Hobbit, non-Dwarf sage character at one of your Wizardhavens \[![](/assets/images/free-haven.svg)] (or in your starting company). +1 to his direct influence. This character requires 2 points of influence to control and may only be controlled by general influence or Pallando. This character may tap to use a Palantir he bears. 
 > 
 > {: .stage-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

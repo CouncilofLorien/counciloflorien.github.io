@@ -25,7 +25,7 @@ permalink: /cards/wormsbane/
 > Long-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Weapon._ +2 to prowess to a maximum of 9 (+4 to prowess to a maximum of 12 and -2 to strikes body against a Dragon or a Drake strike). <br>_“...and among them were several swords of various makes, shapes, and sizes."_ ***---&NoBreak;Hob*** 
+> > _**Unique.**_ _Weapon._ +2 to prowess to a maximum of 9 (+4 to prowess to a maximum of 12 and -2 to strikes body against a Dragon or a Drake strike). <br>_“...and among them were several swords of various makes, shapes, and sizes."_ ***---&#65279;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/wormsbane/
 > Long-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Weapon._ +2 to prowess to a maximum of 9 (+4 to prowess to a maximum of 12 and -2 to strikes body against a Dragon or a Drake strike). <br>_“...and among them were several swords of various makes, shapes, and sizes."_ ***---&NoBreak;Hob*** 
+> > _**Unique.**_ _Weapon._ +2 to prowess to a maximum of 9 (+4 to prowess to a maximum of 12 and -2 to strikes body against a Dragon or a Drake strike). <br>_“...and among them were several swords of various makes, shapes, and sizes."_ ***---&#65279;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

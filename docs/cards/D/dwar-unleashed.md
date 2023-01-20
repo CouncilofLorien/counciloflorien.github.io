@@ -25,7 +25,7 @@ permalink: /cards/dwar-unleashed/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable during the organization phase on Dwar the Ringwraith (if Dwar is your Ringwraith). His own company may use region movement this turn. <br>_“‘He was tall and black-like, and he stooped over me.’”_ ***---&NoBreak;LotRI*** 
+> > Playable during the organization phase on Dwar the Ringwraith (if Dwar is your Ringwraith). His own company may use region movement this turn. <br>_“‘He was tall and black-like, and he stooped over me.’”_ ***---&#65279;LotRI*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

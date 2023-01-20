@@ -25,7 +25,7 @@ permalink: /cards/perchen/
 > Scout/Diplomat Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ +3 direct influence against any faction playable at Dunnish Clan-hold. <br>_"Dunland and Dunlending are the names that the Rohirrim gave them, because they were swarthy and dark-haired...”_ ***---&NoBreak;LotR***  <br><br>**Home Site:** Dunnish Clan-hold 
+> > _**Unique.**_ +3 direct influence against any faction playable at Dunnish Clan-hold. <br>_"Dunland and Dunlending are the names that the Rohirrim gave them, because they were swarthy and dark-haired...”_ ***---&#65279;LotR***  <br><br>**Home Site:** Dunnish Clan-hold 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【3/9】</div>
@@ -45,7 +45,7 @@ permalink: /cards/perchen/
 > Scout/Diplomat Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ +3 direct influence against any faction playable at Dunnish Clan-hold. <br>_"Dunland and Dunlending are the names that the Rohirrim gave them, because they were swarthy and dark-haired...”_ ***---&NoBreak;LotR***  <br><br>**Home Site:** Dunnish Clan-hold 
+> > _**Unique.**_ +3 direct influence against any faction playable at Dunnish Clan-hold. <br>_"Dunland and Dunlending are the names that the Rohirrim gave them, because they were swarthy and dark-haired...”_ ***---&#65279;LotR***  <br><br>**Home Site:** Dunnish Clan-hold 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【3/9】</div>

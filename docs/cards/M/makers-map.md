@@ -25,7 +25,7 @@ permalink: /cards/makers-map/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Balrog specific._ Playable during the site phase on an untapped ranger at an untapped site where Information is playable. Tap the ranger and the site. +2 to all rolls for his company to move to adjacent Under-deeps sites. <br>_"It was well for the company that they had such a guide."_ ***---&NoBreak;LotRII*** 
+> > _Balrog specific._ Playable during the site phase on an untapped ranger at an untapped site where Information is playable. Tap the ranger and the site. +2 to all rolls for his company to move to adjacent Under-deeps sites. <br>_"It was well for the company that they had such a guide."_ ***---&#65279;LotRII*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

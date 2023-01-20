@@ -25,7 +25,7 @@ permalink: /cards/power-built-by-waiting/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Tap during a company's movement/hazard phase to increase the hazard limit against that company by one. This card does not untap during your untap phase. You may use two against a company's hazard limit to untap this card.   “‘And perils known and unknown will grow as we go on.’”_ ***---&NoBreak;LotRII*** 
+> > Tap during a company's movement/hazard phase to increase the hazard limit against that company by one. This card does not untap during your untap phase. You may use two against a company's hazard limit to untap this card.   “‘And perils known and unknown will grow as we go on.’”_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/power-built-by-waiting/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Tap during a company's movement/hazard phase to increase the hazard limit against that company by one. This card does not untap during your untap phase. You may use two against a company's hazard limit to untap this card.   “‘And perils known and unknown will grow as we go on.’”_ ***---&NoBreak;LotRII*** 
+> > Tap during a company's movement/hazard phase to increase the hazard limit against that company by one. This card does not untap during your untap phase. You may use two against a company's hazard limit to untap this card.   “‘And perils known and unknown will grow as we go on.’”_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

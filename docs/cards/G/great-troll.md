@@ -25,7 +25,7 @@ permalink: /cards/great-troll/
 > Warrior Ally
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Balrog-specific. Playable at a non-Darkhaven Under-deeps site and only by The Balrog. Troll. Even if it is tapped or wounded, you may assign a strike to this ally as though it were untapped. <br>_"Two great trolls appeared: they bore great slabs of stone, and flung them down to serve as gangways over the fire."_ ***---&NoBreak;LotRII*** 
+> > Balrog-specific. Playable at a non-Darkhaven Under-deeps site and only by The Balrog. Troll. Even if it is tapped or wounded, you may assign a strike to this ally as though it were untapped. <br>_"Two great trolls appeared: they bore great slabs of stone, and flung them down to serve as gangways over the fire."_ ***---&#65279;LotRII*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【6/8】</div>

@@ -25,7 +25,7 @@ permalink: /cards/mount-gram/
 > Angmar
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 6 prowess  "He charged the ranks of the goblins of Mount Gram in the Battle of the Green Fields, and knocked their king Golfimbul's head clean off with a wooden club."_ ***---&NoBreak;Hob*** 
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 6 prowess  <br>_"He charged the ranks of the goblins of Mount Gram in the Battle of the Green Fields, and knocked their king Golfimbul's head clean off with a wooden club."_ ***---&#65279;Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/mount-gram/
 > Angmar
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 6 prowess  "He charged the ranks of the goblins of Mount Gram in the Battle of the Green Fields, and knocked their king Golfimbul's head clean off with a wooden club."_ ***---&NoBreak;Hob*** 
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 6 prowess  <br>_"He charged the ranks of the goblins of Mount Gram in the Battle of the Green Fields, and knocked their king Golfimbul's head clean off with a wooden club."_ ***---&#65279;Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/mount-gram/
 > Angmar
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Carn Dum  “...the Orcs, who had, as later appeared, long been secretly occupying strongholds in the Misty Mountains...suddenly revealed themselves."_ ***---&NoBreak;LotR*** 
+> > Nearest Darkhaven: Carn Dum  <br>_“...the Orcs, who had, as later appeared, long been secretly occupying strongholds in the Misty Mountains...suddenly revealed themselves."_ ***---&#65279;LotR*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/mount-gram/
 > Angmar
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 6 prowess  "He charged the ranks of the goblins of Mount Gram in the Battle of the Green Fields, and knocked their king Golfimbul's head clean off with a wooden club."_ ***---&NoBreak;Hob*** 
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 6 prowess  <br>_"He charged the ranks of the goblins of Mount Gram in the Battle of the Green Fields, and knocked their king Golfimbul's head clean off with a wooden club."_ ***---&#65279;Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -105,7 +105,7 @@ permalink: /cards/mount-gram/
 > Angmar
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Carn Dum  “...the Orcs, who had, as later appeared, long been secretly occupying strongholds in the Misty Mountains...suddenly revealed themselves."_ ***---&NoBreak;LotR*** 
+> > Nearest Darkhaven: Carn Dum  <br>_“...the Orcs, who had, as later appeared, long been secretly occupying strongholds in the Misty Mountains...suddenly revealed themselves."_ ***---&#65279;LotR*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -125,7 +125,7 @@ permalink: /cards/mount-gram/
 > Angmar
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Carn Dum  “...the Orcs, who had, as later appeared, long been secretly occupying strongholds in the Misty Mountains...suddenly revealed themselves."_ ***---&NoBreak;LotR*** 
+> > Nearest Darkhaven: Carn Dum  <br>_“...the Orcs, who had, as later appeared, long been secretly occupying strongholds in the Misty Mountains...suddenly revealed themselves."_ ***---&#65279;LotR*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>

@@ -25,7 +25,7 @@ permalink: /cards/cirith-gorgor/
 > Udun
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Minas Morgul  "This was Cirith Gorgor, the Haunted Pass, the entrance to the land of the Enemy"_ ***---&NoBreak;LotRVI*** 
+> > Nearest Darkhaven: Minas Morgul  <br>_"This was Cirith Gorgor, the Haunted Pass, the entrance to the land of the Enemy"_ ***---&#65279;LotRVI*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/cirith-gorgor/
 > Udun
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br>  Orcs-5 strikes with 8 prowess Trolls-2 strikes with 8 prowess  "This was Cirith Gorgor, the Haunted Pass, the entrance to the land of the Enemy"_ ***---&NoBreak;LotRIV*** AW1648
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br>  Orcs-5 strikes with 8 prowess Trolls-2 strikes with 8 prowess  <br>_"This was Cirith Gorgor, the Haunted Pass, the entrance to the land of the Enemy"_ ***---&#65279;LotRIV*** AW1648
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;3&ensp;</span><span class="hero-opp-draw">&ensp;5&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/cirith-gorgor/
 > Udun
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Minas Morgul  "This was Cirith Gorgor, the Haunted Pass, the entrance to the land of the Enemy"_ ***---&NoBreak;LotRVI*** 
+> > Nearest Darkhaven: Minas Morgul  <br>_"This was Cirith Gorgor, the Haunted Pass, the entrance to the land of the Enemy"_ ***---&#65279;LotRVI*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/cirith-gorgor/
 > Udun
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br>  Orcs-5 strikes with 8 prowess; Trolls-2 strikes with 10 prowess <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. <br>_"None could pass the Teeth of Mordor and not feel their bite....”_ ***---&NoBreak;LotRIV*** 
+> > <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br>  Orcs-5 strikes with 8 prowess; Trolls-2 strikes with 10 prowess <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. <br>_"None could pass the Teeth of Mordor and not feel their bite....”_ ***---&#65279;LotRIV*** 
 > 
 > {: .balrog-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>

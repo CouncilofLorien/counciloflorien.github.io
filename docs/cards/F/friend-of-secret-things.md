@@ -25,7 +25,7 @@ permalink: /cards/friend-of-secret-things/
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Radagast specific._ Your companies with a company size of 2 or less may play allies at tapped sites.   “...he spent his labors among the wild creatures of Endor and so earned his name, 'Tender of Beasts.’”_ ***---&NoBreak;Kuduk Lore*** 
+> > _**Unique.**_ _Radagast specific._ Your companies with a company size of 2 or less may play allies at tapped sites.   “...he spent his labors among the wild creatures of Endor and so earned his name, 'Tender of Beasts.’”_ ***---&#65279;Kuduk Lore*** 
 > 
 > {: .stage-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

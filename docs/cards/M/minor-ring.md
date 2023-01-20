@@ -25,7 +25,7 @@ permalink: /cards/minor-ring/
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Lesser Ring._ Playable only with a Gold Ring and after a test indicates a _Lesser Ring._ +2 to direct influence. Cannot be duplicated on a given character. <br>_“‘...magic rings as you call them, and they were, of course, of various kinds: some more potent and some less.’”_ ***---&NoBreak;LotRI*** 
+> > _Lesser Ring._ Playable only with a Gold Ring and after a test indicates a _Lesser Ring._ +2 to direct influence. Cannot be duplicated on a given character. <br>_“‘...magic rings as you call them, and they were, of course, of various kinds: some more potent and some less.’”_ ***---&#65279;LotRI*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【+2[di]】</div>
@@ -45,7 +45,7 @@ permalink: /cards/minor-ring/
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Lesser Ring._ Playable only with a Gold Ring and after a test indicates a _Lesser Ring._ +2 to direct influence. Cannot be duplicated on a given character. <br>_“‘...magic rings as you call them, and they were, of course, of various kinds: some more potent and some less.’”_ ***---&NoBreak;LotRI*** 
+> > _Lesser Ring._ Playable only with a Gold Ring and after a test indicates a _Lesser Ring._ +2 to direct influence. Cannot be duplicated on a given character. <br>_“‘...magic rings as you call them, and they were, of course, of various kinds: some more potent and some less.’”_ ***---&#65279;LotRI*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【+2[di]】</div>

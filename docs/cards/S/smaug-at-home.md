@@ -25,7 +25,7 @@ permalink: /cards/smaug-at-home/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ Unless Smaug Ahunt is in play, The Lonely Mountain has an additional automatic-attack: Dragon-2 strikes at 18/8. In addition, each moving company draws one less card to a minimum of one at the start of it's movement/hazard phase. <br>_“‘I have been that way twice, when I knew there was a dragon on the other end...’”_ ***---&NoBreak;Hob*** 
+> > _**Unique.**_ Unless Smaug Ahunt is in play, The Lonely Mountain has an additional automatic-attack: Dragon-2 strikes at 18/8. In addition, each moving company draws one less card to a minimum of one at the start of it's movement/hazard phase. <br>_“‘I have been that way twice, when I knew there was a dragon on the other end...’”_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【18/8】</div>

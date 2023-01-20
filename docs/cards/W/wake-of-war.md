@@ -25,7 +25,7 @@ permalink: /cards/wake-of-war/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The number of strikes and prowess of each Wolf, Spider, and Animal attack are increased by one (by two for Wolves if Doors of Night is in play). Can not be duplicated. <br>_"Fire and smoke and stench were in the air; for many engines had been burned or cast into the fire-pits, and many of the slain also...”_ ***---&NoBreak;LotRV*** 
+> > The number of strikes and prowess of each Wolf, Spider, and Animal attack are increased by one (by two for Wolves if Doors of Night is in play). Can not be duplicated. <br>_"Fire and smoke and stench were in the air; for many engines had been burned or cast into the fire-pits, and many of the slain also...”_ ***---&#65279;LotRV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/wake-of-war/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The number of strikes and prowess of each Wolf, Spider, and Animal attack are increased by one (by two for Wolves if Doors of Night is in play). Can not be duplicated. <br>_"Fire and smoke and stench were in the air; for many engines had been burned or cast into the fire-pits, and many of the slain also...”_ ***---&NoBreak;LotRV*** 
+> > The number of strikes and prowess of each Wolf, Spider, and Animal attack are increased by one (by two for Wolves if Doors of Night is in play). Can not be duplicated. <br>_"Fire and smoke and stench were in the air; for many engines had been burned or cast into the fire-pits, and many of the slain also...”_ ***---&#65279;LotRV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/wake-of-war/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The number of strikes and prowess of each Wolf, Spider, and Animal attack are increased by one (by two for Wolves if Doors of Night is in play). Can not be duplicated. <br>_"Fire and smoke and stench were in the air; for many engines had been burned or cast into the fire-pits, and many of the slain also...”_ ***---&NoBreak;LotRV*** 
+> > The number of strikes and prowess of each Wolf, Spider, and Animal attack are increased by one (by two for Wolves if Doors of Night is in play). Can not be duplicated. <br>_"Fire and smoke and stench were in the air; for many engines had been burned or cast into the fire-pits, and many of the slain also...”_ ***---&#65279;LotRV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -85,7 +85,7 @@ permalink: /cards/wake-of-war/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The number of strikes and prowess of each Wolf, Spider, and Animal attack are increased by one (by two for Wolf attacks if Doors of Night is in play). Cannot be duplicated. <br>_"No few had fallen, renowned or nameless, captain or soldier; for it was a great battle and the full count of it no tale has told."_ ***---&NoBreak;LotRI*** 
+> > The number of strikes and prowess of each Wolf, Spider, and Animal attack are increased by one (by two for Wolf attacks if Doors of Night is in play). Cannot be duplicated. <br>_"No few had fallen, renowned or nameless, captain or soldier; for it was a great battle and the full count of it no tale has told."_ ***---&#65279;LotRI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -105,7 +105,7 @@ permalink: /cards/wake-of-war/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The number of strikes and prowess of each Wolf, Spider, and Animal attack are increased by one (by two for Wolves if Doors of Night is in play). Can not be duplicated. <br>_"Fire and smoke and stench were in the air; for many engines had been burned or cast into the fire-pits, and many of the slain also...”_ ***---&NoBreak;LotRV*** 
+> > The number of strikes and prowess of each Wolf, Spider, and Animal attack are increased by one (by two for Wolves if Doors of Night is in play). Can not be duplicated. <br>_"Fire and smoke and stench were in the air; for many engines had been burned or cast into the fire-pits, and many of the slain also...”_ ***---&#65279;LotRV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

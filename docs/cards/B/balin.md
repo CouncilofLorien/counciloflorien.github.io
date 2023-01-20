@@ -25,7 +25,7 @@ permalink: /cards/balin/
 > Warrior/Sage Dwarf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 prowess against orcs. +1 direct influence against Dwarves and Dwarf factions. <br>_“‘Well, it is the first time that even a mouse has crept along carefully and quietly under my very nose and not been spotted,' said Balin, 'and I take off my hood to you.' Which he did."_ ***---&NoBreak;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold  
+> > _**Unique.**_ +2 prowess against orcs. +1 direct influence against Dwarves and Dwarf factions. <br>_“‘Well, it is the first time that even a mouse has crept along carefully and quietly under my very nose and not been spotted,' said Balin, 'and I take off my hood to you.' Which he did."_ ***---&#65279;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold  
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【4/7】</div>
@@ -45,7 +45,7 @@ permalink: /cards/balin/
 > Warrior/Sage Dwarf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 prowess against orcs. +1 direct influence against Dwarves and Dwarf factions. <br>_“‘Well, it is the first time that even a mouse has crept along carefully and quietly under my very nose and not been spotted,' said Balin, 'and I take off my hood to you.' Which he did."_ ***---&NoBreak;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold  
+> > _**Unique.**_ +2 prowess against orcs. +1 direct influence against Dwarves and Dwarf factions. <br>_“‘Well, it is the first time that even a mouse has crept along carefully and quietly under my very nose and not been spotted,' said Balin, 'and I take off my hood to you.' Which he did."_ ***---&#65279;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold  
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【4/7】</div>
@@ -65,7 +65,7 @@ permalink: /cards/balin/
 > Warrior/Sage Dwarf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 prowess against orcs. +1 direct influence against Dwarves and Dwarf factions. <br>_“‘Well, it is the first time that even a mouse has crept along carefully and quietly under my very nose and not been spotted,' said Balin, 'and I take off my hood to you.' Which he did."_ ***---&NoBreak;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold  
+> > _**Unique.**_ +2 prowess against orcs. +1 direct influence against Dwarves and Dwarf factions. <br>_“‘Well, it is the first time that even a mouse has crept along carefully and quietly under my very nose and not been spotted,' said Balin, 'and I take off my hood to you.' Which he did."_ ***---&#65279;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold  
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【4/7】</div>

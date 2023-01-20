@@ -25,7 +25,7 @@ permalink: /cards/noldo-lantern/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable at any Under-deeps site. +2 to all rolls required for bearer's company to move to an adjacent site in the Under-deeps. Tap Noldo-lantern to give -2 prowess and one less strike (to a minimum of one) to any Undead, Nazgul, Orc, or Troll attack. <br>_“...one of them uncovered a small lamp that gave out a slender silver beam."_ ***---&NoBreak;LotRII***  
+> > Playable at any Under-deeps site. +2 to all rolls required for bearer's company to move to an adjacent site in the Under-deeps. Tap Noldo-lantern to give -2 prowess and one less strike (to a minimum of one) to any Undead, Nazgul, Orc, or Troll attack. <br>_“...one of them uncovered a small lamp that gave out a slender silver beam."_ ***---&#65279;LotRII***  
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

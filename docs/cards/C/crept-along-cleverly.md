@@ -25,7 +25,7 @@ permalink: /cards/crept-along-cleverly/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Ranger only._ Cancels a Wolf, Animal, Spider, Dragon, or Undead attack against a ranger's company. <br>_"Having made up his mind he crept along as cleverly as he could."_ ***---&NoBreak;Hob*** 
+> > _Ranger only._ Cancels a Wolf, Animal, Spider, Dragon, or Undead attack against a ranger's company. <br>_"Having made up his mind he crept along as cleverly as he could."_ ***---&#65279;Hob*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/crept-along-cleverly/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Ranger only._ Cancels a Wolf, Animal, Spider, Dragon, or Undead attack against a ranger's company. <br>_"Having made up his mind he crept along as cleverly as he could."_ ***---&NoBreak;Hob*** 
+> > _Ranger only._ Cancels a Wolf, Animal, Spider, Dragon, or Undead attack against a ranger's company. <br>_"Having made up his mind he crept along as cleverly as he could."_ ***---&#65279;Hob*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/crept-along-cleverly/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Ranger only._ Cancels a Wolf, Animal, Spider, Dragon, or Undead attack against a ranger's company. <br>_"Having made up his mind he crept along as cleverly as he could."_ ***---&NoBreak;Hob*** 
+> > _Ranger only._ Cancels a Wolf, Animal, Spider, Dragon, or Undead attack against a ranger's company. <br>_"Having made up his mind he crept along as cleverly as he could."_ ***---&#65279;Hob*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

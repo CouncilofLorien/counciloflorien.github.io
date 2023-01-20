@@ -25,7 +25,7 @@ permalink: /cards/dodge/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Target character does not tap against one strike (unless he is wounded by the strike). If wounded by the strike, his body is modified by -1 for the resulting body check. <br>_"A quick duck had saved him; and he had felled his orc: a sturdy thrust with his Barrow-blade."_ ***---&NoBreak;LotRII*** 
+> > Target character does not tap against one strike (unless he is wounded by the strike). If wounded by the strike, his body is modified by -1 for the resulting body check. <br>_"A quick duck had saved him; and he had felled his orc: a sturdy thrust with his Barrow-blade."_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/dodge/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Target character does not tap against one strike (unless he is wounded by the strike). If wounded by the strike, his body is modified by -1 for the resulting body check. <br>_"A quick duck had saved him; and he had felled his orc: a sturdy thrust with his Barrow-blade."_ ***---&NoBreak;LotRII*** 
+> > Target character does not tap against one strike (unless he is wounded by the strike). If wounded by the strike, his body is modified by -1 for the resulting body check. <br>_"A quick duck had saved him; and he had felled his orc: a sturdy thrust with his Barrow-blade."_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/dodge/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Target character does not tap against one strike (unless he is wounded by the strike). If wounded by the strike, his body is modified by -1 for the resulting body check. <br>_"A quick duck had saved him; and he had felled his orc: a sturdy thrust with his Barrow-blade."_ ***---&NoBreak;LotRII*** 
+> > Target character does not tap against one strike (unless he is wounded by the strike). If wounded by the strike, his body is modified by -1 for the resulting body check. <br>_"A quick duck had saved him; and he had felled his orc: a sturdy thrust with his Barrow-blade."_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -85,7 +85,7 @@ permalink: /cards/dodge/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Target character does not tap against one strike (unless he is wounded by the strike). If wounded by the strike, his body is modified by -1 for the resulting body check. <br>_"A quick duck had saved him; and he had felled his orc: a sturdy thrust with his Barrow-blade."_ ***---&NoBreak;LotRII*** 
+> > Target character does not tap against one strike (unless he is wounded by the strike). If wounded by the strike, his body is modified by -1 for the resulting body check. <br>_"A quick duck had saved him; and he had felled his orc: a sturdy thrust with his Barrow-blade."_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

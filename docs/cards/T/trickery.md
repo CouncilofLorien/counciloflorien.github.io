@@ -25,7 +25,7 @@ permalink: /cards/trickery/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Scout only against an Orc, Troll, Man, Elf, Slayer, Awakened Plant, or Giant attack against his company. Make a roll (or draw a #) ; if the result is greater than 5, the attack is cancelled.   “‘...Smeagol, who is now called Gollum, has escaped.’”_ ***---&NoBreak;LotRII*** 
+> > Scout only against an Orc, Troll, Man, Elf, Slayer, Awakened Plant, or Giant attack against his company. Make a roll (or draw a #) ; if the result is greater than 5, the attack is cancelled.   “‘...Smeagol, who is now called Gollum, has escaped.’”_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

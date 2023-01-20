@@ -25,7 +25,7 @@ permalink: /cards/emerald-of-doriath/
 > Minor Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Hoard item._ +1 to direct influence against Elves and Elf factions. If bearer is a Wizard, your general influence is increased by two.   “‘Aragorn insisted on my putting in a green stone. He seemed to think it important.’”_ ***---&NoBreak;LotRII*** 
+> > _**Unique.**_ _Hoard item._ +1 to direct influence against Elves and Elf factions. If bearer is a Wizard, your general influence is increased by two.   “‘Aragorn insisted on my putting in a green stone. He seemed to think it important.’”_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

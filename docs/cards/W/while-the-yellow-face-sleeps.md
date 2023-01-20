@@ -25,7 +25,7 @@ permalink: /cards/while-the-yellow-face-sleeps/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable during the organization phase on your Ringwraith at a Darkhaven \[![](/assets/images/dark-haven.svg)]. You may keep one more card than normal in your hand. Discard this card if your Ringwraith moves. Cannot be duplicated by a given player.   “‘You are not wise to be glad of the Yellow Face,' said Gollum. 'It shows you up.’”_ ***---&NoBreak;LotRII*** 
+> > Playable during the organization phase on your Ringwraith at a Darkhaven \[![](/assets/images/dark-haven.svg)]. You may keep one more card than normal in your hand. Discard this card if your Ringwraith moves. Cannot be duplicated by a given player.   “‘You are not wise to be glad of the Yellow Face,' said Gollum. 'It shows you up.’”_ ***---&#65279;LotRII*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

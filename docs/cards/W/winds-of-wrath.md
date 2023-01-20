@@ -25,7 +25,7 @@ permalink: /cards/winds-of-wrath/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable only if Doors of Night is in play. Replace the new site card of a moving company with a Coastal Sea \[![](/assets/images/coastalsea.svg)] in its site path with a card from your location deck that has a Coastal Sea \[![](/assets/images/coastalsea.svg)] in its site path. <br>_"The winds of wrath came driving him, and blindly in the foam he fled from west to east and errandless...”_ ***---&NoBreak;LotRII*** 
+> > Playable only if Doors of Night is in play. Replace the new site card of a moving company with a Coastal Sea \[![](/assets/images/coastalsea.svg)] in its site path with a card from your location deck that has a Coastal Sea \[![](/assets/images/coastalsea.svg)] in its site path. <br>_"The winds of wrath came driving him, and blindly in the foam he fled from west to east and errandless...”_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

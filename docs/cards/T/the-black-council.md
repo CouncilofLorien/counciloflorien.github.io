@@ -25,7 +25,7 @@ permalink: /cards/the-black-council/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable during your organization phase in your marshalling points pile if your Ringwraith is in a Darkhaven \[![](/assets/images/dark-haven.svg)] and you have more marshalling points than your opponent and your opponent is a Ringwraith. Cannot be duplicated on a given turn. <br>_“‘For he is very wise, and weighs all things to a nicety in the scales of his malice.’”_ ***---&NoBreak;LotRII*** 
+> > Playable during your organization phase in your marshalling points pile if your Ringwraith is in a Darkhaven \[![](/assets/images/dark-haven.svg)] and you have more marshalling points than your opponent and your opponent is a Ringwraith. Cannot be duplicated on a given turn. <br>_“‘For he is very wise, and weighs all things to a nicety in the scales of his malice.’”_ ***---&#65279;LotRII*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

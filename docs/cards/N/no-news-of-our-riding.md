@@ -25,7 +25,7 @@ permalink: /cards/no-news-of-our-riding/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable on an untapped character immediately after his company faces an Elf, Dunadan, or Man hazard creature. Tap the character. The character can later tap to cancel an Elf, Dunadan, or Man hazard creature attack against his company. Cannot be duplicated in a given company.   “‘...they were errand-riders of Gondor; Hirgon was one maybe.’”_ ***---&NoBreak;LotRVI*** 
+> > Playable on an untapped character immediately after his company faces an Elf, Dunadan, or Man hazard creature. Tap the character. The character can later tap to cancel an Elf, Dunadan, or Man hazard creature attack against his company. Cannot be duplicated in a given company.   “‘...they were errand-riders of Gondor; Hirgon was one maybe.’”_ ***---&#65279;LotRVI*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

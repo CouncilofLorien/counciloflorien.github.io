@@ -25,7 +25,7 @@ permalink: /cards/bergil/
 > Warrior/Scout Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_  "The boy drew himself up proudly, 'I am Bergil son of Beregond of the Guards,' he said."_ ***---&NoBreak;LotRV***  <br><br>**Home Site:** Minas Tirith 
+> > _**Unique.**_  "The boy drew himself up proudly, 'I am Bergil son of Beregond of the Guards,' he said."_ ***---&#65279;LotRV***  <br><br>**Home Site:** Minas Tirith 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【1/9】</div>
@@ -45,7 +45,7 @@ permalink: /cards/bergil/
 > Warrior/Scout Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_  "The boy drew himself up proudly, 'I am Bergil son of Beregond of the Guards,' he said."_ ***---&NoBreak;LotRV***  <br><br>**Home Site:** Minas Tirith 
+> > _**Unique.**_  "The boy drew himself up proudly, 'I am Bergil son of Beregond of the Guards,' he said."_ ***---&#65279;LotRV***  <br><br>**Home Site:** Minas Tirith 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【1/9】</div>
@@ -65,7 +65,7 @@ permalink: /cards/bergil/
 > Warrior/Scout Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_  "The boy drew himself up proudly, 'I am Bergil son of Beregond of the Guards,' he said."_ ***---&NoBreak;LotRV***  <br><br>**Home Site:** Minas Tirith 
+> > _**Unique.**_  "The boy drew himself up proudly, 'I am Bergil son of Beregond of the Guards,' he said."_ ***---&#65279;LotRV***  <br><br>**Home Site:** Minas Tirith 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【1/9】</div>

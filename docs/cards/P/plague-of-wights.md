@@ -25,7 +25,7 @@ permalink: /cards/plague-of-wights/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The prowess of all Undead attacks is increased by one. Additionally, if Doors of Night is in play, the number of strikes for each Undead attack is doubled. Cannot be duplicated. <br>_“‘But only evil wights dwell there now, and I will not willingly tell more of them.’”_ ***---&NoBreak;LotRV*** 
+> > The prowess of all Undead attacks is increased by one. Additionally, if Doors of Night is in play, the number of strikes for each Undead attack is doubled. Cannot be duplicated. <br>_“‘But only evil wights dwell there now, and I will not willingly tell more of them.’”_ ***---&#65279;LotRV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/plague-of-wights/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The prowess of all Undead attacks is increased by one. Additionally, if Doors of Night is in play, the number of strikes for each Undead attack is doubled. Cannot be duplicated. <br>_“‘But only evil wights dwell there now, and I will not willingly tell more of them.’”_ ***---&NoBreak;LotRV*** 
+> > The prowess of all Undead attacks is increased by one. Additionally, if Doors of Night is in play, the number of strikes for each Undead attack is doubled. Cannot be duplicated. <br>_“‘But only evil wights dwell there now, and I will not willingly tell more of them.’”_ ***---&#65279;LotRV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/plague-of-wights/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The prowess of all Undead attacks is increased by one. Additionally, if Doors of Night is in play, the number of strikes for each Undead attack is doubled. Cannot be duplicated. <br>_“‘...the Shadow Host that had hung back at the last came up like a grey tide, sweeping away all before it."_ ***---&NoBreak;LotRI*** 
+> > The prowess of all Undead attacks is increased by one. Additionally, if Doors of Night is in play, the number of strikes for each Undead attack is doubled. Cannot be duplicated. <br>_“‘...the Shadow Host that had hung back at the last came up like a grey tide, sweeping away all before it."_ ***---&#65279;LotRI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -85,7 +85,7 @@ permalink: /cards/plague-of-wights/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The prowess of all Undead attacks is increased by one. Additionally, if Doors of Night is in play, the number of strikes for each Undead attack is doubled. Cannot be duplicated. <br>_“‘...the Shadow Host that had hung back at the last came up like a grey tide, sweeping away all before it."_ ***---&NoBreak;LotRI*** 
+> > The prowess of all Undead attacks is increased by one. Additionally, if Doors of Night is in play, the number of strikes for each Undead attack is doubled. Cannot be duplicated. <br>_“‘...the Shadow Host that had hung back at the last came up like a grey tide, sweeping away all before it."_ ***---&#65279;LotRI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

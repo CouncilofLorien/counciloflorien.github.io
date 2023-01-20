@@ -25,7 +25,7 @@ permalink: /cards/dimrill-dale/
 > Redhorn Gate
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Orcs - 1 strike with 6 prowess  "Northward the dale ran up into a glen of shadows between two great arms of the mountains, above which three white peaks were shining...”_ ***---&NoBreak;LotRII*** 
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Orcs - 1 strike with 6 prowess  <br>_"Northward the dale ran up into a glen of shadows between two great arms of the mountains, above which three white peaks were shining...”_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/dimrill-dale/
 > Redhorn Gate
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Orcs - 1 strike with 6 prowess  "Northward the dale ran up into a glen of shadows between two great arms of the mountains, above which three white peaks were shining...”_ ***---&NoBreak;LotRII*** 
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Orcs - 1 strike with 6 prowess  <br>_"Northward the dale ran up into a glen of shadows between two great arms of the mountains, above which three white peaks were shining...”_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/dimrill-dale/
 > Redhorn Gate
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Orcs - 1 strike with 6 prowess  “‘...we shall come down by the Dimrill stair into the deep vale of the Dwarves. There lies Mirrormere...’”_ ***---&NoBreak;LotRII*** 
+> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Orcs - 1 strike with 6 prowess  <br>_“‘...we shall come down by the Dimrill stair into the deep vale of the Dwarves. There lies Mirrormere...’”_ ***---&#65279;LotRII*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/dimrill-dale/
 > Redhorn Gate
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Orcs - 1 strike with 6 prowess  “‘...we shall come down by the Dimrill stair into the deep vale of the Dwarves. There lies Mirrormere...’”_ ***---&NoBreak;LotRII*** 
+> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Orcs - 1 strike with 6 prowess  <br>_“‘...we shall come down by the Dimrill stair into the deep vale of the Dwarves. There lies Mirrormere...’”_ ***---&#65279;LotRII*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

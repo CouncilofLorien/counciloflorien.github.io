@@ -25,7 +25,7 @@ permalink: /cards/halfling-strength/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Hobbit only._ The Hobbit may untap or he may move from wounded status to well and untapped during his organization phase or he may receive a +4 modification to one corruption check. <br>_“‘I have known strong warriors...who would quickly have been overcome by that splinter, which you bore for seventeen days.’”_ ***---&NoBreak;LotRII*** 
+> > _Hobbit only._ The Hobbit may untap or he may move from wounded status to well and untapped during his organization phase or he may receive a +4 modification to one corruption check. <br>_“‘I have known strong warriors...who would quickly have been overcome by that splinter, which you bore for seventeen days.’”_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/halfling-strength/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Hobbit only._ The Hobbit may untap or he may move from wounded status to well and untapped during his organization phase or he may receive a +4 modification to one corruption check. <br>_“‘I have known strong warriors...who would quickly have been overcome by that splinter, which you bore for seventeen days.’”_ ***---&NoBreak;LotRII*** 
+> > _Hobbit only._ The Hobbit may untap or he may move from wounded status to well and untapped during his organization phase or he may receive a +4 modification to one corruption check. <br>_“‘I have known strong warriors...who would quickly have been overcome by that splinter, which you bore for seventeen days.’”_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/halfling-strength/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Hobbit only._ The Hobbit may untap or he may move from wounded status to well and untapped during his organization phase or he may receive a +4 modification to one corruption check. <br>_“‘I have known strong warriors...who would quickly have been overcome by that splinter, which you bore for seventeen days.’”_ ***---&NoBreak;LotRII*** 
+> > _Hobbit only._ The Hobbit may untap or he may move from wounded status to well and untapped during his organization phase or he may receive a +4 modification to one corruption check. <br>_“‘I have known strong warriors...who would quickly have been overcome by that splinter, which you bore for seventeen days.’”_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -85,7 +85,7 @@ permalink: /cards/halfling-strength/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Hobbit only._ The Hobbit may untap or he may move from wounded status to well and untapped during his organization phase or he may receive a +4 modification to one corruption check. <br>_“‘I have known strong warriors...who would quickly have been overcome by that splinter, which you bore for seventeen days.’”_ ***---&NoBreak;LotRII*** 
+> > _Hobbit only._ The Hobbit may untap or he may move from wounded status to well and untapped during his organization phase or he may receive a +4 modification to one corruption check. <br>_“‘I have known strong warriors...who would quickly have been overcome by that splinter, which you bore for seventeen days.’”_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

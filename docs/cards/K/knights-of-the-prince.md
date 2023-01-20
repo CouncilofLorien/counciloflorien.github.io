@@ -25,7 +25,7 @@ permalink: /cards/knights-of-the-prince/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Dunedain._ Four strikes. Detainment against hero companies. Playable at Anfalas, Belfalas, Lamedon, Lebennin, or Anorien; or at sites in these regions. Unless the attack is canceled, all untapped characters in defending company are tapped following this attack.    “...tall men and proud with sea-grey eyes."_ ***---&NoBreak;LotRV*** 
+> > _**Unique.**_ _Dunedain._ Four strikes. Detainment against hero companies. Playable at Anfalas, Belfalas, Lamedon, Lebennin, or Anorien; or at sites in these regions. Unless the attack is canceled, all untapped characters in defending company are tapped following this attack.    “...tall men and proud with sea-grey eyes."_ ***---&#65279;LotRV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【10/8】</div>

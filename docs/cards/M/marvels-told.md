@@ -25,7 +25,7 @@ permalink: /cards/marvels-told/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Ritual._ Tap a sage to force the discard of a hazard non-environment permanent-event or long-event. Sage makes a corruption check modified by -2. <br>_"He tarried there from errantry, and melodies they taught to him, and sages old him marvels told...”_ ***---&NoBreak;LotRII*** 
+> > _Ritual._ Tap a sage to force the discard of a hazard non-environment permanent-event or long-event. Sage makes a corruption check modified by -2. <br>_"He tarried there from errantry, and melodies they taught to him, and sages old him marvels told...”_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/marvels-told/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Ritual._ Tap a sage to force the discard of a hazard non-environment permanent-event or long-event. Sage makes a corruption check modified by -2. <br>_"He tarried there from errantry, and melodies they taught to him, and sages old him marvels told...”_ ***---&NoBreak;LotRII*** 
+> > _Ritual._ Tap a sage to force the discard of a hazard non-environment permanent-event or long-event. Sage makes a corruption check modified by -2. <br>_"He tarried there from errantry, and melodies they taught to him, and sages old him marvels told...”_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
