@@ -85,7 +85,7 @@ permalink: /cards/orc-raiders/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Orcs._ Four strikes. <br>_"Orcs began to raid...and slay or steal horses." ---LotR 
+> > _Orcs._ Four strikes. <br>_"Orcs began to raid...and slay or steal horses."_ ***---LotR*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【6/&ndash;】</div>

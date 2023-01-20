@@ -65,7 +65,7 @@ permalink: /cards/lond-galen/
 > Anfalas
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Geann a-Lisch <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 6 prowess (detainment against covert company)  "In the years of their power the Numeroreans had maintained many forts and havens upon the western coasts of Middle-earth..." ---LotR 
+> > Nearest Darkhaven: Geann a-Lisch <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 6 prowess (detainment against covert company)  "In the years of their power the Numeroreans had maintained many forts and havens upon the western coasts of Middle-earth..."_ ***---LotR*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

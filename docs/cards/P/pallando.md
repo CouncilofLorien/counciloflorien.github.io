@@ -25,7 +25,7 @@ permalink: /cards/pallando/
 > Warrior/Ranger/Sage/Diplomat Wizard
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ His controlling player may keep one more card than normal in his hand. Opponent must discard his cards face up. <br>_"They came therefore in the shape of Men, though they were never young and aged only slowly..." ---LotR  <br><br>**Home Site:** Grey Havens 
+> > _**Unique.**_ His controlling player may keep one more card than normal in his hand. Opponent must discard his cards face up. <br>_"They came therefore in the shape of Men, though they were never young and aged only slowly..."_ ***---LotR***  <br><br>**Home Site:** Grey Havens 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【6/9】</div>
@@ -45,7 +45,7 @@ permalink: /cards/pallando/
 > Warrior/Ranger/Sage/Diplomat Wizard
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ His controlling player may keep one more card than normal in his hand. Opponent must discard his cards face up. <br>_"They came therefore in the shape of Men, though they were never young and aged only slowly..." ---LotR  <br><br>**Home Site:** Grey Havens 
+> > _**Unique.**_ His controlling player may keep one more card than normal in his hand. Opponent must discard his cards face up. <br>_"They came therefore in the shape of Men, though they were never young and aged only slowly..."_ ***---LotR***  <br><br>**Home Site:** Grey Havens 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【6/11】</div>
@@ -85,7 +85,7 @@ permalink: /cards/pallando/
 > Warrior/Ranger/Sage/Diplomat Wizard
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ His controlling player may keep one more card than normal in his hand. Opponent must discard his cards face up. <br>_"They came therefore in the shape of Men, though they were never young and aged only slowly..." ---LotR  <br><br>**Home Site:** Grey Havens 
+> > _**Unique.**_ His controlling player may keep one more card than normal in his hand. Opponent must discard his cards face up. <br>_"They came therefore in the shape of Men, though they were never young and aged only slowly..."_ ***---LotR***  <br><br>**Home Site:** Grey Havens 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【6/11】</div>

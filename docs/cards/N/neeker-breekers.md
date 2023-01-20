@@ -25,7 +25,7 @@ permalink: /cards/neeker-breekers/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Animals._ Each character in the company faces one strike. His prowess against such a strike is equal to his mind attribute. Any character that would normally be wounded is only tapped instead-no body checks are made. <br>_"There were thousands of them, and they squeaked all round, neek-breek, breek-neek, unceasingly all the night, until the hobbits were nearly frantic." ---LotR 
+> > _Animals._ Each character in the company faces one strike. His prowess against such a strike is equal to his mind attribute. Any character that would normally be wounded is only tapped instead-no body checks are made. <br>_"There were thousands of them, and they squeaked all round, neek-breek, breek-neek, unceasingly all the night, until the hobbits were nearly frantic."_ ***---LotR*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【7/&ndash;】</div>
@@ -45,7 +45,7 @@ permalink: /cards/neeker-breekers/
 > 
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Animals._ Each character in the company faces one strike. His prowess against such a strike is equal to his mind attribute. Any character that would normally be wounded is only tapped instead-no body checks are made. <br>_"There were thousands of them, and they squeaked all round, neek-breek, breek-neek, unceasingly all the night, until the hobbits were nearly frantic." ---LotR 
+> > _Animals._ Each character in the company faces one strike. His prowess against such a strike is equal to his mind attribute. Any character that would normally be wounded is only tapped instead-no body checks are made. <br>_"There were thousands of them, and they squeaked all round, neek-breek, breek-neek, unceasingly all the night, until the hobbits were nearly frantic."_ ***---LotR*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【7/&ndash;】</div>
@@ -65,7 +65,7 @@ permalink: /cards/neeker-breekers/
 > 
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Animals._ Each character in the company faces one strike. His prowess against such a strike is equal to his mind attribute. Any character that would normally be wounded is only tapped instead-no body checks are made. <br>_"There were thousands of them, and they squeaked all round, neek-breek, breek-neek, unceasingly all the night, until the hobbits were nearly frantic." ---LotR 
+> > _Animals._ Each character in the company faces one strike. His prowess against such a strike is equal to his mind attribute. Any character that would normally be wounded is only tapped instead-no body checks are made. <br>_"There were thousands of them, and they squeaked all round, neek-breek, breek-neek, unceasingly all the night, until the hobbits were nearly frantic."_ ***---LotR*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【7/&ndash;】</div>

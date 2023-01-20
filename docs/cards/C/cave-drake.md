@@ -25,7 +25,7 @@ permalink: /cards/cave-drake/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Dragon._ Two strikes. Attacker chooses defending characters. Two wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. <br>_"About this time Dragons reappear in the far North and begin to afflict the Dwarves." ---LotR 
+> > _Dragon._ Two strikes. Attacker chooses defending characters. Two wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. <br>_"About this time Dragons reappear in the far North and begin to afflict the Dwarves."_ ***---LotR*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【10/&ndash;】</div>
@@ -45,7 +45,7 @@ permalink: /cards/cave-drake/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Dragon._ Two strikes. Attacker chooses defending characters. Two wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. <br>_"About this time Dragons reappear in the far North and begin to afflict the Dwarves." ---LotR 
+> > _Dragon._ Two strikes. Attacker chooses defending characters. Two wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. <br>_"About this time Dragons reappear in the far North and begin to afflict the Dwarves."_ ***---LotR*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【10/&ndash;】</div>

@@ -25,7 +25,7 @@ permalink: /cards/variags-of-khand/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Variag Camp if the influence check is greater than 9.  <br>_Standard Modifications:_ none. <br>_"...passed south of Mordor and made alliance with the men of Khand..." ---LotR 
+> > _**Unique.**_ Playable at Variag Camp if the influence check is greater than 9.  <br>_Standard Modifications:_ none. <br>_"...passed south of Mordor and made alliance with the men of Khand..."_ ***---LotR*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/variags-of-khand/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Variag Camp if the influence check is greater than 9.  <br>_Standard Modifications:_ none. <br>_"...passed south of Mordor and made alliance with the men of Khand..." ---LotR 
+> > _**Unique.**_ Playable at Variag Camp if the influence check is greater than 9.  <br>_Standard Modifications:_ none. <br>_"...passed south of Mordor and made alliance with the men of Khand..."_ ***---LotR*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

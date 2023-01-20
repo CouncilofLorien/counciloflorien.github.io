@@ -25,7 +25,7 @@ permalink: /cards/woodmen/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Woodmen-town if the influence check is greater than 7. <br>_Standard Modifications:_ Men (+1). <br>_"Most of the Men of the northern regions...were descended from the Edain of the first age, of from their close kin... Of this kind were the peoples of the upper vales of the Anduin: the Beornings, and the Woodmen of Western Mirkwood..." ---LotR 
+> > _**Unique.**_ Playable at Woodmen-town if the influence check is greater than 7. <br>_Standard Modifications:_ Men (+1). <br>_"Most of the Men of the northern regions...were descended from the Edain of the first age, of from their close kin... Of this kind were the peoples of the upper vales of the Anduin: the Beornings, and the Woodmen of Western Mirkwood..."_ ***---LotR*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/woodmen/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Woodmen-town if the influence check is greater than 7. <br>_Standard Modifications:_ Men (+1). <br>_"Most of the Men of the northern regions...were descended from the Edain of the first age, of from their close kin... Of this kind were the peoples of the upper vales of the Anduin: the Beornings, and the Woodmen of Western Mirkwood..." ---LotR 
+> > _**Unique.**_ Playable at Woodmen-town if the influence check is greater than 7. <br>_Standard Modifications:_ Men (+1). <br>_"Most of the Men of the northern regions...were descended from the Edain of the first age, of from their close kin... Of this kind were the peoples of the upper vales of the Anduin: the Beornings, and the Woodmen of Western Mirkwood..."_ ***---LotR*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

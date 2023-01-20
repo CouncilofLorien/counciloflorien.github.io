@@ -25,7 +25,7 @@ permalink: /cards/ivic/
 > Warrior/Diplomat Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ Agent. <br>_"Southrons were bold men and grim, and fierce in despair..." ---LotR  <br><br>**Home Site:** Southron Oasis, Variag Camp, Pelargir 
+> > _**Unique.**_ Agent. <br>_"Southrons were bold men and grim, and fierce in despair..."_ ***---LotR***  <br><br>**Home Site:** Southron Oasis, Variag Camp, Pelargir 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【5/8】</div>

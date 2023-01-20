@@ -25,7 +25,7 @@ permalink: /cards/shrel-kain/
 > Dorwinion
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien  "...between Rhovanion and the Inland Sea..." ---LotR 
+> > Nearest Haven: Lorien  "...between Rhovanion and the Inland Sea..."_ ***---LotR*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;3&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/shrel-kain/
 > Dorwinion
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien  "...between Rhovanion and the Inland Sea..." ---LotR 
+> > Nearest Haven: Lorien  "...between Rhovanion and the Inland Sea..."_ ***---LotR*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;3&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/shrel-kain/
 > Dorwinion
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Lorien  "...between Rhovanion and the Inland Sea..." ---LotR 
+> > Nearest Haven: Lorien  "...between Rhovanion and the Inland Sea..."_ ***---LotR*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;3&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>

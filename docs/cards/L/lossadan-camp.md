@@ -25,7 +25,7 @@ permalink: /cards/lossadan-camp/
 > Forochel
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Rivendell  "The Lossoth...live mostly, inaccessible to their enemies, on the great Cape of Forochel that shuts off to the north-west the immense bay of that name; but they often camp on the south shores of the bay..." ---LotR 
+> > Nearest Haven: Rivendell  "The Lossoth...live mostly, inaccessible to their enemies, on the great Cape of Forochel that shuts off to the north-west the immense bay of that name; but they often camp on the south shores of the bay..."_ ***---LotR*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/lossadan-camp/
 > Forochel
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Rivendell  "The Lossoth...live mostly, inaccessible to their enemies, on the great Cape of Forochel that shuts off to the north-west the immense bay of that name; but they often camp on the south shores of the bay..." ---LotR 
+> > Nearest Haven: Rivendell  "The Lossoth...live mostly, inaccessible to their enemies, on the great Cape of Forochel that shuts off to the north-west the immense bay of that name; but they often camp on the south shores of the bay..."_ ***---LotR*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/lossadan-camp/
 > Forochel
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 5 prowess (detainment against covert company)  "...and they drew the king and those that survived of his company out over the ice in their sliding carts..." ---LotR 
+> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 5 prowess (detainment against covert company)  "...and they drew the king and those that survived of his company out over the ice in their sliding carts..."_ ***---LotR*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>

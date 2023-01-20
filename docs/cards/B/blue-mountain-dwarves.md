@@ -25,7 +25,7 @@ permalink: /cards/blue-mountain-dwarves/
 > Dwarf Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Blue Mountain Dwarf-hold if the influence check is greater than 9. <br>_Standard Modifications:_ Elves (-2), Dwarves (+2). <br>_"Now they had fair halls in the mountains, and stores of goods, and their days did not seem so hard..." ---LotR 
+> > _**Unique.**_ Playable at Blue Mountain Dwarf-hold if the influence check is greater than 9. <br>_Standard Modifications:_ Elves (-2), Dwarves (+2). <br>_"Now they had fair halls in the mountains, and stores of goods, and their days did not seem so hard..."_ ***---LotR*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/blue-mountain-dwarves/
 > Dwarf Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Blue Mountain Dwarf-hold if the influence check is greater than 9. <br>_Standard Modifications:_ Elves (-2), Dwarves (+2). <br>_"Now they had fair halls in the mountains, and stores of goods, and their days did not seem so hard..." ---LotR 
+> > _**Unique.**_ Playable at Blue Mountain Dwarf-hold if the influence check is greater than 9. <br>_Standard Modifications:_ Elves (-2), Dwarves (+2). <br>_"Now they had fair halls in the mountains, and stores of goods, and their days did not seem so hard..."_ ***---LotR*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/blue-mountain-dwarves/
 > Dwarf Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Blue Mountain Dwarf-hold if the influence check is greater than 9. <br>_Standard Modifications:_ Elves (-2), Dwarves (+2). <br>_"Now they had fair halls in the mountains, and stores of goods, and their days did not seem so hard..." ---LotR 
+> > _**Unique.**_ Playable at Blue Mountain Dwarf-hold if the influence check is greater than 9. <br>_Standard Modifications:_ Elves (-2), Dwarves (+2). <br>_"Now they had fair halls in the mountains, and stores of goods, and their days did not seem so hard..."_ ***---LotR*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

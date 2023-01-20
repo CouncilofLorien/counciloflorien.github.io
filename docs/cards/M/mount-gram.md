@@ -65,7 +65,7 @@ permalink: /cards/mount-gram/
 > Angmar
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Carn Dum  "...the Orcs, who had, as later appeared, long been secretly occupying strongholds in the Misty Mountains...suddenly revealed themselves." ---LotR 
+> > Nearest Darkhaven: Carn Dum  "...the Orcs, who had, as later appeared, long been secretly occupying strongholds in the Misty Mountains...suddenly revealed themselves."_ ***---LotR*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -105,7 +105,7 @@ permalink: /cards/mount-gram/
 > Angmar
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Carn Dum  "...the Orcs, who had, as later appeared, long been secretly occupying strongholds in the Misty Mountains...suddenly revealed themselves." ---LotR 
+> > Nearest Darkhaven: Carn Dum  "...the Orcs, who had, as later appeared, long been secretly occupying strongholds in the Misty Mountains...suddenly revealed themselves."_ ***---LotR*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -125,7 +125,7 @@ permalink: /cards/mount-gram/
 > Angmar
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Carn Dum  "...the Orcs, who had, as later appeared, long been secretly occupying strongholds in the Misty Mountains...suddenly revealed themselves." ---LotR 
+> > Nearest Darkhaven: Carn Dum  "...the Orcs, who had, as later appeared, long been secretly occupying strongholds in the Misty Mountains...suddenly revealed themselves."_ ***---LotR*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>

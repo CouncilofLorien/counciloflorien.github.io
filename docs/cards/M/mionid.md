@@ -25,7 +25,7 @@ permalink: /cards/mionid/
 > Warrior/Ranger Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against any faction playable at Variag Camp. <br>_"Many of the Wainriders...passed south of Mordor and made alliances with men of Khand and of Near Harad..." ---LotR  <br><br>**Home Site:** Variag Camp 
+> > _**Unique.**_ +2 direct influence against any faction playable at Variag Camp. <br>_"Many of the Wainriders...passed south of Mordor and made alliances with men of Khand and of Near Harad..."_ ***---LotR***  <br><br>**Home Site:** Variag Camp 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【5/8】</div>
@@ -45,7 +45,7 @@ permalink: /cards/mionid/
 > Warrior/Ranger Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against any faction playable at Variag Camp. <br>_"Many of the Wainriders...passed south of Mordor and made alliances with men of Khand and of Near Harad..." ---LotR  <br><br>**Home Site:** Variag Camp 
+> > _**Unique.**_ +2 direct influence against any faction playable at Variag Camp. <br>_"Many of the Wainriders...passed south of Mordor and made alliances with men of Khand and of Near Harad..."_ ***---LotR***  <br><br>**Home Site:** Variag Camp 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【5/8】</div>

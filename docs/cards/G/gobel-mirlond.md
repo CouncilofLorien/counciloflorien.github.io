@@ -45,7 +45,7 @@ permalink: /cards/gobel-mirlond/
 > Harondor
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Edhellond <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Men-4 strikes with 9 prowess (detainment)   "...could be seen in clear weather even on the coasts of Gondor or far upon the western sea." ---LotR 
+> > Nearest Haven: Edhellond <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Men-4 strikes with 9 prowess (detainment)   "...could be seen in clear weather even on the coasts of Gondor or far upon the western sea."_ ***---LotR*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/gobel-mirlond/
 > Harondor
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Nearest Haven: Edhellond <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Men-4 strikes with 9 prowess (detainment)   "...could be seen in clear weather even on the coasts of Gondor or far upon the western sea." ---LotR 
+> > Nearest Haven: Edhellond <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Men-4 strikes with 9 prowess (detainment)   "...could be seen in clear weather even on the coasts of Gondor or far upon the western sea."_ ***---LotR*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
