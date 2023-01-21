@@ -19,7 +19,7 @@ permalink: /original/rulebooks/against-the-shadow/
 {: .text-center .text-gamma .mt-6 }
 CONTENTS
 
-| &emsp;[Placement of cards “off to the side” (_Clarification_)](#placement-of-cards-off-to-the-side-clarification)<br>[Hoards](#hoards)<br>&emsp;[Region Movement Limitation](#region-movement-limitation)<br>&emsp;[Characters Facing Multiple Strikes](#characters-facing-multiple-strikes) | &emsp;[Creatures as Automatic-attacks](#creatures-as-automatic-attacks)<br>&emsp;[The Under-deeps](#the-under-deeps)<br>&emsp;[Under-deep Site Movement](#under-deep-site-movement) |
+| &emsp;[Placement of cards “off to the side” (_Clarification_)](#placement-of-cards-off-to-the-side-clarification)<br>[HOARDS](#hoards)<br>[REGION MOVEMENT LIMITATION](#region-movement-limitation)<br>[CHARACTERS FACING MULTIPLE STRIKES](#characters-facing-multiple-strikes) | [CREATURES AS AUTOMATIC-ATTACKS](#creatures-as-automatic-attacks)<br>[THE UNDER-DEEPS](#the-under-deeps)<br>&emsp;[Under-deep Site Movement](#under-deep-site-movement) |
 
 This insert provides expansion rules and clarifications for use with all _Middle-earth Collectible Card Game_ (_MECCG_) products.
 
