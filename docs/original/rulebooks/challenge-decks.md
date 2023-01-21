@@ -1140,26 +1140,26 @@ Dark-domains  |  ![](/assets/images/dark-domain.svg)
 ## CARD DIAGRAMS
 
 {: .text-center }
-![](/assets/images/challenge-deck-color-insert-a-400.jpg)
+![](/assets/images/challenge-deck-color-insert-a.gif)
 
 {: .text-center }
-![](/assets/images/challenge-deck-color-insert-b-400.jpg)
+![](/assets/images/challenge-deck-color-insert-b.gif)
 
 {: .text-center }
-![](/assets/images/challenge-deck-color-insert-c-400.jpg)
+![](/assets/images/challenge-deck-color-insert-c.gif)
 
 {: .text-center }
-![](/assets/images/challenge-deck-color-insert-g-400.jpg)
+![](/assets/images/challenge-deck-color-insert-g.gif)
 
 {: .text-center }
-![](/assets/images/challenge-deck-color-insert-h-400.jpg)
+![](/assets/images/challenge-deck-color-insert-h.gif)
 
 ## MAP OF MIDDLE-EARTH
 
 {: .text-center }
-![](/assets/images/challenge-deck-color-insert-d-e.jpg)
+![](/assets/images/challenge-deck-color-insert-d-e.gif)
 
 {: .text-center }
-![](/assets/images/challenge-deck-color-insert-f-400.jpg)
+![](/assets/images/challenge-deck-color-insert-f.gif)
 
 ---
