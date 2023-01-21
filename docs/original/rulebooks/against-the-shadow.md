@@ -18,7 +18,7 @@ permalink: /original/rulebooks/against-the-shadow/
 
 This insert provides expansion rules and clarifications for use with all _Middle-earth Collectible Card Game_ (_MECCG_) products.
 
-{: .note-dk }
+{: .note }
 > **Note:** For a copy of these rules in larger type with more examples send a request and a self-addressed, stamped envelope to ICE, P.O. Box l605, Charlotesville, VA, 22903. Alternatively, visit our home page on the WWW (http://www.ironcrown.com).
 
 #### Placement of cards "off to the side" (_Clarification_)
@@ -31,7 +31,7 @@ Cards placed off to the side are in play for the purposes of uniqueness. Unless 
 
 Certain items are _hoard_ items. Such an item may only be played at a site that contains a hoard. Each site with a Dragon automatic-attack (i.e., each Dragon's lair) contains a hoard. A hoard minor item may not be included with a starting company, and may not be played at a site that does not contain a hoard.
 
-{: .note-dk }
+{: .note }
 > **Example:** You can not play a hoard minor item at Mount Gram after successfully influencing the _Orcs of Angmar_ like you can with a normal minor item. Mount Gram does not contain a board.
 
 ### REGION MOVEMENT LIMITATION
@@ -48,7 +48,7 @@ Any hazard creature you play as an automatic-attack is discarded if defeated—i
 
 ### THE UNDER-DEEPS
 
-{: .note-dk }
+{: .note }
 > **Note:** Created by streams of molten rock and expanded by geothermal eruptions of super-hot gas, the Under-deeps are a result of a combination of natural and supernatural forces. The hand of Morgoth joined what was once a collection of sundered cavern complexes. His greater servants used this maze of tunnels and chambers to travel surreptitiously throughout Endor.
 > 
 > Although Endor changed during the Elder Days, the core of the Under-deeps survive. Though travel between the underground sites is now difficult, if not impossible, for all but the greatest (and luckiest) explorers. Blocked or
@@ -64,7 +64,7 @@ An Under-deeps site card has ''Under-deeps" in the section that normally gives s
  - You may not consider marshalling points associated with a company at an Under-deeps site for the purposes of calling the Free Council or the Audience with Sauron.
  - Normally, when you successfully play an item, faction, ally, or information at a site, the site card is tapped and one additional character may tap to play a minor item. At an Under-deeps site, you can play any item playable at the site instead of this minor item.
 
-{: .note-dk }
+{: .note }
 > **Example:** Asternak taps and plays _High Helm_ (a major item) at The Under-grottos and the site taps. At this point, Dorelas could only tap to play a minor item at a non-Under-deeps site. But The Under-grottos is an Under-deeps
 site, so Dorelas can tap to play anything playable at The Under-grottos: a minor item, a major item, or a gold ring. He taps and plays a _Gold-ring that Sauron Fancies_.
 
@@ -75,7 +75,7 @@ the Under-deeps site card.
 
 Each adjacent site is followed by a number in parentheses—this number indicates how difficult it is to move from the Under-deeps site to the adjacent site. When an adjacent site is revealed by one of your companies whose site of origin is an Under-deeps site, you must make a roll (2D6). If the result is greater than or equal to the number in parentheses following the adjacent site as listed on its site of origin, the movement/hazard phase proceeds normally. Otherwise, the company returns to its site of origin (no cards are drawn) and the movement/hazard phase proceeds as if the company had not moved.
 
-{: .note-dk }
+{: .note }
 > **Note:** A company moving from a surface site to its Under-deeps site does not need to make a roll.
 > 
 > **Example:** A minion company that starts at Carn Dum can move normally or it can move to The Iron-deep—-The Iron-deeps lists Cam Dum as an adjacent site. Similarly, a minion company that starts at The Iron-deeps may attempt to move to any adjacent site listed: Cam Dum (0), The Under-leas (5), or The Under-vaults (6). However, after committing to movement, the moving player must roll a 5 or better to successfully move to The Under-leas or a 6 or better to successfully move to The Under-vaults.
