@@ -19,6 +19,11 @@ permalink: /original/rulebooks/the-white-hand/
 {: .text-center}
 **_Not for the Free Peoples, not for the Dark Lord&mdash;For Youurself!!!_**
 
+{: .text-center .text-gamma .mt-6 }
+CONTENTS
+
+| <br>[Introduction](#introduction)<br>[Using MEWH](#using-mewh)<br>[The Victory Conditions](#the-victory-conditions)<br>[Getting Ready to Play](#getting-ready-to-play)<br>&emsp;[Declaring That Your Wizard is Fallen](#declaring-that-your-wizard-is-fallen)<br>&emsp;[Your Location Deck](#your-location-deck)<br>&emsp;[Your Play Deck](#your-play-deck)<br>&emsp;[Starting Stage Cards](#starting-stage-cards)<br>&emsp;[Starting Characters](#starting-characters)<br>&emsp;[Starting Site](#starting-site) <br>[The Player Turn](#the-player-turn)<br>[Characters and Companies](#characters-and-companies)<br>[Movement](#movement)<br>[Corruption](#corruption-checks)<br> |[Playing and Using Resources](#playing-and-using-resources)<br>&emsp;[Testing Gold Rings](#testing-gold-rings)<br>&emsp;[Targeting Site and Resource Cards](#targeting-site-and-resource-cards)<br>&emsp;[Playing Resources at a Site](#playing-resources-at-a-site)<br>&emsp;[Using Items](#using-items)<br>&emsp;[When Your Fallen-wizard Leaves Play](#when-your-fallen-wizard-leaves-play)<br>&emsp;[Using Sites for Agents](#using-sites-for-agents)<br>[Special Orc & Troll Rules](#special-orc--troll-rules)<br>[Optional Rules](#optional-rules)<br>&emsp;[Company vs. Company Combat](#company-vs-company-combat)<br>&emsp;[Wizard to Fallen-wizard Conversion](#wizard-to-fallen-wizard-conversion)<br>[Tournament Rules](#tournament-rules)<br>&emsp;[Starting Stage Cards](#starting-stage-cards-1)<br>&emsp;[Sideboard Size](#sideboard-size)<br>&emsp;[Revealing Your Wizard](#revealing-your-wizard) | 
+
 _Middle-earth: The White Hand_ is an expansion set of 122 cards for the _Middle-earth Collectible Card Game_. It is fully compatible with both _Middle-earth: The Wizards_ and _Middle-earth: The Lidless Eye_. In fact, this set focuses on a "Fallen-wizard" player using resources from both _The Wizards_ and _The Lidless Eye_.
 
 This insert provides expansion rules and clarifications for use with all _Middle-earth Collectible Card Game_ products.
