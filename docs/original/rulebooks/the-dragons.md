@@ -19,7 +19,7 @@ permalink: /original/rulebooks/the-dragons/
 {: .text-center .text-gamma .mt-6 }
 CONTENTS
 
-| [KEY WORDS AND TERMS (_Clarification_)](/original/rulebooks/the-dragons/#key-words-and-terms-clarification)<br>[DRAGON LAIRS](/original/rulebooks/the-dragons/#dragon-lairs)<br>[HOARDS](/original/rulebooks/the-dragons/#hoards)<br>[MANIFESTATIONS OF DRAGONS](/original/rulebooks/the-dragons/#manifestations-of-dragons)<br>[HAZARD LIMIT (_Clarification_)](/original/rulebooks/the-dragons/#hazard-limit-clarification) | [CHARACTERS FACING MULTIPLE STRIKES](/original/rulebooks/the-dragons/#characters-facing-multiple-strikes)<br>[REMOVING CORRUPTION CARDS](/original/rulebooks/the-dragons/#removing-corruption-cards)<br>[THE SIDEBOARD](/original/rulebooks/the-dragons/#the-sideboard)<br>[REGION MOVEMENT LIMITATION](/original/rulebooks/the-dragons/#region-movement-limitation)<br>[MANY A GLEAMING GOLDEN HOARD](/original/rulebooks/the-dragons/#many-a-gleaming-golden-hoard) |
+| [KEY WORDS AND TERMS (_Clarification_)](#key-words-and-terms-clarification)<br>[DRAGON LAIRS](#dragon-lairs)<br>[HOARDS](#hoards)<br>[MANIFESTATIONS OF DRAGONS](#manifestations-of-dragons)<br>[HAZARD LIMIT (_Clarification_)](#hazard-limit-clarification) | [CHARACTERS FACING MULTIPLE STRIKES](#characters-facing-multiple-strikes)<br>[REMOVING CORRUPTION CARDS](#removing-corruption-cards)<br>[THE SIDEBOARD](#the-sideboard)<br>[REGION MOVEMENT LIMITATION](#region-movement-limitation)<br>[MANY A GLEAMING GOLDEN HOARD](#many-a-gleaming-golden-hoard) |
 
 This insert provides expansion rules, clarifications, and a scenario for use with both _Middle-earth: The Wizards_ (_METW_) and _Middle-earth: The Dragons_ (_METD_). These rules are recommended for all _METW_ games even if _METD_ is not used.
 
