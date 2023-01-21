@@ -1430,11 +1430,11 @@ _Middle-earth: The Wizards Companion_ provides some expanded, variant solitaire 
 
 ## CARD DIAGRAMS
 
-![](/assets/images/unlimited-appendix-card-diagrams.png)
+![](/assets/images/unlimited-appendix-card-diagrams.gif)
 
 ## MAP OF MIDDLE-EARTH
 
-![](/assets/images/unlimited-appendix-map.png)
+![](/assets/images/unlimited-appendix-map.gif)
 
 ## MAP INDEX
 
