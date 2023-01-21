@@ -9,7 +9,7 @@ permalink: /original/rulebooks/the-lidless-eye/
 
 <details>
 <summary>Rules as Published</summary>
-<a href="/assets/files/Middle-earth%20The%20Lidless%20Eye.pdf"><img src="/assets/images/mele-cover.png"></a>
+<a href="/assets/files/Middle-earth%20The%20Lidless%20Eye.pdf"><img src="/assets/images/mele-cover.gif"></a>
 <br>
 <a href="/assets/files/Middle-earth%20The%20Lidless%20Eye.pdf">Middle-earth The Lidless Eye.pdf</a>
 </details>
@@ -1845,12 +1845,12 @@ Agents operate as outlined in the _ME: Dark Minions_ rules with the following ex
 ### CARD DIAGRAMS
 
 {: .text-center }
-![](/assets/images/mele-appendix-card-diagrams.png)
+![](/assets/images/mele-appendix-card-diagrams.gif)
 
 ### MAP OF MIDDLE-EARTH
 
 {: .text-center }
-![](/assets/images/mele-appendix-map.png)
+![](/assets/images/mele-appendix-map.gif)
 
 ### MAP INDEX
 
