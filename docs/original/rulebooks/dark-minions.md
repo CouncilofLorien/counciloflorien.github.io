@@ -18,7 +18,7 @@ permalink: /original/rulebooks/dark-minions/
 
 This insert provides expansion rules and clarifications for use with all _Middle-earth Collectible Card Game_ (_MECCG_) products.
 
-{: .note-dk }
+{: .note }
 > **Note:** For a copy of these rules in larger type with more examples send a request and a self-addressed, stamped envelope to ICE, P.O. Box 1605, Charlottesville, VA, 22903. Alternatively, visit our home page on the WWW (http://www.ironcrown.com).
 
 #### Minion Cards (_Clarification_)
@@ -43,7 +43,7 @@ Usually the host card will state some mechanic that affects the cards placed off
 
 ### THE UNDER-DEEPS
 
-{: .note-dk }
+{: .note }
 > **Note:** Created by streams of molten rock and expanded by geothermal eruptions of super-hot gas, the Under-deeps are a result of a combination of natural and supenatural forces. The hand of Morgoth joined what was once a collection of countless, sundered cavern complexes. His greater servants used this maze of tunnels and chambers to travel surreptitiously throughout Endor.
 >
 > Although Endor changed during the Elder Days, the core of the Under-deeps survive. Though travel between the underground sites is now difficult, if not impossible. for all but the greatest (and luckiest) explorers. Blocked or twisting away from their original course, the Under-deeps seem broken. Junctions and strongholds seem lost. Many appear as simple caves or side passages, no longer resembling their past grandeur. Others lie hidden behind veils of rock. Nearly all are still there, though, awaiting discovery—as is their creator.
@@ -58,7 +58,7 @@ An Under-deeps site card has "Under-deeps" in the section that normally gives a 
 - Normally, when you successfully play an item, faction, ally, or information at a site, the site card is tapped and one additional character may tap to play a minor item. At an Under-deeps site, you can play any item playable at the site instead of this minor item.
 - You may not consider marshalling points associated with a company at an Under-deeps site for the purposes of calling the Free Council.
 
-{: .note-dk }
+{: .note }
 > **Example:** Legolas taps and plays _Glamdring_ (a major item) at The Under-grottos and the site taps. At this point, Gimli could only tap to play a minor item at a non-Under-deeps site. But The Under-grottos is an Under-deeps site, so Gimli can tap to play anything playable at The Under-grottos: a minor item, a major item, or a gold ring. He taps and plays a _Precious Gold-ring_.
 
 #### Under-deep Site Movement
@@ -67,7 +67,7 @@ One of your companies that begins its turn at the surface site of an Under-deeps
 
 Each adjacent site is followed by a number in parentheses—this number indicates how difficult it is to move from the Under-deeps site to the adjacent site. When an adjacent site is revealed by one of your companies whose site of origin is an Under-deeps site, you must make a roll (2D6). If the result is greater than or equal to the number in parentheses following the adjacent site as listed on its site of origin, the movement/hazard phase proceeds normally. Otherwise, the company returns to its site of origin and the movement/hazard phase proceeds as if the company had not moved.
 
-{: .note-dk }
+{: .note }
 > **Note:** A company moving from a surface site to its Under-deeps site does not need to make a roll.
 > 
 > **Example:** A company that starts at Carn Dum can move normally or it can move to The Iron-deeps—The Iron-deeps lists Carn Dum as an adjacent site. Similarly, a company that starts at The Iron-deeps may attempt to move to any adjacent site listed: Carn Dum (0), The Under-leas (6), or The Under-vaults (7). However, after committing to movement, the moving player must roll a 6 or better to successfully move to The Under-leas or a 7 or better to successfully move to The Under-vaults.
@@ -78,7 +78,7 @@ Certain entities (e.g., the Balrog, Gollum, Lobelia, etc.) have several differen
  - If one manifestation of such an entity is already in play, you may _not_ play another manifestation of the same entity.
  - If an attack from a manifestation is defeated, the manifestation is removed from play and you may not play any further manifestations of the same entity.
 
-{: .note-dk }
+{: .note }
 > **Exception:** Different manifestations of the same unique Dragon may be in play at the same lime.
 > 
 > **Note:** If one card says that it is the manifestation of another card, these restrictions apply to both cards.
@@ -108,7 +108,7 @@ Hazard hosts that cause a character to be taken prisoner require a company contr
 
 To rescue a character, the company must be at the rescue site during the site phase and must face any automatic-attacks at the site as normal. The site can be tapped or untapped. The company must next face any rescue-attacks at the site. Rescue-attacks are not considered automatic-attacks. Following the rescue-attack, an untapped character in the rescuing company can tap, and all characters taken prisoner under the hazard host immediately join the company under general influence (which must be legally reconciled during the player's next organization phase) the rescue attempt is successful. The company's site then taps (if untapped), and one minor item may be played with an untapped member of the rescuing company.
 
-{: .note-dk }
+{: .note }
 > **Note:** If he has one available, a player must use a site from his own location deck to rescue imprisoned characters. If he does not have the site or if the site is in his discard pile, the copy with the hazard host can be used to show the rescuing company's movement (if the rescue attempt is successful, the site would remain in play until the company leaves the site). In this case the site is not available for the rescuing player to use for any purpose (other than to rescue prisoners and play one minor item) until the company leaves the site and his play deck is exhausted.
 
 ### AGENTS
@@ -143,7 +143,7 @@ Each of your agents who was already in play at the beginning of your opponent's 
 
 Performing any one of these actions with an agent counts as one against the hazard limit. These actions may only be taken during your opponent's movement/hazard phase.
 
-{: .note-dk }
+{: .note }
 > **Note:** Certain cards allow an agent to take more than one action during a given turn.
 
 #### Moving an Agent (_Agent Action_)
@@ -152,7 +152,7 @@ When one of your agents moves, tap it and place its new site card on top of the 
 
 Alternatively, you may remove the top site card on a face-down agent (i.e., it moves back to its previous site).
 
-{: .note-dk }
+{: .note }
 > **Note:** If Starter Rules are being used _and/or_ you are not using region movement, agents may not move.
 
 #### Revealing an Agent
@@ -160,7 +160,7 @@ Alternatively, you may remove the top site card on a face-down agent (i.e., it m
 You may turn any of your face-down agents face-up (i.e., reveal them) at any time during your opponent's movement/hazard phase. This doesn't count as an agent action as outlined above **and** it doesn't count
 against the hazard limit. Alternatively, you must reveal an agent when it attacks, when it makes an influence attempt, or when certain cards are played.
 
-{: .note-dk }
+{: .note }
 > **Note:** Certain hazard cards specify that an agent must tap for the card to take effect. A face-down agent that taps in this fashion must be revealed (i.e., turned face-up).
 
 If one of your agents is revealed before it has moved, you must immediately choose which home site it is at—place the appropriate site card with the agent. If you do not have such a site card in your location deck, discard the agent at the end of the current turn. 
@@ -194,7 +194,7 @@ During your opponent's site phase, each of your agents may attack a company if t
 
 This attack is declared and enacted at the start of the site phase immediately following any automatic-attack. If face-down, turn the agent face-up.
 
-{: .note-dk }
+{: .note }
 > **Note:** Certain cards (e.g., _Cunning Foes_, _To Get You Away_, etc.) allow an agent at a company's new site to attack a company during the movement/hazard phase.
 
 #### Resolving Combat With an Agent
@@ -209,10 +209,10 @@ When one of your agents attacks it is considered to be the _attacker_ and it has
  - If the agent is _face-up at his home site_ when the attack is declared, his prowess is modified by +2 for that attack **and** his body is modified by + 1.
  - After the combat, the agent remains in play **and** it must be face-up and tapped _or_ face-up and wounded.
 
-{: .note-dk }
+{: .note }
 > **Note:** Agents are **not** characters—you may not play resource cards to modify an agent's prowess (e.g., a _Risky Blow_ will not affect an agent's prowess). Hazard cards affect an agent attack normally.
 
-{: .note-dk }
+{: .note }
 > **Example:** During your opponent's movement/hazard phase (MH-phase), you play Gisulf, counting as one against your hazard limit. He is placed face-down and is considered to start at any of his home sites: Woodmentown, Lake-town, or Dale (your choice whenever he is initially revealed). Gisulf may not take an action this turn—he was just played. However, if one of your opponent's companies were to move to one of Gisulf's home sites this tum, Gisulf could attack it during its site phase.
 > 
 > During your opponent's next MH-phase, his main company moves to Lorien. You decide to move Gisulf to a site in the Anduin Vales so that he is closer to more sites reachable from Lorien. He can do this because Woodmen-town is in Western Mirkwood, which is adjacent to Anduin Vales. One of your own company's is at Eagle's Eyrie and Framsburg is in your discard pile, so those cards are not available for Gisulf to use. Thus, Gisulf can only move to Gladden Fields or Beorn's House. You move him to Gladden Fields (counts one against the hazard limit), tapping him and placing that site card (his current site) face-down on top of Gisulf. Maybe your opponent will try to get a ring next turn.
