@@ -46,7 +46,7 @@ Smaug  |  The Lonely Mountain  |  Northern Rhovanion
 
 Certain items are _hoard items_. Such an item may only be played at a site that contains a hoard. Each site with a Dragon automatic-attack (i.e., each Dragon's lair) contains a hoard. A hoard minor item may not be included with a starting company, and may not be played at a site that does not contain a hoard.
 
-{: .note-dk }
+{: .note }
 > **Example:** You can not play a hoard minor item at Wellinghall after successfully influencing the _Ents of Fangorn_ like you can with a normal minor item. Wellinghall does not contain a hoard.
 
 ### MANIFESTATIONS OF DRAGONS
@@ -69,7 +69,7 @@ If at any time an attack from a manifestation of a unique Dragon is defeated or 
  - No further manifestations of the same Dragon may be played.
  - The Dragon's lair no longer has an automatic-attack.
 
-{: .note-dk }
+{: .note }
 > **Example:** You have played _Smaug at Home_ and _Smaug Ahunt_ (both are still in play). Then you play _Dragon's Desolation_ and _Smaug_ on one of your opponent's companies at Weathertop. Your opponent plays _Old Thrush_, rolls lucky, and defeats _Smaug_. He gets 5 MPs for defeating _Smaug_ **and** _Smaug_, _Smaug at Home_, and _Smaug Ahunt_ are all removed from play **and** The Lonely Mountain (Smaug's lair) no longer has an automatic-attack. 
 > 
 > If, instead, one of your own companies had gone to The Lonely Mountain and defeated _Smaug at Home_, you would not receive the 5 MPs.
@@ -88,7 +88,7 @@ A character may choose to ignore the restriction that he tap to remove a corrupt
 
 A character may only attempt to remove each corruption card once per turn if he ignores the tapping restriction to do so.
 
-{: .note-dk }
+{: .note }
 > **Example:** During his organization phase, Beorn has 3 corruption cards: _Lure of Nature_, _Lure of Expedience_, and _Lure of the Senses_. He taps and rolls to attempt to remove the _Lure of the Senses_; his roll is an 8, so the card is removed (greater than 6 was required). If, instead, Beorn had not tapped for this attempt, he would have failed (he would have needed to roll a 10 or better). He then rolls to attempt to remove _Lure of Nature_; his roll is a 6 modified by -3 for a net result of 3, so the card is **not** removed (greater than 4 was required). Finally, he rolls to attempt to remove _Lure of Expedience_; his roll is a 9 modified by -3 for a net result of 6, so the card is removed (greater than 5 was required). 
 
 ### THE SIDEBOARD
