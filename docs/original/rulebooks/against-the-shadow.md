@@ -9,7 +9,7 @@ permalink: /original/rulebooks/against-the-shadow/
 
 <details>
 <summary>Rules as Published</summary>
-<a href="/assets/files/Middle-earth%20Against%20The%20Shadow.pdf"><img src="/assets/images/meas-cover.png"></a>
+<a href="/assets/files/Middle-earth%20Against%20The%20Shadow.pdf"><img src="/assets/images/meas-cover.gif"></a>
 <br>
 <a href="/assets/files/Middle-earth%20Against%20The%20Shadow.pdf">Middle-earth Against The Shadow.pdf</a>
 </details>
