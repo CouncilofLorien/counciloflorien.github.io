@@ -16,6 +16,11 @@ permalink: /original/rulebooks/dark-minions/
 
 # MIDDLE-EARTH: DARK MINIONS
 
+{: .text-center .text-gamma .mt-6 }
+CONTENTS
+
+| &emsp;[Minion Cards (_Clarification_)](#minion-cards-clarification)<br>&emsp;[Permanent-events (_Clarification_)](#permanent-events-clarification)<br>&emsp;[Placement of cards “off to the side” (_Clarification_)](#permanent-events-clarification)<br>[The Under-deeps](#the-under-deeps)<br>&emsp;[Under-deep Site Movement](#under-deep-site-movement)<br>[Manifestations](#manifestations)<br>[Taking Prisoners](#taking-prisoners)<br>&emsp;[Rescue and the Rescue-attack](#rescue-and-the-rescue-attack)<br>[Agents](#agents)<br>&emsp;[Untapping an Agent](#untapping-an-agent) | &emsp;[Playing an Agent](#playing-an-agent)<br>&emsp;[Agent Actions](#agent-actions)<br>&emsp;[Moving an Agent (_Agent Action_)](#moving-an-agent-agent-action)<br>&emsp;[Revealing an Agent](#revealing-an-agent)<br>&emsp;[Playing Creatures at an Agent’s Site (_Agent Action_)](#playing-creatures-at-an-agents-site-agent-action)<br>&emsp;[Attacking With an Agent](#attacking-with-an-agent)<br>&emsp;[Resolving Combat With an Agent](#resolving-combat-with-an-agent)<br>&emsp;[Marshalling Points from Agents](#marshalling-points-from-agents)<br>&emsp;[Influencing With an Agent](#influencing-with-an-agent)<br>[Creatures as Automatic-attacks](#creatures-as-automatic-attacks) |
+
 This insert provides expansion rules and clarifications for use with all _Middle-earth Collectible Card Game_ (_MECCG_) products.
 
 {: .note }
