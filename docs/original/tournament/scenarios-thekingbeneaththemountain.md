@@ -36,7 +36,7 @@ You are a Dwarf lord gathering a host of companions to your side. Who will marsh
 ### Victory Conditions
 
 {: .float-right }
-![](/assets/images/BlueMountainDwarves.png)
+![](/assets/images/BlueMountainDwarves.gif)
 
 Once you have exhausted your play deck once, you may bid for a victory at the end of any turn if you have 22 marshalling points **and** five or more Dwarf characters in play. At this point, each of your characters makes a corruption check outside of the turn sequence. If you still have at least 18 marshalling points after these checks, the Lonely Mountain achieves a grandeur unrivalled, and you win automatically. 
 
