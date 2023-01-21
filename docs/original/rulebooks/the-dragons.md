@@ -16,6 +16,11 @@ permalink: /original/rulebooks/the-dragons/
 
 # MIDDLE-EARTH: THE DRAGONS
 
+{: .text-center .text-gamma }
+CONTENTS
+
+| [Key Words and Terms (_Clarification_)](/original/rulebooks/the-dragons/#key-words-and-terms-clarification)<br>[Dragon Lairs](/original/rulebooks/the-dragons/#dragon-lairs)<br>[Hoards](/original/rulebooks/the-dragons/#hoards)<br>[Manifestations of Dragons](/original/rulebooks/the-dragons/#manifestations-of-dragons)<br>[Hazard Limit (_Clarification_)](/original/rulebooks/the-dragons/#hazard-limit-clarification)| [Characters Facing Multiple Strikes](/original/rulebooks/the-dragons/#characters-facing-multiple-strikes)<br>[Removing Corruption Cards](/original/rulebooks/the-dragons/#removing-corruption-cards)<br>[The Sideboard](https://www.counciloflorien.com/original/rulebooks/the-dragons/#the-sideboard)<br>[Region Movement Limitation](/original/rulebooks/the-dragons/#region-movement-limitation)<br>[Many a Gleaming Golden Hoard](/original/rulebooks/the-dragons/#many-a-gleaming-golden-hoard) |
+
 This insert provides expansion rules, clarifications, and a scenario for use with both _Middle-earth: The Wizards_ (_METW_) and _Middle-earth: The Dragons_ (_METD_). These rules are recommended for all _METW_ games even if _METD_ is not used.
 
 ### KEY WORDS AND TERMS (_Clarification_)
