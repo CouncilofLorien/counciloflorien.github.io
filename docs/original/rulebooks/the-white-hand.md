@@ -43,7 +43,7 @@ The fallen **Radagast** (of the Greenwood) is the friend of animate nature. He l
 
 The fallen **Saruman** (of Many Colours) is the master of inanimate nature. He gathers knowledge and makes inanimate objects. He is obsessed with using his own personal power, items, and abilities to contest Sauron.
 
-{: .note-dk }
+{: .note }
 > **Note:** In terms of _ME: The Wizards_, a Wizard that has failed a corruption check by 1 of 2 has become a **Fallen-wizard** (the Wizards in _MEWH_ are all Fallen-wizards).
 
 ## USING MEWH
@@ -89,7 +89,7 @@ A Fallen-wizard player prepares for play just as a Wizard does, with the followi
 
 If you are playing a Fallen-wizard, you must tell your opponent which Fallen-wizard you are playing before choosing starting companies. If your opponent has normal hero Wizard character cards in his play deck and/or sideboard that correspond to the Fallen-wizard you have declared, he may replace those Wizard cards with an equal number of other Wizard character cards that he has available. Your opponent may also add 10 cards to his sideboard (these cards should be preselected for a Fallen-wizard opponent).
 
-{: .note-dk }
+{: .note }
 > **Note:** This rule means that when you declare that you are playing a specific Fallen-wizard, your opponent may not play the corresponding hero Wizard (i.e., that Wizard has already fallen). You and your opponent may still both declare and attempt to play the same Fallen-wizard, but the game will probably be won by the first player to get his Fallen-wizard into play.
 
 #### Your Location Deck
@@ -144,7 +144,7 @@ All of your non-Orc and non-Troll characters are considered to be hero character
  - Your Fallen-wizard may only start at his home site.
  - You may not start or bring into play any character with a mind greater than 5.
 
-{: .note-dk }
+{: .note }
 > **Note:** See the section on Orcs and Trolls for more details.
 
 ## MOVEMENT
@@ -176,7 +176,7 @@ Playing resources is handled normally with these exceptions:
 
 Whenever a Fallen-wizard player tests a hero gold ring item, the roll is modified by -1.
 
-{: .note-dk }
+{: .note }
 > **Note:** The restrictions below do _not_ apply to Spells and Magic.
 
 #### Targeting Site and Resource Cards
@@ -191,7 +191,7 @@ In order to play a non-Fallen-wizard resource that would normally tap a site, ei
 
 This applies to all factions, allies, and items; as well as other cards played during the site phase that tap the site.
 
-{: .note-dk }
+{: .note }
 > **Note:** When the test of a gold ring indicates that a specific type of ring may be played, you may play either a hero or a minion ring of the appropriate type.
 
 #### Using Items
