@@ -9,7 +9,7 @@ permalink: /original/rulebooks/the-white-hand/
 
 <details>
 <summary>Rules as Published</summary>
-<a href="/assets/files/Middle-earth%20The%20White%20Hand.pdf"><img src="/assets/images/mewh-cover.png"></a>
+<a href="/assets/files/Middle-earth%20The%20White%20Hand.pdf"><img src="/assets/images/mewh-cover.gif"></a>
 <br>
 <a href="/assets/files/Middle-earth%20The%20White%20Hand.pdf">Middle-earth The White Hand.pdf</a>
 </details>
