@@ -16,7 +16,7 @@ permalink: /original/rulebooks/the-dragons/
 
 # MIDDLE-EARTH: THE DRAGONS
 
-{: .text-center .text-gamma }
+{: .text-center .text-gamma .mt-6 }
 CONTENTS
 
 | [Key Words and Terms (_Clarification_)](/original/rulebooks/the-dragons/#key-words-and-terms-clarification)<br>[Dragon Lairs](/original/rulebooks/the-dragons/#dragon-lairs)<br>[Hoards](/original/rulebooks/the-dragons/#hoards)<br>[Manifestations of Dragons](/original/rulebooks/the-dragons/#manifestations-of-dragons)<br>[Hazard Limit (_Clarification_)](/original/rulebooks/the-dragons/#hazard-limit-clarification) | [Characters Facing Multiple Strikes](/original/rulebooks/the-dragons/#characters-facing-multiple-strikes)<br>[Removing Corruption Cards](/original/rulebooks/the-dragons/#removing-corruption-cards)<br>[The Sideboard](https://www.counciloflorien.com/original/rulebooks/the-dragons/#the-sideboard)<br>[Region Movement Limitation](/original/rulebooks/the-dragons/#region-movement-limitation)<br>[Many a Gleaming Golden Hoard](/original/rulebooks/the-dragons/#many-a-gleaming-golden-hoard) |
