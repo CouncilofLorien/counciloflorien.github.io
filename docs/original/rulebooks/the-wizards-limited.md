@@ -808,11 +808,11 @@ The _METW Player Guide_ will provide detailed solitaire rules.
 
 ## CARD DIAGRAMS
 
-![](/assets/images/limited-appendix-card-images.jpg)
+![](/assets/images/limited-appendix-card-images.gif)
 
 ## MAP OF MIDDLE-EARTH
 
-![](/assets/images/limited-appendix-map.jpg)
+![](/assets/images/limited-appendix-map.gif)
 
 ## MAP INDEX
 
