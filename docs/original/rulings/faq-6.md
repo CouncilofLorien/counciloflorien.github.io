@@ -248,7 +248,7 @@ A:
 **A**: Yes. The following cards all have errata:
 
  - Akhorahil: Change "...gives -1 penalty to one..." to "...modifies any one character's body by -1 for the rest of the turn."
- - /*Army of the Dead: Add "May not be influenced by an opponent."
+ - \*Army of the Dead: Add "May not be influenced by an opponent."
  - \*Bill the Pony: The prowess of this ally should be 10, not 6.
  - \*Book of Mazarbul:  Replace "...tap the bearer during your organization phase..." with "tap Book of Mazarbul during you organization phase..."
  - \*Corsairs of Umbar:  Add "May also be played at any site in Elven Shores, Eriadoran Coast, Andrast Coast, Bay of Belfalas, or Mouths of the Anduin."
