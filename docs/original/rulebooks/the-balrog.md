@@ -343,11 +343,17 @@ Use _An Unexpected Outposts_ to recycle _Twilights_, _Long Winters_, _Doors of N
 | <u>Resources</u> (31) <br>_MP Sources:_<br>A Few Recruits<br>Breach the Hold<br>Great Army of the North<br>Nasty Slimy Thing<br>People Diminished<br>Roots of the Earth<br>Stagging Tongue of Fire<br>Whip of Many Thongs<br>\[Iron Shield of Old]<br>\[Goblins of Goblin-gate]<br>\[Grey Mountain Goblins]<br>\[Orcs of Angmar]<br>\[Orcs of Gundabad]<br>\[Orcs of Moria]<br><br>_Supporting Resources_<br>A More Evil Hour<br>Ancient Secrets<br>Angband Revisited (x2)<br>Caverns Unchoked<br>Foe Dismayed (x2)<br>Great Fissure<br>Obey Him or Die<br>Out of Sprang (x2)<br>Strangling Coils (x2)<br>\[Crept Along Cleverly]<br>\[Swift Strikes (x2)]<br>\[Voices of Malice] | <u>Hazards</u> (31)<br>_Creatures:_<br>\[Bairanax Ahunt]<br>\[Ghosts (x2)]<br>\[Marsh-drake (x2)]<br>\[Nameless Thing (x2)]<br>\[Sellswords Between Charters (x2)]<br>\[Scatha Ahunt]<br>\[Scorba Ahunt]<br>\[Smaug Ahunt]<br>\[True Fire-drake (x2)]<br><br>_Events:_<br>\[An Unexpected Outpost (x3)]<br>\[Doors of Night (x3)]<br>\[Foolish Words (x2)]<br>\[From the Pits of Angband (x2)]<br>\[Long Winter (x3)]<br>\[Mordor in Arms]<br>\[Stench of Mordor]<br>\[Twilight (x2)] |
 | <u>Sideboard</u> (25)<br>_Resources:_<br>Crook-legged Orc<br>Crowned with Storm<br>Eddy in Fate's Tide<br>Flame of Udun<br>Heart of Dark Fire<br>Hill-troll<br>Invade Their Domain<br>Lord and Usurper<br>Mine of No One's<br>Mountain-maggot<br>Prone to Violence<br>Roam the Waste<br>Scourge of Fire<br>\[Piercing All Shadows (x2)]<br>\[Sudden Call]<br><br>_Hazards:_<br>Diminish and Depart<br>Fled into Darkness<br>Olog Warlords<br>Press Gang<br>\[Covetous Thoughts (x2)]<br>\[Earcaraxe Aunt]<br>\[Muster Disperses]<br>\[Stench of Mordor] | <u>Sites</u> (20)<br>Moria<br>The Under-gates<br>Ancient Deep-hold<br>The Gem-deeps<br>The Pukel-deeps<br>The Rusted-deeps<br>The Under-grottos<br>The Under-leas<br>The Under-vaults<br>The Wind-deeps<br>\[Beorn's House]<br>\[Eagles' Eyrie]<br>\[Goblin-gate]<br>\[Gondmaeglom]<br>\[Iron Hill Dwarf-hold]<br>\[Mount Gram]<br>\[Mount Gundabad]<br>\[Thranduil's Halls]<br>\[Wellinghall]<br>\[The Windthrone]<br><br><u>EXTRA CARDS</u><br>Challenge the Power<br>Crepy Along Carefully<br>Elven Rope<br>Grond<br>Imprisoned and Mocked<br>Long Grievous Siege<br>Sauron<br>Show Things Unbidden<br>Strider<br>To Fealty Sworn<br>Whispers of Rings |
 
+## Map of Middle-earth
+
 ![](/assets/images/meba-map.gif)
 
-![](/assets/images/meba-card-diagrams.gif)
+## Key
 
 ![](/assets/images/meba-map-key-and-symbol-key.gif)
+
+## Card Diagrams
+
+![](/assets/images/meba-card-diagrams.gif)
 
 {: .text-center }
 # MECCG RULES SUMMARY
