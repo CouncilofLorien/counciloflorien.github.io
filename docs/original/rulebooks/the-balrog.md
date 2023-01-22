@@ -22,74 +22,7 @@ Rules Summary & Play Tips
 {: .text-center .text-gamma .mt-6 }
 CONTENTS
 
-| [Map of Middle-earth]()
-<br>[Symbol Key]()
-<br>[Combat Modifications]()
-<br>[Card Diagrams]()
-<br>[**Specific Rules for MEBA**](#specific-rules-for-middle-earth-the-balrog)
-<br>[A Balrog Player](#a-balrog-player)
-<br>[Victory Conditions](#victory-conditions)
-<br>[Getting Ready to Play](#getting-ready-to-play)
-<br>[Movement](#movement)
-<br>[Characters and Companies](#characters-and-companies)
-<br>[Miscellaneous](#miscellaneous)
-<br>[Defeating a Permanent-event](#defeating-a-permanent-event-clarification)
-<br>[Cards with Multiple Actions](#cards-with-multiple-actions-clarification)
-<br>[Placement of Cards "Off to the Side"](#placement-of-cards-off-to-the-side-clarification)
-<br>[Discarding Cards](#discarding-cards-clarification)
-<br>[Tournament Rules](#tournament-rules)
-<br>[The Under-deeps](#the-under-deeps)
-<br>[**Play Tips & Deck Lists for the MEBA Decks**]()
-<br>[The Shadow-deeps Deck](#the-shadow-deepsplay-tips)
-<br>[Balrog's Host Deck](#balrogs-hostplay-tips)
-<br>[**MECCG Rules Summary**](#meccg-rules-summary)
-<br>[**Part I --- Before you Play**](#-part-i-before-you-play)
-<br>[1 • Overview](#1--overview)
-<br>[2 • Victory Conditions](#2--victory-conditions)
-<br>[3 • The Different Cards](#3--the-different-cards)
-<br>[4 • Getting Ready to Play](#4--getting-ready-to-play)
-<br>[**Part II --- Turn Sequence**](#-part-ii-turn-sequence)
-<br>[1 • Untap Phase](#1--untap-phase)
-<br>[2 • Organization Phase](#2--organization-phase)
-<br>&emsp;[Bringing a Character into Play](#bringing-a-character-into-play)
-<br>&emsp;[Reorganizing Companies](#reorganizing-companies)
-<br>&emsp;[Transferring/Storing Items](#transferringstoring-items)
-<br>&emsp;[Playing a New Site Card](#playing-a-new-site-card)
-| <br>&emsp;&emsp;[Starter Movement](#starter-movement)
-<br>&emsp;&emsp;[Region Movement](#region-movement)
-<br>&emsp;&emsp;[Site Paths]()
-<br>[3 • Long-event Phase]()
-<br>[4 • Movement/Hazard Phase]()
-<br>&emsp;[Playing Hazards]()
-<br>&emsp;[Placing Cards On-guard]()
-<br>&emsp;[Combat]()
-<br>&emsp;&emsp;[Resolving Strikes]()
-<br>&emsp;&emsp;[Body Checks]()
-<br>&emsp;&emsp;[Detainment Attacks]()
-<br>&emsp;&emsp;[Defeating an Attack]()
-<br>[5 • Site Phase]()
-<br>&emsp;[Playing an Item]()
-<br>&emsp;[Playing an Ally]()
-<br>&emsp;[Playing a Faction]()
-<br>&emsp;[Playing Minor Items]()
-<br>&emsp;&emsp;[Influencing an Opponent's Resources]()
-<br>&emsp;&emsp;[Influencing Characters]()
-<br>&emsp;&emsp;[Influencing a Faction]()
-<br>&emsp;&emsp;[Influencing an Ally]()
-<br>&emsp;&emsp;[Influencing an Item]()
-<br>&emsp;[Company vs. Co. Combat]()
-<br>&emsp;&emsp;[Cards that Affect Co. vs. Co. Combat]()
-<br>&emsp;&emsp;[Assigning Strikes]()
-<br>&emsp;&emsp;[The Strike Sequence]()
-<br>[6 • End-of-Turn Phase]()
-<br>[**Part III --- Special Situations***]()
-<br>[1 • Corruption Checks]()
-<br>[2 • Ringwraiths]()
-<br>[3 • Ring Items]()
-<br>[4 • Sideboards]()
-<br>[5 • Timing]()
-<br>[6 • Unique, Cannot be Duplicated, and Manifestations]()
-<br>[7 • Exhausting Your Play Deck]() | 
+| [Map of Middle-earth]()<br>[Symbol Key]()<br>[Combat Modifications]()<br>[Card Diagrams]()<br>[**Specific Rules for MEBA**](#specific-rules-for-middle-earth-the-balrog)<br>[A Balrog Player](#a-balrog-player)<br>[Victory Conditions](#victory-conditions)<br>[Getting Ready to Play](#getting-ready-to-play)<br>[Movement](#movement)<br>[Characters and Companies](#characters-and-companies)<br>[Miscellaneous](#miscellaneous)<br>[Defeating a Permanent-event](#defeating-a-permanent-event-clarification)<br>[Cards with Multiple Actions](#cards-with-multiple-actions-clarification)<br>[Placement of Cards "Off to the Side"](#placement-of-cards-off-to-the-side-clarification)<br>[Discarding Cards](#discarding-cards-clarification)<br>[Tournament Rules](#tournament-rules)<br>[The Under-deeps](#the-under-deeps)<br>[**Play Tips & Deck Lists for the MEBA Decks**]()<br>[The Shadow-deeps Deck](#the-shadow-deepsplay-tips)<br>[Balrog's Host Deck](#balrogs-hostplay-tips)<br>[**MECCG Rules Summary**](#meccg-rules-summary)<br>[**Part I --- Before you Play**](#-part-i-before-you-play)<br>[1 • Overview](#1--overview)<br>[2 • Victory Conditions](#2--victory-conditions)<br>[3 • The Different Cards](#3--the-different-cards)<br>[4 • Getting Ready to Play](#4--getting-ready-to-play)<br>[**Part II --- Turn Sequence**](#-part-ii-turn-sequence)<br>[1 • Untap Phase](#1--untap-phase)<br>[2 • Organization Phase](#2--organization-phase)<br>&emsp;[Bringing a Character into Play](#bringing-a-character-into-play)<br>&emsp;[Reorganizing Companies](#reorganizing-companies)<br>&emsp;[Transferring/Storing Items](#transferringstoring-items)<br>&emsp;[Playing a New Site Card](#playing-a-new-site-card) | <br>&emsp;&emsp;[Starter Movement](#starter-movement)<br>&emsp;&emsp;[Region Movement](#region-movement)<br>&emsp;&emsp;[Site Paths](#site-paths)<br>[3 • Long-event Phase](#3--long-event-phase)<br>[4 • Movement/Hazard Phase](#4--movementhazard-phase)<br>&emsp;[Playing Hazards](#playing-hazards)<br>&emsp;[Placing Cards On-guard](#placing-cards-on-guard)<br>&emsp;[Combat](#combat)<br>&emsp;&emsp;[Resolving Strikes](#resolving-strikes)<br>&emsp;&emsp;[Body Checks](#body-checks)<br>&emsp;&emsp;[Detainment Attacks](#detainment-attacks)<br>&emsp;&emsp;[Defeating an Attack](#defeating-an-attack)<br>[5 • Site Phase](#5--site-phase)<br>&emsp;[Playing an Item](#playing-an-item)<br>&emsp;[Playing an Ally](#playing-an-ally)<br>&emsp;[Playing a Faction](#playing-a-faction)<br>&emsp;[Playing Minor Items](#playing-minor-items)<br>&emsp;&emsp;[Influencing an Opponent's Resources](#influencing-an-opponents-resources)<br>&emsp;&emsp;[Influencing Characters](#influencing-characters)<br>&emsp;&emsp;[Influencing a Faction](#influencing-a-faction)<br>&emsp;&emsp;[Influencing an Ally](#influencing-an-ally)<br>&emsp;&emsp;[Influencing an Item](#influencing-an-item)<br>&emsp;[Company vs. Co. Combat](#company-vs-company-combat)<br>&emsp;&emsp;[Cards that Affect Co. vs. Co. Combat](#cards-that-affect-company-vs-company-combat)<br>&emsp;&emsp;[Assigning Strikes](#assigning-strikes)<br>&emsp;&emsp;[The Strike Sequence](#the-strike-sequence)<br>[6 • End-of-Turn Phase](#1--end-of-turn-phase)<br>[**Part III --- Special Situations***](#-part-iii-special-situations)<br>[1 • Corruption Checks](#1--corruption-checks)<br>[2 • Ringwraiths](#2--ringwraiths)<br>[3 • Ring Items](#3--ring-items)<br>[4 • Sideboards](#4--sideboards)<br>[5 • Timing](#5--timing)<br>[6 • Unique, Cannot be Duplicated, and Manifestations](#6--unique-cannot-be-duplicated--manifestations)<br>[7 • Exhausting Your Play Deck](#7--exhausting-your-play-deck) | 
 
 ## INTRODUCTION
 
@@ -262,6 +195,8 @@ Each adjacent site is followed by a number in parentheses—this number indicate
 {: .note }
 > **Example:** A company is moving from The Undergrottos to Goblin-gate with _Long Winter_ in play. _Long Winter's_ effect of returning a company to the site of origin has no effect, since it depends on the company's site path, and the company has no site path. _Long Winter's_ effect of tapping a site will work, since that effect depends on the site's site path, which still exists. Finally, creatures can only be played keyed to the Shadow-hold of Goblin-gate.
 
+![](/assets/images/meba-under-deeps.gif)
+
 # THE SHADOW-DEEPS<br>PLAY TIPS
 
 This deck features the Balrog's Great Shadow form—which is his stealthiest and most reclusive—along with bold adventuring in Sauron's domains. The Under-deeps beneath the Dark Lord's holds tempt the Balrog with the lingering power of Morgoth, the creator and Black Enemy. The Balrog dispatches his Orcs and Trolls to retrieve what they can here and from the strongholds above. The deck's hazards center on Spiders and Animals and the horrible Spawn of Morgoth, newly unearthed for this expansion.
@@ -407,6 +342,12 @@ Use _An Unexpected Outposts_ to recycle _Twilights_, _Long Winters_, _Doors of N
 | <u>At Start</u> (5)<br>_Gangways over the Fire_<br>_Orders from the Great Demon_<br>Bolg<br>Umaguar<br>\[Old Troll] | <u>Other Characters</u> (9)<br>The Balrog (x3)<br>\[Burat]<br>\[Tuma]<br>\[Wuluag]<br>\[Orc Tracker (x2)]<br>\[Orc Captain] |
 | <u>Resources</u> (31) <br>_MP Sources:_<br>A Few Recruits<br>Breach the Hold<br>Great Army of the North<br>Nasty Slimy Thing<br>People Diminished<br>Roots of the Earth<br>Stagging Tongue of Fire<br>Whip of Many Thongs<br>\[Iron Shield of Old]<br>\[Goblins of Goblin-gate]<br>\[Grey Mountain Goblins]<br>\[Orcs of Angmar]<br>\[Orcs of Gundabad]<br>\[Orcs of Moria]<br><br>_Supporting Resources_<br>A More Evil Hour<br>Ancient Secrets<br>Angband Revisited (x2)<br>Caverns Unchoked<br>Foe Dismayed (x2)<br>Great Fissure<br>Obey Him or Die<br>Out of Sprang (x2)<br>Strangling Coils (x2)<br>\[Crept Along Cleverly]<br>\[Swift Strikes (x2)]<br>\[Voices of Malice] | <u>Hazards</u> (31)<br>_Creatures:_<br>\[Bairanax Ahunt]<br>\[Ghosts (x2)]<br>\[Marsh-drake (x2)]<br>\[Nameless Thing (x2)]<br>\[Sellswords Between Charters (x2)]<br>\[Scatha Ahunt]<br>\[Scorba Ahunt]<br>\[Smaug Ahunt]<br>\[True Fire-drake (x2)]<br><br>_Events:_<br>\[An Unexpected Outpost (x3)]<br>\[Doors of Night (x3)]<br>\[Foolish Words (x2)]<br>\[From the Pits of Angband (x2)]<br>\[Long Winter (x3)]<br>\[Mordor in Arms]<br>\[Stench of Mordor]<br>\[Twilight (x2)] |
 | <u>Sideboard</u> (25)<br>_Resources:_<br>Crook-legged Orc<br>Crowned with Storm<br>Eddy in Fate's Tide<br>Flame of Udun<br>Heart of Dark Fire<br>Hill-troll<br>Invade Their Domain<br>Lord and Usurper<br>Mine of No One's<br>Mountain-maggot<br>Prone to Violence<br>Roam the Waste<br>Scourge of Fire<br>\[Piercing All Shadows (x2)]<br>\[Sudden Call]<br><br>_Hazards:_<br>Diminish and Depart<br>Fled into Darkness<br>Olog Warlords<br>Press Gang<br>\[Covetous Thoughts (x2)]<br>\[Earcaraxe Aunt]<br>\[Muster Disperses]<br>\[Stench of Mordor] | <u>Sites</u> (20)<br>Moria<br>The Under-gates<br>Ancient Deep-hold<br>The Gem-deeps<br>The Pukel-deeps<br>The Rusted-deeps<br>The Under-grottos<br>The Under-leas<br>The Under-vaults<br>The Wind-deeps<br>\[Beorn's House]<br>\[Eagles' Eyrie]<br>\[Goblin-gate]<br>\[Gondmaeglom]<br>\[Iron Hill Dwarf-hold]<br>\[Mount Gram]<br>\[Mount Gundabad]<br>\[Thranduil's Halls]<br>\[Wellinghall]<br>\[The Windthrone]<br><br><u>EXTRA CARDS</u><br>Challenge the Power<br>Crepy Along Carefully<br>Elven Rope<br>Grond<br>Imprisoned and Mocked<br>Long Grievous Siege<br>Sauron<br>Show Things Unbidden<br>Strider<br>To Fealty Sworn<br>Whispers of Rings |
+
+![](/assets/images/meba-map.gif)
+
+![](/assets/images/meba-card-diagrams.gif)
+
+![](/assets/images/meba-map-key-and-symbol-key.gif)
 
 {: .text-center }
 # MECCG RULES SUMMARY
@@ -782,7 +723,7 @@ Then, the defender makes a roll and adds his modified prowess:
 
 If a character is defeated in company vs. company combat, the opposing player receives kill marshalling points as indicated on the character's card.
 
-## 1 • END-OF-TURN PHASE
+## 6 • END-OF-TURN PHASE
 
 During the end-of-turn phase, you may discard one card. Then you must draw or discard cards until you have eight cards in hand. You must discard the card before you reset to hand size. Note that some effects can increase or decrease the number of cards in your hand.
 
