@@ -25,7 +25,7 @@ permalink: /cards/farmer-maggot/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ If one of your companies faces an attack while at a site in The Shire, Arthedain, or Cardolan, you may immediately replace its site card with another site card in The Shire, Arthedain, or Cardolan. (from your location deck). If your company takes this option, the attack is canceled and this card is discarded.   <br>_“‘Be off!' I said. 'There are no Bagginses here...but you can go by the road this time.’”_ ***---&#65279;LotRI*** 
+> > _**Unique.**_ If one of your companies faces an attack while at a site in The Shire, Arthedain, or Cardolan, you may immediately replace its site card with another site card in The Shire, Arthedain, or Cardolan. (from your location deck). If your company takes this option, the attack is canceled and this card is discarded.   <br>_“‘Be off!' I said. 'There are no Bagginses here...but you can go by the road this time.’”_ ***---&#65279;LotRI***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

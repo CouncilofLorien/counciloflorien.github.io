@@ -25,7 +25,7 @@ permalink: /cards/golodhros/
 > Warrior/Sage/Diplomat Dunadan
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ Agent. Can use spirit-magic. Agent only: may tap to make an influence check on an ally, faction, or character. <br>_"Through an urbane courtier, Golodhros still maintained a home...not far from the black vale of Imlad Morgul. ... How he could safely visit there, no one knew."_ ***---&#65279;Kuduk Lore***  <br><br>**Home Site:** Minas Morgul, Cirith Ungol, Barad-dur 
+> > _**Unique.**_ Agent. Can use spirit-magic. Agent only: may tap to make an influence check on an ally, faction, or character. <br>_"Through an urbane courtier, Golodhros still maintained a home...not far from the black vale of Imlad Morgul. ... How he could safely visit there, no one knew."_{: .fs-3 } ***---&#65279;Kuduk Lore***{: .fs-3 }  <br><br>**Home Site:** Minas Morgul, Cirith Ungol, Barad-dur 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【5/9】</div>

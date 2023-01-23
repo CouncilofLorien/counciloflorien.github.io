@@ -25,7 +25,7 @@ permalink: /cards/rebuild-the-town/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable on a non-Dragon's lair, non-Under-deeps Ruins & Lairs \[![](/assets/images/ruinlair.svg)]. The site becomes a Border-hold \[![](/assets/images/border-hold.svg)] and loses all automatic-attacks. Discard Rebuild the Town when the site is discarded or returned to its location deck. <br>_“...the desolation was now filled with birds and blossoms in spring and fruit and feasting in autumn."_ ***---&#65279;Hob*** 
+> > Playable on a non-Dragon's lair, non-Under-deeps Ruins & Lairs \[![](/assets/images/ruinlair.svg)]. The site becomes a Border-hold \[![](/assets/images/border-hold.svg)] and loses all automatic-attacks. Discard Rebuild the Town when the site is discarded or returned to its location deck. <br>_“...the desolation was now filled with birds and blossoms in spring and fruit and feasting in autumn."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/rebuild-the-town/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable on a non-Dragon's lair, non-Under-deeps Ruins & Lairs \[![](/assets/images/ruinlair.svg)]. The site becomes a Border-hold \[![](/assets/images/border-hold.svg)] and loses all automatic-attacks. Discard Rebuild the Town when the site is discarded or returned to its location deck. <br>_“...the desolation was now filled with birds and blossoms in spring and fruit and feasting in autumn."_ ***---&#65279;Hob*** 
+> > Playable on a non-Dragon's lair, non-Under-deeps Ruins & Lairs \[![](/assets/images/ruinlair.svg)]. The site becomes a Border-hold \[![](/assets/images/border-hold.svg)] and loses all automatic-attacks. Discard Rebuild the Town when the site is discarded or returned to its location deck. <br>_“...the desolation was now filled with birds and blossoms in spring and fruit and feasting in autumn."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

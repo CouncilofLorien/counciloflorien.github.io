@@ -25,7 +25,7 @@ permalink: /cards/lucky-strike/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Warrior only._ Make two rolls (or draw two #'s) against a strike and choose one of the two results to use. <br>_“...Frodo felt a hot wrath blaze up in his heart...he stooped and stabbed with Sting at the hideous foot. There was a bellow, and the foot jerked back."_ ***---&#65279;LotRII*** 
+> > _Warrior only._ Make two rolls (or draw two #'s) against a strike and choose one of the two results to use. <br>_“...Frodo felt a hot wrath blaze up in his heart...he stooped and stabbed with Sting at the hideous foot. There was a bellow, and the foot jerked back."_{: .fs-3 } ***---&#65279;LotRII***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/lucky-strike/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Warrior only._ Make two rolls (or draw two #'s) against a strike and choose one of the two results to use. <br>_“...Frodo felt a hot wrath blaze up in his heart...he stooped and stabbed with Sting at the hideous foot. There was a bellow, and the foot jerked back."_ ***---&#65279;LotRII*** 
+> > _Warrior only._ Make two rolls (or draw two #'s) against a strike and choose one of the two results to use. <br>_“...Frodo felt a hot wrath blaze up in his heart...he stooped and stabbed with Sting at the hideous foot. There was a bellow, and the foot jerked back."_{: .fs-3 } ***---&#65279;LotRII***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/lucky-strike/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Warrior only._ Make two rolls (or draw two #'s) against a strike and choose one of the two results to use. <br>_“...Frodo felt a hot wrath blaze up in his heart...he stooped and stabbed with Sting at the hideous foot. There was a bellow, and the foot jerked back."_ ***---&#65279;LotRII*** 
+> > _Warrior only._ Make two rolls (or draw two #'s) against a strike and choose one of the two results to use. <br>_“...Frodo felt a hot wrath blaze up in his heart...he stooped and stabbed with Sting at the hideous foot. There was a bellow, and the foot jerked back."_{: .fs-3 } ***---&#65279;LotRII***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

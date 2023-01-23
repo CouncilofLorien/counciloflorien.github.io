@@ -25,7 +25,7 @@ permalink: /cards/bill-ferny/
 > Warrior/Scout Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ Agent. <br>_“‘...as for Ferny, he would sell anything to anybody; or make mischief for amusement.’”_ ***---&#65279;LotRI***  <br><br>**Home Site:** Bree, Cameth Brin  
+> > _**Unique.**_ Agent. <br>_“‘...as for Ferny, he would sell anything to anybody; or make mischief for amusement.’”_ ***---&#65279;LotRI***{: .fs-3 }  <br><br>**Home Site:** Bree, Cameth Brin  
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【2/8】</div>

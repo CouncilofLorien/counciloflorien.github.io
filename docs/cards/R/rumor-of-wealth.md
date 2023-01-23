@@ -25,7 +25,7 @@ permalink: /cards/rumor-of-wealth/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] that is not a Dragon's Lair. Any one Dragon hazard creature (except Earcaraxe) may be played (and does not count against the hazard limit) at the site during the site phase this turn after the successful play of a major or greater item. <br>_"So the rumour of the wealth of Erebor spread abroad and reached the ears of the Dragons...”_ ***---&#65279;LotR*** 
+> > Playable on a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] that is not a Dragon's Lair. Any one Dragon hazard creature (except Earcaraxe) may be played (and does not count against the hazard limit) at the site during the site phase this turn after the successful play of a major or greater item. <br>_"So the rumour of the wealth of Erebor spread abroad and reached the ears of the Dragons...”_ ***---&#65279;LotR***{: .fs-3 } 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

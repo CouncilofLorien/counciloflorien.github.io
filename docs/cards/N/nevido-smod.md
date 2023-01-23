@@ -25,7 +25,7 @@ permalink: /cards/nevido-smod/
 > Warrior/Ranger Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against any faction playable at Easterling Camp. <br>_“...the Balchoth, having built many great boats and rafts on the east shores of Anduin, swarmed over the River and swept away the defenders."_ ***---&#65279;LotR***  <br><br>**Home Site:** Easterling Camp 
+> > _**Unique.**_ +2 direct influence against any faction playable at Easterling Camp. <br>_“...the Balchoth, having built many great boats and rafts on the east shores of Anduin, swarmed over the River and swept away the defenders."_{: .fs-3 } ***---&#65279;LotR***{: .fs-3 }  <br><br>**Home Site:** Easterling Camp 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【4/8】</div>
@@ -45,7 +45,7 @@ permalink: /cards/nevido-smod/
 > Warrior/Ranger Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against any faction playable at Easterling Camp. <br>_“...the Balchoth, having built many great boats and rafts on the east shores of Anduin, swarmed over the River and swept away the defenders."_ ***---&#65279;LotR***  <br><br>**Home Site:** Easterling Camp 
+> > _**Unique.**_ +2 direct influence against any faction playable at Easterling Camp. <br>_“...the Balchoth, having built many great boats and rafts on the east shores of Anduin, swarmed over the River and swept away the defenders."_{: .fs-3 } ***---&#65279;LotR***{: .fs-3 }  <br><br>**Home Site:** Easterling Camp 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【4/8】</div>

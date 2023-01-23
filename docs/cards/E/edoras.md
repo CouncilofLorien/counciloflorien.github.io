@@ -25,7 +25,7 @@ permalink: /cards/edoras/
 > Rohan
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien  <br>_"Within there rise the roofs of houses; and in the midst, set upon a green terrace, there stands aloft a great hall of Men...it is thatched with gold. The light of it shines far over the land. Golden too are the posts of its doors. There men in bright mail stand...”_ ***---&#65279;LotRIII*** 
+> > _**Nearest Haven:**_ Lorien  <br>_"Within there rise the roofs of houses; and in the midst, set upon a green terrace, there stands aloft a great hall of Men...it is thatched with gold. The light of it shines far over the land. Golden too are the posts of its doors. There men in bright mail stand...”_ ***---&#65279;LotRIII***{: .fs-3 } 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/edoras/
 > Rohan
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien  <br>_"Within there rise the roofs of houses; and in the midst, set upon a green terrace, there stands aloft a great hall of Men...it is thatched with gold. The light of it shines far over the land. Golden too are the posts of its doors. There men in bright mail stand...”_ ***---&#65279;LotRIII*** 
+> > _**Nearest Haven:**_ Lorien  <br>_"Within there rise the roofs of houses; and in the midst, set upon a green terrace, there stands aloft a great hall of Men...it is thatched with gold. The light of it shines far over the land. Golden too are the posts of its doors. There men in bright mail stand...”_ ***---&#65279;LotRIII***{: .fs-3 } 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/edoras/
 > Rohan
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Minas Morgul <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 10 prowess (detainment against covert company)   <br>_“‘I see a white stream that comes down from the snows...where it issues from the shadow of the vale a green hill rises upon the east. A dike and mighty wall and thorny fence encircle it.’”_ ***---&#65279;LotRIII*** 
+> > Nearest Darkhaven: Minas Morgul <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 10 prowess (detainment against covert company)   <br>_“‘I see a white stream that comes down from the snows...where it issues from the shadow of the vale a green hill rises upon the east. A dike and mighty wall and thorny fence encircle it.’”_ ***---&#65279;LotRIII***{: .fs-3 } 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>
@@ -105,7 +105,7 @@ permalink: /cards/edoras/
 > Rohan
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Minas Morgul <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 10 prowess (detainment against covert company)   <br>_“‘I see a white stream that comes down from the snows...where it issues from the shadow of the vale a green hill rises upon the east. A dike and mighty wall and thorny fence encircle it.’”_ ***---&#65279;LotRIII*** 
+> > Nearest Darkhaven: Minas Morgul <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 10 prowess (detainment against covert company)   <br>_“‘I see a white stream that comes down from the snows...where it issues from the shadow of the vale a green hill rises upon the east. A dike and mighty wall and thorny fence encircle it.’”_ ***---&#65279;LotRIII***{: .fs-3 } 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>

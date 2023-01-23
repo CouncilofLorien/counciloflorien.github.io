@@ -25,7 +25,7 @@ permalink: /cards/lossadan-camp/
 > Forochel
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell  <br>_"The Lossoth...live mostly, inaccessible to their enemies, on the great Cape of Forochel that shuts off to the north-west the immense bay of that name; but they often camp on the south shores of the bay...”_ ***---&#65279;LotR*** 
+> > _**Nearest Haven:**_ Rivendell  <br>_"The Lossoth...live mostly, inaccessible to their enemies, on the great Cape of Forochel that shuts off to the north-west the immense bay of that name; but they often camp on the south shores of the bay...”_ ***---&#65279;LotR***{: .fs-3 } 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/lossadan-camp/
 > Forochel
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell  <br>_"The Lossoth...live mostly, inaccessible to their enemies, on the great Cape of Forochel that shuts off to the north-west the immense bay of that name; but they often camp on the south shores of the bay...”_ ***---&#65279;LotR*** 
+> > _**Nearest Haven:**_ Rivendell  <br>_"The Lossoth...live mostly, inaccessible to their enemies, on the great Cape of Forochel that shuts off to the north-west the immense bay of that name; but they often camp on the south shores of the bay...”_ ***---&#65279;LotR***{: .fs-3 } 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/lossadan-camp/
 > Forochel
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 5 prowess (detainment against covert company)  <br>_“...and they drew the king and those that survived of his company out over the ice in their sliding carts...”_ ***---&#65279;LotR*** 
+> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 5 prowess (detainment against covert company)  <br>_“...and they drew the king and those that survived of his company out over the ice in their sliding carts...”_ ***---&#65279;LotR***{: .fs-3 } 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>

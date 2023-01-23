@@ -25,7 +25,7 @@ permalink: /cards/delvers-harvest/
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > Playable during the site phase if one of your companies enters the Deep Mines site.   <br>_“‘Such things they have found here, it is true, especially iron...’”_ ***---&#65279;LotRII*** 
+> > Playable during the site phase if one of your companies enters the Deep Mines site.   <br>_“‘Such things they have found here, it is true, especially iron...’”_ ***---&#65279;LotRII***{: .fs-3 } 
 > 
 > {: .stage-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

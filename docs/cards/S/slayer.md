@@ -25,7 +25,7 @@ permalink: /cards/slayer/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Slayer._ Two attacks (of one strike each) against the same character. Attacker chooses defending character. The defender may tap one character in the same company to cancel one of the attacks. <br>_"In one of the windows he caught a glimpse of a sallow face with sly, slanting eyes; but it vanished at once."_ ***---&#65279;LotRI*** 
+> > _Slayer._ Two attacks (of one strike each) against the same character. Attacker chooses defending character. The defender may tap one character in the same company to cancel one of the attacks. <br>_"In one of the windows he caught a glimpse of a sallow face with sly, slanting eyes; but it vanished at once."_{: .fs-3 } ***---&#65279;LotRI***{: .fs-3 } 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【11/&ndash;】</div>
@@ -45,7 +45,7 @@ permalink: /cards/slayer/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Slayer._ Two attacks (of one strike each) against the same character. Attacker chooses defending character. The defender may tap one character in the same company to cancel one of the attacks. <br>_"In one of the windows he caught a glimpse of a sallow face with sly, slanting eyes; but it vanished at once."_ ***---&#65279;LotRI*** 
+> > _Slayer._ Two attacks (of one strike each) against the same character. Attacker chooses defending character. The defender may tap one character in the same company to cancel one of the attacks. <br>_"In one of the windows he caught a glimpse of a sallow face with sly, slanting eyes; but it vanished at once."_{: .fs-3 } ***---&#65279;LotRI***{: .fs-3 } 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【11/&ndash;】</div>
@@ -65,7 +65,7 @@ permalink: /cards/slayer/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Slayer._ Two attacks (of one strike each) against the same character. Attacker chooses defending character. The defender may tap any one character in the same company to cancel one of the attacks. <br>_“‘He would go out by himself...and stalk...and slay many men...’”_ ***---&#65279;LotR*** 
+> > _Slayer._ Two attacks (of one strike each) against the same character. Attacker chooses defending character. The defender may tap any one character in the same company to cancel one of the attacks. <br>_“‘He would go out by himself...and stalk...and slay many men...’”_ ***---&#65279;LotR***{: .fs-3 } 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【11/&ndash;】</div>
@@ -85,7 +85,7 @@ permalink: /cards/slayer/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Slayer._ Two attacks (of one strike each) against the same character. Attacker chooses defending character. The defender may tap any one character in the same company to cancel one of the attacks. <br>_“‘He would go out by himself...and stalk...and slay many men...’”_ ***---&#65279;LotR*** 
+> > _Slayer._ Two attacks (of one strike each) against the same character. Attacker chooses defending character. The defender may tap any one character in the same company to cancel one of the attacks. <br>_“‘He would go out by himself...and stalk...and slay many men...’”_ ***---&#65279;LotR***{: .fs-3 } 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【11/&ndash;】</div>

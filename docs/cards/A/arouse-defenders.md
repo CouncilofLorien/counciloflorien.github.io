@@ -25,7 +25,7 @@ permalink: /cards/arouse-defenders/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a Free-hold \[![](/assets/images/free-hold.svg)] or Border-hold \[![](/assets/images/border-hold.svg)]. This turn, the prowess of one automatic-attack (your choice) at target site is increased by 2 and cannot be canceled. Cannot be duplicated on a given site.   <br>_“‘Come!' said Aragorn. 'This is the hour when we draw our swords together!’”_ ***---&#65279;LotRIII*** 
+> > Playable on a Free-hold \[![](/assets/images/free-hold.svg)] or Border-hold \[![](/assets/images/border-hold.svg)]. This turn, the prowess of one automatic-attack (your choice) at target site is increased by 2 and cannot be canceled. Cannot be duplicated on a given site.   <br>_“‘Come!' said Aragorn. 'This is the hour when we draw our swords together!’”_ ***---&#65279;LotRIII***{: .fs-3 } 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

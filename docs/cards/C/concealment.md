@@ -25,7 +25,7 @@ permalink: /cards/concealment/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Scout only._ Tap scout to cancel one attack against his company. <br>_"At once Strider flung himself on the ground beside the ruined circle, pulling Frodo down beside him. Merry threw himself along side."_ ***---&#65279;LotRI*** 
+> > _Scout only._ Tap scout to cancel one attack against his company. <br>_"At once Strider flung himself on the ground beside the ruined circle, pulling Frodo down beside him. Merry threw himself along side."_{: .fs-3 } ***---&#65279;LotRI***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/concealment/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Scout only._ Tap scout to cancel one attack against his company. <br>_"At once Strider flung himself on the ground beside the ruined circle, pulling Frodo down beside him. Merry threw himself along side."_ ***---&#65279;LotRI*** 
+> > _Scout only._ Tap scout to cancel one attack against his company. <br>_"At once Strider flung himself on the ground beside the ruined circle, pulling Frodo down beside him. Merry threw himself along side."_{: .fs-3 } ***---&#65279;LotRI***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/concealment/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Scout only._ Tap scout to cancel one attack against his company. <br>_"At once Strider flung himself on the ground beside the ruined circle, pulling Frodo down beside him. Merry threw himself along side."_ ***---&#65279;LotRI*** 
+> > _Scout only._ Tap scout to cancel one attack against his company. <br>_"At once Strider flung himself on the ground beside the ruined circle, pulling Frodo down beside him. Merry threw himself along side."_{: .fs-3 } ***---&#65279;LotRI***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -85,7 +85,7 @@ permalink: /cards/concealment/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Scout only._ Tap scout to cancel one attack against his company. <br>_"At once Strider flung himself on the ground beside the ruined circle, pulling Frodo down beside him. Merry threw himself along side."_ ***---&#65279;LotRI*** 
+> > _Scout only._ Tap scout to cancel one attack against his company. <br>_"At once Strider flung himself on the ground beside the ruined circle, pulling Frodo down beside him. Merry threw himself along side."_{: .fs-3 } ***---&#65279;LotRI***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

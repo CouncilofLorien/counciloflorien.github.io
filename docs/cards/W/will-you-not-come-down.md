@@ -25,7 +25,7 @@ permalink: /cards/will-you-not-come-down/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a Fallen-wizard at a Wizardhaven \[![](/assets/images/free-haven.svg)]. Your opponent must choose either: discard from play enough stage cards (of his choice) to reduce his stage point total below 7 or to receive 4 stage points. Cannot be duplicated on a given Fallen-wizard.   <br>_“‘And I have the power to protect you. I am giving you a last chance.’”_ ***---&#65279;LotRIII***  
+> > Playable on a Fallen-wizard at a Wizardhaven \[![](/assets/images/free-haven.svg)]. Your opponent must choose either: discard from play enough stage cards (of his choice) to reduce his stage point total below 7 or to receive 4 stage points. Cannot be duplicated on a given Fallen-wizard.   <br>_“‘And I have the power to protect you. I am giving you a last chance.’”_ ***---&#65279;LotRIII***{: .fs-3 }  
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

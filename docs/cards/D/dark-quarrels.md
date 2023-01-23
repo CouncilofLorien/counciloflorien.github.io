@@ -25,7 +25,7 @@ permalink: /cards/dark-quarrels/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Cancel one attack by Orcs, Trolls or Men. Alternatively, if Gates of Morning is in play, the number of strikes from any attack is reduced to half its original number, rounded up. <br>_“‘...How do you like being called swine by the muck-rakers of a dirty little wizard?' Many loud yells...answered him...”_ ***---&#65279;LotRIII*** 
+> > Cancel one attack by Orcs, Trolls or Men. Alternatively, if Gates of Morning is in play, the number of strikes from any attack is reduced to half its original number, rounded up. <br>_“‘...How do you like being called swine by the muck-rakers of a dirty little wizard?' Many loud yells...answered him...”_ ***---&#65279;LotRIII***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/dark-quarrels/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Cancel one attack by Orcs, Trolls or Men. Alternatively, if Gates of Morning is in play, the number of strikes from any attack is reduced to half its original number, rounded up. <br>_“‘...How do you like being called swine by the muck-rakers of a dirty little wizard?' Many loud yells...answered him...”_ ***---&#65279;LotRIII*** 
+> > Cancel one attack by Orcs, Trolls or Men. Alternatively, if Gates of Morning is in play, the number of strikes from any attack is reduced to half its original number, rounded up. <br>_“‘...How do you like being called swine by the muck-rakers of a dirty little wizard?' Many loud yells...answered him...”_ ***---&#65279;LotRIII***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/dark-quarrels/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Cancel one attack by Orcs, Trolls or Men. Alternatively, if Gates of Morning is in play, the number of strikes from any attack is reduced to half its original number, rounded up. <br>_“‘...How do you like being called swine by the muck-rakers of a dirty little wizard?' Many loud yells...answered him...”_ ***---&#65279;LotRIII*** 
+> > Cancel one attack by Orcs, Trolls or Men. Alternatively, if Gates of Morning is in play, the number of strikes from any attack is reduced to half its original number, rounded up. <br>_“‘...How do you like being called swine by the muck-rakers of a dirty little wizard?' Many loud yells...answered him...”_ ***---&#65279;LotRIII***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -85,7 +85,7 @@ permalink: /cards/dark-quarrels/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Cancel one attack by Orcs, Trolls or Men. Alternatively, if Gates of Morning is in play, the number of strikes from any attack is reduced to half its original number, rounded up. <br>_“‘...How do you like being called swine by the muck-rakers of a dirty little wizard?' Many loud yells...answered him...”_ ***---&#65279;LotRIII*** 
+> > Cancel one attack by Orcs, Trolls or Men. Alternatively, if Gates of Morning is in play, the number of strikes from any attack is reduced to half its original number, rounded up. <br>_“‘...How do you like being called swine by the muck-rakers of a dirty little wizard?' Many loud yells...answered him...”_ ***---&#65279;LotRIII***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

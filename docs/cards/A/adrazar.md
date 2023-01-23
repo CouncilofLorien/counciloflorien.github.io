@@ -25,7 +25,7 @@ permalink: /cards/adrazar/
 > Scout/Diplomat Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +1 direct influence against all factions. <br>_"He encouraged all men of worth from near or far to enter his service, and to those who proved trustworthy he gave rank and reward."_ ***---&#65279;LotR***  <br><br>**Home Site:** Dol Amroth 
+> > _**Unique.**_ +1 direct influence against all factions. <br>_"He encouraged all men of worth from near or far to enter his service, and to those who proved trustworthy he gave rank and reward."_{: .fs-3 } ***---&#65279;LotR***{: .fs-3 }  <br><br>**Home Site:** Dol Amroth 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【3/6】</div>
@@ -45,7 +45,7 @@ permalink: /cards/adrazar/
 > Scout/Diplomat Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +1 direct influence against all factions. <br>_"He encouraged all men of worth from near or far to enter his service, and to those who proved trustworthy he gave rank and reward."_ ***---&#65279;LotR***  <br><br>**Home Site:** Dol Amroth 
+> > _**Unique.**_ +1 direct influence against all factions. <br>_"He encouraged all men of worth from near or far to enter his service, and to those who proved trustworthy he gave rank and reward."_{: .fs-3 } ***---&#65279;LotR***{: .fs-3 }  <br><br>**Home Site:** Dol Amroth 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【3/6】</div>
@@ -65,7 +65,7 @@ permalink: /cards/adrazar/
 > Scout/Diplomat Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +1 direct influence against all factions. <br>_"He encouraged all men of worth from near or far to enter his service, and to those who proved trustworthy he gave rank and reward."_ ***---&#65279;LotR***  <br><br>**Home Site:** Dol Amroth 
+> > _**Unique.**_ +1 direct influence against all factions. <br>_"He encouraged all men of worth from near or far to enter his service, and to those who proved trustworthy he gave rank and reward."_{: .fs-3 } ***---&#65279;LotR***{: .fs-3 }  <br><br>**Home Site:** Dol Amroth 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【3/6】</div>

@@ -25,7 +25,7 @@ permalink: /cards/sea-serpent/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Drake._ Two strikes. <br>_"The multi-chambered lungs of the neniloki permit them to swim beneath the waves for an hour or more, while their long throats provide them the means to store enough water to spew in devastating blasts of spray."_ ***---&#65279;Kuduk Lore*** 
+> > _Drake._ Two strikes. <br>_"The multi-chambered lungs of the neniloki permit them to swim beneath the waves for an hour or more, while their long throats provide them the means to store enough water to spew in devastating blasts of spray."_{: .fs-3 } ***---&#65279;Kuduk Lore***{: .fs-3 } 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【14/6】</div>

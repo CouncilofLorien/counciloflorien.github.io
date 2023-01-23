@@ -25,7 +25,7 @@ permalink: /cards/twice-baked-cakes/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable only at a Free-hold \[![](/assets/images/free-hold.svg)] or Border-hold \[![](/assets/images/border-hold.svg)]. May also be played if the site is tapped. Discard during the organization phase to allow its bearer's company to play two additional region cards.   <br>_“...twice-baked cakes that would keep good a long time, and on a little which they could march far."_ ***---&#65279;Hob*** 
+> > Playable only at a Free-hold \[![](/assets/images/free-hold.svg)] or Border-hold \[![](/assets/images/border-hold.svg)]. May also be played if the site is tapped. Discard during the organization phase to allow its bearer's company to play two additional region cards.   <br>_“...twice-baked cakes that would keep good a long time, and on a little which they could march far."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

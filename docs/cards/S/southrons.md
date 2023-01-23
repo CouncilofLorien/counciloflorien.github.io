@@ -25,7 +25,7 @@ permalink: /cards/southrons/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Southron Oasis if the influence check is greater than 8.  <br>_Standard Modifications:_ Dunedain (+1), Elves (-2), Dwarves (-2). <br>_"They are fierce...some have red paint on their cheeks, and red cloaks; and their flags are red, and the tips of their spears; and they have round shields, with yellow and black with big spikes."_ ***---&#65279;LotRIV*** 
+> > _**Unique.**_ Playable at Southron Oasis if the influence check is greater than 8.  <br>_Standard Modifications:_ Dunedain (+1), Elves (-2), Dwarves (-2). <br>_"They are fierce...some have red paint on their cheeks, and red cloaks; and their flags are red, and the tips of their spears; and they have round shields, with yellow and black with big spikes."_{: .fs-3 } ***---&#65279;LotRIV***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/southrons/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Southron Oasis if the influence check is greater than 8.  <br>_Standard Modifications:_ Dunedain (+1), Elves (-2), Dwarves (-2). <br>_"They are fierce...some have red paint on their cheeks, and red cloaks; and their flags are red, and the tips of their spears; and they have round shields, with yellow and black with big spikes."_ ***---&#65279;LotRIV*** 
+> > _**Unique.**_ Playable at Southron Oasis if the influence check is greater than 8.  <br>_Standard Modifications:_ Dunedain (+1), Elves (-2), Dwarves (-2). <br>_"They are fierce...some have red paint on their cheeks, and red cloaks; and their flags are red, and the tips of their spears; and they have round shields, with yellow and black with big spikes."_{: .fs-3 } ***---&#65279;LotRIV***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/southrons/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Manifestation of hero Southrons. Playable at Southron Oasis if the influence check is greater than 8.  <br>_Standard Modifications:_ Haradrim (+2), Asdriags (-2). <br>_“...by burned homestead or barn, upon hillock or mound, under wall or on field, still they gathered and rallied and fought until they day wore away."_ ***---&#65279;LotRV***  
+> > _**Unique.**_ Manifestation of hero Southrons. Playable at Southron Oasis if the influence check is greater than 8.  <br>_Standard Modifications:_ Haradrim (+2), Asdriags (-2). <br>_“...by burned homestead or barn, upon hillock or mound, under wall or on field, still they gathered and rallied and fought until they day wore away."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 }  
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -85,7 +85,7 @@ permalink: /cards/southrons/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Manifestation of hero Southrons. Playable at Southron Oasis if the influence check is greater than 8.  <br>_Standard Modifications:_ Haradrim (+2), Asdriags (-2). <br>_“...by burned homestead or barn, upon hillock or mound, under wall or on field, still they gathered and rallied and fought until they day wore away."_ ***---&#65279;LotRV***  
+> > _**Unique.**_ Manifestation of hero Southrons. Playable at Southron Oasis if the influence check is greater than 8.  <br>_Standard Modifications:_ Haradrim (+2), Asdriags (-2). <br>_“...by burned homestead or barn, upon hillock or mound, under wall or on field, still they gathered and rallied and fought until they day wore away."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 }  
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

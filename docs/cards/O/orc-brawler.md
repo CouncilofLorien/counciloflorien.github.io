@@ -25,7 +25,7 @@ permalink: /cards/orc-brawler/
 > Warrior Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > Discard on a body check result of 7 or 8. -1 to all corruption checks. <br>_“...long-armed crook-legged Orcs."_ ***---&#65279;LotRIII***  <br><br>**Home Site:** Any Dark-hold 
+> > Discard on a body check result of 7 or 8. -1 to all corruption checks. <br>_“...long-armed crook-legged Orcs."_{: .fs-3 } ***---&#65279;LotRIII***{: .fs-3 }  <br><br>**Home Site:** Any Dark-hold 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【3/8】</div>
@@ -45,7 +45,7 @@ permalink: /cards/orc-brawler/
 > Warrior Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > Discard on a body check result of 7 or 8. -1 to all corruption checks. <br>_“...long-armed crook-legged Orcs."_ ***---&#65279;LotRIII***  <br><br>**Home Site:** Any Dark-hold 
+> > Discard on a body check result of 7 or 8. -1 to all corruption checks. <br>_“...long-armed crook-legged Orcs."_{: .fs-3 } ***---&#65279;LotRIII***{: .fs-3 }  <br><br>**Home Site:** Any Dark-hold 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【3/8】</div>

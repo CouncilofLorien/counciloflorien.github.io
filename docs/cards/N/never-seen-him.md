@@ -25,7 +25,7 @@ permalink: /cards/never-seen-him/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on an agent. Target agent may take an extra agent action (which does  not count against the hazard limit each time he normally takes an agent action. Cannot be duplicated on a given agent. <br>_“‘We've never seen him, but he's up at Bag End; and he's the real chief now, I guess.’”_ ***---&#65279;LotRVI*** 
+> > Playable on an agent. Target agent may take an extra agent action (which does  not count against the hazard limit each time he normally takes an agent action. Cannot be duplicated on a given agent. <br>_“‘We've never seen him, but he's up at Bag End; and he's the real chief now, I guess.’”_ ***---&#65279;LotRVI***{: .fs-3 } 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

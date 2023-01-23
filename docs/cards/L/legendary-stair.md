@@ -25,7 +25,7 @@ permalink: /cards/legendary-stair/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > During the organization phase, reveal the new site of a company planning to move whose site of origin is untapped. This card is playable if the company's new site is an Under-deeps site. At the end of the turn, the company may replace its new site with its site of origin card. <br>_“‘...Many have said that it was never made save in legend...’”_ ***---&#65279;LotRIII*** 
+> > During the organization phase, reveal the new site of a company planning to move whose site of origin is untapped. This card is playable if the company's new site is an Under-deeps site. At the end of the turn, the company may replace its new site with its site of origin card. <br>_“‘...Many have said that it was never made save in legend...’”_ ***---&#65279;LotRIII***{: .fs-3 } 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

@@ -25,7 +25,7 @@ permalink: /cards/tros-hesnef/
 > Warrior Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ +1 direct influence against any faction playable at Easterling camp. -1 to all corruption checks. <br>_"Exiled with his family at the age of fifteen, he returned a year later and assassinated the High Chieftain Pos Ari. This slaying spawned a reign of sorrow and bloodshed."_ ***---&#65279;Kuduk Lore***  <br><br>**Home Site:** Easterling Camp 
+> > _**Unique.**_ +1 direct influence against any faction playable at Easterling camp. -1 to all corruption checks. <br>_"Exiled with his family at the age of fifteen, he returned a year later and assassinated the High Chieftain Pos Ari. This slaying spawned a reign of sorrow and bloodshed."_{: .fs-3 } ***---&#65279;Kuduk Lore***{: .fs-3 }  <br><br>**Home Site:** Easterling Camp 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【5/7】</div>
@@ -45,7 +45,7 @@ permalink: /cards/tros-hesnef/
 > Warrior Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ +1 direct influence against any faction playable at Easterling camp. -1 to all corruption checks. <br>_"Exiled with his family at the age of fifteen, he returned a year later and assassinated the High Chieftain Pos Ari. This slaying spawned a reign of sorrow and bloodshed."_ ***---&#65279;Kuduk Lore***  <br><br>**Home Site:** Easterling Camp 
+> > _**Unique.**_ +1 direct influence against any faction playable at Easterling camp. -1 to all corruption checks. <br>_"Exiled with his family at the age of fifteen, he returned a year later and assassinated the High Chieftain Pos Ari. This slaying spawned a reign of sorrow and bloodshed."_{: .fs-3 } ***---&#65279;Kuduk Lore***{: .fs-3 }  <br><br>**Home Site:** Easterling Camp 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【5/7】</div>

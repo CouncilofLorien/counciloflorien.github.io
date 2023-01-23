@@ -25,7 +25,7 @@ permalink: /cards/asternak/
 > Warrior/Diplomat Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against any faction playable at Variag Camp. <br>_“‘Killer and slave-trader, Asternak knew all the roads and ways in both Khand and Nurn.’”_ ***---&#65279;Kuduk Lore***  <br><br>**Home Site:** Variag Camp 
+> > _**Unique.**_ +2 direct influence against any faction playable at Variag Camp. <br>_“‘Killer and slave-trader, Asternak knew all the roads and ways in both Khand and Nurn.’”_ ***---&#65279;Kuduk Lore***{: .fs-3 }  <br><br>**Home Site:** Variag Camp 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【5/7】</div>
@@ -45,7 +45,7 @@ permalink: /cards/asternak/
 > Warrior/Diplomat Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against any faction playable at Variag Camp. <br>_“‘Killer and slave-trader, Asternak knew all the roads and ways in both Khand and Nurn.’”_ ***---&#65279;Kuduk Lore***  <br><br>**Home Site:** Variag Camp 
+> > _**Unique.**_ +2 direct influence against any faction playable at Variag Camp. <br>_“‘Killer and slave-trader, Asternak knew all the roads and ways in both Khand and Nurn.’”_ ***---&#65279;Kuduk Lore***{: .fs-3 }  <br><br>**Home Site:** Variag Camp 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【5/7】</div>

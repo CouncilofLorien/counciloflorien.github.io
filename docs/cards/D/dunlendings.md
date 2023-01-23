@@ -25,7 +25,7 @@ permalink: /cards/dunlendings/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Dunnish Clan-Hold if the influence check is greater than 9. <br>_Standard Modifications:_ Men (-1), Dunadain (-1), Dwarves (-1). <br>_“...in the hills of Dunland a remnant lingered of an old people, the former inhabitants of much of Gondor."_ ***---&#65279;LotR*** 
+> > _**Unique.**_ Playable at Dunnish Clan-Hold if the influence check is greater than 9. <br>_Standard Modifications:_ Men (-1), Dunadain (-1), Dwarves (-1). <br>_“...in the hills of Dunland a remnant lingered of an old people, the former inhabitants of much of Gondor."_{: .fs-3 } ***---&#65279;LotR***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/dunlendings/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Dunnish Clan-Hold if the influence check is greater than 9. <br>_Standard Modifications:_ Men (-1), Dunadain (-1), Dwarves (-1). <br>_“...in the hills of Dunland a remnant lingered of an old people, the former inhabitants of much of Gondor."_ ***---&#65279;LotR*** 
+> > _**Unique.**_ Playable at Dunnish Clan-Hold if the influence check is greater than 9. <br>_Standard Modifications:_ Men (-1), Dunadain (-1), Dwarves (-1). <br>_“...in the hills of Dunland a remnant lingered of an old people, the former inhabitants of much of Gondor."_{: .fs-3 } ***---&#65279;LotR***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/dunlendings/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Dunnish Clan-Hold if the influence check is greater than 9. <br>_Standard Modifications:_ Men (-1), Dunadain (-1), Dwarves (-1). <br>_“...in the hills of Dunland a remnant lingered of an old people, the former inhabitants of much of Gondor."_ ***---&#65279;LotR*** 
+> > _**Unique.**_ Playable at Dunnish Clan-Hold if the influence check is greater than 9. <br>_Standard Modifications:_ Men (-1), Dunadain (-1), Dwarves (-1). <br>_“...in the hills of Dunland a remnant lingered of an old people, the former inhabitants of much of Gondor."_{: .fs-3 } ***---&#65279;LotR***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -85,7 +85,7 @@ permalink: /cards/dunlendings/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Manifestation of hero Dunlendings. Playable at Dunnish Clan-hold if the influence check is greater than 9.  <br>_Standard Modifications:_ Hillmen (+2). <br>_"Brazen trumpets sounded...There...were mustered...the wild men of the Dunland fells."_ ***---&#65279;LotRIII*** 
+> > _**Unique.**_ Manifestation of hero Dunlendings. Playable at Dunnish Clan-hold if the influence check is greater than 9.  <br>_Standard Modifications:_ Hillmen (+2). <br>_"Brazen trumpets sounded...There...were mustered...the wild men of the Dunland fells."_{: .fs-3 } ***---&#65279;LotRIII***{: .fs-3 } 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

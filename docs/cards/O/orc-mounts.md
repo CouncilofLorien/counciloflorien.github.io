@@ -25,7 +25,7 @@ permalink: /cards/orc-mounts/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable during the organization phase on a moving overt company. The hazard limit against the company increases by two and the prowess of any hazard creatures played against it this turn is modified by -1. Cannot be duplicated on a given company. <br>_“‘...the swiftest wolf-riders, and already their cries and howls rent the air afar.’”_ ***---&#65279;Hob*** 
+> > Playable during the organization phase on a moving overt company. The hazard limit against the company increases by two and the prowess of any hazard creatures played against it this turn is modified by -1. Cannot be duplicated on a given company. <br>_“‘...the swiftest wolf-riders, and already their cries and howls rent the air afar.’”_ ***---&#65279;Hob***{: .fs-3 } 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

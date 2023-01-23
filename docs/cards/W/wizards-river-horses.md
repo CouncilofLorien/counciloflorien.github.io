@@ -25,7 +25,7 @@ permalink: /cards/wizards-river-horses/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Spell._ _Wizard only._ All Nazgul events are discarded or cancels an attack against a Wizard if he is the only character in the company. Wizard makes a corruption check modified by -2. <br>_“‘...some of the waves took the form of great white horses with shining white riders; and there were many rolling and grinding boulders.’”_ ***---&#65279;LotRI*** 
+> > _Spell._ _Wizard only._ All Nazgul events are discarded or cancels an attack against a Wizard if he is the only character in the company. Wizard makes a corruption check modified by -2. <br>_“‘...some of the waves took the form of great white horses with shining white riders; and there were many rolling and grinding boulders.’”_ ***---&#65279;LotRI***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/wizards-river-horses/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Spell._ _Wizard only._ All Nazgul events are discarded or cancels an attack against a Wizard if he is the only character in the company. Wizard makes a corruption check modified by -2. <br>_“‘...some of the waves took the form of great white horses with shining white riders; and there were many rolling and grinding boulders.’”_ ***---&#65279;LotRI*** 
+> > _Spell._ _Wizard only._ All Nazgul events are discarded or cancels an attack against a Wizard if he is the only character in the company. Wizard makes a corruption check modified by -2. <br>_“‘...some of the waves took the form of great white horses with shining white riders; and there were many rolling and grinding boulders.’”_ ***---&#65279;LotRI***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

@@ -25,7 +25,7 @@ permalink: /cards/roac-the-raven/
 > Diplomat Ally
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at any site in Northern Rhovanion.  Tap and discard to attempt to bring any faction into play - treat this influence check as though it were made by a diplomat. <br>_“‘Now I am chief of the great ravens of the Mountain. We are few, but we remember still the king that was of old.’”_ ***---&#65279;Hob*** 
+> > _**Unique.**_ _**Playable at any site in Northern Rhovanion.**_  <br>Tap and discard to attempt to bring any faction into play---no modifications to the influence check are required. <br>_“‘Now I am chief of the great ravens of the Mountain. We are few, but we remember still the king that was of old.’”_ ***---&#65279;Hob***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【-3/8】</div>
@@ -45,7 +45,7 @@ permalink: /cards/roac-the-raven/
 > Diplomat Ally
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at any site in Northern Rhovanion.  Tap and discard to attempt to bring any faction into play - treat this influence check as though it were made by a diplomat. <br>_“‘Now I am chief of the great ravens of the Mountain. We are few, but we remember still the king that was of old.’”_ ***---&#65279;Hob*** 
+> > _**Unique.**_ _**Playable at any site in Northern Rhovanion.**_  <br>Tap and discard to attempt to bring any faction into play---treat this influence check as though it were made by a diplomat. <br>_“‘Now I am chief of the great ravens of the Mountain. We are few, but we remember still the king that was of old.’”_ ***---&#65279;Hob***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【-3/8】</div>

@@ -25,7 +25,7 @@ permalink: /cards/beregond/
 > Warrior Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ -1 to all of his corruption checks. -1 to influence checks against factions. <br>_“...Beregond laughed, 'I am no captain. ...being but a plain man of arms of the Third Company of the Citadel...to be only a man of arms of the Guard...is held worthy in the city, and such men have honour...’”_ ***---&#65279;LotRV***  <br><br>**Home Site:** Minas Tirith 
+> > _**Unique.**_ -1 to all of his corruption checks. -1 to influence checks against factions. <br>_“...Beregond laughed, 'I am no captain. ...being but a plain man of arms of the Third Company of the Citadel...to be only a man of arms of the Guard...is held worthy in the city, and such men have honour...’”_ ***---&#65279;LotRV***{: .fs-3 }  <br><br>**Home Site:** Minas Tirith 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【4/8】</div>
@@ -45,7 +45,7 @@ permalink: /cards/beregond/
 > Warrior Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ -1 to all of his corruption checks. -1 to influence checks against factions. <br>_“...Beregond laughed, 'I am no captain. ...being but a plain man of arms of the Third Company of the Citadel...to be only a man of arms of the Guard...is held worthy in the city, and such men have honour...’”_ ***---&#65279;LotRV***  <br><br>**Home Site:** Minas Tirith 
+> > _**Unique.**_ -1 to all of his corruption checks. -1 to influence checks against factions. <br>_“...Beregond laughed, 'I am no captain. ...being but a plain man of arms of the Third Company of the Citadel...to be only a man of arms of the Guard...is held worthy in the city, and such men have honour...’”_ ***---&#65279;LotRV***{: .fs-3 }  <br><br>**Home Site:** Minas Tirith 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【4/8】</div>
@@ -65,7 +65,7 @@ permalink: /cards/beregond/
 > Warrior Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ -1 to all of his corruption checks. -1 to influence checks against factions. <br>_“...Beregond laughed, 'I am no captain. ...being but a plain man of arms of the Third Company of the Citadel...to be only a man of arms of the Guard...is held worthy in the city, and such men have honour...’”_ ***---&#65279;LotRV***  <br><br>**Home Site:** Minas Tirith 
+> > _**Unique.**_ -1 to all of his corruption checks. -1 to influence checks against factions. <br>_“...Beregond laughed, 'I am no captain. ...being but a plain man of arms of the Third Company of the Citadel...to be only a man of arms of the Guard...is held worthy in the city, and such men have honour...’”_ ***---&#65279;LotRV***{: .fs-3 }  <br><br>**Home Site:** Minas Tirith 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【4/8】</div>

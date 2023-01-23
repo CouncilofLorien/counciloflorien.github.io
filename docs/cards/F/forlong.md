@@ -25,7 +25,7 @@ permalink: /cards/forlong/
 > Warrior Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ -1 to all of his corruption checks. -1 to influence checks against factions. <br>_"Leading the line there came walking a big thick-limbed horse, and on it sat a man of wide shoulders and huge girth, but old and grey-bearded, yet mail-clad and black-helmed and bearing a long heavy spear."_ ***---&#65279;LotRV***  <br><br>**Home Site:** Minas Tirith 
+> > _**Unique.**_ -1 to all of his corruption checks. <br>-1 to influence checks against factions. <br>_"Leading the line there came walking a big thick-limbed horse, and on it sat a man of wide shoulders and huge girth, but old and grey-bearded, yet mail-clad and black-helmed and bearing a long heavy spear."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 }  <br><br>**Home Site:** Minas Tirith 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【3/7】</div>
@@ -45,7 +45,7 @@ permalink: /cards/forlong/
 > Warrior Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ -1 to all of his corruption checks. -1 to influence checks against factions. <br>_"Leading the line there came walking a big thick-limbed horse, and on it sat a man of wide shoulders and huge girth, but old and grey-bearded, yet mail-clad and black-helmed and bearing a long heavy spear."_ ***---&#65279;LotRV***  <br><br>**Home Site:** Minas Tirith 
+> > _**Unique.**_ -1 to all of his corruption checks. <br>-1 to influence checks against factions. <br>_"Leading the line there came walking a big thick-limbed horse, and on it sat a man of wide shoulders and huge girth, but old and grey-bearded, yet mail-clad and black-helmed and bearing a long heavy spear."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 }  <br><br>**Home Site:** Minas Tirith 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【3/7】</div>
@@ -65,7 +65,7 @@ permalink: /cards/forlong/
 > Warrior Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ -1 to all of his corruption checks. -1 to influence checks against factions. <br>_"Leading the line there came walking a big thick-limbed horse, and on it sat a man of wide shoulders and huge girth, but old and grey-bearded, yet mail-clad and black-helmed and bearing a long heavy spear."_ ***---&#65279;LotRV***  <br><br>**Home Site:** Minas Tirith 
+> > _**Unique.**_ -1 to all of his corruption checks. <br>-1 to influence checks against factions. <br>_"Leading the line there came walking a big thick-limbed horse, and on it sat a man of wide shoulders and huge girth, but old and grey-bearded, yet mail-clad and black-helmed and bearing a long heavy spear."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 }  <br><br>**Home Site:** Minas Tirith 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【3/7】</div>

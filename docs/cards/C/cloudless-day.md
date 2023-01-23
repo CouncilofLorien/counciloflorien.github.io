@@ -25,7 +25,7 @@ permalink: /cards/cloudless-day/
 > Long-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Environment._ Playable only if Gates of Morning is in play. Whenever a company faces a hazard creature attack, the defender may choose which characters in the company will be the targets of the attack's strikes (regardless of tapped status, wounded status, and the normal abilities of the attack).   <br>_“...they watched the dawn grow slowly in the sky, now bare and cloudless...”_ ***---&#65279;LotRIII*** 
+> > _Environment._ Playable only if Gates of Morning is in play. Whenever a company faces a hazard creature attack, the defender may choose which characters in the company will be the targets of the attack's strikes (regardless of tapped status, wounded status, and the normal abilities of the attack).   <br>_“...they watched the dawn grow slowly in the sky, now bare and cloudless...”_ ***---&#65279;LotRIII***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

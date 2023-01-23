@@ -25,7 +25,7 @@ permalink: /cards/dragon-feuds/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable during the organization phase. For the rest of the turn, you may discard a Dragon or Drake hazard creature from your hand to cancel a Dragon or Drake attack against any of your companies.   <br>_“‘...There were lots of dragons in the North in those days, and gold was probably getting scarce up there...’”_ ***---&#65279;Hob*** 
+> > Playable during the organization phase. For the rest of the turn, you may discard a Dragon or Drake hazard creature from your hand to cancel a Dragon or Drake attack against any of your companies.   <br>_“‘...There were lots of dragons in the North in those days, and gold was probably getting scarce up there...’”_ ***---&#65279;Hob***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

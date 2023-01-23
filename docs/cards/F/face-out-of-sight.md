@@ -25,7 +25,7 @@ permalink: /cards/face-out-of-sight/
 > Long-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > All on-guard cards are returned to owner's hands. At the end of any turn, all wounded agents and tapped agents are returned to their owner's hand. Cannot be duplicated. <br>_"With a sudden flick, quick as lightning, an apple left his hand and hit Bill square in the nose. He ducked too late, and curses came from behind the hedge."_ ***---&#65279;LotRI***  
+> > All on-guard cards are returned to owner's hands. At the end of any turn, all wounded agents and tapped agents are returned to their owner's hand. Cannot be duplicated. <br>_"With a sudden flick, quick as lightning, an apple left his hand and hit Bill square in the nose. He ducked too late, and curses came from behind the hedge."_{: .fs-3 } ***---&#65279;LotRI***{: .fs-3 }  
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

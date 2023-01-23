@@ -25,7 +25,7 @@ permalink: /cards/woodmen-town/
 > Western Mirkwood
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien  <br>_“...all the wide forest between was given to the Beornings and the Woodmen."_ ***---&#65279;LotR*** 
+> > _**Nearest Haven:**_ Lorien  <br>_“...all the wide forest between was given to the Beornings and the Woodmen."_{: .fs-3 } ***---&#65279;LotR***{: .fs-3 } 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/woodmen-town/
 > Western Mirkwood
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien  <br>_“...all the wide forest between was given to the Beornings and the Woodmen."_ ***---&#65279;LotR*** 
+> > _**Nearest Haven:**_ Lorien  <br>_“...all the wide forest between was given to the Beornings and the Woodmen."_{: .fs-3 } ***---&#65279;LotR***{: .fs-3 } 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/woodmen-town/
 > Western Mirkwood
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 6 prowess (detainment against covert company)  <br>_"Most of the Men of the northern regions of the Westlands were descended from the Edain of the First age, or their close kin. ...Of this kind were...the Woodmen of Western Mirkwood."_ ***---&#65279;LotR*** 
+> > Nearest Darkhaven: Dol Guldur <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 6 prowess (detainment against covert company)  <br>_"Most of the Men of the northern regions of the Westlands were descended from the Edain of the First age, or their close kin. ...Of this kind were...the Woodmen of Western Mirkwood."_{: .fs-3 } ***---&#65279;LotR***{: .fs-3 } 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>

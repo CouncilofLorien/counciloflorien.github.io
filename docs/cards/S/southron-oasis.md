@@ -25,7 +25,7 @@ permalink: /cards/southron-oasis/
 > Harondor
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Edhellond  <br>_“...his chief peril lay in the south, where the Haradrim had occupied South Gondor, and there was much fighting in along the Poros."_ ***---&#65279;LotR*** 
+> > _**Nearest Haven:**_ Edhellond  <br>_“...his chief peril lay in the south, where the Haradrim had occupied South Gondor, and there was much fighting in along the Poros."_{: .fs-3 } ***---&#65279;LotR***{: .fs-3 } 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/southron-oasis/
 > Harondor
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Edhellond  <br>_“...his chief peril lay in the south, where the Haradrim had occupied South Gondor, and there was much fighting in along the Poros."_ ***---&#65279;LotR*** 
+> > _**Nearest Haven:**_ Edhellond  <br>_“...his chief peril lay in the south, where the Haradrim had occupied South Gondor, and there was much fighting in along the Poros."_{: .fs-3 } ***---&#65279;LotR***{: .fs-3 } 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/southron-oasis/
 > Harondor
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Minas Morgul <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 5 prowess (detainment against covert company)  <br>_“‘...curse the Southrons! ...'Tis said that there were dealings of old between Gondor and the kingdoms of Harad...though there was never friendship’”_ ***---&#65279;LotR*** 
+> > Nearest Darkhaven: Minas Morgul <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 5 prowess (detainment against covert company)  <br>_“‘...curse the Southrons! ...'Tis said that there were dealings of old between Gondor and the kingdoms of Harad...though there was never friendship’”_ ***---&#65279;LotR***{: .fs-3 } 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/southron-oasis/
 > Harondor
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Minas Morgul <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 5 prowess (detainment against covert company)  <br>_“‘...curse the Southrons! ...'Tis said that there were dealings of old between Gondor and the kingdoms of Harad...though there was never friendship’”_ ***---&#65279;LotR*** 
+> > Nearest Darkhaven: Minas Morgul <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 5 prowess (detainment against covert company)  <br>_“‘...curse the Southrons! ...'Tis said that there were dealings of old between Gondor and the kingdoms of Harad...though there was never friendship’”_ ***---&#65279;LotR***{: .fs-3 } 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

@@ -25,7 +25,7 @@ permalink: /cards/steeds/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable during the organization phase on a moving covert company. The hazard limit is decreased by two (to a minimum of 2). The prowess of any hazard creatures played against the company this turn is modified by +1. <br>_“‘...they carry off what they can, choosing always the black horses...’”_ ***---&#65279;LotRIII*** 
+> > Playable during the organization phase on a moving covert company. The hazard limit is decreased by two (to a minimum of 2). The prowess of any hazard creatures played against the company this turn is modified by +1. <br>_“‘...they carry off what they can, choosing always the black horses...’”_ ***---&#65279;LotRIII***{: .fs-3 } 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

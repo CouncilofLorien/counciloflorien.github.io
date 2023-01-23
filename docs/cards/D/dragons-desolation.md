@@ -25,7 +25,7 @@ permalink: /cards/dragons-desolation/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The prowess of one Dragon attack is modified by +2. Alternatively, it may be played on a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] site that has two Wildernesses in its site path (only one Wilderness is required if Doors of Night is in play)-one Dragon hazard creature may be played on a company at that site this turn. <br>_“...there was neither bush nor tree, and only broken and blackened stumps...”_ ***---&#65279;Hob*** 
+> > The prowess of one Dragon attack is modified by +2. Alternatively, it may be played on a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] site that has two Wildernesses in its site path (only one Wilderness is required if Doors of Night is in play)-one Dragon hazard creature may be played on a company at that site this turn. <br>_“...there was neither bush nor tree, and only broken and blackened stumps...”_ ***---&#65279;Hob***{: .fs-3 } 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/dragons-desolation/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The prowess of one Dragon attack is modified by +2. Alternatively, it may be played on a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] site that has two Wildernesses in its site path (only one Wilderness is required if Doors of Night is in play)-one Dragon hazard creature may be played on a company at that site this turn. <br>_“...there was neither bush nor tree, and only broken and blackened stumps...”_ ***---&#65279;Hob*** 
+> > The prowess of one Dragon attack is modified by +2. Alternatively, it may be played on a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] site that has two Wildernesses in its site path (only one Wilderness is required if Doors of Night is in play)-one Dragon hazard creature may be played on a company at that site this turn. <br>_“...there was neither bush nor tree, and only broken and blackened stumps...”_ ***---&#65279;Hob***{: .fs-3 } 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

@@ -25,7 +25,7 @@ permalink: /cards/cunning-foes/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Tap a warrior agent at target company's new site. Agent attacks (not counting against the hazard limit) with a +3 modification to his prowess during the movement/hazard phase. Attacker chooses defending characters. <br>_"At that moment there was a twang of bowstrings: several arrows whistled over them, and some fell among them...”_ ***---&#65279;LotRII*** 
+> > Tap a warrior agent at target company's new site. Agent attacks (not counting against the hazard limit) with a +3 modification to his prowess during the movement/hazard phase. Attacker chooses defending characters. <br>_"At that moment there was a twang of bowstrings: several arrows whistled over them, and some fell among them...”_ ***---&#65279;LotRII***{: .fs-3 } 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

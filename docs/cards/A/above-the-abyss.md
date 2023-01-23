@@ -25,7 +25,7 @@ permalink: /cards/above-the-abyss/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable on a tapped non-Ringwraith character if your opponent is a Wizard and Ringwraith is in play. Untap target character. <br>_“...in the dark they could not see a descent, until they came on it and put their feet out into emptiness."_ ***---&#65279;LotRII*** 
+> > Playable on a tapped non-Ringwraith character if your opponent is a Wizard and Ringwraith is in play. Untap target character. <br>_“...in the dark they could not see a descent, until they came on it and put their feet out into emptiness."_{: .fs-3 } ***---&#65279;LotRII***{: .fs-3 } 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/above-the-abyss/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable on a tapped non-Ringwraith character if your opponent is a Wizard and Ringwraith is in play. Untap target character. <br>_“...in the dark they could not see a descent, until they came on it and put their feet out into emptiness."_ ***---&#65279;LotRII*** 
+> > Playable on a tapped non-Ringwraith character if your opponent is a Wizard and Ringwraith is in play. Untap target character. <br>_“...in the dark they could not see a descent, until they came on it and put their feet out into emptiness."_{: .fs-3 } ***---&#65279;LotRII***{: .fs-3 } 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

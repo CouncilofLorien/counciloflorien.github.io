@@ -25,7 +25,7 @@ permalink: /cards/velocity-of-haste/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > A Dragon attack receives one additional strike (with no body). Alternatively an attack from a manifestation of Scorba receives two additional strikes (each with no body). <br>_“...so great was his speed, they could see him as a spark of fire rushing towards them and growing ever huger and more bright."_ ***---&#65279;Hob*** 
+> > A Dragon attack receives one additional strike (with no body). Alternatively an attack from a manifestation of Scorba receives two additional strikes (each with no body). <br>_“...so great was his speed, they could see him as a spark of fire rushing towards them and growing ever huger and more bright."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

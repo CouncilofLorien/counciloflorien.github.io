@@ -25,7 +25,7 @@ permalink: /cards/tempering-friendship/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > +4 to an influence attempt against a faction.  <br>_"They had not been riding very long when up came Gandalf very splendid on a white horse. He had brought a lot of pocket-handkerchiefs, and Bilbo's pipe and tobacco."_ ***---&#65279;Hob***
+> > +4 to an influence attempt against a faction.  <br>_"They had not been riding very long when up came Gandalf very splendid on a white horse. He had brought a lot of pocket-handkerchiefs, and Bilbo's pipe and tobacco."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 }
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/tempering-friendship/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > +4 to an influence attempt against a faction.  <br>_"They had not been riding very long when up came Gandalf very splendid on a white horse. He had brought a lot of pocket-handkerchiefs, and Bilbo's pipe and tobacco."_ ***---&#65279;Hob***
+> > +4 to an influence attempt against a faction.  <br>_"They had not been riding very long when up came Gandalf very splendid on a white horse. He had brought a lot of pocket-handkerchiefs, and Bilbo's pipe and tobacco."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 }
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/tempering-friendship/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > +4 to an influence attempt against a faction.  <br> _"They had not been riding very long when up came Gandalf very splendid on a white horse. He had brought a lot of pocket-handkerchiefs, and Bilbo's pipe and tobacco."_ ***---&#65279;Hob***
+> > +4 to an influence attempt against a faction.  <br> _"They had not been riding very long when up came Gandalf very splendid on a white horse. He had brought a lot of pocket-handkerchiefs, and Bilbo's pipe and tobacco."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 }
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

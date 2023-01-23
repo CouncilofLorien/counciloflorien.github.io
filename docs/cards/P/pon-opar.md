@@ -25,7 +25,7 @@ permalink: /cards/pon-opar/
 > Warrior/Ranger/Sage Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against any faction playable at Southron Oasis. <br>_"Horse-tamer and Horse-slayer, Chieftain of the Gusar, he knew the hidden waters beneath the earth better than anyone in Far Harad."_ ***---&#65279;Kuduk Lore***  <br><br>**Home Site:** Southron Oasis 
+> > _**Unique.**_ +2 direct influence against any faction playable at Southron Oasis. <br>_"Horse-tamer and Horse-slayer, Chieftain of the Gusar, he knew the hidden waters beneath the earth better than anyone in Far Harad."_{: .fs-3 } ***---&#65279;Kuduk Lore***{: .fs-3 }  <br><br>**Home Site:** Southron Oasis 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【5/8】</div>

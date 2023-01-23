@@ -25,7 +25,7 @@ permalink: /cards/lure-of-power/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The next non ---&#65279;Hobbit character to make a successful influence attempt (e.g., against a faction, an opponent's character, etc.) must immediately make a corruption check modified by -4. Discard this card after the corruption check.   <br>_“‘But we must have power, power to order all things as we will...’”_ ***---&#65279;LotRII*** 
+> > The next non ---&#65279;Hobbit character to make a successful influence attempt (e.g., against a faction, an opponent's character, etc.) must immediately make a corruption check modified by -4. Discard this card after the corruption check.   <br>_“‘But we must have power, power to order all things as we will...’”_ ***---&#65279;LotRII***{: .fs-3 } 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/lure-of-power/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The next non ---&#65279;Hobbit character to make a successful influence attempt (e.g., against a faction, an opponent's character, etc.) must immediately make a corruption check modified by -4. Discard this card after the corruption check.   <br>_“‘But we must have power, power to order all things as we will...’”_ ***---&#65279;LotRII*** 
+> > The next non ---&#65279;Hobbit character to make a successful influence attempt (e.g., against a faction, an opponent's character, etc.) must immediately make a corruption check modified by -4. Discard this card after the corruption check.   <br>_“‘But we must have power, power to order all things as we will...’”_ ***---&#65279;LotRII***{: .fs-3 } 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

@@ -25,7 +25,7 @@ permalink: /cards/magic-ring-of-courage/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Magic Ring._ Playable only with a Gold Ring and after a test indicates a _Magic Ring._ Gives the bearer warrior skill. If the bearer is already a warrior, he gets +2 prowess. May no be duplicated on a given character. <br>_"For once more lust of battle was on him...he was young, and he was king...”_ ***---&#65279;LotRV*** 
+> > _Magic Ring._ Playable only with a Gold Ring and after a test indicates a _Magic Ring._ Gives the bearer warrior skill. If the bearer is already a warrior, he gets +2 prowess. May no be duplicated on a given character. <br>_"For once more lust of battle was on him...he was young, and he was king...”_ ***---&#65279;LotRV***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【(+2)/&ndash;】</div>
@@ -45,7 +45,7 @@ permalink: /cards/magic-ring-of-courage/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Magic Ring._ Playable only with a Gold Ring and after a test indicates a _Magic Ring._ Gives the bearer warrior skill. If the bearer is already a warrior, he gets +2 prowess. May no be duplicated on a given character. <br>_"For once more lust of battle was on him...he was young, and he was king...”_ ***---&#65279;LotRV*** 
+> > _Magic Ring._ Playable only with a Gold Ring and after a test indicates a _Magic Ring._ Gives the bearer warrior skill. If the bearer is already a warrior, he gets +2 prowess. May no be duplicated on a given character. <br>_"For once more lust of battle was on him...he was young, and he was king...”_ ***---&#65279;LotRV***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【(+2)/&ndash;】</div>

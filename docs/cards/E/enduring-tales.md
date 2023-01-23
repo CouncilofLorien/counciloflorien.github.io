@@ -25,7 +25,7 @@ permalink: /cards/enduring-tales/
 > Long-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > When any player discards a card from his hand, he may discard it to the top of his play deck (and always face down) instead of to his discard pile.   <br>_“‘Then tell us some other tale of the old days,' begged Sam; 'a tale about the Elves before the fading time...’”_ ***---&#65279;LotRI***  
+> > When any player discards a card from his hand, he may discard it to the top of his play deck (and always face down) instead of to his discard pile.   <br>_“‘Then tell us some other tale of the old days,' begged Sam; 'a tale about the Elves before the fading time...’”_ ***---&#65279;LotRI***{: .fs-3 }  
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

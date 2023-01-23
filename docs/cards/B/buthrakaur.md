@@ -25,7 +25,7 @@ permalink: /cards/buthrakaur/
 > Warrior/Scout/Ranger Troll
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ _Balrog specific._ _Leader._ Manifestation of Buthrakaur the Green. Discard on a body check result of 9. +3 direct influence against Trolls, Orcs, Troll factions, and Orc factions. +3 direct influence against Balrog specific characters. <br>_"A huge arm and shoulder, with a dark skin of greenish scales, was thrust through the widening gap."_ ***---&#65279;LotRII***  <br><br>**Home Site:** Moria, The Under-gates 
+> > _**Unique.**_ _Balrog specific._ _Leader._ Manifestation of Buthrakaur the Green. Discard on a body check result of 9. +3 direct influence against Trolls, Orcs, Troll factions, and Orc factions. +3 direct influence against Balrog specific characters. <br>_"A huge arm and shoulder, with a dark skin of greenish scales, was thrust through the widening gap."_{: .fs-3 } ***---&#65279;LotRII***{: .fs-3 }  <br><br>**Home Site:** Moria, The Under-gates 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【8/9】</div>

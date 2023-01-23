@@ -25,7 +25,7 @@ permalink: /cards/cirith-ungol/
 > Imlad Morgul
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Orcs - 4 strike with 7 prowess  <br>_“...three great tiers...jutted out in pointed bastions, one above the other, diminishing as they rose, with sheer sides of cunning masonry...”_ ***---&#65279;LotRVI*** 
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Orcs - 4 strike with 7 prowess  <br>_“...three great tiers...jutted out in pointed bastions, one above the other, diminishing as they rose, with sheer sides of cunning masonry...”_ ***---&#65279;LotRVI***{: .fs-3 } 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;3&ensp;</span><span class="hero-opp-draw">&ensp;4&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/cirith-ungol/
 > Imlad Morgul
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Orcs - 4 strike with 7 prowess  <br>_“...three great tiers...jutted out in pointed bastions, one above the other, diminishing as they rose, with sheer sides of cunning masonry...”_ ***---&#65279;LotRVI*** 
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Orcs - 4 strike with 7 prowess  <br>_“...three great tiers...jutted out in pointed bastions, one above the other, diminishing as they rose, with sheer sides of cunning masonry...”_ ***---&#65279;LotRVI***{: .fs-3 } 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;3&ensp;</span><span class="hero-opp-draw">&ensp;4&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/cirith-ungol/
 > Imlad Morgul
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Minas Morgul  <br>_"It was indeed one of the works of Gondor long ago, an eastern outpost of Ithilien."_ ***---&#65279;LotRVI*** 
+> > Nearest Darkhaven: Minas Morgul  <br>_"It was indeed one of the works of Gondor long ago, an eastern outpost of Ithilien."_{: .fs-3 } ***---&#65279;LotRVI***{: .fs-3 } 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/cirith-ungol/
 > Imlad Morgul
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Minas Morgul  <br>_"It was indeed one of the works of Gondor long ago, an eastern outpost of Ithilien."_ ***---&#65279;LotRVI*** 
+> > Nearest Darkhaven: Minas Morgul  <br>_"It was indeed one of the works of Gondor long ago, an eastern outpost of Ithilien."_{: .fs-3 } ***---&#65279;LotRVI***{: .fs-3 } 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -105,7 +105,7 @@ permalink: /cards/cirith-ungol/
 > Imlad Morgul
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > <br>_**Playable:**_ Items (minor, major) Automatic-attacks (1): Orcs - 4 strike with 7 prowess <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. <br>_“...here too the vigilance had failed, and treachery had yielded up the Tower to the Lord of the Ringwraiths, and now for long yearsit had been held by evil things."_ ***---&#65279;LotRVI*** 
+> > <br>_**Playable:**_ Items (minor, major) Automatic-attacks (1): Orcs - 4 strike with 7 prowess <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. <br>_“...here too the vigilance had failed, and treachery had yielded up the Tower to the Lord of the Ringwraiths, and now for long yearsit had been held by evil things."_{: .fs-3 } ***---&#65279;LotRVI***{: .fs-3 } 
 > 
 > {: .balrog-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>

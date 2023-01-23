@@ -25,7 +25,7 @@ permalink: /cards/helm-of-fear/
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at a tapped or untapped Barad-dur and only on your Ringwraith (does not tap the site). This item affects a Ringwraith. Tap this item to cancel an attack against the Ringwraith's company. May not cancel combat with a hero company. All body checks against the bearer are modified by -1. <br>_“...a helm like a crown that flickered with a perilous light."_ ***---&#65279;LotRIV*** 
+> > _**Unique.**_ Playable at a tapped or untapped Barad-dur and only on your Ringwraith (does not tap the site). This item affects a Ringwraith. Tap this item to cancel an attack against the Ringwraith's company. May not cancel combat with a hero company. All body checks against the bearer are modified by -1. <br>_“...a helm like a crown that flickered with a perilous light."_{: .fs-3 } ***---&#65279;LotRIV***{: .fs-3 } 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/helm-of-fear/
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at a tapped or untapped Barad-dur and only on your Ringwraith (does not tap the site). This item affects a Ringwraith. Tap this item to cancel an attack against the Ringwraith's company. May not cancel combat with a hero company. All body checks against the bearer are modified by -1. <br>_“...a helm like a crown that flickered with a perilous light."_ ***---&#65279;LotRIV*** 
+> > _**Unique.**_ Playable at a tapped or untapped Barad-dur and only on your Ringwraith (does not tap the site). This item affects a Ringwraith. Tap this item to cancel an attack against the Ringwraith's company. May not cancel combat with a hero company. All body checks against the bearer are modified by -1. <br>_“...a helm like a crown that flickered with a perilous light."_{: .fs-3 } ***---&#65279;LotRIV***{: .fs-3 } 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

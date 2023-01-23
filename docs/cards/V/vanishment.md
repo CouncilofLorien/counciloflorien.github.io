@@ -25,7 +25,7 @@ permalink: /cards/vanishment/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Spell._ _Wizard only._ Cancels an attack against the Wizard's company. Wizard makes a corruption check modified by -2. <br>_“‘Go back to the abyss prepared for you! Go back! Fall into the nothingness that awaits you and your Master. Go!’”_ ***---&#65279;LotRV*** 
+> > _Spell._ _Wizard only._ Cancels an attack against the Wizard's company. Wizard makes a corruption check modified by -2. <br>_“‘Go back to the abyss prepared for you! Go back! Fall into the nothingness that awaits you and your Master. Go!’”_ ***---&#65279;LotRV***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/vanishment/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Spell._ _Wizard only._ Cancels an attack against the Wizard's company. Wizard makes a corruption check modified by -2. <br>_“‘Go back to the abyss prepared for you! Go back! Fall into the nothingness that awaits you and your Master. Go!’”_ ***---&#65279;LotRV*** 
+> > _Spell._ _Wizard only._ Cancels an attack against the Wizard's company. Wizard makes a corruption check modified by -2. <br>_“‘Go back to the abyss prepared for you! Go back! Fall into the nothingness that awaits you and your Master. Go!’”_ ***---&#65279;LotRV***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/vanishment/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Spell._ _Wizard only._ Cancels an attack against the Wizard's company. Wizard makes a corruption check modified by -2. <br>_“‘Go back to the abyss prepared for you! Go back! Fall into the nothingness that awaits you and your Master. Go!’”_ ***---&#65279;LotRV*** 
+> > _Spell._ _Wizard only._ Cancels an attack against the Wizard's company. Wizard makes a corruption check modified by -2. <br>_“‘Go back to the abyss prepared for you! Go back! Fall into the nothingness that awaits you and your Master. Go!’”_ ***---&#65279;LotRV***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

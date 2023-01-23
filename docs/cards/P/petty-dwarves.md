@@ -25,7 +25,7 @@ permalink: /cards/petty-dwarves/
 > Dwarf Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Manifestation of minion Petty-dwarves. Playable at The Worthy Hills if the influence check is greater than 10. <br>_Standard Modifications:_ Elves (-2). <br>_"In times past, the Petty-dwarves offered enemies shelter in their hidden halls as ransom for their threatened lives."_ ***---&#65279;Kuduk Lore*** 
+> > _**Unique.**_ Manifestation of minion Petty-dwarves. Playable at The Worthy Hills if the influence check is greater than 10. <br>_Standard Modifications:_ Elves (-2). <br>_"In times past, the Petty-dwarves offered enemies shelter in their hidden halls as ransom for their threatened lives."_{: .fs-3 } ***---&#65279;Kuduk Lore***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/petty-dwarves/
 > Dwarf Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at The Worthy Hills if the influence check is greater than 11. <br>_"The Noegyth Nibin feard all and loved none, and coveted everything."_ ***---&#65279;Kuduk Lore*** 
+> > _**Unique.**_ Playable at The Worthy Hills if the influence check is greater than 11. <br>_"The Noegyth Nibin feard all and loved none, and coveted everything."_{: .fs-3 } ***---&#65279;Kuduk Lore***{: .fs-3 } 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

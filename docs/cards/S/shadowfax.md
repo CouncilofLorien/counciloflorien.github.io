@@ -25,7 +25,7 @@ permalink: /cards/shadowfax/
 > Ally
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Edoras or Dunharrow.  If his company only has one character or one character and a Hobbit at the end of the movement/hazard phase, tap Shadowfax to allow his company to immediately move again; an additional site card may be played and an additional movement/hazard phase follows for that company. 
+> > _**Unique.**_ _**Playable at Edoras or Dunharrow.**_  <br>If his company only has one character **or** one character and a Hobbit at the end of the movement/hazard phase, tap _Shadowfax_ to allow his company to immediately move again; an additional site card may be played and an additional movement/hazard phase follows for that company. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【2/8】</div>
@@ -45,7 +45,7 @@ permalink: /cards/shadowfax/
 > Ally
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Edoras or Dunharrow.  If his company only has one character or one character and a Hobbit at the end of the movement/hazard phase, tap Shadowfax to allow his company to immediately move again; an additional site card may be played and an additional movement/hazard phase follows for that company. 
+> > _**Unique.**_ _**Playable at Edoras or Dunharrow.**_  <br>If his company only has one character **or** one character and a Hobbit at the end of the movement/hazard phase, tap _Shadowfax_ to allow his company to immediately move again; an additional site card may be played and an additional movement/hazard phase follows for that company. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【2/8】</div>

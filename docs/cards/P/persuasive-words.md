@@ -25,7 +25,7 @@ permalink: /cards/persuasive-words/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Diplomat only._ Make two rolls (or draw two #'s) when making an influence check and choose one result to use. <br>_“‘You speak justly, Lord,' said the pale man sitting upon the steps of the dais. '...and ill news is an ill guest they say.’”_ ***---&#65279;LotRIII***  
+> > _Diplomat only._ Make two rolls (or draw two #'s) when making an influence check and choose one result to use. <br>_“‘You speak justly, Lord,' said the pale man sitting upon the steps of the dais. '...and ill news is an ill guest they say.’”_ ***---&#65279;LotRIII***{: .fs-3 }  
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/persuasive-words/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Diplomat only._ Make two rolls (or draw two #'s) when making an influence check and choose one result to use. <br>_“‘You speak justly, Lord,' said the pale man sitting upon the steps of the dais. '...and ill news is an ill guest they say.’”_ ***---&#65279;LotRIII***  
+> > _Diplomat only._ Make two rolls (or draw two #'s) when making an influence check and choose one result to use. <br>_“‘You speak justly, Lord,' said the pale man sitting upon the steps of the dais. '...and ill news is an ill guest they say.’”_ ***---&#65279;LotRIII***{: .fs-3 }  
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

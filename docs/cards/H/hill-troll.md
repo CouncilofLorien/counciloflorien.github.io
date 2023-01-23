@@ -25,7 +25,7 @@ permalink: /cards/hill-troll/
 > Warrior Troll
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _Balrog specific._ Discard on a body check result of 7.   <br>_“...clad only in close-fitting mesh of horny scales, or maybe that was their hideous hide: but they bore round bucklers huge and black and wielded heavy hammers in their knotted hands."_ ***---&#65279;LotRV***  <br><br>**Home Site:** any non-Dark-hold Under-deeps site 
+> > _Balrog specific._ Discard on a body check result of 7.   <br>_“...clad only in close-fitting mesh of horny scales, or maybe that was their hideous hide: but they bore round bucklers huge and black and wielded heavy hammers in their knotted hands."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 }  <br><br>**Home Site:** any non-Dark-hold Under-deeps site 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【5/7】</div>

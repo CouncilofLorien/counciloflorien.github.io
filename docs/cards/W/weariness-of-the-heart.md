@@ -25,7 +25,7 @@ permalink: /cards/weariness-of-the-heart/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The prowess of a character is modified by -1 until the end of the turn. Alternatively, the target character is forced to make a corruption check. Can not be duplicated. <br>_“‘There is some will that lends us speed to our foes and sets an unseen barrier before us: a weariness that is in the heart more than in the limb.’”_ ***---&#65279;LotRIII*** 
+> > The prowess of a character is modified by -1 until the end of the turn. Alternatively, the target character is forced to make a corruption check. Can not be duplicated. <br>_“‘There is some will that lends us speed to our foes and sets an unseen barrier before us: a weariness that is in the heart more than in the limb.’”_ ***---&#65279;LotRIII***{: .fs-3 } 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/weariness-of-the-heart/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The prowess of a character is modified by -1 until the end of the turn. Alternatively, the target character is forced to make a corruption check. Can not be duplicated. <br>_“‘There is some will that lends us speed to our foes and sets an unseen barrier before us: a weariness that is in the heart more than in the limb.’”_ ***---&#65279;LotRIII*** 
+> > The prowess of a character is modified by -1 until the end of the turn. Alternatively, the target character is forced to make a corruption check. Can not be duplicated. <br>_“‘There is some will that lends us speed to our foes and sets an unseen barrier before us: a weariness that is in the heart more than in the limb.’”_ ***---&#65279;LotRIII***{: .fs-3 } 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/weariness-of-the-heart/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a character. The prowess of a target character is modified by -1 until the end of the turn. This use cannot be duplicated on a given character. Alternatively, target character makes a corruption check. <br>_"He wandered in loneliness, weeping a little for the hardness of the world...”_ ***---&#65279;LotRI*** 
+> > Playable on a character. The prowess of a target character is modified by -1 until the end of the turn. This use cannot be duplicated on a given character. Alternatively, target character makes a corruption check. <br>_"He wandered in loneliness, weeping a little for the hardness of the world...”_ ***---&#65279;LotRI***{: .fs-3 } 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -85,7 +85,7 @@ permalink: /cards/weariness-of-the-heart/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a character. The prowess of a target character is modified by -1 until the end of the turn. This use cannot be duplicated on a given character. Alternatively, target character makes a corruption check. <br>_"He wandered in loneliness, weeping a little for the hardness of the world...”_ ***---&#65279;LotRI*** 
+> > Playable on a character. The prowess of a target character is modified by -1 until the end of the turn. This use cannot be duplicated on a given character. Alternatively, target character makes a corruption check. <br>_"He wandered in loneliness, weeping a little for the hardness of the world...”_ ***---&#65279;LotRI***{: .fs-3 } 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

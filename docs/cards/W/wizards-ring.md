@@ -25,7 +25,7 @@ permalink: /cards/wizards-ring/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Wizard only._ Playable only at a Haven \[![](/assets/images/free-haven.svg)]. Cannot be stored, stolen, or transferred. May not be duplicated on a given Wizard. Bearer makes a corruption check when this item is played. <br>_“‘...and there he met me and led me up to his high chamber. He wore a ring on his finger.’”_ ***---&#65279;LotRII*** 
+> > _Wizard only._ Playable only at a Haven \[![](/assets/images/free-haven.svg)]. Cannot be stored, stolen, or transferred. May not be duplicated on a given Wizard. Bearer makes a corruption check when this item is played. <br>_“‘...and there he met me and led me up to his high chamber. He wore a ring on his finger.’”_ ***---&#65279;LotRII***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【2】</div>
@@ -45,7 +45,7 @@ permalink: /cards/wizards-ring/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Wizard only._ Playable only at a Haven \[![](/assets/images/free-haven.svg)]. Cannot be stored, stolen, or transferred. May not be duplicated on a given Wizard. Bearer makes a corruption check when this item is played. <br>_“‘...and there he met me and led me up to his high chamber. He wore a ring on his finger.’”_ ***---&#65279;LotRII*** 
+> > _Wizard only._ Playable only at a Haven \[![](/assets/images/free-haven.svg)]. Cannot be stored, stolen, or transferred. May not be duplicated on a given Wizard. Bearer makes a corruption check when this item is played. <br>_“‘...and there he met me and led me up to his high chamber. He wore a ring on his finger.’”_ ***---&#65279;LotRII***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【2】</div>

@@ -25,7 +25,7 @@ permalink: /cards/asdriags/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Nurniag Camp if the influence check is greater than 10. <br>_Standard Modifications:_ Nurniags (+2), Variags of Khand (+2), Balchoth (-2). <br>_"Always one and the same, horse and rider, even though every warrior owns two or more mounts."_ ***---&#65279;Kuduk Lore*** 
+> > _**Unique.**_ Playable at Nurniag Camp if the influence check is greater than 10. <br>_Standard Modifications:_ Nurniags (+2), Variags of Khand (+2), Balchoth (-2). <br>_"Always one and the same, horse and rider, even though every warrior owns two or more mounts."_{: .fs-3 } ***---&#65279;Kuduk Lore***{: .fs-3 } 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/asdriags/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Nurniag Camp if the influence check is greater than 10. <br>_Standard Modifications:_ Nurniags (+2), Variags of Khand (+2), Balchoth (-2). <br>_"Always one and the same, horse and rider, even though every warrior owns two or more mounts."_ ***---&#65279;Kuduk Lore*** 
+> > _**Unique.**_ Playable at Nurniag Camp if the influence check is greater than 10. <br>_Standard Modifications:_ Nurniags (+2), Variags of Khand (+2), Balchoth (-2). <br>_"Always one and the same, horse and rider, even though every warrior owns two or more mounts."_{: .fs-3 } ***---&#65279;Kuduk Lore***{: .fs-3 } 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

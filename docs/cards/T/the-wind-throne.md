@@ -25,7 +25,7 @@ permalink: /cards/the-wind-throne/
 > Grey Mountain Narrows
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 7 prowess  <br>_“...wind in the cracks and gullies of the rocky wall, but the sounds were those of shrill cries, and wild howls of laughter."_ ***---&#65279;LotRII*** 
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 7 prowess  <br>_“...wind in the cracks and gullies of the rocky wall, but the sounds were those of shrill cries, and wild howls of laughter."_{: .fs-3 } ***---&#65279;LotRII***{: .fs-3 } 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/the-wind-throne/
 > Grey Mountain Narrows
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 7 prowess  <br>_“...wind in the cracks and gullies of the rocky wall, but the sounds were those of shrill cries, and wild howls of laughter."_ ***---&#65279;LotRII*** 
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 7 prowess  <br>_“...wind in the cracks and gullies of the rocky wall, but the sounds were those of shrill cries, and wild howls of laughter."_{: .fs-3 } ***---&#65279;LotRII***{: .fs-3 } 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/the-wind-throne/
 > Grey Mountain Narrows
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 7 prowess  <br>_“...behind stood taller shapes of grey, and behind those again were high white peaks glimmering among the clouds."_ ***---&#65279;LotRII*** 
+> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 7 prowess  <br>_“...behind stood taller shapes of grey, and behind those again were high white peaks glimmering among the clouds."_{: .fs-3 } ***---&#65279;LotRII***{: .fs-3 } 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/the-wind-throne/
 > Grey Mountain Narrows
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 7 prowess  <br>_“...behind stood taller shapes of grey, and behind those again were high white peaks glimmering among the clouds."_ ***---&#65279;LotRII*** 
+> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 7 prowess  <br>_“...behind stood taller shapes of grey, and behind those again were high white peaks glimmering among the clouds."_{: .fs-3 } ***---&#65279;LotRII***{: .fs-3 } 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -105,7 +105,7 @@ permalink: /cards/the-wind-throne/
 > Grey Mountain Narrows
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 7 prowess  <br>_“...behind stood taller shapes of grey, and behind those again were high white peaks glimmering among the clouds."_ ***---&#65279;LotRII*** 
+> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 7 prowess  <br>_“...behind stood taller shapes of grey, and behind those again were high white peaks glimmering among the clouds."_{: .fs-3 } ***---&#65279;LotRII***{: .fs-3 } 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

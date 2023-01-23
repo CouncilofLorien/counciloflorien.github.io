@@ -25,7 +25,7 @@ permalink: /cards/rangers-of-ithilien/
 > Dunadan Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Henneth Annun if the influence check is greater than 7.  <br>_Standard Modifications:_ Dunedain (+1). <br>_"All had swords at their sides, and were clad in green and brown of varied hues, as if the better to walk unseen in the glades of Ithilien."_ ***---&#65279;LotRIV*** 
+> > _**Unique.**_ Playable at Henneth Annun if the influence check is greater than 7.  <br>_Standard Modifications:_ Dunedain (+1). <br>_"All had swords at their sides, and were clad in green and brown of varied hues, as if the better to walk unseen in the glades of Ithilien."_{: .fs-3 } ***---&#65279;LotRIV***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/rangers-of-ithilien/
 > Dunadan Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Henneth Annun if the influence check is greater than 7.  <br>_Standard Modifications:_ Dunedain (+1). <br>_"All had swords at their sides, and were clad in green and brown of varied hues, as if the better to walk unseen in the glades of Ithilien."_ ***---&#65279;LotRIV*** 
+> > _**Unique.**_ Playable at Henneth Annun if the influence check is greater than 7.  <br>_Standard Modifications:_ Dunedain (+1). <br>_"All had swords at their sides, and were clad in green and brown of varied hues, as if the better to walk unseen in the glades of Ithilien."_{: .fs-3 } ***---&#65279;LotRIV***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/rangers-of-ithilien/
 > Dunadan Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Henneth Annun if the influence check is greater than 7.  <br>_Standard Modifications:_ Dunedain (+1). <br>_"All had swords at their sides, and were clad in green and brown of varied hues, as if the better to walk unseen in the glades of Ithilien."_ ***---&#65279;LotRIV*** 
+> > _**Unique.**_ Playable at Henneth Annun if the influence check is greater than 7.  <br>_Standard Modifications:_ Dunedain (+1). <br>_"All had swords at their sides, and were clad in green and brown of varied hues, as if the better to walk unseen in the glades of Ithilien."_{: .fs-3 } ***---&#65279;LotRIV***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

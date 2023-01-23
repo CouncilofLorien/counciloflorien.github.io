@@ -25,7 +25,7 @@ permalink: /cards/shrel-kain/
 > Dorwinion
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien  <br>_“...between Rhovanion and the Inland Sea...”_ ***---&#65279;LotR*** 
+> > _**Nearest Haven:**_ Lorien  <br>_“...between Rhovanion and the Inland Sea...”_ ***---&#65279;LotR***{: .fs-3 } 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;3&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/shrel-kain/
 > Dorwinion
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien  <br>_“...between Rhovanion and the Inland Sea...”_ ***---&#65279;LotR*** 
+> > _**Nearest Haven:**_ Lorien  <br>_“...between Rhovanion and the Inland Sea...”_ ***---&#65279;LotR***{: .fs-3 } 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;3&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/shrel-kain/
 > Dorwinion
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major*) *-weapon, armor, shield, or helmet only <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 8 prowess (detainment against covert company)  <br>_"They still throve the trade that came up the great river...and there had been wars and deeds which were now only legend."_ ***---&#65279;Hob*** 
+> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major*) *-weapon, armor, shield, or helmet only <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 8 prowess (detainment against covert company)  <br>_"They still throve the trade that came up the great river...and there had been wars and deeds which were now only legend."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/shrel-kain/
 > Dorwinion
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien  <br>_“...between Rhovanion and the Inland Sea...”_ ***---&#65279;LotR*** 
+> > _**Nearest Haven:**_ Lorien  <br>_“...between Rhovanion and the Inland Sea...”_ ***---&#65279;LotR***{: .fs-3 } 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;3&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>

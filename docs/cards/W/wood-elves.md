@@ -25,7 +25,7 @@ permalink: /cards/wood-elves/
 > Elf Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Thranduil's Halls if the influence check is greater than 8. <br>_Standard Modifications:_ Men (-1), Elves (+1), Dwarves (-2). <br>_"Their gleaming hair was twined with flowers; green and white gems glinted on their collars and their belts; and their faces and their songs were filled with mirth."_ ***---&#65279;Hob*** 
+> > _**Unique.**_ Playable at Thranduil's Halls if the influence check is greater than 8. <br>_Standard Modifications:_ Men (-1), Elves (+1), Dwarves (-2). <br>_"Their gleaming hair was twined with flowers; green and white gems glinted on their collars and their belts; and their faces and their songs were filled with mirth."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/wood-elves/
 > Elf Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Thranduil's Halls if the influence check is greater than 8. <br>_Standard Modifications:_ Men (-1), Elves (+1), Dwarves (-2). <br>_"Their gleaming hair was twined with flowers; green and white gems glinted on their collars and their belts; and their faces and their songs were filled with mirth."_ ***---&#65279;Hob*** 
+> > _**Unique.**_ Playable at Thranduil's Halls if the influence check is greater than 8. <br>_Standard Modifications:_ Men (-1), Elves (+1), Dwarves (-2). <br>_"Their gleaming hair was twined with flowers; green and white gems glinted on their collars and their belts; and their faces and their songs were filled with mirth."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/wood-elves/
 > Elf Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Thranduil's Halls if the influence check is greater than 8. <br>_Standard Modifications:_ Men (-1), Elves (+1), Dwarves (-2). <br>_"Their gleaming hair was twined with flowers; green and white gems glinted on their collars and their belts; and their faces and their songs were filled with mirth."_ ***---&#65279;Hob*** 
+> > _**Unique.**_ Playable at Thranduil's Halls if the influence check is greater than 8. <br>_Standard Modifications:_ Men (-1), Elves (+1), Dwarves (-2). <br>_"Their gleaming hair was twined with flowers; green and white gems glinted on their collars and their belts; and their faces and their songs were filled with mirth."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -85,7 +85,7 @@ permalink: /cards/wood-elves/
 > Elf Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Thranduil's Halls if the influence check is greater than 8. <br>_Standard Modifications:_ Men (-1), Elves (+1), Dwarves (-2). <br>_"Their gleaming hair was twined with flowers; green and white gems glinted on their collars and their belts; and their faces and their songs were filled with mirth."_ ***---&#65279;Hob*** 
+> > _**Unique.**_ Playable at Thranduil's Halls if the influence check is greater than 8. <br>_Standard Modifications:_ Men (-1), Elves (+1), Dwarves (-2). <br>_"Their gleaming hair was twined with flowers; green and white gems glinted on their collars and their belts; and their faces and their songs were filled with mirth."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

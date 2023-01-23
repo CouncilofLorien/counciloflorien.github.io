@@ -25,7 +25,7 @@ permalink: /cards/foul-tooth-unsheathed/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable if your opponent is a Fallen-wizard. If your opponent has 7 or more stage points and is not Alatar, hazards his company defeat (while this card is in play) without an asterisk [*] are worth no marshalling points. This card overrides any conflicting resources.   <br>_“‘...One ill turn deserves another.’”_ ***---&#65279;LotRIII*** 
+> > Playable if your opponent is a Fallen-wizard. If your opponent has 7 or more stage points and is not Alatar, hazards his company defeat (while this card is in play) without an asterisk [*] are worth no marshalling points. This card overrides any conflicting resources.   <br>_“‘...One ill turn deserves another.’”_ ***---&#65279;LotRIII***{: .fs-3 } 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

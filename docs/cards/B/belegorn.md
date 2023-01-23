@@ -25,7 +25,7 @@ permalink: /cards/belegorn/
 > Sage/Diplomat Dunadan
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ Can use spirit-magic. <br>_“...some single power and will was directing the assult from many quarters upon the survivors of Numenor."_ ***---&#65279;LotR***  <br><br>**Home Site:** Carn Dum  
+> > _**Unique.**_ Can use spirit-magic. <br>_“...some single power and will was directing the assult from many quarters upon the survivors of Numenor."_{: .fs-3 } ***---&#65279;LotR***{: .fs-3 }  <br><br>**Home Site:** Carn Dum  
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【3/7】</div>

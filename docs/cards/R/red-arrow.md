@@ -25,7 +25,7 @@ permalink: /cards/red-arrow/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Bearer may automatically influence the Riders of Rohan. +5 to bearer's direct influence against any character with Edoras as a home site. <br>_"In his hand he bore a single arrow, black-feathered and barbed with steel, but the point was painted red."_ ***---&#65279;LotRV*** 
+> > _**Unique.**_ Bearer may automatically influence the Riders of Rohan. +5 to bearer's direct influence against any character with Edoras as a home site. <br>_"In his hand he bore a single arrow, black-feathered and barbed with steel, but the point was painted red."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/red-arrow/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Bearer may automatically influence the Riders of Rohan. +5 to bearer's direct influence against any character with Edoras as a home site. <br>_"In his hand he bore a single arrow, black-feathered and barbed with steel, but the point was painted red."_ ***---&#65279;LotRV*** 
+> > _**Unique.**_ Bearer may automatically influence the Riders of Rohan. +5 to bearer's direct influence against any character with Edoras as a home site. <br>_"In his hand he bore a single arrow, black-feathered and barbed with steel, but the point was painted red."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

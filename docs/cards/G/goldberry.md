@@ -25,7 +25,7 @@ permalink: /cards/goldberry/
 > Ally
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Old Forest.  May not be attacked. Tap Goldberry to cancel any effect that would cause her company to return to its site of origin after declaring its movement to a new site. Alternatively, tap Goldberry to cancel one attack against her company keyed to Wilderness \[![](/assets/images/wilderness.svg)]. <br>_“...as young and ancient as Spring...”_ ***---&#65279;LotRI*** 
+> > _**Unique.**_ _**Playable at Old Forest.**_ <br>May not be attacked. <br>Tap _Goldberry_ to cancel any effect that would cause her company to return to its site of origin after declaring its movement to a new site. <br>Alternatively, tap _Goldberry_ to cancel one attack against her company keyed to Wilderness \[![](/assets/images/wilderness.svg)]. <br>_“...as young and ancient as Spring...”_ ***---&#65279;LotRI***{: .fs-3 }
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/goldberry/
 > Ally
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Old Forest.  May not be attacked. Tap Goldberry to cancel any effect that would cause her company to return to its site of origin after declaring its movement to a new site. Alternatively, tap Goldberry to cancel one attack against her company keyed to Wilderness \[![](/assets/images/wilderness.svg)]. <br>_“...as young and ancient as Spring...”_ ***---&#65279;LotRI*** 
+> > _**Unique.**_ _**Playable at Old Forest.**_ <br>May not be attacked. <br>Tap _Goldberry_ to cancel any effect that would cause her company to return to its site of origin after declaring its movement to a new site. <br>Alternatively, tap _Goldberry_ to cancel one attack against her company keyed to Wilderness \[![](/assets/images/wilderness.svg)]. <br>_“...as young and ancient as Spring...”_ ***---&#65279;LotRI***{: .fs-3 }
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/goldberry/
 > Ally
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Old Forest.  May not be attacked. Tap Goldberry to cancel any effect that would cause her company to return to its site of origin after declaring its movement to a new site. Alternatively, tap Goldberry to cancel one attack against her company keyed to Wilderness \[![](/assets/images/wilderness.svg)]. <br>_“...as young and ancient as Spring...”_ ***---&#65279;LotRI*** 
+> > _**Unique.**_ _**Playable at Old Forest.**_ <br>May not be attacked. <br>Tap _Goldberry_ to cancel any effect that would cause her company to return to its site of origin after declaring its movement to a new site. <br>Alternatively, tap _Goldberry_ to cancel one attack against her company keyed to Wilderness \[![](/assets/images/wilderness.svg)]. <br>_“...as young and ancient as Spring...”_ ***---&#65279;LotRI***{: .fs-3 }
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

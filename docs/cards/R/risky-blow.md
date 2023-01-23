@@ -25,7 +25,7 @@ permalink: /cards/risky-blow/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Warrior only against one strike. +3 to prowess and -1 to body. <br>_"Fewer were they but they clove through the Southrons like a fire-bolt in a forest."_ ***---&#65279;LotRV*** 
+> > Warrior only against one strike. +3 to prowess and -1 to body. <br>_"Fewer were they but they clove through the Southrons like a fire-bolt in a forest."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/risky-blow/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Warrior only against one strike. +3 to prowess and -1 to body. <br>_"Fewer were they but they clove through the Southrons like a fire-bolt in a forest."_ ***---&#65279;LotRV*** 
+> > Warrior only against one strike. +3 to prowess and -1 to body. <br>_"Fewer were they but they clove through the Southrons like a fire-bolt in a forest."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/risky-blow/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Warrior only against one strike. +3 to prowess and -1 to body. <br>_"Fewer were they but they clove through the Southrons like a fire-bolt in a forest."_ ***---&#65279;LotRV*** 
+> > Warrior only against one strike. +3 to prowess and -1 to body. <br>_"Fewer were they but they clove through the Southrons like a fire-bolt in a forest."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -85,7 +85,7 @@ permalink: /cards/risky-blow/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Warrior only against one strike. +3 to prowess and -1 to body. <br>_"Fewer were they but they clove through the Southrons like a fire-bolt in a forest."_ ***---&#65279;LotRV*** 
+> > Warrior only against one strike. +3 to prowess and -1 to body. <br>_"Fewer were they but they clove through the Southrons like a fire-bolt in a forest."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

@@ -25,7 +25,7 @@ permalink: /cards/the-warg-king/
 > Ally
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at any tapped or untapped Ruins & Lairs \[![](/assets/images/ruinlair.svg)] with a Wolf automatic-attack. Tap to cancel a Wolf or Animal attack. +2 to any influence attempt by a character in his company against a Wolf faction. <br>_“...and sat in a great circle in the glade; and in the middle of the circle was a great grey _Wolf._"_ ***---&#65279;Hob*** 
+> > _**Unique.**_ Playable at any tapped or untapped Ruins & Lairs \[![](/assets/images/ruinlair.svg)] with a Wolf automatic-attack. Tap to cancel a Wolf or Animal attack. +2 to any influence attempt by a character in his company against a Wolf faction. <br>_“...and sat in a great circle in the glade; and in the middle of the circle was a great grey _Wolf._"_ ***---&#65279;Hob***{: .fs-3 } 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【4/8】</div>

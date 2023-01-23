@@ -25,7 +25,7 @@ permalink: /cards/haldalam/
 > Warrior/Diplomat Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +4 direct influence against the Easterlings faction. <br>_“...he passed out of the knowledge of Men of the West, and went alone far into the East and deep into the South, exploring the hearts of Men, both evil and good, and uncovering the plots and devices of Sauron."_ ***---&#65279;LotR***  <br><br>**Home Site:** Shrel-Kain 
+> > _**Unique.**_ +4 direct influence against the Easterlings faction. <br>_“...he passed out of the knowledge of Men of the West, and went alone far into the East and deep into the South, exploring the hearts of Men, both evil and good, and uncovering the plots and devices of Sauron."_{: .fs-3 } ***---&#65279;LotR***{: .fs-3 }  <br><br>**Home Site:** Shrel-Kain 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【4/9】</div>
@@ -45,7 +45,7 @@ permalink: /cards/haldalam/
 > Warrior/Diplomat Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +4 direct influence against the Easterlings faction. <br>_“...he passed out of the knowledge of Men of the West, and went alone far into the East and deep into the South, exploring the hearts of Men, both evil and good, and uncovering the plots and devices of Sauron."_ ***---&#65279;LotR***  <br><br>**Home Site:** Shrel-Kain 
+> > _**Unique.**_ +4 direct influence against the Easterlings faction. <br>_“...he passed out of the knowledge of Men of the West, and went alone far into the East and deep into the South, exploring the hearts of Men, both evil and good, and uncovering the plots and devices of Sauron."_{: .fs-3 } ***---&#65279;LotR***{: .fs-3 }  <br><br>**Home Site:** Shrel-Kain 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【4/9】</div>

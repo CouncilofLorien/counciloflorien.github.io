@@ -25,7 +25,7 @@ permalink: /cards/dark-tryst/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Draw three cards and remove this card from the game. <br>_"Unclad, unmounted, and invisible-yet bearing terror with their presence-the Nazgul passed over Anduin to receive mounts and raiment on the river's west shore."_ ***---&#65279;Kuduk Lore*** 
+> > Draw three cards and remove this card from the game. <br>_"Unclad, unmounted, and invisible-yet bearing terror with their presence-the Nazgul passed over Anduin to receive mounts and raiment on the river's west shore."_{: .fs-3 } ***---&#65279;Kuduk Lore***{: .fs-3 } 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

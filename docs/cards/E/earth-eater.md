@@ -25,7 +25,7 @@ permalink: /cards/earth-eater/
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > _Technology._. Playable during the sit phase if one of your companies enters the Deep Mines site and you have more Delver's Harvest cards in play than you have Earth-eater cards. Tap Earth-eater to take a minion non-unique weapon/armor/shield/helmet major item from your sideboard or discard pile to your hand. <br>_“‘...they delved too greedily and too deep...’”_ ***---&#65279;LotRII*** 
+> > _Technology._. Playable during the sit phase if one of your companies enters the Deep Mines site and you have more Delver's Harvest cards in play than you have Earth-eater cards. Tap Earth-eater to take a minion non-unique weapon/armor/shield/helmet major item from your sideboard or discard pile to your hand. <br>_“‘...they delved too greedily and too deep...’”_ ***---&#65279;LotRII***{: .fs-3 } 
 > 
 > {: .stage-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

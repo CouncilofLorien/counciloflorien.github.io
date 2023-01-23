@@ -25,7 +25,7 @@ permalink: /cards/cave-troll/
 > Ally
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable at a tapped or untapped Under-deeps site with a Troll automatic-attack. +1 to rolls required for its controller's company to move to adjacent Under-deeps sites.   <br>_“‘A great cave-troll, I think, or more than one.’”_ ***---&#65279;LotRII*** 
+> > Playable at a tapped or untapped Under-deeps site with a Troll automatic-attack. +1 to rolls required for its controller's company to move to adjacent Under-deeps sites.   <br>_“‘A great cave-troll, I think, or more than one.’”_ ***---&#65279;LotRII***{: .fs-3 } 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【4/8】</div>

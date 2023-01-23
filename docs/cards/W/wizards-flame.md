@@ -25,7 +25,7 @@ permalink: /cards/wizards-flame/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Spell._ _Wizard only._ All attacks against Wizard's company suffer a -2 modification to prowess for the rest of the turn. Wizard makes a corruption check modified by -3. <br>_"There was a roar and a crackle, and the tree above him burst into a leaf and bloom of blinding flame. The fire leapt from tree-top to tree-top. The whole hill was crowned with dazzling light."_ ***---&#65279;LotRII*** 
+> > _Spell._ _Wizard only._ All attacks against Wizard's company suffer a -2 modification to prowess for the rest of the turn. Wizard makes a corruption check modified by -3. <br>_"There was a roar and a crackle, and the tree above him burst into a leaf and bloom of blinding flame. The fire leapt from tree-top to tree-top. The whole hill was crowned with dazzling light."_{: .fs-3 } ***---&#65279;LotRII***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/wizards-flame/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Spell._ _Wizard only._ All attacks against Wizard's company suffer a -2 modification to prowess for the rest of the turn. Wizard makes a corruption check modified by -3. <br>_"There was a roar and a crackle, and the tree above him burst into a leaf and bloom of blinding flame. The fire leapt from tree-top to tree-top. The whole hill was crowned with dazzling light."_ ***---&#65279;LotRII*** 
+> > _Spell._ _Wizard only._ All attacks against Wizard's company suffer a -2 modification to prowess for the rest of the turn. Wizard makes a corruption check modified by -3. <br>_"There was a roar and a crackle, and the tree above him burst into a leaf and bloom of blinding flame. The fire leapt from tree-top to tree-top. The whole hill was crowned with dazzling light."_{: .fs-3 } ***---&#65279;LotRII***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

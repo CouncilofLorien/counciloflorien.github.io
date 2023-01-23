@@ -45,7 +45,7 @@ permalink: /cards/woses-of-the-eryn-vorn/
 > Wose Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Manifestation of minion Woses of the Eryn Vorn. Playable at The Worthy Hills if the influence check is greater than 10. <br>_Standard Modifications:_ none. <br>_“‘...wild men, with little hair and painted skin, who breathe life into stone.’”_ ***---&#65279;Kuduk Lore*** 
+> > _**Unique.**_ Manifestation of minion Woses of the Eryn Vorn. Playable at The Worthy Hills if the influence check is greater than 10. <br>_Standard Modifications:_ none. <br>_“‘...wild men, with little hair and painted skin, who breathe life into stone.’”_ ***---&#65279;Kuduk Lore***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

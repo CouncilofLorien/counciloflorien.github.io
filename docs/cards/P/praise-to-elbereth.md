@@ -25,7 +25,7 @@ permalink: /cards/praise-to-elbereth/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > For each of your characters in play that you choose to tap, cancel one Nazgul event or one Nazgul attack. Additionally, if Doors of Night is in play, characters gain +1 prowess until the end of turn. <br>_"O Elbereth! Githoniel!...Thy starlight on the Western Seas."_ ***---&#65279;LotRI*** 
+> > For each of your characters in play that you choose to tap, cancel one Nazgul event or one Nazgul attack. Additionally, if Doors of Night is in play, characters gain +1 prowess until the end of turn. <br>_"O Elbereth! Githoniel!...Thy starlight on the Western Seas."_{: .fs-3 } ***---&#65279;LotRI***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/praise-to-elbereth/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > For each of your characters in play that you choose to tap, cancel one Nazgul event or one Nazgul attack. Additionally, if Doors of Night is in play, characters gain +1 prowess until the end of turn. <br>_"O Elbereth! Githoniel!...Thy starlight on the Western Seas."_ ***---&#65279;LotRI*** 
+> > For each of your characters in play that you choose to tap, cancel one Nazgul event or one Nazgul attack. Additionally, if Doors of Night is in play, characters gain +1 prowess until the end of turn. <br>_"O Elbereth! Githoniel!...Thy starlight on the Western Seas."_{: .fs-3 } ***---&#65279;LotRI***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
