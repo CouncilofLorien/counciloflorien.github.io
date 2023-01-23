@@ -352,6 +352,7 @@ $stage-resource-text-300: #f2edde;
 
 // Print-only styles.
 @media print {
+  .details, //added
   .side-bar,
   .page-header {
     display: none;
