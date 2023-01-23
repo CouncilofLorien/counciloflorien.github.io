@@ -35,7 +35,9 @@ Iron Crown Enterprises (ICE) published the rules for playing the _Middle-earth: 
 
 ### COUNCIL OF LÓRIEN
 
-The Council of Lórien was the sanctioning body of official _MECCG_ tournament play in the United States and Canada. 
+The Council of Lórien was the sanctioning body of official _MECCG_ tournament play in the United States and Canada under Iron Crown Enterprises up until 22 September 1999. 
+
+This website is an archive of the Eldar Days of _MECCG_.
 
 ## USING THIS WEBSITE
 
