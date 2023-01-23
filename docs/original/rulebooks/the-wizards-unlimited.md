@@ -192,7 +192,8 @@ The winner of the game is the player that has gathered the most marshalling poin
  - Destruction of creatures and/or evil forces.
  - Carrying out the instructions on resource cards.
  - By avoiding negative points which accrue when certain characters that you control are eliminated (e.g., Aragorn II, Galadriel, Elrond, Círdan, Frodo, and Bilbo).
- - Marshalling points are printed on the top left corner of the cards that award them.
+
+Marshalling points are printed on the top left corner of the cards that award them.
 
 {: .note }
 > **Note:** You may find it useful to use pencil and paper or extra dice to keep a running total of marshalling points.
