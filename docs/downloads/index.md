@@ -9,33 +9,19 @@ has_toc: false
 permalink: /downloads/
 ---
 
-<style>
-.border-img {
-  border: border:5px double #545565;
-}
-</style>
-
 # DOWNLOADS
 
 ## PUBLISHED RULESBOOKS
 
-{: .border-img .m-2 .text-center }
-[![](/assets/images/metw-ltd-cover.gif)](/assets/files/Middle-earth%20The%20Wizards%20Limited.pdf)[![](/assets/images/metw-unltd-cover.gif)](/assets/files/Middle-earth%20The%20Wizards%20Unlimited.pdf)
+{: .text-center }
+| [![](/assets/images/metw-ltd-cover.gif)](/assets/files/Middle-earth%20The%20Wizards%20Limited.pdf) | [![](/assets/images/metw-unltd-cover.gif)](/assets/files/Middle-earth%20The%20Wizards%20Unlimited.pdf) | 
+| [![](/assets/images/metd-cover.gif)](/assets/files/Middle-earth%20The%20Dragons.pdf) | [![](/assets/images/medm-cover.gif)](/assets/files/Middle-earth%20Dark%20Minions.pdf) | 
+| [![](/assets/images/mele-cover.gif)](/assets/files/Middle-earth%20The%20Lidless%20Eye.pdf) | [![](/assets/images/meas-cover.gif)](/assets/files/Middle-earth%20Against%20The%20Shadow.pdf) | 
+| [![](/assets/images/mewh-cover.gif)](/assets/files/Middle-earth%20The%20White%20Hand.pdf) | [![](/assets/images/meba-cover.gif)](/assets/files/Middle-earth%20The%20Balrog.pdf) | 
+| [![](/assets/images/mecd-cover.gif)](/assets/files/Middle-earth%20Challenge%20Decks.pdf)  |   | 
 
-{: .border-img .m-2 .text-center }
-[![](/assets/images/metd-cover.gif)](/assets/files/Middle-earth%20The%20Dragons.pdf)[![](/assets/images/medm-cover.gif)](/assets/files/Middle-earth%20Dark%20Minions.pdf)
+## MAPS
 
-{: .border-img .m-2 .text-center }
-[![](/assets/images/mele-cover.gif)](/assets/files/Middle-earth%20The%20Lidless%20Eye.pdf)[![](/assets/images/meas-cover.gif)](/assets/files/Middle-earth%20Against%20The%20Shadow.pdf)
-
-{: .border-img .m-2 .text-center }
-[![](/assets/images/mewh-cover.gif)](/assets/files/Middle-earth%20The%20White%20Hand.pdf)[![](/assets/images/meba-cover.gif)](/assets/files/Middle-earth%20The%20Balrog.pdf)
-
-{: .border-img .m-2 .text-center }
-[![](/assets/images/mecd-cover.gif)](/assets/files/Middle-earth%20Challenge%20Decks.pdf)
-
-## MAP
-
-{: .border-img .m-2 }
-[![](/assets/images/Bilbo's%20Region%20Map.gif)](/assets/files/Bilbo's%20Region%20Map.pdf)
+{: .text-center }
+| [![](/assets/images/Bilbo's%20Region%20Map.gif)](/assets/files/Bilbo's%20Region%20Map.pdf) | 
 
