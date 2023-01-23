@@ -4,6 +4,7 @@ title: Original Rules
 has_children: true
 search_exclude: true
 nav_exclude: false
+nav_order: 3
 has_toc: false
 permalink: /original/
 ---
