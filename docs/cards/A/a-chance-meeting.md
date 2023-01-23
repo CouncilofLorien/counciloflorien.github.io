@@ -26,8 +26,7 @@ permalink: /cards/a-chance-meeting/
 >
 > {: .hero-resource-text .black-text .p-2 }
 > > A character (even a Hobbit) may be brought into play with direct influence at any Free-hold \[&#65279;![](/assets/images/free-hold.svg)&#65279;], Border-hold \[&#65279;![](/assets/images/border-hold.svg)&#65279;], or Ruins & Lairs \[&#65279;![](/assets/images/ruinlair.svg)&#65279;].
-> >
-> > _"But at last there came about by chance a meeting between Gandalf and Thorin that changed all the fortunes of the House of Durin, and led to other and greater ends beside."_{: .fs-2 .lh-0 } ***---&#65279;LotR***{: .fs-2 .lh-0 }
+> > <br>_"But at last there came about by chance a meeting between Gandalf and Thorin that changed all the fortunes of the House of Durin, and led to other and greater ends beside."_{: .fs-2 .lh-0 } ***---&#65279;LotR***{: .fs-2 .lh-0 }
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
