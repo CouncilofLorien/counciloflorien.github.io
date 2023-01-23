@@ -9,12 +9,6 @@ has_toc: false
 permalink: /downloads/
 ---
 
-<style>
-  .border-img {
-  border:5px double black;
-  }
-</style>
-
 # DOWNLOADS
 
 ## PUBLISHED RULESBOOKS
@@ -37,5 +31,5 @@ permalink: /downloads/
 ## MAP
 
 {: .border-img .m-2 }
-[![]()]() [![]()]()
+[![](/assets/images/Bilbo's%20Region%20Map.gif)](/assets/files/Bilbo's%20Region%20Map.pdf)
 
