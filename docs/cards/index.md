@@ -13,6 +13,7 @@ permalink: /cards/
 
 ## Alphabetical
 
+| :-----: | :-----: | :-----: | :-----: | :-----: |
 | [\[A\]](/cards/A/) | [\[B\]](/cards/B/) |  [\[C\]](/cards/C/)  | [\[D\]](/cards/D/) | [\[E\]](/cards/E/)  | 
 | [\[F\]](/cards/F/) |  [\[G\]](/cards/G/) |  [\[H\]](/cards/H/)  | [\[I\]](/cards/I/)  | [\[J\]](/cards/J/)  | 
 | [\[K\]](/cards/K/) | [\[L\]](/cards/L/)  | [\[M\]](/cards/M/) |  [\[N\]](/cards/N/) |  [\[O\]](/cards/O/) | 
@@ -21,11 +22,11 @@ permalink: /cards/
 
 ## Sets and Expansions
 
-| [_**Middle-earth: The Wizards Limited**_](#middle-earth-the-wizards-limited)  | [_**Middle-earth: The Lidless Eye**_](#middle-earth-the-lidless-eye)   | 
-[_**Middle-earth: The Wizards Unlimited**_](#middle-earth-the-wizards-unlimited)   | [_**Middle-earth: Against the Shadow**_](#middle-earth-against-the-shadow)  | 
-[_**Middle-earth: The Dragons**_](#middle-earth-the-dragons)   | [_**Middle-earth: The White Hand**_](#middle-earth-the-white-hand)  | 
-[_**Middle-earth: Dark Minions**_](#middle-earth-dark-minions)   | [_**Middle-earth Challenge Decks**_](#middle-earth-challenge-decks)   | 
-[_**Middle-earth: The Wizards Starter Set**_](#middle-earth-the-wizards-starter-set)   | [_**Middle-earth: The Balrog**_](#middle-earth-the-balrog)   | 
+| [_Middle-earth: The Wizards Limited_](#middle-earth-the-wizards-limited)  | [_Middle-earth: The Lidless Eye_](#middle-earth-the-lidless-eye)   | 
+[_Middle-earth: The Wizards Unlimited_](#middle-earth-the-wizards-unlimited)   | [_Middle-earth: Against the Shadow_](#middle-earth-against-the-shadow)  | 
+[_Middle-earth: The Dragons_](#middle-earth-the-dragons)   | [_Middle-earth: The White Hand_](#middle-earth-the-white-hand)  | 
+[_Middle-earth: Dark Minions_](#middle-earth-dark-minions)   | [_Middle-earth Challenge Decks_](#middle-earth-challenge-decks)   | 
+[_Middle-earth: The Wizards Starter Set_](#middle-earth-the-wizards-starter-set)   | [_Middle-earth: The Balrog_](#middle-earth-the-balrog) | 
 
 ### _Middle-earth: The Wizards Limited_
 
