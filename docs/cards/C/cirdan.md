@@ -13,7 +13,7 @@ permalink: /cards/cirdan/
 
 ### _Middle-earth: The Wizards Limited_
 
-{: .character .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .character .mx-sm-6 .mx-md-8 .mb-4 }
 > {: .character-frame .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">3</div>
 > > <div class="character-card-name">Cirdan</div>
