@@ -13,7 +13,7 @@ permalink: /cards/awaken-defenders/
 
 ### _Middle-earth: The Lidless Eye_
 
-{: .hazard .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Awaken Defenders</div>
@@ -27,6 +27,3 @@ permalink: /cards/awaken-defenders/
 > {: .hazard-text .black-text .p-2 }
 > > The number of strikes for each automatic-attack at a Free-hold \[![](/assets/images/free-hold.svg)] or Border-hold \[![](/assets/images/border-hold.svg)] is doubled. Additionally, each detainment automatic-attack at a Free-hold \[![](/assets/images/free-hold.svg)] or Border-hold \[![](/assets/images/border-hold.svg)] becomes a normal automatic-attack. Cannot be duplicated.   <br>_“...the light of the fires showed up many a mark for archers of such skill as Gondor once had boasted."_{: .fs-3 } ***---&#65279;LotRI***{: .fs-3 } 
 >
-> {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

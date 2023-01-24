@@ -13,7 +13,7 @@ permalink: /cards/give-welcome-to-the-unexpected/
 
 ### _Middle-earth: The White Hand_
 
-{: .stage-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .stage-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .stage-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Give Welcome to the Unexpected</div>
@@ -27,6 +27,3 @@ permalink: /cards/give-welcome-to-the-unexpected/
 > {: .stage-resource-text .black-text .p-2 }
 > > _**Unique.**_ _Gandalf specific._ Place this card on Gandalf if he is in play. If on Gandalf, your unique non-character cards normally worth 1 marshalling point are each worth 2 marshalling points. <br>_"But at last there came about by chance a meeting between Gandalf and Thorin that changed all ...”_ ***---&#65279;LotR***{: .fs-3 } 
 > 
-> {: .stage-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

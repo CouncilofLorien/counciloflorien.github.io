@@ -13,7 +13,7 @@ permalink: /cards/ill-report-you/
 
 ### _Middle-earth: The Lidless Eye_
 
-{: .minion-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">I'll Report You</div>
@@ -33,7 +33,7 @@ permalink: /cards/ill-report-you/
 
 ### _Middle-earth Challenge Decks_
 
-{: .minion-resource-reprint .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">I'll Report You</div>
@@ -53,7 +53,7 @@ permalink: /cards/ill-report-you/
 
 ### _Middle-earth: The Balrog Reprint_
 
-{: .minion-resource-reprint .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">I'll Report You</div>

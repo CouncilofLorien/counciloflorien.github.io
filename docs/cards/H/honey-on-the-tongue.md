@@ -13,7 +13,7 @@ permalink: /cards/honey-on-the-tongue/
 
 ### _Middle-earth: The Lidless Eye_
 
-{: .minion-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Honey on the Tongue</div>
@@ -27,6 +27,3 @@ permalink: /cards/honey-on-the-tongue/
 > {: .minion-resource-text .black-text .p-2 }
 > > _Diplomat only._ +5 direct influence against characters by a character in a diplomat's company until the end of the turn. Cannot be duplicated on a given character. <br>_“...and not without reason, having a noble mind and eyes that looked both deep and far."_{: .fs-3 } ***---&#65279;LotRIII***{: .fs-3 } 
 > 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>

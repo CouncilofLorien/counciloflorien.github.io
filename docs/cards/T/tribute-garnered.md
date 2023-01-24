@@ -13,7 +13,7 @@ permalink: /cards/tribute-garnered/
 
 ### _Middle-earth: Against the Shadow_
 
-{: .minion-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Tribute Garnered</div>
@@ -27,6 +27,3 @@ permalink: /cards/tribute-garnered/
 > {: .minion-resource-text .black-text .p-2 }
 > > Playable on a faction in play. That faction gives an additional miscellaneous marshalling point. Cannot be duplicated on a given faction. Discard when any play deck is exhausted. <br>_“...and out of the East men were moving endlessly: swordsmen, spearmen, bowmen upon horses, chariots of chieftains and laden wains."_{: .fs-3 } ***---&#65279;LotRII***{: .fs-3 } 
 > 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>

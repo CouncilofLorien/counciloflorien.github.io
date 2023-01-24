@@ -13,7 +13,7 @@ permalink: /cards/eyes-of-the-shadow/
 
 ### _Middle-earth: Dark Minions_
 
-{: .hazard .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Eyes of the Shadow</div>
@@ -27,6 +27,3 @@ permalink: /cards/eyes-of-the-shadow/
 > {: .hazard-text .black-text .p-2 }
 > > _Environment._ May only be played if Gates of Morning is not in play. The hazard limit is increased by two for each moving company with a size of less than four that also contains a Wizard or a non-ranger character with a mind of 6 or more. Cannot be duplicated. Discard when any play deck is exhausted. <br>_“...a whole regiment of birds had broken away suddenly from the main host...”_ ***---&#65279;LotRII***{: .fs-3 } 
 >
-> {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

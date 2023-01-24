@@ -13,7 +13,7 @@ permalink: /cards/chance-of-being-lost/
 
 ### _Middle-earth: Dark Minions_
 
-{: .hazard .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Chance of Being Lost</div>
@@ -27,6 +27,3 @@ permalink: /cards/chance-of-being-lost/
 > {: .hazard-text .black-text .p-2 }
 > > Playable on a moving company using region movement. Make a roll (or draw a #) modified by -2 for each ranger in the company. If the result is greater than 6, you must replace company's new site card with a different site from your location deck that is located in the same region or an adjacent region as the company's new site. <br>_“...they all left the path and plunged into the forest together."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
 >
-> {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

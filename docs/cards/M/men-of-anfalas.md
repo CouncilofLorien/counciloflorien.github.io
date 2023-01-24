@@ -13,13 +13,10 @@ permalink: /cards/men-of-anfalas/
 
 ### _Middle-earth: The Wizards Limited_
 
-{: .hero-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">2</div>
 > > <div class="card-name">Men of Anfalas</div>
->
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .card-classification .pr-2 }
 > Man Faction
@@ -27,13 +24,10 @@ permalink: /cards/men-of-anfalas/
 > {: .hero-resource-text .black-text .p-2 }
 > > _**Unique.**_ Playable at Lond Galen if the influence check is greater than 8.  <br>_Standard Modifications:_ Dunedain (+1). <br>_"From Anfalas, the Langstrand far away, a long line of men of many sorts, hunters and herdsmen and men of little villages, scantily equipped...”_ ***---&#65279;LotRV***{: .fs-3 } 
 > 
-> {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
 
-{: .hero-resource-unlimited .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">2</div>
 > > <div class="card-name">Men of Anfalas</div>
@@ -47,13 +41,10 @@ permalink: /cards/men-of-anfalas/
 > {: .hero-resource-text .black-text .p-2 }
 > > _**Unique.**_ Playable at Lond Galen if the influence check is greater than 8.  <br>_Standard Modifications:_ Dunedain (+1). <br>_"From Anfalas, the Langstrand far away, a long line of men of many sorts, hunters and herdsmen and men of little villages, scantily equipped...”_ ***---&#65279;LotRV***{: .fs-3 } 
 > 
-> {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
 
-{: .hero-resource-reprint .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hero-resource-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">2</div>
 > > <div class="card-name">Men of Anfalas</div>
@@ -67,6 +58,3 @@ permalink: /cards/men-of-anfalas/
 > {: .hero-resource-text .black-text .p-2 }
 > > _**Unique.**_ Playable at Lond Galen if the influence check is greater than 8.  <br>_Standard Modifications:_ Dunedain (+1). <br>_"From Anfalas, the Langstrand far away, a long line of men of many sorts, hunters and herdsmen and men of little villages, scantily equipped...”_ ***---&#65279;LotRV***{: .fs-3 } 
 > 
-> {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

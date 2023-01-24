@@ -13,7 +13,7 @@ permalink: /cards/lost-in-dark-domains/
 
 ### _Middle-earth: The Wizards Limited_
 
-{: .hazard .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Lost in Dark-domains</div>
@@ -27,13 +27,10 @@ permalink: /cards/lost-in-dark-domains/
 > {: .hazard-text .black-text .p-2 }
 > > Playable on a company that is moving this turn. If the company has a Dark-domain \[![](/assets/images/dark-domain.svg)] in its site path, its hazard limit is doubled until the end of the turn. <br>_“...each day, each mile, was more bitter than the one before, as their strength lessened and the land became more evil."_{: .fs-3 } ***---&#65279;LotRVI***{: .fs-3 } 
 >
-> {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
 
-{: .hazard-unlimited .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard-unlimited ..mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Lost in Dark-domains</div>
@@ -47,6 +44,3 @@ permalink: /cards/lost-in-dark-domains/
 > {: .hazard-text .black-text .p-2 }
 > > Playable on a company that is moving this turn. If the company has a Dark-domain \[![](/assets/images/dark-domain.svg)] in its site path, its hazard limit is doubled until the end of the turn. <br>_“...each day, each mile, was more bitter than the one before, as their strength lessened and the land became more evil."_{: .fs-3 } ***---&#65279;LotRVI***{: .fs-3 } 
 >
-> {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>

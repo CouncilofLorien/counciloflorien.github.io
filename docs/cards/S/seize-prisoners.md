@@ -13,7 +13,7 @@ permalink: /cards/seize-prisoners/
 
 ### _Middle-earth: The Lidless Eye_
 
-{: .minion-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">(2)</div>
 > > <div class="card-name">Seize Prisoners</div>
@@ -27,6 +27,3 @@ permalink: /cards/seize-prisoners/
 > {: .minion-resource-text .black-text .p-2 }
 > > Playable during the site phase at an already tapped Free-hold \[![](/assets/images/free-hold.svg)]. The company faces an attack (attack type as first-automatic-attack at site-3 strikes with 8 prowess). If no characters are untapped after the attack, discard Seize Prisoners. Otherwise, tap 1 character in the company and Seize Prisoners under his control. No marshalling points are received and that character may not untap until Seize Prisoners is stored at a Darkhaven \[![](/assets/images/dark-haven.svg)], Shadow-hold \[![](/assets/images/shadow-hold.svg)], or Dark-hold \[![](/assets/images/dark-hold.svg)], during his organization phase. Cannot be duplicated at a given site. 
 > 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>

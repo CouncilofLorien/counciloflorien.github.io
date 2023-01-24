@@ -13,7 +13,7 @@ permalink: /cards/the-witch-king-unleashed/
 
 ### _Middle-earth: The Lidless Eye_
 
-{: .minion-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">The Witch-king Unleashed</div>
@@ -27,6 +27,3 @@ permalink: /cards/the-witch-king-unleashed/
 > {: .minion-resource-text .black-text .p-2 }
 > > Playable on The Witch-king (as your Ringwraith). +5 to his direct influence this turn. Cannot be duplicated on a given turn. <br>_"He sprang forward and bore down on Frodo."_{: .fs-3 } ***---&#65279;LotRI***{: .fs-3 } 
 > 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>

@@ -13,13 +13,10 @@ permalink: /cards/palantir-of-annuminas/
 
 ### _Middle-earth: The Wizards Limited_
 
-{: .hero-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">3</div>
 > > <div class="card-name">Palantir of Annuminas</div>
->
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .card-classification .pr-2 }
 > Greater Item
@@ -33,7 +30,7 @@ permalink: /cards/palantir-of-annuminas/
 
 ### _Middle-earth: The Wizards Unlimited_
 
-{: .hero-resource-unlimited .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">3</div>
 > > <div class="card-name">Palantir of Annuminas</div>
@@ -53,7 +50,7 @@ permalink: /cards/palantir-of-annuminas/
 
 ### _Middle-earth: The Lidless Eye_
 
-{: .minion-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">3</div>
 > > <div class="card-name">Palantir of Annuminas</div>

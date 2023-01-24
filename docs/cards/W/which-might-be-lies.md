@@ -13,7 +13,7 @@ permalink: /cards/which-might-be-lies/
 
 ### _Middle-earth: Dark Minions_
 
-{: .hazard .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Which Might Be Lies</div>
@@ -27,6 +27,3 @@ permalink: /cards/which-might-be-lies/
 > {: .hazard-text .black-text .p-2 }
 > > Playable on a stored resource permanent-event that required an information site to be played. Discard event.   <br>_“...'But Saruman said nay, and repeated what he had said to us before: that the One would never again be found in Middle-earth.’”_ ***---&#65279;LotRII***{: .fs-3 } 
 >
-> {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

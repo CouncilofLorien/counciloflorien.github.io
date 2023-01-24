@@ -13,7 +13,7 @@ permalink: /cards/sly-southerner/
 
 ### _Middle-earth: The White Hand_
 
-{: .minion-character .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-character .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-character-frame .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Sly Southerner</div>
@@ -33,7 +33,7 @@ permalink: /cards/sly-southerner/
 
 ### _Middle-earth Challenge Decks_
 
-{: .minion-character-reprint .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-character-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-character-frame .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Sly Southerner</div>

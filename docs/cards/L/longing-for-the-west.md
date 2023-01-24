@@ -13,7 +13,7 @@ permalink: /cards/longing-for-the-west/
 
 ### _Middle-earth: The White Hand_
 
-{: .hazard .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Longing for the West</div>

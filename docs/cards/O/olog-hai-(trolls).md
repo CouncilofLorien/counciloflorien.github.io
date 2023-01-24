@@ -13,7 +13,7 @@ permalink: /cards/olog-hai-(trolls)/
 
 ### _Middle-earth: The Wizards Limited_
 
-{: .hazard .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Olog-hai (Trolls)</div>
@@ -33,7 +33,7 @@ permalink: /cards/olog-hai-(trolls)/
 
 ### _Middle-earth: The Wizards Unlimited_
 
-{: .hazard-unlimited .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard-unlimited ..mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Olog-hai (Trolls)</div>

@@ -13,7 +13,7 @@ permalink: /cards/arouse-denizens/
 
 ### _Middle-earth: The Wizards Limited_
 
-{: .hazard .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Arouse Denizens</div>
@@ -27,13 +27,10 @@ permalink: /cards/arouse-denizens/
 > {: .hazard-text .black-text .p-2 }
 > > The prowess of one automatic-attack at a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] site is increased by 3 until the end of turn. Cannot be duplicated at a given site. <br>_“...the goblin army had gathered behind the resisted vanguard, and poured now in rage into the valley...”_ ***---&#65279;Hob***{: .fs-3 } 
 >
-> {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
 
-{: .hazard-unlimited .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard-unlimited ..mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Arouse Denizens</div>
@@ -47,13 +44,10 @@ permalink: /cards/arouse-denizens/
 > {: .hazard-text .black-text .p-2 }
 > > The prowess of one automatic-attack at a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] site is increased by 3 until the end of turn. Cannot be duplicated at a given site. <br>_“...the goblin army had gathered behind the resisted vanguard, and poured now in rage into the valley...”_ ***---&#65279;Hob***{: .fs-3 } 
 >
-> {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth: The Lidless Eye_
 
-{: .hazard .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Arouse Denizens</div>
@@ -67,6 +61,3 @@ permalink: /cards/arouse-denizens/
 > {: .hazard-text .black-text .p-2 }
 > > Playable on a Ruins & Lairs \[![](/assets/images/ruinlair.svg)]. This turn, the prowess of one automatic-attack (your choice) at target site is increased by 3. Cannot be duplicated on a given site. <br>_“...hundreds of black bears dancing slow heavy dances round and round in the moonlight...”_ ***---&#65279;Hob***{: .fs-3 } 
 >
-> {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

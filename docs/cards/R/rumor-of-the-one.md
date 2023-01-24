@@ -13,7 +13,7 @@ permalink: /cards/rumor-of-the-one/
 
 ### _Middle-earth: The Lidless Eye_
 
-{: .minion-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Rumor of the One</div>
@@ -27,6 +27,3 @@ permalink: /cards/rumor-of-the-one/
 > {: .minion-resource-text .black-text .p-2 }
 > > +1 to the corruption of points and the marshalling points for all ring items. Discard when any play deck is exhausted. Cannot be duplicated.   <br>_“‘Yes, alas! Through him the Enemy has learned that the One has been found again.’”_ ***---&#65279;LotRI***{: .fs-3 }
 > 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>

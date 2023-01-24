@@ -13,7 +13,7 @@ permalink: /cards/sack-over-the-head/
 
 ### _Middle-earth: Against the Shadow_
 
-{: .minion-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Sack Over the Head</div>
@@ -27,6 +27,3 @@ permalink: /cards/sack-over-the-head/
 > {: .minion-resource-text .black-text .p-2 }
 > > Playable on a Troll minion whose company is attacking a hero company with at least one Dwarf or Hobbit. For each successful strike against a Dwarf or Hobbit, the character is not wounded, but rather placed "off to the side" with this card. Discard if not characters are placed with this card. Target Troll cannot move to a Darkhaven \[![](/assets/images/dark-haven.svg)]. At the start of your turn, make a roll (draw a #) for each character placed with this card. If the result is greater than 8, the character is eliminated. If target Troll is wounded or removed from active play, discard this card and the surviving Dwarves and Hobbits form a company at the Troll's current site or new site. 
 > 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>

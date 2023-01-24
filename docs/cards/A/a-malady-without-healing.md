@@ -13,7 +13,7 @@ permalink: /cards/a-malady-without-healing/
 
 ### _Middle-earth: The Lidless Eye_
 
-{: .minion-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">A Malady Without Healing</div>
@@ -27,6 +27,3 @@ permalink: /cards/a-malady-without-healing/
 > {: .minion-resource-text .black-text .p-2 }
 > > _Magic._ _Shadow-_Magic.__ Playable during the site phase on a non-Ringwraith, non-Wizard character at the same site as a shadow-magic using character. Target character must make a corruption check modified by -1 followed by a body check (modified by +1 if tapped). If target character is a hero and is eliminated by these checks, you receive his kill marshalling points. Unless the shadow-magic user is a Ringwraith, he makes a corruption check modified by -5. 
 > 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>

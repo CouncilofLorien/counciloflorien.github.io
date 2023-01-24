@@ -13,7 +13,7 @@ permalink: /cards/pocketed-robes/
 
 ### _Middle-earth: The White Hand_
 
-{: .stage-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .stage-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .stage-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Pocketed Robes</div>
@@ -27,6 +27,3 @@ permalink: /cards/pocketed-robes/
 > {: .stage-resource-text .black-text .p-2 }
 > > _**Unique.**_ _Radagast specific._ Place this card on Radagast if he is in play. If on Radagast, you may tap Pocketed Robes during your end-of-turn phase to take Crept along Cleverly, Wizard's River-horses, or Herb-lore from your discard pile to your hand. <br>_“‘...and birds especially are his friends.’”_ ***---&#65279;LotRII***{: .fs-3 } 
 > 
-> {: .stage-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

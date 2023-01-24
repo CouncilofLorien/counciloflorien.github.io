@@ -13,7 +13,7 @@ permalink: /cards/challenge-the-power/
 
 ### _Middle-earth: The Balrog_
 
-{: .minion-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">Challenge the Power</div>
@@ -27,6 +27,3 @@ permalink: /cards/challenge-the-power/
 > {: .minion-resource-text .black-text .p-2 }
 > > _Balrog specific._ Playable on The Balrog if he bears The One Ring. Make a roll adding one for each sage in his company and for each other Challenge the Power in play. If the result is less than 7, The Balrog is eliminated; 7 or 8, discard this card; 9 or 10, you gain 2 marshalling points and The One Ring affects The Balrog; greater than 10, you win the game. Cannot be duplicated on a given turn. 
 > 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>

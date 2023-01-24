@@ -13,13 +13,10 @@ permalink: /cards/beautiful-gold-ring/
 
 ### _Middle-earth: The Wizards Limited_
 
-{: .hero-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">1</div>
 > > <div class="card-name">Beautiful Gold Ring</div>
->
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .card-classification .pr-2 }
 > Gold Ring Item
@@ -33,7 +30,7 @@ permalink: /cards/beautiful-gold-ring/
 
 ### _Middle-earth: The Wizards Unlimited_
 
-{: .hero-resource-unlimited .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">1</div>
 > > <div class="card-name">Beautiful Gold Ring</div>
@@ -53,7 +50,7 @@ permalink: /cards/beautiful-gold-ring/
 
 ### _Middle-earth Challenge Decks_
 
-{: .hero-resource-reprint .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hero-resource-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">1</div>
 > > <div class="card-name">Beautiful Gold Ring</div>

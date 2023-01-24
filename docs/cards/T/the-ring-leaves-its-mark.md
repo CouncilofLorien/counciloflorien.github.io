@@ -13,7 +13,7 @@ permalink: /cards/the-ring-leaves-its-mark/
 
 ### _Middle-earth: The Lidless Eye_
 
-{: .minion-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">The Ring Leaves Its Mark</div>
@@ -27,6 +27,3 @@ permalink: /cards/the-ring-leaves-its-mark/
 > {: .minion-resource-text .black-text .p-2 }
 > > Bring one Black Rider, Fell Rider, or Heralded Lord card from your sideboard or discard pile into your play deck and reshuffle.  Alternatively, playable on your tapped Ringwraith. Make a roll (draw a #)-if the result is greater than 6, untap your Ringwraith.  
 > 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>

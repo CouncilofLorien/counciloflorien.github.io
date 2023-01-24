@@ -13,7 +13,7 @@ permalink: /cards/something-has-slipped/
 
 ### _Middle-earth: The Lidless Eye_
 
-{: .hazard .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Something Has Slipped</div>
@@ -27,6 +27,3 @@ permalink: /cards/something-has-slipped/
 > {: .hazard-text .black-text .p-2 }
 > > Playable on a company. If a character in the company becomes wounded, the prowess of each character in the company is modified by -2 for the rest of the turn. Discard this card during its organization phase if the company is at a Darkhaven \[![](/assets/images/dark-haven.svg)]. Cannot be duplicated on a given company. 
 >
-> {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

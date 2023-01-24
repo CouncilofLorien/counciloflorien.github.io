@@ -13,13 +13,10 @@ permalink: /cards/block/
 
 ### _Middle-earth: The Wizards Limited_
 
-{: .hero-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Block</div>
->
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .card-classification .pr-2 }
 > Short-event
@@ -27,13 +24,10 @@ permalink: /cards/block/
 > {: .hero-resource-text .black-text .p-2 }
 > > _Warrior only._ Warrior does not tap against one strike (unless he is wounded by the strike). <br>_“...there was a twang of bowstrings: several arrows whistled over them, and some fell among them. One smote Frodo between the shoulders...but the arrow fell back, foiled by his hidden coat of mail."_{: .fs-3 } ***---&#65279;LotRII***{: .fs-3 } 
 > 
-> {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
 
-{: .hero-resource-unlimited .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Block</div>
@@ -47,13 +41,10 @@ permalink: /cards/block/
 > {: .hero-resource-text .black-text .p-2 }
 > > _Warrior only._ Warrior does not tap against one strike (unless he is wounded by the strike). <br>_“...there was a twang of bowstrings: several arrows whistled over them, and some fell among them. One smote Frodo between the shoulders...but the arrow fell back, foiled by his hidden coat of mail."_{: .fs-3 } ***---&#65279;LotRII***{: .fs-3 } 
 > 
-> {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Starter Set_
 
-{: .hero-resource-starter .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hero-resource-starter .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Block</div>
@@ -67,6 +58,3 @@ permalink: /cards/block/
 > {: .hero-resource-text .black-text .p-2 }
 > > _Warrior only._ Warrior does not tap against one strike (unless he is wounded by the strike). <br>_“...there was a twang of bowstrings: several arrows whistled over them, and some fell among them. One smote Frodo between the shoulders...but the arrow fell back, foiled by his hidden coat of mail."_{: .fs-3 } ***---&#65279;LotRII***{: .fs-3 } 
 > 
-> {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

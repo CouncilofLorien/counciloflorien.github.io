@@ -13,7 +13,7 @@ permalink: /cards/no-more-nonsense/
 
 ### _Middle-earth: The Lidless Eye_
 
-{: .minion-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">No More Nonsense</div>
@@ -27,6 +27,3 @@ permalink: /cards/no-more-nonsense/
 > {: .minion-resource-text .black-text .p-2 }
 > > Playable on a leader during the organization phase. Make a roll (draw a #) for the leader. Choose another character in the company and do the same. If the leader's result plus his prowess is greater than the other character's result plus his prowess, discard any hazard permanent-events on the other character and the leader receives +2 direct influence. Otherwise, the leader receives -2 direct influence. Cannot be duplicated on a given leader. 
 > 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>

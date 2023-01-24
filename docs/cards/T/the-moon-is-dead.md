@@ -13,7 +13,7 @@ permalink: /cards/the-moon-is-dead/
 
 ### _Middle-earth: Dark Minions_
 
-{: .hazard .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">The Moon Is Dead</div>
@@ -27,13 +27,10 @@ permalink: /cards/the-moon-is-dead/
 > {: .hazard-text .black-text .p-2 }
 > > All Undead attacks receive +1 strike and +1 prowess. All Undead automatic-attacks are duplicated (i.e., each must be faced twice, including all modifications). Discard this card when an Undead attack is defeated. Cannot be duplicated. <br>_"Cold be hand and heart and bone...till the Sun fails and the Moon is dead."_{: .fs-3 } ***---&#65279;LotRI***{: .fs-3 }  
 >
-> {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
 
-{: .hazard-reprint .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">The Moon Is Dead</div>
@@ -47,6 +44,3 @@ permalink: /cards/the-moon-is-dead/
 > {: .hazard-text .black-text .p-2 }
 > > All Undead attacks receive +1 strike and +1 prowess. All Undead automatic-attacks are duplicated (i.e., each must be faced twice, including all modifications). Discard this card when an Undead attack is defeated. Cannot be duplicated. <br>_"Cold be hand and heart and bone...till the Sun fails and the Moon is dead."_{: .fs-3 } ***---&#65279;LotRI***{: .fs-3 }  
 >
-> {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>

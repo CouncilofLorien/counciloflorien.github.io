@@ -13,7 +13,7 @@ permalink: /cards/grey-mountain-goblins/
 
 ### _Middle-earth: The Lidless Eye_
 
-{: .minion-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">3</div>
 > > <div class="card-name">Grey Mountain Goblins</div>
@@ -27,13 +27,10 @@ permalink: /cards/grey-mountain-goblins/
 > {: .minion-resource-text .black-text .p-2 }
 > > _**Unique.**_ Playable at Gondmeaglom if the influence check is greater than 8. Once in play, the number required to influence this faction is 0. <br>_Standard Modifications:_ Orcs of Gundabad (+2), Orcs of Goblin-gate (+2). 
 > 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
 
-{: .minion-resource-reprint .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">3</div>
 > > <div class="card-name">Grey Mountain Goblins</div>
@@ -47,13 +44,10 @@ permalink: /cards/grey-mountain-goblins/
 > {: .minion-resource-text .black-text .p-2 }
 > > _**Unique.**_ Playable at Gondmeaglom if the influence check is greater than 8. Once in play, the number required to influence this faction is 0. <br>_Standard Modifications:_ Orcs of Gundabad (+2), Orcs of Goblin-gate (+2). 
 > 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth: The Balrog Reprint_
 
-{: .minion-resource-reprint .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">3</div>
 > > <div class="card-name">Grey Mountain Goblins</div>
@@ -67,6 +61,3 @@ permalink: /cards/grey-mountain-goblins/
 > {: .minion-resource-text .black-text .p-2 }
 > > _**Unique.**_ Playable at Gondmeaglom if the influence check is greater than 8. Once in play, the number required to influence this faction is 0. <br>_Standard Modifications:_ Orcs of Gundabad (+2), Orcs of Goblin-gate (+2). 
 > 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>

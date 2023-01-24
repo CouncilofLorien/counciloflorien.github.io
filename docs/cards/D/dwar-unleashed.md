@@ -13,7 +13,7 @@ permalink: /cards/dwar-unleashed/
 
 ### _Middle-earth: The Lidless Eye_
 
-{: .minion-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Dwar Unleashed</div>
@@ -27,6 +27,3 @@ permalink: /cards/dwar-unleashed/
 > {: .minion-resource-text .black-text .p-2 }
 > > Playable during the organization phase on Dwar the Ringwraith (if Dwar is your Ringwraith). His own company may use region movement this turn. <br>_“‘He was tall and black-like, and he stooped over me.’”_ ***---&#65279;LotRI***{: .fs-3 } 
 > 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>

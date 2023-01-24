@@ -13,7 +13,7 @@ permalink: /cards/asdriags/
 
 ### _Middle-earth: Against the Shadow_
 
-{: .minion-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">Asdriags</div>
@@ -27,13 +27,10 @@ permalink: /cards/asdriags/
 > {: .minion-resource-text .black-text .p-2 }
 > > _**Unique.**_ Playable at Nurniag Camp if the influence check is greater than 10. <br>_Standard Modifications:_ Nurniags (+2), Variags of Khand (+2), Balchoth (-2). <br>_"Always one and the same, horse and rider, even though every warrior owns two or more mounts."_{: .fs-3 } ***---&#65279;Kuduk Lore***{: .fs-3 } 
 > 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
 
-{: .minion-resource-reprint .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">Asdriags</div>
@@ -47,6 +44,3 @@ permalink: /cards/asdriags/
 > {: .minion-resource-text .black-text .p-2 }
 > > _**Unique.**_ Playable at Nurniag Camp if the influence check is greater than 10. <br>_Standard Modifications:_ Nurniags (+2), Variags of Khand (+2), Balchoth (-2). <br>_"Always one and the same, horse and rider, even though every warrior owns two or more mounts."_{: .fs-3 } ***---&#65279;Kuduk Lore***{: .fs-3 } 
 > 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>

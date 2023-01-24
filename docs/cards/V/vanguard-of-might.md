@@ -13,7 +13,7 @@ permalink: /cards/vanguard-of-might/
 
 ### _Middle-earth: The Balrog_
 
-{: .minion-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Vanguard of Might</div>
@@ -27,6 +27,3 @@ permalink: /cards/vanguard-of-might/
 > {: .minion-resource-text .black-text .p-2 }
 > > _Balrog specific._ Playable if a company at or maving to an Under-deeps site is facing an attack and Flame of Udun is not in play. If not in the company, The Balrog immediately joins the company. This is considered movement for The Balrog with no movement/hazard phase. The Balrog must face a strike from the attack, regardless of any conflicting effects. Following the attack, if untapped, tap The Balrog. 
 > 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>

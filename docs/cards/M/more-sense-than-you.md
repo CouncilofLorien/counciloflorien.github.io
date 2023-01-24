@@ -13,13 +13,10 @@ permalink: /cards/more-sense-than-you/
 
 ### _Middle-earth: The Dragons_
 
-{: .hero-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">More Sense than You</div>
->
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .card-classification .pr-2 }
 > Short-event
@@ -27,6 +24,3 @@ permalink: /cards/more-sense-than-you/
 > {: .hero-resource-text .black-text .p-2 }
 > > Playable before strikes are assigned on an untapped character or ally whose company is facing an attack. Tap target character or ally. He may not be assigned a strike from the attack.   <br>_“...For they sniff danger ahead which you walk right into; and if they run to save themselves, then they run the right way."_{: .fs-3 } ***---&#65279;LotRI***{: .fs-3 } 
 > 
-> {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

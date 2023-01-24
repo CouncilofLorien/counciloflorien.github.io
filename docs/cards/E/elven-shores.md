@@ -13,7 +13,7 @@ permalink: /cards/elven-shores/
 
 ### _Middle-earth: The Wizards Limited_
 
-{: .hero-site .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
 > > <div class="character-card-name">Elven Shores</div>
 >
@@ -26,7 +26,7 @@ permalink: /cards/elven-shores/
 
 ### _Middle-earth: The Wizards Unlimited_
 
-{: .hero-site-unlimited .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
 > > <div class="character-card-name">Elven Shores</div>
 >

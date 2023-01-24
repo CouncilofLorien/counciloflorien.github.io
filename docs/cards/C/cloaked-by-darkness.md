@@ -13,7 +13,7 @@ permalink: /cards/cloaked-by-darkness/
 
 ### _Middle-earth: The Balrog_
 
-{: .minion-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Cloaked by Darkness</div>
@@ -27,6 +27,3 @@ permalink: /cards/cloaked-by-darkness/
 > {: .minion-resource-text .black-text .p-2 }
 > > _Balrog specific._ Playable on a company if Great Shadow is in play. You may bring this card from your sideboard into your play deck and reshuffle during your organization phase. The hazard limit against the company is reduced by one to no minimum. <br>_"Fire claimed their hearts, but shadow cloaked the forms of the Valaraukar."_{: .fs-3 } ***---&#65279;Kuduk Lore***{: .fs-3 } 
 > 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>

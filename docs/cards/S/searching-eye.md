@@ -13,7 +13,7 @@ permalink: /cards/searching-eye/
 
 ### _Middle-earth: The Dragons_
 
-{: .hazard .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Searching Eye</div>
@@ -27,13 +27,10 @@ permalink: /cards/searching-eye/
 > {: .hazard-text .black-text .p-2 }
 > > Cancel any card requiring scout skill before it is resolved or cancel any ongoing effect of a card that required scout skillto play. If this card is played as an on-guard card, it can be revealed during topponent's site phase to cancel a card requiring scout skill.   <br>_“...up he soared blazing into the air and settled on the mountain-top in a spout of green and scarlet flame."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
 >
-> {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Lidless Eye_
 
-{: .hazard .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Searching Eye</div>
@@ -47,13 +44,10 @@ permalink: /cards/searching-eye/
 > {: .hazard-text .black-text .p-2 }
 > > Cancel and discard any card requiring scout skill before it is resolved or cancel any ongoing effect of a card that required scout skill to play. If this card is played as an on-guard card, it can be revealed during the opponent's site phase to cancel and discard a card requiring scout skill before it is resolved. 
 >
-> {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
 
-{: .hazard-reprint .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Searching Eye</div>
@@ -67,6 +61,3 @@ permalink: /cards/searching-eye/
 > {: .hazard-text .black-text .p-2 }
 > > Cancel and discard any card requiring scout skill before it is resolved or cancel any ongoing effect of a card that required scout skill to play. If this card is played as an on-guard card, it can be revealed during the opponent's site phase to cancel and discard a card requiring scout skill before it is resolved. 
 >
-> {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>

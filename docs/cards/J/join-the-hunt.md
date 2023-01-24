@@ -13,7 +13,7 @@ permalink: /cards/join-the-hunt/
 
 ### _Middle-earth: The White Hand_
 
-{: .stage-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .stage-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .stage-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Join the Hunt</div>
@@ -27,6 +27,3 @@ permalink: /cards/join-the-hunt/
 > {: .stage-resource-text .black-text .p-2 }
 > > _**Unique.**_ _Alatar specific._ Your weapon/shield/armor/helmet items in Alatar's company are each worth full marshalling points. Your allies with a prowess attribute in Alatar's company are each worth full marshalling points. <br>_"Companies of the Wood-elves, sometimes with the king at their head, would from time to time ride out to hunt...”_ ***---&#65279;Hob***{: .fs-3 } 
 > 
-> {: .stage-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

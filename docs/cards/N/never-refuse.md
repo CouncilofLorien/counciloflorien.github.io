@@ -13,7 +13,7 @@ permalink: /cards/never-refuse/
 
 ### _Middle-earth: The White Hand_
 
-{: .stage-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .stage-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .stage-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Never Refuse</div>
@@ -27,6 +27,3 @@ permalink: /cards/never-refuse/
 > {: .stage-resource-text .black-text .p-2 }
 > > All corruption checks by your non-Wizard characters are modified by +2. <br>_"I will follow you lead now...”_ ***---&#65279;LotRII***{: .fs-3 } 
 > 
-> {: .stage-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

@@ -13,7 +13,7 @@ permalink: /cards/in-great-wrath/
 
 ### _Middle-earth: Dark Minions_
 
-{: .hazard .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">In Great Wrath</div>
@@ -27,6 +27,3 @@ permalink: /cards/in-great-wrath/
 > {: .hazard-text .black-text .p-2 }
 > > Playable on a Nazgul in your discard pile that could immediately attack. The Nazgul attacks immediately (not counting against the hazard limit) with +2 prowess and -1 body.   <br>_“...the noise of hoofs broke out, and gathering to a gallop, went hammering away into the darkness."_{: .fs-3 } ***---&#65279;LotRI***{: .fs-3 } 
 >
-> {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

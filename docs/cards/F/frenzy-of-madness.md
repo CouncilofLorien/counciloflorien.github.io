@@ -13,7 +13,7 @@ permalink: /cards/frenzy-of-madness/
 
 ### _Middle-earth: The Dragons_
 
-{: .hazard .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Frenzy of Madness</div>
@@ -27,6 +27,3 @@ permalink: /cards/frenzy-of-madness/
 > {: .hazard-text .black-text .p-2 }
 > > Playable on a Shadow-hold \[![](/assets/images/shadow-hold.svg)] not in Gorgoroth, Nurn, Udun, or Imlad Morgul. If you discard (from your hand) a hazard creature playable at the site, one Dragon hazard creature may be played this turn keyed to the site. Alternatively, Daelomin may be played at the site this turn (without discarding a creature). <br>_“...her sight blasted by inner lightnings, her mind in agony...”_ ***---&#65279;LotRIV***{: .fs-3 } 
 >
-> {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

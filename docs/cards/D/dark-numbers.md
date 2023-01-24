@@ -13,13 +13,10 @@ permalink: /cards/dark-numbers/
 
 ### _Middle-earth: Dark Minions_
 
-{: .hero-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Dark Numbers</div>
->
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .card-classification .pr-2 }
 > Permanent-event
@@ -27,6 +24,3 @@ permalink: /cards/dark-numbers/
 > {: .hero-resource-text .black-text .p-2 }
 > > _Stolen Knowledge._ Playable on an untapped scout immediately after facing an Orc, Troll, or Man attack. Tap scout. Can be stored at a Haven \[![](/assets/images/free-haven.svg)]. If not stored, discard to give +3 to an influence attempt against a faction by a character in the same company. <br>_"The orcs were going at a great pace. Those in the foremost files bore torches."_{: .fs-3 } ***---&#65279;LotRVI***{: .fs-3 }  
 > 
-> {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

@@ -13,7 +13,7 @@ permalink: /cards/far-below-the-deepest-delvings/
 
 ### _Middle-earth: Against the Shadow_
 
-{: .minion-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Far Below the Deepest Delvings</div>
@@ -27,6 +27,3 @@ permalink: /cards/far-below-the-deepest-delvings/
 > {: .minion-resource-text .black-text .p-2 }
 > > Playable during the movement/hazard phase on a company moving to an Under-deeps site. At the end of its movement/hazard phase, target company attempts to move to an additional site. Another site card is played and another movement/hazard phase immediately follows. <br>_“‘Far, far below the deepest delvings of the Dwarves, the world is gnawed by nameless things.’”_ ***---&#65279;LotRIII***{: .fs-3 } 
 > 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>

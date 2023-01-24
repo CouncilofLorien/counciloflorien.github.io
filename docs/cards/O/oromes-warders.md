@@ -13,7 +13,7 @@ permalink: /cards/oromes-warders/
 
 ### _Middle-earth: The White Hand_
 
-{: .stage-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .stage-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .stage-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Orome's Warders</div>
@@ -27,6 +27,3 @@ permalink: /cards/oromes-warders/
 > {: .stage-resource-text .black-text .p-2 }
 > > _**Unique.**_ _Alatar specific._ Playable on Alatar if Join the Hunt is in play. Your weapon/shield armor/helmet items are each worth full marshalling points. Your allies with a prowess attribute are each worth full marshalling points. Your Elf factions are each worth 2 marshalling points. <br>_“...to hunt, or to ride and run over the open lands by moonlight or starlight...”_ ***---&#65279;Hob***{: .fs-3 } 
 > 
-> {: .stage-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

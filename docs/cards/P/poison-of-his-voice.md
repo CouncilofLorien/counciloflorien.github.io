@@ -13,7 +13,7 @@ permalink: /cards/poison-of-his-voice/
 
 ### _Middle-earth: The White Hand_
 
-{: .minion-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Poison of his Voice</div>
@@ -27,6 +27,3 @@ permalink: /cards/poison-of-his-voice/
 > {: .minion-resource-text .black-text .p-2 }
 > > _Magic._ _Spirit-_Magic.__ Playable on a hazard permanent-event on a character in a spirit-magic-using character's company. Discard target hazard. Alternatively, playable on a spirit-magic-using Fallen-wizard. -6 to his stage points (to a minimum of 3) for the rest of the turn. Unless the spirit-magic-using character is a Ringwraith, he makes a corruption check modified by -3. 
 > 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>

@@ -13,7 +13,7 @@ permalink: /cards/sarumans-machinery/
 
 ### _Middle-earth: The White Hand_
 
-{: .stage-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .stage-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .stage-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">1</div>
 > > <div class="card-name">Saruman's Machinery</div>
@@ -27,6 +27,3 @@ permalink: /cards/sarumans-machinery/
 > {: .stage-resource-text .black-text .p-2 }
 > > _Saruman specific._ Playable, if you are Saruman, on your protected Isengard or your protected The White Towers. Once technology item is playable at the site during your site phase whether the site is tapped or untapped. Discard when this site is discarded or returned to your location deck. Cannot be duplicated on a given site. 
 > 
-> {: .stage-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

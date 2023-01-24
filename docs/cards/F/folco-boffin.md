@@ -13,7 +13,7 @@ permalink: /cards/folco-boffin/
 
 ### _Middle-earth: Dark Minions_
 
-{: .character .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .character .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .character-frame .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">1</div>
 > > <div class="character-card-name">Folco Boffin</div>

@@ -13,7 +13,7 @@ permalink: /cards/cruel-caradhras/
 
 ### _Middle-earth: The Dragons_
 
-{: .hazard .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Cruel Caradhras</div>
@@ -27,13 +27,10 @@ permalink: /cards/cruel-caradhras/
 > {: .hazard-text .black-text .p-2 }
 > > Playable on a company using region movement to move through one of the following regions (and not stopping at a site therein): High Pass, Redhorn Gate, Angmar, Gundabad, Grey Mountain Narrows, or Imlad Morgul. Each character in target company must face one strike (not an attack) of 8 prowess which cannot be canceled. Any resulting body check is modified by +1. 
 >
-> {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
 
-{: .hazard-reprint .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Cruel Caradhras</div>
@@ -47,6 +44,3 @@ permalink: /cards/cruel-caradhras/
 > {: .hazard-text .black-text .p-2 }
 > > Playable on a company using region movement to move through one of the following regions (and not stopping at a site therein): High Pass, Redhorn Gate, Angmar, Gundabad, Grey Mountain Narrows, or Imlad Morgul. Each character in target company must face one strike (not an attack) of 8 prowess which cannot be canceled. Any resulting body check is modified by +1. 
 >
-> {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>

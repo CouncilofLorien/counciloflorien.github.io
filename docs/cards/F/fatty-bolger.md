@@ -13,7 +13,7 @@ permalink: /cards/fatty-bolger/
 
 ### _Middle-earth: The Wizards Unlimited_
 
-{: .character-unlimited .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .character-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .character-frame .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">1</div>
 > > <div class="character-card-name">Fatty Bolger</div>
@@ -33,7 +33,7 @@ permalink: /cards/fatty-bolger/
 
 ### _Middle-earth Challenge Decks_
 
-{: .character-reprint .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .character-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .character-frame .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">1</div>
 > > <div class="character-card-name">Fatty Bolger</div>

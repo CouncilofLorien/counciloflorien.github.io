@@ -13,7 +13,7 @@ permalink: /cards/terror-heralds-doom/
 
 ### _Middle-earth: The Balrog_
 
-{: .minion-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Terror Heralds Doom</div>
@@ -27,6 +27,3 @@ permalink: /cards/terror-heralds-doom/
 > {: .minion-resource-text .black-text .p-2 }
 > > _Balrog specific._ Playable during the organization phase if Flame of Udun is in play. You may bring this card from your sideboard into your play deck and reshuffle during your organization phase. +2 to all influence attempts this turn by any of your characters.   <br>_“...he looked grey in the face, as one who has felt great fear."_{: .fs-3 } ***---&#65279;LotR***{: .fs-3 } 
 > 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>

@@ -13,7 +13,7 @@ permalink: /cards/tribal-totem/
 
 ### _Middle-earth: Dark Minions_
 
-{: .hazard .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Tribal Totem</div>
@@ -27,6 +27,3 @@ permalink: /cards/tribal-totem/
 > {: .hazard-text .black-text .p-2 }
 > > Playable on an Orc or Troll attack before strikes are assigned; does not count against the hazard limit. The prowess and body of target attack and of all Orc and Troll attacks against this company for the rest of the turn are re each reduced by three. Any body check resulting from a successful strike of such a modified attack is modified by +2. Cannot be duplicated on a given company. <br>_“...a big fighting-orc...bearing the token of the Eye."_{: .fs-3 } ***---&#65279;LotRVI***{: .fs-3 } 
 >
-> {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

@@ -13,7 +13,7 @@ permalink: /cards/hidden-ways/
 
 ### _Middle-earth: The Lidless Eye_
 
-{: .minion-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Hidden Ways</div>
@@ -27,6 +27,3 @@ permalink: /cards/hidden-ways/
 > {: .minion-resource-text .black-text .p-2 }
 > > _Ranger only._ Playable during the organization phase on an untapped ranger whose company is moving. Tap the ranger. No hazard creatures may be keyed by type to Wilderness \[![](/assets/images/wilderness.svg)] against the ranger's company this turn. <br>_“‘Wait till we get to the Under-way. There's a place where we can talk a bit...’”_ ***---&#65279;LotRII***{: .fs-3 } 
 > 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>

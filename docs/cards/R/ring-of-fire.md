@@ -13,7 +13,7 @@ permalink: /cards/ring-of-fire/
 
 ### _Middle-earth: The White Hand_
 
-{: .stage-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .stage-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .stage-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Ring of Fire</div>
@@ -27,6 +27,3 @@ permalink: /cards/ring-of-fire/
 > {: .stage-resource-text .black-text .p-2 }
 > > _**Unique.**_ _Gandalf specific._ Place this card on Gandalf if he is in play. If on Gandalf, you may tap Ring of Fire during your organization phase to take Narya from your discard pile to your hand. <br>_"Shadowfax bore him, shining, unveiled once more, a light starting from his upraised hand."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 } 
 > 
-> {: .stage-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

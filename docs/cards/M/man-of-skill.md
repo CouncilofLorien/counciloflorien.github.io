@@ -13,7 +13,7 @@ permalink: /cards/man-of-skill/
 
 ### _Middle-earth: The White Hand_
 
-{: .stage-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .stage-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .stage-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Man of Skill</div>
@@ -27,6 +27,3 @@ permalink: /cards/man-of-skill/
 > {: .stage-resource-text .black-text .p-2 }
 > > _**Unique.**_ _Saruman specific._ Your permanent-events that require a site where Information is playable are each worth 2 marshalling points. <br>_“‘.,..there lies in Minas Tirith still, unread, I guess, by any save Saruman and myself since the kings failed, a scroll that Isildur made himself.’”_ ***---&#65279;LotRII***{: .fs-3 } 
 > 
-> {: .stage-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

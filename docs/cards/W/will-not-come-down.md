@@ -13,7 +13,7 @@ permalink: /cards/will-not-come-down/
 
 ### _Middle-earth: Dark Minions_
 
-{: .hazard .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Will not Come Down</div>
@@ -27,6 +27,3 @@ permalink: /cards/will-not-come-down/
 > {: .hazard-text .black-text .p-2 }
 > > Playable on an untapped agent. Tap the agent who may then make an influence attempt against an ally, faction, or character. Unused general influence modification does not apply. If successful, the target is not discarded, but rather is returned to its owner's hand.   <br>_“‘...He has gone up into the high places, among the birches that he loves best, and he will not come down.’”_ ***---&#65279;LotRIII***{: .fs-3 } 
 >
-> {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

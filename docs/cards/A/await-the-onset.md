@@ -13,7 +13,7 @@ permalink: /cards/await-the-onset/
 
 ### _Middle-earth: The White Hand_
 
-{: .stage-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .stage-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .stage-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">5</div>
 > > <div class="card-name">Await the Onset</div>
@@ -27,6 +27,3 @@ permalink: /cards/await-the-onset/
 > {: .stage-resource-text .black-text .p-2 }
 > > _Gandalf specific._ Playable if you are Gandalf and have at least: 12 stage points, two protected Wizardhavens \[![](/assets/images/free-haven.svg)], 4 factions, and 6 characters. Each faction you play after Await the Onset is worth 1 marshalling point regardless of other cards in play (place these factions under Await the Onset). Each of your marshalling point cards in a company not in one of your Wizardhavens \[![](/assets/images/free-haven.svg)] when the game ends is worth 1 marshalling point regardless of other cards in play. Cannot be duplicated.  
 > 
-> {: .stage-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

@@ -13,7 +13,7 @@ permalink: /cards/driven-as-by-a-madness/
 
 ### _Middle-earth: Against the Shadow_
 
-{: .minion-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Driven as by a Madness</div>
@@ -27,6 +27,3 @@ permalink: /cards/driven-as-by-a-madness/
 > {: .minion-resource-text .black-text .p-2 }
 > > _Magic._ _Spirit-_Magic.__ Playable on a spirit-magic-using character facing an attack. All characters in his company receive +2 prowess and -1 body against the attack. Unless he is a Ringwraith, character makes a corruption check modified by -3. Cannot be duplicated against a given attack. <br>_“...a great fear fell on all, defender and foe alike...”_ ***---&#65279;LotRV***{: .fs-3 } 
 > 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>

@@ -13,7 +13,7 @@ permalink: /cards/wraith-lord/
 
 ### _Middle-earth: Dark Minions_
 
-{: .hazard .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Wraith-lord</div>
@@ -27,6 +27,3 @@ permalink: /cards/wraith-lord/
 > {: .hazard-text .black-text .p-2 }
 > > Playable on a moving character with two Dark-domains \[![](/assets/images/dark-domain.svg)] in its site path. Each Nazgul that attacks target company this turn receives +2 prowess and lowers the body of any characters it wounds by one (for the rest of the turn). Each Nazgul so played does not count against the hazard limit. Cannot be duplicated on a given turn. <br>_"This way and that turned the dark head helmed and crowned with fear, sweeping shadows with its unseen eyes."_{: .fs-3 } ***---&#65279;LotRIV***{: .fs-3 } 
 >
-> {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

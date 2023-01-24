@@ -13,7 +13,7 @@ permalink: /cards/ruse/
 
 ### _Middle-earth: The Lidless Eye_
 
-{: .minion-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Ruse</div>
@@ -27,13 +27,10 @@ permalink: /cards/ruse/
 > {: .minion-resource-text .black-text .p-2 }
 > > _Diplomat only._ _Scout only._ Playable on an untapped diplomat in a covert company facing an attack. Tap the diplomat. The attack is canceled. Alternatively, playable on a scout facing an attack. No strikes of the attack may be assigned to the scout. 
 > 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
 
-{: .minion-resource-reprint .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Ruse</div>
@@ -47,6 +44,3 @@ permalink: /cards/ruse/
 > {: .minion-resource-text .black-text .p-2 }
 > > _Diplomat only._ _Scout only._ Playable on an untapped diplomat in a covert company facing an attack. Tap the diplomat. The attack is canceled. Alternatively, playable on a scout facing an attack. No strikes of the attack may be assigned to the scout. 
 > 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>

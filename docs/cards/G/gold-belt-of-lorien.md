@@ -13,7 +13,7 @@ permalink: /cards/gold-belt-of-lorien/
 
 ### _Middle-earth: The Dragons_
 
-{: .hero-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Gold Belt of Lorien</div>

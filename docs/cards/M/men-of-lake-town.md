@@ -13,13 +13,10 @@ permalink: /cards/men-of-lake-town/
 
 ### _Middle-earth: The Dragons_
 
-{: .hero-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">2</div>
 > > <div class="card-name">Men of Lake-town</div>
->
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .card-classification .pr-2 }
 > Man Faction
@@ -27,6 +24,3 @@ permalink: /cards/men-of-lake-town/
 > {: .hero-resource-text .black-text .p-2 }
 > > _**Unique.**_ Playable at Lake-town if the influence is greater than 8. <br>_Standard Modifications:_ Men (+2), Dwarves (-1). <br>_“...who still dared to dwell here under the shadow of the distant Dragon-mountain."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
 > 
-> {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

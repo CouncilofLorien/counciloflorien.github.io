@@ -13,7 +13,7 @@ permalink: /cards/gandalfs-friend/
 
 ### _Middle-earth: The White Hand_
 
-{: .stage-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .stage-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .stage-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Gandalf's Friend</div>
@@ -27,6 +27,3 @@ permalink: /cards/gandalfs-friend/
 > {: .stage-resource-text .black-text .p-2 }
 > > _**Unique.**_ _Gandalf specific._ Playable on one of your characters at one of your Wizardhavens \[![](/assets/images/free-haven.svg)] (or in your starting company). +2 to his direct influence. This character requires 1 point of influence to control and may only be controlled by general influence or Gandalf.   <br>_“‘...eye fixed on Mithrandir, seeking whether you said well or too much? He has long had your heart in his keeping.’”_ ***---&#65279;LotRV***{: .fs-3 } 
 > 
-> {: .stage-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

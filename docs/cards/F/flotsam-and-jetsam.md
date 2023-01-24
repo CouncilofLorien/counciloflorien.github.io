@@ -13,7 +13,7 @@ permalink: /cards/flotsam-and-jetsam/
 
 ### _Middle-earth: The White Hand_
 
-{: .hazard .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Flotsam and Jetsam</div>
@@ -27,6 +27,3 @@ permalink: /cards/flotsam-and-jetsam/
 > {: .hazard-text .black-text .p-2 }
 > > If a player has 15 or fewer cards in his play deck (20 or fewer if a Fallen-wizard), all effects are automatically canceled which allow him to search through or look at any portion of his play deck or discard pile outside the normal sequence of play. Discard when any play deck is exhausted. Cannot be duplicated.   <br>_“‘...busy with his fiery thoughts. He has forgotten Treebeard."_{: .fs-3 } ***---&#65279;LotRIII***{: .fs-3 } 
 >
-> {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

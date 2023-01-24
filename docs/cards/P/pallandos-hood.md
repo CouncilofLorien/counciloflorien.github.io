@@ -13,7 +13,7 @@ permalink: /cards/pallandos-hood/
 
 ### _Middle-earth: The White Hand_
 
-{: .stage-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .stage-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .stage-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Pallando's Hood</div>
@@ -27,6 +27,3 @@ permalink: /cards/pallandos-hood/
 > {: .stage-resource-text .black-text .p-2 }
 > > _**Unique.**_ Palando specific. Place this card on Pallando if he is in play. If on Pallando, you may tap Pallando's Hood during your end-of-turn phase to take Gifts as Given of Old, Wizard's Voice, or Eyes of Mandos from your discard pile to your hand. <br>_“...even as the stars moved in Endor's skies, so the spangles on Pallando's hood mirrored the heaven's gyrations."_{: .fs-3 } ***---&#65279;Kuduk Lore***{: .fs-3 } 
 > 
-> {: .stage-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

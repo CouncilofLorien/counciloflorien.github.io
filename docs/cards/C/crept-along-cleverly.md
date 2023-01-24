@@ -13,7 +13,7 @@ permalink: /cards/crept-along-cleverly/
 
 ### _Middle-earth: The White Hand_
 
-{: .minion-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Crept Along Cleverly</div>
@@ -27,13 +27,10 @@ permalink: /cards/crept-along-cleverly/
 > {: .minion-resource-text .black-text .p-2 }
 > > _Ranger only._ Cancels a Wolf, Animal, Spider, Dragon, or Undead attack against a ranger's company. <br>_"Having made up his mind he crept along as cleverly as he could."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
 > 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
 
-{: .minion-resource-reprint .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Crept Along Cleverly</div>
@@ -47,13 +44,10 @@ permalink: /cards/crept-along-cleverly/
 > {: .minion-resource-text .black-text .p-2 }
 > > _Ranger only._ Cancels a Wolf, Animal, Spider, Dragon, or Undead attack against a ranger's company. <br>_"Having made up his mind he crept along as cleverly as he could."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
 > 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth: The Balrog Reprint_
 
-{: .minion-resource-reprint .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Crept Along Cleverly</div>
@@ -67,6 +61,3 @@ permalink: /cards/crept-along-cleverly/
 > {: .minion-resource-text .black-text .p-2 }
 > > _Ranger only._ Cancels a Wolf, Animal, Spider, Dragon, or Undead attack against a ranger's company. <br>_"Having made up his mind he crept along as cleverly as he could."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
 > 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>

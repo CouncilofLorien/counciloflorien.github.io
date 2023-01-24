@@ -13,7 +13,7 @@ permalink: /cards/cunning-foes/
 
 ### _Middle-earth: Dark Minions_
 
-{: .hazard .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Cunning Foes</div>
@@ -27,6 +27,3 @@ permalink: /cards/cunning-foes/
 > {: .hazard-text .black-text .p-2 }
 > > Tap a warrior agent at target company's new site. Agent attacks (not counting against the hazard limit) with a +3 modification to his prowess during the movement/hazard phase. Attacker chooses defending characters. <br>_"At that moment there was a twang of bowstrings: several arrows whistled over them, and some fell among them...”_ ***---&#65279;LotRII***{: .fs-3 } 
 >
-> {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

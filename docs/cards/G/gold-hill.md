@@ -13,7 +13,7 @@ permalink: /cards/gold-hill/
 
 ### _Middle-earth: The Dragons_
 
-{: .hero-site .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
 > > <div class="character-card-name">Gold Hill</div>
@@ -33,7 +33,7 @@ permalink: /cards/gold-hill/
 
 ### _Middle-earth: Against the Shadow_
 
-{: .minion-site .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
 > > <div class="card-name">Gold Hill</div>

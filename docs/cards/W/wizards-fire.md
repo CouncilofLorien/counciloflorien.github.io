@@ -13,13 +13,10 @@ permalink: /cards/wizards-fire/
 
 ### _Middle-earth: The Wizards Limited_
 
-{: .hero-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Wizard's Fire</div>
->
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .card-classification .pr-2 }
 > Short-event
@@ -27,13 +24,10 @@ permalink: /cards/wizards-fire/
 > {: .hero-resource-text .black-text .p-2 }
 > > _Spell._ _Wizard only._ +5 prowess for the Wizard against one attack. Wizard makes a corruption check modified by -4. <br>_“...and then with a word of command, 'naur an edraith ammen!', he thrust the end of his staff into the midst of it. At once a great spout of green and blue flame sprang out, and the wood flared and sputtered."_{: .fs-3 } ***---&#65279;LotRII***{: .fs-3 } 
 > 
-> {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
 
-{: .hero-resource-unlimited .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Wizard's Fire</div>
@@ -47,6 +41,3 @@ permalink: /cards/wizards-fire/
 > {: .hero-resource-text .black-text .p-2 }
 > > _Spell._ _Wizard only._ +5 prowess for the Wizard against one attack. Wizard makes a corruption check modified by -4. <br>_“...and then with a word of command, 'naur an edraith ammen!', he thrust the end of his staff into the midst of it. At once a great spout of green and blue flame sprang out, and the wood flared and sputtered."_{: .fs-3 } ***---&#65279;LotRII***{: .fs-3 } 
 > 
-> {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

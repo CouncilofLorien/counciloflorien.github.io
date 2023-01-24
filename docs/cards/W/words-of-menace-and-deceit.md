@@ -13,7 +13,7 @@ permalink: /cards/words-of-menace-and-deceit/
 
 ### _Middle-earth: The Lidless Eye_
 
-{: .minion-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Words of Menace and Deceit</div>
@@ -27,6 +27,3 @@ permalink: /cards/words-of-menace-and-deceit/
 > {: .minion-resource-text .black-text .p-2 }
 > > _Magic._ _Spirit-_Magic.__ Playable on a spirit-magic-using character. +5 to the character's direct influence for the rest of turn. Unless he is a Ringwraith, he makes a corruption check modified by -4. Cannot be duplicated on a given character.   <br>_“...his breath came like the hiss of snakes, and all who stood by shuddered."_{: .fs-3 } ***---&#65279;LotRII***{: .fs-3 } 
 > 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>

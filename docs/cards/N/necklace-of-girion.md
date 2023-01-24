@@ -13,7 +13,7 @@ permalink: /cards/necklace-of-girion/
 
 ### _Middle-earth: Dark Minions_
 
-{: .hero-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">4</div>
 > > <div class="card-name">Necklace of Girion</div>
@@ -33,7 +33,7 @@ permalink: /cards/necklace-of-girion/
 
 ### _Middle-earth: Against the Shadow_
 
-{: .minion-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">3</div>
 > > <div class="card-name">Necklace of Girion</div>

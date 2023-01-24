@@ -13,13 +13,10 @@ permalink: /cards/wizards-flame/
 
 ### _Middle-earth: The Wizards Limited_
 
-{: .hero-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Wizard's Flame</div>
->
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .card-classification .pr-2 }
 > Short-event
@@ -27,13 +24,10 @@ permalink: /cards/wizards-flame/
 > {: .hero-resource-text .black-text .p-2 }
 > > _Spell._ _Wizard only._ All attacks against Wizard's company suffer a -2 modification to prowess for the rest of the turn. Wizard makes a corruption check modified by -3. <br>_"There was a roar and a crackle, and the tree above him burst into a leaf and bloom of blinding flame. The fire leapt from tree-top to tree-top. The whole hill was crowned with dazzling light."_{: .fs-3 } ***---&#65279;LotRII***{: .fs-3 } 
 > 
-> {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
 
-{: .hero-resource-unlimited .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Wizard's Flame</div>
@@ -47,6 +41,3 @@ permalink: /cards/wizards-flame/
 > {: .hero-resource-text .black-text .p-2 }
 > > _Spell._ _Wizard only._ All attacks against Wizard's company suffer a -2 modification to prowess for the rest of the turn. Wizard makes a corruption check modified by -3. <br>_"There was a roar and a crackle, and the tree above him burst into a leaf and bloom of blinding flame. The fire leapt from tree-top to tree-top. The whole hill was crowned with dazzling light."_{: .fs-3 } ***---&#65279;LotRII***{: .fs-3 } 
 > 
-> {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

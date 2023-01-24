@@ -13,7 +13,7 @@ permalink: /cards/while-the-yellow-face-sleeps/
 
 ### _Middle-earth: The Lidless Eye_
 
-{: .minion-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">While the Yellow Face Sleeps</div>
@@ -27,6 +27,3 @@ permalink: /cards/while-the-yellow-face-sleeps/
 > {: .minion-resource-text .black-text .p-2 }
 > > Playable during the organization phase on your Ringwraith at a Darkhaven \[![](/assets/images/dark-haven.svg)]. You may keep one more card than normal in your hand. Discard this card if your Ringwraith moves. Cannot be duplicated by a given player.   <br>_“‘You are not wise to be glad of the Yellow Face,' said Gollum. 'It shows you up.’”_ ***---&#65279;LotRII***{: .fs-3 } 
 > 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>

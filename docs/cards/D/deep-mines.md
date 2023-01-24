@@ -13,7 +13,7 @@ permalink: /cards/deep-mines/
 
 ### _Middle-earth: The White Hand_
 
-{: .fw-site .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .fw-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .fw-site-text .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
 > > <div class="card-name">Deep Mines</div>

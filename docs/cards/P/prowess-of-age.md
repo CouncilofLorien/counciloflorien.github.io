@@ -13,7 +13,7 @@ permalink: /cards/prowess-of-age/
 
 ### _Middle-earth: The Dragons_
 
-{: .hazard .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Prowess of Age</div>
@@ -27,6 +27,3 @@ permalink: /cards/prowess-of-age/
 > {: .hazard-text .black-text .p-2 }
 > > Targets and cancels any effect which (declared earlier in the same chain of effects) that would cancel an attack from a unique Dragon manifestation. Alternatively, gives a prowess bonus to a Dragon or Drake attack (must be played before its strikes are assigned) dictated by the number of Prowess of Age cards played on the attack: +1 prowess if 1 played; +4 if 2 played; +9 if 3 played. <br>_“‘...Then I was young and tender. Now I am old and strong, strong, strong.’”_ ***---&#65279;Hob***{: .fs-3 } 
 >
-> {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

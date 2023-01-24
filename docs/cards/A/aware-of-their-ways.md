@@ -13,7 +13,7 @@ permalink: /cards/aware-of-their-ways/
 
 ### _Middle-earth: Dark Minions_
 
-{: .hazard .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Aware of Their Ways</div>
@@ -27,6 +27,3 @@ permalink: /cards/aware-of-their-ways/
 > {: .hazard-text .black-text .p-2 }
 > > Opponent reveals four cards at random from his discard pile. You may choose a non-unique one and remove it from play. Opponent discards the other three. <br>_"Quickly now he drew off the cloth, wrapped the stone in it and kneeling down, laid it back in the wizard's hand."_{: .fs-3 } ***---&#65279;LotRIII***{: .fs-3 } 
 >
-> {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

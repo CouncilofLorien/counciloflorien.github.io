@@ -13,7 +13,7 @@ permalink: /cards/parsimony-of-seclusion/
 
 ### _Middle-earth: The Dragons_
 
-{: .hazard .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Parsimony of Seclusion</div>
@@ -27,6 +27,3 @@ permalink: /cards/parsimony-of-seclusion/
 > {: .hazard-text .black-text .p-2 }
 > > Return any Dragon manifestation to your hand from your discard pile. Alternatively, return any manifestation of Agburanar to your hand from your discard pile and increase the hazard limit by two. <br>_“...all the land was desolate and empty."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
 >
-> {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

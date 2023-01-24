@@ -13,7 +13,7 @@ permalink: /cards/shadow-of-mordor/
 
 ### _Middle-earth: The Dragons_
 
-{: .hazard .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Shadow of Mordor</div>
@@ -27,6 +27,3 @@ permalink: /cards/shadow-of-mordor/
 > {: .hazard-text .black-text .p-2 }
 > > _Environment._ The hazard limit for each company is increased by one for every card over one drawn by that by that company during its movement/hazard phase. Additionally, if Doors of Night is in play, during each company's movement/hazard phase, the hazard player may draw one additional card for every card in excess of one draw by his opponent. Cannot be duplicated.   <br>_“‘...Alas! Mordor draws all wicked things...’”_ ***---&#65279;LotRI***{: .fs-3 } 
 >
-> {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

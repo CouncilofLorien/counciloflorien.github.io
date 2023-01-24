@@ -13,13 +13,10 @@ permalink: /cards/gollums-fate/
 
 ### _Middle-earth: The Wizards Limited_
 
-{: .hero-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Gollum's Fate</div>
->
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .card-classification .pr-2 }
 > Short-event
@@ -27,13 +24,10 @@ permalink: /cards/gollums-fate/
 > {: .hero-resource-text .black-text .p-2 }
 > > _**Unique.**_ Only playable if the One Ring and Gollum are both at Mount Doom during the site phase. The One Ring is destroyed and its bearer's player wins. <br>_“...even as his eyes were lifted up to gloat on his prize, he stepped too far...and then with a shriek he fell. Out of the depths came his last wail 'precious', and he was gone."_{: .fs-3 } ***---&#65279;LotRVI***{: .fs-3 } 
 > 
-> {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
 
-{: .hero-resource-unlimited .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Gollum's Fate</div>
@@ -47,6 +41,3 @@ permalink: /cards/gollums-fate/
 > {: .hero-resource-text .black-text .p-2 }
 > > _**Unique.**_ Only playable if the One Ring and Gollum are both at Mount Doom during the site phase. The One Ring is destroyed and its bearer's player wins. <br>_“...even as his eyes were lifted up to gloat on his prize, he stepped too far...and then with a shriek he fell. Out of the depths came his last wail 'precious', and he was gone."_{: .fs-3 } ***---&#65279;LotRVI***{: .fs-3 } 
 > 
-> {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

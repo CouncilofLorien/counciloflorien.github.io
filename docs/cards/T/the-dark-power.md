@@ -13,7 +13,7 @@ permalink: /cards/the-dark-power/
 
 ### _Middle-earth: Against the Shadow_
 
-{: .minion-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">The Dark Power</div>
@@ -27,6 +27,3 @@ permalink: /cards/the-dark-power/
 > {: .minion-resource-text .black-text .p-2 }
 > > Playable only if you are Sauron. +3 to an influence check against a faction. If the check is not successful, shuffle the faction into your play deck. <br>_“‘But don't forget the enemies don't love us any more than they love Him, and if they get topsides on Him, we're done too.’”_ ***---&#65279;LotRIV***{: .fs-3 } 
 > 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>

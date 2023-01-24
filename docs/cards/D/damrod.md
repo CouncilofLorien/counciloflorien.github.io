@@ -13,7 +13,7 @@ permalink: /cards/damrod/
 
 ### _Middle-earth: The Wizards Limited_
 
-{: .character .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .character .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .character-frame .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="character-card-name">Damrod</div>
@@ -33,7 +33,7 @@ permalink: /cards/damrod/
 
 ### _Middle-earth: The Wizards Unlimited_
 
-{: .character-unlimited .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .character-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .character-frame .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="character-card-name">Damrod</div>

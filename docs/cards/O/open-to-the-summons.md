@@ -13,7 +13,7 @@ permalink: /cards/open-to-the-summons/
 
 ### _Middle-earth: The White Hand_
 
-{: .minion-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Open to the Summons</div>
@@ -27,6 +27,3 @@ permalink: /cards/open-to-the-summons/
 > {: .minion-resource-text .black-text .p-2 }
 > > Playable on a minion company. One agent minion may be played with target company at a Darkhaven \[![](/assets/images/dark-haven.svg)]-place this card with the agent. -1 to his mind to a minimum of 1. This card may be played with a starting company in lieu of a minor item. When played as such, reveal it when starting companies are determined as if it were a character. Cannot be duplicated on a given character. 
 > 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>

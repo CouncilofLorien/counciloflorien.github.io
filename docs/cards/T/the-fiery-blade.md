@@ -13,7 +13,7 @@ permalink: /cards/the-fiery-blade/
 
 ### _Middle-earth: The White Hand_
 
-{: .minion-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">The Fiery Blade</div>
@@ -27,6 +27,3 @@ permalink: /cards/the-fiery-blade/
 > {: .minion-resource-text .black-text .p-2 }
 > > Playable on your Ringwraith or a Ringwraith follower. Each strike against the Ringwraith receives -1 body (-2 body and -2 prowess against The Witch-king). Discard The Fiery Blade after a strike against the Ringwraith fails or if the Ringwraith has Morgul-blade. Cannot be duplicated. <br>_"And with that he lifted high his sword and flames ran down the blade."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 } 
 > 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>

@@ -13,7 +13,7 @@ permalink: /cards/dragons-terror/
 
 ### _Middle-earth: The Dragons_
 
-{: .hazard .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Dragon's Terror</div>
@@ -27,6 +27,3 @@ permalink: /cards/dragons-terror/
 > {: .hazard-text .black-text .p-2 }
 > > _Dark Enchantment._ Playable on a Dragon or Drake hazard creature attack before the strikes are assigned. For each card you discard from your hand, when Dragon's Terror is declared, target one non-Wizard character of your choice in the defending company and make a roll (or draw a #)-add +2 for a Dragon attack. If the result is greater than the character's mind, the character taps. Each card discarded in this fashion counts as one against the company's hazard limit. 
 >
-> {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

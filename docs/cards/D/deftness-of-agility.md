@@ -13,7 +13,7 @@ permalink: /cards/deftness-of-agility/
 
 ### _Middle-earth: The Dragons_
 
-{: .hazard .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Deftness of Agility</div>
@@ -27,6 +27,3 @@ permalink: /cards/deftness-of-agility/
 > {: .hazard-text .black-text .p-2 }
 > > A Dragon can assign a strike (with a -3 modification to its prowess) to a character already assigned to receive one of its strikes. Alternatively, a manifestation of Bairanax can direct such a strike with no prowess modification. <br>_"Not Gollum himself could have twisted more quickly or more fiercely."_{: .fs-3 } ***---&#65279;LotRIV***{: .fs-3 } 
 >
-> {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

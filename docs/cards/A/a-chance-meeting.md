@@ -13,7 +13,7 @@ permalink: /cards/a-chance-meeting/
 
 ### _Middle-earth: The Wizards Limited_
 
-{: .hero-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">A Chance Meeting</div>
@@ -24,11 +24,10 @@ permalink: /cards/a-chance-meeting/
 > {: .hero-resource-text .black-text .p-2 }
 > > A character (even a Hobbit) may be brought into play with direct influence at any Free-hold \[![](/assets/images/free-hold.svg)], Border-hold \[![](/assets/images/border-hold.svg)], or Ruins & Lairs \[![](/assets/images/ruinlair.svg)]. <br>_"But at last there came about by chance a meeting between Gandalf and Thorin that changed all the fortunes of the House of Durin, and led to other and greater ends beside."_{: .fs-3 } ***---&#65279;LotR***{: .fs-3 } 
 > 
-> {: .hero-resource-name .p-1 .pr-2 }
 
 ### _Middle-earth: The Wizards Unlimited_
 
-{: .hero-resource-unlimited .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">A Chance Meeting</div>
@@ -42,6 +41,3 @@ permalink: /cards/a-chance-meeting/
 > {: .hero-resource-text .black-text .p-2 }
 > > A character (even a Hobbit) may be brought into play with direct influence at any Free-hold \[![](/assets/images/free-hold.svg)], Border-hold \[![](/assets/images/border-hold.svg)], or Ruins & Lairs \[![](/assets/images/ruinlair.svg)]. <br>_"But at last there came about by chance a meeting between Gandalf and Thorin that changed all the fortunes of the House of Durin, and led to other and greater ends beside."_{: .fs-3 } ***---&#65279;LotR***{: .fs-3 } 
 > 
-> {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

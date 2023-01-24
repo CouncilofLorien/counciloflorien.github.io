@@ -13,7 +13,7 @@ permalink: /cards/seek-without-success/
 
 ### _Middle-earth: Dark Minions_
 
-{: .hazard .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Seek without Success</div>
@@ -27,6 +27,3 @@ permalink: /cards/seek-without-success/
 > {: .hazard-text .black-text .p-2 }
 > > Discard a ranger agent at target company's new site. Company must immediately return to its site of origin.   <br>_“‘...Together we sought for Gollum down the whole length of Wilderland, without hope. And without success."_{: .fs-3 } ***---&#65279;LotRI***{: .fs-3 }  
 >
-> {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

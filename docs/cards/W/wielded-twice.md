@@ -13,13 +13,10 @@ permalink: /cards/wielded-twice/
 
 ### _Middle-earth: The Dragons_
 
-{: .hero-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Wielded Twice</div>
->
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .card-classification .pr-2 }
 > Short-event
@@ -27,6 +24,3 @@ permalink: /cards/wielded-twice/
 > {: .hero-resource-text .black-text .p-2 }
 > > _Ritual._ Tap a sage to untap an item in his company. Sage makes a corruption check. <br>_“‘Two?' said Legolas. 'I have done better, though now I must grope for spent arrows; all mine are gone. Yet I make my tale twenty at the least.’”_ ***---&#65279;LotRIII***{: .fs-3 } 
 > 
-> {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

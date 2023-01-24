@@ -13,7 +13,7 @@ permalink: /cards/nenselde-the-wingild/
 
 ### _Middle-earth: The Dragons_
 
-{: .hero-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">2</div>
 > > <div class="card-name">Nenselde the Wingild</div>
@@ -27,6 +27,3 @@ permalink: /cards/nenselde-the-wingild/
 > {: .hero-resource-text .black-text .p-2 }
 > > _**Unique.**_ Playable at Dol Amroth. May not be attacked. Tap Nenselde the Wingild to return one environment resource long-event or short-event from your discard pile to your hand. Discard Nenselde the Wingild if her company moves to a site that is not in: Belfalas, Bay of Belfalas, Anfalas, or Mouths of the Anduin. 
 > 
-> {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

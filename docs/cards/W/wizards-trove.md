@@ -13,7 +13,7 @@ permalink: /cards/wizards-trove/
 
 ### _Middle-earth: The White Hand_
 
-{: .stage-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .stage-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .stage-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Wizard's Trove</div>
@@ -27,6 +27,3 @@ permalink: /cards/wizards-trove/
 > {: .stage-resource-text .black-text .p-2 }
 > > You may play The White Tree at one of your Wizardhavens \[![](/assets/images/free-haven.svg)] if Sapling of the White Tree is stored there. Place Wizard's Trove with The White Tree-which is worth full marshalling points. Your Wizardhaven \[![](/assets/images/free-haven.svg)] become protected. Ignore the text of The White Tree. Alternatively, you may store one miscellaneous marshalling point card at one of your Wizardhavens \[![](/assets/images/free-haven.svg)]. Any reference to the site where the card can normally be stored are transferred instead to the Wizardhaven \[![](/assets/images/free-haven.svg)]. Place Wizard's Trove with the stored card-which is worth full marshalling points. 
 > 
-> {: .stage-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

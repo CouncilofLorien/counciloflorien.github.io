@@ -13,7 +13,7 @@ permalink: /cards/anduril,-the-flame-of-the-west/
 
 ### _Middle-earth: The Wizards Limited_
 
-{: .hero-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">1(4)</div>
 > > <div class="card-name">Anduril, the Flame of the West</div>
@@ -33,7 +33,7 @@ permalink: /cards/anduril,-the-flame-of-the-west/
 
 ### _Middle-earth: The Wizards Unlimited_
 
-{: .hero-resource-unlimited .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">1(4)</div>
 > > <div class="card-name">Anduril, the Flame of the West</div>

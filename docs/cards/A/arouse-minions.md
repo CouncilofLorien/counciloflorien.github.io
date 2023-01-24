@@ -13,7 +13,7 @@ permalink: /cards/arouse-minions/
 
 ### _Middle-earth: The Wizards Limited_
 
-{: .hazard .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Arouse Minions</div>
@@ -27,13 +27,10 @@ permalink: /cards/arouse-minions/
 > {: .hazard-text .black-text .p-2 }
 > > The prowess of one automatic-attack at a Shadow-hold \[![](/assets/images/shadow-hold.svg)] or Dark-hold \[![](/assets/images/dark-hold.svg)] site is increased by 3 until the end of the turn. Cannot be duplicated at a given site. <br>_"Long had it been forging in the dark smithies of Mordor, ...on it spells of ruin lay. Grond they named it, in memory of the Hammer of the Underworld of old."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 } 
 >
-> {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
 
-{: .hazard-unlimited .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard-unlimited ..mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Arouse Minions</div>
@@ -47,13 +44,10 @@ permalink: /cards/arouse-minions/
 > {: .hazard-text .black-text .p-2 }
 > > The prowess of one automatic-attack at a Shadow-hold \[![](/assets/images/shadow-hold.svg)] or Dark-hold \[![](/assets/images/dark-hold.svg)] site is increased by 3 until the end of the turn. Cannot be duplicated at a given site. <br>_"Long had it been forging in the dark smithies of Mordor, ...on it spells of ruin lay. Grond they named it, in memory of the Hammer of the Underworld of old."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 } 
 >
-> {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Starter Set_
 
-{: .hazard-starter .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard-starter .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Arouse Minions</div>
@@ -67,6 +61,3 @@ permalink: /cards/arouse-minions/
 > {: .hazard-text .black-text .p-2 }
 > > The prowess of one automatic-attack at a Shadow-hold \[![](/assets/images/shadow-hold.svg)] or Dark-hold \[![](/assets/images/dark-hold.svg)] site is increased by 3 until the end of the turn. Cannot be duplicated at a given site. <br>_"Long had it been forging in the dark smithies of Mordor, ...on it spells of ruin lay. Grond they named it, in memory of the Hammer of the Underworld of old."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 } 
 >
-> {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>

@@ -13,7 +13,7 @@ permalink: /cards/irerock/
 
 ### _Middle-earth: The Wizards Limited_
 
-{: .hero-site .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
 > > <div class="character-card-name">Irerock</div>
@@ -33,7 +33,7 @@ permalink: /cards/irerock/
 
 ### _Middle-earth: The Wizards Unlimited_
 
-{: .hero-site-unlimited .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
 > > <div class="character-card-name">Irerock</div>
@@ -53,7 +53,7 @@ permalink: /cards/irerock/
 
 ### _Middle-earth: Against the Shadow_
 
-{: .minion-site .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
 > > <div class="card-name">Irerock</div>
@@ -73,7 +73,7 @@ permalink: /cards/irerock/
 
 ### _Middle-earth Challenge Decks_
 
-{: .minion-site-reprint .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
 > > <div class="card-name">Irerock</div>

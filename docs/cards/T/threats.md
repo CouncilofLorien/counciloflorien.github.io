@@ -13,7 +13,7 @@ permalink: /cards/threats/
 
 ### _Middle-earth: The Lidless Eye_
 
-{: .minion-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Threats</div>
@@ -27,6 +27,3 @@ permalink: /cards/threats/
 > {: .minion-resource-text .black-text .p-2 }
 > > _Warrior only._ Playable on a warrior attempting to influence a faction. Warrior does not use his unused direct influence for the attempt. Instead he uses his prowess, to a maximum modifier of +6. <br>_"Refuse and things will not seem so well. Do you refuse?"_ ***---&#65279;LotRII***{: .fs-3 } 
 > 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>

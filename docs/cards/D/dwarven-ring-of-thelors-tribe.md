@@ -13,7 +13,7 @@ permalink: /cards/dwarven-ring-of-thelors-tribe/
 
 ### _Middle-earth: The Wizards Limited_
 
-{: .hero-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">4(6)</div>
 > > <div class="card-name">Dwarven Ring of Thelor's Tribe</div>
@@ -33,7 +33,7 @@ permalink: /cards/dwarven-ring-of-thelors-tribe/
 
 ### _Middle-earth: The Wizards Unlimited_
 
-{: .hero-resource-unlimited .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">4(6)</div>
 > > <div class="card-name">Dwarven Ring of Thelor's Tribe</div>
@@ -53,7 +53,7 @@ permalink: /cards/dwarven-ring-of-thelors-tribe/
 
 ### _Middle-earth: Against the Shadow_
 
-{: .minion-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">4</div>
 > > <div class="card-name">Dwarven Ring of Thelor's Tribe</div>
@@ -73,7 +73,7 @@ permalink: /cards/dwarven-ring-of-thelors-tribe/
 
 ### _Middle-earth Challenge Decks_
 
-{: .minion-resource-reprint .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">4</div>
 > > <div class="card-name">Dwarven Ring of Thelor's Tribe</div>

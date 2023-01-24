@@ -13,7 +13,7 @@ permalink: /cards/a-more-evil-hour/
 
 ### _Middle-earth: The Balrog_
 
-{: .minion-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">A More Evil Hour</div>
@@ -27,6 +27,3 @@ permalink: /cards/a-more-evil-hour/
 > {: .minion-resource-text .black-text .p-2 }
 > > _Balrog specific._ Tap this card when an opponent plays a card normally giving him three or more marshalling points. The card does not untap. If tapped, you may discard this card during your organization phase to target a company allowed to move with region movement. The company may move up to two additional regions if moving to a site where an opponent's company is present-and also, thereafter, when leaving this site. 
 > 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>

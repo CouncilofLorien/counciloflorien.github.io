@@ -13,7 +13,7 @@ permalink: /cards/strangling-coils/
 
 ### _Middle-earth: The Balrog_
 
-{: .minion-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Strangling Coils</div>
@@ -27,6 +27,3 @@ permalink: /cards/strangling-coils/
 > {: .minion-resource-text .black-text .p-2 }
 > > _Balrog specific._ _Demon fana._ Playable during your organization phase on The Balrog. Return this card to your hand: when you play another Demon fana card, or, if you choose, during your organization phase. +3 direct influence; -1 body. The Balrog gains the diplomat skill and may have followers. Once during his movement/hazard phase, you may untap all tapped characters in The Balrog's company. If then untapped, tap The Balrog. 
 > 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>

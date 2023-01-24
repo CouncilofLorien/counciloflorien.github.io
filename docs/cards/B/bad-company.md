@@ -13,7 +13,7 @@ permalink: /cards/bad-company/
 
 ### _Middle-earth: The White Hand_
 
-{: .stage-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .stage-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .stage-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Bad Company</div>
@@ -27,6 +27,3 @@ permalink: /cards/bad-company/
 > {: .stage-resource-text .black-text .p-2 }
 > > You may play Orc and Troll characters and include them in your starting company. Cannot be duplicated by a given player. <br>_“‘We are the servants of Saruman the Wise, the White Hand: the Hand that gives us Man's-flesh to eat.’”_ ***---&#65279;LotRIII***{: .fs-3 } 
 > 
-> {: .stage-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

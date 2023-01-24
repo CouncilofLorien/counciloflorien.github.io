@@ -13,7 +13,7 @@ permalink: /cards/goblins-of-goblin-gate/
 
 ### _Middle-earth: The Lidless Eye_
 
-{: .minion-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">Goblins of Goblin-gate</div>
@@ -27,13 +27,10 @@ permalink: /cards/goblins-of-goblin-gate/
 > {: .minion-resource-text .black-text .p-2 }
 > > _**Unique.**_ Playable at Goblin-gate if the influence check is greater than 8. Once in play, the number required to influence this faction is 0. <br>_Standard Modifications:_ Grey Mountain Goblins (+2). <br>_“...goblins in full armour with drawn swords sitting just inside the door, watching it with wide eyes...”_ ***---&#65279;Hob***{: .fs-3 } 
 > 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
 
-{: .minion-resource-reprint .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">Goblins of Goblin-gate</div>
@@ -47,13 +44,10 @@ permalink: /cards/goblins-of-goblin-gate/
 > {: .minion-resource-text .black-text .p-2 }
 > > _**Unique.**_ Playable at Goblin-gate if the influence check is greater than 8. Once in play, the number required to influence this faction is 0. <br>_Standard Modifications:_ Grey Mountain Goblins (+2). <br>_“...goblins in full armour with drawn swords sitting just inside the door, watching it with wide eyes...”_ ***---&#65279;Hob***{: .fs-3 } 
 > 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth: The Balrog Reprint_
 
-{: .minion-resource-reprint .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">Goblins of Goblin-gate</div>
@@ -67,6 +61,3 @@ permalink: /cards/goblins-of-goblin-gate/
 > {: .minion-resource-text .black-text .p-2 }
 > > _**Unique.**_ Playable at Goblin-gate if the influence check is greater than 8. Once in play, the number required to influence this faction is 0. <br>_Standard Modifications:_ Grey Mountain Goblins (+2). <br>_“...goblins in full armour with drawn swords sitting just inside the door, watching it with wide eyes...”_ ***---&#65279;Hob***{: .fs-3 } 
 > 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>

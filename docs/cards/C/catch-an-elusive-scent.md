@@ -13,7 +13,7 @@ permalink: /cards/catch-an-elusive-scent/
 
 ### _Middle-earth: The Lidless Eye_
 
-{: .minion-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Catch an Elusive Scent</div>
@@ -27,6 +27,3 @@ permalink: /cards/catch-an-elusive-scent/
 > {: .minion-resource-text .black-text .p-2 }
 > > _Scout only._ Playable during the site phase on an already tapped scout. Tap the scout. Another character in his company may play any minor, major, or gold ring item normally playable at the site. This does not tap the site, and Catch an Elusive Scent can be played at a site that is already tapped.  
 > 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>

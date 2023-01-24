@@ -13,7 +13,7 @@ permalink: /cards/dragons-blood/
 
 ### _Middle-earth: The Dragons_
 
-{: .hazard .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Dragon's Blood</div>
@@ -27,6 +27,3 @@ permalink: /cards/dragons-blood/
 > {: .hazard-text .black-text .p-2 }
 > > Playable on a character facing a Dragon or Drake strike (before the dice are rolled to resolve the strike). If the strike fails, the target character must make a body check modified by -1 if he has armor, by -1 if he has a shield, and by -1 if he has a helmet. Cannot be duplicated on a given character. <br>_"The enchanted blood of the Great Worms becomes increasingly caustic and corrosive with age."_{: .fs-3 } ***---&#65279;Kuduk Lore***{: .fs-3 } 
 >
-> {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

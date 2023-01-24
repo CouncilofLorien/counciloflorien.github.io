@@ -13,7 +13,7 @@ permalink: /cards/lesser-spiders/
 
 ### _Middle-earth: The Dragons_
 
-{: .hazard .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Lesser Spiders</div>
@@ -33,7 +33,7 @@ permalink: /cards/lesser-spiders/
 
 ### _Middle-earth: The Wizards Starter Set_
 
-{: .hazard-starter .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard-starter .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Lesser Spiders</div>
@@ -53,7 +53,7 @@ permalink: /cards/lesser-spiders/
 
 ### _Middle-earth: The Lidless Eye_
 
-{: .hazard .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Lesser Spiders</div>
@@ -73,7 +73,7 @@ permalink: /cards/lesser-spiders/
 
 ### _Middle-earth Challenge Decks_
 
-{: .hazard-reprint .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Lesser Spiders</div>
@@ -93,7 +93,7 @@ permalink: /cards/lesser-spiders/
 
 ### _Middle-earth: The Balrog Reprint_
 
-{: .hazard-reprint .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Lesser Spiders</div>

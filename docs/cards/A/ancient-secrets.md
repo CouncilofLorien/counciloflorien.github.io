@@ -13,7 +13,7 @@ permalink: /cards/ancient-secrets/
 
 ### _Middle-earth: The Balrog_
 
-{: .minion-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Ancient Secrets</div>
@@ -27,6 +27,3 @@ permalink: /cards/ancient-secrets/
 > {: .minion-resource-text .black-text .p-2 }
 > > Tap your Ringraith to discard one hazard permanent-event. Alternatively, during your organization phase, tap your Ringwraith to take up to two resources from your sideboard to your play deck and reshuffle. <br>_“‘...the secret ways of Khazad-dum: Too well he knew them all.’”_ ***---&#65279;LotRIII***{: .fs-3 } 
 > 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>

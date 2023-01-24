@@ -13,7 +13,7 @@ permalink: /cards/heedless-revelry/
 
 ### _Middle-earth: The Lidless Eye_
 
-{: .hazard .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Heedless Revelry</div>
@@ -27,6 +27,3 @@ permalink: /cards/heedless-revelry/
 > {: .hazard-text .black-text .p-2 }
 > > Playable on a non-Ringwraith company that is not moving. Make a roll (or draw a #) for each untapped non-Wizard character in the company; modify this roll by -2 for hero characters. If the result is greater than the character's mind, the character becomes tapped.  Alternatively, may be revealed as an on-guard card on a company after the successful play of an item, ally, or faction. Tapp all untapped non-Ringwraith, non-Wizard characters in the company. 
 >
-> {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

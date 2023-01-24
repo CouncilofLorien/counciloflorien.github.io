@@ -13,7 +13,7 @@ permalink: /cards/black-numenoreans/
 
 ### _Middle-earth: Against the Shadow_
 
-{: .minion-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">Black Numenoreans</div>
@@ -27,6 +27,3 @@ permalink: /cards/black-numenoreans/
 > {: .minion-resource-text .black-text .p-2 }
 > > _**Unique.**_ Playable at Gobel Mirlond if the influence check is greater than 8. <br>_Standard Modifications:_ Umbarean Corsairs (+2). <br>_"Proud and eager for wealth, they colonized and conquered and laid many men under tribute."_{: .fs-3 } ***---&#65279;Kuduk Lore***{: .fs-3 } 
 > 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>

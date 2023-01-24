@@ -13,7 +13,7 @@ permalink: /cards/king-under-the-mountain/
 
 ### _Middle-earth: The Dragons_
 
-{: .hero-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">5</div>
 > > <div class="card-name">King under the Mountain</div>
@@ -27,6 +27,3 @@ permalink: /cards/king-under-the-mountain/
 > {: .hero-resource-text .black-text .p-2 }
 > > _**Unique.**_ Playable on Balin, Dain II, Thorin II, or Thrain II if his company has defeated an at home Dragon manifestation attack other than Earcaraxe at Home. The target Dwarf receives +5 direct influence against Dwarves and Dwarf factions. The site where the Dragon was defeated becomes a Border-hold and Dwarf-hold for all purposes and has no dragon automatic attacks. Only Dwarves may play items at this site.  
 > 
-> {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

@@ -13,7 +13,7 @@ permalink: /cards/prone-to-violence/
 
 ### _Middle-earth: The Balrog_
 
-{: .minion-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Prone to Violence</div>
@@ -27,6 +27,3 @@ permalink: /cards/prone-to-violence/
 > {: .minion-resource-text .black-text .p-2 }
 > > Any minion company without a Ringwraith may attack another minion company without a Ringwraith. The attacking company may contain The Balrog. Discard when any play deck is exhausted. Cannot be duplicated. <br>_"The ranks of the orcs had opened, and they crowded away, as if they themselves were afraid."_{: .fs-3 } ***---&#65279;LotRII***{: .fs-3 } 
 > 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>

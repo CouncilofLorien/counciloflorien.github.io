@@ -13,7 +13,7 @@ permalink: /cards/the-grimburgoth/
 
 ### _Middle-earth: Dark Minions_
 
-{: .minion-character .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-character .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-character-frame .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">3</div>
 > > <div class="card-name">The Grimburgoth</div>

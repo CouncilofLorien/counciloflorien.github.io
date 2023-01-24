@@ -13,7 +13,7 @@ permalink: /cards/fled-into-darkness/
 
 ### _Middle-earth: The Balrog_
 
-{: .hazard .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Fled into Darkness</div>
@@ -27,6 +27,3 @@ permalink: /cards/fled-into-darkness/
 > {: .hazard-text .black-text .p-2 }
 > > Playable before the strike sequence on The Balrog facing a strike with a prowess higher than his. The strike is canceled and The Balrog taps, if untapped. The next time The Balrog would otherwise untap, make him tapped instead and discard this card. Cannot be duplicated.   <br>_“...a thing of terror...flying from Thangorodrim...”_ ***---&#65279;LotR***{: .fs-3 } 
 >
-> {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

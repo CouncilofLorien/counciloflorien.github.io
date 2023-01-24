@@ -13,7 +13,7 @@ permalink: /cards/great-need-or-purpose/
 
 ### _Middle-earth: Dark Minions_
 
-{: .hazard .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Great Need or Purpose</div>
@@ -27,6 +27,3 @@ permalink: /cards/great-need-or-purpose/
 > {: .hazard-text .black-text .p-2 }
 > > Each agent may take an extra agent action each time he normally takes an agent action. Cannot be duplicated. <br>_“‘So he is seeking it, seeking it, and all his thought is bent on it. It is his great hope and our great fear.’”_ ***---&#65279;LotRI***{: .fs-3 } 
 >
-> {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

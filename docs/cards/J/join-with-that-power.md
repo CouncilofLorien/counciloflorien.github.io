@@ -13,7 +13,7 @@ permalink: /cards/join-with-that-power/
 
 ### _Middle-earth: Against the Shadow_
 
-{: .minion-resource .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Join With That Power</div>
@@ -27,13 +27,10 @@ permalink: /cards/join-with-that-power/
 > {: .minion-resource-text .black-text .p-2 }
 > > _Diplomat only._ One influence check or corruption check by a character in a diplomat's company receives a bonus equal to the number of characters in the company minus 1. Cannot be duplicated on a given check. <br>_“‘...only in the mouths of emissaries sent from Mordor to deceive the ignorant.’”_ ***---&#65279;LotRII***{: .fs-3 } 
 > 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
 
-{: .minion-resource-reprint .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .minion-resource-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Join With That Power</div>
@@ -47,6 +44,3 @@ permalink: /cards/join-with-that-power/
 > {: .minion-resource-text .black-text .p-2 }
 > > _Diplomat only._ One influence check or corruption check by a character in a diplomat's company receives a bonus equal to the number of characters in the company minus 1. Cannot be duplicated on a given check. <br>_“‘...only in the mouths of emissaries sent from Mordor to deceive the ignorant.’”_ ***---&#65279;LotRII***{: .fs-3 } 
 > 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>

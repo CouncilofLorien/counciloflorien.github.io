@@ -13,7 +13,7 @@ permalink: /cards/wolf-riders/
 
 ### _Middle-earth: The Dragons_
 
-{: .hazard .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Wolf-riders</div>
@@ -27,6 +27,3 @@ permalink: /cards/wolf-riders/
 > {: .hazard-text .black-text .p-2 }
 > > _Orcs._ May be played following any Orc attack not keyed to a site. Three strikes. If played as a short-event, modify the prowess and strikes of a Wolf attack by +1. <br>_"But in those days they sometimes used to go on raids...they often got the wargs to help and shared their plunder with them. Sometimes they rode on wolves like men do on horses."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
 >
-> {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

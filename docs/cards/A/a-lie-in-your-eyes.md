@@ -13,7 +13,7 @@ permalink: /cards/a-lie-in-your-eyes/
 
 ### _Middle-earth: Against the Shadow_
 
-{: .hazard .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">A Lie in Your Eyes</div>
@@ -27,6 +27,3 @@ permalink: /cards/a-lie-in-your-eyes/
 > {: .hazard-text .black-text .p-2 }
 > > Playable on an untapped non-Ringwraith, non-Wizard character. Your opponent may either: tap the character, tap an ally the character controls, or choose for you to make a roll (draw a #). If the result is greater than the character's mind plus 6, the character is discarded (along with all cards he controls).   <br>_“‘That won't do... What did you see, and what did you say?’”_ ***---&#65279;LotRIII***{: .fs-3 } 
 >
-> {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

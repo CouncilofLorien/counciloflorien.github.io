@@ -13,7 +13,7 @@ permalink: /cards/black-vapour/
 
 ### _Middle-earth: The Balrog_
 
-{: .hazard .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Black Vapour</div>
@@ -27,6 +27,3 @@ permalink: /cards/black-vapour/
 > {: .hazard-text .black-text .p-2 }
 > > Target any effect (Declared earlier in the same chain of effects) that would cancel a Spider attack. Make a roll and add the attack's prowess. If the result is greater than 14, the effect is canceled and the attack receives +1 prowess. Alternatively, +1 prowess to a Spider attack. This card can be revealed as an on-guard card for either effect. 
 >
-> {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>

@@ -13,7 +13,7 @@ permalink: /cards/lure-of-power/
 
 ### _Middle-earth: The Wizards Limited_
 
-{: .hazard .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Lure of Power</div>
@@ -27,13 +27,10 @@ permalink: /cards/lure-of-power/
 > {: .hazard-text .black-text .p-2 }
 > > The next non ---&#65279;Hobbit character to make a successful influence attempt (e.g., against a faction, an opponent's character, etc.) must immediately make a corruption check modified by -4. Discard this card after the corruption check.   <br>_“‘But we must have power, power to order all things as we will...’”_ ***---&#65279;LotRII***{: .fs-3 } 
 >
-> {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
 
-{: .hazard-unlimited .mx-sm-4 .mx-lg-8 .mb-4 }
+{: .hazard-unlimited ..mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Lure of Power</div>
@@ -47,6 +44,3 @@ permalink: /cards/lure-of-power/
 > {: .hazard-text .black-text .p-2 }
 > > The next non ---&#65279;Hobbit character to make a successful influence attempt (e.g., against a faction, an opponent's character, etc.) must immediately make a corruption check modified by -4. Discard this card after the corruption check.   <br>_“‘But we must have power, power to order all things as we will...’”_ ***---&#65279;LotRII***{: .fs-3 } 
 >
-> {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption-white">&nbsp;</div>
