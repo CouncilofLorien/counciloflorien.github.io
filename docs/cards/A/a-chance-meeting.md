@@ -18,9 +18,6 @@ permalink: /cards/a-chance-meeting/
 > > <div class="card-mp"></div>
 > > <div class="card-name">A Chance Meeting</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .card-classification .pr-2 }
 > Short-event
 >
@@ -28,8 +25,6 @@ permalink: /cards/a-chance-meeting/
 > > A character (even a Hobbit) may be brought into play with direct influence at any Free-hold \[![](/assets/images/free-hold.svg)], Border-hold \[![](/assets/images/border-hold.svg)], or Ruins & Lairs \[![](/assets/images/ruinlair.svg)]. <br>_"But at last there came about by chance a meeting between Gandalf and Thorin that changed all the fortunes of the House of Durin, and led to other and greater ends beside."_{: .fs-3 } ***---&#65279;LotR***{: .fs-3 } 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield"></div>
-> > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
 
