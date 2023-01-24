@@ -17,6 +17,8 @@ CONTENTS
 
 ### _Middle-earth: The Wizards Limited_
 
+&emsp;[\[Characters\]](/cards/#metw-limited-hero-characters) [\[Resources\]](/cards/#metw-limited-hero-resources) [\[Hazards\]](/cards/#metw-limited-hazards) [\[Sites\]](/cards/#metw-limited-hero-sites) [\[Regions\]](/cards/#metw-limited-regions)
+
 #### _METW Limited_ Hero Characters:
 
  - [Alatar](/cards/alatar/#middle-earth-the-wizards-limited)
@@ -522,6 +524,8 @@ CONTENTS
 
 ### _Middle-earth: The Wizards Unlimited_
 
+&emsp;[\[Characters\]](/cards/#metw-unlimited-hero-characters) [\[Resources\]](/cards/#metw-unlimited-hero-resources) [\[Hazards\]](/cards/#metw-unlimited-hazards) [\[Sites\]](/cards/#metw-unlimited-hero-sites) [\[Regions\]](/cards/#metw-unlimited-regions)
+
 #### _METW Unlimited_ Hero Characters:
 
  - [Alatar](/cards/alatar/#middle-earth-the-wizards-unlimited)
@@ -1024,6 +1028,8 @@ CONTENTS
 
 ### _Middle-earth: The Dragons_
 
+&emsp;[\[Characters\]](/cards/#metd-hero-characters) [\[Resources\]](/cards/#metd-hero-resources) [\[Hazards\]](/cards/#metd-hazards) [\[Sites\]](/cards/#metd-hero-sites)
+
 #### _METD_ Hero Characters:
 
  - [Brand](/cards/brand/#middle-earth-the-dragons)
@@ -1218,6 +1224,8 @@ CONTENTS
  - [Zarak Dum](/cards/zarak-dum/#middle-earth-the-dragons)
 
 ### _Middle-earth: Dark Minions_
+
+&emsp;[\[Characters\]](/cards/#medm-hero-characters) [\[Minions\]](/cards/#medm-minion-characters) [\[Resources\]](/cards/#medm-hero-resources) [\[Hazards\]](/cards/#medm-hazards) [\[Sites\]](/cards/#medm-hero-sites) 
 
 #### _MEDM_ Hero Characters:
 
@@ -1416,6 +1424,8 @@ CONTENTS
 
 ### _Middle-earth: The Wizards Starter Set_
 
+[\[Characters\]](/cards/#metw-starter-set-hero-characters) [\[Resources\]](/cards/#metw-starter-set-hero-resources) [\[Hazards\]](/cards/#metw-starter-set-hazards)
+
 #### _METW Starter Set_ Hero Characters:
 
  - [Gandalf](/cards/gandalf/#middle-earth-the-wizards-starter-set)
@@ -1492,6 +1502,8 @@ CONTENTS
  - [Lesser Spiders](/cards/lesser-spiders/#middle-earth-the-wizards-starter-set)
 
 ### _Middle-earth: The Lidless Eye_
+
+&emsp;[\[Minions\]](/cards/#mele-minion-characters) [\[Resources\]](/cards/#mele-minion-resources) [\[Hazards\]](/cards/#mele-hazards) [\[Sites\]](/cards/#mele-minion-sites) 
 
 #### _MELE_ Minion Characters:
 
@@ -1926,6 +1938,8 @@ CONTENTS
 
 ### _Middle-earth: Against the Shadow_
 
+&emsp;[\[Minions\]](/cards/#meas-minion-characters) [\[Hero Resources\]](/cards/#meas-hero-resources) [\[Minion Resources\]](/cards/#meas-minion-resources) [\[Hazards\]](/cards/#meas-hazards) [\[Hero Sites\]](/cards/#meas-hero-sites) [\[Minion Sites\]](/cards/#meas-minion-sites)
+
 #### _MEAS_ Minion Characters:
 
  - [Burat](/cards/burat/#middle-earth-against-the-shadow)
@@ -2114,7 +2128,9 @@ CONTENTS
  - [Weathertop](/cards/weathertop/#middle-earth-against-the-shadow)
  - [Wellinghall](/cards/wellinghall/#middle-earth-against-the-shadow)
 
-### _Middle-earth: Against the Shadow_
+### _Middle-earth: The White Hand_
+
+&emsp;[\[Characters\]](/cards/#mewh-hero-characters) [\[Minions\]](/cards/#mewh-minion-characters) [\[Hero Resources\]](/cards/#mewh-hero-resources) [\[Minion Resources\]](/cards/#mewh-minion-resources) [\[Stage Resources\]](/cards/#mewh-stage-resources) [\[Hazards\]](/cards/#mewh-hazards) [\[Fallen-wizard Sites\]](/cards/#mewh-fallen-wizard-sites)
 
 #### _MEWH_ Hero Characters:
 
@@ -2260,6 +2276,8 @@ CONTENTS
  - [The White Towers](/cards/the-white-towers/#middle-earth-the-white-hand)
 
 ### _Middle-earth Challenge Decks_
+
+&emsp;[\[Characters\]](/cards/#mecd-hero-characters) [\[Minions\]](/cards/#mecd-minion-characters) [\[Hero Resources\]](/cards/#mecd-hero-resources) [\[Minion Resources\]](/cards/#mecd-minion-resources) [\[Hazards\]](/cards/#mecd-hazards) [\[Hero Sites\]](/cards/#mecd-hero-sites) [\[Minion Sites\]](/cards/#mecd-minion-sites)
 
 #### _MECD_ Hero Characters:
 
@@ -2717,6 +2735,8 @@ CONTENTS
  - [Irerock](/cards/irerock/#middle-earth-challenge-decks)
 
 ### _Middle-earth: The Balrog_
+
+&emsp;[\[Characters\]](/cards/#meba-hero-characters) [\[Minions\]](/cards/#meba-minion-characters) [\[Hero Resources\]](/cards/#meba-hero-resources) [\[Minion Resources\]](/cards/#meba-minion-resources) [\[Hazards\]](/cards/#meba-hazards) [\[Minion Sites\]](/cards/#meba-minion-sites) [\[Balrog Sites\]](/cards/#meba-balrog-sites)
 
 #### _MEBA_ Hero Characters:
 
