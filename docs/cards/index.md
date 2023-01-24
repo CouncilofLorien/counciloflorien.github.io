@@ -13,7 +13,7 @@ permalink: /cards/
 
 ## Alphabetical
 
-| :-----: | :-----: | :-----: | :-----: | :-----: |
+{: .text-center }
 | [\[A\]](/cards/A/) | [\[B\]](/cards/B/) |  [\[C\]](/cards/C/)  | [\[D\]](/cards/D/) | [\[E\]](/cards/E/)  | 
 | [\[F\]](/cards/F/) |  [\[G\]](/cards/G/) |  [\[H\]](/cards/H/)  | [\[I\]](/cards/I/)  | [\[J\]](/cards/J/)  | 
 | [\[K\]](/cards/K/) | [\[L\]](/cards/L/)  | [\[M\]](/cards/M/) |  [\[N\]](/cards/N/) |  [\[O\]](/cards/O/) | 
