@@ -93,8 +93,8 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Riddle":
-    - "/riddle"
+  #"Riddle":
+  #  - "/riddle"
   #"About":
   #  - "/about"
   #"Just the Docs":
