@@ -37,4 +37,4 @@ From 1996 to 1999 the Council of Lorien was the sanctioning body of official MEC
 
 ## The Counsel of Lórien
 
-The Counsel of Lórien is the webmaster of this site.
+The [Counsel of Lórien](/riddle/) is the webmaster of this site.
