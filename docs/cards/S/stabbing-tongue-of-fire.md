@@ -18,9 +18,6 @@ permalink: /cards/stabbing-tongue-of-fire/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Stabbing Tongue of Fire</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Special Item
 >

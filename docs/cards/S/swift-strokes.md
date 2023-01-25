@@ -18,9 +18,6 @@ permalink: /cards/swift-strokes/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Swift Strokes</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Short-event
 >
@@ -35,9 +32,6 @@ permalink: /cards/swift-strokes/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Swift Strokes</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Short-event
 >
@@ -51,9 +45,6 @@ permalink: /cards/swift-strokes/
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Swift Strokes</div>
->
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Short-event

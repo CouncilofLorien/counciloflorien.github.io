@@ -35,9 +35,6 @@ permalink: /cards/sapling-of-the-white-tree/
 > > <div class="card-mp">1(2)</div>
 > > <div class="card-name">Sapling of the White Tree</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .card-classification .pr-2 }
 > Major Item
 >
@@ -54,8 +51,6 @@ permalink: /cards/sapling-of-the-white-tree/
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">1(2)</div>
 > > <div class="card-name">Sapling of the White Tree</div>
->
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
 > > &nbsp;
 >
 > {: .card-classification .pr-2 }

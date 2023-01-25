@@ -18,9 +18,6 @@ permalink: /cards/troll-purse/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Troll-purse</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Permanent-event
 >

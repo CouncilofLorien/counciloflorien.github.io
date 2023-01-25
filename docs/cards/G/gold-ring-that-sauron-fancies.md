@@ -18,9 +18,6 @@ permalink: /cards/gold-ring-that-sauron-fancies/
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">Gold Ring that Sauron Fancies</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Gold Ring Item
 >

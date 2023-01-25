@@ -18,9 +18,6 @@ permalink: /cards/itangast-at-home/
 > > <div class="hazard-mp">6</div>
 > > <div class="card-name">Itangast at Home</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Permanent-event
 >

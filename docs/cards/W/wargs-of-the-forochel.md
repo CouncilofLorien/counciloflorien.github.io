@@ -18,9 +18,6 @@ permalink: /cards/wargs-of-the-forochel/
 > > <div class="hazard-mp">3</div>
 > > <div class="card-name">Wargs of the Forochel</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Wolf Faction
 >

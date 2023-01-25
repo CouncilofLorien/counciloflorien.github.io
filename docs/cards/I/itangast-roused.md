@@ -18,9 +18,6 @@ permalink: /cards/itangast-roused/
 > > <div class="hazard-mp">6</div>
 > > <div class="card-name">Itangast Roused</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Dragon Faction
 >

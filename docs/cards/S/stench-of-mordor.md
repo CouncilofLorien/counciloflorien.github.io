@@ -18,9 +18,6 @@ permalink: /cards/stench-of-mordor/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Stench of Mordor</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Permanent-event
 >
@@ -35,9 +32,6 @@ permalink: /cards/stench-of-mordor/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Stench of Mordor</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Permanent-event
 >
@@ -51,9 +45,6 @@ permalink: /cards/stench-of-mordor/
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Stench of Mordor</div>
->
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Permanent-event

@@ -18,9 +18,6 @@ permalink: /cards/down-down-to-goblin-town/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Down Down to Goblin-town</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Short-event
 >

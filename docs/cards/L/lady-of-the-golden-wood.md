@@ -18,9 +18,6 @@ permalink: /cards/lady-of-the-golden-wood/
 > > <div class="hazard-mp">3*</div>
 > > <div class="card-name">Lady of the Golden Wood</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Creature or Permanent-event
 >

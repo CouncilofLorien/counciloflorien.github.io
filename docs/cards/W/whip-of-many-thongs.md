@@ -18,9 +18,6 @@ permalink: /cards/whip-of-many-thongs/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Whip of Many Thongs</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Special Item
 >

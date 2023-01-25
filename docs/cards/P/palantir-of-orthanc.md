@@ -35,9 +35,6 @@ permalink: /cards/palantir-of-orthanc/
 > > <div class="card-mp">2</div>
 > > <div class="card-name">Palantir of Orthanc</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .card-classification .pr-2 }
 > Special Item
 >
@@ -55,9 +52,6 @@ permalink: /cards/palantir-of-orthanc/
 > > <div class="hazard-mp">3</div>
 > > <div class="card-name">Palantir of Orthanc</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Special Item
 >
@@ -74,8 +68,6 @@ permalink: /cards/palantir-of-orthanc/
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">2</div>
 > > <div class="card-name">Palantir of Orthanc</div>
->
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
 > > &nbsp;
 >
 > {: .card-classification .pr-2 }
@@ -94,9 +86,6 @@ permalink: /cards/palantir-of-orthanc/
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">3</div>
 > > <div class="card-name">Palantir of Orthanc</div>
->
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Special Item

@@ -18,9 +18,6 @@ permalink: /cards/great-bats/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Great Bats</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Ally
 >
@@ -34,9 +31,6 @@ permalink: /cards/great-bats/
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Great Bats</div>
->
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Ally

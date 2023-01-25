@@ -35,9 +35,6 @@ permalink: /cards/precious-gold-ring/
 > > <div class="card-mp">1</div>
 > > <div class="card-name">Precious Gold Ring</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .card-classification .pr-2 }
 > Gold Ring Item
 >

@@ -18,9 +18,6 @@ permalink: /cards/inner-cunning/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Inner Cunning</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Permanent-event or Short-event
 >

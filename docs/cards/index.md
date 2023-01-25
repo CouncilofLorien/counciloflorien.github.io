@@ -3,7 +3,7 @@ layout: default
 title: Cards
 has_children: true
 search_exclude: true
-nav_exclude: false
+nav_exclude: true
 nav_order: 1
 has_toc: false
 permalink: /cards/

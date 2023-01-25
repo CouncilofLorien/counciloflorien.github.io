@@ -18,9 +18,6 @@ permalink: /cards/a-lie-in-your-eyes/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">A Lie in Your Eyes</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Short-event
 >

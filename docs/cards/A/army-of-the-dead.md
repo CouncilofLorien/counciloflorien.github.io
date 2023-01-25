@@ -32,9 +32,6 @@ permalink: /cards/army-of-the-dead/
 > > <div class="card-mp">6</div>
 > > <div class="card-name">Army of the Dead</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .card-classification .pr-2 }
 > Special Faction
 >

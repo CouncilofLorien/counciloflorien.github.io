@@ -18,9 +18,6 @@ permalink: /cards/carrion-birds/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Carrion Birds</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Creature
 >

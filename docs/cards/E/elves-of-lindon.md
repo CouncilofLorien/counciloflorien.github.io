@@ -32,9 +32,6 @@ permalink: /cards/elves-of-lindon/
 > > <div class="card-mp">2</div>
 > > <div class="card-name">Elves of Lindon</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .card-classification .pr-2 }
 > Elf Faction
 >

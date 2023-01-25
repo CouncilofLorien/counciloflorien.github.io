@@ -18,9 +18,6 @@ permalink: /cards/drowning-seas/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Drowning Seas</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Short-event
 >
@@ -34,9 +31,6 @@ permalink: /cards/drowning-seas/
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Drowning Seas</div>
->
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Short-event

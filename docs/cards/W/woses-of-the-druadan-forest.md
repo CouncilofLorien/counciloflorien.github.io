@@ -32,9 +32,6 @@ permalink: /cards/woses-of-the-druadan-forest/
 > > <div class="card-mp">3</div>
 > > <div class="card-name">Woses of the Druadan Forest</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .card-classification .pr-2 }
 > Wose Faction
 >

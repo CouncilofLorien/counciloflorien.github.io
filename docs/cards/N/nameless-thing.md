@@ -18,9 +18,6 @@ permalink: /cards/nameless-thing/
 > > <div class="hazard-mp">3</div>
 > > <div class="card-name">Nameless Thing</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Creature
 >
@@ -38,9 +35,6 @@ permalink: /cards/nameless-thing/
 > > <div class="hazard-mp">3</div>
 > > <div class="card-name">Nameless Thing</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Creature
 >
@@ -57,9 +51,6 @@ permalink: /cards/nameless-thing/
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">3</div>
 > > <div class="card-name">Nameless Thing</div>
->
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Creature

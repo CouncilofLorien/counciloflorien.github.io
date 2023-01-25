@@ -35,9 +35,6 @@ permalink: /cards/palantir-of-osgiliath/
 > > <div class="card-mp">3(5)</div>
 > > <div class="card-name">Palantir of Osgiliath</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .card-classification .pr-2 }
 > Greater Item
 >
@@ -54,9 +51,6 @@ permalink: /cards/palantir-of-osgiliath/
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">3(5)</div>
 > > <div class="card-name">Palantir of Osgiliath</div>
->
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Greater Item

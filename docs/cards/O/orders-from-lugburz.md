@@ -18,9 +18,6 @@ permalink: /cards/orders-from-lugburz/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Orders from Lugburz</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Permanent-event
 >
@@ -34,9 +31,6 @@ permalink: /cards/orders-from-lugburz/
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Orders from Lugburz</div>
->
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Permanent-event

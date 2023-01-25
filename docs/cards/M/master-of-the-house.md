@@ -18,9 +18,6 @@ permalink: /cards/master-of-the-house/
 > > <div class="hazard-mp">3*</div>
 > > <div class="card-name">Master of the House</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Creature or Permanent-event
 >

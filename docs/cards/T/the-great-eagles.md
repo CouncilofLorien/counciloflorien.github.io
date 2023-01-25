@@ -32,9 +32,6 @@ permalink: /cards/the-great-eagles/
 > > <div class="card-mp">3</div>
 > > <div class="card-name">The Great Eagles</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .card-classification .pr-2 }
 > Eagle Faction
 >

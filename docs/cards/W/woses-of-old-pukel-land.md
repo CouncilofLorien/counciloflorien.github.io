@@ -32,9 +32,6 @@ permalink: /cards/woses-of-old-pukel-land/
 > > <div class="card-mp">3</div>
 > > <div class="card-name">Woses of Old Pukel-land</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .card-classification .pr-2 }
 > Wose Faction
 >

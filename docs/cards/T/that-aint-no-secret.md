@@ -18,9 +18,6 @@ permalink: /cards/that-aint-no-secret/
 > > <div class="hazard-mp">(1)</div>
 > > <div class="card-name">That Ain't No Secret</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Permanent-event
 >
@@ -34,9 +31,6 @@ permalink: /cards/that-aint-no-secret/
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">(1)</div>
 > > <div class="card-name">That Ain't No Secret</div>
->
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Permanent-event

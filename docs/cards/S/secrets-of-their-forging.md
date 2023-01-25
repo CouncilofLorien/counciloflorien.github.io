@@ -18,9 +18,6 @@ permalink: /cards/secrets-of-their-forging/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Secrets of Their Forging</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Short-event
 >
@@ -34,9 +31,6 @@ permalink: /cards/secrets-of-their-forging/
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Secrets of Their Forging</div>
->
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Short-event

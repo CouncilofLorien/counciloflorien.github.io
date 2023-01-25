@@ -18,9 +18,6 @@ permalink: /cards/the-will-of-the-ring/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">The Will of the Ring</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Short-event
 >
@@ -34,9 +31,6 @@ permalink: /cards/the-will-of-the-ring/
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">The Will of the Ring</div>
->
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Short-event

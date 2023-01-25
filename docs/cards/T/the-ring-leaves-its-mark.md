@@ -18,9 +18,6 @@ permalink: /cards/the-ring-leaves-its-mark/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">The Ring Leaves Its Mark</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Short-event
 >

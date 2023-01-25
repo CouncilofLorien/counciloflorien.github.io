@@ -35,9 +35,6 @@ permalink: /cards/palantir-of-minas-tirith/
 > > <div class="card-mp">2</div>
 > > <div class="card-name">Palantir of Minas Tirith</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .card-classification .pr-2 }
 > Special Item
 >
@@ -55,9 +52,6 @@ permalink: /cards/palantir-of-minas-tirith/
 > > <div class="hazard-mp">3</div>
 > > <div class="card-name">Palantir of Minas Tirith</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Special Item
 >
@@ -74,9 +68,6 @@ permalink: /cards/palantir-of-minas-tirith/
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">3</div>
 > > <div class="card-name">Palantir of Minas Tirith</div>
->
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Special Item

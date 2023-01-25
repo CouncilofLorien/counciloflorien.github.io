@@ -18,9 +18,6 @@ permalink: /cards/earth-eater/
 > > <div class="card-mp">1</div>
 > > <div class="card-name">Earth-eater</div>
 >
-> {: .stage-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .card-classification .pr-2 }
 > Permanent-event
 >

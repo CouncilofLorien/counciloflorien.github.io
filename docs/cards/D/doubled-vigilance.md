@@ -18,9 +18,6 @@ permalink: /cards/doubled-vigilance/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Doubled Vigilance</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Permanent-event
 >

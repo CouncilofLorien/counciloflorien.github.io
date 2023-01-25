@@ -32,9 +32,6 @@ permalink: /cards/beornings/
 > > <div class="card-mp">2</div>
 > > <div class="card-name">Beornings</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .card-classification .pr-2 }
 > Man Faction
 >
@@ -49,9 +46,6 @@ permalink: /cards/beornings/
 > > <div class="hazard-mp">3</div>
 > > <div class="card-name">Beornings</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Man Faction
 >
@@ -65,8 +59,6 @@ permalink: /cards/beornings/
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">2</div>
 > > <div class="card-name">Beornings</div>
->
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
 > > &nbsp;
 >
 > {: .card-classification .pr-2 }

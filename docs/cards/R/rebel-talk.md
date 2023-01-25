@@ -18,9 +18,6 @@ permalink: /cards/rebel-talk/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Rebel-talk</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Permanent-event
 >
@@ -34,9 +31,6 @@ permalink: /cards/rebel-talk/
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Rebel-talk</div>
->
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Permanent-event

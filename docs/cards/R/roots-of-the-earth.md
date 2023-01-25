@@ -18,9 +18,6 @@ permalink: /cards/roots-of-the-earth/
 > > <div class="hazard-mp">1(3)</div>
 > > <div class="card-name">Roots of the Earth</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Permanent-event
 >

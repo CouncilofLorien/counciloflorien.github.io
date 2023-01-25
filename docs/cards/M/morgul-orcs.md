@@ -18,9 +18,6 @@ permalink: /cards/morgul-orcs/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Morgul-orcs</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Orc Faction
 >

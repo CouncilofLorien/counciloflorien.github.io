@@ -18,9 +18,6 @@ permalink: /cards/arouse-minions/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Arouse Minions</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Short-event
 >
@@ -35,9 +32,6 @@ permalink: /cards/arouse-minions/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Arouse Minions</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Short-event
 >
@@ -51,9 +45,6 @@ permalink: /cards/arouse-minions/
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Arouse Minions</div>
->
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Short-event

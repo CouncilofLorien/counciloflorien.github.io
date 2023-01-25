@@ -32,9 +32,6 @@ permalink: /cards/reforging/
 > > <div class="card-mp">1</div>
 > > <div class="card-name">Reforging</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .card-classification .pr-2 }
 > Permanent-event
 >

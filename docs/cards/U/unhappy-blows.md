@@ -18,9 +18,6 @@ permalink: /cards/unhappy-blows/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Unhappy Blows</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Short-event
 >

@@ -18,9 +18,6 @@ permalink: /cards/glance-of-arien/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Glance of Arien</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Short-event
 >

@@ -3,7 +3,7 @@ layout: default
 title: Downloads
 has_children: no
 search_exclude: true
-nav_exclude: false
+nav_exclude: true
 nav_order: 9
 has_toc: false
 permalink: /downloads/

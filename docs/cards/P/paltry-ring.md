@@ -18,9 +18,6 @@ permalink: /cards/paltry-ring/
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">Paltry Ring</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Special Item
 >

@@ -18,9 +18,6 @@ permalink: /cards/summons-from-long-sleep/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Summons from Long Sleep</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Permanent-event
 >
@@ -34,9 +31,6 @@ permalink: /cards/summons-from-long-sleep/
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Summons from Long Sleep</div>
->
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Permanent-event

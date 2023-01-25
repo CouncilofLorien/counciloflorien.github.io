@@ -18,9 +18,6 @@ permalink: /cards/host-of-bats/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Host of Bats</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Long-event
 >

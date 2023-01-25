@@ -18,9 +18,6 @@ permalink: /cards/nurniags/
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">Nurniags</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Man Faction
 >
@@ -48,9 +45,6 @@ permalink: /cards/nurniags/
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">Nurniags</div>
->
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Man Faction

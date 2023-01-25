@@ -32,9 +32,6 @@ permalink: /cards/rangers-of-the-north/
 > > <div class="card-mp">3</div>
 > > <div class="card-name">Rangers of the North</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .card-classification .pr-2 }
 > Dunadan Faction
 >
@@ -49,9 +46,6 @@ permalink: /cards/rangers-of-the-north/
 > > <div class="card-mp">3</div>
 > > <div class="card-name">Rangers of the North</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .card-classification .pr-2 }
 > Dunadan Faction
 >
@@ -65,8 +59,6 @@ permalink: /cards/rangers-of-the-north/
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">3</div>
 > > <div class="card-name">Rangers of the North</div>
->
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
 > > &nbsp;
 >
 > {: .card-classification .pr-2 }

@@ -18,9 +18,6 @@ permalink: /cards/nobodys-friend/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Nobody's Friend</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Permanent-event or Short-event
 >

@@ -18,9 +18,6 @@ permalink: /cards/grey-mountain-goblins/
 > > <div class="hazard-mp">3</div>
 > > <div class="card-name">Grey Mountain Goblins</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Orc Faction
 >
@@ -35,9 +32,6 @@ permalink: /cards/grey-mountain-goblins/
 > > <div class="hazard-mp">3</div>
 > > <div class="card-name">Grey Mountain Goblins</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Orc Faction
 >
@@ -51,9 +45,6 @@ permalink: /cards/grey-mountain-goblins/
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">3</div>
 > > <div class="card-name">Grey Mountain Goblins</div>
->
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Orc Faction

@@ -18,9 +18,6 @@ permalink: /cards/bairanax/
 > > <div class="hazard-mp">3</div>
 > > <div class="card-name">Bairanax</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Creature
 >

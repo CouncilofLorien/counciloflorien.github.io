@@ -18,9 +18,6 @@ permalink: /cards/leucaruth-ahunt/
 > > <div class="hazard-mp">4</div>
 > > <div class="card-name">Leucaruth Ahunt</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Long-event
 >

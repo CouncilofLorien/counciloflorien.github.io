@@ -18,9 +18,6 @@ permalink: /cards/black-hide-shield/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Black-hide Shield</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Minor Item
 >

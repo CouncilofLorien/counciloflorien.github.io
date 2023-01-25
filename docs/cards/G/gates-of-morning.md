@@ -32,9 +32,6 @@ permalink: /cards/gates-of-morning/
 > > <div class="card-mp"></div>
 > > <div class="card-name">Gates of Morning</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .card-classification .pr-2 }
 > Permanent-event
 >
@@ -48,8 +45,6 @@ permalink: /cards/gates-of-morning/
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Gates of Morning</div>
->
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
 > > &nbsp;
 >
 > {: .card-classification .pr-2 }

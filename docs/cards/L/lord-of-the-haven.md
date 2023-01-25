@@ -18,9 +18,6 @@ permalink: /cards/lord-of-the-haven/
 > > <div class="hazard-mp">3*</div>
 > > <div class="card-name">Lord of the Haven</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Creature or Short-event
 >

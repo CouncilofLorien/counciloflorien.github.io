@@ -18,9 +18,6 @@ permalink: /cards/shadow-cloak/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Shadow-cloak</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Minor Item
 >

@@ -18,9 +18,6 @@ permalink: /cards/ride-against-the-enemy/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Ride Against the Enemy</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Short-event
 >

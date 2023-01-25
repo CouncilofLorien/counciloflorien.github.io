@@ -18,9 +18,6 @@ permalink: /cards/makers-map/
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">Maker's Map</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Permanent-event
 >

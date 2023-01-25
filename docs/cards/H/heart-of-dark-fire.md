@@ -18,9 +18,6 @@ permalink: /cards/heart-of-dark-fire/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Heart of Dark Fire</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Short-event
 >

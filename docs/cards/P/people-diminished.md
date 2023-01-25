@@ -18,9 +18,6 @@ permalink: /cards/people-diminished/
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">People Diminished</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Permanent-event
 >

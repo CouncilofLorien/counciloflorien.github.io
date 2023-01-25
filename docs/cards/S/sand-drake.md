@@ -18,9 +18,6 @@ permalink: /cards/sand-drake/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Sand-drake</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Creature
 >
@@ -37,9 +34,6 @@ permalink: /cards/sand-drake/
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Sand-drake</div>
->
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Creature

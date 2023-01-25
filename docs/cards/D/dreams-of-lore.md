@@ -32,9 +32,6 @@ permalink: /cards/dreams-of-lore/
 > > <div class="card-mp">2</div>
 > > <div class="card-name">Dreams of Lore</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .card-classification .pr-2 }
 > Permanent-event
 >

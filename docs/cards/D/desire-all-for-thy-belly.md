@@ -18,9 +18,6 @@ permalink: /cards/desire-all-for-thy-belly/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Desire All for Thy Belly</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Short-event
 >

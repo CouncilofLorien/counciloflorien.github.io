@@ -18,9 +18,6 @@ permalink: /cards/the-great-eye/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">The Great Eye</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Long-event
 >

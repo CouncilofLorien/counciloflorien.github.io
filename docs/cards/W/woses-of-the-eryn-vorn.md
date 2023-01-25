@@ -18,9 +18,6 @@ permalink: /cards/woses-of-the-eryn-vorn/
 > > <div class="hazard-mp">3</div>
 > > <div class="card-name">Woses of the Eryn Vorn</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Man Faction
 >
@@ -48,9 +45,6 @@ permalink: /cards/woses-of-the-eryn-vorn/
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">3</div>
 > > <div class="card-name">Woses of the Eryn Vorn</div>
->
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Man Faction

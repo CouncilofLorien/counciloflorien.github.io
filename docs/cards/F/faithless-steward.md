@@ -18,9 +18,6 @@ permalink: /cards/faithless-steward/
 > > <div class="hazard-mp">(3)</div>
 > > <div class="card-name">Faithless Steward</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Permanent-event
 >

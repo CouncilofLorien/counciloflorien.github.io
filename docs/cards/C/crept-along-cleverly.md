@@ -18,9 +18,6 @@ permalink: /cards/crept-along-cleverly/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Crept Along Cleverly</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Short-event
 >
@@ -35,9 +32,6 @@ permalink: /cards/crept-along-cleverly/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Crept Along Cleverly</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Short-event
 >
@@ -51,9 +45,6 @@ permalink: /cards/crept-along-cleverly/
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Crept Along Cleverly</div>
->
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Short-event

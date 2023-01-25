@@ -18,9 +18,6 @@ permalink: /cards/come-by-night-upon-them/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Come by Night Upon Them</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Short-event
 >

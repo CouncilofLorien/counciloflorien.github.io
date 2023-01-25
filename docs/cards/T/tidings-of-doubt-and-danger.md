@@ -18,9 +18,6 @@ permalink: /cards/tidings-of-doubt-and-danger/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Tidings of Doubt and Danger</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Short-event
 >

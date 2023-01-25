@@ -35,9 +35,6 @@ permalink: /cards/torque-of-hues/
 > > <div class="card-mp">2</div>
 > > <div class="card-name">Torque of Hues</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .card-classification .pr-2 }
 > Major Item
 >
@@ -54,8 +51,6 @@ permalink: /cards/torque-of-hues/
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">2</div>
 > > <div class="card-name">Torque of Hues</div>
->
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
 > > &nbsp;
 >
 > {: .card-classification .pr-2 }

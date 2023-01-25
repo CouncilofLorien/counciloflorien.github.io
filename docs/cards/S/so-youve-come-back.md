@@ -18,9 +18,6 @@ permalink: /cards/so-youve-come-back/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">So You've Come Back</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Permanent-event
 >

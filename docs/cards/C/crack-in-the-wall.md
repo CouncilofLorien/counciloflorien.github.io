@@ -18,9 +18,6 @@ permalink: /cards/crack-in-the-wall/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Crack in the Wall</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Short-event
 >

@@ -18,9 +18,6 @@ permalink: /cards/no-better-use/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">No Better Use</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Permanent-event
 >

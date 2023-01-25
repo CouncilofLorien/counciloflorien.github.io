@@ -18,9 +18,6 @@ permalink: /cards/burning-rick,-cot,-and-tree/
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">Burning Rick, Cot, and Tree</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Permanent-event
 >
@@ -34,9 +31,6 @@ permalink: /cards/burning-rick,-cot,-and-tree/
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">Burning Rick, Cot, and Tree</div>
->
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Permanent-event

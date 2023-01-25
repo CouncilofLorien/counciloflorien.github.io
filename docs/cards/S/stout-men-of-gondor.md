@@ -18,9 +18,6 @@ permalink: /cards/stout-men-of-gondor/
 > > <div class="hazard-mp">1*</div>
 > > <div class="card-name">Stout Men of Gondor</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Creature
 >
@@ -37,9 +34,6 @@ permalink: /cards/stout-men-of-gondor/
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">1*</div>
 > > <div class="card-name">Stout Men of Gondor</div>
->
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Creature

@@ -35,9 +35,6 @@ permalink: /cards/palantir-of-elostirion/
 > > <div class="card-mp">2</div>
 > > <div class="card-name">Palantir of Elostirion</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .card-classification .pr-2 }
 > Special Item
 >
@@ -54,9 +51,6 @@ permalink: /cards/palantir-of-elostirion/
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">3</div>
 > > <div class="card-name">Palantir of Elostirion</div>
->
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Special Item

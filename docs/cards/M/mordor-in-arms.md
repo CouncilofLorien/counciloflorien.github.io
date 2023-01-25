@@ -18,9 +18,6 @@ permalink: /cards/mordor-in-arms/
 > > <div class="hazard-mp">(2)</div>
 > > <div class="card-name">Mordor in Arms</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Permanent-event
 >
@@ -34,9 +31,6 @@ permalink: /cards/mordor-in-arms/
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">(2)</div>
 > > <div class="card-name">Mordor in Arms</div>
->
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Permanent-event

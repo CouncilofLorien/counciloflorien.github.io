@@ -18,9 +18,6 @@ permalink: /cards/black-mace/
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">Black Mace</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Greater Item
 >
@@ -38,9 +35,6 @@ permalink: /cards/black-mace/
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">Black Mace</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Greater Item
 >
@@ -57,9 +51,6 @@ permalink: /cards/black-mace/
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">Black Mace</div>
->
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Greater Item

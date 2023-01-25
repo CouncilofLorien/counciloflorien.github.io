@@ -32,9 +32,6 @@ permalink: /cards/men-of-lebennin/
 > > <div class="card-mp">2</div>
 > > <div class="card-name">Men of Lebennin</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .card-classification .pr-2 }
 > Man Faction
 >
@@ -48,8 +45,6 @@ permalink: /cards/men-of-lebennin/
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">2</div>
 > > <div class="card-name">Men of Lebennin</div>
->
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
 > > &nbsp;
 >
 > {: .card-classification .pr-2 }

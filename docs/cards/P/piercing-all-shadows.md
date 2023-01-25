@@ -18,9 +18,6 @@ permalink: /cards/piercing-all-shadows/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Piercing All Shadows</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Permanent-event
 >
@@ -38,9 +35,6 @@ permalink: /cards/piercing-all-shadows/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Piercing All Shadows</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Permanent-event
 >
@@ -57,9 +51,6 @@ permalink: /cards/piercing-all-shadows/
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Piercing All Shadows</div>
->
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Permanent-event

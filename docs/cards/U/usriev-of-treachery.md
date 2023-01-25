@@ -18,9 +18,6 @@ permalink: /cards/usriev-of-treachery/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Usriev of Treachery</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Major Item
 >

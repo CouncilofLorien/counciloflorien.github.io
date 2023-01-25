@@ -35,9 +35,6 @@ permalink: /cards/earth-of-galadriels-orchard/
 > > <div class="card-mp">(2)</div>
 > > <div class="card-name">Earth of Galadriel's Orchard</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .card-classification .pr-2 }
 > Special Item
 >

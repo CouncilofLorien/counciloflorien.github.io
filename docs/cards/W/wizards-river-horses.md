@@ -32,9 +32,6 @@ permalink: /cards/wizards-river-horses/
 > > <div class="card-mp"></div>
 > > <div class="card-name">Wizard's River-horses</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .card-classification .pr-2 }
 > Short-event
 >

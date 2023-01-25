@@ -18,9 +18,6 @@ permalink: /cards/stabbed-him-in-his-sleep/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Stabbed Him in His Sleep</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Permanent-event
 >

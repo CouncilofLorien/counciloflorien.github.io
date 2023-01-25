@@ -32,9 +32,6 @@ permalink: /cards/thorough-search/
 > > <div class="card-mp"></div>
 > > <div class="card-name">Thorough Search</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .card-classification .pr-2 }
 > Short-event
 >
@@ -48,8 +45,6 @@ permalink: /cards/thorough-search/
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Thorough Search</div>
->
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
 > > &nbsp;
 >
 > {: .card-classification .pr-2 }

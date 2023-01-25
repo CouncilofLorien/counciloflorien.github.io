@@ -18,9 +18,6 @@ permalink: /cards/orcs-of-the-ephel-duath/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Orcs of the Ephel Duath</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Orc Faction
 >

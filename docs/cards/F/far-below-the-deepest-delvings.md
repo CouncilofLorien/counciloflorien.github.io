@@ -18,9 +18,6 @@ permalink: /cards/far-below-the-deepest-delvings/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Far Below the Deepest Delvings</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Short-event
 >

@@ -18,9 +18,6 @@ permalink: /cards/sack-over-the-head/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Sack Over the Head</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Permanent-event
 >

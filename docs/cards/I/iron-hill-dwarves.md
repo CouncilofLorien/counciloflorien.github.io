@@ -32,9 +32,6 @@ permalink: /cards/iron-hill-dwarves/
 > > <div class="card-mp">4</div>
 > > <div class="card-name">Iron Hill Dwarves</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .card-classification .pr-2 }
 > Dwarf Faction
 >
@@ -48,8 +45,6 @@ permalink: /cards/iron-hill-dwarves/
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">4</div>
 > > <div class="card-name">Iron Hill Dwarves</div>
->
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
 > > &nbsp;
 >
 > {: .card-classification .pr-2 }

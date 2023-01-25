@@ -18,9 +18,6 @@ permalink: /cards/mask-torn/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Mask Torn</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Permanent-event
 >

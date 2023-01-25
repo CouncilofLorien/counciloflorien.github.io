@@ -18,9 +18,6 @@ permalink: /cards/kill-all-but-not-the-halflings/
 > > <div class="hazard-mp">(5)</div>
 > > <div class="card-name">Kill All But NOT the Halflings</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Permanent-event
 >

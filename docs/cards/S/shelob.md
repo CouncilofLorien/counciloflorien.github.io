@@ -18,9 +18,6 @@ permalink: /cards/shelob/
 > > <div class="hazard-mp">6</div>
 > > <div class="card-name">Shelob</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Creature or Permanent-event
 >
@@ -37,9 +34,6 @@ permalink: /cards/shelob/
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">6</div>
 > > <div class="card-name">Shelob</div>
->
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Creature or Permanent-event

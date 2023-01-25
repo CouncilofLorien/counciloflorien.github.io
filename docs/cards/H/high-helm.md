@@ -18,9 +18,6 @@ permalink: /cards/high-helm/
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">High Helm</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Major Item
 >
@@ -38,9 +35,6 @@ permalink: /cards/high-helm/
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">High Helm</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Major Item
 >
@@ -57,9 +51,6 @@ permalink: /cards/high-helm/
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">High Helm</div>
->
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Major Item

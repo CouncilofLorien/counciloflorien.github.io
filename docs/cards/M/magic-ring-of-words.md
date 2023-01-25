@@ -35,9 +35,6 @@ permalink: /cards/magic-ring-of-words/
 > > <div class="card-mp">3</div>
 > > <div class="card-name">Magic Ring of Words</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .card-classification .pr-2 }
 > Special Item
 >

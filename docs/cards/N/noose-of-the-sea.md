@@ -18,9 +18,6 @@ permalink: /cards/noose-of-the-sea/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Noose of the Sea</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Long-event
 >

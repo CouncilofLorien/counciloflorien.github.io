@@ -18,9 +18,6 @@ permalink: /cards/eye-of-sauron/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Eye of Sauron</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Long-event
 >
@@ -34,9 +31,6 @@ permalink: /cards/eye-of-sauron/
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Eye of Sauron</div>
->
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Long-event

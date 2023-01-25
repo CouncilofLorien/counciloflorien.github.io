@@ -32,9 +32,6 @@ permalink: /cards/morannon/
 > > <div class="card-mp"></div>
 > > <div class="card-name">Morannon</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .card-classification .pr-2 }
 > Permanent-event
 >

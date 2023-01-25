@@ -32,9 +32,6 @@ permalink: /cards/easterlings/
 > > <div class="card-mp">4</div>
 > > <div class="card-name">Easterlings</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .card-classification .pr-2 }
 > Man Faction
 >
@@ -49,9 +46,6 @@ permalink: /cards/easterlings/
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">Easterlings</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Man Faction
 >
@@ -65,8 +59,6 @@ permalink: /cards/easterlings/
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">4</div>
 > > <div class="card-name">Easterlings</div>
->
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
 > > &nbsp;
 >
 > {: .card-classification .pr-2 }
@@ -82,9 +74,6 @@ permalink: /cards/easterlings/
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">Easterlings</div>
->
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Man Faction

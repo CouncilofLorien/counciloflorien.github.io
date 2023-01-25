@@ -18,9 +18,6 @@ permalink: /cards/weariness-of-the-heart/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Weariness of the Heart</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Short-event
 >
@@ -34,9 +31,6 @@ permalink: /cards/weariness-of-the-heart/
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Weariness of the Heart</div>
->
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Short-event
@@ -52,9 +46,6 @@ permalink: /cards/weariness-of-the-heart/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Weariness of the Heart</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Short-event
 >
@@ -68,9 +59,6 @@ permalink: /cards/weariness-of-the-heart/
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Weariness of the Heart</div>
->
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Short-event

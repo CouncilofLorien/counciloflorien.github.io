@@ -18,9 +18,6 @@ permalink: /cards/like-the-crash-of-battering-rams/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Like the Crash of Battering-rams</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Short-event
 >

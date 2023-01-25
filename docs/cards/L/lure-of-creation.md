@@ -18,9 +18,6 @@ permalink: /cards/lure-of-creation/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Lure of Creation</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Permanent-event
 >
@@ -37,9 +34,6 @@ permalink: /cards/lure-of-creation/
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Lure of Creation</div>
->
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Permanent-event

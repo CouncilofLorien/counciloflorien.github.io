@@ -18,9 +18,6 @@ permalink: /cards/to-satisfy-the-questioner/
 > > <div class="hazard-mp">(3)</div>
 > > <div class="card-name">To Satisfy the Questioner</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Permanent-event
 >
@@ -34,9 +31,6 @@ permalink: /cards/to-satisfy-the-questioner/
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">(3)</div>
 > > <div class="card-name">To Satisfy the Questioner</div>
->
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Permanent-event

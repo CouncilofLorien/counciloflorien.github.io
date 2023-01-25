@@ -18,9 +18,6 @@ permalink: /cards/out-of-the-black-sky/
 > > <div class="hazard-mp">5</div>
 > > <div class="card-name">Out of the Black Sky</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Permanent-event
 >

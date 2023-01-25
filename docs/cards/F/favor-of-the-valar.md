@@ -32,9 +32,6 @@ permalink: /cards/favor-of-the-valar/
 > > <div class="card-mp"></div>
 > > <div class="card-name">Favor of the Valar</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .card-classification .pr-2 }
 > Short-event
 >

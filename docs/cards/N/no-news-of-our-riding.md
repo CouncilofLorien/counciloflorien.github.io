@@ -18,9 +18,6 @@ permalink: /cards/no-news-of-our-riding/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">No News of Our Riding</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Permanent-event
 >

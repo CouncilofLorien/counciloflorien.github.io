@@ -35,9 +35,6 @@ permalink: /cards/magic-ring-of-stealth/
 > > <div class="card-mp">3</div>
 > > <div class="card-name">Magic Ring of Stealth</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .card-classification .pr-2 }
 > Special Item
 >
@@ -54,8 +51,6 @@ permalink: /cards/magic-ring-of-stealth/
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">3</div>
 > > <div class="card-name">Magic Ring of Stealth</div>
->
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
 > > &nbsp;
 >
 > {: .card-classification .pr-2 }

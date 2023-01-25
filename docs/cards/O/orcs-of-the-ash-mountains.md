@@ -18,9 +18,6 @@ permalink: /cards/orcs-of-the-ash-mountains/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Orcs of the Ash Mountains</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Orc Faction
 >
@@ -34,9 +31,6 @@ permalink: /cards/orcs-of-the-ash-mountains/
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Orcs of the Ash Mountains</div>
->
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Orc Faction

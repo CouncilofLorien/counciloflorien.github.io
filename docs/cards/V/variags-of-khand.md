@@ -32,9 +32,6 @@ permalink: /cards/variags-of-khand/
 > > <div class="card-mp">4</div>
 > > <div class="card-name">Variags of Khand</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .card-classification .pr-2 }
 > Man Faction
 >
@@ -48,9 +45,6 @@ permalink: /cards/variags-of-khand/
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">Variags of Khand</div>
->
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Man Faction

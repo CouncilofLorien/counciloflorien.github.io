@@ -18,9 +18,6 @@ permalink: /cards/itangast/
 > > <div class="hazard-mp">6</div>
 > > <div class="card-name">Itangast</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Creature
 >

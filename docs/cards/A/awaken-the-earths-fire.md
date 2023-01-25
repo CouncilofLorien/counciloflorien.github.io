@@ -18,9 +18,6 @@ permalink: /cards/awaken-the-earths-fire/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Awaken the Earth's Fire</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Short-event
 >
@@ -34,9 +31,6 @@ permalink: /cards/awaken-the-earths-fire/
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Awaken the Earth's Fire</div>
->
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Short-event

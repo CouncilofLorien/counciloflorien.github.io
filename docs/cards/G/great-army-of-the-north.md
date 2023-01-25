@@ -18,9 +18,6 @@ permalink: /cards/great-army-of-the-north/
 > > <div class="hazard-mp">(2)</div>
 > > <div class="card-name">Great Army of the North</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Permanent-event or Short-event
 >

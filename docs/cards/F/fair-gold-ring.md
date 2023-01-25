@@ -35,9 +35,6 @@ permalink: /cards/fair-gold-ring/
 > > <div class="card-mp">1</div>
 > > <div class="card-name">Fair Gold Ring</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .card-classification .pr-2 }
 > Gold Ring Item
 >

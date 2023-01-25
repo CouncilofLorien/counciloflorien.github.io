@@ -18,9 +18,6 @@ permalink: /cards/to-get-you-away/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">To Get You Away</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Permanent-event
 >

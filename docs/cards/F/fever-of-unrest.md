@@ -18,9 +18,6 @@ permalink: /cards/fever-of-unrest/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Fever of Unrest</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Short-event
 >

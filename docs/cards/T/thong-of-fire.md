@@ -18,9 +18,6 @@ permalink: /cards/thong-of-fire/
 > > <div class="hazard-mp">3</div>
 > > <div class="card-name">Thong of Fire</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Greater Item
 >

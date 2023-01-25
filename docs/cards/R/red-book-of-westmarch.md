@@ -58,9 +58,6 @@ permalink: /cards/red-book-of-westmarch/
 > > <div class="hazard-mp">2(5)</div>
 > > <div class="card-name">Red Book of Westmarch</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Special Item
 >
@@ -77,9 +74,6 @@ permalink: /cards/red-book-of-westmarch/
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">2(5)</div>
 > > <div class="card-name">Red Book of Westmarch</div>
->
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Special Item

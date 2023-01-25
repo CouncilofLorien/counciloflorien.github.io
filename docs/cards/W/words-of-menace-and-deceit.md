@@ -18,9 +18,6 @@ permalink: /cards/words-of-menace-and-deceit/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Words of Menace and Deceit</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Short-event
 >

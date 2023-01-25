@@ -35,9 +35,6 @@ permalink: /cards/durins-axe/
 > > <div class="card-mp">2(4)</div>
 > > <div class="card-name">Durin's Axe</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .card-classification .pr-2 }
 > Major Item
 >
@@ -54,8 +51,6 @@ permalink: /cards/durins-axe/
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">2(4)</div>
 > > <div class="card-name">Durin's Axe</div>
->
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
 > > &nbsp;
 >
 > {: .card-classification .pr-2 }

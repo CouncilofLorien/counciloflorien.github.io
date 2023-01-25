@@ -18,9 +18,6 @@ permalink: /cards/horse-lords/
 > > <div class="hazard-mp">2*</div>
 > > <div class="card-name">Horse-lords</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Creature
 >
@@ -37,9 +34,6 @@ permalink: /cards/horse-lords/
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">2*</div>
 > > <div class="card-name">Horse-lords</div>
->
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Creature

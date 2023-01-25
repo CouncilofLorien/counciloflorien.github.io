@@ -18,9 +18,6 @@ permalink: /cards/ready-to-his-will/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Ready to His Will</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Permanent-event
 >
@@ -37,9 +34,6 @@ permalink: /cards/ready-to-his-will/
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Ready to His Will</div>
->
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Permanent-event

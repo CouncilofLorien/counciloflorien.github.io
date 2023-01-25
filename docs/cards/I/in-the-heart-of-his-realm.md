@@ -18,9 +18,6 @@ permalink: /cards/in-the-heart-of-his-realm/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">In the Heart of his Realm</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Permanent-event
 >

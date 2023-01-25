@@ -32,9 +32,6 @@ permalink: /cards/men-of-northern-rhovanion/
 > > <div class="card-mp">2</div>
 > > <div class="card-name">Men of Northern Rhovanion</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .card-classification .pr-2 }
 > Man Faction
 >

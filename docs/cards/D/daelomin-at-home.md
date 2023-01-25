@@ -18,9 +18,6 @@ permalink: /cards/daelomin-at-home/
 > > <div class="hazard-mp">4</div>
 > > <div class="card-name">Daelomin at Home</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Permanent-event
 >

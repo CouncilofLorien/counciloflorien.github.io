@@ -18,9 +18,6 @@ permalink: /cards/hail-of-darts/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Hail of Darts</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Short-event
 >

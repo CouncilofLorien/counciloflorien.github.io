@@ -18,9 +18,6 @@ permalink: /cards/half-trolls/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Half-trolls</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Troll Faction
 >

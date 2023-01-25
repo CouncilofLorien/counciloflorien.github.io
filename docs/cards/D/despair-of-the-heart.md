@@ -18,9 +18,6 @@ permalink: /cards/despair-of-the-heart/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Despair of the Heart</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Permanent-event
 >
@@ -37,9 +34,6 @@ permalink: /cards/despair-of-the-heart/
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Despair of the Heart</div>
->
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Permanent-event
@@ -58,9 +52,6 @@ permalink: /cards/despair-of-the-heart/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Despair of the Heart</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Permanent-event
 >
@@ -77,9 +68,6 @@ permalink: /cards/despair-of-the-heart/
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Despair of the Heart</div>
->
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Permanent-event

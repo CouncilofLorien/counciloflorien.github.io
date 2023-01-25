@@ -18,9 +18,6 @@ permalink: /cards/gondorian-rangers/
 > > <div class="hazard-mp">2*</div>
 > > <div class="card-name">Gondorian Rangers</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Creature
 >

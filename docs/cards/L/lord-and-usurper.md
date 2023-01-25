@@ -18,9 +18,6 @@ permalink: /cards/lord-and-usurper/
 > > <div class="hazard-mp">5</div>
 > > <div class="card-name">Lord and Usurper</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Permanent-event
 >

@@ -18,9 +18,6 @@ permalink: /cards/out-he-sprang/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Out He Sprang</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Permanent-event
 >

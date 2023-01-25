@@ -18,9 +18,6 @@ permalink: /cards/morgul-rats/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Morgul-rats</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Creature
 >

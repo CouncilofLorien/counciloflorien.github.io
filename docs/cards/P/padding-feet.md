@@ -18,9 +18,6 @@ permalink: /cards/padding-feet/
 > > <div class="hazard-mp">(5)</div>
 > > <div class="card-name">Padding Feet</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Permanent-event
 >

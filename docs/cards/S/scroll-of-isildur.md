@@ -35,9 +35,6 @@ permalink: /cards/scroll-of-isildur/
 > > <div class="card-mp">4</div>
 > > <div class="card-name">Scroll of Isildur</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .card-classification .pr-2 }
 > Greater Item
 >
@@ -54,9 +51,6 @@ permalink: /cards/scroll-of-isildur/
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">4</div>
 > > <div class="card-name">Scroll of Isildur</div>
->
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .card-classification .pr-2 }
 > Greater Item
@@ -75,9 +69,6 @@ permalink: /cards/scroll-of-isildur/
 > > <div class="hazard-mp">3(5)</div>
 > > <div class="card-name">Scroll of Isildur</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Greater Item
 >
@@ -94,8 +85,6 @@ permalink: /cards/scroll-of-isildur/
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">4</div>
 > > <div class="card-name">Scroll of Isildur</div>
->
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
 > > &nbsp;
 >
 > {: .card-classification .pr-2 }
@@ -114,9 +103,6 @@ permalink: /cards/scroll-of-isildur/
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">3(5)</div>
 > > <div class="card-name">Scroll of Isildur</div>
->
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Greater Item

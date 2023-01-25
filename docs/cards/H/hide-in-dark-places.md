@@ -18,9 +18,6 @@ permalink: /cards/hide-in-dark-places/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Hide in Dark Places</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Short-event
 >

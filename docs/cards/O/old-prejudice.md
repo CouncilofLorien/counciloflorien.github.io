@@ -18,9 +18,6 @@ permalink: /cards/old-prejudice/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Old Prejudice</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Long-event
 >

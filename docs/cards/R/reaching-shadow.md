@@ -18,9 +18,6 @@ permalink: /cards/reaching-shadow/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Reaching Shadow</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Permanent-event
 >

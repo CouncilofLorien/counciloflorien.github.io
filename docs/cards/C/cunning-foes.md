@@ -18,9 +18,6 @@ permalink: /cards/cunning-foes/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Cunning Foes</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Short-event
 >
