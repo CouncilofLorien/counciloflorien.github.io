@@ -12,11 +12,7 @@ permalink: /cards/
 # CARDS
 
 {: .text-center }
-[\[A\]](/cards/A/) [\[B\]](/cards/B/) [\[C\]](/cards/C/) [\[D\]](/cards/D/) [\[E\]](/cards/E/)  
-[\[F\]](/cards/F/) [\[G\]](/cards/G/) [\[H\]](/cards/H/) [\[I\]](/cards/I/) [\[J\]](/cards/J/)  
-[\[K\]](/cards/K/) [\[L\]](/cards/L/) [\[M\]](/cards/M/) [\[N\]](/cards/N/) [\[O\]](/cards/O/)  
-[\[P\]](/cards/P/) [\[Q\]](/cards/Q/) [\[R\]](/cards/R/) [\[S\]](/cards/S/) [\[T\]](/cards/T/)  
-[\[U\]](/cards/U/) [\[V\]](/cards/V/) [\[W\]](/cards/W/) [\[Y\]](/cards/Y/) [\[Z\]](/cards/Z/)  
+[\[A\]](/cards/A/) [\[B\]](/cards/B/) [\[C\]](/cards/C/) [\[D\]](/cards/D/) [\[E\]](/cards/E/) [\[F\]](/cards/F/) [\[G\]](/cards/G/) [\[H\]](/cards/H/) [\[I\]](/cards/I/) [\[J\]](/cards/J/) [\[K\]](/cards/K/) [\[L\]](/cards/L/) [\[M\]](/cards/M/) [\[N\]](/cards/N/) [\[O\]](/cards/O/) [\[P\]](/cards/P/) [\[Q\]](/cards/Q/) [\[R\]](/cards/R/) [\[S\]](/cards/S/) [\[T\]](/cards/T/) [\[U\]](/cards/U/) [\[V\]](/cards/V/) [\[W\]](/cards/W/) [\[Y\]](/cards/Y/) [\[Z\]](/cards/Z/) 
 
 ## Sets and Expansions
 
