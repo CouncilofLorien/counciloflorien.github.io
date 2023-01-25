@@ -22,5 +22,5 @@ permalink: /cards/mount-slain/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable during any player's turn if a strike against one of your companies from a Ringwraith attack or Nazgul creature fails. If still in active play following its body check, discard the Ringwraith. <br>_“‘Their horses must have perished, and without them they are crippled.’”_ ***---&#65279;LotRII***{: .fs-3 } 
+> > Playable during any player's turn if a strike against one of your companies from a Ringwraith attack or Nazgul creature fails. If still in active play following its body check, discard the Ringwraith. <br>_“‘Their horses must have perished, and without them they are crippled.’”_ ***---&#65279;LotRII*** 
 > 

@@ -25,5 +25,5 @@ permalink: /cards/scimitars-of-steel/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable only if you have a Nazgul permanent-event in play. Discard the Nazgul when this card is brought into play. All Orc, Troll, and Man attacks receive +1 prowess. <br>_"Day drew on. The goblins gathered again in the valley. There a host of Wargs came ravening and with them came the bodyguard of Bolg, goblins of huge size with scimitars of steel."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 }  
+> > Playable only if you have a Nazgul permanent-event in play. Discard the Nazgul when this card is brought into play. All Orc, Troll, and Man attacks receive +1 prowess. <br>_"Day drew on. The goblins gathered again in the valley. There a host of Wargs came ravening and with them came the bodyguard of Bolg, goblins of huge size with scimitars of steel."_ ***---&#65279;Hob***  
 >

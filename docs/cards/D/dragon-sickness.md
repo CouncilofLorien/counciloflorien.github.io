@@ -25,7 +25,7 @@ permalink: /cards/dragon-sickness/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a character bearing a major or greater item. Character makes a corruption check modified by -1. <br>_“...being of the kind that easily catches such disease he fell under the dragon-sickness, and took most of the gold and fled with it...”_ ***---&#65279;Hob***{: .fs-3 } 
+> > Playable on a character bearing a major or greater item. Character makes a corruption check modified by -1. <br>_“...being of the kind that easily catches such disease he fell under the dragon-sickness, and took most of the gold and fled with it...”_ ***---&#65279;Hob*** 
 >
 
 ### _Middle-earth Challenge Decks_
@@ -42,5 +42,5 @@ permalink: /cards/dragon-sickness/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a character bearing a major or greater item. Character makes a corruption check modified by -1. <br>_“...being of the kind that easily catches such disease he fell under the dragon-sickness, and took most of the gold and fled with it...”_ ***---&#65279;Hob***{: .fs-3 } 
+> > Playable on a character bearing a major or greater item. Character makes a corruption check modified by -1. <br>_“...being of the kind that easily catches such disease he fell under the dragon-sickness, and took most of the gold and fled with it...”_ ***---&#65279;Hob*** 
 >

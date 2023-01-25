@@ -25,7 +25,7 @@ permalink: /cards/corsairs-of-umbar/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Men._ Five strikes. May also be played keyed to Andrast, Anfalas, Belfalas, Cardolan, Enedhwaith, Harondor, Lindon, Lebennin, and Old Pukel-land; and may also be played at Ruins & Lairs \[![](/assets/images/ruinlair.svg)] and Shadow-holds \[![](/assets/images/shadow-hold.svg)] in these regions. May also be played at any site in Elven Shores, Eriadoran Coast, Andrast Coast, Bay of Belfalas, or mouths of the Anduin. <br>_“...with black sails bellying in the wind."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 } 
+> > _Men._ Five strikes. May also be played keyed to Andrast, Anfalas, Belfalas, Cardolan, Enedhwaith, Harondor, Lindon, Lebennin, and Old Pukel-land; and may also be played at Ruins & Lairs \[![](/assets/images/ruinlair.svg)] and Shadow-holds \[![](/assets/images/shadow-hold.svg)] in these regions. May also be played at any site in Elven Shores, Eriadoran Coast, Andrast Coast, Bay of Belfalas, or mouths of the Anduin. <br>_“...with black sails bellying in the wind."_ ***---&#65279;LotRV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【9/&ndash;】</div>
@@ -45,7 +45,7 @@ permalink: /cards/corsairs-of-umbar/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Men._ Five strikes. May also be played keyed to Andrast, Anfalas, Belfalas, Cardolan, Enedhwaith, Harondor, Lindon, Lebennin, and Old Pukel-land; and may also be played at Ruins & Lairs \[![](/assets/images/ruinlair.svg)] and Shadow-holds \[![](/assets/images/shadow-hold.svg)] in these regions. May also be played at any site in Elven Shores, Eriadoran Coast, Andrast Coast, Bay of Belfalas, or mouths of the Anduin. <br>_“...with black sails bellying in the wind."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 } 
+> > _Men._ Five strikes. May also be played keyed to Andrast, Anfalas, Belfalas, Cardolan, Enedhwaith, Harondor, Lindon, Lebennin, and Old Pukel-land; and may also be played at Ruins & Lairs \[![](/assets/images/ruinlair.svg)] and Shadow-holds \[![](/assets/images/shadow-hold.svg)] in these regions. May also be played at any site in Elven Shores, Eriadoran Coast, Andrast Coast, Bay of Belfalas, or mouths of the Anduin. <br>_“...with black sails bellying in the wind."_ ***---&#65279;LotRV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【9/&ndash;】</div>
@@ -65,7 +65,7 @@ permalink: /cards/corsairs-of-umbar/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Men._ Five strikes. May also be played keyed to Andrast, Anfalas, Belfalas, Cardolan, Enedhwaith, Harondor, Lindon, Lebennin, and Old Pukel-land; and may also be played at Ruins & Lairs \[![](/assets/images/ruinlair.svg)] and Shadow-holds \[![](/assets/images/shadow-hold.svg)] in these regions. May also be played at any site in Elven Shores, Eriadoran Coast, Andrast Coast, Bay of Belfalas, or mouths of the Anduin. <br>_“...with black sails bellying in the wind."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 } 
+> > _Men._ Five strikes. May also be played keyed to Andrast, Anfalas, Belfalas, Cardolan, Enedhwaith, Harondor, Lindon, Lebennin, and Old Pukel-land; and may also be played at Ruins & Lairs \[![](/assets/images/ruinlair.svg)] and Shadow-holds \[![](/assets/images/shadow-hold.svg)] in these regions. May also be played at any site in Elven Shores, Eriadoran Coast, Andrast Coast, Bay of Belfalas, or mouths of the Anduin. <br>_“...with black sails bellying in the wind."_ ***---&#65279;LotRV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【9/&ndash;】</div>
@@ -85,7 +85,7 @@ permalink: /cards/corsairs-of-umbar/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Men._ Five strikes. May also be played keyed to Andrast, Anfalas, Belfalas, Cardolan, Enedhwaith, Harondor, Lindon, Lebennin, and Old Pukel-land; and may also be played at Ruins & Lairs \[![](/assets/images/ruinlair.svg)] and Shadow-holds \[![](/assets/images/shadow-hold.svg)] in these regions. May also be played at any site in Elven Shores, Eriadoran Coast, Andrast Coast, Bay of Belfalas, or mouths of the Anduin. <br>_“...with black sails bellying in the wind."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 } 
+> > _Men._ Five strikes. May also be played keyed to Andrast, Anfalas, Belfalas, Cardolan, Enedhwaith, Harondor, Lindon, Lebennin, and Old Pukel-land; and may also be played at Ruins & Lairs \[![](/assets/images/ruinlair.svg)] and Shadow-holds \[![](/assets/images/shadow-hold.svg)] in these regions. May also be played at any site in Elven Shores, Eriadoran Coast, Andrast Coast, Bay of Belfalas, or mouths of the Anduin. <br>_“...with black sails bellying in the wind."_ ***---&#65279;LotRV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【9/&ndash;】</div>

@@ -25,5 +25,5 @@ permalink: /cards/angband-revisited/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Balrog specific._ Untap a character in The Balrog's company. <br>_“‘In those days the Great Enemy, of whom Sauron of Mordor was but a servant, dwelt in Angband in the North...’”_ ***---&#65279;LotRI***{: .fs-3 } 
+> > _Balrog specific._ Untap a character in The Balrog's company. <br>_“‘In those days the Great Enemy, of whom Sauron of Mordor was but a servant, dwelt in Angband in the North...’”_ ***---&#65279;LotRI*** 
 > 

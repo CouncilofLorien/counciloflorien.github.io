@@ -25,5 +25,5 @@ permalink: /cards/song-of-the-lady/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > At the end of the organization phase, each company at Lorien that wishes to move must (or draw a #). This roll is modified by: -1 if company contains any Men, -1 I company contains any Hobbits, +2 if company contains any Dwarves. If the result is less than 7, the company may not move this turn. <br>_“‘...Rich are the hours, though short they seem, in Caras Galadon...’”_ ***---&#65279;LotRII***{: .fs-3 } 
+> > At the end of the organization phase, each company at Lorien that wishes to move must (or draw a #). This roll is modified by: -1 if company contains any Men, -1 I company contains any Hobbits, +2 if company contains any Dwarves. If the result is less than 7, the company may not move this turn. <br>_“‘...Rich are the hours, though short they seem, in Caras Galadon...’”_ ***---&#65279;LotRII*** 
 >

@@ -25,5 +25,5 @@ permalink: /cards/orc-liquor/
 > Minor Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Discard to give +2 body (to a maximum of 10) to all characters in bearer's company until the end of turn. <br>_"He was healing...orc-fashion; and his treatment worked swiftly."_{: .fs-3 } ***---&#65279;LotRIII***{: .fs-3 } 
+> > Discard to give +2 body (to a maximum of 10) to all characters in bearer's company until the end of turn. <br>_"He was healing...orc-fashion; and his treatment worked swiftly."_ ***---&#65279;LotRIII*** 
 > 

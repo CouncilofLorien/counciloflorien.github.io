@@ -25,7 +25,7 @@ permalink: /cards/that-aint-no-secret/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable during the site phase on an untapped character at a site where Information is playable. Tap the character (but not the site). No marshalling points are received until this card is stored at a Darkhaven \[![](/assets/images/dark-haven.svg)] during the character's organization phase.   <br>_“...but he heard the Gaffer's answers, which were rather shrill."_{: .fs-3 } ***---&#65279;LotRI***{: .fs-3 } 
+> > Playable during the site phase on an untapped character at a site where Information is playable. Tap the character (but not the site). No marshalling points are received until this card is stored at a Darkhaven \[![](/assets/images/dark-haven.svg)] during the character's organization phase.   <br>_“...but he heard the Gaffer's answers, which were rather shrill."_ ***---&#65279;LotRI*** 
 > 
 
 ### _Middle-earth Challenge Decks_
@@ -42,5 +42,5 @@ permalink: /cards/that-aint-no-secret/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable during the site phase on an untapped character at a site where Information is playable. Tap the character (but not the site). No marshalling points are received until this card is stored at a Darkhaven \[![](/assets/images/dark-haven.svg)] during the character's organization phase.   <br>_“...but he heard the Gaffer's answers, which were rather shrill."_{: .fs-3 } ***---&#65279;LotRI***{: .fs-3 } 
+> > Playable during the site phase on an untapped character at a site where Information is playable. Tap the character (but not the site). No marshalling points are received until this card is stored at a Darkhaven \[![](/assets/images/dark-haven.svg)] during the character's organization phase.   <br>_“...but he heard the Gaffer's answers, which were rather shrill."_ ***---&#65279;LotRI*** 
 > 

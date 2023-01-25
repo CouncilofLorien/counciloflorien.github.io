@@ -25,7 +25,7 @@ permalink: /cards/lost-in-shadow-lands/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a company that is moving this turn. You may play one additional hazard on target company for each Shadow-land \[![](/assets/images/shadow-land.svg)] in its site path. <br>_"The remainder of that journey was a shadow of growing fear in which memory could find nothing to rest upon."_{: .fs-3 } ***---&#65279;LotRIV***{: .fs-3 } 
+> > Playable on a company that is moving this turn. You may play one additional hazard on target company for each Shadow-land \[![](/assets/images/shadow-land.svg)] in its site path. <br>_"The remainder of that journey was a shadow of growing fear in which memory could find nothing to rest upon."_ ***---&#65279;LotRIV*** 
 >
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -42,7 +42,7 @@ permalink: /cards/lost-in-shadow-lands/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a company that is moving this turn. You may play one additional hazard on target company for each Shadow-land \[![](/assets/images/shadow-land.svg)] in its site path. <br>_"The remainder of that journey was a shadow of growing fear in which memory could find nothing to rest upon."_{: .fs-3 } ***---&#65279;LotRIV***{: .fs-3 } 
+> > Playable on a company that is moving this turn. You may play one additional hazard on target company for each Shadow-land \[![](/assets/images/shadow-land.svg)] in its site path. <br>_"The remainder of that journey was a shadow of growing fear in which memory could find nothing to rest upon."_ ***---&#65279;LotRIV*** 
 >
 
 ### _Middle-earth: The Lidless Eye_
@@ -59,5 +59,5 @@ permalink: /cards/lost-in-shadow-lands/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a moving company. Its hazard limit increases by one for every Shadow-land \[![](/assets/images/shadow-land.svg)] in its site path. <br>_"The nights were the worst...really pitch; so black that you could really see nothing."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
+> > Playable on a moving company. Its hazard limit increases by one for every Shadow-land \[![](/assets/images/shadow-land.svg)] in its site path. <br>_"The nights were the worst...really pitch; so black that you could really see nothing."_ ***---&#65279;Hob*** 
 >

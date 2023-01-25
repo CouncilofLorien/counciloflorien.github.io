@@ -25,7 +25,7 @@ permalink: /cards/himring/
 > Elven Shores
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Grey Havens <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Undead - 1 strike with 8 prowess; each character wounded must make a corruption check  <br>_“...on starless waters far astray...and foundered shores that drowned...”_ ***---&#65279;LotRII***{: .fs-3 } 
+> > _**Nearest Haven:**_ Grey Havens <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Undead - 1 strike with 8 prowess; each character wounded must make a corruption check  <br>_“...on starless waters far astray...and foundered shores that drowned...”_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/himring/
 > Elven Shores
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Grey Havens <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Undead - 1 strike with 8 prowess; each character wounded must make a corruption check  <br>_“...on starless waters far astray...and foundered shores that drowned...”_ ***---&#65279;LotRII***{: .fs-3 } 
+> > _**Nearest Haven:**_ Grey Havens <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Undead - 1 strike with 8 prowess; each character wounded must make a corruption check  <br>_“...on starless waters far astray...and foundered shores that drowned...”_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>

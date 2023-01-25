@@ -25,5 +25,5 @@ permalink: /cards/awaken-defenders/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The number of strikes for each automatic-attack at a Free-hold \[![](/assets/images/free-hold.svg)] or Border-hold \[![](/assets/images/border-hold.svg)] is doubled. Additionally, each detainment automatic-attack at a Free-hold \[![](/assets/images/free-hold.svg)] or Border-hold \[![](/assets/images/border-hold.svg)] becomes a normal automatic-attack. Cannot be duplicated.   <br>_“...the light of the fires showed up many a mark for archers of such skill as Gondor once had boasted."_{: .fs-3 } ***---&#65279;LotRI***{: .fs-3 } 
+> > The number of strikes for each automatic-attack at a Free-hold \[![](/assets/images/free-hold.svg)] or Border-hold \[![](/assets/images/border-hold.svg)] is doubled. Additionally, each detainment automatic-attack at a Free-hold \[![](/assets/images/free-hold.svg)] or Border-hold \[![](/assets/images/border-hold.svg)] becomes a normal automatic-attack. Cannot be duplicated.   <br>_“...the light of the fires showed up many a mark for archers of such skill as Gondor once had boasted."_ ***---&#65279;LotRI*** 
 >

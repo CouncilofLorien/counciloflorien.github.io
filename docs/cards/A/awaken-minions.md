@@ -25,7 +25,7 @@ permalink: /cards/awaken-minions/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The number of strikes for each automatic-attack at a Shadow-hold \[![](/assets/images/shadow-hold.svg)] site or a Dark-hold \[![](/assets/images/dark-hold.svg)] site is doubled. Cannot be duplicated. <br>_“...here the Dark Power, moving its armies like pieces on a board, was gathering them together."_{: .fs-3 } ***---&#65279;LotRVI***{: .fs-3 } 
+> > The number of strikes for each automatic-attack at a Shadow-hold \[![](/assets/images/shadow-hold.svg)] site or a Dark-hold \[![](/assets/images/dark-hold.svg)] site is doubled. Cannot be duplicated. <br>_“...here the Dark Power, moving its armies like pieces on a board, was gathering them together."_ ***---&#65279;LotRVI*** 
 >
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -42,5 +42,5 @@ permalink: /cards/awaken-minions/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The number of strikes for each automatic-attack at a Shadow-hold \[![](/assets/images/shadow-hold.svg)] site or a Dark-hold \[![](/assets/images/dark-hold.svg)] site is doubled. Cannot be duplicated. <br>_“...here the Dark Power, moving its armies like pieces on a board, was gathering them together."_{: .fs-3 } ***---&#65279;LotRVI***{: .fs-3 } 
+> > The number of strikes for each automatic-attack at a Shadow-hold \[![](/assets/images/shadow-hold.svg)] site or a Dark-hold \[![](/assets/images/dark-hold.svg)] site is doubled. Cannot be duplicated. <br>_“...here the Dark Power, moving its armies like pieces on a board, was gathering them together."_ ***---&#65279;LotRVI*** 
 >

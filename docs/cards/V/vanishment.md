@@ -22,7 +22,7 @@ permalink: /cards/vanishment/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Spell._ _Wizard only._ Cancels an attack against the Wizard's company. Wizard makes a corruption check modified by -2. <br>_“‘Go back to the abyss prepared for you! Go back! Fall into the nothingness that awaits you and your Master. Go!’”_ ***---&#65279;LotRV***{: .fs-3 } 
+> > _Spell._ _Wizard only._ Cancels an attack against the Wizard's company. Wizard makes a corruption check modified by -2. <br>_“‘Go back to the abyss prepared for you! Go back! Fall into the nothingness that awaits you and your Master. Go!’”_ ***---&#65279;LotRV*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -39,7 +39,7 @@ permalink: /cards/vanishment/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Spell._ _Wizard only._ Cancels an attack against the Wizard's company. Wizard makes a corruption check modified by -2. <br>_“‘Go back to the abyss prepared for you! Go back! Fall into the nothingness that awaits you and your Master. Go!’”_ ***---&#65279;LotRV***{: .fs-3 } 
+> > _Spell._ _Wizard only._ Cancels an attack against the Wizard's company. Wizard makes a corruption check modified by -2. <br>_“‘Go back to the abyss prepared for you! Go back! Fall into the nothingness that awaits you and your Master. Go!’”_ ***---&#65279;LotRV*** 
 > 
 
 ### _Middle-earth Challenge Decks_
@@ -56,5 +56,5 @@ permalink: /cards/vanishment/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Spell._ _Wizard only._ Cancels an attack against the Wizard's company. Wizard makes a corruption check modified by -2. <br>_“‘Go back to the abyss prepared for you! Go back! Fall into the nothingness that awaits you and your Master. Go!’”_ ***---&#65279;LotRV***{: .fs-3 } 
+> > _Spell._ _Wizard only._ Cancels an attack against the Wizard's company. Wizard makes a corruption check modified by -2. <br>_“‘Go back to the abyss prepared for you! Go back! Fall into the nothingness that awaits you and your Master. Go!’”_ ***---&#65279;LotRV*** 
 > 

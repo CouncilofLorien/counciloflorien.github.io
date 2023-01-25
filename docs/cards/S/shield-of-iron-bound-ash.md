@@ -22,7 +22,7 @@ permalink: /cards/shield-of-iron-bound-ash/
 > Minor Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Shield._ +1 to body to a maximum of 8. Tap Shield of Iron-bound Ash to gain +1 prowess against one strike. <br>_“...of ash, painted shields were slung at their backs...”_ ***---&#65279;LotRIII***{: .fs-3 } 
+> > _Shield._ +1 to body to a maximum of 8. Tap Shield of Iron-bound Ash to gain +1 prowess against one strike. <br>_“...of ash, painted shields were slung at their backs...”_ ***---&#65279;LotRIII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【(+1)/+1】</div>
@@ -42,7 +42,7 @@ permalink: /cards/shield-of-iron-bound-ash/
 > Minor Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Shield._ +1 to body to a maximum of 8. Tap Shield of Iron-bound Ash to gain +1 prowess against one strike. <br>_“...of ash, painted shields were slung at their backs...”_ ***---&#65279;LotRIII***{: .fs-3 } 
+> > _Shield._ +1 to body to a maximum of 8. Tap Shield of Iron-bound Ash to gain +1 prowess against one strike. <br>_“...of ash, painted shields were slung at their backs...”_ ***---&#65279;LotRIII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【(+1)/+1】</div>
@@ -62,7 +62,7 @@ permalink: /cards/shield-of-iron-bound-ash/
 > Minor Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Shield._ +1 to body to a maximum of 8. Tap Shield of Iron-bound Ash to gain +1 prowess against one strike. <br>_“...of ash, painted shields were slung at their backs...”_ ***---&#65279;LotRIII***{: .fs-3 } 
+> > _Shield._ +1 to body to a maximum of 8. Tap Shield of Iron-bound Ash to gain +1 prowess against one strike. <br>_“...of ash, painted shields were slung at their backs...”_ ***---&#65279;LotRIII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【(+1)/+1】</div>
@@ -82,7 +82,7 @@ permalink: /cards/shield-of-iron-bound-ash/
 > Minor Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Shield._ +1 to body to a maximum of 8. Tap Shield of Iron-bound Ash to gain +1 prowess against one strike. <br>_“...of ash, painted shields were slung at their backs...”_ ***---&#65279;LotRIII***{: .fs-3 } 
+> > _Shield._ +1 to body to a maximum of 8. Tap Shield of Iron-bound Ash to gain +1 prowess against one strike. <br>_“...of ash, painted shields were slung at their backs...”_ ***---&#65279;LotRIII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【(+1)/+1】</div>

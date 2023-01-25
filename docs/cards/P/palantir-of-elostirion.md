@@ -22,7 +22,7 @@ permalink: /cards/palantir-of-elostirion/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Palantir._ Playable only at The White Towers. Discard if the bearer moves. If the bearer is a sage, he may tap Palantir of Elostirion to remove one corruption card from an Elf or a Wizard under you control. Bearer makes a corruption check. <br>_“...but unlike the others and not in accord with them; it looked only to the Sea."_{: .fs-3 } ***---&#65279;LotR***{: .fs-3 } 
+> > _**Unique.**_ _Palantir._ Playable only at The White Towers. Discard if the bearer moves. If the bearer is a sage, he may tap Palantir of Elostirion to remove one corruption card from an Elf or a Wizard under you control. Bearer makes a corruption check. <br>_“...but unlike the others and not in accord with them; it looked only to the Sea."_ ***---&#65279;LotR*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -42,7 +42,7 @@ permalink: /cards/palantir-of-elostirion/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Palantir._ Playable only at The White Towers. Discard if the bearer moves. If the bearer is a sage, he may tap Palantir of Elostirion to remove one corruption card from an Elf or a Wizard under you control. Bearer makes a corruption check. <br>_“...but unlike the others and not in accord with them; it looked only to the Sea."_{: .fs-3 } ***---&#65279;LotR***{: .fs-3 } 
+> > _**Unique.**_ _Palantir._ Playable only at The White Towers. Discard if the bearer moves. If the bearer is a sage, he may tap Palantir of Elostirion to remove one corruption card from an Elf or a Wizard under you control. Bearer makes a corruption check. <br>_“...but unlike the others and not in accord with them; it looked only to the Sea."_ ***---&#65279;LotR*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

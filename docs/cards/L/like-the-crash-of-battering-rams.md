@@ -25,5 +25,5 @@ permalink: /cards/like-the-crash-of-battering-rams/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a strike. If the strike is successful, the wounded character's body is reduced by one until the end of turn for every complete increment of 5 the strike was successful by (subtract the character's prowess plus dice roll from the strike's prowess, divide by five, and drop any fractions). <br>_"A sweep of his tail and the roof of the Great House crumbled and smashed down."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
+> > Playable on a strike. If the strike is successful, the wounded character's body is reduced by one until the end of turn for every complete increment of 5 the strike was successful by (subtract the character's prowess plus dice roll from the strike's prowess, divide by five, and drop any fractions). <br>_"A sweep of his tail and the roof of the Great House crumbled and smashed down."_ ***---&#65279;Hob*** 
 >

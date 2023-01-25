@@ -22,7 +22,7 @@ permalink: /cards/wizards-voice/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Spell._ _Wizard only._ +6 to direct influence for the Wizard for the rest of the turn. Wizard makes a corruption check modified by -3. May not be duplicated on a given Wizard. <br>_"Suddenly another voice spoke, low and melodious, its very sound an enchantment. ...all that it said seemed wise and reasonable, and desire awoke in them...to seem wise themselves."_{: .fs-3 } ***---&#65279;LotRIII***{: .fs-3 } 
+> > _Spell._ _Wizard only._ +6 to direct influence for the Wizard for the rest of the turn. Wizard makes a corruption check modified by -3. May not be duplicated on a given Wizard. <br>_"Suddenly another voice spoke, low and melodious, its very sound an enchantment. ...all that it said seemed wise and reasonable, and desire awoke in them...to seem wise themselves."_ ***---&#65279;LotRIII*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -39,5 +39,5 @@ permalink: /cards/wizards-voice/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Spell._ _Wizard only._ +6 to direct influence for the Wizard for the rest of the turn. Wizard makes a corruption check modified by -3. May not be duplicated on a given Wizard. <br>_"Suddenly another voice spoke, low and melodious, its very sound an enchantment. ...all that it said seemed wise and reasonable, and desire awoke in them...to seem wise themselves."_{: .fs-3 } ***---&#65279;LotRIII***{: .fs-3 } 
+> > _Spell._ _Wizard only._ +6 to direct influence for the Wizard for the rest of the turn. Wizard makes a corruption check modified by -3. May not be duplicated on a given Wizard. <br>_"Suddenly another voice spoke, low and melodious, its very sound an enchantment. ...all that it said seemed wise and reasonable, and desire awoke in them...to seem wise themselves."_ ***---&#65279;LotRIII*** 
 > 

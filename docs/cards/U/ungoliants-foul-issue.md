@@ -25,7 +25,7 @@ permalink: /cards/ungoliants-foul-issue/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Spawn._. Ancient Deep-hold has an additional automatic-attack: _Spawn._-2 strikes with 17/7 prowess/body. In addition, non-unique spider creatures can be keyed to Under-deeps Ruins & Lairs \[![](/assets/images/ruinlair.svg)] and Under-deeps Shadow-holds \[![](/assets/images/shadow-hold.svg)].   <br>_“...an evil thing in spider-form...”_ ***---&#65279;LotRIV***{: .fs-3 } 
+> > _**Unique.**_ _Spawn._. Ancient Deep-hold has an additional automatic-attack: _Spawn._-2 strikes with 17/7 prowess/body. In addition, non-unique spider creatures can be keyed to Under-deeps Ruins & Lairs \[![](/assets/images/ruinlair.svg)] and Under-deeps Shadow-holds \[![](/assets/images/shadow-hold.svg)].   <br>_“...an evil thing in spider-form...”_ ***---&#65279;LotRIV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【17/7】</div>

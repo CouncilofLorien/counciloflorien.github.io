@@ -25,7 +25,7 @@ permalink: /cards/lost-in-free-domains/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a company that is moving this turn. If the company has a Free-domain \[![](/assets/images/free-domain.svg)] in its site path, it may do nothing during its site phase. <br>_"It seemed a long way, and he grew hot and very hungry; and night closed down swift and dark."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 } 
+> > Playable on a company that is moving this turn. If the company has a Free-domain \[![](/assets/images/free-domain.svg)] in its site path, it may do nothing during its site phase. <br>_"It seemed a long way, and he grew hot and very hungry; and night closed down swift and dark."_ ***---&#65279;LotRV*** 
 >
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -42,7 +42,7 @@ permalink: /cards/lost-in-free-domains/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a company that is moving this turn. If the company has a Free-domain \[![](/assets/images/free-domain.svg)] in its site path, it may do nothing during its site phase. <br>_"It seemed a long way, and he grew hot and very hungry; and night closed down swift and dark."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 } 
+> > Playable on a company that is moving this turn. If the company has a Free-domain \[![](/assets/images/free-domain.svg)] in its site path, it may do nothing during its site phase. <br>_"It seemed a long way, and he grew hot and very hungry; and night closed down swift and dark."_ ***---&#65279;LotRV*** 
 >
 
 ### _Middle-earth: The Lidless Eye_
@@ -59,7 +59,7 @@ permalink: /cards/lost-in-free-domains/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a moving company. The company must do nothing during its site phase if it has a Free-domain \[![](/assets/images/free-domain.svg)] in its site path  “...and they were also no longer certain of the direction in which they were going."_{: .fs-3 } ***---&#65279;LotRI***{: .fs-3 } 
+> > Playable on a moving company. The company must do nothing during its site phase if it has a Free-domain \[![](/assets/images/free-domain.svg)] in its site path  “...and they were also no longer certain of the direction in which they were going."_ ***---&#65279;LotRI*** 
 >
 
 ### _Middle-earth Challenge Decks_
@@ -76,5 +76,5 @@ permalink: /cards/lost-in-free-domains/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a moving company. The company must do nothing during its site phase if it has a Free-domain \[![](/assets/images/free-domain.svg)] in its site path  “...and they were also no longer certain of the direction in which they were going."_{: .fs-3 } ***---&#65279;LotRI***{: .fs-3 } 
+> > Playable on a moving company. The company must do nothing during its site phase if it has a Free-domain \[![](/assets/images/free-domain.svg)] in its site path  “...and they were also no longer certain of the direction in which they were going."_ ***---&#65279;LotRI*** 
 >

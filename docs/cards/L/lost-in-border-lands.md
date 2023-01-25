@@ -25,7 +25,7 @@ permalink: /cards/lost-in-border-lands/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a company that is moving this turn. You may play one additional hazard on target company for each Border-land \[![](/assets/images/border-land.svg)] in its site path. <br>_"Their going was very slow. To prevent their being separated and wandering in different directions they went in file...”_ ***---&#65279;LotRI***{: .fs-3 } 
+> > Playable on a company that is moving this turn. You may play one additional hazard on target company for each Border-land \[![](/assets/images/border-land.svg)] in its site path. <br>_"Their going was very slow. To prevent their being separated and wandering in different directions they went in file...”_ ***---&#65279;LotRI*** 
 >
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -42,7 +42,7 @@ permalink: /cards/lost-in-border-lands/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a company that is moving this turn. You may play one additional hazard on target company for each Border-land \[![](/assets/images/border-land.svg)] in its site path. <br>_"Their going was very slow. To prevent their being separated and wandering in different directions they went in file...”_ ***---&#65279;LotRI***{: .fs-3 } 
+> > Playable on a company that is moving this turn. You may play one additional hazard on target company for each Border-land \[![](/assets/images/border-land.svg)] in its site path. <br>_"Their going was very slow. To prevent their being separated and wandering in different directions they went in file...”_ ***---&#65279;LotRI*** 
 >
 
 ### _Middle-earth: The Lidless Eye_
@@ -59,5 +59,5 @@ permalink: /cards/lost-in-border-lands/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a moving company. Its hazard limit increases by one for every Border-land \[![](/assets/images/border-land.svg)] in its site path. <br>_"But now all the land was empty, and there was a silence that did not seem to be the quiet of peace"_ ***---&#65279;LotRIII***{: .fs-3 } 
+> > Playable on a moving company. Its hazard limit increases by one for every Border-land \[![](/assets/images/border-land.svg)] in its site path. <br>_"But now all the land was empty, and there was a silence that did not seem to be the quiet of peace"_ ***---&#65279;LotRIII*** 
 >

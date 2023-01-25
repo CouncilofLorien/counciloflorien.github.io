@@ -22,7 +22,7 @@ permalink: /cards/fair-travels-in-border-lands/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable at the end of the organization phase if target company plays a new site card. The hazard limit for the target company decreases by one for every Border-land \[![](/assets/images/border-land.svg)] in its site path (to a minimum of two). Cannot be duplicated on the same company. <br>_“...they came to the Far Downs...”_ ***---&#65279;LotRVI***{: .fs-3 } 
+> > Playable at the end of the organization phase if target company plays a new site card. The hazard limit for the target company decreases by one for every Border-land \[![](/assets/images/border-land.svg)] in its site path (to a minimum of two). Cannot be duplicated on the same company. <br>_“...they came to the Far Downs...”_ ***---&#65279;LotRVI*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -39,5 +39,5 @@ permalink: /cards/fair-travels-in-border-lands/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable at the end of the organization phase if target company plays a new site card. The hazard limit for the target company decreases by one for every Border-land \[![](/assets/images/border-land.svg)] in its site path (to a minimum of two). Cannot be duplicated on the same company. <br>_“...they came to the Far Downs...”_ ***---&#65279;LotRVI***{: .fs-3 } 
+> > Playable at the end of the organization phase if target company plays a new site card. The hazard limit for the target company decreases by one for every Border-land \[![](/assets/images/border-land.svg)] in its site path (to a minimum of two). Cannot be duplicated on the same company. <br>_“...they came to the Far Downs...”_ ***---&#65279;LotRVI*** 
 > 

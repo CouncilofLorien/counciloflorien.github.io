@@ -25,5 +25,5 @@ permalink: /cards/near-to-hear-a-whisper/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Any agent may attack a company at his site at the starting of the site phase if the company chooses not to enter the site. May be revealed on-guard if the company chooses not to enter the site. Discard when any play deck is exhausted. Cannot be duplicated.   <br>_“‘He can smell us, perhaps. And he can hear keen as Elves, I believe. I think he has heard something now: our voices probably.’”_ ***---&#65279;LotRIV***{: .fs-3 } 
+> > Any agent may attack a company at his site at the starting of the site phase if the company chooses not to enter the site. May be revealed on-guard if the company chooses not to enter the site. Discard when any play deck is exhausted. Cannot be duplicated.   <br>_“‘He can smell us, perhaps. And he can hear keen as Elves, I believe. I think he has heard something now: our voices probably.’”_ ***---&#65279;LotRIV*** 
 >

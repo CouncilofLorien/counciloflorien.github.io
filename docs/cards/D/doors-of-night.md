@@ -25,7 +25,7 @@ permalink: /cards/doors-of-night/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ When Doors of Night is played, all resource environment cards in play are immediately discarded, and all resource environment effects are canceled. Cannot be duplicated. <br>_“...already the fire in the sky was burning out, and the smouldering hills were fading, while ash-grey evening crept over the fields."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 } 
+> > _Environment._ When Doors of Night is played, all resource environment cards in play are immediately discarded, and all resource environment effects are canceled. Cannot be duplicated. <br>_“...already the fire in the sky was burning out, and the smouldering hills were fading, while ash-grey evening crept over the fields."_ ***---&#65279;LotRV*** 
 >
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -42,7 +42,7 @@ permalink: /cards/doors-of-night/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ When Doors of Night is played, all resource environment cards in play are immediately discarded, and all resource environment effects are canceled. Cannot be duplicated. <br>_“...already the fire in the sky was burning out, and the smouldering hills were fading, while ash-grey evening crept over the fields."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 } 
+> > _Environment._ When Doors of Night is played, all resource environment cards in play are immediately discarded, and all resource environment effects are canceled. Cannot be duplicated. <br>_“...already the fire in the sky was burning out, and the smouldering hills were fading, while ash-grey evening crept over the fields."_ ***---&#65279;LotRV*** 
 >
 
 ### _Middle-earth: The Lidless Eye_
@@ -59,7 +59,7 @@ permalink: /cards/doors-of-night/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ When Doors of Night is played, all resource environment cards in play are immediately discarded, and all resource environment effects are canceled. Cannot be duplicated. <br>_"One by one white stars sprang forth as the sky faded."_{: .fs-3 } ***---&#65279;LotRII***{: .fs-3 } 
+> > _Environment._ When Doors of Night is played, all resource environment cards in play are immediately discarded, and all resource environment effects are canceled. Cannot be duplicated. <br>_"One by one white stars sprang forth as the sky faded."_ ***---&#65279;LotRII*** 
 >
 
 ### _Middle-earth Challenge Decks_
@@ -76,7 +76,7 @@ permalink: /cards/doors-of-night/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ When Doors of Night is played, all resource environment cards in play are immediately discarded, and all resource environment effects are canceled. Cannot be duplicated. <br>_"One by one white stars sprang forth as the sky faded."_{: .fs-3 } ***---&#65279;LotRII***{: .fs-3 } 
+> > _Environment._ When Doors of Night is played, all resource environment cards in play are immediately discarded, and all resource environment effects are canceled. Cannot be duplicated. <br>_"One by one white stars sprang forth as the sky faded."_ ***---&#65279;LotRII*** 
 >
 
 ### _Middle-earth: The Balrog Reprint_
@@ -93,5 +93,5 @@ permalink: /cards/doors-of-night/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ When Doors of Night is played, all resource environment cards in play are immediately discarded, and all resource environment effects are canceled. Cannot be duplicated. <br>_"One by one white stars sprang forth as the sky faded."_{: .fs-3 } ***---&#65279;LotRII***{: .fs-3 } 
+> > _Environment._ When Doors of Night is played, all resource environment cards in play are immediately discarded, and all resource environment effects are canceled. Cannot be duplicated. <br>_"One by one white stars sprang forth as the sky faded."_ ***---&#65279;LotRII*** 
 >

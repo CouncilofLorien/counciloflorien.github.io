@@ -25,7 +25,7 @@ permalink: /cards/minas-tirith/
 > Anorien
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien  <br>_“...the Guarded City, with its seven walls of stone so strong and old that it seemed to have been not builded but carven by giants out of the stones of the earth."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 } 
+> > _**Nearest Haven:**_ Lorien  <br>_“...the Guarded City, with its seven walls of stone so strong and old that it seemed to have been not builded but carven by giants out of the stones of the earth."_ ***---&#65279;LotRV*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/minas-tirith/
 > Anorien
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien  <br>_“...the Guarded City, with its seven walls of stone so strong and old that it seemed to have been not builded but carven by giants out of the stones of the earth."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 } 
+> > _**Nearest Haven:**_ Lorien  <br>_“...the Guarded City, with its seven walls of stone so strong and old that it seemed to have been not builded but carven by giants out of the stones of the earth."_ ***---&#65279;LotRV*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/minas-tirith/
 > Anorien
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien  <br>_“...the Guarded City, with its seven walls of stone so strong and old that it seemed to have been not builded but carven by giants out of the stones of the earth."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 } 
+> > _**Nearest Haven:**_ Lorien  <br>_“...the Guarded City, with its seven walls of stone so strong and old that it seemed to have been not builded but carven by giants out of the stones of the earth."_ ***---&#65279;LotRV*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>

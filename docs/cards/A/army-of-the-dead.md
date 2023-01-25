@@ -22,7 +22,7 @@ permalink: /cards/army-of-the-dead/
 > Special Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Vale of Erech.  May only be played by Aragorn II on the same turn he plays Paths of the Dead. May not be influenced by an opponent. <br>_"I see shapes of Men and of horses, and pale banners like shreds of cloud, and spears like winter-thickets on a misty night. The Dead are following."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 } 
+> > _**Unique.**_ _**Playable at Vale of Erech.**_  <br>&ensp;May only be played by Aragorn II on the same turn he plays _Paths of the Dead._ <br>_"I see shapes of Men and of horses, and pale banners like shreds of cloud, and spears like winter-thickets on a misty night. The Dead are following."_ ***---&#65279;LotRV*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -39,5 +39,5 @@ permalink: /cards/army-of-the-dead/
 > Special Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Vale of Erech.  May only be played by Aragorn II on the same turn he plays Paths of the Dead. May not be influenced by an opponent. <br>_"I see shapes of Men and of horses, and pale banners like shreds of cloud, and spears like winter-thickets on a misty night. The Dead are following."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 } 
+> > _**Unique.**_ _**Playable at Vale of Erech.**_  <br>&ensp;May only be played by Aragorn II on the same turn he plays _Paths of the Dead._ May not be influenced by an opponent. <br>_"I see shapes of Men and of horses, and pale banners like shreds of cloud, and spears like winter-thickets on a misty night. The Dead are following."_ ***---&#65279;LotRV*** 
 > 

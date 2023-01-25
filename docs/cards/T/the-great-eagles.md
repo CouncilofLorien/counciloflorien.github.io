@@ -22,7 +22,7 @@ permalink: /cards/the-great-eagles/
 > Eagle Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Eagle's Eyrie if the influence check is greater than 9.  <br>_Standard Modifications:_ none. <br>_“...the Lord of the Eagles swept down from above, seized him in his talons, and was gone...Back swept the great birds that were with him, and down they came like huge black shadows."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
+> > _**Unique.**_ ***Playable at Eagle's Eyrie*** <br>&ensp;if the influence check is greater than 9.  <br>_Standard Modifications:_ none. <br>_“...the Lord of the Eagles swept down from above, seized him in his talons, and was gone...Back swept the great birds that were with him, and down they came like huge black shadows."_ ***---&#65279;Hob*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -39,5 +39,5 @@ permalink: /cards/the-great-eagles/
 > Eagle Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Eagle's Eyrie if the influence check is greater than 9.  <br>_Standard Modifications:_ none. <br>_“...the Lord of the Eagles swept down from above, seized him in his talons, and was gone...Back swept the great birds that were with him, and down they came like huge black shadows."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
+> > _**Unique.**_ ***Playable at Eagle's Eyrie*** <br>&ensp;if the influence check is greater than 9.  <br>_Standard Modifications:_ none. <br>_“...the Lord of the Eagles swept down from above, seized him in his talons, and was gone...Back swept the great birds that were with him, and down they came like huge black shadows."_ ***---&#65279;Hob*** 
 > 

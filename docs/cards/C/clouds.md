@@ -25,7 +25,7 @@ permalink: /cards/clouds/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ If Doors of Night is in play, the prowess of each hazard creature is modified by +2. Cannot be duplicated. <br>_"Still more suddenly, a darkness came on with dreadful swiftness! A black cloud hurried over the sky. Winter thunder on a wild wind rolled roaring up and rumbled...”_ ***---&#65279;Hob***{: .fs-3 } 
+> > _Environment._ If Doors of Night is in play, the prowess of each hazard creature is modified by +2. Cannot be duplicated. <br>_"Still more suddenly, a darkness came on with dreadful swiftness! A black cloud hurried over the sky. Winter thunder on a wild wind rolled roaring up and rumbled...”_ ***---&#65279;Hob*** 
 >
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -42,5 +42,5 @@ permalink: /cards/clouds/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ If Doors of Night is in play, the prowess of each hazard creature is modified by +2. Cannot be duplicated. <br>_"Still more suddenly, a darkness came on with dreadful swiftness! A black cloud hurried over the sky. Winter thunder on a wild wind rolled roaring up and rumbled...”_ ***---&#65279;Hob***{: .fs-3 } 
+> > _Environment._ If Doors of Night is in play, the prowess of each hazard creature is modified by +2. Cannot be duplicated. <br>_"Still more suddenly, a darkness came on with dreadful swiftness! A black cloud hurried over the sky. Winter thunder on a wild wind rolled roaring up and rumbled...”_ ***---&#65279;Hob*** 
 >

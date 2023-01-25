@@ -25,5 +25,5 @@ permalink: /cards/indur-unleashed/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable on any attack against Indur the Ringwraith (as your Ringwraith). The attack is canceled. Alternatively, playable when Indur the Ringwraith's own company declares an attack (if Indur the Ringwraith is your Ringwraith). The attack cannot be canceled. <br>_"The Enemy is fast becoming very strong."_{: .fs-3 } ***---&#65279;LotRI***{: .fs-3 } 
+> > Playable on any attack against Indur the Ringwraith (as your Ringwraith). The attack is canceled. Alternatively, playable when Indur the Ringwraith's own company declares an attack (if Indur the Ringwraith is your Ringwraith). The attack cannot be canceled. <br>_"The Enemy is fast becoming very strong."_ ***---&#65279;LotRI*** 
 > 

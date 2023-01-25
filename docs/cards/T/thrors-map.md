@@ -22,7 +22,7 @@ permalink: /cards/thrors-map/
 > Minor Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Discard Thror's Map to untap a site with a Dragon automatic-attack.   <br>_“...he spread a piece of parchment rather like a map. 'This was made by Thror, your grandfather, Thorin...’”_ ***---&#65279;Hob***{: .fs-3 } 
+> > _**Unique.**_ Discard Thror's Map to untap a site with a Dragon automatic-attack.   <br>_“...he spread a piece of parchment rather like a map. 'This was made by Thror, your grandfather, Thorin...’”_ ***---&#65279;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -42,7 +42,7 @@ permalink: /cards/thrors-map/
 > Minor Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Discard Thror's Map to untap a site with a Dragon Automatic-attack. <br>_“‘He was witless and wandering, and he had forgotten almost everything except the map and the key...’”_ ***---&#65279;Hob***{: .fs-3 } 
+> > _**Unique.**_ Discard Thror's Map to untap a site with a Dragon Automatic-attack. <br>_“‘He was witless and wandering, and he had forgotten almost everything except the map and the key...’”_ ***---&#65279;Hob*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -62,7 +62,7 @@ permalink: /cards/thrors-map/
 > Minor Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Discard Thror's Map to untap a site with a Dragon automatic-attack.   <br>_“...he spread a piece of parchment rather like a map. 'This was made by Thror, your grandfather, Thorin...’”_ ***---&#65279;Hob***{: .fs-3 } 
+> > _**Unique.**_ Discard Thror's Map to untap a site with a Dragon automatic-attack.   <br>_“...he spread a piece of parchment rather like a map. 'This was made by Thror, your grandfather, Thorin...’”_ ***---&#65279;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -82,7 +82,7 @@ permalink: /cards/thrors-map/
 > Minor Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Discard Thror's Map to untap a site with a Dragon Automatic-attack. <br>_“‘He was witless and wandering, and he had forgotten almost everything except the map and the key...’”_ ***---&#65279;Hob***{: .fs-3 } 
+> > _**Unique.**_ Discard Thror's Map to untap a site with a Dragon Automatic-attack. <br>_“‘He was witless and wandering, and he had forgotten almost everything except the map and the key...’”_ ***---&#65279;Hob*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

@@ -22,5 +22,5 @@ permalink: /cards/more-sense-than-you/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable before strikes are assigned on an untapped character or ally whose company is facing an attack. Tap target character or ally. He may not be assigned a strike from the attack.   <br>_“...For they sniff danger ahead which you walk right into; and if they run to save themselves, then they run the right way."_{: .fs-3 } ***---&#65279;LotRI***{: .fs-3 } 
+> > Playable before strikes are assigned on an untapped character or ally whose company is facing an attack. Tap target character or ally. He may not be assigned a strike from the attack.   <br>_“...For they sniff danger ahead which you walk right into; and if they run to save themselves, then they run the right way."_ ***---&#65279;LotRI*** 
 > 

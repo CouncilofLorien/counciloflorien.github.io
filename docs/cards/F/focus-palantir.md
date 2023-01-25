@@ -25,7 +25,7 @@ permalink: /cards/focus-palantir/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Sage only._ Playable on a Palantir with a sage in the company. The bearer of the Palantir now has the ability to use the Palantir. Discard Focus Palantir if the Palantir's company moves. <br>_"Then there came a faint glow and stir in the heart of it...”_ ***---&#65279;LotRIII***{: .fs-3 } 
+> > _Sage only._ Playable on a Palantir with a sage in the company. The bearer of the Palantir now has the ability to use the Palantir. Discard Focus Palantir if the Palantir's company moves. <br>_"Then there came a faint glow and stir in the heart of it...”_ ***---&#65279;LotRIII*** 
 > 
 
 ### _Middle-earth Challenge Decks_
@@ -42,5 +42,5 @@ permalink: /cards/focus-palantir/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Sage only._ Playable on a Palantir with a sage in the company. The bearer of the Palantir now has the ability to use the Palantir. Discard Focus Palantir if the Palantir's company moves. <br>_"Then there came a faint glow and stir in the heart of it...”_ ***---&#65279;LotRIII***{: .fs-3 } 
+> > _Sage only._ Playable on a Palantir with a sage in the company. The bearer of the Palantir now has the ability to use the Palantir. Discard Focus Palantir if the Palantir's company moves. <br>_"Then there came a faint glow and stir in the heart of it...”_ ***---&#65279;LotRIII*** 
 > 

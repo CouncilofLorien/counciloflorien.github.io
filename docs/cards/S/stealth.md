@@ -22,7 +22,7 @@ permalink: /cards/stealth/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Scout only._ Tap a scout to play at the end of the organization phase only if the scout's company size is less than three. No creature hazards may be played on his company this turn. <br>_"The wind was still. A little way off he heard a harsh laugh and the tread of many feet on the ground below."_{: .fs-3 } ***---&#65279;LotRI***{: .fs-3 } 
+> > _Scout only._ Tap a scout to play at the end of the organization phase only if the scout's company size is less than three. No creature hazards may be played on his company this turn. <br>_"The wind was still. A little way off he heard a harsh laugh and the tread of many feet on the ground below."_ ***---&#65279;LotRI*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -39,7 +39,7 @@ permalink: /cards/stealth/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Scout only._ Tap a scout to play at the end of the organization phase only if the scout's company size is less than three. No creature hazards may be played on his company this turn. <br>_"The wind was still. A little way off he heard a harsh laugh and the tread of many feet on the ground below."_{: .fs-3 } ***---&#65279;LotRI***{: .fs-3 } 
+> > _Scout only._ Tap a scout to play at the end of the organization phase only if the scout's company size is less than three. No creature hazards may be played on his company this turn. <br>_"The wind was still. A little way off he heard a harsh laugh and the tread of many feet on the ground below."_ ***---&#65279;LotRI*** 
 > 
 
 ### _Middle-earth Challenge Decks_
@@ -56,5 +56,5 @@ permalink: /cards/stealth/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Scout only._ Tap a scout to play at the end of the organization phase only if the scout's company size is less than three. No creature hazards may be played on his company this turn. <br>_"The wind was still. A little way off he heard a harsh laugh and the tread of many feet on the ground below."_{: .fs-3 } ***---&#65279;LotRI***{: .fs-3 } 
+> > _Scout only._ Tap a scout to play at the end of the organization phase only if the scout's company size is less than three. No creature hazards may be played on his company this turn. <br>_"The wind was still. A little way off he heard a harsh laugh and the tread of many feet on the ground below."_ ***---&#65279;LotRI*** 
 > 

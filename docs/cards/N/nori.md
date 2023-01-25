@@ -25,7 +25,7 @@ permalink: /cards/nori/
 > Warrior Dwarf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +1 prowess against Orcs. <br>-1 to all of his corruption checks. <br>-1 to influence checks against factions. <br>_“...and Nori, who shared the hobbit's views about regular meals, plenty and often."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 }  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
+> > _**Unique.**_ +1 prowess against Orcs. <br>-1 to all of his corruption checks. <br>-1 to influence checks against factions. <br>_“...and Nori, who shared the hobbit's views about regular meals, plenty and often."_ ***---&#65279;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【4/7】</div>
@@ -45,7 +45,7 @@ permalink: /cards/nori/
 > Warrior Dwarf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +1 prowess against Orcs. <br>-1 to all of his corruption checks. <br>-1 to influence checks against factions. <br>_“...and Nori, who shared the hobbit's views about regular meals, plenty and often."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 }  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
+> > _**Unique.**_ +1 prowess against Orcs. <br>-1 to all of his corruption checks. <br>-1 to influence checks against factions. <br>_“...and Nori, who shared the hobbit's views about regular meals, plenty and often."_ ***---&#65279;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【4/7】</div>

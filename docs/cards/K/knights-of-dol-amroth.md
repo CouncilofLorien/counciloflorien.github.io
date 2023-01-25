@@ -22,7 +22,7 @@ permalink: /cards/knights-of-dol-amroth/
 > Dunadan Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Dol Amroth if the influence check is greater than 8.  <br>_Standard Modifications:_ Dunedain (+1). <br>_“...and a company of knights in full harness riding grey horses; and behind them seven hundreds of men at arms, tall as lords, grey-eyed, dark-haired, singing as they came."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 } 
+> > _**Unique.**_ Playable at Dol Amroth if the influence check is greater than 8.  <br>_Standard Modifications:_ Dunedain (+1). <br>_“...and a company of knights in full harness riding grey horses; and behind them seven hundreds of men at arms, tall as lords, grey-eyed, dark-haired, singing as they came."_ ***---&#65279;LotRV*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -39,7 +39,7 @@ permalink: /cards/knights-of-dol-amroth/
 > Dunadan Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Dol Amroth if the influence check is greater than 8.  <br>_Standard Modifications:_ Dunedain (+1). <br>_“...and a company of knights in full harness riding grey horses; and behind them seven hundreds of men at arms, tall as lords, grey-eyed, dark-haired, singing as they came."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 } 
+> > _**Unique.**_ Playable at Dol Amroth if the influence check is greater than 8.  <br>_Standard Modifications:_ Dunedain (+1). <br>_“...and a company of knights in full harness riding grey horses; and behind them seven hundreds of men at arms, tall as lords, grey-eyed, dark-haired, singing as they came."_ ***---&#65279;LotRV*** 
 > 
 
 ### _Middle-earth Challenge Decks_
@@ -56,5 +56,5 @@ permalink: /cards/knights-of-dol-amroth/
 > Dunadan Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Dol Amroth if the influence check is greater than 8.  <br>_Standard Modifications:_ Dunedain (+1). <br>_“...and a company of knights in full harness riding grey horses; and behind them seven hundreds of men at arms, tall as lords, grey-eyed, dark-haired, singing as they came."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 } 
+> > _**Unique.**_ Playable at Dol Amroth if the influence check is greater than 8.  <br>_Standard Modifications:_ Dunedain (+1). <br>_“...and a company of knights in full harness riding grey horses; and behind them seven hundreds of men at arms, tall as lords, grey-eyed, dark-haired, singing as they came."_ ***---&#65279;LotRV*** 
 > 

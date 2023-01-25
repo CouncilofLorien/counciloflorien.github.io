@@ -25,7 +25,7 @@ permalink: /cards/lost-at-sea/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a company that is moving this turn. If the company has a Coastal Sea \[![](/assets/images/coastalsea.svg)] in its site path, it may do nothing at the site during its site phase. <br>_"The cliffs and rocks, all just grey shapes, stirred behind the veil of thick pale mist...like dancing monsters reveling on the far side of a gossamer curtain."_{: .fs-3 } ***---&#65279;Kuduk Lore***{: .fs-3 } 
+> > Playable on a company that is moving this turn. If the company has a Coastal Sea \[![](/assets/images/coastalsea.svg)] in its site path, it may do nothing at the site during its site phase. <br>_"The cliffs and rocks, all just grey shapes, stirred behind the veil of thick pale mist...like dancing monsters reveling on the far side of a gossamer curtain."_ ***---&#65279;Kuduk Lore*** 
 >
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -42,5 +42,5 @@ permalink: /cards/lost-at-sea/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a company that is moving this turn. If the company has a Coastal Sea \[![](/assets/images/coastalsea.svg)] in its site path, it may do nothing at the site during its site phase. <br>_"The cliffs and rocks, all just grey shapes, stirred behind the veil of thick pale mist...like dancing monsters reveling on the far side of a gossamer curtain."_{: .fs-3 } ***---&#65279;Kuduk Lore***{: .fs-3 } 
+> > Playable on a company that is moving this turn. If the company has a Coastal Sea \[![](/assets/images/coastalsea.svg)] in its site path, it may do nothing at the site during its site phase. <br>_"The cliffs and rocks, all just grey shapes, stirred behind the veil of thick pale mist...like dancing monsters reveling on the far side of a gossamer curtain."_ ***---&#65279;Kuduk Lore*** 
 >

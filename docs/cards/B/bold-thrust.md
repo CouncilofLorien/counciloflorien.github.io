@@ -25,7 +25,7 @@ permalink: /cards/bold-thrust/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Warrior only: Warrior receives +3 to prowess and -1 to body against one strike.   <br>_“...he charged into the Company and thrust with his spear straight at Frodo."_{: .fs-3 } ***---&#65279;LotRII***{: .fs-3 } 
+> > Warrior only: Warrior receives +3 to prowess and -1 to body against one strike.   <br>_“...he charged into the Company and thrust with his spear straight at Frodo."_ ***---&#65279;LotRII*** 
 > 
 
 ### _Middle-earth Challenge Decks_
@@ -42,7 +42,7 @@ permalink: /cards/bold-thrust/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Warrior only: Warrior receives +3 to prowess and -1 to body against one strike.   <br>_“...he charged into the Company and thrust with his spear straight at Frodo."_{: .fs-3 } ***---&#65279;LotRII***{: .fs-3 } 
+> > Warrior only: Warrior receives +3 to prowess and -1 to body against one strike.   <br>_“...he charged into the Company and thrust with his spear straight at Frodo."_ ***---&#65279;LotRII*** 
 > 
 
 ### _Middle-earth: The Balrog Reprint_
@@ -59,5 +59,5 @@ permalink: /cards/bold-thrust/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Warrior only: Warrior receives +3 to prowess and -1 to body against one strike.   <br>_“...he charged into the Company and thrust with his spear straight at Frodo."_{: .fs-3 } ***---&#65279;LotRII***{: .fs-3 } 
+> > Warrior only: Warrior receives +3 to prowess and -1 to body against one strike.   <br>_“...he charged into the Company and thrust with his spear straight at Frodo."_ ***---&#65279;LotRII*** 
 > 

@@ -25,7 +25,7 @@ permalink: /cards/cameth-brin/
 > Rhudaur
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell  <br>_"There the Dunadain were few, and power had been seized by an evil lord of the Hillmen, who was in secret league with Angmar."_{: .fs-3 } ***---&#65279;LotR***{: .fs-3 } 
+> > _**Nearest Haven:**_ Rivendell  <br>_"There the Dunadain were few, and power had been seized by an evil lord of the Hillmen, who was in secret league with Angmar."_ ***---&#65279;LotR*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/cameth-brin/
 > Rhudaur
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell  <br>_"There the Dunadain were few, and power had been seized by an evil lord of the Hillmen, who was in secret league with Angmar."_{: .fs-3 } ***---&#65279;LotR***{: .fs-3 } 
+> > _**Nearest Haven:**_ Rivendell  <br>_"There the Dunadain were few, and power had been seized by an evil lord of the Hillmen, who was in secret league with Angmar."_ ***---&#65279;LotR*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/cameth-brin/
 > Rhudaur
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Items (minor, major*) *-weapon, armor, shield, or helmet only <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 7 prowess (detainment against covert company)  <br>_“...between the Ettenmoors, the Weather Hills, and the Misty Mountains."_{: .fs-3 } ***---&#65279;LotR***{: .fs-3 } 
+> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Items (minor, major*) *-weapon, armor, shield, or helmet only <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 7 prowess (detainment against covert company)  <br>_“...between the Ettenmoors, the Weather Hills, and the Misty Mountains."_ ***---&#65279;LotR*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>

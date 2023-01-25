@@ -22,7 +22,7 @@ permalink: /cards/a-friend-or-three/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > For every character in the influencing character's company, A Friend or Three gives a +1 modification to an influence check or to a corruption check made by a character in the same company. <br>_“‘I was coming...with a friend or two...' said the wizard...'One or three you meant, I see!' said Beorn."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
+> > For every character in the influencing character's company, A Friend or Three gives a +1 modification to an influence check or to a corruption check made by a character in the same company. <br>_“‘I was coming...with a friend or two...' said the wizard...'One or three you meant, I see!' said Beorn."_ ***---&#65279;Hob*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -39,7 +39,7 @@ permalink: /cards/a-friend-or-three/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > For every character in the influencing character's company, A Friend or Three gives a +1 modification to an influence check or to a corruption check made by a character in the same company. <br>_“‘I was coming...with a friend or two...' said the wizard...'One or three you meant, I see!' said Beorn."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
+> > For every character in the influencing character's company, A Friend or Three gives a +1 modification to an influence check or to a corruption check made by a character in the same company. <br>_“‘I was coming...with a friend or two...' said the wizard...'One or three you meant, I see!' said Beorn."_ ***---&#65279;Hob*** 
 > 
 
 ### _Middle-earth Challenge Decks_
@@ -56,5 +56,5 @@ permalink: /cards/a-friend-or-three/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > For every character in the influencing character's company, A Friend or Three gives a +1 modification to an influence check or to a corruption check made by a character in the same company. <br>_“‘I was coming...with a friend or two...' said the wizard...'One or three you meant, I see!' said Beorn."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
+> > For every character in the influencing character's company, A Friend or Three gives a +1 modification to an influence check or to a corruption check made by a character in the same company. <br>_“‘I was coming...with a friend or two...' said the wizard...'One or three you meant, I see!' said Beorn."_ ***---&#65279;Hob*** 
 > 

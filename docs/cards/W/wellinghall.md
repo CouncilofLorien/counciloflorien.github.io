@@ -25,7 +25,7 @@ permalink: /cards/wellinghall/
 > Fangorn
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien  <br>_“...the trees in the court had also begun to glow, faintly at first, but steadily quickening, until every leaf was edged with light: some green, some gold, some red as copper; while the tree-trunks looked like pillars moulded out of luminous stone."_{: .fs-3 } ***---&#65279;LotRIII***{: .fs-3 } 
+> > _**Nearest Haven:**_ Lorien  <br>_“...the trees in the court had also begun to glow, faintly at first, but steadily quickening, until every leaf was edged with light: some green, some gold, some red as copper; while the tree-trunks looked like pillars moulded out of luminous stone."_ ***---&#65279;LotRIII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/wellinghall/
 > Fangorn
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien  <br>_“...the trees in the court had also begun to glow, faintly at first, but steadily quickening, until every leaf was edged with light: some green, some gold, some red as copper; while the tree-trunks looked like pillars moulded out of luminous stone."_{: .fs-3 } ***---&#65279;LotRIII***{: .fs-3 } 
+> > _**Nearest Haven:**_ Lorien  <br>_“...the trees in the court had also begun to glow, faintly at first, but steadily quickening, until every leaf was edged with light: some green, some gold, some red as copper; while the tree-trunks looked like pillars moulded out of luminous stone."_ ***---&#65279;LotRIII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/wellinghall/
 > Fangorn
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur  <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br> Awakened Plant-2 strikes with 10 prowess Awakened Plant-2 strikes with 10 prowess  <br>_"A little steam escaped from the springs above...tinkling down the sheer face of the wall, pouring in sheer drops, link a fine curtain...”_ ***---&#65279;LotRIII***{: .fs-3 } 
+> > Nearest Darkhaven: Dol Guldur  <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br> Awakened Plant-2 strikes with 10 prowess Awakened Plant-2 strikes with 10 prowess  <br>_"A little steam escaped from the springs above...tinkling down the sheer face of the wall, pouring in sheer drops, link a fine curtain...”_ ***---&#65279;LotRIII*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/wellinghall/
 > Fangorn
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien  <br>_“...the trees in the court had also begun to glow, faintly at first, but steadily quickening, until every leaf was edged with light: some green, some gold, some red as copper; while the tree-trunks looked like pillars moulded out of luminous stone."_{: .fs-3 } ***---&#65279;LotRIII***{: .fs-3 } 
+> > _**Nearest Haven:**_ Lorien  <br>_“...the trees in the court had also begun to glow, faintly at first, but steadily quickening, until every leaf was edged with light: some green, some gold, some red as copper; while the tree-trunks looked like pillars moulded out of luminous stone."_ ***---&#65279;LotRIII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -105,7 +105,7 @@ permalink: /cards/wellinghall/
 > Fangorn
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur  <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br> Awakened Plant-2 strikes with 10 prowess Awakened Plant-2 strikes with 10 prowess  "A little steam escaped from the springs above...tinkling down the sheer face of the wall, pouring in sheer drops, link a fine curtain...”_ ***---&#65279;LotRIII***{: .fs-3 } 
+> > Nearest Darkhaven: Dol Guldur  <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br> Awakened Plant-2 strikes with 10 prowess Awakened Plant-2 strikes with 10 prowess  "A little steam escaped from the springs above...tinkling down the sheer face of the wall, pouring in sheer drops, link a fine curtain...”_ ***---&#65279;LotRIII*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>

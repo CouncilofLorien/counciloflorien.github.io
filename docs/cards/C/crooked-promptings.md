@@ -25,7 +25,7 @@ permalink: /cards/crooked-promptings/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Diplomat only._ +3 to any one influence check by a character in a diplomat's company or +2 to a corruption check by a character in his company.   <br>_“‘Appoint a faithful steward. Let your counselor Grima keep all things till your return...’”_ ***---&#65279;LotRIII***{: .fs-3 } 
+> > _Diplomat only._ +3 to any one influence check by a character in a diplomat's company or +2 to a corruption check by a character in his company.   <br>_“‘Appoint a faithful steward. Let your counselor Grima keep all things till your return...’”_ ***---&#65279;LotRIII*** 
 > 
 
 ### _Middle-earth Challenge Decks_
@@ -42,5 +42,5 @@ permalink: /cards/crooked-promptings/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Diplomat only._ +3 to any one influence check by a character in a diplomat's company or +2 to a corruption check by a character in his company.   <br>_“‘Appoint a faithful steward. Let your counselor Grima keep all things till your return...’”_ ***---&#65279;LotRIII***{: .fs-3 } 
+> > _Diplomat only._ +3 to any one influence check by a character in a diplomat's company or +2 to a corruption check by a character in his company.   <br>_“‘Appoint a faithful steward. Let your counselor Grima keep all things till your return...’”_ ***---&#65279;LotRIII*** 
 > 

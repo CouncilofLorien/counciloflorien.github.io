@@ -22,7 +22,7 @@ permalink: /cards/halfling-stealth/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Hobbit only._ Cancel one strike against the Hobbit. <br>_"They possessed from the first the art of disappearing swiftly and silently, when large folk whom they do not wish to meet come blundering by; and this art they have developed until to Men it may seem magical."_{: .fs-3 } ***---&#65279;LotRI***{: .fs-3 } 
+> > _Hobbit only._ Cancel one strike against the Hobbit. <br>_"They possessed from the first the art of disappearing swiftly and silently, when large folk whom they do not wish to meet come blundering by; and this art they have developed until to Men it may seem magical."_ ***---&#65279;LotRI*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -39,7 +39,7 @@ permalink: /cards/halfling-stealth/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Hobbit only._ Cancel one strike against the Hobbit. <br>_"They possessed from the first the art of disappearing swiftly and silently, when large folk whom they do not wish to meet come blundering by; and this art they have developed until to Men it may seem magical."_{: .fs-3 } ***---&#65279;LotRI***{: .fs-3 } 
+> > _Hobbit only._ Cancel one strike against the Hobbit. <br>_"They possessed from the first the art of disappearing swiftly and silently, when large folk whom they do not wish to meet come blundering by; and this art they have developed until to Men it may seem magical."_ ***---&#65279;LotRI*** 
 > 
 
 ### _Middle-earth: The Wizards Starter Set_
@@ -56,5 +56,5 @@ permalink: /cards/halfling-stealth/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Hobbit only._ Cancel one strike against the Hobbit. <br>_"They possessed from the first the art of disappearing swiftly and silently, when large folk whom they do not wish to meet come blundering by; and this art they have developed until to Men it may seem magical."_{: .fs-3 } ***---&#65279;LotRI***{: .fs-3 } 
+> > _Hobbit only._ Cancel one strike against the Hobbit. <br>_"They possessed from the first the art of disappearing swiftly and silently, when large folk whom they do not wish to meet come blundering by; and this art they have developed until to Men it may seem magical."_ ***---&#65279;LotRI*** 
 > 

@@ -25,7 +25,7 @@ permalink: /cards/wild-trolls/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Trolls._ Two strikes. <br>_“‘It's trolls!...They're hiding in the bushes with sacks...’”_ ***---&#65279;Hob***{: .fs-3 } 
+> > _Trolls._ Two strikes. <br>_“‘It's trolls!...They're hiding in the bushes with sacks...’”_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【10/&ndash;】</div>

@@ -22,5 +22,5 @@ permalink: /cards/wielded-twice/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Ritual._ Tap a sage to untap an item in his company. Sage makes a corruption check. <br>_“‘Two?' said Legolas. 'I have done better, though now I must grope for spent arrows; all mine are gone. Yet I make my tale twenty at the least.’”_ ***---&#65279;LotRIII***{: .fs-3 } 
+> > _Ritual._ Tap a sage to untap an item in his company. Sage makes a corruption check. <br>_“‘Two?' said Legolas. 'I have done better, though now I must grope for spent arrows; all mine are gone. Yet I make my tale twenty at the least.’”_ ***---&#65279;LotRIII*** 
 > 

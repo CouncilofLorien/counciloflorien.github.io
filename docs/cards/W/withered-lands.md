@@ -25,7 +25,7 @@ permalink: /cards/withered-lands/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ Playable only if Doors of Night is in play. Treat one target Wilderness \[![](/assets/images/wilderness.svg)] as two Wildernesses \[![](/assets/images/wilderness.svg)] or one Shadow-land \[![](/assets/images/shadow-land.svg)] as two Wildernesses \[![](/assets/images/wilderness.svg)] or one Border-land \[![](/assets/images/border-land.svg)] as two Wildernesses \[![](/assets/images/wilderness.svg)] until the end of the turn. <br>_“...there were Dragons in the wastes beyond...”_ ***---&#65279;LotR***{: .fs-3 } 
+> > _Environment._ Playable only if Doors of Night is in play. Treat one target Wilderness \[![](/assets/images/wilderness.svg)] as two Wildernesses \[![](/assets/images/wilderness.svg)] or one Shadow-land \[![](/assets/images/shadow-land.svg)] as two Wildernesses \[![](/assets/images/wilderness.svg)] or one Border-land \[![](/assets/images/border-land.svg)] as two Wildernesses \[![](/assets/images/wilderness.svg)] until the end of the turn. <br>_“...there were Dragons in the wastes beyond...”_ ***---&#65279;LotR*** 
 >
 
 ### _Middle-earth Challenge Decks_
@@ -42,5 +42,5 @@ permalink: /cards/withered-lands/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ Playable only if Doors of Night is in play. Treat one target Wilderness \[![](/assets/images/wilderness.svg)] as two Wildernesses \[![](/assets/images/wilderness.svg)] or one Shadow-land \[![](/assets/images/shadow-land.svg)] as two Wildernesses \[![](/assets/images/wilderness.svg)] or one Border-land \[![](/assets/images/border-land.svg)] as two Wildernesses \[![](/assets/images/wilderness.svg)] until the end of the turn. <br>_“...there were Dragons in the wastes beyond...”_ ***---&#65279;LotR***{: .fs-3 } 
+> > _Environment._ Playable only if Doors of Night is in play. Treat one target Wilderness \[![](/assets/images/wilderness.svg)] as two Wildernesses \[![](/assets/images/wilderness.svg)] or one Shadow-land \[![](/assets/images/shadow-land.svg)] as two Wildernesses \[![](/assets/images/wilderness.svg)] or one Border-land \[![](/assets/images/border-land.svg)] as two Wildernesses \[![](/assets/images/wilderness.svg)] until the end of the turn. <br>_“...there were Dragons in the wastes beyond...”_ ***---&#65279;LotR*** 
 >

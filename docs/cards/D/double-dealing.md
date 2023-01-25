@@ -25,5 +25,5 @@ permalink: /cards/double-dealing/
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > Playable on a site. If the site is a minion-site, you may play appropriate hero resources there. If the site is a hero site, you may play appropriate minion resources there. Discard when this site is discarded or returned to your location deck. <br>_“‘...and you have cheated your new master, or tried to do so.’”_ ***---&#65279;LotRIII***{: .fs-3 } 
+> > Playable on a site. If the site is a minion-site, you may play appropriate hero resources there. If the site is a hero site, you may play appropriate minion resources there. Discard when this site is discarded or returned to your location deck. <br>_“‘...and you have cheated your new master, or tried to do so.’”_ ***---&#65279;LotRIII*** 
 > 

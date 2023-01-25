@@ -25,7 +25,7 @@ permalink: /cards/irerock/
 > Withered Heath
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon - 1 strike with 14 prowess  <br>_"The wind was on the withered heath...and like a tide it roared and rolled...and swept above the dragon's lair...”_ ***---&#65279;Hob***{: .fs-3 } 
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon - 1 strike with 14 prowess  <br>_"The wind was on the withered heath...and like a tide it roared and rolled...and swept above the dragon's lair...”_ ***---&#65279;Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;3&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/irerock/
 > Withered Heath
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon - 1 strike with 14 prowess  <br>_"The wind was on the withered heath...and like a tide it roared and rolled...and swept above the dragon's lair...”_ ***---&#65279;Hob***{: .fs-3 } 
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon - 1 strike with 14 prowess  <br>_"The wind was on the withered heath...and like a tide it roared and rolled...and swept above the dragon's lair...”_ ***---&#65279;Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;3&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/irerock/
 > Withered Heath
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon-1 strike with 14 prowess  <br>_“‘Its name is well given, for if you survive the climb and the cold and the wind, the worm awaits."_{: .fs-3 } ***---&#65279;Kuduk Lore***{: .fs-3 } 
+> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon-1 strike with 14 prowess  <br>_“‘Its name is well given, for if you survive the climb and the cold and the wind, the worm awaits."_ ***---&#65279;Kuduk Lore*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/irerock/
 > Withered Heath
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon-1 strike with 14 prowess  <br>_“‘Its name is well given, for if you survive the climb and the cold and the wind, the worm awaits."_{: .fs-3 } ***---&#65279;Kuduk Lore***{: .fs-3 } 
+> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon-1 strike with 14 prowess  <br>_“‘Its name is well given, for if you survive the climb and the cold and the wind, the worm awaits."_ ***---&#65279;Kuduk Lore*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

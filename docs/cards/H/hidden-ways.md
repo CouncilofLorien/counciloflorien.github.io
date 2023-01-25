@@ -25,5 +25,5 @@ permalink: /cards/hidden-ways/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Ranger only._ Playable during the organization phase on an untapped ranger whose company is moving. Tap the ranger. No hazard creatures may be keyed by type to Wilderness \[![](/assets/images/wilderness.svg)] against the ranger's company this turn. <br>_“‘Wait till we get to the Under-way. There's a place where we can talk a bit...’”_ ***---&#65279;LotRII***{: .fs-3 } 
+> > _Ranger only._ Playable during the organization phase on an untapped ranger whose company is moving. Tap the ranger. No hazard creatures may be keyed by type to Wilderness \[![](/assets/images/wilderness.svg)] against the ranger's company this turn. <br>_“‘Wait till we get to the Under-way. There's a place where we can talk a bit...’”_ ***---&#65279;LotRII*** 
 > 

@@ -25,7 +25,7 @@ permalink: /cards/crept-along-cleverly/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Ranger only._ Cancels a Wolf, Animal, Spider, Dragon, or Undead attack against a ranger's company. <br>_"Having made up his mind he crept along as cleverly as he could."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
+> > _Ranger only._ Cancels a Wolf, Animal, Spider, Dragon, or Undead attack against a ranger's company. <br>_"Having made up his mind he crept along as cleverly as he could."_ ***---&#65279;Hob*** 
 > 
 
 ### _Middle-earth Challenge Decks_
@@ -42,7 +42,7 @@ permalink: /cards/crept-along-cleverly/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Ranger only._ Cancels a Wolf, Animal, Spider, Dragon, or Undead attack against a ranger's company. <br>_"Having made up his mind he crept along as cleverly as he could."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
+> > _Ranger only._ Cancels a Wolf, Animal, Spider, Dragon, or Undead attack against a ranger's company. <br>_"Having made up his mind he crept along as cleverly as he could."_ ***---&#65279;Hob*** 
 > 
 
 ### _Middle-earth: The Balrog Reprint_
@@ -59,5 +59,5 @@ permalink: /cards/crept-along-cleverly/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Ranger only._ Cancels a Wolf, Animal, Spider, Dragon, or Undead attack against a ranger's company. <br>_"Having made up his mind he crept along as cleverly as he could."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
+> > _Ranger only._ Cancels a Wolf, Animal, Spider, Dragon, or Undead attack against a ranger's company. <br>_"Having made up his mind he crept along as cleverly as he could."_ ***---&#65279;Hob*** 
 > 

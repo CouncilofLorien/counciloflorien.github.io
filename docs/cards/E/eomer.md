@@ -25,7 +25,7 @@ permalink: /cards/eomer/
 > Warrior/Ranger Man
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Riders of Rohan faction. <br>_“...one rode forward, a tall man...from his helm as a crest a white horsetail flowed... He bent his clear bright eyes...'I am named Eomer son of Eomund, and I am called Third Marshall of the Riddermark.’”_ ***---&#65279;LotRIII***{: .fs-3 }  <br><br>**Home Site:** Edoras 
+> > _**Unique.**_ +2 direct influence against the Riders of Rohan faction. <br>_“...one rode forward, a tall man...from his helm as a crest a white horsetail flowed... He bent his clear bright eyes...'I am named Eomer son of Eomund, and I am called Third Marshall of the Riddermark.’”_ ***---&#65279;LotRIII***  <br><br>**Home Site:** Edoras 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【3/8】</div>
@@ -45,7 +45,7 @@ permalink: /cards/eomer/
 > Warrior/Ranger Man
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Riders of Rohan faction. <br>_“...one rode forward, a tall man...from his helm as a crest a white horsetail flowed... He bent his clear bright eyes...'I am named Eomer son of Eomund, and I am called Third Marshall of the Riddermark.’”_ ***---&#65279;LotRIII***{: .fs-3 }  <br><br>**Home Site:** Edoras 
+> > _**Unique.**_ +2 direct influence against the Riders of Rohan faction. <br>_“...one rode forward, a tall man...from his helm as a crest a white horsetail flowed... He bent his clear bright eyes...'I am named Eomer son of Eomund, and I am called Third Marshall of the Riddermark.’”_ ***---&#65279;LotRIII***  <br><br>**Home Site:** Edoras 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【3/8】</div>

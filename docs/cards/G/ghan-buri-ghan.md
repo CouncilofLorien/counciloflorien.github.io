@@ -25,7 +25,7 @@ permalink: /cards/ghan-buri-ghan/
 > Scout/Ranger Man
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against Wose factions. <br>_“...before them on the ground sat a strange squat shape of a man, gnarled as an old stone, and the hairs of his scanty beard straggled on his lumpy chin like dry moss."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 }  <br><br>**Home Site:** Druadan Forest 
+> > _**Unique.**_ +2 direct influence against Wose factions. <br>_“...before them on the ground sat a strange squat shape of a man, gnarled as an old stone, and the hairs of his scanty beard straggled on his lumpy chin like dry moss."_ ***---&#65279;LotRV***  <br><br>**Home Site:** Druadan Forest 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【2/9】</div>
@@ -45,7 +45,7 @@ permalink: /cards/ghan-buri-ghan/
 > Scout/Ranger Man
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against Wose factions. <br>_“...before them on the ground sat a strange squat shape of a man, gnarled as an old stone, and the hairs of his scanty beard straggled on his lumpy chin like dry moss."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 }  <br><br>**Home Site:** Druadan Forest 
+> > _**Unique.**_ +2 direct influence against Wose factions. <br>_“...before them on the ground sat a strange squat shape of a man, gnarled as an old stone, and the hairs of his scanty beard straggled on his lumpy chin like dry moss."_ ***---&#65279;LotRV***  <br><br>**Home Site:** Druadan Forest 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【2/9】</div>

@@ -25,7 +25,7 @@ permalink: /cards/luitprand/
 > Scout Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_   "The men of the lake-town Esgaroth were mostly indoors, for the breeze was from the black East and chill, but a few were walking on the quays, and watching, as they were fond of doing, the stars...”_ ***---&#65279;Hob***{: .fs-3 }  <br><br>**Home Site:** Lake-town 
+> > _**Unique.**_   "The men of the lake-town Esgaroth were mostly indoors, for the breeze was from the black East and chill, but a few were walking on the quays, and watching, as they were fond of doing, the stars...”_ ***---&#65279;Hob***  <br><br>**Home Site:** Lake-town 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【3/7】</div>
@@ -45,7 +45,7 @@ permalink: /cards/luitprand/
 > Scout Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_   "The men of the lake-town Esgaroth were mostly indoors, for the breeze was from the black East and chill, but a few were walking on the quays, and watching, as they were fond of doing, the stars...”_ ***---&#65279;Hob***{: .fs-3 }  <br><br>**Home Site:** Lake-town 
+> > _**Unique.**_   "The men of the lake-town Esgaroth were mostly indoors, for the breeze was from the black East and chill, but a few were walking on the quays, and watching, as they were fond of doing, the stars...”_ ***---&#65279;Hob***  <br><br>**Home Site:** Lake-town 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【3/7】</div>

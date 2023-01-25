@@ -22,5 +22,5 @@ permalink: /cards/the-white-council/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable during your organization phase in your marshalling point pile if your Wizard is in a Haven \[![](/assets/images/free-haven.svg)] and you have more marshalling points than your opponent. Your opponent must be a Fallen-wizard or a Wizard. Cannot be duplicated on a given turn. <br>_“‘...we trusted him, and he is deep in all our counsels.’”_ ***---&#65279;LotRII***{: .fs-3 } 
+> > Playable during your organization phase in your marshalling point pile if your Wizard is in a Haven \[![](/assets/images/free-haven.svg)] and you have more marshalling points than your opponent. Your opponent must be a Fallen-wizard or a Wizard. Cannot be duplicated on a given turn. <br>_“‘...we trusted him, and he is deep in all our counsels.’”_ ***---&#65279;LotRII*** 
 > 

@@ -25,7 +25,7 @@ permalink: /cards/paltry-ring/
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Lesser Ring._ Playable only with a Gold Ring and after a test indicates a _Lesser Ring._ +3 to prowess against detainment attacks. Cannot be duplicated on a given character. <br>_"Only the Dark Lord, obsessed with his Ruling Ring, would name this enchanted adornment paltry-few others should scorn its fabled magic.’”_ ***---&#65279;Kuduk Lore***{: .fs-3 } 
+> > _Lesser Ring._ Playable only with a Gold Ring and after a test indicates a _Lesser Ring._ +3 to prowess against detainment attacks. Cannot be duplicated on a given character. <br>_"Only the Dark Lord, obsessed with his Ruling Ring, would name this enchanted adornment paltry-few others should scorn its fabled magic.’”_ ***---&#65279;Kuduk Lore*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【(+3)/&ndash;】</div>

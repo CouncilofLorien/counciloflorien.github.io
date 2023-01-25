@@ -25,5 +25,5 @@ permalink: /cards/passion-of-wrath/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > A strike from a Dragon attack is modified by +2 prowess and -1 body. Alternatively, a strike from an attack by a manifestation of Smaug is modified by +4 prowess and -2 body. <br>_"At the twanging of the bows and the shrilling of the trumpets the dragon's wrath blazed to its height till he was blind and mad with it."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
+> > A strike from a Dragon attack is modified by +2 prowess and -1 body. Alternatively, a strike from an attack by a manifestation of Smaug is modified by +4 prowess and -2 body. <br>_"At the twanging of the bows and the shrilling of the trumpets the dragon's wrath blazed to its height till he was blind and mad with it."_ ***---&#65279;Hob*** 
 >

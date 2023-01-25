@@ -22,7 +22,7 @@ permalink: /cards/new-friendship/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Diplomat only._ +3 to any one influence check or +2 to a corruption check made by a character in the same company. <br>_“‘You may meet a friend of mine on the Road: a Man, lean, dark, tall, by some called Strider. He knows our business and will help you.’”_ ***---&#65279;LotRI***{: .fs-3 } 
+> > _Diplomat only._ +3 to any one influence check or +2 to a corruption check made by a character in the same company. <br>_“‘You may meet a friend of mine on the Road: a Man, lean, dark, tall, by some called Strider. He knows our business and will help you.’”_ ***---&#65279;LotRI*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -39,7 +39,7 @@ permalink: /cards/new-friendship/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Diplomat only._ +3 to any one influence check or +2 to a corruption check made by a character in the same company. <br>_“‘You may meet a friend of mine on the Road: a Man, lean, dark, tall, by some called Strider. He knows our business and will help you.’”_ ***---&#65279;LotRI***{: .fs-3 } 
+> > _Diplomat only._ +3 to any one influence check or +2 to a corruption check made by a character in the same company. <br>_“‘You may meet a friend of mine on the Road: a Man, lean, dark, tall, by some called Strider. He knows our business and will help you.’”_ ***---&#65279;LotRI*** 
 > 
 
 ### _Middle-earth Challenge Decks_
@@ -56,5 +56,5 @@ permalink: /cards/new-friendship/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Diplomat only._ +3 to any one influence check or +2 to a corruption check made by a character in the same company. <br>_“‘You may meet a friend of mine on the Road: a Man, lean, dark, tall, by some called Strider. He knows our business and will help you.’”_ ***---&#65279;LotRI***{: .fs-3 } 
+> > _Diplomat only._ +3 to any one influence check or +2 to a corruption check made by a character in the same company. <br>_“‘You may meet a friend of mine on the Road: a Man, lean, dark, tall, by some called Strider. He knows our business and will help you.’”_ ***---&#65279;LotRI*** 
 > 

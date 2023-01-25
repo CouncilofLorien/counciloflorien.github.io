@@ -25,7 +25,7 @@ permalink: /cards/hold-rebuilt-and-repaired/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable on a non-Dragon's lair, non-Under-deeps Ruins & Lairs \[![](/assets/images/ruinlair.svg)]. The site becomes a Shadow-hold \[![](/assets/images/shadow-hold.svg)] and all automatic-attacks become detainment. Discard this card when the site is discarded or returned to its location deck. <br>_“‘Some rises once more from Orodruin that we cal Mount Doom.’”_ ***---&#65279;LotRII***{: .fs-3 } 
+> > Playable on a non-Dragon's lair, non-Under-deeps Ruins & Lairs \[![](/assets/images/ruinlair.svg)]. The site becomes a Shadow-hold \[![](/assets/images/shadow-hold.svg)] and all automatic-attacks become detainment. Discard this card when the site is discarded or returned to its location deck. <br>_“‘Some rises once more from Orodruin that we cal Mount Doom.’”_ ***---&#65279;LotRII*** 
 > 
 
 ### _Middle-earth Challenge Decks_
@@ -42,5 +42,5 @@ permalink: /cards/hold-rebuilt-and-repaired/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable on a non-Dragon's lair, non-Under-deeps Ruins & Lairs \[![](/assets/images/ruinlair.svg)]. The site becomes a Shadow-hold \[![](/assets/images/shadow-hold.svg)] and all automatic-attacks become detainment. Discard this card when the site is discarded or returned to its location deck. <br>_“‘Some rises once more from Orodruin that we cal Mount Doom.’”_ ***---&#65279;LotRII***{: .fs-3 } 
+> > Playable on a non-Dragon's lair, non-Under-deeps Ruins & Lairs \[![](/assets/images/ruinlair.svg)]. The site becomes a Shadow-hold \[![](/assets/images/shadow-hold.svg)] and all automatic-attacks become detainment. Discard this card when the site is discarded or returned to its location deck. <br>_“‘Some rises once more from Orodruin that we cal Mount Doom.’”_ ***---&#65279;LotRII*** 
 > 

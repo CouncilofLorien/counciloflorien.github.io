@@ -25,5 +25,5 @@ permalink: /cards/honey-on-the-tongue/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Diplomat only._ +5 direct influence against characters by a character in a diplomat's company until the end of the turn. Cannot be duplicated on a given character. <br>_“...and not without reason, having a noble mind and eyes that looked both deep and far."_{: .fs-3 } ***---&#65279;LotRIII***{: .fs-3 } 
+> > _Diplomat only._ +5 direct influence against characters by a character in a diplomat's company until the end of the turn. Cannot be duplicated on a given character. <br>_“...and not without reason, having a noble mind and eyes that looked both deep and far."_ ***---&#65279;LotRIII*** 
 > 

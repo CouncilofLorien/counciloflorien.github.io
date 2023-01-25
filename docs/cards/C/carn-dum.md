@@ -25,7 +25,7 @@ permalink: /cards/carn-dum/
 > Angmar
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Orcs - 4 strikes with 7 prowess  <br>_“...They were foes of the Dark Lord, but they were overcome by the evil king of Carn Dum in the Land of Angmar."_{: .fs-3 } ***---&#65279;LotRI***{: .fs-3 } 
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Orcs - 4 strikes with 7 prowess  <br>_“...They were foes of the Dark Lord, but they were overcome by the evil king of Carn Dum in the Land of Angmar."_ ***---&#65279;LotRI*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/carn-dum/
 > Angmar
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Orcs - 4 strikes with 7 prowess  <br>_“...They were foes of the Dark Lord, but they were overcome by the evil king of Carn Dum in the Land of Angmar."_{: .fs-3 } ***---&#65279;LotRI***{: .fs-3 } 
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Orcs - 4 strikes with 7 prowess  <br>_“...They were foes of the Dark Lord, but they were overcome by the evil king of Carn Dum in the Land of Angmar."_ ***---&#65279;LotRI*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/carn-dum/
 > Angmar
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Orcs - 4 strikes with 7 prowess  <br>_“...They were foes of the Dark Lord, but they were overcome by the evil king of Carn Dum in the Land of Angmar."_{: .fs-3 } ***---&#65279;LotRI***{: .fs-3 } 
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Orcs - 4 strikes with 7 prowess  <br>_“...They were foes of the Dark Lord, but they were overcome by the evil king of Carn Dum in the Land of Angmar."_ ***---&#65279;LotRI*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -125,7 +125,7 @@ permalink: /cards/carn-dum/
 > Angmar
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>  Orcs-4 strikes with 7 prowess; Nazgul (cannot be canceled)-1 strike with 15 prowess <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. <br>_"Before he could gain the shelter of Carn Dum, the cavalry of Gondor overtook him...”_ ***---&#65279;LotR***{: .fs-3 } 
+> > <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>  Orcs-4 strikes with 7 prowess; Nazgul (cannot be canceled)-1 strike with 15 prowess <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. <br>_"Before he could gain the shelter of Carn Dum, the cavalry of Gondor overtook him...”_ ***---&#65279;LotR*** 
 > 
 > {: .balrog-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>

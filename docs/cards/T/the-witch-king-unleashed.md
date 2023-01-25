@@ -25,5 +25,5 @@ permalink: /cards/the-witch-king-unleashed/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable on The Witch-king (as your Ringwraith). +5 to his direct influence this turn. Cannot be duplicated on a given turn. <br>_"He sprang forward and bore down on Frodo."_{: .fs-3 } ***---&#65279;LotRI***{: .fs-3 } 
+> > Playable on The Witch-king (as your Ringwraith). +5 to his direct influence this turn. Cannot be duplicated on a given turn. <br>_"He sprang forward and bore down on Frodo."_ ***---&#65279;LotRI*** 
 > 

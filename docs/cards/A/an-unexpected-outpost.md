@@ -25,7 +25,7 @@ permalink: /cards/an-unexpected-outpost/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Bring one hazard from your sideboard or discard pile into you play deck and shuffle (up to two if Doors of Night is in play). <br>_“...in the high regions the West Wind still blew, but down on the stones behind the fences of the Black Land the air seemed almost dead, chill and yet stifling."_{: .fs-3 } ***---&#65279;LotRVI***{: .fs-3 } 
+> > Bring one hazard from your sideboard or discard pile into you play deck and shuffle (up to two if Doors of Night is in play). <br>_“...in the high regions the West Wind still blew, but down on the stones behind the fences of the Black Land the air seemed almost dead, chill and yet stifling."_ ***---&#65279;LotRVI*** 
 >
 
 ### _Middle-earth Challenge Decks_
@@ -42,7 +42,7 @@ permalink: /cards/an-unexpected-outpost/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Bring one hazard from your sideboard or discard pile into you play deck and shuffle (up to two if Doors of Night is in play). <br>_“...in the high regions the West Wind still blew, but down on the stones behind the fences of the Black Land the air seemed almost dead, chill and yet stifling."_{: .fs-3 } ***---&#65279;LotRVI***{: .fs-3 } 
+> > Bring one hazard from your sideboard or discard pile into you play deck and shuffle (up to two if Doors of Night is in play). <br>_“...in the high regions the West Wind still blew, but down on the stones behind the fences of the Black Land the air seemed almost dead, chill and yet stifling."_ ***---&#65279;LotRVI*** 
 >
 
 ### _Middle-earth: The Balrog Reprint_
@@ -59,5 +59,5 @@ permalink: /cards/an-unexpected-outpost/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Bring one hazard from your sideboard or discard pile into you play deck and shuffle (up to two if Doors of Night is in play). <br>_“...in the high regions the West Wind still blew, but down on the stones behind the fences of the Black Land the air seemed almost dead, chill and yet stifling."_{: .fs-3 } ***---&#65279;LotRVI***{: .fs-3 } 
+> > Bring one hazard from your sideboard or discard pile into you play deck and shuffle (up to two if Doors of Night is in play). <br>_“...in the high regions the West Wind still blew, but down on the stones behind the fences of the Black Land the air seemed almost dead, chill and yet stifling."_ ***---&#65279;LotRVI*** 
 >

@@ -22,7 +22,7 @@ permalink: /cards/easterlings/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Easterling Camp if the influence check is greater than 9.  <br>_Standard Modifications:_ Dunadain (-2). <br>_"The Wainriders were a people, or a confederacy of many peoples, that came from the East; but they were stronger and better armed than any that had appeared before."_{: .fs-3 } ***---&#65279;LotR***{: .fs-3 } 
+> > _**Unique.**_ ***Playable at Easterling Camp*** <br>&ensp;if the influence check is greater than 9.  <br>_Standard Modifications:_ Dunadain (-2). <br>_"The Wainriders were a people, or a confederacy of many peoples, that came from the East; but they were stronger and better armed than any that had appeared before."_ ***---&#65279;LotR*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -39,7 +39,7 @@ permalink: /cards/easterlings/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Easterling Camp if the influence check is greater than 9.  <br>_Standard Modifications:_ Dunadain (-2). <br>_"The Wainriders were a people, or a confederacy of many peoples, that came from the East; but they were stronger and better armed than any that had appeared before."_{: .fs-3 } ***---&#65279;LotR***{: .fs-3 } 
+> > _**Unique.**_ ***Playable at Easterling Camp*** <br>&ensp;if the influence check is greater than 9.  <br>_Standard Modifications:_ Dunadain (-2). <br>_"The Wainriders were a people, or a confederacy of many peoples, that came from the East; but they were stronger and better armed than any that had appeared before."_ ***---&#65279;LotR*** 
 > 
 
 ### _Middle-earth: The Lidless Eye_
@@ -56,7 +56,7 @@ permalink: /cards/easterlings/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Manifestation of hero Easterlings. Playable at Easterling Camp if the influence check is greater than 8.  <br>_Standard Modifications:_ Balchoth (+2), Wain-easterlings (+2), Men of Dorwinion (-2). <br>_"For in the past the attacks of the Easterlings had come mostly over the plain...”_ ***---&#65279;LotR***{: .fs-3 } 
+> > _**Unique.**_ Manifestation of hero Easterlings. Playable at Easterling Camp if the influence check is greater than 8.  <br>_Standard Modifications:_ Balchoth (+2), Wain-easterlings (+2), Men of Dorwinion (-2). <br>_"For in the past the attacks of the Easterlings had come mostly over the plain...”_ ***---&#65279;LotR*** 
 > 
 
 ### _Middle-earth Challenge Decks_
@@ -73,7 +73,7 @@ permalink: /cards/easterlings/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Easterling Camp if the influence check is greater than 9.  <br>_Standard Modifications:_ Dunadain (-2). <br>_"The Wainriders were a people, or a confederacy of many peoples, that came from the East; but they were stronger and better armed than any that had appeared before."_{: .fs-3 } ***---&#65279;LotR***{: .fs-3 } 
+> > _**Unique.**_ Playable at Easterling Camp if the influence check is greater than 9.  <br>_Standard Modifications:_ Dunadain (-2). <br>_"The Wainriders were a people, or a confederacy of many peoples, that came from the East; but they were stronger and better armed than any that had appeared before."_ ***---&#65279;LotR*** 
 > 
 
 ### _Middle-earth Challenge Decks_
@@ -90,5 +90,5 @@ permalink: /cards/easterlings/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Manifestation of hero Easterlings. Playable at Easterling Camp if the influence check is greater than 8.  <br>_Standard Modifications:_ Balchoth (+2), Wain-easterlings (+2), Men of Dorwinion (-2). <br>_"For in the past the attacks of the Easterlings had come mostly over the plain...”_ ***---&#65279;LotR***{: .fs-3 } 
+> > _**Unique.**_ Manifestation of hero Easterlings. Playable at Easterling Camp if the influence check is greater than 8.  <br>_Standard Modifications:_ Balchoth (+2), Wain-easterlings (+2), Men of Dorwinion (-2). <br>_"For in the past the attacks of the Easterlings had come mostly over the plain...”_ ***---&#65279;LotR*** 
 > 

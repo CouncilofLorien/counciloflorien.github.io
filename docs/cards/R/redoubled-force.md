@@ -25,5 +25,5 @@ permalink: /cards/redoubled-force/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > All Orc and Troll automatic-attacks receive +3 strikes and +2 prowess. Discard this card when such an automatic-attack is defeated. Cannot be duplicated. <br>_"The bodyguard of Bolg came howling against them, and drove in upon their ranks like waves upon cliffs of sand."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 }  
+> > All Orc and Troll automatic-attacks receive +3 strikes and +2 prowess. Discard this card when such an automatic-attack is defeated. Cannot be duplicated. <br>_"The bodyguard of Bolg came howling against them, and drove in upon their ranks like waves upon cliffs of sand."_ ***---&#65279;Hob***  
 >

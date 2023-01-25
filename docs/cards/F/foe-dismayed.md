@@ -25,5 +25,5 @@ permalink: /cards/foe-dismayed/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Balrog specific._ +1 prowess against an attack for all characters in a leader's of The Balrog's company or +3 to an influence attempt by a leader or The Balrog. <br>_"He gave a cry of dismay and fear."_{: .fs-3 } ***---&#65279;LotRII***{: .fs-3 } 
+> > _Balrog specific._ +1 prowess against an attack for all characters in a leader's of The Balrog's company or +3 to an influence attempt by a leader or The Balrog. <br>_"He gave a cry of dismay and fear."_ ***---&#65279;LotRII*** 
 > 

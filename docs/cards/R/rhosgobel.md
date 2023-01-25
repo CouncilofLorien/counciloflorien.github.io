@@ -25,7 +25,7 @@ permalink: /cards/rhosgobel/
 > Southern Mirkwood
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor) <br>_**Special:**_ Healing effects affect all characters at the site  <br>_“‘It was Radagast the Brown, who at one time dwelt at Rhosgobel, near the borders of Mirkwood.’”_ ***---&#65279;LotRII***{: .fs-3 } 
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor) <br>_**Special:**_ Healing effects affect all characters at the site  <br>_“‘It was Radagast the Brown, who at one time dwelt at Rhosgobel, near the borders of Mirkwood.’”_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/rhosgobel/
 > Southern Mirkwood
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor) <br>_**Special:**_ Healing effects affect all characters at the site  <br>_“‘It was Radagast the Brown, who at one time dwelt at Rhosgobel, near the borders of Mirkwood.’”_ ***---&#65279;LotRII***{: .fs-3 } 
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor) <br>_**Special:**_ Healing effects affect all characters at the site  <br>_“‘It was Radagast the Brown, who at one time dwelt at Rhosgobel, near the borders of Mirkwood.’”_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -105,7 +105,7 @@ permalink: /cards/rhosgobel/
 > Southern Mirkwood
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor) <br>_**Special:**_ Healing effects affect all characters at the site  <br>_“‘It was Radagast the Brown, who at one time dwelt at Rhosgobel, near the borders of Mirkwood.’”_ ***---&#65279;LotRII***{: .fs-3 } 
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor) <br>_**Special:**_ Healing effects affect all characters at the site  <br>_“‘It was Radagast the Brown, who at one time dwelt at Rhosgobel, near the borders of Mirkwood.’”_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>

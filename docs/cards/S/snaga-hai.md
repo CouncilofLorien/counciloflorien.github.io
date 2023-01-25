@@ -25,7 +25,7 @@ permalink: /cards/snaga-hai/
 > Orc Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable at any tapped or untapped Shadow-hold \[![](/assets/images/shadow-hold.svg)] if the influence check is greater than 9. Once in play, the number required to influence this faction is 0. <br>_"They make no beautiful things, but they make many clever ones."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 }  
+> > Playable at any tapped or untapped Shadow-hold \[![](/assets/images/shadow-hold.svg)] if the influence check is greater than 9. Once in play, the number required to influence this faction is 0. <br>_"They make no beautiful things, but they make many clever ones."_ ***---&#65279;Hob***  
 > 
 
 ### _Middle-earth Challenge Decks_
@@ -42,5 +42,5 @@ permalink: /cards/snaga-hai/
 > Orc Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable at any tapped or untapped Shadow-hold \[![](/assets/images/shadow-hold.svg)] if the influence check is greater than 9. Once in play, the number required to influence this faction is 0. <br>_"They make no beautiful things, but they make many clever ones."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 }  
+> > Playable at any tapped or untapped Shadow-hold \[![](/assets/images/shadow-hold.svg)] if the influence check is greater than 9. Once in play, the number required to influence this faction is 0. <br>_"They make no beautiful things, but they make many clever ones."_ ***---&#65279;Hob***  
 > 

@@ -22,7 +22,7 @@ permalink: /cards/haradrim/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Manifestation of minion Haradrim. Playable at Southron Oasis if the influence check is greater than 9. <br>_Standard Modifications:_ Wizards (-5), Dunedain (-2), Elves (-2), Dwarves (-2). <br>_“‘They eat as well as anyone, for they trade at the crossroads of great roads and powerful kingdoms.’”_ ***---&#65279;Kuduk Lore***{: .fs-3 } 
+> > _**Unique.**_ Manifestation of minion Haradrim. Playable at Southron Oasis if the influence check is greater than 9. <br>_Standard Modifications:_ Wizards (-5), Dunedain (-2), Elves (-2), Dwarves (-2). <br>_“‘They eat as well as anyone, for they trade at the crossroads of great roads and powerful kingdoms.’”_ ***---&#65279;Kuduk Lore*** 
 > 
 
 ### _Middle-earth: Against the Shadow_
@@ -39,7 +39,7 @@ permalink: /cards/haradrim/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Southron Oasis if the influence check is greater than 9. <br>_Standard Modifications:_ Southrons (+2), Variags of Khand (-2). <br>_“...a great but cruel race that dwelt in the wide, dry lands south of Mordor and the Ethir Anduin."_{: .fs-3 } ***---&#65279;Kuduk Lore***{: .fs-3 } 
+> > _**Unique.**_ Playable at Southron Oasis if the influence check is greater than 9. <br>_Standard Modifications:_ Southrons (+2), Variags of Khand (-2). <br>_“...a great but cruel race that dwelt in the wide, dry lands south of Mordor and the Ethir Anduin."_ ***---&#65279;Kuduk Lore*** 
 > 
 
 ### _Middle-earth Challenge Decks_
@@ -56,5 +56,5 @@ permalink: /cards/haradrim/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Southron Oasis if the influence check is greater than 9. <br>_Standard Modifications:_ Southrons (+2), Variags of Khand (-2). <br>_“...a great but cruel race that dwelt in the wide, dry lands south of Mordor and the Ethir Anduin."_{: .fs-3 } ***---&#65279;Kuduk Lore***{: .fs-3 } 
+> > _**Unique.**_ Playable at Southron Oasis if the influence check is greater than 9. <br>_Standard Modifications:_ Southrons (+2), Variags of Khand (-2). <br>_“...a great but cruel race that dwelt in the wide, dry lands south of Mordor and the Ethir Anduin."_ ***---&#65279;Kuduk Lore*** 
 > 

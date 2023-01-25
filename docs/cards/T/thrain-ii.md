@@ -25,7 +25,7 @@ permalink: /cards/thrain-ii/
 > Warrior/Ranger/Sage Dwarf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +3 direct influence against Dwarves and Dwarf factions. <br>_“‘...there we were unexpectedly joined by my father and my grandfather with singed beards. They looked very grim but they said very little.’”_ ***---&#65279;Hob***{: .fs-3 }  <br><br>**Home Site:** None 
+> > _**Unique.**_ +3 direct influence against Dwarves and Dwarf factions. <br>_“‘...there we were unexpectedly joined by my father and my grandfather with singed beards. They looked very grim but they said very little.’”_ ***---&#65279;Hob***  <br><br>**Home Site:** None 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【7/8】</div>

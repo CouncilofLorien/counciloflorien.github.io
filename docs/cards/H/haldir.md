@@ -25,7 +25,7 @@ permalink: /cards/haldir/
 > Warrior Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ -1 to all of his corruption checks. <br>-1 to influence checks against factions. <br>_“‘...there are some of us still who go abroad for the gathering of news and the watching of our enemies, and they speak the languages of other lands. I am one. Haldir is my name.’”_ ***---&#65279;LotRII***{: .fs-3 }  <br><br>**Home Site:** Lorien 
+> > _**Unique.**_ -1 to all of his corruption checks. <br>-1 to influence checks against factions. <br>_“‘...there are some of us still who go abroad for the gathering of news and the watching of our enemies, and they speak the languages of other lands. I am one. Haldir is my name.’”_ ***---&#65279;LotRII***  <br><br>**Home Site:** Lorien 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【4/8】</div>
@@ -45,7 +45,7 @@ permalink: /cards/haldir/
 > Warrior Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ -1 to all of his corruption checks. <br>-1 to influence checks against factions. <br>_“‘...there are some of us still who go abroad for the gathering of news and the watching of our enemies, and they speak the languages of other lands. I am one. Haldir is my name.’”_ ***---&#65279;LotRII***{: .fs-3 }  <br><br>**Home Site:** Lorien 
+> > _**Unique.**_ -1 to all of his corruption checks. <br>-1 to influence checks against factions. <br>_“‘...there are some of us still who go abroad for the gathering of news and the watching of our enemies, and they speak the languages of other lands. I am one. Haldir is my name.’”_ ***---&#65279;LotRII***  <br><br>**Home Site:** Lorien 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【4/8】</div>
@@ -65,7 +65,7 @@ permalink: /cards/haldir/
 > Warrior Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ -1 to all of his corruption checks. <br>-1 to influence checks against factions. <br>_“‘...there are some of us still who go abroad for the gathering of news and the watching of our enemies, and they speak the languages of other lands. I am one. Haldir is my name.’”_ ***---&#65279;LotRII***{: .fs-3 }  <br><br>**Home Site:** Lorien 
+> > _**Unique.**_ -1 to all of his corruption checks. <br>-1 to influence checks against factions. <br>_“‘...there are some of us still who go abroad for the gathering of news and the watching of our enemies, and they speak the languages of other lands. I am one. Haldir is my name.’”_ ***---&#65279;LotRII***  <br><br>**Home Site:** Lorien 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【4/8】</div>

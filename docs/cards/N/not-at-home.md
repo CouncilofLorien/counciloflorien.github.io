@@ -22,7 +22,7 @@ permalink: /cards/not-at-home/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Cancel one Dragon, Drake, or Troll automatic-attack or attack keyed to a site. Alternatively, if Gates of Morning is in play, reduce the number of strikes of any automatic-attack by 2 (to a minimum of one).   <br>_“‘...He is not at home today (or tonight, or whatever it is), I do believe.’”_ ***---&#65279;Hob***{: .fs-3 } 
+> > Cancel one Dragon, Drake, or Troll automatic-attack or attack keyed to a site. Alternatively, if Gates of Morning is in play, reduce the number of strikes of any automatic-attack by 2 (to a minimum of one).   <br>_“‘...He is not at home today (or tonight, or whatever it is), I do believe.’”_ ***---&#65279;Hob*** 
 > 
 
 ### _Middle-earth Challenge Decks_
@@ -39,5 +39,5 @@ permalink: /cards/not-at-home/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Cancel one Dragon, Drake, or Troll automatic-attack or attack keyed to a site. Alternatively, if Gates of Morning is in play, reduce the number of strikes of any automatic-attack by 2 (to a minimum of one).   <br>_“‘...He is not at home today (or tonight, or whatever it is), I do believe.’”_ ***---&#65279;Hob***{: .fs-3 } 
+> > Cancel one Dragon, Drake, or Troll automatic-attack or attack keyed to a site. Alternatively, if Gates of Morning is in play, reduce the number of strikes of any automatic-attack by 2 (to a minimum of one).   <br>_“‘...He is not at home today (or tonight, or whatever it is), I do believe.’”_ ***---&#65279;Hob*** 
 > 

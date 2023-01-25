@@ -22,7 +22,7 @@ permalink: /cards/smoke-rings/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Bring one resource or character from your sideboard or discard pile into your play deck and shuffle. <br>_"Then Gandalf's smoke ring would go green and come back and hover over the wizard's head. ...and in the dim light it made him look strange and sorcerous."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
+> > Bring one resource or character from your sideboard or discard pile into your play deck and shuffle. <br>_"Then Gandalf's smoke ring would go green and come back and hover over the wizard's head. ...and in the dim light it made him look strange and sorcerous."_ ***---&#65279;Hob*** 
 > 
 
 ### _Middle-earth Challenge Decks_
@@ -39,5 +39,5 @@ permalink: /cards/smoke-rings/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Bring one resource or character from your sideboard or discard pile into your play deck and shuffle. <br>_"Then Gandalf's smoke ring would go green and come back and hover over the wizard's head. ...and in the dim light it made him look strange and sorcerous."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
+> > Bring one resource or character from your sideboard or discard pile into your play deck and shuffle. <br>_"Then Gandalf's smoke ring would go green and come back and hover over the wizard's head. ...and in the dim light it made him look strange and sorcerous."_ ***---&#65279;Hob*** 
 > 

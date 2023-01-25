@@ -25,7 +25,7 @@ permalink: /cards/thong-of-fire/
 > Greater Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Hoard item._ _Weapon._ May only be born by a character with prowess of 6 or more. Warrior only: +1 body; +1 prowess; if bearer chooses not to tap against a strike, he receives no prowess penalty. <br>_"The fallen Fire-spirits of the Elder Days bore sorcerous weapons, all lost when the hosts of the West claimed the victory...”_ ***---&#65279;Kuduk Lore***{: .fs-3 } 
+> > _**Unique.**_ _Hoard item._ _Weapon._ May only be born by a character with prowess of 6 or more. Warrior only: +1 body; +1 prowess; if bearer chooses not to tap against a strike, he receives no prowess penalty. <br>_"The fallen Fire-spirits of the Elder Days bore sorcerous weapons, all lost when the hosts of the West claimed the victory...”_ ***---&#65279;Kuduk Lore*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【+1/+1】</div>

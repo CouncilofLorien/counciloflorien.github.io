@@ -25,5 +25,5 @@ permalink: /cards/blind-to-the-west/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Targets and cancels one hero short-event played by a Fallen-wizard earlier in the same chain of effects. This card can be played at any time and does not count against the hazard limit. Remove this card from the game. <br>_“‘Then darkness took me...and I wandered far on roads that I will not tell.’”_ ***---&#65279;LotRIII***{: .fs-3 } 
+> > Targets and cancels one hero short-event played by a Fallen-wizard earlier in the same chain of effects. This card can be played at any time and does not count against the hazard limit. Remove this card from the game. <br>_“‘Then darkness took me...and I wandered far on roads that I will not tell.’”_ ***---&#65279;LotRIII*** 
 >

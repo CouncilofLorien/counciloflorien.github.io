@@ -25,7 +25,7 @@ permalink: /cards/searching-eye/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Cancel any card requiring scout skill before it is resolved or cancel any ongoing effect of a card that required scout skillto play. If this card is played as an on-guard card, it can be revealed during topponent's site phase to cancel a card requiring scout skill.   <br>_“...up he soared blazing into the air and settled on the mountain-top in a spout of green and scarlet flame."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
+> > Cancel any card requiring scout skill before it is resolved or cancel any ongoing effect of a card that required scout skillto play. If this card is played as an on-guard card, it can be revealed during topponent's site phase to cancel a card requiring scout skill.   <br>_“...up he soared blazing into the air and settled on the mountain-top in a spout of green and scarlet flame."_ ***---&#65279;Hob*** 
 >
 
 ### _Middle-earth: The Lidless Eye_

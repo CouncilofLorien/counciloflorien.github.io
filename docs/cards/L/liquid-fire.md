@@ -25,7 +25,7 @@ permalink: /cards/liquid-fire/
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Technology._. Playable at a tapped or untapped Shadow-hold \[![](/assets/images/shadow-hold.svg)], Dark-hold \[![](/assets/images/dark-hold.svg)], or a site with a Dwarf automatic-attack. Discard to cause all strikes from all attacks of a non-Dragon, non-Nazgul, non-Balrog creature keyed to a site to fail (resulting body checks for the creature are modified by -2). <br>_“‘...caught in a spray of some liquid fire and burned like a torch: a horrible sight.’”_ ***---&#65279;LotRIII***{: .fs-3 } 
+> > _Technology._. Playable at a tapped or untapped Shadow-hold \[![](/assets/images/shadow-hold.svg)], Dark-hold \[![](/assets/images/dark-hold.svg)], or a site with a Dwarf automatic-attack. Discard to cause all strikes from all attacks of a non-Dragon, non-Nazgul, non-Balrog creature keyed to a site to fail (resulting body checks for the creature are modified by -2). <br>_“‘...caught in a spray of some liquid fire and burned like a torch: a horrible sight.’”_ ***---&#65279;LotRIII*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

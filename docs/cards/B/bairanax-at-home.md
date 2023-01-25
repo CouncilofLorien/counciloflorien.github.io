@@ -25,7 +25,7 @@ permalink: /cards/bairanax-at-home/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ Unless Bairanax Ahunt is in play, Ovir Hollow has an additional automatic-attack: Dragon-2 strikes at 15/7. In addition, the hazard limit against any company facing one or more animal hazard creature attacks is increased by one. <br>_“‘Well, thief! I smell you and I feel your air. I hear your breath...’”_ ***---&#65279;Hob***{: .fs-3 } 
+> > _**Unique.**_ Unless Bairanax Ahunt is in play, Ovir Hollow has an additional automatic-attack: Dragon-2 strikes at 15/7. In addition, the hazard limit against any company facing one or more animal hazard creature attacks is increased by one. <br>_“‘Well, thief! I smell you and I feel your air. I hear your breath...’”_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【15/7】</div>

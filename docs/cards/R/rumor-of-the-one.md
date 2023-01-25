@@ -25,5 +25,5 @@ permalink: /cards/rumor-of-the-one/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > +1 to the corruption of points and the marshalling points for all ring items. Discard when any play deck is exhausted. Cannot be duplicated.   <br>_“‘Yes, alas! Through him the Enemy has learned that the One has been found again.’”_ ***---&#65279;LotRI***{: .fs-3 }
+> > +1 to the corruption of points and the marshalling points for all ring items. Discard when any play deck is exhausted. Cannot be duplicated.   <br>_“‘Yes, alas! Through him the Enemy has learned that the One has been found again.’”_ ***---&#65279;LotRI***
 > 

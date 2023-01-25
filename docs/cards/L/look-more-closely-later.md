@@ -22,5 +22,5 @@ permalink: /cards/look-more-closely-later/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Ritual._ Tap a sage to untap a site at which "Information" is playable. Sage makes a corruption check. <br>_“‘We will take this book, the Book of Mazarbul, and look at it more closely later.’”_ ***---&#65279;LotRII***{: .fs-3 } 
+> > _Ritual._ Tap a sage to untap a site at which "Information" is playable. Sage makes a corruption check. <br>_“‘We will take this book, the Book of Mazarbul, and look at it more closely later.’”_ ***---&#65279;LotRII*** 
 > 

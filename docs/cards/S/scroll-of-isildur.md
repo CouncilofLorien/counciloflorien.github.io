@@ -22,7 +22,7 @@ permalink: /cards/scroll-of-isildur/
 > Greater Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ When a Gold Ring is tested in a company with the Scroll of Isildur, the result of the roll (or draw) is modified by +2. <br>_"Yet even as I write it is cooled, and it seemeth to shrink, though it loseth neither its beauty nor its shape. Already the writing upon it, which was at first clear as red flame, fadeth and now only barely to be read."_{: .fs-3 } ***---&#65279;LotRII***{: .fs-3 }  
+> > _**Unique.**_ When a Gold Ring is tested in a company with the Scroll of Isildur, the result of the roll (or draw) is modified by +2. <br>_"Yet even as I write it is cooled, and it seemeth to shrink, though it loseth neither its beauty nor its shape. Already the writing upon it, which was at first clear as red flame, fadeth and now only barely to be read."_ ***---&#65279;LotRII***  
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -42,7 +42,7 @@ permalink: /cards/scroll-of-isildur/
 > Greater Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ When a Gold Ring is tested in a company with the Scroll of Isildur, the result of the roll (or draw) is modified by +2. <br>_"Yet even as I write it is cooled, and it seemeth to shrink, though it loseth neither its beauty nor its shape. Already the writing upon it, which was at first clear as red flame, fadeth and now only barely to be read."_{: .fs-3 } ***---&#65279;LotRII***{: .fs-3 }  
+> > _**Unique.**_ When a Gold Ring is tested in a company with the Scroll of Isildur, the result of the roll (or draw) is modified by +2. <br>_"Yet even as I write it is cooled, and it seemeth to shrink, though it loseth neither its beauty nor its shape. Already the writing upon it, which was at first clear as red flame, fadeth and now only barely to be read."_ ***---&#65279;LotRII***  
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -62,7 +62,7 @@ permalink: /cards/scroll-of-isildur/
 > Greater Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ When a Gold Ring is tested in a company with the Scroll of Isildur, the result of the roll (or draw) is modified by +2. <br>_"Yet even as I write it is cooled, and it seemeth to shrink, though it loseth neither its beauty nor its shape. Already the writing upon it, which was at first clear as red flame, fadeth and now only barely to be read."_{: .fs-3 } ***---&#65279;LotRII***{: .fs-3 }  
+> > _**Unique.**_ When a Gold Ring is tested in a company with the Scroll of Isildur, the result of the roll (or draw) is modified by +2. <br>_"Yet even as I write it is cooled, and it seemeth to shrink, though it loseth neither its beauty nor its shape. Already the writing upon it, which was at first clear as red flame, fadeth and now only barely to be read."_ ***---&#65279;LotRII***  
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -82,7 +82,7 @@ permalink: /cards/scroll-of-isildur/
 > Greater Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ When a gold Ring is tested in a company bearing the Scroll of Isildur, the random value obtained is modified by +1. May be stored at Barad-dur for 5 marshalling points.   <br>_“‘...there lies...unread, I guess, by any save Saruman and myself, since the kings failed, a scroll that Isildur made himself."_{: .fs-3 } ***---&#65279;LotRII***{: .fs-3 } 
+> > _**Unique.**_ When a gold Ring is tested in a company bearing the Scroll of Isildur, the random value obtained is modified by +1. May be stored at Barad-dur for 5 marshalling points.   <br>_“‘...there lies...unread, I guess, by any save Saruman and myself, since the kings failed, a scroll that Isildur made himself."_ ***---&#65279;LotRII*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -102,7 +102,7 @@ permalink: /cards/scroll-of-isildur/
 > Greater Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ When a Gold Ring is tested in a company with the Scroll of Isildur, the result of the roll (or draw) is modified by +2. <br>_"Yet even as I write it is cooled, and it seemeth to shrink, though it loseth neither its beauty nor its shape. Already the writing upon it, which was at first clear as red flame, fadeth and now only barely to be read."_{: .fs-3 } ***---&#65279;LotRII***{: .fs-3 }  
+> > _**Unique.**_ When a Gold Ring is tested in a company with the Scroll of Isildur, the result of the roll (or draw) is modified by +2. <br>_"Yet even as I write it is cooled, and it seemeth to shrink, though it loseth neither its beauty nor its shape. Already the writing upon it, which was at first clear as red flame, fadeth and now only barely to be read."_ ***---&#65279;LotRII***  
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -122,7 +122,7 @@ permalink: /cards/scroll-of-isildur/
 > Greater Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ When a gold Ring is tested in a company bearing the Scroll of Isildur, the random value obtained is modified by +1. May be stored at Barad-dur for 5 marshalling points.   <br>_“‘...there lies...unread, I guess, by any save Saruman and myself, since the kings failed, a scroll that Isildur made himself."_{: .fs-3 } ***---&#65279;LotRII***{: .fs-3 } 
+> > _**Unique.**_ When a gold Ring is tested in a company bearing the Scroll of Isildur, the random value obtained is modified by +1. May be stored at Barad-dur for 5 marshalling points.   <br>_“‘...there lies...unread, I guess, by any save Saruman and myself, since the kings failed, a scroll that Isildur made himself."_ ***---&#65279;LotRII*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

@@ -25,5 +25,5 @@ permalink: /cards/dragons-blood/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a character facing a Dragon or Drake strike (before the dice are rolled to resolve the strike). If the strike fails, the target character must make a body check modified by -1 if he has armor, by -1 if he has a shield, and by -1 if he has a helmet. Cannot be duplicated on a given character. <br>_"The enchanted blood of the Great Worms becomes increasingly caustic and corrosive with age."_{: .fs-3 } ***---&#65279;Kuduk Lore***{: .fs-3 } 
+> > Playable on a character facing a Dragon or Drake strike (before the dice are rolled to resolve the strike). If the strike fails, the target character must make a body check modified by -1 if he has armor, by -1 if he has a shield, and by -1 if he has a helmet. Cannot be duplicated on a given character. <br>_"The enchanted blood of the Great Worms becomes increasingly caustic and corrosive with age."_ ***---&#65279;Kuduk Lore*** 
 >

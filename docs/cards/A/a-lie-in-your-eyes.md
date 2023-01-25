@@ -25,5 +25,5 @@ permalink: /cards/a-lie-in-your-eyes/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on an untapped non-Ringwraith, non-Wizard character. Your opponent may either: tap the character, tap an ally the character controls, or choose for you to make a roll (draw a #). If the result is greater than the character's mind plus 6, the character is discarded (along with all cards he controls).   <br>_“‘That won't do... What did you see, and what did you say?’”_ ***---&#65279;LotRIII***{: .fs-3 } 
+> > Playable on an untapped non-Ringwraith, non-Wizard character. Your opponent may either: tap the character, tap an ally the character controls, or choose for you to make a roll (draw a #). If the result is greater than the character's mind plus 6, the character is discarded (along with all cards he controls).   <br>_“‘That won't do... What did you see, and what did you say?’”_ ***---&#65279;LotRIII*** 
 >

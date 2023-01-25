@@ -25,7 +25,7 @@ permalink: /cards/variag-camp/
 > Khand
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Edhellond  <br>_“...and the dark sons of Uvatha's people drew their rugged ponies in rings, arrayed their camp in the shape of a spoked wheel, and began plotting the month's pastures and marketplaces."_{: .fs-3 } ***---&#65279;Kuduk Lore***{: .fs-3 } 
+> > _**Nearest Haven:**_ Edhellond  <br>_“...and the dark sons of Uvatha's people drew their rugged ponies in rings, arrayed their camp in the shape of a spoked wheel, and began plotting the month's pastures and marketplaces."_ ***---&#65279;Kuduk Lore*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;3&ensp;</span><span class="hero-opp-draw">&ensp;4&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/variag-camp/
 > Khand
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Edhellond  <br>_“...and the dark sons of Uvatha's people drew their rugged ponies in rings, arrayed their camp in the shape of a spoked wheel, and began plotting the month's pastures and marketplaces."_{: .fs-3 } ***---&#65279;Kuduk Lore***{: .fs-3 } 
+> > _**Nearest Haven:**_ Edhellond  <br>_“...and the dark sons of Uvatha's people drew their rugged ponies in rings, arrayed their camp in the shape of a spoked wheel, and began plotting the month's pastures and marketplaces."_ ***---&#65279;Kuduk Lore*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;3&ensp;</span><span class="hero-opp-draw">&ensp;4&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/variag-camp/
 > Khand
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Minas Morgul <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 5 prowess (detainment against covert company)  <br>_“...a great peril to Gondor...a threat to the fiefs of the south that would prove deadly."_{: .fs-3 } ***---&#65279;LotR***{: .fs-3 } 
+> > Nearest Darkhaven: Minas Morgul <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 5 prowess (detainment against covert company)  <br>_“...a great peril to Gondor...a threat to the fiefs of the south that would prove deadly."_ ***---&#65279;LotR*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

@@ -25,7 +25,7 @@ permalink: /cards/arouse-minions/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The prowess of one automatic-attack at a Shadow-hold \[![](/assets/images/shadow-hold.svg)] or Dark-hold \[![](/assets/images/dark-hold.svg)] site is increased by 3 until the end of the turn. Cannot be duplicated at a given site. <br>_"Long had it been forging in the dark smithies of Mordor, ...on it spells of ruin lay. Grond they named it, in memory of the Hammer of the Underworld of old."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 } 
+> > The prowess of one automatic-attack at a Shadow-hold \[![](/assets/images/shadow-hold.svg)] or Dark-hold \[![](/assets/images/dark-hold.svg)] site is increased by 3 until the end of the turn. Cannot be duplicated at a given site. <br>_"Long had it been forging in the dark smithies of Mordor, ...on it spells of ruin lay. Grond they named it, in memory of the Hammer of the Underworld of old."_ ***---&#65279;LotRV*** 
 >
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -42,7 +42,7 @@ permalink: /cards/arouse-minions/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The prowess of one automatic-attack at a Shadow-hold \[![](/assets/images/shadow-hold.svg)] or Dark-hold \[![](/assets/images/dark-hold.svg)] site is increased by 3 until the end of the turn. Cannot be duplicated at a given site. <br>_"Long had it been forging in the dark smithies of Mordor, ...on it spells of ruin lay. Grond they named it, in memory of the Hammer of the Underworld of old."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 } 
+> > The prowess of one automatic-attack at a Shadow-hold \[![](/assets/images/shadow-hold.svg)] or Dark-hold \[![](/assets/images/dark-hold.svg)] site is increased by 3 until the end of the turn. Cannot be duplicated at a given site. <br>_"Long had it been forging in the dark smithies of Mordor, ...on it spells of ruin lay. Grond they named it, in memory of the Hammer of the Underworld of old."_ ***---&#65279;LotRV*** 
 >
 
 ### _Middle-earth: The Wizards Starter Set_
@@ -59,5 +59,5 @@ permalink: /cards/arouse-minions/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The prowess of one automatic-attack at a Shadow-hold \[![](/assets/images/shadow-hold.svg)] or Dark-hold \[![](/assets/images/dark-hold.svg)] site is increased by 3 until the end of the turn. Cannot be duplicated at a given site. <br>_"Long had it been forging in the dark smithies of Mordor, ...on it spells of ruin lay. Grond they named it, in memory of the Hammer of the Underworld of old."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 } 
+> > The prowess of one automatic-attack at a Shadow-hold \[![](/assets/images/shadow-hold.svg)] or Dark-hold \[![](/assets/images/dark-hold.svg)] site is increased by 3 until the end of the turn. Cannot be duplicated at a given site. <br>_"Long had it been forging in the dark smithies of Mordor, ...on it spells of ruin lay. Grond they named it, in memory of the Hammer of the Underworld of old."_ ***---&#65279;LotRV*** 
 >

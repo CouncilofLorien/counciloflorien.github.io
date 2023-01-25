@@ -25,7 +25,7 @@ permalink: /cards/deep-mines/
 > Under-deeps
 >
 > {: .fw-site-text .black-text .p-2 }
-> > A company may move to this site only from one of your protected Wizardhavens \[![](/assets/images/free-haven.svg)] and only if you have more than 6 stage points. The protected Wizardhaven is the surface site for Deep Mines (i.e., the sites are adjacent and the movement roll required to move between them is 0). You receive the three stage points if any of your companies are at the site. May be duplicated in a location deck.   <br>_“‘The lodes lead away north towards Carahadras, and down into darkness.’”_ ***---&#65279;LotRII***{: .fs-3 }  
+> > A company may move to this site only from one of your protected Wizardhavens \[![](/assets/images/free-haven.svg)] and only if you have more than 6 stage points. The protected Wizardhaven is the surface site for Deep Mines (i.e., the sites are adjacent and the movement roll required to move between them is 0). You receive the three stage points if any of your companies are at the site. May be duplicated in a location deck.   <br>_“‘The lodes lead away north towards Carahadras, and down into darkness.’”_ ***---&#65279;LotRII***  
 > 
 > {: .fw-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

@@ -22,7 +22,7 @@ permalink: /cards/lossoth/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Lossadan Camp if the influence check is greater than 8.  <br>_Standard Modifications:_ Men (+1). <br>_“...the Lossoth, the Snowmen of Forochel...were uneasy; for they said that they smelled danger in the wind."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 } 
+> > _**Unique.**_ ***Playable at Lossadan Camp*** <br>&ensp;if the influence check is greater than 8.  <br>_Standard Modifications:_ Men (+1). <br>_“...the Lossoth, the Snowmen of Forochel...were uneasy; for they said that they smelled danger in the wind."_ ***---&#65279;LotRV*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -39,5 +39,5 @@ permalink: /cards/lossoth/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Lossadan Camp if the influence check is greater than 8.  <br>_Standard Modifications:_ Men (+1). <br>_“...the Lossoth, the Snowmen of Forochel...were uneasy; for they said that they smelled danger in the wind."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 } 
+> > _**Unique.**_ ***Playable at Lossadan Camp*** <br>&ensp;if the influence check is greater than 8.  <br>_Standard Modifications:_ Men (+1). <br>_“...the Lossoth, the Snowmen of Forochel...were uneasy; for they said that they smelled danger in the wind."_ ***---&#65279;LotRV*** 
 > 

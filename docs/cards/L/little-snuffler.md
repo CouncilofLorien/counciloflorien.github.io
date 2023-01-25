@@ -25,7 +25,7 @@ permalink: /cards/little-snuffler/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Orc._ One strike. Attacker chooses defending characters. Each ranger in attacked company lowers Little Snuffler's body by 2. If attack is not defeated, any resource that requires a scout in target company cannot be played for the rest of the turn.   <br>_“...a small breed, black skinned, with wide and snuffling nostrils: evidently a tracker of some kind...”_ ***---&#65279;LotRII***{: .fs-3 } 
+> > _Orc._ One strike. Attacker chooses defending characters. Each ranger in attacked company lowers Little Snuffler's body by 2. If attack is not defeated, any resource that requires a scout in target company cannot be played for the rest of the turn.   <br>_“...a small breed, black skinned, with wide and snuffling nostrils: evidently a tracker of some kind...”_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【5/10】</div>
@@ -45,7 +45,7 @@ permalink: /cards/little-snuffler/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Orc._ One strike. Attacker chooses defending characters. Each ranger in attacked company lowers Little Snuffler's body by 2. If attack is not defeated, any resource that requires a scout in target company cannot be played for the rest of the turn.   <br>_“...a small breed, black skinned, with wide and snuffling nostrils: evidently a tracker of some kind...”_ ***---&#65279;LotRII***{: .fs-3 } 
+> > _Orc._ One strike. Attacker chooses defending characters. Each ranger in attacked company lowers Little Snuffler's body by 2. If attack is not defeated, any resource that requires a scout in target company cannot be played for the rest of the turn.   <br>_“...a small breed, black skinned, with wide and snuffling nostrils: evidently a tracker of some kind...”_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【5/10】</div>

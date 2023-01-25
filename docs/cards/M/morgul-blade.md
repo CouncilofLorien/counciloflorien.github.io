@@ -25,5 +25,5 @@ permalink: /cards/morgul-blade/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable on your Ringwraith or a Ringwraith follower. Each strike against the Ringwraith receives -1 body and -1 prowess. Discard Morgul-blade after a strike against the Ringwraith fails. Cannot be duplicated on a given Ringwraith. <br>_“‘...It was deeply buried, and it was working inwards.’”_ ***---&#65279;LotRII***{: .fs-3 } 
+> > Playable on your Ringwraith or a Ringwraith follower. Each strike against the Ringwraith receives -1 body and -1 prowess. Discard Morgul-blade after a strike against the Ringwraith fails. Cannot be duplicated on a given Ringwraith. <br>_“‘...It was deeply buried, and it was working inwards.’”_ ***---&#65279;LotRII*** 
 > 

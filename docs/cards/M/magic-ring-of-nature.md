@@ -22,7 +22,7 @@ permalink: /cards/magic-ring-of-nature/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Magic Ring._ Playable only with a Gold Ring and after a test indicates a _Magic Ring._ Gives the bearer ranger skill. If the bearer is already a ranger, he may tap to cancel an attack against his company. May not be duplicated on a given character. <br>_“‘...I have hunted many wild and wary things and I can usually avoid being seen...’”_ ***---&#65279;LotRI***{: .fs-3 } 
+> > _Magic Ring._ Playable only with a Gold Ring and after a test indicates a _Magic Ring._ Gives the bearer ranger skill. If the bearer is already a ranger, he may tap to cancel an attack against his company. May not be duplicated on a given character. <br>_“‘...I have hunted many wild and wary things and I can usually avoid being seen...’”_ ***---&#65279;LotRI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -42,7 +42,7 @@ permalink: /cards/magic-ring-of-nature/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Magic Ring._ Playable only with a Gold Ring and after a test indicates a _Magic Ring._ Gives the bearer ranger skill. If the bearer is already a ranger, he may tap to cancel an attack against his company. May not be duplicated on a given character. <br>_“‘...I have hunted many wild and wary things and I can usually avoid being seen...’”_ ***---&#65279;LotRI***{: .fs-3 } 
+> > _Magic Ring._ Playable only with a Gold Ring and after a test indicates a _Magic Ring._ Gives the bearer ranger skill. If the bearer is already a ranger, he may tap to cancel an attack against his company. May not be duplicated on a given character. <br>_“‘...I have hunted many wild and wary things and I can usually avoid being seen...’”_ ***---&#65279;LotRI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

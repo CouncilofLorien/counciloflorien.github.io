@@ -25,7 +25,7 @@ permalink: /cards/goblin-gate/
 > High Pass
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 6 prowess  <br>_"It was deep, deep dark, such as only goblins...living in the heart of the mountains can see through. The passages there were crossed and tangled in all directions...”_ ***---&#65279;Hob***{: .fs-3 } 
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 6 prowess  <br>_"It was deep, deep dark, such as only goblins...living in the heart of the mountains can see through. The passages there were crossed and tangled in all directions...”_ ***---&#65279;Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/goblin-gate/
 > High Pass
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 6 prowess  <br>_"It was deep, deep dark, such as only goblins...living in the heart of the mountains can see through. The passages there were crossed and tangled in all directions...”_ ***---&#65279;Hob***{: .fs-3 } 
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 6 prowess  <br>_"It was deep, deep dark, such as only goblins...living in the heart of the mountains can see through. The passages there were crossed and tangled in all directions...”_ ***---&#65279;Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/goblin-gate/
 > High Pass
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 6 prowess <br>_**Special:**_ Non-Nazgul creatures played at this site attack normally, not as detainment. <br>_“...and the way went down and down, and it was most horribly stuffy."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
+> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 6 prowess <br>_**Special:**_ Non-Nazgul creatures played at this site attack normally, not as detainment. <br>_“...and the way went down and down, and it was most horribly stuffy."_ ***---&#65279;Hob*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/goblin-gate/
 > High Pass
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 6 prowess  <br>_"It was deep, deep dark, such as only goblins...living in the heart of the mountains can see through. The passages there were crossed and tangled in all directions...”_ ***---&#65279;Hob***{: .fs-3 } 
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 6 prowess  <br>_"It was deep, deep dark, such as only goblins...living in the heart of the mountains can see through. The passages there were crossed and tangled in all directions...”_ ***---&#65279;Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -105,7 +105,7 @@ permalink: /cards/goblin-gate/
 > High Pass
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 6 prowess <br>_**Special:**_ Non-Nazgul creatures played at this site attack normally, not as detainment. <br>_“...and the way went down and down, and it was most horribly stuffy."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
+> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 6 prowess <br>_**Special:**_ Non-Nazgul creatures played at this site attack normally, not as detainment. <br>_“...and the way went down and down, and it was most horribly stuffy."_ ***---&#65279;Hob*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -125,7 +125,7 @@ permalink: /cards/goblin-gate/
 > High Pass
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 6 prowess <br>_**Special:**_ Non-Nazgul creatures played at this site attack normally, not as detainment. <br>_“...and the way went down and down, and it was most horribly stuffy."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
+> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 6 prowess <br>_**Special:**_ Non-Nazgul creatures played at this site attack normally, not as detainment. <br>_“...and the way went down and down, and it was most horribly stuffy."_ ***---&#65279;Hob*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

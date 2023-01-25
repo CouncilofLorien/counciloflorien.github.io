@@ -25,7 +25,7 @@ permalink: /cards/river/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a site. If a company that has moved to this site this turn does not tap a ranger, it must do nothing during its site phase. <br>_"I don't know what river it was, a rushing red one, swollen with the ruins of the last few days, that came down from the hills and mountains...”_ ***---&#65279;Hob***{: .fs-3 } 
+> > Playable on a site. If a company that has moved to this site this turn does not tap a ranger, it must do nothing during its site phase. <br>_"I don't know what river it was, a rushing red one, swollen with the ruins of the last few days, that came down from the hills and mountains...”_ ***---&#65279;Hob*** 
 >
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -42,7 +42,7 @@ permalink: /cards/river/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a site. If a company that has moved to this site this turn does not tap a ranger, it must do nothing during its site phase. <br>_"I don't know what river it was, a rushing red one, swollen with the ruins of the last few days, that came down from the hills and mountains...”_ ***---&#65279;Hob***{: .fs-3 } 
+> > Playable on a site. If a company that has moved to this site this turn does not tap a ranger, it must do nothing during its site phase. <br>_"I don't know what river it was, a rushing red one, swollen with the ruins of the last few days, that came down from the hills and mountains...”_ ***---&#65279;Hob*** 
 >
 
 ### _Middle-earth: The Wizards Starter Set_
@@ -59,7 +59,7 @@ permalink: /cards/river/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a site. If a company that has moved to this site this turn does not tap a ranger, it must do nothing during its site phase. <br>_"I don't know what river it was, a rushing red one, swollen with the ruins of the last few days, that came down from the hills and mountains...”_ ***---&#65279;Hob***{: .fs-3 } 
+> > Playable on a site. If a company that has moved to this site this turn does not tap a ranger, it must do nothing during its site phase. <br>_"I don't know what river it was, a rushing red one, swollen with the ruins of the last few days, that came down from the hills and mountains...”_ ***---&#65279;Hob*** 
 >
 
 ### _Middle-earth: The Lidless Eye_
@@ -76,7 +76,7 @@ permalink: /cards/river/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a site. If a company that has moved to this site this turn does not tap a ranger, it must do nothing during its site phase. <br>_"In the far stage, under the distant lamps, they could just make out a figure...as they looked it seemed to move and sway this way and that, as if searching the ground. It then crawled, or went crouching, back into the gloom beyond the lamps."_{: .fs-3 } ***---&#65279;LotRI***{: .fs-3 } 
+> > Playable on a site. If a company that has moved to this site this turn does not tap a ranger, it must do nothing during its site phase. <br>_"In the far stage, under the distant lamps, they could just make out a figure...as they looked it seemed to move and sway this way and that, as if searching the ground. It then crawled, or went crouching, back into the gloom beyond the lamps."_ ***---&#65279;LotRI*** 
 >
 
 ### _Middle-earth Challenge Decks_
@@ -93,5 +93,5 @@ permalink: /cards/river/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a site. If a company that has moved to this site this turn does not tap a ranger, it must do nothing during its site phase. <br>_"I don't know what river it was, a rushing red one, swollen with the ruins of the last few days, that came down from the hills and mountains...”_ ***---&#65279;Hob***{: .fs-3 } 
+> > Playable on a site. If a company that has moved to this site this turn does not tap a ranger, it must do nothing during its site phase. <br>_"I don't know what river it was, a rushing red one, swollen with the ruins of the last few days, that came down from the hills and mountains...”_ ***---&#65279;Hob*** 
 >

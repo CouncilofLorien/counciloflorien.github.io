@@ -25,5 +25,5 @@ permalink: /cards/mine-or-no-ones/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Balrog specific._ +10 to an influence attempt by The Balrog against an opponent's: item, ally, Troll faction, or Orc faction. Cannot be duplicated on a given attempt. <br>_“‘...if you really wish to destroy it...’”_ ***---&#65279;LotRI***{: .fs-3 } 
+> > _Balrog specific._ +10 to an influence attempt by The Balrog against an opponent's: item, ally, Troll faction, or Orc faction. Cannot be duplicated on a given attempt. <br>_“‘...if you really wish to destroy it...’”_ ***---&#65279;LotRI*** 
 > 

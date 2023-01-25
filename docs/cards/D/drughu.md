@@ -22,5 +22,5 @@ permalink: /cards/drughu/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable on a hero company during your orgazniation phase if you discard a ranger character from your hand. All characters in the company this turn receive +2 prowess against attacks keyed to Wilderness \[![](/assets/images/wilderness.svg)] and during combat at Ruins & Lairs \[![](/assets/images/ruinlair.svg)]. <br>_"Each company was guided by a wild woodman...the thickets offered to the Riders their last hope of cover before they went into open battle."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 } 
+> > Playable on a hero company during your orgazniation phase if you discard a ranger character from your hand. All characters in the company this turn receive +2 prowess against attacks keyed to Wilderness \[![](/assets/images/wilderness.svg)] and during combat at Ruins & Lairs \[![](/assets/images/ruinlair.svg)]. <br>_"Each company was guided by a wild woodman...the thickets offered to the Riders their last hope of cover before they went into open battle."_ ***---&#65279;LotRV*** 
 > 

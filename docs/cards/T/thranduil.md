@@ -25,7 +25,7 @@ permalink: /cards/thranduil/
 > Warrior/Ranger/Sage Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Wood-elves faction. <br>_"In a great hall with pillars hewn out of the living stones sat the Elvenking on a chair of carven wood. On his head was a crown of berries and red leaves... In his hand he held a carven staff of oak."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 }  <br><br>**Home Site:** Thranduil's Halls 
+> > _**Unique.**_ +2 direct influence against the Wood-elves faction. <br>_"In a great hall with pillars hewn out of the living stones sat the Elvenking on a chair of carven wood. On his head was a crown of berries and red leaves... In his hand he held a carven staff of oak."_ ***---&#65279;Hob***  <br><br>**Home Site:** Thranduil's Halls 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【7/8】</div>
@@ -45,7 +45,7 @@ permalink: /cards/thranduil/
 > Warrior/Ranger/Sage Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against Wood-elves faction. <br>_"In a great hall with pillars hewn out of the living stones sat the Elvenking on a chair of carven wood. On his head was a crown of berries and red leaves... In his hand he held a carven staff of oak."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 }  <br><br>**Home Site:** Thranduil's Halls 
+> > _**Unique.**_ +2 direct influence against Wood-elves faction. <br>_"In a great hall with pillars hewn out of the living stones sat the Elvenking on a chair of carven wood. On his head was a crown of berries and red leaves... In his hand he held a carven staff of oak."_ ***---&#65279;Hob***  <br><br>**Home Site:** Thranduil's Halls 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【7/8】</div>
@@ -65,7 +65,7 @@ permalink: /cards/thranduil/
 > Warrior/Ranger/Sage Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against Wood-elves faction. <br>_"In a great hall with pillars hewn out of the living stones sat the Elvenking on a chair of carven wood. On his head was a crown of berries and red leaves... In his hand he held a carven staff of oak."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 }  <br><br>**Home Site:** Thranduil's Halls 
+> > _**Unique.**_ +2 direct influence against Wood-elves faction. <br>_"In a great hall with pillars hewn out of the living stones sat the Elvenking on a chair of carven wood. On his head was a crown of berries and red leaves... In his hand he held a carven staff of oak."_ ***---&#65279;Hob***  <br><br>**Home Site:** Thranduil's Halls 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【7/8】</div>

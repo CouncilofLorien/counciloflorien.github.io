@@ -22,7 +22,7 @@ permalink: /cards/three-golden-hairs/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at any site on a non-Wizard, non ---&#65279;Hobbit diplomat character (other than Galadriel) at the same site as Galadriel. All corruption cards on the bearer are discarded when this card comes into play. +2 to all corruption checks by bearer.   <br>_“‘...your hands shall flow with gold, and yet over you gold shall have no dominion.’”_ ***---&#65279;LotRII***{: .fs-3 } 
+> > _**Unique.**_ Playable at any site on a non-Wizard, non ---&#65279;Hobbit diplomat character (other than Galadriel) at the same site as Galadriel. All corruption cards on the bearer are discarded when this card comes into play. +2 to all corruption checks by bearer.   <br>_“‘...your hands shall flow with gold, and yet over you gold shall have no dominion.’”_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

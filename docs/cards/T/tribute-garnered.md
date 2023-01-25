@@ -25,5 +25,5 @@ permalink: /cards/tribute-garnered/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable on a faction in play. That faction gives an additional miscellaneous marshalling point. Cannot be duplicated on a given faction. Discard when any play deck is exhausted. <br>_“...and out of the East men were moving endlessly: swordsmen, spearmen, bowmen upon horses, chariots of chieftains and laden wains."_{: .fs-3 } ***---&#65279;LotRII***{: .fs-3 } 
+> > Playable on a faction in play. That faction gives an additional miscellaneous marshalling point. Cannot be duplicated on a given faction. Discard when any play deck is exhausted. <br>_“...and out of the East men were moving endlessly: swordsmen, spearmen, bowmen upon horses, chariots of chieftains and laden wains."_ ***---&#65279;LotRII*** 
 > 

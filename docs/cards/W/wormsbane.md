@@ -22,7 +22,7 @@ permalink: /cards/wormsbane/
 > Long-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Weapon._ +2 to prowess to a maximum of 9 (+4 to prowess to a maximum of 12 and -2 to strikes body against a Dragon or a Drake strike). <br>_“...and among them were several swords of various makes, shapes, and sizes."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
+> > _**Unique.**_ _Weapon._ +2 to prowess to a maximum of 9 (+4 to prowess to a maximum of 12 and -2 to strikes body against a Dragon or a Drake strike). <br>_“...and among them were several swords of various makes, shapes, and sizes."_ ***---&#65279;Hob*** 
 > 
 
 ### _Middle-earth Challenge Decks_
@@ -39,5 +39,5 @@ permalink: /cards/wormsbane/
 > Long-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Weapon._ +2 to prowess to a maximum of 9 (+4 to prowess to a maximum of 12 and -2 to strikes body against a Dragon or a Drake strike). <br>_“...and among them were several swords of various makes, shapes, and sizes."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
+> > _**Unique.**_ _Weapon._ +2 to prowess to a maximum of 9 (+4 to prowess to a maximum of 12 and -2 to strikes body against a Dragon or a Drake strike). <br>_“...and among them were several swords of various makes, shapes, and sizes."_ ***---&#65279;Hob*** 
 > 

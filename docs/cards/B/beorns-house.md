@@ -25,7 +25,7 @@ permalink: /cards/beorns-house/
 > Anduin Vales
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien  <br>_"They soon came to a wooded gate, high and broad, beyond which they could see gardens and a cluster of low wooden buildings, some thatched and made of unshaped logs; barns, stables, sheds, and a low wooden house."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
+> > _**Nearest Haven:**_ Lorien  <br>_"They soon came to a wooded gate, high and broad, beyond which they could see gardens and a cluster of low wooden buildings, some thatched and made of unshaped logs; barns, stables, sheds, and a low wooden house."_ ***---&#65279;Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/beorns-house/
 > Anduin Vales
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien  <br>_"They soon came to a wooded gate, high and broad, beyond which they could see gardens and a cluster of low wooden buildings, some thatched and made of unshaped logs; barns, stables, sheds, and a low wooden house."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
+> > _**Nearest Haven:**_ Lorien  <br>_"They soon came to a wooded gate, high and broad, beyond which they could see gardens and a cluster of low wooden buildings, some thatched and made of unshaped logs; barns, stables, sheds, and a low wooden house."_ ***---&#65279;Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/beorns-house/
 > Anduin Vales
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 10 prowess (detainment against covert company)  <br>_“...a courtyard, three walls of which were formed by the wooden house and its long wings."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
+> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 10 prowess (detainment against covert company)  <br>_“...a courtyard, three walls of which were formed by the wooden house and its long wings."_ ***---&#65279;Hob*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/beorns-house/
 > Anduin Vales
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien  <br>_"They soon came to a wooded gate, high and broad, beyond which they could see gardens and a cluster of low wooden buildings, some thatched and made of unshaped logs; barns, stables, sheds, and a low wooden house."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
+> > _**Nearest Haven:**_ Lorien  <br>_"They soon came to a wooded gate, high and broad, beyond which they could see gardens and a cluster of low wooden buildings, some thatched and made of unshaped logs; barns, stables, sheds, and a low wooden house."_ ***---&#65279;Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -105,7 +105,7 @@ permalink: /cards/beorns-house/
 > Anduin Vales
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 10 prowess (detainment against covert company)  <br>_“...a courtyard, three walls of which were formed by the wooden house and its long wings."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
+> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 10 prowess (detainment against covert company)  <br>_“...a courtyard, three walls of which were formed by the wooden house and its long wings."_ ***---&#65279;Hob*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -125,7 +125,7 @@ permalink: /cards/beorns-house/
 > Anduin Vales
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 10 prowess (detainment against covert company)  <br>_“...a courtyard, three walls of which were formed by the wooden house and its long wings."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
+> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 10 prowess (detainment against covert company)  <br>_“...a courtyard, three walls of which were formed by the wooden house and its long wings."_ ***---&#65279;Hob*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>

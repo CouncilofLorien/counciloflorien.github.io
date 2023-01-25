@@ -25,7 +25,7 @@ permalink: /cards/nurniags/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Nurniag Camp if the influence check is greater than 9.  <br>_Standard Modifications:_ Nuriags (+2), Balchoth (-2), Variags of Khand (+2). <br>_“...strong and war-hardened and asked for no quarter."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 }  
+> > _**Unique.**_ Playable at Nurniag Camp if the influence check is greater than 9.  <br>_Standard Modifications:_ Nuriags (+2), Balchoth (-2), Variags of Khand (+2). <br>_“...strong and war-hardened and asked for no quarter."_ ***---&#65279;LotRV***  
 > 
 
 ### _Middle-earth: Against the Shadow_
@@ -39,7 +39,7 @@ permalink: /cards/nurniags/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Manifestation of minion Nurniags. Playable at Nurniag Camp if the influence check is greater than 13 (Muster has no effect on this attempt). <br>_Standard Modifications:_ Wizards (-5), Men (+1). <br>_“‘They read the wind and the land like storied scribes.’”_ ***---&#65279;Kuduk Lore***{: .fs-3 } 
+> > _**Unique.**_ Manifestation of minion Nurniags. Playable at Nurniag Camp if the influence check is greater than 13 (Muster has no effect on this attempt). <br>_Standard Modifications:_ Wizards (-5), Men (+1). <br>_“‘They read the wind and the land like storied scribes.’”_ ***---&#65279;Kuduk Lore*** 
 > 
 
 ### _Middle-earth Challenge Decks_
@@ -56,5 +56,5 @@ permalink: /cards/nurniags/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Nurniag Camp if the influence check is greater than 9.  <br>_Standard Modifications:_ Nuriags (+2), Balchoth (-2), Variags of Khand (+2). <br>_“...strong and war-hardened and asked for no quarter."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 }  
+> > _**Unique.**_ Playable at Nurniag Camp if the influence check is greater than 9.  <br>_Standard Modifications:_ Nuriags (+2), Balchoth (-2), Variags of Khand (+2). <br>_“...strong and war-hardened and asked for no quarter."_ ***---&#65279;LotRV***  
 > 

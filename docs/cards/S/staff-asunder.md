@@ -22,5 +22,5 @@ permalink: /cards/staff-asunder/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable on a Wizard bearing Wizard's Staff whose company is facing an attack. Wizard makes a corruption check. Place Wizard's staff in your marshalling point pile. Wizard gains +5 prowess against the attack. Modify the attack's body by -2.   <br>_“...Gandalf lifted his staff, and crying aloud he smote the bridge before him. The staff broke asunder and fell from his hand."_{: .fs-3 } ***---&#65279;LotRII***{: .fs-3 } 
+> > Playable on a Wizard bearing Wizard's Staff whose company is facing an attack. Wizard makes a corruption check. Place Wizard's staff in your marshalling point pile. Wizard gains +5 prowess against the attack. Modify the attack's body by -2.   <br>_“...Gandalf lifted his staff, and crying aloud he smote the bridge before him. The staff broke asunder and fell from his hand."_ ***---&#65279;LotRII*** 
 > 

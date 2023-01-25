@@ -25,7 +25,7 @@ permalink: /cards/muster-disperses/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Affects a faction already in play. The faction's player makes a roll (or draws a #), the faction is discarded if the result plus his unused general influence is less than 11. <br>_"When the days of rejoicing were over at last, the Companions thought of returning to their own homes."_{: .fs-3 } ***---&#65279;LotRVI***{: .fs-3 } 
+> > Affects a faction already in play. The faction's player makes a roll (or draws a #), the faction is discarded if the result plus his unused general influence is less than 11. <br>_"When the days of rejoicing were over at last, the Companions thought of returning to their own homes."_ ***---&#65279;LotRVI*** 
 >
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -42,7 +42,7 @@ permalink: /cards/muster-disperses/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Affects a faction already in play. The faction's player makes a roll (or draws a #), the faction is discarded if the result plus his unused general influence is less than 11. <br>_"When the days of rejoicing were over at last, the Companions thought of returning to their own homes."_{: .fs-3 } ***---&#65279;LotRVI***{: .fs-3 } 
+> > Affects a faction already in play. The faction's player makes a roll (or draws a #), the faction is discarded if the result plus his unused general influence is less than 11. <br>_"When the days of rejoicing were over at last, the Companions thought of returning to their own homes."_ ***---&#65279;LotRVI*** 
 >
 
 ### _Middle-earth: The Lidless Eye_
@@ -59,7 +59,7 @@ permalink: /cards/muster-disperses/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a faction. The faction's player makes a roll (draws a #), and discards the faction if the result plus his unused general influence is less than 11. <br>_"But the Men of Rhun and of Harad, Easterling and Southron, saw the ruin of their war...the most part fled eastward as they could; and some cast their weapons down and sued for mercy."_{: .fs-3 } ***---&#65279;LotRVI***{: .fs-3 } 
+> > Playable on a faction. The faction's player makes a roll (draws a #), and discards the faction if the result plus his unused general influence is less than 11. <br>_"But the Men of Rhun and of Harad, Easterling and Southron, saw the ruin of their war...the most part fled eastward as they could; and some cast their weapons down and sued for mercy."_ ***---&#65279;LotRVI*** 
 >
 
 ### _Middle-earth Challenge Decks_
@@ -76,7 +76,7 @@ permalink: /cards/muster-disperses/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Affects a faction already in play. The faction's player makes a roll (or draws a #), the faction is discarded if the result plus his unused general influence is less than 11. <br>_"When the days of rejoicing were over at last, the Companions thought of returning to their own homes."_{: .fs-3 } ***---&#65279;LotRVI***{: .fs-3 } 
+> > Affects a faction already in play. The faction's player makes a roll (or draws a #), the faction is discarded if the result plus his unused general influence is less than 11. <br>_"When the days of rejoicing were over at last, the Companions thought of returning to their own homes."_ ***---&#65279;LotRVI*** 
 >
 
 ### _Middle-earth: The Balrog Reprint_
@@ -93,5 +93,5 @@ permalink: /cards/muster-disperses/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a faction. The faction's player makes a roll (draws a #), and discards the faction if the result plus his unused general influence is less than 11. <br>_"But the Men of Rhun and of Harad, Easterling and Southron, saw the ruin of their war...the most part fled eastward as they could; and some cast their weapons down and sued for mercy."_{: .fs-3 } ***---&#65279;LotRVI***{: .fs-3 } 
+> > Playable on a faction. The faction's player makes a roll (draws a #), and discards the faction if the result plus his unused general influence is less than 11. <br>_"But the Men of Rhun and of Harad, Easterling and Southron, saw the ruin of their war...the most part fled eastward as they could; and some cast their weapons down and sued for mercy."_ ***---&#65279;LotRVI*** 
 >

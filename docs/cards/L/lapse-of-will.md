@@ -22,7 +22,7 @@ permalink: /cards/lapse-of-will/
 > Long-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > The prowess of each attack is modified by -1. The prowess of each Nazgul attack is modified by -3. <br>_“...the hosts of Mordor trembled, doubt clutched their hearts, their laughter failed, their hands shook and their limbs were loosed. The Power that drove them on and filled them with hate and fury was wavering, its will was removed from them...”_ ***---&#65279;LotRVI***{: .fs-3 } 
+> > The prowess of each attack is modified by -1. The prowess of each Nazgul attack is modified by -3. <br>_“...the hosts of Mordor trembled, doubt clutched their hearts, their laughter failed, their hands shook and their limbs were loosed. The Power that drove them on and filled them with hate and fury was wavering, its will was removed from them...”_ ***---&#65279;LotRVI*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -39,5 +39,5 @@ permalink: /cards/lapse-of-will/
 > Long-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > The prowess of each attack is modified by -1. The prowess of each Nazgul attack is modified by -3. <br>_“...the hosts of Mordor trembled, doubt clutched their hearts, their laughter failed, their hands shook and their limbs were loosed. The Power that drove them on and filled them with hate and fury was wavering, its will was removed from them...”_ ***---&#65279;LotRVI***{: .fs-3 } 
+> > The prowess of each attack is modified by -1. The prowess of each Nazgul attack is modified by -3. <br>_“...the hosts of Mordor trembled, doubt clutched their hearts, their laughter failed, their hands shook and their limbs were loosed. The Power that drove them on and filled them with hate and fury was wavering, its will was removed from them...”_ ***---&#65279;LotRVI*** 
 > 

@@ -25,7 +25,7 @@ permalink: /cards/words-of-power-and-terror/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Modify the prowesses of all characters in a company attacked by a Nazgul by -1 until the end of turn. Can not be duplicated on a given company. <br>_“‘Then the Black Captain rose...and cried aloud...words of power and terror to rend both heart and stone.’”_ ***---&#65279;LotRV***{: .fs-3 } 
+> > Modify the prowesses of all characters in a company attacked by a Nazgul by -1 until the end of turn. Can not be duplicated on a given company. <br>_“‘Then the Black Captain rose...and cried aloud...words of power and terror to rend both heart and stone.’”_ ***---&#65279;LotRV*** 
 >
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -42,5 +42,5 @@ permalink: /cards/words-of-power-and-terror/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Modify the prowesses of all characters in a company attacked by a Nazgul by -1 until the end of turn. Can not be duplicated on a given company. <br>_“‘Then the Black Captain rose...and cried aloud...words of power and terror to rend both heart and stone.’”_ ***---&#65279;LotRV***{: .fs-3 } 
+> > Modify the prowesses of all characters in a company attacked by a Nazgul by -1 until the end of turn. Can not be duplicated on a given company. <br>_“‘Then the Black Captain rose...and cried aloud...words of power and terror to rend both heart and stone.’”_ ***---&#65279;LotRV*** 
 >

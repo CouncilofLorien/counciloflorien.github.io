@@ -25,7 +25,7 @@ permalink: /cards/the-way-is-shut/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > A company moving to or from an Under-deeps site must return its site of origin. Additionally, cancels the effects of Secret Passage and Secret Entrance. Cannot be duplicated. <br>_"Many coiling arms seized the doors on either side, and with horrible strength, swung them around. With a shattering echo they slammed, and all light was lost."_{: .fs-3 } ***---&#65279;LotRII***{: .fs-3 } 
+> > A company moving to or from an Under-deeps site must return its site of origin. Additionally, cancels the effects of Secret Passage and Secret Entrance. Cannot be duplicated. <br>_"Many coiling arms seized the doors on either side, and with horrible strength, swung them around. With a shattering echo they slammed, and all light was lost."_ ***---&#65279;LotRII*** 
 >
 
 ### _Middle-earth: The Balrog Reprint_
@@ -42,5 +42,5 @@ permalink: /cards/the-way-is-shut/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > A company moving to or from an Under-deeps site must return its site of origin. Additionally, cancels the effects of Secret Passage and Secret Entrance. Cannot be duplicated. <br>_"Many coiling arms seized the doors on either side, and with horrible strength, swung them around. With a shattering echo they slammed, and all light was lost."_{: .fs-3 } ***---&#65279;LotRII***{: .fs-3 } 
+> > A company moving to or from an Under-deeps site must return its site of origin. Additionally, cancels the effects of Secret Passage and Secret Entrance. Cannot be duplicated. <br>_"Many coiling arms seized the doors on either side, and with horrible strength, swung them around. With a shattering echo they slammed, and all light was lost."_ ***---&#65279;LotRII*** 
 >

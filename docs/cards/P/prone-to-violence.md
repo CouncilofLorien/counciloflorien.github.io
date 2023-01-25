@@ -25,5 +25,5 @@ permalink: /cards/prone-to-violence/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Any minion company without a Ringwraith may attack another minion company without a Ringwraith. The attacking company may contain The Balrog. Discard when any play deck is exhausted. Cannot be duplicated. <br>_"The ranks of the orcs had opened, and they crowded away, as if they themselves were afraid."_{: .fs-3 } ***---&#65279;LotRII***{: .fs-3 } 
+> > Any minion company without a Ringwraith may attack another minion company without a Ringwraith. The attacking company may contain The Balrog. Discard when any play deck is exhausted. Cannot be duplicated. <br>_"The ranks of the orcs had opened, and they crowded away, as if they themselves were afraid."_ ***---&#65279;LotRII*** 
 > 

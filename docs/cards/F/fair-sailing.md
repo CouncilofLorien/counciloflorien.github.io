@@ -22,7 +22,7 @@ permalink: /cards/fair-sailing/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable at the end of the organization phase if target company plays a new site card. The hazard limit for the target company decreases by one for every Coastal Sea \[![](/assets/images/coastalsea.svg)] in its site path (to a minimum of two). Cannot be duplicated on the same company. <br>_“...the masted ships hoisted sail...”_ ***---&#65279;LotRV***{: .fs-3 } 
+> > Playable at the end of the organization phase if target company plays a new site card. The hazard limit for the target company decreases by one for every Coastal Sea \[![](/assets/images/coastalsea.svg)] in its site path (to a minimum of two). Cannot be duplicated on the same company. <br>_“...the masted ships hoisted sail...”_ ***---&#65279;LotRV*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -39,5 +39,5 @@ permalink: /cards/fair-sailing/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable at the end of the organization phase if target company plays a new site card. The hazard limit for the target company decreases by one for every Coastal Sea \[![](/assets/images/coastalsea.svg)] in its site path (to a minimum of two). Cannot be duplicated on the same company. <br>_“...the masted ships hoisted sail...”_ ***---&#65279;LotRV***{: .fs-3 } 
+> > Playable at the end of the organization phase if target company plays a new site card. The hazard limit for the target company decreases by one for every Coastal Sea \[![](/assets/images/coastalsea.svg)] in its site path (to a minimum of two). Cannot be duplicated on the same company. <br>_“...the masted ships hoisted sail...”_ ***---&#65279;LotRV*** 
 > 

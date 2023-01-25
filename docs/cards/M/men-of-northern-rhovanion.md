@@ -22,7 +22,7 @@ permalink: /cards/men-of-northern-rhovanion/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Lake-town if the influence check is greater than 6.  <br>_Standard Modifications:_ Men (+1). <br>_“...in the great days of old, when Dale in the North was rich and prosperous, they had been wealthy and powerful...with warriors in armour, and there had been wars and deeds...”_ ***---&#65279;Hob***{: .fs-3 } 
+> > _**Unique.**_ ***Playable at Lake-town*** <br>&ensp;if the influence check is greater than 6.  <br>_Standard Modifications:_ Men (+1). <br>_“...in the great days of old, when Dale in the North was rich and prosperous, they had been wealthy and powerful...with warriors in armour, and there had been wars and deeds...”_ ***---&#65279;Hob*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -39,5 +39,5 @@ permalink: /cards/men-of-northern-rhovanion/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Lake-town if the influence check is greater than 6.  <br>_Standard Modifications:_ Men (+1). <br>_“...in the great days of old, when Dale in the North was rich and prosperous, they had been wealthy and powerful...with warriors in armour, and there had been wars and deeds...”_ ***---&#65279;Hob***{: .fs-3 } 
+> > _**Unique.**_ ***Playable at Lake-town*** <br>&ensp;if the influence check is greater than 6.  <br>_Standard Modifications:_ Men (+1). <br>_“...in the great days of old, when Dale in the North was rich and prosperous, they had been wealthy and powerful...with warriors in armour, and there had been wars and deeds...”_ ***---&#65279;Hob*** 
 > 

@@ -22,5 +22,5 @@ permalink: /cards/fast-asleep/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > +3 to one burglary attempt. Alternatively, -2 to the prowess of one automatic attack.   <br>_"There he lay, a vast red-golden dragon, fast asleep; a thrumming came from his jaws and nostrils, and wisps of smoke, but his fires were low in slumber."_{: .fs-3 }  ***---&#65279;Hob***{: .fs-3 }
+> > +3 to one burglary attempt. Alternatively, -2 to the prowess of one automatic attack.   <br>_"There he lay, a vast red-golden dragon, fast asleep; a thrumming came from his jaws and nostrils, and wisps of smoke, but his fires were low in slumber."_  ***---&#65279;Hob***
 > 

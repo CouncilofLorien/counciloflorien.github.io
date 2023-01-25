@@ -25,7 +25,7 @@ permalink: /cards/eagles-eyrie/
 > Anduin Vales
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien  <br>_“...a wide shelf of rock on the mountain-side. There was no path down on to it save by flying; and no path down off it except by jumping over a precipice."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
+> > _**Nearest Haven:**_ Lorien  <br>_“...a wide shelf of rock on the mountain-side. There was no path down on to it save by flying; and no path down off it except by jumping over a precipice."_ ***---&#65279;Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/eagles-eyrie/
 > Anduin Vales
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien  <br>_“...a wide shelf of rock on the mountain-side. There was no path down on to it save by flying; and no path down off it except by jumping over a precipice."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
+> > _**Nearest Haven:**_ Lorien  <br>_“...a wide shelf of rock on the mountain-side. There was no path down on to it save by flying; and no path down off it except by jumping over a precipice."_ ***---&#65279;Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/eagles-eyrie/
 > Anduin Vales
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br> Animals-2 strikes with 10 prowess (attacker chooses defending characters)  <br>_"The eagles had brought up dry boughs for fuel, ...rabbits, hares, and a small sheep."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
+> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br> Animals-2 strikes with 10 prowess (attacker chooses defending characters)  <br>_"The eagles had brought up dry boughs for fuel, ...rabbits, hares, and a small sheep."_ ***---&#65279;Hob*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/eagles-eyrie/
 > Anduin Vales
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br> Animals-2 strikes with 10 prowess (attacker chooses defending characters)  <br>_"The eagles had brought up dry boughs for fuel, ...rabbits, hares, and a small sheep."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
+> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br> Animals-2 strikes with 10 prowess (attacker chooses defending characters)  <br>_"The eagles had brought up dry boughs for fuel, ...rabbits, hares, and a small sheep."_ ***---&#65279;Hob*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -105,7 +105,7 @@ permalink: /cards/eagles-eyrie/
 > Anduin Vales
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br> Animals-2 strikes with 10 prowess (attacker chooses defending characters)  "The eagles had brought up dry boughs for fuel, ...rabbits, hares, and a small sheep."_{: .fs-3 } ***---&#65279;Hob***{: .fs-3 } 
+> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br> Animals-2 strikes with 10 prowess (attacker chooses defending characters)  "The eagles had brought up dry boughs for fuel, ...rabbits, hares, and a small sheep."_ ***---&#65279;Hob*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

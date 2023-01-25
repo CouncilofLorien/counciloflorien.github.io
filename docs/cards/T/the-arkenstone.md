@@ -65,7 +65,7 @@ permalink: /cards/the-arkenstone/
 > Greater Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ +5 to bearer's direct influence against Dwarves and Dwarf factions. Each Dwarf in play has +1 mind. If the bearer of this item is at the same site as a Dwarf character, you may discard this item to force the discard of the Dwarf (and all cards he controls).   <br>_“...it was tinged with a flickering sparkle of many colours at the syrface, reflected and splintered from the wavering light of his torch."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 } 
+> > _**Unique.**_ +5 to bearer's direct influence against Dwarves and Dwarf factions. Each Dwarf in play has +1 mind. If the bearer of this item is at the same site as a Dwarf character, you may discard this item to force the discard of the Dwarf (and all cards he controls).   <br>_“...it was tinged with a flickering sparkle of many colours at the syrface, reflected and splintered from the wavering light of his torch."_ ***---&#65279;LotRV*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -85,7 +85,7 @@ permalink: /cards/the-arkenstone/
 > Greater Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ +5 to bearer's direct influence against Dwarves and Dwarf factions. Each Dwarf in play has +1 mind. If the bearer of this item is at the same site as a Dwarf character, you may discard this item to force the discard of the Dwarf (and all cards he controls).   <br>_“...it was tinged with a flickering sparkle of many colours at the syrface, reflected and splintered from the wavering light of his torch."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 } 
+> > _**Unique.**_ +5 to bearer's direct influence against Dwarves and Dwarf factions. Each Dwarf in play has +1 mind. If the bearer of this item is at the same site as a Dwarf character, you may discard this item to force the discard of the Dwarf (and all cards he controls).   <br>_“...it was tinged with a flickering sparkle of many colours at the syrface, reflected and splintered from the wavering light of his torch."_ ***---&#65279;LotRV*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

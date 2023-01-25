@@ -25,7 +25,7 @@ permalink: /cards/william-(wuluag)/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ Troll. One strike. If played after "Bert" or "Tom" and if keyed to the same site path against the same company, each character wounded by "William" must discard all non-special items he bears. <br>_"William choked. 'Shut yer mouth!' he said as soon as he could. 'Yer can't expect folks to stop here for ever just to be et by you and Bert...’”_ ***---&#65279;Hob***{: .fs-3 } 
+> > _**Unique.**_ Troll. One strike. If played after "Bert" or "Tom" and if keyed to the same site path against the same company, each character wounded by "William" must discard all non-special items he bears. <br>_"William choked. 'Shut yer mouth!' he said as soon as he could. 'Yer can't expect folks to stop here for ever just to be et by you and Bert...’”_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【11/&ndash;】</div>
@@ -45,7 +45,7 @@ permalink: /cards/william-(wuluag)/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ Troll. One strike. If played after "Bert" or "Tom" and if keyed to the same site path against the same company, each character wounded by "William" must discard all non-special items he bears. <br>_"William choked. 'Shut yer mouth!' he said as soon as he could. 'Yer can't expect folks to stop here for ever just to be et by you and Bert...’”_ ***---&#65279;Hob***{: .fs-3 } 
+> > _**Unique.**_ Troll. One strike. If played after "Bert" or "Tom" and if keyed to the same site path against the same company, each character wounded by "William" must discard all non-special items he bears. <br>_"William choked. 'Shut yer mouth!' he said as soon as he could. 'Yer can't expect folks to stop here for ever just to be et by you and Bert...’”_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【11/&ndash;】</div>
@@ -65,7 +65,7 @@ permalink: /cards/william-(wuluag)/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ Troll. One strike. If played after "Bert" or "Tom" and if keyed to the same site path against the same company, each character wounded by "William" must discard all non-special items he bears. <br>_"William choked. 'Shut yer mouth!' he said as soon as he could. 'Yer can't expect folks to stop here for ever just to be et by you and Bert...’”_ ***---&#65279;Hob***{: .fs-3 } 
+> > _**Unique.**_ Troll. One strike. If played after "Bert" or "Tom" and if keyed to the same site path against the same company, each character wounded by "William" must discard all non-special items he bears. <br>_"William choked. 'Shut yer mouth!' he said as soon as he could. 'Yer can't expect folks to stop here for ever just to be et by you and Bert...’”_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【11/&ndash;】</div>
@@ -85,7 +85,7 @@ permalink: /cards/william-(wuluag)/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ Troll. One strike. If played after "Bert" or "Tom" and if keyed to the same site path against the same company, each character wounded by "William" must discard all non-special items he bears. <br>_"William choked. 'Shut yer mouth!' he said as soon as he could. 'Yer can't expect folks to stop here for ever just to be et by you and Bert...’”_ ***---&#65279;Hob***{: .fs-3 } 
+> > _**Unique.**_ Troll. One strike. If played after "Bert" or "Tom" and if keyed to the same site path against the same company, each character wounded by "William" must discard all non-special items he bears. <br>_"William choked. 'Shut yer mouth!' he said as soon as he could. 'Yer can't expect folks to stop here for ever just to be et by you and Bert...’”_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【11/&ndash;】</div>

@@ -25,7 +25,7 @@ permalink: /cards/hador/
 > Warrior/Sage Dunadan
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ Can use sorcery. <br>_“...he bought the knowledge dearly...”_ ***---&#65279;LotR***{: .fs-3 }  <br><br>**Home Site:** Dol Guldur 
+> > _**Unique.**_ Can use sorcery. <br>_“...he bought the knowledge dearly...”_ ***---&#65279;LotR***  <br><br>**Home Site:** Dol Guldur 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【5/9】</div>
@@ -45,7 +45,7 @@ permalink: /cards/hador/
 > Warrior/Sage Dunadan
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ Can use sorcery. <br>_“...he bought the knowledge dearly...”_ ***---&#65279;LotR***{: .fs-3 }  <br><br>**Home Site:** Dol Guldur 
+> > _**Unique.**_ Can use sorcery. <br>_“...he bought the knowledge dearly...”_ ***---&#65279;LotR***  <br><br>**Home Site:** Dol Guldur 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【5/9】</div>

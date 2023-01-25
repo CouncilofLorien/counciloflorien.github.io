@@ -25,5 +25,5 @@ permalink: /cards/unabated-in-malice/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on an automatic-attack from Shelob; does not count against the hazard limit. The attack receives +1 prowess, and -2 body. The first attempt to cancel this attack instead cancels the effects of this card. Cannot be duplicated on a given attack. <br>_"Her vast belly was above him with its putrid light, and the stench of it almost smote him down."_{: .fs-3 } ***---&#65279;LotRIV***{: .fs-3 } 
+> > Playable on an automatic-attack from Shelob; does not count against the hazard limit. The attack receives +1 prowess, and -2 body. The first attempt to cancel this attack instead cancels the effects of this card. Cannot be duplicated on a given attack. <br>_"Her vast belly was above him with its putrid light, and the stench of it almost smote him down."_ ***---&#65279;LotRIV*** 
 >

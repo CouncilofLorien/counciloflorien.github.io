@@ -25,7 +25,7 @@ permalink: /cards/moria/
 > Redhorn Gate
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Orcs - 4 strikes with 7 prowess  <br>_"In the pale ray of the wizard's staff...glimpses of stairs and arches, and of other passages and tunnels...”_ ***---&#65279;LotRII***{: .fs-3 } 
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Orcs - 4 strikes with 7 prowess  <br>_"In the pale ray of the wizard's staff...glimpses of stairs and arches, and of other passages and tunnels...”_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/moria/
 > Redhorn Gate
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Orcs - 4 strikes with 7 prowess  <br>_"In the pale ray of the wizard's staff...glimpses of stairs and arches, and of other passages and tunnels...”_ ***---&#65279;LotRII***{: .fs-3 } 
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Orcs - 4 strikes with 7 prowess  <br>_"In the pale ray of the wizard's staff...glimpses of stairs and arches, and of other passages and tunnels...”_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/moria/
 > Redhorn Gate
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Orcs - 4 strikes with 7 prowess  <br>_"In the pale ray of the wizard's staff...glimpses of stairs and arches, and of other passages and tunnels...”_ ***---&#65279;LotRII***{: .fs-3 } 
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Orcs - 4 strikes with 7 prowess  <br>_"In the pale ray of the wizard's staff...glimpses of stairs and arches, and of other passages and tunnels...”_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -125,7 +125,7 @@ permalink: /cards/moria/
 > Redhorn Gate
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > <br>_**Special:**_ Any gold ring stored at this site is automatically tested (modify the roll by -2). Creatures keyed to this site attack as detainment. If one of your companies is at this site, all attacks against it are canceled. <br>_"The Mines of Moria were vast and intricate beyond the imagination...”_ ***---&#65279;LotRII***{: .fs-3 } 
+> > <br>_**Special:**_ Any gold ring stored at this site is automatically tested (modify the roll by -2). Creatures keyed to this site attack as detainment. If one of your companies is at this site, all attacks against it are canceled. <br>_"The Mines of Moria were vast and intricate beyond the imagination...”_ ***---&#65279;LotRII*** 
 > 
 > {: .balrog-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>

@@ -25,7 +25,7 @@ permalink: /cards/henneth-annun/
 > Ithilien
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien  <br>_“‘...Window of the Sunset, Henneth Annun, fairest of all the falls of Ithilien, land of many fountains.’”_ ***---&#65279;LotRIV***{: .fs-3 } 
+> > _**Nearest Haven:**_ Lorien  <br>_“‘...Window of the Sunset, Henneth Annun, fairest of all the falls of Ithilien, land of many fountains.’”_ ***---&#65279;LotRIV*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/henneth-annun/
 > Ithilien
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien  <br>_“‘...Window of the Sunset, Henneth Annun, fairest of all the falls of Ithilien, land of many fountains.’”_ ***---&#65279;LotRIV***{: .fs-3 } 
+> > _**Nearest Haven:**_ Lorien  <br>_“‘...Window of the Sunset, Henneth Annun, fairest of all the falls of Ithilien, land of many fountains.’”_ ***---&#65279;LotRIV*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -65,7 +65,7 @@ permalink: /cards/henneth-annun/
 > Ithilien
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Minas Morgul <br>_**Automatic-attacks:**_<br> Dunedain-each character faces 1 strike with 7 prowess (detainment against covert company)  <br>_"It faced westward. The level shafts of the setting sun beat upon it, and the red light was broken into many flickering beams of ever-changing colour"_ ***---&#65279;LotRIV***{: .fs-3 } 
+> > Nearest Darkhaven: Minas Morgul <br>_**Automatic-attacks:**_<br> Dunedain-each character faces 1 strike with 7 prowess (detainment against covert company)  <br>_"It faced westward. The level shafts of the setting sun beat upon it, and the red light was broken into many flickering beams of ever-changing colour"_ ***---&#65279;LotRIV*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -85,7 +85,7 @@ permalink: /cards/henneth-annun/
 > Ithilien
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien  <br>_“‘...Window of the Sunset, Henneth Annun, fairest of all the falls of Ithilien, land of many fountains.’”_ ***---&#65279;LotRIV***{: .fs-3 } 
+> > _**Nearest Haven:**_ Lorien  <br>_“‘...Window of the Sunset, Henneth Annun, fairest of all the falls of Ithilien, land of many fountains.’”_ ***---&#65279;LotRIV*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>

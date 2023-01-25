@@ -25,7 +25,7 @@ permalink: /cards/the-grimburgoth/
 > Warrior/Ranger/Sage Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ Agent. Can use sorcery. Agent only: may tap at a company's new site to attack that company during its movement/hazard phase with +2 prowess. <br>_"A madness filled him, and his heart was thereafter governed by fear. ...and in time he settled with his kinsman Khamul in Dol Guldur."_{: .fs-3 } ***---&#65279;Kuduk Lore***{: .fs-3 }  <br><br>**Home Site:** Dol Guldur 
+> > _**Unique.**_ Agent. Can use sorcery. Agent only: may tap at a company's new site to attack that company during its movement/hazard phase with +2 prowess. <br>_"A madness filled him, and his heart was thereafter governed by fear. ...and in time he settled with his kinsman Khamul in Dol Guldur."_ ***---&#65279;Kuduk Lore***  <br><br>**Home Site:** Dol Guldur 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【7/9】</div>

@@ -25,7 +25,7 @@ permalink: /cards/orc-warband/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Orcs._ Five strikes. If played on a company that has already faced an Orc attack this turn, Orc-warband receives +3 prowess. <br>_"Then the whole company began to run with the long loping strides of _Orcs._ They kept no order, thrusting, jostling, and cursing; yet their speed was very great."_{: .fs-3 } ***---&#65279;LotRIII***{: .fs-3 } 
+> > _Orcs._ Five strikes. If played on a company that has already faced an Orc attack this turn, Orc-warband receives +3 prowess. <br>_"Then the whole company began to run with the long loping strides of _Orcs._ They kept no order, thrusting, jostling, and cursing; yet their speed was very great."_ ***---&#65279;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【6/&ndash;】</div>
@@ -45,7 +45,7 @@ permalink: /cards/orc-warband/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Orcs._ Five strikes. If played on a company that has already faced an Orc attack this turn, Orc-warband receives +3 prowess. <br>_"Then the whole company began to run with the long loping strides of _Orcs._ They kept no order, thrusting, jostling, and cursing; yet their speed was very great."_{: .fs-3 } ***---&#65279;LotRIII***{: .fs-3 } 
+> > _Orcs._ Five strikes. If played on a company that has already faced an Orc attack this turn, Orc-warband receives +3 prowess. <br>_"Then the whole company began to run with the long loping strides of _Orcs._ They kept no order, thrusting, jostling, and cursing; yet their speed was very great."_ ***---&#65279;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【6/&ndash;】</div>
@@ -65,7 +65,7 @@ permalink: /cards/orc-warband/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Orcs._ Five strikes. If played on a company that has already faced an Orc attack this turn, Orc-warband receives +3 prowess. <br>_"Fierce and shrill rose the yells of the Orcs, and suddenly the horn calls ceased."_{: .fs-3 } ***---&#65279;LotRIII***{: .fs-3 } 
+> > _Orcs._ Five strikes. If played on a company that has already faced an Orc attack this turn, Orc-warband receives +3 prowess. <br>_"Fierce and shrill rose the yells of the Orcs, and suddenly the horn calls ceased."_ ***---&#65279;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【4/&ndash;】</div>
@@ -85,7 +85,7 @@ permalink: /cards/orc-warband/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Orcs._ Five strikes. If played on a company that has already faced an Orc attack this turn, Orc-warband receives +3 prowess. <br>_"Fierce and shrill rose the yells of the Orcs, and suddenly the horn calls ceased."_{: .fs-3 } ***---&#65279;LotRIII***{: .fs-3 } 
+> > _Orcs._ Five strikes. If played on a company that has already faced an Orc attack this turn, Orc-warband receives +3 prowess. <br>_"Fierce and shrill rose the yells of the Orcs, and suddenly the horn calls ceased."_ ***---&#65279;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【4/&ndash;】</div>

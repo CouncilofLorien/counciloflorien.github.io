@@ -25,5 +25,5 @@ permalink: /cards/frenzy-of-madness/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a Shadow-hold \[![](/assets/images/shadow-hold.svg)] not in Gorgoroth, Nurn, Udun, or Imlad Morgul. If you discard (from your hand) a hazard creature playable at the site, one Dragon hazard creature may be played this turn keyed to the site. Alternatively, Daelomin may be played at the site this turn (without discarding a creature). <br>_“...her sight blasted by inner lightnings, her mind in agony...”_ ***---&#65279;LotRIV***{: .fs-3 } 
+> > Playable on a Shadow-hold \[![](/assets/images/shadow-hold.svg)] not in Gorgoroth, Nurn, Udun, or Imlad Morgul. If you discard (from your hand) a hazard creature playable at the site, one Dragon hazard creature may be played this turn keyed to the site. Alternatively, Daelomin may be played at the site this turn (without discarding a creature). <br>_“...her sight blasted by inner lightnings, her mind in agony...”_ ***---&#65279;LotRIV*** 
 >

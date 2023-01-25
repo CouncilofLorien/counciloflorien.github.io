@@ -25,7 +25,7 @@ permalink: /cards/daelomin-at-home/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ Unless Daelomin Ahunt is in play, Dancing Spire has an additional automatic-attack: Dragon-3 strikes at 14/8. In addition, you may discard this card from play during opponent's movement/hazard phase (not counting against the hazard limit) to increase the hazard limit against one company by two. <br>_"The general opinion was that catching a dragon napping was not as easy as it sounded...”_ ***---&#65279;Hob***{: .fs-3 } 
+> > _**Unique.**_ Unless Daelomin Ahunt is in play, Dancing Spire has an additional automatic-attack: Dragon-3 strikes at 14/8. In addition, you may discard this card from play during opponent's movement/hazard phase (not counting against the hazard limit) to increase the hazard limit against one company by two. <br>_"The general opinion was that catching a dragon napping was not as easy as it sounded...”_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【14/8】</div>

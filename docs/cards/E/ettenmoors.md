@@ -25,7 +25,7 @@ permalink: /cards/ettenmoors/
 > Rhudaur
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br> Troll - 1 strike with 9 prowess  <br>_“‘We have now come to the River Hoarwell...It flows down out of the Ettenmoors, the troll-fells north of Rivendell...’”_ ***---&#65279;LotRI***{: .fs-3 } 
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br> Troll - 1 strike with 9 prowess  <br>_“‘We have now come to the River Hoarwell...It flows down out of the Ettenmoors, the troll-fells north of Rivendell...’”_ ***---&#65279;LotRI*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/ettenmoors/
 > Rhudaur
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br> Troll - 1 strike with 9 prowess  <br>_“‘We have now come to the River Hoarwell...It flows down out of the Ettenmoors, the troll-fells north of Rivendell...’”_ ***---&#65279;LotRI***{: .fs-3 } 
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br> Troll - 1 strike with 9 prowess  <br>_“‘We have now come to the River Hoarwell...It flows down out of the Ettenmoors, the troll-fells north of Rivendell...’”_ ***---&#65279;LotRI*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>

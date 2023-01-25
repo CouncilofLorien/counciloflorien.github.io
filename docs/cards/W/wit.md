@@ -22,5 +22,5 @@ permalink: /cards/wit/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Modify one riddling roll by +3. If applicable, this card may also be played during your opponent's site phase if a riddling roll is called for. <br>_“‘I don't know half as well as I should like; and I like less than half of you half as well as you deserve.' This was rather unexpected and difficult."_{: .fs-3 } ***---&#65279;LotRI***{: .fs-3 } 
+> > Modify one riddling roll by +3. If applicable, this card may also be played during your opponent's site phase if a riddling roll is called for. <br>_“‘I don't know half as well as I should like; and I like less than half of you half as well as you deserve.' This was rather unexpected and difficult."_ ***---&#65279;LotRI*** 
 > 

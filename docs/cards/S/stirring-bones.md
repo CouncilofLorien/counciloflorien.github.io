@@ -25,7 +25,7 @@ permalink: /cards/stirring-bones/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Undead._ Two strikes. Two Wilderness \[![](/assets/images/wilderness.svg)] in site path are required. <br>_"Round the corner a long arm was groping, walking on its fingers toward Sam, who lay nearest, and towards the hilt of the sword that lay upon him."_{: .fs-3 } ***---&#65279;LotRI***{: .fs-3 } 
+> > _Undead._ Two strikes. Two Wilderness \[![](/assets/images/wilderness.svg)] in site path are required. <br>_"Round the corner a long arm was groping, walking on its fingers toward Sam, who lay nearest, and towards the hilt of the sword that lay upon him."_ ***---&#65279;LotRI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【9/&ndash;】</div>
@@ -45,7 +45,7 @@ permalink: /cards/stirring-bones/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Undead._ Two strikes. <br>_"Gold was piled on their biers of dead kings and queens; and mounds covered them, and the stone floors were shut."_{: .fs-3 } ***---&#65279;LotRI***{: .fs-3 } 
+> > _Undead._ Two strikes. <br>_"Gold was piled on their biers of dead kings and queens; and mounds covered them, and the stone floors were shut."_ ***---&#65279;LotRI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【9/&ndash;】</div>
@@ -65,7 +65,7 @@ permalink: /cards/stirring-bones/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Undead._ Two strikes. Two Wilderness \[![](/assets/images/wilderness.svg)] in site path are required. <br>_"Round the corner a long arm was groping, walking on its fingers toward Sam, who lay nearest, and towards the hilt of the sword that lay upon him."_{: .fs-3 } ***---&#65279;LotRI***{: .fs-3 } 
+> > _Undead._ Two strikes. Two Wilderness \[![](/assets/images/wilderness.svg)] in site path are required. <br>_"Round the corner a long arm was groping, walking on its fingers toward Sam, who lay nearest, and towards the hilt of the sword that lay upon him."_ ***---&#65279;LotRI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【9/&ndash;】</div>

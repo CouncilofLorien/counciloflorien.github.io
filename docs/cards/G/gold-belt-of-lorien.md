@@ -25,7 +25,7 @@ permalink: /cards/gold-belt-of-lorien/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Only playable at Lorien. +1 direct influence to bearer. <br>_"The Lady bowed her head, and she turned then to Boromir, and to him she gave a belt of gold...”_ ***---&#65279;LotRII***{: .fs-3 } 
+> > _**Unique.**_ Only playable at Lorien. +1 direct influence to bearer. <br>_"The Lady bowed her head, and she turned then to Boromir, and to him she gave a belt of gold...”_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

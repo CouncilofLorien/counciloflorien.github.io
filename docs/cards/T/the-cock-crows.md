@@ -22,7 +22,7 @@ permalink: /cards/the-cock-crows/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Cancels a Troll attack. Alternatively, if Gates of Morning is in play, it forces the discard of one hazard permanent-event. <br>_“...a cock crowed. Shrill and clear he crowed...welcoming only the morning that in the sky far above the shadows of death was coming with the dawn."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 } 
+> > Cancels a Troll attack. Alternatively, if Gates of Morning is in play, it forces the discard of one hazard permanent-event. <br>_“...a cock crowed. Shrill and clear he crowed...welcoming only the morning that in the sky far above the shadows of death was coming with the dawn."_ ***---&#65279;LotRV*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -39,7 +39,7 @@ permalink: /cards/the-cock-crows/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Cancels a Troll attack. Alternatively, if Gates of Morning is in play, it forces the discard of one hazard permanent-event. <br>_“...a cock crowed. Shrill and clear he crowed...welcoming only the morning that in the sky far above the shadows of death was coming with the dawn."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 } 
+> > Cancels a Troll attack. Alternatively, if Gates of Morning is in play, it forces the discard of one hazard permanent-event. <br>_“...a cock crowed. Shrill and clear he crowed...welcoming only the morning that in the sky far above the shadows of death was coming with the dawn."_ ***---&#65279;LotRV*** 
 > 
 
 ### _Middle-earth Challenge Decks_
@@ -56,5 +56,5 @@ permalink: /cards/the-cock-crows/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Cancels a Troll attack. Alternatively, if Gates of Morning is in play, it forces the discard of one hazard permanent-event. <br>_“...a cock crowed. Shrill and clear he crowed...welcoming only the morning that in the sky far above the shadows of death was coming with the dawn."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 } 
+> > Cancels a Troll attack. Alternatively, if Gates of Morning is in play, it forces the discard of one hazard permanent-event. <br>_“...a cock crowed. Shrill and clear he crowed...welcoming only the morning that in the sky far above the shadows of death was coming with the dawn."_ ***---&#65279;LotRV*** 
 > 

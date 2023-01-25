@@ -22,7 +22,7 @@ permalink: /cards/elves-of-lindon/
 > Elf Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Grey Havens if the influence check is greater than 9.  <br>_Standard Modifications:_ Dunedain (+1), Elves (+2). <br>_"Requiem: 'To the memory of Roger Zelazny’”-Elizabeth T. Danforth 
+> > _**Unique.**_ ***Playable at Grey Havens*** <br>&ensp;if the influence check is greater than 9.  <br>_Standard Modifications:_ Dunedain (+1), Elves (+2). <br>_"**Requiem:** 'To the memory of Roger Zelazny’”_ ***---&#65279;Elizabeth T. Danforth***
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -39,5 +39,5 @@ permalink: /cards/elves-of-lindon/
 > Elf Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Grey Havens if the influence check is greater than 9.  <br>_Standard Modifications:_ Dunedain (+1), Elves (+2). <br>_"Requiem: 'To the memory of Roger Zelazny’”-Elizabeth T. Danforth 
+> > _**Unique.**_ ***Playable at Grey Havens*** <br>&ensp;if the influence check is greater than 9.  <br>_Standard Modifications:_ Dunedain (+1), Elves (+2). <br>_"**Requiem:** 'To the memory of Roger Zelazny’”_ ***---&#65279;Elizabeth T. Danforth***
 > 

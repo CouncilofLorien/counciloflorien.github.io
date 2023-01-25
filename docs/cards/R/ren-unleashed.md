@@ -25,5 +25,5 @@ permalink: /cards/ren-unleashed/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable on Ren the Ringwraith (as your Ringwraith). All characters at the same site as Ren must make a corruption check modified by -2. <br>_"We will not speak of such things even in the morning of the Shire."_{: .fs-3 } ***---&#65279;LotRI***{: .fs-3 } 
+> > Playable on Ren the Ringwraith (as your Ringwraith). All characters at the same site as Ren must make a corruption check modified by -2. <br>_"We will not speak of such things even in the morning of the Shire."_ ***---&#65279;LotRI*** 
 > 

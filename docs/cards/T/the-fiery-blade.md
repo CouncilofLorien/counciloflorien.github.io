@@ -25,5 +25,5 @@ permalink: /cards/the-fiery-blade/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable on your Ringwraith or a Ringwraith follower. Each strike against the Ringwraith receives -1 body (-2 body and -2 prowess against The Witch-king). Discard The Fiery Blade after a strike against the Ringwraith fails or if the Ringwraith has Morgul-blade. Cannot be duplicated. <br>_"And with that he lifted high his sword and flames ran down the blade."_{: .fs-3 } ***---&#65279;LotRV***{: .fs-3 } 
+> > Playable on your Ringwraith or a Ringwraith follower. Each strike against the Ringwraith receives -1 body (-2 body and -2 prowess against The Witch-king). Discard The Fiery Blade after a strike against the Ringwraith fails or if the Ringwraith has Morgul-blade. Cannot be duplicated. <br>_"And with that he lifted high his sword and flames ran down the blade."_ ***---&#65279;LotRV*** 
 > 

@@ -25,7 +25,7 @@ permalink: /cards/morgul-night/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ Playable only if Doors of Night is in play, treat all Wildernesses \[![](/assets/images/wilderness.svg)] as Shadow-lands \[![](/assets/images/shadow-land.svg)] and all Shadow-lands \[![](/assets/images/shadow-land.svg)] as Dark-domains \[![](/assets/images/dark-domain.svg)]. Cannot be duplicated. <br>_"Far above a great cloud streamed slowly westward from the black land, devouring light, borne upon a wind of war...”_ ***---&#65279;LotRV***{: .fs-3 } 
+> > _Environment._ Playable only if Doors of Night is in play, treat all Wildernesses \[![](/assets/images/wilderness.svg)] as Shadow-lands \[![](/assets/images/shadow-land.svg)] and all Shadow-lands \[![](/assets/images/shadow-land.svg)] as Dark-domains \[![](/assets/images/dark-domain.svg)]. Cannot be duplicated. <br>_"Far above a great cloud streamed slowly westward from the black land, devouring light, borne upon a wind of war...”_ ***---&#65279;LotRV*** 
 >
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -42,5 +42,5 @@ permalink: /cards/morgul-night/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ Playable only if Doors of Night is in play, treat all Wildernesses \[![](/assets/images/wilderness.svg)] as Shadow-lands \[![](/assets/images/shadow-land.svg)] and all Shadow-lands \[![](/assets/images/shadow-land.svg)] as Dark-domains \[![](/assets/images/dark-domain.svg)]. Cannot be duplicated. <br>_"Far above a great cloud streamed slowly westward from the black land, devouring light, borne upon a wind of war...”_ ***---&#65279;LotRV***{: .fs-3 } 
+> > _Environment._ Playable only if Doors of Night is in play, treat all Wildernesses \[![](/assets/images/wilderness.svg)] as Shadow-lands \[![](/assets/images/shadow-land.svg)] and all Shadow-lands \[![](/assets/images/shadow-land.svg)] as Dark-domains \[![](/assets/images/dark-domain.svg)]. Cannot be duplicated. <br>_"Far above a great cloud streamed slowly westward from the black land, devouring light, borne upon a wind of war...”_ ***---&#65279;LotRV*** 
 >

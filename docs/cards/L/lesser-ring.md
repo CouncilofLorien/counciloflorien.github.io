@@ -25,7 +25,7 @@ permalink: /cards/lesser-ring/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Lesser Ring._ Playable only with a Gold Ring and after a test indicates _Lesser Ring._ +2 to direct influence. <br>_“‘The lesser rings were only essays in the craft before it was full-grown, and to the Elven-smiths they were but trifles-yet still to my mind dangerous for mortals.’”_ ***---&#65279;LotRI***{: .fs-3 } 
+> > _Lesser Ring._ Playable only with a Gold Ring and after a test indicates _Lesser Ring._ +2 to direct influence. <br>_“‘The lesser rings were only essays in the craft before it was full-grown, and to the Elven-smiths they were but trifles-yet still to my mind dangerous for mortals.’”_ ***---&#65279;LotRI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/lesser-ring/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Lesser Ring._ Playable only with a Gold Ring and after a test indicates _Lesser Ring._ +2 to direct influence. <br>_“‘The lesser rings were only essays in the craft before it was full-grown, and to the Elven-smiths they were but trifles-yet still to my mind dangerous for mortals.’”_ ***---&#65279;LotRI***{: .fs-3 } 
+> > _Lesser Ring._ Playable only with a Gold Ring and after a test indicates _Lesser Ring._ +2 to direct influence. <br>_“‘The lesser rings were only essays in the craft before it was full-grown, and to the Elven-smiths they were but trifles-yet still to my mind dangerous for mortals.’”_ ***---&#65279;LotRI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +65,7 @@ permalink: /cards/lesser-ring/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Lesser Ring._ Playable only with a Gold Ring and after a test indicates _Lesser Ring._ +2 to direct influence. <br>_“‘The lesser rings were only essays in the craft before it was full-grown, and to the Elven-smiths they were but trifles-yet still to my mind dangerous for mortals.’”_ ***---&#65279;LotRI***{: .fs-3 } 
+> > _Lesser Ring._ Playable only with a Gold Ring and after a test indicates _Lesser Ring._ +2 to direct influence. <br>_“‘The lesser rings were only essays in the craft before it was full-grown, and to the Elven-smiths they were but trifles-yet still to my mind dangerous for mortals.’”_ ***---&#65279;LotRI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
