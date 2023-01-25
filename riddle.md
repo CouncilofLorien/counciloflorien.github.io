@@ -3,8 +3,8 @@ layout: default
 title: Riddle
 nav_exclude: true
 search_exclude: true
-description: Riddle the Counsel of Lorien 
-permalink: /riddle
+description: Riddle
+permalink: /riddle/
 ---
 
 {: .px-4 .fs-4 .fw-200 .text-center }
