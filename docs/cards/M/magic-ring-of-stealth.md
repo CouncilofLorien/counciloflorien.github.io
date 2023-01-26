@@ -22,7 +22,7 @@ permalink: /cards/magic-ring-of-stealth/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Magic Ring._ Playable only with a Gold Ring and after a test indicates a _Magic Ring._ Gives the bearer scout skill. If the bearer is already a scout, he may tap the Magic Ring of Stealth to cancel a strike directed against him. May not be duplicated on a given character. 
+> > _Magic Ring._ ***Playable only with a Gold Ring and after a test indicates a Magic Ring.*** Gives the bearer scout skill. If the bearer is already a scout, he may tap the _Magic Ring of Stealth_ to cancel a strike directed against him. May not be duplicated on a given character. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -39,7 +39,7 @@ permalink: /cards/magic-ring-of-stealth/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Magic Ring._ Playable only with a Gold Ring and after a test indicates a _Magic Ring._ Gives the bearer scout skill. If the bearer is already a scout, he may tap the Magic Ring of Stealth to cancel a strike directed against him. May not be duplicated on a given character. 
+> > _Magic Ring._ ***Playable only with a Gold Ring and after a test indicates a Magic Ring.*** Gives the bearer scout skill. If the bearer is already a scout, he may tap the _Magic Ring of Stealth_ to cancel a strike directed against him. May not be duplicated on a given character. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -57,7 +57,7 @@ permalink: /cards/magic-ring-of-stealth/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Magic Ring._ Playable only with a Gold Ring and after a test indicates a _Magic Ring._ Gives the bearer scout skill. If the bearer is already a scout, he may tap the Magic Ring of Stealth to cancel a strike directed against him. May not be duplicated on a given character. 
+> > _Magic Ring._ ***Playable only with a Gold Ring and after a test indicates a Magic Ring.*** Gives the bearer scout skill. If the bearer is already a scout, he may tap the _Magic Ring of Stealth_ to cancel a strike directed against him. May not be duplicated on a given character. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

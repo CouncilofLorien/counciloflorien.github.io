@@ -22,7 +22,7 @@ permalink: /cards/the-mithril-coat/
 > Greater Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Armor._ +3 to body (to a maximum of 10). <br>_"The silver corslet shimmered before his eyes like the light upon a rippling sea. ...the gems on it glittered like stars, and the sound of the shaken rings was like the tinkle of rain in a pool."_ ***---&#65279;LotRII*** 
+> > _Unique._ _Armor._ +3 to body (to a maximum of 10). <br>_"The silver corslet shimmered before his eyes like the light upon a rippling sea. ...the gems on it glittered like stars, and the sound of the shaken rings was like the tinkle of rain in a pool."_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【&ndash;/+3】</div>
@@ -39,7 +39,7 @@ permalink: /cards/the-mithril-coat/
 > Greater Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Armor._ +3 to body (to a maximum of 10). <br>_"The silver corslet shimmered before his eyes like the light upon a rippling sea. ...the gems on it glittered like stars, and the sound of the shaken rings was like the tinkle of rain in a pool."_ ***---&#65279;LotRII*** 
+> > _Unique._ _Armor._ +3 to body (to a maximum of 10). <br>_"The silver corslet shimmered before his eyes like the light upon a rippling sea. ...the gems on it glittered like stars, and the sound of the shaken rings was like the tinkle of rain in a pool."_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【&ndash;/+3】</div>

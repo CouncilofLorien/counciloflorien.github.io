@@ -22,7 +22,7 @@ permalink: /cards/palantir-of-annuminas/
 > Greater Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Palantir._ With its bearer able to use a Palantir, tap Palantir of Annuminas to search through your play deck and discard pile for a "sage only" card. Put this card in your hand. Reshuffle your play deck. Bearer makes a corruption check. <br>_"The Palantiri came from beyond Westernesse, from Eldamar."_ ***---&#65279;LotRIII*** 
+> > _Unique._ _Palantir._ With its bearer able to use a Palantir, tap _Palantir of Annuminas_ to search through your play deck and discard pile for a "sage only" card. Put this card in your hand. Reshuffle your play deck. Bearer makes a corruption check. <br>_"The Palantiri came from beyond Westernesse, from Eldamar."_ ***---&#65279;LotRIII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -39,7 +39,7 @@ permalink: /cards/palantir-of-annuminas/
 > Greater Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Palantir._ With its bearer able to use a Palantir, tap Palantir of Annuminas to search through your play deck and discard pile for a "sage only" card. Put this card in your hand. Reshuffle your play deck. Bearer makes a corruption check. <br>_"The Palantiri came from beyond Westernesse, from Eldamar."_ ***---&#65279;LotRIII*** 
+> > _Unique._ _Palantir._ With its bearer able to use a Palantir, tap _Palantir of Annuminas_ to search through your play deck and discard pile for a "sage only" card. Put this card in your hand. Reshuffle your play deck. Bearer makes a corruption check. <br>_"The Palantiri came from beyond Westernesse, from Eldamar."_ ***---&#65279;LotRIII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

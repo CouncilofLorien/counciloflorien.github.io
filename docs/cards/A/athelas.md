@@ -22,7 +22,7 @@ permalink: /cards/athelas/
 > Minor Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > A Dunadan can tap and use this item to heal a character in his company (change from wounded to well, character remains tapped). Aragorn II can also tap and use this item to remove a corruption card from a character in his company. Discard after use. 
+> > A Dunadan can tap and use this item to heal a character in his company (change from wounded to well, character remains tapped). <br>&ensp;Aragorn II can also tap and use this item to remove a corruption card from a character in his company. <br>&ensp;Discard after use. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -39,7 +39,7 @@ permalink: /cards/athelas/
 > Minor Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > A Dunadan can tap and use this item to heal a character in his company (change from wounded to well, character remains tapped). Aragorn II can also tap and use this item to remove a corruption card from a character in his company. Discard after use. 
+> > A Dunadan can tap and use this item to heal a character in his company (change from wounded to well, character remains tapped). <br>&ensp;Aragorn II can also tap and use this item to remove a corruption card from a character in his company. <br>&ensp;Discard after use. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

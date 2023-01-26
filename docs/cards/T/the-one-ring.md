@@ -25,10 +25,10 @@ permalink: /cards/the-one-ring/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ The One Ring. Playable only with a Gold Ring and after a test indicates The One Ring. +5 prowess (to a maximum of double the bearer's starting prowess), +5 to body (to a maximum of 10), +5 to direct influence. Bearer may make a corruption check modified by -2 to cancel a strike; this does not work against Undead and Nazgul strikes. +1 corruption to every character in the bearer's company. 
+> > _Unique._ The One Ring. ***Playable only with a Gold Ring and after a test indicates The One Ring.*** +5 prowess (to a maximum of double the bearer's starting prowess), +5 to body (to a maximum of 10), +5 to direct influence. <br>&ensp;Bearer may make a corruption check modified by -2 to cancel a strike; this does not work against Undead and Nazgul strikes. <br>&ensp;+1 corruption to every character in the bearer's company. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【1】</div>
+> > <div class="card-shield">【+5/+5】</div>
 > > <div class="card-corruption">〔6〕</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -45,10 +45,10 @@ permalink: /cards/the-one-ring/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ The One Ring. Playable only with a Gold Ring and after a test indicates The One Ring. +5 prowess (to a maximum of double the bearer's starting prowess), +5 to body (to a maximum of 10), +5 to direct influence. Bearer may make a corruption check modified by -2 to cancel a strike; this does not work against Undead and Nazgul strikes. +1 corruption to every character in the bearer's company. 
+> > _Unique._ The One Ring. ***Playable only with a Gold Ring and after a test indicates The One Ring.*** +5 prowess (to a maximum of double the bearer's starting prowess), +5 to body (to a maximum of 10), +5 to direct influence. <br>&ensp;Bearer may make a corruption check modified by -2 to cancel a strike; this does not work against Undead and Nazgul strikes. <br>&ensp;+1 corruption to every character in the bearer's company. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【1】</div>
+> > <div class="card-shield">【+5/+5】</div>
 > > <div class="card-corruption">〔6〕</div>
 
 ### _Middle-earth: The Lidless Eye_

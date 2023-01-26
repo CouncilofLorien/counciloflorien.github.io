@@ -22,7 +22,7 @@ permalink: /cards/healing-herbs/
 > Minor Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > The bearer can tap and discard this item to heal a character in his company, changing the character's status from wounded to well and untapped. Alternatively, the bearer can tap and discard this item to untap a character that is not wounded. 
+> > The bearer can tap and discard this item to heal a character in his company, changing the character's status from wounded to well _and_ untapped. <br>&ensp;Alternatively, the bearer can tap and discard this item to untap a character that is not wounded. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -39,7 +39,7 @@ permalink: /cards/healing-herbs/
 > Minor Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > The bearer can tap and discard this item to heal a character in his company, changing the character's status from wounded to well and untapped. Alternatively, the bearer can tap and discard this item to untap a character that is not wounded. 
+> > The bearer can tap and discard this item to heal a character in his company, changing the character's status from wounded to well _and_ untapped. <br>&ensp;Alternatively, the bearer can tap and discard this item to untap a character that is not wounded. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

@@ -22,7 +22,7 @@ permalink: /cards/magic-ring-of-shadows/
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Magic Ring._ Playable only with a Gold Ring and after a test indicates a _Magic Ring._ Bearer can use shadow-magic If the bearer can already use shadow-magic: at the beginning of each of his end-of-turn phases, he may tap to take one shadow-magic card from your discard pile or play deck into your hand. Reshuffle your play deck. Cannot be duplicated on a given character. 
+> > _Magic Ring._ ***Playable only with a Gold Ring and after a test indicates a Magic Ring.*** Bearer can use shadow-magic If the bearer can already use shadow-magic: at the beginning of each of his end-of-turn phases, he may tap to take one shadow-magic card from your discard pile or play deck into your hand. Reshuffle your play deck. Cannot be duplicated on a given character. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

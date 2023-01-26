@@ -25,7 +25,7 @@ permalink: /cards/red-book-of-westmarch/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Only playable at Bag End. +2 to direct influence against a Hobbit character of faction. 1 marshalling point if stored at a Haven \[![](/assets/images/free-haven.svg)]. <br>_“...in a single red case, were the three large volumes, bound in red leather, that Bilbo gave to him as a parting gift...”_ ***---&#65279;LotRV*** 
+> > _Unique._ ***Only playable at Bag End.*** +2 to direct influence against a Hobbit character of faction. 1 marshalling point if stored at a Haven \[![](/assets/images/free-haven.svg)]. <br>_“...in a single red case, were the three large volumes, bound in red leather, that Bilbo gave to him as a parting gift...”_ ***---&#65279;LotRV*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/red-book-of-westmarch/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Only playable at Bag End. +2 to direct influence against a Hobbit character of faction. 1 marshalling point if stored at a Haven \[![](/assets/images/free-haven.svg)]. <br>_“...in a single red case, were the three large volumes, bound in red leather, that Bilbo gave to him as a parting gift...”_ ***---&#65279;LotRV*** 
+> > _Unique._ ***Only playable at Bag End.*** +2 to direct influence against a Hobbit character of faction. 1 marshalling point if stored at a Haven \[![](/assets/images/free-haven.svg)]. <br>_“...in a single red case, were the three large volumes, bound in red leather, that Bilbo gave to him as a parting gift...”_ ***---&#65279;LotRV*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

@@ -22,7 +22,7 @@ permalink: /cards/sting/
 > Minor Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ __Weapon.__ +1 prowess to a maximum of 8. +2 to a Hobbit's prowess to maximum of 8. <br>_"Sting flashed out, and the sharp elven-blade sparkled in the silver light, but at its edges a blue fire flickered."_ ***---&#65279;LotRIV*** 
+> > _Unique._ _Weapon._ +1 prowess to a maximum of 8., +2 to a Hobbit's prowess to maximum of 8. <br>_"Sting flashed out, and the sharp elven-blade sparkled in the silver light, but at its edges a blue fire flickered."_ ***---&#65279;LotRIV*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【+1(2)/&ndash;】</div>
@@ -39,7 +39,7 @@ permalink: /cards/sting/
 > Minor Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Weapon._ +1 prowess to a maximum of 8. +2 to a Hobbit's prowess to maximum of 8. <br>_"Sting flashed out, and the sharp elven-blade sparkled in the silver light, but at its edges a blue fire flickered."_ ***---&#65279;LotRIV*** 
+> > _Unique._ _Weapon._ +1 prowess to a maximum of 8, +2 to a Hobbit's prowess to maximum of 8. <br>_"Sting flashed out, and the sharp elven-blade sparkled in the silver light, but at its edges a blue fire flickered."_ ***---&#65279;LotRIV*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【+1(2)/&ndash;】</div>

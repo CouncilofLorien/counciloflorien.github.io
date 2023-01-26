@@ -22,7 +22,7 @@ permalink: /cards/earth-of-galadriels-orchard/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Only playable at Lorien. <br>_“‘Though you should find all barren and laid waste, there will be few gardens in Middle-earth that will bloom like your garden, if you sprinkle this earth there’”_ ***---&#65279;LotRII*** 
+> > _Unique._ ***Only playable at Lorien.*** <br>_“‘Though you should find all barren and laid waste, there will be few gardens in Middle-earth that will bloom like your garden, if you sprinkle this earth there’”_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -39,7 +39,7 @@ permalink: /cards/earth-of-galadriels-orchard/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Only playable at Lorien. <br>_“‘Though you should find all barren and laid waste, there will be few gardens in Middle-earth that will bloom like your garden, if you sprinkle this earth there’”_ ***---&#65279;LotRII*** 
+> > _Unique._ ***Only playable at Lorien.*** <br>_“‘Though you should find all barren and laid waste, there will be few gardens in Middle-earth that will bloom like your garden, if you sprinkle this earth there’”_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

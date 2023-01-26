@@ -22,7 +22,7 @@ permalink: /cards/fair-gold-ring/
 > Gold Ring Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Discard Fair Gold Ring when tested. If tested, make a roll (or draw a #) to determine which ring card may be immediately played:  * The One Ring (11,12+); * a Dwarven Ring (9,10,11,12+);  * a Magic Ring (1,2,3,4,5,6);  * a Lesser Ring (any result). 
+> > Discard _Fair Gold Ring_ when tested. If tested, make a roll (or draw a #) to determine which ring card may be immediately played:  <br>&emsp;• _The One Ring_ (11,12+); <br>&emsp;• a Dwarven Ring (9,10,11,12+);  <br>&emsp;• a Magic Ring (1,2,3,4,5,6);  <br>&emsp;• a Lesser Ring (any result). 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -39,7 +39,7 @@ permalink: /cards/fair-gold-ring/
 > Gold Ring Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Discard Fair Gold Ring when tested. If tested, make a roll (or draw a #) to determine which ring card may be immediately played:  * The One Ring (11,12+); * a Dwarven Ring (9,10,11,12+);  * a Magic Ring (1,2,3,4,5,6);  * a Lesser Ring (any result). 
+> > Discard _Fair Gold Ring_ when tested. If tested, make a roll (or draw a #) to determine which ring card may be immediately played:  <br>&emsp;• _The One Ring_ (11,12+); <br>&emsp;• a Dwarven Ring (9,10,11,12+);  <br>&emsp;• a Magic Ring (1,2,3,4,5,6);  <br>&emsp;• a Lesser Ring (any result). 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

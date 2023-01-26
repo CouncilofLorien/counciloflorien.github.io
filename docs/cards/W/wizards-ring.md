@@ -19,16 +19,16 @@ permalink: /cards/wizards-ring/
 > > <div class="card-name">Wizard's Ring</div>
 >
 > {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > [+5]![](/assets/images/di.svg)
+> > +5![](/assets/images/di.svg)
 >
 > {: .card-classification .pr-2 }
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Wizard only._ Playable only at a Haven \[![](/assets/images/free-haven.svg)]. Cannot be stored, stolen, or transferred. May not be duplicated on a given Wizard. Bearer makes a corruption check when this item is played. <br>_“‘...and there he met me and led me up to his high chamber. He wore a ring on his finger.’”_ ***---&#65279;LotRII*** 
+> > ***Wizard only.*** Playable only at a Haven \[![](/assets/images/free-haven.svg)]. Ignore any effect that would discard this item. May not be duplicated on a given Wizard. Bearer makes a corruption check when this item is played. <br>_“‘...and there he met me and led me up to his high chamber. He wore a ring on his finger.’”_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【2】</div>
+> > <div class="card-shield">【+2/+1】</div>
 > > <div class="card-corruption">〔4〕</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -39,14 +39,14 @@ permalink: /cards/wizards-ring/
 > > <div class="card-name">Wizard's Ring</div>
 >
 > {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > [+5]![](/assets/images/di.svg)
+> > +5![](/assets/images/di.svg)
 >
 > {: .card-classification .pr-2 }
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Wizard only._ Playable only at a Haven \[![](/assets/images/free-haven.svg)]. Cannot be stored, stolen, or transferred. May not be duplicated on a given Wizard. Bearer makes a corruption check when this item is played. <br>_“‘...and there he met me and led me up to his high chamber. He wore a ring on his finger.’”_ ***---&#65279;LotRII*** 
+> > ***Wizard only.*** Playable only at a Haven \[![](/assets/images/free-haven.svg)]. Cannot be stored, stolen, or transferred. May not be duplicated on a given Wizard. Bearer makes a corruption check when this item is played. <br>_“‘...and there he met me and led me up to his high chamber. He wore a ring on his finger.’”_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【2】</div>
+> > <div class="card-shield">【+2/+1】</div>
 > > <div class="card-corruption">〔4〕</div>

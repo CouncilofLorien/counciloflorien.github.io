@@ -25,7 +25,7 @@ permalink: /cards/the-arkenstone/
 > Greater Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ +3 to bearer's direct influence against Dwarves and Dwarf factions. If held by a Dwarf, The Arkenstone gives 5 marshalling points and 4 corruption points. The Arkenstone may be tapped to untap a Dwarf character in the same company, but target Dwarf must make a corruption check modified by -2. 
+> > _Unique._ +3 to bearer's direct influence against Dwarves and Dwarf factions. If held by a Dwarf, _The Arkenstone_ gives 5 marshalling points and 4 corruption points. <br>&ensp;_The Arkenstone_ may be tapped to untap a Dwarf character in the same company, but target Dwarf must make a corruption check modified by -2. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +45,7 @@ permalink: /cards/the-arkenstone/
 > Greater Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ +3 to bearer's direct influence against Dwarves and Dwarf factions. If held by a Dwarf, The Arkenstone gives 5 marshalling points and 4 corruption points. The Arkenstone may be tapped to untap a Dwarf character in the same company, but target Dwarf must make a corruption check modified by -2. 
+> > _Unique._ +3 to bearer's direct influence against Dwarves and Dwarf factions. If held by a Dwarf, _The Arkenstone_ gives 5 marshalling points and 4 corruption points. <br>&ensp;_The Arkenstone_ may be tapped to untap a Dwarf character in the same company, but target Dwarf must make a corruption check modified by -2. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
