@@ -3,7 +3,7 @@ layout: default
 title: Morgul Sanctuary
 search_exclude: true
 nav_exclude: true
-permalink: /decks/morgul-sanctuary.md
+permalink: /decks/morgul-sanctuary/
 ---
 
 # MORGUL SANCTUARY
