@@ -22,7 +22,7 @@ permalink: /cards/anduin-river/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable at the end of the organization phase on a company containing a ranger. If the company uses region cards for its site path, tap the ranger to move as if the following pairs of regions were adjacent: Rohan and Dagorlad, Anorien and Dagorlad, Anorien and Ithilien, Lebennin and Ithilien, Lebennin and Harondor. Otherwise, if the site moved to is in one of the region listed above, the hazard limit is reduced by two (to a minimum of two). Cannot be duplicated on a given company. 
+> > ***Playable at the end of the organization phase on a company containing a ranger.*** If the company uses region cards for its site path, tap the ranger to move as if the following pairs of regions were adjacent: Rohan and Dagorlad, Anorien and Dagorlad, Anorien and Ithilien, Lebennin and Ithilien, Lebennin and Harondor. <br>&ensp;Otherwise, if the site moved to is in one of the region listed above, the hazard limit is reduced by two (to a minimum of two). <br>&ensp;Cannot be duplicated on a given company. 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,5 +36,5 @@ permalink: /cards/anduin-river/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable at the end of the organization phase on a company containing a ranger. If the company uses region cards for its site path, tap the ranger to move as if the following pairs of regions were adjacent: Rohan and Dagorlad, Anorien and Dagorlad, Anorien and Ithilien, Lebennin and Ithilien, Lebennin and Harondor. Otherwise, if the site moved to is in one of the region listed above, the hazard limit is reduced by two (to a minimum of two). Cannot be duplicated on a given company. 
+> > ***Playable at the end of the organization phase on a company containing a ranger.*** If the company uses region cards for its site path, tap the ranger to move as if the following pairs of regions were adjacent: Rohan and Dagorlad, Anorien and Dagorlad, Anorien and Ithilien, Lebennin and Ithilien, Lebennin and Harondor. <br>&ensp;Otherwise, if the site moved to is in one of the region listed above, the hazard limit is reduced by two (to a minimum of two). <br>&ensp;Cannot be duplicated on a given company. 
 > 
