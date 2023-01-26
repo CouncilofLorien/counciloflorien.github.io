@@ -1952,7 +1952,7 @@ The following list provides a definition of the most common game terms. In many 
 **"Cannot be duplicated on…":** Card text that means only one copy of that card can be in play as stated: by a player, or on a given entity. No further copies of that card can be so played unless the copy in play will be removed by an action declared in the same chain of effects.  
 **Chain of Effects:** A series of actions declared in response to one another before any of them resolve. Actions in a chain of effects are resolved in the reverse order from which they were declared (last in, first out).    
 **Character:** A card representing an entity that is or directly serves a Ringwraith or Wizard.  
-**Combat:** The resolution of an attack. This involves strikes being assigned and strike sequences being performed. Combat specifically encompasses the time from the resolution of an attack action until the first strike sequence is completed. During combat, no attack may be actively declared."  
+**Combat:** The resolution of an attack. This involves strikes being assigned and strike sequences being performed. Combat specifically encompasses the time from the resolution of an attack action until the first strike sequence is completed. During combat, no attack may be actively declared.  
 **Company:** A coordinated group of characters as designed by their player.  
 **Company Size:** The number of characters in the company with Orc scouts counting half (rounded up).  
 **Condition, Active:** A prerequisite for an action actively made by a player. Typically this involves tapping a character, discarding an item, or having a character of a particular skill in play. Active conditions are declared and resolved with no time for response by an opponent or yourself.  
