@@ -180,7 +180,7 @@ Play consists of a series of "Player Turns." During your turn, you take various 
  5. Site Phase
  6. End-of-Turn Phase
 
-The steps taken during a turn are outlined in the turn summary on page 4, and in a more detailed summary provided on pages [44](#page44)-[46](#page46). <span id="page10" class="page-number">10</span>
+The steps taken during a turn are outlined in the turn summary on page 4, and in a more detailed summary provided on pages 44-46. <span id="page10" class="page-number">10</span>
 
 ## 5 • CHARACTERS & COMPANIES
 
@@ -371,14 +371,15 @@ The target's prowess may also be modified due to the play of certain resource an
 
  | Condition | Modification to Target's Prowess |
  | :--- | :--- |
- Unwounded, tapped character | -1
- Wounded character | -2
- For each unused strike allocated (i.e., each extra strike) | -1
- Untapped character decides not to tap | -3
- Up to one resource card that requires skill | varies
- Other resource cards | varies
- Hazard cards | varies
-  <span id="page18" class="page-number">18</span>
+ | Unwounded, tapped character | -1 |
+ |  Wounded character | -2 |
+ |  For each unused strike allocated (i.e., each extra strike) | -1 |
+ |  Untapped character decides not to tap | -3 |
+ | Up to one resource card that requires skill | varies |
+ |  Other resource cards | varies |
+ |  Hazard cards | varies |
+ 
+ <span id="page18" class="page-number">18</span>
  
 #### Resolving Strikes
 
@@ -449,7 +450,7 @@ When a card indicates that one of your characters must make a corruption check, 
 
 ## 9 • INFLUENCE
 
- You have a pool of general influence. Your characters and Wizard have direct influence. These two forms of influence can control and affect characters (see pages [14](#page14)-[15](#page15)) and factions.
+ You have a pool of general influence. Your characters and Wizard have direct influence. These two forms of influence can control and affect characters (see pages 14-15) and factions.
 
 #### Bringing an Ally into Play
 
@@ -495,7 +496,7 @@ During your organization phase, you may transfer items between characters at the
 
 ### ACTIONS AND CARD PLAY
 
-The various activities that you and your opponent can perform during play are called actions. Typical actions include playing a card, tapping a card, revealing a card, etc. The following general guidelines apply to resolving actions; more detailed guidelines can be found on pages [39](#page39)-[41](#page41).
+The various activities that you and your opponent can perform during play are called actions. Typical actions include playing a card, tapping a card, revealing a card, etc. The following general guidelines apply to resolving actions; more detailed guidelines can be found on pages 39-41.
 
  - You must give your opponent a chance to respond to every action, and vice versa. If you perform an action and move on to another action without giving your opponent a chance to respond, you must "backup" if he indicates that he wants to respond. A series of declared actions made in respond to one another is called a chain of effects. You always have the option of declaring the first action in a chain of effects during your turn. The actions in a chain of effects are resolved one at a time from last declared to first declared (i.e., the last declared action is resolved first, then the second to the last, etc.).
  - If the play of a card requires other actions (e.g., corruption checks), the actions are resolved in the order in which they appear on the card. 
@@ -535,7 +536,7 @@ A character may only use the effects of one _weapon_ at a time **and** one _shie
 
 If a character is eliminated by corruption, discard all of the items that he controls. If a character is eliminated due to failing a body check, one item can be transferred to each unwounded character in his company; but, the rest of his items are discarded.
 
-**Factions** — One of your characters may tap to play a faction card if he is at the site specified on the faction card **and** the character successfully influences the faction as indicated on the faction's card (see page [28](#page28)). The faction card is placed in your play area. After a faction is successfully played at a site, the site card is tapped.
+**Factions** — One of your characters may tap to play a faction card if he is at the site specified on the faction card **and** the character successfully influences the faction as indicated on the faction's card (see page 28). The faction card is placed in your play area. After a faction is successfully played at a site, the site card is tapped.
 
 ### EVENTS
 
@@ -605,7 +606,7 @@ Add your region cards to your location deck.
  
 ## 4 • THE PLAYER TURN
 
-The Standard Rules full turn sequence is presented on pages [44](#page44)-[46](#page46).
+The Standard Rules full turn sequence is presented on pages 44-46.
  
 ## 5 • CHARACTERS & COMPANIES
 
@@ -900,7 +901,7 @@ Each of your companies may do one of the following:
 
  - Stay at its current site.
  - Play another site (face down) that can be moved to directly from the company's current site (i.e., its site of origin).
- - _Standard Rules Only:_ Play a new site card and a series of up to four specific regions that connect the current site with the new site. (See Page [36](#page36).)
+ - _Standard Rules Only:_ Play a new site card and a series of up to four specific regions that connect the current site with the new site. (See Page 36.)
  
 #### Long-event Phase
 
@@ -934,7 +935,7 @@ Follow this procedure for each of your companies. You decide which of your compa
    2. If the site has an automatic-attack, it attacks the company.
    3. The company may attempt to play one item, ally, faction, or information resource card that is "playable" at that site. Generally, this will involve tapping the character that will control the card played. If the resource card is successfully played, the site card is tapped **and** one additional character may tap to play a minor item.<br>Certain resource cards other than items, allies, factions, and information will state under what conditions they may be played. Such cards may be played at tapped and untapped sites, and do not tap a site when played. 
   
-  _Standard Rules Only:_ One of your characters or your Wizard may attempt to influence away of one of your opponent's characters, followers, allies, factions, or items. See Pages [37](#page37)-[38](#page38).
+  _Standard Rules Only:_ One of your characters or your Wizard may attempt to influence away of one of your opponent's characters, followers, allies, factions, or items. See Pages 37-38.
  
 #### End-of-Turn Phase
 
