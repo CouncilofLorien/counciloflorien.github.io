@@ -22,7 +22,7 @@ permalink: /cards/paths-of-the-dead/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable only at the end of the organization phase. For its movement, a company that starts at the Dunharrow site and contains Aragorn II may move to the Vale of Erech site. The only hazard creatures that may be played on this company are Undead, but any Undead may be played on the company. 
+> > ***Playable only at the end of the organization phase.*** For its movement, a company that starts at the Dunharrow site and contains Aragorn II may move to the Vale of Erech site. The only hazard creatures that may be played on this company are Undead, but any Undead may be played on the company. 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,5 +36,5 @@ permalink: /cards/paths-of-the-dead/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable only at the end of the organization phase. For its movement, a company that starts at the Dunharrow site and contains Aragorn II may move to the Vale of Erech site. The only hazard creatures that may be played on this company are Undead, but any Undead may be played on the company. 
+> > ***Playable only at the end of the organization phase.*** For its movement, a company that starts at the Dunharrow site and contains Aragorn II may move to the Vale of Erech site. The only hazard creatures that may be played on this company are Undead, but any Undead may be played on the company. 
 > 

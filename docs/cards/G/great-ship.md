@@ -22,7 +22,7 @@ permalink: /cards/great-ship/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Tap a character in target company during the organization phase to play Great Ship on that company. If a company's current site path contains a coastal sea region and no consecutive non-coastal sea regions, until the end of the turn any character in the company may tap to cancel the effects of one hazard that targets the company. <br>_“...he chose the greatest ship to be his own, and he went up into it. Then he let sound a great concourse of trumpets...”_ ***---&#65279;LotRV*** 
+> > If company's current site path contains a coastal sea region, until the end of the turn any character in the company may tap to cancel the effects of one hazard that targets the company. <br>_“...he chose the greatest ship to be his own, and he went up into it. Then he let sound a great concourse of trumpets...”_ ***---&#65279;LotRV*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,7 +36,7 @@ permalink: /cards/great-ship/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Tap a character in target company during the organization phase to play Great Ship on that company. If a company's current site path contains a coastal sea region and no consecutive non-coastal sea regions, until the end of the turn any character in the company may tap to cancel the effects of one hazard that targets the company. <br>_“...he chose the greatest ship to be his own, and he went up into it. Then he let sound a great concourse of trumpets...”_ ***---&#65279;LotRV*** 
+> > ***Playable on a company during the organization phase.*** If company's current site path contains a coastal sea region and no consecutive non-coastal sea regions, until the end of the turn any character in the company may tap to cancel the effects of one hazard that targets the company. <br>_“...he chose the greatest ship to be his own, and he went up into it. Then he let sound a great concourse of trumpets...”_ ***---&#65279;LotRV*** 
 > 
 
 ### _Middle-earth Challenge Decks_

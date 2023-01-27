@@ -22,7 +22,7 @@ permalink: /cards/great-road/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable only at the end of the organization phase on a company that starts at a Haven \[![](/assets/images/free-haven.svg)]. Opponent may draw up to twice the normal number of cards for this company during the movement/hazard phase. At the end of the turn, the company may replace its site card with the Haven card at which it began the turn. 
+> > ***Playable only at the end of the organization phase on a company that starts at a Haven \[![](/assets/images/free-haven.svg)].*** Opponent draws twice the normal number of cards for this company during the movement/hazard phase. At the end of the turn, the company may replace its site card with the Haven card at which it began the turn. 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,7 +36,7 @@ permalink: /cards/great-road/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable only at the end of the organization phase on a company that starts at a Haven \[![](/assets/images/free-haven.svg)]. Opponent may draw up to twice the normal number of cards for this company during the movement/hazard phase. At the end of the turn, the company may replace its site card with the Haven card at which it began the turn. 
+> > ***Playable only at the end of the organization phase on a company that starts at a Haven \[![](/assets/images/free-haven.svg)].*** Opponent may draw up to twice the normal number of cards for this company during the movement/hazard phase. At the end of the turn, the company may replace its site card with the Haven card at which it began the turn. 
 > 
 
 ### _Middle-earth Challenge Decks_
@@ -51,5 +51,5 @@ permalink: /cards/great-road/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable only at the end of the organization phase on a company that starts at a Haven \[![](/assets/images/free-haven.svg)]. Opponent may draw up to twice the normal number of cards for this company during the movement/hazard phase. At the end of the turn, the company may replace its site card with the Haven card at which it began the turn. 
+> > ***Playable only at the end of the organization phase on a company that starts at a Haven \[![](/assets/images/free-haven.svg)].*** Opponent may draw up to twice the normal number of cards for this company during the movement/hazard phase. At the end of the turn, the company may replace its site card with the Haven card at which it began the turn. 
 > 

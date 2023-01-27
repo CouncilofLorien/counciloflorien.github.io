@@ -22,7 +22,7 @@ permalink: /cards/old-road/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Allows a character at a Haven \[![](/assets/images/free-haven.svg)] to attempt to bring a faction into play. The length of the site path from this Haven to the site at which the faction can be played must be two or less (this must be verified by an available site card). The influence check for this attempt is modified by -1 and is not modified by the influencing character's direct influence. 
+> > Allows a character at a Haven \[![](/assets/images/free-haven.svg)] to attempt to bring a faction into play. The length of the site path from this Haven to the site at which the faction can be played must be two or less (this must be verified by an available site card). The influence check for this attempt is modified by -1 and is _not_ modified by the influencing character's direct influence. 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,5 +36,5 @@ permalink: /cards/old-road/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Allows a character at a Haven \[![](/assets/images/free-haven.svg)] to attempt to bring a faction into play. The length of the site path from this Haven to the site at which the faction can be played must be two or less (this must be verified by an available site card). The influence check for this attempt is modified by -1 and is not modified by the influencing character's direct influence. 
+> > Allows a character at a Haven \[![](/assets/images/free-haven.svg)] to attempt to bring a faction into play. The length of the site path from this Haven to the site at which the faction can be played must be two or less (this must be verified by an available site card). The influence check for this attempt is modified by -1 and is _not_ modified by the influencing character's direct influence. 
 > 

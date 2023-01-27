@@ -22,7 +22,7 @@ permalink: /cards/lordly-presence/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Diplomat only._ +5 to an influence check against a faction. If the influence check is successful, draw a card. <br>_"He raised his staff. There was a roll of thunder...the whole hall became suddenly dark as night...Only Gandalf could be seen, standing white and tall before the blackened hearth."_ ***---&#65279;LotRIII*** 
+> > _**Diplomat only.**_ +5 to an influence check against a faction. <br>&ensp;If the influence check is successful, draw a card. <br>_"He raised his staff. There was a roll of thunder...the whole hall became suddenly dark as night...Only Gandalf could be seen, standing white and tall before the blackened hearth."_ ***---&#65279;LotRIII*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,5 +36,5 @@ permalink: /cards/lordly-presence/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Diplomat only._ +5 to an influence check against a faction. If the influence check is successful, draw a card. <br>_"He raised his staff. There was a roll of thunder...the whole hall became suddenly dark as night...Only Gandalf could be seen, standing white and tall before the blackened hearth."_ ***---&#65279;LotRIII*** 
+> > _**Diplomat only.**_ +5 to an influence check against a faction. <br>&ensp;If the influence check is successful, draw a card. <br>_"He raised his staff. There was a roll of thunder...the whole hall became suddenly dark as night...Only Gandalf could be seen, standing white and tall before the blackened hearth."_ ***---&#65279;LotRIII*** 
 > 

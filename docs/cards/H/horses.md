@@ -22,7 +22,7 @@ permalink: /cards/horses/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable only at the end of the organization phase. Hazard limit for a company is decreased by two (to a minimum of 2). The prowess of any hazard creatures played against this company is modified by +2. <br>_"We both have need of haste...This is my choice. You may go; and what is more, I will lend you horses."_ ***---&#65279;LotRIII*** 
+> > Hazard limit for a company is decreased by two (to a minimum of 2). The prowess of any hazard creatures played against this company is modified by +2. <br>_"We both have need of haste...This is my choice. You may go; and what is more, I will lend you horses."_ ***---&#65279;LotRIII*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,5 +36,5 @@ permalink: /cards/horses/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable only at the end of the organization phase. Hazard limit for a company is decreased by two (to a minimum of 2). The prowess of any hazard creatures played against this company is modified by +2. <br>_"We both have need of haste...This is my choice. You may go; and what is more, I will lend you horses."_ ***---&#65279;LotRIII*** 
+> > ***Playable only at the end of the organization phase.*** Hazard limit for a company is decreased by two (to a minimum of 2). The prowess of any hazard creatures played against this company is modified by +2. <br>_"We both have need of haste...This is my choice. You may go; and what is more, I will lend you horses."_ ***---&#65279;LotRIII*** 
 > 

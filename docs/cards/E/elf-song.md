@@ -22,7 +22,7 @@ permalink: /cards/elf-song/
 > Long-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > When Elf-song comes into play, each character at a Haven \[![](/assets/images/free-haven.svg)] may immediately remove one corruption card. While Elf-song is in play, no character at a Haven may be discarded or returned to its owner's hand for any reason.   <br>_“...she sang. Sad and sweet was the sound of her voice in the cool clear air...”_ ***---&#65279;LotRII*** 
+> > When _Elf-song_ comes into play, each character at a Haven \[![](/assets/images/free-haven.svg)] may immediately remove one corruption card. <br>&ensp;While _Elf-song_ is in play, no character at a Haven may be discarded or returned to its owner's hand for any reason.   <br>_“...she sang. Sad and sweet was the sound of her voice in the cool clear air...”_ ***---&#65279;LotRII*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,5 +36,5 @@ permalink: /cards/elf-song/
 > Long-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > When Elf-song comes into play, each character at a Haven \[![](/assets/images/free-haven.svg)] may immediately remove one corruption card. While Elf-song is in play, no character at a Haven may be discarded or returned to its owner's hand for any reason.   <br>_“...she sang. Sad and sweet was the sound of her voice in the cool clear air...”_ ***---&#65279;LotRII*** 
+> > When _Elf-song_ comes into play, each character at a Haven \[![](/assets/images/free-haven.svg)] may immediately remove one corruption card. <br>&ensp;While _Elf-song_ is in play, no character at a Haven may be discarded or returned to its owner's hand for any reason.   <br>_“...she sang. Sad and sweet was the sound of her voice in the cool clear air...”_ ***---&#65279;LotRII*** 
 > 

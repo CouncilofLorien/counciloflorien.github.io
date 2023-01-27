@@ -22,7 +22,7 @@ permalink: /cards/favor-of-the-valar/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable during your organization phase. Shuffle your hand and your discard pile into your play deck (site cards remain in the discard pile). Draw a new hand of 8 cards. Remove Favor of the Valar from the game. <br>_"Thus came Aragorn son of Arathorn...from the Sea to the kingdom of Gondor."_ ***---&#65279;LotRV*** 
+> > _Unique._ Playable during your organization phase. Shuffle your hand and your discard pile into your play deck (site cards remain in the discard pile). Draw a new hand of 8 cards. Remove Favor of the Valar from the game. <br>_"Thus came Aragorn son of Arathorn...from the Sea to the kingdom of Gondor."_ ***---&#65279;LotRV*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,5 +36,5 @@ permalink: /cards/favor-of-the-valar/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable during your organization phase. Shuffle your hand and your discard pile into your play deck (site cards remain in the discard pile). Draw a new hand of 8 cards. Remove Favor of the Valar from the game. <br>_"Thus came Aragorn son of Arathorn...from the Sea to the kingdom of Gondor."_ ***---&#65279;LotRV*** 
+> > _Unique._ Playable during your organization phase. Shuffle your hand and your discard pile into your play deck (site cards remain in the discard pile). Draw a new hand of 8 cards. Remove _Favor of the Valar_ from the game. <br>_"Thus came Aragorn son of Arathorn...from the Sea to the kingdom of Gondor."_ ***---&#65279;LotRV*** 
 > 

@@ -22,7 +22,7 @@ permalink: /cards/fair-travels-in-shadow-lands/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable at the end of the organization phase if target company plays a new site card. If the site path has at least one Shadow-land \[![](/assets/images/shadow-land.svg)], the hazard limit for the target company decreases by one (or by two if Gates of Morning is in play) to a minimum of two. Cannot be duplicated on the same company. 
+> > ***Playable at the end of the organization phase*** if target company plays a new site card. If the site path has at least one Shadow-land \[![](/assets/images/shadow-land.svg)], the hazard limit for the target company decreases by one (or by two if _Gates of Morning_ is in play) to a minimum of two. Cannot be duplicated on the same company. 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,5 +36,5 @@ permalink: /cards/fair-travels-in-shadow-lands/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable at the end of the organization phase if target company plays a new site card. If the site path has at least one Shadow-land \[![](/assets/images/shadow-land.svg)], the hazard limit for the target company decreases by one (or by two if Gates of Morning is in play) to a minimum of two. Cannot be duplicated on the same company. 
+> > ***Playable at the end of the organization phase*** if target company plays a new site card. If the site path has at least one Shadow-land \[![](/assets/images/shadow-land.svg)], the hazard limit for the target company decreases by one (or by two if _Gates of Morning_ is in play) to a minimum of two. Cannot be duplicated on the same company. 
 > 

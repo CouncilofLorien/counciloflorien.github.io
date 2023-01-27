@@ -22,7 +22,7 @@ permalink: /cards/gates-of-morning/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Environment._ When Gates of Morning is played, all environment hazard cards in play are immediately discarded, and all hazard environment effects are canceled. Cannot be duplicated. <br>_"Day came pale from the East. As the light grew it filtered through the yellow leaves...the early sun of a cool summer's morning was shining."_ ***---&#65279;LotRII*** 
+> > _Environment._ All environment hazard cards in play are immediately discarded, and all hazard environment effects are canceled. <br>&ensp;Cannot be duplicated. <br>_"Day came pale from the East. As the light grew it filtered through the yellow leaves...the early sun of a cool summer's morning was shining."_ ***---&#65279;LotRII*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,7 +36,7 @@ permalink: /cards/gates-of-morning/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Environment._ When Gates of Morning is played, all environment hazard cards in play are immediately discarded, and all hazard environment effects are canceled. Cannot be duplicated. <br>_"Day came pale from the East. As the light grew it filtered through the yellow leaves...the early sun of a cool summer's morning was shining."_ ***---&#65279;LotRII*** 
+> > _Environment._ When _Gates of Morning_ is played, all environment hazard cards in play are immediately discarded, and all hazard environment effects are canceled. <br>&ensp;Cannot be duplicated. <br>_"Day came pale from the East. As the light grew it filtered through the yellow leaves...the early sun of a cool summer's morning was shining."_ ***---&#65279;LotRII*** 
 > 
 
 ### _Middle-earth Challenge Decks_
@@ -51,5 +51,5 @@ permalink: /cards/gates-of-morning/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Environment._ When Gates of Morning is played, all environment hazard cards in play are immediately discarded, and all hazard environment effects are canceled. Cannot be duplicated. <br>_"Day came pale from the East. As the light grew it filtered through the yellow leaves...the early sun of a cool summer's morning was shining."_ ***---&#65279;LotRII*** 
+> > _Environment._ When _Gates of Morning_ is played, all environment hazard cards in play are immediately discarded, and all hazard environment effects are canceled. <br>&ensp;Cannot be duplicated. <br>_"Day came pale from the East. As the light grew it filtered through the yellow leaves...the early sun of a cool summer's morning was shining."_ ***---&#65279;LotRII*** 
 > 
