@@ -327,6 +327,16 @@ $stage-resource-text-300: #f2edde;
   float: right;
 }
 
+.page-number {
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+  cursor: default;
+}
+
 .contact-form {
   input[type="text"],
   input[type="email"],
