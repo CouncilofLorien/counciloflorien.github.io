@@ -27,7 +27,7 @@ CONTENTS
 
 |  &emsp; [Using This Rulesbook](#using-this-rulesbook)    <br>&emsp; [Player Turn Summary](#player-turn-summary)    <br>&emsp; [Player Notes](#player-notes)    <br>**Part I — The Starter Rules**    <br>&emsp; [1 • The Victory Conditions](#1--the-victory-conditions)    <br>&emsp; [2 • The Cards and Decks](#2--the-cards-and-decks)    <br>&emsp; [3 • Getting Ready to Play](#3--getting-ready-to-play)    <br>&emsp; [4 • The Player Turn](#4--the-player-turn)    <br>&emsp; [5 • Characters and Companies](#5--characters--companies)    <br>&emsp; [6 • Movement](#6--movement)      <br>&emsp; [7 • Combat](#7--combat)     <br>&emsp; [8 • Corruption](#8--corruption)      <br>&emsp; [9 • Influence](#9--influence)    <br>&emsp; [10 • Playing and Drawing Cards](#10--playing-and-drawing-cards)    <br>**Part II — The Standard Rules**    <br>&emsp; [1 • The Victory Conditions](#1--the-victory-conditions-1)      <br>&emsp; [2 • The Cards and Decks](#2--the-cards-and-decks-1)    <br>&emsp; [3 • Getting Ready to Play](#3--getting-ready-to-play-1)    <br>&emsp; [4 • The Player Turn](#4--the-player-turn-1)    <br>&emsp; [5 • Characters and Companies](#5--characters--companies-1)  <br>&emsp; [6 • Movement](#6--movement-1)  |  &emsp; [7 • Combat](#7--combat-1)    <br>&emsp; [8 • Corruption](#8--corruption-1)    <br>&emsp; [9 • Influence](#9--influence-1)     <br>&emsp; [10 • Playing and Drawing Cards](#10--playing-and-drawing-cards-1)     <br>**Part III — Optional Rules**    <br>&emsp; Special Rules for Character Death    <br>&emsp; [Special Movement to Gorgoroth](#special-movement-to-gorgoroth-rules)    <br>&emsp; [Burglaring](#burglaring)    <br>&emsp; [Recently Visited Sites](#recently-visited-sites)    <br>&emsp; [Tapping to Face Multiple Strikes](#tapping-to-face-multiple-strikes)    <br>&emsp; [Multi-player Rules](#multi-player-rules)    <br>&emsp; [Solitaire Rules](#solitaire-rules)    <br>**The Appendices**    <br>&emsp; [Card Diagrams](#card-diagrams)     <br>&emsp; [Map of Middle-earth](#map-of-middle-earth)    <br>&emsp; [Map Index](#map-index)    <br>&emsp; [Full Player Turn Summary](#full-player-turn-summary)    <br>&emsp; [Symbol Key](#symbol-key)    <br>&emsp; [Combat Modifications](#combat-modifications) <br>&emsp; [Credits](#credits) <br>&emsp; |
 
-<span id="page2" class="page-numbers">[2]</span>
+<span id="page2" class="page-number">[2]</span>
 
 ## INTRODUCTION
 
@@ -39,7 +39,7 @@ In _The Lord of the Rings_, Gandalf was the only Wizard to succeed. Saruman was 
 
 "Evil Forces" are represented by _hazards_ that the players use against one another. For example, if you move a character into Moria, your opponent could play a Troll card as a hazard. These hazards are not "controlled" by the Wizards, but rather they represent the forces of Sauron, who himself is in a "dormant" or hiding phase. The players are "good," so conflict takes the form of hazards and direct attempts to "persuade" or "dominate" each other and each other's characters and forces.
 
-<span id="page3" class="page-numbers">[3]</span>
+<span id="page3" class="page-number">[3]</span>
 
 ## USING THIS RULESBOOK
 
@@ -56,7 +56,7 @@ _The Appendices_ — This part contains reference material that can prove useful
 
 The Starter and Standard Rules are for a two-player game; multi-player rules are provided in the Optional Rules.
 
-<span id="page4" class="page-numbers">[4]</span>
+<span id="page4" class="page-number">[4]</span>
 
 ## PLAYER TURN SUMMARY
 
@@ -74,7 +74,7 @@ _Site Phase_ — One at a time, each of your companies _may_ take the following 
  
 _End-of-Turn Phase_ — Each player may discard one card. Then each player must draw or discard so that his hand has eight cards.
 
-<span id="page4" class="page-numbers">[4]</span>
+<span id="page4" class="page-number">[5]</span>
  
 ## PLAYER NOTES
 
@@ -89,7 +89,7 @@ _End-of-Turn Phase_ — Each player may discard one card. Then each player must 
 - The players in _METW_ are in direct competition with each other to marshal resources. However, only hazards directly attack the players' characters and they are handled in a less controlled fashion (e.g., they are only played during your opponent's movement/hazard phase, hazard creatures do not remain in play, etc.).
 - For timing purposes, all cards in _METW_ are played and tapped with the same "speed" (effects take place instantly). But, a player may only play resource cards during his own turn, and a player may only play hazard cards during his opponent's movement/hazard phase.
 
-<span id="page6" class="page-numbers">[6]</span>
+<span id="page6" class="page-number">[6]</span>
 
 # • PART I •<br/>THE STARTER RULES
         
@@ -114,7 +114,7 @@ To get a general idea of how to play, read the Starter Rules sections that are m
  - You may choose to call the council at the end of your turn if you have accumulated at least 20 marshalling points. The council starts at the end of your opponent's next turn (i.e., your opponent gets one last turn).
  > **Note:** _If one or both players only has access to a starter deck (76 cards), this requirement of 20 marshalling points should be lowered to 18._
 
-<span id="page7" class="page-numbers">[7]</span>
+<span id="page7" class="page-number">[7]</span>
 
 #### The Free Council
 
@@ -159,14 +159,14 @@ _Marshalling Point Pile_ (_MP pile_) — When certain cards are removed from pla
 
  If a card states that it is "unique" or that it "may not be duplicated," only one such card (or its effects) may be in play at a time. The first card played takes precedence (influence checks may change this).
 
-<span id="page9" class="page-numbers">[9]</span>
+<span id="page9" class="page-number">[9]</span>
 
 {: .text-center }
 ![](/assets/images/cardsanddecks-limited.svg)
           
 Because hazard cards are distinct from resource cards, you may not play your hazards on your side of the playing surface. At the end of a game, it will be obvious whose cards are whose, i.e., hazards in your area must belong to your opponent. We suggest adopting a neutral zone between each player's side of the playing surface. Non-targeted long-events and permanent-events can be played in this neutral zone.
  
-## <span id="page10" class="page-numbers">[10]</span>3 • GETTING READY TO PLAY
+## <span id="page10" class="page-number">[10]</span>3 • GETTING READY TO PLAY
 
 Follow these steps to get ready to play:
 
