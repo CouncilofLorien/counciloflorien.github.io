@@ -335,6 +335,8 @@ $stage-resource-text-300: #f2edde;
   -o-user-select: none;
   user-select: none;
   cursor: default;
+  @include fs-2;
+  color: $grey-md-000;
 }
 
 .contact-form {
