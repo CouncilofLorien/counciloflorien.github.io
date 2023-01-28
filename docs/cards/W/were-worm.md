@@ -19,7 +19,7 @@ permalink: /cards/were-worm/
 > > <div class="card-name">Were-worm</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg)
+> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/wilderness.svg)&emsp![](/assets/images/wilderness.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature

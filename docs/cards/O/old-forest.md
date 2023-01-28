@@ -19,7 +19,7 @@ permalink: /cards/old-forest/
 > > <div class="character-card-name">Old Forest</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg)
+> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/wilderness.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Cardolan
@@ -39,7 +39,7 @@ permalink: /cards/old-forest/
 > > <div class="character-card-name">Old Forest</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg)
+> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/wilderness.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Cardolan
@@ -59,7 +59,7 @@ permalink: /cards/old-forest/
 > > <div class="card-name">Old Forest</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg)
+> > ![](/assets/images/shadow-land.svg)&emsp![](/assets/images/wilderness.svg)&emsp![](/assets/images/wilderness.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Cardolan
@@ -79,7 +79,7 @@ permalink: /cards/old-forest/
 > > <div class="character-card-name">Old Forest</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg)
+> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/wilderness.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Cardolan

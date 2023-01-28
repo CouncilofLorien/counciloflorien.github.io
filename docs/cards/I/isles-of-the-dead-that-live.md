@@ -19,7 +19,7 @@ permalink: /cards/isles-of-the-dead-that-live/
 > > <div class="character-card-name">Isles of the Dead that Live</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/free-domain.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg)
+> > ![](/assets/images/free-domain.svg)&emsp![](/assets/images/coastalsea.svg)&emsp![](/assets/images/coastalsea.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Eriadoran Coast
@@ -39,7 +39,7 @@ permalink: /cards/isles-of-the-dead-that-live/
 > > <div class="character-card-name">Isles of the Dead that Live</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/free-domain.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg)
+> > ![](/assets/images/free-domain.svg)&emsp![](/assets/images/coastalsea.svg)&emsp![](/assets/images/coastalsea.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Eriadoran Coast
@@ -59,7 +59,7 @@ permalink: /cards/isles-of-the-dead-that-live/
 > > <div class="card-name">Isles of the Dead That Live</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg) ![](/assets/images/coastalsea.svg)
+> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/coastalsea.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Eriadoran Coast

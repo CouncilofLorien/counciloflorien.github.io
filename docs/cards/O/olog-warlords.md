@@ -19,7 +19,7 @@ permalink: /cards/olog-warlords/
 > > <div class="card-name">Olog Warlords</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg) ![](/assets/images/shadow-hold.svg) ![](/assets/images/dark-hold.svg)
+> > ![](/assets/images/shadow-land.svg)&emsp![](/assets/images/dark-domain.svg)&emsp![](/assets/images/shadow-hold.svg)&emsp![](/assets/images/dark-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature

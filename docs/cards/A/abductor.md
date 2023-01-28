@@ -19,7 +19,7 @@ permalink: /cards/abductor/
 > > <div class="card-name">Abductor</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg) ![](/assets/images/border-hold.svg)
+> > ![](/assets/images/border-land.svg)&emsp![](/assets/images/border-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -39,7 +39,7 @@ permalink: /cards/abductor/
 > > <div class="card-name">Abductor</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg) ![](/assets/images/border-hold.svg)
+> > ![](/assets/images/border-land.svg)&emsp![](/assets/images/border-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -59,7 +59,7 @@ permalink: /cards/abductor/
 > > <div class="card-name">Abductor</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg) ![](/assets/images/border-hold.svg)
+> > ![](/assets/images/border-land.svg)&emsp![](/assets/images/border-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature

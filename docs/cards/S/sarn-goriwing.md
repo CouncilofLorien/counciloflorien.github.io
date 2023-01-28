@@ -19,7 +19,7 @@ permalink: /cards/sarn-goriwing/
 > > <div class="character-card-name">Sarn Goriwing</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg)
+> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/border-land.svg)&emsp![](/assets/images/wilderness.svg)&emsp![](/assets/images/wilderness.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Heart of Mirkwood
@@ -39,7 +39,7 @@ permalink: /cards/sarn-goriwing/
 > > <div class="character-card-name">Sarn Goriwing</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg)
+> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/border-land.svg)&emsp![](/assets/images/wilderness.svg)&emsp![](/assets/images/wilderness.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Heart of Mirkwood
@@ -59,7 +59,7 @@ permalink: /cards/sarn-goriwing/
 > > <div class="card-name">Sarn Goriwing</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/dark-domain.svg) ![](/assets/images/wilderness.svg)
+> > ![](/assets/images/dark-domain.svg)&emsp![](/assets/images/wilderness.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Heart of Mirkwood
@@ -79,7 +79,7 @@ permalink: /cards/sarn-goriwing/
 > > <div class="character-card-name">Sarn Goriwing</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg)
+> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/border-land.svg)&emsp![](/assets/images/wilderness.svg)&emsp![](/assets/images/wilderness.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Heart of Mirkwood
@@ -99,7 +99,7 @@ permalink: /cards/sarn-goriwing/
 > > <div class="card-name">Sarn Goriwing</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/dark-domain.svg) ![](/assets/images/wilderness.svg)
+> > ![](/assets/images/dark-domain.svg)&emsp![](/assets/images/wilderness.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Heart of Mirkwood
@@ -119,7 +119,7 @@ permalink: /cards/sarn-goriwing/
 > > <div class="card-name">Sarn Goriwing</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/dark-domain.svg) ![](/assets/images/wilderness.svg)
+> > ![](/assets/images/dark-domain.svg)&emsp![](/assets/images/wilderness.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Heart of Mirkwood

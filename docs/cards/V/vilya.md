@@ -22,7 +22,7 @@ permalink: /cards/vilya/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Elrond only._ +4 prowess, +2 body, +6 direct influence until the end of the turn. If Elrond is at Rivendell and your play deck has at least 5 cards in it, you may take 3 resource cards of your choice from your discard pile and shuffle them into your play deck. Elrond makes a corruption check modified by -3. Cannot be duplicated on a given turn. <br>_“...mightiest of the Three."_ ***---&#65279;LotRVI*** 
+> > _**Elrond only.**_ +4 prowess, +2 body, +6 direct influence until the end of the turn. If your play deck has at least 5 cards in it, you may take 5 resource cards of your choice from your discard pile and shuffle them into your play deck. Elrond makes a corruption check modified by -3. <br>_“...mightiest of the Three."_ ***---&#65279;LotRVI*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,7 +36,7 @@ permalink: /cards/vilya/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Elrond only._ +4 prowess, +2 body, +6 direct influence until the end of the turn. If Elrond is at Rivendell and your play deck has at least 5 cards in it, you may take 3 resource cards of your choice from your discard pile and shuffle them into your play deck. Elrond makes a corruption check modified by -3. Cannot be duplicated on a given turn. <br>_“...mightiest of the Three."_ ***---&#65279;LotRVI*** 
+> > _**Elrond only.**_ +4 prowess, +2 body, +6 direct influence until the end of the turn. If your play deck has at least 5 cards in it, you may take 5 resource cards of your choice from your discard pile and shuffle them into your play deck. Elrond makes a corruption check modified by -3. <br>_“...mightiest of the Three."_ ***---&#65279;LotRVI*** 
 > 
 
 ### _Middle-earth Challenge Decks_
@@ -51,5 +51,5 @@ permalink: /cards/vilya/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Elrond only._ +4 prowess, +2 body, +6 direct influence until the end of the turn. If Elrond is at Rivendell and your play deck has at least 5 cards in it, you may take 3 resource cards of your choice from your discard pile and shuffle them into your play deck. Elrond makes a corruption check modified by -3. Cannot be duplicated on a given turn. <br>_“...mightiest of the Three."_ ***---&#65279;LotRVI*** 
+> > _**Playable on Elrond only.**_ +4 prowess, +2 body, +6 direct influence until the end of the turn. If Elrond is at Rivendell and your play deck has at least 5 cards in it, you may take 3 resource cards of your choice from your discard pile and shuffle them into your play deck. Elrond makes a corruption check modified by -3. Cannot be duplicated on a given turn. <br>_“...mightiest of the Three."_ ***---&#65279;LotRVI*** 
 > 

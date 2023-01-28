@@ -22,7 +22,7 @@ permalink: /cards/stars/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Environment._ Modify the prowess of one Undead attack by -1. Alternatively, if Gates of Morning is in play, until the end of the turn, treat one Dark-domain \[![](/assets/images/dark-domain.svg)] as a Shadow-land \[![](/assets/images/shadow-land.svg)] or one Shadow-land \[![](/assets/images/shadow-land.svg)] as a Wilderness \[![](/assets/images/wilderness.svg)]. Cannot be duplicated. 
+> > _Environment._ Modify the prowess of one Undead attack by -1. <br>&ensp;Alternatively, if _Gates of Morning_ is in play, until the end of the turn, treat one Dark-domain \[![](/assets/images/dark-domain.svg)] as a Shadow-land \[![](/assets/images/shadow-land.svg)] **or** one Shadow-land \[![](/assets/images/shadow-land.svg)] as a Wilderness \[![](/assets/images/wilderness.svg)]. <br>&ensp;Cannot be duplicated. 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,5 +36,5 @@ permalink: /cards/stars/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Environment._ Modify the prowess of one Undead attack by -1. Alternatively, if Gates of Morning is in play, until the end of the turn, treat one Dark-domain \[![](/assets/images/dark-domain.svg)] as a Shadow-land \[![](/assets/images/shadow-land.svg)] or one Shadow-land \[![](/assets/images/shadow-land.svg)] as a Wilderness \[![](/assets/images/wilderness.svg)]. Cannot be duplicated. 
+> > _Environment._ Modify the prowess of one Undead attack by -1. <br>&ensp;Alternatively, if _Gates of Morning_ is in play, until the end of the turn, treat one Dark-domain \[![](/assets/images/dark-domain.svg)] as a Shadow-land \[![](/assets/images/shadow-land.svg)] **or** one Shadow-land \[![](/assets/images/shadow-land.svg)] as a Wilderness \[![](/assets/images/wilderness.svg)]. <br>&ensp;Cannot be duplicated. 
 > 

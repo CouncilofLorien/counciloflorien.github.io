@@ -22,7 +22,7 @@ permalink: /cards/far-sight/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Sage only during the site phase at an untapped site where "Information" is playable. Tap the sage and the site to search through your play deck and choose an item that you must reveal to your opponent. This item is placed in your hand and the play deck is reshuffled. The sage makes a corruption check. 
+> > ***Sage only during the site phase at an untapped site where "Information" is playable.*** Tap the sage and the site to search through your play deck and choose an item that you must reveal to your opponent. This item is placed in your hand and the play deck is reshuffled. The sage makes a corruption check. 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,5 +36,5 @@ permalink: /cards/far-sight/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Sage only during the site phase at an untapped site where "Information" is playable. Tap the sage and the site to search through your play deck and choose an item that you must reveal to your opponent. This item is placed in your hand and the play deck is reshuffled. The sage makes a corruption check. 
+> > ***Sage only during the site phase at an untapped site where "Information" is playable.*** Tap the sage and the site to search through your play deck and choose an item that you must reveal to your opponent. This item is placed in your hand and the play deck is reshuffled. The sage makes a corruption check. 
 > 

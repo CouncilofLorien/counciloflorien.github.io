@@ -19,7 +19,7 @@ permalink: /cards/mount-gram/
 > > <div class="character-card-name">Mount Gram</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg) ![](/assets/images/shadow-land.svg)
+> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/shadow-land.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Angmar
@@ -39,7 +39,7 @@ permalink: /cards/mount-gram/
 > > <div class="character-card-name">Mount Gram</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg) ![](/assets/images/shadow-land.svg)
+> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/shadow-land.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Angmar
@@ -79,7 +79,7 @@ permalink: /cards/mount-gram/
 > > <div class="character-card-name">Mount Gram</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg) ![](/assets/images/shadow-land.svg)
+> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/shadow-land.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Angmar

@@ -19,7 +19,7 @@ permalink: /cards/bag-end/
 > > <div class="character-card-name">Bag End</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/free-domain.svg)
+> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/wilderness.svg)&emsp![](/assets/images/free-domain.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Shire
@@ -39,7 +39,7 @@ permalink: /cards/bag-end/
 > > <div class="character-card-name">Bag End</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/free-domain.svg)
+> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/wilderness.svg)&emsp![](/assets/images/free-domain.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Shire
@@ -59,7 +59,7 @@ permalink: /cards/bag-end/
 > > <div class="card-name">Bag End</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/free-domain.svg)
+> > ![](/assets/images/shadow-land.svg)&emsp![](/assets/images/wilderness.svg)&emsp![](/assets/images/free-domain.svg)
 >
 > {: .hazard-classification .pr-2 }
 > The Shire
@@ -79,7 +79,7 @@ permalink: /cards/bag-end/
 > > <div class="card-name">Bag End</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/free-domain.svg)
+> > ![](/assets/images/shadow-land.svg)&emsp![](/assets/images/wilderness.svg)&emsp![](/assets/images/free-domain.svg)
 >
 > {: .hazard-classification .pr-2 }
 > The Shire

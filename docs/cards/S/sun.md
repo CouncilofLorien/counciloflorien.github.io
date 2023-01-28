@@ -22,7 +22,7 @@ permalink: /cards/sun/
 > Long-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Environment._ The prowess of each Dunadan is modified by +1. Additionally, if Gates of Morning is in play, the prowess of each automatic-attack and hazard creature is modified by -1 and the prowess of each Man and Dunadan is modified by +1. Cannot be duplicated. 
+> > _Environment._ The prowess of each Dunadan is modified by +1. <br>&ensp;Additionally, if _Gates of Morning_ is in play, the prowess of each automatic-attack and hazard creature is modified by -1 **and** the prowess of each Man and Dunadan is modified by +1. <br>&ensp;Cannot be duplicated. 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,5 +36,5 @@ permalink: /cards/sun/
 > Long-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Environment._ The prowess of each Dunadan is modified by +1. Additionally, if Gates of Morning is in play, the prowess of each automatic-attack and hazard creature is modified by -1 and the prowess of each Man and Dunadan is modified by +1. Cannot be duplicated. 
+> > _Environment._ The prowess of each Dunadan is modified by +1. <br>&ensp;Additionally, if _Gates of Morning_ is in play, the prowess of each automatic-attack and hazard creature is modified by -1 **and** the prowess of each Man and Dunadan is modified by +1. <br>&ensp;Cannot be duplicated. 
 > 

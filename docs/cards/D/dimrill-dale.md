@@ -19,7 +19,7 @@ permalink: /cards/dimrill-dale/
 > > <div class="character-card-name">Dimrill Dale</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg)
+> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/wilderness.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Redhorn Gate
@@ -39,7 +39,7 @@ permalink: /cards/dimrill-dale/
 > > <div class="character-card-name">Dimrill Dale</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg)
+> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/wilderness.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Redhorn Gate
@@ -59,7 +59,7 @@ permalink: /cards/dimrill-dale/
 > > <div class="card-name">Dimrill Dale</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/dark-domain.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg)
+> > ![](/assets/images/dark-domain.svg)&emsp![](/assets/images/shadow-land.svg)&emsp![](/assets/images/wilderness.svg)&emsp![](/assets/images/wilderness.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Redhorn Gate
@@ -79,7 +79,7 @@ permalink: /cards/dimrill-dale/
 > > <div class="card-name">Dimrill Dale</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/dark-domain.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg)
+> > ![](/assets/images/dark-domain.svg)&emsp![](/assets/images/shadow-land.svg)&emsp![](/assets/images/wilderness.svg)&emsp![](/assets/images/wilderness.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Redhorn Gate

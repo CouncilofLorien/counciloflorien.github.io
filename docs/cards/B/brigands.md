@@ -19,7 +19,7 @@ permalink: /cards/brigands/
 > > <div class="card-name">Brigands</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg)
+> > ![](/assets/images/border-land.svg)&emsp![](/assets/images/wilderness.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -39,7 +39,7 @@ permalink: /cards/brigands/
 > > <div class="card-name">Brigands</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg)
+> > ![](/assets/images/border-land.svg)&emsp![](/assets/images/wilderness.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -59,7 +59,7 @@ permalink: /cards/brigands/
 > > <div class="card-name">Brigands</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg)
+> > ![](/assets/images/border-land.svg)&emsp![](/assets/images/wilderness.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -79,7 +79,7 @@ permalink: /cards/brigands/
 > > <div class="card-name">Brigands</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg)
+> > ![](/assets/images/border-land.svg)&emsp![](/assets/images/wilderness.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -99,7 +99,7 @@ permalink: /cards/brigands/
 > > <div class="card-name">Brigands</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg)
+> > ![](/assets/images/border-land.svg)&emsp![](/assets/images/wilderness.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature

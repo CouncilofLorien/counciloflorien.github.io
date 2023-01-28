@@ -59,7 +59,7 @@ permalink: /cards/ambusher/
 > > <div class="card-name">Ambusher</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/free-domain.svg) ![](/assets/images/border-land.svg) 
+> > ![](/assets/images/free-domain.svg)&emsp![](/assets/images/border-land.svg) 
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -79,7 +79,7 @@ permalink: /cards/ambusher/
 > > <div class="card-name">Ambusher</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/free-domain.svg) ![](/assets/images/border-land.svg) 
+> > ![](/assets/images/free-domain.svg)&emsp![](/assets/images/border-land.svg) 
 >
 > {: .hazard-classification .pr-2 }
 > Creature

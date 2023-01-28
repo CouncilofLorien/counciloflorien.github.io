@@ -19,7 +19,7 @@ permalink: /cards/neeker-breekers/
 > > <div class="card-name">Neeker-breekers</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg) ![](/assets/images/ruinlair.svg)
+> > ![](/assets/images/border-land.svg)&emsp![](/assets/images/wilderness.svg)&emsp![](/assets/images/shadow-land.svg)&emsp![](/assets/images/dark-domain.svg)&emsp![](/assets/images/ruinlair.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -39,7 +39,7 @@ permalink: /cards/neeker-breekers/
 > > <div class="card-name">Neeker-breekers</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg) ![](/assets/images/ruinlair.svg)
+> > ![](/assets/images/border-land.svg)&emsp![](/assets/images/wilderness.svg)&emsp![](/assets/images/shadow-land.svg)&emsp![](/assets/images/dark-domain.svg)&emsp![](/assets/images/ruinlair.svg)
 >
 > {: .hazard-classification .pr-2 }
 > 
@@ -59,7 +59,7 @@ permalink: /cards/neeker-breekers/
 > > <div class="card-name">Neeker-breekers</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg) ![](/assets/images/ruinlair.svg)
+> > ![](/assets/images/border-land.svg)&emsp![](/assets/images/wilderness.svg)&emsp![](/assets/images/shadow-land.svg)&emsp![](/assets/images/dark-domain.svg)&emsp![](/assets/images/ruinlair.svg)
 >
 > {: .hazard-classification .pr-2 }
 > 

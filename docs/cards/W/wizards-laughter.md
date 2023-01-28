@@ -22,7 +22,7 @@ permalink: /cards/wizards-laughter/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Spell._ Wizard only during your opponent's site phase. Automatically cancels an influence check against one of the Wizard's player's characters, followers, factions, allies, or items. Wizard makes a corruption check modified by -2. <br>_"Then Gandalf laughed. The fantasy vanished like a puff of smoke. 'Saruman...you should have been the king's jester...’”_ ***---&#65279;LotRIII*** 
+> > _Spell._ ***Wizard only.*** Automatically cancels an influence check against one of the Wizard's player's characters, followers, factions, allies, or items. Wizard makes a corruption check modified by -2. <br>_"Then Gandalf laughed. The fantasy vanished like a puff of smoke. 'Saruman...you should have been the king's jester...’”_ ***---&#65279;LotRIII*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,7 +36,7 @@ permalink: /cards/wizards-laughter/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Spell._ Wizard only during your opponent's site phase. Automatically cancels an influence check against one of the Wizard's player's characters, followers, factions, allies, or items. Wizard makes a corruption check modified by -2. <br>_"Then Gandalf laughed. The fantasy vanished like a puff of smoke. 'Saruman...you should have been the king's jester...’”_ ***---&#65279;LotRIII*** 
+> > _Spell._ ***Wizard only during your opponent's site phase.*** Automatically cancels an influence check against one of the Wizard's player's characters, followers, factions, allies, or items. Wizard makes a corruption check modified by -2. <br>_"Then Gandalf laughed. The fantasy vanished like a puff of smoke. 'Saruman...you should have been the king's jester...’”_ ***---&#65279;LotRIII*** 
 > 
 
 ### _Middle-earth Challenge Decks_

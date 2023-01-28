@@ -19,7 +19,7 @@ permalink: /cards/stirring-bones/
 > > <div class="card-name">Stirring Bones</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg) ![](/assets/images/ruinlair.svg) ![](/assets/images/shadow-hold.svg)
+> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/wilderness.svg)&emsp![](/assets/images/shadow-land.svg)&emsp![](/assets/images/dark-domain.svg)&emsp![](/assets/images/ruinlair.svg)&emsp![](/assets/images/shadow-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -39,7 +39,7 @@ permalink: /cards/stirring-bones/
 > > <div class="card-name">Stirring Bones</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg) ![](/assets/images/ruinlair.svg) ![](/assets/images/shadow-hold.svg)
+> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/wilderness.svg)&emsp![](/assets/images/shadow-land.svg)&emsp![](/assets/images/dark-domain.svg)&emsp![](/assets/images/ruinlair.svg)&emsp![](/assets/images/shadow-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -59,7 +59,7 @@ permalink: /cards/stirring-bones/
 > > <div class="card-name">Stirring Bones</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg) ![](/assets/images/ruinlair.svg) ![](/assets/images/shadow-hold.svg)
+> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/wilderness.svg)&emsp![](/assets/images/shadow-land.svg)&emsp![](/assets/images/dark-domain.svg)&emsp![](/assets/images/ruinlair.svg)&emsp![](/assets/images/shadow-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature

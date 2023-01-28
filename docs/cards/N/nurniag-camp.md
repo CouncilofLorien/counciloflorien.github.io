@@ -19,7 +19,7 @@ permalink: /cards/nurniag-camp/
 > > <div class="card-name">Nurniag Camp</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg) ![](/assets/images/dark-domain.svg)
+> > ![](/assets/images/shadow-land.svg)&emsp![](/assets/images/dark-domain.svg)&emsp![](/assets/images/dark-domain.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Nurn
@@ -39,7 +39,7 @@ permalink: /cards/nurniag-camp/
 > > <div class="character-card-name">Nurniag Camp</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg) ![](/assets/images/free-domain.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg)
+> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/free-domain.svg)&emsp![](/assets/images/coastalsea.svg)&emsp![](/assets/images/wilderness.svg)&emsp![](/assets/images/shadow-land.svg)&emsp![](/assets/images/dark-domain.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Nurn
@@ -59,7 +59,7 @@ permalink: /cards/nurniag-camp/
 > > <div class="card-name">Nurniag Camp</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg) ![](/assets/images/dark-domain.svg)
+> > ![](/assets/images/shadow-land.svg)&emsp![](/assets/images/dark-domain.svg)&emsp![](/assets/images/dark-domain.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Nurn

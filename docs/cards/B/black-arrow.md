@@ -22,7 +22,7 @@ permalink: /cards/black-arrow/
 > Minor Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Warrior only._ Tap Black Arrow to give -1 to the prowess and body of any one attack against bearer's company. When Black Arrow is tapped, discard if its bearer is not a Man. <br>_“‘Black arrow! I have saved you to the last. You have never failed me and always I have recovered you. If ever you came form the forges of the true king under the Mountain, go now and speed well!’”_ ***---&#65279;Hob*** 
+> > _Warrior only._ Tap _Black Arrow_ to give -1 to the prowess and body of any one attack against bearer's company. When Black Arrow is tapped, discard it if its bearer is not a Man. <br>_“‘Black arrow! I have saved you to the last. You have never failed me and always I have recovered you. If ever you came form the forges of the true king under the Mountain, go now and speed well!’”_ ***---&#65279;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -37,10 +37,10 @@ permalink: /cards/black-arrow/
 > > &nbsp;
 >
 > {: .card-classification .pr-2 }
-> 
+> Minor Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Warrior only._ Tap Black Arrow to give -1 to the prowess and body of any one attack against bearer's company. When Black Arrow is tapped, discard if its bearer is not a Man. <br>_“‘Black arrow! I have saved you to the last. You have never failed me and always I have recovered you. If ever you came form the forges of the true king under the Mountain, go now and speed well!’”_ ***---&#65279;Hob*** 
+> > _Warrior only._ Tap _Black Arrow_ to give -1 to the prowess and body of any one attack against bearer's company. When Black Arrow is tapped, discard it if its bearer is not a Man. <br>_“‘Black arrow! I have saved you to the last. You have never failed me and always I have recovered you. If ever you came form the forges of the true king under the Mountain, go now and speed well!’”_ ***---&#65279;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

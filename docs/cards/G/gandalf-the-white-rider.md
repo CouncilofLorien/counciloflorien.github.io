@@ -19,7 +19,7 @@ permalink: /cards/gandalf-the-white-rider/
 > > <div class="card-name">Gandalf the White Rider</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/free-domain.svg) ![](/assets/images/free-hold.svg)
+> > ![](/assets/images/free-domain.svg)&emsp![](/assets/images/free-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature or Permanent-event

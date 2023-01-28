@@ -19,7 +19,7 @@ permalink: /cards/dead-marshes/
 > > <div class="character-card-name">Dead Marshes</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/shadow-land.svg)
+> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/shadow-land.svg)&emsp![](/assets/images/shadow-land.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Dagorlad
@@ -39,7 +39,7 @@ permalink: /cards/dead-marshes/
 > > <div class="character-card-name">Dead Marshes</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/shadow-land.svg)
+> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/shadow-land.svg)&emsp![](/assets/images/shadow-land.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Dagorlad
@@ -59,7 +59,7 @@ permalink: /cards/dead-marshes/
 > > <div class="card-name">Dead Marshes</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/dark-domain.svg) ![](/assets/images/shadow-land.svg)
+> > ![](/assets/images/dark-domain.svg)&emsp![](/assets/images/shadow-land.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Dagorlad
@@ -79,7 +79,7 @@ permalink: /cards/dead-marshes/
 > > <div class="character-card-name">Dead Marshes</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/shadow-land.svg)
+> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/shadow-land.svg)&emsp![](/assets/images/shadow-land.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Dagorlad
@@ -99,7 +99,7 @@ permalink: /cards/dead-marshes/
 > > <div class="card-name">Dead Marshes</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/dark-domain.svg) ![](/assets/images/shadow-land.svg)
+> > ![](/assets/images/dark-domain.svg)&emsp![](/assets/images/shadow-land.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Dagorlad
@@ -119,7 +119,7 @@ permalink: /cards/dead-marshes/
 > > <div class="card-name">Dead Marshes</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/dark-domain.svg) ![](/assets/images/shadow-land.svg)
+> > ![](/assets/images/dark-domain.svg)&emsp![](/assets/images/shadow-land.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Dagorlad
