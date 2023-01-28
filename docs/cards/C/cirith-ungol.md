@@ -19,7 +19,7 @@ permalink: /cards/cirith-ungol/
 > > <div class="character-card-name">Cirith Ungol</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/border-land.svg)&emsp;![](/assets/images/free-domain.svg)&emsp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/shadow-land.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/free-domain.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Imlad Morgul
@@ -39,7 +39,7 @@ permalink: /cards/cirith-ungol/
 > > <div class="character-card-name">Cirith Ungol</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/border-land.svg)&emsp;![](/assets/images/free-domain.svg)&emsp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/shadow-land.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/free-domain.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Imlad Morgul

@@ -19,7 +19,7 @@ permalink: /cards/thief/
 > > <div class="card-name">Thief</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg)&emsp;![](/assets/images/border-hold.svg)
+> > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/border-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -39,7 +39,7 @@ permalink: /cards/thief/
 > > <div class="card-name">Thief</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg)&emsp;![](/assets/images/border-hold.svg)
+> > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/border-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature

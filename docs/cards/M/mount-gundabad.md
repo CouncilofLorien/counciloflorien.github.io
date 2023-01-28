@@ -19,7 +19,7 @@ permalink: /cards/mount-gundabad/
 > > <div class="character-card-name">Mount Gundabad</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/border-land.svg)&emsp;![](/assets/images/dark-domain.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/dark-domain.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Gundabad
@@ -39,7 +39,7 @@ permalink: /cards/mount-gundabad/
 > > <div class="character-card-name">Mount Gundabad</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/border-land.svg)&emsp;![](/assets/images/dark-domain.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/dark-domain.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Gundabad
@@ -59,7 +59,7 @@ permalink: /cards/mount-gundabad/
 > > <div class="card-name">Mount Gundabad</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg)&emsp;![](/assets/images/dark-domain.svg)
+> > ![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Gundabad
@@ -79,7 +79,7 @@ permalink: /cards/mount-gundabad/
 > > <div class="character-card-name">Mount Gundabad</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/border-land.svg)&emsp;![](/assets/images/dark-domain.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/dark-domain.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Gundabad
@@ -99,7 +99,7 @@ permalink: /cards/mount-gundabad/
 > > <div class="card-name">Mount Gundabad</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg)&emsp;![](/assets/images/dark-domain.svg)
+> > ![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Gundabad
@@ -119,7 +119,7 @@ permalink: /cards/mount-gundabad/
 > > <div class="card-name">Mount Gundabad</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg)&emsp;![](/assets/images/dark-domain.svg)
+> > ![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Gundabad

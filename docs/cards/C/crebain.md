@@ -19,7 +19,7 @@ permalink: /cards/crebain/
 > > <div class="card-name">Crebain</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg)&emsp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/shadow-land.svg)&emsp;![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/ruinlair.svg)&emsp;![](/assets/images/shadow-hold.svg)&emsp;![](/assets/images/dark-hold.svg)
+> > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/ruinlair.svg)&ensp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -39,7 +39,7 @@ permalink: /cards/crebain/
 > > <div class="card-name">Crebain</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg)&emsp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/shadow-land.svg)&emsp;![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/ruinlair.svg)&emsp;![](/assets/images/shadow-hold.svg)&emsp;![](/assets/images/dark-hold.svg)
+> > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/ruinlair.svg)&ensp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature

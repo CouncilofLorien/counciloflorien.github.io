@@ -39,7 +39,7 @@ permalink: /cards/geann-a-lisch/
 > > <div class="character-card-name">Geann a-Lisch</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/wilderness.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Old Pukel-land

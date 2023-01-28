@@ -19,7 +19,7 @@ permalink: /cards/landroval/
 > > <div class="card-name">Landroval</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/ruinlair.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/ruinlair.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature

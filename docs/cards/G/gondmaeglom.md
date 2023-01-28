@@ -19,7 +19,7 @@ permalink: /cards/gondmaeglom/
 > > <div class="character-card-name">Gondmaeglom</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/border-land.svg)&emsp;![](/assets/images/shadow-land.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/shadow-land.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Grey Mountain Narrows
@@ -39,7 +39,7 @@ permalink: /cards/gondmaeglom/
 > > <div class="card-name">Gondmaeglom</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/shadow-land.svg)
+> > ![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Grey Mountain Narrows
@@ -59,7 +59,7 @@ permalink: /cards/gondmaeglom/
 > > <div class="card-name">Gondmaeglom</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/shadow-land.svg)
+> > ![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Grey Mountain Narrows
@@ -79,7 +79,7 @@ permalink: /cards/gondmaeglom/
 > > <div class="card-name">Gondmaeglom</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/shadow-land.svg)
+> > ![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Grey Mountain Narrows

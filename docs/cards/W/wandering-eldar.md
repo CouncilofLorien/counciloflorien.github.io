@@ -19,7 +19,7 @@ permalink: /cards/wandering-eldar/
 > > <div class="card-name">Wandering Eldar</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/border-land.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/border-land.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature

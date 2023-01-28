@@ -19,7 +19,7 @@ permalink: /cards/lossadan-camp/
 > > <div class="character-card-name">Lossadan Camp</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/wilderness.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Forochel
@@ -39,7 +39,7 @@ permalink: /cards/lossadan-camp/
 > > <div class="character-card-name">Lossadan Camp</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/wilderness.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Forochel
@@ -59,7 +59,7 @@ permalink: /cards/lossadan-camp/
 > > <div class="card-name">Lossadan Camp</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg)&emsp;![](/assets/images/wilderness.svg)
+> > ![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/wilderness.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Forochel

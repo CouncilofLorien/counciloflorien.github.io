@@ -19,7 +19,7 @@ permalink: /cards/framsburg/
 > > <div class="character-card-name">Framsburg</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/border-land.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/border-land.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Anduin Vales
@@ -39,7 +39,7 @@ permalink: /cards/framsburg/
 > > <div class="card-name">Framsburg</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/border-land.svg)
+> > ![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/border-land.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Anduin Vales

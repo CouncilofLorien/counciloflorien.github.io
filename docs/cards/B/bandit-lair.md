@@ -19,7 +19,7 @@ permalink: /cards/bandit-lair/
 > > <div class="character-card-name">Bandit Lair</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/shadow-land.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Brown Lands
@@ -39,7 +39,7 @@ permalink: /cards/bandit-lair/
 > > <div class="character-card-name">Bandit Lair</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/shadow-land.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Brown Lands
@@ -59,7 +59,7 @@ permalink: /cards/bandit-lair/
 > > <div class="card-name">Bandit Lair</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/dark-hold.svg)&emsp;![](/assets/images/shadow-hold.svg)
+> > ![](/assets/images/dark-hold.svg)&ensp;![](/assets/images/shadow-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Brown Lands
@@ -79,7 +79,7 @@ permalink: /cards/bandit-lair/
 > > <div class="character-card-name">Bandit Lair</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/shadow-land.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Brown Lands
@@ -99,7 +99,7 @@ permalink: /cards/bandit-lair/
 > > <div class="card-name">Bandit Lair</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/dark-hold.svg)&emsp;![](/assets/images/shadow-hold.svg)
+> > ![](/assets/images/dark-hold.svg)&ensp;![](/assets/images/shadow-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Brown Lands

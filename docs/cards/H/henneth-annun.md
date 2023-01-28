@@ -19,7 +19,7 @@ permalink: /cards/henneth-annun/
 > > <div class="character-card-name">Henneth Annun</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/border-land.svg)&emsp;![](/assets/images/free-domain.svg)&emsp;![](/assets/images/wilderness.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/free-domain.svg)&ensp;![](/assets/images/wilderness.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Ithilien
@@ -39,7 +39,7 @@ permalink: /cards/henneth-annun/
 > > <div class="character-card-name">Henneth Annun</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/border-land.svg)&emsp;![](/assets/images/free-domain.svg)&emsp;![](/assets/images/wilderness.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/free-domain.svg)&ensp;![](/assets/images/wilderness.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Ithilien
@@ -59,7 +59,7 @@ permalink: /cards/henneth-annun/
 > > <div class="card-name">Henneth Annun</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg)&emsp;![](/assets/images/wilderness.svg)
+> > ![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/wilderness.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Ithilien
@@ -79,7 +79,7 @@ permalink: /cards/henneth-annun/
 > > <div class="character-card-name">Henneth Annun</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/border-land.svg)&emsp;![](/assets/images/free-domain.svg)&emsp;![](/assets/images/wilderness.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/free-domain.svg)&ensp;![](/assets/images/wilderness.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Ithilien

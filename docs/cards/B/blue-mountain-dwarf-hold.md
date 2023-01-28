@@ -19,7 +19,7 @@ permalink: /cards/blue-mountain-dwarf-hold/
 > > <div class="character-card-name">Blue Mountain Dwarf-hold</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/free-domain.svg)&emsp;![](/assets/images/wilderness.svg)
+> > ![](/assets/images/free-domain.svg)&ensp;![](/assets/images/wilderness.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Numeriador
@@ -39,7 +39,7 @@ permalink: /cards/blue-mountain-dwarf-hold/
 > > <div class="character-card-name">Blue Mountain Dwarf-hold</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/free-domain.svg)&emsp;![](/assets/images/wilderness.svg)
+> > ![](/assets/images/free-domain.svg)&ensp;![](/assets/images/wilderness.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Numeriador
@@ -59,7 +59,7 @@ permalink: /cards/blue-mountain-dwarf-hold/
 > > <div class="card-name">Blue Mountain Dwarf-hold</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg)&emsp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/wilderness.svg)
+> > ![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Numeriador
@@ -79,7 +79,7 @@ permalink: /cards/blue-mountain-dwarf-hold/
 > > <div class="character-card-name">Blue Mountain Dwarf-hold</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/free-domain.svg)&emsp;![](/assets/images/wilderness.svg)
+> > ![](/assets/images/free-domain.svg)&ensp;![](/assets/images/wilderness.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Numeriador

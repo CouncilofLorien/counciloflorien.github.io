@@ -19,7 +19,7 @@ permalink: /cards/assassin/
 > > <div class="card-name">Assassin</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/free-hold.svg)&emsp;![](/assets/images/border-hold.svg)
+> > ![](/assets/images/free-hold.svg)&ensp;![](/assets/images/border-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -39,7 +39,7 @@ permalink: /cards/assassin/
 > > <div class="card-name">Assassin</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/free-hold.svg)&emsp;![](/assets/images/border-hold.svg)
+> > ![](/assets/images/free-hold.svg)&ensp;![](/assets/images/border-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -59,7 +59,7 @@ permalink: /cards/assassin/
 > > <div class="card-name">Assassin</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/free-hold.svg)&emsp;![](/assets/images/border-hold.svg)
+> > ![](/assets/images/free-hold.svg)&ensp;![](/assets/images/border-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature

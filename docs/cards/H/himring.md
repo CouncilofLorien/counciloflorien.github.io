@@ -19,7 +19,7 @@ permalink: /cards/himring/
 > > <div class="character-card-name">Himring</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/free-domain.svg)&emsp;![](/assets/images/coastalsea.svg)
+> > ![](/assets/images/free-domain.svg)&ensp;![](/assets/images/coastalsea.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Elven Shores
@@ -39,7 +39,7 @@ permalink: /cards/himring/
 > > <div class="character-card-name">Himring</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/free-domain.svg)&emsp;![](/assets/images/coastalsea.svg)
+> > ![](/assets/images/free-domain.svg)&ensp;![](/assets/images/coastalsea.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Elven Shores
@@ -59,7 +59,7 @@ permalink: /cards/himring/
 > > <div class="card-name">Himring</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/coastalsea.svg)&emsp;![](/assets/images/coastalsea.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/coastalsea.svg)&ensp;![](/assets/images/coastalsea.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Elven Shores

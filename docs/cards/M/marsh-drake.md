@@ -19,7 +19,7 @@ permalink: /cards/marsh-drake/
 > > <div class="card-name">Marsh-drake</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/coastalsea.svg)&emsp;![](/assets/images/shadow-land.svg)
+> > ![](/assets/images/coastalsea.svg)&ensp;![](/assets/images/shadow-land.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -39,7 +39,7 @@ permalink: /cards/marsh-drake/
 > > <div class="card-name">Marsh-drake</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/coastalsea.svg)&emsp;![](/assets/images/shadow-land.svg)
+> > ![](/assets/images/coastalsea.svg)&ensp;![](/assets/images/shadow-land.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -59,7 +59,7 @@ permalink: /cards/marsh-drake/
 > > <div class="card-name">Marsh-drake</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/coastalsea.svg)&emsp;![](/assets/images/shadow-land.svg)
+> > ![](/assets/images/coastalsea.svg)&ensp;![](/assets/images/shadow-land.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -79,7 +79,7 @@ permalink: /cards/marsh-drake/
 > > <div class="card-name">Marsh-drake</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/coastalsea.svg)&emsp;![](/assets/images/shadow-land.svg)
+> > ![](/assets/images/coastalsea.svg)&ensp;![](/assets/images/shadow-land.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature

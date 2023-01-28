@@ -59,7 +59,7 @@ permalink: /cards/rivendell/
 > > <div class="card-name">Rivendell</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg)&emsp;![](/assets/images/wilderness.svg)
+> > ![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/wilderness.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Rhudaur

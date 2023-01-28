@@ -19,7 +19,7 @@ permalink: /cards/vale-of-erech/
 > > <div class="character-card-name">Vale of Erech</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/border-land.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/border-land.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Lamedon
@@ -39,7 +39,7 @@ permalink: /cards/vale-of-erech/
 > > <div class="character-card-name">Vale of Erech</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/border-land.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/border-land.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Lamedon
@@ -59,7 +59,7 @@ permalink: /cards/vale-of-erech/
 > > <div class="card-name">Vale of Erech</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg)&emsp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/free-domain.svg)&emsp;![](/assets/images/free-domain.svg)&emsp;![](/assets/images/border-land.svg)
+> > ![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/free-domain.svg)&ensp;![](/assets/images/free-domain.svg)&ensp;![](/assets/images/border-land.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Lamedon
