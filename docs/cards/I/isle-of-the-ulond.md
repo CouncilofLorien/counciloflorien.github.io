@@ -19,7 +19,7 @@ permalink: /cards/isle-of-the-ulond/
 > > <div class="character-card-name">Isle of the Ulond</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/coastalsea.svg)&emsp![](/assets/images/coastalsea.svg)
+> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/coastalsea.svg)&emsp;![](/assets/images/coastalsea.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Andrast Coast
@@ -39,7 +39,7 @@ permalink: /cards/isle-of-the-ulond/
 > > <div class="card-name">Isle of the Ulond</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/wilderness.svg)&emsp![](/assets/images/coastalsea.svg)
+> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/coastalsea.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Andrast Coast
@@ -59,7 +59,7 @@ permalink: /cards/isle-of-the-ulond/
 > > <div class="character-card-name">Isle of the Ulond</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/coastalsea.svg)&emsp![](/assets/images/coastalsea.svg)
+> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/coastalsea.svg)&emsp;![](/assets/images/coastalsea.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Andrast Coast

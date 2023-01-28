@@ -19,7 +19,7 @@ permalink: /cards/woodmen-town/
 > > <div class="character-card-name">Woodmen-town</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/border-land.svg)&emsp![](/assets/images/wilderness.svg)
+> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/border-land.svg)&emsp;![](/assets/images/wilderness.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Western Mirkwood
@@ -39,7 +39,7 @@ permalink: /cards/woodmen-town/
 > > <div class="character-card-name">Woodmen-town</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/border-land.svg)&emsp![](/assets/images/wilderness.svg)
+> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/border-land.svg)&emsp;![](/assets/images/wilderness.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Western Mirkwood
@@ -59,7 +59,7 @@ permalink: /cards/woodmen-town/
 > > <div class="card-name">Woodmen-town</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/dark-domain.svg)&emsp![](/assets/images/wilderness.svg)
+> > ![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/wilderness.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Western Mirkwood

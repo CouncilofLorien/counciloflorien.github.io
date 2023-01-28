@@ -19,7 +19,7 @@ permalink: /cards/chill-douser/
 > > <div class="card-name">Chill Douser</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/ruinlair.svg)&emsp![](/assets/images/shadow-hold.svg)
+> > ![](/assets/images/ruinlair.svg)&emsp;![](/assets/images/shadow-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -39,7 +39,7 @@ permalink: /cards/chill-douser/
 > > <div class="card-name">Chill Douser</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/ruinlair.svg)&emsp![](/assets/images/shadow-hold.svg)
+> > ![](/assets/images/ruinlair.svg)&emsp;![](/assets/images/shadow-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature

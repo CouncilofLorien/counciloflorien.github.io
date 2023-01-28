@@ -19,7 +19,7 @@ permalink: /cards/rhosgobel/
 > > <div class="character-card-name">Rhosgobel</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/border-land.svg)&emsp![](/assets/images/dark-domain.svg)
+> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/border-land.svg)&emsp;![](/assets/images/dark-domain.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Southern Mirkwood
@@ -39,7 +39,7 @@ permalink: /cards/rhosgobel/
 > > <div class="character-card-name">Rhosgobel</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/border-land.svg)&emsp![](/assets/images/dark-domain.svg)
+> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/border-land.svg)&emsp;![](/assets/images/dark-domain.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Southern Mirkwood
@@ -99,7 +99,7 @@ permalink: /cards/rhosgobel/
 > > <div class="character-card-name">Rhosgobel</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/border-land.svg)&emsp![](/assets/images/dark-domain.svg)
+> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/border-land.svg)&emsp;![](/assets/images/dark-domain.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Southern Mirkwood

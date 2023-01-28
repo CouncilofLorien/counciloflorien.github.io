@@ -19,7 +19,7 @@ permalink: /cards/winged-cold-drake/
 > > <div class="card-name">Winged Cold-drake</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/wilderness.svg)&emsp![](/assets/images/wilderness.svg)
+> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/wilderness.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature

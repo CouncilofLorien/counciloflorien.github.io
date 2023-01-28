@@ -19,7 +19,7 @@ permalink: /cards/edoras/
 > > <div class="character-card-name">Edoras</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/border-land.svg)
+> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/border-land.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Rohan
@@ -39,7 +39,7 @@ permalink: /cards/edoras/
 > > <div class="character-card-name">Edoras</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/border-land.svg)
+> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/border-land.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Rohan
@@ -59,7 +59,7 @@ permalink: /cards/edoras/
 > > <div class="card-name">Edoras</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg)&emsp![](/assets/images/wilderness.svg)&emsp![](/assets/images/free-domain.svg)&emsp![](/assets/images/border-land.svg)
+> > ![](/assets/images/shadow-land.svg)&emsp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/free-domain.svg)&emsp;![](/assets/images/border-land.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Rohan
@@ -79,7 +79,7 @@ permalink: /cards/edoras/
 > > <div class="character-card-name">Edoras</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/border-land.svg)
+> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/border-land.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Rohan
@@ -99,7 +99,7 @@ permalink: /cards/edoras/
 > > <div class="card-name">Edoras</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg)&emsp![](/assets/images/wilderness.svg)&emsp![](/assets/images/free-domain.svg)&emsp![](/assets/images/border-land.svg)
+> > ![](/assets/images/shadow-land.svg)&emsp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/free-domain.svg)&emsp;![](/assets/images/border-land.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Rohan

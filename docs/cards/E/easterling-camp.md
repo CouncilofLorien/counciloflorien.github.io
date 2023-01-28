@@ -19,7 +19,7 @@ permalink: /cards/easterling-camp/
 > > <div class="character-card-name">Easterling Camp</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/shadow-land.svg)&emsp![](/assets/images/shadow-land.svg)&emsp![](/assets/images/shadow-land.svg)
+> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/shadow-land.svg)&emsp;![](/assets/images/shadow-land.svg)&emsp;![](/assets/images/shadow-land.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Horse Plains
@@ -39,7 +39,7 @@ permalink: /cards/easterling-camp/
 > > <div class="character-card-name">Easterling Camp</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/shadow-land.svg)&emsp![](/assets/images/shadow-land.svg)&emsp![](/assets/images/shadow-land.svg)
+> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/shadow-land.svg)&emsp;![](/assets/images/shadow-land.svg)&emsp;![](/assets/images/shadow-land.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Horse Plains
@@ -59,7 +59,7 @@ permalink: /cards/easterling-camp/
 > > <div class="card-name">Easterling Camp</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/dark-domain.svg)&emsp![](/assets/images/wilderness.svg)&emsp![](/assets/images/shadow-land.svg)
+> > ![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/shadow-land.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Horse Plains
@@ -79,7 +79,7 @@ permalink: /cards/easterling-camp/
 > > <div class="character-card-name">Easterling Camp</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/shadow-land.svg)&emsp![](/assets/images/shadow-land.svg)&emsp![](/assets/images/shadow-land.svg)
+> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/shadow-land.svg)&emsp;![](/assets/images/shadow-land.svg)&emsp;![](/assets/images/shadow-land.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Horse Plains
@@ -99,7 +99,7 @@ permalink: /cards/easterling-camp/
 > > <div class="card-name">Easterling Camp</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/dark-domain.svg)&emsp![](/assets/images/wilderness.svg)&emsp![](/assets/images/shadow-land.svg)
+> > ![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/shadow-land.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Horse Plains

@@ -19,7 +19,7 @@ permalink: /cards/dol-amroth/
 > > <div class="character-card-name">Dol Amroth</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/free-domain.svg)
+> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/free-domain.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Belfalas
@@ -39,7 +39,7 @@ permalink: /cards/dol-amroth/
 > > <div class="character-card-name">Dol Amroth</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/free-domain.svg)
+> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/free-domain.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Belfalas
@@ -59,7 +59,7 @@ permalink: /cards/dol-amroth/
 > > <div class="card-name">Dol Amroth</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg)&emsp![](/assets/images/wilderness.svg)&emsp![](/assets/images/free-domain.svg)&emsp![](/assets/images/free-domain.svg)&emsp![](/assets/images/free-domain.svg)
+> > ![](/assets/images/shadow-land.svg)&emsp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/free-domain.svg)&emsp;![](/assets/images/free-domain.svg)&emsp;![](/assets/images/free-domain.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Belfalas
@@ -79,7 +79,7 @@ permalink: /cards/dol-amroth/
 > > <div class="character-card-name">Dol Amroth</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/free-domain.svg)
+> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/free-domain.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Belfalas

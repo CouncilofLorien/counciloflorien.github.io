@@ -19,7 +19,7 @@ permalink: /cards/ost-in-edhil/
 > > <div class="character-card-name">Ost-in-Edhil</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/wilderness.svg)
+> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/wilderness.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Hollin
@@ -39,7 +39,7 @@ permalink: /cards/ost-in-edhil/
 > > <div class="character-card-name">Ost-in-Edhil</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/wilderness.svg)
+> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/wilderness.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Hollin
@@ -59,7 +59,7 @@ permalink: /cards/ost-in-edhil/
 > > <div class="card-name">Ost-in-Edhil</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg)&emsp![](/assets/images/wilderness.svg)&emsp![](/assets/images/wilderness.svg)
+> > ![](/assets/images/shadow-land.svg)&emsp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/wilderness.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Hollin

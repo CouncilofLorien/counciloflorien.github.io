@@ -19,7 +19,7 @@ permalink: /cards/indur-dawndeath/
 > > <div class="card-name">Indur Dawndeath</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/dark-domain.svg)&emsp![](/assets/images/dark-hold.svg)
+> > ![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/dark-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature or Permanent-event
@@ -39,7 +39,7 @@ permalink: /cards/indur-dawndeath/
 > > <div class="card-name">Indur Dawndeath</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/dark-domain.svg)&emsp![](/assets/images/dark-hold.svg)
+> > ![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/dark-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature or Permanent-event

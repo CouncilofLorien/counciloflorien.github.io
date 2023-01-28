@@ -19,7 +19,7 @@ permalink: /cards/ruined-signal-tower/
 > > <div class="character-card-name">Ruined Signal Tower</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/wilderness.svg)&emsp![](/assets/images/wilderness.svg)
+> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/wilderness.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Enedhwaith
@@ -39,7 +39,7 @@ permalink: /cards/ruined-signal-tower/
 > > <div class="character-card-name">Ruined Signal Tower</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/wilderness.svg)&emsp![](/assets/images/wilderness.svg)
+> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/wilderness.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Enedhwaith
@@ -59,7 +59,7 @@ permalink: /cards/ruined-signal-tower/
 > > <div class="card-name">Ruined Signal Tower</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/wilderness.svg)
+> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/wilderness.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Enedwaith

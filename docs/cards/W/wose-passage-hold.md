@@ -19,7 +19,7 @@ permalink: /cards/wose-passage-hold/
 > > <div class="character-card-name">Wose Passage-hold</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/wilderness.svg)&emsp![](/assets/images/wilderness.svg)
+> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/wilderness.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Old Pukel-land
@@ -39,7 +39,7 @@ permalink: /cards/wose-passage-hold/
 > > <div class="character-card-name">Wose Passage-hold</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/wilderness.svg)&emsp![](/assets/images/wilderness.svg)
+> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/wilderness.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Old Pukel-land

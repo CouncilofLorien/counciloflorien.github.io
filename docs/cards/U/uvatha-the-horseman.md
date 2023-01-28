@@ -19,7 +19,7 @@ permalink: /cards/uvatha-the-horseman/
 > > <div class="card-name">Uvatha the Horseman</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/dark-hold.svg)&emsp![](/assets/images/dark-hold.svg)
+> > ![](/assets/images/dark-hold.svg)&emsp;![](/assets/images/dark-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature or Permanent-event
@@ -39,7 +39,7 @@ permalink: /cards/uvatha-the-horseman/
 > > <div class="card-name">Uvatha the Horseman</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/dark-hold.svg)&emsp![](/assets/images/dark-hold.svg)
+> > ![](/assets/images/dark-hold.svg)&emsp;![](/assets/images/dark-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature or Permanent-event

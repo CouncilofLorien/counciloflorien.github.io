@@ -19,13 +19,13 @@ permalink: /cards/akhorahil/
 > > <div class="card-name">Akhorahil</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/dark-domain.svg)&emsp![](/assets/images/dark-hold.svg)
+> > ![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/dark-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature or Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Nazgul (5th)._ May be played as a hazard creature (with one strike) or as a permanent event. As a creature, may also be played keyed to Harondor, Horse Plains, Gorgoroth, and Khand; and may also be played at sites in these regions. If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, Akhorahil becomes a short-event and modifies any one character's body by -1 for the rest of this turn. 
+> > _**Unique.**_ _Nazgul (5th)._ May be played as a hazard creature (with one strike) or as a permanent event. <br>&ensp;As a creature, may also be played keyed to Harondor, Horse Plains, Gorgoroth, and Khand; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Akhorahil_ becomes a short-event and gives a -1 penalty to any one character's body checks this turn. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【16/9】</div>
@@ -39,13 +39,13 @@ permalink: /cards/akhorahil/
 > > <div class="card-name">Akhorahil</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/dark-domain.svg)&emsp![](/assets/images/dark-hold.svg)
+> > ![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/dark-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature or Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Nazgul (5th)._ May be played as a hazard creature (with one strike) or as a permanent event. As a creature, may also be played keyed to Harondor, Horse Plains, Gorgoroth, and Khand; and may also be played at sites in these regions. If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, Akhorahil becomes a short-event and modifies any one character's body by -1 for the rest of this turn. 
+> > _**Unique.**_ _Nazgul (5th)._ May be played as a hazard creature (with one strike) or as a permanent event. <br>&ensp;As a creature, may also be played keyed to Harondor, Horse Plains, Gorgoroth, and Khand; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Akhorahil_ becomes a short-event and modifies any one character's body by -1 for the rest of this turn. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【16/9】</div>

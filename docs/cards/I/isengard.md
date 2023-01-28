@@ -19,7 +19,7 @@ permalink: /cards/isengard/
 > > <div class="character-card-name">Isengard</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/border-land.svg)&emsp![](/assets/images/border-land.svg)
+> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/border-land.svg)&emsp;![](/assets/images/border-land.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Gap of Isen
@@ -39,7 +39,7 @@ permalink: /cards/isengard/
 > > <div class="character-card-name">Isengard</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/border-land.svg)&emsp![](/assets/images/border-land.svg)
+> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/border-land.svg)&emsp;![](/assets/images/border-land.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Gap of Isen
@@ -59,7 +59,7 @@ permalink: /cards/isengard/
 > > <div class="card-name">Isengard</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/border-land.svg)
+> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/border-land.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Gap of Isen
@@ -99,7 +99,7 @@ permalink: /cards/isengard/
 > > <div class="character-card-name">Isengard</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/border-land.svg)&emsp![](/assets/images/border-land.svg)
+> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/border-land.svg)&emsp;![](/assets/images/border-land.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Gap of Isen
@@ -119,7 +119,7 @@ permalink: /cards/isengard/
 > > <div class="card-name">Isengard</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/border-land.svg)
+> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/border-land.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Gap of Isen

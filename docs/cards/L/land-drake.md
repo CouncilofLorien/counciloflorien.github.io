@@ -19,7 +19,7 @@ permalink: /cards/land-drake/
 > > <div class="card-name">Land-drake</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/ruinlair.svg)
+> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/ruinlair.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -39,7 +39,7 @@ permalink: /cards/land-drake/
 > > <div class="card-name">Land-drake</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/wilderness.svg)&emsp![](/assets/images/border-land.svg)&emsp![](/assets/images/shadow-land.svg)
+> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/border-land.svg)&emsp;![](/assets/images/shadow-land.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature

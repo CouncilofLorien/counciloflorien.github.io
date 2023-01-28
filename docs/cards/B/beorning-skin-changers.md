@@ -19,7 +19,7 @@ permalink: /cards/beorning-skin-changers/
 > > <div class="card-name">Beorning Skin-changers</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/wilderness.svg)
+> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/wilderness.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature or Short-event

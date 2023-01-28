@@ -19,7 +19,7 @@ permalink: /cards/sons-of-kings/
 > > <div class="card-name">Sons of Kings</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/free-domain.svg)&emsp![](/assets/images/border-land.svg)&emsp![](/assets/images/border-hold.svg)&emsp![](/assets/images/free-hold.svg)
+> > ![](/assets/images/free-domain.svg)&emsp;![](/assets/images/border-land.svg)&emsp;![](/assets/images/border-hold.svg)&emsp;![](/assets/images/free-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -39,7 +39,7 @@ permalink: /cards/sons-of-kings/
 > > <div class="card-name">Sons of Kings</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/free-domain.svg)&emsp![](/assets/images/border-land.svg)&emsp![](/assets/images/border-hold.svg)&emsp![](/assets/images/free-hold.svg)
+> > ![](/assets/images/free-domain.svg)&emsp;![](/assets/images/border-land.svg)&emsp;![](/assets/images/border-hold.svg)&emsp;![](/assets/images/free-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature

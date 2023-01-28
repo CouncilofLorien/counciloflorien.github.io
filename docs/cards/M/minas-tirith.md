@@ -19,7 +19,7 @@ permalink: /cards/minas-tirith/
 > > <div class="character-card-name">Minas Tirith</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/border-land.svg)&emsp![](/assets/images/free-domain.svg)
+> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/border-land.svg)&emsp;![](/assets/images/free-domain.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Anorien
@@ -39,7 +39,7 @@ permalink: /cards/minas-tirith/
 > > <div class="character-card-name">Minas Tirith</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/border-land.svg)&emsp![](/assets/images/free-domain.svg)
+> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/border-land.svg)&emsp;![](/assets/images/free-domain.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Anorien
@@ -59,7 +59,7 @@ permalink: /cards/minas-tirith/
 > > <div class="card-name">Minas Tirith</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg)&emsp![](/assets/images/wilderness.svg)&emsp![](/assets/images/free-domain.svg)
+> > ![](/assets/images/shadow-land.svg)&emsp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/free-domain.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Anorien
@@ -79,7 +79,7 @@ permalink: /cards/minas-tirith/
 > > <div class="character-card-name">Minas Tirith</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/border-land.svg)&emsp![](/assets/images/free-domain.svg)
+> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/border-land.svg)&emsp;![](/assets/images/free-domain.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Anorien
@@ -99,7 +99,7 @@ permalink: /cards/minas-tirith/
 > > <div class="card-name">Minas Tirith</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg)&emsp![](/assets/images/wilderness.svg)&emsp![](/assets/images/free-domain.svg)
+> > ![](/assets/images/shadow-land.svg)&emsp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/free-domain.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Anorien

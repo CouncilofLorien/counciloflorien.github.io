@@ -19,7 +19,7 @@ permalink: /cards/carrion-feeders/
 > > <div class="card-name">Carrion Feeders</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > [1] ![](/assets/images/shadow-land.svg)&emsp![](/assets/images/ruinlair.svg)&emsp![](/assets/images/shadow-hold.svg)
+> > [1] ![](/assets/images/shadow-land.svg)&emsp;![](/assets/images/ruinlair.svg)&emsp;![](/assets/images/shadow-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature

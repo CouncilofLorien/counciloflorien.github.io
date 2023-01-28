@@ -19,7 +19,7 @@ permalink: /cards/sellswords-between-charters/
 > > <div class="card-name">Sellswords Between Charters</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/border-hold.svg)&emsp![](/assets/images/shadow-hold.svg)
+> > ![](/assets/images/border-hold.svg)&emsp;![](/assets/images/shadow-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -39,7 +39,7 @@ permalink: /cards/sellswords-between-charters/
 > > <div class="card-name">Sellswords Between Charters</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/border-hold.svg)&emsp![](/assets/images/shadow-hold.svg)
+> > ![](/assets/images/border-hold.svg)&emsp;![](/assets/images/shadow-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -59,7 +59,7 @@ permalink: /cards/sellswords-between-charters/
 > > <div class="card-name">Sellswords Between Charters</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/border-hold.svg)&emsp![](/assets/images/shadow-hold.svg)
+> > ![](/assets/images/border-hold.svg)&emsp;![](/assets/images/shadow-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature

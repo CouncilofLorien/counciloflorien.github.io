@@ -19,7 +19,7 @@ permalink: /cards/elves-upon-errantry/
 > > <div class="card-name">Elves upon Errantry</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/wilderness.svg)&emsp![](/assets/images/border-land.svg)&emsp![](/assets/images/free-domain.svg)
+> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/border-land.svg)&emsp;![](/assets/images/free-domain.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature

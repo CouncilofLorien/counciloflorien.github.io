@@ -19,7 +19,7 @@ permalink: /cards/pick-pocket/
 > > <div class="card-name">Pick-pocket</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/free-hold.svg)&emsp![](/assets/images/border-hold.svg)
+> > ![](/assets/images/free-hold.svg)&emsp;![](/assets/images/border-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -39,7 +39,7 @@ permalink: /cards/pick-pocket/
 > > <div class="card-name">Pick-pocket</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/free-hold.svg)&emsp![](/assets/images/border-hold.svg)
+> > ![](/assets/images/free-hold.svg)&emsp;![](/assets/images/border-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature

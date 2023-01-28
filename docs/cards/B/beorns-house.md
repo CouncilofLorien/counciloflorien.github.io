@@ -19,7 +19,7 @@ permalink: /cards/beorns-house/
 > > <div class="character-card-name">Beorn's House</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/border-land.svg)
+> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/border-land.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Anduin Vales
@@ -39,7 +39,7 @@ permalink: /cards/beorns-house/
 > > <div class="character-card-name">Beorn's House</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/border-land.svg)
+> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/border-land.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Anduin Vales
@@ -59,7 +59,7 @@ permalink: /cards/beorns-house/
 > > <div class="card-name">Beorn's House</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/dark-domain.svg)&emsp![](/assets/images/border-land.svg)
+> > ![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/border-land.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Anduin Vales
@@ -79,7 +79,7 @@ permalink: /cards/beorns-house/
 > > <div class="character-card-name">Beorn's House</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&emsp![](/assets/images/border-land.svg)
+> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/border-land.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Anduin Vales
@@ -99,7 +99,7 @@ permalink: /cards/beorns-house/
 > > <div class="card-name">Beorn's House</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/dark-domain.svg)&emsp![](/assets/images/border-land.svg)
+> > ![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/border-land.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Anduin Vales
@@ -119,7 +119,7 @@ permalink: /cards/beorns-house/
 > > <div class="card-name">Beorn's House</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/dark-domain.svg)&emsp![](/assets/images/border-land.svg)
+> > ![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/border-land.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Anduin Vales
