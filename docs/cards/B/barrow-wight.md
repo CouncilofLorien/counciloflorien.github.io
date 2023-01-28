@@ -25,7 +25,7 @@ permalink: /cards/barrow-wight/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Undead._ One strike. After each attack, each character wounded by Barrow-wight makes a corruption check modified by -2. <br>_“...two eyes, very cold though lit with a pale light...Then a grip stronger and colder than iron...”_ ***---&#65279;LotRI*** 
+> > _Undead._ One strike. After each attack, each character wounded by _Barrow-wight_ makes a corruption check modified by -2. <br>_“...two eyes, very cold though lit with a pale light...Then a grip stronger and colder than iron...”_ ***---&#65279;LotRI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【12/&ndash;】</div>
@@ -45,7 +45,7 @@ permalink: /cards/barrow-wight/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Undead._ One strike. After each attack, each character wounded by Barrow-wight makes a corruption check modified by -2. <br>_“...two eyes, very cold though lit with a pale light...Then a grip stronger and colder than iron...”_ ***---&#65279;LotRI*** 
+> > _Undead._ One strike. After each attack, each character wounded by _Barrow-wight_ makes a corruption check modified by -2. <br>_“...two eyes, very cold though lit with a pale light...Then a grip stronger and colder than iron...”_ ***---&#65279;LotRI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【12/&ndash;】</div>
@@ -65,7 +65,7 @@ permalink: /cards/barrow-wight/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Undead._ One strike. After each attack, each character wounded by Barrow-wight makes a corruption check modified by -2. <br>_“...two eyes, very cold though lit with a pale light...Then a grip stronger and colder than iron...”_ ***---&#65279;LotRI*** 
+> > _Undead._ One strike. After each attack, each character wounded by _Barrow-wight_ makes a corruption check modified by -2. <br>_“...two eyes, very cold though lit with a pale light...Then a grip stronger and colder than iron...”_ ***---&#65279;LotRI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【12/&ndash;】</div>
@@ -85,7 +85,7 @@ permalink: /cards/barrow-wight/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Undead._ One strike. After each attack, each character wounded by Barrow-wight makes a corruption check modified by -2. <br>_“...evil spirits out of Angmar and Rhudaur entered into the deserted mounds and dwelt there."_ ***---&#65279;LotR*** 
+> > _Undead._ One strike. After each attack, each character wounded by _Barrow-wight_ makes a corruption check modified by -2. <br>_“...two eyes, very cold though lit with a pale light...Then a grip stronger and colder than iron...”_ ***---&#65279;LotRI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【12/&ndash;】</div>
@@ -105,7 +105,7 @@ permalink: /cards/barrow-wight/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Undead._ One strike. After each attack, each character wounded by Barrow-wight makes a corruption check modified by -2. <br>_“...evil spirits out of Angmar and Rhudaur entered into the deserted mounds and dwelt there."_ ***---&#65279;LotR*** 
+> > _Undead._ One strike. After each attack, each character wounded by _Barrow-wight_ makes a corruption check modified by -2. <br>_“...two eyes, very cold though lit with a pale light...Then a grip stronger and colder than iron...”_ ***---&#65279;LotRI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【12/&ndash;】</div>

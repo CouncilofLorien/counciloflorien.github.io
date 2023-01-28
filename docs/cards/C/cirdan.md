@@ -25,7 +25,7 @@ permalink: /cards/cirdan/
 > Warrior/Sage/Diplomat Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ When Cirdan is at the Grey Havens, his controlling player may keep one more card than normal in his hand. <br>May tap to cancel one attack keyed to a Coastal Sea region. +2 direct influence against the Elves of Lindon faction. <br>-3 marshalling points if eliminated.   <br><br>**Home Site:** Grey Havens 
+> > _**Unique.**_ When Cirdan is at the Grey Havens, his controlling player may keep one more card than normal in his hand. <br>&ensp;May tap to cancel one attack keyed to a Coastal Sea region. +2 direct influence against the Elves of Lindon faction. <br>&ensp;-3 marshalling points if eliminated.   <br><br>**Home Site:** Grey Havens 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【6/8】</div>
@@ -45,7 +45,7 @@ permalink: /cards/cirdan/
 > Warrior/Sage/Diplomat Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ When Cirdan is at the Grey Havens, his controlling player may keep one more card than normal in his hand. <br>May tap to cancel one attack keyed to a Coastal Sea region. +2 direct influence against the Elves of Lindon faction. <br>-3 marshalling points if eliminated.   <br><br>**Home Site:** Grey Havens 
+> > _**Unique.**_ When Cirdan is at the Grey Havens, his controlling player may keep one more card than normal in his hand. <br>&ensp;May tap to cancel one attack keyed to a Coastal Sea region. +2 direct influence against the Elves of Lindon faction. <br>&ensp;-3 marshalling points if eliminated.   <br><br>**Home Site:** Grey Havens 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【6/8】</div>

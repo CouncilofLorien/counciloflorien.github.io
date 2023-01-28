@@ -45,10 +45,10 @@ permalink: /cards/gandalf/
 > Warrior/Scout/Sage/Diplomat Wizard
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ All of his corruption checks are modified by +1. <br>Can tap to "test" a gold ring. <br>_"In his aged face under great snowy brows his eyes were set like coals that could leap suddenly into fire."_ ***---&#65279;LotRII***  <br><br>**Home Site:** Any Haven 
+> > _**Unique.**_ All of his corruption checks are modified by +1. <br>&ensp;Can tap to "test" a gold ring. <br>_"In his aged face under great snowy brows his eyes were set like coals that could leap suddenly into fire."_ ***---&#65279;LotRII***  <br><br>**Home Site:** Any Haven 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【6/10】</div>
+> > <div class="card-shield">【6/9】</div>
 > > <div class="card-corruption">〔+1〕</div>
 
 ### _Middle-earth: The Wizards Starter Set_
@@ -65,10 +65,10 @@ permalink: /cards/gandalf/
 > Warrior/Scout/Sage/Diplomat Wizard
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ All of his corruption checks are modified by +1. <br>Can tap to "test" a gold ring. <br>_"In his aged face under great snowy brows his eyes were set like coals that could leap suddenly into fire."_ ***---&#65279;LotRII***  <br><br>**Home Site:** Any Haven 
+> > _**Unique.**_ All of his corruption checks are modified by +1. <br>&ensp;Can tap to "test" a gold ring. <br>_"In his aged face under great snowy brows his eyes were set like coals that could leap suddenly into fire."_ ***---&#65279;LotRII***  <br><br>**Home Site:** Any Haven 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【6/10】</div>
+> > <div class="card-shield">【6/9】</div>
 > > <div class="card-corruption">〔+1〕</div>
 
 ### _Middle-earth: The White Hand_
@@ -105,8 +105,8 @@ permalink: /cards/gandalf/
 > Warrior/Scout/Sage/Diplomat Wizard
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ All of his corruption checks are modified by +1. <br>Can tap to "test" a gold ring. <br>_"In his aged face under great snowy brows his eyes were set like coals that could leap suddenly into fire."_ ***---&#65279;LotRII***  <br><br>**Home Site:** Any Haven 
+> > _**Unique.**_ All of his corruption checks are modified by +1. <br>&ensp;Can tap to "test" a gold ring. <br>_"In his aged face under great snowy brows his eyes were set like coals that could leap suddenly into fire."_ ***---&#65279;LotRII***  <br><br>**Home Site:** Any Haven 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【6/10】</div>
+> > <div class="card-shield">【6/9】</div>
 > > <div class="card-corruption">〔+1〕</div>

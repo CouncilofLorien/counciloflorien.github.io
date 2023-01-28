@@ -25,7 +25,7 @@ permalink: /cards/alatar/
 > Warrior/Scout/Ranger/Sage Wizard
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ During the movement/hazard phase, the number of cards that opponent draws based on Alatar's company's movement is reduced by one. <br>If in a haven when a hazard creature is played on another company, he may join that company and face one of the hazard creature's strikes; he must tap and make a corruption check immediately following the attack.   <br><br>**Home Site:** Edhellond 
+> > _**Unique.**_ During the movement/hazard phase, the number of cards that opponent draws based on Alatar's company's movement is reduced by one. <br>&ensp;If in a haven when a hazard creature is played on another company, he may join that company and face one of the hazard creature's strikes; he must tap and make a corruption check immediately following the attack.   <br><br>**Home Site:** Edhellond 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【6/9】</div>
@@ -45,7 +45,7 @@ permalink: /cards/alatar/
 > Warrior/Scout/Ranger/Sage Wizard
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ During the movement/hazard phase, the number of cards that opponent draws based on Alatar's company's movement is reduced by one. <br>If in a haven when a hazard creature is played on another company, he may join that company and face one of the hazard creature's strikes; he must tap and make a corruption check immediately following the attack.   <br><br>**Home Site:** Edhellond 
+> > _**Unique.**_ During the movement/hazard phase, the number of cards that opponent draws based on Alatar's company's movement is reduced by one. <br>&ensp;If in a haven when a hazard creature is played on another company, he may join that company and face one of the hazard creature's strikes; he must tap and make a corruption check immediately following the attack.   <br><br>**Home Site:** Edhellond 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【6/9】</div>
@@ -85,7 +85,7 @@ permalink: /cards/alatar/
 > Warrior/Scout/Ranger/Sage Wizard
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ During the movement/hazard phase, the number of cards that opponent draws based on Alatar's company's movement is reduced by one. <br>If in a haven when a hazard creature is played on another company, he may join that company and face one of the hazard creature's strikes; he must make a corruption check immediately following the attack, and, if untapped, he must tap.   <br><br>**Home Site:** Edhellond 
+> > _**Unique.**_ During the movement/hazard phase, the number of cards that opponent draws based on Alatar's company's movement is reduced by one. <br>&ensp;If in a haven when a hazard creature is played on another company, he may join that company and face one of the hazard creature's strikes; he must make a corruption check immediately following the attack, and, if untapped, he must tap.   <br><br>**Home Site:** Edhellond 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【6/9】</div>
