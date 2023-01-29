@@ -25,7 +25,7 @@ permalink: /cards/skinbark/
 > Ally
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ _**Playable at Wellinghall.**_  <br>May not be attacked by automatic-attacks or hazards keyed to his site. Discard _Skinbark_ if his company moves to a site that is not in: Fangorn, Rohan, Gap of Isen, Wold & Foothills, Anduin Vales, or Redhorn Gap. 
+> > _**Unique.**_ _**Playable at Wellinghall.**_ May not be attacked by automatic-attacks or hazards keyed to his site. Discard _Skinbark_ if his company moves to a site that is not in: Fangorn, Rohan, Gap of Isen, Wold & Foothills, Anduin Vales, or Redhorn Gap. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【10/9】</div>
@@ -45,7 +45,7 @@ permalink: /cards/skinbark/
 > Ally
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ _**Playable at Wellinghall.**_  <br>May not be attacked by automatic-attacks or hazards keyed to his site. Discard _Skinbark_ if his company moves to a site that is not in: Fangorn, Rohan, Gap of Isen, Wold & Foothills, Anduin Vales, or Redhorn Gate. 
+> > _**Unique.**_ _**Playable at Wellinghall.**_ May not be attacked by automatic-attacks or hazards keyed to his site. Discard _Skinbark_ if his company moves to a site that is not in: Fangorn, Rohan, Gap of Isen, Wold & Foothills, Anduin Vales, or Redhorn Gate. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【10/9】</div>

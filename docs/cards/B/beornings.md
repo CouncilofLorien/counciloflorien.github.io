@@ -22,7 +22,7 @@ permalink: /cards/beornings/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ -**Playable at Beorn's House**_ <br>&ensp;if the influence check is greater than 7.  <br>_Standard Modifications:_ Men (+1). <br>_“‘...if it were not for the Beornings, the passage from Dale to Rivendell would long ago have become impassable. They are valiant men...’”_ ***---&#65279;LotRII*** 
+> > _**Unique.**_ _**Playable at Beorn's House**_ <br>&ensp;if the influence check is greater than 7.  <br>_Standard Modifications:_ Men (+1). <br>_“‘...if it were not for the Beornings, the passage from Dale to Rivendell would long ago have become impassable. They are valiant men...’”_ ***---&#65279;LotRII*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_

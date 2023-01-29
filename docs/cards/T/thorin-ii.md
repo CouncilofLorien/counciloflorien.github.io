@@ -25,7 +25,7 @@ permalink: /cards/thorin-ii/
 > Warrior/Scout/Diplomat Dwarf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against Blue Mountain Dwarves faction. +3 prowess against Orcs. +2 direct influence against Dwarves and Dwarf factions. <br>_"Out lept the King under the Mountain. ...the great dwarf gleamed like gold in a dying fire."_ ***---&#65279;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
+> > _**Unique.**_ +2 direct influence against Blue Mountain Dwarves. +3 prowess against Orcs. +2 direct influence against Dwarves and Dwarf factions. <br>_"Out lept the King under the Mountain. ...the great dwarf gleamed like gold in a dying fire."_ ***---&#65279;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【5/8】</div>
@@ -45,7 +45,7 @@ permalink: /cards/thorin-ii/
 > Warrior/Scout/Diplomat Dwarf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against Blue Mountain Dwarves faction. +3 prowess against Orcs. +2 direct influence against Dwarves and Dwarf factions. <br>_"Out lept the King under the Mountain. ...the great dwarf gleamed like gold in a dying fire."_ ***---&#65279;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
+> > _**Unique.**_ +2 direct influence against  the Blue Mountain Dwarves faction. +3 prowess against Orcs. +2 direct influence against Dwarves and Dwarf factions. <br>_"Out lept the King under the Mountain. ...the great dwarf gleamed like gold in a dying fire."_ ***---&#65279;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【5/8】</div>
@@ -65,7 +65,7 @@ permalink: /cards/thorin-ii/
 > Warrior/Scout/Diplomat Dwarf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against Blue Mountain Dwarves faction. +3 prowess against Orcs. +2 direct influence against Dwarves and Dwarf factions. <br>_"Out lept the King under the Mountain. ...the great dwarf gleamed like gold in a dying fire."_ ***---&#65279;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
+> > _**Unique.**_ +2 direct influence against the Blue Mountain Dwarves faction. +3 prowess against Orcs. +2 direct influence against Dwarves and Dwarf factions. <br>_"Out lept the King under the Mountain. ...the great dwarf gleamed like gold in a dying fire."_ ***---&#65279;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【5/8】</div>
