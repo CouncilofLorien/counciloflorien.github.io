@@ -19,13 +19,13 @@ permalink: /cards/cave-drake/
 > > <div class="card-name">Cave-drake</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/ruinlair.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/ruinlair.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Dragon._ Two strikes. Attacker chooses defending characters. Two wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. <br>_"About this time Dragons reappear in the far North and begin to afflict the Dwarves."_ ***---&#65279;LotR*** 
+> > _Dragon._ Two strikes. Attacker chooses defending characters. <br>&ensp;Two wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. <br>_"About this time Dragons reappear in the far North and begin to afflict the Dwarves."_ ***---&#65279;LotR*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【10/&ndash;】</div>
@@ -39,13 +39,13 @@ permalink: /cards/cave-drake/
 > > <div class="card-name">Cave-drake</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/ruinlair.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/ruinlair.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Dragon._ Two strikes. Attacker chooses defending characters. Two wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. <br>_"About this time Dragons reappear in the far North and begin to afflict the Dwarves."_ ***---&#65279;LotR*** 
+> > _Dragon._ Two strikes. Attacker chooses defending characters. <br>&ensp;Two wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. <br>_"About this time Dragons reappear in the far North and begin to afflict the Dwarves."_ ***---&#65279;LotR*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【10/&ndash;】</div>
@@ -59,7 +59,7 @@ permalink: /cards/cave-drake/
 > > <div class="card-name">Cave-drake</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/ruinlair.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/ruinlair.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -79,7 +79,7 @@ permalink: /cards/cave-drake/
 > > <div class="card-name">Cave-drake</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/ruinlair.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/ruinlair.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature

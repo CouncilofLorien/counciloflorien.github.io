@@ -22,7 +22,7 @@ permalink: /cards/daelomin/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ May be played at Dancing Spire. _Dragon._ Three strikes. Attacker chooses defending characters. If Doors of Night is in play, may also be played keyed to Grey Mountain Narrows, Iron Hills, Northern Rhovanion, and Withered Heath; and may also be played at sites in these regions. 
+> > _**Unique.**_ ***May be played at Dancing Spire.*** _Dragon._ Three strikes. Attacker chooses defending characters. <br>&ensp;If _Doors of Night_ is in play, may also be played keyed to Grey Mountain Narrows, Iron Hills, Northern Rhovanion, and Withered Heath; and may also be played at sites in these regions. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【13/8】</div>
@@ -39,7 +39,7 @@ permalink: /cards/daelomin/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ May be played at Dancing Spire. _Dragon._ Three strikes. Attacker chooses defending characters. If Doors of Night is in play, may also be played keyed to Grey Mountain Narrows, Iron Hills, Northern Rhovanion, and Withered Heath; and may also be played at sites in these regions. 
+> > _**Unique.**_ ***May be played at Dancing Spire.*** _Dragon._ Three strikes. Attacker chooses defending characters. <br>&ensp;If _Doors of Night_ is in play, may also be played keyed to Grey Mountain Narrows, Iron Hills, Northern Rhovanion, and Withered Heath; and may also be played at sites in these regions. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【13/8】</div>

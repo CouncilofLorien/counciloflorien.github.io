@@ -19,13 +19,13 @@ permalink: /cards/crebain/
 > > <div class="card-name">Crebain</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/ruinlair.svg)&ensp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)
+> > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/ruinlair.svg)&ensp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Animals._ Each character in the company faces one strike. After the attack, the defender must reveal one random card from his hand for each character in the defending company. <br>_"As they passed overhead, in so dense a throng that their shadow followed them darkly over the ground below, one harsh croak was heard."_ ***---&#65279;LotRII*** 
+> > _Animals._ Each character in the company faces one strike. <br>&ensp;After the attack, the defender must reveal one random card from his hand for each character in the defending company. <br>_"As they passed overhead, in so dense a throng that their shadow followed them darkly over the ground below, one harsh croak was heard."_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【5/&ndash;】</div>
@@ -39,13 +39,13 @@ permalink: /cards/crebain/
 > > <div class="card-name">Crebain</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/ruinlair.svg)&ensp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)
+> > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/ruinlair.svg)&ensp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Animals._ Each character in the company faces one strike. After the attack, the defender must reveal one random card from his hand for each character in the defending company. <br>_"As they passed overhead, in so dense a throng that their shadow followed them darkly over the ground below, one harsh croak was heard."_ ***---&#65279;LotRII*** 
+> > _Animals._ Each character in the company faces one strike. <br>&ensp;After the attack, the defender must reveal one random card from his hand for each character in the defending company. <br>_"As they passed overhead, in so dense a throng that their shadow followed them darkly over the ground below, one harsh croak was heard."_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【5/&ndash;】</div>
