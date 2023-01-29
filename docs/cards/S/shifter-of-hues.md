@@ -19,7 +19,7 @@ permalink: /cards/shifter-of-hues/
 > > <div class="card-name">Shifter of Hues</div>
 >
 > {: .stage-resource-name .black-text .p-1 .pl-2 }
-> > 27[gi] 3![](/assets/images/di.svg) 1![](/assets/images/stage-point.svg)
+> > 27![](/assets/images/gi.svg) 3![](/assets/images/di.svg) 1![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event

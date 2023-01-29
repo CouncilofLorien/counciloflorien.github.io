@@ -79,7 +79,7 @@ permalink: /cards/saruman/
 > > <div class="character-card-name">Saruman</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 15[gi] 12![](/assets/images/di.svg)
+> > 15![](/assets/images/gi.svg) 12![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Scout/Ranger/Sage/Diplomat Fallen-wizard
