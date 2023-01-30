@@ -19,13 +19,13 @@ permalink: /cards/slayer/
 > > <div class="card-name">Slayer</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/border-hold.svg)
+> > ![](/assets/images/border-land.svg)&emsp;![](/assets/images/border-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Slayer._ Two attacks (of one strike each) against the same character. Attacker chooses defending character. The defender may tap one character in the same company to cancel one of the attacks. <br>_"In one of the windows he caught a glimpse of a sallow face with sly, slanting eyes; but it vanished at once."_ ***---&#65279;LotRI*** 
+> > Two attacks (of one strike each) against the same character. Attacker chooses defending character. The defender may tap one character in the same company to cancel one of the attacks. <br>_"In one of the windows he caught a glimpse of a sallow face with sly, slanting eyes; but it vanished at once."_ ***---&#65279;LotRI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【11/&ndash;】</div>
@@ -35,11 +35,11 @@ permalink: /cards/slayer/
 
 {: .hazard-unlimited ..mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
-> > <div class="hazard-mp">0</div>
+> > <div class="hazard-mp">2</div>
 > > <div class="card-name">Slayer</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/border-hold.svg)
+> > ![](/assets/images/border-land.svg)&emsp;![](/assets/images/border-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -59,7 +59,7 @@ permalink: /cards/slayer/
 > > <div class="card-name">Slayer</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/border-hold.svg)
+> > ![](/assets/images/border-land.svg)&emsp;![](/assets/images/border-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -79,7 +79,7 @@ permalink: /cards/slayer/
 > > <div class="card-name">Slayer</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/border-hold.svg)
+> > ![](/assets/images/border-land.svg)&emsp;![](/assets/images/border-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature

@@ -25,7 +25,7 @@ permalink: /cards/silent-watcher/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Pukel-creature._ Each character in the company faces one strike. <br>_"They seemed to be carved out of huge blocks of stone, immovable, and yet they were aware: some dreadful spirit of evil vigilance abode in them."_ ***---&#65279;LotRVI*** 
+> > Each character in the company faces one strike. <br>_"They seemed to be carved out of huge blocks of stone, immovable, and yet they were aware: some dreadful spirit of evil vigilance abode in them."_ ***---&#65279;LotRVI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【8/&ndash;】</div>
@@ -35,7 +35,7 @@ permalink: /cards/silent-watcher/
 
 {: .hazard-unlimited ..mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
-> > <div class="hazard-mp">0</div>
+> > <div class="hazard-mp">1</div>
 > > <div class="card-name">Silent Watcher</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }

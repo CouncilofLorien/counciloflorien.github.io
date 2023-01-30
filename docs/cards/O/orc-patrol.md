@@ -19,7 +19,7 @@ permalink: /cards/orc-patrol/
 > > <div class="card-name">Orc-patrol</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/ruinlair.svg)&ensp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/ruinlair.svg)&ensp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -28,7 +28,7 @@ permalink: /cards/orc-patrol/
 > > _Orcs._ Three strikes. <br>_“...hundreds of hideous orc-faces grinned at him out of the shadows, hundreds of hideous arms grasped at him from every side."_ ***---&#65279;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【7/&ndash;】</div>
+> > <div class="card-shield">【6/&ndash;】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -39,7 +39,7 @@ permalink: /cards/orc-patrol/
 > > <div class="card-name">Orc-patrol</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/ruinlair.svg)&ensp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/ruinlair.svg)&ensp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -48,5 +48,5 @@ permalink: /cards/orc-patrol/
 > > _Orcs._ Three strikes. <br>_“...hundreds of hideous orc-faces grinned at him out of the shadows, hundreds of hideous arms grasped at him from every side."_ ***---&#65279;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【7/&ndash;】</div>
+> > <div class="card-shield">【6/&ndash;】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

@@ -25,7 +25,7 @@ permalink: /cards/huorn/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Awakened Plant._ One strike. May also be played at Druadan Forest, Old Forest, and Wellinghall. May also be keyed to Heart of Mirkwood, Southern Mirkwood, Western Mirkwood, and Woodland Realm; and may be also played at Ruins & Lairs \[![](/assets/images/ruinlair.svg)] and Shadow-holds \[![](/assets/images/shadow-hold.svg)] in these regions. 
+> > One strike. May also be played at Druadan Forest, Old Forest, and Wellinghall. May also be keyed to Heart of Mirkwood, Southern Mirkwood, Western Mirkwood, and Woodland Realm; and may be also played at Ruins & Lairs \[![](/assets/images/ruinlair.svg)] and Shadow-holds \[![](/assets/images/shadow-hold.svg)] in these regions. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【10/&ndash;】</div>

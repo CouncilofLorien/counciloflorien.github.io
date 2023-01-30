@@ -19,13 +19,13 @@ permalink: /cards/watcher-in-the-water/
 > > <div class="card-name">Watcher in the Water</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/coastalsea.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/coastalsea.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Animal. Each character in the company faces one strike. May also be played at Moria. Two Wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. <br>_"Out of the water a long sinuous tentacle had crawled; it was pale-green and luminous and wet."_ ***---&#65279;LotRII*** 
+> > Each character in the company faces one strike. May also be played at Moria. <br>&ensp;Two Wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. <br>_"Out of the water a long sinuous tentacle had crawled; it was pale-green and luminous and wet."_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【8/&ndash;】</div>
@@ -39,13 +39,13 @@ permalink: /cards/watcher-in-the-water/
 > > <div class="card-name">Watcher in the Water</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/coastalsea.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/coastalsea.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Animal. Each character in the company faces one strike. May also be played at Moria. Two Wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. <br>_"Out of the water a long sinuous tentacle had crawled; it was pale-green and luminous and wet."_ ***---&#65279;LotRII*** 
+> > _Animal._ Each character in the company faces one strike. May also be played at Moria. <br>&ensp;Two Wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. <br>_"Out of the water a long sinuous tentacle had crawled; it was pale-green and luminous and wet."_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【8/&ndash;】</div>
@@ -59,13 +59,13 @@ permalink: /cards/watcher-in-the-water/
 > > <div class="card-name">Watcher in the Water</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/coastalsea.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/coastalsea.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Animal. Each character in the company faces one strike. May also be played at Moria.   <br>_“‘...the arms were all guided by one purpose. Something has crept, or has been driven out of dark waters under the mountains’”_ ***---&#65279;LotRII*** 
+> > _Animal._ Each character in the company faces one strike. May also be played at Moria.   <br>_“‘...the arms were all guided by one purpose. Something has crept, or has been driven out of dark waters under the mountains’”_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【8/&ndash;】</div>
@@ -79,13 +79,13 @@ permalink: /cards/watcher-in-the-water/
 > > <div class="card-name">Watcher in the Water</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/coastalsea.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/coastalsea.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Animal. Each character in the company faces one strike. May also be played at Moria.   <br>_“‘...the arms were all guided by one purpose. Something has crept, or has been driven out of dark waters under the mountains’”_ ***---&#65279;LotRII*** 
+> > _Animal._ Each character in the company faces one strike. May also be played at Moria.   <br>_“‘...the arms were all guided by one purpose. Something has crept, or has been driven out of dark waters under the mountains’”_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【8/&ndash;】</div>

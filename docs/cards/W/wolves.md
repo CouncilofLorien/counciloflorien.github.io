@@ -25,7 +25,7 @@ permalink: /cards/wolves/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Wolves._ Three strikes. <br>_“...they heard a howl away down hill, a long shuddering howl. It was answered by another away to the right and a good deal nearer to them...”_ ***---&#65279;Hob*** 
+> > _Animals._ Three strikes. <br>_“...they heard a howl away down hill, a long shuddering howl. It was answered by another away to the right and a good deal nearer to them...”_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【8/&ndash;】</div>

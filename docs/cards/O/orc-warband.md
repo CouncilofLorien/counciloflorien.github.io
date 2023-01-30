@@ -19,16 +19,16 @@ permalink: /cards/orc-warband/
 > > <div class="card-name">Orc-warband</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/ruinlair.svg)&ensp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/ruinlair.svg)&ensp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Orcs._ Five strikes. If played on a company that has already faced an Orc attack this turn, Orc-warband receives +3 prowess. <br>_"Then the whole company began to run with the long loping strides of _Orcs._ They kept no order, thrusting, jostling, and cursing; yet their speed was very great."_ ***---&#65279;LotRIII*** 
+> > _Orcs._ Five strikes. If played on a company that has already faced an Orc attack this turn, _Orc-warband_ receives +3 prowess. <br>_"Then the whole company began to run with the long loping strides of Orcs. They kept no order, thrusting, jostling, and cursing; yet their speed was very great."_ ***---&#65279;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【6/&ndash;】</div>
+> > <div class="card-shield">【4/&ndash;】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -39,16 +39,16 @@ permalink: /cards/orc-warband/
 > > <div class="card-name">Orc-warband</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/ruinlair.svg)&ensp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/ruinlair.svg)&ensp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Orcs._ Five strikes. If played on a company that has already faced an Orc attack this turn, Orc-warband receives +3 prowess. <br>_"Then the whole company began to run with the long loping strides of _Orcs._ They kept no order, thrusting, jostling, and cursing; yet their speed was very great."_ ***---&#65279;LotRIII*** 
+> > _Orcs._ Five strikes. If played on a company that has already faced an Orc attack this turn, _Orc-warband_ receives +3 prowess. <br>_"Then the whole company began to run with the long loping strides of Orcs. They kept no order, thrusting, jostling, and cursing; yet their speed was very great."_ ***---&#65279;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【6/&ndash;】</div>
+> > <div class="card-shield">【4/&ndash;】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth: The Lidless Eye_
@@ -59,13 +59,13 @@ permalink: /cards/orc-warband/
 > > <div class="card-name">Orc-warband</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/ruinlair.svg)&ensp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/ruinlair.svg)&ensp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Orcs._ Five strikes. If played on a company that has already faced an Orc attack this turn, Orc-warband receives +3 prowess. <br>_"Fierce and shrill rose the yells of the Orcs, and suddenly the horn calls ceased."_ ***---&#65279;LotRIII*** 
+> > _Orcs._ Five strikes. If played on a company that has already faced an Orc attack this turn, _Orc-warband_ receives +3 prowess. <br>_"Fierce and shrill rose the yells of the Orcs, and suddenly the horn calls ceased."_ ***---&#65279;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【4/&ndash;】</div>
@@ -79,13 +79,13 @@ permalink: /cards/orc-warband/
 > > <div class="card-name">Orc-warband</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/ruinlair.svg)&ensp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/ruinlair.svg)&ensp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Orcs._ Five strikes. If played on a company that has already faced an Orc attack this turn, Orc-warband receives +3 prowess. <br>_"Fierce and shrill rose the yells of the Orcs, and suddenly the horn calls ceased."_ ***---&#65279;LotRIII*** 
+> > _Orcs._ Five strikes. If played on a company that has already faced an Orc attack this turn, Orc-warband_ receives +3 prowess. <br>_"Fierce and shrill rose the yells of the Orcs, and suddenly the horn calls ceased."_ ***---&#65279;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【4/&ndash;】</div>

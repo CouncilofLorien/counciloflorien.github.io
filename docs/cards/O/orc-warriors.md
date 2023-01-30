@@ -19,7 +19,7 @@ permalink: /cards/orc-warriors/
 > > <div class="card-name">Orc-warriors</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/ruinlair.svg)
+> > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/ruinlair.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -39,7 +39,7 @@ permalink: /cards/orc-warriors/
 > > <div class="card-name">Orc-warriors</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/ruinlair.svg)
+> > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/ruinlair.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -59,7 +59,7 @@ permalink: /cards/orc-warriors/
 > > <div class="card-name">Orc-warriors</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/ruinlair.svg)
+> > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/ruinlair.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
