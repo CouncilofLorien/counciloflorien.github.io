@@ -25,7 +25,13 @@ permalink: /cards/beorn/
 > Warrior/Ranger Man
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Beornings faction. <br>_“...a huge man with thick, black beard and hair, and great bare arms and legs knotted muscles."_ ***---&#65279;Hob***  <br><br>**Home Site:** Beorn's House 
+> > _**Unique.**_ +2 direct influence against the Beornings faction. 
+> > 
+> > {: .fs-2 }
+> > _“...a huge man with thick, black beard and hair, and great bare arms and legs knotted muscles."_ ***---&#65279;Hob***
+> > 
+> > {: .fs-2 .text-right }
+> > **Home Site:** Beorn's House 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【7/9】</div>
