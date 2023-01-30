@@ -25,7 +25,7 @@ permalink: /cards/old-man-willow/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Awakened Plant._ One strike. 15 prowess against Hobbits. May also be played keyed to Fangorn, Heart of Mirkwood, Southern Mirkwood, and Western Mirkwood; and may be also played at Ruins & Lairs \[![](/assets/images/ruinlair.svg)], Shadow-holds \[![](/assets/images/shadow-hold.svg)], and Dark-holds \[![](/assets/images/dark-hold.svg)] in these regions. Also playable at Old Forest and Druadan Forest. <br>&ensp;Two Wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. 
+> > One strike. 15 prowess against Hobbits. May also be played keyed to Fangorn, Heart of Mirkwood, Southern Mirkwood, and Western Mirkwood; and may be also played at Ruins & Lairs \[![](/assets/images/ruinlair.svg)], Shadow-holds \[![](/assets/images/shadow-hold.svg)], and Dark-holds \[![](/assets/images/dark-hold.svg)] in these regions. Also playable at Old Forest and Druadan Forest. <br>&ensp;Two Wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【13/&ndash;】</div>
