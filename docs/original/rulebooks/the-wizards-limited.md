@@ -28,8 +28,7 @@ RULESBOOK
 CONTENTS
 
 |  &emsp; [Using This Rulesbook](#using-this-rulesbook)    <br>&emsp; [Player Turn Summary](#player-turn-summary)    <br>&emsp; [Player Notes](#player-notes)    <br>**Part I — The Starter Rules**    <br>&emsp; [1 • The Victory Conditions](#1--the-victory-conditions)    <br>&emsp; [2 • The Cards and Decks](#2--the-cards-and-decks)    <br>&emsp; [3 • Getting Ready to Play](#3--getting-ready-to-play)    <br>&emsp; [4 • The Player Turn](#4--the-player-turn)    <br>&emsp; [5 • Characters and Companies](#5--characters--companies)    <br>&emsp; [6 • Movement](#6--movement)      <br>&emsp; [7 • Combat](#7--combat)     <br>&emsp; [8 • Corruption](#8--corruption)      <br>&emsp; [9 • Influence](#9--influence)    <br>&emsp; [10 • Playing and Drawing Cards](#10--playing-and-drawing-cards)    <br>**Part II — The Standard Rules**    <br>&emsp; [1 • The Victory Conditions](#1--the-victory-conditions-1)      <br>&emsp; [2 • The Cards and Decks](#2--the-cards-and-decks-1)    <br>&emsp; [3 • Getting Ready to Play](#3--getting-ready-to-play-1)    <br>&emsp; [4 • The Player Turn](#4--the-player-turn-1)    <br>&emsp; [5 • Characters and Companies](#5--characters--companies-1)  <br>&emsp; [6 • Movement](#6--movement-1)  |  &emsp; [7 • Combat](#7--combat-1)    <br>&emsp; [8 • Corruption](#8--corruption-1)    <br>&emsp; [9 • Influence](#9--influence-1)     <br>&emsp; [10 • Playing and Drawing Cards](#10--playing-and-drawing-cards-1)     <br>**Part III — Optional Rules**    <br>&emsp; Special Rules for Character Death    <br>&emsp; [Special Movement to Gorgoroth](#special-movement-to-gorgoroth-rules)    <br>&emsp; [Burglaring](#burglaring)    <br>&emsp; [Recently Visited Sites](#recently-visited-sites)    <br>&emsp; [Tapping to Face Multiple Strikes](#tapping-to-face-multiple-strikes)    <br>&emsp; [Multi-player Rules](#multi-player-rules)    <br>&emsp; [Solitaire Rules](#solitaire-rules)    <br>**The Appendices**    <br>&emsp; [Card Diagrams](#card-diagrams)     <br>&emsp; [Map of Middle-earth](#map-of-middle-earth)    <br>&emsp; [Map Index](#map-index)    <br>&emsp; [Full Player Turn Summary](#full-player-turn-summary)    <br>&emsp; [Symbol Key](#symbol-key)    <br>&emsp; [Combat Modifications](#combat-modifications) <br>&emsp; [Credits](#credits) <br>&emsp; |
-
-
+---
 ## INTRODUCTION
 
 During the Third Age, the Valar sent five Maiar to Middle-earth to unite and counsel the Free Peoples in their struggles against Sauron, the Dark Lord. However, they were forbidden to dominate the peoples of Middle-earth or to match the power of Sauron with power. These five were known as the "Wizards" (also called Istari) in Middle-earth, and individually they were called: Gandalf, Saruman, Radagast, Alatar, and Pallando.
@@ -39,7 +38,7 @@ In _Middle-earth: The Wizards_, you play one of these five Wizards. Your goal is
 In _The Lord of the Rings_, Gandalf was the only Wizard to succeed. Saruman was corrupted by power, Radagast "went native," and Alatar and Pallando disappeared into the East. Only Gandalf remained true to his task, eventually marshalling the characters and forces that withstood Sauron's might long enough for the Fellowship to destroy the One Ring.
 
 "Evil Forces" are represented by _hazards_ that the players use against one another. For example, if you move a character into Moria, your opponent could play a Troll card as a hazard. These hazards are not "controlled" by the Wizards, but rather they represent the forces of Sauron, who himself is in a "dormant" or hiding phase. The players are "good," so conflict takes the form of hazards and direct attempts to "persuade" or "dominate" each other and each other's characters and forces. <span id="page2" class="page-number">2</span>
-
+---
 ## USING THIS RULESBOOK
 
 The rules for playing the _Middle-earth: The Wizards_ (_METW_) game are organized into four parts:
@@ -54,7 +53,7 @@ _The Optional Rules_ — These rules provide interesting variations to the stand
 _The Appendices_ — This part contains reference material that can prove useful during play: an index, a map of Middle-earth, a full turn summary, a symbol key, etc.
 
 The Starter and Standard Rules are for a two-player game; multi-player rules are provided in the Optional Rules. <span id="page3" class="page-number">3</span>
-
+---
 ## PLAYER TURN SUMMARY
 
 Play consists of a series of "Player Turns." During your turn, follow the steps outlined in this turn summary. Then, your opponent does the same during his turn. You and your opponent alternate turns until the game ends. 
@@ -70,7 +69,7 @@ _Movement/Hazard Phase_ — One at a time, each of your companies takes the foll
 _Site Phase_ — One at a time, each of your companies _may_ take the following actions at its current, untapped site. The company decides to enter and explore the site. If the site has an automatic-attack, it attacks the company. The company may attempt to play one item, ally, faction, or information resource card that is "playable" at that site. A character in the company must tap to make this attempt. If the card is successfully played, tap the site.
  
 _End-of-Turn Phase_ — Each player may discard one card. Then each player must draw or discard so that his hand has eight cards. <span id="page4" class="page-number">4</span>
- 
+---
 ## PLAYER NOTES
 
 - Site cards (and region cards in the Standard Game) represent the geography of Middle-earth. They are used to control the acquisition of resources, but they should not direct play. Instead, a player should examine the resources in his hand and then select a nearby site to travel to. Initially, do not worry too much about which site to use, just pick one that has the resource type you want to play. It also helps if you select the location cards you are most likely to use when you put together a play deck.
@@ -83,7 +82,7 @@ _End-of-Turn Phase_ — Each player may discard one card. Then each player must 
 - _METW_ is less tactical and more strategic than some other CCGs. There is combat, but it is not the dominant focus of the game. 
 - The players in _METW_ are in direct competition with each other to marshal resources. However, only hazards directly attack the players' characters and they are handled in a less controlled fashion (e.g., they are only played during your opponent's movement/hazard phase, hazard creatures do not remain in play, etc.).
 - For timing purposes, all cards in _METW_ are played and tapped with the same "speed" (effects take place instantly). But, a player may only play resource cards during his own turn, and a player may only play hazard cards during his opponent's movement/hazard phase. <span id="page5" class="page-number">5</span>
-
+---
 # • PART I •<br/>THE STARTER RULES
         
 To get a general idea of how to play, read the Starter Rules sections that are marked with a bar on one side.[^bar] Later you can refer to the other sections for more information on special situations.
@@ -106,7 +105,7 @@ To get a general idea of how to play, read the Starter Rules sections that are m
  - After you have exhausted your play deck for the first time, you may choose to call the council at the end of any of your turns. The council starts at the end of your opponent's next turn (i.e., your opponent gets one last turn).
  - You may choose to call the council at the end of your turn if you have accumulated at least 20 marshalling points. The council starts at the end of your opponent's next turn (i.e., your opponent gets one last turn).
  > **Note:** _If one or both players only has access to a starter deck (76 cards), this requirement of 20 marshalling points should be lowered to 18._ <span id="page6" class="page-number">6</span>
- 
+---
 #### The Free Council
 
  Just before the Free Council, each character must make a corruption check. The winner of the game is the player that has gathered the most marshalling points from:
@@ -131,7 +130,7 @@ _Location Deck_ — This deck consists of your site cards. You may examine and s
  
 _Play Deck_ — This deck consists of your resource cards, hazards cards, and character cards. You randomly draw cards from this deck during play. Your play deck starts with an equal mix of resource cards and hazard cards.  
 You can use resources at certain sites and in certain conditions. Resources include: items, factions, allies, events, etc. _You may only play resource cards during your own turn._ You use hazards to hinder and attack your opponent's characters in order to prevent them from marshalling resources. _You may only play hazard cards during your opponent's movement/hazard phase._ <span id="page7" class="page-number">7</span>
- 
+---
 _Discard Pile_ — Your discarded cards are placed face down in your discard pile. When your play deck is _exhausted_, the location cards in your discard pile are returned to the location deck and you shuffle the play cards and they become your new play deck.
  
 > **Note:** _Your play deck is "exhausted" when you draw its last card. Some cards require that your play deck be manipulated and then reshuffled—this does **not** "exhaust" your play deck._
@@ -151,7 +150,7 @@ _Marshalling Point Pile_ (_MP pile_) — When certain cards are removed from pla
  If a card states that it is "unique" or that it "may not be duplicated," only one such card (or its effects) may be in play at a time. The first card played takes precedence (influence checks may change this).
           
 Because hazard cards are distinct from resource cards, you may not play your hazards on your side of the playing surface. At the end of a game, it will be obvious whose cards are whose, i.e., hazards in your area must belong to your opponent. We suggest adopting a neutral zone between each player's side of the playing surface. Non-targeted long-events and permanent-events can be played in this neutral zone. <span id="page8" class="page-number">8</span>
-
+---
 {: .text-center }
 ![](/assets/images/cardsanddecks-limited.svg)
 
@@ -181,7 +180,7 @@ Play consists of a series of "Player Turns." During your turn, you take various 
  6. End-of-Turn Phase
 
 The steps taken during a turn are outlined in the turn summary on page 4, and in a more detailed summary provided on pages 44-46. <span id="page10" class="page-number">10</span>
-
+---
 ## 5 • CHARACTERS & COMPANIES
 
 As a player, you influence and control a number of characters that move and act in the environment of Middle-earth. Each character's abilities are defined by the following attributes: race, skills, direct influence, prowess (offense), body (defense), mind, marshalling points, and special abilities. A character can be _eliminated_ and removed from play as a result of combat (failing a body check) or corruption (failing a corruption check).
@@ -197,7 +196,7 @@ Companies can only combine at a Haven—just remove all but one of the companies
 One company can split into two or more companies only at a Haven—one Haven site card must be available for each company.
           
 Characters provide the main limiter on action during a game. You use your Wizard's general influence or your other characters' direct influences on a character to bring that character into play and to keep it in play. A character in play can move and take actions (e.g., defending against attacks, influencing, etc.). Items, allies, and other cards representing things a character acquires and controls are placed under his card. <span id="page11" class="page-number">11</span>
-
+---
 ### BRINGING CHARACTERS INTO PLAY
 
  During your organization phase, you may perform one of the following activities:
@@ -221,7 +220,7 @@ Each character and Wizard is unique. So if you already have a character in play,
 ### HEALING
 
 Each of your characters at a Haven may heal during the untap phase of your turn. Such a character moves from a wounded position to a tapped position (i.e., the character is still tapped). In addition, certain cards can heal characters when they are played (e.g., Healing Herbs, Halfling Strength, etc.). <span id="page12" class="page-number">12</span>
-
+---
 ### CHARACTER ATTRIBUTES
 
 Each character's abilities are defined by the following attributes (the notation for certain attributes is given in brackets):
@@ -243,7 +242,7 @@ _Mind_ \[ ![](/assets/images/mind.svg) ]: A character's mind determines how many
 _Marshalling Points_ \[ upper left ]: This is the number of marshalling points you receive when you have the character in play. This value represents the character's importance to the Free Peoples' struggle against Sauron.
  
 _Special Abilities_: Some characters have special abilities that are detailed on their cards and certain resource cards. For example, Faramir has an influence bonus against the Rangers of Ithilien faction, Eowyn has a heightened prowess against Nazgul, Frodo has a corruption check modifier, etc. <span id="page13" class="page-number">13</span>
- 
+---
 ### INFLUENCING (CONTROLLING) A CHARACTER
 
 You have a pool of 20 general influence points. At any one time, the total mind attributes of your characters in play (not counting followers) must be less than or equal to 20; this total is equal to your _used general influence points_. Your _unused general influence points_ help your characters resist influence attempts made by your opponent.
