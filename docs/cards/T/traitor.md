@@ -22,7 +22,7 @@ permalink: /cards/traitor/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > When the next character fails a corruption check, he becomes a 'traitor,' this card is discarded, and an attack is immediately made against a character in the traitor's company. The character to be attacked is chosen by the player who does not control the traitor's company. The prowess of the attack is equal to the prowess of the traitor plus 10. Any resulting body check is modified by +1. This card is discarded when a character fails his corruption check. 
+> > When the next character fails a corruption check, he becomes a "traitor" and an attack is immediately made against a character in the traitor's company. <br>&ensp;The character to be attacked is chosen by the player who does _not_ control the traitor's company. The prowess of the attack is equal to the prowess of the traitor plus 10. Any resulting body check is modified by +1. <br>&ensp;After the attack, this card is discarded and the corruption of the traitor is resolved normally (i.e., he is discarded or removed from play).
 >
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,5 +36,5 @@ permalink: /cards/traitor/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > When the next character fails a corruption check, he becomes a 'traitor,' this card is discarded, and an attack is immediately made against a character in the traitor's company. The character to be attacked is chosen by the player who does not control the traitor's company. The prowess of the attack is equal to the prowess of the traitor plus 10. Any resulting body check is modified by +1. This card is discarded when a character fails his corruption check. 
+> > When the next character fails a corruption check, he becomes a "traitor," this card is discarded, and an attack is immediately made against a character in the traitor's company. <br>&ensp;The character to be attacked is chosen by the player who does _not_ control the traitor's company. The prowess of the attack is equal to the prowess of the traitor plus 10. Any resulting body check is modified by +1. <br>&ensp;If the traitor is not eliminated by the attack, the effects of the traitor's corruption check are resolved normally (i.e., he is discarded or removed from play).
 >

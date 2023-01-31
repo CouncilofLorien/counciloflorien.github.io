@@ -22,7 +22,7 @@ permalink: /cards/night/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ The prowess of each non-ranger Dunadan is modified by -1. Additionally, if Doors of Night is in play, the prowesses of all attacks are modified by +1 and the prowess of each Man and Dunadan is modified by -1. Cannot be duplicated. 
+> > _Environment._ The prowess of each non-ranger Dunadan is modified by -1. <br>&ensp;Additionally, if _Doors of Night_ is in play, the prowesses of all attacks are modified by +1 **and** the prowess of each Man and Dunadan is modified by -1. <br>&ensp;Cannot be duplicated. 
 >
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,5 +36,5 @@ permalink: /cards/night/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ The prowess of each non-ranger Dunadan is modified by -1. Additionally, if Doors of Night is in play, the prowesses of all attacks are modified by +1 and the prowess of each Man and Dunadan is modified by -1. Cannot be duplicated. 
+> > _Environment._ The prowess of each non-ranger Dunadan is modified by -1. <br>&ensp;Additionally, if _Doors of Night_ is in play, the prowesses of all attacks are modified by +1 **and** the prowess of each Man and Dunadan is modified by -1. <br>&ensp;Cannot be duplicated. 
 >

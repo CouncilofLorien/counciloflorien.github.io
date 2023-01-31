@@ -22,7 +22,7 @@ permalink: /cards/wake-of-war/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The number of strikes and prowess of each Wolf, Spider, and Animal attack are increased by one (by two for Wolves if Doors of Night is in play). Can not be duplicated. <br>_"Fire and smoke and stench were in the air; for many engines had been burned or cast into the fire-pits, and many of the slain also...”_ ***---&#65279;LotRV*** 
+> > The number of strikes and prowess of each Wolf, Spider, and Animal attack are increased by one (by two for Wolves if _Doors of Night_ is in play). <br>&ensp;Cannot be duplicated. <br>_"Fire and smoke and stench were in the air; for many engines had been burned or cast into the fire-pits, and many of the slain also...”_ ***---&#65279;LotRV*** 
 >
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,7 +36,7 @@ permalink: /cards/wake-of-war/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The number of strikes and prowess of each Wolf, Spider, and Animal attack are increased by one (by two for Wolves if Doors of Night is in play). Can not be duplicated. <br>_"Fire and smoke and stench were in the air; for many engines had been burned or cast into the fire-pits, and many of the slain also...”_ ***---&#65279;LotRV*** 
+> > The number of strikes and prowess of each Wolf, Spider, and Animal attack are increased by one (by two for Wolves if _Doors of Night_ is in play). <br>&ensp;Cannot be duplicated. <br>_"Fire and smoke and stench were in the air; for many engines had been burned or cast into the fire-pits, and many of the slain also...”_ ***---&#65279;LotRV*** 
 >
 
 ### _Middle-earth: The Wizards Starter Set_
@@ -50,7 +50,7 @@ permalink: /cards/wake-of-war/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The number of strikes and prowess of each Wolf, Spider, and Animal attack are increased by one (by two for Wolves if Doors of Night is in play). Can not be duplicated. <br>_"Fire and smoke and stench were in the air; for many engines had been burned or cast into the fire-pits, and many of the slain also...”_ ***---&#65279;LotRV*** 
+> > The number of strikes and prowess of each Wolf, Spider, and Animal attack are increased by one (by two for Wolves if _Doors of Night_ is in play). <br>&ensp;Cannot be duplicated. <br>_"Fire and smoke and stench were in the air; for many engines had been burned or cast into the fire-pits, and many of the slain also...”_ ***---&#65279;LotRV*** 
 >
 
 ### _Middle-earth: The Lidless Eye_
@@ -64,7 +64,7 @@ permalink: /cards/wake-of-war/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The number of strikes and prowess of each Wolf, Spider, and Animal attack are increased by one (by two for Wolf attacks if Doors of Night is in play). Cannot be duplicated. <br>_"No few had fallen, renowned or nameless, captain or soldier; for it was a great battle and the full count of it no tale has told."_ ***---&#65279;LotRI*** 
+> > The number of strikes and prowess of each Wolf, Spider, and Animal attack are increased by one (by two for Wolf attacks if _Doors of Night_ is in play). <br>&ensp;Cannot be duplicated. <br>_"No few had fallen, renowned or nameless, captain or soldier; for it was a great battle and the full count of it no tale has told."_ ***---&#65279;LotRI*** 
 >
 
 ### _Middle-earth Challenge Decks_
@@ -78,5 +78,5 @@ permalink: /cards/wake-of-war/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The number of strikes and prowess of each Wolf, Spider, and Animal attack are increased by one (by two for Wolves if Doors of Night is in play). Can not be duplicated. <br>_"Fire and smoke and stench were in the air; for many engines had been burned or cast into the fire-pits, and many of the slain also...”_ ***---&#65279;LotRV*** 
+> > The number of strikes and prowess of each Wolf, Spider, and Animal attack are increased by one (by two for Wolves if _Doors of Night_ is in play). <br>&ensp;Cannot be duplicated. <br>_"Fire and smoke and stench were in the air; for many engines had been burned or cast into the fire-pits, and many of the slain also...”_ ***---&#65279;LotRV*** 
 >

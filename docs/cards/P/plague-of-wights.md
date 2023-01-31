@@ -22,7 +22,7 @@ permalink: /cards/plague-of-wights/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The prowess of all Undead attacks is increased by one. Additionally, if Doors of Night is in play, the number of strikes for each Undead attack is doubled. Cannot be duplicated. <br>_“‘But only evil wights dwell there now, and I will not willingly tell more of them.’”_ ***---&#65279;LotRV*** 
+> > The prowess of all Undead attacks is increased by one. <br>&ensp;Additionally, if _Doors of Night_ is in play, the number of strikes for each Undead attack is doubled. <br>&ensp;Cannot be duplicated. <br>_“‘But only evil wights dwell there now, and I will not willingly tell more of them.’”_ ***---&#65279;LotRV*** 
 >
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,7 +36,7 @@ permalink: /cards/plague-of-wights/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The prowess of all Undead attacks is increased by one. Additionally, if Doors of Night is in play, the number of strikes for each Undead attack is doubled. Cannot be duplicated. <br>_“‘But only evil wights dwell there now, and I will not willingly tell more of them.’”_ ***---&#65279;LotRV*** 
+> > The prowess of all Undead attacks is increased by one. <br>&ensp;Additionally, if _Doors of Night_ is in play, the number of strikes for each Undead attack is doubled. <br>&ensp;Cannot be duplicated. <br>_“‘But only evil wights dwell there now, and I will not willingly tell more of them.’”_ ***---&#65279;LotRV*** 
 >
 
 ### _Middle-earth: The Lidless Eye_
@@ -50,7 +50,7 @@ permalink: /cards/plague-of-wights/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The prowess of all Undead attacks is increased by one. Additionally, if Doors of Night is in play, the number of strikes for each Undead attack is doubled. Cannot be duplicated. <br>_“‘...the Shadow Host that had hung back at the last came up like a grey tide, sweeping away all before it."_ ***---&#65279;LotRI*** 
+> > The prowess of all Undead attacks is increased by one. <br>&ensp;Additionally, if _Doors of Night_ is in play, the number of strikes for each Undead attack is doubled. <br>&ensp;Cannot be duplicated. <br>_“‘...the Shadow Host that had hung back at the last came up like a grey tide, sweeping away all before it."_ ***---&#65279;LotRI*** 
 >
 
 ### _Middle-earth Challenge Decks_
@@ -64,5 +64,5 @@ permalink: /cards/plague-of-wights/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The prowess of all Undead attacks is increased by one. Additionally, if Doors of Night is in play, the number of strikes for each Undead attack is doubled. Cannot be duplicated. <br>_“‘...the Shadow Host that had hung back at the last came up like a grey tide, sweeping away all before it."_ ***---&#65279;LotRI*** 
+> > The prowess of all Undead attacks is increased by one. <br>&ensp;Additionally, if _Doors of Night_ is in play, the number of strikes for each Undead attack is doubled. <br>&ensp;Cannot be duplicated. <br>_“‘...the Shadow Host that had hung back at the last came up like a grey tide, sweeping away all before it."_ ***---&#65279;LotRI*** 
 >

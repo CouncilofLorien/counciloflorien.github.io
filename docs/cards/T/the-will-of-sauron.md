@@ -22,7 +22,7 @@ permalink: /cards/the-will-of-sauron/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable only if Doors of Night is in play. All hazard long-events remain in play until this card is discarded. Discard this card when Doors of Night leaves play, or when any play deck is exhausted. When this card is discarded, all hazard long-events are discarded. Cannot be duplicated. 
+> > ***Playable only if Doors of Night is in play.*** All hazard long-events remain in play until this card is discarded. <br>&ensp;Discard this card when _Doors of Night_ leaves play, or when any play deck is exhausted. When this card is discarded, all hazard long-events are discarded. <br>&ensp;Cannot be duplicated. 
 >
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,5 +36,5 @@ permalink: /cards/the-will-of-sauron/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable only if Doors of Night is in play. All hazard long-events remain in play until this card is discarded. Discard this card when Doors of Night leaves play, or when any play deck is exhausted. When this card is discarded, all hazard long-events are discarded. Cannot be duplicated. 
+> > ***Playable only if Doors of Night is in play.*** All hazard long-events remain in play until this card is discarded. <br>&ensp;Discard this card when _Doors of Night_ leaves play, or when any play deck is exhausted. When this card is discarded, all hazard long-events are discarded. <br>&ensp;Cannot be duplicated. 
 >

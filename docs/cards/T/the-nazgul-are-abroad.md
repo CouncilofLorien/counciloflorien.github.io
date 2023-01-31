@@ -22,7 +22,7 @@ permalink: /cards/the-nazgul-are-abroad/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Nazgul may attack the company containing the bearer of The One Ring at any site that is not a Free-hold \[![](/assets/images/free-hold.svg)] or Haven \[![](/assets/images/free-haven.svg)]. Nazgul may attack any company possessing any Ring in a Shadow-land \[![](/assets/images/shadow-land.svg)] or Shadow-hold \[![](/assets/images/shadow-hold.svg)]. If Doors of Night is in play, at the end of each turn, each player may return one Nazgul permanent-event from his discard pile to his hand. Cannot be duplicated. 
+> > Nazgul may attack the company containing the bearer of _The One Ring_ at any site that is not a Free-hold \[![](/assets/images/free-hold.svg)] or Haven \[![](/assets/images/free-haven.svg)]. <br>&ensp;Nazgul may attack any company possessing any Ring in a Shadow-land \[![](/assets/images/shadow-land.svg)] or Shadow-hold \[![](/assets/images/shadow-hold.svg)]. <br>&ensp;If _Doors of Night_ is in play, at the end of each turn, each player may return one Nazgul permanent-event from his discard pile to his hand. <br>&ensp;Cannot be duplicated. 
 >
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,5 +36,5 @@ permalink: /cards/the-nazgul-are-abroad/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Nazgul may attack the company containing the bearer of The One Ring at any site that is not a Free-hold \[![](/assets/images/free-hold.svg)] or Haven \[![](/assets/images/free-haven.svg)]. Nazgul may attack any company possessing any Ring in a Shadow-land \[![](/assets/images/shadow-land.svg)] or Shadow-hold \[![](/assets/images/shadow-hold.svg)]. If Doors of Night is in play, at the end of each turn, each player may return one Nazgul permanent-event from his discard pile to his hand. Cannot be duplicated. 
+> > Nazgul may attack the company containing the bearer of _The One Ring_ at any site that is not a Free-hold \[![](/assets/images/free-hold.svg)] or Haven \[![](/assets/images/free-haven.svg)]. <br>&ensp;Nazgul may attack any company possessing any Ring in a Shadow-land \[![](/assets/images/shadow-land.svg)] or Shadow-hold \[![](/assets/images/shadow-hold.svg)]. <br>&ensp;If _Doors of Night_ is in play, at the end of each turn, each player may return one Nazgul permanent-event from his discard pile to his hand. <br>&ensp;Cannot be duplicated. 
 >

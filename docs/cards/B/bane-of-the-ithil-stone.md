@@ -22,7 +22,7 @@ permalink: /cards/bane-of-the-ithil-stone/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Corruption points for Palantiri are doubled. Automatically cancels any effects that causes a player to search through or look at any portion of a play deck or a discard pile outside of the normal sequence of play. Discard Bane of the Ithil-stone whenever a play deck is exhausted. Cannot be duplicated. 
+> > Corruption points for Palantiri are doubled. <br>&ensp;Automatically cancels any effects that causes a player to search through or look at any portion of a play deck or a discard pile outside of the normal sequence of play. Discard _Bane of the Ithil-stone_ whenever a play deck is exhausted. <br>&ensp;Cannot be duplicated. 
 >
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,5 +36,5 @@ permalink: /cards/bane-of-the-ithil-stone/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Corruption points for Palantiri are doubled. Automatically cancels any effects that causes a player to search through or look at any portion of a play deck or a discard pile outside of the normal sequence of play. Discard Bane of the Ithil-stone whenever a play deck is exhausted. Cannot be duplicated. 
+> > Corruption points for Palantiri are doubled. <br>&ensp;Automatically cancels any effects that causes a player to search through or look at any portion of a play deck or a discard pile outside of the normal sequence of play. Discard _Bane of the Ithil-stone_ whenever a play deck is exhausted. <br>&ensp;Cannot be duplicated. 
 >

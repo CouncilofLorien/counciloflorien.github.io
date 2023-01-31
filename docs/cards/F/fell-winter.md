@@ -22,7 +22,7 @@ permalink: /cards/fell-winter/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ Each Border-hold \[![](/assets/images/border-hold.svg)] receives an automatic-attack: Wolves-3 strikes with 7 prowess. Additionally, if Doors of Night is in play, treat all Free-domains \[![](/assets/images/free-domain.svg)] as Border-lands \[![](/assets/images/border-land.svg)] and all Border-lands \[![](/assets/images/border-land.svg)] as Wildernesses \[![](/assets/images/wilderness.svg)]. Cannot be duplicated. 
+> > _Environment._ Each Border-hold \[![](/assets/images/border-hold.svg)] receives an automatic-attack: Wolves --- 3 strikes with 7 prowess. <br>&ensp;Additionally, if _Doors of Night_ is in play, treat all Free-domains \[![](/assets/images/free-domain.svg)] as Border-lands \[![](/assets/images/border-land.svg)] **and** all Border-lands \[![](/assets/images/border-land.svg)] as Wildernesses \[![](/assets/images/wilderness.svg)]. <br>&ensp;Cannot be duplicated. 
 >
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,7 +36,7 @@ permalink: /cards/fell-winter/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ Each Border-hold \[![](/assets/images/border-hold.svg)] receives an automatic-attack: Wolves-3 strikes with 7 prowess. Additionally, if Doors of Night is in play, treat all Free-domains \[![](/assets/images/free-domain.svg)] as Border-lands \[![](/assets/images/border-land.svg)] and all Border-lands \[![](/assets/images/border-land.svg)] as Wildernesses \[![](/assets/images/wilderness.svg)]. Cannot be duplicated. 
+> > _Environment._ Each Border-hold \[![](/assets/images/border-hold.svg)] receives an automatic-attack: Wolves --- 3 strikes with 7 prowess. <br>&ensp;Additionally, if _Doors of Night_ is in play, treat all Free-domains \[![](/assets/images/free-domain.svg)] as Border-lands \[![](/assets/images/border-land.svg)] **and** all Border-lands \[![](/assets/images/border-land.svg)] as Wildernesses \[![](/assets/images/wilderness.svg)]. <br>&ensp;Cannot be duplicated. 
 >
 
 ### _Middle-earth: The Lidless Eye_
@@ -50,5 +50,5 @@ permalink: /cards/fell-winter/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ Each Border-hold \[![](/assets/images/border-hold.svg)] receives an additional automatic-attack: Wolves-3 strikes with 7 prowess. Additionally, if Doors of Night is in play, treat all Free-domains \[![](/assets/images/free-domain.svg)] as Border-lands \[![](/assets/images/border-land.svg)] and all Border-lands \[![](/assets/images/border-land.svg)] as Wildernesses \[![](/assets/images/wilderness.svg)]. Cannot be duplicated. 
+> > _Environment._ Each Border-hold \[![](/assets/images/border-hold.svg)] receives an additional automatic-attack: Wolves --- 3 strikes with 7 prowess. <br>&ensp;Additionally, if _Doors of Night_ is in play, treat all Free-domains \[![](/assets/images/free-domain.svg)] as Border-lands \[![](/assets/images/border-land.svg)] **and** all Border-lands \[![](/assets/images/border-land.svg)] as Wildernesses \[![](/assets/images/wilderness.svg)]. <br>&ensp;Cannot be duplicated. 
 >

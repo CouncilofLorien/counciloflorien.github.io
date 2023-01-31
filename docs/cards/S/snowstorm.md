@@ -22,7 +22,7 @@ permalink: /cards/snowstorm/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ Playable only if Doors of Night is in play. Each moving company with a Wilderness \[![](/assets/images/wilderness.svg)] in its site path must return to its site of origin. Cannot be duplicated. <br>_"The wind whistled and the snow became a blinding blizzard."_ ***---&#65279;LotRII*** 
+> > _Environment._ Playable only if _Doors of Night_ is in play. Each moving company with a Wilderness \[![](/assets/images/wilderness.svg)] in its site path must return to its site of origin. <br>&ensp;Cannot be duplicated. <br>_"The wind whistled and the snow became a blinding blizzard."_ ***---&#65279;LotRII*** 
 >
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,7 +36,7 @@ permalink: /cards/snowstorm/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ Playable only if Doors of Night is in play. Each moving company with a Wilderness \[![](/assets/images/wilderness.svg)] in its site path must return to its site of origin. Cannot be duplicated. <br>_"The wind whistled and the snow became a blinding blizzard."_ ***---&#65279;LotRII*** 
+> > _Environment._ Playable only if _Doors of Night_ is in play. Each moving company with a Wilderness \[![](/assets/images/wilderness.svg)] in its site path must return to its site of origin. <br>&ensp;Cannot be duplicated. <br>_"The wind whistled and the snow became a blinding blizzard."_ ***---&#65279;LotRII*** 
 >
 
 ### _Middle-earth Challenge Decks_
@@ -50,5 +50,5 @@ permalink: /cards/snowstorm/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ Playable only if Doors of Night is in play. Each moving company with a Wilderness \[![](/assets/images/wilderness.svg)] in its site path must return to its site of origin. Cannot be duplicated. <br>_"The wind whistled and the snow became a blinding blizzard."_ ***---&#65279;LotRII*** 
+> > _Environment._ Playable only if _Doors of Night_ is in play. Each moving company with a Wilderness \[![](/assets/images/wilderness.svg)] in its site path must return to its site of origin. <br>&ensp;Cannot be duplicated. <br>_"The wind whistled and the snow became a blinding blizzard."_ ***---&#65279;LotRII*** 
 >

@@ -22,11 +22,11 @@ permalink: /cards/the-pale-sword/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ A Nazgul's prowess is modified by +1. If used with the Witch-king of Angmar, his prowess is increased by +1 plus the number of Nazgul permanent-events in play. Discard if attack doesn't wound a character. _Corruption._ One character (attacker's choice) wounded by an attack modified by this card receives 6 corruption points (place this card under the character). If at a Haven \[![](/assets/images/free-haven.svg)] during his untap phase, a character with this card may attempt to remove it instead of untapping or healing. Make a roll (or draw a #): if this result is greater than 5, discard this card. Cannot be duplicated on a given Nazgul. 
+> > _**Unique.**_ A Nazgul's prowess is modified by +1. If used with the _Witch-king of Angmar_, his prowess is increased by +1 plus the number of Nazgul permanent-events in play. Discard if attack doesn't wound a character. <br>&ensp;_Corruption._ One character (attacker's choice) wounded by an attack modified by this card receives 6 corruption points (place this card under the character). If at a Haven \[![](/assets/images/free-haven.svg)] during his untap phase, a character with this card may attempt to remove it instead of untapping or healing. Make a roll (or draw a #): if this result is greater than 5, discard this card. Cannot be duplicated on a given Nazgul. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
-> > <div class="card-corruption">〔6〕</div>
+> > <div class="card-corruption-white">〔6〕</div>
 
 ### _Middle-earth: The Wizards Unlimited_
 
@@ -39,7 +39,7 @@ permalink: /cards/the-pale-sword/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ A Nazgul's prowess is modified by +1. If used with the Witch-king of Angmar, his prowess is increased by +1 plus the number of Nazgul permanent-events in play. Discard if attack doesn't wound a character. _Corruption._ One character (attacker's choice) wounded by an attack modified by this card receives 6 corruption points (place this card under the character). If at a Haven \[![](/assets/images/free-haven.svg)] during his untap phase, a character with this card may attempt to remove it instead of untapping or healing. Make a roll (or draw a #): if this result is greater than 5, discard this card. Cannot be duplicated on a given Nazgul. 
+> > _**Unique.**_ A Nazgul's prowess is modified by +1. If used with the _Witch-king of Angmar_, his prowess is increased by +1 plus the number of Nazgul permanent-events in play. Discard if attack doesn't wound a character. <br>&ensp;_Corruption._ One character (attacker's choice) wounded by an attack modified by this card receives 6 corruption points (place this card under the character). If at a Haven \[![](/assets/images/free-haven.svg)] during his untap phase, a character with this card may attempt to remove it instead of untapping or healing. Make a roll (or draw a #): if this result is greater than 5, discard this card. Cannot be duplicated on a given Nazgul. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

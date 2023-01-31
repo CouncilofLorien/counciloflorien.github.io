@@ -22,7 +22,7 @@ permalink: /cards/call-of-home/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a non-Wizard character that is not the bearer of The One Ring. The character's player must make a roll (or draw a #); return the character to the player's hand if the result plus his unused general influence is less than 10. Any one item held by a character removed in this fashion may automatically be transferred to another in his company (all other non-follower cards target character controls are discarded). 
+> > ***Playable on a non-Wizard character that is not the bearer of The One Ring.*** The character's player must make a roll (or draw a #); return the character to the player's hand if the result plus his unused general influence is less than 10. <br>&ensp;Any one item held by a character removed in this fashion may automatically be transferred to another in his company. 
 >
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,7 +36,7 @@ permalink: /cards/call-of-home/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a non-Wizard character that is not the bearer of The One Ring. The character's player must make a roll (or draw a #); return the character to the player's hand if the result plus his unused general influence is less than 10. Any one item held by a character removed in this fashion may automatically be transferred to another in his company (all other non-follower cards target character controls are discarded). 
+> > ***Playable on a non-Wizard character that is not the bearer of The One Ring.*** The character's player must make a roll (or draw a #); return the character to the player's hand if the result plus his unused general influence is less than 10. <br>&ensp;Any one item held by a character removed in this fashion may automatically be transferred to another in his company (all other non-follower cards target character controls are discarded). 
 >
 
 ### _Middle-earth: The Lidless Eye_
@@ -50,7 +50,7 @@ permalink: /cards/call-of-home/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a non-Ringwraith, non-Wizard character not bearing The One Ring. The character makes a roll (draws a #). The character returns to his player's hand if the result plus his player's unused general influence is less than 10. Any one item held by the removed character may automatically be transferred to another character in his company (all other non-follower cards he controls are discarded). 
+> > ***Playable on a non-Ringwraith, non-Wizard character not bearing The One Ring.*** The character makes a roll (draws a #). The character returns to his player's hand if the result plus his player's unused general influence is less than 10. <br>&ensp;Any one item held by the removed character may automatically be transferred to another character in his company (all other non-follower cards he controls are discarded). 
 >
 
 ### _Middle-earth Challenge Decks_
@@ -64,5 +64,5 @@ permalink: /cards/call-of-home/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a non-Wizard character that is not the bearer of The One Ring. The character's player must make a roll (or draw a #); return the character to the player's hand if the result plus his unused general influence is less than 10. Any one item held by a character removed in this fashion may automatically be transferred to another in his company (all other non-follower cards target character controls are discarded). 
+> > ***Playable on a non-Wizard character that is not the bearer of The One Ring.*** The character's player must make a roll (or draw a #); return the character to the player's hand if the result plus his unused general influence is less than 10. <br>&ensp;Any one item held by a character removed in this fashion may automatically be transferred to another in his company (all other non-follower cards target character controls are discarded). 
 >

@@ -22,7 +22,7 @@ permalink: /cards/the-precious/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > A character in the same company (hazard player's choice) as The One Ring (not the bearer himself) must make a corruption check modified by -2. If he fails, discard The One Ring along with the target character. <br>_“‘It is not yours save by unhappy chance. It might have been mine. It should be mine. Give it to me!’”_ ***---&#65279;LotRII*** 
+> > A character in the same company as _The One Ring_ (not the bearer himself) must make a corruption check modified by -2. If he fails, discard _The One Ring_ along with the target character. <br>_“‘It is not yours save by unhappy chance. It might have been mine. It should be mine. Give it to me!’”_ ***---&#65279;LotRII*** 
 >
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,5 +36,5 @@ permalink: /cards/the-precious/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > A character in the same company (hazard player's choice) as The One Ring (not the bearer himself) must make a corruption check modified by -2. If he fails, discard The One Ring along with the target character. <br>_“‘It is not yours save by unhappy chance. It might have been mine. It should be mine. Give it to me!’”_ ***---&#65279;LotRII*** 
+> > A character in the same company (hazard player's choice) as _The One Ring_ (not the bearer himself) must make a corruption check modified by -2. If he fails, discard _The One Ring_ along with the target character. <br>_“‘It is not yours save by unhappy chance. It might have been mine. It should be mine. Give it to me!’”_ ***---&#65279;LotRII*** 
 >

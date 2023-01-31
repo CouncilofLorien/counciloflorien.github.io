@@ -25,5 +25,5 @@ permalink: /cards/the-forge-master/
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Saruman specific._ Playable on a non ---&#65279;Hobbit sage character or a Man. +1 to his direct influence. The character requires 2 points of influence to control and may only be controlled by general influence or Saruman. If at a Wizardhaven \[![](/assets/images/free-haven.svg)] during your organization phase, you may tap this character to place a non-unique weapon/armor/shield/helmet minor item with any character at The Forge-master's site. The recipient need not tap to receive this item, and the item may be taken from your discard pile, sideboard, or hand. 
+> > _**Unique.**_ _Saruman specific._ Playable on a non-&#65279;Hobbit sage character or a Man. +1 to his direct influence. The character requires 2 points of influence to control and may only be controlled by general influence or Saruman. If at a Wizardhaven \[![](/assets/images/free-haven.svg)] during your organization phase, you may tap this character to place a non-unique weapon/armor/shield/helmet minor item with any character at The Forge-master's site. The recipient need not tap to receive this item, and the item may be taken from your discard pile, sideboard, or hand. 
 > 

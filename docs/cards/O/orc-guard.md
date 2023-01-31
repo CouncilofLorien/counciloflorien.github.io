@@ -28,7 +28,7 @@ permalink: /cards/orc-guard/
 > > _Orcs._ Five strikes. <br>_“...a grim band, four score at least of large, swart, slant-eyed Orcs..."_ ***---&#65279;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【8/&edash;】</div>
+> > <div class="card-shield">【8/&ndash;】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -48,7 +48,7 @@ permalink: /cards/orc-guard/
 > > _Orcs._ Five strikes. <br>_“...a grim band, four score at least of large, swart, slant-eyed Orcs..."_ ***---&#65279;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【8/&edash;】</div>
+> > <div class="card-shield">【8/&ndash;】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Starter Set_
@@ -68,7 +68,7 @@ permalink: /cards/orc-guard/
 > > _Orcs._ Five strikes. <br>_“...a grim band, four score at least of large, swart, slant-eyed Orcs..."_ ***---&#65279;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【8/&edash;】</div>
+> > <div class="card-shield">【8/&ndash;】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -88,5 +88,5 @@ permalink: /cards/orc-guard/
 > > _Orcs._ Five strikes. <br>_“...a grim band, four score at least of large, swart, slant-eyed Orcs..."_ ***---&#65279;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【8/&edash;】</div>
+> > <div class="card-shield">【8/&ndash;】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

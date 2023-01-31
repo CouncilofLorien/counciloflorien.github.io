@@ -22,7 +22,7 @@ permalink: /cards/the-will-of-the-ring/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The bearer of The One Ring makes a corruption check modified by -4. <br>_"He heard himself crying out: 'Never, never!' Or was it 'Verily I come, I come to you'? He could not tell."_ ***---&#65279;LotRII*** 
+> > The bearer of _The One Ring_ makes a corruption check modified by -4. <br>_"He heard himself crying out: 'Never, never!' Or was it 'Verily I come, I come to you'? He could not tell."_ ***---&#65279;LotRII*** 
 >
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,5 +36,5 @@ permalink: /cards/the-will-of-the-ring/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The bearer of The One Ring makes a corruption check modified by -4. <br>_"He heard himself crying out: 'Never, never!' Or was it 'Verily I come, I come to you'? He could not tell."_ ***---&#65279;LotRII*** 
+> > The bearer of _The One Ring_ makes a corruption check modified by -4. <br>_"He heard himself crying out: 'Never, never!' Or was it 'Verily I come, I come to you'? He could not tell."_ ***---&#65279;LotRII*** 
 >
