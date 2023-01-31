@@ -22,7 +22,7 @@ permalink: /cards/ringlore/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Sage only, only playable at a site where "Information" is playable, and only if a character in his company has a Gold Ring.*** Playable only during the site phase. Tap the sage and the site. Play to test a Gold Ring. No roll (or draw) is used. The player may replace the Gold Ring with any ring from his hand (except for _The One Ring_).  
+> > ***Sage only, only playable at a site where "Information" is playable, and only if a character in his company has a Gold Ring.*** Play to test a Gold Ring. No roll (or draw) is used. The player may replace the Gold Ring with any ring from his hand (except for _The One Ring_).  
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
