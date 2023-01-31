@@ -351,7 +351,9 @@ Each company moves by playing a new site card (face down). A company does not ha
 A _site path_ is the sequence of regions between a site and the nearest Haven. However, each region in the sequence is only indicated by its type, not by its name. Each non-Haven site card has a site path on it. Each Haven site card has two site paths, but each of those two paths gives the sequence of regions between the Haven and one of the two Havens nearest to it.
 
 **Example:** _The Lonely Mountain site's nearest Haven is the Lorien site. The regions between these two sites are Wold & Foothills (Wilderness), Anduin Vales (Wilderness), Woodland Realm (Border-land), and Northern Rhovanion (Wilderness). The symbol for Wilderness is ![](/assets/images/wilderness.svg) ,the symbol for Border-land is ![](/assets/images/border-land.svg). So the site path between Lorien and the Lonely Mountain is:_ ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg)  <span id="page16" class="page-number">16</span>
-          
+
+---
+
 By using site paths, a company can move from any site to any other site. First, if necessary, the company moves to the nearest Haven. Then, if necessary, it moves to another Haven. Finally, it moves from that Haven to the destination site.
 
 #### Region Types
@@ -381,7 +383,9 @@ _Ruins & Lairs_ \[ ![](/assets/images/ruinlair.svg) ]: Deserted sites often inha
 _Shadow-holds_ \[ ![](/assets/images/shadow-hold.svg) ]: Relatively deserted sites often inhabited by dangerous creatures and Shadow-forces (e.g., Goblin-gate, Mount Gram, etc.).
  
 _Dark-holds_ \[ ![](/assets/images/dark-hold.svg) ]: Very dangerous sites with heavy concentrations of Shadow-forces (Dol Guldur, Barad-dur, Minas Morgul, etc.).  <span id="page17" class="page-number">17</span>
- 
+
+---
+
 ## 7 • COMBAT
 
 Combat occurs when a creature hazard is played on a company **or** when a company at a site with an _automatic-attack_ attempts to play a resource card for that site **or** when any other card indicates that a company must face an attack. 
@@ -409,7 +413,9 @@ The target's prowess may also be modified due to the play of certain resource an
  |  Hazard cards | varies |
  
  <span id="page18" class="page-number">18</span>
- 
+
+---
+
 #### Resolving Strikes
 
  Strikes are resolved one at a time as decided by the defending player. When you choose a strike to resolve, determine all of the factors affecting the strike before the roll is made.
@@ -428,6 +434,8 @@ The target's prowess may also be modified due to the play of certain resource an
 #### Defeating an Attack
 
  An attack by a hazard creature is defeated if all of its strikes directed against a company are defeated. If a defeated attack is a hazard creature, it is placed in the defender's marshalling point pile. The defender receives MPs for eliminating it. <span id="page19" class="page-number">19</span>
+
+---
 
 #### Sequencing Strikes
 
@@ -451,6 +459,8 @@ _You control Bilbo (1/9), Balin (4/7) and his follower Bofur (4/7) (with Healing
 
 _Your opponent plays Orc-raiders. He keys this hazard creature to the border-land of your company's site path because he is mindful of Beregond's Elven Cloak (a minor item that cancels a strike keyed to wilderness). Bilbo, a scout, taps and plays Concealment to cancel the attack. That's 1 hazard down and potentially 4 to go._ <span id="page20" class="page-number">20</span>
 
+---
+
 _Your opponent next plays Orc-warband (second hazard) and states it is keyed to the border-land. It's a (4/-) hazard creature with 5 strikes that receives +3 to prowess against a company that has faced an orc attack. Even though Bilbo cancelled the Orc-raiders, the company is still considered to have faced them, so the Orc-warband will be (7/-). There are 5 strikes and 5 characters, so each character will face one strike (no decisions on strike allocation can be made). Bilbo elects to face his strike first. His opponent plays Weariness of the Heart (third hazard) on Bilbo to give -1 to his prowess. This modification to his prowess is in addition to the -1 Bilbo suffers for being tapped. No other effects are played to affect the strike and Bilbo rolls the dice. The result is a 5. Bilbo's prowess of -1 plus the dice roll is less than the prowess of the Orc-warband's strike against Bilbo, so Bilbo is wounded (inverted on the table). Your opponent rolls the body check. It's a 7—Bilbo lives!_
 
 _Beregond faces the next strike. Beregond taps and rolls a 10, defeating his strike handily. Bofur chooses to face his strike next. He chooses not to tap and to therefore take a -3 modification to his prowess. He rolls a 6 which ties the prowess of the Orc-warband strike. The strike is ineffectual._
@@ -460,6 +470,8 @@ _Balin resolves his strike next, taps, and defeats it by rolling a 7. Beretar re
 _Your opponent sees that one character, Bofur, is untapped. He plays Giant (13/-) (a fourth hazard) and reasons that Bofur will have to take its one vicious strike. (After all, if you give up the option of assigning the one strike to your untapped character, namely Bofur, the opponent will be able to choose from all 5 characters which will take the strike). Your opponent does not see what Bofur sees. Before assigning the strike, Bofur taps and uses his Healing Herbs to untap Beregond, who then announces he is taking the strike. The Giant is keyed solely to double wilderness, so Beregond taps his Elven Cloak to cancel its single strike._
 
 _The opponent announces he will play no more hazards and the company breathes a sigh of relief. Bilbo will be able to heal at the start of the next turn since his company will be in Lorien, a Haven._ <span id="page21" class="page-number">21</span>
+
+---
 
 ## 8 • CORRUPTION
 
@@ -476,6 +488,17 @@ When a card indicates that one of your characters must make a corruption check, 
  As characters adventure in Middle-earth, they are subject to temptations. They run the risk of becoming corrupted and leaving the cause of the Free Peoples (i.e., a corrupted character leaves play, a corrupted Wizard loses the game). In _The Lord of the Rings_, Saruman was corrupted by power, Radagast was corrupted by the lure of nature, Alatar and Pallando succumbed to unrevealed corruptions and disappeared into the East.
 
  A character's corruption point total can be determined at any time by summing the corruption point values of the corruption cards under his card. Certain characters receive modifications to corruptions checks, and certain cards may give modifications to a corruption check. Modifications to corruption checks are printed in the lower right of the appropriate card. A plus or a minus sign indicates a modification rather than corruption points. <span id="page22" class="page-number">22</span>
+
+---
+
+[Card Diagrams](#card-diagrams)
+
+[Map of Middle-earth](#map-of-middle-earth)
+
+[Map Index](#map-index)
+<span id="page22" class="page-number">23-27</span>
+
+---
 
 ## 9 • INFLUENCE
 
@@ -497,6 +520,8 @@ A character's _unused direct influence_ is equal to his direct influence attribu
 
 **Note:** _In the Standard Game, direct influence can be used to attempt to interfere with your opponent's control of his characters, followers,  factions, allies, and items._ <span id="page28" class="page-number">28</span>
  
+---
+
 ## 10 • PLAYING AND DRAWING CARDS
 
 You may only play hazard cards during your opponent's movement/hazard phase. Except for resource long-events, you may play resource cards anytime during your own turn unless specifically prohibited by the rules or the cards themselves.
@@ -518,6 +543,8 @@ During your organization phase, you may _store_ any of your items that are at a 
 A stored item is placed in your _marshalling point pile_ and still counts for marshalling points. Once an item is stored it may not be unstored and brought back into play. The One Ring may not be stored.
 
 Some items and resource cards state that they can be stored when at a specific site (e.g., the Book of Mazarbul can be stored at a Dwarf-hold). Such an item or resource card is still placed in the marshalling point pile and cannot be brought back into play. <span id="page29" class="page-number">29</span>
+
+---
 
 ### TRANSFERRING ITEMS
 
@@ -541,6 +568,9 @@ Hazard cards represent evil forces and natural dangers. You may play hazard card
 You may use a creature card to _directly attack_ one of your opponent's companies. Such an attack can occur only if:
 
 - The company is at a specific site at which the creature's card says it can be played. <span id="page30" class="page-number">30</span>
+
+---
+
 - One of the site symbols on the creature's card matches the site that the company moved to (i.e., the new site) or stayed at (i.e., if the company did not move).
 - At least one of the region symbols on the creature's card matches one of the region types the company moved through this turn (see below). If the creature's card has two region symbols of the same type (i.e., a deep wilderness creature), then the company must have moved through at least two regions of that same type.
 
@@ -558,6 +588,8 @@ The region types that a company moves through during a given turn are determined
  You may only play certain resource cards if specific required conditions exist.
 
 **Allies** — A character may tap to play an ally card if he is at the site specified on the ally card **and** the character meets the requirements indicated on the ally card. The ally card is placed under the character's card and that character controls the ally. After an ally is played at a site, the site card is tapped. An ally does **not** count as a character for any purposes other than combat. <span id="page31" class="page-number">31</span>
+
+---
 
 **Items** — If a character is at an untapped site that indicates that a specific type of item card (gold ring, minor, major, or greater) is "playable," he may tap to bring an item of that type into play. The item card is placed under the character's card. After an item is played at a site, the site card is tapped.
 
@@ -580,7 +612,9 @@ You may only play a resource long-event during your long-event phase. Its card a
 You may only play a hazard long-event during your opponent's movement/hazard phase. Its card and effects remain in play until your opponent's next long-event phase or until otherwise discarded.
 
 **Permanent-event** — The effects of a resource permanent-event are immediately implemented. Its effects last until the card is discarded. Certain effects can cause a permanent-event to be discarded. <span id="page32" class="page-number">32</span>
- 
+
+---
+
 # • PART II •<br/>THE STANDARD RULES
 
 You should read and master the Starter Rules before tackling the Standard Rules.
@@ -613,6 +647,8 @@ These types of marshalling points can affect your marshalling point total in two
 
 The Starter Game is also called the "1-deck game." For experienced players with tuned decks, this game usually lasts 20-60 minutes. If you want longer, more detailed play, there are 3 other games. <span id="page33" class="page-number">33</span>
 
+---
+
 In a "2-deck game" (the "short game"), the Council is called when each play deck has been exhausted twice. You may call the Council when your play deck has been exhausted twice, or when it has been exhausted once and you have at least 25 marshalling points (MPs).
 
 In a "3-deck game" (the "long game"), the Council is called when each play deck has been exhausted three times. You may call the Council when your play deck has been exhausted three times, or when it has been exhausted twice and you have at least 30 marshalling points. Increase the sideboard size to 20 cards.
@@ -626,7 +662,9 @@ In addition to the normal location deck and play deck, you can have a 15 card "s
  - Whenever you exhaust your play deck, you may exchange (before reshuffling) up to 5 cards between your sideboard and discard pile.
  - During your organization phase, you may tap your Wizard to bring up to 5 resource and/or character cards from your sideboard into your discard pile.<br>Alternatively, if your play deck has at least 5 cards, you may tap your Wizard to bring one resource card directly from your sideboard into your play deck (reshuffle).
  - During your opponent's movement/hazard phase, you may tap one of your Nazgul permanent-events in play to bring up to 5 hazard cards from your sideboard into your discard pile. The normal result of tapping a Nazgul does not apply and the Nazgul is discarded. Tapping a Nazgul in this fashion _does_ count against the hazard limit.<br>Alternatively, if your play deck has at least 5 cards, you may tap a Nazgul permanent-event to bring one hazard card directly from your sideboard into your play deck (reshuffle). <span id="page34" class="page-number">34</span>
- 
+
+---
+
 ## 3 • GETTING READY TO PLAY
 
 Add your region cards to your location deck.
@@ -660,6 +698,8 @@ In both cases, the two companies must face hazards separately and are then combi
 
 Instead of bringing a new character/Wizard into play during your organization phase, you may discard a character that is at a Haven or at his home site. A Wizard may not be discarded. You must take this action when you are forced to discard a character due to a lack of available influence. <span id="page35" class="page-number">35</span>
 
+---
+
 #### Bringing Characters into Play
 
 Before you play your Wizard, you may use general influence to bring a character into play at any haven or at his home site. After revealing your Wizard, you may use general influence to bring a character into play only if your Wizard is at the site at which the character arrives (i.e., a Haven or the character's home site).
@@ -687,6 +727,8 @@ An _untapped_ character that is not the target of a strike may tap to _support_ 
 
 Before the roll is made for a corruption check, you may tap characters in the same company as the character making the check. The corruption check is modified by +1 for each such character and/or Wizard tapped. <span id="page36" class="page-number">36</span>
 
+---
+
 ## 9 • INFLUENCE
 
 Influence is the only way that your characters can directly affect your opponent's resources. During your site phase, one and only one of your characters may tap to attempt to influence away one of your opponent's characters, followers, allies, factions, or items. This may only take place if the influencing character and the target of the influence are at the same site. If you successfully influence the target, it is discarded. In some cases, you may reveal an identical card and attempt to play it (i.e., he convinces the target to join his side).
@@ -709,6 +751,8 @@ If you reveal an identical character card from your hand before making the roll 
 #### Influencing an Opponent's Follower
 
 To influence an opponent's follower, you must make an influence check as outlined above. However, the result is also modified by subtracting the "unused direct influence" of the follower's controlling character. <span id="page37" class="page-number">37</span>
+
+---
 
 #### Influencing an Opponent's Faction
 
@@ -734,7 +778,9 @@ To influence an opponent's item, you must make an influence check as outlined ab
  - The mind attribute of the character controlling the item is used.
  - The result is also modified by subtracting the "unused direct influence" of the item's controlling character.
  - You _must_ reveal an identical item card in order to make an influence attempt on an item (i.e., you are attempting to convince the controlling character that the item would be more useful to the cause of the free peoples in your hands). If the influence check is successful, you may play your card with the character that made the influence check. <span id="page38" class="page-number">38</span>
- 
+
+---
+
 ## 10 • PLAYING AND DRAWING CARDS
 
  There are several Standard Rules changes involving playing cards.
@@ -758,6 +804,8 @@ In the first two cases, the card is handled as if it had been played during the 
 
 Before a roll is made for combat or a check, cards may be played that will modify the result of the roll. However, once the roll is actually made, no further cards may be played that modify the dice roll result. This modified result is used to determine _effects_ of the combat or check before any other actions are taken. When the effects of a dice roll require other actions (e.g., a successful strike requires a body check) those actions become the initial actions (any further rolls come first) in the next chain of effects after the roll. <span id="page39" class="page-number">39</span>
 
+---
+
 #### Timing Rules
 
 You and your opponent may both want to perform actions at the same time or actions that are sequenced with respect to other actions. This can happen during your movement/hazard phase (or during your site phase if your opponent has a card on-guard). Such actions almost always include playing a card, tapping a card already in play, and revealing an on-guard card.
@@ -776,6 +824,9 @@ An action in a chain of effects is negated if the conditions required to perform
  
  - _Tookish Blood takes effect._
  - _Call of Home takes effect, but Tookish Blood negates any effect it would have._ <span id="page40" class="page-number">40</span>
+ 
+---
+
  - _Frodo gives +1 to Bilbo's corruption check (an action can target a dice-rolling action that was declared earlier in the same chain of effects, even though the dice-rolling action has not taken effect)._
  - _Bilbo makes his corruption check&mdash;he rolls the dice adding +1 to his roll because of Frodo's help (other modifications not discussed here). Tookish Blood cancels any result of this corruption check that would discard Bilbo._
 
@@ -798,6 +849,8 @@ A Hobbit may attempt to "burglar" at an untapped site. If you decide to make a b
 #### Recently Visited Sites
 
  If a site is in the opponent's discard pile, the number of strikes and prowess for the site's automatic-attack are increased by 1. <span id="page41" class="page-number">41</span>
+
+---
 
 #### Tapping to Face Multiple Strikes
 
@@ -833,9 +886,9 @@ During play, you proceed normally, except:
 The object of the solitaire game is to accumulate as many MPs as you can by the time you exhaust your play deck for the second time.
 
 The _METW Player Guide_ will provide detailed solitaire rules. <span id="page42" class="page-number">42</span>
- 
-{: .text-center }
 
+---
+ 
 # THE APPENDICES
 
 ## CARD DIAGRAMS
@@ -903,6 +956,8 @@ The _METW Player Guide_ will provide detailed solitaire rules. <span id="page42"
 51  |Bay of Belfalas  | ![](/assets/images/coastalsea.svg)
 52  |Mouths of the Anduin | ![](/assets/images/coastalsea.svg)
 
+---
+
 ## FULL PLAYER TURN SUMMARY
 
 #### Untap Phase
@@ -940,6 +995,8 @@ Each of your companies may do one of the following:
  
  Finally, remove all of your opponent's hazard long-events. <span id="page44" class="page-number">44</span>
 
+---
+
 #### Movement/Hazard Phase
 
 Follow this procedure for each of your companies. You decide which of your companies goes first, second, etc.:
@@ -954,7 +1011,9 @@ Follow this procedure for each of your companies. You decide which of your compa
  4. If the company has been required to return to its site of origin, remove the new site card and proceed to step 6. No additional hazards may be played on that company.
  5. Remove the company's old site card (i.e., the site the company came from). Discard the site card if it is tapped and not a Haven. Otherwise, return it to the location deck. At this point, the company is considered to be at the new site. _Standard Rules Only:_ Return any region cards to the location deck.
  6. You must discard any cards in excess of eight in your hand; your opponent does the same for his hand. If you have fewer than eight cards, you must draw cards until your hand has eight cards; your opponent does the same for his hand. <span id="page45" class="page-number">45</span>
- 
+
+---
+
 #### Site Phase
 
  In the order you decide, each of your companies at an _untapped_ site may:
@@ -970,6 +1029,8 @@ Follow this procedure for each of your companies. You decide which of your compa
 
 You may discard one card. Then you must draw or discard cards until your hand has 8 cards. Your opponent does the same for his hand. <span id="page46" class="page-number">46</span>
  
+---
+
 ## SYMBOL KEY
 
 | Region Type | Symbol |
@@ -1009,10 +1070,10 @@ Dark-domains  |  ![](/assets/images/dark-domain.svg)
  Hazard cards    |    varies
 
 
+---
+
 {: .note }
 _Address rules questions and comments via email to metwice@aol.com or via snail mail to our P.O. Box address. Look for METW discussion areas on your favorite on-line service and visit our home page on the WWW (url not available at press time)._
-
----
 
 ### CREDITS
  
