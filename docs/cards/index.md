@@ -1447,7 +1447,6 @@ permalink: /cards/
  - [Celeborn](/cards/celeborn/#middle-earth-the-wizards-starter-set)
  - [Elladan](/cards/elladan/#middle-earth-the-wizards-starter-set)
  - [Elrohir](/cards/elrohir/#middle-earth-the-wizards-starter-set)
- - [Elrond](/cards/elrond/#middle-earth-the-wizards-starter-set)
  - [Erkenbrand](/cards/erkenbrand/#middle-earth-the-wizards-starter-set)
  - [Faramir](/cards/faramir/#middle-earth-the-wizards-starter-set)
  - [Gimli](/cards/gimli/#middle-earth-the-wizards-starter-set)
