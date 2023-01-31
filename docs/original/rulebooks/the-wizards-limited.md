@@ -168,7 +168,9 @@ Because hazard cards are distinct from resource cards, you may not play your haz
 ---
 
 {: .text-center }
-![](/assets/images/cardsanddecks-limited.svg)<span id="page9" class="page-number">9</span>
+![](/assets/images/cardsanddecks-limited.svg)
+
+<br><span id="page9" class="page-number">9</span>
 
 ---
 
@@ -410,7 +412,7 @@ The target's prowess may also be modified due to the play of certain resource an
  |  Other resource cards | varies |
  |  Hazard cards | varies |
  
- <span id="page18" class="page-number">18</span>
+ <br><span id="page18" class="page-number">18</span>
 
 ---
 
