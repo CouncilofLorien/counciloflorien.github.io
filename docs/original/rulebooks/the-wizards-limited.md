@@ -168,9 +168,7 @@ Because hazard cards are distinct from resource cards, you may not play your haz
 ---
 
 {: .text-center }
-![](/assets/images/cardsanddecks-limited.svg)
-
-<span id="page9" class="page-number">9</span>
+![](/assets/images/cardsanddecks-limited.svg)<span id="page9" class="page-number">9</span>
 
 ---
 
