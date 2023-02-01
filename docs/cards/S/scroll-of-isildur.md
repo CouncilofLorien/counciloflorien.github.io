@@ -18,8 +18,8 @@ permalink: /cards/scroll-of-isildur/
 > > <div class="card-mp">4</div>
 > > <div class="card-name">Scroll of Isildur</div>
 >
-> {: .card-classification .pr-2 }
 > Greater Item
+> {: .card-classification .pr-2 }
 >
 > {: .hero-resource-text .black-text .p-2 }
 > > _Unique._ When a Gold Ring is tested in a company with the Scroll of Isildur, the result of the roll (or draw) is modified by +2.
