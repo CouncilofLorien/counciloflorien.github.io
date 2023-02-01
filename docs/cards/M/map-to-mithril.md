@@ -14,7 +14,7 @@ permalink: /cards/map-to-mithril/
 ### _Middle-earth: The Dragons_
 
 {: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
+> {: .hero-resource-name .p-1 .pl-2 }
 > > <div class="card-mp">2</div>
 > > <div class="card-name">Map to Mithril</div>
 >

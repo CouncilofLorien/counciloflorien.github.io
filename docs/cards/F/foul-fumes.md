@@ -14,7 +14,7 @@ permalink: /cards/foul-fumes/
 ### _Middle-earth: The Wizards Limited_
 
 {: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hazard-name .mb-4 .p-1 .pl-2 }
+> {: .hazard-name .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Foul Fumes</div>
 >
@@ -28,7 +28,7 @@ permalink: /cards/foul-fumes/
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited ..mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hazard-name .mb-4 .p-1 .pl-2 }
+> {: .hazard-name .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Foul Fumes</div>
 >
@@ -42,7 +42,7 @@ permalink: /cards/foul-fumes/
 ### _Middle-earth Challenge Decks_
 
 {: .hazard-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hazard-name .mb-4 .p-1 .pl-2 }
+> {: .hazard-name .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Foul Fumes</div>
 >

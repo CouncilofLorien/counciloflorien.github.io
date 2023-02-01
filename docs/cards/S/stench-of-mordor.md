@@ -14,7 +14,7 @@ permalink: /cards/stench-of-mordor/
 ### _Middle-earth: The Lidless Eye_
 
 {: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hazard-name .mb-4 .p-1 .pl-2 }
+> {: .hazard-name .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Stench of Mordor</div>
 >
@@ -31,7 +31,7 @@ permalink: /cards/stench-of-mordor/
 ### _Middle-earth Challenge Decks_
 
 {: .hazard-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hazard-name .mb-4 .p-1 .pl-2 }
+> {: .hazard-name .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Stench of Mordor</div>
 >
@@ -48,7 +48,7 @@ permalink: /cards/stench-of-mordor/
 ### _Middle-earth: The Balrog Reprint_
 
 {: .hazard-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hazard-name .mb-4 .p-1 .pl-2 }
+> {: .hazard-name .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Stench of Mordor</div>
 >

@@ -14,7 +14,7 @@ permalink: /cards/emerald-of-the-mariner/
 ### _Middle-earth: The Dragons_
 
 {: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
+> {: .hero-resource-name .p-1 .pl-2 }
 > > <div class="card-mp">3</div>
 > > <div class="card-name">Emerald of the Mariner</div>
 >

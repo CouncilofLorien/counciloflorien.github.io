@@ -13,13 +13,13 @@ permalink: /cards/scroll-of-isildur/
 
 ### _Middle-earth: The Wizards Limited_
 
-{: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-2 }
-> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
+{: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
+> {: .hero-resource-name .p-1 .pl-2 }
 > > <div class="card-mp">4</div>
 > > <div class="card-name">Scroll of Isildur</div>
 >
-> Greater Item
 > {: .card-classification .pr-2 }
+> Greater Item
 >
 > {: .hero-resource-text .black-text .p-2 }
 > > _Unique._ When a Gold Ring is tested in a company with the Scroll of Isildur, the result of the roll (or draw) is modified by +2.
@@ -30,7 +30,7 @@ permalink: /cards/scroll-of-isildur/
 
 ### _Middle-earth: The Wizards Unlimited_
 
-{: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 }
+{: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-resource-name .p-1 .pl-2 }
 > > <div class="card-mp">4</div>
 > > <div class="card-name">Scroll of Isildur</div>
@@ -51,7 +51,7 @@ permalink: /cards/scroll-of-isildur/
 ### _Middle-earth: The Wizards Starter Set_
 
 {: .hero-resource-starter .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
+> {: .hero-resource-name .p-1 .pl-2 }
 > > <div class="card-mp">4</div>
 > > <div class="card-name">Scroll of Isildur</div>
 >
@@ -71,7 +71,7 @@ permalink: /cards/scroll-of-isildur/
 ### _Middle-earth: The Lidless Eye_
 
 {: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .minion-resource-name .mb-4 .p-1 .pl-2 }
+> {: .minion-resource-name .p-1 .pl-2 }
 > > <div class="hazard-mp">3(5)</div>
 > > <div class="card-name">Scroll of Isildur</div>
 >
@@ -111,7 +111,7 @@ permalink: /cards/scroll-of-isildur/
 ### _Middle-earth Challenge Decks_
 
 {: .minion-resource-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .minion-resource-name .mb-4 .p-1 .pl-2 }
+> {: .minion-resource-name .p-1 .pl-2 }
 > > <div class="hazard-mp">3(5)</div>
 > > <div class="card-name">Scroll of Isildur</div>
 >

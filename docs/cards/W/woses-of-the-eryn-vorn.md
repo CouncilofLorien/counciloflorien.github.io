@@ -14,7 +14,7 @@ permalink: /cards/woses-of-the-eryn-vorn/
 ### _Middle-earth: The Lidless Eye_
 
 {: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .minion-resource-name .mb-4 .p-1 .pl-2 }
+> {: .minion-resource-name .p-1 .pl-2 }
 > > <div class="hazard-mp">3</div>
 > > <div class="card-name">Woses of the Eryn Vorn</div>
 >
@@ -31,7 +31,7 @@ permalink: /cards/woses-of-the-eryn-vorn/
 ### _Middle-earth: Against the Shadow_
 
 {: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
+> {: .hero-resource-name .p-1 .pl-2 }
 > > <div class="card-mp">2</div>
 > > <div class="card-name">Woses of the Eryn Vorn</div>
 >
@@ -48,7 +48,7 @@ permalink: /cards/woses-of-the-eryn-vorn/
 ### _Middle-earth Challenge Decks_
 
 {: .minion-resource-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .minion-resource-name .mb-4 .p-1 .pl-2 }
+> {: .minion-resource-name .p-1 .pl-2 }
 > > <div class="hazard-mp">3</div>
 > > <div class="card-name">Woses of the Eryn Vorn</div>
 >

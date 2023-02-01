@@ -14,7 +14,7 @@ permalink: /cards/crept-along-cleverly/
 ### _Middle-earth: The White Hand_
 
 {: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .minion-resource-name .mb-4 .p-1 .pl-2 }
+> {: .minion-resource-name .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Crept Along Cleverly</div>
 >
@@ -31,7 +31,7 @@ permalink: /cards/crept-along-cleverly/
 ### _Middle-earth Challenge Decks_
 
 {: .minion-resource-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .minion-resource-name .mb-4 .p-1 .pl-2 }
+> {: .minion-resource-name .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Crept Along Cleverly</div>
 >
@@ -48,7 +48,7 @@ permalink: /cards/crept-along-cleverly/
 ### _Middle-earth: The Balrog Reprint_
 
 {: .minion-resource-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .minion-resource-name .mb-4 .p-1 .pl-2 }
+> {: .minion-resource-name .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Crept Along Cleverly</div>
 >

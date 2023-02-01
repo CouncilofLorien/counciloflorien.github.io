@@ -14,7 +14,7 @@ permalink: /cards/the-mithril-coat/
 ### _Middle-earth: The Wizards Limited_
 
 {: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
+> {: .hero-resource-name .p-1 .pl-2 }
 > > <div class="card-mp">4</div>
 > > <div class="card-name">The Mithril-coat</div>
 >
@@ -34,7 +34,7 @@ permalink: /cards/the-mithril-coat/
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
+> {: .hero-resource-name .p-1 .pl-2 }
 > > <div class="card-mp">4</div>
 > > <div class="card-name">The Mithril-coat</div>
 >
@@ -54,7 +54,7 @@ permalink: /cards/the-mithril-coat/
 ### _Middle-earth: The Lidless Eye_
 
 {: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .minion-resource-name .mb-4 .p-1 .pl-2 }
+> {: .minion-resource-name .p-1 .pl-2 }
 > > <div class="hazard-mp">3</div>
 > > <div class="card-name">The Mithril-coat</div>
 >

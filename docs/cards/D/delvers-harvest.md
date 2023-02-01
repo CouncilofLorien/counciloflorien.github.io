@@ -14,7 +14,7 @@ permalink: /cards/delvers-harvest/
 ### _Middle-earth: The White Hand_
 
 {: .stage-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .stage-resource-name .mb-4 .p-1 .pl-2 }
+> {: .stage-resource-name .p-1 .pl-2 }
 > > <div class="card-mp">1</div>
 > > <div class="card-name">Delver's Harvest</div>
 >

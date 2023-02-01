@@ -14,7 +14,7 @@ permalink: /cards/the-dwarves-are-upon-you!/
 ### _Middle-earth: Dark Minions_
 
 {: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
+> {: .hero-resource-name .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">The Dwarves Are upon You!</div>
 >

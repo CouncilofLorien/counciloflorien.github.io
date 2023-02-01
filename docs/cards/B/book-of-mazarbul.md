@@ -14,7 +14,7 @@ permalink: /cards/book-of-mazarbul/
 ### _Middle-earth: The Wizards Limited_
 
 {: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
+> {: .hero-resource-name .p-1 .pl-2 }
 > > <div class="card-mp">1(5)</div>
 > > <div class="card-name">Book of Mazarbul</div>
 >
@@ -34,7 +34,7 @@ permalink: /cards/book-of-mazarbul/
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
+> {: .hero-resource-name .p-1 .pl-2 }
 > > <div class="card-mp">1(5)</div>
 > > <div class="card-name">Book of Mazarbul</div>
 >

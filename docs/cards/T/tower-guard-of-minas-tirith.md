@@ -14,7 +14,7 @@ permalink: /cards/tower-guard-of-minas-tirith/
 ### _Middle-earth: The Wizards Limited_
 
 {: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
+> {: .hero-resource-name .p-1 .pl-2 }
 > > <div class="card-mp">2</div>
 > > <div class="card-name">Tower Guard of Minas Tirith</div>
 >
@@ -31,7 +31,7 @@ permalink: /cards/tower-guard-of-minas-tirith/
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
+> {: .hero-resource-name .p-1 .pl-2 }
 > > <div class="card-mp">2</div>
 > > <div class="card-name">Tower Guard of Minas Tirith</div>
 >
@@ -48,7 +48,7 @@ permalink: /cards/tower-guard-of-minas-tirith/
 ### _Middle-earth: The Wizards Starter Set_
 
 {: .hero-resource-starter .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
+> {: .hero-resource-name .p-1 .pl-2 }
 > > <div class="card-mp">2</div>
 > > <div class="card-name">Tower Guard of Minas Tirith</div>
 >

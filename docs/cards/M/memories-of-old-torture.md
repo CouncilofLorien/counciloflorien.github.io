@@ -14,7 +14,7 @@ permalink: /cards/memories-of-old-torture/
 ### _Middle-earth: The Balrog_
 
 {: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .minion-resource-name .mb-4 .p-1 .pl-2 }
+> {: .minion-resource-name .p-1 .pl-2 }
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Memories of Old Torture</div>
 >

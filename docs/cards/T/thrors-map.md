@@ -14,7 +14,7 @@ permalink: /cards/thrors-map/
 ### _Middle-earth: The Dragons_
 
 {: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
+> {: .hero-resource-name .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Thror's Map</div>
 >
@@ -34,7 +34,7 @@ permalink: /cards/thrors-map/
 ### _Middle-earth: Against the Shadow_
 
 {: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .minion-resource-name .mb-4 .p-1 .pl-2 }
+> {: .minion-resource-name .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Thror's Map</div>
 >
@@ -74,7 +74,7 @@ permalink: /cards/thrors-map/
 ### _Middle-earth Challenge Decks_
 
 {: .minion-resource-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .minion-resource-name .mb-4 .p-1 .pl-2 }
+> {: .minion-resource-name .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Thror's Map</div>
 >

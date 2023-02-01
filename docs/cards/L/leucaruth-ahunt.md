@@ -14,7 +14,7 @@ permalink: /cards/leucaruth-ahunt/
 ### _Middle-earth: The Dragons_
 
 {: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hazard-name .mb-4 .p-1 .pl-2 }
+> {: .hazard-name .p-1 .pl-2 }
 > > <div class="hazard-mp">4</div>
 > > <div class="card-name">Leucaruth Ahunt</div>
 >

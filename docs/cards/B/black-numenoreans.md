@@ -14,7 +14,7 @@ permalink: /cards/black-numenoreans/
 ### _Middle-earth: Against the Shadow_
 
 {: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .minion-resource-name .mb-4 .p-1 .pl-2 }
+> {: .minion-resource-name .p-1 .pl-2 }
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">Black Numenoreans</div>
 >
