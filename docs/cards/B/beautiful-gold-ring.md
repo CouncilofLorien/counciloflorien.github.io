@@ -51,7 +51,6 @@ permalink: /cards/beautiful-gold-ring/
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">1</div>
 > > <div class="card-name">Beautiful Gold Ring</div>
-> > &nbsp;
 >
 > {: .card-classification .pr-2 }
 > Gold Ring Item

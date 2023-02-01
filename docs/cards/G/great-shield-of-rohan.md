@@ -68,7 +68,6 @@ permalink: /cards/great-shield-of-rohan/
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">2</div>
 > > <div class="card-name">Great-shield of Rohan</div>
-> > &nbsp;
 >
 > {: .card-classification .pr-2 }
 > Major Item

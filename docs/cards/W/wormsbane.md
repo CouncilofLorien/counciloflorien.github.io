@@ -15,27 +15,32 @@ permalink: /cards/wormsbane/
 
 {: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"></div>
+> > <div class="card-mp">4</div>
 > > <div class="card-name">Wormsbane</div>
 >
 > {: .card-classification .pr-2 }
-> Long-event
+> Greater Item
 >
 > {: .hero-resource-text .black-text .p-2 }
 > > _**Unique.**_ _Weapon._ +2 to prowess to a maximum of 9 (+4 to prowess to a maximum of 12 and -2 to strikes body against a Dragon or a Drake strike). <br>_“...and among them were several swords of various makes, shapes, and sizes."_ ***---&#65279;Hob*** 
 > 
+> {: .hero-resource-name .p-1 .pr-2 }
+> > <div class="card-shield">【+2/&ndash;】</div>
+> > <div class="card-corruption">〔2〕</div>
 
 ### _Middle-earth Challenge Decks_
 
 {: .hero-resource-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"></div>
+> > <div class="card-mp">4</div>
 > > <div class="card-name">Wormsbane</div>
-> > &nbsp;
 >
 > {: .card-classification .pr-2 }
-> Long-event
+> Greater Item
 >
 > {: .hero-resource-text .black-text .p-2 }
 > > _**Unique.**_ _Weapon._ +2 to prowess to a maximum of 9 (+4 to prowess to a maximum of 12 and -2 to strikes body against a Dragon or a Drake strike). <br>_“...and among them were several swords of various makes, shapes, and sizes."_ ***---&#65279;Hob*** 
 > 
+> {: .hero-resource-name .p-1 .pr-2 }
+> > <div class="card-shield">【+2/&ndash;】</div>
+> > <div class="card-corruption">〔2〕</div>

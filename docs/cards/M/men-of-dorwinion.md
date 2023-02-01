@@ -59,7 +59,6 @@ permalink: /cards/men-of-dorwinion/
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">3</div>
 > > <div class="card-name">Men of Dorwinion</div>
-> > &nbsp;
 >
 > {: .card-classification .pr-2 }
 > Man Faction

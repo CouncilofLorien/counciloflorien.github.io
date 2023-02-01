@@ -25,5 +25,5 @@ permalink: /cards/nenselde-the-wingild/
 > Ally
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Dol Amroth. May not be attacked. Tap Nenselde the Wingild to return one environment resource long-event or short-event from your discard pile to your hand. Discard Nenselde the Wingild if her company moves to a site that is not in: Belfalas, Bay of Belfalas, Anfalas, or Mouths of the Anduin. 
+> > _**Unique.**_ ***Playable at Dol Amroth.*** <br>&ensp;May not be attacked. <br>&ensp;Tap _Nenselde_ to return one environment resource long-event or short-event from your discard pile to your hand. Discard _Nenselde_ if her company moves to a site that is not in: Belfalas, Bay of Belfalas, Anfalas, or Mouths of the Anduin. 
 > 

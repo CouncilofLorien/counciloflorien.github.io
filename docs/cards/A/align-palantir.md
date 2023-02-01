@@ -51,7 +51,6 @@ permalink: /cards/align-palantir/
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">2</div>
 > > <div class="card-name">Align Palantir</div>
-> > &nbsp;
 >
 > {: .card-classification .pr-2 }
 > Permanent-event

@@ -22,5 +22,5 @@ permalink: /cards/men-of-lake-town/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ ***Playable at Lake-town*** <br>&ensp;if the influence is greater than 8. <br>_Standard Modifications:_ Men (+2), Dwarves (-1). <br>_“...who still dared to dwell here under the shadow of the distant Dragon-mountain."_ ***---&#65279;Hob*** 
+> > _**Unique.**_ ***Playable at Lake-town*** if the influence is greater than 8. <br>_Standard Modifications:_ Men (+2), Dwarves (-1). <br>_“...who still dared to dwell here under the shadow of the distant Dragon-mountain."_ ***---&#65279;Hob*** 
 > 

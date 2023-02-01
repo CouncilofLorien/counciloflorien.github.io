@@ -45,7 +45,6 @@ permalink: /cards/men-of-anorien/
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">2</div>
 > > <div class="card-name">Men of Anorien</div>
-> > &nbsp;
 >
 > {: .card-classification .pr-2 }
 > Man Faction

@@ -45,7 +45,6 @@ permalink: /cards/rangers-of-ithilien/
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">3</div>
 > > <div class="card-name">Rangers of Ithilien</div>
-> > &nbsp;
 >
 > {: .card-classification .pr-2 }
 > Dunadan Faction

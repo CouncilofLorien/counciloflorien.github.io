@@ -34,7 +34,6 @@ permalink: /cards/bow-of-the-galadhrim/
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">2</div>
 > > <div class="card-name">Bow of the Galadhrim</div>
-> > &nbsp;
 >
 > {: .card-classification .pr-2 }
 > Major Item

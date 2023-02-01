@@ -19,7 +19,7 @@ permalink: /cards/emerald-of-doriath/
 > > <div class="card-name">Emerald of Doriath</div>
 >
 > {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > [+1]![](/assets/images/di.svg)
+> > [+1![](/assets/images/di.svg)]
 >
 > {: .card-classification .pr-2 }
 > Minor Item

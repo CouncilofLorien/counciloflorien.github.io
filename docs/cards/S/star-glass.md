@@ -51,7 +51,6 @@ permalink: /cards/star-glass/
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Star-glass</div>
-> > &nbsp;
 >
 > {: .card-classification .pr-2 }
 > Minor Item

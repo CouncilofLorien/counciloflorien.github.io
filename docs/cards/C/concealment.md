@@ -59,7 +59,6 @@ permalink: /cards/concealment/
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Concealment</div>
-> > &nbsp;
 >
 > {: .card-classification .pr-2 }
 > Short-event

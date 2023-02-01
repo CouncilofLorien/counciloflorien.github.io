@@ -85,7 +85,6 @@ permalink: /cards/scroll-of-isildur/
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">4</div>
 > > <div class="card-name">Scroll of Isildur</div>
-> > &nbsp;
 >
 > {: .card-classification .pr-2 }
 > Greater Item

@@ -68,7 +68,6 @@ permalink: /cards/palantir-of-orthanc/
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">2</div>
 > > <div class="card-name">Palantir of Orthanc</div>
-> > &nbsp;
 >
 > {: .card-classification .pr-2 }
 > Special Item

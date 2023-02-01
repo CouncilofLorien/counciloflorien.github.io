@@ -59,7 +59,6 @@ permalink: /cards/tower-guard-of-minas-tirith/
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">2</div>
 > > <div class="card-name">Tower Guard of Minas Tirith</div>
-> > &nbsp;
 >
 > {: .card-classification .pr-2 }
 > Dunadan Faction

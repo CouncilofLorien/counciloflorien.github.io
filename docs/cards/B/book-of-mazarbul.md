@@ -51,7 +51,6 @@ permalink: /cards/book-of-mazarbul/
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">1(5)</div>
 > > <div class="card-name">Book of Mazarbul</div>
-> > &nbsp;
 >
 > {: .card-classification .pr-2 }
 > Special Item

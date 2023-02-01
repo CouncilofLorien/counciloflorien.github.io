@@ -22,7 +22,7 @@ permalink: /cards/arrows-shorn-of-ebony/
 > Minor Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Hoard item._ Warrior only: discard Arrows Shorn of Ebony to modify a strike from a hazard creature attack not keyed to a site by -1 prowess, -2 body. If this strike is defeated, all other subsequent failed strikes from this attack are automatically defeated. <br>_“...his arrows shorn of ebony...”_ ***---&#65279;LotRII*** 
+> > _Hoard item._ Warrior only: discard _Arrows Shorn of Ebony_ to modify a strike from a hazard creature attack not keyed to a site by -1 prowess, -2 body. If this strike is defeated, all other subsequent failed strikes from this attack are automatically defeated. <br>_“...his arrows shorn of ebony...”_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

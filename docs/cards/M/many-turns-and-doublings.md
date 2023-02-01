@@ -31,7 +31,6 @@ permalink: /cards/many-turns-and-doublings/
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Many Turns and Doublings</div>
-> > &nbsp;
 >
 > {: .card-classification .pr-2 }
 > Short-event

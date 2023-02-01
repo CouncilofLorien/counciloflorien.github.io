@@ -68,7 +68,6 @@ permalink: /cards/orcrist/
 > {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">4</div>
 > > <div class="card-name">Orcrist</div>
-> > &nbsp;
 >
 > {: .card-classification .pr-2 }
 > Greater Item

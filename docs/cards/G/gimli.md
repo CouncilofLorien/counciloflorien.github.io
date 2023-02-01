@@ -45,7 +45,7 @@ permalink: /cards/gimli/
 > Warrior/Diplomat Dwarf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Iron Hill Dwarves faction, +2 prowess against Orcs. <br>&ensp;+1 direct influence against Elves and Elf factions. <br>_"Gimli...wore openly a short of steel-rings, for dwarves make light of burdens...”_ ***---&#65279;LotRII***  <br><br>**Home Site:** Iron Hill Dwarf-hold 
+> > _**Unique.**_ +2 direct influence against the Iron Hill Dwarves faction, +2 prowess against Orcs. +1 direct influence against Elves and Elf factions. <br>_"Gimli...wore openly a short of steel-rings, for dwarves make light of burdens...”_ ***---&#65279;LotRII***  <br><br>**Home Site:** Iron Hill Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【5/8】</div>
@@ -65,7 +65,7 @@ permalink: /cards/gimli/
 > Warrior/Diplomat Dwarf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Iron Hill Dwarves faction, +2 prowess against Orcs. <br>&ensp;+1 direct influence against Elves and Elf factions. <br>_"Gimli...wore openly a short of steel-rings, for dwarves make light of burdens...”_ ***---&#65279;LotRII***  <br><br>**Home Site:** Iron Hill Dwarf-hold 
+> > _**Unique.**_ +2 direct influence against the Iron Hill Dwarves faction, +2 prowess against Orcs. +1 direct influence against Elves and Elf factions. <br>_"Gimli...wore openly a short of steel-rings, for dwarves make light of burdens...”_ ***---&#65279;LotRII***  <br><br>**Home Site:** Iron Hill Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【5/8】</div>
