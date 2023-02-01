@@ -25,7 +25,10 @@ permalink: /cards/binding-ring/
 > Minor Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Mind Ring._ -1 to mind to a minimum of 1. +1 to prowess. Cannot be duplicated on a given character. <br>_"A lesser ring, it confers no lengthened life; merely the wearer finds his will constrained by the aims of the ones who gave the trinket."_ ***---&#65279;Kuduk Lore*** 
+> > _Mind Ring._ -1 to mind to a minimum of 1. +1 to prowess. Cannot be duplicated on a given character. 
+> > 
+> > {: .fs-3 } 
+> > _“A lesser ring, it confers no lengthened life; merely the wearer finds his will constrained by the aims of the ones who gave the trinket."_ ***---&#65279;Kuduk Lore*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +1/&ndash; 】</div>

@@ -25,7 +25,10 @@ permalink: /cards/the-great-goblin/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Orc._ May also be played on a company moving from Rivendell to Lorien or from Lorien to Rivendell. May also be played keyed to High Pass and at sites in High Pass. <br>_"There in the shadows on a large flat stone sat a tremendous goblin with a huge head, and armed goblins were standing around him...”_ ***---&#65279;Hob*** 
+> > _**Unique.**_ _Orc._ May also be played on a company moving from Rivendell to Lorien or from Lorien to Rivendell. May also be played keyed to High Pass and at sites in High Pass. 
+> > 
+> > {: .fs-3 } 
+> > _“There in the shadows on a large flat stone sat a tremendous goblin with a huge head, and armed goblins were standing around him...”_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 12/7 】</div>
@@ -45,7 +48,10 @@ permalink: /cards/the-great-goblin/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Orc._ One strike. May also be played on a company moving from Rivendell to Lorien or from Lorien to Rivendell. May also be played keyed to High Pass and at sites in High Pass. <br>_"There in the shadows on a large flat stone sat a tremendous goblin with a huge head, and armed goblins were standing around him...”_ ***---&#65279;Hob*** 
+> > _**Unique.**_ _Orc._ One strike. May also be played on a company moving from Rivendell to Lorien or from Lorien to Rivendell. May also be played keyed to High Pass and at sites in High Pass. 
+> > 
+> > {: .fs-3 } 
+> > _“There in the shadows on a large flat stone sat a tremendous goblin with a huge head, and armed goblins were standing around him...”_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 12/7 】</div>

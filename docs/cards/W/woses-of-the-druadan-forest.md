@@ -22,7 +22,10 @@ permalink: /cards/woses-of-the-druadan-forest/
 > Wose Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ ***Playable at Druadan Forest*** <br>&ensp;if the influence check is greater than 9.  <br>_Standard Modifications:_ none. <br>_“‘...the Woses, the Wild Men of the Woods...they use poisoned arrows, it is said, and they are woodcrafty beyond compare.’”_ ***---&#65279;LotRV*** 
+> > _**Unique.**_ ***Playable at Druadan Forest*** <br>&ensp;if the influence check is greater than 9.  <br>_Standard Modifications:_ none. 
+> > 
+> > {: .fs-3 } 
+> > _“‘...the Woses, the Wild Men of the Woods...they use poisoned arrows, it is said, and they are woodcrafty beyond compare.’”_ ***---&#65279;LotRV*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,5 +39,8 @@ permalink: /cards/woses-of-the-druadan-forest/
 > Wose Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ ***Playable at Druadan Forest*** <br>&ensp;if the influence check is greater than 9.  <br>_Standard Modifications:_ none. <br>_“‘...the Woses, the Wild Men of the Woods...they use poisoned arrows, it is said, and they are woodcrafty beyond compare.’”_ ***---&#65279;LotRV*** 
+> > _**Unique.**_ ***Playable at Druadan Forest*** <br>&ensp;if the influence check is greater than 9.  <br>_Standard Modifications:_ none. 
+> > 
+> > {: .fs-3 } 
+> > _“‘...the Woses, the Wild Men of the Woods...they use poisoned arrows, it is said, and they are woodcrafty beyond compare.’”_ ***---&#65279;LotRV*** 
 > 

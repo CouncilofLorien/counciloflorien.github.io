@@ -22,5 +22,8 @@ permalink: /cards/dark-numbers/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Stolen Knowledge._ Playable on an untapped scout immediately after facing an Orc, Troll, or Man attack. Tap scout. Can be stored at a Haven \[![](/assets/images/free-haven.svg)]. If not stored, discard to give +3 to an influence attempt against a faction by a character in the same company. <br>_"The orcs were going at a great pace. Those in the foremost files bore torches."_ ***---&#65279;LotRVI***  
+> > _Stolen Knowledge._ Playable on an untapped scout immediately after facing an Orc, Troll, or Man attack. Tap scout. Can be stored at a Haven \[![](/assets/images/free-haven.svg)]. If not stored, discard to give +3 to an influence attempt against a faction by a character in the same company. 
+> > 
+> > {: .fs-3 } 
+> > _“The orcs were going at a great pace. Those in the foremost files bore torches."_ ***---&#65279;LotRVI***  
 > 

@@ -22,5 +22,8 @@ permalink: /cards/news-must-get-through/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable on a company at a Darkhaven \[![](/assets/images/dark-haven.svg)], Shadow-hold \[![](/assets/images/shadow-hold.svg)], or Dark-hold \[![](/assets/images/dark-hold.svg)]. Any resource events with the company that can be stored at a Darkhaven \[![](/assets/images/dark-haven.svg)] may now be so stored. <br>_"News must get through to Lugburz, or we'll both be for the Black Pits."_ ***---&#65279;LotRVI*** 
+> > Playable on a company at a Darkhaven \[![](/assets/images/dark-haven.svg)], Shadow-hold \[![](/assets/images/shadow-hold.svg)], or Dark-hold \[![](/assets/images/dark-hold.svg)]. Any resource events with the company that can be stored at a Darkhaven \[![](/assets/images/dark-haven.svg)] may now be so stored. 
+> > 
+> > {: .fs-3 } 
+> > _“News must get through to Lugburz, or we'll both be for the Black Pits."_ ***---&#65279;LotRVI*** 
 > 

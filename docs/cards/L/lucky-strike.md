@@ -22,7 +22,10 @@ permalink: /cards/lucky-strike/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Warrior only.**_ Make two rolls (or draw two #'s) against a strike and choose one of the two results to use. <br>_“...Frodo felt a hot wrath blaze up in his heart...he stooped and stabbed with Sting at the hideous foot. There was a bellow, and the foot jerked back."_ ***---&#65279;LotRII*** 
+> > _**Warrior only.**_ Make two rolls (or draw two #'s) against a strike and choose one of the two results to use. 
+> > 
+> > {: .fs-3 } 
+> > _“...Frodo felt a hot wrath blaze up in his heart...he stooped and stabbed with Sting at the hideous foot. There was a bellow, and the foot jerked back."_ ***---&#65279;LotRII*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,7 +39,10 @@ permalink: /cards/lucky-strike/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Warrior only.**_ Make two rolls (or draw two #'s) against a strike and choose one of the two results to use. <br>_“...Frodo felt a hot wrath blaze up in his heart...he stooped and stabbed with Sting at the hideous foot. There was a bellow, and the foot jerked back."_ ***---&#65279;LotRII*** 
+> > _**Warrior only.**_ Make two rolls (or draw two #'s) against a strike and choose one of the two results to use. 
+> > 
+> > {: .fs-3 } 
+> > _“...Frodo felt a hot wrath blaze up in his heart...he stooped and stabbed with Sting at the hideous foot. There was a bellow, and the foot jerked back."_ ***---&#65279;LotRII*** 
 > 
 
 ### _Middle-earth: The Wizards Starter Set_
@@ -50,5 +56,8 @@ permalink: /cards/lucky-strike/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Warrior only.**_ Make two rolls (or draw two #'s) against a strike and choose one of the two results to use. <br>_“...Frodo felt a hot wrath blaze up in his heart...he stooped and stabbed with Sting at the hideous foot. There was a bellow, and the foot jerked back."_ ***---&#65279;LotRII*** 
+> > _**Warrior only.**_ Make two rolls (or draw two #'s) against a strike and choose one of the two results to use. 
+> > 
+> > {: .fs-3 } 
+> > _“...Frodo felt a hot wrath blaze up in his heart...he stooped and stabbed with Sting at the hideous foot. There was a bellow, and the foot jerked back."_ ***---&#65279;LotRII*** 
 > 

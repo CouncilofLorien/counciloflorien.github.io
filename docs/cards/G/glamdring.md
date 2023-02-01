@@ -22,7 +22,10 @@ permalink: /cards/glamdring/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ _Weapon._ +3 to prowess to a maximum of 8 (a maximum of 9 against Orcs).   <br>_“‘This, Gandalf, was Glamdring, Foe-hammer that the king of Gondolin once wore.’”_ ***---&#65279;Hob*** 
+> > _Unique._ _Weapon._ +3 to prowess to a maximum of 8 (a maximum of 9 against Orcs).   
+> > 
+> > {: .fs-3 } 
+> > _“‘This, Gandalf, was Glamdring, Foe-hammer that the king of Gondolin once wore.’”_ ***---&#65279;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +3/&ndash; 】</div>
@@ -39,7 +42,10 @@ permalink: /cards/glamdring/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ _Weapon._ +3 to prowess to a maximum of 8 (a maximum of 9 against Orcs).   <br>_“‘This, Gandalf, was Glamdring, Foe-hammer that the king of Gondolin once wore.’”_ ***---&#65279;Hob*** 
+> > _Unique._ _Weapon._ +3 to prowess to a maximum of 8 (a maximum of 9 against Orcs).   
+> > 
+> > {: .fs-3 } 
+> > _“‘This, Gandalf, was Glamdring, Foe-hammer that the king of Gondolin once wore.’”_ ***---&#65279;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +3/&ndash; 】</div>
@@ -56,7 +62,10 @@ permalink: /cards/glamdring/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ _Weapon._ +3 to prowess to a maximum of 8 (a maximum of 9 against Orcs).   <br>_“‘This, Gandalf, was Glamdring, Foe-hammer that the king of Gondolin once wore.’”_ ***---&#65279;Hob*** 
+> > _Unique._ _Weapon._ +3 to prowess to a maximum of 8 (a maximum of 9 against Orcs).   
+> > 
+> > {: .fs-3 } 
+> > _“‘This, Gandalf, was Glamdring, Foe-hammer that the king of Gondolin once wore.’”_ ***---&#65279;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +3/&ndash; 】</div>
@@ -73,7 +82,10 @@ permalink: /cards/glamdring/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ _Weapon._ +3 to prowess to a maximum of 8 (a maximum of 9 against Orcs).   <br>_“‘This, Gandalf, was Glamdring, Foe-hammer that the king of Gondolin once wore.’”_ ***---&#65279;Hob*** 
+> > _Unique._ _Weapon._ +3 to prowess to a maximum of 8 (a maximum of 9 against Orcs).   
+> > 
+> > {: .fs-3 } 
+> > _“‘This, Gandalf, was Glamdring, Foe-hammer that the king of Gondolin once wore.’”_ ***---&#65279;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +3/&ndash; 】</div>

@@ -25,7 +25,10 @@ permalink: /cards/fell-turtle/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Animals._ One strike. If any strike is successful, the defending company must return to its site of origin (defending characters are wounded normally). <br>_"It is written, in margins of the 'Red Book,' that the horny Turtle-fish, the Fastitocalon, is most dreaded monster in the sea, and that he is as large as a islet."_ ***---&#65279;Kuduk Lore*** 
+> > _Animals._ One strike. If any strike is successful, the defending company must return to its site of origin (defending characters are wounded normally). 
+> > 
+> > {: .fs-3 } 
+> > _“It is written, in margins of the 'Red Book,' that the horny Turtle-fish, the Fastitocalon, is most dreaded monster in the sea, and that he is as large as a islet."_ ***---&#65279;Kuduk Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 15/&ndash; 】</div>
@@ -45,7 +48,10 @@ permalink: /cards/fell-turtle/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Animals._ One strike. If any strike is successful, the defending company must return to its site of origin (defending characters are wounded normally). <br>_"It is written, in margins of the 'Red Book,' that the horny Turtle-fish, the Fastitocalon, is most dreaded monster in the sea, and that he is as large as a islet."_ ***---&#65279;Kuduk Lore*** 
+> > _Animals._ One strike. If any strike is successful, the defending company must return to its site of origin (defending characters are wounded normally). 
+> > 
+> > {: .fs-3 } 
+> > _“It is written, in margins of the 'Red Book,' that the horny Turtle-fish, the Fastitocalon, is most dreaded monster in the sea, and that he is as large as a islet."_ ***---&#65279;Kuduk Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 15/&ndash; 】</div>

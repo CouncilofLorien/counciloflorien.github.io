@@ -22,7 +22,10 @@ permalink: /cards/woodmen/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ ***Playable at Woodmen-town*** <br>&ensp;if the influence check is greater than 7. <br>_Standard Modifications:_ Men (+1). <br>_"Most of the Men of the northern regions...were descended from the Edain of the first age, of from their close kin... Of this kind were the peoples of the upper vales of the Anduin: the Beornings, and the Woodmen of Western Mirkwood...”_ ***---&#65279;LotR*** 
+> > _**Unique.**_ ***Playable at Woodmen-town*** <br>&ensp;if the influence check is greater than 7. <br>_Standard Modifications:_ Men (+1). 
+> > 
+> > {: .fs-3 } 
+> > _“Most of the Men of the northern regions...were descended from the Edain of the first age, of from their close kin... Of this kind were the peoples of the upper vales of the Anduin: the Beornings, and the Woodmen of Western Mirkwood...”_ ***---&#65279;LotR*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,7 +39,10 @@ permalink: /cards/woodmen/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ ***Playable at Woodmen-town*** <br>&ensp;if the influence check is greater than 7. <br>_Standard Modifications:_ Men (+1). <br>_"Most of the Men of the northern regions...were descended from the Edain of the first age, of from their close kin... Of this kind were the peoples of the upper vales of the Anduin: the Beornings, and the Woodmen of Western Mirkwood...”_ ***---&#65279;LotR*** 
+> > _**Unique.**_ ***Playable at Woodmen-town*** <br>&ensp;if the influence check is greater than 7. <br>_Standard Modifications:_ Men (+1). 
+> > 
+> > {: .fs-3 } 
+> > _“Most of the Men of the northern regions...were descended from the Edain of the first age, of from their close kin... Of this kind were the peoples of the upper vales of the Anduin: the Beornings, and the Woodmen of Western Mirkwood...”_ ***---&#65279;LotR*** 
 > 
 
 ### _Middle-earth: The Lidless Eye_
@@ -50,5 +56,8 @@ permalink: /cards/woodmen/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Manifestation of hero Woodmen. Playable at Woodmen Town if the influence check is greater than 10.   <br>_“‘Swords in these parts are mostly blunt, and exes are used for trees , and shields as cradles or dish covers...’”- Hob  
+> > _**Unique.**_ Manifestation of hero Woodmen. Playable at Woodmen Town if the influence check is greater than 10.   
+> > 
+> > {: .fs-3 } 
+> > _“‘Swords in these parts are mostly blunt, and exes are used for trees , and shields as cradles or dish covers...’”- Hob  
 > 

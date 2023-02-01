@@ -22,5 +22,8 @@ permalink: /cards/slip-treacherously/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Tap all untapped items in play. Item effects not requiring tapping apply normally. <br>_"Whether it was an accident, or a last trick of the ring before it took a new master, it was not on his finger."_ ***---&#65279;Hob*** 
+> > Tap all untapped items in play. Item effects not requiring tapping apply normally. 
+> > 
+> > {: .fs-3 } 
+> > _“Whether it was an accident, or a last trick of the ring before it took a new master, it was not on his finger."_ ***---&#65279;Hob*** 
 >

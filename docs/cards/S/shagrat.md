@@ -25,7 +25,13 @@ permalink: /cards/shagrat/
 > Warrior/Ranger Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ _Uruk-hai._ _Leader._ Discard on a body check result of 9. +4 direct influence against Orcs and Orc factions. <br>_“...evil face...slaver dripped from its protruding fangs; the mouth snarled like an animal."_ ***---&#65279;LotRVI***  <br><br>**Home Site:** Cirith Ungol 
+> > _**Unique.**_ _Uruk-hai._ _Leader._ Discard on a body check result of 9. +4 direct influence against Orcs and Orc factions. 
+> > 
+> > {: .fs-3 } 
+> > _“...evil face...slaver dripped from its protruding fangs; the mouth snarled like an animal."_ ***---&#65279;LotRVI***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Cirith Ungol 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 6/9 】</div>
@@ -45,7 +51,13 @@ permalink: /cards/shagrat/
 > Warrior/Ranger Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ _Uruk-hai._ _Leader._ Discard on a body check result of 9. +4 direct influence against Orcs and Orc factions. <br>_“...evil face...slaver dripped from its protruding fangs; the mouth snarled like an animal."_ ***---&#65279;LotRVI***  <br><br>**Home Site:** Cirith Ungol 
+> > _**Unique.**_ _Uruk-hai._ _Leader._ Discard on a body check result of 9. +4 direct influence against Orcs and Orc factions. 
+> > 
+> > {: .fs-3 } 
+> > _“...evil face...slaver dripped from its protruding fangs; the mouth snarled like an animal."_ ***---&#65279;LotRVI***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Cirith Ungol 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 6/9 】</div>
@@ -65,7 +77,13 @@ permalink: /cards/shagrat/
 > Warrior/Ranger Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ _Uruk-hai._ _Leader._ Discard on a body check result of 9. +4 direct influence against Orcs and Orc factions. <br>_“...evil face...slaver dripped from its protruding fangs; the mouth snarled like an animal."_ ***---&#65279;LotRVI***  <br><br>**Home Site:** Cirith Ungol 
+> > _**Unique.**_ _Uruk-hai._ _Leader._ Discard on a body check result of 9. +4 direct influence against Orcs and Orc factions. 
+> > 
+> > {: .fs-3 } 
+> > _“...evil face...slaver dripped from its protruding fangs; the mouth snarled like an animal."_ ***---&#65279;LotRVI***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Cirith Ungol 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 6/9 】</div>

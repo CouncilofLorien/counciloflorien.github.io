@@ -25,7 +25,10 @@ permalink: /cards/the-white-wizard/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable on a Wizard with Sacrifice of Form. +2 to his direct influence, +1 to all of his corruption checks. Discard if Saruman is in play as an opposing Wizard.   <br>_“‘Yes, I am in white now... Indeed I am Saruman, one might almost say, Saruman as he should have been.’”_ ***---&#65279;LotRIII*** 
+> > _**Unique.**_ Playable on a Wizard with Sacrifice of Form. +2 to his direct influence, +1 to all of his corruption checks. Discard if Saruman is in play as an opposing Wizard.   
+> > 
+> > {: .fs-3 } 
+> > _“‘Yes, I am in white now... Indeed I am Saruman, one might almost say, Saruman as he should have been.’”_ ***---&#65279;LotRIII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

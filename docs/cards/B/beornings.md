@@ -22,7 +22,10 @@ permalink: /cards/beornings/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ _**Playable at Beorn's House**_ <br>&ensp;if the influence check is greater than 7.  <br>_Standard Modifications:_ Men (+1). <br>_“‘...if it were not for the Beornings, the passage from Dale to Rivendell would long ago have become impassable. They are valiant men...’”_ ***---&#65279;LotRII*** 
+> > _**Unique.**_ _**Playable at Beorn's House**_ <br>&ensp;if the influence check is greater than 7.  <br>_Standard Modifications:_ Men (+1). 
+> > 
+> > {: .fs-3 } 
+> > _“‘...if it were not for the Beornings, the passage from Dale to Rivendell would long ago have become impassable. They are valiant men...’”_ ***---&#65279;LotRII*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,7 +39,10 @@ permalink: /cards/beornings/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ _**Playable at Beorn's House**_ <br>&ensp;if the influence check is greater than 7.  <br>_Standard Modifications:_ Men (+1). <br>_“‘...if it were not for the Beornings, the passage from Dale to Rivendell would long ago have become impassable. They are valiant men...’”_ ***---&#65279;LotRII*** 
+> > _**Unique.**_ _**Playable at Beorn's House**_ <br>&ensp;if the influence check is greater than 7.  <br>_Standard Modifications:_ Men (+1). 
+> > 
+> > {: .fs-3 } 
+> > _“‘...if it were not for the Beornings, the passage from Dale to Rivendell would long ago have become impassable. They are valiant men...’”_ ***---&#65279;LotRII*** 
 > 
 
 ### _Middle-earth: The Lidless Eye_
@@ -50,7 +56,10 @@ permalink: /cards/beornings/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Manifestation of hero Beornings. Playable at Beorn's House if the influence check is greater than 9.   <br>_“‘... the Beornings are the best bakers that I know of; but they are none too willing to deal out their cakes to travelers these days.’”_ ***---&#65279;LotRII*** 
+> > _**Unique.**_ Manifestation of hero Beornings. Playable at Beorn's House if the influence check is greater than 9.   
+> > 
+> > {: .fs-3 } 
+> > _“‘... the Beornings are the best bakers that I know of; but they are none too willing to deal out their cakes to travelers these days.’”_ ***---&#65279;LotRII*** 
 > 
 
 ### _Middle-earth Challenge Decks_
@@ -64,5 +73,8 @@ permalink: /cards/beornings/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ _**Playable at Beorn's House**_ <br>&ensp;if the influence check is greater than 7.  <br>_Standard Modifications:_ Men (+1). <br>_“‘...if it were not for the Beornings, the passage from Dale to Rivendell would long ago have become impassable. They are valiant men...’”_ ***---&#65279;LotRII*** 
+> > _**Unique.**_ _**Playable at Beorn's House**_ <br>&ensp;if the influence check is greater than 7.  <br>_Standard Modifications:_ Men (+1). 
+> > 
+> > {: .fs-3 } 
+> > _“‘...if it were not for the Beornings, the passage from Dale to Rivendell would long ago have become impassable. They are valiant men...’”_ ***---&#65279;LotRII*** 
 > 

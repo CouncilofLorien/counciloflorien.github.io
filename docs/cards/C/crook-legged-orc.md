@@ -25,7 +25,13 @@ permalink: /cards/crook-legged-orc/
 > Warrior/Ranger Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _Balrog specific._ Discard on a body check result of 7.   <br>_“...score of others like him: long-armed crook-legged Orcs."_ ***---&#65279;LotRIII***  <br><br>**Home Site:** any non-Dark-hold Under-deeps site 
+> > _Balrog specific._ Discard on a body check result of 7.   
+> > 
+> > {: .fs-3 } 
+> > _“...score of others like him: long-armed crook-legged Orcs."_ ***---&#65279;LotRIII***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** any non-Dark-hold Under-deeps site 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 3/7 】</div>

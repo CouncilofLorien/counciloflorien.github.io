@@ -22,7 +22,10 @@ permalink: /cards/lore-of-the-ages/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable on an Elf at a Haven \[![](/assets/images/free-haven.svg)]; tap the Elf. When facing an attack, bearer may tap to give +1 prowess to all characters in his company against the attack. Bearers makes a corruption check.   <br>_“...the words took shape, and visions of far lands and bright things that he had never yet imagined opened out before him...”_ ***---&#65279;LotRII*** 
+> > Playable on an Elf at a Haven \[![](/assets/images/free-haven.svg)]; tap the Elf. When facing an attack, bearer may tap to give +1 prowess to all characters in his company against the attack. Bearers makes a corruption check.   
+> > 
+> > {: .fs-3 } 
+> > _“...the words took shape, and visions of far lands and bright things that he had never yet imagined opened out before him...”_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

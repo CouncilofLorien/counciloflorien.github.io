@@ -22,7 +22,10 @@ permalink: /cards/voices-of-malice/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Sage only._ Tap a sage to discard one non-environment hazard permanent-event on non-environment hazard long-event. Sage makes a corruption check modified by -2. <br>_“...so their voices, which uttered only his will and malice, were filled with evil and horror."_ ***---&#65279;LotRI*** 
+> > _Sage only._ Tap a sage to discard one non-environment hazard permanent-event on non-environment hazard long-event. Sage makes a corruption check modified by -2. 
+> > 
+> > {: .fs-3 } 
+> > _“...so their voices, which uttered only his will and malice, were filled with evil and horror."_ ***---&#65279;LotRI*** 
 > 
 
 ### _Middle-earth Challenge Decks_
@@ -36,7 +39,10 @@ permalink: /cards/voices-of-malice/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Sage only._ Tap a sage to discard one non-environment hazard permanent-event on non-environment hazard long-event. Sage makes a corruption check modified by -2. <br>_“...so their voices, which uttered only his will and malice, were filled with evil and horror."_ ***---&#65279;LotRI*** 
+> > _Sage only._ Tap a sage to discard one non-environment hazard permanent-event on non-environment hazard long-event. Sage makes a corruption check modified by -2. 
+> > 
+> > {: .fs-3 } 
+> > _“...so their voices, which uttered only his will and malice, were filled with evil and horror."_ ***---&#65279;LotRI*** 
 > 
 
 ### _Middle-earth: The Balrog Reprint_
@@ -50,5 +56,8 @@ permalink: /cards/voices-of-malice/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Sage only._ Tap a sage to discard one non-environment hazard permanent-event on non-environment hazard long-event. Sage makes a corruption check modified by -2. <br>_“...so their voices, which uttered only his will and malice, were filled with evil and horror."_ ***---&#65279;LotRI*** 
+> > _Sage only._ Tap a sage to discard one non-environment hazard permanent-event on non-environment hazard long-event. Sage makes a corruption check modified by -2. 
+> > 
+> > {: .fs-3 } 
+> > _“...so their voices, which uttered only his will and malice, were filled with evil and horror."_ ***---&#65279;LotRI*** 
 > 

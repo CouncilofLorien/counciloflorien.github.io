@@ -22,7 +22,10 @@ permalink: /cards/dragons-desolation/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The prowess of one Dragon attack is modified by +2 **or** one Dragon hazard creature may be played at a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] that has two Wilderness \[![](/assets/images/wilderness.svg)] in its site path (only one Wilderness \[![](/assets/images/wilderness.svg)] is required if _Doors of Night_ is in play). <br>_“...there was neither bush nor tree, and only broken and blackened stumps...”_ ***---&#65279;Hob*** 
+> > The prowess of one Dragon attack is modified by +2 **or** one Dragon hazard creature may be played at a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] that has two Wilderness \[![](/assets/images/wilderness.svg)] in its site path (only one Wilderness \[![](/assets/images/wilderness.svg)] is required if _Doors of Night_ is in play). 
+> > 
+> > {: .fs-3 } 
+> > _“...there was neither bush nor tree, and only broken and blackened stumps...”_ ***---&#65279;Hob*** 
 >
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,5 +39,8 @@ permalink: /cards/dragons-desolation/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The prowess of one Dragon attack is modified by +2. <br>&ensp;Alternatively, it may be played on a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] site that has two Wildernesses \[![](/assets/images/wilderness.svg)] in its site path (only one Wilderness \[![](/assets/images/wilderness.svg)] is required if _Doors of Night_ is in play)---one Dragon hazard creature may be played on a company at that site this turn. <br>_“...there was neither bush nor tree, and only broken and blackened stumps...”_ ***---&#65279;Hob*** 
+> > The prowess of one Dragon attack is modified by +2. <br>&ensp;Alternatively, it may be played on a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] site that has two Wildernesses \[![](/assets/images/wilderness.svg)] in its site path (only one Wilderness \[![](/assets/images/wilderness.svg)] is required if _Doors of Night_ is in play)---one Dragon hazard creature may be played on a company at that site this turn. 
+> > 
+> > {: .fs-3 } 
+> > _“...there was neither bush nor tree, and only broken and blackened stumps...”_ ***---&#65279;Hob*** 
 >

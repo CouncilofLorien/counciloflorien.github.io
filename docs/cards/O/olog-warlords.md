@@ -25,7 +25,10 @@ permalink: /cards/olog-warlords/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Trolls._ Three strikes (playable only against hero companies).   <br>_“...these fell creatures would bite the throats of those that they threw down."_ ***---&#65279;LotRV*** 
+> > _Trolls._ Three strikes (playable only against hero companies).   
+> > 
+> > {: .fs-3 } 
+> > _“...these fell creatures would bite the throats of those that they threw down."_ ***---&#65279;LotRV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 10/4 】</div>

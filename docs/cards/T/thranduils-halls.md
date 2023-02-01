@@ -25,7 +25,10 @@ permalink: /cards/thranduils-halls/
 > Woodland Realm
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien  <br>_"This was the bridge that led across the river to the king's doors. The water flowed dark and swift and strong beneath; and at the far end were gates before the mouth of a huge cave that ran into the side of a steep slope covered with trees."_ ***---&#65279;Hob*** 
+> > _**Nearest Haven:**_ Lorien  
+> > 
+> > {: .fs-3 } 
+> > _“This was the bridge that led across the river to the king's doors. The water flowed dark and swift and strong beneath; and at the far end were gates before the mouth of a huge cave that ran into the side of a steep slope covered with trees."_ ***---&#65279;Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -45,7 +48,10 @@ permalink: /cards/thranduils-halls/
 > Woodland Realm
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien  <br>_"This was the bridge that led across the river to the king's doors. The water flowed dark and swift and strong beneath; and at the far end were gates before the mouth of a huge cave that ran into the side of a steep slope covered with trees."_ ***---&#65279;Hob*** 
+> > _**Nearest Haven:**_ Lorien  
+> > 
+> > {: .fs-3 } 
+> > _“This was the bridge that led across the river to the king's doors. The water flowed dark and swift and strong beneath; and at the far end were gates before the mouth of a huge cave that ran into the side of a steep slope covered with trees."_ ***---&#65279;Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -85,7 +91,10 @@ permalink: /cards/thranduils-halls/
 > Woodland Realm
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien  <br>_"This was the bridge that led across the river to the king's doors. The water flowed dark and swift and strong beneath; and at the far end were gates before the mouth of a huge cave that ran into the side of a steep slope covered with trees."_ ***---&#65279;Hob*** 
+> > _**Nearest Haven:**_ Lorien  
+> > 
+> > {: .fs-3 } 
+> > _“This was the bridge that led across the river to the king's doors. The water flowed dark and swift and strong beneath; and at the far end were gates before the mouth of a huge cave that ran into the side of a steep slope covered with trees."_ ***---&#65279;Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>

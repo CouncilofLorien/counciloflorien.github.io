@@ -22,7 +22,10 @@ permalink: /cards/and-forth-he-hastened/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Untap a character in your Wizard's company. <br>_"Enchantment healed his weary feet... And forth he hastened, string and fleet...”_ ***---&#65279;LotRI*** 
+> > Untap a character in your Wizard's company. 
+> > 
+> > {: .fs-3 } 
+> > _“Enchantment healed his weary feet... And forth he hastened, string and fleet...”_ ***---&#65279;LotRI*** 
 > 
 
 ### _Middle-earth Challenge Decks_
@@ -36,5 +39,8 @@ permalink: /cards/and-forth-he-hastened/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Untap a character in your Wizard's company. <br>_"Enchantment healed his weary feet... And forth he hastened, string and fleet...”_ ***---&#65279;LotRI*** 
+> > Untap a character in your Wizard's company. 
+> > 
+> > {: .fs-3 } 
+> > _“Enchantment healed his weary feet... And forth he hastened, string and fleet...”_ ***---&#65279;LotRI*** 
 > 

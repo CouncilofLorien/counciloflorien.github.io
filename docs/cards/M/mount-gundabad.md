@@ -25,7 +25,10 @@ permalink: /cards/mount-gundabad/
 > Gundabad
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Orcs - 2 strikes with 8 prowess  <br>_“...around and beneath the great mountain Gundabad of the North...a vast host was assembled...”_ ***---&#65279;Hob*** 
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Orcs - 2 strikes with 8 prowess  
+> > 
+> > {: .fs-3 } 
+> > _“...around and beneath the great mountain Gundabad of the North...a vast host was assembled...”_ ***---&#65279;Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -45,7 +48,10 @@ permalink: /cards/mount-gundabad/
 > Gundabad
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Orcs - 2 strikes with 8 prowess  <br>_“...around and beneath the great mountain Gundabad of the North...a vast host was assembled...”_ ***---&#65279;Hob*** 
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Orcs - 2 strikes with 8 prowess  
+> > 
+> > {: .fs-3 } 
+> > _“...around and beneath the great mountain Gundabad of the North...a vast host was assembled...”_ ***---&#65279;Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -65,7 +71,10 @@ permalink: /cards/mount-gundabad/
 > Gundabad
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - each character faces 1 strike with 7 prowess (detainment against overt company)  <br>_"Messengers had passed to and fro between all their cities and strongholds...they gathered in secret ways, and in all the mountains their was a forging and an arming."_ ***---&#65279;Hob*** 
+> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - each character faces 1 strike with 7 prowess (detainment against overt company)  
+> > 
+> > {: .fs-3 } 
+> > _“Messengers had passed to and fro between all their cities and strongholds...they gathered in secret ways, and in all the mountains their was a forging and an arming."_ ***---&#65279;Hob*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -85,7 +94,10 @@ permalink: /cards/mount-gundabad/
 > Gundabad
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Orcs - 2 strikes with 8 prowess  <br>_“...around and beneath the great mountain Gundabad of the North...a vast host was assembled...”_ ***---&#65279;Hob*** 
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Orcs - 2 strikes with 8 prowess  
+> > 
+> > {: .fs-3 } 
+> > _“...around and beneath the great mountain Gundabad of the North...a vast host was assembled...”_ ***---&#65279;Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -105,7 +117,10 @@ permalink: /cards/mount-gundabad/
 > Gundabad
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - each character faces 1 strike with 7 prowess (detainment against overt company)  <br>_"Messengers had passed to and fro between all their cities and strongholds...they gathered in secret ways, and in all the mountains their was a forging and an arming."_ ***---&#65279;Hob*** 
+> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - each character faces 1 strike with 7 prowess (detainment against overt company)  
+> > 
+> > {: .fs-3 } 
+> > _“Messengers had passed to and fro between all their cities and strongholds...they gathered in secret ways, and in all the mountains their was a forging and an arming."_ ***---&#65279;Hob*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -125,7 +140,10 @@ permalink: /cards/mount-gundabad/
 > Gundabad
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - each character faces 1 strike with 7 prowess (detainment against overt company)  <br>_"Messengers had passed to and fro between all their cities and strongholds...they gathered in secret ways, and in all the mountains their was a forging and an arming."_ ***---&#65279;Hob*** 
+> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - each character faces 1 strike with 7 prowess (detainment against overt company)  
+> > 
+> > {: .fs-3 } 
+> > _“Messengers had passed to and fro between all their cities and strongholds...they gathered in secret ways, and in all the mountains their was a forging and an arming."_ ***---&#65279;Hob*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>

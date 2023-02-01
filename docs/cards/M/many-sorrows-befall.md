@@ -22,5 +22,8 @@ permalink: /cards/many-sorrows-befall/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ Forces the discard of resource long-event. Alternatively, can target and cancel one resource short-event declared earlier in the same chain of effects (i.e., before the resource short-event resolves). <br>_"Many sorrows befell them afterwards, and they were parted long."_ ***---&#65279;LotRI*** 
+> > _**Unique.**_ Forces the discard of resource long-event. Alternatively, can target and cancel one resource short-event declared earlier in the same chain of effects (i.e., before the resource short-event resolves). 
+> > 
+> > {: .fs-3 } 
+> > _“Many sorrows befell them afterwards, and they were parted long."_ ***---&#65279;LotRI*** 
 >

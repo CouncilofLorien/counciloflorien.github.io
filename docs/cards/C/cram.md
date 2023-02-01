@@ -22,7 +22,10 @@ permalink: /cards/cram/
 > Minor Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Discard to untap bearer. <br>&ensp;Alternatively, discard during the organization phase to allow its bearer's company to play an additional region card. <br>_"If you want to know what cram is...it is biscuitish, keeps good indefinitely, is supposed to be sustaining, and it is certainly not entertaining, being in fact very uninteresting except as a chewing exercise."_ ***---&#65279;Hob*** 
+> > Discard to untap bearer. <br>&ensp;Alternatively, discard during the organization phase to allow its bearer's company to play an additional region card. 
+> > 
+> > {: .fs-3 } 
+> > _“If you want to know what cram is...it is biscuitish, keeps good indefinitely, is supposed to be sustaining, and it is certainly not entertaining, being in fact very uninteresting except as a chewing exercise."_ ***---&#65279;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -39,7 +42,10 @@ permalink: /cards/cram/
 > Minor Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Discard to untap bearer. <br>&ensp;Alternatively, discard during the organization phase to allow its bearer's company to play an additional region card. <br>_"If you want to know what cram is...it is biscuitish, keeps good indefinitely, is supposed to be sustaining, and it is certainly not entertaining, being in fact very uninteresting except as a chewing exercise."_ ***---&#65279;Hob*** 
+> > Discard to untap bearer. <br>&ensp;Alternatively, discard during the organization phase to allow its bearer's company to play an additional region card. 
+> > 
+> > {: .fs-3 } 
+> > _“If you want to know what cram is...it is biscuitish, keeps good indefinitely, is supposed to be sustaining, and it is certainly not entertaining, being in fact very uninteresting except as a chewing exercise."_ ***---&#65279;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

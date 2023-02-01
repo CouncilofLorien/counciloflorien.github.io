@@ -25,5 +25,8 @@ permalink: /cards/give-welcome-to-the-unexpected/
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Gandalf specific._ Place this card on Gandalf if he is in play. If on Gandalf, your unique non-character cards normally worth 1 marshalling point are each worth 2 marshalling points. <br>_"But at last there came about by chance a meeting between Gandalf and Thorin that changed all ...”_ ***---&#65279;LotR*** 
+> > _**Unique.**_ _Gandalf specific._ Place this card on Gandalf if he is in play. If on Gandalf, your unique non-character cards normally worth 1 marshalling point are each worth 2 marshalling points. 
+> > 
+> > {: .fs-3 } 
+> > _“But at last there came about by chance a meeting between Gandalf and Thorin that changed all ...”_ ***---&#65279;LotR*** 
 > 

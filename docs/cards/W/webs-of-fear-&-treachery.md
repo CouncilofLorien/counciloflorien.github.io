@@ -22,5 +22,8 @@ permalink: /cards/webs-of-fear-&-treachery/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Except for unused general influence and unused normal direct influence (including influence modifications given in a character's card text), all modifications to each influence attempt are reduced to zero.   <br>_“‘For Boromir was loyal to me and no wizard's pupil. He would have remembered his father's need...’”_ ***---&#65279;LotRI*** 
+> > Except for unused general influence and unused normal direct influence (including influence modifications given in a character's card text), all modifications to each influence attempt are reduced to zero.   
+> > 
+> > {: .fs-3 } 
+> > _“‘For Boromir was loyal to me and no wizard's pupil. He would have remembered his father's need...’”_ ***---&#65279;LotRI*** 
 >

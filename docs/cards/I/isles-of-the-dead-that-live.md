@@ -25,7 +25,10 @@ permalink: /cards/isles-of-the-dead-that-live/
 > Eriadoran Coast
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Grey Havens <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br> Undead - 2 strikes with 8 prowess; each character wounded must make a corruption check  <br>_"Tinuviel was dancing there To music of a pipe unseen...”_ ***---&#65279;LotRI*** 
+> > _**Nearest Haven:**_ Grey Havens <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br> Undead - 2 strikes with 8 prowess; each character wounded must make a corruption check  
+> > 
+> > {: .fs-3 } 
+> > _“Tinuviel was dancing there To music of a pipe unseen...”_ ***---&#65279;LotRI*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -45,7 +48,10 @@ permalink: /cards/isles-of-the-dead-that-live/
 > Eriadoran Coast
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Grey Havens <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br> Undead - 2 strikes with 8 prowess; each character wounded must make a corruption check  <br>_"Tinuviel was dancing there To music of a pipe unseen...”_ ***---&#65279;LotRI*** 
+> > _**Nearest Haven:**_ Grey Havens <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br> Undead - 2 strikes with 8 prowess; each character wounded must make a corruption check  
+> > 
+> > {: .fs-3 } 
+> > _“Tinuviel was dancing there To music of a pipe unseen...”_ ***---&#65279;LotRI*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>

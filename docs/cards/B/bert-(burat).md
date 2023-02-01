@@ -25,7 +25,10 @@ permalink: /cards/bert-(burat)/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Troll._ One strike. If played after _"William"_ or _"Tom"_ and if keyed to the same site path against the same company, each character wounded by _"Bert"_ must discard all non-special items he bears. <br>_"The trolls had just decided to roast the dwarves now and eat them later-that was Bert's idea."_ ***---&#65279;Hob***  
+> > _**Unique.**_ _Troll._ One strike. If played after _"William"_ or _"Tom"_ and if keyed to the same site path against the same company, each character wounded by _"Bert"_ must discard all non-special items he bears. 
+> > 
+> > {: .fs-3 } 
+> > _“The trolls had just decided to roast the dwarves now and eat them later-that was Bert's idea."_ ***---&#65279;Hob***  
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 12/&ndash; 】</div>
@@ -45,7 +48,10 @@ permalink: /cards/bert-(burat)/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Troll._ One strike. If played after _"William"_ or _"Tom"_ and if keyed to the same site path against the same company, each character wounded by _"Bert"_ must discard all non-special items he bears. <br>_"The trolls had just decided to roast the dwarves now and eat them later-that was Bert's idea."_ ***---&#65279;Hob***  
+> > _**Unique.**_ _Troll._ One strike. If played after _"William"_ or _"Tom"_ and if keyed to the same site path against the same company, each character wounded by _"Bert"_ must discard all non-special items he bears. 
+> > 
+> > {: .fs-3 } 
+> > _“The trolls had just decided to roast the dwarves now and eat them later-that was Bert's idea."_ ***---&#65279;Hob***  
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 12/&ndash; 】</div>
@@ -65,7 +71,10 @@ permalink: /cards/bert-(burat)/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Troll._ One strike. If played after _"William"_ or _"Tom"_ and if keyed to the same site path against the same company, each character wounded by _"Bert"_ must discard all non-special items he bears. <br>_"The trolls had just decided to roast the dwarves now and eat them later-that was Bert's idea."_ ***---&#65279;Hob***  
+> > _**Unique.**_ _Troll._ One strike. If played after _"William"_ or _"Tom"_ and if keyed to the same site path against the same company, each character wounded by _"Bert"_ must discard all non-special items he bears. 
+> > 
+> > {: .fs-3 } 
+> > _“The trolls had just decided to roast the dwarves now and eat them later-that was Bert's idea."_ ***---&#65279;Hob***  
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 12/&ndash; 】</div>
@@ -85,7 +94,10 @@ permalink: /cards/bert-(burat)/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Troll._ One strike. If played after _"William"_ or _"Tom"_ and if keyed to the same site path against the same company, each character wounded by _"Bert"_ must discard all non-special items he bears. <br>_"The trolls had just decided to roast the dwarves now and eat them later-that was Bert's idea."_ ***---&#65279;Hob***  
+> > _**Unique.**_ _Troll._ One strike. If played after _"William"_ or _"Tom"_ and if keyed to the same site path against the same company, each character wounded by _"Bert"_ must discard all non-special items he bears. 
+> > 
+> > {: .fs-3 } 
+> > _“The trolls had just decided to roast the dwarves now and eat them later-that was Bert's idea."_ ***---&#65279;Hob***  
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 12/&ndash; 】</div>

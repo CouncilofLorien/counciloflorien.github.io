@@ -22,5 +22,8 @@ permalink: /cards/when-you-know-more/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Light Enchantment._ Playable on a sage during the site phase at a site where "Information" is playable. Tap sage and the site. Tap sage to modify one influence attempt by a character in his company by +2. Sage makes a corruption check. <br>_“‘When you know more you will understand why you have angered my companions. We intend no evil...’”_ ***---&#65279;LotRIII*** 
+> > _Light Enchantment._ Playable on a sage during the site phase at a site where "Information" is playable. Tap sage and the site. Tap sage to modify one influence attempt by a character in his company by +2. Sage makes a corruption check. 
+> > 
+> > {: .fs-3 } 
+> > _“‘When you know more you will understand why you have angered my companions. We intend no evil...’”_ ***---&#65279;LotRIII*** 
 > 

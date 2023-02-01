@@ -25,7 +25,13 @@ permalink: /cards/ciryaher/
 > Scout/Sage Dunadan
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ Can use shadow-magic. <br>_"Thus the shadow deepened, and the thought of death darkened the heart s of the people."_ ***---&#65279;LotR***  <br><br>**Home Site:** Barad-dur 
+> > _**Unique.**_ Can use shadow-magic. 
+> > 
+> > {: .fs-3 } 
+> > _“Thus the shadow deepened, and the thought of death darkened the heart s of the people."_ ***---&#65279;LotR***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Barad-dur 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 2/7 】</div>
@@ -45,7 +51,13 @@ permalink: /cards/ciryaher/
 > Scout/Sage Dunadan
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ Can use shadow-magic. <br>_"Thus the shadow deepened, and the thought of death darkened the heart s of the people."_ ***---&#65279;LotR***  <br><br>**Home Site:** Barad-dur 
+> > _**Unique.**_ Can use shadow-magic. 
+> > 
+> > {: .fs-3 } 
+> > _“Thus the shadow deepened, and the thought of death darkened the heart s of the people."_ ***---&#65279;LotR***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Barad-dur 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 2/7 】</div>

@@ -22,7 +22,10 @@ permalink: /cards/the-balance-of-things/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ Each character has the corruption points doubled for one of his sources of corruption (the player controlling the character chooses).  <br>_“...they came out of the West and were messengers sent to contest the power of Sauron, ...but they were forbidden to match his power with power...”_ ***---&#65279;LotR*** 
+> > _**Unique.**_ Each character has the corruption points doubled for one of his sources of corruption (the player controlling the character chooses).  
+> > 
+> > {: .fs-3 } 
+> > _“...they came out of the West and were messengers sent to contest the power of Sauron, ...but they were forbidden to match his power with power...”_ ***---&#65279;LotR*** 
 >
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,5 +39,8 @@ permalink: /cards/the-balance-of-things/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ Each character has the corruption points doubled for one of his sources of corruption (the player controlling the character chooses).  <br>_“...they came out of the West and were messengers sent to contest the power of Sauron, ...but they were forbidden to match his power with power...”_ ***---&#65279;LotR*** 
+> > _**Unique.**_ Each character has the corruption points doubled for one of his sources of corruption (the player controlling the character chooses).  
+> > 
+> > {: .fs-3 } 
+> > _“...they came out of the West and were messengers sent to contest the power of Sauron, ...but they were forbidden to match his power with power...”_ ***---&#65279;LotR*** 
 >

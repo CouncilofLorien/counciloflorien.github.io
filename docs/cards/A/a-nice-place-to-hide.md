@@ -22,7 +22,10 @@ permalink: /cards/a-nice-place-to-hide/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Scout only._ Tap scout to cancel an attack against his company.   <br>_“‘And a nice place to choose, too. The River seems set on taking us right into their arms!’”_ ***---&#65279;LotRII*** 
+> > _Scout only._ Tap scout to cancel an attack against his company.   
+> > 
+> > {: .fs-3 } 
+> > _“‘And a nice place to choose, too. The River seems set on taking us right into their arms!’”_ ***---&#65279;LotRII*** 
 > 
 
 ### _Middle-earth Challenge Decks_
@@ -36,5 +39,8 @@ permalink: /cards/a-nice-place-to-hide/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Scout only._ Tap scout to cancel an attack against his company.   <br>_“‘And a nice place to choose, too. The River seems set on taking us right into their arms!’”_ ***---&#65279;LotRII*** 
+> > _Scout only._ Tap scout to cancel an attack against his company.   
+> > 
+> > {: .fs-3 } 
+> > _“‘And a nice place to choose, too. The River seems set on taking us right into their arms!’”_ ***---&#65279;LotRII*** 
 > 

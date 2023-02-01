@@ -25,7 +25,13 @@ permalink: /cards/aragorn-ii/
 > Warrior/Scout/Ranger Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Rangers of the North faction. <br>&ensp;-3 marshalling points if eliminated. <br>_"All that is gold does not glitter, Not all those who wander are lost...”_ ***---&#65279;LotRI***  <br><br>**Home Site:** Bree 
+> > _**Unique.**_ +2 direct influence against the Rangers of the North faction. <br>&ensp;-3 marshalling points if eliminated. 
+> > 
+> > {: .fs-3 } 
+> > _“All that is gold does not glitter, Not all those who wander are lost...”_ ***---&#65279;LotRI***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Bree 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 6/9 】</div>
@@ -45,7 +51,13 @@ permalink: /cards/aragorn-ii/
 > Warrior/Scout/Ranger Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Rangers of the North faction. <br>&ensp;-3 marshalling points if eliminated. <br>_"All that is gold does not glitter, Not all those who wander are lost...”_ ***---&#65279;LotRI***  <br><br>**Home Site:** Bree 
+> > _**Unique.**_ +2 direct influence against the Rangers of the North faction. <br>&ensp;-3 marshalling points if eliminated. 
+> > 
+> > {: .fs-3 } 
+> > _“All that is gold does not glitter, Not all those who wander are lost...”_ ***---&#65279;LotRI***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Bree 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 6/9 】</div>
@@ -65,7 +77,13 @@ permalink: /cards/aragorn-ii/
 > Warrior/Scout/Ranger Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Rangers of the North faction. <br>&ensp;-3 marshalling points if eliminated. <br>_"All that is gold does not glitter, Not all those who wander are lost...”_ ***---&#65279;LotRI***  <br><br>**Home Site:** Bree 
+> > _**Unique.**_ +2 direct influence against the Rangers of the North faction. <br>&ensp;-3 marshalling points if eliminated. 
+> > 
+> > {: .fs-3 } 
+> > _“All that is gold does not glitter, Not all those who wander are lost...”_ ***---&#65279;LotRI***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Bree 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 6/9 】</div>
@@ -85,7 +103,13 @@ permalink: /cards/aragorn-ii/
 > Warrior/Scout/Ranger Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Rangers of the North faction. <br>&ensp;-3 marshalling points if eliminated. <br>_"All that is gold does not glitter, Not all those who wander are lost...”_ ***---&#65279;LotRI***  <br><br>**Home Site:** Bree 
+> > _**Unique.**_ +2 direct influence against the Rangers of the North faction. <br>&ensp;-3 marshalling points if eliminated. 
+> > 
+> > {: .fs-3 } 
+> > _“All that is gold does not glitter, Not all those who wander are lost...”_ ***---&#65279;LotRI***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Bree 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 6/9 】</div>

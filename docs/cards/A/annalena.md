@@ -25,7 +25,13 @@ permalink: /cards/annalena/
 > Scout/Sage Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_  <br>_“...the Gift of the Elf-minstrels, who can make the things of which they sing appear before the eyes of those that listen."_ ***---&#65279;LotR***  <br><br>**Home Site:** Edhellond 
+> > _**Unique.**_  
+> > 
+> > {: .fs-3 } 
+> > _“...the Gift of the Elf-minstrels, who can make the things of which they sing appear before the eyes of those that listen."_ ***---&#65279;LotR***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Edhellond 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 3/8 】</div>
@@ -45,7 +51,13 @@ permalink: /cards/annalena/
 > Scout/Sage Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_  <br>_“...the Gift of the Elf-minstrels, who can make the things of which they sing appear before the eyes of those that listen."_ ***---&#65279;LotR***  <br><br>**Home Site:** Edhellond 
+> > _**Unique.**_  
+> > 
+> > {: .fs-3 } 
+> > _“...the Gift of the Elf-minstrels, who can make the things of which they sing appear before the eyes of those that listen."_ ***---&#65279;LotR***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Edhellond 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 3/8 】</div>
@@ -65,7 +77,13 @@ permalink: /cards/annalena/
 > Scout/Sage Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_  <br>_“...the Gift of the Elf-minstrels, who can make the things of which they sing appear before the eyes of those that listen."_ ***---&#65279;LotR***  <br><br>**Home Site:** Edhellond 
+> > _**Unique.**_  
+> > 
+> > {: .fs-3 } 
+> > _“...the Gift of the Elf-minstrels, who can make the things of which they sing appear before the eyes of those that listen."_ ***---&#65279;LotR***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Edhellond 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 3/8 】</div>
@@ -85,7 +103,13 @@ permalink: /cards/annalena/
 > Scout/Sage Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_  <br>_“...the Gift of the Elf-minstrels, who can make the things of which they sing appear before the eyes of those that listen."_ ***---&#65279;LotR***  <br><br>**Home Site:** Edhellond 
+> > _**Unique.**_  
+> > 
+> > {: .fs-3 } 
+> > _“...the Gift of the Elf-minstrels, who can make the things of which they sing appear before the eyes of those that listen."_ ***---&#65279;LotR***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Edhellond 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 3/8 】</div>

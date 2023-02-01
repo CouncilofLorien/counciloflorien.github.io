@@ -25,7 +25,10 @@ permalink: /cards/old-treasure/
 > Minor Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Hoard item._ +1 direct influence. Discard this item to give +4 direct influence to bearer until the end of turn. <br>_“‘...somewhere where there's good loot nice and handy...’”_ ***---&#65279;LotRIV*** 
+> > _Hoard item._ +1 direct influence. Discard this item to give +4 direct influence to bearer until the end of turn. 
+> > 
+> > {: .fs-3 } 
+> > _“‘...somewhere where there's good loot nice and handy...’”_ ***---&#65279;LotRIV*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

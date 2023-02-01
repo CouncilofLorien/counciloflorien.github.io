@@ -22,5 +22,8 @@ permalink: /cards/news-of-doom/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ Each player makes a roll (draws a #) for each faction he has in play. Discard any faction if the result is 2 or 3, or it its result plus the player's unused general influence is less than 10. Remove News of Doom from the game. <br>_“...they hid themselves in fear and would not come forth until the day was up...”_ ***---&#65279;LotRV*** 
+> > _**Unique.**_ Each player makes a roll (draws a #) for each faction he has in play. Discard any faction if the result is 2 or 3, or it its result plus the player's unused general influence is less than 10. Remove News of Doom from the game. 
+> > 
+> > {: .fs-3 } 
+> > _“...they hid themselves in fear and would not come forth until the day was up...”_ ***---&#65279;LotRV*** 
 >

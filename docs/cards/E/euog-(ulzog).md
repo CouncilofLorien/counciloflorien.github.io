@@ -25,7 +25,13 @@ permalink: /cards/euog-(ulzog)/
 > Warrior/Diplomat Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ _Half-orc._ _Leader._ Discard on a body check result of 9. +2 direct influence against Orcs and Orc factions. <br>_“‘If you pick up with a horse-thief...you ought to pay for all the damage yourselves and not come shouting at me.’”_ ***---&#65279;LotRI***  <br><br>**Home Site:** Any Dark-hold 
+> > _**Unique.**_ _Half-orc._ _Leader._ Discard on a body check result of 9. +2 direct influence against Orcs and Orc factions. 
+> > 
+> > {: .fs-3 } 
+> > _“‘If you pick up with a horse-thief...you ought to pay for all the damage yourselves and not come shouting at me.’”_ ***---&#65279;LotRI***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Any Dark-hold 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 5/9 】</div>

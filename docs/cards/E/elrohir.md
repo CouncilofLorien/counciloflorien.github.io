@@ -25,7 +25,13 @@ permalink: /cards/elrohir/
 > Warrior/Ranger Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +1 prowess against Orcs. <br>_"Then said Elrohir: 'From the North we came with this purpose, and from Elrond our father we brought this counsel. We will not turn back.’”_ ***---&#65279;LotRV***  <br><br>**Home Site:** Rivendell 
+> > _**Unique.**_ +1 prowess against Orcs. 
+> > 
+> > {: .fs-3 } 
+> > _“Then said Elrohir: 'From the North we came with this purpose, and from Elrond our father we brought this counsel. We will not turn back.’”_ ***---&#65279;LotRV***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Rivendell 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 5/8 】</div>
@@ -45,7 +51,13 @@ permalink: /cards/elrohir/
 > Warrior/Ranger Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +1 prowess against Orcs. <br>_"Then said Elrohir: 'From the North we came with this purpose, and from Elrond our father we brought this counsel. We will not turn back.’”_ ***---&#65279;LotRV***  <br><br>**Home Site:** Rivendell 
+> > _**Unique.**_ +1 prowess against Orcs. 
+> > 
+> > {: .fs-3 } 
+> > _“Then said Elrohir: 'From the North we came with this purpose, and from Elrond our father we brought this counsel. We will not turn back.’”_ ***---&#65279;LotRV***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Rivendell 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 5/8 】</div>
@@ -65,7 +77,13 @@ permalink: /cards/elrohir/
 > Warrior/Ranger Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +1 prowess against Orcs. <br>_"Then said Elrohir: 'From the North we came with this purpose, and from Elrond our father we brought this counsel. We will not turn back.’”_ ***---&#65279;LotRV***  <br><br>**Home Site:** Rivendell 
+> > _**Unique.**_ +1 prowess against Orcs. 
+> > 
+> > {: .fs-3 } 
+> > _“Then said Elrohir: 'From the North we came with this purpose, and from Elrond our father we brought this counsel. We will not turn back.’”_ ***---&#65279;LotRV***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Rivendell 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 5/8 】</div>
@@ -85,7 +103,13 @@ permalink: /cards/elrohir/
 > Warrior/Ranger Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +1 prowess against Orcs. <br>_"Then said Elrohir: 'From the North we came with this purpose, and from Elrond our father we brought this counsel. We will not turn back.’”_ ***---&#65279;LotRV***  <br><br>**Home Site:** Rivendell 
+> > _**Unique.**_ +1 prowess against Orcs. 
+> > 
+> > {: .fs-3 } 
+> > _“Then said Elrohir: 'From the North we came with this purpose, and from Elrond our father we brought this counsel. We will not turn back.’”_ ***---&#65279;LotRV***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Rivendell 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 5/8 】</div>

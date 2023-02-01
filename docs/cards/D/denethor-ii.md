@@ -25,7 +25,13 @@ permalink: /cards/denethor-ii/
 > Warrior/Sage Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Tower Guard of Minas Tirith faction. <br>_"Pippin saw his carven face with its proud bones and skin like ivory, and the long curved nose between his dark deep eyes... A pale smile, like a gleam of cold sun on a winter's evening, passed over the old man's face...”_ ***---&#65279;LotRIV***  <br><br>**Home Site:** Minas Tirith 
+> > _**Unique.**_ +2 direct influence against the Tower Guard of Minas Tirith faction. 
+> > 
+> > {: .fs-3 } 
+> > _“Pippin saw his carven face with its proud bones and skin like ivory, and the long curved nose between his dark deep eyes... A pale smile, like a gleam of cold sun on a winter's evening, passed over the old man's face...”_ ***---&#65279;LotRIV***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Minas Tirith 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 3/6 】</div>
@@ -45,7 +51,13 @@ permalink: /cards/denethor-ii/
 > Warrior/Sage Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Tower Guard of Minas Tirith faction. <br>_"Pippin saw his carven face with its proud bones and skin like ivory, and the long curved nose between his dark deep eyes... A pale smile, like a gleam of cold sun on a winter's evening, passed over the old man's face...”_ ***---&#65279;LotRIV***  <br><br>**Home Site:** Minas Tirith 
+> > _**Unique.**_ +2 direct influence against the Tower Guard of Minas Tirith faction. 
+> > 
+> > {: .fs-3 } 
+> > _“Pippin saw his carven face with its proud bones and skin like ivory, and the long curved nose between his dark deep eyes... A pale smile, like a gleam of cold sun on a winter's evening, passed over the old man's face...”_ ***---&#65279;LotRIV***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Minas Tirith 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 3/6 】</div>

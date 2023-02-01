@@ -25,7 +25,13 @@ permalink: /cards/kili/
 > Warrior/Scout Dwarf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions. <br>_“...they sent Fili and Kili to look for a better shelter. They had very sharp eyes, and being the youngest of the Dwarves by some fifty years they usually got these sorts of jobs...”_ ***---&#65279;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
+> > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions. 
+> > 
+> > {: .fs-3 } 
+> > _“...they sent Fili and Kili to look for a better shelter. They had very sharp eyes, and being the youngest of the Dwarves by some fifty years they usually got these sorts of jobs...”_ ***---&#65279;Hob***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 3/8 】</div>
@@ -45,7 +51,13 @@ permalink: /cards/kili/
 > Warrior/Scout Dwarf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions. <br>_“...they sent Fili and Kili to look for a better shelter. They had very sharp eyes, and being the youngest of the Dwarves by some fifty years they usually got these sorts of jobs...”_ ***---&#65279;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
+> > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions. 
+> > 
+> > {: .fs-3 } 
+> > _“...they sent Fili and Kili to look for a better shelter. They had very sharp eyes, and being the youngest of the Dwarves by some fifty years they usually got these sorts of jobs...”_ ***---&#65279;Hob***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 3/8 】</div>
@@ -65,7 +77,13 @@ permalink: /cards/kili/
 > Warrior/Scout Dwarf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions. <br>_“...they sent Fili and Kili to look for a better shelter. They had very sharp eyes, and being the youngest of the Dwarves by some fifty years they usually got these sorts of jobs...”_ ***---&#65279;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
+> > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions. 
+> > 
+> > {: .fs-3 } 
+> > _“...they sent Fili and Kili to look for a better shelter. They had very sharp eyes, and being the youngest of the Dwarves by some fifty years they usually got these sorts of jobs...”_ ***---&#65279;Hob***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 3/8 】</div>
@@ -85,7 +103,13 @@ permalink: /cards/kili/
 > Warrior/Scout Dwarf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions. <br>_“...they sent Fili and Kili to look for a better shelter. They had very sharp eyes, and being the youngest of the Dwarves by some fifty years they usually got these sorts of jobs...”_ ***---&#65279;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
+> > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions. 
+> > 
+> > {: .fs-3 } 
+> > _“...they sent Fili and Kili to look for a better shelter. They had very sharp eyes, and being the youngest of the Dwarves by some fifty years they usually got these sorts of jobs...”_ ***---&#65279;Hob***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 3/8 】</div>

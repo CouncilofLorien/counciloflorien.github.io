@@ -22,5 +22,8 @@ permalink: /cards/sudden-fury/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a site. Until the end of turn, any attack by a scout agent at this site has its number of strikes increased by one and attacker chooses defending characters. <br>_"Gollum and Frodo were locked together. Gollum was tearing at his master, trying to get at the chain and the ring. ... He fought back with a sudden fury that amazed Sam and Gollum also."_ ***---&#65279;LotRVI***  
+> > Playable on a site. Until the end of turn, any attack by a scout agent at this site has its number of strikes increased by one and attacker chooses defending characters. 
+> > 
+> > {: .fs-3 } 
+> > _“Gollum and Frodo were locked together. Gollum was tearing at his master, trying to get at the chain and the ring. ... He fought back with a sudden fury that amazed Sam and Gollum also."_ ***---&#65279;LotRVI***  
 >

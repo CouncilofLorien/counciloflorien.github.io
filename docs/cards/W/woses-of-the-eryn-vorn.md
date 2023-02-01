@@ -22,7 +22,10 @@ permalink: /cards/woses-of-the-eryn-vorn/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at The Worthy Hills if the influence check is greater than 11. <br>_"Living in half-submerged, earth-covered homes called fogus, the Woses of the Black Wood shun contact with others of the Secondborn."- Kuduk Lore  
+> > _**Unique.**_ Playable at The Worthy Hills if the influence check is greater than 11. 
+> > 
+> > {: .fs-3 } 
+> > _“Living in half-submerged, earth-covered homes called fogus, the Woses of the Black Wood shun contact with others of the Secondborn."- Kuduk Lore  
 > 
 
 ### _Middle-earth: Against the Shadow_
@@ -36,7 +39,10 @@ permalink: /cards/woses-of-the-eryn-vorn/
 > Wose Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Manifestation of minion Woses of the Eryn Vorn. Playable at The Worthy Hills if the influence check is greater than 10. <br>_Standard Modifications:_ none. <br>_“‘...wild men, with little hair and painted skin, who breathe life into stone.’”_ ***---&#65279;Kuduk Lore*** 
+> > _**Unique.**_ Manifestation of minion Woses of the Eryn Vorn. Playable at The Worthy Hills if the influence check is greater than 10. <br>_Standard Modifications:_ none. 
+> > 
+> > {: .fs-3 } 
+> > _“‘...wild men, with little hair and painted skin, who breathe life into stone.’”_ ***---&#65279;Kuduk Lore*** 
 > 
 
 ### _Middle-earth Challenge Decks_
@@ -50,5 +56,8 @@ permalink: /cards/woses-of-the-eryn-vorn/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at The Worthy Hills if the influence check is greater than 11. <br>_"Living in half-submerged, earth-covered homes called fogus, the Woses of the Black Wood shun contact with others of the Secondborn."- Kuduk Lore  
+> > _**Unique.**_ Playable at The Worthy Hills if the influence check is greater than 11. 
+> > 
+> > {: .fs-3 } 
+> > _“Living in half-submerged, earth-covered homes called fogus, the Woses of the Black Wood shun contact with others of the Secondborn."- Kuduk Lore  
 > 

@@ -25,7 +25,10 @@ permalink: /cards/noble-steed/
 > Ally
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable at any tapped or untapped non-Haven site in Rohan, Southern Rhovanion, Khand, Dorwinion, Horse Plains, or Harondor. If each character in a company controls a Noble Steed (or Bill the Pony or Shadowfax), the company may move up to two additional regions. Tap to cancel a strike (not from an automatic-attack) against its bearer or itself. <br>_“‘Then he must be a noble beast indeed...’”_ ***---&#65279;LotRII*** 
+> > Playable at any tapped or untapped non-Haven site in Rohan, Southern Rhovanion, Khand, Dorwinion, Horse Plains, or Harondor. If each character in a company controls a Noble Steed (or Bill the Pony or Shadowfax), the company may move up to two additional regions. Tap to cancel a strike (not from an automatic-attack) against its bearer or itself. 
+> > 
+> > {: .fs-3 } 
+> > _“‘Then he must be a noble beast indeed...’”_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 0/8 】</div>
@@ -45,7 +48,10 @@ permalink: /cards/noble-steed/
 > Ally
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable at any tapped or untapped non-Haven site in Rohan, Southern Rhovanion, Khand, Dorwinion, Horse Plains, or Harondor. If each character in a company controls a Noble Steed (or Bill the Pony or Shadowfax), the company may move up to two additional regions. Tap to cancel a strike (not from an automatic-attack) against its bearer or itself. <br>_“‘Then he must be a noble beast indeed...’”_ ***---&#65279;LotRII*** 
+> > Playable at any tapped or untapped non-Haven site in Rohan, Southern Rhovanion, Khand, Dorwinion, Horse Plains, or Harondor. If each character in a company controls a Noble Steed (or Bill the Pony or Shadowfax), the company may move up to two additional regions. Tap to cancel a strike (not from an automatic-attack) against its bearer or itself. 
+> > 
+> > {: .fs-3 } 
+> > _“‘Then he must be a noble beast indeed...’”_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 0/8 】</div>

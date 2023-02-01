@@ -22,7 +22,10 @@ permalink: /cards/corsairs-of-rhun/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Raider-hold if the influence check is greater than 9. <br>_Standard Modifications:_ Easterlings (+2), Men of Dorwinion (-2). <br>_“...some would join forces with the Easterlings, either out of greed for spoil, or in furtherance of feuds among their princes."_ ***---&#65279;LotR*** 
+> > _**Unique.**_ Playable at Raider-hold if the influence check is greater than 9. <br>_Standard Modifications:_ Easterlings (+2), Men of Dorwinion (-2). 
+> > 
+> > {: .fs-3 } 
+> > _“...some would join forces with the Easterlings, either out of greed for spoil, or in furtherance of feuds among their princes."_ ***---&#65279;LotR*** 
 > 
 
 ### _Middle-earth Challenge Decks_
@@ -36,5 +39,8 @@ permalink: /cards/corsairs-of-rhun/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Raider-hold if the influence check is greater than 9. <br>_Standard Modifications:_ Easterlings (+2), Men of Dorwinion (-2). <br>_“...some would join forces with the Easterlings, either out of greed for spoil, or in furtherance of feuds among their princes."_ ***---&#65279;LotR*** 
+> > _**Unique.**_ Playable at Raider-hold if the influence check is greater than 9. <br>_Standard Modifications:_ Easterlings (+2), Men of Dorwinion (-2). 
+> > 
+> > {: .fs-3 } 
+> > _“...some would join forces with the Easterlings, either out of greed for spoil, or in furtherance of feuds among their princes."_ ***---&#65279;LotR*** 
 > 

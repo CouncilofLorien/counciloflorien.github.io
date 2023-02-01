@@ -25,7 +25,13 @@ permalink: /cards/anborn/
 > Scout/Ranger Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Men of Lebennin faction. <br>_“‘Now I have him at the arrow-point,' said Anborn. 'Shall I not shoot, Captain? For coming unbidden to this place death is our law.’”_ ***---&#65279;LotRIV***  <br><br>**Home Site:** Pelargir 
+> > _**Unique.**_ +2 direct influence against the Men of Lebennin faction. 
+> > 
+> > {: .fs-3 } 
+> > _“‘Now I have him at the arrow-point,' said Anborn. 'Shall I not shoot, Captain? For coming unbidden to this place death is our law.’”_ ***---&#65279;LotRIV***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Pelargir 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 2/8 】</div>
@@ -45,7 +51,13 @@ permalink: /cards/anborn/
 > Scout/Ranger Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Men of Lebennin faction. <br>_“‘Now I have him at the arrow-point,' said Anborn. 'Shall I not shoot, Captain? For coming unbidden to this place death is our law.’”_ ***---&#65279;LotRIV***  <br><br>**Home Site:** Pelargir 
+> > _**Unique.**_ +2 direct influence against the Men of Lebennin faction. 
+> > 
+> > {: .fs-3 } 
+> > _“‘Now I have him at the arrow-point,' said Anborn. 'Shall I not shoot, Captain? For coming unbidden to this place death is our law.’”_ ***---&#65279;LotRIV***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Pelargir 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 2/8 】</div>
@@ -65,7 +77,13 @@ permalink: /cards/anborn/
 > Scout/Ranger Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Men of Lebennin faction. <br>_“‘Now I have him at the arrow-point,' said Anborn. 'Shall I not shoot, Captain? For coming unbidden to this place death is our law.’”_ ***---&#65279;LotRIV***  <br><br>**Home Site:** Pelargir 
+> > _**Unique.**_ +2 direct influence against the Men of Lebennin faction. 
+> > 
+> > {: .fs-3 } 
+> > _“‘Now I have him at the arrow-point,' said Anborn. 'Shall I not shoot, Captain? For coming unbidden to this place death is our law.’”_ ***---&#65279;LotRIV***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Pelargir 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 2/8 】</div>

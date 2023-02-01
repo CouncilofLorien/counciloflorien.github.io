@@ -25,7 +25,13 @@ permalink: /cards/gulla/
 > Warrior/Ranger Dwarf
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ +1 prowess against Orcs and Elves. <br>_“...a great anger without hope burned him as he smote the red iron on the anvil."_ ***---&#65279;LotR***  <br><br>**Home Site:** Carn Dum 
+> > _**Unique.**_ +1 prowess against Orcs and Elves. 
+> > 
+> > {: .fs-3 } 
+> > _“...a great anger without hope burned him as he smote the red iron on the anvil."_ ***---&#65279;LotR***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Carn Dum 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 5/8 】</div>

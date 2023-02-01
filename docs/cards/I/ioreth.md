@@ -25,7 +25,13 @@ permalink: /cards/ioreth/
 > Sage Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ Healing effects affect all characters in her company. <br>_“...an old wife, Ioreth, the eldest of the women who served in that house...”_ ***---&#65279;LotRV***  <br><br>**Home Site:** Minas Tirith 
+> > _**Unique.**_ Healing effects affect all characters in her company. 
+> > 
+> > {: .fs-3 } 
+> > _“...an old wife, Ioreth, the eldest of the women who served in that house...”_ ***---&#65279;LotRV***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Minas Tirith 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 0/7 】</div>
@@ -45,7 +51,13 @@ permalink: /cards/ioreth/
 > Sage Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ Healing effects affect all characters in her company. <br>_“...an old wife, Ioreth, the eldest of the women who served in that house...”_ ***---&#65279;LotRV***  <br><br>**Home Site:** Minas Tirith 
+> > _**Unique.**_ Healing effects affect all characters in her company. 
+> > 
+> > {: .fs-3 } 
+> > _“...an old wife, Ioreth, the eldest of the women who served in that house...”_ ***---&#65279;LotRV***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Minas Tirith 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 0/7 】</div>

@@ -22,5 +22,8 @@ permalink: /cards/heart-grown-cold/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Fallen-wizard players must use minion site cards for hero Havens \[![](/assets/images/free-haven.svg)]. If a Fallen-wizard has more than 4 stage points, his player must also use minion site cards for Free-holds \[![](/assets/images/free-hold.svg)]. If a Fallen-wizard has more than 7 stage points, his player must also use minion site cards for Border-holds \[![](/assets/images/border-hold.svg)].   <br>_“‘You should have been a king's jester and earned your bread, and stripes too, by mimicking his counselors.’”_ ***---&#65279;LotRIII*** 
+> > Fallen-wizard players must use minion site cards for hero Havens \[![](/assets/images/free-haven.svg)]. If a Fallen-wizard has more than 4 stage points, his player must also use minion site cards for Free-holds \[![](/assets/images/free-hold.svg)]. If a Fallen-wizard has more than 7 stage points, his player must also use minion site cards for Border-holds \[![](/assets/images/border-hold.svg)].   
+> > 
+> > {: .fs-3 } 
+> > _“‘You should have been a king's jester and earned your bread, and stripes too, by mimicking his counselors.’”_ ***---&#65279;LotRIII*** 
 >

@@ -22,7 +22,10 @@ permalink: /cards/blue-mountain-dwarves/
 > Dwarf Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ _**Playable at Blue Mountain Dwarf-hold**_ <br>&ensp;if the influence check is greater than 9. <br>_Standard Modifications:_ Elves (-2), Dwarves (+2). <br>_"Now they had fair halls in the mountains, and stores of goods, and their days did not seem so hard...”_ ***---&#65279;LotR*** 
+> > _**Unique.**_ _**Playable at Blue Mountain Dwarf-hold**_ <br>&ensp;if the influence check is greater than 9. <br>_Standard Modifications:_ Elves (-2), Dwarves (+2). 
+> > 
+> > {: .fs-3 } 
+> > _“Now they had fair halls in the mountains, and stores of goods, and their days did not seem so hard...”_ ***---&#65279;LotR*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,7 +39,10 @@ permalink: /cards/blue-mountain-dwarves/
 > Dwarf Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ _**Playable at Blue Mountain Dwarf-hold**_ <br>&ensp;if the influence check is greater than 9. <br>_Standard Modifications:_ Elves (-2), Dwarves (+2). <br>_"Now they had fair halls in the mountains, and stores of goods, and their days did not seem so hard...”_ ***---&#65279;LotR*** 
+> > _**Unique.**_ _**Playable at Blue Mountain Dwarf-hold**_ <br>&ensp;if the influence check is greater than 9. <br>_Standard Modifications:_ Elves (-2), Dwarves (+2). 
+> > 
+> > {: .fs-3 } 
+> > _“Now they had fair halls in the mountains, and stores of goods, and their days did not seem so hard...”_ ***---&#65279;LotR*** 
 > 
 
 ### _Middle-earth Challenge Decks_
@@ -50,5 +56,8 @@ permalink: /cards/blue-mountain-dwarves/
 > Dwarf Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ _**Playable at Blue Mountain Dwarf-hold**_ <br>&ensp;if the influence check is greater than 9. <br>_Standard Modifications:_ Elves (-2), Dwarves (+2). <br>_"Now they had fair halls in the mountains, and stores of goods, and their days did not seem so hard...”_ ***---&#65279;LotR*** 
+> > _**Unique.**_ _**Playable at Blue Mountain Dwarf-hold**_ <br>&ensp;if the influence check is greater than 9. <br>_Standard Modifications:_ Elves (-2), Dwarves (+2). 
+> > 
+> > {: .fs-3 } 
+> > _“Now they had fair halls in the mountains, and stores of goods, and their days did not seem so hard...”_ ***---&#65279;LotR*** 
 > 

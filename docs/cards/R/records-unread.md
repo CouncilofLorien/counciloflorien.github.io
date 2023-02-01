@@ -22,7 +22,10 @@ permalink: /cards/records-unread/
 > Minor Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Cannot be included with a starting company. Discard: to untap a Shadow-hold \[![](/assets/images/shadow-hold.svg)] or to make Information playable at any Shadow-hold \[![](/assets/images/shadow-hold.svg)]. Cannot be duplicated in a given party. <br>_“‘And yet there lie in his hoards many records that few now can read...for their scripts and tongues have become dark to later men.’”_ ***---&#65279;LotRII*** 
+> > Cannot be included with a starting company. Discard: to untap a Shadow-hold \[![](/assets/images/shadow-hold.svg)] or to make Information playable at any Shadow-hold \[![](/assets/images/shadow-hold.svg)]. Cannot be duplicated in a given party. 
+> > 
+> > {: .fs-3 } 
+> > _“‘And yet there lie in his hoards many records that few now can read...for their scripts and tongues have become dark to later men.’”_ ***---&#65279;LotRII*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -39,7 +42,10 @@ permalink: /cards/records-unread/
 > Minor Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Cannot be included with a starting company. Discard: to untap a Shadow-hold \[![](/assets/images/shadow-hold.svg)] or to make Information playable at any Shadow-hold \[![](/assets/images/shadow-hold.svg)]. Cannot be duplicated in a given party. <br>_“‘And yet there lie in his hoards many records that few now can read...for their scripts and tongues have become dark to later men.’”_ ***---&#65279;LotRII*** 
+> > Cannot be included with a starting company. Discard: to untap a Shadow-hold \[![](/assets/images/shadow-hold.svg)] or to make Information playable at any Shadow-hold \[![](/assets/images/shadow-hold.svg)]. Cannot be duplicated in a given party. 
+> > 
+> > {: .fs-3 } 
+> > _“‘And yet there lie in his hoards many records that few now can read...for their scripts and tongues have become dark to later men.’”_ ***---&#65279;LotRII*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

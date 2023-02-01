@@ -22,7 +22,10 @@ permalink: /cards/twilight/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ One environment card in play is immediately discarded. This card may also be played as a resource. <br>_"Upon the very Eve of Midsummer, when the sky was blue as sapphire and the white stars opened in the East, but the West was still golden, and the air was cool and fragrant, the riders came...to the Gates of Minas Tirith."_ ***---&#65279;LotRVI*** 
+> > _Environment._ One environment card in play is immediately discarded. This card may also be played as a resource. 
+> > 
+> > {: .fs-3 } 
+> > _“Upon the very Eve of Midsummer, when the sky was blue as sapphire and the white stars opened in the East, but the West was still golden, and the air was cool and fragrant, the riders came...to the Gates of Minas Tirith."_ ***---&#65279;LotRVI*** 
 >
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,7 +39,10 @@ permalink: /cards/twilight/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ One environment card in play is immediately discarded. This card may also be played as a resource. This card may be played at any time during any player's turn. <br>_"Upon the very Eve of Midsummer, when the sky was blue as sapphire and the white stars opened in the East, but the West was still golden, and the air was cool and fragrant, the riders came...to the Gates of Minas Tirith."_ ***---&#65279;LotRVI*** 
+> > _Environment._ One environment card in play is immediately discarded. This card may also be played as a resource. This card may be played at any time during any player's turn. 
+> > 
+> > {: .fs-3 } 
+> > _“Upon the very Eve of Midsummer, when the sky was blue as sapphire and the white stars opened in the East, but the West was still golden, and the air was cool and fragrant, the riders came...to the Gates of Minas Tirith."_ ***---&#65279;LotRVI*** 
 >
 
 ### _Middle-earth: The Lidless Eye_
@@ -50,7 +56,10 @@ permalink: /cards/twilight/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ One environment card (in play or declared earlier in the same chain of effects) is cancelled and discarded. _Twilight_ may also be played as a resource, and may be played at any point during any player's turn. <br>_"The sun dipped and vanished, and as if at the shuttering of a lamp, black night fell."_ ***---&#65279;LotRII*** 
+> > _Environment._ One environment card (in play or declared earlier in the same chain of effects) is cancelled and discarded. _Twilight_ may also be played as a resource, and may be played at any point during any player's turn. 
+> > 
+> > {: .fs-3 } 
+> > _“The sun dipped and vanished, and as if at the shuttering of a lamp, black night fell."_ ***---&#65279;LotRII*** 
 >
 
 ### _Middle-earth Challenge Decks_
@@ -64,7 +73,10 @@ permalink: /cards/twilight/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ One environment card (in play or declared earlier in the same chain of effects) is cancelled and discarded. _Twilight_ may also be played as a resource, and may be played at any point during any player's turn. <br>_"The sun dipped and vanished, and as if at the shuttering of a lamp, black night fell."_ ***---&#65279;LotRII*** 
+> > _Environment._ One environment card (in play or declared earlier in the same chain of effects) is cancelled and discarded. _Twilight_ may also be played as a resource, and may be played at any point during any player's turn. 
+> > 
+> > {: .fs-3 } 
+> > _“The sun dipped and vanished, and as if at the shuttering of a lamp, black night fell."_ ***---&#65279;LotRII*** 
 >
 
 ### _Middle-earth: The Balrog Reprint_
@@ -78,5 +90,8 @@ permalink: /cards/twilight/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ One environment card (in play or declared earlier in the same chain of effects) is cancelled and discarded. _Twilight_ may also be played as a resource, and may be played at any point during any player's turn. <br>_"The sun dipped and vanished, and as if at the shuttering of a lamp, black night fell."_ ***---&#65279;LotRII*** 
+> > _Environment._ One environment card (in play or declared earlier in the same chain of effects) is cancelled and discarded. _Twilight_ may also be played as a resource, and may be played at any point during any player's turn. 
+> > 
+> > {: .fs-3 } 
+> > _“The sun dipped and vanished, and as if at the shuttering of a lamp, black night fell."_ ***---&#65279;LotRII*** 
 >

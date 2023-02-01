@@ -22,5 +22,8 @@ permalink: /cards/grond/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable on a unique Orc or Troll faction. -3 prowess to automatic-attacks at Free-holds \[![](/assets/images/free-hold.svg)] and Border-holds \[![](/assets/images/border-hold.svg)] in the region containing the site where the faction is playable, and in all adjacent regions. Only one Grond can so affect a given site. <br>_"With a vast rush Grond was hurled forward by huge hands."_ ***---&#65279;LotRV*** 
+> > Playable on a unique Orc or Troll faction. -3 prowess to automatic-attacks at Free-holds \[![](/assets/images/free-hold.svg)] and Border-holds \[![](/assets/images/border-hold.svg)] in the region containing the site where the faction is playable, and in all adjacent regions. Only one Grond can so affect a given site. 
+> > 
+> > {: .fs-3 } 
+> > _“With a vast rush Grond was hurled forward by huge hands."_ ***---&#65279;LotRV*** 
 > 

@@ -22,7 +22,10 @@ permalink: /cards/the-dwarves-are-upon-you!/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable on a company containing Dwarves facing an attack. All Dwarves in the company receive +2 prowess and -1 body against the attack. Cannot be duplicated against a given attack. <br>_"Out leapt the King under the Mountain, and his companions followed him...they were in shining armour, and red light leapt from their eyes."_ ***---&#65279;Hob*** 
+> > Playable on a company containing Dwarves facing an attack. All Dwarves in the company receive +2 prowess and -1 body against the attack. Cannot be duplicated against a given attack. 
+> > 
+> > {: .fs-3 } 
+> > _“Out leapt the King under the Mountain, and his companions followed him...they were in shining armour, and red light leapt from their eyes."_ ***---&#65279;Hob*** 
 > 
 
 ### _Middle-earth Challenge Decks_
@@ -36,5 +39,8 @@ permalink: /cards/the-dwarves-are-upon-you!/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable on a company containing Dwarves facing an attack. All Dwarves in the company receive +2 prowess and -1 body against the attack. Cannot be duplicated against a given attack. <br>_"Out leapt the King under the Mountain, and his companions followed him...they were in shining armour, and red light leapt from their eyes."_ ***---&#65279;Hob*** 
+> > Playable on a company containing Dwarves facing an attack. All Dwarves in the company receive +2 prowess and -1 body against the attack. Cannot be duplicated against a given attack. 
+> > 
+> > {: .fs-3 } 
+> > _“Out leapt the King under the Mountain, and his companions followed him...they were in shining armour, and red light leapt from their eyes."_ ***---&#65279;Hob*** 
 > 

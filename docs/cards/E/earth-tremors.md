@@ -22,5 +22,8 @@ permalink: /cards/earth-tremors/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Any company moving to or from an Under-deeps site faces an attack (cannot be canceled): Rock Fall-1 strike with 7 prowess against each character (weapons do not modify prowess against these strikes). In addition, cancels the effects of Into Dark Tunnels, Old Road, Great Road, and Bridge. Cannot be duplicated. <br>_“...the earth shook, the plain heaved and cracked."_ ***---&#65279;LotRVI*** 
+> > Any company moving to or from an Under-deeps site faces an attack (cannot be canceled): Rock Fall-1 strike with 7 prowess against each character (weapons do not modify prowess against these strikes). In addition, cancels the effects of Into Dark Tunnels, Old Road, Great Road, and Bridge. Cannot be duplicated. 
+> > 
+> > {: .fs-3 } 
+> > _“...the earth shook, the plain heaved and cracked."_ ***---&#65279;LotRVI*** 
 >

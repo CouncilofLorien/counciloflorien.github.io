@@ -25,7 +25,13 @@ permalink: /cards/halbarad/
 > Sage/Diplomat Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Hillmen faction. <br>_“‘Halbarad Dunadan, Ranger of the North I am,' cried the man. 'We seek one Aragorn son of Arathorn, and we heard that he was in Rohan.’”_ ***---&#65279;LotRV***  <br><br>**Home Site:** Cameth Brin 
+> > _**Unique.**_ +2 direct influence against the Hillmen faction. 
+> > 
+> > {: .fs-3 } 
+> > _“‘Halbarad Dunadan, Ranger of the North I am,' cried the man. 'We seek one Aragorn son of Arathorn, and we heard that he was in Rohan.’”_ ***---&#65279;LotRV***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Cameth Brin 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 0/5 】</div>
@@ -45,7 +51,13 @@ permalink: /cards/halbarad/
 > Sage/Diplomat Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Hillmen faction. <br>_“‘Halbarad Dunadan, Ranger of the North I am,' cried the man. 'We seek one Aragorn son of Arathorn, and we heard that he was in Rohan.’”_ ***---&#65279;LotRV***  <br><br>**Home Site:** Cameth Brin 
+> > _**Unique.**_ +2 direct influence against the Hillmen faction. 
+> > 
+> > {: .fs-3 } 
+> > _“‘Halbarad Dunadan, Ranger of the North I am,' cried the man. 'We seek one Aragorn son of Arathorn, and we heard that he was in Rohan.’”_ ***---&#65279;LotRV***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Cameth Brin 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 0/5 】</div>
@@ -65,7 +77,13 @@ permalink: /cards/halbarad/
 > Sage/Diplomat Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Hillmen faction. <br>_“‘Halbarad Dunadan, Ranger of the North I am,' cried the man. 'We seek one Aragorn son of Arathorn, and we heard that he was in Rohan.’”_ ***---&#65279;LotRV***  <br><br>**Home Site:** Cameth Brin 
+> > _**Unique.**_ +2 direct influence against the Hillmen faction. 
+> > 
+> > {: .fs-3 } 
+> > _“‘Halbarad Dunadan, Ranger of the North I am,' cried the man. 'We seek one Aragorn son of Arathorn, and we heard that he was in Rohan.’”_ ***---&#65279;LotRV***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Cameth Brin 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 0/5 】</div>

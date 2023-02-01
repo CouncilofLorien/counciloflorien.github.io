@@ -25,7 +25,10 @@ permalink: /cards/barrow-downs/
 > Cardolan
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Undead - 1 strike with 8 prowess; each character wounded must make a corruption check  <br>_“...the green mounds, and the stone-rings upon the hills and on the hollows...”_ ***---&#65279;LotRI*** 
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Undead - 1 strike with 8 prowess; each character wounded must make a corruption check  
+> > 
+> > {: .fs-3 } 
+> > _“...the green mounds, and the stone-rings upon the hills and on the hollows...”_ ***---&#65279;LotRI*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -45,7 +48,10 @@ permalink: /cards/barrow-downs/
 > Cardolan
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Undead - 1 strike with 8 prowess; each character wounded must make a corruption check  <br>_“...the green mounds, and the stone-rings upon the hills and on the hollows...”_ ***---&#65279;LotRI*** 
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Undead - 1 strike with 8 prowess; each character wounded must make a corruption check  
+> > 
+> > {: .fs-3 } 
+> > _“...the green mounds, and the stone-rings upon the hills and on the hollows...”_ ***---&#65279;LotRI*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -65,7 +71,10 @@ permalink: /cards/barrow-downs/
 > Cardolan
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Undead - 1 strike with 8 prowess; each character wounded must make a corruption check modified by -2  <br>_"There was no tree nor any visible water: it was a country of grass...and high lonely cries of strange birds."_ ***---&#65279;LotRI*** 
+> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Undead - 1 strike with 8 prowess; each character wounded must make a corruption check modified by -2  
+> > 
+> > {: .fs-3 } 
+> > _“There was no tree nor any visible water: it was a country of grass...and high lonely cries of strange birds."_ ***---&#65279;LotRI*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -85,7 +94,10 @@ permalink: /cards/barrow-downs/
 > Cardolan
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Undead - 1 strike with 8 prowess; each character wounded must make a corruption check  <br>_“...the green mounds, and the stone-rings upon the hills and on the hollows...”_ ***---&#65279;LotRI*** 
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Undead - 1 strike with 8 prowess; each character wounded must make a corruption check  
+> > 
+> > {: .fs-3 } 
+> > _“...the green mounds, and the stone-rings upon the hills and on the hollows...”_ ***---&#65279;LotRI*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>

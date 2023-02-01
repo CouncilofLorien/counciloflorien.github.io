@@ -25,7 +25,13 @@ permalink: /cards/dori/
 > Warrior Dwarf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions. <br>_“‘I can't always be carrying burglars on my back,' said Dori, 'down tunnels and up trees! What do you think I am? A porter?’”_ ***---&#65279;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
+> > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions. 
+> > 
+> > {: .fs-3 } 
+> > _“‘I can't always be carrying burglars on my back,' said Dori, 'down tunnels and up trees! What do you think I am? A porter?’”_ ***---&#65279;Hob***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 3/6 】</div>
@@ -45,7 +51,13 @@ permalink: /cards/dori/
 > Warrior Dwarf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions. <br>_“‘I can't always be carrying burglars on my back,' said Dori, 'down tunnels and up trees! What do you think I am? A porter?’”_ ***---&#65279;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
+> > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions. 
+> > 
+> > {: .fs-3 } 
+> > _“‘I can't always be carrying burglars on my back,' said Dori, 'down tunnels and up trees! What do you think I am? A porter?’”_ ***---&#65279;Hob***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 3/6 】</div>
@@ -65,7 +77,13 @@ permalink: /cards/dori/
 > Warrior Dwarf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions. <br>_“‘I can't always be carrying burglars on my back,' said Dori, 'down tunnels and up trees! What do you think I am? A porter?’”_ ***---&#65279;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
+> > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions. 
+> > 
+> > {: .fs-3 } 
+> > _“‘I can't always be carrying burglars on my back,' said Dori, 'down tunnels and up trees! What do you think I am? A porter?’”_ ***---&#65279;Hob***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 3/6 】</div>

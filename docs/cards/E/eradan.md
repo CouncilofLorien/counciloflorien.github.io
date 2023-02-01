@@ -25,7 +25,10 @@ permalink: /cards/eradan/
 > Scout/Ranger Dunadan
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_   “...fearless and strong, but caring little for love, save the tales of old battles."_ ***---&#65279;LotR***  <br><br>**Home Site:** Sarn Goriwing 
+> > _**Unique.**_   “...fearless and strong, but caring little for love, save the tales of old battles."_ ***---&#65279;LotR***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Sarn Goriwing 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 4/8 】</div>
@@ -45,7 +48,10 @@ permalink: /cards/eradan/
 > Scout/Ranger Dunadan
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_   “...fearless and strong, but caring little for love, save the tales of old battles."_ ***---&#65279;LotR***  <br><br>**Home Site:** Sarn Goriwing 
+> > _**Unique.**_   “...fearless and strong, but caring little for love, save the tales of old battles."_ ***---&#65279;LotR***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Sarn Goriwing 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 4/8 】</div>

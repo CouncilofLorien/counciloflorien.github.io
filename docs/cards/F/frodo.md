@@ -25,7 +25,13 @@ permalink: /cards/frodo/
 > Scout/Diplomat Hobbit
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +4. <br>&ensp;-2 marshalling points if eliminated. <br>_“‘I will take the Ring,' he said, 'though I do not know the way.’”_ ***---&#65279;LotRII***  <br><br>**Home Site:** Bag End 
+> > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +4. <br>&ensp;-2 marshalling points if eliminated. 
+> > 
+> > {: .fs-3 } 
+> > _“‘I will take the Ring,' he said, 'though I do not know the way.’”_ ***---&#65279;LotRII***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Bag End 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 1/9 】</div>
@@ -45,7 +51,13 @@ permalink: /cards/frodo/
 > Scout/Diplomat Hobbit
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +4. <br>&ensp;-2 marshalling points if eliminated. <br>_“‘I will take the Ring,' he said, 'though I do not know the way.’”_ ***---&#65279;LotRII***  <br><br>**Home Site:** Bag End 
+> > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +4. <br>&ensp;-2 marshalling points if eliminated. 
+> > 
+> > {: .fs-3 } 
+> > _“‘I will take the Ring,' he said, 'though I do not know the way.’”_ ***---&#65279;LotRII***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Bag End 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 1/9 】</div>

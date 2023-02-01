@@ -22,7 +22,10 @@ permalink: /cards/tempering-friendship/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > +4 to an influence attempt against a faction.  <br>_"They had not been riding very long when up came Gandalf very splendid on a white horse. He had brought a lot of pocket-handkerchiefs, and Bilbo's pipe and tobacco."_ ***---&#65279;Hob***
+> > +4 to an influence attempt against a faction.  
+> > 
+> > {: .fs-3 } 
+> > _“They had not been riding very long when up came Gandalf very splendid on a white horse. He had brought a lot of pocket-handkerchiefs, and Bilbo's pipe and tobacco."_ ***---&#65279;Hob***
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,7 +39,10 @@ permalink: /cards/tempering-friendship/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > +4 to an influence attempt against a faction.  <br>_"They had not been riding very long when up came Gandalf very splendid on a white horse. He had brought a lot of pocket-handkerchiefs, and Bilbo's pipe and tobacco."_ ***---&#65279;Hob***
+> > +4 to an influence attempt against a faction.  
+> > 
+> > {: .fs-3 } 
+> > _“They had not been riding very long when up came Gandalf very splendid on a white horse. He had brought a lot of pocket-handkerchiefs, and Bilbo's pipe and tobacco."_ ***---&#65279;Hob***
 > 
 
 ### _Middle-earth: The Wizards Starter Set_

@@ -25,7 +25,10 @@ permalink: /cards/dwarven-ring-of-durins-tribe/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ _Dwarven Ring._ ***Playable only with a Gold Ring and after a test indicates a Dwarven Ring.*** Values in parentheses and brackets apply to a Dwarf bearer. Tap a Dwarf bearer to untap the site he is currently at. Bearer makes a corruption check modified by +2. <br>_“‘But it needs gold to breed gold.’”_ ***---&#65279;LotR*** 
+> > _Unique._ _Dwarven Ring._ ***Playable only with a Gold Ring and after a test indicates a Dwarven Ring.*** Values in parentheses and brackets apply to a Dwarf bearer. Tap a Dwarf bearer to untap the site he is currently at. Bearer makes a corruption check modified by +2. 
+> > 
+> > {: .fs-3 } 
+> > _“‘But it needs gold to breed gold.’”_ ***---&#65279;LotR*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +2(4)/+1 】</div>
@@ -45,7 +48,10 @@ permalink: /cards/dwarven-ring-of-durins-tribe/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ _Dwarven Ring._ ***Playable only with a Gold Ring and after a test indicates a Dwarven Ring.*** Values in parentheses and brackets apply to a Dwarf bearer. Tap a Dwarf bearer to untap the site he is currently at. Bearer makes a corruption check modified by +2. <br>_“‘But it needs gold to breed gold.’”_ ***---&#65279;LotR*** 
+> > _Unique._ _Dwarven Ring._ ***Playable only with a Gold Ring and after a test indicates a Dwarven Ring.*** Values in parentheses and brackets apply to a Dwarf bearer. Tap a Dwarf bearer to untap the site he is currently at. Bearer makes a corruption check modified by +2. 
+> > 
+> > {: .fs-3 } 
+> > _“‘But it needs gold to breed gold.’”_ ***---&#65279;LotR*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +2(4)/+1 】</div>
@@ -65,7 +71,10 @@ permalink: /cards/dwarven-ring-of-durins-tribe/
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Dwarven Ring._ ***Playable only with a Gold Ring and after a test indicates a Dwarven Ring.*** Values in parentheses and brackets apply to a Dwarf bearer. Tap a Dwarf bearer to untap the site where he currently is. Bearer then makes a corruption check modified by +2. <br>_“‘But it needs gold to breed gold.’”_ ***---&#65279;LotR*** 
+> > _**Unique.**_ _Dwarven Ring._ ***Playable only with a Gold Ring and after a test indicates a Dwarven Ring.*** Values in parentheses and brackets apply to a Dwarf bearer. Tap a Dwarf bearer to untap the site where he currently is. Bearer then makes a corruption check modified by +2. 
+> > 
+> > {: .fs-3 } 
+> > _“‘But it needs gold to breed gold.’”_ ***---&#65279;LotR*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +2(4)/+1 】</div>

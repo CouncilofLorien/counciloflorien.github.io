@@ -22,7 +22,10 @@ permalink: /cards/shelobs-brood/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Spiders._ Four strikes. Playable at any Under-deeps site or surface site thereof. <br>_"Far and wide her lesser broods, bastards of the miserable mates...spread...”_ ***---&#65279;LotRV*** 
+> > _Spiders._ Four strikes. Playable at any Under-deeps site or surface site thereof. 
+> > 
+> > {: .fs-3 } 
+> > _“Far and wide her lesser broods, bastards of the miserable mates...spread...”_ ***---&#65279;LotRV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 8/&ndash; 】</div>

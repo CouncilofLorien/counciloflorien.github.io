@@ -25,7 +25,13 @@ permalink: /cards/fori-the-beardless/
 > Warrior/Scout Dwarf
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ Agent. +2 direct influence against Dwarves and Dwarf factions. <br>_"Gror, Dain's third son, went away with many followers to the Iron Hills...”_ ***---&#65279;LotR***  <br><br>**Home Site:** Iron Hill Dwarf-hold  
+> > _**Unique.**_ Agent. +2 direct influence against Dwarves and Dwarf factions. 
+> > 
+> > {: .fs-3 } 
+> > _“Gror, Dain's third son, went away with many followers to the Iron Hills...”_ ***---&#65279;LotR***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Iron Hill Dwarf-hold  
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 4/7 】</div>

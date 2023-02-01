@@ -22,7 +22,10 @@ permalink: /cards/test-of-lore/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Sage only, and only if a character in his company has a Gold Ring.*** Play to test a Gold Ring; subtract one from the result of the roll (or draw). <br>_"The moon was shining in a broad silver crescent. He held up the map and the white light shone through it."_ ***---&#65279;Hob*** 
+> > ***Sage only, and only if a character in his company has a Gold Ring.*** Play to test a Gold Ring; subtract one from the result of the roll (or draw). 
+> > 
+> > {: .fs-3 } 
+> > _“The moon was shining in a broad silver crescent. He held up the map and the white light shone through it."_ ***---&#65279;Hob*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,5 +39,8 @@ permalink: /cards/test-of-lore/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Sage only, and only if a character in his company has a Gold Ring.*** Play to test a Gold Ring; subtract one from the result of the roll (or draw). <br>_"The moon was shining in a broad silver crescent. He held up the map and the white light shone through it."_ ***---&#65279;Hob*** 
+> > ***Sage only, and only if a character in his company has a Gold Ring.*** Play to test a Gold Ring; subtract one from the result of the roll (or draw). 
+> > 
+> > {: .fs-3 } 
+> > _“The moon was shining in a broad silver crescent. He held up the map and the white light shone through it."_ ***---&#65279;Hob*** 
 > 

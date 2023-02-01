@@ -25,7 +25,13 @@ permalink: /cards/erkenbrand/
 > Warrior Man
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Riders of Rohan faction. <br>_"Amid them strode a man tall and strong. His shield was red. As he came to the valley's brink, he set to his lips a great black horn and blew a ringing blast."_ ***---&#65279;LotRIII***  <br><br>**Home Site:** Edoras 
+> > _**Unique.**_ +2 direct influence against the Riders of Rohan faction. 
+> > 
+> > {: .fs-3 } 
+> > _“Amid them strode a man tall and strong. His shield was red. As he came to the valley's brink, he set to his lips a great black horn and blew a ringing blast."_ ***---&#65279;LotRIII***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Edoras 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 5/6 】</div>
@@ -45,7 +51,13 @@ permalink: /cards/erkenbrand/
 > Warrior Man
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Riders of Rohan faction. <br>_"Amid them strode a man tall and strong. His shield was red. As he came to the valley's brink, he set to his lips a great black horn and blew a ringing blast."_ ***---&#65279;LotRIII***  <br><br>**Home Site:** Edoras 
+> > _**Unique.**_ +2 direct influence against the Riders of Rohan faction. 
+> > 
+> > {: .fs-3 } 
+> > _“Amid them strode a man tall and strong. His shield was red. As he came to the valley's brink, he set to his lips a great black horn and blew a ringing blast."_ ***---&#65279;LotRIII***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Edoras 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 5/6 】</div>
@@ -65,7 +77,13 @@ permalink: /cards/erkenbrand/
 > Warrior Man
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Riders of Rohan faction. <br>_"Amid them strode a man tall and strong. His shield was red. As he came to the valley's brink, he set to his lips a great black horn and blew a ringing blast."_ ***---&#65279;LotRIII***  <br><br>**Home Site:** Edoras 
+> > _**Unique.**_ +2 direct influence against the Riders of Rohan faction. 
+> > 
+> > {: .fs-3 } 
+> > _“Amid them strode a man tall and strong. His shield was red. As he came to the valley's brink, he set to his lips a great black horn and blew a ringing blast."_ ***---&#65279;LotRIII***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Edoras 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 5/6 】</div>
@@ -85,7 +103,13 @@ permalink: /cards/erkenbrand/
 > Warrior Man
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Riders of Rohan faction. <br>_"Amid them strode a man tall and strong. His shield was red. As he came to the valley's brink, he set to his lips a great black horn and blew a ringing blast."_ ***---&#65279;LotRIII***  <br><br>**Home Site:** Edoras 
+> > _**Unique.**_ +2 direct influence against the Riders of Rohan faction. 
+> > 
+> > {: .fs-3 } 
+> > _“Amid them strode a man tall and strong. His shield was red. As he came to the valley's brink, he set to his lips a great black horn and blew a ringing blast."_ ***---&#65279;LotRIII***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Edoras 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 5/6 】</div>

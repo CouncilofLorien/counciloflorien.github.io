@@ -25,7 +25,13 @@ permalink: /cards/deallus/
 > Warrior/Diplomat Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ Agent. <br>_"Red-haired and gifted with a marvelous tongue, Deallus of Dunfearan was the embodiment of the high hills' soft beauty and strong, deep spirit."_ ***---&#65279;Kuduk Lore***  <br><br>**Home Site:** Dunnish Clan-hold, Bree, Cameth Brin  
+> > _**Unique.**_ Agent. 
+> > 
+> > {: .fs-3 } 
+> > _“Red-haired and gifted with a marvelous tongue, Deallus of Dunfearan was the embodiment of the high hills' soft beauty and strong, deep spirit."_ ***---&#65279;Kuduk Lore***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Dunnish Clan-hold, Bree, Cameth Brin  
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 2/7 】</div>

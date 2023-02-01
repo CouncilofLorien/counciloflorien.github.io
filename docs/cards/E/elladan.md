@@ -25,7 +25,13 @@ permalink: /cards/elladan/
 > Warrior/Ranger Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +1 prowess against Orcs. <br>_"So much alike were they, the sons of Elrond...dark-haired, grey-eyed, and their faces elven-fair, clad alike in bright mail beneath cloaks of silver-grey."_ ***---&#65279;LotRV***  <br><br>**Home Site:** Rivendell 
+> > _**Unique.**_ +1 prowess against Orcs. 
+> > 
+> > {: .fs-3 } 
+> > _“So much alike were they, the sons of Elrond...dark-haired, grey-eyed, and their faces elven-fair, clad alike in bright mail beneath cloaks of silver-grey."_ ***---&#65279;LotRV***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Rivendell 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 5/8 】</div>
@@ -45,7 +51,13 @@ permalink: /cards/elladan/
 > Warrior/Ranger Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +1 prowess against Orcs. <br>_"So much alike were they, the sons of Elrond...dark-haired, grey-eyed, and their faces elven-fair, clad alike in bright mail beneath cloaks of silver-grey."_ ***---&#65279;LotRV***  <br><br>**Home Site:** Rivendell 
+> > _**Unique.**_ +1 prowess against Orcs. 
+> > 
+> > {: .fs-3 } 
+> > _“So much alike were they, the sons of Elrond...dark-haired, grey-eyed, and their faces elven-fair, clad alike in bright mail beneath cloaks of silver-grey."_ ***---&#65279;LotRV***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Rivendell 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 5/8 】</div>
@@ -65,7 +77,13 @@ permalink: /cards/elladan/
 > Warrior/Ranger Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +1 prowess against Orcs. <br>_"So much alike were they, the sons of Elrond...dark-haired, grey-eyed, and their faces elven-fair, clad alike in bright mail beneath cloaks of silver-grey."_ ***---&#65279;LotRV***  <br><br>**Home Site:** Rivendell 
+> > _**Unique.**_ +1 prowess against Orcs. 
+> > 
+> > {: .fs-3 } 
+> > _“So much alike were they, the sons of Elrond...dark-haired, grey-eyed, and their faces elven-fair, clad alike in bright mail beneath cloaks of silver-grey."_ ***---&#65279;LotRV***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Rivendell 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 5/8 】</div>
@@ -85,7 +103,13 @@ permalink: /cards/elladan/
 > Warrior/Ranger Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +1 prowess against Orcs. <br>_"So much alike were they, the sons of Elrond...dark-haired, grey-eyed, and their faces elven-fair, clad alike in bright mail beneath cloaks of silver-grey."_ ***---&#65279;LotRV***  <br><br>**Home Site:** Rivendell 
+> > _**Unique.**_ +1 prowess against Orcs. 
+> > 
+> > {: .fs-3 } 
+> > _“So much alike were they, the sons of Elrond...dark-haired, grey-eyed, and their faces elven-fair, clad alike in bright mail beneath cloaks of silver-grey."_ ***---&#65279;LotRV***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Rivendell 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 5/8 】</div>

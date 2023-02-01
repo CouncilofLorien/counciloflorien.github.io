@@ -25,7 +25,13 @@ permalink: /cards/hama/
 > Warrior Man
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ -1 to all of his corruption checks. -1 to influence checks against factions. <br>_“...the sun was blazoned upon their green shields... Then one of the guards stepped forward... 'I am Doorward of Theoden,' he said. 'Hama is my name.’”_ ***---&#65279;LotRIII***  <br><br>**Home Site:** Edoras 
+> > _**Unique.**_ -1 to all of his corruption checks. -1 to influence checks against factions. 
+> > 
+> > {: .fs-3 } 
+> > _“...the sun was blazoned upon their green shields... Then one of the guards stepped forward... 'I am Doorward of Theoden,' he said. 'Hama is my name.’”_ ***---&#65279;LotRIII***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Edoras 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 4/8 】</div>
@@ -45,7 +51,13 @@ permalink: /cards/hama/
 > Warrior Man
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ -1 to all of his corruption checks. -1 to influence checks against factions. <br>_“...the sun was blazoned upon their green shields... Then one of the guards stepped forward... 'I am Doorward of Theoden,' he said. 'Hama is my name.’”_ ***---&#65279;LotRIII***  <br><br>**Home Site:** Edoras 
+> > _**Unique.**_ -1 to all of his corruption checks. -1 to influence checks against factions. 
+> > 
+> > {: .fs-3 } 
+> > _“...the sun was blazoned upon their green shields... Then one of the guards stepped forward... 'I am Doorward of Theoden,' he said. 'Hama is my name.’”_ ***---&#65279;LotRIII***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Edoras 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 4/8 】</div>
@@ -65,7 +77,13 @@ permalink: /cards/hama/
 > Warrior Man
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ -1 to all of his corruption checks. -1 to influence checks against factions. <br>_“...the sun was blazoned upon their green shields... Then one of the guards stepped forward... 'I am Doorward of Theoden,' he said. 'Hama is my name.’”_ ***---&#65279;LotRIII***  <br><br>**Home Site:** Edoras 
+> > _**Unique.**_ -1 to all of his corruption checks. -1 to influence checks against factions. 
+> > 
+> > {: .fs-3 } 
+> > _“...the sun was blazoned upon their green shields... Then one of the guards stepped forward... 'I am Doorward of Theoden,' he said. 'Hama is my name.’”_ ***---&#65279;LotRIII***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Edoras 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 4/8 】</div>

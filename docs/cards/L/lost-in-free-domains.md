@@ -22,7 +22,10 @@ permalink: /cards/lost-in-free-domains/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > ***Playable on a company that is moving this turn.*** If the company has a Free-domain \[![](/assets/images/free-domain.svg)] in its site path, it may do nothing during its site phase. <br>_"It seemed a long way, and he grew hot and very hungry; and night closed down swift and dark."_ ***---&#65279;LotRV*** 
+> > ***Playable on a company that is moving this turn.*** If the company has a Free-domain \[![](/assets/images/free-domain.svg)] in its site path, it may do nothing during its site phase. 
+> > 
+> > {: .fs-3 } 
+> > _“It seemed a long way, and he grew hot and very hungry; and night closed down swift and dark."_ ***---&#65279;LotRV*** 
 >
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,7 +39,10 @@ permalink: /cards/lost-in-free-domains/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > ***Playable on a company that is moving this turn.*** If the company has a Free-domain \[![](/assets/images/free-domain.svg)] in its site path, it may do nothing during its site phase. <br>_"It seemed a long way, and he grew hot and very hungry; and night closed down swift and dark."_ ***---&#65279;LotRV*** 
+> > ***Playable on a company that is moving this turn.*** If the company has a Free-domain \[![](/assets/images/free-domain.svg)] in its site path, it may do nothing during its site phase. 
+> > 
+> > {: .fs-3 } 
+> > _“It seemed a long way, and he grew hot and very hungry; and night closed down swift and dark."_ ***---&#65279;LotRV*** 
 >
 
 ### _Middle-earth: The Lidless Eye_

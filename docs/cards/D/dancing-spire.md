@@ -25,7 +25,10 @@ permalink: /cards/dancing-spire/
 > Withered Heath
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon - 2 strikes with 11 prowess  <br>_“...for those mountains were rich and little explored."_ ***---&#65279;LotR*** 
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon - 2 strikes with 11 prowess  
+> > 
+> > {: .fs-3 } 
+> > _“...for those mountains were rich and little explored."_ ***---&#65279;LotR*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;3&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -45,7 +48,10 @@ permalink: /cards/dancing-spire/
 > Withered Heath
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon - 2 strikes with 11 prowess  <br>_“...for those mountains were rich and little explored."_ ***---&#65279;LotR*** 
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon - 2 strikes with 11 prowess  
+> > 
+> > {: .fs-3 } 
+> > _“...for those mountains were rich and little explored."_ ***---&#65279;LotR*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;3&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -65,7 +71,10 @@ permalink: /cards/dancing-spire/
 > Withered Heath
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon - 2 strikes with 11 prowess  <br>_“...he knew how evil and danger had thriven in the Wild, since the dragons had driven men from the lands...”_ ***---&#65279;LotR*** 
+> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon - 2 strikes with 11 prowess  
+> > 
+> > {: .fs-3 } 
+> > _“...he knew how evil and danger had thriven in the Wild, since the dragons had driven men from the lands...”_ ***---&#65279;LotR*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -85,7 +94,10 @@ permalink: /cards/dancing-spire/
 > Withered Heath
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon - 2 strikes with 11 prowess  <br>_“...he knew how evil and danger had thriven in the Wild, since the dragons had driven men from the lands...”_ ***---&#65279;LotR*** 
+> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon - 2 strikes with 11 prowess  
+> > 
+> > {: .fs-3 } 
+> > _“...he knew how evil and danger had thriven in the Wild, since the dragons had driven men from the lands...”_ ***---&#65279;LotR*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

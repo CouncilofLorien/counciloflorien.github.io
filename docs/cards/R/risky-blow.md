@@ -22,7 +22,10 @@ permalink: /cards/risky-blow/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Warrior only against one strike.*** +3 to prowess and -1 to body. <br>_"Fewer were they but they clove through the Southrons like a fire-bolt in a forest."_ ***---&#65279;LotRV*** 
+> > ***Warrior only against one strike.*** +3 to prowess and -1 to body. 
+> > 
+> > {: .fs-3 } 
+> > _“Fewer were they but they clove through the Southrons like a fire-bolt in a forest."_ ***---&#65279;LotRV*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,7 +39,10 @@ permalink: /cards/risky-blow/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Warrior only against one strike.*** +3 to prowess and -1 to body.*** <br>_"Fewer were they but they clove through the Southrons like a fire-bolt in a forest."_ ***---&#65279;LotRV*** 
+> > ***Warrior only against one strike.*** +3 to prowess and -1 to body.*** 
+> > 
+> > {: .fs-3 } 
+> > _“Fewer were they but they clove through the Southrons like a fire-bolt in a forest."_ ***---&#65279;LotRV*** 
 > 
 
 ### _Middle-earth: The Wizards Starter Set_
@@ -50,7 +56,10 @@ permalink: /cards/risky-blow/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Warrior only against one strike.*** +3 to prowess and -1 to body.*** <br>_"Fewer were they but they clove through the Southrons like a fire-bolt in a forest."_ ***---&#65279;LotRV*** 
+> > ***Warrior only against one strike.*** +3 to prowess and -1 to body.*** 
+> > 
+> > {: .fs-3 } 
+> > _“Fewer were they but they clove through the Southrons like a fire-bolt in a forest."_ ***---&#65279;LotRV*** 
 > 
 
 ### _Middle-earth Challenge Decks_
@@ -64,5 +73,8 @@ permalink: /cards/risky-blow/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Warrior only against one strike.*** +3 to prowess and -1 to body.*** <br>_"Fewer were they but they clove through the Southrons like a fire-bolt in a forest."_ ***---&#65279;LotRV*** 
+> > ***Warrior only against one strike.*** +3 to prowess and -1 to body.*** 
+> > 
+> > {: .fs-3 } 
+> > _“Fewer were they but they clove through the Southrons like a fire-bolt in a forest."_ ***---&#65279;LotRV*** 
 > 

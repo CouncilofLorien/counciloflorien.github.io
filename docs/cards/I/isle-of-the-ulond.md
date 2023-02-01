@@ -25,7 +25,10 @@ permalink: /cards/isle-of-the-ulond/
 > Andrast Coast
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Dragon-1 strike with 14 prowess  <br>_"Deep, sea washed chambers of coral lie beneath the island's cliffs and resound with the echoes of the violent tides."_ ***---&#65279;Kuduk Lore*** 
+> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Dragon-1 strike with 14 prowess  
+> > 
+> > {: .fs-3 } 
+> > _“Deep, sea washed chambers of coral lie beneath the island's cliffs and resound with the echoes of the violent tides."_ ***---&#65279;Kuduk Lore*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -65,7 +68,10 @@ permalink: /cards/isle-of-the-ulond/
 > Andrast Coast
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Dragon-1 strike with 14 prowess  <br>_"Deep, sea washed chambers of coral lie beneath the island's cliffs and resound with the echoes of the violent tides."_ ***---&#65279;Kuduk Lore*** 
+> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Dragon-1 strike with 14 prowess  
+> > 
+> > {: .fs-3 } 
+> > _“Deep, sea washed chambers of coral lie beneath the island's cliffs and resound with the echoes of the violent tides."_ ***---&#65279;Kuduk Lore*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>

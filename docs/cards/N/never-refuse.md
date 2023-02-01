@@ -25,5 +25,8 @@ permalink: /cards/never-refuse/
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > All corruption checks by your non-Wizard characters are modified by +2. <br>_"I will follow you lead now...”_ ***---&#65279;LotRII*** 
+> > All corruption checks by your non-Wizard characters are modified by +2. 
+> > 
+> > {: .fs-3 } 
+> > _“I will follow you lead now...”_ ***---&#65279;LotRII*** 
 > 

@@ -22,5 +22,8 @@ permalink: /cards/pledge-of-conduct/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Diplomat only._ A character facing a corruption check in the diplomat's company may automatically transfer one item he bears to another character in his company. The item must be transferable, and the new bearer must be able to bear it.   <br>_“‘...you will first surender to me the Key of Orthanc, and your staff. They shall be pledges of your conduct, to be returned late, if you merit them.’”_ ***---&#65279;LotRIII*** 
+> > _Diplomat only._ A character facing a corruption check in the diplomat's company may automatically transfer one item he bears to another character in his company. The item must be transferable, and the new bearer must be able to bear it.   
+> > 
+> > {: .fs-3 } 
+> > _“‘...you will first surender to me the Key of Orthanc, and your staff. They shall be pledges of your conduct, to be returned late, if you merit them.’”_ ***---&#65279;LotRIII*** 
 > 

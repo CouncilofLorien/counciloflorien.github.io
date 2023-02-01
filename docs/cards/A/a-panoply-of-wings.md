@@ -22,5 +22,8 @@ permalink: /cards/a-panoply-of-wings/
 > Animal Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable at any tapped or untapped non-Haven, non-Shadow-hold, non-Dark-hold site in a Wilderness \[![](/assets/images/wilderness.svg)] if the influence check is greater than 11.  <br>_Standard Modifications:_ if Radagast is your Wizard (+3). Discard this faction to make information playable at such a site. <br>_“‘Tell them to bring news of anything that bears on this matter...’”_ ***---&#65279;LotRII*** 
+> > Playable at any tapped or untapped non-Haven, non-Shadow-hold, non-Dark-hold site in a Wilderness \[![](/assets/images/wilderness.svg)] if the influence check is greater than 11.  <br>_Standard Modifications:_ if Radagast is your Wizard (+3). Discard this faction to make information playable at such a site. 
+> > 
+> > {: .fs-3 } 
+> > _“‘Tell them to bring news of anything that bears on this matter...’”_ ***---&#65279;LotRII*** 
 > 

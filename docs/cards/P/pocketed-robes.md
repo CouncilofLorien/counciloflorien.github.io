@@ -25,5 +25,8 @@ permalink: /cards/pocketed-robes/
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Radagast specific._ Place this card on Radagast if he is in play. If on Radagast, you may tap Pocketed Robes during your end-of-turn phase to take Crept along Cleverly, Wizard's River-horses, or Herb-lore from your discard pile to your hand. <br>_“‘...and birds especially are his friends.’”_ ***---&#65279;LotRII*** 
+> > _**Unique.**_ _Radagast specific._ Place this card on Radagast if he is in play. If on Radagast, you may tap Pocketed Robes during your end-of-turn phase to take Crept along Cleverly, Wizard's River-horses, or Herb-lore from your discard pile to your hand. 
+> > 
+> > {: .fs-3 } 
+> > _“‘...and birds especially are his friends.’”_ ***---&#65279;LotRII*** 
 > 

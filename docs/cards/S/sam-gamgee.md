@@ -25,7 +25,13 @@ permalink: /cards/sam-gamgee/
 > Scout/Ranger Hobbit
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +3. <br>_“‘I'll get there if I leave everything but my bones behind...And I'll carry Mr. Frodo up myself...’”_ ***---&#65279;LotRVI***  <br><br>**Home Site:** Bag End 
+> > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +3. 
+> > 
+> > {: .fs-3 } 
+> > _“‘I'll get there if I leave everything but my bones behind...And I'll carry Mr. Frodo up myself...’”_ ***---&#65279;LotRVI***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Bag End 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 1/9 】</div>
@@ -45,7 +51,13 @@ permalink: /cards/sam-gamgee/
 > Scout/Ranger Hobbit
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +3. <br>_“‘I'll get there if I leave everything but my bones behind...And I'll carry Mr. Frodo up myself...’”_ ***---&#65279;LotRVI***  <br><br>**Home Site:** Bag End 
+> > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +3. 
+> > 
+> > {: .fs-3 } 
+> > _“‘I'll get there if I leave everything but my bones behind...And I'll carry Mr. Frodo up myself...’”_ ***---&#65279;LotRVI***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Bag End 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 1/9 】</div>
@@ -65,7 +77,13 @@ permalink: /cards/sam-gamgee/
 > Scout/Ranger Hobbit
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +3. <br>_“‘I'll get there if I leave everything but my bones behind...And I'll carry Mr. Frodo up myself...’”_ ***---&#65279;LotRVI***  <br><br>**Home Site:** Bag End 
+> > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +3. 
+> > 
+> > {: .fs-3 } 
+> > _“‘I'll get there if I leave everything but my bones behind...And I'll carry Mr. Frodo up myself...’”_ ***---&#65279;LotRVI***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Bag End 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 1/9 】</div>

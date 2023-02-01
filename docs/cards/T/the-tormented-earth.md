@@ -22,7 +22,10 @@ permalink: /cards/the-tormented-earth/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Magic._ _Sorcery._ Playable on a sorcery-using character facing a non-automatic-attack. Cancels the attack or gives the attack -3 prowess, your choice. Unless he is a Ringwraith, character makes a corruption check modified by -4. Cannot be duplicated against a given attack. <br>_“...as if...smitten with a shower of bolts and huge slingstones...”_ ***---&#65279;LotRVI*** 
+> > _Magic._ _Sorcery._ Playable on a sorcery-using character facing a non-automatic-attack. Cancels the attack or gives the attack -3 prowess, your choice. Unless he is a Ringwraith, character makes a corruption check modified by -4. Cannot be duplicated against a given attack. 
+> > 
+> > {: .fs-3 } 
+> > _“...as if...smitten with a shower of bolts and huge slingstones...”_ ***---&#65279;LotRVI*** 
 > 
 
 ### _Middle-earth Challenge Decks_
@@ -36,5 +39,8 @@ permalink: /cards/the-tormented-earth/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Magic._ _Sorcery._ Playable on a sorcery-using character facing a non-automatic-attack. Cancels the attack or gives the attack -3 prowess, your choice. Unless he is a Ringwraith, character makes a corruption check modified by -4. Cannot be duplicated against a given attack. <br>_“...as if...smitten with a shower of bolts and huge slingstones...”_ ***---&#65279;LotRVI*** 
+> > _Magic._ _Sorcery._ Playable on a sorcery-using character facing a non-automatic-attack. Cancels the attack or gives the attack -3 prowess, your choice. Unless he is a Ringwraith, character makes a corruption check modified by -4. Cannot be duplicated against a given attack. 
+> > 
+> > {: .fs-3 } 
+> > _“...as if...smitten with a shower of bolts and huge slingstones...”_ ***---&#65279;LotRVI*** 
 > 

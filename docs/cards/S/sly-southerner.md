@@ -25,7 +25,13 @@ permalink: /cards/sly-southerner/
 > Warrior/Scout Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _Half-orc._ Discard on a body check result of 9. <br>_“‘So that's where that southerner is hiding...He looks more than half like a goblin.’”_ ***---&#65279;LotRI***  <br><br>**Home Site:** Any Dark-hold 
+> > _Half-orc._ Discard on a body check result of 9. 
+> > 
+> > {: .fs-3 } 
+> > _“‘So that's where that southerner is hiding...He looks more than half like a goblin.’”_ ***---&#65279;LotRI***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Any Dark-hold 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 1/9 】</div>
@@ -45,7 +51,13 @@ permalink: /cards/sly-southerner/
 > Warrior/Scout Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _Half-orc._ Discard on a body check result of 9. <br>_“‘So that's where that southerner is hiding...He looks more than half like a goblin.’”_ ***---&#65279;LotRI***  <br><br>**Home Site:** Any Dark-hold 
+> > _Half-orc._ Discard on a body check result of 9. 
+> > 
+> > {: .fs-3 } 
+> > _“‘So that's where that southerner is hiding...He looks more than half like a goblin.’”_ ***---&#65279;LotRI***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Any Dark-hold 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 1/9 】</div>

@@ -25,7 +25,10 @@ permalink: /cards/stone-circle/
 > Old Pukel Gap
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Information, Items (minor) <br>_**Automatic-attacks:**_<br> Pukel-creature - 1 strike with 9 prowess  <br>_"Stone rings grinned out of the ground like broken teeth in the moonlight."_ ***---&#65279;LotRI*** 
+> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Information, Items (minor) <br>_**Automatic-attacks:**_<br> Pukel-creature - 1 strike with 9 prowess  
+> > 
+> > {: .fs-3 } 
+> > _“Stone rings grinned out of the ground like broken teeth in the moonlight."_ ***---&#65279;LotRI*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -45,7 +48,10 @@ permalink: /cards/stone-circle/
 > Old Pukel Gap
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Information, Items (minor) <br>_**Automatic-attacks:**_<br> Pukel-creature - 1 strike with 9 prowess  <br>_"Stone rings grinned out of the ground like broken teeth in the moonlight."_ ***---&#65279;LotRI*** 
+> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Information, Items (minor) <br>_**Automatic-attacks:**_<br> Pukel-creature - 1 strike with 9 prowess  
+> > 
+> > {: .fs-3 } 
+> > _“Stone rings grinned out of the ground like broken teeth in the moonlight."_ ***---&#65279;LotRI*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -65,7 +71,10 @@ permalink: /cards/stone-circle/
 > Old Pukel Gap
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Geann a-Lisch <br>_**Playable:**_ Information, Items (minor) <br>_**Automatic-attacks:**_<br> Pukel-creature - 1 strike with 9 prowess  <br>_"Standing upon the rim of the ruined circle, they saw all round below them a wide prospect...”_ ***---&#65279;LotRII*** 
+> > Nearest Darkhaven: Geann a-Lisch <br>_**Playable:**_ Information, Items (minor) <br>_**Automatic-attacks:**_<br> Pukel-creature - 1 strike with 9 prowess  
+> > 
+> > {: .fs-3 } 
+> > _“Standing upon the rim of the ruined circle, they saw all round below them a wide prospect...”_ ***---&#65279;LotRII*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>

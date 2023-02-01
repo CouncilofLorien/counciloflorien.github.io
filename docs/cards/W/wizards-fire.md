@@ -22,7 +22,10 @@ permalink: /cards/wizards-fire/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Spell._ _**Wizard only.**_ +5 prowess for the Wizard against one attack. Wizard makes a corruption check modified by -4. <br>_“...and then with a word of command, 'naur an edraith ammen!', he thrust the end of his staff into the midst of it. At once a great spout of green and blue flame sprang out, and the wood flared and sputtered."_ ***---&#65279;LotRII*** 
+> > _Spell._ _**Wizard only.**_ +5 prowess for the Wizard against one attack. Wizard makes a corruption check modified by -4. 
+> > 
+> > {: .fs-3 } 
+> > _“...and then with a word of command, 'naur an edraith ammen!', he thrust the end of his staff into the midst of it. At once a great spout of green and blue flame sprang out, and the wood flared and sputtered."_ ***---&#65279;LotRII*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,5 +39,8 @@ permalink: /cards/wizards-fire/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Spell._ _**Wizard only.**_ +5 prowess for the Wizard against one attack. Wizard makes a corruption check modified by -4. <br>_“...and then with a word of command, 'naur an edraith ammen!', he thrust the end of his staff into the midst of it. At once a great spout of green and blue flame sprang out, and the wood flared and sputtered."_ ***---&#65279;LotRII*** 
+> > _Spell._ _**Wizard only.**_ +5 prowess for the Wizard against one attack. Wizard makes a corruption check modified by -4. 
+> > 
+> > {: .fs-3 } 
+> > _“...and then with a word of command, 'naur an edraith ammen!', he thrust the end of his staff into the midst of it. At once a great spout of green and blue flame sprang out, and the wood flared and sputtered."_ ***---&#65279;LotRII*** 
 > 

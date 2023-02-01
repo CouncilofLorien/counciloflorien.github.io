@@ -22,7 +22,10 @@ permalink: /cards/wain-easterlings/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Manifestation of minion Wain-easterlings. Playable at Easterling Camp if the influence check is greater than 8. <br>_Standard Modifications:_ Wizards (-5), Dunedain (-2). <br>_“‘Their homes, their wain-borne palaces made of tapestries, everything moves according to the seasons or fortunes on the battlefield.’”_ ***---&#65279;Kuduk Lore*** 
+> > _**Unique.**_ Manifestation of minion Wain-easterlings. Playable at Easterling Camp if the influence check is greater than 8. <br>_Standard Modifications:_ Wizards (-5), Dunedain (-2). 
+> > 
+> > {: .fs-3 } 
+> > _“‘Their homes, their wain-borne palaces made of tapestries, everything moves according to the seasons or fortunes on the battlefield.’”_ ***---&#65279;Kuduk Lore*** 
 > 
 
 ### _Middle-earth: Against the Shadow_
@@ -36,7 +39,10 @@ permalink: /cards/wain-easterlings/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Easterling Camp if the influence check is greater than 9. <br>_Standard Modifications:_ Easterlings (+2), Nuriags (-2). Once in play, the number required to influence this faction is 0. <br>_“...stronger and better armed than any that had appeared before. They journeyed in great wains, and their chieftains fought in chariots."_ ***---&#65279;LotR*** 
+> > _**Unique.**_ Playable at Easterling Camp if the influence check is greater than 9. <br>_Standard Modifications:_ Easterlings (+2), Nuriags (-2). Once in play, the number required to influence this faction is 0. 
+> > 
+> > {: .fs-3 } 
+> > _“...stronger and better armed than any that had appeared before. They journeyed in great wains, and their chieftains fought in chariots."_ ***---&#65279;LotR*** 
 > 
 
 ### _Middle-earth Challenge Decks_
@@ -50,7 +56,10 @@ permalink: /cards/wain-easterlings/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Manifestation of minion Wain-easterlings. Playable at Easterling Camp if the influence check is greater than 8. <br>_Standard Modifications:_ Wizards (-5), Dunedain (-2). <br>_“‘Their homes, their wain-borne palaces made of tapestries, everything moves according to the seasons or fortunes on the battlefield.’”_ ***---&#65279;Kuduk Lore*** 
+> > _**Unique.**_ Manifestation of minion Wain-easterlings. Playable at Easterling Camp if the influence check is greater than 8. <br>_Standard Modifications:_ Wizards (-5), Dunedain (-2). 
+> > 
+> > {: .fs-3 } 
+> > _“‘Their homes, their wain-borne palaces made of tapestries, everything moves according to the seasons or fortunes on the battlefield.’”_ ***---&#65279;Kuduk Lore*** 
 > 
 
 ### _Middle-earth Challenge Decks_
@@ -64,5 +73,8 @@ permalink: /cards/wain-easterlings/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Easterling Camp if the influence check is greater than 9. <br>_Standard Modifications:_ Easterlings (+2), Nuriags (-2). Once in play, the number required to influence this faction is 0. <br>_“...stronger and better armed than any that had appeared before. They journeyed in great wains, and their chieftains fought in chariots."_ ***---&#65279;LotR*** 
+> > _**Unique.**_ Playable at Easterling Camp if the influence check is greater than 9. <br>_Standard Modifications:_ Easterlings (+2), Nuriags (-2). Once in play, the number required to influence this faction is 0. 
+> > 
+> > {: .fs-3 } 
+> > _“...stronger and better armed than any that had appeared before. They journeyed in great wains, and their chieftains fought in chariots."_ ***---&#65279;LotR*** 
 > 

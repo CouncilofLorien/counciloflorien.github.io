@@ -22,7 +22,10 @@ permalink: /cards/morgul-horse/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > This card allows you to place a tapped Nazgul permanent event back into your hand instead of discarding it. <br>&ensp;Alternatively, allows a Nazgul to be played keyed to Shadow-land \[![](/assets/images/shadow-land.svg)].  <br>_“...it was huge and hideous, and its face was a frightful mask...and in the sockets of its eyes and in the nostrils there burned a flame."_ ***---&#65279;LotRV*** 
+> > This card allows you to place a tapped Nazgul permanent event back into your hand instead of discarding it. <br>&ensp;Alternatively, allows a Nazgul to be played keyed to Shadow-land \[![](/assets/images/shadow-land.svg)].  
+> > 
+> > {: .fs-3 } 
+> > _“...it was huge and hideous, and its face was a frightful mask...and in the sockets of its eyes and in the nostrils there burned a flame."_ ***---&#65279;LotRV*** 
 >
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,5 +39,8 @@ permalink: /cards/morgul-horse/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > This card allows you to place a tapped Nazgul permanent event back into your hand instead of discarding it. <br>&ensp;Alternatively, allows a Nazgul to be played keyed to Shadow-land \[![](/assets/images/shadow-land.svg)].  <br>_“...it was huge and hideous, and its face was a frightful mask...and in the sockets of its eyes and in the nostrils there burned a flame."_ ***---&#65279;LotRV*** 
+> > This card allows you to place a tapped Nazgul permanent event back into your hand instead of discarding it. <br>&ensp;Alternatively, allows a Nazgul to be played keyed to Shadow-land \[![](/assets/images/shadow-land.svg)].  
+> > 
+> > {: .fs-3 } 
+> > _“...it was huge and hideous, and its face was a frightful mask...and in the sockets of its eyes and in the nostrils there burned a flame."_ ***---&#65279;LotRV*** 
 >

@@ -25,7 +25,10 @@ permalink: /cards/ren-the-ringwraith/
 > Sage/Diplomat Ringwraith
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ Manifestation of Ren the Unclean. Can use sorcery and shadow-magic. -2 direct influence in Heralded Lord mode. +2 prowess in Fell Rider mode. As your Ringwraith, if at a Darkhaven \[![](/assets/images/dark-haven.svg)], he may tap during your organization phase to modify all corruption checks made this turn by minions in any one of your companies by +2.   <br><br>**Home Site:** Any site in Gorgoroth 
+> > _**Unique.**_ Manifestation of Ren the Unclean. Can use sorcery and shadow-magic. -2 direct influence in Heralded Lord mode. +2 prowess in Fell Rider mode. As your Ringwraith, if at a Darkhaven \[![](/assets/images/dark-haven.svg)], he may tap during your organization phase to modify all corruption checks made this turn by minions in any one of your companies by +2.   
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Any site in Gorgoroth 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 8/10 】</div>

@@ -25,7 +25,7 @@ permalink: /cards/my-precious/
 > Scout Hobbit
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ Manifestation of Gollum. Agent. May take an extra agent action (not counting against the hazard limit each time he normally takes an agent action. If he attacks successfully against a company with a ring, he and a ring (attacker's choice) are discarded. If My Precious attacks and fails but is not defeated, the defender may tap a character in the target company to play Gollum (My Precious is discarded). Any player whose character eliminates My Precious receives -1 kill MPs.   <br><br>**Home Site:** Goblin-gate, Moria, Shelob's Lair, Mount Doom 
+> > _**Unique.**_ Manifestation of Gollum. Agent. May take an extra agent action (not counting against the hazard limit each time he normally takes an agent action. If he attacks successfully against a company with a ring, he and a ring (attacker's choice) are discarded. If My Precious attacks and fails but is not defeated, the defender may tap a character in the target company to play Gollum (My Precious is discarded). Any player whose character eliminates My Precious receives -1 kill MPs.   
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 2/9 】</div>

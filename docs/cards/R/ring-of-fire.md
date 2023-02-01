@@ -25,5 +25,8 @@ permalink: /cards/ring-of-fire/
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Gandalf specific._ Place this card on Gandalf if he is in play. If on Gandalf, you may tap Ring of Fire during your organization phase to take Narya from your discard pile to your hand. <br>_"Shadowfax bore him, shining, unveiled once more, a light starting from his upraised hand."_ ***---&#65279;LotRV*** 
+> > _**Unique.**_ _Gandalf specific._ Place this card on Gandalf if he is in play. If on Gandalf, you may tap Ring of Fire during your organization phase to take Narya from your discard pile to your hand. 
+> > 
+> > {: .fs-3 } 
+> > _“Shadowfax bore him, shining, unveiled once more, a light starting from his upraised hand."_ ***---&#65279;LotRV*** 
 > 

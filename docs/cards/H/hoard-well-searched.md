@@ -22,5 +22,8 @@ permalink: /cards/hoard-well-searched/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Scout only._ Playable during the site phase on a company with a scout at a tapped site that contains a hoard. A minor or major item may be played. <br>_“...but always he searched from side to side for something which he could not find."_ ***---&#65279;Hob*** 
+> > _Scout only._ Playable during the site phase on a company with a scout at a tapped site that contains a hoard. A minor or major item may be played. 
+> > 
+> > {: .fs-3 } 
+> > _“...but always he searched from side to side for something which he could not find."_ ***---&#65279;Hob*** 
 > 

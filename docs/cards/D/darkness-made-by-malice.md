@@ -22,5 +22,8 @@ permalink: /cards/darkness-made-by-malice/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a company at or moving to a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] or Under-deeps site, if there are more Spawn cards in play than characters in the company. Eliminated Spawn do not count. The company must do nothing during its site phase this turn. <br>_"Night always had been, and always would be, and night was all."_ ***---&#65279;LotRIV*** 
+> > Playable on a company at or moving to a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] or Under-deeps site, if there are more Spawn cards in play than characters in the company. Eliminated Spawn do not count. The company must do nothing during its site phase this turn. 
+> > 
+> > {: .fs-3 } 
+> > _“Night always had been, and always would be, and night was all."_ ***---&#65279;LotRIV*** 
 >

@@ -25,7 +25,10 @@ permalink: /cards/blackbole/
 > Ally
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at any site in Western Mirkwood, Heart of Mirkwood, or Southern Mirkwood (except Dol Guldur). May not face any strike at a site or from an automatic-attack. <br>_“‘Some are quite wide awake...When that happens to a tree, you find that some have bad hearts.’”_ ***---&#65279;LotRIII*** 
+> > _**Unique.**_ Playable at any site in Western Mirkwood, Heart of Mirkwood, or Southern Mirkwood (except Dol Guldur). May not face any strike at a site or from an automatic-attack. 
+> > 
+> > {: .fs-3 } 
+> > _“‘Some are quite wide awake...When that happens to a tree, you find that some have bad hearts.’”_ ***---&#65279;LotRIII*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 5/9 】</div>

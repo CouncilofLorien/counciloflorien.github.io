@@ -22,5 +22,8 @@ permalink: /cards/twisted-tales/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on an untapped diplomat agent. Tap the agent who may then make an influence attempt against a faction playable at the agent's site. +6 to influence attempt. Attempt is automatically successful if target faction is playable at agent's home site.   <br>_“‘Too long have you sat in shadows and trusted to twisted tales and crooked promptings.’”_ ***---&#65279;LotRIII*** 
+> > Playable on an untapped diplomat agent. Tap the agent who may then make an influence attempt against a faction playable at the agent's site. +6 to influence attempt. Attempt is automatically successful if target faction is playable at agent's home site.   
+> > 
+> > {: .fs-3 } 
+> > _“‘Too long have you sat in shadows and trusted to twisted tales and crooked promptings.’”_ ***---&#65279;LotRIII*** 
 >

@@ -22,7 +22,10 @@ permalink: /cards/habergeon-of-silver/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Hoard item._ _Armor._ Bearer receives +2 body to a maximum of 10.   <br>_“...of silver was his habergeon...”_ ***---&#65279;LotRII*** 
+> > _Hoard item._ _Armor._ Bearer receives +2 body to a maximum of 10.   
+> > 
+> > {: .fs-3 } 
+> > _“...of silver was his habergeon...”_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 &ndash;/+2 】</div>

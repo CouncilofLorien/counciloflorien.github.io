@@ -22,5 +22,8 @@ permalink: /cards/chill-them-with-fear/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > All Elf, Dwarf, Dunedain, and Hobbit attacks receive +2 prowess and +2 strikes (+1 prowess and +1 strikes if Doors of Night is in play). Cannot be duplicated. <br>_“...yet another weapon, swifter than hunger...dread and despair."_ ***---&#65279;LotRV*** 
+> > All Elf, Dwarf, Dunedain, and Hobbit attacks receive +2 prowess and +2 strikes (+1 prowess and +1 strikes if Doors of Night is in play). Cannot be duplicated. 
+> > 
+> > {: .fs-3 } 
+> > _“...yet another weapon, swifter than hunger...dread and despair."_ ***---&#65279;LotRV*** 
 >

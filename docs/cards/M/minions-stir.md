@@ -22,7 +22,10 @@ permalink: /cards/minions-stir/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The number of strikes and prowess of each Orc and Troll attack is increased by one (by two for Orcs if _Doors of Night_ is in play). <br>&ensp;Cannot be duplicated. <br>_“...for in the gloom the Shadow Host seemed to grow stronger and more terrible to look upon."_ ***---&#65279;LotRV*** 
+> > The number of strikes and prowess of each Orc and Troll attack is increased by one (by two for Orcs if _Doors of Night_ is in play). <br>&ensp;Cannot be duplicated. 
+> > 
+> > {: .fs-3 } 
+> > _“...for in the gloom the Shadow Host seemed to grow stronger and more terrible to look upon."_ ***---&#65279;LotRV*** 
 >
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,7 +39,10 @@ permalink: /cards/minions-stir/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The number of strikes and prowess of each Orc and Troll attack is increased by one (by two for Orcs if _Doors of Night_ is in play). <br>&ensp;Cannot be duplicated. <br>_“...for in the gloom the Shadow Host seemed to grow stronger and more terrible to look upon."_ ***---&#65279;LotRV*** 
+> > The number of strikes and prowess of each Orc and Troll attack is increased by one (by two for Orcs if _Doors of Night_ is in play). <br>&ensp;Cannot be duplicated. 
+> > 
+> > {: .fs-3 } 
+> > _“...for in the gloom the Shadow Host seemed to grow stronger and more terrible to look upon."_ ***---&#65279;LotRV*** 
 >
 
 ### _Middle-earth: The Wizards Starter Set_
@@ -50,7 +56,10 @@ permalink: /cards/minions-stir/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The number of strikes and prowess of each Orc and Troll attack is increased by one (by two for Orcs if _Doors of Night_ is in play). <br>&ensp;Cannot be duplicated. <br>_“...for in the gloom the Shadow Host seemed to grow stronger and more terrible to look upon."_ ***---&#65279;LotRV*** 
+> > The number of strikes and prowess of each Orc and Troll attack is increased by one (by two for Orcs if _Doors of Night_ is in play). <br>&ensp;Cannot be duplicated. 
+> > 
+> > {: .fs-3 } 
+> > _“...for in the gloom the Shadow Host seemed to grow stronger and more terrible to look upon."_ ***---&#65279;LotRV*** 
 >
 
 ### _Middle-earth: The Lidless Eye_
@@ -64,7 +73,10 @@ permalink: /cards/minions-stir/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The number of strikes and prowess of each Orc and Troll attack are increased by one (by two for Orc attacks if _Doors of Night_ is in play). <br>&ensp;Cannot be duplicated. <br>_"Tom got the branch in his teeth for that, and lost one of the front ones."_ ***---&#65279;Hob*** 
+> > The number of strikes and prowess of each Orc and Troll attack are increased by one (by two for Orc attacks if _Doors of Night_ is in play). <br>&ensp;Cannot be duplicated. 
+> > 
+> > {: .fs-3 } 
+> > _“Tom got the branch in his teeth for that, and lost one of the front ones."_ ***---&#65279;Hob*** 
 >
 
 ### _Middle-earth Challenge Decks_
@@ -78,5 +90,8 @@ permalink: /cards/minions-stir/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The number of strikes and prowess of each Orc and Troll attack are increased by one (by two for Orc attacks if _Doors of Night_ is in play). <br>&ensp;Cannot be duplicated. <br>_"Tom got the branch in his teeth for that, and lost one of the front ones."_ ***---&#65279;Hob*** 
+> > The number of strikes and prowess of each Orc and Troll attack are increased by one (by two for Orc attacks if _Doors of Night_ is in play). <br>&ensp;Cannot be duplicated. 
+> > 
+> > {: .fs-3 } 
+> > _“Tom got the branch in his teeth for that, and lost one of the front ones."_ ***---&#65279;Hob*** 
 >

@@ -25,7 +25,10 @@ permalink: /cards/watcher-in-the-water/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Each character in the company faces one strike. May also be played at Moria. <br>&ensp;Two Wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. <br>_"Out of the water a long sinuous tentacle had crawled; it was pale-green and luminous and wet."_ ***---&#65279;LotRII*** 
+> > Each character in the company faces one strike. May also be played at Moria. <br>&ensp;Two Wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. 
+> > 
+> > {: .fs-3 } 
+> > _“Out of the water a long sinuous tentacle had crawled; it was pale-green and luminous and wet."_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 8/&ndash; 】</div>
@@ -45,7 +48,10 @@ permalink: /cards/watcher-in-the-water/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Animal._ Each character in the company faces one strike. May also be played at Moria. <br>&ensp;Two Wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. <br>_"Out of the water a long sinuous tentacle had crawled; it was pale-green and luminous and wet."_ ***---&#65279;LotRII*** 
+> > _Animal._ Each character in the company faces one strike. May also be played at Moria. <br>&ensp;Two Wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. 
+> > 
+> > {: .fs-3 } 
+> > _“Out of the water a long sinuous tentacle had crawled; it was pale-green and luminous and wet."_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 8/&ndash; 】</div>
@@ -65,7 +71,10 @@ permalink: /cards/watcher-in-the-water/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Animal._ Each character in the company faces one strike. May also be played at Moria.   <br>_“‘...the arms were all guided by one purpose. Something has crept, or has been driven out of dark waters under the mountains’”_ ***---&#65279;LotRII*** 
+> > _Animal._ Each character in the company faces one strike. May also be played at Moria.   
+> > 
+> > {: .fs-3 } 
+> > _“‘...the arms were all guided by one purpose. Something has crept, or has been driven out of dark waters under the mountains’”_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 8/&ndash; 】</div>
@@ -85,7 +94,10 @@ permalink: /cards/watcher-in-the-water/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Animal._ Each character in the company faces one strike. May also be played at Moria.   <br>_“‘...the arms were all guided by one purpose. Something has crept, or has been driven out of dark waters under the mountains’”_ ***---&#65279;LotRII*** 
+> > _Animal._ Each character in the company faces one strike. May also be played at Moria.   
+> > 
+> > {: .fs-3 } 
+> > _“‘...the arms were all guided by one purpose. Something has crept, or has been driven out of dark waters under the mountains’”_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 8/&ndash; 】</div>

@@ -22,5 +22,8 @@ permalink: /cards/aware-of-their-ways/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Opponent reveals four cards at random from his discard pile. You may choose a non-unique one and remove it from play. Opponent discards the other three. <br>_"Quickly now he drew off the cloth, wrapped the stone in it and kneeling down, laid it back in the wizard's hand."_ ***---&#65279;LotRIII*** 
+> > Opponent reveals four cards at random from his discard pile. You may choose a non-unique one and remove it from play. Opponent discards the other three. 
+> > 
+> > {: .fs-3 } 
+> > _“Quickly now he drew off the cloth, wrapped the stone in it and kneeling down, laid it back in the wizard's hand."_ ***---&#65279;LotRIII*** 
 >

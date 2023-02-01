@@ -25,7 +25,13 @@ permalink: /cards/ori/
 > Warrior Dwarf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions. <br>_“...a grey hood, a brown hood, and a white hood were hanging on the pegs, and off they marched with their broad hands stuck in their gold and silver belts...”_ ***---&#65279;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
+> > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions. 
+> > 
+> > {: .fs-3 } 
+> > _“...a grey hood, a brown hood, and a white hood were hanging on the pegs, and off they marched with their broad hands stuck in their gold and silver belts...”_ ***---&#65279;Hob***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 2/7 】</div>
@@ -45,7 +51,13 @@ permalink: /cards/ori/
 > Warrior Dwarf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions. <br>_“...a grey hood, a brown hood, and a white hood were hanging on the pegs, and off they marched with their broad hands stuck in their gold and silver belts...”_ ***---&#65279;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
+> > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions. 
+> > 
+> > {: .fs-3 } 
+> > _“...a grey hood, a brown hood, and a white hood were hanging on the pegs, and off they marched with their broad hands stuck in their gold and silver belts...”_ ***---&#65279;Hob***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 2/7 】</div>

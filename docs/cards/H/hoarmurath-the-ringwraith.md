@@ -25,7 +25,10 @@ permalink: /cards/hoarmurath-the-ringwraith/
 > Scout/Ranger/Sage Ringwraith
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ Manifestation of Hoarmurath of Dir. Can use sorcery. +1 direct influence in Heralded Lord mode. +2 prowess in Fell Rider mode. As your Ringwraith, if at a Darkhaven \[![](/assets/images/dark-haven.svg)], you may keep one more card than normal in your hand.   <br><br>**Home Site:** Any site in Udun 
+> > _**Unique.**_ Manifestation of Hoarmurath of Dir. Can use sorcery. +1 direct influence in Heralded Lord mode. +2 prowess in Fell Rider mode. As your Ringwraith, if at a Darkhaven \[![](/assets/images/dark-haven.svg)], you may keep one more card than normal in your hand.   
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Any site in Udun 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 8/9 】</div>
@@ -45,7 +48,10 @@ permalink: /cards/hoarmurath-the-ringwraith/
 > Scout/Ranger/Sage Ringwraith
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ Manifestation of Hoarmurath of Dir. Can use sorcery. +1 direct influence in Heralded Lord mode. +2 prowess in Fell Rider mode. As your Ringwraith, if at a Darkhaven \[![](/assets/images/dark-haven.svg)], you may keep one more card than normal in your hand.   <br><br>**Home Site:** Any site in Udun 
+> > _**Unique.**_ Manifestation of Hoarmurath of Dir. Can use sorcery. +1 direct influence in Heralded Lord mode. +2 prowess in Fell Rider mode. As your Ringwraith, if at a Darkhaven \[![](/assets/images/dark-haven.svg)], you may keep one more card than normal in your hand.   
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Any site in Udun 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 8/9 】</div>

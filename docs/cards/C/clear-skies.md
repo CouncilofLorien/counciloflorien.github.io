@@ -22,7 +22,10 @@ permalink: /cards/clear-skies/
 > Long-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Environment._ ***Playable only if Gates of Morning is in play.*** The prowess of each character is modified by +2. <br>_"Over all the sky was blue, and the sun of afternoon glowed upon the hill and cast long green shadows beneath the trees."_ ***---&#65279;LotRII*** 
+> > _Environment._ ***Playable only if Gates of Morning is in play.*** The prowess of each character is modified by +2. 
+> > 
+> > {: .fs-3 } 
+> > _“Over all the sky was blue, and the sun of afternoon glowed upon the hill and cast long green shadows beneath the trees."_ ***---&#65279;LotRII*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,5 +39,8 @@ permalink: /cards/clear-skies/
 > Long-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Environment._ ***Playable only if Gates of Morning is in play.*** The prowess of each character is modified by +2. <br>_"Over all the sky was blue, and the sun of afternoon glowed upon the hill and cast long green shadows beneath the trees."_ ***---&#65279;LotRII*** 
+> > _Environment._ ***Playable only if Gates of Morning is in play.*** The prowess of each character is modified by +2. 
+> > 
+> > {: .fs-3 } 
+> > _“Over all the sky was blue, and the sun of afternoon glowed upon the hill and cast long green shadows beneath the trees."_ ***---&#65279;LotRII*** 
 > 

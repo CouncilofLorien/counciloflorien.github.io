@@ -25,7 +25,10 @@ permalink: /cards/orc-guard/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Orcs._ Five strikes. <br>_“...a grim band, four score at least of large, swart, slant-eyed Orcs..."_ ***---&#65279;LotRIII*** 
+> > _Orcs._ Five strikes. 
+> > 
+> > {: .fs-3 } 
+> > _“...a grim band, four score at least of large, swart, slant-eyed Orcs..."_ ***---&#65279;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 8/&ndash; 】</div>
@@ -45,7 +48,10 @@ permalink: /cards/orc-guard/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Orcs._ Five strikes. <br>_“...a grim band, four score at least of large, swart, slant-eyed Orcs..."_ ***---&#65279;LotRIII*** 
+> > _Orcs._ Five strikes. 
+> > 
+> > {: .fs-3 } 
+> > _“...a grim band, four score at least of large, swart, slant-eyed Orcs..."_ ***---&#65279;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 8/&ndash; 】</div>
@@ -65,7 +71,10 @@ permalink: /cards/orc-guard/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Orcs._ Five strikes. <br>_“...a grim band, four score at least of large, swart, slant-eyed Orcs..."_ ***---&#65279;LotRIII*** 
+> > _Orcs._ Five strikes. 
+> > 
+> > {: .fs-3 } 
+> > _“...a grim band, four score at least of large, swart, slant-eyed Orcs..."_ ***---&#65279;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 8/&ndash; 】</div>
@@ -85,7 +94,10 @@ permalink: /cards/orc-guard/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Orcs._ Five strikes. <br>_“...a grim band, four score at least of large, swart, slant-eyed Orcs..."_ ***---&#65279;LotRIII*** 
+> > _Orcs._ Five strikes. 
+> > 
+> > {: .fs-3 } 
+> > _“...a grim band, four score at least of large, swart, slant-eyed Orcs..."_ ***---&#65279;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 8/&ndash; 】</div>

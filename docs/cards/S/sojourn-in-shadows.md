@@ -22,5 +22,8 @@ permalink: /cards/sojourn-in-shadows/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Magic._ _Shadow-_Magic.__ Playable before strikes are assigned on a character facing an attack in a shadow-magic using character's company. Target character cannot be assigned a strike from the attack. Unless he is a Ringwraith, the shadow-magic using character makes a corruption check modified by -4. <br>_“‘...for then you were half in the wraith-world yourself...’”_ ***---&#65279;LotRII*** 
+> > _Magic._ _Shadow-_Magic.__ Playable before strikes are assigned on a character facing an attack in a shadow-magic using character's company. Target character cannot be assigned a strike from the attack. Unless he is a Ringwraith, the shadow-magic using character makes a corruption check modified by -4. 
+> > 
+> > {: .fs-3 } 
+> > _“‘...for then you were half in the wraith-world yourself...’”_ ***---&#65279;LotRII*** 
 > 

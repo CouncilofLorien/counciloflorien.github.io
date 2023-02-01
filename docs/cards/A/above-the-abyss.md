@@ -22,7 +22,10 @@ permalink: /cards/above-the-abyss/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable on a tapped non-Ringwraith character if your opponent is a Wizard and Ringwraith is in play. Untap target character. <br>_“...in the dark they could not see a descent, until they came on it and put their feet out into emptiness."_ ***---&#65279;LotRII*** 
+> > Playable on a tapped non-Ringwraith character if your opponent is a Wizard and Ringwraith is in play. Untap target character. 
+> > 
+> > {: .fs-3 } 
+> > _“...in the dark they could not see a descent, until they came on it and put their feet out into emptiness."_ ***---&#65279;LotRII*** 
 > 
 
 ### _Middle-earth Challenge Decks_
@@ -36,5 +39,8 @@ permalink: /cards/above-the-abyss/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable on a tapped non-Ringwraith character if your opponent is a Wizard and Ringwraith is in play. Untap target character. <br>_“...in the dark they could not see a descent, until they came on it and put their feet out into emptiness."_ ***---&#65279;LotRII*** 
+> > Playable on a tapped non-Ringwraith character if your opponent is a Wizard and Ringwraith is in play. Untap target character. 
+> > 
+> > {: .fs-3 } 
+> > _“...in the dark they could not see a descent, until they came on it and put their feet out into emptiness."_ ***---&#65279;LotRII*** 
 > 

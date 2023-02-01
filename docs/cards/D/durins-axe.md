@@ -22,7 +22,10 @@ permalink: /cards/durins-axe/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ _Weapon._ +2 prowess (+4 if held by a Dwarf) to a maximum of 9. If held by a Dwarf, 4 marshalling points and 3 corruptions points. <br>_"Durin is the name that the Dwarves use for the eldest of the Seven Fathers of their race, and the ancestor of all the kings of the Longbeards."_ ***---&#65279;LotRVI*** 
+> > _Unique._ _Weapon._ +2 prowess (+4 if held by a Dwarf) to a maximum of 9. If held by a Dwarf, 4 marshalling points and 3 corruptions points. 
+> > 
+> > {: .fs-3 } 
+> > _“Durin is the name that the Dwarves use for the eldest of the Seven Fathers of their race, and the ancestor of all the kings of the Longbeards."_ ***---&#65279;LotRVI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +2(4)/&ndash; 】</div>
@@ -39,7 +42,10 @@ permalink: /cards/durins-axe/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ _Weapon._ +2 prowess (+4 if held by a Dwarf) to a maximum of 9. If held by a Dwarf, 4 marshalling points and 3 corruptions points. <br>_"Durin is the name that the Dwarves use for the eldest of the Seven Fathers of their race, and the ancestor of all the kings of the Longbeards."_ ***---&#65279;LotRVI*** 
+> > _Unique._ _Weapon._ +2 prowess (+4 if held by a Dwarf) to a maximum of 9. If held by a Dwarf, 4 marshalling points and 3 corruptions points. 
+> > 
+> > {: .fs-3 } 
+> > _“Durin is the name that the Dwarves use for the eldest of the Seven Fathers of their race, and the ancestor of all the kings of the Longbeards."_ ***---&#65279;LotRVI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +2(4)/&ndash; 】</div>
@@ -56,7 +62,10 @@ permalink: /cards/durins-axe/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Weapon._ +2 prowess (+4 if held by a Dwarf) to a maximum of 9. If held by a Dwarf, 4 marshalling points and 3 corruptions points. <br>_"Durin is the name that the Dwarves use for the eldest of the Seven Fathers of their race, and the ancestor of all the kings of the Longbeards."_ ***---&#65279;LotRVI*** 
+> > _**Unique.**_ _Weapon._ +2 prowess (+4 if held by a Dwarf) to a maximum of 9. If held by a Dwarf, 4 marshalling points and 3 corruptions points. 
+> > 
+> > {: .fs-3 } 
+> > _“Durin is the name that the Dwarves use for the eldest of the Seven Fathers of their race, and the ancestor of all the kings of the Longbeards."_ ***---&#65279;LotRVI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +2(4)/&ndash; 】</div>

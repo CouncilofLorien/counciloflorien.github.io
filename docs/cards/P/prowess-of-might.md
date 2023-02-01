@@ -22,5 +22,8 @@ permalink: /cards/prowess-of-might/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > A Dragon attack is modified by +1 to prowess and +1 to body. Alternatively, an attack by a manifestation of Scatha is modified by +2 to prowess and +2 to body. <br>_“‘I am armoured above and below with iron scales and hard gems. No blade can pierce me.’”_ ***---&#65279;Hob*** 
+> > A Dragon attack is modified by +1 to prowess and +1 to body. Alternatively, an attack by a manifestation of Scatha is modified by +2 to prowess and +2 to body. 
+> > 
+> > {: .fs-3 } 
+> > _“‘I am armoured above and below with iron scales and hard gems. No blade can pierce me.’”_ ***---&#65279;Hob*** 
 >

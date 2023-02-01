@@ -22,7 +22,10 @@ permalink: /cards/sword-of-gondolin/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Weapon._ Warrior only. +2 prowess to a maximum of 8. <br>_“‘They are old swords, very old swords of the High Elves of the West, my kin. They were made in Gondolin for the Goblin-wars.’”_ ***---&#65279;Hob*** 
+> > _Weapon._ Warrior only. +2 prowess to a maximum of 8. 
+> > 
+> > {: .fs-3 } 
+> > _“‘They are old swords, very old swords of the High Elves of the West, my kin. They were made in Gondolin for the Goblin-wars.’”_ ***---&#65279;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +2/&ndash; 】</div>
@@ -39,7 +42,10 @@ permalink: /cards/sword-of-gondolin/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Weapon._ Warrior only. +2 prowess to a maximum of 8. <br>_“‘They are old swords, very old swords of the High Elves of the West, my kin. They were made in Gondolin for the Goblin-wars.’”_ ***---&#65279;Hob*** 
+> > _Weapon._ Warrior only. +2 prowess to a maximum of 8. 
+> > 
+> > {: .fs-3 } 
+> > _“‘They are old swords, very old swords of the High Elves of the West, my kin. They were made in Gondolin for the Goblin-wars.’”_ ***---&#65279;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +2/&ndash; 】</div>
@@ -56,7 +62,10 @@ permalink: /cards/sword-of-gondolin/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Weapon._ Warrior only. +2 prowess to a maximum of 8. <br>_“‘They are old swords, very old swords of the High Elves of the West, my kin. They were made in Gondolin for the Goblin-wars.’”_ ***---&#65279;Hob*** 
+> > _Weapon._ Warrior only. +2 prowess to a maximum of 8. 
+> > 
+> > {: .fs-3 } 
+> > _“‘They are old swords, very old swords of the High Elves of the West, my kin. They were made in Gondolin for the Goblin-wars.’”_ ***---&#65279;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +2/&ndash; 】</div>
@@ -73,7 +82,10 @@ permalink: /cards/sword-of-gondolin/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Weapon._ Warrior only. +2 prowess to a maximum of 8. <br>_“‘They are old swords, very old swords of the High Elves of the West, my kin. They were made in Gondolin for the Goblin-wars.’”_ ***---&#65279;Hob*** 
+> > _Weapon._ Warrior only. +2 prowess to a maximum of 8. 
+> > 
+> > {: .fs-3 } 
+> > _“‘They are old swords, very old swords of the High Elves of the West, my kin. They were made in Gondolin for the Goblin-wars.’”_ ***---&#65279;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +2/&ndash; 】</div>

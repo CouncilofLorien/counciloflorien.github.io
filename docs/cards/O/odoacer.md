@@ -25,7 +25,13 @@ permalink: /cards/odoacer/
 > Ranger Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ +3 direct influence against the Woodmen faction. <br>_“...as the shadow grew deep in Greenwood...many evil things reappeared, signs of the arising of Sauron."_ ***---&#65279;LotR***  <br><br>**Home Site:** Woodmen-town 
+> > _**Unique.**_ +3 direct influence against the Woodmen faction. 
+> > 
+> > {: .fs-3 } 
+> > _“...as the shadow grew deep in Greenwood...many evil things reappeared, signs of the arising of Sauron."_ ***---&#65279;LotR***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Woodmen-town 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 4/6 】</div>
@@ -45,7 +51,13 @@ permalink: /cards/odoacer/
 > Ranger Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ +3 direct influence against the Woodmen faction. <br>_“...as the shadow grew deep in Greenwood...many evil things reappeared, signs of the arising of Sauron."_ ***---&#65279;LotR***  <br><br>**Home Site:** Woodmen-town 
+> > _**Unique.**_ +3 direct influence against the Woodmen faction. 
+> > 
+> > {: .fs-3 } 
+> > _“...as the shadow grew deep in Greenwood...many evil things reappeared, signs of the arising of Sauron."_ ***---&#65279;LotR***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Woodmen-town 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 4/6 】</div>

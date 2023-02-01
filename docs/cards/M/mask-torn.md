@@ -22,5 +22,8 @@ permalink: /cards/mask-torn/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Fallen-wizards may not bring characters with more than 4 mind into play. If a Fallen-wizard has more than 9 stage points, he may not bring characters with more than 3 mind into play. Discard when any play deck is exhausted. <br>_“...they smiled, as men do who see through a juggler's trick while others gape at it."_ ***---&#65279;LotRIII*** 
+> > Fallen-wizards may not bring characters with more than 4 mind into play. If a Fallen-wizard has more than 9 stage points, he may not bring characters with more than 3 mind into play. Discard when any play deck is exhausted. 
+> > 
+> > {: .fs-3 } 
+> > _“...they smiled, as men do who see through a juggler's trick while others gape at it."_ ***---&#65279;LotRIII*** 
 >

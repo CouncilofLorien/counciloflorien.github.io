@@ -25,7 +25,13 @@ permalink: /cards/orc-veteran/
 > Warrior Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > Discard on a body check result of 8. -1 to all corruption checks. <br>_“...tough thick legs going up and down, up and down, unresting, as if they were made of wire and horn, beating out the nightmare seconds of an endless time."_ ***---&#65279;LotRIII***  <br><br>**Home Site:** Any Dark-hold 
+> > Discard on a body check result of 8. -1 to all corruption checks. 
+> > 
+> > {: .fs-3 } 
+> > _“...tough thick legs going up and down, up and down, unresting, as if they were made of wire and horn, beating out the nightmare seconds of an endless time."_ ***---&#65279;LotRIII***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Any Dark-hold 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 4/8 】</div>
@@ -45,7 +51,13 @@ permalink: /cards/orc-veteran/
 > Warrior Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > Discard on a body check result of 8. -1 to all corruption checks. <br>_“...tough thick legs going up and down, up and down, unresting, as if they were made of wire and horn, beating out the nightmare seconds of an endless time."_ ***---&#65279;LotRIII***  <br><br>**Home Site:** Any Dark-hold 
+> > Discard on a body check result of 8. -1 to all corruption checks. 
+> > 
+> > {: .fs-3 } 
+> > _“...tough thick legs going up and down, up and down, unresting, as if they were made of wire and horn, beating out the nightmare seconds of an endless time."_ ***---&#65279;LotRIII***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Any Dark-hold 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 4/8 】</div>
@@ -65,7 +77,13 @@ permalink: /cards/orc-veteran/
 > Warrior Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > Discard on a body check result of 8. -1 to all corruption checks. <br>_“...tough thick legs going up and down, up and down, unresting, as if they were made of wire and horn, beating out the nightmare seconds of an endless time."_ ***---&#65279;LotRIII***  <br><br>**Home Site:** Any Dark-hold 
+> > Discard on a body check result of 8. -1 to all corruption checks. 
+> > 
+> > {: .fs-3 } 
+> > _“...tough thick legs going up and down, up and down, unresting, as if they were made of wire and horn, beating out the nightmare seconds of an endless time."_ ***---&#65279;LotRIII***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Any Dark-hold 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 4/8 】</div>

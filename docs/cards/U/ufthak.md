@@ -25,7 +25,13 @@ permalink: /cards/ufthak/
 > Warrior/Scout/Ranger Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ _Uruk-hai._ Discard on a body check result of 8. <br>_“‘Then we found him in a corner; hanging up he was, but he was wide awake and glaring.’”_ ***---&#65279;LotRIV***  <br><br>**Home Site:** Any site in Imlad Morgul 
+> > _**Unique.**_ _Uruk-hai._ Discard on a body check result of 8. 
+> > 
+> > {: .fs-3 } 
+> > _“‘Then we found him in a corner; hanging up he was, but he was wide awake and glaring.’”_ ***---&#65279;LotRIV***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Any site in Imlad Morgul 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 4/8 】</div>
@@ -45,7 +51,13 @@ permalink: /cards/ufthak/
 > Warrior/Scout/Ranger Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ _Uruk-hai._ Discard on a body check result of 8. <br>_“‘Then we found him in a corner; hanging up he was, but he was wide awake and glaring.’”_ ***---&#65279;LotRIV***  <br><br>**Home Site:** Any site in Imlad Morgul 
+> > _**Unique.**_ _Uruk-hai._ Discard on a body check result of 8. 
+> > 
+> > {: .fs-3 } 
+> > _“‘Then we found him in a corner; hanging up he was, but he was wide awake and glaring.’”_ ***---&#65279;LotRIV***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Any site in Imlad Morgul 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 4/8 】</div>

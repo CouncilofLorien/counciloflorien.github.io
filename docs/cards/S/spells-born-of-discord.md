@@ -25,5 +25,8 @@ permalink: /cards/spells-born-of-discord/
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > Your Fallen-wizard may use sorcery, spirit-magic, and shadow-magic. Cannot be duplicated by a given player.   <br>_“‘I once knew every spell in all the tongues of Elves or Men or Orcs...’”_ ***---&#65279;LotRII*** 
+> > Your Fallen-wizard may use sorcery, spirit-magic, and shadow-magic. Cannot be duplicated by a given player.   
+> > 
+> > {: .fs-3 } 
+> > _“‘I once knew every spell in all the tongues of Elves or Men or Orcs...’”_ ***---&#65279;LotRII*** 
 > 

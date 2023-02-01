@@ -25,7 +25,13 @@ permalink: /cards/imrahil/
 > Warrior/Diplomat Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Knights of Dol Amroth faction. <br>_“...Prince of Dol Amroth, kinsman of the Lord, with gilded banners bearing his token of the Ship and the Silver Swan...grey-eyed, dark-haired...”_ ***---&#65279;LotRV***  <br><br>**Home Site:** Dol Amroth 
+> > _**Unique.**_ +2 direct influence against the Knights of Dol Amroth faction. 
+> > 
+> > {: .fs-3 } 
+> > _“...Prince of Dol Amroth, kinsman of the Lord, with gilded banners bearing his token of the Ship and the Silver Swan...grey-eyed, dark-haired...”_ ***---&#65279;LotRV***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Dol Amroth 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 5/8 】</div>
@@ -45,7 +51,13 @@ permalink: /cards/imrahil/
 > Warrior/Diplomat Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Knights of Dol Amroth faction. <br>_“...Prince of Dol Amroth, kinsman of the Lord, with gilded banners bearing his token of the Ship and the Silver Swan...grey-eyed, dark-haired...”_ ***---&#65279;LotRV***  <br><br>**Home Site:** Dol Amroth 
+> > _**Unique.**_ +2 direct influence against the Knights of Dol Amroth faction. 
+> > 
+> > {: .fs-3 } 
+> > _“...Prince of Dol Amroth, kinsman of the Lord, with gilded banners bearing his token of the Ship and the Silver Swan...grey-eyed, dark-haired...”_ ***---&#65279;LotRV***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Dol Amroth 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 5/8 】</div>
@@ -65,7 +77,13 @@ permalink: /cards/imrahil/
 > Warrior/Diplomat Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Knights of Dol Amroth faction. <br>_“...Prince of Dol Amroth, kinsman of the Lord, with gilded banners bearing his token of the Ship and the Silver Swan...grey-eyed, dark-haired...”_ ***---&#65279;LotRV***  <br><br>**Home Site:** Dol Amroth 
+> > _**Unique.**_ +2 direct influence against the Knights of Dol Amroth faction. 
+> > 
+> > {: .fs-3 } 
+> > _“...Prince of Dol Amroth, kinsman of the Lord, with gilded banners bearing his token of the Ship and the Silver Swan...grey-eyed, dark-haired...”_ ***---&#65279;LotRV***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Dol Amroth 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 5/8 】</div>

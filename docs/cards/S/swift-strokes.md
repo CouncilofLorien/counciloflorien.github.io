@@ -22,7 +22,10 @@ permalink: /cards/swift-strokes/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Warrior only._ Warrior receives +1 prowess against one strike and obtains two random values against it, choosing the one to use.   <br>_“...Ugluk sprang forwards, and with two swift strokes swept the heads off two of his opponents."_ ***---&#65279;LotRIII*** 
+> > _Warrior only._ Warrior receives +1 prowess against one strike and obtains two random values against it, choosing the one to use.   
+> > 
+> > {: .fs-3 } 
+> > _“...Ugluk sprang forwards, and with two swift strokes swept the heads off two of his opponents."_ ***---&#65279;LotRIII*** 
 > 
 
 ### _Middle-earth Challenge Decks_
@@ -36,7 +39,10 @@ permalink: /cards/swift-strokes/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Warrior only._ Warrior receives +1 prowess against one strike and obtains two random values against it, choosing the one to use.   <br>_“...Ugluk sprang forwards, and with two swift strokes swept the heads off two of his opponents."_ ***---&#65279;LotRIII*** 
+> > _Warrior only._ Warrior receives +1 prowess against one strike and obtains two random values against it, choosing the one to use.   
+> > 
+> > {: .fs-3 } 
+> > _“...Ugluk sprang forwards, and with two swift strokes swept the heads off two of his opponents."_ ***---&#65279;LotRIII*** 
 > 
 
 ### _Middle-earth: The Balrog Reprint_
@@ -50,5 +56,8 @@ permalink: /cards/swift-strokes/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Warrior only._ Warrior receives +1 prowess against one strike and obtains two random values against it, choosing the one to use.   <br>_“...Ugluk sprang forwards, and with two swift strokes swept the heads off two of his opponents."_ ***---&#65279;LotRIII*** 
+> > _Warrior only._ Warrior receives +1 prowess against one strike and obtains two random values against it, choosing the one to use.   
+> > 
+> > {: .fs-3 } 
+> > _“...Ugluk sprang forwards, and with two swift strokes swept the heads off two of his opponents."_ ***---&#65279;LotRIII*** 
 > 

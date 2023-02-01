@@ -25,5 +25,8 @@ permalink: /cards/half-orcs/
 > Orc Faction
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > Playable at one of your protected Wizardhavens \[![](/assets/images/free-haven.svg)] (if tapped or untapped) if the influence check is greater than 9.   <br>_“‘...others that were horrible: man-high, but with goblin-faces, sallow, leering, squint-eyed...they reminded me at once of that Southerner at Bree...’”_ ***---&#65279;LotRIII*** 
+> > Playable at one of your protected Wizardhavens \[![](/assets/images/free-haven.svg)] (if tapped or untapped) if the influence check is greater than 9.   
+> > 
+> > {: .fs-3 } 
+> > _“‘...others that were horrible: man-high, but with goblin-faces, sallow, leering, squint-eyed...they reminded me at once of that Southerner at Bree...’”_ ***---&#65279;LotRIII*** 
 > 

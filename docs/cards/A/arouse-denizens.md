@@ -22,7 +22,10 @@ permalink: /cards/arouse-denizens/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The prowess of one automatic-attack at a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] site is increased by 3 until the end of turn. <br>&ensp;Cannot be duplicated at a given site. <br>_“...the goblin army had gathered behind the resisted vanguard, and poured now in rage into the valley...”_ ***---&#65279;Hob*** 
+> > The prowess of one automatic-attack at a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] site is increased by 3 until the end of turn. <br>&ensp;Cannot be duplicated at a given site. 
+> > 
+> > {: .fs-3 } 
+> > _“...the goblin army had gathered behind the resisted vanguard, and poured now in rage into the valley...”_ ***---&#65279;Hob*** 
 >
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,7 +39,10 @@ permalink: /cards/arouse-denizens/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The prowess of one automatic-attack at a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] site is increased by 3 until the end of turn. <br>&ensp;Cannot be duplicated at a given site. <br>_“...the goblin army had gathered behind the resisted vanguard, and poured now in rage into the valley...”_ ***---&#65279;Hob*** 
+> > The prowess of one automatic-attack at a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] site is increased by 3 until the end of turn. <br>&ensp;Cannot be duplicated at a given site. 
+> > 
+> > {: .fs-3 } 
+> > _“...the goblin army had gathered behind the resisted vanguard, and poured now in rage into the valley...”_ ***---&#65279;Hob*** 
 >
 
 ### _Middle-earth: The Lidless Eye_
@@ -50,5 +56,8 @@ permalink: /cards/arouse-denizens/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a Ruins & Lairs \[![](/assets/images/ruinlair.svg)]. This turn, the prowess of one automatic-attack (your choice) at target site is increased by 3. <br>&ensp;Cannot be duplicated on a given site. <br>_“...hundreds of black bears dancing slow heavy dances round and round in the moonlight...”_ ***---&#65279;Hob*** 
+> > Playable on a Ruins & Lairs \[![](/assets/images/ruinlair.svg)]. This turn, the prowess of one automatic-attack (your choice) at target site is increased by 3. <br>&ensp;Cannot be duplicated on a given site. 
+> > 
+> > {: .fs-3 } 
+> > _“...hundreds of black bears dancing slow heavy dances round and round in the moonlight...”_ ***---&#65279;Hob*** 
 >

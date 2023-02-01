@@ -22,5 +22,8 @@ permalink: /cards/far-below-the-deepest-delvings/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable during the movement/hazard phase on a company moving to an Under-deeps site. At the end of its movement/hazard phase, target company attempts to move to an additional site. Another site card is played and another movement/hazard phase immediately follows. <br>_“‘Far, far below the deepest delvings of the Dwarves, the world is gnawed by nameless things.’”_ ***---&#65279;LotRIII*** 
+> > Playable during the movement/hazard phase on a company moving to an Under-deeps site. At the end of its movement/hazard phase, target company attempts to move to an additional site. Another site card is played and another movement/hazard phase immediately follows. 
+> > 
+> > {: .fs-3 } 
+> > _“‘Far, far below the deepest delvings of the Dwarves, the world is gnawed by nameless things.’”_ ***---&#65279;LotRIII*** 
 > 

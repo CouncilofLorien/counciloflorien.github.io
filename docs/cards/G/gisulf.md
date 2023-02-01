@@ -25,7 +25,13 @@ permalink: /cards/gisulf/
 > Warrior/Ranger Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ Agent. <br>_"Moving like a spry deer, old Gisulf the Woodman ran hard to his home in Woodmen-town. But a dark pact compelled him to shield his kinsmen from the grave news of Shadows haunting the sacred grove around Watchman's Well."_ ***---&#65279;Kuduk Lore***  <br><br>**Home Site:** Woodmen-town, Lake-town, Dale  
+> > _**Unique.**_ Agent. 
+> > 
+> > {: .fs-3 } 
+> > _“Moving like a spry deer, old Gisulf the Woodman ran hard to his home in Woodmen-town. But a dark pact compelled him to shield his kinsmen from the grave news of Shadows haunting the sacred grove around Watchman's Well."_ ***---&#65279;Kuduk Lore***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Woodmen-town, Lake-town, Dale  
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 5/7 】</div>

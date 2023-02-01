@@ -25,7 +25,10 @@ permalink: /cards/the-stones/
 > Andrast
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Pukel-creature - 2 strikes with 9 prowess  <br>_"Gold was piled on the biers of dead kings and queens; and mounds covered them, and the stone doors were shut; and grass grew over all."_ ***---&#65279;LotRI*** 
+> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Pukel-creature - 2 strikes with 9 prowess  
+> > 
+> > {: .fs-3 } 
+> > _“Gold was piled on the biers of dead kings and queens; and mounds covered them, and the stone doors were shut; and grass grew over all."_ ***---&#65279;LotRI*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -45,7 +48,10 @@ permalink: /cards/the-stones/
 > Andrast
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Pukel-creature - 2 strikes with 9 prowess  <br>_"Gold was piled on the biers of dead kings and queens; and mounds covered them, and the stone doors were shut; and grass grew over all."_ ***---&#65279;LotRI*** 
+> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Pukel-creature - 2 strikes with 9 prowess  
+> > 
+> > {: .fs-3 } 
+> > _“Gold was piled on the biers of dead kings and queens; and mounds covered them, and the stone doors were shut; and grass grew over all."_ ***---&#65279;LotRI*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -65,7 +71,10 @@ permalink: /cards/the-stones/
 > Andrast
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Geann a-Lisch <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Pukel-creature - 2 strikes with 9 prowess  <br>_“...suddenly he saw, towering ominously before him and leaning towards one other like the pillars of a headless door...huge standing stones."_ ***---&#65279;LotRII*** 
+> > Nearest Darkhaven: Geann a-Lisch <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Pukel-creature - 2 strikes with 9 prowess  
+> > 
+> > {: .fs-3 } 
+> > _“...suddenly he saw, towering ominously before him and leaning towards one other like the pillars of a headless door...huge standing stones."_ ***---&#65279;LotRII*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>

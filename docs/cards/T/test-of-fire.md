@@ -22,5 +22,8 @@ permalink: /cards/test-of-fire/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Sage only._ Play to test a gold ring in a sage's company. <br>_"The Ring misseth, maybe, the heat of Sauron's hand, which was black and yet burned like fire...”_ ***---&#65279;LotRII*** 
+> > _Sage only._ Play to test a gold ring in a sage's company. 
+> > 
+> > {: .fs-3 } 
+> > _“The Ring misseth, maybe, the heat of Sauron's hand, which was black and yet burned like fire...”_ ***---&#65279;LotRII*** 
 > 

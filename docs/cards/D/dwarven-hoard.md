@@ -22,5 +22,8 @@ permalink: /cards/dwarven-hoard/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Tap a Dwarf at a Dark-hold \[![](/assets/images/dark-hold.svg)] or Shadow-hold \[![](/assets/images/shadow-hold.svg)]. The site is considered to contain a hoard until the end of turn.   <br>_“...they lifted old treasures from the mound or from the wall and held them in the light, caressing and fingering them."_ ***---&#65279;Hob*** 
+> > Tap a Dwarf at a Dark-hold \[![](/assets/images/dark-hold.svg)] or Shadow-hold \[![](/assets/images/shadow-hold.svg)]. The site is considered to contain a hoard until the end of turn.   
+> > 
+> > {: .fs-3 } 
+> > _“...they lifted old treasures from the mound or from the wall and held them in the light, caressing and fingering them."_ ***---&#65279;Hob*** 
 > 

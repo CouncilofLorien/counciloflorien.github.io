@@ -25,7 +25,10 @@ permalink: /cards/akhorahil-the-ringwraith/
 > Sage Ringwraith
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ Manifestation of Akhorahil. Can use sorcery, sprit-magic, and shadow-magic. +3 direct influence in Heralded Lord mode. +1 prowess in Fell Rider mode. As your Ringwraith, when he uses a magic card, return it to the play deck and reshuffle.   <br><br>**Home Site:** Any site in Nurn 
+> > _**Unique.**_ Manifestation of Akhorahil. Can use sorcery, sprit-magic, and shadow-magic. +3 direct influence in Heralded Lord mode. +1 prowess in Fell Rider mode. As your Ringwraith, when he uses a magic card, return it to the play deck and reshuffle.   
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Any site in Nurn 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 8/9 】</div>

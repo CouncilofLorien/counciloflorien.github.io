@@ -22,5 +22,8 @@ permalink: /cards/some-secret-art-of-flame/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Magic._ _Sorcery._ Playable on a sorcery-using character facing an attack. +4 prowess for the character against the attack. Unless he is a Ringwraith, character makes a corruption check modified by -4. Cannot be duplicated against a given attack.   <br>_“...and many of them by some secret art burst into flame as they came toppling down."_ ***---&#65279;LotRI*** 
+> > _Magic._ _Sorcery._ Playable on a sorcery-using character facing an attack. +4 prowess for the character against the attack. Unless he is a Ringwraith, character makes a corruption check modified by -4. Cannot be duplicated against a given attack.   
+> > 
+> > {: .fs-3 } 
+> > _“...and many of them by some secret art burst into flame as they came toppling down."_ ***---&#65279;LotRI*** 
 > 

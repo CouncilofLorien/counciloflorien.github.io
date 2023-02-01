@@ -22,7 +22,10 @@ permalink: /cards/torque-of-hues/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ Tap _Torque of Hues_ and its bearer to cancel an attack against his company. Bearer makes a corruption attack. <br>_“...and if he moved they shimmered and changed hue so that the eye was bewildered."_ ***---&#65279;LotRII*** 
+> > _Unique._ Tap _Torque of Hues_ and its bearer to cancel an attack against his company. Bearer makes a corruption attack. 
+> > 
+> > {: .fs-3 } 
+> > _“...and if he moved they shimmered and changed hue so that the eye was bewildered."_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -39,7 +42,10 @@ permalink: /cards/torque-of-hues/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ Tap _Torque of Hues_ and its bearer to cancel an attack against his company. Bearer makes a corruption attack. <br>_“...and if he moved they shimmered and changed hue so that the eye was bewildered."_ ***---&#65279;LotRII*** 
+> > _Unique._ Tap _Torque of Hues_ and its bearer to cancel an attack against his company. Bearer makes a corruption attack. 
+> > 
+> > {: .fs-3 } 
+> > _“...and if he moved they shimmered and changed hue so that the eye was bewildered."_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -56,7 +62,10 @@ permalink: /cards/torque-of-hues/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ Tap _Torque of Hues_ and its bearer to cancel an attack against his company. Bearer makes a corruption attack. <br>_“...and if he moved they shimmered and changed hue so that the eye was bewildered."_ ***---&#65279;LotRII*** 
+> > _Unique._ Tap _Torque of Hues_ and its bearer to cancel an attack against his company. Bearer makes a corruption attack. 
+> > 
+> > {: .fs-3 } 
+> > _“...and if he moved they shimmered and changed hue so that the eye was bewildered."_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

@@ -22,7 +22,10 @@ permalink: /cards/leucaruth-at-home/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ Unless Leucaruth Ahunt is in play, Irerock has an additional automatic-attack: Dragon-2 strikes at 17/8. In addition, only one unique Dragon manifestation may be played per turn. <br>_“...the dreadful echoes, from far down in the depths, of a bellowing and a trampling that made the ground beneath them tremble."_ ***---&#65279;Hob*** 
+> > _**Unique.**_ Unless Leucaruth Ahunt is in play, Irerock has an additional automatic-attack: Dragon-2 strikes at 17/8. In addition, only one unique Dragon manifestation may be played per turn. 
+> > 
+> > {: .fs-3 } 
+> > _“...the dreadful echoes, from far down in the depths, of a bellowing and a trampling that made the ground beneath them tremble."_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 17/8 】</div>

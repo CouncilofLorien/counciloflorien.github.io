@@ -25,7 +25,13 @@ permalink: /cards/doeth-(durthak)/
 > Warrior/Sage Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ _Half-orc._ Discard on a body check result of 9.   <br>_“‘Go and ask Ferny where your handsome friend is!’”_ ***---&#65279;LotRI***  <br><br>**Home Site:** Any Dark-hold 
+> > _**Unique.**_ _Half-orc._ Discard on a body check result of 9.   
+> > 
+> > {: .fs-3 } 
+> > _“‘Go and ask Ferny where your handsome friend is!’”_ ***---&#65279;LotRI***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Any Dark-hold 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 4/9 】</div>

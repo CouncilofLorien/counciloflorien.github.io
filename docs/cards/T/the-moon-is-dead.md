@@ -22,7 +22,10 @@ permalink: /cards/the-moon-is-dead/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > All Undead attacks receive +1 strike and +1 prowess. All Undead automatic-attacks are duplicated (i.e., each must be faced twice, including all modifications). Discard this card when an Undead attack is defeated. Cannot be duplicated. <br>_"Cold be hand and heart and bone...till the Sun fails and the Moon is dead."_ ***---&#65279;LotRI***  
+> > All Undead attacks receive +1 strike and +1 prowess. All Undead automatic-attacks are duplicated (i.e., each must be faced twice, including all modifications). Discard this card when an Undead attack is defeated. Cannot be duplicated. 
+> > 
+> > {: .fs-3 } 
+> > _“Cold be hand and heart and bone...till the Sun fails and the Moon is dead."_ ***---&#65279;LotRI***  
 >
 
 ### _Middle-earth Challenge Decks_
@@ -36,5 +39,8 @@ permalink: /cards/the-moon-is-dead/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > All Undead attacks receive +1 strike and +1 prowess. All Undead automatic-attacks are duplicated (i.e., each must be faced twice, including all modifications). Discard this card when an Undead attack is defeated. Cannot be duplicated. <br>_"Cold be hand and heart and bone...till the Sun fails and the Moon is dead."_ ***---&#65279;LotRI***  
+> > All Undead attacks receive +1 strike and +1 prowess. All Undead automatic-attacks are duplicated (i.e., each must be faced twice, including all modifications). Discard this card when an Undead attack is defeated. Cannot be duplicated. 
+> > 
+> > {: .fs-3 } 
+> > _“Cold be hand and heart and bone...till the Sun fails and the Moon is dead."_ ***---&#65279;LotRI***  
 >

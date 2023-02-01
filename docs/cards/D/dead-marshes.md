@@ -25,7 +25,10 @@ permalink: /cards/dead-marshes/
 > Dagorlad
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Undead - 2 strikes with 8 prowess; each character wounded must make a corruption check  <br>_“...opening into wide stagnant meres,...difficult to find the firmer places...”_ ***---&#65279;LotRIV*** 
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Undead - 2 strikes with 8 prowess; each character wounded must make a corruption check  
+> > 
+> > {: .fs-3 } 
+> > _“...opening into wide stagnant meres,...difficult to find the firmer places...”_ ***---&#65279;LotRIV*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -45,7 +48,10 @@ permalink: /cards/dead-marshes/
 > Dagorlad
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Undead - 2 strikes with 8 prowess; each character wounded must make a corruption check  <br>_“...opening into wide stagnant meres,...difficult to find the firmer places...”_ ***---&#65279;LotRIV*** 
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Undead - 2 strikes with 8 prowess; each character wounded must make a corruption check  
+> > 
+> > {: .fs-3 } 
+> > _“...opening into wide stagnant meres,...difficult to find the firmer places...”_ ***---&#65279;LotRIV*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -65,7 +71,10 @@ permalink: /cards/dead-marshes/
 > Dagorlad
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Undead - 2 strikes with 8 prowess; each character wounded must make a corruption check modified by -2 <br>_**Special:**_ Non-Nazgul creatures played at the site attack normally, not as detainment.   <br>_“‘...the Marshes have grown...swallowed up the graves...always creeping, creeping.’”_ ***---&#65279;LotRIV*** 
+> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Undead - 2 strikes with 8 prowess; each character wounded must make a corruption check modified by -2 <br>_**Special:**_ Non-Nazgul creatures played at the site attack normally, not as detainment.   
+> > 
+> > {: .fs-3 } 
+> > _“‘...the Marshes have grown...swallowed up the graves...always creeping, creeping.’”_ ***---&#65279;LotRIV*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -85,7 +94,10 @@ permalink: /cards/dead-marshes/
 > Dagorlad
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Undead - 2 strikes with 8 prowess; each character wounded must make a corruption check  <br>_“...opening into wide stagnant meres,...difficult to find the firmer places...”_ ***---&#65279;LotRIV*** 
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Undead - 2 strikes with 8 prowess; each character wounded must make a corruption check  
+> > 
+> > {: .fs-3 } 
+> > _“...opening into wide stagnant meres,...difficult to find the firmer places...”_ ***---&#65279;LotRIV*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -105,7 +117,10 @@ permalink: /cards/dead-marshes/
 > Dagorlad
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Undead - 2 strikes with 8 prowess; each character wounded must make a corruption check modified by -2 <br>_**Special:**_ Non-Nazgul creatures played at the site attack normally, not as detainment.   <br>_“‘...the Marshes have grown...swallowed up the graves...always creeping, creeping.’”_ ***---&#65279;LotRIV*** 
+> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Undead - 2 strikes with 8 prowess; each character wounded must make a corruption check modified by -2 <br>_**Special:**_ Non-Nazgul creatures played at the site attack normally, not as detainment.   
+> > 
+> > {: .fs-3 } 
+> > _“‘...the Marshes have grown...swallowed up the graves...always creeping, creeping.’”_ ***---&#65279;LotRIV*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -125,7 +140,10 @@ permalink: /cards/dead-marshes/
 > Dagorlad
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Undead - 2 strikes with 8 prowess; each character wounded must make a corruption check modified by -2 <br>_**Special:**_ Non-Nazgul creatures played at the site attack normally, not as detainment.   <br>_“‘...the Marshes have grown...swallowed up the graves...always creeping, creeping.’”_ ***---&#65279;LotRIV*** 
+> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Undead - 2 strikes with 8 prowess; each character wounded must make a corruption check modified by -2 <br>_**Special:**_ Non-Nazgul creatures played at the site attack normally, not as detainment.   
+> > 
+> > {: .fs-3 } 
+> > _“‘...the Marshes have grown...swallowed up the graves...always creeping, creeping.’”_ ***---&#65279;LotRIV*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>

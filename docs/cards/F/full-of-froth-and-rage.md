@@ -22,7 +22,10 @@ permalink: /cards/full-of-froth-and-rage/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > All Spider and Animal attacks receive +2 prowess. Discard if a Spider or Animal attack is defeated. Cannot be duplicated.   <br>_“...hairy legs waving, nippers and spinners snapping, eyes, popping, full of froth and rage."_ ***---&#65279;Hob*** 
+> > All Spider and Animal attacks receive +2 prowess. Discard if a Spider or Animal attack is defeated. Cannot be duplicated.   
+> > 
+> > {: .fs-3 } 
+> > _“...hairy legs waving, nippers and spinners snapping, eyes, popping, full of froth and rage."_ ***---&#65279;Hob*** 
 >
 
 ### _Middle-earth Challenge Decks_
@@ -36,7 +39,10 @@ permalink: /cards/full-of-froth-and-rage/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > All Spider and Animal attacks receive +2 prowess. Discard if a Spider or Animal attack is defeated. Cannot be duplicated.   <br>_“...hairy legs waving, nippers and spinners snapping, eyes, popping, full of froth and rage."_ ***---&#65279;Hob*** 
+> > All Spider and Animal attacks receive +2 prowess. Discard if a Spider or Animal attack is defeated. Cannot be duplicated.   
+> > 
+> > {: .fs-3 } 
+> > _“...hairy legs waving, nippers and spinners snapping, eyes, popping, full of froth and rage."_ ***---&#65279;Hob*** 
 >
 
 ### _Middle-earth: The Balrog Reprint_
@@ -50,5 +56,8 @@ permalink: /cards/full-of-froth-and-rage/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > All Spider and Animal attacks receive +2 prowess. Discard if a Spider or Animal attack is defeated. Cannot be duplicated.   <br>_“...hairy legs waving, nippers and spinners snapping, eyes, popping, full of froth and rage."_ ***---&#65279;Hob*** 
+> > All Spider and Animal attacks receive +2 prowess. Discard if a Spider or Animal attack is defeated. Cannot be duplicated.   
+> > 
+> > {: .fs-3 } 
+> > _“...hairy legs waving, nippers and spinners snapping, eyes, popping, full of froth and rage."_ ***---&#65279;Hob*** 
 >

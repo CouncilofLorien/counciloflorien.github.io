@@ -22,5 +22,8 @@ permalink: /cards/into-dark-tunnels/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable at the end of the movement/hazard phase on a company that has moved to an Under-deeps site. That company may attempt to move to an additional site on the same turn. Another site card may be played and a movement/hazard phase immediately follows. <br>_“‘...there where fissures and chasms in the walls and floor...”_ ***---&#65279;LotRIII*** 
+> > Playable at the end of the movement/hazard phase on a company that has moved to an Under-deeps site. That company may attempt to move to an additional site on the same turn. Another site card may be played and a movement/hazard phase immediately follows. 
+> > 
+> > {: .fs-3 } 
+> > _“‘...there where fissures and chasms in the walls and floor...”_ ***---&#65279;LotRIII*** 
 > 

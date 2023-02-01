@@ -25,5 +25,8 @@ permalink: /cards/greater-half-orcs/
 > Orc Faction
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > Playable at one of your protected Wizardhavens \[![](/assets/images/free-haven.svg)] (if tapped or untapped) if you have A Strident Spawn and Half-orcs in play and if the influence check is greater than 11.   <br>_“‘We had many of these half-orcs to deal with at Helm's Deep.’”_ ***---&#65279;LotRIII*** 
+> > Playable at one of your protected Wizardhavens \[![](/assets/images/free-haven.svg)] (if tapped or untapped) if you have A Strident Spawn and Half-orcs in play and if the influence check is greater than 11.   
+> > 
+> > {: .fs-3 } 
+> > _“‘We had many of these half-orcs to deal with at Helm's Deep.’”_ ***---&#65279;LotRIII*** 
 > 

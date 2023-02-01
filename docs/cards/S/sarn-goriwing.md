@@ -25,7 +25,10 @@ permalink: /cards/sarn-goriwing/
 > Heart of Mirkwood
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 5 prowess  <br>_“...there, parting the tumbling waters of the Enchanted River, stood a shadowy spire that served as fast hold for those who would remake the great Greenwood."_ ***---&#65279;Kuduk Lore*** 
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 5 prowess  
+> > 
+> > {: .fs-3 } 
+> > _“...there, parting the tumbling waters of the Enchanted River, stood a shadowy spire that served as fast hold for those who would remake the great Greenwood."_ ***---&#65279;Kuduk Lore*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -45,7 +48,10 @@ permalink: /cards/sarn-goriwing/
 > Heart of Mirkwood
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 5 prowess  <br>_“...there, parting the tumbling waters of the Enchanted River, stood a shadowy spire that served as fast hold for those who would remake the great Greenwood."_ ***---&#65279;Kuduk Lore*** 
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 5 prowess  
+> > 
+> > {: .fs-3 } 
+> > _“...there, parting the tumbling waters of the Enchanted River, stood a shadowy spire that served as fast hold for those who would remake the great Greenwood."_ ***---&#65279;Kuduk Lore*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -65,7 +71,10 @@ permalink: /cards/sarn-goriwing/
 > Heart of Mirkwood
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 5 prowess  <br>_“...the doubled waters poured out again over high waterfalls and ran away hurriedly...”_ ***---&#65279;Hob*** 
+> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 5 prowess  
+> > 
+> > {: .fs-3 } 
+> > _“...the doubled waters poured out again over high waterfalls and ran away hurriedly...”_ ***---&#65279;Hob*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -85,7 +94,10 @@ permalink: /cards/sarn-goriwing/
 > Heart of Mirkwood
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 5 prowess  <br>_“...there, parting the tumbling waters of the Enchanted River, stood a shadowy spire that served as fast hold for those who would remake the great Greenwood."_ ***---&#65279;Kuduk Lore*** 
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 5 prowess  
+> > 
+> > {: .fs-3 } 
+> > _“...there, parting the tumbling waters of the Enchanted River, stood a shadowy spire that served as fast hold for those who would remake the great Greenwood."_ ***---&#65279;Kuduk Lore*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -105,7 +117,10 @@ permalink: /cards/sarn-goriwing/
 > Heart of Mirkwood
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 5 prowess  <br>_“...the doubled waters poured out again over high waterfalls and ran away hurriedly...”_ ***---&#65279;Hob*** 
+> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 5 prowess  
+> > 
+> > {: .fs-3 } 
+> > _“...the doubled waters poured out again over high waterfalls and ran away hurriedly...”_ ***---&#65279;Hob*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -125,7 +140,10 @@ permalink: /cards/sarn-goriwing/
 > Heart of Mirkwood
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 5 prowess  <br>_“...the doubled waters poured out again over high waterfalls and ran away hurriedly...”_ ***---&#65279;Hob*** 
+> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 5 prowess  
+> > 
+> > {: .fs-3 } 
+> > _“...the doubled waters poured out again over high waterfalls and ran away hurriedly...”_ ***---&#65279;Hob*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>

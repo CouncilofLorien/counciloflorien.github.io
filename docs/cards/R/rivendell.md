@@ -25,7 +25,10 @@ permalink: /cards/rivendell/
 > Rhudaur
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Site Path From Lorien: \[![](/assets/images/wilderness.svg)] \[![](/assets/images/border-land.svg)] \[![](/assets/images/wilderness.svg)] \[![](/assets/images/wilderness.svg)] Site Path From Grey Havens: \[![](/assets/images/free-domain.svg)] \[![](/assets/images/wilderness.svg)] \[![](/assets/images/wilderness.svg)]  <br>_“‘His house was perfect, whether you liked food, or sleep, or work, or story-telling, or singing, or just sitting and thinking best, or a pleasant mixture of them all. Evil things did not come into that valley.’”_ ***---&#65279;Hob*** 
+> > Site Path From Lorien: \[![](/assets/images/wilderness.svg)] \[![](/assets/images/border-land.svg)] \[![](/assets/images/wilderness.svg)] \[![](/assets/images/wilderness.svg)] Site Path From Grey Havens: \[![](/assets/images/free-domain.svg)] \[![](/assets/images/wilderness.svg)] \[![](/assets/images/wilderness.svg)]  
+> > 
+> > {: .fs-3 } 
+> > _“‘His house was perfect, whether you liked food, or sleep, or work, or story-telling, or singing, or just sitting and thinking best, or a pleasant mixture of them all. Evil things did not come into that valley.’”_ ***---&#65279;Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -45,7 +48,10 @@ permalink: /cards/rivendell/
 > Rhudaur
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Site Path From Lorien: \[![](/assets/images/wilderness.svg)] \[![](/assets/images/border-land.svg)] \[![](/assets/images/wilderness.svg)] \[![](/assets/images/wilderness.svg)] Site Path From Grey Havens: \[![](/assets/images/free-domain.svg)] \[![](/assets/images/wilderness.svg)] \[![](/assets/images/wilderness.svg)]  <br>_“‘His house was perfect, whether you liked food, or sleep, or work, or story-telling, or singing, or just sitting and thinking best, or a pleasant mixture of them all. Evil things did not come into that valley.’”_ ***---&#65279;Hob*** 
+> > Site Path From Lorien: \[![](/assets/images/wilderness.svg)] \[![](/assets/images/border-land.svg)] \[![](/assets/images/wilderness.svg)] \[![](/assets/images/wilderness.svg)] Site Path From Grey Havens: \[![](/assets/images/free-domain.svg)] \[![](/assets/images/wilderness.svg)] \[![](/assets/images/wilderness.svg)]  
+> > 
+> > {: .fs-3 } 
+> > _“‘His house was perfect, whether you liked food, or sleep, or work, or story-telling, or singing, or just sitting and thinking best, or a pleasant mixture of them all. Evil things did not come into that valley.’”_ ***---&#65279;Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -85,7 +91,10 @@ permalink: /cards/rivendell/
 > Rhudaur
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Site Path From Lorien: \[![](/assets/images/wilderness.svg)] \[![](/assets/images/border-land.svg)] \[![](/assets/images/wilderness.svg)] \[![](/assets/images/wilderness.svg)] Site Path From Grey Havens: \[![](/assets/images/free-domain.svg)] \[![](/assets/images/wilderness.svg)] \[![](/assets/images/wilderness.svg)]  <br>_“‘His house was perfect, whether you liked food, or sleep, or work, or story-telling, or singing, or just sitting and thinking best, or a pleasant mixture of them all. Evil things did not come into that valley.’”_ ***---&#65279;Hob*** 
+> > Site Path From Lorien: \[![](/assets/images/wilderness.svg)] \[![](/assets/images/border-land.svg)] \[![](/assets/images/wilderness.svg)] \[![](/assets/images/wilderness.svg)] Site Path From Grey Havens: \[![](/assets/images/free-domain.svg)] \[![](/assets/images/wilderness.svg)] \[![](/assets/images/wilderness.svg)]  
+> > 
+> > {: .fs-3 } 
+> > _“‘His house was perfect, whether you liked food, or sleep, or work, or story-telling, or singing, or just sitting and thinking best, or a pleasant mixture of them all. Evil things did not come into that valley.’”_ ***---&#65279;Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>

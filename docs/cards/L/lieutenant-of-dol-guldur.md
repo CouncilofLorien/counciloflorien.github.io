@@ -25,7 +25,10 @@ permalink: /cards/lieutenant-of-dol-guldur/
 > Warrior/Sage Troll
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ _Olog-hai._ _Leader._ Manifestation of Gorfaur the Lame. Discard on a body check result of 9. +2 direct influence against Trolls, Orcs, Troll factions, and Orc factions. When he is at Dol Guldur, you may keep one more card than normal in your hand.   <br><br>**Home Site:** Dol Guldur 
+> > _**Unique.**_ _Olog-hai._ _Leader._ Manifestation of Gorfaur the Lame. Discard on a body check result of 9. +2 direct influence against Trolls, Orcs, Troll factions, and Orc factions. When he is at Dol Guldur, you may keep one more card than normal in your hand.   
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Dol Guldur 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 7/9 】</div>

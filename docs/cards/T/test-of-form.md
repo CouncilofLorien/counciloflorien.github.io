@@ -22,7 +22,10 @@ permalink: /cards/test-of-form/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Sage only, and only if a character in his company has a Gold Ring.*** Play to test a Gold Ring. <br>_"To Frodo's astonishment and distress the wizard threw it suddenly into the middle of a glowing corner of the fire. Frodo gave a cry and groped for the tongs; but Gandalf held him back."_ ***---&#65279;LotRI*** 
+> > ***Sage only, and only if a character in his company has a Gold Ring.*** Play to test a Gold Ring. 
+> > 
+> > {: .fs-3 } 
+> > _“To Frodo's astonishment and distress the wizard threw it suddenly into the middle of a glowing corner of the fire. Frodo gave a cry and groped for the tongs; but Gandalf held him back."_ ***---&#65279;LotRI*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,5 +39,8 @@ permalink: /cards/test-of-form/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Sage only, and only if a character in his company has a Gold Ring.*** Play to test a Gold Ring. <br>_"To Frodo's astonishment and distress the wizard threw it suddenly into the middle of a glowing corner of the fire. Frodo gave a cry and groped for the tongs; but Gandalf held him back."_ ***---&#65279;LotRI*** 
+> > ***Sage only, and only if a character in his company has a Gold Ring.*** Play to test a Gold Ring. 
+> > 
+> > {: .fs-3 } 
+> > _“To Frodo's astonishment and distress the wizard threw it suddenly into the middle of a glowing corner of the fire. Frodo gave a cry and groped for the tongs; but Gandalf held him back."_ ***---&#65279;LotRI*** 
 > 

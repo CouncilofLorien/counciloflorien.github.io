@@ -25,7 +25,13 @@ permalink: /cards/old-troll/
 > Warrior Troll
 >
 > {: .minion-character-text .black-text .p-2 }
-> > Discard on a body check result of 8. +1 direct influence against Trolls, Orcs, Troll factions, and Orc factions. -1 to all corruption checks. <br>_“‘Troll sat alone on his seat of stone, And munched and mumbled a bare old bone...’”_ ***---&#65279;LotRI***  <br><br>**Home Site:** Any Dark-hold 
+> > Discard on a body check result of 8. +1 direct influence against Trolls, Orcs, Troll factions, and Orc factions. -1 to all corruption checks. 
+> > 
+> > {: .fs-3 } 
+> > _“‘Troll sat alone on his seat of stone, And munched and mumbled a bare old bone...’”_ ***---&#65279;LotRI***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Any Dark-hold 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 5/9 】</div>
@@ -45,7 +51,13 @@ permalink: /cards/old-troll/
 > Warrior Troll
 >
 > {: .minion-character-text .black-text .p-2 }
-> > Discard on a body check result of 8. +1 direct influence against Trolls, Orcs, Troll factions, and Orc factions. -1 to all corruption checks. <br>_“‘Troll sat alone on his seat of stone, And munched and mumbled a bare old bone...’”_ ***---&#65279;LotRI***  <br><br>**Home Site:** Any Dark-hold 
+> > Discard on a body check result of 8. +1 direct influence against Trolls, Orcs, Troll factions, and Orc factions. -1 to all corruption checks. 
+> > 
+> > {: .fs-3 } 
+> > _“‘Troll sat alone on his seat of stone, And munched and mumbled a bare old bone...’”_ ***---&#65279;LotRI***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Any Dark-hold 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 5/9 】</div>

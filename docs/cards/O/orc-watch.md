@@ -25,7 +25,10 @@ permalink: /cards/orc-watch/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Orcs._ Three strikes. <br>_“...he saw the goblins: goblins in full armour with drawn swords... They were aroused, alert, ready for anything."_ ***---&#65279;Hob*** 
+> > _Orcs._ Three strikes. 
+> > 
+> > {: .fs-3 } 
+> > _“...he saw the goblins: goblins in full armour with drawn swords... They were aroused, alert, ready for anything."_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 9/&ndash; 】</div>
@@ -45,7 +48,10 @@ permalink: /cards/orc-watch/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Orcs._ Three strikes. <br>_“...he saw the goblins: goblins in full armour with drawn swords... They were aroused, alert, ready for anything."_ ***---&#65279;Hob*** 
+> > _Orcs._ Three strikes. 
+> > 
+> > {: .fs-3 } 
+> > _“...he saw the goblins: goblins in full armour with drawn swords... They were aroused, alert, ready for anything."_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 9/&ndash; 】</div>
@@ -65,7 +71,10 @@ permalink: /cards/orc-watch/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Orcs._ Three strikes. <br>_“...he saw the goblins: goblins in full armour with drawn swords... They were aroused, alert, ready for anything."_ ***---&#65279;Hob*** 
+> > _Orcs._ Three strikes. 
+> > 
+> > {: .fs-3 } 
+> > _“...he saw the goblins: goblins in full armour with drawn swords... They were aroused, alert, ready for anything."_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 9/&ndash; 】</div>
@@ -85,7 +94,10 @@ permalink: /cards/orc-watch/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Orcs._ Three strikes. <br>_“‘...Whiteskins have better night-eyes than most Men...They can see the night-breeze, or so it's said.’”_ ***---&#65279;LotRIII*** 
+> > _Orcs._ Three strikes. 
+> > 
+> > {: .fs-3 } 
+> > _“‘...Whiteskins have better night-eyes than most Men...They can see the night-breeze, or so it's said.’”_ ***---&#65279;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 9/&ndash; 】</div>
@@ -105,7 +117,10 @@ permalink: /cards/orc-watch/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Orcs._ Three strikes. <br>_“‘...Whiteskins have better night-eyes than most Men...They can see the night-breeze, or so it's said.’”_ ***---&#65279;LotRIII*** 
+> > _Orcs._ Three strikes. 
+> > 
+> > {: .fs-3 } 
+> > _“‘...Whiteskins have better night-eyes than most Men...They can see the night-breeze, or so it's said.’”_ ***---&#65279;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 9/&ndash; 】</div>

@@ -25,7 +25,13 @@ permalink: /cards/layos/
 > Sage/Diplomat Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Men of Dorwinion faction. <br>_“‘He offered a fine, rich wine and soothing words filled with subtle malice.’”_ ***---&#65279;Kuduk Lore***  <br><br>**Home Site:** Shrel-Kain 
+> > _**Unique.**_ +2 direct influence against the Men of Dorwinion faction. 
+> > 
+> > {: .fs-3 } 
+> > _“‘He offered a fine, rich wine and soothing words filled with subtle malice.’”_ ***---&#65279;Kuduk Lore***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Shrel-Kain 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 3/8 】</div>
@@ -45,7 +51,13 @@ permalink: /cards/layos/
 > Sage/Diplomat Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Men of Dorwinion faction. <br>_“‘He offered a fine, rich wine and soothing words filled with subtle malice.’”_ ***---&#65279;Kuduk Lore***  <br><br>**Home Site:** Shrel-Kain 
+> > _**Unique.**_ +2 direct influence against the Men of Dorwinion faction. 
+> > 
+> > {: .fs-3 } 
+> > _“‘He offered a fine, rich wine and soothing words filled with subtle malice.’”_ ***---&#65279;Kuduk Lore***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Shrel-Kain 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 3/8 】</div>

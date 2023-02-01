@@ -22,7 +22,10 @@ permalink: /cards/necklace-of-silver-and-pearls/
 > Minor Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Hoard item._ Discard this card to give +3 direct influence and +5 mind to bearer until the end of the turn. The bearer's additional mind does not use any controlling influence. This item may also be so discarded during opponent's site phase. <br>_“‘I beg of you,' said Bilbo, stammering and standing on one foot, 'to accept this gift!' and he brought out a necklace of silver and pearls that Dain had given him at their parting."_ ***---&#65279;Hob*** 
+> > _Hoard item._ Discard this card to give +3 direct influence and +5 mind to bearer until the end of the turn. The bearer's additional mind does not use any controlling influence. This item may also be so discarded during opponent's site phase. 
+> > 
+> > {: .fs-3 } 
+> > _“‘I beg of you,' said Bilbo, stammering and standing on one foot, 'to accept this gift!' and he brought out a necklace of silver and pearls that Dain had given him at their parting."_ ***---&#65279;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

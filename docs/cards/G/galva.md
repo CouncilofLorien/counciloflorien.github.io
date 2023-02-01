@@ -25,7 +25,13 @@ permalink: /cards/galva/
 > Scout/Sage/Diplomat Man
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Men of Dorwinion faction. Against Nazgul, +6 to her prowess, and his body is halved (round up). <br>_"Like the best vintages...she was rich in nature and complex in character."_ ***---&#65279;Kuduk Lore***  <br><br>**Home Site:** Shrel-Kain 
+> > _**Unique.**_ +2 direct influence against the Men of Dorwinion faction. Against Nazgul, +6 to her prowess, and his body is halved (round up). 
+> > 
+> > {: .fs-3 } 
+> > _“Like the best vintages...she was rich in nature and complex in character."_ ***---&#65279;Kuduk Lore***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Shrel-Kain 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 0/9 】</div>
@@ -45,7 +51,13 @@ permalink: /cards/galva/
 > Scout/Sage/Diplomat Man
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Men of Dorwinion faction. Against Nazgul, +6 to her prowess, and his body is halved (round up). <br>_"Like the best vintages...she was rich in nature and complex in character."_ ***---&#65279;Kuduk Lore***  <br><br>**Home Site:** Shrel-Kain 
+> > _**Unique.**_ +2 direct influence against the Men of Dorwinion faction. Against Nazgul, +6 to her prowess, and his body is halved (round up). 
+> > 
+> > {: .fs-3 } 
+> > _“Like the best vintages...she was rich in nature and complex in character."_ ***---&#65279;Kuduk Lore***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Shrel-Kain 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 0/9 】</div>

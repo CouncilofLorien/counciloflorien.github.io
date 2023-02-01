@@ -25,7 +25,13 @@ permalink: /cards/azog/
 > Warrior/Diplomat Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ _Balrog specific._ _Leader._ Discard on a body check result of 9. +3 direct influence against Orcs and Orc factions. +2 direct influence against Balrog specific characters.   <br>_“...he was a great Orc with a huge iron-clad head, and yet agile and strong."_ ***---&#65279;LotR***  <br><br>**Home Site:** Moria, The Under-gates 
+> > _**Unique.**_ _Balrog specific._ _Leader._ Discard on a body check result of 9. +3 direct influence against Orcs and Orc factions. +2 direct influence against Balrog specific characters.   
+> > 
+> > {: .fs-3 } 
+> > _“...he was a great Orc with a huge iron-clad head, and yet agile and strong."_ ***---&#65279;LotR***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Moria, The Under-gates 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 6/9 】</div>

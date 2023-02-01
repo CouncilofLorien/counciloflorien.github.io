@@ -25,7 +25,13 @@ permalink: /cards/elrond/
 > Warrior/Sage/Diplomat Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ When Elrond is at Rivendell, his controlling player may keep one more card than normal in his hand. <br>&ensp;-3 marshalling points if eliminated. <br>_"Venerable...as a king crowned with many winters...hale as a tried warrior in the fulness of his strength."_ ***---&#65279;LotRII***  <br><br>**Home Site:** Rivendell 
+> > _**Unique.**_ When Elrond is at Rivendell, his controlling player may keep one more card than normal in his hand. <br>&ensp;-3 marshalling points if eliminated. 
+> > 
+> > {: .fs-3 } 
+> > _“Venerable...as a king crowned with many winters...hale as a tried warrior in the fulness of his strength."_ ***---&#65279;LotRII***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Rivendell 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 7/9 】</div>
@@ -45,7 +51,13 @@ permalink: /cards/elrond/
 > Warrior/Sage/Diplomat Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ When Elrond is at Rivendell, his controlling player may keep one more card than normal in his hand. <br>&ensp;-3 marshalling points if eliminated. <br>_"Venerable...as a king crowned with many winters...hale as a tried warrior in the fulness of his strength."_ ***---&#65279;LotRII***  <br><br>**Home Site:** Rivendell 
+> > _**Unique.**_ When Elrond is at Rivendell, his controlling player may keep one more card than normal in his hand. <br>&ensp;-3 marshalling points if eliminated. 
+> > 
+> > {: .fs-3 } 
+> > _“Venerable...as a king crowned with many winters...hale as a tried warrior in the fulness of his strength."_ ***---&#65279;LotRII***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Rivendell 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 7/9 】</div>
@@ -65,7 +77,13 @@ permalink: /cards/elrond/
 > Warrior/Sage/Diplomat Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ When Elrond is at Rivendell, his controlling player may keep one more card than normal in his hand. <br>&ensp;-3 marshalling points if eliminated. <br>_"Venerable...as a king crowned with many winters...hale as a tried warrior in the fulness of his strength."_ ***---&#65279;LotRII***  <br><br>**Home Site:** Rivendell 
+> > _**Unique.**_ When Elrond is at Rivendell, his controlling player may keep one more card than normal in his hand. <br>&ensp;-3 marshalling points if eliminated. 
+> > 
+> > {: .fs-3 } 
+> > _“Venerable...as a king crowned with many winters...hale as a tried warrior in the fulness of his strength."_ ***---&#65279;LotRII***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Rivendell 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 7/9 】</div>

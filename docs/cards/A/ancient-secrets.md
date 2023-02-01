@@ -22,5 +22,8 @@ permalink: /cards/ancient-secrets/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Tap your Ringraith to discard one hazard permanent-event. Alternatively, during your organization phase, tap your Ringwraith to take up to two resources from your sideboard to your play deck and reshuffle. <br>_“‘...the secret ways of Khazad-dum: Too well he knew them all.’”_ ***---&#65279;LotRIII*** 
+> > Tap your Ringraith to discard one hazard permanent-event. Alternatively, during your organization phase, tap your Ringwraith to take up to two resources from your sideboard to your play deck and reshuffle. 
+> > 
+> > {: .fs-3 } 
+> > _“‘...the secret ways of Khazad-dum: Too well he knew them all.’”_ ***---&#65279;LotRIII*** 
 > 

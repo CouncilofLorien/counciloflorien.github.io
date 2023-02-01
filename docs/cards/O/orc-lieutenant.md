@@ -25,7 +25,10 @@ permalink: /cards/orc-lieutenant/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Orcs._ One strike. If played on a company that has already faced an Orc attack this turn, _Orc-lieutenant_ receives +4 prowess. <br>_"Then suddenly, without warning, Ugluk sprang forwards, and with two swift strokes swept the heads off two of his opponents."_ ***---&#65279;LotRIII*** 
+> > _Orcs._ One strike. If played on a company that has already faced an Orc attack this turn, _Orc-lieutenant_ receives +4 prowess. 
+> > 
+> > {: .fs-3 } 
+> > _“Then suddenly, without warning, Ugluk sprang forwards, and with two swift strokes swept the heads off two of his opponents."_ ***---&#65279;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 7/&ndash; 】</div>
@@ -45,7 +48,10 @@ permalink: /cards/orc-lieutenant/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Orcs._ One strike. If played on a company that has already faced an Orc attack this turn, _Orc-lieutenant_ receives +4 prowess. <br>_"Then suddenly, without warning, Ugluk sprang forwards, and with two swift strokes swept the heads off two of his opponents."_ ***---&#65279;LotRIII*** 
+> > _Orcs._ One strike. If played on a company that has already faced an Orc attack this turn, _Orc-lieutenant_ receives +4 prowess. 
+> > 
+> > {: .fs-3 } 
+> > _“Then suddenly, without warning, Ugluk sprang forwards, and with two swift strokes swept the heads off two of his opponents."_ ***---&#65279;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 7/&ndash; 】</div>
@@ -65,7 +71,10 @@ permalink: /cards/orc-lieutenant/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Orcs._ One strike. If played on a company that has already faced an Orc attack this turn, _Orc-lieutenant_ receives +4 prowess. <br>_"Then suddenly, without warning, Ugluk sprang forwards, and with two swift strokes swept the heads off two of his opponents."_ ***---&#65279;LotRIII*** 
+> > _Orcs._ One strike. If played on a company that has already faced an Orc attack this turn, _Orc-lieutenant_ receives +4 prowess. 
+> > 
+> > {: .fs-3 } 
+> > _“Then suddenly, without warning, Ugluk sprang forwards, and with two swift strokes swept the heads off two of his opponents."_ ***---&#65279;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 7/&ndash; 】</div>

@@ -22,7 +22,10 @@ permalink: /cards/agburanar-at-home/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ Unless Agburanar Ahunt is in play, Caves of Ulund has an additional automatic-attack: Dragon-2 strikes at 16/9. In addition, one unique Dragon manifestation played against each company does not count against the hazard limit. <br>_"Slow and silent he crept back to his lair and half closed his eyes."_ ***---&#65279;Hob*** 
+> > _**Unique.**_ Unless Agburanar Ahunt is in play, Caves of Ulund has an additional automatic-attack: Dragon-2 strikes at 16/9. In addition, one unique Dragon manifestation played against each company does not count against the hazard limit. 
+> > 
+> > {: .fs-3 } 
+> > _“Slow and silent he crept back to his lair and half closed his eyes."_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 16/9 】</div>

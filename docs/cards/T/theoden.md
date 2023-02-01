@@ -25,7 +25,13 @@ permalink: /cards/theoden/
 > Warrior/Diplomat Man
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Riders of Rohan faction. <br>_"At that sound the bent shape of the king sprang suddenly erect. Tall and proud he seemed again; and rising in his stirrups he cried in a loud voice, more clear than any they had ever heard a mortal man achieve before."_ ***---&#65279;LotRV***  <br><br>**Home Site:** Edoras 
+> > _**Unique.**_ +2 direct influence against the Riders of Rohan faction. 
+> > 
+> > {: .fs-3 } 
+> > _“At that sound the bent shape of the king sprang suddenly erect. Tall and proud he seemed again; and rising in his stirrups he cried in a loud voice, more clear than any they had ever heard a mortal man achieve before."_ ***---&#65279;LotRV***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Edoras 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 5/6 】</div>
@@ -45,7 +51,13 @@ permalink: /cards/theoden/
 > Warrior/Diplomat Man
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Riders of Rohan faction. <br>_"At that sound the bent shape of the king sprang suddenly erect. Tall and proud he seemed again; and rising in his stirrups he cried in a loud voice, more clear than any they had ever heard a mortal man achieve before."_ ***---&#65279;LotRV***  <br><br>**Home Site:** Edoras 
+> > _**Unique.**_ +2 direct influence against the Riders of Rohan faction. 
+> > 
+> > {: .fs-3 } 
+> > _“At that sound the bent shape of the king sprang suddenly erect. Tall and proud he seemed again; and rising in his stirrups he cried in a loud voice, more clear than any they had ever heard a mortal man achieve before."_ ***---&#65279;LotRV***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Edoras 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 5/6 】</div>
@@ -65,7 +77,13 @@ permalink: /cards/theoden/
 > Warrior/Diplomat Man
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Riders of Rohan faction. <br>_"At that sound the bent shape of the king sprang suddenly erect. Tall and proud he seemed again; and rising in his stirrups he cried in a loud voice, more clear than any they had ever heard a mortal man achieve before."_ ***---&#65279;LotRV***  <br><br>**Home Site:** Edoras 
+> > _**Unique.**_ +2 direct influence against the Riders of Rohan faction. 
+> > 
+> > {: .fs-3 } 
+> > _“At that sound the bent shape of the king sprang suddenly erect. Tall and proud he seemed again; and rising in his stirrups he cried in a loud voice, more clear than any they had ever heard a mortal man achieve before."_ ***---&#65279;LotRV***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Edoras 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 5/6 】</div>

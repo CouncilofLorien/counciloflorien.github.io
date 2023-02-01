@@ -25,7 +25,10 @@ permalink: /cards/vygavril/
 > Scout/Diplomat Man
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Southron faction. Against Nazgul, +6 to her prowess, and his body is halved (round up).   <br><br>**Home Site:** Southron Oasis 
+> > _**Unique.**_ +2 direct influence against the Southron faction. Against Nazgul, +6 to her prowess, and his body is halved (round up).   
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Southron Oasis 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 2/7 】</div>
@@ -45,7 +48,10 @@ permalink: /cards/vygavril/
 > Scout/Diplomat Man
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Southron faction. Against Nazgul, +6 to her prowess, and his body is halved (round up).   <br><br>**Home Site:** Southron Oasis 
+> > _**Unique.**_ +2 direct influence against the Southron faction. Against Nazgul, +6 to her prowess, and his body is halved (round up).   
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Southron Oasis 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 2/7 】</div>

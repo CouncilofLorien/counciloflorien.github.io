@@ -25,7 +25,10 @@ permalink: /cards/bandit-lair/
 > Brown Lands
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Men - 3 strikes with 6 prowess  <br>_“...There were all the baggages and packages lying broken open, and being rummaged by goblins, and smelt by goblins, and fingered by goblins, and quarreled over by goblins."_ ***---&#65279;Hob*** 
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Men - 3 strikes with 6 prowess  
+> > 
+> > {: .fs-3 } 
+> > _“...There were all the baggages and packages lying broken open, and being rummaged by goblins, and smelt by goblins, and fingered by goblins, and quarreled over by goblins."_ ***---&#65279;Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -45,7 +48,10 @@ permalink: /cards/bandit-lair/
 > Brown Lands
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Men - 3 strikes with 6 prowess  <br>_“...There were all the baggages and packages lying broken open, and being rummaged by goblins, and smelt by goblins, and fingered by goblins, and quarreled over by goblins."_ ***---&#65279;Hob*** 
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Men - 3 strikes with 6 prowess  
+> > 
+> > {: .fs-3 } 
+> > _“...There were all the baggages and packages lying broken open, and being rummaged by goblins, and smelt by goblins, and fingered by goblins, and quarreled over by goblins."_ ***---&#65279;Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -65,7 +71,10 @@ permalink: /cards/bandit-lair/
 > Brown Lands
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Men - 3 strikes with 6 prowess  <br>_"For in the time of ruin houseless and desperate men went astray, some refugees of battle and defeat and lands laid waste, others outlaws driven into the wild for evil deeds."_ ***---&#65279;Kuduk Lore*** 
+> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Men - 3 strikes with 6 prowess  
+> > 
+> > {: .fs-3 } 
+> > _“For in the time of ruin houseless and desperate men went astray, some refugees of battle and defeat and lands laid waste, others outlaws driven into the wild for evil deeds."_ ***---&#65279;Kuduk Lore*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -85,7 +94,10 @@ permalink: /cards/bandit-lair/
 > Brown Lands
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Men - 3 strikes with 6 prowess  <br>_“...There were all the baggages and packages lying broken open, and being rummaged by goblins, and smelt by goblins, and fingered by goblins, and quarreled over by goblins."_ ***---&#65279;Hob*** 
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Men - 3 strikes with 6 prowess  
+> > 
+> > {: .fs-3 } 
+> > _“...There were all the baggages and packages lying broken open, and being rummaged by goblins, and smelt by goblins, and fingered by goblins, and quarreled over by goblins."_ ***---&#65279;Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -105,7 +117,10 @@ permalink: /cards/bandit-lair/
 > Brown Lands
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Men - 3 strikes with 6 prowess  <br>_"For in the time of ruin houseless and desperate men went astray, some refugees of battle and defeat and lands laid waste, others outlaws driven into the wild for evil deeds."_ ***---&#65279;Kuduk Lore*** 
+> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Men - 3 strikes with 6 prowess  
+> > 
+> > {: .fs-3 } 
+> > _“For in the time of ruin houseless and desperate men went astray, some refugees of battle and defeat and lands laid waste, others outlaws driven into the wild for evil deeds."_ ***---&#65279;Kuduk Lore*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>

@@ -22,5 +22,8 @@ permalink: /cards/helms-of-iron/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable only if you have a Nazgul permanent-event in play. Discard the Nazgul when this card is brought into play. All Orc, Troll, and Man attacks with body have their body modified by +1; and all Orc, Troll, and Man attacks with no body have 4 body. <br>_“...on the front of their iron hems was an S-rune, wrought of some white metal."_ ***---&#65279;LotRIII*** 
+> > Playable only if you have a Nazgul permanent-event in play. Discard the Nazgul when this card is brought into play. All Orc, Troll, and Man attacks with body have their body modified by +1; and all Orc, Troll, and Man attacks with no body have 4 body. 
+> > 
+> > {: .fs-3 } 
+> > _“...on the front of their iron hems was an S-rune, wrought of some white metal."_ ***---&#65279;LotRIII*** 
 >

@@ -22,7 +22,10 @@ permalink: /cards/lure-of-power/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The next non-Hobbit character to make a successful influence attempt (e.g., against a faction, an opponent's character, etc.) must immediately make a corruption check modified by -4. Discard this card after the corruption check.   <br>_“‘But we must have power, power to order all things as we will...’”_ ***---&#65279;LotRII*** 
+> > The next non-Hobbit character to make a successful influence attempt (e.g., against a faction, an opponent's character, etc.) must immediately make a corruption check modified by -4. Discard this card after the corruption check.   
+> > 
+> > {: .fs-3 } 
+> > _“‘But we must have power, power to order all things as we will...’”_ ***---&#65279;LotRII*** 
 >
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,5 +39,8 @@ permalink: /cards/lure-of-power/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The next non-Hobbit character to make a successful influence attempt (e.g., against a faction, an opponent's character, etc.) must immediately make a corruption check modified by -4. Discard this card after the corruption check.   <br>_“‘But we must have power, power to order all things as we will...’”_ ***---&#65279;LotRII*** 
+> > The next non-Hobbit character to make a successful influence attempt (e.g., against a faction, an opponent's character, etc.) must immediately make a corruption check modified by -4. Discard this card after the corruption check.   
+> > 
+> > {: .fs-3 } 
+> > _“‘But we must have power, power to order all things as we will...’”_ ***---&#65279;LotRII*** 
 >

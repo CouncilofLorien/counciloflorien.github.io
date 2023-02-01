@@ -25,7 +25,10 @@ permalink: /cards/lieutenant-of-morgul/
 > Warrior/Ranger Troll
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ _Olog-hai._ _Leader._ Manifestation of Gothmog. Discard on a body check result of 9. +3 direct influence against Trolls, Orcs, Troll factions, and Orc factions. When he is at Minas Morgul, you may keep one more card than normal in your hand.   <br><br>**Home Site:** Minas Morgul 
+> > _**Unique.**_ _Olog-hai._ _Leader._ Manifestation of Gothmog. Discard on a body check result of 9. +3 direct influence against Trolls, Orcs, Troll factions, and Orc factions. When he is at Minas Morgul, you may keep one more card than normal in your hand.   
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Minas Morgul 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 8/9 】</div>
@@ -45,7 +48,10 @@ permalink: /cards/lieutenant-of-morgul/
 > Warrior/Ranger Troll
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ _Olog-hai._ _Leader._ Manifestation of Gothmog. Discard on a body check result of 9. +3 direct influence against Trolls, Orcs, Troll factions, and Orc factions. When he is at Minas Morgul, you may keep one more card than normal in your hand.   <br><br>**Home Site:** Minas Morgul 
+> > _**Unique.**_ _Olog-hai._ _Leader._ Manifestation of Gothmog. Discard on a body check result of 9. +3 direct influence against Trolls, Orcs, Troll factions, and Orc factions. When he is at Minas Morgul, you may keep one more card than normal in your hand.   
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Minas Morgul 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 8/9 】</div>

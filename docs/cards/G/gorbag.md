@@ -25,7 +25,13 @@ permalink: /cards/gorbag/
 > Warrior/Scout Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ _Uruk-hai._ _Leader._ Discard on a body check result of 9. +3 direct influence against Orc and Orc factions. <br>_“‘...you and me'll slip off and set up somewhere on our own with a few trusty lads, somewhere where there's good loot nice and handy, and no big bosses.’”_ ***---&#65279;LotRII***  <br><br>**Home Site:** Minas Morgul 
+> > _**Unique.**_ _Uruk-hai._ _Leader._ Discard on a body check result of 9. +3 direct influence against Orc and Orc factions. 
+> > 
+> > {: .fs-3 } 
+> > _“‘...you and me'll slip off and set up somewhere on our own with a few trusty lads, somewhere where there's good loot nice and handy, and no big bosses.’”_ ***---&#65279;LotRII***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Minas Morgul 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 6/9 】</div>
@@ -45,7 +51,13 @@ permalink: /cards/gorbag/
 > Warrior/Scout Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ _Uruk-hai._ _Leader._ Discard on a body check result of 9. +3 direct influence against Orc and Orc factions. <br>_“‘...you and me'll slip off and set up somewhere on our own with a few trusty lads, somewhere where there's good loot nice and handy, and no big bosses.’”_ ***---&#65279;LotRII***  <br><br>**Home Site:** Minas Morgul 
+> > _**Unique.**_ _Uruk-hai._ _Leader._ Discard on a body check result of 9. +3 direct influence against Orc and Orc factions. 
+> > 
+> > {: .fs-3 } 
+> > _“‘...you and me'll slip off and set up somewhere on our own with a few trusty lads, somewhere where there's good loot nice and handy, and no big bosses.’”_ ***---&#65279;LotRII***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Minas Morgul 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 6/9 】</div>
@@ -65,7 +77,13 @@ permalink: /cards/gorbag/
 > Warrior/Scout Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ _Uruk-hai._ _Leader._ Discard on a body check result of 9. +3 direct influence against Orc and Orc factions. <br>_“‘...you and me'll slip off and set up somewhere on our own with a few trusty lads, somewhere where there's good loot nice and handy, and no big bosses.’”_ ***---&#65279;LotRII***  <br><br>**Home Site:** Minas Morgul 
+> > _**Unique.**_ _Uruk-hai._ _Leader._ Discard on a body check result of 9. +3 direct influence against Orc and Orc factions. 
+> > 
+> > {: .fs-3 } 
+> > _“‘...you and me'll slip off and set up somewhere on our own with a few trusty lads, somewhere where there's good loot nice and handy, and no big bosses.’”_ ***---&#65279;LotRII***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Minas Morgul 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 6/9 】</div>

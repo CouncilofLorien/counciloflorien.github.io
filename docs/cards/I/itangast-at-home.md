@@ -22,7 +22,10 @@ permalink: /cards/itangast-at-home/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ Unless Itangast Ahunt is in play, Gold Hill has an additional automatic-attack: Dragon-3 strikes at 19/8. In addition, each greater item gives an additional corruption point. <br>_"It does not do to leave a live dragon out of your calculations...”_ ***---&#65279;Hob*** 
+> > _**Unique.**_ Unless Itangast Ahunt is in play, Gold Hill has an additional automatic-attack: Dragon-3 strikes at 19/8. In addition, each greater item gives an additional corruption point. 
+> > 
+> > {: .fs-3 } 
+> > _“It does not do to leave a live dragon out of your calculations...”_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 19/8 】</div>

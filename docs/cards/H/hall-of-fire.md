@@ -22,5 +22,8 @@ permalink: /cards/hall-of-fire/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable on a Haven \[![](/assets/images/free-haven.svg)]. Any company at this Haven immediately following its movement/hazard phase may choose for one of its characters to untap or heal (from wounded to tapped). Discard Hall of Fire when the site card is returned to the location deck. <br>_“‘...people came here who wish for peace, and thought. There is always a fire here...’”_ ***---&#65279;LotRII*** 
+> > Playable on a Haven \[![](/assets/images/free-haven.svg)]. Any company at this Haven immediately following its movement/hazard phase may choose for one of its characters to untap or heal (from wounded to tapped). Discard Hall of Fire when the site card is returned to the location deck. 
+> > 
+> > {: .fs-3 } 
+> > _“‘...people came here who wish for peace, and thought. There is always a fire here...’”_ ***---&#65279;LotRII*** 
 > 

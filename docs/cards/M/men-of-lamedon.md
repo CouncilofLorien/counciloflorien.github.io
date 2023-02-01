@@ -22,7 +22,10 @@ permalink: /cards/men-of-lamedon/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ ***Playable at Vale of Erech*** <br>&ensp;if the influence check is greater than 7.  <br>_Standard Modifications:_ Dunedain (+1). <br>_"The men of the Ringlo Vale behind the son of their Lord...three hundreds. From the uplands of Morthond...five hundred bowman...From Lamedon, a few grim hillmen without a captain."_ ***---&#65279;LotRV*** 
+> > _**Unique.**_ ***Playable at Vale of Erech*** <br>&ensp;if the influence check is greater than 7.  <br>_Standard Modifications:_ Dunedain (+1). 
+> > 
+> > {: .fs-3 } 
+> > _“The men of the Ringlo Vale behind the son of their Lord...three hundreds. From the uplands of Morthond...five hundred bowman...From Lamedon, a few grim hillmen without a captain."_ ***---&#65279;LotRV*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,5 +39,8 @@ permalink: /cards/men-of-lamedon/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ ***Playable at Vale of Erech*** <br>&ensp;if the influence check is greater than 7.  <br>_Standard Modifications:_ Dunedain (+1). <br>_"The men of the Ringlo Vale behind the son of their Lord...three hundreds. From the uplands of Morthond...five hundred bowman...From Lamedon, a few grim hillmen without a captain."_ ***---&#65279;LotRV*** 
+> > _**Unique.**_ ***Playable at Vale of Erech*** <br>&ensp;if the influence check is greater than 7.  <br>_Standard Modifications:_ Dunedain (+1). 
+> > 
+> > {: .fs-3 } 
+> > _“The men of the Ringlo Vale behind the son of their Lord...three hundreds. From the uplands of Morthond...five hundred bowman...From Lamedon, a few grim hillmen without a captain."_ ***---&#65279;LotRV*** 
 > 

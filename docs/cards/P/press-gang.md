@@ -22,5 +22,8 @@ permalink: /cards/press-gang/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > When a character would otherwise be discarded from play, discard all cards on him, place him "off to the side" with this card, and return any character already with this card to its owner's hand. A character with this card gives his player negative character marshalling points. Cannot be duplicated. <br>_"They were a gang of the smaller breeds being driven unwilling to their Dark Lord's wars...”_ ***---&#65279;LotRVI*** 
+> > When a character would otherwise be discarded from play, discard all cards on him, place him "off to the side" with this card, and return any character already with this card to its owner's hand. A character with this card gives his player negative character marshalling points. Cannot be duplicated. 
+> > 
+> > {: .fs-3 } 
+> > _“They were a gang of the smaller breeds being driven unwilling to their Dark Lord's wars...”_ ***---&#65279;LotRVI*** 
 >

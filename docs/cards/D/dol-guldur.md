@@ -25,7 +25,10 @@ permalink: /cards/dol-guldur/
 > Southern Mirkwood
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br> Orcs - 3 strikes with 7 prowess, Trolls - 2 strikes with 8 prowess  <br>_“‘...In the midst upon a stony height stands Dol Guldur, where long the Enemy had his dwelling...’”_ ***---&#65279;LotRII*** 
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br> Orcs - 3 strikes with 7 prowess, Trolls - 2 strikes with 8 prowess  
+> > 
+> > {: .fs-3 } 
+> > _“‘...In the midst upon a stony height stands Dol Guldur, where long the Enemy had his dwelling...’”_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;4&ensp;</span></div>
@@ -45,7 +48,10 @@ permalink: /cards/dol-guldur/
 > Southern Mirkwood
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br> Orcs - 3 strikes with 7 prowess, Trolls - 2 strikes with 8 prowess  <br>_“‘...In the midst upon a stony height stands Dol Guldur, where long the Enemy had his dwelling...’”_ ***---&#65279;LotRII*** 
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br> Orcs - 3 strikes with 7 prowess, Trolls - 2 strikes with 8 prowess  
+> > 
+> > {: .fs-3 } 
+> > _“‘...In the midst upon a stony height stands Dol Guldur, where long the Enemy had his dwelling...’”_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;4&ensp;</span></div>

@@ -25,7 +25,10 @@ permalink: /cards/rogrog/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Troll._ One strike. <br>_“...the great troll-chief that smote him bent down over him, reaching out a clutching claw; for these fell creatures would bite the throats of those that they threw down."_ ***---&#65279;LotRV*** 
+> > _**Unique.**_ _Troll._ One strike. 
+> > 
+> > {: .fs-3 } 
+> > _“...the great troll-chief that smote him bent down over him, reaching out a clutching claw; for these fell creatures would bite the throats of those that they threw down."_ ***---&#65279;LotRV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 13/8 】</div>
@@ -45,7 +48,10 @@ permalink: /cards/rogrog/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Troll._ One strike. <br>_“...the great troll-chief that smote him bent down over him, reaching out a clutching claw; for these fell creatures would bite the throats of those that they threw down."_ ***---&#65279;LotRV*** 
+> > _**Unique.**_ _Troll._ One strike. 
+> > 
+> > {: .fs-3 } 
+> > _“...the great troll-chief that smote him bent down over him, reaching out a clutching claw; for these fell creatures would bite the throats of those that they threw down."_ ***---&#65279;LotRV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 13/8 】</div>

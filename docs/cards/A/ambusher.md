@@ -25,7 +25,10 @@ permalink: /cards/ambusher/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Men._ Two strikes. Attacker chooses defending characters. <br>_“...suddenly Wormtongue rose up, drawing a hidden knife, and then with a snarl like a dog he sprang on Saruman's back, jerked his head back, cut his throat, and with a yell ran off down the lane."_ ***---&#65279;LotRVI*** 
+> > _Men._ Two strikes. Attacker chooses defending characters. 
+> > 
+> > {: .fs-3 } 
+> > _“...suddenly Wormtongue rose up, drawing a hidden knife, and then with a snarl like a dog he sprang on Saruman's back, jerked his head back, cut his throat, and with a yell ran off down the lane."_ ***---&#65279;LotRVI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 10/&ndash; 】</div>
@@ -45,7 +48,10 @@ permalink: /cards/ambusher/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Men._ Two strikes. Attacker chooses defending characters. <br>_“...suddenly Wormtongue rose up, drawing a hidden knife, and then with a snarl like a dog he sprang on Saruman's back, jerked his head back, cut his throat, and with a yell ran off down the lane."_ ***---&#65279;LotRVI*** 
+> > _Men._ Two strikes. Attacker chooses defending characters. 
+> > 
+> > {: .fs-3 } 
+> > _“...suddenly Wormtongue rose up, drawing a hidden knife, and then with a snarl like a dog he sprang on Saruman's back, jerked his head back, cut his throat, and with a yell ran off down the lane."_ ***---&#65279;LotRVI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 10/&ndash; 】</div>
@@ -65,7 +71,10 @@ permalink: /cards/ambusher/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Men._ Two strikes. Attacker chooses defending characters. <br>_“...stealing up the slopes, singly or in long files, keeping always to the shade of the grove or thicket,or crawling, hardly visible in their brown and green raiment, through grass and brake."_ ***---&#65279;LotRII*** 
+> > _Men._ Two strikes. Attacker chooses defending characters. 
+> > 
+> > {: .fs-3 } 
+> > _“...stealing up the slopes, singly or in long files, keeping always to the shade of the grove or thicket,or crawling, hardly visible in their brown and green raiment, through grass and brake."_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 10/&ndash; 】</div>
@@ -85,7 +94,10 @@ permalink: /cards/ambusher/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Men._ Two strikes. Attacker chooses defending characters. <br>_“...stealing up the slopes, singly or in long files, keeping always to the shade of the grove or thicket,or crawling, hardly visible in their brown and green raiment, through grass and brake."_ ***---&#65279;LotRII*** 
+> > _Men._ Two strikes. Attacker chooses defending characters. 
+> > 
+> > {: .fs-3 } 
+> > _“...stealing up the slopes, singly or in long files, keeping always to the shade of the grove or thicket,or crawling, hardly visible in their brown and green raiment, through grass and brake."_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 10/&ndash; 】</div>

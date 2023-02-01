@@ -22,5 +22,8 @@ permalink: /cards/fled-into-darkness/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable before the strike sequence on The Balrog facing a strike with a prowess higher than his. The strike is canceled and The Balrog taps, if untapped. The next time The Balrog would otherwise untap, make him tapped instead and discard this card. Cannot be duplicated.   <br>_“...a thing of terror...flying from Thangorodrim...”_ ***---&#65279;LotR*** 
+> > Playable before the strike sequence on The Balrog facing a strike with a prowess higher than his. The strike is canceled and The Balrog taps, if untapped. The next time The Balrog would otherwise untap, make him tapped instead and discard this card. Cannot be duplicated.   
+> > 
+> > {: .fs-3 } 
+> > _“...a thing of terror...flying from Thangorodrim...”_ ***---&#65279;LotR*** 
 >

@@ -25,7 +25,13 @@ permalink: /cards/beretar/
 > Warrior/Ranger Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Rangers of the North faction. <br>_"When the kingdom ended the Dunedain passed into the shadows and became a secret and wandering people, and their deeds and labours were seldom sung or recorded."_ ***---&#65279;LotR***  <br><br>**Home Site:** Bree 
+> > _**Unique.**_ +2 direct influence against the Rangers of the North faction. 
+> > 
+> > {: .fs-3 } 
+> > _“When the kingdom ended the Dunedain passed into the shadows and became a secret and wandering people, and their deeds and labours were seldom sung or recorded."_ ***---&#65279;LotR***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Bree 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 5/8 】</div>
@@ -45,7 +51,13 @@ permalink: /cards/beretar/
 > Warrior/Ranger Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Rangers of the North faction. <br>_"When the kingdom ended the Dunedain passed into the shadows and became a secret and wandering people, and their deeds and labours were seldom sung or recorded."_ ***---&#65279;LotR***  <br><br>**Home Site:** Bree 
+> > _**Unique.**_ +2 direct influence against the Rangers of the North faction. 
+> > 
+> > {: .fs-3 } 
+> > _“When the kingdom ended the Dunedain passed into the shadows and became a secret and wandering people, and their deeds and labours were seldom sung or recorded."_ ***---&#65279;LotR***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Bree 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 5/8 】</div>
@@ -65,7 +77,13 @@ permalink: /cards/beretar/
 > Warrior/Ranger Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Rangers of the North faction. <br>_"When the kingdom ended the Dunedain passed into the shadows and became a secret and wandering people, and their deeds and labours were seldom sung or recorded."_ ***---&#65279;LotR***  <br><br>**Home Site:** Bree 
+> > _**Unique.**_ +2 direct influence against the Rangers of the North faction. 
+> > 
+> > {: .fs-3 } 
+> > _“When the kingdom ended the Dunedain passed into the shadows and became a secret and wandering people, and their deeds and labours were seldom sung or recorded."_ ***---&#65279;LotR***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Bree 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 5/8 】</div>

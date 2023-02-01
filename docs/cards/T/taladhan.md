@@ -25,7 +25,10 @@ permalink: /cards/taladhan/
 > Scout/Ranger/Sage Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ Agent. Can use shadow-magic. Agent only: chooses defending characters; for each successful strike, the company must discard one item (of defender's choice), but the defending character is not harmed.   <br><br>**Home Site:** Sarn Goriwing, Dol Guldur 
+> > _**Unique.**_ Agent. Can use shadow-magic. Agent only: chooses defending characters; for each successful strike, the company must discard one item (of defender's choice), but the defending character is not harmed.   
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Sarn Goriwing, Dol Guldur 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 4/9 】</div>

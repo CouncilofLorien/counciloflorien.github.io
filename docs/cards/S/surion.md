@@ -25,7 +25,13 @@ permalink: /cards/surion/
 > Warrior/Sage/Diplomat Dunadan
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ Agent. +2 direct influence against Dunedain and factions that can be played in Anfalas, Anorien, Belfalas, Lamedon, and Lebennin. <br>_“...gravely courteous, saluting...after the manner of Gondor with bowed head and hands upon the breast...”_ ***---&#65279;LotRV***  <br><br>**Home Site:** Minas Tirith, Pelargir 
+> > _**Unique.**_ Agent. +2 direct influence against Dunedain and factions that can be played in Anfalas, Anorien, Belfalas, Lamedon, and Lebennin. 
+> > 
+> > {: .fs-3 } 
+> > _“...gravely courteous, saluting...after the manner of Gondor with bowed head and hands upon the breast...”_ ***---&#65279;LotRV***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Minas Tirith, Pelargir 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 5/7 】</div>

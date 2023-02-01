@@ -22,5 +22,8 @@ permalink: /cards/old-prejudice/
 > Long-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Triple all standard modifications for influence checks against factions.   <br>_“...all the grievances that stand between Elves and Dwarves...”_ ***---&#65279;LotRII*** 
+> > Triple all standard modifications for influence checks against factions.   
+> > 
+> > {: .fs-3 } 
+> > _“...all the grievances that stand between Elves and Dwarves...”_ ***---&#65279;LotRII*** 
 > 

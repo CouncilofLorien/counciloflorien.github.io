@@ -22,7 +22,10 @@ permalink: /cards/mirror-of-galadriel/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Only playable at Lorien.*** You may look at your opponent's hand and then choose to look at the top five cards of his play deck or your play deck. Shuffle those 5 cards and return them to the top of their play deck. <br>_“‘...the Mirror will also show things unbidden, and those are often stranger and more profitable than things we wish to behold.’”_ ***---&#65279;LotRII*** 
+> > ***Only playable at Lorien.*** You may look at your opponent's hand and then choose to look at the top five cards of his play deck or your play deck. Shuffle those 5 cards and return them to the top of their play deck. 
+> > 
+> > {: .fs-3 } 
+> > _“‘...the Mirror will also show things unbidden, and those are often stranger and more profitable than things we wish to behold.’”_ ***---&#65279;LotRII*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,5 +39,8 @@ permalink: /cards/mirror-of-galadriel/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Only playable if any of your characters are at Lorien.*** You may look at your opponent's hand and then choose to look at the top five cards of any one play deck. Shuffle those cards and return them to the top of their play deck. <br>_“‘...the Mirror will also show things unbidden, and those are often stranger and more profitable than things we wish to behold.’”_ ***---&#65279;LotRII*** 
+> > ***Only playable if any of your characters are at Lorien.*** You may look at your opponent's hand and then choose to look at the top five cards of any one play deck. Shuffle those cards and return them to the top of their play deck. 
+> > 
+> > {: .fs-3 } 
+> > _“‘...the Mirror will also show things unbidden, and those are often stranger and more profitable than things we wish to behold.’”_ ***---&#65279;LotRII*** 
 > 

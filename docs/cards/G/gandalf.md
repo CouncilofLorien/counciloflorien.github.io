@@ -25,7 +25,13 @@ permalink: /cards/gandalf/
 > Warrior/Scout/Sage/Diplomat Wizard
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ All of his corruption checks are modified by +1. <br>Can tap to "test" a gold ring. <br>_"In his aged face under great snowy brows his eyes were set like coals that could leap suddenly into fire."_ ***---&#65279;LotRII***  <br><br>**Home Site:** Any Haven 
+> > _**Unique.**_ All of his corruption checks are modified by +1. <br>Can tap to "test" a gold ring. 
+> > 
+> > {: .fs-3 } 
+> > _“In his aged face under great snowy brows his eyes were set like coals that could leap suddenly into fire."_ ***---&#65279;LotRII***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Any Haven 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 6/9 】</div>
@@ -45,7 +51,13 @@ permalink: /cards/gandalf/
 > Warrior/Scout/Sage/Diplomat Wizard
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ All of his corruption checks are modified by +1. <br>&ensp;Can tap to "test" a gold ring. <br>_"In his aged face under great snowy brows his eyes were set like coals that could leap suddenly into fire."_ ***---&#65279;LotRII***  <br><br>**Home Site:** Any Haven 
+> > _**Unique.**_ All of his corruption checks are modified by +1. <br>&ensp;Can tap to "test" a gold ring. 
+> > 
+> > {: .fs-3 } 
+> > _“In his aged face under great snowy brows his eyes were set like coals that could leap suddenly into fire."_ ***---&#65279;LotRII***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Any Haven 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 6/9 】</div>
@@ -65,7 +77,13 @@ permalink: /cards/gandalf/
 > Warrior/Scout/Sage/Diplomat Wizard
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ All of his corruption checks are modified by +1. <br>&ensp;Can tap to "test" a gold ring. <br>_"In his aged face under great snowy brows his eyes were set like coals that could leap suddenly into fire."_ ***---&#65279;LotRII***  <br><br>**Home Site:** Any Haven 
+> > _**Unique.**_ All of his corruption checks are modified by +1. <br>&ensp;Can tap to "test" a gold ring. 
+> > 
+> > {: .fs-3 } 
+> > _“In his aged face under great snowy brows his eyes were set like coals that could leap suddenly into fire."_ ***---&#65279;LotRII***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Any Haven 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 6/9 】</div>
@@ -85,7 +103,13 @@ permalink: /cards/gandalf/
 > Warrior/Scout/Sage/Diplomat Fallen-wizard
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ Can use spirit-magic. May untap at the end of your organization phase. Your characters and hero allies are each worth full marshalling points. Gandalf may tap to "test" a ring in his company.   <br>_“‘Yet the way of the Ring to my heart is by pity, pity for weakness and the desire of strength to do good.’”_ ***---&#65279;LotRI***  <br><br>**Home Site:** Any Free-hold 
+> > _**Unique.**_ Can use spirit-magic. May untap at the end of your organization phase. Your characters and hero allies are each worth full marshalling points. Gandalf may tap to "test" a ring in his company.   
+> > 
+> > {: .fs-3 } 
+> > _“‘Yet the way of the Ring to my heart is by pity, pity for weakness and the desire of strength to do good.’”_ ***---&#65279;LotRI***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Any Free-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 6/9 】</div>
@@ -105,7 +129,13 @@ permalink: /cards/gandalf/
 > Warrior/Scout/Sage/Diplomat Wizard
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ All of his corruption checks are modified by +1. <br>&ensp;Can tap to "test" a gold ring. <br>_"In his aged face under great snowy brows his eyes were set like coals that could leap suddenly into fire."_ ***---&#65279;LotRII***  <br><br>**Home Site:** Any Haven 
+> > _**Unique.**_ All of his corruption checks are modified by +1. <br>&ensp;Can tap to "test" a gold ring. 
+> > 
+> > {: .fs-3 } 
+> > _“In his aged face under great snowy brows his eyes were set like coals that could leap suddenly into fire."_ ***---&#65279;LotRII***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Any Haven 
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 6/9 】</div>

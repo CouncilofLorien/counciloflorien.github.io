@@ -22,7 +22,10 @@ permalink: /cards/variags-of-khand/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ ***Playable at Variag Camp*** <br>&ensp;if the influence check is greater than 9.  <br>_Standard Modifications:_ none. <br>_“...passed south of Mordor and made alliance with the men of Khand...”_ ***---&#65279;LotR*** 
+> > _**Unique.**_ ***Playable at Variag Camp*** <br>&ensp;if the influence check is greater than 9.  <br>_Standard Modifications:_ none. 
+> > 
+> > {: .fs-3 } 
+> > _“...passed south of Mordor and made alliance with the men of Khand...”_ ***---&#65279;LotR*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,7 +39,10 @@ permalink: /cards/variags-of-khand/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ ***Playable at Variag Camp*** <br>&ensp;if the influence check is greater than 9.  <br>_Standard Modifications:_ none. <br>_“...passed south of Mordor and made alliance with the men of Khand...”_ ***---&#65279;LotR*** 
+> > _**Unique.**_ ***Playable at Variag Camp*** <br>&ensp;if the influence check is greater than 9.  <br>_Standard Modifications:_ none. 
+> > 
+> > {: .fs-3 } 
+> > _“...passed south of Mordor and made alliance with the men of Khand...”_ ***---&#65279;LotR*** 
 > 
 
 ### _Middle-earth: The Lidless Eye_
@@ -50,5 +56,8 @@ permalink: /cards/variags-of-khand/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Manifestation of hero Variags of Khand. Playable at Variag Camp if the influence check is greater than 8.  <br>_Standard Modifications:_ Nurniags (+2), Haradrim (-2). <br>_"Hard fighting...and the hills and mountains were dyed as with blood."_ ***---&#65279;LotRV***  
+> > _**Unique.**_ Manifestation of hero Variags of Khand. Playable at Variag Camp if the influence check is greater than 8.  <br>_Standard Modifications:_ Nurniags (+2), Haradrim (-2). 
+> > 
+> > {: .fs-3 } 
+> > _“Hard fighting...and the hills and mountains were dyed as with blood."_ ***---&#65279;LotRV***  
 > 

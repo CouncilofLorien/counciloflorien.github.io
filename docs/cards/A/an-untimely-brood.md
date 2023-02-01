@@ -25,5 +25,8 @@ permalink: /cards/an-untimely-brood/
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > Playable if you are Radagast or Alatar and have 6 or more stage points and a protected Wizardhaven \[![](/assets/images/free-haven.svg)]. One non-unique ally with a mind of 1 is playable at one of your tapped or untapped protected Wizardhavens \[![](/assets/images/free-haven.svg)] each of your site phases. Cannot be duplicated by a given player. <br>_"Thousands could dwell there, workers, servants, slaves, and warriors...”_ ***---&#65279;LotRIII*** 
+> > Playable if you are Radagast or Alatar and have 6 or more stage points and a protected Wizardhaven \[![](/assets/images/free-haven.svg)]. One non-unique ally with a mind of 1 is playable at one of your tapped or untapped protected Wizardhavens \[![](/assets/images/free-haven.svg)] each of your site phases. Cannot be duplicated by a given player. 
+> > 
+> > {: .fs-3 } 
+> > _“Thousands could dwell there, workers, servants, slaves, and warriors...”_ ***---&#65279;LotRIII*** 
 > 

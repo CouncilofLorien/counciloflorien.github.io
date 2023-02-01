@@ -25,7 +25,10 @@ permalink: /cards/dragon-helm/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at any Under-deeps Dark-hold \[![](/assets/images/dark-hold.svg)] or Shadow-hold \[![](/assets/images/shadow-hold.svg)]. _Helmet:_ Warrior only: +1 prowess; +2 body (to a maximum of 10); +3 direct influence. Tap Dragon-helm to cancel one attack by Dragons or Drakes. <br>_"It was Turin who, grim in heart, wore the Dragon-helm of Dor-lomin in battle on the marches of Doriath and fought beside Beleg Cuthalion."_ ***---&#65279;Kuduk Lore*** 
+> > _**Unique.**_ Playable at any Under-deeps Dark-hold \[![](/assets/images/dark-hold.svg)] or Shadow-hold \[![](/assets/images/shadow-hold.svg)]. _Helmet:_ Warrior only: +1 prowess; +2 body (to a maximum of 10); +3 direct influence. Tap Dragon-helm to cancel one attack by Dragons or Drakes. 
+> > 
+> > {: .fs-3 } 
+> > _“It was Turin who, grim in heart, wore the Dragon-helm of Dor-lomin in battle on the marches of Doriath and fought beside Beleg Cuthalion."_ ***---&#65279;Kuduk Lore*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +1/+2 】</div>

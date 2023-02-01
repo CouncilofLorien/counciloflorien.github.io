@@ -22,7 +22,10 @@ permalink: /cards/kindling-of-the-spirit/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Spell._ _**Wizard only.**_ +2 prowess against one attack for all characters in the same company as the Wizard. Wizard makes a corruption check modified by -2. <br>_“‘Come!' called Gandalf. 'There is yet time for the council. Let Dain son of Nain come swiftly to us!’”_ ***---&#65279;Hob***  
+> > _Spell._ _**Wizard only.**_ +2 prowess against one attack for all characters in the same company as the Wizard. Wizard makes a corruption check modified by -2. 
+> > 
+> > {: .fs-3 } 
+> > _“‘Come!' called Gandalf. 'There is yet time for the council. Let Dain son of Nain come swiftly to us!’”_ ***---&#65279;Hob***  
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,5 +39,8 @@ permalink: /cards/kindling-of-the-spirit/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Spell._ _**Wizard only.**_ +2 prowess against one attack for all characters in the same company as the Wizard. Wizard makes a corruption check modified by -2. <br>_“‘Come!' called Gandalf. 'There is yet time for the council. Let Dain son of Nain come swiftly to us!’”_ ***---&#65279;Hob***  
+> > _Spell._ _**Wizard only.**_ +2 prowess against one attack for all characters in the same company as the Wizard. Wizard makes a corruption check modified by -2. 
+> > 
+> > {: .fs-3 } 
+> > _“‘Come!' called Gandalf. 'There is yet time for the council. Let Dain son of Nain come swiftly to us!’”_ ***---&#65279;Hob***  
 > 

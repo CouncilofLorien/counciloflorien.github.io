@@ -25,7 +25,13 @@ permalink: /cards/dogrib/
 > Warrior Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ -1 to all corruption checks. <br>_“‘...you may stay here until the Witch-king goes home. For in summer his power wanes; but now his breath is deadly, and his cold arm is long."_ ***---&#65279;LotR***  <br><br>**Home Site:** Lossadan Camp 
+> > _**Unique.**_ -1 to all corruption checks. 
+> > 
+> > {: .fs-3 } 
+> > _“‘...you may stay here until the Witch-king goes home. For in summer his power wanes; but now his breath is deadly, and his cold arm is long."_ ***---&#65279;LotR***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Lossadan Camp 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 4/7 】</div>
@@ -45,7 +51,13 @@ permalink: /cards/dogrib/
 > Warrior Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ -1 to all corruption checks. <br>_“‘...you may stay here until the Witch-king goes home. For in summer his power wanes; but now his breath is deadly, and his cold arm is long."_ ***---&#65279;LotR***  <br><br>**Home Site:** Lossadan Camp 
+> > _**Unique.**_ -1 to all corruption checks. 
+> > 
+> > {: .fs-3 } 
+> > _“‘...you may stay here until the Witch-king goes home. For in summer his power wanes; but now his breath is deadly, and his cold arm is long."_ ***---&#65279;LotR***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Lossadan Camp 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 4/7 】</div>

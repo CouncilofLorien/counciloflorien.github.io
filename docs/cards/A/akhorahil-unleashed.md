@@ -22,5 +22,8 @@ permalink: /cards/akhorahil-unleashed/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable on Akhorahil the Ringwraith (as your Ringwraith). You may take a magic card from your play deck or discard pile to your hand (reshuffle play deck if searched). <br>_“‘As the Power grows, its proved friends will also grow...’”_ ***---&#65279;LotRII*** 
+> > Playable on Akhorahil the Ringwraith (as your Ringwraith). You may take a magic card from your play deck or discard pile to your hand (reshuffle play deck if searched). 
+> > 
+> > {: .fs-3 } 
+> > _“‘As the Power grows, its proved friends will also grow...’”_ ***---&#65279;LotRII*** 
 > 

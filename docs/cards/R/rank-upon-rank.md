@@ -22,7 +22,10 @@ permalink: /cards/rank-upon-rank/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > All non-agent Man attacks receive +1 prowess and +1 strikes. If Doors of Night is in play, all Giant attacks also receive these bonuses. Discard this card when such an affected attack (automatic, hazard creature, or otherwise) is defeated. Cannot be duplicated. <br>_“...rank upon rank...passing outwards in an endless stream."_ ***---&#65279;LotRIV***  
+> > All non-agent Man attacks receive +1 prowess and +1 strikes. If Doors of Night is in play, all Giant attacks also receive these bonuses. Discard this card when such an affected attack (automatic, hazard creature, or otherwise) is defeated. Cannot be duplicated. 
+> > 
+> > {: .fs-3 } 
+> > _“...rank upon rank...passing outwards in an endless stream."_ ***---&#65279;LotRIV***  
 >
 
 ### _Middle-earth Challenge Decks_
@@ -36,5 +39,8 @@ permalink: /cards/rank-upon-rank/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > All non-agent Man attacks receive +1 prowess and +1 strikes. If Doors of Night is in play, all Giant attacks also receive these bonuses. Discard this card when such an affected attack (automatic, hazard creature, or otherwise) is defeated. Cannot be duplicated. <br>_“...rank upon rank...passing outwards in an endless stream."_ ***---&#65279;LotRIV***  
+> > All non-agent Man attacks receive +1 prowess and +1 strikes. If Doors of Night is in play, all Giant attacks also receive these bonuses. Discard this card when such an affected attack (automatic, hazard creature, or otherwise) is defeated. Cannot be duplicated. 
+> > 
+> > {: .fs-3 } 
+> > _“...rank upon rank...passing outwards in an endless stream."_ ***---&#65279;LotRIV***  
 >

@@ -25,7 +25,10 @@ permalink: /cards/horn-of-anor/
 > Minor Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > +2 direct influence used against a faction. May not be duplicated on a given character. <br>_“‘...a great horn of the wild ox of the East, bound with silver, and written with ancient characters. ...if it be blown at need anywhere within the bounds of Gondor, as the realm was of old, its voice will not pass unheeded.’”_ ***---&#65279;LotRIV***
+> > +2 direct influence used against a faction. May not be duplicated on a given character. 
+> > 
+> > {: .fs-3 } 
+> > _“‘...a great horn of the wild ox of the East, bound with silver, and written with ancient characters. ...if it be blown at need anywhere within the bounds of Gondor, as the realm was of old, its voice will not pass unheeded.’”_ ***---&#65279;LotRIV***
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -45,7 +48,10 @@ permalink: /cards/horn-of-anor/
 > Minor Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > +2 direct influence used against a faction. May not be duplicated on a given character. <br>_“‘...a great horn of the wild ox of the East, bound with silver, and written with ancient characters. ...if it be blown at need anywhere within the bounds of Gondor, as the realm was of old, its voice will not pass unheeded.’”_ ***---&#65279;LotRIV***
+> > +2 direct influence used against a faction. May not be duplicated on a given character. 
+> > 
+> > {: .fs-3 } 
+> > _“‘...a great horn of the wild ox of the East, bound with silver, and written with ancient characters. ...if it be blown at need anywhere within the bounds of Gondor, as the realm was of old, its voice will not pass unheeded.’”_ ***---&#65279;LotRIV***
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -65,7 +71,10 @@ permalink: /cards/horn-of-anor/
 > Minor Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > +2 direct influence used against a faction. May not be duplicated on a given character. <br>_“‘...a great horn of the wild ox of the East, bound with silver, and written with ancient characters. ...if it be blown at need anywhere within the bounds of Gondor, as the realm was of old, its voice will not pass unheeded.’”_ ***---&#65279;LotRIV***
+> > +2 direct influence used against a faction. May not be duplicated on a given character. 
+> > 
+> > {: .fs-3 } 
+> > _“‘...a great horn of the wild ox of the East, bound with silver, and written with ancient characters. ...if it be blown at need anywhere within the bounds of Gondor, as the realm was of old, its voice will not pass unheeded.’”_ ***---&#65279;LotRIV***
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

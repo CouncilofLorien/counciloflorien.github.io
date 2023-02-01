@@ -25,7 +25,10 @@ permalink: /cards/ghosts/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Undead._ Three strikes. After attack, each character wounded by the Ghosts makes a corruption check modified by -1. <br>_"Many faces proud and fair, and weeds in their silver hair. But all foul, all rotting, all dead."_ ***---&#65279;LotRIV*** 
+> > _Undead._ Three strikes. After attack, each character wounded by the Ghosts makes a corruption check modified by -1. 
+> > 
+> > {: .fs-3 } 
+> > _“Many faces proud and fair, and weeds in their silver hair. But all foul, all rotting, all dead."_ ***---&#65279;LotRIV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 9/&ndash; 】</div>
@@ -45,7 +48,10 @@ permalink: /cards/ghosts/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Undead._ Three strikes. After attack, each character wounded by _Ghosts_ makes a corruption check modified by -1. <br>_"Many faces proud and fair, and weeds in their silver hair. But all foul, all rotting, all dead."_ ***---&#65279;LotRIV*** 
+> > _Undead._ Three strikes. After attack, each character wounded by _Ghosts_ makes a corruption check modified by -1. 
+> > 
+> > {: .fs-3 } 
+> > _“Many faces proud and fair, and weeds in their silver hair. But all foul, all rotting, all dead."_ ***---&#65279;LotRIV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 9/&ndash; 】</div>
@@ -65,7 +71,10 @@ permalink: /cards/ghosts/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Undead._ Three strikes. After attack, each character wounded by _Ghosts_ makes a corruption check modified by -1. <br>_"Many faces proud and fair, and weeds in their silver hair. But all foul, all rotting, all dead."_ ***---&#65279;LotRIV*** 
+> > _Undead._ Three strikes. After attack, each character wounded by _Ghosts_ makes a corruption check modified by -1. 
+> > 
+> > {: .fs-3 } 
+> > _“Many faces proud and fair, and weeds in their silver hair. But all foul, all rotting, all dead."_ ***---&#65279;LotRIV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 9/&ndash; 】</div>
@@ -85,7 +94,10 @@ permalink: /cards/ghosts/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Undead._ Three strikes. After attack, each character wounded by _Ghosts_ makes a corruption check modified by -1. <br>_"The Dead are following...I see shapes of Men and of horses, and pale banners like shreds of cloud, and spears like winter-thickets on a misty night. The Dead are following."_ ***---&#65279;LotRV*** 
+> > _Undead._ Three strikes. After attack, each character wounded by _Ghosts_ makes a corruption check modified by -1. 
+> > 
+> > {: .fs-3 } 
+> > _“The Dead are following...I see shapes of Men and of horses, and pale banners like shreds of cloud, and spears like winter-thickets on a misty night. The Dead are following."_ ***---&#65279;LotRV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 9/&ndash; 】</div>
@@ -105,7 +117,10 @@ permalink: /cards/ghosts/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Undead._ Three strikes. After attack, each character wounded by _Ghosts_ makes a corruption check modified by -1. <br>_"The Dead are following...I see shapes of Men and of horses, and pale banners like shreds of cloud, and spears like winter-thickets on a misty night. The Dead are following."_ ***---&#65279;LotRV*** 
+> > _Undead._ Three strikes. After attack, each character wounded by _Ghosts_ makes a corruption check modified by -1. 
+> > 
+> > {: .fs-3 } 
+> > _“The Dead are following...I see shapes of Men and of horses, and pale banners like shreds of cloud, and spears like winter-thickets on a misty night. The Dead are following."_ ***---&#65279;LotRV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 9/&ndash; 】</div>
@@ -125,7 +140,10 @@ permalink: /cards/ghosts/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Undead._ Three strikes. After attack, each character wounded by _Ghosts_ makes a corruption check modified by -1. <br>_"The Dead are following...I see shapes of Men and of horses, and pale banners like shreds of cloud, and spears like winter-thickets on a misty night. The Dead are following."_ ***---&#65279;LotRV*** 
+> > _Undead._ Three strikes. After attack, each character wounded by _Ghosts_ makes a corruption check modified by -1. 
+> > 
+> > {: .fs-3 } 
+> > _“The Dead are following...I see shapes of Men and of horses, and pale banners like shreds of cloud, and spears like winter-thickets on a misty night. The Dead are following."_ ***---&#65279;LotRV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 9/&ndash; 】</div>

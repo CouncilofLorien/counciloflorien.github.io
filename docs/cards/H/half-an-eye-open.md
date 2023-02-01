@@ -22,5 +22,8 @@ permalink: /cards/half-an-eye-open/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a Dragon or Drake attack (before the strikes are assigned). Attacker may choose defending non-Wizard character to face the first strike assigned from the attack. Alternatively, it may be revealed as an on-guard card when a burglary attempt is announced-this attempt is modified by -5. <br>_“...they keep half an eye open watching while they sleep, if they are suspicious.."_ ***---&#65279;Hob*** 
+> > Playable on a Dragon or Drake attack (before the strikes are assigned). Attacker may choose defending non-Wizard character to face the first strike assigned from the attack. Alternatively, it may be revealed as an on-guard card when a burglary attempt is announced-this attempt is modified by -5. 
+> > 
+> > {: .fs-3 } 
+> > _“...they keep half an eye open watching while they sleep, if they are suspicious.."_ ***---&#65279;Hob*** 
 >

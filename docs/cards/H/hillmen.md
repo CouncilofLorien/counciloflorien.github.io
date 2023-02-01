@@ -22,7 +22,10 @@ permalink: /cards/hillmen/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ ***Playable at Cameth Brin*** <br>&ensp;if the influence check is greater than 9.  <br>_Standard Modifications:_ Men (+1). <br>_"These were a remnant of the peoples that had dwelt in the vales of the White Mountains in ages past...But in the Dark Years others had removed to the southern dales of the Misty Mountains...”_ ***---&#65279;LotR*** 
+> > _**Unique.**_ ***Playable at Cameth Brin*** <br>&ensp;if the influence check is greater than 9.  <br>_Standard Modifications:_ Men (+1). 
+> > 
+> > {: .fs-3 } 
+> > _“These were a remnant of the peoples that had dwelt in the vales of the White Mountains in ages past...But in the Dark Years others had removed to the southern dales of the Misty Mountains...”_ ***---&#65279;LotR*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,7 +39,10 @@ permalink: /cards/hillmen/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ ***Playable at Cameth Brin*** <br>&ensp;if the influence check is greater than 9.  <br>_Standard Modifications:_ Men (+1). <br>_"These were a remnant of the peoples that had dwelt in the vales of the White Mountains in ages past...But in the Dark Years others had removed to the southern dales of the Misty Mountains...”_ ***---&#65279;LotR*** 
+> > _**Unique.**_ ***Playable at Cameth Brin*** <br>&ensp;if the influence check is greater than 9.  <br>_Standard Modifications:_ Men (+1). 
+> > 
+> > {: .fs-3 } 
+> > _“These were a remnant of the peoples that had dwelt in the vales of the White Mountains in ages past...But in the Dark Years others had removed to the southern dales of the Misty Mountains...”_ ***---&#65279;LotR*** 
 > 
 
 ### _Middle-earth: The Lidless Eye_
@@ -50,5 +56,8 @@ permalink: /cards/hillmen/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Manifestation of hero Hillmen. Playable at Cameth Brin if the influence check is greater than 10.  <br>_Standard Modifications:_ Dunlendings (+2), Angmarim (+2). <br>_“...in secret league with Angmar...Rhudaur was occupied by evil Men...”_ ***---&#65279;LotR***  
+> > _**Unique.**_ Manifestation of hero Hillmen. Playable at Cameth Brin if the influence check is greater than 10.  <br>_Standard Modifications:_ Dunlendings (+2), Angmarim (+2). 
+> > 
+> > {: .fs-3 } 
+> > _“...in secret league with Angmar...Rhudaur was occupied by evil Men...”_ ***---&#65279;LotR***  
 > 

@@ -22,7 +22,10 @@ permalink: /cards/secret-entrance/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable only at the end of the organization phase;*** may not be played on a company moving to a site in a Dark-domain \[![](/assets/images/dark-domain.svg)]. Tap a sage in the company, and no hazard creatures keyed to the site may be played on the company. <br>_“...their own masters cannot find them...if their secret is forgotten."_ ***---&#65279;LotRII*** 
+> > ***Playable only at the end of the organization phase;*** may not be played on a company moving to a site in a Dark-domain \[![](/assets/images/dark-domain.svg)]. Tap a sage in the company, and no hazard creatures keyed to the site may be played on the company. 
+> > 
+> > {: .fs-3 } 
+> > _“...their own masters cannot find them...if their secret is forgotten."_ ***---&#65279;LotRII*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,5 +39,8 @@ permalink: /cards/secret-entrance/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable only at the end of the organization phase;*** may not be played on a company moving to a site in a Dark-domain \[![](/assets/images/dark-domain.svg)]. Tap a sage in the company, and no hazard creatures keyed to the site may be played on the company. <br>_“...their own masters cannot find them...if their secret is forgotten."_ ***---&#65279;LotRII*** 
+> > ***Playable only at the end of the organization phase;*** may not be played on a company moving to a site in a Dark-domain \[![](/assets/images/dark-domain.svg)]. Tap a sage in the company, and no hazard creatures keyed to the site may be played on the company. 
+> > 
+> > {: .fs-3 } 
+> > _“...their own masters cannot find them...if their secret is forgotten."_ ***---&#65279;LotRII*** 
 > 

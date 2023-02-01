@@ -25,7 +25,13 @@ permalink: /cards/nimloth/
 > Scout/Ranger Elf
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ Agent. +2 direct influence against Elves and Elf factions. Agent only: may move to a Haven \[![](/assets/images/free-haven.svg)]. <br>_“‘White Blossom,' they called her, for she was names after the kinswoman of Celeborn, the mother of Dior the jewel-bearer's children: Elured, Eluin, and fair Elwing, mother of Elrond."_ ***---&#65279;Kuduk Lore***  <br><br>**Home Site:** Thranduil's Halls, Sarn Goriwing 
+> > _**Unique.**_ Agent. +2 direct influence against Elves and Elf factions. Agent only: may move to a Haven \[![](/assets/images/free-haven.svg)]. 
+> > 
+> > {: .fs-3 } 
+> > _“‘White Blossom,' they called her, for she was names after the kinswoman of Celeborn, the mother of Dior the jewel-bearer's children: Elured, Eluin, and fair Elwing, mother of Elrond."_ ***---&#65279;Kuduk Lore***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Thranduil's Halls, Sarn Goriwing 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 3/8 】</div>

@@ -22,7 +22,10 @@ permalink: /cards/sable-shield/
 > Major Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Shield._ If a strike against the bearer is successful, he is not wounded. Instead, the attacker makes a roll (draws a #)-if this result is greater than 6, discard Shield of Sable.   <br>_“...boiling and crawling with black shapes, some squat and broad, some tall and grim, with high helms and sable shields."_ ***---&#65279;LotRIII*** 
+> > _**Unique.**_ _Shield._ If a strike against the bearer is successful, he is not wounded. Instead, the attacker makes a roll (draws a #)-if this result is greater than 6, discard Shield of Sable.   
+> > 
+> > {: .fs-3 } 
+> > _“...boiling and crawling with black shapes, some squat and broad, some tall and grim, with high helms and sable shields."_ ***---&#65279;LotRIII*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -39,7 +42,10 @@ permalink: /cards/sable-shield/
 > Major Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Shield._ If a strike against the bearer is successful, he is not wounded. Instead, the attacker makes a roll (draws a #)-if this result is greater than 6, discard Shield of Sable.   <br>_“...boiling and crawling with black shapes, some squat and broad, some tall and grim, with high helms and sable shields."_ ***---&#65279;LotRIII*** 
+> > _**Unique.**_ _Shield._ If a strike against the bearer is successful, he is not wounded. Instead, the attacker makes a roll (draws a #)-if this result is greater than 6, discard Shield of Sable.   
+> > 
+> > {: .fs-3 } 
+> > _“...boiling and crawling with black shapes, some squat and broad, some tall and grim, with high helms and sable shields."_ ***---&#65279;LotRIII*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -56,7 +62,10 @@ permalink: /cards/sable-shield/
 > Major Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Shield._ If a strike against the bearer is successful, he is not wounded. Instead, the attacker makes a roll (draws a #)-if this result is greater than 6, discard Shield of Sable.   <br>_“...boiling and crawling with black shapes, some squat and broad, some tall and grim, with high helms and sable shields."_ ***---&#65279;LotRIII*** 
+> > _**Unique.**_ _Shield._ If a strike against the bearer is successful, he is not wounded. Instead, the attacker makes a roll (draws a #)-if this result is greater than 6, discard Shield of Sable.   
+> > 
+> > {: .fs-3 } 
+> > _“...boiling and crawling with black shapes, some squat and broad, some tall and grim, with high helms and sable shields."_ ***---&#65279;LotRIII*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

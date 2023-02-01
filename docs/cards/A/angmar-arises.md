@@ -22,5 +22,8 @@ permalink: /cards/angmar-arises/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Any creature that can be keyed to a Shadow-land \[![](/assets/images/shadow-land.svg)] may be keyed to Forochel, Arthedain, Angmar, Gundabad, or Rhudaur. Any creature that can be keyed to a Dark-domain \[![](/assets/images/dark-domain.svg)] may be keyed to Angmar or Gundabad. Discard this card when a creature keyed to one of these symbols (not to the regions symbol) is defeated. <br>_“...the power of Angmar arose again, and the Witch-king came down upon Arthedain...”_ ***---&#65279;LotR*** 
+> > Any creature that can be keyed to a Shadow-land \[![](/assets/images/shadow-land.svg)] may be keyed to Forochel, Arthedain, Angmar, Gundabad, or Rhudaur. Any creature that can be keyed to a Dark-domain \[![](/assets/images/dark-domain.svg)] may be keyed to Angmar or Gundabad. Discard this card when a creature keyed to one of these symbols (not to the regions symbol) is defeated. 
+> > 
+> > {: .fs-3 } 
+> > _“...the power of Angmar arose again, and the Witch-king came down upon Arthedain...”_ ***---&#65279;LotR*** 
 >
