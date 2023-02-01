@@ -28,5 +28,5 @@ permalink: /cards/to-fealty-sworn/
 > > Playable on a Hobbit: in the same company as Return of the King or during the same site phase his company plays a unique hero faction at a Free-hold \[![](/assets/images/free-hold.svg)] (not Bag End). The Hobbit gains the warrior skill. +2 prowess, and +5 direct influence against the Hobbits faction and characters with Bag End as a home site. Cannot be duplicated on a given Hobbit.  
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【+2/&ndash;】</div>
+> > <div class="card-shield">【 +2/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>

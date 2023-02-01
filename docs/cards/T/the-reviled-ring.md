@@ -28,5 +28,5 @@ permalink: /cards/the-reviled-ring/
 > > _Spirit Ring._ _Weapon._ Playable only with a Gold Ring and after a test indicates a _Spirit Ring._ -2 to bearer's mind (minimum of 1). +3 to bearer's prowess. Cannot be duplicated on a given character. <br>_“‘This is a thing of worth...For its ancientry alone.’”_ ***---&#65279;LotR*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【+3/&ndash;】</div>
-> > <div class="card-corruption-white">〔2〕</div>
+> > <div class="card-shield">【 +3/&ndash; 】</div>
+> > <div class="card-corruption-white">〔 2 〕</div>

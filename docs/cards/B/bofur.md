@@ -28,8 +28,8 @@ permalink: /cards/bofur/
 > > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions. <br>_"Bifur and Bofur went out too, and came back with clarinets that they had left among the walking sticks."_ ***---&#65279;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【4/7】</div>
-> > <div class="card-corruption">〔-1〕</div>
+> > <div class="card-shield">【 4/7 】</div>
+> > <div class="card-corruption">〔 -1 〕</div>
 
 ### _Middle-earth: The Wizards Unlimited_
 
@@ -48,8 +48,8 @@ permalink: /cards/bofur/
 > > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions. <br>_"Bifur and Bofur went out too, and came back with clarinets that they had left among the walking sticks."_ ***---&#65279;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【4/7】</div>
-> > <div class="card-corruption">〔-1〕</div>
+> > <div class="card-shield">【 4/7 】</div>
+> > <div class="card-corruption">〔 -1 〕</div>
 
 ### _Middle-earth Challenge Decks_
 
@@ -68,5 +68,5 @@ permalink: /cards/bofur/
 > > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions. <br>_"Bifur and Bofur went out too, and came back with clarinets that they had left among the walking sticks."_ ***---&#65279;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【4/7】</div>
-> > <div class="card-corruption">〔-1〕</div>
+> > <div class="card-shield">【 4/7 】</div>
+> > <div class="card-corruption">〔 -1 〕</div>

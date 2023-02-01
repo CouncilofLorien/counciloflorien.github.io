@@ -25,5 +25,5 @@ permalink: /cards/thranduils-folk/
 > > _Elves._ Each character in the company faces on strike (detainment against covert and hero companies). May be played keyed to Woodland Realm, Western Mirkwood, Heart of Mirkwood, Northern Rhovanion, and Grey Mountain Narrows; and may also be at sites in these regions. May not be played against a company containing a character with Thranduil's Halls as a home site. 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【10/6】</div>
+> > <div class="card-shield">【 10/6 】</div>
 > > <div class="card-corruption">&nbsp;</div>

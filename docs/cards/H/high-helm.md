@@ -25,8 +25,8 @@ permalink: /cards/high-helm/
 > > _**Unique.**_ _Helmet:_ +2 to direct influence. +1 to body to a maximum of 9. Warrior only: +1 to prowess to a maximum of 8. <br>_“...and black was his lofty helm...”_ ***---&#65279;LotRI*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【(+1)/+1】</div>
-> > <div class="card-corruption-white">〔2〕</div>
+> > <div class="card-shield">【 (+1)/+1 】</div>
+> > <div class="card-corruption-white">〔 2 〕</div>
 
 ### _Middle-earth Challenge Decks_
 
@@ -42,8 +42,8 @@ permalink: /cards/high-helm/
 > > _**Unique.**_ _Helmet:_ +2 to direct influence. +1 to body to a maximum of 9. Warrior only: +1 to prowess to a maximum of 8. <br>_“...and black was his lofty helm...”_ ***---&#65279;LotRI*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【(+1)/+1】</div>
-> > <div class="card-corruption-white">〔2〕</div>
+> > <div class="card-shield">【 (+1)/+1 】</div>
+> > <div class="card-corruption-white">〔 2 〕</div>
 
 ### _Middle-earth: The Balrog Reprint_
 
@@ -59,5 +59,5 @@ permalink: /cards/high-helm/
 > > _**Unique.**_ _Helmet:_ +2 to direct influence. +1 to body to a maximum of 9. Warrior only: +1 to prowess to a maximum of 8. <br>_“...and black was his lofty helm...”_ ***---&#65279;LotRI*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【(+1)/+1】</div>
-> > <div class="card-corruption-white">〔2〕</div>
+> > <div class="card-shield">【 (+1)/+1 】</div>
+> > <div class="card-corruption-white">〔 2 〕</div>

@@ -25,5 +25,5 @@ permalink: /cards/lord-of-the-carrock/
 > > _**Unique.**_ _Man._ Manifestation of Beorn. One strike. Detainment against hero companies. As a creature, may be played keyed to Anduin Vales, Woodland Realm, Western Mirkwood, Wold & Foothills, High Pass, or Redhorn Gate; or at sites in these regions. As a permanent-event, all influence attempts against Man factions are modified by -2. Discard when any play deck is exhausted. 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【16/9】</div>
+> > <div class="card-shield">【 16/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>

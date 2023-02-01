@@ -19,7 +19,7 @@ permalink: /cards/haldalam/
 > > <div class="character-card-name">Haldalam</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 5 ![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
+> > 5 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Diplomat Dunadan
@@ -28,7 +28,7 @@ permalink: /cards/haldalam/
 > > _**Unique.**_ +4 direct influence against the Easterlings faction. <br>_“...he passed out of the knowledge of Men of the West, and went alone far into the East and deep into the South, exploring the hearts of Men, both evil and good, and uncovering the plots and devices of Sauron."_ ***---&#65279;LotR***  <br><br>**Home Site:** Shrel-Kain 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【4/9】</div>
+> > <div class="card-shield">【 4/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -39,7 +39,7 @@ permalink: /cards/haldalam/
 > > <div class="character-card-name">Haldalam</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 5 ![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
+> > 5 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Diplomat Dunadan
@@ -48,5 +48,5 @@ permalink: /cards/haldalam/
 > > _**Unique.**_ +4 direct influence against the Easterlings faction. <br>_“...he passed out of the knowledge of Men of the West, and went alone far into the East and deep into the South, exploring the hearts of Men, both evil and good, and uncovering the plots and devices of Sauron."_ ***---&#65279;LotR***  <br><br>**Home Site:** Shrel-Kain 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【4/9】</div>
+> > <div class="card-shield">【 4/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>

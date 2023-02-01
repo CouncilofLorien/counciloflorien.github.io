@@ -28,5 +28,5 @@ permalink: /cards/flame-of-udun/
 > > _Balrog specific._ _Demon fana._ Playable during your organization phase on The Balrog. Return this card to your hand: when you play another Demon fana card, or, if you choose, during your organization phase. Discard his allies. No other characters or allies can be in his company outside of the organization phase. +3 prowess; -2 direct influence; +1 to all body checks resulting from failed strikes against The Balrog. If The Balrog attacks successfully in company vs. company combat, +1 to defending character's body check. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【+3/&ndash;】</div>
+> > <div class="card-shield">【 +3/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

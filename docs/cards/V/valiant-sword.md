@@ -25,5 +25,5 @@ permalink: /cards/valiant-sword/
 > > _Hoard item._ _Weapon._ +2 to bearer's prowess to a maximum of 9. Warrior only: +1 to body to a maximum of 9.   <br>_“...his sword of steel was valiant...”_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【+2/(+1)】</div>
-> > <div class="card-corruption">〔2〕</div>
+> > <div class="card-shield">【 +2/(+1) 】</div>
+> > <div class="card-corruption">〔 2 〕</div>

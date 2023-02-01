@@ -19,7 +19,7 @@ permalink: /cards/gamling-the-old/
 > > <div class="character-card-name">Gamling the Old</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 2 ![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
+> > 2 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior Man
@@ -28,7 +28,7 @@ permalink: /cards/gamling-the-old/
 > > _**Unique.**_  <br>_“‘Maybe, we have a thousand to fight on foot... But most of them have seen too many winters, as I have, or too few, as my son's son here.’”_ ***---&#65279;LotRIII***  <br><br>**Home Site:** Edoras 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【3/7】</div>
+> > <div class="card-shield">【 3/7 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -39,7 +39,7 @@ permalink: /cards/gamling-the-old/
 > > <div class="character-card-name">Gamling the Old</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 2 ![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
+> > 2 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior Man
@@ -48,5 +48,5 @@ permalink: /cards/gamling-the-old/
 > > _**Unique.**_  <br>_“‘Maybe, we have a thousand to fight on foot... But most of them have seen too many winters, as I have, or too few, as my son's son here.’”_ ***---&#65279;LotRIII***  <br><br>**Home Site:** Edoras 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【3/7】</div>
+> > <div class="card-shield">【 3/7 】</div>
 > > <div class="card-corruption">&nbsp;</div>

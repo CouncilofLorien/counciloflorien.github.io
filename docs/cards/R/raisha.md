@@ -19,7 +19,7 @@ permalink: /cards/raisha/
 > > <div class="card-name">Raisha</div>
 >
 > {: .minion-character-frame .black-text .p-1 .pl-2 }
-> > 5 ![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
+> > 5 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Scout Man
@@ -28,5 +28,5 @@ permalink: /cards/raisha/
 > > _**Unique.**_ Agent. <br>_"Not all of those Southerners meant well...”_ ***---&#65279;LotRI***  <br><br>**Home Site:** Variag Camp, Easterling Camp, Southron Oasis 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【5/9】</div>
+> > <div class="card-shield">【 5/9 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

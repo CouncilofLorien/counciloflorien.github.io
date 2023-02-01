@@ -28,7 +28,7 @@ permalink: /cards/orc-raiders/
 > > _Orcs._ Four strikes. <br>_“...Ugluk's followers leaped over him and cut down another with their broad-bladed swords. It was the yellow-fanged guard. His bloody body fell...still clutching his long saw-edged knife."_ ***---&#65279;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【6/&ndash;】</div>
+> > <div class="card-shield">【 6/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -48,7 +48,7 @@ permalink: /cards/orc-raiders/
 > > _Orcs._ Four strikes. <br>_“...Ugluk's followers leaped over him and cut down another with their broad-bladed swords. It was the yellow-fanged guard. His bloody body fell...still clutching his long saw-edged knife."_ ***---&#65279;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【6/&ndash;】</div>
+> > <div class="card-shield">【 6/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Starter Set_
@@ -68,7 +68,7 @@ permalink: /cards/orc-raiders/
 > > _Orcs._ Four strikes. <br>_“...Ugluk's followers leaped over him and cut down another with their broad-bladed swords. It was the yellow-fanged guard. His bloody body fell...still clutching his long saw-edged knife."_ ***---&#65279;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【6/&ndash;】</div>
+> > <div class="card-shield">【 6/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth: The Lidless Eye_
@@ -88,5 +88,5 @@ permalink: /cards/orc-raiders/
 > > _Orcs._ Four strikes. <br>_"Orcs began to raid...and slay or steal horses."_ ***---&#65279;LotR*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【6/&ndash;】</div>
+> > <div class="card-shield">【 6/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>

@@ -28,7 +28,7 @@ permalink: /cards/giant-spiders/
 > > _Spiders._ Two strikes. If the body check for a non-Wizard character wounded by Giant Spiders equals the character's body, the character is discarded. <br>&ensp;May also be played keyed to Heart of Mirkwood, Southern Mirkwood, Western Mirkwood, and Woodland Realm; and may also be played at Ruins & Lairs \[![](/assets/images/ruinlair.svg)], Shadow-holds \[![](/assets/images/shadow-hold.svg)], and Dark-holds \[![](/assets/images/dark-hold.svg)] in these regions. <br>&ensp;Two Wildernesses \[![](/assets/images/wilderness.svg)] in the site path are otherwise required. 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【10/&ndash;】</div>
+> > <div class="card-shield">【 10/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -48,7 +48,7 @@ permalink: /cards/giant-spiders/
 > > _Spiders._ Two strikes. If the body check for a non-Wizard character wounded by Giant Spiders equals his body, the character is discarded. <br>&ensp;May also be played keyed to Heart of Mirkwood, Southern Mirkwood, Western Mirkwood, and Woodland Realm; and may also be played at Ruins & Lairs \[![](/assets/images/ruinlair.svg)], Shadow-holds \[![](/assets/images/shadow-hold.svg)], and Dark-holds \[![](/assets/images/dark-hold.svg)] in these regions. <br>&ensp;Two Wildernesses \[![](/assets/images/wilderness.svg)] in the site path are otherwise required. 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【10/&ndash;】</div>
+> > <div class="card-shield">【 10/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth: The Lidless Eye_
@@ -68,7 +68,7 @@ permalink: /cards/giant-spiders/
 > > _Spiders._ Two strikes. If the body check for a non-Wizard, non-Ringwraith character character wounded by Giant Spiders equals his body, the character is discarded. May also be played keyed to Heart of Mirkwood, Southern Mirkwood, Western Mirkwood, and Woodland Realm; and may also be played at Ruins & Lairs \[![](/assets/images/ruinlair.svg)], Shadow-holds \[![](/assets/images/shadow-hold.svg)], and Dark-holds \[![](/assets/images/dark-hold.svg)] in these regions. 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【10/&ndash;】</div>
+> > <div class="card-shield">【 10/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -88,7 +88,7 @@ permalink: /cards/giant-spiders/
 > > _Spiders._ Two strikes. If the body check for a non-Wizard, non-Ringwraith character character wounded by Giant Spiders equals his body, the character is discarded. <br>&ensp;May also be played keyed to Heart of Mirkwood, Southern Mirkwood, Western Mirkwood, and Woodland Realm; and may also be played at Ruins & Lairs \[![](/assets/images/ruinlair.svg)], Shadow-holds \[![](/assets/images/shadow-hold.svg)], and Dark-holds \[![](/assets/images/dark-hold.svg)] in these regions. 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【10/&ndash;】</div>
+> > <div class="card-shield">【 10/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth: The Balrog Reprint_
@@ -108,5 +108,5 @@ permalink: /cards/giant-spiders/
 > > _Spiders._ Two strikes. If the body check for a non-Wizard, non-Ringwraith character character wounded by Giant Spiders equals his body, the character is discarded. May also be played keyed to Heart of Mirkwood, Southern Mirkwood, Western Mirkwood, and Woodland Realm; and may also be played at Ruins & Lairs \[![](/assets/images/ruinlair.svg)], Shadow-holds \[![](/assets/images/shadow-hold.svg)], and Dark-holds \[![](/assets/images/dark-hold.svg)] in these regions. 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【10/&ndash;】</div>
+> > <div class="card-shield">【 10/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

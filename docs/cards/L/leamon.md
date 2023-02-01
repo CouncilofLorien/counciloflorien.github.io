@@ -28,5 +28,5 @@ permalink: /cards/leamon/
 > > _**Unique.**_ Agent. <br>_"Leamon grew up at Cameth Brin, in the shadow of the great 'Troll Tower,' and he carried an ageless spear a forefather won from a Dunadan venturer o fabled Lond Daer."_ ***---&#65279;Kuduk Lore***  <br><br>**Home Site:** Cameth Brin,, Dunnish Clan-hold 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【5/8】</div>
+> > <div class="card-shield">【 5/8 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

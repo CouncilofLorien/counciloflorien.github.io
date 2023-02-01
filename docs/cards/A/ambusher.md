@@ -28,7 +28,7 @@ permalink: /cards/ambusher/
 > > _Men._ Two strikes. Attacker chooses defending characters. <br>_“...suddenly Wormtongue rose up, drawing a hidden knife, and then with a snarl like a dog he sprang on Saruman's back, jerked his head back, cut his throat, and with a yell ran off down the lane."_ ***---&#65279;LotRVI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【10/&ndash;】</div>
+> > <div class="card-shield">【 10/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -48,7 +48,7 @@ permalink: /cards/ambusher/
 > > _Men._ Two strikes. Attacker chooses defending characters. <br>_“...suddenly Wormtongue rose up, drawing a hidden knife, and then with a snarl like a dog he sprang on Saruman's back, jerked his head back, cut his throat, and with a yell ran off down the lane."_ ***---&#65279;LotRVI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【10/&ndash;】</div>
+> > <div class="card-shield">【 10/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth: The Lidless Eye_
@@ -68,7 +68,7 @@ permalink: /cards/ambusher/
 > > _Men._ Two strikes. Attacker chooses defending characters. <br>_“...stealing up the slopes, singly or in long files, keeping always to the shade of the grove or thicket,or crawling, hardly visible in their brown and green raiment, through grass and brake."_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【10/&ndash;】</div>
+> > <div class="card-shield">【 10/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -88,5 +88,5 @@ permalink: /cards/ambusher/
 > > _Men._ Two strikes. Attacker chooses defending characters. <br>_“...stealing up the slopes, singly or in long files, keeping always to the shade of the grove or thicket,or crawling, hardly visible in their brown and green raiment, through grass and brake."_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【10/&ndash;】</div>
+> > <div class="card-shield">【 10/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

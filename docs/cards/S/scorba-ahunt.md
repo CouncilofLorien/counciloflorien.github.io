@@ -25,7 +25,7 @@ permalink: /cards/scorba-ahunt/
 > > _**Unique.**_ Any company moving in Forochel, Angmar, and/or Gundabad immediately faces one Dragon attack (considered a hazard creature attack)-4 strikes at 10/7. If Doors of Night is in play, this attack also affects: Numeriador, Arthedain, and Rhudaur. 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【10/7】</div>
+> > <div class="card-shield">【 10/7 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -42,7 +42,7 @@ permalink: /cards/scorba-ahunt/
 > > _**Unique.**_ Any company moving in Forochel, Angmar, and/or Gundabad immediately faces one Dragon attack (considered a hazard creature attack)-4 strikes at 10/7. If Doors of Night is in play, this attack also affects: Numeriador, Arthedain, and Rhudaur. 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【10/7】</div>
+> > <div class="card-shield">【 10/7 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth: The Balrog Reprint_
@@ -59,5 +59,5 @@ permalink: /cards/scorba-ahunt/
 > > _**Unique.**_ Any company moving in Forochel, Angmar, and/or Gundabad immediately faces one Dragon attack (considered a hazard creature attack)-4 strikes at 10/7. If Doors of Night is in play, this attack also affects: Numeriador, Arthedain, and Rhudaur. 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【10/7】</div>
+> > <div class="card-shield">【 10/7 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

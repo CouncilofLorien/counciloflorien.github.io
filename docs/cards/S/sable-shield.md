@@ -26,7 +26,7 @@ permalink: /cards/sable-shield/
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
-> > <div class="card-corruption-white">〔2〕</div>
+> > <div class="card-corruption-white">〔 2 〕</div>
 
 ### _Middle-earth Challenge Decks_
 
@@ -43,7 +43,7 @@ permalink: /cards/sable-shield/
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
-> > <div class="card-corruption-white">〔2〕</div>
+> > <div class="card-corruption-white">〔 2 〕</div>
 
 ### _Middle-earth: The Balrog Reprint_
 
@@ -60,4 +60,4 @@ permalink: /cards/sable-shield/
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
-> > <div class="card-corruption-white">〔2〕</div>
+> > <div class="card-corruption-white">〔 2 〕</div>

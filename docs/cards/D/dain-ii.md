@@ -19,7 +19,7 @@ permalink: /cards/dain-ii/
 > > <div class="character-card-name">Dain II</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 7 ![](/assets/images/mind.svg) 3![](/assets/images/di.svg)
+> > 7 ![](/assets/images/mind.svg)&ensp;3![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Diplomat Dwarf
@@ -28,7 +28,7 @@ permalink: /cards/dain-ii/
 > > _**Unique.**_ +2 direct influence against Iron Hill Dwarves. +2 prowess against Orcs. <br>&ensp;+1 direct influence against Men and Man factions. <br>_“...Dain...became King under the Mountain, and...many other dwarves gathered to his throne...”_ ***---&#65279;Hob***  <br><br>**Home Site:** Iron Hill Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【5/8】</div>
+> > <div class="card-shield">【 5/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -39,7 +39,7 @@ permalink: /cards/dain-ii/
 > > <div class="character-card-name">Dain II</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 7 ![](/assets/images/mind.svg) 3![](/assets/images/di.svg)
+> > 7 ![](/assets/images/mind.svg)&ensp;3![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Diplomat Dwarf
@@ -48,5 +48,5 @@ permalink: /cards/dain-ii/
 > > _**Unique.**_ +2 direct influence against the Iron Hill Dwarves faction. +2 prowess against Orcs. <br>&ensp;+1 direct influence against Men and Man factions. <br>_“...Dain...became King under the Mountain, and...many other dwarves gathered to his throne...”_ ***---&#65279;Hob***  <br><br>**Home Site:** Iron Hill Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【5/8】</div>
+> > <div class="card-shield">【 5/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>

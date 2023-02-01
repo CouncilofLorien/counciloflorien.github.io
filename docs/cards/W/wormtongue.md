@@ -19,7 +19,7 @@ permalink: /cards/wormtongue/
 > > <div class="card-name">Wormtongue</div>
 >
 > {: .minion-character-frame .black-text .p-1 .pl-2 }
-> > 5 ![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
+> > 5 ![](/assets/images/mind.svg)&ensp;2![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Scout/Sage/Diplomat Man
@@ -28,5 +28,5 @@ permalink: /cards/wormtongue/
 > > _**Unique.**_ Agent. +4 direct influence against Riders of Rohan and any character or minion that has Edoras as a home site. <br>_"At his feet upon the steps sat a wizened figure of a man, with a pale wise face and heavy-lidded eyes."_ ***---&#65279;LotRIII***  <br><br>**Home Site:** Edoras, Dunharrow, Isengard  
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【1/8】</div>
+> > <div class="card-shield">【 1/8 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

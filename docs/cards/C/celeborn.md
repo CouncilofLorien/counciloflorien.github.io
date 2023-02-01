@@ -19,7 +19,7 @@ permalink: /cards/celeborn/
 > > <div class="character-card-name">Celeborn</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 6 ![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
+> > 6 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Sage Elf
@@ -28,7 +28,7 @@ permalink: /cards/celeborn/
 > > _**Unique.**_ +5 direct influence that is only usable against Galadriel. <br>_“...and the hair of Lord Celeborn was of silver long and bright; but no sign of age was upon them, unless in the depths of their eyes; for these were keen as lances in the starlight, and yet profound, the wells of deep memory."_ ***---&#65279;LotRII***  <br><br>**Home Site:** Lorien 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【6/9】</div>
+> > <div class="card-shield">【 6/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -39,7 +39,7 @@ permalink: /cards/celeborn/
 > > <div class="character-card-name">Celeborn</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 6 ![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
+> > 6 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Sage Elf
@@ -48,7 +48,7 @@ permalink: /cards/celeborn/
 > > _**Unique.**_ +5 direct influence that is only usable against Galadriel. <br>_“...and the hair of Lord Celeborn was of silver long and bright; but no sign of age was upon them, unless in the depths of their eyes; for these were keen as lances in the starlight, and yet profound, the wells of deep memory."_ ***---&#65279;LotRII***  <br><br>**Home Site:** Lorien 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【6/9】</div>
+> > <div class="card-shield">【 6/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Starter Set_
@@ -59,7 +59,7 @@ permalink: /cards/celeborn/
 > > <div class="character-card-name">Celeborn</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 6 ![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
+> > 6 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Sage Elf
@@ -68,7 +68,7 @@ permalink: /cards/celeborn/
 > > _**Unique.**_ +5 direct influence that is only usable against Galadriel. <br>_“...and the hair of Lord Celeborn was of silver long and bright; but no sign of age was upon them, unless in the depths of their eyes; for these were keen as lances in the starlight, and yet profound, the wells of deep memory."_ ***---&#65279;LotRII***  <br><br>**Home Site:** Lorien 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【6/9】</div>
+> > <div class="card-shield">【 6/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -79,7 +79,7 @@ permalink: /cards/celeborn/
 > > <div class="character-card-name">Celeborn</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 6 ![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
+> > 6 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Sage Elf
@@ -88,5 +88,5 @@ permalink: /cards/celeborn/
 > > _**Unique.**_ +5 direct influence that is only usable against Galadriel. <br>_“...and the hair of Lord Celeborn was of silver long and bright; but no sign of age was upon them, unless in the depths of their eyes; for these were keen as lances in the starlight, and yet profound, the wells of deep memory."_ ***---&#65279;LotRII***  <br><br>**Home Site:** Lorien 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【6/9】</div>
+> > <div class="card-shield">【 6/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>

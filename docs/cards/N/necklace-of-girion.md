@@ -29,7 +29,7 @@ permalink: /cards/necklace-of-girion/
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
-> > <div class="card-corruption">〔3〕</div>
+> > <div class="card-corruption">〔 3 〕</div>
 
 ### _Middle-earth: Against the Shadow_
 
@@ -49,4 +49,4 @@ permalink: /cards/necklace-of-girion/
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
-> > <div class="card-corruption-white">〔3〕</div>
+> > <div class="card-corruption-white">〔 3 〕</div>

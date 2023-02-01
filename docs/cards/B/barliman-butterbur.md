@@ -28,8 +28,8 @@ permalink: /cards/barliman-butterbur/
 > > _**Unique.**_ -1 to all of his corruption checks. -1 to all influence checks against factions. <br>_“...a short fat man with a bald head and a red face... He seemed capable of an endless stream of talk, however busy he might be."_ ***---&#65279;LotRI***  <br><br>**Home Site:** Bree 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【2/6】</div>
-> > <div class="card-corruption">〔-1〕</div>
+> > <div class="card-shield">【 2/6 】</div>
+> > <div class="card-corruption">〔 -1 〕</div>
 
 ### _Middle-earth: The Wizards Unlimited_
 
@@ -48,5 +48,5 @@ permalink: /cards/barliman-butterbur/
 > > _**Unique.**_ -1 to all of his corruption checks. -1 to all influence checks against factions. <br>_“...a short fat man with a bald head and a red face... He seemed capable of an endless stream of talk, however busy he might be."_ ***---&#65279;LotRI***  <br><br>**Home Site:** Bree 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【2/6】</div>
-> > <div class="card-corruption">〔-1〕</div>
+> > <div class="card-shield">【 2/6 】</div>
+> > <div class="card-corruption">〔 -1 〕</div>

@@ -28,7 +28,7 @@ permalink: /cards/sly-southerner/
 > > _Half-orc._ Discard on a body check result of 9. <br>_“‘So that's where that southerner is hiding...He looks more than half like a goblin.’”_ ***---&#65279;LotRI***  <br><br>**Home Site:** Any Dark-hold 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【1/9】</div>
+> > <div class="card-shield">【 1/9 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -48,5 +48,5 @@ permalink: /cards/sly-southerner/
 > > _Half-orc._ Discard on a body check result of 9. <br>_“‘So that's where that southerner is hiding...He looks more than half like a goblin.’”_ ***---&#65279;LotRI***  <br><br>**Home Site:** Any Dark-hold 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【1/9】</div>
+> > <div class="card-shield">【 1/9 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

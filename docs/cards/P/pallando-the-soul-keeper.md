@@ -28,5 +28,5 @@ permalink: /cards/pallando-the-soul-keeper/
 > > _**Unique.**_ Maia. Manifestation of Pallando. Two strikes. Detainment and -3 prowess against hero companies. Discard this card if Pallando comes into play. As a creature, may be played keyed to Lindon, Numeriador, Arthedain, or Crdolan; or at sites in these regions. As a permanent-event, the next non-Ringwraith minion discarded from play is instead eliminated. Discard when a minion is so eliminated. 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【13/9】</div>
+> > <div class="card-shield">【 13/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>

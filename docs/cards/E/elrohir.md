@@ -28,7 +28,7 @@ permalink: /cards/elrohir/
 > > _**Unique.**_ +1 prowess against Orcs. <br>_"Then said Elrohir: 'From the North we came with this purpose, and from Elrond our father we brought this counsel. We will not turn back.’”_ ***---&#65279;LotRV***  <br><br>**Home Site:** Rivendell 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【5/8】</div>
+> > <div class="card-shield">【 5/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -48,7 +48,7 @@ permalink: /cards/elrohir/
 > > _**Unique.**_ +1 prowess against Orcs. <br>_"Then said Elrohir: 'From the North we came with this purpose, and from Elrond our father we brought this counsel. We will not turn back.’”_ ***---&#65279;LotRV***  <br><br>**Home Site:** Rivendell 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【5/8】</div>
+> > <div class="card-shield">【 5/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Starter Set_
@@ -68,7 +68,7 @@ permalink: /cards/elrohir/
 > > _**Unique.**_ +1 prowess against Orcs. <br>_"Then said Elrohir: 'From the North we came with this purpose, and from Elrond our father we brought this counsel. We will not turn back.’”_ ***---&#65279;LotRV***  <br><br>**Home Site:** Rivendell 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【5/8】</div>
+> > <div class="card-shield">【 5/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -88,5 +88,5 @@ permalink: /cards/elrohir/
 > > _**Unique.**_ +1 prowess against Orcs. <br>_"Then said Elrohir: 'From the North we came with this purpose, and from Elrond our father we brought this counsel. We will not turn back.’”_ ***---&#65279;LotRV***  <br><br>**Home Site:** Rivendell 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【5/8】</div>
+> > <div class="card-shield">【 5/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>

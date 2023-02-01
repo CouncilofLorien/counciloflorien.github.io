@@ -28,7 +28,7 @@ permalink: /cards/leaflock/
 > > _**Unique.**_ _**Playable at Wellinghall.**_ Tap to cancel the effects of one hazard that targets his company. May not be attacked by automatic-attacks or hazards keyed to his site. Discard _Leaflock_ if his company moves to a site that is not in: Fangorn, Rohan, Gap of Isen, Wold & Foothills, Enedhwaith, Old Pukel-land, Brown Lands, Anduin Vales, or Redhorn Gap. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【5/8】</div>
+> > <div class="card-shield">【 5/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -48,5 +48,5 @@ permalink: /cards/leaflock/
 > > _**Unique.**_ _**Playable at Wellinghall.**_ Tap to cancel the effects of one hazard that targets his company. May not be attacked by automatic-attacks or hazards keyed to his site. Discard _Leaflock_ if his company moves to a site that is not in: Fangorn, Rohan, Gap of Isen, Wold & Foothills, Enedhwaith, Old Pukel-land, Brown Lands, Anduin Vales, or Redhorn Gate. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【5/8】</div>
+> > <div class="card-shield">【 5/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>

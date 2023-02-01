@@ -19,7 +19,7 @@ permalink: /cards/glorfindel-ii/
 > > <div class="character-card-name">Glorfindel II</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 8 ![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
+> > 8 ![](/assets/images/mind.svg)&ensp;2![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Sage Elf
@@ -28,7 +28,7 @@ permalink: /cards/glorfindel-ii/
 > > _**Unique.**_ +1 direct influence against Elves. <br>_"Glorfindel was tall and straight; his hair was of shining gold, his face fair and young and fearless and full of joy; his eyes were bright and keen, and his voice like music; on his brow sat wisdom, and in his hand was strength."_ ***---&#65279;LotRII***  <br><br>**Home Site:** Rivendell 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【8/9】</div>
+> > <div class="card-shield">【 8/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -39,7 +39,7 @@ permalink: /cards/glorfindel-ii/
 > > <div class="character-card-name">Glorfindel II</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 8 ![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
+> > 8 ![](/assets/images/mind.svg)&ensp;2![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Sage Elf
@@ -48,7 +48,7 @@ permalink: /cards/glorfindel-ii/
 > > _**Unique.**_ +1 direct influence against Elves. <br>_"Glorfindel was tall and straight; his hair was of shining gold, his face fair and young and fearless and full of joy; his eyes were bright and keen, and his voice like music; on his brow sat wisdom, and in his hand was strength."_ ***---&#65279;LotRII***  <br><br>**Home Site:** Rivendell 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【8/9】</div>
+> > <div class="card-shield">【 8/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -59,7 +59,7 @@ permalink: /cards/glorfindel-ii/
 > > <div class="character-card-name">Glorfindel II</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 8 ![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
+> > 8 ![](/assets/images/mind.svg)&ensp;2![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Sage Elf
@@ -68,5 +68,5 @@ permalink: /cards/glorfindel-ii/
 > > _**Unique.**_ +1 direct influence against Elves. <br>_"Glorfindel was tall and straight; his hair was of shining gold, his face fair and young and fearless and full of joy; his eyes were bright and keen, and his voice like music; on his brow sat wisdom, and in his hand was strength."_ ***---&#65279;LotRII***  <br><br>**Home Site:** Rivendell 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【8/9】</div>
+> > <div class="card-shield">【 8/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>

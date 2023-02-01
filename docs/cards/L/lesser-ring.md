@@ -29,7 +29,7 @@ permalink: /cards/lesser-ring/
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
-> > <div class="card-corruption">〔1〕</div>
+> > <div class="card-corruption">〔 1 〕</div>
 
 ### _Middle-earth: The Wizards Unlimited_
 
@@ -49,7 +49,7 @@ permalink: /cards/lesser-ring/
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
-> > <div class="card-corruption">〔1〕</div>
+> > <div class="card-corruption">〔 1 〕</div>
 
 ### _Middle-earth Challenge Decks_
 
@@ -69,4 +69,4 @@ permalink: /cards/lesser-ring/
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
-> > <div class="card-corruption">〔1〕</div>
+> > <div class="card-corruption">〔 1 〕</div>

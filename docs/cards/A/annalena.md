@@ -28,7 +28,7 @@ permalink: /cards/annalena/
 > > _**Unique.**_  <br>_“...the Gift of the Elf-minstrels, who can make the things of which they sing appear before the eyes of those that listen."_ ***---&#65279;LotR***  <br><br>**Home Site:** Edhellond 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【3/8】</div>
+> > <div class="card-shield">【 3/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -48,7 +48,7 @@ permalink: /cards/annalena/
 > > _**Unique.**_  <br>_“...the Gift of the Elf-minstrels, who can make the things of which they sing appear before the eyes of those that listen."_ ***---&#65279;LotR***  <br><br>**Home Site:** Edhellond 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【3/8】</div>
+> > <div class="card-shield">【 3/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Starter Set_
@@ -68,7 +68,7 @@ permalink: /cards/annalena/
 > > _**Unique.**_  <br>_“...the Gift of the Elf-minstrels, who can make the things of which they sing appear before the eyes of those that listen."_ ***---&#65279;LotR***  <br><br>**Home Site:** Edhellond 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【3/8】</div>
+> > <div class="card-shield">【 3/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -88,5 +88,5 @@ permalink: /cards/annalena/
 > > _**Unique.**_  <br>_“...the Gift of the Elf-minstrels, who can make the things of which they sing appear before the eyes of those that listen."_ ***---&#65279;LotR***  <br><br>**Home Site:** Edhellond 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【3/8】</div>
+> > <div class="card-shield">【 3/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>

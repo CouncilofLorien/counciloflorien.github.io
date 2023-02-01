@@ -28,7 +28,7 @@ permalink: /cards/adunaphel-the-ringwraith/
 > > _**Unique.**_ Manifestation of Adunaphel. Can use sprit-magic. +2 direct influence in Heralded Lord mode. -2 prowess in Fell Rider mode. As your Ringwraith, if at a Darkhaven \[![](/assets/images/dark-haven.svg)], she may tap to cancel one hazard creature attack not played at a site against any one of your companies.   <br><br>**Home Site:** Ulurtsu Nurn 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【8/10】</div>
+> > <div class="card-shield">【 8/10 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -48,5 +48,5 @@ permalink: /cards/adunaphel-the-ringwraith/
 > > _**Unique.**_ Manifestation of Adunaphel. Can use sprit-magic. +2 direct influence in Heralded Lord mode. -2 prowess in Fell Rider mode. As your Ringwraith, if at a Darkhaven \[![](/assets/images/dark-haven.svg)], she may tap to cancel one hazard creature attack not played at a site against any one of your companies.   <br><br>**Home Site:** Ulurtsu Nurn 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【8/10】</div>
+> > <div class="card-shield">【 8/10 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

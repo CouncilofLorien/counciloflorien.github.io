@@ -19,7 +19,7 @@ permalink: /cards/boromir-ii/
 > > <div class="character-card-name">Boromir II</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior Dunadan
@@ -28,8 +28,8 @@ permalink: /cards/boromir-ii/
 > > _**Unique.**_ +2 direct influence against the Men of Anorien faction. -1 to all of his corruption checks. <br>_“‘And very valiant indeed he was: no heir of Minas Tirith has for long years been so hardy in toil, so onward in battle, or blown a mightier note on the Great Horn.’”_ ***---&#65279;LotRIV***  <br><br>**Home Site:** Minas Tirith 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【6/7】</div>
-> > <div class="card-corruption">〔-1〕</div>
+> > <div class="card-shield">【 6/7 】</div>
+> > <div class="card-corruption">〔 -1 〕</div>
 
 ### _Middle-earth: The Wizards Unlimited_
 
@@ -39,7 +39,7 @@ permalink: /cards/boromir-ii/
 > > <div class="character-card-name">Boromir II</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior Dunadan
@@ -48,8 +48,8 @@ permalink: /cards/boromir-ii/
 > > _**Unique.**_ +2 direct influence against the Men of Anorien faction. -1 to all of his corruption checks. <br>_“‘And very valiant indeed he was: no heir of Minas Tirith has for long years been so hardy in toil, so onward in battle, or blown a mightier note on the Great Horn.’”_ ***---&#65279;LotRIV***  <br><br>**Home Site:** Minas Tirith 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【6/7】</div>
-> > <div class="card-corruption">〔-1〕</div>
+> > <div class="card-shield">【 6/7 】</div>
+> > <div class="card-corruption">〔 -1 〕</div>
 
 ### _Middle-earth: The Wizards Starter Set_
 
@@ -59,7 +59,7 @@ permalink: /cards/boromir-ii/
 > > <div class="character-card-name">Boromir II</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior Dunadan
@@ -68,8 +68,8 @@ permalink: /cards/boromir-ii/
 > > _**Unique.**_ +2 direct influence against the Men of Anorien faction. -1 to all of his corruption checks. <br>_“‘And very valiant indeed he was: no heir of Minas Tirith has for long years been so hardy in toil, so onward in battle, or blown a mightier note on the Great Horn.’”_ ***---&#65279;LotRIV***  <br><br>**Home Site:** Minas Tirith 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【6/7】</div>
-> > <div class="card-corruption">〔-1〕</div>
+> > <div class="card-shield">【 6/7 】</div>
+> > <div class="card-corruption">〔 -1 〕</div>
 
 ### _Middle-earth Challenge Decks_
 
@@ -79,7 +79,7 @@ permalink: /cards/boromir-ii/
 > > <div class="character-card-name">Boromir II</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior Dunadan
@@ -88,5 +88,5 @@ permalink: /cards/boromir-ii/
 > > _**Unique.**_ +2 direct influence against the Men of Anorien faction. -1 to all of his corruption checks. <br>_“‘And very valiant indeed he was: no heir of Minas Tirith has for long years been so hardy in toil, so onward in battle, or blown a mightier note on the Great Horn.’”_ ***---&#65279;LotRIV***  <br><br>**Home Site:** Minas Tirith 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【6/7】</div>
-> > <div class="card-corruption">〔-1〕</div>
+> > <div class="card-shield">【 6/7 】</div>
+> > <div class="card-corruption">〔 -1 〕</div>

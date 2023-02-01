@@ -19,7 +19,7 @@ permalink: /cards/pon-ora-pon/
 > > <div class="card-name">Pon-ora-Pon</div>
 >
 > {: .minion-character-frame .black-text .p-1 .pl-2 }
-> > 5 ![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
+> > 5 ![](/assets/images/mind.svg)&ensp;2![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Scout/Ranger/Diplomat Man
@@ -28,5 +28,5 @@ permalink: /cards/pon-ora-pon/
 > > _**Unique.**_ Agent. +3 direct influence against Wose factions. <br>_“...maybe a creature descended in true line through endless years from models used by forgotten craftsmen long ago."_ ***---&#65279;LotRV***  <br><br>**Home Site:** Druadan Forest, Wose Passage-hold, Stone-circle 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【1/9】</div>
+> > <div class="card-shield">【 1/9 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

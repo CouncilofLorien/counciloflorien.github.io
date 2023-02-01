@@ -19,7 +19,7 @@ permalink: /cards/merry/
 > > <div class="character-card-name">Merry</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Scout Hobbit
@@ -28,8 +28,8 @@ permalink: /cards/merry/
 > > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +2. <br>_“...suddenly the slow-kindled courage of his race awoke. ...she would not die alone, unaided."_ ***---&#65279;LotRVI***  <br><br>**Home Site:** Bag End 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【1/9】</div>
-> > <div class="card-corruption">〔+2〕</div>
+> > <div class="card-shield">【 1/9 】</div>
+> > <div class="card-corruption">〔 +2 〕</div>
 
 ### _Middle-earth: The Wizards Unlimited_
 
@@ -39,7 +39,7 @@ permalink: /cards/merry/
 > > <div class="character-card-name">Merry</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Scout Hobbit
@@ -48,8 +48,8 @@ permalink: /cards/merry/
 > > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +2. <br>_“...suddenly the slow-kindled courage of his race awoke. ...she would not die alone, unaided."_ ***---&#65279;LotRVI***  <br><br>**Home Site:** Bag End 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【1/9】</div>
-> > <div class="card-corruption">〔+2〕</div>
+> > <div class="card-shield">【 1/9 】</div>
+> > <div class="card-corruption">〔 +2 〕</div>
 
 ### _Middle-earth: The Wizards Starter Set_
 
@@ -59,7 +59,7 @@ permalink: /cards/merry/
 > > <div class="character-card-name">Merry</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Scout Hobbit
@@ -68,5 +68,5 @@ permalink: /cards/merry/
 > > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +2. <br>_“...suddenly the slow-kindled courage of his race awoke. ...she would not die alone, unaided."_ ***---&#65279;LotRVI***  <br><br>**Home Site:** Bag End 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【1/9】</div>
-> > <div class="card-corruption">〔+2〕</div>
+> > <div class="card-shield">【 1/9 】</div>
+> > <div class="card-corruption">〔 +2 〕</div>

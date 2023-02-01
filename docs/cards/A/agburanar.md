@@ -25,7 +25,7 @@ permalink: /cards/agburanar/
 > > _**Unique.**_ ***May be played at Caves of Ulund.*** _Dragon._ Two strikes. <br>&ensp;If _Doors of Night_ is in play, may also be played keyed to Grey Mountain Narrows, Iron Hills, Northern Rhovanion, and Withered Heath; and may also be played at sites in these regions. 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【15/9】</div>
+> > <div class="card-shield">【 15/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -42,5 +42,5 @@ permalink: /cards/agburanar/
 > > _**Unique.**_ ***May be played at Caves of Ulund.*** _Dragon._ Two strikes. <br>&ensp;If _Doors of Night_ is in play, may also be played keyed to Grey Mountain Narrows, Iron Hills, Northern Rhovanion, and Withered Heath; and may also be played at sites in these regions. 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【15/9】</div>
+> > <div class="card-shield">【 15/9 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

@@ -28,7 +28,7 @@ permalink: /cards/gwaihir/
 > > _**Unique.**_ _**Playable at Eagles' Eyrie.**_  If his company's size is two or less, you may discard _Gwaihir_ during the movement phase to allow his company to move to any site that is not a Shadow-land \[![](/assets/images/shadow-land.svg)] or Dark-domain \[![](/assets/images/dark-domain.svg)]; only hazard creatures keyed to the site may be played on a company that moves in this fashion. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【4/8】</div>
+> > <div class="card-shield">【 4/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -48,5 +48,5 @@ permalink: /cards/gwaihir/
 > > _**Unique.**_ _**Playable at Eagles' Eyrie.**_  If his company's size is two or less, you may discard _Gwaihir_ during the organization phase to allow his company to move to any site that is not a Shadow-land \[![](/assets/images/shadow-land.svg)] or Dark-domain \[![](/assets/images/dark-domain.svg)]; only hazard creatures keyed to the site may be played on a company that moves in this fashion. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【4/8】</div>
+> > <div class="card-shield">【 4/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>

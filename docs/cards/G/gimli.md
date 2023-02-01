@@ -19,7 +19,7 @@ permalink: /cards/gimli/
 > > <div class="character-card-name">Gimli</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 6 ![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
+> > 6 ![](/assets/images/mind.svg)&ensp;2![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Diplomat Dwarf
@@ -28,7 +28,7 @@ permalink: /cards/gimli/
 > > _**Unique.**_ +2 direct influence against Iron Hill Dwarves, +2 prowess against Orcs. <br>&ensp;+1 direct influence against Elves and Elf factions. <br>_"Gimli...wore openly a short of steel-rings, for dwarves make light of burdens...”_ ***---&#65279;LotRII***  <br><br>**Home Site:** Iron Hill Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【5/8】</div>
+> > <div class="card-shield">【 5/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -39,7 +39,7 @@ permalink: /cards/gimli/
 > > <div class="character-card-name">Gimli</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 6 ![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
+> > 6 ![](/assets/images/mind.svg)&ensp;2![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Diplomat Dwarf
@@ -48,7 +48,7 @@ permalink: /cards/gimli/
 > > _**Unique.**_ +2 direct influence against the Iron Hill Dwarves faction, +2 prowess against Orcs. +1 direct influence against Elves and Elf factions. <br>_"Gimli...wore openly a short of steel-rings, for dwarves make light of burdens...”_ ***---&#65279;LotRII***  <br><br>**Home Site:** Iron Hill Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【5/8】</div>
+> > <div class="card-shield">【 5/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Starter Set_
@@ -59,7 +59,7 @@ permalink: /cards/gimli/
 > > <div class="character-card-name">Gimli</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 6 ![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
+> > 6 ![](/assets/images/mind.svg)&ensp;2![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Diplomat Dwarf
@@ -68,7 +68,7 @@ permalink: /cards/gimli/
 > > _**Unique.**_ +2 direct influence against the Iron Hill Dwarves faction, +2 prowess against Orcs. +1 direct influence against Elves and Elf factions. <br>_"Gimli...wore openly a short of steel-rings, for dwarves make light of burdens...”_ ***---&#65279;LotRII***  <br><br>**Home Site:** Iron Hill Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【5/8】</div>
+> > <div class="card-shield">【 5/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -79,7 +79,7 @@ permalink: /cards/gimli/
 > > <div class="character-card-name">Gimli</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 6 ![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
+> > 6 ![](/assets/images/mind.svg)&ensp;2![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Diplomat Dwarf
@@ -88,5 +88,5 @@ permalink: /cards/gimli/
 > > _**Unique.**_ +2 direct influence against the Iron Hill Dwarves faction, +2 prowess against Orcs. <br>&ensp;+1 direct influence against Elves and Elf factions. <br>_"Gimli...wore openly a short of steel-rings, for dwarves make light of burdens...”_ ***---&#65279;LotRII***  <br><br>**Home Site:** Iron Hill Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【5/8】</div>
+> > <div class="card-shield">【 5/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>

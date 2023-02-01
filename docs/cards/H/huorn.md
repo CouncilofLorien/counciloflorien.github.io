@@ -28,7 +28,7 @@ permalink: /cards/huorn/
 > > One strike. May also be played at Druadan Forest, Old Forest, and Wellinghall. May also be keyed to Heart of Mirkwood, Southern Mirkwood, Western Mirkwood, and Woodland Realm; and may be also played at Ruins & Lairs \[![](/assets/images/ruinlair.svg)] and Shadow-holds \[![](/assets/images/shadow-hold.svg)] in these regions. 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【10/&ndash;】</div>
+> > <div class="card-shield">【 10/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -48,7 +48,7 @@ permalink: /cards/huorn/
 > > _Awakened Plant._ One strike. May also be played at Druadan Forest, Old Forest, and Wellinghall. May also be keyed to Heart of Mirkwood, Southern Mirkwood, Western Mirkwood, and Woodland Realm; and may be also played at Ruins & Lairs \[![](/assets/images/ruinlair.svg)] and Shadow-holds \[![](/assets/images/shadow-hold.svg)] in these regions. 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【10/&ndash;】</div>
+> > <div class="card-shield">【 10/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Starter Set_
@@ -68,7 +68,7 @@ permalink: /cards/huorn/
 > > _Awakened Plant._ One strike. May also be played at Druadan Forest, Old Forest, and Wellinghall. May also be keyed to Heart of Mirkwood, Southern Mirkwood, Western Mirkwood, and Woodland Realm; and may be also played at Ruins & Lairs \[![](/assets/images/ruinlair.svg)] and Shadow-holds \[![](/assets/images/shadow-hold.svg)] in these regions. 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【10/&ndash;】</div>
+> > <div class="card-shield">【 10/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth: The Lidless Eye_
@@ -88,5 +88,5 @@ permalink: /cards/huorn/
 > > _Awakened Plant._ One strike. May also be played at Druadan Forest, Old Forest, and Wellinghall. May also be played keyed to Heart of Mirkwood, Southern Mirkwood, Western Mirkwood, and Woodland Realm; and may be also played at Ruins & Lairs \[![](/assets/images/ruinlair.svg)] and Shadow-holds \[![](/assets/images/shadow-hold.svg)] in these regions. 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【10/&ndash;】</div>
+> > <div class="card-shield">【 10/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>

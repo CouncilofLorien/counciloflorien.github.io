@@ -28,5 +28,5 @@ permalink: /cards/mauhur/
 > > _**Unique.**_ _Leader._ Discard on a body check result of 9. +2 direct influence against Orcs and Orc factions. <br>_“‘Mauhur and his lads are in the forest, and they should turn up any time now.’”_ ***---&#65279;LotRIII***  <br><br>**Home Site:** Dol Guldur 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【6/9】</div>
+> > <div class="card-shield">【 6/9 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

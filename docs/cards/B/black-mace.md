@@ -25,8 +25,8 @@ permalink: /cards/black-mace/
 > > _Weapon._ Warrior only: +3 to prowess to a maximum of 10 (+4 to a maximum of 10 against Elves). <br>_"A great black mace he wielded." LotRI 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【+3/&ndash;】</div>
-> > <div class="card-corruption-white">〔3〕</div>
+> > <div class="card-shield">【 +3/&ndash; 】</div>
+> > <div class="card-corruption-white">〔 3 〕</div>
 
 ### _Middle-earth Challenge Decks_
 
@@ -42,8 +42,8 @@ permalink: /cards/black-mace/
 > > _Weapon._ Warrior only: +3 to prowess to a maximum of 10 (+4 to a maximum of 10 against Elves). <br>_"A great black mace he wielded." LotRI 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【+3/&ndash;】</div>
-> > <div class="card-corruption-white">〔3〕</div>
+> > <div class="card-shield">【 +3/&ndash; 】</div>
+> > <div class="card-corruption-white">〔 3 〕</div>
 
 ### _Middle-earth: The Balrog Reprint_
 
@@ -59,5 +59,5 @@ permalink: /cards/black-mace/
 > > _Weapon._ Warrior only: +3 to prowess to a maximum of 10 (+4 to a maximum of 10 against Elves). <br>_"A great black mace he wielded." LotRI 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【+3/&ndash;】</div>
-> > <div class="card-corruption-white">〔3〕</div>
+> > <div class="card-shield">【 +3/&ndash; 】</div>
+> > <div class="card-corruption-white">〔 3 〕</div>

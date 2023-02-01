@@ -28,7 +28,7 @@ permalink: /cards/sellswords-between-charters/
 > > _Men._ Two strikes. <br>_"The Silver Age of the Mercenaries is said to have begun when the remaining Raggers besieged the first Canotaur to collect their back pay."_ ***---&#65279;Kuduk Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【11/&ndash;】</div>
+> > <div class="card-shield">【 11/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -48,7 +48,7 @@ permalink: /cards/sellswords-between-charters/
 > > _Men._ Two strikes. <br>_"The Silver Age of the Mercenaries is said to have begun when the remaining Raggers besieged the first Canotaur to collect their back pay."_ ***---&#65279;Kuduk Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【11/&ndash;】</div>
+> > <div class="card-shield">【 11/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth: The Balrog Reprint_
@@ -68,5 +68,5 @@ permalink: /cards/sellswords-between-charters/
 > > _Men._ Two strikes. <br>_"The Silver Age of the Mercenaries is said to have begun when the remaining Raggers besieged the first Canotaur to collect their back pay."_ ***---&#65279;Kuduk Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【11/&ndash;】</div>
+> > <div class="card-shield">【 11/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

@@ -28,7 +28,7 @@ permalink: /cards/witch-king-of-angmar/
 > > _**Unique.**_ _Nazgul (1st)._ May be played as a hazard creature (with one strike) or as a permanent event. <br>&ensp;As a creature, may also be played keyed to Angmar, Gundabad, Gorgoroth, and Imlad Morgul; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Witch-king of Angmar_ becomes a long-event and causes all Shadow-holds \[![](/assets/images/shadow-hold.svg)] to become Dark-holds \[![](/assets/images/dark-hold.svg)]. 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【17/12】</div>
+> > <div class="card-shield">【 17/12 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -48,5 +48,5 @@ permalink: /cards/witch-king-of-angmar/
 > > _**Unique.**_ _Nazgul (1st)._ May be played as a hazard creature (with one strike) or as a permanent event. <br>&ensp;As a creature, may also be played keyed to Angmar, Gundabad, Gorgoroth, and Imlad Morgul; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Witch-king of Angmar_ becomes a long-event and causes all Shadow-holds \[![](/assets/images/shadow-hold.svg)] to become Dark-holds \[![](/assets/images/dark-hold.svg)]. 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【17/12】</div>
+> > <div class="card-shield">【 17/12 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

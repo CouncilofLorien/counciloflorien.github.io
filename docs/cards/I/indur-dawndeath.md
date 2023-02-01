@@ -28,7 +28,7 @@ permalink: /cards/indur-dawndeath/
 > > _**Unique.**_ _Nazgul (4th)._ May be played as a hazard creature (with one strike) or as a permanent event. <br>&ensp;As a creature, may also be played keyed to Harondor, Imlad Morgul, Gorgoroth, and Khand; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Indur Dawndeath_ becomes a short-event and makes any wounded character discard an item (but not a ring). 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【15/10】</div>
+> > <div class="card-shield">【 15/10 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -48,5 +48,5 @@ permalink: /cards/indur-dawndeath/
 > > _**Unique.**_ _Nazgul (4th)._ May be played as a hazard creature (with one strike) or as a permanent event. <br>&ensp;As a creature, may also be played keyed to Harondor, Imlad Morgul, Gorgoroth, and Khand; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Indur Dawndeath_ becomes a short-event and makes any wounded character discard an item of his choice (but not a ring). 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【15/10】</div>
+> > <div class="card-shield">【 15/10 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

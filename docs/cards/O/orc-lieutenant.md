@@ -28,7 +28,7 @@ permalink: /cards/orc-lieutenant/
 > > _Orcs._ One strike. If played on a company that has already faced an Orc attack this turn, _Orc-lieutenant_ receives +4 prowess. <br>_"Then suddenly, without warning, Ugluk sprang forwards, and with two swift strokes swept the heads off two of his opponents."_ ***---&#65279;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【7/&ndash;】</div>
+> > <div class="card-shield">【 7/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -48,7 +48,7 @@ permalink: /cards/orc-lieutenant/
 > > _Orcs._ One strike. If played on a company that has already faced an Orc attack this turn, _Orc-lieutenant_ receives +4 prowess. <br>_"Then suddenly, without warning, Ugluk sprang forwards, and with two swift strokes swept the heads off two of his opponents."_ ***---&#65279;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【7/&ndash;】</div>
+> > <div class="card-shield">【 7/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -68,5 +68,5 @@ permalink: /cards/orc-lieutenant/
 > > _Orcs._ One strike. If played on a company that has already faced an Orc attack this turn, _Orc-lieutenant_ receives +4 prowess. <br>_"Then suddenly, without warning, Ugluk sprang forwards, and with two swift strokes swept the heads off two of his opponents."_ ***---&#65279;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【7/&ndash;】</div>
+> > <div class="card-shield">【 7/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

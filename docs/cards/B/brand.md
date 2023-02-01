@@ -19,7 +19,7 @@ permalink: /cards/brand/
 > > <div class="character-card-name">Brand</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 6 ![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
+> > 6 ![](/assets/images/mind.svg)&ensp;2![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Diplomat Man
@@ -28,7 +28,7 @@ permalink: /cards/brand/
 > > _**Unique.**_ +2 direct influence against Men of Dale Faction. <br>_“‘The grandson of Bard the Bowman rules them, Brand son of Bain son of Bard. He is a strong king, and his realm now reaches far south and east of Esgaroth.’”_ ***---&#65279;LotRII***  <br><br>**Home Site:** Dale 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【4/9】</div>
+> > <div class="card-shield">【 4/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -39,7 +39,7 @@ permalink: /cards/brand/
 > > <div class="character-card-name">Brand</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 6 ![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
+> > 6 ![](/assets/images/mind.svg)&ensp;2![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Diplomat Man
@@ -48,5 +48,5 @@ permalink: /cards/brand/
 > > _**Unique.**_ +2 direct influence against Men of Dale Faction. <br>_“‘The grandson of Bard the Bowman rules them, Brand son of Bain son of Bard. He is a strong king, and his realm now reaches far south and east of Esgaroth.’”_ ***---&#65279;LotRII***  <br><br>**Home Site:** Dale 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【4/9】</div>
+> > <div class="card-shield">【 4/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>

@@ -19,7 +19,7 @@ permalink: /cards/horseman-in-the-night/
 > > <div class="card-name">Horseman in the Night</div>
 >
 > {: .minion-character-frame .black-text .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&ensp;2![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Diplomat Man
@@ -28,7 +28,7 @@ permalink: /cards/horseman-in-the-night/
 > > +1 direct influence against any faction.  <br>_“‘Then about a year ago a messenger came to Dain, but not from Moria-from Mordor: a horseman in the night, who called Dain to his gate. The Lord Sauron the Great, so he said, wished for our friendship.’”_ ***---&#65279;LotRII***  <br>**Home Site:** Any Dark-hold
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【3/7】</div>
+> > <div class="card-shield">【 3/7 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -39,7 +39,7 @@ permalink: /cards/horseman-in-the-night/
 > > <div class="card-name">Horseman in the Night</div>
 >
 > {: .minion-character-frame .black-text .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&ensp;2![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Diplomat Man
@@ -48,5 +48,5 @@ permalink: /cards/horseman-in-the-night/
 > > +1 direct influence against any faction.  "<br>_'Then about a year ago a messenger came to Dain, but not from Moria-from Mordor: a horseman in the night, who called Dain to his gate. The Lord Sauron the Great, so he said, wished for our friendship.’”_ ***---&#65279;LotRII***  <br>**Home Site:** Any Dark-hold
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【3/7】</div>
+> > <div class="card-shield">【 3/7 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

@@ -28,7 +28,7 @@ permalink: /cards/hobgoblins/
 > > _Orcs._ Two strikes. Two Wilderness \[![](/assets/images/wilderness.svg)] in site path are required. <br>_“‘...Before you could get round Mirkwood in the North you would be right among the slopes of the Grey Mountains, and they are simply stiff with goblins, hobgoblins, and orcs of the worst description."_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【10/&ndash;】</div>
+> > <div class="card-shield">【 10/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Lidless Eye_
@@ -48,7 +48,7 @@ permalink: /cards/hobgoblins/
 > > _Orcs._ Two strikes. Two Wilderness \[![](/assets/images/wilderness.svg)] in site path are required. <br>_“...devouring people waked suddenly from their sleep."_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【10/&ndash;】</div>
+> > <div class="card-shield">【 10/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -68,5 +68,5 @@ permalink: /cards/hobgoblins/
 > > _Orcs._ Two strikes. Two Wilderness \[![](/assets/images/wilderness.svg)] in site path are required. <br>_“‘...Before you could get round Mirkwood in the North you would be right among the slopes of the Grey Mountains, and they are simply stiff with goblins, hobgoblins, and orcs of the worst description."_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【10/&ndash;】</div>
+> > <div class="card-shield">【 10/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

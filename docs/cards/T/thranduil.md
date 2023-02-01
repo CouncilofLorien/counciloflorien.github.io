@@ -19,7 +19,7 @@ permalink: /cards/thranduil/
 > > <div class="character-card-name">Thranduil</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 9 ![](/assets/images/mind.svg) 3![](/assets/images/di.svg)
+> > 9 ![](/assets/images/mind.svg)&ensp;3![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Ranger/Sage Elf
@@ -28,7 +28,7 @@ permalink: /cards/thranduil/
 > > _**Unique.**_ +2 direct influence against the Wood-elves faction. <br>_"In a great hall with pillars hewn out of the living stones sat the Elvenking on a chair of carven wood. On his head was a crown of berries and red leaves... In his hand he held a carven staff of oak."_ ***---&#65279;Hob***  <br><br>**Home Site:** Thranduil's Halls 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【7/8】</div>
+> > <div class="card-shield">【 7/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -39,7 +39,7 @@ permalink: /cards/thranduil/
 > > <div class="character-card-name">Thranduil</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 9 ![](/assets/images/mind.svg) 3![](/assets/images/di.svg)
+> > 9 ![](/assets/images/mind.svg)&ensp;3![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Ranger/Sage Elf
@@ -48,7 +48,7 @@ permalink: /cards/thranduil/
 > > _**Unique.**_ +2 direct influence against Wood-elves faction. <br>_"In a great hall with pillars hewn out of the living stones sat the Elvenking on a chair of carven wood. On his head was a crown of berries and red leaves... In his hand he held a carven staff of oak."_ ***---&#65279;Hob***  <br><br>**Home Site:** Thranduil's Halls 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【7/8】</div>
+> > <div class="card-shield">【 7/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -59,7 +59,7 @@ permalink: /cards/thranduil/
 > > <div class="character-card-name">Thranduil</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 9 ![](/assets/images/mind.svg) 3![](/assets/images/di.svg)
+> > 9 ![](/assets/images/mind.svg)&ensp;3![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Ranger/Sage Elf
@@ -68,5 +68,5 @@ permalink: /cards/thranduil/
 > > _**Unique.**_ +2 direct influence against Wood-elves faction. <br>_"In a great hall with pillars hewn out of the living stones sat the Elvenking on a chair of carven wood. On his head was a crown of berries and red leaves... In his hand he held a carven staff of oak."_ ***---&#65279;Hob***  <br><br>**Home Site:** Thranduil's Halls 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【7/8】</div>
+> > <div class="card-shield">【 7/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>

@@ -28,7 +28,7 @@ permalink: /cards/sons-of-kings/
 > > _Dunedain._ Three strikes (playable only against minion companies).   <br>_“‘Stout men and lordly they are, and the Riders of Rohan look almost as boys beside them; for they are grim men of face, worn like weathered rocks for the most part...’”_ ***---&#65279;LotRI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【10/&ndash;】</div>
+> > <div class="card-shield">【 10/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -48,5 +48,5 @@ permalink: /cards/sons-of-kings/
 > > _Dunedain._ Three strikes (playable only against minion companies).   <br>_“‘Stout men and lordly they are, and the Riders of Rohan look almost as boys beside them; for they are grim men of face, worn like weathered rocks for the most part...’”_ ***---&#65279;LotRI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【10/&ndash;】</div>
+> > <div class="card-shield">【 10/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

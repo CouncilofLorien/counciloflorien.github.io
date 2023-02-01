@@ -25,8 +25,8 @@ permalink: /cards/durins-axe/
 > > _Unique._ _Weapon._ +2 prowess (+4 if held by a Dwarf) to a maximum of 9. If held by a Dwarf, 4 marshalling points and 3 corruptions points. <br>_"Durin is the name that the Dwarves use for the eldest of the Seven Fathers of their race, and the ancestor of all the kings of the Longbeards."_ ***---&#65279;LotRVI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【+2(4)/&ndash;】</div>
-> > <div class="card-corruption">〔2(3)〕</div>
+> > <div class="card-shield">【 +2(4)/&ndash; 】</div>
+> > <div class="card-corruption">〔 2(3) 〕</div>
 
 ### _Middle-earth: The Wizards Unlimited_
 
@@ -42,8 +42,8 @@ permalink: /cards/durins-axe/
 > > _Unique._ _Weapon._ +2 prowess (+4 if held by a Dwarf) to a maximum of 9. If held by a Dwarf, 4 marshalling points and 3 corruptions points. <br>_"Durin is the name that the Dwarves use for the eldest of the Seven Fathers of their race, and the ancestor of all the kings of the Longbeards."_ ***---&#65279;LotRVI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【+2(4)/&ndash;】</div>
-> > <div class="card-corruption">〔2(3)〕</div>
+> > <div class="card-shield">【 +2(4)/&ndash; 】</div>
+> > <div class="card-corruption">〔 2(3) 〕</div>
 
 ### _Middle-earth Challenge Decks_
 
@@ -59,5 +59,5 @@ permalink: /cards/durins-axe/
 > > _**Unique.**_ _Weapon._ +2 prowess (+4 if held by a Dwarf) to a maximum of 9. If held by a Dwarf, 4 marshalling points and 3 corruptions points. <br>_"Durin is the name that the Dwarves use for the eldest of the Seven Fathers of their race, and the ancestor of all the kings of the Longbeards."_ ***---&#65279;LotRVI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【+2(4)/&ndash;】</div>
-> > <div class="card-corruption">〔2(3)〕</div>
+> > <div class="card-shield">【 +2(4)/&ndash; 】</div>
+> > <div class="card-corruption">〔 2(3) 〕</div>

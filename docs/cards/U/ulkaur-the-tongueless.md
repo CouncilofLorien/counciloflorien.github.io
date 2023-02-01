@@ -28,5 +28,5 @@ permalink: /cards/ulkaur-the-tongueless/
 > > _**Unique.**_ _Olog-hai._ _Leader._ Discard on a body check result of 9. +2 direct influence against Trolls, Orcs, Troll factions, and Orc factions. <br>_“‘Hee now! See now! I'm tired o' gnawing old bones and skins; I've a mind to dine on thee now.’”_ ***---&#65279;LotRI***  <br><br>**Home Site:** Barad-dur 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【6/9】</div>
-> > <div class="card-corruption-white">〔-1〕</div>
+> > <div class="card-shield">【 6/9 】</div>
+> > <div class="card-corruption-white">〔 -1 〕</div>

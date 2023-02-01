@@ -25,7 +25,7 @@ permalink: /cards/ent-draughts/
 > > ***Only playable at Wellinghall*** as a minor item (even if Wellinghall is already tapped). +1 to prowess. This item may not be stolen, transferred, or stored. May not be duplicated on a given character. <br>_
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【+1/&ndash;】</div>
+> > <div class="card-shield">【 +1/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -42,5 +42,5 @@ permalink: /cards/ent-draughts/
 > > ***Only playable at Wellinghall*** in addition to an ally or faction that has been successfully played at Wellinghall this turn. +1 to prowess. This item may not be stolen, transferred, or stored. May not be duplicated on a given character. <br>_“...and yet there was some scent or savour in it which they could not describe...”_ ***---&#65279;LotRIII***  
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【+1/&ndash;】</div>
+> > <div class="card-shield">【 +1/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>

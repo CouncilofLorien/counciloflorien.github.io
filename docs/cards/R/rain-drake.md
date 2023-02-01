@@ -28,7 +28,7 @@ permalink: /cards/rain-drake/
 > > _Drake._ One strikes. Three Wildernesses \[![](/assets/images/wilderness.svg)] in the site path are required. May also be played at Ruins & Lairs \[![](/assets/images/ruinlair.svg)] that has two Wildernesses \[![](/assets/images/wilderness.svg)] or one Coastal Sea \[![](/assets/images/coastalsea.svg)] in its site path. <br>_"There are strange things living in the pools and lakes in the hearts of mountains."_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【15/&ndash;】</div>
+> > <div class="card-shield">【 15/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -48,5 +48,5 @@ permalink: /cards/rain-drake/
 > > _Drake._ One strikes. Three Wildernesses \[![](/assets/images/wilderness.svg)] in the site path are required. May also be played at Ruins & Lairs \[![](/assets/images/ruinlair.svg)] that has two Wildernesses \[![](/assets/images/wilderness.svg)] or one Coastal Sea \[![](/assets/images/coastalsea.svg)] in its site path. <br>_"There are strange things living in the pools and lakes in the hearts of mountains."_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【15/&ndash;】</div>
+> > <div class="card-shield">【 15/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

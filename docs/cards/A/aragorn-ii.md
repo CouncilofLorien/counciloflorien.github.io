@@ -19,7 +19,7 @@ permalink: /cards/aragorn-ii/
 > > <div class="character-card-name">Aragorn II</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 9 ![](/assets/images/mind.svg) 3![](/assets/images/di.svg)
+> > 9 ![](/assets/images/mind.svg)&ensp;3![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Scout/Ranger Dunadan
@@ -28,7 +28,7 @@ permalink: /cards/aragorn-ii/
 > > _**Unique.**_ +2 direct influence against the Rangers of the North faction. <br>&ensp;-3 marshalling points if eliminated. <br>_"All that is gold does not glitter, Not all those who wander are lost...”_ ***---&#65279;LotRI***  <br><br>**Home Site:** Bree 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【6/9】</div>
+> > <div class="card-shield">【 6/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -39,7 +39,7 @@ permalink: /cards/aragorn-ii/
 > > <div class="character-card-name">Aragorn II</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 9 ![](/assets/images/mind.svg) 3![](/assets/images/di.svg)
+> > 9 ![](/assets/images/mind.svg)&ensp;3![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Scout/Ranger Dunadan
@@ -48,7 +48,7 @@ permalink: /cards/aragorn-ii/
 > > _**Unique.**_ +2 direct influence against the Rangers of the North faction. <br>&ensp;-3 marshalling points if eliminated. <br>_"All that is gold does not glitter, Not all those who wander are lost...”_ ***---&#65279;LotRI***  <br><br>**Home Site:** Bree 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【6/9】</div>
+> > <div class="card-shield">【 6/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Starter Set_
@@ -59,7 +59,7 @@ permalink: /cards/aragorn-ii/
 > > <div class="character-card-name">Aragorn II</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 9 ![](/assets/images/mind.svg) 3![](/assets/images/di.svg)
+> > 9 ![](/assets/images/mind.svg)&ensp;3![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Scout/Ranger Dunadan
@@ -68,7 +68,7 @@ permalink: /cards/aragorn-ii/
 > > _**Unique.**_ +2 direct influence against the Rangers of the North faction. <br>&ensp;-3 marshalling points if eliminated. <br>_"All that is gold does not glitter, Not all those who wander are lost...”_ ***---&#65279;LotRI***  <br><br>**Home Site:** Bree 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【6/9】</div>
+> > <div class="card-shield">【 6/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -79,7 +79,7 @@ permalink: /cards/aragorn-ii/
 > > <div class="character-card-name">Aragorn II</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 9 ![](/assets/images/mind.svg) 3![](/assets/images/di.svg)
+> > 9 ![](/assets/images/mind.svg)&ensp;3![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Scout/Ranger Dunadan
@@ -88,5 +88,5 @@ permalink: /cards/aragorn-ii/
 > > _**Unique.**_ +2 direct influence against the Rangers of the North faction. <br>&ensp;-3 marshalling points if eliminated. <br>_"All that is gold does not glitter, Not all those who wander are lost...”_ ***---&#65279;LotRI***  <br><br>**Home Site:** Bree 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【6/9】</div>
+> > <div class="card-shield">【 6/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>

@@ -26,7 +26,7 @@ permalink: /cards/covetous-thoughts/
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
-> > <div class="card-corruption-white">〔1〕</div>
+> > <div class="card-corruption-white">〔 1 〕</div>
 
 ### _Middle-earth Challenge Decks_
 
@@ -43,7 +43,7 @@ permalink: /cards/covetous-thoughts/
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
-> > <div class="card-corruption-white">〔1〕</div>
+> > <div class="card-corruption-white">〔 1 〕</div>
 
 ### _Middle-earth: The Balrog Reprint_
 
@@ -60,4 +60,4 @@ permalink: /cards/covetous-thoughts/
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
-> > <div class="card-corruption-white">〔1〕</div>
+> > <div class="card-corruption-white">〔 1 〕</div>

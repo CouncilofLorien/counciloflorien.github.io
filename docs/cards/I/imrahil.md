@@ -19,7 +19,7 @@ permalink: /cards/imrahil/
 > > <div class="character-card-name">Imrahil</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 6 ![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
+> > 6 ![](/assets/images/mind.svg)&ensp;2![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Diplomat Dunadan
@@ -28,7 +28,7 @@ permalink: /cards/imrahil/
 > > _**Unique.**_ +2 direct influence against the Knights of Dol Amroth faction. <br>_“...Prince of Dol Amroth, kinsman of the Lord, with gilded banners bearing his token of the Ship and the Silver Swan...grey-eyed, dark-haired...”_ ***---&#65279;LotRV***  <br><br>**Home Site:** Dol Amroth 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【5/8】</div>
+> > <div class="card-shield">【 5/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -39,7 +39,7 @@ permalink: /cards/imrahil/
 > > <div class="character-card-name">Imrahil</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 6 ![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
+> > 6 ![](/assets/images/mind.svg)&ensp;2![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Diplomat Dunadan
@@ -48,7 +48,7 @@ permalink: /cards/imrahil/
 > > _**Unique.**_ +2 direct influence against the Knights of Dol Amroth faction. <br>_“...Prince of Dol Amroth, kinsman of the Lord, with gilded banners bearing his token of the Ship and the Silver Swan...grey-eyed, dark-haired...”_ ***---&#65279;LotRV***  <br><br>**Home Site:** Dol Amroth 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【5/8】</div>
+> > <div class="card-shield">【 5/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -59,7 +59,7 @@ permalink: /cards/imrahil/
 > > <div class="character-card-name">Imrahil</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 6 ![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
+> > 6 ![](/assets/images/mind.svg)&ensp;2![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Diplomat Dunadan
@@ -68,5 +68,5 @@ permalink: /cards/imrahil/
 > > _**Unique.**_ +2 direct influence against the Knights of Dol Amroth faction. <br>_“...Prince of Dol Amroth, kinsman of the Lord, with gilded banners bearing his token of the Ship and the Silver Swan...grey-eyed, dark-haired...”_ ***---&#65279;LotRV***  <br><br>**Home Site:** Dol Amroth 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【5/8】</div>
+> > <div class="card-shield">【 5/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>

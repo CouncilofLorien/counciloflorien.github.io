@@ -28,8 +28,8 @@ permalink: /cards/the-iron-crown/
 > > _**Unique.**_ Whenever bearer makes an influence check, he must also make a corruption check. If the bearer is not a Hobbit: he receives +1 to body to a maximum of 10; he receives +4 to direct influence; and he may tap _The Iron Crown_ to cancel an attack by Orcs, Trolls, or Men against his company. <br>_“‘If I had this thing now in the deep vaults of this citadel, we should not then shake with dread under his gloom, fearing the worst...”_ ***---&#65279;LotRV*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【&ndash;/(+1)】</div>
-> > <div class="card-corruption">〔5〕</div>
+> > <div class="card-shield">【 &ndash;/(+1) 】</div>
+> > <div class="card-corruption">〔 5 〕</div>
 
 ### _Middle-earth: The Lidless Eye_
 
@@ -48,5 +48,5 @@ permalink: /cards/the-iron-crown/
 > > _**Unique.**_ Whenever bearer makes an influence check, he must also make a corruption check. If the bearer is not a Hobbit: he receives +1 to body to a maximum of 10; he receives +4 to direct influence; and he may tap _The Iron Crown_ to cancel an attack by Orcs, Trolls, or Men against his company. <br>_“‘If I had this thing now in the deep vaults of this citadel, we should not then shake with dread under his gloom, fearing the worst...”_ ***---&#65279;LotRV*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【&ndash;/+1】</div>
-> > <div class="card-corruption-white">〔5〕</div>
+> > <div class="card-shield">【 &ndash;/+1 】</div>
+> > <div class="card-corruption-white">〔 5 〕</div>

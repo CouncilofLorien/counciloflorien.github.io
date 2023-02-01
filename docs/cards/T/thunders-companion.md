@@ -28,7 +28,7 @@ permalink: /cards/thunders-companion/
 > > _Giants._ Three strikes. Two Wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. <br>_"They could hear the giants guffawing and shouting all over the mountainsides."_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【9/&ndash;】</div>
+> > <div class="card-shield">【 9/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Lidless Eye_
@@ -48,5 +48,5 @@ permalink: /cards/thunders-companion/
 > > _Giants._ Three strikes. <br>_“...there are fell voices on the air; and these stones are aimed at us."_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【9/&ndash;】</div>
+> > <div class="card-shield">【 9/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>

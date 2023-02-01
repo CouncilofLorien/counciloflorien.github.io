@@ -25,5 +25,5 @@ permalink: /cards/earcaraxe-at-home/
 > > _**Unique.**_ Unless Earcaraxe Ahunt is in play, Isle of the Ulond has an additional automatic-attack: Dragon-2 strikes at 18/7. In addition, the hazard limit against any character moving with a Coastal Sea \[![](/assets/images/coastalsea.svg)] region in its site path is increased by one. <br>_“...the unmistakable gurgling noise of some vast animal snoring in its sleep...”_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【18/7】</div>
+> > <div class="card-shield">【 18/7 】</div>
 > > <div class="card-corruption">&nbsp;</div>

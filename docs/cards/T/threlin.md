@@ -19,7 +19,7 @@ permalink: /cards/threlin/
 > > <div class="card-name">Threlin</div>
 >
 > {: .minion-character-frame .black-text .p-1 .pl-2 }
-> > 5 ![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
+> > 5 ![](/assets/images/mind.svg)&ensp;2![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Diplomat Dwarf
@@ -28,5 +28,5 @@ permalink: /cards/threlin/
 > > _**Unique.**_ +2 direct influence against Dwarves and Dwarf factions. +1 prowess against Orcs and Elves. <br>_“...all other good things seemed profitless, and they were filled with wrath and desire for vengeance on all who deprived them."_ ***---&#65279;LotR***  <br><br>**Home Site:** Minas Morgul 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【4/7】</div>
+> > <div class="card-shield">【 4/7 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

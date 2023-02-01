@@ -25,5 +25,5 @@ permalink: /cards/black-mail-coat/
 > > _Armor._ Warrior only: +2 to body to a maximum of 9. <br>_"All that host was clad in sable, dark as the night." LotRII 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【&ndash;/+2】</div>
-> > <div class="card-corruption-white">〔1〕</div>
+> > <div class="card-shield">【 &ndash;/+2 】</div>
+> > <div class="card-corruption-white">〔 1 〕</div>

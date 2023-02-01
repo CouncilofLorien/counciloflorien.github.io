@@ -28,8 +28,8 @@ permalink: /cards/gandalf/
 > > _**Unique.**_ All of his corruption checks are modified by +1. <br>Can tap to "test" a gold ring. <br>_"In his aged face under great snowy brows his eyes were set like coals that could leap suddenly into fire."_ ***---&#65279;LotRII***  <br><br>**Home Site:** Any Haven 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【6/9】</div>
-> > <div class="card-corruption">〔+1〕</div>
+> > <div class="card-shield">【 6/9 】</div>
+> > <div class="card-corruption">〔 +1 〕</div>
 
 ### _Middle-earth: The Wizards Unlimited_
 
@@ -48,8 +48,8 @@ permalink: /cards/gandalf/
 > > _**Unique.**_ All of his corruption checks are modified by +1. <br>&ensp;Can tap to "test" a gold ring. <br>_"In his aged face under great snowy brows his eyes were set like coals that could leap suddenly into fire."_ ***---&#65279;LotRII***  <br><br>**Home Site:** Any Haven 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【6/9】</div>
-> > <div class="card-corruption">〔+1〕</div>
+> > <div class="card-shield">【 6/9 】</div>
+> > <div class="card-corruption">〔 +1 〕</div>
 
 ### _Middle-earth: The Wizards Starter Set_
 
@@ -68,8 +68,8 @@ permalink: /cards/gandalf/
 > > _**Unique.**_ All of his corruption checks are modified by +1. <br>&ensp;Can tap to "test" a gold ring. <br>_"In his aged face under great snowy brows his eyes were set like coals that could leap suddenly into fire."_ ***---&#65279;LotRII***  <br><br>**Home Site:** Any Haven 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【6/9】</div>
-> > <div class="card-corruption">〔+1〕</div>
+> > <div class="card-shield">【 6/9 】</div>
+> > <div class="card-corruption">〔 +1 〕</div>
 
 ### _Middle-earth: The White Hand_
 
@@ -88,7 +88,7 @@ permalink: /cards/gandalf/
 > > _**Unique.**_ Can use spirit-magic. May untap at the end of your organization phase. Your characters and hero allies are each worth full marshalling points. Gandalf may tap to "test" a ring in his company.   <br>_“‘Yet the way of the Ring to my heart is by pity, pity for weakness and the desire of strength to do good.’”_ ***---&#65279;LotRI***  <br><br>**Home Site:** Any Free-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【6/9】</div>
+> > <div class="card-shield">【 6/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -108,5 +108,5 @@ permalink: /cards/gandalf/
 > > _**Unique.**_ All of his corruption checks are modified by +1. <br>&ensp;Can tap to "test" a gold ring. <br>_"In his aged face under great snowy brows his eyes were set like coals that could leap suddenly into fire."_ ***---&#65279;LotRII***  <br><br>**Home Site:** Any Haven 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【6/9】</div>
-> > <div class="card-corruption">〔+1〕</div>
+> > <div class="card-shield">【 6/9 】</div>
+> > <div class="card-corruption">〔 +1 〕</div>

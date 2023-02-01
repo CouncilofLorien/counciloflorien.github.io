@@ -25,5 +25,5 @@ permalink: /cards/carrion-birds/
 > > May be played keyed to wilderness after any Orc, Troll, or Man attack keyed to wilderness and against the same company. Animals. Each character in the company faces one strike. Any character wounded by Carrion Birds makes two body checks instead of one, both checks modified by -1. <br>_“...and far of there are many carrion birds as if a battle were afoot!"_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【6/&ndash;】</div>
+> > <div class="card-shield">【 6/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>

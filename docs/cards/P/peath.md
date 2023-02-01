@@ -19,7 +19,7 @@ permalink: /cards/peath/
 > > <div class="character-card-name">Peath</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Ranger/Diplomat Man
@@ -28,7 +28,7 @@ permalink: /cards/peath/
 > > _**Unique.**_ +4 direct influence against the Dunlending faction. Against Nazgul, +5 to her prowess, his body is halved (round up). <br>_“...a Dunlending conjurer...given to strange beliefs; yet she was comely, wise and fair...possessed by a proud untameable spirit."_ ***---&#65279;Kuduk Lore***  <br><br>**Home Site:** Dunnish Clan-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【4/7】</div>
+> > <div class="card-shield">【 4/7 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -39,7 +39,7 @@ permalink: /cards/peath/
 > > <div class="character-card-name">Peath</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Ranger/Diplomat Man
@@ -48,7 +48,7 @@ permalink: /cards/peath/
 > > _**Unique.**_ +4 direct influence against the Dunlending faction. Against Nazgul, +5 to her prowess, his body is halved (round up). <br>_“...a Dunlending conjurer...given to strange beliefs; yet she was comely, wise and fair...possessed by a proud untameable spirit."_ ***---&#65279;Kuduk Lore***  <br><br>**Home Site:** Dunnish Clan-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【4/7】</div>
+> > <div class="card-shield">【 4/7 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -59,7 +59,7 @@ permalink: /cards/peath/
 > > <div class="character-card-name">Peath</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Ranger/Diplomat Man
@@ -68,5 +68,5 @@ permalink: /cards/peath/
 > > _**Unique.**_ +4 direct influence against the Dunlending faction. Against Nazgul, +5 to her prowess, his body is halved (round up). <br>_“...a Dunlending conjurer...given to strange beliefs; yet she was comely, wise and fair...possessed by a proud untameable spirit."_ ***---&#65279;Kuduk Lore***  <br><br>**Home Site:** Dunnish Clan-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【4/7】</div>
+> > <div class="card-shield">【 4/7 】</div>
 > > <div class="card-corruption">&nbsp;</div>

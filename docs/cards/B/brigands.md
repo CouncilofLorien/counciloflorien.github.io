@@ -28,7 +28,7 @@ permalink: /cards/brigands/
 > > _Men._ Two strikes. If any strike of _Brigands_ wounds a character, the company must immediately discard one item (of defender's choice). <br>_“...some would join forces with the Easterlings, either out of greed for spoil, or in furtherance of feuds among their princes."_ ***---&#65279;LotR*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【8/&ndash;】</div>
+> > <div class="card-shield">【 8/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -48,7 +48,7 @@ permalink: /cards/brigands/
 > > _Men._ Two strikes. If any strike of _Brigands_ wounds a character, the company must immediately discard one item (of defender's choice). <br>_“...some would join forces with the Easterlings, either out of greed for spoil, or in furtherance of feuds among their princes."_ ***---&#65279;LotR*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【8/&ndash;】</div>
+> > <div class="card-shield">【 8/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Starter Set_
@@ -68,7 +68,7 @@ permalink: /cards/brigands/
 > > _Men._ Two strikes. If any strike of _Brigands_ wounds a character, the company must immediately discard one item (of defender's choice). <br>_“...some would join forces with the Easterlings, either out of greed for spoil, or in furtherance of feuds among their princes."_ ***---&#65279;LotR*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【8/&ndash;】</div>
+> > <div class="card-shield">【 8/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth: The Lidless Eye_
@@ -88,7 +88,7 @@ permalink: /cards/brigands/
 > > _Men._ Two strikes. If any strike of _Brigands_ wounds a character, the company must immediately discard one item (of defender's choice). <br>_“‘...most were bad men, full o'thievery and mischief.’”_ ***---&#65279;LotRVI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【8/&ndash;】</div>
+> > <div class="card-shield">【 8/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -108,5 +108,5 @@ permalink: /cards/brigands/
 > > _Men._ Two strikes. If any strike of _Brigands_ wounds a character, the company must immediately discard one item (of defender's choice). <br>_“...some would join forces with the Easterlings, either out of greed for spoil, or in furtherance of feuds among their princes."_ ***---&#65279;LotR*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【8/&ndash;】</div>
+> > <div class="card-shield">【 8/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

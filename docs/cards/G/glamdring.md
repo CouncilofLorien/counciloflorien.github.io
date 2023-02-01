@@ -25,8 +25,8 @@ permalink: /cards/glamdring/
 > > _Unique._ _Weapon._ +3 to prowess to a maximum of 8 (a maximum of 9 against Orcs).   <br>_“‘This, Gandalf, was Glamdring, Foe-hammer that the king of Gondolin once wore.’”_ ***---&#65279;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【+3/&ndash;】</div>
-> > <div class="card-corruption">〔1〕</div>
+> > <div class="card-shield">【 +3/&ndash; 】</div>
+> > <div class="card-corruption">〔 1 〕</div>
 
 ### _Middle-earth: The Wizards Unlimited_
 
@@ -42,8 +42,8 @@ permalink: /cards/glamdring/
 > > _Unique._ _Weapon._ +3 to prowess to a maximum of 8 (a maximum of 9 against Orcs).   <br>_“‘This, Gandalf, was Glamdring, Foe-hammer that the king of Gondolin once wore.’”_ ***---&#65279;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【+3/&ndash;】</div>
-> > <div class="card-corruption">〔1〕</div>
+> > <div class="card-shield">【 +3/&ndash; 】</div>
+> > <div class="card-corruption">〔 1 〕</div>
 
 ### _Middle-earth: The Wizards Starter Set_
 
@@ -59,8 +59,8 @@ permalink: /cards/glamdring/
 > > _Unique._ _Weapon._ +3 to prowess to a maximum of 8 (a maximum of 9 against Orcs).   <br>_“‘This, Gandalf, was Glamdring, Foe-hammer that the king of Gondolin once wore.’”_ ***---&#65279;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【+3/&ndash;】</div>
-> > <div class="card-corruption">〔1〕</div>
+> > <div class="card-shield">【 +3/&ndash; 】</div>
+> > <div class="card-corruption">〔 1 〕</div>
 
 ### _Middle-earth Challenge Decks_
 
@@ -76,5 +76,5 @@ permalink: /cards/glamdring/
 > > _Unique._ _Weapon._ +3 to prowess to a maximum of 8 (a maximum of 9 against Orcs).   <br>_“‘This, Gandalf, was Glamdring, Foe-hammer that the king of Gondolin once wore.’”_ ***---&#65279;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【+3/&ndash;】</div>
-> > <div class="card-corruption">〔1〕</div>
+> > <div class="card-shield">【 +3/&ndash; 】</div>
+> > <div class="card-corruption">〔 1 〕</div>

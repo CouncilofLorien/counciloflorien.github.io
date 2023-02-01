@@ -28,7 +28,7 @@ permalink: /cards/tom-bombadil/
 > > _**Unique.**_ _**Playable at Old Forest.**_ Tap to cancel the effects of one hazard that targets any company moving to a site in: Arthedain, Cardolan, Rhudaur, or The Shire. Discard _Tom Bombadil_ if his company moves to a site that is not in: Arthedain, Cardolan, Rhudaur, or The Shire. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【12/11】</div>
+> > <div class="card-shield">【 12/11 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -48,5 +48,5 @@ permalink: /cards/tom-bombadil/
 > > _**Unique.**_ _**Playable at Old Forest.**_ Tap to cancel the effects of one hazard that targets a company, or an entity associated with a company, moving to a site in: Arthedain, Cardolan, Rhudaur, or The Shire. Discard _Tom Bombadil_ if his company moves to a site that is not in: Arthedain, Cardolan, Rhudaur, or The Shire. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【12/11】</div>
+> > <div class="card-shield">【 12/11 】</div>
 > > <div class="card-corruption">&nbsp;</div>

@@ -19,7 +19,7 @@ permalink: /cards/pon-opar/
 > > <div class="card-name">Pon Opar</div>
 >
 > {: .minion-character-frame .black-text .p-1 .pl-2 }
-> > 6 ![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
+> > 6 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Ranger/Sage Man
@@ -28,5 +28,5 @@ permalink: /cards/pon-opar/
 > > _**Unique.**_ +2 direct influence against any faction playable at Southron Oasis. <br>_"Horse-tamer and Horse-slayer, Chieftain of the Gusar, he knew the hidden waters beneath the earth better than anyone in Far Harad."_ ***---&#65279;Kuduk Lore***  <br><br>**Home Site:** Southron Oasis 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【5/8】</div>
+> > <div class="card-shield">【 5/8 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

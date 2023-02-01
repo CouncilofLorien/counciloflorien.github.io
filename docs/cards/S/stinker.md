@@ -28,7 +28,7 @@ permalink: /cards/stinker/
 > > _**Unique.**_ Playable at Goblin-gate or Moria. Manifestation of Gollum and My Precious. If his company's size is less than three, tap Stinker to cancel one attack against his company keyed to Wilderness \[![](/assets/images/wilderness.svg)] or Shadow-land \[![](/assets/images/shadow-land.svg)]. You may tap Stinker if he is at the same non-Darkhaven site as The One Ring; then both Stinker and The One Ring are discarded. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【2/9】</div>
+> > <div class="card-shield">【 2/9 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -48,7 +48,7 @@ permalink: /cards/stinker/
 > > _**Unique.**_ Playable at Goblin-gate or Moria. Manifestation of Gollum and My Precious. If his company's size is less than three, tap Stinker to cancel one attack against his company keyed to Wilderness \[![](/assets/images/wilderness.svg)] or Shadow-land \[![](/assets/images/shadow-land.svg)]. You may tap Stinker if he is at the same non-Darkhaven site as The One Ring; then both Stinker and The One Ring are discarded. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【2/9】</div>
+> > <div class="card-shield">【 2/9 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth: The Balrog Reprint_
@@ -68,5 +68,5 @@ permalink: /cards/stinker/
 > > _**Unique.**_ Playable at Goblin-gate or Moria. Manifestation of Gollum and My Precious. If his company's size is less than three, tap Stinker to cancel one attack against his company keyed to Wilderness \[![](/assets/images/wilderness.svg)] or Shadow-land \[![](/assets/images/shadow-land.svg)]. You may tap Stinker if he is at the same non-Darkhaven site as The One Ring; then both Stinker and The One Ring are discarded. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【2/9】</div>
+> > <div class="card-shield">【 2/9 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

@@ -19,7 +19,7 @@ permalink: /cards/shamas/
 > > <div class="card-name">Shamas</div>
 >
 > {: .minion-character-frame .black-text .p-1 .pl-2 }
-> > 3 ![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
+> > 3 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Diplomat Man
@@ -28,5 +28,5 @@ permalink: /cards/shamas/
 > > _**Unique.**_ +1 direct influence against Man factions. Additionally, +2 direct influence against the Dunlendings faction. <br>_"Only in Dunland did Men of this race hold to their old speech and manners: a secret folk, unfriendly to the Dunedain, hating the Rohirrim."_ ***---&#65279;LotR***  <br><br>**Home Site:** Dunnish Clan-hold 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【2/8】</div>
+> > <div class="card-shield">【 2/8 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

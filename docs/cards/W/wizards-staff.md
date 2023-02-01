@@ -28,5 +28,5 @@ permalink: /cards/wizards-staff/
 > > _Hoard item._ _Weapon._ ***Only a Wizard may bear this item.*** +2 to direct influence, and +2 to prowess. +2 to any corruption check required by a spell card. Tap bearer at the beginning of your end-of-turn phase to take one "spell," "ritual," or "light enchantment" from your discard pile into your hand. Bearer makes a corruption check. Cannot be duplicated on a given Wizard. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【+2/&ndash;】</div>
-> > <div class="card-corruption">〔2〕</div>
+> > <div class="card-shield">【 +2/&ndash; 】</div>
+> > <div class="card-corruption">〔 2 〕</div>

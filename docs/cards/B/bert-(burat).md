@@ -28,7 +28,7 @@ permalink: /cards/bert-(burat)/
 > > _**Unique.**_ _Troll._ One strike. If played after _"William"_ or _"Tom"_ and if keyed to the same site path against the same company, each character wounded by _"Bert"_ must discard all non-special items he bears. <br>_"The trolls had just decided to roast the dwarves now and eat them later-that was Bert's idea."_ ***---&#65279;Hob***  
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【12/&ndash;】</div>
+> > <div class="card-shield">【 12/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -48,7 +48,7 @@ permalink: /cards/bert-(burat)/
 > > _**Unique.**_ _Troll._ One strike. If played after _"William"_ or _"Tom"_ and if keyed to the same site path against the same company, each character wounded by _"Bert"_ must discard all non-special items he bears. <br>_"The trolls had just decided to roast the dwarves now and eat them later-that was Bert's idea."_ ***---&#65279;Hob***  
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【12/&ndash;】</div>
+> > <div class="card-shield">【 12/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Starter Set_
@@ -68,7 +68,7 @@ permalink: /cards/bert-(burat)/
 > > _**Unique.**_ _Troll._ One strike. If played after _"William"_ or _"Tom"_ and if keyed to the same site path against the same company, each character wounded by _"Bert"_ must discard all non-special items he bears. <br>_"The trolls had just decided to roast the dwarves now and eat them later-that was Bert's idea."_ ***---&#65279;Hob***  
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【12/&ndash;】</div>
+> > <div class="card-shield">【 12/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -88,5 +88,5 @@ permalink: /cards/bert-(burat)/
 > > _**Unique.**_ _Troll._ One strike. If played after _"William"_ or _"Tom"_ and if keyed to the same site path against the same company, each character wounded by _"Bert"_ must discard all non-special items he bears. <br>_"The trolls had just decided to roast the dwarves now and eat them later-that was Bert's idea."_ ***---&#65279;Hob***  
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【12/&ndash;】</div>
+> > <div class="card-shield">【 12/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

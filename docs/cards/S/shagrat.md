@@ -28,7 +28,7 @@ permalink: /cards/shagrat/
 > > _**Unique.**_ _Uruk-hai._ _Leader._ Discard on a body check result of 9. +4 direct influence against Orcs and Orc factions. <br>_“...evil face...slaver dripped from its protruding fangs; the mouth snarled like an animal."_ ***---&#65279;LotRVI***  <br><br>**Home Site:** Cirith Ungol 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【6/9】</div>
+> > <div class="card-shield">【 6/9 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -48,7 +48,7 @@ permalink: /cards/shagrat/
 > > _**Unique.**_ _Uruk-hai._ _Leader._ Discard on a body check result of 9. +4 direct influence against Orcs and Orc factions. <br>_“...evil face...slaver dripped from its protruding fangs; the mouth snarled like an animal."_ ***---&#65279;LotRVI***  <br><br>**Home Site:** Cirith Ungol 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【6/9】</div>
+> > <div class="card-shield">【 6/9 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth: The Balrog Reprint_
@@ -68,5 +68,5 @@ permalink: /cards/shagrat/
 > > _**Unique.**_ _Uruk-hai._ _Leader._ Discard on a body check result of 9. +4 direct influence against Orcs and Orc factions. <br>_“...evil face...slaver dripped from its protruding fangs; the mouth snarled like an animal."_ ***---&#65279;LotRVI***  <br><br>**Home Site:** Cirith Ungol 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【6/9】</div>
+> > <div class="card-shield">【 6/9 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

@@ -28,5 +28,5 @@ permalink: /cards/broin/
 > > _**Unique.**_ +1 prowess against Orcs and Elves. <br>_"Though they be slain or broken, they could not be reduced to shadows enslaved to another will."_ ***---&#65279;LotR***  <br><br>**Home Site:** Moria 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【3/8】</div>
+> > <div class="card-shield">【 3/8 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

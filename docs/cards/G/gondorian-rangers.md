@@ -25,5 +25,5 @@ permalink: /cards/gondorian-rangers/
 > > _Dunedain._ Each character in the company faces one strike (detainment against covert and hero companies). May be played keyed to Ithilien, Dagorlad, Harondor, Mouths of the Anduin, and Brown Lands; and may also be played at sites in these regions. May not be played against a character with Henneth Annun as a home site. 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【9/6】</div>
+> > <div class="card-shield">【 9/6 】</div>
 > > <div class="card-corruption">&nbsp;</div>

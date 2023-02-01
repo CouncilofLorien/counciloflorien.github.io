@@ -28,8 +28,8 @@ permalink: /cards/bifur/
 > > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions. <br>_“...for Bifur and Bombur had given a lot of trouble, and fought like mad, as dwarves will when cornered."_ ***---&#65279;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【4/7】</div>
-> > <div class="card-corruption">〔-1〕</div>
+> > <div class="card-shield">【 4/7 】</div>
+> > <div class="card-corruption">〔 -1 〕</div>
 
 ### _Middle-earth: The Wizards Unlimited_
 
@@ -48,5 +48,5 @@ permalink: /cards/bifur/
 > > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions. <br>_“...for Bifur and Bombur had given a lot of trouble, and fought like mad, as dwarves will when cornered."_ ***---&#65279;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【4/7】</div>
-> > <div class="card-corruption">〔-1〕</div>
+> > <div class="card-shield">【 4/7 】</div>
+> > <div class="card-corruption">〔 -1 〕</div>

@@ -29,4 +29,4 @@ permalink: /cards/thrall-ring/
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
-> > <div class="card-corruption-white">〔2〕</div>
+> > <div class="card-corruption-white">〔 2 〕</div>

@@ -28,7 +28,7 @@ permalink: /cards/orc-captain/
 > > _Leader._ Discard on a body check result of 8. +3 direct influence against Orcs and Orc factions. <br>_“‘Their masters would not dare give such plain orders to Orcs, even if they knew so much themselves...they are not trusty servants.’”_ ***---&#65279;LotRIII***  <br><br>**Home Site:** Any Dark-hold 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【5/8】</div>
+> > <div class="card-shield">【 5/8 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -48,7 +48,7 @@ permalink: /cards/orc-captain/
 > > _Leader._ Discard on a body check result of 8. +3 direct influence against Orcs and Orc factions. <br>_“‘Their masters would not dare give such plain orders to Orcs, even if they knew so much themselves...they are not trusty servants.’”_ ***---&#65279;LotRIII***  <br><br>**Home Site:** Any Dark-hold 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【5/8】</div>
+> > <div class="card-shield">【 5/8 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth: The Balrog Reprint_
@@ -68,5 +68,5 @@ permalink: /cards/orc-captain/
 > > _Leader._ Discard on a body check result of 8. +3 direct influence against Orcs and Orc factions. <br>_“‘Their masters would not dare give such plain orders to Orcs, even if they knew so much themselves...they are not trusty servants.’”_ ***---&#65279;LotRIII***  <br><br>**Home Site:** Any Dark-hold 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【5/8】</div>
+> > <div class="card-shield">【 5/8 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

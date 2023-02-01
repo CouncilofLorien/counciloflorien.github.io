@@ -28,5 +28,5 @@ permalink: /cards/gandalf-the-white-rider/
 > > _**Unique.**_ Maia. Manifestation of Gandalf. Two strikes. Detainment and -3 prowess against hero companies. Discard this card if Gandalf comes into play. As a creature, may also be played keyed to Arthedain, The Shire, Rhudaur, Lindon, Wold & Foothills, or Anfalas; or at sites in these regions. As a permanent-event, the hazard limit against all overt minion companies is increased by one. Discard when any play deck is exhausted. 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【13/9】</div>
+> > <div class="card-shield">【 13/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>

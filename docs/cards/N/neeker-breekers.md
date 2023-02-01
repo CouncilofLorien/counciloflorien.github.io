@@ -28,7 +28,7 @@ permalink: /cards/neeker-breekers/
 > > _Animals._ Each character in the company faces one strike. His prowess against such a strike is equal to his mind attribute. Any character that would normally be wounded is only tapped instead-no body checks are made. <br>_"There were thousands of them, and they squeaked all round, neek-breek, breek-neek, unceasingly all the night, until the hobbits were nearly frantic."_ ***---&#65279;LotR*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【7/&ndash;】</div>
+> > <div class="card-shield">【 7/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -48,7 +48,7 @@ permalink: /cards/neeker-breekers/
 > > _Animals._ Each character in the company faces one strike. His prowess against such a strike is equal to his mind attribute. Any character that would normally be wounded is only tapped instead-no body checks are made. <br>_"There were thousands of them, and they squeaked all round, neek-breek, breek-neek, unceasingly all the night, until the hobbits were nearly frantic."_ ***---&#65279;LotR*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【7/&ndash;】</div>
+> > <div class="card-shield">【 7/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth: The Balrog Reprint_
@@ -68,5 +68,5 @@ permalink: /cards/neeker-breekers/
 > > _Animals._ Each character in the company faces one strike. His prowess against such a strike is equal to his mind attribute. Any character that would normally be wounded is only tapped instead-no body checks are made. <br>_"There were thousands of them, and they squeaked all round, neek-breek, breek-neek, unceasingly all the night, until the hobbits were nearly frantic."_ ***---&#65279;LotR*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【7/&ndash;】</div>
+> > <div class="card-shield">【 7/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

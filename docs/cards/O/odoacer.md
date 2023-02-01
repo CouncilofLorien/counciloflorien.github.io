@@ -28,7 +28,7 @@ permalink: /cards/odoacer/
 > > _**Unique.**_ +3 direct influence against the Woodmen faction. <br>_“...as the shadow grew deep in Greenwood...many evil things reappeared, signs of the arising of Sauron."_ ***---&#65279;LotR***  <br><br>**Home Site:** Woodmen-town 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【4/6】</div>
+> > <div class="card-shield">【 4/6 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -48,5 +48,5 @@ permalink: /cards/odoacer/
 > > _**Unique.**_ +3 direct influence against the Woodmen faction. <br>_“...as the shadow grew deep in Greenwood...many evil things reappeared, signs of the arising of Sauron."_ ***---&#65279;LotR***  <br><br>**Home Site:** Woodmen-town 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【4/6】</div>
+> > <div class="card-shield">【 4/6 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

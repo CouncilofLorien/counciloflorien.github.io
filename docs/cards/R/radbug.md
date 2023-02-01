@@ -28,7 +28,7 @@ permalink: /cards/radbug/
 > > _**Unique.**_ _Uruk-hai._ Discard on a body check result of 8. <br>_“‘Come here, and I'll squeeze your eyes out, like I did to Radbug just now.’”_ ***---&#65279;LotRVI***  <br><br>**Home Site:** Any site in Imlad Morgul 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【5/8】</div>
+> > <div class="card-shield">【 5/8 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -48,5 +48,5 @@ permalink: /cards/radbug/
 > > _**Unique.**_ _Uruk-hai._ Discard on a body check result of 8. <br>_“‘Come here, and I'll squeeze your eyes out, like I did to Radbug just now.’”_ ***---&#65279;LotRVI***  <br><br>**Home Site:** Any site in Imlad Morgul 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【5/8】</div>
+> > <div class="card-shield">【 5/8 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

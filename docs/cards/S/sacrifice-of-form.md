@@ -28,7 +28,7 @@ permalink: /cards/sacrifice-of-form/
 > > _Spell._ _**Wizard only.**_ All of the strikes from one attack against your Wizard's company fail; -3 to any body checks made to determine of the attack is defeated. Discard the Wizard (i.e., he becomes unrevealed) and any non-item cards he controls. Place any items he controls under this card and keep these off to the side (these items are considered to still be in play). <br>&ensp;If the Wizard is put back into play, return his items to him and place _Sacrifice of Form_ with him. Wizard receives +1 to his prowess, body, and direct influence. <br>&ensp;May not be duplicated on a given Wizard. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【+1/+1】</div>
+> > <div class="card-shield">【 +1/+1 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -48,5 +48,5 @@ permalink: /cards/sacrifice-of-form/
 > > _Spell._ _**Wizard only.**_ All of the strikes from one attack against your Wizard's company fail; +3 to any body checks made to determine of the attack is defeated. Discard the Wizard (i.e., he becomes unrevealed) and any non-item cards he controls. Place any items he controls under this card and keep these off to the side (these items are considered to still be in play). <br>&ensp;If the Wizard is put back into play, return his items to him and place _Sacrifice of Form_ with him. Wizard receives +1 to his prowess, body, and direct influence. <br>&ensp;May not be duplicated on a given Wizard. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【+1/+1】</div>
+> > <div class="card-shield">【 +1/+1 】</div>
 > > <div class="card-corruption">&nbsp;</div>

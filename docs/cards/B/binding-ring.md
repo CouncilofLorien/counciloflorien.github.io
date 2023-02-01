@@ -28,5 +28,5 @@ permalink: /cards/binding-ring/
 > > _Mind Ring._ -1 to mind to a minimum of 1. +1 to prowess. Cannot be duplicated on a given character. <br>_"A lesser ring, it confers no lengthened life; merely the wearer finds his will constrained by the aims of the ones who gave the trinket."_ ***---&#65279;Kuduk Lore*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【+1/&ndash;】</div>
-> > <div class="card-corruption-white">〔2〕</div>
+> > <div class="card-shield">【 +1/&ndash; 】</div>
+> > <div class="card-corruption-white">〔 2 〕</div>

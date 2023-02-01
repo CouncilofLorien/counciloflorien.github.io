@@ -28,7 +28,7 @@ permalink: /cards/noble-steed/
 > > Playable at any tapped or untapped non-Haven site in Rohan, Southern Rhovanion, Khand, Dorwinion, Horse Plains, or Harondor. If each character in a company controls a Noble Steed (or Bill the Pony or Shadowfax), the company may move up to two additional regions. Tap to cancel a strike (not from an automatic-attack) against its bearer or itself. <br>_“‘Then he must be a noble beast indeed...’”_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【0/8】</div>
+> > <div class="card-shield">【 0/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -48,5 +48,5 @@ permalink: /cards/noble-steed/
 > > Playable at any tapped or untapped non-Haven site in Rohan, Southern Rhovanion, Khand, Dorwinion, Horse Plains, or Harondor. If each character in a company controls a Noble Steed (or Bill the Pony or Shadowfax), the company may move up to two additional regions. Tap to cancel a strike (not from an automatic-attack) against its bearer or itself. <br>_“‘Then he must be a noble beast indeed...’”_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【0/8】</div>
+> > <div class="card-shield">【 0/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>

@@ -28,7 +28,7 @@ permalink: /cards/wacho/
 > > _**Unique.**_ +2 direct influence against the Woodmen faction. <br>_"Grimbeorn the Old, son of Beorn, counted him as his right hand...for Wacho was bold, ever-vigilant, and tirelessly roamed the mountains and forests by the Anduin Vales."_ ***---&#65279;Kuduk Lore***  <br><br>**Home Site:** Woodmen-town 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【1/8】</div>
+> > <div class="card-shield">【 1/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -48,5 +48,5 @@ permalink: /cards/wacho/
 > > _**Unique.**_ +2 direct influence against the Woodmen faction. <br>_"Grimbeorn the Old son of Beorn, counted him as his right hand...for Wacho was bold, ever-vigilant, and tirelessly roamed the mountains and forests by the Anduin Vales."_ ***---&#65279;Kuduk Lore***  <br><br>**Home Site:** Woodmen-town 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【1/8】</div>
+> > <div class="card-shield">【 1/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>

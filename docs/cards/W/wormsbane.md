@@ -25,8 +25,8 @@ permalink: /cards/wormsbane/
 > > _**Unique.**_ _Weapon._ +2 to prowess to a maximum of 9 (+4 to prowess to a maximum of 12 and -2 to strikes body against a Dragon or a Drake strike). <br>_“...and among them were several swords of various makes, shapes, and sizes."_ ***---&#65279;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【+2/&ndash;】</div>
-> > <div class="card-corruption">〔2〕</div>
+> > <div class="card-shield">【 +2/&ndash; 】</div>
+> > <div class="card-corruption">〔 2 〕</div>
 
 ### _Middle-earth Challenge Decks_
 
@@ -42,5 +42,5 @@ permalink: /cards/wormsbane/
 > > _**Unique.**_ _Weapon._ +2 to prowess to a maximum of 9 (+4 to prowess to a maximum of 12 and -2 to strikes body against a Dragon or a Drake strike). <br>_“...and among them were several swords of various makes, shapes, and sizes."_ ***---&#65279;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【+2/&ndash;】</div>
-> > <div class="card-corruption">〔2〕</div>
+> > <div class="card-shield">【 +2/&ndash; 】</div>
+> > <div class="card-corruption">〔 2 〕</div>

@@ -28,7 +28,7 @@ permalink: /cards/stirring-bones/
 > > _Undead._ Two strikes. Two Wilderness \[![](/assets/images/wilderness.svg)] in site path are required. <br>_"Round the corner a long arm was groping, walking on its fingers toward Sam, who lay nearest, and towards the hilt of the sword that lay upon him."_ ***---&#65279;LotRI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【9/&ndash;】</div>
+> > <div class="card-shield">【 9/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Lidless Eye_
@@ -48,7 +48,7 @@ permalink: /cards/stirring-bones/
 > > _Undead._ Two strikes. <br>_"Gold was piled on their biers of dead kings and queens; and mounds covered them, and the stone floors were shut."_ ***---&#65279;LotRI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【9/&ndash;】</div>
+> > <div class="card-shield">【 9/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -68,5 +68,5 @@ permalink: /cards/stirring-bones/
 > > _Undead._ Two strikes. Two Wilderness \[![](/assets/images/wilderness.svg)] in site path are required. <br>_"Round the corner a long arm was groping, walking on its fingers toward Sam, who lay nearest, and towards the hilt of the sword that lay upon him."_ ***---&#65279;LotRI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【9/&ndash;】</div>
+> > <div class="card-shield">【 9/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

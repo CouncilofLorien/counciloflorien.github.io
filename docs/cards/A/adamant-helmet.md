@@ -25,5 +25,5 @@ permalink: /cards/adamant-helmet/
 > > _Hoard item._ _Helmet:_ +1 to body to a maximum of 9. Cancels all dark enchantments targetting bearer. <br>_“...of adamant his helmet tall...”_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【&ndash;/+1】</div>
-> > <div class="card-corruption">〔1〕</div>
+> > <div class="card-shield">【 &ndash;/+1 】</div>
+> > <div class="card-corruption">〔 1 〕</div>

@@ -28,7 +28,7 @@ permalink: /cards/abductor/
 > > _Men._ One strike. Each non-Wizard defending character wounded by the Abductor is discarded. <br>_"Suddenly he seized them. The strength in his long arms and shoulders was terrifying. He tucked them one under each armpit, and crushed them fiercely to his sides; a great stifling hand was clapped over each of their mouths."_ ***---&#65279;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【10/&ndash;】</div>
+> > <div class="card-shield">【 10/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -48,7 +48,7 @@ permalink: /cards/abductor/
 > > _Men._ One strike. Each non-Wizard defending character wounded by the Abductor is discarded. <br>_"Suddenly he seized them. The strength in his long arms and shoulders was terrifying. He tucked them one under each armpit, and crushed them fiercely to his sides; a great stifling hand was clapped over each of their mouths."_ ***---&#65279;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【10/&ndash;】</div>
+> > <div class="card-shield">【 10/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -68,5 +68,5 @@ permalink: /cards/abductor/
 > > _Men._ One strike. Each non-Wizard defending character wounded by the Abductor is discarded. <br>_"Suddenly he seized them. The strength in his long arms and shoulders was terrifying. He tucked them one under each armpit, and crushed them fiercely to his sides; a great stifling hand was clapped over each of their mouths."_ ***---&#65279;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【10/&ndash;】</div>
+> > <div class="card-shield">【 10/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

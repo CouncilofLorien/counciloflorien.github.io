@@ -28,8 +28,8 @@ permalink: /cards/oin/
 > > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. <br>_"Dwarves can make a fire anywhere out of almost anything, wind or no wind; but they could not do it that night, not even Oin and Gloin, who were specially good at it."_ ***---&#65279;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【3/8】</div>
-> > <div class="card-corruption">〔-1〕</div>
+> > <div class="card-shield">【 3/8 】</div>
+> > <div class="card-corruption">〔 -1 〕</div>
 
 ### _Middle-earth: The Wizards Unlimited_
 
@@ -48,8 +48,8 @@ permalink: /cards/oin/
 > > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. <br>_"Dwarves can make a fire anywhere out of almost anything, wind or no wind; but they could not do it that night, not even Oin and Gloin, who were specially good at it."_ ***---&#65279;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【3/8】</div>
-> > <div class="card-corruption">〔-1〕</div>
+> > <div class="card-shield">【 3/8 】</div>
+> > <div class="card-corruption">〔 -1 〕</div>
 
 ### _Middle-earth Challenge Decks_
 
@@ -68,5 +68,5 @@ permalink: /cards/oin/
 > > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. <br>_"Dwarves can make a fire anywhere out of almost anything, wind or no wind; but they could not do it that night, not even Oin and Gloin, who were specially good at it."_ ***---&#65279;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【3/8】</div>
-> > <div class="card-corruption">〔-1〕</div>
+> > <div class="card-shield">【 3/8 】</div>
+> > <div class="card-corruption">〔 -1 〕</div>

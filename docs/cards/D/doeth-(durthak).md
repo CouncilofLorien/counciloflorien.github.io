@@ -28,5 +28,5 @@ permalink: /cards/doeth-(durthak)/
 > > _**Unique.**_ _Half-orc._ Discard on a body check result of 9.   <br>_“‘Go and ask Ferny where your handsome friend is!’”_ ***---&#65279;LotRI***  <br><br>**Home Site:** Any Dark-hold 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【4/9】</div>
+> > <div class="card-shield">【 4/9 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

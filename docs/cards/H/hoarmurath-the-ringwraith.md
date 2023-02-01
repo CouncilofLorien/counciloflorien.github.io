@@ -28,7 +28,7 @@ permalink: /cards/hoarmurath-the-ringwraith/
 > > _**Unique.**_ Manifestation of Hoarmurath of Dir. Can use sorcery. +1 direct influence in Heralded Lord mode. +2 prowess in Fell Rider mode. As your Ringwraith, if at a Darkhaven \[![](/assets/images/dark-haven.svg)], you may keep one more card than normal in your hand.   <br><br>**Home Site:** Any site in Udun 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【8/9】</div>
+> > <div class="card-shield">【 8/9 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -48,5 +48,5 @@ permalink: /cards/hoarmurath-the-ringwraith/
 > > _**Unique.**_ Manifestation of Hoarmurath of Dir. Can use sorcery. +1 direct influence in Heralded Lord mode. +2 prowess in Fell Rider mode. As your Ringwraith, if at a Darkhaven \[![](/assets/images/dark-haven.svg)], you may keep one more card than normal in your hand.   <br><br>**Home Site:** Any site in Udun 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【8/9】</div>
+> > <div class="card-shield">【 8/9 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

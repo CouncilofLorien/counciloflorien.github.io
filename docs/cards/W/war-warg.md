@@ -28,5 +28,5 @@ permalink: /cards/war-warg/
 > > Playable at any tapped or untapped Ruins & Lairs \[![](/assets/images/ruinlair.svg)] with a Wolf automatic-attack. If the War-warg and its controlling character are both targets of strikes from the same attack, you may tap War-warg to give +2 to body to its controlling character. <br>_"He spoke to them in the language of the Wargs...it sounded terrible...as it was."_ ***---&#65279;Hob*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【3/6】</div>
+> > <div class="card-shield">【 3/6 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

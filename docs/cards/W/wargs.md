@@ -28,7 +28,7 @@ permalink: /cards/wargs/
 > > _Wolves._ Two strikes. <br>_"They heard the wind hissing among the rocks and trees, and there was a howling and wailing round them in the empty spaces of the night."_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【9/&ndash;】</div>
+> > <div class="card-shield">【 9/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -48,7 +48,7 @@ permalink: /cards/wargs/
 > > _Wolves._ Two strikes. <br>_"They heard the wind hissing among the rocks and trees, and there was a howling and wailing round them in the empty spaces of the night."_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【9/&ndash;】</div>
+> > <div class="card-shield">【 9/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Starter Set_
@@ -68,7 +68,7 @@ permalink: /cards/wargs/
 > > _Wolves._ Two strikes. <br>_"They heard the wind hissing among the rocks and trees, and there was a howling and wailing round them in the empty spaces of the night."_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【9/&ndash;】</div>
+> > <div class="card-shield">【 9/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth: The Lidless Eye_
@@ -88,7 +88,7 @@ permalink: /cards/wargs/
 > > _Wolves._ Two strikes. <br>_"In a minute there was a whole pack of them yelping around the tree and leaping up at the trunk, with eyes blazing and tongues hanging out."_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【9/&ndash;】</div>
+> > <div class="card-shield">【 9/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -108,5 +108,5 @@ permalink: /cards/wargs/
 > > _Wolves._ Two strikes. <br>_"They heard the wind hissing among the rocks and trees, and there was a howling and wailing round them in the empty spaces of the night."_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【9/&ndash;】</div>
+> > <div class="card-shield">【 9/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

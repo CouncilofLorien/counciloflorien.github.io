@@ -28,7 +28,7 @@ permalink: /cards/great-lord-of-goblin-gate/
 > > Playable at Goblin-gate. _Orc._ Manifestation of The Great Goblin. Tap to give +2 prowess to all Orcs in its company: against one attack or in company versus company combat. <br>_"He was in such a rage that he jumped off his seat and himself rushed at Thorin with his mouth open."_ ***---&#65279;Hob*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【5/7】</div>
+> > <div class="card-shield">【 5/7 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -48,5 +48,5 @@ permalink: /cards/great-lord-of-goblin-gate/
 > > Playable at Goblin-gate. _Orc._ Manifestation of The Great Goblin. Tap to give +2 prowess to all Orcs in its company: against one attack or in company versus company combat. <br>_"He was in such a rage that he jumped off his seat and himself rushed at Thorin with his mouth open."_ ***---&#65279;Hob*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【5/7】</div>
+> > <div class="card-shield">【 5/7 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

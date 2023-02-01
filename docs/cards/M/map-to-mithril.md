@@ -25,5 +25,5 @@ permalink: /cards/map-to-mithril/
 > > Playable on a Dwarf during the site phase at a site at which "Information" is playable. Tap the Dwarf and site. Tap Map to Mithril if bearer is ever at Moria; this card never untaps. If Map to Mithril is at a Dwarf-hold and it is tapped, the bearer may tap himself and place this card with a non-unique weapon in his company. This gives the weapon a +3 prowess bonus. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【(+3)/&ndash;】</div>
-> > <div class="card-corruption">〔2〕</div>
+> > <div class="card-shield">【 (+3)/&ndash; 】</div>
+> > <div class="card-corruption">〔 2 〕</div>

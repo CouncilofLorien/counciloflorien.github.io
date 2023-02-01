@@ -28,7 +28,7 @@ permalink: /cards/tom-(tuma)/
 > > _**Unique.**_ _Troll._ One strike. If played after _"Bert"_ or _"William"_ and if keyed to the same site path against the same company, each character wounded by _"Tom"_ must discard all non-special items he bears. <br>&ensp;Two Wildernesses \[![](/assets/images/wilderness.svg)] in the site path are required. 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【13/&ndash;】</div>
+> > <div class="card-shield">【 13/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -48,7 +48,7 @@ permalink: /cards/tom-(tuma)/
 > > _**Unique.**_ _Troll._ One strike. If played after _"Bert"_ or _"William"_ and if keyed to the same site path against the same company, each character wounded by _"Tom"_ must discard all non-special items he bears. <br>&ensp;Two Wildernesses \[![](/assets/images/wilderness.svg)] in the site path are required. 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【13/&ndash;】</div>
+> > <div class="card-shield">【 13/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -68,5 +68,5 @@ permalink: /cards/tom-(tuma)/
 > > _**Unique.**_ _Troll._ One strike. If played after _"Bert"_ or _"William"_ and if keyed to the same site path against the same company, each character wounded by _"Tom"_ must discard all non-special items he bears. <br>&ensp;Two Wildernesses \[![](/assets/images/wilderness.svg)] in the site path are required. 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【13/&ndash;】</div>
+> > <div class="card-shield">【 13/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

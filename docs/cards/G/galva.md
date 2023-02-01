@@ -19,7 +19,7 @@ permalink: /cards/galva/
 > > <div class="character-card-name">Galva</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Scout/Sage/Diplomat Man
@@ -28,7 +28,7 @@ permalink: /cards/galva/
 > > _**Unique.**_ +2 direct influence against the Men of Dorwinion faction. Against Nazgul, +6 to her prowess, and his body is halved (round up). <br>_"Like the best vintages...she was rich in nature and complex in character."_ ***---&#65279;Kuduk Lore***  <br><br>**Home Site:** Shrel-Kain 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【0/9】</div>
+> > <div class="card-shield">【 0/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -39,7 +39,7 @@ permalink: /cards/galva/
 > > <div class="character-card-name">Galva</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Scout/Sage/Diplomat Man
@@ -48,5 +48,5 @@ permalink: /cards/galva/
 > > _**Unique.**_ +2 direct influence against the Men of Dorwinion faction. Against Nazgul, +6 to her prowess, and his body is halved (round up). <br>_"Like the best vintages...she was rich in nature and complex in character."_ ***---&#65279;Kuduk Lore***  <br><br>**Home Site:** Shrel-Kain 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【0/9】</div>
+> > <div class="card-shield">【 0/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>

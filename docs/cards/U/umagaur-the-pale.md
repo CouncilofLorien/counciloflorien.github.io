@@ -28,5 +28,5 @@ permalink: /cards/umagaur-the-pale/
 > > _**Unique.**_ _Troll._ 1 strike. Also playable at Moria and The Under-gates. If Doors of Night is in play, playable at any Under-deeps site. Any non-unique Orc or Troll hazard creature can be played (not counting against the hazard limit) on a company that has faced Umagaur that turn. <br>_"Then came Umagaur the Warlord, 'Werewolf-slayer,' self proclaimed 'Troll-king of the Hithaeglir.' And in his wrath he slew most of the Dwarf-company."_ ***---&#65279;Kuduk Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【14/8】</div>
+> > <div class="card-shield">【 14/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>

@@ -29,7 +29,7 @@ permalink: /cards/red-book-of-westmarch/
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
-> > <div class="card-corruption">〔1〕</div>
+> > <div class="card-corruption">〔 1 〕</div>
 
 ### _Middle-earth: The Wizards Unlimited_
 
@@ -49,7 +49,7 @@ permalink: /cards/red-book-of-westmarch/
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
-> > <div class="card-corruption">〔1〕</div>
+> > <div class="card-corruption">〔 1 〕</div>
 
 ### _Middle-earth: The Lidless Eye_
 
@@ -66,7 +66,7 @@ permalink: /cards/red-book-of-westmarch/
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
-> > <div class="card-corruption-white">〔2〕</div>
+> > <div class="card-corruption-white">〔 2 〕</div>
 
 ### _Middle-earth Challenge Decks_
 
@@ -83,4 +83,4 @@ permalink: /cards/red-book-of-westmarch/
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
-> > <div class="card-corruption-white">〔2〕</div>
+> > <div class="card-corruption-white">〔 2 〕</div>

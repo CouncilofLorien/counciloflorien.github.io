@@ -19,7 +19,7 @@ permalink: /cards/ioreth/
 > > <div class="character-card-name">Ioreth</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 1 ![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
+> > 1 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Sage Dunadan
@@ -28,7 +28,7 @@ permalink: /cards/ioreth/
 > > _**Unique.**_ Healing effects affect all characters in her company. <br>_“...an old wife, Ioreth, the eldest of the women who served in that house...”_ ***---&#65279;LotRV***  <br><br>**Home Site:** Minas Tirith 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【0/7】</div>
+> > <div class="card-shield">【 0/7 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -39,7 +39,7 @@ permalink: /cards/ioreth/
 > > <div class="character-card-name">Ioreth</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 1 ![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
+> > 1 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Sage Dunadan
@@ -48,5 +48,5 @@ permalink: /cards/ioreth/
 > > _**Unique.**_ Healing effects affect all characters in her company. <br>_“...an old wife, Ioreth, the eldest of the women who served in that house...”_ ***---&#65279;LotRV***  <br><br>**Home Site:** Minas Tirith 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【0/7】</div>
+> > <div class="card-shield">【 0/7 】</div>
 > > <div class="card-corruption">&nbsp;</div>

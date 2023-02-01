@@ -28,7 +28,7 @@ permalink: /cards/watcher-in-the-water/
 > > Each character in the company faces one strike. May also be played at Moria. <br>&ensp;Two Wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. <br>_"Out of the water a long sinuous tentacle had crawled; it was pale-green and luminous and wet."_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【8/&ndash;】</div>
+> > <div class="card-shield">【 8/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -48,7 +48,7 @@ permalink: /cards/watcher-in-the-water/
 > > _Animal._ Each character in the company faces one strike. May also be played at Moria. <br>&ensp;Two Wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. <br>_"Out of the water a long sinuous tentacle had crawled; it was pale-green and luminous and wet."_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【8/&ndash;】</div>
+> > <div class="card-shield">【 8/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth: The Lidless Eye_
@@ -68,7 +68,7 @@ permalink: /cards/watcher-in-the-water/
 > > _Animal._ Each character in the company faces one strike. May also be played at Moria.   <br>_“‘...the arms were all guided by one purpose. Something has crept, or has been driven out of dark waters under the mountains’”_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【8/&ndash;】</div>
+> > <div class="card-shield">【 8/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -88,5 +88,5 @@ permalink: /cards/watcher-in-the-water/
 > > _Animal._ Each character in the company faces one strike. May also be played at Moria.   <br>_“‘...the arms were all guided by one purpose. Something has crept, or has been driven out of dark waters under the mountains’”_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【8/&ndash;】</div>
+> > <div class="card-shield">【 8/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

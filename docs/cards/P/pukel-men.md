@@ -28,7 +28,7 @@ permalink: /cards/pukel-men/
 > > Two strikes. May also be played at Ruins & Lairs \[![](/assets/images/ruinlair.svg)] sites in the following regions: Andrast, Anfalas, Anorien, Dunland, Enedhwaith, Gap of Isen, Lamedon, Old Pukel Gap, Old Pukel-land, and Rohan. <br>_“...great standing stones...carved in the likeness of men...squatting cross-legged with their stumpy arms folded on their fat bellies."_ ***---&#65279;LotRV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【11/&ndash;】</div>
+> > <div class="card-shield">【 11/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -48,7 +48,7 @@ permalink: /cards/pukel-men/
 > > _Pukel-creature._ Two strikes. May also be played at Ruins & Lairs \[![](/assets/images/ruinlair.svg)] sites in the following regions: Andrast, Anfalas, Anorien, Dunland, Enedhwaith, Gap of Isen, Lamedon, Old Pukel Gap, Old Pukel-land, and Rohan. <br>_“...great standing stones...carved in the likeness of men...squatting cross-legged with their stumpy arms folded on their fat bellies."_ ***---&#65279;LotRV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【11/&ndash;】</div>
+> > <div class="card-shield">【 11/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -68,5 +68,5 @@ permalink: /cards/pukel-men/
 > > _Pukel-creature._ Two strikes. May also be played at Ruins & Lairs \[![](/assets/images/ruinlair.svg)] sites in the following regions: Andrast, Anfalas, Anorien, Dunland, Enedhwaith, Gap of Isen, Lamedon, Old Pukel Gap, Old Pukel-land, and Rohan. <br>_“...great standing stones...carved in the likeness of men...squatting cross-legged with their stumpy arms folded on their fat bellies."_ ***---&#65279;LotRV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【11/&ndash;】</div>
+> > <div class="card-shield">【 11/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

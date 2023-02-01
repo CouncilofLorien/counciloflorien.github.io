@@ -25,5 +25,5 @@ permalink: /cards/daelomin-ahunt/
 > > _**Unique.**_ Any company moving in Withered Heath, Northern Rhovanion, Iron Hills, and/or Grey Mountain Narrows immediately faces one Dragon attack (considered a hazard creature attack)-4 strikes at 11/7 (attacker chooses defending characters). If Doors of Night is in play, this attack also affects: Brown Lands, Southern Rhovanion, Dorwinion, Dagorlad, and Horse Plains. 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【11/7】</div>
+> > <div class="card-shield">【 11/7 】</div>
 > > <div class="card-corruption">&nbsp;</div>

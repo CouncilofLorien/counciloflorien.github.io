@@ -25,7 +25,7 @@ permalink: /cards/scatha-ahunt/
 > > _**Unique.**_ Any company moving in Withered Heath, Woodland Realm, Northern Rhovanion, and/or Grey Mountain Narrows immediately faces one Dragon attack (considered a hazard creature attack)-4 strikes at 13/8. If Doors of Night is in play, this attack also affects: Anduin Vales, Western Mirkwood, Heart of Mirkwood, and Gundabad. 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【13/8】</div>
+> > <div class="card-shield">【 13/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -42,7 +42,7 @@ permalink: /cards/scatha-ahunt/
 > > _**Unique.**_ Any company moving in Withered Heath, Woodland Realm, Northern Rhovanion, and/or Grey Mountain Narrows immediately faces one Dragon attack (considered a hazard creature attack)-4 strikes at 13/8. If Doors of Night is in play, this attack also affects: Anduin Vales, Western Mirkwood, Heart of Mirkwood, and Gundabad. 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【13/8】</div>
+> > <div class="card-shield">【 13/8 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth: The Balrog Reprint_
@@ -59,5 +59,5 @@ permalink: /cards/scatha-ahunt/
 > > _**Unique.**_ Any company moving in Withered Heath, Woodland Realm, Northern Rhovanion, and/or Grey Mountain Narrows immediately faces one Dragon attack (considered a hazard creature attack)-4 strikes at 13/8. If Doors of Night is in play, this attack also affects: Anduin Vales, Western Mirkwood, Heart of Mirkwood, and Gundabad. 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【13/8】</div>
+> > <div class="card-shield">【 13/8 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

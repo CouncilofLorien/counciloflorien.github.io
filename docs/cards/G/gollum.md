@@ -28,7 +28,7 @@ permalink: /cards/gollum/
 > > _**Unique.**_ _**Playable at Goblin-gate or Moria.**_ If his company's size is less than three, tap _Gollum_ to cancel one attack against his company keyed to Wilderness \[![](/assets/images/wilderness.svg)] or Shadow-land \[![](/assets/images/shadow-land.svg)]. <br>&ensp;Tap _Gollum_ if he is at the same non-Haven site as _The One Ring_; then both _Gollum_ and _The One Ring_ are discarded. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【2/9】</div>
+> > <div class="card-shield">【 2/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -48,7 +48,7 @@ permalink: /cards/gollum/
 > > _**Unique.**_ _**Playable at Goblin-gate or Moria.**_ If his company's size is less than three, tap _Gollum_ to cancel one attack against his company keyed to Wilderness \[![](/assets/images/wilderness.svg)] or Shadow-land \[![](/assets/images/shadow-land.svg)]. <br>&ensp;Tap _Gollum_ if he is at the same non-Haven site as _The One Ring_; then both _Gollum_ and _The One Ring_ are discarded.
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【2/9】</div>
+> > <div class="card-shield">【 2/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Starter Set_
@@ -68,7 +68,7 @@ permalink: /cards/gollum/
 > > _**Unique.**_ _**Playable at Goblin-gate or Moria.**_ If his company's size is less than three, tap _Gollum_ to cancel one attack against his company keyed to Wilderness \[![](/assets/images/wilderness.svg)] or Shadow-land \[![](/assets/images/shadow-land.svg)]. <br>&ensp;Tap _Gollum_ if he is at the same non-Haven site as _The One Ring_; then both _Gollum_ and _The One Ring_ are discarded.
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【2/9】</div>
+> > <div class="card-shield">【 2/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -88,5 +88,5 @@ permalink: /cards/gollum/
 > > _**Unique.**_ _**Playable at Goblin-gate or Moria.**_ If his company's size is less than three, tap _Gollum_ to cancel one attack against his company keyed to Wilderness \[![](/assets/images/wilderness.svg)] or Shadow-land \[![](/assets/images/shadow-land.svg)]. <br>&ensp;Tap _Gollum_ if he is at the same non-Haven site as _The One Ring_; then both _Gollum_ and _The One Ring_ are discarded.
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【2/9】</div>
+> > <div class="card-shield">【 2/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>

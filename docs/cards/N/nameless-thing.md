@@ -25,7 +25,7 @@ permalink: /cards/nameless-thing/
 > > _Drake._ 3 attacks of 2 strikes each. A character can tap to cancel one of these attacks. Playable at any Under-deeps site. If Doors of Night is in play, also playable at an adjacent site of any Under-deeps site or keyed to a Coastal Sea \[![](/assets/images/coastalsea.svg)].   <br>_“‘Far, far below the deepest delvings of the Dwarves, the world is gnawed by nameless things...’”_ ***---&#65279;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【10/4】</div>
+> > <div class="card-shield">【 10/4 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -42,7 +42,7 @@ permalink: /cards/nameless-thing/
 > > _Drake._ 3 attacks of 2 strikes each. A character can tap to cancel one of these attacks. Playable at any Under-deeps site. If Doors of Night is in play, also playable at an adjacent site of any Under-deeps site or keyed to a Coastal Sea \[![](/assets/images/coastalsea.svg)].   <br>_“‘Far, far below the deepest delvings of the Dwarves, the world is gnawed by nameless things...’”_ ***---&#65279;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【10/4】</div>
+> > <div class="card-shield">【 10/4 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth: The Balrog Reprint_
@@ -59,5 +59,5 @@ permalink: /cards/nameless-thing/
 > > _Drake._ 3 attacks of 2 strikes each. A character can tap to cancel one of these attacks. Playable at any Under-deeps site. If Doors of Night is in play, also playable at an adjacent site of any Under-deeps site or keyed to a Coastal Sea \[![](/assets/images/coastalsea.svg)].   <br>_“‘Far, far below the deepest delvings of the Dwarves, the world is gnawed by nameless things...’”_ ***---&#65279;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【10/4】</div>
+> > <div class="card-shield">【 10/4 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

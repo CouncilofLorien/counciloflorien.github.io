@@ -28,5 +28,5 @@ permalink: /cards/crook-legged-orc/
 > > _Balrog specific._ Discard on a body check result of 7.   <br>_“...score of others like him: long-armed crook-legged Orcs."_ ***---&#65279;LotRIII***  <br><br>**Home Site:** any non-Dark-hold Under-deeps site 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【3/7】</div>
+> > <div class="card-shield">【 3/7 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

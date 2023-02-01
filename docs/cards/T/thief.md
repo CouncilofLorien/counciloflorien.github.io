@@ -28,7 +28,7 @@ permalink: /cards/thief/
 > > _Men._ One strike. For each successful strike, an item held by the defending company must be discarded (defender's choice); the defending character is not harmed. <br>_"The ponies had vanished! The stable-doors had all opened in the night, and they were gone...”_ ***---&#65279;LotRI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【15/&ndash;】</div>
+> > <div class="card-shield">【 15/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -48,5 +48,5 @@ permalink: /cards/thief/
 > > _Men._ One strike. For each successful strike, an item held by the defending company must be discarded (defender's choice); the defending character is not harmed. <br>_"The ponies had vanished! The stable-doors had all opened in the night, and they were gone...”_ ***---&#65279;LotRI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【15/&ndash;】</div>
+> > <div class="card-shield">【 15/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

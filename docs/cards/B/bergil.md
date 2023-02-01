@@ -28,7 +28,7 @@ permalink: /cards/bergil/
 > > _**Unique.**_  <br>_"The boy drew himself up proudly, 'I am Bergil son of Beregond of the Guards,' he said."_ ***---&#65279;LotRV***  <br><br>**Home Site:** Minas Tirith 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【1/9】</div>
+> > <div class="card-shield">【 1/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -48,7 +48,7 @@ permalink: /cards/bergil/
 > > _**Unique.**_  <br>_"The boy drew himself up proudly, 'I am Bergil son of Beregond of the Guards,' he said."_ ***---&#65279;LotRV***  <br><br>**Home Site:** Minas Tirith 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【1/9】</div>
+> > <div class="card-shield">【 1/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -68,5 +68,5 @@ permalink: /cards/bergil/
 > > _**Unique.**_  <br>_"The boy drew himself up proudly, 'I am Bergil son of Beregond of the Guards,' he said."_ ***---&#65279;LotRV***  <br><br>**Home Site:** Minas Tirith 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【1/9】</div>
+> > <div class="card-shield">【 1/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>

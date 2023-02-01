@@ -19,7 +19,7 @@ permalink: /cards/balin/
 > > <div class="character-card-name">Balin</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 5 ![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
+> > 5 ![](/assets/images/mind.svg)&ensp;2![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Sage Dwarf
@@ -28,7 +28,7 @@ permalink: /cards/balin/
 > > _**Unique.**_ +2 prowess against Orcs. +1 direct influence against Dwarves and Dwarf factions. <br>_“‘Well, it is the first time that even a mouse has crept along carefully and quietly under my very nose and not been spotted,' said Balin, 'and I take off my hood to you.' Which he did."_ ***---&#65279;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold  
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【4/7】</div>
+> > <div class="card-shield">【 4/7 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -39,7 +39,7 @@ permalink: /cards/balin/
 > > <div class="character-card-name">Balin</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 5 ![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
+> > 5 ![](/assets/images/mind.svg)&ensp;2![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Sage Dwarf
@@ -48,7 +48,7 @@ permalink: /cards/balin/
 > > _**Unique.**_ +2 prowess against Orcs. +1 direct influence against Dwarves and Dwarf factions. <br>_“‘Well, it is the first time that even a mouse has crept along carefully and quietly under my very nose and not been spotted,' said Balin, 'and I take off my hood to you.' Which he did."_ ***---&#65279;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold  
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【4/7】</div>
+> > <div class="card-shield">【 4/7 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -59,7 +59,7 @@ permalink: /cards/balin/
 > > <div class="character-card-name">Balin</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 5 ![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
+> > 5 ![](/assets/images/mind.svg)&ensp;2![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Sage Dwarf
@@ -68,5 +68,5 @@ permalink: /cards/balin/
 > > _**Unique.**_ +2 prowess against Orcs. +1 direct influence against Dwarves and Dwarf factions. <br>_“‘Well, it is the first time that even a mouse has crept along carefully and quietly under my very nose and not been spotted,' said Balin, 'and I take off my hood to you.' Which he did."_ ***---&#65279;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold  
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【4/7】</div>
+> > <div class="card-shield">【 4/7 】</div>
 > > <div class="card-corruption">&nbsp;</div>

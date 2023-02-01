@@ -25,5 +25,5 @@ permalink: /cards/orc-draughts/
 > > Discard to give +1 prowess to all characters in bearer's company until the end of turn. <br>_"Ugluk thrust a flask between his teeth and poured some burning liquid down his throat: he felt a fierce glow flow through him. The pain in his legs and ankles vanished."_ ***---&#65279;LotRIII*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【(+1)/&ndash;】</div>
-> > <div class="card-corruption-white">〔1〕</div>
+> > <div class="card-shield">【 (+1)/&ndash; 】</div>
+> > <div class="card-corruption-white">〔 1 〕</div>

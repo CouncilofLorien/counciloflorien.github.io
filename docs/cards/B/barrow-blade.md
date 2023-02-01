@@ -25,5 +25,5 @@ permalink: /cards/barrow-blade/
 > > Tap the bearer of a Dagger of Westernesse during the site phase at a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] and play this with the Dagger of Westernesse. Dagger of Westernesse receives +1 prowess (+3 versus Undead and Nazgul). Cannot be duplicated on a given Dagger of Westernesse. <br>_"No other blade...would have dealt that foe a wound so bitter...”_ ***---&#65279;LotRIII***  
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【+1(3)/&ndash;】</div>
-> > <div class="card-corruption">〔1〕</div>
+> > <div class="card-shield">【 +1(3)/&ndash; 】</div>
+> > <div class="card-corruption">〔 1 〕</div>

@@ -19,7 +19,7 @@ permalink: /cards/layos/
 > > <div class="card-name">Layos</div>
 >
 > {: .minion-character-frame .black-text .p-1 .pl-2 }
-> > 5 ![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
+> > 5 ![](/assets/images/mind.svg)&ensp;2![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Sage/Diplomat Man
@@ -28,7 +28,7 @@ permalink: /cards/layos/
 > > _**Unique.**_ +2 direct influence against the Men of Dorwinion faction. <br>_“‘He offered a fine, rich wine and soothing words filled with subtle malice.’”_ ***---&#65279;Kuduk Lore***  <br><br>**Home Site:** Shrel-Kain 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【3/8】</div>
+> > <div class="card-shield">【 3/8 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -39,7 +39,7 @@ permalink: /cards/layos/
 > > <div class="card-name">Layos</div>
 >
 > {: .minion-character-frame .black-text .p-1 .pl-2 }
-> > 5 ![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
+> > 5 ![](/assets/images/mind.svg)&ensp;2![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Sage/Diplomat Man
@@ -48,5 +48,5 @@ permalink: /cards/layos/
 > > _**Unique.**_ +2 direct influence against the Men of Dorwinion faction. <br>_“‘He offered a fine, rich wine and soothing words filled with subtle malice.’”_ ***---&#65279;Kuduk Lore***  <br><br>**Home Site:** Shrel-Kain 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【3/8】</div>
+> > <div class="card-shield">【 3/8 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

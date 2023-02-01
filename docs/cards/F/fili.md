@@ -28,8 +28,8 @@ permalink: /cards/fili/
 > > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions. <br>_“‘...but Fili is the youngest and still has the best sight,' said Thorin. 'Come here Fili, and see if you can see the boat Mr. Baggins is talking about...’”_ ***---&#65279;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【2/8】</div>
-> > <div class="card-corruption">〔-1〕</div>
+> > <div class="card-shield">【 2/8 】</div>
+> > <div class="card-corruption">〔 -1 〕</div>
 
 ### _Middle-earth: The Wizards Unlimited_
 
@@ -48,8 +48,8 @@ permalink: /cards/fili/
 > > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions. <br>_“‘...but Fili is the youngest and still has the best sight,' said Thorin. 'Come here Fili, and see if you can see the boat Mr. Baggins is talking about...’”_ ***---&#65279;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【2/8】</div>
-> > <div class="card-corruption">〔-1〕</div>
+> > <div class="card-shield">【 2/8 】</div>
+> > <div class="card-corruption">〔 -1 〕</div>
 
 ### _Middle-earth Challenge Decks_
 
@@ -68,5 +68,5 @@ permalink: /cards/fili/
 > > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions. <br>_“‘...but Fili is the youngest and still has the best sight,' said Thorin. 'Come here Fili, and see if you can see the boat Mr. Baggins is talking about...’”_ ***---&#65279;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【2/8】</div>
-> > <div class="card-corruption">〔-1〕</div>
+> > <div class="card-shield">【 2/8 】</div>
+> > <div class="card-corruption">〔 -1 〕</div>

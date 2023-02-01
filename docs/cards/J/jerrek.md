@@ -28,7 +28,7 @@ permalink: /cards/jerrek/
 > > _**Unique.**_ +1 direct influence against any faction playable at Southron Oasis. <br>_“‘You speak of the false cripple Sen Jerrek, dark arbitrator, ambassador to thieves, spy for any and all who trade darkness.’”_ ***---&#65279;Kuduk Lore***  <br><br>**Home Site:** Southron Oasis 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【5/8】</div>
+> > <div class="card-shield">【 5/8 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -48,5 +48,5 @@ permalink: /cards/jerrek/
 > > _**Unique.**_ +1 direct influence against any faction playable at Southron Oasis. <br>_“‘You speak of the false cripple Sen Jerrek, dark arbitrator, ambassador to thieves, spy for any and all who trade darkness.’”_ ***---&#65279;Kuduk Lore***  <br><br>**Home Site:** Southron Oasis 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【5/8】</div>
+> > <div class="card-shield">【 5/8 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

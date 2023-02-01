@@ -28,7 +28,7 @@ permalink: /cards/eomer/
 > > _**Unique.**_ +2 direct influence against the Riders of Rohan faction. <br>_“...one rode forward, a tall man...from his helm as a crest a white horsetail flowed... He bent his clear bright eyes...'I am named Eomer son of Eomund, and I am called Third Marshall of the Riddermark.’”_ ***---&#65279;LotRIII***  <br><br>**Home Site:** Edoras 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【3/8】</div>
+> > <div class="card-shield">【 3/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -48,7 +48,7 @@ permalink: /cards/eomer/
 > > _**Unique.**_ +2 direct influence against the Riders of Rohan faction. <br>_“...one rode forward, a tall man...from his helm as a crest a white horsetail flowed... He bent his clear bright eyes...'I am named Eomer son of Eomund, and I am called Third Marshall of the Riddermark.’”_ ***---&#65279;LotRIII***  <br><br>**Home Site:** Edoras 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【3/8】</div>
+> > <div class="card-shield">【 3/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Starter Set_
@@ -68,5 +68,5 @@ permalink: /cards/eomer/
 > > _**Unique.**_ +2 direct influence against the Riders of Rohan faction. <br>_“...one rode forward, a tall man...from his helm as a crest a white horsetail flowed... He bent his clear bright eyes...'I am named Eomer son of Eomund, and I am called Third Marshall of the Riddermark.’”_ ***---&#65279;LotRIII***  <br><br>**Home Site:** Edoras 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【3/8】</div>
+> > <div class="card-shield">【 3/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>

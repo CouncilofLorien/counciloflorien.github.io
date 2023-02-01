@@ -28,7 +28,7 @@ permalink: /cards/dire-wolves/
 > > _Wolves._ Four strikes. Two wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. <br>_“...the evil packs that lived under the shadow of the goblin-infested mountains, over the Edge of the Wild on the borders of the unknown. Wolves of that sort smell keened than goblins, and do not need to see you to catch you!"_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【8/4】</div>
+> > <div class="card-shield">【 8/4 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Lidless Eye_
@@ -48,7 +48,7 @@ permalink: /cards/dire-wolves/
 > > _Wolves._ Four strikes. <br>_"A shuddering howl broke from him, as if he were a captain summoning his pack to assault.’”_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【8/&ndash;】</div>
+> > <div class="card-shield">【 8/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -68,5 +68,5 @@ permalink: /cards/dire-wolves/
 > > _Wolves._ Four strikes. Two wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. <br>_“...the evil packs that lived under the shadow of the goblin-infested mountains, over the Edge of the Wild on the borders of the unknown. Wolves of that sort smell keened than goblins, and do not need to see you to catch you!"_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【8/4】</div>
+> > <div class="card-shield">【 8/4 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

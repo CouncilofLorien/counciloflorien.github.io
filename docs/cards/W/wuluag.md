@@ -28,7 +28,7 @@ permalink: /cards/wuluag/
 > > _**Unique.**_ Manifestation of "William". May not be included with a starting company. May be played on the same turn Burat and/or Tuma is played. Discard on a body check result of 8. +1 prowess against Dwarves. Tap Wuluag to untap Burat or Tuma if at the same site. If Burat and/or Tuma is in his company, Wuluag's mind is reduced by one.   <br><br>**Home Site:** Any non-Under-deeps Ruins & Lairs 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【5/8】</div>
+> > <div class="card-shield">【 5/8 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -48,7 +48,7 @@ permalink: /cards/wuluag/
 > > _**Unique.**_ Manifestation of "William". May not be included with a starting company. May be played on the same turn Burat and/or Tuma is played. Discard on a body check result of 8. +1 prowess against Dwarves. Tap Wuluag to untap Burat or Tuma if at the same site. If Burat and/or Tuma is in his company, Wuluag's mind is reduced by one.   <br><br>**Home Site:** Any non-Under-deeps Ruins & Lairs 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【5/8】</div>
+> > <div class="card-shield">【 5/8 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth: The Balrog Reprint_
@@ -68,5 +68,5 @@ permalink: /cards/wuluag/
 > > _**Unique.**_ Manifestation of "William". May not be included with a starting company. May be played on the same turn Burat and/or Tuma is played. Discard on a body check result of 8. +1 prowess against Dwarves. Tap Wuluag to untap Burat or Tuma if at the same site. If Burat and/or Tuma is in his company, Wuluag's mind is reduced by one.   <br><br>**Home Site:** Any non-Under-deeps Ruins & Lairs 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【5/8】</div>
+> > <div class="card-shield">【 5/8 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

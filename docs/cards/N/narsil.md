@@ -28,8 +28,8 @@ permalink: /cards/narsil/
 > > _Unique._ _Weapon._ +1 to prowess and direct influence. <br>_“‘For the Sword that was Broken is the Sword of Elendil that broke beneath him when he fell. It has been treasured by his heirs when all other heirlooms were lost; for it was spoken of old among us that it should be made again when the Ring, Isildur's Bane, was found.’”_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【+1/&ndash;】</div>
-> > <div class="card-corruption">〔2〕</div>
+> > <div class="card-shield">【 +1/&ndash; 】</div>
+> > <div class="card-corruption">〔 2 〕</div>
 
 ### _Middle-earth: The Wizards Unlimited_
 
@@ -48,8 +48,8 @@ permalink: /cards/narsil/
 > > _Unique._ _Weapon._ +1 to prowess and direct influence. <br>_“‘For the Sword that was Broken is the Sword of Elendil that broke beneath him when he fell. It has been treasured by his heirs when all other heirlooms were lost; for it was spoken of old among us that it should be made again when the Ring, Isildur's Bane, was found.’”_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【+1/&ndash;】</div>
-> > <div class="card-corruption">〔2〕</div>
+> > <div class="card-shield">【 +1/&ndash; 】</div>
+> > <div class="card-corruption">〔 2 〕</div>
 
 ### _Middle-earth Challenge Decks_
 
@@ -68,5 +68,5 @@ permalink: /cards/narsil/
 > > _Unique._ _Weapon._ +1 to prowess and direct influence. <br>_“‘For the Sword that was Broken is the Sword of Elendil that broke beneath him when he fell. It has been treasured by his heirs when all other heirlooms were lost; for it was spoken of old among us that it should be made again when the Ring, Isildur's Bane, was found.’”_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【+1/&ndash;】</div>
-> > <div class="card-corruption">〔2〕</div>
+> > <div class="card-shield">【 +1/&ndash; 】</div>
+> > <div class="card-corruption">〔 2 〕</div>

@@ -28,8 +28,8 @@ permalink: /cards/nori/
 > > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions. <br>_“...and Nori, who shared the hobbit's views about regular meals, plenty and often."_ ***---&#65279;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【4/7】</div>
-> > <div class="card-corruption">〔-1〕</div>
+> > <div class="card-shield">【 4/7 】</div>
+> > <div class="card-corruption">〔 -1 〕</div>
 
 ### _Middle-earth: The Wizards Unlimited_
 
@@ -48,5 +48,5 @@ permalink: /cards/nori/
 > > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions. <br>_“...and Nori, who shared the hobbit's views about regular meals, plenty and often."_ ***---&#65279;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【4/7】</div>
-> > <div class="card-corruption">〔-1〕</div>
+> > <div class="card-shield">【 4/7 】</div>
+> > <div class="card-corruption">〔 -1 〕</div>

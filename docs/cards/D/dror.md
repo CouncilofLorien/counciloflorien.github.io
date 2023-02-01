@@ -19,7 +19,7 @@ permalink: /cards/dror/
 > > <div class="card-name">Dror</div>
 >
 > {: .minion-character-frame .black-text .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&ensp;2![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Diplomat Dwarf
@@ -28,5 +28,5 @@ permalink: /cards/dror/
 > > _**Unique.**_ Agent. +2 direct influence against Dwarves and Dwarf factions. <br>_"Ever low he sat, always abiding by greed...oaths are broken, vows refused, or solemn agreements."_ ***---&#65279;Kuduk Lore***  <br><br>**Home Site:** Blue Mountain Dwarf-hold  
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【3/7】</div>
+> > <div class="card-shield">【 3/7 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

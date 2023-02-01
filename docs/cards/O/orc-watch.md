@@ -28,7 +28,7 @@ permalink: /cards/orc-watch/
 > > _Orcs._ Three strikes. <br>_“...he saw the goblins: goblins in full armour with drawn swords... They were aroused, alert, ready for anything."_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【9/&ndash;】</div>
+> > <div class="card-shield">【 9/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -48,7 +48,7 @@ permalink: /cards/orc-watch/
 > > _Orcs._ Three strikes. <br>_“...he saw the goblins: goblins in full armour with drawn swords... They were aroused, alert, ready for anything."_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【9/&ndash;】</div>
+> > <div class="card-shield">【 9/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Starter Set_
@@ -68,7 +68,7 @@ permalink: /cards/orc-watch/
 > > _Orcs._ Three strikes. <br>_“...he saw the goblins: goblins in full armour with drawn swords... They were aroused, alert, ready for anything."_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【9/&ndash;】</div>
+> > <div class="card-shield">【 9/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth: The Lidless Eye_
@@ -88,7 +88,7 @@ permalink: /cards/orc-watch/
 > > _Orcs._ Three strikes. <br>_“‘...Whiteskins have better night-eyes than most Men...They can see the night-breeze, or so it's said.’”_ ***---&#65279;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【9/&ndash;】</div>
+> > <div class="card-shield">【 9/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -108,5 +108,5 @@ permalink: /cards/orc-watch/
 > > _Orcs._ Three strikes. <br>_“‘...Whiteskins have better night-eyes than most Men...They can see the night-breeze, or so it's said.’”_ ***---&#65279;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【9/&ndash;】</div>
+> > <div class="card-shield">【 9/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

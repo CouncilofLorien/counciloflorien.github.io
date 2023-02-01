@@ -28,8 +28,8 @@ permalink: /cards/fatty-bolger/
 > > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All his corruption checks are modified by +1. He can tap to cancel a strike against another Hobbit in his company. <br>_"Fatty Bolger had not been idle. As soon as he saw the dark shapes creep from the garden, he knew the he must run for it, or perish."_ ***---&#65279;LotRI***  <br><br>**Home Site:** Bag End 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【1/8】</div>
-> > <div class="card-corruption">〔+1〕</div>
+> > <div class="card-shield">【 1/8 】</div>
+> > <div class="card-corruption">〔 +1 〕</div>
 
 ### _Middle-earth Challenge Decks_
 
@@ -48,5 +48,5 @@ permalink: /cards/fatty-bolger/
 > > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All his corruption checks are modified by +1. He can tap to cancel a strike against another Hobbit in his company. <br>_"Fatty Bolger had not been idle. As soon as he saw the dark shapes creep from the garden, he knew the he must run for it, or perish."_ ***---&#65279;LotRI***  <br><br>**Home Site:** Bag End 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【1/8】</div>
-> > <div class="card-corruption">〔+1〕</div>
+> > <div class="card-shield">【 1/8 】</div>
+> > <div class="card-corruption">〔 +1 〕</div>

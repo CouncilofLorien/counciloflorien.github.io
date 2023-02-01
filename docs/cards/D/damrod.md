@@ -28,7 +28,7 @@ permalink: /cards/damrod/
 > > _**Unique.**_ +2 direct influence against the Men of Lamedon faction. <br>_“...and they were Rangers of Ithilien; for they were descended from folk who lived in Ithilien at one time, before it was overrun."_ ***---&#65279;LotRIV***  <br><br>**Home Site:** Vale of Erech 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【2/7】</div>
+> > <div class="card-shield">【 2/7 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -48,5 +48,5 @@ permalink: /cards/damrod/
 > > _**Unique.**_ +2 direct influence against the Men of Lamedon faction. <br>_“...and they were Rangers of Ithilien; for they were descended from folk who lived in Ithilien at one time, before it was overrun."_ ***---&#65279;LotRIV***  <br><br>**Home Site:** Vale of Erech 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【2/7】</div>
+> > <div class="card-shield">【 2/7 】</div>
 > > <div class="card-corruption">&nbsp;</div>

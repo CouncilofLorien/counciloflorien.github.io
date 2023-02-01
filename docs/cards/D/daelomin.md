@@ -25,7 +25,7 @@ permalink: /cards/daelomin/
 > > _**Unique.**_ ***May be played at Dancing Spire.*** _Dragon._ Three strikes. Attacker chooses defending characters. <br>&ensp;If _Doors of Night_ is in play, may also be played keyed to Grey Mountain Narrows, Iron Hills, Northern Rhovanion, and Withered Heath; and may also be played at sites in these regions. 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【13/8】</div>
+> > <div class="card-shield">【 13/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -42,5 +42,5 @@ permalink: /cards/daelomin/
 > > _**Unique.**_ ***May be played at Dancing Spire.*** _Dragon._ Three strikes. Attacker chooses defending characters. <br>&ensp;If _Doors of Night_ is in play, may also be played keyed to Grey Mountain Narrows, Iron Hills, Northern Rhovanion, and Withered Heath; and may also be played at sites in these regions. 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【13/8】</div>
+> > <div class="card-shield">【 13/8 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

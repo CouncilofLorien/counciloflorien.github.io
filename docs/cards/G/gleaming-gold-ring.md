@@ -26,7 +26,7 @@ permalink: /cards/gleaming-gold-ring/
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
-> > <div class="card-corruption-white">〔4〕</div>
+> > <div class="card-corruption-white">〔 4 〕</div>
 
 ### _Middle-earth Challenge Decks_
 
@@ -43,4 +43,4 @@ permalink: /cards/gleaming-gold-ring/
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
-> > <div class="card-corruption-white">〔4〕</div>
+> > <div class="card-corruption-white">〔 4 〕</div>

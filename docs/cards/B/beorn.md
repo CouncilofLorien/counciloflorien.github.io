@@ -19,7 +19,7 @@ permalink: /cards/beorn/
 > > <div class="character-card-name">Beorn</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 7 ![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
+> > 7 ![](/assets/images/mind.svg)&ensp;2![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Ranger Man
@@ -28,7 +28,7 @@ permalink: /cards/beorn/
 > > _**Unique.**_ +2 direct influence against the Beornings faction. <br>_“...a huge man with thick, black beard and hair, and great bare arms and legs knotted muscles."_ ***---&#65279;Hob***  <br><br>**Home Site:** Beorn's House 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【7/9】</div>
+> > <div class="card-shield">【 7/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -39,7 +39,7 @@ permalink: /cards/beorn/
 > > <div class="character-card-name">Beorn</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 7 ![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
+> > 7 ![](/assets/images/mind.svg)&ensp;2![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Ranger Man
@@ -48,7 +48,7 @@ permalink: /cards/beorn/
 > > _**Unique.**_ +2 direct influence against the Beornings faction. <br>_“...a huge man with thick, black beard and hair, and great bare arms and legs knotted muscles."_ ***---&#65279;Hob***  <br><br>**Home Site:** Beorn's House 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【7/9】</div>
+> > <div class="card-shield">【 7/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -59,7 +59,7 @@ permalink: /cards/beorn/
 > > <div class="character-card-name">Beorn</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 7 ![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
+> > 7 ![](/assets/images/mind.svg)&ensp;2![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Ranger Man
@@ -68,5 +68,5 @@ permalink: /cards/beorn/
 > > _**Unique.**_ +2 direct influence against the Beornings faction. <br>_“...a huge man with thick, black beard and hair, and great bare arms and legs knotted muscles."_ ***---&#65279;Hob***  <br><br>**Home Site:** Beorn's House 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【7/9】</div>
+> > <div class="card-shield">【 7/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>

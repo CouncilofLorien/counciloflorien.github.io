@@ -26,7 +26,7 @@ permalink: /cards/iron-shield-of-old/
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
-> > <div class="card-corruption-white">〔3〕</div>
+> > <div class="card-corruption-white">〔 3 〕</div>
 
 ### _Middle-earth: The Balrog Reprint_
 
@@ -43,4 +43,4 @@ permalink: /cards/iron-shield-of-old/
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
-> > <div class="card-corruption-white">〔3〕</div>
+> > <div class="card-corruption-white">〔 3 〕</div>

@@ -28,8 +28,8 @@ permalink: /cards/kili/
 > > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions. <br>_“...they sent Fili and Kili to look for a better shelter. They had very sharp eyes, and being the youngest of the Dwarves by some fifty years they usually got these sorts of jobs...”_ ***---&#65279;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【3/8】</div>
-> > <div class="card-corruption">〔-1〕</div>
+> > <div class="card-shield">【 3/8 】</div>
+> > <div class="card-corruption">〔 -1 〕</div>
 
 ### _Middle-earth: The Wizards Unlimited_
 
@@ -48,8 +48,8 @@ permalink: /cards/kili/
 > > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions. <br>_“...they sent Fili and Kili to look for a better shelter. They had very sharp eyes, and being the youngest of the Dwarves by some fifty years they usually got these sorts of jobs...”_ ***---&#65279;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【3/8】</div>
-> > <div class="card-corruption">〔-1〕</div>
+> > <div class="card-shield">【 3/8 】</div>
+> > <div class="card-corruption">〔 -1 〕</div>
 
 ### _Middle-earth: The Wizards Starter Set_
 
@@ -68,8 +68,8 @@ permalink: /cards/kili/
 > > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions. <br>_“...they sent Fili and Kili to look for a better shelter. They had very sharp eyes, and being the youngest of the Dwarves by some fifty years they usually got these sorts of jobs...”_ ***---&#65279;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【3/8】</div>
-> > <div class="card-corruption">〔-1〕</div>
+> > <div class="card-shield">【 3/8 】</div>
+> > <div class="card-corruption">〔 -1 〕</div>
 
 ### _Middle-earth Challenge Decks_
 
@@ -88,5 +88,5 @@ permalink: /cards/kili/
 > > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions. <br>_“...they sent Fili and Kili to look for a better shelter. They had very sharp eyes, and being the youngest of the Dwarves by some fifty years they usually got these sorts of jobs...”_ ***---&#65279;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【3/8】</div>
-> > <div class="card-corruption">〔-1〕</div>
+> > <div class="card-shield">【 3/8 】</div>
+> > <div class="card-corruption">〔 -1 〕</div>

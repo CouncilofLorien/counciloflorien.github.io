@@ -19,7 +19,7 @@ permalink: /cards/nain/
 > > <div class="card-name">Nain</div>
 >
 > {: .minion-character-frame .black-text .p-1 .pl-2 }
-> > 3 ![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
+> > 3 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Sage Dwarf
@@ -28,5 +28,5 @@ permalink: /cards/nain/
 > > _**Unique.**_ +1 direct influence against Dwarves and Dwarf factions. +1 prowess against Orcs and Elves. <br>_"The lust for gold was ever in his mind."_ ***---&#65279;LotR***  <br><br>**Home Site:** Dol Guldur 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【3/7】</div>
+> > <div class="card-shield">【 3/7 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

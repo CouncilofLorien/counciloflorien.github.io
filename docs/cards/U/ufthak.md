@@ -28,7 +28,7 @@ permalink: /cards/ufthak/
 > > _**Unique.**_ _Uruk-hai._ Discard on a body check result of 8. <br>_“‘Then we found him in a corner; hanging up he was, but he was wide awake and glaring.’”_ ***---&#65279;LotRIV***  <br><br>**Home Site:** Any site in Imlad Morgul 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【4/8】</div>
+> > <div class="card-shield">【 4/8 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -48,5 +48,5 @@ permalink: /cards/ufthak/
 > > _**Unique.**_ _Uruk-hai._ Discard on a body check result of 8. <br>_“‘Then we found him in a corner; hanging up he was, but he was wide awake and glaring.’”_ ***---&#65279;LotRIV***  <br><br>**Home Site:** Any site in Imlad Morgul 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【4/8】</div>
+> > <div class="card-shield">【 4/8 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

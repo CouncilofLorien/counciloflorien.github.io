@@ -28,5 +28,5 @@ permalink: /cards/beorning-skin-changers/
 > > _Animals._ _Men._ _Bears._ Two strikes. As a creature, playable only against minion companies. May also be keyed to Anduin Vales, Western Mirkwood, Wold & Foothills, and to sites in these regions. Alternatively, playable as a short-event against a moving hero company. Unless the company contains Beorn or an untapped warrior with prowess greater than 4, it must return to its site of origin. 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【10/&ndash;】</div>
+> > <div class="card-shield">【 10/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>

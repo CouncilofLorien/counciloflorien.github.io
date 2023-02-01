@@ -28,7 +28,7 @@ permalink: /cards/giant/
 > > One strike. <br>&ensp;Two Wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. <br>_“...stone-giants were out and were hurtling rocks at one another for a game, and catching them, and tossing them down into the darkness where they smashed among the trees far below...”_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【13/&ndash;】</div>
+> > <div class="card-shield">【 13/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -48,7 +48,7 @@ permalink: /cards/giant/
 > > _Giant._ One strike. <br>&ensp;Two Wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. <br>_“...stone-giants were out and were hurtling rocks at one another for a game, and catching them, and tossing them down into the darkness where they smashed among the trees far below...”_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【13/&ndash;】</div>
+> > <div class="card-shield">【 13/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth: The Lidless Eye_
@@ -68,5 +68,5 @@ permalink: /cards/giant/
 > > _Giant._ One strike. <br>&ensp;Two Wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. <br>_“‘...the sounds were those of shrill cries, and wild howls of laughter.’”_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【13/&ndash;】</div>
+> > <div class="card-shield">【 13/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>

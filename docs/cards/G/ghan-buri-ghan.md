@@ -19,7 +19,7 @@ permalink: /cards/ghan-buri-ghan/
 > > <div class="character-card-name">Ghan-buri-Ghan</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 5 ![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
+> > 5 ![](/assets/images/mind.svg)&ensp;2![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Scout/Ranger Man
@@ -28,7 +28,7 @@ permalink: /cards/ghan-buri-ghan/
 > > _**Unique.**_ +2 direct influence against Wose factions. <br>_“...before them on the ground sat a strange squat shape of a man, gnarled as an old stone, and the hairs of his scanty beard straggled on his lumpy chin like dry moss."_ ***---&#65279;LotRV***  <br><br>**Home Site:** Druadan Forest 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【2/9】</div>
+> > <div class="card-shield">【 2/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -39,7 +39,7 @@ permalink: /cards/ghan-buri-ghan/
 > > <div class="character-card-name">Ghan-buri-Ghan</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 5 ![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
+> > 5 ![](/assets/images/mind.svg)&ensp;2![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Scout/Ranger Man
@@ -48,5 +48,5 @@ permalink: /cards/ghan-buri-ghan/
 > > _**Unique.**_ +2 direct influence against Wose factions. <br>_“...before them on the ground sat a strange squat shape of a man, gnarled as an old stone, and the hairs of his scanty beard straggled on his lumpy chin like dry moss."_ ***---&#65279;LotRV***  <br><br>**Home Site:** Druadan Forest 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【2/9】</div>
+> > <div class="card-shield">【 2/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>

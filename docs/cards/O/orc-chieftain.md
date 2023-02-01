@@ -28,5 +28,5 @@ permalink: /cards/orc-chieftain/
 > > _Leader._ Discard on a body check result of 8. +3 direct influence against Orcs and Orc factions. <br>_"But if his family wish to know who is now king here, the name is written on his face. I wrote! I killed him! I am the master!"_ ***---&#65279;LotR***  <br><br>**Home Site:** Any Dark-hold 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【4/7】</div>
+> > <div class="card-shield">【 4/7 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

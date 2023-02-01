@@ -28,7 +28,7 @@ permalink: /cards/ill-favoured-fellow/
 > > _Half-orc._ Discard on a body check result of 9. <br>_"One of the travelers, a squint-eyed ill-favoured fellow, was foretelling that more and more people would be coming north in the near future."_ ***---&#65279;LotRI***  <br><br>**Home Site:** Any Dark-hold 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【2/9】</div>
+> > <div class="card-shield">【 2/9 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -48,5 +48,5 @@ permalink: /cards/ill-favoured-fellow/
 > > _Half-orc._ Discard on a body check result of 9. <br>_"One of the travelers, a squint-eyed ill-favoured fellow, was foretelling that more and more people would be coming north in the near future."_ ***---&#65279;LotRI***  <br><br>**Home Site:** Any Dark-hold 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【2/9】</div>
+> > <div class="card-shield">【 2/9 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

@@ -19,7 +19,7 @@ permalink: /cards/woffung/
 > > <div class="card-name">Woffung</div>
 >
 > {: .minion-character-frame .black-text .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Diplomat Man
@@ -28,5 +28,5 @@ permalink: /cards/woffung/
 > > _**Unique.**_ Agent. <br>_"Shadowy Woffung called himself a juggler, but by trade he practiced anything bequeathing him easy wealth."_ ***---&#65279;Kuduk Lore***  <br><br>**Home Site:** Lake-town, Dale, Shrel-Kain 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【4/8】</div>
+> > <div class="card-shield">【 4/8 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

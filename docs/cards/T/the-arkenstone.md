@@ -29,7 +29,7 @@ permalink: /cards/the-arkenstone/
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
-> > <div class="card-corruption">〔2(4)〕</div>
+> > <div class="card-corruption">〔 2(4) 〕</div>
 
 ### _Middle-earth: The Wizards Unlimited_
 
@@ -49,7 +49,7 @@ permalink: /cards/the-arkenstone/
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
-> > <div class="card-corruption">〔2(4)〕</div>
+> > <div class="card-corruption">〔 2(4) 〕</div>
 
 ### _Middle-earth: The Lidless Eye_
 
@@ -69,7 +69,7 @@ permalink: /cards/the-arkenstone/
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
-> > <div class="card-corruption-white">〔3〕</div>
+> > <div class="card-corruption-white">〔 3 〕</div>
 
 ### _Middle-earth Challenge Decks_
 
@@ -89,4 +89,4 @@ permalink: /cards/the-arkenstone/
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
-> > <div class="card-corruption-white">〔3〕</div>
+> > <div class="card-corruption-white">〔 3 〕</div>

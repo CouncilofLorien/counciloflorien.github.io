@@ -28,5 +28,5 @@ permalink: /cards/troll-lout/
 > > Discard on a body check result of 8. -1 to all corruption checks. <br>_“‘My lad,' said Troll, 'this bone I stole. But what be bones that lie in a hole? Thy nuncle was dead as a lump o' lead, Afore I found his shinbone.’”_ ***---&#65279;LotRI***  <br><br>**Home Site:** Any Dark-hold 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【4/9】</div>
-> > <div class="card-corruption-white">〔-1〕</div>
+> > <div class="card-shield">【 4/9 】</div>
+> > <div class="card-corruption-white">〔 -1 〕</div>

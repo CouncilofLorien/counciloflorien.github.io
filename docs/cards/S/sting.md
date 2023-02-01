@@ -25,8 +25,8 @@ permalink: /cards/sting/
 > > _Unique._ _Weapon._ +1 prowess to a maximum of 8., +2 to a Hobbit's prowess to maximum of 8. <br>_"Sting flashed out, and the sharp elven-blade sparkled in the silver light, but at its edges a blue fire flickered."_ ***---&#65279;LotRIV*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【+1(2)/&ndash;】</div>
-> > <div class="card-corruption">〔1〕</div>
+> > <div class="card-shield">【 +1(2)/&ndash; 】</div>
+> > <div class="card-corruption">〔 1 〕</div>
 
 ### _Middle-earth: The Wizards Unlimited_
 
@@ -42,5 +42,5 @@ permalink: /cards/sting/
 > > _Unique._ _Weapon._ +1 prowess to a maximum of 8, +2 to a Hobbit's prowess to maximum of 8. <br>_"Sting flashed out, and the sharp elven-blade sparkled in the silver light, but at its edges a blue fire flickered."_ ***---&#65279;LotRIV*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【+1(2)/&ndash;】</div>
-> > <div class="card-corruption">〔1〕</div>
+> > <div class="card-shield">【 +1(2)/&ndash; 】</div>
+> > <div class="card-corruption">〔 1 〕</div>

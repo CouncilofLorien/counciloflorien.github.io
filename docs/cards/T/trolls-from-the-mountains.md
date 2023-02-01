@@ -28,5 +28,5 @@ permalink: /cards/trolls-from-the-mountains/
 > > _Trolls._ Three strikes  “‘For a couple o' pins,' says Troll, and grins...I'll eat thee too, and gnaw thy shins.’”_ ***---&#65279;LotRI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【12/5】</div>
+> > <div class="card-shield">【 12/5 】</div>
 > > <div class="card-corruption">&nbsp;</div>

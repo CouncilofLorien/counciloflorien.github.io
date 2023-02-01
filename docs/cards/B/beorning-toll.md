@@ -25,5 +25,5 @@ permalink: /cards/beorning-toll/
 > > _Men._ Each character in the company faces one strike (detainment against covert and hero companies). May be played keyed to Anduin Vales, Wold & Foothills, High Pass, and Redhorn Gate; and may also be played at non-haven sites in these regions. May not be played against a company containing a character with Beorn's House as a home site.  
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【11/6】</div>
+> > <div class="card-shield">【 11/6 】</div>
 > > <div class="card-corruption">&nbsp;</div>

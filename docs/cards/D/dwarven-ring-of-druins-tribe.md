@@ -28,8 +28,8 @@ permalink: /cards/dwarven-ring-of-druins-tribe/
 > > _Unique._ _Dwarven Ring._ ***Playable only with a Gold Ring and after a test indicates a Dwarven Ring.*** Values in parentheses and brackets apply to a Dwarf bearer. Tap a Dwarf bearer to search your play deck for a greater item playable at the bearer's site. Play this item immediately or discard; reshuffle the play deck. reshuffle the play deck. Bearer makes a corruption check modified by +2. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【+2(4)/+1】</div>
-> > <div class="card-corruption">〔3(5)〕</div>
+> > <div class="card-shield">【 +2(4)/+1 】</div>
+> > <div class="card-corruption">〔 3(5) 〕</div>
 
 ### _Middle-earth: The Wizards Unlimited_
 
@@ -48,8 +48,8 @@ permalink: /cards/dwarven-ring-of-druins-tribe/
 > > _Unique._ _Dwarven Ring._ ***Playable only with a Gold Ring and after a test indicates a Dwarven Ring.*** Values in parentheses and brackets apply to a Dwarf bearer. Tap a Dwarf bearer to search your play deck for a greater item playable at the bearer's site. Play this item immediately or discard; reshuffle the play deck. Bearer makes a corruption check modified by +2. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【+2(4)/+1】</div>
-> > <div class="card-corruption">〔3(5)〕</div>
+> > <div class="card-shield">【 +2(4)/+1 】</div>
+> > <div class="card-corruption">〔 3(5) 〕</div>
 
 ### _Middle-earth: The Lidless Eye_
 
@@ -68,5 +68,5 @@ permalink: /cards/dwarven-ring-of-druins-tribe/
 > > _**Unique.**_ _Dwarven Ring._ ***Playable only with a Gold Ring and after a test indicates a Dwarven Ring.*** Values in parentheses and brackets apply to a Dwarf bearer. Tap a Dwarf bearer to search your play deck and/or discard pile for a greater item playable at the bearer's site. The item must be played immediately or discarded; reshuffle the play deck. Bearer makes a corruption check modified by +2. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【+2(4)/+1】</div>
-> > <div class="card-corruption-white">〔3(5)〕</div>
+> > <div class="card-shield">【 +2(4)/+1 】</div>
+> > <div class="card-corruption-white">〔 3(5) 〕</div>

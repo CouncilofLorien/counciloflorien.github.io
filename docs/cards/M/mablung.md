@@ -28,7 +28,7 @@ permalink: /cards/mablung/
 > > _**Unique.**_ +2 direct influence against the Men of Anfalas faction. <br>_"From such men the Lord Denethor chose his forayers, who crossed the Anduin secretly (how or where, they would not say) to harry the Orcs and other enemies that roamed between the Ephel Duath and the River."_ ***---&#65279;LotRIV***  <br><br>**Home Site:** Lond Galen 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【1/6】</div>
+> > <div class="card-shield">【 1/6 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -48,5 +48,5 @@ permalink: /cards/mablung/
 > > _**Unique.**_ +2 direct influence against the Men of Anfalas faction. <br>_"From such men the Lord Denethor chose his forayers, who crossed the Anduin secretly (how or where, they would not say) to harry the Orcs and other enemies that roamed between the Ephel Duath and the River."_ ***---&#65279;LotRIV***  <br><br>**Home Site:** Lond Galen 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【1/6】</div>
+> > <div class="card-shield">【 1/6 】</div>
 > > <div class="card-corruption">&nbsp;</div>

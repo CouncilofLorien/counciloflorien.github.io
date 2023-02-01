@@ -25,8 +25,8 @@ permalink: /cards/fellowship/
 > > ***Only playable at a Haven \[![](/assets/images/free-haven.svg)] during the organization phase*** on a company that has four or more characters and allies. +1 to prowess and +1 to corruption checks for all characters and allies in the company. Discard this card if a character or ally joins or leaves the company for any reason. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【+1/&ndash;】</div>
-> > <div class="card-corruption">〔+1〕</div>
+> > <div class="card-shield">【 +1/&ndash; 】</div>
+> > <div class="card-corruption">〔 +1 〕</div>
 
 ### _Middle-earth: The Wizards Unlimited_
 
@@ -42,8 +42,8 @@ permalink: /cards/fellowship/
 > > ***Only playable at a Haven \[![](/assets/images/free-haven.svg)] during the organization phase*** on a company that has four or more characters and allies. +1 to prowess and +1 to corruption checks for all characters and allies in the company. Discard this card if a character or ally joins or leaves the company for any reason. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【+1/&ndash;】</div>
-> > <div class="card-corruption">〔+1〕</div>
+> > <div class="card-shield">【 +1/&ndash; 】</div>
+> > <div class="card-corruption">〔 +1 〕</div>
 
 ### _Middle-earth Challenge Decks_
 
@@ -59,5 +59,5 @@ permalink: /cards/fellowship/
 > > ***Only playable at a Haven \[![](/assets/images/free-haven.svg)] during the organization phase*** on a company that has four or more characters and allies. +1 to prowess and +1 to corruption checks for all characters and allies in the company. Discard this card if a character or ally joins or leaves the company for any reason. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【+1/&ndash;】</div>
-> > <div class="card-corruption">〔+1〕</div>
+> > <div class="card-shield">【 +1/&ndash; 】</div>
+> > <div class="card-corruption">〔 +1 〕</div>

@@ -28,7 +28,7 @@ permalink: /cards/wisp-of-pale-sheen/
 > > _Undead._ One strike. Attacker chooses defending characters. Any character facing a strike whose mind is equal to or lower than the strike's prowess must tap if untapped following the strike (unless the strike is canceled). <br>_“...a wisp of pale sheen that...twisted like ghostly sheets unfurled by hidden hands."_ ***---&#65279;LotRIV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【6/&ndash;】</div>
+> > <div class="card-shield">【 6/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -48,5 +48,5 @@ permalink: /cards/wisp-of-pale-sheen/
 > > _Undead._ One strike. Attacker chooses defending characters. Any character facing a strike whose mind is equal to or lower than the strike's prowess must tap if untapped following the strike (unless the strike is canceled). <br>_“...a wisp of pale sheen that...twisted like ghostly sheets unfurled by hidden hands."_ ***---&#65279;LotRIV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【6/&ndash;】</div>
+> > <div class="card-shield">【 6/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

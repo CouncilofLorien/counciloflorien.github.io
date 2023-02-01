@@ -28,5 +28,5 @@ permalink: /cards/heralded-lord/
 > > _Heralded Lord mode._ Playable on your Ringwraith's company at a Darkhaven \[![](/assets/images/dark-haven.svg)] during the organization phase. -2 prowess, +3 direct influence to entire company. His own company may move to a non-Darkhaven site. Discard this card and any other Ringwraith followers in the company during any of your following organization phases the company is at a Darkhaven \[![](/assets/images/dark-haven.svg)]. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【-2/&ndash;】</div>
+> > <div class="card-shield">【 -2/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

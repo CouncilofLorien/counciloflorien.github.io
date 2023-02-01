@@ -28,7 +28,7 @@ permalink: /cards/assassin/
 > > _Men._ Three attacks (of one strike each) all against the same character. Attacker chooses defending character. One or two of these attacks may be canceled by tapping one character (not the defending character) in the defending character's company for each attack canceled. 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【11/&ndash;】</div>
+> > <div class="card-shield">【 11/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -48,7 +48,7 @@ permalink: /cards/assassin/
 > > _Men._ Three attacks (of one strike each) all against the same character. Attacker chooses defending character. One or two of these attacks may be canceled by tapping one character (not the defending character) in the defending character's company for each attack canceled. 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【11/&ndash;】</div>
+> > <div class="card-shield">【 11/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -68,5 +68,5 @@ permalink: /cards/assassin/
 > > _Men._ Three attacks (of one strike each) all against the same character. Attacker chooses defending character. One or two of these attacks may be canceled by tapping one character (not the defending character) in the defending character's company for each attack canceled. 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【11/&ndash;】</div>
+> > <div class="card-shield">【 11/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

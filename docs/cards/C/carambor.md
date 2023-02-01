@@ -28,5 +28,5 @@ permalink: /cards/carambor/
 > > _**Unique.**_ May tap at the end of his company's movement/hazard phase to allow it to move to an additional site on the same turn. Another site card may be played and another movement/hazard phase immediately follows for his company. The new site path must contain at least one Wilderness \[![](/assets/images/wilderness.svg)].   <br><br>**Home Site:** Carn Dum  
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【5/8】</div>
+> > <div class="card-shield">【 5/8 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

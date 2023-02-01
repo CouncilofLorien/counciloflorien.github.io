@@ -19,7 +19,7 @@ permalink: /cards/nevido-smod/
 > > <div class="card-name">Nevido Smod</div>
 >
 > {: .minion-character-frame .black-text .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Ranger Man
@@ -28,7 +28,7 @@ permalink: /cards/nevido-smod/
 > > _**Unique.**_ +2 direct influence against any faction playable at Easterling Camp. <br>_“...the Balchoth, having built many great boats and rafts on the east shores of Anduin, swarmed over the River and swept away the defenders."_ ***---&#65279;LotR***  <br><br>**Home Site:** Easterling Camp 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【4/8】</div>
+> > <div class="card-shield">【 4/8 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -39,7 +39,7 @@ permalink: /cards/nevido-smod/
 > > <div class="card-name">Nevido Smod</div>
 >
 > {: .minion-character-frame .black-text .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Ranger Man
@@ -48,5 +48,5 @@ permalink: /cards/nevido-smod/
 > > _**Unique.**_ +2 direct influence against any faction playable at Easterling Camp. <br>_“...the Balchoth, having built many great boats and rafts on the east shores of Anduin, swarmed over the River and swept away the defenders."_ ***---&#65279;LotR***  <br><br>**Home Site:** Easterling Camp 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【4/8】</div>
+> > <div class="card-shield">【 4/8 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

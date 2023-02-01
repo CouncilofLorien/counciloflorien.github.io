@@ -28,5 +28,5 @@ permalink: /cards/master-of-shapes/
 > > _Radagast specific._ _Shapeshifter._. Place this card on Radgast if he is in play. Return this card to your hand: when you play another _Shapeshifter._ card or, if you choose, during your organization phase. In addition to adopting the given attributes, Radagast's skills become Warrior/Ranger. Radagast's prowess is only modified by -1 when not tapping to face a strike. Radagast may bear, but may not use items. 
 > 
 > {: .stage-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【9/10】</div>
-> > <div class="card-corruption">〔-2〕</div>
+> > <div class="card-shield">【 9/10 】</div>
+> > <div class="card-corruption">〔 -2 〕</div>

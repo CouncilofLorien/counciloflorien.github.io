@@ -28,7 +28,7 @@ permalink: /cards/barrow-wight/
 > > _Undead._ One strike. After each attack, each character wounded by _Barrow-wight_ makes a corruption check modified by -2. <br>_“...two eyes, very cold though lit with a pale light...Then a grip stronger and colder than iron...”_ ***---&#65279;LotRI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【12/&ndash;】</div>
+> > <div class="card-shield">【 12/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -48,7 +48,7 @@ permalink: /cards/barrow-wight/
 > > _Undead._ One strike. After each attack, each character wounded by _Barrow-wight_ makes a corruption check modified by -2. <br>_“...two eyes, very cold though lit with a pale light...Then a grip stronger and colder than iron...”_ ***---&#65279;LotRI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【12/&ndash;】</div>
+> > <div class="card-shield">【 12/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Starter Set_
@@ -68,7 +68,7 @@ permalink: /cards/barrow-wight/
 > > _Undead._ One strike. After each attack, each character wounded by _Barrow-wight_ makes a corruption check modified by -2. <br>_“...two eyes, very cold though lit with a pale light...Then a grip stronger and colder than iron...”_ ***---&#65279;LotRI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【12/&ndash;】</div>
+> > <div class="card-shield">【 12/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth: The Lidless Eye_
@@ -88,7 +88,7 @@ permalink: /cards/barrow-wight/
 > > _Undead._ One strike. After each attack, each character wounded by _Barrow-wight_ makes a corruption check modified by -2. <br>_“...two eyes, very cold though lit with a pale light...Then a grip stronger and colder than iron...”_ ***---&#65279;LotRI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【12/&ndash;】</div>
+> > <div class="card-shield">【 12/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -108,5 +108,5 @@ permalink: /cards/barrow-wight/
 > > _Undead._ One strike. After each attack, each character wounded by _Barrow-wight_ makes a corruption check modified by -2. <br>_“...two eyes, very cold though lit with a pale light...Then a grip stronger and colder than iron...”_ ***---&#65279;LotRI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【12/&ndash;】</div>
+> > <div class="card-shield">【 12/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

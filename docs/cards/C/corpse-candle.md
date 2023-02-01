@@ -28,7 +28,7 @@ permalink: /cards/corpse-candle/
 > > _Undead._ One strike. Before a defending character is selected, every character in the company makes a corruption check. <br>_“...some like dimly shining smoke, some like misty flames flickering slowly above unseen candles; here and there they twisted like ghostly sheets unfurled by hidden hands."_ ***---&#65279;LotRIV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【7/&ndash;】</div>
+> > <div class="card-shield">【 7/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -48,7 +48,7 @@ permalink: /cards/corpse-candle/
 > > _Undead._ One strike. If this attack is not canceled, every character in the company makes a corruption check before a defending character is selected. <br>_“...some like dimly shining smoke, some like misty flames flickering slowly above unseen candles; here and there they twisted like ghostly sheets unfurled by hidden hands."_ ***---&#65279;LotRIV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【7/&ndash;】</div>
+> > <div class="card-shield">【 7/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth: The Lidless Eye_
@@ -68,7 +68,7 @@ permalink: /cards/corpse-candle/
 > > _Undead._ One strike. If this attack is not canceled, every character in the company makes a corruption check before defending characters are selected. <br>_“‘In the pools when the candles were lit. They lie in all the pools, pale faces, deep, deep under the dark water.’”_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【7/&ndash;】</div>
+> > <div class="card-shield">【 7/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -88,5 +88,5 @@ permalink: /cards/corpse-candle/
 > > _Undead._ One strike. If this attack is not canceled, every character in the company makes a corruption check before defending characters are selected. <br>_“‘In the pools when the candles were lit. They lie in all the pools, pale faces, deep, deep under the dark water.’”_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【7/&ndash;】</div>
+> > <div class="card-shield">【 7/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

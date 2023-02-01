@@ -29,4 +29,4 @@ permalink: /cards/keys-to-the-white-towers/
 > 
 > {: .stage-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
-> > <div class="card-corruption">〔1〕</div>
+> > <div class="card-corruption">〔 1 〕</div>

@@ -25,7 +25,7 @@ permalink: /cards/true-cold-drake/
 > > _Drake._ Two strikes. May also be played keyed to Numeriador, Forochel, Angmar, Gundabad, Grey Mountain Narrows, Withered Heath, and Iron Hills. <br>_"The helkaloki comprise the oldest strain of dragon, bred by Morgoth as the ultimate expression of violence incarnate."_ ***---&#65279;Kuduk Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【14/&ndash;】</div>
+> > <div class="card-shield">【 14/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -42,5 +42,5 @@ permalink: /cards/true-cold-drake/
 > > _Drake._ Two strikes. May also be played keyed to Numeriador, Forochel, Angmar, Gundabad, Grey Mountain Narrows, Withered Heath, and Iron Hills. <br>_"The helkaloki comprise the oldest strain of dragon, bred by Morgoth as the ultimate expression of violence incarnate."_ ***---&#65279;Kuduk Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【14/&ndash;】</div>
+> > <div class="card-shield">【 14/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

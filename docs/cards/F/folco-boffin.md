@@ -28,5 +28,5 @@ permalink: /cards/folco-boffin/
 > > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +2. You may discard at a Haven to play any Hobbit from your hand with his company. <br>_"Some of Frodo's friends came to stay and help him with the packing...”_ ***---&#65279;LotRI***  <br><br>**Home Site:** Bag End 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【0/9】</div>
-> > <div class="card-corruption">〔+2〕</div>
+> > <div class="card-shield">【 0/9 】</div>
+> > <div class="card-corruption">〔 +2 〕</div>

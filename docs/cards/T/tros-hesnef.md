@@ -28,8 +28,8 @@ permalink: /cards/tros-hesnef/
 > > _**Unique.**_ +1 direct influence against any faction playable at Easterling camp. -1 to all corruption checks. <br>_"Exiled with his family at the age of fifteen, he returned a year later and assassinated the High Chieftain Pos Ari. This slaying spawned a reign of sorrow and bloodshed."_ ***---&#65279;Kuduk Lore***  <br><br>**Home Site:** Easterling Camp 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【5/7】</div>
-> > <div class="card-corruption-white">〔-1〕</div>
+> > <div class="card-shield">【 5/7 】</div>
+> > <div class="card-corruption-white">〔 -1 〕</div>
 
 ### _Middle-earth Challenge Decks_
 
@@ -48,5 +48,5 @@ permalink: /cards/tros-hesnef/
 > > _**Unique.**_ +1 direct influence against any faction playable at Easterling camp. -1 to all corruption checks. <br>_"Exiled with his family at the age of fifteen, he returned a year later and assassinated the High Chieftain Pos Ari. This slaying spawned a reign of sorrow and bloodshed."_ ***---&#65279;Kuduk Lore***  <br><br>**Home Site:** Easterling Camp 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【5/7】</div>
+> > <div class="card-shield">【 5/7 】</div>
 > > <div class="card-corruption-white">〔-1〕</div>

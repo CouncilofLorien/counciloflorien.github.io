@@ -28,7 +28,7 @@ permalink: /cards/the-witch-king/
 > > _**Unique.**_ Manifestation of The Witch-king of Angmar. Can use spirit-magic and shadow-magic. +3 direct influence in Heralded Lord mode. +1 prowess in Fell Rider mode. As your Ringwraith, up to two Ringwraith followers in his company may be controlled with no influence. You may bring these followers into play during separate organization phases.   <br><br>**Home Site:** Any site in Imlad Morgul 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【9/12】</div>
+> > <div class="card-shield">【 9/12 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -48,5 +48,5 @@ permalink: /cards/the-witch-king/
 > > _**Unique.**_ Manifestation of The Witch-king of Angmar. Can use spirit-magic and shadow-magic. +3 direct influence in Heralded Lord mode. +1 prowess in Fell Rider mode. As your Ringwraith, up to two Ringwraith followers in his company may be controlled with no influence. You may bring these followers into play during separate organization phases.   <br><br>**Home Site:** Any site in Imlad Morgul 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【9/12】</div>
+> > <div class="card-shield">【 9/12 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

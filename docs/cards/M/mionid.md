@@ -28,7 +28,7 @@ permalink: /cards/mionid/
 > > _**Unique.**_ +2 direct influence against any faction playable at Variag Camp. <br>_"Many of the Wainriders...passed south of Mordor and made alliances with men of Khand and of Near Harad...”_ ***---&#65279;LotR***  <br><br>**Home Site:** Variag Camp 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【5/8】</div>
+> > <div class="card-shield">【 5/8 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -48,5 +48,5 @@ permalink: /cards/mionid/
 > > _**Unique.**_ +2 direct influence against any faction playable at Variag Camp. <br>_"Many of the Wainriders...passed south of Mordor and made alliances with men of Khand and of Near Harad...”_ ***---&#65279;LotR***  <br><br>**Home Site:** Variag Camp 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【5/8】</div>
+> > <div class="card-shield">【 5/8 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

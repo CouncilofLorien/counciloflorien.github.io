@@ -19,7 +19,7 @@ permalink: /cards/elwen/
 > > <div class="card-name">Elwen</div>
 >
 > {: .minion-character-frame .black-text .p-1 .pl-2 }
-> > 5 ![](/assets/images/mind.svg) 2![](/assets/images/di.svg)
+> > 5 ![](/assets/images/mind.svg)&ensp;2![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Diplomat Elf
@@ -28,5 +28,5 @@ permalink: /cards/elwen/
 > > _**Unique.**_ Agent. +2 direct influence against Elves and Elf factions. Agent only: may move to a Haven \[![](/assets/images/free-haven.svg)]. <br>_“...Elves of this land were of a race strange to us of the silvan folk."_ ***---&#65279;LotRII***  <br><br>**Home Site:** Dol Amroth, Minas Tirith  
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【4/8】</div>
+> > <div class="card-shield">【 4/8 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

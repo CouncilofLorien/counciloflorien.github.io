@@ -28,7 +28,7 @@ permalink: /cards/shadowfax/
 > > _**Unique.**_ _**Playable at Edoras or Dunharrow.**_ If his company only has one character **or** one character and a Hobbit at the end of the movement/hazard phase, tap _Shadowfax_ to allow his company to immediately move again; an additional site card may be played and a additional movement/hazard phase follows for that company. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【2/8】</div>
+> > <div class="card-shield">【 2/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -48,5 +48,5 @@ permalink: /cards/shadowfax/
 > > _**Unique.**_ _**Playable at Edoras or Dunharrow.**_ If his company only has one character **or** one character and a Hobbit at the end of the movement/hazard phase (it cannot contain any allies), tap _Shadowfax_ to allow his company to immediately move again; an additional site card may be played and an additional movement/hazard phase follows for that company. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【2/8】</div>
+> > <div class="card-shield">【 2/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>

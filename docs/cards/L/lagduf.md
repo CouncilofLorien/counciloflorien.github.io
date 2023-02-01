@@ -28,7 +28,7 @@ permalink: /cards/lagduf/
 > > _**Unique.**_ _Uruk-hai._ Discard on a body check result of 8. <br>_“‘...Gorbag's swine got to the gate first, and none of ours got out. Lagduf...’”_ ***---&#65279;LotRVI***  <br><br>**Home Site:** Any site in Imlad Morgol 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【5/8】</div>
+> > <div class="card-shield">【 5/8 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -48,5 +48,5 @@ permalink: /cards/lagduf/
 > > _**Unique.**_ _Uruk-hai._ Discard on a body check result of 8. <br>_“‘...Gorbag's swine got to the gate first, and none of ours got out. Lagduf...’”_ ***---&#65279;LotRVI***  <br><br>**Home Site:** Any site in Imlad Morgol 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【5/8】</div>
+> > <div class="card-shield">【 5/8 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

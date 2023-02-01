@@ -28,7 +28,7 @@ permalink: /cards/eowyn/
 > > _**Unique.**_ Against Nazgul, +6 to her prowess, and his body is halved (round up). <br>_“‘But no living man am I! You look upon a woman. Eowyn I am, Eomund's daughter. ... Begone, if you be not deathless! For living or dark undead, I will smite you, if you touch him.’”_ ***---&#65279;LotRV***  <br><br>**Home Site:** Edoras 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【2/7】</div>
+> > <div class="card-shield">【 2/7 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -48,5 +48,5 @@ permalink: /cards/eowyn/
 > > _**Unique.**_ Against Nazgul, +6 to her prowess, and his body is halved (round up). <br>_“‘But no living man am I! You look upon a woman. Eowyn I am, Eomund's daughter. ... Begone, if you be not deathless! For living or dark undead, I will smite you, if you touch him.’”_ ***---&#65279;LotRV***  <br><br>**Home Site:** Edoras 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【2/7】</div>
+> > <div class="card-shield">【 2/7 】</div>
 > > <div class="card-corruption">&nbsp;</div>

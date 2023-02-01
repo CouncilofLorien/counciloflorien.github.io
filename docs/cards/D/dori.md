@@ -28,8 +28,8 @@ permalink: /cards/dori/
 > > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions. <br>_“‘I can't always be carrying burglars on my back,' said Dori, 'down tunnels and up trees! What do you think I am? A porter?’”_ ***---&#65279;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【3/6】</div>
-> > <div class="card-corruption">〔-1〕</div>
+> > <div class="card-shield">【 3/6 】</div>
+> > <div class="card-corruption">〔 -1 〕</div>
 
 ### _Middle-earth: The Wizards Unlimited_
 
@@ -48,8 +48,8 @@ permalink: /cards/dori/
 > > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions. <br>_“‘I can't always be carrying burglars on my back,' said Dori, 'down tunnels and up trees! What do you think I am? A porter?’”_ ***---&#65279;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【3/6】</div>
-> > <div class="card-corruption">〔-1〕</div>
+> > <div class="card-shield">【 3/6 】</div>
+> > <div class="card-corruption">〔 -1 〕</div>
 
 ### _Middle-earth Challenge Decks_
 
@@ -68,5 +68,5 @@ permalink: /cards/dori/
 > > _**Unique.**_ +1 prowess against Orcs. -1 to all of his corruption checks. -1 to influence checks against factions. <br>_“‘I can't always be carrying burglars on my back,' said Dori, 'down tunnels and up trees! What do you think I am? A porter?’”_ ***---&#65279;Hob***  <br><br>**Home Site:** Blue Mountain Dwarf-hold 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【3/6】</div>
-> > <div class="card-corruption">〔-1〕</div>
+> > <div class="card-shield">【 3/6 】</div>
+> > <div class="card-corruption">〔 -1 〕</div>

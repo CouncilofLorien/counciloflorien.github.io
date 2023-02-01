@@ -28,7 +28,7 @@ permalink: /cards/ent-in-search-of-the-entwives/
 > > _Awakened Plant._ One strike (detainment against covert and hero companies). If Doors of Night is not in play, may also be played keyed to Shadow-lands \[![](/assets/images/shadow-land.svg)].   <br>_“‘...we used to go out every now and again and look for the Entwives, walking far and wide and calling...’”_ ***---&#65279;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【14/8】</div>
+> > <div class="card-shield">【 14/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -48,5 +48,5 @@ permalink: /cards/ent-in-search-of-the-entwives/
 > > _Awakened Plant._ One strike (detainment against covert and hero companies). If Doors of Night is not in play, may also be played keyed to Shadow-lands \[![](/assets/images/shadow-land.svg)].   <br>_“‘...we used to go out every now and again and look for the Entwives, walking far and wide and calling...’”_ ***---&#65279;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【14/8】</div>
+> > <div class="card-shield">【 14/8 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

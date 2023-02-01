@@ -28,7 +28,7 @@ permalink: /cards/true-fire-drake/
 > > _Drake._ Two strikes. Three Wildernesses \[![](/assets/images/wilderness.svg)] in site path are required (only two Wildernesses \[![](/assets/images/wilderness.svg)] are required if Doors of Night is in play). <br>_"Fire leaped from the dragon's jaws."_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【13/&ndash;】</div>
+> > <div class="card-shield">【 13/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Lidless Eye_
@@ -48,7 +48,7 @@ permalink: /cards/true-fire-drake/
 > > _Drake._ Two strikes. Only two Wildernesses \[![](/assets/images/wilderness.svg)] in site path are required if Doors of Night is in play. <br>_"Fire leaped from the thatched roofs and wooden beam-ends as he hurtled down and past and round again...”_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【13/&ndash;】</div>
+> > <div class="card-shield">【 13/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -68,7 +68,7 @@ permalink: /cards/true-fire-drake/
 > > _Drake._ Two strikes. Three Wildernesses \[![](/assets/images/wilderness.svg)] in site path are required (only two Wildernesses \[![](/assets/images/wilderness.svg)] are required if Doors of Night is in play). <br>_"Fire leaped from the dragon's jaws."_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【13/&ndash;】</div>
+> > <div class="card-shield">【 13/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth: The Balrog Reprint_
@@ -88,5 +88,5 @@ permalink: /cards/true-fire-drake/
 > > _Drake._ Two strikes. Only two Wildernesses \[![](/assets/images/wilderness.svg)] in site path are required if Doors of Night is in play. <br>_"Fire leaped from the thatched roofs and wooden beam-ends as he hurtled down and past and round again...”_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【13/&ndash;】</div>
+> > <div class="card-shield">【 13/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

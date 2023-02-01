@@ -28,5 +28,5 @@ permalink: /cards/alatar-the-hunter/
 > > _**Unique.**_ Maia. Manifestation of Alatar. Two strikes. Attacker chooses defending characters. Detainment and -3 prowess against hero companies. Discard this card if Alatar comes into play. As a creature, may also be played keyed to Andrast, Old Pukel Gap, Anfalas, Lamedon, Lebennin, Belfalas, or Anorien; or at sites in these regions. As a permanent-event, all Maia attacks receive +1 prowess and +1 strike and attacker chooses defending characters. Discard when any play deck is exhausted. 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【13/9】</div>
+> > <div class="card-shield">【 13/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>

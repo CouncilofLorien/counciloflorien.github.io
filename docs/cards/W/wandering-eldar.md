@@ -28,5 +28,5 @@ permalink: /cards/wandering-eldar/
 > > _Elves._ Each character in the company faces one strike (detainment against covert and hero companies). If Doors of Night is not in play, may also be played keyed to Free-domains \[![](/assets/images/free-domain.svg)].   <br>_“‘They don't live in the Shire, but they wander into it in Spring and Autumn, out of their own lands...’”_ ***---&#65279;LotRI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【9/&ndash;】</div>
+> > <div class="card-shield">【 9/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>

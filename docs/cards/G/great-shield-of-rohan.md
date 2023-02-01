@@ -25,8 +25,8 @@ permalink: /cards/great-shield-of-rohan/
 > > _Unique._ _Shield._ +2 to body to a maximum of 9. Warriror only: tap _Great-shield of Rohan_ to remain untapped against one strike (unless the bearer is wounded by the strike). <br>_"His golden shield was uncovered, and lo! it shone like an image of the Sun, and the grass flamed into green about the white feet of his steed."_ ***---&#65279;LotRV*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【&ndash;/+2】</div>
-> > <div class="card-corruption">〔2〕</div>
+> > <div class="card-shield">【 &ndash;/+2 】</div>
+> > <div class="card-corruption">〔 2 〕</div>
 
 ### _Middle-earth: The Wizards Unlimited_
 
@@ -42,8 +42,8 @@ permalink: /cards/great-shield-of-rohan/
 > > _Unique._ _Shield._ +2 to body to a maximum of 9. Warriror only: tap _Great-shield of Rohan_ to remain untapped against one strike (unless the bearer is wounded by the strike). <br>_"His golden shield was uncovered, and lo! it shone like an image of the Sun, and the grass flamed into green about the white feet of his steed."_ ***---&#65279;LotRV*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【&ndash;/+2】</div>
-> > <div class="card-corruption">〔2〕</div>
+> > <div class="card-shield">【 &ndash;/+2 】</div>
+> > <div class="card-corruption">〔 2 〕</div>
 
 ### _Middle-earth: The Wizards Starter Set_
 
@@ -59,8 +59,8 @@ permalink: /cards/great-shield-of-rohan/
 > > _Unique._ _Shield._ +2 to body to a maximum of 9. Warriror only: tap _Great-shield of Rohan_ to remain untapped against one strike (unless the bearer is wounded by the strike). <br>_"His golden shield was uncovered, and lo! it shone like an image of the Sun, and the grass flamed into green about the white feet of his steed."_ ***---&#65279;LotRV*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【&ndash;/+2】</div>
-> > <div class="card-corruption">〔2〕</div>
+> > <div class="card-shield">【 &ndash;/+2 】</div>
+> > <div class="card-corruption">〔 2 〕</div>
 
 ### _Middle-earth Challenge Decks_
 
@@ -76,5 +76,5 @@ permalink: /cards/great-shield-of-rohan/
 > > _Unique._ _Shield._ +2 to body to a maximum of 9. Warriror only: tap _Great-shield of Rohan_ to remain untapped against one strike (unless the bearer is wounded by the strike). <br>_"His golden shield was uncovered, and lo! it shone like an image of the Sun, and the grass flamed into green about the white feet of his steed."_ ***---&#65279;LotRV*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【&ndash;/+2】</div>
-> > <div class="card-corruption">〔2〕</div>
+> > <div class="card-shield">【 &ndash;/+2 】</div>
+> > <div class="card-corruption">〔 2 〕</div>

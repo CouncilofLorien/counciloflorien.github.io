@@ -28,8 +28,8 @@ permalink: /cards/forlong/
 > > _**Unique.**_ -1 to all of his corruption checks. -1 to influence checks against factions. <br>_"Leading the line there came walking a big thick-limbed horse, and on it sat a man of wide shoulders and huge girth, but old and grey-bearded, yet mail-clad and black-helmed and bearing a long heavy spear."_ ***---&#65279;LotRV***  <br><br>**Home Site:** Minas Tirith 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【3/7】</div>
-> > <div class="card-corruption">〔-1〕</div>
+> > <div class="card-shield">【 3/7 】</div>
+> > <div class="card-corruption">〔 -1 〕</div>
 
 ### _Middle-earth: The Wizards Unlimited_
 
@@ -48,8 +48,8 @@ permalink: /cards/forlong/
 > > _**Unique.**_ -1 to all of his corruption checks. -1 to influence checks against factions. <br>_"Leading the line there came walking a big thick-limbed horse, and on it sat a man of wide shoulders and huge girth, but old and grey-bearded, yet mail-clad and black-helmed and bearing a long heavy spear."_ ***---&#65279;LotRV***  <br><br>**Home Site:** Minas Tirith 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【3/7】</div>
-> > <div class="card-corruption">〔-1〕</div>
+> > <div class="card-shield">【 3/7 】</div>
+> > <div class="card-corruption">〔 -1 〕</div>
 
 ### _Middle-earth Challenge Decks_
 
@@ -68,5 +68,5 @@ permalink: /cards/forlong/
 > > _**Unique.**_ -1 to all of his corruption checks. -1 to influence checks against factions. <br>_"Leading the line there came walking a big thick-limbed horse, and on it sat a man of wide shoulders and huge girth, but old and grey-bearded, yet mail-clad and black-helmed and bearing a long heavy spear."_ ***---&#65279;LotRV***  <br><br>**Home Site:** Minas Tirith 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【3/7】</div>
-> > <div class="card-corruption">〔-1〕</div>
+> > <div class="card-shield">【 3/7 】</div>
+> > <div class="card-corruption">〔 -1 〕</div>

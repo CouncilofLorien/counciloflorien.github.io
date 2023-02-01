@@ -28,5 +28,5 @@ permalink: /cards/orc-sniffler/
 > > Discard on a body check result of 7 or 8. -1 to all corruption checks. <br>_"He stooped over Pippin, bringing his yellow fangs close to his face."_ ***---&#65279;LotRIII***  <br><br>**Home Site:** Any Dark-hold 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【2/8】</div>
-> > <div class="card-corruption-white">〔-1〕</div>
+> > <div class="card-shield">【 2/8 】</div>
+> > <div class="card-corruption-white">〔 -1 〕</div>

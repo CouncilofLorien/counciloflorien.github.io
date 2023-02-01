@@ -28,7 +28,7 @@ permalink: /cards/land-drake/
 > > _Drake._ One strike. Attacker chooses defending characters. <br>_"These smallest worms of the kemenloki startle upon little provocation, and they leap and climb like huge felines."_ ***---&#65279;Kuduk Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【8/&ndash;】</div>
+> > <div class="card-shield">【 8/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Lidless Eye_
@@ -48,5 +48,5 @@ permalink: /cards/land-drake/
 > > _Drake._ One strike. Attacker chooses defending characters.   <br>_“‘He came with great thunder, and lightning, and a tempest of doom.’”_ ***---&#65279;Kuduk Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【12/6】</div>
+> > <div class="card-shield">【 12/6 】</div>
 > > <div class="card-corruption">&nbsp;</div>

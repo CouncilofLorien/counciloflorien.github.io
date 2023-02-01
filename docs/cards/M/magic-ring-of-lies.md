@@ -25,5 +25,5 @@ permalink: /cards/magic-ring-of-lies/
 > > _Magic Ring._ ***Playable only with a Gold Ring and after a test indicates a Magic Ring.*** Gives the bearer diplomat skill. If the bearer is already a diplomat, he gets +3 direct influence. Cannot be duplicated on a given character. <br>_“‘The lesser rings were only essays in the craft before it was full grown...’”_ ***---&#65279;LotRI*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【[+3[di]]】</div>
-> > <div class="card-corruption-white">〔2〕</div>
+> > <div class="card-shield">【 [+3[di]] 】</div>
+> > <div class="card-corruption-white">〔 2 〕</div>

@@ -28,5 +28,5 @@ permalink: /cards/the-border-watch/
 > > _Men._ Five strikes (two strikes and detainment against hero companies).   <br>_“‘It is against our law to let strangers wander at will in our land, until the king himself shall give them leave, and more strict is the command in these days of peril.’”_ ***---&#65279;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【7/&ndash;】</div>
+> > <div class="card-shield">【 7/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>

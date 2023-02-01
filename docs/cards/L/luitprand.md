@@ -28,7 +28,7 @@ permalink: /cards/luitprand/
 > > _**Unique.**_   "The men of the lake-town Esgaroth were mostly indoors, for the breeze was from the black East and chill, but a few were walking on the quays, and watching, as they were fond of doing, the stars...”_ ***---&#65279;Hob***  <br><br>**Home Site:** Lake-town 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【3/7】</div>
+> > <div class="card-shield">【 3/7 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -48,5 +48,5 @@ permalink: /cards/luitprand/
 > > _**Unique.**_   "The men of the lake-town Esgaroth were mostly indoors, for the breeze was from the black East and chill, but a few were walking on the quays, and watching, as they were fond of doing, the stars...”_ ***---&#65279;Hob***  <br><br>**Home Site:** Lake-town 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【3/7】</div>
+> > <div class="card-shield">【 3/7 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

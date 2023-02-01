@@ -28,7 +28,7 @@ permalink: /cards/marsh-drake/
 > > _Drake._ Two strikes. <br>_"The hiswaloki rarely ignite their breath, preferring to allow the corrosive gases to burn prey via chemical rather than combustive means."_ ***---&#65279;Kuduk Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【11/&ndash;】</div>
+> > <div class="card-shield">【 11/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Lidless Eye_
@@ -48,7 +48,7 @@ permalink: /cards/marsh-drake/
 > > _Drake._ Two strikes.   <br>_“‘...that is the dragon's way, he has piled it all up in a great heap far inside, and sleeps on it for a bed."_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【11/&ndash;】</div>
+> > <div class="card-shield">【 11/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -68,7 +68,7 @@ permalink: /cards/marsh-drake/
 > > _Drake._ Two strikes. <br>_"The hiswaloki rarely ignite their breath, preferring to allow the corrosive gases to burn prey via chemical rather than combustive means."_ ***---&#65279;Kuduk Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【11/&ndash;】</div>
+> > <div class="card-shield">【 11/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth: The Balrog Reprint_
@@ -88,5 +88,5 @@ permalink: /cards/marsh-drake/
 > > _Drake._ Two strikes.   <br>_“‘...that is the dragon's way, he has piled it all up in a great heap far inside, and sleeps on it for a bed."_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【11/&ndash;】</div>
+> > <div class="card-shield">【 11/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

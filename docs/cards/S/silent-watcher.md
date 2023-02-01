@@ -28,7 +28,7 @@ permalink: /cards/silent-watcher/
 > > Each character in the company faces one strike. <br>_"They seemed to be carved out of huge blocks of stone, immovable, and yet they were aware: some dreadful spirit of evil vigilance abode in them."_ ***---&#65279;LotRVI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【8/&ndash;】</div>
+> > <div class="card-shield">【 8/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -48,5 +48,5 @@ permalink: /cards/silent-watcher/
 > > _Pukel-creature._ Each character in the company faces one strike. <br>_"They seemed to be carved out of huge blocks of stone, immovable, and yet they were aware: some dreadful spirit of evil vigilance abode in them."_ ***---&#65279;LotRVI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【8/&ndash;】</div>
+> > <div class="card-shield">【 8/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

@@ -19,7 +19,7 @@ permalink: /cards/calendal/
 > > <div class="card-name">Calendal</div>
 >
 > {: .minion-character-frame .black-text .p-1 .pl-2 }
-> > 6 ![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
+> > 6 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Scout/Sage Elf
@@ -28,5 +28,5 @@ permalink: /cards/calendal/
 > > _**Unique.**_ May tap to use a Palantir he bears. +2 direct influence against Elves and Elf factions. <br>_“...lingered in the twilight of our Sun and Moon but loved best the stars."_ ***---&#65279;Hob***  <br><br>**Home Site:** Dol Guldur 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
-> > <div class="card-shield">【4/8】</div>
+> > <div class="card-shield">【 4/8 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

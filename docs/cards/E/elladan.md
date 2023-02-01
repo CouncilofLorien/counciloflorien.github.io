@@ -28,7 +28,7 @@ permalink: /cards/elladan/
 > > _**Unique.**_ +1 prowess against Orcs. <br>_"So much alike were they, the sons of Elrond...dark-haired, grey-eyed, and their faces elven-fair, clad alike in bright mail beneath cloaks of silver-grey."_ ***---&#65279;LotRV***  <br><br>**Home Site:** Rivendell 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【5/8】</div>
+> > <div class="card-shield">【 5/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -48,7 +48,7 @@ permalink: /cards/elladan/
 > > _**Unique.**_ +1 prowess against Orcs. <br>_"So much alike were they, the sons of Elrond...dark-haired, grey-eyed, and their faces elven-fair, clad alike in bright mail beneath cloaks of silver-grey."_ ***---&#65279;LotRV***  <br><br>**Home Site:** Rivendell 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【5/8】</div>
+> > <div class="card-shield">【 5/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Starter Set_
@@ -68,7 +68,7 @@ permalink: /cards/elladan/
 > > _**Unique.**_ +1 prowess against Orcs. <br>_"So much alike were they, the sons of Elrond...dark-haired, grey-eyed, and their faces elven-fair, clad alike in bright mail beneath cloaks of silver-grey."_ ***---&#65279;LotRV***  <br><br>**Home Site:** Rivendell 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【5/8】</div>
+> > <div class="card-shield">【 5/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -88,5 +88,5 @@ permalink: /cards/elladan/
 > > _**Unique.**_ +1 prowess against Orcs. <br>_"So much alike were they, the sons of Elrond...dark-haired, grey-eyed, and their faces elven-fair, clad alike in bright mail beneath cloaks of silver-grey."_ ***---&#65279;LotRV***  <br><br>**Home Site:** Rivendell 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【5/8】</div>
+> > <div class="card-shield">【 5/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>

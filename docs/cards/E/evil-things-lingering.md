@@ -28,5 +28,5 @@ permalink: /cards/evil-things-lingering/
 > > _**Unique.**_ Balrog-specific. _Spawn._. Playable at The Under-galleris, The Under-courts, or Remains of Thangorodrim. Discard this ally if its company moves using region or starter movement. If this ally's controlling character is not The Balrog, your opponent makes a roll during your organization phase and subtracts four. The controlling character is eliminated if the result is greater than his mind. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【9/9】</div>
+> > <div class="card-shield">【 9/9 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

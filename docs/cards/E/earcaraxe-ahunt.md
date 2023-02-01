@@ -25,7 +25,7 @@ permalink: /cards/earcaraxe-ahunt/
 > > _**Unique.**_ Any company moving in Andrast Coast, Bay of Belfalas, Eriadoran Coast, and/or Andrast immediately faces one Dragon attack (considered a hazard creature)-3 strikes at 15/6 (attacker chooses defending characters). If Doors of Night is in play, this attack also affects: Old Pukel-land, Enedhwaith, Anfalas, and any Coastal Sea \[![](/assets/images/coastalsea.svg)] region (or region type). 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【15/6】</div>
+> > <div class="card-shield">【 15/6 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -42,7 +42,7 @@ permalink: /cards/earcaraxe-ahunt/
 > > _**Unique.**_ Any company moving in Andrast Coast, Bay of Belfalas, Eriadoran Coast, and/or Andrast immediately faces one Dragon attack (considered a hazard creature)-3 strikes at 15/6 (attacker chooses defending characters). If Doors of Night is in play, this attack also affects: Old Pukel-land, Enedhwaith, Anfalas, and any Coastal Sea \[![](/assets/images/coastalsea.svg)] region (or region type). 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【15/6】</div>
+> > <div class="card-shield">【 15/6 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
 ### _Middle-earth: The Balrog Reprint_
@@ -59,5 +59,5 @@ permalink: /cards/earcaraxe-ahunt/
 > > _**Unique.**_ Any company moving in Andrast Coast, Bay of Belfalas, Eriadoran Coast, and/or Andrast immediately faces one Dragon attack (considered a hazard creature)-3 strikes at 15/6 (attacker chooses defending characters). If Doors of Night is in play, this attack also affects: Old Pukel-land, Enedhwaith, Anfalas, and any Coastal Sea \[![](/assets/images/coastalsea.svg)] region (or region type). 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【15/6】</div>
+> > <div class="card-shield">【 15/6 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

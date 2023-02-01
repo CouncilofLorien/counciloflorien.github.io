@@ -28,8 +28,8 @@ permalink: /cards/sam-gamgee/
 > > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +3. <br>_“‘I'll get there if I leave everything but my bones behind...And I'll carry Mr. Frodo up myself...’”_ ***---&#65279;LotRVI***  <br><br>**Home Site:** Bag End 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【1/9】</div>
-> > <div class="card-corruption">〔+3〕</div>
+> > <div class="card-shield">【 1/9 】</div>
+> > <div class="card-corruption">〔 +3 〕</div>
 
 ### _Middle-earth: The Wizards Unlimited_
 
@@ -48,8 +48,8 @@ permalink: /cards/sam-gamgee/
 > > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +3. <br>_“‘I'll get there if I leave everything but my bones behind...And I'll carry Mr. Frodo up myself...’”_ ***---&#65279;LotRVI***  <br><br>**Home Site:** Bag End 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【1/9】</div>
-> > <div class="card-corruption">〔+3〕</div>
+> > <div class="card-shield">【 1/9 】</div>
+> > <div class="card-corruption">〔 +3 〕</div>
 
 ### _Middle-earth Challenge Decks_
 
@@ -68,5 +68,5 @@ permalink: /cards/sam-gamgee/
 > > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +3. <br>_“‘I'll get there if I leave everything but my bones behind...And I'll carry Mr. Frodo up myself...’”_ ***---&#65279;LotRVI***  <br><br>**Home Site:** Bag End 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【1/9】</div>
-> > <div class="card-corruption">〔+3〕</div>
+> > <div class="card-shield">【 1/9 】</div>
+> > <div class="card-corruption">〔 +3 〕</div>

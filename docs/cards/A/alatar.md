@@ -28,7 +28,7 @@ permalink: /cards/alatar/
 > > _**Unique.**_ During the movement/hazard phase, the number of cards that opponent draws based on Alatar's company's movement is reduced by one. <br>&ensp;If in a haven when a hazard creature is played on another company, he may join that company and face one of the hazard creature's strikes; he must tap and make a corruption check immediately following the attack.   <br><br>**Home Site:** Edhellond 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【6/9】</div>
+> > <div class="card-shield">【 6/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -48,7 +48,7 @@ permalink: /cards/alatar/
 > > _**Unique.**_ During the movement/hazard phase, the number of cards that opponent draws based on Alatar's company's movement is reduced by one. <br>&ensp;If in a haven when a hazard creature is played on another company, he may join that company and face one of the hazard creature's strikes; he must tap and make a corruption check immediately following the attack.   <br><br>**Home Site:** Edhellond 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【6/9】</div>
+> > <div class="card-shield">【 6/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The White Hand_
@@ -68,7 +68,7 @@ permalink: /cards/alatar/
 > > _**Unique.**_ Hazards your companies defeat (even with *) are worth full kill marshalling points. I you have more than 7 stage points, all detainment attacks against your companies attack normally instead. If at one of his Wizardhavens \[![](/assets/images/free-haven.svg)] when a hazard creature attacks one of your companies, he may immediately join that company. Alatar must face a strike from the creature (in all cases). Following all of the creature's attacks, Alatar must tap (if untapped) and make a corruption check.   <br><br>**Home Site:** Any non-"Dragon's lair" Ruins & Lairs 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【7/9】</div>
+> > <div class="card-shield">【 7/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -88,5 +88,5 @@ permalink: /cards/alatar/
 > > _**Unique.**_ During the movement/hazard phase, the number of cards that opponent draws based on Alatar's company's movement is reduced by one. <br>&ensp;If in a haven when a hazard creature is played on another company, he may join that company and face one of the hazard creature's strikes; he must make a corruption check immediately following the attack, and, if untapped, he must tap.   <br><br>**Home Site:** Edhellond 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【6/9】</div>
+> > <div class="card-shield">【 6/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>

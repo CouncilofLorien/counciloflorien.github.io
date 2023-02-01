@@ -28,5 +28,5 @@ permalink: /cards/the-warding-ring/
 > > _Spirit Ring._ _Armor._ Playable only with a Gold Ring and after a test indicates a _Spirit Ring._ -2 to bearer's mind (minimum of 1). +2 to bearer's body (to a maximum of 10). Cannot be duplicated on a given character. <br>_“‘Here is the ring...for I fortell that the span of your life shall be greater than the measure of Men...’”_ ***---&#65279;LotR*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【&ndash;/+2】</div>
-> > <div class="card-corruption-white">〔2〕</div>
+> > <div class="card-shield">【 &ndash;/+2 】</div>
+> > <div class="card-corruption-white">〔 2 〕</div>

@@ -19,7 +19,7 @@ permalink: /cards/vygavril/
 > > <div class="character-card-name">Vygavril</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 3 ![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
+> > 3 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Scout/Diplomat Man
@@ -28,7 +28,7 @@ permalink: /cards/vygavril/
 > > _**Unique.**_ +2 direct influence against the Southron faction. Against Nazgul, +6 to her prowess, and his body is halved (round up).   <br><br>**Home Site:** Southron Oasis 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【2/7】</div>
+> > <div class="card-shield">【 2/7 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -39,7 +39,7 @@ permalink: /cards/vygavril/
 > > <div class="character-card-name">Vygavril</div>
 >
 > {: .character-frame .black-text .p-1 .pl-2 }
-> > 3 ![](/assets/images/mind.svg) 1![](/assets/images/di.svg)
+> > 3 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Scout/Diplomat Man
@@ -48,5 +48,5 @@ permalink: /cards/vygavril/
 > > _**Unique.**_ +2 direct influence against the Southron faction. Against Nazgul, +6 to her prowess, and his body is halved (round up).   <br><br>**Home Site:** Southron Oasis 
 >
 > {: .character-shield .p-1 .pr-2 }
-> > <div class="card-shield">【2/7】</div>
+> > <div class="card-shield">【 2/7 】</div>
 > > <div class="card-corruption">&nbsp;</div>

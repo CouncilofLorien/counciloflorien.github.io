@@ -25,8 +25,8 @@ permalink: /cards/dagger-of-westernesse/
 > > _Weapon._ +1 prowess to a maximum of 8. <br>_"For each of the hobbits he chose a dagger, long, leaf-shaped, and keen, of marvelous workmanship, damasked with serpent-forms in red and gold. They gleamed as he drew them from their black sheaths, wrought of some strange metal, light and strong, and set with many fiery stones."_ ***---&#65279;LotRI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【+1/&ndash;】</div>
-> > <div class="card-corruption">〔1〕</div>
+> > <div class="card-shield">【 +1/&ndash; 】</div>
+> > <div class="card-corruption">〔 1 〕</div>
 
 ### _Middle-earth: The Wizards Unlimited_
 
@@ -42,8 +42,8 @@ permalink: /cards/dagger-of-westernesse/
 > > _Weapon._ +1 prowess to a maximum of 8. <br>_"For each of the hobbits he chose a dagger, long, leaf-shaped, and keen, of marvelous workmanship, damasked with serpent-forms in red and gold. They gleamed as he drew them from their black sheaths, wrought of some strange metal, light and strong, and set with many fiery stones."_ ***---&#65279;LotRI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【+1/&ndash;】</div>
-> > <div class="card-corruption">〔1〕</div>
+> > <div class="card-shield">【 +1/&ndash; 】</div>
+> > <div class="card-corruption">〔 1 〕</div>
 
 ### _Middle-earth: The Wizards Starter Set_
 
@@ -59,5 +59,5 @@ permalink: /cards/dagger-of-westernesse/
 > > _Weapon._ +1 prowess to a maximum of 8. <br>_"For each of the hobbits he chose a dagger, long, leaf-shaped, and keen, of marvelous workmanship, damasked with serpent-forms in red and gold. They gleamed as he drew them from their black sheaths, wrought of some strange metal, light and strong, and set with many fiery stones."_ ***---&#65279;LotRI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【+1/&ndash;】</div>
-> > <div class="card-corruption">〔1〕</div>
+> > <div class="card-shield">【 +1/&ndash; 】</div>
+> > <div class="card-corruption">〔 1 〕</div>
