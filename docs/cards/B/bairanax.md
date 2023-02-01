@@ -22,7 +22,7 @@ permalink: /cards/bairanax/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ May be played at Ovir Hollow. _Dragon._ Two strikes. Attacker chooses defending characters. If Doors of Night is in play, may also be keyed to  Withered Heath, Gundabad, Anduin Vales, and Grey Mountain Narrows; may also be played at sites in those regions. 
+> > _**Unique.**_ ***May be played at Ovir Hollow.*** _Dragon._ Two strikes. Attacker chooses defending characters. <br>&ensp;If _Doors of Night_ is in play, may also be played keyed to Withered Heath, Gundabad, Anduin Vales, and Grey Mountain Narrows; may also be played at sites in those regions. 
 > > 
 > > {: .fs-3 } 
 > > _“Thousands of bear bones adorn the cold-drake's chambers...”_ ***---&#65279;Kuduk Lore*** 

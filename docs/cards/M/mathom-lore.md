@@ -22,7 +22,7 @@ permalink: /cards/mathom-lore/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable on a Hobbit at Bag End; tap the Hobbit. During the organization phase, bearer may tap to choose a minor item from your play deck or discard pile to place in your hand. Reshuffle your play deck if it was used. Bearer makes a corruption check.   
+> > ***Playable on a Hobbit at Bag End; tap the Hobbit.*** During the organization phase, bearer may tap to choose a minor item from your play deck or discard pile to place in your hand. Reshuffle your play deck if it was used. Bearer makes a corruption check.   
 > > 
 > > {: .fs-3 } 
 > > _“...anything that Hobbits had no immediate use for, but were unwilling to throw away, they called a mathom."_ ***---&#65279;LotRI*** 

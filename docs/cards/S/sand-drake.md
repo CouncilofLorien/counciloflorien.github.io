@@ -22,7 +22,7 @@ permalink: /cards/sand-drake/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Drake._ Three strikes. Attacker chooses defending characters. May be played keyed to Khand and Harondor. If Doors of Night is in play, may also be played keyed to Ithilien, Nurn, and Horse Plains. 
+> > _Drake._ Three strikes. Attacker chooses defending characters. May be played keyed to Khand and Harondor. <br>&ensp;If _Doors of Night_ is in play, may also be played keyed to Ithilien, Nurn, and Horse Plains. 
 > > 
 > > {: .fs-3 } 
 > > _“The chameleon of Harad roosts in the sandy wilds of the Dune Sea, although it hunts along trade routes and near oases."_ ***---&#65279;Kuduk Lore*** 

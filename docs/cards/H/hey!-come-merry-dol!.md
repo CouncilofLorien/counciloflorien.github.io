@@ -22,7 +22,7 @@ permalink: /cards/hey!-come-merry-dol!/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable at the end of the organization phase on a moving company. Each Wilderness \[![](/assets/images/wilderness.svg)] symbol in the company's site path counts as half a Wilderness \[![](/assets/images/wilderness.svg)]. When calculating the number of Wildernesses \[![](/assets/images/wilderness.svg)] in such a site path, round down for the final result. 
+> > ***Playable at the end of the organization phase on a moving company.*** Each Wilderness \[![](/assets/images/wilderness.svg)] symbol in the company's site path counts as half a Wilderness \[![](/assets/images/wilderness.svg)]. When calculating the number of Wildernesses \[![](/assets/images/wilderness.svg)] in such a site path, round down for the final result. 
 > > 
 > > {: .fs-3 } 
 > > _“With another hop and a bound there came into view a man, or so it seemed."_ ***---&#65279;LotRI***  

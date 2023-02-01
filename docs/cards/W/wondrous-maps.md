@@ -22,5 +22,5 @@ permalink: /cards/wondrous-maps/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable at the end of the organization phase on a company using region cards with the last one being a Shadow-land \[![](/assets/images/shadow-land.svg)]. (Play regions face up). This card is used as a site card, Ruins & Lairs \[![](/assets/images/ruinlair.svg)] (automatic-attack: Orcs-4 strikes at 7 prowess, items: (minor, major), cards opponent draws: 3, you draw: 1). The company may only leave the site using region movement. Discard Wondrous Maps when the company moves to a new site. 
+> > ***Playable at the end of the organization phase on a company using region cards with the last one being a Shadow-land*** \[![](/assets/images/shadow-land.svg)]. _(Play regions face up)._ This card is used as a site card, Ruins & Lairs \[![](/assets/images/ruinlair.svg)] (automatic-attack: Orcs---4 strikes at 7 prowess, items: (minor, major), cards opponent draws: 3, you draw: 1). The company may only leave the site using region movement. Discard _Wondrous Maps_ when the company moves to a new site. 
 > 

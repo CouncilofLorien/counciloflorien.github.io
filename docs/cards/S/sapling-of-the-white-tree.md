@@ -54,7 +54,7 @@ permalink: /cards/sapling-of-the-white-tree/
 ### _Middle-earth Challenge Decks_
 
 {: .hero-resource-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
+> {: .hero-resource-name .p-1 .pl-2 }
 > > <div class="card-mp">1(2)</div>
 > > <div class="card-name">Sapling of the White Tree</div>
 >

@@ -22,5 +22,5 @@ permalink: /cards/alert-the-folk/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable on a company facing a Dragon or Drake attack (not Earcaraxe). Discard from your hand and one or two factions playable at sites in Northern Rhovanion, Iron Hills, Woodland Realm, or Anduin Vales. All characters facing the attack gain a bonus to their prowess equal to the total marshalling point values (as printed on their cards) of the factions discarded. 
+> > ***Playable on a company facing a Dragon or Drake attack (not Earcaraxe).*** Discard from your hand and one or two factions playable at sites in Northern Rhovanion, Iron Hills, Woodland Realm, or Anduin Vales. All characters facing the attack gain a bonus to their prowess equal to the total marshalling point values (as printed on their cards) of the factions discarded. 
 > 

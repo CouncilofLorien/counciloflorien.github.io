@@ -22,5 +22,5 @@ permalink: /cards/skin-changer/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Only playable on Beorn. Until the end of the turn, his prowess and body are each modified by +2. If Beorn is chosen to be the target of a strike from an attack, he may choose to face a second strike from that attack (he faces a separate strike sequence for each strike). Beorn makes a corruption check modified by -2 after any attack made against his company. If still in play at the end of the turn, place Beorn in your hand. Any items he bears may be transferred to unwounded characters in his company (no corruption checks required). 
+> > ***Only playable on Beorn.*** Until the end of the turn, his prowess and body are each modified by +2. If Beorn is chosen to be the target of a strike from an attack, he may choose to face a second strike from that attack (he faces a separate strike sequence for each strike). Beorn makes a corruption check modified by -2 after any attack made against his company. If still in play at the end of the turn, place Beorn in your hand. Any items he bears may be transferred to unwounded characters in his company (no corruption checks required). 
 > 

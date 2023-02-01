@@ -22,5 +22,5 @@ permalink: /cards/harad/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable during organization phase on a company moving without region cards. Company may move from a site of origin in one of the following regions to a new site in one of the following regions: Horse Plains, Khand, Nurn, and Haronder. The site path is \[![](/assets/images/wilderness.svg)] \[![](/assets/images/wilderness.svg)] \[![](/assets/images/wilderness.svg)] and the Hazard limit is decreased by two to a minimum of two.  
+> > ***Playable during organization phase on a company moving without region cards.*** Company may move from a site of origin in one of the following regions to a new site in one of the following regions: Horse Plains, Khand, Nurn, and Haronder. <br>&enspThe site path is \[![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg)] and the Hazard limit is decreased by two to a minimum of two.  
 > 

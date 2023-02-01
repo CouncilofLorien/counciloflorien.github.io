@@ -25,7 +25,7 @@ permalink: /cards/thunders-companion/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Giants._ Three strikes. Two Wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. 
+> > _Giants._ Three strikes. <br>&ensp;Two Wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. 
 > > 
 > > {: .fs-3 } 
 > > _“They could hear the giants guffawing and shouting all over the mountainsides."_ ***---&#65279;Hob*** 

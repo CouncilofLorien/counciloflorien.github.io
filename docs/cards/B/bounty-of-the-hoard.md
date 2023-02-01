@@ -22,7 +22,7 @@ permalink: /cards/bounty-of-the-hoard/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable during the site phase. One minor or major item may be played at a tapped site that contains a hoard. 
+> > ***Playable during the site phase.*** One minor or major item may be played at a tapped site that contains a hoard. 
 > > 
 > > {: .fs-3 } 
 > > _“‘Mr. Baggins!' he cried. 'Here is the first payment of your reward! Cast off your old coat and put on this!’”_ ***---&#65279;Hob*** 
@@ -31,7 +31,7 @@ permalink: /cards/bounty-of-the-hoard/
 ### _Middle-earth Challenge Decks_
 
 {: .hero-resource-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
+> {: .hero-resource-name .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Bounty of the Hoard</div>
 >

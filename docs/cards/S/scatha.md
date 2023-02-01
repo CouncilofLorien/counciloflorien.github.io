@@ -22,7 +22,7 @@ permalink: /cards/scatha/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ May be played at Gondmaeglom. _Dragon._ Three strikes. If Doors of Night is in play, may also be played keyed to Withered Heath, Woodland Realm, Northern Rhovanion, and Grey Mountains Narrows; and may also be played at sites in those regions. 
+> > _**Unique.**_ ***May be played at Gondmaeglom.*** _Dragon._ Three strikes. <br>&ensp;If _Doors of Night_ is in play, may also be played keyed to Withered Heath, Woodland Realm, Northern Rhovanion, and Grey Mountains Narrows; and may also be played at sites in those regions. 
 > > 
 > > {: .fs-3 } 
 > > _“...son of Glaurung's first brood, whom they named simply 'the Worm.’”_ ***---&#65279;Kuduk Lore*** 

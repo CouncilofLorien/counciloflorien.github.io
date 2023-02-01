@@ -22,7 +22,7 @@ permalink: /cards/ice-drake/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Drake._ Two strikes. May be played keyed to Eleven Shores, Forochel, Angmar, Gundabad, Grey Mountain Narrows, and Withered Heath. 
+> > _Drake._ Two strikes. May be played keyed to Elven Shores, Forochel, Angmar, Gundabad, Grey Mountain Narrows, and Withered Heath. 
 > > 
 > > {: .fs-3 } 
 > > _“The lossaloki ingest frigid water or ice and spew it forth as a lethal blast."_ ***---&#65279;Kuduk Lore*** 

@@ -22,7 +22,7 @@ permalink: /cards/dragon-lore/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable on a sage during the site phase at an untapped site where "Information" is playable. Tap the sage and the site. During a site phase at a tapped Dragon's lair, tap bearer and discard Dragon-lore. Search your play deck and/or discard pile for any item playable at the Dragon's lair. This item may be immediately played with the bearer's company.   
+> > ***Playable on a sage during the site phase at an untapped site where "Information" is playable.*** Tap the sage and the site. During a site phase at a tapped Dragon's lair, tap bearer and discard _Dragon-lore_. Search your play deck and/or discard pile for any item playable at the Dragon's lair. This item may be immediately played with the bearer's company.   
 > > 
 > > {: .fs-3 } 
 > > _“...they all began discussing dragon-slayings historical, dubious, and mythical...”_ ***---&#65279;Hob*** 

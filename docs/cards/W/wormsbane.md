@@ -34,7 +34,7 @@ permalink: /cards/wormsbane/
 ### _Middle-earth Challenge Decks_
 
 {: .hero-resource-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
+> {: .hero-resource-name .p-1 .pl-2 }
 > > <div class="card-mp">4</div>
 > > <div class="card-name">Wormsbane</div>
 >

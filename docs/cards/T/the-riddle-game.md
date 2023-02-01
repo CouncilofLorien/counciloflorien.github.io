@@ -22,5 +22,5 @@ permalink: /cards/the-riddle-game/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Riddling attempt._ Playable during the site phase on a character at the same site as one of opponent's companies. Tap the character Opponent chooses a character from his company to play the riddle game. Each player makes a riddling roll (or draws a #) modified by +2 if his character is a sage and by +1 if a Hobbit (re-roll ties). The player with the highest result wins. He then names two cards and the other player reveals his hand If any of the named cards are revealed, they are immediately discarded. 
+> > _Riddling attempt._ ***Playable during the site phase on a character at the same site as one of opponent's companies.*** Tap the character. Opponent chooses a character from his company to play the riddle game. Each player makes a riddling roll (or draws a #) modified by +2 if his character is a sage and by +1 if a Hobbit (re-roll ties). The player with the highest result wins. He then names two cards and the other player reveals his hand. If any of the named cards are revealed, they are immediately discarded. 
 > 

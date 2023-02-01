@@ -22,7 +22,7 @@ permalink: /cards/houses-of-healing/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable on a Free-hold \[![](/assets/images/free-hold.svg)]. Site becomes a Haven \[![](/assets/images/free-haven.svg)] for purposes of healing. Discard Houses of Healing when the site is returned to the location deck or discarded. 
+> > ***Playable on a Free-hold*** \[![](/assets/images/free-hold.svg)]. Site becomes a Haven \[![](/assets/images/free-haven.svg)] for purposes of healing. Discard _Houses of Healing_ when the site is returned to the location deck or discarded. 
 > > 
 > > {: .fs-3 } 
 > > _“...the leechcraft of Gondor was still wise, and skilled in the healing of wound and hurt, and all such sickness...”_ ***---&#65279;LotRV***  

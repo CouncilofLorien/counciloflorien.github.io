@@ -11,6 +11,26 @@ permalink: /cards/the-balrog/
 ## PRINTINGS
 
 
+### _Middle-earth: Against the Shadow_
+
+{: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
+> {: .minion-resource-name .mb-4 .p-1 .pl-2 }
+> > <div class="hazard-mp">4</div>
+> > <div class="card-name">The Balrog</div>
+>
+> {: .minion-resource-name .black-text .p-1 .pl-2 }
+> > 6 ![](/assets/images/mind.svg)
+>
+> {: .hazard-classification .pr-2 }
+> Warrior Ally
+>
+> {: .minion-resource-text .black-text .p-2 }
+> > _**Unique.**_ Manifestation of Balrog of Moria. Playable by a non-Ringwraith character at the Under-gates. Discard this ally if its company moves from a non-Under-deeps site to a non-Under-deeps site. During your organization phase, your opponent makes a roll (draws a #) and subtracts two. If the result is greater than the mind of this ally's controlling character, the character is eliminated. 
+> 
+> {: .minion-resource-name .p-1 .pr-2 }
+> > <div class="card-shield">【 13/9 】</div>
+> > <div class="card-corruption-white">&nbsp;</div>
+
 ### _Middle-earth: The Balrog_
 
 {: .minion-character .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -32,24 +52,4 @@ permalink: /cards/the-balrog/
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 8/11 】</div>
-> > <div class="card-corruption-white">&nbsp;</div>
-
-### _Middle-earth: Against the Shadow_
-
-{: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .minion-resource-name .mb-4 .p-1 .pl-2 }
-> > <div class="hazard-mp">4</div>
-> > <div class="card-name">The Balrog</div>
->
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
-> > 6 ![](/assets/images/mind.svg)
->
-> {: .hazard-classification .pr-2 }
-> Warrior Ally
->
-> {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Manifestation of Balrog of Moria. Playable by a non-Ringwraith character at the Under-gates. Discard this ally if its company moves from a non-Under-deeps site to a non-Under-deeps site. During your organization phase, your opponent makes a roll (draws a #) and subtracts two. If the result is greater than the mind of this ally's controlling character, the character is eliminated. 
-> 
-> {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【 13/9 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>

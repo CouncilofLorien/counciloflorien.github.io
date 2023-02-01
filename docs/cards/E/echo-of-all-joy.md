@@ -22,7 +22,7 @@ permalink: /cards/echo-of-all-joy/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Play on a resource long-event if Doors of Night is not in play. The long-event is not discarded as normal during the long-event phase. Discard Echo of All Joy and target when any play deck is exhausted or when Doors of Night comes into play. 
+> > Play on a resource long-event if _Doors of Night_ is not in play. The long-event is not discarded as normal during the long-event phase. Discard _Echo of All Joy_ and target long-event when any play deck is exhausted or when _Doors of Night_ comes into play. 
 > > 
 > > {: .fs-3 } 
 > > _“It fell upon his ears like the echo of all the joys he had ever known."_ ***---&#65279;LotRVI*** 

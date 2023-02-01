@@ -28,7 +28,7 @@ permalink: /cards/lesser-spiders/
 > > _Spiders._ Four strikes. 
 > > 
 > > {: .fs-3 } 
-> > _“As he drew himself nearer, he saw that it was made by spider-webs one behind and over and tangled with another. Suddenly he saw, too, that there were spiders huge and horrible sitting in the branches above him...”_ ***---&#65279;Hob*** 
+> > _“As he drew nearer, he saw that it was made by spider-webs one behind and over and tangled with another. Suddenly he saw, too, that there were spiders huge and horrible sitting in the branches above him...”_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 7/&ndash; 】</div>
@@ -51,7 +51,7 @@ permalink: /cards/lesser-spiders/
 > > _Spiders._ Four strikes. 
 > > 
 > > {: .fs-3 } 
-> > _“As he drew himself nearer, he saw that it was made by spider-webs one behind and over and tangled with another. Suddenly he saw, too, that there were spiders huge and horrible sitting in the branches above him...”_ ***---&#65279;Hob*** 
+> > _“As he drew nearer, he saw that it was made by spider-webs one behind and over and tangled with another. Suddenly he saw, too, that there were spiders huge and horrible sitting in the branches above him...”_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 7/&ndash; 】</div>

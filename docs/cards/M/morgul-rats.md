@@ -22,7 +22,7 @@ permalink: /cards/morgul-rats/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Animals._ 15 strikes. Only playable at a Shadow-hold \[![](/assets/images/shadow-hold.svg)] or at a Dark-hold \[![](/assets/images/dark-hold.svg)], and only if a character in target company is wounded or Doors of Night is in play. 
+> > _Animals._ 15 strikes. Only playable at a Shadow-hold \[![](/assets/images/shadow-hold.svg)] or at a Dark-hold \[![](/assets/images/dark-hold.svg)], and only if a character in target company is wounded **or** _Doors of Night_ is in play. 
 > > 
 > > {: .fs-3 } 
 > > _“Scavengers of the battlefield by night, these ferile rodents carry the stink of black sorcery in their bite."_ ***---&#65279;Kuduk Lore*** 
