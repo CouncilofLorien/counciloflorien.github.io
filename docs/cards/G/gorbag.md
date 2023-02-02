@@ -18,7 +18,7 @@ permalink: /cards/gorbag/
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">Gorbag</div>
 >
-> {: .minion-character-frame .black-text .p-1 .pl-2 }
+> {: .minion-character-frame .white-text .p-1 .pl-2 }
 > > 6 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
@@ -44,7 +44,7 @@ permalink: /cards/gorbag/
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">Gorbag</div>
 >
-> {: .minion-character-frame .black-text .p-1 .pl-2 }
+> {: .minion-character-frame .white-text .p-1 .pl-2 }
 > > 6 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
@@ -70,7 +70,7 @@ permalink: /cards/gorbag/
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">Gorbag</div>
 >
-> {: .minion-character-frame .black-text .p-1 .pl-2 }
+> {: .minion-character-frame .white-text .p-1 .pl-2 }
 > > 6 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }

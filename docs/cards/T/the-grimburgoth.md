@@ -18,7 +18,7 @@ permalink: /cards/the-grimburgoth/
 > > <div class="hazard-mp">3</div>
 > > <div class="card-name">The Grimburgoth</div>
 >
-> {: .minion-character-frame .black-text .p-1 .pl-2 }
+> {: .minion-character-frame .white-text .p-1 .pl-2 }
 > > 8 ![](/assets/images/mind.svg)&ensp;2![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }

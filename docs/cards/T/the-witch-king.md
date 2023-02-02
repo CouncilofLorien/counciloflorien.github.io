@@ -18,7 +18,7 @@ permalink: /cards/the-witch-king/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">The Witch-king</div>
 >
-> {: .minion-character-frame .black-text .p-1 .pl-2 }
+> {: .minion-character-frame .white-text .p-1 .pl-2 }
 > > 3![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
@@ -41,7 +41,7 @@ permalink: /cards/the-witch-king/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">The Witch-king</div>
 >
-> {: .minion-character-frame .black-text .p-1 .pl-2 }
+> {: .minion-character-frame .white-text .p-1 .pl-2 }
 > > 3![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }

@@ -18,7 +18,7 @@ permalink: /cards/lieutenant-of-angmar/
 > > <div class="hazard-mp">3</div>
 > > <div class="card-name">Lieutenant of Angmar</div>
 >
-> {: .minion-character-frame .black-text .p-1 .pl-2 }
+> {: .minion-character-frame .white-text .p-1 .pl-2 }
 > > 9 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }

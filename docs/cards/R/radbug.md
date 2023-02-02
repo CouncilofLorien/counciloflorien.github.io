@@ -18,7 +18,7 @@ permalink: /cards/radbug/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Radbug</div>
 >
-> {: .minion-character-frame .black-text .p-1 .pl-2 }
+> {: .minion-character-frame .white-text .p-1 .pl-2 }
 > > 4 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
@@ -44,7 +44,7 @@ permalink: /cards/radbug/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Radbug</div>
 >
-> {: .minion-character-frame .black-text .p-1 .pl-2 }
+> {: .minion-character-frame .white-text .p-1 .pl-2 }
 > > 4 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }

@@ -18,7 +18,7 @@ permalink: /cards/khamul-the-ringwraith/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Khamul the Ringwraith</div>
 >
-> {: .minion-character-frame .black-text .p-1 .pl-2 }
+> {: .minion-character-frame .white-text .p-1 .pl-2 }
 > > 4![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }

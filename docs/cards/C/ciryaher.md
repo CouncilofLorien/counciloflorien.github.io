@@ -18,7 +18,7 @@ permalink: /cards/ciryaher/
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">Ciryaher</div>
 >
-> {: .minion-character-frame .black-text .p-1 .pl-2 }
+> {: .minion-character-frame .white-text .p-1 .pl-2 }
 > > 5 ![](/assets/images/mind.svg)&ensp;2![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
@@ -44,7 +44,7 @@ permalink: /cards/ciryaher/
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">Ciryaher</div>
 >
-> {: .minion-character-frame .black-text .p-1 .pl-2 }
+> {: .minion-character-frame .white-text .p-1 .pl-2 }
 > > 5 ![](/assets/images/mind.svg)&ensp;2![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
