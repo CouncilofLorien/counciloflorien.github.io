@@ -1,6 +1,5 @@
 ---
 layout: default
-title: haven
 search_exclude: true
 nav_exclude: true
 permalink: /
