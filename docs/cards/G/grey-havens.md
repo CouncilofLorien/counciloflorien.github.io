@@ -18,14 +18,11 @@ permalink: /cards/grey-havens/
 > > <div class="card-mp"><img src="/assets/images/free-haven.svg"></div>
 > > <div class="character-card-name">Grey Havens</div>
 >
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .character-card-classification .pr-2 }
 > Lindon
 >
 > {: .hero-site-text .black-text .p-2 }
-> > ***Site Path From Rivendell:*** <br>&emsp;![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/free-domain.svg)] <br>***Site Path From Edhellond:*** <br>&emsp;![](/assets/images/wilderness.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/free-domain.svg) 
+> > ***Site Path From Rivendell:*** <br>&emsp;![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/free-domain.svg) <br>***Site Path From Edhellond:*** <br>&emsp;![](/assets/images/wilderness.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/free-domain.svg) 
 > > 
 > > {: .fs-3 } 
 > > _“...so they rode down at last to Mithlond, to the Grey Havens in the long firth of Lune... As they came to the gates Cirdan the shipwright came forth to greet them."_ ***---&#65279;LotRVI*** 
@@ -41,14 +38,11 @@ permalink: /cards/grey-havens/
 > > <div class="card-mp"><img src="/assets/images/free-haven.svg"></div>
 > > <div class="character-card-name">Grey Havens</div>
 >
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .character-card-classification .pr-2 }
 > Lindon
 >
 > {: .hero-site-text .black-text .p-2 }
-> > ***Site Path From Rivendell:*** <br>&emsp;![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/free-domain.svg)] <br>***Site Path From Edhellond:*** <br>&emsp;![](/assets/images/wilderness.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/free-domain.svg) 
+> > ***Site Path From Rivendell:*** <br>&emsp;![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/free-domain.svg) <br>***Site Path From Edhellond:*** <br>&emsp;![](/assets/images/wilderness.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/free-domain.svg) 
 > > 
 > > {: .fs-3 } 
 > > _“...so they rode down at last to Mithlond, to the Grey Havens in the long firth of Lune... As they came to the gates Cirdan the shipwright came forth to greet them."_ ***---&#65279;LotRVI*** 
@@ -83,9 +77,6 @@ permalink: /cards/grey-havens/
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/free-haven.svg"></div>
 > > <div class="character-card-name">Grey Havens</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .character-card-classification .pr-2 }
 > Lindon

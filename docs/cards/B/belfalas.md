@@ -21,7 +21,7 @@ permalink: /cards/belfalas/
 > > ![](/assets/images/free-domain.svg)
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Anfalas, Bay of Belfalas, Lamedon, Lebennin, Mouths of the Anduin 
+> > Mouths of the Anduin, Anfalas, Bay of Belfalas, Lamedon, Lebennin
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -34,5 +34,5 @@ permalink: /cards/belfalas/
 > > ![](/assets/images/free-domain.svg)
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Anfalas, Bay of Belfalas, Lamedon, Lebennin, Mouths of the Anduin 
+> > Mouths of the Anduin, Anfalas, Bay of Belfalas, Lamedon, Lebennin
 > 

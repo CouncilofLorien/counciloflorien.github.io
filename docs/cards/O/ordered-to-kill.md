@@ -22,7 +22,7 @@ permalink: /cards/ordered-to-kill/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Each face up agent must attack if a company enters a site where he is located. Additionally, any unrevealed on-guard cards are discarded instead of being returned to their owner's hand. Discard when any play deck is exhausted. Cannot be duplicated. 
+> > Each face up agent must attack if a company enters a site where he is located. <br>&ensp;Additionally, any unrevealed on-guard cards are discarded instead of being returned to their owner's hand. Discard when any play deck is exhausted. Cannot be duplicated. 
 > > 
 > > {: .fs-3 } 
 > > _“‘Worm killed your Chief, poor little fellow, your nice little Boss. Didn't you, Worm? Stabbed him in his sleep, I believe.’”_ ***---&#65279;LotRVI*** 

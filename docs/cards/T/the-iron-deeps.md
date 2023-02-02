@@ -18,9 +18,6 @@ permalink: /cards/the-iron-deeps/
 > > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
 > > <div class="character-card-name">The Iron-deeps</div>
 >
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .character-card-classification .pr-2 }
 > Under-deeps
 >
@@ -38,9 +35,6 @@ permalink: /cards/the-iron-deeps/
 > > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
 > > <div class="card-name">The Iron-deeps</div>
 >
-> {: .minion-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Under-deeps
 >
@@ -57,9 +51,6 @@ permalink: /cards/the-iron-deeps/
 > {: .balrog-site-text .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
 > > <div class="card-name">The Iron-deeps</div>
->
-> {: .balrog-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Under-deeps

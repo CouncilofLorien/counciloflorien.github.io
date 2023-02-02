@@ -25,7 +25,7 @@ permalink: /cards/lindion-the-oronin/
 > Warrior Ally
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Stone-circle. Tap Lindion the Oronion to cancel an Animal or Spider attack. Eagle-mounts can be played on his company regardless of their site or the presence of a diplomat. 
+> > _**Unique.**_ _Playable at Stone-circle._ Tap _Lindion_ to cancel an Animal or Spider attack. _Eagle-mounts_ can be played on his company regardless of their site or the presence of a diplomat. 
 > > 
 > > {: .fs-3 } 
 > > _“The fays of the mountains pipe melodies that harmonize with wind and weather, pleasing to the ears of all creatures aloft on wings."_ ***---&#65279;Kuduk Lore*** 

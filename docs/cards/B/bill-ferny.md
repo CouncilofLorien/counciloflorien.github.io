@@ -25,7 +25,7 @@ permalink: /cards/bill-ferny/
 > Warrior/Scout Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ Agent. 
+> > _**Unique.**_ _Agent._ 
 > > 
 > > {: .fs-3 } 
 > > _“‘...as for Ferny, he would sell anything to anybody; or make mischief for amusement.’”_ ***---&#65279;LotRI***  

@@ -25,7 +25,7 @@ permalink: /cards/deallus/
 > Warrior/Diplomat Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ Agent. 
+> > _**Unique.**_ _Agent._ 
 > > 
 > > {: .fs-3 } 
 > > _“Red-haired and gifted with a marvelous tongue, Deallus of Dunfearan was the embodiment of the high hills' soft beauty and strong, deep spirit."_ ***---&#65279;Kuduk Lore***  

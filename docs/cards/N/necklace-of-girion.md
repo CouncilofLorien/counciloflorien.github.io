@@ -19,13 +19,13 @@ permalink: /cards/necklace-of-girion/
 > > <div class="card-name">Necklace of Girion</div>
 >
 > {: .hero-resource-name .black-text .p-1 .pl-2 }
-> > [+3]![](/assets/images/di.svg)
+> > [+3![](/assets/images/di.svg)]
 >
 > {: .card-classification .pr-2 }
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Only playable at The Lonely Mountain. Bearer receives +3 direct influence against Dwarves/Men and Dwarf/Man factions. If bearer is at a Free-hold \[![](/assets/images/free-hold.svg)] or a Border-hold \[![](/assets/images/border-hold.svg)], he can make a corruption check, and, if successful, you may discard Necklace of Girion to play any non-special item from your hand with its bearer. 
+> > _**Unique.**_ ***Only playable at The Lonely Mountain.*** Bearer receives +3 direct influence against Dwarves/Men and Dwarf/Man factions. If bearer is at a Free-hold \[![](/assets/images/free-hold.svg)] or a Border-hold \[![](/assets/images/border-hold.svg)], he can make a corruption check, and, if successful, you may discard _Necklace of Girion_ to play any non-special item from your hand with its bearer. 
 > > 
 > > {: .fs-3 } 
 > > _“...the necklace of Girion, lord of Dale, made of five hundred emeralds green as grass...”_ ***---&#65279;Hob***  

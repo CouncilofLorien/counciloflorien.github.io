@@ -25,7 +25,7 @@ permalink: /cards/ivic/
 > Warrior/Diplomat Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ Agent. 
+> > _**Unique.**_ _Agent._ 
 > > 
 > > {: .fs-3 } 
 > > _“Southrons were bold men and grim, and fierce in despair...”_ ***---&#65279;LotR***  

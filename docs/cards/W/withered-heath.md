@@ -21,7 +21,7 @@ permalink: /cards/withered-heath/
 > > ![](/assets/images/wilderness.svg)
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Grey Mountain Narrows, Iron Hills, Northern Rhovanion 
+> > Iron Hills, Northern Rhovanion, Grey Mountain Narrows
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -34,5 +34,5 @@ permalink: /cards/withered-heath/
 > > ![](/assets/images/wilderness.svg)
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Grey Mountain Narrows, Iron Hills, Northern Rhovanion 
+> > Iron Hills, Northern Rhovanion, Grey Mountain Narrows
 > 

@@ -18,9 +18,6 @@ permalink: /cards/remains-of-thangorodrim/
 > > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
 > > <div class="card-name">Remains of Thangorodrim</div>
 >
-> {: .balrog-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Under-deeps
 >

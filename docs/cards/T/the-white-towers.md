@@ -87,9 +87,6 @@ permalink: /cards/the-white-towers/
 > > <div class="card-mp"><img src="/assets/images/free-haven.svg"></div>
 > > <div class="card-name">The White Towers</div>
 >
-> {: .fw-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Arthedain
 >

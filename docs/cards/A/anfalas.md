@@ -21,7 +21,7 @@ permalink: /cards/anfalas/
 > > ![](/assets/images/wilderness.svg)
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Andrast, Bay of Belfalas, Belfalas, Lamedon, Old Pukel-land 
+> > Andrast, Bay of Belfalas, Belfalas, Lamedon, Old Pukel Gap
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -34,5 +34,5 @@ permalink: /cards/anfalas/
 > > ![](/assets/images/wilderness.svg)
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Andrast, Bay of Belfalas, Belfalas, Lamedon, Old Pukel-land 
+> > Andrast, Bay of Belfalas, Belfalas, Lamedon, Old Pukel Gap
 > 

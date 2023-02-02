@@ -22,5 +22,5 @@ permalink: /cards/await-the-advent-of-allies/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable on a non-Wizard character with a mind of six or less. Character must stay at its current non-Haven site until you play a card at the site. Target character does not count against general influence and its marshalling points do not count. Discard this card when you play a resource at the site, the character is discarded, or the character wounded. Cannot be duplicated on a given character.  
+> > ***Playable on a non-Wizard character with a mind of six or less.*** Character must stay at its current non-Haven site until you play a card at the site. Target character does not count against general influence and its marshalling points do not count. Discard this card when you play a resource at the site, the character is discarded, or the character wounded. Cannot be duplicated on a given character.  
 > 

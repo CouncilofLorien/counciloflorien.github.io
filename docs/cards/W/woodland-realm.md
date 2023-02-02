@@ -21,7 +21,7 @@ permalink: /cards/woodland-realm/
 > > ![](/assets/images/border-land.svg)
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Anduin Vales, Grey Mountain Narrows, Heart of Mirkwood, Northern Rhovanion, Western Mirkwood 
+> > Anduin Vales, Heart of Mirkwood, Northern Rhovanion, Western Mirkwood, Grey Mountain Narrows
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -34,5 +34,5 @@ permalink: /cards/woodland-realm/
 > > ![](/assets/images/border-land.svg)
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Anduin Vales, Grey Mountain Narrows, Heart of Mirkwood, Northern Rhovanion, Western Mirkwood 
+> > Anduin Vales, Heart of Mirkwood, Northern Rhovanion, Western Mirkwood, Grey Mountain Narrows
 > 

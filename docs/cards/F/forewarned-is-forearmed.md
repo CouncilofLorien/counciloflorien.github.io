@@ -22,7 +22,7 @@ permalink: /cards/forewarned-is-forearmed/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Any non-Dragon Lair site with more than one automatic-attack is reduced to having one automatic-attack of the hazard player's choice (this attack cannot be canceled). Any creature or other hazard with more than one attack is reduced to one attack of the hazard player's choice (this attack cannot be canceled). Discard when such an isolated attack is defeated. Cannot be duplicated.  
+> > Any non-Dragon Lair site with more than one automatic-attack is reduced to having one automatic-attack of the hazard player's choice (this attack cannot be cancelled). Any creature or other hazard with more than one attack is reduced to one attack of the hazard player's choice (this attack cannot be cancelled). Discard when such an isolated attack is defeated. Cannot be duplicated.  
 > 
 
 ### _Middle-earth Challenge Decks_

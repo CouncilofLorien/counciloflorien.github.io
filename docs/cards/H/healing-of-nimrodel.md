@@ -22,5 +22,5 @@ permalink: /cards/healing-of-nimrodel/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable during the organization phase on a moving company whose site of origin is a Haven \[![](/assets/images/free-haven.svg)]. If the company moves to another Haven \[![](/assets/images/free-haven.svg)] this turn, at the end of the movement/hazard phase all wounded characters in the company heal (from wounded to untapped) and all tapped characters untap. 
+> > ***Playable during the organization phase on a moving company whose site of origin is a Haven \[![](/assets/images/free-haven.svg)].*** If the company moves to another Haven \[![](/assets/images/free-haven.svg)] this turn, at the end of the movement/hazard phase all wounded characters in the company heal (from wounded to untapped) and all tapped characters untap. 
 > 

@@ -25,7 +25,7 @@ permalink: /cards/raisha/
 > Warrior/Scout Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ Agent. 
+> > _**Unique.**_ _Agent._ 
 > > 
 > > {: .fs-3 } 
 > > _“Not all of those Southerners meant well...”_ ***---&#65279;LotRI***  

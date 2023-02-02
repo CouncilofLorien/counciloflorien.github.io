@@ -25,7 +25,7 @@ permalink: /cards/little-snuffler/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Orc._ One strike. Attacker chooses defending characters. Each ranger in attacked company lowers Little Snuffler's body by 2. If attack is not defeated, any resource that requires a scout in target company cannot be played for the rest of the turn.   
+> > _Orc._ One strike. Attacker chooses defending characters. Each ranger in attacked company lowers _Little Snuffler's_ body by 2. If attack is not defeated, any resource that requires a scout in target company cannot be played for the rest of the turn.   
 > > 
 > > {: .fs-3 } 
 > > _“...a small breed, black skinned, with wide and snuffling nostrils: evidently a tracker of some kind...”_ ***---&#65279;LotRII*** 

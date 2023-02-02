@@ -22,5 +22,5 @@ permalink: /cards/an-unexpected-party/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Only playable during the organization phase on a company. There is no limit to the size of this company. Dwarves with a mind of 2 or less in this company do not require influence to be controlled; and there is no limit to how many Dwarves may be brought into play on a give turn with the company. Discard this card if the company has more than one non-Wizard character with a mind greater than 5 or more than two non-Dwarf characters or no Dwarf with a mind greater than 5. Cannot be duplicate don a given company.  
+> > ***Only playable during the organization phase on a company.*** There is no limit to the size of this company. Dwarves with a mind of 2 or less in this company do not require influence to be controlled; and there is no limit to how many Dwarves may be brought into play on a give turn with the company. Discard this card if the company has more than one non-Wizard character with a mind greater than 5 **or** more than two non-Dwarf characters **or** no Dwarf with a mind greater than 5. Cannot be duplicate don a given company.  
 > 

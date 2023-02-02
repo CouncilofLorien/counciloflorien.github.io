@@ -38,11 +38,11 @@ permalink: /cards/land-drake/
 
 {: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
-> > <div class="hazard-mp">2*</div>
+> > <div class="hazard-mp">1</div>
 > > <div class="card-name">Land-drake</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/shadow-land.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/ruinlair.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -54,5 +54,5 @@ permalink: /cards/land-drake/
 > > _“‘He came with great thunder, and lightning, and a tempest of doom.’”_ ***---&#65279;Kuduk Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【 12/6 】</div>
+> > <div class="card-shield">【 8/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>

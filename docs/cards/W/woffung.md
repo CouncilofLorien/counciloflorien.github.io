@@ -25,7 +25,7 @@ permalink: /cards/woffung/
 > Warrior/Diplomat Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ Agent. 
+> > _**Unique.**_ _Agent._ 
 > > 
 > > {: .fs-3 } 
 > > _“Shadowy Woffung called himself a juggler, but by trade he practiced anything bequeathing him easy wealth."_ ***---&#65279;Kuduk Lore***  

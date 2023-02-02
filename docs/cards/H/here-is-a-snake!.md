@@ -22,5 +22,5 @@ permalink: /cards/here-is-a-snake!/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable on a company during its movement/hazard phase after cards have been drawn. Opponent may reveal to you any number of hazards from his hand. He may only play hazards he revealed to you (including on-guard cards) for the remainder of target company's movement/hazard phase. Alternatively, a face-down agent is tapped and revealed. 
+> > ***Playable on a company during its movement/hazard phase after cards have been drawn.*** Opponent may reveal to you any number of hazards from his hand. He may only play hazards he revealed to you (including on-guard cards) for the remainder of target company's movement/hazard phase. <br>&ensp;Alternatively, a face-down agent is tapped and revealed. 
 > 

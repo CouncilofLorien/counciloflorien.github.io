@@ -25,7 +25,7 @@ permalink: /cards/dror/
 > Warrior/Diplomat Dwarf
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ Agent. +2 direct influence against Dwarves and Dwarf factions. 
+> > _**Unique.**_ _Agent._ +2 direct influence against Dwarves and Dwarf factions. 
 > > 
 > > {: .fs-3 } 
 > > _“Ever low he sat, always abiding by greed...oaths are broken, vows refused, or solemn agreements."_ ***---&#65279;Kuduk Lore***  

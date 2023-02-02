@@ -64,9 +64,6 @@ permalink: /cards/dol-guldur/
 > > <div class="card-mp"><img src="/assets/images/dark-haven.svg"></div>
 > > <div class="card-name">Dol Guldur</div>
 >
-> {: .minion-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Southern Mirkwood
 >
@@ -84,9 +81,6 @@ permalink: /cards/dol-guldur/
 > > <div class="card-mp"><img src="/assets/images/dark-haven.svg"></div>
 > > <div class="card-name">Dol Guldur</div>
 >
-> {: .minion-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Southern Mirkwood
 >
@@ -103,9 +97,6 @@ permalink: /cards/dol-guldur/
 > {: .balrog-site-text .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
 > > <div class="card-name">Dol Guldur</div>
->
-> {: .balrog-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Southern Mirkwood

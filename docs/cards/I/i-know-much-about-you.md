@@ -22,7 +22,7 @@ permalink: /cards/i-know-much-about-you/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Cancels any agent attack or any hazard effect that requires tapping an agent declared earlier in the same chain of effects or one attack from a hazard creature with multiple attacks (e.g., Slayer, Nameless Thing). 
+> > Cancels any agent attack **or** any hazard effect that requires tapping an agent declared earlier in the same chain of effects **or** one attack from a hazard creature with multiple attacks (e.g., _Slayer_, _Nameless Thing_). 
 > > 
 > > {: .fs-3 } 
 > > _“‘...out of the mist there rode a man on an old tired horse; and he looked a queer twisted sort of creature himself...’”_ ***---&#65279;LotRIII*** 

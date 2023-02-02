@@ -18,9 +18,6 @@ permalink: /cards/haudh-in-gwanur/
 > > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
 > > <div class="character-card-name">Haudh-in-Gwanur</div>
 >
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .character-card-classification .pr-2 }
 > Harondor
 >
@@ -63,9 +60,6 @@ permalink: /cards/haudh-in-gwanur/
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
 > > <div class="character-card-name">Haudh-in-Gwanur</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .character-card-classification .pr-2 }
 > Harondor

@@ -21,7 +21,7 @@ permalink: /cards/northern-rhovanion/
 > > ![](/assets/images/wilderness.svg)
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Dorwinion, Grey Mountain Narrows, Heart of Mirkwood, Iron Hills, Southern Mirkwood, Withered Heath, Woodland Realm 
+> > Dorwinion, Heart of Mirkwood, Iron Hills, Southern Mirkwood, Withered Heath, Woodland Realm, Grey Mountain Narrows 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -34,5 +34,5 @@ permalink: /cards/northern-rhovanion/
 > > ![](/assets/images/wilderness.svg)
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Dorwinion, Grey Mountain Narrows, Heart of Mirkwood, Iron Hills, Southern Mirkwood, Withered Heath, Woodland Realm 
+> > Dorwinion, Heart of Mirkwood, Iron Hills, Southern Mirkwood, Withered Heath, Woodland Realm, Grey Mountain Narrows 
 > 

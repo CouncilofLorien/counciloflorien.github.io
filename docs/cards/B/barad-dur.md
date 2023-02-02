@@ -104,9 +104,6 @@ permalink: /cards/barad-dur/
 > > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
 > > <div class="card-name">Barad-dur</div>
 >
-> {: .balrog-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Gorgoroth
 >

@@ -22,5 +22,5 @@ permalink: /cards/ancient-stair/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable only at the end of the organization phase on a company that starts its turn at an untapped adjacent site of an Under-deeps site. Opponent may draw up to twice the normal number of cards for this company during the movement/hazard phase. If company moved to an Under-deeps site, at the end of the turn the company may replace its site card with the site card at which it began the turn.  
+> > ***Playable only at the end of the organization phase on a company that starts its turn at an untapped adjacent site of an Under-deeps site.*** Opponent may draw up to twice the normal number of cards for this company during the movement/hazard phase. If company moved to an Under-deeps site, at the end of the turn the company may replace its site card with the site card at which it began the turn.  
 > 

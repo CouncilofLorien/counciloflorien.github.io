@@ -87,9 +87,6 @@ permalink: /cards/isengard/
 > > <div class="card-mp"><img src="/assets/images/free-haven.svg"></div>
 > > <div class="card-name">Isengard</div>
 >
-> {: .fw-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Gap of Isen
 >

@@ -22,5 +22,5 @@ permalink: /cards/to-the-uttermost-foundations/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable on a company at an Under-deeps site during its organization phase; tap the site if untapped. This card is played tapped and can only be untapped during your organization phase if the company is at a different Under-deeps site. If untapped and at a Haven \[![](/assets/images/free-haven.svg)], this card may be stored in your marshalling point pile-only if stored do you receive its marshalling points. Cannot be duplicated on a given company. 
+> > ***Playable on a company at an Under-deeps site during its organization phase;*** tap the site if untapped. This card is played tapped and can only be untapped during your organization phase if the company is at a different Under-deeps site. If untapped and at a Haven \[![](/assets/images/free-haven.svg)], this card may be stored in your marshalling point pile---only if stored do you receive its marshalling points. Cannot be duplicated on a given company. 
 > 

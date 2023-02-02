@@ -25,7 +25,7 @@ permalink: /cards/om-buri-om/
 > Scout/Ranger Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ Agent. +3 direct influence against Wose factions. 
+> > _**Unique.**_ _Agent._ +3 direct influence against Wose factions. 
 > > 
 > > {: .fs-3 } 
 > > _“Here was one of those old images brought to life."_ ***---&#65279;LotRV***  

@@ -34,5 +34,5 @@ permalink: /cards/bay-of-belfalas/
 > > ![](/assets/images/coastalsea.svg)
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Andrast Coast, Andrast, Anfalas, Belfalas, Mouths of the Anduin 
+> > Andrast Coast, Andrast, Mouths of the Anduin, Anfalas, Belfalas
 > 

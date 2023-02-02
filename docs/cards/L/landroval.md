@@ -15,11 +15,11 @@ permalink: /cards/landroval/
 
 {: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .mb-4 .p-1 .pl-2 }
-> > <div class="hazard-mp">1</div>
+> > <div class="hazard-mp">2*</div>
 > > <div class="card-name">Landroval</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/ruinlair.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/shadow-land.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -31,5 +31,5 @@ permalink: /cards/landroval/
 > > _“...and Landroval his brother, greatest of all the Eagles of the North, mightiest of the descendants of old Thorondor...”_ ***---&#65279;LotRVI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
-> > <div class="card-shield">【 8/&ndash; 】</div>
+> > <div class="card-shield">【 12/6 】</div>
 > > <div class="card-corruption">&nbsp;</div>

@@ -22,7 +22,7 @@ permalink: /cards/gems-of-arda/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable at The Gem-deeps. If you have a stored Vein of Arda, playable at any Under-deeps site. During any organization phase in which you store Gems of Arda, you may immediately tap a character in the same company and play a non-special item with him from your hand or discard pile. This item must be identical to an item that your opponent has already stored. Your opponent's stored item id discarded, and you may never store the item you played.  
+> > ***Playable at The Gem-deeps. If you have a stored Vein of Arda, playable at any Under-deeps site.*** During any organization phase in which you store _Gems of Arda_, you may immediately tap a character in the same company and play a non-special item with him from your hand or discard pile. This item must be identical to an item that your opponent has already stored. Your opponent's stored item id discarded, and you may never store the item you played.  
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

@@ -22,5 +22,5 @@ permalink: /cards/no-waiting-to-wonder/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable on an untapped Hobbit when another character in his company is facing a strike (during other character's strike sequence). Tap Hobbit. The prowess of the strike is modified by -4 and its body by -1. If the strike is successful, the Hobbit must make a body check (in addition to the other effects of the successful strike). 
+> > ***Playable on an untapped Hobbit when another character in his company is facing a strike (during other character's strike sequence).*** Tap Hobbit. The prowess of the strike is modified by -4 and its body by -1. If the strike is successful, the Hobbit must make a body check (in addition to the other effects of the successful strike). 
 > 

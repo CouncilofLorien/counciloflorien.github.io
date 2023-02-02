@@ -31,7 +31,7 @@ permalink: /cards/stone-circle/
 > > _“Stone rings grinned out of the ground like broken teeth in the moonlight."_ ***---&#65279;LotRI*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
-> > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
+> > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -54,7 +54,7 @@ permalink: /cards/stone-circle/
 > > _“Stone rings grinned out of the ground like broken teeth in the moonlight."_ ***---&#65279;LotRI*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
-> > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
+> > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Lidless Eye_

@@ -21,7 +21,7 @@ permalink: /cards/lebennin/
 > > ![](/assets/images/free-domain.svg)
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Anorien, Belfalas, Lamedon, Mouths of the Anduin 
+> > Mouths of the Anduin, Anorien, Belfalas, Lamedon
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -34,5 +34,5 @@ permalink: /cards/lebennin/
 > > ![](/assets/images/free-domain.svg)
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Anorien, Belfalas, Lamedon, Mouths of the Anduin 
+> > Mouths of the Anduin, Anorien, Belfalas, Lamedon
 > 

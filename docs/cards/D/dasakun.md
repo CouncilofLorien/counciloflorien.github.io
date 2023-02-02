@@ -25,7 +25,7 @@ permalink: /cards/dasakun/
 > Warrior/Ranger Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ Agent. 
+> > _**Unique.**_ _Agent._ 
 > > 
 > > {: .fs-3 } 
 > > _“...a fierce people...wholly under the shadow of Dol Guldur...”_ ***---&#65279;LotR***  

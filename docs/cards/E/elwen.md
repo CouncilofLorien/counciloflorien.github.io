@@ -25,7 +25,7 @@ permalink: /cards/elwen/
 > Warrior/Diplomat Elf
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ Agent. +2 direct influence against Elves and Elf factions. Agent only: may move to a Haven \[![](/assets/images/free-haven.svg)]. 
+> > _**Unique.**_ _Agent._ +2 direct influence against Elves and Elf factions. _Agent only:_ may move to a Haven \[![](/assets/images/free-haven.svg)]. 
 > > 
 > > {: .fs-3 } 
 > > _“...Elves of this land were of a race strange to us of the silvan folk."_ ***---&#65279;LotRII***  

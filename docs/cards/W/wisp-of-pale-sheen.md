@@ -25,7 +25,7 @@ permalink: /cards/wisp-of-pale-sheen/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Undead._ One strike. Attacker chooses defending characters. Any character facing a strike whose mind is equal to or lower than the strike's prowess must tap if untapped following the strike (unless the strike is canceled). 
+> > _Undead._ One strike. Attacker chooses defending characters. Any character facing a strike whose mind is equal to or lower than the strike's prowess must tap if untapped following the strike (unless the strike is cancelled). 
 > > 
 > > {: .fs-3 } 
 > > _“...a wisp of pale sheen that...twisted like ghostly sheets unfurled by hidden hands."_ ***---&#65279;LotRIV*** 

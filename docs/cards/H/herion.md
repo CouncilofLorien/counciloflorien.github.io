@@ -25,7 +25,7 @@ permalink: /cards/herion/
 > Warrior/Ranger Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ Agent. 
+> > _**Unique.**_ _Agent._ 
 > > 
 > > {: .fs-3 } 
 > > _“Grandson of a renowned seafarer, Herion spent his early years in the verdant highlands near his wife's home in the Pinnath Gelin. Her murder embittered him, and he returned to the sea to seek his reckless revenge."_ ***---&#65279;Kuduk Lore***  

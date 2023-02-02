@@ -18,9 +18,6 @@ permalink: /cards/the-under-courts/
 > > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
 > > <div class="character-card-name">The Under-courts</div>
 >
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .character-card-classification .pr-2 }
 > Under-deeps
 >
@@ -37,9 +34,6 @@ permalink: /cards/the-under-courts/
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
 > > <div class="card-name">The Under-courts</div>
->
-> {: .minion-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Under-deeps
@@ -60,9 +54,6 @@ permalink: /cards/the-under-courts/
 > {: .balrog-site-text .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
 > > <div class="card-name">The Under-courts</div>
->
-> {: .balrog-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Under-deeps

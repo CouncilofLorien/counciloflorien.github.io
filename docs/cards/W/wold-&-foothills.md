@@ -21,7 +21,7 @@ permalink: /cards/wold-&-foothills/
 > > ![](/assets/images/wilderness.svg)
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Anduin Vales, Brown Lands, Fangorn, Redhorn Gate, Rohan 
+> > Anduin Vales, Brown Lands, Fangorn, Redhorn Gate, Rohan
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -34,5 +34,5 @@ permalink: /cards/wold-&-foothills/
 > > ![](/assets/images/wilderness.svg)
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Anduin Vales, Brown Lands, Fangorn, Redhorn Gate, Rohan 
+> > Anduin Vales, Brown Lands, Fangorn, Redhorn Gate, Rohan
 > 

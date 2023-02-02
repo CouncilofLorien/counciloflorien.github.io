@@ -22,5 +22,5 @@ permalink: /cards/palm-to-palm/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable on a company without a Wizard at a Haven \[![](/assets/images/free-haven.svg)]. Any character designated as tapping in support gives +1 to an influence attempt or to an attempt to remove a corruption card by any other character in the company. The mind of each character and ally in the company is increased by one. Discard when any play deck is exhausted, a Wizard joins the company, or any character in the company splits off into another company. 
+> > ***Playable on a company without a Wizard at a Haven \[![](/assets/images/free-haven.svg)].*** Any character designated as tapping in support gives +1 to an influence attempt or to an attempt to remove a corruption card by any other character in the company. The mind of each character and ally in the company is increased by one. Discard when any play deck is exhausted, a Wizard joins the company, or any character in the company splits off into another company. 
 > 

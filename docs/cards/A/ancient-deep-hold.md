@@ -18,9 +18,6 @@ permalink: /cards/ancient-deep-hold/
 > > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
 > > <div class="card-name">Ancient Deep-hold</div>
 >
-> {: .balrog-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Under-deeps
 >

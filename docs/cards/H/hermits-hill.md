@@ -18,9 +18,6 @@ permalink: /cards/hermits-hill/
 > > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
 > > <div class="character-card-name">Hermit's Hill</div>
 >
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .character-card-classification .pr-2 }
 > Wold & Foothills
 >

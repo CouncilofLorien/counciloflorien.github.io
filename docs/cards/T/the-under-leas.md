@@ -18,9 +18,6 @@ permalink: /cards/the-under-leas/
 > > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
 > > <div class="character-card-name">The Under-leas</div>
 >
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .character-card-classification .pr-2 }
 > Under-deeps
 >
@@ -38,9 +35,6 @@ permalink: /cards/the-under-leas/
 > > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
 > > <div class="card-name">The Under-leas</div>
 >
-> {: .minion-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
->
 > {: .hazard-classification .pr-2 }
 > Under-deeps
 >
@@ -57,9 +51,6 @@ permalink: /cards/the-under-leas/
 > {: .balrog-site-text .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
 > > <div class="card-name">The Under-leas</div>
->
-> {: .balrog-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hazard-classification .pr-2 }
 > Under-deeps

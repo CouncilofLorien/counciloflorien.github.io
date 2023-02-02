@@ -25,7 +25,7 @@ permalink: /cards/wormtongue/
 > Scout/Sage/Diplomat Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ Agent. +4 direct influence against Riders of Rohan and any character or minion that has Edoras as a home site. 
+> > _**Unique.**_ _Agent._ +4 direct influence against Riders of Rohan and any character or minion that has Edoras as a home site. 
 > > 
 > > {: .fs-3 } 
 > > _“At his feet upon the steps sat a wizened figure of a man, with a pale wise face and heavy-lidded eyes."_ ***---&#65279;LotRIII***  

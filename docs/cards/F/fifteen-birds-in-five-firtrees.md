@@ -22,5 +22,5 @@ permalink: /cards/fifteen-birds-in-five-firtrees/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable on a moving company facing a non-unique hazard creature if Gates of Morning is in play. All attacks of the creature are canceled and all attacks of the next non-unique hazard creature the company faces this turn are also canceled. An untapped character in the company must tap to face any strike from a subsequent hazard creature attack for the rest of the turn. The company can do nothing during its site phase unless it contains a Wizard or you discard Eagle-mounts from your hand. Cannot be duplicated on a given turn.  
+> > ***Playable on a moving company facing a non-unique hazard creature if Gates of Morning is in play.*** All attacks of the creature are cancelled **and** all attacks of the next non-unique hazard creature the company faces this turn are also cancelled. An untapped character in the company must tap to face any strike from a subsequent hazard creature attack for the rest of the turn. The company can do nothing during its site phase unless it contains a Wizard **or** you discard _Eagle-mounts_ from your hand. Cannot be duplicated on a given turn.  
 > 

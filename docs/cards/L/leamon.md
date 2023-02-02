@@ -25,7 +25,7 @@ permalink: /cards/leamon/
 > Warrior Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ Agent. 
+> > _**Unique.**_ _Agent._ 
 > > 
 > > {: .fs-3 } 
 > > _“Leamon grew up at Cameth Brin, in the shadow of the great 'Troll Tower,' and he carried an ageless spear a forefather won from a Dunadan venturer o fabled Lond Daer."_ ***---&#65279;Kuduk Lore***  

@@ -22,5 +22,5 @@ permalink: /cards/knowledge-of-the-enemy/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Stolen Knowledge._ Playable on an untapped character at a Shadow-hold \[![](/assets/images/shadow-hold.svg)] or Dark-hold \[![](/assets/images/dark-hold.svg)] or if his company faced an agent attack and all of its strikes failed. Tap character. Can be stored at a Haven \[![](/assets/images/free-haven.svg)]-only if stored do you receive its marshalling point. If stored, you may discard this card and force one non-unique hazard to be removed from the play as you see your opponent discard it through a mechanism of the game. 
+> > _Stolen Knowledge._ ***Playable on an untapped character at a Shadow-hold \[![](/assets/images/shadow-hold.svg)] or Dark-hold \[![](/assets/images/dark-hold.svg)] or if his company faced an agent attack and all of its strikes failed.*** Tap character. Can be stored at a Haven \[![](/assets/images/free-haven.svg)]---only if stored do you receive its marshalling point. If stored, you may discard this card and force one non-unique hazard to be removed from the play as you see your opponent discard it through a mechanism of the game. 
 > 

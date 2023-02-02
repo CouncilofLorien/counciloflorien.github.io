@@ -22,5 +22,5 @@ permalink: /cards/memories-recalled/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable on a character with a sage in his company. All dark enchantments on target character are discarded. Alternatively, a sage can tap and you can discard this card from your hand to fulfill the requirement that Lost Knowledge be discarded for any card played with the sage's company. 
+> > ***Playable on a character with a sage in his company.*** All dark enchantments on target character are discarded. <br>&ensp;Alternatively, a sage can tap and you can discard this card from your hand to fulfill the requirement that Lost Knowledge be discarded for any card played with the sage's company. 
 > 

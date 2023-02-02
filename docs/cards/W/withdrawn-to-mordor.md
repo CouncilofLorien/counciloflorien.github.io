@@ -22,7 +22,7 @@ permalink: /cards/withdrawn-to-mordor/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable on a face-up agent. If the agent has a mind of 5 or less, it is discarded. If its mind is 6 or greater, return the agent to its owner's hand. Alternatively, an on-guard card is discarded. 
+> > ***Playable on a face-up agent.*** If the agent has a mind of 5 or less, it is discarded. If its mind is 6 or greater, return the agent to its owner's hand. <br>&ensp;Alternatively, an on-guard card is discarded. 
 > > 
 > > {: .fs-3 } 
 > > _“‘He was loth to speak and his tale was unclear, but it is beyond all doubt that he went to Mordor, and there all that he knew was forced from him.’”_ ***---&#65279;LotRII*** 

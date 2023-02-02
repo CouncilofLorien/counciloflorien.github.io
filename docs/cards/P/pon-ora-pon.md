@@ -25,7 +25,7 @@ permalink: /cards/pon-ora-pon/
 > Scout/Ranger/Diplomat Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ Agent. +3 direct influence against Wose factions. 
+> > _**Unique.**_ _Agent._ +3 direct influence against Wose factions. 
 > > 
 > > {: .fs-3 } 
 > > _“...maybe a creature descended in true line through endless years from models used by forgotten craftsmen long ago."_ ***---&#65279;LotRV***  

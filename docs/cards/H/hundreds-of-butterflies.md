@@ -22,7 +22,7 @@ permalink: /cards/hundreds-of-butterflies/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable on a moving character during his movement/hazard phase. Untap the character and increase the hazard limit against his company by one. 
+> > ***Playable on a moving character during his movement/hazard phase.*** Untap the character and increase the hazard limit against his company by one. 
 > > 
 > > {: .fs-3 } 
 > > _“‘He looked at the 'black emperors' for a long time, and enjoyed the feel of the breeze in his hair and on his face...”_ ***---&#65279;Hob*** 

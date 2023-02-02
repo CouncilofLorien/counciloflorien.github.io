@@ -25,7 +25,7 @@ permalink: /cards/elerina/
 > Scout/Sage/Diplomat Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ Agent. Can use shadow-magic and spirit-magic. Agent only: may tap for an extra strike. 
+> > _**Unique.**_ _Agent._ Can use shadow-magic and spirit-magic. _Agent only:_ may tap for an extra strike. 
 > > 
 > > {: .fs-3 } 
 > > _“When the kingdom ended the Dunedain passed into shadows and became a secret and wandering people, and their deeds and labours were seldom sung or recorded."_ ***---&#65279;LotR***  

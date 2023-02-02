@@ -25,7 +25,7 @@ permalink: /cards/buthrakaur-the-green/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Troll._ 1 strike. Also playable at Moria and The Under-gates. If Doors of Night is in play, playable at any Under-deeps site. Any non-unique Orc or Troll hazard creature can be played (not counting against the hazard limit) on a company that has faced Buthrakaur that turn. 
+> > _**Unique.**_ Troll. 1 strike. Also playable at Moria and The Under-gates. If _Doors of Night_ is in play, playable at any Under-deeps site. Any non-unique Orc or Troll hazard creature can be played (not counting against the hazard limit) on a company that has faced _Buthrakaur_ that turn. 
 > > 
 > > {: .fs-3 } 
 > > _“The Uruk flew to the floor and offered the troll-king anything and any kin in return for his pitiful salvation."_ ***---&#65279;Kuduk Lore*** 
