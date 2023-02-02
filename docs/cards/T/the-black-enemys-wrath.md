@@ -22,5 +22,5 @@ permalink: /cards/the-black-enemys-wrath/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Each Under-deeps site, Dark-hold \[![](/assets/images/dark-hold.svg)], and Shadow-hold \[![](/assets/images/shadow-hold.svg)] has an additional automatic-attack (cannot be canceled): Lava Flows-1 strike against each character with 6 prowess (weapons do not modify prowess against these strikes). The penalty for an untapped character not tapping against one of these strikes is -5. Cannot be duplicated.  
+> > Each Under-deeps site, Dark-hold \[![](/assets/images/dark-hold.svg)], and Shadow-hold \[![](/assets/images/shadow-hold.svg)] has an additional automatic-attack (cannot be canceled): Lava Flows --- 1 strike against each character with 6 prowess (weapons do not modify prowess against these strikes). The penalty for an untapped character not tapping against one of these strikes is -5. Cannot be duplicated.  
 >

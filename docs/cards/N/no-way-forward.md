@@ -22,5 +22,5 @@ permalink: /cards/no-way-forward/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ The number of region cards that may be played by a moving company using region movement is reduced by one (two if Doors of Night is in play) to a minimum of two. This card is effective during each player's organization phase. Discard when any play deck is exhausted. Cannot be duplicated.  
+> > _Environment._ The number of region cards that may be played by a moving company using region movement is reduced by one (two if _Doors of Night_ is in play) to a minimum of two. This card is effective during each player's organization phase. Discard when any play deck is exhausted. Cannot be duplicated.  
 >

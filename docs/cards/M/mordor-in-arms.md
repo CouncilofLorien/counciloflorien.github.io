@@ -22,7 +22,7 @@ permalink: /cards/mordor-in-arms/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Any company moving in Nurn faces three attacks: Orcs-5 strikes with 8 prowess, Orcs-4 strikes with 10 prowess, Trolls-3 strikes with 12 prowess. If all three attacks are defeated by your opponent, he receives this card in his marshalling point pile and 2 kill marshalling points. Any attempt by a character to influence a faction playable at a site in Horse Plains, Khand, Harondor, Nurn, Gorgoroth, Imlad Morgul, or Udun is modified by -6 and cannot be done with Muster. 
+> > Any company moving in Nurn faces three attacks: Orcs --- 5 strikes with 8 prowess, Orcs --- 4 strikes with 10 prowess, Trolls --- 3 strikes with 12 prowess. If all three attacks are defeated by your opponent, he receives this card in his marshalling point pile and 2 kill marshalling points. Any attempt by a character to influence a faction playable at a site in Horse Plains, Khand, Harondor, Nurn, Gorgoroth, Imlad Morgul, or Udun is modified by -6 and cannot be done with _Muster_. 
 >
 
 ### _Middle-earth: The Balrog Reprint_

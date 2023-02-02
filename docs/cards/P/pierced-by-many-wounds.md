@@ -22,7 +22,7 @@ permalink: /cards/pierced-by-many-wounds/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on an attack with more strikes than defending character characters before strikes are assigned; does not count against the hazard limit. The first excess strike assigned to each character gives a -4 modification to his prowess instead of -1. Cannot be duplicated on a given attack. 
+> > ***Playable on an attack with more strikes than defending character characters before strikes are assigned;*** _does not count against the hazard limit._ The first excess strike assigned to each character gives a -4 modification to his prowess instead of -1. Cannot be duplicated on a given attack. 
 > > 
 > > {: .fs-3 } 
 > > _“...he was pierced by many black-feathered arrows...”_ ***---&#65279;LotRIII***  

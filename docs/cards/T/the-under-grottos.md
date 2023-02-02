@@ -22,7 +22,7 @@ permalink: /cards/the-under-grottos/
 > Under-deeps
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Goblin-gate (0), The Under-leas (8), The Under-gates (8) <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br> Orcs (1st attack)-4 strikes with 7 prowess (2nd attack)-Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold \[![](/assets/images/shadow-hold.svg)] <br>_**Special:**_ When any gold ring is tested in a company at this site, the result of the roll is modified by +2. 
+> > _**Adjacent Sites:**_ Goblin-gate (0), The Under-leas (8), The Under-gates (8) <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br> Orcs (1st attack) --- 4 strikes with 7 prowess (2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold \[![](/assets/images/shadow-hold.svg)] <br>_**Special:**_ When any gold ring is tested in a company at this site, the result of the roll is modified by +2. 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>

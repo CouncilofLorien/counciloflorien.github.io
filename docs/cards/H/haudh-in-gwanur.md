@@ -22,7 +22,7 @@ permalink: /cards/haudh-in-gwanur/
 > Harondor
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Undead-1 strike with 10 prowess; each character must make a corruption check  
+> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Undead --- 1 strike with 10 prowess; each character must make a corruption check  
 > > 
 > > {: .fs-3 } 
 > > _“The Riders buried them after the fashion of their people, and they were laid in one mound, for they were twin brothers."_ ***---&#65279;LotR*** 

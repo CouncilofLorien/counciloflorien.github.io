@@ -22,7 +22,7 @@ permalink: /cards/shadow-out-of-the-dark/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a face-up Agent who can use shadow-magic. If agent is revealed and not in a Free-hold \[![](/assets/images/free-hold.svg)] or Haven \[![](/assets/images/free-haven.svg)], he can tap to allow any Undead hazard creatures to be played at his site this turn. Any Undead hazard creature so played do not count against the hazard limit. 
+> > ***Playable on a face-up Agent who can use shadow-magic.*** If agent is revealed and not in a Free-hold \[![](/assets/images/free-hold.svg)] or Haven \[![](/assets/images/free-haven.svg)], he can tap to allow any Undead hazard creatures to be played at his site this turn. Any Undead hazard creature so played do not count against the hazard limit. 
 > > 
 > > {: .fs-3 } 
 > > _“A shadow came out of dark places far away... Barrow-wights walked in the hollow places with a clink of rings on cold fingers, and gold chains in the wind."_ ***---&#65279;LotRI***  

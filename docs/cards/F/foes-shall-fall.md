@@ -22,7 +22,7 @@ permalink: /cards/foes-shall-fall/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Corruption._ Playable on a non-Wizard character facing a strike from a Dragon or Drake hazard creature attack. If the strike is defeated, discard this card. If the strike is not defeated, place creature's card with Foes Shall Fall-creature is considered off to the side. Target character's company faces an attack from creature at the start of each movement/hazard phase if creature is playable. Discard associated creature's card if Foes shall Fall is discarded. Discard Foes Shall Fall if attached Dragon or Drake is defeated. If targeted character is a Dwarf, he receives 2 corruption points. 
+> > _Corruption._ ***Playable on a non-Wizard character facing a strike from a Dragon or Drake hazard creature attack.*** If the strike is defeated, discard this card. If the strike is not defeated, place creature's card with _Foes Shall Fall_---creature is considered off to the side. Target character's company faces an attack from creature at the start of each movement/hazard phase if creature is playable. Discard associated creature's card if _Foes shall Fall_ is discarded. Discard _Foes Shall Fall_ if attached Dragon or Drake is defeated. If targeted character is a Dwarf, he receives 2 corruption points. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

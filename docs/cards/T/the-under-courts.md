@@ -22,7 +22,7 @@ permalink: /cards/the-under-courts/
 > Under-deeps
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Barad-dur (0), The Sulfur-deeps (5), The Under-galleries (4) <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br> Trolls (1st attack)-3 strikes with 10 prowess (2nd attack)-Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Shadow-holds \[![](/assets/images/shadow-hold.svg)] <br>_**Special:**_ If any Nazgul permanent-event is in play, one must be used as an additional automatic-attack (attacker's choice, discard after use-ignore result of defeat). 
+> > _**Adjacent Sites:**_ Barad-dur (0), The Sulfur-deeps (5), The Under-galleries (4) <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br> Trolls (1st attack) --- 3 strikes with 10 prowess (2nd attack) --- Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Shadow-holds \[![](/assets/images/shadow-hold.svg)] <br>_**Special:**_ If any Nazgul permanent-event is in play, one must be used as an additional automatic-attack (attacker's choice, discard after use---ignore result of defeat). 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;4&ensp;</span></div>

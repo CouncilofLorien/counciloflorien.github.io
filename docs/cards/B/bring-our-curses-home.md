@@ -22,7 +22,7 @@ permalink: /cards/bring-our-curses-home/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Corruption._ Playable on a non-Wizard character whose company is facing a hazard creature attack. Discard this card if no character is eliminated by the attack. If any character is eliminated, place creature's card with this card-creature is considered off to the side. Target character's company faces an attack from creature at the start of each movement/hazard phase if creature is playable. Discard associated creature's card if this card is discarded. Discard this card if associated creature is defeated. 
+> > _Corruption._ ***Playable on a non-Wizard character whose company is facing a hazard creature attack.*** Discard this card if no character is eliminated by the attack. If any character is eliminated, place creature's card with this card---creature is considered off to the side. Target character's company faces an attack from creature at the start of each movement/hazard phase if creature is playable. Discard associated creature's card if this card is discarded. Discard this card if associated creature is defeated. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

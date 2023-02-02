@@ -22,7 +22,7 @@ permalink: /cards/which-might-be-lies/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a stored resource permanent-event that required an information site to be played. Discard event.   
+> > ***Playable on a stored resource permanent-event that required an information site to be played.*** Discard event.   
 > > 
 > > {: .fs-3 } 
 > > _“...'But Saruman said nay, and repeated what he had said to us before: that the One would never again be found in Middle-earth.’”_ ***---&#65279;LotRII*** 

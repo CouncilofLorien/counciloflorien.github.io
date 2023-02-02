@@ -22,5 +22,5 @@ permalink: /cards/tribal-banner/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on an Orc or Troll attack before strikes are assigned; does not count against the hazard limit. The prowess and body of target attack are each reduced by one. All body checks resulting from successful strikes are modified by +1. Cannot be duplicated on a given attack. 
+> > ***Playable on an Orc or Troll attack before strikes are assigned;*** _does not count against the hazard limit_. The prowess and body of target attack are each reduced by one. All body checks resulting from successful strikes are modified by +1. Cannot be duplicated on a given attack. 
 >

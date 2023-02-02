@@ -22,7 +22,7 @@ permalink: /cards/wound-of-long-burden/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Corruption._ Playable on an character facing a strike with prowess of 12 or greater. If the strike is not successful, discard this card. Otherwise, target character receives 1 corruption point and his body is lowered by 1. During his organization phase, a character at a Haven \[![](/assets/images/free-haven.svg)] with this card may tap to attempt to remove it. Make a roll (or draw a #): if this result is greater than 7, discard this card. 
+> > _Corruption._ ***Playable on an character facing a strike with prowess of 12 or greater.*** If the strike is not successful, discard this card. Otherwise, target character receives 1 corruption point and his body is lowered by 1. <br>&ensp;During his organization phase, a character at a Haven \[![](/assets/images/free-haven.svg)] with this card may tap to attempt to remove it. Make a roll (or draw a #): if this result is greater than 7, discard this card. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

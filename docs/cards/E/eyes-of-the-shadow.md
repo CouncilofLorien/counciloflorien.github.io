@@ -22,7 +22,7 @@ permalink: /cards/eyes-of-the-shadow/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ May only be played if Gates of Morning is not in play. The hazard limit is increased by two for each moving company with a size of less than four that also contains a Wizard or a non-ranger character with a mind of 6 or more. Cannot be duplicated. Discard when any play deck is exhausted. 
+> > _Environment._ May only be played if _Gates of Morning_ is not in play. The hazard limit is increased by two for each moving company with a size of less than four that also contains a Wizard or a non-ranger character with a mind of 6 or more. Cannot be duplicated. Discard when any play deck is exhausted. 
 > > 
 > > {: .fs-3 } 
 > > _“...a whole regiment of birds had broken away suddenly from the main host...”_ ***---&#65279;LotRII*** 

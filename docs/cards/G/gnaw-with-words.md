@@ -22,7 +22,7 @@ permalink: /cards/gnaw-with-words/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Tap a sage if another sage in his company or at his current site or at his new site. Alternatively, tap a diplomat if another diplomat is in his company or at his current site or at his new site.   
+> > Tap a sage if another sage in his company **or** at his current site **or** at his new site. <br>&ensp;Alternatively, tap a diplomat if another diplomat is in his company **or** at his current site **or** at his new site.   
 > > 
 > > {: .fs-3 } 
 > > _“‘Small comfort will those two have in their companionship: they will gnaw one another with words. ...If Wormtongue ever comes out of Orthanc alive, it will be more than he deserves.’”_ ***---&#65279;LotRIII*** 
