@@ -48,7 +48,7 @@ permalink: /cards/barrow-downs/
 > Cardolan
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Undead - 1 strike with 8 prowess; each character wounded must make a corruption check  
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Undead --- 1 strike with 8 prowess; each character wounded must make a corruption check  
 > > 
 > > {: .fs-3 } 
 > > _“...the green mounds, and the stone-rings upon the hills and on the hollows...”_ ***---&#65279;LotRI*** 

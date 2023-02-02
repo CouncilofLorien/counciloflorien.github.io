@@ -25,10 +25,10 @@ permalink: /cards/the-white-towers/
 > Arthedain
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Automatic-attacks:**_<br> Wolves - 2 strikes with 6 prowess 
+> > _**Nearest Haven:**_ Rivendell <br>_**Automatic-attacks:**_<br> Wolves --- 2 strikes with 6 prowess 
 > > 
 > > {: .fs-3 } 
-> > _“Three Elf-towers of immemorial age were still to be seen beyond the western marshes. They shone far off in the moonlight. The tallest was furthest away, standing alone upon a green hill."_ ***---&#65279;LotRI***
+> > _“Three Elf-towers of immemorial age were still to be seen beyond the western marches. They shone far off in the moonlight. The tallest was furthest away, standing alone upon a green hill."_ ***---&#65279;LotRI***
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -48,10 +48,10 @@ permalink: /cards/the-white-towers/
 > Arthedain
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Automatic-attacks:**_<br> Wolves - 2 strikes with 6 prowess 
+> > _**Nearest Haven:**_ Rivendell <br>_**Automatic-attacks:**_<br> Wolves --- 2 strikes with 6 prowess 
 > > 
 > > {: .fs-3 } 
-> > _“Three Elf-towers of immemorial age were still to be seen beyond the western marshes. They shone far off in the moonlight. The tallest was furthest away, standing alone upon a green hill."_ ***---&#65279;LotRI***
+> > _“Three Elf-towers of immemorial age were still to be seen beyond the western marches. They shone far off in the moonlight. The tallest was furthest away, standing alone upon a green hill."_ ***---&#65279;LotRI***
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>

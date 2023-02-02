@@ -25,7 +25,7 @@ permalink: /cards/lorien/
 > Wold & Foothills
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Site Path From Rivendell: \[![](/assets/images/wilderness.svg)] \[![](/assets/images/wilderness.svg)] \[![](/assets/images/border-land.svg)] \[![](/assets/images/wilderness.svg)] Site Path From Edhellond: \[![](/assets/images/wilderness.svg)] \[![](/assets/images/border-land.svg)] \[![](/assets/images/free-domain.svg)] \[![](/assets/images/free-domain.svg)] \[![](/assets/images/border-land.svg)] \[![](/assets/images/wilderness.svg)]  
+> > ***Site Path From Rivendell:*** <br>&emsp;![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg) <br>***Site Path From Edhellond:*** <br>&emsp;![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/free-domain.svg) ![](/assets/images/free-domain.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg) 
 > > 
 > > {: .fs-3 } 
 > > _“‘There are no trees like the trees of that land. For in autumn their leaves fall not, but turn to gold. Not till the spring comes...do they fall, and then the boughs are laden with golden flowers...’”_ ***---&#65279;LotRII*** 
@@ -48,7 +48,7 @@ permalink: /cards/lorien/
 > Wold & Foothills
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Site Path From Rivendell: \[![](/assets/images/wilderness.svg)] \[![](/assets/images/wilderness.svg)] \[![](/assets/images/border-land.svg)] \[![](/assets/images/wilderness.svg)] Site Path From Edhellond: \[![](/assets/images/wilderness.svg)] \[![](/assets/images/border-land.svg)] \[![](/assets/images/free-domain.svg)] \[![](/assets/images/free-domain.svg)] \[![](/assets/images/border-land.svg)] \[![](/assets/images/wilderness.svg)]  
+> > ***Site Path From Rivendell:*** <br>&emsp;![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg) <br>***Site Path From Edhellond:*** <br>&emsp;![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/free-domain.svg) ![](/assets/images/free-domain.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg) 
 > > 
 > > {: .fs-3 } 
 > > _“‘There are no trees like the trees of that land. For in autumn their leaves fall not, but turn to gold. Not till the spring comes...do they fall, and then the boughs are laden with golden flowers...’”_ ***---&#65279;LotRII*** 

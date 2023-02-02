@@ -48,7 +48,7 @@ permalink: /cards/isengard/
 > Gap of Isen
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br> Wolves - 3 strikes with 7 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br> Wolves --- 3 strikes with 7 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...four mighty piers of many-sided stone were welded into one, but near the summit they opened into gaping horns, their pinnacles sharp as the points of spears."_ ***---&#65279;LotRIII*** 

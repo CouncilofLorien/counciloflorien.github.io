@@ -48,7 +48,7 @@ permalink: /cards/shelobs-lair/
 > Imlad Morgul
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - 2 strikes with 8 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs --- 2 strikes with 8 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...the air was still, stagnant, heavy, and sound fell dead. They walked...in a black vapour wrought of veritable darkness itself that, as it breathed, brought blindness...”_ ***---&#65279;LotRIV*** 

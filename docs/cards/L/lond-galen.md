@@ -28,7 +28,7 @@ permalink: /cards/lond-galen/
 > > _**Nearest Haven:**_ Edhellond  
 > > 
 > > {: .fs-3 } 
-> > _“‘Or we might pass by and cross the Isen into Langstrans and Lebennin, and so come to Gondor from the regions nigh to the sea.’”_ ***---&#65279;LotRII*** 
+> > _“‘Or we might pass by and cross the Isen into Langstrand and Lebennin, and so come to Gondor from the regions nigh to the sea.’”_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -51,7 +51,7 @@ permalink: /cards/lond-galen/
 > > _**Nearest Haven:**_ Edhellond  
 > > 
 > > {: .fs-3 } 
-> > _“‘Or we might pass by and cross the Isen into Langstrans and Lebennin, and so come to Gondo from the regions nigh to the sea.’”_ ***---&#65279;LotRII*** 
+> > _“‘Or we might pass by and cross the Isen into Langstrand and Lebennin, and so come to Gondor from the regions nigh to the sea.’”_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>

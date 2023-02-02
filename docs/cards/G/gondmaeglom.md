@@ -25,7 +25,7 @@ permalink: /cards/gondmaeglom/
 > Grey Mountain Narrows
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br> Dragon-1 strike with 14 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br> Dragon --- 1 strike with 14 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“The lofty peak of the central Grey Mountains harbors a vast cache of stolen treasure within its stony bones."_ ***---&#65279;Kuduk Lore*** 

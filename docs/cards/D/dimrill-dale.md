@@ -48,7 +48,7 @@ permalink: /cards/dimrill-dale/
 > Redhorn Gate
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Orcs - 1 strike with 6 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Orcs --- 1 strike with 6 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“Northward the dale ran up into a glen of shadows between two great arms of the mountains, above which three white peaks were shining...”_ ***---&#65279;LotRII*** 

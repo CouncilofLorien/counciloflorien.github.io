@@ -25,7 +25,7 @@ permalink: /cards/zarak-dum/
 > Angmar
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Dragon-1 strike with 11 prowess  
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Dragon --- 1 strike with 11 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“The intricate and exquisite Dwarven city delved into the mountains of Angmar was abandoned in the aftermath of a deadly pestilence."_ ***---&#65279;Kuduk Lore*** 

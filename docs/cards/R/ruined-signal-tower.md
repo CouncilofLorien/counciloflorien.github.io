@@ -48,7 +48,7 @@ permalink: /cards/ruined-signal-tower/
 > Enedhwaith
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Spiders - 2 strikes with 8 prowess  
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Spiders --- 2 strikes with 8 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘But long before, in the first days of the North Kingdom, they built a great watch-tower... It was burned down and broken, and nothing remains of it now but a tumbled ring...’”_ ***---&#65279;LotRI*** 

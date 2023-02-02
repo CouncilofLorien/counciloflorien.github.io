@@ -25,7 +25,7 @@ permalink: /cards/edhellond/
 > Anfalas
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Site Path From Grey Havens: \[![](/assets/images/free-domain.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/wilderness.svg)] Site Path From Lorien: \[![](/assets/images/wilderness.svg)] \[![](/assets/images/border-land.svg)] \[![](/assets/images/free-domain.svg)] \[![](/assets/images/free-domain.svg)] \[![](/assets/images/border-land.svg)] \[![](/assets/images/wilderness.svg)]  
+> > ***Site Path From Grey Havens:*** <br>&emsp;![](/assets/images/free-domain.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/wilderness.svg)] <br>***Site Path From Lorien:*** <br>&emsp;![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/free-domain.svg) ![](/assets/images/free-domain.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg) 
 > > 
 > > {: .fs-3 } 
 > > _“It is long since the people of Nimrodel left the woodlands of Lorien, and yet one may see that not all sailed from Amroth's haven west over water."_ ***---&#65279;LotRV*** 
@@ -48,7 +48,7 @@ permalink: /cards/edhellond/
 > Anfalas
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Site Path From Grey Havens: \[![](/assets/images/free-domain.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/wilderness.svg)] Site Path From Lorien: \[![](/assets/images/wilderness.svg)] \[![](/assets/images/border-land.svg)] \[![](/assets/images/free-domain.svg)] \[![](/assets/images/free-domain.svg)] \[![](/assets/images/border-land.svg)] \[![](/assets/images/wilderness.svg)]  
+> > ***Site Path From Grey Havens:*** <br>&emsp;![](/assets/images/free-domain.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/wilderness.svg)] <br>***Site Path From Lorien:*** <br>&emsp;![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/free-domain.svg) ![](/assets/images/free-domain.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg) 
 > > 
 > > {: .fs-3 } 
 > > _“It is long since the people of Nimrodel left the woodlands of Lorien, and yet one may see that not all sailed from Amroth's haven west over water."_ ***---&#65279;LotRV*** 

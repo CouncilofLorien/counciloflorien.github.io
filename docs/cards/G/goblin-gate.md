@@ -48,7 +48,7 @@ permalink: /cards/goblin-gate/
 > High Pass
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 6 prowess  
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Orcs --- 3 strikes with 6 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“It was deep, deep dark, such as only goblins...living in the heart of the mountains can see through. The passages there were crossed and tangled in all directions...”_ ***---&#65279;Hob*** 

@@ -25,7 +25,7 @@ permalink: /cards/rhosgobel/
 > Southern Mirkwood
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor) <br>_**Special:**_ Healing effects affect all characters at the site  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor) <br>_**Special:**_ Healing Cards affect all characters at the site  
 > > 
 > > {: .fs-3 } 
 > > _“‘It was Radagast the Brown, who at one time dwelt at Rhosgobel, near the borders of Mirkwood.’”_ ***---&#65279;LotRII*** 
@@ -48,7 +48,7 @@ permalink: /cards/rhosgobel/
 > Southern Mirkwood
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor) <br>_**Special:**_ Healing effects affect all characters at the site  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor) <br>_**Special:**_ Healing Cards affect all characters at the site  
 > > 
 > > {: .fs-3 } 
 > > _“‘It was Radagast the Brown, who at one time dwelt at Rhosgobel, near the borders of Mirkwood.’”_ ***---&#65279;LotRII*** 

@@ -48,7 +48,7 @@ permalink: /cards/sarn-goriwing/
 > Heart of Mirkwood
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 5 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs --- 3 strikes with 5 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...there, parting the tumbling waters of the Enchanted River, stood a shadowy spire that served as fast hold for those who would remake the great Greenwood."_ ***---&#65279;Kuduk Lore*** 

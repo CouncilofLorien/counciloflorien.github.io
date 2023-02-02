@@ -31,7 +31,7 @@ permalink: /cards/the-lonely-mountain/
 > > _“And far away, its dark head in a torn cloud, there loomed the Mountain! ...All alone it rose...”_ ***---&#65279;Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
-> > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
+> > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -48,13 +48,13 @@ permalink: /cards/the-lonely-mountain/
 > Northern Rhovanion
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon - 1 strike with 14 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon --- 1 strike with 14 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“And far away, its dark head in a torn cloud, there loomed the Mountain! ...All alone it rose...”_ ***---&#65279;Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
-> > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
+> > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Lidless Eye_

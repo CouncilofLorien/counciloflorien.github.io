@@ -31,7 +31,7 @@ permalink: /cards/southron-oasis/
 > > _“...his chief peril lay in the south, where the Haradrim had occupied South Gondor, and there was much fighting in along the Poros."_ ***---&#65279;LotR*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
-> > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
+> > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -54,7 +54,7 @@ permalink: /cards/southron-oasis/
 > > _“...his chief peril lay in the south, where the Haradrim had occupied South Gondor, and there was much fighting in along the Poros."_ ***---&#65279;LotR*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
-> > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
+> > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth: The Lidless Eye_

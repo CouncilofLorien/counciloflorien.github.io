@@ -25,7 +25,7 @@ permalink: /cards/mount-doom/
 > Gorgoroth
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Special:**_ Any company moving to Mount Doom has its hazard limit modified by +2 and hazard creatures may always be keyed to the site regardless of any other cards played. 
+> > _**Nearest Haven:**_ Lorien <br>_**Special:**_ Any company moving to Mount Doom has its hazard limit modified by +2 **and** hazard creatures may always be keyed to the site regardless of any other cards played. 
 > > 
 > > {: .fs-3 } 
 > > _“...a huge mass of ash and slag and burned stone...a sheer-sided cone...”_ ***---&#65279;LotRVI*** 
@@ -48,7 +48,7 @@ permalink: /cards/mount-doom/
 > Gorgoroth
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Special:**_ Any company moving to Mount Doom has its hazard limit modified by +2 and hazard creatures may always be keyed to the site regardless of any other cards played. 
+> > _**Nearest Haven:**_ Lorien <br>_**Special:**_ Any company moving to Mount Doom has its hazard limit modified by +2 **and** hazard creatures may always be keyed to the site regardless of any other cards played. 
 > > 
 > > {: .fs-3 } 
 > > _“...a huge mass of ash and slag and burned stone...a sheer-sided cone...”_ ***---&#65279;LotRVI*** 

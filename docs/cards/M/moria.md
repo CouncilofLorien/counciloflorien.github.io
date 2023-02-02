@@ -48,7 +48,7 @@ permalink: /cards/moria/
 > Redhorn Gate
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Orcs - 4 strikes with 7 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Orcs --- 4 strikes with 7 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“In the pale ray of the wizard's staff...glimpses of stairs and arches, and of other passages and tunnels...”_ ***---&#65279;LotRII*** 

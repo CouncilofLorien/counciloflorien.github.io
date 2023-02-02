@@ -25,7 +25,7 @@ permalink: /cards/grey-havens/
 > Lindon
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Site Path From Rivendell: \[![](/assets/images/wilderness.svg)] \[![](/assets/images/wilderness.svg)] \[![](/assets/images/free-domain.svg)] Site Path From Edhellond: \[![](/assets/images/wilderness.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/free-domain.svg)]  
+> > ***Site Path From Rivendell:*** <br>&emsp;![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/free-domain.svg)] <br>***Site Path From Edhellond:*** <br>&emsp;![](/assets/images/wilderness.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/free-domain.svg) 
 > > 
 > > {: .fs-3 } 
 > > _“...so they rode down at last to Mithlond, to the Grey Havens in the long firth of Lune... As they came to the gates Cirdan the shipwright came forth to greet them."_ ***---&#65279;LotRVI*** 
@@ -48,7 +48,7 @@ permalink: /cards/grey-havens/
 > Lindon
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Site Path From Rivendell: \[![](/assets/images/wilderness.svg)] \[![](/assets/images/wilderness.svg)] \[![](/assets/images/free-domain.svg)] Site Path From Edhellond: \[![](/assets/images/wilderness.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/free-domain.svg)]  
+> > ***Site Path From Rivendell:*** <br>&emsp;![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/free-domain.svg)] <br>***Site Path From Edhellond:*** <br>&emsp;![](/assets/images/wilderness.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/free-domain.svg) 
 > > 
 > > {: .fs-3 } 
 > > _“...so they rode down at last to Mithlond, to the Grey Havens in the long firth of Lune... As they came to the gates Cirdan the shipwright came forth to greet them."_ ***---&#65279;LotRVI*** 
