@@ -22,5 +22,5 @@ permalink: /cards/dragons-breath/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on an attack by a True Fire-Drake, by a Winged Fire-Drake, or by any manifestations of Itangast, Leucaruth, Scorba, or Smaug (must be played before strikes are assigned). Each character in the company being attacked must immediately face one strike equal to the attack's prowess. Instead of using prowess against the strike, each character uses his body modified by +1 if he has a shield, by +1 if he has a helmet, and by +3 if he taps. The target attack which follows receives +1 body and -2 prowess. Cannot be duplicated on a given attack. 
+> > _**Playable on an attack by a True Fire-Drake, by a Winged Fire-Drake, or by any manifestations of Itangast, Leucaruth, Scorba, or Smaug** (must be played before strikes are assigned)._ Each character in the company being attacked must immediately face one strike equal to the attack's prowess. Instead of using prowess against the strike, each character uses his body modified by +1 if he has a shield, by +1 if he has a helmet, and by +3 if he taps. The target attack which follows receives +1 body and -2 prowess. Cannot be duplicated on a given attack. 
 >

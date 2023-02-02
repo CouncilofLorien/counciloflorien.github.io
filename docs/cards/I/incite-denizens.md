@@ -22,7 +22,7 @@ permalink: /cards/incite-denizens/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Creates an additional automatic-attack at a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] until the end of the turn. This is an exact duplicate (including all existing and eventual modifications to prowess, etc.) of an existing automatic-attack of your choice at the site. This automatic-attack is faced after the automatic attack it duplicates. Cannot be duplicated on a given site. 
+> > Creates an additional automatic-attack at a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] until the end of the turn. This is an exact duplicate (including all existing and eventual modifications to prowess, etc.) of an existing automatic-attack of your choice at the site. This automatic-attack is faced after the automatic attack it duplicates. <br>&ensp;Cannot be duplicated on a given site. 
 >
 
 ### _Middle-earth: The Lidless Eye_

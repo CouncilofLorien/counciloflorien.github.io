@@ -25,7 +25,7 @@ permalink: /cards/mount-gundabad/
 > Gundabad
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Orcs - 2 strikes with 8 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Orcs --- 2 strikes with 8 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...around and beneath the great mountain Gundabad of the North...a vast host was assembled...”_ ***---&#65279;Hob*** 

@@ -25,7 +25,7 @@ permalink: /cards/ettenmoors/
 > Rhudaur
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br> Troll - 1 strike with 9 prowess  
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br> Troll --- 1 strike with 9 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘We have now come to the River Hoarwell...It flows down out of the Ettenmoors, the troll-fells north of Rivendell...’”_ ***---&#65279;LotRI*** 

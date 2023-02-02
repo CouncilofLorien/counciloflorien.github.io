@@ -22,5 +22,5 @@ permalink: /cards/subtlety-of-guile/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The body of one non-Wizard character wounded by a Dragon attack is lowered by 1 unil the end of the turn. Alternatively, lowers the body of one non-Wizard character wounded by a manifestation of Itangast by 2 until the end of turn or lowers the body check of each non-Wizard character in a company facing an attack by a manifestation of Itangast by one until the end of the turn. Cannot be duplicated on a given character or company. 
+> > The body of one non-Wizard character wounded by a Dragon attack is lowered by 1 unil the end of the turn. <br>&ensp;Alternatively, lowers the body of one non-Wizard character wounded by a manifestation of _Itangast_ by 2 until the end of turn **or** lowers the body check of each non-Wizard character in a company facing an attack by a manifestation of _Itangast_ by one until the end of the turn. <br>&ensp;Cannot be duplicated on a given character or company. 
 >

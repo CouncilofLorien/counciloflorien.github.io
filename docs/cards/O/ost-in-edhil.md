@@ -25,7 +25,7 @@ permalink: /cards/ost-in-edhil/
 > Hollin
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Wolves - 3 strikes with 5 prowess  
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Wolves --- 3 strikes with 5 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘There is a wholesome air about Hollin. Much evil must befall a country before it wholly forgets the Elves, if once they dwelt there.’”_ ***---&#65279;LotRII*** 

@@ -25,7 +25,7 @@ permalink: /cards/cirith-ungol/
 > Imlad Morgul
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Orcs - 4 strike with 7 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Orcs --- 4 strike with 7 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...three great tiers...jutted out in pointed bastions, one above the other, diminishing as they rose, with sheer sides of cunning masonry...”_ ***---&#65279;LotRVI*** 

@@ -25,7 +25,7 @@ permalink: /cards/the-lonely-mountain/
 > Northern Rhovanion
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon - 1 strike with 14 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon --- 1 strike with 14 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“And far away, its dark head in a torn cloud, there loomed the Mountain! ...All alone it rose...”_ ***---&#65279;Hob*** 

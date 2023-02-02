@@ -22,7 +22,7 @@ permalink: /cards/scatha-ahunt/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ Any company moving in Withered Heath, Woodland Realm, Northern Rhovanion, and/or Grey Mountain Narrows immediately faces one Dragon attack (considered a hazard creature attack)-4 strikes at 13/8. If Doors of Night is in play, this attack also affects: Anduin Vales, Western Mirkwood, Heart of Mirkwood, and Gundabad. 
+> > _**Unique.**_ Any company moving in Withered Heath, Woodland Realm, Northern Rhovanion, and/or Grey Mountain Narrows immediately faces one Dragon attack (considered a hazard creature attack) --- 4 strikes at 13/8. <br>&ensp;If _Doors of Night_ is in play, this attack also affects: Anduin Vales, Western Mirkwood, Heart of Mirkwood, and Gundabad. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 13/8 】</div>

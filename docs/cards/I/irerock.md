@@ -25,7 +25,7 @@ permalink: /cards/irerock/
 > Withered Heath
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon - 1 strike with 14 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon --- 1 strike with 14 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“The wind was on the withered heath...and like a tide it roared and rolled...and swept above the dragon's lair...”_ ***---&#65279;Hob*** 

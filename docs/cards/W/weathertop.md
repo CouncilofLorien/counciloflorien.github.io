@@ -25,7 +25,7 @@ permalink: /cards/weathertop/
 > Arthedain
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Wolves - 2 strikes with 6 prowess  
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Wolves --- 2 strikes with 6 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“On the top they found...a wide ring of ancient stone-work, now crumbling or covered with age-long grass. But in the centre a cairn of broken stones had been piled."_ ***---&#65279;LotRI*** 

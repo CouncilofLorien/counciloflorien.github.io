@@ -22,7 +22,7 @@ permalink: /cards/itangast-ahunt/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ Any company moving in Withered Heath, Northern Rhovanion, Iron Hills, and/or Grey Mountain Narrows immediately faces one Dragon attack (considered a hazard creature attack)-4 strikes at 16/7. If Doors of Night is in play, this attack also affects: Southern Rhovanion, Dorwinion, Heart of Mirkwood, and Woodland Realm. 
+> > _**Unique.**_ Any company moving in Withered Heath, Northern Rhovanion, Iron Hills, and/or Grey Mountain Narrows immediately faces one Dragon attack (considered a hazard creature attack) --- 4 strikes at 16/7. <br>&ensp;If _Doors of Night_ is in play, this attack also affects: Southern Rhovanion, Dorwinion, Heart of Mirkwood, and Woodland Realm. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 16/7 】</div>

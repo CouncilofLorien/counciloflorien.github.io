@@ -25,7 +25,7 @@ permalink: /cards/carn-dum/
 > Angmar
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Orcs - 4 strikes with 7 prowess  
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Orcs --- 4 strikes with 7 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...They were foes of the Dark Lord, but they were overcome by the evil king of Carn Dum in the Land of Angmar."_ ***---&#65279;LotRI*** 

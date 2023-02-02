@@ -25,7 +25,7 @@ permalink: /cards/mount-gram/
 > Angmar
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 6 prowess  
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs --- 3 strikes with 6 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“He charged the ranks of the goblins of Mount Gram in the Battle of the Green Fields, and knocked their king Golfimbul's head clean off with a wooden club."_ ***---&#65279;Hob*** 

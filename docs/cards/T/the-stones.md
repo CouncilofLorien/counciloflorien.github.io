@@ -25,7 +25,7 @@ permalink: /cards/the-stones/
 > Andrast
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Pukel-creature - 2 strikes with 9 prowess  
+> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Pukel-creature --- 2 strikes with 9 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“Gold was piled on the biers of dead kings and queens; and mounds covered them, and the stone doors were shut; and grass grew over all."_ ***---&#65279;LotRI*** 

@@ -25,7 +25,7 @@ permalink: /cards/barad-dur/
 > Gorgoroth
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br> Orcs - 4 strikes with 7 prowess, Trolls - 3 strikes with 9 prowess <br>_**Special:**_ Any company moving to Barad-dur has its hazard limit modified by +2. 
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br> Orcs --- 4 strikes with 7 prowess <br>Trolls --- 3 strikes with 9 prowess <br>_**Special:**_ Any company moving to Barad-dur has its hazard limit modified by +2. 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;3&ensp;</span><span class="hero-opp-draw">&ensp;6&ensp;</span></div>

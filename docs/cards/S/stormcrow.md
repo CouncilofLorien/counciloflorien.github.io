@@ -22,5 +22,5 @@ permalink: /cards/stormcrow/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The direct influence of each Wizard is reduced by 2 (by 4 if Doors of Night is in play). Discard all resource permanent-events that have been played on each company with a Wizard (i.e., on the company as a whole, not individual characters, e.g., Fellowship). No such cards may be played on each Wizard's company. Discard this card when any play deck is exhausted. Cannot be duplicated. 
+> > The direct influence of each Wizard is reduced by 2 (by 4 if _Doors of Night_ is in play). Discard all resource permanent-events that have been played on each company with a Wizard (i.e., on the company as a whole, not individual characters, e.g., _Fellowship_). No such cards may be played on each Wizard's company. <br>&ensp;Discard this card when any play deck is exhausted. Cannot be duplicated. 
 >

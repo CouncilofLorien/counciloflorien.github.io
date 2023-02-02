@@ -25,7 +25,7 @@ permalink: /cards/isles-of-the-dead-that-live/
 > Eriadoran Coast
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Grey Havens <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br> Undead - 2 strikes with 8 prowess; each character wounded must make a corruption check  
+> > _**Nearest Haven:**_ Grey Havens <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br> Undead --- 2 strikes with 8 prowess; each character wounded must make a corruption check  
 > > 
 > > {: .fs-3 } 
 > > _“Tinuviel was dancing there To music of a pipe unseen...”_ ***---&#65279;LotRI*** 

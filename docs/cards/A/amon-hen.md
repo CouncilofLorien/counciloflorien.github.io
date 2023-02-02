@@ -25,7 +25,7 @@ permalink: /cards/amon-hen/
 > Rohan
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Information, Items (minor) <br>_**Automatic-attacks:**_<br> Undead - 1 strike with 6 prowess; each character wounded must make a corruption check  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Information, Items (minor) <br>_**Automatic-attacks:**_<br> Undead --- 1 strike with 6 prowess; each character wounded must make a corruption check  
 > > 
 > > {: .fs-3 } 
 > > _“...the Hill of the Eye of the Men of Numenor."_ ***---&#65279;LotRII*** 

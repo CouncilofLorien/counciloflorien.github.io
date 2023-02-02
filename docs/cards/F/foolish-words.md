@@ -22,7 +22,7 @@ permalink: /cards/foolish-words/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Any riddling roll, offering attempt, or influence attempt by the target character is modified by -4. If placed on-guard, it may be revealed and played when a character in the company declares a riddling, offering, or influence attempt. During the organization phase, a character with this card may tap to attempt to remove it. Make a roll (or draw a #): if this result is greater than 7, discard this card. Cannot be duplicated. 
+> > Any riddling roll, offering attempt, or influence attempt by the target character is modified by -4. If placed on-guard, it may be revealed and played when a character in the company declares a riddling, offering, or influence attempt. <br>&ensp;During the organization phase, a character with this card may tap to attempt to remove it. Make a roll (or draw a #): if this result is greater than 7, discard this card.
 >
 
 ### _Middle-earth: The Lidless Eye_

@@ -25,7 +25,7 @@ permalink: /cards/dead-marshes/
 > Dagorlad
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Undead - 2 strikes with 8 prowess; each character wounded must make a corruption check  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Undead --- 2 strikes with 8 prowess; each character wounded must make a corruption check  
 > > 
 > > {: .fs-3 } 
 > > _“...opening into wide stagnant meres,...difficult to find the firmer places...”_ ***---&#65279;LotRIV*** 

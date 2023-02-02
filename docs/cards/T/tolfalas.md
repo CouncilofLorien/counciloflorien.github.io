@@ -25,7 +25,7 @@ permalink: /cards/tolfalas/
 > Mouths of the Anduin
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major, greater\*) \*-Scroll of Isildur only <br>_**Automatic-attacks:**_<br> Undead - 3 strikes with 7 prowess; each character wounded must make a corruption check  
+> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major, greater\*) \*-Scroll of Isildur only <br>_**Automatic-attacks:**_<br> Undead --- 3 strikes with 7 prowess; each character wounded must make a corruption check  
 > > 
 > > {: .fs-3 } 
 > > _“Tolfalas, the great Coastal Island, ...guards the heartland of Gondor...”_ ***---&#65279;Kuduk Lore*** 

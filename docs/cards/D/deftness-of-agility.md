@@ -22,7 +22,7 @@ permalink: /cards/deftness-of-agility/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > A Dragon can assign a strike (with a -3 modification to its prowess) to a character already assigned to receive one of its strikes. Alternatively, a manifestation of Bairanax can direct such a strike with no prowess modification. 
+> > A Dragon can assign a strike (with a -3 modification to its prowess) to a character already assigned to receive one of its strikes. <br>&ensp;Alternatively, a manifestation of _Bairanax_ can direct such a strike with no prowess modification. 
 > > 
 > > {: .fs-3 } 
 > > _“Not Gollum himself could have twisted more quickly or more fiercely."_ ***---&#65279;LotRIV*** 

@@ -25,7 +25,7 @@ permalink: /cards/himring/
 > Elven Shores
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Grey Havens <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Undead - 1 strike with 8 prowess; each character wounded must make a corruption check  
+> > _**Nearest Haven:**_ Grey Havens <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Undead --- 1 strike with 8 prowess; each character wounded must make a corruption check  
 > > 
 > > {: .fs-3 } 
 > > _“...on starless waters far astray...and foundered shores that drowned...”_ ***---&#65279;LotRII*** 

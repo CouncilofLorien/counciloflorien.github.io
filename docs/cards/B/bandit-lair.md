@@ -25,7 +25,7 @@ permalink: /cards/bandit-lair/
 > Brown Lands
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Men - 3 strikes with 6 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Men --- 3 strikes with 6 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...There were all the baggages and packages lying broken open, and being rummaged by goblins, and smelt by goblins, and fingered by goblins, and quarreled over by goblins."_ ***---&#65279;Hob*** 

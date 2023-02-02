@@ -22,7 +22,7 @@ permalink: /cards/icy-touch/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The prowess of one Undead attack is modified by +1. Corruption. The next character wounded by the attack (on whom a corruption card has not already been played this turn) receives 2 corruption points (place this card with the character). Discard Icy Touch if it is not played with a character. During the organization phase, a character with this card may tap and attempt to remove it. Make a roll (or draw a #): if this result is greater than 6, discard this card. 
+> > The prowess of one Undead attack is modified by +1. <br>&ensp;_Corruption._ The next character wounded by the attack (on whom a corruption card has not already been played this turn) receives 2 corruption points (place this card with the character). Discard _Icy Touch_ if it is not played with a character. <br>&ensp;During his organization phase, a character with this card may tap and attempt to remove it. Make a roll (or draw a #): if this result is greater than 6, discard this card. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

@@ -22,5 +22,5 @@ permalink: /cards/noose-of-the-sea/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Affects each company with a Coastal Sea \[![](/assets/images/coastalsea.svg)] in its site path. The on-going effects of all resource short-events that were played during the organization phase are cancelled for the duration of the movement/hazard phase and the site phase. Such short-events have no effect on this card (i.e., it may not canceled by such a short-event). 
+> > Affects each company with a Coastal Sea \[![](/assets/images/coastalsea.svg)] in its site path. The on-going effects of all resource short-events that were played during the organization phase are cancelled for the duration of the movement/hazard phase and the site phase. Such short-events have no effect on this card (i.e., it may not cancelled by such a short-event). 
 >
