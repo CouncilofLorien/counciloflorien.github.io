@@ -50,6 +50,9 @@ exclude:
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/counciloflorien.svg"
 
+# Added this
+favicon_ico: "/assets/images/favicon.ico"
+
 # Enable or disable the site search
 # Supports true (default) or false
 search_enabled: false
