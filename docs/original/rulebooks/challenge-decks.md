@@ -7,14 +7,6 @@ nav_order: 10
 permalink: /original/rulebooks/challenge-decks/
 ---
 
-<style>
-  mecd {
-  font-style: normal;
-  font-weight: 900;
-  font-family: Arial;
-}
-</style>
-
 <details>
 <summary>Rules as Published</summary>
 <a href="/assets/files/Middle-earth%20Challenge%20Decks.pdf"><img src="/assets/images/mecd-cover.gif"></a>
