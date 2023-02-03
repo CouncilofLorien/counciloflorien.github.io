@@ -18,7 +18,7 @@ permalink: /cards/galadriel/
 > > <div class="card-mp">3</div>
 > > <div class="character-card-name">Galadriel</div>
 >
-> {: .character-frame .black-text .p-1 .pl-2 }
+> {: .character-frame .black-text .mind-di .p-1 .pl-2 }
 > > 9 ![](/assets/images/mind.svg)&ensp;4![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
@@ -44,7 +44,7 @@ permalink: /cards/galadriel/
 > > <div class="card-mp">3</div>
 > > <div class="character-card-name">Galadriel</div>
 >
-> {: .character-frame .black-text .p-1 .pl-2 }
+> {: .character-frame .black-text .mind-di .p-1 .pl-2 }
 > > 9 ![](/assets/images/mind.svg)&ensp;4![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }

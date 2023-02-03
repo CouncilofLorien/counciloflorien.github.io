@@ -18,7 +18,7 @@ permalink: /cards/the-mouth/
 > > <div class="hazard-mp">3</div>
 > > <div class="card-name">The Mouth</div>
 >
-> {: .minion-character-frame .white-text .p-1 .pl-2 }
+> {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
 > > 9 ![](/assets/images/mind.svg)&ensp;4![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
@@ -41,7 +41,7 @@ permalink: /cards/the-mouth/
 > > <div class="hazard-mp">3</div>
 > > <div class="card-name">The Mouth</div>
 >
-> {: .minion-character-frame .white-text .p-1 .pl-2 }
+> {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
 > > 9 ![](/assets/images/mind.svg)&ensp;4![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }

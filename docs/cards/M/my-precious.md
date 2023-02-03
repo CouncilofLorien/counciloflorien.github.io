@@ -19,7 +19,7 @@ permalink: /cards/my-precious/
 > > <div class="card-name">My Precious</div>
 >
 > {: .hazard-name .black-text .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&ensp;0![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Scout Hobbit

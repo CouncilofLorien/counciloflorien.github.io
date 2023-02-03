@@ -18,8 +18,8 @@ permalink: /cards/buthrakaur/
 > > <div class="hazard-mp">3</div>
 > > <div class="card-name">Buthrakaur</div>
 >
-> {: .minion-character-frame .white-text .p-1 .pl-2 }
-> > 9 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
+> > 9 ![](/assets/images/mind.svg)&ensp;0![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Scout/Ranger Troll

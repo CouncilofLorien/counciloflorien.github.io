@@ -18,7 +18,7 @@ permalink: /cards/bill-ferny/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Bill Ferny</div>
 >
-> {: .minion-character-frame .white-text .p-1 .pl-2 }
+> {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
 > > 3 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }

@@ -18,7 +18,7 @@ permalink: /cards/dror/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Dror</div>
 >
-> {: .minion-character-frame .white-text .p-1 .pl-2 }
+> {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
 > > 4 ![](/assets/images/mind.svg)&ensp;2![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
@@ -28,7 +28,7 @@ permalink: /cards/dror/
 > > _**Unique.**_ _Agent._ +2 direct influence against Dwarves and Dwarf factions. 
 > > 
 > > {: .fs-3 } 
-> > _“Ever low he sat, always abiding by greed...oaths are broken, vows refused, or solemn agreements."_ ***---&#65279;Kuduk Lore***  
+> > _“Ever low he sat, always abiding by greed...oaths are broken, vows refused, or solemn agreements abused."_ ***---&#65279;Kuduk Lore***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Blue Mountain Dwarf-hold  

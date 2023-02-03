@@ -18,7 +18,7 @@ permalink: /cards/eradan/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Eradan</div>
 >
-> {: .minion-character-frame .white-text .p-1 .pl-2 }
+> {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
 > > 4 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
@@ -41,7 +41,7 @@ permalink: /cards/eradan/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Eradan</div>
 >
-> {: .minion-character-frame .white-text .p-1 .pl-2 }
+> {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
 > > 4 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }

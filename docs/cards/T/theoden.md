@@ -18,7 +18,7 @@ permalink: /cards/theoden/
 > > <div class="card-mp">2</div>
 > > <div class="character-card-name">Theoden</div>
 >
-> {: .character-frame .black-text .p-1 .pl-2 }
+> {: .character-frame .black-text .mind-di .p-1 .pl-2 }
 > > 6 ![](/assets/images/mind.svg)&ensp;3![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
@@ -44,7 +44,7 @@ permalink: /cards/theoden/
 > > <div class="card-mp">2</div>
 > > <div class="character-card-name">Theoden</div>
 >
-> {: .character-frame .black-text .p-1 .pl-2 }
+> {: .character-frame .black-text .mind-di .p-1 .pl-2 }
 > > 6 ![](/assets/images/mind.svg)&ensp;3![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
@@ -70,7 +70,7 @@ permalink: /cards/theoden/
 > > <div class="card-mp">2</div>
 > > <div class="character-card-name">Theoden</div>
 >
-> {: .character-frame .black-text .p-1 .pl-2 }
+> {: .character-frame .black-text .mind-di .p-1 .pl-2 }
 > > 6 ![](/assets/images/mind.svg)&ensp;3![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }

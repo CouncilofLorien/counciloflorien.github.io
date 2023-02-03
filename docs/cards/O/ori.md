@@ -18,8 +18,8 @@ permalink: /cards/ori/
 > > <div class="card-mp"></div>
 > > <div class="character-card-name">Ori</div>
 >
-> {: .character-frame .black-text .p-1 .pl-2 }
-> > 1 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> {: .character-frame .black-text .mind-di .p-1 .pl-2 }
+> > 1 ![](/assets/images/mind.svg)&ensp;0![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior Dwarf
@@ -44,8 +44,8 @@ permalink: /cards/ori/
 > > <div class="card-mp"></div>
 > > <div class="character-card-name">Ori</div>
 >
-> {: .character-frame .black-text .p-1 .pl-2 }
-> > 1 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> {: .character-frame .black-text .mind-di .p-1 .pl-2 }
+> > 1 ![](/assets/images/mind.svg)&ensp;0![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior Dwarf

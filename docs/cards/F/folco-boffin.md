@@ -18,14 +18,14 @@ permalink: /cards/folco-boffin/
 > > <div class="card-mp">1</div>
 > > <div class="character-card-name">Folco Boffin</div>
 >
-> {: .character-frame .black-text .p-1 .pl-2 }
-> > 3 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> {: .character-frame .black-text .mind-di .p-1 .pl-2 }
+> > 3 ![](/assets/images/mind.svg)&ensp;0![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Scout Hobbit
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +2. You may discard at a Haven to play any Hobbit from your hand with his company. 
+> > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +2. You may discard Folco at a Haven to play any Hobbit from your hand with his company. 
 > > 
 > > {: .fs-3 } 
 > > _“Some of Frodo's friends came to stay and help him with the packing...”_ ***---&#65279;LotRI***  

@@ -15,7 +15,7 @@ permalink: /cards/pass-the-doors-of-dol-guldur/
 
 {: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-resource-name .p-1 .pl-2 }
-> > <div class="card-mp"></div>
+> > <div class="card-mp">(4)</div>
 > > <div class="card-name">Pass the Doors of Dol Guldur</div>
 >
 > {: .card-classification .pr-2 }

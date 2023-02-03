@@ -18,11 +18,11 @@ permalink: /cards/eun/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Eun</div>
 >
-> {: .minion-character-frame .white-text .p-1 .pl-2 }
-> > 3 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
+> > 3 ![](/assets/images/mind.svg)&ensp;0![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
-> Warrior Scout Man
+> Warrior/Scout Man
 >
 > {: .minion-character-text .black-text .p-2 }
 > > _**Unique.**_ _Agent._ 

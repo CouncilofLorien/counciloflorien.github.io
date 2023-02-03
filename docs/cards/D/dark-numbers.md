@@ -15,7 +15,7 @@ permalink: /cards/dark-numbers/
 
 {: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-resource-name .p-1 .pl-2 }
-> > <div class="card-mp"></div>
+> > <div class="card-mp">1</div>
 > > <div class="card-name">Dark Numbers</div>
 >
 > {: .card-classification .pr-2 }

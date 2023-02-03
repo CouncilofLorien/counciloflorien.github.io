@@ -18,8 +18,8 @@ permalink: /cards/leamon/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Leamon</div>
 >
-> {: .minion-character-frame .white-text .p-1 .pl-2 }
-> > 3 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
+> > 3 ![](/assets/images/mind.svg)&ensp;0![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior Man
@@ -28,7 +28,7 @@ permalink: /cards/leamon/
 > > _**Unique.**_ _Agent._ 
 > > 
 > > {: .fs-3 } 
-> > _“Leamon grew up at Cameth Brin, in the shadow of the great 'Troll Tower,' and he carried an ageless spear a forefather won from a Dunadan venturer o fabled Lond Daer."_ ***---&#65279;Kuduk Lore***  
+> > _“Leamon grew up at Cameth Brin, in the shadow of the great 'Troll Tower,' and he carried an ageless spear a forefather won from a Dunadan venturer of fabled Lond Daer."_ ***---&#65279;Kuduk Lore***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Cameth Brin,, Dunnish Clan-hold 

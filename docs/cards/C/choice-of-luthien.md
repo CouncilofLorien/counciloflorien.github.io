@@ -25,5 +25,5 @@ permalink: /cards/choice-of-luthien/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ ***Playable on Arwen in Minas Tirith.*** She receives +2 direct influence and hew mind increases by 2. Discard if Arwen moves to a site not in Anorien, Lebennin, Lamedon, Belfalas, or Anfalas. Tap Arwen to take one item, ally, or faction playable at her current site from your play deck or discard pile into your hand (reshuffle play deck if searched).  
+> > _**Unique.**_ ***Playable on Arwen in Minas Tirith.*** She receives +2 direct influence and her mind increases by 2. Discard if Arwen moves to a site not in Anorien, Lebennin, Lamedon, Belfalas, or Anfalas. Tap Arwen to take one item, ally, or faction playable at her current site from your play deck or discard pile into your hand (reshuffle play deck if searched).  
 > 

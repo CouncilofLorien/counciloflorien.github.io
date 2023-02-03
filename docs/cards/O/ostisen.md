@@ -18,8 +18,8 @@ permalink: /cards/ostisen/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Ostisen</div>
 >
-> {: .minion-character-frame .white-text .p-1 .pl-2 }
-> > 2 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
+> > 2 ![](/assets/images/mind.svg)&ensp;0![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Scout Man
@@ -41,8 +41,8 @@ permalink: /cards/ostisen/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Ostisen</div>
 >
-> {: .minion-character-frame .white-text .p-1 .pl-2 }
-> > 2 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
+> > 2 ![](/assets/images/mind.svg)&ensp;0![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Scout Man

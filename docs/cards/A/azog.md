@@ -18,7 +18,7 @@ permalink: /cards/azog/
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">Azog</div>
 >
-> {: .minion-character-frame .white-text .p-1 .pl-2 }
+> {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
 > > 7 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }

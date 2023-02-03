@@ -18,8 +18,8 @@ permalink: /cards/elrohir/
 > > <div class="card-mp">1</div>
 > > <div class="character-card-name">Elrohir</div>
 >
-> {: .character-frame .black-text .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> {: .character-frame .black-text .mind-di .p-1 .pl-2 }
+> > 4 ![](/assets/images/mind.svg)&ensp;0![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Ranger Elf
@@ -44,8 +44,8 @@ permalink: /cards/elrohir/
 > > <div class="card-mp">1</div>
 > > <div class="character-card-name">Elrohir</div>
 >
-> {: .character-frame .black-text .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> {: .character-frame .black-text .mind-di .p-1 .pl-2 }
+> > 4 ![](/assets/images/mind.svg)&ensp;0![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Ranger Elf
@@ -70,8 +70,8 @@ permalink: /cards/elrohir/
 > > <div class="card-mp">1</div>
 > > <div class="character-card-name">Elrohir</div>
 >
-> {: .character-frame .black-text .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> {: .character-frame .black-text .mind-di .p-1 .pl-2 }
+> > 4 ![](/assets/images/mind.svg)&ensp;0![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Ranger Elf
@@ -96,8 +96,8 @@ permalink: /cards/elrohir/
 > > <div class="card-mp">1</div>
 > > <div class="character-card-name">Elrohir</div>
 >
-> {: .character-frame .black-text .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> {: .character-frame .black-text .mind-di .p-1 .pl-2 }
+> > 4 ![](/assets/images/mind.svg)&ensp;0![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Ranger Elf

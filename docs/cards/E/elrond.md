@@ -18,7 +18,7 @@ permalink: /cards/elrond/
 > > <div class="card-mp">3</div>
 > > <div class="character-card-name">Elrond</div>
 >
-> {: .character-frame .black-text .p-1 .pl-2 }
+> {: .character-frame .black-text .mind-di .p-1 .pl-2 }
 > > 10 ![](/assets/images/mind.svg)&ensp;4![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
@@ -44,7 +44,7 @@ permalink: /cards/elrond/
 > > <div class="card-mp">3</div>
 > > <div class="character-card-name">Elrond</div>
 >
-> {: .character-frame .black-text .p-1 .pl-2 }
+> {: .character-frame .black-text .mind-di .p-1 .pl-2 }
 > > 10 ![](/assets/images/mind.svg)&ensp;4![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
@@ -70,7 +70,7 @@ permalink: /cards/elrond/
 > > <div class="card-mp">3</div>
 > > <div class="character-card-name">Elrond</div>
 >
-> {: .character-frame .black-text .p-1 .pl-2 }
+> {: .character-frame .black-text .mind-di .p-1 .pl-2 }
 > > 10 ![](/assets/images/mind.svg)&ensp;4![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }

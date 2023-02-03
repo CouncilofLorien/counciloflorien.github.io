@@ -18,7 +18,7 @@ permalink: /cards/halbarad/
 > > <div class="card-mp"></div>
 > > <div class="character-card-name">Halbarad</div>
 >
-> {: .character-frame .black-text .p-1 .pl-2 }
+> {: .character-frame .black-text .mind-di .p-1 .pl-2 }
 > > 1 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
@@ -44,7 +44,7 @@ permalink: /cards/halbarad/
 > > <div class="card-mp"></div>
 > > <div class="character-card-name">Halbarad</div>
 >
-> {: .character-frame .black-text .p-1 .pl-2 }
+> {: .character-frame .black-text .mind-di .p-1 .pl-2 }
 > > 1 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
@@ -70,7 +70,7 @@ permalink: /cards/halbarad/
 > > <div class="card-mp"></div>
 > > <div class="character-card-name">Halbarad</div>
 >
-> {: .character-frame .black-text .p-1 .pl-2 }
+> {: .character-frame .black-text .mind-di .p-1 .pl-2 }
 > > 1 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }

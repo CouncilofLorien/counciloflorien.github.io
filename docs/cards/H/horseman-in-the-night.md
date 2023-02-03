@@ -18,7 +18,7 @@ permalink: /cards/horseman-in-the-night/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Horseman in the Night</div>
 >
-> {: .minion-character-frame .white-text .p-1 .pl-2 }
+> {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
 > > 4 ![](/assets/images/mind.svg)&ensp;2![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
@@ -41,7 +41,7 @@ permalink: /cards/horseman-in-the-night/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Horseman in the Night</div>
 >
-> {: .minion-character-frame .white-text .p-1 .pl-2 }
+> {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
 > > 4 ![](/assets/images/mind.svg)&ensp;2![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }

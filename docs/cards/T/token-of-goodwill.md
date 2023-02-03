@@ -22,5 +22,5 @@ permalink: /cards/token-of-goodwill/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Offering Attempt. Playable on a diplomat whose company is facing an attack of the type listed below.*** Target diplomat makes a corruption check. If he does not fail, discard an item from his company (as listed below), and make a roll (or draw a #) adding the diplomat's unused direct influence. If the result is greater than the listed values, the attack is cancelled, and you may take one resource from your play deck or discard pile into your hand (reshuffle play deck if searched). Against a Dragon: greater item/5, against a Drake: major item/6, against men, Slayer, or any Agent: minor item/7. 
+> > ***Offering Attempt. Playable on a diplomat whose company is facing an attack of the type listed below.*** Target diplomat makes a corruption check. If he does not fail, discard an item from his company (as listed below), and make a roll (or draw a #) adding the diplomat's unused direct influence. If the result is greater than the listed values, the attack is cancelled, and you may take one resource from your play deck or discard pile into your hand (reshuffle play deck if searched). Against a Dragon: greater item/5, against a Drake: major item/6, against Men, Slayer, or any Agent: minor item/7. 
 > 

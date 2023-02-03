@@ -18,7 +18,7 @@ permalink: /cards/gandalf/
 > > <div class="card-mp"></div>
 > > <div class="character-card-name">Gandalf</div>
 >
-> {: .character-frame .black-text .p-1 .pl-2 }
+> {: .character-frame .black-text .mind-di .p-1 .pl-2 }
 > > 10![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
@@ -44,7 +44,7 @@ permalink: /cards/gandalf/
 > > <div class="card-mp"></div>
 > > <div class="character-card-name">Gandalf</div>
 >
-> {: .character-frame .black-text .p-1 .pl-2 }
+> {: .character-frame .black-text .mind-di .p-1 .pl-2 }
 > > 10![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
@@ -70,7 +70,7 @@ permalink: /cards/gandalf/
 > > <div class="card-mp"></div>
 > > <div class="character-card-name">Gandalf</div>
 >
-> {: .character-frame .black-text .p-1 .pl-2 }
+> {: .character-frame .black-text .mind-di .p-1 .pl-2 }
 > > 10![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
@@ -96,7 +96,7 @@ permalink: /cards/gandalf/
 > > <div class="card-mp"></div>
 > > <div class="character-card-name">Gandalf</div>
 >
-> {: .character-frame .black-text .p-1 .pl-2 }
+> {: .character-frame .black-text .mind-di .p-1 .pl-2 }
 > > 18![](/assets/images/gi.svg) 9![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
@@ -122,7 +122,7 @@ permalink: /cards/gandalf/
 > > <div class="card-mp"></div>
 > > <div class="character-card-name">Gandalf</div>
 >
-> {: .character-frame .black-text .p-1 .pl-2 }
+> {: .character-frame .black-text .mind-di .p-1 .pl-2 }
 > > 10![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }

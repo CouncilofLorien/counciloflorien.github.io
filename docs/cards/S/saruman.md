@@ -18,7 +18,7 @@ permalink: /cards/saruman/
 > > <div class="card-mp"></div>
 > > <div class="character-card-name">Saruman</div>
 >
-> {: .character-frame .black-text .p-1 .pl-2 }
+> {: .character-frame .black-text .mind-di .p-1 .pl-2 }
 > > 10![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
@@ -44,7 +44,7 @@ permalink: /cards/saruman/
 > > <div class="card-mp"></div>
 > > <div class="character-card-name">Saruman</div>
 >
-> {: .character-frame .black-text .p-1 .pl-2 }
+> {: .character-frame .black-text .mind-di .p-1 .pl-2 }
 > > 10![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
@@ -70,7 +70,7 @@ permalink: /cards/saruman/
 > > <div class="card-mp"></div>
 > > <div class="character-card-name">Saruman</div>
 >
-> {: .character-frame .black-text .p-1 .pl-2 }
+> {: .character-frame .black-text .mind-di .p-1 .pl-2 }
 > > 10![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
@@ -96,7 +96,7 @@ permalink: /cards/saruman/
 > > <div class="card-mp"></div>
 > > <div class="character-card-name">Saruman</div>
 >
-> {: .character-frame .black-text .p-1 .pl-2 }
+> {: .character-frame .black-text .mind-di .p-1 .pl-2 }
 > > 15![](/assets/images/gi.svg) 12![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
@@ -119,7 +119,7 @@ permalink: /cards/saruman/
 > > <div class="card-mp"></div>
 > > <div class="character-card-name">Saruman</div>
 >
-> {: .character-frame .black-text .p-1 .pl-2 }
+> {: .character-frame .black-text .mind-di .p-1 .pl-2 }
 > > 10![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }

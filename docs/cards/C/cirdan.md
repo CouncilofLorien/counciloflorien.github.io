@@ -18,7 +18,7 @@ permalink: /cards/cirdan/
 > > <div class="card-mp">3</div>
 > > <div class="character-card-name">Cirdan</div>
 >
-> {: .character-frame .black-text .p-1 .pl-2 }
+> {: .character-frame .black-text .mind-di .p-1 .pl-2 }
 > > 8 ![](/assets/images/mind.svg)&ensp;4![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
@@ -41,7 +41,7 @@ permalink: /cards/cirdan/
 > > <div class="card-mp">3</div>
 > > <div class="character-card-name">Cirdan</div>
 >
-> {: .character-frame .black-text .p-1 .pl-2 }
+> {: .character-frame .black-text .mind-di .p-1 .pl-2 }
 > > 8 ![](/assets/images/mind.svg)&ensp;4![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }

@@ -18,7 +18,7 @@ permalink: /cards/radagast/
 > > <div class="card-mp"></div>
 > > <div class="character-card-name">Radagast</div>
 >
-> {: .character-frame .black-text .p-1 .pl-2 }
+> {: .character-frame .black-text .mind-di .p-1 .pl-2 }
 > > 10![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
@@ -44,7 +44,7 @@ permalink: /cards/radagast/
 > > <div class="card-mp"></div>
 > > <div class="character-card-name">Radagast</div>
 >
-> {: .character-frame .black-text .p-1 .pl-2 }
+> {: .character-frame .black-text .mind-di .p-1 .pl-2 }
 > > 10![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
@@ -70,7 +70,7 @@ permalink: /cards/radagast/
 > > <div class="card-mp"></div>
 > > <div class="character-card-name">Radagast</div>
 >
-> {: .character-frame .black-text .p-1 .pl-2 }
+> {: .character-frame .black-text .mind-di .p-1 .pl-2 }
 > > 22![](/assets/images/gi.svg) 5![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
@@ -93,7 +93,7 @@ permalink: /cards/radagast/
 > > <div class="card-mp"></div>
 > > <div class="character-card-name">Radagast</div>
 >
-> {: .character-frame .black-text .p-1 .pl-2 }
+> {: .character-frame .black-text .mind-di .p-1 .pl-2 }
 > > 10![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }

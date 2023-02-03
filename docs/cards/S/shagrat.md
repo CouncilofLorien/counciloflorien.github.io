@@ -18,8 +18,8 @@ permalink: /cards/shagrat/
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">Shagrat</div>
 >
-> {: .minion-character-frame .white-text .p-1 .pl-2 }
-> > 6 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
+> > 6 ![](/assets/images/mind.svg)&ensp;0![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Ranger Orc
@@ -44,8 +44,8 @@ permalink: /cards/shagrat/
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">Shagrat</div>
 >
-> {: .minion-character-frame .white-text .p-1 .pl-2 }
-> > 6 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
+> > 6 ![](/assets/images/mind.svg)&ensp;0![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Ranger Orc
@@ -70,8 +70,8 @@ permalink: /cards/shagrat/
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">Shagrat</div>
 >
-> {: .minion-character-frame .white-text .p-1 .pl-2 }
-> > 6 ![](/assets/images/mind.svg) 0![](/assets/images/di.svg)
+> {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
+> > 6 ![](/assets/images/mind.svg)&ensp;0![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Ranger Orc

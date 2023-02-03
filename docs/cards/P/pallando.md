@@ -18,7 +18,7 @@ permalink: /cards/pallando/
 > > <div class="card-mp"></div>
 > > <div class="character-card-name">Pallando</div>
 >
-> {: .character-frame .black-text .p-1 .pl-2 }
+> {: .character-frame .black-text .mind-di .p-1 .pl-2 }
 > > 10![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
@@ -44,7 +44,7 @@ permalink: /cards/pallando/
 > > <div class="card-mp"></div>
 > > <div class="character-card-name">Pallando</div>
 >
-> {: .character-frame .black-text .p-1 .pl-2 }
+> {: .character-frame .black-text .mind-di .p-1 .pl-2 }
 > > 10![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
@@ -70,7 +70,7 @@ permalink: /cards/pallando/
 > > <div class="card-mp"></div>
 > > <div class="character-card-name">Pallando</div>
 >
-> {: .character-frame .black-text .p-1 .pl-2 }
+> {: .character-frame .black-text .mind-di .p-1 .pl-2 }
 > > 20![](/assets/images/GI.svg)&ensp;7![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
@@ -96,7 +96,7 @@ permalink: /cards/pallando/
 > > <div class="card-mp"></div>
 > > <div class="character-card-name">Pallando</div>
 >
-> {: .character-frame .black-text .p-1 .pl-2 }
+> {: .character-frame .black-text .mind-di .p-1 .pl-2 }
 > > 10![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
