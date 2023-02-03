@@ -18,7 +18,7 @@ permalink: /cards/the-reviled-ring/
 > > <div class="hazard-mp">3</div>
 > > <div class="card-name">The Reviled Ring</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
+> {: .minion-resource-name .black-text .mind-di .p-1 .pl-2 }
 > > -2 ![](/assets/images/mind.svg)
 >
 > {: .hazard-classification .pr-2 }

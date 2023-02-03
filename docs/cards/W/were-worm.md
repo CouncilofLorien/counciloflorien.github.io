@@ -18,7 +18,7 @@ permalink: /cards/were-worm/
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">Were-worm</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)
 >
 > {: .hazard-classification .pr-2 }

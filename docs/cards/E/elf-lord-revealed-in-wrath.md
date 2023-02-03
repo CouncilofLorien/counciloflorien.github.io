@@ -18,7 +18,7 @@ permalink: /cards/elf-lord-revealed-in-wrath/
 > > <div class="hazard-mp">3*</div>
 > > <div class="card-name">Elf-lord Revealed in Wrath</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)
 >
 > {: .hazard-classification .pr-2 }

@@ -18,7 +18,7 @@ permalink: /cards/helm-of-her-secrecy/
 > > <div class="card-mp"></div>
 > > <div class="card-name">Helm of Her Secrecy</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
 > > +1![](/assets/images/di.svg)
 >
 > {: .card-classification .pr-2 }

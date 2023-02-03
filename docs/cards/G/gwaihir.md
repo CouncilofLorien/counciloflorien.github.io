@@ -18,7 +18,7 @@ permalink: /cards/gwaihir/
 > > <div class="card-mp">2</div>
 > > <div class="card-name">Gwaihir</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
 > > 4 ![](/assets/images/mind.svg)
 >
 > {: .card-classification .pr-2 }
@@ -38,7 +38,7 @@ permalink: /cards/gwaihir/
 > > <div class="card-mp">2</div>
 > > <div class="card-name">Gwaihir</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
 > > 4 ![](/assets/images/mind.svg)
 >
 > {: .card-classification .pr-2 }

@@ -18,7 +18,7 @@ permalink: /cards/buthrakaur-the-green/
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">Buthrakaur the Green</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > ![](/assets/images/shadow-hold.svg)
 >
 > {: .hazard-classification .pr-2 }

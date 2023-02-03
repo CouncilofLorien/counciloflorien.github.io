@@ -18,7 +18,7 @@ permalink: /cards/in-the-grip-of-ambition/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">In the Grip of Ambition</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > 2![](/assets/images/stage-point.svg) [3![](/assets/images/stage-point.svg)]
 >
 > {: .hazard-classification .pr-2 }

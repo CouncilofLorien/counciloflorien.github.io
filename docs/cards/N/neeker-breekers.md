@@ -18,7 +18,7 @@ permalink: /cards/neeker-breekers/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Neeker-breekers</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/ruinlair.svg)
 >
 > {: .hazard-classification .pr-2 }
@@ -41,7 +41,7 @@ permalink: /cards/neeker-breekers/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Neeker-breekers</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/ruinlair.svg)
 >
 > {: .hazard-classification .pr-2 }
@@ -64,7 +64,7 @@ permalink: /cards/neeker-breekers/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Neeker-breekers</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/ruinlair.svg)
 >
 > {: .hazard-classification .pr-2 }

@@ -18,7 +18,7 @@ permalink: /cards/hoarmurath-of-dir/
 > > <div class="hazard-mp">5</div>
 > > <div class="card-name">Hoarmurath of Dir</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > ![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/dark-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
@@ -38,7 +38,7 @@ permalink: /cards/hoarmurath-of-dir/
 > > <div class="hazard-mp">5</div>
 > > <div class="card-name">Hoarmurath of Dir</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > ![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/dark-hold.svg)
 >
 > {: .hazard-classification .pr-2 }

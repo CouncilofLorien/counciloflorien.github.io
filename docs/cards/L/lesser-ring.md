@@ -18,7 +18,7 @@ permalink: /cards/lesser-ring/
 > > <div class="card-mp">2</div>
 > > <div class="card-name">Lesser Ring</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
 > > +2![](/assets/images/di.svg)
 >
 > {: .card-classification .pr-2 }
@@ -41,7 +41,7 @@ permalink: /cards/lesser-ring/
 > > <div class="card-mp">2</div>
 > > <div class="card-name">Lesser Ring</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
 > > +2![](/assets/images/di.svg)
 >
 > {: .card-classification .pr-2 }
@@ -64,7 +64,7 @@ permalink: /cards/lesser-ring/
 > > <div class="card-mp">2</div>
 > > <div class="card-name">Lesser Ring</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
 > > +2![](/assets/images/di.svg)
 >
 > {: .card-classification .pr-2 }

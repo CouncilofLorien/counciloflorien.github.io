@@ -18,7 +18,7 @@ permalink: /cards/saruman-the-wise/
 > > <div class="hazard-mp">6*</div>
 > > <div class="card-name">Saruman the Wise</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > ![](/assets/images/free-domain.svg)&ensp;![](/assets/images/free-hold.svg)
 >
 > {: .hazard-classification .pr-2 }

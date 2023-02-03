@@ -18,7 +18,7 @@ permalink: /cards/last-child-of-ungoliant/
 > > <div class="hazard-mp">3</div>
 > > <div class="card-name">Last Child of Ungoliant</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
+> {: .minion-resource-name .black-text .mind-di .p-1 .pl-2 }
 > > 4 ![](/assets/images/mind.svg)
 >
 > {: .hazard-classification .pr-2 }
@@ -38,7 +38,7 @@ permalink: /cards/last-child-of-ungoliant/
 > > <div class="hazard-mp">3</div>
 > > <div class="card-name">Last Child of Ungoliant</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
+> {: .minion-resource-name .black-text .mind-di .p-1 .pl-2 }
 > > 4 ![](/assets/images/mind.svg)
 >
 > {: .hazard-classification .pr-2 }

@@ -18,7 +18,7 @@ permalink: /cards/king-under-the-mountain/
 > > <div class="card-mp">5</div>
 > > <div class="card-name">King under the Mountain</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
 > > [+5]![](/assets/images/di.svg)
 >
 > {: .card-classification .pr-2 }

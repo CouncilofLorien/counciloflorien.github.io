@@ -18,7 +18,7 @@ permalink: /cards/ent-in-search-of-the-entwives/
 > > <div class="hazard-mp">1*</div>
 > > <div class="card-name">Ent in Search of the Entwives</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/free-domain.svg)
 >
 > {: .hazard-classification .pr-2 }
@@ -41,7 +41,7 @@ permalink: /cards/ent-in-search-of-the-entwives/
 > > <div class="hazard-mp">1*</div>
 > > <div class="card-name">Ent in Search of the Entwives</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/free-domain.svg)
 >
 > {: .hazard-classification .pr-2 }

@@ -18,7 +18,7 @@ permalink: /cards/narsil/
 > > <div class="card-mp">3</div>
 > > <div class="card-name">Narsil</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
 > > +1![](/assets/images/di.svg)
 >
 > {: .card-classification .pr-2 }
@@ -41,7 +41,7 @@ permalink: /cards/narsil/
 > > <div class="card-mp">3</div>
 > > <div class="card-name">Narsil</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
 > > +1![](/assets/images/di.svg)
 >
 > {: .card-classification .pr-2 }
@@ -64,7 +64,7 @@ permalink: /cards/narsil/
 > > <div class="card-mp">3</div>
 > > <div class="card-name">Narsil</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
 > > +1![](/assets/images/di.svg)
 >
 > {: .card-classification .pr-2 }

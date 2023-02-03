@@ -18,7 +18,7 @@ permalink: /cards/thief/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Thief</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > ![](/assets/images/border-land.svg)&emsp;![](/assets/images/border-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
@@ -41,7 +41,7 @@ permalink: /cards/thief/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Thief</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > ![](/assets/images/border-land.svg)&emsp;![](/assets/images/border-hold.svg)
 >
 > {: .hazard-classification .pr-2 }

@@ -18,7 +18,7 @@ permalink: /cards/the-balrog/
 > > <div class="hazard-mp">4</div>
 > > <div class="card-name">The Balrog</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
+> {: .minion-resource-name .black-text .mind-di .p-1 .pl-2 }
 > > 6 ![](/assets/images/mind.svg)
 >
 > {: .hazard-classification .pr-2 }

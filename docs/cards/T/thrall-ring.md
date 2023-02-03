@@ -18,7 +18,7 @@ permalink: /cards/thrall-ring/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Thrall-ring</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
+> {: .minion-resource-name .black-text .mind-di .p-1 .pl-2 }
 > > -1 ![](/assets/images/mind.svg) +1![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }

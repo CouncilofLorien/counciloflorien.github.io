@@ -18,7 +18,7 @@ permalink: /cards/inner-rot/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Inner Rot</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > 2![](/assets/images/stage-point.svg)
 >
 > {: .hazard-classification .pr-2 }

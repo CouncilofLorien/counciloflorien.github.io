@@ -18,7 +18,7 @@ permalink: /cards/will-you-not-come-down/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Will You Not Come Down</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > 4![](/assets/images/stage-point.svg)
 >
 > {: .hazard-classification .pr-2 }

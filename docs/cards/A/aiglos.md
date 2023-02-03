@@ -18,7 +18,7 @@ permalink: /cards/aiglos/
 > > <div class="card-mp">5</div>
 > > <div class="card-name">Aiglos</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
 > > [+3]![](/assets/images/di.svg)
 >
 > {: .card-classification .pr-2 }

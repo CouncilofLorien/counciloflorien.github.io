@@ -18,7 +18,7 @@ permalink: /cards/war-warg/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">War-warg</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
+> {: .minion-resource-name .black-text .mind-di .p-1 .pl-2 }
 > > 1 ![](/assets/images/mind.svg)
 >
 > {: .hazard-classification .pr-2 }

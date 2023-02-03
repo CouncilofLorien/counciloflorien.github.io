@@ -18,7 +18,7 @@ permalink: /cards/crebain/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Crebain</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/ruinlair.svg)&ensp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
@@ -41,7 +41,7 @@ permalink: /cards/crebain/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Crebain</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/ruinlair.svg)&ensp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)
 >
 > {: .hazard-classification .pr-2 }

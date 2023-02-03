@@ -18,7 +18,7 @@ permalink: /cards/chambers-in-the-royal-court/
 > > <div class="card-mp"></div>
 > > <div class="card-name">Chambers in the Royal Court</div>
 >
-> {: .stage-resource-name .black-text .p-1 .pl-2 }
+> {: .stage-resource-name .black-text .mind-di .p-1 .pl-2 }
 > > 1![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }

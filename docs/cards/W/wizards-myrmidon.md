@@ -18,7 +18,7 @@ permalink: /cards/wizards-myrmidon/
 > > <div class="card-mp"></div>
 > > <div class="card-name">Wizard's Myrmidon</div>
 >
-> {: .stage-resource-name .black-text .p-1 .pl-2 }
+> {: .stage-resource-name .black-text .mind-di .p-1 .pl-2 }
 > > +1![](/assets/images/di.svg) 1![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }

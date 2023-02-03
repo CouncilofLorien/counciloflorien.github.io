@@ -18,7 +18,7 @@ permalink: /cards/ambusher/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Ambusher</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > ![](/assets/images/free-domain.svg)&ensp;![](/assets/images/border-land.svg)
 >
 > {: .hazard-classification .pr-2 }
@@ -41,7 +41,7 @@ permalink: /cards/ambusher/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Ambusher</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > ![](/assets/images/free-domain.svg)&ensp;![](/assets/images/border-land.svg)
 >
 > {: .hazard-classification .pr-2 }
@@ -64,7 +64,7 @@ permalink: /cards/ambusher/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Ambusher</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > ![](/assets/images/free-domain.svg)&ensp;![](/assets/images/border-land.svg) 
 >
 > {: .hazard-classification .pr-2 }
@@ -87,7 +87,7 @@ permalink: /cards/ambusher/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Ambusher</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > ![](/assets/images/free-domain.svg)&ensp;![](/assets/images/border-land.svg) 
 >
 > {: .hazard-classification .pr-2 }

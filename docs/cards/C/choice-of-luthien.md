@@ -18,7 +18,7 @@ permalink: /cards/choice-of-luthien/
 > > <div class="card-mp">1</div>
 > > <div class="card-name">Choice of Luthien</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
 > > +2 ![](/assets/images/mind.svg) +2![](/assets/images/di.svg)
 >
 > {: .card-classification .pr-2 }

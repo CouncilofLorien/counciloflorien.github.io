@@ -18,7 +18,7 @@ permalink: /cards/mischief-in-a-mean-way/
 > > <div class="card-mp">2</div>
 > > <div class="card-name">Mischief in a Mean Way</div>
 >
-> {: .stage-resource-name .black-text .p-1 .pl-2 }
+> {: .stage-resource-name .black-text .mind-di .p-1 .pl-2 }
 > > 2![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }

@@ -18,7 +18,7 @@ permalink: /cards/the-grey-hat/
 > > <div class="card-mp"></div>
 > > <div class="card-name">The Grey Hat</div>
 >
-> {: .stage-resource-name .black-text .p-1 .pl-2 }
+> {: .stage-resource-name .black-text .mind-di .p-1 .pl-2 }
 > > 1![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }

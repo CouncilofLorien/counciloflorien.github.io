@@ -18,7 +18,7 @@ permalink: /cards/slayer/
 > > <div class="hazard-mp">0</div>
 > > <div class="card-name">Slayer</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > ![](/assets/images/border-land.svg)&emsp;![](/assets/images/border-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
@@ -41,7 +41,7 @@ permalink: /cards/slayer/
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">Slayer</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > ![](/assets/images/border-land.svg)&emsp;![](/assets/images/border-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
@@ -64,7 +64,7 @@ permalink: /cards/slayer/
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">Slayer</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > ![](/assets/images/border-land.svg)&emsp;![](/assets/images/border-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
@@ -87,7 +87,7 @@ permalink: /cards/slayer/
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">Slayer</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > ![](/assets/images/border-land.svg)&emsp;![](/assets/images/border-hold.svg)
 >
 > {: .hazard-classification .pr-2 }

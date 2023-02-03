@@ -18,7 +18,7 @@ permalink: /cards/sons-of-kings/
 > > <div class="hazard-mp">2*</div>
 > > <div class="card-name">Sons of Kings</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > ![](/assets/images/free-domain.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/border-hold.svg)&ensp;![](/assets/images/free-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
@@ -41,7 +41,7 @@ permalink: /cards/sons-of-kings/
 > > <div class="hazard-mp">2*</div>
 > > <div class="card-name">Sons of Kings</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > ![](/assets/images/free-domain.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/border-hold.svg)&ensp;![](/assets/images/free-hold.svg)
 >
 > {: .hazard-classification .pr-2 }

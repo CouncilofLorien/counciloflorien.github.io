@@ -18,7 +18,7 @@ permalink: /cards/the-white-hand/
 > > <div class="card-mp">6</div>
 > > <div class="card-name">The White Hand</div>
 >
-> {: .stage-resource-name .black-text .p-1 .pl-2 }
+> {: .stage-resource-name .black-text .mind-di .p-1 .pl-2 }
 > > +2![](/assets/images/di.svg) 3![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }

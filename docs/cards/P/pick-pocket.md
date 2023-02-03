@@ -18,7 +18,7 @@ permalink: /cards/pick-pocket/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Pick-pocket</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > ![](/assets/images/free-hold.svg)&ensp;![](/assets/images/border-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
@@ -41,7 +41,7 @@ permalink: /cards/pick-pocket/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Pick-pocket</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > ![](/assets/images/free-hold.svg)&ensp;![](/assets/images/border-hold.svg)
 >
 > {: .hazard-classification .pr-2 }

@@ -18,7 +18,7 @@ permalink: /cards/keys-to-the-white-towers/
 > > <div class="card-mp">2</div>
 > > <div class="card-name">Keys to the White Towers</div>
 >
-> {: .stage-resource-name .black-text .p-1 .pl-2 }
+> {: .stage-resource-name .black-text .mind-di .p-1 .pl-2 }
 > > 1![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }

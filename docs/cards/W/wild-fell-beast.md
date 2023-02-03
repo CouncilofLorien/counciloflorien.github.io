@@ -18,7 +18,7 @@ permalink: /cards/wild-fell-beast/
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">Wild Fell Beast</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > ![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/shadow-land.svg)
 >
 > {: .hazard-classification .pr-2 }

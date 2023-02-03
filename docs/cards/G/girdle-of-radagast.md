@@ -18,7 +18,7 @@ permalink: /cards/girdle-of-radagast/
 > > <div class="card-mp">5</div>
 > > <div class="card-name">Girdle of Radagast</div>
 >
-> {: .stage-resource-name .black-text .p-1 .pl-2 }
+> {: .stage-resource-name .black-text .mind-di .p-1 .pl-2 }
 > > 3![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }

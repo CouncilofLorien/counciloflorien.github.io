@@ -18,7 +18,7 @@ permalink: /cards/bill-the-pony/
 > > <div class="card-mp">1</div>
 > > <div class="card-name">Bill the Pony</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
 > > 1 ![](/assets/images/mind.svg)
 >
 > {: .card-classification .pr-2 }
@@ -38,7 +38,7 @@ permalink: /cards/bill-the-pony/
 > > <div class="card-mp">1</div>
 > > <div class="card-name">Bill the Pony</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
 > > 1 ![](/assets/images/mind.svg)
 >
 > {: .card-classification .pr-2 }

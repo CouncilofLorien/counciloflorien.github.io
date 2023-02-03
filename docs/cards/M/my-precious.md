@@ -18,7 +18,7 @@ permalink: /cards/my-precious/
 > > <div class="hazard-mp">-1</div>
 > > <div class="card-name">My Precious</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > 4 ![](/assets/images/mind.svg)&ensp;0![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }

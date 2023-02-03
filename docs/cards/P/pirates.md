@@ -18,7 +18,7 @@ permalink: /cards/pirates/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Pirates</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/coastalsea.svg)&ensp;![](/assets/images/ruinlair.svg)
 >
 > {: .hazard-classification .pr-2 }

@@ -18,7 +18,7 @@ permalink: /cards/prophet-of-doom/
 > > <div class="card-mp">3</div>
 > > <div class="card-name">Prophet of Doom</div>
 >
-> {: .stage-resource-name .black-text .p-1 .pl-2 }
+> {: .stage-resource-name .black-text .mind-di .p-1 .pl-2 }
 > > 3![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }

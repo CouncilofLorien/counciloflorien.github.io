@@ -18,7 +18,7 @@ permalink: /cards/old-man-willow/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Old Man Willow</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)
 >
 > {: .hazard-classification .pr-2 }
@@ -38,7 +38,7 @@ permalink: /cards/old-man-willow/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Old Man Willow</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)
 >
 > {: .hazard-classification .pr-2 }

@@ -18,7 +18,7 @@ permalink: /cards/chill-douser/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Chill Douser</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > ![](/assets/images/ruinlair.svg)&ensp;![](/assets/images/shadow-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
@@ -41,7 +41,7 @@ permalink: /cards/chill-douser/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Chill Douser</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > ![](/assets/images/ruinlair.svg)&ensp;![](/assets/images/shadow-hold.svg)
 >
 > {: .hazard-classification .pr-2 }

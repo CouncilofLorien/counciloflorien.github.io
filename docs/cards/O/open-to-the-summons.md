@@ -18,7 +18,7 @@ permalink: /cards/open-to-the-summons/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Open to the Summons</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
+> {: .minion-resource-name .black-text .mind-di .p-1 .pl-2 }
 > > -1 ![](/assets/images/mind.svg)
 >
 > {: .hazard-classification .pr-2 }

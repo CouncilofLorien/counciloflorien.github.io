@@ -18,7 +18,7 @@ permalink: /cards/the-great-hunt/
 > > <div class="card-mp">1</div>
 > > <div class="card-name">The Great Hunt</div>
 >
-> {: .stage-resource-name .black-text .p-1 .pl-2 }
+> {: .stage-resource-name .black-text .mind-di .p-1 .pl-2 }
 > > 3![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }

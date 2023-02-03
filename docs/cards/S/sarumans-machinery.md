@@ -18,7 +18,7 @@ permalink: /cards/sarumans-machinery/
 > > <div class="card-mp">1</div>
 > > <div class="card-name">Saruman's Machinery</div>
 >
-> {: .stage-resource-name .black-text .p-1 .pl-2 }
+> {: .stage-resource-name .black-text .mind-di .p-1 .pl-2 }
 > > 4![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }

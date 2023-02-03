@@ -18,7 +18,7 @@ permalink: /cards/mistress-lobelia/
 > > <div class="card-mp">1</div>
 > > <div class="card-name">Mistress Lobelia</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
 > > 3 ![](/assets/images/mind.svg)
 >
 > {: .card-classification .pr-2 }

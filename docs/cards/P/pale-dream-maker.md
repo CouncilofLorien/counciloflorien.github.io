@@ -18,7 +18,7 @@ permalink: /cards/pale-dream-maker/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Pale Dream-maker</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > 0![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }

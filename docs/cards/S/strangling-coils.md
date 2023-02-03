@@ -18,7 +18,7 @@ permalink: /cards/strangling-coils/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Strangling Coils</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
+> {: .minion-resource-name .black-text .mind-di .p-1 .pl-2 }
 > > +3![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }

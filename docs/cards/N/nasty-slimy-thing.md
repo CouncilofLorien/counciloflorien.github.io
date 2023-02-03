@@ -18,7 +18,7 @@ permalink: /cards/nasty-slimy-thing/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Nasty Slimy Thing</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
+> {: .minion-resource-name .black-text .mind-di .p-1 .pl-2 }
 > > 2 ![](/assets/images/mind.svg)
 >
 > {: .hazard-classification .pr-2 }

@@ -18,7 +18,7 @@ permalink: /cards/pallando-the-soul-keeper/
 > > <div class="hazard-mp">6*</div>
 > > <div class="card-name">Pallando the Soul-keeper</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > ![](/assets/images/free-domain.svg)&ensp;![](/assets/images/free-hold.svg)
 >
 > {: .hazard-classification .pr-2 }

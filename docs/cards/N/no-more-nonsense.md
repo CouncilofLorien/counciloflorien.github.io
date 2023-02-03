@@ -18,7 +18,7 @@ permalink: /cards/no-more-nonsense/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">No More Nonsense</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
+> {: .minion-resource-name .black-text .mind-di .p-1 .pl-2 }
 > > [+2![](/assets/images/di.svg)] [-2![](/assets/images/di.svg)]
 >
 > {: .hazard-classification .pr-2 }

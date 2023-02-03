@@ -18,7 +18,7 @@ permalink: /cards/give-welcome-to-the-unexpected/
 > > <div class="card-mp"></div>
 > > <div class="card-name">Give Welcome to the Unexpected</div>
 >
-> {: .stage-resource-name .black-text .p-1 .pl-2 }
+> {: .stage-resource-name .black-text .mind-di .p-1 .pl-2 }
 > > 2![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }

@@ -18,7 +18,7 @@ permalink: /cards/wolves/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Wolves</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)
 >
 > {: .hazard-classification .pr-2 }
@@ -41,7 +41,7 @@ permalink: /cards/wolves/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Wolves</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)
 >
 > {: .hazard-classification .pr-2 }
@@ -64,7 +64,7 @@ permalink: /cards/wolves/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Wolves</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)
 >
 > {: .hazard-classification .pr-2 }
@@ -87,7 +87,7 @@ permalink: /cards/wolves/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Wolves</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)
 >
 > {: .hazard-classification .pr-2 }

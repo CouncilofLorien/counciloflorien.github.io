@@ -18,7 +18,7 @@ permalink: /cards/umagaur-the-pale/
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">Umagaur the Pale</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > ![](/assets/images/shadow-hold.svg)
 >
 > {: .hazard-classification .pr-2 }

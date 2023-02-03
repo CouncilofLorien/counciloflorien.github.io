@@ -18,7 +18,7 @@ permalink: /cards/necklace-of-girion/
 > > <div class="card-mp">4</div>
 > > <div class="card-name">Necklace of Girion</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
 > > [+3![](/assets/images/di.svg)]
 >
 > {: .card-classification .pr-2 }
@@ -41,7 +41,7 @@ permalink: /cards/necklace-of-girion/
 > > <div class="hazard-mp">3</div>
 > > <div class="card-name">Necklace of Girion</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
+> {: .minion-resource-name .black-text .mind-di .p-1 .pl-2 }
 > > [+3![](/assets/images/di.svg)]
 >
 > {: .hazard-classification .pr-2 }

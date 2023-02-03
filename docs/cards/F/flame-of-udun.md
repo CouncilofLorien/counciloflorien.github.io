@@ -18,7 +18,7 @@ permalink: /cards/flame-of-udun/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Flame of Udun</div>
 >
-> {: .minion-resource-name .black-text .p-1 .pl-2 }
+> {: .minion-resource-name .black-text .mind-di .p-1 .pl-2 }
 > > -2![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }

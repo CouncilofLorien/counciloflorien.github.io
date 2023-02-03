@@ -18,7 +18,7 @@ permalink: /cards/rogrog/
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">Rogrog</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > ![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
@@ -41,7 +41,7 @@ permalink: /cards/rogrog/
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">Rogrog</div>
 >
-> {: .hazard-name .black-text .p-1 .pl-2 }
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
 > > ![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)
 >
 > {: .hazard-classification .pr-2 }

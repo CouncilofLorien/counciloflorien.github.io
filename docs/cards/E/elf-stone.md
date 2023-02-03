@@ -18,7 +18,7 @@ permalink: /cards/elf-stone/
 > > <div class="card-mp"></div>
 > > <div class="card-name">Elf-stone</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
 > > [+2![](/assets/images/di.svg)]
 >
 > {: .card-classification .pr-2 }
@@ -41,7 +41,7 @@ permalink: /cards/elf-stone/
 > > <div class="card-mp"></div>
 > > <div class="card-name">Elf-stone</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
 > > [+2![](/assets/images/di.svg)]
 >
 > {: .card-classification .pr-2 }
@@ -64,7 +64,7 @@ permalink: /cards/elf-stone/
 > > <div class="card-mp"></div>
 > > <div class="card-name">Elf-stone</div>
 >
-> {: .hero-resource-name .black-text .p-1 .pl-2 }
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
 > > [+2![](/assets/images/di.svg)]
 >
 > {: .card-classification .pr-2 }
