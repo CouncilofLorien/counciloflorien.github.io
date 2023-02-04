@@ -58,7 +58,7 @@ permalink: /cards/dwarven-ring-of-barins-tribe/
 > > <div class="hazard-mp">4</div>
 > > <div class="card-name">Dwarven Ring of Barin's Tribe</div>
 >
-> {: .minion-resource-name .black-text .mind-di .p-1 .pl-2 }
+> {: .minion-resource-name .white-text .mind-di .p-1 .pl-2 }
 > > +2![](/assets/images/di.svg) [7![](/assets/images/di.svg)]
 >
 > {: .hazard-classification .pr-2 }

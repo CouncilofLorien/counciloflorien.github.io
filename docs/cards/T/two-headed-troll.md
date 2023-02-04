@@ -18,14 +18,14 @@ permalink: /cards/two-headed-troll/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Two-headed Troll</div>
 >
-> {: .minion-resource-name .black-text .mind-di .p-1 .pl-2 }
+> {: .minion-resource-name .white-text .mind-di .p-1 .pl-2 }
 > > 2 ![](/assets/images/mind.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior Ally
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable at any tapped or untapped Ruins & Lairs \[![](/assets/images/ruinlair.svg)] with a Troll automatic-attack. Tap to cancel an Orc or Troll attack. Cannot be duplicated in a given company. 
+> > ***Playable at any tapped or untapped Ruins & Lairs*** \[![](/assets/images/ruinlair.svg)] ***with a Troll automatic-attack.*** Tap to cancel an Orc or Troll attack. Cannot be duplicated in a given company. 
 > > 
 > > {: .fs-3 } 
 > > _“I'm afraid trolls do behave like that, even those with only one head each."_ ***---&#65279;Hob*** 

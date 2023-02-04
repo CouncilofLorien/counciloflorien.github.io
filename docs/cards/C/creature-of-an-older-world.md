@@ -18,7 +18,7 @@ permalink: /cards/creature-of-an-older-world/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Creature of an Older World</div>
 >
-> {: .minion-resource-name .black-text .mind-di .p-1 .pl-2 }
+> {: .minion-resource-name .white-text .mind-di .p-1 .pl-2 }
 > > 3 ![](/assets/images/mind.svg)
 >
 > {: .hazard-classification .pr-2 }

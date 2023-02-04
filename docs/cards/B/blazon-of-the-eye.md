@@ -18,7 +18,7 @@ permalink: /cards/blazon-of-the-eye/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Blazon of the Eye</div>
 >
-> {: .minion-resource-name .black-text .mind-di .p-1 .pl-2 }
+> {: .minion-resource-name .white-text .mind-di .p-1 .pl-2 }
 > > [+2![](/assets/images/di.svg)]
 >
 > {: .hazard-classification .pr-2 }
@@ -41,7 +41,7 @@ permalink: /cards/blazon-of-the-eye/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Blazon of the Eye</div>
 >
-> {: .minion-resource-name .black-text .mind-di .p-1 .pl-2 }
+> {: .minion-resource-name .white-text .mind-di .p-1 .pl-2 }
 > > [+2![](/assets/images/di.svg)]
 >
 > {: .hazard-classification .pr-2 }

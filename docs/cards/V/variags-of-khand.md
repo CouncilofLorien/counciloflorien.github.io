@@ -56,7 +56,7 @@ permalink: /cards/variags-of-khand/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Manifestation of hero Variags of Khand. Playable at Variag Camp if the influence check is greater than 8.  <br>_Standard Modifications:_ Nurniags (+2), Haradrim (-2). 
+> > _**Unique.**_ _Manifestation of hero Variags of Khand_. ***Playable at Variag Camp*** <br>&ensp;if the influence check is greater than 8.  <br>_Standard Modifications:_ Nurniags (+2), Haradrim (-2). 
 > > 
 > > {: .fs-3 } 
 > > _“Hard fighting...and the hills and mountains were dyed as with blood."_ ***---&#65279;LotRV***  

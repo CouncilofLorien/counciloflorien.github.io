@@ -56,7 +56,7 @@ permalink: /cards/easterlings/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Manifestation of hero Easterlings. Playable at Easterling Camp if the influence check is greater than 8.  <br>_Standard Modifications:_ Balchoth (+2), Wain-easterlings (+2), Men of Dorwinion (-2). 
+> > _**Unique.**_ _Manifestation of hero Easterlings._ ***Playable at Easterling Camp*** <br>&ensp;if the influence check is greater than 8.  <br>_Standard Modifications:_ Balchoth (+2), Wain-easterlings (+2), Men of Dorwinion (-2). 
 > > 
 > > {: .fs-3 } 
 > > _“For in the past the attacks of the Easterlings had come mostly over the plain...”_ ***---&#65279;LotR*** 

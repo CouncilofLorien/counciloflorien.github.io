@@ -25,7 +25,10 @@ permalink: /cards/tarcil/
 > Warrior/Ranger/Diplomat Dunadan
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_  "The power and wealth...continued to increase; but their years lessened as their fear of death grew, and their joy departed."_ ***---&#65279;LotR***  
+> > _**Unique.**_  
+> > 
+> > {: .fs-3 } 
+> > _"The power and wealth...continued to increase; but their years lessened as their fear of death grew, and their joy departed."_ ***---&#65279;LotR***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Minas Morgol 

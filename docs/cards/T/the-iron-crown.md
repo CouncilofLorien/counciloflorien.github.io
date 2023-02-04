@@ -41,7 +41,7 @@ permalink: /cards/the-iron-crown/
 > > <div class="hazard-mp">3(5)</div>
 > > <div class="card-name">The Iron Crown</div>
 >
-> {: .minion-resource-name .black-text .mind-di .p-1 .pl-2 }
+> {: .minion-resource-name .white-text .mind-di .p-1 .pl-2 }
 > > +4![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }

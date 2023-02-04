@@ -25,7 +25,7 @@ permalink: /cards/the-mouth/
 > Warrior/Diplomat Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ Manifestation of Mouth of Sauron. +2 direct influence against any faction. Tap during your organization phase to move one resource or character from your discard pile to your play deck and reshuffle. Return The Mouth to your hand when Mouth of Sauron is played; you may automatically transfer one item he bears to a character in the same company (discard the rest).   
+> > _**Unique.**_ _Manifestation of Mouth of Sauron._ +2 direct influence against any faction. Tap during your organization phase to move one resource or character from your discard pile to your play deck and reshuffle. Return _The Mouth_ to your hand when _Mouth of Sauron_ is played; you may automatically transfer one item he bears to a character in the same company (discard the rest).   
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Barad-dur 

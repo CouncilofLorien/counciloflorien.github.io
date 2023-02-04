@@ -22,7 +22,7 @@ permalink: /cards/the-under-galleries/
 > Under-deeps
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Any site in Udun (0), The Under-courts (4), The Sulfur-deeps (8) <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br> Trolls (1st attack) --- 4 strikes with 9 prowess (2nd attack) --- Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Shadow-holds \[![](/assets/images/shadow-hold.svg)] <br>_**Special:**_ _Stolen Knowledge_. When Under-galleries would be placed in your discard pile, place it in your marshalling point pile instead for 3 marshalling points---this card is considered stored. 
+> > _**Adjacent Sites:**_ Any site in Udun (0), The Under-courts (4), The Sulfur-deeps (8) <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br> Trolls (1st attack) --- 4 strikes with 9 prowess <br>(2nd attack) --- Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Shadow-holds \[![](/assets/images/shadow-hold.svg)] <br>_**Special:**_ _Stolen Knowledge_. When Under-galleries would be placed in your discard pile, place it in your marshalling point pile instead for 3 marshalling points---this card is considered stored. 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;4&ensp;</span></div>

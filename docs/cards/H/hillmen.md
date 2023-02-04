@@ -56,7 +56,7 @@ permalink: /cards/hillmen/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Manifestation of hero Hillmen. Playable at Cameth Brin if the influence check is greater than 10.  <br>_Standard Modifications:_ Dunlendings (+2), Angmarim (+2). 
+> > _**Unique.**_ _Manifestation of hero Hillmen._ ***Playable at Cameth Brin*** <br>&ensp;if the influence check is greater than 10.  <br>_Standard Modifications:_ Dunlendings (+2), Angmarim (+2). 
 > > 
 > > {: .fs-3 } 
 > > _“...in secret league with Angmar...Rhudaur was occupied by evil Men...”_ ***---&#65279;LotR***  

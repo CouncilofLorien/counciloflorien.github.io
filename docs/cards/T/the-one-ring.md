@@ -58,7 +58,7 @@ permalink: /cards/the-one-ring/
 > > <div class="hazard-mp">6</div>
 > > <div class="card-name">The One Ring</div>
 >
-> {: .minion-resource-name .black-text .mind-di .p-1 .pl-2 }
+> {: .minion-resource-name .white-text .mind-di .p-1 .pl-2 }
 > > +5![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }

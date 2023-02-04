@@ -18,7 +18,7 @@ permalink: /cards/freeze-the-flesh/
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Freeze the Flesh</div>
 >
-> {: .minion-resource-name .black-text .mind-di .p-1 .pl-2 }
+> {: .minion-resource-name .white-text .mind-di .p-1 .pl-2 }
 > > -2 ![](/assets/images/mind.svg)
 >
 > {: .hazard-classification .pr-2 }

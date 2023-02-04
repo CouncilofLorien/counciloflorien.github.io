@@ -73,7 +73,7 @@ permalink: /cards/dunlendings/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Manifestation of hero Dunlendings. Playable at Dunnish Clan-hold if the influence check is greater than 9.  <br>_Standard Modifications:_ Hillmen (+2). 
+> > _**Unique.**_ _Manifestation of hero Dunlendings_. ***Playable at Dunnish Clan-hold*** if the influence check is greater than 9.  <br>_Standard Modifications:_ Hillmen (+2). 
 > > 
 > > {: .fs-3 } 
 > > _“Brazen trumpets sounded...There...were mustered...the wild men of the Dunland fells."_ ***---&#65279;LotRIII*** 

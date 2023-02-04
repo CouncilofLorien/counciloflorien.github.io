@@ -18,7 +18,7 @@ permalink: /cards/evil-things-lingering/
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">Evil Things Lingering</div>
 >
-> {: .minion-resource-name .black-text .mind-di .p-1 .pl-2 }
+> {: .minion-resource-name .white-text .mind-di .p-1 .pl-2 }
 > > 4 ![](/assets/images/mind.svg)
 >
 > {: .hazard-classification .pr-2 }

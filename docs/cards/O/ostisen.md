@@ -25,7 +25,10 @@ permalink: /cards/ostisen/
 > Scout Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_  “...of the Outlands...the uplands of the Morland, the great Blackroot Vale...”_ ***---&#65279;LotRV***  
+> > _**Unique.**_  
+> > 
+> > {: .fs-3 } 
+> > _“...of the Outlands...the uplands of the Morland, the great Blackroot Vale...”_ ***---&#65279;LotRV***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Vale of Erech 

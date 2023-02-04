@@ -18,14 +18,14 @@ permalink: /cards/war-wolf/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">War-wolf</div>
 >
-> {: .minion-resource-name .black-text .mind-di .p-1 .pl-2 }
+> {: .minion-resource-name .white-text .mind-di .p-1 .pl-2 }
 > > 1 ![](/assets/images/mind.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Ally
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable at any tapped or untapped Ruins & Lairs \[![](/assets/images/ruinlair.svg)] with a Wolf automatic-attack or at any tapped or untapped Shadow-hold \[![](/assets/images/shadow-hold.svg)] with an Orc automatic-attack.   
+> > ***Playable at any tapped or untapped Ruins & Lairs*** \[![](/assets/images/ruinlair.svg)] ***with a Wolf automatic-attack or at any tapped or untapped Shadow-hold*** \[![](/assets/images/shadow-hold.svg)] ***with an Orc automatic-attack.***   
 > > 
 > > {: .fs-3 } 
 > > _“...brutal canines, their throats protected by spiked collars, fangs capped with razor sharp steel, and instincts honed in the arts of slaying."_ ***---&#65279;Kuduk Lore*** 
@@ -41,7 +41,7 @@ permalink: /cards/war-wolf/
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">War-wolf</div>
 >
-> {: .minion-resource-name .black-text .mind-di .p-1 .pl-2 }
+> {: .minion-resource-name .white-text .mind-di .p-1 .pl-2 }
 > > 1 ![](/assets/images/mind.svg)
 >
 > {: .hazard-classification .pr-2 }

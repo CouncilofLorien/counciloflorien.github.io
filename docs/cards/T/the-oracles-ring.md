@@ -18,7 +18,7 @@ permalink: /cards/the-oracles-ring/
 > > <div class="hazard-mp">3</div>
 > > <div class="card-name">The Oracle's Ring</div>
 >
-> {: .minion-resource-name .black-text .mind-di .p-1 .pl-2 }
+> {: .minion-resource-name .white-text .mind-di .p-1 .pl-2 }
 > > -2 ![](/assets/images/mind.svg) +2![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }

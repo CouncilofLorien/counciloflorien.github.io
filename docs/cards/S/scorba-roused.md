@@ -22,5 +22,5 @@ permalink: /cards/scorba-roused/
 > Dragon Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Manifestation of Scorba. Playable at Zarak Dum if the influence check is greater than 11.  Modifications: influencer discards a major item (+3) or a greater item (+6). All attacks by manifestations of Scorba against your companies are canceled. Any company moving in Angmar, Gundabad, and/or Forochel faces one attack: Dragon-three strikes at 12/8 prowess/body (attacker chooses defending characters). 
+> > _**Unique.**_ _Manifestation of Scorba_. ***Playable at Zarak Dum*** <br>&ensp;if the influence check is greater than 11.  _Modifications:_ influencer discards a major item (+3) or a greater item (+6). <br>&ensp;All attacks by manifestations of Scorba against your companies are canceled. Any company moving in Angmar, Gundabad, and/or Forochel faces one attack: Dragon --- three strikes at 12/8 prowess/body (attacker chooses defending characters). 
 > 

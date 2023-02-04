@@ -41,7 +41,7 @@ permalink: /cards/necklace-of-girion/
 > > <div class="hazard-mp">3</div>
 > > <div class="card-name">Necklace of Girion</div>
 >
-> {: .minion-resource-name .black-text .mind-di .p-1 .pl-2 }
+> {: .minion-resource-name .white-text .mind-di .p-1 .pl-2 }
 > > [+3![](/assets/images/di.svg)]
 >
 > {: .hazard-classification .pr-2 }

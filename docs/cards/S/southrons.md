@@ -56,7 +56,7 @@ permalink: /cards/southrons/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Manifestation of hero Southrons. Playable at Southron Oasis if the influence check is greater than 8.  <br>_Standard Modifications:_ Haradrim (+2), Asdriags (-2). 
+> > _**Unique.**_ _Manifestation of hero Southrons_. ***Playable at Southron Oasis*** <br>&ensp;if the influence check is greater than 8.  <br>_Standard Modifications:_ Haradrim (+2), Asdriags (-2). 
 > > 
 > > {: .fs-3 } 
 > > _“...by burned homestead or barn, upon hillock or mound, under wall or on field, still they gathered and rallied and fought until they day wore away."_ ***---&#65279;LotRV***  

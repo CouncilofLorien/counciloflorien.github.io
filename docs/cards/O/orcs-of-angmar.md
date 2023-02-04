@@ -22,7 +22,7 @@ permalink: /cards/orcs-of-angmar/
 > Orc Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Mount Gram if the influence check is greater than 8. Once in play, the number required to influence this faction is 0. <br>_Standard Modifications:_ Morgul-orcs (+2), Orcs of Gundabad (-2). 
+> > _**Unique.**_ ***Playable at Mount Gram*** <br>&ensp;if the influence check is greater than 8. Once in play, the number required to influence this faction is 0. <br>_Standard Modifications:_ Morgul-orcs (+2), Orcs of Gundabad (-2). 
 > > 
 > > {: .fs-3 } 
 > > _“Collectively known as  the Uruk-Engmair, this Orc army was a loose collection of nine tribal confederacies...”_ ***---&#65279;Kuduk Lore***  

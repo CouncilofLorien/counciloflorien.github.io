@@ -22,7 +22,7 @@ permalink: /cards/balchoth/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Raider-hold if the influence check is greater than 8.  <br>_Standard Modifications:_ Easterlings (+2), Men of Dorwinion(-2). 
+> > _**Unique.**_ ***Playable at Raider-hold*** <br>&ensp;if the influence check is greater than 8.  <br>_Standard Modifications:_ Easterlings (+2), Men of Dorwinion(-2). 
 > > 
 > > {: .fs-3 } 
 > > _“... a fierce people...they made raids...until the vale of Anduin south of the Gladden was largely deserted."_ ***---&#65279;LotR*** 

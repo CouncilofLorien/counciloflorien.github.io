@@ -18,14 +18,14 @@ permalink: /cards/blackbole/
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">Blackbole</div>
 >
-> {: .minion-resource-name .black-text .mind-di .p-1 .pl-2 }
+> {: .minion-resource-name .white-text .mind-di .p-1 .pl-2 }
 > > 3 ![](/assets/images/mind.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Ally
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at any site in Western Mirkwood, Heart of Mirkwood, or Southern Mirkwood (except Dol Guldur). May not face any strike at a site or from an automatic-attack. 
+> > _**Unique.**_ ***Playable at any site in Western Mirkwood, Heart of Mirkwood, or Southern Mirkwood (except Dol Guldur).*** May not face any strike at a site or from an automatic-attack. 
 > > 
 > > {: .fs-3 } 
 > > _“‘Some are quite wide awake...When that happens to a tree, you find that some have bad hearts.’”_ ***---&#65279;LotRIII*** 

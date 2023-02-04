@@ -25,7 +25,7 @@ permalink: /cards/lieutenant-of-angmar/
 > Warrior/Scout Troll
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ _Olog-hai._ _Leader._ Manifestation of Rogrog. Discard on a body check result of 9. +4 direct influence against Trolls, Orcs, Troll factions, and Orc factions. When he is at Carn Dum, you may keep one more card than normal in your hand.   
+> > _**Unique.**_ _Olog-hai._ _Leader._ _Manifestation of Rogrog._ Discard on a body check result of 9. +4 direct influence against Trolls, Orcs, Troll factions, and Orc factions. When he is at Carn Dum, you may keep one more card than normal in your hand.   
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Carn Dum 

@@ -28,7 +28,7 @@ permalink: /cards/belegorn/
 > > _**Unique.**_ Can use spirit-magic. 
 > > 
 > > {: .fs-3 } 
-> > _“...some single power and will was directing the assult from many quarters upon the survivors of Numenor."_ ***---&#65279;LotR***  
+> > _“...some single power and will was directing the assault from many quarters upon the survivors of Numenor."_ ***---&#65279;LotR***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Carn Dum  
