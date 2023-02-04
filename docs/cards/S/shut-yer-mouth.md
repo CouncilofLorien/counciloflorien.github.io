@@ -22,5 +22,5 @@ permalink: /cards/shut-yer-mouth/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a non-Wizard, non-Ringwraith character. -2 to character's direct influence (to a minimum of zero). Once during each of his organization phases, the character may attempt to remove this card by making a roll (drawing a #)-if the result is greater than 7, discard this card. Cannot be duplicated on a given character. 
+> > ***Playable on a non-Wizard, non-Ringwraith character.*** -2 to character's direct influence (to a minimum of zero). Once during each of his organization phases, the character may attempt to remove this card by making a roll (drawing a #)---if the result is greater than 7, discard this card. Cannot be duplicated on a given character. 
 >

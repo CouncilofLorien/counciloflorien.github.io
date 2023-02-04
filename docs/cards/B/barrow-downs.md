@@ -71,7 +71,7 @@ permalink: /cards/barrow-downs/
 > Cardolan
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Undead - 1 strike with 8 prowess; each character wounded must make a corruption check modified by -2  
+> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Undead --- 1 strike with 8 prowess; each character wounded must make a corruption check modified by -2  
 > > 
 > > {: .fs-3 } 
 > > _“There was no tree nor any visible water: it was a country of grass...and high lonely cries of strange birds."_ ***---&#65279;LotRI*** 

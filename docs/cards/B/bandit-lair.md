@@ -71,7 +71,7 @@ permalink: /cards/bandit-lair/
 > Brown Lands
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Men - 3 strikes with 6 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Men --- 3 strikes with 6 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“For in the time of ruin houseless and desperate men went astray, some refugees of battle and defeat and lands laid waste, others outlaws driven into the wild for evil deeds."_ ***---&#65279;Kuduk Lore*** 
@@ -117,7 +117,7 @@ permalink: /cards/bandit-lair/
 > Brown Lands
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Men - 3 strikes with 6 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Men - 3 strikes with 6 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“For in the time of ruin houseless and desperate men went astray, some refugees of battle and defeat and lands laid waste, others outlaws driven into the wild for evil deeds."_ ***---&#65279;Kuduk Lore*** 

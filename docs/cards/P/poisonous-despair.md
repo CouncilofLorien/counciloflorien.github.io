@@ -22,7 +22,7 @@ permalink: /cards/poisonous-despair/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Magic._ _Spirit-_Magic.__ Playable on a spirit-magic-using character in response to an influence attempt against a character, ally, or item in his company. The attempt is canceled. If the character is a Ringwraith, he can also cancel an influence attempt against any of his factions. May be played during opponent's site phase. Unless he is a Ringwraith, he makes a corruption check modified by -3. 
+> > _Magic._ _Spirit-magic._ ***Playable on a spirit-magic-using character in response to an influence attempt against a character, ally, or item in his company.*** The attempt is canceled. If the character is a Ringwraith, he can also cancel an influence attempt against any of his factions. May be played during opponent's site phase. Unless he is a Ringwraith, he makes a corruption check modified by -3. 
 > 
 
 ### _Middle-earth Challenge Decks_

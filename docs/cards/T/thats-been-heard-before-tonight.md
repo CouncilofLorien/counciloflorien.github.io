@@ -22,7 +22,7 @@ permalink: /cards/thats-been-heard-before-tonight/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable during the site phase on an untapped character in a covert company at a Border-hold \[![](/assets/images/border-hold.svg)] or Free-hold \[![](/assets/images/free-hold.svg)] where Information is playable. Tap the character (but not the site). No marshalling points are received and the character may not untap until this card is stored at a Darkhaven \[![](/assets/images/dark-haven.svg)] during his organization phase.  
+> > ***Playable during the site phase on an untapped character in a covert company at a Border-hold*** \[![](/assets/images/border-hold.svg)] ***or Free-hold*** \[![](/assets/images/free-hold.svg)] ***where Information is playable.*** Tap the character (but not the site). No marshalling points are received and the character may not untap until this card is stored at a Darkhaven \[![](/assets/images/dark-haven.svg)] during his organization phase.  
 > 
 
 ### _Middle-earth Challenge Decks_

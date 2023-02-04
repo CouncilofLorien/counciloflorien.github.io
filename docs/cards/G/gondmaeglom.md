@@ -48,7 +48,7 @@ permalink: /cards/gondmaeglom/
 > Grey Mountain Narrows
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br> Dragon-1 strike with 14 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br> Dragon --- 1 strike with 14 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘And the halls and cavernous streets under the earth with arches carved like trees...’”_ ***---&#65279;LotRII*** 
@@ -71,7 +71,7 @@ permalink: /cards/gondmaeglom/
 > Grey Mountain Narrows
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br> Dragon-1 strike with 14 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br> Dragon-1 strike with 14 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘And the halls and cavernous streets under the earth with arches carved like trees...’”_ ***---&#65279;LotRII*** 
@@ -94,7 +94,7 @@ permalink: /cards/gondmaeglom/
 > Grey Mountain Narrows
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br> Dragon-1 strike with 14 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br> Dragon-1 strike with 14 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘And the halls and cavernous streets under the earth with arches carved like trees...’”_ ***---&#65279;LotRII*** 

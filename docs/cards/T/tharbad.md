@@ -48,7 +48,7 @@ permalink: /cards/tharbad/
 > Cardolan
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br> Men-3 strikes with 6 prowess <br>_**Special:**_ Items may be played at this site even if it is tapped. 
+> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br> Men --- 3 strikes with 6 prowess <br>_**Special:**_ Items may be played at this site even if it is tapped. 
 > > 
 > > {: .fs-3 } 
 > > _“Great floods devastate Enedwaiith and Minhiriath. Tharbad is ruined and deserted."_ ***---&#65279;LotR*** 

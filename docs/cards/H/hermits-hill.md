@@ -45,7 +45,7 @@ permalink: /cards/hermits-hill/
 > Wold & Foothills
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br> Men-3 strikes with 6 prowess <br>_**Special:**_ During the site phase, a company may discard two minor items they bear to make any one gold ring item (regardless of its text restrictions) playable at this site this turn. 
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br> Men --- 3 strikes with 6 prowess <br>_**Special:**_ During the site phase, a company may discard two minor items they bear to make any one gold ring item (regardless of its text restrictions) playable at this site this turn. 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>

@@ -62,7 +62,7 @@ permalink: /cards/palantir-of-elostirion/
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Palantir._ Playable at The White Towers. Discard if the bearer moves. If the bearer is a sage: your hand size increases by one and the bearer is able to use this Palantir this turn if he taps. With its bearer able to use a Palantir, tap Palantir of Elostirion to draw a card. Bearer then makes a corruption check. 
+> > _**Unique.**_ _Palantir._ ***Playable at The White Towers.*** Discard if the bearer moves. If the bearer is a sage: your hand size increases by one and the bearer is able to use this Palantir this turn if he taps. With its bearer able to use a Palantir, tap _Palantir of Elostirion_ to draw a card. Bearer then makes a corruption check. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

@@ -48,7 +48,7 @@ permalink: /cards/true-fire-drake/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Drake._ Two strikes. Only two Wildernesses \[![](/assets/images/wilderness.svg)] in site path are required if Doors of Night is in play. 
+> > _Drake._ Two strikes. Only two Wildernesses \[![](/assets/images/wilderness.svg)] in site path are required if _Doors of Night_ is in play. 
 > > 
 > > {: .fs-3 } 
 > > _“Fire leaped from the thatched roofs and wooden beam-ends as he hurtled down and past and round again...”_ ***---&#65279;Hob*** 

@@ -22,7 +22,7 @@ permalink: /cards/geann-a-lisch/
 > Old Pukel-land
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Site Path from Carn Dum: \[![](/assets/images/shadow-land.svg)] \[![](/assets/images/wilderness.svg)] \[![](/assets/images/wilderness.svg)] \[![](/assets/images/wilderness.svg)] \[![](/assets/images/wilderness.svg)] <br>_**Special:**_ No character may be brought into play at this site (unless it is the character's home site). Resources may never be stored at this site. Geann a-Lisch counts as a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] for the purposes of playing and interpreting hazards. Its site path for this purpose, if needed, is the one from Carn Dum. 
+> > ***Site Path from Carn Dum:*** <br>![](/assets/images/shadow-land.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) <br>_**Special:**_ No character may be brought into play at this site (unless it is the character's home site). Resources may never be stored at this site. Geann a-Lisch counts as a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] for the purposes of playing and interpreting hazards. Its site path for this purpose, if needed, is the one from Carn Dum. 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

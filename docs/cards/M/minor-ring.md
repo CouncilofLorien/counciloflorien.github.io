@@ -22,7 +22,7 @@ permalink: /cards/minor-ring/
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Lesser Ring._ Playable only with a Gold Ring and after a test indicates a _Lesser Ring._ +2 to direct influence. Cannot be duplicated on a given character. 
+> > _Lesser Ring._ ***Playable only with a Gold Ring and after a test indicates a Lesser Ring.*** +2 to direct influence. Cannot be duplicated on a given character. 
 > > 
 > > {: .fs-3 } 
 > > _“‘...magic rings as you call them, and they were, of course, of various kinds: some more potent and some less.’”_ ***---&#65279;LotRI*** 

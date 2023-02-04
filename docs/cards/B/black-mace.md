@@ -22,7 +22,7 @@ permalink: /cards/black-mace/
 > Greater Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Weapon._ Warrior only: +3 to prowess to a maximum of 10 (+4 to a maximum of 10 against Elves). 
+> > _Weapon._ _Warrior only:_ +3 to prowess to a maximum of 10 (+4 to a maximum of 10 against Elves). 
 > > 
 > > {: .fs-3 } 
 > > _“A great black mace he wielded." LotRI 

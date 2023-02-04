@@ -22,5 +22,5 @@ permalink: /cards/in-the-name-of-mordor/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable on an untapped character whose company is facing a detainment attack keyed to (by name or by type) a Dark-hold \[![](/assets/images/dark-hold.svg)], Dark-domain \[![](/assets/images/dark-domain.svg)], Shadow-hold \[![](/assets/images/shadow-hold.svg)], or Shadow-land \[![](/assets/images/shadow-land.svg)]. Tap the character and cancel the attack.  Alternatively, this card cancels and discards one Nazgul hazard event. 
+> > ***Playable on an untapped character whose company is facing a detainment attack keyed to (by name or by type) a Dark-hold*** \[![](/assets/images/dark-hold.svg)]***, Dark-domain*** \[![](/assets/images/dark-domain.svg)]***, Shadow-hold*** \[![](/assets/images/shadow-hold.svg)]***, or Shadow-land*** \[![](/assets/images/shadow-land.svg)]. Tap the character and cancel the attack.  <br>&ensp;Alternatively, this card cancels and discards one Nazgul hazard event. 
 > 

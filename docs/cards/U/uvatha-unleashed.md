@@ -22,7 +22,7 @@ permalink: /cards/uvatha-unleashed/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable on Uvatha the Ringwraith's own company (if Uvatha is your Ringwraith) at the end of his movement/hazard phase. His company may move to an additional site this turn. A site card may be played and another movement/hazard phase immediately follows for his company. 
+> > ***Playable on Uvatha the Ringwraith's own company (if Uvatha is your Ringwraith) at the end of his movement/hazard phase.*** His company may move to an additional site this turn. A site card may be played and another movement/hazard phase immediately follows for his company. 
 > > 
 > > {: .fs-3 } 
 > > _“...going hither and thither in the lands...”_ ***---&#65279;LotRII*** 

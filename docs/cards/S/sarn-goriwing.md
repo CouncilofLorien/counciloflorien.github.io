@@ -71,7 +71,7 @@ permalink: /cards/sarn-goriwing/
 > Heart of Mirkwood
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 5 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs --- 3 strikes with 5 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...the doubled waters poured out again over high waterfalls and ran away hurriedly...”_ ***---&#65279;Hob*** 
@@ -117,7 +117,7 @@ permalink: /cards/sarn-goriwing/
 > Heart of Mirkwood
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 5 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 5 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...the doubled waters poured out again over high waterfalls and ran away hurriedly...”_ ***---&#65279;Hob*** 
@@ -140,7 +140,7 @@ permalink: /cards/sarn-goriwing/
 > Heart of Mirkwood
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 5 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 5 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...the doubled waters poured out again over high waterfalls and ran away hurriedly...”_ ***---&#65279;Hob*** 

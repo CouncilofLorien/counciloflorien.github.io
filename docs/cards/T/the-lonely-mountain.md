@@ -71,7 +71,7 @@ permalink: /cards/the-lonely-mountain/
 > Northern Rhovanion
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon - 1 strike with 14 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon --- 1 strike with 14 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...they could look out and see the dark cavernous opening in a great cliff-wall between the arms of the Mountain. Out of it the waters of the Running River sprang...”_ ***---&#65279;Hob*** 
@@ -117,7 +117,7 @@ permalink: /cards/the-lonely-mountain/
 > Northern Rhovanion
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon - 1 strike with 14 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon - 1 strike with 14 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...they could look out and see the dark cavernous opening in a great cliff-wall between the arms of the Mountain. Out of it the waters of the Running River sprang...”_ ***---&#65279;Hob*** 

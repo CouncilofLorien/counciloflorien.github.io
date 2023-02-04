@@ -22,7 +22,7 @@ permalink: /cards/awaiting-the-call/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable during the organization phase on a character with a mind of 6 or less at a non-Darkhaven. For the purposes of controlling this character, his mind is halved (round down). Discard this card when the character moves. Cannot be duplicated on a given character. 
+> > ***Playable during the organization phase on a character with a mind of 6 or less at a non-Darkhaven.*** For the purposes of controlling this character, his mind is halved (round down). Discard this card when the character moves. Cannot be duplicated on a given character. 
 > 
 
 ### _Middle-earth Challenge Decks_

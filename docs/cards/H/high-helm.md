@@ -22,7 +22,7 @@ permalink: /cards/high-helm/
 > Major Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Helmet:_ +2 to direct influence. +1 to body to a maximum of 9. Warrior only: +1 to prowess to a maximum of 8. 
+> > _**Unique.**_ _Helmet:_ +2 to direct influence. +1 to body to a maximum of 9. _Warrior only:_ +1 to prowess to a maximum of 8. 
 > > 
 > > {: .fs-3 } 
 > > _“...and black was his lofty helm...”_ ***---&#65279;LotRI*** 

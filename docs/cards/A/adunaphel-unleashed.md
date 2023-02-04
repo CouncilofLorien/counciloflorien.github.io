@@ -22,5 +22,5 @@ permalink: /cards/adunaphel-unleashed/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable on any attack against Adunaphel (as your Ringwraith) if she is the only character in her company. The number of strikes of the attack is reduced to one and the attack's body is modified by -2.  Alternatively, playable on any attack by a lone Adunaphel the Ringwraith (as your Ringwraith). You choose defending characters. Any resulting body checks for defending characters are modified by +2. Cannot ne duplicated on a given attack. 
+> > ***Playable on any attack against Adunaphel (as your Ringwraith) if she is the only character in her company.*** The number of strikes of the attack is reduced to one and the attack's body is modified by -2. <br>&ensp;Alternatively, ***playable on any attack by a lone Adunaphel the Ringwraith (as your Ringwraith).*** You choose defending characters. Any resulting body checks for defending characters are modified by +2. Cannot ne duplicated on a given attack. 
 > 

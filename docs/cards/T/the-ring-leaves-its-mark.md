@@ -22,5 +22,5 @@ permalink: /cards/the-ring-leaves-its-mark/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Bring one Black Rider, Fell Rider, or Heralded Lord card from your sideboard or discard pile into your play deck and reshuffle.  Alternatively, playable on your tapped Ringwraith. Make a roll (draw a #)-if the result is greater than 6, untap your Ringwraith.  
+> > Bring one _Black Rider_, _Fell Rider_, or _Heralded Lord_ card from your sideboard or discard pile into your play deck and reshuffle.  <br>&ensp;Alternatively, ***playable on your tapped Ringwraith.*** Make a roll (draw a #)---if the result is greater than 6, untap your Ringwraith.  
 > 

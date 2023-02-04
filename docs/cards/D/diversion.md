@@ -22,7 +22,7 @@ permalink: /cards/diversion/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable on an unwounded character facing an attack. The attack is canceled and the character is wounded (no body check is required). 
+> > ***Playable on an unwounded character facing an attack.*** The attack is canceled and the character is wounded (no body check is required). 
 > > 
 > > {: .fs-3 } 
 > > _“When the battle was over, we found that Gollum was gone...”_ ***---&#65279;LotRII*** 

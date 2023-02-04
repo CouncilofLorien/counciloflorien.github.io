@@ -25,7 +25,7 @@ permalink: /cards/landroval/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ Animal. Two strikes (playable only against an overt minion company). Attacker chooses defending characters. 
+> > _**Unique.**_ _Animal._ Two strikes (playable only against an overt minion company). Attacker chooses defending characters. 
 > > 
 > > {: .fs-3 } 
 > > _“...and Landroval his brother, greatest of all the Eagles of the North, mightiest of the descendants of old Thorondor...”_ ***---&#65279;LotRVI*** 

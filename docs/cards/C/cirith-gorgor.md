@@ -25,7 +25,7 @@ permalink: /cards/cirith-gorgor/
 > Udun
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Minas Morgul  
+> > ***Nearest Darkhaven:*** Minas Morgul  
 > > 
 > > {: .fs-3 } 
 > > _“This was Cirith Gorgor, the Haunted Pass, the entrance to the land of the Enemy"_ ***---&#65279;LotRVI*** 
@@ -71,7 +71,7 @@ permalink: /cards/cirith-gorgor/
 > Udun
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Minas Morgul  
+> > ***Nearest Darkhaven:*** Minas Morgul  
 > > 
 > > {: .fs-3 } 
 > > _“This was Cirith Gorgor, the Haunted Pass, the entrance to the land of the Enemy"_ ***---&#65279;LotRVI*** 

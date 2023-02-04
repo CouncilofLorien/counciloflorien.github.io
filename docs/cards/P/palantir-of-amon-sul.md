@@ -56,7 +56,7 @@ permalink: /cards/palantir-of-amon-sul/
 > Greater Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Palantir._ If the bearer's company is ever below 2 characters and it moves, discard this item. With its bearer able to use a Palantir, tap Palantir of Amon Sul to look at your opponent's hand or tap it to use the abilities of either minion Palantir of Annuminas or minion Palantir of Elostirion if either one is in play. Bearer then makes a corruption check. 5 marshalling points if stored at Barad-dur. 
+> > _**Unique.**_ _Palantir._ If the bearer's company is ever below 2 characters and it moves, discard this item. With its bearer able to use a Palantir, tap _Palantir of Amon Sul_ to look at your opponent's hand or tap it to use the abilities of either minion _Palantir of Annuminas_ or minion _Palantir of Elostirion_ if either one is in play. Bearer then makes a corruption check. 5 marshalling points if stored at Barad-dur. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

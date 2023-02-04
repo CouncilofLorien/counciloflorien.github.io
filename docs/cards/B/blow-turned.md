@@ -22,7 +22,7 @@ permalink: /cards/blow-turned/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Warrior only: Warrior does not tap against one strike. If wounded by the strike, his body check is modified by -1. 
+> > _Warrior only:_ Warrior does not tap against one strike. If wounded by the strike, his body check is modified by -1. 
 > > 
 > > {: .fs-3 } 
 > > _“With a thrust of his huge hide shield he turned Bormir's sword and bore him backwards, throwing him to the ground."_ ***---&#65279;LotRII*** 

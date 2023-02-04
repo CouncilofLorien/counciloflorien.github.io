@@ -25,7 +25,7 @@ permalink: /cards/the-oracles-ring/
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Spirit Ring._ Playable only with a Gold Ring and after a test indicates a _Spirit Ring._ -2 to bearer's mind (minimum of 1). +4 to bearer's direct influence. Cannot be duplicated on a given character. 
+> > _Spirit Ring._ ***Playable only with a Gold Ring and after a test indicates a Spirit Ring.*** -2 to bearer's mind (minimum of 1). +4 to bearer's direct influence. Cannot be duplicated on a given character. 
 > > 
 > > {: .fs-3 } 
 > > _“‘Here is the ring...the token of our kinship from afar...’”_ ***---&#65279;LotR*** 

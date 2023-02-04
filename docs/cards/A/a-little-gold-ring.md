@@ -22,7 +22,7 @@ permalink: /cards/a-little-gold-ring/
 > Gold Ring Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > May only be played at Bag End or a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] where gold rings are playable. Bearer must make a corruption check at the end of each of his untap phases. Discard this ring when tested. If tested, obtain a random value to determine which ring card may be immediately played: The One Ring (11, 12+); a Dwarven Ring (9, 10, 11, 12+); a Magic Ring (1, 2, 3, 4, 5, 6); a Lesser Ring (any result). 
+> > ***May only be played at Bag End or a Ruins & Lairs*** \[![](/assets/images/ruinlair.svg)] ***where gold rings are playable.*** Bearer must make a corruption check at the end of each of his untap phases. Discard this ring when tested. If tested, obtain a random value to determine which ring card may be immediately played: _The One Ring_ (11, 12+); a Dwarven Ring (9, 10, 11, 12+); a Magic Ring (1, 2, 3, 4, 5, 6); a Lesser Ring (any result). 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

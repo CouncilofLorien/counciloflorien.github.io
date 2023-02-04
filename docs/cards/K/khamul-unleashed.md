@@ -22,5 +22,5 @@ permalink: /cards/khamul-unleashed/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable on any attack against Khamul the Ringwraith's own company (if Khamul the Ringwraith is your Ringwraith). The prowess of the attack is modified by -3.  Alternatively, playable on any attack by Khamul the Ringwraith's own company declares an attack (if Khamul the Ringwraith is your Ringwraith). You choose defending characters.  
+> > ***Playable on any attack against Khamul the Ringwraith's own company (if Khamul the Ringwraith is your Ringwraith).*** The prowess of the attack is modified by -3.  <br>&ensp;Alternatively, ***playable on any attack by Khamul the Ringwraith's own company declares an attack (if Khamul the Ringwraith is your Ringwraith).*** You choose defending characters.  
 > 

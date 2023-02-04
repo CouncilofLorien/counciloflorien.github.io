@@ -22,5 +22,5 @@ permalink: /cards/remnants-of-old-robberies/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable on non-Wolves, non-Animals, non-Nazgul hazard creature that a company has just defeated. Place this card with the attack's card. The company receives a number of miscellaneous marshalling points equal to the kill marshalling points the defeated creature would give a hero player.  
+> > ***Playable on non-Wolves, non-Animals, non-Nazgul hazard creature that a company has just defeated.*** Place this card with the attack's card. The company receives a number of miscellaneous marshalling points equal to the kill marshalling points the defeated creature would give a hero player.  
 > 

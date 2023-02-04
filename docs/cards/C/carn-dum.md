@@ -68,7 +68,7 @@ permalink: /cards/carn-dum/
 > Angmar
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Site Path from Dol Guldur: \[![](/assets/images/dark-domain.svg)] \[![](/assets/images/border-land.svg)] \[![](/assets/images/dark-domain.svg)] \[![](/assets/images/shadow-land.svg)] Site Path From Geann a-Lisch: \[![](/assets/images/wilderness.svg)] \[![](/assets/images/wilderness.svg)] \[![](/assets/images/wilderness.svg)] \[![](/assets/images/wilderness.svg)] \[![](/assets/images/shadow-land.svg)] <br>_**Special:**_ Unless this site is a character's home site, a non-Orc, non-Troll character may not be brought into play at this site. Any Gold Ring stored at this site is automatically tested (modify the roll by -2). Any attack against a minion company at this site is canceled. 
+> > ***Site Path from Dol Guldur:*** <br>&emsp;![](/assets/images/dark-domain.svg) ![](/assets/images/border-land.svg) ![](/assets/images/dark-domain.svg) ![](/assets/images/shadow-land.svg) <br>&emsp;***Site Path From Geann a-Lisch:*** ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/shadow-land.svg)] <br>_**Special:**_ Unless this site is a character's home site, a non-Orc, non-Troll character may not be brought into play at this site. Any Gold Ring stored at this site is automatically tested (modify the roll by -2). Any attack against a minion company at this site is canceled. 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

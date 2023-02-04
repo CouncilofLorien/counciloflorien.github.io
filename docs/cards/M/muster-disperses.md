@@ -56,7 +56,7 @@ permalink: /cards/muster-disperses/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a faction. The faction's player makes a roll (draws a #), and discards the faction if the result plus his unused general influence is less than 11. 
+> > ***Playable on a faction.*** The faction's player makes a roll (draws a #), and discards the faction if the result plus his unused general influence is less than 11. 
 > > 
 > > {: .fs-3 } 
 > > _“But the Men of Rhun and of Harad, Easterling and Southron, saw the ruin of their war...the most part fled eastward as they could; and some cast their weapons down and sued for mercy."_ ***---&#65279;LotRVI*** 

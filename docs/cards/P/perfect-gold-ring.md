@@ -22,7 +22,7 @@ permalink: /cards/perfect-gold-ring/
 > Gold Ring Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > May only be played at a Dragon's Lair where gold rings are playable. Bearer must make a corruption check at the end of each of his untap phases. Discard this ring when tested. If tested, obtain a random value to determine which ring card may be immediately played: a Magic Ring (1, 2, 3, 4, 5, 6, 7); a Spirit Ring (8, 9, 10, 11, 12+); a Lesser Ring (any result). You may search your play deck and discard pile for a Lesser Ring to be played. 
+> > ***May only be played at a Dragon's Lair where gold rings are playable.*** Bearer must make a corruption check at the end of each of his untap phases. Discard this ring when tested. If tested, obtain a random value to determine which ring card may be immediately played: a Magic Ring (1, 2, 3, 4, 5, 6, 7); a Spirit Ring (8, 9, 10, 11, 12+); a Lesser Ring (any result). You may search your play deck and discard pile for a Lesser Ring to be played. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

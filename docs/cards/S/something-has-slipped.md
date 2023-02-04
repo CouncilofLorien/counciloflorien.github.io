@@ -22,5 +22,5 @@ permalink: /cards/something-has-slipped/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a company. If a character in the company becomes wounded, the prowess of each character in the company is modified by -2 for the rest of the turn. Discard this card during its organization phase if the company is at a Darkhaven \[![](/assets/images/dark-haven.svg)]. Cannot be duplicated on a given company. 
+> > ***Playable on a company.*** If a character in the company becomes wounded, the prowess of each character in the company is modified by -2 for the rest of the turn. Discard this card during its organization phase if the company is at a Darkhaven \[![](/assets/images/dark-haven.svg)]. Cannot be duplicated on a given company. 
 >

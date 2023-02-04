@@ -22,7 +22,7 @@ permalink: /cards/broad-headed-spear/
 > Major Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Weapon._ Warrior only: +2 to prowess to a maximum of 8. 
+> > _Weapon._ _Warrior only:_ +2 to prowess to a maximum of 8. 
 > > 
 > > {: .fs-3 } 
 > > _“...and carried a short broad-headed spear."- LotRVI 

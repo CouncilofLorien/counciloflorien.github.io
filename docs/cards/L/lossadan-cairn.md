@@ -65,7 +65,7 @@ permalink: /cards/lossadan-cairn/
 > Forochel
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Items (minor, major, greater*) *-Palantiri Only <br>_**Automatic-attacks:**_<br> Undead - 2 strikes with 8 prowess; each character wounded must make a corruption check modified by -2  
+> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Items (minor, major, greater*) *-Palantiri Only <br>_**Automatic-attacks:**_<br> Undead --- 2 strikes with 8 prowess; each character wounded must make a corruption check modified by -2  
 > > 
 > > {: .fs-3 } 
 > > _“...a great storm of wind arose, and came with blinding snow out of the North...”_ ***---&#65279;LotR*** 

@@ -71,7 +71,7 @@ permalink: /cards/glittering-caves/
 > Gap of Isen
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Geann a-Lisch <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Pukel-creature - 1 strike with 9 prowess  
+> > ***Nearest Darkhaven:*** Geann a-Lisch <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Pukel-creature --- 1 strike with 9 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘...immeasurable halls, filled with an everlasting music of water that tinkles into pools...’”_ ***---&#65279;LotRIII*** 

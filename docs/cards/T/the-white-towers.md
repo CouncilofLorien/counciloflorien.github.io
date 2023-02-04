@@ -71,7 +71,7 @@ permalink: /cards/the-white-towers/
 > Arthedain
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Wolves - 2 strikes with 6 prowess 
+> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Wolves --- 2 strikes with 6 prowess 
 > > 
 > > {: .fs-3 } 
 > > _“...they came to the Far Downs, and to the Towers, and looked on the distant Sea..."_ ***---&#65279;LotRVI***

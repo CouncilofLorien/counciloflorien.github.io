@@ -71,7 +71,7 @@ permalink: /cards/easterling-camp/
 > Horse Plains
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 5 prowess (detainment against covert company)  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Automatic-attacks:**_<br> Men --- each character faces 1 strike with 5 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
 > > _“They journeyed in great wains, and their chieftains fought in chariots."_ ***---&#65279;LotR*** 
@@ -117,7 +117,7 @@ permalink: /cards/easterling-camp/
 > Horse Plains
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 5 prowess (detainment against covert company)  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 5 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
 > > _“They journeyed in great wains, and their chieftains fought in chariots."_ ***---&#65279;LotR*** 

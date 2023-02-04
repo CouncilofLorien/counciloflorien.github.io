@@ -71,7 +71,7 @@ permalink: /cards/iron-hill-dwarf-hold/
 > Iron Hills
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dwarves-4 strikes with 10 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dwarves --- 4 strikes with 10 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘But nothing will we give, not even a loaf's worth, under threat of force’”_ ***---&#65279;Hob*** 
@@ -117,7 +117,7 @@ permalink: /cards/iron-hill-dwarf-hold/
 > Iron Hills
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dwarves-4 strikes with 10 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dwarves-4 strikes with 10 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘But nothing will we give, not even a loaf's worth, under threat of force’”_ ***---&#65279;Hob*** 

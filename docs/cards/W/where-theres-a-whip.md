@@ -22,5 +22,5 @@ permalink: /cards/where-theres-a-whip/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable on an untapped Orc or Troll character bearing a Whip. Each tapped character in the bearer's company with a mind and prowess less than the bearer's makes a body check modified by -2. Failing the body check wounds, but does not eliminate the character. Each unwounded character in the company becomes untapped. 
+> > ***Playable on an untapped Orc or Troll character bearing a Whip.*** Each tapped character in the bearer's company with a mind and prowess less than the bearer's makes a body check modified by -2. Failing the body check wounds, but does not eliminate the character. Each unwounded character in the company becomes untapped. 
 > 

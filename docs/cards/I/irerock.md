@@ -71,7 +71,7 @@ permalink: /cards/irerock/
 > Withered Heath
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon-1 strike with 14 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon-1 strike with 14 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘Its name is well given, for if you survive the climb and the cold and the wind, the worm awaits."_ ***---&#65279;Kuduk Lore*** 
@@ -94,7 +94,7 @@ permalink: /cards/irerock/
 > Withered Heath
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon-1 strike with 14 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon-1 strike with 14 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘Its name is well given, for if you survive the climb and the cold and the wind, the worm awaits."_ ***---&#65279;Kuduk Lore*** 

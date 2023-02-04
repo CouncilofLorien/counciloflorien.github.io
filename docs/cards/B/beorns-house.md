@@ -71,7 +71,7 @@ permalink: /cards/beorns-house/
 > Anduin Vales
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 10 prowess (detainment against covert company)  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men --- each character faces 1 strike with 10 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
 > > _“...a courtyard, three walls of which were formed by the wooden house and its long wings."_ ***---&#65279;Hob*** 
@@ -117,7 +117,7 @@ permalink: /cards/beorns-house/
 > Anduin Vales
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 10 prowess (detainment against covert company)  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 10 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
 > > _“...a courtyard, three walls of which were formed by the wooden house and its long wings."_ ***---&#65279;Hob*** 
@@ -140,7 +140,7 @@ permalink: /cards/beorns-house/
 > Anduin Vales
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 10 prowess (detainment against covert company)  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 10 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
 > > _“...a courtyard, three walls of which were formed by the wooden house and its long wings."_ ***---&#65279;Hob*** 

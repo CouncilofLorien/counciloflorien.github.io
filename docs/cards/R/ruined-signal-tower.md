@@ -71,7 +71,7 @@ permalink: /cards/ruined-signal-tower/
 > Enedwaith
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Geann a-Lisch <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Spiders - 2 strikes with 8 prowess  
+> > ***Nearest Darkhaven:*** Geann a-Lisch <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Spiders --- 2 strikes with 8 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...beacons built on the tops of outlying hills...points where fresh horses were always in readiness...”_ ***---&#65279;LotRV*** 

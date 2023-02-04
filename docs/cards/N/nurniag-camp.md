@@ -25,7 +25,7 @@ permalink: /cards/nurniag-camp/
 > Nurn
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Minas Morgul  
+> > ***Nearest Darkhaven:*** Minas Morgul  
 > > 
 > > {: .fs-3 } 
 > > _“The nomadic tribes roaming on horseback the eastern plains of Nurn chose a fate seemingly preordained for them: to gallop forever beneath the Shadow darkening their lands."_ ***---&#65279;Kuduk Lore*** 
@@ -71,7 +71,7 @@ permalink: /cards/nurniag-camp/
 > Nurn
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Minas Morgul  
+> > ***Nearest Darkhaven:*** Minas Morgul  
 > > 
 > > {: .fs-3 } 
 > > _“The nomadic tribes roaming on horseback the eastern plains of Nurn chose a fate seemingly preordained for them: to gallop forever beneath the Shadow darkening their lands."_ ***---&#65279;Kuduk Lore*** 

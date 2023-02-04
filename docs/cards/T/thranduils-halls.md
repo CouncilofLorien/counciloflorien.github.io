@@ -71,7 +71,7 @@ permalink: /cards/thranduils-halls/
 > Woodland Realm
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Inromation, Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>  (1st) Elves-each character faces 1 strike with 9 prowess (detainment against covert company) (2nd) Elves-3 strikes with 10 prowess (against overt company only) 
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Information, Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>  (1st) Elves --- each character faces 1 strike with 9 prowess (detainment against covert company) <br>(2nd) Elves --- 3 strikes with 10 prowess (against overt company only) 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -114,7 +114,7 @@ permalink: /cards/thranduils-halls/
 > Woodland Realm
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Inromation, Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>  (1st) Elves-each character faces 1 strike with 9 prowess (detainment against covert company) (2nd) Elves-3 strikes with 10 prowess (against overt company only) 
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Inromation, Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>  (1st) Elves-each character faces 1 strike with 9 prowess (detainment against covert company) (2nd) Elves-3 strikes with 10 prowess (against overt company only) 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -134,7 +134,7 @@ permalink: /cards/thranduils-halls/
 > Woodland Realm
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Inromation, Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>  (1st) Elves-each character faces 1 strike with 9 prowess (detainment against covert company) (2nd) Elves-3 strikes with 10 prowess (against overt company only) 
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Inromation, Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>  (1st) Elves-each character faces 1 strike with 9 prowess (detainment against covert company) (2nd) Elves-3 strikes with 10 prowess (against overt company only) 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

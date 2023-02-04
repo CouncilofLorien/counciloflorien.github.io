@@ -22,5 +22,5 @@ permalink: /cards/iron-road/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable during the organization phase on a moving company at a Darkhaven \[![](/assets/images/dark-haven.svg)]. Opponent draws twice the normal number of cards for this company during the movement/hazard phase. At the end of the turn, the company may replace its site card with the Darkhaven \[![](/assets/images/dark-haven.svg)] at which it began the turn. 
+> > ***Playable during the organization phase on a moving company at a Darkhaven*** \[![](/assets/images/dark-haven.svg)]. Opponent draws twice the normal number of cards for this company during the movement/hazard phase. At the end of the turn, the company may replace its site card with the Darkhaven \[![](/assets/images/dark-haven.svg)] at which it began the turn. 
 > 

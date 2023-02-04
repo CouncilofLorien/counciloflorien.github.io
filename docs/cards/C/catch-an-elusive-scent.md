@@ -22,5 +22,5 @@ permalink: /cards/catch-an-elusive-scent/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Scout only._ Playable during the site phase on an already tapped scout. Tap the scout. Another character in his company may play any minor, major, or gold ring item normally playable at the site. This does not tap the site, and Catch an Elusive Scent can be played at a site that is already tapped.  
+> > _Scout only._ ***Playable during the site phase on an already tapped scout.*** Tap the scout. Another character in his company may play any minor, major, or gold ring item normally playable at the site. This does not tap the site, and _Catch an Elusive Scent_ can be played at a site that is already tapped.  
 > 

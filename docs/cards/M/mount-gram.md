@@ -71,7 +71,7 @@ permalink: /cards/mount-gram/
 > Angmar
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Carn Dum  
+> > ***Nearest Darkhaven:*** Carn Dum  
 > > 
 > > {: .fs-3 } 
 > > _“...the Orcs, who had, as later appeared, long been secretly occupying strongholds in the Misty Mountains...suddenly revealed themselves."_ ***---&#65279;LotR*** 
@@ -117,7 +117,7 @@ permalink: /cards/mount-gram/
 > Angmar
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Carn Dum  
+> > ***Nearest Darkhaven:*** Carn Dum  
 > > 
 > > {: .fs-3 } 
 > > _“...the Orcs, who had, as later appeared, long been secretly occupying strongholds in the Misty Mountains...suddenly revealed themselves."_ ***---&#65279;LotR*** 
@@ -140,7 +140,7 @@ permalink: /cards/mount-gram/
 > Angmar
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Carn Dum  
+> > ***Nearest Darkhaven:*** Carn Dum  
 > > 
 > > {: .fs-3 } 
 > > _“...the Orcs, who had, as later appeared, long been secretly occupying strongholds in the Misty Mountains...suddenly revealed themselves."_ ***---&#65279;LotR*** 

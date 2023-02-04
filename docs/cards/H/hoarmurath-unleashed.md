@@ -22,7 +22,7 @@ permalink: /cards/hoarmurath-unleashed/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable on Hoarmurath the Ringwraith (as your Ringwraith). Cancel an attack against any one of your companies. 
+> > ***Playable on Hoarmurath the Ringwraith (as your Ringwraith).*** Cancel an attack against any one of your companies. 
 > > 
 > > {: .fs-3 } 
 > > _“...with his far-stretched right hand...great evil in the North."_ ***---&#65279;LotR*** 

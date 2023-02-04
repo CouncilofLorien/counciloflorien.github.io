@@ -22,5 +22,5 @@ permalink: /cards/so-youve-come-back/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a character of 5 mind or less. The mind of each other non-follower, non-Ringwraith, non-Wizard character in his company increases by one. Discard this card during the organization phase if target character is in a company accompanied by himself at a Darkhaven \[![](/assets/images/dark-haven.svg)]. Cannot be duplicated on a given character. 
+> > ***Playable on a character of 5 mind or less.*** The mind of each other non-follower, non-Ringwraith, non-Wizard character in his company increases by one. Discard this card during the organization phase if target character is in a company accompanied by himself at a Darkhaven \[![](/assets/images/dark-haven.svg)]. Cannot be duplicated on a given character. 
 >

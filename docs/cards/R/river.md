@@ -73,7 +73,7 @@ permalink: /cards/river/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a site. If a company that has moved to this site this turn does not tap a ranger, it must do nothing during its site phase. 
+> > ***Playable on a site.*** If a company that has moved to this site this turn does not tap a ranger, it must do nothing during its site phase. 
 > > 
 > > {: .fs-3 } 
 > > _“In the far stage, under the distant lamps, they could just make out a figure...as they looked it seemed to move and sway this way and that, as if searching the ground. It then crawled, or went crouching, back into the gloom beyond the lamps."_ ***---&#65279;LotRI*** 

@@ -71,7 +71,7 @@ permalink: /cards/mount-doom/
 > Gorgoroth
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Minas Morgul <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Orcs-1 strike with 6 prowess <br>_**Special:**_ Any sage may tap to test a ring at this site, modifying the result by -3. 
+> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Orcs --- 1 strike with 6 prowess <br>_**Special:**_ Any sage may tap to test a ring at this site, modifying the result by -3. 
 > > 
 > > {: .fs-3 } 
 > > _“Ever and anon the furnaces far below its ashen cone would grow hot and...pour forth rivers of molten rock from chasms in its sides."_ ***---&#65279;LotRVI*** 
@@ -94,7 +94,7 @@ permalink: /cards/mount-doom/
 > Gorgoroth
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Minas Morgul <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Orcs-1 strike with 6 prowess <br>_**Special:**_ Any sage may tap to test a ring at this site, modifying the result by -3. 
+> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Orcs-1 strike with 6 prowess <br>_**Special:**_ Any sage may tap to test a ring at this site, modifying the result by -3. 
 > > 
 > > {: .fs-3 } 
 > > _“Ever and anon the furnaces far below its ashen cone would grow hot and...pour forth rivers of molten rock from chasms in its sides."_ ***---&#65279;LotRVI*** 

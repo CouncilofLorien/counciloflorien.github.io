@@ -71,7 +71,7 @@ permalink: /cards/druadan-forest/
 > Anorien
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Minas Morgul <br>_**Automatic-attacks:**_<br> Men-3 strikes with 6 prowess  
+> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Automatic-attacks:**_<br> Men --- 3 strikes with 6 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...the forgotten wain-road long ago had run down...but now for many lives of men trees had had their way with it, and it had vanished, broken and buried under the leaves of uncounted years."_ ***---&#65279;LotRV*** 

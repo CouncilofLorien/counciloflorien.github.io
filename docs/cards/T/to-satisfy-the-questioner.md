@@ -22,7 +22,7 @@ permalink: /cards/to-satisfy-the-questioner/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable during the site phase on an untapped character at a Free-hold \[![](/assets/images/free-hold.svg)]. Tap the character and site. No marshalling points are received and the character may not untap until this card is stored at a Darkhaven \[![](/assets/images/dark-haven.svg)] during the organization phase. 
+> > ***Playable during the site phase on an untapped character at a Free-hold*** \[![](/assets/images/free-hold.svg)]. Tap the character and site. No marshalling points are received and the character may not untap until this card is stored at a Darkhaven \[![](/assets/images/dark-haven.svg)] during the organization phase. 
 > 
 
 ### _Middle-earth Challenge Decks_

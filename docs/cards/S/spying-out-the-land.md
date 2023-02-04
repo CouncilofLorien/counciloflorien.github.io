@@ -22,5 +22,5 @@ permalink: /cards/spying-out-the-land/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Magic._ _Spirit-_Magic.__ Playable on a spirit-magic-using character during the organization phase. Opponent may reveal to you any hazards from his hand, and only those hazards can be played during the character company's movement/hazard phase. Unless he is a Ringwraith, character makes a corruption check modified by -3. 
+> > _Magic._ _Spirit-magic._ ***Playable on a spirit-magic-using character during the organization phase.*** Opponent may reveal to you any hazards from his hand, and only those hazards can be played during the character company's movement/hazard phase. Unless he is a Ringwraith, character makes a corruption check modified by -3. 
 > 

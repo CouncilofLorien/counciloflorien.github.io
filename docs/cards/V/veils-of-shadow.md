@@ -22,7 +22,7 @@ permalink: /cards/veils-of-shadow/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Magic._ _Sorcery._ Playable on a sorcery-using character facing an automatic-attack. The number of strikes of all automatic-attack at the site this turn are reduced to one. Unless he is a Ringwraith, character makes a corruption check modified by -4. 
+> > _Magic._ _Sorcery._ ***Playable on a sorcery-using character facing an automatic-attack.*** The number of strikes of all automatic-attack at the site this turn are reduced to one. Unless he is a Ringwraith, character makes a corruption check modified by -4. 
 > > 
 > > {: .fs-3 } 
 > > _“...for here as the Mountain drew near the air was ever mirky...”_ ***---&#65279;LotRVI*** 

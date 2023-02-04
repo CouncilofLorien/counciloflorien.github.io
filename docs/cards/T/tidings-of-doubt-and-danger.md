@@ -22,7 +22,7 @@ permalink: /cards/tidings-of-doubt-and-danger/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The direct influence of each Ringwraith is lowered by 2 (by 3 if Doors of Night is in play). Discard when any play deck is exhausted. Cannot be duplicated. 
+> > The direct influence of each Ringwraith is lowered by 2 (by 3 if _Doors of Night_ is in play). Discard when any play deck is exhausted. Cannot be duplicated. 
 > > 
 > > {: .fs-3 } 
 > > _“The Dark Power was deep in thought, and the Eye turned inward, pondering tidings of doubt and danger...”_ ***---&#65279;LotRVI*** 

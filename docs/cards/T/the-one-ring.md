@@ -65,7 +65,7 @@ permalink: /cards/the-one-ring/
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ The One Ring. Playable only with a Gold Ring and after a test indicates The One Ring. +5 prowess (to a maximum of double the bearer's normal prowess). +5 to body (to a maximum of 10). +5 to direct influence. Bearer may make a corruption check modified by -2 to cancel a non-Undead, non-Nazgul strike. +1 corruption point to every character in the bearer's company. 
+> > _**Unique.**_ _The One Ring._ ***Playable only with a Gold Ring and after a test indicates The One Ring.*** +5 prowess (to a maximum of double the bearer's normal prowess). +5 to body (to a maximum of 10). +5 to direct influence. Bearer may make a corruption check modified by -2 to cancel a non-Undead, non-Nazgul strike. +1 corruption point to every character in the bearer's company. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +5/+5 】</div>

@@ -22,7 +22,7 @@ permalink: /cards/wrath-of-the-west/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a minion resource short-event declared earlier in the same chain of effects. Make a roll (draw a #)-if the result is greater than 6, the event is cancelled and discarded.   
+> > ***Playable on a minion resource short-event declared earlier in the same chain of effects.*** Make a roll (draw a #)---if the result is greater than 6, the event is cancelled and discarded.   
 > > 
 > > {: .fs-3 } 
 > > _“...more than a thunderstorm, a thunder-battle...when two great thunderstorms meet and clash."_ ***---&#65279;Hob*** 

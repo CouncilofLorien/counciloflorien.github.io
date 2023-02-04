@@ -22,7 +22,7 @@ permalink: /cards/motionless-among-the-slain/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable on an attack. You assign all strikes of the attack regardless of the attack's normal capabilities and character status. +1 to all body checks by your characters resulting from the attack. 
+> > ***Playable on an attack.*** You assign all strikes of the attack regardless of the attack's normal capabilities and character status. +1 to all body checks by your characters resulting from the attack. 
 > > 
 > > {: .fs-3 } 
 > > _“...some dozen Orcs that had laid motionless among the slain leaped to their feet...”_ ***---&#65279;LotRIII*** 

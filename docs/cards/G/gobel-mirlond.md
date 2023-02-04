@@ -25,7 +25,7 @@ permalink: /cards/gobel-mirlond/
 > Harondor
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Minas Morgul <br>_**Playable:**_ Items (minor, major*) *-Weapon, armor, shield, or helmet only <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 8 prowess (detainment against covert company)  
+> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Items (minor, major\*) <br>\*---weapon, armor, shield, or helmet only <br>_**Automatic-attacks:**_<br> Men --- each character faces 1 strike with 8 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
 > > _“...one of the most ancient Numenorean colonies along the Bay of Belfalas, founded duringthe noontide of Numernor's imperial expansion."_ ***---&#65279;Kuduk Lore*** 

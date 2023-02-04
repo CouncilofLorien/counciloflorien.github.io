@@ -22,7 +22,7 @@ permalink: /cards/wisdom-to-wield/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Sage only._ Playable on a non-Ringwraith sage bearing a Dwarven Ring and/or a Palantir. This turn the sage: bears the Dwarven Ring as though he were a Dwarf or is able to use the Palantir.   
+> > _Sage only._ ***Playable on a non-Ringwraith sage bearing a Dwarven Ring and/or a Palantir.*** This turn the sage: bears the Dwarven Ring as though he were a Dwarf or is able to use the Palantir.   
 > > 
 > > {: .fs-3 } 
 > > _“‘But one at least Saruman must have obtained and mastered to his purposes.’”_ ***---&#65279;LotRIII*** 

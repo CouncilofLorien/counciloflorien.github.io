@@ -22,7 +22,7 @@ permalink: /cards/focus-palantir/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Sage only._ Playable on a Palantir with a sage in the company. The bearer of the Palantir now has the ability to use the Palantir. Discard Focus Palantir if the Palantir's company moves. 
+> > _Sage only._ ***Playable on a Palantir with a sage in the company.*** The bearer of the Palantir now has the ability to use the Palantir. Discard _Focus Palantir_ if the Palantir's company moves. 
 > > 
 > > {: .fs-3 } 
 > > _“Then there came a faint glow and stir in the heart of it...”_ ***---&#65279;LotRIII*** 

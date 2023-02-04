@@ -25,7 +25,7 @@ permalink: /cards/by-the-ringwraiths-word/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable during the organization phase on one of your other characters at the same Darkhaven \[![](/assets/images/dark-haven.svg)] as your Ringwraith. The character: becomes a leader (if not already), receives +4 direct influence against characters in his company, and cannot be discarded by a body check. Discard at any time if there is a character in his company with a higher mind. Cannot be duplicated by a given player.  
+> > ***Playable during the organization phase on one of your other characters at the same Darkhaven*** \[![](/assets/images/dark-haven.svg)] ***as your Ringwraith.*** The character: becomes a leader (if not already), receives +4 direct influence against characters in his company, and cannot be discarded by a body check. Discard at any time if there is a character in his company with a higher mind. Cannot be duplicated by a given player.  
 > 
 
 ### _Middle-earth Challenge Decks_

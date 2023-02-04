@@ -71,7 +71,7 @@ permalink: /cards/wellinghall/
 > Fangorn
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur  <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br> Awakened Plant-2 strikes with 10 prowess Awakened Plant-2 strikes with 10 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur  <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br> Awakened Plant-2 strikes with 10 prowess Awakened Plant-2 strikes with 10 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“A little steam escaped from the springs above...tinkling down the sheer face of the wall, pouring in sheer drops, link a fine curtain...”_ ***---&#65279;LotRIII*** 
@@ -117,7 +117,7 @@ permalink: /cards/wellinghall/
 > Fangorn
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur  <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br> Awakened Plant-2 strikes with 10 prowess Awakened Plant-2 strikes with 10 prowess  "A little steam escaped from the springs above...tinkling down the sheer face of the wall, pouring in sheer drops, link a fine curtain...”_ ***---&#65279;LotRIII*** 
+> > ***Nearest Darkhaven:*** Dol Guldur  <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br> Awakened Plant-2 strikes with 10 prowess Awakened Plant-2 strikes with 10 prowess  "A little steam escaped from the springs above...tinkling down the sheer face of the wall, pouring in sheer drops, link a fine curtain...”_ ***---&#65279;LotRIII*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>

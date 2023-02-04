@@ -22,5 +22,5 @@ permalink: /cards/plague/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a non-Ringwraith, non-Wizard, non-Elf character at or moving to a non-Haven, non-Ruins & Lairs site. At the end of the target's movement/hazard phase, each non-Ringwraith non-Wizard, non-Elf character at the same site as the target must make a roll (draw a #) modified by -2. If the result is greater than the character's body, he is wounded or his is eliminated if he is already wounded. Discard this card during the target's organization phase if he is at a Darkhaven \[![](/assets/images/dark-haven.svg)]. 
+> > ***Playable on a non-Ringwraith, non-Wizard, non-Elf character at or moving to a non-Haven, non-Ruins & Lairs site.*** At the end of the target's movement/hazard phase, each non-Ringwraith non-Wizard, non-Elf character at the same site as the target must make a roll (draw a #) modified by -2. If the result is greater than the character's body, he is wounded or his is eliminated if he is already wounded. Discard this card during the target's organization phase if he is at a Darkhaven \[![](/assets/images/dark-haven.svg)]. 
 >

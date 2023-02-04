@@ -71,7 +71,7 @@ permalink: /cards/dancing-spire/
 > Withered Heath
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon - 2 strikes with 11 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon - 2 strikes with 11 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...he knew how evil and danger had thriven in the Wild, since the dragons had driven men from the lands...”_ ***---&#65279;LotR*** 
@@ -94,7 +94,7 @@ permalink: /cards/dancing-spire/
 > Withered Heath
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon - 2 strikes with 11 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon - 2 strikes with 11 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...he knew how evil and danger had thriven in the Wild, since the dragons had driven men from the lands...”_ ***---&#65279;LotR*** 

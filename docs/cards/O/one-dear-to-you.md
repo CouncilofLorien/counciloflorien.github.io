@@ -22,7 +22,7 @@ permalink: /cards/one-dear-to-you/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable on a faction you have in play. -1 faction marshalling points. Any influence attempt against the faction is modified by -8 and Muster may not be used against the faction.   
+> > ***Playable on a faction you have in play.*** -1 faction marshalling points. Any influence attempt against the faction is modified by -8 and Muster may not be used against the faction.   
 > > 
 > > {: .fs-3 } 
 > > _“‘...what his fate shall be depends now on your choice.’”_ ***---&#65279;LotRVI*** 

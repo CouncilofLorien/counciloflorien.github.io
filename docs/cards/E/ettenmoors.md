@@ -71,7 +71,7 @@ permalink: /cards/ettenmoors/
 > Rhudaur
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Carn Dum <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks (2):**_<br>  (1st) Troll - 1 strike with 9 prowess (2nd) Wolves - 2 strikes with 8 prowess  
+> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks (2):**_<br>  (1st) Troll --- 1 strike with 9 prowess <br>(2nd) Wolves --- 2 strikes with 8 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...a ridge of high land; its dark edge against the sky was broken in many bare points like teeth of a blunted saw.". ---&#65279;LotRII 

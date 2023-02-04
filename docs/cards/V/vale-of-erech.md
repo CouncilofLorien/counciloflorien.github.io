@@ -71,7 +71,7 @@ permalink: /cards/vale-of-erech/
 > Lamedon
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Minas Morgul <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men-each character face 1 strike with 7 prowess (detainment against covert companies)  
+> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men --- each character face 1 strike with 7 prowess (detainment against covert companies)  
 > > 
 > > {: .fs-3 } 
 > > _“‘For at Erech there stands yet a black stone that was brought, it was said, from Numenor by Isildur; and it was set upon a hill...’”_ ***---&#65279;LotRV*** 

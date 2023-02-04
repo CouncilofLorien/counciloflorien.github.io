@@ -22,5 +22,5 @@ permalink: /cards/rats!/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a company containing at least one minor item that is at or moving to a Ruins & Lairs \[![](/assets/images/ruinlair.svg)], Shadow-hold \[![](/assets/images/shadow-hold.svg)], or Dark-hold \[![](/assets/images/dark-hold.svg)]. Company discards one minor item of its choice or chooses one of its characters to become wounded (no body check required). 
+> > ***Playable on a company containing at least one minor item that is at or moving to a Ruins & Lairs*** \[![](/assets/images/ruinlair.svg)]***, Shadow-hold*** \[![](/assets/images/shadow-hold.svg)]***, or Dark-hold*** \[![](/assets/images/dark-hold.svg)]. Company discards one minor item of its choice or chooses one of its characters to become wounded (no body check required). 
 >

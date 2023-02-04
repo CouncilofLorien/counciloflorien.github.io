@@ -22,5 +22,5 @@ permalink: /cards/stabbed-him-in-his-sleep/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable during the site phase on an untapped scout in a covert company at an already tapped Border-hold \[![](/assets/images/border-hold.svg)] or Free-hold \[![](/assets/images/free-hold.svg)]. The scout faces an attack (attack type as first automatic-attack at site-1 strike with 8 prowess). If the scout is not untapped after the attack, discard this card. Otherwise, the scout may tap and place this card in his player's marshalling point pile. 
+> > ***Playable during the site phase on an untapped scout in a covert company at an already tapped Border-hold*** \[![](/assets/images/border-hold.svg)] ***or Free-hold*** \[![](/assets/images/free-hold.svg)]. The scout faces an attack (attack type as first automatic-attack at site --- 1 strike with 8 prowess). If the scout is not untapped after the attack, discard this card. Otherwise, the scout may tap and place this card in his player's marshalling point pile. 
 > 

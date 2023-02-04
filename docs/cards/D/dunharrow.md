@@ -71,7 +71,7 @@ permalink: /cards/dunharrow/
 > Rohan
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Minas Morgul <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 6 prowess (detainment against covert company)  
+> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Men --- each character faces 1 strike with 6 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
 > > _“‘But in Dunharrow the people may long defend themselves, and if the battle go ill, thither will come all who escape.’”_ ***---&#65279;LotRIII*** 

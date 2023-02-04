@@ -71,7 +71,7 @@ permalink: /cards/cirith-ungol/
 > Imlad Morgul
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Minas Morgul  
+> > ***Nearest Darkhaven:*** Minas Morgul  
 > > 
 > > {: .fs-3 } 
 > > _“It was indeed one of the works of Gondor long ago, an eastern outpost of Ithilien."_ ***---&#65279;LotRVI*** 
@@ -94,7 +94,7 @@ permalink: /cards/cirith-ungol/
 > Imlad Morgul
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Minas Morgul  
+> > ***Nearest Darkhaven:*** Minas Morgul  
 > > 
 > > {: .fs-3 } 
 > > _“It was indeed one of the works of Gondor long ago, an eastern outpost of Ithilien."_ ***---&#65279;LotRVI*** 

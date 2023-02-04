@@ -25,5 +25,5 @@ permalink: /cards/no-more-nonsense/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable on a leader during the organization phase. Make a roll (draw a #) for the leader. Choose another character in the company and do the same. If the leader's result plus his prowess is greater than the other character's result plus his prowess, discard any hazard permanent-events on the other character and the leader receives +2 direct influence. Otherwise, the leader receives -2 direct influence. Cannot be duplicated on a given leader. 
+> > ***Playable on a leader during the organization phase.*** Make a roll (draw a #) for the leader. Choose another character in the company and do the same. If the leader's result plus his prowess is greater than the other character's result plus his prowess, discard any hazard permanent-events on the other character and the leader receives +2 direct influence. Otherwise, the leader receives -2 direct influence. Cannot be duplicated on a given leader. 
 > 

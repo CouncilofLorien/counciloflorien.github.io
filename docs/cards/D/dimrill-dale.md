@@ -71,7 +71,7 @@ permalink: /cards/dimrill-dale/
 > Redhorn Gate
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Orcs - 1 strike with 6 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Orcs --- 1 strike with 6 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘...we shall come down by the Dimrill stair into the deep vale of the Dwarves. There lies Mirrormere...’”_ ***---&#65279;LotRII*** 
@@ -94,7 +94,7 @@ permalink: /cards/dimrill-dale/
 > Redhorn Gate
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Orcs - 1 strike with 6 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Orcs - 1 strike with 6 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘...we shall come down by the Dimrill stair into the deep vale of the Dwarves. There lies Mirrormere...’”_ ***---&#65279;LotRII*** 

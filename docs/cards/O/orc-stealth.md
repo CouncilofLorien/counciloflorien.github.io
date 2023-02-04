@@ -22,7 +22,7 @@ permalink: /cards/orc-stealth/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Orc scout only. Cancel one strike against an Orc scout. 
+> > _Orc scout only._ Cancel one strike against an Orc scout. 
 > > 
 > > {: .fs-3 } 
 > > _“He crept slowly on, bent almost double."_ ***---&#65279;LotRIII*** 

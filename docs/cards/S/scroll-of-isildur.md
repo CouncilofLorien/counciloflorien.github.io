@@ -79,7 +79,7 @@ permalink: /cards/scroll-of-isildur/
 > Greater Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ When a gold Ring is tested in a company bearing the Scroll of Isildur, the random value obtained is modified by +1. May be stored at Barad-dur for 5 marshalling points.   
+> > _**Unique.**_ When a Gold Ring is tested in a company bearing the _Scroll of Isildur_, the random value obtained is modified by +1. May be stored at Barad-dur for 5 marshalling points.   
 > > 
 > > {: .fs-3 } 
 > > _“‘...there lies...unread, I guess, by any save Saruman and myself, since the kings failed, a scroll that Isildur made himself."_ ***---&#65279;LotRII*** 

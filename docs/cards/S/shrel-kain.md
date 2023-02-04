@@ -71,7 +71,7 @@ permalink: /cards/shrel-kain/
 > Dorwinion
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major*) *-weapon, armor, shield, or helmet only <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 8 prowess (detainment against covert company)  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major\*) <br>\*---weapon, armor, shield, or helmet only <br>_**Automatic-attacks:**_<br> Men --- each character faces 1 strike with 8 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
 > > _“They still throve the trade that came up the great river...and there had been wars and deeds which were now only legend."_ ***---&#65279;Hob*** 

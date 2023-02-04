@@ -22,5 +22,5 @@ permalink: /cards/the-ring-will-have-but-one-master/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on the bearer of The One Ring. During each of his organization phases, one character (other than the bearer) in bearer's company is discarded (of bearer's player's choice) along with all card splayed with him. During his organization phase, the target character may tap to attempt to remove this card by making a roll (drawing a #)-if the result is greater than 8, discard this card. Cannot be duplicated on a given character. 
+> > ***Playable on the bearer of The One Ring.*** During each of his organization phases, one character (other than the bearer) in bearer's company is discarded (of bearer's player's choice) along with all card splayed with him. During his organization phase, the target character may tap to attempt to remove this card by making a roll (drawing a #)-if the result is greater than 8, discard this card. Cannot be duplicated on a given character. 
 >

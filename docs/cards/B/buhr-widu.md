@@ -48,7 +48,7 @@ permalink: /cards/buhr-widu/
 > Southern Rhovanion
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Nearest Darkhaven: Dol Guldur <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Troll-1 strike with 10 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Troll --- 1 strike with 10 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...there, in Mirkwood's East Blight, stood the ancient capital of a Northern Kingdom."_ ***---&#65279;Kuduk Lore*** 

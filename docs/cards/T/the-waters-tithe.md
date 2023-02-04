@@ -22,5 +22,5 @@ permalink: /cards/the-waters-tithe/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Magic._ _Sorcery._ Playable on your non-Ringwraith sorcery-using character during the organization phase. If using region movement, the character's company may play up to two additional region cards. Character makes a corruption check modified by -3.  
+> > _Magic._ _Sorcery._ ***Playable on your non-Ringwraith sorcery-using character during the organization phase.*** If using region movement, the character's company may play up to two additional region cards. Character makes a corruption check modified by -3.  
 > 
