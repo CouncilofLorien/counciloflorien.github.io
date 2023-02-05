@@ -71,7 +71,7 @@ permalink: /cards/old-forest/
 > Cardolan
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Maia-2 strikes with 15 prowess (cannot be canceled)  
+> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Maia --- 2 strikes with 15 prowess (cannot be canceled)  
 > > 
 > > {: .fs-3 } 
 > > _“‘Very few people live in these parts, unless they have come here since I was last down this way, which is some years ago. But there is somebody that I know of, who lives not far away.’”_ ***---&#65279;Hob*** 

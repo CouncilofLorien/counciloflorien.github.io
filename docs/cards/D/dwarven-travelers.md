@@ -25,7 +25,7 @@ permalink: /cards/dwarven-travelers/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Dwarves._ Three strikes. Detainment against hero and covert companies. Maia hazard creatures may be keyed to Border-holds \[![](/assets/images/border-hold.svg)] or Ruins & Lairs \[![](/assets/images/ruinlair.svg)] against any company that has faced Dwarven Travelers this turn.   
+> > _Dwarves._ Three strikes. Detainment against hero and covert companies. Maia hazard creatures may be keyed to Border-holds \[![](/assets/images/border-hold.svg)] or Ruins & Lairs \[![](/assets/images/ruinlair.svg)] against any company that has faced _Dwarven Travelers_ this turn.   
 > > 
 > > {: .fs-3 } 
 > > _“‘We must away, ere break of day... To find our long-forgotten gold.’”_ ***---&#65279;Hob*** 

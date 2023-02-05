@@ -71,7 +71,7 @@ permalink: /cards/eagles-eyrie/
 > Anduin Vales
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br> Animals-2 strikes with 10 prowess (attacker chooses defending characters)  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br> Animals --- 2 strikes with 10 prowess (attacker chooses defending characters)  
 > > 
 > > {: .fs-3 } 
 > > _“The eagles had brought up dry boughs for fuel, ...rabbits, hares, and a small sheep."_ ***---&#65279;Hob*** 

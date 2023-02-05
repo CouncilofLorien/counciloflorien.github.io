@@ -22,5 +22,5 @@ permalink: /cards/the-undeeps-of-anduin/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Ranger only._ Playable during the organization phase on a ranger. If his company uses region movement, it may move as if the following pairs of regions were adjacent: Rohan and Dagorlad, Anorien and Dagorlad, Lebennin and Ithilien, Lebennin and Harondor. Alternatively, if the site moved to is in one of the regions listed above, the hazard limit is reduced by two (to a minimum of two). 
+> > _Ranger only._ ***Playable during the organization phase on a ranger.*** If his company uses region movement, it may move as if the following pairs of regions were adjacent: Rohan and Dagorlad, Anorien and Dagorlad, Lebennin and Ithilien, Lebennin and Harondor. Alternatively, if the site moved to is in one of the regions listed above, the hazard limit is reduced by two (to a minimum of two). 
 > 

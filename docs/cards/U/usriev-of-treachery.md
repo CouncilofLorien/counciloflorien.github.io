@@ -22,7 +22,7 @@ permalink: /cards/usriev-of-treachery/
 > Major Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Hoard item._ _Weapon._ May only be born by a character with a prowess of 5 or more. Warrior only: +1 prowess to a maximum of 8 (+2 against Elves to a maximum of 9); if you assign a strike to the bearer, you may choose to assign a second strike to the bearer. The bearer faces an additional strike sequence.  
+> > _Hoard item._ _Weapon._ May only be born by a character with a prowess of 5 or more. _Warrior only:_ +1 prowess to a maximum of 8 (+2 against Elves to a maximum of 9); if you assign a strike to the bearer, you may choose to assign a second strike to the bearer. The bearer faces an additional strike sequence.  
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +1/&ndash; 】</div>

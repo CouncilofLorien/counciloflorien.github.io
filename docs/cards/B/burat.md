@@ -25,7 +25,7 @@ permalink: /cards/burat/
 > Warrior/Ranger Troll
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ Manifestation of "Bert". May not be included with a starting company. May be played on the same turn Tuma and/or Wuluag is played. Discard on a body check result of 8. +1 prowess against Dwarves. Tap Burat to untap Tuma or Wuluag if at the same site. If Tuma and/or Wuluag is in his company, Burat's mind is reduced by one.   
+> > _**Unique.**_ _Manifestation of "Bert"._ May not be included with a starting company. May be played on the same turn Tuma and/or Wuluag is played. Discard on a body check result of 8. +1 prowess against Dwarves. Tap Burat to untap Tuma or Wuluag if at the same site. If Tuma and/or Wuluag is in his company, Burat's mind is reduced by one.   
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Any non-Under-deeps Ruins & Lairs 

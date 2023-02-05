@@ -48,7 +48,7 @@ permalink: /cards/isle-of-the-ulond/
 > Andrast Coast
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Geann a-Lisch <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br> Dragon-1 strike with 14 prowess <br>_**Special:**_ An overt company must tap an untapped character (if available) if this site is revealed as its new site. 
+> > ***Nearest Darkhaven:*** Geann a-Lisch <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br> Dragon --- 1 strike with 14 prowess <br>_**Special:**_ An overt company must tap an untapped character (if available) if this site is revealed as its new site. 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

@@ -22,5 +22,5 @@ permalink: /cards/the-ash-mountain-deeps/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Ranger only._ Playable during the organization phase on a ranger. If his company uses region movement, it may move as if the following pairs owere adjacent: Dagorlad and Gorgoroth, Horse Plains and Gorgoroth. The company faces a detainment attack at the beginning of its movement hazard phase: Orcs-four strikes with 6 prowess. Alternatively, if the site moved to is in one of the regions listed above, the hazard limit is reduced by two (to a minimum of two). 
+> > _Ranger only._ ***Playable during the organization phase on a ranger.*** If his company uses region movement, it may move as if the following pairs owere adjacent: Dagorlad and Gorgoroth, Horse Plains and Gorgoroth. The company faces a detainment attack at the beginning of its movement hazard phase: Orcs --- four strikes with 6 prowess. Alternatively, if the site moved to is in one of the regions listed above, the hazard limit is reduced by two (to a minimum of two). 
 > 

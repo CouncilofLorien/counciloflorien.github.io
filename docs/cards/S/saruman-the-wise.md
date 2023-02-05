@@ -25,7 +25,7 @@ permalink: /cards/saruman-the-wise/
 > Creature or Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ Maia. Manifestation of Saruman. Three strikes. Detainment and -3 prowess against hero companies. Discard this card if Saruman comes into play. As a creature, may also be played keyed to Gap of Isen, Rohan, Enedhwaith, or Old Pukel-land; or at sites in these regions. As a permanent-event, all ring items give one additional corruption point. Discard when any play deck is exhausted. 
+> > _**Unique.**_ _Maia._ _Manifestation of Saruman._ Three strikes. Detainment and -3 prowess against hero companies. Discard this card if _Saruman_ comes into play. <br>&ensp;As a creature, may also be played keyed to Gap of Isen, Rohan, Enedhwaith, or Old Pukel-land; or at sites in these regions. <br>&ensp;As a permanent-event, all ring items give one additional corruption point. Discard when any play deck is exhausted. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 13/9 】</div>

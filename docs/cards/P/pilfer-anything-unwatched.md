@@ -22,5 +22,5 @@ permalink: /cards/pilfer-anything-unwatched/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on an untapped agent Tap the agent. Make a roll (draw a #) for a character in play of your choice with a home site the same as the agent's current site. To the roll add 5 if the agent's current site is also the agent's home site. If the result is greater than the character's mind plus 5, the character is returned to his player's hand (one item may be transferred to another character in the same company). 
+> > ***Playable on an untapped agent.*** Tap the agent. Make a roll (draw a #) for a character in play of your choice with a home site the same as the agent's current site. To the roll add 5 if the agent's current site is also the agent's home site. If the result is greater than the character's mind plus 5, the character is returned to his player's hand (one item may be transferred to another character in the same company). 
 >

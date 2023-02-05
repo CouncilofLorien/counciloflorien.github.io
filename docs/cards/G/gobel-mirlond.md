@@ -48,7 +48,7 @@ permalink: /cards/gobel-mirlond/
 > Harondor
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Men-4 strikes with 9 prowess (detainment)   
+> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Men --- 4 strikes with 9 prowess (detainment)   
 > > 
 > > {: .fs-3 } 
 > > _“...could be seen in clear weather even on the coasts of Gondor or far upon the western sea."_ ***---&#65279;LotR*** 

@@ -39,7 +39,7 @@ permalink: /cards/the-under-leas/
 > Under-deeps
 >
 > {: .minion-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Mount Gundabad (0), The Iron-deeps (6), The Under-grottos (7), The Under-gates (5), The Under-vaults (6) <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>  Orcs (1st attack)-5 strikes with 7 prowess (detainment against overt company) (2nd attack)-Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Ruins & Lairs \[![](/assets/images/ruinlair.svg)] <br>_**Special:**_ Non-Nazgul creatures played at this site attack normally, not as detainment. 
+> > _**Adjacent Sites:**_ Mount Gundabad (0), The Iron-deeps (6), The Under-grottos (7), The Under-gates (5), The Under-vaults (6) <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>  Orcs (1st attack) --- 5 strikes with 7 prowess (detainment against overt company) <br>(2nd attack) --- Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Ruins & Lairs \[![](/assets/images/ruinlair.svg)] <br>_**Special:**_ Non-Nazgul creatures played at this site attack normally, not as detainment. 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

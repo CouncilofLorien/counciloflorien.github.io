@@ -25,7 +25,7 @@ permalink: /cards/wizards-myrmidon/
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > Playable on one of your non-Fallen-wizard characters. +1 to his direct influence. The character requires 3 points of influence to control and may only be controlled by general influence or a Fallen-wizard.  Cannot be duplicated by a given player. 
+> > ***Playable on one of your non-Fallen-wizard characters.*** +1 to his direct influence. The character requires 3 points of influence to control and may only be controlled by general influence or a Fallen-wizard.  Cannot be duplicated by a given player. 
 > > 
 > > {: .fs-3 } 
 > > _“‘He is bold and cunning. Even now he plays a game with peril and wins a throw.’”_ ***---&#65279;LotRIII***I 

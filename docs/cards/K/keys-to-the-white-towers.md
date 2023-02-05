@@ -25,7 +25,7 @@ permalink: /cards/keys-to-the-white-towers/
 > Special Item
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Barrow-downs. During your organization phase, you may: take Fortress of the Towers card from your play deck or discard pile to your hand or discard Fortress of the Towers card if in play by another player. Reshuffle your play deck if searched. 
+> > _**Unique.**_ ***Playable at Barrow-downs.*** During your organization phase, you may: take _Fortress of the Towers_ card from your play deck or discard pile to your hand or discard _Fortress of the Towers_ card if in play by another player. Reshuffle your play deck if searched. 
 > > 
 > > {: .fs-3 } 
 > > _“...for long the Elves served as guardians and key-wardens for The White Towers...”_ ***---&#65279;Kuduk Lore*** 

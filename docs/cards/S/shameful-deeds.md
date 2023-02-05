@@ -25,5 +25,5 @@ permalink: /cards/shameful-deeds/
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > Playable if you are not Alatar and have more than 6 stage points. Hazards with an asterisk [*] attack your companies normally, not as detainment. Such hazards your companies defeat while this card is in play give you full kill marshalling points. You receive no kill marshalling points from other hazards if this card is in play. Cannot be duplicated by a given player. 
+> > ***Playable if you are not Alatar and have more than 6 stage points.*** Hazards with an asterisk [*] attack your companies normally, not as detainment. Such hazards your companies defeat while this card is in play give you full kill marshalling points. You receive no kill marshalling points from other hazards if this card is in play. Cannot be duplicated by a given player. 
 > 

@@ -22,7 +22,7 @@ permalink: /cards/stabbing-tongue-of-fire/
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Balrog specific._ Playable at any tapped or untapped non-Darkhaven Under-deeps site. May only be borne by The Balrog. This item affects the Balrog. +1 prowess when tapping to face a strike. +1 to all body checks resulting from failed strikes against The Balrog. If The Balrog attacks successfully in company vs. company combat, +1 to the defending character's body check. 
+> > _**Unique.**_ _Balrog specific._ ***Playable at any tapped or untapped non-Darkhaven Under-deeps site. May only be borne by The Balrog.*** This item affects the Balrog. +1 prowess when tapping to face a strike. +1 to all body checks resulting from failed strikes against The Balrog. If The Balrog attacks successfully in company vs. company combat, +1 to the defending character's body check. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 (+1)/&ndash; 】</div>

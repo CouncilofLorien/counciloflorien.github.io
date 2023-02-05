@@ -39,7 +39,7 @@ permalink: /cards/the-under-courts/
 > Under-deeps
 >
 > {: .minion-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Barad-dur (0), The Sulfur-deeps (4), The Under-galleries (4) <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br> Trolls-3 strikes with 10 prowess (detainment)  
+> > _**Adjacent Sites:**_ Barad-dur (0), The Sulfur-deeps (4), The Under-galleries (4) <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br> Trolls --- 3 strikes with 10 prowess (detainment)  
 > > 
 > > {: .fs-3 } 
 > > _“Walls too high to measure descended into pits too deep to fathom."_ ***---&#65279;Kuduk Lore*** 

@@ -22,7 +22,7 @@ permalink: /cards/the-ithil-stone/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Palantir._ Playable at Barad-dur. When a character taps to play Ithil-stone, make a roll (draw a #). If this result plus the number of scouts in his company is greater than 9, Ithil-stone is successfully played. Otherwise, the bearer is eliminated and Ithil-stone is placed in your out of play pile. Bearer makes a corruption check at the end of each of his untap phases. Bane of the Ithil-stone is discarded and cannot be played. If The Lidless Eye is in play, its player's hand size decreases by two. 
+> > _**Unique.**_ _Palantir._ ***Playable at Barad-dur.*** When a character taps to play _Ithil-stone_, make a roll (draw a #). If this result plus the number of scouts in his company is greater than 9, _Ithil-stone_ is successfully played. Otherwise, the bearer is eliminated and Ithil-stone is placed in your out of play pile. Bearer makes a corruption check at the end of each of his untap phases. _Bane of the Ithil-stone_ is discarded and cannot be played. If _The Lidless Eye_ is in play, its player's hand size decreases by two. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

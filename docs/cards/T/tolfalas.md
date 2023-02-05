@@ -71,7 +71,7 @@ permalink: /cards/tolfalas/
 > Mouths of the Anduin
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Items (minor, major, greater\*) \*-Scroll of Isildur only <br>_**Automatic-attacks:**_<br> Undead - 3 strikes with 7 prowess, each character wounded must make a corruption check modified by -2 <br>_**Special:**_ An overt company must tap an untapped character (if available) if this site is revealed as a new site.  
+> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Items (minor, major, greater\*) \*-Scroll of Isildur only <br>_**Automatic-attacks:**_<br> Undead --- 3 strikes with 7 prowess, each character wounded must make a corruption check modified by -2 <br>_**Special:**_ An overt company must tap an untapped character (if available) if this site is revealed as a new site.  
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

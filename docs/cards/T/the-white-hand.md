@@ -25,7 +25,7 @@ permalink: /cards/the-white-hand/
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > _Saruman specific._ Playable on Saruman if he has the following in play: at least 12 stage points, at least 3 factions, A Strident Spawn, and Saruman's Machinery. Cannot be duplicated. 
+> > _Saruman specific._ ***Playable on Saruman if he has the following in play:*** _at least 12 stage points, at least 3 factions, A Strident Spawn, and Saruman's Machinery._ Cannot be duplicated. 
 > > 
 > > {: .fs-3 } 
 > > _“...set upon it was a great stone, carved and painted in the likeness of a long White Hand."_ ***---&#65279;LotRIII*** 

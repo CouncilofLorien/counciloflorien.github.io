@@ -25,5 +25,5 @@ permalink: /cards/girdle-of-radagast/
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > _Radagast specific._ Playable on one of your protected Wizardhavens \[![](/assets/images/free-haven.svg)] if you are Radagast and have at least 12 stage points and 6 allies and/or unique factions in play (the factions must be playable at sites in the Wizardhaven's \[![](/assets/images/free-haven.svg)] region or adjacent regions). The Wizardhaven's region and all adjacent regions become Wilderness \[![](/assets/images/wilderness.svg)]. Cannot be duplicated.  
+> > _Radagast specific._ ***Playable on one of your protected Wizardhavens*** \[![](/assets/images/free-haven.svg)] if you are Radagast and have at least 12 stage points and 6 allies and/or unique factions in play (the factions must be playable at sites in the Wizardhaven's \[![](/assets/images/free-haven.svg)] region or adjacent regions). The Wizardhaven's region and all adjacent regions become Wilderness \[![](/assets/images/wilderness.svg)]. Cannot be duplicated.  
 > 

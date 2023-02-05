@@ -22,7 +22,7 @@ permalink: /cards/well-preserved/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Magic._ _Shadow-_Magic.__ Playable on a wounded character in a company with a shadow-magic-using character. Wounded character becomes untapped with -1 to body. Discard at the end of his untap phase if at a Darkhaven \[![](/assets/images/dark-haven.svg)]. Unless the shadow-magic-using character is a Ringwraith, he makes a corruption check modified by -3.  
+> > _Magic._ _Shadow-magic._ ***Playable on a wounded character in a company with a shadow-magic-using character.*** Wounded character becomes untapped with -1 to body. Discard at the end of his untap phase if at a Darkhaven \[![](/assets/images/dark-haven.svg)]. Unless the shadow-magic-using character is a Ringwraith, he makes a corruption check modified by -3.  
 > 
 
 ### _Middle-earth Challenge Decks_

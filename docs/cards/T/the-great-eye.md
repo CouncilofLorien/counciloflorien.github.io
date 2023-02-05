@@ -22,5 +22,5 @@ permalink: /cards/the-great-eye/
 > Long-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable if you are Sauron. The hazard limit against all companies is decreased by one (to a minimum of two). If this card is in play, you can discard it to target and cancel the play of a hazard event played by your opponent before it resolves. This cannot be used against an on-guard card. Cannot be duplicated. 
+> > ***Playable if you are Sauron.*** The hazard limit against all companies is decreased by one (to a minimum of two). If this card is in play, you can discard it to target and cancel the play of a hazard event played by your opponent before it resolves. This cannot be used against an on-guard card. Cannot be duplicated. 
 > 

@@ -22,5 +22,5 @@ permalink: /cards/fools-bane/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a Fallen-wizard. Influence checks he makes against hero resources are modified by: -9 if his stage points (SPs) exceed 18, -7 if his stage points (SPs) exceed 12, -5 if his stage points (SPs) exceed 7, -3 if his stage points (SPs) exceed 3, -1 if his stage points (SPs) exceed 0 (use the first modifier that applies). Additionally, his Elf characters and Elf factions are each worth 0 marshalling points. Cannot be duplicated on a given Fallen-wizard. Discard when any play deck is exhausted.  
+> > ***Playable on a Fallen-wizard.*** Influence checks he makes against hero resources are modified by: -9 if his stage points (SPs) exceed 18, -7 if his stage points (SPs) exceed 12, -5 if his stage points (SPs) exceed 7, -3 if his stage points (SPs) exceed 3, -1 if his stage points (SPs) exceed 0 (use the first modifier that applies). Additionally, his Elf characters and Elf factions are each worth 0 marshalling points. Cannot be duplicated on a given Fallen-wizard. Discard when any play deck is exhausted.  
 >

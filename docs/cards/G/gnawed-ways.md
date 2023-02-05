@@ -25,5 +25,5 @@ permalink: /cards/gnawed-ways/
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > Playable on one of your Deep Mines sites. The Deep Mines site is now adjacent to an Under-deeps site of your choice whose surface site is in a region containing or adjacent to the region containing the Deep Mines surface site. The movement number required to move between these two Under-deeps sites is (7). This card may also be played as a hazard on one of your opponent's Deep Mines sites. Discard this card when Deep Mines is discarded or returned to its location deck. Cannot be duplicated on a given Deep Mines site.   
+> > ***Playable on one of your Deep Mines sites.*** The Deep Mines site is now adjacent to an Under-deeps site of your choice whose surface site is in a region containing or adjacent to the region containing the Deep Mines surface site. The movement number required to move between these two Under-deeps sites is (7). This card may also be played as a hazard on one of your opponent's Deep Mines sites. Discard this card when Deep Mines is discarded or returned to its location deck. Cannot be duplicated on a given Deep Mines site.   
 > 

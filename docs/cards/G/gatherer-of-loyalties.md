@@ -25,5 +25,5 @@ permalink: /cards/gatherer-of-loyalties/
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > Playable if you have more than 3 stage points. Your unique factions are each worth 2 marshalling points. If you are Alatar, your unique Dragon factions are each worth 4 marshalling points. If you are Pallando, your unique factions normally worth 3 or more marshalling points are each worth 3 marshalling points. Cannot be duplicated by a given player. 
+> > ***Playable if you have more than 3 stage points.*** Your unique factions are each worth 2 marshalling points. If you are Alatar, your unique Dragon factions are each worth 4 marshalling points. If you are Pallando, your unique factions normally worth 3 or more marshalling points are each worth 3 marshalling points. Cannot be duplicated by a given player. 
 > 

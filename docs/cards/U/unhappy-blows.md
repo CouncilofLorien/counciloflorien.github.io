@@ -22,5 +22,5 @@ permalink: /cards/unhappy-blows/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a company containing both Dwarves and Elves, or both Orcs and Trolls. Make a roll (draw a #) and subtract five (seven for Orcs and Trolls). If available, your opponent must choose and return to his hand any number of Elves and Dwarves (or Orcs and Trolls) in the company whose total mind equals or exceeds this result. Items played with these characters are also returned to opponent's hand. Cannot be duplicated on a given turn.  
+> > ***Playable on a company containing both Dwarves and Elves, or both Orcs and Trolls.*** Make a roll (draw a #) and subtract five (seven for Orcs and Trolls). If available, your opponent must choose and return to his hand any number of Elves and Dwarves (or Orcs and Trolls) in the company whose total mind equals or exceeds this result. Items played with these characters are also returned to opponent's hand. Cannot be duplicated on a given turn.  
 >

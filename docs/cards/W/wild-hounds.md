@@ -22,5 +22,5 @@ permalink: /cards/wild-hounds/
 > Animal Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable at any tapped or untapped Ruins & Lairs \[![](/assets/images/ruinlair.svg)] in a Wilderness \[![](/assets/images/wilderness.svg)] if the influence check is greater than 11.  <br>_Standard Modifications:_ if Radagast is your Wizard (+3). Discard this faction to cancel an automatic-attack at a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] or an attack keyed to Wilderness \[![](/assets/images/wilderness.svg)] or Ruins & Lairs \[![](/assets/images/ruinlair.svg)]. May also be used as a minion resource card that is only playable by a character in a covert company. 
+> > ***Playable at any tapped or untapped Ruins & Lairs*** \[![](/assets/images/ruinlair.svg)] ***in a Wilderness*** \[![](/assets/images/wilderness.svg)] <br>&ensp;if the influence check is greater than 11.  <br>_Standard Modifications:_ if Radagast is your Wizard (+3). Discard this faction to cancel an automatic-attack at a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] or an attack keyed to Wilderness \[![](/assets/images/wilderness.svg)] or Ruins & Lairs \[![](/assets/images/ruinlair.svg)]. May also be used as a minion resource card that is only playable by a character in a covert company. 
 > 

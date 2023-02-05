@@ -22,7 +22,7 @@ permalink: /cards/glamour-of-surpassing-excellance/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable on a company at a Border-hold \[![](/assets/images/border-hold.svg)] or Free-hold \[![](/assets/images/free-hold.svg)]. Make a roll (draw a #) for each hazard permanent-event on characters in the company. Discard each hazard whose roll is greater than the number normally needed to remove it as printed on the card (ignoring all modifiers and conditions). If no number is given, the permanent-event is discarded if its result is greater than 8. 
+> > ***Playable on a company at a Border-hold*** \[![](/assets/images/border-hold.svg)] ***or Free-hold*** \[![](/assets/images/free-hold.svg)]. Make a roll (draw a #) for each hazard permanent-event on characters in the company. Discard each hazard whose roll is greater than the number normally needed to remove it as printed on the card (ignoring all modifiers and conditions). If no number is given, the permanent-event is discarded if its result is greater than 8. 
 > 
 
 ### _Middle-earth Challenge Decks_

@@ -22,5 +22,5 @@ permalink: /cards/spies-feared/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Scout or _Ranger only._ Playable on a Shadow-hold \[![](/assets/images/shadow-hold.svg)] if one of your scouts is there or on a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] if one of your rangers is there. An automatic-attack is created at the site against minion companies: Orcs-5 strikes with 8 prowess (detainment). Additionally, automatic-attacks at the site are duplicated (including the new one) against all companies. Discard when site is discarded or returned to your location deck. 
+> > _Scout or Ranger only._ ***Playable on a Shadow-hold*** \[![](/assets/images/shadow-hold.svg)] ***if one of your scouts is there or on a Ruins & Lairs*** \[![](/assets/images/ruinlair.svg)] ***if one of your rangers is there.*** An automatic-attack is created at the site against minion companies: Orcs --- 5 strikes with 8 prowess (detainment). Additionally, automatic-attacks at the site are duplicated (including the new one) against all companies. Discard when site is discarded or returned to your location deck. 
 > 

@@ -22,8 +22,5 @@ permalink: /cards/fealty-under-trial/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Unique._ Playable during your organization phase. Shuffle your hand and your discard pile into your play deck (site cards remain in the discard pile). Draw a new hand of 8 cards. Remove _Favor of the Valar_ from the game. 
-> > 
-> > {: .fs-3 } 
-> > _“Thus came Aragorn son of Arathorn...from the Sea to the kingdom of Gondor."_ ***---&#65279;LotRV*** 
+> > ***Playable on a minion in a Darkhaven*** \[![](/assets/images/dark-haven.svg)] ***or Barad-dur.*** Make a roll (draw a #) adding the marshalling points (as though they were stored) and corruption points of all items and events played with target minion. All items and storable events played with target minion are then automatically stored (no corruption checks are made). Then, if the result was greater than 15, discard the minion (and all other cards played with him). 
 >

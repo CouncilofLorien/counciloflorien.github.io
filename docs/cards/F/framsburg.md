@@ -45,7 +45,7 @@ permalink: /cards/framsburg/
 > Anduin Vales
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br> Men-1 strike with 10 prowess <br>_**Special:**_ The first minor item played at this site does not tap the site. Contains a hoard. 
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br> Men --- 1 strike with 10 prowess <br>_**Special:**_ The first minor item played at this site does not tap the site. Contains a hoard. 
 > > 
 > > {: .fs-3 } 
 > > _“...they...drove away the remnants of the people of Angmar on the east side of the Mountains."_ ***---&#65279;LotR*** 

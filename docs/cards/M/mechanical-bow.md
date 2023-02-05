@@ -22,7 +22,7 @@ permalink: /cards/mechanical-bow/
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Weapon._ _Technology._. -1 to bearer's body. Warrior only: +2 prowess to a maximum of 8; -1 to the body of any strike its bearer faces if he taps to face the strike. 
+> > _Weapon._ _Technology._ -1 to bearer's body. _Warrior only:_ +2 prowess to a maximum of 8; -1 to the body of any strike its bearer faces if he taps to face the strike. 
 > > 
 > > {: .fs-3 } 
 > > _“They make no beautiful things, but they make many clever ones...for wheels and engines and explosions always delighted them...”_ ***---&#65279;Hob*** 

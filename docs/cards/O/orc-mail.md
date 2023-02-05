@@ -22,5 +22,5 @@ permalink: /cards/orc-mail/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable on a company containing only Hobbits and/or Dwarves. Target company may not be attacked by an overt minion company. If an overt minion company at the same site moves, you may replace the target company's site card with your copy of the minion's company's new site (if this site is in your location deck). At the start of each of your opponent's site phases, make a roll (draw a #). If the result plus the number of minion characters at the same site is greater than 12, discard this card. 
+> > ***Playable on a company containing only Hobbits and/or Dwarves.*** Target company may not be attacked by an overt minion company. If an overt minion company at the same site moves, you may replace the target company's site card with your copy of the minion's company's new site (if this site is in your location deck). At the start of each of your opponent's site phases, make a roll (draw a #). If the result plus the number of minion characters at the same site is greater than 12, discard this card. 
 > 

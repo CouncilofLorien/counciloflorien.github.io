@@ -22,5 +22,5 @@ permalink: /cards/darkness-wielded/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Balrog specific._ Playable on an attack against The Balrog's company if Great Shadow is in play. You may bring this card from your sideboard into your play deck and reshuffle during your organization phase. The attack receives -2 prowess, -1 body, and is reduced to one strike. Alternatively, cancel this attack and a latter attack of your choice against his company this turn. 
+> > _Balrog specific._ ***Playable on an attack against The Balrog's company if Great Shadow is in play.*** You may bring this card from your sideboard into your play deck and reshuffle during your organization phase. The attack receives -2 prowess, -1 body, and is reduced to one strike. Alternatively, cancel this attack and a latter attack of your choice against his company this turn. 
 > 

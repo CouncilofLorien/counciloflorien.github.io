@@ -48,7 +48,7 @@ permalink: /cards/necklace-of-girion/
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at The Lonely Mountain. Bearer receives +3 direct influence against Men and Man factions. If bearer is at a Border-hold \[![](/assets/images/border-hold.svg)] during the site phase, he can make a corruption check, and, if successful, discard this item to play up to 3 non-unique minor and/or major items with his company. Characters need not tap to receive these items. 
+> > _**Unique.**_ ***Playable at The Lonely Mountain.*** Bearer receives +3 direct influence against Men and Man factions. If bearer is at a Border-hold \[![](/assets/images/border-hold.svg)] during the site phase, he can make a corruption check, and, if successful, discard this item to play up to 3 non-unique minor and/or major items with his company. Characters need not tap to receive these items. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

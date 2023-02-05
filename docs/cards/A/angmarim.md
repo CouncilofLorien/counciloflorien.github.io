@@ -22,7 +22,7 @@ permalink: /cards/angmarim/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Manifestation of minion Angmarim. Playable at Carn Dum if the influence check is greater than 11 (Muster has no effect on this attempt). <br>_Standard Modifications:_ Wizards (-5), Men (+1). 
+> > _**Unique.**_ _Manifestation of minion Angmarim._ ***Playable at Carn Dum*** <br>&ensp;if the influence check is greater than 11 (_Muster_ has no effect on this attempt). <br>_Standard Modifications:_ Wizards (-5), Men (+1). 
 > > 
 > > {: .fs-3 } 
 > > _“‘They sought refuge from the vile creatures spawned by the Shadow.’”_ ***---&#65279;Kuduk Lore*** 
@@ -39,7 +39,7 @@ permalink: /cards/angmarim/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Carn Dum if the influence check is greater than 10. <br>_Standard Modifications:_ Easterlings (+2), Hillmen (+2). Once in play, the number required to influence this faction is 0. 
+> > _**Unique.**_ ***Playable at Carn Dum*** <br>&ensp;if the influence check is greater than 10. <br>_Standard Modifications:_ Easterlings (+2), Hillmen (+2). Once in play, the number required to influence this faction is 0. 
 > > 
 > > {: .fs-3 } 
 > > _“Descendants of the warriors who once manned the walls of Carn Dum, these proud fighters patrolled the ruins of the fortress in after ages."_ ***---&#65279;Kuduk Lore*** 

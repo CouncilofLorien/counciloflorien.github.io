@@ -22,5 +22,5 @@ permalink: /cards/world-gnawed-by-the-nameless/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable during the movement/hazard phase on a company moving to an Under-deeps site. At the end of its movement/hazard phase, target company attempts to move to an additional Under-deeps site which it has not attempted to move to yet this turn. Another site card is played and a movement/hazard phase immediately follows. Return this card to you hand. All hazard creatures the company faces this turn keyed to Shadow-holds \[![](/assets/images/shadow-hold.svg)] attack normally, not as detainment.  
+> > ***Playable during the movement/hazard phase on a company moving to an Under-deeps site.*** At the end of its movement/hazard phase, target company attempts to move to an additional Under-deeps site which it has not attempted to move to yet this turn. Another site card is played and a movement/hazard phase immediately follows. Return this card to you hand. All hazard creatures the company faces this turn keyed to Shadow-holds \[![](/assets/images/shadow-hold.svg)] attack normally, not as detainment.  
 > 

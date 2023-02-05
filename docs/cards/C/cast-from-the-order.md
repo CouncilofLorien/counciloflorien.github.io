@@ -22,5 +22,5 @@ permalink: /cards/cast-from-the-order/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a Fallen-wizard. Make a roll and add the Fallen-wizard's stage points. If the result is less than 16, discard this card. Otherwise, place this card with the Fallen-wizard. The Fallen-wizard's player must use minion sites for Border-holds \[![](/assets/images/border-hold.svg)], Free-holds \[![](/assets/images/free-hold.svg)], and hero Havens \[![](/assets/images/free-haven.svg)]. Also, the Fallen-wizard's company is overt. 
+> > ***Playable on a Fallen-wizard.*** Make a roll and add the Fallen-wizard's stage points. If the result is less than 16, discard this card. Otherwise, place this card with the Fallen-wizard. The Fallen-wizard's player must use minion sites for Border-holds \[![](/assets/images/border-hold.svg)], Free-holds \[![](/assets/images/free-hold.svg)], and hero Havens \[![](/assets/images/free-haven.svg)]. Also, the Fallen-wizard's company is overt. 
 >

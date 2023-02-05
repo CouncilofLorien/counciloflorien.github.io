@@ -22,5 +22,5 @@ permalink: /cards/faithless-steward/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable on an agent character at a Darkhaven \[![](/assets/images/dark-haven.svg)] who has a Border-hold \[![](/assets/images/border-hold.svg)] or Free-hold \[![](/assets/images/free-hold.svg)] as a home site. If target character is unwounded and at one of his sites, no factions can be played at any version of the site and you receive this card's and you receive this card's marshalling points. Cannot be duplicated on a given character. 
+> > ***Playable on an agent character at a Darkhaven*** \[![](/assets/images/dark-haven.svg)] ***who has a Border-hold*** \[![](/assets/images/border-hold.svg)] ***or Free-hold*** \[![](/assets/images/free-hold.svg)] ***as a home site.*** If target character is unwounded and at one of his sites, no factions can be played at any version of the site and you receive this card's and you receive this card's marshalling points. Cannot be duplicated on a given character. 
 > 

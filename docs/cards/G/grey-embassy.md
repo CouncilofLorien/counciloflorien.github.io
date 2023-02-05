@@ -25,5 +25,5 @@ permalink: /cards/grey-embassy/
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Gandalf specific._ Place this card on Gandalf if he is in play. If on Gandalf, your unique hero factions normally worth 2 of fewer marshalling points are each worth 2 marshalling points. If on Gandalf, your unique hero factions normally worth 3 or more marshalling points are each worth 3 marshalling points.  
+> > _**Unique.**_ _Gandalf specific._ ***Place this card on Gandalf if he is in play.*** If on Gandalf, your unique hero factions normally worth 2 of fewer marshalling points are each worth 2 marshalling points. If on Gandalf, your unique hero factions normally worth 3 or more marshalling points are each worth 3 marshalling points.  
 > 

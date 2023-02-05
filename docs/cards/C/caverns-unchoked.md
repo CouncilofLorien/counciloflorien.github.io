@@ -22,7 +22,7 @@ permalink: /cards/caverns-unchoked/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Balrog specific._ Playable on an Under-deeps site during the organization phase. This site is never discarded or returned to its location deck. Each other site (of yours) in the same region as its surface site is considered adjacent to this Under-deeps site. This only applies if the other site is normally a Shadow-hold \[![](/assets/images/shadow-hold.svg)], Ruins & Lairs \[![](/assets/images/ruinlair.svg)], or Border-hold \[![](/assets/images/border-hold.svg)]. 
+> > _Balrog specific._ ***Playable on an Under-deeps site during the organization phase.*** This site is never discarded or returned to its location deck. Each other site (of yours) in the same region as its surface site is considered adjacent to this Under-deeps site. This only applies if the other site is normally a Shadow-hold \[![](/assets/images/shadow-hold.svg)], Ruins & Lairs \[![](/assets/images/ruinlair.svg)], or Border-hold \[![](/assets/images/border-hold.svg)]. 
 > > 
 > > {: .fs-3 } 
 > > _“Or released it from prison...”_ ***---&#65279;LotR*** 

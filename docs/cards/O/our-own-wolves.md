@@ -22,5 +22,5 @@ permalink: /cards/our-own-wolves/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Magic._ _Spirit-_Magic.__ Playable on a company with a spirit-magic using character facing an attack. Each wolf ally (War-wolf, War-warg, or The Warg-king) receives +3 prowess against the attack. Following the attack, the controller of each wolf ally faces an attack: (no type) one strike with the ally's normal prowess +3. If the strike of an attack is successful, discard the wolf-ally. Unless he is a Ringwraith, the spirit-magic-using character makes a corruption check modified by -3. 
+> > _Magic._ _Spirit-magic._ ***Playable on a company with a spirit-magic using character facing an attack.*** Each wolf ally (War-wolf, War-warg, or The Warg-king) receives +3 prowess against the attack. Following the attack, the controller of each wolf ally faces an attack: (no type) one strike with the ally's normal prowess +3. If the strike of an attack is successful, discard the wolf-ally. Unless he is a Ringwraith, the spirit-magic-using character makes a corruption check modified by -3. 
 > 

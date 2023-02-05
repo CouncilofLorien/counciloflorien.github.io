@@ -25,7 +25,7 @@ permalink: /cards/black-horse/
 > Warrior Ally
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable on a Ringwraith at a Darkhaven \[![](/assets/images/dark-haven.svg)] (does not tap the site). Each Black Horse in your Ringwraith's company allows you to play one Ringwraith follower who requires no direct influence to control. If each Ringwraith in a company has a Black Horse, the company is in Black Rider mode and may freely move (using starter movement). You may include up to nine copies of this card in your play deck and sideboard combined. Return its controller to your hand if Black Horse leaves active play. 
+> > ***Playable on a Ringwraith at a Darkhaven*** \[![](/assets/images/dark-haven.svg)] _(does not tap the site)._ Each _Black Horse_ in your Ringwraith's company allows you to play one Ringwraith follower who requires no direct influence to control. If each Ringwraith in a company has a _Black Horse_, the company is in Black Rider mode and may freely move (using starter movement). You may include up to nine copies of this card in your play deck and sideboard combined. Return its controller to your hand if _Black Horse_ leaves active play. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 4/6 】</div>

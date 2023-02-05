@@ -22,5 +22,5 @@ permalink: /cards/rumours-of-rings/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > During your organization phase, you may take one ring special item (except for The One Ring) from your sideboard and place it "off to the side" with this card. This item gives no marshalling points. A maximum of two items may be with this card at one time. You may play a ring special item placed with this card as though it were in your hand. You may start the game with this card in lieu of playing a minor item.  
+> > During your organization phase, you may take one ring special item (except for _The One Ring_) from your sideboard and place it "off to the side" with this card. This item gives no marshalling points. A maximum of two items may be with this card at one time. You may play a ring special item placed with this card as though it were in your hand. You may start the game with this card in lieu of playing a minor item.  
 > 

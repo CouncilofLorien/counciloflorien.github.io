@@ -25,7 +25,7 @@ permalink: /cards/many-coloured-robes/
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Saruman specific._ Place this card on Saruman if he is in play. If on Saruman, he may tap during his end-of-turn phase to take Ringlore, Lordly Presence, or First of the Order from his discard pile to his hand.   
+> > _**Unique.**_ _Saruman specific._ ***Place this card on Saruman if he is in play.*** If on Saruman, he may tap during his end-of-turn phase to take Ringlore, Lordly Presence, or First of the Order from his discard pile to his hand.   
 > > 
 > > {: .fs-3 } 
 > > _“‘White cloth may be dyed’”_ ***---&#65279;LotRII*** 

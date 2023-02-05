@@ -22,5 +22,5 @@ permalink: /cards/earcaraxe-roused/
 > Dragon Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Manifestation of Earcaraxe. Playable at Isle of the Ulond if the influence check is greater than 11. Modifications: influencer discards a major item (+2) or a greater item (+5). All attacks by manifestations of Earcaraxe against any of your companies are canceled. Any company moving in Andrast Coast, Bay of Belfalas, Eriadoran Coast, and/or Andrast faces one attack: Dragon-two strikes at 17/7 prowess/body (attacker chooses defending characters). 
+> > _**Unique.**_ _Manifestation of Earcaraxe._ ***Playable at Isle of the Ulond*** <br>&ensp;if the influence check is greater than 11. _Modifications:_ influencer discards a major item (+2) or a greater item (+5). All attacks by manifestations of _Earcaraxe_ against any of your companies are canceled. Any company moving in Andrast Coast, Bay of Belfalas, Eriadoran Coast, and/or Andrast faces one attack: Dragon --- two strikes at 17/7 prowess/body (attacker chooses defending characters). 
 > 

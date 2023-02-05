@@ -22,5 +22,5 @@ permalink: /cards/treason-the-greatest-foe/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable during the site phase on a minion if a non-Wizard hero is at the same site and the hero and minion have the same home site. Make a roll (draw a #). If the result plus target minion's unused direct influence is greater than the hero's mind plus his player's unused general influence, discard the hero (and all cards he controls) and place this card in your marshalling point pile. Otherwise, discard this card. 
+> > ***Playable during the site phase on a minion if a non-Wizard hero is at the same site and the hero and minion have the same home site.*** Make a roll (draw a #). If the result plus target minion's unused direct influence is greater than the hero's mind plus his player's unused general influence, discard the hero (and all cards he controls) and place this card in your marshalling point pile. Otherwise, discard this card. 
 > 

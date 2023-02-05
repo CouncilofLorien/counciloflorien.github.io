@@ -25,7 +25,7 @@ permalink: /cards/keys-of-orthanc/
 > Special Item
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Minas Tirith. During your organization phase, you may: take The Fortress of Isen card from your play deck or discard pile to your hand or discard The Fortress of Isen card if in play by another player. Reshuffle your play deck if searched. 
+> > _**Unique.**_ ***Playable at Minas Tirith.*** During your organization phase, you may: take _The Fortress of Isen_ card from your play deck or discard pile to your hand or discard _The Fortress of Isen_ card if in play by another player. Reshuffle your play deck if searched. 
 > > 
 > > {: .fs-3 } 
 > > _“...Beren welcomed Saruman, and gave to him the keys of Orthanc...”_ ***---&#65279;LotR*** 

@@ -22,5 +22,5 @@ permalink: /cards/wild-horses/
 > Animal Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable at any tapped or untapped non-Haven site in Rohan, Southern Rhovanion, Khand, Dorwinion, Horse Plains, or Harondor if the influence check is greater than 11.  <br>_Standard Modifications:_ Men with home sites in the regions listed above (+3). Tap this faction to allow any company with one of these regions listed above in its site path to move up to 1 additional region. 
+> > ***Playable at any tapped or untapped non-Haven site in Rohan, Southern Rhovanion, Khand, Dorwinion, Horse Plains, or Harondor*** <br>&ensp;if the influence check is greater than 11.  <br>_Standard Modifications:_ Men with home sites in the regions listed above (+3). Tap this faction to allow any company with one of these regions listed above in its site path to move up to 1 additional region. 
 > 

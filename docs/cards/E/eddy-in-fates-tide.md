@@ -22,5 +22,5 @@ permalink: /cards/eddy-in-fates-tide/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Balrog specific._ Playable during the site phase on an untapped site if The Balrog is there; the site cannot be an Under-deeps site or surface site thereof. Tap The Balrog and the site. This site is never discarded and never untaps for you. Before a company can play any ally or item at any version of this site, it must tap two characters during the site phase. 
+> > _Balrog specific._ ***Playable during the site phase on an untapped site if The Balrog is there;*** _the site cannot be an Under-deeps site or surface site thereof._ Tap The Balrog and the site. This site is never discarded and never untaps for you. Before a company can play any ally or item at any version of this site, it must tap two characters during the site phase. 
 > 

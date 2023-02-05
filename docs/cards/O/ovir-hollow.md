@@ -48,7 +48,7 @@ permalink: /cards/ovir-hollow/
 > Grey Mountain Narrows
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur  <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Dragon-1 strike with 12 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur  <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Dragon --- 1 strike with 12 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“From out of the hollow came a cry, the song of an angry white bear, a warning of cold doom."_ ***---&#65279;Kuduk Lore*** 

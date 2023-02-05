@@ -22,5 +22,5 @@ permalink: /cards/counterfeit/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Magic._ _Spirit-_Magic.__ Playable on an Orc character in a spirit-magic using character's company. The Orc is considered to be a Half-orc for all purposes. Unless he is a Ringwraith, the spirit-magic using character makes a corruption check modified by -3. Discard if the Orc character is in a company that does not contain a spriti-magic using character. 
+> > _Magic._ _Spirit-magic.__ ***Playable on an Orc character in a spirit-magic using character's company.*** The Orc is considered to be a Half-orc for all purposes. Unless he is a Ringwraith, the spirit-magic using character makes a corruption check modified by -3. Discard if the Orc character is in a company that does not contain a spriti-magic using character. 
 > 

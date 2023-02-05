@@ -22,5 +22,5 @@ permalink: /cards/daelomin-roused/
 > Dragon Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Manifestation of Daelomin. Playable at Dancing Spire if the influence check is greater than 12. Modifications: influencer discards a major item (+3) or a greater item (+6). All attacks by manifestations of Daelomin against any of your companies are canceled. Any company moving in Withered Heath, Grey Mountain Narrows, Iron Hills, and/or Northern Rhovanion faces one attack: Dragon-three strikes at 13/8 prowess/body (attacker chooses defending characters). 
+> > _**Unique.**_ _Manifestation of Daelomin._ ***Playable at Dancing Spire*** <br>&ensp;if the influence check is greater than 12. _Modifications:_ influencer discards a major item (+3) or a greater item (+6). All attacks by manifestations of _Daelomin_ against any of your companies are canceled. Any company moving in Withered Heath, Grey Mountain Narrows, Iron Hills, and/or Northern Rhovanion faces one attack: Dragon --- three strikes at 13/8 prowess/body (attacker chooses defending characters). 
 > 

@@ -48,7 +48,7 @@ permalink: /cards/raider-hold/
 > Horse Plain
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Men-4 strikes with 9 prowess (detainment)  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Men --- 4 strikes with 9 prowess (detainment)  
 > > 
 > > {: .fs-3 } 
 > > _“‘It looks like a rock from afar, and tales of murder ward away those who might draw close by.’”_ ***---&#65279;Kuduk Lore*** 
