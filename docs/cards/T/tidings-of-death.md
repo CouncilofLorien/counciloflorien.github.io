@@ -25,5 +25,5 @@ permalink: /cards/tidings-of-death/
 > > -1 to each influence check against a faction, but for each influence check make an additional roll (or draw an additional #) and choose which result to use. May also be played as a hero resource.   
 > > 
 > > {: .fs-3 } 
-> > _“‘It was Boromir, my brother, dead. I knew his gear, his 
+> > _“‘It was Boromir, my brother, dead. I knew his gear, his sword, his beloved face..’”_ ***---&#65279;LotRII*** 
 > 

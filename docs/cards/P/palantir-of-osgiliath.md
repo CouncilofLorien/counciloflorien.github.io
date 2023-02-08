@@ -59,7 +59,7 @@ permalink: /cards/palantir-of-osgiliath/
 > Greater Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Palantir._ If the bearer's company is ever below 4 characters and it moves, discard this item. With its bearer able to use a Palantir, _Palantir of Osgiliath_ to force the discard of any hazard permanent-event or to duplicate the effect of any minion Palantir in play. Bearer then makes a corruption check. 5 marshalling points if stored at Barad-dur. 
+> > _**Unique.**_ _Palantir._ If the bearer's company is ever below 4 characters and it moves, discard this item. With its bearer able to use a Palantir, tap _Palantir of Osgiliath_ to force the discard of any hazard permanent-event or to duplicate the effect of any minion Palantir in play. Bearer then makes a corruption check. 5 marshalling points if stored at Barad-dur. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

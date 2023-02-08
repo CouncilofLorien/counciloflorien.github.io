@@ -62,7 +62,7 @@ permalink: /cards/the-mithril-coat/
 > Greater Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Armour. +3 body to body (to a maximum of 10). 
+> > _**Unique.**_ Armour. +3 to body (to a maximum of 10). 
 > > 
 > > {: .fs-3 } 
 > > _“It was close-woven of many rings, as supple almost as linen, cold as ice, and harder than steel."_ ***---&#65279;LotRII*** 

@@ -25,5 +25,5 @@ permalink: /cards/blow-turned/
 > > _Warrior only:_ Warrior does not tap against one strike. If wounded by the strike, his body check is modified by -1. 
 > > 
 > > {: .fs-3 } 
-> > _“With a thrust of his huge hide shield he turned Bormir's sword and bore him backwards, throwing him to the ground."_ ***---&#65279;LotRII*** 
+> > _“With a thrust of his huge hide shield he turned Boromir's sword and bore him backwards, throwing him to the ground."_ ***---&#65279;LotRII*** 
 > 

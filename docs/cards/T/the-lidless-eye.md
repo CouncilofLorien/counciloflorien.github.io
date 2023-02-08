@@ -22,5 +22,5 @@ permalink: /cards/the-lidless-eye/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > ***Playable if your opponent is a Wizard and you have not revealed a Ringwraith.*** You are Sauron, not a Ringwraith. You may not reveal a Ringwraith or play Ringwraith followers. +7 to your general influence. You may keep one more card than normal in your hand. Once during each of your organization phases, you may: bring a resource or character from your sideboard into your play deck and shuffle or choose and discard a card from your hand to look up to 5 random cards at once from your opponent's hand. Cannot be duplicated.  
+> > ***Playable if your opponent is a Wizard and you have not revealed a Ringwraith.*** You are Sauron, not a Ringwraith. You may not reveal a Ringwraith or play Ringwraith followers. +7 to your general influence. You may keep one more card than normal in your hand. Once during each of your organization phases, you may: bring a resource or character from your sideboard into your play deck and shuffle **or** choose and discard a card from your hand to look at up to 5 random cards at once from your opponent's hand. Cannot be duplicated.  
 > 

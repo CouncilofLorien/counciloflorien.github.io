@@ -22,7 +22,7 @@ permalink: /cards/bold-thrust/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Warrior only:_ Warrior receives +3 to prowess and -1 to body against one strike.   
+> > _Warrior only._ Warrior receives +3 to prowess and -1 to body against one strike.   
 > > 
 > > {: .fs-3 } 
 > > _“...he charged into the Company and thrust with his spear straight at Frodo."_ ***---&#65279;LotRII*** 

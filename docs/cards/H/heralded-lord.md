@@ -19,7 +19,7 @@ permalink: /cards/heralded-lord/
 > > <div class="card-name">Heralded Lord</div>
 >
 > {: .minion-resource-name .white-text .mind-di .p-1 .pl-2 }
-> > -3![](/assets/images/di.svg)
+> > +3![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Permanent-event

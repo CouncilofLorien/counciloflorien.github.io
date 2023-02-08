@@ -25,7 +25,7 @@ permalink: /cards/stinker/
 > Scout Ally
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ ***Playable at Goblin-gate or Moria.*** _Manifestation of Gollum and My Precious._ If his company's size is less than three, tap _Stinker_ to cancel one attack against his company keyed to Wilderness \[![](/assets/images/wilderness.svg)] or Shadow-land \[![](/assets/images/shadow-land.svg)]. You may tap _Stinker_ if he is at the same non-Darkhaven site as _The One Ring_; then both _Stinker_ and _The One Ring_ are discarded. 
+> > _**Unique.**_ ***Playable at Goblin-gate or Moria.*** _Manifestation of Gollum and My Precious._ If his company's size is less than three, tap _Stinker_ to cancel one attack against his company keyed to Wilderness ![](/assets/images/wilderness.svg) or Shadow-land ![](/assets/images/shadow-land.svg). You may tap _Stinker_ if he is at the same non-Darkhaven site as _The One Ring_; then both _Stinker_ and _The One Ring_ are discarded. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 2/9 】</div>

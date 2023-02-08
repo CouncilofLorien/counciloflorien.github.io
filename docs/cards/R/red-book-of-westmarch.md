@@ -71,7 +71,7 @@ permalink: /cards/red-book-of-westmarch/
 > > _**Unique.**_ ***Playable at Bag End.*** May be stored at Barad-dur for 5 marshalling points. 
 > > 
 > > {: .fs-3 } 
-> > _“There was a big book with plain red leather covers; its tall pages wee now almost filled."_ ***---&#65279;LotRVI*** 
+> > _“There was a big book with plain red leather covers; its tall pages were now almost filled."_ ***---&#65279;LotRVI*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -91,7 +91,7 @@ permalink: /cards/red-book-of-westmarch/
 > > _**Unique.**_ Playable at Bag End. May be stored at Barad-dur for 5 marshalling points. 
 > > 
 > > {: .fs-3 } 
-> > _“There was a big book with plain red leather covers; its tall pages wee now almost filled."_ ***---&#65279;LotRVI*** 
+> > _“There was a big book with plain red leather covers; its tall pages were now almost filled."_ ***---&#65279;LotRVI*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

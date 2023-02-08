@@ -65,7 +65,7 @@ permalink: /cards/dwarven-ring-of-dwalins-tribe/
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Dwarven Ring._ ***Playable only with a Gold Ring and after a test indicates a Dwarven Ring.*** Values in parentheses and brackets apply to a Dwarf bearer. Tap a Dwarf bearer to search your play deck and/or discard pile for a major or gold ring item playable at the bearer's site. This item must be played immediately or discarded; reshuffle the play deck. Bearer makes a corruption check modified by +2. 
+> > _**Unique.**_ _Dwarven Ring._ ***Playable only with a Gold Ring and after a test indicates a Dwarven Ring.*** Values in parentheses apply to a Dwarf bearer. Tap a Dwarf bearer to search your play deck and/or discard pile for a major or gold ring item playable at the bearer's site. This item must be played immediately or discarded; reshuffle the play deck. Bearer then makes a corruption check modified by +2. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +2(4)/+1 】</div>

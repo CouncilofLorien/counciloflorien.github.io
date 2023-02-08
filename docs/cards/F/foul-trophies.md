@@ -22,5 +22,5 @@ permalink: /cards/foul-trophies/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > ***Playable on an untapped Orc or Troll character in a company that has just defeated an attack by Elves, Dwarves, Dunedain, or Men.*** Discard this card to modify another attack by Elves, Dwarves, Dunedain, or Men against the character's company. The attack is reduced to one strike with +3 prowess and -2 body. Only one Foul Trophies may be so discarded against a given attack. 
+> > ***Playable on an untapped Orc or Troll character in a company that has just defeated an attack by Elves, Dwarves, Dunedain, or Men.*** Tap the character. Discard this card to modify another attack by Elves, Dwarves, Dunedain, or Men against the character's company. The attack is reduced to one strike with +3 prowess and -2 body. Only one _Foul Trophies_ may be so discarded against a given attack. 
 > 

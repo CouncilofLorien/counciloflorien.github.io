@@ -22,7 +22,7 @@ permalink: /cards/snaga-hai/
 > Orc Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > ***Playable at any tapped or untapped Shadow-hold*** \[![](/assets/images/shadow-hold.svg)] <br>&ensp;if the influence check is greater than 9. Once in play, the number required to influence this faction is 0. 
+> > ***Playable at any tapped or untapped Shadow-hold*** \[![](/assets/images/shadow-hold.svg)] <br>&ensp;if the influence check is greater than 9. <br>Once in play, the number required to influence this faction is zero. 
 > > 
 > > {: .fs-3 } 
 > > _“They make no beautiful things, but they make many clever ones."_ ***---&#65279;Hob***  

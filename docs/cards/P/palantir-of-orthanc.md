@@ -62,7 +62,7 @@ permalink: /cards/palantir-of-orthanc/
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Palantir._ Playable at Isengard. With its bearer able to use a Palantir and with at least 5 cards in your play deck, tap _Palantir of Orthanc_ to choose one card from your discard pile to move to your play deck (reshuffle the play deck). Bearer then makes a corruption check. 
+> > _**Unique.**_ _Palantir._ ***Playable at Isengard.*** With its bearer able to use a Palantir and with at least 5 cards in your play deck, tap _Palantir of Orthanc_ to choose one card from your discard pile to move to your play deck (reshuffle the play deck). Bearer then makes a corruption check. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

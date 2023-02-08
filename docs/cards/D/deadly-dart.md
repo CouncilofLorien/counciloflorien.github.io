@@ -22,7 +22,7 @@ permalink: /cards/deadly-dart/
 > Minor Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Scout only._ Tap _Deadly Dart_ to give -1 body and -1 strike (to a minimum of one) to an automatic-attack or to a hazard creature keyed to a site. Tap its bearer or discard _Deadly Dart_ when it is tapped. May also be played as a hero resource (i.e., included in a Wizard's deck), but may not be included in a hero starting company. 
+> > _Scout only._ Tap _Deadly Dart_ to give -1 body and -1 strike (to a minimum of one) to an automatic-attack or to a hazard creature keyed to a site. Tap its bearer or discard _Deadly Dart_ when it is tapped. <br>&ensp;May also be played as a hero resource (i.e., included in a Wizard's deck), but may not be included in a hero starting company. 
 > > 
 > > {: .fs-3 } 
 > > _“...there came flying a deadly dart, and Faramir...had fallen to the earth."_ ***---&#65279;LotRV*** 

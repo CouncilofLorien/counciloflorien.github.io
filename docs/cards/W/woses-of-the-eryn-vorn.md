@@ -25,7 +25,7 @@ permalink: /cards/woses-of-the-eryn-vorn/
 > > _**Unique.**_ ***Playable at The Worthy Hills*** <br>&ensp;if the influence check is greater than 11. 
 > > 
 > > {: .fs-3 } 
-> > _“Living in half-submerged, earth-covered homes called fogus, the Woses of the Black Wood shun contact with others of the Secondborn."- Kuduk Lore  
+> > _“Living in half-submerged, earth-covered homes called fogus, the Woses of the Black Wood shun contact with others of the Secondborn."_ ***---&#65279;Kuduk Lore***   
 > 
 
 ### _Middle-earth: Against the Shadow_

@@ -48,10 +48,7 @@ permalink: /cards/the-iron-crown/
 > Greater Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Whenever bearer makes an influence check, he must also make a corruption check. If the bearer is not a Hobbit: he receives +1 to body to a maximum of 10; he receives +4 to direct influence; and he may tap _The Iron Crown_ to cancel an attack by Orcs, Trolls, or Men against his company. 
-> > 
-> > {: .fs-3 } 
-> > _“‘If I had this thing now in the deep vaults of this citadel, we should not then shake with dread under his gloom, fearing the worst...”_ ***---&#65279;LotRV*** 
+> > _**Unique.**_ +1 body to a maximum of 10. +4 direct influence. Bearer may tap _The Iron Crown_ to cancel an attack by Orcs, Trolls, or Men against his company. At the end of his untap phase, if the bearer is not a Ringwraith, he must make a corruption check. May be stored at Barad-dur for 5 marshalling points.
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 &ndash;/+1 】</div>

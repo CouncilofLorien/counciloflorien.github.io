@@ -22,10 +22,10 @@ permalink: /cards/foul-smelling-paste/
 > Minor Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > The bearer can discard this item to heal a wounded character in his company-change the character's status from wounded to well and untapped. 
+> > The bearer can discard this item to heal a wounded character in his company---change the character's status from wounded to well and untapped. 
 > > 
 > > {: .fs-3 } 
-> > _“...and tore the bandage off his head. Then he smeared the wound with some dark stuff out of a small wooden box." LotRIII 
+> > _“...and tore the bandage off his head. Then he smeared the wound with some dark stuff out of a small wooden box."_ ***---&#65279;LotRIII*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -42,10 +42,10 @@ permalink: /cards/foul-smelling-paste/
 > Minor Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > The bearer can discard this item to heal a wounded character in his company-change the character's status from wounded to well and untapped. 
+> > The bearer can discard this item to heal a wounded character in his company---change the character's status from wounded to well and untapped. 
 > > 
 > > {: .fs-3 } 
-> > _“...and tore the bandage off his head. Then he smeared the wound with some dark stuff out of a small wooden box." LotRIII 
+> > _“...and tore the bandage off his head. Then he smeared the wound with some dark stuff out of a small wooden box."_ ***---&#65279;LotRIII***
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

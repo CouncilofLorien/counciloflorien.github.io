@@ -22,5 +22,5 @@ permalink: /cards/scatha-roused/
 > Dragon Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Manifestation of Scatha_. ***Playable at Gondmaeglom*** <br>&ensp;if the influence check is greater than 13.  _Modifications:_ influencer discards a major item (+3) or a greater item (+6). <br>&ensp;All attacks by manifestations of Scatha against your companies are canceled. Any company moving in Withered Heath, Woodland Realm, Northern Rhovanion, and/or Grey Mountain Narrows faces one attack: Dragon --- three strikes at 15/9 prowess/body. 
+> > _**Unique.**_ _Manifestation of Scatha_. ***Playable at Gondmaeglom*** if the influence check is greater than 13.  _Modifications:_ influencer discards a major item (+3) or a greater item (+6). <br>&ensp;All attacks by manifestations of Scatha against your companies are canceled. Any company moving in Withered Heath, Woodland Realm, Northern Rhovanion, and/or Grey Mountain Narrows faces one attack: Dragon --- three strikes at 15/9 prowess/body. 
 > 

@@ -22,5 +22,5 @@ permalink: /cards/all-thought-bent-upon-it/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Sage only._ ***Playable during the site phase on an untapped sage at a site where Information is playable.*** Tap the sage and the site. Search your play deck and choose an item you must reveal to your opponent. Place this item in your hand and reshuffle your play deck. The sage makes a corruption check. 
+> > _Sage only._ ***Playable during the site phase on an untapped sage at a site where Information is playable.*** Tap the sage and the site. Search your play deck and choose an item you must reveal to your opponent. Place the item in your hand and reshuffle your play deck. The sage makes a corruption check. 
 > 

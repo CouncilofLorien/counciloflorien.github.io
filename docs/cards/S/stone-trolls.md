@@ -22,5 +22,5 @@ permalink: /cards/stone-trolls/
 > Troll Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ ***Playable at Ettenmoors*** <br>&ensp;if the influence check is greater than 10. Once in play, the number required to influence this faction is 0. If this influence attempt is made by an Orc or Troll leader, you may place this faction under the control of that leader and not tap the site. Discard the faction if the leader moves or leaves play. 3 or more factions controlled by the same leader give 2 extra marshalling points. <br>_Standard Modifications:_ Black-trolls (+2).   
+> > _**Unique.**_ ***Playable at Ettenmoors*** if the influence check is greater than 10. Once in play, the number required to influence this faction is zero. If this influence attempt is made by an Orc or Troll leader, you may place this faction under the control of that leader and not tap the site. Discard the faction if the leader moves or leaves play. Three or more factions controlled by the same leader give two extra marshalling points. <br>_Standard Modifications:_ Black-trolls (+2).   
 > 

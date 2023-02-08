@@ -28,7 +28,7 @@ permalink: /cards/trifling-ring/
 > > _Lesser Ring._ ***Playable only with a Gold Ring and after a test indicates a Lesser Ring.*** +3 to direct influence against characters. Cannot be duplicated on a given character. 
 > > 
 > > {: .fs-3 } 
-> > _“‘...to the Elven-smiths they were but trifles-yet still to my mind dangerous for mortals.’”_ ***---&#65279;LotRI*** 
+> > _“‘...to the Elven-smiths they were but trifles---yet still to my mind dangerous for mortals.’”_ ***---&#65279;LotRI*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

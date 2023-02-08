@@ -27,3 +27,6 @@ permalink: /cards/orc-liquor/
 > > {: .fs-3 } 
 > > _“He was healing...orc-fashion; and his treatment worked swiftly."_ ***---&#65279;LotRIII*** 
 > 
+> {: .minion-resource-name .p-1 .pr-2 }
+> > <div class="card-shield">【 &ndash;/(+2) 】</div>
+> > <div class="card-corruption-white">〔 1 〕</div>

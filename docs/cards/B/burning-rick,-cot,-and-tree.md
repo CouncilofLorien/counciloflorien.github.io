@@ -22,7 +22,7 @@ permalink: /cards/burning-rick,-cot,-and-tree/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > ***Playable at an already tapped Border-hold*** \[![](/assets/images/border-hold.svg)] ***during the site phase.*** The company faces two attacks (Men --- 4 strikes with 7 prowess, 1 strike with 9 prowess). If no characters are untapped after the attack, discard this card. Otherwise, you may tap one character in the company and put this card in your marshalling point pile. Discard any factions you have in play that are playable at that site. Cannot be duplicated at a given site. 
+> > ***Playable at an already tapped Border-hold*** \[![](/assets/images/border-hold.svg)] ***during the site phase.*** The company faces two attacks (Men --- 4 strikes with 7 prowess, 1 strike with 9 prowess). If no characters are untapped after the attack, discard this card. Otherwise, you may tap one character in the company and put this card in your marshalling point pile. Discard any factions you h\ave in play that are playable at that site. Cannot be duplicated at a given site. 
 > 
 
 ### _Middle-earth Challenge Decks_

@@ -25,7 +25,7 @@ permalink: /cards/black-hide-shield/
 > > _Shield._ +1 to body to a maximum of 9. 
 > > 
 > > {: .fs-3 } 
-> > _“Upon their shields...a black field...” LotRIII 
+> > _“Upon their shields...a black field...”_ ***---&#65279;LotRIII***
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 &ndash;/+1 】</div>

@@ -22,7 +22,7 @@ permalink: /cards/orcs-of-the-ash-mountains/
 > Orc Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ ***Playable at Cirith Gorgor*** <br>&ensp;if the influence check is greater than 8. Once in play, the number required to influence this faction is 0. If this influence attempt is made by an Orc or Troll leader, you may place this faction under the control of that leader and not tap the site. Discard the faction if the leader moves or leaves play. 3 or more factions controlled by the same leader give 2 extra marshalling points. <br>_Standard Modifications:_ Orcs of the Ephel Duath (-2), Snaga-hai (+2).   
+> > _**Unique.**_ ***Playable at Cirith Gorgor*** <br>&ensp;if the influence check is greater than 8. Once in play, the number required to influence this faction is zero. If this influence attempt is made by an Orc or Troll leader, you may place this faction under the control of that leader and not tap the site. Discard the faction if the leader moves or leaves play. Three or more factions controlled by the same leader give two extra marshalling points. _Standard Modifications:_ Orcs of the Ephel Duath (-2), Snaga-hai (+2).   
 > 
 
 ### _Middle-earth Challenge Decks_

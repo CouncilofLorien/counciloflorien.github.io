@@ -14,9 +14,12 @@ permalink: /cards/magic-ring-of-lies/
 ### _Middle-earth: The Lidless Eye_
 
 {: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .minion-resource-name .p-1 .pl-2 }
+> {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">Magic Ring of Lies</div>
+>
+> {: .minion-resource-name .white-text .mind-di .p-1 .pl-2 }
+> > \[+3![](/assets/images/di.svg)]
 >
 > {: .hazard-classification .pr-2 }
 > Special Item
@@ -28,5 +31,5 @@ permalink: /cards/magic-ring-of-lies/
 > > _“‘The lesser rings were only essays in the craft before it was full grown...’”_ ***---&#65279;LotRI*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【 [+3[di]] 】</div>
+> > <div class="card-shield"></div>
 > > <div class="card-corruption-white">〔 2 〕</div>

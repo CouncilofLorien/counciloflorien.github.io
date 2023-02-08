@@ -26,7 +26,6 @@ permalink: /cards/voices-of-malice/
 > > 
 > > {: .fs-3 } 
 > > _“...so their voices, which uttered only his will and malice, were filled with evil and horror."_ ***---&#65279;LotRI*** 
-
 > 
 
 ### _Middle-earth Challenge Decks_

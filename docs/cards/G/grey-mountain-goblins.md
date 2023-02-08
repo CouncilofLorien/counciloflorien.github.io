@@ -22,7 +22,7 @@ permalink: /cards/grey-mountain-goblins/
 > Orc Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ ***Playable at Gondmeaglom*** <br>&ensp;if the influence check is greater than 8. Once in play, the number required to influence this faction is 0. <br>_Standard Modifications:_ Orcs of Gundabad (+2), Orcs of Goblin-gate (+2). 
+> > _**Unique.**_ ***Playable at Gondmeaglom*** <br>&ensp;if the influence check is greater than 8. <br>Once in play, the number required to influence this faction is zero. <br>_Standard Modifications:_ Orcs of Gundabad (+2), Orcs of Goblin-gate (+2). 
 > 
 
 ### _Middle-earth Challenge Decks_

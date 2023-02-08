@@ -25,7 +25,7 @@ permalink: /cards/broad-headed-spear/
 > > _Weapon._ _Warrior only:_ +2 to prowess to a maximum of 8. 
 > > 
 > > {: .fs-3 } 
-> > _“...and carried a short broad-headed spear."- LotRVI 
+> > _“...and carried a short broad-headed spear."_ ***---&#65279;LotRVI***
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +2/&ndash; 】</div>
