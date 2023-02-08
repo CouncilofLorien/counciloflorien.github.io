@@ -30,7 +30,7 @@ permalink: /cards/lost-in-dark-domains/
 
 ### _Middle-earth: The Wizards Unlimited_
 
-{: .hazard-unlimited ..mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
+{: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Lost in Dark-domains</div>
