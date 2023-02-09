@@ -97,8 +97,8 @@ If you have played other collectible card games (CCG), there are several key fac
 
 {: .note }
 > **Clarification:** The card, Twilight, is an exception to this rule—it can be played at anytime, either as a resource or as a hazard (it does not count against the hazard limit). Certain other cards specifically state when they may be played.
-
-<br><span id="page5" class="page-number">5</span>
+<br>
+<span id="page5" class="page-number">5</span>
 
 ---
 
@@ -266,6 +266,7 @@ Marshalling points are printed on the top left corner of the cards that award th
 > Since Jessica called the council, Jason gets one final turn before the council starts. Jason brings Eomer into play for one more MP, and then moves his company to Lake-town. After facing the hazards Jessica plays, he successfully plays the Men of Northern Rhovanion faction for two more MPs. Jason now has 17 MPs and will win the game if he does not lose any MPs due to characters failing corruption checks. 
 > 
 > In this example, any character with 2 or more CPs could fail his corruption check (see [pages 35-36](#8--corruption)). If Pallando fails his corruption check, the game ends immediately and Jason wins. If Legolas fails his corruption check, Jessica loses 2 of her MPs. If Theoden fails his corruption check, Jason loses 6 of his MPs. If Faramir fails his corruption check, Jason loses 2 of his MPs. 
+
 <span id="page11" class="page-number">11</span>
 
 ---
@@ -311,7 +312,9 @@ _Play Deck_ — This deck consists of your resource cards, hazards cards, and ch
 You can use resources at certain sites and under certain conditions. Resources include: items, factions, allies, events, etc. _You may only play resource cards during your own turn_. You use hazards to hinder and attack your opponent’s characters in order to prevent them from marshalling resources. _You may only play hazard cards during your opponent’s movement/hazard phase_.
 
 {: .note} 
-> **Clarification:** The card, Twilight, is an exception to this rule—it can be played at anytime, either as a resource or as a hazard (it does not count against the hazard limit). Certain other cards specifically state when they may be played.<span id="page13" class="page-number">13</span>
+> **Clarification:** The card, Twilight, is an exception to this rule—it can be played at anytime, either as a resource or as a hazard (it does not count against the hazard limit). Certain other cards specifically state when they may be played.
+
+<span id="page13" class="page-number">13</span>
 
 ---
 
@@ -333,7 +336,9 @@ _Marshalling Point Pile_ (_MP pile_) — In addition to marshalling points from 
 > 
 > When a card is removed from play in all other cases, the card is discarded unless the card specifically states otherwise.
 > 
-> **Clarification:** Several types of cards are referred to by the key word included in the first few words of a card’s text. For example, the text of a “spell” card starts with _spell_; the text of a “Nazgul” card starts with _Unique. Nazgul_; the text of a “Palantír” starts with _Unique. Palantir_.<span id="page14" class="page-number">14</span>
+> **Clarification:** Several types of cards are referred to by the key word included in the first few words of a card’s text. For example, the text of a “spell” card starts with _spell_; the text of a “Nazgul” card starts with _Unique. Nazgul_; the text of a “Palantír” starts with _Unique. Palantir_.
+
+<span id="page14" class="page-number">14</span>
 
 ---
 
@@ -379,6 +384,7 @@ Follow these steps to get ready to play:
 > **Clarification:** None of your starting characters may be considered to be followers for the purposes of determining their combined mind attributes—your initial characters have to have combined mind attributes of 20 or below. 
 > 
 > **Clarification:** The initial 1-5 characters and two minor items do count toward the “one-unique” and “three-others” limits on the play deck. However, they do **not** count towards the number of resource and character cards in your starting play deck.
+
 <span id="page16" class="page-number">16</span>
 
 ---
@@ -410,6 +416,7 @@ A Brief Player Turn Summary is presented on [page 4](#brief-player-turn-summary)
 > A company can face a site’s automatic-attacks and still not play an item, ally, faction, or information resource card (e.g., all of its characters are tapped after facing the automatic-attacks). If such a company wants to play a card at the site on a later turn, it must face the automatic-attacks again. 
 > 
 > **Clarification:** A site is tapped when one item, ally, faction, or information card is played. Non-Haven sites only untap after being discarded and after your play deck is exhausted. So, each time through your play deck, only one such card may normally be played at a given non-Haven site. Haven cards, whether tapped or not, always return to your location deck.
+
 <span id="page17" class="page-number">17</span>
 
 ---
@@ -430,6 +437,7 @@ One company can split into two or more companies only at a Haven (use two Haven 
 
 {: .note } 
 > **Note:** The number of characters you have in play limits the number of actions you may take during a given turn. You use your Wizard’s general influence or your other characters’ direct influence on a character to bring that character into play and to keep it in play. A character in play can move and take actions (e.g., defending against attacks, influencing, etc.). Items, allies, and other cards representing things a character acquires and controls are placed under his card.
+
 <span id="page18" class="page-number">18</span>
 
 ---
@@ -523,6 +531,7 @@ If a character directly influencing a follower is removed from play, the followe
 > 
 > Jessica’s company size is 6 and she has 10 unused general influence;
 > Jason’s company size is 5 and he has 3 unused general influence.
+
 <span id="page21" class="page-number">21</span>
 
 ---
@@ -586,6 +595,7 @@ In _METW_ the lands of northwest Middle-earth are represented by regions. The si
 
 {: .text-center }
 ![](/assets/images/startermovement.svg)
+
 <span id="page"24 class="page-number">24</span>
 
 ---
@@ -611,6 +621,7 @@ If the company’s site of origin is a Haven, the new site card must meet one of
 
 {: .note }
 > **Clarification:** If a company is not moving, no cards are drawn. If a company is moving to a non-haven site, you _may_ draw up to the # of cards indicated by the site that it is _moving to_ (at least one card must be drawn); your opponent does the same. If a company is moving to a haven site, you _may_ draw up to the # of cards indicated by the site that it is _moving from_ (at least one card must be draw); your opponent does the same.
+
 <span id="page25" class="page-number">25</span>
 
 ---
@@ -632,6 +643,7 @@ If the company’s site of origin is a Haven, the new site card must meet one of
 > During the next turn, the company may move from Rivendell to Lorien using the site path, ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg), indicated on both the Rivendell and Lorien site cards. Jessica plays the Lorien site card during her organization phase, and she removes the Rivendell site card at the end of her movement/hazard phase. 
 > 
 > Finally, the company takes one turn to move from Lorien to Thranduil’s Halls using the site path,  ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/border-land.svg), indicated on the Thranduil’s Halls site card. Jessica plays the Thranduil’s Halls site card during her organization phase, and she removes the Lorien site card at the end of her movement/hazard phase.
+
 <span id="page26" class="page-number">26</span>
 
 ---
@@ -669,6 +681,7 @@ A _site path_ is the sequence of regions between a site and its nearest Haven. H
 > **Example:** The Lonely Mountain site’s nearest Haven is the Lorien site. The symbol for Wilderness is ![](/assets/images/wilderness.svg), the symbol for Border-land is ![](/assets/images/border-land.svg). So the site path between Lorien and the Lonely Mountain is: ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg). 
 > 
 > The regions between these two sites are Wold & Foothills (Wilderness), Anduin Vales (Border-lands), Woodland Realm (Border-land), and Northern Rhovanion (Wilderness).
+
 <span id="page27" class="page-number">27</span>
 
 ---
@@ -710,6 +723,7 @@ A _site path_ is the sequence of regions between a site and its nearest Haven. H
 >_Shadow-holds_ \[ ![](/assets/images/shadow-hold.svg) ]: Relatively deserted sites often inhabited by dangerous creatures and Shadow-forces (e.g., Goblin-gate, Mount Gram, etc.).
 >
 >_Dark-holds_ \[ ![](/assets/images/dark-hold.svg) ]: Very dangerous sites with heavy concentrations of Shadow-forces (Dol Guldur, Barad-dur, Minas Morgul, etc.).
+
 <span id="page28" class="page-number">28</span>
 
 ---
@@ -736,6 +750,7 @@ Unless the attack states otherwise, the defender chooses which _untapped_ charac
 > **Clarification:** If the text on a creature card states that the “attacker chooses defending characters,” any characters in the defending company may be chosen (by the attacker) as the targets of the attack’s strikes.
 > 
 > **Clarification:** All of an attack’s strikes must be assigned to the characters in the defending company or as modifications to the strikes assigned. The attacker may **not** choose to not apply strikes. Any strike in excess of the number of characters in the company becomes a -1 modification to prowess of one character taking a strike (the attacker chooses). Only those strikes that are assigned need be defeated for the creature’s marshalling points to be received by the defender.
+
 <span id="page29" class="page-number">29</span>
 
 ---
@@ -788,6 +803,7 @@ As presented above, a strike that fails is defeated if its body attribute is “
 
 {: .note } 
 > **Example:** Smaug has a prowess of 17 and a body of 8. He normally has two strikes when he attacks. If one of his strikes against a character fails, the defender makes a body check. If the resulting roll is greater than 8, that strike is defeated. However, both of Smaug’s strikes must be defeated in order for him to be eliminated—this would require at least two body check rolls greater than 8.
+
 <span id="page31" class="page-number">31</span>
 
 ---
@@ -833,6 +849,7 @@ All of the factors affecting the strike must be decided before making the roll (
 > **Clarification:** The prowess modification and maximum for a weapon is applied to a character before any other modifications. For example, Beorn has a base prowess of 7 and a Sword of Gondolin (+2 prowess to a maximum of 8)—he starts with a prowess of 8 before any other modifications are applied.
 > 
 > Similarly, the body modification and maximum for a shield or armor is applied before any other modifications.
+
 <span id="page33" class="page-number">33</span>
 
 ---
@@ -853,6 +870,7 @@ All of the factors affecting the strike must be decided before making the roll (
 > Your opponent sees that one character, Bofur, is untapped. He plays Giant (13/-) (a fourth hazard) and reasons that Bofur will have to take its one vicious strike. (After all, if you give up the option of assigning the one strike to your untapped character, namely Bofur, the opponent will be able to choose from all 5 characters which will take the strike). Your opponent does not see what Bofur sees. Before assigning the strike, Bofur taps and uses his Healing Herbs to untap Beregond, who then announces he is taking the strike. The Giant is keyed solely to double wilderness, so Beregond taps his Elven Cloak to cancel its single strike. The Giant is discarded.
 > 
 > The opponent announces he will play no more hazards and the company breathes a sigh of relief. Bilbo will be able to heal at the start of the next turn since his company will be in Lorien, a Haven.
+
 <span id="page34" class="page-number">34</span>
 
 ---
@@ -901,6 +919,7 @@ Certain characters receive modifications to corruption checks, and certain cards
 >  - _Corruption point values_ never have a plus or minus sign. The sum of all such values is the character’s corruption point total for the purposes of a corruption check. 
 >  
 >  Both values appear in the lower right of certain cards.
+
 <span id="page36" class="page-number">36</span>
 
 ---
@@ -921,6 +940,7 @@ Certain characters receive modifications to corruption checks, and certain cards
 > Fortunately, the Fellowship of the Ring is formed (see the company in the example on [page 21](#direct-influence))—we will assume that two Fellowship cards (+1 to prowess and corruption checks for all characters in the company) are played initially. 
 > 
 > So Frodo leaves Rivendell with a CP total of 9 and corruption check modifiers totaling +6 (+4 normal +2 for Fellowship). Thus, if forced to make a corruption check (without other modifications), he will be discarded on a roll of 2 or 3.
+
 <span id="page38" class="page-number">38</span>
 
 ---
@@ -963,6 +983,7 @@ If the modified result is greater than the value required on the faction card, y
 > So the modified result is 10 (=5+2+2+1). Since this is greater than 8 (the number required by the faction card), the Knights of Dol Amroth are successfully brought into play. 
 > 
 > If you had rolled a 3, your modified result would have been 8 (=3+2+2+1), and you would have had to discard the faction card.
+
 <span id="page40" class="page-number">40</span>
 
 ---
@@ -986,6 +1007,7 @@ A hazard limit can be modified by the play of certain cards. Tapping a Nazgul pe
 
 {: .note }
 > **Clarification:** For the purposes of calculating hazard limits, each company’s size is determined for each company at the beginning of the movement/hazard phase (e.g., it remains fixed). So, if a character is eliminated during his company’s portion of the movement/hazard phase, his company’s hazard limit does not change.
+
 <span id="page41" class="page-number">41</span>
 
 ---
@@ -1009,6 +1031,7 @@ If a creature satisfies more than one of these conditions, you must choose (when
 
 {: .note }
 > **Clarification:** The player that plays a hazard creature must specifically state the type of region or site that a creature is keyed to—it can affect the use of other cards. For example, if a character with an Elven Cloak faces a strike from a creature that has been played keyed to wilderness, he can tap the cloak to cancel the strike. However, if such a strike is keyed to border-lands, he cannot use his cloak against it.
+
 <span id="page42" class="page-number">42</span>
 
 ---
@@ -1027,6 +1050,7 @@ The region types that a company moves through during a given turn are determined
 > **Example:** Certain card combinations make a specific card more powerful and allow it to be played more often. Ren the Unclean (a Nazgul) has one strike with a prowess of 15 and can only be played keyed to dark-domains and dark-holds. However, if played in combination with a Fell Beast card, Ren has two strikes with a prowess of 13 and can be played keyed to shadow-lands, shadow-holds, dark-domains, and dark-holds.
 > 
 > If Ren is played in combination with a Fell Beast card _and_ a Morgul-knife card, he has two strikes with a prowess of 15 and can be played keyed to shadow-lands, shadow-holds, dark-domains, and dark-holds. In addition, one character wounded by his attack receives 4 corruption points due to the Morgul-knife.
+
 <span id="page43" class="page-number">43</span>
 
 ---
@@ -1055,6 +1079,7 @@ If a character is eliminated by corruption, discard all of the items that he con
 > **Clarification:** A character may control (i.e., bear) any item, even if he cannot use its abilities.
 > 
 > **Clarification:** A character may control (i.e., bear) more than one weapon or more than one shield or more than one armor. However, only one of each type may be used at any given time.
+
 <span id="page44" class="page-number">44</span>
 
 ---
@@ -1074,6 +1099,7 @@ An ally with a skill may take actions and play cards that require that skill. Fo
 
 {: .note }
 > **Clarification:** Allies that are eliminated are placed in the out-of-play pile (i.e., neither player may bring that ally back into play). Allies are not affected by corruption.
+
 <span id="page45" class="page-number">45</span>
 
 ---
@@ -1097,6 +1123,7 @@ You may only play a hazard long-event during your opponent’s movement/hazard p
 
 {: .note }
 > **Clarification:** The effects of many long-events and permanent-events affect both players because they can remain in effect during both players’ turns. So remember, when you play a long-event hazard on your opponent during his turn, it will remain in effect during your next turn. For example, Awaken Denizens (a long-event) increases the number of automatic-attack strikes at Ruins & Lairs for one turn for each player.
+
 <span id="page46" class="page-number">46</span>
 
 ---
@@ -1120,6 +1147,7 @@ Some items and resource cards state that they can be stored when at a specific s
 > **Clarification:** Certain cards state that a character bearing such a card cannot untap until the card is stored at a certain place. After storing such a card, the character does not untap until the untap phase of his player’s next turn. 
 > 
 > **Clarification:** Unless stated otherwise on the card, the marshalling points for a card that can be stored apply regardless of whether or not the card is stored.
+
 <span id="page47" class="page-number">47</span>
 
 ---
@@ -1189,6 +1217,7 @@ total in two ways:
 
 {: .note }
 > **Clarification:** These marshalling point modifications do not apply until the Free Council actually takes place. Specifically, the modifications do not affect your marshalling point total when it is used to determine if you can call the Free Council (i.e., you need 20 MPs to call the Free Council before any of these modifications are made).
+
 <span id="page50" class="page-number">50</span>
 
 ---
@@ -1227,6 +1256,7 @@ total in two ways:
 > **Total**  | **14**  | **12**
 > 
 > At this point, Jason reveals that he has cards for Gwaihir, Legolas, and Elrohir in his hand (he was saving them for this). Since they duplicate three of Jessica’s unique MP cards, her MP total is reduced by one for each of these cards. Thus, Jessica ends up with 14 MPs and Jason ends up with 12 MPs— Jessica wins. Jason curses his luck because he failed to bring the Men of Northern Rhovanion into play on his last turn.
+
 <span id="page51" class="page-number">51</span>
 
 ---
@@ -1255,6 +1285,7 @@ Alternatively, if your play deck has at least 5 cards, you may tap a Nazgul perm
 > **Clarification:** Your opponent may verify how many cards move to and from your sideboard, but you do not have to reveal what those cards are. 
 > 
 > **Clarification:** Your combined play deck and sideboard cannot violate the 1 unique card and 3 non-unique card limit. However, there is no restriction on the mix of hazards, resources, and characters in your sideboard. That is, for the purposes of your sideboard, you can ignore the play deck restrictions: the limit of 10 characters and the 50/50 resource/hazard mix.
+
 <span id="page52" class="page-number">52</span>
 
 ---
@@ -1342,6 +1373,7 @@ For the purposes of playing hazards, the site path for a company using region mo
 > **Clarification:** Region movement can be more dangerous to use than normal movement—certain creatures can be played keyed to specific region cards.
 > 
 > For example, suppose you decide to move a company from Lorien to the Easterling Camp using the region cards: Wold & Foothills (![](/assets/images/wilderness.svg)), Brown Lands (![](/assets/images/shadow-land.svg)), Dagorlad (![](/assets/images/shadow-land.svg)), and Horse Plains (![](/assets/images/shadow-land.svg)). The region types traveled through are the same as the site path used in normal movement between Lorien and the Easterling Camp (as given on the Easterling Camp site card)—so the same creatures may be played against the company based on region type. Adunaphel (a Nazgul) card normally can only be played keyed to dark-holds and dark-domains, but it also states that it can be played keyed to Dagorlad (and the Brown Lands). Thus, Adunaphel could be played on this company as it moves through Dagorlad. Similarly, Indur Dawndeath and Khamul the Easterling could also be played. 
+
 <span id="page55" class="page-number">55</span>
 
 ---
