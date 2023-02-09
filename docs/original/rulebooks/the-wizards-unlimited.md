@@ -619,8 +619,7 @@ If the company’s site of origin is a Haven, the new site card must meet one of
 
 {: .note }
 > **Clarification:** If a company is not moving, no cards are drawn. If a company is moving to a non-haven site, you _may_ draw up to the # of cards indicated by the site that it is _moving to_ (at least one card must be drawn); your opponent does the same. If a company is moving to a haven site, you _may_ draw up to the # of cards indicated by the site that it is _moving from_ (at least one card must be draw); your opponent does the same.
-
-<br><span id="page25" class="page-number">25</span>
+<span id="page25" class="page-number">25</span>
 
 ---
 
@@ -641,8 +640,7 @@ If the company’s site of origin is a Haven, the new site card must meet one of
 > During the next turn, the company may move from Rivendell to Lorien using the site path, ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg), indicated on both the Rivendell and Lorien site cards. Jessica plays the Lorien site card during her organization phase, and she removes the Rivendell site card at the end of her movement/hazard phase. 
 > 
 > Finally, the company takes one turn to move from Lorien to Thranduil’s Halls using the site path,  ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/border-land.svg), indicated on the Thranduil’s Halls site card. Jessica plays the Thranduil’s Halls site card during her organization phase, and she removes the Lorien site card at the end of her movement/hazard phase.
-
-<br><span id="page26" class="page-number">26</span>
+<span id="page26" class="page-number">26</span>
 
 ---
 
@@ -678,9 +676,7 @@ A _site path_ is the sequence of regions between a site and its nearest Haven. H
 {: .note }
 > **Example:** The Lonely Mountain site’s nearest Haven is the Lorien site. The symbol for Wilderness is ![](/assets/images/wilderness.svg), the symbol for Border-land is ![](/assets/images/border-land.svg). So the site path between Lorien and the Lonely Mountain is: ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg). 
 > 
-> The regions between these two sites are Wold & Foothills (Wilderness), Anduin Vales (Border-lands), Woodland Realm (Border-land), and Northern Rhovanion (Wilderness).
-
-<br><span id="page27" class="page-number">27</span>
+> The regions between these two sites are Wold & Foothills (Wilderness), Anduin Vales (Border-lands), Woodland Realm (Border-land), and Northern Rhovanion (Wilderness).<span id="page27" class="page-number">27</span>
 
 ---
 
@@ -720,9 +716,7 @@ A _site path_ is the sequence of regions between a site and its nearest Haven. H
 >
 >_Shadow-holds_ \[ ![](/assets/images/shadow-hold.svg) ]: Relatively deserted sites often inhabited by dangerous creatures and Shadow-forces (e.g., Goblin-gate, Mount Gram, etc.).
 >
->_Dark-holds_ \[ ![](/assets/images/dark-hold.svg) ]: Very dangerous sites with heavy concentrations of Shadow-forces (Dol Guldur, Barad-dur, Minas Morgul, etc.).
-
-<span id="page28" class="page-number">28<br></span>
+>_Dark-holds_ \[ ![](/assets/images/dark-hold.svg) ]: Very dangerous sites with heavy concentrations of Shadow-forces (Dol Guldur, Barad-dur, Minas Morgul, etc.).<span id="page28" class="page-number">28</span>
 
 ---
 
