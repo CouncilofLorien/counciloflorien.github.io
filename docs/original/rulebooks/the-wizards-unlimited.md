@@ -460,9 +460,7 @@ _Mind_ \[  ![](/assets/images/mind.svg) ]: A character’s mind determines how m
 
 _Marshalling Points_ \[ upper left ]: This is the number of marshalling points you receive when you have the character in play. This value represents the character’s importance to the Free Peoples’ struggle against Sauron.
 
-_Special Abilities:_ Some characters have special abilities that are detailed on their cards. Common special abilities include corruption check modifiers, influence bonuses, prowess bonuses. For example, Faramir has an influence bonus against the _Rangers of Ithilien_ faction, Eowyn has a prowess bonus against Nazgul, Frodo has a corruption check modifier, etc.
-
-<br><span id="page19" class="page-number">19</span>
+_Special Abilities:_ Some characters have special abilities that are detailed on their cards. Common special abilities include corruption check modifiers, influence bonuses, prowess bonuses. For example, Faramir has an influence bonus against the _Rangers of Ithilien_ faction, Eowyn has a prowess bonus against Nazgul, Frodo has a corruption check modifier, etc.<span id="page19" class="page-number">19</span>
 
 ---
 
@@ -532,7 +530,7 @@ If a character directly influencing a follower is removed from play, the followe
 > Jessica’s company size is 6 and she has 10 unused general influence;
 > Jason’s company size is 5 and he has 3 unused general influence.
 
-<span id="page21" class="page-number"><br>21</span>
+<br><span id="page21" class="page-number">21</span>
 
 ---
 
@@ -596,7 +594,7 @@ In _METW_ the lands of northwest Middle-earth are represented by regions. The si
 {: .text-center }
 ![](/assets/images/startermovement.svg)
 
-<span id="page"24 class="page-number">24</span>
+<span id="page24" class="page-number">24</span>
 
 ---
 
@@ -622,7 +620,7 @@ If the company’s site of origin is a Haven, the new site card must meet one of
 {: .note }
 > **Clarification:** If a company is not moving, no cards are drawn. If a company is moving to a non-haven site, you _may_ draw up to the # of cards indicated by the site that it is _moving to_ (at least one card must be drawn); your opponent does the same. If a company is moving to a haven site, you _may_ draw up to the # of cards indicated by the site that it is _moving from_ (at least one card must be draw); your opponent does the same.
 
-<span id="page25" class="page-number">25</span>
+<br><span id="page25" class="page-number">25</span>
 
 ---
 
@@ -644,7 +642,7 @@ If the company’s site of origin is a Haven, the new site card must meet one of
 > 
 > Finally, the company takes one turn to move from Lorien to Thranduil’s Halls using the site path,  ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/border-land.svg), indicated on the Thranduil’s Halls site card. Jessica plays the Thranduil’s Halls site card during her organization phase, and she removes the Lorien site card at the end of her movement/hazard phase.
 
-<span id="page26" class="page-number">26</span>
+<br><span id="page26" class="page-number">26</span>
 
 ---
 
@@ -682,7 +680,7 @@ A _site path_ is the sequence of regions between a site and its nearest Haven. H
 > 
 > The regions between these two sites are Wold & Foothills (Wilderness), Anduin Vales (Border-lands), Woodland Realm (Border-land), and Northern Rhovanion (Wilderness).
 
-<span id="page27" class="page-number">27</span>
+<br><span id="page27" class="page-number">27</span>
 
 ---
 
@@ -724,7 +722,7 @@ A _site path_ is the sequence of regions between a site and its nearest Haven. H
 >
 >_Dark-holds_ \[ ![](/assets/images/dark-hold.svg) ]: Very dangerous sites with heavy concentrations of Shadow-forces (Dol Guldur, Barad-dur, Minas Morgul, etc.).
 
-<span id="page28" class="page-number">28</span>
+<span id="page28" class="page-number">28<br></span>
 
 ---
 
