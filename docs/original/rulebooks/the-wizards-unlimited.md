@@ -922,6 +922,75 @@ Certain characters receive modifications to corruption checks, and certain cards
 
 ---
 
+## CARD DIAGRAMS
+
+![](/assets/images/unlimited-appendix-card-diagrams.gif)
+
+## MAP OF MIDDLE-EARTH
+
+![](/assets/images/unlimited-appendix-map.gif)
+
+## REGION MAP KEY
+
+| # | Region Name | Type |
+| ---: | :---: | :--- |
+1 | Lindon   | ![](/assets/images/free-domain.svg)
+2 | Numeriador  | ![](/assets/images/wilderness.svg)
+3 | Forochel   | ![](/assets/images/wilderness.svg)
+4 | Arthedain |  ![](/assets/images/wilderness.svg)
+5 | The Shire  | ![](/assets/images/free-domain.svg)
+6 | Cardolan  |  ![](/assets/images/wilderness.svg)
+7 | Angmar   | ![](/assets/images/shadow-land.svg)
+8 | Rhudaur  |  ![](/assets/images/wilderness.svg)
+9 | Hollin   | ![](/assets/images/wilderness.svg)
+10 |   Dunland  | ![](/assets/images/wilderness.svg)
+11 |  Enedhwaith  | ![](/assets/images/wilderness.svg)
+12 | Old Pukel-land  | ![](/assets/images/wilderness.svg)
+13  |  Gundabad  | ![](/assets/images/dark-domain.svg) 
+14  |  High Pass  | ![](/assets/images/wilderness.svg)
+15 |  Redhorn Gate  | ![](/assets/images/wilderness.svg)
+16  | Gap of Isen  | ![](/assets/images/border-land.svg)
+17 |  Anduin Vales  | ![](/assets/images/border-land.svg)
+18 | Wold & Foothills  | ![](/assets/images/wilderness.svg)
+19 |   Fangorn  | ![](/assets/images/wilderness.svg)
+20 |    Rohan  | ![](/assets/images/border-land.svg)
+21 | Grey Mountain Narrows  | ![](/assets/images/shadow-land.svg)
+22 | Woodland Realm  | ![](/assets/images/border-land.svg)
+23 | Western Mirkwood  | ![](/assets/images/wilderness.svg)
+24 | Heart of Mirkwood  | ![](/assets/images/wilderness.svg)
+25 | Southern Mirkwood  | ![](/assets/images/dark-domain.svg)
+26 |  Brown Lands  | ![](/assets/images/shadow-land.svg)
+27 |   Dagorlad  | ![](/assets/images/shadow-land.svg)
+28 | Withered Heath  | ![](/assets/images/wilderness.svg)
+29 | Northern Rhovanion  | ![](/assets/images/wilderness.svg)
+30 | Southern Rhovanion  | ![](/assets/images/wilderness.svg)
+31 |  Iron Hills  | ![](/assets/images/wilderness.svg)
+32 |   Dorwinion  | ![](/assets/images/border-land.svg)
+33 |  Horse Plains  | ![](/assets/images/shadow-land.svg)
+34 |  Old Pukel Gap  | ![](/assets/images/wilderness.svg)
+35 |   Andrast  | ![](/assets/images/wilderness.svg)
+36  |  Anfalas  | ![](/assets/images/wilderness.svg)
+37 |   Lamedon  | ![](/assets/images/border-land.svg)
+38  |  Belfalas  | ![](/assets/images/free-domain.svg)
+39 |   Lebennin  | ![](/assets/images/free-domain.svg)
+40 |   Anorien  | ![](/assets/images/free-domain.svg)
+41 |   Ithilien  | ![](/assets/images/wilderness.svg)
+42 |   Harondor  | ![](/assets/images/wilderness.svg)
+43  |   Khand  | ![](/assets/images/shadow-land.svg)
+44 |  Imlad Morgul  | ![](/assets/images/shadow-land.svg)
+45  |   Udun  | ![](/assets/images/dark-domain.svg)
+46  |  Gorgoroth   | ![](/assets/images/dark-domain.svg)
+47  |   Nurn  | ![](/assets/images/dark-domain.svg)
+48  | Elven Shores  | ![](/assets/images/coastalsea.svg)
+49  |Eriadoran Coast  | ![](/assets/images/coastalsea.svg)
+50  | Andrast Coast  | ![](/assets/images/coastalsea.svg)
+51  |Bay of Belfalas  | ![](/assets/images/coastalsea.svg)
+52  |Mouths of the Anduin | ![](/assets/images/coastalsea.svg)
+
+<br><span id="page37" class="page-number">37</span>
+
+---
+
 {: .note }
 > **Example:** (CP = Corruption Points) Using the _Middle-earth: The Wizards_ terms, lets take a look at Frodo at several points during the action in _The Lord of the Rings_ between the Shire and Lorien. Frodo has a special ability: he has a corruption check modifier of +4 (as provided in the bottom right corner of his card). 
 > 
@@ -1350,7 +1419,7 @@ To use region movement, play a new site card (face down) and a series of up to f
 - The current (i.e., site of origin) site is located in the first region, **and**
 - That region card is adjacent to the next region card played, **and**
 - That region card is adjacent to the next region card played, … , **and**
-- Finally, the last region card played is the region that the new site card is located in.<span id="page54" class="page-number54"></span>
+- Finally, the last region card played is the region that the new site card is located in.<span id="page54" class="page-number">54</span>
 
 ---
 
@@ -1641,72 +1710,37 @@ _Middle-earth: The Wizards Companion_ provides some expanded, variant solitaire 
 
 ---
 
-# THE APPENDICES
+## CREDITS
 
-## CARD DIAGRAMS
-
-![](/assets/images/unlimited-appendix-card-diagrams.gif)
-
-## MAP OF MIDDLE-EARTH
-
-![](/assets/images/unlimited-appendix-map.gif)
-
-## MAP INDEX
-
-| # | Region Name | Type |
-| ---: | :---: | :--- |
-1 | Lindon   | ![](/assets/images/free-domain.svg)
-2 | Numeriador  | ![](/assets/images/wilderness.svg)
-3 | Forochel   | ![](/assets/images/wilderness.svg)
-4 | Arthedain |  ![](/assets/images/wilderness.svg)
-5 | The Shire  | ![](/assets/images/free-domain.svg)
-6 | Cardolan  |  ![](/assets/images/wilderness.svg)
-7 | Angmar   | ![](/assets/images/shadow-land.svg)
-8 | Rhudaur  |  ![](/assets/images/wilderness.svg)
-9 | Hollin   | ![](/assets/images/wilderness.svg)
-10 |   Dunland  | ![](/assets/images/wilderness.svg)
-11 |  Enedhwaith  | ![](/assets/images/wilderness.svg)
-12 | Old Pukel-land  | ![](/assets/images/wilderness.svg)
-13  |  Gundabad  | ![](/assets/images/dark-domain.svg) 
-14  |  High Pass  | ![](/assets/images/wilderness.svg)
-15 |  Redhorn Gate  | ![](/assets/images/wilderness.svg)
-16  | Gap of Isen  | ![](/assets/images/border-land.svg)
-17 |  Anduin Vales  | ![](/assets/images/border-land.svg)
-18 | Wold & Foothills  | ![](/assets/images/wilderness.svg)
-19 |   Fangorn  | ![](/assets/images/wilderness.svg)
-20 |    Rohan  | ![](/assets/images/border-land.svg)
-21 | Grey Mountain Narrows  | ![](/assets/images/shadow-land.svg)
-22 | Woodland Realm  | ![](/assets/images/border-land.svg)
-23 | Western Mirkwood  | ![](/assets/images/wilderness.svg)
-24 | Heart of Mirkwood  | ![](/assets/images/wilderness.svg)
-25 | Southern Mirkwood  | ![](/assets/images/dark-domain.svg)
-26 |  Brown Lands  | ![](/assets/images/shadow-land.svg)
-27 |   Dagorlad  | ![](/assets/images/shadow-land.svg)
-28 | Withered Heath  | ![](/assets/images/wilderness.svg)
-29 | Northern Rhovanion  | ![](/assets/images/wilderness.svg)
-30 | Southern Rhovanion  | ![](/assets/images/wilderness.svg)
-31 |  Iron Hills  | ![](/assets/images/wilderness.svg)
-32 |   Dorwinion  | ![](/assets/images/border-land.svg)
-33 |  Horse Plains  | ![](/assets/images/shadow-land.svg)
-34 |  Old Pukel Gap  | ![](/assets/images/wilderness.svg)
-35 |   Andrast  | ![](/assets/images/wilderness.svg)
-36  |  Anfalas  | ![](/assets/images/wilderness.svg)
-37 |   Lamedon  | ![](/assets/images/border-land.svg)
-38  |  Belfalas  | ![](/assets/images/free-domain.svg)
-39 |   Lebennin  | ![](/assets/images/free-domain.svg)
-40 |   Anorien  | ![](/assets/images/free-domain.svg)
-41 |   Ithilien  | ![](/assets/images/wilderness.svg)
-42 |   Harondor  | ![](/assets/images/wilderness.svg)
-43  |   Khand  | ![](/assets/images/shadow-land.svg)
-44 |  Imlad Morgul  | ![](/assets/images/shadow-land.svg)
-45  |   Udun  | ![](/assets/images/dark-domain.svg)
-46  |  Gorgoroth   | ![](/assets/images/dark-domain.svg)
-47  |   Nurn  | ![](/assets/images/dark-domain.svg)
-48  | Elven Shores  | ![](/assets/images/coastalsea.svg)
-49  |Eriadoran Coast  | ![](/assets/images/coastalsea.svg)
-50  | Andrast Coast  | ![](/assets/images/coastalsea.svg)
-51  |Bay of Belfalas  | ![](/assets/images/coastalsea.svg)
-52  |Mouths of the Anduin | ![](/assets/images/coastalsea.svg)
+**Art Director:** Jessica Ney-Grimm  
+**Base Design:** Coleman Charlton  
+**Project & Graphics Coordination:** Peter C. Fenlon  
+**Game Development:** Coleman Charlton, Mike Reynolds  
+**Card & Packaging Production:** Nick Morawitz  
+**Assisting Art Direction:** Jason O. Hawkins  
+**Design Team:** Coleman Charlton, John W. Curtis III, Pete Fenlon, Jason Hawkins, Mike Reynolds  
+**Applescripting:** Sal Soghoian  
+**Cardface & Cardback Graphics:** Derek Carbonneau  
+**Computer Color Balancing:** Stephen Jiranek, Nick Morawitz  
+**Computer Scanning Coordination:** Cotton Puryear  
+**Computer Scanning:** Photoworks of Virginia, Inc.  
+**Design Contributions:** N. Morawitz, Jessica Ney-Grimm, Dave Platnick Eye Cardback Art: Derek Carbonneau  
+**Graphics Contributions:** Pete Fenlon, Nick Morawitz, Jessica Ney-Grimm  
+**General Production:** Donald Dennis, Wendy Frazer  
+**Initial Design Parameters:** C. Charlton, John Curtis, Pete Fenlon, Jason Hawkins, Nick Morawitz, Jessica Ney-Grimm, Mike Reynolds  
+**Map Cardback & Region Card Art:** Jo Hartwig   
+**Marketing, Operations & Sales:** Deane Begiebing, Will Dinwiddie, Olivia Johnston, Dave Morris, Bruce Neidlinger, Dave Platnick, Daniel Williams, Monica Wilson  
+**Middle-earth Content:** P. Fenlon, Jason Hawkins, Jessica Ney-Grimm  
+**Playtest Coordinator:** Mike Reynolds  
+**Printer & Service House Coordination:** Kurt H. Fischer  
+**Printer Liaison:** Ilse Hendrickx, Luc Mertens, André Van Laer  
+**Rules Production:** Coleman Charlton, Nick Morawitz, Pete Fenlon  
+**Symbols:** Derek Carbonneau, Pete Fenlon, Nick Morawitz  
+**Logo:** David Martin, Derek Carbonneau  
+**Proofreading:** Deane Begiebing, Pete Fenlon, Olivia Johnston, Heike Kubasch, Dave Platnick, Mike Reynolds, Monica Wilson  
+**Special Contributions:** Derek Carbonneau, DPP, Thomas Graves, KCJ, Liz Leonard, Ken McGlothlen, Jesper Myrfors, Bruce Neidlinger, Jeffrey Ney-Grimm, Lou Rexing, Michael Sloan, Robin Swope, James Whitehouse, Janet Winter, Wayne Young, and friends & families  
+**Special Thanks:** Peter Adkison, Laurie Battle, Will & Schar Niebling, Danny Kilbert, Bob Carty, Mike Davis, Lou Rexing, Wayne Godfrey, Gary E. Smith, the Chessex crews, the InQuest crew and our on-line friends, especially the {TFF Folder}.  
+**Playtesting Credits:** James Andrews, Christian Antonini, Kevin Barrett, D. Begiebing, Guy Botero, Brian Bouton, Jay Bryan, Brian Carr, Waldon Chisholm, Silvio Negri Clementi, Frank Coker, Jessica Colborn, R. Mark Colborn, Philip DeLuca, D. Dennis, Bernd Dietrich, Bill Edwards, O. Estefania, Klaus Etzold, Andrea Fattori, K. Fischer, Luigi Lo Forti, Scott Frazer, Wendy Frazer, Madai Frey, Matthew Fulton, Kevin Garber, Eduard Garcia, David Glenn, Jesse Goldstein, O. Johnston, Robert Kelly, Ralph Kennedy, Oscar Lafuente, Nick Laiacona, Steve Marvin, F. Navarro, Will Niebling, William Niebling, Elmar Perkuhn, D. Platnick, Frank Pfeifer, Jeffrey C. Riley, Cory John Rueb, Francesc Matas Salla, Doug Schnur, Jason Smith, Lowell Stouder, Henri Jean Vanaise, J.L. Viadel, D. Villanueva, Dave Weinstein, James Whitehouse, M. Wilson, Darrell Zuercher, Steven Balbo & “The Arcane Circle,” J.L. Martinez & the Heroe Research Group, the Berkeley Games crew.<span id="page67" class="page-number">67</span>
 
 ---
 
@@ -1740,7 +1774,12 @@ First, remove all of your resource long-events already in play.
 
 Then, play any new resource long-event cards.
 
-Finally, remove all of your opponent’s hazard long-events.<span id="page68" class="page-number">68</span>
+Finally, remove all of your opponent’s hazard long-events.
+
+{: .note} 
+> _Address rules questions and comments via email to metwice@aol.com or mail to: I.C.E, P.O. Box 1605, Charlottesville, VA, 22902. Look for METW discussion areas on your favorite on-line service and visit our home page on the WWW (http://www.ironcrown.com)._
+
+<br><span id="page68" class="page-number">68</span>
 
 ---
 
@@ -1768,12 +1807,20 @@ In the order you decide (i.e., you decide which goes first, second, etc.), each 
  - do nothing **or**
  - follow this procedure:
       1. You decide to enter and explore the site.
-      2. If the site has an automatic-attack, it attacks the company. The attack is resolved normally (see [pages 29-33](#7--combat)).
+      2. If the site has an automatic-attack, it attacks the company. The attack is resolved normally (see pages [29](#page29)-[33](#page30)).
       3. The company may attempt to play one item, ally, faction, or information resource card that is “playable” at that site. Generally, this will involve tapping the character that will control the card played. If the resource card is successfully played, the site card is tapped **and** one additional character may tap to play a minor item.<br>Certain resource cards other than items, allies, factions, and information will state the conditions under which they may be played. Such cards may be played at tapped and untapped sites, and do not tap a site when played (e.g., _Return of the King_, _Lucky Search_, etc.).<br>
       _Standard Rules Only:_ One of your characters or your Wizard may attempt to influence away one of your opponent’s characters, followers, allies, factions, or items (if it is at the same site).
 
 **End-of-Turn Phase**
 You may discard one card. Then you must draw or discard cards until your hand has 8 cards. Your opponent does the same.<span id="page70" class="page-number">70</span>
+
+---
+
+## INDEX
+
+
+
+<br><span id="page71" class="page-number">71</span>
 
 ---
 
@@ -1814,42 +1861,5 @@ Dark-domains  |  ![](/assets/images/dark-domain.svg)
  Up to 1 resource card requiring skill | varies
  Other resource cards  |   varies
  Hazard cards    |    varies
-
-{: .note} 
-> _Address rules questions and comments via email to metwice@aol.com or mail to: I.C.E, P.O. Box 1605, Charlottesville, VA, 22902. Look for METW discussion areas on your favorite on-line service and visit our home page on the WWW (http://www.ironcrown.com)._
-
----
-
-## CREDITS
-
-**Art Director:** Jessica Ney-Grimm  
-**Base Design:** Coleman Charlton  
-**Project & Graphics Coordination:** Peter C. Fenlon  
-**Game Development:** Coleman Charlton, Mike Reynolds  
-**Card & Packaging Production:** Nick Morawitz  
-**Assisting Art Direction:** Jason O. Hawkins  
-**Design Team:** Coleman Charlton, John W. Curtis III, Pete Fenlon, Jason Hawkins, Mike Reynolds  
-**Applescripting:** Sal Soghoian  
-**Cardface & Cardback Graphics:** Derek Carbonneau  
-**Computer Color Balancing:** Stephen Jiranek, Nick Morawitz  
-**Computer Scanning Coordination:** Cotton Puryear  
-**Computer Scanning:** Photoworks of Virginia, Inc.  
-**Design Contributions:** N. Morawitz, Jessica Ney-Grimm, Dave Platnick Eye Cardback Art: Derek Carbonneau  
-**Graphics Contributions:** Pete Fenlon, Nick Morawitz, Jessica Ney-Grimm  
-**General Production:** Donald Dennis, Wendy Frazer  
-**Initial Design Parameters:** C. Charlton, John Curtis, Pete Fenlon, Jason Hawkins, Nick Morawitz, Jessica Ney-Grimm, Mike Reynolds  
-**Map Cardback & Region Card Art:** Jo Hartwig   
-**Marketing, Operations & Sales:** Deane Begiebing, Will Dinwiddie, Olivia Johnston, Dave Morris, Bruce Neidlinger, Dave Platnick, Daniel Williams, Monica Wilson  
-**Middle-earth Content:** P. Fenlon, Jason Hawkins, Jessica Ney-Grimm  
-**Playtest Coordinator:** Mike Reynolds  
-**Printer & Service House Coordination:** Kurt H. Fischer  
-**Printer Liaison:** Ilse Hendrickx, Luc Mertens, André Van Laer  
-**Rules Production:** Coleman Charlton, Nick Morawitz, Pete Fenlon  
-**Symbols:** Derek Carbonneau, Pete Fenlon, Nick Morawitz  
-**Logo:** David Martin, Derek Carbonneau  
-**Proofreading:** Deane Begiebing, Pete Fenlon, Olivia Johnston, Heike Kubasch, Dave Platnick, Mike Reynolds, Monica Wilson  
-**Special Contributions:** Derek Carbonneau, DPP, Thomas Graves, KCJ, Liz Leonard, Ken McGlothlen, Jesper Myrfors, Bruce Neidlinger, Jeffrey Ney-Grimm, Lou Rexing, Michael Sloan, Robin Swope, James Whitehouse, Janet Winter, Wayne Young, and friends & families  
-**Special Thanks:** Peter Adkison, Laurie Battle, Will & Schar Niebling, Danny Kilbert, Bob Carty, Mike Davis, Lou Rexing, Wayne Godfrey, Gary E. Smith, the Chessex crews, the InQuest crew and our on-line friends, especially the {TFF Folder}.  
-**Playtesting Credits:** James Andrews, Christian Antonini, Kevin Barrett, D. Begiebing, Guy Botero, Brian Bouton, Jay Bryan, Brian Carr, Waldon Chisholm, Silvio Negri Clementi, Frank Coker, Jessica Colborn, R. Mark Colborn, Philip DeLuca, D. Dennis, Bernd Dietrich, Bill Edwards, O. Estefania, Klaus Etzold, Andrea Fattori, K. Fischer, Luigi Lo Forti, Scott Frazer, Wendy Frazer, Madai Frey, Matthew Fulton, Kevin Garber, Eduard Garcia, David Glenn, Jesse Goldstein, O. Johnston, Robert Kelly, Ralph Kennedy, Oscar Lafuente, Nick Laiacona, Steve Marvin, F. Navarro, Will Niebling, William Niebling, Elmar Perkuhn, D. Platnick, Frank Pfeifer, Jeffrey C. Riley, Cory John Rueb, Francesc Matas Salla, Doug Schnur, Jason Smith, Lowell Stouder, Henri Jean Vanaise, J.L. Viadel, D. Villanueva, Dave Weinstein, James Whitehouse, M. Wilson, Darrell Zuercher, Steven Balbo & “The Arcane Circle,” J.L. Martinez & the Heroe Research Group, the Berkeley Games crew.
 
 ---
