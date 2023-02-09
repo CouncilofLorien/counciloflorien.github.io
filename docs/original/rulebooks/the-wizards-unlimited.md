@@ -724,7 +724,7 @@ A _site path_ is the sequence of regions between a site and its nearest Haven. H
 
 <br><span id="page28" class="page-number">28</span>
 
----
+<hr id="page29">
 
 ## 7 • COMBAT
 
@@ -751,7 +751,7 @@ Unless the attack states otherwise, the defender chooses which _untapped_ charac
 
 <br><span class="page-number">29</span>
 
-<span id="page29"></span>---
+---
 
 
 
@@ -1815,7 +1815,7 @@ In the order you decide (i.e., you decide which goes first, second, etc.), each 
  - do nothing **or**
  - follow this procedure:
       1. You decide to enter and explore the site.
-      2. If the site has an automatic-attack, it attacks the company. The attack is resolved normally (see pages [29](#page29)-[33](#page30)).
+      2. If the site has an automatic-attack, it attacks the company. The attack is resolved normally (see pages [29](#page29)-[33](#page33)).
       3. The company may attempt to play one item, ally, faction, or information resource card that is “playable” at that site. Generally, this will involve tapping the character that will control the card played. If the resource card is successfully played, the site card is tapped **and** one additional character may tap to play a minor item.<br>Certain resource cards other than items, allies, factions, and information will state the conditions under which they may be played. Such cards may be played at tapped and untapped sites, and do not tap a site when played (e.g., _Return of the King_, _Lucky Search_, etc.).<br>
       _Standard Rules Only:_ One of your characters or your Wizard may attempt to influence away one of your opponent’s characters, followers, allies, factions, or items (if it is at the same site).
 
