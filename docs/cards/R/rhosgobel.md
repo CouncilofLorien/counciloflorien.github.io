@@ -14,7 +14,7 @@ permalink: /cards/rhosgobel/
 ### _Middle-earth: The Wizards Limited_
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> {: .hero-site-text .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
 > > <div class="character-card-name">Rhosgobel</div>
 >
@@ -37,7 +37,7 @@ permalink: /cards/rhosgobel/
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> {: .hero-site-text .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
 > > <div class="character-card-name">Rhosgobel</div>
 >
@@ -60,7 +60,7 @@ permalink: /cards/rhosgobel/
 ### _Middle-earth: Against the Shadow_
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .minion-site-text .mb-4 .p-1 .pl-2 }
+> {: .minion-site-text .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
 > > <div class="card-name">Rhosgobel</div>
 >
@@ -80,7 +80,7 @@ permalink: /cards/rhosgobel/
 ### _Middle-earth: The White Hand_
 
 {: .fw-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .fw-site-text .mb-4 .p-1 .pl-2 }
+> {: .fw-site-text .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/free-haven.svg"></div>
 > > <div class="card-name">Rhosgobel</div>
 >
@@ -100,7 +100,7 @@ permalink: /cards/rhosgobel/
 ### _Middle-earth Challenge Decks_
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> {: .hero-site-text .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
 > > <div class="character-card-name">Rhosgobel</div>
 >

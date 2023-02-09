@@ -14,7 +14,7 @@ permalink: /cards/dimrill-dale/
 ### _Middle-earth: The Wizards Limited_
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> {: .hero-site-text .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
 > > <div class="character-card-name">Dimrill Dale</div>
 >
@@ -37,7 +37,7 @@ permalink: /cards/dimrill-dale/
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> {: .hero-site-text .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
 > > <div class="character-card-name">Dimrill Dale</div>
 >
@@ -60,7 +60,7 @@ permalink: /cards/dimrill-dale/
 ### _Middle-earth: The Lidless Eye_
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .minion-site-text .mb-4 .p-1 .pl-2 }
+> {: .minion-site-text .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
 > > <div class="card-name">Dimrill Dale</div>
 >
@@ -74,7 +74,7 @@ permalink: /cards/dimrill-dale/
 > > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Orcs --- 1 strike with 6 prowess  
 > > 
 > > {: .fs-3 } 
-> > _“‘...we shall come down by the Dimrill stair into the deep vale of the Dwarves. There lies Mirrormere...’”_ ***---&#65279;LotRII*** 
+> > _“‘...we shall come down by the Dimrill Stair into the deep vale of the Dwarves. There lies the Mirrormere...’”_ ***---&#65279;LotRII*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -83,7 +83,7 @@ permalink: /cards/dimrill-dale/
 ### _Middle-earth Challenge Decks_
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .minion-site-text .mb-4 .p-1 .pl-2 }
+> {: .minion-site-text .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
 > > <div class="card-name">Dimrill Dale</div>
 >
@@ -97,7 +97,7 @@ permalink: /cards/dimrill-dale/
 > > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Orcs - 1 strike with 6 prowess  
 > > 
 > > {: .fs-3 } 
-> > _“‘...we shall come down by the Dimrill stair into the deep vale of the Dwarves. There lies Mirrormere...’”_ ***---&#65279;LotRII*** 
+> > _“‘...we shall come down by the Dimrill Stair into the deep vale of the Dwarves. There lies the Mirrormere...’”_ ***---&#65279;LotRII*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

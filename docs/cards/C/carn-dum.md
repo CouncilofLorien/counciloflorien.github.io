@@ -14,7 +14,7 @@ permalink: /cards/carn-dum/
 ### _Middle-earth: The Wizards Limited_
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> {: .hero-site-text .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
 > > <div class="character-card-name">Carn Dum</div>
 >
@@ -37,7 +37,7 @@ permalink: /cards/carn-dum/
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> {: .hero-site-text .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
 > > <div class="character-card-name">Carn Dum</div>
 >
@@ -68,7 +68,7 @@ permalink: /cards/carn-dum/
 > Angmar
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Site Path from Dol Guldur:*** <br>&emsp;![](/assets/images/dark-domain.svg) ![](/assets/images/border-land.svg) ![](/assets/images/dark-domain.svg) ![](/assets/images/shadow-land.svg) <br>&emsp;***Site Path From Geann a-Lisch:*** ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/shadow-land.svg)] <br>_**Special:**_ Unless this site is a character's home site, a non-Orc, non-Troll character may not be brought into play at this site. Any Gold Ring stored at this site is automatically tested (modify the roll by -2). Any attack against a minion company at this site is canceled. 
+> > ***Site Path from Dol Guldur:*** <br>&emsp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/shadow-land.svg) <br>***Site Path From Geann a-Lisch:*** <br>&emsp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg) <br>_**Special:**_ Unless this site is a character's home site, a non-Orc, non-Troll character may not be brought into play at this site. Any Gold Ring stored at this site is automatically tested (modify the roll by -2). Any attack against a minion company at this site is canceled. 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -77,7 +77,7 @@ permalink: /cards/carn-dum/
 ### _Middle-earth Challenge Decks_
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> {: .hero-site-text .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
 > > <div class="character-card-name">Carn Dum</div>
 >
