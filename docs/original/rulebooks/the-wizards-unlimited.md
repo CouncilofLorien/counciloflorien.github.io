@@ -749,9 +749,11 @@ Unless the attack states otherwise, the defender chooses which _untapped_ charac
 > 
 > **Clarification:** All of an attack’s strikes must be assigned to the characters in the defending company or as modifications to the strikes assigned. The attacker may **not** choose to not apply strikes. Any strike in excess of the number of characters in the company becomes a -1 modification to prowess of one character taking a strike (the attacker chooses). Only those strikes that are assigned need be defeated for the creature’s marshalling points to be received by the defender.
 
-<br><span id="page29" class="page-number">29</span>
+<br><span class="page-number">29</span>
 
----
+<span id="page29"></span>---
+
+
 
 #### Strike Modifications
 
@@ -848,9 +850,11 @@ All of the factors affecting the strike must be decided before making the roll (
 > 
 > Similarly, the body modification and maximum for a shield or armor is applied before any other modifications.
 
-<br><span id="page33" class="page-number">33</span>
+<br><span class="page-number">33</span>
 
 ---
+
+<span id="page33"></span>
 
 {: .note }
 > **Example of Combat** _\[(#/#) means (prowess/body)]_
