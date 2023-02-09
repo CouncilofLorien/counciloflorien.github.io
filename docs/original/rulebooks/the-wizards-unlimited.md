@@ -43,7 +43,7 @@ In _The Lord of the Rings_, Gandalf was the only Wizard to succeed. Saruman was 
 {: .note }
 > **Note:** For purposes of readability, these rules use the standard masculine pronouns when referring to a person of uncertain gender. In such cases, these pronouns are intended to convey the meanings: she/he, him/her, etc.
 
-<span id="page2" class="page-number">2</span>
+<br><span id="page2" class="page-number">2</span>
 
 ---
 
@@ -98,7 +98,7 @@ If you have played other collectible card games (CCG), there are several key fac
 {: .note }
 > **Clarification:** The card, Twilight, is an exception to this rule—it can be played at anytime, either as a resource or as a hazard (it does not count against the hazard limit). Certain other cards specifically state when they may be played.
 
-<span id="page5" class="page-number">5</span>
+<br><span id="page5" class="page-number">5</span>
 
 ---
 
@@ -195,7 +195,7 @@ The game ends when one of the following occurs during play:
 {: .note } 
 > **Note:** If one or both players only has access to a starter deck (76 cards), this requirement of 20 marshalling points should be lowered to 18. 
 
-<span id="page9" class="page-number">9</span>
+<br><span id="page9" class="page-number">9</span>
 
 ---
 
@@ -227,7 +227,7 @@ Marshalling points are printed on the top left corner of the cards that award th
 > 
 > **Clarification:** If both players have the same number of marshalling points at the Free Council, the game ends in a tie—both players win (if you have to, roll dice and the high roller is the winner).
 
-<span id="page10" class="page-number">10</span>
+<br><span id="page10" class="page-number">10</span>
 
 ---
 
