@@ -97,8 +97,8 @@ If you have played other collectible card games (CCG), there are several key fac
 
 {: .note }
 > **Clarification:** The card, Twilight, is an exception to this rule—it can be played at anytime, either as a resource or as a hazard (it does not count against the hazard limit). Certain other cards specifically state when they may be played.
-<br>
-<span id="page5" class="page-number">5</span>
+
+<br><span id="page5" class="page-number">5</span>
 
 ---
 
@@ -267,7 +267,7 @@ Marshalling points are printed on the top left corner of the cards that award th
 > 
 > In this example, any character with 2 or more CPs could fail his corruption check (see [pages 35-36](#8--corruption)). If Pallando fails his corruption check, the game ends immediately and Jason wins. If Legolas fails his corruption check, Jessica loses 2 of her MPs. If Theoden fails his corruption check, Jason loses 6 of his MPs. If Faramir fails his corruption check, Jason loses 2 of his MPs. 
 
-<span id="page11" class="page-number">11</span>
+<br><span id="page11" class="page-number">11</span>
 
 ---
 
@@ -314,7 +314,7 @@ You can use resources at certain sites and under certain conditions. Resources i
 {: .note} 
 > **Clarification:** The card, Twilight, is an exception to this rule—it can be played at anytime, either as a resource or as a hazard (it does not count against the hazard limit). Certain other cards specifically state when they may be played.
 
-<span id="page13" class="page-number">13</span>
+<br><span id="page13" class="page-number">13</span>
 
 ---
 
@@ -338,7 +338,7 @@ _Marshalling Point Pile_ (_MP pile_) — In addition to marshalling points from 
 > 
 > **Clarification:** Several types of cards are referred to by the key word included in the first few words of a card’s text. For example, the text of a “spell” card starts with _spell_; the text of a “Nazgul” card starts with _Unique. Nazgul_; the text of a “Palantír” starts with _Unique. Palantir_.
 
-<span id="page14" class="page-number">14</span>
+<br><span id="page14" class="page-number">14</span>
 
 ---
 
@@ -385,7 +385,7 @@ Follow these steps to get ready to play:
 > 
 > **Clarification:** The initial 1-5 characters and two minor items do count toward the “one-unique” and “three-others” limits on the play deck. However, they do **not** count towards the number of resource and character cards in your starting play deck.
 
-<span id="page16" class="page-number">16</span>
+<br><span id="page16" class="page-number">16</span>
 
 ---
 
@@ -417,7 +417,7 @@ A Brief Player Turn Summary is presented on [page 4](#brief-player-turn-summary)
 > 
 > **Clarification:** A site is tapped when one item, ally, faction, or information card is played. Non-Haven sites only untap after being discarded and after your play deck is exhausted. So, each time through your play deck, only one such card may normally be played at a given non-Haven site. Haven cards, whether tapped or not, always return to your location deck.
 
-<span id="page17" class="page-number">17</span>
+<br><span id="page17" class="page-number">17</span>
 
 ---
 
@@ -438,7 +438,7 @@ One company can split into two or more companies only at a Haven (use two Haven 
 {: .note } 
 > **Note:** The number of characters you have in play limits the number of actions you may take during a given turn. You use your Wizard’s general influence or your other characters’ direct influence on a character to bring that character into play and to keep it in play. A character in play can move and take actions (e.g., defending against attacks, influencing, etc.). Items, allies, and other cards representing things a character acquires and controls are placed under his card.
 
-<span id="page18" class="page-number">18</span>
+<br><span id="page18" class="page-number">18</span>
 
 ---
  
@@ -462,7 +462,7 @@ _Marshalling Points_ \[ upper left ]: This is the number of marshalling points y
 
 _Special Abilities:_ Some characters have special abilities that are detailed on their cards. Common special abilities include corruption check modifiers, influence bonuses, prowess bonuses. For example, Faramir has an influence bonus against the _Rangers of Ithilien_ faction, Eowyn has a prowess bonus against Nazgul, Frodo has a corruption check modifier, etc.
 
-<span id="page19" class="page-number">19</span>
+<br><span id="page19" class="page-number">19</span>
 
 ---
 
@@ -532,7 +532,7 @@ If a character directly influencing a follower is removed from play, the followe
 > Jessica’s company size is 6 and she has 10 unused general influence;
 > Jason’s company size is 5 and he has 3 unused general influence.
 
-<span id="page21" class="page-number">21</span>
+<span id="page21" class="page-number"><br>21</span>
 
 ---
 
