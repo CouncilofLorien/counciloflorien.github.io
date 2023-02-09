@@ -292,16 +292,19 @@ $stage-resource-text-300: #f2edde;
 .hero-site-draw {
   float: left;
   @include fs-5;
+  font-weight: bold;
 }
 
 .hero-you-draw {
   color: black;
   background-color: #dfddd0;
+  font-weight: bold;
 }
 
 .hero-opp-draw {
   color: white;
   background-color: #5b5b5b;
+  font-weight: bold;
   display: inline-block;
   -moz-transform: scale(-1, -1);
   -webkit-transform: scale(-1, -1);
@@ -313,12 +316,14 @@ $stage-resource-text-300: #f2edde;
 .minion-you-draw {
   color: black;
   background-color: $grey-lt-300;
+  font-weight: bold;
 }
 
 .minion-opp-draw {
   color: white;
   background-color: #5b5b5b;
   display: inline-block;
+  font-weight: bold;
   -moz-transform: scale(-1, -1);
   -webkit-transform: scale(-1, -1);
   -o-transform: scale(-1, -1);
