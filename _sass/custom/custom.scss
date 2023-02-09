@@ -302,6 +302,11 @@ $stage-resource-text-300: #f2edde;
 .hero-opp-draw {
   color: white;
   background-color: #5b5b5b;
+  -moz-transform: scale(-1, -1);
+  -webkit-transform: scale(-1, -1);
+  -o-transform: scale(-1, -1);
+  -ms-transform: scale(-1, -1);
+  transform: scale(-1, -1);
 }
 
 .minion-you-draw {
@@ -312,6 +317,11 @@ $stage-resource-text-300: #f2edde;
 .minion-opp-draw {
   color: white;
   background-color: #5b5b5b;
+  -moz-transform: scale(-1, -1);
+  -webkit-transform: scale(-1, -1);
+  -o-transform: scale(-1, -1);
+  -ms-transform: scale(-1, -1);
+  transform: scale(-1, -1);
 }
 
 .white-text {
