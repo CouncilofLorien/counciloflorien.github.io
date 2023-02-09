@@ -1367,6 +1367,10 @@ An _untapped_ character that is not the target of a strike may tap to support a 
 {: .note }
 > **Clarification:** If a character is assigned a strike from an attack, he may **not** tap to support a character that is facing a strike from the same attack. An ally may tap to give a +1 prowess modification in this manner. 
 
+<span id="page56" class="page-number">56</span>
+
+---
+
 {: .note }
 > **Example:** A Cave Drake (two strikes, 10/–) attacks your company which consists of the untapped characters: Bilbo, Balin, Bofur, Beretar, and Beregond.
 > 
@@ -1385,6 +1389,10 @@ Before the roll is made for a corruption check, you may tap other characters in 
 > **Example:** Your company consists of the untapped characters: Bilbo, Balin, Bofur, Beretar, and Beregond. A Weariness of the Heart is played on Balin, requiring him to make a corruption check.
 > 
 > Balin is carrying the Arkenstone (4 corruption points) and some Healing Herbs (1 corruption point), so you tap Bilbo and Beregond to help him with his corruption check. Balin has a corruption point total of 5, but his roll is modified by +2 (+1 for Bilbo and +1 for Beregond). He will only fail if he rolls 3 or less.
+
+<span id="page57" class="page-number">57</span>
+
+---
 
 ## 9 • INFLUENCE
 
@@ -1405,6 +1413,10 @@ If you reveal an identical character card from your hand before making the roll 
 
 {: .note }
 > **Clarification:** If you reveal an identical character in order to nullify the target character’s mind attribute for an influence check, you must discard that character if you do not play him.
+
+<span id="page58" class="page-number">58</span>
+
+---
 
 {: .note }
 > **Example:** Jessica and Jason each have one company organized as follows: 
@@ -1442,7 +1454,9 @@ To influence an opponent’s ally, you must make an influence check as outlined 
 
  - Instead of the controlling character’s mind attribute, the influence check uses the ally’s mind attribute.
  - The result is also modified by the “unused direct influence” of the character controlling the ally. 
- - Revealing an identical ally card reduces the ally’s mind attribute to 0 and allows you to play the card if the influence check is successful.
+ - Revealing an identical ally card reduces the ally’s mind attribute to 0 and allows you to play the card if the influence check is successful.<span id="page59" class="page-number">59</span>
+
+---
 
 #### Influencing an Opponent’s Follower
 
@@ -1469,6 +1483,10 @@ To influence an opponent’s item, you must make an influence check as outlined 
 {: .note }
 > **Clarification:** The unused direct influence for an influence check against an item **is** affected by any direct influence modification that the target item gives its bearer.
 
+<span id="page60" class="page-number">60</span>
+
+---
+
 ## 10 • PLAYING AND DRAWING CARDS
 
 There are several Standard Rules changes involving playing cards.
@@ -1487,7 +1505,9 @@ The card will remain on that site until one of the following occurs:
  - _The company plays a card keyed to the site_. If the on-guard card is a non-creature hazard, it may be revealed if it is a hazard that directly affects the company or a character in the company (e.g., a hazard that forces all characters to make a corruption check).
  - Otherwise, return the card to your hand at the end of the site phase. 
  
-In the first two cases, the card is handled as if it had been played during the movement-hazard phase (i.e., short-events are discarded, long-events last until your opponent’s next long-event phase, etc.).
+In the first two cases, the card is handled as if it had been played during the movement-hazard phase (i.e., short-events are discarded, long-events last until your opponent’s next long-event phase, etc.).<span id="page61" class="page-number">61</span>
+
+---
 
 {: .note }
 > **Example:** After visiting Thranduil’s Halls, Jessica’s company moves to The Lonely Mountain. During her movement/hazard phase, Jason places a card on-guard. The card is Awaken Denizens, but Jessica does not know that. This card doubles the # of strikes for an automatic-attack at a Ruins & Lairs site.
@@ -1508,7 +1528,11 @@ You and your opponent may both want to perform actions at the same time or actio
 
 Your opponent may always declare an action in response before your action is resolved. Then, you may respond to his action, and he can respond to your second action, and so on until neither player can (or wants to) perform an action.
 
-You must give your opponent a chance to respond to every action, and vice versa. If you perform an action and move on to another action without giving your opponent a chance to respond, you must “backup” if he indicates that he wants to respond.
+You must give your opponent a chance to respond to every action, and vice versa. If you perform an action and move on to another action<span id="page62" class="page-number">62</span>
+
+---
+
+without giving your opponent a chance to respond, you must “backup” if he indicates that he wants to respond.
 
 Such a series of declared actions is called a chain of effects. You always have the option of declaring the first action in a chain of effects during your turn. The actions in a chain of effects are resolved one at a time from last declared to first declared (i.e., the last declared action is resolved first, then the second to the last, etc.).
 
@@ -1526,6 +1550,10 @@ An action in a chain of effects is negated if the conditions required to perform
 > If your opponent had played Tookish Blood on Bilbo after his dice roll, i.e. after this chain of effects was resolved, it would not have affected your Call of Home nor Bilbo’s corruption check. Tookish Blood only cancels those actions that occur during the rest of the turn, and not prior actions.
 >
 > Consider if Tookish Blood had not been played and if you played Call of Home on Frodo. First Frodo rolls for Call of Home when resolving the chain. If he fails this check, Frodo goes back to your opponent’s hand. The 2nd action in the chain would then be negated because the conditions required to perform it, namely Frodo being in Bilbo’s company, were negated by your Call of Home.
+
+<span id="page63" class="page-number">63</span>
+
+---
 
 # • PART III •<br/>OPTIONAL RULES
 
@@ -1545,7 +1573,9 @@ Each of these optional rules may be used if all players agree before the game be
 
 Except for the guidelines presented in this section, a multi-player game (3-5 players) uses the normal rules.
 
-**Victory Conditions:** The normal rules are used for victory conditions and to determine when the game ends. However, when a player calls the Free Council, each of the other players gets to take one final turn. If a player’s Wizard is eliminated, that player is out of the game; however, the game only ends in this manner if only one player is left in the game. The doubling of your marshalling points based on a MP type only applies if none of your opponents has a card in play of that type.
+**Victory Conditions:** The normal rules are used for victory conditions and to determine when the game ends. However, when a player calls the Free Council, each of the other players gets to take one final turn. If a player’s Wizard is eliminated, that player is out of the game; however, the game only ends in this manner if only one player is left in the game. The doubling of your marshalling points based on a MP type only applies if none of your opponents has a card in play of that type.<span id="page64" class="page-number">64</span>
+
+---
 
 **Getting Ready to Play:** Before the players set up their decks for play, each player makes a roll (reroll all ties). When play starts, the second highest roller will sit to the left of the high roller, the third highest roller will sit to the left of the second highest roller, etc.
 
@@ -1563,7 +1593,9 @@ The highest roller takes his turn first. Then, the player to his left takes his 
 
 Twilight cards can be played at any time by any player. Permanent-events, long-events, and other “global” events (e.g., tapping Ren the Unclean) affect all players.
 
-_Middle-earth: The Wizards Companion_ provides some expanded, variant multi-player rules.
+_Middle-earth: The Wizards Companion_ provides some expanded, variant multi-player rules.<span id="page65" class="page-number">65</span>
+
+---
 
 ### SOLITAIRE RULES
 
@@ -1575,7 +1607,9 @@ _Middle-earth: The Wizards Companion_ provides some expanded, variant multi-play
 
 **Object of the Game:** The object of the solitaire game is to accumulate as many marshalling points (MPs) as you can by the time you exhaust your play deck for the second time. 
 
-_Middle-earth: The Wizards Companion_ provides some expanded, variant solitaire rules.
+_Middle-earth: The Wizards Companion_ provides some expanded, variant solitaire rules.<span id="page66" class="page-number">66</span>
+
+---
 
 # THE APPENDICES
 
@@ -1644,6 +1678,8 @@ _Middle-earth: The Wizards Companion_ provides some expanded, variant solitaire 
 51  |Bay of Belfalas  | ![](/assets/images/coastalsea.svg)
 52  |Mouths of the Anduin | ![](/assets/images/coastalsea.svg)
 
+---
+
 ## FULL PLAYER TURN SUMMARY
 
 ### Untap Phase
@@ -1674,7 +1710,9 @@ First, remove all of your resource long-events already in play.
 
 Then, play any new resource long-event cards.
 
-Finally, remove all of your opponent’s hazard long-events.
+Finally, remove all of your opponent’s hazard long-events.<span id="page68" class="page-number">68</span>
+
+---
 
 ### Movement/Hazard Phase
 
@@ -1683,7 +1721,11 @@ Follow this procedure for each of your companies. You decide which of your compa
  1. If the company has a face down site card (i.e., its new site card), turn it over. Your company’s current site becomes its _site of origin_.
  2. If the company is not moving, no cards are drawn. If the company is moving to a non-haven site, you _may_ draw up to the number of cards indicated by the site that it is _moving to_ (at least one card must be drawn); your opponent does the same. If the company is moving to a haven site, you _may_ draw up to the number of cards indicated by the site that it is _moving from_ (at least one card must be drawn); your opponent does the same.
  3. Your opponent plays hazards on the company—each hazard is resolved as indicated in its text. These hazards are played and resolved one at a time and in some cases may not directly affect the company. A hazard may not be played if it targets a different company or a character in a different company.<br>If the company is not moving, hazard creatures may only be keyed to the company’s site of origin. Hazard creatures must be “keyed to” the moving company’s site path and/or new site. If a creature is keyed to more than one region type and/or site type that applies, your opponent decides which one is used.<br>The maximum number of hazards that may be played on a company during a given movement/hazard phase (i.e., the hazard limit) is equal to the size of the company _or_ two, whichever is larger (Hobbits count half, round up). The hazard limit is determined for each company at the beginning of the movement/hazard phase (e.g., it remains fixed).
- 4. If the company has been required to return to its site of origin, return the new site card to the location deck (or discard if it is tapped) and proceed to step 6 (the site of origin becomes its current site). No additional hazards may be played on that company.
+ 4. If the company has been required to return to its site of origin, return the new site card to the location deck (or discard if it is tapped) and proceed to step 6 (the site of origin becomes its current site). No additional hazards may be played on that company.<span id="page69" class="page-number">69</span>
+
+---
+
+{:style="counter-reset:step-counter 5"}
  5. Remove the company’s site of origin (i.e., the site the company came from). Discard the site card if it is tapped and not a Haven. Otherwise, return it to the location deck. At this point, the company is considered to have arrived at the new site (i.e., its new site becomes its site of origin). _Standard Rules Only:_ Return any region cards to the location deck.
  6. You must discard any cards in excess of eight in your hand; your opponent does the same for his hand. If you have fewer than eight cards, you must draw cards until your hand has eight cards; your opponent does the same for his hand. 
 
@@ -1701,7 +1743,9 @@ In the order you decide (i.e., you decide which goes first, second, etc.), each 
       _Standard Rules Only:_ One of your characters or your Wizard may attempt to influence away one of your opponent’s characters, followers, allies, factions, or items (if it is at the same site).
 
 **End-of-Turn Phase**
-You may discard one card. Then you must draw or discard cards until your hand has 8 cards. Your opponent does the same.
+You may discard one card. Then you must draw or discard cards until your hand has 8 cards. Your opponent does the same.<span id="page70" class="page-number">70</span>
+
+---
 
 ## SYMBOL KEY
 
