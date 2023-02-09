@@ -19,7 +19,7 @@ permalink: /cards/the-border-watch/
 > > <div class="card-name">The Border-watch</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/free-domain.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/border-hold.svg)&ensp;![](/assets/images/free-hold.svg)
+> > ![](/assets/images/free-domain.svg)&ensp;![](/assets/images/border-land.svg)&emsp;![](/assets/images/border-hold.svg)&ensp;![](/assets/images/free-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature

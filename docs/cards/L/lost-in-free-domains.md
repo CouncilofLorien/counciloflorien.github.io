@@ -56,7 +56,10 @@ permalink: /cards/lost-in-free-domains/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > ***Playable on a moving company.*** The company must do nothing during its site phase if it has a Free-domain \[![](/assets/images/free-domain.svg)] in its site path  “...and they were also no longer certain of the direction in which they were going."_ ***---&#65279;LotRI*** 
+> > ***Playable on a moving company.*** The company must do nothing during its site phase if it has a Free-domain \[![](/assets/images/free-domain.svg)] in its site path  
+> > 
+> > {: .fs-3 } 
+> > _“...and they were also no longer certain of the direction in which they were going."_ ***---&#65279;LotRI*** 
 >
 
 ### _Middle-earth Challenge Decks_
@@ -70,5 +73,8 @@ permalink: /cards/lost-in-free-domains/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > ***Playable on a moving company.*** The company must do nothing during its site phase if it has a Free-domain \[![](/assets/images/free-domain.svg)] in its site path  “...and they were also no longer certain of the direction in which they were going."_ ***---&#65279;LotRI*** 
+> > ***Playable on a moving company.*** The company must do nothing during its site phase if it has a Free-domain \[![](/assets/images/free-domain.svg)] in its site path  
+> > 
+> > {: .fs-3 } 
+> > _“...and they were also no longer certain of the direction in which they were going."_ ***---&#65279;LotRI*** 
 >

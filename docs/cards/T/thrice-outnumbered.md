@@ -22,7 +22,7 @@ permalink: /cards/thrice-outnumbered/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Each player may take one Man hazard creature from his discard pile and shuffle it into his play deck at the end of each turn. Discard this card or a Man hazard creature from your hand at the end of opponent's long-event phase. Discard when any play deck is exhausted. Cannot be duplicated. 
+> > Each player may take one Man hazard creature from his discard pile and shuffle it into his play deck at the end of each turn. Discard this card or a Man hazard creature from your hand at the end of opponent's long-event phase. Discard when any play deck is exhausted. <br>&ensp;Cannot be duplicated. 
 >
 
 ### _Middle-earth Challenge Decks_

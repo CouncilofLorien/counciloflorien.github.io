@@ -28,7 +28,7 @@ permalink: /cards/lawless-men/
 > > _Men._ Two strikes.   
 > > 
 > > {: .fs-3 } 
-> > _“...a most unsavory variety of brigands, rogues, and wanderers roam the Wilderlands, wresting their livelihood from the trunks of unwary or unfortunate travelers of means."_ ***---&#65279;Kuduk Lore*** 
+> > _“...a most unsavory variety of brigands, rogues, and wanderers roam the Wilderlands, wresting their livelihood from the trunks of unwary or unfortunate travellers of means."_ ***---&#65279;Kuduk Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 9/&ndash; 】</div>

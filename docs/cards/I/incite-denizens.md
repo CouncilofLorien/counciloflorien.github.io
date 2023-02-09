@@ -36,7 +36,7 @@ permalink: /cards/incite-denizens/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > ***Playable on a Ruins & Lairs*** \[![](/assets/images/ruinlair.svg)]. An additional automatic-attack is created at the site until the end of the turn. This is an exact duplicate (including all existing and eventual modifications to prowess, etc.) of an existing automatic-attack at the site of your choice. This automatic-attack is faced immediately following its orginal. Cannot be duplicated on a given site. 
+> > ***Playable on a Ruins & Lairs*** \[![](/assets/images/ruinlair.svg)]. An additional automatic-attack is created at the site until the end of the turn. This is an exact duplicate (including all existing and eventual modifications to prowess, etc.) of an existing automatic-attack at the site of your choice. This automatic-attack is faced immediately following its orginal. <br>&ensp;Cannot be duplicated on a given site. 
 >
 
 ### _Middle-earth Challenge Decks_

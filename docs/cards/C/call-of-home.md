@@ -50,7 +50,7 @@ permalink: /cards/call-of-home/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > ***Playable on a non-Ringwraith, non-Wizard character not bearing The One Ring.*** The character makes a roll (draws a #). The character returns to his player's hand if the result plus his player's unused general influence is less than 10. <br>&ensp;Any one item held by the removed character may automatically be transferred to another character in his company (all other non-follower cards he controls are discarded). 
+> > ***Playable on a non-Ringwraith, non-Wizard character not bearing The One Ring.*** The character makes a roll (draws a #). The character returns to his player's hand if the result plus his player's unused general influence is less than 10. Any one item held by the removed character may automatically be transferred to another character in his company (all other non-follower cards he controls are discarded). 
 >
 
 ### _Middle-earth Challenge Decks_

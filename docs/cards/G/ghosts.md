@@ -97,7 +97,7 @@ permalink: /cards/ghosts/
 > > _Undead._ Three strikes. After attack, each character wounded by _Ghosts_ makes a corruption check modified by -1. 
 > > 
 > > {: .fs-3 } 
-> > _“The Dead are following...I see shapes of Men and of horses, and pale banners like shreds of cloud, and spears like winter-thickets on a misty night. The Dead are following."_ ***---&#65279;LotRV*** 
+> > _“The Dead are following...I see shapes of Men and of horses, and pale banners like shreds of cloud, and spears like winter-thickets on a misty night. The Dead are following."_ ***---&#65279;LotRI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 9/&ndash; 】</div>
