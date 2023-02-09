@@ -28,7 +28,7 @@ permalink: /cards/the-worthy-hills/
 > > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Men --- each character faces 1 strike with 9 prowess (detainment against covert company) <br>_**Special:**_ This site never taps. 
 > > 
 > > {: .fs-3 } 
-> > _“Cloaked by the primordial forest of the Elder Days, the Worthy Hills of the Eryn Vorn remain wild and perilous."_ ***---&#65279;Kuduk Lore*** 
+> > _“Cloaked by the primordial forest of the Elder Days, the Worthy Hills of the Eryn Vorn remain wild and perilous."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -51,7 +51,7 @@ permalink: /cards/the-worthy-hills/
 > > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Men --- each character faces 1 strike with 9 prowess (detainment) <br>_**Special:**_ During the site phase, you may tap two characters to untap this site-one a sage, one a scout. 
 > > 
 > > {: .fs-3 } 
-> > _“Everything seemed to be alive and threatening, as if a blooming malice was creeping up the slopes."_ ***---&#65279;Kuduk Lore*** 
+> > _“Everything seemed to be alive and threatening, as if a blooming malice was creeping up the slopes."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -74,7 +74,7 @@ permalink: /cards/the-worthy-hills/
 > > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 9 prowess (detainment against covert company) <br>_**Special:**_ This site never taps. 
 > > 
 > > {: .fs-3 } 
-> > _“Cloaked by the primordial forest of the Elder Days, the Worthy Hills of the Eryn Vorn remain wild and perilous."_ ***---&#65279;Kuduk Lore*** 
+> > _“Cloaked by the primordial forest of the Elder Days, the Worthy Hills of the Eryn Vorn remain wild and perilous."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

@@ -25,5 +25,5 @@ permalink: /cards/dark-tryst/
 > > Draw three cards and remove this card from the game. 
 > > 
 > > {: .fs-3 } 
-> > _“Unclad, unmounted, and invisible-yet bearing terror with their presence-the Nazgul passed over Anduin to receive mounts and raiment on the river's west shore."_ ***---&#65279;Kuduk Lore*** 
+> > _“Unclad, unmounted, and invisible-yet bearing terror with their presence-the Nazgul passed over Anduin to receive mounts and raiment on the river's west shore."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 

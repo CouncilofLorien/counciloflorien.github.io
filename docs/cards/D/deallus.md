@@ -28,7 +28,7 @@ permalink: /cards/deallus/
 > > _**Unique.**_ _Agent._ 
 > > 
 > > {: .fs-3 } 
-> > _“Red-haired and gifted with a marvelous tongue, Deallus of Dunfearan was the embodiment of the high hills' soft beauty and strong, deep spirit."_ ***---&#65279;Kuduk Lore***  
+> > _“Red-haired and gifted with a marvelous tongue, Deallus of Dunfearan was the embodiment of the high hills' soft beauty and strong, deep spirit."_ ***---&#65279;Kuduk&nbsp;Lore***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Dunnish Clan-hold, Bree, Cameth Brin  

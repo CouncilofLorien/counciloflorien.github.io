@@ -28,7 +28,7 @@ permalink: /cards/war-wolf/
 > > ***Playable at any tapped or untapped Ruins & Lairs*** \[![](/assets/images/ruinlair.svg)] ***with a Wolf automatic-attack or at any tapped or untapped Shadow-hold*** \[![](/assets/images/shadow-hold.svg)] ***with an Orc automatic-attack.***   
 > > 
 > > {: .fs-3 } 
-> > _“...brutal canines, their throats protected by spiked collars, fangs capped with razor sharp steel, and instincts honed in the arts of slaying."_ ***---&#65279;Kuduk Lore*** 
+> > _“...brutal canines, their throats protected by spiked collars, fangs capped with razor sharp steel, and instincts honed in the arts of slaying."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 2/7 】</div>
@@ -51,7 +51,7 @@ permalink: /cards/war-wolf/
 > > Playable at any tapped or untapped Ruins & Lairs \[![](/assets/images/ruinlair.svg)] with a Wolf automatic-attack or at any tapped or untapped Shadow-hold \[![](/assets/images/shadow-hold.svg)] with an Orc automatic-attack.   
 > > 
 > > {: .fs-3 } 
-> > _“...brutal canines, their throats protected by spiked collars, fangs capped with razor sharp steel, and instincts honed in the arts of slaying."_ ***---&#65279;Kuduk Lore*** 
+> > _“...brutal canines, their throats protected by spiked collars, fangs capped with razor sharp steel, and instincts honed in the arts of slaying."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 2/7 】</div>

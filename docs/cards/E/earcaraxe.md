@@ -25,7 +25,7 @@ permalink: /cards/earcaraxe/
 > > _**Unique.**_ ***May be played at Isle of the Ulond.*** _Dragon._ Two strikes. Attacker chooses defending characters. <br>&ensp;If _Doors of Night_ is in play, may also be played keyed to Andrast Coast, Bay of Belfalas, Eriadoran Coast, and Andrast; and may also be played at sites in these regions. 
 > > 
 > > {: .fs-3 } 
-> > _“Weary of solitude, the Sea-fang paradoxically shuns companionship...”_ ***---&#65279;Kuduk Lore*** 
+> > _“Weary of solitude, the Sea-fang paradoxically shuns companionship...”_ ***---&#65279;Kuduk&nbsp;Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 17/7 】</div>

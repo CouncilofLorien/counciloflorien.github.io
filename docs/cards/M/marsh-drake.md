@@ -28,7 +28,7 @@ permalink: /cards/marsh-drake/
 > > _Drake._ Two strikes. 
 > > 
 > > {: .fs-3 } 
-> > _“The hiswaloki rarely ignite their breath, preferring to allow the corrosive gases to burn prey via chemical rather than combustive means."_ ***---&#65279;Kuduk Lore*** 
+> > _“The hiswaloki rarely ignite their breath, preferring to allow the corrosive gases to burn prey via chemical rather than combustive means."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 11/&ndash; 】</div>
@@ -74,7 +74,7 @@ permalink: /cards/marsh-drake/
 > > _Drake._ Two strikes. 
 > > 
 > > {: .fs-3 } 
-> > _“The hiswaloki rarely ignite their breath, preferring to allow the corrosive gases to burn prey via chemical rather than combustive means."_ ***---&#65279;Kuduk Lore*** 
+> > _“The hiswaloki rarely ignite their breath, preferring to allow the corrosive gases to burn prey via chemical rather than combustive means."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 11/&ndash; 】</div>

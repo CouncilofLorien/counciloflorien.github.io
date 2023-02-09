@@ -28,7 +28,7 @@ permalink: /cards/leamon/
 > > _**Unique.**_ _Agent._ 
 > > 
 > > {: .fs-3 } 
-> > _“Leamon grew up at Cameth Brin, in the shadow of the great 'Troll Tower,' and he carried an ageless spear a forefather won from a Dunadan venturer of fabled Lond Daer."_ ***---&#65279;Kuduk Lore***  
+> > _“Leamon grew up at Cameth Brin, in the shadow of the great 'Troll Tower,' and he carried an ageless spear a forefather won from a Dunadan venturer of fabled Lond Daer."_ ***---&#65279;Kuduk&nbsp;Lore***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Cameth Brin,, Dunnish Clan-hold 

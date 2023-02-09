@@ -25,7 +25,7 @@ permalink: /cards/orcs-of-mirkwood/
 > > _**Unique.**_ ***Playable at Sarn Goriwing*** <br>&ensp;if the influence check is greater than 8. <br>Once in play, the number required to influence this faction is zero. <br>_Standard Modifications:_ Orcs of the Red Eye (-2), Orcs of Gorgoroth (+2). 
 > > 
 > > {: .fs-3 } 
-> > _“With the Necromancer came the Orcs; not called by Dol Guldur's master, but drawn to evil...”_ ***---&#65279;Kuduk Lore***  
+> > _“With the Necromancer came the Orcs; not called by Dol Guldur's master, but drawn to evil...”_ ***---&#65279;Kuduk&nbsp;Lore***  
 > 
 
 ### _Middle-earth Challenge Decks_
@@ -42,7 +42,7 @@ permalink: /cards/orcs-of-mirkwood/
 > > _**Unique.**_ Playable at Sarn Goriwing if the influence check is greater than 8. Once in play, the number required to influence this faction is 0. <br>_Standard Modifications:_ Orcs of the Red Eye (-2), Orcs of Gorgoroth (+2). 
 > > 
 > > {: .fs-3 } 
-> > _“With the Necromancer came the Orcs; not called by Dol Guldur's master, but drawn to evil...”_ ***---&#65279;Kuduk Lore***  
+> > _“With the Necromancer came the Orcs; not called by Dol Guldur's master, but drawn to evil...”_ ***---&#65279;Kuduk&nbsp;Lore***  
 > 
 
 ### _Middle-earth: The Balrog Reprint_
@@ -59,5 +59,5 @@ permalink: /cards/orcs-of-mirkwood/
 > > _**Unique.**_ Playable at Sarn Goriwing if the influence check is greater than 8. Once in play, the number required to influence this faction is 0. <br>_Standard Modifications:_ Orcs of the Red Eye (-2), Orcs of Gorgoroth (+2). 
 > > 
 > > {: .fs-3 } 
-> > _“With the Necromancer came the Orcs; not called by Dol Guldur's master, but drawn to evil...”_ ***---&#65279;Kuduk Lore***  
+> > _“With the Necromancer came the Orcs; not called by Dol Guldur's master, but drawn to evil...”_ ***---&#65279;Kuduk&nbsp;Lore***  
 > 

@@ -25,5 +25,5 @@ permalink: /cards/nuriags/
 > > _**Unique.**_ ***Playable at Variag Camp*** <br>&ensp;if the influence check is greater than 9. <br>_Standard Modifications:_ Haradrim (+2), Southrons (-2). 
 > > 
 > > {: .fs-3 } 
-> > _“They swift masters of the steppe, following the course of nearly traceless paths and always knowing where to find sweet water."_ ***---&#65279;Kuduk Lore*** 
+> > _“They swift masters of the steppe, following the course of nearly traceless paths and always knowing where to find sweet water."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 

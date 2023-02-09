@@ -25,5 +25,5 @@ permalink: /cards/neither-so-ancient-nor-so-potent/
 > > ***Playable on a stored item.*** Return item to opponent's hand (discard all attached cards). Place this card in opponent's marshalling point pile. 
 > > 
 > > {: .fs-3 } 
-> > _“Though it had been made in Imladris for Valandil, it was neither so ancient nor so potent as the one lost with King Isildur at the Gladden Fields."_ ***---&#65279;Kuduk Lore*** 
+> > _“Though it had been made in Imladris for Valandil, it was neither so ancient nor so potent as the one lost with King Isildur at the Gladden Fields."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 >

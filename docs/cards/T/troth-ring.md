@@ -28,7 +28,7 @@ permalink: /cards/troth-ring/
 > > _Mind Ring._ -1 to mind to a minimum of 1, -1 to all body checks against bearer. Cannot be duplicated on a given character. 
 > > 
 > > {: .fs-3 } 
-> > _“Those who hunger for dominion are themselves enslaved. Power makes a dangerous support."_ ***---&#65279;Kuduk Lore*** 
+> > _“Those who hunger for dominion are themselves enslaved. Power makes a dangerous support."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

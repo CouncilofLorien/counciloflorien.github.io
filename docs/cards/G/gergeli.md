@@ -28,7 +28,7 @@ permalink: /cards/gergeli/
 > > _**Unique.**_ _Agent._ 
 > > 
 > > {: .fs-3 } 
-> > _“Wise-man say that Gergeli paddled every stream between the shrouded summits of the Hithaeglir and the jagged teeth of the Orocarni."_ ***---&#65279;Kuduk Lore***  
+> > _“Wise-man say that Gergeli paddled every stream between the shrouded summits of the Hithaeglir and the jagged teeth of the Orocarni."_ ***---&#65279;Kuduk&nbsp;Lore***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Shrel-Kain, Lake-town, Easterling Camp  

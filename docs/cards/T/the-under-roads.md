@@ -25,7 +25,7 @@ permalink: /cards/the-under-roads/
 > > The roll required for minions to move between adjacent Under-deeps sites is decreased by 3. Discards and prohibits subsequent play of _The Way is Shut_. 
 > > 
 > > {: .fs-3 } 
-> > _“Rivulets of liquid rock spilled into the molten river, which wound its way beneath basalt arches."_ ***---&#65279;Kuduk Lore*** 
+> > _“Rivulets of liquid rock spilled into the molten river, which wound its way beneath basalt arches."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 
 
 ### _Middle-earth: The Balrog Reprint_
@@ -42,5 +42,5 @@ permalink: /cards/the-under-roads/
 > > The roll required for minions to move between adjacent Under-deeps sites is decreased by 3. Discards and prohibits subsequent play of The Way is Shut. 
 > > 
 > > {: .fs-3 } 
-> > _“Rivulets of liquid rock spilled into the molten river, which wound its way beneath basalt arches."_ ***---&#65279;Kuduk Lore*** 
+> > _“Rivulets of liquid rock spilled into the molten river, which wound its way beneath basalt arches."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 

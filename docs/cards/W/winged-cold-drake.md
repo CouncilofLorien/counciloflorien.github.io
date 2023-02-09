@@ -28,7 +28,7 @@ permalink: /cards/winged-cold-drake/
 > > _Drake._ Two strikes. Attacker chooses defending characters. <br>&ensp;Three Wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. 
 > > 
 > > {: .fs-3 } 
-> > _“Armoured by scales as tough as true-silver, winged cold-drakes display a slender grace when swooping with the winds."_ ***---&#65279;Kuduk Lore*** 
+> > _“Armoured by scales as tough as true-silver, winged cold-drakes display a slender grace when swooping with the winds."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 13/&ndash; 】</div>

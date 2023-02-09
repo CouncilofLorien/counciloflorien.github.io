@@ -28,7 +28,7 @@ permalink: /cards/pirates/
 > > _Men._ Three strikes. If any strike of _Pirates_ wounds a character, the company must immediately discard one item (of defender's choice). _Pirates_ receives +2 prowess when keyed to Coastal Seas \[![](/assets/images/coastalsea.svg)]. 
 > > 
 > > {: .fs-3 } 
-> > _“The reavers of the Inland Sea are adept at using fogs and mists to elude the bounty hunters chartered by the Realm-master in Shrel-Kain."_ ***---&#65279;Kuduk Lore*** 
+> > _“The reavers of the Inland Sea are adept at using fogs and mists to elude the bounty hunters chartered by the Realm-master in Shrel-Kain."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 7/&ndash; 】</div>

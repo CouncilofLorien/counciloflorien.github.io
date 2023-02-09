@@ -25,7 +25,7 @@ permalink: /cards/petty-dwarves/
 > > _**Unique.**_ _Manifestation of minion Petty-dwarves._ ***Playable at The Worthy Hills*** <br>&ensp;if the influence check is greater than 10. <br>_Standard Modifications:_ Elves (-2). 
 > > 
 > > {: .fs-3 } 
-> > _“In times past, the Petty-dwarves offered enemies shelter in their hidden halls as ransom for their threatened lives."_ ***---&#65279;Kuduk Lore*** 
+> > _“In times past, the Petty-dwarves offered enemies shelter in their hidden halls as ransom for their threatened lives."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 
 
 ### _Middle-earth: Against the Shadow_
@@ -42,5 +42,5 @@ permalink: /cards/petty-dwarves/
 > > _**Unique.**_ ***Playable at The Worthy Hills*** <br>&ensp;if the influence check is greater than 11. 
 > > 
 > > {: .fs-3 } 
-> > _“The Noegyth Nibin feard all and loved none, and coveted everything."_ ***---&#65279;Kuduk Lore*** 
+> > _“The Noegyth Nibin feard all and loved none, and coveted everything."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 

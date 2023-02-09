@@ -59,7 +59,7 @@ permalink: /cards/men-of-dorwinion/
 > > _**Unique.**_ _Manifestation of hero Men of Dorwinion_. ***Playable at Shrel-Kain*** <br>&ensp;if the influence check is greater than 10.  <br>_Standard Modifications:_ Easterlings (-2), Balchoth (-2). 
 > > 
 > > {: .fs-3 } 
-> > _“The men of Dorwinion possessed heads hard enough to retain lucidity while they imbibed their heady vintages."_ ***---&#65279;Kuduk Lore***  
+> > _“The men of Dorwinion possessed heads hard enough to retain lucidity while they imbibed their heady vintages."_ ***---&#65279;Kuduk&nbsp;Lore***  
 > 
 
 ### _Middle-earth Challenge Decks_

@@ -28,7 +28,7 @@ permalink: /cards/layos/
 > > _**Unique.**_ +2 direct influence against the Men of Dorwinion faction. 
 > > 
 > > {: .fs-3 } 
-> > _“‘He offered a fine, rich wine and soothing words filled with subtle malice.’”_ ***---&#65279;Kuduk Lore***  
+> > _“‘He offered a fine, rich wine and soothing words filled with subtle malice.’”_ ***---&#65279;Kuduk&nbsp;Lore***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Shrel-Kain 
@@ -54,7 +54,7 @@ permalink: /cards/layos/
 > > _**Unique.**_ +2 direct influence against the Men of Dorwinion faction. 
 > > 
 > > {: .fs-3 } 
-> > _“‘He offered a fine, rich wine and soothing words filled with subtle malice.’”_ ***---&#65279;Kuduk Lore***  
+> > _“‘He offered a fine, rich wine and soothing words filled with subtle malice.’”_ ***---&#65279;Kuduk&nbsp;Lore***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Shrel-Kain 

@@ -28,7 +28,7 @@ permalink: /cards/jerrek/
 > > _**Unique.**_ +1 direct influence against any faction playable at Southron Oasis. 
 > > 
 > > {: .fs-3 } 
-> > _“‘You speak of the false cripple Sen Jerrek, dark arbitrator, ambassador to thieves, spy for any and all who trade darkness.’”_ ***---&#65279;Kuduk Lore***  
+> > _“‘You speak of the false cripple Sen Jerrek, dark arbitrator, ambassador to thieves, spy for any and all who trade darkness.’”_ ***---&#65279;Kuduk&nbsp;Lore***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Southron Oasis 
@@ -54,7 +54,7 @@ permalink: /cards/jerrek/
 > > _**Unique.**_ +1 direct influence against any faction playable at Southron Oasis. 
 > > 
 > > {: .fs-3 } 
-> > _“‘You speak of the false cripple Sen Jerrek, dark arbitrator, ambassador to thieves, spy for any and all who trade darkness.’”_ ***---&#65279;Kuduk Lore***  
+> > _“‘You speak of the false cripple Sen Jerrek, dark arbitrator, ambassador to thieves, spy for any and all who trade darkness.’”_ ***---&#65279;Kuduk&nbsp;Lore***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Southron Oasis 

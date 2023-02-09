@@ -74,7 +74,7 @@ permalink: /cards/irerock/
 > > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon --- 1 strike with 14 prowess  
 > > 
 > > {: .fs-3 } 
-> > _“‘Its name is well given, for if you survive the climb and the cold and the wind, the worm awaits."_ ***---&#65279;Kuduk Lore*** 
+> > _“‘Its name is well given, for if you survive the climb and the cold and the wind, the worm awaits."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -97,7 +97,7 @@ permalink: /cards/irerock/
 > > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon-1 strike with 14 prowess  
 > > 
 > > {: .fs-3 } 
-> > _“‘Its name is well given, for if you survive the climb and the cold and the wind, the worm awaits."_ ***---&#65279;Kuduk Lore*** 
+> > _“‘Its name is well given, for if you survive the climb and the cold and the wind, the worm awaits."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

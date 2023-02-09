@@ -74,7 +74,7 @@ permalink: /cards/cave-drake/
 > > _Dragon._ Two strikes. Attacker chooses defending characters.   
 > > 
 > > {: .fs-3 } 
-> > _“‘Long and slow is the life of Cave-drakes.’”_ ***---&#65279;Kuduk Lore*** 
+> > _“‘Long and slow is the life of Cave-drakes.’”_ ***---&#65279;Kuduk&nbsp;Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 10/&ndash; 】</div>
@@ -97,7 +97,7 @@ permalink: /cards/cave-drake/
 > > _Dragon._ Two strikes. Attacker chooses defending characters.   
 > > 
 > > {: .fs-3 } 
-> > _“‘Long and slow is the life of Cave-drakes.’”_ ***---&#65279;Kuduk Lore*** 
+> > _“‘Long and slow is the life of Cave-drakes.’”_ ***---&#65279;Kuduk&nbsp;Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 10/&ndash; 】</div>

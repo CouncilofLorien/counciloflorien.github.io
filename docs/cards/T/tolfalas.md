@@ -28,7 +28,7 @@ permalink: /cards/tolfalas/
 > > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Undead --- 3 strikes with 7 prowess; each character wounded must make a corruption check  
 > > 
 > > {: .fs-3 } 
-> > _“Tolfalas, the great Coastal Island, ...guards the heartland of Gondor...”_ ***---&#65279;Kuduk Lore*** 
+> > _“Tolfalas, the great Coastal Island, ...guards the heartland of Gondor...”_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -51,7 +51,7 @@ permalink: /cards/tolfalas/
 > > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Undead --- 3 strikes with 7 prowess; each character wounded must make a corruption check  
 > > 
 > > {: .fs-3 } 
-> > _“Tolfalas, the great Coastal Island, ...guards the heartland of Gondor...”_ ***---&#65279;Kuduk Lore*** 
+> > _“Tolfalas, the great Coastal Island, ...guards the heartland of Gondor...”_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -94,7 +94,7 @@ permalink: /cards/tolfalas/
 > > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major, greater\*) \*-Scroll of Isildur only <br>_**Automatic-attacks:**_<br> Undead - 3 strikes with 7 prowess; each character wounded must make a corruption check  
 > > 
 > > {: .fs-3 } 
-> > _“Tolfalas, the great Coastal Island, ...guards the heartland of Gondor...”_ ***---&#65279;Kuduk Lore*** 
+> > _“Tolfalas, the great Coastal Island, ...guards the heartland of Gondor...”_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>

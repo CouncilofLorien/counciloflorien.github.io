@@ -28,7 +28,7 @@ permalink: /cards/gisulf/
 > > _**Unique.**_ _Agent._ 
 > > 
 > > {: .fs-3 } 
-> > _“Moving like a spry deer, old Gisulf the Woodman ran hard to his home in Woodmen-town. But a dark pact compelled him to shield his kinsmen from the grave news of Shadows haunting the sacred grove around Watchman's Well."_ ***---&#65279;Kuduk Lore***  
+> > _“Moving like a spry deer, old Gisulf the Woodman ran hard to his home in Woodmen-town. But a dark pact compelled him to shield his kinsmen from the grave news of Shadows haunting the sacred grove around Watchman's Well."_ ***---&#65279;Kuduk&nbsp;Lore***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Woodmen-town, Lake-town, Dale  

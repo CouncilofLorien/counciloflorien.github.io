@@ -25,7 +25,7 @@ permalink: /cards/sand-drake/
 > > _Drake._ Three strikes. Attacker chooses defending characters. May be played keyed to Khand and Harondor. <br>&ensp;If _Doors of Night_ is in play, may also be played keyed to Ithilien, Nurn, and Horse Plains. 
 > > 
 > > {: .fs-3 } 
-> > _“The chameleon of Harad roosts in the sandy wilds of the Dune Sea, although it hunts along trade routes and near oases."_ ***---&#65279;Kuduk Lore*** 
+> > _“The chameleon of Harad roosts in the sandy wilds of the Dune Sea, although it hunts along trade routes and near oases."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 12/&ndash; 】</div>
@@ -45,7 +45,7 @@ permalink: /cards/sand-drake/
 > > _Drake._ Three strikes. Attacker chooses defending characters. May be played keyed to Khand and Harondor. If Doors of Night is in play, may also be played keyed to Ithilien, Nurn, and Horse Plains. 
 > > 
 > > {: .fs-3 } 
-> > _“The chameleon of Harad roosts in the sandy wilds of the Dune Sea, although it hunts along trade routes and near oases."_ ***---&#65279;Kuduk Lore*** 
+> > _“The chameleon of Harad roosts in the sandy wilds of the Dune Sea, although it hunts along trade routes and near oases."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 12/&ndash; 】</div>

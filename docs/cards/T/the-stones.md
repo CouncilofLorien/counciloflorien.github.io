@@ -74,7 +74,7 @@ permalink: /cards/the-stones/
 > > ***Nearest Darkhaven:*** Geann a-Lisch <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Pukel-creature --- 2 strikes with 9 prowess  
 > > 
 > > {: .fs-3 } 
-> > _“...suddenly he saw, towering ominously before him and leaning towards one other like the pillars of a headless door...huge standing stones."_ ***---&#65279;LotRII*** 
+> > _“...suddenly he saw, towering ominously before him and leaning slightly towards one another like the pillars of a headless door...huge standing stones."_ ***---&#65279;LotRII*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>

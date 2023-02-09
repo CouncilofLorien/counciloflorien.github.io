@@ -28,7 +28,7 @@ permalink: /cards/sarn-goriwing/
 > > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs --- 3 strikes with 5 prowess  
 > > 
 > > {: .fs-3 } 
-> > _“...there, parting the tumbling waters of the Enchanted River, stood a shadowy spire that served as fast hold for those who would remake the great Greenwood."_ ***---&#65279;Kuduk Lore*** 
+> > _“...there, parting the tumbling waters of the Enchanted River, stood a shadowy spire that served as fast hold for those who would remake the great Greenwood."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -51,7 +51,7 @@ permalink: /cards/sarn-goriwing/
 > > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs --- 3 strikes with 5 prowess  
 > > 
 > > {: .fs-3 } 
-> > _“...there, parting the tumbling waters of the Enchanted River, stood a shadowy spire that served as fast hold for those who would remake the great Greenwood."_ ***---&#65279;Kuduk Lore*** 
+> > _“...there, parting the tumbling waters of the Enchanted River, stood a shadowy spire that served as fast hold for those who would remake the great Greenwood."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -97,7 +97,7 @@ permalink: /cards/sarn-goriwing/
 > > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 5 prowess  
 > > 
 > > {: .fs-3 } 
-> > _“...there, parting the tumbling waters of the Enchanted River, stood a shadowy spire that served as fast hold for those who would remake the great Greenwood."_ ***---&#65279;Kuduk Lore*** 
+> > _“...there, parting the tumbling waters of the Enchanted River, stood a shadowy spire that served as fast hold for those who would remake the great Greenwood."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>

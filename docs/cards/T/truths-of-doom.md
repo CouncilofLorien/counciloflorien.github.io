@@ -28,5 +28,5 @@ permalink: /cards/truths-of-doom/
 > > _**Unique.**_ _Pallando specific._ Your general influence is increased by 6 points. You may only use 2 of these 6 points to control characters. 
 > > 
 > > {: .fs-3 } 
-> > _“When the Numenoreans strayed from reverence for the Powers, then they made sacrifice in the mighty temple built upon the slopes of once-sacred Meneltarma."_ ***---&#65279;Kuduk Lore*** 
+> > _“When the Numenoreans strayed from reverence for the Powers, then they made sacrifice in the mighty temple built upon the slopes of once-sacred Meneltarma."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 

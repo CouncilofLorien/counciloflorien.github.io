@@ -28,7 +28,7 @@ permalink: /cards/firiel/
 > > _**Unique.**_ _Agent._ Can use shadow-magic. +2 direct influence against Dunedain and factions that can be played in Anfalas, Anorien, Belfalas, Lamedon, and Lebennin. 
 > > 
 > > {: .fs-3 } 
-> > _“She made many voyages to the South, sailing even in the most dangerous of times."_ ***---&#65279;Kuduk Lore***  
+> > _“She made many voyages to the South, sailing even in the most dangerous of times."_ ***---&#65279;Kuduk&nbsp;Lore***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Pelargir, Vale of Erech  

@@ -28,7 +28,7 @@ permalink: /cards/variag-camp/
 > > _**Nearest Haven:**_ Edhellond  
 > > 
 > > {: .fs-3 } 
-> > _“...and the dark sons of Uvatha's people drew their rugged ponies in rings, arrayed their camp in the shape of a spoked wheel, and began plotting the month's pastures and marketplaces."_ ***---&#65279;Kuduk Lore*** 
+> > _“...and the dark sons of Uvatha's people drew their rugged ponies in rings, arrayed their camp in the shape of a spoked wheel, and began plotting the month's pastures and marketplaces."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;3&ensp;</span><span class="hero-opp-draw">&ensp;4&ensp;</span></div>
@@ -51,7 +51,7 @@ permalink: /cards/variag-camp/
 > > _**Nearest Haven:**_ Edhellond  
 > > 
 > > {: .fs-3 } 
-> > _“...and the dark sons of Uvatha's people drew their rugged ponies in rings, arrayed their camp in the shape of a spoked wheel, and began plotting the month's pastures and marketplaces."_ ***---&#65279;Kuduk Lore*** 
+> > _“...and the dark sons of Uvatha's people drew their rugged ponies in rings, arrayed their camp in the shape of a spoked wheel, and began plotting the month's pastures and marketplaces."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;3&ensp;</span><span class="hero-opp-draw">&ensp;4&ensp;</span></div>
@@ -74,7 +74,7 @@ permalink: /cards/variag-camp/
 > > ***Nearest Darkhaven:*** Minas Morgul <br>_**Automatic-attacks:**_<br> Men --- each character faces 1 strike with 5 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
-> > _“...a great peril to Gondor...a threat to the fiefs of the south that would prove deadly."_ ***---&#65279;LotR*** 
+> > _“...a great peril to Gondor...a threat to the fiefs of the south that would prove deadly..."_ ***---&#65279;LotR*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

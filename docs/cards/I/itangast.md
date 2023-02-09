@@ -25,7 +25,7 @@ permalink: /cards/itangast/
 > > _**Unique.**_ ***May be played at Gold Hill.*** _Dragon._ Three strikes. <br>&ensp;If _Doors of Night_ is in play, may also be played keyed to Withered Heath, Iron Hills, Northern Rhovanion, Grey Mountain Narrows; may also be played at sites in those regions. 
 > > 
 > > {: .fs-3 } 
-> > _“The Guest-eater...invited Northman chiefs to a feast at which they were the highlight of the menu."_ ***---&#65279;Kuduk Lore*** 
+> > _“The Guest-eater...invited Northman chiefs to a feast at which they were the highlight of the menu."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 18/8 】</div>

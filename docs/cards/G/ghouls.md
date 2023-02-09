@@ -28,7 +28,7 @@ permalink: /cards/ghouls/
 > > _Undead._ Five strikes. 
 > > 
 > > {: .fs-3 } 
-> > _“Halfling tales speak of the dark, wet slime where the Gorcrows croak and the Mewlips dwell, patiently awaiting their prey, like ever-hungry caretakers ringing soft, beckoning bells."_ ***---&#65279;Kuduk Lore*** 
+> > _“Halfling tales speak of the dark, wet slime where the Gorcrows croak and the Mewlips dwell, patiently awaiting their prey, like ever-hungry caretakers ringing soft, beckoning bells."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 7/&ndash; 】</div>
@@ -51,7 +51,7 @@ permalink: /cards/ghouls/
 > > _Undead._ Five strikes. 
 > > 
 > > {: .fs-3 } 
-> > _“Halfling tales speak of the dark, wet slime where the Gorcrows croak and the Mewlips dwell, patiently awaiting their prey, like ever-hungry caretakers ringing soft, beckoning bells."_ ***---&#65279;Kuduk Lore*** 
+> > _“Halfling tales speak of the dark, wet slime where the Gorcrows croak and the Mewlips dwell, patiently awaiting their prey, like ever-hungry caretakers ringing soft, beckoning bells."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 7/&ndash; 】</div>
@@ -74,7 +74,7 @@ permalink: /cards/ghouls/
 > > _Undead._ Five strikes. 
 > > 
 > > {: .fs-3 } 
-> > _“Halfling tales speak of the dark, wet slime where the Gorcrows croak and the Mewlips dwell, patiently awaiting their prey, like ever-hungry caretakers ringing soft, beckoning bells."_ ***---&#65279;Kuduk Lore*** 
+> > _“Halfling tales speak of the dark, wet slime where the Gorcrows croak and the Mewlips dwell, patiently awaiting their prey, like ever-hungry caretakers ringing soft, beckoning bells."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 7/&ndash; 】</div>

@@ -28,7 +28,7 @@ permalink: /cards/golodhros/
 > > _**Unique.**_ _Agent._ Can use spirit-magic. _Agent only:_ may tap to make an influence check on an ally, faction, or character. 
 > > 
 > > {: .fs-3 } 
-> > _“Through an urbane courtier, Golodhros still maintained a home...not far from the black vale of Imlad Morgul. ... How he could safely visit there, no one knew."_ ***---&#65279;Kuduk Lore***  
+> > _“Through an urbane courtier, Golodhros still maintained a home...not far from the black vale of Imlad Morgul. ... How he could safely visit there, no one knew."_ ***---&#65279;Kuduk&nbsp;Lore***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Minas Morgul, Cirith Ungol, Barad-dur 

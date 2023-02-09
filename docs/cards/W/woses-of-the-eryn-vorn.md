@@ -25,7 +25,7 @@ permalink: /cards/woses-of-the-eryn-vorn/
 > > _**Unique.**_ ***Playable at The Worthy Hills*** <br>&ensp;if the influence check is greater than 11. 
 > > 
 > > {: .fs-3 } 
-> > _“Living in half-submerged, earth-covered homes called fogus, the Woses of the Black Wood shun contact with others of the Secondborn."_ ***---&#65279;Kuduk Lore***   
+> > _“Living in half-submerged, earth-covered homes called fogus, the Woses of the Black Wood shun contact with others of the Secondborn."_ ***---&#65279;Kuduk&nbsp;Lore***   
 > 
 
 ### _Middle-earth: Against the Shadow_
@@ -42,7 +42,7 @@ permalink: /cards/woses-of-the-eryn-vorn/
 > > _**Unique.**_ _Manifestation of minion Woses of the Eryn Vorn._ ***Playable at The Worthy Hills*** <br>&ensp;if the influence check is greater than 10. <br>_Standard Modifications:_ none. 
 > > 
 > > {: .fs-3 } 
-> > _“‘...wild men, with little hair and painted skin, who breathe life into stone.’”_ ***---&#65279;Kuduk Lore*** 
+> > _“‘...wild men, with little hair and painted skin, who breathe life into stone.’”_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 
 
 ### _Middle-earth Challenge Decks_

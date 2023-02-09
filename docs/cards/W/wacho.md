@@ -28,7 +28,7 @@ permalink: /cards/wacho/
 > > _**Unique.**_ +2 direct influence against the Woodmen faction. 
 > > 
 > > {: .fs-3 } 
-> > _“Grimbeorn the Old, son of Beorn, counted him as his right hand...for Wacho was bold, ever-vigilant, and tirelessly roamed the mountains and forests by the Anduin Vales."_ ***---&#65279;Kuduk Lore***  
+> > _“Grimbeorn the Old, son of Beorn, counted him as his right hand...for Wacho was bold, ever-vigilant, and tirelessly roamed the mountains and forests by the Anduin Vales."_ ***---&#65279;Kuduk&nbsp;Lore***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Woodmen-town 
@@ -54,7 +54,7 @@ permalink: /cards/wacho/
 > > _**Unique.**_ +2 direct influence against the Woodmen faction. 
 > > 
 > > {: .fs-3 } 
-> > _“Grimbeorn the Old son of Beorn, counted him as his right hand...for Wacho was bold, ever-vigilant, and tirelessly roamed the mountains and forests by the Anduin Vales."_ ***---&#65279;Kuduk Lore***  
+> > _“Grimbeorn the Old son of Beorn, counted him as his right hand...for Wacho was bold, ever-vigilant, and tirelessly roamed the mountains and forests by the Anduin Vales."_ ***---&#65279;Kuduk&nbsp;Lore***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Woodmen-town 

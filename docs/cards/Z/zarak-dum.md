@@ -28,7 +28,7 @@ permalink: /cards/zarak-dum/
 > > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Dragon --- 1 strike with 11 prowess  
 > > 
 > > {: .fs-3 } 
-> > _“The intricate and exquisite Dwarven city delved into the mountains of Angmar was abandoned in the aftermath of a deadly pestilence."_ ***---&#65279;Kuduk Lore*** 
+> > _“The intricate and exquisite Dwarven city delved into the mountains of Angmar was abandoned in the aftermath of a deadly pestilence."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -74,7 +74,7 @@ permalink: /cards/zarak-dum/
 > > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Dragon-1 strike with 11 prowess  
 > > 
 > > {: .fs-3 } 
-> > _“The intricate and exquisite Dwarven city delved into the mountains of Angmar was abandoned in the aftermath of a deadly pestilence."_ ***---&#65279;Kuduk Lore*** 
+> > _“The intricate and exquisite Dwarven city delved into the mountains of Angmar was abandoned in the aftermath of a deadly pestilence."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>

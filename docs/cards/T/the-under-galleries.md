@@ -42,7 +42,7 @@ permalink: /cards/the-under-galleries/
 > > _**Adjacent Sites:**_ Any site in Udun (0), The Under-courts (4), The Sulfur-deeps (7) <br>_**Playable:**_ Information, Items (minor) <br>_**Automatic-attacks:**_<br> Trolls --- 4 strikes with 10 prowess (detainment)  
 > > 
 > > {: .fs-3 } 
-> > _“Here wer bred countless, unspeakable things."_ ***---&#65279;Kuduk Lore*** 
+> > _“Here wer bred countless, unspeakable things."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

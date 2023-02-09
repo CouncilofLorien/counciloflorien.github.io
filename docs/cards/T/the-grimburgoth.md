@@ -28,7 +28,7 @@ permalink: /cards/the-grimburgoth/
 > > _**Unique.**_ _Agent._ Can use sorcery. _Agent only:_ may tap at a company's new site to attack that company during its movement/hazard phase with +2 prowess. 
 > > 
 > > {: .fs-3 } 
-> > _“A madness filled him, and his heart was thereafter governed by fear. ...and in time he settled with his kinsman Khamul in Dol Guldur."_ ***---&#65279;Kuduk Lore***  
+> > _“A madness filled him, and his heart was thereafter governed by fear. ...and in time he settled with his kinsman Khamul in Dol Guldur."_ ***---&#65279;Kuduk&nbsp;Lore***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Dol Guldur 

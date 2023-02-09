@@ -28,7 +28,7 @@ permalink: /cards/galva/
 > > _**Unique.**_ +2 direct influence against the Men of Dorwinion faction. Against Nazgul, +6 to her prowess, and his body is halved (round up). 
 > > 
 > > {: .fs-3 } 
-> > _“Like the best vintages...she was rich in nature and complex in character."_ ***---&#65279;Kuduk Lore***  
+> > _“Like the best vintages...she was rich in nature and complex in character."_ ***---&#65279;Kuduk&nbsp;Lore***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Shrel-Kain 
@@ -54,7 +54,7 @@ permalink: /cards/galva/
 > > _**Unique.**_ +2 direct influence against the Men of Dorwinion faction. Against Nazgul, +6 to her prowess, and his body is halved (round up). 
 > > 
 > > {: .fs-3 } 
-> > _“Like the best vintages...she was rich in nature and complex in character."_ ***---&#65279;Kuduk Lore***  
+> > _“Like the best vintages...she was rich in nature and complex in character."_ ***---&#65279;Kuduk&nbsp;Lore***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Shrel-Kain 

@@ -25,7 +25,7 @@ permalink: /cards/haradrim/
 > > _**Unique.**_ _Manifestation of minion Haradrim._ ***Playable at Southron Oasis*** <br>&ensp;if the influence check is greater than 9. <br>_Standard Modifications:_ Wizards (-5), Dunedain (-2), Elves (-2), Dwarves (-2). 
 > > 
 > > {: .fs-3 } 
-> > _“‘They eat as well as anyone, for they trade at the crossroads of great roads and powerful kingdoms.’”_ ***---&#65279;Kuduk Lore*** 
+> > _“‘They eat as well as anyone, for they trade at the crossroads of great roads and powerful kingdoms.’”_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 
 
 ### _Middle-earth: Against the Shadow_
@@ -42,7 +42,7 @@ permalink: /cards/haradrim/
 > > _**Unique.**_ ***Playable at Southron Oasis*** <br>&ensp;if the influence check is greater than 9. <br>_Standard Modifications:_ Southrons (+2), Variags of Khand (-2). 
 > > 
 > > {: .fs-3 } 
-> > _“...a great but cruel race that dwelt in the wide, dry lands south of Mordor and the Ethir Anduin."_ ***---&#65279;Kuduk Lore*** 
+> > _“...a great but cruel race that dwelt in the wide, dry lands south of Mordor and the Ethir Anduin."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 
 
 ### _Middle-earth Challenge Decks_
@@ -59,5 +59,5 @@ permalink: /cards/haradrim/
 > > _**Unique.**_ Playable at Southron Oasis if the influence check is greater than 9. <br>_Standard Modifications:_ Southrons (+2), Variags of Khand (-2). 
 > > 
 > > {: .fs-3 } 
-> > _“...a great but cruel race that dwelt in the wide, dry lands south of Mordor and the Ethir Anduin."_ ***---&#65279;Kuduk Lore*** 
+> > _“...a great but cruel race that dwelt in the wide, dry lands south of Mordor and the Ethir Anduin."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 

@@ -28,7 +28,7 @@ permalink: /cards/herion/
 > > _**Unique.**_ _Agent._ 
 > > 
 > > {: .fs-3 } 
-> > _“Grandson of a renowned seafarer, Herion spent his early years in the verdant highlands near his wife's home in the Pinnath Gelin. Her murder embittered him, and he returned to the sea to seek his reckless revenge."_ ***---&#65279;Kuduk Lore***  
+> > _“Grandson of a renowned seafarer, Herion spent his early years in the verdant highlands near his wife's home in the Pinnath Gelin. Her murder embittered him, and he returned to the sea to seek his reckless revenge."_ ***---&#65279;Kuduk&nbsp;Lore***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Lond Galen, Dol Amroth 

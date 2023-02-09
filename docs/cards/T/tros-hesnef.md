@@ -28,7 +28,7 @@ permalink: /cards/tros-hesnef/
 > > _**Unique.**_ +1 direct influence against any faction playable at Easterling camp. -1 to all corruption checks. 
 > > 
 > > {: .fs-3 } 
-> > _“Exiled with his family at the age of fifteen, he returned a year later and assassinated the High Chieftain Pos Ari. This slaying spawned a reign of sorrow and bloodshed."_ ***---&#65279;Kuduk Lore***  
+> > _“Exiled with his family at the age of fifteen, he returned a year later and assassinated the High Chieftain Pos Ari. This slaying spawned a reign of sorrow and bloodshed."_ ***---&#65279;Kuduk&nbsp;Lore***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Easterling Camp 
@@ -54,7 +54,7 @@ permalink: /cards/tros-hesnef/
 > > _**Unique.**_ +1 direct influence against any faction playable at Easterling camp. -1 to all corruption checks. 
 > > 
 > > {: .fs-3 } 
-> > _“Exiled with his family at the age of fifteen, he returned a year later and assassinated the High Chieftain Pos Ari. This slaying spawned a reign of sorrow and bloodshed."_ ***---&#65279;Kuduk Lore***  
+> > _“Exiled with his family at the age of fifteen, he returned a year later and assassinated the High Chieftain Pos Ari. This slaying spawned a reign of sorrow and bloodshed."_ ***---&#65279;Kuduk&nbsp;Lore***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Easterling Camp 

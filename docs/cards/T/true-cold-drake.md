@@ -25,7 +25,7 @@ permalink: /cards/true-cold-drake/
 > > _Drake._ Two strikes. May also be played keyed to Numeriador, Forochel, Angmar, Gundabad, Grey Mountain Narrows, Withered Heath, and Iron Hills. 
 > > 
 > > {: .fs-3 } 
-> > _“The helkaloki comprise the oldest strain of dragon, bred by Morgoth as the ultimate expression of violence incarnate."_ ***---&#65279;Kuduk Lore*** 
+> > _“The helkaloki comprise the oldest strain of dragon, bred by Morgoth as the ultimate expression of violence incarnate."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 14/&ndash; 】</div>
@@ -45,7 +45,7 @@ permalink: /cards/true-cold-drake/
 > > _Drake._ Two strikes. May also be played keyed to Numeriador, Forochel, Angmar, Gundabad, Grey Mountain Narrows, Withered Heath, and Iron Hills. 
 > > 
 > > {: .fs-3 } 
-> > _“The helkaloki comprise the oldest strain of dragon, bred by Morgoth as the ultimate expression of violence incarnate."_ ***---&#65279;Kuduk Lore*** 
+> > _“The helkaloki comprise the oldest strain of dragon, bred by Morgoth as the ultimate expression of violence incarnate."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 14/&ndash; 】</div>

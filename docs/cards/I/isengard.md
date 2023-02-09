@@ -71,7 +71,7 @@ permalink: /cards/isengard/
 > Gap of Isen
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Geann a-Lisch <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br> Wolves --- 3 strikes with 7 prowess  
+> > ***Nearest Darkhaven:*** Geann a-Lisch <br>_**Playable:**_ Information, Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br> Wolves --- 3 strikes with 7 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...yet it seemed a thing not made by the craft of Men, but riven from the bones of the earth in the ancient torment of the hills."_ ***---&#65279;LotRIII*** 

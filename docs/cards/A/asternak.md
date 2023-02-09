@@ -28,7 +28,7 @@ permalink: /cards/asternak/
 > > _**Unique.**_ +2 direct influence against any faction playable at Variag Camp. 
 > > 
 > > {: .fs-3 } 
-> > _“‘Killer and slave-trader, Asternak knew all the roads and ways in both Khand and Nurn.’”_ ***---&#65279;Kuduk Lore***  
+> > _“‘Killer and slave-trader, Asternak knew all the roads and ways in both Khand and Nurn.’”_ ***---&#65279;Kuduk&nbsp;Lore***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Variag Camp 
@@ -54,7 +54,7 @@ permalink: /cards/asternak/
 > > _**Unique.**_ +2 direct influence against any faction playable at Variag Camp. 
 > > 
 > > {: .fs-3 } 
-> > _“‘Killer and slave-trader, Asternak knew all the roads and ways in both Khand and Nurn.’”_ ***---&#65279;Kuduk Lore***  
+> > _“‘Killer and slave-trader, Asternak knew all the roads and ways in both Khand and Nurn.’”_ ***---&#65279;Kuduk&nbsp;Lore***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Variag Camp 

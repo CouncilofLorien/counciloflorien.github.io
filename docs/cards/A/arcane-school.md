@@ -28,5 +28,5 @@ permalink: /cards/arcane-school/
 > > _Pallando specific._ _Sage only._ ***Playable on a non-Hobbit, non-Dwarf sage at one of your Wizardhavens*** \[![](/assets/images/free-haven.svg)] _(or in your starting company)._ The character may use sorcery, spirit-magic, and shadow-magic. Cannot be duplicated on a given character. 
 > > 
 > > {: .fs-3 } 
-> > _“Rumour holds that the fallen Blue Wizards were the founders of secret cults and arcane magical traditions...”_ ***---&#65279;Kuduk Lore*** 
+> > _“Rumour holds that the fallen Blue Wizards were the founders of secret cults and arcane magical traditions...”_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 

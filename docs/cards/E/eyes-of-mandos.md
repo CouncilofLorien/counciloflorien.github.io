@@ -25,5 +25,5 @@ permalink: /cards/eyes-of-mandos/
 > > ***Playable on Pallando during the organization phase.*** Tap Pallando and reveal up to 8 cards from the top of your play deck. Choose one to put into your hand and shuffle the remaining ones into your play deck. 
 > > 
 > > {: .fs-3 } 
-> > _“And so the Blue Wizard sat on a carved stone seat on a stone terrace, before a clear, dark pool, viewing Fate as if through the eyes of his mentor."_ ***---&#65279;Kuduk Lore***  
+> > _“And so the Blue Wizard sat on a carved stone seat on a stone terrace, before a clear, dark pool, viewing Fate as if through the eyes of his mentor."_ ***---&#65279;Kuduk&nbsp;Lore***  
 > 

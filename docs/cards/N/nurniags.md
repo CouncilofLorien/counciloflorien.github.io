@@ -42,7 +42,7 @@ permalink: /cards/nurniags/
 > > _**Unique.**_ _Manifestation of minion Nurniags._ ***Playable at Nurniag Camp*** <br>&ensp;if the influence check is greater than 13 (Muster has no effect on this attempt). <br>_Standard Modifications:_ Wizards (-5), Men (+1). 
 > > 
 > > {: .fs-3 } 
-> > _“‘They read the wind and the land like storied scribes.’”_ ***---&#65279;Kuduk Lore*** 
+> > _“‘They read the wind and the land like storied scribes.’”_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 
 
 ### _Middle-earth Challenge Decks_

@@ -28,7 +28,7 @@ permalink: /cards/dror/
 > > _**Unique.**_ _Agent._ +2 direct influence against Dwarves and Dwarf factions. 
 > > 
 > > {: .fs-3 } 
-> > _“Ever low he sat, always abiding by greed...oaths are broken, vows refused, or solemn agreements abused."_ ***---&#65279;Kuduk Lore***  
+> > _“Ever low he sat, always abiding by greed...oaths are broken, vows refused, or solemn agreements abused."_ ***---&#65279;Kuduk&nbsp;Lore***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Blue Mountain Dwarf-hold  

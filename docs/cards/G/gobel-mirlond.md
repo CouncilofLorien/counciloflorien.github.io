@@ -28,7 +28,7 @@ permalink: /cards/gobel-mirlond/
 > > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Items (minor, major\*) <br>\*---weapon, armor, shield, or helmet only <br>_**Automatic-attacks:**_<br> Men --- each character faces 1 strike with 8 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
-> > _“...one of the most ancient Numenorean colonies along the Bay of Belfalas, founded duringthe noontide of Numernor's imperial expansion."_ ***---&#65279;Kuduk Lore*** 
+> > _“...one of the most ancient Numenorean colonies along the Bay of Belfalas, founded during the noontide of Numernor's imperial expansion."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

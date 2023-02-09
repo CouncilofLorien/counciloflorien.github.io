@@ -28,5 +28,5 @@ permalink: /cards/legacy-of-smiths/
 > > ***Playable if you have more than 6 stage points.*** Your non-ring items are each worth full marshalling points. Cannot be duplicated by a given player. 
 > > 
 > > {: .fs-3 } 
-> > _“Many things of wealth and beauty come to the Wizard who seeks power outside the balance of the Song of the Ainur"_ ***---&#65279;Kuduk Lore*** 
+> > _“Many things of wealth and beauty come to the Wizard who seeks power outside the balance of the Song of the Ainur"_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 

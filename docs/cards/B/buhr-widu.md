@@ -28,7 +28,7 @@ permalink: /cards/buhr-widu/
 > > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Troll --- 1 strike with 10 prowess <br>_**Special:**_ This site is always returned to the location deck, never to the discard pile. 
 > > 
 > > {: .fs-3 } 
-> > _“...from their tree-felling they created the grassy East Blight, where stood Buhr Widu, their lord's hold and capital."_ ***---&#65279;Kuduk Lore*** 
+> > _“...from their tree-felling they created the grassy East Blight, where stood Buhr Widu, their lord's hold and capital."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;3&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -51,7 +51,7 @@ permalink: /cards/buhr-widu/
 > > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Troll --- 1 strike with 10 prowess  
 > > 
 > > {: .fs-3 } 
-> > _“...there, in Mirkwood's East Blight, stood the ancient capital of a Northern Kingdom."_ ***---&#65279;Kuduk Lore*** 
+> > _“...there, in Mirkwood's East Blight, stood the ancient capital of a Northern Kingdom."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -74,7 +74,7 @@ permalink: /cards/buhr-widu/
 > > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Troll-1 strike with 10 prowess <br>_**Special:**_ This site is always returned to the location deck, never to the discard pile. 
 > > 
 > > {: .fs-3 } 
-> > _“...from their tree-felling they created the grassy East Blight, where stood Buhr Widu, their lord's hold and capital."_ ***---&#65279;Kuduk Lore*** 
+> > _“...from their tree-felling they created the grassy East Blight, where stood Buhr Widu, their lord's hold and capital."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;3&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>

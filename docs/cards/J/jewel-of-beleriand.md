@@ -25,7 +25,7 @@ permalink: /cards/jewel-of-beleriand/
 > > _Hoard item._ Tap this item and make a roll (draw a #)-if the result is greater than 6, the bearer untaps if tapped. Cannot be duplicated on a given character. 
 > > 
 > > {: .fs-3 } 
-> > _“‘... the embodiment of spirit of the magical fruit from the golden trees of Aman.’”_ ***---&#65279;Kuduk Lore*** 
+> > _“‘... the embodiment of spirit of the magical fruit from the golden trees of Aman.’”_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

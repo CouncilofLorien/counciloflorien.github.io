@@ -28,7 +28,7 @@ permalink: /cards/fram-framson/
 > > _**Unique.**_ He may not be one of the starting characters. He may only be brought into play at his home site. +3 prowess against Dragon and Drake attacks. 
 > > 
 > > {: .fs-3 } 
-> > _“Of Fram Framson's ancestor...the tales recount that he slew Scatha the Worm and fashioned a necklace from the dragon's teeth...”_ ***---&#65279;Kuduk Lore***  
+> > _“Of Fram Framson's ancestor...the tales recount that he slew Scatha the Worm and fashioned a necklace from the dragon's teeth...”_ ***---&#65279;Kuduk&nbsp;Lore***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Framsburg 

@@ -74,7 +74,7 @@ permalink: /cards/ettenmoors/
 > > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks (2):**_<br>  (1st) Troll --- 1 strike with 9 prowess <br>(2nd) Wolves --- 2 strikes with 8 prowess  
 > > 
 > > {: .fs-3 } 
-> > _“...a ridge of high land; its dark edge against the sky was broken in many bare points like teeth of a blunted saw.". ---&#65279;LotRII 
+> > _“...a ridge of high land; its dark edge against the sky was broken in many bare points like teeth of a blunted saw."_ ***---&#65279;LotRII***
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>

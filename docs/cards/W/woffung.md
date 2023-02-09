@@ -28,7 +28,7 @@ permalink: /cards/woffung/
 > > _**Unique.**_ _Agent._ 
 > > 
 > > {: .fs-3 } 
-> > _“Shadowy Woffung called himself a juggler, but by trade he practiced anything bequeathing him easy wealth."_ ***---&#65279;Kuduk Lore***  
+> > _“Shadowy Woffung called himself a juggler, but by trade he practiced anything bequeathing him easy wealth."_ ***---&#65279;Kuduk&nbsp;Lore***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Lake-town, Dale, Shrel-Kain 

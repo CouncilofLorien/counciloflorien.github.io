@@ -28,7 +28,7 @@ permalink: /cards/lindion-the-oronin/
 > > _**Unique.**_ _Playable at Stone-circle._ Tap _Lindion_ to cancel an Animal or Spider attack. _Eagle-mounts_ can be played on his company regardless of their site or the presence of a diplomat. 
 > > 
 > > {: .fs-3 } 
-> > _“The fays of the mountains pipe melodies that harmonize with wind and weather, pleasing to the ears of all creatures aloft on wings."_ ***---&#65279;Kuduk Lore*** 
+> > _“The fays of the mountains pipe melodies that harmonize with wind and weather, pleasing to the ears of all creatures aloft on wings."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 3/9 】</div>

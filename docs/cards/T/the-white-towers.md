@@ -94,7 +94,7 @@ permalink: /cards/the-white-towers/
 > > <br>_**Special:**_ If one of your companies is at this site, all attacks against it are canceled. 
 > > 
 > > {: .fs-3 } 
-> > _“Tales of the Second Age say that the towers of the Tower Hills were raised by Gil-galad, and thither the King would repair to gaze westward through the palantir of Elostirion."_ ***---&#65279;Kuduk Lore***  
+> > _“Tales of the Second Age say that the towers of the Tower Hills were raised by Gil-galad, and thither the King would repair to gaze westward through the palantir of Elostirion."_ ***---&#65279;Kuduk&nbsp;Lore***  
 > 
 > {: .fw-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

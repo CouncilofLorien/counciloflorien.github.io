@@ -28,7 +28,7 @@ permalink: /cards/land-drake/
 > > _Drake._ One strike. Attacker chooses defending characters. 
 > > 
 > > {: .fs-3 } 
-> > _“These smallest worms of the kemenloki startle upon little provocation, and they leap and climb like huge felines."_ ***---&#65279;Kuduk Lore*** 
+> > _“These smallest worms of the kemenloki startle upon little provocation, and they leap and climb like huge felines."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 8/&ndash; 】</div>
@@ -51,7 +51,7 @@ permalink: /cards/land-drake/
 > > _Drake._ One strike. Attacker chooses defending characters.   
 > > 
 > > {: .fs-3 } 
-> > _“‘He came with great thunder, and lightning, and a tempest of doom.’”_ ***---&#65279;Kuduk Lore*** 
+> > _“‘He came with great thunder, and lightning, and a tempest of doom.’”_ ***---&#65279;Kuduk&nbsp;Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 8/&ndash; 】</div>

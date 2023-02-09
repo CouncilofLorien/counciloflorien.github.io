@@ -74,7 +74,7 @@ permalink: /cards/bandit-lair/
 > > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Men --- 3 strikes with 6 prowess  
 > > 
 > > {: .fs-3 } 
-> > _“For in the time of ruin houseless and desperate men went astray, some refugees of battle and defeat and lands laid waste, others outlaws driven into the wild for evil deeds."_ ***---&#65279;Kuduk Lore*** 
+> > _“For in the time of ruin houseless and desperate men went astray, some refugees of battle and defeat and lands laid waste, others outlaws driven into the wild for evil deeds."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -120,7 +120,7 @@ permalink: /cards/bandit-lair/
 > > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Men - 3 strikes with 6 prowess  
 > > 
 > > {: .fs-3 } 
-> > _“For in the time of ruin houseless and desperate men went astray, some refugees of battle and defeat and lands laid waste, others outlaws driven into the wild for evil deeds."_ ***---&#65279;Kuduk Lore*** 
+> > _“For in the time of ruin houseless and desperate men went astray, some refugees of battle and defeat and lands laid waste, others outlaws driven into the wild for evil deeds."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>

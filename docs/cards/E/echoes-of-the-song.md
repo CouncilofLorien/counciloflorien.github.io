@@ -25,5 +25,5 @@ permalink: /cards/echoes-of-the-song/
 > > If your opponent has more stage than one stage card and 4 or more stage points, he must discard one stage card of his choice. Alternatively, force a target character to make a corruption check. Remove this card from the game. 
 > > 
 > > {: .fs-3 } 
-> > _“Memories of the beauty of Valinor bore power to dispel the corruption of darkness...”_ ***---&#65279;Kuduk Lore*** 
+> > _“Memories of the beauty of Valinor bore power to dispel the corruption of darkness...”_ ***---&#65279;Kuduk&nbsp;Lore*** 
 >

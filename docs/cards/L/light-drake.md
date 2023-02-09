@@ -28,7 +28,7 @@ permalink: /cards/light-drake/
 > > _Drake._ Two strikes. 
 > > 
 > > {: .fs-3 } 
-> > _“The kalaloki boast whip-like tails with serrated spines, each housing a retractable membrane filled with electrically charged fluid. The sting of one knife-like spine delivers the impact of a lightning bolt!"_ ***---&#65279;Kuduk Lore*** 
+> > _“The kalaloki boast whip-like tails with serrated spines, each housing a retractable membrane filled with electrically charged fluid. The sting of one knife-like spine delivers the impact of a lightning bolt!"_ ***---&#65279;Kuduk&nbsp;Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 8/&ndash; 】</div>

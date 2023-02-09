@@ -28,7 +28,7 @@ permalink: /cards/gondmaeglom/
 > > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br> Dragon --- 1 strike with 14 prowess  
 > > 
 > > {: .fs-3 } 
-> > _“The lofty peak of the central Grey Mountains harbors a vast cache of stolen treasure within its stony bones."_ ***---&#65279;Kuduk Lore*** 
+> > _“The lofty peak of the central Grey Mountains harbors a vast cache of stolen treasure within its stony bones."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
