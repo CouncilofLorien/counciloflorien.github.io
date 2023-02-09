@@ -1725,7 +1725,7 @@ Follow this procedure for each of your companies. You decide which of your compa
 
 ---
 
-{:style="counter-reset:step-counter 5"}
+{:style="counter-reset:step-counter 4"}
  5. Remove the company’s site of origin (i.e., the site the company came from). Discard the site card if it is tapped and not a Haven. Otherwise, return it to the location deck. At this point, the company is considered to have arrived at the new site (i.e., its new site becomes its site of origin). _Standard Rules Only:_ Return any region cards to the location deck.
  6. You must discard any cards in excess of eight in your hand; your opponent does the same for his hand. If you have fewer than eight cards, you must draw cards until your hand has eight cards; your opponent does the same for his hand. 
 
