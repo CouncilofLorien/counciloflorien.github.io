@@ -930,9 +930,13 @@ Certain characters receive modifications to corruption checks, and certain cards
 
 ![](/assets/images/unlimited-appendix-card-diagrams.gif)
 
+---
+
 ## MAP OF MIDDLE-EARTH
 
 ![](/assets/images/unlimited-appendix-map.gif)
+
+---
 
 ## REGION MAP KEY
 
