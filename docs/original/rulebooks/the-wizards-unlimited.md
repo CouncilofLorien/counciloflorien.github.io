@@ -51,7 +51,7 @@ In _The Lord of the Rings_, Gandalf was the only Wizard to succeed. Saruman was 
 
 These rules are organized into four sections: the Starter Rules, the Standard Rules, the Optional Rules, and the Appendices. The Starter and Standard Rules are for a two-player game; multi-player rules are provided in the Optional Rules.
 
-The introductory material on [pages 4-8](#brief-player-turn-summary) provides a brief player turn summary, player notes, and definitions of commonly used terms.
+The introductory material on pages [4](#page4)-[8](#page8) provides a brief player turn summary, player notes, and definitions of commonly used terms.
 
 _The Starter Rules_ — The Starter Rules contain all of the guidelines you need to play _METW_. They have been designed to simplify teaching the game and to speed up play. You should use the Starter Rules if you and your opponent have never played this game before **or** if one of you only has access to a starter deck.<br>If you are already an experienced player of collectible card games, you might read the next couple of pages and the sections that are not boxed. As you play, you can refer to the other material that details the more complex rules and situations that may arise during play.
 
@@ -65,9 +65,9 @@ _The Appendices_ — An index, credits, keys, the Full Player Turn Summary. The 
 
 ## BRIEF PLAYER TURN SUMMARY
 
-Play consists of a series of “Player Turns.” During your turn, follow the steps outlined in this turn summary. Then, your opponent does the same during his turn. You and your opponent alternate turns until the game ends. This turn summary is included here to give you an idea of how play proceeds; see [p. 68-70](#full-player-turn-summary) for the Full Player Turn Summary.
+Play consists of a series of “Player Turns.” During your turn, follow the steps outlined in this turn summary. Then, your opponent does the same during his turn. You and your opponent alternate turns until the game ends. This turn summary is included here to give you an idea of how play proceeds; see p. [68](#page68)-[70](#page70) for the Full Player Turn Summary.
 
-_Untap Phase_ — Each of your characters may do one of the following: Untap **or** Heal (if at a Haven site). In addition, untap (see [page 15](#tapping-and-card-positions)) all of your other tapped non-site cards.
+_Untap Phase_ — Each of your characters may do one of the following: Untap **or** Heal (if at a Haven site). In addition, untap (see page [15](#page15)) all of your other tapped non-site cards.
 
 _Organization Phase_ — You may take the following actions in any order: play one character (if allowed) or your Wizard (if available), reorganize your companies, transfer items between characters (corruption checks required), and store items (corruption checks required). In addition, each of your companies may plan its movement by playing a new site card face down on its present site card. 
 
@@ -229,7 +229,7 @@ Marshalling points are printed on the top left corner of the cards that award th
 
 <br><span class="page-number">10</span>
 
----
+<hr id="page11">
 
 {: .note }
 > **Example:** (CPs = Corruption Points, MPs = Marshalling Points) Our two players Jessica and Jason have been playing for awhile and Jessica exhausts her play deck during her turn. Since she has 15 MPs and Jason only has 14, she decides to call the Free Council. Each player has one company in Lorien:
@@ -265,11 +265,11 @@ Marshalling points are printed on the top left corner of the cards that award th
 > 
 > Since Jessica called the council, Jason gets one final turn before the council starts. Jason brings Eomer into play for one more MP, and then moves his company to Lake-town. After facing the hazards Jessica plays, he successfully plays the Men of Northern Rhovanion faction for two more MPs. Jason now has 17 MPs and will win the game if he does not lose any MPs due to characters failing corruption checks. 
 > 
-> In this example, any character with 2 or more CPs could fail his corruption check (see [pages 35-36](#8--corruption)). If Pallando fails his corruption check, the game ends immediately and Jason wins. If Legolas fails his corruption check, Jessica loses 2 of her MPs. If Theoden fails his corruption check, Jason loses 6 of his MPs. If Faramir fails his corruption check, Jason loses 2 of his MPs. 
+> In this example, any character with 2 or more CPs could fail his corruption check (see pages [35](#page35)-[36](#page36)). If Pallando fails his corruption check, the game ends immediately and Jason wins. If Legolas fails his corruption check, Jessica loses 2 of her MPs. If Theoden fails his corruption check, Jason loses 6 of his MPs. If Faramir fails his corruption check, Jason loses 2 of his MPs. 
 
 <br><span class="page-number">11</span>
 
----
+<hr id="page12">
 
 ## 2 • THE CARDS AND DECKS
 
@@ -304,7 +304,7 @@ _Location Deck_ — This deck consists of your site cards. You may examine and s
 
 _Play Deck_ — This deck consists of your resource cards, hazards cards, and character cards. You randomly draw cards from this deck during play. Your play deck starts with an equal number of resource cards and hazard cards.<span class="page-number">12</span>
 
----
+<hr id="page13">
 
 {: .text-center }
 ![](/assets/images/cardsanddecks.svg)
@@ -316,7 +316,7 @@ You can use resources at certain sites and under certain conditions. Resources i
 
 <br><span class="page-number">13</span>
 
----
+<hr id="page14">
 
 _Discard Pile_ — Your discarded cards are placed face down in your discard pile. When your play deck is _exhausted_, location cards in your discard pile are returned to your location deck. You shuffle the other cards in your discard pile and they become your new play deck.
 
@@ -340,7 +340,7 @@ _Marshalling Point Pile_ (_MP pile_) — In addition to marshalling points from 
 
 <br><span class="page-number">14</span>
 
----
+<hr id="page15">
 
 ### CARD COMBINATIONS
 
@@ -366,7 +366,7 @@ opponent’s.
 
 Only one of each “unique” card may be included in your play deck and starting cards combined. As an exception, two of the same Wizard may be included in your play deck (to give you a better chance of drawing one early).<span class="page-number">15</span>
 
----
+<hr id="page16">
 
 ## 3 • GETTING READY TO PLAY
 
@@ -374,7 +374,7 @@ Follow these steps to get ready to play:
 
  1. Place your site cards in your location deck. This deck should contain all of your Haven cards (i.e., Rivendell, Edhellond, Grey Havens, and Lorien). You may include any number of Haven cards, but only one of each non-Haven site card.
  2. Place between 25 and 50 Resource cards **and** an equal number of Hazard cards in your play deck (if you have fewer than 25 of either available, just use all of the cards you have). Only one of each “unique” card may be included. No more than three copies of any one non-unique card may be included.
- 3. Place one to five starting characters (no Wizards) face down in front of you. The combined mind attributes (see [page 19](#character-attributes)) of these characters must be 20 or less. You and your opponent reveal your characters simultaneously, placing any duplicated characters into your play decks. Then organize your starting characters into followers and companies and place them at Rivendell (i.e., place a Rivendell site card next to them).
+ 3. Place one to five starting characters (no Wizards) face down in front of you. The combined mind attributes (see page [19](#page19)) of these characters must be 20 or less. You and your opponent reveal your characters simultaneously, placing any duplicated characters into your play decks. Then organize your starting characters into followers and companies and place them at Rivendell (i.e., place a Rivendell site card next to them).
  4. You _may_ assign up to two non-unique minor items to your starting characters (i.e., two items total, **not** two to each character). These items must come from cards that you have not already committed to your play deck.
  5. Place up to 10 character cards in your play deck. Only one of each character card may be included. In addition, place up to two Wizard cards in your play deck (you may place two copies of the same Wizard). Shuffle your play deck.
  6. Draw a hand of eight cards from your play deck.
@@ -387,7 +387,7 @@ Follow these steps to get ready to play:
 
 <br><span class="page-number">16</span>
 
----
+<hr id="page17">
 
 ## 4 • THE PLAYER TURN
 
@@ -400,7 +400,7 @@ Play consists of a series of “Player Turns.” During your turn, you take vari
  5. Site Phase
  6. End-of-Turn Phase
 
-A Brief Player Turn Summary is presented on [page 4](#brief-player-turn-summary). A detailed Full Player Turn Summary is presented on [pages 68-70](#full-player-turn-summary).
+A Brief Player Turn Summary is presented on page [4](#page4). A detailed Full Player Turn Summary is presented on pages [68](#page68)-[70](#page70).
 
 {: .note }
 > **Clarification:** The actions that may be taken during your organization phase may be taken in any order. Actions of the same type do not have to be taken together (e.g., you can store an item, then bring a character into play, and then store a second item).
@@ -419,7 +419,7 @@ A Brief Player Turn Summary is presented on [page 4](#brief-player-turn-summary)
 
 <br><span class="page-number">17</span>
 
----
+<hr id="page18">
 
 ## 5 • CHARACTERS & COMPANIES
 
@@ -427,7 +427,7 @@ As a player, you influence and control a number of characters that move and act 
 
 If you have enough general influence or direct influence during a given turn, you may bring into play: one character at his home site or at any Haven **or** your Wizard at his home site or Rivendell. 
 
-Characters are primarily controlled by your pool of 20 general influence points. For each controlled character, you must commit a number of general influence points equal to his mind attribute. In addition, you may control a character by using another character’s direct influence—a character controlled in this fashion is called a _follower_ and does not use general influence points. (See [page 21](#direct-influence) for an extended example.)
+Characters are primarily controlled by your pool of 20 general influence points. For each controlled character, you must commit a number of general influence points equal to his mind attribute. In addition, you may control a character by using another character’s direct influence—a character controlled in this fashion is called a _follower_ and does not use general influence points. (See page [21](#page21) for an extended example.)
 
 During play, you may organize your characters into groups called companies. A company’s _size_ is equal to the number of characters in it, with each Hobbit character only counting half (round up). A company is limited to a size of seven. A company’s _hazard limit_ is equal to two or the size of the company, whichever is greater. The maximum number of hazards that can be played on a company during a given movement/hazard phase is equal to its hazard limit. 
 
@@ -440,7 +440,7 @@ One company can split into two or more companies only at a Haven (use two Haven 
 
 <br><span class="page-number">18</span>
 
----
+<hr id="page19">
  
 ### CHARACTER ATTRIBUTES
 
@@ -462,7 +462,7 @@ _Marshalling Points_ \[ upper left ]: This is the number of marshalling points y
 
 _Special Abilities:_ Some characters have special abilities that are detailed on their cards. Common special abilities include corruption check modifiers, influence bonuses, prowess bonuses. For example, Faramir has an influence bonus against the _Rangers of Ithilien_ faction, Eowyn has a prowess bonus against Nazgul, Frodo has a corruption check modifier, etc.<span class="page-number">19</span>
 
----
+<hr id="page20">
 
 ### INFLUENCING (CONTROLLING) A CHARACTER
 
@@ -482,7 +482,7 @@ If you have enough unused general influence points, you may move a follower from
 
 If a character directly influencing a follower is removed from play, the follower remains in play and does not immediately count against general influence. However, during your next organization phase, you must discard the follower, place the follower under the control of another character in his company with enough available direct influence, or place the follower under the control of general influence (if enough is available).<span class="page-number">20</span>
 
----
+<hr id="page21">
 
 {: .note } 
 > **Example:** In this example and later examples, the notation “#•#” is used. The first number is the character’s mind attribute; the second is his direct influence (DI). You have nine characters you want to control: Gandalf (- •10), Aragorn II (9•3), Boromir II (4•1), Legolas (6•2), Gimli (6•2), Frodo (5•1), Sam (4•0), Merry (4•1), and Pippin (4•1). In addition, Aragorn II has Narsil (+1 to direct influence), Frodo has The One Ring (+5 to direct influence), and Gandalf has a Lesser Ring (+2 to direct influence). In order for you to control and keep these characters in play, you must use all of your 20 points of general influence (GI) and their direct influence (DI).
@@ -504,7 +504,7 @@ If a character directly influencing a follower is removed from play, the followe
 > ```
 
 {: .note } 
-> **Example:** In our example from [page 11](#the-free-council), Jessica and Jason each have one company organized as follows:
+> **Example:** In our example from page [11](#page11), Jessica and Jason each have one company organized as follows:
 > 
 > ```mermaid
 > %%{init: {'flowchart' : {'curve' : 'linear'}, 'theme': 'base', 'themeVariables': { 'primaryColor': '#fff','primaryBorderColor': '#44434d','fontFamily': 'timesnewroman'}}}%%
@@ -532,7 +532,7 @@ If a character directly influencing a follower is removed from play, the followe
 
 <br><span class="page-number">21</span>
 
----
+<hr id="page22">
 
 {: .note } 
 > **Clarification:** During the organization phase, you can move characters from control by general influence to control by direct influence and vice versa so long as your total of mind attributes does not exceed your available influence at the end of the organization phase.
@@ -553,7 +553,7 @@ During your organization phase, you may perform **one and only one** of the foll
  - You may play a character card. You must have enough general influence or direct influence available to control the character. You must place him at his home site or at any Haven site.
  - You may play a Wizard card if you do not have one in play. You must place a Wizard at his home site or at Rivendell. You need not control a Wizard with influence—he represents you, the player.<span class="page-number">22</span>
 
----
+<hr id="page23">
 
 When you play a character, you may place him into a company already at his arrival site **or** he may become a new company (consisting of one character). In the second case, you must place the arrival site card next to the character played.
 
@@ -578,7 +578,7 @@ After being revealed, a Wizard operates as a character and thus may use his dire
 
 Each of your characters at a Haven may heal during the untap phase of your turn. Such a character moves from a wounded position to a tapped position (i.e., the character is still tapped). In addition, certain cards can heal characters when they are played (e.g., _Healing Herbs_, _Halfling Strength_, etc.).<span class="page-number">23</span>
 
----
+<hr id="page24">
 
 ## 6 • MOVEMENT
 
@@ -596,7 +596,7 @@ In _METW_ the lands of northwest Middle-earth are represented by regions. The si
 
 <br><span class="page-number">24</span>
 
----
+<hr id="page25">
 
 A company commits to moving by playing a _new site card_ (face down) during its organization phase. A company does not have to move during a given turn (i.e., it does not play a new site card).
 
@@ -622,7 +622,7 @@ If the company’s site of origin is a Haven, the new site card must meet one of
 
 <br><span class="page-number">25</span>
 
----
+<hr id="page26">
 
 {: .note }
 > **Clarification:** To summarize the movement process:
@@ -644,7 +644,7 @@ If the company’s site of origin is a Haven, the new site card must meet one of
 
 <br><span class="page-number">26</span>
 
----
+<hr id="page27">
 
 ### SITE PATHS
 
@@ -682,10 +682,10 @@ A _site path_ is the sequence of regions between a site and its nearest Haven. H
 
 <br><span class="page-number">27</span>
 
----
+<hr id="page28">
 
 {: .note }
-> **Example:** In the Example of movement from Bree to Thranduil’s Halls on [page 26](#moving-from-a-haven-site), the first site path used was from Bree to Rivendell: ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg). During that movement/hazard phase, Jason (Jessica’s opponent) can play hazard creatures keyed to wilderness (![](/assets/images/wilderness.svg)), double wilderness (![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg)), and Havens (the new site).
+> **Example:** In the Example of movement from Bree to Thranduil’s Halls on page [26](#page26), the first site path used was from Bree to Rivendell: ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg). During that movement/hazard phase, Jason (Jessica’s opponent) can play hazard creatures keyed to wilderness (![](/assets/images/wilderness.svg)), double wilderness (![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg)), and Havens (the new site).
 > 
 > During the next turn, the company uses the site path from Rivendell to Lorien: ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg). During that movement/hazard phase, Jason can play hazard creatures keyed to wilderness ( ![](/assets/images/wilderness.svg) ), double wilderness ( ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ), border-lands ( ![](/assets/images/border-land.svg) ), and Havens (the new site).
 > 
@@ -724,7 +724,7 @@ A _site path_ is the sequence of regions between a site and its nearest Haven. H
 
 <br><span class="page-number">28</span>
 
----
+<hr id="page29">
 
 ## 7 • COMBAT
 
@@ -738,7 +738,7 @@ Combat normally occurs when one of three things happen:
 Combat consists of one or more _attacks_ that must be resolved one at a time. An attack consists of one or more _strikes_:
  - Each strike can target one and only one character in the attacked company.
  - Each character can be the target of only one strike from a given attack.
- - If an attack has more strikes than the company has characters, the attacker may allocate the excess strikes as -1 modifications (i.e., a -1 modification for each unallocated strike) to the prowess(es) of whichever target(s) he chooses. See the [Strike Sequence on page 32](#the-strike-sequence). 
+ - If an attack has more strikes than the company has characters, the attacker may allocate the excess strikes as -1 modifications (i.e., a -1 modification for each unallocated strike) to the prowess(es) of whichever target(s) he chooses. See the Strike Sequence on page [32](#page32). 
 
 Unless the attack states otherwise, the defender chooses which _untapped_ characters will be the targets of given strikes. Then, the attacker chooses which other defending characters not yet assigned a strike will be the target of any remaining unassigned strikes. 
 
@@ -751,7 +751,7 @@ Unless the attack states otherwise, the defender chooses which _untapped_ charac
 
 <br><span class="page-number">29</span>
 
----
+<hr id="page30">
 
 #### Strike Modifications
 
@@ -780,7 +780,7 @@ There are a number of standard modifications to strikes:
 
 Strikes are resolved one at a time as decided by the defending player. When you choose a strike to resolve, determine all of the factors affecting the strike before the roll is made (see “[The Strike Sequence](#the-strike-sequence)” below).<span class="page-number">30</span>
 
----
+<hr id="page31">
 
 To resolve a strike, the defender makes a roll (2D6) and adds his modified prowess:
 
@@ -804,7 +804,7 @@ As presented above, a strike that fails is defeated if its body attribute is “
 
 <br><span class="page-number">31</span>
 
----
+<hr id="page32">
 
 #### Defeating an Attack
 
@@ -832,7 +832,7 @@ You and your opponent must play any cards that modify the number of strikes befo
 
 Strikes are resolved one at a time as decided by the defending player (i.e., he chooses a strike to resolve, the strike is resolved, he chooses the next strike to resolve, the strike is resolved, etc.).<span class="page-number">32</span>
 
----
+<hr id="page33">
 
 All of the factors affecting the strike must be decided before making the roll (2D6). Address these factors in the following order:
 
@@ -850,7 +850,7 @@ All of the factors affecting the strike must be decided before making the roll (
 
 <br><span class="page-number">33</span>
 
----
+<hr id="page34">
 
 <span id="page33"></span>
 
@@ -873,7 +873,7 @@ All of the factors affecting the strike must be decided before making the roll (
 
 <br><span class="page-number">34</span>
 
----
+<hr id="page35">
 
 ## 8 • CORRUPTION
 
@@ -898,7 +898,7 @@ When a card or other effect indicates that one of your characters must make a co
 
 **Nothing Happens** — If the modified result is greater than the character’s corruption point total, nothing happens. <span class="page-number">35</span>
 
----
+<hr id="page36">
 
 **The Character is Discarded** — If the modified result is equal to the character’s corruption point total **or** one less than the character’s corruption point total, the character _fails_ the corruption check and you must discard the character along with any non-follower cards he controls. In this case, if the character is a Wizard, you immediately lose the game.
 
@@ -922,19 +922,19 @@ Certain characters receive modifications to corruption checks, and certain cards
 
 <br><span class="page-number">36</span>
 
----
+<hr id="page37">
 
 ## CARD DIAGRAMS
 
 ![](/assets/images/unlimited-appendix-card-diagrams.gif)
 
----
+<hr id="page38">
 
 ## MAP OF MIDDLE-EARTH
 
 ![](/assets/images/unlimited-appendix-map.gif)
 
----
+<hr id="page39">
 
 ## REGION MAP KEY
 
@@ -995,7 +995,7 @@ Certain characters receive modifications to corruption checks, and certain cards
 
 <br><span class="page-number">37</span>
 
----
+<hr id="page38">
 
 {: .note }
 > **Example:** (CP = Corruption Points) Using the _Middle-earth: The Wizards_ terms, lets take a look at Frodo at several points during the action in _The Lord of the Rings_ between the Shire and Lorien. Frodo has a special ability: he has a corruption check modifier of +4 (as provided in the bottom right corner of his card). 
@@ -1010,13 +1010,13 @@ Certain characters receive modifications to corruption checks, and certain cards
 > 
 > Next, Frodo gets rid of the Lure of the Senses (by rolling greater than 6) and he transfers his Dagger of Westernesse. In addition, Bilbo gives him: Sting (1 CP) and The Mithril-coat (2 CPs). So Frodo’s CP total is 9 (6+1+2). If forced to make a corruption check, he is discarded on a roll of 4 or 5 and is eliminated on a roll of 2 or 3. 
 > 
-> Fortunately, the Fellowship of the Ring is formed (see the company in the example on [page 21](#direct-influence))—we will assume that two Fellowship cards (+1 to prowess and corruption checks for all characters in the company) are played initially. 
+> Fortunately, the Fellowship of the Ring is formed (see the company in the example on page [21](#page21))—we will assume that two Fellowship cards (+1 to prowess and corruption checks for all characters in the company) are played initially. 
 > 
 > So Frodo leaves Rivendell with a CP total of 9 and corruption check modifiers totaling +6 (+4 normal +2 for Fellowship). Thus, if forced to make a corruption check (without other modifications), he will be discarded on a roll of 2 or 3.
 
 <br><span class="page-number">38</span>
 
----
+<hr id="page39">
 
 ## 9 • INFLUENCE
 
@@ -1027,7 +1027,7 @@ Your _unused general influence_ is equal to 20 minus the sum of the mind attribu
 A character’s _unused direct influence_ is equal to his direct influence attribute minus the sum of the mind attributes of his followers. All characters have a direct influence attribute of at least zero, so any character has unused direct influence of at least zero.
 
 {: .note}
-> **Note:** In the Standard Game, direct influence can be used to attempt to interfere with your opponent’s control of his characters, followers, factions, allies, and items (see [pages 58-60](#9--influence-1)).
+> **Note:** In the Standard Game, direct influence can be used to attempt to interfere with your opponent’s control of his characters, followers, factions, allies, and items (see pages [58](#page58)-[60](#page60)).
 
 ### BRINGING AN ALLY INTO PLAY
 
@@ -1039,7 +1039,7 @@ In order to play a faction card, you must tap one of your characters that is at 
 
 If the modified result is greater than the value required on the faction card, you place the faction in your play area (it now counts towards your marshalling point total). Otherwise, you discard the faction card. Once a faction is brought into play, it is not controlled by any specific character and it does not count against general or direct influence.<span class="page-number">39</span>
 
----
+<hr id="page40">
 
 {: .note }
 > **Clarification:** Most faction cards list some “standard modifications” to the influence check based only upon the race of the character that was tapped to make the influence check. Similarly, certain characters have special modifications to influence checks. Such a modification only applies if it belongs to the character that was tapped to make the influence check.
@@ -1059,7 +1059,7 @@ If the modified result is greater than the value required on the faction card, y
 
 <br><span class="page-number">40</span>
 
----
+<hr id="page41">
 
 ## 10 • PLAYING AND DRAWING CARDS
 
@@ -1083,7 +1083,7 @@ A hazard limit can be modified by the play of certain cards. Tapping a Nazgul pe
 
 <br><span class="page-number">41</span>
 
----
+<hr id="page42">
 
 ### HAZARD CARDS
 
@@ -1107,7 +1107,7 @@ If a creature satisfies more than one of these conditions, you must choose (when
 
 <br><span class="page-number">42</span>
 
----
+<hr id="page43">
 
 The region types that a company moves through during a given turn are determined by the following criteria:
 
@@ -1126,7 +1126,7 @@ The region types that a company moves through during a given turn are determined
 
 <br><span class="page-number">43</span>
 
----
+<hr id="page44">
 
 ### RESOURCE CARDS
 
@@ -1155,7 +1155,7 @@ If a character is eliminated by corruption, discard all of the items that he con
 
 <br><span class="page-number">44</span>
 
----
+<hr id="page45">
 
 **Minor Items** — If a resource card that taps a site (e.g., ally, faction, item, information, etc.) is successfully played at a site, one additional character may tap to play a minor item. Such a minor item may be played even if the site does not specifically state that a minor item is playable at the site. For example, a minor item played when bringing an ally into play would simulate a gift from the ally.
 
@@ -1175,7 +1175,7 @@ An ally with a skill may take actions and play cards that require that skill. Fo
 
 <br><span class="page-number">45</span>
 
----
+<hr id="page46">
 
 ### EVENTS
 
@@ -1199,7 +1199,7 @@ You may only play a hazard long-event during your opponent’s movement/hazard p
 
 <br><span class="page-number">46</span>
 
----
+<hr id="page47">
 
 {: .note }
 > **Example:** One of Jason’s companies with a hazard limit of six is moving from Rivendell to Lorien; its site path is ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg). Jessica plays Doors of Night (a permanent-event) during Jason’s movement/hazard phase. This causes all resource environment cards in play to be discarded and their effects are canceled. This card will remain in play until it is discarded due to the play of a Gates of Morning, Twilight, or another card that targets the Doors of Night.
@@ -1223,7 +1223,7 @@ Some items and resource cards state that they can be stored when at a specific s
 
 <br><span class="page-number">47</span>
 
----
+<hr id="page48">
 
 ### TRANSFERRING ITEMS
 
@@ -1234,14 +1234,14 @@ During your organization phase, you may transfer items between characters at the
 
 ### ACTIONS AND CARD PLAY
 
-The various activities that you and your opponent can perform during play are called actions. Typical actions include playing a card, tapping a card, revealing a card, etc. The following general guidelines apply to resolving actions; more detailed guidelines can be found on [pages 61-63](#timing-rules).
+The various activities that you and your opponent can perform during play are called actions. Typical actions include playing a card, tapping a card, revealing a card, etc. The following general guidelines apply to resolving actions; more detailed guidelines can be found on pages [61](#page61)-[63](#page63).
 
  - You must give your opponent a chance to respond to every action, and vice versa. If you perform an action and move on to another action without giving your opponent a chance to respond, you must “back up” if he indicates that he wants to respond. A series of declared actions made in response to one another is called a chain of effects. You always have the option of declaring the first action in a chain of effects during your turn. The actions in a chain of effects are resolved one at a time from last declared to first declared (i.e., the last declared action is resolved first, then the second to the last, etc.).
  - If the play of a card requires other actions (e.g., corruption checks), the actions are resolved in the order in which they appear on the card.
  - A required or declared dice roll is an action and can be the target of another action or effect declared later in the same chain of effects.
  - When the effects of a dice roll require further actions (e.g., a roll for a strike requires a body check), those actions become the first actions (any further rolls come first) in the next chain of effects after the roll.<span class="page-number">48</span>
 
----
+<hr id="page49">
 
 # • PART II •<br>STANDARD RULES
 
@@ -1267,7 +1267,7 @@ In a “3-deck game” (the “long game”), the Council is called when each pl
 
 In a “4-deck game” (i.e., the “campaign game”), the Council is called when each play deck has been exhausted four times. You may call the Council when your play deck has been exhausted four times, or when it has been exhausted three times and you have at least 40 marshalling points. Increase the sideboard size to 25 cards.<span class="page-number">49</span>
 
----
+<hr id="page50">
 
 ### MARSHALLING POINT MODIFICATIONS
 
@@ -1293,10 +1293,10 @@ total in two ways:
 
 <br><span class="page-number">50</span>
 
----
+<hr id="page51">
 
 {: .note }
-> **Example:** Let’s look again at our example from [page 11](#the-free-council). Assume Jason failed to play the Men of Northern Rhovanion (3 MPs) on his last turn. Assume none of the characters failed a corruption check (i.e., they all come to the Free Council). 
+> **Example:** Let’s look again at our example from page [11](#page11). Assume Jason failed to play the Men of Northern Rhovanion (3 MPs) on his last turn. Assume none of the characters failed a corruption check (i.e., they all come to the Free Council). 
 > 
 > Jessica notices that Jason has no faction points (he blew his roll to get the Men of Northern Rhovanion). So her faction points are doubled to 4. 
 > 
@@ -1332,7 +1332,7 @@ total in two ways:
 
 <br><span class="page-number">51</span>
 
----
+<hr id="page52">
 
 ## 2 • THE CARDS AND DECKS
 
@@ -1361,7 +1361,7 @@ Alternatively, if your play deck has at least 5 cards, you may tap a Nazgul perm
 
 <br><span class="page-number">52</span>
 
----
+<hr id="page53">
 
 ## 3 • GETTING READY TO PLAY
 
@@ -1396,7 +1396,7 @@ During the organization phase, two companies may move to the same site, but one 
  - One and only one company may already be at the site. In this case the other company must state that its new site card is already in play (the current site card for the non-moving company).
  - One company moves to the site using the site path on that site card (i.e., the company starts at the site’s nearest Haven), and the other company moves to the site using region cards for its site path. In this case, both companies must state that the same face down site card is their new site card.<span class="page-number">53</span>
 
----
+<hr id="page54">
 
 In both cases, the two companies must face hazards separately and are then combined at the end of the movement/hazard phase.
 
@@ -1427,7 +1427,7 @@ To use region movement, play a new site card (face down) and a series of up to f
 - That region card is adjacent to the next region card played, … , **and**
 - Finally, the last region card played is the region that the new site card is located in.<span class="page-number">54</span>
 
----
+<hr id="page55">
 
 A region is adjacent to another region if and only if each region lists the other region on its card.
 
@@ -1449,10 +1449,10 @@ For the purposes of playing hazards, the site path for a company using region mo
 
 <br><span class="page-number">55</span>
 
----
+<hr id="page56">
 
 {: .note }
-> **Example:** Lets look at our example for movement from the Starter Game (see [page 26](#moving-from-a-haven-site)). Jessica’s company in Bree (in the Arthedain region) wants to move to Thranduil’s Halls (in the Woodland Realm region) in order to bring the Wood-elves faction into play. If she does not use region movement, this takes three turns: Bree to Rivendell, Rivendell to Lorien, and Lorien to Thranduil’s Halls. Using region movement, she can do it in 2 turns. 
+> **Example:** Lets look at our example for movement from the Starter Game (see page [26](#page26)). Jessica’s company in Bree (in the Arthedain region) wants to move to Thranduil’s Halls (in the Woodland Realm region) in order to bring the Wood-elves faction into play. If she does not use region movement, this takes three turns: Bree to Rivendell, Rivendell to Lorien, and Lorien to Thranduil’s Halls. Using region movement, she can do it in 2 turns. 
 > 
 > The shortest number of region cards required for this move is 5 and there are two possible routes:
 > 
@@ -1474,7 +1474,7 @@ An _untapped_ character that is not the target of a strike may tap to support a 
 
 <br><span class="page-number">56</span>
 
----
+<hr id="page57">
 
 {: .note }
 > **Example:** A Cave Drake (two strikes, 10/–) attacks your company which consists of the untapped characters: Bilbo, Balin, Bofur, Beretar, and Beregond.
@@ -1497,7 +1497,7 @@ Before the roll is made for a corruption check, you may tap other characters in 
 
 <br><span class="page-number">57</span>
 
----
+<hr id="page58">
 
 ## 9 • INFLUENCE
 
@@ -1521,7 +1521,7 @@ If you reveal an identical character card from your hand before making the roll 
 
 <br><span class="page-number">58</span>
 
----
+<hr id="page59">
 
 {: .note }
 > **Example:** Jessica and Jason each have one company organized as follows: 
@@ -1561,7 +1561,7 @@ To influence an opponent’s ally, you must make an influence check as outlined 
  - The result is also modified by the “unused direct influence” of the character controlling the ally. 
  - Revealing an identical ally card reduces the ally’s mind attribute to 0 and allows you to play the card if the influence check is successful.<span class="page-number">59</span>
 
----
+<hr id="page60">
 
 #### Influencing an Opponent’s Follower
 
@@ -1590,7 +1590,7 @@ To influence an opponent’s item, you must make an influence check as outlined 
 
 <br><span class="page-number">60</span>
 
----
+<hr id="page61">
 
 ## 10 • PLAYING AND DRAWING CARDS
 
@@ -1612,7 +1612,7 @@ The card will remain on that site until one of the following occurs:
  
 In the first two cases, the card is handled as if it had been played during the movement-hazard phase (i.e., short-events are discarded, long-events last until your opponent’s next long-event phase, etc.).<span class="page-number">61</span>
 
----
+<hr id="page62">
 
 {: .note }
 > **Example:** After visiting Thranduil’s Halls, Jessica’s company moves to The Lonely Mountain. During her movement/hazard phase, Jason places a card on-guard. The card is Awaken Denizens, but Jessica does not know that. This card doubles the # of strikes for an automatic-attack at a Ruins & Lairs site.
@@ -1635,7 +1635,7 @@ Your opponent may always declare an action in response before your action is res
 
 You must give your opponent a chance to respond to every action, and vice versa. If you perform an action and move on to another action<span class="page-number">62</span>
 
----
+<hr id="page63">
 
 without giving your opponent a chance to respond, you must “backup” if he indicates that he wants to respond.
 
@@ -1658,7 +1658,7 @@ An action in a chain of effects is negated if the conditions required to perform
 
 <br><span class="page-number">63</span>
 
----
+<hr id="page64">
 
 # • PART III •<br/>OPTIONAL RULES
 
@@ -1680,7 +1680,7 @@ Except for the guidelines presented in this section, a multi-player game (3-5 pl
 
 **Victory Conditions:** The normal rules are used for victory conditions and to determine when the game ends. However, when a player calls the Free Council, each of the other players gets to take one final turn. If a player’s Wizard is eliminated, that player is out of the game; however, the game only ends in this manner if only one player is left in the game. The doubling of your marshalling points based on a MP type only applies if none of your opponents has a card in play of that type.<span class="page-number">64</span>
 
----
+<hr id="page65">
 
 **Getting Ready to Play:** Before the players set up their decks for play, each player makes a roll (reroll all ties). When play starts, the second highest roller will sit to the left of the high roller, the third highest roller will sit to the left of the second highest roller, etc.
 
@@ -1700,7 +1700,7 @@ Twilight cards can be played at any time by any player. Permanent-events, long-e
 
 _Middle-earth: The Wizards Companion_ provides some expanded, variant multi-player rules.<span class="page-number">65</span>
 
----
+<hr id="page66">
 
 ### SOLITAIRE RULES
 
@@ -1714,7 +1714,7 @@ _Middle-earth: The Wizards Companion_ provides some expanded, variant multi-play
 
 _Middle-earth: The Wizards Companion_ provides some expanded, variant solitaire rules.<span class="page-number">66</span>
 
----
+<hr id="page67">
 
 ## CREDITS
 
@@ -1748,7 +1748,7 @@ _Middle-earth: The Wizards Companion_ provides some expanded, variant solitaire 
 **Special Thanks:** Peter Adkison, Laurie Battle, Will & Schar Niebling, Danny Kilbert, Bob Carty, Mike Davis, Lou Rexing, Wayne Godfrey, Gary E. Smith, the Chessex crews, the InQuest crew and our on-line friends, especially the {TFF Folder}.  
 **Playtesting Credits:** James Andrews, Christian Antonini, Kevin Barrett, D. Begiebing, Guy Botero, Brian Bouton, Jay Bryan, Brian Carr, Waldon Chisholm, Silvio Negri Clementi, Frank Coker, Jessica Colborn, R. Mark Colborn, Philip DeLuca, D. Dennis, Bernd Dietrich, Bill Edwards, O. Estefania, Klaus Etzold, Andrea Fattori, K. Fischer, Luigi Lo Forti, Scott Frazer, Wendy Frazer, Madai Frey, Matthew Fulton, Kevin Garber, Eduard Garcia, David Glenn, Jesse Goldstein, O. Johnston, Robert Kelly, Ralph Kennedy, Oscar Lafuente, Nick Laiacona, Steve Marvin, F. Navarro, Will Niebling, William Niebling, Elmar Perkuhn, D. Platnick, Frank Pfeifer, Jeffrey C. Riley, Cory John Rueb, Francesc Matas Salla, Doug Schnur, Jason Smith, Lowell Stouder, Henri Jean Vanaise, J.L. Viadel, D. Villanueva, Dave Weinstein, James Whitehouse, M. Wilson, Darrell Zuercher, Steven Balbo & “The Arcane Circle,” J.L. Martinez & the Heroe Research Group, the Berkeley Games crew.<span class="page-number">67</span>
 
----
+<hr id="page68">
 
 ## FULL PLAYER TURN SUMMARY
 
@@ -1772,7 +1772,7 @@ The following actions may be taken in any order:
  - Each of your companies may do one of the following:
       - Stay at its current site.
       - Play another site (face down) that can be moved to (i.e., reached) directly from the company’s current site. This is the company’s new site card.
-      - _Standard Rules Only:_ Play a new site card and a series of up to four specific regions that connect the current site with the new site. (See [pages 54-56](#region-movement).)
+      - _Standard Rules Only:_ Play a new site card and a series of up to four specific regions that connect the current site with the new site. (See pages [54](#page54)-[56](#page56).)
 
 ### Long-event Phase
 
@@ -1787,7 +1787,7 @@ Finally, remove all of your opponent’s hazard long-events.
 
 <br><span class="page-number">68</span>
 
----
+<hr id="page69">
 
 ### Movement/Hazard Phase
 
@@ -1798,7 +1798,7 @@ Follow this procedure for each of your companies. You decide which of your compa
  3. Your opponent plays hazards on the company—each hazard is resolved as indicated in its text. These hazards are played and resolved one at a time and in some cases may not directly affect the company. A hazard may not be played if it targets a different company or a character in a different company.<br>If the company is not moving, hazard creatures may only be keyed to the company’s site of origin. Hazard creatures must be “keyed to” the moving company’s site path and/or new site. If a creature is keyed to more than one region type and/or site type that applies, your opponent decides which one is used.<br>The maximum number of hazards that may be played on a company during a given movement/hazard phase (i.e., the hazard limit) is equal to the size of the company _or_ two, whichever is larger (Hobbits count half, round up). The hazard limit is determined for each company at the beginning of the movement/hazard phase (e.g., it remains fixed).
  4. If the company has been required to return to its site of origin, return the new site card to the location deck (or discard if it is tapped) and proceed to step 6 (the site of origin becomes its current site). No additional hazards may be played on that company.<span class="page-number">69</span>
 
----
+<hr id="page70">
 
 {:style="counter-reset:step-counter 4"}
  5. Remove the company’s site of origin (i.e., the site the company came from). Discard the site card if it is tapped and not a Haven. Otherwise, return it to the location deck. At this point, the company is considered to have arrived at the new site (i.e., its new site becomes its site of origin). _Standard Rules Only:_ Return any region cards to the location deck.
@@ -1820,15 +1820,13 @@ In the order you decide (i.e., you decide which goes first, second, etc.), each 
 **End-of-Turn Phase**
 You may discard one card. Then you must draw or discard cards until your hand has 8 cards. Your opponent does the same.<span class="page-number">70</span>
 
----
+<hr id="page71">
 
 ## INDEX
 
-
-
 <br><span class="page-number">71</span>
 
----
+<hr id="page72">
 
 ## SYMBOL KEY
 
@@ -1868,4 +1866,4 @@ Dark-domains  |  ![](/assets/images/dark-domain.svg)
  Other resource cards  |   varies
  Hazard cards    |    varies
 
----
+<hr id="page73">
