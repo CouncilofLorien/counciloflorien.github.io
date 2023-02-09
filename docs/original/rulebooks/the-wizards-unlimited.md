@@ -41,7 +41,9 @@ In _The Lord of the Rings_, Gandalf was the only Wizard to succeed. Saruman was 
 “Evil forces” are represented by _hazards_ that the players use against one another. For example, if you move a character into Moria, your opponent could play a Troll card as a hazard. These hazards are not “controlled” by the Wizards, but rather they represent the forces of Sauron, who himself is in a “dormant” or hiding phase. All players are “good,” so conflict takes the form of hazards and direct attempts to “persuade” or “dominate” each other and each other’s characters and forces, rather than the form of direct conflict. 
 
 {: .note }
-> **Note:** For purposes of readability, these rules use the standard masculine pronouns when referring to a person of uncertain gender. In such cases, these pronouns are intended to convey the meanings: she/he, him/her, etc.<span id="page2" class="page-number">2</span>
+> **Note:** For purposes of readability, these rules use the standard masculine pronouns when referring to a person of uncertain gender. In such cases, these pronouns are intended to convey the meanings: she/he, him/her, etc.
+
+<span id="page2" class="page-number">2</span>
 
 ---
 
@@ -95,6 +97,7 @@ If you have played other collectible card games (CCG), there are several key fac
 
 {: .note }
 > **Clarification:** The card, Twilight, is an exception to this rule—it can be played at anytime, either as a resource or as a hazard (it does not count against the hazard limit). Certain other cards specifically state when they may be played.
+
 <span id="page5" class="page-number">5</span>
 
 ---
@@ -191,6 +194,7 @@ The game ends when one of the following occurs during play:
 
 {: .note } 
 > **Note:** If one or both players only has access to a starter deck (76 cards), this requirement of 20 marshalling points should be lowered to 18. 
+
 <span id="page9" class="page-number">9</span>
 
 ---
@@ -222,6 +226,7 @@ Marshalling points are printed on the top left corner of the cards that award th
 > **Note:** You may find it useful to use pencil and paper or extra dice to keep a running total of marshalling points.
 > 
 > **Clarification:** If both players have the same number of marshalling points at the Free Council, the game ends in a tie—both players win (if you have to, roll dice and the high roller is the winner).
+
 <span id="page10" class="page-number">10</span>
 
 ---
@@ -1092,6 +1097,9 @@ You may only play a hazard long-event during your opponent’s movement/hazard p
 
 {: .note }
 > **Clarification:** The effects of many long-events and permanent-events affect both players because they can remain in effect during both players’ turns. So remember, when you play a long-event hazard on your opponent during his turn, it will remain in effect during your next turn. For example, Awaken Denizens (a long-event) increases the number of automatic-attack strikes at Ruins & Lairs for one turn for each player.
+<span id="page46" class="page-number">46</span>
+
+---
 
 {: .note }
 > **Example:** One of Jason’s companies with a hazard limit of six is moving from Rivendell to Lorien; its site path is ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg). Jessica plays Doors of Night (a permanent-event) during Jason’s movement/hazard phase. This causes all resource environment cards in play to be discarded and their effects are canceled. This card will remain in play until it is discarded due to the play of a Gates of Morning, Twilight, or another card that targets the Doors of Night.
@@ -1112,6 +1120,9 @@ Some items and resource cards state that they can be stored when at a specific s
 > **Clarification:** Certain cards state that a character bearing such a card cannot untap until the card is stored at a certain place. After storing such a card, the character does not untap until the untap phase of his player’s next turn. 
 > 
 > **Clarification:** Unless stated otherwise on the card, the marshalling points for a card that can be stored apply regardless of whether or not the card is stored.
+<span id="page47" class="page-number">47</span>
+
+---
 
 ### TRANSFERRING ITEMS
 
@@ -1127,7 +1138,9 @@ The various activities that you and your opponent can perform during play are ca
  - You must give your opponent a chance to respond to every action, and vice versa. If you perform an action and move on to another action without giving your opponent a chance to respond, you must “back up” if he indicates that he wants to respond. A series of declared actions made in response to one another is called a chain of effects. You always have the option of declaring the first action in a chain of effects during your turn. The actions in a chain of effects are resolved one at a time from last declared to first declared (i.e., the last declared action is resolved first, then the second to the last, etc.).
  - If the play of a card requires other actions (e.g., corruption checks), the actions are resolved in the order in which they appear on the card.
  - A required or declared dice roll is an action and can be the target of another action or effect declared later in the same chain of effects.
- - When the effects of a dice roll require further actions (e.g., a roll for a strike requires a body check), those actions become the first actions (any further rolls come first) in the next chain of effects after the roll.
+ - When the effects of a dice roll require further actions (e.g., a roll for a strike requires a body check), those actions become the first actions (any further rolls come first) in the next chain of effects after the roll.<span id="page48" class="page-number">48</span>
+
+---
 
 # • PART II •<br>STANDARD RULES
 
@@ -1151,7 +1164,9 @@ In a “3-deck game” (the “long game”), the Council is called when each pl
 
 #### The 4-deck Game
 
-In a “4-deck game” (i.e., the “campaign game”), the Council is called when each play deck has been exhausted four times. You may call the Council when your play deck has been exhausted four times, or when it has been exhausted three times and you have at least 40 marshalling points. Increase the sideboard size to 25 cards.
+In a “4-deck game” (i.e., the “campaign game”), the Council is called when each play deck has been exhausted four times. You may call the Council when your play deck has been exhausted four times, or when it has been exhausted three times and you have at least 40 marshalling points. Increase the sideboard size to 25 cards.<span id="page49" class="page-number">49</span>
+
+---
 
 ### MARSHALLING POINT MODIFICATIONS
 
@@ -1174,6 +1189,9 @@ total in two ways:
 
 {: .note }
 > **Clarification:** These marshalling point modifications do not apply until the Free Council actually takes place. Specifically, the modifications do not affect your marshalling point total when it is used to determine if you can call the Free Council (i.e., you need 20 MPs to call the Free Council before any of these modifications are made).
+<span id="page50" class="page-number">50</span>
+
+---
 
 {: .note }
 > **Example:** Let’s look again at our example from [page 11](#the-free-council). Assume Jason failed to play the Men of Northern Rhovanion (3 MPs) on his last turn. Assume none of the characters failed a corruption check (i.e., they all come to the Free Council). 
@@ -1209,6 +1227,9 @@ total in two ways:
 > **Total**  | **14**  | **12**
 > 
 > At this point, Jason reveals that he has cards for Gwaihir, Legolas, and Elrohir in his hand (he was saving them for this). Since they duplicate three of Jessica’s unique MP cards, her MP total is reduced by one for each of these cards. Thus, Jessica ends up with 14 MPs and Jason ends up with 12 MPs— Jessica wins. Jason curses his luck because he failed to bring the Men of Northern Rhovanion into play on his last turn.
+<span id="page51" class="page-number">51</span>
+
+---
 
 ## 2 • THE CARDS AND DECKS
 
@@ -1234,17 +1255,20 @@ Alternatively, if your play deck has at least 5 cards, you may tap a Nazgul perm
 > **Clarification:** Your opponent may verify how many cards move to and from your sideboard, but you do not have to reveal what those cards are. 
 > 
 > **Clarification:** Your combined play deck and sideboard cannot violate the 1 unique card and 3 non-unique card limit. However, there is no restriction on the mix of hazards, resources, and characters in your sideboard. That is, for the purposes of your sideboard, you can ignore the play deck restrictions: the limit of 10 characters and the 50/50 resource/hazard mix.
+<span id="page52" class="page-number">52</span>
+
+---
 
 ## 3 • GETTING READY TO PLAY
 
-Add your region cards to your location deck. See [pages 54-56](#region-movement) for more information on how to use these cards.
+Add your region cards to your location deck. See pages 54-56 for more information on how to use these cards.
 
 {: .note }
 > **Note:** For play balance, we recommend both players have access to approximately the same number of region cards. If this cannot be achieved, region cards should not be used.
 
 ## 4 • THE PLAYER TURN
 
-The [Full Player Turn Summary](#full-player-turn-summary) is presented on [pages 68-70](#full-player-turn-summary).
+The Full Player Turn Summary is presented on pages 68-70.
 
 ## 5 • CHARACTERS & COMPANIES
 
@@ -1266,7 +1290,9 @@ During the organization phase, a company at a non-haven site may split into two 
 During the organization phase, two companies may move to the same site, but one of the following cases must apply:
 
  - One and only one company may already be at the site. In this case the other company must state that its new site card is already in play (the current site card for the non-moving company).
- - One company moves to the site using the site path on that site card (i.e., the company starts at the site’s nearest Haven), and the other company moves to the site using region cards for its site path. In this case, both companies must state that the same face down site card is their new site card.
+ - One company moves to the site using the site path on that site card (i.e., the company starts at the site’s nearest Haven), and the other company moves to the site using region cards for its site path. In this case, both companies must state that the same face down site card is their new site card.<span id="page53" class="page-number">53</span>
+
+---
 
 In both cases, the two companies must face hazards separately and are then combined at the end of the movement/hazard phase.
 
@@ -1295,7 +1321,9 @@ To use region movement, play a new site card (face down) and a series of up to f
 - The current (i.e., site of origin) site is located in the first region, **and**
 - That region card is adjacent to the next region card played, **and**
 - That region card is adjacent to the next region card played, … , **and**
-- Finally, the last region card played is the region that the new site card is located in.
+- Finally, the last region card played is the region that the new site card is located in.<span id="page54" class="page-number54"></span>
+
+---
 
 A region is adjacent to another region if and only if each region lists the other region on its card.
 
@@ -1314,6 +1342,9 @@ For the purposes of playing hazards, the site path for a company using region mo
 > **Clarification:** Region movement can be more dangerous to use than normal movement—certain creatures can be played keyed to specific region cards.
 > 
 > For example, suppose you decide to move a company from Lorien to the Easterling Camp using the region cards: Wold & Foothills (![](/assets/images/wilderness.svg)), Brown Lands (![](/assets/images/shadow-land.svg)), Dagorlad (![](/assets/images/shadow-land.svg)), and Horse Plains (![](/assets/images/shadow-land.svg)). The region types traveled through are the same as the site path used in normal movement between Lorien and the Easterling Camp (as given on the Easterling Camp site card)—so the same creatures may be played against the company based on region type. Adunaphel (a Nazgul) card normally can only be played keyed to dark-holds and dark-domains, but it also states that it can be played keyed to Dagorlad (and the Brown Lands). Thus, Adunaphel could be played on this company as it moves through Dagorlad. Similarly, Indur Dawndeath and Khamul the Easterling could also be played. 
+<span id="page55" class="page-number">55</span>
+
+---
 
 {: .note }
 > **Example:** Lets look at our example for movement from the Starter Game (see [page 26](#moving-from-a-haven-site)). Jessica’s company in Bree (in the Arthedain region) wants to move to Thranduil’s Halls (in the Woodland Realm region) in order to bring the Wood-elves faction into play. If she does not use region movement, this takes three turns: Bree to Rivendell, Rivendell to Lorien, and Lorien to Thranduil’s Halls. Using region movement, she can do it in 2 turns. 
