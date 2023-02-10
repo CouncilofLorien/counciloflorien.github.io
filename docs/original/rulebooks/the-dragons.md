@@ -21,6 +21,8 @@ CONTENTS
 
 | [KEY WORDS AND TERMS (_Clarification_)](#key-words-and-terms-clarification)<br>[DRAGON LAIRS](#dragon-lairs)<br>[HOARDS](#hoards)<br>[MANIFESTATIONS OF DRAGONS](#manifestations-of-dragons)<br>[HAZARD LIMIT (_Clarification_)](#hazard-limit-clarification) | [CHARACTERS FACING MULTIPLE STRIKES](#characters-facing-multiple-strikes)<br>[REMOVING CORRUPTION CARDS](#removing-corruption-cards)<br>[THE SIDEBOARD](#the-sideboard)<br>[REGION MOVEMENT LIMITATION](#region-movement-limitation)<br>[MANY A GLEAMING GOLDEN HOARD](#many-a-gleaming-golden-hoard) |
 
+<hr id="page1">
+
 This insert provides expansion rules, clarifications, and a scenario for use with both _Middle-earth: The Wizards_ (_METW_) and _Middle-earth: The Dragons_ (_METD_). These rules are recommended for all _METW_ games even if _METD_ is not used.
 
 ### KEY WORDS AND TERMS (_Clarification_)
@@ -47,7 +49,7 @@ Scatha  |  Gondmaeglom  |  Grey Mountain Narrows
 Scorba  | Zarak Dum  | Angmar
 Smaug  |  The Lonely Mountain  |  Northern Rhovanion
 
-<br><span class="page-number"1</span>
+<br><span class="page-number">1</span>
 
 <hr id="page2">
 
