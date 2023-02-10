@@ -497,7 +497,7 @@ When a card indicates that one of your characters must make a corruption check, 
 
 ![](/assets/images/limited-appendix-card-images.gif)
 
-<span class="page-number">23/26</span>
+<br><span class="page-number">23/26</span>
 
 <hr id="page24">
 
@@ -505,7 +505,7 @@ When a card indicates that one of your characters must make a corruption check, 
 
 ![](/assets/images/limited-appendix-map.gif)
 
-<span class="page-number">24/25</span>
+<br><span class="page-number">24/25</span>
 
 <hr id="page27">
 
