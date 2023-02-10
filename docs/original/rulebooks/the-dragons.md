@@ -47,6 +47,10 @@ Scatha  |  Gondmaeglom  |  Grey Mountain Narrows
 Scorba  | Zarak Dum  | Angmar
 Smaug  |  The Lonely Mountain  |  Northern Rhovanion
 
+<br><span class="page-number"1</span>
+
+<hr id="page2">
+
 ### HOARDS
 
 Certain items are _hoard items_. Such an item may only be played at a site that contains a hoard. Each site with a Dragon automatic-attack (i.e., each Dragon's lair) contains a hoard. A hoard minor item may not be included with a starting company, and may not be played at a site that does not contain a hoard.
@@ -66,7 +70,9 @@ Each of the nine unique Dragons (see above) has three different _manifestations_
 
 Different manifestations of the same Dragon may be in play at the same time. The fact that each manifestation is unique unto itself does not preclude the other manifestations.
 
-Only your opponent can receive marshalling points from defeating a manifestation of a Dragon that you played. If you defeat a Dragon manifestation that you played, it is removed from the game and no one receives its marshalling points.
+Only your opponent can receive marshalling points from defeating a manifestation of a Dragon that you played. If you defeat a Dragon manifestation that you played, it is removed from the game and no one receives its marshalling points.<span class="page-number">2</span>
+
+<hr id="page3">
 
 If at any time an attack from a manifestation of a unique Dragon is defeated or if the manifestation is otherwise removed from the game:
 
@@ -85,7 +91,9 @@ The base hazard limit is determined (i.e., set) simultaneously at the moment a c
 
 ### CHARACTERS FACING MULTIPLE STRIKES
 
-When certain _Middle-earth: The Dragons_ cards are played, a character may be assigned to receive more than one strike from a given attack. Such a character must face a strike sequence for each strike he is assigned to face. If a character is tapped or wounded following one of these strike sequences, he must then accordingly modify his prowess for any following strike sequences. If a character is eliminated or otherwise removed from play before he has faced all of his assigned strikes, those strikes he has yet to face are then considered to be cancelled (i.e., they have no further effect).
+When certain _Middle-earth: The Dragons_ cards are played, a character may be assigned to receive more than one strike from a given attack. Such a character must face a strike sequence for each strike he is assigned to face. If a character is tapped or wounded following one of these strike sequences, he must then accordingly modify his prowess for any following strike sequences. If a character is eliminated or otherwise removed from play before he has faced all of his assigned strikes, those strikes he has yet to face are then considered to be cancelled (i.e., they have no further effect).<span class="page-number">3</span>
+
+<hr id="page4">
 
 ### REMOVING CORRUPTION CARDS
 
@@ -104,9 +112,9 @@ At the end of your opponent's untap phase, if your opponent's Wizard is in play,
 
 ### REGION MOVEMENT LIMITATION
 
-Normally, a company moving with region movement may lay down a maximum of four region cards. If a company moving with region movement is using effects that allows additional region cards to be laid down, no more than six regions may be used.
+Normally, a company moving with region movement may lay down a maximum of four region cards. If a company moving with region movement is using effects that allows additional region cards to be laid down, no more than six regions may be used.<span class="page-number">4</span>
 
----
+<hr id="page5">
 
 # MANY A GLEAMING GOLDEN HOARD
 
@@ -126,9 +134,9 @@ Each player is attempting to acquire and store "lost treasures." A lost treasure
 
 ### Victory Conditions
 
-The first player to store five lost treasures wins immediately. If both players have a limited collection of _METD_ cards or want to play a shorter game, this requirement can be reduced to only 2, 3, or 4 lost treasures. For a longer game, you can require that the winner also defeat one or two unique Dragons.
+The first player to store five lost treasures wins immediately. If both players have a limited collection of _METD_ cards or want to play a shorter game, this requirement can be reduced to only 2, 3, or 4 lost treasures. For a longer game, you can require that the winner also defeat one or two unique Dragons.<span class="page-number">5</span>
 
----
+<hr id="page6">
 
 ## CREDITS
 
@@ -145,6 +153,6 @@ The first player to store five lost treasures wins immediately. If both players 
 **Proofreading:** D. Begiebing, J. Curtis III, W. Frazer, J. Ney-Grimm, D. Platnick  
 **Playtesting Credits:** The Arcane Circle. Deb Baedke, Neal Baedke, Richard Clyne, Eric DeBlackmere, B. Dietrich, Scott Forehand, S. Frazer. W. Frazer, A. Gunther, Joel Hedges, Larry Hughes, Mike Lowery, Todd McGovern, Eric McLuen, John Miceli, B. Mohney, C. O'Brien, Elmar Perkuhn, E. Peterson, Harry Schifflet, James Stellmach, Michael Sloan, Jimmy Twofeathers,
 J. Whitehouse, Jon Whitney, and Mark Wightman  
-**Additional credits** can be found in the _Middle-earth: The Wizards_ rulesbook (due to space limitations, we were unable to include them here).
+**Additional credits** can be found in the _Middle-earth: The Wizards_ rulesbook (due to space limitations, we were unable to include them here).<span class="page-number">6</span>
 
 ---
