@@ -114,7 +114,9 @@ To get a general idea of how to play, read the Starter Rules sections that are m
  - When each play deck has been exhausted once, the council starts at the end of the current turn.
  - After you have exhausted your play deck for the first time, you may choose to call the council at the end of any of your turns. The council starts at the end of your opponent's next turn (i.e., your opponent gets one last turn).
  - You may choose to call the council at the end of your turn if you have accumulated at least 20 marshalling points. The council starts at the end of your opponent's next turn (i.e., your opponent gets one last turn).
- > **Note:** _If one or both players only has access to a starter deck (76 cards), this requirement of 20 marshalling points should be lowered to 18._ <span class="page-number">6</span>
+ > **Note:** _If one or both players only has access to a starter deck (76 cards), this requirement of 20 marshalling points should be lowered to 18._ 
+
+<br><span class="page-number">6</span>
 
 <hr id="page7">
 
