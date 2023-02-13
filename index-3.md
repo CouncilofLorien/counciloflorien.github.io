@@ -2,7 +2,7 @@
 layout: default
 search_exclude: true
 nav_exclude: true
-permalink: /
+permalink: /index3
 ---
 
 {: .text-center .mt-2 }
