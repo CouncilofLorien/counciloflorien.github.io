@@ -147,7 +147,7 @@ Especially new and succulent information is marked with \*s.
 **A**: Yes, he does.
 
 **Q**: Can I play _Twilight_ on a card that has not resolved yet?  
-**A**: Yes, _Twiligh_t may target a card played earlier in the same chain of effects.
+**A**: Yes, _Twilight_ may target a card played earlier in the same chain of effects.
 
 **Q**: Can I play _Twilight_ as a resource during my opponent's turn?  
 **A**: Yes.  If you do so _Twilight_ does not count against the hazard limit for that company.
