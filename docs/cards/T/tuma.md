@@ -25,7 +25,7 @@ permalink: /cards/tuma/
 > Warrior Troll
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ _Manifestation of "Tom"._ May not be included with a starting company. May be played on the same turn Burat and/or Wuluag is played. Discard on a body check result of 8. +1 prowess against Dwarves. Tap Tuma to untap Burat or Wuluag if at the same site. If Burat and/or Wuluag is in his company, Tuma's mind is reduced by one.   
+> > _**Unique.**_ _Manifestation of "Tom."_ May not be included with a starting company. May be played on the same turn _Burat_ and/or _Wuluag_ is played. Discard on a body check result of 8. +1 prowess against Dwarves. Tap _Tuma_ to untap _Burat_ or _Wuluag_ if at the same site. If _Burat_ and/or _Wuluag_ is in his company, _Tuma's_ mind is reduced by one.   
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Any non-Under-deeps Ruins & Lairs 

@@ -23,4 +23,7 @@ permalink: /cards/the-great-eye/
 >
 > {: .minion-resource-text .black-text .p-2 }
 > > ***Playable if you are Sauron.*** The hazard limit against all companies is decreased by one (to a minimum of two). If this card is in play, you can discard it to target and cancel the play of a hazard event played by your opponent before it resolves. This cannot be used against an on-guard card. Cannot be duplicated. 
+> > 
+> > {: .fs-3 } 
+> > _“‘...a dirty treacherous fool. But the Great Eye is on him.’”_ ***---&#65279;LotRIII*** 
 > 

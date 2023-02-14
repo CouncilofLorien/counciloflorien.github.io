@@ -74,7 +74,7 @@ permalink: /cards/dancing-spire/
 > > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon --- 2 strikes with 11 prowess  
 > > 
 > > {: .fs-3 } 
-> > _“...he knew how evil and danger had thriven in the Wild, since the dragons had driven men from the lands...”_ ***---&#65279;LotR*** 
+> > _“...he knew how evil and danger had thriven in the Wild, since the dragons had driven men from the lands...”_ ***---&#65279;Hob*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

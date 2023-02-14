@@ -65,7 +65,7 @@ permalink: /cards/lorien/
 > Wold & Foothills
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur  <br>_**Playable:**_ Information, Items (minor, major, greater, gold ring) <br>Automatic-attacks (3):  Elves --- 4 strikes with 8 prowess <br>Elves --- 3 strikes with 9 prowess <br>Elves --- 2 strikes with 10 prowess <br>_**Special:**_ Any company moving to this site has its hazard limit increased by 2. A minion company may not attack another company at this site. A Ringwraith may not move to the site. 
+> > ***Nearest Darkhaven:*** Dol Guldur  <br>_**Playable:**_ Information, Items (minor, major, greater, gold ring) <br>***Automatic-attacks (3):***  <br>Elves --- 4 strikes with 8 prowess <br>Elves --- 3 strikes with 9 prowess <br>Elves --- 2 strikes with 10 prowess <br>_**Special:**_ Any company moving to this site has its hazard limit increased by 2. A minion company may not attack another company at this site. A Ringwraith may not move to the site. 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;4&ensp;</span></div>

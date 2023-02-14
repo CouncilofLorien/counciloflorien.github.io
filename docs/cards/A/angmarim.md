@@ -22,7 +22,7 @@ permalink: /cards/angmarim/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Manifestation of minion Angmarim._ ***Playable at Carn Dum*** <br>&ensp;if the influence check is greater than 11 (_Muster_ has no effect on this attempt). <br>_Standard Modifications:_ Wizards (-5), Men (+1). 
+> > _**Unique.**_ _Manifestation of minion Angmarim._ &ensp;***Playable at Carn Dum*** <br>&ensp;if the influence check is greater than 11 (_Muster_ has no effect on this attempt). <br>_Standard Modifications:_ Wizards (-5), Men (+1). 
 > > 
 > > {: .fs-3 } 
 > > _“‘They sought refuge from the vile creatures spawned by the Shadow.’”_ ***---&#65279;Kuduk&nbsp;Lore*** 

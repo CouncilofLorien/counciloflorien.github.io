@@ -22,5 +22,5 @@ permalink: /cards/leucaruth-roused/
 > Dragon Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Manifestation of Leucaruth._ ***Playable at Irerock*** if the influence check is greater than 12. _Modifications:_ influencer discards a major item (+3) or a greater item (+6). All attacks by manifestations of _Leucaruth_ against any of your companies are canceled. Any company moving in Withered Heath, Northern Rhovanion, Iron Hills, and/or Grey Mountain Narrows faces one attack: Dragon --- two strikes at 16/8 prowess/body. 
+> > _**Unique.**_ _Manifestation of Leucaruth._ ***Playable at Irerock*** if the influence check is greater than 12. _Modifications:_ influencer discards a major item (+3) or a greater item (+6). All attacks by manifestations of Leucaruth against any of your companies are canceled. Any company moving in Withered Heath, Northern Rhovanion, Iron Hills, and/or Grey Mountain Narrows faces one attack: Dragon --- two strikes at 16/8 prowess/body. 
 > 

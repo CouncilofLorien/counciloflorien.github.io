@@ -22,5 +22,5 @@ permalink: /cards/bairanax-roused/
 > Dragon Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Manifestation of Bairnanax._ ***Playable at Ovir Hollow*** <br>&ensp;if the influence check is greater than 11. _Modifications:_ influencer discards a major item (+3) or a greater item (+6). All attacks by manifestations of _Bairanax_ against any of your companies are canceled. Any company moving in Withered Heath, Gundabad, Anduin Vales, and/or Grey Mountain Narrows faces one attack: Dragon --- two strikes at 14/7 prowess/body (attacker chooses defending characters). 
+> > _**Unique.**_ _Manifestation of Bairnanax._ ***Playable at Ovir Hollow*** if the influence check is greater than 11. _Modifications:_ influencer discards a major item (+3) or a greater item (+6). All attacks by manifestations of Bairanax against any of your companies are canceled. Any company moving in Withered Heath, Gundabad, Anduin Vales, and/or Grey Mountain Narrows faces one attack: Dragon --- two strikes at 14/7 prowess/body (attacker chooses defending characters). 
 > 

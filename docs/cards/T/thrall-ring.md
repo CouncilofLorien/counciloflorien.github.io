@@ -19,7 +19,7 @@ permalink: /cards/thrall-ring/
 > > <div class="card-name">Thrall-ring</div>
 >
 > {: .minion-resource-name .white-text .mind-di .p-1 .pl-2 }
-> > -1 ![](/assets/images/mind.svg) +1![](/assets/images/di.svg)
+> > -1 ![](/assets/images/mind.svg)&ensp;+1![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Minor Item

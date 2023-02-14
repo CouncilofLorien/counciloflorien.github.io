@@ -22,7 +22,7 @@ permalink: /cards/hail-of-darts/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > ***Playable during the organization phase on a company.*** Each character tapping in support give +3 modification to prowess instead of the normal +1. Cannot be duplicated on a given company. 
+> > ***Playable during the organization phase on a company.*** Each character tapping in support gives +3 modification to prowess instead of the normal +1. Cannot be duplicated on a given company. 
 > > 
 > > {: .fs-3 } 
 > > _“Arrows thick as the rain came whistling over the battlements...”_ ***---&#65279;LotRIII*** 

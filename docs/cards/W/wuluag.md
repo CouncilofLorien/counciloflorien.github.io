@@ -25,7 +25,7 @@ permalink: /cards/wuluag/
 > Warrior/Scout Troll
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ _Manifestation of "William"._ May not be included with a starting company. May be played on the same turn Burat and/or Tuma is played. Discard on a body check result of 8. +1 prowess against Dwarves. Tap Wuluag to untap Burat or Tuma if at the same site. If Burat and/or Tuma is in his company, Wuluag's mind is reduced by one.   
+> > _**Unique.**_ _Manifestation of "William."_ May not be included with a starting company. May be played on the same turn _Burat_ and/or _Tuma_ is played. Discard on a body check result of 8. +1 prowess against Dwarves. Tap _Wuluag_ to untap _Burat_ or _Tuma_ if at the same site. If _Burat_ and/or _Tuma_ is in his company, _Wuluag's_ mind is reduced by one.   
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Any non-Under-deeps Ruins & Lairs 

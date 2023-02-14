@@ -45,7 +45,7 @@ permalink: /cards/thrors-map/
 > > _**Unique.**_ Discard _Thror's Map_ to untap a site with a Dragon automatic-attack. 
 > > 
 > > {: .fs-3 } 
-> > _“‘He was witless and wandering, and he had forgotten almost everything except the map and the key...’”_ ***---&#65279;Hob*** 
+> > _“‘He was witless and wandering, and he had forgotten almost everything except the map and the key.’”_ ***---&#65279;Hob*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

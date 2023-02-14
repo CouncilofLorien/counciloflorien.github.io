@@ -25,5 +25,5 @@ permalink: /cards/the-dark-power/
 > > ***Playable only if you are Sauron.*** +3 to an influence check against a faction. If the check is not successful, shuffle the faction into your play deck. 
 > > 
 > > {: .fs-3 } 
-> > _“‘But don't forget the enemies don't love us any more than they love Him, and if they get topsides on Him, we're done too.’”_ ***---&#65279;LotRIV*** 
+> > _“‘But don't forget: the enemies don't love us any more than they love Him, and if they get topsides on Him, we're done too.’”_ ***---&#65279;LotRIV*** 
 > 

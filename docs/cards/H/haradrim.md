@@ -22,7 +22,7 @@ permalink: /cards/haradrim/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Manifestation of minion Haradrim._ ***Playable at Southron Oasis*** <br>&ensp;if the influence check is greater than 9. <br>_Standard Modifications:_ Wizards (-5), Dunedain (-2), Elves (-2), Dwarves (-2). 
+> > _**Unique.**_ _Manifestation of minion Haradrim._ &ensp;***Playable at Southron Oasis*** <br>&ensp;if the influence check is greater than 9. <br>_Standard Modifications:_ Wizards (-5), Dunedain (-2), Elves (-2), Dwarves (-2). 
 > > 
 > > {: .fs-3 } 
 > > _“‘They eat as well as anyone, for they trade at the crossroads of great roads and powerful kingdoms.’”_ ***---&#65279;Kuduk&nbsp;Lore*** 

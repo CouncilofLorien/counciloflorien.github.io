@@ -22,5 +22,5 @@ permalink: /cards/enchanted-stream/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > ***Playable on a moving company with at least one Wilderness*** \[![](/assets/images/wilderness.svg)] ***in its site path.*** A ranger in the company can tap to cancel tis card before it resolves. The company cannot voluntarily split or move to a new site unless it taps all of its untapped characters to a maximum of two during tits organization phase. Discard during any organization phase if the company is at a Haven \[![](/assets/images/free-haven.svg)]/Darkhaven \[![](/assets/images/dark-haven.svg)]. 
+> > ***Playable on a moving company with at least one Wilderness*** \[![](/assets/images/wilderness.svg)] ***in its site path.*** A ranger in the company can tap to cancel this card before it resolves. The company cannot voluntarily split or move to a new site unless it taps all of its untapped characters to a maximum of two during its organization phase. Discard during any organization phase if the company is at a Haven/Darkhaven \[![](/assets/images/dark-haven.svg)]. 
 >
