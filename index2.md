@@ -3,7 +3,7 @@ layout: default
 description: "The Council of Lórien provides Rulebooks, Guides, and Aids for playing the Middle-earth Collectible Card Game." 
 search_exclude: true
 nav_exclude: true
-permalink: /
+permalink: /index2/
 ---
 
 {: .text-center .mt-2 }
