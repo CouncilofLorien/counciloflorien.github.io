@@ -305,12 +305,12 @@ $stage-resource-text-300: #f2edde;
   color: white;
   background-color: #5b5b5b;
   font-weight: bold;
-  display: inline-block;
-  -moz-transform: scale(-1, -1);
-  -webkit-transform: scale(-1, -1);
-  -o-transform: scale(-1, -1);
-  -ms-transform: scale(-1, -1);
-  transform: scale(-1, -1);
+  // display: inline-block;
+  // -moz-transform: scale(-1, -1);
+  // -webkit-transform: scale(-1, -1);
+  // -o-transform: scale(-1, -1);
+  // -ms-transform: scale(-1, -1);
+  // transform: scale(-1, -1);
 }
 
 .minion-you-draw {
@@ -322,13 +322,13 @@ $stage-resource-text-300: #f2edde;
 .minion-opp-draw {
   color: white;
   background-color: #5b5b5b;
-  display: inline-block;
   font-weight: bold;
-  -moz-transform: scale(-1, -1);
-  -webkit-transform: scale(-1, -1);
-  -o-transform: scale(-1, -1);
-  -ms-transform: scale(-1, -1);
-  transform: scale(-1, -1);
+  // display: inline-block;
+  // -moz-transform: scale(-1, -1);
+  // -webkit-transform: scale(-1, -1);
+  // -o-transform: scale(-1, -1);
+  // -ms-transform: scale(-1, -1);
+  // transform: scale(-1, -1);
 }
 
 .white-text {
