@@ -65,7 +65,7 @@ permalink: /cards/alatar/
 > > <div class="character-card-name">Alatar</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > &nbsp;
+> > 17 ![](/assets/images/gi.svg)&ensp;10 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Scout/Ranger/Sage Fallen-wizard

@@ -14,7 +14,7 @@ permalink: /cards/the-drowning-deeps/
 ### _Middle-earth: The Balrog_
 
 {: .balrog-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .balrog-site-text .mb-4 .p-1 .pl-2 }
+> {: .balrog-site-text .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
 > > <div class="card-name">The Drowning-deeps</div>
 >

@@ -22,7 +22,7 @@ permalink: /cards/flotsam-and-jetsam/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > If a player has 15 or fewer cards in his play deck (20 or fewer if a Fallen-wizard), all effects are automatically canceled which allow him to search through or look at any portion of his play deck or discard pile outside the normal sequence of play. Discard when any play deck is exhausted. Cannot be duplicated.   
+> > If a player has 15 or fewer cards in his play deck (20 or fewer if a Fallen-wizard), all effects are automatically canceled which allow him to search through or look at any portion of his play deck or discard pile outside of the normal sequence of play. Discard when any play deck is exhausted. Cannot be duplicated.   
 > > 
 > > {: .fs-3 } 
 > > _“‘...busy with his fiery thoughts. He has forgotten Treebeard."_ ***---&#65279;LotRIII*** 

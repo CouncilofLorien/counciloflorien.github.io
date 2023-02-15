@@ -19,13 +19,13 @@ permalink: /cards/huntsmans-garb/
 > > <div class="card-name">Huntsman's Garb</div>
 >
 > {: .stage-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > 1![](/assets/images/stage-point.svg)
+> > 1 ![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Alatar specific._ ***Place this card on Alatar if he is in play.*** If on Alatar, you may tap _Huntsman's Garb_ during your end-of-turn phase to take _Risky Blow_, _True Fana_, or _The Hunt_ from your discard pile to your hand.   
+> > _Unique._ _Alatar specific._ ***Place this card on Alatar if he is in play.*** If on Alatar, you may tap _Huntsman's Garb_ during your end-of-turn phase to take _Risky Blow_, _True Fana_, or _The Hunt_ from your discard pile to your hand.   
 > > 
 > > {: .fs-3 } 
 > > _“...thick warm clothes, and they had jackets and cloaks lined with fur."_ ***---&#65279;LotRII***  

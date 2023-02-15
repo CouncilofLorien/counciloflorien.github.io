@@ -19,13 +19,13 @@ permalink: /cards/goblin-faces/
 > > <div class="card-name">Goblin-faces</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/border-hold.svg)
+> > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/shadow-land.svg)&emsp;![](/assets/images/border-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Orcs._ Men. 3 strikes. Following the attack, the attacker looks at a number of cards from the top of the defender's play deck equal to the number of successful strikes of the attack. The attacker may place any of these cards face down on the bottom of the defender's bottom of the defender's play deck (in any order he chooses). He places the rest on top of the defender's deck (in any order he chooses). 
+> > _Orcs._ _Men._ 3 strikes. Following the attack, the attacker looks at a number of cards from the top of the defender's play deck equal to the number of successful strikes of the attack. The attacker may place any of these cards face down on the bottom of the defender's play deck (in any order he chooses). He places the rest on top of the defender's deck (in any order he chooses). 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 7/&ndash; 】</div>

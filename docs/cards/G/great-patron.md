@@ -19,7 +19,7 @@ permalink: /cards/great-patron/
 > > <div class="card-name">Great Patron</div>
 >
 > {: .stage-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > 2![](/assets/images/stage-point.svg)
+> > 2 ![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event

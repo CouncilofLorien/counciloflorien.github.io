@@ -19,11 +19,11 @@ permalink: /cards/grey-embassy/
 > > <div class="card-name">Grey Embassy</div>
 >
 > {: .stage-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > 3![](/assets/images/stage-point.svg)
+> > 3 ![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Gandalf specific._ ***Place this card on Gandalf if he is in play.*** If on Gandalf, your unique hero factions normally worth 2 of fewer marshalling points are each worth 2 marshalling points. If on Gandalf, your unique hero factions normally worth 3 or more marshalling points are each worth 3 marshalling points.  
+> > _Unique._ _Gandalf specific._ ***Place this card on Gandalf if he is in play.*** If on Gandalf, your unique hero factions normally worth 2 of fewer marshalling points are each worth 2 marshalling points. If on Gandalf, your unique hero factions normally worth 3 or more marshalling points are each worth 3 marshalling points.  
 > 

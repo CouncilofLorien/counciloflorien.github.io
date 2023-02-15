@@ -14,7 +14,7 @@ permalink: /cards/isengard/
 ### _Middle-earth: The Wizards Limited_
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-site-text .p-1 .pl-2 }
+> {: .hero-site-text .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
 > > <div class="character-card-name">Isengard</div>
 >
@@ -37,7 +37,7 @@ permalink: /cards/isengard/
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-site-text .p-1 .pl-2 }
+> {: .hero-site-text .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
 > > <div class="character-card-name">Isengard</div>
 >
@@ -60,7 +60,7 @@ permalink: /cards/isengard/
 ### _Middle-earth: The Lidless Eye_
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .minion-site-text .p-1 .pl-2 }
+> {: .minion-site-text .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
 > > <div class="card-name">Isengard</div>
 >
@@ -83,7 +83,7 @@ permalink: /cards/isengard/
 ### _Middle-earth: The White Hand_
 
 {: .fw-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .fw-site-text .mb-4 .p-1 .pl-2 }
+> {: .fw-site-text .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/free-haven.svg"></div>
 > > <div class="card-name">Isengard</div>
 >
@@ -91,7 +91,7 @@ permalink: /cards/isengard/
 > Gap of Isen
 >
 > {: .fw-site-text .black-text .p-2 }
-> > <br>_**Special:**_ If one of your companies is at this site, all attacks against it are canceled. 
+> > _**Special:**_ If one of your companies is at this site, all attacks against it are canceled. 
 > > 
 > > {: .fs-3 } 
 > > _“A strong place and wonderful was Isengard, and long it had been beautiful; and there great lords had dwelt, the wardens of Gondor upon the West, and wise men that watched the stars."_ ***---&#65279;LotRIII***  
@@ -103,7 +103,7 @@ permalink: /cards/isengard/
 ### _Middle-earth Challenge Decks_
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-site-text .p-1 .pl-2 }
+> {: .hero-site-text .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
 > > <div class="character-card-name">Isengard</div>
 >
@@ -126,7 +126,7 @@ permalink: /cards/isengard/
 ### _Middle-earth Challenge Decks_
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .minion-site-text .p-1 .pl-2 }
+> {: .minion-site-text .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
 > > <div class="card-name">Isengard</div>
 >

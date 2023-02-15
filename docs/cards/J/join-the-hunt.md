@@ -19,13 +19,13 @@ permalink: /cards/join-the-hunt/
 > > <div class="card-name">Join the Hunt</div>
 >
 > {: .stage-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > 2![](/assets/images/stage-point.svg)
+> > 2 ![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Alatar specific._ Your weapon/shield/armor/helmet items in Alatar's company are each worth full marshalling points. Your allies with a prowess attribute in Alatar's company are each worth full marshalling points. 
+> > _Unique._ _Alatar specific._ Your weapon/shield/armor/helmet items in Alatar's company are each worth full marshalling points. Your allies with a prowess attribute in Alatar's company are each worth full marshalling points. 
 > > 
 > > {: .fs-3 } 
 > > _“Companies of the Wood-elves, sometimes with the king at their head, would from time to time ride out to hunt...”_ ***---&#65279;Hob*** 

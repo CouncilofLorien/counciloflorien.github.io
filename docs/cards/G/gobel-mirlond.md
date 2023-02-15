@@ -14,7 +14,7 @@ permalink: /cards/gobel-mirlond/
 ### _Middle-earth: The Lidless Eye_
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .minion-site-text .p-1 .pl-2 }
+> {: .minion-site-text .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
 > > <div class="card-name">Gobel Mirlond</div>
 >
@@ -37,7 +37,7 @@ permalink: /cards/gobel-mirlond/
 ### _Middle-earth: Against the Shadow_
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-site-text .p-1 .pl-2 }
+> {: .hero-site-text .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
 > > <div class="character-card-name">Gobel Mirlond</div>
 >
@@ -60,7 +60,7 @@ permalink: /cards/gobel-mirlond/
 ### _Middle-earth Challenge Decks_
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-site-text .p-1 .pl-2 }
+> {: .hero-site-text .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
 > > <div class="character-card-name">Gobel Mirlond</div>
 >

@@ -14,7 +14,7 @@ permalink: /cards/the-white-towers/
 ### _Middle-earth: The Wizards Limited_
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-site-text .p-1 .pl-2 }
+> {: .hero-site-text .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
 > > <div class="character-card-name">The White Towers</div>
 >
@@ -37,7 +37,7 @@ permalink: /cards/the-white-towers/
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-site-text .p-1 .pl-2 }
+> {: .hero-site-text .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
 > > <div class="character-card-name">The White Towers</div>
 >
@@ -60,7 +60,7 @@ permalink: /cards/the-white-towers/
 ### _Middle-earth: The Lidless Eye_
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .minion-site-text .p-1 .pl-2 }
+> {: .minion-site-text .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
 > > <div class="card-name">The White Towers</div>
 >
@@ -83,7 +83,7 @@ permalink: /cards/the-white-towers/
 ### _Middle-earth: The White Hand_
 
 {: .fw-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .fw-site-text .mb-4 .p-1 .pl-2 }
+> {: .fw-site-text .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/free-haven.svg"></div>
 > > <div class="card-name">The White Towers</div>
 >
@@ -91,10 +91,10 @@ permalink: /cards/the-white-towers/
 > Arthedain
 >
 > {: .fw-site-text .black-text .p-2 }
-> > <br>_**Special:**_ If one of your companies is at this site, all attacks against it are canceled. 
+> > _**Special:**_ If one of your companies is at this site, all attacks against it are canceled. 
 > > 
 > > {: .fs-3 } 
-> > _“Tales of the Second Age say that the towers of the Tower Hills were raised by Gil-galad, and thither the King would repair to gaze westward through the palantir of Elostirion."_ ***---&#65279;Kuduk&nbsp;Lore***  
+> > _“Tales of the Second Age say that the towers of the Tower Hills were raised by Gil-galad, and thither the king would repair to gaze westward through the palantir of Elostirion."_ ***---&#65279;Kuduk&nbsp;Lore***  
 > 
 > {: .fw-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

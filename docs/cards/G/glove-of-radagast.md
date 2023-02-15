@@ -19,13 +19,13 @@ permalink: /cards/glove-of-radagast/
 > > <div class="card-name">Glove of Radagast</div>
 >
 > {: .stage-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > 2![](/assets/images/stage-point.svg)
+> > 2 ![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Radagast specific._ ***Place this card on Radagast if he is in play.*** Any non-unique ally with 1 mind (a copy of which he does not already control) is considered playable with Radagast at his site. This ally may be taken from your discard pile or hand. 
+> > _Unique._ _Radagast specific._ ***Place this card on Radagast if he is in play.*** Any non-unique ally with 1 mind (a copy of which he does not already control) is considered playable with Radagast at his site. This ally may be taken from your discard pile or hand. 
 > > 
 > > {: .fs-3 } 
 > > _“It was said that the glove was imbued with the Wizard's love of the olvar and the kelvar...”_ ***---&#65279;Kuduk&nbsp;Lore*** 

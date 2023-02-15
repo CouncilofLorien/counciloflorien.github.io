@@ -19,13 +19,13 @@ permalink: /cards/sarumans-ring/
 > > <div class="card-name">Saruman's Ring</div>
 >
 > {: .stage-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > 2![](/assets/images/stage-point.svg)
+> > 2 ![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Saruman specific._ ***Place this card on Saruman if he is in play.*** If on Saruman, you may tap Saruman's Ring during your end-of-turn phase to take one ring item (other than The One Ring) from your discard pile to your hand. 
+> > _Unique._ _Saruman specific._ ***Place this card on Saruman if he is in play.*** If on Saruman, you may tap _Saruman's Ring_ during your end-of-turn phase to take aring item (other than _The One Ring_) from your discard pile to your hand. 
 > > 
 > > {: .fs-3 } 
 > > _“‘For I am Saruman, the Wise, Saruman Ring-maker...’”_ ***---&#65279;LotRII*** 

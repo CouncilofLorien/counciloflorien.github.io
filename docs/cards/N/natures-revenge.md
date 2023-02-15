@@ -22,5 +22,5 @@ permalink: /cards/natures-revenge/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > ***Playable on a site in a Wilderness*** \[![](/assets/images/wilderness.svg)] ***that normally is a Border-hold*** \[![](/assets/images/border-hold.svg)] ***or a Shadow-hold*** \[![](/assets/images/shadow-hold.svg)]_, or a non-protected Wizardhaven_ \[![](/assets/images/free-haven.svg)] _in a Wilderness_ \[![](/assets/images/wilderness.svg)]. All versions of the site become Ruins & Lairs \[![](/assets/images/ruinlair.svg)] and gain an additional automatic-attack: animals --- each character faces 1 strike with 7 prowess. Discard when the site is returned to its location deck.  
+> > ***Playable on a site in a Wilderness*** \[![](/assets/images/wilderness.svg)] ***that normally is a Border-hold*** \[![](/assets/images/border-hold.svg)] ***or a Shadow-hold*** \[![](/assets/images/shadow-hold.svg)]_, or a non-protected Wizardhaven_ \[![](/assets/images/free-haven.svg)] _in a Wilderness_ \[![](/assets/images/wilderness.svg)]. All versions of the site become Ruins & Lairs \[![](/assets/images/ruinlair.svg)] and gain an additional automatic-attack: animals --- each character faces 1 strike with 7 prowess. Discard this card when the site is discarded or returned to its location deck.  
 >

@@ -19,13 +19,13 @@ permalink: /cards/in-the-grip-of-ambition/
 > > <div class="card-name">In the Grip of Ambition</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > 2![](/assets/images/stage-point.svg) [3![](/assets/images/stage-point.svg)]
+> > 2 ![](/assets/images/stage-point.svg) [3 ![](/assets/images/stage-point.svg)]
 >
 > {: .hazard-classification .pr-2 }
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Corruption._ ***Playable on a Fallen-wizard or a Wizard.*** He receives 1 corruption point (CP). If he is a Fallen-wizard, he receives 2 stage points. If he has more than 7 stage points, he receives an additional stage point. Cannot be duplicated on a given character. During his organization phase, target may tap to attempt to remove this card. Make a roll-if this result is greater than 8, discard this card. 
+> > _Corruption._ ***Playable on a Fallen-wizard or a Wizard.*** He receives 1 corruption point (CP). If he is a Fallen-wizard, he receives 2 stage points. If he has more than 7 stage points, he receives an additional stage point. Cannot be duplicated on a given character. During his organization phase, target may tap to attempt to remove this card. Make a roll---if this result is greater than 8, discard this card. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

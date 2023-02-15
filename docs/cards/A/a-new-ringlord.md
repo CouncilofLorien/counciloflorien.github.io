@@ -19,13 +19,13 @@ permalink: /cards/a-new-ringlord/
 > > <div class="card-name">A New Ringlord</div>
 >
 > {: .stage-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > 3![](/assets/images/stage-point.svg)
+> > 3 ![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > ***Playable on your Fallen-wizard if he has The One Ring at one of your Wizardhavens*** \[![](/assets/images/free-haven.svg)]. Only one _A New Ringlord_ may be played in a given turn. Make a roll during each of your end-of-turn phases if your Fallen-wizard is bearing _The One Ring_ and is at a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] where information is playable. Add 1 for each _A New Ringlord_ you have in play. If the result is less than 6, your Fallen-wizard is eliminated. If the result is greater than 9, you win the game. 
+> > ***Playable on your Fallen-wizard if he has The One Ring at one of your Wizardhavens*** \[![](/assets/images/free-haven.svg)]. Only one _A New Ringlord_ may be played in a given turn. Make a roll during each of your end-of-turn phases if your Fallen-wizard is bearing _The One Ring_ and is at a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] where Information is playable. Add 1 for each _A New Ringlord_ you have in play. If the result is less than 6, your Fallen-wizard is eliminated. If the result is greater than 9, you win the game. 
 > 
 > {: .stage-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

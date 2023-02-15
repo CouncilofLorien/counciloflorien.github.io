@@ -19,13 +19,13 @@ permalink: /cards/give-welcome-to-the-unexpected/
 > > <div class="card-name">Give Welcome to the Unexpected</div>
 >
 > {: .stage-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > 2![](/assets/images/stage-point.svg)
+> > 2 ![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Gandalf specific._ ***Place this card on Gandalf if he is in play.*** If on Gandalf, your unique non-character cards normally worth 1 marshalling point are each worth 2 marshalling points. 
+> > _Unique._ _Gandalf specific._ ***Place this card on Gandalf if he is in play.*** If on Gandalf, your unique non-character cards normally worth 1 marshalling point are each worth 2 marshalling points. 
 > > 
 > > {: .fs-3 } 
 > > _“But at last there came about by chance a meeting between Gandalf and Thorin that changed all ...”_ ***---&#65279;LotR*** 

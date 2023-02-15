@@ -19,7 +19,7 @@ permalink: /cards/an-untimely-brood/
 > > <div class="card-name">An Untimely Brood</div>
 >
 > {: .stage-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > 4![](/assets/images/stage-point.svg)
+> > 4 ![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event

@@ -19,7 +19,7 @@ permalink: /cards/never-refuse/
 > > <div class="card-name">Never Refuse</div>
 >
 > {: .stage-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > 2![](/assets/images/stage-point.svg)
+> > 2 ![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event
@@ -28,5 +28,5 @@ permalink: /cards/never-refuse/
 > > All corruption checks by your non-Wizard characters are modified by +2. 
 > > 
 > > {: .fs-3 } 
-> > _“I will follow you lead now...”_ ***---&#65279;LotRII*** 
+> > _“I will follow your lead now...”_ ***---&#65279;LotRII*** 
 > 

@@ -14,7 +14,7 @@ permalink: /cards/tharbad/
 ### _Middle-earth: The Dragons_
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-site-text .p-1 .pl-2 }
+> {: .hero-site-text .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
 > > <div class="character-card-name">Tharbad</div>
 >
@@ -37,7 +37,7 @@ permalink: /cards/tharbad/
 ### _Middle-earth: The Lidless Eye_
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .minion-site-text .p-1 .pl-2 }
+> {: .minion-site-text .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
 > > <div class="card-name">Tharbad</div>
 >

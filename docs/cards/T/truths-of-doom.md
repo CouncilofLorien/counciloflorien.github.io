@@ -19,13 +19,13 @@ permalink: /cards/truths-of-doom/
 > > <div class="card-name">Truths of Doom</div>
 >
 > {: .stage-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > 4![](/assets/images/stage-point.svg)
+> > 4 ![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Pallando specific._ Your general influence is increased by 6 points. You may only use 2 of these 6 points to control characters. 
+> > _Unique._ _Pallando specific._ Your general influence is increased by 6 points. You may only use 2 of these 6 points to control characters. 
 > > 
 > > {: .fs-3 } 
 > > _“When the Numenoreans strayed from reverence for the Powers, then they made sacrifice in the mighty temple built upon the slopes of once-sacred Meneltarma."_ ***---&#65279;Kuduk&nbsp;Lore*** 

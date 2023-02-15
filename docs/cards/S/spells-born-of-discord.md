@@ -19,13 +19,13 @@ permalink: /cards/spells-born-of-discord/
 > > <div class="card-name">Spells Born of Discord</div>
 >
 > {: .stage-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > 2![](/assets/images/stage-point.svg)
+> > 2 ![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > Your Fallen-wizard may use sorcery, spirit-magic, and shadow-magic. Cannot be duplicated by a given player.   
+> > Your Fallen-wizard may use sorcery, spirit-magic, and shadow-magic. <br>&ensp;Cannot be duplicated by a given player.   
 > > 
 > > {: .fs-3 } 
 > > _“‘I once knew every spell in all the tongues of Elves or Men or Orcs...’”_ ***---&#65279;LotRII*** 

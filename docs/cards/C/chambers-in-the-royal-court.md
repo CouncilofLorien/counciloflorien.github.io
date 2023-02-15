@@ -19,11 +19,11 @@ permalink: /cards/chambers-in-the-royal-court/
 > > <div class="card-name">Chambers in the Royal Court</div>
 >
 > {: .stage-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > 1![](/assets/images/stage-point.svg)
+> > 1 ![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > _Gandalf specific._ ***Playable on one of your hero Free-hold*** \[![](/assets/images/free-hold.svg)] ***sites in play.*** This site becomes a Wizardhaven \[![](/assets/images/free-haven.svg)] for your companies, loses all automatic-attacks against your companies, and is one of Gandalf's home sites. Nothing is considered playable as written on the site card. If one of your companies is at this site, all attacks against it are canceled. Other Fallen-wizards may not use this site as a Wizardhaven \[![](/assets/images/free-haven.svg)]. Discard this card when the site is discarded or returned to its location deck. It cannot be discarded otherwise. Cannot be duplicated on a given player. 
+> > _Gandalf specific._ ***Playable on one of your hero Free-hold*** \[![](/assets/images/free-hold.svg)] ***sites in play.*** This site becomes a Wizardhaven \[![](/assets/images/free-haven.svg)] for your companies, loses all automatic-attacks against your companies, and is one of Gandalf's home sites. Nothing is considered playable as written on the site card. If one of your companies is at this site, all attacks against it are canceled. Other Fallen-wizards may not use this site as a Wizardhaven \[![](/assets/images/free-haven.svg)]. Discard this card when the site is discarded or returned to its location deck. It cannot be discarded otherwise. Cannot be duplicated on a given site. 
 > 

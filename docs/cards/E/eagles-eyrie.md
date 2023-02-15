@@ -14,7 +14,7 @@ permalink: /cards/eagles-eyrie/
 ### _Middle-earth: The Wizards Limited_
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-site-text .p-1 .pl-2 }
+> {: .hero-site-text .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
 > > <div class="character-card-name">Eagles' Eyrie</div>
 >
@@ -37,7 +37,7 @@ permalink: /cards/eagles-eyrie/
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-site-text .p-1 .pl-2 }
+> {: .hero-site-text .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
 > > <div class="character-card-name">Eagles' Eyrie</div>
 >
@@ -60,7 +60,7 @@ permalink: /cards/eagles-eyrie/
 ### _Middle-earth: Against the Shadow_
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .minion-site-text .p-1 .pl-2 }
+> {: .minion-site-text .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
 > > <div class="card-name">Eagles' Eyrie</div>
 >
@@ -83,7 +83,7 @@ permalink: /cards/eagles-eyrie/
 ### _Middle-earth Challenge Decks_
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .minion-site-text .p-1 .pl-2 }
+> {: .minion-site-text .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
 > > <div class="card-name">Eagles' Eyrie</div>
 >
@@ -106,7 +106,7 @@ permalink: /cards/eagles-eyrie/
 ### _Middle-earth: The Balrog Reprint_
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .minion-site-text .p-1 .pl-2 }
+> {: .minion-site-text .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
 > > <div class="card-name">Eagles' Eyrie</div>
 >

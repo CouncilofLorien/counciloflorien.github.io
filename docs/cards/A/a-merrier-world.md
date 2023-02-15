@@ -19,14 +19,14 @@ permalink: /cards/a-merrier-world/
 > > <div class="card-name">A Merrier World</div>
 >
 > {: .stage-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > 2![](/assets/images/stage-point.svg)
+> > 2 ![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > ***Playable if you have more than 7 stage points.*** Hazards your company defeat (for which you otherwise get 1 MP) are each worth full kill marshalling points. Cannot be duplicated by a given player. 
+> > ***Playable if you have more than 7 stage points.*** Hazards your company defeat (for which you otherwise get 1 MP) are each worth full kill marshalling points. <br>&ensp;Cannot be duplicated by a given player. 
 > > 
 > > {: .fs-3 } 
-> > _“‘...the northern world would be merrier for many a long day. The dragon was dead and the goblins overthrown...”_ ***---&#65279;Hob*** 
+> > _“‘...the northern world would be merrier for many a long day. The dragon was dead, and the goblins overthrown...”_ ***---&#65279;Hob*** 
 > 

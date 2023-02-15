@@ -14,7 +14,7 @@ permalink: /cards/rhosgobel/
 ### _Middle-earth: The Wizards Limited_
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-site-text .p-1 .pl-2 }
+> {: .hero-site-text .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
 > > <div class="character-card-name">Rhosgobel</div>
 >
@@ -37,7 +37,7 @@ permalink: /cards/rhosgobel/
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-site-text .p-1 .pl-2 }
+> {: .hero-site-text .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
 > > <div class="character-card-name">Rhosgobel</div>
 >
@@ -60,7 +60,7 @@ permalink: /cards/rhosgobel/
 ### _Middle-earth: Against the Shadow_
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .minion-site-text .p-1 .pl-2 }
+> {: .minion-site-text .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
 > > <div class="card-name">Rhosgobel</div>
 >
@@ -80,18 +80,18 @@ permalink: /cards/rhosgobel/
 ### _Middle-earth: The White Hand_
 
 {: .fw-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .fw-site-text .p-1 .pl-2 }
+> {: .fw-site-text .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/free-haven.svg"></div>
 > > <div class="card-name">Rhosgobel</div>
 >
 > {: .fw-site-text .black-text .p-1 .pl-2 }
-> > 1![](/assets/images/stage-point.svg)
+> > 1 ![](/assets/images/stage-point.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Southern Mirkwood
 >
 > {: .fw-site-text .black-text .p-2 }
-> > <br>_**Special:**_ Only Radagast's companies may use this card. This site is a protected Wizardhaven \[![](/assets/images/free-haven.svg)]. If one of your companies is at this site, all attacks against it are canceled. Any of your companies moving to or from Rhosgobel is not considered to be moving through Southern Mirkwood (including one less Dark-domain \[![](/assets/images/dark-domain.svg)] in their site path). You receive the stage points if any of your companies are at this site.  
+> > _**Special:**_ Only Radagast's companies may use this card. This site is a protected Wizardhaven \[![](/assets/images/free-haven.svg)]. If one of your companies is at this site, all attacks against it are canceled. Any of your companies moving to or from Rhosgobel is not considered to be moving through Southern Mirkwood (including one less Dark-domain \[![](/assets/images/dark-domain.svg)] in their site path). You receive the stage point if any of your companies are at this site.  
 > 
 > {: .fw-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -100,7 +100,7 @@ permalink: /cards/rhosgobel/
 ### _Middle-earth Challenge Decks_
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-site-text .p-1 .pl-2 }
+> {: .hero-site-text .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
 > > <div class="character-card-name">Rhosgobel</div>
 >

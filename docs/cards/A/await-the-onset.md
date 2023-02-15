@@ -19,7 +19,7 @@ permalink: /cards/await-the-onset/
 > > <div class="card-name">Await the Onset</div>
 >
 > {: .stage-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > 3![](/assets/images/stage-point.svg)
+> > 3 ![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event

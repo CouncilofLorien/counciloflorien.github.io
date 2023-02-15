@@ -19,7 +19,7 @@ permalink: /cards/mechanical-bow/
 > > <div class="card-name">Mechanical Bow</div>
 >
 > {: .hazard-classification .pr-2 }
-> Special Item
+> Major Item
 >
 > {: .minion-resource-text .black-text .p-2 }
 > > _Weapon._ _Technology._ -1 to bearer's body. _Warrior only:_ +2 prowess to a maximum of 8; -1 to the body of any strike its bearer faces if he taps to face the strike. 
