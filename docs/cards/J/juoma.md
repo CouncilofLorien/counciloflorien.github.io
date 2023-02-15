@@ -19,7 +19,7 @@ permalink: /cards/juoma/
 > > <div class="card-name">Juoma</div>
 >
 > {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
-> > 3 ![](/assets/images/mind.svg)&ensp;1 ![](/assets/images/di.svg)
+> > 3 ![](/assets/images/mind.svg)&emsp;1 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Ranger Man

@@ -14,7 +14,7 @@ permalink: /cards/ungoliants-progeny/
 ### _Middle-earth: The Balrog_
 
 {: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hazard-name .p-1 .pl-2 }
+> {: .hazard-name .white-text .p-1 .pl-2 }
 > > <div class="hazard-mp">4</div>
 > > <div class="card-name">Ungoliant's Progeny</div>
 >

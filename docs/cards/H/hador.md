@@ -19,7 +19,7 @@ permalink: /cards/hador/
 > > <div class="card-name">Hador</div>
 >
 > {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
-> > 6 ![](/assets/images/mind.svg)&ensp;1 ![](/assets/images/di.svg)
+> > 6 ![](/assets/images/mind.svg)&emsp;1 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Sage Dunadan
@@ -45,7 +45,7 @@ permalink: /cards/hador/
 > > <div class="card-name">Hador</div>
 >
 > {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
-> > 6 ![](/assets/images/mind.svg)&ensp;1 ![](/assets/images/di.svg)
+> > 6 ![](/assets/images/mind.svg)&emsp;1 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Sage Dunadan

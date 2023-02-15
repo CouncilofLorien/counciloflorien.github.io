@@ -14,12 +14,12 @@ permalink: /cards/lobelia-sackville-baggins/
 ### _Middle-earth: Dark Minions_
 
 {: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hazard-name .mb-4 .p-1 .pl-2 }
+> {: .hazard-name .white-text .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">1</div>
 > > <div class="card-name">Lobelia Sackville-Baggins</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > 3 ![](/assets/images/mind.svg)&ensp;1 ![](/assets/images/di.svg)
+> > 3 ![](/assets/images/mind.svg)&emsp;1 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Scout Hobbit

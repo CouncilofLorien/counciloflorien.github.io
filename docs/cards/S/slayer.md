@@ -14,7 +14,7 @@ permalink: /cards/slayer/
 ### _Middle-earth: The Wizards Limited_
 
 {: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hazard-name .mb-4 .p-1 .pl-2 }
+> {: .hazard-name .white-text .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">0</div>
 > > <div class="card-name">Slayer</div>
 >
@@ -37,7 +37,7 @@ permalink: /cards/slayer/
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hazard-name .mb-4 .p-1 .pl-2 }
+> {: .hazard-name .white-text .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">Slayer</div>
 >
@@ -60,7 +60,7 @@ permalink: /cards/slayer/
 ### _Middle-earth: The Lidless Eye_
 
 {: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hazard-name .mb-4 .p-1 .pl-2 }
+> {: .hazard-name .white-text .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">Slayer</div>
 >
@@ -83,7 +83,7 @@ permalink: /cards/slayer/
 ### _Middle-earth Challenge Decks_
 
 {: .hazard-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hazard-name .mb-4 .p-1 .pl-2 }
+> {: .hazard-name .white-text .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">2</div>
 > > <div class="card-name">Slayer</div>
 >

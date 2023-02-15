@@ -19,7 +19,7 @@ permalink: /cards/lieutenant-of-angmar/
 > > <div class="card-name">Lieutenant of Angmar</div>
 >
 > {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
-> > 9 ![](/assets/images/mind.svg)&ensp;1 ![](/assets/images/di.svg)
+> > 9 ![](/assets/images/mind.svg)&emsp;1 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Scout Troll

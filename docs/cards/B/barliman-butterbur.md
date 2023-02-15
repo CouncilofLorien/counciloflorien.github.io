@@ -19,7 +19,7 @@ permalink: /cards/barliman-butterbur/
 > > <div class="character-card-name">Barliman Butterbur</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 1 ![](/assets/images/mind.svg)&ensp;0 ![](/assets/images/di.svg)
+> > 1 ![](/assets/images/mind.svg)&emsp;0 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior Man
@@ -45,7 +45,7 @@ permalink: /cards/barliman-butterbur/
 > > <div class="character-card-name">Barliman Butterbur</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 1 ![](/assets/images/mind.svg)&ensp;0 ![](/assets/images/di.svg)
+> > 1 ![](/assets/images/mind.svg)&emsp;0 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior Man

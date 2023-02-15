@@ -19,7 +19,7 @@ permalink: /cards/denethor-ii/
 > > <div class="character-card-name">Denethor II</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg)&ensp;2 ![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&emsp;2 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Sage Dunadan
@@ -45,7 +45,7 @@ permalink: /cards/denethor-ii/
 > > <div class="character-card-name">Denethor II</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg)&ensp;2 ![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&emsp;2 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Sage Dunadan

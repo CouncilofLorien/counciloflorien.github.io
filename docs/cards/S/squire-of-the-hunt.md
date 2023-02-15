@@ -19,7 +19,7 @@ permalink: /cards/squire-of-the-hunt/
 > > <div class="card-name">Squire of the Hunt</div>
 >
 > {: .stage-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > +1 ![](/assets/images/di.svg)&ensp;2 ![](/assets/images/stage-point.svg)
+> > +1 ![](/assets/images/di.svg)&emsp;2 ![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event

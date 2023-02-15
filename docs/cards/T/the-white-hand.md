@@ -19,7 +19,7 @@ permalink: /cards/the-white-hand/
 > > <div class="card-name">The White Hand</div>
 >
 > {: .stage-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > +2 ![](/assets/images/di.svg)&ensp;3 ![](/assets/images/stage-point.svg)
+> > +2 ![](/assets/images/di.svg)&emsp;3 ![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event

@@ -14,7 +14,7 @@ permalink: /cards/veils-flung-away/
 ### _Middle-earth: The Lidless Eye_
 
 {: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hazard-name .p-1 .pl-2 }
+> {: .hazard-name .white-text .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Veils Flung Away</div>
 >
@@ -28,7 +28,7 @@ permalink: /cards/veils-flung-away/
 ### _Middle-earth Challenge Decks_
 
 {: .hazard-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hazard-name .p-1 .pl-2 }
+> {: .hazard-name .white-text .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Veils Flung Away</div>
 >

@@ -19,7 +19,7 @@ permalink: /cards/theoden/
 > > <div class="character-card-name">Theoden</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 6 ![](/assets/images/mind.svg)&ensp;3 ![](/assets/images/di.svg)
+> > 6 ![](/assets/images/mind.svg)&emsp;3 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Diplomat Man
@@ -45,7 +45,7 @@ permalink: /cards/theoden/
 > > <div class="character-card-name">Theoden</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 6 ![](/assets/images/mind.svg)&ensp;3 ![](/assets/images/di.svg)
+> > 6 ![](/assets/images/mind.svg)&emsp;3 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Diplomat Man
@@ -71,7 +71,7 @@ permalink: /cards/theoden/
 > > <div class="character-card-name">Theoden</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 6 ![](/assets/images/mind.svg)&ensp;3 ![](/assets/images/di.svg)
+> > 6 ![](/assets/images/mind.svg)&emsp;3 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Diplomat Man

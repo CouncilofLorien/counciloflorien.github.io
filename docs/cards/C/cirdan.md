@@ -19,7 +19,7 @@ permalink: /cards/cirdan/
 > > <div class="character-card-name">Cirdan</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 8 ![](/assets/images/mind.svg)&ensp;4 ![](/assets/images/di.svg)
+> > 8 ![](/assets/images/mind.svg)&emsp;4 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Sage/Diplomat Elf
@@ -42,7 +42,7 @@ permalink: /cards/cirdan/
 > > <div class="character-card-name">Cirdan</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 8 ![](/assets/images/mind.svg)&ensp;4 ![](/assets/images/di.svg)
+> > 8 ![](/assets/images/mind.svg)&emsp;4 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Sage/Diplomat Elf

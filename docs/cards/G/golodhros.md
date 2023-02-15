@@ -19,7 +19,7 @@ permalink: /cards/golodhros/
 > > <div class="card-name">Golodhros</div>
 >
 > {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
-> > 9 ![](/assets/images/mind.svg)&ensp;4 ![](/assets/images/di.svg)
+> > 9 ![](/assets/images/mind.svg)&emsp;4 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Sage/Diplomat Dunadan

@@ -19,7 +19,7 @@ permalink: /cards/brand/
 > > <div class="character-card-name">Brand</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 6 ![](/assets/images/mind.svg)&ensp;2 ![](/assets/images/di.svg)
+> > 6 ![](/assets/images/mind.svg)&emsp;2 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Diplomat Man
@@ -45,7 +45,7 @@ permalink: /cards/brand/
 > > <div class="character-card-name">Brand</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 6 ![](/assets/images/mind.svg)&ensp;2 ![](/assets/images/di.svg)
+> > 6 ![](/assets/images/mind.svg)&emsp;2 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Diplomat Man

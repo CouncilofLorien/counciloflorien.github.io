@@ -19,7 +19,7 @@ permalink: /cards/radagasts-black-bird/
 > > <div class="card-name">Radagast's Black Bird</div>
 >
 > {: .stage-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > &ensp;![](/assets/images/mind.svg)&ensp;3 ![](/assets/images/di.svg)&ensp;2 ![](/assets/images/stage-point.svg)
+> > &ensp;![](/assets/images/mind.svg)&emsp;3 ![](/assets/images/di.svg)&ensp;2 ![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Scout/Diplomat Ally

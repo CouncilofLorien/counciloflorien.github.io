@@ -19,7 +19,7 @@ permalink: /cards/glorfindel-ii/
 > > <div class="character-card-name">Glorfindel II</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 8 ![](/assets/images/mind.svg)&ensp;2 ![](/assets/images/di.svg)
+> > 8 ![](/assets/images/mind.svg)&emsp;2 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Sage Elf
@@ -45,7 +45,7 @@ permalink: /cards/glorfindel-ii/
 > > <div class="character-card-name">Glorfindel II</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 8 ![](/assets/images/mind.svg)&ensp;2 ![](/assets/images/di.svg)
+> > 8 ![](/assets/images/mind.svg)&emsp;2 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Sage Elf
@@ -71,7 +71,7 @@ permalink: /cards/glorfindel-ii/
 > > <div class="character-card-name">Glorfindel II</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 8 ![](/assets/images/mind.svg)&ensp;2 ![](/assets/images/di.svg)
+> > 8 ![](/assets/images/mind.svg)&emsp;2 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Sage Elf

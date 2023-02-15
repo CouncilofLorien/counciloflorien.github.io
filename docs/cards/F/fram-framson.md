@@ -19,7 +19,7 @@ permalink: /cards/fram-framson/
 > > <div class="character-card-name">Fram Framson</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 5 ![](/assets/images/mind.svg)&ensp;0 ![](/assets/images/di.svg)
+> > 5 ![](/assets/images/mind.svg)&emsp;0 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Ranger Man

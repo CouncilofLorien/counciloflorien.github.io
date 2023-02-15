@@ -19,7 +19,7 @@ permalink: /cards/ciryaher/
 > > <div class="card-name">Ciryaher</div>
 >
 > {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
-> > 5 ![](/assets/images/mind.svg)&ensp;2 ![](/assets/images/di.svg)
+> > 5 ![](/assets/images/mind.svg)&emsp;2 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Scout/Sage Dunadan
@@ -45,7 +45,7 @@ permalink: /cards/ciryaher/
 > > <div class="card-name">Ciryaher</div>
 >
 > {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
-> > 5 ![](/assets/images/mind.svg)&ensp;2 ![](/assets/images/di.svg)
+> > 5 ![](/assets/images/mind.svg)&emsp;2 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Scout/Sage Dunadan

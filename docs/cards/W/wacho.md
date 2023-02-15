@@ -19,7 +19,7 @@ permalink: /cards/wacho/
 > > <div class="character-card-name">Wacho</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 2 ![](/assets/images/mind.svg)&ensp;0 ![](/assets/images/di.svg)
+> > 2 ![](/assets/images/mind.svg)&emsp;0 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Scout/Sage Man
@@ -45,7 +45,7 @@ permalink: /cards/wacho/
 > > <div class="character-card-name">Wacho</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 2 ![](/assets/images/mind.svg)&ensp;0 ![](/assets/images/di.svg)
+> > 2 ![](/assets/images/mind.svg)&emsp;0 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Scout/Sage Man

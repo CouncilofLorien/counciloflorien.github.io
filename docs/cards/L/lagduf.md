@@ -19,7 +19,7 @@ permalink: /cards/lagduf/
 > > <div class="card-name">Lagduf</div>
 >
 > {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
-> > 3 ![](/assets/images/mind.svg)&ensp;0 ![](/assets/images/di.svg)
+> > 3 ![](/assets/images/mind.svg)&emsp;0 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior Orc
@@ -45,7 +45,7 @@ permalink: /cards/lagduf/
 > > <div class="card-name">Lagduf</div>
 >
 > {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
-> > 3 ![](/assets/images/mind.svg)&ensp;0 ![](/assets/images/di.svg)
+> > 3 ![](/assets/images/mind.svg)&emsp;0 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior Orc

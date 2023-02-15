@@ -19,7 +19,7 @@ permalink: /cards/thranduil/
 > > <div class="character-card-name">Thranduil</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 9 ![](/assets/images/mind.svg)&ensp;3 ![](/assets/images/di.svg)
+> > 9 ![](/assets/images/mind.svg)&emsp;3 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Ranger/Sage Elf
@@ -45,7 +45,7 @@ permalink: /cards/thranduil/
 > > <div class="character-card-name">Thranduil</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 9 ![](/assets/images/mind.svg)&ensp;3 ![](/assets/images/di.svg)
+> > 9 ![](/assets/images/mind.svg)&emsp;3 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Ranger/Sage Elf
@@ -71,7 +71,7 @@ permalink: /cards/thranduil/
 > > <div class="character-card-name">Thranduil</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 9 ![](/assets/images/mind.svg)&ensp;3 ![](/assets/images/di.svg)
+> > 9 ![](/assets/images/mind.svg)&emsp;3 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Ranger/Sage Elf

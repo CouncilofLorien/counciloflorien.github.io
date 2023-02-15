@@ -19,7 +19,7 @@ permalink: /cards/sam-gamgee/
 > > <div class="character-card-name">Sam Gamgee</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg)&ensp;0 ![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&emsp;0 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Scout/Ranger Hobbit
@@ -45,7 +45,7 @@ permalink: /cards/sam-gamgee/
 > > <div class="character-card-name">Sam Gamgee</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg)&ensp;0 ![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&emsp;0 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Scout/Ranger Hobbit
@@ -71,7 +71,7 @@ permalink: /cards/sam-gamgee/
 > > <div class="character-card-name">Sam Gamgee</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg)&ensp;0 ![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&emsp;0 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Scout/Ranger Hobbit

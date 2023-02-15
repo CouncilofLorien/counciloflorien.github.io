@@ -19,7 +19,7 @@ permalink: /cards/balin/
 > > <div class="character-card-name">Balin</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 5 ![](/assets/images/mind.svg)&ensp;2 ![](/assets/images/di.svg)
+> > 5 ![](/assets/images/mind.svg)&emsp;2 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Sage Dwarf
@@ -45,7 +45,7 @@ permalink: /cards/balin/
 > > <div class="character-card-name">Balin</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 5 ![](/assets/images/mind.svg)&ensp;2 ![](/assets/images/di.svg)
+> > 5 ![](/assets/images/mind.svg)&emsp;2 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Sage Dwarf
@@ -71,7 +71,7 @@ permalink: /cards/balin/
 > > <div class="character-card-name">Balin</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 5 ![](/assets/images/mind.svg)&ensp;2 ![](/assets/images/di.svg)
+> > 5 ![](/assets/images/mind.svg)&emsp;2 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Sage Dwarf

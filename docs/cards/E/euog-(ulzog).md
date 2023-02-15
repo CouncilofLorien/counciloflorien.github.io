@@ -19,7 +19,7 @@ permalink: /cards/euog-(ulzog)/
 > > <div class="card-name">Euog (Ulzog)</div>
 >
 > {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
-> > 5 ![](/assets/images/mind.svg)&ensp;1 ![](/assets/images/di.svg)
+> > 5 ![](/assets/images/mind.svg)&emsp;1 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Diplomat Orc

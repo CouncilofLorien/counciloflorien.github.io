@@ -19,7 +19,7 @@ permalink: /cards/gorbag/
 > > <div class="card-name">Gorbag</div>
 >
 > {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
-> > 6 ![](/assets/images/mind.svg)&ensp;0 ![](/assets/images/di.svg)
+> > 6 ![](/assets/images/mind.svg)&emsp;0 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Scout Orc
@@ -45,7 +45,7 @@ permalink: /cards/gorbag/
 > > <div class="card-name">Gorbag</div>
 >
 > {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
-> > 6 ![](/assets/images/mind.svg)&ensp;0 ![](/assets/images/di.svg)
+> > 6 ![](/assets/images/mind.svg)&emsp;0 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Scout Orc
@@ -71,7 +71,7 @@ permalink: /cards/gorbag/
 > > <div class="card-name">Gorbag</div>
 >
 > {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
-> > 6 ![](/assets/images/mind.svg)&ensp;0 ![](/assets/images/di.svg)
+> > 6 ![](/assets/images/mind.svg)&emsp;0 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Scout Orc

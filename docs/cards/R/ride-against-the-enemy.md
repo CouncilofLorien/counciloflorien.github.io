@@ -14,7 +14,7 @@ permalink: /cards/ride-against-the-enemy/
 ### _Middle-earth: Against the Shadow_
 
 {: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hazard-name .p-1 .pl-2 }
+> {: .hazard-name .white-text .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Ride Against the Enemy</div>
 >

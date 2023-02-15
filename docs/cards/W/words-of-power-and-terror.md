@@ -14,7 +14,7 @@ permalink: /cards/words-of-power-and-terror/
 ### _Middle-earth: The Wizards Limited_
 
 {: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hazard-name .p-1 .pl-2 }
+> {: .hazard-name .white-text .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Words of Power and Terror</div>
 >
@@ -31,7 +31,7 @@ permalink: /cards/words-of-power-and-terror/
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hazard-name .p-1 .pl-2 }
+> {: .hazard-name .white-text .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Words of Power and Terror</div>
 >

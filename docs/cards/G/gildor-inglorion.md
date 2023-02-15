@@ -19,7 +19,7 @@ permalink: /cards/gildor-inglorion/
 > > <div class="character-card-name">Gildor Inglorion</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg)&ensp;0 ![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&emsp;0 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Ranger Elf
@@ -45,7 +45,7 @@ permalink: /cards/gildor-inglorion/
 > > <div class="character-card-name">Gildor Inglorion</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg)&ensp;0 ![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&emsp;0 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Ranger Elf
@@ -71,7 +71,7 @@ permalink: /cards/gildor-inglorion/
 > > <div class="character-card-name">Gildor Inglorion</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg)&ensp;0 ![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&emsp;0 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Ranger Elf

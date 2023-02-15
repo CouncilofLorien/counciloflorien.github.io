@@ -19,7 +19,7 @@ permalink: /cards/wuluag/
 > > <div class="card-name">Wuluag</div>
 >
 > {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg)&ensp;0 ![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&emsp;0 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Scout Troll
@@ -42,7 +42,7 @@ permalink: /cards/wuluag/
 > > <div class="card-name">Wuluag</div>
 >
 > {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg)&ensp;0 ![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&emsp;0 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Scout Troll
@@ -65,7 +65,7 @@ permalink: /cards/wuluag/
 > > <div class="card-name">Wuluag</div>
 >
 > {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg)&ensp;0 ![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&emsp;0 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Scout Troll

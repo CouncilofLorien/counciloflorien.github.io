@@ -19,7 +19,7 @@ permalink: /cards/beorn/
 > > <div class="character-card-name">Beorn</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 7 ![](/assets/images/mind.svg)&ensp;2 ![](/assets/images/di.svg)
+> > 7 ![](/assets/images/mind.svg)&emsp;2 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Ranger Man
@@ -45,7 +45,7 @@ permalink: /cards/beorn/
 > > <div class="character-card-name">Beorn</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 7 ![](/assets/images/mind.svg)&ensp;2 ![](/assets/images/di.svg)
+> > 7 ![](/assets/images/mind.svg)&emsp;2 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Ranger Man
@@ -71,7 +71,7 @@ permalink: /cards/beorn/
 > > <div class="character-card-name">Beorn</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 7 ![](/assets/images/mind.svg)&ensp;2 ![](/assets/images/di.svg)
+> > 7 ![](/assets/images/mind.svg)&emsp;2 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Ranger Man

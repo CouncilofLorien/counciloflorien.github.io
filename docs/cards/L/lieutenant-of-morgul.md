@@ -19,7 +19,7 @@ permalink: /cards/lieutenant-of-morgul/
 > > <div class="card-name">Lieutenant of Morgul</div>
 >
 > {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
-> > 9 ![](/assets/images/mind.svg)&ensp;2 ![](/assets/images/di.svg)
+> > 9 ![](/assets/images/mind.svg)&emsp;2 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Ranger Troll
@@ -42,7 +42,7 @@ permalink: /cards/lieutenant-of-morgul/
 > > <div class="card-name">Lieutenant of Morgul</div>
 >
 > {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
-> > 9 ![](/assets/images/mind.svg)&ensp;2 ![](/assets/images/di.svg)
+> > 9 ![](/assets/images/mind.svg)&emsp;2 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Ranger Troll

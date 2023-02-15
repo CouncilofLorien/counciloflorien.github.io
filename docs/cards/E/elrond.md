@@ -19,7 +19,7 @@ permalink: /cards/elrond/
 > > <div class="character-card-name">Elrond</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 10 ![](/assets/images/mind.svg)&ensp;4 ![](/assets/images/di.svg)
+> > 10 ![](/assets/images/mind.svg)&emsp;4 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Sage/Diplomat Elf
@@ -45,7 +45,7 @@ permalink: /cards/elrond/
 > > <div class="character-card-name">Elrond</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 10 ![](/assets/images/mind.svg)&ensp;4 ![](/assets/images/di.svg)
+> > 10 ![](/assets/images/mind.svg)&emsp;4 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Sage/Diplomat Elf
@@ -71,7 +71,7 @@ permalink: /cards/elrond/
 > > <div class="character-card-name">Elrond</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 10 ![](/assets/images/mind.svg)&ensp;4 ![](/assets/images/di.svg)
+> > 10 ![](/assets/images/mind.svg)&emsp;4 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Sage/Diplomat Elf

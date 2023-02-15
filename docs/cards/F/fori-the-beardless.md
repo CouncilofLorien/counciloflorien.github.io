@@ -19,7 +19,7 @@ permalink: /cards/fori-the-beardless/
 > > <div class="card-name">Fori the Beardless</div>
 >
 > {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg)&ensp;1 ![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&emsp;1 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Scout Dwarf

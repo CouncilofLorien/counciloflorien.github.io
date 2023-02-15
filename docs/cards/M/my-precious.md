@@ -14,12 +14,12 @@ permalink: /cards/my-precious/
 ### _Middle-earth: Dark Minions_
 
 {: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hazard-name .mb-4 .p-1 .pl-2 }
+> {: .hazard-name .white-text .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp">-1</div>
 > > <div class="card-name">My Precious</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg)&ensp;0 ![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&emsp;0 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Scout Hobbit

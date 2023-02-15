@@ -19,7 +19,7 @@ permalink: /cards/galadriel/
 > > <div class="character-card-name">Galadriel</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 9 ![](/assets/images/mind.svg)&ensp;4 ![](/assets/images/di.svg)
+> > 9 ![](/assets/images/mind.svg)&emsp;4 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Scout/Sage/Diplomat Elf
@@ -45,7 +45,7 @@ permalink: /cards/galadriel/
 > > <div class="character-card-name">Galadriel</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 9 ![](/assets/images/mind.svg)&ensp;4 ![](/assets/images/di.svg)
+> > 9 ![](/assets/images/mind.svg)&emsp;4 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Scout/Sage/Diplomat Elf

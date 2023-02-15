@@ -19,7 +19,7 @@ permalink: /cards/wizards-myrmidon/
 > > <div class="card-name">Wizard's Myrmidon</div>
 >
 > {: .stage-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > +1 ![](/assets/images/di.svg)&ensp;1 ![](/assets/images/stage-point.svg)
+> > +1 ![](/assets/images/di.svg)&emsp;1 ![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event
