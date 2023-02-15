@@ -19,7 +19,7 @@ permalink: /cards/flame-of-udun/
 > > <div class="card-name">Flame of Udun</div>
 >
 > {: .minion-resource-name .white-text .mind-di .p-1 .pl-2 }
-> > -2![](/assets/images/di.svg)
+> > -2 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Permanent-event

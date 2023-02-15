@@ -19,7 +19,7 @@ permalink: /cards/elerina/
 > > <div class="card-name">Elerina</div>
 >
 > {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
-> > 8 ![](/assets/images/mind.svg)&ensp;3![](/assets/images/di.svg)
+> > 8 ![](/assets/images/mind.svg)&ensp;3 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Scout/Sage/Diplomat Man

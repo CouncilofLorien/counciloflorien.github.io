@@ -19,7 +19,7 @@ permalink: /cards/raisha/
 > > <div class="card-name">Raisha</div>
 >
 > {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
-> > 5 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
+> > 5 ![](/assets/images/mind.svg)&ensp;1 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Scout Man

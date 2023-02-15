@@ -19,7 +19,7 @@ permalink: /cards/no-more-nonsense/
 > > <div class="card-name">No More Nonsense</div>
 >
 > {: .minion-resource-name .white-text .mind-di .p-1 .pl-2 }
-> > [+2![](/assets/images/di.svg)] [-2![](/assets/images/di.svg)]
+> > [+2 ![](/assets/images/di.svg)] [-2 ![](/assets/images/di.svg)]
 >
 > {: .hazard-classification .pr-2 }
 > Permanent-event

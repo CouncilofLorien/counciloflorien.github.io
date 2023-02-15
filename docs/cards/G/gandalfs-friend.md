@@ -19,7 +19,7 @@ permalink: /cards/gandalfs-friend/
 > > <div class="card-name">Gandalf's Friend</div>
 >
 > {: .stage-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > +2![](/assets/images/di.svg) 1![](/assets/images/stage-point.svg)
+> > +2 ![](/assets/images/di.svg) 1![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event

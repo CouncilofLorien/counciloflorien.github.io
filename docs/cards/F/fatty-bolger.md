@@ -19,7 +19,7 @@ permalink: /cards/fatty-bolger/
 > > <div class="character-card-name">Fatty Bolger</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 3 ![](/assets/images/mind.svg)&ensp;0![](/assets/images/di.svg)
+> > 3 ![](/assets/images/mind.svg)&ensp;0 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Scout Hobbit
@@ -45,7 +45,7 @@ permalink: /cards/fatty-bolger/
 > > <div class="character-card-name">Fatty Bolger</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 3 ![](/assets/images/mind.svg)&ensp;0![](/assets/images/di.svg)
+> > 3 ![](/assets/images/mind.svg)&ensp;0 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > 

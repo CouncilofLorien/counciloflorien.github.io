@@ -19,7 +19,7 @@ permalink: /cards/woffung/
 > > <div class="card-name">Woffung</div>
 >
 > {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&ensp;1 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Diplomat Man

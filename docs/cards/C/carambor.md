@@ -19,7 +19,7 @@ permalink: /cards/carambor/
 > > <div class="card-name">Carambor</div>
 >
 > {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
-> > 6 ![](/assets/images/mind.svg)&ensp;0![](/assets/images/di.svg)
+> > 6 ![](/assets/images/mind.svg)&ensp;0 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Scout/Ranger Elf

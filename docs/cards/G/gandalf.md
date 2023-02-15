@@ -19,7 +19,7 @@ permalink: /cards/gandalf/
 > > <div class="character-card-name">Gandalf</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 10![](/assets/images/di.svg)
+> > 10 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Scout/Sage/Diplomat Wizard
@@ -45,7 +45,7 @@ permalink: /cards/gandalf/
 > > <div class="character-card-name">Gandalf</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 10![](/assets/images/di.svg)
+> > 10 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Scout/Sage/Diplomat Wizard
@@ -71,7 +71,7 @@ permalink: /cards/gandalf/
 > > <div class="character-card-name">Gandalf</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 10![](/assets/images/di.svg)
+> > 10 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Scout/Sage/Diplomat Wizard
@@ -97,13 +97,13 @@ permalink: /cards/gandalf/
 > > <div class="character-card-name">Gandalf</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 18![](/assets/images/gi.svg) 9![](/assets/images/di.svg)
+> > 18 ![](/assets/images/gi.svg)&ensp;9 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Scout/Sage/Diplomat Fallen-wizard
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ Can use spirit-magic. May untap at the end of your organization phase. Your characters and hero allies are each worth full marshalling points. Gandalf may tap to "test" a ring in his company.   
+> > _Unique._ Can use spirit-magic. May untap at the end of your organization phase. Your characters and hero allies are each worth full marshalling points. Gandalf may tap to "test" a ring in his company.   
 > > 
 > > {: .fs-3 } 
 > > _“‘Yet the way of the Ring to my heart is by pity, pity for weakness and the desire of strength to do good.’”_ ***---&#65279;LotRI***  
@@ -123,7 +123,7 @@ permalink: /cards/gandalf/
 > > <div class="character-card-name">Gandalf</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 10![](/assets/images/di.svg)
+> > 10 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Scout/Sage/Diplomat Wizard

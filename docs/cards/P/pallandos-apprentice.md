@@ -19,7 +19,7 @@ permalink: /cards/pallandos-apprentice/
 > > <div class="card-name">Pallando's Apprentice</div>
 >
 > {: .stage-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > +1![](/assets/images/di.svg) 2![](/assets/images/stage-point.svg)
+> > +1 ![](/assets/images/di.svg) 2![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event

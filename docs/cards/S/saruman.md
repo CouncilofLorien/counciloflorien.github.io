@@ -19,7 +19,7 @@ permalink: /cards/saruman/
 > > <div class="character-card-name">Saruman</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 10![](/assets/images/di.svg)
+> > 10 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Scout/Ranger/Sage/Diplomat Wizard
@@ -45,7 +45,7 @@ permalink: /cards/saruman/
 > > <div class="character-card-name">Saruman</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 10![](/assets/images/di.svg)
+> > 10 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Scout/Ranger/Sage/Diplomat Wizard
@@ -71,7 +71,7 @@ permalink: /cards/saruman/
 > > <div class="character-card-name">Saruman</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 10![](/assets/images/di.svg)
+> > 10 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Scout/Ranger/Sage/Diplomat Wizard
@@ -97,13 +97,13 @@ permalink: /cards/saruman/
 > > <div class="character-card-name">Saruman</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 15![](/assets/images/gi.svg) 12![](/assets/images/di.svg)
+> > 15 ![](/assets/images/gi.svg)&ensp;12 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Scout/Ranger/Sage/Diplomat Fallen-wizard
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ Can use sorcery. Your non-weapon/non-armor/non-shield/non-helmet items are each worth full marshalling points. May tap to use a Palantir he bears. -1 to all corruption checks. At the beginning of your end-of-turn phase, you may tap Saruman to take one spell or sorcery card from your discard pile to your hand.   
+> > _Unique._ Can use sorcery. Your non-weapon/non-armor/non-shield/non-helmet items are each worth full marshalling points. May tap to use a Palantir he bears. -1 to all corruption checks. At the beginning of your end-of-turn phase, you may tap Saruman to take one spell or sorcery card from your discard pile to your hand.   
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Isengard 
@@ -120,7 +120,7 @@ permalink: /cards/saruman/
 > > <div class="character-card-name">Saruman</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 10![](/assets/images/di.svg)
+> > 10 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Scout/Ranger/Sage/Diplomat Wizard

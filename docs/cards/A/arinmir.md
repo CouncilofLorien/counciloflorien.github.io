@@ -19,7 +19,7 @@ permalink: /cards/arinmir/
 > > <div class="character-card-name">Arinmir</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg)&ensp;2![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&ensp;2 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Sage/Diplomat Elf
@@ -45,7 +45,7 @@ permalink: /cards/arinmir/
 > > <div class="character-card-name">Arinmir</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg)&ensp;2![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&ensp;2 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Sage/Diplomat Elf

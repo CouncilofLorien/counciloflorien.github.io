@@ -19,7 +19,7 @@ permalink: /cards/gamling-the-old/
 > > <div class="character-card-name">Gamling the Old</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 2 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
+> > 2 ![](/assets/images/mind.svg)&ensp;1 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior Man
@@ -45,7 +45,7 @@ permalink: /cards/gamling-the-old/
 > > <div class="character-card-name">Gamling the Old</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 2 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
+> > 2 ![](/assets/images/mind.svg)&ensp;1 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior Man

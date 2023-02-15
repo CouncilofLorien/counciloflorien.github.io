@@ -19,7 +19,7 @@ permalink: /cards/master-of-shapes/
 > > <div class="card-name">Master of Shapes</div>
 >
 > {: .stage-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > 25![](/assets/images/gi.svg) 1![](/assets/images/di.svg) 1![](/assets/images/stage-point.svg)
+> > 25![](/assets/images/gi.svg) 1 ![](/assets/images/di.svg) 1![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event

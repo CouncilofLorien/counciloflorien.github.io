@@ -19,7 +19,7 @@ permalink: /cards/wizards-ring/
 > > <div class="card-name">Wizard's Ring</div>
 >
 > {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > +5![](/assets/images/di.svg)
+> > +5 ![](/assets/images/di.svg)
 >
 > {: .card-classification .pr-2 }
 > Special Item
@@ -42,7 +42,7 @@ permalink: /cards/wizards-ring/
 > > <div class="card-name">Wizard's Ring</div>
 >
 > {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > +5![](/assets/images/di.svg)
+> > +5 ![](/assets/images/di.svg)
 >
 > {: .card-classification .pr-2 }
 > Special Item

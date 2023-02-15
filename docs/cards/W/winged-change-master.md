@@ -19,7 +19,7 @@ permalink: /cards/winged-change-master/
 > > <div class="card-name">Winged Change-master</div>
 >
 > {: .stage-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > 19![](/assets/images/gi.svg) 8![](/assets/images/di.svg) 1![](/assets/images/stage-point.svg)
+> > 19![](/assets/images/gi.svg) 8 ![](/assets/images/di.svg) 1![](/assets/images/stage-point.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event

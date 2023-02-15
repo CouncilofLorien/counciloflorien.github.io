@@ -19,7 +19,7 @@ permalink: /cards/sacrifice-of-form/
 > > <div class="card-name">Sacrifice of Form</div>
 >
 > {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > +1![](/assets/images/di.svg)
+> > +1 ![](/assets/images/di.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event
@@ -39,7 +39,7 @@ permalink: /cards/sacrifice-of-form/
 > > <div class="card-name">Sacrifice of Form</div>
 >
 > {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > +1![](/assets/images/di.svg)
+> > +1 ![](/assets/images/di.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event

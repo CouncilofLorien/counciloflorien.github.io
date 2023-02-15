@@ -19,7 +19,7 @@ permalink: /cards/threlin/
 > > <div class="card-name">Threlin</div>
 >
 > {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
-> > 5 ![](/assets/images/mind.svg)&ensp;2![](/assets/images/di.svg)
+> > 5 ![](/assets/images/mind.svg)&ensp;2 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Diplomat Dwarf

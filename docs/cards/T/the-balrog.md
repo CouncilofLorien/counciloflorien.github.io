@@ -39,7 +39,7 @@ permalink: /cards/the-balrog/
 > > <div class="card-name">The Balrog</div>
 >
 > {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
-> > 6![](/assets/images/di.svg)
+> > 6 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Ranger Balrog

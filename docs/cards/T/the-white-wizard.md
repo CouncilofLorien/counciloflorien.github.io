@@ -19,7 +19,7 @@ permalink: /cards/the-white-wizard/
 > > <div class="card-name">The White Wizard</div>
 >
 > {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > +2![](/assets/images/di.svg)
+> > +2 ![](/assets/images/di.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event

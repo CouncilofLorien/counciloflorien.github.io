@@ -59,7 +59,7 @@ permalink: /cards/the-arkenstone/
 > > <div class="card-name">The Arkenstone</div>
 >
 > {: .minion-resource-name .white-text .mind-di .p-1 .pl-2 }
-> > [+5![](/assets/images/di.svg)]
+> > [+5 ![](/assets/images/di.svg)]
 >
 > {: .hazard-classification .pr-2 }
 > Greater Item
@@ -82,7 +82,7 @@ permalink: /cards/the-arkenstone/
 > > <div class="card-name">The Arkenstone</div>
 >
 > {: .minion-resource-name .white-text .mind-di .p-1 .pl-2 }
-> > [+5![](/assets/images/di.svg)]
+> > [+5 ![](/assets/images/di.svg)]
 >
 > {: .hazard-classification .pr-2 }
 > Greater Item

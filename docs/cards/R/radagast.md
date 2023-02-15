@@ -19,7 +19,7 @@ permalink: /cards/radagast/
 > > <div class="character-card-name">Radagast</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 10![](/assets/images/di.svg)
+> > 10 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Scout/Ranger/Diplomat Wizard
@@ -45,7 +45,7 @@ permalink: /cards/radagast/
 > > <div class="character-card-name">Radagast</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 10![](/assets/images/di.svg)
+> > 10 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Scout/Ranger/Diplomat Wizard
@@ -71,13 +71,13 @@ permalink: /cards/radagast/
 > > <div class="character-card-name">Radagast</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 22![](/assets/images/gi.svg) 5![](/assets/images/di.svg)
+> > 22 ![](/assets/images/gi.svg)&ensp;5 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Scout/Ranger/Diplomat Fallen-wizard
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ Your unique factions that are neither Man, Dwarf, Dunedain, Hobbit, Orc, nor Troll are each worth 2 marshalling points. Your hero allies each are worth full marshalling points. Hero allies Radagast controls have no movement restrictions. When Radagast's new site is revealed, he may draw one additional card for each Wilderness \[![](/assets/images/wilderness.svg)] in his company's site path.   
+> > _Unique._ Your unique factions that are neither Man, Dwarf, Dunedain, Hobbit, Orc, nor Troll are each worth 2 marshalling points. Your hero allies each are worth full marshalling points. Hero allies Radagast controls have no movement restrictions. When Radagast's new site is revealed, he may draw one additional card for each Wilderness \[![](/assets/images/wilderness.svg)] in his company's site path.   
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Rhosgobel 
@@ -94,7 +94,7 @@ permalink: /cards/radagast/
 > > <div class="character-card-name">Radagast</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 10![](/assets/images/di.svg)
+> > 10 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Scout/Ranger/Diplomat Wizard

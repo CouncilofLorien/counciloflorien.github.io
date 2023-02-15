@@ -19,7 +19,7 @@ permalink: /cards/the-mouth/
 > > <div class="card-name">The Mouth</div>
 >
 > {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
-> > 9 ![](/assets/images/mind.svg)&ensp;4![](/assets/images/di.svg)
+> > 9 ![](/assets/images/mind.svg)&ensp;4 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Diplomat Man
@@ -42,7 +42,7 @@ permalink: /cards/the-mouth/
 > > <div class="card-name">The Mouth</div>
 >
 > {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
-> > 9 ![](/assets/images/mind.svg)&ensp;4![](/assets/images/di.svg)
+> > 9 ![](/assets/images/mind.svg)&ensp;4 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Diplomat Man

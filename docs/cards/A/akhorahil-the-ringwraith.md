@@ -19,7 +19,7 @@ permalink: /cards/akhorahil-the-ringwraith/
 > > <div class="card-name">Akhorahil the Ringwraith</div>
 >
 > {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
-> > 3![](/assets/images/di.svg)
+> > 3 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Sage Ringwraith

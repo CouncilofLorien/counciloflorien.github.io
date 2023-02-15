@@ -19,7 +19,7 @@ permalink: /cards/fell-rider/
 > > <div class="card-name">Fell Rider</div>
 >
 > {: .minion-resource-name .white-text .mind-di .p-1 .pl-2 }
-> > -3![](/assets/images/di.svg)
+> > -3 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Permanent-event
@@ -39,7 +39,7 @@ permalink: /cards/fell-rider/
 > > <div class="card-name">Fell Rider</div>
 >
 > {: .minion-resource-name .white-text .mind-di .p-1 .pl-2 }
-> > -3![](/assets/images/di.svg)
+> > -3 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Permanent-event

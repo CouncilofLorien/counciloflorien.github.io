@@ -19,7 +19,7 @@ permalink: /cards/hoarmurath-the-ringwraith/
 > > <div class="card-name">Hoarmurath the Ringwraith</div>
 >
 > {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
-> > 3![](/assets/images/di.svg)
+> > 3 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Scout/Ranger/Sage Ringwraith
@@ -42,7 +42,7 @@ permalink: /cards/hoarmurath-the-ringwraith/
 > > <div class="card-name">Hoarmurath the Ringwraith</div>
 >
 > {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
-> > 3![](/assets/images/di.svg)
+> > 3 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Scout/Ranger/Sage Ringwraith

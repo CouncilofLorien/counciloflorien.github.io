@@ -19,7 +19,7 @@ permalink: /cards/tarcil/
 > > <div class="card-name">Tarcil</div>
 >
 > {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
-> > 6 ![](/assets/images/mind.svg)&ensp;2![](/assets/images/di.svg)
+> > 6 ![](/assets/images/mind.svg)&ensp;2 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Ranger/Diplomat Dunadan

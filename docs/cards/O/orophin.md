@@ -19,7 +19,7 @@ permalink: /cards/orophin/
 > > <div class="character-card-name">Orophin</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 2 ![](/assets/images/mind.svg)&ensp;0![](/assets/images/di.svg)
+> > 2 ![](/assets/images/mind.svg)&ensp;0 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Ranger Elf
@@ -45,7 +45,7 @@ permalink: /cards/orophin/
 > > <div class="character-card-name">Orophin</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 2 ![](/assets/images/mind.svg)&ensp;0![](/assets/images/di.svg)
+> > 2 ![](/assets/images/mind.svg)&ensp;0 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Ranger Elf
@@ -71,7 +71,7 @@ permalink: /cards/orophin/
 > > <div class="character-card-name">Orophin</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 2 ![](/assets/images/mind.svg)&ensp;0![](/assets/images/di.svg)
+> > 2 ![](/assets/images/mind.svg)&ensp;0 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Ranger Elf

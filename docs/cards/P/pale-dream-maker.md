@@ -19,7 +19,7 @@ permalink: /cards/pale-dream-maker/
 > > <div class="card-name">Pale Dream-maker</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > 0![](/assets/images/di.svg)
+> > 0 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Permanent-event

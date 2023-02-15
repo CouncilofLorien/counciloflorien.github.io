@@ -19,7 +19,7 @@ permalink: /cards/choice-of-luthien/
 > > <div class="card-name">Choice of Luthien</div>
 >
 > {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > +2 ![](/assets/images/mind.svg)&ensp;+2![](/assets/images/di.svg)
+> > +2 ![](/assets/images/mind.svg)&ensp;+2 ![](/assets/images/di.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event

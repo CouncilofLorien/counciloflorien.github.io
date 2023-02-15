@@ -19,7 +19,7 @@ permalink: /cards/dwarven-ring-of-durins-tribe/
 > > <div class="card-name">Dwarven Ring of Durin's Tribe</div>
 >
 > {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > +2![](/assets/images/di.svg) [7![](/assets/images/di.svg)]
+> > +2 ![](/assets/images/di.svg) [7 ![](/assets/images/di.svg)]
 >
 > {: .card-classification .pr-2 }
 > Special Item
@@ -42,7 +42,7 @@ permalink: /cards/dwarven-ring-of-durins-tribe/
 > > <div class="card-name">Dwarven Ring of Durin's Tribe</div>
 >
 > {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > +2![](/assets/images/di.svg) [7![](/assets/images/di.svg)]
+> > +2 ![](/assets/images/di.svg) [7 ![](/assets/images/di.svg)]
 >
 > {: .card-classification .pr-2 }
 > Special Item
@@ -65,7 +65,7 @@ permalink: /cards/dwarven-ring-of-durins-tribe/
 > > <div class="card-name">Dwarven Ring of Durin's Tribe</div>
 >
 > {: .minion-resource-name .white-text .mind-di .p-1 .pl-2 }
-> > +2![](/assets/images/di.svg) [7![](/assets/images/di.svg)]
+> > +2 ![](/assets/images/di.svg) [7 ![](/assets/images/di.svg)]
 >
 > {: .hazard-classification .pr-2 }
 > Special Item

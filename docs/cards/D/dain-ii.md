@@ -19,7 +19,7 @@ permalink: /cards/dain-ii/
 > > <div class="character-card-name">Dain II</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 7 ![](/assets/images/mind.svg)&ensp;3![](/assets/images/di.svg)
+> > 7 ![](/assets/images/mind.svg)&ensp;3 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Diplomat Dwarf
@@ -45,7 +45,7 @@ permalink: /cards/dain-ii/
 > > <div class="character-card-name">Dain II</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 7 ![](/assets/images/mind.svg)&ensp;3![](/assets/images/di.svg)
+> > 7 ![](/assets/images/mind.svg)&ensp;3 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Diplomat Dwarf

@@ -19,13 +19,13 @@ permalink: /cards/ugluk/
 > > <div class="card-name">Ugluk</div>
 >
 > {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
-> > 5 ![](/assets/images/mind.svg)&ensp;0![](/assets/images/di.svg)
+> > 5 ![](/assets/images/mind.svg)&ensp;0 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Ranger Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ _Uruk-hai._ _Leader._ Discard on a body check result of 9. +3 direct influence against Orcs and Orc factions. 
+> > _Unique._ _Uruk-hai._ _Leader._ Discard on a body check result of 9. +3 direct influence against Orcs and Orc factions. 
 > > 
 > > {: .fs-3 } 
 > > _“‘I am Ugluk. I command."_ ***---&#65279;LotRIII***  

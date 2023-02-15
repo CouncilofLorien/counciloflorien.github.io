@@ -19,7 +19,7 @@ permalink: /cards/pallando/
 > > <div class="character-card-name">Pallando</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 10![](/assets/images/di.svg)
+> > 10 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Ranger/Sage/Diplomat Wizard
@@ -45,7 +45,7 @@ permalink: /cards/pallando/
 > > <div class="character-card-name">Pallando</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 10![](/assets/images/di.svg)
+> > 10 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Ranger/Sage/Diplomat Wizard
@@ -71,13 +71,13 @@ permalink: /cards/pallando/
 > > <div class="character-card-name">Pallando</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 20![](/assets/images/GI.svg)&ensp;7![](/assets/images/di.svg)
+> > 20 ![](/assets/images/gi.svg)&ensp;7 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Ranger/Sage/Diplomat Fallen-wizard
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ Can use spirit-magic. Your Man, Dwarf, Elf, Dunedain, Hobbit, Orc, and Troll factions are each worth 2 marshalling points. You may keep one more card than normal in your hand. 
+> > _Unique._ Can use spirit-magic. Your Man, Dwarf, Elf, Dunedain, Hobbit, Orc, and Troll factions are each worth 2 marshalling points. You may keep one more card than normal in your hand. 
 > > 
 > > {: .fs-3 } 
 > > _“‘Slay whom your lord names as enemies, and be content. Meddle not in policies which you do not understand.’”_ ***---&#65279;LotRIII***  
@@ -97,7 +97,7 @@ permalink: /cards/pallando/
 > > <div class="character-card-name">Pallando</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 10![](/assets/images/di.svg)
+> > 10 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Ranger/Sage/Diplomat Wizard

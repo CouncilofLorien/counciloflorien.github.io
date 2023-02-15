@@ -19,7 +19,7 @@ permalink: /cards/anduril,-the-flame-of-the-west/
 > > <div class="card-name">Anduril, the Flame of the West</div>
 >
 > {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > +1![](/assets/images/di.svg)
+> > +1 ![](/assets/images/di.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event
@@ -39,7 +39,7 @@ permalink: /cards/anduril,-the-flame-of-the-west/
 > > <div class="card-name">Anduril, the Flame of the West</div>
 >
 > {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > +1![](/assets/images/di.svg)
+> > +1 ![](/assets/images/di.svg)
 >
 > {: .card-classification .pr-2 }
 > Permanent-event

@@ -19,7 +19,7 @@ permalink: /cards/ufthak/
 > > <div class="card-name">Ufthak</div>
 >
 > {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg)&ensp;0![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&ensp;0 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Scout/Ranger Orc
@@ -45,7 +45,7 @@ permalink: /cards/ufthak/
 > > <div class="card-name">Ufthak</div>
 >
 > {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg)&ensp;0![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&ensp;0 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Scout/Ranger Orc

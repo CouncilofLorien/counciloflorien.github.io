@@ -19,7 +19,7 @@ permalink: /cards/wizards-staff/
 > > <div class="card-name">Wizard's Staff</div>
 >
 > {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > +2![](/assets/images/di.svg)
+> > +2 ![](/assets/images/di.svg)
 >
 > {: .card-classification .pr-2 }
 > Greater Item

@@ -19,7 +19,7 @@ permalink: /cards/elf-stone/
 > > <div class="card-name">Elf-stone</div>
 >
 > {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > [+2![](/assets/images/di.svg)]
+> > [+2 ![](/assets/images/di.svg)]
 >
 > {: .card-classification .pr-2 }
 > Minor Item
@@ -42,7 +42,7 @@ permalink: /cards/elf-stone/
 > > <div class="card-name">Elf-stone</div>
 >
 > {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > [+2![](/assets/images/di.svg)]
+> > [+2 ![](/assets/images/di.svg)]
 >
 > {: .card-classification .pr-2 }
 > Minor Item
@@ -65,7 +65,7 @@ permalink: /cards/elf-stone/
 > > <div class="card-name">Elf-stone</div>
 >
 > {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > [+2![](/assets/images/di.svg)]
+> > [+2 ![](/assets/images/di.svg)]
 >
 > {: .card-classification .pr-2 }
 > Minor Item

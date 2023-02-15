@@ -19,7 +19,7 @@ permalink: /cards/lieutenant-of-dol-guldur/
 > > <div class="card-name">Lieutenant of Dol Guldur</div>
 >
 > {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
-> > 9 ![](/assets/images/mind.svg)&ensp;3![](/assets/images/di.svg)
+> > 9 ![](/assets/images/mind.svg)&ensp;3 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Sage Troll

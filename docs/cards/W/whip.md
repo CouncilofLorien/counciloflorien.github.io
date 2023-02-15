@@ -19,7 +19,7 @@ permalink: /cards/whip/
 > > <div class="card-name">Whip</div>
 >
 > {: .minion-resource-name .white-text .mind-di .p-1 .pl-2 }
-> > [+2![](/assets/images/di.svg)]
+> > [+2 ![](/assets/images/di.svg)]
 >
 > {: .hazard-classification .pr-2 }
 > Minor Item

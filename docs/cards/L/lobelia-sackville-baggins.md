@@ -19,7 +19,7 @@ permalink: /cards/lobelia-sackville-baggins/
 > > <div class="card-name">Lobelia Sackville-Baggins</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > 3 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
+> > 3 ![](/assets/images/mind.svg)&ensp;1 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Scout Hobbit

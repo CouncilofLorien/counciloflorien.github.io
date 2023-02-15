@@ -19,7 +19,7 @@ permalink: /cards/squint-eyed-brute/
 > > <div class="card-name">Squint-eyed Brute</div>
 >
 > {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
-> > 2 ![](/assets/images/mind.svg)&ensp;0![](/assets/images/di.svg)
+> > &ensp;![](/assets/images/mind.svg)&ensp;0 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior Orc

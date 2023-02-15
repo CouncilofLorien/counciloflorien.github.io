@@ -19,7 +19,7 @@ permalink: /cards/peath/
 > > <div class="character-card-name">Peath</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&ensp;1 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Ranger/Diplomat Man
@@ -45,7 +45,7 @@ permalink: /cards/peath/
 > > <div class="character-card-name">Peath</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&ensp;1 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Ranger/Diplomat Man
@@ -71,7 +71,7 @@ permalink: /cards/peath/
 > > <div class="character-card-name">Peath</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&ensp;1 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Ranger/Diplomat Man

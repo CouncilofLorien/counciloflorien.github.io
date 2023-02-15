@@ -19,7 +19,7 @@ permalink: /cards/old-treasure/
 > > <div class="card-name">Old Treasure</div>
 >
 > {: .minion-resource-name .white-text .mind-di .p-1 .pl-2 }
-> > +1![](/assets/images/di.svg)
+> > +1 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Minor Item

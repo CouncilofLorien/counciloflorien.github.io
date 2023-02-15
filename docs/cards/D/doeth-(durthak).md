@@ -19,13 +19,13 @@ permalink: /cards/doeth-(durthak)/
 > > <div class="card-name">Doeth (Durthak)</div>
 >
 > {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg)&ensp;0![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&ensp;0 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Sage Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ _Half-orc._ Discard on a body check result of 9.   
+> > _Unique._ _Half-orc._ Discard on a body check result of 9.   
 > > 
 > > {: .fs-3 } 
 > > _“‘Go and ask Ferny where your handsome friend is!’”_ ***---&#65279;LotRI***  

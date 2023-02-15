@@ -65,7 +65,7 @@ permalink: /cards/wellinghall/
 > > <div class="card-name">Wellinghall</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)
+> > 17 ![](/assets/images/gi.svg)&emsp;10 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Fangorn

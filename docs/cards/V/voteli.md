@@ -19,7 +19,7 @@ permalink: /cards/voteli/
 > > <div class="character-card-name">Voteli</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 3 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
+> > 3 ![](/assets/images/mind.svg)&ensp;1 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Ranger/Sage Man
@@ -45,7 +45,7 @@ permalink: /cards/voteli/
 > > <div class="character-card-name">Voteli</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 3 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
+> > 3 ![](/assets/images/mind.svg)&ensp;1 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Ranger/Sage Man

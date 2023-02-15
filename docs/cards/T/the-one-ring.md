@@ -19,7 +19,7 @@ permalink: /cards/the-one-ring/
 > > <div class="card-name">The One Ring</div>
 >
 > {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > +5![](/assets/images/di.svg)
+> > +5 ![](/assets/images/di.svg)
 >
 > {: .card-classification .pr-2 }
 > Special Item
@@ -39,7 +39,7 @@ permalink: /cards/the-one-ring/
 > > <div class="card-name">The One Ring</div>
 >
 > {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > +5![](/assets/images/di.svg)
+> > +5 ![](/assets/images/di.svg)
 >
 > {: .card-classification .pr-2 }
 > Special Item
@@ -59,7 +59,7 @@ permalink: /cards/the-one-ring/
 > > <div class="card-name">The One Ring</div>
 >
 > {: .minion-resource-name .white-text .mind-di .p-1 .pl-2 }
-> > +5![](/assets/images/di.svg)
+> > +5 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Special Item

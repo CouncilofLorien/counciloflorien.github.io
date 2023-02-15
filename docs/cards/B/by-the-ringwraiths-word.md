@@ -19,7 +19,7 @@ permalink: /cards/by-the-ringwraiths-word/
 > > <div class="card-name">By the Ringwraith's Word</div>
 >
 > {: .minion-resource-name .white-text .mind-di .p-1 .pl-2 }
-> > +4![](/assets/images/di.svg)
+> > +4 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Permanent-event
@@ -36,7 +36,7 @@ permalink: /cards/by-the-ringwraiths-word/
 > > <div class="card-name">By the Ringwraith's Word</div>
 >
 > {: .minion-resource-name .white-text .mind-di .p-1 .pl-2 }
-> > +4![](/assets/images/di.svg)
+> > +4 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Permanent-event

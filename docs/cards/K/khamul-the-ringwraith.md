@@ -19,7 +19,7 @@ permalink: /cards/khamul-the-ringwraith/
 > > <div class="card-name">Khamul the Ringwraith</div>
 >
 > {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
-> > 4![](/assets/images/di.svg)
+> > 4 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Ranger/Diplomat Ringwraith

@@ -19,7 +19,7 @@ permalink: /cards/the-witch-king/
 > > <div class="card-name">The Witch-king</div>
 >
 > {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
-> > 3![](/assets/images/di.svg)
+> > 3 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Sage/Diplomat Ringwraith
@@ -42,7 +42,7 @@ permalink: /cards/the-witch-king/
 > > <div class="card-name">The Witch-king</div>
 >
 > {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
-> > 3![](/assets/images/di.svg)
+> > 3 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Sage/Diplomat Ringwraith

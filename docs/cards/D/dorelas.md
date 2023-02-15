@@ -19,7 +19,7 @@ permalink: /cards/dorelas/
 > > <div class="card-name">Dorelas</div>
 >
 > {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
-> > 3 ![](/assets/images/mind.svg)&ensp;1![](/assets/images/di.svg)
+> > 3 ![](/assets/images/mind.svg)&ensp;1 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Sage Man

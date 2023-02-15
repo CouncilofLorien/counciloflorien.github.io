@@ -19,7 +19,7 @@ permalink: /cards/the-iron-crown/
 > > <div class="card-name">The Iron Crown</div>
 >
 > {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > [+4![](/assets/images/di.svg)]
+> > [+4 ![](/assets/images/di.svg)]
 >
 > {: .card-classification .pr-2 }
 > Greater Item
@@ -42,7 +42,7 @@ permalink: /cards/the-iron-crown/
 > > <div class="card-name">The Iron Crown</div>
 >
 > {: .minion-resource-name .white-text .mind-di .p-1 .pl-2 }
-> > +4![](/assets/images/di.svg)
+> > +4 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Greater Item

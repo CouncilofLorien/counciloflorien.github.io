@@ -19,7 +19,7 @@ permalink: /cards/luitprand/
 > > <div class="card-name">Luitprand</div>
 >
 > {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
-> > 1 ![](/assets/images/mind.svg)&ensp;0![](/assets/images/di.svg)
+> > 1 ![](/assets/images/mind.svg)&ensp;0 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Scout Man
@@ -45,7 +45,7 @@ permalink: /cards/luitprand/
 > > <div class="card-name">Luitprand</div>
 >
 > {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
-> > 1 ![](/assets/images/mind.svg)&ensp;0![](/assets/images/di.svg)
+> > 1 ![](/assets/images/mind.svg)&ensp;0 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Scout Man

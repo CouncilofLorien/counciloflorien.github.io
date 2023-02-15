@@ -19,7 +19,7 @@ permalink: /cards/baduila/
 > > <div class="card-name">Baduila</div>
 >
 > {: .minion-character-frame .white-text .mind-di .p-1 .pl-2 }
-> > 8 ![](/assets/images/mind.svg)&ensp;2![](/assets/images/di.svg)
+> > 8 ![](/assets/images/mind.svg)&ensp;2 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Warrior/Scout/Ranger Man
