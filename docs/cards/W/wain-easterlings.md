@@ -56,7 +56,7 @@ permalink: /cards/wain-easterlings/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Manifestation of minion Wain-easterlings. Playable at Easterling Camp if the influence check is greater than 8. <br>_Standard Modifications:_ Wizards (-5), Dunedain (-2). 
+> > _**Unique.**_ _Manifestation of minion Wain-easterlings._ ***Playable at Easterling Camp*** <br>&ensp;if the influence check is greater than 8. <br>_Standard Modifications:_ Wizards (-5), Dunedain (-2). 
 > > 
 > > {: .fs-3 } 
 > > _“‘Their homes, their wain-borne palaces made of tapestries, everything moves according to the seasons or fortunes on the battlefield.’”_ ***---&#65279;Kuduk&nbsp;Lore*** 

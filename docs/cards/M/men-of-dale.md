@@ -39,7 +39,7 @@ permalink: /cards/men-of-dale/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ ***Playable at Dale*** <br>&ensp;if the influence is greater than 7. <br>_Standard Modifications:_ Men (+2), Dwarves (+1). 
+> > _**Unique.**_ ***Playable at Dale*** if the influence is greater than 7. <br>_Standard Modifications:_ Men (+2), Dwarves (+1). 
 > > 
 > > {: .fs-3 } 
 > > _“Most of the men of the northern regions of the West-lands were descended from the Edain of the First Age, or from their close kin... Of this kind were...the Men of the Long Lake and of Dale."_ ***---&#65279;LotR*** 

@@ -77,10 +77,10 @@ permalink: /cards/peath/
 > Ranger/Diplomat Man
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +4 direct influence against the Dunlending faction. Against Nazgul, +5 to her prowess, his body is halved (round up). 
+> > _**Unique.**_ +4 direct influence against the _Dunlendings_ faction. Against Nazgul and Ringwraiths, +5 to her prowess and the Nazgul/Ringwraith's body is halved (round up). 
 > > 
 > > {: .fs-3 } 
-> > _“...a Dunlending conjurer...given to strange beliefs; yet she was comely, wise and fair...possessed by a proud untameable spirit."_ ***---&#65279;Kuduk&nbsp;Lore***  
+> > _“...given to strange beliefs; yet she was comely, wise and fair..."_ ***---&#65279;Kuduk&nbsp;Lore***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Dunnish Clan-hold 

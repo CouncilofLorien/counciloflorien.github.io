@@ -129,7 +129,7 @@ permalink: /cards/gandalf/
 > Warrior/Scout/Sage/Diplomat Wizard
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ All of his corruption checks are modified by +1. <br>&ensp;Can tap to "test" a gold ring. 
+> > _**Unique.**_ +1 to all of his corruption checks. May tap to test a gold ring in his company. 
 > > 
 > > {: .fs-3 } 
 > > _“In his aged face under great snowy brows his eyes were set like coals that could leap suddenly into fire."_ ***---&#65279;LotRII***  

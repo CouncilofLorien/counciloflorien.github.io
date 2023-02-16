@@ -25,7 +25,7 @@ permalink: /cards/pallando/
 > Warrior/Ranger/Sage/Diplomat Wizard
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ His controlling player may keep one more card than normal in his hand. <br>&ensp;Opponent must discard his cards face up. 
+> > _**Unique.**_ His controlling player may keep one more card than normal in his hand. <br>&ensp;Opponent must discard his cards face-up. 
 > > 
 > > {: .fs-3 } 
 > > _“They came therefore in the shape of Men, though they were never young and aged only slowly...”_ ***---&#65279;LotR***  
@@ -51,7 +51,7 @@ permalink: /cards/pallando/
 > Warrior/Ranger/Sage/Diplomat Wizard
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ His controlling player may keep one more card than normal in his hand. <br>&ensp;Opponent must discard his cards face up. 
+> > _**Unique.**_ His controlling player may keep one more card than normal in his hand. <br>&ensp;Opponent must discard his cards face-up. 
 > > 
 > > {: .fs-3 } 
 > > _“They came therefore in the shape of Men, though they were never young and aged only slowly...”_ ***---&#65279;LotR***  
@@ -103,7 +103,7 @@ permalink: /cards/pallando/
 > Warrior/Ranger/Sage/Diplomat Wizard
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ His controlling player may keep one more card than normal in his hand. <br>&ensp;Opponent must discard his cards face up. 
+> > _**Unique.**_ His controlling player may keep one more card than normal in his hand. <br>&ensp;Opponent must discard his cards face-up. 
 > > 
 > > {: .fs-3 } 
 > > _“They came therefore in the shape of Men, though they were never young and aged only slowly...”_ ***---&#65279;LotR***  

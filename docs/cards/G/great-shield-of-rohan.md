@@ -22,7 +22,7 @@ permalink: /cards/great-shield-of-rohan/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ _Shield._ +2 to body to a maximum of 9. Warriror only: tap _Great-shield of Rohan_ to remain untapped against one strike (unless the bearer is wounded by the strike). 
+> > _Unique._ _Shield._ +2 to body to a maximum of 9. Warriror only: tap _Great Shield of Rohan_ to remain untapped against one strike (unless the bearer is wounded by the strike). 
 > > 
 > > {: .fs-3 } 
 > > _“His golden shield was uncovered, and lo! it shone like an image of the Sun, and the grass flamed into green about the white feet of his steed."_ ***---&#65279;LotRV*** 
@@ -42,7 +42,7 @@ permalink: /cards/great-shield-of-rohan/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ _Shield._ +2 to body to a maximum of 9. Warriror only: tap _Great-shield of Rohan_ to remain untapped against one strike (unless the bearer is wounded by the strike). 
+> > _Unique._ _Shield._ +2 to body to a maximum of 9. Warriror only: tap _Great Shield of Rohan_ to remain untapped against one strike (unless the bearer is wounded by the strike). 
 > > 
 > > {: .fs-3 } 
 > > _“His golden shield was uncovered, and lo! it shone like an image of the Sun, and the grass flamed into green about the white feet of his steed."_ ***---&#65279;LotRV*** 
@@ -82,7 +82,7 @@ permalink: /cards/great-shield-of-rohan/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ _Shield._ +2 to body to a maximum of 9. Warriror only: tap _Great-shield of Rohan_ to remain untapped against one strike (unless the bearer is wounded by the strike). 
+> > _Unique._ _Shield._ +2 to body to a maximum of 9. _Warriror only:_ tap _Great Shield of Rohan_ to remain untapped against one strike (unless the bearer is wounded by the strike). 
 > > 
 > > {: .fs-3 } 
 > > _“His golden shield was uncovered, and lo! it shone like an image of the Sun, and the grass flamed into green about the white feet of his steed."_ ***---&#65279;LotRV*** 

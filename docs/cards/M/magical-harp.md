@@ -22,7 +22,7 @@ permalink: /cards/magical-harp/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Hoard item._ Tap _Magical Harp_ to cancel all actions for the rest of the turn that discard target character in bearer's company. Bearer makes a corruption check. This item may also be so tapped during opponent's site phase. 
+> > _**Unique.**_ _Hoard item._ Tap _Magical Harp_ to cancel all actions for the rest of the turn that discard a target character in bearer's company. Bearer makes a corruption check. This item may also be so tapped during opponent's site phase. 
 > > 
 > > {: .fs-3 } 
 > > _“Then the dwarves themselves brought forth harps and instruments regained from the hoard, and made music to soften his mood...”_ ***---&#65279;Hob*** 
@@ -42,7 +42,7 @@ permalink: /cards/magical-harp/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Hoard item._ Tap _Magical Harp_ to cancel all actions for the rest of the turn that discard target character in bearer's company. Bearer makes a corruption check. This item may also be so tapped during opponent's site phase or the Free Council. 
+> > _**Unique.**_ _Hoard item._ Tap _Magical Harp_ to cancel all effects for the rest of the turn that discard a target character in bearer's company. Bearer makes a corruption check. This item may also be so tapped during opponent's site phase or the Free Council. 
 > > 
 > > {: .fs-3 } 
 > > _“Then the dwarves themselves brought forth harps and instruments regained from the hoard, and made music to soften his mood...”_ ***---&#65279;Hob*** 

@@ -48,7 +48,7 @@ permalink: /cards/fatty-bolger/
 > > 3 ![](/assets/images/mind.svg)&emsp;0 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
-> 
+> Scout Hobbit
 >
 > {: .character-text .black-text .p-2 }
 > > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All his corruption checks are modified by +1. He can tap to cancel a strike against another Hobbit in his company. 

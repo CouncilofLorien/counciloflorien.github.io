@@ -62,7 +62,7 @@ permalink: /cards/durins-axe/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Weapon._ +2 prowess (+4 if held by a Dwarf) to a maximum of 9. If held by a Dwarf, 4 marshalling points and 3 corruptions points. 
+> > _Unique._ _Weapon._ +2 prowess (+4 if held by a Dwarf) to a maximum of 9. If held by a Dwarf, 4 marshalling points and 3 corruptions points. 
 > > 
 > > {: .fs-3 } 
 > > _“Durin is the name that the Dwarves use for the eldest of the Seven Fathers of their race, and the ancestor of all the kings of the Longbeards."_ ***---&#65279;LotRVI*** 
