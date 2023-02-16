@@ -108,7 +108,7 @@ permalink: /cards/minas-morgul/
 > Imlad Morgul
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br> Undead-3 strikes with 8 prowess; Nazgul (cannot be canceled)-1 strike with 15 prowess <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. 
+> > _**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br> Undead --- 3 strikes with 8 prowess; <br>Nazgul (cannot be canceled) --- 1 strike with 15 prowess <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. 
 > > 
 > > {: .fs-3 } 
 > > _“...and its cavernous gate, shaped like an open mouth with gleaming teeth, was gaping wide."_ ***---&#65279;LotRIV*** 

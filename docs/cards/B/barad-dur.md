@@ -108,7 +108,7 @@ permalink: /cards/barad-dur/
 > Gorgoroth
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > <br>_**Playable:**_ Items (minor, major, greater) Automatic-attacks (3):  Orcs-4 strikes with 7 prowess; Trolls-3 strikes with 9 prowess; Maia (cannot be canceled)-1 strike with 24 prowess. Any creature wounded by the Maia's attack is automatically eliminated. <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. 
+> > _**Playable:**_ Items (minor, major, greater) <br>***Automatic-attacks (3):***  <br>Orcs --- 4 strikes with 7 prowess; <br>Trolls --- 3 strikes with 9 prowess; <br>Maia (cannot be canceled) --- 1 strike with 24 prowess. Any creature wounded by the Maia's attack is automatically eliminated. <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. 
 > 
 > {: .balrog-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;4&ensp;</span></div>

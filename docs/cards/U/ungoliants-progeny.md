@@ -22,7 +22,7 @@ permalink: /cards/ungoliants-progeny/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Spawn._. The Wind-deeps and The Rusted-deeps each have an additional automatic-attack: _Spawn._-2 strikes with 16/8 prowess/body. In addition, for each Spider attack your opponent faces, you can choose for it to be at +1 prowess and detainment.   
+> > _Unique._ _Spawn._ The Wind-deeps and The Rusted-deeps each have an additional automatic-attack: <br>Spawn --- 2 strikes with 16/8 prowess/body. <br>&ensp;In addition, for each Spider attack your opponent faces, you can choose for it to be at +1 prowess and detainment.   
 > > 
 > > {: .fs-3 } 
 > > _“...such as Beren fought in the Mountains of Terror in Doriath ...”_ ***---&#65279;LotRIV*** 

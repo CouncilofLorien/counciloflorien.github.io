@@ -59,7 +59,7 @@ permalink: /cards/the-under-courts/
 > Under-deeps
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Barad-dur (0), The Under-galleries (6), The Sulfur-deeps (7) <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>  Trolls (1st attack)-3 strikes with 10 prowess; (2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold \[![](/assets/images/shadow-hold.svg)] <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. 
+> > _**Adjacent Sites:**_ Barad-dur (0), The Under-galleries (6), The Sulfur-deeps (7) <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>  Trolls (1st attack) --- 3 strikes with 10 prowess; <br>(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold \[![](/assets/images/shadow-hold.svg)] <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. 
 > 
 > {: .balrog-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>

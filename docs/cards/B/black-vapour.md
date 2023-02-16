@@ -22,5 +22,5 @@ permalink: /cards/black-vapour/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Target any effect (Declared earlier in the same chain of effects) that would cancel a Spider attack. Make a roll and add the attack's prowess. If the result is greater than 14, the effect is canceled and the attack receives +1 prowess. Alternatively, +1 prowess to a Spider attack. This card can be revealed as an on-guard card for either effect. 
+> > Target any effect (declared earlier in the same chain of effects) that would cancel a Spider attack. Make a roll and add the attack's prowess. If the result is greater than 14, the effect is canceled and the attack receives +1 prowess. <br>&ensp;Alternatively, +1 prowess to a Spider attack. <br>&ensp;This card can be revealed as an on-guard card for either effect. 
 >

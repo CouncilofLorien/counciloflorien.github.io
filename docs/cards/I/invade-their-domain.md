@@ -22,5 +22,5 @@ permalink: /cards/invade-their-domain/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Balrog specific._ Playable during the site phase on the Blue Mountain or Iron Hill Dwarf-hold if the Balrog is there and Breach the Hold is on its adjacent Under-deeps site. The Balrog's company faces 3 attacks (Dwarves-5 strikes with 9 prowess, 4 strikes with 10 prowess, 3 strikes with 12 prowess). Following the attack, tap The Balrog or discard this card. If this card is not discarded, discard all unique factions playable at the site. Discard this card when the site is discarded or returned to its location deck. Cannot be duplicated on a given site. 
+> > _Balrog specific._ ***Playable during the site phase on the Blue Mountain or Iron Hill Dwarf-hold if the Balrog is there and Breach the Hold is on its adjacent Under-deeps site.*** The Balrog's company faces 3 attacks (Dwarves --- 5 strikes with 9 prowess, 4 strikes with 10 prowess, 3 strikes with 12 prowess). Following the attack, tap The Balrog or discard this card. If this card is not discarded, discard all unique factions playable at the site. Discard this card when the site is discarded or returned to its location deck. Cannot be duplicated on a given site. 
 > 

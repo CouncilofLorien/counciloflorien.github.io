@@ -22,7 +22,7 @@ permalink: /cards/the-drowning-deeps/
 > Under-deeps
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Blue-mountain Dwarf-hold (13), The Under-vaults (8), Remains of Thangorodrim (9) <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>  Drake (1st attack)-2 strikes with 11 prowess; (2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Coastal Seas \[![](/assets/images/coastalsea.svg)] <br>_**Special:**_ Creatures keyed to Coastal Seas \[![](/assets/images/coastalsea.svg)] and any Drakes may be keyed to this site. 
+> > _**Adjacent Sites:**_ Blue-mountain Dwarf-hold (13), The Under-vaults (8), Remains of Thangorodrim (9) <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>  Drake (1st attack) --- 2 strikes with 11 prowess; <br>(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Coastal Seas \[![](/assets/images/coastalsea.svg)] <br>_**Special:**_ Creatures keyed to Coastal Seas \[![](/assets/images/coastalsea.svg)] and any Drakes may be keyed to this site. 
 > 
 > {: .balrog-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

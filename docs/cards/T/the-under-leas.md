@@ -56,7 +56,7 @@ permalink: /cards/the-under-leas/
 > Under-deeps
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Mount Gundabad (0), The Wind-deeps (5), The Iron-deeps (6), The Under-grottos (6), The Under-gates (4), The Under-vaults (5) <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks (2):**_<br> Orcs (1st attack)-5 strikes with 7 prowess (detainment) (2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] <br>_**Special:**_ Creature keyed to this site attack normally, not as detainment. 
+> > _**Adjacent Sites:**_ Mount Gundabad (0), The Wind-deeps (5), The Iron-deeps (6), The Under-grottos (6), The Under-gates (4), The Under-vaults (5) <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks (2):**_<br> Orcs (1st attack) --- 5 strikes with 7 prowess (detainment) <br>(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] <br>_**Special:**_ Creature keyed to this site attack normally, not as detainment. 
 > 
 > {: .balrog-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>

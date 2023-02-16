@@ -22,5 +22,5 @@ permalink: /cards/show-things-unbidden/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable during the organization phase on Galadriel if untapped and at Lorien.*** Tap Galdirel. Opponent must choose and reveal to you 3 non-environment hazards from his hand and shuffle them into his play deck. If these are not available, opponent must reveal his hand to you and shuffle all non-environment hazards there into his play deck.  
+> > ***Playable during the organization phase on Galadriel if untapped and at Lorien.*** Tap Galadriel. Opponent must choose and reveal to you 3 non-environment hazards from his hand and shuffle them into his play deck. If these are not available, opponent must reveal his hand to you and shuffle all non-environment hazards there into his play deck.  
 > 

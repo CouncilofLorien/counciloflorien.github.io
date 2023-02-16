@@ -102,7 +102,7 @@ permalink: /cards/dol-guldur/
 > Southern Mirkwood
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > <br>_**Playable:**_ Information, Items (minor, major) Automatic-attacks (3): Orcs-3 strikes with 7 prowess; Trolls-2 strikes with 8 prowess; Nazgul (cannot be canceled)-1 strike with 15 prowess <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. 
+> > _**Playable:**_ Information, Items (minor, major) <br>***Automatic-attacks (3):*** <br>Orcs --- 3 strikes with 7 prowess; <br>Trolls --- 2 strikes with 8 prowess; <br>Nazgul (cannot be canceled) --- 1 strike with 15 prowess <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. 
 > 
 > {: .balrog-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>

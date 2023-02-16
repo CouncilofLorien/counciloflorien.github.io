@@ -22,7 +22,7 @@ permalink: /cards/heart-of-dark-fire/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Balrog specific._ Playable if Strangling Coils is in play. You may bring this card from your sideboard into your play deck and reshuffle during your organization phase. The Balrog receives +5 direct influence this turn while Strangling Coils is in play. Cannot be duplicated on a given turn. 
+> > _Balrog specific._ ***Playable if Strangling Coils is in play.*** You may bring this card from your sideboard into your play deck and reshuffle during your organization phase. The Balrog receives +5 direct influence this turn while _Strangling Coils_ is in play. Cannot be duplicated on a given turn. 
 > > 
 > > {: .fs-3 } 
 > > _“The fire in it seemed to die, but the darkness grew."_ ***---&#65279;LotRII*** 

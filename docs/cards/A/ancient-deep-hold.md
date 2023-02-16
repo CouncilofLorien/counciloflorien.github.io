@@ -22,7 +22,7 @@ permalink: /cards/ancient-deep-hold/
 > Under-deeps
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ no surface site, one Under-deeps Ruins & Lairs \[![](/assets/images/ruinlair.svg)] chosen by you when playing this card (8) <br>_**Playable:**_ Information, Items (minor, major, greater, gold ring) Automatic-attacks (3):  Undead (1st attack)-4 strikes with 7 prowess; Undead (2nd attack)-3 strikes with 8 prowess; Undead (3rd attack)-2 strikes with 10 prowess; Each character wounded must make a corruption check modified by -2. <br>_**Special:**_ Any Undead and Spider creatures may be keyed to this site. This site is never discarded or returned to its location deck. 
+> > _**Adjacent Sites:**_ no surface site, one Under-deeps Ruins & Lairs \[![](/assets/images/ruinlair.svg)] chosen by you when playing this card (8) <br>_**Playable:**_ Information, Items (minor, major, greater, gold ring) <br>***Automatic-attacks (3):***  <br>Undead (1st attack) --- 4 strikes with 7 prowess; <br>Undead (2nd attack) --- 3 strikes with 8 prowess; <br>Undead (3rd attack) --- 2 strikes with 10 prowess; <br>Each character wounded must make a corruption check modified by -2. <br>_**Special:**_ Any Undead and Spider creatures may be keyed to this site. This site is never discarded or returned to its location deck. 
 > 
 > {: .balrog-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

@@ -22,5 +22,5 @@ permalink: /cards/gangways-over-the-fire/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Balrog specific._ At the end of its movement/hazard phase, each of your moving companies may attempt to move with Under-deeps movement to a new site. They have not used yet this turn. Another sitecard is played and a movement/hazard phase immediately follows. Subtract the number of complete movement/hazard phases the company has taken so far this turn from its Under-deeps movement rolls. You may start the game with this card in lieu of playing a minor item. Cannot be duplicated. 
+> > _Balrog specific._ At the end of its movement/hazard phase, each of your moving companies may attempt to move with Under-deeps movement to a new site they have not used yet this turn. Another site card is played and a movement/hazard phase immediately follows. Subtract the number of complete movement/hazard phases the company has taken so far this turn from its Under-deeps movement rolls. You may start the game with this card in lieu of playing a minor item. Cannot be duplicated. 
 > 

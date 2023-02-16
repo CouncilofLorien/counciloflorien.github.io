@@ -91,7 +91,7 @@ permalink: /cards/cirith-gorgor/
 > Udun
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br>  Orcs-5 strikes with 8 prowess; Trolls-2 strikes with 10 prowess <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. 
+> > _**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br>  Orcs --- 5 strikes with 8 prowess; <br>Trolls --- 2 strikes with 10 prowess <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. 
 > > 
 > > {: .fs-3 } 
 > > _“None could pass the Teeth of Mordor and not feel their bite....”_ ***---&#65279;LotRIV*** 

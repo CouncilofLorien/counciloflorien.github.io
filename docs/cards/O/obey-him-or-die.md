@@ -25,7 +25,7 @@ permalink: /cards/obey-him-or-die/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Balrog specific._ Playable during the organization phase on a leader in The Balrog's company. The leader receives +2 direct influence and cannot be discarded by a body check. Discard whenever there is a character in his company with a higher mind. Cannot be duplicated on a given character. 
+> > _Balrog specific._ ***Playable during the organization phase on a leader in The Balrog's company.*** The leader receives +2 direct influence and cannot be discarded by a body check. Discard whenever there is a character in his company with a higher mind. Cannot be duplicated on a given character. 
 > > 
 > > {: .fs-3 } 
 > > _“...a huge orc-chieftain...leapt into the chamber; behind him his followers clustered in the doorway."_ ***---&#65279;LotRII*** 

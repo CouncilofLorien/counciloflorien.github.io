@@ -22,7 +22,7 @@ permalink: /cards/the-wind-deeps/
 > Under-deeps
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ The Wind Throne (0), The Under-leas (5), The Rusted-deeps (8) <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br> Orcs (1st attack)-3 strikes with 7 prowess; (2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold \[![](/assets/images/shadow-hold.svg)] <br>_**Special:**_ Any Drake creature (except Sea Serpent) may be keyed to this site). 
+> > _**Adjacent Sites:**_ The Wind Throne (0), The Under-leas (5), The Rusted-deeps (8) <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br> Orcs (1st attack) --- 3 strikes with 7 prowess; <br>(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold \[![](/assets/images/shadow-hold.svg)] <br>_**Special:**_ Any Drake creature (except _Sea Serpent_) may be keyed to this site). 
 > 
 > {: .balrog-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>

@@ -56,7 +56,7 @@ permalink: /cards/the-pukel-deeps/
 > Under-deeps
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Dunharrow (0), The Gem-deeps (8), The Sulfur-deeps (9) <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>  Pukel-creature (1st attack)-2 strikes with 11 prowess; (2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold \[![](/assets/images/shadow-hold.svg)] <br>_**Special:**_ Any Undead creature or Pukel-creature may also be keyed to this site. 
+> > _**Adjacent Sites:**_ Dunharrow (0), The Gem-deeps (8), The Sulfur-deeps (9) <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>  Pukel-creature (1st attack) --- 2 strikes with 11 prowess; <br>(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold \[![](/assets/images/shadow-hold.svg)] <br>_**Special:**_ Any Undead creature or Pukel-creature may also be keyed to this site. 
 > 
 > {: .balrog-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

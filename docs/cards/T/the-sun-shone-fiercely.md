@@ -22,7 +22,7 @@ permalink: /cards/the-sun-shone-fiercely/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ -1 prowess to all Orc, Troll, Dwarf, and Ringwraith characters not at, nor moving to or from, an Under-deeps site. This modification is -2 if Doors of Night is not in play. Cannot be duplicated.   
+> > _Environment._ -1 prowess to all Orc, Troll, Dwarf, and Ringwraith characters not at, nor moving to or from, an Under-deeps site. This modification is -2 if _Doors of Night_ is not in play. Cannot be duplicated.   
 > > 
 > > {: .fs-3 } 
 > > _“‘Go back to the Shadow! You cannot pass.’”_ ***---&#65279;LotRII*** 

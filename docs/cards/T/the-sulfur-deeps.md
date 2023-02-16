@@ -59,7 +59,7 @@ permalink: /cards/the-sulfur-deeps/
 > Under-deeps
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Dol Guldur (0), The Under-gates (6), The Pukel-deeps (9), The Under-galleries (9), The Under-courts (7) <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>  Trolls (1st attack)-2 strikes with 9 prowess  (2nd attack)-Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold \[![](/assets/images/shadow-hold.svg)] <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. 
+> > _**Adjacent Sites:**_ Dol Guldur (0), The Under-gates (6), The Pukel-deeps (9), The Under-galleries (9), The Under-courts (7) <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>  Trolls (1st attack) --- 2 strikes with 9 prowess  <br>(2nd attack) --- Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold \[![](/assets/images/shadow-hold.svg)] <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. 
 > 
 > {: .balrog-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>

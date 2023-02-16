@@ -25,7 +25,7 @@ permalink: /cards/bolg/
 > Warrior/Ranger Orc
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ _Balrog specific._ _Leader._ Discard on a body check result of 9. +3 direct influence against Orcs and Orc factions. +2 direct influence against Balrog specific characters.   
+> > _Unique._ _Balrog specific._ _Leader._ Discard on a body check result of 9. +3 direct influence against Orcs and Orc factions. +2 direct influence against Balrog specific characters.   
 > > 
 > > {: .fs-3 } 
 > > _“‘Bolg of the North is coming.’”_ ***---&#65279;Hob***  

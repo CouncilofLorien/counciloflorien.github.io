@@ -22,5 +22,5 @@ permalink: /cards/sauron/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Manifestation of The Lidless Eye. Playable if your opponent is a Wizard and you have not revealed a Ringwraith. You are Sauron, not a Ringwraith. You maynot reveal a Ringwraith or play Ringwraith followers. +10 to your general influence. Discards and prevents the subsequent play of Bade to Rule. During your organization phase, you may bring a resource or character from your sideboard into your play deck and shuffle and there is no limit to the number of characters you may bring into play. Cannot be duplicated. 
+> > _Manifestation of The Lidless Eye._ ***Playable if your opponent is a Wizard and you have not revealed a Ringwraith.*** You are Sauron, not a Ringwraith. You may not reveal a Ringwraith or play Ringwraith followers. +10 to your general influence. Discards and prevents the subsequent play of _Bade to Rule_. During your organization phase, you may bring a resource or character from your sideboard into your play deck and shuffle **and** there is no limit to the number of characters you may bring into play. Cannot be duplicated. 
 > 

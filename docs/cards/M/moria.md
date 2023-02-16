@@ -131,7 +131,7 @@ permalink: /cards/moria/
 > Redhorn Gate
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > <br>_**Special:**_ Any gold ring stored at this site is automatically tested (modify the roll by -2). Creatures keyed to this site attack as detainment. If one of your companies is at this site, all attacks against it are canceled. 
+> > _**Special:**_ Any gold ring stored at this site is automatically tested (modify the roll by -2). Creatures keyed to this site attack as detainment. If one of your companies is at this site, all attacks against it are canceled. 
 > > 
 > > {: .fs-3 } 
 > > _“The Mines of Moria were vast and intricate beyond the imagination...”_ ***---&#65279;LotRII*** 

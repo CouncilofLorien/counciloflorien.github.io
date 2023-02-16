@@ -25,7 +25,7 @@ permalink: /cards/umagaur/
 > Warrior/Diplomat/Sage Troll
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ _Balrog specific._ _Leader._ _Manifestation of Umagaur the Pale._ Discard on a body check result of 9. +2 direct influence against Trolls, Orcs, Troll factions, and Orc factions. +3 direct influence against Balrog specific characters. 
+> > _Unique._ _Balrog specific._ _Leader._ _Manifestation of Umagaur the Pale._ Discard on a body check result of 9. +2 direct influence against Trolls, Orcs, Troll factions, and Orc factions. +3 direct influence against Balrog specific characters. 
 > > 
 > > {: .fs-3 } 
 > > _“‘The great troll-chief that smote him down...’”_ ***---&#65279;LotRVI***  

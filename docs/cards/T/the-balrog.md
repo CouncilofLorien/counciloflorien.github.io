@@ -45,7 +45,7 @@ permalink: /cards/the-balrog/
 > Warrior/Ranger Balrog
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ _Manifestation of Balrog of Moria._ Discard all other manifestations of _Balrog of Moria_ when this card comes into play. +3 to the roll for his company to move between adjacent Under-deeps sites. The Balrog's prowess is only modified by -1 when not tapping to face a strike. He may not have any followers and may not use region or starter movement.   
+> > _Unique._ _Manifestation of Balrog of Moria._ Discard all other manifestations of _Balrog of Moria_ when this card comes into play. +3 to the roll for his company to move between adjacent Under-deeps sites. The Balrog's prowess is only modified by -1 when not tapping to face a strike. He may not have any followers and may not use region or starter movement.   
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** The Under-gates  

@@ -22,5 +22,5 @@ permalink: /cards/great-army-of-the-north/
 > Permanent-event or Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > As a permanent-event, +1 to your influence attempts against Orc and Troll factions. If you have at least 4 unique Orc and/or Troll factions-none playable at a Dark-hold \[![](/assets/images/dark-hold.svg)]-you receive this card's marshalling points. Cannot be duplicated as a permanent-event. Alternatively, as a short-event, you may choose any Orc and Troll factions you're your discard pile and shuffle them into your play deck. 
+> > As a permanent-event, +1 to your influence attempts against Orc and Troll factions. If you have at least 4 unique Orc and/or Troll factions---none playable at a Darkhold \[![](/assets/images/dark-hold.svg)]---you receive this card's marshalling points. Cannot be duplicated as a permanent-event. <br>&ensp;Alternatively, as a short-event, you may choose any Orc and Troll factions from your discard pile and shuffle them into your play deck. 
 > 

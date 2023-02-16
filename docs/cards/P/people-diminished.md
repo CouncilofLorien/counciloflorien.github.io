@@ -22,5 +22,5 @@ permalink: /cards/people-diminished/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Balrog specific._ Playable during the site phase on an untapped Free-hold \[![](/assets/images/free-hold.svg)] or Border-hold \[![](/assets/images/border-hold.svg)]. Tap the site. The company faces 3 attacks (Men-4 strikes with 8 prowess, 3 strikes with 10 prowess, 2 strikes with 12 prowess). Following the attacks, tap a character or discard this card. If this card is not discarded, discard all unique factions playable at the site. -5 to each attempt against any faction at any version of this site. This site is never discarded and never untaps. Cannot be duplicated on a given site. 
+> > _Balrog specific._ ***Playable during the site phase on an untapped Free-hold*** \[![](/assets/images/free-hold.svg)] ***or Border-hold*** \[![](/assets/images/border-hold.svg)]. Tap the site. The company faces 3 attacks (Men --- 4 strikes with 8 prowess, 3 strikes with 10 prowess, 2 strikes with 12 prowess). Following the attacks, tap a character or discard this card. If this card is not discarded, discard all unique factions playable at the site. -5 to each attempt against any faction at any version of this site. This site is never discarded and never untaps. Cannot be duplicated on a given site. 
 > 

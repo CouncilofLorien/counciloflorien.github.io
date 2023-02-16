@@ -22,5 +22,5 @@ permalink: /cards/out-he-sprang/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Balrog specific._ If Great Shadow is not in play, The Balrog may move with region movement (overriding his card) to an Under-deeps surface site or from an Under-deeps surface site. Based on his marshalling point (MP) total, he may use the following number of regions: 0-8  MPs-1 region; 9-16 MPs-2 regions; 17-24 MPs-3 regions; 25+ MPs-4 regions. This region allowance may not be modified by any other effects except A More Evil Hour. 
+> > _Balrog specific._ If _Great Shadow_ is not in play, The Balrog may move with region movement (overriding his card) to an Under-deeps surface site **or** from an Under-deeps surface site. Based on his marshalling point (MP) total, he may use the following number of regions: 0-8  MPs --- 1 region; 9-16 MPs --- 2 regions; 17-24 MPs --- 3 regions; 25+ MPs --- 4 regions. This region allowance may not be modified by any other effects except _A More Evil Hour_. 
 > 
