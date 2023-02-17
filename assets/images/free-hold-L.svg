@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="2.4203596mm"
-   height="3.833776mm"
-   viewBox="0 0 2.4203597 3.833776"
+   width="3.6305397mm"
+   height="5.7506638mm"
+   viewBox="0 0 3.6305398 5.7506638"
    version="1.1"
    id="svg5305"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="free-hold-2.svg">
+   sodipodi:docname="free-hold-L.svg">
   <defs
      id="defs5299" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="45.254834"
-     inkscape:cx="6.1876098"
-     inkscape:cy="7.2247963"
+     inkscape:zoom="16"
+     inkscape:cx="-9.1863718"
+     inkscape:cy="10.406246"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -52,16 +52,16 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-164.71004,-126.3804)">
+     transform="translate(-164.10495,-125.42198)">
     <path
-       style="fill:#ffffff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
-       d="m 164.79318,130.14027 0.22172,-2.59588 -0.194,-0.31409 v -0.582 l 0.21247,-0.14781 0.0739,0.0924 h 0.49885 l 0.0647,-0.12933 0.56352,-0.009 0.0647,0.13857 0.48038,0.009 0.0647,-0.10162 0.21248,0.15705 v 0.54504 l -0.24019,0.30486 0.22171,2.63283 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.39687496px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 164.22966,131.06176 0.33258,-3.89382 -0.291,-0.47113 v -0.873 l 0.3187,-0.22172 0.11085,0.1386 h 0.74828 l 0.097,-0.19399 0.84528,-0.0135 0.097,0.20785 0.72057,0.0135 0.097,-0.15243 0.31872,0.23558 v 0.81756 l -0.36029,0.45729 0.33257,3.94924 z"
        id="path815"
        inkscape:connector-curvature="0" />
     <g
        style="fill:#000000;fill-opacity:1"
        id="g6828-9-2"
-       transform="matrix(2.2345811,0,0,2.2345811,93.115592,-930.14404)">
+       transform="matrix(3.3518717,0,0,3.3518717,56.713278,-1459.3647)">
       <g
          id="use6826-7-5"
          transform="matrix(0.26458333,0,0,0.26458333,31.952499,474.51801)">
