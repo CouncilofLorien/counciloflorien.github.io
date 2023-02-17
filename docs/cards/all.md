@@ -2811,7 +2811,7 @@ permalink: /cards/all/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ ***Only playable at Lorien.*** 
+> > _Unique._ ***Only playable at Lorien.*** 2 marshalling points if stored at Bag End. 
 > > 
 > > {: .fs-3 } 
 > > _“‘Though you should find all barren and laid waste, there will be few gardens in Middle-earth that will bloom like your garden, if you sprinkle this earth there’”_ ***---&#65279;LotRII*** 
@@ -2874,7 +2874,7 @@ permalink: /cards/all/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Only playable at Wellinghall*** as a minor item (even if Wellinghall is already tapped). +1 to prowess. This item may not be stolen, transferred, or stored. May not be duplicated on a given character. <br>_
+> > ***Only playable at Wellinghall*** as a minor item (even if Wellinghall is already tapped). +1 to prowess. This item may not be stolen, transferred, or stored. May not be duplicated on a given character.
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +1/&ndash; 】</div>
@@ -2928,7 +2928,7 @@ permalink: /cards/all/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ _Shield._ +2 to body to a maximum of 9. Warriror only: tap _Great Shield of Rohan_ to remain untapped against one strike (unless the bearer is wounded by the strike). 
+> > _Unique._ _Shield._ +2 to body to a maximum of 9. Warrior only: tap _Great Shield of Rohan_ to remain untapped against one strike (unless the bearer is wounded by the strike). 
 > > 
 > > {: .fs-3 } 
 > > _“His golden shield was uncovered, and lo! it shone like an image of the Sun, and the grass flamed into green about the white feet of his steed."_ ***---&#65279;LotRV*** 
@@ -2954,7 +2954,7 @@ permalink: /cards/all/
 > > _“Each one of his folk was clad in a hauberk of steel that hung to his knees."_ ***---&#65279;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【 &ndash;/(+2) 】</div>
+> > <div class="card-shield">【 &ndash;/+2 】</div>
 > > <div class="card-corruption">〔 1 〕</div>
 
 ---
@@ -3108,7 +3108,7 @@ permalink: /cards/all/
 > > _Magic Ring._ ***Playable only with a Gold Ring and after a test indicates a Magic Ring.*** Gives the bearer diplomat skill. If the bearer is already a diplomat, he gets +3 to direct influence. May not be duplicated on a given character. 
 > > 
 > > {: .fs-3 } 
-> > _“But none were unmoved; none rejected its please and its commands...”_ ***---&#65279;LotRIII*** 
+> > _“But none were unmoved; none rejected its pleas and its commands...”_ ***---&#65279;LotRIII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +3[di] 】</div>
@@ -3262,7 +3262,7 @@ permalink: /cards/all/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ _Palantir._ Playable only at Isengard. With its bearer able to use a Palantir and with at least 5 cards in your play deck, tap _Palantir of Orthanc_ to choose one card from you discard pile to place in your play deck (reshuffle the play deck). Bearer makes a corruption check. 
+> > _Unique._ _Palantir._ ***Playable only at Isengard.*** With its bearer able to use a Palantir and with at least 5 cards in your play deck, tap _Palantir of Orthanc_ to choose one card from you discard pile to place in your play deck (reshuffle the play deck). Bearer makes a corruption check. 
 > > 
 > > {: .fs-3 } 
 > > _“‘The Stones of Seeing do not lie...’”_ ***---&#65279;LotRV*** 
@@ -3282,7 +3282,7 @@ permalink: /cards/all/
 > Greater Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ _Palantir._ If the bearer's company is ever below 4 characters and the company moves, discard. 5 marshalling points if stored in a Haven \[![](/assets/images/free-haven.svg)]. With its bearer able to use a Palantir, tap _Palantir of Osgiliath_ to force the discard of any hazard permanent-event **or** to duplicate the effect of any Palantir in play. Bearer makes a corruption check.
+> > _Unique._ _Palantir._ If the bearer's company is ever below 4 characters and the company moves, discard. 5 marshalling pts. if stored in a Haven \[![](/assets/images/free-haven.svg)]. With its bearer able to use a Palantir, tap _Palantir of Osgiliath_ to force the discard of any hazard permanent-event **or** to duplicate the effect of any Palantir in play. Bearer makes a corruption check.
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -3362,10 +3362,10 @@ permalink: /cards/all/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ ***Only playable at Bag End.*** +2 to direct influence against a Hobbit character of faction. 1 marshalling point if stored at a Haven \[![](/assets/images/free-haven.svg)]. 
+> > _Unique._ ***Only playable at Bag End.*** +2 to direct influence against a Hobbit character or faction. 1 marshalling point if stored at a Haven \[![](/assets/images/free-haven.svg)]. 
 > > 
 > > {: .fs-3 } 
-> > _“...in a single red case, were the three large volumes, bound in red leather, that Bilbo gave to him as a parting gift...”_ ***---&#65279;LotRV*** 
+> > _“...in a single red case, were the three large volumes, bound in red leather, that Bilbo gave to him as a parting gift. ...”_ ***---&#65279;LotRV*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -3402,7 +3402,7 @@ permalink: /cards/all/
 > Greater Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ When a Gold Ring is tested in a company with the Scroll of Isildur, the result of the roll (or draw) is modified by +2.
+> > _Unique._ When a Gold Ring is tested in a company with the _Scroll of Isildur_, the result of the roll (or draw) is modified by +2.
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -3479,7 +3479,7 @@ permalink: /cards/all/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Weapon._ Warrior only. +2 prowess to a maximum of 8. 
+> > _Weapon._ Warrior only: +2 prowess to a maximum of 8. 
 > > 
 > > {: .fs-3 } 
 > > _“‘They are old swords, very old swords of the High Elves of the West, my kin. They were made in Gondolin for the Goblin-wars.’”_ ***---&#65279;Hob*** 
@@ -3496,7 +3496,7 @@ permalink: /cards/all/
 > > <div class="card-name">The Arkenstone</div>
 >
 > {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > [+3]![](/assets/images/di.svg)
+> > [+3 ![](/assets/images/di.svg)]
 >
 > {: .card-classification .pr-2 }
 > Greater Item
@@ -3667,7 +3667,7 @@ permalink: /cards/all/
 > > <div class="card-name">Anduril, the Flame of the West</div>
 >
 > {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > +1 ![](/assets/images/di.svg)
+> > [+1 ![](/assets/images/di.svg)]
 >
 > {: .card-classification .pr-2 }
 > Permanent-event
@@ -3676,7 +3676,7 @@ permalink: /cards/all/
 > > _Unique._ ***Sage only during the site phase at an untapped site where "Information" is playable.*** Tap the sage and the site. Sage makes a corruption check modified by -3. Keep sage tapped until _Anduril_ is stored at a Haven \[![](/assets/images/free-haven.svg)]. Once stored, you may discard a stored _Reforging_ and place _Anduril_ with _Narsil_. <br>&ensp;In addition to _Narsil's_ effects, _Anduril_ gives its bearer 4 marshalling points, +4 prowess (to a maximum of 11), +1 direct influence, and one more corruption point. _Anduril_ may be tapped to untap a Dunadan character in the same company, but its bearer must make a corruption check modified by -1. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【 +4/&ndash; 】</div>
+> > <div class="card-shield">【 (+4)/&ndash; 】</div>
 > > <div class="card-corruption">〔 1 〕</div>
 
 ---
@@ -3721,7 +3721,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable at the end of the movement/hazard phase on a company that moved to a Haven \[![](/assets/images/free-haven.svg)].*** That company may move to an additional site on the same turn. Another site card may be played and a movement/hazard phase immediately follows for that company. 
+> > ***Playable at the end of the movement/hazard phase on a company that moved to a Haven*** \[![](/assets/images/free-haven.svg)]. That company may move to an additional site on the same turn. Another site card may be played and a movement/hazard phase immediately follows for that company. 
 > 
 
 ---
@@ -3786,7 +3786,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Cancel one attack by Orcs, Trolls or Men. Alternatively, if Gates of Morning is in play, the number of strikes from any attack is reduced to half its original number, rounded up. 
+> > Cancel one attack by Orcs, Trolls or Men. <br>&ensp;Alternatively, if _Gates of Morning_ is in play, the number of strikes from any attack is reduced to half its original number, rounded up. 
 > > 
 > > {: .fs-3 } 
 > > _“‘...How do you like being called swine by the muck-rakers of a dirty little wizard?' Many loud yells...answered him...”_ ***---&#65279;LotRIII*** 
@@ -3967,7 +3967,7 @@ permalink: /cards/all/
 > > ***Playable at the end of the organization phase*** if target company plays a new site card. The hazard limit for the target company decreases by one for every Wilderness \[![](/assets/images/wilderness.svg)] in its site path (to a minimum of two). Cannot be duplicated on the same company. 
 > > 
 > > {: .fs-3 } 
-> > _“...there was a break in the wall of trees...”_ ***---&#65279;LotRVI*** 
+> > _“...there was a break in the wall of trees...”_ ***---&#65279;LotRI*** 
 > 
 
 ---
@@ -3995,7 +3995,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ Playable during your organization phase. Shuffle your hand and your discard pile into your play deck (site cards remain in the discard pile). Draw a new hand of 8 cards. Remove Favor of the Valar from the game. 
+> > _Unique._ Playable during your organization phase. Shuffle your hand and your discard pile into your play deck (site cards remain in the discard pile). Draw a new hand of 8 cards. Remove _Favor of the Valar_ from the game. 
 > > 
 > > {: .fs-3 } 
 > > _“Thus came Aragorn son of Arathorn...from the Sea to the kingdom of Gondor."_ ***---&#65279;LotRV*** 
@@ -4012,7 +4012,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Only playable at a Haven \[![](/assets/images/free-haven.svg)] during the organization phase*** on a company that has four or more characters and allies. +1 to prowess and +1 to corruption checks for all characters and allies in the company. Discard this card if a character or ally joins or leaves the company for any reason. 
+> > ***Only playable at a Haven*** \[![](/assets/images/free-haven.svg)] ***during the organization phase*** on a company that has four or more characters and allies. +1 to prowess and +1 to corruption checks for all characters and allies in the company. Discard this card if a character or ally joins or leaves the company for any reason. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +1/&ndash; 】</div>
@@ -4111,7 +4111,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable only at the end of the organization phase on a company that starts at a Haven \[![](/assets/images/free-haven.svg)].*** Opponent draws twice the normal number of cards for this company during the movement/hazard phase. At the end of the turn, the company may replace its site card with the Haven card at which it began the turn. 
+> > ***Playable only at the end of the organization phase on a company that starts at a Haven*** \[![](/assets/images/free-haven.svg)]. Opponent draws twice the normal number of cards for this company during the movement/hazard phase. At the end of the turn, the company may replace its site card with the Haven card at which it began the turn. 
 > 
 
 ---
@@ -4142,7 +4142,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Hobbit only.**_ The Hobbit may untap or he may move from wounded status to well and untapped during his organization phase or he may receive a +4 modification to one corruption check. 
+> > _**Hobbit only.**_ The Hobbit may untap **or** he may move from wounded status to well and untapped during his organization phase **or** he may receive a +4 modification to one corruption check. 
 > > 
 > > {: .fs-3 } 
 > > _“‘I have known strong warriors...who would quickly have been overcome by that splinter, which you bore for seventeen days.’”_ ***---&#65279;LotRII*** 
@@ -4306,7 +4306,7 @@ permalink: /cards/all/
 > Long-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Environment._ If _Gates of Morning_ is in play, treat all Wildernesses \[![](/assets/images/wilderness.svg)] as Border-lands \[![](/assets/images/border-land.svg)] **and** all Border-lands \[![](/assets/images/border-land.svg)] as Free-domains \[![](/assets/images/free-domain.svg)] for the purposes of playing hazards. <br>&ensp;If _Doors of Night_ is in play, treat all Dark-domains \[![](/assets/images/dark-domain.svg)] as Shadow-lands \[![](/assets/images/shadow-land.svg)] **and** all Shadow-lands \[![](/assets/images/shadow-land.svg)] as Wilderness \[![](/assets/images/wilderness.svg)] for the purposes of playing hazards. Cannot be duplicated. 
+> > _Environment._ If _Gates of Morning_ is in play, treat all Wildernesses \[![](/assets/images/wilderness.svg)] as Border-lands \[![](/assets/images/border-land.svg)] **and** all Border-lands \[![](/assets/images/border-land.svg)] as Free-domains \[![](/assets/images/free-domain.svg)] for the purposes of playing hazards. <br>&ensp;If _Doors of Night_ is in play, treat all Dark-domains \[![](/assets/images/dark-domain.svg)] as Shadow-lands \[![](/assets/images/shadow-land.svg)] **and** all Shadow-lands \[![](/assets/images/shadow-land.svg)] as Wilderness \[![](/assets/images/wilderness.svg)] for the purposes of playing hazards. <br>&ensp;Cannot be duplicated. 
 > 
 
 ---
@@ -4320,7 +4320,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable at the end of the organization phase on a company that has a size of less than three, contains a scout, and begins the turn at a site in Dagorlad.*** This card is used as a Dark-hold \[![](/assets/images/dark-hold.svg)] site card that is moved to using the site path: ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg) (the moving player draws 2 cards and his opponent draws 5 cards). The company can later leave this site using region cards or by using the following site path to move to Lorien: ![](/assets/images/dark-domain.svg) ![](/assets/images/dark-domain.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/free-domain.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg). <br>&ensp;Discard _Morannon_ when the company successfully plays a new site card. 
+> > ***Playable at the end of the organization phase on a company that has a size of less than three, contains a scout, and begins the turn at a site in Dagorlad.*** This card is used as a Dark-hold \[![](/assets/images/dark-hold.svg)] site card that is moved to using the site path: ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg) (the moving player draws 2 cards and his opponent draws 5 cards). The company can later leave this site using region cards **or** by using the following site path to move to Lorien: ![](/assets/images/dark-domain.svg) ![](/assets/images/dark-domain.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/free-domain.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg). <br>&ensp;Discard _Morannon_ when the company successfully plays a new site card. 
 > 
 
 ---
@@ -4523,7 +4523,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable at an already tapped Dark-hold \[![](/assets/images/dark-hold.svg)] or Shadow-hold \[![](/assets/images/shadow-hold.svg)] during the site phase.*** The company faces a spider attack (2 strikes with 7 prowess). If no characters are untapped after the attack, discard _Rescue Prisoners._ Otherwise, you may tap 1 character in the company and put _Rescue Prisoners_ under his control. That character may not untap until _Rescue Prisoners_ is stored at a Haven \[![](/assets/images/free-haven.svg)], Border-hold \[![](/assets/images/border-hold.svg)], or Free-hold \[![](/assets/images/free-hold.svg)] during his organization phase. You receive the marshalling points for this card only when it is stored. <br>&ensp;Cannot be duplicated at a given site. 
+> > ***Playable at an already tapped Dark-hold*** \[![](/assets/images/dark-hold.svg)] ***or Shadow-hold*** \[![](/assets/images/shadow-hold.svg)] ***during the site phase.*** The company faces a spider attack (2 strikes with 7 prowess). If no characters are untapped after the attack, discard _Rescue Prisoners._ Otherwise, you may tap 1 character in the company and put _Rescue Prisoners_ under his control. That character may not untap until _Rescue Prisoners_ is stored at a Haven \[![](/assets/images/free-haven.svg)], Border-hold \[![](/assets/images/border-hold.svg)], or Free-hold \[![](/assets/images/free-hold.svg)] during his organization phase. You receive the marshalling points for this card only when it is stored. <br>&ensp;Cannot be duplicated at a given site. 
 > 
 
 ---
@@ -4540,7 +4540,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ ***Aragorn II only.*** Only playable at Minas Tirith and only if Denethor II is not in play. Aragorn II's direct influence is modified by +3. Keep this card with Aragorn II; discard if he leaves play. 
+> > _Unique._ ***Aragorn II only.*** Only playable in Minas Tirith and only if Denethor II is not in play. Aragorn II's direct influence is modified by +3. Keep this card with Aragorn II; discard if he leaves play. 
 > > 
 > > {: .fs-3 } 
 > > _“...wisdom sat upon his brow, and strength and healing were in his hands, and a light was about him."_ ***---&#65279;LotRVI***  
@@ -4591,7 +4591,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Spell._ _**Wizard only.**_ All of the strikes from one attack against your Wizard's company fail; -3 to any body checks made to determine of the attack is defeated. Discard the Wizard (i.e., he becomes unrevealed) and any non-item cards he controls. Place any items he controls under this card and keep these off to the side (these items are considered to still be in play). <br>&ensp;If the Wizard is put back into play, return his items to him and place _Sacrifice of Form_ with him. Wizard receives +1 to his prowess, body, and direct influence. <br>&ensp;May not be duplicated on a given Wizard. 
+> > _Spell._ _**Wizard only.**_ All of the strikes from one attack against your Wizard's company fail; -3 to any body checks made to determine if the attack is defeated. Discard the Wizard (i.e., he becomes unrevealed) and any non-item cards he controls. Place any items he controls under this card and keep these off to the side (these items are considered to still be in play). <br>&ensp;If the Wizard is put back into play, return his items to him and place _Sacrifice of Form_ with him. Wizard receives +1 to his prowess, body, and direct influence. <br>&ensp;May not be duplicated on a given Wizard. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +1/+1 】</div>
@@ -4772,7 +4772,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Environment._ The prowess of one Elf is modified by +1 until the end of the turn. <br>&ensp;Additionally, if _Gates of Morning_ is in play, until the end of the turn, the prowess of each Elf is modified by +1 **and** treat one Wilderness \[![](/assets/images/wilderness.svg)] to treat as a Border-land \[![](/assets/images/border-land.svg)], or one Border-land \[![](/assets/images/border-land.svg)] as a Free-domain \[![](/assets/images/free-domain.svg)]. <br>&ensp;Cannot be duplicated. 
+> > _Environment._ The prowess of one Elf is modified by +1 until the end of the turn. <br>&ensp;Additionally, if _Gates of Morning_ is in play, until the end of the turn, the prowess of each Elf is modified by +1 **and** treat one Wilderness \[![](/assets/images/wilderness.svg)] as a Border-land \[![](/assets/images/border-land.svg)], or one Border-land \[![](/assets/images/border-land.svg)] as a Free-domain \[![](/assets/images/free-domain.svg)]. <br>&ensp;Cannot be duplicated. 
 > 
 
 ---
@@ -4789,7 +4789,7 @@ permalink: /cards/all/
 > > -3 to the prowess and body of a non-Nazgul attack with a normal prowess of 13 or more. 
 > > 
 > > {: .fs-3 } 
-> > _“Suddenly out of the dark something fluttered to his shoulder. 'Wait! Wait!' it said to him. 'The moon is rising. Look for the hollow of the left breast as he flies and turns above you!’” ***---&#65279;Hob***  
+> > _“Suddenly out of the dark something fluttered to his shoulder. 'Wait! Wait!' it said to him. 'The moon is rising. Look for the hollow of the left breast as he flies and turns above you!’”_ ***---&#65279;Hob***  
 > 
 
 ---
@@ -4848,7 +4848,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Sage only._ Tap sage use a Palantir that he controls. 
+> > _**Sage only.**_ Tap sage use a Palantir that he controls. 
 > > 
 > > {: .fs-3 } 
 > > _“But he himself went up alone into the secret room under the summit of the Tower; and many who looked up thither at that time saw a pale light that gleamed and flickered from the narrow windows for a while, and then flashed and went out."_ ***---&#65279;LotRV*** 
@@ -5041,7 +5041,7 @@ permalink: /cards/all/
 > Creature or Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Nazgul (7th)._ May be played as a hazard creature (with one strike) or as a permanent event. <br>&ensp;As a creature, may also be played keyed to Brown Lands, Dagorlad, Gorgoroth, and Western Mirkwood; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Adunaphel_ becomes a short-event and causes any one character to tap. 
+> > _**Unique.**_ _Nazgul (7th)._ May be played as a hazard creature (with one strike) or as a permanent-event. <br>&ensp;As a creature, may also be played keyed to Brown Lands, Dagorlad, Gorgoroth, and Western Mirkwood; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Adunaphel_ becomes a short-event and causes any one character to tap. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 15/10 】</div>
@@ -5078,7 +5078,7 @@ permalink: /cards/all/
 > Creature or Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Nazgul (5th)._ May be played as a hazard creature (with one strike) or as a permanent event. <br>&ensp;As a creature, may also be played keyed to Harondor, Horse Plains, Gorgoroth, and Khand; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Akhorahil_ becomes a short-event and gives a -1 penalty to any one character's body checks this turn. 
+> > _**Unique.**_ _Nazgul (5th)._ May be played as a hazard creature (with one strike) or as a permanent-event. <br>&ensp;As a creature, may also be played keyed to Harondor, Horse Plains, Gorgoroth, and Khand; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Akhorahil_ becomes a short-event and gives a -1 penalty to any one character's body checks this turn. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 16/9 】</div>
@@ -5164,10 +5164,7 @@ permalink: /cards/all/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Troll._ One strike. If played after _"William"_ or _"Tom"_ and if keyed to the same site path against the same company, each character wounded by _"Bert"_ must discard all non-special items he bears. 
-> > 
-> > {: .fs-3 } 
-> > _“The trolls had just decided to roast the dwarves now and eat them later-that was Bert's idea."_ ***---&#65279;Hob***  
+> > _**Unique.**_ _Troll._ One strike. If played after _"William"_ or _"Tom"_ and if keyed to the same site path against the same company, each character wounded by _"Bert"_ must discard all non-special items he bears.  
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 12/&ndash; 】</div>
@@ -5319,7 +5316,7 @@ permalink: /cards/all/
 > Creature or Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Nazgul (3rd)._ May be played as a hazard creature (with one strike) or as a permanent event. <br>&ensp;As a creature, may also be played keyed to Harondor, Imlad Morgul, Gorgoroth, and Ithilien; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Dwar of Waw_ becomes a short-event and gives +1 prowess to all Wolf, Spider, and Animal attacks until the end of the turn. 
+> > _**Unique.**_ _Nazgul (3rd)._ May be played as a hazard creature (with one strike) or as a permanent-event. <br>&ensp;As a creature, may also be played keyed to Harondor, Imlad Morgul, Gorgoroth, and Ithilien; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Dwar of Waw_ becomes a short-event and gives +1 prowess to all Wolf, Spider, and Animal attacks until the end of the turn. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 15/10 】</div>
@@ -5474,7 +5471,7 @@ permalink: /cards/all/
 > Creature or Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Nazgul (6th)._ May be played as a hazard creature (with one strike) or as a permanent event. <br>&ensp;As a creature, may also be played keyed to Dagorlad, Ithilien, Gorgoroth, and Khand; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Hoarmurath of Dir_ becomes a short-event and gives +1 strike to any one attack. 
+> > _**Unique.**_ _Nazgul (6th)._ May be played as a hazard creature (with one strike) or as a permanent-event. <br>&ensp;As a creature, may also be played keyed to Dagorlad, Ithilien, Gorgoroth, and Khand; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Hoarmurath of Dir_ becomes a short-event and gives +1 strike to any one attack. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 15/9 】</div>
@@ -5514,7 +5511,7 @@ permalink: /cards/all/
 > Creature or Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Nazgul (4th)._ May be played as a hazard creature (with one strike) or as a permanent event. <br>&ensp;As a creature, may also be played keyed to Harondor, Imlad Morgul, Gorgoroth, and Khand; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Indur Dawndeath_ becomes a short-event and makes any wounded character discard an item (but not a ring). 
+> > _**Unique.**_ _Nazgul (4th)._ May be played as a hazard creature (with one strike) or as a permanent-event. <br>&ensp;As a creature, may also be played keyed to Harondor, Imlad Morgul, Gorgoroth, and Khand; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Indur Dawndeath_ becomes a short-event and makes any wounded character discard an item (but not a ring). 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 15/10 】</div>
@@ -5534,7 +5531,7 @@ permalink: /cards/all/
 > Creature or Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Nazgul (2nd)._ May be played as a hazard creature (with one strike) or as a permanent event. <br>&ensp;As a creature, may also be played keyed to Brown Lands, Heart of Mirkwood, Gorgoroth, and Southern Mirkwood; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Khamul the Easterling_ becomes a short-event and forces opponent to discard one card of his choice for every Nazgul permanent-event in play (including this one). 
+> > _**Unique.**_ _Nazgul (2nd)._ May be played as a hazard creature (with one strike) or as a permanent-event. <br>&ensp;As a creature, may also be played keyed to Brown Lands, Heart of Mirkwood, Gorgoroth, and Southern Mirkwood; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Khamul the Easterling_ becomes a short-event and forces opponent to discard one card of his choice for every Nazgul permanent-event in play (including this one). 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 18/8 】</div>
@@ -5574,7 +5571,7 @@ permalink: /cards/all/
 > Creature or Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ May be played as a hazard creature (with one strike) or as a short-event. <br>&ensp;If played as a short-event, bring back any hazard card from your discard pile back into your hand. 
+> > _**Unique.**_ May be played as a hazard creature (with one strike) or as a short-event. <br>&ensp;If played as a short-event, bring any hazard card from your discard pile back into your hand. 
 > > 
 > > {: .fs-3 } 
 > > _“The rider was robed all in black, and black was his lofty helm... The Lieutenant of the Tower of Barad-dur...”_ ***---&#65279;LotRV*** 
@@ -5594,7 +5591,7 @@ permalink: /cards/all/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Animals._ Two strikes. May be played keyed to Dagorlad, Gorgoroth, Horse Plains, Ithilien, Khand, Nurn, Udun; may also be played at sites in these regions. <br>&ensp;May also be played (on the same turn and on the same company as Corsairs of Umbar) keyed to Andrast, Anfalas, Belfalas, Lebennin; and at Ruins & Lairs \[![](/assets/images/ruinlair.svg)] and Shadow-holds \[![](/assets/images/shadow-hold.svg)] in these regions. 
+> > _Animals._ Two strikes. May be played keyed to Dagorlad, Gorgoroth, Horse Plains, Ithilien, Khand, Nurn, Udun; may also be played at sites in these regions. <br>&ensp;May also be played (on the same turn and on the same company as _Corsairs of Umbar_) keyed to Andrast, Anfalas, Belfalas, Lebennin; and at Ruins & Lairs \[![](/assets/images/ruinlair.svg)] and Shadow-holds \[![](/assets/images/shadow-hold.svg)] in these regions. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 12/&ndash; 】</div>
@@ -5628,7 +5625,7 @@ permalink: /cards/all/
 > > <div class="card-name">Olog-hai (Trolls)</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/dark-hold.svg)
+> > ![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/dark-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -5831,7 +5828,7 @@ permalink: /cards/all/
 
 {: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .white-text .mb-4 .p-1 .pl-2 }
-> > <div class="hazard-mp">0</div>
+> > <div class="hazard-mp">1</div>
 > > <div class="card-name">Pukel-men</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
@@ -5864,7 +5861,7 @@ permalink: /cards/all/
 > Creature or Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Nazgul (8th)._ May be played as a hazard creature (with one strike) or as a permanent event. <br>&ensp;As a creature, may also be played keyed to Dagorlad, Ithilien, Gorgoroth, and Horse Plains; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Ren the Unclean_ becomes a short-event: each character in play must make a corruption check. 
+> > _**Unique.**_ _Nazgul (8th)._ May be played as a hazard creature (with one strike) or as a permanent-event. <br>&ensp;As a creature, may also be played keyed to Dagorlad, Ithilien, Gorgoroth, and Horse Plains; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Ren the Unclean_ becomes a short-event: each character in play must make a corruption check. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 15/10 】</div>
@@ -5878,7 +5875,7 @@ permalink: /cards/all/
 > > <div class="card-name">Rogrog</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)
+> > ![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -6053,7 +6050,7 @@ permalink: /cards/all/
 > Creature or Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Nazgul (9th)._ May be played as a hazard creature (with one strike) or as a permanent event. <br>&ensp;As a creature, may also be played keyed to Harondor, Horse Plains, Gorgoroth, and Khand; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Uvatha the Horseman_ becomes a short-event and you may bring one hazard creature from your discard pile to your hand. 
+> > _**Unique.**_ _Nazgul (9th)._ May be played as a hazard creature (with one strike) or as a permanent-event. <br>&ensp;As a creature, may also be played keyed to Harondor, Horse Plains, Gorgoroth, and Khand; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Uvatha the Horseman_ becomes a short-event and you may bring one hazard creature from your discard pile to your hand. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 15/9 】</div>
@@ -6142,7 +6139,7 @@ permalink: /cards/all/
 > Creature or Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Nazgul (1st)._ May be played as a hazard creature (with one strike) or as a permanent event. <br>&ensp;As a creature, may also be played keyed to Angmar, Gundabad, Gorgoroth, and Imlad Morgul; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Witch-king of Angmar_ becomes a long-event and causes all Shadow-holds \[![](/assets/images/shadow-hold.svg)] to become Dark-holds \[![](/assets/images/dark-hold.svg)]. 
+> > _**Unique.**_ _Nazgul (1st)._ May be played as a hazard creature (with one strike) or as a permanent-event. <br>&ensp;As a creature, may also be played keyed to Angmar, Gundabad, Gorgoroth, and Imlad Morgul; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Witch-king of Angmar_ becomes a long-event and causes all Shadow-holds \[![](/assets/images/shadow-hold.svg)] to become Dark-holds \[![](/assets/images/dark-hold.svg)]. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 17/12 】</div>
@@ -6264,7 +6261,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ The Balrog appears in Moria. The Moria site gains a second automatic-attack of 1 strike with 18 prowess and no body. If this 2nd automatic-attack is defeated, this permanent-event is removed from play (i.e., the Balrog is defeated). If your opponent defeats this 2nd automatic-attack, he receives the marshalling points. <br>&ensp;In addition, unless Galadriel is at Lorien, or she is not in play, Lorien is considered a Free-hold \[![](/assets/images/free-hold.svg)] (for the purposes of healing and playing hazards). +2 prowess to all automatic-attacks at sites in Hollin, Redhorn Gate, and Wold & Foothills. 
+> > _**Unique.**_ The Balrog appears in Moria. The Moria site gains a second automatic-attack of 1 strike with 18 prowess and no body. If this 2nd automatic-attack is defeated, this permanent-event is removed from play (i.e., the Balrog is defeated). If your opponent defeats this 2nd automatic-attack, he receives the marshalling points. <br>&ensp;In addition, unless Galadriel is at Lorien or she is not in play, Lorien is considered a Free-hold \[![](/assets/images/free-hold.svg)] (for the purposes of healing and playing hazards). +2 prowess to all automatic-attacks at sites in Hollin, Redhorn Gate, and Wold & Foothills. 
 >
 
 ---
@@ -6433,7 +6430,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The number of strikes of one Nazgul hazard-creature is increased by one and its prowess is decreased by 2. Attacker chooses defending characters. <br>&ensp;Additionally, target Nazgul may be played keyed to Shadow-land \[![](/assets/images/shadow-land.svg)] or Shadow-hold \[![](/assets/images/shadow-hold.svg)]. <br>&ensp;Cannot be duplicated on a given Nazgul. 
+> > The number of strikes of one Nazgul hazard creature is increased by one and its prowess is decreased by 2. Attacker chooses defending characters. <br>&ensp;Additionally, target Nazgul may be played keyed to Shadow-land \[![](/assets/images/shadow-land.svg)] or Shadow-hold \[![](/assets/images/shadow-hold.svg)]. <br>&ensp;Cannot be duplicated on a given Nazgul. 
 >
 
 ---
@@ -6503,7 +6500,7 @@ permalink: /cards/all/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ Each moving company that has at least two Wildernesses \[![](/assets/images/wilderness.svg)] in its site path must return to its site of origin unless it contains a ranger. <br>&ensp;Additionally, if _Doors of Night_ is in play, each non-Haven site card with at least two Wildernesses in its site path is tapped. <br>&ensp;Cannot be duplicated. 
+> > _Environment._ Each moving company that has at least two Wildernesses \[![](/assets/images/wilderness.svg)] in its site path must return to its site of origin unless it contains a ranger. <br>&ensp;Additionally, if _Doors of Night_ is in play, each non-Haven site card with at least two Wildernesses \[![](/assets/images/wilderness.svg)] in its site path is tapped. <br>&ensp;Cannot be duplicated. 
 >
 
 ---
@@ -6755,7 +6752,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > A Nazgul's prowess is modified by +2. Discard if attack doesn't wound a character. <br>&ensp;_Corruption._ One character (attacker's choice) wounded by an attack modified by this card receives 4 corruption points. <br>&ensp;If at a Haven during his untap phase, a character with this card may attempt to remove it (but not untap or heal). Make a roll (or draw a #): if this result is greater than 4, discard this card. <br>&ensp;Cannot be duplicated on a given Nazgul. 
+> > A Nazgul's prowess is modified by +2. Discard if attack doesn't wound a character. <br>&ensp;_Corruption._ One character (attacker's choice) wounded by an attack modified by this card receives 4 corruption points (place this card under the character). <br>&ensp;If at a Haven during his untap phase, a character with this card may attempt to remove it (but not untap or heal). Make a roll (or draw a #): if this result is greater than 4, discard this card. <br>&ensp;Cannot be duplicated on a given Nazgul. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -6837,7 +6834,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > ***Playable on a site.*** A company without a Ranger that has moved to this site this turn must do nothing during its site phase. Discard at the end of the turn. 
+> > ***Playable on a site.*** A company without a ranger that has moved to this site this turn must do nothing during its site phase. Discard at the end of the turn. 
 > > 
 > > {: .fs-3 } 
 > > _“I don't know what river it was, a rushing red one, swollen with the ruins of the last few days, that came down from the hills and mountains...”_ ***---&#65279;Hob*** 
@@ -6854,7 +6851,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > ***Playable on a Border-hold \[![](/assets/images/border-land.svg)] or a Free-hold \[![](/assets/images/free-hold.svg)] site.*** A company at this site must face an Orc attack of three strikes at 7 prowess at the beginning of its site phase. <br>&ensp;At the end of its organization phase, a company at a site with _Siege_ on it must make a roll (or draw a #) and subtract one from the result for every non-scout character it contains. If this result is less than 5, the company may not move this turn. <br>&ensp;Discard when the site card is discarded or when the site card is returned to the location deck. <br>&ensp;Cannot be duplicated on a given site. 
+> > ***Playable on a Border-hold*** \[![](/assets/images/border-land.svg)] ***or Free-hold*** \[![](/assets/images/free-hold.svg)] ***site.*** A company at this site must face an Orc attack of three strikes at 7 prowess at the beginning of its site phase. <br>&ensp;At the end of its organization phase, a company at a site with _Siege_ on it must make a roll (or draw a #) and subtract one from the result for every non-scout character it contains. If this result is less than 5, the company may not move this turn. <br>&ensp;Discard when the site card is discarded or when the site card is returned to the location deck. <br>&ensp;Cannot be duplicated on a given site. 
 >
 
 ---
@@ -7121,7 +7118,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Amon Hen</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -7144,7 +7141,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="character-card-name">Bag End</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -7167,7 +7164,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Bandit Lair</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -7190,7 +7187,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="character-card-name">Barad-dur</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -7210,7 +7207,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Barrow-downs</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -7233,7 +7230,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="character-card-name">Beorn's House</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -7256,7 +7253,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="character-card-name">Blue Mountain Dwarf-hold</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -7279,7 +7276,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Bree</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -7292,7 +7289,7 @@ permalink: /cards/all/
 > > _**Nearest Haven:**_ Rivendell  
 > > 
 > > {: .fs-3 } 
-> > _“Bree was the chief village of the Bree-land, a small inhabited region, like an island in the empty lands round about... The village of Bree had some hundred houses of the Big Folk, mostly above the road, nestling on the hillside with windows looking west."_ ***---&#65279;LotRI*** 
+> > _“Bree was the chief village of the Bree-land, a small inhabited region, like an island in the empty lands round about... The village of Bree had some hundred stone houses of the Big Folk, mostly above the road, nestling on the hillside with windows looking west."_ ***---&#65279;LotRI*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -7302,7 +7299,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Cameth Brin</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -7325,7 +7322,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="character-card-name">Carn Dum</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -7348,7 +7345,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Caves of Ulund</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -7371,7 +7368,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="character-card-name">Cirith Ungol</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -7394,7 +7391,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Dancing Spire</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -7417,7 +7414,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="character-card-name">Dead Marshes</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -7440,7 +7437,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Dimrill Dale</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -7463,7 +7460,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="character-card-name">Dol Amroth</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -7486,7 +7483,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="character-card-name">Dol Guldur</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -7509,7 +7506,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Druadan Forest</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -7532,7 +7529,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Dunharrow</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -7555,7 +7552,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Dunnish Clan-hold</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -7578,7 +7575,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="character-card-name">Eagles' Eyrie</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -7601,7 +7598,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Easterling Camp</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -7624,14 +7621,14 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-haven.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-haven-L.svg"></div>
 > > <div class="character-card-name">Edhellond</div>
 >
 > {: .character-card-classification .pr-2 }
 > Anfalas
 >
 > {: .hero-site-text .black-text .p-2 }
-> > ***Site Path From Grey Havens:*** <br>&emsp;![](/assets/images/free-domain.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/wilderness.svg)] <br>***Site Path From Lorien:*** <br>&emsp;![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/free-domain.svg) ![](/assets/images/free-domain.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg) 
+> > ***Site Path From Grey Havens:*** <br>&emsp;![](/assets/images/free-domain.svg)&ensp;![](/assets/images/coastalsea.svg)&ensp;![](/assets/images/coastalsea.svg)&ensp;![](/assets/images/coastalsea.svg)&ensp;![](/assets/images/coastalsea.svg)&ensp;![](/assets/images/wilderness.svg) <br>***Site Path From Lorien:*** <br>&emsp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/free-domain.svg)&ensp;![](/assets/images/free-domain.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg) 
 > > 
 > > {: .fs-3 } 
 > > _“It is long since the people of Nimrodel left the woodlands of Lorien, and yet one may see that not all sailed from Amroth's haven west over water."_ ***---&#65279;LotRV*** 
@@ -7644,7 +7641,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="character-card-name">Edoras</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -7667,7 +7664,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Ettenmoors</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -7690,7 +7687,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Gladden Fields</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -7713,7 +7710,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Glittering Caves</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -7736,7 +7733,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="character-card-name">Goblin-gate</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -7759,14 +7756,14 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-haven.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-haven-L.svg"></div>
 > > <div class="character-card-name">Grey Havens</div>
 >
 > {: .character-card-classification .pr-2 }
 > Lindon
 >
 > {: .hero-site-text .black-text .p-2 }
-> > ***Site Path From Rivendell:*** <br>&emsp;![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/free-domain.svg) <br>***Site Path From Edhellond:*** <br>&emsp;![](/assets/images/wilderness.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/free-domain.svg) 
+> > ***Site Path From Rivendell:*** <br>&emsp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/free-domain.svg) <br>***Site Path From Edhellond:*** <br>&emsp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/coastalsea.svg)&ensp;![](/assets/images/coastalsea.svg)&ensp;![](/assets/images/coastalsea.svg)&ensp;![](/assets/images/coastalsea.svg)&ensp;![](/assets/images/free-domain.svg) 
 > > 
 > > {: .fs-3 } 
 > > _“...so they rode down at last to Mithlond, to the Grey Havens in the long firth of Lune... As they came to the gates Cirdan the shipwright came forth to greet them."_ ***---&#65279;LotRVI*** 
@@ -7779,7 +7776,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Henneth Annun</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -7802,7 +7799,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Himring</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -7825,7 +7822,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Irerock</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -7848,7 +7845,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="character-card-name">Iron Hill Dwarf-hold</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -7871,7 +7868,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Isengard</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -7884,7 +7881,7 @@ permalink: /cards/all/
 > > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br> Wolves --- 3 strikes with 7 prowess  
 > > 
 > > {: .fs-3 } 
-> > _“...four mighty piers of many-sided stone were welded into one, but near the summit they opened into gaping horns, their pinnacles sharp as the points of spears."_ ***---&#65279;LotRIII*** 
+> > _“...four mighty piers of many-sided stone were welded into one, but near the summit they opened into gaping horns, their pinnacles sharp as the points of spears..."_ ***---&#65279;LotRIII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -7894,7 +7891,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Isles of the Dead that Live</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -7917,7 +7914,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Lake-town</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -7940,7 +7937,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Lond Galen</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -7963,14 +7960,14 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-haven.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-haven-L.svg"></div>
 > > <div class="character-card-name">Lorien</div>
 >
 > {: .character-card-classification .pr-2 }
 > Wold & Foothills
 >
 > {: .hero-site-text .black-text .p-2 }
-> > ***Site Path From Rivendell:*** <br>&emsp;![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg) <br>***Site Path From Edhellond:*** <br>&emsp;![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/free-domain.svg) ![](/assets/images/free-domain.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg) 
+> > ***Site Path From Rivendell:*** <br>&emsp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg) <br>***Site Path From Edhellond:*** <br>&emsp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/free-domain.svg)&ensp;![](/assets/images/free-domain.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg) 
 > > 
 > > {: .fs-3 } 
 > > _“‘There are no trees like the trees of that land. For in autumn their leaves fall not, but turn to gold. Not till the spring comes...do they fall, and then the boughs are laden with golden flowers...’”_ ***---&#65279;LotRII*** 
@@ -7983,7 +7980,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Lossadan Cairn</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -8003,7 +8000,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Lossadan Camp</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -8026,7 +8023,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="character-card-name">Minas Morgul</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -8049,7 +8046,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="character-card-name">Minas Tirith</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -8072,7 +8069,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="character-card-name">Moria</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -8095,7 +8092,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="character-card-name">Mount Doom</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -8105,7 +8102,7 @@ permalink: /cards/all/
 > Gorgoroth
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Special:**_ Any company moving to Mount Doom has its hazard limit modified by +2 **and** hazard creatures may always be keyed to the site regardless of any other cards played. 
+> > _**Nearest Haven:**_ Lorien <br>_**Special:**_ Any company moving to Mount Doom has its hazard limit modified by +2 **and** hazard creatures may _always_ be played keyed to the site regardless of any other cards played. 
 > > 
 > > {: .fs-3 } 
 > > _“...a huge mass of ash and slag and burned stone...a sheer-sided cone...”_ ***---&#65279;LotRVI*** 
@@ -8118,7 +8115,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="character-card-name">Mount Gram</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -8141,7 +8138,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="character-card-name">Mount Gundabad</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -8164,7 +8161,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Old Forest</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -8187,7 +8184,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Ost-in-Edhil</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -8210,7 +8207,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="character-card-name">Pelargir</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -8233,7 +8230,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="character-card-name">Rhosgobel</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -8256,14 +8253,14 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-haven.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-haven-L.svg"></div>
 > > <div class="character-card-name">Rivendell</div>
 >
 > {: .character-card-classification .pr-2 }
 > Rhudaur
 >
 > {: .hero-site-text .black-text .p-2 }
-> > ***Site Path From Lorien:*** <br>&emsp;![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) <br>***Site Path From Grey Havens:*** <br>&emsp;![](/assets/images/free-domain.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) 
+> > ***Site Path From Lorien:*** <br>&emsp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg) <br>***Site Path From Grey Havens:*** <br>&emsp;![](/assets/images/free-domain.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg) 
 > > 
 > > {: .fs-3 } 
 > > _“‘His house was perfect, whether you liked food, or sleep, or work, or story-telling, or singing, or just sitting and thinking best, or a pleasant mixture of them all. Evil things did not come into that valley.’”_ ***---&#65279;Hob*** 
@@ -8276,7 +8273,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Ruined Signal Tower</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -8299,7 +8296,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="character-card-name">Sarn Goriwing</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -8322,7 +8319,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="character-card-name">Shelob's Lair</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -8345,7 +8342,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Shrel-Kain</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -8368,7 +8365,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Southron Oasis</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -8391,7 +8388,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Stone-circle</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -8414,7 +8411,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">The Lonely Mountain</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -8437,7 +8434,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">The Stones</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -8460,7 +8457,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">The White Towers</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -8483,7 +8480,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">The Wind Throne</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -8506,7 +8503,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="character-card-name">Thranduil's Halls</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -8529,7 +8526,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Tolfalas</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -8539,10 +8536,7 @@ permalink: /cards/all/
 > Mouths of the Anduin
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Undead --- 3 strikes with 7 prowess; each character wounded must make a corruption check  
-> > 
-> > {: .fs-3 } 
-> > _“Tolfalas, the great Coastal Island, ...guards the heartland of Gondor...”_ ***---&#65279;Kuduk&nbsp;Lore*** 
+> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Undead --- 3 strikes with 7 prowess; each character wounded must make a corruption check
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -8552,7 +8546,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Vale of Erech</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -8575,7 +8569,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Variag Camp</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -8598,7 +8592,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Weathertop</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -8621,7 +8615,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="character-card-name">Wellinghall</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -8644,7 +8638,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Woodmen-town</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -8667,7 +8661,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Wose Passage-hold</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -8693,7 +8687,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Andrast</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Andrast Coast, Anfalas, Bay of Belfalas, Eriadoran Coast, Old Pukel-land 
@@ -8706,7 +8700,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Andrast Coast</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/coastalsea.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Andrast, Bay of Belfalas, Eriadoran Coast 
@@ -8719,7 +8713,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Anduin Vales</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Brown Lands, Grey Mountain Narrows, Gundabad, High Pass, Southern Mirkwood, Western Mirkwood, Wold & Foothills, Woodland Realm 
@@ -8732,7 +8726,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Anfalas</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Andrast, Bay of Belfalas, Belfalas, Lamedon, Old Pukel Gap
@@ -8745,7 +8739,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Angmar</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Arthedain, Forochel, Gundabad, Rhudaur 
@@ -8758,7 +8752,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Anorien</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/free-domain.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Ithilien, Lebennin, Rohan 
@@ -8771,7 +8765,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Arthedain</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Angmar, Cardolan, Forochel, Lindon, Numeriador, Rhudaur, The Shire 
@@ -8784,7 +8778,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Bay of Belfalas</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/coastalsea.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Andrast Coast, Andrast, Mouths of the Anduin, Anfalas, Belfalas
@@ -8797,7 +8791,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Belfalas</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/free-domain.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Mouths of the Anduin, Anfalas, Bay of Belfalas, Lamedon, Lebennin
@@ -8810,7 +8804,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Brown Lands</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anduin Vales, Dagorlad, Southern Mirkwood, Wold & Foothills 
@@ -8823,7 +8817,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Cardolan</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Arthedain, Dunland, Enedhwaith, Eriadoran Coast, Hollin, Rhudaur, The Shire 
@@ -8836,7 +8830,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Dagorlad</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Brown Lands, Horse Plains, Ithilien, Southern Mirkwood, Southern Rhovanion 
@@ -8849,7 +8843,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Dorwinion</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Northern Rhovanion, Southern Rhovanion 
@@ -8862,7 +8856,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Dunland</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Cardolan, Enedhwaith, Hollin 
@@ -8875,7 +8869,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Elven Shores</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/coastalsea.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Eriadoran Coast, Lindon 
@@ -8888,7 +8882,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Enedhwaith</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/free-domain.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Cardolan, Dunland, Eriadoran Coast, Gap of Isen, Old Pukel-land 
@@ -8901,7 +8895,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Eriadoran Coast</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/coastalsea.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Andrast, Andrast Coast, Cardolan, Elven Shores, Enedhwaith, Old Pukel-land 
@@ -8914,7 +8908,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Fangorn</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Gap of Isen, Rohan, Wold & Foothills 
@@ -8927,7 +8921,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Forochel</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Angmar, Arthedain, Numeriador 
@@ -8940,7 +8934,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Gap of Isen</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Enedhwaith, Fangorn, Old Pukel-land, Rohan 
@@ -8953,7 +8947,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Gorgoroth</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/dark-domain.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Imlad Morgul, Nurn, Udun 
@@ -8966,7 +8960,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Grey Mountain Narrows</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anduin Vales, Northern Rhovanion, Withered Heath, Woodland Realm 
@@ -8979,7 +8973,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Gundabad</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/dark-domain.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anduin Vales, Angmar 
@@ -8992,7 +8986,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Harondor</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Mouths of the Anduin, Ithilien, Khand 
@@ -9005,7 +8999,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Heart of Mirkwood</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Northern Rhovanion, Southern Mirkwood, Southern Rhovanion, Western Mirkwood, Woodland Realm 
@@ -9018,7 +9012,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">High Pass</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anduin Vales, Rhudaur 
@@ -9031,7 +9025,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Hollin</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Cardolan, Dunland, Redhorn Gate, Rhudaur 
@@ -9044,7 +9038,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Horse Plains</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Dagorlad, Nurn, Southern Rhovanion 
@@ -9057,7 +9051,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Imlad Morgul</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Gorgoroth, Ithilien 
@@ -9070,7 +9064,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Iron Hills</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Northern Rhovanion, Withered Heath 
@@ -9083,7 +9077,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Ithilien</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anorien, Dagorlad, Harondor, Imlad Morgul 
@@ -9096,7 +9090,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Khand</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Harondor, Nurn 
@@ -9109,7 +9103,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Lamedon</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anfalas, Belfalas, Lebennin 
@@ -9122,7 +9116,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Lebennin</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/free-domain.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Mouths of the Anduin, Anorien, Belfalas, Lamedon
@@ -9135,7 +9129,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Lindon</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/free-domain.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Arthedain, Elven Shores, Numeriador 
@@ -9148,7 +9142,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Mouths of the Anduin</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/coastalsea.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Bay of Belfalas, Belfalas, Harondor, Lebennin 
@@ -9161,7 +9155,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Northern Rhovanion</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Dorwinion, Heart of Mirkwood, Iron Hills, Southern Mirkwood, Withered Heath, Woodland Realm, Grey Mountain Narrows 
@@ -9174,7 +9168,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Numeriador</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Arthedain, Forochel, Lindon 
@@ -9187,7 +9181,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Nurn</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/dark-domain.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Gorgoroth, Horse Plains, Khand 
@@ -9200,7 +9194,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Old Pukel Gap</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anfalas, Old Pukel-land 
@@ -9213,7 +9207,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Old Pukel-land</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Andrast, Enedhwaith, Eridaoran Coast, Gap of Isen, Old Pukel Gap 
@@ -9226,7 +9220,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Redhorn Gate</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Hollin, Wold & Foothills 
@@ -9239,7 +9233,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Rhudaur</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Angmar, Arthedain, Cardolan, High Pass, Hollin 
@@ -9252,7 +9246,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Rohan</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anorien, Fangorn, Gap of Isen, Wold & Foothills 
@@ -9265,7 +9259,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Southern Mirkwood</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/dark-domain.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anduin Vales, Brown Lands, Dagorlad, Heart of Mirkwood, Southern Rhovanion, Western Mirkwood 
@@ -9278,7 +9272,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Southern Rhovanion</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Dagorlad, Dorwinion, Heart of Mirkwood, Horse Plains, Northern Rhovanion, Southern Mirkwood 
@@ -9291,7 +9285,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">The Shire</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/free-domain.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Arthedain, Cardolan 
@@ -9304,7 +9298,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Udun</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/dark-domain.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Gorgoroth 
@@ -9317,7 +9311,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Western Mirkwood</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anduin Vales, Heart of Mirkwood, Southern Mirkwood, Woodland Realm 
@@ -9330,7 +9324,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Withered Heath</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Iron Hills, Northern Rhovanion, Grey Mountain Narrows
@@ -9343,7 +9337,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Wold & Foothills</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anduin Vales, Brown Lands, Fangorn, Redhorn Gate, Rohan
@@ -9356,7 +9350,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Woodland Realm</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anduin Vales, Heart of Mirkwood, Northern Rhovanion, Western Mirkwood, Grey Mountain Narrows
@@ -9399,7 +9393,7 @@ permalink: /cards/all/
 > > _**Unique.**_ Whenever bearer makes an influence check, he must also make a corruption check. If the bearer is not a Hobbit: he receives +1 to body to a maximum of 10; he receives +4 to direct influence; and he may tap _The Iron Crown_ to cancel an attack by Orcs, Trolls, or Men against his company. 
 > > 
 > > {: .fs-3 } 
-> > _“‘If I had this thing now in the deep vaults of this citadel, we should not then shake with dread under his gloom, fearing the worst...”_ ***---&#65279;LotRV*** 
+> > _“‘If I had this thing now in the deep vaults of this citadel, we should not then shake with dread under his gloom, fearing the worst...”_ ***---&#65279;LotRIII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 &ndash;/(+1) 】</div>
@@ -9413,13 +9407,13 @@ permalink: /cards/all/
 > > <div class="card-name">Neeker-breekers</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/ruinlair.svg)
+> > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/ruinlair.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Animals._ Each character in the company faces one strike. His prowess against such a strike is equal to his mind attribute. Any character that would normally be wounded is only tapped instead-no body checks are made. 
+> > _Animals._ Each character in the company faces one strike. His prowess against such a strike is equal to his mind attribute. Any character that would normally be wounded is only tapped instead---no body checks are made. 
 > > 
 > > {: .fs-3 } 
 > > _“There were thousands of them, and they squeaked all round, neek-breek, breek-neek, unceasingly all the night, until the hobbits were nearly frantic."_ ***---&#65279;LotR*** 
@@ -9439,7 +9433,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ May not be played if The Iron Crown is in play. The prowess of one strike of an attack by an Orc, Troll, Man, or Nazgul creature is increased by +4. After the attack is resolved, if the creature is not a Nazgul: the creature is removed from play (defender receives the marshalling points); and, in addition, if the defender has the Iron Crown in his hand, he may immediately play it with a character in the defending company. 
+> > _**Unique.**_ May not be played if _The Iron Crown_ is in play. The prowess of one strike of an attack by an Orc, Troll, Man, or Nazgul creature is increased by +4. After the attack is resolved, if the creature is _not_ a Nazgul: the creature is removed from play (defender receives the marshalling points); and, in addition, if the defender has _The Iron Crown_ in his hand, he may immediately play it with a character in the defending company. 
 > > 
 > > {: .fs-3 } 
 > > _“...and now he has come again, bringing ruin, turning hope to despair, and victory to death."_ ***---&#65279;LotRV*** 
@@ -12249,7 +12243,7 @@ permalink: /cards/all/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ ***Only playable at Lorien.*** 
+> > _Unique._ ***Only playable at Lorien.*** Only playable at Lorien.*** 2 marshalling points if stored at Bag End. 
 > > 
 > > {: .fs-3 } 
 > > _“‘Though you should find all barren and laid waste, there will be few gardens in Middle-earth that will bloom like your garden, if you sprinkle this earth there’”_ ***---&#65279;LotRII*** 
@@ -12369,7 +12363,7 @@ permalink: /cards/all/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ _Shield._ +2 to body to a maximum of 9. Warriror only: tap _Great Shield of Rohan_ to remain untapped against one strike (unless the bearer is wounded by the strike). 
+> > _Unique._ _Shield._ +2 to body to a maximum of 9. Warrior only: tap _Great Shield of Rohan_ to remain untapped against one strike (unless the bearer is wounded by the strike). 
 > > 
 > > {: .fs-3 } 
 > > _“His golden shield was uncovered, and lo! it shone like an image of the Sun, and the grass flamed into green about the white feet of his steed."_ ***---&#65279;LotRV*** 
@@ -12395,7 +12389,7 @@ permalink: /cards/all/
 > > _“Each one of his folk was clad in a hauberk of steel that hung to his knees."_ ***---&#65279;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【 &ndash;/(+2) 】</div>
+> > <div class="card-shield">【 &ndash;/+2 】</div>
 > > <div class="card-corruption">〔 1 〕</div>
 
 ---
@@ -12552,7 +12546,7 @@ permalink: /cards/all/
 > > _Magic Ring._ ***Playable only with a Gold Ring and after a test indicates a Magic Ring.*** Gives the bearer diplomat skill. If the bearer is already a diplomat, he gets +3 to direct influence. May not be duplicated on a given character. 
 > > 
 > > {: .fs-3 } 
-> > _“But none were unmoved; none rejected its please and its commands...”_ ***---&#65279;LotRIII*** 
+> > _“But none were unmoved; none rejected its pleas and its commands...”_ ***---&#65279;LotRIII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +3[di] 】</div>
@@ -12706,7 +12700,7 @@ permalink: /cards/all/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ _Palantir._ Playable only at Isengard. With its bearer able to use a Palantir and with at least 5 cards in your play deck, tap _Palantir of Orthanc_ to choose one card from you discard pile to place in your play deck (reshuffle the play deck). Bearer makes a corruption check. 
+> > _Unique._ _Palantir._ ***Playable only at Isengard.*** With its bearer able to use a Palantir and with at least 5 cards in your play deck, tap _Palantir of Orthanc_ to choose one card from you discard pile to place in your play deck (reshuffle the play deck). Bearer makes a corruption check. 
 > > 
 > > {: .fs-3 } 
 > > _“‘The Stones of Seeing do not lie...’”_ ***---&#65279;LotRV*** 
@@ -12726,7 +12720,7 @@ permalink: /cards/all/
 > Greater Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ _Palantir._ If the bearer's company is ever below 4 characters and the company moves, discard. 5 marshalling points if stored in a Haven \[![](/assets/images/free-haven.svg)]. With its bearer able to use a Palantir, tap _Palantir of Osgiliath_ to force the discard of any hazard permanent-event **or** to duplicate the effect of any Palantir in play. Bearer makes a corruption check. 
+> > _Unique._ _Palantir._ If the bearer's company is ever below 4 characters and the company moves, discard. 5 marshalling pts. if stored in a Haven \[![](/assets/images/free-haven.svg)]. With its bearer able to use a Palantir, tap _Palantir of Osgiliath_ to force the discard of any hazard permanent-event **or** to duplicate the effect of any Palantir in play. Bearer makes a corruption check. 
 > > 
 > > {: .fs-3 } 
 > > _“The chief and master of these was under the Dome of Stars at Osgiliath before its ruin."_ ***---&#65279;LotRIII*** 
@@ -12809,10 +12803,10 @@ permalink: /cards/all/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ ***Only playable at Bag End.*** +2 to direct influence against a Hobbit character of faction. 1 marshalling point if stored at a Haven \[![](/assets/images/free-haven.svg)]. 
+> > _Unique._ ***Only playable at Bag End.*** +2 to direct influence against a Hobbit character or faction. 1 marshalling point if stored at a Haven \[![](/assets/images/free-haven.svg)]. 
 > > 
 > > {: .fs-3 } 
-> > _“...in a single red case, were the three large volumes, bound in red leather, that Bilbo gave to him as a parting gift...”_ ***---&#65279;LotRV*** 
+> > _“...in a single red case, were the three large volumes, bound in red leather, that Bilbo gave to him as a parting gift. ...”_ ***---&#65279;LotRV*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -12849,7 +12843,7 @@ permalink: /cards/all/
 > Greater Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ When a Gold Ring is tested in a company with the Scroll of Isildur, the result of the roll (or draw) is modified by +2. 
+> > _Unique._ When a Gold Ring is tested in a company with the _Scroll of Isildur_, the result of the roll (or draw) is modified by +2. 
 > > 
 > > {: .fs-3 } 
 > > _“Yet even as I write it is cooled, and it seemeth to shrink, though it loseth neither its beauty nor its shape. Already the writing upon it, which was at first clear as red flame, fadeth and now only barely to be read."_ ***---&#65279;LotRII***  
@@ -12929,7 +12923,7 @@ permalink: /cards/all/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Weapon._ Warrior only. +2 prowess to a maximum of 8. 
+> > _Weapon._ Warrior only: +2 prowess to a maximum of 8. 
 > > 
 > > {: .fs-3 } 
 > > _“‘They are old swords, very old swords of the High Elves of the West, my kin. They were made in Gondolin for the Goblin-wars.’”_ ***---&#65279;Hob*** 
@@ -12946,7 +12940,7 @@ permalink: /cards/all/
 > > <div class="card-name">The Arkenstone</div>
 >
 > {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > [+3]![](/assets/images/di.svg)
+> > [+3 ![](/assets/images/di.svg)]
 >
 > {: .card-classification .pr-2 }
 > Greater Item
@@ -13117,7 +13111,7 @@ permalink: /cards/all/
 > > <div class="card-name">Anduril, the Flame of the West</div>
 >
 > {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > +1 ![](/assets/images/di.svg)
+> > [+1 ![](/assets/images/di.svg)]
 >
 > {: .card-classification .pr-2 }
 > Permanent-event
@@ -13126,7 +13120,7 @@ permalink: /cards/all/
 > > _Unique._ ***Sage only during the site phase at an untapped site where "Information" is playable.*** Tap the sage and the site. Sage makes a corruption check modified by -3. Keep sage tapped until _Anduril_ is stored at a Haven \[![](/assets/images/free-haven.svg)]. Once stored, you may discard a stored _Reforging_ and place _Anduril_ with _Narsil_. <br>&ensp;In addition to _Narsil's_ effects, _Anduril_ gives its bearer 4 marshalling points, +4 prowess (to a maximum of 11), +1 direct influence, and one more corruption point. _Anduril_ may be tapped to untap a Dunadan character in the same company, but its bearer must make a corruption check modified by -1. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【 +4/&ndash; 】</div>
+> > <div class="card-shield">【 (+4)/&ndash; 】</div>
 > > <div class="card-corruption">〔 1 〕</div>
 
 ---
@@ -13171,7 +13165,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable at the end of the movement/hazard phase on a company that moved to a Haven \[![](/assets/images/free-haven.svg)].*** That company may move to an additional site on the same turn. Another site card may be played and a movement/hazard phase immediately follows for that company. 
+> > ***Playable at the end of the movement/hazard phase on a company that moved to a Haven*** \[![](/assets/images/free-haven.svg)]. That company may move to an additional site on the same turn. Another site card may be played and a movement/hazard phase immediately follows for that company. 
 > 
 
 ---
@@ -13236,7 +13230,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Cancel one attack by Orcs, Trolls or Men. Alternatively, if Gates of Morning is in play, the number of strikes from any attack is reduced to half its original number, rounded up. 
+> > Cancel one attack by Orcs, Trolls or Men. <br>&ensp'Alternatively, if _Gates of Morning_ is in play, the number of strikes from any attack is reduced to half its original number, rounded up. 
 > > 
 > > {: .fs-3 } 
 > > _“‘...How do you like being called swine by the muck-rakers of a dirty little wizard?' Many loud yells...answered him...”_ ***---&#65279;LotRIII*** 
@@ -13253,10 +13247,10 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Target character does not tap against one strike (unless he is wounded by the strike). If wounded by the strike, his body is modified by -1 for the resulting body check. 
+> > Cancel one attack by Orcs, Trolls or Men. <br>&ensp'Alternatively, if _Gates of Morning_ is in play, the number of strikes from any attack is reduced to half its original number, rounded up. 
 > > 
 > > {: .fs-3 } 
-> > _“A quick duck had saved him; and he had felled his orc: a sturdy thrust with his Barrow-blade."_ ***---&#65279;LotRII*** 
+> > _“‘...How do you like being called swine by the muck-rakers of a dirty little wizard?' Many loud yells...answered him...”_ ***---&#65279;LotRIII*** 
 > 
 
 ---
@@ -13417,7 +13411,7 @@ permalink: /cards/all/
 > > ***Playable at the end of the organization phase*** if target company plays a new site card. The hazard limit for the target company decreases by one for every Wilderness \[![](/assets/images/wilderness.svg)] in its site path (to a minimum of two). Cannot be duplicated on the same company. 
 > > 
 > > {: .fs-3 } 
-> > _“...there was a break in the wall of trees...”_ ***---&#65279;LotRVI*** 
+> > _“...there was a break in the wall of trees...”_ ***---&#65279;LotRI*** 
 > 
 
 ---
@@ -13462,7 +13456,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Only playable at a Haven \[![](/assets/images/free-haven.svg)] during the organization phase*** on a company that has four or more characters and allies. +1 to prowess and +1 to corruption checks for all characters and allies in the company. Discard this card if a character or ally joins or leaves the company for any reason. 
+> > ***Only playable at a Haven*** \[![](/assets/images/free-haven.svg)] ***during the organization phase*** on a company that has four or more characters and allies. +1 to prowess and +1 to corruption checks for all characters and allies in the company. Discard this card if a character or ally joins or leaves the company for any reason. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +1/&ndash; 】</div>
@@ -13561,7 +13555,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable only at the end of the organization phase on a company that starts at a Haven \[![](/assets/images/free-haven.svg)].*** Opponent may draw up to twice the normal number of cards for this company during the movement/hazard phase. At the end of the turn, the company may replace its site card with the Haven card at which it began the turn. 
+> > ***Playable only at the end of the organization phase on a company that starts at a Haven*** \[![](/assets/images/free-haven.svg)]. Opponent may draw up to twice the normal number of cards for this company during the movement/hazard phase. At the end of the turn, the company may replace its site card with the Haven card at which it began the turn. 
 > 
 
 ---
@@ -13756,7 +13750,7 @@ permalink: /cards/all/
 > Long-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Environment._ If _Gates of Morning_ is in play, treat all Wildernesses \[![](/assets/images/wilderness.svg)] as Border-lands \[![](/assets/images/border-land.svg)] **and** all Border-lands \[![](/assets/images/border-land.svg)] as Free-domains \[![](/assets/images/free-domain.svg)] for the purposes of playing hazards. <br>&ensp;If _Doors of Night_ is in play, treat all Dark-domains \[![](/assets/images/dark-domain.svg)] as Shadow-lands \[![](/assets/images/shadow-land.svg)] **and** all Shadow-lands \[![](/assets/images/shadow-land.svg)] as Wilderness \[![](/assets/images/wilderness.svg)] for the purposes of playing hazards. Cannot be duplicated. 
+> > _Environment._ If _Gates of Morning_ is in play, treat all Wildernesses \[![](/assets/images/wilderness.svg)] as Border-lands \[![](/assets/images/border-land.svg)] **and** all Border-lands \[![](/assets/images/border-land.svg)] as Free-domains \[![](/assets/images/free-domain.svg)] for the purposes of playing hazards. <br>&ensp;If _Doors of Night_ is in play, treat all Dark-domains \[![](/assets/images/dark-domain.svg)] as Shadow-lands \[![](/assets/images/shadow-land.svg)] **and** all Shadow-lands \[![](/assets/images/shadow-land.svg)] as Wilderness \[![](/assets/images/wilderness.svg)] for the purposes of playing hazards. <br>&ensp;Cannot be duplicated. 
 > 
 
 ---
@@ -13770,7 +13764,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable at the end of the organization phase on a company that has a size of less than three, contains a scout, and begins the turn at a site in Dagorlad.*** This card is used as a Dark-hold \[![](/assets/images/dark-hold.svg)] site card in the region of Udun that is moved to using the site path: ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg) (the moving player draws 2 cards and his opponent draws 5 cards). The company can later leave this site using region cards or by using the following site path to move to Lorien: ![](/assets/images/dark-domain.svg) ![](/assets/images/dark-domain.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/free-domain.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg). <br>&ensp;Discard _Morannon_ when the company successfully plays a new site card. 
+> > ***Playable at the end of the organization phase on a company that has a size of less than three, contains a scout, and begins the turn at a site in Dagorlad.*** This card is used as a Dark-hold \[![](/assets/images/dark-hold.svg)] site card in the region of Udun that is moved to using the site path: ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg) (the moving player draws 2 cards and his opponent draws 5 cards). The company can later leave this site using region cards **or** by using the following site path to move to Lorien: ![](/assets/images/dark-domain.svg) ![](/assets/images/dark-domain.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/free-domain.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg). <br>&ensp;Discard _Morannon_ when the company successfully plays a new site card. 
 > 
 
 ---
@@ -13973,7 +13967,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable at an already tapped Dark-hold \[![](/assets/images/dark-hold.svg)] or Shadow-hold \[![](/assets/images/shadow-hold.svg)] during the site phase.*** The company faces a spider attack (2 strikes with 7 prowess). If no characters are untapped after the attack, discard _Rescue Prisoners._ Otherwise, you may tap 1 character in the company and put _Rescue Prisoners_ under his control. That character may not untap until _Rescue Prisoners_ is stored at a Haven \[![](/assets/images/free-haven.svg)], Border-hold \[![](/assets/images/border-hold.svg)], or Free-hold \[![](/assets/images/free-hold.svg)] during his organization phase. You receive the marshalling points for this card only when it is stored. <br>&ensp;Cannot be duplicated at a given site. 
+> > ***Playable at an already tapped Dark-hold*** \[![](/assets/images/dark-hold.svg)] ***or Shadow-hold*** \[![](/assets/images/shadow-hold.svg)] ***during the site phase.*** The company faces a spider attack (2 strikes with 7 prowess). If no characters are untapped after the attack, discard _Rescue Prisoners._ Otherwise, you may tap 1 character in the company and put _Rescue Prisoners_ under his control. That character may not untap until _Rescue Prisoners_ is stored at a Haven \[![](/assets/images/free-haven.svg)], Border-hold \[![](/assets/images/border-hold.svg)], or Free-hold \[![](/assets/images/free-hold.svg)] during his organization phase. You receive the marshalling points for this card only when it is stored. <br>&ensp;Cannot be duplicated at a given site. 
 > 
 
 ---
@@ -13990,7 +13984,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ ***Aragorn II only.*** Only playable at Minas Tirith and only if Denethor II is not in play. Aragorn II's direct influence is modified by +3. Keep this card with Aragorn II; discard if he leaves play. 
+> > _Unique._ ***Aragorn II only.*** Only playable in Minas Tirith and only if Denethor II is not in play. Aragorn II's direct influence is modified by +3. Keep this card with Aragorn II; discard if he leaves play. 
 > > 
 > > {: .fs-3 } 
 > > _“...wisdom sat upon his brow, and strength and healing were in his hands, and a light was about him."_ ***---&#65279;LotRVI***  
@@ -14041,7 +14035,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Spell._ _**Wizard only.**_ All of the strikes from one attack against your Wizard's company fail; +3 to any body checks made to determine of the attack is defeated. Discard the Wizard (i.e., he becomes unrevealed) and any non-item cards he controls. Place any items he controls under this card and keep these off to the side (these items are considered to still be in play). <br>&ensp;If the Wizard is put back into play, return his items to him and place _Sacrifice of Form_ with him. Wizard receives +1 to his prowess, body, and direct influence. <br>&ensp;May not be duplicated on a given Wizard. 
+> > _Spell._ _**Wizard only.**_ All of the strikes from one attack against your Wizard's company fail; +3 to any body checks made to determine if the attack is defeated. Discard the Wizard (i.e., he becomes unrevealed) and any non-item cards he controls. Place any items he controls under this card and keep these off to the side (these items are considered to still be in play). <br>&ensp;If the Wizard is put back into play, return his items to him and place _Sacrifice of Form_ with him. Wizard receives +1 to his prowess, body, and direct influence. <br>&ensp;May not be duplicated on a given Wizard. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +1/+1 】</div>
@@ -14239,7 +14233,7 @@ permalink: /cards/all/
 > > -3 to the prowess and body of a non-Nazgul attack with a normal prowess of 13 or more. Cannot be duplicated on a given attack. 
 > > 
 > > {: .fs-3 } 
-> > _“Suddenly out of the dark something fluttered to his shoulder. 'Wait! Wait!' it said to him. 'The moon is rising. Look for the hollow of the left breast as he flies and turns above you!’” ***---&#65279;Hob***  
+> > _“Suddenly out of the dark something fluttered to his shoulder. 'Wait! Wait!' it said to him. 'The moon is rising. Look for the hollow of the left breast as he flies and turns above you!’”_ ***---&#65279;Hob***  
 > 
 
 ---
@@ -14298,7 +14292,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Sage only._ Tap sage to enable him (for the rest of the turn) to use one Palantir he bears. 
+> > _**Sage only.**_ Tap sage to enable him (for the rest of the turn) to use one Palantir he bears. 
 > > 
 > > {: .fs-3 } 
 > > _“But he himself went up alone into the secret room under the summit of the Tower; and many who looked up thither at that time saw a pale light that gleamed and flickered from the narrow windows for a while, and then flashed and went out."_ ***---&#65279;LotRV*** 
@@ -14491,7 +14485,7 @@ permalink: /cards/all/
 > Creature or Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Nazgul (7th)._ May be played as a hazard creature (with one strike) or as a permanent event. <br>&ensp;As a creature, may also be played keyed to Brown Lands, Dagorlad, Gorgoroth, and Western Mirkwood; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Adunaphel_ becomes a short-event and causes any one character to tap. 
+> > _**Unique.**_ _Nazgul (7th)._ May be played as a hazard creature (with one strike) or as a permanent-event. <br>&ensp;As a creature, may also be played keyed to Brown Lands, Dagorlad, Gorgoroth, and Western Mirkwood; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Adunaphel_ becomes a short-event and causes any one character to tap. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 15/10 】</div>
@@ -14528,7 +14522,7 @@ permalink: /cards/all/
 > Creature or Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Nazgul (5th)._ May be played as a hazard creature (with one strike) or as a permanent event. <br>&ensp;As a creature, may also be played keyed to Harondor, Horse Plains, Gorgoroth, and Khand; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Akhorahil_ becomes a short-event and modifies any one character's body by -1 for the rest of this turn. 
+> > _**Unique.**_ _Nazgul (5th)._ May be played as a hazard creature (with one strike) or as a permanent-event. <br>&ensp;As a creature, may also be played keyed to Harondor, Horse Plains, Gorgoroth, and Khand; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Akhorahil_ becomes a short-event and modifies any one character's body by -1 for the rest of this turn. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 16/9 】</div>
@@ -14617,7 +14611,7 @@ permalink: /cards/all/
 > > _**Unique.**_ _Troll._ One strike. If played after _"William"_ or _"Tom"_ and if keyed to the same site path against the same company, each character wounded by _"Bert"_ must discard all non-special items he bears. 
 > > 
 > > {: .fs-3 } 
-> > _“The trolls had just decided to roast the dwarves now and eat them later-that was Bert's idea."_ ***---&#65279;Hob***  
+> > _“The trolls had just decided to roast the dwarves now and eat them later---that was Bert's idea."_ ***---&#65279;Hob***  
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 12/&ndash; 】</div>
@@ -14769,7 +14763,7 @@ permalink: /cards/all/
 > Creature or Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Nazgul (3rd)._ May be played as a hazard creature (with one strike) or as a permanent event. <br>&ensp;As a creature, may also be played keyed to Harondor, Imlad Morgul, Gorgoroth, and Ithilien; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Dwar of Waw_ becomes a short-event and gives +1 prowess to all Wolf, Spider, and Animal attacks until the end of the turn. 
+> > _**Unique.**_ _Nazgul (3rd)._ May be played as a hazard creature (with one strike) or as a permanent-event. <br>&ensp;As a creature, may also be played keyed to Harondor, Imlad Morgul, Gorgoroth, and Ithilien; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Dwar of Waw_ becomes a short-event and gives +1 prowess to all Wolf, Spider, and Animal attacks until the end of the turn. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 15/10 】</div>
@@ -14924,7 +14918,7 @@ permalink: /cards/all/
 > Creature or Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Nazgul (6th)._ May be played as a hazard creature (with one strike) or as a permanent event. <br>&ensp;As a creature, may also be played keyed to Dagorlad, Ithilien, Gorgoroth, and Khand; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Hoarmurath of Dir_ becomes a short-event and gives +1 strike to any one attack. 
+> > _**Unique.**_ _Nazgul (6th)._ May be played as a hazard creature (with one strike) or as a permanent-event. <br>&ensp;As a creature, may also be played keyed to Dagorlad, Ithilien, Gorgoroth, and Khand; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Hoarmurath of Dir_ becomes a short-event and gives +1 strike to any one attack. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 15/9 】</div>
@@ -14964,7 +14958,7 @@ permalink: /cards/all/
 > Creature or Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Nazgul (4th)._ May be played as a hazard creature (with one strike) or as a permanent event. <br>&ensp;As a creature, may also be played keyed to Harondor, Imlad Morgul, Gorgoroth, and Khand; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Indur Dawndeath_ becomes a short-event and makes any wounded character discard an item of his choice (but not a ring). 
+> > _**Unique.**_ _Nazgul (4th)._ May be played as a hazard creature (with one strike) or as a permanent-event. <br>&ensp;As a creature, may also be played keyed to Harondor, Imlad Morgul, Gorgoroth, and Khand; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Indur Dawndeath_ becomes a short-event and makes any wounded character discard an item of his choice (but not a ring). 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 15/10 】</div>
@@ -14984,7 +14978,7 @@ permalink: /cards/all/
 > Creature or Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Nazgul (2nd)._ May be played as a hazard creature (with one strike) or as a permanent event. <br>&ensp;As a creature, may also be played keyed to Brown Lands, Heart of Mirkwood, Gorgoroth, and Southern Mirkwood; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Khamul the Easterling_ becomes a short-event and forces opponent to discard one card of his choice for every Nazgul permanent-event in play (including this one). 
+> > _**Unique.**_ _Nazgul (2nd)._ May be played as a hazard creature (with one strike) or as a permanent-event. <br>&ensp;As a creature, may also be played keyed to Brown Lands, Heart of Mirkwood, Gorgoroth, and Southern Mirkwood; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Khamul the Easterling_ becomes a short-event and forces opponent to discard one card of his choice for every Nazgul permanent-event in play (including this one). 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 18/8 】</div>
@@ -15024,7 +15018,7 @@ permalink: /cards/all/
 > Creature or Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Man._ May be played as a hazard creature (with one strike) or as a short-event. <br>&ensp;If played as a short-event, bring back any hazard card from your discard pile back into your hand. 
+> > _**Unique.**_ _Man._ May be played as a hazard creature (with one strike) or as a short-event. <br>&ensp;If played as a short-event, bring any hazard card from your discard pile back into your hand. 
 > > 
 > > {: .fs-3 } 
 > > _“The rider was robed all in black, and black was his lofty helm... The Lieutenant of the Tower of Barad-dur...”_ ***---&#65279;LotRV*** 
@@ -15044,7 +15038,7 @@ permalink: /cards/all/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Animals._ Two strikes. May be played keyed to Dagorlad, Gorgoroth, Horse Plains, Ithilien, Khand, Nurn, Udun; may also be played at sites in these regions. <br>&ensp;May also be played (on the same turn and on the same company as Corsairs of Umbar) keyed to Andrast, Anfalas, Belfalas, Lebennin; and at Ruins & Lairs \[![](/assets/images/ruinlair.svg)] and Shadow-holds \[![](/assets/images/shadow-hold.svg)] in these regions. 
+> > _Animals._ Two strikes. May be played keyed to Dagorlad, Gorgoroth, Horse Plains, Ithilien, Khand, Nurn, Udun; may also be played at sites in these regions. <br>&ensp;May also be played (on the same turn and on the same company as _Corsairs of Umbar_) keyed to Andrast, Anfalas, Belfalas, Lebennin; and at Ruins & Lairs \[![](/assets/images/ruinlair.svg)] and Shadow-holds \[![](/assets/images/shadow-hold.svg)] in these regions. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 12/&ndash; 】</div>
@@ -15314,7 +15308,7 @@ permalink: /cards/all/
 > Creature or Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Nazgul (8th)._ May be played as a hazard creature (with one strike) or as a permanent event. <br>&ensp;As a creature, may also be played keyed to Dagorlad, Ithilien, Gorgoroth, and Horse Plains; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Ren the Unclean_ becomes a short-event: each character in play must make a corruption check. 
+> > _**Unique.**_ _Nazgul (8th)._ May be played as a hazard creature (with one strike) or as a permanent-event. <br>&ensp;As a creature, may also be played keyed to Dagorlad, Ithilien, Gorgoroth, and Horse Plains; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Ren the Unclean_ becomes a short-event: each character in play must make a corruption check. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 15/10 】</div>
@@ -15503,7 +15497,7 @@ permalink: /cards/all/
 > Creature or Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Nazgul (9th)._ May be played as a hazard creature (with one strike) or as a permanent event. <br>&ensp;As a creature, may also be played keyed to Harondor, Horse Plains, Gorgoroth, and Khand; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Uvatha the Horseman_ becomes a short-event and you may bring one hazard creature from your discard pile to your hand. 
+> > _**Unique.**_ _Nazgul (9th)._ May be played as a hazard creature (with one strike) or as a permanent-event. <br>&ensp;As a creature, may also be played keyed to Harondor, Horse Plains, Gorgoroth, and Khand; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Uvatha the Horseman_ becomes a short-event and you may bring one hazard creature from your discard pile to your hand. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 15/9 】</div>
@@ -15592,7 +15586,7 @@ permalink: /cards/all/
 > Creature or Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Nazgul (1st)._ May be played as a hazard creature (with one strike) or as a permanent event. <br>&ensp;As a creature, may also be played keyed to Angmar, Gundabad, Gorgoroth, and Imlad Morgul; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Witch-king of Angmar_ becomes a long-event and causes all Shadow-holds \[![](/assets/images/shadow-hold.svg)] to become Dark-holds \[![](/assets/images/dark-hold.svg)]. 
+> > _**Unique.**_ _Nazgul (1st)._ May be played as a hazard creature (with one strike) or as a permanent-event. <br>&ensp;As a creature, may also be played keyed to Angmar, Gundabad, Gorgoroth, and Imlad Morgul; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Witch-king of Angmar_ becomes a long-event and causes all Shadow-holds \[![](/assets/images/shadow-hold.svg)] to become Dark-holds \[![](/assets/images/dark-hold.svg)]. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 17/12 】</div>
@@ -15714,7 +15708,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ The Balrog appears in Moria. The Moria site gains a second automatic-attack of 1 strike with 18 prowess and no body (i.e., 18/-). If this 2nd automatic-attack is defeated, this permanent-event is removed from play (i.e., the Balrog is defeated). If your opponent defeats this 2nd automatic-attack, he receives the marshalling points. <br>&ensp;In addition, unless Galadriel is at Lorien, or she is not in play, Lorien is considered a Free-hold \[![](/assets/images/free-hold.svg)] (for the purposes of healing and playing hazards). +2 prowess to all automatic-attacks at sites in Hollin, Redhorn Gate, and Wold & Foothills. 
+> > _**Unique.**_ The Balrog appears in Moria. The Moria site gains a second automatic-attack of 1 strike with 18 prowess and no body (i.e., 18/-). If this 2nd automatic-attack is defeated, this permanent-event is removed from play (i.e., the Balrog is defeated). If your opponent defeats this 2nd automatic-attack, he receives the marshalling points. <br>&ensp;In addition, unless Galadriel is at Lorien or she is not in play, Lorien is considered a Free-hold \[![](/assets/images/free-hold.svg)] (for the purposes of healing and playing hazards). +2 prowess to all automatic-attacks at sites in Hollin, Redhorn Gate, and Wold & Foothills. 
 >
 
 ---
@@ -15883,7 +15877,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The number of strikes of one Nazgul hazard-creature is increased by one and its prowess is decreased by 2. Attacker chooses defending characters. <br>&ensp;Additionally, target Nazgul may be played keyed to Shadow-land \[![](/assets/images/shadow-land.svg)] or Shadow-hold \[![](/assets/images/shadow-hold.svg)]. <br>&ensp;Cannot be duplicated on a given Nazgul. 
+> > The number of strikes of one Nazgul hazard creature is increased by one and its prowess is decreased by 2. Attacker chooses defending characters. <br>&ensp;Additionally, target Nazgul may be played keyed to Shadow-land \[![](/assets/images/shadow-land.svg)] or Shadow-hold \[![](/assets/images/shadow-hold.svg)]. <br>&ensp;Cannot be duplicated on a given Nazgul. 
 >
 
 ---
@@ -15953,7 +15947,7 @@ permalink: /cards/all/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ Each moving company that has at least two Wildernesses \[![](/assets/images/wilderness.svg)] in its site path must return to its site of origin unless it contains a ranger. <br>&ensp;Additionally, if _Doors of Night_ is in play, each non-Haven site card with at least two Wildernesses in its site path is tapped. <br>&ensp;Cannot be duplicated. 
+> > _Environment._ Each moving company that has at least two Wildernesses \[![](/assets/images/wilderness.svg)] in its site path must return to its site of origin unless it contains a ranger. <br>&ensp;Additionally, if _Doors of Night_ is in play, each non-Haven site card with at least two Wildernesses \[![](/assets/images/wilderness.svg)] in its site path is tapped. <br>&ensp;Cannot be duplicated. 
 >
 
 ---
@@ -16205,7 +16199,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > A Nazgul's prowess is modified by +2. Discard if attack doesn't wound a character. <br>&ensp;_Corruption._ One character (attacker's choice) wounded by an attack modified by this card receives 4 corruption points. <br>&ensp;If at a Haven during his untap phase, a character with this card may attempt to remove it (but not untap or heal). Make a roll (or draw a #): if this result is greater than 4, discard this card. <br>&ensp;Cannot be duplicated on a given Nazgul. 
+> > A Nazgul's prowess is modified by +2. Discard if attack doesn't wound a character. <br>&ensp;_Corruption._ One character (attacker's choice) wounded by an attack modified by this card receives 4 corruption points (place this card under the character). <br>&ensp;If at a Haven during his untap phase, a character with this card may attempt to remove it (but not untap or heal). Make a roll (or draw a #): if this result is greater than 4, discard this card. <br>&ensp;Cannot be duplicated on a given Nazgul. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -16304,7 +16298,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > ***Playable on a Border-hold \[![](/assets/images/border-hold.svg)] or a Free-hold \[![](/assets/images/free-hold.svg)] site.*** A company at this site must face an Orc attack of three strikes at 7 prowess at the beginning of its site phase. <br>&ensp;At the end of its organization phase, a company at a site with _Siege_ on it must make a roll (or draw a #) and subtract one from the result for every non-scout character it contains. If this result is less than 5, the company may not move this turn. <br>&ensp;Discard when the site card is discarded or when the site card is returned to the location deck. <br>&ensp;Cannot be duplicated on a given site. 
+> > ***Playable on a Border-hold \[![](/assets/images/border-hold.svg)] or Free-hold \[![](/assets/images/free-hold.svg)] site.*** A company at this site must face an Orc attack of three strikes at 7 prowess at the beginning of its site phase. <br>&ensp;At the end of its organization phase, a company at a site with _Siege_ on it must make a roll (or draw a #) and subtract one from the result for every non-scout character it contains. If this result is less than 5, the company may not move this turn. <br>&ensp;Discard when the site card is discarded or when the site card is returned to the location deck. <br>&ensp;Cannot be duplicated on a given site. 
 >
 
 ---
@@ -16571,7 +16565,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Amon Hen</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -16594,7 +16588,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="character-card-name">Bag End</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -16617,7 +16611,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Bandit Lair</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -16640,7 +16634,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="character-card-name">Barad-dur</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -16660,7 +16654,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Barrow-downs</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -16683,7 +16677,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="character-card-name">Beorn's House</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -16706,7 +16700,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="character-card-name">Blue Mountain Dwarf-hold</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -16729,7 +16723,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Bree</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -16742,7 +16736,7 @@ permalink: /cards/all/
 > > _**Nearest Haven:**_ Rivendell  
 > > 
 > > {: .fs-3 } 
-> > _“Bree was the chief village of the Bree-land, a small inhabited region, like an island in the empty lands round about... The village of Bree had some hundred houses of the Big Folk, mostly above the road, nestling on the hillside with windows looking west."_ ***---&#65279;LotRI*** 
+> > _“Bree was the chief village of the Bree-land, a small inhabited region, like an island in the empty lands round about... The village of Bree had some hundred stone houses of the Big Folk, mostly above the road, nestling on the hillside with windows looking west."_ ***---&#65279;LotRI*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -16752,7 +16746,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Cameth Brin</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -16775,7 +16769,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="character-card-name">Carn Dum</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -16798,7 +16792,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Caves of Ulund</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -16821,7 +16815,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="character-card-name">Cirith Ungol</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -16844,7 +16838,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Dancing Spire</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -16867,7 +16861,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="character-card-name">Dead Marshes</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -16890,7 +16884,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Dimrill Dale</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -16913,7 +16907,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="character-card-name">Dol Amroth</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -16936,7 +16930,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="character-card-name">Dol Guldur</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -16959,7 +16953,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Druadan Forest</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -16982,7 +16976,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Dunharrow</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -17005,7 +16999,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Dunnish Clan-hold</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -17028,7 +17022,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="character-card-name">Eagles' Eyrie</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -17051,7 +17045,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Easterling Camp</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -17074,14 +17068,14 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-haven.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-haven-L.svg"></div>
 > > <div class="character-card-name">Edhellond</div>
 >
 > {: .character-card-classification .pr-2 }
 > Anfalas
 >
 > {: .hero-site-text .black-text .p-2 }
-> > ***Site Path From Grey Havens:*** <br>&emsp;![](/assets/images/free-domain.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/wilderness.svg)] <br>***Site Path From Lorien:*** <br>&emsp;![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/free-domain.svg) ![](/assets/images/free-domain.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg) 
+> > ***Site Path From Grey Havens:*** <br>&emsp;![](/assets/images/free-domain.svg)&ensp;![](/assets/images/coastalsea.svg)&ensp;![](/assets/images/coastalsea.svg)&ensp;![](/assets/images/coastalsea.svg)&ensp;![](/assets/images/coastalsea.svg)&ensp;![](/assets/images/wilderness.svg) <br>***Site Path From Lorien:*** <br>&emsp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/free-domain.svg)&ensp;![](/assets/images/free-domain.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg) 
 > > 
 > > {: .fs-3 } 
 > > _“It is long since the people of Nimrodel left the woodlands of Lorien, and yet one may see that not all sailed from Amroth's haven west over water."_ ***---&#65279;LotRV*** 
@@ -17094,7 +17088,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="character-card-name">Edoras</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -17117,7 +17111,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Ettenmoors</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -17140,7 +17134,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Gladden Fields</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -17163,7 +17157,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Glittering Caves</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -17186,7 +17180,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="character-card-name">Goblin-gate</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -17209,14 +17203,14 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-haven.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-haven-L.svg"></div>
 > > <div class="character-card-name">Grey Havens</div>
 >
 > {: .character-card-classification .pr-2 }
 > Lindon
 >
 > {: .hero-site-text .black-text .p-2 }
-> > ***Site Path From Rivendell:*** <br>&emsp;![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/free-domain.svg) <br>***Site Path From Edhellond:*** <br>&emsp;![](/assets/images/wilderness.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/free-domain.svg) 
+> > ***Site Path From Rivendell:*** <br>&emsp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/free-domain.svg) <br>***Site Path From Edhellond:*** <br>&emsp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/coastalsea.svg)&ensp;![](/assets/images/coastalsea.svg)&ensp;![](/assets/images/coastalsea.svg)&ensp;![](/assets/images/coastalsea.svg)&ensp;![](/assets/images/free-domain.svg) 
 > > 
 > > {: .fs-3 } 
 > > _“...so they rode down at last to Mithlond, to the Grey Havens in the long firth of Lune... As they came to the gates Cirdan the shipwright came forth to greet them."_ ***---&#65279;LotRVI*** 
@@ -17229,7 +17223,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Henneth Annun</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -17252,7 +17246,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Himring</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -17275,7 +17269,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Irerock</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -17298,7 +17292,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="character-card-name">Iron Hill Dwarf-hold</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -17321,7 +17315,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Isengard</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -17334,7 +17328,7 @@ permalink: /cards/all/
 > > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br> Wolves --- 3 strikes with 7 prowess  
 > > 
 > > {: .fs-3 } 
-> > _“...four mighty piers of many-sided stone were welded into one, but near the summit they opened into gaping horns, their pinnacles sharp as the points of spears."_ ***---&#65279;LotRIII*** 
+> > _“...four mighty piers of many-sided stone were welded into one, but near the summit they opened into gaping horns, their pinnacles sharp as the points of spears..."_ ***---&#65279;LotRIII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -17344,7 +17338,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Isles of the Dead that Live</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -17367,7 +17361,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Lake-town</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -17390,7 +17384,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Lond Galen</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -17413,14 +17407,14 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-haven.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-haven-L.svg"></div>
 > > <div class="character-card-name">Lorien</div>
 >
 > {: .character-card-classification .pr-2 }
 > Wold & Foothills
 >
 > {: .hero-site-text .black-text .p-2 }
-> > ***Site Path From Rivendell:*** <br>&emsp;![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg) <br>***Site Path From Edhellond:*** <br>&emsp;![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/free-domain.svg) ![](/assets/images/free-domain.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg) 
+> > ***Site Path From Rivendell:*** <br>&emsp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg) <br>***Site Path From Edhellond:*** <br>&emsp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/free-domain.svg)&ensp;![](/assets/images/free-domain.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg) 
 > > 
 > > {: .fs-3 } 
 > > _“‘There are no trees like the trees of that land. For in autumn their leaves fall not, but turn to gold. Not till the spring comes...do they fall, and then the boughs are laden with golden flowers...’”_ ***---&#65279;LotRII*** 
@@ -17433,7 +17427,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Lossadan Cairn</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -17453,7 +17447,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Lossadan Camp</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -17476,7 +17470,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="character-card-name">Minas Morgul</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -17499,7 +17493,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="character-card-name">Minas Tirith</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -17522,7 +17516,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="character-card-name">Moria</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -17545,7 +17539,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="character-card-name">Mount Doom</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -17555,7 +17549,7 @@ permalink: /cards/all/
 > Gorgoroth
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Special:**_ Any company moving to Mount Doom has its hazard limit modified by +2 **and** hazard creatures may always be keyed to the site regardless of any other cards played. 
+> > _**Nearest Haven:**_ Lorien <br>_**Special:**_ Any company moving to Mount Doom has its hazard limit modified by +2 **and** hazard creatures may _always_ be played keyed to the site regardless of any other cards played. 
 > > 
 > > {: .fs-3 } 
 > > _“...a huge mass of ash and slag and burned stone...a sheer-sided cone...”_ ***---&#65279;LotRVI*** 
@@ -17568,7 +17562,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="character-card-name">Mount Gram</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -17591,7 +17585,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="character-card-name">Mount Gundabad</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -17614,7 +17608,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Old Forest</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -17637,7 +17631,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Ost-in-Edhil</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -17660,7 +17654,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="character-card-name">Pelargir</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -17683,7 +17677,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="character-card-name">Rhosgobel</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -17706,14 +17700,14 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-haven.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-haven-L.svg"></div>
 > > <div class="character-card-name">Rivendell</div>
 >
 > {: .character-card-classification .pr-2 }
 > Rhudaur
 >
 > {: .hero-site-text .black-text .p-2 }
-> > ***Site Path From Lorien:*** <br>&emsp;![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) <br>***Site Path From Grey Havens:*** <br>&emsp;![](/assets/images/free-domain.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) 
+> > ***Site Path From Lorien:*** <br>&emsp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg) <br>***Site Path From Grey Havens:*** <br>&emsp;![](/assets/images/free-domain.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg) 
 > > 
 > > {: .fs-3 } 
 > > _“‘His house was perfect, whether you liked food, or sleep, or work, or story-telling, or singing, or just sitting and thinking best, or a pleasant mixture of them all. Evil things did not come into that valley.’”_ ***---&#65279;Hob*** 
@@ -17726,7 +17720,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Ruined Signal Tower</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -17749,7 +17743,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="character-card-name">Sarn Goriwing</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -17772,7 +17766,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="character-card-name">Shelob's Lair</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -17795,7 +17789,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Shrel-Kain</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -17818,7 +17812,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Southron Oasis</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -17841,7 +17835,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Stone-circle</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -17864,7 +17858,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">The Lonely Mountain</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -17887,7 +17881,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">The Stones</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -17910,7 +17904,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">The White Towers</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -17933,7 +17927,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">The Wind Throne</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -17956,7 +17950,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="character-card-name">Thranduil's Halls</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -17979,7 +17973,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Tolfalas</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -18002,7 +17996,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Vale of Erech</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -18025,7 +18019,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Variag Camp</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -18048,7 +18042,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Weathertop</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -18071,7 +18065,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="character-card-name">Wellinghall</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -18094,7 +18088,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Woodmen-town</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -18117,7 +18111,7 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Wose Passage-hold</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -18143,7 +18137,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Andrast</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Andrast Coast, Anfalas, Bay of Belfalas, Eriadoran Coast, Old Pukel-land 
@@ -18156,7 +18150,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Andrast Coast</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/coastalsea.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Andrast, Bay of Belfalas, Eriadoran Coast 
@@ -18169,7 +18163,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Anduin Vales</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Brown Lands, Grey Mountain Narrows, Gundabad, High Pass, Southern Mirkwood, Western Mirkwood, Wold & Foothills, Woodland Realm 
@@ -18182,7 +18176,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Anfalas</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Andrast, Bay of Belfalas, Belfalas, Lamedon, Old Pukel Gap
@@ -18195,7 +18189,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Angmar</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Arthedain, Forochel, Gundabad, Rhudaur 
@@ -18208,7 +18202,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Anorien</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/free-domain.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Ithilien, Lebennin, Rohan 
@@ -18221,7 +18215,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Arthedain</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Angmar, Cardolan, Forochel, Lindon, Numeriador, Rhudaur, The Shire 
@@ -18234,7 +18228,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Bay of Belfalas</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/coastalsea.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Andrast Coast, Andrast, Mouths of the Anduin, Anfalas, Belfalas
@@ -18247,7 +18241,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Belfalas</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/free-domain.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Mouths of the Anduin, Anfalas, Bay of Belfalas, Lamedon, Lebennin
@@ -18260,7 +18254,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Brown Lands</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anduin Vales, Dagorlad, Southern Mirkwood, Wold & Foothills 
@@ -18273,7 +18267,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Cardolan</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Arthedain, Dunland, Enedhwaith, Eriadoran Coast, Hollin, Rhudaur, The Shire 
@@ -18286,7 +18280,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Dagorlad</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Brown Lands, Horse Plains, Ithilien, Southern Mirkwood, Southern Rhovanion 
@@ -18299,7 +18293,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Dorwinion</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Northern Rhovanion, Southern Rhovanion 
@@ -18312,7 +18306,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Dunland</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Cardolan, Enedhwaith, Hollin 
@@ -18325,7 +18319,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Elven Shores</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/coastalsea.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Eriadoran Coast, Lindon 
@@ -18338,7 +18332,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Enedhwaith</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/free-domain.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Cardolan, Dunland, Eriadoran Coast, Gap of Isen, Old Pukel-land 
@@ -18351,7 +18345,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Eriadoran Coast</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/coastalsea.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Andrast, Andrast Coast, Cardolan, Elven Shores, Enedhwaith, Old Pukel-land 
@@ -18364,7 +18358,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Fangorn</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Gap of Isen, Rohan, Wold & Foothills 
@@ -18377,7 +18371,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Forochel</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Angmar, Arthedain, Numeriador 
@@ -18390,7 +18384,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Gap of Isen</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Enedhwaith, Fangorn, Old Pukel-land, Rohan 
@@ -18403,7 +18397,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Gorgoroth</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/dark-domain.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Imlad Morgul, Nurn, Udun 
@@ -18416,7 +18410,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Grey Mountain Narrows</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anduin Vales, Northern Rhovanion, Withered Heath, Woodland Realm 
@@ -18429,7 +18423,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Gundabad</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/dark-domain.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anduin Vales, Angmar 
@@ -18442,7 +18436,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Harondor</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Mouths of the Anduin, Ithilien, Khand 
@@ -18455,7 +18449,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Heart of Mirkwood</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Northern Rhovanion, Southern Mirkwood, Southern Rhovanion, Western Mirkwood, Woodland Realm 
@@ -18468,7 +18462,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">High Pass</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anduin Vales, Rhudaur 
@@ -18481,7 +18475,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Hollin</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Cardolan, Dunland, Redhorn Gate, Rhudaur 
@@ -18494,7 +18488,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Horse Plains</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Dagorlad, Nurn, Southern Rhovanion 
@@ -18507,7 +18501,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Imlad Morgul</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Gorgoroth, Ithilien 
@@ -18520,7 +18514,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Iron Hills</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Northern Rhovanion, Withered Heath 
@@ -18533,7 +18527,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Ithilien</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anorien, Dagorlad, Harondor, Imlad Morgul 
@@ -18546,7 +18540,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Khand</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Harondor, Nurn 
@@ -18559,7 +18553,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Lamedon</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anfalas, Belfalas, Lebennin 
@@ -18572,7 +18566,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Lebennin</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/free-domain.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Mouths of the Anduin, Anorien, Belfalas, Lamedon
@@ -18585,7 +18579,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Lindon</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/free-domain.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Arthedain, Elven Shores, Numeriador 
@@ -18598,7 +18592,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Mouths of the Anduin</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/coastalsea.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Bay of Belfalas, Belfalas, Harondor, Lebennin 
@@ -18611,7 +18605,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Northern Rhovanion</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Dorwinion, Heart of Mirkwood, Iron Hills, Southern Mirkwood, Withered Heath, Woodland Realm, Grey Mountain Narrows 
@@ -18624,7 +18618,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Numeriador</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Arthedain, Forochel, Lindon 
@@ -18637,7 +18631,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Nurn</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/dark-domain.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Gorgoroth, Horse Plains, Khand 
@@ -18650,7 +18644,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Old Pukel Gap</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anfalas, Old Pukel-land 
@@ -18663,7 +18657,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Old Pukel-land</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Andrast, Enedhwaith, Eridaoran Coast, Gap of Isen, Old Pukel Gap 
@@ -18676,7 +18670,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Redhorn Gate</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Hollin, Wold & Foothills 
@@ -18689,7 +18683,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Rhudaur</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Angmar, Arthedain, Cardolan, High Pass, Hollin 
@@ -18702,7 +18696,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Rohan</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anorien, Fangorn, Gap of Isen, Wold & Foothills 
@@ -18715,7 +18709,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Southern Mirkwood</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/dark-domain.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anduin Vales, Brown Lands, Dagorlad, Heart of Mirkwood, Southern Rhovanion, Western Mirkwood 
@@ -18728,7 +18722,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Southern Rhovanion</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Dagorlad, Dorwinion, Heart of Mirkwood, Horse Plains, Northern Rhovanion, Southern Mirkwood 
@@ -18741,7 +18735,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">The Shire</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/free-domain.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Arthedain, Cardolan 
@@ -18754,7 +18748,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Udun</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/dark-domain.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Gorgoroth 
@@ -18767,7 +18761,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Western Mirkwood</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anduin Vales, Heart of Mirkwood, Southern Mirkwood, Woodland Realm 
@@ -18780,7 +18774,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Withered Heath</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Iron Hills, Northern Rhovanion, Grey Mountain Narrows
@@ -18793,7 +18787,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Wold & Foothills</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anduin Vales, Brown Lands, Fangorn, Redhorn Gate, Rohan
@@ -18806,7 +18800,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Woodland Realm</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg)
+> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anduin Vales, Heart of Mirkwood, Northern Rhovanion, Western Mirkwood, Grey Mountain Narrows
@@ -21941,7 +21935,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Buhr Widu</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -21964,7 +21958,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Dale</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -21987,7 +21981,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Framsburg</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -22007,7 +22001,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Gold Hill</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -22030,7 +22024,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Gondmaeglom</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -22053,7 +22047,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Isle of the Ulond</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -22076,7 +22070,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Ovir Hollow</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -22099,7 +22093,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Tharbad</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -22122,7 +22116,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Zarak Dum</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -25208,7 +25202,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Haudh-in-Gwanur</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -25231,7 +25225,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Hermit's Hill</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -25251,7 +25245,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">The Gem-deeps</div>
 >
 > {: .character-card-classification .pr-2 }
@@ -25268,7 +25262,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="character-card-name">The Iron-deeps</div>
 >
 > {: .character-card-classification .pr-2 }
@@ -25285,7 +25279,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">The Pukel-deeps</div>
 >
 > {: .character-card-classification .pr-2 }
@@ -25302,7 +25296,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="character-card-name">The Sulfur-deeps</div>
 >
 > {: .character-card-classification .pr-2 }
@@ -25319,7 +25313,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="character-card-name">The Under-courts</div>
 >
 > {: .character-card-classification .pr-2 }
@@ -25336,7 +25330,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="character-card-name">The Under-galleries</div>
 >
 > {: .character-card-classification .pr-2 }
@@ -25353,7 +25347,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="character-card-name">The Under-gates</div>
 >
 > {: .character-card-classification .pr-2 }
@@ -25370,7 +25364,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">The Under-grottos</div>
 >
 > {: .character-card-classification .pr-2 }
@@ -25387,7 +25381,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="character-card-name">The Under-leas</div>
 >
 > {: .character-card-classification .pr-2 }
@@ -25404,7 +25398,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">The Under-vaults</div>
 >
 > {: .character-card-classification .pr-2 }
@@ -25421,7 +25415,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Urlurtsu Nurn</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -26261,7 +26255,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable at the end of the movement/hazard phase on a company that moved to a Haven \[![](/assets/images/free-haven.svg)].*** That company may move to an additional site on the same turn. Another site card may be played and a movement/hazard phase immediately follows for that company. 
+> > ***Playable at the end of the movement/hazard phase on a company that moved to a Haven*** \[![](/assets/images/free-haven.svg)]. That company may move to an additional site on the same turn. Another site card may be played and a movement/hazard phase immediately follows for that company. 
 > 
 
 ---
@@ -26292,7 +26286,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Cancel one attack by Orcs, Trolls or Men. Alternatively, if Gates of Morning is in play, the number of strikes from any attack is reduced to half its original number, rounded up. 
+> > Cancel one attack by Orcs, Trolls or Men. <br>&ensp;Alternatively, if _Gates of Morning_ is in play, the number of strikes from any attack is reduced to half its original number, rounded up. 
 > > 
 > > {: .fs-3 } 
 > > _“‘...How do you like being called swine by the muck-rakers of a dirty little wizard?' Many loud yells...answered him...”_ ***---&#65279;LotRIII*** 
@@ -32863,7 +32857,7 @@ permalink: /cards/all/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ Each moving company that has at least two Wildernesses \[![](/assets/images/wilderness.svg)] in its site path must return to its site of origin unless it contains a ranger. <br>&ensp;Additionally, if _Doors of Night_ is in play, each non-Darkhaven site in play with at least two Wildernesses in its site path is tapped. <br>&ensp;Cannot be duplicated. 
+> > _Environment._ Each moving company that has at least two Wildernesses \[![](/assets/images/wilderness.svg)] in its site path must return to its site of origin unless it contains a ranger. <br>&ensp;Additionally, if _Doors of Night_ is in play, each non-Darkhaven site in play with at least two Wildernesses \[![](/assets/images/wilderness.svg)] in its site path is tapped. <br>&ensp;Cannot be duplicated. 
 >
 
 ---
@@ -33403,7 +33397,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">Amon Hen</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -33426,7 +33420,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="card-name">Bag End</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -33446,7 +33440,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">Bandit Lair</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -33469,7 +33463,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="card-name">Barad-dur</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -33492,7 +33486,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">Barrow-downs</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -33515,7 +33509,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="card-name">Beorn's House</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -33538,7 +33532,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="card-name">Blue Mountain Dwarf-hold</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -33561,7 +33555,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="card-name">Bree</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -33581,7 +33575,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">Buhr Widu</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -33604,7 +33598,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="card-name">Cameth Brin</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -33627,7 +33621,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-haven.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-haven-L.svg"></div>
 > > <div class="card-name">Carn Dum</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -33644,7 +33638,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">Caves of Ulund</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -33667,7 +33661,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="card-name">Cirith Gorgor</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -33690,7 +33684,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="card-name">Cirith Ungol</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -33713,7 +33707,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="card-name">Dale</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -33736,7 +33730,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="card-name">Dead Marshes</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -33759,7 +33753,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">Dimrill Dale</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -33782,7 +33776,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="card-name">Dol Amroth</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -33802,7 +33796,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-haven.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-haven-L.svg"></div>
 > > <div class="card-name">Dol Guldur</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -33819,7 +33813,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="card-name">Druadan Forest</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -33842,7 +33836,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="card-name">Dunharrow</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -33865,7 +33859,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="card-name">Dunnish Clan-hold</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -33888,7 +33882,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="card-name">Easterling Camp</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -33911,7 +33905,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="card-name">Edoras</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -33934,7 +33928,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">Ettenmoors</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -33957,7 +33951,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-haven.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-haven-L.svg"></div>
 > > <div class="card-name">Geann a-Lisch</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -33974,7 +33968,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">Gladden Fields</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -33997,7 +33991,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">Glittering Caves</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -34020,7 +34014,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="card-name">Gobel Mirlond</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -34043,7 +34037,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="card-name">Goblin-gate</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -34066,7 +34060,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">Gondmaeglom</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -34089,7 +34083,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">Haudh-in-Gwanur</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -34112,7 +34106,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="card-name">Henneth Annun</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -34135,7 +34129,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">Hermit's Hill</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -34155,7 +34149,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="card-name">Iron Hill Dwarf-hold</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -34178,7 +34172,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">Isengard</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -34201,7 +34195,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="card-name">Lake-town</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -34224,7 +34218,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="card-name">Lond Galen</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -34247,7 +34241,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">Lossadan Cairn</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -34270,7 +34264,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="card-name">Lossadan Camp</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -34293,7 +34287,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-haven.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-haven-L.svg"></div>
 > > <div class="card-name">Minas Morgul</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -34313,7 +34307,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="card-name">Minas Tirith</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -34333,7 +34327,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="card-name">Moria</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -34353,7 +34347,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="card-name">Mount Doom</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -34376,7 +34370,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="card-name">Mount Gram</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -34399,7 +34393,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="card-name">Mount Gundabad</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -34422,7 +34416,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="card-name">Nurniag Camp</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -34445,7 +34439,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">Ost-in-Edhil</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -34468,7 +34462,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="card-name">Pelargir</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -34488,7 +34482,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="card-name">Raider-hold</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -34511,7 +34505,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">Ruined Signal Tower</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -34534,7 +34528,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="card-name">Sarn Goriwing</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -34557,7 +34551,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="card-name">Shelob's Lair</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -34577,7 +34571,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="card-name">Shrel-Kain</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -34600,7 +34594,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="card-name">Southron Oasis</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -34623,7 +34617,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">Stone-circle</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -34646,7 +34640,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">Tharbad</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -34669,7 +34663,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">The Lonely Mountain</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -34692,7 +34686,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">The Stones</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -34715,7 +34709,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">The White Towers</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -34738,7 +34732,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">The Wind Throne</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -34761,7 +34755,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">The Worthy Hills</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -34784,7 +34778,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="card-name">Thranduil's Halls</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -34804,7 +34798,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="card-name">Urlurtsu Nurn</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -34824,7 +34818,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="card-name">Vale of Erech</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -34847,7 +34841,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="card-name">Variag Camp</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -34870,7 +34864,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="card-name">Woodmen-town</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -34893,7 +34887,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="card-name">Wose Passage-hold</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -34916,7 +34910,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">Zarak Dum</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -37333,7 +37327,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="character-card-name">Cirith Gorgor</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -37356,7 +37350,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Geann a-Lisch</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -37379,7 +37373,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Gobel Mirlond</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -37402,7 +37396,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="character-card-name">Nurniag Camp</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -37425,7 +37419,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Raider-hold</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -37448,7 +37442,7 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">The Worthy Hills</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -37471,7 +37465,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">Dancing Spire</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -37494,7 +37488,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="card-name">Eagles' Eyrie</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -37517,7 +37511,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="card-name">Edhellond</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -37537,7 +37531,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">Framsburg</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -37560,7 +37554,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">Gold Hill</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -37583,7 +37577,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="card-name">Grey Havens</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -37603,7 +37597,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">Himring</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -37623,7 +37617,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">Irerock</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -37646,7 +37640,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">Isle of the Ulond</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -37666,7 +37660,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">Isles of the Dead That Live</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -37686,7 +37680,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="card-name">Lorien</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -37706,7 +37700,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="card-name">Old Forest</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -37729,7 +37723,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">Ovir Hollow</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -37752,7 +37746,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="card-name">Rhosgobel</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -37772,7 +37766,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="card-name">Rivendell</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -37792,7 +37786,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">The Gem-deeps</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -37809,7 +37803,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="card-name">The Iron-deeps</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -37829,7 +37823,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">The Pukel-deeps</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -37846,7 +37840,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="card-name">The Sulfur-deeps</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -37866,7 +37860,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="card-name">The Under-courts</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -37886,7 +37880,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="card-name">The Under-galleries</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -37906,7 +37900,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="card-name">The Under-gates</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -37923,7 +37917,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">The Under-grottos</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -37940,7 +37934,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="card-name">The Under-leas</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -37957,7 +37951,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">The Under-vaults</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -37974,7 +37968,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">Tolfalas</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -37994,7 +37988,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">Weathertop</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -38017,7 +38011,7 @@ permalink: /cards/all/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="card-name">Wellinghall</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -40295,7 +40289,7 @@ permalink: /cards/all/
 
 {: .fw-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .fw-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">Deep Mines</div>
 >
 > {: .fw-site-text .black-text .p-1 .pl-2 }
@@ -40318,7 +40312,7 @@ permalink: /cards/all/
 
 {: .fw-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .fw-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-haven.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-haven-L.svg"></div>
 > > <div class="card-name">Isengard</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -40338,7 +40332,7 @@ permalink: /cards/all/
 
 {: .fw-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .fw-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-haven.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-haven-L.svg"></div>
 > > <div class="card-name">Rhosgobel</div>
 >
 > {: .fw-site-text .black-text .p-1 .pl-2 }
@@ -40358,7 +40352,7 @@ permalink: /cards/all/
 
 {: .fw-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .fw-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-haven.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-haven-L.svg"></div>
 > > <div class="card-name">The White Towers</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -41895,7 +41889,7 @@ permalink: /cards/all/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ _Shield._ +2 to body to a maximum of 9. _Warriror only:_ tap _Great Shield of Rohan_ to remain untapped against one strike (unless the bearer is wounded by the strike). 
+> > _Unique._ _Shield._ +2 to body to a maximum of 9. _Warrior only:_ tap _Great Shield of Rohan_ to remain untapped against one strike (unless the bearer is wounded by the strike). 
 > > 
 > > {: .fs-3 } 
 > > _“His golden shield was uncovered, and lo! it shone like an image of the Sun, and the grass flamed into green about the white feet of his steed."_ ***---&#65279;LotRV*** 
@@ -42141,7 +42135,7 @@ permalink: /cards/all/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Weapon._ _Warrior only._ +2 prowess to a maximum of 8. 
+> > _Weapon._ _Warrior only:_ +2 prowess to a maximum of 8. 
 > > 
 > > {: .fs-3 } 
 > > _“‘They are old swords, very old swords of the High Elves of the West, my kin. They were made in Gondolin for the Goblin-wars.’”_ ***---&#65279;Hob*** 
@@ -42235,7 +42229,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Cancel one attack by Orcs, Trolls or Men. Alternatively, if Gates of Morning is in play, the number of strikes from any attack is reduced to half its original number, rounded up. 
+> > Cancel one attack by Orcs, Trolls or Men. <br>&ensp;Alternatively, if _Gates of Morning_ is in play, the number of strikes from any attack is reduced to half its original number, rounded up. 
 > > 
 > > {: .fs-3 } 
 > > _“‘...How do you like being called swine by the muck-rakers of a dirty little wizard?' Many loud yells...answered him...”_ ***---&#65279;LotRIII*** 
@@ -42286,7 +42280,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Only playable at a Haven \[![](/assets/images/free-haven.svg)] during the organization phase*** on a company that has four or more characters and allies. +1 to prowess and +1 to corruption checks for all characters and allies in the company. Discard this card if a character or ally joins or leaves the company for any reason. 
+> > ***Only playable at a Haven*** \[![](/assets/images/free-haven.svg)] ***during the organization phase*** on a company that has four or more characters and allies. +1 to prowess and +1 to corruption checks for all characters and allies in the company. Discard this card if a character or ally joins or leaves the company for any reason. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +1/&ndash; 】</div>
@@ -42416,7 +42410,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable at an already tapped Dark-hold \[![](/assets/images/dark-hold.svg)] or Shadow-hold \[![](/assets/images/shadow-hold.svg)] during the site phase.*** The company faces a spider attack (2 strikes with 7 prowess). If no characters are untapped after the attack, discard _Rescue Prisoners._ Otherwise, you may tap 1 character in the company and put _Rescue Prisoners_ under his control. That character may not untap until _Rescue Prisoners_ is stored at a Haven \[![](/assets/images/free-haven.svg)], Border-hold \[![](/assets/images/border-hold.svg)], or Free-hold \[![](/assets/images/free-hold.svg)] during his organization phase. You receive the marshalling points for this card only when it is stored. <br>&ensp;Cannot be duplicated at a given site. 
+> > ***Playable at an already tapped Dark-hold*** \[![](/assets/images/dark-hold.svg)] ***or Shadow-hold*** \[![](/assets/images/shadow-hold.svg)] ***during the site phase.*** The company faces a spider attack (2 strikes with 7 prowess). If no characters are untapped after the attack, discard _Rescue Prisoners._ Otherwise, you may tap 1 character in the company and put _Rescue Prisoners_ under his control. That character may not untap until _Rescue Prisoners_ is stored at a Haven \[![](/assets/images/free-haven.svg)], Border-hold \[![](/assets/images/border-hold.svg)], or Free-hold \[![](/assets/images/free-hold.svg)] during his organization phase. <br>&ensp;Cannot be duplicated at a given site. 
 > 
 
 ---
@@ -42433,7 +42427,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ ***Aragorn II only.*** Only playable at Minas Tirith and only if Denethor II is not in play. Aragorn II's direct influence is modified by +3. Keep this card with Aragorn II; discard if he leaves play. 
+> > _Unique._ ***Aragorn II only.*** Only playable in Minas Tirith and only if Denethor II is not in play. Aragorn II's direct influence is modified by +3. Keep this card with Aragorn II; discard if he leaves play. 
 > > 
 > > {: .fs-3 } 
 > > _“...wisdom sat upon his brow, and strength and healing were in his hands, and a light was about him."_ ***---&#65279;LotRVI***  
@@ -43007,7 +43001,7 @@ permalink: /cards/all/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Bandit Lair</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -43030,7 +43024,7 @@ permalink: /cards/all/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Barrow-downs</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -43053,7 +43047,7 @@ permalink: /cards/all/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="character-card-name">Beorn's House</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -43076,7 +43070,7 @@ permalink: /cards/all/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="character-card-name">Blue Mountain Dwarf-hold</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -43099,7 +43093,7 @@ permalink: /cards/all/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Bree</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -43122,7 +43116,7 @@ permalink: /cards/all/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="character-card-name">Carn Dum</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -43145,7 +43139,7 @@ permalink: /cards/all/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Caves of Ulund</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -43168,7 +43162,7 @@ permalink: /cards/all/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="character-card-name">Dead Marshes</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -43191,7 +43185,7 @@ permalink: /cards/all/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="character-card-name">Dol Amroth</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -43214,7 +43208,7 @@ permalink: /cards/all/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Easterling Camp</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -43237,14 +43231,14 @@ permalink: /cards/all/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-haven.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-haven-L.svg"></div>
 > > <div class="character-card-name">Edhellond</div>
 >
 > {: .character-card-classification .pr-2 }
 > Anfalas
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Site Path From Grey Havens: \[![](/assets/images/free-domain.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/wilderness.svg)] Site Path From Lorien: \[![](/assets/images/wilderness.svg)] \[![](/assets/images/border-land.svg)] \[![](/assets/images/free-domain.svg)] \[![](/assets/images/free-domain.svg)] \[![](/assets/images/border-land.svg)] \[![](/assets/images/wilderness.svg)]  
+> > ***Site Path From Grey Havens:*** <br>&emsp;![](/assets/images/free-domain.svg)&ensp;![](/assets/images/coastalsea.svg)&ensp;![](/assets/images/coastalsea.svg)&ensp;![](/assets/images/coastalsea.svg)&ensp;![](/assets/images/coastalsea.svg)&ensp;![](/assets/images/wilderness.svg) <br>***Site Path From Lorien:*** <br>&emsp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/free-domain.svg)&ensp;![](/assets/images/free-domain.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg) 
 > > 
 > > {: .fs-3 } 
 > > _“It is long since the people of Nimrodel left the woodlands of Lorien, and yet one may see that not all sailed from Amroth's haven west over water."_ ***---&#65279;LotRV*** 
@@ -43257,7 +43251,7 @@ permalink: /cards/all/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="character-card-name">Edoras</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -43277,7 +43271,7 @@ permalink: /cards/all/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Gladden Fields</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -43300,7 +43294,7 @@ permalink: /cards/all/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Glittering Caves</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -43323,7 +43317,7 @@ permalink: /cards/all/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="character-card-name">Goblin-gate</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -43346,14 +43340,14 @@ permalink: /cards/all/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-haven.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-haven-L.svg"></div>
 > > <div class="character-card-name">Grey Havens</div>
 >
 > {: .character-card-classification .pr-2 }
 > Lindon
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Site Path From Rivendell: \[![](/assets/images/wilderness.svg)] \[![](/assets/images/wilderness.svg)] \[![](/assets/images/free-domain.svg)] Site Path From Edhellond: \[![](/assets/images/wilderness.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/free-domain.svg)]  
+> > ***Site Path From Rivendell:*** <br>&emsp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/free-domain.svg) <br>***Site Path From Edhellond:*** <br>&emsp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/coastalsea.svg)&ensp;![](/assets/images/coastalsea.svg)&ensp;![](/assets/images/coastalsea.svg)&ensp;![](/assets/images/coastalsea.svg)&ensp;![](/assets/images/free-domain.svg) 
 > > 
 > > {: .fs-3 } 
 > > _“...so they rode down at last to Mithlond, to the Grey Havens in the long firth of Lune... As they came to the gates Cirdan the shipwright came forth to greet them."_ ***---&#65279;LotRVI*** 
@@ -43366,7 +43360,7 @@ permalink: /cards/all/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Henneth Annun</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -43389,7 +43383,7 @@ permalink: /cards/all/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="character-card-name">Iron Hill Dwarf-hold</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -43412,7 +43406,7 @@ permalink: /cards/all/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Isengard</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -43425,7 +43419,7 @@ permalink: /cards/all/
 > > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br> Wolves - 3 strikes with 7 prowess  
 > > 
 > > {: .fs-3 } 
-> > _“...four mighty piers of many-sided stone were welded into one, but near the summit they opened into gaping horns, their pinnacles sharp as the points of spears."_ ***---&#65279;LotRIII*** 
+> > _“...four mighty piers of many-sided stone were welded into one, but near the summit they opened into gaping horns, their pinnacles sharp as the points of spears..."_ ***---&#65279;LotRIII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -43435,7 +43429,7 @@ permalink: /cards/all/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Lond Galen</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -43458,14 +43452,14 @@ permalink: /cards/all/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-haven.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-haven-L.svg"></div>
 > > <div class="character-card-name">Lorien</div>
 >
 > {: .character-card-classification .pr-2 }
 > Wold & Foothills
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Site Path From Rivendell: \[![](/assets/images/wilderness.svg)] \[![](/assets/images/wilderness.svg)] \[![](/assets/images/border-land.svg)] \[![](/assets/images/wilderness.svg)] Site Path From Edhellond: \[![](/assets/images/wilderness.svg)] \[![](/assets/images/border-land.svg)] \[![](/assets/images/free-domain.svg)] \[![](/assets/images/free-domain.svg)] \[![](/assets/images/border-land.svg)] \[![](/assets/images/wilderness.svg)]  
+> > ***Site Path From Rivendell:*** <br>&emsp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg) <br>***Site Path From Edhellond:*** <br>&emsp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/free-domain.svg)&ensp;![](/assets/images/free-domain.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg) 
 > > 
 > > {: .fs-3 } 
 > > _“‘There are no trees like the trees of that land. For in autumn their leaves fall not, but turn to gold. Not till the spring comes...do they fall, and then the boughs are laden with golden flowers...’”_ ***---&#65279;LotRII*** 
@@ -43478,7 +43472,7 @@ permalink: /cards/all/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Lossadan Cairn</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -43498,7 +43492,7 @@ permalink: /cards/all/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="character-card-name">Minas Tirith</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -43521,7 +43515,7 @@ permalink: /cards/all/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="character-card-name">Moria</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -43544,7 +43538,7 @@ permalink: /cards/all/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="character-card-name">Mount Gram</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -43567,7 +43561,7 @@ permalink: /cards/all/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="character-card-name">Mount Gundabad</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -43590,7 +43584,7 @@ permalink: /cards/all/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Old Forest</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -43613,7 +43607,7 @@ permalink: /cards/all/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="character-card-name">Pelargir</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -43636,7 +43630,7 @@ permalink: /cards/all/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="character-card-name">Rhosgobel</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -43659,14 +43653,14 @@ permalink: /cards/all/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-haven.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-haven-L.svg"></div>
 > > <div class="character-card-name">Rivendell</div>
 >
 > {: .character-card-classification .pr-2 }
 > Rhudaur
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Site Path From Lorien: \[![](/assets/images/wilderness.svg)] \[![](/assets/images/border-land.svg)] \[![](/assets/images/wilderness.svg)] \[![](/assets/images/wilderness.svg)] Site Path From Grey Havens: \[![](/assets/images/free-domain.svg)] \[![](/assets/images/wilderness.svg)] \[![](/assets/images/wilderness.svg)]  
+> > ***Site Path From Lorien:*** <br>&emsp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg) <br>***Site Path From Grey Havens:*** <br>&emsp;![](/assets/images/free-domain.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg) 
 > > 
 > > {: .fs-3 } 
 > > _“‘His house was perfect, whether you liked food, or sleep, or work, or story-telling, or singing, or just sitting and thinking best, or a pleasant mixture of them all. Evil things did not come into that valley.’”_ ***---&#65279;Hob*** 
@@ -43679,7 +43673,7 @@ permalink: /cards/all/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="character-card-name">Sarn Goriwing</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -43702,7 +43696,7 @@ permalink: /cards/all/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Shrel-Kain</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -43725,7 +43719,7 @@ permalink: /cards/all/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">The Lonely Mountain</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -43748,7 +43742,7 @@ permalink: /cards/all/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="character-card-name">Thranduil's Halls</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -43771,7 +43765,7 @@ permalink: /cards/all/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Tolfalas</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -43794,7 +43788,7 @@ permalink: /cards/all/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="character-card-name">Wellinghall</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -43867,13 +43861,13 @@ permalink: /cards/all/
 > > <div class="card-name">Neeker-breekers</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/ruinlair.svg)
+> > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/ruinlair.svg)
 >
 > {: .hazard-classification .pr-2 }
-> 
+> Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Animals._ Each character in the company faces one strike. His prowess against such a strike is equal to his mind attribute. Any character that would normally be wounded is only tapped instead-no body checks are made. 
+> > _Animals._ Each character in the company faces one strike. His prowess against such a strike is equal to his mind attribute. Any character that would normally be wounded is only tapped instead---no body checks are made. 
 > > 
 > > {: .fs-3 } 
 > > _“There were thousands of them, and they squeaked all round, neek-breek, breek-neek, unceasingly all the night, until the hobbits were nearly frantic."_ ***---&#65279;LotR*** 
@@ -44507,7 +44501,7 @@ permalink: /cards/all/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Buhr Widu</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -44530,7 +44524,7 @@ permalink: /cards/all/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Dale</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -44553,7 +44547,7 @@ permalink: /cards/all/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Isle of the Ulond</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -44576,7 +44570,7 @@ permalink: /cards/all/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Zarak Dum</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -44940,7 +44934,7 @@ permalink: /cards/all/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Haudh-in-Gwanur</div>
 >
 > {: .character-card-classification .pr-2 }
@@ -47272,7 +47266,7 @@ permalink: /cards/all/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ Each moving company that has at least two Wildernesses \[![](/assets/images/wilderness.svg)] in its site path must return to its site of origin unless it contains a ranger. <br>&ensp;Additionally, if _Doors of Night_ is in play, each non-Darkhaven site in play with at least two Wildernesses in its site path is tapped. <br>&ensp;Cannot be duplicated. 
+> > _Environment._ Each moving company that has at least two Wildernesses \[![](/assets/images/wilderness.svg)] in its site path must return to its site of origin unless it contains a ranger. <br>&ensp;Additionally, if _Doors of Night_ is in play, each non-Darkhaven site in play with at least two Wildernesses \[![](/assets/images/wilderness.svg)] in its site path is tapped. <br>&ensp;Cannot be duplicated. 
 >
 
 ---
@@ -47513,7 +47507,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="card-name">Bag End</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -47533,7 +47527,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">Bandit Lair</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -47556,7 +47550,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="card-name">Barad-dur</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -47579,7 +47573,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="card-name">Beorn's House</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -47602,7 +47596,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-haven.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-haven-L.svg"></div>
 > > <div class="card-name">Carn Dum</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -47619,7 +47613,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">Caves of Ulund</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -47642,7 +47636,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="card-name">Cirith Gorgor</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -47665,7 +47659,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="card-name">Cirith Ungol</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -47688,7 +47682,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="card-name">Dale</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -47711,7 +47705,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="card-name">Dead Marshes</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -47734,7 +47728,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">Dimrill Dale</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -47757,7 +47751,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-haven.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-haven-L.svg"></div>
 > > <div class="card-name">Dol Guldur</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -47774,7 +47768,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="card-name">Easterling Camp</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -47797,7 +47791,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="card-name">Edoras</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -47820,7 +47814,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="card-name">Goblin-gate</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -47843,7 +47837,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">Gondmaeglom</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -47866,7 +47860,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">Isengard</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -47889,7 +47883,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-haven.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-haven-L.svg"></div>
 > > <div class="card-name">Minas Morgul</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -47909,7 +47903,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="card-name">Minas Tirith</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -47929,7 +47923,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="card-name">Moria</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -47949,7 +47943,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="card-name">Mount Doom</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -47972,7 +47966,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="card-name">Mount Gram</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -47995,7 +47989,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="card-name">Mount Gundabad</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -48018,7 +48012,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="card-name">Nurniag Camp</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -48041,7 +48035,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="card-name">Raider-hold</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -48064,7 +48058,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="card-name">Sarn Goriwing</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -48087,7 +48081,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="card-name">Shelob's Lair</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -48107,7 +48101,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="card-name">Southron Oasis</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -48130,7 +48124,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">The Lonely Mountain</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -48153,7 +48147,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">The Wind Throne</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -48176,7 +48170,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">The Worthy Hills</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -48199,7 +48193,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="card-name">Thranduil's Halls</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -48868,7 +48862,7 @@ permalink: /cards/all/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Gobel Mirlond</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -48891,7 +48885,7 @@ permalink: /cards/all/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Raider-hold</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -48914,7 +48908,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">Dancing Spire</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -48937,7 +48931,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="card-name">Eagles' Eyrie</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -48960,7 +48954,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">Irerock</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -50611,7 +50605,7 @@ permalink: /cards/all/
 
 {: .balrog-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .balrog-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">Ancient Deep-hold</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -50628,7 +50622,7 @@ permalink: /cards/all/
 
 {: .balrog-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .balrog-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="card-name">Barad-dur</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -50645,7 +50639,7 @@ permalink: /cards/all/
 
 {: .balrog-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .balrog-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="card-name">Carn Dum</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -50665,7 +50659,7 @@ permalink: /cards/all/
 
 {: .balrog-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .balrog-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="card-name">Cirith Gorgor</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -50685,7 +50679,7 @@ permalink: /cards/all/
 
 {: .balrog-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .balrog-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="card-name">Cirith Ungol</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -50705,7 +50699,7 @@ permalink: /cards/all/
 
 {: .balrog-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .balrog-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="card-name">Dol Guldur</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -50722,7 +50716,7 @@ permalink: /cards/all/
 
 {: .balrog-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .balrog-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="card-name">Minas Morgul</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -50742,7 +50736,7 @@ permalink: /cards/all/
 
 {: .balrog-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .balrog-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-haven.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-haven-L.svg"></div>
 > > <div class="card-name">Moria</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -50762,7 +50756,7 @@ permalink: /cards/all/
 
 {: .balrog-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .balrog-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">Remains of Thangorodrim</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -50779,7 +50773,7 @@ permalink: /cards/all/
 
 {: .balrog-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .balrog-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">The Drowning-deeps</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -50796,7 +50790,7 @@ permalink: /cards/all/
 
 {: .balrog-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .balrog-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">The Gem-deeps</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -50813,7 +50807,7 @@ permalink: /cards/all/
 
 {: .balrog-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .balrog-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="card-name">The Iron-deeps</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -50830,7 +50824,7 @@ permalink: /cards/all/
 
 {: .balrog-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .balrog-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">The Pukel-deeps</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -50847,7 +50841,7 @@ permalink: /cards/all/
 
 {: .balrog-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .balrog-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">The Rusted-deeps</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -50864,7 +50858,7 @@ permalink: /cards/all/
 
 {: .balrog-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .balrog-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="card-name">The Sulfur-deeps</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -50881,7 +50875,7 @@ permalink: /cards/all/
 
 {: .balrog-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .balrog-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="card-name">The Under-courts</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -50898,7 +50892,7 @@ permalink: /cards/all/
 
 {: .balrog-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .balrog-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="card-name">The Under-galleries</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -50915,7 +50909,7 @@ permalink: /cards/all/
 
 {: .balrog-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .balrog-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-haven.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-haven-L.svg"></div>
 > > <div class="card-name">The Under-gates</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -50932,7 +50926,7 @@ permalink: /cards/all/
 
 {: .balrog-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .balrog-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">The Under-grottos</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -50949,7 +50943,7 @@ permalink: /cards/all/
 
 {: .balrog-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .balrog-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="card-name">The Under-leas</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -50966,7 +50960,7 @@ permalink: /cards/all/
 
 {: .balrog-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .balrog-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">The Under-vaults</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -50983,7 +50977,7 @@ permalink: /cards/all/
 
 {: .balrog-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .balrog-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">The Wind-deeps</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -51050,13 +51044,13 @@ permalink: /cards/all/
 > > <div class="card-name">Neeker-breekers</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/ruinlair.svg)
+> > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/ruinlair.svg)
 >
 > {: .hazard-classification .pr-2 }
-> 
+> Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Animals._ Each character in the company faces one strike. His prowess against such a strike is equal to his mind attribute. Any character that would normally be wounded is only tapped instead-no body checks are made. 
+> > _Animals._ Each character in the company faces one strike. His prowess against such a strike is equal to his mind attribute. Any character that would normally be wounded is only tapped instead---no body checks are made. 
 > > 
 > > {: .fs-3 } 
 > > _“There were thousands of them, and they squeaked all round, neek-breek, breek-neek, unceasingly all the night, until the hobbits were nearly frantic."_ ***---&#65279;LotR*** 
@@ -51969,7 +51963,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="card-name">Beorn's House</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -51992,7 +51986,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="card-name">Dead Marshes</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -52015,7 +52009,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="card-name">Goblin-gate</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -52038,7 +52032,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">Gondmaeglom</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -52061,7 +52055,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="card-name">Iron Hill Dwarf-hold</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -52084,7 +52078,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="card-name">Mount Gram</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -52107,7 +52101,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="card-name">Mount Gundabad</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -52130,7 +52124,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="card-name">Sarn Goriwing</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -52153,7 +52147,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">The Wind Throne</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -52176,7 +52170,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="card-name">Thranduil's Halls</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -52319,7 +52313,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="card-name">Eagles' Eyrie</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -52339,7 +52333,7 @@ permalink: /cards/all/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="card-name">Wellinghall</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }

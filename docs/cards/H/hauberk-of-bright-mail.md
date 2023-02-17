@@ -28,7 +28,7 @@ permalink: /cards/hauberk-of-bright-mail/
 > > _“Each one of his folk was clad in a hauberk of steel that hung to his knees."_ ***---&#65279;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【 &ndash;/(+2) 】</div>
+> > <div class="card-shield">【 &ndash;/+2 】</div>
 > > <div class="card-corruption">〔 1 〕</div>
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -48,7 +48,7 @@ permalink: /cards/hauberk-of-bright-mail/
 > > _“Each one of his folk was clad in a hauberk of steel that hung to his knees."_ ***---&#65279;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【 &ndash;/(+2) 】</div>
+> > <div class="card-shield">【 &ndash;/+2 】</div>
 > > <div class="card-corruption">〔 1 〕</div>
 
 ### _Middle-earth: The Wizards Starter Set_

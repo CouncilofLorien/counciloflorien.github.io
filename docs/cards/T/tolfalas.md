@@ -15,7 +15,7 @@ permalink: /cards/tolfalas/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Tolfalas</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -25,10 +25,7 @@ permalink: /cards/tolfalas/
 > Mouths of the Anduin
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Undead --- 3 strikes with 7 prowess; each character wounded must make a corruption check  
-> > 
-> > {: .fs-3 } 
-> > _“Tolfalas, the great Coastal Island, ...guards the heartland of Gondor...”_ ***---&#65279;Kuduk&nbsp;Lore*** 
+> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Undead --- 3 strikes with 7 prowess; each character wounded must make a corruption check
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -38,7 +35,7 @@ permalink: /cards/tolfalas/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Tolfalas</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -61,7 +58,7 @@ permalink: /cards/tolfalas/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">Tolfalas</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -81,7 +78,7 @@ permalink: /cards/tolfalas/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Tolfalas</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }

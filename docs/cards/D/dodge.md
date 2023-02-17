@@ -39,10 +39,10 @@ permalink: /cards/dodge/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Target character does not tap against one strike (unless he is wounded by the strike). If wounded by the strike, his body is modified by -1 for the resulting body check. 
+> > Cancel one attack by Orcs, Trolls or Men. <br>&ensp'Alternatively, if _Gates of Morning_ is in play, the number of strikes from any attack is reduced to half its original number, rounded up. 
 > > 
 > > {: .fs-3 } 
-> > _“A quick duck had saved him; and he had felled his orc: a sturdy thrust with his Barrow-blade."_ ***---&#65279;LotRII*** 
+> > _“‘...How do you like being called swine by the muck-rakers of a dirty little wizard?' Many loud yells...answered him...”_ ***---&#65279;LotRIII*** 
 > 
 
 ### _Middle-earth: The Wizards Starter Set_

@@ -22,7 +22,7 @@ permalink: /cards/use-palantir/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Sage only._ Tap sage use a Palantir that he controls. 
+> > _**Sage only.**_ Tap sage use a Palantir that he controls. 
 > > 
 > > {: .fs-3 } 
 > > _“But he himself went up alone into the secret room under the summit of the Tower; and many who looked up thither at that time saw a pale light that gleamed and flickered from the narrow windows for a while, and then flashed and went out."_ ***---&#65279;LotRV*** 
@@ -39,7 +39,7 @@ permalink: /cards/use-palantir/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Sage only._ Tap sage to enable him (for the rest of the turn) to use one Palantir he bears. 
+> > _**Sage only.**_ Tap sage to enable him (for the rest of the turn) to use one Palantir he bears. 
 > > 
 > > {: .fs-3 } 
 > > _“But he himself went up alone into the secret room under the summit of the Tower; and many who looked up thither at that time saw a pale light that gleamed and flickered from the narrow windows for a while, and then flashed and went out."_ ***---&#65279;LotRV*** 

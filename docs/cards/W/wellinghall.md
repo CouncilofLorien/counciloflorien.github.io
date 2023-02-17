@@ -15,7 +15,7 @@ permalink: /cards/wellinghall/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="character-card-name">Wellinghall</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -38,7 +38,7 @@ permalink: /cards/wellinghall/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="character-card-name">Wellinghall</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -61,7 +61,7 @@ permalink: /cards/wellinghall/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="card-name">Wellinghall</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -84,7 +84,7 @@ permalink: /cards/wellinghall/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="character-card-name">Wellinghall</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -107,7 +107,7 @@ permalink: /cards/wellinghall/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="card-name">Wellinghall</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }

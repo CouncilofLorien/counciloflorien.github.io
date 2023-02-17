@@ -22,7 +22,7 @@ permalink: /cards/sword-of-gondolin/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Weapon._ Warrior only. +2 prowess to a maximum of 8. 
+> > _Weapon._ Warrior only: +2 prowess to a maximum of 8. 
 > > 
 > > {: .fs-3 } 
 > > _“‘They are old swords, very old swords of the High Elves of the West, my kin. They were made in Gondolin for the Goblin-wars.’”_ ***---&#65279;Hob*** 
@@ -42,7 +42,7 @@ permalink: /cards/sword-of-gondolin/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Weapon._ Warrior only. +2 prowess to a maximum of 8. 
+> > _Weapon._ Warrior only: +2 prowess to a maximum of 8. 
 > > 
 > > {: .fs-3 } 
 > > _“‘They are old swords, very old swords of the High Elves of the West, my kin. They were made in Gondolin for the Goblin-wars.’”_ ***---&#65279;Hob*** 
@@ -82,7 +82,7 @@ permalink: /cards/sword-of-gondolin/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Weapon._ _Warrior only._ +2 prowess to a maximum of 8. 
+> > _Weapon._ _Warrior only:_ +2 prowess to a maximum of 8. 
 > > 
 > > {: .fs-3 } 
 > > _“‘They are old swords, very old swords of the High Elves of the West, my kin. They were made in Gondolin for the Goblin-wars.’”_ ***---&#65279;Hob*** 

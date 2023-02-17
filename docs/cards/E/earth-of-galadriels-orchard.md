@@ -22,7 +22,7 @@ permalink: /cards/earth-of-galadriels-orchard/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ ***Only playable at Lorien.*** 
+> > _Unique._ ***Only playable at Lorien.*** 2 marshalling points if stored at Bag End. 
 > > 
 > > {: .fs-3 } 
 > > _“‘Though you should find all barren and laid waste, there will be few gardens in Middle-earth that will bloom like your garden, if you sprinkle this earth there’”_ ***---&#65279;LotRII*** 
@@ -42,7 +42,7 @@ permalink: /cards/earth-of-galadriels-orchard/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ ***Only playable at Lorien.*** 
+> > _Unique._ ***Only playable at Lorien.*** Only playable at Lorien.*** 2 marshalling points if stored at Bag End. 
 > > 
 > > {: .fs-3 } 
 > > _“‘Though you should find all barren and laid waste, there will be few gardens in Middle-earth that will bloom like your garden, if you sprinkle this earth there’”_ ***---&#65279;LotRII*** 

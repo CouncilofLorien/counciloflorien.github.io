@@ -15,7 +15,7 @@ permalink: /cards/henneth-annun/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Henneth Annun</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -38,7 +38,7 @@ permalink: /cards/henneth-annun/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Henneth Annun</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -61,7 +61,7 @@ permalink: /cards/henneth-annun/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="card-name">Henneth Annun</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -84,7 +84,7 @@ permalink: /cards/henneth-annun/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/border-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/border-hold-L.svg"></div>
 > > <div class="character-card-name">Henneth Annun</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }

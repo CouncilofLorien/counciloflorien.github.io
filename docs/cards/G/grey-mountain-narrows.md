@@ -15,10 +15,8 @@ permalink: /cards/grey-mountain-narrows/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/shadow-land.svg"></div>
 > > <div class="character-card-name">Grey Mountain Narrows</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg)
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anduin Vales, Northern Rhovanion, Withered Heath, Woodland Realm 
@@ -28,10 +26,8 @@ permalink: /cards/grey-mountain-narrows/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/shadow-land.svg"></div>
 > > <div class="character-card-name">Grey Mountain Narrows</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg)
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anduin Vales, Northern Rhovanion, Withered Heath, Woodland Realm 

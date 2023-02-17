@@ -22,7 +22,7 @@ permalink: /cards/halfling-strength/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Hobbit only.**_ The Hobbit may untap or he may move from wounded status to well and untapped during his organization phase or he may receive a +4 modification to one corruption check. 
+> > _**Hobbit only.**_ The Hobbit may untap **or** he may move from wounded status to well and untapped during his organization phase **or** he may receive a +4 modification to one corruption check. 
 > > 
 > > {: .fs-3 } 
 > > _“‘I have known strong warriors...who would quickly have been overcome by that splinter, which you bore for seventeen days.’”_ ***---&#65279;LotRII*** 

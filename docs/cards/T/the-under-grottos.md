@@ -15,7 +15,7 @@ permalink: /cards/the-under-grottos/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">The Under-grottos</div>
 >
 > {: .character-card-classification .pr-2 }
@@ -32,7 +32,7 @@ permalink: /cards/the-under-grottos/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">The Under-grottos</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -49,7 +49,7 @@ permalink: /cards/the-under-grottos/
 
 {: .balrog-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .balrog-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">The Under-grottos</div>
 >
 > {: .hazard-classification .pr-2 }

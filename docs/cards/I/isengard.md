@@ -15,7 +15,7 @@ permalink: /cards/isengard/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Isengard</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -28,7 +28,7 @@ permalink: /cards/isengard/
 > > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br> Wolves --- 3 strikes with 7 prowess  
 > > 
 > > {: .fs-3 } 
-> > _“...four mighty piers of many-sided stone were welded into one, but near the summit they opened into gaping horns, their pinnacles sharp as the points of spears."_ ***---&#65279;LotRIII*** 
+> > _“...four mighty piers of many-sided stone were welded into one, but near the summit they opened into gaping horns, their pinnacles sharp as the points of spears..."_ ***---&#65279;LotRIII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -38,7 +38,7 @@ permalink: /cards/isengard/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Isengard</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -51,7 +51,7 @@ permalink: /cards/isengard/
 > > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br> Wolves --- 3 strikes with 7 prowess  
 > > 
 > > {: .fs-3 } 
-> > _“...four mighty piers of many-sided stone were welded into one, but near the summit they opened into gaping horns, their pinnacles sharp as the points of spears."_ ***---&#65279;LotRIII*** 
+> > _“...four mighty piers of many-sided stone were welded into one, but near the summit they opened into gaping horns, their pinnacles sharp as the points of spears..."_ ***---&#65279;LotRIII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -61,7 +61,7 @@ permalink: /cards/isengard/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">Isengard</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -84,7 +84,7 @@ permalink: /cards/isengard/
 
 {: .fw-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .fw-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-haven.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-haven-L.svg"></div>
 > > <div class="card-name">Isengard</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -104,7 +104,7 @@ permalink: /cards/isengard/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Isengard</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -117,7 +117,7 @@ permalink: /cards/isengard/
 > > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br> Wolves - 3 strikes with 7 prowess  
 > > 
 > > {: .fs-3 } 
-> > _“...four mighty piers of many-sided stone were welded into one, but near the summit they opened into gaping horns, their pinnacles sharp as the points of spears."_ ***---&#65279;LotRIII*** 
+> > _“...four mighty piers of many-sided stone were welded into one, but near the summit they opened into gaping horns, their pinnacles sharp as the points of spears..."_ ***---&#65279;LotRIII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -127,7 +127,7 @@ permalink: /cards/isengard/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">Isengard</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }

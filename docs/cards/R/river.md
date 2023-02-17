@@ -22,7 +22,7 @@ permalink: /cards/river/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > ***Playable on a site.*** A company without a Ranger that has moved to this site this turn must do nothing during its site phase. Discard at the end of the turn. 
+> > ***Playable on a site.*** A company without a ranger that has moved to this site this turn must do nothing during its site phase. Discard at the end of the turn. 
 > > 
 > > {: .fs-3 } 
 > > _“I don't know what river it was, a rushing red one, swollen with the ruins of the last few days, that came down from the hills and mountains...”_ ***---&#65279;Hob*** 

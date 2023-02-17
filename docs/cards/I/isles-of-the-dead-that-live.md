@@ -15,7 +15,7 @@ permalink: /cards/isles-of-the-dead-that-live/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Isles of the Dead that Live</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -38,7 +38,7 @@ permalink: /cards/isles-of-the-dead-that-live/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">Isles of the Dead that Live</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -61,7 +61,7 @@ permalink: /cards/isles-of-the-dead-that-live/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">Isles of the Dead That Live</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }

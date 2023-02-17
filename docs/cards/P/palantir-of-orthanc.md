@@ -22,7 +22,7 @@ permalink: /cards/palantir-of-orthanc/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ _Palantir._ Playable only at Isengard. With its bearer able to use a Palantir and with at least 5 cards in your play deck, tap _Palantir of Orthanc_ to choose one card from you discard pile to place in your play deck (reshuffle the play deck). Bearer makes a corruption check. 
+> > _Unique._ _Palantir._ ***Playable only at Isengard.*** With its bearer able to use a Palantir and with at least 5 cards in your play deck, tap _Palantir of Orthanc_ to choose one card from you discard pile to place in your play deck (reshuffle the play deck). Bearer makes a corruption check. 
 > > 
 > > {: .fs-3 } 
 > > _“‘The Stones of Seeing do not lie...’”_ ***---&#65279;LotRV*** 
@@ -42,7 +42,7 @@ permalink: /cards/palantir-of-orthanc/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ _Palantir._ Playable only at Isengard. With its bearer able to use a Palantir and with at least 5 cards in your play deck, tap _Palantir of Orthanc_ to choose one card from you discard pile to place in your play deck (reshuffle the play deck). Bearer makes a corruption check. 
+> > _Unique._ _Palantir._ ***Playable only at Isengard.*** With its bearer able to use a Palantir and with at least 5 cards in your play deck, tap _Palantir of Orthanc_ to choose one card from you discard pile to place in your play deck (reshuffle the play deck). Bearer makes a corruption check. 
 > > 
 > > {: .fs-3 } 
 > > _“‘The Stones of Seeing do not lie...’”_ ***---&#65279;LotRV*** 

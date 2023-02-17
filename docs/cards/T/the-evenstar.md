@@ -22,7 +22,7 @@ permalink: /cards/the-evenstar/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Environment._ The prowess of one Elf is modified by +1 until the end of the turn. <br>&ensp;Additionally, if _Gates of Morning_ is in play, until the end of the turn, the prowess of each Elf is modified by +1 **and** treat one Wilderness \[![](/assets/images/wilderness.svg)] to treat as a Border-land \[![](/assets/images/border-land.svg)], or one Border-land \[![](/assets/images/border-land.svg)] as a Free-domain \[![](/assets/images/free-domain.svg)]. <br>&ensp;Cannot be duplicated. 
+> > _Environment._ The prowess of one Elf is modified by +1 until the end of the turn. <br>&ensp;Additionally, if _Gates of Morning_ is in play, until the end of the turn, the prowess of each Elf is modified by +1 **and** treat one Wilderness \[![](/assets/images/wilderness.svg)] as a Border-land \[![](/assets/images/border-land.svg)], or one Border-land \[![](/assets/images/border-land.svg)] as a Free-domain \[![](/assets/images/free-domain.svg)]. <br>&ensp;Cannot be duplicated. 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_

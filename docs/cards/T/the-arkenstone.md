@@ -19,7 +19,7 @@ permalink: /cards/the-arkenstone/
 > > <div class="card-name">The Arkenstone</div>
 >
 > {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > [+3]![](/assets/images/di.svg)
+> > [+3 ![](/assets/images/di.svg)]
 >
 > {: .card-classification .pr-2 }
 > Greater Item
@@ -39,7 +39,7 @@ permalink: /cards/the-arkenstone/
 > > <div class="card-name">The Arkenstone</div>
 >
 > {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > [+3]![](/assets/images/di.svg)
+> > [+3 ![](/assets/images/di.svg)]
 >
 > {: .card-classification .pr-2 }
 > Greater Item

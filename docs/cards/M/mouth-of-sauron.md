@@ -25,7 +25,7 @@ permalink: /cards/mouth-of-sauron/
 > Creature or Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ May be played as a hazard creature (with one strike) or as a short-event. <br>&ensp;If played as a short-event, bring back any hazard card from your discard pile back into your hand. 
+> > _**Unique.**_ May be played as a hazard creature (with one strike) or as a short-event. <br>&ensp;If played as a short-event, bring any hazard card from your discard pile back into your hand. 
 > > 
 > > {: .fs-3 } 
 > > _“The rider was robed all in black, and black was his lofty helm... The Lieutenant of the Tower of Barad-dur...”_ ***---&#65279;LotRV*** 
@@ -48,7 +48,7 @@ permalink: /cards/mouth-of-sauron/
 > Creature or Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Man._ May be played as a hazard creature (with one strike) or as a short-event. <br>&ensp;If played as a short-event, bring back any hazard card from your discard pile back into your hand. 
+> > _**Unique.**_ _Man._ May be played as a hazard creature (with one strike) or as a short-event. <br>&ensp;If played as a short-event, bring any hazard card from your discard pile back into your hand. 
 > > 
 > > {: .fs-3 } 
 > > _“The rider was robed all in black, and black was his lofty helm... The Lieutenant of the Tower of Barad-dur...”_ ***---&#65279;LotRV*** 

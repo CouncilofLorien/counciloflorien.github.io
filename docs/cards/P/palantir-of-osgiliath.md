@@ -22,7 +22,7 @@ permalink: /cards/palantir-of-osgiliath/
 > Greater Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ _Palantir._ If the bearer's company is ever below 4 characters and the company moves, discard. 5 marshalling points if stored in a Haven \[![](/assets/images/free-haven.svg)]. With its bearer able to use a Palantir, tap _Palantir of Osgiliath_ to force the discard of any hazard permanent-event **or** to duplicate the effect of any Palantir in play. Bearer makes a corruption check.
+> > _Unique._ _Palantir._ If the bearer's company is ever below 4 characters and the company moves, discard. 5 marshalling pts. if stored in a Haven \[![](/assets/images/free-haven.svg)]. With its bearer able to use a Palantir, tap _Palantir of Osgiliath_ to force the discard of any hazard permanent-event **or** to duplicate the effect of any Palantir in play. Bearer makes a corruption check.
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -39,7 +39,7 @@ permalink: /cards/palantir-of-osgiliath/
 > Greater Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ _Palantir._ If the bearer's company is ever below 4 characters and the company moves, discard. 5 marshalling points if stored in a Haven \[![](/assets/images/free-haven.svg)]. With its bearer able to use a Palantir, tap _Palantir of Osgiliath_ to force the discard of any hazard permanent-event **or** to duplicate the effect of any Palantir in play. Bearer makes a corruption check. 
+> > _Unique._ _Palantir._ If the bearer's company is ever below 4 characters and the company moves, discard. 5 marshalling pts. if stored in a Haven \[![](/assets/images/free-haven.svg)]. With its bearer able to use a Palantir, tap _Palantir of Osgiliath_ to force the discard of any hazard permanent-event **or** to duplicate the effect of any Palantir in play. Bearer makes a corruption check. 
 > > 
 > > {: .fs-3 } 
 > > _“The chief and master of these was under the Dome of Stars at Osgiliath before its ruin."_ ***---&#65279;LotRIII*** 

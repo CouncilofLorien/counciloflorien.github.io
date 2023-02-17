@@ -25,7 +25,7 @@ permalink: /cards/fair-travels-in-wilderness/
 > > ***Playable at the end of the organization phase*** if target company plays a new site card. The hazard limit for the target company decreases by one for every Wilderness \[![](/assets/images/wilderness.svg)] in its site path (to a minimum of two). Cannot be duplicated on the same company. 
 > > 
 > > {: .fs-3 } 
-> > _“...there was a break in the wall of trees...”_ ***---&#65279;LotRVI*** 
+> > _“...there was a break in the wall of trees...”_ ***---&#65279;LotRI*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -42,5 +42,5 @@ permalink: /cards/fair-travels-in-wilderness/
 > > ***Playable at the end of the organization phase*** if target company plays a new site card. The hazard limit for the target company decreases by one for every Wilderness \[![](/assets/images/wilderness.svg)] in its site path (to a minimum of two). Cannot be duplicated on the same company. 
 > > 
 > > {: .fs-3 } 
-> > _“...there was a break in the wall of trees...”_ ***---&#65279;LotRVI*** 
+> > _“...there was a break in the wall of trees...”_ ***---&#65279;LotRI*** 
 > 

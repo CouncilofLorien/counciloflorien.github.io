@@ -15,7 +15,7 @@ permalink: /cards/the-white-towers/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">The White Towers</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -38,7 +38,7 @@ permalink: /cards/the-white-towers/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="character-card-name">The White Towers</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -61,7 +61,7 @@ permalink: /cards/the-white-towers/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">The White Towers</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -84,7 +84,7 @@ permalink: /cards/the-white-towers/
 
 {: .fw-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .fw-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-haven.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-haven-L.svg"></div>
 > > <div class="card-name">The White Towers</div>
 >
 > {: .hazard-classification .pr-2 }

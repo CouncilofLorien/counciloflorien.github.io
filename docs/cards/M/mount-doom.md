@@ -15,7 +15,7 @@ permalink: /cards/mount-doom/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="character-card-name">Mount Doom</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -25,7 +25,7 @@ permalink: /cards/mount-doom/
 > Gorgoroth
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Special:**_ Any company moving to Mount Doom has its hazard limit modified by +2 **and** hazard creatures may always be keyed to the site regardless of any other cards played. 
+> > _**Nearest Haven:**_ Lorien <br>_**Special:**_ Any company moving to Mount Doom has its hazard limit modified by +2 **and** hazard creatures may _always_ be played keyed to the site regardless of any other cards played. 
 > > 
 > > {: .fs-3 } 
 > > _“...a huge mass of ash and slag and burned stone...a sheer-sided cone...”_ ***---&#65279;LotRVI*** 
@@ -38,7 +38,7 @@ permalink: /cards/mount-doom/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="character-card-name">Mount Doom</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -48,7 +48,7 @@ permalink: /cards/mount-doom/
 > Gorgoroth
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Special:**_ Any company moving to Mount Doom has its hazard limit modified by +2 **and** hazard creatures may always be keyed to the site regardless of any other cards played. 
+> > _**Nearest Haven:**_ Lorien <br>_**Special:**_ Any company moving to Mount Doom has its hazard limit modified by +2 **and** hazard creatures may _always_ be played keyed to the site regardless of any other cards played. 
 > > 
 > > {: .fs-3 } 
 > > _“...a huge mass of ash and slag and burned stone...a sheer-sided cone...”_ ***---&#65279;LotRVI*** 
@@ -61,7 +61,7 @@ permalink: /cards/mount-doom/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="card-name">Mount Doom</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -84,7 +84,7 @@ permalink: /cards/mount-doom/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="card-name">Mount Doom</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }

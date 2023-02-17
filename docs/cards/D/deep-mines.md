@@ -15,7 +15,7 @@ permalink: /cards/deep-mines/
 
 {: .fw-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .fw-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/ruinlair.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/ruinlair-L.svg"></div>
 > > <div class="card-name">Deep Mines</div>
 >
 > {: .fw-site-text .black-text .p-1 .pl-2 }

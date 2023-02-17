@@ -15,14 +15,14 @@ permalink: /cards/edhellond/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-haven.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-haven-L.svg"></div>
 > > <div class="character-card-name">Edhellond</div>
 >
 > {: .character-card-classification .pr-2 }
 > Anfalas
 >
 > {: .hero-site-text .black-text .p-2 }
-> > ***Site Path From Grey Havens:*** <br>&emsp;![](/assets/images/free-domain.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/wilderness.svg)] <br>***Site Path From Lorien:*** <br>&emsp;![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/free-domain.svg) ![](/assets/images/free-domain.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg) 
+> > ***Site Path From Grey Havens:*** <br>&emsp;![](/assets/images/free-domain.svg)&ensp;![](/assets/images/coastalsea.svg)&ensp;![](/assets/images/coastalsea.svg)&ensp;![](/assets/images/coastalsea.svg)&ensp;![](/assets/images/coastalsea.svg)&ensp;![](/assets/images/wilderness.svg) <br>***Site Path From Lorien:*** <br>&emsp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/free-domain.svg)&ensp;![](/assets/images/free-domain.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg) 
 > > 
 > > {: .fs-3 } 
 > > _“It is long since the people of Nimrodel left the woodlands of Lorien, and yet one may see that not all sailed from Amroth's haven west over water."_ ***---&#65279;LotRV*** 
@@ -35,14 +35,14 @@ permalink: /cards/edhellond/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-haven.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-haven-L.svg"></div>
 > > <div class="character-card-name">Edhellond</div>
 >
 > {: .character-card-classification .pr-2 }
 > Anfalas
 >
 > {: .hero-site-text .black-text .p-2 }
-> > ***Site Path From Grey Havens:*** <br>&emsp;![](/assets/images/free-domain.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/wilderness.svg)] <br>***Site Path From Lorien:*** <br>&emsp;![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/free-domain.svg) ![](/assets/images/free-domain.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg) 
+> > ***Site Path From Grey Havens:*** <br>&emsp;![](/assets/images/free-domain.svg)&ensp;![](/assets/images/coastalsea.svg)&ensp;![](/assets/images/coastalsea.svg)&ensp;![](/assets/images/coastalsea.svg)&ensp;![](/assets/images/coastalsea.svg)&ensp;![](/assets/images/wilderness.svg) <br>***Site Path From Lorien:*** <br>&emsp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/free-domain.svg)&ensp;![](/assets/images/free-domain.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg) 
 > > 
 > > {: .fs-3 } 
 > > _“It is long since the people of Nimrodel left the woodlands of Lorien, and yet one may see that not all sailed from Amroth's haven west over water."_ ***---&#65279;LotRV*** 
@@ -55,7 +55,7 @@ permalink: /cards/edhellond/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-hold-L.svg"></div>
 > > <div class="card-name">Edhellond</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -75,14 +75,14 @@ permalink: /cards/edhellond/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/free-haven.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/free-haven-L.svg"></div>
 > > <div class="character-card-name">Edhellond</div>
 >
 > {: .character-card-classification .pr-2 }
 > Anfalas
 >
 > {: .hero-site-text .black-text .p-2 }
-> > Site Path From Grey Havens: \[![](/assets/images/free-domain.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/coastalsea.svg)] \[![](/assets/images/wilderness.svg)] Site Path From Lorien: \[![](/assets/images/wilderness.svg)] \[![](/assets/images/border-land.svg)] \[![](/assets/images/free-domain.svg)] \[![](/assets/images/free-domain.svg)] \[![](/assets/images/border-land.svg)] \[![](/assets/images/wilderness.svg)]  
+> > ***Site Path From Grey Havens:*** <br>&emsp;![](/assets/images/free-domain.svg)&ensp;![](/assets/images/coastalsea.svg)&ensp;![](/assets/images/coastalsea.svg)&ensp;![](/assets/images/coastalsea.svg)&ensp;![](/assets/images/coastalsea.svg)&ensp;![](/assets/images/wilderness.svg) <br>***Site Path From Lorien:*** <br>&emsp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/free-domain.svg)&ensp;![](/assets/images/free-domain.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg) 
 > > 
 > > {: .fs-3 } 
 > > _“It is long since the people of Nimrodel left the woodlands of Lorien, and yet one may see that not all sailed from Amroth's haven west over water."_ ***---&#65279;LotRV*** 

@@ -15,7 +15,7 @@ permalink: /cards/carn-dum/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="character-card-name">Carn Dum</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -38,7 +38,7 @@ permalink: /cards/carn-dum/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="character-card-name">Carn Dum</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -61,7 +61,7 @@ permalink: /cards/carn-dum/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-haven.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-haven-L.svg"></div>
 > > <div class="card-name">Carn Dum</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -78,7 +78,7 @@ permalink: /cards/carn-dum/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="character-card-name">Carn Dum</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -101,7 +101,7 @@ permalink: /cards/carn-dum/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-haven.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-haven-L.svg"></div>
 > > <div class="card-name">Carn Dum</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -118,7 +118,7 @@ permalink: /cards/carn-dum/
 
 {: .balrog-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .balrog-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="card-name">Carn Dum</div>
 >
 > {: .hazard-classification .pr-2 }

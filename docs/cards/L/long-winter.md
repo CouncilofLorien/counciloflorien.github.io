@@ -22,7 +22,7 @@ permalink: /cards/long-winter/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ Each moving company that has at least two Wildernesses \[![](/assets/images/wilderness.svg)] in its site path must return to its site of origin unless it contains a ranger. <br>&ensp;Additionally, if _Doors of Night_ is in play, each non-Haven site card with at least two Wildernesses in its site path is tapped. <br>&ensp;Cannot be duplicated. 
+> > _Environment._ Each moving company that has at least two Wildernesses \[![](/assets/images/wilderness.svg)] in its site path must return to its site of origin unless it contains a ranger. <br>&ensp;Additionally, if _Doors of Night_ is in play, each non-Haven site card with at least two Wildernesses \[![](/assets/images/wilderness.svg)] in its site path is tapped. <br>&ensp;Cannot be duplicated. 
 >
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,7 +36,7 @@ permalink: /cards/long-winter/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ Each moving company that has at least two Wildernesses \[![](/assets/images/wilderness.svg)] in its site path must return to its site of origin unless it contains a ranger. <br>&ensp;Additionally, if _Doors of Night_ is in play, each non-Haven site card with at least two Wildernesses in its site path is tapped. <br>&ensp;Cannot be duplicated. 
+> > _Environment._ Each moving company that has at least two Wildernesses \[![](/assets/images/wilderness.svg)] in its site path must return to its site of origin unless it contains a ranger. <br>&ensp;Additionally, if _Doors of Night_ is in play, each non-Haven site card with at least two Wildernesses \[![](/assets/images/wilderness.svg)] in its site path is tapped. <br>&ensp;Cannot be duplicated. 
 >
 
 ### _Middle-earth: The Lidless Eye_
@@ -50,7 +50,7 @@ permalink: /cards/long-winter/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ Each moving company that has at least two Wildernesses \[![](/assets/images/wilderness.svg)] in its site path must return to its site of origin unless it contains a ranger. <br>&ensp;Additionally, if _Doors of Night_ is in play, each non-Darkhaven site in play with at least two Wildernesses in its site path is tapped. <br>&ensp;Cannot be duplicated. 
+> > _Environment._ Each moving company that has at least two Wildernesses \[![](/assets/images/wilderness.svg)] in its site path must return to its site of origin unless it contains a ranger. <br>&ensp;Additionally, if _Doors of Night_ is in play, each non-Darkhaven site in play with at least two Wildernesses \[![](/assets/images/wilderness.svg)] in its site path is tapped. <br>&ensp;Cannot be duplicated. 
 >
 
 ### _Middle-earth Challenge Decks_
@@ -64,7 +64,7 @@ permalink: /cards/long-winter/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ Each moving company that has at least two Wildernesses \[![](/assets/images/wilderness.svg)] in its site path must return to its site of origin unless it contains a ranger. <br>&ensp;Additionally, if _Doors of Night_ is in play, each non-Darkhaven site in play with at least two Wildernesses in its site path is tapped. <br>&ensp;Cannot be duplicated. 
+> > _Environment._ Each moving company that has at least two Wildernesses \[![](/assets/images/wilderness.svg)] in its site path must return to its site of origin unless it contains a ranger. <br>&ensp;Additionally, if _Doors of Night_ is in play, each non-Darkhaven site in play with at least two Wildernesses \[![](/assets/images/wilderness.svg)] in its site path is tapped. <br>&ensp;Cannot be duplicated. 
 >
 
 ### _Middle-earth: The Balrog Reprint_

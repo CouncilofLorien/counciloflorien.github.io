@@ -15,7 +15,7 @@ permalink: /cards/mount-gundabad/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="character-card-name">Mount Gundabad</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -38,7 +38,7 @@ permalink: /cards/mount-gundabad/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="character-card-name">Mount Gundabad</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -61,7 +61,7 @@ permalink: /cards/mount-gundabad/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="card-name">Mount Gundabad</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -84,7 +84,7 @@ permalink: /cards/mount-gundabad/
 
 {: .hero-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="character-card-name">Mount Gundabad</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -107,7 +107,7 @@ permalink: /cards/mount-gundabad/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="card-name">Mount Gundabad</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -130,7 +130,7 @@ permalink: /cards/mount-gundabad/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="card-name">Mount Gundabad</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }

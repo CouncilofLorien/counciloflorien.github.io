@@ -22,7 +22,7 @@ permalink: /cards/morgul-knife/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > A Nazgul's prowess is modified by +2. Discard if attack doesn't wound a character. <br>&ensp;_Corruption._ One character (attacker's choice) wounded by an attack modified by this card receives 4 corruption points. <br>&ensp;If at a Haven during his untap phase, a character with this card may attempt to remove it (but not untap or heal). Make a roll (or draw a #): if this result is greater than 4, discard this card. <br>&ensp;Cannot be duplicated on a given Nazgul. 
+> > A Nazgul's prowess is modified by +2. Discard if attack doesn't wound a character. <br>&ensp;_Corruption._ One character (attacker's choice) wounded by an attack modified by this card receives 4 corruption points (place this card under the character). <br>&ensp;If at a Haven during his untap phase, a character with this card may attempt to remove it (but not untap or heal). Make a roll (or draw a #): if this result is greater than 4, discard this card. <br>&ensp;Cannot be duplicated on a given Nazgul. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -39,7 +39,7 @@ permalink: /cards/morgul-knife/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > A Nazgul's prowess is modified by +2. Discard if attack doesn't wound a character. <br>&ensp;_Corruption._ One character (attacker's choice) wounded by an attack modified by this card receives 4 corruption points. <br>&ensp;If at a Haven during his untap phase, a character with this card may attempt to remove it (but not untap or heal). Make a roll (or draw a #): if this result is greater than 4, discard this card. <br>&ensp;Cannot be duplicated on a given Nazgul. 
+> > A Nazgul's prowess is modified by +2. Discard if attack doesn't wound a character. <br>&ensp;_Corruption._ One character (attacker's choice) wounded by an attack modified by this card receives 4 corruption points (place this card under the character). <br>&ensp;If at a Haven during his untap phase, a character with this card may attempt to remove it (but not untap or heal). Make a roll (or draw a #): if this result is greater than 4, discard this card. <br>&ensp;Cannot be duplicated on a given Nazgul. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

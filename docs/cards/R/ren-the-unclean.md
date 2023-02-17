@@ -25,7 +25,7 @@ permalink: /cards/ren-the-unclean/
 > Creature or Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Nazgul (8th)._ May be played as a hazard creature (with one strike) or as a permanent event. <br>&ensp;As a creature, may also be played keyed to Dagorlad, Ithilien, Gorgoroth, and Horse Plains; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Ren the Unclean_ becomes a short-event: each character in play must make a corruption check. 
+> > _**Unique.**_ _Nazgul (8th)._ May be played as a hazard creature (with one strike) or as a permanent-event. <br>&ensp;As a creature, may also be played keyed to Dagorlad, Ithilien, Gorgoroth, and Horse Plains; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Ren the Unclean_ becomes a short-event: each character in play must make a corruption check. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 15/10 】</div>
@@ -45,7 +45,7 @@ permalink: /cards/ren-the-unclean/
 > Creature or Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Nazgul (8th)._ May be played as a hazard creature (with one strike) or as a permanent event. <br>&ensp;As a creature, may also be played keyed to Dagorlad, Ithilien, Gorgoroth, and Horse Plains; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Ren the Unclean_ becomes a short-event: each character in play must make a corruption check. 
+> > _**Unique.**_ _Nazgul (8th)._ May be played as a hazard creature (with one strike) or as a permanent-event. <br>&ensp;As a creature, may also be played keyed to Dagorlad, Ithilien, Gorgoroth, and Horse Plains; and may also be played at sites in these regions. <br>&ensp;If played as a permanent-event, it will remain in play until tapped during the opponent's movement/hazard phase (tapping counts against the hazard limit). When tapped, _Ren the Unclean_ becomes a short-event: each character in play must make a corruption check. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 15/10 】</div>

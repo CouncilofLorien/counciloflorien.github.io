@@ -15,7 +15,7 @@ permalink: /cards/barad-dur/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="character-card-name">Barad-dur</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -35,7 +35,7 @@ permalink: /cards/barad-dur/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="character-card-name">Barad-dur</div>
 >
 > {: .hero-site-text .black-text .p-1 .pl-2 }
@@ -55,7 +55,7 @@ permalink: /cards/barad-dur/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="card-name">Barad-dur</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -78,7 +78,7 @@ permalink: /cards/barad-dur/
 
 {: .minion-site-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .mb-4 .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="card-name">Barad-dur</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
@@ -101,7 +101,7 @@ permalink: /cards/barad-dur/
 
 {: .balrog-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .balrog-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/dark-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/dark-hold-L.svg"></div>
 > > <div class="card-name">Barad-dur</div>
 >
 > {: .hazard-classification .pr-2 }

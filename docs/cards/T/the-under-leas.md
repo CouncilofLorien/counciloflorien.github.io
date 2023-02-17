@@ -15,7 +15,7 @@ permalink: /cards/the-under-leas/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="character-card-name">The Under-leas</div>
 >
 > {: .character-card-classification .pr-2 }
@@ -32,7 +32,7 @@ permalink: /cards/the-under-leas/
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="card-name">The Under-leas</div>
 >
 > {: .hazard-classification .pr-2 }
@@ -49,7 +49,7 @@ permalink: /cards/the-under-leas/
 
 {: .balrog-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .balrog-site-text .p-1 .pl-2 }
-> > <div class="card-mp"><img src="/assets/images/shadow-hold.svg"></div>
+> > <div class="card-mp"><img src="/assets/images/shadow-hold-L.svg"></div>
 > > <div class="card-name">The Under-leas</div>
 >
 > {: .hazard-classification .pr-2 }
