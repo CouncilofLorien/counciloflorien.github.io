@@ -8684,10 +8684,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">Andrast</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Andrast Coast, Anfalas, Bay of Belfalas, Eriadoran Coast, Old Pukel-land 
@@ -8697,10 +8695,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/coastalsea.svg"></div>
 > > <div class="character-card-name">Andrast Coast</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Andrast, Bay of Belfalas, Eriadoran Coast 
@@ -8710,10 +8706,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/border-land.svg"></div>
 > > <div class="character-card-name">Anduin Vales</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Brown Lands, Grey Mountain Narrows, Gundabad, High Pass, Southern Mirkwood, Western Mirkwood, Wold & Foothills, Woodland Realm 
@@ -8723,10 +8717,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">Anfalas</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Andrast, Bay of Belfalas, Belfalas, Lamedon, Old Pukel Gap
@@ -8736,10 +8728,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/shadow-land.svg"></div>
 > > <div class="character-card-name">Angmar</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Arthedain, Forochel, Gundabad, Rhudaur 
@@ -8749,10 +8739,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/free-domain.svg"></div>
 > > <div class="character-card-name">Anorien</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Ithilien, Lebennin, Rohan 
@@ -8762,10 +8750,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">Arthedain</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Angmar, Cardolan, Forochel, Lindon, Numeriador, Rhudaur, The Shire 
@@ -8775,10 +8761,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/coastalsea.svg"></div>
 > > <div class="character-card-name">Bay of Belfalas</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Andrast Coast, Andrast, Mouths of the Anduin, Anfalas, Belfalas
@@ -8788,10 +8772,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/free-domain.svg"></div>
 > > <div class="character-card-name">Belfalas</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Mouths of the Anduin, Anfalas, Bay of Belfalas, Lamedon, Lebennin
@@ -8801,10 +8783,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/shadow-land.svg"></div>
 > > <div class="character-card-name">Brown Lands</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anduin Vales, Dagorlad, Southern Mirkwood, Wold & Foothills 
@@ -8814,10 +8794,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">Cardolan</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Arthedain, Dunland, Enedhwaith, Eriadoran Coast, Hollin, Rhudaur, The Shire 
@@ -8827,10 +8805,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/shadow-land.svg"></div>
 > > <div class="character-card-name">Dagorlad</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Brown Lands, Horse Plains, Ithilien, Southern Mirkwood, Southern Rhovanion 
@@ -8840,10 +8816,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/border-land.svg"></div>
 > > <div class="character-card-name">Dorwinion</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Northern Rhovanion, Southern Rhovanion 
@@ -8853,10 +8827,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">Dunland</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Cardolan, Enedhwaith, Hollin 
@@ -8866,10 +8838,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/coastalsea.svg"></div>
 > > <div class="character-card-name">Elven Shores</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Eriadoran Coast, Lindon 
@@ -8879,10 +8849,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/free-domain.svg"></div>
 > > <div class="character-card-name">Enedhwaith</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Cardolan, Dunland, Eriadoran Coast, Gap of Isen, Old Pukel-land 
@@ -8892,10 +8860,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/coastalsea.svg"></div>
 > > <div class="character-card-name">Eriadoran Coast</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Andrast, Andrast Coast, Cardolan, Elven Shores, Enedhwaith, Old Pukel-land 
@@ -8905,10 +8871,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">Fangorn</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Gap of Isen, Rohan, Wold & Foothills 
@@ -8918,10 +8882,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">Forochel</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Angmar, Arthedain, Numeriador 
@@ -8931,10 +8893,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/border-land.svg"></div>
 > > <div class="character-card-name">Gap of Isen</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Enedhwaith, Fangorn, Old Pukel-land, Rohan 
@@ -8944,10 +8904,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/dark-domain.svg"></div>
 > > <div class="character-card-name">Gorgoroth</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Imlad Morgul, Nurn, Udun 
@@ -8957,10 +8915,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/shadow-land.svg"></div>
 > > <div class="character-card-name">Grey Mountain Narrows</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anduin Vales, Northern Rhovanion, Withered Heath, Woodland Realm 
@@ -8970,10 +8926,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/dark-domain.svg"></div>
 > > <div class="character-card-name">Gundabad</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anduin Vales, Angmar 
@@ -8983,10 +8937,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">Harondor</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Mouths of the Anduin, Ithilien, Khand 
@@ -8996,10 +8948,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">Heart of Mirkwood</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Northern Rhovanion, Southern Mirkwood, Southern Rhovanion, Western Mirkwood, Woodland Realm 
@@ -9009,10 +8959,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">High Pass</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anduin Vales, Rhudaur 
@@ -9022,10 +8970,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">Hollin</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Cardolan, Dunland, Redhorn Gate, Rhudaur 
@@ -9035,10 +8981,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/shadow-land.svg"></div>
 > > <div class="character-card-name">Horse Plains</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Dagorlad, Nurn, Southern Rhovanion 
@@ -9048,10 +8992,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/shadow-land.svg"></div>
 > > <div class="character-card-name">Imlad Morgul</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Gorgoroth, Ithilien 
@@ -9061,10 +9003,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">Iron Hills</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Northern Rhovanion, Withered Heath 
@@ -9074,10 +9014,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">Ithilien</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anorien, Dagorlad, Harondor, Imlad Morgul 
@@ -9087,10 +9025,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/shadow-land.svg"></div>
 > > <div class="character-card-name">Khand</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Harondor, Nurn 
@@ -9100,10 +9036,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/border-land.svg"></div>
 > > <div class="character-card-name">Lamedon</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anfalas, Belfalas, Lebennin 
@@ -9113,10 +9047,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/free-domain.svg"></div>
 > > <div class="character-card-name">Lebennin</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Mouths of the Anduin, Anorien, Belfalas, Lamedon
@@ -9126,10 +9058,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/free-domain.svg"></div>
 > > <div class="character-card-name">Lindon</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Arthedain, Elven Shores, Numeriador 
@@ -9139,10 +9069,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/coastalsea.svg"></div>
 > > <div class="character-card-name">Mouths of the Anduin</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Bay of Belfalas, Belfalas, Harondor, Lebennin 
@@ -9152,10 +9080,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">Northern Rhovanion</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Dorwinion, Heart of Mirkwood, Iron Hills, Southern Mirkwood, Withered Heath, Woodland Realm, Grey Mountain Narrows 
@@ -9165,10 +9091,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">Numeriador</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Arthedain, Forochel, Lindon 
@@ -9178,10 +9102,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/dark-domain.svg"></div>
 > > <div class="character-card-name">Nurn</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Gorgoroth, Horse Plains, Khand 
@@ -9191,10 +9113,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">Old Pukel Gap</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anfalas, Old Pukel-land 
@@ -9204,10 +9124,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">Old Pukel-land</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Andrast, Enedhwaith, Eridaoran Coast, Gap of Isen, Old Pukel Gap 
@@ -9217,10 +9135,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">Redhorn Gate</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Hollin, Wold & Foothills 
@@ -9230,10 +9146,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">Rhudaur</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Angmar, Arthedain, Cardolan, High Pass, Hollin 
@@ -9243,10 +9157,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/border-land.svg"></div>
 > > <div class="character-card-name">Rohan</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anorien, Fangorn, Gap of Isen, Wold & Foothills 
@@ -9256,10 +9168,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/dark-domain.svg"></div>
 > > <div class="character-card-name">Southern Mirkwood</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anduin Vales, Brown Lands, Dagorlad, Heart of Mirkwood, Southern Rhovanion, Western Mirkwood 
@@ -9269,10 +9179,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">Southern Rhovanion</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Dagorlad, Dorwinion, Heart of Mirkwood, Horse Plains, Northern Rhovanion, Southern Mirkwood 
@@ -9282,10 +9190,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/free-domain.svg"></div>
 > > <div class="character-card-name">The Shire</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Arthedain, Cardolan 
@@ -9295,10 +9201,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/dark-domain.svg"></div>
 > > <div class="character-card-name">Udun</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Gorgoroth 
@@ -9308,10 +9212,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">Western Mirkwood</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anduin Vales, Heart of Mirkwood, Southern Mirkwood, Woodland Realm 
@@ -9321,10 +9223,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">Withered Heath</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Iron Hills, Northern Rhovanion, Grey Mountain Narrows
@@ -9334,10 +9234,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">Wold & Foothills</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anduin Vales, Brown Lands, Fangorn, Redhorn Gate, Rohan
@@ -9347,10 +9245,8 @@ permalink: /cards/all/
 
 {: .hero-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/border-land.svg"></div>
 > > <div class="character-card-name">Woodland Realm</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anduin Vales, Heart of Mirkwood, Northern Rhovanion, Western Mirkwood, Grey Mountain Narrows
@@ -18134,10 +18030,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">Andrast</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Andrast Coast, Anfalas, Bay of Belfalas, Eriadoran Coast, Old Pukel-land 
@@ -18147,10 +18041,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/coastalsea.svg"></div>
 > > <div class="character-card-name">Andrast Coast</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Andrast, Bay of Belfalas, Eriadoran Coast 
@@ -18160,10 +18052,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/border-land.svg"></div>
 > > <div class="character-card-name">Anduin Vales</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Brown Lands, Grey Mountain Narrows, Gundabad, High Pass, Southern Mirkwood, Western Mirkwood, Wold & Foothills, Woodland Realm 
@@ -18173,10 +18063,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">Anfalas</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Andrast, Bay of Belfalas, Belfalas, Lamedon, Old Pukel Gap
@@ -18186,10 +18074,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/shadow-land.svg"></div>
 > > <div class="character-card-name">Angmar</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Arthedain, Forochel, Gundabad, Rhudaur 
@@ -18199,10 +18085,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/free-domain.svg"></div>
 > > <div class="character-card-name">Anorien</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Ithilien, Lebennin, Rohan 
@@ -18212,10 +18096,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">Arthedain</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Angmar, Cardolan, Forochel, Lindon, Numeriador, Rhudaur, The Shire 
@@ -18225,10 +18107,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/coastalsea.svg"></div>
 > > <div class="character-card-name">Bay of Belfalas</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Andrast Coast, Andrast, Mouths of the Anduin, Anfalas, Belfalas
@@ -18238,10 +18118,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/free-domain.svg"></div>
 > > <div class="character-card-name">Belfalas</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Mouths of the Anduin, Anfalas, Bay of Belfalas, Lamedon, Lebennin
@@ -18251,10 +18129,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/shadow-land.svg"></div>
 > > <div class="character-card-name">Brown Lands</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anduin Vales, Dagorlad, Southern Mirkwood, Wold & Foothills 
@@ -18264,10 +18140,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">Cardolan</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Arthedain, Dunland, Enedhwaith, Eriadoran Coast, Hollin, Rhudaur, The Shire 
@@ -18277,10 +18151,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/shadow-land.svg"></div>
 > > <div class="character-card-name">Dagorlad</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Brown Lands, Horse Plains, Ithilien, Southern Mirkwood, Southern Rhovanion 
@@ -18290,10 +18162,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/border-land.svg"></div>
 > > <div class="character-card-name">Dorwinion</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Northern Rhovanion, Southern Rhovanion 
@@ -18303,10 +18173,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">Dunland</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Cardolan, Enedhwaith, Hollin 
@@ -18316,10 +18184,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/coastalsea.svg"></div>
 > > <div class="character-card-name">Elven Shores</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Eriadoran Coast, Lindon 
@@ -18329,10 +18195,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/free-domain.svg"></div>
 > > <div class="character-card-name">Enedhwaith</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Cardolan, Dunland, Eriadoran Coast, Gap of Isen, Old Pukel-land 
@@ -18342,10 +18206,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/coastalsea.svg"></div>
 > > <div class="character-card-name">Eriadoran Coast</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Andrast, Andrast Coast, Cardolan, Elven Shores, Enedhwaith, Old Pukel-land 
@@ -18355,10 +18217,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">Fangorn</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Gap of Isen, Rohan, Wold & Foothills 
@@ -18368,10 +18228,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">Forochel</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Angmar, Arthedain, Numeriador 
@@ -18381,10 +18239,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/border-land.svg"></div>
 > > <div class="character-card-name">Gap of Isen</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Enedhwaith, Fangorn, Old Pukel-land, Rohan 
@@ -18394,10 +18250,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/dark-domain.svg"></div>
 > > <div class="character-card-name">Gorgoroth</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Imlad Morgul, Nurn, Udun 
@@ -18407,10 +18261,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/shadow-land.svg"></div>
 > > <div class="character-card-name">Grey Mountain Narrows</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anduin Vales, Northern Rhovanion, Withered Heath, Woodland Realm 
@@ -18420,10 +18272,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/dark-domain.svg"></div>
 > > <div class="character-card-name">Gundabad</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anduin Vales, Angmar 
@@ -18433,10 +18283,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">Harondor</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Mouths of the Anduin, Ithilien, Khand 
@@ -18446,10 +18294,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">Heart of Mirkwood</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Northern Rhovanion, Southern Mirkwood, Southern Rhovanion, Western Mirkwood, Woodland Realm 
@@ -18459,10 +18305,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">High Pass</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anduin Vales, Rhudaur 
@@ -18472,10 +18316,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">Hollin</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Cardolan, Dunland, Redhorn Gate, Rhudaur 
@@ -18485,10 +18327,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/shadow-land.svg"></div>
 > > <div class="character-card-name">Horse Plains</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Dagorlad, Nurn, Southern Rhovanion 
@@ -18498,10 +18338,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/shadow-land.svg"></div>
 > > <div class="character-card-name">Imlad Morgul</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Gorgoroth, Ithilien 
@@ -18511,10 +18349,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">Iron Hills</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Northern Rhovanion, Withered Heath 
@@ -18524,10 +18360,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">Ithilien</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anorien, Dagorlad, Harondor, Imlad Morgul 
@@ -18537,10 +18371,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/shadow-land.svg"></div>
 > > <div class="character-card-name">Khand</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Harondor, Nurn 
@@ -18550,10 +18382,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/border-land.svg"></div>
 > > <div class="character-card-name">Lamedon</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anfalas, Belfalas, Lebennin 
@@ -18563,10 +18393,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/free-domain.svg"></div>
 > > <div class="character-card-name">Lebennin</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Mouths of the Anduin, Anorien, Belfalas, Lamedon
@@ -18576,10 +18404,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/free-domain.svg"></div>
 > > <div class="character-card-name">Lindon</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Arthedain, Elven Shores, Numeriador 
@@ -18589,10 +18415,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/coastalsea.svg"></div>
 > > <div class="character-card-name">Mouths of the Anduin</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Bay of Belfalas, Belfalas, Harondor, Lebennin 
@@ -18602,10 +18426,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">Northern Rhovanion</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Dorwinion, Heart of Mirkwood, Iron Hills, Southern Mirkwood, Withered Heath, Woodland Realm, Grey Mountain Narrows 
@@ -18615,10 +18437,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">Numeriador</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Arthedain, Forochel, Lindon 
@@ -18628,10 +18448,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/dark-domain.svg"></div>
 > > <div class="character-card-name">Nurn</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Gorgoroth, Horse Plains, Khand 
@@ -18641,10 +18459,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">Old Pukel Gap</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anfalas, Old Pukel-land 
@@ -18654,10 +18470,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">Old Pukel-land</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Andrast, Enedhwaith, Eridaoran Coast, Gap of Isen, Old Pukel Gap 
@@ -18667,10 +18481,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">Redhorn Gate</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Hollin, Wold & Foothills 
@@ -18680,10 +18492,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">Rhudaur</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Angmar, Arthedain, Cardolan, High Pass, Hollin 
@@ -18693,10 +18503,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/border-land.svg"></div>
 > > <div class="character-card-name">Rohan</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anorien, Fangorn, Gap of Isen, Wold & Foothills 
@@ -18706,10 +18514,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/dark-domain.svg"></div>
 > > <div class="character-card-name">Southern Mirkwood</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anduin Vales, Brown Lands, Dagorlad, Heart of Mirkwood, Southern Rhovanion, Western Mirkwood 
@@ -18719,10 +18525,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">Southern Rhovanion</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Dagorlad, Dorwinion, Heart of Mirkwood, Horse Plains, Northern Rhovanion, Southern Mirkwood 
@@ -18732,10 +18536,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/free-domain.svg"></div>
 > > <div class="character-card-name">The Shire</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Arthedain, Cardolan 
@@ -18745,10 +18547,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/dark-domain.svg"></div>
 > > <div class="character-card-name">Udun</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Gorgoroth 
@@ -18758,10 +18558,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">Western Mirkwood</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anduin Vales, Heart of Mirkwood, Southern Mirkwood, Woodland Realm 
@@ -18771,10 +18569,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">Withered Heath</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Iron Hills, Northern Rhovanion, Grey Mountain Narrows
@@ -18784,10 +18580,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/wilderness.svg"></div>
 > > <div class="character-card-name">Wold & Foothills</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anduin Vales, Brown Lands, Fangorn, Redhorn Gate, Rohan
@@ -18797,10 +18591,8 @@ permalink: /cards/all/
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hero-site-text .mb-4 .p-1 .pl-2 }
+> > <div class="card-mp"><img src="/assets/images/border-land.svg"></div>
 > > <div class="character-card-name">Woodland Realm</div>
->
-> {: .hero-site-text .black-text .p-1 .pl-2 }
-> > &nbsp;
 >
 > {: .hero-site-text .black-text .p-2 }
 > > Anduin Vales, Heart of Mirkwood, Northern Rhovanion, Western Mirkwood, Grey Mountain Narrows
