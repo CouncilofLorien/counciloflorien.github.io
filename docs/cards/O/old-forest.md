@@ -28,7 +28,7 @@ permalink: /cards/old-forest/
 > > _**Nearest Haven:**_ Rivendell <br>_**Special:**_ Healing Cards affect all characters at the site  
 > > 
 > > {: .fs-3 } 
-> > _“‘For you are still afraid, perhaps, of mist and tree-shadows and deep water, and untame things. Fear Nothing!’”_ ***---&#65279;LotRI*** 
+> > _“‘For you are still afraid, perhaps, of mist and tree-shadows and deep water, and untame things. Fear nothing!’”_ ***---&#65279;LotRI*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -51,7 +51,7 @@ permalink: /cards/old-forest/
 > > _**Nearest Haven:**_ Rivendell <br>_**Special:**_ Healing Cards affect all characters at the site  
 > > 
 > > {: .fs-3 } 
-> > _“‘For you are still afraid, perhaps, of mist and tree-shadows and deep water, and untame things. Fear Nothing!’”_ ***---&#65279;LotRI*** 
+> > _“‘For you are still afraid, perhaps, of mist and tree-shadows and deep water, and untame things. Fear nothing!’”_ ***---&#65279;LotRI*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>

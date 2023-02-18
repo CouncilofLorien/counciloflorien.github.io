@@ -25,7 +25,7 @@ permalink: /cards/persuasive-words/
 > > _**Diplomat only.**_ Make two rolls (or draw two #'s) when making an influence check and choose one result to use. 
 > > 
 > > {: .fs-3 } 
-> > _“‘You speak justly, Lord,' said the pale man sitting upon the steps of the dais. '...and ill news is an ill guest they say.’”_ ***---&#65279;LotRIII***  
+> > _“‘You speak justly, lord,' said the pale man sitting upon the steps of the dais. '...and ill news is an ill guest they say.’”_ ***---&#65279;LotRIII***  
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -42,5 +42,5 @@ permalink: /cards/persuasive-words/
 > > _**Diplomat only.**_ Make two rolls (or draw two #'s) when making an influence check and choose one result to use. 
 > > 
 > > {: .fs-3 } 
-> > _“‘You speak justly, Lord,' said the pale man sitting upon the steps of the dais. '...and ill news is an ill guest they say.’”_ ***---&#65279;LotRIII***  
+> > _“‘You speak justly, lord,' said the pale man sitting upon the steps of the dais. '...and ill news is an ill guest they say.’”_ ***---&#65279;LotRIII***  
 > 

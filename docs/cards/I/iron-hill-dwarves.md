@@ -25,7 +25,7 @@ permalink: /cards/iron-hill-dwarves/
 > > _**Unique.**_ ***Playable at Iron Hill Dwarf-hold*** <br>&ensp;if the influence check is greater than 8.  <br>_Standard Modifications:_ Elves (-2), Dwarves (+2). 
 > > 
 > > {: .fs-3 } 
-> > _“‘Dain...has at least five hundred grim dwarves with him-a good many of them have had experience in the dreadful dwarf and goblin wars...’”_ ***---&#65279;Hob*** 
+> > _“‘Dain...has at least five hundred grim dwarves with him---a good many of them have had experience in the dreadful dwarf and goblin wars...’”_ ***---&#65279;Hob*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -42,7 +42,7 @@ permalink: /cards/iron-hill-dwarves/
 > > _**Unique.**_ ***Playable at Iron Hill Dwarf-hold*** <br>&ensp;if the influence check is greater than 8.  <br>_Standard Modifications:_ Elves (-2), Dwarves (+2). 
 > > 
 > > {: .fs-3 } 
-> > _“‘Dain...has at least five hundred grim dwarves with him-a good many of them have had experience in the dreadful dwarf and goblin wars...’”_ ***---&#65279;Hob*** 
+> > _“‘Dain...has at least five hundred grim dwarves with him---a good many of them have had experience in the dreadful dwarf and goblin wars...’”_ ***---&#65279;Hob*** 
 > 
 
 ### _Middle-earth Challenge Decks_

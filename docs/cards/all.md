@@ -665,7 +665,7 @@ permalink: /cards/all/
 > Warrior/Diplomat Dwarf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against Iron Hill Dwarves. +2 prowess against Orcs. <br>&ensp;+1 direct influence against Men and Man factions. 
+> > _**Unique.**_ +2 direct influence against Iron Hill Dwarves. +2 prowess against Orcs. +1 direct influence against Men and Man factions. 
 > > 
 > > {: .fs-3 } 
 > > _“...Dain...became King under the Mountain, and...many other dwarves gathered to his throne...”_ ***---&#65279;Hob***  
@@ -1630,7 +1630,7 @@ permalink: /cards/all/
 > > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +2. 
 > > 
 > > {: .fs-3 } 
-> > _“...then there came a faint glow...and it held his eyes, so that now he could be look away."_ ***---&#65279;LotRIII***  
+> > _“...then there came a faint glow...and it held his eyes, so that now he could not look away."_ ***---&#65279;LotRIII***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Bag End 
@@ -1656,7 +1656,7 @@ permalink: /cards/all/
 > > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +2. 
 > > 
 > > {: .fs-3 } 
-> > _“‘...I went for a Shirrif... Gave me a chance of walking round the country and seeing folk, and hearing the news...’”_ ***---&#65279;LotRVI***  
+> > _“‘...I went for a Shirriff... Gave me a chance of walking round the country and seeing folk, and hearing the news...’”_ ***---&#65279;LotRVI***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Bag End 
@@ -2237,7 +2237,7 @@ permalink: /cards/all/
 > > _**Unique.**_ ***Playable at Iron Hill Dwarf-hold*** <br>&ensp;if the influence check is greater than 8.  <br>_Standard Modifications:_ Elves (-2), Dwarves (+2). 
 > > 
 > > {: .fs-3 } 
-> > _“‘Dain...has at least five hundred grim dwarves with him-a good many of them have had experience in the dreadful dwarf and goblin wars...’”_ ***---&#65279;Hob*** 
+> > _“‘Dain...has at least five hundred grim dwarves with him---a good many of them have had experience in the dreadful dwarf and goblin wars...’”_ ***---&#65279;Hob*** 
 > 
 
 ---
@@ -2441,7 +2441,7 @@ permalink: /cards/all/
 > > _**Unique.**_ ***Playable at Southron Oasis*** <br>&ensp;if the influence check is greater than 8.  <br>_Standard Modifications:_ Dunedain (-2), Elves (-2), Dwarves (-2). 
 > > 
 > > {: .fs-3 } 
-> > _“They are fierce...some have red paint on their cheeks, and red cloaks; and their flags are red, and the tips of their spears; and they have round shields, with yellow and black with big spikes."_ ***---&#65279;LotRIV*** 
+> > _“They are fierce...some have red paint on their cheeks, and red cloaks; and their flags are red, and the tips of their spears; and they have round shields, yellow and black with big spikes."_ ***---&#65279;LotRIV*** 
 > 
 
 ---
@@ -2455,7 +2455,7 @@ permalink: /cards/all/
 > Eagle Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ ***Playable at Eagle's Eyrie*** <br>&ensp;if the influence check is greater than 9.  <br>_Standard Modifications:_ none. 
+> > _**Unique.**_ ***Playable at Eagles' Eyrie*** <br>&ensp;if the influence check is greater than 9.  <br>_Standard Modifications:_ none. 
 > > 
 > > {: .fs-3 } 
 > > _“...the Lord of the Eagles swept down from above, seized him in his talons, and was gone...Back swept the great birds that were with him, and down they came like huge black shadows."_ ***---&#65279;Hob*** 
@@ -2526,7 +2526,7 @@ permalink: /cards/all/
 > > _**Unique.**_ ***Playable at Woodmen-town*** <br>&ensp;if the influence check is greater than 7. <br>_Standard Modifications:_ Men (+1). 
 > > 
 > > {: .fs-3 } 
-> > _“Most of the Men of the northern regions...were descended from the Edain of the first age, of from their close kin... Of this kind were the peoples of the upper vales of the Anduin: the Beornings, and the Woodmen of Western Mirkwood...”_ ***---&#65279;LotR*** 
+> > _“Most of the Men of the northern regions...were descended from the Edain of the first age, or from their close kin... Of this kind were the peoples of the upper vales of the Anduin: the Beornings, and the Woodmen of Western Mirkwood...”_ ***---&#65279;LotR*** 
 > 
 
 ---
@@ -3014,7 +3014,7 @@ permalink: /cards/all/
 > > _Lesser Ring._ ***Playable only with a Gold Ring and after a test indicates Lesser Ring.*** +2 to direct influence. 
 > > 
 > > {: .fs-3 } 
-> > _“‘The lesser rings were only essays in the craft before it was full-grown, and to the Elven-smiths they were but trifles-yet still to my mind dangerous for mortals.’”_ ***---&#65279;LotRI*** 
+> > _“‘The lesser rings were only essays in the craft before it was full-grown, and to the Elven-smiths they were but trifles---yet still to my mind dangerous for mortals.’”_ ***---&#65279;LotRI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -3097,9 +3097,12 @@ permalink: /cards/all/
 ---
 
 {: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .p-1 .pl-2 }
+> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">3</div>
 > > <div class="card-name">Magic Ring of Words</div>
+>
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
+> > [+3 ![](/assets/images/di.svg)]
 >
 > {: .card-classification .pr-2 }
 > Special Item
@@ -3111,7 +3114,7 @@ permalink: /cards/all/
 > > _“But none were unmoved; none rejected its pleas and its commands...”_ ***---&#65279;LotRIII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【 +3[di] 】</div>
+> > <div class="card-shield"></div>
 > > <div class="card-corruption">〔 2 〕</div>
 
 ---
@@ -3171,7 +3174,7 @@ permalink: /cards/all/
 > > _Unique._ _Weapon._ +3 to prowess to a maximum of 9 (+4 prowess to a maximum of 10 against Orcs). 
 > > 
 > > {: .fs-3 } 
-> > _“They had called it Orcrist, Goblin-cleaver, but the Goblins called it simply Biter. They hated it and hated worse anyone that carried it."_ ***---&#65279;Hob*** 
+> > _“They had called it Orcrist, Goblin-cleaver, but the Goblins called it simply Biter. They hated it and hated worse any one that carried it."_ ***---&#65279;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +3/&ndash; 】</div>
@@ -3208,7 +3211,7 @@ permalink: /cards/all/
 > > _Unique._ _Palantir._ With its bearer able to use a Palantir, tap _Palantir of Annuminas_ to search through your play deck and discard pile for a "sage only" card. Put this card in your hand. Reshuffle your play deck. Bearer makes a corruption check. 
 > > 
 > > {: .fs-3 } 
-> > _“The Palantiri came from beyond Westernesse, from Eldamar."_ ***---&#65279;LotRIII*** 
+> > _“The palantiri come from beyond Westernesse, from Eldamar."_ ***---&#65279;LotRIII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -3769,7 +3772,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Only playable if The One Ring is at Mount Doom during the site phase.*** Its bearer must make a corruption check modified by -4. If successful, _The One Ring_ is destroyed and its bearer's player wins. Otherwise, discard _The One Ring_ and its bearer. 
+> > ***Only playable if The One Ring is at Mount Doom.*** Its bearer must make a corruption check modified by -4. If successful, _The One Ring_ is destroyed and its bearer's player wins. Otherwise, discard _The One Ring_ and its bearer. 
 > > 
 > > {: .fs-3 } 
 > > _“...on the brink of the chasm, at the very Crack of Doom, stood Frodo...”_ ***---&#65279;LotRVI*** 
@@ -4012,7 +4015,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Only playable at a Haven*** \[![](/assets/images/free-haven.svg)] ***during the organization phase*** on a company that has four or more characters and allies. +1 to prowess and +1 to corruption checks for all characters and allies in the company. Discard this card if a character or ally joins or leaves the company for any reason. 
+> > ***Only playable at a Haven*** \[![](/assets/images/free-haven.svg)] ***during the organization phase on a company that has four or more characters and allies.*** +1 to prowess and +1 to corruption checks for all characters and allies in the company. Discard this card if a character or ally joins or leaves the company for any reason. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +1/&ndash; 】</div>
@@ -4334,7 +4337,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable at the end of the organization phase on a company containing a ranger.*** If the company uses region cards for its site path, tap the ranger to move as if the following pairs of regions were adjacent: Ithilien and Gorgoroth, Ithilien and Nurn, Harondor and Nurn. The company faces an attack at the beginning of its movement/hazard phase: Orcs --- 4 strikes with 9 prowess. <br>&ensp;Otherwise, if the site moved to is in one of the regions listed above, the hazard limit is reduced by two (to a minimum of two). <br>&ensp;Cannot be duplicated on a given company. 
+> > ***Playable at the end of the organization phase on a company containing a ranger.*** If the company uses region cards for its site path, tap the ranger to move as if the following pairs of regions were adjacent: Ithilien and Gorgoroth, Ithilien and Nurn, Harondor and Nurn. The company faces an attack at the beginning of its movement/hazard phase: Orcs --- 4 strikes with 9 prowess. <br>&ensp;Otherwise, if the site moved to is in one of the regions listed above, the hazard limit is reduced by 2 (to a minimum of 2). <br>&ensp;Cannot be duplicated on a given company. 
 > 
 
 ---
@@ -4464,7 +4467,7 @@ permalink: /cards/all/
 > > _**Diplomat only.**_ Make two rolls (or draw two #'s) when making an influence check and choose one result to use. 
 > > 
 > > {: .fs-3 } 
-> > _“‘You speak justly, Lord,' said the pale man sitting upon the steps of the dais. '...and ill news is an ill guest they say.’”_ ***---&#65279;LotRIII***  
+> > _“‘You speak justly, lord,' said the pale man sitting upon the steps of the dais. '...and ill news is an ill guest they say.’”_ ***---&#65279;LotRIII***  
 > 
 
 ---
@@ -4523,7 +4526,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable at an already tapped Dark-hold*** \[![](/assets/images/dark-hold.svg)] ***or Shadow-hold*** \[![](/assets/images/shadow-hold.svg)] ***during the site phase.*** The company faces a spider attack (2 strikes with 7 prowess). If no characters are untapped after the attack, discard _Rescue Prisoners._ Otherwise, you may tap 1 character in the company and put _Rescue Prisoners_ under his control. That character may not untap until _Rescue Prisoners_ is stored at a Haven \[![](/assets/images/free-haven.svg)], Border-hold \[![](/assets/images/border-hold.svg)], or Free-hold \[![](/assets/images/free-hold.svg)] during his organization phase. You receive the marshalling points for this card only when it is stored. <br>&ensp;Cannot be duplicated at a given site. 
+> > ***Playable at an already tapped Dark-hold*** \[![](/assets/images/dark-hold.svg)] ***or Shadow-hold*** \[![](/assets/images/shadow-hold.svg)] ***during the site phase.*** The company faces a spider attack (2 strikes with 7 prowess). If no characters are untapped after the attack, discard _Rescue Prisoners._ Otherwise, you may tap 1 character in the company and put _Rescue Prisoners_ under his control. That character may not untap until _Rescue Prisoners_ is stored at a Haven \[![](/assets/images/free-haven.svg)], Border-hold \[![](/assets/images/border-hold.svg)], or Free-hold \[![](/assets/images/free-hold.svg)] during his organization phase. <br>&ensp;Cannot be duplicated at a given site. 
 > 
 
 ---
@@ -5339,7 +5342,7 @@ permalink: /cards/all/
 > > _Animals._ One strike. If any strike is successful, the defending company must return to its site of origin (defending characters are wounded normally). 
 > > 
 > > {: .fs-3 } 
-> > _“It is written, in margins of the 'Red Book,' that the horny Turtle-fish, the Fastitocalon, is most dreaded monster in the sea, and that he is as large as a islet."_ ***---&#65279;Kuduk&nbsp;Lore*** 
+> > _“It is written, in margins of the 'Red Book,' that the horny Turtle-fish, the Fastitocalon, is most dreaded of the monsters in the Sea, and that he is as large as a islet."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 15/&ndash; 】</div>
@@ -5548,7 +5551,7 @@ permalink: /cards/all/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ ***May be played at Irerock.*** _Dragon._ Two strikes. If _Doors of Night_ is in play, may also be played keyed to Grey Mountain Narrows, Iron Hills, Northern Rhovanion, and Withered Heath; and may also be played at sites in these regions. 
+> > _**Unique.**_ ***May be played at Irerock.*** _Dragon._ Two strikes. <br>&ensp;If _Doors of Night_ is in play, may also be played keyed to Grey Mountain Narrows, Iron Hills, Northern Rhovanion, and Withered Heath; and may also be played at sites in these regions. 
 > > 
 > > {: .fs-3 } 
 > > _“Dragons steal gold and jewels...”_ ***---&#65279;Hob***  
@@ -5565,7 +5568,7 @@ permalink: /cards/all/
 > > <div class="card-name">Mouth of Sauron</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/dark-hold.svg)
+> > ![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/dark-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature or Short-event
@@ -5634,7 +5637,7 @@ permalink: /cards/all/
 > > _Trolls._ Three strikes. 
 > > 
 > > {: .fs-3 } 
-> > _“They bore round bucklers huge and black and wielded heavy hammers in their knotted hands. Reckless they sprang into pools and waded across bellowing as they came."_ ***---&#65279;LotRV*** 
+> > _“...they bore round bucklers huge and black and wielded heavy hammers in their knotted hands. Reckless they sprang into pools and waded across bellowing as they came."_ ***---&#65279;LotRV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 10/5 】</div>
@@ -6752,7 +6755,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > A Nazgul's prowess is modified by +2. Discard if attack doesn't wound a character. <br>&ensp;_Corruption._ One character (attacker's choice) wounded by an attack modified by this card receives 4 corruption points (place this card under the character). <br>&ensp;If at a Haven during his untap phase, a character with this card may attempt to remove it (but not untap or heal). Make a roll (or draw a #): if this result is greater than 4, discard this card. <br>&ensp;Cannot be duplicated on a given Nazgul. 
+> > A Nazgul's prowess is modified by +2. Discard if attack doesn't wound a character. <br>&ensp;_Corruption._ One character (attacker's choice) wounded by an attack modified by this card receives 4 corruption points (place this card under the character). <br>&ensp;If at a Haven during his untap phase, a character with this card may attempt to remove it (but he may not untap or heal). Make a roll (or draw a #): if this result is greater than 4, discard this card. <br>&ensp;Cannot be duplicated on a given Nazgul. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -6885,7 +6888,7 @@ permalink: /cards/all/
 > > _Environment._ Playable only if _Doors of Night_ is in play. Each non-Haven site in play with a Coastal Sea \[![](/assets/images/coastalsea.svg)] in its site path is tapped. <br>&ensp;Cannot be duplicated. 
 > > 
 > > {: .fs-3 } 
-> > _“Like Voronme of old, they fought the wrath of Osse and rode high upon the wings of the storm, far above the deeps of the Sea."_ ***---&#65279;Kuduk&nbsp;Lore*** 
+> > _“Like Voronwe of old, they fought the wrath of Osse and rode high upon the wings of the storm, far above the deeps of the Sea."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 >
 
 ---
@@ -6902,7 +6905,7 @@ permalink: /cards/all/
 > > _**Unique.**_ Each character has the corruption points doubled for one of his sources of corruption (the player controlling the character chooses).  
 > > 
 > > {: .fs-3 } 
-> > _“...they came out of the West and were messengers sent to contest the power of Sauron, ...but they were forbidden to match his power with power...”_ ***---&#65279;LotR*** 
+> > _“...they came out of the Far West and were messengers sent to contest the power of Sauron, ...but they were forbidden to match his power with power...”_ ***---&#65279;LotR*** 
 >
 
 ---
@@ -6916,7 +6919,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Corruption._ ***Playable on an Elf not in a Haven*** \[![](/assets/images/free-haven.svg)]. Target Elf receives 2 corruption points and must make a corruption check during each of his untap phases if he is not at a Haven. Cannot be duplicated on a given Elf. <br>&ensp;During his organization phase, an Elf with this card may tap to attempt to remove it. Make a roll (or draw a #): if this result is greater than 7, discard this card. 
+> > _Corruption._ ***Playable on an Elf not in a Haven*** \[![](/assets/images/free-haven.svg)]. Target Elf receives 2 corruption points and must make a corruption check during each of his untap phases if he is not in a Haven. Cannot be duplicated on a given Elf. <br>&ensp;During his organization phase, an Elf with this card may tap to attempt to remove it. Make a roll (or draw a #): if this result is greater than 7, discard this card. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -6984,7 +6987,7 @@ permalink: /cards/all/
 > > The bearer of a Ring must make a corruption check modified by -2. If the bearer fails this corruption check, his Ring is discarded, but he remains in play. 
 > > 
 > > {: .fs-3 } 
-> > _“Isildur was marching north along the east banks of the river... He leapt into the waters, but the Ring slipped from his finger as he swam, and then the Orcs saw him and killed him with arrows."_ ***---&#65279;LotRI*** 
+> > _“Isildur was marching north along the east banks of the River... He leapt into the waters, but the Ring slipped from his finger as he swam, and then the Orcs saw him and killed him with arrows."_ ***---&#65279;LotRI*** 
 >
 
 ---
@@ -7015,7 +7018,7 @@ permalink: /cards/all/
 > > The bearer of _The One Ring_ makes a corruption check modified by -4. 
 > > 
 > > {: .fs-3 } 
-> > _“He heard himself crying out: 'Never, never!' Or was it 'Verily I come, I come to you'? He could not tell."_ ***---&#65279;LotRII*** 
+> > _“He heard himself crying out: 'Never, never!' Or was it: 'Verily I come, I come to you'? He could not tell."_ ***---&#65279;LotRII*** 
 >
 
 ---
@@ -7154,7 +7157,7 @@ permalink: /cards/all/
 > > _**Nearest Haven:**_ Rivendell  
 > > 
 > > {: .fs-3 } 
-> > _“In a hole in ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down or to eat: it was a hobbit-hole and that means comfort."_ ***---&#65279;Hob*** 
+> > _“In a hole in ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat: it was a hobbit-hole and that means comfort."_ ***---&#65279;Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -7927,7 +7930,7 @@ permalink: /cards/all/
 > > _**Nearest Haven:**_ Lorien  
 > > 
 > > {: .fs-3 } 
-> > _“It was not built on the shore...but right out on the surface of the lake, protected from the swirl of the entering river by a promontory of rock which formed a calm bay. A great bridge made of wood ran out to where on huge piles of forest trees was built a busy wooden town...”_ ***---&#65279;LotRI*** 
+> > _“It was not built on the shore...but right out on the surface of the lake, protected from the swirl of the entering river by a promontory of rock which formed a calm bay. A great bridge made of wood ran out to where on huge piles of forest trees was built a busy wooden town...”_ ***---&#65279;Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -8174,7 +8177,7 @@ permalink: /cards/all/
 > > _**Nearest Haven:**_ Rivendell <br>_**Special:**_ Healing Cards affect all characters at the site  
 > > 
 > > {: .fs-3 } 
-> > _“‘For you are still afraid, perhaps, of mist and tree-shadows and deep water, and untame things. Fear Nothing!’”_ ***---&#65279;LotRI*** 
+> > _“‘For you are still afraid, perhaps, of mist and tree-shadows and deep water, and untame things. Fear nothing!’”_ ***---&#65279;LotRI*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -9424,7 +9427,7 @@ permalink: /cards/all/
 > Warrior/Scout/Ranger/Diplomat Wizard
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ WHen Radagast's new site is revealed, he may draw one additional card for each Wilderness \[![](/assets/images/wilderness.svg)] in his company's site path. <br>&ensp;+1 to all of his corruption checks. 
+> > _**Unique.**_ If his company moves to a new site during the movement/hazard phase, he may draw 1 additional card for each Wilderness \[![](/assets/images/wilderness.svg)] region in his company's site path. <br>&ensp;+1 to all of his corruption checks. 
 > > 
 > > {: .fs-3 } 
 > > _“‘...a worthy wizard...has much lore of herbs and beasts...’”_ ***---&#65279;LotRII***  
@@ -9993,7 +9996,7 @@ permalink: /cards/all/
 > Warrior/Diplomat Dwarf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Iron Hill Dwarves faction. +2 prowess against Orcs. <br>&ensp;+1 direct influence against Men and Man factions. 
+> > _**Unique.**_ +2 direct influence against the Iron Hill Dwarves faction. +2 prowess against Orcs. +1 direct influence against Men and Man factions. 
 > > 
 > > {: .fs-3 } 
 > > _“...Dain...became King under the Mountain, and...many other dwarves gathered to his throne...”_ ***---&#65279;Hob***  
@@ -10958,7 +10961,7 @@ permalink: /cards/all/
 > > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +2. 
 > > 
 > > {: .fs-3 } 
-> > _“...then there came a faint glow...and it held his eyes, so that now he could be look away."_ ***---&#65279;LotRIII***  
+> > _“...then there came a faint glow...and it held his eyes, so that now he could not look away."_ ***---&#65279;LotRIII***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Bag End 
@@ -10984,7 +10987,7 @@ permalink: /cards/all/
 > > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +2. 
 > > 
 > > {: .fs-3 } 
-> > _“‘...I went for a Shirrif... Gave me a chance of walking round the country and seeing folk, and hearing the news...’”_ ***---&#65279;LotRVI***  
+> > _“‘...I went for a Shirriff... Gave me a chance of walking round the country and seeing folk, and hearing the news...’”_ ***---&#65279;LotRVI***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Bag End 
@@ -11372,7 +11375,7 @@ permalink: /cards/all/
 > Sage Ally
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ _**Playable at Old Forest.**_ Tap to cancel the effects of one hazard that targets a company, or an entity associated with a company, moving to a site in: Arthedain, Cardolan, Rhudaur, or The Shire. Discard _Tom Bombadil_ if his company moves to a site that is not in: Arthedain, Cardolan, Rhudaur, or The Shire. 
+> > _**Unique.**_ _**Playable at Old Forest.**_ Tap to cancel the effects of one hazard that targets any company moving to a site in: Arthedain, Cardolan, Rhudaur, or The Shire. Discard _Tom Bombadil_ if his company moves to a site that is not in: Arthedain, Cardolan, Rhudaur, or The Shire. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 12/11 】</div>
@@ -11565,7 +11568,7 @@ permalink: /cards/all/
 > > _**Unique.**_ ***Playable at Iron Hill Dwarf-hold*** <br>&ensp;if the influence check is greater than 8.  <br>_Standard Modifications:_ Elves (-2), Dwarves (+2). 
 > > 
 > > {: .fs-3 } 
-> > _“‘Dain...has at least five hundred grim dwarves with him-a good many of them have had experience in the dreadful dwarf and goblin wars...’”_ ***---&#65279;Hob*** 
+> > _“‘Dain...has at least five hundred grim dwarves with him---a good many of them have had experience in the dreadful dwarf and goblin wars...’”_ ***---&#65279;Hob*** 
 > 
 
 ---
@@ -11769,7 +11772,7 @@ permalink: /cards/all/
 > > _**Unique.**_ ***Playable at Southron Oasis*** <br>&ensp;if the influence check is greater than 8.  <br>_Standard Modifications:_ Dunedain (-2), Elves (-2), Dwarves (-2). 
 > > 
 > > {: .fs-3 } 
-> > _“They are fierce...some have red paint on their cheeks, and red cloaks; and their flags are red, and the tips of their spears; and they have round shields, with yellow and black with big spikes."_ ***---&#65279;LotRIV*** 
+> > _“They are fierce...some have red paint on their cheeks, and red cloaks; and their flags are red, and the tips of their spears; and they have round shields, yellow and black with big spikes."_ ***---&#65279;LotRIV*** 
 > 
 
 ---
@@ -11783,7 +11786,7 @@ permalink: /cards/all/
 > Eagle Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ ***Playable at Eagle's Eyrie*** <br>&ensp;if the influence check is greater than 9.  <br>_Standard Modifications:_ none. 
+> > _**Unique.**_ ***Playable at Eagles' Eyrie*** <br>&ensp;if the influence check is greater than 9.  <br>_Standard Modifications:_ none. 
 > > 
 > > {: .fs-3 } 
 > > _“...the Lord of the Eagles swept down from above, seized him in his talons, and was gone...Back swept the great birds that were with him, and down they came like huge black shadows."_ ***---&#65279;Hob*** 
@@ -11854,7 +11857,7 @@ permalink: /cards/all/
 > > _**Unique.**_ ***Playable at Woodmen-town*** <br>&ensp;if the influence check is greater than 7. <br>_Standard Modifications:_ Men (+1). 
 > > 
 > > {: .fs-3 } 
-> > _“Most of the Men of the northern regions...were descended from the Edain of the first age, of from their close kin... Of this kind were the peoples of the upper vales of the Anduin: the Beornings, and the Woodmen of Western Mirkwood...”_ ***---&#65279;LotR*** 
+> > _“Most of the Men of the northern regions...were descended from the Edain of the first age, or from their close kin... Of this kind were the peoples of the upper vales of the Anduin: the Beornings, and the Woodmen of Western Mirkwood...”_ ***---&#65279;LotR*** 
 > 
 
 ---
@@ -12139,7 +12142,7 @@ permalink: /cards/all/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ ***Only playable at Lorien.*** Only playable at Lorien.*** 2 marshalling points if stored at Bag End. 
+> > _Unique._ ***Only playable at Lorien.*** 2 marshalling points if stored at Bag End. 
 > > 
 > > {: .fs-3 } 
 > > _“‘Though you should find all barren and laid waste, there will be few gardens in Middle-earth that will bloom like your garden, if you sprinkle this earth there’”_ ***---&#65279;LotRII*** 
@@ -12202,7 +12205,7 @@ permalink: /cards/all/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Only playable at Wellinghall*** in addition to an ally or faction that has been successfully played at Wellinghall this turn. +1 to prowess. This item may not be stolen, transferred, or stored. May not be duplicated on a given character. 
+> > ***Only playable at Wellinghall*** in addition to an ally or faction that has been successfully played at _Wellinghall_ this turn. <br>&ensp;+1 to prowess. This item may not be stolen, transferred, or stored. May not be duplicated on a given character. 
 > > 
 > > {: .fs-3 } 
 > > _“...and yet there was some scent or savour in it which they could not describe...”_ ***---&#65279;LotRIII***  
@@ -12345,7 +12348,7 @@ permalink: /cards/all/
 > > _Lesser Ring._ ***Playable only with a Gold Ring and after a test indicates Lesser Ring.*** +2 to direct influence. 
 > > 
 > > {: .fs-3 } 
-> > _“‘The lesser rings were only essays in the craft before it was full-grown, and to the Elven-smiths they were but trifles-yet still to my mind dangerous for mortals.’”_ ***---&#65279;LotRI*** 
+> > _“‘The lesser rings were only essays in the craft before it was full-grown, and to the Elven-smiths they were but trifles---yet still to my mind dangerous for mortals.’”_ ***---&#65279;LotRI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -12431,9 +12434,12 @@ permalink: /cards/all/
 ---
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .p-1 .pl-2 }
+> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">3</div>
 > > <div class="card-name">Magic Ring of Words</div>
+>
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
+> > [+3 ![](/assets/images/di.svg)]
 >
 > {: .card-classification .pr-2 }
 > Special Item
@@ -12445,7 +12451,7 @@ permalink: /cards/all/
 > > _“But none were unmoved; none rejected its pleas and its commands...”_ ***---&#65279;LotRIII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【 +3[di] 】</div>
+> > <div class="card-shield"></div>
 > > <div class="card-corruption">〔 2 〕</div>
 
 ---
@@ -12505,7 +12511,7 @@ permalink: /cards/all/
 > > _Unique._ _Weapon._ +3 to prowess to a maximum of 9 (+4 prowess to a maximum of 10 against Orcs). 
 > > 
 > > {: .fs-3 } 
-> > _“They had called it Orcrist, Goblin-cleaver, but the Goblins called it simply Biter. They hated it and hated worse anyone that carried it."_ ***---&#65279;Hob*** 
+> > _“They had called it Orcrist, Goblin-cleaver, but the Goblins called it simply Biter. They hated it and hated worse any one that carried it."_ ***---&#65279;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +3/&ndash; 】</div>
@@ -12542,7 +12548,7 @@ permalink: /cards/all/
 > > _Unique._ _Palantir._ With its bearer able to use a Palantir, tap _Palantir of Annuminas_ to search through your play deck and discard pile for a "sage only" card. Put this card in your hand. Reshuffle your play deck. Bearer makes a corruption check. 
 > > 
 > > {: .fs-3 } 
-> > _“The Palantiri came from beyond Westernesse, from Eldamar."_ ***---&#65279;LotRIII*** 
+> > _“The palantiri come from beyond Westernesse, from Eldamar."_ ***---&#65279;LotRIII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -12742,7 +12748,7 @@ permalink: /cards/all/
 > > _Unique._ When a Gold Ring is tested in a company with the _Scroll of Isildur_, the result of the roll (or draw) is modified by +2. 
 > > 
 > > {: .fs-3 } 
-> > _“Yet even as I write it is cooled, and it seemeth to shrink, though it loseth neither its beauty nor its shape. Already the writing upon it, which was at first clear as red flame, fadeth and now only barely to be read."_ ***---&#65279;LotRII***  
+> > _“Yet even as I write it is cooled, and it seemeth to shrink, though it loseth neither its beauty nor its shape. Already the writing upon it, which was at first clear as red flame, fadeth and is now only barely to be read."_ ***---&#65279;LotRII***  
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -13109,7 +13115,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Only playable if The One Ring is at Mount Doom during the site phase.*** Its bearer must make a corruption check modified by -4. If successful, _The One Ring_ is destroyed and its bearer's player wins. 
+> > ***Only playable if The One Ring is at Mount Doom.*** Its bearer must make a corruption check modified by -4. If successful, _The One Ring_ is destroyed and its bearer's player wins. 
 > > 
 > > {: .fs-3 } 
 > > _“...on the brink of the chasm, at the very Crack of Doom, stood Frodo...”_ ***---&#65279;LotRVI*** 
@@ -13126,7 +13132,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Cancel one attack by Orcs, Trolls or Men. <br>&ensp'Alternatively, if _Gates of Morning_ is in play, the number of strikes from any attack is reduced to half its original number, rounded up. 
+> > Cancel one attack by Orcs, Trolls or Men. <br>&enspAlternatively, if _Gates of Morning_ is in play, the number of strikes from any attack is reduced to half its original number, rounded up. 
 > > 
 > > {: .fs-3 } 
 > > _“‘...How do you like being called swine by the muck-rakers of a dirty little wizard?' Many loud yells...answered him...”_ ***---&#65279;LotRIII*** 
@@ -13143,10 +13149,10 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Cancel one attack by Orcs, Trolls or Men. <br>&ensp'Alternatively, if _Gates of Morning_ is in play, the number of strikes from any attack is reduced to half its original number, rounded up. 
+> > Target character does not tap against one strike (unless he is wounded by the strike). If wounded by the strike, his body is modified by -1 for the resulting body check. 
 > > 
 > > {: .fs-3 } 
-> > _“‘...How do you like being called swine by the muck-rakers of a dirty little wizard?' Many loud yells...answered him...”_ ***---&#65279;LotRIII*** 
+> > _“A quick duck had saved him; and he had felled his orc: a sturdy thrust with his Barrow-blade."_ ***---&#65279;LotRII*** 
 > 
 
 ---
@@ -13304,10 +13310,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable at the end of the organization phase*** if target company plays a new site card. The hazard limit for the target company decreases by one for every Wilderness \[![](/assets/images/wilderness.svg)] in its site path (to a minimum of two). Cannot be duplicated on the same company. 
-> > 
-> > {: .fs-3 } 
-> > _“...there was a break in the wall of trees...”_ ***---&#65279;LotRI*** 
+> > ***Playable at the end of the organization phase*** if target company plays a new site card. The hazard limit for the target company decreases by one for every Wilderness \[![](/assets/images/wilderness.svg)] in its site path (to a minimum of two). Cannot be duplicated on the same company.
 > 
 
 ---
@@ -13352,7 +13355,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Only playable at a Haven*** \[![](/assets/images/free-haven.svg)] ***during the organization phase*** on a company that has four or more characters and allies. +1 to prowess and +1 to corruption checks for all characters and allies in the company. Discard this card if a character or ally joins or leaves the company for any reason. 
+> > ***Only playable at a Haven*** \[![](/assets/images/free-haven.svg)] ***during the organization phase on a company that has four or more characters and allies.*** +1 to prowess and +1 to corruption checks for all characters and allies in the company. Discard this card if a character or ally joins or leaves the company for any reason. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +1/&ndash; 】</div>
@@ -13674,7 +13677,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable at the end of the organization phase on a company containing a ranger.*** If the company uses region cards for its site path, tap the ranger to move as if the following pairs of regions were adjacent: Ithilien and Gorgoroth, Ithilien and Nurn, Harondor and Nurn. The company faces an attack at the beginning of its movement/hazard phase: Orcs --- 4 strikes with 9 prowess. <br>&ensp;Otherwise, if the site moved to is in one of the regions listed above, the hazard limit is reduced by two (to a minimum of two). <br>&ensp;Cannot be duplicated on a given company. 
+> > ***Playable at the end of the organization phase on a company containing a ranger.*** If the company uses region cards for its site path, tap the ranger to move as if the following pairs of regions were adjacent: Ithilien and Gorgoroth, Ithilien and Nurn, Harondor and Nurn. The company faces an attack at the beginning of its movement/hazard phase: Orcs --- 4 strikes with 9 prowess. <br>&ensp;Otherwise, if the site moved to is in one of the regions listed above, the hazard limit is reduced by 2 (to a minimum of 2). <br>&ensp;Cannot be duplicated on a given company. 
 > 
 
 ---
@@ -13804,7 +13807,7 @@ permalink: /cards/all/
 > > _**Diplomat only.**_ Make two rolls (or draw two #'s) when making an influence check and choose one result to use. 
 > > 
 > > {: .fs-3 } 
-> > _“‘You speak justly, Lord,' said the pale man sitting upon the steps of the dais. '...and ill news is an ill guest they say.’”_ ***---&#65279;LotRIII***  
+> > _“‘You speak justly, lord,' said the pale man sitting upon the steps of the dais. '...and ill news is an ill guest they say.’”_ ***---&#65279;LotRIII***  
 > 
 
 ---
@@ -13863,7 +13866,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable at an already tapped Dark-hold*** \[![](/assets/images/dark-hold.svg)] ***or Shadow-hold*** \[![](/assets/images/shadow-hold.svg)] ***during the site phase.*** The company faces a spider attack (2 strikes with 7 prowess). If no characters are untapped after the attack, discard _Rescue Prisoners._ Otherwise, you may tap 1 character in the company and put _Rescue Prisoners_ under his control. That character may not untap until _Rescue Prisoners_ is stored at a Haven \[![](/assets/images/free-haven.svg)], Border-hold \[![](/assets/images/border-hold.svg)], or Free-hold \[![](/assets/images/free-hold.svg)] during his organization phase. You receive the marshalling points for this card only when it is stored. <br>&ensp;Cannot be duplicated at a given site. 
+> > ***Playable at an already tapped Dark-hold*** \[![](/assets/images/dark-hold.svg)] ***or Shadow-hold*** \[![](/assets/images/shadow-hold.svg)] ***during the site phase.*** The company faces a spider attack (2 strikes with 7 prowess). If no characters are untapped after the attack, discard _Rescue Prisoners._ Otherwise, you may tap 1 character in the company and put _Rescue Prisoners_ under his control. That character may not untap until _Rescue Prisoners_ is stored at a Haven \[![](/assets/images/free-haven.svg)], Border-hold \[![](/assets/images/border-hold.svg)], or Free-hold \[![](/assets/images/free-hold.svg)] during his organization phase. <br>&ensp;Cannot be duplicated at a given site. 
 > 
 
 ---
@@ -13911,7 +13914,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Warrior only against one strike.*** +3 to prowess and -1 to body.*** 
+> > ***Warrior only against one strike.*** +3 to prowess and -1 to body. 
 > > 
 > > {: .fs-3 } 
 > > _“Fewer were they but they clove through the Southrons like a fire-bolt in a forest."_ ***---&#65279;LotRV*** 
@@ -14596,7 +14599,7 @@ permalink: /cards/all/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Men._ Five strikes. May also be played keyed to Andrast, Anfalas, Belfalas, Cardolan, Enedhwaith, Harondor, Lindon, Lebennin, and Old Pukel-land; and may also be played at Ruins & Lairs \[![](/assets/images/ruinlair.svg)] and Shadow-holds \[![](/assets/images/shadow-hold.svg)] in these regions. May also be played at any site in Elven Shores, Eriadoran Coast, Andrast Coast, Bay of Belfalas, or mouths of the Anduin. 
+> > _Men._ Five strikes. May also be played keyed to Andrast, Anfalas, Belfalas, Cardolan, Enedhwaith, Harondor, Lindon, Lebennin, and Old Pukel-land; and may also be played at Ruins & Lairs \[![](/assets/images/ruinlair.svg)] and Shadow-holds \[![](/assets/images/shadow-hold.svg)] in these regions. <br>&ensp;May also be played at any site in Elven Shores, Eriadoran Coast, Andrast Coast, Bay of Belfalas, or Mouths of the Anduin. 
 > > 
 > > {: .fs-3 } 
 > > _“...with black sails bellying in the wind."_ ***---&#65279;LotRV*** 
@@ -14682,7 +14685,7 @@ permalink: /cards/all/
 > > _Animals._ One strike. If any strike is successful, the defending company must return to its site of origin (defending characters are wounded normally). 
 > > 
 > > {: .fs-3 } 
-> > _“It is written, in margins of the 'Red Book,' that the horny Turtle-fish, the Fastitocalon, is most dreaded monster in the sea, and that he is as large as a islet."_ ***---&#65279;Kuduk&nbsp;Lore*** 
+> > _“It is written, in margins of the 'Red Book,' that the horny Turtle-fish, the Fastitocalon, is most dreaded of the monsters in the Sea, and that he is as large as a islet."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 15/&ndash; 】</div>
@@ -14891,7 +14894,7 @@ permalink: /cards/all/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ ***May be played at Irerock.*** _Dragon._ Two strikes. If _Doors of Night_ is in play, may also be played keyed to Grey Mountain Narrows, Iron Hills, Northern Rhovanion, and Withered Heath; and may also be played at sites in these regions. 
+> > _**Unique.**_ ***May be played at Irerock.*** _Dragon._ Two strikes. <br>&ensp;If _Doors of Night_ is in play, may also be played keyed to Grey Mountain Narrows, Iron Hills, Northern Rhovanion, and Withered Heath; and may also be played at sites in these regions. 
 > > 
 > > {: .fs-3 } 
 > > _“Dragons steal gold and jewels...”_ ***---&#65279;Hob***  
@@ -14908,7 +14911,7 @@ permalink: /cards/all/
 > > <div class="card-name">Mouth of Sauron</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/dark-hold.svg)
+> > ![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/dark-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature or Short-event
@@ -14968,7 +14971,7 @@ permalink: /cards/all/
 > > <div class="card-name">Olog-hai (Trolls)</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/dark-hold.svg)
+> > ![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/dark-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -14977,7 +14980,7 @@ permalink: /cards/all/
 > > _Trolls._ Three strikes. 
 > > 
 > > {: .fs-3 } 
-> > _“They bore round bucklers huge and black and wielded heavy hammers in their knotted hands. Reckless they sprang into pools and waded across bellowing as they came."_ ***---&#65279;LotRV*** 
+> > _“...they bore round bucklers huge and black and wielded heavy hammers in their knotted hands. Reckless they sprang into pools and waded across bellowing as they came."_ ***---&#65279;LotRV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 10/5 】</div>
@@ -15218,7 +15221,7 @@ permalink: /cards/all/
 > > <div class="card-name">Rogrog</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)
+> > ![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -15307,7 +15310,7 @@ permalink: /cards/all/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ May be played at The Lonely Mountain. _Dragon._ Two strikes. Attacker chooses defending character. <br>&ensp;If _Doors of Night_ is in play, may also be played keyed to Grey Mountain Narrows, Iron Hills, Northern Rhovanion, and Withered Heath; and may also be played at sites in these regions. 
+> > _**Unique.**_ ***May be played at The Lonely Mountain.*** _Dragon._ Two strikes. Attacker chooses defending character. <br>&ensp;If _Doors of Night_ is in play, may also be played keyed to Grey Mountain Narrows, Iron Hills, Northern Rhovanion, and Withered Heath; and may also be played at sites in these regions. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 17/8 】</div>
@@ -15708,7 +15711,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ When Doors of Night is played, all resource environment cards in play are immediately discarded, and all resource environment effects are canceled. <br>&ensp;Cannot be duplicated. 
+> > _Environment._ When _Doors of Night_ is played, all resource environment cards in play are immediately discarded, and all resource environment effects are canceled. <br>&ensp;Cannot be duplicated. 
 > > 
 > > {: .fs-3 } 
 > > _“...already the fire in the sky was burning out, and the smouldering hills were fading, while ash-grey evening crept over the fields."_ ***---&#65279;LotRV*** 
@@ -15976,7 +15979,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Corruption._ Does not affect Hobbits and Wizards. A character receives 2 corruption points. Target character makes a corruption check each time a character in his company gains an item (including special rings). <br>&ensp;Cannot be duplicated on a given character. During his organization phase, a character with this card may tap to attempt to remove it. Make a roll (or draw a #): if this result is greater than 5, discard this card. 
+> > _Corruption._ Does not affect Hobbits and Wizards. A character receives 2 corruption points. Target character makes a corruption check each time a character in his company gains an item (including special rings). Cannot be duplicated on a given character. <br>&ensp;During his organization phase, a character with this card may tap to attempt to remove it. Make a roll (or draw a #): if this result is greater than 5, discard this card. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -16095,7 +16098,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > A Nazgul's prowess is modified by +2. Discard if attack doesn't wound a character. <br>&ensp;_Corruption._ One character (attacker's choice) wounded by an attack modified by this card receives 4 corruption points (place this card under the character). <br>&ensp;If at a Haven during his untap phase, a character with this card may attempt to remove it (but not untap or heal). Make a roll (or draw a #): if this result is greater than 4, discard this card. <br>&ensp;Cannot be duplicated on a given Nazgul. 
+> > A Nazgul's prowess is modified by +2. Discard if attack doesn't wound a character. <br>&ensp;_Corruption._ One character (attacker's choice) wounded by an attack modified by this card receives 4 corruption points (place this card under the character). <br>&ensp;If at a Haven during his untap phase, a character with this card may attempt to remove it (but he may not untap or heal). Make a roll (or draw a #): if this result is greater than 4, discard this card. <br>&ensp;Cannot be duplicated on a given Nazgul. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -16194,7 +16197,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > ***Playable on a Border-hold \[![](/assets/images/border-hold.svg)] or Free-hold \[![](/assets/images/free-hold.svg)] site.*** A company at this site must face an Orc attack of three strikes at 7 prowess at the beginning of its site phase. <br>&ensp;At the end of its organization phase, a company at a site with _Siege_ on it must make a roll (or draw a #) and subtract one from the result for every non-scout character it contains. If this result is less than 5, the company may not move this turn. <br>&ensp;Discard when the site card is discarded or when the site card is returned to the location deck. <br>&ensp;Cannot be duplicated on a given site. 
+> > ***Playable on a Border-hold*** \[![](/assets/images/border-hold.svg)] ***or Free-hold*** \[![](/assets/images/free-hold.svg)] ***site.*** A company at this site must face an Orc attack of three strikes at 7 prowess at the beginning of its site phase. <br>&ensp;At the end of its organization phase, a company at a site with _Siege_ on it must make a roll (or draw a #) and subtract one from the result for every non-scout character it contains. If this result is less than 5, the company may not move this turn. <br>&ensp;Discard when the site card is discarded or when the site card is returned to the location deck. <br>&ensp;Cannot be duplicated on a given site. 
 >
 
 ---
@@ -16228,7 +16231,7 @@ permalink: /cards/all/
 > > _Environment._ Playable only if _Doors of Night_ is in play. Each non-Haven site in play with a Coastal Sea \[![](/assets/images/coastalsea.svg)] in its site path is tapped. <br>&ensp;Cannot be duplicated. 
 > > 
 > > {: .fs-3 } 
-> > _“Like Voronme of old, they fought the wrath of Osse and rode high upon the wings of the storm, far above the deeps of the Sea."_ ***---&#65279;Kuduk&nbsp;Lore*** 
+> > _“Like Voronwe of old, they fought the wrath of Osse and rode high upon the wings of the storm, far above the deeps of the Sea."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 >
 
 ---
@@ -16245,7 +16248,7 @@ permalink: /cards/all/
 > > _**Unique.**_ Each character has the corruption points doubled for one of his sources of corruption (the player controlling the character chooses).  
 > > 
 > > {: .fs-3 } 
-> > _“...they came out of the West and were messengers sent to contest the power of Sauron, ...but they were forbidden to match his power with power...”_ ***---&#65279;LotR*** 
+> > _“...they came out of the Far West and were messengers sent to contest the power of Sauron, ...but they were forbidden to match his power with power...”_ ***---&#65279;LotR*** 
 >
 
 ---
@@ -16259,7 +16262,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Corruption._ ***Playable on an Elf not in a Haven*** \[![](/assets/images/free-haven.svg)]. Target Elf receives 2 corruption points and must make a corruption check during each of his untap phases if he is not at a Haven. Cannot be duplicated on a given Elf. <br>&ensp;During his organization phase, an Elf with this card may tap to attempt to remove it. Make a roll (or draw a #): if this result is greater than 7, discard this card. 
+> > _Corruption._ ***Playable on an Elf not in a Haven*** \[![](/assets/images/free-haven.svg)]. Target Elf receives 2 corruption points and must make a corruption check during each of his untap phases if he is not in a Haven. Cannot be duplicated on a given Elf. <br>&ensp;During his organization phase, an Elf with this card may tap to attempt to remove it. Make a roll (or draw a #): if this result is greater than 7, discard this card. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -16327,7 +16330,7 @@ permalink: /cards/all/
 > > The bearer of a Ring must make a corruption check modified by -2. If the bearer fails this corruption check, his Ring is discarded, but he remains in play. 
 > > 
 > > {: .fs-3 } 
-> > _“Isildur was marching north along the east banks of the river... He leapt into the waters, but the Ring slipped from his finger as he swam, and then the Orcs saw him and killed him with arrows."_ ***---&#65279;LotRI*** 
+> > _“Isildur was marching north along the east banks of the River... He leapt into the waters, but the Ring slipped from his finger as he swam, and then the Orcs saw him and killed him with arrows."_ ***---&#65279;LotRI*** 
 >
 
 ---
@@ -16358,7 +16361,7 @@ permalink: /cards/all/
 > > The bearer of _The One Ring_ makes a corruption check modified by -4. 
 > > 
 > > {: .fs-3 } 
-> > _“He heard himself crying out: 'Never, never!' Or was it 'Verily I come, I come to you'? He could not tell."_ ***---&#65279;LotRII*** 
+> > _“He heard himself crying out: 'Never, never!' Or was it: 'Verily I come, I come to you'? He could not tell."_ ***---&#65279;LotRII*** 
 >
 
 ---
@@ -16497,7 +16500,7 @@ permalink: /cards/all/
 > > _**Nearest Haven:**_ Rivendell  
 > > 
 > > {: .fs-3 } 
-> > _“In a hole in ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down or to eat: it was a hobbit-hole and that means comfort."_ ***---&#65279;Hob*** 
+> > _“In a hole in ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat: it was a hobbit-hole and that means comfort."_ ***---&#65279;Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -17270,7 +17273,7 @@ permalink: /cards/all/
 > > _**Nearest Haven:**_ Lorien  
 > > 
 > > {: .fs-3 } 
-> > _“It was not built on the shore...but right out on the surface of the lake, protected from the swirl of the entering river by a promontory of rock which formed a calm bay. A great bridge made of wood ran out to where on huge piles of forest trees was built a busy wooden town...”_ ***---&#65279;LotRI*** 
+> > _“It was not built on the shore...but right out on the surface of the lake, protected from the swirl of the entering river by a promontory of rock which formed a calm bay. A great bridge made of wood ran out to where on huge piles of forest trees was built a busy wooden town...”_ ***---&#65279;Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -17517,7 +17520,7 @@ permalink: /cards/all/
 > > _**Nearest Haven:**_ Rivendell <br>_**Special:**_ Healing Cards affect all characters at the site  
 > > 
 > > {: .fs-3 } 
-> > _“‘For you are still afraid, perhaps, of mist and tree-shadows and deep water, and untame things. Fear Nothing!’”_ ***---&#65279;LotRI*** 
+> > _“‘For you are still afraid, perhaps, of mist and tree-shadows and deep water, and untame things. Fear nothing!’”_ ***---&#65279;LotRI*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -17603,7 +17606,7 @@ permalink: /cards/all/
 > Rhudaur
 >
 > {: .hero-site-text .black-text .p-2 }
-> > ***Site Path From Lorien:*** <br>&emsp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg) <br>***Site Path From Grey Havens:*** <br>&emsp;![](/assets/images/free-domain.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg) 
+> > ***Site Path From Lorien:*** ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg) <br>***Site Path From Grey Havens:*** ![](/assets/images/free-domain.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg) 
 > > 
 > > {: .fs-3 } 
 > > _“‘His house was perfect, whether you liked food, or sleep, or work, or story-telling, or singing, or just sitting and thinking best, or a pleasant mixture of them all. Evil things did not come into that valley.’”_ ***---&#65279;Hob*** 
@@ -40249,7 +40252,7 @@ permalink: /cards/all/
 > Warrior/Scout/Ranger/Diplomat Wizard
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ If his company moves to a new site during the movement/hazard phase, he may draw 1 additional card for each Wilderness \[![](/assets/images/wilderness.svg)] region in his company's site path. <br>&ensp;+1 to all of his corruption checks. 
+> > _**Unique.**_ When Radagast's new site is revealed, he may draw one additional card for each Wilderness \[![](/assets/images/wilderness.svg)] in his company's site path. <br>&ensp;+1 to all of his corruption checks. 
 > > 
 > > {: .fs-3 } 
 > > _“‘...a worthy wizard...has much lore of herbs and beasts...’”_ ***---&#65279;LotRII***  
@@ -41933,7 +41936,7 @@ permalink: /cards/all/
 > > _“‘They are old swords, very old swords of the High Elves of the West, my kin. They were made in Gondolin for the Goblin-wars.’”_ ***---&#65279;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【 +2/&ndash; 】</div>
+> > <div class="card-shield">【 (+2)/&ndash; 】</div>
 > > <div class="card-corruption">〔 2 〕</div>
 
 ---

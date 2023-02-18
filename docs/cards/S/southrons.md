@@ -25,7 +25,7 @@ permalink: /cards/southrons/
 > > _**Unique.**_ ***Playable at Southron Oasis*** <br>&ensp;if the influence check is greater than 8.  <br>_Standard Modifications:_ Dunedain (-2), Elves (-2), Dwarves (-2). 
 > > 
 > > {: .fs-3 } 
-> > _“They are fierce...some have red paint on their cheeks, and red cloaks; and their flags are red, and the tips of their spears; and they have round shields, with yellow and black with big spikes."_ ***---&#65279;LotRIV*** 
+> > _“They are fierce...some have red paint on their cheeks, and red cloaks; and their flags are red, and the tips of their spears; and they have round shields, yellow and black with big spikes."_ ***---&#65279;LotRIV*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -42,7 +42,7 @@ permalink: /cards/southrons/
 > > _**Unique.**_ ***Playable at Southron Oasis*** <br>&ensp;if the influence check is greater than 8.  <br>_Standard Modifications:_ Dunedain (-2), Elves (-2), Dwarves (-2). 
 > > 
 > > {: .fs-3 } 
-> > _“They are fierce...some have red paint on their cheeks, and red cloaks; and their flags are red, and the tips of their spears; and they have round shields, with yellow and black with big spikes."_ ***---&#65279;LotRIV*** 
+> > _“They are fierce...some have red paint on their cheeks, and red cloaks; and their flags are red, and the tips of their spears; and they have round shields, yellow and black with big spikes."_ ***---&#65279;LotRIV*** 
 > 
 
 ### _Middle-earth: The Lidless Eye_

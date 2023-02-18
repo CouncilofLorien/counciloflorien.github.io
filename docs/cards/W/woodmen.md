@@ -25,7 +25,7 @@ permalink: /cards/woodmen/
 > > _**Unique.**_ ***Playable at Woodmen-town*** <br>&ensp;if the influence check is greater than 7. <br>_Standard Modifications:_ Men (+1). 
 > > 
 > > {: .fs-3 } 
-> > _“Most of the Men of the northern regions...were descended from the Edain of the first age, of from their close kin... Of this kind were the peoples of the upper vales of the Anduin: the Beornings, and the Woodmen of Western Mirkwood...”_ ***---&#65279;LotR*** 
+> > _“Most of the Men of the northern regions...were descended from the Edain of the first age, or from their close kin... Of this kind were the peoples of the upper vales of the Anduin: the Beornings, and the Woodmen of Western Mirkwood...”_ ***---&#65279;LotR*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -42,7 +42,7 @@ permalink: /cards/woodmen/
 > > _**Unique.**_ ***Playable at Woodmen-town*** <br>&ensp;if the influence check is greater than 7. <br>_Standard Modifications:_ Men (+1). 
 > > 
 > > {: .fs-3 } 
-> > _“Most of the Men of the northern regions...were descended from the Edain of the first age, of from their close kin... Of this kind were the peoples of the upper vales of the Anduin: the Beornings, and the Woodmen of Western Mirkwood...”_ ***---&#65279;LotR*** 
+> > _“Most of the Men of the northern regions...were descended from the Edain of the first age, or from their close kin... Of this kind were the peoples of the upper vales of the Anduin: the Beornings, and the Woodmen of Western Mirkwood...”_ ***---&#65279;LotR*** 
 > 
 
 ### _Middle-earth: The Lidless Eye_

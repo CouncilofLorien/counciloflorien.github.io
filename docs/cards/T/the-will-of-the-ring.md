@@ -25,7 +25,7 @@ permalink: /cards/the-will-of-the-ring/
 > > The bearer of _The One Ring_ makes a corruption check modified by -4. 
 > > 
 > > {: .fs-3 } 
-> > _“He heard himself crying out: 'Never, never!' Or was it 'Verily I come, I come to you'? He could not tell."_ ***---&#65279;LotRII*** 
+> > _“He heard himself crying out: 'Never, never!' Or was it: 'Verily I come, I come to you'? He could not tell."_ ***---&#65279;LotRII*** 
 >
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -42,5 +42,5 @@ permalink: /cards/the-will-of-the-ring/
 > > The bearer of _The One Ring_ makes a corruption check modified by -4. 
 > > 
 > > {: .fs-3 } 
-> > _“He heard himself crying out: 'Never, never!' Or was it 'Verily I come, I come to you'? He could not tell."_ ***---&#65279;LotRII*** 
+> > _“He heard himself crying out: 'Never, never!' Or was it: 'Verily I come, I come to you'? He could not tell."_ ***---&#65279;LotRII*** 
 >

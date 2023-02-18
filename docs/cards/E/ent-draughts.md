@@ -39,7 +39,7 @@ permalink: /cards/ent-draughts/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Only playable at Wellinghall*** in addition to an ally or faction that has been successfully played at Wellinghall this turn. +1 to prowess. This item may not be stolen, transferred, or stored. May not be duplicated on a given character. 
+> > ***Only playable at Wellinghall*** in addition to an ally or faction that has been successfully played at _Wellinghall_ this turn. <br>&ensp;+1 to prowess. This item may not be stolen, transferred, or stored. May not be duplicated on a given character. 
 > > 
 > > {: .fs-3 } 
 > > _“...and yet there was some scent or savour in it which they could not describe...”_ ***---&#65279;LotRIII***  

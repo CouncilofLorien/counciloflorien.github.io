@@ -28,7 +28,7 @@ permalink: /cards/lake-town/
 > > _**Nearest Haven:**_ Lorien  
 > > 
 > > {: .fs-3 } 
-> > _“It was not built on the shore...but right out on the surface of the lake, protected from the swirl of the entering river by a promontory of rock which formed a calm bay. A great bridge made of wood ran out to where on huge piles of forest trees was built a busy wooden town...”_ ***---&#65279;LotRI*** 
+> > _“It was not built on the shore...but right out on the surface of the lake, protected from the swirl of the entering river by a promontory of rock which formed a calm bay. A great bridge made of wood ran out to where on huge piles of forest trees was built a busy wooden town...”_ ***---&#65279;Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -51,7 +51,7 @@ permalink: /cards/lake-town/
 > > _**Nearest Haven:**_ Lorien  
 > > 
 > > {: .fs-3 } 
-> > _“It was not built on the shore...but right out on the surface of the lake, protected from the swirl of the entering river by a promontory of rock which formed a calm bay. A great bridge made of wood ran out to where on huge piles of forest trees was built a busy wooden town...”_ ***---&#65279;LotRI*** 
+> > _“It was not built on the shore...but right out on the surface of the lake, protected from the swirl of the entering river by a promontory of rock which formed a calm bay. A great bridge made of wood ran out to where on huge piles of forest trees was built a busy wooden town...”_ ***---&#65279;Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>

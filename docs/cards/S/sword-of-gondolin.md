@@ -88,5 +88,5 @@ permalink: /cards/sword-of-gondolin/
 > > _“‘They are old swords, very old swords of the High Elves of the West, my kin. They were made in Gondolin for the Goblin-wars.’”_ ***---&#65279;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【 +2/&ndash; 】</div>
+> > <div class="card-shield">【 (+2)/&ndash; 】</div>
 > > <div class="card-corruption">〔 2 〕</div>

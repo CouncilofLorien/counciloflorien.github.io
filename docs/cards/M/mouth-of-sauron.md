@@ -19,7 +19,7 @@ permalink: /cards/mouth-of-sauron/
 > > <div class="card-name">Mouth of Sauron</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/dark-hold.svg)
+> > ![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/dark-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature or Short-event
@@ -42,7 +42,7 @@ permalink: /cards/mouth-of-sauron/
 > > <div class="card-name">Mouth of Sauron</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/dark-hold.svg)
+> > ![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/dark-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature or Short-event

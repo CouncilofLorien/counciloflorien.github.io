@@ -22,7 +22,7 @@ permalink: /cards/mountains-of-shadow/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable at the end of the organization phase on a company containing a ranger.*** If the company uses region cards for its site path, tap the ranger to move as if the following pairs of regions were adjacent: Ithilien and Gorgoroth, Ithilien and Nurn, Harondor and Nurn. The company faces an attack at the beginning of its movement/hazard phase: Orcs --- 4 strikes with 9 prowess. <br>&ensp;Otherwise, if the site moved to is in one of the regions listed above, the hazard limit is reduced by two (to a minimum of two). <br>&ensp;Cannot be duplicated on a given company. 
+> > ***Playable at the end of the organization phase on a company containing a ranger.*** If the company uses region cards for its site path, tap the ranger to move as if the following pairs of regions were adjacent: Ithilien and Gorgoroth, Ithilien and Nurn, Harondor and Nurn. The company faces an attack at the beginning of its movement/hazard phase: Orcs --- 4 strikes with 9 prowess. <br>&ensp;Otherwise, if the site moved to is in one of the regions listed above, the hazard limit is reduced by 2 (to a minimum of 2). <br>&ensp;Cannot be duplicated on a given company. 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,5 +36,5 @@ permalink: /cards/mountains-of-shadow/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable at the end of the organization phase on a company containing a ranger.*** If the company uses region cards for its site path, tap the ranger to move as if the following pairs of regions were adjacent: Ithilien and Gorgoroth, Ithilien and Nurn, Harondor and Nurn. The company faces an attack at the beginning of its movement/hazard phase: Orcs --- 4 strikes with 9 prowess. <br>&ensp;Otherwise, if the site moved to is in one of the regions listed above, the hazard limit is reduced by two (to a minimum of two). <br>&ensp;Cannot be duplicated on a given company. 
+> > ***Playable at the end of the organization phase on a company containing a ranger.*** If the company uses region cards for its site path, tap the ranger to move as if the following pairs of regions were adjacent: Ithilien and Gorgoroth, Ithilien and Nurn, Harondor and Nurn. The company faces an attack at the beginning of its movement/hazard phase: Orcs --- 4 strikes with 9 prowess. <br>&ensp;Otherwise, if the site moved to is in one of the regions listed above, the hazard limit is reduced by 2 (to a minimum of 2). <br>&ensp;Cannot be duplicated on a given company. 
 > 

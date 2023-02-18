@@ -25,7 +25,7 @@ permalink: /cards/dain-ii/
 > Warrior/Diplomat Dwarf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against Iron Hill Dwarves. +2 prowess against Orcs. <br>&ensp;+1 direct influence against Men and Man factions. 
+> > _**Unique.**_ +2 direct influence against Iron Hill Dwarves. +2 prowess against Orcs. +1 direct influence against Men and Man factions. 
 > > 
 > > {: .fs-3 } 
 > > _“...Dain...became King under the Mountain, and...many other dwarves gathered to his throne...”_ ***---&#65279;Hob***  
@@ -51,7 +51,7 @@ permalink: /cards/dain-ii/
 > Warrior/Diplomat Dwarf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Iron Hill Dwarves faction. +2 prowess against Orcs. <br>&ensp;+1 direct influence against Men and Man factions. 
+> > _**Unique.**_ +2 direct influence against the Iron Hill Dwarves faction. +2 prowess against Orcs. +1 direct influence against Men and Man factions. 
 > > 
 > > {: .fs-3 } 
 > > _“...Dain...became King under the Mountain, and...many other dwarves gathered to his throne...”_ ***---&#65279;Hob***  

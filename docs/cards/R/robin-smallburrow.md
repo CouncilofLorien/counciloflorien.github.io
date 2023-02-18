@@ -28,7 +28,7 @@ permalink: /cards/robin-smallburrow/
 > > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +2. 
 > > 
 > > {: .fs-3 } 
-> > _“‘...I went for a Shirrif... Gave me a chance of walking round the country and seeing folk, and hearing the news...’”_ ***---&#65279;LotRVI***  
+> > _“‘...I went for a Shirriff... Gave me a chance of walking round the country and seeing folk, and hearing the news...’”_ ***---&#65279;LotRVI***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Bag End 
@@ -54,7 +54,7 @@ permalink: /cards/robin-smallburrow/
 > > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +2. 
 > > 
 > > {: .fs-3 } 
-> > _“‘...I went for a Shirrif... Gave me a chance of walking round the country and seeing folk, and hearing the news...’”_ ***---&#65279;LotRVI***  
+> > _“‘...I went for a Shirriff... Gave me a chance of walking round the country and seeing folk, and hearing the news...’”_ ***---&#65279;LotRVI***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Bag End 

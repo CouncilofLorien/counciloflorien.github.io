@@ -14,9 +14,12 @@ permalink: /cards/magic-ring-of-words/
 ### _Middle-earth: The Wizards Limited_
 
 {: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .p-1 .pl-2 }
+> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">3</div>
 > > <div class="card-name">Magic Ring of Words</div>
+>
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
+> > [+3 ![](/assets/images/di.svg)]
 >
 > {: .card-classification .pr-2 }
 > Special Item
@@ -28,15 +31,18 @@ permalink: /cards/magic-ring-of-words/
 > > _“But none were unmoved; none rejected its pleas and its commands...”_ ***---&#65279;LotRIII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【 +3[di] 】</div>
+> > <div class="card-shield"></div>
 > > <div class="card-corruption">〔 2 〕</div>
 
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .p-1 .pl-2 }
+> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">3</div>
 > > <div class="card-name">Magic Ring of Words</div>
+>
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
+> > [+3 ![](/assets/images/di.svg)]
 >
 > {: .card-classification .pr-2 }
 > Special Item
@@ -48,5 +54,5 @@ permalink: /cards/magic-ring-of-words/
 > > _“But none were unmoved; none rejected its pleas and its commands...”_ ***---&#65279;LotRIII*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【 +3[di] 】</div>
+> > <div class="card-shield"></div>
 > > <div class="card-corruption">〔 2 〕</div>

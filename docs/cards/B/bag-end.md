@@ -28,7 +28,7 @@ permalink: /cards/bag-end/
 > > _**Nearest Haven:**_ Rivendell  
 > > 
 > > {: .fs-3 } 
-> > _“In a hole in ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down or to eat: it was a hobbit-hole and that means comfort."_ ***---&#65279;Hob*** 
+> > _“In a hole in ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat: it was a hobbit-hole and that means comfort."_ ***---&#65279;Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -51,7 +51,7 @@ permalink: /cards/bag-end/
 > > _**Nearest Haven:**_ Rivendell  
 > > 
 > > {: .fs-3 } 
-> > _“In a hole in ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down or to eat: it was a hobbit-hole and that means comfort."_ ***---&#65279;Hob*** 
+> > _“In a hole in ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat: it was a hobbit-hole and that means comfort."_ ***---&#65279;Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>

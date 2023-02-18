@@ -25,7 +25,7 @@ permalink: /cards/the-rings-betrayal/
 > > The bearer of a Ring must make a corruption check modified by -2. If the bearer fails this corruption check, his Ring is discarded, but he remains in play. 
 > > 
 > > {: .fs-3 } 
-> > _“Isildur was marching north along the east banks of the river... He leapt into the waters, but the Ring slipped from his finger as he swam, and then the Orcs saw him and killed him with arrows."_ ***---&#65279;LotRI*** 
+> > _“Isildur was marching north along the east banks of the River... He leapt into the waters, but the Ring slipped from his finger as he swam, and then the Orcs saw him and killed him with arrows."_ ***---&#65279;LotRI*** 
 >
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -42,7 +42,7 @@ permalink: /cards/the-rings-betrayal/
 > > The bearer of a Ring must make a corruption check modified by -2. If the bearer fails this corruption check, his Ring is discarded, but he remains in play. 
 > > 
 > > {: .fs-3 } 
-> > _“Isildur was marching north along the east banks of the river... He leapt into the waters, but the Ring slipped from his finger as he swam, and then the Orcs saw him and killed him with arrows."_ ***---&#65279;LotRI*** 
+> > _“Isildur was marching north along the east banks of the River... He leapt into the waters, but the Ring slipped from his finger as he swam, and then the Orcs saw him and killed him with arrows."_ ***---&#65279;LotRI*** 
 >
 
 ### _Middle-earth Challenge Decks_

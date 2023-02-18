@@ -39,8 +39,5 @@ permalink: /cards/fair-travels-in-wilderness/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable at the end of the organization phase*** if target company plays a new site card. The hazard limit for the target company decreases by one for every Wilderness \[![](/assets/images/wilderness.svg)] in its site path (to a minimum of two). Cannot be duplicated on the same company. 
-> > 
-> > {: .fs-3 } 
-> > _“...there was a break in the wall of trees...”_ ***---&#65279;LotRI*** 
+> > ***Playable at the end of the organization phase*** if target company plays a new site card. The hazard limit for the target company decreases by one for every Wilderness \[![](/assets/images/wilderness.svg)] in its site path (to a minimum of two). Cannot be duplicated on the same company.
 > 

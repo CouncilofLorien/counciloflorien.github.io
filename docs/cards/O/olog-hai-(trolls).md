@@ -28,7 +28,7 @@ permalink: /cards/olog-hai-(trolls)/
 > > _Trolls._ Three strikes. 
 > > 
 > > {: .fs-3 } 
-> > _“They bore round bucklers huge and black and wielded heavy hammers in their knotted hands. Reckless they sprang into pools and waded across bellowing as they came."_ ***---&#65279;LotRV*** 
+> > _“...they bore round bucklers huge and black and wielded heavy hammers in their knotted hands. Reckless they sprang into pools and waded across bellowing as they came."_ ***---&#65279;LotRV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 10/5 】</div>
@@ -42,7 +42,7 @@ permalink: /cards/olog-hai-(trolls)/
 > > <div class="card-name">Olog-hai (Trolls)</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/dark-hold.svg)
+> > ![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/dark-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -51,7 +51,7 @@ permalink: /cards/olog-hai-(trolls)/
 > > _Trolls._ Three strikes. 
 > > 
 > > {: .fs-3 } 
-> > _“They bore round bucklers huge and black and wielded heavy hammers in their knotted hands. Reckless they sprang into pools and waded across bellowing as they came."_ ***---&#65279;LotRV*** 
+> > _“...they bore round bucklers huge and black and wielded heavy hammers in their knotted hands. Reckless they sprang into pools and waded across bellowing as they came."_ ***---&#65279;LotRV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 10/5 】</div>

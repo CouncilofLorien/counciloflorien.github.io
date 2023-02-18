@@ -51,7 +51,7 @@ permalink: /cards/radagast/
 > Warrior/Scout/Ranger/Diplomat Wizard
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ WHen Radagast's new site is revealed, he may draw one additional card for each Wilderness \[![](/assets/images/wilderness.svg)] in his company's site path. <br>&ensp;+1 to all of his corruption checks. 
+> > _**Unique.**_ If his company moves to a new site during the movement/hazard phase, he may draw 1 additional card for each Wilderness \[![](/assets/images/wilderness.svg)] region in his company's site path. <br>&ensp;+1 to all of his corruption checks. 
 > > 
 > > {: .fs-3 } 
 > > _“‘...a worthy wizard...has much lore of herbs and beasts...’”_ ***---&#65279;LotRII***  
@@ -100,7 +100,7 @@ permalink: /cards/radagast/
 > Warrior/Scout/Ranger/Diplomat Wizard
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ If his company moves to a new site during the movement/hazard phase, he may draw 1 additional card for each Wilderness \[![](/assets/images/wilderness.svg)] region in his company's site path. <br>&ensp;+1 to all of his corruption checks. 
+> > _**Unique.**_ When Radagast's new site is revealed, he may draw one additional card for each Wilderness \[![](/assets/images/wilderness.svg)] in his company's site path. <br>&ensp;+1 to all of his corruption checks. 
 > > 
 > > {: .fs-3 } 
 > > _“‘...a worthy wizard...has much lore of herbs and beasts...’”_ ***---&#65279;LotRII***  
