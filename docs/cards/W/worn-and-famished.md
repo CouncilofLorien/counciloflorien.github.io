@@ -22,7 +22,7 @@ permalink: /cards/worn-and-famished/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Each non-Wizard character that is not in a Haven <nobr>[<img src="/assets/images/free-haven.svg">], Free-hold [<img src="/assets/images/free-hold.svg">], or Border-hold [<img src="/assets/images/border-hold.svg">]</nobr> does **not** untap normally during his untap phase. Such a character may instead make a roll (or draw a #) adding his mind stat. If the result is greater than 12, he untaps. <br>&ensp;Cannot be duplicated. 
+> > Each non-Wizard character that is not in a Haven <nobr>[<img src="/assets/images/free-haven.svg">]</nobr>, Free-hold <nobr>[<img src="/assets/images/free-hold.svg">]</nobr>, or Border-hold <nobr>[<img src="/assets/images/border-hold.svg">]</nobr> does **not** untap normally during his untap phase. Such a character may instead make a roll (or draw a #) adding his mind stat. If the result is greater than 12, he untaps. <br>&ensp;Cannot be duplicated. 
 > > 
 > > {: .fs-3 } 
 > > _“‘We are worn and famished after out long road and we have sick comrades.’”_ ***---&#65279;Hob*** 
