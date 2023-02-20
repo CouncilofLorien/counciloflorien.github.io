@@ -22,7 +22,7 @@ permalink: /cards/new-moon/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ Tap one Elf character. <br>&ensp;Alternatively, if _Doors of Night_ is in play, treat one Free-domain \[![](/assets/images/free-domain.svg)] as a Border-land \[![](/assets/images/border-land.svg)] **or** one Free-hold \[![](/assets/images/free-hold.svg)] as a Border-hold \[![](/assets/images/border-hold.svg)] until the end of the turn. <br>&ensp;Cannot be duplicated. 
+> > _Environment._ Tap one Elf character. <br>&ensp;Alternatively, if _Doors of Night_ is in play, treat one Free-domain <nobr>[<img src="/assets/images/free-domain.svg">]</nobr> as a Border-land <nobr>[<img src="/assets/images/border-land.svg">]</nobr> **or** one Free-hold <nobr>[<img src="/assets/images/free-hold.svg">]</nobr> as a Border-hold <nobr>[<img src="/assets/images/border-hold.svg">]</nobr> until the end of the turn. <br>&ensp;Cannot be duplicated. 
 > > 
 > > {: .fs-3 } 
 > > _“‘It's very strange,' he murmured, '...a New Moon as thin as a nail-pairing...’”_ ***---&#65279;LotRII*** 
@@ -39,7 +39,7 @@ permalink: /cards/new-moon/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ Tap one Elf character. <br>&ensp;Alternatively, if _Doors of Night_ is in play, treat one Free-domain \[![](/assets/images/free-domain.svg)] as a Border-land \[![](/assets/images/border-land.svg)] **or** one Free-hold \[![](/assets/images/free-hold.svg)] as a Border-hold \[![](/assets/images/border-hold.svg)] until the end of the turn. <br>&ensp;Cannot be duplicated. 
+> > _Environment._ Tap one Elf character. <br>&ensp;Alternatively, if _Doors of Night_ is in play, treat one Free-domain <nobr>[<img src="/assets/images/free-domain.svg">]</nobr> as a Border-land <nobr>[<img src="/assets/images/border-land.svg">]</nobr> **or** one Free-hold <nobr>[<img src="/assets/images/free-hold.svg">]</nobr> as a Border-hold <nobr>[<img src="/assets/images/border-hold.svg">]</nobr> until the end of the turn. <br>&ensp;Cannot be duplicated. 
 > > 
 > > {: .fs-3 } 
 > > _“‘It's very strange,' he murmured, '...a New Moon as thin as a nail-pairing...’”_ ***---&#65279;LotRII*** 

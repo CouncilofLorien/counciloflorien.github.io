@@ -22,5 +22,5 @@ permalink: /cards/riven-gate/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Magic._ _Sorcery._ ***Playable on a sorcery-using character when facing the automatic-attack at a Border-hold*** \[![](/assets/images/border-hold.svg)]. All automatic-attacks at the site are canceled, and any influence attempt against a faction at the site this turn is modified by +2. Unless he is a Ringwraith, he makes a corruption check modified by -4. 
+> > _Magic._ _Sorcery._ ***Playable on a sorcery-using character when facing the automatic-attack at a Border-hold*** <nobr>[<img src="/assets/images/border-hold.svg">]</nobr>. All automatic-attacks at the site are canceled, and any influence attempt against a faction at the site this turn is modified by +2. Unless he is a Ringwraith, he makes a corruption check modified by -4. 
 > 

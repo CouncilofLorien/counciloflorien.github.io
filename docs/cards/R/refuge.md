@@ -22,5 +22,5 @@ permalink: /cards/refuge/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable only if you discard an Elf from your hand and only at the end of the organization phase on a company using region cards with the last one being a Wilderness \[![](/assets/images/wilderness.svg)].*** _(Play regions face-up)._ This card is used as a site card, Free-hold \[![](/assets/images/free-hold.svg)] (cards drawn: 1/1). The company may only leave this site using region movement. Characters at this site heal as though they were in a Haven \[![](/assets/images/free-haven.svg)]. Discard _Refuge_ when the company moves to a new site. 
+> > ***Playable only if you discard an Elf from your hand and only at the end of the organization phase on a company using region cards with the last one being a Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr>.*** _(Play regions face-up)._ This card is used as a site card, Free-hold <nobr>[<img src="/assets/images/free-hold.svg">]</nobr> (cards drawn: 1/1). The company may only leave this site using region movement. Characters at this site heal as though they were in a Haven <nobr>[<img src="/assets/images/free-haven.svg">]</nobr>. Discard _Refuge_ when the company moves to a new site. 
 > 

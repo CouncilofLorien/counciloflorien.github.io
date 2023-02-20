@@ -25,7 +25,7 @@ permalink: /cards/uvatha-the-ringwraith/
 > Warrior/Scout/Ranger Ringwraith
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ _Manifestation of Uvatha the Horseman._ Can use spirit-magic. -3 direct influence in Heralded Lord mode. -1 prowess in Fell Rider mode. He may join another Ringwraith's company during your organization phase and requires no influence to control. As your Ringwraith, if at a Darkhaven \[![](/assets/images/dark-haven.svg)], he may tap during your organization phase to move one resource event card from your discard pile to your play deck and reshuffle.   
+> > _**Unique.**_ _Manifestation of Uvatha the Horseman._ Can use spirit-magic. -3 direct influence in Heralded Lord mode. -1 prowess in Fell Rider mode. He may join another Ringwraith's company during your organization phase and requires no influence to control. As your Ringwraith, if at a Darkhaven <nobr>[<img src="/assets/images/dark-haven.svg">]</nobr>, he may tap during your organization phase to move one resource event card from your discard pile to your play deck and reshuffle.   
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Any site in Khand 

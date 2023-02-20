@@ -25,5 +25,5 @@ permalink: /cards/war-forges/
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > ***Playable on one of your protected Wizardhavens*** \[![](/assets/images/free-haven.svg)] _(not by Radagast)._ You may tap _War-forges_ to make an additional non-hoard, non-unique minor item playable at this site this turn (if the site is tapped or not). The item may be taken from your discard pile or sideboard. Discard when this site is discarded or returned to your location deck. Cannot be duplicated on a given site. 
+> > ***Playable on one of your protected Wizardhavens*** <nobr>[<img src="/assets/images/free-haven.svg">]</nobr> _(not by Radagast)._ You may tap _War-forges_ to make an additional non-hoard, non-unique minor item playable at this site this turn (if the site is tapped or not). The item may be taken from your discard pile or sideboard. Discard when this site is discarded or returned to your location deck. Cannot be duplicated on a given site. 
 > 

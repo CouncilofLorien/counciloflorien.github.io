@@ -25,5 +25,5 @@ permalink: /cards/a-strident-spawn/
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > ***Playable if you are Pallando or Saruman and have 6 or more stage points and a protected Wizardhaven*** \[![](/assets/images/free-haven.svg)]. Each of your Half-orcs requires one less point of influence to control. During your organization phase, you may take one Half-orc character from your discard pile to your hand. You may play Half-orc characters at your Wizardhavens \[![](/assets/images/free-haven.svg)], and even if your Fallen-wizard is not there. Cannot be duplicated by a given player. 
+> > ***Playable if you are Pallando or Saruman and have 6 or more stage points and a protected Wizardhaven*** <nobr>[<img src="/assets/images/free-haven.svg">]</nobr>. Each of your Half-orcs requires one less point of influence to control. During your organization phase, you may take one Half-orc character from your discard pile to your hand. You may play Half-orc characters at your Wizardhavens <nobr>[<img src="/assets/images/free-haven.svg">]</nobr>, and even if your Fallen-wizard is not there. Cannot be duplicated by a given player. 
 > 

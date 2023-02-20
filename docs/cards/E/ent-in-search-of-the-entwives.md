@@ -25,7 +25,7 @@ permalink: /cards/ent-in-search-of-the-entwives/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Awakened Plant._ One strike (detainment against covert and hero companies). If _Doors of Night_ is not in play, may also be played keyed to Shadow-lands \[![](/assets/images/shadow-land.svg)].   
+> > _Awakened Plant._ One strike (detainment against covert and hero companies). If _Doors of Night_ is not in play, may also be played keyed to Shadow-lands <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr>.   
 > > 
 > > {: .fs-3 } 
 > > _“‘...we used to go out every now and again and look for the Entwives, walking far and wide and calling...’”_ ***---&#65279;LotRIII*** 
@@ -48,7 +48,7 @@ permalink: /cards/ent-in-search-of-the-entwives/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Awakened Plant._ One strike (detainment against covert and hero companies). If Doors of Night is not in play, may also be played keyed to Shadow-lands \[![](/assets/images/shadow-land.svg)].   
+> > _Awakened Plant._ One strike (detainment against covert and hero companies). If Doors of Night is not in play, may also be played keyed to Shadow-lands <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr>.   
 > > 
 > > {: .fs-3 } 
 > > _“‘...we used to go out every now and again and look for the Entwives, walking far and wide and calling...’”_ ***---&#65279;LotRIII*** 

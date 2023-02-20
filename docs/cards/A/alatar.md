@@ -71,7 +71,7 @@ permalink: /cards/alatar/
 > Warrior/Scout/Ranger/Sage Fallen-wizard
 >
 > {: .character-text .black-text .p-2 }
-> > _Unique._ Hazards your companies defeat (even with *) are worth full kill marshalling points. If you have more than 7 stage points, all detainment attacks against your companies attack normally instead. If at one of his Wizardhavens \[![](/assets/images/free-haven.svg)] when a hazard creature attacks one of your companies, he may immediately join that company. Alatar must face a strike from the creature (in all cases). Following all of the creature's attacks, Alatar must tap (if untapped) and make a corruption check.   
+> > _Unique._ Hazards your companies defeat (even with *) are worth full kill marshalling points. If you have more than 7 stage points, all detainment attacks against your companies attack normally instead. If at one of his Wizardhavens <nobr>[<img src="/assets/images/free-haven.svg">]</nobr> when a hazard creature attacks one of your companies, he may immediately join that company. Alatar must face a strike from the creature (in all cases). Following all of the creature's attacks, Alatar must tap (if untapped) and make a corruption check.   
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Any non-"Dragon's lair" Ruins & Lairs in a Wilderness

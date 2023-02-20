@@ -22,7 +22,7 @@ permalink: /cards/lord-of-the-haven/
 > Creature or Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Elf._ _Manifestation of Cirdan._ One strike. Detainment against hero companies. <br>&ensp;As a creature, may be played keyed to Lindon or Any Coastal Sea \[![](/assets/images/coastalsea.svg)] region; or at sites in these regions. <br>&ensp;As a short-event, tap up to two target characters in one company at a site in, or moving through, a Coastal Sea \[![](/assets/images/coastalsea.svg)] region. 
+> > _**Unique.**_ _Elf._ _Manifestation of Cirdan._ One strike. Detainment against hero companies. <br>&ensp;As a creature, may be played keyed to Lindon or Any Coastal Sea <nobr>[<img src="/assets/images/coastalsea.svg">]</nobr> region; or at sites in these regions. <br>&ensp;As a short-event, tap up to two target characters in one company at a site in, or moving through, a Coastal Sea <nobr>[<img src="/assets/images/coastalsea.svg">]</nobr> region. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 13/9 】</div>

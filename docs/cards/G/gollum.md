@@ -25,7 +25,7 @@ permalink: /cards/gollum/
 > Scout Ally
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ _**Playable at Goblin-gate or Moria.**_ If his company's size is less than three, tap _Gollum_ to cancel one attack against his company keyed to Wilderness \[![](/assets/images/wilderness.svg)] or Shadow-land \[![](/assets/images/shadow-land.svg)]. <br>&ensp;Tap _Gollum_ if he is at the same non-Haven site as _The One Ring_; then both _Gollum_ and _The One Ring_ are discarded. 
+> > _**Unique.**_ _**Playable at Goblin-gate or Moria.**_ If his company's size is less than three, tap _Gollum_ to cancel one attack against his company keyed to Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> or Shadow-land <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr>. <br>&ensp;Tap _Gollum_ if he is at the same non-Haven site as _The One Ring_; then both _Gollum_ and _The One Ring_ are discarded. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 2/9 】</div>
@@ -45,7 +45,7 @@ permalink: /cards/gollum/
 > Scout Ally
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ _**Playable at Goblin-gate or Moria.**_ If his company's size is less than three, tap _Gollum_ to cancel one attack against his company keyed to Wilderness \[![](/assets/images/wilderness.svg)] or Shadow-land \[![](/assets/images/shadow-land.svg)]. <br>&ensp;Tap _Gollum_ if he is at the same non-Haven site as _The One Ring_; then both _Gollum_ and _The One Ring_ are discarded.
+> > _**Unique.**_ _**Playable at Goblin-gate or Moria.**_ If his company's size is less than three, tap _Gollum_ to cancel one attack against his company keyed to Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> or Shadow-land <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr>. <br>&ensp;Tap _Gollum_ if he is at the same non-Haven site as _The One Ring_; then both _Gollum_ and _The One Ring_ are discarded.
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 2/9 】</div>
@@ -65,7 +65,7 @@ permalink: /cards/gollum/
 > Scout Ally
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ _**Playable at Goblin-gate or Moria.**_ If his company's size is less than three, tap _Gollum_ to cancel one attack against his company keyed to Wilderness \[![](/assets/images/wilderness.svg)] or Shadow-land \[![](/assets/images/shadow-land.svg)]. <br>&ensp;Tap _Gollum_ if he is at the same non-Haven site as _The One Ring_; then both _Gollum_ and _The One Ring_ are discarded.
+> > _**Unique.**_ _**Playable at Goblin-gate or Moria.**_ If his company's size is less than three, tap _Gollum_ to cancel one attack against his company keyed to Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> or Shadow-land <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr>. <br>&ensp;Tap _Gollum_ if he is at the same non-Haven site as _The One Ring_; then both _Gollum_ and _The One Ring_ are discarded.
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 2/9 】</div>
@@ -85,7 +85,7 @@ permalink: /cards/gollum/
 > Scout Ally
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ _**Playable at Goblin-gate or Moria.**_ If his company's size is two or less, tap _Gollum_ to cancel one attack against his company keyed to Wilderness \[![](/assets/images/wilderness.svg)] or Shadow-land \[![](/assets/images/shadow-land.svg)]. You may tap _Gollum_ if he is at the same non-Haven site as _The One Ring_; then both _Gollum_ and _The One Ring_ are discarded.
+> > _**Unique.**_ _**Playable at Goblin-gate or Moria.**_ If his company's size is two or less, tap _Gollum_ to cancel one attack against his company keyed to Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> or Shadow-land <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr>. You may tap _Gollum_ if he is at the same non-Haven site as _The One Ring_; then both _Gollum_ and _The One Ring_ are discarded.
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 2/9 】</div>

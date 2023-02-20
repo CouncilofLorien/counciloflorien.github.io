@@ -22,7 +22,7 @@ permalink: /cards/early-harvest/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > ***Playable on a faction that is normally playable at a Border-hold*** \[![](/assets/images/border-hold.svg)] ***(except Army of the Dead).*** Make a roll (draw a #) modified by -1 if the faction is a minion faction. Return the faction to opponent's hand if the result plus the normal marshalling points the faction gives is greater than 12.   
+> > ***Playable on a faction that is normally playable at a Border-hold*** <nobr>[<img src="/assets/images/border-hold.svg">]</nobr> ***(except Army of the Dead).*** Make a roll (draw a #) modified by -1 if the faction is a minion faction. Return the faction to opponent's hand if the result plus the normal marshalling points the faction gives is greater than 12.   
 > > 
 > > {: .fs-3 } 
 > > _“...the vines were laden...and everywhere there was so much corn that at Harvest every barn was stuffed."_ ***---&#65279;LotRVI*** 

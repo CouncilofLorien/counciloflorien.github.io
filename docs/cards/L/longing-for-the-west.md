@@ -22,7 +22,7 @@ permalink: /cards/longing-for-the-west/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Corruption._ ***Playable on a Wizard or a Fallen-wizard.*** He receives 2 corruption points and makes a corruption check at the end of his untap phase if not at a Haven \[![](/assets/images/free-haven.svg)] (or Wizardhaven). Cannot be duplicated on a given character. During his organization phase, target may tap to attempt to remove this card. Make a roll---if this result is greater than 6, discard this card. 
+> > _Corruption._ ***Playable on a Wizard or a Fallen-wizard.*** He receives 2 corruption points and makes a corruption check at the end of his untap phase if not at a Haven <nobr>[<img src="/assets/images/free-haven.svg">]</nobr> (or Wizardhaven). Cannot be duplicated on a given character. During his organization phase, target may tap to attempt to remove this card. Make a roll---if this result is greater than 6, discard this card. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

@@ -25,7 +25,7 @@ permalink: /cards/watcher-in-the-water/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Each character in the company faces one strike. May also be played at Moria. <br>&ensp;Two Wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. 
+> > Each character in the company faces one strike. May also be played at Moria. <br>&ensp;Two Wildernesses <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> in site path are required. 
 > > 
 > > {: .fs-3 } 
 > > _“Out of the water a long sinuous tentacle had crawled; it was pale-green and luminous and wet."_ ***---&#65279;LotRII*** 
@@ -48,7 +48,7 @@ permalink: /cards/watcher-in-the-water/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Animal._ Each character in the company faces one strike. May also be played at Moria. <br>&ensp;Two Wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. 
+> > _Animal._ Each character in the company faces one strike. May also be played at Moria. <br>&ensp;Two Wildernesses <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> in site path are required. 
 > > 
 > > {: .fs-3 } 
 > > _“Out of the water a long sinuous tentacle had crawled; it was pale-green and luminous and wet."_ ***---&#65279;LotRII*** 

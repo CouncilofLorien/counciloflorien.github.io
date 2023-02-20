@@ -22,7 +22,7 @@ permalink: /cards/awaken-the-earths-fire/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ Modify the prowess of one auto-attack at a Shadow-hold \[![](/assets/images/shadow-hold.svg)] or Dark-hold \[![](/assets/images/dark-hold.svg)] site by +2. <br>&ensp;Alternatively, if _Doors of Night_ is in play, treat one Shadow-land \[![](/assets/images/shadow-land.svg)] as a Dark-Domain \[![](/assets/images/dark-domain.svg)] **or** one Shadow-hold \[![](/assets/images/shadow-hold.svg)] as a Dark-hold \[![](/assets/images/dark-hold.svg)] until the end of the turn. <br>&ensp;Cannot be duplicated. 
+> > _Environment._ Modify the prowess of one auto-attack at a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> or Dark-hold <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr> site by +2. <br>&ensp;Alternatively, if _Doors of Night_ is in play, treat one Shadow-land <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> as a Dark-Domain <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr> **or** one Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> as a Dark-hold <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr> until the end of the turn. <br>&ensp;Cannot be duplicated. 
 >
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,5 +36,5 @@ permalink: /cards/awaken-the-earths-fire/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ Modify the prowess of one auto-attack at a Shadow-hold \[![](/assets/images/shadow-hold.svg)] or Dark-hold \[![](/assets/images/dark-hold.svg)] site by +2. <br>&ensp;Alternatively, if _Doors of Night_ is in play, treat one Shadow-land \[![](/assets/images/shadow-land.svg)] as a Dark-Domain \[![](/assets/images/dark-domain.svg)] **or** one Shadow-hold \[![](/assets/images/shadow-hold.svg)] as a Dark-hold \[![](/assets/images/dark-hold.svg)] until the end of the turn. <br>&ensp;Cannot be duplicated. 
+> > _Environment._ Modify the prowess of one auto-attack at a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> or Dark-hold <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr> site by +2. <br>&ensp;Alternatively, if _Doors of Night_ is in play, treat one Shadow-land <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> as a Dark-Domain <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr> **or** one Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> as a Dark-hold <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr> until the end of the turn. <br>&ensp;Cannot be duplicated. 
 >

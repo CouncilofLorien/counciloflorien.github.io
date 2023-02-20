@@ -22,7 +22,7 @@ permalink: /cards/blasting-fire/
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Technology._ ***Playable at a tapped or untapped Shadow-hold*** \[![](/assets/images/shadow-hold.svg)]***, Dark-hold*** \[![](/assets/images/dark-hold.svg)]***, or a site with a Dwarf automatic-attack.*** Discard to cancel all automatic-attacks at a site against the bearer's company, any influence attempts against factions at this site this turn are modified by +2. 
+> > _Technology._ ***Playable at a tapped or untapped Shadow-hold*** <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr>***, Dark-hold*** <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr>***, or a site with a Dwarf automatic-attack.*** Discard to cancel all automatic-attacks at a site against the bearer's company, any influence attempts against factions at this site this turn are modified by +2. 
 > > 
 > > {: .fs-3 } 
 > > _“‘But the Orcs have brought...a blasting fire, and with it they took the Wall.’”_ ***---&#65279;LotRIII*** 
@@ -42,7 +42,7 @@ permalink: /cards/blasting-fire/
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Technology._. Playable at a tapped or untapped Shadow-hold \[![](/assets/images/shadow-hold.svg)], Dark-hold \[![](/assets/images/dark-hold.svg)], or a site with a Dwarf automatic-attack. Discard to cancel all automatic-attacks at a site against the bearer's company, any influence attempts against factions at this site this turn are modified by +2. 
+> > _Technology._. Playable at a tapped or untapped Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr>, Dark-hold <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr>, or a site with a Dwarf automatic-attack. Discard to cancel all automatic-attacks at a site against the bearer's company, any influence attempts against factions at this site this turn are modified by +2. 
 > > 
 > > {: .fs-3 } 
 > > _“‘But the Orcs have brought...a blasting fire, and with it they took the Wall.’”_ ***---&#65279;LotRIII*** 

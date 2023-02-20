@@ -25,7 +25,7 @@ permalink: /cards/wizards-ring/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Wizard only.*** Playable only at a Haven \[![](/assets/images/free-haven.svg)]. Ignore any effect that would discard this item. May not be duplicated on a given Wizard. Bearer makes a corruption check when this item is played. 
+> > ***Wizard only.*** Playable only at a Haven <nobr>[<img src="/assets/images/free-haven.svg">]</nobr>. Ignore any effect that would discard this item. May not be duplicated on a given Wizard. Bearer makes a corruption check when this item is played. 
 > > 
 > > {: .fs-3 } 
 > > _“‘...and there he met me and led me up to his high chamber. He wore a ring on his finger.’”_ ***---&#65279;LotRII*** 
@@ -48,7 +48,7 @@ permalink: /cards/wizards-ring/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Wizard only.*** Playable only at a Haven \[![](/assets/images/free-haven.svg)]. Cannot be stored, stolen, or transferred. May not be duplicated on a given Wizard. Bearer makes a corruption check when this item is played. 
+> > ***Wizard only.*** Playable only at a Haven <nobr>[<img src="/assets/images/free-haven.svg">]</nobr>. Cannot be stored, stolen, or transferred. May not be duplicated on a given Wizard. Bearer makes a corruption check when this item is played. 
 > > 
 > > {: .fs-3 } 
 > > _“‘...and there he met me and led me up to his high chamber. He wore a ring on his finger.’”_ ***---&#65279;LotRII*** 

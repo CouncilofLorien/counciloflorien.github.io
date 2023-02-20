@@ -22,5 +22,5 @@ permalink: /cards/forced-march/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > ***Playable at the end of the movement/hazard phase on a company that moved to a Darkhaven*** \[![](/assets/images/dark-haven.svg)]. The company may move to an additional site this turn. Another site card may be played and another movement/hazard phase immediately follows for that company. 
+> > ***Playable at the end of the movement/hazard phase on a company that moved to a Darkhaven*** <nobr>[<img src="/assets/images/dark-haven.svg">]</nobr>. The company may move to an additional site this turn. Another site card may be played and another movement/hazard phase immediately follows for that company. 
 > 

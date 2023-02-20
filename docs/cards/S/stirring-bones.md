@@ -25,7 +25,7 @@ permalink: /cards/stirring-bones/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Undead._ Two strikes. <br>&ensp;Two Wilderness \[![](/assets/images/wilderness.svg)] in site path are required. 
+> > _Undead._ Two strikes. <br>&ensp;Two Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> in site path are required. 
 > > 
 > > {: .fs-3 } 
 > > _“Round the corner a long arm was groping, walking on its fingers toward Sam, who lay nearest, and towards the hilt of the sword that lay upon him."_ ***---&#65279;LotRI*** 
@@ -71,7 +71,7 @@ permalink: /cards/stirring-bones/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Undead._ Two strikes. Two Wilderness \[![](/assets/images/wilderness.svg)] in site path are required. 
+> > _Undead._ Two strikes. Two Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> in site path are required. 
 > > 
 > > {: .fs-3 } 
 > > _“Round the corner a long arm was groping, walking on its fingers toward Sam, who lay nearest, and towards the hilt of the sword that lay upon him."_ ***---&#65279;LotRI*** 

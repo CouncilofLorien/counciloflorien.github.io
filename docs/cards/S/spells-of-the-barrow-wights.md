@@ -22,5 +22,5 @@ permalink: /cards/spells-of-the-barrow-wights/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > ***Playable on a character facing an Undead strike.*** If the strike is successful, target character is not harmed and is taken prisoner at a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] or Shadow-hold \[![](/assets/images/shadow-hold.svg)]. Character must discard any rings along with his other items. At the start of each untap phase, make a body check for that character. <br>&ensp;Rescue-attack: Undead --- 3 strikes with 8 prowess.  
+> > ***Playable on a character facing an Undead strike.*** If the strike is successful, target character is not harmed and is taken prisoner at a Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> or Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr>. Character must discard any rings along with his other items. At the start of each untap phase, make a body check for that character. <br>&ensp;Rescue-attack: Undead --- 3 strikes with 8 prowess.  
 >

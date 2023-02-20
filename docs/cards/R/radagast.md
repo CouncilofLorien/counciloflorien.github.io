@@ -25,7 +25,7 @@ permalink: /cards/radagast/
 > Warrior/Scout/Ranger/Diplomat Wizard
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ If his company moves to a new site during the movement/hazard phase, he may draw 1 additional card for each Wilderness \[![](/assets/images/wilderness.svg)] region in his company's site path. <br>&ensp;+1 to all of his corruption checks. 
+> > _**Unique.**_ If his company moves to a new site during the movement/hazard phase, he may draw 1 additional card for each Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> region in his company's site path. <br>&ensp;+1 to all of his corruption checks. 
 > > 
 > > {: .fs-3 } 
 > > _“‘...a worthy wizard...has much lore of herbs and beasts...’”_ ***---&#65279;LotRII***  
@@ -51,7 +51,7 @@ permalink: /cards/radagast/
 > Warrior/Scout/Ranger/Diplomat Wizard
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ If his company moves to a new site during the movement/hazard phase, he may draw 1 additional card for each Wilderness \[![](/assets/images/wilderness.svg)] region in his company's site path. <br>&ensp;+1 to all of his corruption checks. 
+> > _**Unique.**_ If his company moves to a new site during the movement/hazard phase, he may draw 1 additional card for each Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> region in his company's site path. <br>&ensp;+1 to all of his corruption checks. 
 > > 
 > > {: .fs-3 } 
 > > _“‘...a worthy wizard...has much lore of herbs and beasts...’”_ ***---&#65279;LotRII***  
@@ -77,7 +77,7 @@ permalink: /cards/radagast/
 > Warrior/Scout/Ranger/Diplomat Fallen-wizard
 >
 > {: .character-text .black-text .p-2 }
-> > _Unique._ Your unique factions that are neither Man, Dwarf, Dunedain, Hobbit, Orc, nor Troll are each worth 2 marshalling points. Your hero allies each are worth full marshalling points. Hero allies Radagast controls have no movement restrictions. When Radagast's new site is revealed, he may draw one additional card for each Wilderness \[![](/assets/images/wilderness.svg)] in his company's site path.   
+> > _Unique._ Your unique factions that are neither Man, Dwarf, Dunedain, Hobbit, Orc, nor Troll are each worth 2 marshalling points. Your hero allies each are worth full marshalling points. Hero allies Radagast controls have no movement restrictions. When Radagast's new site is revealed, he may draw one additional card for each Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> in his company's site path.   
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Rhosgobel 
@@ -100,7 +100,7 @@ permalink: /cards/radagast/
 > Warrior/Scout/Ranger/Diplomat Wizard
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ When Radagast's new site is revealed, he may draw one additional card for each Wilderness \[![](/assets/images/wilderness.svg)] in his company's site path. <br>&ensp;+1 to all of his corruption checks. 
+> > _**Unique.**_ When Radagast's new site is revealed, he may draw one additional card for each Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> in his company's site path. <br>&ensp;+1 to all of his corruption checks. 
 > > 
 > > {: .fs-3 } 
 > > _“‘...a worthy wizard...has much lore of herbs and beasts...’”_ ***---&#65279;LotRII***  

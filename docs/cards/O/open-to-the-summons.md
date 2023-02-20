@@ -25,5 +25,5 @@ permalink: /cards/open-to-the-summons/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > ***Playable on a minion company.*** One agent minion may be played with target company at a Darkhaven \[![](/assets/images/dark-haven.svg)]---place this card with the agent. -1 to his mind to a minimum of 1. This card may be played with a starting company in lieu of a minor item. When played as such, reveal it when starting companies are determined as if it were a character. Cannot be duplicated on a given character. 
+> > ***Playable on a minion company.*** One agent minion may be played with target company at a Darkhaven <nobr>[<img src="/assets/images/dark-haven.svg">]</nobr>---place this card with the agent. -1 to his mind to a minimum of 1. This card may be played with a starting company in lieu of a minor item. When played as such, reveal it when starting companies are determined as if it were a character. Cannot be duplicated on a given character. 
 > 

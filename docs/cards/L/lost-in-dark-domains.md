@@ -22,7 +22,7 @@ permalink: /cards/lost-in-dark-domains/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > ***Playable on a company that is moving this turn.*** If the company has a Dark-domain \[![](/assets/images/dark-domain.svg)] in its site path, its hazard limit is doubled until the end of the turn. 
+> > ***Playable on a company that is moving this turn.*** If the company has a Dark-domain <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr> in its site path, its hazard limit is doubled until the end of the turn. 
 > > 
 > > {: .fs-3 } 
 > > _“...each day, each mile, was more bitter than the one before, as their strength lessened and the land became more evil."_ ***---&#65279;LotRVI*** 
@@ -39,7 +39,7 @@ permalink: /cards/lost-in-dark-domains/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > ***Playable on a company that is moving this turn.*** If the company has a Dark-domain \[![](/assets/images/dark-domain.svg)] in its site path, its hazard limit is doubled until the end of the turn. 
+> > ***Playable on a company that is moving this turn.*** If the company has a Dark-domain <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr> in its site path, its hazard limit is doubled until the end of the turn. 
 > > 
 > > {: .fs-3 } 
 > > _“...each day, each mile, was more bitter than the one before, as their strength lessened and the land became more evil."_ ***---&#65279;LotRVI*** 

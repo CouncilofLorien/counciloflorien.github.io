@@ -22,7 +22,7 @@ permalink: /cards/the-white-tree/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ ***Sage only at Minas Tirith.*** Playable only if a _Sapling of the White Tree_ is at Minas Tirith. Minas Tirith becomes a Haven \[![](/assets/images/free-haven.svg)] for the purposes of healing and playing hazards. 
+> > _Unique._ ***Sage only at Minas Tirith.*** Playable only if a _Sapling of the White Tree_ is at Minas Tirith. Minas Tirith becomes a Haven <nobr>[<img src="/assets/images/free-haven.svg">]</nobr> for the purposes of healing and playing hazards. 
 > > 
 > > {: .fs-3 } 
 > > _“And the Tree that was withered shall be renewed, and he shall plant it in high places, and the City shall be blessed."_ ***---&#65279;LotRVI*** 
@@ -39,7 +39,7 @@ permalink: /cards/the-white-tree/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ ***Sage only at Minas Tirith.*** Playable only if a _Sapling of the White Tree_ is at Minas Tirith and is discarded. <br>&ensp;Minas Tirith becomes a Haven \[![](/assets/images/free-haven.svg)] for the purposes of healing and playing hazards. 
+> > _Unique._ ***Sage only at Minas Tirith.*** Playable only if a _Sapling of the White Tree_ is at Minas Tirith and is discarded. <br>&ensp;Minas Tirith becomes a Haven <nobr>[<img src="/assets/images/free-haven.svg">]</nobr> for the purposes of healing and playing hazards. 
 > > 
 > > {: .fs-3 } 
 > > _“And the Tree that was withered shall be renewed, and he shall plant it in high places, and the City shall be blessed."_ ***---&#65279;LotRVI*** 
@@ -56,7 +56,7 @@ permalink: /cards/the-white-tree/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Sage only at Minas Tirith. Playable only if a Sapling of the White Tree is at Minas Tirith and is discarded. Minas Tirith becomes a Haven \[![](/assets/images/free-haven.svg)] for the purposes of healing and playing hazards. 
+> > _**Unique.**_ Sage only at Minas Tirith. Playable only if a Sapling of the White Tree is at Minas Tirith and is discarded. Minas Tirith becomes a Haven <nobr>[<img src="/assets/images/free-haven.svg">]</nobr> for the purposes of healing and playing hazards. 
 > > 
 > > {: .fs-3 } 
 > > _“And the Tree that was withered shall be renewed, and he shall plant it in high places, and the City shall be blessed."_ ***---&#65279;LotRVI*** 

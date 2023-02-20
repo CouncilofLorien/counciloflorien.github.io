@@ -25,7 +25,7 @@ permalink: /cards/anarin/
 > Scout/Diplomat Elf
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ _Agent._ _Agent only:_ may move to a Haven \[![](/assets/images/free-haven.svg)] **and** may tap at a company's new site to attack that company during opponent's movement/hazard phase. 
+> > _**Unique.**_ _Agent._ _Agent only:_ may move to a Haven <nobr>[<img src="/assets/images/free-haven.svg">]</nobr> **and** may tap at a company's new site to attack that company during opponent's movement/hazard phase. 
 > > 
 > > {: .fs-3 } 
 > > _“...out of the thicket of young trees an Elf stepped, clad in grey, but with his hood thrown back; his hair glinted like gold in the morning sun."_ ***---&#65279;LotRII***  

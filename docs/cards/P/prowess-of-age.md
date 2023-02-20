@@ -22,7 +22,7 @@ permalink: /cards/prowess-of-age/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Targets and cancels any effect which (declared earlier in the same chain of effects) that would cancel an attack from a unique Dragon manifestation.  <br>&ensp;Alternatively, gives a prowess bonus to a Dragon or Drake attack (must be played before its strikes are assigned) dictated by the number of _Prowess of Age_ cards played on the attack: +1 prowess if 1 played; +4 if 2 played; +9 if 3 played. 
+> > Targets and cancels any effect (declared earlier in the same chain of effects) that would cancel an attack from a unique Dragon manifestation.  <br>&ensp;Alternatively, gives a prowess bonus to a Dragon or Drake attack (must be played before its strikes are assigned) dictated by the number of _Prowess of Age_ cards played on the attack: +1 prowess if 1 played; +4 if 2 played; +9 if 3 played. 
 > > 
 > > {: .fs-3 } 
 > > _“‘...Then I was young and tender. Now I am old and strong, strong, strong.’”_ ***---&#65279;Hob*** 

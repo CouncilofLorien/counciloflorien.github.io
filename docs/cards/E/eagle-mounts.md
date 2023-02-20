@@ -22,7 +22,7 @@ permalink: /cards/eagle-mounts/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable only at the end of the organization phase*** on a company with a diplomat that begins the turn at Eagles' Eyrie. Company may move to any site that is not a Shadow-hold \[![](/assets/images/shadow-hold.svg)] or a Dark-hold \[![](/assets/images/dark-hold.svg)]. Opponent may only play hazard creatures that are keyed to the company's site. 
+> > ***Playable only at the end of the organization phase*** on a company with a diplomat that begins the turn at Eagles' Eyrie. Company may move to any site that is not a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> or a Dark-hold <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr>. Opponent may only play hazard creatures that are keyed to the company's site. 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,5 +36,5 @@ permalink: /cards/eagle-mounts/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable only at the end of the organization phase*** on a company with a diplomat that begins the turn at Eagles' Eyrie. Company may move to any site that is not a Shadow-hold \[![](/assets/images/shadow-hold.svg)] or a Dark-hold \[![](/assets/images/dark-hold.svg)]. Opponent may only play hazard creatures that are keyed to the company's site. 
+> > ***Playable only at the end of the organization phase*** on a company with a diplomat that begins the turn at Eagles' Eyrie. Company may move to any site that is not a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> or a Dark-hold <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr>. Opponent may only play hazard creatures that are keyed to the company's site. 
 > 

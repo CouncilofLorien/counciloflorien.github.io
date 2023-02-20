@@ -25,7 +25,7 @@ permalink: /cards/squire-of-the-hunt/
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > _Unique._ _Alatar specific._ _Warrior only._ ***Playable on one of your warrior characters at one of your Wizardhavens*** \[![](/assets/images/free-haven.svg)] _(or in your starting company)_. +1 to his direct influence. This character requires 2 points of influence to control and may only be controlled by general influence or Alatar. 
+> > _Unique._ _Alatar specific._ _Warrior only._ ***Playable on one of your warrior characters at one of your Wizardhavens*** <nobr>[<img src="/assets/images/free-haven.svg">]</nobr> _(or in your starting company)_. +1 to his direct influence. This character requires 2 points of influence to control and may only be controlled by general influence or Alatar. 
 > > 
 > > {: .fs-3 } 
 > > _“Ever the Blue Wizard sought wardens to extend his preserves...”_ ***---&#65279;Kuduk&nbsp;Lore*** 

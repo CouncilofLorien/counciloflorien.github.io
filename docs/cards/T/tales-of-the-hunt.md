@@ -22,7 +22,7 @@ permalink: /cards/tales-of-the-hunt/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable on a Man at a Border-hold*** \[![](/assets/images/border-hold.svg)]***; tap the Man***. <br>&ensp;Bearer may tap to untap any character in his company. Bearer makes a corruption check. 
+> > ***Playable on a Man at a Border-hold*** <nobr>[<img src="/assets/images/border-hold.svg">]</nobr>***; tap the Man***. <br>&ensp;Bearer may tap to untap any character in his company. Bearer makes a corruption check. 
 > > 
 > > {: .fs-3 } 
 > > _“There was a flying sound of hooves on the path ahead. Out of the gloom came suddenly the shape of a flying deer."_ ***---&#65279;Hob*** 

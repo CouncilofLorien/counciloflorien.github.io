@@ -22,7 +22,7 @@ permalink: /cards/foul-fumes/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ Each moving company that has a Shadow-land \[![](/assets/images/shadow-land.svg)] or a Dark-domain \[![](/assets/images/dark-domain.svg)] in its site path must return to its site of origin unless it contains a ranger. <br>&ensp;Additionally, if _Doors of Night_ is in play, each non-Haven site in play with a Shadow-land \[![](/assets/images/shadow-land.svg)] or a Dark-domain \[![](/assets/images/dark-domain.svg)] in its site path is tapped. <br>&ensp;Cannot be duplicated. 
+> > _Environment._ Each moving company that has a Shadow-land <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> or a Dark-domain <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr> in its site path must return to its site of origin unless it contains a ranger. <br>&ensp;Additionally, if _Doors of Night_ is in play, each non-Haven site in play with a Shadow-land <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> or a Dark-domain <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr> in its site path is tapped. <br>&ensp;Cannot be duplicated. 
 >
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,7 +36,7 @@ permalink: /cards/foul-fumes/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ Each moving company that has a Shadow-land \[![](/assets/images/shadow-land.svg)] or a Dark-domain \[![](/assets/images/dark-domain.svg)] in its site path must return to its site of origin unless it contains a ranger. <br>&ensp;Additionally, if _Doors of Night_ is in play, each non-Haven site in play with a Shadow-land \[![](/assets/images/shadow-land.svg)] or a Dark-domain \[![](/assets/images/dark-domain.svg)] in its site path is tapped. <br>&ensp;Cannot be duplicated. 
+> > _Environment._ Each moving company that has a Shadow-land <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> or a Dark-domain <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr> in its site path must return to its site of origin unless it contains a ranger. <br>&ensp;Additionally, if _Doors of Night_ is in play, each non-Haven site in play with a Shadow-land <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> or a Dark-domain <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr> in its site path is tapped. <br>&ensp;Cannot be duplicated. 
 >
 
 ### _Middle-earth Challenge Decks_
@@ -50,5 +50,5 @@ permalink: /cards/foul-fumes/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ Each moving company that has a Shadow-land \[![](/assets/images/shadow-land.svg)] or a Dark-domain \[![](/assets/images/dark-domain.svg)] in its site path must return to its site of origin unless it contains a ranger. <br>&ensp;Additionally, if _Doors of Night_ is in play, each non-Haven site in play with a Shadow-land \[![](/assets/images/shadow-land.svg)] or a Dark-domain \[![](/assets/images/dark-domain.svg)] in its site path is tapped. <br>&ensp;Cannot be duplicated. 
+> > _Environment._ Each moving company that has a Shadow-land <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> or a Dark-domain <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr> in its site path must return to its site of origin unless it contains a ranger. <br>&ensp;Additionally, if _Doors of Night_ is in play, each non-Haven site in play with a Shadow-land <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> or a Dark-domain <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr> in its site path is tapped. <br>&ensp;Cannot be duplicated. 
 >

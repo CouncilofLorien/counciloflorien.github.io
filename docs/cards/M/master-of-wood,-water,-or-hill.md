@@ -22,7 +22,7 @@ permalink: /cards/master-of-wood,-water,-or-hill/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Ritual._ Tap a sage to change one Wilderness \[![](/assets/images/wilderness.svg)] to a Border-land \[![](/assets/images/border-land.svg)] or Shadow-land \[![](/assets/images/shadow-land.svg)] **or** one Shadow-land \[![](/assets/images/shadow-land.svg)] to a Wilderness \[![](/assets/images/wilderness.svg)] **or** one Border-land \[![](/assets/images/border-land.svg)] to a Wilderness \[![](/assets/images/wilderness.svg)]. Sage makes a corruption check.   
+> > _Ritual._ Tap a sage to change one Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> to a Border-land <nobr>[<img src="/assets/images/border-land.svg">]</nobr> or Shadow-land <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> **or** one Shadow-land <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> to a Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> **or** one Border-land <nobr>[<img src="/assets/images/border-land.svg">]</nobr> to a Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr>. Sage makes a corruption check.   
 > > 
 > > {: .fs-3 } 
 > > _“‘...No one has ever caught old Tom walking in the forest, wading in the water, leaping on the hill-tops under light and shadow. He has no fear.’”_ ***---&#65279;LotRI*** 

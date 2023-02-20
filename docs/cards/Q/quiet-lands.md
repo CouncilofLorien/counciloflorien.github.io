@@ -22,7 +22,7 @@ permalink: /cards/quiet-lands/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Environment._ Until the end of the turn, the number of strikes for one automatic-attack at a Shadow-hold \[![](/assets/images/shadow-hold.svg)] or a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] is reduced to half of its original number (rounded up). <br>&ensp;Alternatively, if _Gates of Morning_ is in play, treat one Shadow-land \[![](/assets/images/shadow-land.svg)] as a Wilderness \[![](/assets/images/wilderness.svg)] **or** one Shadow-hold \[![](/assets/images/shadow-hold.svg)] as a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] until the end of turn. <br>&ensp;Cannot be duplicated. 
+> > _Environment._ Until the end of the turn, the number of strikes for one automatic-attack at a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> or a Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> is reduced to half of its original number (rounded up). <br>&ensp;Alternatively, if _Gates of Morning_ is in play, treat one Shadow-land <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> as a Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> **or** one Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> as a Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> until the end of turn. <br>&ensp;Cannot be duplicated. 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,5 +36,5 @@ permalink: /cards/quiet-lands/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Environment._ Until the end of the turn, the number of strikes for one automatic-attack at a Shadow-hold \[![](/assets/images/shadow-hold.svg)] or a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] is reduced by half (rounded up). <br>&ensp;Alternatively, if _Gates of Morning_ is in play, treat one Shadow-land \[![](/assets/images/shadow-land.svg)] as a Wilderness \[![](/assets/images/wilderness.svg)] **or** one Shadow-hold \[![](/assets/images/shadow-hold.svg)] as a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] until the end of turn. <br>&ensp;Cannot be duplicated. 
+> > _Environment._ Until the end of the turn, the number of strikes for one automatic-attack at a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> or a Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> is reduced by half (rounded up). <br>&ensp;Alternatively, if _Gates of Morning_ is in play, treat one Shadow-land <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> as a Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> **or** one Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> as a Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> until the end of turn. <br>&ensp;Cannot be duplicated. 
 > 

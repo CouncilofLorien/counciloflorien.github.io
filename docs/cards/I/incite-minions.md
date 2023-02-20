@@ -22,5 +22,5 @@ permalink: /cards/incite-minions/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Creates an additional automatic-attack at a Shadow-hold \[![](/assets/images/shadow-hold.svg)] or a Dark-hold \[![](/assets/images/dark-hold.svg)] until the end of turn. This is an exact duplicate (including all existing and eventual modifications to prowess, etc.) of an existing automatic-attack of your choice at the site. This automatic-attack is faced after the automatic attack it duplicates. Cannot be duplicated on a given site. 
+> > Creates an additional automatic-attack at a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> or a Dark-hold <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr> until the end of turn. This is an exact duplicate (including all existing and eventual modifications to prowess, etc.) of an existing automatic-attack of your choice at the site. This automatic-attack is faced after the automatic attack it duplicates. Cannot be duplicated on a given site. 
 >

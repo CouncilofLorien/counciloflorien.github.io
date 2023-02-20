@@ -22,7 +22,7 @@ permalink: /cards/the-burden-of-time/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Corruption._ ***Playable on an Elf not in a Haven*** \[![](/assets/images/free-haven.svg)]. Target Elf receives 2 corruption points and must make a corruption check during each of his untap phases if he is not in a Haven. Cannot be duplicated on a given Elf. <br>&ensp;During his organization phase, an Elf with this card may tap to attempt to remove it. Make a roll (or draw a #): if this result is greater than 7, discard this card. 
+> > _Corruption._ ***Playable on an Elf not in a Haven*** <nobr>[<img src="/assets/images/free-haven.svg">]</nobr>. Target Elf receives 2 corruption points and must make a corruption check during each of his untap phases if he is not in a Haven. Cannot be duplicated on a given Elf. <br>&ensp;During his organization phase, an Elf with this card may tap to attempt to remove it. Make a roll (or draw a #): if this result is greater than 7, discard this card. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -39,7 +39,7 @@ permalink: /cards/the-burden-of-time/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Corruption._ ***Playable on an Elf not in a Haven*** \[![](/assets/images/free-haven.svg)]. Target Elf receives 2 corruption points and must make a corruption check during each of his untap phases if he is not in a Haven. Cannot be duplicated on a given Elf. <br>&ensp;During his organization phase, an Elf with this card may tap to attempt to remove it. Make a roll (or draw a #): if this result is greater than 7, discard this card. 
+> > _Corruption._ ***Playable on an Elf not in a Haven*** <nobr>[<img src="/assets/images/free-haven.svg">]</nobr>. Target Elf receives 2 corruption points and must make a corruption check during each of his untap phases if he is not in a Haven. Cannot be duplicated on a given Elf. <br>&ensp;During his organization phase, an Elf with this card may tap to attempt to remove it. Make a roll (or draw a #): if this result is greater than 7, discard this card. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

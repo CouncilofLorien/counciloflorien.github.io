@@ -22,5 +22,5 @@ permalink: /cards/all-the-bells-ringing/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable during opponent's site phase before strikes are assigned on a hero company at a Free-hold*** \[![](/assets/images/free-hold.svg)] ***or Border-hold*** \[![](/assets/images/border-hold.svg)] ***if a minion company attacks.*** The attack is cancelled and the minion company must face all automatic-attacks of the site---which attack normally, not as detainment. Afterwards, the minion company may attack the hero company again.  
+> > ***Playable during opponent's site phase before strikes are assigned on a hero company at a Free-hold*** <nobr>[<img src="/assets/images/free-hold.svg">]</nobr> ***or Border-hold*** <nobr>[<img src="/assets/images/border-hold.svg">]</nobr> ***if a minion company attacks.*** The attack is cancelled and the minion company must face all automatic-attacks of the site---which attack normally, not as detainment. Afterwards, the minion company may attack the hero company again.  
 > 

@@ -25,7 +25,7 @@ permalink: /cards/adunaphel-the-ringwraith/
 > Warrior/Scout/Diplomat Ringwraith
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ _Manifestation of Adunaphel._ Can use sprit-magic. +2 direct influence in Heralded Lord mode. -2 prowess in Fell Rider mode. As your Ringwraith, if at a Darkhaven \[![](/assets/images/dark-haven.svg)], she may tap to cancel one hazard creature attack not played at a site against any one of your companies.   
+> > _**Unique.**_ _Manifestation of Adunaphel._ Can use sprit-magic. +2 direct influence in Heralded Lord mode. -2 prowess in Fell Rider mode. As your Ringwraith, if at a Darkhaven <nobr>[<img src="/assets/images/dark-haven.svg">]</nobr>, she may tap to cancel one hazard creature attack not played at a site against any one of your companies.   
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Ulurtsu Nurn 
@@ -48,7 +48,7 @@ permalink: /cards/adunaphel-the-ringwraith/
 > Warrior/Scout/Diplomat Ringwraith
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ Manifestation of Adunaphel. Can use sprit-magic. +2 direct influence in Heralded Lord mode. -2 prowess in Fell Rider mode. As your Ringwraith, if at a Darkhaven \[![](/assets/images/dark-haven.svg)], she may tap to cancel one hazard creature attack not played at a site against any one of your companies.   
+> > _**Unique.**_ Manifestation of Adunaphel. Can use sprit-magic. +2 direct influence in Heralded Lord mode. -2 prowess in Fell Rider mode. As your Ringwraith, if at a Darkhaven <nobr>[<img src="/assets/images/dark-haven.svg">]</nobr>, she may tap to cancel one hazard creature attack not played at a site against any one of your companies.   
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Ulurtsu Nurn 

@@ -22,7 +22,7 @@ permalink: /cards/earcaraxe-at-home/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ Unless _Earcaraxe Ahunt_ is in play, _Isle of the Ulond_ has an additional automatic-attack: Dragon --- 2 strikes at 18/7 (attacker chooses defending characters). <br>&ensp;In addition, the hazard limit against any character moving with a Coastal Sea \[![](/assets/images/coastalsea.svg)] region in its site path is increased by one. 
+> > _**Unique.**_ Unless _Earcaraxe Ahunt_ is in play, _Isle of the Ulond_ has an additional automatic-attack: Dragon --- 2 strikes at 18/7 (attacker chooses defending characters). <br>&ensp;In addition, the hazard limit against any character moving with a Coastal Sea <nobr>[<img src="/assets/images/coastalsea.svg">]</nobr> region in its site path is increased by one. 
 > > 
 > > {: .fs-3 } 
 > > _“...the unmistakable gurgling noise of some vast animal snoring in its sleep...”_ ***---&#65279;Hob*** 

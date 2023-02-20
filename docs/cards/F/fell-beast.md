@@ -22,7 +22,7 @@ permalink: /cards/fell-beast/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The number of strikes of one Nazgul hazard creature is increased by one and its prowess is decreased by 2. Attacker chooses defending characters. <br>&ensp;Additionally, target Nazgul may be played keyed to Shadow-land \[![](/assets/images/shadow-land.svg)] or Shadow-hold \[![](/assets/images/shadow-hold.svg)]. <br>&ensp;Cannot be duplicated on a given Nazgul. 
+> > The number of strikes of one Nazgul hazard creature is increased by one and its prowess is decreased by 2. Attacker chooses defending characters. <br>&ensp;Additionally, target Nazgul may be played keyed to Shadow-land <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> or Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr>. <br>&ensp;Cannot be duplicated on a given Nazgul. 
 >
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,5 +36,5 @@ permalink: /cards/fell-beast/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The number of strikes of one Nazgul hazard creature is increased by one and its prowess is decreased by 2. Attacker chooses defending characters. <br>&ensp;Additionally, target Nazgul may be played keyed to Shadow-land \[![](/assets/images/shadow-land.svg)] or Shadow-hold \[![](/assets/images/shadow-hold.svg)]. <br>&ensp;Cannot be duplicated on a given Nazgul. 
+> > The number of strikes of one Nazgul hazard creature is increased by one and its prowess is decreased by 2. Attacker chooses defending characters. <br>&ensp;Additionally, target Nazgul may be played keyed to Shadow-land <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> or Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr>. <br>&ensp;Cannot be duplicated on a given Nazgul. 
 >

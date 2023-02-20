@@ -22,5 +22,5 @@ permalink: /cards/memories-stolen/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Dark enchantment._ A non-Wizard character facing a strike from a Dragon hazard creature attack loses skills while bearing this card. The strike's prowess is modified by -3. Cannot be duplicated on a given character. If at a Haven \[![](/assets/images/free-haven.svg)] during his organization phase, a character with this card may tap to attempt to remove it. Make a roll (or draw a #): if this result is greater than 8, discard this card. Modify the roll by +1 for each character in his company that taps in support. 
+> > _Dark enchantment._ A non-Wizard character facing a strike from a Dragon hazard creature attack loses skills while bearing this card. The strike's prowess is modified by -3. Cannot be duplicated on a given character. If at a Haven <nobr>[<img src="/assets/images/free-haven.svg">]</nobr> during his organization phase, a character with this card may tap to attempt to remove it. Make a roll (or draw a #): if this result is greater than 8, discard this card. Modify the roll by +1 for each character in his company that taps in support. 
 >

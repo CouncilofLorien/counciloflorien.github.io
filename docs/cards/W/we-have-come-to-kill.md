@@ -22,7 +22,7 @@ permalink: /cards/we-have-come-to-kill/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > A character may be brought into play under general or direct influence at any Shadow-hold \[![](/assets/images/shadow-hold.svg)], Ruins & Lairs \[![](/assets/images/ruinlair.svg)], or Border-hold \[![](/assets/images/border-hold.svg)]. This does not count against the one character per turn limit.   
+> > A character may be brought into play under general or direct influence at any Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr>, Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr>, or Border-hold <nobr>[<img src="/assets/images/border-hold.svg">]</nobr>. This does not count against the one character per turn limit.   
 > > 
 > > {: .fs-3 } 
 > > _“‘We have come all the way from the Mines to kill, and avenge our folk.’”_ ***---&#65279;LotRIII*** 

@@ -22,7 +22,7 @@ permalink: /cards/crack-in-the-wall/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Sage only._ ***Playable during the organization phase on an untapped sage in a moving company.*** Tap the sage. Unless the site is in a Free-domain \[![](/assets/images/free-domain.svg)], no hazard creatures may be played at the company's new site.   
+> > _Sage only._ ***Playable during the organization phase on an untapped sage in a moving company.*** Tap the sage. Unless the site is in a Free-domain <nobr>[<img src="/assets/images/free-domain.svg">]</nobr>, no hazard creatures may be played at the company's new site.   
 > > 
 > > {: .fs-3 } 
 > > _“...a crack in the wall at the back of the cave got bigger and bigger, and opened wider...”_ ***---&#65279;Hob*** 

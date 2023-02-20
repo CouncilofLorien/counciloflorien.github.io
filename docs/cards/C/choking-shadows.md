@@ -22,7 +22,7 @@ permalink: /cards/choking-shadows/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ Modify the prowess of one automatic-attack at a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] site by +2. <br>&ensp;Alternatively, if _Doors of Night_ is in play, treat one Wilderness \[![](/assets/images/wilderness.svg)] as a Shadow-land \[![](/assets/images/shadow-land.svg)] **or** one Ruins & Lairs \[![](/assets/images/ruinlair.svg)] as a Shadow-hold \[![](/assets/images/shadow-hold.svg)] until the end of the turn. <br>&ensp;Cannot be duplicated. 
+> > _Environment._ Modify the prowess of one automatic-attack at a Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> site by +2. <br>&ensp;Alternatively, if _Doors of Night_ is in play, treat one Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> as a Shadow-land <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> **or** one Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> as a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> until the end of the turn. <br>&ensp;Cannot be duplicated. 
 >
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,7 +36,7 @@ permalink: /cards/choking-shadows/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ Modify the prowess of one automatic-attack at a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] site by +2. <br>&ensp;Alternatively, if _Doors of Night_ is in play, treat one Wilderness \[![](/assets/images/wilderness.svg)] as a Shadow-land \[![](/assets/images/shadow-land.svg)] **or** one Ruins & Lairs \[![](/assets/images/ruinlair.svg)] as a Shadow-hold \[![](/assets/images/shadow-hold.svg)] until the end of the turn. <br>&ensp;Cannot be duplicated. 
+> > _Environment._ Modify the prowess of one automatic-attack at a Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> site by +2. <br>&ensp;Alternatively, if _Doors of Night_ is in play, treat one Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> as a Shadow-land <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> **or** one Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> as a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> until the end of the turn. <br>&ensp;Cannot be duplicated. 
 >
 
 ### _Middle-earth Challenge Decks_
@@ -50,5 +50,5 @@ permalink: /cards/choking-shadows/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ Modify the prowess of one automatic-attack at a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] site by +2. <br>&ensp;Alternatively, if _Doors of Night_ is in play, treat one Wilderness \[![](/assets/images/wilderness.svg)] as a Shadow-land \[![](/assets/images/shadow-land.svg)] **or** one Ruins & Lairs \[![](/assets/images/ruinlair.svg)] as a Shadow-hold \[![](/assets/images/shadow-hold.svg)] until the end of the turn. <br>&ensp;Cannot be duplicated. 
+> > _Environment._ Modify the prowess of one automatic-attack at a Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> site by +2. <br>&ensp;Alternatively, if _Doors of Night_ is in play, treat one Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> as a Shadow-land <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> **or** one Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> as a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> until the end of the turn. <br>&ensp;Cannot be duplicated. 
 >

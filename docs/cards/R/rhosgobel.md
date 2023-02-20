@@ -91,7 +91,7 @@ permalink: /cards/rhosgobel/
 > Southern Mirkwood
 >
 > {: .fw-site-text .black-text .p-2 }
-> > _**Special:**_ Only Radagast's companies may use this card. This site is a protected Wizardhaven \[![](/assets/images/free-haven.svg)]. If one of your companies is at this site, all attacks against it are canceled. Any of your companies moving to or from Rhosgobel is not considered to be moving through Southern Mirkwood (including one less Dark-domain \[![](/assets/images/dark-domain.svg)] in their site path). You receive the stage point if any of your companies are at this site.  
+> > _**Special:**_ Only Radagast's companies may use this card. This site is a protected Wizardhaven <nobr>[<img src="/assets/images/free-haven.svg">]</nobr>. If one of your companies is at this site, all attacks against it are canceled. Any of your companies moving to or from Rhosgobel is not considered to be moving through Southern Mirkwood (including one less Dark-domain <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr> in their site path). You receive the stage point if any of your companies are at this site.  
 > 
 > {: .fw-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

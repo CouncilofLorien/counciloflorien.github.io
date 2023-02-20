@@ -22,7 +22,7 @@ permalink: /cards/hold-rebuilt-and-repaired/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > ***Playable on a non-Dragon's lair, non-Under-deeps Ruins & Lairs*** \[![](/assets/images/ruinlair.svg)]. The site becomes a Shadow-hold \[![](/assets/images/shadow-hold.svg)] and all automatic-attacks become detainment. Discard this card when the site is discarded or returned to its location deck. 
+> > ***Playable on a non-Dragon's lair, non-Under-deeps Ruins & Lairs*** <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr>. The site becomes a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> and all automatic-attacks become detainment. Discard this card when the site is discarded or returned to its location deck. 
 > > 
 > > {: .fs-3 } 
 > > _“‘Some rises once more from Orodruin that we call Mount Doom.’”_ ***---&#65279;LotRII*** 
@@ -39,7 +39,7 @@ permalink: /cards/hold-rebuilt-and-repaired/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable on a non-Dragon's lair, non-Under-deeps Ruins & Lairs \[![](/assets/images/ruinlair.svg)]. The site becomes a Shadow-hold \[![](/assets/images/shadow-hold.svg)] and all automatic-attacks become detainment. Discard this card when the site is discarded or returned to its location deck. 
+> > Playable on a non-Dragon's lair, non-Under-deeps Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr>. The site becomes a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> and all automatic-attacks become detainment. Discard this card when the site is discarded or returned to its location deck. 
 > > 
 > > {: .fs-3 } 
 > > _“‘Some rises once more from Orodruin that we cal Mount Doom.’”_ ***---&#65279;LotRII*** 

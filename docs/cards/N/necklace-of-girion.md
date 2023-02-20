@@ -25,7 +25,7 @@ permalink: /cards/necklace-of-girion/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ ***Only playable at The Lonely Mountain.*** Bearer receives +3 direct influence against Dwarves/Men and Dwarf/Man factions. If bearer is at a Free-hold \[![](/assets/images/free-hold.svg)] or a Border-hold \[![](/assets/images/border-hold.svg)], he can make a corruption check, and, if successful, you may discard _Necklace of Girion_ to play any non-special item from your hand with its bearer. 
+> > _Unique._ ***Only playable at The Lonely Mountain.*** Bearer receives +3 direct influence against Dwarves/Men and Dwarf/Man factions. If bearer is at a Free-hold <nobr>[<img src="/assets/images/free-hold.svg">]</nobr> or a Border-hold <nobr>[<img src="/assets/images/border-hold.svg">]</nobr>, he can make a corruption check, and, if successful, you may discard _Necklace of Girion_ to play any non-special item from your hand with its bearer. 
 > > 
 > > {: .fs-3 } 
 > > _“...the necklace of Girion, lord of Dale, made of five hundred emeralds green as grass...”_ ***---&#65279;Hob***  
@@ -48,7 +48,7 @@ permalink: /cards/necklace-of-girion/
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ ***Playable at The Lonely Mountain.*** Bearer receives +3 direct influence against Men and Man factions. If bearer is at a Border-hold \[![](/assets/images/border-hold.svg)] during the site phase, he can make a corruption check, and, if successful, discard this item to play up to 3 non-unique minor and/or major items with his company. Characters need not tap to receive these items. 
+> > _**Unique.**_ ***Playable at The Lonely Mountain.*** Bearer receives +3 direct influence against Men and Man factions. If bearer is at a Border-hold <nobr>[<img src="/assets/images/border-hold.svg">]</nobr> during the site phase, he can make a corruption check, and, if successful, discard this item to play up to 3 non-unique minor and/or major items with his company. Characters need not tap to receive these items. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

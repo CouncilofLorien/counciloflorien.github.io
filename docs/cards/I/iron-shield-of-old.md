@@ -22,7 +22,7 @@ permalink: /cards/iron-shield-of-old/
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > ***Playable at any Under-deeps Shadow-hold*** \[![](/assets/images/shadow-hold.svg)] ***or Ruins & Lairs*** \[![](/assets/images/ruinlair.svg)]. +2 to all rolls required for bearer's company to move to adjacent Under-deeps sites. _Warrior only:_ tap this item to make one strike against its bearer ineffectual (i.e., the strike neither succeeds nor fails). 
+> > ***Playable at any Under-deeps Shadow-hold*** <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> ***or Ruins & Lairs*** <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr>. +2 to all rolls required for bearer's company to move to adjacent Under-deeps sites. _Warrior only:_ tap this item to make one strike against its bearer ineffectual (i.e., the strike neither succeeds nor fails). 
 > > 
 > > {: .fs-3 } 
 > > _“Morgoth's troops were shod with iron and iron-shielded...”_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -42,7 +42,7 @@ permalink: /cards/iron-shield-of-old/
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable at any Under-deeps Shadow-hold \[![](/assets/images/shadow-hold.svg)] or Ruins & Lairs \[![](/assets/images/ruinlair.svg)]. +2 to all rolls required for bearer's company to move to adjacent Under-deeps sites. Warrior only: tap this item to make one strike against its bearer ineffectual (i.e., the strike neither succeeds nor fails). 
+> > Playable at any Under-deeps Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> or Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr>. +2 to all rolls required for bearer's company to move to adjacent Under-deeps sites. Warrior only: tap this item to make one strike against its bearer ineffectual (i.e., the strike neither succeeds nor fails). 
 > > 
 > > {: .fs-3 } 
 > > _“Morgoth's troops were shod with iron and iron-shielded...”_ ***---&#65279;Kuduk&nbsp;Lore*** 

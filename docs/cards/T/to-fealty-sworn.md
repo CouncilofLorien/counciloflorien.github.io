@@ -25,7 +25,7 @@ permalink: /cards/to-fealty-sworn/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable on a Hobbit:*** _in the same company as Return of the King **or** during the same site phase his company plays a unique hero faction at a Free-hold_ \[![](/assets/images/free-hold.svg)] (not Bag End). The Hobbit gains the warrior skill. +2 prowess, and +5 direct influence against the _Hobbits_ faction and characters with Bag End as a home site. Cannot be duplicated on a given Hobbit.  
+> > ***Playable on a Hobbit:*** _in the same company as Return of the King **or** during the same site phase his company plays a unique hero faction at a Free-hold_ <nobr>[<img src="/assets/images/free-hold.svg">]</nobr> (not Bag End). The Hobbit gains the warrior skill. +2 prowess, and +5 direct influence against the _Hobbits_ faction and characters with Bag End as a home site. Cannot be duplicated on a given Hobbit.  
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +2/&ndash; 】</div>

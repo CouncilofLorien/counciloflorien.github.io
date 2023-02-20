@@ -22,7 +22,7 @@ permalink: /cards/lost-tome/
 > Minor Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Lost Knowledge._ Cannot be included with a starting company. After this item is played, the bearer faces an attack (cannot be canceled): Trap --- 1 strike with 9 prowess (weapons do not modify prowess against this strike). If its bearer is at a Shadow-hold \[![](/assets/images/shadow-hold.svg)] or Dark-hold \[![](/assets/images/dark-hold.svg)], discard _Lost Tome_ to make information playable at the site until the end of turn.  
+> > _Lost Knowledge._ Cannot be included with a starting company. After this item is played, the bearer faces an attack (cannot be canceled): Trap --- 1 strike with 9 prowess (weapons do not modify prowess against this strike). If its bearer is at a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> or Dark-hold <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr>, discard _Lost Tome_ to make information playable at the site until the end of turn.  
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

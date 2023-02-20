@@ -85,7 +85,7 @@ permalink: /cards/dol-guldur/
 > Southern Mirkwood
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Site Path From Minas Morgul: \[![](/assets/images/shadow-land.svg)] \[![](/assets/images/dark-domain.svg)] \[![](/assets/images/dark-domain.svg)] \[![](/assets/images/shadow-land.svg)] \[![](/assets/images/dark-domain.svg)] Site Path From Carn Dum: \[![](/assets/images/shadow-land.svg)] \[![](/assets/images/dark-domain.svg)] \[![](/assets/images/border-land.svg)] \[![](/assets/images/dark-domain.svg)] <br>_**Special:**_ Any Gold Ring stored at this site is automatically tested (modify the roll by -2). Any attack against a minion company at this site is canceled. 
+> > Site Path From Minas Morgul: <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr> <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr> <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr> Site Path From Carn Dum: <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr> <nobr>[<img src="/assets/images/border-land.svg">]</nobr> <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr> <br>_**Special:**_ Any Gold Ring stored at this site is automatically tested (modify the roll by -2). Any attack against a minion company at this site is canceled. 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

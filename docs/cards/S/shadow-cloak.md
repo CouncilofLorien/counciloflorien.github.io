@@ -22,7 +22,7 @@ permalink: /cards/shadow-cloak/
 > Minor Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Tap _Shadow-cloak_ to cancel one hazard creature strike keyed by type to a Shadow-land \[![](/assets/images/shadow-land.svg)], Shadow-hold \[![](/assets/images/shadow-hold.svg)], Dark-domain \[![](/assets/images/dark-hold.svg)], or Dark-hold \[![](/assets/images/dark-hold.svg)]. <br>&ensp;Cannot be duplicated on a given character.   
+> > Tap _Shadow-cloak_ to cancel one hazard creature strike keyed by type to a Shadow-land <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr>, Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr>, Dark-domain <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr>, or Dark-hold <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr>. <br>&ensp;Cannot be duplicated on a given character.   
 > > 
 > > {: .fs-3 } 
 > > _“...a great silent shape, cloaked in a grey shadow...some nameless menace of power and doom.."_ ***---&#65279;LotRV*** 

@@ -22,5 +22,5 @@ permalink: /cards/here,-there,-or-yonder/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Tap a character during his site phase at a tapped or untapped Ruins & Lairs \[![](/assets/images/ruinlair.svg)]. Make a roll (or draw a #) modified by +3 if the character is a diplomat. An ally may be played and placed under the character's control if the result is greater than 6 plus the ally's mind stat **and** the ally is not restricted from moving in this site's region. If an ally is played, tap the site if it is not already tapped.  
+> > Tap a character during his site phase at a tapped or untapped Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr>. Make a roll (or draw a #) modified by +3 if the character is a diplomat. An ally may be played and placed under the character's control if the result is greater than 6 plus the ally's mind stat **and** the ally is not restricted from moving in this site's region. If an ally is played, tap the site if it is not already tapped.  
 > 

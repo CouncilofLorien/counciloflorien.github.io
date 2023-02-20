@@ -25,7 +25,7 @@ permalink: /cards/framsburg/
 > Anduin Vales
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br> When a company enters this site, opponent may play one creature from his hand that is treated in all ways as the site's automatic-attack (if defeated, creature is discarded). It must normally be playable keyed to a Ruins & Lairs \[![](/assets/images/ruinlair.svg)], Shadow-hold \[![](/assets/images/shadow-hold.svg)], single Wilderness \[![](/assets/images/wilderness.svg)], or Shadow-land \[![](/assets/images/shadow-land.svg)]. <br>_**Special:**_ Contains a hoard. 
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br> When a company enters this site, opponent may play one creature from his hand that is treated in all ways as the site's automatic-attack (if defeated, creature is discarded). It must normally be playable keyed to a Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr>, Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr>, single Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr>, or Shadow-land <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr>. <br>_**Special:**_ Contains a hoard. 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>

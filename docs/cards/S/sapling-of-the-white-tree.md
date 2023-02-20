@@ -22,7 +22,7 @@ permalink: /cards/sapling-of-the-white-tree/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Not playable in a Shadow-hold \[![](/assets/images/shadow-hold.svg)] or Dark-hold \[![](/assets/images/dark-hold.svg)]. May be stored at Minas Tirith. 2 marshalling points if stored at Minas Tirith. 
+> > Not playable in a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> or Dark-hold <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr>. May be stored at Minas Tirith. 2 marshalling points if stored at Minas Tirith. 
 > > 
 > > {: .fs-3 } 
 > > _“And he climbed to it, and saw that out of the very edge of the snow there sprung a sapling tree no more than three foot high."_ ***---&#65279;LotRVI*** 
@@ -42,7 +42,7 @@ permalink: /cards/sapling-of-the-white-tree/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Not playable in a Shadow-hold \[![](/assets/images/shadow-hold.svg)] or Dark-hold \[![](/assets/images/dark-hold.svg)]. May be stored at Minas Tirith. 2 marshalling points if stored at Minas Tirith. 
+> > Not playable in a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> or Dark-hold <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr>. May be stored at Minas Tirith. 2 marshalling points if stored at Minas Tirith. 
 > > 
 > > {: .fs-3 } 
 > > _“And he climbed to it, and saw that out of the very edge of the snow there sprung a sapling tree no more than three foot high."_ ***---&#65279;LotRVI*** 
@@ -62,7 +62,7 @@ permalink: /cards/sapling-of-the-white-tree/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Not playable in a Shadow-hold \[![](/assets/images/shadow-hold.svg)] or Dark-hold \[![](/assets/images/dark-hold.svg)]. May be stored at Minas Tirith. 2 marshalling points if stored at Minas Tirith. 
+> > Not playable in a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> or Dark-hold <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr>. May be stored at Minas Tirith. 2 marshalling points if stored at Minas Tirith. 
 > > 
 > > {: .fs-3 } 
 > > _“And he climbed to it, and saw that out of the very edge of the snow there sprung a sapling tree no more than three foot high."_ ***---&#65279;LotRVI*** 

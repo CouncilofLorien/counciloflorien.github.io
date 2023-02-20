@@ -25,7 +25,7 @@ permalink: /cards/gothmog/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Troll._ One strike. May also be played following an Orc or Troll attack in a Shadow-land \[![](/assets/images/shadow-land.svg)] or Shadow-hold \[![](/assets/images/shadow-hold.svg)]. 
+> > _**Unique.**_ _Troll._ One strike. May also be played following an Orc or Troll attack in a Shadow-land <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> or Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr>. 
 > > 
 > > {: .fs-3 } 
 > > _“There they had been mastered for the sack of the City and the rape of Gondor, waiting on the call of their captain. He now was destroyed; but Gothmog the lietenant of Morgul had flung them into the fray..."_ ***---&#65279;LotRV*** 

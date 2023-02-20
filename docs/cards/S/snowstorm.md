@@ -22,7 +22,7 @@ permalink: /cards/snowstorm/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ Playable only if _Doors of Night_ is in play. Each moving company with a Wilderness \[![](/assets/images/wilderness.svg)] in its site path must return to its site of origin. <br>&ensp;Cannot be duplicated. 
+> > _Environment._ Playable only if _Doors of Night_ is in play. Each moving company with a Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> in its site path must return to its site of origin. <br>&ensp;Cannot be duplicated. 
 > > 
 > > {: .fs-3 } 
 > > _“The wind whistled and the snow became a blinding blizzard."_ ***---&#65279;LotRII*** 
@@ -39,7 +39,7 @@ permalink: /cards/snowstorm/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ Playable only if _Doors of Night_ is in play. Each moving company with a Wilderness \[![](/assets/images/wilderness.svg)] in its site path must return to its site of origin. <br>&ensp;Cannot be duplicated. 
+> > _Environment._ Playable only if _Doors of Night_ is in play. Each moving company with a Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> in its site path must return to its site of origin. <br>&ensp;Cannot be duplicated. 
 > > 
 > > {: .fs-3 } 
 > > _“The wind whistled and the snow became a blinding blizzard."_ ***---&#65279;LotRII*** 
@@ -56,7 +56,7 @@ permalink: /cards/snowstorm/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ Playable only if _Doors of Night_ is in play. Each moving company with a Wilderness \[![](/assets/images/wilderness.svg)] in its site path must return to its site of origin. <br>&ensp;Cannot be duplicated. 
+> > _Environment._ Playable only if _Doors of Night_ is in play. Each moving company with a Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> in its site path must return to its site of origin. <br>&ensp;Cannot be duplicated. 
 > > 
 > > {: .fs-3 } 
 > > _“The wind whistled and the snow became a blinding blizzard."_ ***---&#65279;LotRII*** 

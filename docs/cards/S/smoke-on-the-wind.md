@@ -22,5 +22,5 @@ permalink: /cards/smoke-on-the-wind/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > ***Playable at an already tapped Free-hold*** \[![](/assets/images/free-hold.svg)] ***during the site phase***. The company faces two attacks (Men --- 5 strikes with 8 prowess, 1 strike with 10 prowess). If no characters are untapped following the attack, discard this card. Otherwise, you may tap one character in the company and put this card in your marshalling point pile. Discard any factions you have in play that are playable at this site. Cannot be duplicated at a given site.  
+> > ***Playable at an already tapped Free-hold*** <nobr>[<img src="/assets/images/free-hold.svg">]</nobr> ***during the site phase***. The company faces two attacks (Men --- 5 strikes with 8 prowess, 1 strike with 10 prowess). If no characters are untapped following the attack, discard this card. Otherwise, you may tap one character in the company and put this card in your marshalling point pile. Discard any factions you have in play that are playable at this site. Cannot be duplicated at a given site.  
 > 

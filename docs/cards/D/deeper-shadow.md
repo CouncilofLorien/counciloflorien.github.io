@@ -22,7 +22,7 @@ permalink: /cards/deeper-shadow/
 > Long-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Magic._ _Shadow-magic._ ***Playable during the movement/havard phase on a moving shadow-magic-using character.*** In character's site path, change a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] to a Shadow-hold \[![](/assets/images/shadow-hold.svg)] **or** one Wilderness \[![](/assets/images/wilderness.svg)] to a Shadow-land \[![](/assets/images/shadow-land.svg)]. Alternatively, decrease the hazard limit against his company by one (to no minimum). Unless he is a Ringwraith, he makes a corruption check modified by -3. 
+> > _Magic._ _Shadow-magic._ ***Playable during the movement/havard phase on a moving shadow-magic-using character.*** In character's site path, change a Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> **or** one Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> to a Shadow-land <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr>. Alternatively, decrease the hazard limit against his company by one (to no minimum). Unless he is a Ringwraith, he makes a corruption check modified by -3. 
 > 
 
 ### _Middle-earth Challenge Decks_
@@ -36,5 +36,5 @@ permalink: /cards/deeper-shadow/
 > Long-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Magic._ _Shadow-_Magic.__ Playable during the movement/havard phase on a moving shadow-magic-using character. In character's site path, change a Ruins and Lairs \[![](/assets/images/ruinlair.svg)] to a Shadow-hold \[![](/assets/images/shadow-hold.svg)] or one Wilderness \[![](/assets/images/wilderness.svg)] to a Shadow-land \[![](/assets/images/shadow-land.svg)]. 3 Alternatively, decrease the hazard limit against his company by one (to no minimum). Unless he is a Ringwraith, he makes a corruption check modified by -3. 
+> > _Magic._ _Shadow-_Magic.__ Playable during the movement/havard phase on a moving shadow-magic-using character. In character's site path, change a Ruins and Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> or one Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> to a Shadow-land <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr>. 3 Alternatively, decrease the hazard limit against his company by one (to no minimum). Unless he is a Ringwraith, he makes a corruption check modified by -3. 
 > 

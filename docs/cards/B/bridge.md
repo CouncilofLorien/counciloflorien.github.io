@@ -22,7 +22,7 @@ permalink: /cards/bridge/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable at the end of the movement/hazard phase on a company that moved to a Haven*** \[![](/assets/images/free-haven.svg)]. That company may move to an additional site on the same turn. Another site card may be played and a movement/hazard phase immediately follows for that company. 
+> > ***Playable at the end of the movement/hazard phase on a company that moved to a Haven*** <nobr>[<img src="/assets/images/free-haven.svg">]</nobr>. That company may move to an additional site on the same turn. Another site card may be played and a movement/hazard phase immediately follows for that company. 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,7 +36,7 @@ permalink: /cards/bridge/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable at the end of the movement/hazard phase on a company that moved to a Haven*** \[![](/assets/images/free-haven.svg)]. That company may move to an additional site on the same turn. Another site card may be played and a movement/hazard phase immediately follows for that company. 
+> > ***Playable at the end of the movement/hazard phase on a company that moved to a Haven*** <nobr>[<img src="/assets/images/free-haven.svg">]</nobr>. That company may move to an additional site on the same turn. Another site card may be played and a movement/hazard phase immediately follows for that company. 
 > 
 
 ### _Middle-earth: The Wizards Starter Set_
@@ -50,5 +50,5 @@ permalink: /cards/bridge/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable at the end of the movement/hazard phase on a company that moved to a Haven*** \[![](/assets/images/free-haven.svg)]. That company may move to an additional site on the same turn. Another site card may be played and a movement/hazard phase immediately follows for that company. 
+> > ***Playable at the end of the movement/hazard phase on a company that moved to a Haven*** <nobr>[<img src="/assets/images/free-haven.svg">]</nobr>. That company may move to an additional site on the same turn. Another site card may be played and a movement/hazard phase immediately follows for that company. 
 > 

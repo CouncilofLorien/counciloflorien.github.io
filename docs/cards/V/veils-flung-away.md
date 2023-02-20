@@ -22,7 +22,7 @@ permalink: /cards/veils-flung-away/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > ***Playable on a company moving in a Wilderness*** \[![](/assets/images/wilderness.svg)]***, Border-land*** \[![](/assets/images/border-land.svg)]***, or Free-domain*** \[![](/assets/images/free-domain.svg)] ***if Doors of Night is not in play;*** _does not count against the hazard limit._  Make a body check modified by +1 for each character. Determine if each Orc or Troll character is discarded as indicated on their cards. Otherwise, the body checks have no effect unless an untapped character fails his check, in which case he becomes tapped.  
+> > ***Playable on a company moving in a Wilderness*** <nobr>[<img src="/assets/images/wilderness.svg">]</nobr>***, Border-land*** <nobr>[<img src="/assets/images/border-land.svg">]</nobr>***, or Free-domain*** <nobr>[<img src="/assets/images/free-domain.svg">]</nobr> ***if Doors of Night is not in play;*** _does not count against the hazard limit._  Make a body check modified by +1 for each character. Determine if each Orc or Troll character is discarded as indicated on their cards. Otherwise, the body checks have no effect unless an untapped character fails his check, in which case he becomes tapped.  
 >
 
 ### _Middle-earth Challenge Decks_
@@ -36,5 +36,5 @@ permalink: /cards/veils-flung-away/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a company moving in a Wilderness \[![](/assets/images/wilderness.svg)], Border-land \[![](/assets/images/border-land.svg)], or Free-domain \[![](/assets/images/free-domain.svg)] if Doors of Night is not in play; does not count against the hazard limit.  Make a body check modified by +1 for each character. Determine if each Orc or Troll character is discarded as indicated on their cards. Otherwise, the body checks have no effect unless an untapped character fails his check, in which case he becomes tapped.  
+> > Playable on a company moving in a Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr>, Border-land <nobr>[<img src="/assets/images/border-land.svg">]</nobr>, or Free-domain <nobr>[<img src="/assets/images/free-domain.svg">]</nobr> if Doors of Night is not in play; does not count against the hazard limit.  Make a body check modified by +1 for each character. Determine if each Orc or Troll character is discarded as indicated on their cards. Otherwise, the body checks have no effect unless an untapped character fails his check, in which case he becomes tapped.  
 >

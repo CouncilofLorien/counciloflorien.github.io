@@ -22,7 +22,7 @@ permalink: /cards/vile-fumes/
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Technology._ ***Playable at a tapped or untapped Shadow-hold*** \[![](/assets/images/shadow-hold.svg)]***, Dark-hold*** \[![](/assets/images/dark-hold.svg)]***, or a site with a Dwarf-automatic-attack.*** Discard during the site phase at a Border-hold \[![](/assets/images/border-hold.svg)] or Shadow-hold \[![](/assets/images/shadow-hold.svg)] to make all versions of the site Ruins & Lairs \[![](/assets/images/ruinlair.svg)]. Its normal automatic-attacks are replaced with: Gas --- each character faces 1 strike with 7 prowess (cannot be canceled). Keep _Vile Fumes_ with the site until the site is discarded or returned to its location deck.  
+> > _Technology._ ***Playable at a tapped or untapped Shadow-hold*** <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr>***, Dark-hold*** <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr>***, or a site with a Dwarf-automatic-attack.*** Discard during the site phase at a Border-hold <nobr>[<img src="/assets/images/border-hold.svg">]</nobr> or Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> to make all versions of the site Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr>. Its normal automatic-attacks are replaced with: Gas --- each character faces 1 strike with 7 prowess (cannot be canceled). Keep _Vile Fumes_ with the site until the site is discarded or returned to its location deck.  
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -39,7 +39,7 @@ permalink: /cards/vile-fumes/
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Technology._. Playable at a tapped or untapped Shadow-hold \[![](/assets/images/shadow-hold.svg)], Dark-hold \[![](/assets/images/dark-hold.svg)], or a site with a Dwarf-automatic-attack. Discard during the site phase at a Border-hold \[![](/assets/images/border-hold.svg)] or Shadow-hold \[![](/assets/images/shadow-hold.svg)] to make all versions of the site Ruins & Lairs \[![](/assets/images/ruinlair.svg)]. Its normal automatic-attacks are replaced with: Gas-each character faces 1 strike with 7 prowess (cannot be canceled). Keep Vile Fumes with the site until the site is discarded or returned to its location deck.  
+> > _Technology._. Playable at a tapped or untapped Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr>, Dark-hold <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr>, or a site with a Dwarf-automatic-attack. Discard during the site phase at a Border-hold <nobr>[<img src="/assets/images/border-hold.svg">]</nobr> or Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> to make all versions of the site Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr>. Its normal automatic-attacks are replaced with: Gas-each character faces 1 strike with 7 prowess (cannot be canceled). Keep Vile Fumes with the site until the site is discarded or returned to its location deck.  
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

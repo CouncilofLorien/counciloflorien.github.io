@@ -22,5 +22,5 @@ permalink: /cards/the-names-among-them/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > ***Playable on an untapped scout immediately after facing an automatic-attack at a Border-hold*** \[![](/assets/images/border-hold.svg)] ***or Free-hold*** \[![](/assets/images/free-hold.svg)]. Tap the scout. No marshalling points are received until this card is stored at a Darkhaven \[![](/assets/images/dark-haven.svg)] during his organization phase. Once stored, this card may be discarded to cancel an automatic-attack at a Free-hold \[![](/assets/images/free-hold.svg)] or Border-hold \[![](/assets/images/border-hold.svg)].  
+> > ***Playable on an untapped scout immediately after facing an automatic-attack at a Border-hold*** <nobr>[<img src="/assets/images/border-hold.svg">]</nobr> ***or Free-hold*** <nobr>[<img src="/assets/images/free-hold.svg">]</nobr>. Tap the scout. No marshalling points are received until this card is stored at a Darkhaven <nobr>[<img src="/assets/images/dark-haven.svg">]</nobr> during his organization phase. Once stored, this card may be discarded to cancel an automatic-attack at a Free-hold <nobr>[<img src="/assets/images/free-hold.svg">]</nobr> or Border-hold <nobr>[<img src="/assets/images/border-hold.svg">]</nobr>.  
 > 

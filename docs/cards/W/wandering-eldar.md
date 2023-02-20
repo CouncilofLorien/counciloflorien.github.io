@@ -25,7 +25,7 @@ permalink: /cards/wandering-eldar/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Elves._ Each character in the company faces one strike (detainment against covert and hero companies). If _Doors of Night_ is not in play, may also be played keyed to Free-domains \[![](/assets/images/free-domain.svg)].   
+> > _Elves._ Each character in the company faces one strike (detainment against covert and hero companies). If _Doors of Night_ is not in play, may also be played keyed to Free-domains <nobr>[<img src="/assets/images/free-domain.svg">]</nobr>.   
 > > 
 > > {: .fs-3 } 
 > > _“‘They don't live in the Shire, but they wander into it in Spring and Autumn, out of their own lands...’”_ ***---&#65279;LotRI*** 

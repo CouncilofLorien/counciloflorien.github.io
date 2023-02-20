@@ -25,7 +25,7 @@ permalink: /cards/war-warg/
 > Ally
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > ***Playable at any tapped or untapped Ruins & Lairs*** \[![](/assets/images/ruinlair.svg)] ***with a Wolf automatic-attack.*** If the _War-warg_ and its controlling character are both targets of strikes from the same attack, you may tap _War-warg_ to give +2 to body to its controlling character. 
+> > ***Playable at any tapped or untapped Ruins & Lairs*** <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> ***with a Wolf automatic-attack.*** If the _War-warg_ and its controlling character are both targets of strikes from the same attack, you may tap _War-warg_ to give +2 to body to its controlling character. 
 > > 
 > > {: .fs-3 } 
 > > _“He spoke to them in the language of the Wargs...it sounded terrible...as it was."_ ***---&#65279;Hob*** 

@@ -25,7 +25,7 @@ permalink: /cards/carambor/
 > Warrior/Scout/Ranger Elf
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ May tap at the end of his company's movement/hazard phase to allow it to move to an additional site on the same turn. Another site card may be played and another movement/hazard phase immediately follows for his company. The new site path must contain at least one Wilderness \[![](/assets/images/wilderness.svg)].   
+> > _**Unique.**_ May tap at the end of his company's movement/hazard phase to allow it to move to an additional site on the same turn. Another site card may be played and another movement/hazard phase immediately follows for his company. The new site path must contain at least one Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr>.   
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Carn Dum  

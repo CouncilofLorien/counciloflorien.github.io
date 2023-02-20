@@ -25,7 +25,7 @@ permalink: /cards/giant/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > One strike. <br>&ensp;Two Wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. 
+> > One strike. <br>&ensp;Two Wildernesses <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> in site path are required. 
 > > 
 > > {: .fs-3 } 
 > > _“...stone-giants were out and were hurtling rocks at one another for a game, and catching them, and tossing them down into the darkness where they smashed among the trees far below...”_ ***---&#65279;Hob*** 
@@ -48,7 +48,7 @@ permalink: /cards/giant/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Giant._ One strike. <br>&ensp;Two Wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. 
+> > _Giant._ One strike. <br>&ensp;Two Wildernesses <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> in site path are required. 
 > > 
 > > {: .fs-3 } 
 > > _“...stone-giants were out and were hurtling rocks at one another for a game, and catching them, and tossing them down into the darkness where they smashed among the trees far below...”_ ***---&#65279;Hob*** 
@@ -71,7 +71,7 @@ permalink: /cards/giant/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Giant._ One strike. <br>&ensp;Two Wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. 
+> > _Giant._ One strike. <br>&ensp;Two Wildernesses <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> in site path are required. 
 > > 
 > > {: .fs-3 } 
 > > _“‘...the sounds were those of shrill cries, and wild howls of laughter.’”_ ***---&#65279;LotRII*** 

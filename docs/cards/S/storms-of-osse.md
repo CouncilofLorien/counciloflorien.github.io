@@ -22,7 +22,7 @@ permalink: /cards/storms-of-osse/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ Playable only if _Doors of Night_ is in play. Each non-Haven site in play with a Coastal Sea \[![](/assets/images/coastalsea.svg)] in its site path is tapped. <br>&ensp;Cannot be duplicated. 
+> > _Environment._ Playable only if _Doors of Night_ is in play. Each non-Haven site in play with a Coastal Sea <nobr>[<img src="/assets/images/coastalsea.svg">]</nobr> in its site path is tapped. <br>&ensp;Cannot be duplicated. 
 > > 
 > > {: .fs-3 } 
 > > _“Like Voronwe of old, they fought the wrath of Osse and rode high upon the wings of the storm, far above the deeps of the Sea."_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -39,7 +39,7 @@ permalink: /cards/storms-of-osse/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ Playable only if _Doors of Night_ is in play. Each non-Haven site in play with a Coastal Sea \[![](/assets/images/coastalsea.svg)] in its site path is tapped. <br>&ensp;Cannot be duplicated. 
+> > _Environment._ Playable only if _Doors of Night_ is in play. Each non-Haven site in play with a Coastal Sea <nobr>[<img src="/assets/images/coastalsea.svg">]</nobr> in its site path is tapped. <br>&ensp;Cannot be duplicated. 
 > > 
 > > {: .fs-3 } 
 > > _“Like Voronwe of old, they fought the wrath of Osse and rode high upon the wings of the storm, far above the deeps of the Sea."_ ***---&#65279;Kuduk&nbsp;Lore*** 

@@ -22,5 +22,5 @@ permalink: /cards/swag/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > ***Playable on a company at a tapped Ruins & Lairs*** \[![](/assets/images/ruinlair.svg)]***, Border-hold*** \[![](/assets/images/border-hold.svg)]***, or Free-hold*** \[![](/assets/images/free-hold.svg)]. During the site phase, one or two characters in that company may each tap to take control of a non-unique, non-hoard minor item of the following type: weapon, armor, shield, or helmet. You may take these items from your play deck (reshuffle if used), discard pile, and/or sideboard. 
+> > ***Playable on a company at a tapped Ruins & Lairs*** <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr>***, Border-hold*** <nobr>[<img src="/assets/images/border-hold.svg">]</nobr>***, or Free-hold*** <nobr>[<img src="/assets/images/free-hold.svg">]</nobr>. During the site phase, one or two characters in that company may each tap to take control of a non-unique, non-hoard minor item of the following type: weapon, armor, shield, or helmet. You may take these items from your play deck (reshuffle if used), discard pile, and/or sideboard. 
 > 

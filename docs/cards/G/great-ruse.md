@@ -25,7 +25,7 @@ permalink: /cards/great-ruse/
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > ***Playable during the site phase on a Shadow-hold*** \[![](/assets/images/shadow-hold.svg)] ***or Dark-hold*** \[![](/assets/images/dark-hold.svg)] ***hero site if you have an overt company there.*** Replace the hero site card with the corresponding minion site card. Discard when this site is discarded or returned to your location deck.   
+> > ***Playable during the site phase on a Shadow-hold*** <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> ***or Dark-hold*** <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr> ***hero site if you have an overt company there.*** Replace the hero site card with the corresponding minion site card. Discard when this site is discarded or returned to your location deck.   
 > > 
 > > {: .fs-3 } 
 > > _“‘Thief, thief, thief!’”_ ***---&#65279;Hob***  

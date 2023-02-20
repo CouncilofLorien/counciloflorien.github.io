@@ -22,7 +22,7 @@ permalink: /cards/fair-travels-in-free-domains/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable at the end of the organization phase*** if target company plays a new site card. The hazard limit for the target company decreases by one for every Free-domain \[![](/assets/images/free-domain.svg)] in its site path (to a minimum of two). Cannot be duplicated on the same company. 
+> > ***Playable at the end of the organization phase*** if target company plays a new site card. The hazard limit for the target company decreases by one for every Free-domain <nobr>[<img src="/assets/images/free-domain.svg">]</nobr> in its site path (to a minimum of two). Cannot be duplicated on the same company. 
 > > 
 > > {: .fs-3 } 
 > > _“...he beheld...a far green country...”_ ***---&#65279;LotRVI*** 
@@ -39,7 +39,7 @@ permalink: /cards/fair-travels-in-free-domains/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable at the end of the organization phase*** if target company plays a new site card. The hazard limit for the target company decreases by one for every Free-domain \[![](/assets/images/free-domain.svg)] in its site path (to a minimum of two). Cannot be duplicated on the same company. 
+> > ***Playable at the end of the organization phase*** if target company plays a new site card. The hazard limit for the target company decreases by one for every Free-domain <nobr>[<img src="/assets/images/free-domain.svg">]</nobr> in its site path (to a minimum of two). Cannot be duplicated on the same company. 
 > > 
 > > {: .fs-3 } 
 > > _“...he beheld...a far green country...”_ ***---&#65279;LotRVI*** 

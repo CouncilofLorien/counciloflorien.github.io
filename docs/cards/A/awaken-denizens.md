@@ -22,7 +22,7 @@ permalink: /cards/awaken-denizens/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The number of strikes for each automatic-attack at a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] site is doubled. <br>&ensp;Cannot be duplicated. 
+> > The number of strikes for each automatic-attack at a Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> site is doubled. <br>&ensp;Cannot be duplicated. 
 > > 
 > > {: .fs-3 } 
 > > _“‘...they're gone for robbers and live outside, hiding in the woods beyond Archet, and out in the wilds north-way. It's like a bit of the bad old times tales tell of, I say.’”_ ***---&#65279;LotRVI*** 
@@ -39,7 +39,7 @@ permalink: /cards/awaken-denizens/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The number of strikes for each automatic-attack at a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] site is doubled. <br>&ensp;Cannot be duplicated. 
+> > The number of strikes for each automatic-attack at a Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> site is doubled. <br>&ensp;Cannot be duplicated. 
 > > 
 > > {: .fs-3 } 
 > > _“‘...they're gone for robbers and live outside, hiding in the woods beyond Archet, and out in the wilds north-way. It's like a bit of the bad old times tales tell of, I say.’”_ ***---&#65279;LotRVI*** 
@@ -56,7 +56,7 @@ permalink: /cards/awaken-denizens/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The number of strikes for each automatic-attack at a Ruins & Lairs \[![](/assets/images/ruinlair.svg)] site is doubled. Cannot be duplicated. 
+> > The number of strikes for each automatic-attack at a Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> site is doubled. Cannot be duplicated. 
 > > 
 > > {: .fs-3 } 
 > > _“‘...I have a sense of watchfulness, and of fear, that I have never had here before.’”_ ***---&#65279;LotRIII*** 

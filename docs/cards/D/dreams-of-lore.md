@@ -22,7 +22,7 @@ permalink: /cards/dreams-of-lore/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Sage only during the site phase at an untapped site where "Information" is playable.*** Tap the sage and the site. Sage may not untap until _Dreams of Lore_ is stored at a Haven \[![](/assets/images/free-haven.svg)] during his organization phase. May not be transferred. 
+> > ***Sage only during the site phase at an untapped site where "Information" is playable.*** Tap the sage and the site. Sage may not untap until _Dreams of Lore_ is stored at a Haven <nobr>[<img src="/assets/images/free-haven.svg">]</nobr> during his organization phase. May not be transferred. 
 > > 
 > > {: .fs-3 } 
 > > _“...if sleep could be called...resting his mind in the strange paths of elvish dreams...”_ ***---&#65279;LotRII*** 
@@ -39,7 +39,7 @@ permalink: /cards/dreams-of-lore/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Sage only during the site phase at an untapped site where "Information" is playable.*** Tap the sage and the site. Sage may not untap until _Dreams of Lore_ is stored at a Haven \[![](/assets/images/free-haven.svg)] during his organization phase. May not be transferred. 
+> > ***Sage only during the site phase at an untapped site where "Information" is playable.*** Tap the sage and the site. Sage may not untap until _Dreams of Lore_ is stored at a Haven <nobr>[<img src="/assets/images/free-haven.svg">]</nobr> during his organization phase. May not be transferred. 
 > > 
 > > {: .fs-3 } 
 > > _“...if sleep could be called...resting his mind in the strange paths of elvish dreams...”_ ***---&#65279;LotRII*** 

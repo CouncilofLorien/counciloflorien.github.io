@@ -22,7 +22,7 @@ permalink: /cards/drowning-seas/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ Playable on a company that moved this turn to a site with a Coastal Sea \[![](/assets/images/coastalsea.svg)] in its site path. Target company loses one item of its choice and its player must randomly discard two cards from his hand. <br>&ensp;Alternatively, if _Doors of Night_ is in play, target company must immediately return to its site of origin. <br>&ensp;Cannot be duplicated.
+> > _Environment._ Playable on a company that moved this turn to a site with a Coastal Sea <nobr>[<img src="/assets/images/coastalsea.svg">]</nobr> in its site path. Target company loses one item of its choice and its player must randomly discard two cards from his hand. <br>&ensp;Alternatively, if _Doors of Night_ is in play, target company must immediately return to its site of origin. <br>&ensp;Cannot be duplicated.
 >
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,5 +36,5 @@ permalink: /cards/drowning-seas/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ Playable on a company that moved this turn to a site with a Coastal Sea \[![](/assets/images/coastalsea.svg)] in its site path. Target company loses one item of its choice and its player must randomly discard two cards from his hand. <br>&ensp;Alternatively, if _Doors of Night_ is in play, target company must immediately return to its site of origin. 
+> > _Environment._ Playable on a company that moved this turn to a site with a Coastal Sea <nobr>[<img src="/assets/images/coastalsea.svg">]</nobr> in its site path. Target company loses one item of its choice and its player must randomly discard two cards from his hand. <br>&ensp;Alternatively, if _Doors of Night_ is in play, target company must immediately return to its site of origin. 
 >

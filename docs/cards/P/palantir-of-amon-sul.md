@@ -22,7 +22,7 @@ permalink: /cards/palantir-of-amon-sul/
 > Greater Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ _Palantir._ If the bearer's company is ever below 2 characters and the company moves, discard the Palantir. 5 marshalling points if stored in a Haven \[![](/assets/images/free-haven.svg)]. <br>&ensp;With its bearer able to use a Palantir, tap _Palantir of Amon Sul_ to look at your opponent's hand **or** tap it to use the abilities of either the _Palantir of Annuminas_ or the _Palantir of Elostirion_ if either one is in play. Bearer makes a corruption check. 
+> > _Unique._ _Palantir._ If the bearer's company is ever below 2 characters and the company moves, discard the Palantir. 5 marshalling points if stored in a Haven <nobr>[<img src="/assets/images/free-haven.svg">]</nobr>. <br>&ensp;With its bearer able to use a Palantir, tap _Palantir of Amon Sul_ to look at your opponent's hand **or** tap it to use the abilities of either the _Palantir of Annuminas_ or the _Palantir of Elostirion_ if either one is in play. Bearer makes a corruption check. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -39,7 +39,7 @@ permalink: /cards/palantir-of-amon-sul/
 > Greater Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ _Palantir._ If the bearer's company is ever below 2 characters and the company moves, discard the Palantir. 5 marshalling points if stored in a Haven \[![](/assets/images/free-haven.svg)]. <br>&ensp;With its bearer able to use a Palantir, tap _Palantir of Amon Sul_ to look at your opponent's hand **or** tap it to use the abilities of either the _Palantir of Annuminas_ or the _Palantir of Elostirion_ if either one is in play. Bearer makes a corruption check. 
+> > _Unique._ _Palantir._ If the bearer's company is ever below 2 characters and the company moves, discard the Palantir. 5 marshalling points if stored in a Haven <nobr>[<img src="/assets/images/free-haven.svg">]</nobr>. <br>&ensp;With its bearer able to use a Palantir, tap _Palantir of Amon Sul_ to look at your opponent's hand **or** tap it to use the abilities of either the _Palantir of Annuminas_ or the _Palantir of Elostirion_ if either one is in play. Bearer makes a corruption check. 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

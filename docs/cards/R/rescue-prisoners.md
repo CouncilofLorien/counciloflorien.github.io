@@ -22,7 +22,7 @@ permalink: /cards/rescue-prisoners/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable at an already tapped Dark-hold*** \[![](/assets/images/dark-hold.svg)] ***or Shadow-hold*** \[![](/assets/images/shadow-hold.svg)] ***during the site phase.*** The company faces a spider attack (2 strikes with 7 prowess). If no characters are untapped after the attack, discard _Rescue Prisoners._ Otherwise, you may tap 1 character in the company and put _Rescue Prisoners_ under his control. That character may not untap until _Rescue Prisoners_ is stored at a Haven \[![](/assets/images/free-haven.svg)], Border-hold \[![](/assets/images/border-hold.svg)], or Free-hold \[![](/assets/images/free-hold.svg)] during his organization phase. <br>&ensp;Cannot be duplicated at a given site. 
+> > ***Playable at an already tapped Dark-hold*** <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr> ***or Shadow-hold*** <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> ***during the site phase.*** The company faces a spider attack (2 strikes with 7 prowess). If no characters are untapped after the attack, discard _Rescue Prisoners._ Otherwise, you may tap 1 character in the company and put _Rescue Prisoners_ under his control. That character may not untap until _Rescue Prisoners_ is stored at a Haven <nobr>[<img src="/assets/images/free-haven.svg">]</nobr>, Border-hold <nobr>[<img src="/assets/images/border-hold.svg">]</nobr>, or Free-hold <nobr>[<img src="/assets/images/free-hold.svg">]</nobr> during his organization phase. <br>&ensp;Cannot be duplicated at a given site. 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -36,7 +36,7 @@ permalink: /cards/rescue-prisoners/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable at an already tapped Dark-hold*** \[![](/assets/images/dark-hold.svg)] ***or Shadow-hold*** \[![](/assets/images/shadow-hold.svg)] ***during the site phase.*** The company faces a spider attack (2 strikes with 7 prowess). If no characters are untapped after the attack, discard _Rescue Prisoners._ Otherwise, you may tap 1 character in the company and put _Rescue Prisoners_ under his control. That character may not untap until _Rescue Prisoners_ is stored at a Haven \[![](/assets/images/free-haven.svg)], Border-hold \[![](/assets/images/border-hold.svg)], or Free-hold \[![](/assets/images/free-hold.svg)] during his organization phase. <br>&ensp;Cannot be duplicated at a given site. 
+> > ***Playable at an already tapped Dark-hold*** <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr> ***or Shadow-hold*** <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> ***during the site phase.*** The company faces a spider attack (2 strikes with 7 prowess). If no characters are untapped after the attack, discard _Rescue Prisoners._ Otherwise, you may tap 1 character in the company and put _Rescue Prisoners_ under his control. That character may not untap until _Rescue Prisoners_ is stored at a Haven <nobr>[<img src="/assets/images/free-haven.svg">]</nobr>, Border-hold <nobr>[<img src="/assets/images/border-hold.svg">]</nobr>, or Free-hold <nobr>[<img src="/assets/images/free-hold.svg">]</nobr> during his organization phase. <br>&ensp;Cannot be duplicated at a given site. 
 > 
 
 ### _Middle-earth Challenge Decks_
@@ -50,5 +50,5 @@ permalink: /cards/rescue-prisoners/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable at an already tapped Dark-hold*** \[![](/assets/images/dark-hold.svg)] ***or Shadow-hold*** \[![](/assets/images/shadow-hold.svg)] ***during the site phase.*** The company faces a spider attack (2 strikes with 7 prowess). If no characters are untapped after the attack, discard _Rescue Prisoners._ Otherwise, you may tap 1 character in the company and put _Rescue Prisoners_ under his control. That character may not untap until _Rescue Prisoners_ is stored at a Haven \[![](/assets/images/free-haven.svg)], Border-hold \[![](/assets/images/border-hold.svg)], or Free-hold \[![](/assets/images/free-hold.svg)] during his organization phase. <br>&ensp;Cannot be duplicated at a given site. 
+> > ***Playable at an already tapped Dark-hold*** <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr> ***or Shadow-hold*** <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> ***during the site phase.*** The company faces a spider attack (2 strikes with 7 prowess). If no characters are untapped after the attack, discard _Rescue Prisoners._ Otherwise, you may tap 1 character in the company and put _Rescue Prisoners_ under his control. That character may not untap until _Rescue Prisoners_ is stored at a Haven <nobr>[<img src="/assets/images/free-haven.svg">]</nobr>, Border-hold <nobr>[<img src="/assets/images/border-hold.svg">]</nobr>, or Free-hold <nobr>[<img src="/assets/images/free-hold.svg">]</nobr> during his organization phase. <br>&ensp;Cannot be duplicated at a given site. 
 > 

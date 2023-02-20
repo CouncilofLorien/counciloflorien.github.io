@@ -25,7 +25,7 @@ permalink: /cards/tom-(tuma)/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Troll._ One strike. If played after _"Bert"_ or _"William"_ and if keyed to the same site path against the same company, each character wounded by _"Tom"_ must discard all non-special items he bears. <br>&ensp;Two Wildernesses \[![](/assets/images/wilderness.svg)] in the site path are required. 
+> > _**Unique.**_ _Troll._ One strike. If played after _"Bert"_ or _"William"_ and if keyed to the same site path against the same company, each character wounded by _"Tom"_ must discard all non-special items he bears. <br>&ensp;Two Wildernesses <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> in the site path are required. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 13/&ndash; 】</div>
@@ -45,7 +45,7 @@ permalink: /cards/tom-(tuma)/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Troll._ One strike. If played after _"Bert"_ or _"William"_ and if keyed to the same site path against the same company, each character wounded by _"Tom"_ must discard all non-special items he bears. <br>&ensp;Two Wildernesses \[![](/assets/images/wilderness.svg)] in the site path are required. 
+> > _**Unique.**_ _Troll._ One strike. If played after _"Bert"_ or _"William"_ and if keyed to the same site path against the same company, each character wounded by _"Tom"_ must discard all non-special items he bears. <br>&ensp;Two Wildernesses <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> in the site path are required. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 13/&ndash; 】</div>
@@ -65,7 +65,7 @@ permalink: /cards/tom-(tuma)/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Troll._ One strike. If played after _"Bert"_ or _"William"_ and if keyed to the same site path against the same company, each character wounded by _"Tom"_ must discard all non-special items he bears. <br>&ensp;Two Wildernesses \[![](/assets/images/wilderness.svg)] in the site path are required. 
+> > _**Unique.**_ _Troll._ One strike. If played after _"Bert"_ or _"William"_ and if keyed to the same site path against the same company, each character wounded by _"Tom"_ must discard all non-special items he bears. <br>&ensp;Two Wildernesses <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> in the site path are required. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 13/&ndash; 】</div>

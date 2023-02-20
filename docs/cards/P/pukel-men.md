@@ -25,7 +25,7 @@ permalink: /cards/pukel-men/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > Two strikes. May also be played at Ruins & Lairs \[![](/assets/images/ruinlair.svg)] sites in the following regions: Andrast, Anfalas, Anorien, Dunland, Enedhwaith, Gap of Isen, Lamedon, Old Pukel Gap, Old Pukel-land, and Rohan. 
+> > Two strikes. May also be played at Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> sites in the following regions: Andrast, Anfalas, Anorien, Dunland, Enedhwaith, Gap of Isen, Lamedon, Old Pukel Gap, Old Pukel-land, and Rohan. 
 > > 
 > > {: .fs-3 } 
 > > _“...great standing stones...carved in the likeness of men...squatting cross-legged with their stumpy arms folded on their fat bellies."_ ***---&#65279;LotRV*** 
@@ -48,7 +48,7 @@ permalink: /cards/pukel-men/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Pukel-creature._ Two strikes. May also be played at Ruins & Lairs \[![](/assets/images/ruinlair.svg)] sites in the following regions: Andrast, Anfalas, Anorien, Dunland, Enedhwaith, Gap of Isen, Lamedon, Old Pukel Gap, Old Pukel-land, and Rohan. 
+> > _Pukel-creature._ Two strikes. May also be played at Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> sites in the following regions: Andrast, Anfalas, Anorien, Dunland, Enedhwaith, Gap of Isen, Lamedon, Old Pukel Gap, Old Pukel-land, and Rohan. 
 > > 
 > > {: .fs-3 } 
 > > _“...great standing stones...carved in the likeness of men...squatting cross-legged with their stumpy arms folded on their fat bellies."_ ***---&#65279;LotRV*** 
@@ -71,7 +71,7 @@ permalink: /cards/pukel-men/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Pukel-creature._ Two strikes. May also be played at Ruins & Lairs \[![](/assets/images/ruinlair.svg)] sites in the following regions: Andrast, Anfalas, Anorien, Dunland, Enedhwaith, Gap of Isen, Lamedon, Old Pukel Gap, Old Pukel-land, and Rohan. 
+> > _Pukel-creature._ Two strikes. May also be played at Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> sites in the following regions: Andrast, Anfalas, Anorien, Dunland, Enedhwaith, Gap of Isen, Lamedon, Old Pukel Gap, Old Pukel-land, and Rohan. 
 > > 
 > > {: .fs-3 } 
 > > _“...great standing stones...carved in the likeness of men...squatting cross-legged with their stumpy arms folded on their fat bellies."_ ***---&#65279;LotRV*** 

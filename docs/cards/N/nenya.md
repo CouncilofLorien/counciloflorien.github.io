@@ -22,7 +22,7 @@ permalink: /cards/nenya/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Galadriel only.**_ +2 prowess, +2 body, +2 direct influence for the rest of the turn. Galadriel makes a corruption check modified by -3, by -1 if in a Haven \[![](/assets/images/free-haven.svg)]. Any one corruption check made by a character _not_ in a Shadow-hold \[![](/assets/images/shadow-hold.svg)] or Dark-hold \[![](/assets/images/dark-hold.svg)] is automatically successful. 
+> > _**Galadriel only.**_ +2 prowess, +2 body, +2 direct influence for the rest of the turn. Galadriel makes a corruption check modified by -3, by -1 if in a Haven <nobr>[<img src="/assets/images/free-haven.svg">]</nobr>. Any one corruption check made by a character _not_ in a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> or Dark-hold <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr> is automatically successful. 
 > > 
 > > {: .fs-3 } 
 > > _“‘...the Ring of Adamant...’”_ ***---&#65279;LotRII*** 
@@ -39,7 +39,7 @@ permalink: /cards/nenya/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Galadriel only.**_ +2 prowess, +2 body, +2 direct influence for the rest of the turn. Galadriel makes a corruption check modified by -3, by -1 if in a Haven \[![](/assets/images/free-haven.svg)]. Any one corruption check made by a character _not_ in a Shadow-hold \[![](/assets/images/shadow-hold.svg)] or Dark-hold \[![](/assets/images/dark-hold.svg)] is automatically successful. 
+> > _**Galadriel only.**_ +2 prowess, +2 body, +2 direct influence for the rest of the turn. Galadriel makes a corruption check modified by -3, by -1 if in a Haven <nobr>[<img src="/assets/images/free-haven.svg">]</nobr>. Any one corruption check made by a character _not_ in a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> or Dark-hold <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr> is automatically successful. 
 > > 
 > > {: .fs-3 } 
 > > _“‘...the Ring of Adamant...’”_ ***---&#65279;LotRII*** 

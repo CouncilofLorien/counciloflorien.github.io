@@ -22,7 +22,7 @@ permalink: /cards/morgul-night/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ Playable only if _Doors of Night_ is in play, treat all Wildernesses \[![](/assets/images/wilderness.svg)] as Shadow-lands \[![](/assets/images/shadow-land.svg)] **and** all Shadow-lands \[![](/assets/images/shadow-land.svg)] as Dark-domains \[![](/assets/images/dark-domain.svg)]. <br>&ensp;Cannot be duplicated. 
+> > _Environment._ Playable only if _Doors of Night_ is in play, treat all Wildernesses <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> as Shadow-lands <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> **and** all Shadow-lands <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> as Dark-domains <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr>. <br>&ensp;Cannot be duplicated. 
 > > 
 > > {: .fs-3 } 
 > > _“Far above a great cloud streamed slowly westward from the black land, devouring light, borne upon a wind of war...”_ ***---&#65279;LotRV*** 
@@ -39,7 +39,7 @@ permalink: /cards/morgul-night/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ Playable only if _Doors of Night_ is in play, treat all Wildernesses \[![](/assets/images/wilderness.svg)] as Shadow-lands \[![](/assets/images/shadow-land.svg)] **and** all Shadow-lands \[![](/assets/images/shadow-land.svg)] as Dark-domains \[![](/assets/images/dark-domain.svg)]. <br>&ensp;Cannot be duplicated. 
+> > _Environment._ Playable only if _Doors of Night_ is in play, treat all Wildernesses <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> as Shadow-lands <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> **and** all Shadow-lands <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> as Dark-domains <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr>. <br>&ensp;Cannot be duplicated. 
 > > 
 > > {: .fs-3 } 
 > > _“Far above a great cloud streamed slowly westward from the black land, devouring light, borne upon a wind of war...”_ ***---&#65279;LotRV*** 

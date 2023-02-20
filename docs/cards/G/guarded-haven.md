@@ -25,5 +25,5 @@ permalink: /cards/guarded-haven/
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > ***Playable on one of your Wizardhavens*** \[![](/assets/images/free-haven.svg)] ***other than Isengard, The White Towers, or Rhosgobel.*** The site is protected. Cards that give marshalling points are not playable at the site by your opponent in all cases. A company moving to or from this site is not considered to be moving through the region containing the site (including one less of its region type in their site path). Cannot be duplicated on a given site. 
+> > ***Playable on one of your Wizardhavens*** <nobr>[<img src="/assets/images/free-haven.svg">]</nobr> ***other than Isengard, The White Towers, or Rhosgobel.*** The site is protected. Cards that give marshalling points are not playable at the site by your opponent in all cases. A company moving to or from this site is not considered to be moving through the region containing the site (including one less of its region type in their site path). Cannot be duplicated on a given site. 
 > 
