@@ -19,13 +19,13 @@ permalink: /cards/winged-fire-drake/
 > > <div class="card-name">Winged Fire-drake</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/shadow-land.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/shadow-land.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Drake._ Two strikes. Attacker chooses defending characters. <br>&ensp;Three Wildernesses \[![](/assets/images/wilderness.svg)] or two Shadow-lands \[![](/assets/images/shadow-land.svg)] in site path are required. 
+> > _Drake._ Two strikes. Attacker chooses defending characters. <br>&ensp;Three Wildernesses \[![](/assets/images/wilderness.svg)] **or** two Shadow-lands \[![](/assets/images/shadow-land.svg)] in site path are required. 
 > > 
 > > {: .fs-3 } 
 > > _“‘As like as not it is the marauding fire of the Dragon, the only king under the Mountain we have ever known.’”_ ***---&#65279;Hob*** 

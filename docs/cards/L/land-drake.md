@@ -19,7 +19,7 @@ permalink: /cards/land-drake/
 > > <div class="card-name">Land-drake</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/ruinlair.svg)
+> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/ruinlair.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature

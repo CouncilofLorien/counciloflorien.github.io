@@ -19,7 +19,7 @@ permalink: /cards/gothmog/
 > > <div class="card-name">Gothmog</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/dark-hold.svg)
+> > ![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/dark-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -28,7 +28,7 @@ permalink: /cards/gothmog/
 > > _**Unique.**_ _Troll._ One strike. May also be played following an Orc or Troll attack in a Shadow-land \[![](/assets/images/shadow-land.svg)] or Shadow-hold \[![](/assets/images/shadow-hold.svg)]. 
 > > 
 > > {: .fs-3 } 
-> > _“There they had been mastered for the sack of the City and the rape of Gondor, waiting on the call of their captain. He now was destroyed; but Gothmog the lietenant of Morgul had flung them into the fray.."_ ***---&#65279;LotRV*** 
+> > _“There they had been mastered for the sack of the City and the rape of Gondor, waiting on the call of their captain. He now was destroyed; but Gothmog the lietenant of Morgul had flung them into the fray..."_ ***---&#65279;LotRV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 14/9 】</div>

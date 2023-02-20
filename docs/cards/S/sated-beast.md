@@ -25,5 +25,5 @@ permalink: /cards/sated-beast/
 > > Target ahunt Dragon manifestation is discarded. <br>&ensp;Alternatively, if _Doors of Night_ is in play, decreases the number of strikes from one Dragon or Drake attack by one (to a minimum of one). <br>&ensp;This card may also be played during opponent's movement/hazard phase. 
 > > 
 > > {: .fs-3 } 
-> > _“...he went back to his golden couch to sleep-and to gather new strength."_ ***---&#65279;Hob*** 
+> > _“...he went back to his golden couch to sleep---and to gather new strength."_ ***---&#65279;Hob*** 
 > 

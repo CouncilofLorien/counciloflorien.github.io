@@ -19,7 +19,7 @@ permalink: /cards/dire-wolves/
 > > <div class="card-name">Dire Wolves</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/shadow-land.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -28,7 +28,7 @@ permalink: /cards/dire-wolves/
 > > _Wolves._ Four strikes. <br>&ensp;Two wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. 
 > > 
 > > {: .fs-3 } 
-> > _“...the evil packs that lived under the shadow of the goblin-infested mountains, over the Edge of the Wild on the borders of the unknown. Wolves of that sort smell keened than goblins, and do not need to see you to catch you!"_ ***---&#65279;Hob*** 
+> > _“...the evil packs that lived under the shadow of the goblin-infested mountains, over the Edge of the Wild on the borders of the unknown. Wolves of that sort smell keener than goblins, and do not need to see you to catch you!"_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 8/4 】</div>

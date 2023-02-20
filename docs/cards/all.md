@@ -18719,7 +18719,7 @@ permalink: /cards/all/
 > Sage Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ Healing effects affect all characters in her company. 
+> > _**Unique.**_ Healing cards affect all characters in her company. 
 > > 
 > > {: .fs-3 } 
 > > _“...an old wife, Ioreth, the eldest of the women who served in that house...”_ ***---&#65279;LotRV***  
@@ -18939,7 +18939,7 @@ permalink: /cards/all/
 > Greater Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Hoard item._ Bearer receives +1 all of his corruption checks. Controlling player may keep one more card than normal in his hand. This item gives zero corruption points.   
+> > _**Unique.**_ _Hoard item._ Bearer receives +1 to all of his corruption checks. Controlling player may keep one more card than normal in his hand. This item gives zero corruption points.   
 > > 
 > > {: .fs-3 } 
 > > _“...upon his breast an emerald."_ ***---&#65279;LotRII*** 
@@ -19142,7 +19142,7 @@ permalink: /cards/all/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Only playable at Lorien.*** Discard to untap bearer **or** bearer and one other character in his company. <br>&ensp;Alternatively, discard during organization phase to play an additional region card. 
+> > ***Only playable at Lorien.*** Discard to untap bearer **or** bearer and one other character in his company. <br>&ensp;Alternatively, discard during organization phase to allow its bearer's company to play an additional region card. 
 > > 
 > > {: .fs-3 } 
 > > _“‘...we call it lembas or waybread, and it is more strengthening than any food made by Men...’”_ ***---&#65279;LotRII*** 
@@ -19250,7 +19250,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable during organization phase on a company moving without region cards.*** Company may move from a site of origin in one of the following regions to a new site in one of the following regions: Lindon, Elven Shores, Eriadoran Coast, Andrast Coast, Bay of Belfalas, Mouths of the Anduin, Enedhwaith, Old Pukel-land, Andrast, Anfalas, Belfalas, Lebennin, and Harondor. The site path is \[![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg)] and the hazard limit is decreased by two to a minimum of two. 
+> > ***Playable during organization phase on a company moving without region cards.*** Company may move from a site of origin in one of the following regions to a new site in one of the following regions: Lindon, Elven Coast, Eriadoran Coast, Andrast Coast, Bay of Belfalas, Mouths of the Anduin, Enedhwaith, Old Pukel-land, Andrast, Anfalas, Belfalas, Lebennin, and Harondor. The site path is \[![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg) ![](/assets/images/coastalsea.svg)] and the hazard limit is decreased by two to a minimum of two. 
 > 
 
 ---
@@ -19417,7 +19417,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > +3 to one burglary attempt. <br>&ensp;Alternatively, -2 to the prowess of one automatic attack.   
+> > +3 to one burglary attempt. <br>&ensp;Alternatively, -2 to the prowess of one automatic-attack.   
 > > 
 > > {: .fs-3 } 
 > > _“There he lay, a vast red-golden dragon, fast asleep; a thrumming came from his jaws and nostrils, and wisps of smoke, but his fires were low in slumber."_  ***---&#65279;Hob***
@@ -19434,7 +19434,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Flattery attempt. Playable on a character whose company is facing an attack of the type listed below.*** Character makes an influence check (modified by his unused direct influence and +2 if a diplomat). If successful, the attack is canceled and the hazard limit for the character's company is decreased by two. The influence check is successful if the result is greater than: 10 against a Dragon; 11 against Men or Drakes; 12 against Trolls, Orcs, Elves, and Giants. 
+> > ***Flattery attempt. Playable on a character whose company is facing an attack of the type listed below.*** Character makes an influence check (modified by his unused direct influence and +2 if a diplomat). If successful, the attack is cancelled and the hazard limit for the character's company is decreased by two. The influence check is successful if the result is greater than: 10 against a Dragon; 11 against Men or Drakes; 12 against Trolls, Orcs, Elves, and Giants. 
 > 
 
 ---
@@ -19482,7 +19482,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable during organization phase on a company moving without region cards.*** Company may move from a site of origin in one of the following regions to a new site in one of the following regions: Horse Plains, Khand, Nurn, and Haronder. <br>&enspThe site path is \[![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg)] and the Hazard limit is decreased by two to a minimum of two.  
+> > ***Playable during organization phase on a company moving without region cards.*** Company may move from a site of origin in one of the following regions to a new site in one of the following regions: Horse Plains, Khand, Nurn, and Haronder. <br>&ensp;The site path is \[![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg)] and the Hazard limit is decreased by two to a minimum of two.  
 > 
 
 ---
@@ -19561,13 +19561,13 @@ permalink: /cards/all/
 > > <div class="card-name">King under the Mountain</div>
 >
 > {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > [+5]![](/assets/images/di.svg)
+> > [+5 ![](/assets/images/di.svg)]
 >
 > {: .card-classification .pr-2 }
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ ***Playable on Balin, Dain II, Thorin II, or Thrain II if his company has defeated an at home Dragon manifestation attack other than Earcaraxe at Home.*** The target Dwarf receives +5 direct influence against Dwarves and Dwarf factions. <br>&ensp;The site where the Dragon was defeated becomes a Border-hold \[![](/assets/images/border-hold.svg)] and Dwarf-hold for all purposes and has no Dragon automatic attacks. Only Dwarves may play items at this site.  
+> > _Unique._ ***Playable on Balin, Dain II, Thorin II, or Thrain II if his company has defeated an at home Dragon manifestation attack other than Earcaraxe at Home.*** The target Dwarf receives +5 direct influence against Dwarves and Dwarf factions. <br>&ensp;The site where the Dragon was defeated becomes a Border-hold \[![](/assets/images/border-hold.svg)] and Dwarf-hold for all purposes and has no Dragon automatic-attacks. Only Dwarves may play items at this site.  
 > 
 
 ---
@@ -19581,7 +19581,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable on an at home Dragon manifestation.*** Target Dragon's automatic-attack cannot be cancelled. Rotate this card 90° each time a manifestation of target Dragon is played. If the site receiving the Dragon's automatic-attack is untapped, a number of items may be played there do not tap the site: not rotated: 1 item; rotated once: 2 items; rotated twice or more; 3 items. If target Dragon is required to be discarded or removed from play, invert Dragon on table until this card is discarded or removed from play. Discard this card when any item is played at target Dragon's lair that taps the site. Can not be duplicated on a given Dragon. 
+> > ***Playable on an at home Dragon manifestation.*** Target Dragon's automatic-attack cannot be cancelled. Rotate this card 90° each time a manifestation of target Dragon is played. If the site receiving the Dragon's automatic-attack is untapped, a number of items may be played there do not tap the site: not rotated: 1 item; rotated once: 2 items; rotated twice or more; 3 items. If target Dragon is required to be discarded or removed from play, invert Dragon on table until this card is discarded or removed from play. Discard this card when any item is played at target Dragon's lair that taps the site. Cannot be duplicated on a given Dragon. 
 > 
 
 ---
@@ -19686,7 +19686,7 @@ permalink: /cards/all/
 > > _Ritual._ Tap a sage to force the discard of a hazard non-environment permanent-event or long-event. Sage makes a corruption check modified by -2. 
 > > 
 > > {: .fs-3 } 
-> > _“He tarried there from errantry, and melodies they taught to him, and sages old him marvels told...”_ ***---&#65279;LotRII*** 
+> > _“He tarried there from errantry, <br>and melodies they taught to him, <br>and sages old him marvels told...”_ ***---&#65279;LotRII*** 
 > 
 
 ---
@@ -19703,7 +19703,7 @@ permalink: /cards/all/
 > > ***Playable at the end of the organization phase on a moving company.*** If the company moves to a Border-hold \[![](/assets/images/border-hold.svg)], it can take a second movement/hazard phase immediately following its first movement/hazard phase. 
 > > 
 > > {: .fs-3 } 
-> > _“‘...What help we can offer shall be yours, and we trust your gratitude when your kingdom is regained.’”_ ***---&#65279;Hob*** 
+> > _“‘...What help we can offer shall be yours, and we trust to your gratitude when your kingdom is regained.’”_ ***---&#65279;Hob*** 
 > 
 
 ---
@@ -19805,7 +19805,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable only if you discard an Elf from your hand and only at the end of the organization phase on a company using region movement cards with the last one being a Wilderness \[![](/assets/images/wilderness.svg)].*** _(Play regions face-up)._ This card is used as a site card, Free-hold \[![](/assets/images/free-hold.svg)] (cards drawn: 1/1). The company may only leave this site using region movement. Characters at this site heal as though they were in a Haven \[![](/assets/images/free-haven.svg)]. Discard _Refuge_ when the company moves to a new site. 
+> > ***Playable only if you discard an Elf from your hand and only at the end of the organization phase on a company using region cards with the last one being a Wilderness \[![](/assets/images/wilderness.svg)].*** _(Play regions face-up)._ This card is used as a site card, Free-hold \[![](/assets/images/free-hold.svg)] (cards drawn: 1/1). The company may only leave this site using region movement. Characters at this site heal as though they were in a Haven \[![](/assets/images/free-haven.svg)]. Discard _Refuge_ when the company moves to a new site. 
 > 
 
 ---
@@ -19833,7 +19833,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Riddling attempt._ ***Playable on a character whose company is facing an automatic-attack of the type listed below. Character makes a roll (or draws a #) modified by: +2 for each sage and +1 for each Hobbit in his company. If the result is greater than: 8 against Dragons and Drakes, 10 against Men and Giants, 12 against Slayers, Awakened Plants, Orcs, Spiders, and Trolls; then name a card and opponent must reveal his hand. If the named card is in opponent's hand, the creature's card is discarded (all of its attacks are cancelled) and the hazard limit against the character's company is decreased by three. 
+> > _Riddling attempt._ ***Playable on a character whose company is facing an attack of the type listed below.*** Character makes a roll (or draws a #) modified by: +2 for each sage and +1 for each Hobbit in his company. If the result is greater than: 8 against Dragons and Drakes, 10 against Men and Giants, 12 against Slayers, Awakened Plants, Orcs, Spiders, and Trolls; then name a card and opponent must reveal his hand. If the named card is in opponent's hand, the creature's card is discarded (all of its attacks are cancelled) and the hazard limit against the character's company is decreased by three. 
 > 
 
 ---
@@ -19850,7 +19850,7 @@ permalink: /cards/all/
 > > Target ahunt Dragon manifestation is discarded. <br>&ensp;Alternatively, if _Doors of Night_ is in play, decreases the number of strikes from one Dragon or Drake attack by one (to a minimum of one). <br>&ensp;This card may also be played during opponent's movement/hazard phase. 
 > > 
 > > {: .fs-3 } 
-> > _“...he went back to his golden couch to sleep-and to gather new strength."_ ***---&#65279;Hob*** 
+> > _“...he went back to his golden couch to sleep---and to gather new strength."_ ***---&#65279;Hob*** 
 > 
 
 ---
@@ -19915,7 +19915,7 @@ permalink: /cards/all/
 > > _Environment._ The prowess of each Elf and Dunadan is modified by +1 (by +2 if _Gates of Morning_ is in play).   
 > > 
 > > {: .fs-3 } 
-> > _“...ever still a herald on an errand that should never rest to bear his shining lamp afar the Flammifer of the Westerness."_ ***---&#65279;LotRII*** 
+> > _“...ever still a herald on <br>an errand that should never rest <br>to bear his shining lamp afar, <br>the Flammifer of the Westerness."_ ***---&#65279;LotRII*** 
 > 
 
 ---
@@ -19949,7 +19949,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Riddling attempt._ ***Playable during the site phase on a character at the same site as one of opponent's companies.*** Tap the character. Opponent chooses a character from his company to play the riddle game. Each player makes a riddling roll (or draws a #) modified by +2 if his character is a sage and by +1 if a Hobbit (re-roll ties). The player with the highest result wins. He then names two cards and the other player reveals his hand. If any of the named cards are revealed, they are immediately discarded. 
+> > _Riddling attempt._ ***Playable during the site phase on a character at the same site as one of opponent's companies.*** Tap the character. Opponent chooses a character from his company to play the riddle game. <br>&ensp;Each player makes a riddling roll (or draws a #) modified by +2 if his character is a sage and by +1 if a Hobbit (re-roll ties). The player with the highest result wins. He then names two cards and the other player reveals his hand. If any of the named cards are revealed, they are immediately discarded. 
 > 
 
 ---
@@ -20048,13 +20048,13 @@ permalink: /cards/all/
 > > <div class="card-name">When I Know Anything</div>
 >
 > {: .card-classification .pr-2 }
-> Short-event
+> Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
 > > _Light enchantment._ ***Playable on a sage during the site phase at a site where "Information" is playable.*** Tap sage and site. <br>&ensp;Tap sage to modify one corruption check by a character in his company by +3. Sage makes a corruption check. 
 > > 
 > > {: .fs-3 } 
-> > _“‘You are an interfering old busybody,' laughed Bilbo, 'but I expect you know best, as usual.' 'I do-when I know anything...’”_ ***---&#65279;LotRI*** 
+> > _“‘You are an interfering old busybody,' laughed Bilbo, 'but I expect you know best, as usual.' 'I do---when I know anything...’”_ ***---&#65279;LotRI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -20091,7 +20091,7 @@ permalink: /cards/all/
 > > Modify one riddling roll by +3. If applicable, this card may also be played during your opponent's site phase if a riddling roll is called for. 
 > > 
 > > {: .fs-3 } 
-> > _“‘I don't know half as well as I should like; and I like less than half of you half as well as you deserve.' This was rather unexpected and difficult."_ ***---&#65279;LotRI*** 
+> > _“‘I don't know half of you half as well as I should like; and I like less than half of you half as well as you deserve.' This was rather unexpected and difficult."_ ***---&#65279;LotRI*** 
 > 
 
 ---
@@ -20193,7 +20193,7 @@ permalink: /cards/all/
 > > <div class="card-name">Dire Wolves</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/shadow-land.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -20202,7 +20202,7 @@ permalink: /cards/all/
 > > _Wolves._ Four strikes. <br>&ensp;Two wildernesses \[![](/assets/images/wilderness.svg)] in site path are required. 
 > > 
 > > {: .fs-3 } 
-> > _“...the evil packs that lived under the shadow of the goblin-infested mountains, over the Edge of the Wild on the borders of the unknown. Wolves of that sort smell keened than goblins, and do not need to see you to catch you!"_ ***---&#65279;Hob*** 
+> > _“...the evil packs that lived under the shadow of the goblin-infested mountains, over the Edge of the Wild on the borders of the unknown. Wolves of that sort smell keener than goblins, and do not need to see you to catch you!"_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 8/4 】</div>
@@ -20256,7 +20256,7 @@ permalink: /cards/all/
 > > <div class="card-name">Gothmog</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/dark-hold.svg)
+> > ![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/dark-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -20265,7 +20265,7 @@ permalink: /cards/all/
 > > _**Unique.**_ _Troll._ One strike. May also be played following an Orc or Troll attack in a Shadow-land \[![](/assets/images/shadow-land.svg)] or Shadow-hold \[![](/assets/images/shadow-hold.svg)]. 
 > > 
 > > {: .fs-3 } 
-> > _“There they had been mastered for the sack of the City and the rape of Gondor, waiting on the call of their captain. He now was destroyed; but Gothmog the lietenant of Morgul had flung them into the fray.."_ ***---&#65279;LotRV*** 
+> > _“There they had been mastered for the sack of the City and the rape of Gondor, waiting on the call of their captain. He now was destroyed; but Gothmog the lietenant of Morgul had flung them into the fray..."_ ***---&#65279;LotRV*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 14/9 】</div>
@@ -20342,7 +20342,7 @@ permalink: /cards/all/
 > > <div class="card-name">Land-drake</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/ruinlair.svg)
+> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/ruinlair.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -20365,7 +20365,7 @@ permalink: /cards/all/
 > > <div class="card-name">Lesser Spiders</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/ruinlair.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&emsp;![](/assets/images/ruinlair.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -20388,7 +20388,7 @@ permalink: /cards/all/
 > > <div class="card-name">Light-drake</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/ruinlair.svg)
+> > ![](/assets/images/wilderness.svg)&emsp;![](/assets/images/ruinlair.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -20454,7 +20454,7 @@ permalink: /cards/all/
 > > <div class="card-name">Rain-drake</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/coastalsea.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/coastalsea.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -20537,7 +20537,7 @@ permalink: /cards/all/
 > > <div class="card-name">Sea Serpent</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > ![](/assets/images/coastalsea.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -20655,7 +20655,7 @@ permalink: /cards/all/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Drake._ Three strikes. Attacker chooses defending characters. Unless this attack is canceled, all untapped characters in defending company are tapped following attack. Two Shadow-lands \[![](/assets/images/shadow-land.svg)] in site path are required. 
+> > _Drake._ Three strikes. Attacker chooses defending characters. Unless this attack is cancelled, all untapped characters in defending company are tapped following attack. Two Shadow-lands \[![](/assets/images/shadow-land.svg)] in site path are required. 
 > > 
 > > {: .fs-3 } 
 > > _“A creature of an older world maybe it was, whose kind lingered in forgotten mountains cold beneath the Moon, outstayed their days, and in hideous eyrie bred this last untimely brood, apt to evil."_ ***---&#65279;LotRV*** 
@@ -20695,13 +20695,13 @@ permalink: /cards/all/
 > > <div class="card-name">Winged Fire-drake</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/shadow-land.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/shadow-land.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Drake._ Two strikes. Attacker chooses defending characters. <br>&ensp;Three Wildernesses \[![](/assets/images/wilderness.svg)] or two Shadow-lands \[![](/assets/images/shadow-land.svg)] in site path are required. 
+> > _Drake._ Two strikes. Attacker chooses defending characters. <br>&ensp;Three Wildernesses \[![](/assets/images/wilderness.svg)] **or** two Shadow-lands \[![](/assets/images/shadow-land.svg)] in site path are required. 
 > > 
 > > {: .fs-3 } 
 > > _“‘As like as not it is the marauding fire of the Dragon, the only king under the Mountain we have ever known.’”_ ***---&#65279;Hob*** 
@@ -20863,7 +20863,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ Unless _Daelomin Ahunt_ is in play, _Dancing Spire_ has an additional automatic-attack: Dragon-3 strikes at 14/8. <br>&ensp;In addition, you may discard this card from play during opponent's movement/hazard phase (not counting against the hazard limit) to increase the hazard limit against one company by two. 
+> > _**Unique.**_ Unless _Daelomin Ahunt_ is in play, _Dancing Spire_ has an additional automatic-attack: Dragon --- 3 strikes at 14/8. <br>&ensp;In addition, you may discard this card from play during opponent's movement/hazard phase (not counting against the hazard limit) to increase the hazard limit against one company by two. 
 > > 
 > > {: .fs-3 } 
 > > _“The general opinion was that catching a dragon napping was not as easy as it sounded...”_ ***---&#65279;Hob*** 
@@ -43939,7 +43939,7 @@ permalink: /cards/all/
 > > _Ritual._ Tap a sage to force the discard of a hazard non-environment permanent-event or long-event. Sage makes a corruption check modified by -2. 
 > > 
 > > {: .fs-3 } 
-> > _“He tarried there from errantry, and melodies they taught to him, and sages old him marvels told...”_ ***---&#65279;LotRII*** 
+> > _“He tarried there from errantry, <br>and melodies they taught to him, <br>and sages old him marvels told...”_ ***---&#65279;LotRII*** 
 > 
 
 ---

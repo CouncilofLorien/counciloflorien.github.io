@@ -25,7 +25,7 @@ permalink: /cards/marvels-told/
 > > _Ritual._ Tap a sage to force the discard of a hazard non-environment permanent-event or long-event. Sage makes a corruption check modified by -2. 
 > > 
 > > {: .fs-3 } 
-> > _“He tarried there from errantry, and melodies they taught to him, and sages old him marvels told...”_ ***---&#65279;LotRII*** 
+> > _“He tarried there from errantry, <br>and melodies they taught to him, <br>and sages old him marvels told...”_ ***---&#65279;LotRII*** 
 > 
 
 ### _Middle-earth Challenge Decks_
@@ -42,5 +42,5 @@ permalink: /cards/marvels-told/
 > > _Ritual._ Tap a sage to force the discard of a hazard non-environment permanent-event or long-event. Sage makes a corruption check modified by -2. 
 > > 
 > > {: .fs-3 } 
-> > _“He tarried there from errantry, and melodies they taught to him, and sages old him marvels told...”_ ***---&#65279;LotRII*** 
+> > _“He tarried there from errantry, <br>and melodies they taught to him, <br>and sages old him marvels told...”_ ***---&#65279;LotRII*** 
 > 

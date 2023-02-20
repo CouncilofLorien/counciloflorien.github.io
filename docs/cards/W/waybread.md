@@ -22,7 +22,7 @@ permalink: /cards/waybread/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Only playable at Lorien.*** Discard to untap bearer **or** bearer and one other character in his company. <br>&ensp;Alternatively, discard during organization phase to play an additional region card. 
+> > ***Only playable at Lorien.*** Discard to untap bearer **or** bearer and one other character in his company. <br>&ensp;Alternatively, discard during organization phase to allow its bearer's company to play an additional region card. 
 > > 
 > > {: .fs-3 } 
 > > _“‘...we call it lembas or waybread, and it is more strengthening than any food made by Men...’”_ ***---&#65279;LotRII*** 

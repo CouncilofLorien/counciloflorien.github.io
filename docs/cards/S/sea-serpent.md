@@ -19,7 +19,7 @@ permalink: /cards/sea-serpent/
 > > <div class="card-name">Sea Serpent</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > ![](/assets/images/coastalsea.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature

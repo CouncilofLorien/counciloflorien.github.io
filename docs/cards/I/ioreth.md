@@ -25,7 +25,7 @@ permalink: /cards/ioreth/
 > Sage Dunadan
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ Healing effects affect all characters in her company. 
+> > _**Unique.**_ Healing cards affect all characters in her company. 
 > > 
 > > {: .fs-3 } 
 > > _“...an old wife, Ioreth, the eldest of the women who served in that house...”_ ***---&#65279;LotRV***  
