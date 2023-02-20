@@ -22,7 +22,7 @@ permalink: /cards/dragons-curse/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Corruption._ _Dark Enchantment._ ***Playable on a non-Wizard character facing a strike from a Dragon hazard creature attack.*** The strike's prowess is modified by -1. The character recieves 2 corruption points. The target character makes a corruption check at the end of his untap phase. Cannot be duplicated on a given character. <br>&ensp;During his organization phase, a sage in the target character's company may tap to attempt to remove this card. Make a roll (or draw a #): if this result is greater than 6, discard this card. 
+> > _Corruption._ _Dark enchantment._ ***Playable on a non-Wizard character facing a strike from a Dragon hazard creature attack.*** The strike's prowess is modified by -1. The character recieves 2 corruption points. The target character makes a corruption check at the end of his untap phase. Cannot be duplicated on a given character. <br>&ensp;During his organization phase, a sage in the target character's company may tap to attempt to remove this card. Make a roll (or draw a #): if this result is greater than 6, discard this card. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

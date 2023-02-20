@@ -20948,7 +20948,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Corruption._ _Dark Enchantment._ ***Playable on a non-Wizard character facing a strike from a Dragon hazard creature attack.*** The strike's prowess is modified by -1. The character recieves 2 corruption points. The target character makes a corruption check at the end of his untap phase. Cannot be duplicated on a given character. <br>&ensp;During his organization phase, a sage in the target character's company may tap to attempt to remove this card. Make a roll (or draw a #): if this result is greater than 6, discard this card. 
+> > _Corruption._ _Dark enchantment._ ***Playable on a non-Wizard character facing a strike from a Dragon hazard creature attack.*** The strike's prowess is modified by -1. The character recieves 2 corruption points. The target character makes a corruption check at the end of his untap phase. Cannot be duplicated on a given character. <br>&ensp;During his organization phase, a sage in the target character's company may tap to attempt to remove this card. Make a roll (or draw a #): if this result is greater than 6, discard this card. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -20965,7 +20965,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Dark Enchantment._ ***Playable on a Dragon or Drake hazard creature attack before the strikes are assigned.*** For each card you discard from your hand when _Dragon's Terror_ is declared, target one non-Wizard character of your choice in the defending company and make a roll (or draw a #)---add +2 for a Dragon attack. If the result is greater than the character's mind, the character taps. Each card discarded in this fashion counts as one against the company's hazard limit. 
+> > _Dark enchantment._ ***Playable on a Dragon or Drake hazard creature attack before the strikes are assigned.*** For each card you discard from your hand when _Dragon's Terror_ is declared, target one non-Wizard character of your choice in the defending company and make a roll (or draw a #)---add +2 for a Dragon attack. If the result is greater than the character's mind, the character taps. Each card discarded in this fashion counts as one against the company's hazard limit. 
 >
 
 ---
@@ -20996,7 +20996,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ Unless _Earcaraxe Ahunt_ is in play, _Isle of the Ulond_ has an additional automatic-attack: Dragon --- 2 strikes at 18/7. <br>&ensp;In addition, the hazard limit against any character moving with a Coastal Sea \[![](/assets/images/coastalsea.svg)] region in its site path is increased by one. 
+> > _**Unique.**_ Unless _Earcaraxe Ahunt_ is in play, _Isle of the Ulond_ has an additional automatic-attack: Dragon --- 2 strikes at 18/7 (attacker chooses defending characters). <br>&ensp;In addition, the hazard limit against any character moving with a Coastal Sea \[![](/assets/images/coastalsea.svg)] region in its site path is increased by one. 
 > > 
 > > {: .fs-3 } 
 > > _“...the unmistakable gurgling noise of some vast animal snoring in its sleep...”_ ***---&#65279;Hob*** 
@@ -21061,7 +21061,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > ***Playable on a Shadow-hold \[![](/assets/images/shadow-hold.svg)] not in Gorgoroth, Nurn, Udun, or Imlad Morgul.*** If you discard (from your hand) a hazard creature playable at the site, one Dragon hazard creature may be played this turn keyed to the site. <br>&ensp;Alternatively, _Daelomin_ may be played at the site this turn (without discarding a creature). 
+> > ***Playable on a Shadow-hold*** \[![](/assets/images/shadow-hold.svg)] ***not in Gorgoroth, Nurn, Udun, or Imlad Morgul.*** If you discard (from your hand) a hazard creature playable at the site, one Dragon hazard creature may be played this turn keyed to the site. <br>&ensp;Alternatively, _Daelomin_ may be played at the site this turn (without discarding a creature). 
 > > 
 > > {: .fs-3 } 
 > > _“...her sight blasted by inner lightnings, her mind in agony...”_ ***---&#65279;LotRIV*** 
@@ -21205,7 +21205,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > ***Playable on a site that contains a hoard or on a Dragon at home manifestation.*** If any item is played at the site or at the site associated with the Dragon at home manifestation, the site's automatic-attacks are again faced. <br>&ensp;Discard this card when the associated site or Dragon manifestation leaves play. Cannot be duplicated on a given site or Dragon manifestation. 
+> > ***Playable on a site that contains a hoard or on a Dragon at home manifestation.*** If any item is played at the site _or_ at the site associated with the Dragon at home manifestation, the site's automatic-attacks are again faced. <br>&ensp;Discard this card when the associated site or Dragon manifestation leaves play. Cannot be duplicated on a given site or Dragon manifestation. 
 >
 
 ---
@@ -21287,7 +21287,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Dark Enchantment._ A non-Wizard character facing a strike from a Dragon hazard creature attack loses skills while bearing this card. The strike's prowess is modified by -3. Cannot be duplicated on a given character. If at a Haven \[![](/assets/images/free-haven.svg)] during his organization phase, a character with this card may tap to attempt to remove it. Make a roll (or draw a #): if this result is greater than 8, discard this card. Modify the roll by +1 for each character in his company that taps in support. 
+> > _Dark enchantment._ A non-Wizard character facing a strike from a Dragon hazard creature attack loses skills while bearing this card. The strike's prowess is modified by -3. Cannot be duplicated on a given character. If at a Haven \[![](/assets/images/free-haven.svg)] during his organization phase, a character with this card may tap to attempt to remove it. Make a roll (or draw a #): if this result is greater than 8, discard this card. Modify the roll by +1 for each character in his company that taps in support. 
 >
 
 ---
@@ -21301,7 +21301,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > ***Playable on any unique faction in play.*** On the turns after it is played, this card affects the region that contains the site where this faction is playable and all adjacent regions. Each company moving with region cards using one or more of such regions must make a roll (or draw a #) modified by +2 for each ranger in the company, by +1 for each scout, and by +1 for each diplomat. If the result is 12 or less, the company must do nothing during the site phase. Cannot be duplicated on a given faction. 
+> > ***Playable on any faction in play.*** On the turns after it is played, this card affects the region that contains the site where this faction is playable and all adjacent regions. Each company moving with region cards using one or more of such regions must make a roll (or draw a #) modified by +2 for each ranger in the company, by +1 for each scout, and by +1 for each diplomat. If the result is 12 or less, the company must do nothing during the site phase. Cannot be duplicated on a given faction. 
 >
 
 ---
@@ -21941,7 +21941,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Affects the following sites: The Lonely Mountain, Irerock, Zarak Dum, and Gold Hill. For any item played at one of these sites, its player must remove an item from his hand that would itself be playable at the site. Cannot be revealed as an on-guard card. Discard Ireful Flames when any play deck is exhausted. 
+> > Affects the following sites: The Lonely Mountain, Irerock, Zarak Dum, and Gold Hill. For any item played at one of these sites, its player must remove an item in his hand from play that would itself be playable at the site. Cannot be revealed as an on-guard card. Discard _Ireful Flames_ when any play deck is exhausted. 
 > > 
 > > {: .fs-3 } 
 > > _“‘...It has been said that dragon-fire could melt and consume the Rings of Power...’”_ ***---&#65279;LotRI*** 
@@ -24183,7 +24183,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Dark Enchantment._ ***Playable on a non-Wizard character wounded by an Undead attack this turn;*** _does not count against the hazard limit._ Target character can never become untapped while bearing this card. Any effect that would move him to an untapped state makes him tapped instead. Cannot be duplicated on a given character. <br>&ensp;During the organization phase, a sage in the target character's company may tap to attempt to remove this card. Make a roll (or draw a #): if the result is greater than 7, discard this card. 
+> > _Dark enchantment._ ***Playable on a non-Wizard character wounded by an Undead attack this turn;*** _does not count against the hazard limit._ Target character can never become untapped while bearing this card. Any effect that would move him to an untapped state makes him tapped instead. Cannot be duplicated on a given character. <br>&ensp;During the organization phase, a sage in the target character's company may tap to attempt to remove this card. Make a roll (or draw a #): if the result is greater than 7, discard this card. 
 >
 
 ---
@@ -24538,7 +24538,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Corruption._ _Dark Enchantment._ ***Playable on a non-Wizard character wounded by an Undead attack this turn;*** _does not count against the hazard limit_. Target character receives 2 corruption points and makes a corruption check each time a player discards a card from his hand during his turn. His direct influence is zero while bearing this card. Cannot be duplicated on a given character. <br>&ensp;During the organization phase, a sage in target character's company (other than character) may tap to attempt to remove this card. Make a roll (or draw a #): if the result is greater than 6, discard this card.  
+> > _Corruption._ _Dark enchantment._ ***Playable on a non-Wizard character wounded by an Undead attack this turn;*** _does not count against the hazard limit_. Target character receives 2 corruption points and makes a corruption check each time a player discards a card from his hand during his turn. His direct influence is zero while bearing this card. Cannot be duplicated on a given character. <br>&ensp;During the organization phase, a sage in target character's company (other than character) may tap to attempt to remove this card. Make a roll (or draw a #): if the result is greater than 6, discard this card.  
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
