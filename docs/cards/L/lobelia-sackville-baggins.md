@@ -28,7 +28,10 @@ permalink: /cards/lobelia-sackville-baggins/
 > > _**Unique.**_ _Manifestation of Mistress Lobelia._ _Agent._ +3 direct influence against Hobbits and Hobbit factions. May not move to any site other than Bree, Old Forest, The White Towers, or a site in the Shire. 
 > > 
 > > {: .fs-3 } 
-> > _“Bilbo believed that she had acquired a good many of his spoons while he was away on his former journey."_ ***---&#65279;LotRI***  
+> > _“Bilbo believed that she had acquired a good many of his spoons, while he was away on his former journey."_ ***---&#65279;LotRI***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Bag End, Bree 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 0/9 】</div>

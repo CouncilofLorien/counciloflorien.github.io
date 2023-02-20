@@ -28,7 +28,7 @@ permalink: /cards/nimloth/
 > > _**Unique.**_ _Agent._ +2 direct influence against Elves and Elf factions. <br>&ensp;_Agent only:_ may move to a Haven <nobr>[<img src="/assets/images/free-haven.svg">]</nobr>. 
 > > 
 > > {: .fs-3 } 
-> > _“‘White Blossom,' they called her, for she was names after the kinswoman of Celeborn, the mother of Dior the jewel-bearer's children: Elured, Eluin, and fair Elwing, mother of Elrond."_ ***---&#65279;Kuduk&nbsp;Lore***  
+> > _“‘White Blossom,' they called her, for she was named after the kinswoman of Celeborn, the mother of Dior the Jewel-bearer's children: Elured, Eluin, and fair Elwing, mother of Elrond."_ ***---&#65279;Kuduk&nbsp;Lore***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Thranduil's Halls, Sarn Goriwing 

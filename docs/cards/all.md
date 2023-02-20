@@ -22328,7 +22328,7 @@ permalink: /cards/all/
 > > _**Unique.**_ _Agent._ Can use spirit-magic. _Agent only:_ may tap to make an influence check on an ally, faction, or character. 
 > > 
 > > {: .fs-3 } 
-> > _“Through an urbane courtier, Golodhros still maintained a home...not far from the black vale of Imlad Morgul. ... How he could safely visit there, no one knew."_ ***---&#65279;Kuduk&nbsp;Lore***  
+> > _“Though an urbane courtier, Golodhros still maintained a home...not far from the black vale of Imlad Morgul. ... How he could safely visit there, no one knew."_ ***---&#65279;Kuduk&nbsp;Lore***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Minas Morgul, Cirith Ungol, Barad-dur 
@@ -22435,7 +22435,7 @@ permalink: /cards/all/
 > > _“Leamon grew up at Cameth Brin, in the shadow of the great 'Troll Tower,' and he carried an ageless spear a forefather won from a Dunadan venturer of fabled Lond Daer."_ ***---&#65279;Kuduk&nbsp;Lore***  
 > > 
 > > {: .fs-3 .text-right } 
-> > **Home Site:** Cameth Brin,, Dunnish Clan-hold 
+> > **Home Site:** Cameth Brin, Dunnish Clan-hold 
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 5/8 】</div>
@@ -22458,7 +22458,7 @@ permalink: /cards/all/
 > > _**Unique.**_ _Agent._ +2 direct influence against Elves and Elf factions. <br>&ensp;_Agent only:_ may move to a Haven <nobr>[<img src="/assets/images/free-haven.svg">]</nobr>. 
 > > 
 > > {: .fs-3 } 
-> > _“‘White Blossom,' they called her, for she was names after the kinswoman of Celeborn, the mother of Dior the jewel-bearer's children: Elured, Eluin, and fair Elwing, mother of Elrond."_ ***---&#65279;Kuduk&nbsp;Lore***  
+> > _“‘White Blossom,' they called her, for she was named after the kinswoman of Celeborn, the mother of Dior the Jewel-bearer's children: Elured, Eluin, and fair Elwing, mother of Elrond."_ ***---&#65279;Kuduk&nbsp;Lore***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Thranduil's Halls, Sarn Goriwing 
@@ -22689,7 +22689,10 @@ permalink: /cards/all/
 > > _**Unique.**_ _Manifestation of Mistress Lobelia._ _Agent._ +3 direct influence against Hobbits and Hobbit factions. May not move to any site other than Bree, Old Forest, The White Towers, or a site in the Shire. 
 > > 
 > > {: .fs-3 } 
-> > _“Bilbo believed that she had acquired a good many of his spoons while he was away on his former journey."_ ***---&#65279;LotRI***  
+> > _“Bilbo believed that she had acquired a good many of his spoons, while he was away on his former journey."_ ***---&#65279;LotRI***  
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Bag End, Bree 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 0/9 】</div>
@@ -22709,7 +22712,10 @@ permalink: /cards/all/
 > Scout Hobbit
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Manifestation of Gollum._ _Agent._ May take an extra agent action (not counting against the hazard limit each time he normally takes an agent action. If he attacks successfully against a company with a ring, he and a ring (attacker's choice) are discarded. If _My Precious_ attacks and fails but is not defeated, the defender may tap a character in the target company to play _Gollum_ (_My Precious_ is discarded). Any player whose character eliminates _My Precious_ receives -1 kill MPs.   
+> > _**Unique.**_ _Manifestation of Gollum._ _Agent._ May take an extra agent action (not counting against the hazard limit) each time he normally takes an agent action. If he attacks successfully against a company with a ring, he and a ring (attacker's choice) are discarded. If _My Precious_ attacks and fails but is not defeated, the defender may tap a character in the target company to play _Gollum_ (_My Precious_ is discarded). Any player whose character eliminates _My Precious_ receives -1 kill MPs.   
+> > 
+> > {: .fs-3 .text-right } 
+> > **Home Site:** Goblin-gate, Moria, Shelob's Lair, Mount Doom 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 2/9 】</div>
