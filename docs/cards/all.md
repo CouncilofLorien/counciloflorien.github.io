@@ -229,7 +229,7 @@ permalink: /cards/all/
 > > _**Unique.**_ +2 direct influence against the Rangers of the North faction. <br>&ensp;-3 marshalling points if eliminated. 
 > > 
 > > {: .fs-3 } 
-> > _“All that is gold does not glitter, Not all those who wander are lost...”_ ***---&#65279;LotRI***  
+> > _“All that is gold does not glitter, <br>Not all those who wander are lost...”_ ***---&#65279;LotRI***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Bree 
@@ -2186,7 +2186,7 @@ permalink: /cards/all/
 > > _**Unique.**_ ***Playable at Wellinghall*** <br>&ensp;if the influence check is greater than 9.  <br>_Standard Modifications:_ Hobbits (+4). 
 > > 
 > > {: .fs-3 } 
-> > _“Learn now the lore of Living Creatures! ...Ent the firstborn, old as mountains...”_ ***---&#65279;LotRIII*** 
+> > _“Learn now the lore of Living Creatures! <br>...Ent the earthborn, old as mountains...”_ ***---&#65279;LotRIII*** 
 > 
 
 ---
@@ -5144,7 +5144,7 @@ permalink: /cards/all/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Undead._ One strike. After each attack, each character wounded by _Barrow-wight_ makes a corruption check modified by -2. 
+> > _Undead._ One strike. After the attack, each character wounded by _Barrow-wight_ makes a corruption check modified by -2. 
 > > 
 > > {: .fs-3 } 
 > > _“...two eyes, very cold though lit with a pale light...Then a grip stronger and colder than iron...”_ ***---&#65279;LotRI*** 
@@ -9560,7 +9560,7 @@ permalink: /cards/all/
 > > _**Unique.**_ +2 direct influence against the Rangers of the North faction. <br>&ensp;-3 marshalling points if eliminated. 
 > > 
 > > {: .fs-3 } 
-> > _“All that is gold does not glitter, Not all those who wander are lost...”_ ***---&#65279;LotRI***  
+> > _“All that is gold does not glitter, <br>Not all those who wander are lost...”_ ***---&#65279;LotRI***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Bree 
@@ -11517,7 +11517,7 @@ permalink: /cards/all/
 > > _**Unique.**_ ***Playable at Wellinghall*** <br>&ensp;if the influence check is greater than 9.  <br>_Standard Modifications:_ Hobbits (+4). 
 > > 
 > > {: .fs-3 } 
-> > _“Learn now the lore of Living Creatures! ...Ent the firstborn, old as mountains...”_ ***---&#65279;LotRIII*** 
+> > _“Learn now the lore of Living Creatures! <br>...Ent the earthborn, old as mountains...”_ ***---&#65279;LotRIII*** 
 > 
 
 ---
@@ -14484,7 +14484,7 @@ permalink: /cards/all/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Undead._ One strike. After each attack, each character wounded by _Barrow-wight_ makes a corruption check modified by -2. 
+> > _Undead._ One strike. After the attack, each character wounded by _Barrow-wight_ makes a corruption check modified by -2. 
 > > 
 > > {: .fs-3 } 
 > > _“...two eyes, very cold though lit with a pale light...Then a grip stronger and colder than iron...”_ ***---&#65279;LotRI*** 
@@ -25347,7 +25347,7 @@ permalink: /cards/all/
 > > _**Unique.**_ +2 direct influence against the Rangers of the North faction. <br>&ensp;-3 marshalling points if eliminated. 
 > > 
 > > {: .fs-3 } 
-> > _“All that is gold does not glitter, Not all those who wander are lost...”_ ***---&#65279;LotRI***  
+> > _“All that is gold does not glitter, <br>Not all those who wander are lost...”_ ***---&#65279;LotRI***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Bree 
@@ -25800,7 +25800,7 @@ permalink: /cards/all/
 > > _**Unique.**_ ***Playable at Wellinghall*** <br>&ensp;if the influence check is greater than 9.  <br>_Standard Modifications:_ Hobbits (+4). 
 > > 
 > > {: .fs-3 } 
-> > _“Learn now the lore of Living Creatures! ...Ent the firstborn, old as mountains...”_ ***---&#65279;LotRIII*** 
+> > _“Learn now the lore of Living Creatures! <br>...Ent the earthborn, old as mountains...”_ ***---&#65279;LotRIII*** 
 > 
 
 ---
@@ -25966,7 +25966,7 @@ permalink: /cards/all/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ _Shield._ +2 to body to a maximum of 9. Warriror only: tap _Great-shield of Rohan_ to remain untapped against one strike (unless the bearer is wounded by the strike). 
+> > _Unique._ _Shield._ +2 to body to a maximum of 9. Warriror only: tap _Great Shield of Rohan_ to remain untapped against one strike (unless the bearer is wounded by the strike). 
 > > 
 > > {: .fs-3 } 
 > > _“His golden shield was uncovered, and lo! it shone like an image of the Sun, and the grass flamed into green about the white feet of his steed."_ ***---&#65279;LotRV*** 
@@ -25995,7 +25995,7 @@ permalink: /cards/all/
 > > _“Each one of his folk was clad in a hauberk of steel that hung to his knees."_ ***---&#65279;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
-> > <div class="card-shield">【 &ndash;/(+2) 】</div>
+> > <div class="card-shield">【 &ndash;/+2 】</div>
 > > <div class="card-corruption">〔 1 〕</div>
 
 ---
@@ -26035,7 +26035,7 @@ permalink: /cards/all/
 > Greater Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ When a Gold Ring is tested in a company with the Scroll of Isildur, the result of the roll (or draw) is modified by +2. 
+> > _Unique._ When a Gold Ring is tested in a company with the _Scroll of Isildur_, the result of the roll (or draw) is modified by +2. 
 > > 
 > > {: .fs-3 } 
 > > _“Yet even as I write it is cooled, and it seemeth to shrink, though it loseth neither its beauty nor its shape. Already the writing upon it, which was at first clear as red flame, fadeth and now only barely to be read."_ ***---&#65279;LotRII***  
@@ -26081,7 +26081,7 @@ permalink: /cards/all/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Weapon._ Warrior only. +2 prowess to a maximum of 8. 
+> > _Weapon._ Warrior only: +2 prowess to a maximum of 8. 
 > > 
 > > {: .fs-3 } 
 > > _“‘They are old swords, very old swords of the High Elves of the West, my kin. They were made in Gondolin for the Goblin-wars.’”_ ***---&#65279;Hob*** 
@@ -26321,7 +26321,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Warrior only against one strike.*** +3 to prowess and -1 to body.*** 
+> > ***Warrior only against one strike.*** +3 to prowess and -1 to body. 
 > > 
 > > {: .fs-3 } 
 > > _“Fewer were they but they clove through the Southrons like a fire-bolt in a forest."_ ***---&#65279;LotRV*** 
@@ -26341,7 +26341,10 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > +4 to an influence attempt against a faction.  <br> _"They had not been riding very long when up came Gandalf very splendid on a white horse. He had brought a lot of pocket-handkerchiefs, and Bilbo's pipe and tobacco."_ ***---&#65279;Hob***
+> > +4 to an influence attempt against a faction.  <br> 
+> > 
+> > {: .fs-3 } 
+> > _"They had not been riding very long when up came Gandalf very splendid on a white horse. He had brought a lot of pocket-handkerchiefs, and Bilbo's pipe and tobacco."_ ***---&#65279;Hob***
 > 
 
 ---
@@ -26358,7 +26361,7 @@ permalink: /cards/all/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Undead._ One strike. After each attack, each character wounded by _Barrow-wight_ makes a corruption check modified by -2. 
+> > _Undead._ One strike. After the attack, each character wounded by _Barrow-wight_ makes a corruption check modified by -2. 
 > > 
 > > {: .fs-3 } 
 > > _“...two eyes, very cold though lit with a pale light...Then a grip stronger and colder than iron...”_ ***---&#65279;LotRI*** 
@@ -26728,7 +26731,7 @@ permalink: /cards/all/
 > > <div class="card-name">Lesser Spiders</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/ruinlair.svg)&emsp;<span class="red-text">S20 S31 S46</span>
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&emsp;![](/assets/images/ruinlair.svg)&emsp;<span class="red-text">S20 S31 S46</span>
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -31642,7 +31645,7 @@ permalink: /cards/all/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Undead._ One strike. After each attack, each character wounded by _Barrow-wight_ makes a corruption check modified by -2. 
+> > _Undead._ One strike. After the attack, each character wounded by _Barrow-wight_ makes a corruption check modified by -2. 
 > > 
 > > {: .fs-3 } 
 > > _“...evil spirits out of Angmar and Rhudaur entered into the deserted mounds and dwelt there.”_ ***---&#65279;LotR*** 
@@ -42358,7 +42361,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Warrior only against one strike.*** +3 to prowess and -1 to body.*** 
+> > ***Warrior only against one strike.*** +3 to prowess and -1 to body. 
 > > 
 > > {: .fs-3 } 
 > > _“Fewer were they but they clove through the Southrons like a fire-bolt in a forest."_ ***---&#65279;LotRV*** 
@@ -46725,7 +46728,7 @@ permalink: /cards/all/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Undead._ One strike. After each attack, each character wounded by _Barrow-wight_ makes a corruption check modified by -2. 
+> > _Undead._ One strike. After the attack, each character wounded by _Barrow-wight_ makes a corruption check modified by -2. 
 > > 
 > > {: .fs-3 } 
 > > _“...two eyes, very cold though lit with a pale light...Then a grip stronger and colder than iron...”_ ***---&#65279;LotRI*** 

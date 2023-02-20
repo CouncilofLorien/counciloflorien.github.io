@@ -59,7 +59,7 @@ permalink: /cards/risky-blow/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Warrior only against one strike.*** +3 to prowess and -1 to body.*** 
+> > ***Warrior only against one strike.*** +3 to prowess and -1 to body. 
 > > 
 > > {: .fs-3 } 
 > > _“Fewer were they but they clove through the Southrons like a fire-bolt in a forest."_ ***---&#65279;LotRV*** 
@@ -76,7 +76,7 @@ permalink: /cards/risky-blow/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Warrior only against one strike.*** +3 to prowess and -1 to body.*** 
+> > ***Warrior only against one strike.*** +3 to prowess and -1 to body. 
 > > 
 > > {: .fs-3 } 
 > > _“Fewer were they but they clove through the Southrons like a fire-bolt in a forest."_ ***---&#65279;LotRV*** 

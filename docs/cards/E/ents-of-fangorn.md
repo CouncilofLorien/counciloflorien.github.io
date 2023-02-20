@@ -25,7 +25,7 @@ permalink: /cards/ents-of-fangorn/
 > > _**Unique.**_ ***Playable at Wellinghall*** <br>&ensp;if the influence check is greater than 9.  <br>_Standard Modifications:_ Hobbits (+4). 
 > > 
 > > {: .fs-3 } 
-> > _“Learn now the lore of Living Creatures! ...Ent the firstborn, old as mountains...”_ ***---&#65279;LotRIII*** 
+> > _“Learn now the lore of Living Creatures! <br>...Ent the earthborn, old as mountains...”_ ***---&#65279;LotRIII*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -42,7 +42,7 @@ permalink: /cards/ents-of-fangorn/
 > > _**Unique.**_ ***Playable at Wellinghall*** <br>&ensp;if the influence check is greater than 9.  <br>_Standard Modifications:_ Hobbits (+4). 
 > > 
 > > {: .fs-3 } 
-> > _“Learn now the lore of Living Creatures! ...Ent the firstborn, old as mountains...”_ ***---&#65279;LotRIII*** 
+> > _“Learn now the lore of Living Creatures! <br>...Ent the earthborn, old as mountains...”_ ***---&#65279;LotRIII*** 
 > 
 
 ### _Middle-earth: The Wizards Starter Set_
@@ -62,5 +62,5 @@ permalink: /cards/ents-of-fangorn/
 > > _**Unique.**_ ***Playable at Wellinghall*** <br>&ensp;if the influence check is greater than 9.  <br>_Standard Modifications:_ Hobbits (+4). 
 > > 
 > > {: .fs-3 } 
-> > _“Learn now the lore of Living Creatures! ...Ent the firstborn, old as mountains...”_ ***---&#65279;LotRIII*** 
+> > _“Learn now the lore of Living Creatures! <br>...Ent the earthborn, old as mountains...”_ ***---&#65279;LotRIII*** 
 > 
