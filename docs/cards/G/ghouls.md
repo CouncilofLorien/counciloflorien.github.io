@@ -65,7 +65,7 @@ permalink: /cards/ghouls/
 > > <div class="card-name">Ghouls</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)
+> > ![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)&emsp;<span class="red-text">S21 S57</span>
 >
 > {: .hazard-classification .pr-2 }
 > Creature

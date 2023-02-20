@@ -71,7 +71,7 @@ permalink: /cards/beregond/
 > > <div class="character-card-name">Beregond</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 2 ![](/assets/images/mind.svg)&emsp;0 ![](/assets/images/di.svg)
+> > 2 ![](/assets/images/mind.svg)&emsp;0 ![](/assets/images/di.svg)&emsp;<span class="red-text">G17</span>
 >
 > {: .character-card-classification .pr-2 }
 > Warrior Dunadan

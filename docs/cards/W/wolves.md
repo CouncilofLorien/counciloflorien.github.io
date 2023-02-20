@@ -65,7 +65,7 @@ permalink: /cards/wolves/
 > > <div class="card-name">Wolves</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)
+> > <span class="red-text">S11 S26 S28</span>
 >
 > {: .hazard-classification .pr-2 }
 > Creature

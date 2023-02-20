@@ -71,7 +71,7 @@ permalink: /cards/saruman/
 > > <div class="character-card-name">Saruman</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 10 ![](/assets/images/di.svg)
+> > 10 ![](/assets/images/di.svg)&emsp;<span class="red-text">S19 S32</span>
 >
 > {: .character-card-classification .pr-2 }
 > Scout/Ranger/Sage/Diplomat Wizard

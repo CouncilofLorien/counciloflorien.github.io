@@ -71,7 +71,7 @@ permalink: /cards/gandalf/
 > > <div class="character-card-name">Gandalf</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 10 ![](/assets/images/di.svg)
+> > 10 ![](/assets/images/di.svg)&emsp;<span class="red-text">G26 G38</span>
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Scout/Sage/Diplomat Wizard

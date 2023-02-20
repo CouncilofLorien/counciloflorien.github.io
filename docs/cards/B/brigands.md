@@ -65,7 +65,7 @@ permalink: /cards/brigands/
 > > <div class="card-name">Brigands</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)
+> > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)&emsp;<span class="red-text">G18 G32 G49</span>
 >
 > {: .hazard-classification .pr-2 }
 > Creature

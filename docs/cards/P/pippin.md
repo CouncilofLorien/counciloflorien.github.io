@@ -71,7 +71,7 @@ permalink: /cards/pippin/
 > > <div class="character-card-name">Pippin</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg)&emsp;1 ![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&emsp;1 ![](/assets/images/di.svg)&emsp;<span class="red-text">S05</span>
 >
 > {: .character-card-classification .pr-2 }
 > Scout Hobbit

@@ -59,7 +59,7 @@ permalink: /cards/gollum/
 > > <div class="card-name">Gollum</div>
 >
 > {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg)
+> > 4 ![](/assets/images/mind.svg)&emsp;<span class="red-text">S33</span>
 >
 > {: .card-classification .pr-2 }
 > Scout Ally

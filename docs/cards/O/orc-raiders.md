@@ -65,7 +65,7 @@ permalink: /cards/orc-raiders/
 > > <div class="card-name">Orc-raiders</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/ruinlair.svg)
+> > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/ruinlair.svg)&emsp;<span class="red-text">G13 G42 G52</span>
 >
 > {: .hazard-classification .pr-2 }
 > Creature

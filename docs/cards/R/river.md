@@ -48,9 +48,12 @@ permalink: /cards/river/
 ### _Middle-earth: The Wizards Starter Set_
 
 {: .hazard-starter .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hazard-name .white-text .p-1 .pl-2 }
+> {: .hazard-name .white-text .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">River</div>
+>
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
+> > <span class="red-text">G19 G48 S41 S48</span>
 >
 > {: .hazard-classification .pr-2 }
 > Short-event

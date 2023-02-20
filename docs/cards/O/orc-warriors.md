@@ -65,7 +65,7 @@ permalink: /cards/orc-warriors/
 > > <div class="card-name">Orc-warriors</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/ruinlair.svg)
+> > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/ruinlair.svg)&emsp;<span class="red-text">G15 G34 G54</span>
 >
 > {: .hazard-classification .pr-2 }
 > Creature

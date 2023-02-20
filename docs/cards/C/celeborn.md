@@ -71,7 +71,7 @@ permalink: /cards/celeborn/
 > > <div class="character-card-name">Celeborn</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 6 ![](/assets/images/mind.svg)&emsp;1 ![](/assets/images/di.svg)
+> > 6 ![](/assets/images/mind.svg)&emsp;1 ![](/assets/images/di.svg)&emsp;<span class="red-text">S42</span>
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Sage Elf

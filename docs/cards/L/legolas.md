@@ -71,7 +71,7 @@ permalink: /cards/legolas/
 > > <div class="character-card-name">Legolas</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 6 ![](/assets/images/mind.svg)&emsp;2 ![](/assets/images/di.svg)
+> > <span class="red-text">S02</span>
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Diplomat Elf

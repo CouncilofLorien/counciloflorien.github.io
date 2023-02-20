@@ -65,7 +65,7 @@ permalink: /cards/quickbeam/
 > > <div class="card-name">Quickbeam</div>
 >
 > {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > 3 ![](/assets/images/mind.svg)
+> > 3 ![](/assets/images/mind.svg)&emsp;<span class="red-text">G31</span>
 >
 > {: .card-classification .pr-2 }
 > Ally

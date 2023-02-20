@@ -71,7 +71,7 @@ permalink: /cards/aragorn-ii/
 > > <div class="character-card-name">Aragorn II</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 9 ![](/assets/images/mind.svg)&emsp;3 ![](/assets/images/di.svg)
+> > 9 ![](/assets/images/mind.svg)&emsp;3 ![](/assets/images/di.svg)&emsp;<span class="red-text">G01</span>
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Scout/Ranger Dunadan

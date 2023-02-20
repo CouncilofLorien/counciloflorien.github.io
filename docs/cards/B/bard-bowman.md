@@ -71,7 +71,7 @@ permalink: /cards/bard-bowman/
 > > <div class="character-card-name">Bard Bowman</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 2 ![](/assets/images/mind.svg)&emsp;0 ![](/assets/images/di.svg)
+> > 2 ![](/assets/images/mind.svg)&emsp;0 ![](/assets/images/di.svg)&emsp;<span class="red-text">S36</span>
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Scout Man

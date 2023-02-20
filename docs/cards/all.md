@@ -25260,7 +25260,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Gandalf</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 10 ![](/assets/images/di.svg)
+> > 10 ![](/assets/images/di.svg)&emsp;<span class="red-text">G26 G38</span>
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Scout/Sage/Diplomat Wizard
@@ -25286,7 +25286,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Saruman</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 10 ![](/assets/images/di.svg)
+> > 10 ![](/assets/images/di.svg)&emsp;<span class="red-text">S19 S32</span>
 >
 > {: .character-card-classification .pr-2 }
 > Scout/Ranger/Sage/Diplomat Wizard
@@ -25312,7 +25312,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Annalena</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 3 ![](/assets/images/mind.svg)&emsp;0 ![](/assets/images/di.svg)
+> > 3 ![](/assets/images/mind.svg)&emsp;0 ![](/assets/images/di.svg)&emsp;<span class="red-text">S23</span>
 >
 > {: .character-card-classification .pr-2 }
 > Scout/Sage Elf
@@ -25338,7 +25338,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Aragorn II</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 9 ![](/assets/images/mind.svg)&emsp;3 ![](/assets/images/di.svg)
+> > 9 ![](/assets/images/mind.svg)&emsp;3 ![](/assets/images/di.svg)&emsp;<span class="red-text">G01</span>
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Scout/Ranger Dunadan
@@ -25364,7 +25364,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Bard Bowman</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 2 ![](/assets/images/mind.svg)&emsp;0 ![](/assets/images/di.svg)
+> > 2 ![](/assets/images/mind.svg)&emsp;0 ![](/assets/images/di.svg)&emsp;<span class="red-text">S36</span>
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Scout Man
@@ -25390,7 +25390,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Beregond</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 2 ![](/assets/images/mind.svg)&emsp;0 ![](/assets/images/di.svg)
+> > 2 ![](/assets/images/mind.svg)&emsp;0 ![](/assets/images/di.svg)&emsp;<span class="red-text">G17</span>
 >
 > {: .character-card-classification .pr-2 }
 > Warrior Dunadan
@@ -25416,7 +25416,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Boromir II</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg)&emsp;1 ![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&emsp;1 ![](/assets/images/di.svg)&emsp;<span class="red-text">G02</span>
 >
 > {: .character-card-classification .pr-2 }
 > Warrior Dunadan
@@ -25442,7 +25442,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Celeborn</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 6 ![](/assets/images/mind.svg)&emsp;1 ![](/assets/images/di.svg)
+> > 6 ![](/assets/images/mind.svg)&emsp;1 ![](/assets/images/di.svg)&emsp;<span class="red-text">S42</span>
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Sage Elf
@@ -25468,7 +25468,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Elladan</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg)&emsp;0 ![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&emsp;0 ![](/assets/images/di.svg)&emsp;<span class="red-text">S04</span>
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Ranger Elf
@@ -25494,7 +25494,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Elrohir</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg)&emsp;0 ![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&emsp;0 ![](/assets/images/di.svg)&emsp;<span class="red-text">S51</span>
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Ranger Elf
@@ -25520,7 +25520,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Eomer</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 3 ![](/assets/images/mind.svg)&emsp;0 ![](/assets/images/di.svg)
+> > 3 ![](/assets/images/mind.svg)&emsp;0 ![](/assets/images/di.svg)&emsp;<span class="red-text">G25</span>
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Ranger Man
@@ -25546,7 +25546,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Erkenbrand</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg)&emsp;2 ![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&emsp;2 ![](/assets/images/di.svg)&emsp;<span class="red-text">G44</span>
 >
 > {: .character-card-classification .pr-2 }
 > Warrior Man
@@ -25572,7 +25572,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Faramir</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 5 ![](/assets/images/mind.svg)&emsp;1 ![](/assets/images/di.svg)
+> > 5 ![](/assets/images/mind.svg)&emsp;1 ![](/assets/images/di.svg)&emsp;<span class="red-text">G22</span>
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Ranger Dunadan
@@ -25598,7 +25598,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Gimli</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 6 ![](/assets/images/mind.svg)&emsp;2 ![](/assets/images/di.svg)
+> > 6 ![](/assets/images/mind.svg)&emsp;2 ![](/assets/images/di.svg)&emsp;<span class="red-text">S01</span>
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Diplomat Dwarf
@@ -25624,7 +25624,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Kili</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 3 ![](/assets/images/mind.svg)&emsp;0 ![](/assets/images/di.svg)
+> > 3 ![](/assets/images/mind.svg)&emsp;0 ![](/assets/images/di.svg)&emsp;<span class="red-text">G04</span>
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Scout Dwarf
@@ -25650,7 +25650,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Legolas</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 6 ![](/assets/images/mind.svg)&emsp;2 ![](/assets/images/di.svg)
+> > <span class="red-text">S02</span>
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Diplomat Elf
@@ -25676,7 +25676,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Merry</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg)&emsp;1 ![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&emsp;1 ![](/assets/images/di.svg)&emsp;<span class="red-text">G05</span>
 >
 > {: .character-card-classification .pr-2 }
 > Scout Hobbit
@@ -25702,7 +25702,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Pippin</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg)&emsp;1 ![](/assets/images/di.svg)
+> > 4 ![](/assets/images/mind.svg)&emsp;1 ![](/assets/images/di.svg)&emsp;<span class="red-text">S05</span>
 >
 > {: .character-card-classification .pr-2 }
 > Scout Hobbit
@@ -25728,7 +25728,7 @@ permalink: /cards/all/
 > > <div class="card-name">Gollum</div>
 >
 > {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > 4 ![](/assets/images/mind.svg)
+> > 4 ![](/assets/images/mind.svg)&emsp;<span class="red-text">S33</span>
 >
 > {: .card-classification .pr-2 }
 > Scout Ally
@@ -25748,7 +25748,7 @@ permalink: /cards/all/
 > > <div class="card-name">Quickbeam</div>
 >
 > {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > 3 ![](/assets/images/mind.svg)
+> > 3 ![](/assets/images/mind.svg)&emsp;<span class="red-text">G31</span>
 >
 > {: .card-classification .pr-2 }
 > Ally
@@ -25766,9 +25766,12 @@ permalink: /cards/all/
 ---
 
 {: .hero-resource-starter .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .p-1 .pl-2 }
+> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">2</div>
 > > <div class="card-name">Dunlendings</div>
+>
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
+> > <span class="red-text">S15</span>
 >
 > {: .card-classification .pr-2 }
 > Man Faction
@@ -25783,9 +25786,12 @@ permalink: /cards/all/
 ---
 
 {: .hero-resource-starter .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .p-1 .pl-2 }
+> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">3</div>
 > > <div class="card-name">Ents of Fangorn</div>
+>
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
+> > <span class="red-text">S53</span>
 >
 > {: .card-classification .pr-2 }
 > Ent Faction
@@ -25800,9 +25806,12 @@ permalink: /cards/all/
 ---
 
 {: .hero-resource-starter .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .p-1 .pl-2 }
+> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">3</div>
 > > <div class="card-name">Rangers of the North</div>
+>
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
+> > <span class="red-text">G08</span>
 >
 > {: .card-classification .pr-2 }
 > Dunadan Faction
@@ -25817,9 +25826,12 @@ permalink: /cards/all/
 ---
 
 {: .hero-resource-starter .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .p-1 .pl-2 }
+> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">3</div>
 > > <div class="card-name">Riders of Rohan</div>
+>
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
+> > <span class="red-text">G43</span>
 >
 > {: .card-classification .pr-2 }
 > Man Faction
@@ -25834,9 +25846,12 @@ permalink: /cards/all/
 ---
 
 {: .hero-resource-starter .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .p-1 .pl-2 }
+> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">2</div>
 > > <div class="card-name">Tower Guard of Minas Tirith</div>
+>
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
+> > <span class="red-text">G53</span>
 >
 > {: .card-classification .pr-2 }
 > Dunadan Faction
@@ -25851,9 +25866,12 @@ permalink: /cards/all/
 ---
 
 {: .hero-resource-starter .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .p-1 .pl-2 }
+> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">3</div>
 > > <div class="card-name">Wood-elves</div>
+>
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
+> > <span class="red-text">S27</span>
 >
 > {: .card-classification .pr-2 }
 > Elf Faction
@@ -25868,9 +25886,12 @@ permalink: /cards/all/
 ---
 
 {: .hero-resource-starter .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .p-1 .pl-2 }
+> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Dagger of Westernesse</div>
+>
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
+> > <span class="red-text">S03</span>
 >
 > {: .card-classification .pr-2 }
 > Minor Item
@@ -25888,9 +25909,12 @@ permalink: /cards/all/
 ---
 
 {: .hero-resource-starter .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .p-1 .pl-2 }
+> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Elven Cloak</div>
+>
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
+> > <span class="red-text">G06 S06</span>
 >
 > {: .card-classification .pr-2 }
 > Minor Item
@@ -25908,9 +25932,12 @@ permalink: /cards/all/
 ---
 
 {: .hero-resource-starter .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .p-1 .pl-2 }
+> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">2</div>
 > > <div class="card-name">Glamdring</div>
+>
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
+> > <span class="red-text">G41</span>
 >
 > {: .card-classification .pr-2 }
 > Major Item
@@ -25928,9 +25955,12 @@ permalink: /cards/all/
 ---
 
 {: .hero-resource-starter .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .p-1 .pl-2 }
+> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">2</div>
 > > <div class="card-name">Great-shield of Rohan</div>
+>
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
+> > <span class="red-text">G27</span>
 >
 > {: .card-classification .pr-2 }
 > Major Item
@@ -25948,9 +25978,12 @@ permalink: /cards/all/
 ---
 
 {: .hero-resource-starter .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .p-1 .pl-2 }
+> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">2</div>
 > > <div class="card-name">Hauberk of Bright Mail</div>
+>
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
+> > <span class="red-text">S07</span>
 >
 > {: .card-classification .pr-2 }
 > Major Item
@@ -25968,9 +26001,12 @@ permalink: /cards/all/
 ---
 
 {: .hero-resource-starter .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .p-1 .pl-2 }
+> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">4</div>
 > > <div class="card-name">Orcrist</div>
+>
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
+> > <span class="red-text">S40</span>
 >
 > {: .card-classification .pr-2 }
 > Greater Item
@@ -25988,9 +26024,12 @@ permalink: /cards/all/
 ---
 
 {: .hero-resource-starter .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .p-1 .pl-2 }
+> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">4</div>
 > > <div class="card-name">Scroll of Isildur</div>
+>
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
+> > <span class="red-text">G21</span>
 >
 > {: .card-classification .pr-2 }
 > Greater Item
@@ -26008,9 +26047,12 @@ permalink: /cards/all/
 ---
 
 {: .hero-resource-starter .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .p-1 .pl-2 }
+> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Shield of Iron-bound Ash</div>
+>
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
+> > <span class="red-text">G03</span>
 >
 > {: .card-classification .pr-2 }
 > Minor Item
@@ -26028,9 +26070,12 @@ permalink: /cards/all/
 ---
 
 {: .hero-resource-starter .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .p-1 .pl-2 }
+> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp">2</div>
 > > <div class="card-name">Sword of Gondolin</div>
+>
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
+> > <span class="red-text">S44</span>
 >
 > {: .card-classification .pr-2 }
 > Major Item
@@ -26048,9 +26093,12 @@ permalink: /cards/all/
 ---
 
 {: .hero-resource-starter .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .p-1 .pl-2 }
+> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Block</div>
+>
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
+> > <span class="red-text">S08 S17 S43</span>
 >
 > {: .card-classification .pr-2 }
 > Short-event
@@ -26065,9 +26113,12 @@ permalink: /cards/all/
 ---
 
 {: .hero-resource-starter .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .p-1 .pl-2 }
+> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Bridge</div>
+>
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
+> > <span class="red-text">G55 S56</span>
 >
 > {: .card-classification .pr-2 }
 > Short-event
@@ -26079,9 +26130,12 @@ permalink: /cards/all/
 ---
 
 {: .hero-resource-starter .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .p-1 .pl-2 }
+> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Concealment</div>
+>
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
+> > <span class="red-text">G11 G33 S49 S55</span>
 >
 > {: .card-classification .pr-2 }
 > Short-event
@@ -26096,9 +26150,12 @@ permalink: /cards/all/
 ---
 
 {: .hero-resource-starter .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .p-1 .pl-2 }
+> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Dark Quarrels</div>
+>
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
+> > <span class="red-text">S18</span>
 >
 > {: .card-classification .pr-2 }
 > Short-event
@@ -26113,9 +26170,12 @@ permalink: /cards/all/
 ---
 
 {: .hero-resource-starter .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .p-1 .pl-2 }
+> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Dodge</div>
+>
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
+> > <span class="red-text">G07 G23 G39</span>
 >
 > {: .card-classification .pr-2 }
 > Short-event
@@ -26130,9 +26190,12 @@ permalink: /cards/all/
 ---
 
 {: .hero-resource-starter .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .p-1 .pl-2 }
+> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Escape</div>
+>
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
+> > <span class="red-text">G29 G35 S16</span>
 >
 > {: .card-classification .pr-2 }
 > Short-event
@@ -26147,9 +26210,12 @@ permalink: /cards/all/
 ---
 
 {: .hero-resource-starter .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .p-1 .pl-2 }
+> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Ford</div>
+>
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
+> > <span class="red-text">G50 S60</span>
 >
 > {: .card-classification .pr-2 }
 > Short-event
@@ -26164,9 +26230,12 @@ permalink: /cards/all/
 ---
 
 {: .hero-resource-starter .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .p-1 .pl-2 }
+> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Halfling Stealth</div>
+>
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
+> > <span class="red-text">G56 S22</span>
 >
 > {: .card-classification .pr-2 }
 > Short-event
@@ -26181,9 +26250,12 @@ permalink: /cards/all/
 ---
 
 {: .hero-resource-starter .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .p-1 .pl-2 }
+> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Halfling Strength</div>
+>
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
+> > <span class="red-text">G20 G51 S35 S47</span>
 >
 > {: .card-classification .pr-2 }
 > Short-event
@@ -26198,9 +26270,12 @@ permalink: /cards/all/
 ---
 
 {: .hero-resource-starter .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .p-1 .pl-2 }
+> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Lucky Strike</div>
+>
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
+> > <span class="red-text">G09 G24 G40</span>
 >
 > {: .card-classification .pr-2 }
 > Short-event
@@ -26215,9 +26290,12 @@ permalink: /cards/all/
 ---
 
 {: .hero-resource-starter .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .p-1 .pl-2 }
+> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Muster</div>
+>
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
+> > <span class="red-text">G59 S58</span>
 >
 > {: .card-classification .pr-2 }
 > Short-event
@@ -26232,9 +26310,12 @@ permalink: /cards/all/
 ---
 
 {: .hero-resource-starter .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .p-1 .pl-2 }
+> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Risky Blow</div>
+>
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
+> > <span class="red-text">S09 S25 S39</span>
 >
 > {: .card-classification .pr-2 }
 > Short-event
@@ -26249,9 +26330,12 @@ permalink: /cards/all/
 ---
 
 {: .hero-resource-starter .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hero-resource-name .p-1 .pl-2 }
+> {: .hero-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="card-mp"></div>
 > > <div class="card-name">Tempering Friendship</div>
+>
+> {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
+> > <span class="red-text">G10 S45</span>
 >
 > {: .card-classification .pr-2 }
 > Short-event
@@ -26268,7 +26352,7 @@ permalink: /cards/all/
 > > <div class="card-name">Barrow-wight</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)
+> > ![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)&emsp;<span class="red-text">S34 S52</span>
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -26291,7 +26375,7 @@ permalink: /cards/all/
 > > <div class="card-name">Bert (Burat)</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&emsp;![](/assets/images/shadow-hold.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&emsp;![](/assets/images/shadow-hold.svg)&emsp;<span class="red-text">G12</span>
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -26314,7 +26398,7 @@ permalink: /cards/all/
 > > <div class="card-name">Brigands</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)
+> > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)&emsp;<span class="red-text">G18 G32 G49</span>
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -26337,7 +26421,7 @@ permalink: /cards/all/
 > > <div class="card-name">Ghosts</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)
+> > ![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)&emsp;<span class="red-text">S13 S50</span>
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -26360,7 +26444,7 @@ permalink: /cards/all/
 > > <div class="card-name">Ghouls</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)
+> > ![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)&emsp;<span class="red-text">S21 S57</span>
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -26383,7 +26467,7 @@ permalink: /cards/all/
 > > <div class="card-name">Huorn</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > ![](/assets/images/wilderness.svg)&emsp;<span class="red-text">S24 S38</span>
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -26403,7 +26487,7 @@ permalink: /cards/all/
 > > <div class="card-name">Orc-guard</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)
+> > ![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)&emsp;<span class="red-text">G14 G30 G45</span>
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -26426,7 +26510,7 @@ permalink: /cards/all/
 > > <div class="card-name">Orc-raiders</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/ruinlair.svg)
+> > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/ruinlair.svg)&emsp;<span class="red-text">G13 G42 G52</span>
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -26449,7 +26533,7 @@ permalink: /cards/all/
 > > <div class="card-name">Orc-warriors</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/ruinlair.svg)
+> > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/ruinlair.svg)&emsp;<span class="red-text">G15 G34 G54</span>
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -26472,7 +26556,7 @@ permalink: /cards/all/
 > > <div class="card-name">Orc-watch</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)
+> > ![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)&emsp;<span class="red-text">G47 G57 G60</span>
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -26495,7 +26579,7 @@ permalink: /cards/all/
 > > <div class="card-name">Wargs</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)
+> > <span class="red-text">S10 S12 S30</span>
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -26518,7 +26602,7 @@ permalink: /cards/all/
 > > <div class="card-name">William (Wuluag)</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)&emsp;<span class="red-text">G28</span>
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -26541,7 +26625,7 @@ permalink: /cards/all/
 > > <div class="card-name">Wolves</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)
+> > <span class="red-text">S11 S26 S28</span>
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -26559,9 +26643,12 @@ permalink: /cards/all/
 ---
 
 {: .hazard-starter .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hazard-name .white-text .p-1 .pl-2 }
+> {: .hazard-name .white-text .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Arouse Minions</div>
+>
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
+> > <span class="red-text">G16 G37 G58 S14 S37 S59</span>
 >
 > {: .hazard-classification .pr-2 }
 > Short-event
@@ -26576,9 +26663,12 @@ permalink: /cards/all/
 ---
 
 {: .hazard-starter .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hazard-name .white-text .p-1 .pl-2 }
+> {: .hazard-name .white-text .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Minions Stir</div>
+>
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
+> > <span class="red-text">G36 G46</span>
 >
 > {: .hazard-classification .pr-2 }
 > Long-event
@@ -26593,9 +26683,12 @@ permalink: /cards/all/
 ---
 
 {: .hazard-starter .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hazard-name .white-text .p-1 .pl-2 }
+> {: .hazard-name .white-text .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">River</div>
+>
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
+> > <span class="red-text">G19 G48 S41 S48</span>
 >
 > {: .hazard-classification .pr-2 }
 > Short-event
@@ -26610,9 +26703,12 @@ permalink: /cards/all/
 ---
 
 {: .hazard-starter .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
-> {: .hazard-name .white-text .p-1 .pl-2 }
+> {: .hazard-name .white-text .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
 > > <div class="card-name">Wake of War</div>
+>
+> {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
+> > <span class="red-text">S29 S54</span>
 >
 > {: .hazard-classification .pr-2 }
 > Long-event
@@ -26632,7 +26728,7 @@ permalink: /cards/all/
 > > <div class="card-name">Lesser Spiders</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/ruinlair.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/ruinlair.svg)&emsp;<span class="red-text">S20 S31 S46</span>
 >
 > {: .hazard-classification .pr-2 }
 > Creature

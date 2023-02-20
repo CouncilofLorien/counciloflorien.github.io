@@ -65,7 +65,7 @@ permalink: /cards/barrow-wight/
 > > <div class="card-name">Barrow-wight</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)
+> > ![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)&emsp;<span class="red-text">S34 S52</span>
 >
 > {: .hazard-classification .pr-2 }
 > Creature

@@ -59,7 +59,7 @@ permalink: /cards/huorn/
 > > <div class="card-name">Huorn</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)
+> > ![](/assets/images/wilderness.svg)&emsp;<span class="red-text">S24 S38</span>
 >
 > {: .hazard-classification .pr-2 }
 > Creature

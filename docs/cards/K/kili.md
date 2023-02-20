@@ -71,7 +71,7 @@ permalink: /cards/kili/
 > > <div class="character-card-name">Kili</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 3 ![](/assets/images/mind.svg)&emsp;0 ![](/assets/images/di.svg)
+> > 3 ![](/assets/images/mind.svg)&emsp;0 ![](/assets/images/di.svg)&emsp;<span class="red-text">G04</span>
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Scout Dwarf
