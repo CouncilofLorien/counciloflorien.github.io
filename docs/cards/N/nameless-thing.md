@@ -25,7 +25,7 @@ permalink: /cards/nameless-thing/
 > > _Drake._ 3 attacks of 2 strikes each. A character can tap to cancel one of these attacks. Playable at any Under-deeps site. If _Doors of Night_ is in play, also playable at an adjacent site of any Under-deeps site or keyed to a Coastal Sea <nobr>[<img src="/assets/images/coastalsea.svg">]</nobr>.   
 > > 
 > > {: .fs-3 } 
-> > _“‘Far, far below the deepest delvings of the Dwarves, the world is gnawed by nameless things...’”_ ***---&#65279;LotRIII*** 
+> > _“‘Far, far below the deepest delvings of the Dwarves, the world is gnawed by nameless things. ...’”_ ***---&#65279;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 10/4 】</div>

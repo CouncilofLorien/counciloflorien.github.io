@@ -22,5 +22,5 @@ permalink: /cards/to-get-you-away/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Tap an agent at target company's new site._ Agent may attack not counting against hazard limit) during the movement/hazard phase. Attacker chooses defending characters. A successful strike doesn't wound the defending character, instead the character is taken prisoner at one of the agent's home site (attacker's choice, regardless of site's location) **and** the agent returns to the same site. <br>&ensp;Rescue-attack: Same race as agent --- 3 strikes with 8 prowess. 
+> > _Tap an agent at target company's new site._ Agent may attack (not counting against hazard limit) during the movement/hazard phase. Attacker chooses defending characters. A successful strike doesn't wound the defending character, instead the character is taken prisoner at one of the agent's home site (attacker's choice, regardless of site's location) **and** the agent returns to the same site. <br>&ensp;Rescue-attack: Same race as agent --- 3 strikes with 8 prowess. 
 >

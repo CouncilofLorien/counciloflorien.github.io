@@ -22,5 +22,5 @@ permalink: /cards/the-hunt/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable on Alatar during the organization phase.*** Name a specific hazard creature card your opponent revealed to you through a mechanism of the game and discarded. Unless eliminated or prevented from being in play, your opponent then finds this particular card (reshuffling his play deck if searched). This creature immediately attacks Alatar as though he were a one-character company. Alatar cannot use or benefit from spells against the attack. If untapped, tap Alatar afterwards. 
+> > ***Playable on Alatar during the organization phase.*** Name a specific hazard creature card your opponent revealed to you through a mechanism of the game and discarded. Unless eliminated or prevented from being in play, your opponent then finds this particular card (reshuffling his play deck if it was searched). This creature immediately attacks Alatar as though he were a one-character company. Alatar cannot use or benefit from spells against the attack. If untapped, tap Alatar afterwards. 
 > 

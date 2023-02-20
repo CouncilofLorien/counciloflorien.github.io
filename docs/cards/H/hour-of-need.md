@@ -22,5 +22,5 @@ permalink: /cards/hour-of-need/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable on an untapped non-Warrior non-Wizard diplomat during the organization phase if you have a faction in your hand.*** Play a faction from your hand. Tap diplomat who then makes an influence attempt on this faction. Count out the number of contiguous regions from the diplomat's site to the site where the faction is normally playable (including the regions containing both sites)---subtract 2 plus this number from the diplomat's attempt. If the attempt is unsuccessful, discard the diplomat and faction. 
+> > ***Playable on an untapped non-Warrior non-Wizard diplomat during the organization phase if you have a faction in your hand.*** Play a faction from your hand. Tap diplomat who then makes an influence attempt on this faction. Count out the number of contiguous regions from the diplomat's site to the site where the faction is normally playable (including the regions containing both sites)---subtract two plus this number from the diplomat's attempt. If the attempt is unsuccessful, discard the diplomat and faction. 
 > 

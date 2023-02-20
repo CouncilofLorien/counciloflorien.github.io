@@ -25,7 +25,7 @@ permalink: /cards/durins-bane/
 > > _**Unique.**_ _Manifestation of Balrog of Moria._ _Balrog._ 2 strikes---all body checks resulting from a successful strike are modified by +1. May be played at The Under-gates and at all of its adjacent sites. If _Doors of Night_ is in play, _Durin's Bane_ may be played at any Under-deeps site.   
 > > 
 > > {: .fs-3 } 
-> > _“‘...even as mithril was the foundation of their wealth, so also was it their destruction: they delved too greedily and too deep, and disturbed that from which they fled, Durin's Bane.’”_ ***---&#65279;LotRV*** 
+> > _“‘...even as mithril was the foundation of their wealth, so also was it their destruction: they delved too greedily and too deep, and disturbed that from which they fled, Durin's Bane.’”_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 18/9 】</div>

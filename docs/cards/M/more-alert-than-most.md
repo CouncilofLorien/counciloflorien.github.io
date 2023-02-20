@@ -27,3 +27,20 @@ permalink: /cards/more-alert-than-most/
 > > {: .fs-3 } 
 > > _“‘Biter and beater!' they shrieked; and soon they were all confusion, and most of them were hustling back the way they had come."_ ***---&#65279;Hob*** 
 > 
+
+### _Middle-earth: Dark Minions_
+
+{: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
+> {: .hero-resource-name .p-1 .pl-2 }
+> > <div class="card-mp"></div>
+> > <div class="card-name">More Alert than Most</div>
+>
+> {: .card-classification .pr-2 }
+> Permanent-event
+>
+> {: .hero-resource-text .black-text .p-2 }
+> > The number of strikes an attack that chooses defending characters is reduced by one (to a minimum of one)---by 2 if _Gates of Morning_ is in play. Discard when such an attack is defeated. Cannot be duplicated.   
+> > 
+> > {: .fs-3 } 
+> > _“They came scurrying around the corner in full cry, and found Goblin-cleaver and Foe-hammer shining cold and bright right in their astonished eyes."_ ***---&#65279;Hob*** 
+> 

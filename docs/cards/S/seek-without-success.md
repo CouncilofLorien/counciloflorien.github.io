@@ -25,5 +25,5 @@ permalink: /cards/seek-without-success/
 > > Discard a ranger agent at target company's new site. Company must immediately return to its site of origin.   
 > > 
 > > {: .fs-3 } 
-> > _“‘...Together we sought for Gollum down the whole length of Wilderland, without hope. And without success."_ ***---&#65279;LotRI***  
+> > _“‘...Together we sought for Gollum down the whole length of Wilderland, without hope, and without success."_ ***---&#65279;LotRI***  
 >

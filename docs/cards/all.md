@@ -22792,7 +22792,7 @@ permalink: /cards/all/
 > > <div class="card-name">Aiglos</div>
 >
 > {: .hero-resource-name .black-text .mind-di .p-1 .pl-2 }
-> > [+3]![](/assets/images/di.svg)
+> > [+3 ![](/assets/images/di.svg)]
 >
 > {: .card-classification .pr-2 }
 > Special Item
@@ -22861,7 +22861,7 @@ permalink: /cards/all/
 > Minor Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Lost Knowledge._ _Can also be played at Minas Tirith (if the site is tapped)._ Cannot be included with a starting company. After this item is played, the bearer faces an attack (cannot be canceled): Trap --- 1 strike with 8 prowess (weapons do not modify prowess against this strike). If its bearer is at a Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr>, discard _Forgotten Scrolls_ to make information playable at the site until the end of turn.  
+> > _Lost Knowledge._ _Can also be played at Minas Tirith if the site is tapped._ Cannot be included with a starting company. After this item is played, the bearer faces an attack (cannot be cancelled): Trap --- 1 strike with 8 prowess (weapons do not modify prowess against this strike). If its bearer is at a Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr>, discard _Forgotten Scrolls_ to make information playable at the site until the end of turn.  
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -22915,7 +22915,7 @@ permalink: /cards/all/
 > Minor Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Lost Knowledge._ Cannot be included with a starting company. After this item is played, the bearer faces an attack (cannot be canceled): Trap --- 1 strike with 9 prowess (weapons do not modify prowess against this strike). If its bearer is at a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> or Dark-hold <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr>, discard _Lost Tome_ to make information playable at the site until the end of turn.  
+> > _Lost Knowledge._ Cannot be included with a starting company. After this item is played, the bearer faces an attack (cannot be cancelled): Trap --- 1 strike with 9 prowess (weapons do not modify prowess against this strike). If its bearer is at a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> or Dark-hold <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr>, discard _Lost Tome_ to make information playable at the site until the end of turn.  
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -22992,7 +22992,7 @@ permalink: /cards/all/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ ***Playable on any non-Wizard, non-Dwarf bearer of Star-glass at a Haven*** <nobr>[<img src="/assets/images/free-haven.svg">]</nobr> ***in the same company as an untapped Galadriel.*** Tap Galadriel, replace _Star-glass_ with _Phial of Galadriel_, remove _Star-glass_ from play. Tap _Phial of Galadriel_ to cancel any Undead attack. Tap _Phial_ to modify the prowess of any hazard creature keyed to a Dark-domain <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr>, Dark-hold <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr>, or Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> by -2---you choose targets of such attack's strikes (regardless of tapped status, wounded status, and the normal abilities of the attack). Tap _Phial_ to give +2 prowess to any corruption check by its bearer. Cannot be transferred.  
+> > _Unique._ ***Playable on a non-Wizard, non-Dwarf bearer of Star-glass at a Haven*** <nobr>[<img src="/assets/images/free-haven.svg">]</nobr> ***in the same company as an untapped Galadriel.*** Tap Galadriel, replace _Star-glass_ with _Phial of Galadriel_, remove _Star-glass_ from play. Tap _Phial of Galadriel_ to cancel any Undead attack. Tap _Phial_ to modify the prowess of any hazard creature keyed to a Dark-domain <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr>, Dark-hold <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr>, or Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> by -2---you choose targets of such attack's strikes (regardless of tapped status, wounded status, and the normal abilities of the attack). Tap _Phial_ to give +2 prowess to any corruption check by its bearer. Cannot be transferred.  
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -23311,10 +23311,10 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable on a Haven*** <nobr>[<img src="/assets/images/free-haven.svg">]</nobr>. Any company at this Haven immediately following its movement/hazard phase may choose for one of its characters to untap or heal (from wounded to tapped). Discard _Hall of Fire_ when the site card is returned to the location deck. 
+> > ***Playable on a Haven*** <nobr>[<img src="/assets/images/free-haven.svg">]</nobr>. Any company at this Haven <nobr>[<img src="/assets/images/free-haven.svg">]</nobr> immediately following its movement/hazard phase may choose for one of its characters to untap or heal (from wounded to tapped). Discard _Hall of Fire_ when the site card is returned to the location deck. 
 > > 
 > > {: .fs-3 } 
-> > _“‘...people came here who wish for peace, and thought. There is always a fire here...’”_ ***---&#65279;LotRII*** 
+> > _“‘...people come here who wish for peace, and thought. There is always a fire here...’”_ ***---&#65279;LotRII*** 
 > 
 
 ---
@@ -23342,7 +23342,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable on Radagast while moving during his movement/hazard phase if there is at least one Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> in his site path.*** If untapped, tap Radagast afterwards. During any organization phase, Radagast can tap and discard this card to heal all characters in his company from wounded to untapped and to untap all tapped characters. 
+> > ***Playable on Radagast while moving during his movement/hazard phase if there is at least one Wilderness*** <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> ***in his site path.*** If untapped, tap Radagast afterwards. During any organization phase, Radagast can tap and discard this card to heal all characters in his company from wounded to untapped and to untap all tapped characters. 
 > > 
 > > {: .fs-3 } 
 > > _“‘Radagast is...a master of shapes and changes of hue; and he has much lore of herbs and beasts...’”_ ***---&#65279;LotRII*** 
@@ -23373,7 +23373,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable on any face up agent during your site phase.*** You may play a hazard creature from your hand keyed to a face up agent's current sire which immediately attacks the agent as if the agent were a character. You do not receive marshalling points if the agent is eliminated. 
+> > ***Playable on any face up agent during your site phase.*** You may play a hazard creature from your hand keyed to a face up agent's current site which immediately attacks the agent as if the agent were a character. You do not receive marshalling points if the agent is eliminated. 
 > > 
 > > {: .fs-3 } 
 > > _“...Wormtongue rose up, drawing a hidden knife...”_ ***---&#65279;LotRVI***
@@ -23427,7 +23427,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable on an untapped non-Warrior non-Wizard diplomat during the organization phase if you have a faction in your hand.*** Play a faction from your hand. Tap diplomat who then makes an influence attempt on this faction. Count out the number of contiguous regions from the diplomat's site to the site where the faction is normally playable (including the regions containing both sites)---subtract 2 plus this number from the diplomat's attempt. If the attempt is unsuccessful, discard the diplomat and faction. 
+> > ***Playable on an untapped non-Warrior non-Wizard diplomat during the organization phase if you have a faction in your hand.*** Play a faction from your hand. Tap diplomat who then makes an influence attempt on this faction. Count out the number of contiguous regions from the diplomat's site to the site where the faction is normally playable (including the regions containing both sites)---subtract two plus this number from the diplomat's attempt. If the attempt is unsuccessful, discard the diplomat and faction. 
 > 
 
 ---
@@ -23506,7 +23506,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Stolen Knowledge._ ***Playable on an untapped character at a Shadow-hold*** <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> ***or Dark-hold*** <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr> ***or if his company faced an agent attack and all of its strikes failed.*** Tap character. Can be stored at a Haven <nobr>[<img src="/assets/images/free-haven.svg">]</nobr>---only if stored do you receive its marshalling point. If stored, you may discard this card and force one non-unique hazard to be removed from the play as you see your opponent discard it through a mechanism of the game. 
+> > _Stolen Knowledge._ ***Playable on an untapped character at a Shadow-hold*** <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> ***or Dark-hold*** <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr> ***or if his company faced an agent attack and all of its strikes failed.*** Tap character. Can be stored at a Haven---only if stored do you receive its marshalling point. If stored, you may discard this card and force one non-unique hazard to be removed from the play as you see your opponent discard it through a mechanism of the game. 
 > 
 
 ---
@@ -23555,6 +23555,23 @@ permalink: /cards/all/
 > > 
 > > {: .fs-3 } 
 > > _“‘Biter and beater!' they shrieked; and soon they were all confusion, and most of them were hustling back the way they had come."_ ***---&#65279;Hob*** 
+> 
+
+---
+
+{: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
+> {: .hero-resource-name .p-1 .pl-2 }
+> > <div class="card-mp"></div>
+> > <div class="card-name">More Alert than Most</div>
+>
+> {: .card-classification .pr-2 }
+> Permanent-event
+>
+> {: .hero-resource-text .black-text .p-2 }
+> > The number of strikes an attack that chooses defending characters is reduced by one (to a minimum of one)---by 2 if _Gates of Morning_ is in play. Discard when such an attack is defeated. Cannot be duplicated.   
+> > 
+> > {: .fs-3 } 
+> > _“They came scurrying around the corner in full cry, and found Goblin-cleaver and Foe-hammer shining cold and bright right in their astonished eyes."_ ***---&#65279;Hob*** 
 > 
 
 ---
@@ -23726,7 +23743,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable on Alatar during the organization phase.*** Name a specific hazard creature card your opponent revealed to you through a mechanism of the game and discarded. Unless eliminated or prevented from being in play, your opponent then finds this particular card (reshuffling his play deck if searched). This creature immediately attacks Alatar as though he were a one-character company. Alatar cannot use or benefit from spells against the attack. If untapped, tap Alatar afterwards. 
+> > ***Playable on Alatar during the organization phase.*** Name a specific hazard creature card your opponent revealed to you through a mechanism of the game and discarded. Unless eliminated or prevented from being in play, your opponent then finds this particular card (reshuffling his play deck if it was searched). This creature immediately attacks Alatar as though he were a one-character company. Alatar cannot use or benefit from spells against the attack. If untapped, tap Alatar afterwards. 
 > 
 
 ---
@@ -23785,7 +23802,7 @@ permalink: /cards/all/
 > > ***Sage or Dwarf only during the site phase at any Under-deeps site.*** Tap the sage or Dwarf. Tap the site if it is not already tapped. Sage or Dwarf may not untap until _Vein of Arda_ is stored at a Haven <nobr>[<img src="/assets/images/free-haven.svg">]</nobr>. Cannot be duplicated at a given site. 
 > > 
 > > {: .fs-3 } 
-> > _“...gems and crystals and veins of precious are glint in the polished walls...”_ ***---&#65279;LotRIII*** 
+> > _“...gems and crystals and veins of precious ore glint in the polished walls...”_ ***---&#65279;LotRIII*** 
 > 
 
 ---
@@ -23819,7 +23836,7 @@ permalink: /cards/all/
 > > ***Playable on a face-up agent.*** If the agent has a mind of 5 or less, it is discarded. If its mind is 6 or greater, return the agent to its owner's hand. <br>&ensp;Alternatively, an on-guard card is discarded. 
 > > 
 > > {: .fs-3 } 
-> > _“‘He was loth to speak and his tale was unclear, but it is beyond all doubt that he went to Mordor, and there all that he knew was forced from him.’”_ ***---&#65279;LotRII*** 
+> > _“‘He was loth to speak and his tale was unclear, but it is beyond all doubt that he went to mordor, and there all that he knew was forced from him.’”_ ***---&#65279;LotRII*** 
 > 
 
 ---
@@ -23882,7 +23899,7 @@ permalink: /cards/all/
 > > _**Unique.**_ _Manifestation of Balrog of Moria._ _Balrog._ 2 strikes---all body checks resulting from a successful strike are modified by +1. May be played at The Under-gates and at all of its adjacent sites. If _Doors of Night_ is in play, _Durin's Bane_ may be played at any Under-deeps site.   
 > > 
 > > {: .fs-3 } 
-> > _“‘...even as mithril was the foundation of their wealth, so also was it their destruction: they delved too greedily and too deep, and disturbed that from which they fled, Durin's Bane.’”_ ***---&#65279;LotRV*** 
+> > _“‘...even as mithril was the foundation of their wealth, so also was it their destruction: they delved too greedily and too deep, and disturbed that from which they fled, Durin's Bane.’”_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 18/9 】</div>
@@ -23896,7 +23913,7 @@ permalink: /cards/all/
 > > <div class="card-name">Little Snuffler</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/ruinlair.svg)&ensp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/ruinlair.svg)&ensp;![](/assets/images/shadow-hold.svg)&ensp;![](/assets/images/dark-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -23905,7 +23922,7 @@ permalink: /cards/all/
 > > _Orc._ One strike. Attacker chooses defending characters. Each ranger in attacked company lowers _Little Snuffler's_ body by 2. If attack is not defeated, any resource that requires a scout in target company cannot be played for the rest of the turn.   
 > > 
 > > {: .fs-3 } 
-> > _“...a small breed, black skinned, with wide and snuffling nostrils: evidently a tracker of some kind...”_ ***---&#65279;LotRII*** 
+> > _“...a small breed, black skinned, with wide and snuffling nostrils: evidently a tracker of some kind.”_ ***---&#65279;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 5/10 】</div>
@@ -23925,7 +23942,7 @@ permalink: /cards/all/
 > > _Drake._ 3 attacks of 2 strikes each. A character can tap to cancel one of these attacks. Playable at any Under-deeps site. If _Doors of Night_ is in play, also playable at an adjacent site of any Under-deeps site or keyed to a Coastal Sea <nobr>[<img src="/assets/images/coastalsea.svg">]</nobr>.   
 > > 
 > > {: .fs-3 } 
-> > _“‘Far, far below the deepest delvings of the Dwarves, the world is gnawed by nameless things...’”_ ***---&#65279;LotRIII*** 
+> > _“‘Far, far below the deepest delvings of the Dwarves, the world is gnawed by nameless things. ...’”_ ***---&#65279;LotRIII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 10/4 】</div>
@@ -23956,7 +23973,7 @@ permalink: /cards/all/
 > > <div class="card-name">Stirring Bones</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/ruinlair.svg)&ensp;![](/assets/images/shadow-hold.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/ruinlair.svg)&ensp;![](/assets/images/shadow-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -24002,7 +24019,7 @@ permalink: /cards/all/
 > > <div class="card-name">Wisp of Pale Sheen</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/coastalsea.svg)&ensp;![](/assets/images/ruinlair.svg)&ensp;![](/assets/images/shadow-hold.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/coastalsea.svg)&emsp;![](/assets/images/ruinlair.svg)&ensp;![](/assets/images/shadow-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -24144,7 +24161,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > ***Playable on a Shadow-hold*** <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> ***(or on a Ruins & Lairs*** <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> ***or Border-hold*** <nobr>[<img src="/assets/images/border-hold.svg">]</nobr> (((if Doors of Night is in play).*** If the company chooses to enter the site, it must make a roll (draw a #) and subtract its company size. If the result is greater than 6, the company may enter the site as normal. Otherwise, the company must face an attack to be resolved before any automatic-attacks: Orcs --- 4 strikes at 9 prowess. Discard when  the site card is discarded or returned to its location deck. 
+> > ***Playable on a Shadow-hold*** <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> ***(or on a Ruins & Lairs*** <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> ***or Border-hold*** <nobr>[<img src="/assets/images/border-hold.svg">]</nobr> ***if Doors of Night is in play).*** If the company chooses to enter the site, it must make a roll (draw a #) and subtract its company size. If the result is greater than 6, the company may enter the site as normal. Otherwise, the company must face an attack to be resolved before any automatic-attacks: Orcs --- 4 strikes at 9 prowess. Discard when  the site card is discarded or returned to its location deck. 
 >
 
 ---
@@ -24189,7 +24206,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Dark enchantment._ ***Playable on a non-Wizard character wounded by an Undead attack this turn;*** _does not count against the hazard limit._ Target character can never become untapped while bearing this card. Any effect that would move him to an untapped state makes him tapped instead. Cannot be duplicated on a given character. <br>&ensp;During the organization phase, a sage in the target character's company may tap to attempt to remove this card. Make a roll (or draw a #): if the result is greater than 7, discard this card. 
+> > _Dark Enchantment._ ***Playable on a non-Wizard character wounded by an Undead attack this turn;*** _does not count against the hazard limit._ Target character can never become untapped while bearing this card. Any effect that would move him to an untapped state makes him tapped instead. Cannot be duplicated on a given character. <br>&ensp;During the organization phase, a sage in the target character's company may tap to attempt to remove this card. Make a roll (or draw a #): if the result is greater than 7, discard this card. 
 >
 
 ---
@@ -24203,10 +24220,10 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > ***Playable on an Undead hazard creature in your discard pile.*** If target Undead can attack, bring it into play as a creature that attacks immediately (not counting against the hazard limit). The attacks prowess is modified by -1. 
+> > ***Playable on an Undead hazard creature in your discard pile.*** If target Undead can attack, bring it into play as a creature that attacks immediately (not counting against the hazard limit). The attack's prowess is modified by -1. 
 > > 
 > > {: .fs-3 } 
-> > _“...wavering and blowing like a noisome exhalation of decay, a corpse-light, a light the illuminated nothing."_ ***---&#65279;LotRIV*** 
+> > _“...wavering and blowing like a noisome exhalation of decay, a corpse-light, a light that illuminated nothing."_ ***---&#65279;LotRIV*** 
 >
 
 ---
@@ -24282,7 +24299,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Tap a sage if another sage in his company **or** at his current site **or** at his new site. <br>&ensp;Alternatively, tap a diplomat if another diplomat is in his company **or** at his current site **or** at his new site.   
+> > Tap a sage if another sage is in his company **or** at his current site **or** at his new site. <br>&ensp;Alternatively, tap a diplomat if another diplomat is in his company **or** at his current site **or** at his new site.   
 > > 
 > > {: .fs-3 } 
 > > _“‘Small comfort will those two have in their companionship: they will gnaw one another with words. ...If Wormtongue ever comes out of Orthanc alive, it will be more than he deserves.’”_ ***---&#65279;LotRIII*** 
@@ -24544,7 +24561,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Corruption._ _Dark enchantment._ ***Playable on a non-Wizard character wounded by an Undead attack this turn;*** _does not count against the hazard limit_. Target character receives 2 corruption points and makes a corruption check each time a player discards a card from his hand during his turn. His direct influence is zero while bearing this card. Cannot be duplicated on a given character. <br>&ensp;During the organization phase, a sage in target character's company (other than character) may tap to attempt to remove this card. Make a roll (or draw a #): if the result is greater than 6, discard this card.  
+> > _Corruption._ _Dark Enchantment._ ***Playable on a non-Wizard character wounded by an Undead attack this turn;*** _does not count against the hazard limit_. Target character receives 2 corruption points and makes a corruption check each time a player discards a card from his hand during his turn. His direct influence is zero while bearing this card. Cannot be duplicated on a given character. <br>&ensp;During the organization phase, a sage in target character's company (other than character) may tap to attempt to remove this card. Make a roll (or draw a #): if the result is greater than 6, discard this card.  
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -24561,7 +24578,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > ***Playable on an attack with more strikes than defending character characters before strikes are assigned;*** _does not count against the hazard limit._ The first excess strike assigned to each character gives a -4 modification to his prowess instead of -1. Cannot be duplicated on a given attack. 
+> > ***Playable on an attack with more strikes than defending characters before strikes are assigned;*** _does not count against the hazard limit._ The first excess strike assigned to each character gives a -4 modification to his prowess instead of -1. Cannot be duplicated on a given attack. 
 > > 
 > > {: .fs-3 } 
 > > _“...he was pierced by many black-feathered arrows...”_ ***---&#65279;LotRIII***  
@@ -24626,7 +24643,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Discard any ally if its current site is an Under-deeps site **or** if its current site's nearest Haven is not the same as the nearest Haven for the site at which the ally can be played. Discard this card when any play deck is exhausted. Cannot be duplicated. 
+> > Discard any ally if its current site is an Under-deeps site **or** if its current site's nearest Haven <nobr>[<img src="/assets/images/free-haven.svg">]</nobr> is not the same as the nearest Haven <nobr>[<img src="/assets/images/free-haven.svg">]</nobr> for the site at which the ally can be played. Discard this card when any play deck is exhausted. Cannot be duplicated. 
 > > 
 > > {: .fs-3 } 
 > > _“A deep loneliness and sense of loss was on them. They stood silent, reluctant to make the final parting...”_ ***---&#65279;LotRI***  
@@ -24660,7 +24677,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > ***Playable only if you have a Nazgul permanent-event in play.*** Discard the Nazgul when this card is brought into play. All Orc, Troll, and Man attacks receive +1 prowess. 
+> > ***Playable only if you have a Nazgul permanent-event in play.*** Discard the Nazgul when this card is brought into play. All Orc, Troll, and Men attacks receive +1 prowess. 
 > > 
 > > {: .fs-3 } 
 > > _“Day drew on. The goblins gathered again in the valley. There a host of Wargs came ravening and with them came the bodyguard of Bolg, goblins of huge size with scimitars of steel."_ ***---&#65279;Hob***  
@@ -24680,7 +24697,7 @@ permalink: /cards/all/
 > > Discard a ranger agent at target company's new site. Company must immediately return to its site of origin.   
 > > 
 > > {: .fs-3 } 
-> > _“‘...Together we sought for Gollum down the whole length of Wilderland, without hope. And without success."_ ***---&#65279;LotRI***  
+> > _“‘...Together we sought for Gollum down the whole length of Wilderland, without hope, and without success."_ ***---&#65279;LotRI***  
 >
 
 ---
@@ -24694,7 +24711,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > ***Playable on a non-Wizard character moving in a Shadow-land*** <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> ***or a Dark-domain*** <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr>. Target character makes a roll (draws a #) and adds his mind. If that result is less than 12, that character splits off into a different company. This new company immediately returns to his original company's site of origin. 
+> > ***Playable on a non-Wizard character moving in a Shadow-land*** <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> ***or a Dark-domain*** <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr>. Target character makes a roll (draws a #) and adds his mind. If the result is less than 12, that character splits off into a different company. This new company immediately returns to his original company's site of origin. 
 > > 
 > > {: .fs-3 } 
 > > _“Terror seized him. He shrank back, and for a moment he stood trembling in the hall."_ ***---&#65279;LotRI***  
@@ -24790,7 +24807,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The roll required to move between adjacent Under-deeps sites is increased by 2. In addition, cancels the effect of _Great Ship_ and _Ford_. May be played when an Under-deep site is revealed as a new site card (before the roll is made). Discard when any play deck is exhausted **or** when an Under-deeps site is reached from another Under-deeps site **or** at the end of the turn after _Great Ship_ or _Ford_ was played. Cannot be duplicated.  
+> > The roll required to move between adjacent Under-deeps sites is increased by 2. In addition, cancels the effects of _Great Ship_ and _Ford_. May be played when an Under-deep site is revealed as a new site card (before the roll is made). Discard when any play deck is exhausted **or** when an Under-deeps site is reached from another Under-deeps site **or** at the end of the turn after _Great Ship_ or _Ford_ was played. Cannot be duplicated.  
 >
 
 ---
@@ -24821,7 +24838,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Tap an agent at target company's new site._ Agent may attack not counting against hazard limit) during the movement/hazard phase. Attacker chooses defending characters. A successful strike doesn't wound the defending character, instead the character is taken prisoner at one of the agent's home site (attacker's choice, regardless of site's location) **and** the agent returns to the same site. <br>&ensp;Rescue-attack: Same race as agent --- 3 strikes with 8 prowess. 
+> > _Tap an agent at target company's new site._ Agent may attack (not counting against hazard limit) during the movement/hazard phase. Attacker chooses defending characters. A successful strike doesn't wound the defending character, instead the character is taken prisoner at one of the agent's home site (attacker's choice, regardless of site's location) **and** the agent returns to the same site. <br>&ensp;Rescue-attack: Same race as agent --- 3 strikes with 8 prowess. 
 >
 
 ---
@@ -24835,7 +24852,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > ***Playable on an Orc or Troll attack before strikes are assigned;*** _does not count against the hazard limit_. The prowess and body of target attack are each reduced by one. All body checks resulting from successful strikes are modified by +1. Cannot be duplicated on a given attack. 
+> > ***Playable on an Orc or Troll attack before strikes are assigned;*** _does not count against the hazard limit_. The prowess and body of target attack are each reduced by one. All body checks resulting from successful strikes of this attack are modified by +1. Cannot be duplicated on a given attack. 
 >
 
 ---
@@ -25036,7 +25053,7 @@ permalink: /cards/all/
 > Wold & Foothills
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br> Men --- 3 strikes with 6 prowess <br>_**Special:**_ During the site phase, a company may discard 2 minor items they bear to make any one major item (including a hoard item) playable here that turn. 
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br> Men --- 3 strikes with 6 prowess <br>_**Special:**_ During the site phase, a company may discard two minor items they bear to make any one major item (including a hoard item) playable here that turn. 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -25104,7 +25121,7 @@ permalink: /cards/all/
 > Under-deeps
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Dol Guldur (0), The Under-courts (5), The Pukel-deeps (9), The Under-gates (5), The Under-galleries (8) <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br> Trolls (1st attack) --- 2 strikes with 9 prowess <br>(2nd attack) --- Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Shadow-holds \(![](/assets/images/shadow-hold.svg)]\)<br>_**Special:**_ If _Khamul the Easterling_ or _Adunaphel_ is in play as a permanent-event, one must be used as an additional automatic-attack (attacker's choice, discard after use---ignore result of defeat). 
+> > _**Adjacent Sites:**_ Dol Guldur (0), The Under-courts (5), The Pukel-deeps (9), The Under-gates (5), The Under-galleries (8) <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br> Trolls (1st attack) --- 2 strikes with 9 prowess <br>(2nd attack) --- Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Shadow-holds \(![](/assets/images/shadow-hold.svg)\)<br>_**Special:**_ If _Khamul the Easterling_ or _Adunaphel_ is in play as a permanent-event, one must be used as an additional automatic-attack (attacker's choice, discard after use---ignore result of defeat). 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;4&ensp;</span></div>
@@ -25189,7 +25206,7 @@ permalink: /cards/all/
 > Under-deeps
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Mount Gundabad (0), The Iron-deeps (6), The Under-grottos (8), The Under-gates (6), The Under-vaults (7) <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br> Orcs (1st attack) --- 5 strikes with 7 prowess <br>(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> <br>_**Special:**_ If the _Witch-king of Angmar_ is in play  as a permanent-event, it must be used as an additional automatic-attack (discard after use---ignore result of defeat). 
+> > _**Adjacent Sites:**_ Gundabad (0), The Iron-deeps (6), The Under-grottos (8), The Under-gates (6), The Under-vaults (7) <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br> Orcs (1st attack) --- 5 strikes with 7 prowess <br>(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> <br>_**Special:**_ If the _Witch-king of Angmar_ is in play  as a permanent-event, it must be used as an additional automatic-attack (discard after use---ignore result of defeat). 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;4&ensp;</span></div>
