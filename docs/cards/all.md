@@ -30077,7 +30077,7 @@ permalink: /cards/all/
 > > Opponent reveals to you 5 random cards at once from his hand. 
 > > 
 > > {: .fs-3 } 
-> > _“Through spies Sauron learned of the words of prophecy heard in Gondor, and of Bormir's going forth to seek ancient Imladris."_ ***---&#65279;Kuduk&nbsp;Lore*** 
+> > _“Through spies Sauron learned of the words of prophecy heard in Gondor, and of Boromir's going forth to seek ancient Imladris."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 
 
 ---
@@ -30170,7 +30170,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Black Rider mode._ ***Playable at a Darkhaven <nobr>[<img src="/assets/images/dark-haven.svg">]</nobr> during the organization phase on your Ringwraith's own company.*** The company may move to a non-Darkhaven site. Discard this card and any other Ringwraith followers in the company during any of your following organization phases the company is at a Darkhaven <nobr>[<img src="/assets/images/dark-haven.svg">]</nobr>. Cannot be duplicated on a given company. 
+> > _Black Rider mode._ ***Playable at a Darkhaven*** <nobr>[<img src="/assets/images/dark-haven.svg">]</nobr> ***during the organization phase on your Ringwraith's own company.*** The company may move to a non-Darkhaven site. Discard this card and any other Ringwraith followers in the company during any of your following organization phases the company is at a Darkhaven <nobr>[<img src="/assets/images/dark-haven.svg">]</nobr>. Cannot be duplicated on a given company. 
 > 
 
 ---
@@ -30218,7 +30218,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > ***Playable at an already tapped Border-hold*** <nobr>[<img src="/assets/images/border-hold.svg">]</nobr> ***during the site phase.*** The company faces two attacks (Men --- 4 strikes with 7 prowess, 1 strike with 9 prowess). If no characters are untapped after the attack, discard this card. Otherwise, you may tap one character in the company and put this card in your marshalling point pile. Discard any factions you h\ave in play that are playable at that site. Cannot be duplicated at a given site. 
+> > ***Playable at an already tapped Border-hold*** <nobr>[<img src="/assets/images/border-hold.svg">]</nobr> ***during the site phase.*** The company faces two attacks (Men --- 4 strikes with 7 prowess, 1 strike with 9 prowess). If no characters are untapped after the attack, discard this card. Otherwise, you may tap one character in the company and put this card in your marshalling point pile. Discard any factions you have in play that are playable at that site. Cannot be duplicated at a given site. 
 > 
 
 ---
@@ -30300,7 +30300,7 @@ permalink: /cards/all/
 > > _Diplomat only._ +3 to any one influence check by a character in a diplomat's company **or** +2 to a corruption check by a character in his company.   
 > > 
 > > {: .fs-3 } 
-> > _“‘Appoint a faithful steward. Let your counselor Grima keep all things till your return...’”_ ***---&#65279;LotRIII*** 
+> > _“‘Appoint a faithful steward. Let your counsellor Grima keep all things till your return...’”_ ***---&#65279;LotRIII*** 
 > 
 
 ---
@@ -30467,7 +30467,7 @@ permalink: /cards/all/
 > > Provides +3 to an influence attempt against a faction. 
 > > 
 > > {: .fs-3 } 
-> > _“‘The Lord Sauron the Great, so he said, wished for our friendship. Ring he would give for it, such as he gave of old.’”_ ***---&#65279;LotRII*** 
+> > _“‘The Lord Sauron the Great, so he said, wished for our friendship. Rings he would give for it, such as he gave of old.’”_ ***---&#65279;LotRII*** 
 > 
 
 ---
@@ -30532,7 +30532,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Scout only._ ***Playable during the organization phase on scout whose company is not moving.*** All hazard creature attacks against the scout's company this turn are canceled. 
+> > _Scout only._ ***Playable during the organization phase on a scout whose company is not moving.*** All hazard creature attacks against the scout's company this turn are canceled. 
 > > 
 > > {: .fs-3 } 
 > > _“...fled wailing back to hide in holes and dark lightless places far from hope."_ ***---&#65279;LotRVI*** 
@@ -30637,7 +30637,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > ***Playable on any attack against Indur the Ringwraith (as your Ringwraith).*** The attack is canceled. <br>&ensp;Alternatively, ***playable when Indur the Ringwraith's own company declares an attack (if Indur the Ringwraith is your Ringwraith).*** The attack cannot be canceled. 
+> > ***Playable on any attack against Indur the Ringwraith's own company (as your Ringwraith).*** The attack is canceled. <br>&ensp;Alternatively, ***playable when Indur the Ringwraith's own company declares an attack (if Indur the Ringwraith is your Ringwraith).*** The attack cannot be canceled. 
 > > 
 > > {: .fs-3 } 
 > > _“The Enemy is fast becoming very strong."_ ***---&#65279;LotRI*** 
@@ -30668,7 +30668,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > ***Playable on any attack against Khamul the Ringwraith's own company (if Khamul is your Ringwraith).*** The prowess of the attack is modified by -3.  <br>&ensp;Alternatively, ***playable on any attack by Khamul the Ringwraith's own company declares an attack (if Khamul is your Ringwraith).*** You choose defending characters.  
+> > ***Playable on any attack against Khamul the Ringwraith's own company (if Khamul is your Ringwraith).*** The prowess of the attack is modified by -3.  <br>&ensp;Alternatively, ***playable on any attack by Khamul the Ringwraith's own company (if Khamul is your Ringwraith).*** You choose defending characters.  
 > 
 
 ---
@@ -30682,7 +30682,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > ***Playable during the site phase on a company at Bag End.*** It faces a Hobbit attack (4 strikes with 6 prowess). If no characters are untapped after the attack, discard this card. Otherwise, you may tap one character in the company and put this card under his control. No Marshalling points are received and that character may not untap until this card is stored at Barad-dur during the organization phase. Only the first _Kill All But NOT the Halflings_ stored is worth 5 marshalling points, all others are only worth 1 point each.  
+> > ***Playable during the site phase on a company at Bag End.*** It faces a Hobbit attack (4 strikes with 6 prowess). If no characters are untapped after the attack, discard this card. Otherwise, you may tap one character in the company and put this card under his control. No marshalling points are received and that character may not untap until this card is stored at Barad-dur during his organization phase. Only the first _Kill All But NOT the Halflings_ stored is worth 5 marshalling points, all others are only worth 1 point each.  
 > 
 
 ---
@@ -30812,7 +30812,7 @@ permalink: /cards/all/
 > > ***Playable on an untapped character immediately after his company faces an Elf, Dunadan, or Man hazard creature.*** Tap the character. The character can later tap to cancel an Elf, Dunadan, or Man hazard creature attack against his company. Cannot be duplicated in a given company.   
 > > 
 > > {: .fs-3 } 
-> > _“‘...they were errand-riders of Gondor; Hirgon was one maybe.’.”_ ***---&#65279;LotRI*** 
+> > _“‘...they were errand-riders of Gondor; Hirgon was one maybe..’”_ ***---&#65279;LotRI*** 
 > 
 
 ---
@@ -31049,7 +31049,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > ***Playable during the site phase at an already tapped Free-hold*** <nobr>[<img src="/assets/images/free-hold.svg">]</nobr>. The company faces an attack (attack type as first-automatic-attack at site---3 strikes with 8 prowess). If no characters are untapped after the attack, discard _Seize Prisoners_. Otherwise, tap 1 character in the company and _Seize Prisoners_ under his control. No marshalling points are received and that character may not untap until _Seize Prisoners_ is stored at a Darkhaven <nobr>[<img src="/assets/images/free-haven.svg">]</nobr>, Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr>, or Dark-hold <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr>, during his organization phase. Cannot be duplicated at a given site. 
+> > ***Playable during the site phase at an already tapped Free-hold*** <nobr>[<img src="/assets/images/free-hold.svg">]</nobr>. The company faces an attack (attack type as first automatic-attack at site---3 strikes with 8 prowess). If no characters are untapped after the attack, discard _Seize Prisoners_. Otherwise, tap 1 character in the company and _Seize Prisoners_ under his control. No marshalling points are received and that character may not untap until _Seize Prisoners_ is stored at a Darkhaven <nobr>[<img src="/assets/images/free-haven.svg">]</nobr>, Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr>, or Dark-hold <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr>, during his organization phase. Cannot be duplicated at a given site. 
 > 
 
 ---
@@ -31114,7 +31114,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Scout only._ ***Playable during the organization phase on an untapped scout in a company with a company size less than 3.*** Tap the scout. No creature hazards may beplayed on his company this turn.   
+> > _Scout only._ ***Playable during the organization phase on an untapped scout in a company with a company size less than 3.*** Tap the scout. No creature hazards may be played on his company this turn.   
 > > 
 > > {: .fs-3 } 
 > > _“‘...he has been lying on a log and paddling with hands and feet...slier than a fox, and slippery as a fish.’”_ ***---&#65279;LotRII*** 
@@ -31176,7 +31176,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > You may play this card as a resource or a hazard according to The Audience of Sauron Rules. This card may not be played as a hazard against a Wizard player, and may be included as a hazard in a Wizard's deck. You may reshuffle this card into your play deck at any time that it is in your hand (show opponent). 
+> > You may play this card as a resource or a hazard according to The Audience of Sauron Rules. This card may not be played as a hazard against a Wizard player, and may be included as a hazard in a Wizard's deck. You may reshuffle this card into you play deck at any time that it is in your hand (show opponent). 
 > 
 
 ---
@@ -31204,7 +31204,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > ***Playable at a Darkhaven*** <nobr>[<img src="/assets/images/dark-haven.svg">]</nobr>***, Shadow-hold*** <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr>***, or Dark-hold*** <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr> ***during the organization phase on an overt company that has more than one Orc.*** Any attack against the company has its prowess and body modified by -1. Discard this card if a character leaves the company for any reason. Cannot be duplicated on a given company. 
+> > ***Playable at a Darkhaven*** <nobr>[<img src="/assets/images/dark-haven.svg">]</nobr>***, Shadow-hold*** <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr>***, or Dark-hold*** <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr> ***during the organization phase on an overt company that has more than one Orc.*** Any attack against this company has its prowess and body modified by -1. Discard this card if a character leaves the company for any reason. Cannot be duplicated on a given company. 
 > 
 
 ---
@@ -31472,7 +31472,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Magic._ _Sorcery._ ***Playable on a sorcery-using character facing an automatic-attack.*** The number of strikes of all automatic-attack at the site this turn are reduced to one. Unless he is a Ringwraith, character makes a corruption check modified by -4. 
+> > _Magic._ _Sorcery._ ***Playable on a sorcery-using character facing an automatic-attack.*** The number of strikes of all automatic-attacks at the site this turn are reduced to one. Unless he is a Ringwraith, character makes a corruption check modified by -4. 
 > > 
 > > {: .fs-3 } 
 > > _“...for here as the Mountain drew near the air was ever mirky...”_ ***---&#65279;LotRVI*** 
@@ -31571,7 +31571,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Sage only._ ***Playable on a non-Ringwraith sage bearing a Dwarven Ring and/or a Palantir.*** This turn the sage: bears the Dwarven Ring as though he were a Dwarf or is able to use the Palantir.   
+> > _Sage only._ ***Playable on a non-Ringwraith sage bearing a Dwarven Ring and/or a Palantir.*** This turn the sage: bears the Dwarven Ring as though he were a Dwarf **or** is able to use the Palantir.   
 > > 
 > > {: .fs-3 } 
 > > _“‘But one at least Sauron must have obtained and mastered to his purposes.’”_ ***---&#65279;LotRIII*** 
@@ -31691,7 +31691,7 @@ permalink: /cards/all/
 > > _Men._ Two strikes. If any strike of _Brigands_ wounds a character, the company must immediately discard one item (of defender's choice). 
 > > 
 > > {: .fs-3 } 
-> > _“‘...most were bad men, full o'thievery and mischief.’”_ ***---&#65279;LotRVI*** 
+> > _“‘...most were bad men, full o' thievery and mischief.’”_ ***---&#65279;LotRVI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 8/&ndash; 】</div>
@@ -31757,7 +31757,7 @@ permalink: /cards/all/
 > > _Undead._ One strike. If this attack is not canceled, every character in the company makes a corruption check before defending characters are selected. 
 > > 
 > > {: .fs-3 } 
-> > _“‘In the pools when the candles were lit. They lie in all the pools, pale faces, deep, deep under the dark water.’”_ ***---&#65279;LotRII*** 
+> > _“‘In the pools when the candles were lit. They lie in all the pools, pale faces, deep deep under the dark water.’”_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 7/&ndash; 】</div>
@@ -31803,7 +31803,7 @@ permalink: /cards/all/
 > > _Elf._ One strike (detainment against hero companies). +4 prowess versus Ringwraiths. If _Doors of Night_ is not in play, may also be played keyed to Shadow-lands <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr>.   
 > > 
 > > {: .fs-3 } 
-> > _“‘...the Elven-wise, lords of the Eldar from beyond the farthest seas. They do not fear the Ringwraiths, for those who have dwelt in the Blessed Realm live at once in both worlds, and against both the seen and the Unseen they have great power.’”_ ***---&#65279;LotRII*** 
+> > _“‘...the Elven-wise, lords of the Eldar from beyond the furthest seas. They do not fear the Ringwraiths, for those who have dwelt in the Blessed Realm live at once in both worlds, and against both the seen and the Unseen they have great power.’”_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 15/9 】</div>
@@ -31826,7 +31826,7 @@ permalink: /cards/all/
 > > _Elves._ Four strikes (playable only against minion companies).   
 > > 
 > > {: .fs-3 } 
-> > _“‘We have been keeping watch on the rivers, ever since we saw a great troop of Orcs going North toward Moria...’”_ ***---&#65279;LotRII*** 
+> > _“‘We have been keeping watch on the rivers, ever since we saw a great troop of Orcs going north toward Moria...’”_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 9/&ndash; 】</div>
@@ -31915,7 +31915,7 @@ permalink: /cards/all/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Giant._ One strike. <br>&ensp;Two Wildernesses <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> in site path are required. 
+> > _Giant._ One strike. 
 > > 
 > > {: .fs-3 } 
 > > _“‘...the sounds were those of shrill cries, and wild howls of laughter.’”_ ***---&#65279;LotRII*** 
@@ -31975,7 +31975,7 @@ permalink: /cards/all/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Orcs._ Two strikes. Two Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> in site path are required. 
+> > _Orcs._ Two strikes. 
 > > 
 > > {: .fs-3 } 
 > > _“...devouring people waked suddenly from their sleep."_ ***---&#65279;Hob*** 
@@ -32308,7 +32308,7 @@ permalink: /cards/all/
 > > _Undead._ Two strikes. 
 > > 
 > > {: .fs-3 } 
-> > _“Gold was piled on their biers of dead kings and queens; and mounds covered them, and the stone floors were shut."_ ***---&#65279;LotRI*** 
+> > _“Gold was piled on the biers of dead kings and queens; and mounds covered them, and the stone floors were shut..."_ ***---&#65279;LotRI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 9/&ndash; 】</div>
@@ -32348,7 +32348,7 @@ permalink: /cards/all/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Elves._ Each character in the company faces on strike (detainment against covert and hero companies). May be played keyed to Woodland Realm, Western Mirkwood, Heart of Mirkwood, Northern Rhovanion, and Grey Mountain Narrows; and may also be at sites in these regions. May not be played against a company containing a character with Thranduil's Halls as a home site. 
+> > _Elves._ Each character in the company faces one strike (detainment against covert and hero companies). May be played keyed to Woodland Realm, Western Mirkwood, Heart of Mirkwood, Northern Rhovanion, and Grey Mountain Narrows; and may also be at sites in these regions. May not be played against a company containing a character with Thranduil's Halls as a home site. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 10/6 】</div>
@@ -32529,7 +32529,7 @@ permalink: /cards/all/
 > > ***Playable on a Free-hold*** <nobr>[<img src="/assets/images/free-hold.svg">]</nobr> ***or Border-hold*** <nobr>[<img src="/assets/images/border-hold.svg">]</nobr>. This turn, the prowess of one automatic-attack (your choice) at target site is increased by 2 and cannot be canceled. Cannot be duplicated on a given site.   
 > > 
 > > {: .fs-3 } 
-> > _“‘Come!' said Aragorn. 'This is the hour when we draw our swords together!’”_ ***---&#65279;LotRIII*** 
+> > _“‘Come!' said Aragorn. 'This is the hour when we draw swords together!’”_ ***---&#65279;LotRIII*** 
 >
 
 ---
@@ -32676,7 +32676,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ When _Doors of Night_ is played, all resource environment cards in play are immediately discarded, and all resource environment effects are canceled. Cannot be duplicated. 
+> > _Environment._ When _Doors of Night_ is played, all resource environment cards in play are immediately discarded, and all resource environment effects are cancelled. Cannot be duplicated. 
 > > 
 > > {: .fs-3 } 
 > > _“One by one white stars sprang forth as the sky faded."_ ***---&#65279;LotRII*** 
@@ -32721,7 +32721,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > ***Playable on a site.*** Until the end of the turn, each non-Hobbit, non-Wizard, non-Ringwraith character at the site must make a corruption check each time an item is played at the site. The character playing an item need not make a corruption check. <br>&ensp;When a character makes one of these checks, it is modified by subtracting the corruption points that the item would normally give the character if he controlled it. <br>&ensp;Cannot be duplicated on a given site. 
+> > ***Playable on a site.*** Until the end of the turn, each non-Hobbit, non-Wizard, non-Ringwraith character at the site must make a corruption check each time an item is played at the site. The character playing an item need not make a corruption check. When a character makes one of these checks, it is modified by subtracting the corruption points that the item would normally give the character if he controlled it. <br>&ensp;Cannot be duplicated on a given site. 
 >
 
 ---
@@ -32794,7 +32794,7 @@ permalink: /cards/all/
 > > ***Playable on a moving company.*** Its hazard limit increases by one for every Border-land <nobr>[<img src="/assets/images/border-land.svg">]</nobr> in its site path. 
 > > 
 > > {: .fs-3 } 
-> > _“But now all the land was empty, and there was a silence that did not seem to be the quiet of peace"_ ***---&#65279;LotRIII*** 
+> > _“But now all the land was empty, and there was a silence that did not seem to be the quiet of peace."_ ***---&#65279;LotRIII*** 
 >
 
 ---
@@ -32808,7 +32808,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > ***Playable on a moving company.*** The company must do nothing during its site phase if it has a Free-domain <nobr>[<img src="/assets/images/free-domain.svg">]</nobr> in its site path  
+> > ***Playable on a moving company.*** The company must do nothing during its site phase if it has a Free-domain <nobr>[<img src="/assets/images/free-domain.svg">]</nobr> in its site path.  
 > > 
 > > {: .fs-3 } 
 > > _“...and they were also no longer certain of the direction in which they were going."_ ***---&#65279;LotRI*** 
@@ -32859,7 +32859,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Corruption._ ***Playable on a non-Ringwraith, non-Wizard, non-Hobbit character.*** Target character receives 2 corruption points and makes a corruption check each time a character in his company gains an item (including a ring special item). <br>&ensp;During his organization phase, the character may tap to attempt to remove this card by making a roll (drawing a #)---if this result is greater than 5, discard this card. Cannot be duplicated on a given character. 
+> > _Corruption._ ***Playable on a non-Ringwraith, non-Wizard, non-Hobbit character.*** Target character receives 2 corruption points and makes a corruption check each time a character in his company gains an item (including a ring special item). <br>&ensp;During his organization phase, the character may tap to attempt to remove this card by making a roll (drawing a #)---if the result is greater than 5, discard this card. Cannot be duplicated on a given character. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -32944,7 +32944,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Unique._ Each player makes a roll (draws a #) for each faction he has in play. Discard any faction if the result is 2 or 3, or it its result plus the player's unused general influence is less than 10. Remove _News of Doom_ from the game. 
+> > _Unique._ Each player makes a roll (draws a #) for each faction he has in play. Discard any faction if the result is 2 or 3, or if its result plus the player's unused general influence is less than 10. Remove _News of Doom_ from the game. 
 > > 
 > > {: .fs-3 } 
 > > _“...they hid themselves in fear and would not come forth until the day was up...”_ ***---&#65279;LotRV*** 
@@ -33079,7 +33079,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > ***Playable on a character of 5 mind or less.*** The mind of each other non-follower, non-Ringwraith, non-Wizard character in his company increases by one. Discard this card during the organization phase if target character is in a company accompanied by himself at a Darkhaven <nobr>[<img src="/assets/images/dark-haven.svg">]</nobr>. Cannot be duplicated on a given character. 
+> > ***Playable on a character of 5 mind or less.*** The mind of each other non-follower, non-Ringwraith, non-Wizard character in his company increases by one. Discard this card during the organization phase if target character is in a company accompanied by himself at a Darkhaven <nobr>[<img src="/assets/images/dark-haven.svg">]</nobr>. Cannot be duplicated on a given company. 
 >
 
 ---
@@ -33121,7 +33121,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ At the start of its site phase, each company at a site in a Dark-domain <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr>, (or Shadow-land <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> if _Doors of Night_ is in play) must tap one untapped character if available. Discard when any play deck is exhausted. Cannot be duplicated. 
+> > _Environment._ At the start of its site phase, each company at a site in a Dark-domain <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr>, (or Shadow-land <nobr>[<img src="/assets/images/shadow-land.svg">],</nobr> if _Doors of Night_ is in play) must tap one untapped character if available. Discard when any play deck is exhausted. Cannot be duplicated. 
 > > 
 > > {: .fs-3 } 
 > > _“...he saw them fall, worn out, or choked with fumes and heat, or stricken down by despair at last, hiding their eyes from death."_ ***---&#65279;LotRVI*** 
@@ -33508,7 +33508,7 @@ permalink: /cards/all/
 > > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Troll --- 1 strike with 10 prowess  
 > > 
 > > {: .fs-3 } 
-> > _“...there, in Mirkwood's East Blight, stood the ancient capital of a Northern Kingdom."_ ***---&#65279;Kuduk&nbsp;Lore*** 
+> > _“...there, in Mirkwood's East Blight, stood the ancient capital of a Northman Kingdom."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -33548,7 +33548,7 @@ permalink: /cards/all/
 > Angmar
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Site Path from Dol Guldur:*** <br>&emsp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/shadow-land.svg) <br>***Site Path From Geann a-Lisch:*** <br>&emsp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg) <br>_**Special:**_ Unless this site is a character's home site, a non-Orc, non-Troll character may not be brought into play at this site. Any Gold Ring stored at this site is automatically tested (modify the roll by -2). Any attack against a minion company at this site is canceled. 
+> > ***Site Path from Dol Guldur:*** ![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/shadow-land.svg) <br>***Site Path From Geann a-Lisch:*** <br>&emsp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg) <br>_**Special:**_ Unless this site is a character's home site, a non-Orc, non-Troll character may not be brought into play at this site. Any Gold Ring stored at this site is automatically tested (modify the roll by -2). Any attack against a minion company at this site is canceled. 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -33571,7 +33571,7 @@ permalink: /cards/all/
 > > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon --- 1 strike with 13 prowess  
 > > 
 > > {: .fs-3 } 
-> > _“‘...you don't know how far they go back, sometimes, or where a passage behind may lead or what is waiting for you inside.’”_ ***---&#65279;Hob*** 
+> > _“‘...you don't know how far they go back, sometimes, or where a passage behind may lead to, or what is waiting for you inside.’”_ ***---&#65279;Hob*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -33723,7 +33723,7 @@ permalink: /cards/all/
 > Southern Mirkwood
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Site Path From Minas Morgul:*** <br>&emsp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg) <br>***Site Path From Carn Dum:*** <br>&emsp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/dark-domain.svg) <br>_**Special:**_ Any Gold Ring stored at this site is automatically tested (modify the roll by -2). Any attack against a minion company at this site is canceled. 
+> > ***Site Path From Minas Morgul:*** <br>&emsp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg) <br>***Site Path From Carn Dum:*** ![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/dark-domain.svg) <br>_**Special:**_ Any Gold Ring stored at this site is automatically tested (modify the roll by -2). Any attack against a minion company at this site is canceled. 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -33838,7 +33838,7 @@ permalink: /cards/all/
 > > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men --- each character faces 1 strike with 10 prowess (detainment against covert company)   
 > > 
 > > {: .fs-3 } 
-> > _“‘I see a white stream that comes down from the snows...where it issues from the shadow of the vale a green hill rises upon the east. A dike and mighty wall and thorny fence encircle it.’”_ ***---&#65279;LotRIII*** 
+> > _“‘I see a white stream that comes down from the snows...Where it issues from the shadow of the vale a green hill rises upon the east. A dike and mighty wall and thorny fence encircle it.’”_ ***---&#65279;LotRIII*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>
@@ -34214,7 +34214,7 @@ permalink: /cards/all/
 > Imlad Morgul
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Site Path From Dol Guldur:*** <br>&emsp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/shadow-land.svg) <br>_**Special:**_ Any Gold Ring tested at this site is automatically tested (modify the roll by -2). Any attack against a minion company at this site is canceled. 
+> > ***Site Path From Dol Guldur:*** <br>&emsp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/shadow-land.svg) <br>_**Special:**_ Any Gold Ring stored at this site is automatically tested (modify the roll by -2). Any attack against a minion company at this site is canceled. 
 > > 
 > > {: .fs-3 } 
 > > _“...the topmost course of the tower revolved slowly, first one way and then another, a huge ghostly head leering into the night."_ ***---&#65279;LotRIV*** 
@@ -34392,7 +34392,7 @@ permalink: /cards/all/
 > Lebennin
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>  (1st) Men --- each character faces 1 strike with 7 prowess (detainment against covert company) (2nd) Dunedain --- 3 strikes with 10 prowess (against overt company only) 
+> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>  (1st) Men --- each character faces 1 strike with 7 prowess (detainment against covert company) <br>(2nd) Dunedain --- 3 strikes with 10 prowess (against overt company only) 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>
@@ -34415,7 +34415,7 @@ permalink: /cards/all/
 > > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major\*) <br>\*---weapon, armor, shield, or helmet only <br>_**Automatic-attacks:**_<br> Men --- each character faces 1 strike with 7 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
-> > _“Often they made raids through the forest"_ ***---&#65279;Kuduk&nbsp;Lore*** 
+> > _“Often they made raids through the forest..."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -34432,7 +34432,7 @@ permalink: /cards/all/
 > > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)
 >
 > {: .hazard-classification .pr-2 }
-> Enedwaith
+> Enedhwaith
 >
 > {: .minion-site-text .black-text .p-2 }
 > > ***Nearest Darkhaven:*** Geann a-Lisch <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Spiders --- 2 strikes with 8 prowess  
@@ -34616,7 +34616,7 @@ permalink: /cards/all/
 > Andrast
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Geann a-Lisch <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Pukel-creature --- 2 strikes with 9 prowess  
+> > ***Nearest Darkhaven:*** Geann a-Lisch <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Pukel-creatures --- 2 strikes with 9 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...suddenly he saw, towering ominously before him and leaning slightly towards one another like the pillars of a headless door...huge standing stones."_ ***---&#65279;LotRII*** 
@@ -46547,7 +46547,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Scout only._ Playable during the organization phase on an untapped scout in a company with a company size less than 3. Tap the scout. No creature hazards may beplayed on his company this turn.   
+> > _Scout only._ Playable during the organization phase on an untapped scout in a company with a company size less than 3. Tap the scout. No creature hazards may be played on his company this turn.   
 > > 
 > > {: .fs-3 } 
 > > _“‘...he has been lying on a log and paddling with hands and feet...slier than a fox, and slippery as a fish.’”_ ***---&#65279;LotRII*** 
@@ -47546,7 +47546,7 @@ permalink: /cards/all/
 > > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon - 1 strike with 13 prowess  
 > > 
 > > {: .fs-3 } 
-> > _“‘...you don't know how far they go back, sometimes, or where a passage behind may lead or what is waiting for you inside.’”_ ***---&#65279;Hob*** 
+> > _“‘...you don't know how far they go back, sometimes, or where a passage behind may lead to, or what is waiting for you inside.’”_ ***---&#65279;Hob*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -47810,7 +47810,7 @@ permalink: /cards/all/
 > Imlad Morgul
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Site Path From Dol Guldur: <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr> <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr> <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr> <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> <br>_**Special:**_ Any Gold Ring tested at this site is automatically tested (modify the roll by -2). Any attack against a minion company at this site is canceled. 
+> > Site Path From Dol Guldur: <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr> <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr> <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr> <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> <br>_**Special:**_ Any Gold Ring stored at this site is automatically tested (modify the roll by -2). Any attack against a minion company at this site is canceled. 
 > > 
 > > {: .fs-3 } 
 > > _“...the topmost course of the tower revolved slowly, first one way and then another, a huge ghostly head leering into the night."_ ***---&#65279;LotRIV*** 
@@ -47968,7 +47968,7 @@ permalink: /cards/all/
 > > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major*) *-weapon, armor, shield, or helmet only <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 7 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
-> > _“Often they made raids through the forest"_ ***---&#65279;Kuduk&nbsp;Lore*** 
+> > _“Often they made raids through the forest..."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

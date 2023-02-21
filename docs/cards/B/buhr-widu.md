@@ -51,7 +51,7 @@ permalink: /cards/buhr-widu/
 > > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Troll --- 1 strike with 10 prowess  
 > > 
 > > {: .fs-3 } 
-> > _“...there, in Mirkwood's East Blight, stood the ancient capital of a Northern Kingdom."_ ***---&#65279;Kuduk&nbsp;Lore*** 
+> > _“...there, in Mirkwood's East Blight, stood the ancient capital of a Northman Kingdom."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>

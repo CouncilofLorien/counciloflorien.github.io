@@ -22,7 +22,7 @@ permalink: /cards/stench-of-mordor/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ At the start of its site phase, each company at a site in a Dark-domain <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr>, (or Shadow-land <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> if _Doors of Night_ is in play) must tap one untapped character if available. Discard when any play deck is exhausted. Cannot be duplicated. 
+> > _Environment._ At the start of its site phase, each company at a site in a Dark-domain <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr>, (or Shadow-land <nobr>[<img src="/assets/images/shadow-land.svg">],</nobr> if _Doors of Night_ is in play) must tap one untapped character if available. Discard when any play deck is exhausted. Cannot be duplicated. 
 > > 
 > > {: .fs-3 } 
 > > _“...he saw them fall, worn out, or choked with fumes and heat, or stricken down by despair at last, hiding their eyes from death."_ ***---&#65279;LotRVI*** 

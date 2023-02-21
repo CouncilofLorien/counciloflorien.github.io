@@ -25,5 +25,5 @@ permalink: /cards/an-untimely-whisper/
 > > Opponent reveals to you 5 random cards at once from his hand. 
 > > 
 > > {: .fs-3 } 
-> > _“Through spies Sauron learned of the words of prophecy heard in Gondor, and of Bormir's going forth to seek ancient Imladris."_ ***---&#65279;Kuduk&nbsp;Lore*** 
+> > _“Through spies Sauron learned of the words of prophecy heard in Gondor, and of Boromir's going forth to seek ancient Imladris."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 

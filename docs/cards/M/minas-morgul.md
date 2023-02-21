@@ -68,7 +68,7 @@ permalink: /cards/minas-morgul/
 > Imlad Morgul
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Site Path From Dol Guldur:*** <br>&emsp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/shadow-land.svg) <br>_**Special:**_ Any Gold Ring tested at this site is automatically tested (modify the roll by -2). Any attack against a minion company at this site is canceled. 
+> > ***Site Path From Dol Guldur:*** <br>&emsp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/shadow-land.svg) <br>_**Special:**_ Any Gold Ring stored at this site is automatically tested (modify the roll by -2). Any attack against a minion company at this site is canceled. 
 > > 
 > > {: .fs-3 } 
 > > _“...the topmost course of the tower revolved slowly, first one way and then another, a huge ghostly head leering into the night."_ ***---&#65279;LotRIV*** 
@@ -88,7 +88,7 @@ permalink: /cards/minas-morgul/
 > Imlad Morgul
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Site Path From Dol Guldur: <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr> <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr> <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr> <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> <br>_**Special:**_ Any Gold Ring tested at this site is automatically tested (modify the roll by -2). Any attack against a minion company at this site is canceled. 
+> > Site Path From Dol Guldur: <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr> <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr> <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr> <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> <br>_**Special:**_ Any Gold Ring stored at this site is automatically tested (modify the roll by -2). Any attack against a minion company at this site is canceled. 
 > > 
 > > {: .fs-3 } 
 > > _“...the topmost course of the tower revolved slowly, first one way and then another, a huge ghostly head leering into the night."_ ***---&#65279;LotRIV*** 

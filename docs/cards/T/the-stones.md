@@ -71,7 +71,7 @@ permalink: /cards/the-stones/
 > Andrast
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Geann a-Lisch <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Pukel-creature --- 2 strikes with 9 prowess  
+> > ***Nearest Darkhaven:*** Geann a-Lisch <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Pukel-creatures --- 2 strikes with 9 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...suddenly he saw, towering ominously before him and leaning slightly towards one another like the pillars of a headless door...huge standing stones."_ ***---&#65279;LotRII*** 

@@ -71,7 +71,7 @@ permalink: /cards/giant/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Giant._ One strike. <br>&ensp;Two Wildernesses <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> in site path are required. 
+> > _Giant._ One strike. 
 > > 
 > > {: .fs-3 } 
 > > _“‘...the sounds were those of shrill cries, and wild howls of laughter.’”_ ***---&#65279;LotRII*** 

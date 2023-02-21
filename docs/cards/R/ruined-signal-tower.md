@@ -68,7 +68,7 @@ permalink: /cards/ruined-signal-tower/
 > > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)
 >
 > {: .hazard-classification .pr-2 }
-> Enedwaith
+> Enedhwaith
 >
 > {: .minion-site-text .black-text .p-2 }
 > > ***Nearest Darkhaven:*** Geann a-Lisch <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Spiders --- 2 strikes with 8 prowess  

@@ -25,7 +25,7 @@ permalink: /cards/gifts-as-given-of-old/
 > > Provides +3 to an influence attempt against a faction. 
 > > 
 > > {: .fs-3 } 
-> > _“‘The Lord Sauron the Great, so he said, wished for our friendship. Ring he would give for it, such as he gave of old.’”_ ***---&#65279;LotRII*** 
+> > _“‘The Lord Sauron the Great, so he said, wished for our friendship. Rings he would give for it, such as he gave of old.’”_ ***---&#65279;LotRII*** 
 > 
 
 ### _Middle-earth Challenge Decks_

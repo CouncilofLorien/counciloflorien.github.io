@@ -97,7 +97,7 @@ permalink: /cards/brigands/
 > > _Men._ Two strikes. If any strike of _Brigands_ wounds a character, the company must immediately discard one item (of defender's choice). 
 > > 
 > > {: .fs-3 } 
-> > _“‘...most were bad men, full o'thievery and mischief.’”_ ***---&#65279;LotRVI*** 
+> > _“‘...most were bad men, full o' thievery and mischief.’”_ ***---&#65279;LotRVI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 8/&ndash; 】</div>

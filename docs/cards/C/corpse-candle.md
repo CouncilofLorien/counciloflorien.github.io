@@ -74,7 +74,7 @@ permalink: /cards/corpse-candle/
 > > _Undead._ One strike. If this attack is not canceled, every character in the company makes a corruption check before defending characters are selected. 
 > > 
 > > {: .fs-3 } 
-> > _“‘In the pools when the candles were lit. They lie in all the pools, pale faces, deep, deep under the dark water.’”_ ***---&#65279;LotRII*** 
+> > _“‘In the pools when the candles were lit. They lie in all the pools, pale faces, deep deep under the dark water.’”_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 7/&ndash; 】</div>

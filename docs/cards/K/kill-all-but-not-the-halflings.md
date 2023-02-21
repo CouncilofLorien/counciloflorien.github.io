@@ -22,5 +22,5 @@ permalink: /cards/kill-all-but-not-the-halflings/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > ***Playable during the site phase on a company at Bag End.*** It faces a Hobbit attack (4 strikes with 6 prowess). If no characters are untapped after the attack, discard this card. Otherwise, you may tap one character in the company and put this card under his control. No Marshalling points are received and that character may not untap until this card is stored at Barad-dur during the organization phase. Only the first _Kill All But NOT the Halflings_ stored is worth 5 marshalling points, all others are only worth 1 point each.  
+> > ***Playable during the site phase on a company at Bag End.*** It faces a Hobbit attack (4 strikes with 6 prowess). If no characters are untapped after the attack, discard this card. Otherwise, you may tap one character in the company and put this card under his control. No marshalling points are received and that character may not untap until this card is stored at Barad-dur during his organization phase. Only the first _Kill All But NOT the Halflings_ stored is worth 5 marshalling points, all others are only worth 1 point each.  
 > 

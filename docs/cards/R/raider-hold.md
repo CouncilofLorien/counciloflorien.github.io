@@ -28,7 +28,7 @@ permalink: /cards/raider-hold/
 > > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major\*) <br>\*---weapon, armor, shield, or helmet only <br>_**Automatic-attacks:**_<br> Men --- each character faces 1 strike with 7 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
-> > _“Often they made raids through the forest"_ ***---&#65279;Kuduk&nbsp;Lore*** 
+> > _“Often they made raids through the forest..."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -74,7 +74,7 @@ permalink: /cards/raider-hold/
 > > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major*) *-weapon, armor, shield, or helmet only <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 7 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
-> > _“Often they made raids through the forest"_ ***---&#65279;Kuduk&nbsp;Lore*** 
+> > _“Often they made raids through the forest..."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

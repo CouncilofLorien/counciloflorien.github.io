@@ -25,7 +25,7 @@ permalink: /cards/crooked-promptings/
 > > _Diplomat only._ +3 to any one influence check by a character in a diplomat's company **or** +2 to a corruption check by a character in his company.   
 > > 
 > > {: .fs-3 } 
-> > _“‘Appoint a faithful steward. Let your counselor Grima keep all things till your return...’”_ ***---&#65279;LotRIII*** 
+> > _“‘Appoint a faithful steward. Let your counsellor Grima keep all things till your return...’”_ ***---&#65279;LotRIII*** 
 > 
 
 ### _Middle-earth Challenge Decks_

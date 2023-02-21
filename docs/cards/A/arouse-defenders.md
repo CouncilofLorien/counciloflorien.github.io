@@ -25,5 +25,5 @@ permalink: /cards/arouse-defenders/
 > > ***Playable on a Free-hold*** <nobr>[<img src="/assets/images/free-hold.svg">]</nobr> ***or Border-hold*** <nobr>[<img src="/assets/images/border-hold.svg">]</nobr>. This turn, the prowess of one automatic-attack (your choice) at target site is increased by 2 and cannot be canceled. Cannot be duplicated on a given site.   
 > > 
 > > {: .fs-3 } 
-> > _“‘Come!' said Aragorn. 'This is the hour when we draw our swords together!’”_ ***---&#65279;LotRIII*** 
+> > _“‘Come!' said Aragorn. 'This is the hour when we draw swords together!’”_ ***---&#65279;LotRIII*** 
 >

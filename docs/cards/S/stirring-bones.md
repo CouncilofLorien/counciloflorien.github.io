@@ -51,7 +51,7 @@ permalink: /cards/stirring-bones/
 > > _Undead._ Two strikes. 
 > > 
 > > {: .fs-3 } 
-> > _“Gold was piled on their biers of dead kings and queens; and mounds covered them, and the stone floors were shut."_ ***---&#65279;LotRI*** 
+> > _“Gold was piled on the biers of dead kings and queens; and mounds covered them, and the stone floors were shut..."_ ***---&#65279;LotRI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 9/&ndash; 】</div>

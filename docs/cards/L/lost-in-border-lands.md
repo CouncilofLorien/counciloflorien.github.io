@@ -59,5 +59,5 @@ permalink: /cards/lost-in-border-lands/
 > > ***Playable on a moving company.*** Its hazard limit increases by one for every Border-land <nobr>[<img src="/assets/images/border-land.svg">]</nobr> in its site path. 
 > > 
 > > {: .fs-3 } 
-> > _“But now all the land was empty, and there was a silence that did not seem to be the quiet of peace"_ ***---&#65279;LotRIII*** 
+> > _“But now all the land was empty, and there was a silence that did not seem to be the quiet of peace."_ ***---&#65279;LotRIII*** 
 >
