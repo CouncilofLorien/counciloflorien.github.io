@@ -26806,7 +26806,7 @@ permalink: /cards/all/
 > Warrior/Scout/Sage Ringwraith
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ _Manifestation of Dwar of Waw._ Can use sorcery. -3 direct influence in Heralded Lord mode. -1 prowess in Fell Rider mode. As your Ringwraith, if at a Darkhaven <nobr>[<img src="/assets/images/dark-haven.svg">]</nobr>, he may tap to give +1 prowess and +1 body to any one of your companies until the end of the turn.   
+> > _**Unique.**_ _Manifestation of Dwar of Waw._ Can use sorcery. -3 direct influence in Heralded Lord mode. -1 prowess in Fell Rider mode. As your Ringwraith, if at a Darkhaven <nobr>[<img src="/assets/images/dark-haven.svg">]</nobr>, he may tap to give +1 prowess and +1 body to all characters in any one of your companies until the end of the turn.   
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Any site in Udun 
@@ -26875,7 +26875,7 @@ permalink: /cards/all/
 > Warrior/Ranger/Diplomat Ringwraith
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ _Manifestation of Khamul the Easterling._ Can use sorcery. -2 direct influence in Heralded Lord mode. +1 prowess in Fell Rider mode. -2 to the body of any Elf character targeted by a strike from Khamul the Ringwraith. As your Ringwraith, one Ringwraith follower in his company may be controlled with no influence. You may bring this follower into play during your organization phase.   
+> > _**Unique.**_ _Manifestation of Khamul the Easterling._ Can use sorcery. -2 direct influence in Heralded Lord mode. +1 prowess in Fell Rider mode. -2 to the body of any Elf character targeted by a strike from Khamul. As your Ringwraith, one Ringwraith follower in his company may be controlled with no influence. You may bring this follower into play during your organization phase.   
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Dol Guldur 
@@ -27123,7 +27123,7 @@ permalink: /cards/all/
 > > _**Unique.**_ -1 to all corruption checks. 
 > > 
 > > {: .fs-3 } 
-> > _“‘...you may stay here until the Witch-king goes home. For in summer his power wanes; but now his breath is deadly, and his cold arm is long."_ ***---&#65279;LotR***  
+> > _“‘...you may stay here till the Witch-king goes home. For in summer his power wanes; but now his breath is deadly, and his cold arm is long."_ ***---&#65279;LotR***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Lossadan Camp 
@@ -27253,7 +27253,7 @@ permalink: /cards/all/
 > > _**Unique.**_ _Uruk-hai._ Discard on a body check result of 8. 
 > > 
 > > {: .fs-3 } 
-> > _“‘They might agree with me, with Grishnakh their trusted messenger...’”_ ***---&#65279;LotRII***  
+> > _“‘They might agree with me, with Grishnakh their trusted messenger...’”_ ***---&#65279;LotRIII***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Any site in Imlad Morgul 
@@ -27328,7 +27328,7 @@ permalink: /cards/all/
 > Sage/Diplomat Elf
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ May tap to cancel a diplomat attack against his company. +2 direct influence against Elves and Elf factions. 
+> > _**Unique.**_ May tap to cancel a detainment attack against his company. +2 direct influence against Elves and Elf factions. 
 > > 
 > > {: .fs-3 } 
 > > _“...the history of those that returned to Middle-earth in exile was grievous ...”_ ***---&#65279;LotR***  
@@ -27383,7 +27383,7 @@ permalink: /cards/all/
 > > _**Unique.**_ +1 direct influence against any faction playable at Southron Oasis. 
 > > 
 > > {: .fs-3 } 
-> > _“‘You speak of the false cripple Sen Jerrek, dark arbitrator, ambassador to thieves, spy for any and all who trade darkness.’”_ ***---&#65279;Kuduk&nbsp;Lore***  
+> > _“‘You speak of the false cripple Sen Jerrek, dark arbitrator, ambassador to thieves, spy for any and all who trade in darkness.’”_ ***---&#65279;Kuduk&nbsp;Lore***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Southron Oasis 
@@ -27432,7 +27432,7 @@ permalink: /cards/all/
 > Sage/Diplomat Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Men of Dorwinion faction. 
+> > _**Unique.**_ +2 direct influence against the _Men of Dorwinion_ faction. 
 > > 
 > > {: .fs-3 } 
 > > _“‘He offered a fine, rich wine and soothing words filled with subtle malice.’”_ ***---&#65279;Kuduk&nbsp;Lore***  
@@ -27634,7 +27634,7 @@ permalink: /cards/all/
 > > _**Unique.**_ +3 direct influence against the Woodmen faction. 
 > > 
 > > {: .fs-3 } 
-> > _“...as the shadow grew deep in Greenwood...many evil things reappeared, signs of the arising of Sauron."_ ***---&#65279;LotR***  
+> > _“...as the Shadow grew deep in Greenwood...many evil things reappeared, signs of the arising of Sauron."_ ***---&#65279;LotR***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Woodmen-town 
@@ -27943,7 +27943,7 @@ permalink: /cards/all/
 > Warrior/Diplomat Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ +1 direct influence against Man factions. Additionally, +2 direct influence against the Dunlendings faction. 
+> > _**Unique.**_ +1 direct influence against Man factions. Additionally, +2 direct influence against the _Dunlendings_ faction. 
 > > 
 > > {: .fs-3 } 
 > > _“Only in Dunland did Men of this race hold to their old speech and manners: a secret folk, unfriendly to the Dunedain, hating the Rohirrim."_ ***---&#65279;LotR***  
@@ -28021,7 +28021,7 @@ permalink: /cards/all/
 > Warrior/Diplomat Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ _Manifestation of Mouth of Sauron._ +2 direct influence against any faction. Tap during your organization phase to move one resource or character from your discard pile to your play deck and reshuffle. Return _The Mouth_ to your hand when _Mouth of Sauron_ is played; you may automatically transfer one item he bears to a character in the same company (discard the rest).   
+> > _**Unique.**_ _Manifestation of Mouth of Sauron._ +2 direct inlfuence against any faction. Tap during your organization phase to move one resource or character from your discard pile to your play deck and reshuffle. Return _The Mouth_ to your hand when _Mouth of Sauron_ is played; you may automatically transfer one item he bears to a character in the same company (discard the rest).   
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Barad-dur 
@@ -28203,7 +28203,7 @@ permalink: /cards/all/
 > > _**Unique.**_ _Olog-hai._ _Leader._ Discard on a body check result of 9. +2 direct influence against Trolls, Orcs, Troll factions, and Orc factions. 
 > > 
 > > {: .fs-3 } 
-> > _“‘Hee now! See now! I'm tired o' gnawing old bones and skins; I've a mind to dine on thee now.’”_ ***---&#65279;LotRI***  
+> > _“‘Hee now! See now! <br>I'm tired o' gnawing old bones and skins; <br>I've a mind to dine on thee now.’”_ ***---&#65279;LotRI***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Barad-dur 
@@ -45126,7 +45126,7 @@ permalink: /cards/all/
 > > _**Unique.**_ _Uruk-hai._ Discard on a body check result of 8. 
 > > 
 > > {: .fs-3 } 
-> > _“‘They might agree with me, with Grishnakh their trusted messenger...’”_ ***---&#65279;LotRII***  
+> > _“‘They might agree with me, with Grishnakh their trusted messenger...’”_ ***---&#65279;LotRIII***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Any site in Imlad Morgul 
@@ -45198,7 +45198,7 @@ permalink: /cards/all/
 > > _**Unique.**_ +1 direct influence against any faction playable at Southron Oasis. 
 > > 
 > > {: .fs-3 } 
-> > _“‘You speak of the false cripple Sen Jerrek, dark arbitrator, ambassador to thieves, spy for any and all who trade darkness.’”_ ***---&#65279;Kuduk&nbsp;Lore***  
+> > _“‘You speak of the false cripple Sen Jerrek, dark arbitrator, ambassador to thieves, spy for any and all who trade in darkness.’”_ ***---&#65279;Kuduk&nbsp;Lore***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Southron Oasis 
@@ -45374,7 +45374,7 @@ permalink: /cards/all/
 > > _**Unique.**_ +3 direct influence against the Woodmen faction. 
 > > 
 > > {: .fs-3 } 
-> > _“...as the shadow grew deep in Greenwood...many evil things reappeared, signs of the arising of Sauron."_ ***---&#65279;LotR***  
+> > _“...as the Shadow grew deep in Greenwood...many evil things reappeared, signs of the arising of Sauron."_ ***---&#65279;LotR***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Woodmen-town 

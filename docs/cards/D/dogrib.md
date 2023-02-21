@@ -28,7 +28,7 @@ permalink: /cards/dogrib/
 > > _**Unique.**_ -1 to all corruption checks. 
 > > 
 > > {: .fs-3 } 
-> > _“‘...you may stay here until the Witch-king goes home. For in summer his power wanes; but now his breath is deadly, and his cold arm is long."_ ***---&#65279;LotR***  
+> > _“‘...you may stay here till the Witch-king goes home. For in summer his power wanes; but now his breath is deadly, and his cold arm is long."_ ***---&#65279;LotR***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Lossadan Camp 

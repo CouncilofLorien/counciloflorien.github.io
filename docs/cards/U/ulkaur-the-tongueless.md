@@ -28,7 +28,7 @@ permalink: /cards/ulkaur-the-tongueless/
 > > _**Unique.**_ _Olog-hai._ _Leader._ Discard on a body check result of 9. +2 direct influence against Trolls, Orcs, Troll factions, and Orc factions. 
 > > 
 > > {: .fs-3 } 
-> > _“‘Hee now! See now! I'm tired o' gnawing old bones and skins; I've a mind to dine on thee now.’”_ ***---&#65279;LotRI***  
+> > _“‘Hee now! See now! <br>I'm tired o' gnawing old bones and skins; <br>I've a mind to dine on thee now.’”_ ***---&#65279;LotRI***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Barad-dur 

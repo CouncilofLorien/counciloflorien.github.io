@@ -25,7 +25,7 @@ permalink: /cards/shamas/
 > Warrior/Diplomat Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ +1 direct influence against Man factions. Additionally, +2 direct influence against the Dunlendings faction. 
+> > _**Unique.**_ +1 direct influence against Man factions. Additionally, +2 direct influence against the _Dunlendings_ faction. 
 > > 
 > > {: .fs-3 } 
 > > _“Only in Dunland did Men of this race hold to their old speech and manners: a secret folk, unfriendly to the Dunedain, hating the Rohirrim."_ ***---&#65279;LotR***  

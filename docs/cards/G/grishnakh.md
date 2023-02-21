@@ -28,7 +28,7 @@ permalink: /cards/grishnakh/
 > > _**Unique.**_ _Uruk-hai._ Discard on a body check result of 8. 
 > > 
 > > {: .fs-3 } 
-> > _“‘They might agree with me, with Grishnakh their trusted messenger...’”_ ***---&#65279;LotRII***  
+> > _“‘They might agree with me, with Grishnakh their trusted messenger...’”_ ***---&#65279;LotRIII***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Any site in Imlad Morgul 
@@ -54,7 +54,7 @@ permalink: /cards/grishnakh/
 > > _**Unique.**_ _Uruk-hai._ Discard on a body check result of 8. 
 > > 
 > > {: .fs-3 } 
-> > _“‘They might agree with me, with Grishnakh their trusted messenger...’”_ ***---&#65279;LotRII***  
+> > _“‘They might agree with me, with Grishnakh their trusted messenger...’”_ ***---&#65279;LotRIII***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Any site in Imlad Morgul 

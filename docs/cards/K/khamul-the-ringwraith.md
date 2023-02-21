@@ -25,7 +25,7 @@ permalink: /cards/khamul-the-ringwraith/
 > Warrior/Ranger/Diplomat Ringwraith
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ _Manifestation of Khamul the Easterling._ Can use sorcery. -2 direct influence in Heralded Lord mode. +1 prowess in Fell Rider mode. -2 to the body of any Elf character targeted by a strike from Khamul the Ringwraith. As your Ringwraith, one Ringwraith follower in his company may be controlled with no influence. You may bring this follower into play during your organization phase.   
+> > _**Unique.**_ _Manifestation of Khamul the Easterling._ Can use sorcery. -2 direct influence in Heralded Lord mode. +1 prowess in Fell Rider mode. -2 to the body of any Elf character targeted by a strike from Khamul. As your Ringwraith, one Ringwraith follower in his company may be controlled with no influence. You may bring this follower into play during your organization phase.   
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Dol Guldur 

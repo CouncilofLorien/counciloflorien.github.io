@@ -25,7 +25,7 @@ permalink: /cards/hendolen/
 > Sage/Diplomat Elf
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ May tap to cancel a diplomat attack against his company. +2 direct influence against Elves and Elf factions. 
+> > _**Unique.**_ May tap to cancel a detainment attack against his company. +2 direct influence against Elves and Elf factions. 
 > > 
 > > {: .fs-3 } 
 > > _“...the history of those that returned to Middle-earth in exile was grievous ...”_ ***---&#65279;LotR***  

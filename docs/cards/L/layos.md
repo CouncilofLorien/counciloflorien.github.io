@@ -25,7 +25,7 @@ permalink: /cards/layos/
 > Sage/Diplomat Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against the Men of Dorwinion faction. 
+> > _**Unique.**_ +2 direct influence against the _Men of Dorwinion_ faction. 
 > > 
 > > {: .fs-3 } 
 > > _“‘He offered a fine, rich wine and soothing words filled with subtle malice.’”_ ***---&#65279;Kuduk&nbsp;Lore***  

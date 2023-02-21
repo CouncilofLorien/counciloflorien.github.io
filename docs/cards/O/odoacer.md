@@ -28,7 +28,7 @@ permalink: /cards/odoacer/
 > > _**Unique.**_ +3 direct influence against the Woodmen faction. 
 > > 
 > > {: .fs-3 } 
-> > _“...as the shadow grew deep in Greenwood...many evil things reappeared, signs of the arising of Sauron."_ ***---&#65279;LotR***  
+> > _“...as the Shadow grew deep in Greenwood...many evil things reappeared, signs of the arising of Sauron."_ ***---&#65279;LotR***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Woodmen-town 
@@ -54,7 +54,7 @@ permalink: /cards/odoacer/
 > > _**Unique.**_ +3 direct influence against the Woodmen faction. 
 > > 
 > > {: .fs-3 } 
-> > _“...as the shadow grew deep in Greenwood...many evil things reappeared, signs of the arising of Sauron."_ ***---&#65279;LotR***  
+> > _“...as the Shadow grew deep in Greenwood...many evil things reappeared, signs of the arising of Sauron."_ ***---&#65279;LotR***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Woodmen-town 
