@@ -19,7 +19,7 @@ permalink: /cards/the-oracles-ring/
 > > <div class="card-name">The Oracle's Ring</div>
 >
 > {: .minion-resource-name .white-text .mind-di .p-1 .pl-2 }
-> > -2 ![](/assets/images/mind.svg)&ensp;+2 ![](/assets/images/di.svg)
+> > -2 ![](/assets/images/mind.svg)&emsp;+4 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Special Item

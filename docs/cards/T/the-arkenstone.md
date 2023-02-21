@@ -68,7 +68,7 @@ permalink: /cards/the-arkenstone/
 > > _**Unique.**_ +5 to bearer's direct influence against Dwarves and Dwarf factions. Each Dwarf in play has +1 mind. If the bearer of this item is at the same site as a Dwarf character, you may discard this item to force the discard of the Dwarf (and all cards he controls).   
 > > 
 > > {: .fs-3 } 
-> > _“...it was tinged with a flickering sparkle of many colours at the syrface, reflected and splintered from the wavering light of his torch."_ ***---&#65279;LotRV*** 
+> > _“...it was tinged with a flickering sparkle of many colours at the surface, reflected and splintered from the wavering light of his torch."_ ***---&#65279;LotRV*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

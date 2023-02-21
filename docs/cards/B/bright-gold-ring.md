@@ -22,7 +22,7 @@ permalink: /cards/bright-gold-ring/
 > Gold Ring Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > ***May only be played at a Free-hold*** <nobr>[<img src="/assets/images/free-hold.svg">]</nobr> ***where gold rings are playable.*** Bearer must make a corruption check at the end of each of his untap phases. Discard _Bright Gold Ring_ when tested. If tested, obtain a random value to determine which ring card may be immediately played: a Spirit Ring (8, 9, 10, 11, 12+); a Dwarven Ring (9, 10, 11, 12+); a Magic Ring (1, 2, 3, 4, 5); a Lesser Ring (any result). You may search you play deck or discard pile for a Lesser Ring to be played. 
+> > ***May only be played at a Free-hold*** <nobr>[<img src="/assets/images/free-hold.svg">]</nobr> ***where gold rings are playable.*** Bearer must make a corruption check at the end of each of his untap phases. Discard _Bright Gold Ring_ when tested. If tested, obtain a random value to determine which ring card may be immediately played: a Spirit Ring (8, 9, 10, 11, 12+); a Dwarven Ring (9, 10, 11, 12+); a Magic Ring (1, 2, 3, 4, 5); a Lesser Ring (any result). You may search your play deck or discard pile for a Lesser Ring to be played. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

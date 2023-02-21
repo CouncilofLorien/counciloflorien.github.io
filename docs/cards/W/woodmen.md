@@ -59,5 +59,5 @@ permalink: /cards/woodmen/
 > > _**Unique.**_ _Manifestation of hero Woodmen_. ***Playable at Woodmen Town*** <br>&ensp;if the influence check is greater than 10.   
 > > 
 > > {: .fs-3 } 
-> > _“‘Swords in these parts are mostly blunt, and exes are used for trees , and shields as cradles or dish covers...’”_ ***---&#65279;Hob***   
+> > _“‘Swords in these parts are mostly blunt, and axes are used for trees, and shields as cradles or dish-covers...’”_ ***---&#65279;Hob***   
 > 

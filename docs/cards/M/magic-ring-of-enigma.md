@@ -23,6 +23,9 @@ permalink: /cards/magic-ring-of-enigma/
 >
 > {: .minion-resource-text .black-text .p-2 }
 > > _Magic Ring._ ***Playable only with a Gold Ring and after a test indicates a Magic Ring.*** Gives the bearer sage skill. If the bearer is already a sage, he may tap to use a Palantir. Cannot be duplicated on a given character. 
+> > 
+> > {: .fs-3 } 
+> > _“'This is a thing of worth beyond your reckoning.'"_ ***---&#65279;LotR*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

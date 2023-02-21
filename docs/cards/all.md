@@ -24059,7 +24059,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Bring one hazard from your sideboard or discard pile into you play deck and shuffle (up to two if _Doors of Night_ is in play). 
+> > Bring one hazard from your sideboard or discard pile into your play deck and shuffle (up to two if _Doors of Night_ is in play). 
 > > 
 > > {: .fs-3 } 
 > > _“...in the high regions the West Wind still blew, but down on the stones behind the fences of the Black Land the air seemed almost dead, chill and yet stifling."_ ***---&#65279;LotRVI*** 
@@ -28412,7 +28412,7 @@ permalink: /cards/all/
 > > _**Unique.**_ _Manifestation of hero Beornings_. ***Playable at Beorn's House*** <br>&ensp;if the influence check is greater than 9.   
 > > 
 > > {: .fs-3 } 
-> > _“‘... the Beornings are the best bakers that I know of; but they are none too willing to deal out their cakes to travelers these days.’”_ ***---&#65279;LotRII*** 
+> > _“‘...the Beornings are the best bakers that I know of; but they are none too willing to deal out their cakes to travelers these days.’”_ ***---&#65279;LotRII*** 
 > 
 
 ---
@@ -28440,7 +28440,7 @@ permalink: /cards/all/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Manifestation of hero Dunlendings_. ***Playable at Dunnish Clan-hold*** if the influence check is greater than 9.  <br>_Standard Modifications:_ Hillmen (+2). 
+> > _**Unique.**_ _Manifestation of hero Dunlendings_. ***Playable at Dunnish Clan-hold*** <br>&ensp;if the influence check is greater than 9.  <br>_Standard Modifications:_ Hillmen (+2). 
 > > 
 > > {: .fs-3 } 
 > > _“Brazen trumpets sounded...There...were mustered...the wild men of the Dunland fells."_ ***---&#65279;LotRIII*** 
@@ -28519,7 +28519,7 @@ permalink: /cards/all/
 > Troll Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ ***Playable at Ettenmoors*** <br>&ensp;if the influence check is greater than 9. Once in play, the number required to influence this faction is 0. If this influence attempt is made by an Orc or Troll leader, you may place this faction under the control of that leader and not tap the site. Discard the faction if the leader moves or leaves play. Three or more factions controlled by the same leader give two extra marshalling points. _Standard Modifications:_ Stone-trolls (+2).   
+> > _**Unique.**_ ***Playable at Ettenmoors*** <br>&ensp;if the influence check is greater than 9. Once in play, the number required to influence this faction is zero. If this influence attempt is made by an Orc or Troll leader, you may place this faction under the control of that leader and not tap the site. Discard the faction if the leader moves or leaves play. Three or more factions controlled by the same leader give two extra marshalling points. _Standard Modifications:_ Stone-trolls (+2).   
 > 
 
 ---
@@ -28629,7 +28629,7 @@ permalink: /cards/all/
 > Orc Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ ***Playable at Barad-dur*** <br>&ensp;if the influence check is greater than 8. Once in play, the number required to influence this faction is zero. If this influence attempt is made by an Orc or Troll leader, you may place this faction under the control of that leader and not tap the site. Discard the faction if the leader moves or leaves play. Three or more factions controlled by the same leader give two extra marshalling points. <br>_Standard Modifications:_ Orcs of Udun (+2), Orcs of Mirkwood (-2).   
+> > _**Unique.**_ ***Playable at Barad-dur*** if the influence check is greater than 8. Once in play, the number required to influence this faction is zero. If this influence attempt is made by an Orc or Troll leader, you may place this faction under the control of that leader and not tap the site. Discard the faction if the leader moves or leaves play. Three or more factions controlled by the same leader give two extra marshalling points. _Standard Modifications:_ Orcs of Udun (+2), Orcs of Mirkwood (-2).   
 > 
 
 ---
@@ -28643,7 +28643,7 @@ permalink: /cards/all/
 > Orc Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ ***Playable at Mount Gundadbad*** <br>&ensp;if the influence check is greater than 9. Once in play, the number required to influence this faction is 0. <br>_Standard Modifications:_ Grey Mountain Goblins (+2), Orcs of Angmar (-2). 
+> > _**Unique.**_ ***Playable at Mount Gundadbad*** <br>&ensp;if the influence check is greater than 9. Once in play, the number required to influence this faction is zero. <br>_Standard Modifications:_ Grey Mountain Goblins (+2), Orcs of Angmar (-2). 
 > > 
 > > {: .fs-3 } 
 > > _“...Orcs, multiplying again in the Misty Mountains, began to ravage the lands...”_ ***---&#65279;LotR***  
@@ -28691,7 +28691,7 @@ permalink: /cards/all/
 > Orc Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ ***Playable at Cirith Gorgor*** <br>&ensp;if the influence check is greater than 8. Once in play, the number required to influence this faction is zero. If this influence attempt is made by an Orc or Troll leader, you may place this faction under the control of that leader and not tap the site. Discard the faction if the leader moves or leaves play. Three or more factions controlled by the same leader give two extra marshalling points. _Standard Modifications:_ Orcs of the Ephel Duath (-2), Snaga-hai (+2).   
+> > _**Unique.**_ ***Playable at Cirith Gorgor*** if the influence check is greater than 8. Once in play, the number required to influence this faction is zero. If this influence attempt is made by an Orc or Troll leader, you may place this faction under the control of that leader and not tap the site. Discard the faction if the leader moves or leaves play. Three or more factions controlled by the same leader give two extra marshalling points. _Standard Modifications:_ Orcs of the Ephel Duath (-2), Snaga-hai (+2).   
 > 
 
 ---
@@ -28705,7 +28705,7 @@ permalink: /cards/all/
 > Orc Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ ***Playable at Cirith Ungol*** <br>&ensp;if the influence check is greater than zero. Once in play, the number required to influence this faction is zero. If this influence attempt is made by an Orc or Troll leader, you may place this faction under the control of that leader and not tap the site. Discard the faction if the leader moves or leaves play. three or more factions controlled by the same leader give two extra marshalling points. <br>_Standard Modifications:_ Snaga-hai (+2), Orcs of Angmar (-2).   
+> > _**Unique.**_ ***Playable at Cirith Ungol*** if the influence check is greater than 8. Once in play, the number required to influence this faction is zero. If this influence attempt is made by an Orc or Troll leader, you may place this faction under the control of that leader and not tap the site. Discard the faction if the leader moves or leaves play. three or more factions controlled by the same leader give two extra marshalling points. _Standard Modifications:_ Snaga-hai (+2), Orcs of Angmar (-2).   
 > 
 
 ---
@@ -28719,7 +28719,7 @@ permalink: /cards/all/
 > Orc Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ ***Playable at Cirith Gorgor*** <br>&ensp;if the influence check is greater than 8. Once in play, the number required to influence this faction is zero. If this influence attempt is made by an Orc or Troll leader, you may place this faction under the control of that leader and not tap the site. Discard the faction if the leader moves or leaves play. Three or more factions controlled by the same leader give two extra marshalling points. _Standard Modifications:_ Orcs of Mirkwood (-2), Orcs of Udun (-2), Uruk-hai (+2).   
+> > _**Unique.**_ ***Playable at Barad-dur*** if the influence check is greater than 8. Once in play, the number required to influence this faction is zero. If this influence attempt is made by an Orc or Troll leader, you may place this faction under the control of that leader and not tap the site. Discard the faction if the leader moves or leaves play. Three or more factions controlled by the same leader give two extra marshalling points. _Standard Modifications:_ Orcs of Mirkwood (-2), Orcs of Udun (-2), Uruk-hai (+2).   
 > 
 
 ---
@@ -28733,7 +28733,7 @@ permalink: /cards/all/
 > Orc Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ ***Playable at Cirith Gorgor*** <br>&ensp;if the influence check is greater than 8. Once in play, the number required to influence this faction is zero. If this influence attempt is made by an Orc or Troll leader, you may place this faction under the control of that leader and not tap the site. Discard the faction if the leader moves or leaves play. Three or more factions controlled by the same leader give two extra marshalling points. <br>_Standard Modifications:_ Orcs of Gorgoroth (+2), Orcs of the Red Eye (-2).   
+> > _**Unique.**_ ***Playable at Cirith Gorgor*** if the influence check is greater than 8. Once in play, the number required to influence this faction is zero. If this influence attempt is made by an Orc or Troll leader, you may place this faction under the control of that leader and not tap the site. Discard the faction if the leader moves or leaves play. Three or more factions controlled by the same leader give two extra marshalling points. _Standard Modifications:_ Orcs of Gorgoroth (+2), Orcs of the Red Eye (-2).   
 > 
 
 ---
@@ -28823,7 +28823,7 @@ permalink: /cards/all/
 > Troll Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ ***Playable at Ettenmoors*** if the influence check is greater than 10. Once in play, the number required to influence this faction is zero. If this influence attempt is made by an Orc or Troll leader, you may place this faction under the control of that leader and not tap the site. Discard the faction if the leader moves or leaves play. Three or more factions controlled by the same leader give two extra marshalling points. <br>_Standard Modifications:_ Black-trolls (+2).   
+> > _**Unique.**_ ***Playable at Ettenmoors*** if the influence check is greater than 10. Once in play, the number required to influence this faction is zero. If this influence attempt is made by an Orc or Troll leader, you may place this faction under the control of that leader and not tap the site. Discard the faction if the leader moves or leaves play. Three or more factions controlled by the same leader give two extra marshalling points. _Standard Modifications:_ Black-trolls (+2).   
 > 
 
 ---
@@ -28854,7 +28854,7 @@ permalink: /cards/all/
 > Orc Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ ***Playable at Cirith Ungol*** if the influence check is greater than 8. Once in play, the number required to influence this faction is 0. If this influence attempt is made by an Orc or Troll leader, you may place this faction under the control of that leader and not tap the site. Discard the faction if the leader moves or leaves play. Three or more factions controlled by the same leader give two extra marshalling points. _Standard Modifications:_ Uruk-hai (+2), Morgul-orcs (-2).   
+> > _**Unique.**_ ***Playable at Cirith Ungol*** if the influence check is greater than 8. Once in play, the number required to influence this faction is zero. If this influence attempt is made by an Orc or Troll leader, you may place this faction under the control of that leader and not tap the site. Discard the faction if the leader moves or leaves play. Three or more factions controlled by the same leader give two extra marshalling points. _Standard Modifications:_ Uruk-hai (+2), Morgul-orcs (-2).   
 > 
 
 ---
@@ -28868,7 +28868,7 @@ permalink: /cards/all/
 > Orc Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ ***Playable at Barad-dur, Cirith Gorgor, or Cirith Ungol*** if the influence check is greater than 11. Once in play, the number required to influence this faction is zero. If this influence attempt is made by an Orc or Troll leader, you may place this faction under the control of that leader and not tap the site. Discard the faction if the leader moves or leaves play. 3 or more factions controlled by the same leader give 2 extra marshalling points. <br>_Standard Modifications:_ Any other Orc Faction (-2; applied only once).   
+> > _**Unique.**_ ***Playable at Barad-dur, Cirith Gorgor, or Cirith Ungol*** if the influence check is greater than 11. Once in play, the number required to influence this faction is zero. If this influence attempt is made by an Orc or Troll leader, you may place this faction under the control of that leader and not tap the site. Discard the faction if the leader moves or leaves play. 3 or more factions controlled by the same leader give 2 extra marshalling points. _Standard Modifications:_ Any other Orc Faction (-2; applied only once).   
 > 
 
 ---
@@ -28936,7 +28936,7 @@ permalink: /cards/all/
 > > _**Unique.**_ _Manifestation of hero Woodmen_. ***Playable at Woodmen Town*** <br>&ensp;if the influence check is greater than 10.   
 > > 
 > > {: .fs-3 } 
-> > _“‘Swords in these parts are mostly blunt, and exes are used for trees , and shields as cradles or dish covers...’”_ ***---&#65279;Hob***   
+> > _“‘Swords in these parts are mostly blunt, and axes are used for trees, and shields as cradles or dish-covers...’”_ ***---&#65279;Hob***   
 > 
 
 ---
@@ -28987,7 +28987,7 @@ permalink: /cards/all/
 > Minor Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Mind Ring._ -1 to mind to a minimum of 1. +1 to prowess. Cannot be duplicated on a given character. 
+> > _Mind Ring._ -1 to mind to a minimum of 1, +1 to prowess. Cannot be duplicated on a given character. 
 > > 
 > > {: .fs-3 } 
 > > _“A lesser ring, it confers no lengthened life; merely the wearer finds his will constrained by the aims of the ones who gave the trinket."_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -29090,7 +29090,7 @@ permalink: /cards/all/
 > Gold Ring Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > ***May only be played at a Free-hold*** <nobr>[<img src="/assets/images/free-hold.svg">]</nobr> ***where gold rings are playable.*** Bearer must make a corruption check at the end of each of his untap phases. Discard _Bright Gold Ring_ when tested. If tested, obtain a random value to determine which ring card may be immediately played: a Spirit Ring (8, 9, 10, 11, 12+); a Dwarven Ring (9, 10, 11, 12+); a Magic Ring (1, 2, 3, 4, 5); a Lesser Ring (any result). You may search you play deck or discard pile for a Lesser Ring to be played. 
+> > ***May only be played at a Free-hold*** <nobr>[<img src="/assets/images/free-hold.svg">]</nobr> ***where gold rings are playable.*** Bearer must make a corruption check at the end of each of his untap phases. Discard _Bright Gold Ring_ when tested. If tested, obtain a random value to determine which ring card may be immediately played: a Spirit Ring (8, 9, 10, 11, 12+); a Dwarven Ring (9, 10, 11, 12+); a Magic Ring (1, 2, 3, 4, 5); a Lesser Ring (any result). You may search your play deck or discard pile for a Lesser Ring to be played. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -29250,7 +29250,7 @@ permalink: /cards/all/
 > Gold Ring Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > ***May only be played at a Border-hold*** <nobr>[<img src="/assets/images/border-hold.svg">]</nobr> ***where gold rings are playable.*** Bearer must make a corruption check at the end of each of his untap phases. Discard this ring when tested. If tested, obtain a random value to determine which ring card may be immediately played: a Spirit Ring (10, 11, 12+); a Dwarven Ring (9, 10, 11, 12+); a Magic Ring (1, 2, 3, 4, 5, 6); a Lesser Ring (any result). You may search you play deck or discard pile for a Lesser Ring to be played. 
+> > ***May only be played at a Border-hold*** <nobr>[<img src="/assets/images/border-hold.svg">]</nobr> ***where gold rings are playable.*** Bearer must make a corruption check at the end of each of his untap phases. Discard this ring when tested. If tested, obtain a random value to determine which ring card may be immediately played: a Spirit Ring (10, 11, 12+); a Dwarven Ring (9, 10, 11, 12+); a Magic Ring (1, 2, 3, 4, 5, 6); a Lesser Ring (any result). You may search your play deck or discard pile for a Lesser Ring to be played. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -29325,6 +29325,9 @@ permalink: /cards/all/
 >
 > {: .minion-resource-text .black-text .p-2 }
 > > _Magic Ring._ ***Playable only with a Gold Ring and after a test indicates a Magic Ring.*** Gives the bearer sage skill. If the bearer is already a sage, he may tap to use a Palantir. Cannot be duplicated on a given character. 
+> > 
+> > {: .fs-3 } 
+> > _“'This is a thing of worth beyond your reckoning.'"_ ***---&#65279;LotR*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -29575,7 +29578,7 @@ permalink: /cards/all/
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Palantir._ ***Playable at Minas Tirith.*** With its bearer able to use a Palantir, tap _Palantir of Minas Tirith_ to look at the top five cards of your play deck; shuffle these 5 cards and return them to the top of your play deck. Do the same to your opponent's deck. Bearer then makes a corruption check. 
+> > _**Unique.**_ _Palantir._ ***Playable at Minas Tirith.*** With its bearer able to use a Palantir, tap _Palantir of Minas Tirith_ to look at the top five cards of your play deck; shuffle these 5 cards and return then to the top of your play deck. Do the same to your opponent's deck. Bearer then makes a corruption check. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -29840,7 +29843,7 @@ permalink: /cards/all/
 > Greater Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Armour. +3 to body (to a maximum of 10). 
+> > _**Unique.**_ _Armour._ +3 to body (to a maximum of 10). 
 > > 
 > > {: .fs-3 } 
 > > _“It was close-woven of many rings, as supple almost as linen, cold as ice, and harder than steel."_ ***---&#65279;LotRII*** 
@@ -29877,7 +29880,7 @@ permalink: /cards/all/
 > > <div class="card-name">The Oracle's Ring</div>
 >
 > {: .minion-resource-name .white-text .mind-di .p-1 .pl-2 }
-> > -2 ![](/assets/images/mind.svg)&ensp;+2 ![](/assets/images/di.svg)
+> > -2 ![](/assets/images/mind.svg)&emsp;+4 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Special Item
@@ -34860,7 +34863,7 @@ permalink: /cards/all/
 > > _Scout only._ Tap _Deadly Dart_ to give -1 body and -1 strike (to a minimum of one) to an automatic-attack or to a hazard creature keyed to a site. Tap its bearer or discard _Deadly Dart_ when it is tapped. <br>&ensp;May also be played as a hero resource (i.e., included in a Wizard's deck), but may not be included in a hero starting company. 
 > > 
 > > {: .fs-3 } 
-> > _“...there came flying a deadly dart, and Faramir...had fallen to the earth."_ ***---&#65279;LotRV*** 
+> > _“...there came flying a deadly dart, and Faramir...had fallen to the earth."_ _---&#65279;LotRV_ 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -34883,7 +34886,7 @@ permalink: /cards/all/
 > > _**Unique.**_ +5 to bearer's direct influence against Dwarves and Dwarf factions. Each Dwarf in play has +1 mind. If the bearer of this item is at the same site as a Dwarf character, you may discard this item to force the discard of the Dwarf (and all cards he controls).   
 > > 
 > > {: .fs-3 } 
-> > _“...it was tinged with a flickering sparkle of many colours at the syrface, reflected and splintered from the wavering light of his torch."_ ***---&#65279;LotRV*** 
+> > _“...it was tinged with a flickering sparkle of many colours at the surface, reflected and splintered from the wavering light of his torch."_ ***---&#65279;LotRV*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -44759,7 +44762,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Bring one hazard from your sideboard or discard pile into you play deck and shuffle (up to two if Doors of Night is in play). 
+> > Bring one hazard from your sideboard or discard pile into your play deck and shuffle (up to two if Doors of Night is in play). 
 > > 
 > > {: .fs-3 } 
 > > _“...in the high regions the West Wind still blew, but down on the stones behind the fences of the Black Land the air seemed almost dead, chill and yet stifling."_ ***---&#65279;LotRVI*** 
@@ -46025,7 +46028,7 @@ permalink: /cards/all/
 > Gold Ring Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > May only be played at a Border-hold <nobr>[<img src="/assets/images/border-hold.svg">]</nobr> where gold rings are playable. Bearer must make a corruption check at the end of each of his untap phases. Discard Bright Gold Ring when tested. If tested, obtain a random value to determine which ring card may be immediately played: a Spirit Ring (10, 11, 12+); a Dwarven Ring (9, 10, 11, 12+); a Magic Ring (1, 2, 3, 4, 5, 6); a Lesser Ring (any result). You may search you play deck or discard pile for a Lesser Ring to be played. 
+> > May only be played at a Border-hold <nobr>[<img src="/assets/images/border-hold.svg">]</nobr> where gold rings are playable. Bearer must make a corruption check at the end of each of his untap phases. Discard Bright Gold Ring when tested. If tested, obtain a random value to determine which ring card may be immediately played: a Spirit Ring (10, 11, 12+); a Dwarven Ring (9, 10, 11, 12+); a Magic Ring (1, 2, 3, 4, 5, 6); a Lesser Ring (any result). You may search your play deck or discard pile for a Lesser Ring to be played. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -51106,7 +51109,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Bring one hazard from your sideboard or discard pile into you play deck and shuffle (up to two if Doors of Night is in play). 
+> > Bring one hazard from your sideboard or discard pile into your play deck and shuffle (up to two if Doors of Night is in play). 
 > > 
 > > {: .fs-3 } 
 > > _“...in the high regions the West Wind still blew, but down on the stones behind the fences of the Black Land the air seemed almost dead, chill and yet stifling."_ ***---&#65279;LotRVI*** 
