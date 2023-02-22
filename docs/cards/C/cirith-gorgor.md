@@ -48,7 +48,7 @@ permalink: /cards/cirith-gorgor/
 > Udun
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_ <br>Orcs --- 5 strikes with 8 prowess <br>Trolls --- 2 strikes with 8 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_ <br>&ensp;Orcs --- 5 strikes with 8 prowess <br>Trolls --- 2 strikes with 8 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“This was Cirith Gorgor, the Haunted Pass, the entrance to the land of the Enemy"_ ***---&#65279;LotRIV***
@@ -91,7 +91,7 @@ permalink: /cards/cirith-gorgor/
 > Udun
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > _**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br>  Orcs --- 5 strikes with 8 prowess; <br>Trolls --- 2 strikes with 10 prowess <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. 
+> > _**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br>&ensp;Orcs --- 5 strikes with 8 prowess; <br>&ensp;Trolls --- 2 strikes with 10 prowess <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. 
 > > 
 > > {: .fs-3 } 
 > > _“None could pass the Teeth of Mordor and not feel their bite....”_ ***---&#65279;LotRIV*** 

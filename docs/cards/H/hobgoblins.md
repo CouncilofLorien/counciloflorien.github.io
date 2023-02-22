@@ -71,7 +71,7 @@ permalink: /cards/hobgoblins/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Orcs._ Two strikes. Two Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> in site path are required. 
+> > _Orcs._ Two strikes. 
 > > 
 > > {: .fs-3 } 
 > > _“‘...Before you could get round Mirkwood in the North you would be right among the slopes of the Grey Mountains, and they are simply stiff with goblins, hobgoblins, and orcs of the worst description."_ ***---&#65279;Hob*** 

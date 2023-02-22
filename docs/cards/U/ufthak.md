@@ -54,7 +54,7 @@ permalink: /cards/ufthak/
 > > _**Unique.**_ _Uruk-hai._ Discard on a body check result of 8. 
 > > 
 > > {: .fs-3 } 
-> > _“‘Then we found him in a corner; hanging up he was, but he was wide awake and glaring.’”_ ***---&#65279;LotRIV***  
+> > _“‘Then we found him in a corner; hanging up he was, but he was wide awake and glaring.’”_ ***---&#65279;LotRII***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Any site in Imlad Morgul 

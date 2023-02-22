@@ -22,7 +22,7 @@ permalink: /cards/the-under-courts/
 > Under-deeps
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Barad-dur (0), The Sulfur-deeps (5), The Under-galleries (4) <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br> Trolls (1st attack) --- 3 strikes with 10 prowess <br>(2nd attack) --- Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Shadow-holds \(![](/assets/images/shadow-hold.svg)\) <br>_**Special:**_ If any Nazgul permanent-event is in play, one must be used as an additional automatic-attack (attacker's choice, discard after use---ignore result of defeat). 
+> > _**Adjacent Sites:**_ Barad-dur (0), The Sulfur-deeps (5), The Under-galleries (4) <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br>&ensp;Trolls (1st attack) --- 3 strikes with 10 prowess <br>&ensp;(2nd attack) --- Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Shadow-holds \(![](/assets/images/shadow-hold.svg)\) <br>_**Special:**_ If any Nazgul permanent-event is in play, one must be used as an additional automatic-attack (attacker's choice, discard after use---ignore result of defeat). 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;4&ensp;</span></div>
@@ -39,7 +39,7 @@ permalink: /cards/the-under-courts/
 > Under-deeps
 >
 > {: .minion-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Barad-dur (0), The Sulfur-deeps (4), The Under-galleries (4) <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br> Trolls --- 3 strikes with 10 prowess (detainment)  
+> > _**Adjacent Sites:**_ Barad-dur (0), The Sulfur-deeps (4), The Under-galleries (4) <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br>&ensp;Trolls --- 3 strikes with 10 prowess (detainment)  
 > > 
 > > {: .fs-3 } 
 > > _“Walls too high to measure descended into pits too deep to fathom."_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -59,7 +59,7 @@ permalink: /cards/the-under-courts/
 > Under-deeps
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Barad-dur (0), The Under-galleries (6), The Sulfur-deeps (7) <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>  Trolls (1st attack) --- 3 strikes with 10 prowess; <br>(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. 
+> > _**Adjacent Sites:**_ Barad-dur (0), The Under-galleries (6), The Sulfur-deeps (7) <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>&ensp;Trolls (1st attack) --- 3 strikes with 10 prowess; <br>&ensp;(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. 
 > 
 > {: .balrog-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>

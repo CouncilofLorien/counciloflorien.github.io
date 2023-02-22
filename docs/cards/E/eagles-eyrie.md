@@ -71,7 +71,7 @@ permalink: /cards/eagles-eyrie/
 > Anduin Vales
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br> Animals --- 2 strikes with 10 prowess (attacker chooses defending characters)  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Animals --- 2 strikes with 10 prowess (attacker chooses defending characters)  
 > > 
 > > {: .fs-3 } 
 > > _“The eagles had brought up dry boughs for fuel, ...rabbits, hares, and a small sheep."_ ***---&#65279;Hob*** 
@@ -94,7 +94,7 @@ permalink: /cards/eagles-eyrie/
 > Anduin Vales
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br> Animals-2 strikes with 10 prowess (attacker chooses defending characters)  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Animals --- 2 strikes with 10 prowess (attacker chooses defending characters)  
 > > 
 > > {: .fs-3 } 
 > > _“The eagles had brought up dry boughs for fuel, ...rabbits, hares, and a small sheep."_ ***---&#65279;Hob*** 
@@ -117,7 +117,7 @@ permalink: /cards/eagles-eyrie/
 > Anduin Vales
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br> Animals-2 strikes with 10 prowess (attacker chooses defending characters)  "The eagles had brought up dry boughs for fuel, ...rabbits, hares, and a small sheep."_ ***---&#65279;Hob*** 
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Animals --- 2 strikes with 10 prowess (attacker chooses defending characters)  "The eagles had brought up dry boughs for fuel, ...rabbits, hares, and a small sheep."_ ***---&#65279;Hob*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

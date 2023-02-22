@@ -71,7 +71,7 @@ permalink: /cards/wose-passage-hold/
 > Old Pukel-land
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Geann a-Lisch <br>_**Automatic-attacks:**_<br> Men --- 3 strikes with 5 prowess  
+> > ***Nearest Darkhaven:*** Geann a-Lisch <br>_**Automatic-attacks:**_<br>&ensp;Men --- 3 strikes with 5 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...they found themselves in a rock-chamber, wide and rough, with an uneven stooping roof."_ ***---&#65279;LotRIV*** 

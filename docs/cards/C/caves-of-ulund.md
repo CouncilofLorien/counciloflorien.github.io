@@ -25,7 +25,7 @@ permalink: /cards/caves-of-ulund/
 > Withered Heath
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon --- 1 strike with 13 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Dragon --- 1 strike with 13 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“That...is the dangerous part about caves: you don't know how far they go back...or what is waiting for you inside."_ ***---&#65279;Hob*** 
@@ -48,7 +48,7 @@ permalink: /cards/caves-of-ulund/
 > Withered Heath
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon --- 1 strike with 13 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Dragon --- 1 strike with 13 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“That...is the dangerous part about caves: you don't know how far they go back...or what is waiting for you inside."_ ***---&#65279;Hob*** 
@@ -71,7 +71,7 @@ permalink: /cards/caves-of-ulund/
 > Withered Heath
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon --- 1 strike with 13 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Dragon --- 1 strike with 13 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘...you don't know how far they go back, sometimes, or where a passage behind may lead to, or what is waiting for you inside.’”_ ***---&#65279;Hob*** 
@@ -94,7 +94,7 @@ permalink: /cards/caves-of-ulund/
 > Withered Heath
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon - 1 strike with 13 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Dragon --- 1 strike with 13 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“That...is the dangerous part about caves: you don't know how far they go back...or what is waiting for you inside."_ ***---&#65279;Hob*** 
@@ -117,7 +117,7 @@ permalink: /cards/caves-of-ulund/
 > Withered Heath
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon - 1 strike with 13 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Dragon --- 1 strike with 13 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘...you don't know how far they go back, sometimes, or where a passage behind may lead to, or what is waiting for you inside.’”_ ***---&#65279;Hob*** 

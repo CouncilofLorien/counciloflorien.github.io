@@ -71,7 +71,7 @@ permalink: /cards/woodmen-town/
 > Western Mirkwood
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Automatic-attacks:**_<br> Men --- each character faces 1 strike with 6 prowess (detainment against covert company)  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Automatic-attacks:**_<br>&ensp;Men --- each character faces 1 strike with 6 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
 > > _“Most of the Men of the northern regions of the Westlands were descended from the Edain of the First Age, or their close kin. ...Of this kind were...the Woodmen of Western Mirkwood."_ ***---&#65279;LotR*** 

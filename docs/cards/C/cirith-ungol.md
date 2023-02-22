@@ -25,7 +25,7 @@ permalink: /cards/cirith-ungol/
 > Imlad Morgul
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Orcs --- 4 strike with 7 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 4 strike with 7 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...three great tiers...jutted out in pointed bastions, one above the other, diminishing as they rose, with sheer sides of cunning masonry...”_ ***---&#65279;LotRVI*** 
@@ -48,7 +48,7 @@ permalink: /cards/cirith-ungol/
 > Imlad Morgul
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Orcs --- 4 strike with 7 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 4 strike with 7 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...three great tiers...jutted out in pointed bastions, one above the other, diminishing as they rose, with sheer sides of cunning masonry...”_ ***---&#65279;LotRVI*** 
@@ -114,7 +114,7 @@ permalink: /cards/cirith-ungol/
 > Imlad Morgul
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > _**Playable:**_ Items (minor, major) <br>***Automatic-attacks (1):*** <br>Orcs --- 4 strike with 7 prowess <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. 
+> > _**Playable:**_ Items (minor, major) <br>***Automatic-attacks (1):*** <br>&ensp;Orcs --- 4 strike with 7 prowess <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. 
 > > 
 > > {: .fs-3 } 
 > > _“...here too the vigilance had failed, and treachery had yielded up the Tower to the Lord of the Ringwraiths, and now for long yearsit had been held by evil things."_ ***---&#65279;LotRVI*** 

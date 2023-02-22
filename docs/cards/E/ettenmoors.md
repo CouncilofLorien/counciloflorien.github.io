@@ -25,7 +25,7 @@ permalink: /cards/ettenmoors/
 > Rhudaur
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br> Troll --- 1 strike with 9 prowess  
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br>&ensp;Troll --- 1 strike with 9 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘We have now come to the River Hoarwell...It flows down out of the Ettenmoors, the troll-fells north of Rivendell...’”_ ***---&#65279;LotRI*** 
@@ -48,7 +48,7 @@ permalink: /cards/ettenmoors/
 > Rhudaur
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br> Troll --- 1 strike with 9 prowess  
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br>&ensp;Troll --- 1 strike with 9 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘We have now come to the River Hoarwell...It flows down out of the Ettenmoors, the troll-fells north of Rivendell...’”_ ***---&#65279;LotRI*** 
@@ -71,7 +71,7 @@ permalink: /cards/ettenmoors/
 > Rhudaur
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks (2):**_<br>  (1st) Troll --- 1 strike with 9 prowess <br>(2nd) Wolves --- 2 strikes with 8 prowess  
+> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks (2):**_<br>&ensp;(1st) Troll --- 1 strike with 9 prowess <br>&ensp;(2nd) Wolves --- 2 strikes with 8 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...a ridge of high land; its dark edge against the sky was broken in many bare points like teeth of a blunted saw."_ ***---&#65279;LotRII***

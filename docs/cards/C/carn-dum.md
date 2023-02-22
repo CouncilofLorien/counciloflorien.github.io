@@ -25,7 +25,7 @@ permalink: /cards/carn-dum/
 > Angmar
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Orcs --- 4 strikes with 7 prowess  
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 4 strikes with 7 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...They were foes of the Dark Lord, but they were overcome by the evil king of Carn Dum in the Land of Angmar."_ ***---&#65279;LotRI*** 
@@ -48,7 +48,7 @@ permalink: /cards/carn-dum/
 > Angmar
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Orcs --- 4 strikes with 7 prowess  
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 4 strikes with 7 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...They were foes of the Dark Lord, but they were overcome by the evil king of Carn Dum in the Land of Angmar."_ ***---&#65279;LotRI*** 
@@ -88,7 +88,7 @@ permalink: /cards/carn-dum/
 > Angmar
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Orcs - 4 strikes with 7 prowess  
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 4 strikes with 7 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...They were foes of the Dark Lord, but they were overcome by the evil king of Carn Dum in the Land of Angmar."_ ***---&#65279;LotRI*** 
@@ -125,7 +125,7 @@ permalink: /cards/carn-dum/
 > Angmar
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > _**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>  Orcs --- 4 strikes with 7 prowess; <br>Nazgul (cannot be canceled) --- 1 strike with 15 prowess <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. 
+> > _**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>&ensp;Orcs --- 4 strikes with 7 prowess; <br>&ensp;Nazgul (cannot be canceled) --- 1 strike with 15 prowess <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. 
 > > 
 > > {: .fs-3 } 
 > > _“Before he could gain the shelter of Carn Dum, the cavalry of Gondor overtook him...”_ ***---&#65279;LotR*** 

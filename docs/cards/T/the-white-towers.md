@@ -25,7 +25,7 @@ permalink: /cards/the-white-towers/
 > Arthedain
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Automatic-attacks:**_<br> Wolves --- 2 strikes with 6 prowess 
+> > _**Nearest Haven:**_ Rivendell <br>_**Automatic-attacks:**_<br>&ensp;Wolves --- 2 strikes with 6 prowess 
 > > 
 > > {: .fs-3 } 
 > > _“Three Elf-towers of immemorial age were still to be seen beyond the western marches. They shone far off in the moonlight. The tallest was furthest away, standing alone upon a green hill."_ ***---&#65279;LotRI***
@@ -48,7 +48,7 @@ permalink: /cards/the-white-towers/
 > Arthedain
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Automatic-attacks:**_<br> Wolves --- 2 strikes with 6 prowess 
+> > _**Nearest Haven:**_ Rivendell <br>_**Automatic-attacks:**_<br>&ensp;Wolves --- 2 strikes with 6 prowess 
 > > 
 > > {: .fs-3 } 
 > > _“Three Elf-towers of immemorial age were still to be seen beyond the western marches. They shone far off in the moonlight. The tallest was furthest away, standing alone upon a green hill."_ ***---&#65279;LotRI***
@@ -71,7 +71,7 @@ permalink: /cards/the-white-towers/
 > Arthedain
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Wolves --- 2 strikes with 6 prowess 
+> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br>&ensp;Wolves --- 2 strikes with 6 prowess 
 > > 
 > > {: .fs-3 } 
 > > _“...they came to the Far Downs, and to the Towers, and looked on the distant Sea..."_ ***---&#65279;LotRVI***

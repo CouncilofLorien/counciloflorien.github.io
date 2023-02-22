@@ -22,7 +22,7 @@ permalink: /cards/the-under-vaults/
 > Under-deeps
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Mount Gram (0), The Iron-deeps (7), The Under-leas (7) <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br> Undead (1st attack) --- 3 strikes with 8 prowess <br>(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Shadow-holds <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Any Undead creature may also be played at this site. 
+> > _**Adjacent Sites:**_ Mount Gram (0), The Iron-deeps (7), The Under-leas (7) <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>&ensp;Undead (1st attack) --- 3 strikes with 8 prowess <br>&ensp;(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Shadow-holds <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Any Undead creature may also be played at this site. 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -39,7 +39,7 @@ permalink: /cards/the-under-vaults/
 > Under-deeps
 >
 > {: .minion-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Mount Gram (0), The Iron-deeps (6), The Under-leas (6) <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>  Undead (1st attack) --- 3 strikes with 8 prowess  <br>(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Any Undead creature may be played at this site. 
+> > _**Adjacent Sites:**_ Mount Gram (0), The Iron-deeps (6), The Under-leas (6) <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>&ensp;Undead (1st attack) --- 3 strikes with 8 prowess  <br>&ensp;(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Any Undead creature may be played at this site. 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -56,7 +56,7 @@ permalink: /cards/the-under-vaults/
 > Under-deeps
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Mount Gram (0), The Iron-deeps (7), The Under-leas (5), The Drowning-deeps (8) <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>  Undead (1st attack) --- 3 strikes with 8 prowess; <br>(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Any Undead creature may also be keyed to this site. 
+> > _**Adjacent Sites:**_ Mount Gram (0), The Iron-deeps (7), The Under-leas (5), The Drowning-deeps (8) <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>&ensp;Undead (1st attack) --- 3 strikes with 8 prowess; <br>&ensp;(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Any Undead creature may also be keyed to this site. 
 > 
 > {: .balrog-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>

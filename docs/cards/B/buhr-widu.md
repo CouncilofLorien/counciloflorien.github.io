@@ -25,7 +25,7 @@ permalink: /cards/buhr-widu/
 > Southern Rhovanion
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Troll --- 1 strike with 10 prowess <br>_**Special:**_ This site is always returned to the location deck, never to the discard pile. 
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Troll --- 1 strike with 10 prowess <br>_**Special:**_ This site is always returned to the location deck, never to the discard pile. 
 > > 
 > > {: .fs-3 } 
 > > _“...from their tree-felling they created the grassy East Blight, where stood Buhr Widu, their lord's hold and capital."_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -48,7 +48,7 @@ permalink: /cards/buhr-widu/
 > Southern Rhovanion
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Troll --- 1 strike with 10 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Troll --- 1 strike with 10 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...there, in Mirkwood's East Blight, stood the ancient capital of a Northman Kingdom."_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -71,7 +71,7 @@ permalink: /cards/buhr-widu/
 > Southern Rhovanion
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Troll-1 strike with 10 prowess <br>_**Special:**_ This site is always returned to the location deck, never to the discard pile. 
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Troll --- 1 strike with 10 prowess <br>_**Special:**_ This site is always returned to the location deck, never to the discard pile. 
 > > 
 > > {: .fs-3 } 
 > > _“...from their tree-felling they created the grassy East Blight, where stood Buhr Widu, their lord's hold and capital."_ ***---&#65279;Kuduk&nbsp;Lore*** 

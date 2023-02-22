@@ -25,7 +25,7 @@ permalink: /cards/gladden-fields/
 > Anduin Vales
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Undead --- 1 strike with 8 prowess; each character wounded must make a corruption check  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Undead --- 1 strike with 8 prowess; each character wounded must make a corruption check  
 > > 
 > > {: .fs-3 } 
 > > _“...where there were great beds of iris and flowering reeds."_ ***---&#65279;LotRI*** 
@@ -48,7 +48,7 @@ permalink: /cards/gladden-fields/
 > Anduin Vales
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Undead --- 1 strike with 8 prowess; each character wounded must make a corruption check  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Undead --- 1 strike with 8 prowess; each character wounded must make a corruption check  
 > > 
 > > {: .fs-3 } 
 > > _“...where there were great beds of iris and flowering reeds."_ ***---&#65279;LotRI*** 
@@ -71,7 +71,7 @@ permalink: /cards/gladden-fields/
 > Anduin Vales
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Undead --- 1 strike with 8 prowess; each character wounded must make a corruption check modified by -2  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Undead --- 1 strike with 8 prowess; each character wounded must make a corruption check modified by -2  
 > > 
 > > {: .fs-3 } 
 > > _“‘And there in the dark pools amidst the Gladden Fields...the Ring passed out of knowledge and legend...”_ ***---&#65279;LotRI*** 
@@ -94,7 +94,7 @@ permalink: /cards/gladden-fields/
 > Anduin Vales
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Undead - 1 strike with 8 prowess; each character wounded must make a corruption check  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Undead --- 1 strike with 8 prowess; each character wounded must make a corruption check  
 > > 
 > > {: .fs-3 } 
 > > _“...where there were great beds of iris and flowering reeds."_ ***---&#65279;LotRI*** 

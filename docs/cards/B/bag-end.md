@@ -71,7 +71,7 @@ permalink: /cards/bag-end/
 > The Shire
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Information, Items (minor, major, greater\*, gold ring) <br>\*---hero item only <br>_**Automatic-attacks (2):**_<br>  (1st) Hobbits --- 5 strikes with 5 prowess<br>(2nd) Dunedain --- 3 strikes with 11 prowess 
+> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Information, Items (minor, major, greater\*, gold ring) <br>\*---hero item only <br>_**Automatic-attacks (2):**_<br>&ensp;(1st) Hobbits --- 5 strikes with 5 prowess<br>&ensp;(2nd) Dunedain --- 3 strikes with 11 prowess 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>
@@ -91,7 +91,7 @@ permalink: /cards/bag-end/
 > The Shire
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Information, Items (minor, major, greater*, gold ring) *-hero item only <br>_**Automatic-attacks (2):**_<br>  (1st) Hobbits-5 strikes with 5 prowess (2nd) Dunedain-3 strikes with 11 prowess 
+> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Information, Items (minor, major, greater*, gold ring) <br>\*---hero item only <br>_**Automatic-attacks (2):**_<br>&ensp;(1st) Hobbits --- 5 strikes with 5 prowess <br>&ensp;(2nd) Dunedain --- 3 strikes with 11 prowess 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>

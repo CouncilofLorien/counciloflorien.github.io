@@ -25,7 +25,7 @@ permalink: /cards/irerock/
 > Withered Heath
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon --- 1 strike with 14 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Dragon --- 1 strike with 14 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“The wind was on the withered heath...and like a tide it roared and rolled...and swept above the dragon's lair...”_ ***---&#65279;Hob*** 
@@ -48,7 +48,7 @@ permalink: /cards/irerock/
 > Withered Heath
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon --- 1 strike with 14 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Dragon --- 1 strike with 14 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“The wind was on the withered heath...and like a tide it roared and rolled...and swept above the dragon's lair...”_ ***---&#65279;Hob*** 
@@ -71,7 +71,7 @@ permalink: /cards/irerock/
 > Withered Heath
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon --- 1 strike with 14 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Dragon --- 1 strike with 14 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘Its name is well given, for if you survive the climb and the cold and the wind, the worm awaits."_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -94,7 +94,7 @@ permalink: /cards/irerock/
 > Withered Heath
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon-1 strike with 14 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Dragon --- 1 strike with 14 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘Its name is well given, for if you survive the climb and the cold and the wind, the worm awaits."_ ***---&#65279;Kuduk&nbsp;Lore*** 

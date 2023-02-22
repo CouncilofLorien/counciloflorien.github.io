@@ -48,7 +48,7 @@ permalink: /cards/dwar-the-ringwraith/
 > Warrior/Scout/Sage Ringwraith
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ Manifestation of Dwar of Waw. Can use sorcery. -3 direct influence in Heralded Lord mode. -1 prowess in Fell Rider mode. As your Ringwraith, if at a Darkhaven <nobr>[<img src="/assets/images/dark-haven.svg">]</nobr>, he may tap to give +1 prowess and +1 body to any one of your companies until the end of the turn.   
+> > _**Unique.**_ Manifestation of Dwar of Waw. Can use sorcery. -3 direct influence in Heralded Lord mode. -1 prowess in Fell Rider mode. As your Ringwraith, if at a Darkhaven <nobr>[<img src="/assets/images/dark-haven.svg">]</nobr>, he may tap to give +1 prowess and +1 body to all characters in any one of your companies until the end of the turn.   
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Any site in Udun 

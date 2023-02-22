@@ -71,7 +71,7 @@ permalink: /cards/lake-town/
 > Northern Rhovanion
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Men --- each character faces 1 strike with 6 prowess (detainment against covert company)  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br>&ensp;Men --- each character faces 1 strike with 6 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
 > > _“...tall piles on which were built the greater houses, and...long wooden quays with many steps and ladders going down to the surface of the lake."_ ***---&#65279;Hob*** 

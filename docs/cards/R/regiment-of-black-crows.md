@@ -42,5 +42,5 @@ permalink: /cards/regiment-of-black-crows/
 > Ally
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable at a tapped or untapped non-Under-deeps Ruins and Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr>. May not be attacked. Discard this ally if controlling character is wounded. Tap this ally to cancel a hazard creature attack not keyed to a site and to put the creature's card back into its player's hand. Cannot be duplicated on a given company. 
+> > Playable at a tapped or untapped non-Under-deeps Ruins and Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr>. May not be attacked. Discard this ally if its controlling character is wounded. Tap this ally to cancel a hazard creature attack not keyed to a site and to put the creature's card back into its player's hand. Cannot be duplicated on a given company. 
 > 

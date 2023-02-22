@@ -65,7 +65,7 @@ permalink: /cards/rivendell/
 > Rhudaur
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Information, Items (minor, major, greater, gold ring) <br>_**Automatic-attacks (2):**_<br>  Elves --- 4 strikes with 8 prowess; <br>Dunedain --- 3 strikes with 10 prowess <br>_**Special:**_ Any company moving to this site has its hazard limit increased by 2. A minion company may not attack another company at this site. A Ringwraith may not move to this site. 
+> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Information, Items (minor, major, greater, gold ring) <br>_**Automatic-attacks (2):**_<br>&ensp;Elves --- 4 strikes with 8 prowess; <br>&ensp;Dunedain --- 3 strikes with 10 prowess <br>_**Special:**_ Any company moving to this site has its hazard limit increased by 2. A minion company may not attack another company at this site. A Ringwraith may not move to this site. 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>

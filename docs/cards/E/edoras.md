@@ -71,7 +71,7 @@ permalink: /cards/edoras/
 > Rohan
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men --- each character faces 1 strike with 10 prowess (detainment against covert company)   
+> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Men --- each character faces 1 strike with 10 prowess (detainment against covert company)   
 > > 
 > > {: .fs-3 } 
 > > _“‘I see a white stream that comes down from the snows...Where it issues from the shadow of the vale a green hill rises upon the east. A dike and mighty wall and thorny fence encircle it.’”_ ***---&#65279;LotRIII*** 
@@ -114,10 +114,10 @@ permalink: /cards/edoras/
 > Rohan
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 10 prowess (detainment against covert company)   
+> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Men --- each character faces 1 strike with 10 prowess (detainment against covert company)   
 > > 
 > > {: .fs-3 } 
-> > _“‘I see a white stream that comes down from the snows...where it issues from the shadow of the vale a green hill rises upon the east. A dike and mighty wall and thorny fence encircle it.’”_ ***---&#65279;LotRIII*** 
+> > _“‘I see a white stream that comes down from the snows...Where it issues from the shadow of the vale a green hill rises upon the east. A dike and mighty wall and thorny fence encircle it.’”_ ***---&#65279;LotRIII*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>

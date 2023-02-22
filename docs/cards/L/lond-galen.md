@@ -71,7 +71,7 @@ permalink: /cards/lond-galen/
 > Anfalas
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Geann a-Lisch <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men --- each character faces 1 strike with 6 prowess (detainment against covert company)  
+> > ***Nearest Darkhaven:*** Geann a-Lisch <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Men --- each character faces 1 strike with 6 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
 > > _“In the years of their power the Numeroreans had maintained many forts and havens upon the western coasts of Middle-earth...”_ ***---&#65279;LotR*** 
@@ -97,7 +97,7 @@ permalink: /cards/lond-galen/
 > > _**Nearest Haven:**_ Edhellond  
 > > 
 > > {: .fs-3 } 
-> > _“‘Or we might pass by and cross the Isen into Langstrans and Lebennin, and so come to Gondo from the regions nigh to the sea.’”_ ***---&#65279;LotRII*** 
+> > _“‘Or we might pass by and cross the Isen into Langstrand and Lebennin, and so come to Gondor from the regions nigh to the sea.’”_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>

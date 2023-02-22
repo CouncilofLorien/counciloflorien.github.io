@@ -36,7 +36,7 @@ permalink: /cards/sudden-call/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > You may play this card as a resource or a hazard according to The Audience of Sauron Rules. This card may not be played as a hazard against a Wizard player, and may be included as a hazard in a Wizard's deck. You may reshuffle this card into your play deck at any time that it is in your hand (show opponent). 
+> > You may play this card as a resource or a hazard according to The Audience of Sauron Rules. This card may not be played as a hazard against a Wizard player, and may be included as a hazard in a Wizard's deck. You may reshuffle this card into you play deck at any time that it is in your hand (show opponent). 
 > 
 
 ### _Middle-earth: The Balrog Reprint_
@@ -50,5 +50,5 @@ permalink: /cards/sudden-call/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > You may play this card as a resource or a hazard according to The Audience of Sauron Rules. This card may not be played as a hazard against a Wizard player, and may be included as a hazard in a Wizard's deck. You may reshuffle this card into your play deck at any time that it is in your hand (show opponent). 
+> > You may play this card as a resource or a hazard according to The Audience of Sauron Rules. This card may not be played as a hazard against a Wizard player, and may be included as a hazard in a Wizard's deck. You may reshuffle this card into you play deck at any time that it is in your hand (show opponent). 
 > 

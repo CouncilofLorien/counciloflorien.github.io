@@ -77,7 +77,7 @@ permalink: /cards/saruman/
 > Scout/Ranger/Sage/Diplomat Wizard
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ May tap to use a palantir. <br>&ensp;At the beginning of each of his end-of-turn phases, he may tap to take one "spell" card from his discard pile and return it to his hand. 
+> > _**Unique.**_ May tap to use a Palantir. <br>&ensp;At the beginning of each of his end-of-turn phases, he may tap to take one "spell" card from his discard pile and return it to his hand. 
 > > 
 > > {: .fs-3 } 
 > > _“His face was long, with a high forehead, he had deep darkling eyes, hard to fathom...”_ ***---&#65279;LotRIII***  

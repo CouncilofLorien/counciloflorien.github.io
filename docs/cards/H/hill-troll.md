@@ -28,7 +28,7 @@ permalink: /cards/hill-troll/
 > > _Balrog specific._ Discard on a body check result of 7.   
 > > 
 > > {: .fs-3 } 
-> > _“...clad only in close-fitting mesh of horny scales, or maybe that was their hideous hide: but they bore round bucklers huge and black and wielded heavy hammers in their knotted hands."_ ***---&#65279;LotRV***  
+> > _“...clad only in close-fitting mesh of horny scales, or maybe that was their hideous hide; but they bore round bucklers huge and black and wielded heavy hammers in their knotted hands."_ ***---&#65279;LotRV***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** any non-Dark-hold Under-deeps site 

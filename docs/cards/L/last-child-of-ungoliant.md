@@ -45,7 +45,7 @@ permalink: /cards/last-child-of-ungoliant/
 > Sage Ally
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Shelod's Lair. Manifestation of Shelob. Tap this ally to either: cancel one hazard creature attack against a company moving to a site in Imlad Morgul, Ithilien, or Gorgoroth, or to discard one hazard permanent-event on such a company or on a character in such a company. Discard this card if her company moves to a site that is not in Imlad Morgul, Ithilien, or Gorgoroth. Return her to your hand is Shelob is played. 
+> > _**Unique.**_ ***Playable at Shelob's Lair.*** _Manifestation of Shelob._ Tap this ally to either: cancel one hazard creature attack against a company moving to a site in Imlad Morgul, Ithilien, or Gorgoroth, or to discard one hazard permanent-event on such a company or on a character in such a company. Discard this card if her company moves to a site that is not in Imlad Morgul, Ithilien, or Gorgoroth. Return her to your hand if _Shelob_ is played. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 11/9 】</div>

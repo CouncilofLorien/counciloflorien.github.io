@@ -71,7 +71,7 @@ permalink: /cards/variag-camp/
 > Khand
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Automatic-attacks:**_<br> Men --- each character faces 1 strike with 5 prowess (detainment against covert company)  
+> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Automatic-attacks:**_<br>&ensp;Men --- each character faces 1 strike with 5 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
 > > _“...a great peril to Gondor...a threat to the fiefs of the south that would prove deadly..."_ ***---&#65279;LotR*** 

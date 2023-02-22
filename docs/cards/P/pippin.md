@@ -80,7 +80,7 @@ permalink: /cards/pippin/
 > > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +2. 
 > > 
 > > {: .fs-3 } 
-> > _“...then there came a faint glow...and it held his eyes, so that now he could be look away."_ ***---&#65279;LotRIII***  
+> > _“...then there came a faint glow...and it held his eyes, so that now he could not look away."_ ***---&#65279;LotRIII***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Bag End 

@@ -28,7 +28,7 @@ permalink: /cards/blazon-of-the-eye/
 > > +2 to direct influence against factions. Cannot be duplicated on a given character. 
 > > 
 > > {: .fs-3 } 
-> > _“...and a single banner, black but bearing on it in red the evil Eye."_ ***---&#65279;LotRV***
+> > _“...and a single banner, black but bearing on it in red the evil Eye."_ ***---&#65279;LotV***
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -51,7 +51,7 @@ permalink: /cards/blazon-of-the-eye/
 > > +2 to direct influence against factions. Cannot be duplicated on a given character. 
 > > 
 > > {: .fs-3 } 
-> > _“...and a single banner, black but bearing on it in red the evil Eye."_ ***---&#65279;LotRV***
+> > _“...and a single banner, black but bearing on it in red the evil Eye."_ ***---&#65279;LotV***
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

@@ -25,7 +25,7 @@ permalink: /cards/urlurtsu-nurn/
 > Nurn
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs --- 4 strikes with 7 prowess  
+> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 4 strikes with 7 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“Neither he nor Frodo knew anything of the great slave-worked fields away to the south in this wide realm, beyond the fumes of the Mountain by the sad waters of Lake Nurnen...”_ ***---&#65279;LotRVI*** 

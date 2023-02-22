@@ -59,5 +59,5 @@ permalink: /cards/the-old-thrush/
 > > -3 to the prowess and body of a non-Nazgul attack with a normal prowess of 13 or more. Cannot be duplicated on a given attack. 
 > > 
 > > {: .fs-3 } 
-> > _“Suddenly out of the dark something fluttered to his shoulder. 'Wait! Wait!' it said to him. 'The moon is rising. Look for the hollow of the left breast as he flies and turns above you!’” ***---&#65279;Hob***  
+> > _“Suddenly out of the dark something fluttered to his shoulder. 'Wait! Wait!' it said to him. 'The moon is rising. Look for the hollow of the left breast as he flies and turns above you!’”_ ***---&#65279;Hob***  
 > 

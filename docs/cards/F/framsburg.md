@@ -25,7 +25,7 @@ permalink: /cards/framsburg/
 > Anduin Vales
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br> When a company enters this site, opponent may play one creature from his hand that is treated in all ways as the site's automatic-attack (if defeated, creature is discarded). It must normally be playable keyed to a Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr>, Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr>, single Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr>, or Shadow-land <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr>. <br>_**Special:**_ Contains a hoard. 
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br>&ensp;When a company enters this site, opponent may play one creature from his hand that is treated in all ways as the site's automatic-attack (if defeated, creature is discarded). It must normally be playable keyed to a Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr>, Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr>, single Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr>, or Shadow-land <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr>. <br>_**Special:**_ Contains a hoard. 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/framsburg/
 > Anduin Vales
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br> Men --- 1 strike with 10 prowess <br>_**Special:**_ The first minor item played at this site each turn does not tap the site. Contains a hoard. 
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br>&ensp;Men --- 1 strike with 10 prowess <br>_**Special:**_ The first minor item played at this site each turn does not tap the site. Contains a hoard. 
 > > 
 > > {: .fs-3 } 
 > > _“...they...drove away the remnants of the people of Angmar on the east side of the Mountains."_ ***---&#65279;LotR*** 

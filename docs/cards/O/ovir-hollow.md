@@ -25,7 +25,7 @@ permalink: /cards/ovir-hollow/
 > Grey Mountain Narrows
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Dragon --- 1 strike with 12 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Dragon --- 1 strike with 12 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...tucked in a ring of volcanic rock within a high vale and surrounded by a natural, flower-filled moat."_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -48,7 +48,7 @@ permalink: /cards/ovir-hollow/
 > Grey Mountain Narrows
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur  <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Dragon --- 1 strike with 12 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur  <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Dragon --- 1 strike with 12 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“From out of the hollow came a cry, the song of an angry white bear, a warning of cold doom."_ ***---&#65279;Kuduk&nbsp;Lore*** 

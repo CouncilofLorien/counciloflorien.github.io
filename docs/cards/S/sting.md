@@ -22,7 +22,7 @@ permalink: /cards/sting/
 > Minor Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ _Weapon._ +1 prowess to a maximum of 8., +2 to a Hobbit's prowess to maximum of 8. 
+> > _Unique._ _Weapon._ +1 prowess to a maximum of 8, +2 to a Hobbit's prowess to maximum of 8. 
 > > 
 > > {: .fs-3 } 
 > > _“Sting flashed out, and the sharp elven-blade sparkled in the silver light, but at its edges a blue fire flickered."_ ***---&#65279;LotRIV*** 

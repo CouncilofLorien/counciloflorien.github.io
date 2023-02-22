@@ -25,7 +25,7 @@ permalink: /cards/gobel-mirlond/
 > Harondor
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Items (minor, major\*) <br>\*---weapon, armor, shield, or helmet only <br>_**Automatic-attacks:**_<br> Men --- each character faces 1 strike with 8 prowess (detainment against covert company)  
+> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Items (minor, major\*) <br>\*---weapon, armor, shield, or helmet only <br>_**Automatic-attacks:**_<br>&ensp;Men --- each character faces 1 strike with 8 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
 > > _“...one of the most ancient Numenorean colonies along the Bay of Belfalas, founded during the noontide of Numernor's imperial expansion."_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -48,7 +48,7 @@ permalink: /cards/gobel-mirlond/
 > Harondor
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Men --- 4 strikes with 9 prowess (detainment)   
+> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Men --- 4 strikes with 9 prowess (detainment)   
 > > 
 > > {: .fs-3 } 
 > > _“...could be seen in clear weather even on the coasts of Gondor or far upon the western sea."_ ***---&#65279;LotR*** 
@@ -71,7 +71,7 @@ permalink: /cards/gobel-mirlond/
 > Harondor
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Men-4 strikes with 9 prowess (detainment)   
+> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Men --- 4 strikes with 9 prowess (detainment)   
 > > 
 > > {: .fs-3 } 
 > > _“...could be seen in clear weather even on the coasts of Gondor or far upon the western sea."_ ***---&#65279;LotR*** 

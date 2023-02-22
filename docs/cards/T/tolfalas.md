@@ -25,7 +25,7 @@ permalink: /cards/tolfalas/
 > Mouths of the Anduin
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Undead --- 3 strikes with 7 prowess; each character wounded must make a corruption check
+> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br>&ensp;Undead --- 3 strikes with 7 prowess; each character wounded must make a corruption check
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -45,7 +45,7 @@ permalink: /cards/tolfalas/
 > Mouths of the Anduin
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Undead --- 3 strikes with 7 prowess; each character wounded must make a corruption check  
+> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br>&ensp;Undead --- 3 strikes with 7 prowess; each character wounded must make a corruption check  
 > > 
 > > {: .fs-3 } 
 > > _“Tolfalas, the great Coastal Island, ...guards the heartland of Gondor...”_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -68,7 +68,7 @@ permalink: /cards/tolfalas/
 > Mouths of the Anduin
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Items (minor, major, greater\*) <br>&ensp;\*---_Scroll of Isildur_ only <br>_**Automatic-attacks:**_<br> Undead --- 3 strikes with 7 prowess, each character wounded must make a corruption check modified by -2 <br>_**Special:**_ An overt company must tap an untapped character (if available) if this site is revealed as a new site.  
+> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Items (minor, major, greater\*) <br>&ensp;\*---_Scroll of Isildur_ only <br>_**Automatic-attacks:**_<br>&ensp;Undead --- 3 strikes with 7 prowess, each character wounded must make a corruption check modified by -2 <br>_**Special:**_ An overt company must tap an untapped character (if available) if this site is revealed as a new site.  
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -88,7 +88,7 @@ permalink: /cards/tolfalas/
 > Mouths of the Anduin
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major, greater\*) \*-Scroll of Isildur only <br>_**Automatic-attacks:**_<br> Undead - 3 strikes with 7 prowess; each character wounded must make a corruption check  
+> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major, greater\*) \*-Scroll of Isildur only <br>_**Automatic-attacks:**_<br>&ensp;Undead --- 3 strikes with 7 prowess; each character wounded must make a corruption check  
 > > 
 > > {: .fs-3 } 
 > > _“Tolfalas, the great Coastal Island, ...guards the heartland of Gondor...”_ ***---&#65279;Kuduk&nbsp;Lore*** 

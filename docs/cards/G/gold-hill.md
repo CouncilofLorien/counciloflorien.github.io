@@ -25,7 +25,7 @@ permalink: /cards/gold-hill/
 > Withered Heath
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon --- 1 strike with 15 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Dragon --- 1 strike with 15 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...a steep, ore-rich knoll situated amidst a dry lake in the Withered Heath's southeastern lowlands."_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -48,7 +48,7 @@ permalink: /cards/gold-hill/
 > Withered Heath
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon --- 1 strike with 15 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Dragon --- 1 strike with 15 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘Up there, in the lone peak, you'll find more than just ice and rock. It's full of gold! Of course, there's a price...’”_ ***---&#65279;Kuduk&nbsp;Lore*** 

@@ -97,7 +97,7 @@ permalink: /cards/ambusher/
 > > _Men._ Two strikes. Attacker chooses defending characters. 
 > > 
 > > {: .fs-3 } 
-> > _“...stealing up the slopes, singly or in long files, keeping always to the shade of the grove or thicket,or crawling, hardly visible in their brown and green raiment, through grass and brake."_ ***---&#65279;LotRII*** 
+> > _“...stealing up the slopes, singly or in long files, keeping always to the shade of the grove or thicket, or crawling, hardly visible in their brown and green raiment, through grass and brake."_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 10/&ndash; 】</div>

@@ -71,7 +71,7 @@ permalink: /cards/henneth-annun/
 > Ithilien
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Automatic-attacks:**_<br> Dunedain --- each character faces 1 strike with 7 prowess (detainment against covert company)  
+> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Automatic-attacks:**_<br>&ensp;Dunedain --- each character faces 1 strike with 7 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
 > > _“It faced westward. The level shafts of the setting sun beat upon it, and the red light was broken into many flickering beams of ever-changing colour"_ ***---&#65279;LotRIV*** 

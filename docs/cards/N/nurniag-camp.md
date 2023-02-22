@@ -48,7 +48,7 @@ permalink: /cards/nurniag-camp/
 > Nurn
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br> Men --- 4 strikes with 7 prowess  
+> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Men --- 4 strikes with 7 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘With spring comes water and flowers and festivals, where their little horses and precious arrows perform miracles.’”_ ***---&#65279;Kuduk&nbsp;Lore*** 

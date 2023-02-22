@@ -3462,7 +3462,7 @@ permalink: /cards/all/
 > Minor Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ _Weapon._ +1 prowess to a maximum of 8., +2 to a Hobbit's prowess to maximum of 8. 
+> > _Unique._ _Weapon._ +1 prowess to a maximum of 8, +2 to a Hobbit's prowess to maximum of 8. 
 > > 
 > > {: .fs-3 } 
 > > _“Sting flashed out, and the sharp elven-blade sparkled in the silver light, but at its edges a blue fire flickered."_ ***---&#65279;LotRIV*** 
@@ -7131,7 +7131,7 @@ permalink: /cards/all/
 > Rohan
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Information, Items (minor) <br>_**Automatic-attacks:**_<br> Undead --- 1 strike with 6 prowess; each character wounded must make a corruption check  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Information, Items (minor) <br>_**Automatic-attacks:**_<br>&ensp;Undead --- 1 strike with 6 prowess; each character wounded must make a corruption check  
 > > 
 > > {: .fs-3 } 
 > > _“...the Hill of the Eye of the Men of Numenor."_ ***---&#65279;LotRII*** 
@@ -7177,7 +7177,7 @@ permalink: /cards/all/
 > Brown Lands
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Men --- 3 strikes with 6 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Men --- 3 strikes with 6 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...There were all the baggages and packages lying broken open, and being rummaged by goblins, and smelt by goblins, and fingered by goblins, and quarreled over by goblins."_ ***---&#65279;Hob*** 
@@ -7200,7 +7200,7 @@ permalink: /cards/all/
 > Gorgoroth
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br> Orcs --- 4 strikes with 7 prowess <br>Trolls --- 3 strikes with 9 prowess <br>_**Special:**_ Any company moving to Barad-dur has its hazard limit modified by +2. 
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br>&ensp;Orcs --- 4 strikes with 7 prowess <br>&ensp;Trolls --- 3 strikes with 9 prowess <br>_**Special:**_ Any company moving to Barad-dur has its hazard limit modified by +2. 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;3&ensp;</span><span class="hero-opp-draw">&ensp;6&ensp;</span></div>
@@ -7220,7 +7220,7 @@ permalink: /cards/all/
 > Cardolan
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Undead --- 1 strike with 8 prowess; each character wounded must make a corruption check  
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Undead --- 1 strike with 8 prowess; each character wounded must make a corruption check  
 > > 
 > > {: .fs-3 } 
 > > _“...the green mounds, and the stone-rings upon the hills and on the hollows...”_ ***---&#65279;LotRI*** 
@@ -7335,7 +7335,7 @@ permalink: /cards/all/
 > Angmar
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Orcs --- 4 strikes with 7 prowess  
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 4 strikes with 7 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...They were foes of the Dark Lord, but they were overcome by the evil king of Carn Dum in the Land of Angmar."_ ***---&#65279;LotRI*** 
@@ -7358,7 +7358,7 @@ permalink: /cards/all/
 > Withered Heath
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon --- 1 strike with 13 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Dragon --- 1 strike with 13 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“That...is the dangerous part about caves: you don't know how far they go back...or what is waiting for you inside."_ ***---&#65279;Hob*** 
@@ -7381,7 +7381,7 @@ permalink: /cards/all/
 > Imlad Morgul
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Orcs --- 4 strike with 7 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 4 strike with 7 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...three great tiers...jutted out in pointed bastions, one above the other, diminishing as they rose, with sheer sides of cunning masonry...”_ ***---&#65279;LotRVI*** 
@@ -7404,7 +7404,7 @@ permalink: /cards/all/
 > Withered Heath
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon --- 2 strikes with 11 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Dragon --- 2 strikes with 11 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...for those mountains were rich and little explored."_ ***---&#65279;LotR*** 
@@ -7427,7 +7427,7 @@ permalink: /cards/all/
 > Dagorlad
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Undead --- 2 strikes with 8 prowess; each character wounded must make a corruption check  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br>&ensp;Undead --- 2 strikes with 8 prowess; each character wounded must make a corruption check  
 > > 
 > > {: .fs-3 } 
 > > _“...opening into wide stagnant meres,...difficult to find the firmer places...”_ ***---&#65279;LotRIV*** 
@@ -7450,7 +7450,7 @@ permalink: /cards/all/
 > Redhorn Gate
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Orcs --- 1 strike with 6 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 1 strike with 6 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“Northward the dale ran up into a glen of shadows between two great arms of the mountains, above which three white peaks were shining...”_ ***---&#65279;LotRII*** 
@@ -7496,7 +7496,7 @@ permalink: /cards/all/
 > Southern Mirkwood
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br> Orcs --- 3 strikes with 7 prowess <br>Trolls --- 2 strikes with 8 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br>&ensp;Orcs --- 3 strikes with 7 prowess <br>&ensp;Trolls --- 2 strikes with 8 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘...In the midst upon a stony height stands Dol Guldur, where long the Enemy had his dwelling...’”_ ***---&#65279;LotRII*** 
@@ -7677,7 +7677,7 @@ permalink: /cards/all/
 > Rhudaur
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br> Troll --- 1 strike with 9 prowess  
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br>&ensp;Troll --- 1 strike with 9 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘We have now come to the River Hoarwell...It flows down out of the Ettenmoors, the troll-fells north of Rivendell...’”_ ***---&#65279;LotRI*** 
@@ -7700,7 +7700,7 @@ permalink: /cards/all/
 > Anduin Vales
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Undead --- 1 strike with 8 prowess; each character wounded must make a corruption check  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Undead --- 1 strike with 8 prowess; each character wounded must make a corruption check  
 > > 
 > > {: .fs-3 } 
 > > _“...where there were great beds of iris and flowering reeds."_ ***---&#65279;LotRI*** 
@@ -7723,7 +7723,7 @@ permalink: /cards/all/
 > Gap of Isen
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Pukel-man --- 1 strike with 9 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Pukel-man --- 1 strike with 9 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘...columns of white and saffron and dawn-rose...glistening pendants of the roof: wings, ropes, curtains fine as frozen clouds...pinnacles of suspended palaces!’”_ ***---&#65279;LotRIII*** 
@@ -7746,7 +7746,7 @@ permalink: /cards/all/
 > High Pass
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Orcs --- 3 strikes with 6 prowess  
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 3 strikes with 6 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“It was deep, deep dark, such as only goblins...living in the heart of the mountains can see through. The passages there were crossed and tangled in all directions...”_ ***---&#65279;Hob*** 
@@ -7812,7 +7812,7 @@ permalink: /cards/all/
 > Elven Shores
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Grey Havens <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Undead --- 1 strike with 8 prowess; each character wounded must make a corruption check  
+> > _**Nearest Haven:**_ Grey Havens <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Undead --- 1 strike with 8 prowess; each character wounded must make a corruption check  
 > > 
 > > {: .fs-3 } 
 > > _“...on starless waters far astray...and foundered shores that drowned...”_ ***---&#65279;LotRII*** 
@@ -7835,7 +7835,7 @@ permalink: /cards/all/
 > Withered Heath
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon --- 1 strike with 14 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Dragon --- 1 strike with 14 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“The wind was on the withered heath...and like a tide it roared and rolled...and swept above the dragon's lair...”_ ***---&#65279;Hob*** 
@@ -7881,7 +7881,7 @@ permalink: /cards/all/
 > Gap of Isen
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br> Wolves --- 3 strikes with 7 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Wolves --- 3 strikes with 7 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...four mighty piers of many-sided stone were welded into one, but near the summit they opened into gaping horns, their pinnacles sharp as the points of spears..."_ ***---&#65279;LotRIII*** 
@@ -7904,7 +7904,7 @@ permalink: /cards/all/
 > Eriadoran Coast
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Grey Havens <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br> Undead --- 2 strikes with 8 prowess; each character wounded must make a corruption check  
+> > _**Nearest Haven:**_ Grey Havens <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Undead --- 2 strikes with 8 prowess; each character wounded must make a corruption check  
 > > 
 > > {: .fs-3 } 
 > > _“Tinuviel was dancing there <br>To music of a pipe unseen...”_ ***---&#65279;LotRI*** 
@@ -7993,7 +7993,7 @@ permalink: /cards/all/
 > Forochel
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major, greater\*) <br>\*---Palantiri Only <br>_**Automatic-attacks:**_<br> Undead --- 2 strikes with 8 prowess; each character wounded must make a corruption check 
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major, greater\*) <br>\*---Palantiri Only <br>_**Automatic-attacks:**_<br>&ensp;Undead --- 2 strikes with 8 prowess; each character wounded must make a corruption check 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -8036,7 +8036,7 @@ permalink: /cards/all/
 > Imlad Morgul
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Undead --- 3 strikes with 8 prowess; each character wounded must make a corruption check  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br>&ensp;Undead --- 3 strikes with 8 prowess; each character wounded must make a corruption check  
 > > 
 > > {: .fs-3 } 
 > > _“...its cavernous gate, shaped like an open mouth with gleaming teeth...”_ ***---&#65279;LotRIV*** 
@@ -8082,7 +8082,7 @@ permalink: /cards/all/
 > Redhorn Gate
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Orcs --- 4 strikes with 7 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 4 strikes with 7 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“In the pale ray of the wizard's staff...glimpses of stairs and arches, and of other passages and tunnels...”_ ***---&#65279;LotRII*** 
@@ -8128,7 +8128,7 @@ permalink: /cards/all/
 > Angmar
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs --- 3 strikes with 6 prowess  
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 3 strikes with 6 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“He charged the ranks of the goblins of Mount Gram in the Battle of the Green Fields, and knocked their king Golfimbul's head clean off with a wooden club."_ ***---&#65279;Hob*** 
@@ -8151,7 +8151,7 @@ permalink: /cards/all/
 > Gundabad
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Orcs --- 2 strikes with 8 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 2 strikes with 8 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...around and beneath the great mountain Gundabad of the North...a vast host was assembled...”_ ***---&#65279;Hob*** 
@@ -8197,7 +8197,7 @@ permalink: /cards/all/
 > Hollin
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Wolves --- 3 strikes with 5 prowess  
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Wolves --- 3 strikes with 5 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘There is a wholesome air about Hollin. Much evil must befall a country before it wholly forgets the Elves, if once they dwelt there.’”_ ***---&#65279;LotRII*** 
@@ -8286,7 +8286,7 @@ permalink: /cards/all/
 > Enedhwaith
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Spiders --- 2 strikes with 8 prowess  
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Spiders --- 2 strikes with 8 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘But long before, in the first days of the North Kingdom, they built a great watch-tower... It was burned down and broken, and nothing remains of it now but a tumbled ring...’”_ ***---&#65279;LotRI*** 
@@ -8309,7 +8309,7 @@ permalink: /cards/all/
 > Heart of Mirkwood
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs --- 3 strikes with 5 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 3 strikes with 5 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...there, parting the tumbling waters of the Enchanted River, stood a shadowy spire that served as fast hold for those who would remake the great Greenwood."_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -8332,7 +8332,7 @@ permalink: /cards/all/
 > Imlad Morgul
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs --- 2 strikes with 8 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 2 strikes with 8 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...the air was still, stagnant, heavy, and sound fell dead. They walked...in a black vapour wrought of veritable darkness itself that, as it breathed, brought blindness...”_ ***---&#65279;LotRIV*** 
@@ -8381,7 +8381,7 @@ permalink: /cards/all/
 > > _**Nearest Haven:**_ Edhellond  
 > > 
 > > {: .fs-3 } 
-> > _“...his chief peril lay in the south, where the Haradrim had occupied South Gondor, and there was much fighting in along the Poros."_ ***---&#65279;LotR*** 
+> > _“...his chief peril lay in the south, where the Haradrim had occupied South Gondor, and there was much fighting along the Poros."_ ***---&#65279;LotR*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -8401,7 +8401,7 @@ permalink: /cards/all/
 > Old Pukel Gap
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Information, Items (minor) <br>_**Automatic-attacks:**_<br> Pukel-man --- 1 strike with 9 prowess  
+> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Information, Items (minor) <br>_**Automatic-attacks:**_<br>&ensp;Pukel-man --- 1 strike with 9 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“Stone rings grinned out of the ground like broken teeth in the moonlight."_ ***---&#65279;LotRI*** 
@@ -8424,7 +8424,7 @@ permalink: /cards/all/
 > Northern Rhovanion
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon --- 1 strike with 14 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Dragon --- 1 strike with 14 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“And far away, its dark head in a torn cloud, there loomed the Mountain! ...All alone it rose...”_ ***---&#65279;Hob*** 
@@ -8447,7 +8447,7 @@ permalink: /cards/all/
 > Andrast
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Pukel-men --- 2 strikes with 9 prowess  
+> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br>&ensp;Pukel-men --- 2 strikes with 9 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“Gold was piled on the biers of dead kings and queens; and mounds covered them, and the stone doors were shut; and grass grew over all."_ ***---&#65279;LotRI*** 
@@ -8470,7 +8470,7 @@ permalink: /cards/all/
 > Arthedain
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Automatic-attacks:**_<br> Wolves --- 2 strikes with 6 prowess 
+> > _**Nearest Haven:**_ Rivendell <br>_**Automatic-attacks:**_<br>&ensp;Wolves --- 2 strikes with 6 prowess 
 > > 
 > > {: .fs-3 } 
 > > _“Three Elf-towers of immemorial age were still to be seen beyond the western marches. They shone far off in the moonlight. The tallest was furthest away, standing alone upon a green hill."_ ***---&#65279;LotRI***
@@ -8493,7 +8493,7 @@ permalink: /cards/all/
 > Grey Mountain Narrows
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs --- 3 strikes with 7 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 3 strikes with 7 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...wind in the cracks and gullies of the rocky wall, but the sounds were those of shrill cries, and wild howls of laughter."_ ***---&#65279;LotRII*** 
@@ -8539,7 +8539,7 @@ permalink: /cards/all/
 > Mouths of the Anduin
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Undead --- 3 strikes with 7 prowess; each character wounded must make a corruption check
+> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br>&ensp;Undead --- 3 strikes with 7 prowess; each character wounded must make a corruption check
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -8605,7 +8605,7 @@ permalink: /cards/all/
 > Arthedain
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Wolves --- 2 strikes with 6 prowess  
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br>&ensp;Wolves --- 2 strikes with 6 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“On the top they found...a wide ring of ancient stone-work, now crumbling or covered with age-long grass. But in the centre a cairn of broken stones had been piled."_ ***---&#65279;LotRI*** 
@@ -11088,7 +11088,7 @@ permalink: /cards/all/
 > Warrior/Ranger/Sage Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against Wood-elves faction. 
+> > _**Unique.**_ +2 direct influence against the Wood-elves faction. 
 > > 
 > > {: .fs-3 } 
 > > _“In a great hall with pillars hewn out of the living stones sat the Elvenking on a chair of carven wood. On his head was a crown of berries and red leaves... In his hand he held a carven staff of oak."_ ***---&#65279;Hob***  
@@ -11166,7 +11166,7 @@ permalink: /cards/all/
 > > _**Unique.**_ +2 direct influence against the Woodmen faction. 
 > > 
 > > {: .fs-3 } 
-> > _“Grimbeorn the Old son of Beorn, counted him as his right hand...for Wacho was bold, ever-vigilant, and tirelessly roamed the mountains and forests by the Anduin Vales."_ ***---&#65279;Kuduk&nbsp;Lore***  
+> > _“Grimbeorn the Old, son of Beorn, counted him as his right hand...for Wacho was bold, ever-vigilant, and tirelessly roamed the mountains and forests by the Anduin Vales."_ ***---&#65279;Kuduk&nbsp;Lore***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Woodmen-town 
@@ -16474,7 +16474,7 @@ permalink: /cards/all/
 > Rohan
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Information, Items (minor) <br>_**Automatic-attacks:**_<br> Undead --- 1 strike with 6 prowess; each character wounded must make a corruption check  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Information, Items (minor) <br>_**Automatic-attacks:**_<br>&ensp;Undead --- 1 strike with 6 prowess; each character wounded must make a corruption check  
 > > 
 > > {: .fs-3 } 
 > > _“...the Hill of the Eye of the Men of Numenor."_ ***---&#65279;LotRII*** 
@@ -16520,7 +16520,7 @@ permalink: /cards/all/
 > Brown Lands
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Men --- 3 strikes with 6 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Men --- 3 strikes with 6 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...There were all the baggages and packages lying broken open, and being rummaged by goblins, and smelt by goblins, and fingered by goblins, and quarreled over by goblins."_ ***---&#65279;Hob*** 
@@ -16543,7 +16543,7 @@ permalink: /cards/all/
 > Gorgoroth
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br> Orcs --- 4 strikes with 7 prowess <br>Trolls --- 3 strikes with 9 prowess <br>_**Special:**_ Any company moving to Barad-dur has its hazard limit modified by +2. 
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br>&ensp;Orcs --- 4 strikes with 7 prowess <br>&ensp;Trolls --- 3 strikes with 9 prowess <br>_**Special:**_ Any company moving to Barad-dur has its hazard limit modified by +2. 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;3&ensp;</span><span class="hero-opp-draw">&ensp;6&ensp;</span></div>
@@ -16563,7 +16563,7 @@ permalink: /cards/all/
 > Cardolan
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Undead --- 1 strike with 8 prowess; each character wounded must make a corruption check  
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Undead --- 1 strike with 8 prowess; each character wounded must make a corruption check  
 > > 
 > > {: .fs-3 } 
 > > _“...the green mounds, and the stone-rings upon the hills and on the hollows...”_ ***---&#65279;LotRI*** 
@@ -16678,7 +16678,7 @@ permalink: /cards/all/
 > Angmar
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Orcs --- 4 strikes with 7 prowess  
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 4 strikes with 7 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...They were foes of the Dark Lord, but they were overcome by the evil king of Carn Dum in the Land of Angmar."_ ***---&#65279;LotRI*** 
@@ -16701,7 +16701,7 @@ permalink: /cards/all/
 > Withered Heath
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon --- 1 strike with 13 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Dragon --- 1 strike with 13 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“That...is the dangerous part about caves: you don't know how far they go back...or what is waiting for you inside."_ ***---&#65279;Hob*** 
@@ -16724,7 +16724,7 @@ permalink: /cards/all/
 > Imlad Morgul
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Orcs --- 4 strike with 7 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 4 strike with 7 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...three great tiers...jutted out in pointed bastions, one above the other, diminishing as they rose, with sheer sides of cunning masonry...”_ ***---&#65279;LotRVI*** 
@@ -16747,7 +16747,7 @@ permalink: /cards/all/
 > Withered Heath
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon --- 2 strikes with 11 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Dragon --- 2 strikes with 11 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...for those mountains were rich and little explored."_ ***---&#65279;LotR*** 
@@ -16770,7 +16770,7 @@ permalink: /cards/all/
 > Dagorlad
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Undead --- 2 strikes with 8 prowess; each character wounded must make a corruption check  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br>&ensp;Undead --- 2 strikes with 8 prowess; each character wounded must make a corruption check  
 > > 
 > > {: .fs-3 } 
 > > _“...opening into wide stagnant meres,...difficult to find the firmer places...”_ ***---&#65279;LotRIV*** 
@@ -16793,7 +16793,7 @@ permalink: /cards/all/
 > Redhorn Gate
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Orcs --- 1 strike with 6 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 1 strike with 6 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“Northward the dale ran up into a glen of shadows between two great arms of the mountains, above which three white peaks were shining...”_ ***---&#65279;LotRII*** 
@@ -16839,7 +16839,7 @@ permalink: /cards/all/
 > Southern Mirkwood
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br> Orcs --- 3 strikes with 7 prowess <br>Trolls --- 2 strikes with 8 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br>&ensp;Orcs --- 3 strikes with 7 prowess <br>&ensp;Trolls --- 2 strikes with 8 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘...In the midst upon a stony height stands Dol Guldur, where long the Enemy had his dwelling...’”_ ***---&#65279;LotRII*** 
@@ -17020,7 +17020,7 @@ permalink: /cards/all/
 > Rhudaur
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br> Troll --- 1 strike with 9 prowess  
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br>&ensp;Troll --- 1 strike with 9 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘We have now come to the River Hoarwell...It flows down out of the Ettenmoors, the troll-fells north of Rivendell...’”_ ***---&#65279;LotRI*** 
@@ -17043,7 +17043,7 @@ permalink: /cards/all/
 > Anduin Vales
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Undead --- 1 strike with 8 prowess; each character wounded must make a corruption check  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Undead --- 1 strike with 8 prowess; each character wounded must make a corruption check  
 > > 
 > > {: .fs-3 } 
 > > _“...where there were great beds of iris and flowering reeds."_ ***---&#65279;LotRI*** 
@@ -17066,7 +17066,7 @@ permalink: /cards/all/
 > Gap of Isen
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Pukel-man --- 1 strike with 9 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Pukel-man --- 1 strike with 9 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘...columns of white and saffron and dawn-rose...glistening pendants of the roof: wings, ropes, curtains fine as frozen clouds...pinnacles of suspended palaces!’”_ ***---&#65279;LotRIII*** 
@@ -17089,7 +17089,7 @@ permalink: /cards/all/
 > High Pass
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Orcs --- 3 strikes with 6 prowess  
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 3 strikes with 6 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“It was deep, deep dark, such as only goblins...living in the heart of the mountains can see through. The passages there were crossed and tangled in all directions...”_ ***---&#65279;Hob*** 
@@ -17155,7 +17155,7 @@ permalink: /cards/all/
 > Elven Shores
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Grey Havens <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Undead --- 1 strike with 8 prowess; each character wounded must make a corruption check  
+> > _**Nearest Haven:**_ Grey Havens <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Undead --- 1 strike with 8 prowess; each character wounded must make a corruption check  
 > > 
 > > {: .fs-3 } 
 > > _“...on starless waters far astray...and foundered shores that drowned...”_ ***---&#65279;LotRII*** 
@@ -17178,7 +17178,7 @@ permalink: /cards/all/
 > Withered Heath
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon --- 1 strike with 14 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Dragon --- 1 strike with 14 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“The wind was on the withered heath...and like a tide it roared and rolled...and swept above the dragon's lair...”_ ***---&#65279;Hob*** 
@@ -17224,7 +17224,7 @@ permalink: /cards/all/
 > Gap of Isen
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br> Wolves --- 3 strikes with 7 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Wolves --- 3 strikes with 7 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...four mighty piers of many-sided stone were welded into one, but near the summit they opened into gaping horns, their pinnacles sharp as the points of spears..."_ ***---&#65279;LotRIII*** 
@@ -17247,7 +17247,7 @@ permalink: /cards/all/
 > Eriadoran Coast
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Grey Havens <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br> Undead --- 2 strikes with 8 prowess; each character wounded must make a corruption check  
+> > _**Nearest Haven:**_ Grey Havens <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Undead --- 2 strikes with 8 prowess; each character wounded must make a corruption check  
 > > 
 > > {: .fs-3 } 
 > > _“Tinuviel was dancing there <br>To music of a pipe unseen...”_ ***---&#65279;LotRI*** 
@@ -17336,7 +17336,7 @@ permalink: /cards/all/
 > Forochel
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major, greater\*) <br>\*---Palantiri Only <br>_**Automatic-attacks:**_<br> Undead --- 2 strikes with 8 prowess; each character wounded must make a corruption check 
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major, greater\*) <br>\*---Palantiri Only <br>_**Automatic-attacks:**_<br>&ensp;Undead --- 2 strikes with 8 prowess; each character wounded must make a corruption check 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -17379,7 +17379,7 @@ permalink: /cards/all/
 > Imlad Morgul
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Undead --- 3 strikes with 8 prowess; each character wounded must make a corruption check  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br>&ensp;Undead --- 3 strikes with 8 prowess; each character wounded must make a corruption check  
 > > 
 > > {: .fs-3 } 
 > > _“...its cavernous gate, shaped like an open mouth with gleaming teeth...”_ ***---&#65279;LotRIV*** 
@@ -17425,7 +17425,7 @@ permalink: /cards/all/
 > Redhorn Gate
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Orcs --- 4 strikes with 7 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 4 strikes with 7 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“In the pale ray of the wizard's staff...glimpses of stairs and arches, and of other passages and tunnels...”_ ***---&#65279;LotRII*** 
@@ -17471,7 +17471,7 @@ permalink: /cards/all/
 > Angmar
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs --- 3 strikes with 6 prowess  
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 3 strikes with 6 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“He charged the ranks of the goblins of Mount Gram in the Battle of the Green Fields, and knocked their king Golfimbul's head clean off with a wooden club."_ ***---&#65279;Hob*** 
@@ -17494,7 +17494,7 @@ permalink: /cards/all/
 > Gundabad
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Orcs --- 2 strikes with 8 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 2 strikes with 8 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...around and beneath the great mountain Gundabad of the North...a vast host was assembled...”_ ***---&#65279;Hob*** 
@@ -17540,7 +17540,7 @@ permalink: /cards/all/
 > Hollin
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Wolves --- 3 strikes with 5 prowess  
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Wolves --- 3 strikes with 5 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘There is a wholesome air about Hollin. Much evil must befall a country before it wholly forgets the Elves, if once they dwelt there.’”_ ***---&#65279;LotRII*** 
@@ -17629,7 +17629,7 @@ permalink: /cards/all/
 > Enedhwaith
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Spiders --- 2 strikes with 8 prowess  
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Spiders --- 2 strikes with 8 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘But long before, in the first days of the North Kingdom, they built a great watch-tower... It was burned down and broken, and nothing remains of it now but a tumbled ring...’”_ ***---&#65279;LotRI*** 
@@ -17652,7 +17652,7 @@ permalink: /cards/all/
 > Heart of Mirkwood
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs --- 3 strikes with 5 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 3 strikes with 5 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...there, parting the tumbling waters of the Enchanted River, stood a shadowy spire that served as fast hold for those who would remake the great Greenwood."_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -17675,7 +17675,7 @@ permalink: /cards/all/
 > Imlad Morgul
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs --- 2 strikes with 8 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 2 strikes with 8 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...the air was still, stagnant, heavy, and sound fell dead. They walked...in a black vapour wrought of veritable darkness itself that, as it breathed, brought blindness...”_ ***---&#65279;LotRIV*** 
@@ -17724,7 +17724,7 @@ permalink: /cards/all/
 > > _**Nearest Haven:**_ Edhellond  
 > > 
 > > {: .fs-3 } 
-> > _“...his chief peril lay in the south, where the Haradrim had occupied South Gondor, and there was much fighting in along the Poros."_ ***---&#65279;LotR*** 
+> > _“...his chief peril lay in the south, where the Haradrim had occupied South Gondor, and there was much fighting along the Poros."_ ***---&#65279;LotR*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -17744,7 +17744,7 @@ permalink: /cards/all/
 > Old Pukel Gap
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Information, Items (minor) <br>_**Automatic-attacks:**_<br> Pukel-man --- 1 strike with 9 prowess  
+> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Information, Items (minor) <br>_**Automatic-attacks:**_<br>&ensp;Pukel-man --- 1 strike with 9 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“Stone rings grinned out of the ground like broken teeth in the moonlight."_ ***---&#65279;LotRI*** 
@@ -17767,7 +17767,7 @@ permalink: /cards/all/
 > Northern Rhovanion
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon --- 1 strike with 14 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Dragon --- 1 strike with 14 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“And far away, its dark head in a torn cloud, there loomed the Mountain! ...All alone it rose...”_ ***---&#65279;Hob*** 
@@ -17790,7 +17790,7 @@ permalink: /cards/all/
 > Andrast
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Pukel-men --- 2 strikes with 9 prowess  
+> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br>&ensp;Pukel-men --- 2 strikes with 9 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“Gold was piled on the biers of dead kings and queens; and mounds covered them, and the stone doors were shut; and grass grew over all."_ ***---&#65279;LotRI*** 
@@ -17813,7 +17813,7 @@ permalink: /cards/all/
 > Arthedain
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Automatic-attacks:**_<br> Wolves --- 2 strikes with 6 prowess 
+> > _**Nearest Haven:**_ Rivendell <br>_**Automatic-attacks:**_<br>&ensp;Wolves --- 2 strikes with 6 prowess 
 > > 
 > > {: .fs-3 } 
 > > _“Three Elf-towers of immemorial age were still to be seen beyond the western marches. They shone far off in the moonlight. The tallest was furthest away, standing alone upon a green hill."_ ***---&#65279;LotRI***
@@ -17836,7 +17836,7 @@ permalink: /cards/all/
 > Grey Mountain Narrows
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs --- 3 strikes with 7 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 3 strikes with 7 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...wind in the cracks and gullies of the rocky wall, but the sounds were those of shrill cries, and wild howls of laughter."_ ***---&#65279;LotRII*** 
@@ -17882,7 +17882,7 @@ permalink: /cards/all/
 > Mouths of the Anduin
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Undead --- 3 strikes with 7 prowess; each character wounded must make a corruption check  
+> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br>&ensp;Undead --- 3 strikes with 7 prowess; each character wounded must make a corruption check  
 > > 
 > > {: .fs-3 } 
 > > _“Tolfalas, the great Coastal Island, ...guards the heartland of Gondor...”_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -17951,7 +17951,7 @@ permalink: /cards/all/
 > Arthedain
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Wolves --- 2 strikes with 6 prowess  
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br>&ensp;Wolves --- 2 strikes with 6 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“On the top they found...a wide ring of ancient stone-work, now crumbling or covered with age-long grass. But in the centre a cairn of broken stones had been piled."_ ***---&#65279;LotRI*** 
@@ -19805,7 +19805,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable only if you discard an Elf from your hand and only at the end of the organization phase on a company using region cards with the last one being a Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr>.*** _(Play regions face-up)._ This card is used as a site card, Free-hold <nobr>[<img src="/assets/images/free-hold.svg">]</nobr> (cards drawn: 1/1). The company may only leave this site using region movement. Characters at this site heal as though they were in a Haven <nobr>[<img src="/assets/images/free-haven.svg">]</nobr>. Discard _Refuge_ when the company moves to a new site. 
+> > ***Playable only if you discard an Elf from your hand and only at the end of the organization phase on a company using region cards with the last one being a Wilderness*** <nobr>[<img src="/assets/images/wilderness.svg">]</nobr>. _(Play regions face-up)._ This card is used as a site card, Free-hold <nobr>[<img src="/assets/images/free-hold.svg">]</nobr> (cards drawn: 1/1). The company may only leave this site using region movement. Characters at this site heal as though they were in a Haven <nobr>[<img src="/assets/images/free-haven.svg">]</nobr>. Discard _Refuge_ when the company moves to a new site. 
 > 
 
 ---
@@ -21740,7 +21740,7 @@ permalink: /cards/all/
 > Southern Rhovanion
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Troll --- 1 strike with 10 prowess <br>_**Special:**_ This site is always returned to the location deck, never to the discard pile. 
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Troll --- 1 strike with 10 prowess <br>_**Special:**_ This site is always returned to the location deck, never to the discard pile. 
 > > 
 > > {: .fs-3 } 
 > > _“...from their tree-felling they created the grassy East Blight, where stood Buhr Widu, their lord's hold and capital."_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -21786,7 +21786,7 @@ permalink: /cards/all/
 > Anduin Vales
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br> When a company enters this site, opponent may play one creature from his hand that is treated in all ways as the site's automatic-attack (if defeated, creature is discarded). It must normally be playable keyed to a Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr>, Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr>, single Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr>, or Shadow-land <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr>. <br>_**Special:**_ Contains a hoard. 
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br>&ensp;When a company enters this site, opponent may play one creature from his hand that is treated in all ways as the site's automatic-attack (if defeated, creature is discarded). It must normally be playable keyed to a Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr>, Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr>, single Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr>, or Shadow-land <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr>. <br>_**Special:**_ Contains a hoard. 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -21806,7 +21806,7 @@ permalink: /cards/all/
 > Withered Heath
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon --- 1 strike with 15 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Dragon --- 1 strike with 15 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...a steep, ore-rich knoll situated amidst a dry lake in the Withered Heath's southeastern lowlands."_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -21829,7 +21829,7 @@ permalink: /cards/all/
 > Grey Mountain Narrows
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br> Dragon --- 1 strike with 14 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Dragon --- 1 strike with 14 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“The lofty peak of the central Grey Mountains harbors a vast cache of stolen treasure within its stony bones."_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -21852,7 +21852,7 @@ permalink: /cards/all/
 > Andrast Coast
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br> Dragon --- 1 strike with 14 prowess  
+> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Dragon --- 1 strike with 14 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“Deep, sea-washed chambers of coral lie beneath the island's cliffs and resound with the echoes of the violent tides."_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -21875,7 +21875,7 @@ permalink: /cards/all/
 > Grey Mountain Narrows
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Dragon --- 1 strike with 12 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Dragon --- 1 strike with 12 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...tucked in a ring of volcanic rock within a high vale and surrounded by a natural, flower-filled moat."_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -21898,7 +21898,7 @@ permalink: /cards/all/
 > Cardolan
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br> Men --- 3 strikes with 6 prowess <br>_**Special:**_ Items may be played here even if the site is tapped. 
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br>&ensp;Men --- 3 strikes with 6 prowess <br>_**Special:**_ Items may be played here even if the site is tapped. 
 > > 
 > > {: .fs-3 } 
 > > _“...as far as Tharbad, where the old North Road crossed the river by a ruined town."_ ***---&#65279;LotRII*** 
@@ -21921,7 +21921,7 @@ permalink: /cards/all/
 > Angmar
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Dragon --- 1 strike with 11 prowess  
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Dragon --- 1 strike with 11 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“The intricate and exquisite Dwarven city delved into the mountains of Angmar was abandoned in the aftermath of a deadly pestilence."_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -22992,7 +22992,7 @@ permalink: /cards/all/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ ***Playable on a non-Wizard, non-Dwarf bearer of Star-glass at a Haven*** <nobr>[<img src="/assets/images/free-haven.svg">]</nobr> ***in the same company as an untapped Galadriel.*** Tap Galadriel, replace _Star-glass_ with _Phial of Galadriel_, remove _Star-glass_ from play. Tap _Phial of Galadriel_ to cancel any Undead attack. Tap _Phial_ to modify the prowess of any hazard creature keyed to a Dark-domain <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr>, Dark-hold <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr>, or Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> by -2---you choose targets of such attack's strikes (regardless of tapped status, wounded status, and the normal abilities of the attack). Tap _Phial_ to give +2 prowess to any corruption check by its bearer. Cannot be transferred.  
+> > _Unique._ ***Playable on a non-Wizard, non-Dwarf bearer of Star-glass at a Haven*** <nobr>[<img src="/assets/images/free-haven.svg">]</nobr> ***in the same company as an untapped Galadriel.*** Tap Galadriel, replace _Star-glass_ with _Phial of Galadriel_, remove _Star-glass_ from play. Tap _Phial_ to cancel any Undead attack. Tap _Phial_ to modify the prowess of any hazard creature keyed to a Dark-domain <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr>, Dark-hold <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr>, or Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> by -2---you choose targets of such attack's strikes (regardless of tapped status, wounded status, and the normal abilities of the attack). Tap _Phial_ to give +2 prowess to any corruption check by its bearer. Cannot be transferred.  
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -25030,7 +25030,7 @@ permalink: /cards/all/
 > Harondor
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Undead --- 1 strike with 10 prowess; each character must make a corruption check  
+> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Undead --- 1 strike with 10 prowess; each character must make a corruption check  
 > > 
 > > {: .fs-3 } 
 > > _“The Riders buried them after the fashion of their people, and they were laid in one mound, for they were twin brothers."_ ***---&#65279;LotR*** 
@@ -25053,7 +25053,7 @@ permalink: /cards/all/
 > Wold & Foothills
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br> Men --- 3 strikes with 6 prowess <br>_**Special:**_ During the site phase, a company may discard two minor items they bear to make any one major item (including a hoard item) playable here that turn. 
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br>&ensp;Men --- 3 strikes with 6 prowess <br>_**Special:**_ During the site phase, a company may discard two minor items they bear to make any one major item (including a hoard item) playable here that turn. 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -25070,7 +25070,7 @@ permalink: /cards/all/
 > Under-deeps
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Glittering Caves (0), The Pukel-deeps (9), The Under-gates (6) <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br> Undead (1st attack) --- 3 strikes with 9 prowess <br>(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Any Undead creature or Pukel-creature may also be played as this site. 
+> > _**Adjacent Sites:**_ Glittering Caves (0), The Pukel-deeps (9), The Under-gates (6) <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>&ensp;Undead (1st attack) --- 3 strikes with 9 prowess <br>&ensp;(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Any Undead creature or Pukel-creature may also be played as this site. 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -25087,7 +25087,7 @@ permalink: /cards/all/
 > Under-deeps
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Carn Dum (0), The Under-leas (6), The Under-vaults (7) <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br> Trolls (1st attack) --- 3 strikes with 9 prowess <br>(2nd attack) --- Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Ruins & Lairs \(![](/assets/images/ruinlair.svg)\). <br>_**Special:**_ If the _Witch-king of Angmar_ is in play  as a permanent-event, it must be used as an additional automatic-attack (discard after use---ignore result of defeat). 
+> > _**Adjacent Sites:**_ Carn Dum (0), The Under-leas (6), The Under-vaults (7) <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br>&ensp;Trolls (1st attack) --- 3 strikes with 9 prowess <br>&ensp;(2nd attack) --- Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Ruins & Lairs \(![](/assets/images/ruinlair.svg)\). <br>_**Special:**_ If the _Witch-king of Angmar_ is in play  as a permanent-event, it must be used as an additional automatic-attack (discard after use---ignore result of defeat). 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;4&ensp;</span></div>
@@ -25104,7 +25104,7 @@ permalink: /cards/all/
 > Under-deeps
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Dunharrow (0), The Gem-deeps (9), The Sulfur-deeps (9) <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br> Pukel-men (1st attack) --- 2 strikes with 11 prowess <br>(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Shadow-holds <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Any Undead creature or Pukel-creature may also be played at this site. 
+> > _**Adjacent Sites:**_ Dunharrow (0), The Gem-deeps (9), The Sulfur-deeps (9) <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>&ensp;Pukel-men (1st attack) --- 2 strikes with 11 prowess <br>&ensp;(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Shadow-holds <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Any Undead creature or Pukel-creature may also be played at this site. 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -25121,7 +25121,7 @@ permalink: /cards/all/
 > Under-deeps
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Dol Guldur (0), The Under-courts (5), The Pukel-deeps (9), The Under-gates (5), The Under-galleries (8) <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br> Trolls (1st attack) --- 2 strikes with 9 prowess <br>(2nd attack) --- Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Shadow-holds \(![](/assets/images/shadow-hold.svg)\)<br>_**Special:**_ If _Khamul the Easterling_ or _Adunaphel_ is in play as a permanent-event, one must be used as an additional automatic-attack (attacker's choice, discard after use---ignore result of defeat). 
+> > _**Adjacent Sites:**_ Dol Guldur (0), The Under-courts (5), The Pukel-deeps (9), The Under-gates (5), The Under-galleries (8) <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br>&ensp;Trolls (1st attack) --- 2 strikes with 9 prowess <br>&ensp;(2nd attack) --- Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Shadow-holds \(![](/assets/images/shadow-hold.svg)\)<br>_**Special:**_ If _Khamul the Easterling_ or _Adunaphel_ is in play as a permanent-event, one must be used as an additional automatic-attack (attacker's choice, discard after use---ignore result of defeat). 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;4&ensp;</span></div>
@@ -25138,7 +25138,7 @@ permalink: /cards/all/
 > Under-deeps
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Barad-dur (0), The Sulfur-deeps (5), The Under-galleries (4) <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br> Trolls (1st attack) --- 3 strikes with 10 prowess <br>(2nd attack) --- Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Shadow-holds \(![](/assets/images/shadow-hold.svg)\) <br>_**Special:**_ If any Nazgul permanent-event is in play, one must be used as an additional automatic-attack (attacker's choice, discard after use---ignore result of defeat). 
+> > _**Adjacent Sites:**_ Barad-dur (0), The Sulfur-deeps (5), The Under-galleries (4) <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br>&ensp;Trolls (1st attack) --- 3 strikes with 10 prowess <br>&ensp;(2nd attack) --- Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Shadow-holds \(![](/assets/images/shadow-hold.svg)\) <br>_**Special:**_ If any Nazgul permanent-event is in play, one must be used as an additional automatic-attack (attacker's choice, discard after use---ignore result of defeat). 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;4&ensp;</span></div>
@@ -25155,7 +25155,7 @@ permalink: /cards/all/
 > Under-deeps
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Any site in Udun (0), The Under-courts (4), The Sulfur-deeps (8) <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br> Trolls (1st attack) --- 4 strikes with 9 prowess <br>(2nd attack) --- Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Shadow-holds <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ _Stolen Knowledge_. When Under-galleries would be placed in your discard pile, place it in your marshalling point pile instead for 3 marshalling points---this card is considered stored. 
+> > _**Adjacent Sites:**_ Any site in Udun (0), The Under-courts (4), The Sulfur-deeps (8) <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br>&ensp;Trolls (1st attack) --- 4 strikes with 9 prowess <br>&ensp;(2nd attack) --- Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Shadow-holds <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ _Stolen Knowledge_. When Under-galleries would be placed in your discard pile, place it in your marshalling point pile instead for 3 marshalling points---this card is considered stored. 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;4&ensp;</span></div>
@@ -25172,7 +25172,7 @@ permalink: /cards/all/
 > Under-deeps
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Moria (0), The Gem-deeps (6), The Sulfur-deeps (5), the Under-grottos (8), The Under-leas (6) <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks (2):**_<br> Balrog (1st attack) --- 2 strikes with 16 prowess <br>(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> <br>_**Special:**_ If _Balrog of Moria_ is in play or if it or _Durin's Bane_ has been defeated, the first automatic attack is canceled. 
+> > _**Adjacent Sites:**_ Moria (0), The Gem-deeps (6), The Sulfur-deeps (5), the Under-grottos (8), The Under-leas (6) <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks (2):**_<br>&ensp;Balrog (1st attack) --- 2 strikes with 16 prowess <br>&ensp;(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> <br>_**Special:**_ If _Balrog of Moria_ is in play or if it or _Durin's Bane_ has been defeated, the first automatic attack is canceled. 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -25189,7 +25189,7 @@ permalink: /cards/all/
 > Under-deeps
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Goblin-gate (0), The Under-leas (8), The Under-gates (8) <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br> Orcs (1st) --- 4 strikes with 7 prowess <br>(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ When any gold ring is tested in a company at this site, the result of the roll is modified by +2. 
+> > _**Adjacent Sites:**_ Goblin-gate (0), The Under-leas (8), The Under-gates (8) <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>&ensp;Orcs (1st) --- 4 strikes with 7 prowess <br>&ensp;(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ When any gold ring is tested in a company at this site, the result of the roll is modified by +2. 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -25206,7 +25206,7 @@ permalink: /cards/all/
 > Under-deeps
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Gundabad (0), The Iron-deeps (6), The Under-grottos (8), The Under-gates (6), The Under-vaults (7) <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br> Orcs (1st attack) --- 5 strikes with 7 prowess <br>(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> <br>_**Special:**_ If the _Witch-king of Angmar_ is in play  as a permanent-event, it must be used as an additional automatic-attack (discard after use---ignore result of defeat). 
+> > _**Adjacent Sites:**_ Gundabad (0), The Iron-deeps (6), The Under-grottos (8), The Under-gates (6), The Under-vaults (7) <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br>&ensp;Orcs (1st attack) --- 5 strikes with 7 prowess <br>&ensp;(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> <br>_**Special:**_ If the _Witch-king of Angmar_ is in play  as a permanent-event, it must be used as an additional automatic-attack (discard after use---ignore result of defeat). 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;4&ensp;</span></div>
@@ -25223,7 +25223,7 @@ permalink: /cards/all/
 > Under-deeps
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Mount Gram (0), The Iron-deeps (7), The Under-leas (7) <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br> Undead (1st attack) --- 3 strikes with 8 prowess <br>(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Shadow-holds <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Any Undead creature may also be played at this site. 
+> > _**Adjacent Sites:**_ Mount Gram (0), The Iron-deeps (7), The Under-leas (7) <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>&ensp;Undead (1st attack) --- 3 strikes with 8 prowess <br>&ensp;(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Shadow-holds <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Any Undead creature may also be played at this site. 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -25243,7 +25243,7 @@ permalink: /cards/all/
 > Nurn
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs --- 4 strikes with 7 prowess  
+> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 4 strikes with 7 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“Neither he nor Frodo knew anything of the great slave-worked fields away to the south in this wide realm, beyond the fumes of the Mountain by the sad waters of Lake Nurnen...”_ ***---&#65279;LotRVI*** 
@@ -25292,7 +25292,7 @@ permalink: /cards/all/
 > Scout/Ranger/Sage/Diplomat Wizard
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ May tap to use a palantir. <br>&ensp;At the beginning of each of his end-of-turn phases, he may tap to take one "spell" card from his discard pile and return it to his hand. 
+> > _**Unique.**_ May tap to use a Palantir. <br>&ensp;At the beginning of each of his end-of-turn phases, he may tap to take one "spell" card from his discard pile and return it to his hand. 
 > > 
 > > {: .fs-3 } 
 > > _“His face was long, with a high forehead, he had deep darkling eyes, hard to fathom...”_ ***---&#65279;LotRIII***  
@@ -25711,7 +25711,7 @@ permalink: /cards/all/
 > > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +2. 
 > > 
 > > {: .fs-3 } 
-> > _“...then there came a faint glow...and it held his eyes, so that now he could be look away."_ ***---&#65279;LotRIII***  
+> > _“...then there came a faint glow...and it held his eyes, so that now he could not look away."_ ***---&#65279;LotRIII***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Bag End 
@@ -25966,7 +25966,7 @@ permalink: /cards/all/
 > Major Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ _Shield._ +2 to body to a maximum of 9. Warriror only: tap _Great Shield of Rohan_ to remain untapped against one strike (unless the bearer is wounded by the strike). 
+> > _Unique._ _Shield._ +2 to body to a maximum of 9. Warrior only: tap _Great Shield of Rohan_ to remain untapped against one strike (unless the bearer is wounded by the strike). 
 > > 
 > > {: .fs-3 } 
 > > _“His golden shield was uncovered, and lo! it shone like an image of the Sun, and the grass flamed into green about the white feet of his steed."_ ***---&#65279;LotRV*** 
@@ -26015,7 +26015,7 @@ permalink: /cards/all/
 > > _Unique._ _Weapon._ +3 to prowess to a maximum of 9 (+4 prowess to a maximum of 10 against Orcs). 
 > > 
 > > {: .fs-3 } 
-> > _“They had called it Orcrist, Goblin-cleaver, but the Goblins called it simply Biter. They hated it and hated worse anyone that carried it."_ ***---&#65279;Hob*** 
+> > _“They had called it Orcrist, Goblin-cleaver, but the Goblins called it simply Biter. They hated it and hated worse any one that carried it."_ ***---&#65279;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +3/&ndash; 】</div>
@@ -26038,7 +26038,7 @@ permalink: /cards/all/
 > > _Unique._ When a Gold Ring is tested in a company with the _Scroll of Isildur_, the result of the roll (or draw) is modified by +2. 
 > > 
 > > {: .fs-3 } 
-> > _“Yet even as I write it is cooled, and it seemeth to shrink, though it loseth neither its beauty nor its shape. Already the writing upon it, which was at first clear as red flame, fadeth and now only barely to be read."_ ***---&#65279;LotRII***  
+> > _“Yet even as I write it is cooled, and it seemeth to shrink, though it loseth neither its beauty nor its shape. Already the writing upon it, which was at first clear as red flame, fadeth and is now only barely to be read."_ ***---&#65279;LotRII***  
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -29073,7 +29073,7 @@ permalink: /cards/all/
 > > +2 to direct influence against factions. Cannot be duplicated on a given character. 
 > > 
 > > {: .fs-3 } 
-> > _“...and a single banner, black but bearing on it in red the evil Eye."_ ***---&#65279;LotRV***
+> > _“...and a single banner, black but bearing on it in red the evil Eye."_ ***---&#65279;LotV***
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -29307,7 +29307,7 @@ permalink: /cards/all/
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Magic Ring._ ***Playable only with a Gold Ring and after a test indicates a Magic Ring.*** Bearer can use spirit-magic If the bearer can already use spirit-magic: at the beginning of each of his end-of-turn phases, he may tap to take one spirit-magic card from your discard pile or play deck into your hand. Reshuffle your play deck. Cannot be duplicated on a given character. 
+> > _Magic Ring._ ***Playable only with a Gold Ring and after a test indicates a Magic Ring.*** Bearer can use spirit-magic. If the bearer can already use spirit-magic: at the beginning of each of his end-of-turn phases, he may tap to take one spirit-magic card from your discard pile or play deck into your hand. Reshuffle your play deck. Cannot be duplicated on a given character. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -29427,7 +29427,7 @@ permalink: /cards/all/
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Magic Ring._ ***Playable only with a Gold Ring and after a test indicates a Magic Ring.*** Bearer can use shadow-magic If the bearer can already use shadow-magic: at the beginning of each of his end-of-turn phases, he may tap to take one shadow-magic card from your discard pile or play deck into your hand. Reshuffle your play deck. Cannot be duplicated on a given character. 
+> > _Magic Ring._ ***Playable only with a Gold Ring and after a test indicates a Magic Ring.*** Bearer can use shadow-magic. If the bearer can already use shadow-magic: at the beginning of each of his end-of-turn phases, he may tap to take one shadow-magic card from your discard pile or play deck into your hand. Reshuffle your play deck. Cannot be duplicated on a given character. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -29578,7 +29578,7 @@ permalink: /cards/all/
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Palantir._ ***Playable at Minas Tirith.*** With its bearer able to use a Palantir, tap _Palantir of Minas Tirith_ to look at the top five cards of your play deck; shuffle these 5 cards and return then to the top of your play deck. Do the same to your opponent's deck. Bearer then makes a corruption check. 
+> > _**Unique.**_ _Palantir._ ***Playable at Minas Tirith.*** With its bearer able to use a Palantir, tap _Palantir of Minas Tirith_ to look at the top five cards of your play deck; shuffle these 5 cards and return then to the top of your play deck. Do the same to your opponent's play deck. Bearer then makes a corruption check. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -33327,7 +33327,7 @@ permalink: /cards/all/
 > Rohan
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Information, Items (minor) <br>_**Automatic-attacks:**_<br> Undead --- 1 strike with 6 prowess; each character wounded must make a corruption check modified by -2  
+> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Information, Items (minor) <br>_**Automatic-attacks:**_<br>&ensp;Undead --- 1 strike with 6 prowess; each character wounded must make a corruption check modified by -2  
 > > 
 > > {: .fs-3 } 
 > > _“...great works that could still be seen in this strange border-land of the Emyn Muil: the stone kings and the seats of Lhaw and Hen...”_ ***---&#65279;LotRII*** 
@@ -33350,7 +33350,7 @@ permalink: /cards/all/
 > The Shire
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Information, Items (minor, major, greater\*, gold ring) <br>\*---hero item only <br>_**Automatic-attacks (2):**_<br>  (1st) Hobbits --- 5 strikes with 5 prowess<br>(2nd) Dunedain --- 3 strikes with 11 prowess 
+> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Information, Items (minor, major, greater\*, gold ring) <br>\*---hero item only <br>_**Automatic-attacks (2):**_<br>&ensp;(1st) Hobbits --- 5 strikes with 5 prowess<br>&ensp;(2nd) Dunedain --- 3 strikes with 11 prowess 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>
@@ -33370,7 +33370,7 @@ permalink: /cards/all/
 > Brown Lands
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Men --- 3 strikes with 6 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Men --- 3 strikes with 6 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“For in the time of ruin houseless and desperate men went astray, some refugees of battle and defeat and lands laid waste, others outlaws driven into the wild for evil deeds."_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -33416,7 +33416,7 @@ permalink: /cards/all/
 > Cardolan
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Undead --- 1 strike with 8 prowess; each character wounded must make a corruption check modified by -2  
+> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Undead --- 1 strike with 8 prowess; each character wounded must make a corruption check modified by -2  
 > > 
 > > {: .fs-3 } 
 > > _“There was no tree nor any visible water: it was a country of grass...and high lonely cries of strange birds."_ ***---&#65279;LotRI*** 
@@ -33439,7 +33439,7 @@ permalink: /cards/all/
 > Anduin Vales
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men --- each character faces 1 strike with 10 prowess (detainment against covert company)  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Men --- each character faces 1 strike with 10 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
 > > _“...a courtyard, three walls of which were formed by the wooden house and its long wings."_ ***---&#65279;Hob*** 
@@ -33462,7 +33462,7 @@ permalink: /cards/all/
 > Numeriador
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dwarves --- 4 strikes with 10 prowess  
+> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Dwarves --- 4 strikes with 10 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“There remained Dwarves on the eastern side of Ered Lindon, not far from Nenuial"_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -33485,7 +33485,7 @@ permalink: /cards/all/
 > Arthedain
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Information, Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Dunedain --- each character faces 1 strike with 7 prowess (detainment against covert company) <br>_**Special:**_ Agent minions may be brought into play under direct influence at this site. 
+> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Information, Items (minor, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Dunedain --- each character faces 1 strike with 7 prowess (detainment against covert company) <br>_**Special:**_ Agent minions may be brought into play under direct influence at this site. 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -33505,7 +33505,7 @@ permalink: /cards/all/
 > Southern Rhovanion
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Troll --- 1 strike with 10 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Troll --- 1 strike with 10 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...there, in Mirkwood's East Blight, stood the ancient capital of a Northman Kingdom."_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -33528,7 +33528,7 @@ permalink: /cards/all/
 > Rhudaur
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Items (minor, major*) <br>\*---weapon, armor, shield, or helmet only <br>_**Automatic-attacks:**_<br> Men --- each character faces 1 strike with 7 prowess (detainment against covert company)  
+> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Items (minor, major*) <br>\*---weapon, armor, shield, or helmet only <br>_**Automatic-attacks:**_<br>&ensp;Men --- each character faces 1 strike with 7 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
 > > _“...between the Ettenmoors, the Weather Hills, and the Misty Mountains."_ ***---&#65279;LotR*** 
@@ -33568,7 +33568,7 @@ permalink: /cards/all/
 > Withered Heath
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon --- 1 strike with 13 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Dragon --- 1 strike with 13 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘...you don't know how far they go back, sometimes, or where a passage behind may lead to, or what is waiting for you inside.’”_ ***---&#65279;Hob*** 
@@ -33637,7 +33637,7 @@ permalink: /cards/all/
 > Northern Rhovanion
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men --- each character faces 1 strike with 5 prowess (detainment against covert company)  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Men --- each character faces 1 strike with 5 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
 > > _“‘You should see the waterways of Dale...and the mountains, and the pools...and the stone-paved roads of many colors!’”_ ***---&#65279;LotRII*** 
@@ -33660,7 +33660,7 @@ permalink: /cards/all/
 > Dagorlad
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Undead --- 2 strikes with 8 prowess; each character wounded must make a corruption check modified by -2 <br>_**Special:**_ Non-Nazgul creatures played at the site attack normally, not as detainment.   
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Undead --- 2 strikes with 8 prowess; each character wounded must make a corruption check modified by -2 <br>_**Special:**_ Non-Nazgul creatures played at the site attack normally, not as detainment.   
 > > 
 > > {: .fs-3 } 
 > > _“‘...the Marshes have grown...swallowed up the graves...always creeping, creeping.’”_ ***---&#65279;LotRIV*** 
@@ -33683,7 +33683,7 @@ permalink: /cards/all/
 > Redhorn Gate
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Orcs --- 1 strike with 6 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 1 strike with 6 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘...we shall come down by the Dimrill Stair into the deep vale of the Dwarves. There lies the Mirrormere...’”_ ***---&#65279;LotRII*** 
@@ -33706,7 +33706,7 @@ permalink: /cards/all/
 > Belfalas
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Information, Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>  (1st) Men --- each character faces 1 strike with 8 prowess (detainment against covert company) <br>(2nd) Dunedain --- 3 strikes with 10 prowess (against overt company only)  
+> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Information, Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>&ensp;(1st) Men --- each character faces 1 strike with 8 prowess (detainment against covert company) <br>&ensp;(2nd) Dunedain --- 3 strikes with 10 prowess (against overt company only)  
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;4&ensp;</span></div>
@@ -33743,7 +33743,7 @@ permalink: /cards/all/
 > Anorien
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Automatic-attacks:**_<br> Men --- 3 strikes with 6 prowess  
+> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Automatic-attacks:**_<br>&ensp;Men --- 3 strikes with 6 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...the forgotten wain-road long ago had run down...but now for many lives of men trees had had their way with it, and it had vanished, broken and buried under the leaves of uncounted years."_ ***---&#65279;LotRV*** 
@@ -33766,7 +33766,7 @@ permalink: /cards/all/
 > Rohan
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Men --- each character faces 1 strike with 6 prowess (detainment against covert company)  
+> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br>&ensp;Men --- each character faces 1 strike with 6 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
 > > _“‘But in Dunharrow the people may long defend themselves, and if the battle go ill, thither will come all who escape.’”_ ***---&#65279;LotRIII*** 
@@ -33789,7 +33789,7 @@ permalink: /cards/all/
 > Dunland
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Items (minor, major\*) <br>\*---weapon, armor, shield, or helmet only <br>_**Automatic-attacks:**_<br> Men --- each character faces 1 strike with 7 prowess (detainment against covert company)  
+> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Items (minor, major\*) <br>\*---weapon, armor, shield, or helmet only <br>_**Automatic-attacks:**_<br>&ensp;Men --- each character faces 1 strike with 7 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
 > > _“Dunland...a green and pleasant country. September came in with golden days and silver nights...”_ ***---&#65279;LotRVI*** 
@@ -33812,7 +33812,7 @@ permalink: /cards/all/
 > Horse Plains
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Automatic-attacks:**_<br> Men --- each character faces 1 strike with 5 prowess (detainment against covert company)  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Automatic-attacks:**_<br>&ensp;Men --- each character faces 1 strike with 5 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
 > > _“They journeyed in great wains, and their chieftains fought in chariots."_ ***---&#65279;LotR*** 
@@ -33835,7 +33835,7 @@ permalink: /cards/all/
 > Rohan
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men --- each character faces 1 strike with 10 prowess (detainment against covert company)   
+> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Men --- each character faces 1 strike with 10 prowess (detainment against covert company)   
 > > 
 > > {: .fs-3 } 
 > > _“‘I see a white stream that comes down from the snows...Where it issues from the shadow of the vale a green hill rises upon the east. A dike and mighty wall and thorny fence encircle it.’”_ ***---&#65279;LotRIII*** 
@@ -33858,7 +33858,7 @@ permalink: /cards/all/
 > Rhudaur
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks (2):**_<br>  (1st) Troll --- 1 strike with 9 prowess <br>(2nd) Wolves --- 2 strikes with 8 prowess  
+> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks (2):**_<br>&ensp;(1st) Troll --- 1 strike with 9 prowess <br>&ensp;(2nd) Wolves --- 2 strikes with 8 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...a ridge of high land; its dark edge against the sky was broken in many bare points like teeth of a blunted saw."_ ***---&#65279;LotRII***
@@ -33898,7 +33898,7 @@ permalink: /cards/all/
 > Anduin Vales
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Undead --- 1 strike with 8 prowess; each character wounded must make a corruption check modified by -2  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Undead --- 1 strike with 8 prowess; each character wounded must make a corruption check modified by -2  
 > > 
 > > {: .fs-3 } 
 > > _“‘And there in the dark pools amidst the Gladden Fields...the Ring passed out of knowledge and legend...”_ ***---&#65279;LotRI*** 
@@ -33921,7 +33921,7 @@ permalink: /cards/all/
 > Gap of Isen
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Geann a-Lisch <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Pukel-creature --- 1 strike with 9 prowess  
+> > ***Nearest Darkhaven:*** Geann a-Lisch <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Pukel-creature --- 1 strike with 9 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘...immeasurable halls, filled with an everlasting music of water that tinkles into pools...’”_ ***---&#65279;LotRIII*** 
@@ -33944,7 +33944,7 @@ permalink: /cards/all/
 > Harondor
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Items (minor, major\*) <br>\*---weapon, armor, shield, or helmet only <br>_**Automatic-attacks:**_<br> Men --- each character faces 1 strike with 8 prowess (detainment against covert company)  
+> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Items (minor, major\*) <br>\*---weapon, armor, shield, or helmet only <br>_**Automatic-attacks:**_<br>&ensp;Men --- each character faces 1 strike with 8 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
 > > _“...one of the most ancient Numenorean colonies along the Bay of Belfalas, founded during the noontide of Numernor's imperial expansion."_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -33967,7 +33967,7 @@ permalink: /cards/all/
 > High Pass
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Orcs --- 3 strikes with 6 prowess <br>_**Special:**_ Non-Nazgul creatures played at this site attack normally, not as detainment. 
+> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 3 strikes with 6 prowess <br>_**Special:**_ Non-Nazgul creatures played at this site attack normally, not as detainment. 
 > > 
 > > {: .fs-3 } 
 > > _“...and the way went down and down, and it was most horribly stuffy."_ ***---&#65279;Hob*** 
@@ -33990,7 +33990,7 @@ permalink: /cards/all/
 > Grey Mountain Narrows
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br> Dragon --- 1 strike with 14 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Dragon --- 1 strike with 14 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘And the halls and cavernous streets under the earth with arches carved like trees...’”_ ***---&#65279;LotRII*** 
@@ -34013,7 +34013,7 @@ permalink: /cards/all/
 > Harondor
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Undead --- 1 strike with 10 prowess; each character must make a corruption check modified by -2  
+> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Undead --- 1 strike with 10 prowess; each character must make a corruption check modified by -2  
 > > 
 > > {: .fs-3 } 
 > > _“Long it stood, Haudh in Gwanur, high upon the shore of the river, and the enemies of Gondor feared to pass it."_ ***---&#65279;LotR*** 
@@ -34036,7 +34036,7 @@ permalink: /cards/all/
 > Ithilien
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Automatic-attacks:**_<br> Dunedain --- each character faces 1 strike with 7 prowess (detainment against covert company)  
+> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Automatic-attacks:**_<br>&ensp;Dunedain --- each character faces 1 strike with 7 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
 > > _“It faced westward. The level shafts of the setting sun beat upon it, and the red light was broken into many flickering beams of ever-changing colour"_ ***---&#65279;LotRIV*** 
@@ -34059,7 +34059,7 @@ permalink: /cards/all/
 > Wold & Foothills
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br> Men --- 3 strikes with 6 prowess <br>_**Special:**_ During the site phase, a company may discard two minor items they bear to make any one gold ring item (regardless of its text restrictions) playable at this site this turn. 
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br>&ensp;Men --- 3 strikes with 6 prowess <br>_**Special:**_ During the site phase, a company may discard two minor items they bear to make any one gold ring item (regardless of its text restrictions) playable at this site this turn. 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -34079,7 +34079,7 @@ permalink: /cards/all/
 > Iron Hills
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dwarves --- 4 strikes with 10 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Dwarves --- 4 strikes with 10 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘But nothing will we give, not even a loaf's worth, under threat of force’”_ ***---&#65279;Hob*** 
@@ -34102,7 +34102,7 @@ permalink: /cards/all/
 > Gap of Isen
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Geann a-Lisch <br>_**Playable:**_ Information, Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br> Wolves --- 3 strikes with 7 prowess  
+> > ***Nearest Darkhaven:*** Geann a-Lisch <br>_**Playable:**_ Information, Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Wolves --- 3 strikes with 7 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...yet it seemed a thing not made by the craft of Men, but riven from the bones of the earth in the ancient torment of the hills."_ ***---&#65279;LotRIII*** 
@@ -34125,7 +34125,7 @@ permalink: /cards/all/
 > Northern Rhovanion
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Men --- each character faces 1 strike with 6 prowess (detainment against covert company)  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br>&ensp;Men --- each character faces 1 strike with 6 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
 > > _“...tall piles on which were built the greater houses, and...long wooden quays with many steps and ladders going down to the surface of the lake."_ ***---&#65279;Hob*** 
@@ -34148,7 +34148,7 @@ permalink: /cards/all/
 > Anfalas
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Geann a-Lisch <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men --- each character faces 1 strike with 6 prowess (detainment against covert company)  
+> > ***Nearest Darkhaven:*** Geann a-Lisch <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Men --- each character faces 1 strike with 6 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
 > > _“In the years of their power the Numeroreans had maintained many forts and havens upon the western coasts of Middle-earth...”_ ***---&#65279;LotR*** 
@@ -34171,7 +34171,7 @@ permalink: /cards/all/
 > Forochel
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Items (minor, major, greater*) <br>\*---Palantiri Only <br>_**Automatic-attacks:**_<br> Undead --- 2 strikes with 8 prowess; each character wounded must make a corruption check modified by -2  
+> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Items (minor, major, greater*) <br>\*---Palantiri Only <br>_**Automatic-attacks:**_<br>&ensp;Undead --- 2 strikes with 8 prowess; each character wounded must make a corruption check modified by -2  
 > > 
 > > {: .fs-3 } 
 > > _“...a great storm of wind arose, and came with blinding snow out of the North...”_ ***---&#65279;LotR*** 
@@ -34194,7 +34194,7 @@ permalink: /cards/all/
 > Forochel
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men --- each character faces 1 strike with 5 prowess (detainment against covert company)  
+> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Men --- each character faces 1 strike with 5 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
 > > _“...and they drew the king and those that survived of his company out over the ice in their sliding carts...”_ ***---&#65279;LotR*** 
@@ -34237,7 +34237,7 @@ permalink: /cards/all/
 > Anorien
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Information, Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>  (1st) Men --- each character faces 1 strike with 9 prowess (detainment against covert company) <br>(2nd) Dunedain --- 4 strikes with 10 prowess (against overt company only) 
+> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Information, Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>&ensp;(1st) Men --- each character faces 1 strike with 9 prowess (detainment against covert company) <br>&ensp;(2nd) Dunedain --- 4 strikes with 10 prowess (against overt company only) 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>
@@ -34257,7 +34257,7 @@ permalink: /cards/all/
 > Redhorn Gate
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Orcs --- 4 strikes with 7 prowess <br>_**Special:**_ Non-Nazgul creatures played at this site attack normally, not as detainment 
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 4 strikes with 7 prowess <br>_**Special:**_ Non-Nazgul creatures played at this site attack normally, not as detainment 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>
@@ -34277,7 +34277,7 @@ permalink: /cards/all/
 > Gorgoroth
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Orcs --- 1 strike with 6 prowess <br>_**Special:**_ Any sage may tap to test a ring at this site, modifying the result by -3. 
+> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 1 strike with 6 prowess <br>_**Special:**_ Any sage may tap to test a ring at this site, modifying the result by -3. 
 > > 
 > > {: .fs-3 } 
 > > _“Ever and anon the furnaces far below its ashen cone would grow hot and...pour forth rivers of molten rock from chasms in its sides."_ ***---&#65279;LotRVI*** 
@@ -34323,7 +34323,7 @@ permalink: /cards/all/
 > Gundabad
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs --- each character faces 1 strike with 7 prowess (detainment against overt company)  
+> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- each character faces 1 strike with 7 prowess (detainment against overt company)  
 > > 
 > > {: .fs-3 } 
 > > _“Messengers had passed to and fro between all their cities and strongholds...they gathered in secret ways, and in all the mountains their was a forging and an arming."_ ***---&#65279;Hob*** 
@@ -34369,7 +34369,7 @@ permalink: /cards/all/
 > Hollin
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Wolves --- 3 strikes with 5 prowess  
+> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Wolves --- 3 strikes with 5 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...he told of the Elven-smiths of Eregion and their friendship with Moria, and their eagerness for knowledge, by which Sauron ensanared them."_ ***---&#65279;LotRI*** 
@@ -34392,7 +34392,7 @@ permalink: /cards/all/
 > Lebennin
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>  (1st) Men --- each character faces 1 strike with 7 prowess (detainment against covert company) <br>(2nd) Dunedain --- 3 strikes with 10 prowess (against overt company only) 
+> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>&ensp;(1st) Men --- each character faces 1 strike with 7 prowess (detainment against covert company) <br>&ensp;(2nd) Dunedain --- 3 strikes with 10 prowess (against overt company only) 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>
@@ -34412,7 +34412,7 @@ permalink: /cards/all/
 > Horse Plains
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major\*) <br>\*---weapon, armor, shield, or helmet only <br>_**Automatic-attacks:**_<br> Men --- each character faces 1 strike with 7 prowess (detainment against covert company)  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major\*) <br>\*---weapon, armor, shield, or helmet only <br>_**Automatic-attacks:**_<br>&ensp;Men --- each character faces 1 strike with 7 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
 > > _“Often they made raids through the forest..."_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -34435,7 +34435,7 @@ permalink: /cards/all/
 > Enedhwaith
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Geann a-Lisch <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Spiders --- 2 strikes with 8 prowess  
+> > ***Nearest Darkhaven:*** Geann a-Lisch <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Spiders --- 2 strikes with 8 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...beacons built on the tops of outlying hills...points where fresh horses were always in readiness...”_ ***---&#65279;LotRV*** 
@@ -34458,7 +34458,7 @@ permalink: /cards/all/
 > Heart of Mirkwood
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs --- 3 strikes with 5 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 3 strikes with 5 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...the doubled waters poured out again over high waterfalls and ran away hurriedly...”_ ***---&#65279;Hob*** 
@@ -34481,7 +34481,7 @@ permalink: /cards/all/
 > Imlad Morgul
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>  (1st) Orcs --- 2 strikes with 8 prowess <br>(2nd) Spider (cannot be canceled) --- 1 strike with 16 prowess; any character wounded is immediately eliminated <br>_**Special:**_ Contains a hoard. Non-Nazgul creatures played at this site attack normally, not as detainment. 
+> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>&ensp;(1st) Orcs --- 2 strikes with 8 prowess <br>&ensp;(2nd) Spider (cannot be canceled) --- 1 strike with 16 prowess; any character wounded is immediately eliminated <br>_**Special:**_ Contains a hoard. Non-Nazgul creatures played at this site attack normally, not as detainment. 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -34501,7 +34501,7 @@ permalink: /cards/all/
 > Dorwinion
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major\*) <br>\*---weapon, armor, shield, or helmet only <br>_**Automatic-attacks:**_<br> Men --- each character faces 1 strike with 8 prowess (detainment against covert company)  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major\*) <br>\*---weapon, armor, shield, or helmet only <br>_**Automatic-attacks:**_<br>&ensp;Men --- each character faces 1 strike with 8 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
 > > _“They still throve the trade that came up the great river...and there had been wars and deeds which were now only legend."_ ***---&#65279;Hob*** 
@@ -34524,7 +34524,7 @@ permalink: /cards/all/
 > Harondor
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Automatic-attacks:**_<br> Men --- each character faces 1 strike with 5 prowess (detainment against covert company)  
+> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Automatic-attacks:**_<br>&ensp;Men --- each character faces 1 strike with 5 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
 > > _“‘...curse the Southrons! ...'Tis said that there were dealings of old between Gondor and the kingdoms of Harad...though there was never friendship’”_ ***---&#65279;LotR*** 
@@ -34547,7 +34547,7 @@ permalink: /cards/all/
 > Old Pukel Gap
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Geann a-Lisch <br>_**Playable:**_ Information, Items (minor) <br>_**Automatic-attacks:**_<br> Pukel-creature --- 1 strike with 9 prowess  
+> > ***Nearest Darkhaven:*** Geann a-Lisch <br>_**Playable:**_ Information, Items (minor) <br>_**Automatic-attacks:**_<br>&ensp;Pukel-creature --- 1 strike with 9 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“Standing upon the rim of the ruined circle, they saw all round below them a wide prospect...”_ ***---&#65279;LotRII*** 
@@ -34570,7 +34570,7 @@ permalink: /cards/all/
 > Cardolan
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br> Men --- 3 strikes with 6 prowess <br>_**Special:**_ Items may be played at this site even if it is tapped. 
+> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br>&ensp;Men --- 3 strikes with 6 prowess <br>_**Special:**_ Items may be played at this site even if it is tapped. 
 > > 
 > > {: .fs-3 } 
 > > _“Great floods devastate Enedwaiith and Minhiriath. Tharbad is ruined and deserted."_ ***---&#65279;LotR*** 
@@ -34593,7 +34593,7 @@ permalink: /cards/all/
 > Northern Rhovanion
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon --- 1 strike with 14 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Dragon --- 1 strike with 14 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...they could look out and see the dark cavernous opening in a great cliff-wall between the arms of the Mountain. Out of it the waters of the Running River sprang...”_ ***---&#65279;Hob*** 
@@ -34616,7 +34616,7 @@ permalink: /cards/all/
 > Andrast
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Geann a-Lisch <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Pukel-creatures --- 2 strikes with 9 prowess  
+> > ***Nearest Darkhaven:*** Geann a-Lisch <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br>&ensp;Pukel-creatures --- 2 strikes with 9 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...suddenly he saw, towering ominously before him and leaning slightly towards one another like the pillars of a headless door...huge standing stones."_ ***---&#65279;LotRII*** 
@@ -34639,7 +34639,7 @@ permalink: /cards/all/
 > Arthedain
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Wolves --- 2 strikes with 6 prowess 
+> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br>&ensp;Wolves --- 2 strikes with 6 prowess 
 > > 
 > > {: .fs-3 } 
 > > _“...they came to the Far Downs, and to the Towers, and looked on the distant Sea..."_ ***---&#65279;LotRVI***
@@ -34662,7 +34662,7 @@ permalink: /cards/all/
 > Grey Mountain Narrows
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs --- 3 strikes with 7 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 3 strikes with 7 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...behind stood taller shapes of grey, and behind those again were high white peaks glimmering among the clouds."_ ***---&#65279;LotRII*** 
@@ -34685,7 +34685,7 @@ permalink: /cards/all/
 > Cardolan
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Men --- each character faces 1 strike with 9 prowess (detainment against covert company) <br>_**Special:**_ This site never taps. 
+> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br>&ensp;Men --- each character faces 1 strike with 9 prowess (detainment against covert company) <br>_**Special:**_ This site never taps. 
 > > 
 > > {: .fs-3 } 
 > > _“Cloaked by the primordial forest of the Elder Days, the Worthy Hills of the Eryn Vorn remain wild and perilous."_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -34708,7 +34708,7 @@ permalink: /cards/all/
 > Woodland Realm
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Information, Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>  (1st) Elves --- each character faces 1 strike with 9 prowess (detainment against covert company) <br>(2nd) Elves --- 3 strikes with 10 prowess (against overt company only) 
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Information, Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>&ensp;(1st) Elves --- each character faces 1 strike with 9 prowess (detainment against covert company) <br>&ensp;(2nd) Elves --- 3 strikes with 10 prowess (against overt company only) 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -34748,7 +34748,7 @@ permalink: /cards/all/
 > Lamedon
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men --- each character face 1 strike with 7 prowess (detainment against covert companies)  
+> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Men --- each character face 1 strike with 7 prowess (detainment against covert companies)  
 > > 
 > > {: .fs-3 } 
 > > _“‘For at Erech there stands yet a black stone that was brought, it was said, from Numenor by Isildur; and it was set upon a hill...’”_ ***---&#65279;LotRV*** 
@@ -34771,7 +34771,7 @@ permalink: /cards/all/
 > Khand
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Automatic-attacks:**_<br> Men --- each character faces 1 strike with 5 prowess (detainment against covert company)  
+> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Automatic-attacks:**_<br>&ensp;Men --- each character faces 1 strike with 5 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
 > > _“...a great peril to Gondor...a threat to the fiefs of the south that would prove deadly..."_ ***---&#65279;LotR*** 
@@ -34794,7 +34794,7 @@ permalink: /cards/all/
 > Western Mirkwood
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Automatic-attacks:**_<br> Men --- each character faces 1 strike with 6 prowess (detainment against covert company)  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Automatic-attacks:**_<br>&ensp;Men --- each character faces 1 strike with 6 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
 > > _“Most of the Men of the northern regions of the Westlands were descended from the Edain of the First Age, or their close kin. ...Of this kind were...the Woodmen of Western Mirkwood."_ ***---&#65279;LotR*** 
@@ -34817,7 +34817,7 @@ permalink: /cards/all/
 > Old Pukel-land
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Geann a-Lisch <br>_**Automatic-attacks:**_<br> Men --- 3 strikes with 5 prowess  
+> > ***Nearest Darkhaven:*** Geann a-Lisch <br>_**Automatic-attacks:**_<br>&ensp;Men --- 3 strikes with 5 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...they found themselves in a rock-chamber, wide and rough, with an uneven stooping roof."_ ***---&#65279;LotRIV*** 
@@ -34840,7 +34840,7 @@ permalink: /cards/all/
 > Angmar
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Dragon --- 1 strike with 11 prowess  
+> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Dragon --- 1 strike with 11 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘While an armed host lies before the doors, we look upon you as foes and thieves."_ ***---&#65279;Hob*** 
@@ -35215,7 +35215,7 @@ permalink: /cards/all/
 > Dwarf Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Manifestation of minion Petty-dwarves._ &ensp;***Playable at The Worthy Hills*** <br>&ensp;if the influence check is greater than 10. <br>_Standard Modifications:_ Elves (-2). 
+> > _**Unique.**_ _Manifestation of minion Petty-dwarves._ &ensp;***Playable at The Worthy Hills*** <br>&ensp;if the influence check is greater than 10. <br>_Standard Modifications:_ Elves (-2), Dwarves (+2). 
 > > 
 > > {: .fs-3 } 
 > > _“In times past, the Petty-dwarves offered enemies shelter in their hidden halls as ransom for their threatened lives."_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -37257,7 +37257,7 @@ permalink: /cards/all/
 > Udun
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_ <br>Orcs --- 5 strikes with 8 prowess <br>Trolls --- 2 strikes with 8 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_ <br>&ensp;Orcs --- 5 strikes with 8 prowess <br>Trolls --- 2 strikes with 8 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“This was Cirith Gorgor, the Haunted Pass, the entrance to the land of the Enemy"_ ***---&#65279;LotRIV***
@@ -37280,7 +37280,7 @@ permalink: /cards/all/
 > Old Pukel-land
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br> Men --- 4 strikes with 8 prowess <br>_**Special:**_ Any Man hazard creature can be played at this site. 
+> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Men --- 4 strikes with 8 prowess <br>_**Special:**_ Any Man hazard creature can be played at this site. 
 > > 
 > > {: .fs-3 } 
 > > _“‘Here lived tall Adan captains who once sailed near the lights of the Undying Lands.’”_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -37303,7 +37303,7 @@ permalink: /cards/all/
 > Harondor
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Men --- 4 strikes with 9 prowess (detainment)   
+> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Men --- 4 strikes with 9 prowess (detainment)   
 > > 
 > > {: .fs-3 } 
 > > _“...could be seen in clear weather even on the coasts of Gondor or far upon the western sea."_ ***---&#65279;LotR*** 
@@ -37326,7 +37326,7 @@ permalink: /cards/all/
 > Nurn
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br> Men --- 4 strikes with 7 prowess  
+> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Men --- 4 strikes with 7 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘With spring comes water and flowers and festivals, where their little horses and precious arrows perform miracles.’”_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -37349,7 +37349,7 @@ permalink: /cards/all/
 > Horse Plain
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Men --- 4 strikes with 9 prowess (detainment)  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Men --- 4 strikes with 9 prowess (detainment)  
 > > 
 > > {: .fs-3 } 
 > > _“‘It looks like a rock from afar, and tales of murder ward away those who might draw close by.’”_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -37372,7 +37372,7 @@ permalink: /cards/all/
 > Cardolan
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Men --- each character faces 1 strike with 9 prowess (detainment) <br>_**Special:**_ During the site phase, you may tap two characters to untap this site---one a sage, one a scout. 
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br>&ensp;Men --- each character faces 1 strike with 9 prowess (detainment) <br>_**Special:**_ During the site phase, you may tap two characters to untap this site---one a sage, one a scout. 
 > > 
 > > {: .fs-3 } 
 > > _“Everything seemed to be alive and threatening, as if a blooming malice was creeping up the slopes."_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -37395,7 +37395,7 @@ permalink: /cards/all/
 > Withered Heath
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon --- 2 strikes with 11 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Dragon --- 2 strikes with 11 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...he knew how evil and danger had thriven in the Wild, since the dragons had driven men from the lands...”_ ***---&#65279;Hob*** 
@@ -37418,7 +37418,7 @@ permalink: /cards/all/
 > Anduin Vales
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br> Animals --- 2 strikes with 10 prowess (attacker chooses defending characters)  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Animals --- 2 strikes with 10 prowess (attacker chooses defending characters)  
 > > 
 > > {: .fs-3 } 
 > > _“The eagles had brought up dry boughs for fuel, ...rabbits, hares, and a small sheep."_ ***---&#65279;Hob*** 
@@ -37441,7 +37441,7 @@ permalink: /cards/all/
 > Anfalas
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Geann a-Lisch <br>_**Playable:**_ Information, Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br>  Elves --- 4 strikes with 7 prowess <br>Dunedain --- 3 strikes with 10 prowess <br>_**Special:**_ Any company moving to this site has its hazard limit increased by 2. A minion company may not attack another company at this site. A Ringwraith may not move to this site.  
+> > ***Nearest Darkhaven:*** Geann a-Lisch <br>_**Playable:**_ Information, Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br>&ensp;Elves --- 4 strikes with 7 prowess <br>&ensp;Dunedain --- 3 strikes with 10 prowess <br>_**Special:**_ Any company moving to this site has its hazard limit increased by 2. A minion company may not attack another company at this site. A Ringwraith may not move to this site.  
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;3&ensp;</span><span class="minion-opp-draw">&ensp;5&ensp;</span></div>
@@ -37461,7 +37461,7 @@ permalink: /cards/all/
 > Anduin Vales
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br> Men --- 1 strike with 10 prowess <br>_**Special:**_ The first minor item played at this site each turn does not tap the site. Contains a hoard. 
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br>&ensp;Men --- 1 strike with 10 prowess <br>_**Special:**_ The first minor item played at this site each turn does not tap the site. Contains a hoard. 
 > > 
 > > {: .fs-3 } 
 > > _“...they...drove away the remnants of the people of Angmar on the east side of the Mountains."_ ***---&#65279;LotR*** 
@@ -37484,7 +37484,7 @@ permalink: /cards/all/
 > Withered Heath
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon --- 1 strike with 15 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Dragon --- 1 strike with 15 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘Up there, in the lone peak, you'll find more than just ice and rock. It's full of gold! Of course, there's a price...’”_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -37507,7 +37507,7 @@ permalink: /cards/all/
 > Lindon
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Information, Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br>  Elves --- 3 strikes with 8 prowess <br>Elves --- 2 strikes with 10 prowess <br>_**Special:**_ Any company moving to this site has its hazard limit increased by 2. A minion company may not attack another company at this site. A Ringwraith may not move to this site.  
+> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Information, Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br>&ensp;Elves --- 3 strikes with 8 prowess <br>&ensp;Elves --- 2 strikes with 10 prowess <br>_**Special:**_ Any company moving to this site has its hazard limit increased by 2. A minion company may not attack another company at this site. A Ringwraith may not move to this site.  
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>
@@ -37527,7 +37527,7 @@ permalink: /cards/all/
 > Elven Shores
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Geann a-Lisch <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Undead --- 1 strike with 8 prowess, each character wounded must make a corruption check modified by -2 <br>_**Special:**_ An overt company must tap an untapped character (if available) if this site is revealed as its new site.  
+> > ***Nearest Darkhaven:*** Geann a-Lisch <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Undead --- 1 strike with 8 prowess, each character wounded must make a corruption check modified by -2 <br>_**Special:**_ An overt company must tap an untapped character (if available) if this site is revealed as its new site.  
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;3&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>
@@ -37547,7 +37547,7 @@ permalink: /cards/all/
 > Withered Heath
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon --- 1 strike with 14 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Dragon --- 1 strike with 14 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘Its name is well given, for if you survive the climb and the cold and the wind, the worm awaits."_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -37570,7 +37570,7 @@ permalink: /cards/all/
 > Andrast Coast
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Geann a-Lisch <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br> Dragon --- 1 strike with 14 prowess <br>_**Special:**_ An overt company must tap an untapped character (if available) if this site is revealed as its new site. 
+> > ***Nearest Darkhaven:*** Geann a-Lisch <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Dragon --- 1 strike with 14 prowess <br>_**Special:**_ An overt company must tap an untapped character (if available) if this site is revealed as its new site. 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -37590,7 +37590,7 @@ permalink: /cards/all/
 > Eriadoran Coast
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Geann a-Lisch <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br> Undead --- 2 strikes with 8 prowess, each character wounded must make a corruption check modified by -2 <br>_**Special:**_ A covert company must tap an untapped character (if available) if this site is revealed as its new site.  
+> > ***Nearest Darkhaven:*** Geann a-Lisch <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Undead --- 2 strikes with 8 prowess, each character wounded must make a corruption check modified by -2 <br>_**Special:**_ A covert company must tap an untapped character (if available) if this site is revealed as its new site.  
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -37610,7 +37610,7 @@ permalink: /cards/all/
 > Wold & Foothills
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur  <br>_**Playable:**_ Information, Items (minor, major, greater, gold ring) <br>***Automatic-attacks (3):***  <br>Elves --- 4 strikes with 8 prowess; <br>Elves --- 3 strikes with 9 prowess; <br>Elves --- 2 strikes with 10 prowess; <br>_**Special:**_ Any company moving to this site has its hazard limit increased by 2. A minion company may not attack another company at this site. A Ringwraith may not move to the site. 
+> > ***Nearest Darkhaven:*** Dol Guldur  <br>_**Playable:**_ Information, Items (minor, major, greater, gold ring) <br>***Automatic-attacks (3):***  <br>&ensp;Elves --- 4 strikes with 8 prowess; <br>&ensp;Elves --- 3 strikes with 9 prowess; <br>&ensp;Elves --- 2 strikes with 10 prowess; <br>_**Special:**_ Any company moving to this site has its hazard limit increased by 2. A minion company may not attack another company at this site. A Ringwraith may not move to the site. 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;4&ensp;</span></div>
@@ -37630,7 +37630,7 @@ permalink: /cards/all/
 > Cardolan
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Maia --- 2 strikes with 15 prowess (cannot be canceled)  
+> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Maia --- 2 strikes with 15 prowess (cannot be canceled)  
 > > 
 > > {: .fs-3 } 
 > > _“‘Very few people live in these parts, unless they have come here since I was last down this way, which is some years ago. But there is somebody that I know of, who lives not far away.’”_ ***---&#65279;Hob*** 
@@ -37653,7 +37653,7 @@ permalink: /cards/all/
 > Grey Mountain Narrows
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur  <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Dragon --- 1 strike with 12 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur  <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Dragon --- 1 strike with 12 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“From out of the hollow came a cry, the song of an angry white bear, a warning of cold doom."_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -37676,7 +37676,7 @@ permalink: /cards/all/
 > Southern Mirkwood
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur  <br>_**Playable:**_ Information, Items (minor) <br>_**Automatic-attacks (2):**_<br>  Maia --- 1 strike with 13 prowess; <br>Maia --- 1 strike with 13 prowess. <br>_**Special:**_ If the Wizard card _Radagast_ is in play, the automatic-attacks are removed. 
+> > ***Nearest Darkhaven:*** Dol Guldur  <br>_**Playable:**_ Information, Items (minor) <br>_**Automatic-attacks (2):**_<br>&ensp;Maia --- 1 strike with 13 prowess; <br>&ensp;Maia --- 1 strike with 13 prowess. <br>_**Special:**_ If the Wizard card _Radagast_ is in play, the automatic-attacks are removed. 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -37696,7 +37696,7 @@ permalink: /cards/all/
 > Rhudaur
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Information, Items (minor, major, greater, gold ring) <br>_**Automatic-attacks (2):**_<br>  Elves --- 4 strikes with 8 prowess; <br>Dunedain --- 3 strikes with 10 prowess <br>_**Special:**_ Any company moving to this site has its hazard limit increased by 2. A minion company may not attack another company at this site. A Ringwraith may not move to this site. 
+> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Information, Items (minor, major, greater, gold ring) <br>_**Automatic-attacks (2):**_<br>&ensp;Elves --- 4 strikes with 8 prowess; <br>&ensp;Dunedain --- 3 strikes with 10 prowess <br>_**Special:**_ Any company moving to this site has its hazard limit increased by 2. A minion company may not attack another company at this site. A Ringwraith may not move to this site. 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>
@@ -37713,7 +37713,7 @@ permalink: /cards/all/
 > Under-deeps
 >
 > {: .minion-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Glittering Caves (0), The Pukel-deeps (9), The Under-gates (6) <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>  Undead (1st attack) --- 3 strikes with 9 prowess;  <br>(2nd attack) --- Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Any Undead creature of Pukel-creature may be played as this site. 
+> > _**Adjacent Sites:**_ Glittering Caves (0), The Pukel-deeps (9), The Under-gates (6) <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>&ensp;Undead (1st attack) --- 3 strikes with 9 prowess;  <br>&ensp;(2nd attack) --- Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Any Undead creature of Pukel-creature may be played as this site. 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>
@@ -37730,7 +37730,7 @@ permalink: /cards/all/
 > Under-deeps
 >
 > {: .minion-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Carn Dum (0), The Under-leas (5), The Under-vaults (6) <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br> Trolls --- 3 strikes with 10 prowess (detainment) 
+> > _**Adjacent Sites:**_ Carn Dum (0), The Under-leas (5), The Under-vaults (6) <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br>&ensp;Trolls --- 3 strikes with 10 prowess (detainment) 
 > > 
 > > {: .fs-3 } 
 > > _“Everything was iron-red, as if all the rocks were bleeding."_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -37750,7 +37750,7 @@ permalink: /cards/all/
 > Under-deeps
 >
 > {: .minion-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Dunharrow (0), The Gem-deeps (9), The Sulfur-deeps (9) <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks (2):**_<br> Pukel-creature (1st attack) --- 2 strikes with 11 prowess; <br>(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr>. <br>_**Special:**_ Any Undead creature or Pukel-creature may also be keyed to this site. 
+> > _**Adjacent Sites:**_ Dunharrow (0), The Gem-deeps (9), The Sulfur-deeps (9) <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks (2):**_<br>&ensp;Pukel-creature (1st attack) --- 2 strikes with 11 prowess; <br>&ensp;(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr>. <br>_**Special:**_ Any Undead creature or Pukel-creature may also be keyed to this site. 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>
@@ -37767,7 +37767,7 @@ permalink: /cards/all/
 > Under-deeps
 >
 > {: .minion-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Dol Guldur (0), The Under-courts (4), The Pukel-deeps (9), The Under-gates (4), The Under-galleries (7) <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br> Trolls --- 2 strikes with 10 prowess (detainment)  
+> > _**Adjacent Sites:**_ Dol Guldur (0), The Under-courts (4), The Pukel-deeps (9), The Under-gates (4), The Under-galleries (7) <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br>&ensp;Trolls --- 2 strikes with 10 prowess (detainment)  
 > > 
 > > {: .fs-3 } 
 > > _“‘Amidst the stench all our silver turned black and all our party turned back.’”_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -37787,7 +37787,7 @@ permalink: /cards/all/
 > Under-deeps
 >
 > {: .minion-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Barad-dur (0), The Sulfur-deeps (4), The Under-galleries (4) <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br> Trolls --- 3 strikes with 10 prowess (detainment)  
+> > _**Adjacent Sites:**_ Barad-dur (0), The Sulfur-deeps (4), The Under-galleries (4) <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br>&ensp;Trolls --- 3 strikes with 10 prowess (detainment)  
 > > 
 > > {: .fs-3 } 
 > > _“Walls too high to measure descended into pits too deep to fathom."_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -37807,7 +37807,7 @@ permalink: /cards/all/
 > Under-deeps
 >
 > {: .minion-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Any site in Udun (0), The Under-courts (4), The Sulfur-deeps (7) <br>_**Playable:**_ Information, Items (minor) <br>_**Automatic-attacks:**_<br> Trolls --- 4 strikes with 10 prowess (detainment)  
+> > _**Adjacent Sites:**_ Any site in Udun (0), The Under-courts (4), The Sulfur-deeps (7) <br>_**Playable:**_ Information, Items (minor) <br>_**Automatic-attacks:**_<br>&ensp;Trolls --- 4 strikes with 10 prowess (detainment)  
 > > 
 > > {: .fs-3 } 
 > > _“Here wer bred countless, unspeakable things."_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -37827,7 +37827,7 @@ permalink: /cards/all/
 > Under-deeps
 >
 > {: .minion-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Moria (0), The Under-grottos (7), The Gem-deeps (6), The Sulfur-deeps (4), The Under-leas (5) <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>  Balrog (1st attack) --- 2 strikes with 16 prowess;  <br>(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> <br>_**Special:**_ Non-Nazgul creatures played at this site attack normally, not as detainment. If a manifestation of _Balrog of Moria_ is in play or defeated, the first automatic attack is canceled. 
+> > _**Adjacent Sites:**_ Moria (0), The Under-grottos (7), The Gem-deeps (6), The Sulfur-deeps (4), The Under-leas (5) <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>&ensp;Balrog (1st attack) --- 2 strikes with 16 prowess;  <br>&ensp;(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> <br>_**Special:**_ Non-Nazgul creatures played at this site attack normally, not as detainment. If a manifestation of _Balrog of Moria_ is in play or defeated, the first automatic attack is canceled. 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -37844,7 +37844,7 @@ permalink: /cards/all/
 > Under-deeps
 >
 > {: .minion-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Goblin-gate (0), The Under-leas (7), The Under-gates (7) <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>  Orcs (1st attack) --- 4 strikes with 7 prowess;  <br>(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ When any gold ring is tested in a company at this site, the result of the roll is modified by +1. 
+> > _**Adjacent Sites:**_ Goblin-gate (0), The Under-leas (7), The Under-gates (7) <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>&ensp;Orcs (1st attack) --- 4 strikes with 7 prowess;  <br>&ensp;(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ When any gold ring is tested in a company at this site, the result of the roll is modified by +1. 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>
@@ -37861,7 +37861,7 @@ permalink: /cards/all/
 > Under-deeps
 >
 > {: .minion-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Mount Gundabad (0), The Iron-deeps (5), The Under-grottos (7), The Under-gates (5), The Under-vaults (6) <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>  Orcs (1st attack) --- 5 strikes with 7 prowess (detainment against overt company); <br>(2nd attack) --- Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> <br>_**Special:**_ Non-Nazgul creatures played at this site attack normally, not as detainment. 
+> > _**Adjacent Sites:**_ Mount Gundabad (0), The Iron-deeps (5), The Under-grottos (7), The Under-gates (5), The Under-vaults (6) <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>&ensp;Orcs (1st attack) --- 5 strikes with 7 prowess (detainment against overt company); <br>&ensp;(2nd attack) --- Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> <br>_**Special:**_ Non-Nazgul creatures played at this site attack normally, not as detainment. 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -37878,7 +37878,7 @@ permalink: /cards/all/
 > Under-deeps
 >
 > {: .minion-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Mount Gram (0), The Iron-deeps (6), The Under-leas (6) <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>  Undead (1st attack) --- 3 strikes with 8 prowess  <br>(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Any Undead creature may be played at this site. 
+> > _**Adjacent Sites:**_ Mount Gram (0), The Iron-deeps (6), The Under-leas (6) <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>&ensp;Undead (1st attack) --- 3 strikes with 8 prowess  <br>&ensp;(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Any Undead creature may be played at this site. 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -37898,7 +37898,7 @@ permalink: /cards/all/
 > Mouths of the Anduin
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Items (minor, major, greater\*) <br>&ensp;\*---_Scroll of Isildur_ only <br>_**Automatic-attacks:**_<br> Undead --- 3 strikes with 7 prowess, each character wounded must make a corruption check modified by -2 <br>_**Special:**_ An overt company must tap an untapped character (if available) if this site is revealed as a new site.  
+> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Items (minor, major, greater\*) <br>&ensp;\*---_Scroll of Isildur_ only <br>_**Automatic-attacks:**_<br>&ensp;Undead --- 3 strikes with 7 prowess, each character wounded must make a corruption check modified by -2 <br>_**Special:**_ An overt company must tap an untapped character (if available) if this site is revealed as a new site.  
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -37918,7 +37918,7 @@ permalink: /cards/all/
 > Arthedain
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Wolves --- 2 strikes with 6 prowess  
+> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br>&ensp;Wolves --- 2 strikes with 6 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘...in the first days of the North Kingdom, they built a great watch-tower on Weathertop, Amon Sul they called it."_ ***---&#65279;LotRII*** 
@@ -37941,7 +37941,7 @@ permalink: /cards/all/
 > Fangorn
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur  <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br> Awakened Plant --- 2 strikes with 10 prowess, <br>Awakened Plant --- 2 strikes with 10 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur  <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>&ensp;Awakened Plant --- 2 strikes with 10 prowess, <br>&ensp;Awakened Plant --- 2 strikes with 10 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“A little steam escaped from the springs above...tinkling down the sheer face of the wall, pouring in sheer drops, link a fine curtain...”_ ***---&#65279;LotRIII*** 
@@ -41371,7 +41371,7 @@ permalink: /cards/all/
 > Warrior/Ranger/Sage Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against Wood-elves faction. 
+> > _**Unique.**_ +2 direct influence against the Wood-elves faction. 
 > > 
 > > {: .fs-3 } 
 > > _“In a great hall with pillars hewn out of the living stones sat the Elvenking on a chair of carven wood. On his head was a crown of berries and red leaves... In his hand he held a carven staff of oak."_ ***---&#65279;Hob***  
@@ -41944,7 +41944,7 @@ permalink: /cards/all/
 > > _Unique._ _Weapon._ +3 to prowess to a maximum of 9 (+4 prowess to a maximum of 10 against Orcs). 
 > > 
 > > {: .fs-3 } 
-> > _“They had called it Orcrist, Goblin-cleaver, but the Goblins called it simply Biter. They hated it and hated worse anyone that carried it."_ ***---&#65279;Hob*** 
+> > _“They had called it Orcrist, Goblin-cleaver, but the Goblins called it simply Biter. They hated it and hated worse any one that carried it."_ ***---&#65279;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +3/&ndash; 】</div>
@@ -42004,7 +42004,7 @@ permalink: /cards/all/
 > > _Unique._ When a Gold Ring is tested in a company with the _Scroll of Isildur_, the result of the roll (or draw) is modified by +2. 
 > > 
 > > {: .fs-3 } 
-> > _“Yet even as I write it is cooled, and it seemeth to shrink, though it loseth neither its beauty nor its shape. Already the writing upon it, which was at first clear as red flame, fadeth and now only barely to be read."_ ***---&#65279;LotRII***  
+> > _“Yet even as I write it is cooled, and it seemeth to shrink, though it loseth neither its beauty nor its shape. Already the writing upon it, which was at first clear as red flame, fadeth and is now only barely to be read."_ ***---&#65279;LotRII***  
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -42424,7 +42424,7 @@ permalink: /cards/all/
 > > -3 to the prowess and body of a non-Nazgul attack with a normal prowess of 13 or more. Cannot be duplicated on a given attack. 
 > > 
 > > {: .fs-3 } 
-> > _“Suddenly out of the dark something fluttered to his shoulder. 'Wait! Wait!' it said to him. 'The moon is rising. Look for the hollow of the left breast as he flies and turns above you!’” ***---&#65279;Hob***  
+> > _“Suddenly out of the dark something fluttered to his shoulder. 'Wait! Wait!' it said to him. 'The moon is rising. Look for the hollow of the left breast as he flies and turns above you!’”_ ***---&#65279;Hob***  
 > 
 
 ---
@@ -42612,7 +42612,7 @@ permalink: /cards/all/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Men._ Five strikes. May also be played keyed to Andrast, Anfalas, Belfalas, Cardolan, Enedhwaith, Harondor, Lindon, Lebennin, and Old Pukel-land; and may also be played at Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> and Shadow-holds <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> in these regions. May also be played at any site in Elven Shores, Eriadoran Coast, Andrast Coast, Bay of Belfalas, or mouths of the Anduin. 
+> > _Men._ Five strikes. May also be played keyed to Andrast, Anfalas, Belfalas, Cardolan, Enedhwaith, Harondor, Lindon, Lebennin, and Old Pukel-land; and may also be played at Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> and Shadow-holds <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> in these regions. May also be played at any site in Elven Shores, Eriadoran Coast, Andrast Coast, Bay of Belfalas, or Mouths of the Anduin. 
 > > 
 > > {: .fs-3 } 
 > > _“...with black sails bellying in the wind."_ ***---&#65279;LotRV*** 
@@ -42903,7 +42903,7 @@ permalink: /cards/all/
 > > The bearer of a Ring must make a corruption check modified by -2. If the bearer fails this corruption check, his Ring is discarded, but he remains in play. 
 > > 
 > > {: .fs-3 } 
-> > _“Isildur was marching north along the east banks of the river... He leapt into the waters, but the Ring slipped from his finger as he swam, and then the Orcs saw him and killed him with arrows."_ ***---&#65279;LotRI*** 
+> > _“Isildur was marching north along the east banks of the River... He leapt into the waters, but the Ring slipped from his finger as he swam, and then the Orcs saw him and killed him with arrows."_ ***---&#65279;LotRI*** 
 >
 
 ---
@@ -42937,7 +42937,7 @@ permalink: /cards/all/
 > Brown Lands
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Men - 3 strikes with 6 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Men --- 3 strikes with 6 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...There were all the baggages and packages lying broken open, and being rummaged by goblins, and smelt by goblins, and fingered by goblins, and quarreled over by goblins."_ ***---&#65279;Hob*** 
@@ -42960,7 +42960,7 @@ permalink: /cards/all/
 > Cardolan
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Undead - 1 strike with 8 prowess; each character wounded must make a corruption check  
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Undead --- 1 strike with 8 prowess; each character wounded must make a corruption check  
 > > 
 > > {: .fs-3 } 
 > > _“...the green mounds, and the stone-rings upon the hills and on the hollows...”_ ***---&#65279;LotRI*** 
@@ -43052,7 +43052,7 @@ permalink: /cards/all/
 > Angmar
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Orcs - 4 strikes with 7 prowess  
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 4 strikes with 7 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...They were foes of the Dark Lord, but they were overcome by the evil king of Carn Dum in the Land of Angmar."_ ***---&#65279;LotRI*** 
@@ -43075,7 +43075,7 @@ permalink: /cards/all/
 > Withered Heath
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon - 1 strike with 13 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Dragon --- 1 strike with 13 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“That...is the dangerous part about caves: you don't know how far they go back...or what is waiting for you inside."_ ***---&#65279;Hob*** 
@@ -43098,7 +43098,7 @@ permalink: /cards/all/
 > Dagorlad
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Undead - 2 strikes with 8 prowess; each character wounded must make a corruption check  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br>&ensp;Undead --- 2 strikes with 8 prowess; each character wounded must make a corruption check  
 > > 
 > > {: .fs-3 } 
 > > _“...opening into wide stagnant meres,...difficult to find the firmer places...”_ ***---&#65279;LotRIV*** 
@@ -43207,7 +43207,7 @@ permalink: /cards/all/
 > Anduin Vales
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Undead - 1 strike with 8 prowess; each character wounded must make a corruption check  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Undead --- 1 strike with 8 prowess; each character wounded must make a corruption check  
 > > 
 > > {: .fs-3 } 
 > > _“...where there were great beds of iris and flowering reeds."_ ***---&#65279;LotRI*** 
@@ -43230,7 +43230,7 @@ permalink: /cards/all/
 > Gap of Isen
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Pukel-creature - 1 strike with 9 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Pukel-creature --- 1 strike with 9 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘...columns of white and saffron and dawn-rose...glistening pendants of the roof: wings, ropes, curtains fine as frozen clouds...pinnacles of suspended palaces!’”_ ***---&#65279;LotRIII*** 
@@ -43253,7 +43253,7 @@ permalink: /cards/all/
 > High Pass
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 6 prowess  
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 3 strikes with 6 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“It was deep, deep dark, such as only goblins...living in the heart of the mountains can see through. The passages there were crossed and tangled in all directions...”_ ***---&#65279;Hob*** 
@@ -43342,7 +43342,7 @@ permalink: /cards/all/
 > Gap of Isen
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br> Wolves - 3 strikes with 7 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Wolves --- 3 strikes with 7 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...four mighty piers of many-sided stone were welded into one, but near the summit they opened into gaping horns, their pinnacles sharp as the points of spears..."_ ***---&#65279;LotRIII*** 
@@ -43368,7 +43368,7 @@ permalink: /cards/all/
 > > _**Nearest Haven:**_ Edhellond  
 > > 
 > > {: .fs-3 } 
-> > _“‘Or we might pass by and cross the Isen into Langstrans and Lebennin, and so come to Gondo from the regions nigh to the sea.’”_ ***---&#65279;LotRII*** 
+> > _“‘Or we might pass by and cross the Isen into Langstrand and Lebennin, and so come to Gondor from the regions nigh to the sea.’”_ ***---&#65279;LotRII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -43408,7 +43408,7 @@ permalink: /cards/all/
 > Forochel
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major, greater\*) \*-Palantiri Only <br>_**Automatic-attacks:**_<br> Undead - 2 strikes with 8 prowess; each character wounded must make a corruption check 
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major, greater\*) \*-Palantiri Only <br>_**Automatic-attacks:**_<br>&ensp;Undead --- 2 strikes with 8 prowess; each character wounded must make a corruption check 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -43451,7 +43451,7 @@ permalink: /cards/all/
 > Redhorn Gate
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Orcs - 4 strikes with 7 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 4 strikes with 7 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“In the pale ray of the wizard's staff...glimpses of stairs and arches, and of other passages and tunnels...”_ ***---&#65279;LotRII*** 
@@ -43474,7 +43474,7 @@ permalink: /cards/all/
 > Angmar
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 6 prowess  
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 3 strikes with 6 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“He charged the ranks of the goblins of Mount Gram in the Battle of the Green Fields, and knocked their king Golfimbul's head clean off with a wooden club."_ ***---&#65279;Hob*** 
@@ -43497,7 +43497,7 @@ permalink: /cards/all/
 > Gundabad
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br> Orcs - 2 strikes with 8 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 2 strikes with 8 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...around and beneath the great mountain Gundabad of the North...a vast host was assembled...”_ ***---&#65279;Hob*** 
@@ -43523,7 +43523,7 @@ permalink: /cards/all/
 > > _**Nearest Haven:**_ Rivendell <br>_**Special:**_ Healing effects affect all characters at the site  
 > > 
 > > {: .fs-3 } 
-> > _“‘For you are still afraid, perhaps, of mist and tree-shadows and deep water, and untame things. Fear Nothing!’”_ ***---&#65279;LotRI*** 
+> > _“‘For you are still afraid, perhaps, of mist and tree-shadows and deep water, and untame things. Fear nothing!’”_ ***---&#65279;LotRI*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -43609,7 +43609,7 @@ permalink: /cards/all/
 > Heart of Mirkwood
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 5 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 3 strikes with 5 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...there, parting the tumbling waters of the Enchanted River, stood a shadowy spire that served as fast hold for those who would remake the great Greenwood."_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -43655,7 +43655,7 @@ permalink: /cards/all/
 > Northern Rhovanion
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon - 1 strike with 14 prowess  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Dragon --- 1 strike with 14 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“And far away, its dark head in a torn cloud, there loomed the Mountain! ...All alone it rose...”_ ***---&#65279;Hob*** 
@@ -43701,7 +43701,7 @@ permalink: /cards/all/
 > Mouths of the Anduin
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major, greater\*) \*-Scroll of Isildur only <br>_**Automatic-attacks:**_<br> Undead - 3 strikes with 7 prowess; each character wounded must make a corruption check  
+> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major, greater\*) \*-Scroll of Isildur only <br>_**Automatic-attacks:**_<br>&ensp;Undead --- 3 strikes with 7 prowess; each character wounded must make a corruption check  
 > > 
 > > {: .fs-3 } 
 > > _“Tolfalas, the great Coastal Island, ...guards the heartland of Gondor...”_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -44036,7 +44036,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Flattery attempt. Playable on a character whose company is facing an attack of the type listed below. Character makes an influence check (modified by his usual direct influence and +2 if a diplomat). If successful, the attack is canceled and the hazard limit for the character's company is decreased by two. The influence check is successful if the result is greater than: 10 against a Dragon; 11 against Men or Drakes; 12 against Trolls, Orcs, Elves, and Giants. 
+> > Flattery attempt. Playable on a character whose company is facing an attack of the type listed below. Character makes an influence check (modified by his unused direct influence and +2 if a diplomat). If successful, the attack is canceled and the hazard limit for the character's company is decreased by two. The influence check is successful if the result is greater than: 10 against a Dragon; 11 against Men or Drakes; 12 against Trolls, Orcs, Elves, and Giants. 
 > 
 
 ---
@@ -44124,7 +44124,7 @@ permalink: /cards/all/
 > > _Wolves._ Four strikes. Two wildernesses <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> in site path are required. 
 > > 
 > > {: .fs-3 } 
-> > _“...the evil packs that lived under the shadow of the goblin-infested mountains, over the Edge of the Wild on the borders of the unknown. Wolves of that sort smell keened than goblins, and do not need to see you to catch you!"_ ***---&#65279;Hob*** 
+> > _“...the evil packs that lived under the shadow of the goblin-infested mountains, over the Edge of the Wild on the borders of the unknown. Wolves of that sort smell keener than goblins, and do not need to see you to catch you!"_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 8/4 】</div>
@@ -44144,7 +44144,7 @@ permalink: /cards/all/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Orcs._ Two strikes. Two Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> in site path are required. 
+> > _Orcs._ Two strikes. 
 > > 
 > > {: .fs-3 } 
 > > _“‘...Before you could get round Mirkwood in the North you would be right among the slopes of the Grey Mountains, and they are simply stiff with goblins, hobgoblins, and orcs of the worst description."_ ***---&#65279;Hob*** 
@@ -44190,7 +44190,7 @@ permalink: /cards/all/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Drake._ One strikes. Three Wildernesses <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> in the site path are required. May also be played at Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> that has two Wildernesses <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> or one Coastal Sea <nobr>[<img src="/assets/images/coastalsea.svg">]</nobr> in its site path. 
+> > _Drake._ One strikes. Three Wildernesses <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> in the site path are required. May also be played at a Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> that has two Wildernesses <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> or one Coastal Sea <nobr>[<img src="/assets/images/coastalsea.svg">]</nobr> in its site path. 
 > > 
 > > {: .fs-3 } 
 > > _“There are strange things living in the pools and lakes in the hearts of mountains."_ ***---&#65279;Hob*** 
@@ -44352,7 +44352,7 @@ permalink: /cards/all/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > At the end of each turn, each player may take one unique Dragon manifestation or one Drake hazard creature from his discard pile and shufle it into his play deck. Alternatively, if Doors of Night is in play, at the end of each turn, each player may return one unique Dragon manifestation and/or one Drake hazard creature from his discard pile to his hand. Cannot be duplicated. 
+> > At the end of each turn, each player may take one unique Dragon manifestation or one Drake hazard creature from his discard pile and shuffle it into his play deck. Alternatively, if Doors of Night is in play, at the end of each turn, each player may return one unique Dragon manifestation and/or one Drake hazard creature from his discard pile to his hand. Cannot be duplicated. 
 >
 
 ---
@@ -44437,7 +44437,7 @@ permalink: /cards/all/
 > Southern Rhovanion
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Troll-1 strike with 10 prowess <br>_**Special:**_ This site is always returned to the location deck, never to the discard pile. 
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Troll --- 1 strike with 10 prowess <br>_**Special:**_ This site is always returned to the location deck, never to the discard pile. 
 > > 
 > > {: .fs-3 } 
 > > _“...from their tree-felling they created the grassy East Blight, where stood Buhr Widu, their lord's hold and capital."_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -44483,10 +44483,10 @@ permalink: /cards/all/
 > Andrast Coast
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Dragon-1 strike with 14 prowess  
+> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Dragon --- 1 strike with 14 prowess  
 > > 
 > > {: .fs-3 } 
-> > _“Deep, sea washed chambers of coral lie beneath the island's cliffs and resound with the echoes of the violent tides."_ ***---&#65279;Kuduk&nbsp;Lore*** 
+> > _“Deep, sea-washed chambers of coral lie beneath the island's cliffs and resound with the echoes of the violent tides."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -44506,7 +44506,7 @@ permalink: /cards/all/
 > Angmar
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Dragon-1 strike with 11 prowess  
+> > _**Nearest Haven:**_ Rivendell <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Dragon --- 1 strike with 11 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“The intricate and exquisite Dwarven city delved into the mountains of Angmar was abandoned in the aftermath of a deadly pestilence."_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -44785,10 +44785,10 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on an Undead hazard creature in your discard pile. If target Undead can attack, brig it into play as a creature that attacks immediately (not counting against the hazard limit). The attacks prowess is modified by -1. 
+> > Playable on an Undead hazard creature in your discard pile. If target Undead can attack, bring it into play as a creature that attacks immediately (not counting against the hazard limit). The attack's prowess is modified by -1. 
 > > 
 > > {: .fs-3 } 
-> > _“...wavering and blowing like a noisome exhalation of decay, a corpse-light, a light the illuminated nothing."_ ***---&#65279;LotRIV*** 
+> > _“...wavering and blowing like a noisome exhalation of decay, a corpse-light, a light that illuminated nothing."_ ***---&#65279;LotRIV*** 
 >
 
 ---
@@ -44819,7 +44819,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a non-Wizard character moving in a Shadow-land <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> or a Dark-domain <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr>. Target character makes a roll (draws a #) and adds his mind. If that result is less than 12, that character splits off into a different company. This new company immediately returns to his original company's site of origin. 
+> > Playable on a non-Wizard character moving in a Shadow-land <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> or a Dark-domain <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr>. Target character makes a roll (draws a #) and adds his mind. If the result is less than 12, that character splits off into a different company. This new company immediately returns to his original company's site of origin. 
 > > 
 > > {: .fs-3 } 
 > > _“Terror seized him. He shrank back, and for a moment he stood trembling in the hall."_ ***---&#65279;LotRI***  
@@ -44867,7 +44867,7 @@ permalink: /cards/all/
 > Harondor
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Undead-1 strike with 10 prowess; each character must make a corruption check  
+> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Undead --- 1 strike with 10 prowess; each character must make a corruption check  
 > > 
 > > {: .fs-3 } 
 > > _“The Riders buried them after the fashion of their people, and they were laid in one mound, for they were twin brothers."_ ***---&#65279;LotR*** 
@@ -44913,7 +44913,7 @@ permalink: /cards/all/
 > Warrior/Scout/Sage Ringwraith
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ Manifestation of Dwar of Waw. Can use sorcery. -3 direct influence in Heralded Lord mode. -1 prowess in Fell Rider mode. As your Ringwraith, if at a Darkhaven <nobr>[<img src="/assets/images/dark-haven.svg">]</nobr>, he may tap to give +1 prowess and +1 body to any one of your companies until the end of the turn.   
+> > _**Unique.**_ Manifestation of Dwar of Waw. Can use sorcery. -3 direct influence in Heralded Lord mode. -1 prowess in Fell Rider mode. As your Ringwraith, if at a Darkhaven <nobr>[<img src="/assets/images/dark-haven.svg">]</nobr>, he may tap to give +1 prowess and +1 body to all characters in any one of your companies until the end of the turn.   
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Any site in Udun 
@@ -45034,7 +45034,7 @@ permalink: /cards/all/
 > > _**Unique.**_ Can use shadow-magic. 
 > > 
 > > {: .fs-3 } 
-> > _“Thus the shadow deepened, and the thought of death darkened the heart s of the people."_ ***---&#65279;LotR***  
+> > _“Thus the shadow deepened, and the thought of death darkened the hearts of the people."_ ***---&#65279;LotR***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Barad-dur 
@@ -45060,7 +45060,7 @@ permalink: /cards/all/
 > > _**Unique.**_ -1 to all corruption checks. 
 > > 
 > > {: .fs-3 } 
-> > _“‘...you may stay here until the Witch-king goes home. For in summer his power wanes; but now his breath is deadly, and his cold arm is long."_ ***---&#65279;LotR***  
+> > _“‘...you may stay here till the Witch-king goes home. For in summer his power wanes; but now his breath is deadly, and his cold arm is long."_ ***---&#65279;LotR***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Lossadan Camp 
@@ -45637,7 +45637,7 @@ permalink: /cards/all/
 > > _**Unique.**_ _Uruk-hai._ Discard on a body check result of 8. 
 > > 
 > > {: .fs-3 } 
-> > _“‘Then we found him in a corner; hanging up he was, but he was wide awake and glaring.’”_ ***---&#65279;LotRIV***  
+> > _“‘Then we found him in a corner; hanging up he was, but he was wide awake and glaring.’”_ ***---&#65279;LotRII***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Any site in Imlad Morgul 
@@ -45660,7 +45660,7 @@ permalink: /cards/all/
 > Sage Ally
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Shelod's Lair. Manifestation of Shelob. Tap this ally to either: cancel one hazard creature attack against a company moving to a site in Imlad Morgul, Ithilien, or Gorgoroth, or to discard one hazard permanent-event on such a company or on a character in such a company. Discard this card if her company moves to a site that is not in Imlad Morgul, Ithilien, or Gorgoroth. Return her to your hand is Shelob is played. 
+> > _**Unique.**_ ***Playable at Shelob's Lair.*** _Manifestation of Shelob._ Tap this ally to either: cancel one hazard creature attack against a company moving to a site in Imlad Morgul, Ithilien, or Gorgoroth, or to discard one hazard permanent-event on such a company or on a character in such a company. Discard this card if her company moves to a site that is not in Imlad Morgul, Ithilien, or Gorgoroth. Return her to your hand if _Shelob_ is played. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 11/9 】</div>
@@ -45799,7 +45799,7 @@ permalink: /cards/all/
 > Orc Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at any Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> in Forochel or Withered Heath if the influence check is greater than 10. Once in play, the number required to influence this faction is 0. <br>_Standard Modifications:_ Wargs of Forochel (+2). 
+> > _**Unique.**_ Playable at any Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> in Forochel or Withered Heath if the influence check is greater than 10. Once in play, the number required to influence this faction is zero. <br>_Standard Modifications:_ Wargs of Forochel (+2). 
 > 
 
 ---
@@ -45997,7 +45997,7 @@ permalink: /cards/all/
 > > +2 to direct influence against factions. Cannot be duplicated on a given character. 
 > > 
 > > {: .fs-3 } 
-> > _“...and a single banner, black but bearing on it in red the evil Eye."_ ***---&#65279;LotRV***
+> > _“...and a single banner, black but bearing on it in red the evil Eye."_ ***---&#65279;LotV***
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -46034,7 +46034,7 @@ permalink: /cards/all/
 > Gold Ring Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > May only be played at a Border-hold <nobr>[<img src="/assets/images/border-hold.svg">]</nobr> where gold rings are playable. Bearer must make a corruption check at the end of each of his untap phases. Discard Bright Gold Ring when tested. If tested, obtain a random value to determine which ring card may be immediately played: a Spirit Ring (10, 11, 12+); a Dwarven Ring (9, 10, 11, 12+); a Magic Ring (1, 2, 3, 4, 5, 6); a Lesser Ring (any result). You may search your play deck or discard pile for a Lesser Ring to be played. 
+> > May only be played at a Border-hold <nobr>[<img src="/assets/images/border-hold.svg">]</nobr> where gold rings are playable. Bearer must make a corruption check at the end of each of his untap phases. Discard this ring when tested. If tested, obtain a random value to determine which ring card may be immediately played: a Spirit Ring (10, 11, 12+); a Dwarven Ring (9, 10, 11, 12+); a Magic Ring (1, 2, 3, 4, 5, 6); a Lesser Ring (any result). You may search your play deck or discard pile for a Lesser Ring to be played. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -46094,7 +46094,7 @@ permalink: /cards/all/
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Unique._ _Palantir._ ***Playable only at Minas Tirith.*** With its bearer able to use a Palantir, tap _Palantir of Minas Tirith_ to look at the top five cards of your play deck; shuffle these 5 cards and return them to the top of your play deck. Do the same to your opponent's play deck. Bearer makes a corruption check. 
+> > _Unique._ _Palantir._ ***Playable only at Minas Tirith.*** With its bearer able to use a Palantir, tap _Palantir of Minas Tirith_ to look at the top five cards of your play deck; shuffle these 5 cards and return then to the top of your play deck. Do the same to your opponent's play deck. Bearer makes a corruption check. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -46168,7 +46168,7 @@ permalink: /cards/all/
 > Greater Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ When a gold Ring is tested in a company bearing the Scroll of Isildur, the random value obtained is modified by +1. May be stored at Barad-dur for 5 marshalling points.   
+> > _**Unique.**_ When a Gold Ring is tested in a company bearing the _Scroll of Isildur_, the random value obtained is modified by +1. May be stored at Barad-dur for 5 marshalling points.   
 > > 
 > > {: .fs-3 } 
 > > _“‘...there lies...unread, I guess, by any save Saruman and myself, since the kings failed, a scroll that Isildur made himself."_ ***---&#65279;LotRII*** 
@@ -46273,7 +46273,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Warrior only: Warrior receives +3 to prowess and -1 to body against one strike.   
+> > _Warrior only._ Warrior receives +3 to prowess and -1 to body against one strike.   
 > > 
 > > {: .fs-3 } 
 > > _“...he charged into the Company and thrust with his spear straight at Frodo."_ ***---&#65279;LotRII*** 
@@ -46324,7 +46324,7 @@ permalink: /cards/all/
 > > _Diplomat only._ +3 to any one influence check by a character in a diplomat's company or +2 to a corruption check by a character in his company.   
 > > 
 > > {: .fs-3 } 
-> > _“‘Appoint a faithful steward. Let your counselor Grima keep all things till your return...’”_ ***---&#65279;LotRIII*** 
+> > _“‘Appoint a faithful steward. Let your counsellor Grima keep all things till your return...’”_ ***---&#65279;LotRIII*** 
 > 
 
 ---
@@ -46338,7 +46338,7 @@ permalink: /cards/all/
 > Long-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Magic._ _Shadow-_Magic.__ Playable during the movement/havard phase on a moving shadow-magic-using character. In character's site path, change a Ruins and Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> or one Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> to a Shadow-land <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr>. 3 Alternatively, decrease the hazard limit against his company by one (to no minimum). Unless he is a Ringwraith, he makes a corruption check modified by -3. 
+> > _Magic._ _Shadow-Magic._ ***Playable during the movement/havard phase on a moving shadow-magic-using character.*** In character's site path, change a Ruins and Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> or one Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> to a Shadow-land <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr>. Alternatively, decrease the hazard limit against his company by one (to no minimum). Unless he is a Ringwraith, he makes a corruption check modified by -3. 
 > 
 
 ---
@@ -46570,7 +46570,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > You may play this card as a resource or a hazard according to The Audience of Sauron Rules. This card may not be played as a hazard against a Wizard player, and may be included as a hazard in a Wizard's deck. You may reshuffle this card into your play deck at any time that it is in your hand (show opponent). 
+> > You may play this card as a resource or a hazard according to The Audience of Sauron Rules. This card may not be played as a hazard against a Wizard player, and may be included as a hazard in a Wizard's deck. You may reshuffle this card into you play deck at any time that it is in your hand (show opponent). 
 > 
 
 ---
@@ -46584,7 +46584,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable at a Darkhaven <nobr>[<img src="/assets/images/dark-haven.svg">]</nobr>, Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr>, or Dark-hold <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr> during the organization phase on an overt company that has more than one Orc. Any attack against the company has its prowess and body modified by -1. Discard this card if a character leaves the company for any reason. Cannot be duplicated on a given company. 
+> > Playable at a Darkhaven <nobr>[<img src="/assets/images/dark-haven.svg">]</nobr>, Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr>, or Dark-hold <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr> during the organization phase on an overt company that has more than one Orc. Any attack against this company has its prowess and body modified by -1. Discard this card if a character leaves the company for any reason. Cannot be duplicated on a given company. 
 > 
 
 ---
@@ -46717,7 +46717,7 @@ permalink: /cards/all/
 > > _Men._ Two strikes. Attacker chooses defending characters. 
 > > 
 > > {: .fs-3 } 
-> > _“...stealing up the slopes, singly or in long files, keeping always to the shade of the grove or thicket,or crawling, hardly visible in their brown and green raiment, through grass and brake."_ ***---&#65279;LotRII*** 
+> > _“...stealing up the slopes, singly or in long files, keeping always to the shade of the grove or thicket, or crawling, hardly visible in their brown and green raiment, through grass and brake."_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 10/&ndash; 】</div>
@@ -46806,7 +46806,7 @@ permalink: /cards/all/
 > > _Undead._ One strike. If this attack is not canceled, every character in the company makes a corruption check before defending characters are selected. 
 > > 
 > > {: .fs-3 } 
-> > _“‘In the pools when the candles were lit. They lie in all the pools, pale faces, deep, deep under the dark water.’”_ ***---&#65279;LotRII*** 
+> > _“‘In the pools when the candles were lit. They lie in all the pools, pale faces, deep deep under the dark water.’”_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 7/&ndash; 】</div>
@@ -46852,7 +46852,7 @@ permalink: /cards/all/
 > > _Undead._ Three strikes. After attack, each character wounded by _Ghosts_ makes a corruption check modified by -1. 
 > > 
 > > {: .fs-3 } 
-> > _“The Dead are following...I see shapes of Men and of horses, and pale banners like shreds of cloud, and spears like winter-thickets on a misty night. The Dead are following."_ ***---&#65279;LotRV*** 
+> > _“The Dead are following...I see shapes of Men and of horses, and pale banners like shreds of cloud, and spears like winter-thickets on a misty night. The Dead are following."_ ***---&#65279;LotRI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 9/&ndash; 】</div>
@@ -46912,7 +46912,7 @@ permalink: /cards/all/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Men._ Each character in the company faces one strike (detainment against covert and hero companies). May be played keyed to Rohan, Wold & Foothills, Gap of Isen, and Anorien; and may also be played at non-haven sites in these regions. May not be played against a character with Edoras as a home site. 
+> > _Men._ Each character in the company faces one strike (detainment against covert and hero companies). May be played keyed to Rohan, Wold & Foothills, Gap of Isen, and Anorien; and may also be played at non-Haven sites in these regions. May not be played against a character with Edoras as a home site. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 10/6 】</div>
@@ -46935,7 +46935,7 @@ permalink: /cards/all/
 > > _Men._ Two strikes.   
 > > 
 > > {: .fs-3 } 
-> > _“...a most unsavory variety of brigands, rogues, and wanderers roam the Wilderlands, wresting their livelihood from the trunks of unwary or unfortunate travelers of means."_ ***---&#65279;Kuduk&nbsp;Lore*** 
+> > _“...a most unsavory variety of brigands, rogues, and wanderers roam the Wilderlands, wresting their livelihood from the trunks of unwary or unfortunate travellers of means."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 9/&ndash; 】</div>
@@ -47206,7 +47206,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > ***Playable on a moving company.*** The company must do nothing during its site phase if it has a Free-domain <nobr>[<img src="/assets/images/free-domain.svg">]</nobr> in its site path  
+> > ***Playable on a moving company.*** The company must do nothing during its site phase if it has a Free-domain <nobr>[<img src="/assets/images/free-domain.svg">]</nobr> in its site path.  
 > > 
 > > {: .fs-3 } 
 > > _“...and they were also no longer certain of the direction in which they were going."_ ***---&#65279;LotRI*** 
@@ -47223,7 +47223,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Corruption._ ***Playable on a non-Ringwraith, non-Wizard, non-Hobbit character.*** Target character receives 2 corruption points and makes a corruption check each time a character in his company gains an item (including a ring special item). <br>&ensp;During his organization phase, the character may tap to attempt to remove this card by making a roll (drawing a #)---if this result is greater than 5, discard this card. Cannot be duplicated on a given character. 
+> > _Corruption._ ***Playable on a non-Ringwraith, non-Wizard, non-Hobbit character.*** Target character receives 2 corruption points and makes a corruption check each time a character in his company gains an item (including a ring special item). <br>&ensp;During his organization phase, the character may tap to attempt to remove this card by making a roll (drawing a #)---if the result is greater than 5, discard this card. Cannot be duplicated on a given character. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -47333,7 +47333,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on an ally. Make a roll (draw a #). If the result plus the ally's mind is greater than your opponent's general unused direct influence plus its controlling character's unused direct influence plus 2, the ally attacks its controlling character (detainment attack against a hero). This attack has 1 strike and prowess equal to the ally's normal prowess plus a dice roll (drawn #). Discard the ally if it attacks and is not defeated. 
+> > Playable on an ally. Make a roll (draw a #). If the result plus the ally's mind is greater than your opponent's general unused direct influence plus its controlling character's unused direct influence plus two, the ally attacks its controlling character (detainment attack against a hero). This attack has 1 strike and prowess equal to the ally's normal prowess plus a dice roll (drawn #). Discard the ally if it attacks and is not defeated. 
 >
 
 ---
@@ -47443,7 +47443,7 @@ permalink: /cards/all/
 > The Shire
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Information, Items (minor, major, greater*, gold ring) *-hero item only <br>_**Automatic-attacks (2):**_<br>  (1st) Hobbits-5 strikes with 5 prowess (2nd) Dunedain-3 strikes with 11 prowess 
+> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Information, Items (minor, major, greater*, gold ring) <br>\*---hero item only <br>_**Automatic-attacks (2):**_<br>&ensp;(1st) Hobbits --- 5 strikes with 5 prowess <br>&ensp;(2nd) Dunedain --- 3 strikes with 11 prowess 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>
@@ -47463,7 +47463,7 @@ permalink: /cards/all/
 > Brown Lands
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Men - 3 strikes with 6 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Men --- 3 strikes with 6 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“For in the time of ruin houseless and desperate men went astray, some refugees of battle and defeat and lands laid waste, others outlaws driven into the wild for evil deeds."_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -47509,7 +47509,7 @@ permalink: /cards/all/
 > Anduin Vales
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 10 prowess (detainment against covert company)  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Men --- each character faces 1 strike with 10 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
 > > _“...a courtyard, three walls of which were formed by the wooden house and its long wings."_ ***---&#65279;Hob*** 
@@ -47549,7 +47549,7 @@ permalink: /cards/all/
 > Withered Heath
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon - 1 strike with 13 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Dragon --- 1 strike with 13 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘...you don't know how far they go back, sometimes, or where a passage behind may lead to, or what is waiting for you inside.’”_ ***---&#65279;Hob*** 
@@ -47618,7 +47618,7 @@ permalink: /cards/all/
 > Northern Rhovanion
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 5 prowess (detainment against covert company)  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Men --- each character faces 1 strike with 5 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
 > > _“‘You should see the waterways of Dale...and the mountains, and the pools...and the stone-paved roads of many colors!’”_ ***---&#65279;LotRII*** 
@@ -47641,7 +47641,7 @@ permalink: /cards/all/
 > Dagorlad
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Undead - 2 strikes with 8 prowess; each character wounded must make a corruption check modified by -2 <br>_**Special:**_ Non-Nazgul creatures played at the site attack normally, not as detainment.   
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Undead --- 2 strikes with 8 prowess; each character wounded must make a corruption check modified by -2 <br>_**Special:**_ Non-Nazgul creatures played at the site attack normally, not as detainment.   
 > > 
 > > {: .fs-3 } 
 > > _“‘...the Marshes have grown...swallowed up the graves...always creeping, creeping.’”_ ***---&#65279;LotRIV*** 
@@ -47664,7 +47664,7 @@ permalink: /cards/all/
 > Redhorn Gate
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Orcs - 1 strike with 6 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 1 strike with 6 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘...we shall come down by the Dimrill Stair into the deep vale of the Dwarves. There lies the Mirrormere...’”_ ***---&#65279;LotRII*** 
@@ -47704,7 +47704,7 @@ permalink: /cards/all/
 > Horse Plains
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 5 prowess (detainment against covert company)  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Automatic-attacks:**_<br>&ensp;Men --- each character faces 1 strike with 5 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
 > > _“They journeyed in great wains, and their chieftains fought in chariots."_ ***---&#65279;LotR*** 
@@ -47727,10 +47727,10 @@ permalink: /cards/all/
 > Rohan
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 10 prowess (detainment against covert company)   
+> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Men --- each character faces 1 strike with 10 prowess (detainment against covert company)   
 > > 
 > > {: .fs-3 } 
-> > _“‘I see a white stream that comes down from the snows...where it issues from the shadow of the vale a green hill rises upon the east. A dike and mighty wall and thorny fence encircle it.’”_ ***---&#65279;LotRIII*** 
+> > _“‘I see a white stream that comes down from the snows...Where it issues from the shadow of the vale a green hill rises upon the east. A dike and mighty wall and thorny fence encircle it.’”_ ***---&#65279;LotRIII*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>
@@ -47750,7 +47750,7 @@ permalink: /cards/all/
 > High Pass
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 6 prowess <br>_**Special:**_ Non-Nazgul creatures played at this site attack normally, not as detainment. 
+> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 3 strikes with 6 prowess <br>_**Special:**_ Non-Nazgul creatures played at this site attack normally, not as detainment. 
 > > 
 > > {: .fs-3 } 
 > > _“...and the way went down and down, and it was most horribly stuffy."_ ***---&#65279;Hob*** 
@@ -47773,7 +47773,7 @@ permalink: /cards/all/
 > Grey Mountain Narrows
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br> Dragon-1 strike with 14 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Dragon --- 1 strike with 14 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘And the halls and cavernous streets under the earth with arches carved like trees...’”_ ***---&#65279;LotRII*** 
@@ -47796,7 +47796,7 @@ permalink: /cards/all/
 > Gap of Isen
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Geann a-Lisch <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br> Wolves - 3 strikes with 7 prowess  
+> > ***Nearest Darkhaven:*** Geann a-Lisch <br>_**Playable:**_ Information, Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Wolves --- 3 strikes with 7 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...yet it seemed a thing not made by the craft of Men, but riven from the bones of the earth in the ancient torment of the hills."_ ***---&#65279;LotRIII*** 
@@ -47839,7 +47839,7 @@ permalink: /cards/all/
 > Anorien
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Information, Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>  (1st) Men-each character faces 1 strike with 9 prowess (detainment against covert company) (2nd) Dunedain-4 strikes with 10 prowess (against overt company only) 
+> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Information, Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>&ensp;(1st) Men --- each character faces 1 strike with 9 prowess (detainment against covert company) <br>&ensp;(2nd) Dunedain --- 4 strikes with 10 prowess (against overt company only) 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>
@@ -47859,7 +47859,7 @@ permalink: /cards/all/
 > Redhorn Gate
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Orcs - 4 strikes with 7 prowess <br>_**Special:**_ Non-Nazgul creatures played at this site attack normally, not as detainment 
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 4 strikes with 7 prowess <br>_**Special:**_ Non-Nazgul creatures played at this site attack normally, not as detainment 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>
@@ -47879,7 +47879,7 @@ permalink: /cards/all/
 > Gorgoroth
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Orcs-1 strike with 6 prowess <br>_**Special:**_ Any sage may tap to test a ring at this site, modifying the result by -3. 
+> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 1 strike with 6 prowess <br>_**Special:**_ Any sage may tap to test a ring at this site, modifying the result by -3. 
 > > 
 > > {: .fs-3 } 
 > > _“Ever and anon the furnaces far below its ashen cone would grow hot and...pour forth rivers of molten rock from chasms in its sides."_ ***---&#65279;LotRVI*** 
@@ -47925,7 +47925,7 @@ permalink: /cards/all/
 > Gundabad
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - each character faces 1 strike with 7 prowess (detainment against overt company)  
+> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- each character faces 1 strike with 7 prowess (detainment against overt company)  
 > > 
 > > {: .fs-3 } 
 > > _“Messengers had passed to and fro between all their cities and strongholds...they gathered in secret ways, and in all the mountains their was a forging and an arming."_ ***---&#65279;Hob*** 
@@ -47971,7 +47971,7 @@ permalink: /cards/all/
 > Horse Plains
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major*) *-weapon, armor, shield, or helmet only <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 7 prowess (detainment against covert company)  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major*) <br>\*---weapon, armor, shield, or helmet only <br>_**Automatic-attacks:**_<br>&ensp;Men --- each character faces 1 strike with 7 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
 > > _“Often they made raids through the forest..."_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -47994,7 +47994,7 @@ permalink: /cards/all/
 > Heart of Mirkwood
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 5 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 3 strikes with 5 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...the doubled waters poured out again over high waterfalls and ran away hurriedly...”_ ***---&#65279;Hob*** 
@@ -48017,7 +48017,7 @@ permalink: /cards/all/
 > Imlad Morgul
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>  (1st) Orcs - 2 strikes with 8 prowess (2nd) Spider (cannot be canceled)-1 strike with 16 prowess: any character wounded is immediately eliminated <br>_**Special:**_ Contains a hoard. Non-Nazgul creatures keyed at this site attack normally, not as detainment. 
+> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>&ensp;(1st) Orcs --- 2 strikes with 8 prowess <br>&ensp;(2nd) Spider (cannot be canceled) --- 1 strike with 16 prowess; any character wounded is immediately eliminated <br>_**Special:**_ Contains a hoard. Non-Nazgul creatures played at this site attack normally, not as detainment. 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -48037,7 +48037,7 @@ permalink: /cards/all/
 > Harondor
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 5 prowess (detainment against covert company)  
+> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Automatic-attacks:**_<br>&ensp;Men --- each character faces 1 strike with 5 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
 > > _“‘...curse the Southrons! ...'Tis said that there were dealings of old between Gondor and the kingdoms of Harad...though there was never friendship’”_ ***---&#65279;LotR*** 
@@ -48060,7 +48060,7 @@ permalink: /cards/all/
 > Northern Rhovanion
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon - 1 strike with 14 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Dragon --- 1 strike with 14 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...they could look out and see the dark cavernous opening in a great cliff-wall between the arms of the Mountain. Out of it the waters of the Running River sprang...”_ ***---&#65279;Hob*** 
@@ -48083,7 +48083,7 @@ permalink: /cards/all/
 > Grey Mountain Narrows
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 7 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 3 strikes with 7 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...behind stood taller shapes of grey, and behind those again were high white peaks glimmering among the clouds."_ ***---&#65279;LotRII*** 
@@ -48106,7 +48106,7 @@ permalink: /cards/all/
 > Cardolan
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 9 prowess (detainment against covert company) <br>_**Special:**_ This site never taps. 
+> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br>&ensp;Men --- each character faces 1 strike with 9 prowess (detainment against covert company) <br>_**Special:**_ This site never taps. 
 > > 
 > > {: .fs-3 } 
 > > _“Cloaked by the primordial forest of the Elder Days, the Worthy Hills of the Eryn Vorn remain wild and perilous."_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -48129,7 +48129,7 @@ permalink: /cards/all/
 > Woodland Realm
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Inromation, Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>  (1st) Elves-each character faces 1 strike with 9 prowess (detainment against covert company) (2nd) Elves-3 strikes with 10 prowess (against overt company only) 
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Information, Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>&ensp;(1st) Elves --- each character faces 1 strike with 9 prowess (detainment against covert company) <br>&ensp;(2nd) Elves --- 3 strikes with 10 prowess (against overt company only) 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -48152,7 +48152,7 @@ permalink: /cards/all/
 > > _**Unique.**_ +5 to bearer's direct influence against Dwarves and Dwarf factions. Each Dwarf in play has +1 mind. If the bearer of this item is at the same site as a Dwarf character, you may discard this item to force the discard of the Dwarf (and all cards he controls).   
 > > 
 > > {: .fs-3 } 
-> > _“...it was tinged with a flickering sparkle of many colours at the syrface, reflected and splintered from the wavering light of his torch."_ ***---&#65279;LotRV*** 
+> > _“...it was tinged with a flickering sparkle of many colours at the surface, reflected and splintered from the wavering light of his torch."_ ***---&#65279;LotRV*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -48330,7 +48330,7 @@ permalink: /cards/all/
 > Ally
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable at a tapped or untapped non-Under-deeps Ruins and Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr>. May not be attacked. Discard this ally if controlling character is wounded. Tap this ally to cancel a hazard creature attack not keyed to a site and to put the creature's card back into its player's hand. Cannot be duplicated on a given company. 
+> > Playable at a tapped or untapped non-Under-deeps Ruins and Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr>. May not be attacked. Discard this ally if its controlling character is wounded. Tap this ally to cancel a hazard creature attack not keyed to a site and to put the creature's card back into its player's hand. Cannot be duplicated on a given company. 
 > 
 
 ---
@@ -48543,10 +48543,10 @@ permalink: /cards/all/
 > Minor Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Discard _Thror's Map_ to untap a site with a Dragon Automatic-attack. 
+> > _**Unique.**_ Discard _Thror's Map_ to untap a site with a Dragon automatic-attack. 
 > > 
 > > {: .fs-3 } 
-> > _“‘He was witless and wandering, and he had forgotten almost everything except the map and the key...’”_ ***---&#65279;Hob*** 
+> > _“‘He was witless and wandering, and he had forgotten almost everything except the map and the key.’”_ ***---&#65279;Hob*** 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -48594,7 +48594,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable on a tapped non-Ringwraith character if your opponent is a Wizard and Ringwraith is in play. Untap target character. 
+> > ***Playable on a tapped non-Ringwraith character if your opponent is a Wizard and your Ringwraith is in play.*** Untap target character. 
 > > 
 > > {: .fs-3 } 
 > > _“...in the dark they could not see a descent, until they came on it and put their feet out into emptiness."_ ***---&#65279;LotRII*** 
@@ -48614,7 +48614,7 @@ permalink: /cards/all/
 > > Playable on a non-Dragon's lair, non-Under-deeps Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr>. The site becomes a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> and all automatic-attacks become detainment. Discard this card when the site is discarded or returned to its location deck. 
 > > 
 > > {: .fs-3 } 
-> > _“‘Some rises once more from Orodruin that we cal Mount Doom.’”_ ***---&#65279;LotRII*** 
+> > _“‘Some rises once more from Orodruin that we call Mount Doom.’”_ ***---&#65279;LotRII*** 
 > 
 
 ---
@@ -48628,7 +48628,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Diplomat only._ One influence check or corruption check by a character in a diplomat's company receives a bonus equal to the number of characters in the company minus 1. Cannot be duplicated on a given check. 
+> > _Diplomat only._ One influence check or corruption check by a character in a diplomat's company receives a bonus equal to the number of characters in the company minus one. Cannot be duplicated on a given check. 
 > > 
 > > {: .fs-3 } 
 > > _“‘...only in the mouths of emissaries sent from Mordor to deceive the ignorant.’”_ ***---&#65279;LotRII*** 
@@ -48645,7 +48645,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable on a company. May beplayed with a starting company in lieu of a minor item. This company may contain a Troll leader in addition to another leader. +1 to all corruption checks by followers of Troll leaders in this company. Discard if Ren is your Ringwraith or when a leader leaves the company. Cannot be duplicated on a given company. 
+> > Playable on a company. May be played with a starting company in lieu of a minor item. This company may contain a Troll leader in addition to another leader. +1 to all corruption checks by followers of Troll leaders in this company. Discard if Ren is your Ringwraith or when a leader leaves the company. Cannot be duplicated on a given company. 
 > > 
 > > {: .fs-3 } 
 > > _“‘A great cave-troll, I think, or more than one.’”_ ***---&#65279;LotRII*** 
@@ -48730,7 +48730,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Corruption._ Playable on a non-Wizard, non-Ringwraith character in a company with 3 of fewer characters. Target character makes a corruption check at the end of his movement/hazard phase for each region he moved through. All of his corruption checks are modified by adding the number of characters in his company. During his organization phase, the character may tap to attempt to remove this card by making a roll (drawing a #)-ifthe result is greater than 6, discard this card. Discard this card if hiscompany has 4 or more characters. Cannot be duplicated on a given character. 
+> > _Corruption._ ***Playable on a non-Wizard, non-Ringwraith character in a company with 3 or fewer characters.*** Target character makes a corruption check at the end of his movement/hazard phase for each region he moved through. All of his corruption checks are modified by adding the number of characters in his company. During his organization phase, the character may tap to attempt to remove this card by making a roll (drawing a #)---if the result is greater than 6, discard this card. Discard this card if his company has 4 or more characters. Cannot be duplicated on a given character. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -48798,7 +48798,7 @@ permalink: /cards/all/
 > Harondor
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Men-4 strikes with 9 prowess (detainment)   
+> > _**Nearest Haven:**_ Edhellond <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Men --- 4 strikes with 9 prowess (detainment)   
 > > 
 > > {: .fs-3 } 
 > > _“...could be seen in clear weather even on the coasts of Gondor or far upon the western sea."_ ***---&#65279;LotR*** 
@@ -48821,7 +48821,7 @@ permalink: /cards/all/
 > Horse Plain
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Men-4 strikes with 9 prowess (detainment)  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Men --- 4 strikes with 9 prowess (detainment)  
 > > 
 > > {: .fs-3 } 
 > > _“‘It looks like a rock from afar, and tales of murder ward away those who might draw close by.’”_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -48844,10 +48844,10 @@ permalink: /cards/all/
 > Withered Heath
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon - 2 strikes with 11 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Dragon --- 2 strikes with 11 prowess  
 > > 
 > > {: .fs-3 } 
-> > _“...he knew how evil and danger had thriven in the Wild, since the dragons had driven men from the lands...”_ ***---&#65279;LotR*** 
+> > _“...he knew how evil and danger had thriven in the Wild, since the dragons had driven men from the lands...”_ ***---&#65279;Hob*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -48867,7 +48867,7 @@ permalink: /cards/all/
 > Anduin Vales
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br> Animals-2 strikes with 10 prowess (attacker chooses defending characters)  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Animals --- 2 strikes with 10 prowess (attacker chooses defending characters)  
 > > 
 > > {: .fs-3 } 
 > > _“The eagles had brought up dry boughs for fuel, ...rabbits, hares, and a small sheep."_ ***---&#65279;Hob*** 
@@ -48890,7 +48890,7 @@ permalink: /cards/all/
 > Withered Heath
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dragon-1 strike with 14 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Dragon --- 1 strike with 14 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘Its name is well given, for if you survive the climb and the cold and the wind, the worm awaits."_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -48916,7 +48916,7 @@ permalink: /cards/all/
 > > _Half-orc._ Discard on a body check result of 9. 
 > > 
 > > {: .fs-3 } 
-> > _“One of the travelers, a squint-eyed ill-favoured fellow, was foretelling that more and more people would be coming north in the near future."_ ***---&#65279;LotRI***  
+> > _“One of the travellers, a squint-eyed ill-favoured fellow, was foretelling that more and more people would be coming north in the near future."_ ***---&#65279;LotRI***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Any Dark-hold 
@@ -49255,7 +49255,7 @@ permalink: /cards/all/
 > > _Balrog specific._ Discard on a body check result of 7.   
 > > 
 > > {: .fs-3 } 
-> > _“...clad only in close-fitting mesh of horny scales, or maybe that was their hideous hide: but they bore round bucklers huge and black and wielded heavy hammers in their knotted hands."_ ***---&#65279;LotRV***  
+> > _“...clad only in close-fitting mesh of horny scales, or maybe that was their hideous hide; but they bore round bucklers huge and black and wielded heavy hammers in their knotted hands."_ ***---&#65279;LotRV***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** any non-Dark-hold Under-deeps site 
@@ -50538,7 +50538,7 @@ permalink: /cards/all/
 > Under-deeps
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ no surface site, one Under-deeps Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> chosen by you when playing this card (8) <br>_**Playable:**_ Information, Items (minor, major, greater, gold ring) <br>***Automatic-attacks (3):***  <br>Undead (1st attack) --- 4 strikes with 7 prowess; <br>Undead (2nd attack) --- 3 strikes with 8 prowess; <br>Undead (3rd attack) --- 2 strikes with 10 prowess; <br>Each character wounded must make a corruption check modified by -2. <br>_**Special:**_ Any Undead and Spider creatures may be keyed to this site. This site is never discarded or returned to its location deck. 
+> > _**Adjacent Sites:**_ no surface site, one Under-deeps Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> chosen by you when playing this card (8) <br>_**Playable:**_ Information, Items (minor, major, greater, gold ring) <br>***Automatic-attacks (3):***  <br>&ensp;Undead (1st attack) --- 4 strikes with 7 prowess; <br>&ensp;Undead (2nd attack) --- 3 strikes with 8 prowess; <br>&ensp;Undead (3rd attack) --- 2 strikes with 10 prowess; <br>Each character wounded must make a corruption check modified by -2. <br>_**Special:**_ Any Undead and Spider creatures may be keyed to this site. This site is never discarded or returned to its location deck. 
 > 
 > {: .balrog-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -50555,7 +50555,7 @@ permalink: /cards/all/
 > Gorgoroth
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > _**Playable:**_ Items (minor, major, greater) <br>***Automatic-attacks (3):***  <br>Orcs --- 4 strikes with 7 prowess; <br>Trolls --- 3 strikes with 9 prowess; <br>Maia (cannot be canceled) --- 1 strike with 24 prowess. Any creature wounded by the Maia's attack is automatically eliminated. <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. 
+> > _**Playable:**_ Items (minor, major, greater) <br>***Automatic-attacks (3):***  <br>&ensp;Orcs --- 4 strikes with 7 prowess; <br>&ensp;Trolls --- 3 strikes with 9 prowess; <br>&ensp;Maia (cannot be canceled) --- 1 strike with 24 prowess. Any creature wounded by the Maia's attack is automatically eliminated. <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. 
 > 
 > {: .balrog-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;4&ensp;</span></div>
@@ -50572,7 +50572,7 @@ permalink: /cards/all/
 > Angmar
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > _**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>  Orcs --- 4 strikes with 7 prowess; <br>Nazgul (cannot be canceled) --- 1 strike with 15 prowess <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. 
+> > _**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>&ensp;Orcs --- 4 strikes with 7 prowess; <br>&ensp;Nazgul (cannot be canceled) --- 1 strike with 15 prowess <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. 
 > > 
 > > {: .fs-3 } 
 > > _“Before he could gain the shelter of Carn Dum, the cavalry of Gondor overtook him...”_ ***---&#65279;LotR*** 
@@ -50592,7 +50592,7 @@ permalink: /cards/all/
 > Udun
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > _**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br>  Orcs --- 5 strikes with 8 prowess; <br>Trolls --- 2 strikes with 10 prowess <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. 
+> > _**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br>&ensp;Orcs --- 5 strikes with 8 prowess; <br>&ensp;Trolls --- 2 strikes with 10 prowess <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. 
 > > 
 > > {: .fs-3 } 
 > > _“None could pass the Teeth of Mordor and not feel their bite....”_ ***---&#65279;LotRIV*** 
@@ -50612,7 +50612,7 @@ permalink: /cards/all/
 > Imlad Morgul
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > _**Playable:**_ Items (minor, major) <br>***Automatic-attacks (1):*** <br>Orcs --- 4 strike with 7 prowess <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. 
+> > _**Playable:**_ Items (minor, major) <br>***Automatic-attacks (1):*** <br>&ensp;Orcs --- 4 strike with 7 prowess <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. 
 > > 
 > > {: .fs-3 } 
 > > _“...here too the vigilance had failed, and treachery had yielded up the Tower to the Lord of the Ringwraiths, and now for long yearsit had been held by evil things."_ ***---&#65279;LotRVI*** 
@@ -50632,7 +50632,7 @@ permalink: /cards/all/
 > Southern Mirkwood
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > _**Playable:**_ Information, Items (minor, major) <br>***Automatic-attacks (3):*** <br>Orcs --- 3 strikes with 7 prowess; <br>Trolls --- 2 strikes with 8 prowess; <br>Nazgul (cannot be canceled) --- 1 strike with 15 prowess <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. 
+> > _**Playable:**_ Information, Items (minor, major) <br>***Automatic-attacks (3):*** <br>&ensp;Orcs --- 3 strikes with 7 prowess; <br>&ensp;Trolls --- 2 strikes with 8 prowess; <br>&ensp;Nazgul (cannot be canceled) --- 1 strike with 15 prowess <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. 
 > 
 > {: .balrog-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>
@@ -50649,7 +50649,7 @@ permalink: /cards/all/
 > Imlad Morgul
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > _**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br> Undead --- 3 strikes with 8 prowess; <br>Nazgul (cannot be canceled) --- 1 strike with 15 prowess <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. 
+> > _**Playable:**_ Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br>&ensp;Undead --- 3 strikes with 8 prowess; <br>&ensp;Nazgul (cannot be canceled) --- 1 strike with 15 prowess <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. 
 > > 
 > > {: .fs-3 } 
 > > _“...and its cavernous gate, shaped like an open mouth with gleaming teeth, was gaping wide."_ ***---&#65279;LotRIV*** 
@@ -50689,7 +50689,7 @@ permalink: /cards/all/
 > Under-deeps
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ no surface site, the Drowning-deeps (9) <br>_**Playable:**_ Information, Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br>  Drake (1st attack) --- 2 strikes with 12 prowess; <br>(2nd attack) Opponent may play as an automatic-attack one hazard creature from his hand normally keyed to Coastal Seas <nobr>[<img src="/assets/images/coastalsea.svg">]</nobr> <br>_**Special:**_ Creatures keyed to Coastal Seas <nobr>[<img src="/assets/images/coastalsea.svg">]</nobr> may be keyed to this site. 
+> > _**Adjacent Sites:**_ no surface site, the Drowning-deeps (9) <br>_**Playable:**_ Information, Items (minor, major, greater) <br>_**Automatic-attacks (2):**_<br>&ensp;Drake (1st attack) --- 2 strikes with 12 prowess; <br>&ensp;(2nd attack) Opponent may play as an automatic-attack one hazard creature from his hand normally keyed to Coastal Seas <nobr>[<img src="/assets/images/coastalsea.svg">]</nobr> <br>_**Special:**_ Creatures keyed to Coastal Seas <nobr>[<img src="/assets/images/coastalsea.svg">]</nobr> may be keyed to this site. 
 > 
 > {: .balrog-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -50706,7 +50706,7 @@ permalink: /cards/all/
 > Under-deeps
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Blue-mountain Dwarf-hold (13), The Under-vaults (8), Remains of Thangorodrim (9) <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>  Drake (1st attack) --- 2 strikes with 11 prowess; <br>(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Coastal Seas <nobr>[<img src="/assets/images/coastalsea.svg">]</nobr> <br>_**Special:**_ Creatures keyed to Coastal Seas <nobr>[<img src="/assets/images/coastalsea.svg">]</nobr> and any Drakes may be keyed to this site. 
+> > _**Adjacent Sites:**_ Blue-mountain Dwarf-hold (13), The Under-vaults (8), Remains of Thangorodrim (9) <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>&ensp;Drake (1st attack) --- 2 strikes with 11 prowess; <br>&ensp;(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Coastal Seas <nobr>[<img src="/assets/images/coastalsea.svg">]</nobr> <br>_**Special:**_ Creatures keyed to Coastal Seas <nobr>[<img src="/assets/images/coastalsea.svg">]</nobr> and any Drakes may be keyed to this site. 
 > 
 > {: .balrog-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -50723,7 +50723,7 @@ permalink: /cards/all/
 > Under-deeps
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Glittering Caves (0), The Pukel-deeps (8), The Under-gates (6) <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>  Undead (1st attack) --- 3 strikes with 9 prowess; <br>(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Any Undead creature or Pukel-creature may also be keyed to this site. 
+> > _**Adjacent Sites:**_ Glittering Caves (0), The Pukel-deeps (8), The Under-gates (6) <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>&ensp;Undead (1st attack) --- 3 strikes with 9 prowess; <br>&ensp;(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Any Undead creature or Pukel-creature may also be keyed to this site. 
 > 
 > {: .balrog-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -50740,7 +50740,7 @@ permalink: /cards/all/
 > Under-deeps
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Carn Dum (0), The Under-leas (6), The Under-vaults (7) <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br> Trolls (1st attack) --- 3 strikes with 9 prowess; <br>(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. Any Drake creature (except _Sea Serpent_) may be keyed to this site). 
+> > _**Adjacent Sites:**_ Carn Dum (0), The Under-leas (6), The Under-vaults (7) <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>&ensp;Trolls (1st attack) --- 3 strikes with 9 prowess; <br>&ensp;(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. Any Drake creature (except _Sea Serpent_) may be keyed to this site). 
 > 
 > {: .balrog-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>
@@ -50757,7 +50757,7 @@ permalink: /cards/all/
 > Under-deeps
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Dunharrow (0), The Gem-deeps (8), The Sulfur-deeps (9) <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>  Pukel-creature (1st attack) --- 2 strikes with 11 prowess; <br>(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Any Undead creature or Pukel-creature may also be keyed to this site. 
+> > _**Adjacent Sites:**_ Dunharrow (0), The Gem-deeps (8), The Sulfur-deeps (9) <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>&ensp;Pukel-creature (1st attack) --- 2 strikes with 11 prowess; <br>&ensp;(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Any Undead creature or Pukel-creature may also be keyed to this site. 
 > 
 > {: .balrog-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -50774,7 +50774,7 @@ permalink: /cards/all/
 > Under-deeps
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Iron Hill Dwarf-hold (13), The Wind-deeps (8) <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>  Drake (1st attack) --- 2 strikes with 11 prowess; <br>(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Any Dragon creature (except _Earcaraxe_) may be keyed to this site. 
+> > _**Adjacent Sites:**_ Iron Hill Dwarf-hold (13), The Wind-deeps (8) <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>&ensp;Drake (1st attack) --- 2 strikes with 11 prowess; <br>&ensp;(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Any Dragon creature (except _Earcaraxe_) may be keyed to this site. 
 > 
 > {: .balrog-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -50791,7 +50791,7 @@ permalink: /cards/all/
 > Under-deeps
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Dol Guldur (0), The Under-gates (6), The Pukel-deeps (9), The Under-galleries (9), The Under-courts (7) <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>  Trolls (1st attack) --- 2 strikes with 9 prowess  <br>(2nd attack) --- Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. 
+> > _**Adjacent Sites:**_ Dol Guldur (0), The Under-gates (6), The Pukel-deeps (9), The Under-galleries (9), The Under-courts (7) <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>&ensp;Trolls (1st attack) --- 2 strikes with 9 prowess  <br>&ensp;(2nd attack) --- Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. 
 > 
 > {: .balrog-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -50808,7 +50808,7 @@ permalink: /cards/all/
 > Under-deeps
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Barad-dur (0), The Under-galleries (6), The Sulfur-deeps (7) <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>  Trolls (1st attack) --- 3 strikes with 10 prowess; <br>(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. 
+> > _**Adjacent Sites:**_ Barad-dur (0), The Under-galleries (6), The Sulfur-deeps (7) <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>&ensp;Trolls (1st attack) --- 3 strikes with 10 prowess; <br>&ensp;(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. 
 > 
 > {: .balrog-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>
@@ -50825,7 +50825,7 @@ permalink: /cards/all/
 > Under-deeps
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Any site in Udun (0), The Under-courts (6), The Sulfur-deeps (9) <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks (2):**_<br>  Trolls (1st attack) --- 4 strikes with 9 prowess; <br>(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. 
+> > _**Adjacent Sites:**_ Any site in Udun (0), The Under-courts (6), The Sulfur-deeps (9) <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks (2):**_<br>&ensp;Trolls (1st attack) --- 4 strikes with 9 prowess; <br>&ensp;(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. 
 > 
 > {: .balrog-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -50859,7 +50859,7 @@ permalink: /cards/all/
 > Under-deeps
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Goblin-gate (0), The Under-leas (6), The Under-gates (6) <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks (2):**_<br>  Undead (1st attack) --- 4 strikes with 7 prowess; <br>(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ When a gold ring is tested in a company at this site, the result of the roll is modified by +1. 
+> > _**Adjacent Sites:**_ Goblin-gate (0), The Under-leas (6), The Under-gates (6) <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks (2):**_<br>&ensp;Undead (1st attack) --- 4 strikes with 7 prowess; <br>&ensp;(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ When a gold ring is tested in a company at this site, the result of the roll is modified by +1. 
 > 
 > {: .balrog-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -50876,7 +50876,7 @@ permalink: /cards/all/
 > Under-deeps
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Mount Gundabad (0), The Wind-deeps (5), The Iron-deeps (6), The Under-grottos (6), The Under-gates (4), The Under-vaults (5) <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks (2):**_<br> Orcs (1st attack) --- 5 strikes with 7 prowess (detainment) <br>(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. 
+> > _**Adjacent Sites:**_ Mount Gundabad (0), The Wind-deeps (5), The Iron-deeps (6), The Under-grottos (6), The Under-gates (4), The Under-vaults (5) <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks (2):**_<br>&ensp;Orcs (1st attack) --- 5 strikes with 7 prowess (detainment) <br>&ensp;(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. 
 > 
 > {: .balrog-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -50893,7 +50893,7 @@ permalink: /cards/all/
 > Under-deeps
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Mount Gram (0), The Iron-deeps (7), The Under-leas (5), The Drowning-deeps (8) <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>  Undead (1st attack) --- 3 strikes with 8 prowess; <br>(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Any Undead creature may also be keyed to this site. 
+> > _**Adjacent Sites:**_ Mount Gram (0), The Iron-deeps (7), The Under-leas (5), The Drowning-deeps (8) <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>&ensp;Undead (1st attack) --- 3 strikes with 8 prowess; <br>&ensp;(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Any Undead creature may also be keyed to this site. 
 > 
 > {: .balrog-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -50910,7 +50910,7 @@ permalink: /cards/all/
 > Under-deeps
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ The Wind Throne (0), The Under-leas (5), The Rusted-deeps (8) <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br> Orcs (1st attack) --- 3 strikes with 7 prowess; <br>(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Any Drake creature (except _Sea Serpent_) may be keyed to this site. 
+> > _**Adjacent Sites:**_ The Wind Throne (0), The Under-leas (5), The Rusted-deeps (8) <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>&ensp;Orcs (1st attack) --- 3 strikes with 7 prowess; <br>&ensp;(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Any Drake creature (except _Sea Serpent_) may be keyed to this site. 
 > 
 > {: .balrog-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -50930,7 +50930,7 @@ permalink: /cards/all/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Men._ Five strikes. May also be played keyed to Andrast, Anfalas, Belfalas, Cardolan, Enedhwaith, Harondor, Lindon, Lebennin, and Old Pukel-land; and may also be played at Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> and Shadow-holds <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> in these regions. May also be played at any site in Elven Shores, Eriadoran Coast, Andrast Coast, Bay of Belfalas, or mouths of the Anduin. 
+> > _Men._ Five strikes. May also be played keyed to Andrast, Anfalas, Belfalas, Cardolan, Enedhwaith, Harondor, Lindon, Lebennin, and Old Pukel-land; and may also be played at Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> and Shadow-holds <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> in these regions. May also be played at any site in Elven Shores, Eriadoran Coast, Andrast Coast, Bay of Belfalas, or Mouths of the Anduin. 
 > > 
 > > {: .fs-3 } 
 > > _“...with black sails bellying in the wind."_ ***---&#65279;LotRV*** 
@@ -51030,7 +51030,7 @@ permalink: /cards/all/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > At the end of each turn, each player may take one unique Dragon manifestation or one Drake hazard creature from his discard pile and shufle it into his play deck. Alternatively, if Doors of Night is in play, at the end of each turn, each player may return one unique Dragon manifestation and/or one Drake hazard creature from his discard pile to his hand. Cannot be duplicated. 
+> > At the end of each turn, each player may take one unique Dragon manifestation or one Drake hazard creature from his discard pile and shuffle it into his play deck. Alternatively, if Doors of Night is in play, at the end of each turn, each player may return one unique Dragon manifestation and/or one Drake hazard creature from his discard pile to his hand. Cannot be duplicated. 
 >
 
 ---
@@ -51495,7 +51495,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Warrior only: Warrior receives +3 to prowess and -1 to body against one strike.   
+> > _Warrior only._ Warrior receives +3 to prowess and -1 to body against one strike.   
 > > 
 > > {: .fs-3 } 
 > > _“...he charged into the Company and thrust with his spear straight at Frodo."_ ***---&#65279;LotRII*** 
@@ -51569,7 +51569,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > You may play this card as a resource or a hazard according to The Audience of Sauron Rules. This card may not be played as a hazard against a Wizard player, and may be included as a hazard in a Wizard's deck. You may reshuffle this card into your play deck at any time that it is in your hand (show opponent). 
+> > You may play this card as a resource or a hazard according to The Audience of Sauron Rules. This card may not be played as a hazard against a Wizard player, and may be included as a hazard in a Wizard's deck. You may reshuffle this card into you play deck at any time that it is in your hand (show opponent). 
 > 
 
 ---
@@ -51623,7 +51623,7 @@ permalink: /cards/all/
 > > _Undead._ Three strikes. After attack, each character wounded by _Ghosts_ makes a corruption check modified by -1. 
 > > 
 > > {: .fs-3 } 
-> > _“The Dead are following...I see shapes of Men and of horses, and pale banners like shreds of cloud, and spears like winter-thickets on a misty night. The Dead are following."_ ***---&#65279;LotRV*** 
+> > _“The Dead are following...I see shapes of Men and of horses, and pale banners like shreds of cloud, and spears like winter-thickets on a misty night. The Dead are following."_ ***---&#65279;LotRI*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 9/&ndash; 】</div>
@@ -51899,7 +51899,7 @@ permalink: /cards/all/
 > Anduin Vales
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 10 prowess (detainment against covert company)  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Men --- each character faces 1 strike with 10 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
 > > _“...a courtyard, three walls of which were formed by the wooden house and its long wings."_ ***---&#65279;Hob*** 
@@ -51922,7 +51922,7 @@ permalink: /cards/all/
 > Dagorlad
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Undead - 2 strikes with 8 prowess; each character wounded must make a corruption check modified by -2 <br>_**Special:**_ Non-Nazgul creatures played at the site attack normally, not as detainment.   
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Undead --- 2 strikes with 8 prowess; each character wounded must make a corruption check modified by -2 <br>_**Special:**_ Non-Nazgul creatures played at the site attack normally, not as detainment.   
 > > 
 > > {: .fs-3 } 
 > > _“‘...the Marshes have grown...swallowed up the graves...always creeping, creeping.’”_ ***---&#65279;LotRIV*** 
@@ -51945,7 +51945,7 @@ permalink: /cards/all/
 > High Pass
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 6 prowess <br>_**Special:**_ Non-Nazgul creatures played at this site attack normally, not as detainment. 
+> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Items (minor, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 3 strikes with 6 prowess <br>_**Special:**_ Non-Nazgul creatures played at this site attack normally, not as detainment. 
 > > 
 > > {: .fs-3 } 
 > > _“...and the way went down and down, and it was most horribly stuffy."_ ***---&#65279;Hob*** 
@@ -51968,7 +51968,7 @@ permalink: /cards/all/
 > Grey Mountain Narrows
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br> Dragon-1 strike with 14 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Dragon --- 1 strike with 14 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘And the halls and cavernous streets under the earth with arches carved like trees...’”_ ***---&#65279;LotRII*** 
@@ -51991,7 +51991,7 @@ permalink: /cards/all/
 > Iron Hills
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br> Dwarves-4 strikes with 10 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Dwarves --- 4 strikes with 10 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“‘But nothing will we give, not even a loaf's worth, under threat of force’”_ ***---&#65279;Hob*** 
@@ -52037,7 +52037,7 @@ permalink: /cards/all/
 > Gundabad
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - each character faces 1 strike with 7 prowess (detainment against overt company)  
+> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- each character faces 1 strike with 7 prowess (detainment against overt company)  
 > > 
 > > {: .fs-3 } 
 > > _“Messengers had passed to and fro between all their cities and strongholds...they gathered in secret ways, and in all the mountains their was a forging and an arming."_ ***---&#65279;Hob*** 
@@ -52060,7 +52060,7 @@ permalink: /cards/all/
 > Heart of Mirkwood
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 5 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 3 strikes with 5 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...the doubled waters poured out again over high waterfalls and ran away hurriedly...”_ ***---&#65279;Hob*** 
@@ -52083,7 +52083,7 @@ permalink: /cards/all/
 > Grey Mountain Narrows
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br> Orcs - 3 strikes with 7 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 3 strikes with 7 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“...behind stood taller shapes of grey, and behind those again were high white peaks glimmering among the clouds."_ ***---&#65279;LotRII*** 
@@ -52106,7 +52106,7 @@ permalink: /cards/all/
 > Woodland Realm
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Inromation, Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>  (1st) Elves-each character faces 1 strike with 9 prowess (detainment against covert company) (2nd) Elves-3 strikes with 10 prowess (against overt company only) 
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Information, Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>&ensp;(1st) Elves --- each character faces 1 strike with 9 prowess (detainment against covert company) <br>&ensp;(2nd) Elves --- 3 strikes with 10 prowess (against overt company only) 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -52249,7 +52249,7 @@ permalink: /cards/all/
 > Anduin Vales
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br> Animals-2 strikes with 10 prowess (attacker chooses defending characters)  "The eagles had brought up dry boughs for fuel, ...rabbits, hares, and a small sheep."_ ***---&#65279;Hob*** 
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Information, Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Animals --- 2 strikes with 10 prowess (attacker chooses defending characters)  "The eagles had brought up dry boughs for fuel, ...rabbits, hares, and a small sheep."_ ***---&#65279;Hob*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -52269,7 +52269,10 @@ permalink: /cards/all/
 > Fangorn
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur  <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br> Awakened Plant-2 strikes with 10 prowess Awakened Plant-2 strikes with 10 prowess  "A little steam escaped from the springs above...tinkling down the sheer face of the wall, pouring in sheer drops, link a fine curtain...”_ ***---&#65279;LotRIII*** 
+> > ***Nearest Darkhaven:*** Dol Guldur  <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>&ensp;Awakened Plant --- 2 strikes with 10 prowess, <br>&ensp;Awakened Plant --- 2 strikes with 10 prowess  
+> > 
+> > {: .fs-3 } 
+> > _"A little steam escaped from the springs above...tinkling down the sheer face of the wall, pouring in sheer drops, link a fine curtain...”_ ***---&#65279;LotRIII*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>

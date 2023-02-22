@@ -25,7 +25,7 @@ permalink: /cards/raider-hold/
 > Horse Plains
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major\*) <br>\*---weapon, armor, shield, or helmet only <br>_**Automatic-attacks:**_<br> Men --- each character faces 1 strike with 7 prowess (detainment against covert company)  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major\*) <br>\*---weapon, armor, shield, or helmet only <br>_**Automatic-attacks:**_<br>&ensp;Men --- each character faces 1 strike with 7 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
 > > _“Often they made raids through the forest..."_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -48,7 +48,7 @@ permalink: /cards/raider-hold/
 > Horse Plain
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Men --- 4 strikes with 9 prowess (detainment)  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Men --- 4 strikes with 9 prowess (detainment)  
 > > 
 > > {: .fs-3 } 
 > > _“‘It looks like a rock from afar, and tales of murder ward away those who might draw close by.’”_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -71,7 +71,7 @@ permalink: /cards/raider-hold/
 > Horse Plains
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major*) *-weapon, armor, shield, or helmet only <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 7 prowess (detainment against covert company)  
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major*) <br>\*---weapon, armor, shield, or helmet only <br>_**Automatic-attacks:**_<br>&ensp;Men --- each character faces 1 strike with 7 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
 > > _“Often they made raids through the forest..."_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -94,7 +94,7 @@ permalink: /cards/raider-hold/
 > Horse Plain
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Men-4 strikes with 9 prowess (detainment)  
+> > _**Nearest Haven:**_ Lorien <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br>&ensp;Men --- 4 strikes with 9 prowess (detainment)  
 > > 
 > > {: .fs-3 } 
 > > _“‘It looks like a rock from afar, and tales of murder ward away those who might draw close by.’”_ ***---&#65279;Kuduk&nbsp;Lore*** 

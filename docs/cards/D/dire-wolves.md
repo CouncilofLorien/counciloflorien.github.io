@@ -74,7 +74,7 @@ permalink: /cards/dire-wolves/
 > > _Wolves._ Four strikes. Two wildernesses <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> in site path are required. 
 > > 
 > > {: .fs-3 } 
-> > _“...the evil packs that lived under the shadow of the goblin-infested mountains, over the Edge of the Wild on the borders of the unknown. Wolves of that sort smell keened than goblins, and do not need to see you to catch you!"_ ***---&#65279;Hob*** 
+> > _“...the evil packs that lived under the shadow of the goblin-infested mountains, over the Edge of the Wild on the borders of the unknown. Wolves of that sort smell keener than goblins, and do not need to see you to catch you!"_ ***---&#65279;Hob*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 8/4 】</div>

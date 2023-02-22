@@ -51,7 +51,7 @@ permalink: /cards/thranduil/
 > Warrior/Ranger/Sage Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against Wood-elves faction. 
+> > _**Unique.**_ +2 direct influence against the Wood-elves faction. 
 > > 
 > > {: .fs-3 } 
 > > _“In a great hall with pillars hewn out of the living stones sat the Elvenking on a chair of carven wood. On his head was a crown of berries and red leaves... In his hand he held a carven staff of oak."_ ***---&#65279;Hob***  
@@ -77,7 +77,7 @@ permalink: /cards/thranduil/
 > Warrior/Ranger/Sage Elf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 direct influence against Wood-elves faction. 
+> > _**Unique.**_ +2 direct influence against the Wood-elves faction. 
 > > 
 > > {: .fs-3 } 
 > > _“In a great hall with pillars hewn out of the living stones sat the Elvenking on a chair of carven wood. On his head was a crown of berries and red leaves... In his hand he held a carven staff of oak."_ ***---&#65279;Hob***  

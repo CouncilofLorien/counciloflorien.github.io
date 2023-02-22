@@ -28,7 +28,7 @@ permalink: /cards/southron-oasis/
 > > _**Nearest Haven:**_ Edhellond  
 > > 
 > > {: .fs-3 } 
-> > _“...his chief peril lay in the south, where the Haradrim had occupied South Gondor, and there was much fighting in along the Poros."_ ***---&#65279;LotR*** 
+> > _“...his chief peril lay in the south, where the Haradrim had occupied South Gondor, and there was much fighting along the Poros."_ ***---&#65279;LotR*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -51,7 +51,7 @@ permalink: /cards/southron-oasis/
 > > _**Nearest Haven:**_ Edhellond  
 > > 
 > > {: .fs-3 } 
-> > _“...his chief peril lay in the south, where the Haradrim had occupied South Gondor, and there was much fighting in along the Poros."_ ***---&#65279;LotR*** 
+> > _“...his chief peril lay in the south, where the Haradrim had occupied South Gondor, and there was much fighting along the Poros."_ ***---&#65279;LotR*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
@@ -71,7 +71,7 @@ permalink: /cards/southron-oasis/
 > Harondor
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Automatic-attacks:**_<br> Men --- each character faces 1 strike with 5 prowess (detainment against covert company)  
+> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Automatic-attacks:**_<br>&ensp;Men --- each character faces 1 strike with 5 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
 > > _“‘...curse the Southrons! ...'Tis said that there were dealings of old between Gondor and the kingdoms of Harad...though there was never friendship’”_ ***---&#65279;LotR*** 
@@ -94,7 +94,7 @@ permalink: /cards/southron-oasis/
 > Harondor
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Automatic-attacks:**_<br> Men-each character faces 1 strike with 5 prowess (detainment against covert company)  
+> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Automatic-attacks:**_<br>&ensp;Men --- each character faces 1 strike with 5 prowess (detainment against covert company)  
 > > 
 > > {: .fs-3 } 
 > > _“‘...curse the Southrons! ...'Tis said that there were dealings of old between Gondor and the kingdoms of Harad...though there was never friendship’”_ ***---&#65279;LotR*** 

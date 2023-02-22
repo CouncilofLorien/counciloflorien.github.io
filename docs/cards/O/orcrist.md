@@ -68,7 +68,7 @@ permalink: /cards/orcrist/
 > > _Unique._ _Weapon._ +3 to prowess to a maximum of 9 (+4 prowess to a maximum of 10 against Orcs). 
 > > 
 > > {: .fs-3 } 
-> > _“They had called it Orcrist, Goblin-cleaver, but the Goblins called it simply Biter. They hated it and hated worse anyone that carried it."_ ***---&#65279;Hob*** 
+> > _“They had called it Orcrist, Goblin-cleaver, but the Goblins called it simply Biter. They hated it and hated worse any one that carried it."_ ***---&#65279;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +3/&ndash; 】</div>
@@ -88,7 +88,7 @@ permalink: /cards/orcrist/
 > > _Unique._ _Weapon._ +3 to prowess to a maximum of 9 (+4 prowess to a maximum of 10 against Orcs). 
 > > 
 > > {: .fs-3 } 
-> > _“They had called it Orcrist, Goblin-cleaver, but the Goblins called it simply Biter. They hated it and hated worse anyone that carried it."_ ***---&#65279;Hob*** 
+> > _“They had called it Orcrist, Goblin-cleaver, but the Goblins called it simply Biter. They hated it and hated worse any one that carried it."_ ***---&#65279;Hob*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +3/&ndash; 】</div>
