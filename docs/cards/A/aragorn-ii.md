@@ -36,6 +36,9 @@ permalink: /cards/aragorn-ii/
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 6/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+> 
+> {: .fs-2 } 
+> _**Middle-earth: The Wizards Limited**_
 
 ### _Middle-earth: The Wizards Unlimited_
 
@@ -62,6 +65,9 @@ permalink: /cards/aragorn-ii/
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 6/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+> 
+> {: .fs-1 } 
+> _**Middle-earth: The Wizards Unimited**_
 
 ### _Middle-earth: The Wizards Starter Set_
 
@@ -87,6 +93,9 @@ permalink: /cards/aragorn-ii/
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 6/9 】</div>
+> > 
+> > {: .fs-2 } 
+> > _**Middle-earth: The Wizards Starter Set**_
 > > <div class="card-corruption">&nbsp;</div>
 
 ### _Middle-earth Challenge Decks_
@@ -113,4 +122,5 @@ permalink: /cards/aragorn-ii/
 >
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 6/9 】</div>
+> > _Middle-earth Challenge Decks_
 > > <div class="card-corruption">&nbsp;</div>
