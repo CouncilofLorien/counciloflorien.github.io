@@ -49563,7 +49563,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Balrog specific._ Tap this card when an opponent plays a card normally giving him three or more marshalling points. The card does not untap. If tapped, you may discard this card during your organization phase to target a company allowed to move with region movement. The company may move up to two additional regions if moving to a site where an opponent's company is present---and also, thereafter, when leaving this site. 
+> > _Balrog specific._ Tap this card when an opponent plays a card normally giving him three or more marshalling points. This card does not untap. If tapped, you may discard this card during your organization phase to target a company allowed to move with region movement. The company may move up to two additional regions if moving to a site where an opponent's company is present---and also, thereafter, when leaving this site. 
 > 
 
 ---
@@ -49580,7 +49580,7 @@ permalink: /cards/all/
 > > Tap your Ringraith to discard one hazard permanent-event. <br>&ensp;Alternatively, during your organization phase, tap your Ringwraith to take up to two resources from your sideboard to your play deck and reshuffle. 
 > > 
 > > {: .fs-3 } 
-> > _“‘...the secret ways of Khazad-dum: Too well he knew them all.’”_ ***---&#65279;LotRIII*** 
+> > _“‘...the secret ways of Khazad-dum: too well he knew them all.’”_ ***---&#65279;LotRIII*** 
 > 
 
 ---
@@ -49749,7 +49749,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Balrog specific._ +1 prowess against an attack for all characters in a leader's of The Balrog's company **or** +3 to an influence attempt by a leader or The Balrog. 
+> > _Balrog specific._ +1 prowess against an attack for all characters in a leader's or The Balrog's company **or** +3 to an influence attempt by a leader or The Balrog. 
 > > 
 > > {: .fs-3 } 
 > > _“He gave a cry of dismay and fear."_ ***---&#65279;LotRII*** 
@@ -49890,7 +49890,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > ***Playable on a unique non-Dragon faction.*** Place a Border-hold <nobr>[<img src="/assets/images/border-hold.svg">]</nobr> from your location deck "off to the side" with this card. The Border-hold must be in the same region or adjacent thereto as a site where the target faction is playable. Return any faction playable at the Border-hold to its owner's hand. -5 to any attempt to play a faction at any version of the Border-hold. All versions of the Border-hold gain an additional automatic-attack: same type as your target faction-5 strikes with 9 prowess (detainment against your companies). Cannot be duplicated on your faction. 
+> > ***Playable on a unique non-Dragon faction.*** Place a Border-hold <nobr>[<img src="/assets/images/border-hold.svg">]</nobr> from your location deck "off to the side" with this card. The Border-hold must be in the same region or adjacent thereto as a site where the target faction is playable. Return any faction playable at the Border-hold to its owner's hand. -5 to any attempt to play a faction at any version of the Border-hold. All versions of the Border-hold gain an additional automatic-attack: same type as your target faction --- 5 strikes with 9 prowess (detainment against your companies). Cannot be duplicated on your faction. 
 > 
 
 ---
@@ -49921,7 +49921,7 @@ permalink: /cards/all/
 > > _Balrog specific._ ***Playable during the site phase on an untapped ranger at an untapped site where Information is playable.*** Tap the ranger and the site. +2 to all rolls for his company to move to adjacent Under-deeps sites. 
 > > 
 > > {: .fs-3 } 
-> > _“It was well for the company that they had such a guide."_ ***---&#65279;LotRII*** 
+> > _“It was well for the Company that they had such a guide."_ ***---&#65279;LotRII*** 
 > 
 
 ---
@@ -49935,7 +49935,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Balrog specific._ ***Playable on a Man, Drake, Orc, Troll, or Giant hazard creature attack with one strike for each of its attacks.*** All attacks of the creature are canceled. The creature becomes an ally under the control of any character in the company. The character does not need tap. The ally has a mind of 1, body of 7, and prowess equal to its normal prowess minus 7. It gives 1 ally marshalling point. Discard this card and the ally if the company moves through a Free-domain <nobr>[<img src="/assets/images/free-domain.svg">]</nobr> or a Dark-domain <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr>. 
+> > _Balrog specific._ ***Playable on a Man, Drake, Orc, Troll, or Giant hazard creature attack with one strike for each of its attacks.*** All attacks of the creature are canceled. The creature becomes an ally under the control of any character in the company. The character need not tap. The ally has a mind of 1, body of 7, and prowess equal to its normal prowess minus 7. It gives 1 ally marshalling point. Discard this card and the ally if the company moves through a Free-domain <nobr>[<img src="/assets/images/free-domain.svg">]</nobr> or a Dark-domain <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr>. 
 > 
 
 ---
@@ -50031,7 +50031,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Balrog specific._ ***Playable during the site phase on an untapped Free-hold*** <nobr>[<img src="/assets/images/free-hold.svg">]</nobr> ***or Border-hold*** <nobr>[<img src="/assets/images/border-hold.svg">]</nobr>. Tap the site. The company faces 3 attacks (Men --- 4 strikes with 8 prowess, 3 strikes with 10 prowess, 2 strikes with 12 prowess). Following the attacks, tap a character or discard this card. If this card is not discarded, discard all unique factions playable at the site. -5 to each attempt against any faction at any version of this site. This site is never discarded and never untaps. Cannot be duplicated on a given site. 
+> > _Balrog specific._ ***Playable during the site phase on an untapped Free-hold*** <nobr>[<img src="/assets/images/free-hold.svg">]</nobr> ***or Border-hold*** <nobr>[<img src="/assets/images/border-hold.svg">]</nobr>. Tap the site. The company faces 3 attacks (Men --- 4 strikes with 8 prowess, 3 strikes with 10 prowess, 2 strikes with 12 prowess). Following the attacks, tap a character or discard this card. If this card is not discarded, discard all unique factions playable at the site. -5 to each attempt against any faction at any version of this site. This site is never discarded and never untaps for you. Cannot be duplicated on a given site. 
 > 
 
 ---
@@ -50379,7 +50379,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > ***Playable before strikes are assigned on a non-detainment Orc or Troll attack with more strikes than characters and allies in the company.*** If the attack is not canceled or defeated, make a roll following the attack adding two for each excess strike. If the result minus five is greater than the prowess of the highest mind character in the company (of your choice), place that character "off to the side" with this card and discard all cards on that character. Otherwise, discard this card. During that character's long-event phase, discard this card and return the characters to its owner's hand. 
+> > ***Playable before strikes are assigned on a non-detainment Orc or Troll attack with more strikes than characters and allies in the company.*** If the attack is not canceled or defeated, make a roll following the attack adding two for each excess strike. If the result minus five is greater than the prowess of the highest mind character in the company (of your choice), place that character "off to the side" with this card and discard all cards on that character. Otherwise, discard this card. During that character's long-event phase, discard this card and return the character to its owner's hand. 
 >
 
 ---
@@ -50876,7 +50876,7 @@ permalink: /cards/all/
 > Under-deeps
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Mount Gundabad (0), The Wind-deeps (5), The Iron-deeps (6), The Under-grottos (6), The Under-gates (4), The Under-vaults (5) <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks (2):**_<br> Orcs (1st attack) --- 5 strikes with 7 prowess (detainment) <br>(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> <br>_**Special:**_ Creature keyed to this site attack normally, not as detainment. 
+> > _**Adjacent Sites:**_ Mount Gundabad (0), The Wind-deeps (5), The Iron-deeps (6), The Under-grottos (6), The Under-gates (4), The Under-vaults (5) <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks (2):**_<br> Orcs (1st attack) --- 5 strikes with 7 prowess (detainment) <br>(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> <br>_**Special:**_ Creatures keyed to this site attack normally, not as detainment. 
 > 
 > {: .balrog-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -50910,7 +50910,7 @@ permalink: /cards/all/
 > Under-deeps
 >
 > {: .balrog-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ The Wind Throne (0), The Under-leas (5), The Rusted-deeps (8) <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br> Orcs (1st attack) --- 3 strikes with 7 prowess; <br>(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Any Drake creature (except _Sea Serpent_) may be keyed to this site). 
+> > _**Adjacent Sites:**_ The Wind Throne (0), The Under-leas (5), The Rusted-deeps (8) <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br> Orcs (1st attack) --- 3 strikes with 7 prowess; <br>(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Any Drake creature (except _Sea Serpent_) may be keyed to this site. 
 > 
 > {: .balrog-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>

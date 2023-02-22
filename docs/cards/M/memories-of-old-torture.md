@@ -22,5 +22,5 @@ permalink: /cards/memories-of-old-torture/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Balrog specific._ ***Playable on a Man, Drake, Orc, Troll, or Giant hazard creature attack with one strike for each of its attacks.*** All attacks of the creature are canceled. The creature becomes an ally under the control of any character in the company. The character does not need tap. The ally has a mind of 1, body of 7, and prowess equal to its normal prowess minus 7. It gives 1 ally marshalling point. Discard this card and the ally if the company moves through a Free-domain <nobr>[<img src="/assets/images/free-domain.svg">]</nobr> or a Dark-domain <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr>. 
+> > _Balrog specific._ ***Playable on a Man, Drake, Orc, Troll, or Giant hazard creature attack with one strike for each of its attacks.*** All attacks of the creature are canceled. The creature becomes an ally under the control of any character in the company. The character need not tap. The ally has a mind of 1, body of 7, and prowess equal to its normal prowess minus 7. It gives 1 ally marshalling point. Discard this card and the ally if the company moves through a Free-domain <nobr>[<img src="/assets/images/free-domain.svg">]</nobr> or a Dark-domain <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr>. 
 > 
