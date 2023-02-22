@@ -37,7 +37,7 @@ permalink: /cards/aragorn-ii/
 > > <div class="card-shield">【 6/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 > 
-> {: .fs-2 } 
+> {: .fs-2 .mb-0 } 
 > _**Middle-earth: The Wizards Limited**_
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -66,7 +66,7 @@ permalink: /cards/aragorn-ii/
 > > <div class="card-shield">【 6/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 > 
-> {: .fs-1 } 
+> {: .fs-2 .mb-1 } 
 > _**Middle-earth: The Wizards Unimited**_
 
 ### _Middle-earth: The Wizards Starter Set_
