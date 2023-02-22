@@ -25,8 +25,11 @@ permalink: /cards/sarumans-ring/
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > _Unique._ _Saruman specific._ ***Place this card on Saruman if he is in play.*** If on Saruman, you may tap _Saruman's Ring_ during your end-of-turn phase to take aring item (other than _The One Ring_) from your discard pile to your hand. 
+> > _Unique._ _Saruman specific._ ***Place this card on Saruman if he is in play.*** If on Saruman, you may tap _Saruman's Ring_ during your end-of-turn phase to take a ring item (other than _The One Ring_) from your discard pile to your hand. 
 > > 
 > > {: .fs-3 } 
 > > _“‘For I am Saruman, the Wise, Saruman Ring-maker...’”_ ***---&#65279;LotRII*** 
 > 
+> {: .stage-resource-name .p-1 .pr-2 }
+> > <div class="card-shield"></div>
+> > <div class="card-corruption">〔 1 〕</div>

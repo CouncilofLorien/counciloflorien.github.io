@@ -25,7 +25,7 @@ permalink: /cards/never-refuse/
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > All corruption checks by your non-Wizard characters are modified by +2. 
+> > All corruption checks by your non-Wizard characters caused by your magic cards are modified by +2. 
 > > 
 > > {: .fs-3 } 
 > > _“I will follow your lead now...”_ ***---&#65279;LotRII*** 

@@ -71,7 +71,7 @@ permalink: /cards/pallando/
 > > <div class="character-card-name">Pallando</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 20 ![](/assets/images/gi.svg)&ensp;7 ![](/assets/images/di.svg)
+> > 20 ![](/assets/images/gi.svg)&emsp;7 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Ranger/Sage/Diplomat Fallen-wizard

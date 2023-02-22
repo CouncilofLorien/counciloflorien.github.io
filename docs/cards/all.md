@@ -37958,7 +37958,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Alatar</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 17 ![](/assets/images/gi.svg)&ensp;10 ![](/assets/images/di.svg)
+> > 17 ![](/assets/images/gi.svg)&emsp;10 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Scout/Ranger/Sage Fallen-wizard
@@ -37981,7 +37981,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Gandalf</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 18 ![](/assets/images/gi.svg)&ensp;9 ![](/assets/images/di.svg)
+> > 18 ![](/assets/images/gi.svg)&emsp;9 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Scout/Sage/Diplomat Fallen-wizard
@@ -38007,7 +38007,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Pallando</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 20 ![](/assets/images/gi.svg)&ensp;7 ![](/assets/images/di.svg)
+> > 20 ![](/assets/images/gi.svg)&emsp;7 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Ranger/Sage/Diplomat Fallen-wizard
@@ -38033,7 +38033,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Radagast</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 22 ![](/assets/images/gi.svg)&ensp;5 ![](/assets/images/di.svg)
+> > 22 ![](/assets/images/gi.svg)&emsp;5 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Scout/Ranger/Diplomat Fallen-wizard
@@ -38056,7 +38056,7 @@ permalink: /cards/all/
 > > <div class="character-card-name">Saruman</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 15 ![](/assets/images/gi.svg)&ensp;12 ![](/assets/images/di.svg)
+> > 15 ![](/assets/images/gi.svg)&emsp;12 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Scout/Ranger/Sage/Diplomat Fallen-wizard
@@ -38140,7 +38140,7 @@ permalink: /cards/all/
 > > _Half-orc._ Discard on a body check result of 9. 
 > > 
 > > {: .fs-3 } 
-> > _“One of the trave'lers, a squint-eyed ill-favoured fellow, was foretelling that more and more people would be coming north in the near future."_ ***---&#65279;LotRI***  
+> > _“One of the travellers, a squint-eyed ill-favoured fellow, was foretelling that more and more people would be coming north in the near future."_ ***---&#65279;LotRI***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Any Dark-hold 
@@ -38290,7 +38290,7 @@ permalink: /cards/all/
 > Scout/Diplomat Ally
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Radagast specific._ ***Playable at one of your Wizardhavens*** <nobr>[<img src="/assets/images/free-haven.svg">]</nobr>. You may return _Radagast's Black Bird_ to your hand: during your organization phase **or** if its controlling character leaves active play. Radagast may play this ally at any site (tapped or untapped) and need not tap himself or the site to do so. This ally may attempt to influence factions as if he were a character. He may cancel a strike directed against him---tapping afterwards if not already tapped. 
+> > _**Unique.**_ _Radagast specific._ ***Playable at one of your Wizardhavens*** <nobr>[<img src="/assets/images/free-haven.svg">]</nobr>. You may return _Radagast's Black Bird_ to your hand: during your organization phase **or** if its controling character leaves active play. Radagast may play this ally at any site (tapped or untapped) and need not tap himself or the site to do so. This ally may attempt to influence factions as if he were a character. He may cancel a strike directed against him---tapping afterwards if not already tapped. 
 > 
 > {: .stage-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 2/8 】</div>
@@ -38566,7 +38566,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ ***Playable on a Wizard with Sacrifice of Form.*** +2 to his direct influence, +1 to all of his corruption checks. Discard if Saruman is in play as an opposing Wizard.   
+> > _Unique._ ***Playable on a Wizard with Sacrifice of Form.*** +2 to his direct influence, +1 to all of his corruption checks. Discard if Saruman is in play as an opposing Wizard.   
 > > 
 > > {: .fs-3 } 
 > > _“‘Yes, I am in white now... Indeed I am Saruman, one might almost say, Saruman as he should have been.’”_ ***---&#65279;LotRIII*** 
@@ -38589,7 +38589,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > ***Playable if you have more than 7 stage points.*** Hazards your company defeat (for which you otherwise get 1 MP) are each worth full kill marshalling points. <br>&ensp;Cannot be duplicated by a given player. 
+> > ***Playable if you have more than 7 stage points.*** Hazards your companies defeat (for which you otherwise get 1 MP) are each worth full kill marshalling points. <br>&ensp;Cannot be duplicated by a given player. 
 > > 
 > > {: .fs-3 } 
 > > _“‘...the northern world would be merrier for many a long day. The dragon was dead, and the goblins overthrown...”_ ***---&#65279;Hob*** 
@@ -38706,7 +38706,7 @@ permalink: /cards/all/
 > > You may play Orc and Troll characters and include them in your starting company. Cannot be duplicated by a given player. 
 > > 
 > > {: .fs-3 } 
-> > _“‘We are the servants of Saruman the Wise, the White Hand: the Hand that gives us Man's-flesh to eat.’”_ ***---&#65279;LotRIII*** 
+> > _“‘We are the servants of Saruman the Wise, the White Hand: the Hand that gives us man's-flesh to eat.’”_ ***---&#65279;LotRIII*** 
 > 
 
 ---
@@ -39145,7 +39145,7 @@ permalink: /cards/all/
 > > _Unique._ _Saruman specific._ Your permanent-events that require a site where Information is playable are each worth 2 marshalling points. 
 > > 
 > > {: .fs-3 } 
-> > _“‘.,..there lies in Minas Tirith still, unread, I guess, by any save Saruman and myself since the kings failed, a scroll that Isildur made himself.’”_ ***---&#65279;LotRII*** 
+> > _“‘...there lies in Minas Tirith still, unread, I guess, by any save Saruman and myself since the kings failed, a scroll that Isildur made himself.’”_ ***---&#65279;LotRII*** 
 > 
 
 ---
@@ -39222,7 +39222,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > All corruption checks by your non-Wizard characters are modified by +2. 
+> > All corruption checks by your non-Wizard characters caused by your magic cards are modified by +2. 
 > > 
 > > {: .fs-3 } 
 > > _“I will follow your lead now...”_ ***---&#65279;LotRII*** 
@@ -39262,7 +39262,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > _Unique._ _Palando specific._ _Sage only._ ***Playable on a non-Hobbit, non-Dwarf sage character at one of your Wizardhavens*** <nobr>[<img src="/assets/images/free-haven.svg">]</nobr> _(or in your starting company)._ +1 to his direct influence. This character requires 2 points of influence to control and may only be controlled by general influence or Pallando. This character may tap to use a Palantir he bears. 
+> > _Unique._ _Pallando specific._ _Sage only._ ***Playable on a non-Hobbit, non-Dwarf sage character at one of your Wizardhavens*** <nobr>[<img src="/assets/images/free-haven.svg">]</nobr> _(or in your starting company)._ +1 to his direct influence. This character requires 2 points of influence to control and may only be controlled by general influence or Pallando. This character may tap to use a Palantir he bears. 
 > 
 
 ---
@@ -39279,11 +39279,14 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > _Unique._ _Palando specific._ ***Place this card on Pallando if he is in play.*** If on Pallando, you may tap _Pallando's Hood_ during your end-of-turn phase to take _Gifts as Given of Old_, _Wizard's Voice_, or _Eyes of Mandos_ from your discard pile to your hand. 
+> > _Unique._ _Pallando specific._ ***Place this card on Pallando if he is in play.*** If on Pallando, you may tap _Pallando's Hood_ during your end-of-turn phase to take _Gifts as Given of Old_, _Wizard's Voice_, or _Eyes of Mandos_ from your discard pile to your hand. 
 > > 
 > > {: .fs-3 } 
-> > _“...even as the stars moved in Endor's skies, so the spangles on Pallando's hood mirrored the heaven's gyrations."_ ***---&#65279;Kuduk&nbsp;Lore*** 
+> > _“...even as the stars moved in Endor's skies, so the spangles on Pallando's hood mirrored the heavens' gyrations."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 
+> {: .stage-resource-name .p-1 .pr-2 }
+> > <div class="card-shield"></div>
+> > <div class="card-corruption">〔 1 〕</div>
 
 ---
 
@@ -39393,11 +39396,14 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > _Unique._ _Saruman specific._ ***Place this card on Saruman if he is in play.*** If on Saruman, you may tap _Saruman's Ring_ during your end-of-turn phase to take aring item (other than _The One Ring_) from your discard pile to your hand. 
+> > _Unique._ _Saruman specific._ ***Place this card on Saruman if he is in play.*** If on Saruman, you may tap _Saruman's Ring_ during your end-of-turn phase to take a ring item (other than _The One Ring_) from your discard pile to your hand. 
 > > 
 > > {: .fs-3 } 
 > > _“‘For I am Saruman, the Wise, Saruman Ring-maker...’”_ ***---&#65279;LotRII*** 
 > 
+> {: .stage-resource-name .p-1 .pr-2 }
+> > <div class="card-shield"></div>
+> > <div class="card-corruption">〔 1 〕</div>
 
 ---
 
@@ -39533,7 +39539,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > _Unique._ _May not be a starting stage card._ _Playable if you are Alatar, Pallando, or Saruman._ ***Playable on Isengard.*** Isengard is protected. Other Fallen-wizards may not use the Wizardhaven <nobr>[<img src="/assets/images/free-haven.svg">]</nobr> card for Isengard. Cards that give marshalling points are not playable at the site by your opponent in all cases. A company moving to or from Isengard is not considered to be moving through Gap of Isen (including one less Border-land <nobr>[<img src="/assets/images/border-land.svg">]</nobr> in their site path). Discard this card when the site is discarded or returned to its location deck 
+> > _Unique._ _May not be a starting stage card._ _Playable if you are Alatar, Pallando, or Saruman._ ***Playable on Isengard.*** Isengard is protected. Other Fallen-wizards may not use the Wizardhaven <nobr>[<img src="/assets/images/free-haven.svg">]</nobr> card for Isengard. Cards that give marshalling points are not playable at the site by your opponent in all cases. A company moving to or from Isengard is not considered to be moving through Gap of Isen (including one less Border-land <nobr>[<img src="/assets/images/border-land.svg">]</nobr> in their site path). Discard this card when the site is discarded or returned to its location deck.
 > 
 
 ---
@@ -39724,7 +39730,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Magic._ _Spirit-magic._ ***Playable on an Orc character in a spirit-magic using character's company.*** The Orc is considered to be a Half-orc for all purposes. Unless he is a Ringwraith, the spirit-magic using character makes a corruption check modified by -3. Discard if the Orc character is in a company that does not contain a spriti-magic using character. 
+> > _Magic._ _Spirit-magic._ ***Playable on an Orc character in a spirit-magic using character's company.*** The Orc is considered to be a Half-orc for all purposes. Unless he is a Ringwraith, the spirit-magic using character makes a corruption check modified by -3. Discard if the Orc character is in a company that does not contain a spirit-magic using character. 
 > 
 
 ---
@@ -39936,7 +39942,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > ***Playable on a Wizard, Fallen-wizard, or Ringwraith.*** His general influence is modified by -1. If he is a Fallen-wizard, this modifier is instead: -9 if his stage points (SPs) exceed 20, -7 if his SPs exceed 15, -5 if his SPs exceed 10, or -3 if his SPs exceed 5 (use the first modifier that applies). Additionally, the Fallen-wizard's hand size is reduced by 1 more if his SPs exceed 10, and by 1 if his SPs exceed 20. Cannot be duplicated on a given character. Discard when any play deck is exhausted. 
+> > ***Playable on a Wizard, Fallen-wizard, or Ringwraith.*** His general influence is modified by -1. If he is a Fallen-wizard, this modifier is instead: -9 if his stage points (SPs) exceed 20, -7 if his SPs exceed 15, -5 if his SPs exceed 10, or -3 if his SPs exceed 5 (use the first modifier that applies). Additionally, the Fallen-wizard's hand size is reduced by 1 if his SPs exceed 10, and by 1 more if his SPs exceed 20. Cannot be duplicated on a given character. Discard when any play deck is exhausted. 
 >
 
 ---
@@ -40123,7 +40129,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > ***Playable on a site in a Wilderness*** <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> ***that normally is a Border-hold*** <nobr>[<img src="/assets/images/border-hold.svg">]</nobr> ***or a Shadow-hold*** <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr>_, or a non-protected Wizardhaven_ <nobr>[<img src="/assets/images/free-haven.svg">]</nobr> _in a Wilderness_ <nobr>[<img src="/assets/images/wilderness.svg">]</nobr>. All versions of the site become Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> and gain an additional automatic-attack: animals --- each character faces 1 strike with 7 prowess. Discard this card when the site is discarded or returned to its location deck.  
+> > ***Playable on a site in a Wilderness*** <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> ***that normally is a Border-hold*** <nobr>[<img src="/assets/images/border-hold.svg">]</nobr> ***or a Shadow-hold*** <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr>_, or a non-protected Wizardhaven_ <nobr>[<img src="/assets/images/free-haven.svg">]</nobr> _in a Wilderness_ <nobr>[<img src="/assets/images/wilderness.svg">]</nobr>. All versions of the site become Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> and each gains an additional automatic-attack: animals --- each character faces 1 strike with 7 prowess. Discard this card when the site is discarded or returned to its location deck.  
 >
 
 ---
@@ -40199,7 +40205,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > ***Playable on a Fallen-wizard at a Wizardhaven*** <nobr>[<img src="/assets/images/free-haven.svg">]</nobr>. Your opponent must choose either: discard from play enough stage cards (of his choice) to reduce his stage point total below 7 or to receive 4 stage points. Cannot be duplicated on a given Fallen-wizard.   
+> > ***Playable on a Fallen-wizard at a Wizardhaven*** <nobr>[<img src="/assets/images/free-haven.svg">]</nobr>. Your opponent must choose either: discard from play enough stage cards (of his choice) to reduce his stage point total below 7 **or** to receive 4 stage points. Cannot be duplicated on a given Fallen-wizard.   
 > > 
 > > {: .fs-3 } 
 > > _“‘And I have the power to protect you. I am giving you a last chance.’”_ ***---&#65279;LotRIII***  

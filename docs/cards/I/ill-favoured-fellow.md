@@ -28,7 +28,7 @@ permalink: /cards/ill-favoured-fellow/
 > > _Half-orc._ Discard on a body check result of 9. 
 > > 
 > > {: .fs-3 } 
-> > _“One of the trave'lers, a squint-eyed ill-favoured fellow, was foretelling that more and more people would be coming north in the near future."_ ***---&#65279;LotRI***  
+> > _“One of the travellers, a squint-eyed ill-favoured fellow, was foretelling that more and more people would be coming north in the near future."_ ***---&#65279;LotRI***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Any Dark-hold 

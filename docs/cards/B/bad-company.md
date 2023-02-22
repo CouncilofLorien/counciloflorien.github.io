@@ -28,5 +28,5 @@ permalink: /cards/bad-company/
 > > You may play Orc and Troll characters and include them in your starting company. Cannot be duplicated by a given player. 
 > > 
 > > {: .fs-3 } 
-> > _“‘We are the servants of Saruman the Wise, the White Hand: the Hand that gives us Man's-flesh to eat.’”_ ***---&#65279;LotRIII*** 
+> > _“‘We are the servants of Saruman the Wise, the White Hand: the Hand that gives us man's-flesh to eat.’”_ ***---&#65279;LotRIII*** 
 > 

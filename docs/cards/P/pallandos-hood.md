@@ -25,8 +25,11 @@ permalink: /cards/pallandos-hood/
 > Permanent-event
 >
 > {: .stage-resource-text .black-text .p-2 }
-> > _Unique._ _Palando specific._ ***Place this card on Pallando if he is in play.*** If on Pallando, you may tap _Pallando's Hood_ during your end-of-turn phase to take _Gifts as Given of Old_, _Wizard's Voice_, or _Eyes of Mandos_ from your discard pile to your hand. 
+> > _Unique._ _Pallando specific._ ***Place this card on Pallando if he is in play.*** If on Pallando, you may tap _Pallando's Hood_ during your end-of-turn phase to take _Gifts as Given of Old_, _Wizard's Voice_, or _Eyes of Mandos_ from your discard pile to your hand. 
 > > 
 > > {: .fs-3 } 
-> > _“...even as the stars moved in Endor's skies, so the spangles on Pallando's hood mirrored the heaven's gyrations."_ ***---&#65279;Kuduk&nbsp;Lore*** 
+> > _“...even as the stars moved in Endor's skies, so the spangles on Pallando's hood mirrored the heavens' gyrations."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 
+> {: .stage-resource-name .p-1 .pr-2 }
+> > <div class="card-shield"></div>
+> > <div class="card-corruption">〔 1 〕</div>

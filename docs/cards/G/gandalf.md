@@ -97,7 +97,7 @@ permalink: /cards/gandalf/
 > > <div class="character-card-name">Gandalf</div>
 >
 > {: .character-frame .black-text .mind-di .p-1 .pl-2 }
-> > 18 ![](/assets/images/gi.svg)&ensp;9 ![](/assets/images/di.svg)
+> > 18 ![](/assets/images/gi.svg)&emsp;9 ![](/assets/images/di.svg)
 >
 > {: .character-card-classification .pr-2 }
 > Warrior/Scout/Sage/Diplomat Fallen-wizard

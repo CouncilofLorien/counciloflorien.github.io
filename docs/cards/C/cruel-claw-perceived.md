@@ -22,5 +22,5 @@ permalink: /cards/cruel-claw-perceived/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > ***Playable on a Wizard, Fallen-wizard, or Ringwraith.*** His general influence is modified by -1. If he is a Fallen-wizard, this modifier is instead: -9 if his stage points (SPs) exceed 20, -7 if his SPs exceed 15, -5 if his SPs exceed 10, or -3 if his SPs exceed 5 (use the first modifier that applies). Additionally, the Fallen-wizard's hand size is reduced by 1 more if his SPs exceed 10, and by 1 if his SPs exceed 20. Cannot be duplicated on a given character. Discard when any play deck is exhausted. 
+> > ***Playable on a Wizard, Fallen-wizard, or Ringwraith.*** His general influence is modified by -1. If he is a Fallen-wizard, this modifier is instead: -9 if his stage points (SPs) exceed 20, -7 if his SPs exceed 15, -5 if his SPs exceed 10, or -3 if his SPs exceed 5 (use the first modifier that applies). Additionally, the Fallen-wizard's hand size is reduced by 1 if his SPs exceed 10, and by 1 more if his SPs exceed 20. Cannot be duplicated on a given character. Discard when any play deck is exhausted. 
 >

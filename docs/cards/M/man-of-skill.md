@@ -28,5 +28,5 @@ permalink: /cards/man-of-skill/
 > > _Unique._ _Saruman specific._ Your permanent-events that require a site where Information is playable are each worth 2 marshalling points. 
 > > 
 > > {: .fs-3 } 
-> > _“‘.,..there lies in Minas Tirith still, unread, I guess, by any save Saruman and myself since the kings failed, a scroll that Isildur made himself.’”_ ***---&#65279;LotRII*** 
+> > _“‘...there lies in Minas Tirith still, unread, I guess, by any save Saruman and myself since the kings failed, a scroll that Isildur made himself.’”_ ***---&#65279;LotRII*** 
 > 
