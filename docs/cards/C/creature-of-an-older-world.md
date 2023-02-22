@@ -25,7 +25,7 @@ permalink: /cards/creature-of-an-older-world/
 > Warrior Ally
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ ***Playable on a Ringwraith at a tapped or untapped Barad-dur*** _(does not tap the site)._ Your Ringwraith receives +2 prowess. If your Ringwraith is the only creature in his company, the company is in Fell Rider mode and may move freely (using starter movement). Tap this ally to cancel a strike against your Ringwraith **or** to assign your Ringwraith's strikes against a hero company as you choose before hero strikes are assigned. Return your Ringwraith to your hand if this ally leaves active play. 
+> > _**Unique.**_ ***Playable on your Ringwraith at a tapped or untapped Barad-dur*** _(does not tap the site)._ Your Ringwraith receives +2 prowess. If your Ringwraith is the only character in his company, the company is in Fell Rider mode and may move freely (using starter movement). Tap this ally to cancel a strike against your Ringwraith **or** to assign your Ringwraith's strikes against a hero company as you choose before hero strikes are assigned. Return your Ringwraith to your hand if this ally leaves active play. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 5/8 】</div>

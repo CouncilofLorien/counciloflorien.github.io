@@ -71,7 +71,7 @@ permalink: /cards/rhosgobel/
 > Southern Mirkwood
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur  <br>_**Playable:**_ Information, Items (minor) <br>_**Automatic-attacks (2):**_<br>  Maia --- 1 strike with 13 prowess <br>Maia --- 1 strike with 13 prowess <br>_**Special:**_ If the Wizard card _Radagast_ is in play, the automatic-attacks are removed. 
+> > ***Nearest Darkhaven:*** Dol Guldur  <br>_**Playable:**_ Information, Items (minor) <br>_**Automatic-attacks (2):**_<br>  Maia --- 1 strike with 13 prowess; <br>Maia --- 1 strike with 13 prowess. <br>_**Special:**_ If the Wizard card _Radagast_ is in play, the automatic-attacks are removed. 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>

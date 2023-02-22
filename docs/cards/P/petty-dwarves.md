@@ -42,5 +42,5 @@ permalink: /cards/petty-dwarves/
 > > _**Unique.**_ ***Playable at The Worthy Hills*** <br>&ensp;if the influence check is greater than 11. 
 > > 
 > > {: .fs-3 } 
-> > _“The Noegyth Nibin feard all and loved none, and coveted everything."_ ***---&#65279;Kuduk&nbsp;Lore*** 
+> > _“The Noegyth Nibin feared all and loved none, and coveted everything."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 

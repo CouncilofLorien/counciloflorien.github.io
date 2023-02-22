@@ -28,7 +28,7 @@ permalink: /cards/mionid/
 > > _**Unique.**_ +2 direct influence against any faction playable at Variag Camp. 
 > > 
 > > {: .fs-3 } 
-> > _“Many of the Wainriders...passed south of Mordor and made alliances with men of Khand and of Near Harad...”_ ***---&#65279;LotR***  
+> > _“Many of the Wainriders...passed south of Mordor and made alliance with men of Khand and of Near Harad...”_ ***---&#65279;LotR***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Variag Camp 
@@ -54,7 +54,7 @@ permalink: /cards/mionid/
 > > _**Unique.**_ +2 direct influence against any faction playable at Variag Camp. 
 > > 
 > > {: .fs-3 } 
-> > _“Many of the Wainriders...passed south of Mordor and made alliances with men of Khand and of Near Harad...”_ ***---&#65279;LotR***  
+> > _“Many of the Wainriders...passed south of Mordor and made alliance with men of Khand and of Near Harad...”_ ***---&#65279;LotR***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Variag Camp 

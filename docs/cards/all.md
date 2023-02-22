@@ -34958,7 +34958,7 @@ permalink: /cards/all/
 > > _**Unique.**_ +2 direct influence against any faction playable at Variag Camp. 
 > > 
 > > {: .fs-3 } 
-> > _“Many of the Wainriders...passed south of Mordor and made alliances with men of Khand and of Near Harad...”_ ***---&#65279;LotR***  
+> > _“Many of the Wainriders...passed south of Mordor and made alliance with men of Khand and of Near Harad...”_ ***---&#65279;LotR***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Variag Camp 
@@ -35073,7 +35073,7 @@ permalink: /cards/all/
 > Warrior Ally
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ ***Playable on a Ringwraith at a tapped or untapped Barad-dur*** _(does not tap the site)._ Your Ringwraith receives +2 prowess. If your Ringwraith is the only creature in his company, the company is in Fell Rider mode and may move freely (using starter movement). Tap this ally to cancel a strike against your Ringwraith **or** to assign your Ringwraith's strikes against a hero company as you choose before hero strikes are assigned. Return your Ringwraith to your hand if this ally leaves active play. 
+> > _**Unique.**_ ***Playable on your Ringwraith at a tapped or untapped Barad-dur*** _(does not tap the site)._ Your Ringwraith receives +2 prowess. If your Ringwraith is the only character in his company, the company is in Fell Rider mode and may move freely (using starter movement). Tap this ally to cancel a strike against your Ringwraith **or** to assign your Ringwraith's strikes against a hero company as you choose before hero strikes are assigned. Return your Ringwraith to your hand if this ally leaves active play. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 5/8 】</div>
@@ -35164,7 +35164,7 @@ permalink: /cards/all/
 > Man Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Manifestation of minion Angmarim._ &ensp;***Playable at Carn Dum*** <br>&ensp;if the influence check is greater than 11 (_Muster_ has no effect on this attempt). <br>_Standard Modifications:_ Wizards (-5), Men (+1). 
+> > _**Unique.**_ _Manifestation of minion Angmarim._ <br>&ensp;***Playable at Carn Dum*** <br>&ensp;if the influence check is greater than 11 (_Muster_ has no effect on this attempt). <br>_Standard Modifications:_ Wizards (-5), Men (+1). 
 > > 
 > > {: .fs-3 } 
 > > _“‘They sought refuge from the vile creatures spawned by the Shadow.’”_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -35475,7 +35475,7 @@ permalink: /cards/all/
 > > _**Unique.**_ ***Playable at The Worthy Hills*** <br>&ensp;if the influence check is greater than 11. 
 > > 
 > > {: .fs-3 } 
-> > _“The Noegyth Nibin feard all and loved none, and coveted everything."_ ***---&#65279;Kuduk&nbsp;Lore*** 
+> > _“The Noegyth Nibin feared all and loved none, and coveted everything."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 > 
 
 ---
@@ -35489,7 +35489,7 @@ permalink: /cards/all/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ ***Playable at Easterling Camp*** <br>&ensp;if the influence check is greater than 9. <br>_Standard Modifications:_ Easterlings (+2), Nuriags (-2). Once in play, the number required to influence this faction is 0. 
+> > _**Unique.**_ ***Playable at Easterling Camp*** <br>&ensp;if the influence check is greater than 9. <br>_Standard Modifications:_ Easterlings (+2), Nuriags (-2). 
 > > 
 > > {: .fs-3 } 
 > > _“...stronger and better armed than any that had appeared before. They journeyed in great wains, and their chieftains fought in chariots."_ ***---&#65279;LotR*** 
@@ -35583,7 +35583,7 @@ permalink: /cards/all/
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Dwarven Ring._ Playable only with a Gold Ring and after a test indicates a Dwarven Ring. Values in parentheses and brackets apply to a Dwarf bearer. Tap a Dwarf bearer to search your play deck and/or discard pile for any one or two minor items; place these items in your hand and reshuffle your play deck. Bearer then makes a corruption check modified by +2. 
+> > _**Unique.**_ _Dwarven Ring._ Playable only with a Gold Ring and after a test indicates a Dwarven Ring. Values in parentheses apply to a Dwarf bearer. Tap a Dwarf bearer to search your play deck and/or discard pile for any one or two minor items; place these items in your hand and reshuffle your play deck. Bearer then makes a corruption check modified by +2. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +2(4)/+1 】</div>
@@ -35603,7 +35603,7 @@ permalink: /cards/all/
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Dwarven Ring._ Playable only with a Gold Ring and after a test indicates a Dwarven Ring. Values in parentheses and brackets apply to a Dwarf bearer. Tap a Dwarf bearer to search your play deck and/or discard pile for any one or two minor items; place these items in your hand and reshuffle your play deck. Bearer then makes a corruption check modified by +2. 
+> > _**Unique.**_ _Dwarven Ring._ Playable only with a Gold Ring and after a test indicates a Dwarven Ring. Values in parentheses apply to a Dwarf bearer. Tap a Dwarf bearer to search your play deck and/or discard pile for any one or two minor items; place these items in your hand and reshuffle your play deck. Bearer then makes a corruption check modified by +2. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +2(4)/+1 】</div>
@@ -35740,7 +35740,7 @@ permalink: /cards/all/
 > Minor Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Cannot be included with a starting company. Discard: to untap a Free-hold <nobr>[<img src="/assets/images/free-hold.svg">]</nobr> **or** to make Information playable at any Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr>. Cannot be duplicated in a given company. 
+> > Cannot be included with a starting company. Discard: to untap a Free-hold <nobr>[<img src="/assets/images/free-hold.svg">]</nobr> or Border-hold <nobr>[<img src="/assets/images/border-hold.svg">]</nobr> **or** to make Information playable at any Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr>. Cannot be duplicated in a given company. 
 > > 
 > > {: .fs-3 } 
 > > _“‘I must be the only one in the Shire, besides you and Frodo, that has ever seen the old fellow's secret book.’”_ ***---&#65279;LotRI*** 
@@ -35777,7 +35777,7 @@ permalink: /cards/all/
 > > <div class="card-name">Thrall-ring</div>
 >
 > {: .minion-resource-name .white-text .mind-di .p-1 .pl-2 }
-> > -1 ![](/assets/images/mind.svg)&ensp;+1 ![](/assets/images/di.svg)
+> > -1 ![](/assets/images/mind.svg)&emsp;+1 ![](/assets/images/di.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Minor Item
@@ -35863,7 +35863,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable during opponent's site phase before strikes are assigned on a hero company at a Free-hold*** <nobr>[<img src="/assets/images/free-hold.svg">]</nobr> ***or Border-hold*** <nobr>[<img src="/assets/images/border-hold.svg">]</nobr> ***if a minion company attacks.*** The attack is cancelled and the minion company must face all automatic-attacks of the site---which attack normally, not as detainment. Afterwards, the minion company may attack the hero company again.  
+> > ***Playable during opponent's site phase before strikes are assigned on a hero company at a Free-hold*** <nobr>[<img src="/assets/images/free-hold.svg">]</nobr> ***or Border-hold*** <nobr>[<img src="/assets/images/border-hold.svg">]</nobr> ***if a minion company attacks.*** The attack is canceled and the minion company must face all automatic-attacks of the site --- which attack normally, not as detainment. Afterwards, the minion company may attack the hero company again.  
 > 
 
 ---
@@ -35877,10 +35877,10 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > If at least one hero Dwarf faction, one hero Elf faction, and one hero Man faction is in play, all hero Dwarf factions, hero Elf factions, and hero Man factions give an additional marshalling point. Discard when any hero Dwarf faction, hero Elf faction, of hero Man faction is discarded from play. Cannot be duplicated. 
+> > If at least one hero Dwarf faction, one hero Elf faction, and one hero Man faction is in play, all hero Dwarf factions, hero Elf factions, and hero Man factions give an additional marshalling point. Discard when any hero Dwarf faction, hero Elf faction, or hero Man faction is discarded from play. Cannot be duplicated. 
 > > 
 > > {: .fs-3 } 
-> > _“‘I beheld the last combat on the slopes of Orodruin, where Gil-galad died, and Elendil fell, and Narsil broke beneath him; but Sauron himself was overthrown...’”_ ***---&#65279;LotRII*** 
+> > _“‘I beheld the last combat on the slopes of orodruin, where Gil-galad died, and Elendil fell, and Narsil broke beneath him; but Sauron himself was overthrown...’”_ ***---&#65279;LotRII*** 
 > 
 
 ---
@@ -35911,7 +35911,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable on a hero company during your orgazniation phase if you discard a ranger character from your hand.*** All characters in the company this turn receive +2 prowess against attacks keyed to Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> **and** during combat at Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr>. 
+> > ***Playable on a hero company during your organization phase if you discard a ranger character from your hand.*** All characters in the company this turn receive +2 prowess against attacks keyed to Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> **and** during combat at Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr>. <br>&emsp;Cannot be duplicated on a given company. 
 > > 
 > > {: .fs-3 } 
 > > _“Each company was guided by a wild woodman...the thickets offered to the Riders their last hope of cover before they went into open battle."_ ***---&#65279;LotRV*** 
@@ -35976,7 +35976,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable during the site phase on a Free-hold*** <nobr>[<img src="/assets/images/free-hold.svg">]</nobr> ***or Border-hold*** <nobr>[<img src="/assets/images/border-hold.svg">]</nobr> ***if you have played a faction there.*** This site is never discarded and never untaps for you. All detainment attacks at all versions of this site against minion companies instead attack normally. Against minion companies, each version of this site has an additional automatic-attack: an exact copy including all modifications of the attack listed on its card. Cannot be duplicated on a given site. 
+> > ***Playable during the site phase on a Free-hold*** <nobr>[<img src="/assets/images/free-hold.svg">]</nobr> ***or Border-hold*** <nobr>[<img src="/assets/images/border-hold.svg">]</nobr> ***if you have played a faction there.*** This site is never discarded and never untaps for you. All detainment attacks at all versions of this site against minion companies instead attack normally. Against minion companies, each version of this site has an additional automatic-attack: an exact copy including all modifications of the first automatic-attack listed on its card. Cannot be duplicated on a given site. 
 > 
 
 ---
@@ -36004,7 +36004,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable during opponent's site phase on a company being attacked by a minion company.*** All heroes receive +3 prowess until the end of the turn. Cannot be duplicated on a given company. 
+> > ***Playable during opponent's site phase on a company being attacked by a minion company.*** All heroes receive +3 prowess until the end of the turn. <br>&ensp;Cannot be duplicated on a given company. 
 > > 
 > > {: .fs-3 } 
 > > _“‘...and against both the Seen and the Unseen they have great power.’”_ ***---&#65279;LotRII*** 
@@ -36298,7 +36298,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Magic._ _Spirit-magic._ ***Playable on a company with a spirit-magic using character facing an attack.*** Each wolf ally (_War-wolf_, _War-warg_, or _The Warg-king_) receives +3 prowess against the attack. Following the attack, the controller of each wolf ally faces an attack: (no type) one strike with the ally's normal prowess +3. If the strike of an attack is successful, discard the wolf-ally. Unless he is a Ringwraith, the spirit-magic-using character makes a corruption check modified by -3. 
+> > _Magic._ _Spirit-magic._ ***Playable on a company with a spirit-magic using character facing an attack.*** Each wolf ally (_War-wolf_, _War-warg_, or _The Warg-king_) receives +3 prowess against the attack. Following the attack, the controller of each wolf ally faces an attack: (no type) one strike with the ally's normal prowess +3. If the strike of an attack is successful, discard the wolf ally. Unless he is a Ringwraith, the spirit-magic-using character makes a corruption check modified by -3. 
 > 
 
 ---
@@ -36326,7 +36326,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > ***Playable if you are Sauron.*** Once each of your turns, you may choose any character you control bearing a min ring or special item ring to use sorcery, spirit-magic, or shadow-magic for the purposes of playing one magic card. Additionally, the corruption checks for all hero spells are modified by -1. Cannot be duplicated. Discard when any play deck is exhausted. 
+> > ***Playable if you are Sauron.*** Once each of your turns, you may choose any character you control bearing a mind ring or special item ring to use sorcery, spirit-magic, or shadow-magic for the purposes of playing one magic card. Additionally, the corruption checks for all hero spells are modified by -1. Cannot be duplicated. Discard when any play deck is exhausted. 
 > 
 
 ---
@@ -36385,7 +36385,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Ranger only._ ***Playable during the organization phase on a ranger.*** If his company uses region movement, it may move as if the following pairs were adjacent: Dagorlad and Gorgoroth, Horse Plains and Gorgoroth. The company faces a detainment attack at the beginning of its movement hazard phase: Orcs --- four strikes with 6 prowess. Alternatively, if the site moved to is in one of the regions listed above, the hazard limit is reduced by two (to a minimum of two). 
+> > _Ranger only._ ***Playable during the organization phase on a ranger.*** If his company uses region movement, it may move as if the following pairs of regions were adjacent: Dagorlad and Gorgoroth, Horse Plains and Gorgoroth. The company faces a detainment attack at the beginning of its movement hazard phase: Orcs --- four strikes with 6 prowess. Alternatively, if the site moved to is in one of the regions listed above, the hazard limit is reduced by two (to a minimum of two). 
 > 
 
 ---
@@ -36696,7 +36696,7 @@ permalink: /cards/all/
 > > <div class="card-name">Gandalf the White Rider</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/free-domain.svg)&ensp;![](/assets/images/free-hold.svg)
+> > ![](/assets/images/free-domain.svg)&emsp;![](/assets/images/free-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature or Permanent-event
@@ -36773,7 +36773,7 @@ permalink: /cards/all/
 > Creature or Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Elf._ _Manifestation of Cirdan._ One strike. Detainment against hero companies. <br>&ensp;As a creature, may be played keyed to Lindon or Any Coastal Sea <nobr>[<img src="/assets/images/coastalsea.svg">]</nobr> region; or at sites in these regions. <br>&ensp;As a short-event, tap up to two target characters in one company at a site in, or moving through, a Coastal Sea <nobr>[<img src="/assets/images/coastalsea.svg">]</nobr> region. 
+> > _**Unique.**_ _Elf._ _Manifestation of Cirdan._ One strike. Detainment against hero companies. <br>&ensp;As a creature, may be played keyed to Lindon or any Coastal Sea <nobr>[<img src="/assets/images/coastalsea.svg">]</nobr> region; or at sites in these regions. <br>&ensp;As a short-event, tap up to two target characters in one company at a site in, or moving through, a Coastal Sea <nobr>[<img src="/assets/images/coastalsea.svg">]</nobr> region. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 13/9 】</div>
@@ -36804,7 +36804,7 @@ permalink: /cards/all/
 > > <div class="card-name">Pallando the Soul-keeper</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/free-domain.svg)&ensp;![](/assets/images/free-hold.svg)
+> > ![](/assets/images/free-domain.svg)&emsp;![](/assets/images/free-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature or Permanent-event
@@ -36824,7 +36824,7 @@ permalink: /cards/all/
 > > <div class="card-name">Radagast the Tamer</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/free-domain.svg)&ensp;![](/assets/images/free-hold.svg)
+> > ![](/assets/images/free-domain.svg)&emsp;![](/assets/images/free-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
@@ -36844,7 +36844,7 @@ permalink: /cards/all/
 > > <div class="card-name">Saruman the Wise</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/free-domain.svg)&ensp;![](/assets/images/free-hold.svg)
+> > ![](/assets/images/free-domain.svg)&emsp;![](/assets/images/free-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature or Permanent-event
@@ -36870,7 +36870,7 @@ permalink: /cards/all/
 > > _Dunedain._ Five strikes. Detainment against hero and covert companies. May be played keyed to Wold & Foothills, Rohan, Anorien, Lebennin, Brown Lands, Dagorlad, Ithilien, or Harondor. 
 > > 
 > > {: .fs-3 } 
-> > _“‘By our Valour...the terror of Morgul kept at bay; and thus alone are peace and freedom maintained in the lands behind us, Bulwark of the West.’”_ ***---&#65279;LotRII*** 
+> > _“‘By our Valour...the terror of Morgul kept at bay; and thus alone are peace and freedom maintained in the lands behind us, bulwark of the West.’”_ ***---&#65279;LotRII*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 8/&ndash; 】</div>
@@ -37043,7 +37043,7 @@ permalink: /cards/all/
 > > All Spider and Animal attacks receive +2 prowess. Discard if a Spider or Animal attack is defeated. Cannot be duplicated.   
 > > 
 > > {: .fs-3 } 
-> > _“...hairy legs waving, nippers and spinners snapping, eyes, popping, full of froth and rage."_ ***---&#65279;Hob*** 
+> > _“...hairy legs waving, nippers and spinners snapping, eyes popping, full of froth and rage."_ ***---&#65279;Hob*** 
 >
 
 ---
@@ -37150,7 +37150,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > ***This card affects companies with at least as many Hobbits as non-Hobbit characters.*** The number of region cards affected company can play is reduced by one (normally from four to three). Affected companies cannot use starter movement if region movement is being used in the game. Cannot be duplicated. Discard when any play deck is exhausted. 
+> > ***This card affects companies with at least as many Hobbits as non-Hobbit characters.*** The number of region cards affected companies can play is reduced by one (normally from four to three). Affected companies cannot use starter movement if region movement is being used in the game. Cannot be duplicated. Discard when any play deck is exhausted. 
 >
 
 ---
@@ -37461,7 +37461,7 @@ permalink: /cards/all/
 > Anduin Vales
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br> Men --- 1 strike with 10 prowess <br>_**Special:**_ The first minor item played at this site does not tap the site. Contains a hoard. 
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor) <br>_**Automatic-attacks:**_<br> Men --- 1 strike with 10 prowess <br>_**Special:**_ The first minor item played at this site each turn does not tap the site. Contains a hoard. 
 > > 
 > > {: .fs-3 } 
 > > _“...they...drove away the remnants of the people of Angmar on the east side of the Mountains."_ ***---&#65279;LotR*** 
@@ -37527,7 +37527,7 @@ permalink: /cards/all/
 > Elven Shores
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Geann a-Lisch <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Undead --- 1 strike with 8 prowess; each character wounded must make a corruption check modified by -2 <br>_**Special:**_ An overt company must tap an untapped character (if available) if this site is revealed as its new site.  
+> > ***Nearest Darkhaven:*** Geann a-Lisch <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks:**_<br> Undead --- 1 strike with 8 prowess, each character wounded must make a corruption check modified by -2 <br>_**Special:**_ An overt company must tap an untapped character (if available) if this site is revealed as its new site.  
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;3&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>
@@ -37590,7 +37590,7 @@ permalink: /cards/all/
 > Eriadoran Coast
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Geann a-Lisch <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br> Undead --- 2 strikes with 8 prowess; each character wounded must make a corruption check modified by -2 <br>_**Special:**_ A covert company must tap an untapped character (if available) if this site is revealed as its new site.  
+> > ***Nearest Darkhaven:*** Geann a-Lisch <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks:**_<br> Undead --- 2 strikes with 8 prowess, each character wounded must make a corruption check modified by -2 <br>_**Special:**_ A covert company must tap an untapped character (if available) if this site is revealed as its new site.  
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -37610,7 +37610,7 @@ permalink: /cards/all/
 > Wold & Foothills
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur  <br>_**Playable:**_ Information, Items (minor, major, greater, gold ring) <br>***Automatic-attacks (3):***  <br>Elves --- 4 strikes with 8 prowess <br>Elves --- 3 strikes with 9 prowess <br>Elves --- 2 strikes with 10 prowess <br>_**Special:**_ Any company moving to this site has its hazard limit increased by 2. A minion company may not attack another company at this site. A Ringwraith may not move to the site. 
+> > ***Nearest Darkhaven:*** Dol Guldur  <br>_**Playable:**_ Information, Items (minor, major, greater, gold ring) <br>***Automatic-attacks (3):***  <br>Elves --- 4 strikes with 8 prowess; <br>Elves --- 3 strikes with 9 prowess; <br>Elves --- 2 strikes with 10 prowess; <br>_**Special:**_ Any company moving to this site has its hazard limit increased by 2. A minion company may not attack another company at this site. A Ringwraith may not move to the site. 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;4&ensp;</span></div>
@@ -37676,7 +37676,7 @@ permalink: /cards/all/
 > Southern Mirkwood
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur  <br>_**Playable:**_ Information, Items (minor) <br>_**Automatic-attacks (2):**_<br>  Maia --- 1 strike with 13 prowess <br>Maia --- 1 strike with 13 prowess <br>_**Special:**_ If the Wizard card _Radagast_ is in play, the automatic-attacks are removed. 
+> > ***Nearest Darkhaven:*** Dol Guldur  <br>_**Playable:**_ Information, Items (minor) <br>_**Automatic-attacks (2):**_<br>  Maia --- 1 strike with 13 prowess; <br>Maia --- 1 strike with 13 prowess. <br>_**Special:**_ If the Wizard card _Radagast_ is in play, the automatic-attacks are removed. 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -37696,7 +37696,7 @@ permalink: /cards/all/
 > Rhudaur
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Information, Items (minor, major, greater, gold ring) <br>_**Automatic-attacks (2):**_<br>  Elves --- 4 strikes with 8 prowess <br>Dunedain --- 3 strikes with 10 prowess <br>_**Special:**_ Any company moving to this site has its hazard limit increased by 2. A minion company may not attack another company at this site. A Ringwraith may not move to this site. 
+> > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Information, Items (minor, major, greater, gold ring) <br>_**Automatic-attacks (2):**_<br>  Elves --- 4 strikes with 8 prowess; <br>Dunedain --- 3 strikes with 10 prowess <br>_**Special:**_ Any company moving to this site has its hazard limit increased by 2. A minion company may not attack another company at this site. A Ringwraith may not move to this site. 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>
@@ -37713,7 +37713,7 @@ permalink: /cards/all/
 > Under-deeps
 >
 > {: .minion-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Glittering Caves (0), The Pukel-deeps (9), The Under-gates (6) <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>  Undead (1st attack) --- 3 strikes with 9 prowess  <br>(2nd attack) --- Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Any Undead creature of Pukel-creature may be played as this site. 
+> > _**Adjacent Sites:**_ Glittering Caves (0), The Pukel-deeps (9), The Under-gates (6) <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>  Undead (1st attack) --- 3 strikes with 9 prowess;  <br>(2nd attack) --- Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Any Undead creature of Pukel-creature may be played as this site. 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>
@@ -37750,7 +37750,7 @@ permalink: /cards/all/
 > Under-deeps
 >
 > {: .minion-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Dunharrow (0), The Gem-deeps (9), The Sulfur-deeps (9) <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks (2):**_<br> Pukel-men (1st attack) --- 2 strikes with 11 prowess <br>(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr>. <br>_**Special:**_ Any Undead creature or Pukel-creature may also be keyed to this site. 
+> > _**Adjacent Sites:**_ Dunharrow (0), The Gem-deeps (9), The Sulfur-deeps (9) <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks (2):**_<br> Pukel-creature (1st attack) --- 2 strikes with 11 prowess; <br>(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr>. <br>_**Special:**_ Any Undead creature or Pukel-creature may also be keyed to this site. 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>
@@ -37827,7 +37827,7 @@ permalink: /cards/all/
 > Under-deeps
 >
 > {: .minion-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Moria (0), The Under-grottos (7), The Gem-deeps (6), The Sulfur-deeps (4), The Under-leas (5) <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>  Balrog (1st attack) --- 2 strikes with 16 prowess  <br>(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> <br>_**Special:**_ Non-Nazgul creatures played at this site attack normally, not as detainment. If a manifestation of _Balrog of Moria_ is in play or defeated, the first automatic attack is canceled. 
+> > _**Adjacent Sites:**_ Moria (0), The Under-grottos (7), The Gem-deeps (6), The Sulfur-deeps (4), The Under-leas (5) <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>  Balrog (1st attack) --- 2 strikes with 16 prowess;  <br>(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> <br>_**Special:**_ Non-Nazgul creatures played at this site attack normally, not as detainment. If a manifestation of _Balrog of Moria_ is in play or defeated, the first automatic attack is canceled. 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -37844,7 +37844,7 @@ permalink: /cards/all/
 > Under-deeps
 >
 > {: .minion-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Goblin-gate (0), The Under-leas (7), The Under-gates (7) <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>  Orcs (1st attack) --- 4 strikes with 7 prowess  <br>(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ When any gold ring is tested in a company at this site, the result of the roll is modified by +1. 
+> > _**Adjacent Sites:**_ Goblin-gate (0), The Under-leas (7), The Under-gates (7) <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>  Orcs (1st attack) --- 4 strikes with 7 prowess;  <br>(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ When any gold ring is tested in a company at this site, the result of the roll is modified by +1. 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>
@@ -37861,7 +37861,7 @@ permalink: /cards/all/
 > Under-deeps
 >
 > {: .minion-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Mount Gundabad (0), The Iron-deeps (5), The Under-grottos (7), The Under-gates (5), The Under-vaults (6) <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>  Orcs (1st attack) --- 5 strikes with 7 prowess (detainment against overt company) <br>(2nd attack) --- Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> <br>_**Special:**_ Non-Nazgul creatures played at this site attack normally, not as detainment. 
+> > _**Adjacent Sites:**_ Mount Gundabad (0), The Iron-deeps (5), The Under-grottos (7), The Under-gates (5), The Under-vaults (6) <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br>  Orcs (1st attack) --- 5 strikes with 7 prowess (detainment against overt company); <br>(2nd attack) --- Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> <br>_**Special:**_ Non-Nazgul creatures played at this site attack normally, not as detainment. 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>
@@ -37921,7 +37921,7 @@ permalink: /cards/all/
 > > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Wolves --- 2 strikes with 6 prowess  
 > > 
 > > {: .fs-3 } 
-> > _“‘...in the first days of the Northern Kingdom, they built a great watch-tower on Weathertop, Amon Sul they called it."_ ***---&#65279;LotRII*** 
+> > _“‘...in the first days of the North Kingdom, they built a great watch-tower on Weathertop, Amon Sul they called it."_ ***---&#65279;LotRII*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
@@ -37941,7 +37941,7 @@ permalink: /cards/all/
 > Fangorn
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur  <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br> Awakened Plant --- 2 strikes with 10 prowess <br>Awakened Plant --- 2 strikes with 10 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur  <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br> Awakened Plant --- 2 strikes with 10 prowess, <br>Awakened Plant --- 2 strikes with 10 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“A little steam escaped from the springs above...tinkling down the sheer face of the wall, pouring in sheer drops, link a fine curtain...”_ ***---&#65279;LotRIII*** 
@@ -48192,7 +48192,7 @@ permalink: /cards/all/
 > > _**Unique.**_ +2 direct influence against any faction playable at Variag Camp. 
 > > 
 > > {: .fs-3 } 
-> > _“Many of the Wainriders...passed south of Mordor and made alliances with men of Khand and of Near Harad...”_ ***---&#65279;LotR***  
+> > _“Many of the Wainriders...passed south of Mordor and made alliance with men of Khand and of Near Harad...”_ ***---&#65279;LotR***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Variag Camp 
@@ -48443,7 +48443,7 @@ permalink: /cards/all/
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Dwarven Ring._ ***Playable only with a Gold Ring and after a test indicates a Dwarven Ring.*** Values in parentheses and brackets apply to a Dwarf bearer. Tap a Dwarf bearer to search your play deck and/or discard pile for any one or two minor items; place these items in your hand and reshuffle your play deck. Bearer then makes a corruption check modified by +2. 
+> > _**Unique.**_ _Dwarven Ring._ ***Playable only with a Gold Ring and after a test indicates a Dwarven Ring.*** Values in parentheses apply to a Dwarf bearer. Tap a Dwarf bearer to search your play deck and/or discard pile for any one or two minor items; place these items in your hand and reshuffle your play deck. Bearer then makes a corruption check modified by +2. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +2(4)/+1 】</div>
@@ -48463,7 +48463,7 @@ permalink: /cards/all/
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ _Dwarven Ring._ ***Playable only with a Gold Ring and after a test indicates a Dwarven Ring.*** Values in parentheses and brackets apply to a Dwarf bearer. Tap a Dwarf bearer to search your play deck and/or discard pile for any one or two minor items; place these items in your hand and reshuffle your play deck. Bearer then makes a corruption check modified by +2. 
+> > _**Unique.**_ _Dwarven Ring._ ***Playable only with a Gold Ring and after a test indicates a Dwarven Ring.*** Values in parentheses apply to a Dwarf bearer. Tap a Dwarf bearer to search your play deck and/or discard pile for any one or two minor items; place these items in your hand and reshuffle your play deck. Bearer then makes a corruption check modified by +2. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +2(4)/+1 】</div>
@@ -48497,7 +48497,7 @@ permalink: /cards/all/
 > Minor Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Cannot be included with a starting company. Discard: to untap a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> or to make Information playable at any Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr>. Cannot be duplicated in a given party. 
+> > Cannot be included with a starting company. Discard: to untap a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> or to make Information playable at any Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr>. Cannot be duplicated in a given company. 
 > > 
 > > {: .fs-3 } 
 > > _“‘And yet there lie in his hoards many records that few now can read...for their scripts and tongues have become dark to later men.’”_ ***---&#65279;LotRII*** 
@@ -48517,7 +48517,7 @@ permalink: /cards/all/
 > Minor Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Cannot be included with a starting company. Discard: to untap a Free-hold <nobr>[<img src="/assets/images/free-hold.svg">]</nobr> or to make Information playable at any Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr>. Cannot be duplicated in a given party. 
+> > Cannot be included with a starting company. Discard: to untap a Free-hold <nobr>[<img src="/assets/images/free-hold.svg">]</nobr> or Border-hold <nobr>[<img src="/assets/images/border-hold.svg">]</nobr> **or** to make Information playable at any Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr>. Cannot be duplicated in a given company. 
 > > 
 > > {: .fs-3 } 
 > > _“‘I must be the only one in the Shire, besides you and Frodo, that has ever seen the old fellow's secret book.’”_ ***---&#65279;LotRI*** 
@@ -48744,7 +48744,7 @@ permalink: /cards/all/
 > > All Spider and Animal attacks receive +2 prowess. Discard if a Spider or Animal attack is defeated. Cannot be duplicated.   
 > > 
 > > {: .fs-3 } 
-> > _“...hairy legs waving, nippers and spinners snapping, eyes, popping, full of froth and rage."_ ***---&#65279;Hob*** 
+> > _“...hairy legs waving, nippers and spinners snapping, eyes popping, full of froth and rage."_ ***---&#65279;Hob*** 
 >
 
 ---

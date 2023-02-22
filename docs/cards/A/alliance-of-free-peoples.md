@@ -22,8 +22,8 @@ permalink: /cards/alliance-of-free-peoples/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > If at least one hero Dwarf faction, one hero Elf faction, and one hero Man faction is in play, all hero Dwarf factions, hero Elf factions, and hero Man factions give an additional marshalling point. Discard when any hero Dwarf faction, hero Elf faction, of hero Man faction is discarded from play. Cannot be duplicated. 
+> > If at least one hero Dwarf faction, one hero Elf faction, and one hero Man faction is in play, all hero Dwarf factions, hero Elf factions, and hero Man factions give an additional marshalling point. Discard when any hero Dwarf faction, hero Elf faction, or hero Man faction is discarded from play. Cannot be duplicated. 
 > > 
 > > {: .fs-3 } 
-> > _“‘I beheld the last combat on the slopes of Orodruin, where Gil-galad died, and Elendil fell, and Narsil broke beneath him; but Sauron himself was overthrown...’”_ ***---&#65279;LotRII*** 
+> > _“‘I beheld the last combat on the slopes of orodruin, where Gil-galad died, and Elendil fell, and Narsil broke beneath him; but Sauron himself was overthrown...’”_ ***---&#65279;LotRII*** 
 > 

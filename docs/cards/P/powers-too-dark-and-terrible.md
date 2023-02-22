@@ -22,5 +22,5 @@ permalink: /cards/powers-too-dark-and-terrible/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > ***Playable if you are Sauron.*** Once each of your turns, you may choose any character you control bearing a min ring or special item ring to use sorcery, spirit-magic, or shadow-magic for the purposes of playing one magic card. Additionally, the corruption checks for all hero spells are modified by -1. Cannot be duplicated. Discard when any play deck is exhausted. 
+> > ***Playable if you are Sauron.*** Once each of your turns, you may choose any character you control bearing a mind ring or special item ring to use sorcery, spirit-magic, or shadow-magic for the purposes of playing one magic card. Additionally, the corruption checks for all hero spells are modified by -1. Cannot be duplicated. Discard when any play deck is exhausted. 
 > 

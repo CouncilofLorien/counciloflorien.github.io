@@ -22,5 +22,5 @@ permalink: /cards/no-strangers-at-this-time/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable during the site phase on a Free-hold*** <nobr>[<img src="/assets/images/free-hold.svg">]</nobr> ***or Border-hold*** <nobr>[<img src="/assets/images/border-hold.svg">]</nobr> ***if you have played a faction there.*** This site is never discarded and never untaps for you. All detainment attacks at all versions of this site against minion companies instead attack normally. Against minion companies, each version of this site has an additional automatic-attack: an exact copy including all modifications of the attack listed on its card. Cannot be duplicated on a given site. 
+> > ***Playable during the site phase on a Free-hold*** <nobr>[<img src="/assets/images/free-hold.svg">]</nobr> ***or Border-hold*** <nobr>[<img src="/assets/images/border-hold.svg">]</nobr> ***if you have played a faction there.*** This site is never discarded and never untaps for you. All detainment attacks at all versions of this site against minion companies instead attack normally. Against minion companies, each version of this site has an additional automatic-attack: an exact copy including all modifications of the first automatic-attack listed on its card. Cannot be duplicated on a given site. 
 > 

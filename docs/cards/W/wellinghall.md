@@ -71,7 +71,7 @@ permalink: /cards/wellinghall/
 > Fangorn
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur  <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br> Awakened Plant --- 2 strikes with 10 prowess <br>Awakened Plant --- 2 strikes with 10 prowess  
+> > ***Nearest Darkhaven:*** Dol Guldur  <br>_**Playable:**_ Items (minor, major) <br>_**Automatic-attacks (2):**_<br> Awakened Plant --- 2 strikes with 10 prowess, <br>Awakened Plant --- 2 strikes with 10 prowess  
 > > 
 > > {: .fs-3 } 
 > > _“A little steam escaped from the springs above...tinkling down the sheer face of the wall, pouring in sheer drops, link a fine curtain...”_ ***---&#65279;LotRIII*** 

@@ -74,7 +74,7 @@ permalink: /cards/weathertop/
 > > ***Nearest Darkhaven:*** Carn Dum <br>_**Playable:**_ Information <br>_**Automatic-attacks:**_<br> Wolves --- 2 strikes with 6 prowess  
 > > 
 > > {: .fs-3 } 
-> > _“‘...in the first days of the Northern Kingdom, they built a great watch-tower on Weathertop, Amon Sul they called it."_ ***---&#65279;LotRII*** 
+> > _“‘...in the first days of the North Kingdom, they built a great watch-tower on Weathertop, Amon Sul they called it."_ ***---&#65279;LotRII*** 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;1&ensp;</span><span class="minion-opp-draw">&ensp;1&ensp;</span></div>
