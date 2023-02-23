@@ -335,7 +335,7 @@ One company can split into two or more companies only at a Darkhaven (use two Da
 {: .note } 
 > **Note:** The number of characters you have in play limits the number of actions you may take during a given turn. You use your other characters’ direct influence on a character to bring that character into play and to keep him in play. A character in play can move and take actions (e.g., defending against attacks, influencing, etc.). Items, allies, and other cards representing things a character acquires and controls are placed under his card.
 > 
-> **Note:** Sometimes two or more companies combine and the resulting company has two or more of the came cards that say: "cannot be duplicated on a given company." When this happens, immediately discard all but one of those cards (your choice). 
+> **Note:** Sometimes two or more companies combine and the resulting company has two or more of the same cards that say: "cannot be duplicated on a given company." When this happens, immediately discard all but one of those cards (your choice). 
 >
 > **Clarification:** During your organization phase, one Darkhaven card may be used to represent the location of two or more companies, so long as the distinction between companies is clearly presented spatially. However, we suggest the use of multiple Darkhaven cards for clarity.
 > 
