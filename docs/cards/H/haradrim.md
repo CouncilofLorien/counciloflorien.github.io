@@ -56,7 +56,7 @@ permalink: /cards/haradrim/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Southron Oasis if the influence check is greater than 9. <br>_Standard Modifications:_ Southrons (+2), Variags of Khand (-2). 
+> > _**Unique.**_ ***Playable at Southron Oasis*** <br>&ensp;if the influence check is greater than 9. <br>_Standard Modifications:_ Southrons (+2), Variags of Khand (-2). 
 > > 
 > > {: .fs-3 } 
 > > _“...a great but cruel race that dwelt in the wide, dry lands south of Mordor and the Ethir Anduin."_ ***---&#65279;Kuduk&nbsp;Lore*** 

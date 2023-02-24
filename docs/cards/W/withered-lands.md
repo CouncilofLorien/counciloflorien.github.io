@@ -39,7 +39,7 @@ permalink: /cards/withered-lands/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ Playable only if Doors of Night is in play. Treat one target Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> as two Wildernesses <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> or one Shadow-land <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> as two Wildernesses <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> or one Border-land <nobr>[<img src="/assets/images/border-land.svg">]</nobr> as two Wildernesses <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> until the end of the turn. 
+> > _Environment._ ***Playable only if Doors of Night is in play.*** Treat one Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> as two Wildernesses <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> **or** one Shadow-land <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> as two Wildernesses <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> **or** one Border-land <nobr>[<img src="/assets/images/border-land.svg">]</nobr> as two Wildernesses <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> until the end of the turn. 
 > > 
 > > {: .fs-3 } 
 > > _“...there were Dragons in the wastes beyond...”_ ***---&#65279;LotR*** 

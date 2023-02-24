@@ -36,5 +36,5 @@ permalink: /cards/to-satisfy-the-questioner/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable during the site phase on an untapped character at a Free-hold <nobr>[<img src="/assets/images/free-hold.svg">]</nobr>. Tap the character and site. No marshalling points are received and the character may not untap until this card is stored at a Darkhaven <nobr>[<img src="/assets/images/dark-haven.svg">]</nobr> during the organization phase. 
+> > ***Playable during the site phase on an untapped character at a Free-hold*** <nobr>[<img src="/assets/images/free-hold.svg">]</nobr>. Tap the character and site. No marshalling points are received and the character may not untap until this card is stored at a Darkhaven <nobr>[<img src="/assets/images/dark-haven.svg">]</nobr> during the organization phase. 
 > 

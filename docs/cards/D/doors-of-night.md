@@ -73,7 +73,7 @@ permalink: /cards/doors-of-night/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ When Doors of Night is played, all resource environment cards in play are immediately discarded, and all resource environment effects are canceled. <br>&ensp;Cannot be duplicated. 
+> > _Environment._ When _Doors of Night_ is played, all resource environment cards in play are immediately discarded, and all resource environment effects are cancelled. <br>&ensp;Cannot be duplicated. 
 > > 
 > > {: .fs-3 } 
 > > _“One by one white stars sprang forth as the sky faded."_ ***---&#65279;LotRII*** 
@@ -90,7 +90,7 @@ permalink: /cards/doors-of-night/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ When Doors of Night is played, all resource environment cards in play are immediately discarded, and all resource environment effects are canceled. <br>&ensp;Cannot be duplicated. 
+> > _Environment._ When _Doors of Night_ is played, all resource environment cards in play are immediately discarded, and all resource environment effects are cancelled. <br>&ensp;Cannot be duplicated. 
 > > 
 > > {: .fs-3 } 
 > > _“One by one white stars sprang forth as the sky faded."_ ***---&#65279;LotRII*** 

@@ -111,7 +111,7 @@ permalink: /cards/bandit-lair/
 > > <div class="card-name">Bandit Lair</div>
 >
 > {: .minion-site-text .black-text .p-1 .pl-2 }
-> > ![](/assets/images/dark-hold.svg)&ensp;![](/assets/images/shadow-hold.svg)
+> > ![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/shadow-land.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Brown Lands

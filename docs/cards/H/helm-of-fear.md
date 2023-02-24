@@ -39,7 +39,7 @@ permalink: /cards/helm-of-fear/
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at a tapped or untapped Barad-dur and only on your Ringwraith (does not tap the site). This item affects a Ringwraith. Tap this item to cancel an attack against the Ringwraith's company. May not cancel combat with a hero company. All body checks against the bearer are modified by -1. 
+> > _**Unique.**_ ***Playable at a tapped or untapped Barad-dur and only on your Ringwraith*** _(does not tap the site)._ This item affects a Ringwraith. Tap this item to cancel an attack against the Ringwraith's company. May not cancel combat with a hero company. All body checks against the bearer are modified by -1. 
 > > 
 > > {: .fs-3 } 
 > > _“...a helm like a crown that flickered with a perilous light."_ ***---&#65279;LotRIV*** 

@@ -73,7 +73,7 @@ permalink: /cards/lure-of-the-senses/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Corruption._ Playable on a non-Ringwraith character. Target character receives 2 corruption points and makes a corruption check at the end of his untap phase if he is at a Darkhaven <nobr>[<img src="/assets/images/dark-haven.svg">]</nobr>. <br>&ensp;During his organization phase, the character may tap to attempt to remove this card by making a roll (drawing a #)---if the result is greater than 6, discard this card. Cannot be duplicated on a given character. 
+> > _Corruption._ ***Playable on a non-Ringwraith character.*** Target character receives 2 corruption points and makes a corruption check at the end of his untap phase if he is at a Haven/Darkhaven <nobr>[<img src="/assets/images/free-haven.svg">]</nobr>. <br>&ensp;During his organization phase, the character may tap to attempt to remove this card. Opponent makes a roll (draws a #)---if the result is greater than 6, discard this card. Cannot be duplicated on a given character. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

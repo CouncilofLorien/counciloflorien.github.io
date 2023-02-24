@@ -39,7 +39,7 @@ permalink: /cards/ready-to-his-will/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable on an Orc, Troll, Giant, Slayer, or Man hazard creature with one strike for each of its attacks. All attacks of the creature are canceled. The creature becomes an ally under the control of any character in the company that now taps. It has a mind of 1, 1 ally marshalling point, prowess equal to its normal prowess minus 7, and a body equal to 8. Place this card with the creature.  
+> > ***Playable on an Orc, Troll, Giant, Slayer, or Man hazard creature with one strike for each of its attacks.*** All attacks of the creature are canceled. The creature becomes an ally under the control of any character in the company that now taps. It has a mind of 1, 1 ally marshalling point, prowess equal to its normal prowess minus 7, and a body equal to 8. Place this card with the creature.  
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 -7/8 】</div>

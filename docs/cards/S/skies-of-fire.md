@@ -39,7 +39,7 @@ permalink: /cards/skies-of-fire/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Environment._ When Skies of Fire is played, all hazard environment cards in play are immediately discarded, and all hazard environment effects are canceled. This card acts as Gates of Morning for the purposes of interpreting hazards. Cannot be duplicated. 
+> > _Environment._ When _Skies of Fire_ is played, all hazard environment cards in play are immediately discarded, and all hazard environment effects are canceled. This card acts as _Gates of Morning_ for the purposes of interpreting hazards. Cannot be duplicated. 
 > > 
 > > {: .fs-3 } 
 > > _“There was a flare of livid lightnings: forks of blue flame springing up from the tower...into the sullen clouds."_ ***---&#65279;LotRII*** 
@@ -56,7 +56,7 @@ permalink: /cards/skies-of-fire/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Environment._ When Skies of Fire is played, all hazard environment cards in play are immediately discarded, and all hazard environment effects are canceled. This card acts as Gates of Morning for the purposes of interpreting hazards. Cannot be duplicated. 
+> > _Environment._ When _Skies of Fire_ is played, all hazard environment cards in play are immediately discarded, and all hazard environment effects are canceled. This card acts as _Gates of Morning_ for the purposes of interpreting hazards. Cannot be duplicated. 
 > > 
 > > {: .fs-3 } 
 > > _“There was a flare of livid lightnings: forks of blue flame springing up from the tower...into the sullen clouds."_ ***---&#65279;LotRII*** 

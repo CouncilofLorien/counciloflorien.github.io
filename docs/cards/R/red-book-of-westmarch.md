@@ -88,7 +88,7 @@ permalink: /cards/red-book-of-westmarch/
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Bag End. May be stored at Barad-dur for 5 marshalling points. 
+> > _**Unique.**_ ***Playable at Bag End.*** May be stored at Barad-dur for 5 marshalling points. 
 > > 
 > > {: .fs-3 } 
 > > _“There was a big book with plain red leather covers; its tall pages were now almost filled."_ ***---&#65279;LotRVI*** 

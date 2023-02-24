@@ -36,5 +36,5 @@ permalink: /cards/cruel-caradhras/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a company using region movement to move through one of the following regions (and not stopping at a site therein): High Pass, Redhorn Gate, Angmar, Gundabad, Grey Mountain Narrows, or Imlad Morgul. Each character in target company must face one strike (not an attack) of 8 prowess which cannot be canceled. Any resulting body check is modified by +1. 
+> > ***Playable on a company using region movement to move through (not stopping at a site therein) or leave one of the following regions:*** High Pass, Redhorn Gate, Angmar, Gundabad, Grey Mountain Narrows, or Imlad Morgul. Each character in target company must face one strike (not an attack) of 8 prowess which cannot be canceled. Any resulting body check is modified by +1. 
 >

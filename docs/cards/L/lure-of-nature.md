@@ -73,7 +73,7 @@ permalink: /cards/lure-of-nature/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Corruption._ Does not affect Hobbits and Dwarves. A character receives 2 corruption points. Target character makes one corruption check (after all other hazards have been played) for each Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> in his company's site path at that point in the movement/hazard phase. Cannot be duplicated on a given character. During his organization phase, a character with this card may tap to attempt to remove it. Make a roll (or draw a #): if this result is greater than 4, discard this card. 
+> > _Corruption._ ***Playable on a non-Hobbit, non-Dwarf, non-Orc, non-Ringwraith character.*** Target character receives 2 corruption points and makes a corruption check at the end of his movement/hazard phase for each Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> in his company's site path. During his organization phase, the character may tap to attempt to remove this card. Opponent makes a roll (draws a #)---if the result is greater than 4, discard this card. Cannot be duplicated on a given character. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

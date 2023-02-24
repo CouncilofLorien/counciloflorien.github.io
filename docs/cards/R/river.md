@@ -93,7 +93,7 @@ permalink: /cards/river/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a site. If a company that has moved to this site this turn does not tap a ranger, it must do nothing during its site phase. 
+> > ***Playable on a site.*** A company moving to this site this turn must do nothing during its site phase. A ranger in such a company may tap to cancel this effect, even at the start of his company's site phase. 
 > > 
 > > {: .fs-3 } 
 > > _“I don't know what river it was, a rushing red one, swollen with the ruins of the last few days, that came down from the hills and mountains...”_ ***---&#65279;Hob*** 

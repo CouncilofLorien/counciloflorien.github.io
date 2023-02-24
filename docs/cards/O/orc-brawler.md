@@ -61,4 +61,4 @@ permalink: /cards/orc-brawler/
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 3/8 】</div>
-> > <div class="card-corruption-white">〔-1〕</div>
+> > <div class="card-corruption-white">〔 -1 〕</div>

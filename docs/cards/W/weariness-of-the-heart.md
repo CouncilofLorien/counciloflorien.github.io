@@ -56,7 +56,7 @@ permalink: /cards/weariness-of-the-heart/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > ***Playable on a character.*** The prowess of a target character is modified by -1 until the end of the turn. This use cannot be duplicated on a given character. <br>&ensp;Alternatively, target character makes a corruption check. 
+> > ***Playable on a character.*** The prowess of target character is modified by -1 until the end of the turn. This use cannot be duplicated on a given character. <br>&ensp;Alternatively, target character makes a corruption check. 
 > > 
 > > {: .fs-3 } 
 > > _“He wandered in loneliness, weeping a little for the hardness of the world...”_ ***---&#65279;LotRI*** 
@@ -73,7 +73,7 @@ permalink: /cards/weariness-of-the-heart/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > ***Playable on a character.*** The prowess of a target character is modified by -1 until the end of the turn. This use cannot be duplicated on a given character. <br>&ensp;Alternatively, target character makes a corruption check. 
+> > ***Playable on a character.*** The prowess of target character is modified by -1 until the end of the turn. This use cannot be duplicated on a given character. <br>&ensp;Alternatively, target character makes a corruption check. 
 > > 
 > > {: .fs-3 } 
 > > _“He wandered in loneliness, weeping a little for the hardness of the world...”_ ***---&#65279;LotRI*** 

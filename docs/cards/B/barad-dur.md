@@ -65,7 +65,7 @@ permalink: /cards/barad-dur/
 > Gorgoroth
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Special:**_ Treat this site as a Darkhaven during the Untap Phase. Any gold ring at this site is automatically tested during the site phase (the site need not be entered). All ring tests at this site are modified by -3. 
+> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Special:**_ Treat this site as a Darkhaven during the Untap Phase. Any gold ring item at this site is automatically tested during the site phase (the site need not be entered). All ring tests at this site are modified by -3. 
 > > 
 > > {: .fs-3 } 
 > > _“...rising black, blacker and darker than the vast shades amid which it stood, the cruel pinnacle and iron crown of the topmost tower of Barad-dur."_ ***---&#65279;LotRVI*** 
@@ -88,7 +88,7 @@ permalink: /cards/barad-dur/
 > Gorgoroth
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Special:**_ Treat this site as a Darkhaven during the Untap Phase. Any gold ring at this site is automatically tested during the site phase (the site need not be entered). All ring tests at this site are modified by -3. 
+> > ***Nearest Darkhaven:*** Minas Morgul <br>_**Special:**_ Treat this site as a Darkhaven during the Untap Phase. Any gold ring item at this site is automatically tested during the site phase (the site need not be entered). All ring tests at this site are modified by -3. 
 > > 
 > > {: .fs-3 } 
 > > _“...rising black, blacker and darker than the vast shades amid which it stood, the cruel pinnacle and iron crown of the topmost tower of Barad-dur."_ ***---&#65279;LotRVI*** 

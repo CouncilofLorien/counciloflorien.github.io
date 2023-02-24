@@ -61,4 +61,4 @@ permalink: /cards/old-troll/
 >
 > {: .minion-character-frame .p-1 .pr-2 }
 > > <div class="card-shield">【 5/9 】</div>
-> > <div class="card-corruption-white">〔-1〕</div>
+> > <div class="card-corruption-white">〔 -1 〕</div>

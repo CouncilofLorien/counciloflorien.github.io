@@ -73,7 +73,7 @@ permalink: /cards/muster-disperses/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Affects a faction already in play. The faction's player makes a roll (or draws a #), the faction is discarded if the result plus his unused general influence is less than 11. 
+> > ***Playable on a faction.*** The faction's player makes a roll (draws a #), the faction is discarded if the result plus his unused general influence is less than 11. 
 > > 
 > > {: .fs-3 } 
 > > _“When the days of rejoicing were over at last, the Companions thought of returning to their own homes."_ ***---&#65279;LotRVI*** 

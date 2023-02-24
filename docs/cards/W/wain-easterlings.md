@@ -73,7 +73,7 @@ permalink: /cards/wain-easterlings/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Easterling Camp if the influence check is greater than 9. <br>_Standard Modifications:_ Easterlings (+2), Nuriags (-2). Once in play, the number required to influence this faction is 0. 
+> > _**Unique.**_ ***Playable at Easterling Camp*** <br>&ensp;if the influence check is greater than 9. <br>_Standard Modifications:_ Easterlings (+2), Nuriags (-2). 
 > > 
 > > {: .fs-3 } 
 > > _“...stronger and better armed than any that had appeared before. They journeyed in great wains, and their chieftains fought in chariots."_ ***---&#65279;LotR*** 

@@ -51,7 +51,7 @@ permalink: /cards/odoacer/
 > Ranger Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_ +3 direct influence against the Woodmen faction. 
+> > _**Unique.**_ +3 direct influence against the _Woodmen_ faction. 
 > > 
 > > {: .fs-3 } 
 > > _“...as the Shadow grew deep in Greenwood...many evil things reappeared, signs of the arising of Sauron."_ ***---&#65279;LotR***  

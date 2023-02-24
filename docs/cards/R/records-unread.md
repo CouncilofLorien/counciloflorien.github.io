@@ -42,7 +42,7 @@ permalink: /cards/records-unread/
 > Minor Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Cannot be included with a starting company. Discard: to untap a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> or to make Information playable at any Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr>. Cannot be duplicated in a given company. 
+> > Cannot be included with a starting company. Discard: to untap a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> **or** to make Information playable at any Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr>. Cannot be duplicated in a given company. 
 > > 
 > > {: .fs-3 } 
 > > _“‘And yet there lie in his hoards many records that few now can read...for their scripts and tongues have become dark to later men.’”_ ***---&#65279;LotRII*** 

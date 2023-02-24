@@ -39,7 +39,7 @@ permalink: /cards/not-slay-needlessly/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable on an attack by Elves, Dwarves, Dunedain, or Men. Against a covert company, the attack is canceled. Otherwise, -2 to the attack's prowess. Cannot be duplicated on a given attack.   
+> > ***Playable on an attack by Elves, Dwarves, Dunedain, or Men.*** Against a covert company, the attack is canceled. Otherwise, -2 to the attack's prowess. Cannot be duplicated on a given attack.   
 > > 
 > > {: .fs-3 } 
 > > _“‘You will not have us slay wild beasts for no purpose, and it seemed no more, so I tried no arrow.’”_ ***---&#65279;LotRII*** 

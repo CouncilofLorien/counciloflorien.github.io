@@ -48,7 +48,7 @@ permalink: /cards/war-wolf/
 > Ally
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable at any tapped or untapped Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> with a Wolf automatic-attack or at any tapped or untapped Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> with an Orc automatic-attack.   
+> > ***Playable at any tapped or untapped Ruins & Lairs*** <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> ***with a Wolf automatic-attack or at any tapped or untapped Shadow-hold*** <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> ***with an Orc automatic-attack.***   
 > > 
 > > {: .fs-3 } 
 > > _“...brutal canines, their throats protected by spiked collars, fangs capped with razor sharp steel, and instincts honed in the arts of slaying."_ ***---&#65279;Kuduk&nbsp;Lore*** 

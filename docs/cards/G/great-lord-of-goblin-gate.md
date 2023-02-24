@@ -48,7 +48,7 @@ permalink: /cards/great-lord-of-goblin-gate/
 > Ally
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable at Goblin-gate. _Orc._ Manifestation of The Great Goblin. Tap to give +2 prowess to all Orcs in its company: against one attack or in company versus company combat. 
+> > _Unique._ ***Playable at Goblin-gate.*** _Orc._ _Manifestation of The Great Goblin._ Its controlling character's company is overt. Tap to give +2 prowess to all Orcs in its company: against one attack **or** in company versus company combat. 
 > > 
 > > {: .fs-3 } 
 > > _“He was in such a rage that he jumped off his seat and himself rushed at Thorin with his mouth open."_ ***---&#65279;Hob*** 

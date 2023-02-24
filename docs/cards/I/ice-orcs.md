@@ -36,5 +36,5 @@ permalink: /cards/ice-orcs/
 > Orc Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at any Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> in Forochel or Withered Heath if the influence check is greater than 10. Once in play, the number required to influence this faction is zero. <br>_Standard Modifications:_ Wargs of Forochel (+2). 
+> > _**Unique.**_ ***Playable at any Ruins & Lairs*** <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> ***in Forochel or Withered Heath*** <br>&ensp;if the influence check is greater than 10. Once in play, the number required to influence this faction is zero. <br>_Standard Modifications:_ Wargs of Forochel (+2). 
 > 

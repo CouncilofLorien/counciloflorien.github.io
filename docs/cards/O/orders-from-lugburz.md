@@ -39,7 +39,7 @@ permalink: /cards/orders-from-lugburz/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable on a company. May be played with a starting company in lieu of a minor item. This company may contain a Troll leader in addition to another leader. +1 to all corruption checks by followers of Troll leaders in this company. Discard if Ren is your Ringwraith or when a leader leaves the company. Cannot be duplicated on a given company. 
+> > ***Playable on a company.*** May be played with a starting company in lieu of a minor item. This company may contain a Troll leader in addition to another leader. +1 to all corruption checks by followers of Troll leaders in this company. <br>&ensp;Discard if Ren is your Ringwraith or when a leader leaves the company. Cannot be duplicated on a given company. 
 > > 
 > > {: .fs-3 } 
 > > _“‘A great cave-troll, I think, or more than one.’”_ ***---&#65279;LotRII*** 

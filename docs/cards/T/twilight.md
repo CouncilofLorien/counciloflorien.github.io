@@ -59,7 +59,7 @@ permalink: /cards/twilight/
 > > _Environment._ One environment card (in play or declared earlier in the same chain of effects) is canceled and discarded. _Twilight_ may also be played as a resource, and may be played at any point during any player's turn. 
 > > 
 > > {: .fs-3 } 
-> > _“The sun dipped and vanished, and as if at the shuttering of a lamp, black night fell."_ ***---&#65279;LotRII*** 
+> > _“The Sun dipped and vanished, and as if at the shuttering of a lamp, black night fell."_ ***---&#65279;LotRII*** 
 >
 
 ### _Middle-earth Challenge Decks_
@@ -73,10 +73,10 @@ permalink: /cards/twilight/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ One environment card (in play or declared earlier in the same chain of effects) is cancelled and discarded. _Twilight_ may also be played as a resource, and may be played at any point during any player's turn. 
+> > _Environment._ One environment card (in play or declared earlier in the same chain of effects) is cancelled and discarded. _Twilight_ may also be played as a resource, and may be played at any point during any player's turn. Note _Twilight_ is a hazard otherwise. 
 > > 
 > > {: .fs-3 } 
-> > _“The sun dipped and vanished, and as if at the shuttering of a lamp, black night fell."_ ***---&#65279;LotRII*** 
+> > _“The Sun dipped and vanished, and as if at the shuttering of a lamp, black night fell."_ ***---&#65279;LotRII*** 
 >
 
 ### _Middle-earth: The Balrog Reprint_
@@ -90,8 +90,8 @@ permalink: /cards/twilight/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Environment._ One environment card (in play or declared earlier in the same chain of effects) is cancelled and discarded. _Twilight_ may also be played as a resource, and may be played at any point during any player's turn. 
+> > _Environment._ One environment card (in play or declared earlier in the same chain of effects) is cancelled and discarded. _Twilight_ may also be played as a resource, and may be played at any point during any player's turn. Note _Twilight_ is a hazard otherwise. 
 > > 
 > > {: .fs-3 } 
-> > _“The sun dipped and vanished, and as if at the shuttering of a lamp, black night fell."_ ***---&#65279;LotRII*** 
+> > _“The Sun dipped and vanished, and as if at the shuttering of a lamp, black night fell."_ ***---&#65279;LotRII*** 
 >

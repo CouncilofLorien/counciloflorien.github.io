@@ -36,5 +36,5 @@ permalink: /cards/great-bats/
 > Ally
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable at a tapped or untapped Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr>. May not be attacked. Discard this ally if its controlling character is wounded. Tap this ally to remove the effect of an attack against its controlling character's company that states: "attacker chooses defending characters". Cannot be duplicated on a given company. 
+> > ***Playable at a tapped or untapped Shadow-hold*** <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr>. Its controlling character's company is overt. May not be attacked. Discard this ally if its controlling character is wounded. Tap this ally to remove the effect of an attack against its controlling character's company that states: "attacker chooses defending characters." Cannot be duplicated on a given company. 
 > 

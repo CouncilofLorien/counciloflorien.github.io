@@ -39,7 +39,7 @@ permalink: /cards/scorba-ahunt/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ Any company moving in Forochel, Angmar, and/or Gundabad immediately faces one Dragon attack (considered a hazard creature attack)-4 strikes at 10/7. If Doors of Night is in play, this attack also affects: Numeriador, Arthedain, and Rhudaur. 
+> > _**Unique.**_ Any company moving in Forochel, Angmar, and/or Gundabad immediately faces one Dragon attack (considered a hazard creature attack) --- 4 strikes at 10/7. <br>&ensp;If _Doors of Night_ is in play, this attack also affects: Numeriador, Arthedain, and Rhudaur. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 10/7 】</div>
@@ -56,7 +56,7 @@ permalink: /cards/scorba-ahunt/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ Any company moving in Forochel, Angmar, and/or Gundabad immediately faces one Dragon attack (considered a hazard creature attack)-4 strikes at 10/7. If Doors of Night is in play, this attack also affects: Numeriador, Arthedain, and Rhudaur. 
+> > _**Unique.**_ Any company moving in Forochel, Angmar, and/or Gundabad immediately faces one Dragon attack (considered a hazard creature attack) --- 4 strikes at 10/7. <br>&ensp;If _Doors of Night_ is in play, this attack also affects: Numeriador, Arthedain, and Rhudaur. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 10/7 】</div>

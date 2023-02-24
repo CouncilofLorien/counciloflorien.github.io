@@ -39,7 +39,7 @@ permalink: /cards/exhalation-of-decay/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on an Undead hazard creature in your discard pile. If target Undead can attack, bring it into play as a creature that attacks immediately (not counting against the hazard limit). The attack's prowess is modified by -1. 
+> > ***Playable on an Undead hazard creature in your discard pile.*** If target Undead can attack, bring it into play as a creature that attacks immediately (not counting against the hazard limit). The attack's prowess is modified by -1. 
 > > 
 > > {: .fs-3 } 
 > > _“...wavering and blowing like a noisome exhalation of decay, a corpse-light, a light that illuminated nothing."_ ***---&#65279;LotRIV*** 

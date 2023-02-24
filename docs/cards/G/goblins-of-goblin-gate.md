@@ -39,7 +39,7 @@ permalink: /cards/goblins-of-goblin-gate/
 > Orc Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Goblin-gate if the influence check is greater than 8. Once in play, the number required to influence this faction is 0. <br>_Standard Modifications:_ Grey Mountain Goblins (+2). 
+> > _**Unique.**_ ***Playable at Goblin-gate*** <br>&ensp;if the influence check is greater than 8. Once in play, the number required to influence this faction is zero. <br>_Standard Modifications:_ Grey Mountain Goblins (+2). 
 > > 
 > > {: .fs-3 } 
 > > _“...goblins in full armour with drawn swords sitting just inside the door, watching it with wide eyes...”_ ***---&#65279;Hob*** 
@@ -56,7 +56,7 @@ permalink: /cards/goblins-of-goblin-gate/
 > Orc Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Goblin-gate if the influence check is greater than 8. Once in play, the number required to influence this faction is 0. <br>_Standard Modifications:_ Grey Mountain Goblins (+2). 
+> > _**Unique.**_ ***Playable at Goblin-gate*** <br>&ensp;if the influence check is greater than 8. Once in play, the number required to influence this faction is zero. <br>_Standard Modifications:_ Grey Mountain Goblins (+2). 
 > > 
 > > {: .fs-3 } 
 > > _“...goblins in full armour with drawn swords sitting just inside the door, watching it with wide eyes...”_ ***---&#65279;Hob*** 

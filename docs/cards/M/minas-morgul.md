@@ -88,10 +88,7 @@ permalink: /cards/minas-morgul/
 > Imlad Morgul
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Site Path From Dol Guldur: <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr> <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr> <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr> <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> <br>_**Special:**_ Any Gold Ring stored at this site is automatically tested (modify the roll by -2). Any attack against a minion company at this site is canceled. 
-> > 
-> > {: .fs-3 } 
-> > _“...the topmost course of the tower revolved slowly, first one way and then another, a huge ghostly head leering into the night."_ ***---&#65279;LotRIV*** 
+> > ***Site Path From Dol Guldur:*** <br>&emsp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/shadow-land.svg) <br>_**Special:**_ Any Gold Ring stored at this site is automatically tested (modify the roll by -2). Creatures keyed to this site are detainment. If one of your companies is at this site, all attacks against it are canceled.  
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

@@ -71,7 +71,7 @@ permalink: /cards/moria/
 > Redhorn Gate
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 4 strikes with 7 prowess <br>_**Special:**_ Non-Nazgul creatures played at this site attack normally, not as detainment 
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 4 strikes with 7 prowess <br>_**Special:**_ Non-Nazgul creatures played at this site attack normally, not as detainment.
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>
@@ -114,7 +114,7 @@ permalink: /cards/moria/
 > Redhorn Gate
 >
 > {: .minion-site-text .black-text .p-2 }
-> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 4 strikes with 7 prowess <br>_**Special:**_ Non-Nazgul creatures played at this site attack normally, not as detainment 
+> > ***Nearest Darkhaven:*** Dol Guldur <br>_**Playable:**_ Items (minor, major, greater, gold ring) <br>_**Automatic-attacks:**_<br>&ensp;Orcs --- 4 strikes with 7 prowess <br>_**Special:**_ Non-Nazgul creatures played at this site attack normally, not as detainment.
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>

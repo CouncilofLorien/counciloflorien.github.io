@@ -36,7 +36,7 @@ permalink: /cards/foolish-words/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > ***Playable on a character.*** Any riddling roll, offering attempt, or influence attempt by target character is modified by -4. If placed on-guard, it may be revealed and played when a character in the company declares such an attempt. <br>&ensp;During his organization phase, the character may tap to attempt to remove this card by making a roll (drawing a #)---if this result is greater than 7, discard this card. Cannot be duplicated on a given character. 
+> > ***Playable on a character.*** Any riddling roll, offering attempt, or influence attempt by target character is modified by -4. If placed on-guard, it may be revealed and played when a character in the company declares such an attempt. <br>&ensp;During his organization phase, the character may tap to attempt to remove this card by making a roll (drawing a #)---if the result is greater than 7, discard this card. Cannot be duplicated on a given character. 
 >
 
 ### _Middle-earth Challenge Decks_
@@ -50,7 +50,7 @@ permalink: /cards/foolish-words/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Any riddling roll, offering attempt, or influence attempt by the target character is modified by -4. If placed on-guard, it may be revealed and played when a character in the company declares a riddling, offering, or influence attempt. During the organization phase, a character with this card may tap to attempt to remove it. Make a roll (or draw a #): if this result is greater than 7, discard this card. Cannot be duplicated. 
+> > ***Playable on a character.*** Any riddling roll, offering attempt, or influence attempt by target character is modified by -4. If placed on-guard, it may be revealed and played when a character in the company declares such an attempt. During his organization phase, the character may tap to attempt to remove this card. Opponent makes a roll (draws a #)---if the result is greater than 7, discard this card. Cannot be duplicated on a given character.
 >
 
 ### _Middle-earth: The Balrog Reprint_
@@ -64,5 +64,5 @@ permalink: /cards/foolish-words/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a character. Any riddling roll, offering attempt, or influence attempt by target character is modified by -4. If placed on-guard, it may be revealed and played when a character in the company declares such an attempt. During his organization phase, the character may tap to attempt to remove this card by making a roll (drawing a #)-if this result is greater than 7, discard this card. Cannot be duplicated on a given character. 
+> > ***Playable on a character.*** Any riddling roll, offering attempt, or influence attempt by target character is modified by -4. If placed on-guard, it may be revealed and played when a character in the company declares such an attempt. During his organization phase, the character may tap to attempt to remove this card. Opponent makes a roll (draws a #)---if the result is greater than 7, discard this card. Cannot be duplicated on a given character.
 >

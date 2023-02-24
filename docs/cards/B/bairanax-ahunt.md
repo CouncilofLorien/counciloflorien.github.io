@@ -39,7 +39,7 @@ permalink: /cards/bairanax-ahunt/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ Any company moving in Withered Heath, Gundabad, Anduin Vales, and/or Grey Mountain Narrows immediately faces one Dragon attack (considered a hazard creature attack)-3 strikes at 12/6 (attacker chooses defending characters). If Doors of Night is in play, this attack also affects: Northern Rhovanion, Iron Hills, Southern Rhovanion, and Angmar. 
+> > _**Unique.**_ Any company moving in Withered Heath, Gundabad, Anduin Vales, and/or Grey Mountain Narrows immediately faces one Dragon attack (considered a hazard creature attack) --- 3 strikes at 12/6 (attacker chooses defending characters). <br>&ensp;If _Doors of Night_ is in play, this attack also affects: Northern Rhovanion, Iron Hills, Southern Rhovanion, and Angmar. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 12/6 】</div>
@@ -56,7 +56,7 @@ permalink: /cards/bairanax-ahunt/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ Any company moving in Withered Heath, Gundabad, Anduin Vales, and/or Grey Mountain Narrows immediately faces one Dragon attack (considered a hazard creature attack)-3 strikes at 12/6 (attacker chooses defending characters). If Doors of Night is in play, this attack also affects: Northern Rhovanion, Iron Hills, Southern Rhovanion, and Angmar. 
+> > _**Unique.**_ Any company moving in Withered Heath, Gundabad, Anduin Vales, and/or Grey Mountain Narrows immediately faces one Dragon attack (considered a hazard creature attack) --- 3 strikes at 12/6 (attacker chooses defending characters). <br>&ensp;If _Doors of Night_ is in play, this attack also affects: Northern Rhovanion, Iron Hills, Southern Rhovanion, and Angmar. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 12/6 】</div>

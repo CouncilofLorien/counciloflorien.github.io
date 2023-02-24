@@ -36,5 +36,5 @@ permalink: /cards/ruse/
 > Short-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _Diplomat only._ _Scout only._ Playable on an untapped diplomat in a covert company facing an attack. Tap the diplomat. The attack is canceled. Alternatively, playable on a scout facing an attack. No strikes of the attack may be assigned to the scout. 
+> > _Diplomat only._ _Scout only._ ***Playable on an untapped diplomat in a covert company facing an attack.*** Tap the diplomat. The attack is canceled. <br>&ensp;Alternatively, ***playable on a scout facing an attack.*** No strikes of the attack may be assigned to the scout. 
 > 

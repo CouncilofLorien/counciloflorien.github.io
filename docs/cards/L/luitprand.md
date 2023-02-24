@@ -51,7 +51,10 @@ permalink: /cards/luitprand/
 > Scout Man
 >
 > {: .minion-character-text .black-text .p-2 }
-> > _**Unique.**_   "The men of the lake-town Esgaroth were mostly indoors, for the breeze was from the black East and chill, but a few were walking on the quays, and watching, as they were fond of doing, the stars...”_ ***---&#65279;Hob***  
+> > _**Unique.**_   
+> > 
+> > {: .fs-3 } 
+> > _"The men of the lake-town Esgaroth were mostly indoors, for the breeze was from the black East and chill, but a few were walking on the quays, and watching, as they were fond of doing, the stars...”_ ***---&#65279;Hob***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Lake-town 

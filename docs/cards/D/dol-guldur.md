@@ -85,7 +85,7 @@ permalink: /cards/dol-guldur/
 > Southern Mirkwood
 >
 > {: .minion-site-text .black-text .p-2 }
-> > Site Path From Minas Morgul: <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr> <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr> <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr> Site Path From Carn Dum: <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr> <nobr>[<img src="/assets/images/border-land.svg">]</nobr> <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr> <br>_**Special:**_ Any Gold Ring stored at this site is automatically tested (modify the roll by -2). Any attack against a minion company at this site is canceled. 
+> > ***Site Path From Minas Morgul:*** <br>&emsp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg) <br>***Site Path From Carn Dum:*** ![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/dark-domain.svg) <br>_**Special:**_ Any Gold Ring stored at this site is automatically tested (modify the roll by -2). Creatures keyed to this site are detainment. If one of your companies is at this site, all attacks against it are canceled. 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;2&ensp;</span></div>

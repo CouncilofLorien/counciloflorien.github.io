@@ -39,7 +39,7 @@ permalink: /cards/asdriags/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Nurniag Camp if the influence check is greater than 10. <br>_Standard Modifications:_ Nurniags (+2), Variags of Khand (+2), Balchoth (-2). 
+> > _**Unique.**_ ***Playable at Nurniag Camp*** <br>&ensp;if the influence check is greater than 10. <br>_Standard Modifications:_ Nurniags (+2), Variags of Khand (+2), Balchoth (-2). 
 > > 
 > > {: .fs-3 } 
 > > _“Always one and the same, horse and rider, even though every warrior owns two or more mounts."_ ***---&#65279;Kuduk&nbsp;Lore*** 

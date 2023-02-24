@@ -56,7 +56,7 @@ permalink: /cards/nurniags/
 > Man Faction
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Nurniag Camp if the influence check is greater than 9.  <br>_Standard Modifications:_ Nuriags (+2), Balchoth (-2), Variags of Khand (+2). 
+> > _**Unique.**_ ***Playable at Nurniag Camp*** <br>&ensp;if the influence check is greater than 9.  <br>_Standard Modifications:_ Nuriags (+2), Balchoth (-2), Variags of Khand (+2). 
 > > 
 > > {: .fs-3 } 
 > > _“...strong and war-hardened and asked for no quarter."_ ***---&#65279;LotRV***  

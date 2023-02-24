@@ -93,7 +93,7 @@ permalink: /cards/minions-stir/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > The number of strikes and prowess of each Orc and Troll attack are increased by one (by two for Orc attacks if _Doors of Night_ is in play). <br>&ensp;Cannot be duplicated. 
+> > The number of strikes and prowess of each Orc and Troll attack are increased by one (by two for Orc attacks if _Doors of Night_ is in play). Cannot be duplicated. 
 > > 
 > > {: .fs-3 } 
 > > _“Tom got the branch in his teeth for that, and lost one of the front ones."_ ***---&#65279;Hob*** 
