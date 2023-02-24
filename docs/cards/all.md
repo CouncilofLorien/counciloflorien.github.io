@@ -46939,7 +46939,7 @@ permalink: /cards/all/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Spiders._ Two strikes. If the body check for a non-Wizard, non-Ringwraith character wounded by Giant Spiders equals his body, the character is discarded. May also be played keyed to Heart of Mirkwood, Southern Mirkwood, Western Mirkwood, and Woodland Realm; and may also be played at Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr>, Shadow-holds <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr>, and Dark-holds <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr> in these regions. 
+> > _Spiders._ Two strikes. If the body check for a non-Wizard, non-Ringwraith character wounded by _Giant Spiders_ equals his body, the character is discarded. May also be played keyed to Heart of Mirkwood, Southern Mirkwood, Western Mirkwood, and Woodland Realm; and may also be played at Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr>, Shadow-holds <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr>, and Dark-holds <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr> in these regions. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 10/&ndash; 】</div>
@@ -50994,7 +50994,7 @@ permalink: /cards/all/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Men._ Five strikes. May also be played keyed to Andrast, Anfalas, Belfalas, Cardolan, Enedhwaith, Harondor, Lindon, Lebennin, and Old Pukel-land; and may also be played at Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> and Shadow-holds <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> in these regions. May also be played at any site in Elven Shores, Eriadoran Coast, Andrast Coast, Bay of Belfalas, or Mouths of the Anduin. 
+> > _Men._ Five strikes. May also be played keyed to Andrast, Anfalas, Belfalas, Cardolan, Enedhwaith, Harondor, Lindon, Lebennin, and Old Pukel-land; and may also be played at Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> and Shadow-holds <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> in these regions. <br>&ensp;May also be played at any site in Elven Shores, Eriadoran Coast, Andrast Coast, Bay of Belfalas, or Mouths of the Anduin. 
 > > 
 > > {: .fs-3 } 
 > > _“...with black sails bellying in the wind."_ ***---&#65279;LotRV*** 
@@ -51040,7 +51040,7 @@ permalink: /cards/all/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Animals._ Each character in the company faces one strike. His prowess against such a strike is equal to his mind attribute. Any character that would normally be wounded is only tapped instead---no body checks are made. 
+> > _Animals._ Each non-Wizard/non-Ringwraith character in the company faces one strike. His prowess against such a strike is equal to his mind attribute. Any character that would normally be wounded is only tapped instead---no body checks are made. 
 > > 
 > > {: .fs-3 } 
 > > _“There were thousands of them, and they squeaked all round, neek-breek, breek-neek, unceasingly all the night, until the hobbits were nearly frantic."_ ***---&#65279;LotR*** 
@@ -51159,7 +51159,7 @@ permalink: /cards/all/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Drake._ 3 attacks of 2 strikes each. A character can tap to cancel one of these attacks. Playable at any Under-deeps site. If Doors of Night is in play, also playable at an adjacent site of any Under-deeps site or keyed to a Coastal Sea <nobr>[<img src="/assets/images/coastalsea.svg">]</nobr>.   
+> > _Drake._ 3 attacks of 2 strikes each. A character can tap to cancel one of these attacks. Playable at any Under-deeps site. If _Doors of Night_ is in play, also playable at an adjacent site of any Under-deeps site or keyed to a Coastal Sea <nobr>[<img src="/assets/images/coastalsea.svg">]</nobr>.   
 > > 
 > > {: .fs-3 } 
 > > _“‘Far, far below the deepest delvings of the Dwarves, the world is gnawed by nameless things...’”_ ***---&#65279;LotRIII*** 
@@ -51210,7 +51210,7 @@ permalink: /cards/all/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > A company moving to or from an Under-deeps site must return its site of origin. Additionally, cancels the effects of Secret Passage and Secret Entrance. Cannot be duplicated. 
+> > A company moving to or from an Under-deeps site must return its site of origin. <br>&ensp;Additionally, cancels the effects of _Secret Passage_ and _Secret Entrance._ Cannot be duplicated. 
 > > 
 > > {: .fs-3 } 
 > > _“Many coiling arms seized the doors on either side, and with horrible strength, swung them around. With a shattering echo they slammed, and all light was lost."_ ***---&#65279;LotRII*** 
@@ -51502,7 +51502,7 @@ permalink: /cards/all/
 > > _Weapon._ _Warrior only:_ +3 to prowess to a maximum of 10 (+4 to a maximum of 10 against Elves). 
 > > 
 > > {: .fs-3 } 
-> > _“A great black mace he wielded." LotRI 
+> > _“A great black mace he wielded."_ ***---&#65279;LotRI***
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +3/&ndash; 】</div>
@@ -51707,7 +51707,7 @@ permalink: /cards/all/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Spiders._ Two strikes. If the body check for a non-Wizard, non-Ringwraith character wounded by Giant Spiders equals his body, the character is discarded. May also be played keyed to Heart of Mirkwood, Southern Mirkwood, Western Mirkwood, and Woodland Realm; and may also be played at Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr>, Shadow-holds <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr>, and Dark-holds <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr> in these regions. 
+> > _Spiders._ Two strikes. If the body check for a non-Wizard, non-Ringwraith character wounded by _Giant Spiders_ equals his body, the character is discarded. May also be played keyed to Heart of Mirkwood, Southern Mirkwood, Western Mirkwood, and Woodland Realm; and may also be played at Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr>, Shadow-holds <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr>, and Dark-holds <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr> in these regions. 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 10/&ndash; 】</div>
@@ -51796,7 +51796,7 @@ permalink: /cards/all/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Drake._ Two strikes. Only two Wildernesses <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> in site path are required if Doors of Night is in play. 
+> > _Drake._ Two strikes. Only two Wildernesses <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> in site path are required if _Doors of Night_ is in play. 
 > > 
 > > {: .fs-3 } 
 > > _“Fire leaped from the thatched roofs and wooden beam-ends as he hurtled down and past and round again...”_ ***---&#65279;Hob*** 
@@ -51816,7 +51816,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Corruption._ Playable only on a minion. At the end of each of his turns, target minion makes a corruption check for each item his company bears that he does not bear. For each check, modify the roll by subtracting the corruption of that item. <br>&ensp;During his organization phase, the minion may tap to attempt to remove this card. Opponent makes a roll (draws a #)---if the result is greater than 5, discard this card. Cannot be duplicated on a given minion.  
+> > _Corruption._ ***Playable only on a minion.*** At the end of each of his turns, target minion makes a corruption check for each item his company bears that he does not bear. For each check, modify the roll by subtracting the corruption of that item. <br>&ensp;During his organization phase, the minion may tap to attempt to remove this card. Opponent makes a roll (draws a #)---if the result is greater than 5, discard this card. Cannot be duplicated on a given minion.  
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -51864,7 +51864,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > ***Playable on a site.*** Until the end of the turn, each non-Hobbit, non-Wizard, non-Ringwraith character at the site must make a corruption check each time an item is played at the site. The character playing an item need not make a corruption check. <br>&ensp;When a character makes one of these checks, it is modified by subtracting the corruption points that the item would normally give the character if he controlled it. <br>&ensp;Cannot be duplicated on a given site. 
+> > ***Playable on a site.*** Until the end of the turn, each non-Hobbit, non-Wizard, non-Ringwraith character at the site must make a corruption check each time an item is played at the site. The character playing an item need not make a corruption check. When a character makes one of these checks, it is modified by subtracting the corruption points that the item would normally give the character if he controlled it. <br>&ensp;Cannot be duplicated on a given site. 
 >
 
 ---
@@ -51909,10 +51909,10 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > Playable on a faction. The faction's player makes a roll (draws a #), and discards the faction if the result plus his unused general influence is less than 11. 
+> > ***Playable on a faction.*** The faction's player makes a roll (draws a #), the faction is discarded if the result plus his unused general influence is less than 11. 
 > > 
 > > {: .fs-3 } 
-> > _“But the Men of Rhun and of Harad, Easterling and Southron, saw the ruin of their war...the most part fled eastward as they could; and some cast their weapons down and sued for mercy."_ ***---&#65279;LotRVI*** 
+> > _“When the days of rejoicing were over at last, the Companions thought of returning to their own homes."_ ***---&#65279;LotRVI*** 
 >
 
 ---
@@ -52256,7 +52256,7 @@ permalink: /cards/all/
 > Special Item
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable at any Under-deeps Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> or Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr>. +2 to all rolls required for bearer's company to move to adjacent Under-deeps sites. Warrior only: tap this item to make one strike against its bearer ineffectual (i.e., the strike neither succeeds nor fails). 
+> > ***Playable at any Under-deeps Shadow-hold*** <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> ***or Ruins & Lairs*** <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr>. +2 to all rolls required for bearer's company to move to adjacent Under-deeps sites. _Warrior only:_ tap this item to make one strike against its bearer ineffectual (i.e., the strike neither succeeds nor fails). 
 > > 
 > > {: .fs-3 } 
 > > _“Morgoth's troops were shod with iron and iron-shielded...”_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -52276,7 +52276,7 @@ permalink: /cards/all/
 > Long-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > The roll required for minions to move between adjacent Under-deeps sites is decreased by 3. Discards and prohibits subsequent play of The Way is Shut. 
+> > The roll required for minions to move between adjacent Under-deeps sites is decreased by 3. Discards and prohibits subsequent play of _The Way is Shut_. 
 > > 
 > > {: .fs-3 } 
 > > _“Rivulets of liquid rock spilled into the molten river, which wound its way beneath basalt arches."_ ***---&#65279;Kuduk&nbsp;Lore*** 
@@ -52373,7 +52373,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .minion-resource-text .black-text .p-2 }
-> > Playable during the organization phase on a ranger. Target ranger may tap to cancel all hazard effects for the rest of the turn that: force his company to return to its site of origin or that tap his company's current or new site. If so tapped, target ranger makes a corruption check. Cannot be duplicated in a given company. 
+> > ***Playable during the organization phase on a ranger.*** Target ranger may tap to cancel all hazard effects for the rest of the turn that: force his company to return to its site of origin **or** that tap his company's current or new site. If so tapped, target ranger makes a corruption check. Cannot be duplicated in a given company. 
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

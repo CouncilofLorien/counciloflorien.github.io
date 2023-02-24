@@ -39,7 +39,7 @@ permalink: /cards/the-way-is-shut/
 > Long-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > A company moving to or from an Under-deeps site must return its site of origin. Additionally, cancels the effects of Secret Passage and Secret Entrance. Cannot be duplicated. 
+> > A company moving to or from an Under-deeps site must return its site of origin. <br>&ensp;Additionally, cancels the effects of _Secret Passage_ and _Secret Entrance._ Cannot be duplicated. 
 > > 
 > > {: .fs-3 } 
 > > _“Many coiling arms seized the doors on either side, and with horrible strength, swung them around. With a shattering echo they slammed, and all light was lost."_ ***---&#65279;LotRII*** 

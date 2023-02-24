@@ -65,7 +65,7 @@ permalink: /cards/black-mace/
 > > _Weapon._ _Warrior only:_ +3 to prowess to a maximum of 10 (+4 to a maximum of 10 against Elves). 
 > > 
 > > {: .fs-3 } 
-> > _“A great black mace he wielded." LotRI 
+> > _“A great black mace he wielded."_ ***---&#65279;LotRI***
 > 
 > {: .minion-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +3/&ndash; 】</div>
