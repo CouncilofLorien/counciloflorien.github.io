@@ -65,13 +65,13 @@ permalink: /cards/stirring-bones/
 > > <div class="card-name">Stirring Bones</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&ensp;![](/assets/images/ruinlair.svg)&ensp;![](/assets/images/shadow-hold.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/shadow-land.svg)&ensp;![](/assets/images/dark-domain.svg)&emsp;![](/assets/images/ruinlair.svg)&ensp;![](/assets/images/shadow-hold.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Undead._ Two strikes. Two Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> in site path are required. 
+> > _Undead._ Two strikes. 
 > > 
 > > {: .fs-3 } 
 > > _“Round the corner a long arm was groping, walking on its fingers toward Sam, who lay nearest, and towards the hilt of the sword that lay upon him."_ ***---&#65279;LotRI*** 

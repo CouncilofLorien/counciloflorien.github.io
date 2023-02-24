@@ -25,7 +25,7 @@ permalink: /cards/balin/
 > Warrior/Sage Dwarf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 prowess against Orcs. +1 direct influence against Dwarves and Dwarf factions. 
+> > _**Unique.**_ +2 prowess against Orcs, +1 direct influence against Dwarves and Dwarf factions. 
 > > 
 > > {: .fs-3 } 
 > > _“‘Well, it is the first time that even a mouse has crept along carefully and quietly under my very nose and not been spotted,' said Balin, 'and I take off my hood to you.' Which he did."_ ***---&#65279;Hob***  
@@ -51,7 +51,7 @@ permalink: /cards/balin/
 > Warrior/Sage Dwarf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 prowess against Orcs. +1 direct influence against Dwarves and Dwarf factions. 
+> > _**Unique.**_ +2 prowess against Orcs, +1 direct influence against Dwarves and Dwarf factions. 
 > > 
 > > {: .fs-3 } 
 > > _“‘Well, it is the first time that even a mouse has crept along carefully and quietly under my very nose and not been spotted,' said Balin, 'and I take off my hood to you.' Which he did."_ ***---&#65279;Hob***  
@@ -77,7 +77,7 @@ permalink: /cards/balin/
 > Warrior/Sage Dwarf
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ +2 prowess against Orcs. +1 direct influence against Dwarves and Dwarf factions. 
+> > _**Unique.**_ +2 prowess against Orcs, +1 direct influence against Dwarves and Dwarf factions. 
 > > 
 > > {: .fs-3 } 
 > > _“‘Well, it is the first time that even a mouse has crept along carefully and quietly under my very nose and not been spotted,' said Balin, 'and I take off my hood to you.' Which he did."_ ***---&#65279;Hob***  

@@ -71,7 +71,7 @@ permalink: /cards/true-fire-drake/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Drake._ Two strikes. Three Wildernesses <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> in site path are required (only two Wildernesses <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> are required if Doors of Night is in play). 
+> > _Drake._ Two strikes. <br>&ensp;Three Wildernesses <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> in site path are required (only two Wildernesses <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> are required if _Doors of Night_ is in play). 
 > > 
 > > {: .fs-3 } 
 > > _“Fire leaped from the dragon's jaws."_ ***---&#65279;Hob*** 

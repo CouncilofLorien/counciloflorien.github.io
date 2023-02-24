@@ -76,7 +76,7 @@ permalink: /cards/escape/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Cancels an attack against a company. One unwounded character of your choice in the company is wounded (no body check is required). 
+> > ***Playable on an unwounded character facing an attack.*** The attack is canceled and the character is wounded (no body check is required). 
 > > 
 > > {: .fs-3 } 
 > > _“‘Over the bridge!' cried Gandalf, recalling his strength. 'Fly! This is a foe beyond any of you. I must hold the narrow way. Fly!’”_ ***---&#65279;LotRII*** 

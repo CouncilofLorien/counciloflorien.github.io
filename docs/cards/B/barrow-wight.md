@@ -120,7 +120,7 @@ permalink: /cards/barrow-wight/
 > > _Undead._ One strike. After the attack, each character wounded by _Barrow-wight_ makes a corruption check modified by -2. 
 > > 
 > > {: .fs-3 } 
-> > _“...two eyes, very cold though lit with a pale light...Then a grip stronger and colder than iron...”_ ***---&#65279;LotRI*** 
+> > _“...evil spirits out of Angmar and Rhudaur entered into the deserted mounds and dwelt there.”_ ***---&#65279;LotR*** 
 >
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 12/&ndash; 】</div>

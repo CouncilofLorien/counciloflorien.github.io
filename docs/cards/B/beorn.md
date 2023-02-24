@@ -28,7 +28,7 @@ permalink: /cards/beorn/
 > > _**Unique.**_ +2 direct influence against the Beornings faction. 
 > > 
 > > {: .fs-3 } 
-> > _“...a huge man with thick, black beard and hair, and great bare arms and legs knotted muscles."_ ***---&#65279;Hob***  
+> > _“...a huge man with thick, black beard and hair, and great bare arms and legs with knotted muscles."_ ***---&#65279;Hob***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Beorn's House 
@@ -54,7 +54,7 @@ permalink: /cards/beorn/
 > > _**Unique.**_ +2 direct influence against the Beornings faction. 
 > > 
 > > {: .fs-3 } 
-> > _“...a huge man with thick, black beard and hair, and great bare arms and legs knotted muscles."_ ***---&#65279;Hob***  
+> > _“...a huge man with thick, black beard and hair, and great bare arms and legs with knotted muscles."_ ***---&#65279;Hob***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Beorn's House 
@@ -80,7 +80,7 @@ permalink: /cards/beorn/
 > > _**Unique.**_ +2 direct influence against the Beornings faction. 
 > > 
 > > {: .fs-3 } 
-> > _“...a huge man with thick, black beard and hair, and great bare arms and legs knotted muscles."_ ***---&#65279;Hob***  
+> > _“...a huge man with thick, black beard and hair, and great bare arms and legs with knotted muscles."_ ***---&#65279;Hob***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Beorn's House 

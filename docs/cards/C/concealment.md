@@ -25,7 +25,7 @@ permalink: /cards/concealment/
 > > _**Scout only.**_ Tap scout to cancel one attack against his company. 
 > > 
 > > {: .fs-3 } 
-> > _“At once Strider flung himself on the ground beside the ruined circle, pulling Frodo down beside him. Merry threw himself along side."_ ***---&#65279;LotRI*** 
+> > _“At once Strider flung himself on the ground behind the ruined circle, pulling Frodo down beside him. Merry threw himself along side."_ ***---&#65279;LotRI*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -42,7 +42,7 @@ permalink: /cards/concealment/
 > > _**Scout only.**_ Tap scout to cancel one attack against his company. 
 > > 
 > > {: .fs-3 } 
-> > _“At once Strider flung himself on the ground beside the ruined circle, pulling Frodo down beside him. Merry threw himself along side."_ ***---&#65279;LotRI*** 
+> > _“At once Strider flung himself on the ground behind the ruined circle, pulling Frodo down beside him. Merry threw himself along side."_ ***---&#65279;LotRI*** 
 > 
 
 ### _Middle-earth: The Wizards Starter Set_
@@ -62,7 +62,7 @@ permalink: /cards/concealment/
 > > _**Scout only.**_ Tap scout to cancel one attack against his company. 
 > > 
 > > {: .fs-3 } 
-> > _“At once Strider flung himself on the ground beside the ruined circle, pulling Frodo down beside him. Merry threw himself along side."_ ***---&#65279;LotRI*** 
+> > _“At once Strider flung himself on the ground behind the ruined circle, pulling Frodo down beside him. Merry threw himself along side."_ ***---&#65279;LotRI*** 
 > 
 
 ### _Middle-earth Challenge Decks_
@@ -79,5 +79,5 @@ permalink: /cards/concealment/
 > > _**Scout only.**_ Tap scout to cancel one attack against his company. 
 > > 
 > > {: .fs-3 } 
-> > _“At once Strider flung himself on the ground beside the ruined circle, pulling Frodo down beside him. Merry threw himself along side."_ ***---&#65279;LotRI*** 
+> > _“At once Strider flung himself on the ground behind the ruined circle, pulling Frodo down beside him. Merry threw himself along side."_ ***---&#65279;LotRI*** 
 > 

@@ -94,7 +94,7 @@ permalink: /cards/william-(wuluag)/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _**Unique.**_ _Troll._ One strike. If played after _"Bert"_ or _"Tom"_ and if keyed to the same site path against the same company, each character wounded by _"William"_ must discard all non-special items he bears. 
+> > _**Unique.**_ _Troll._ One strike. If played against a company that faced _"Bert"_ or _"Tom"_ this turn, each character wounded by _"William"_ discards all non-special items he bears. 
 > > 
 > > {: .fs-3 } 
 > > _“William choked. 'Shut yer mouth!' he said as soon as he could. 'Yer can't expect folks to stop here for ever just to be et by you and Bert...’”_ ***---&#65279;Hob*** 

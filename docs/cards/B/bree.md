@@ -94,7 +94,7 @@ permalink: /cards/bree/
 > > _**Nearest Haven:**_ Rivendell  
 > > 
 > > {: .fs-3 } 
-> > _“Bree was the chief village of the Bree-land, a small inhabited region, like an island in the empty lands round about... The village of Bree had some hundred houses of the Big Folk, mostly above the road, nestling on the hillside with windows looking west."_ ***---&#65279;LotRI*** 
+> > _“Bree was the chief village of the Bree-land, a small inhabited region, like an island in the empty lands round about... The village of Bree had some hundred stone houses of the Big Folk, mostly above the road, nestling on the hillside with windows looking west."_ ***---&#65279;LotRI*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>

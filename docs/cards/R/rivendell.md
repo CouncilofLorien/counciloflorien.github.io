@@ -82,7 +82,7 @@ permalink: /cards/rivendell/
 > Rhudaur
 >
 > {: .hero-site-text .black-text .p-2 }
-> > ***Site Path From Lorien:*** <br>&emsp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg) <br>***Site Path From Grey Havens:*** <br>&emsp;![](/assets/images/free-domain.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg) 
+> > ***Site Path From Lorien:*** ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/border-land.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg) <br>***Site Path From Grey Havens:*** ![](/assets/images/free-domain.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg) 
 > > 
 > > {: .fs-3 } 
 > > _“‘His house was perfect, whether you liked food, or sleep, or work, or story-telling, or singing, or just sitting and thinking best, or a pleasant mixture of them all. Evil things did not come into that valley.’”_ ***---&#65279;Hob*** 

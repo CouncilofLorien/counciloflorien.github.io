@@ -106,7 +106,7 @@ permalink: /cards/aragorn-ii/
 > > _**Unique.**_ +2 direct influence against the Rangers of the North faction. <br>&ensp;-3 marshalling points if eliminated. 
 > > 
 > > {: .fs-3 } 
-> > _“All that is gold does not glitter, Not all those who wander are lost...”_ ***---&#65279;LotRI***  
+> > _“All that is gold does not glitter, <br>Not all those who wander are lost...”_ ***---&#65279;LotRI***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Bree 

@@ -39,7 +39,7 @@ permalink: /cards/rebuild-the-town/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Playable on a non-Dragon's lair, non-Under-deeps Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr>. The site becomes a Border-hold <nobr>[<img src="/assets/images/border-hold.svg">]</nobr> and loses all automatic-attacks. Discard Rebuild the Town when the site is discarded or returned to its location deck. 
+> > ***Playable during the site phase on a non-Dragon's lair, non-Under-deeps Ruins & Lairs*** <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr>. The site becomes a Border-hold <nobr>[<img src="/assets/images/border-hold.svg">]</nobr> and all automatic-attacks are removed. Discard _Rebuild the Town_ when the site is discarded or returned to its location deck. 
 > > 
 > > {: .fs-3 } 
 > > _“...the desolation was now filled with birds and blossoms in spring and fruit and feasting in autumn."_ ***---&#65279;Hob*** 

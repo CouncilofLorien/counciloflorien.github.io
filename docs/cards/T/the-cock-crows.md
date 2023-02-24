@@ -56,7 +56,7 @@ permalink: /cards/the-cock-crows/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Cancels a Troll attack. <br>&ensp;Alternatively, if _Gates of Morning_ is in play, it forces the discard of one hazard permanent-event. 
+> > Cancels a Troll attack. <br>&ensp;Alternatively, if _Gates of Morning_ is in play, discard one hazard permanent-event. 
 > > 
 > > {: .fs-3 } 
 > > _“...a cock crowed. Shrill and clear he crowed...welcoming only the morning that in the sky far above the shadows of death was coming with the dawn."_ ***---&#65279;LotRV*** 

@@ -42,7 +42,7 @@ permalink: /cards/black-arrow/
 > Minor Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Warrior only._ Tap _Black Arrow_ to give -1 to the prowess and body of any one attack against bearer's company. When Black Arrow is tapped, discard it if its bearer is not a Man. 
+> > _Warrior only._ Tap _Black Arrow_ to give -1 to the prowess and body of any one attack against bearer's company. When _Black Arrow_ is tapped, discard it if its bearer is not a Man. 
 > > 
 > > {: .fs-3 } 
 > > _“‘Black arrow! I have saved you to the last. You have never failed me and always I have recovered you. If ever you came form the forges of the true king under the Mountain, go now and speed well!’”_ ***---&#65279;Hob*** 

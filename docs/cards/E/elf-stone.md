@@ -28,7 +28,7 @@ permalink: /cards/elf-stone/
 > > +2 direct influence used against an Elf character or an Elf faction. May not be duplicated on a given character. 
 > > 
 > > {: .fs-3 } 
-> > _“Then she lifted from her lap a great stone of a great clear green, set in a brooch that was wrought in the likeness of an eagle with outspread wings; and as she held it up the gem flashed like the sun shining through the leaves of spring."_ ***---&#65279;LotRII***
+> > _“Then she lifted from her lap a great stone of a great clear green, set in a silver brooch that was wrought in the likeness of an eagle with outspread wings; and as she held it up the gem flashed like the sun shining through the leaves of spring."_ ***---&#65279;LotRII***
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -51,7 +51,7 @@ permalink: /cards/elf-stone/
 > > +2 direct influence used against an Elf character or an Elf faction. May not be duplicated on a given character. 
 > > 
 > > {: .fs-3 } 
-> > _“Then she lifted from her lap a great stone of a great clear green, set in a brooch that was wrought in the likeness of an eagle with outspread wings; and as she held it up the gem flashed like the sun shining through the leaves of spring."_ ***---&#65279;LotRII***
+> > _“Then she lifted from her lap a great stone of a great clear green, set in a silver brooch that was wrought in the likeness of an eagle with outspread wings; and as she held it up the gem flashed like the sun shining through the leaves of spring."_ ***---&#65279;LotRII***
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -74,7 +74,7 @@ permalink: /cards/elf-stone/
 > > +2 direct influence used against an Elf character or an Elf faction. May not be duplicated on a given character. 
 > > 
 > > {: .fs-3 } 
-> > _“Then she lifted from her lap a great stone of a great clear green, set in a brooch that was wrought in the likeness of an eagle with outspread wings; and as she held it up the gem flashed like the sun shining through the leaves of spring."_ ***---&#65279;LotRII***
+> > _“Then she lifted from her lap a great stone of a great clear green, set in a silver brooch that was wrought in the likeness of an eagle with outspread wings; and as she held it up the gem flashed like the sun shining through the leaves of spring."_ ***---&#65279;LotRII***
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

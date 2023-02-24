@@ -25,7 +25,7 @@ permalink: /cards/fatty-bolger/
 > Scout Hobbit
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All his corruption checks are modified by +1. He can tap to cancel a strike against another Hobbit in his company. 
+> > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +1. He can tap to cancel a strike against another Hobbit in his company. 
 > > 
 > > {: .fs-3 } 
 > > _“Fatty Bolger had not been idle. As soon as he saw the dark shapes creep from the garden, he knew the he must run for it, or perish."_ ***---&#65279;LotRI***  
@@ -51,7 +51,7 @@ permalink: /cards/fatty-bolger/
 > Scout Hobbit
 >
 > {: .character-text .black-text .p-2 }
-> > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All his corruption checks are modified by +1. He can tap to cancel a strike against another Hobbit in his company. 
+> > _**Unique.**_ Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +1. He can tap to cancel a strike against another Hobbit in his company. 
 > > 
 > > {: .fs-3 } 
 > > _“Fatty Bolger had not been idle. As soon as he saw the dark shapes creep from the garden, he knew the he must run for it, or perish."_ ***---&#65279;LotRI***  

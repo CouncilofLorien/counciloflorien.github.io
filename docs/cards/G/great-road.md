@@ -50,5 +50,5 @@ permalink: /cards/great-road/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Playable only at the end of the organization phase on a company that starts at a Haven <nobr>[<img src="/assets/images/free-haven.svg">]</nobr>.*** Opponent may draw up to twice the normal number of cards for this company during the movement/hazard phase. At the end of the turn, the company may replace its site card with the Haven card at which it began the turn. 
+> > ***Playable only at the end of the organization phase on a company that starts at a Haven*** <nobr>[<img src="/assets/images/free-haven.svg">]</nobr>. Opponent may draw up to twice the normal number of cards for this company during the movement/hazard phase. At the end of the turn, the company may replace its site card with the Haven card at which it began the turn. This is considered movement with no movement/hazard phase.
 > 

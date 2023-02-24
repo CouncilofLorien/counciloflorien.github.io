@@ -42,13 +42,13 @@ permalink: /cards/rain-drake/
 > > <div class="card-name">Rain-drake</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
-> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/coastalsea.svg)
+> > ![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&ensp;![](/assets/images/wilderness.svg)&emsp;![](/assets/images/coastalsea.svg)
 >
 > {: .hazard-classification .pr-2 }
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Drake._ One strikes. Three Wildernesses <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> in the site path are required. May also be played at a Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> that has two Wildernesses <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> or one Coastal Sea <nobr>[<img src="/assets/images/coastalsea.svg">]</nobr> in its site path. 
+> > _Drake._ One strikes. <br>&ensp;May also be played at a Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> that has two Wildernesses <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> or one Coastal Sea <nobr>[<img src="/assets/images/coastalsea.svg">]</nobr> in its site path. 
 > > 
 > > {: .fs-3 } 
 > > _“There are strange things living in the pools and lakes in the hearts of mountains."_ ***---&#65279;Hob*** 

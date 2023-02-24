@@ -28,7 +28,7 @@ permalink: /cards/annalena/
 > > _**Unique.**_  
 > > 
 > > {: .fs-3 } 
-> > _“...the Gift of the Elf-minstrels, who can make the things of which they sing appear before the eyes of those that listen."_ ***---&#65279;LotR***  
+> > _“...the gift of the Elf-minstrels, who can make the things of which they sing appear before the eyes of those that listen."_ ***---&#65279;LotR***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Edhellond 
@@ -54,7 +54,7 @@ permalink: /cards/annalena/
 > > _**Unique.**_  
 > > 
 > > {: .fs-3 } 
-> > _“...the Gift of the Elf-minstrels, who can make the things of which they sing appear before the eyes of those that listen."_ ***---&#65279;LotR***  
+> > _“...the gift of the Elf-minstrels, who can make the things of which they sing appear before the eyes of those that listen."_ ***---&#65279;LotR***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Edhellond 
@@ -80,7 +80,7 @@ permalink: /cards/annalena/
 > > _**Unique.**_  
 > > 
 > > {: .fs-3 } 
-> > _“...the Gift of the Elf-minstrels, who can make the things of which they sing appear before the eyes of those that listen."_ ***---&#65279;LotR***  
+> > _“...the gift of the Elf-minstrels, who can make the things of which they sing appear before the eyes of those that listen."_ ***---&#65279;LotR***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Edhellond 
@@ -106,7 +106,7 @@ permalink: /cards/annalena/
 > > _**Unique.**_  
 > > 
 > > {: .fs-3 } 
-> > _“...the Gift of the Elf-minstrels, who can make the things of which they sing appear before the eyes of those that listen."_ ***---&#65279;LotR***  
+> > _“...the gift of the Elf-minstrels, who can make the things of which they sing appear before the eyes of those that listen."_ ***---&#65279;LotR***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Edhellond 

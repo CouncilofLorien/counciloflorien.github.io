@@ -94,7 +94,7 @@ permalink: /cards/slayer/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Slayer._ Two attacks (of one strike each) against the same character. Attacker chooses defending character. The defender may tap any one character in the same company to cancel one of the attacks. 
+> > _Slayer._ Two attacks (of one strike each) all against the same character. Attacker chooses defending character. The defender may tap any one character in the company to cancel one of the attacks. This may be done even after a strike is assigned. 
 > > 
 > > {: .fs-3 } 
 > > _“‘He would go out by himself...and stalk...and slay many men...’”_ ***---&#65279;LotR*** 

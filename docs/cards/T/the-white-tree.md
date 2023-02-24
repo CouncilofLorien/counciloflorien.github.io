@@ -56,7 +56,7 @@ permalink: /cards/the-white-tree/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Sage only at Minas Tirith. Playable only if a Sapling of the White Tree is at Minas Tirith and is discarded. Minas Tirith becomes a Haven <nobr>[<img src="/assets/images/free-haven.svg">]</nobr> for the purposes of healing and playing hazards. 
+> > _Unique._ _Sage only._ ***Playable if your sage and your Sapling of the White Tree*** _stored or borne by a character)_ ***are at Minas Tirith.*** Discard the _Sapling of the White Tree._ Minas Tirith becomes a Haven <nobr>[<img src="/assets/images/free-haven.svg">]</nobr> for the purposes of healing and playing hazards. 
 > > 
 > > {: .fs-3 } 
 > > _“And the Tree that was withered shall be renewed, and he shall plant it in high places, and the City shall be blessed."_ ***---&#65279;LotRVI*** 

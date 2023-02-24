@@ -94,7 +94,7 @@ permalink: /cards/old-forest/
 > Cardolan
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Nearest Haven:**_ Rivendell <br>_**Special:**_ Healing effects affect all characters at the site  
+> > _**Nearest Haven:**_ Rivendell <br>_**Special:**_ Healing Cards affect all characters at the site  
 > > 
 > > {: .fs-3 } 
 > > _“‘For you are still afraid, perhaps, of mist and tree-shadows and deep water, and untame things. Fear nothing!’”_ ***---&#65279;LotRI*** 

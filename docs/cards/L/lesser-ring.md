@@ -74,7 +74,7 @@ permalink: /cards/lesser-ring/
 > > _Lesser Ring._ ***Playable only with a Gold Ring and after a test indicates Lesser Ring.*** +2 to direct influence. 
 > > 
 > > {: .fs-3 } 
-> > _“‘The lesser rings were only essays in the craft before it was full-grown, and to the Elven-smiths they were but trifles-yet still to my mind dangerous for mortals.’”_ ***---&#65279;LotRI*** 
+> > _“‘The lesser rings were only essays in the craft before it was full-grown, and to the Elven-smiths they were but trifles---yet still to my mind dangerous for mortals.’”_ ***---&#65279;LotRI*** 
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>

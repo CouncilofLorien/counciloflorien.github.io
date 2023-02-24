@@ -28,7 +28,7 @@ permalink: /cards/beorns-house/
 > > _**Nearest Haven:**_ Lorien  
 > > 
 > > {: .fs-3 } 
-> > _“They soon came to a wooded gate, high and broad, beyond which they could see gardens and a cluster of low wooden buildings, some thatched and made of unshaped logs; barns, stables, sheds, and a low wooden house."_ ***---&#65279;Hob*** 
+> > _“They soon came to a wooded gate, high and broad, beyond which they could see gardens and a cluster of low wooden buildings, some thatched and made of unshaped logs; barns, stables, sheds, and a long low wooden house."_ ***---&#65279;Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -51,7 +51,7 @@ permalink: /cards/beorns-house/
 > > _**Nearest Haven:**_ Lorien  
 > > 
 > > {: .fs-3 } 
-> > _“They soon came to a wooded gate, high and broad, beyond which they could see gardens and a cluster of low wooden buildings, some thatched and made of unshaped logs; barns, stables, sheds, and a low wooden house."_ ***---&#65279;Hob*** 
+> > _“They soon came to a wooded gate, high and broad, beyond which they could see gardens and a cluster of low wooden buildings, some thatched and made of unshaped logs; barns, stables, sheds, and a long low wooden house."_ ***---&#65279;Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
@@ -97,7 +97,7 @@ permalink: /cards/beorns-house/
 > > _**Nearest Haven:**_ Lorien  
 > > 
 > > {: .fs-3 } 
-> > _“They soon came to a wooded gate, high and broad, beyond which they could see gardens and a cluster of low wooden buildings, some thatched and made of unshaped logs; barns, stables, sheds, and a low wooden house."_ ***---&#65279;Hob*** 
+> > _“They soon came to a wooded gate, high and broad, beyond which they could see gardens and a cluster of low wooden buildings, some thatched and made of unshaped logs; barns, stables, sheds, and a long low wooden house."_ ***---&#65279;Hob*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>

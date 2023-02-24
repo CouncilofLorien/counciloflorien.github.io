@@ -94,7 +94,10 @@ permalink: /cards/edoras/
 > Rohan
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _Orcs._ _Men._ 3 strikes. Following the attack, the attacker looks at a number of cards from the top of the defender's play deck equal to the number of successful strikes of the attack. The attacker may place any of these cards face down on the bottom of the defender's bottom of the defender's play deck (in any order he chooses). He places the rest on top of the defender's deck (in any order he chooses). 
+> > _**Nearest Haven:**_ Lorien  
+> > 
+> > {: .fs-3 } 
+> > _“Within there rise the roofs of houses; and in the midst, set upon a green terrace, there stands aloft a great hall of Men...it is thatched with gold. The light of it shines far over the land. Golden too are the posts of its doors. There men in bright mail stand...”_ ***---&#65279;LotRIII*** 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>

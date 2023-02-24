@@ -56,8 +56,5 @@ permalink: /cards/great-ship/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Tap a character in target company during the organization phase to play Great Ship on that company. If a company's current site path contains a coastal sea region and no consecutive non-coastal sea regions, until the end of the turn any character in the company may tap to cancel the effects of one hazard that targets the company. 
-> > 
-> > {: .fs-3 } 
-> > _“...he chose the greatest ship to be his own, and he went up into it. Then he let sound a great concourse of trumpets...”_ ***---&#65279;LotRV*** 
+> > Tap a character to play this card during your organization phase on a company. Any character in the company this turn may tap to cancel a hazard that targets the company. This may be: a hazard event that specifically targets the company or an entity in the company **or** a creature card. The company's site path must have a Coastal Sea <nobr>[<img src="/assets/images/coastalsea.svg">]</nobr> and no consecutive non-Coastal Sea regions to do this.
 > 

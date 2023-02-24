@@ -50,5 +50,5 @@ permalink: /cards/thorough-search/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Scout only.**_ Tap a scout during the site phase to allow another character in his company to play a minor, major, or gold ring item normally found at its current site. The company must face any automatic-attack for its current site at least once during this site phase. This does not tap the site, and _Thorough Search_ can be played at a site that is already tapped. 
+> > _Scout only._ ***Playable during the site phase on an untapped scout.*** Tap the scout. Another character in his company may play a minor, major, or gold ring item normally found at the site. This does not tap the site, and _Thorough Search_ can be played at a site that is already tapped. 
 > 

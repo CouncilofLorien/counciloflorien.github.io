@@ -94,7 +94,7 @@ permalink: /cards/orc-warband/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Orcs._ Five strikes. If played on a company that has already faced an Orc attack this turn, Orc-warband_ receives +3 prowess. 
+> > _Orcs._ Five strikes. If played on a company that has already faced an Orc attack this turn, _Orc-warband_ receives +3 prowess. 
 > > 
 > > {: .fs-3 } 
 > > _“Fierce and shrill rose the yells of the Orcs, and suddenly the horn calls ceased."_ ***---&#65279;LotRIII*** 

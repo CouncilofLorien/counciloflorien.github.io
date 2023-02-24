@@ -39,7 +39,7 @@ permalink: /cards/not-at-home/
 > Short-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > Cancel one Dragon, Drake, or Troll automatic-attack or attack keyed to a site. Alternatively, if Gates of Morning is in play, reduce the number of strikes of any automatic-attack by 2 (to a minimum of one).   
+> > Cancel one Dragon, Drake, or Troll attack. This attack must be either an automatic-attack or keyed to a site. <br>&ensp;Alternatively, if _Gates of Morning_ is in play, reduce the number of strikes of any automatic-attack by 2 (to a minimum of 1).   
 > > 
 > > {: .fs-3 } 
 > > _“‘...He is not at home today (or tonight, or whatever it is), I do believe.’”_ ***---&#65279;Hob*** 

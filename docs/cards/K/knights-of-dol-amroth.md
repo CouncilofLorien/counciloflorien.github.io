@@ -56,7 +56,7 @@ permalink: /cards/knights-of-dol-amroth/
 > Dunadan Faction
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ Playable at Dol Amroth <br>&ensp;if the influence check is greater than 8.  <br>_Standard Modifications:_ Dunedain (+1). 
+> > _**Unique.**_ ***Playable at Dol Amroth*** <br>&ensp;if the influence check is greater than 8.  <br>_Standard Modifications:_ Dunedain (+1). 
 > > 
 > > {: .fs-3 } 
 > > _“...and a company of knights in full harness riding grey horses; and behind them seven hundreds of men at arms, tall as lords, grey-eyed, dark-haired, singing as they came."_ ***---&#65279;LotRV*** 

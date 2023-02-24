@@ -48,7 +48,7 @@ permalink: /cards/chill-douser/
 > Creature
 >
 > {: .hazard-text .black-text .p-2 }
-> > _Undead._ Three strikes. Unless Chill Douser's attack is canceled, all Undead attacks against the company for the rest of the turn receive +1 strike and +1 prowess.   
+> > _Undead._ Three strikes. Unless _Chill Douser's_ attack is canceled, all other Undead attacks against the company for the rest of the turn receive +1 strike and +1 prowess.   
 > > 
 > > {: .fs-3 } 
 > > _“...then a chill blast came in which the torches flickered and went out, and could not be rekindled."_ ***---&#65279;LotRV*** 

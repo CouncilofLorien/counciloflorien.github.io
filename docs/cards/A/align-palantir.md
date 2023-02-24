@@ -62,7 +62,7 @@ permalink: /cards/align-palantir/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > ***Sage only if a Palantir is in his company.*** Keep with the Palantir; bearer now has the ability to use the Palantir. If the Palantir is stored, this card is stored too. Discard _Align Palantir_ if the company carrying the Palantir moves. May not be duplicated on a given Palantir. 
+> > ***Sage only if a Palantir is in his company.*** Keep with the Palantir; bearer now has the ability to use the Palantir. If the Palantir is stored, this card is stored too. Discard _Align Palantir_ if the company carrying the Palantir moves. <br>&ensp;Cannot be duplicated on a given Palantir. 
 > > 
 > > {: .fs-3 } 
 > > _“‘...For this assuredly is the palantir of Orthanc from the treasury of Elendil, set here by the Kings of Gondor...’”_ ***---&#65279;LotRIII*** 

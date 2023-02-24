@@ -28,7 +28,7 @@ permalink: /cards/elrohir/
 > > _**Unique.**_ +1 prowess against Orcs. 
 > > 
 > > {: .fs-3 } 
-> > _“Then said Elrohir: 'From the North we came with this purpose, and from Elrond our father we brought this counsel. We will not turn back.’”_ ***---&#65279;LotRV***  
+> > _“Then said Elrohir: 'From the North we came with this purpose, and from Elrond our father we brought this very counsel. We will not turn back.’”_ ***---&#65279;LotRV***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Rivendell 
@@ -54,7 +54,7 @@ permalink: /cards/elrohir/
 > > _**Unique.**_ +1 prowess against Orcs. 
 > > 
 > > {: .fs-3 } 
-> > _“Then said Elrohir: 'From the North we came with this purpose, and from Elrond our father we brought this counsel. We will not turn back.’”_ ***---&#65279;LotRV***  
+> > _“Then said Elrohir: 'From the North we came with this purpose, and from Elrond our father we brought this very counsel. We will not turn back.’”_ ***---&#65279;LotRV***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Rivendell 
@@ -80,7 +80,7 @@ permalink: /cards/elrohir/
 > > _**Unique.**_ +1 prowess against Orcs. 
 > > 
 > > {: .fs-3 } 
-> > _“Then said Elrohir: 'From the North we came with this purpose, and from Elrond our father we brought this counsel. We will not turn back.’”_ ***---&#65279;LotRV***  
+> > _“Then said Elrohir: 'From the North we came with this purpose, and from Elrond our father we brought this very counsel. We will not turn back.’”_ ***---&#65279;LotRV***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Rivendell 
@@ -106,7 +106,7 @@ permalink: /cards/elrohir/
 > > _**Unique.**_ +1 prowess against Orcs. 
 > > 
 > > {: .fs-3 } 
-> > _“Then said Elrohir: 'From the North we came with this purpose, and from Elrond our father we brought this counsel. We will not turn back.’”_ ***---&#65279;LotRV***  
+> > _“Then said Elrohir: 'From the North we came with this purpose, and from Elrond our father we brought this very counsel. We will not turn back.’”_ ***---&#65279;LotRV***  
 > > 
 > > {: .fs-3 .text-right } 
 > > **Home Site:** Rivendell 
