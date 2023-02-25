@@ -31,8 +31,6 @@ permalink: /cards/morgul-night/
 > > _“Far above a great cloud streamed slowly westward from the black land, devouring light, borne upon a wind of war...”_ ***---&#65279;LotRV*** 
 >
 
-
-
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

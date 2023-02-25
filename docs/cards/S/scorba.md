@@ -33,5 +33,3 @@ permalink: /cards/scorba/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 12/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
-
-

@@ -30,5 +30,3 @@ permalink: /cards/in-great-wrath/
 > > {: .fs-3 } 
 > > _“...the noise of hoofs broke out, and gathering to a gallop, went hammering away into the darkness."_ ***---&#65279;LotRI*** 
 >
-
-

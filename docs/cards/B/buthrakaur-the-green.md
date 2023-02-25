@@ -36,5 +36,3 @@ permalink: /cards/buthrakaur-the-green/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 15/6 】</div>
 > > <div class="card-corruption">&nbsp;</div>
-
-

@@ -31,8 +31,6 @@ permalink: /cards/morgul-knife/
 > > <div class="card-shield"></div>
 > > <div class="card-corruption-white">〔 4 〕</div>
 
-
-
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

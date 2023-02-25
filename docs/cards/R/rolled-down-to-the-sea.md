@@ -30,5 +30,3 @@ permalink: /cards/rolled-down-to-the-sea/
 > > {: .fs-3 } 
 > > _“‘Into Anduin the Great it fell; and long ago, while Sauron slept, it was rolled down the River to the Sea. There let it lie until the End.’”_ ***---&#65279;LotRII***  
 >
-
-

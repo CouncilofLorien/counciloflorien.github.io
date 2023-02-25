@@ -30,5 +30,3 @@ permalink: /cards/eyes-of-the-shadow/
 > > {: .fs-3 } 
 > > _“...a whole regiment of birds had broken away suddenly from the main host...”_ ***---&#65279;LotRII*** 
 >
-
-

@@ -30,5 +30,3 @@ permalink: /cards/shadow-of-mordor/
 > > {: .fs-3 } 
 > > _“‘...Alas! Mordor draws all wicked things...’”_ ***---&#65279;LotRI*** 
 >
-
-

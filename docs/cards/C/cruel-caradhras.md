@@ -28,8 +28,6 @@ permalink: /cards/cruel-caradhras/
 > > ***Playable on a company using region movement to move through one of the following regions (and not stopping at a site therein):*** High Pass, Redhorn Gate, Angmar, Gundabad, Grey Mountain Narrows, or Minas Morgul. Each character in target company must face one strike (not an attack) of 8 prowess which cannot be cancelled. Any resulting body check is modified by +1. 
 >
 
-
-
 ### _Middle-earth Challenge Decks_
 
 {: .hazard-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

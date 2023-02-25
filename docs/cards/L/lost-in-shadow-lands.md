@@ -31,8 +31,6 @@ permalink: /cards/lost-in-shadow-lands/
 > > _“The remainder of that journey was a shadow of growing fear in which memory could find nothing to rest upon."_ ***---&#65279;LotRIV*** 
 >
 
-
-
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -66,5 +64,3 @@ permalink: /cards/lost-in-shadow-lands/
 > > {: .fs-3 } 
 > > _“The nights were the worst...really pitch; so black that you could really see nothing."_ ***---&#65279;Hob*** 
 >
-
-

@@ -28,8 +28,6 @@ permalink: /cards/choking-shadows/
 > > _Environment._ Modify the prowess of one automatic-attack at a Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> site by +2. <br>&ensp;Alternatively, if _Doors of Night_ is in play, treat one Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> as a Shadow-land <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> **or** one Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> as a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> until the end of the turn. <br>&ensp;Cannot be duplicated. 
 >
 
-
-
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

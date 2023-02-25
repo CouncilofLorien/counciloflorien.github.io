@@ -31,8 +31,6 @@ permalink: /cards/storms-of-osse/
 > > _“Like Voronwe of old, they fought the wrath of Osse and rode high upon the wings of the storm, far above the deeps of the Sea."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 >
 
-
-
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

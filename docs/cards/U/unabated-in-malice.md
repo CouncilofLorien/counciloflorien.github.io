@@ -30,5 +30,3 @@ permalink: /cards/unabated-in-malice/
 > > {: .fs-3 } 
 > > _“Her vast belly was above him with its putrid light, and the stench of it almost smote him down."_ ***---&#65279;LotRIV*** 
 >
-
-

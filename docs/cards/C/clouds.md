@@ -31,8 +31,6 @@ permalink: /cards/clouds/
 > > _“Still more suddenly, a darkness came on with dreadful swiftness! A black cloud hurried over the sky. Winter thunder on a wild wind rolled roaring up and rumbled...”_ ***---&#65279;Hob*** 
 >
 
-
-
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

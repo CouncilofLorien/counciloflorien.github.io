@@ -27,5 +27,3 @@ permalink: /cards/imprisoned-and-mocked/
 > {: .hazard-text .black-text .p-2 }
 > > ***Playable before strikes are assigned on a non-detainment Orc or Troll attack with more strikes than characters and allies in the company.*** If the attack is not canceled or defeated, make a roll following the attack adding two for each excess strike. If the result minus five is greater than the prowess of the highest mind character in the company (of your choice), place that character "off to the side" with this card and discard all cards on that character. Otherwise, discard this card. During that character's long-event phase, discard this card and return the character to its owner's hand. 
 >
-
-

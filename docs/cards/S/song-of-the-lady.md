@@ -30,5 +30,3 @@ permalink: /cards/song-of-the-lady/
 > > {: .fs-3 } 
 > > _“‘...Rich are the hours, though short they seem, in Caras Galadon...’”_ ***---&#65279;LotRII*** 
 >
-
-

@@ -31,8 +31,6 @@ permalink: /cards/smaug-ahunt/
 > > <div class="card-shield">【 15/7 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
-
-
 ### _Middle-earth: The Balrog Reprint_
 
 {: .hazard-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

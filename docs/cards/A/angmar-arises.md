@@ -30,5 +30,3 @@ permalink: /cards/angmar-arises/
 > > {: .fs-3 } 
 > > _“...the power of Angmar arose again, and the Witch-king came down upon Arthedain...”_ ***---&#65279;LotR*** 
 >
-
-

@@ -30,5 +30,3 @@ permalink: /cards/never-seen-him/
 > > {: .fs-3 } 
 > > _“‘We've never seen him, but he's up at Bag End; and he's the real chief now, I guess.’”_ ***---&#65279;LotRVI*** 
 >
-
-

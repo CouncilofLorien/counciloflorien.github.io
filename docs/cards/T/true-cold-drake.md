@@ -34,8 +34,6 @@ permalink: /cards/true-cold-drake/
 > > <div class="card-shield">【 14/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
-
-
 ### _Middle-earth Challenge Decks_
 
 {: .hazard-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

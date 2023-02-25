@@ -31,8 +31,6 @@ permalink: /cards/stench-of-mordor/
 > > _“...he saw them fall, worn out, or choked with fumes and heat, or stricken down by despair at last, hiding their eyes from death."_ ***---&#65279;LotRVI*** 
 >
 
-
-
 ### _Middle-earth Challenge Decks_
 
 {: .hazard-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

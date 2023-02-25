@@ -27,5 +27,3 @@ permalink: /cards/worms-stench/
 > {: .hazard-text .black-text .p-2 }
 > > ***Playable on a company that has already faced a Dragon or Drake attack this turn.*** The prowess of each Spider and Animal attack against the company is increased by two for the rest of the turn. <br>&ensp;Additionally, if _Doors of Night_ is in play, all Wolf attacks receive +2 prowess **and** all Wolf, Spider, and Animal attacks receive +1 strikes for the rest of turn against the company. 
 >
-
-

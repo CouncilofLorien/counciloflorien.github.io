@@ -30,5 +30,3 @@ permalink: /cards/peril-returned/
 > > {: .fs-3 } 
 > > _“A shadow came out of dark places far away, and the bones were stirred in the mounds."_ ***---&#65279;LotRI*** 
 >
-
-

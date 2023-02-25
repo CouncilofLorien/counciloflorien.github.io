@@ -31,8 +31,6 @@ permalink: /cards/seized-by-terror/
 > > _“Terror seized him. He shrank back, and for a moment he stood trembling in the hall."_ ***---&#65279;LotRI***  
 >
 
-
-
 ### _Middle-earth Challenge Decks_
 
 {: .hazard-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

@@ -30,5 +30,3 @@ permalink: /cards/neither-so-ancient-nor-so-potent/
 > > {: .fs-3 } 
 > > _“Though it had been made in Imladris for Valandil, it was neither so ancient nor so potent as the one lost with King Isildur at the Gladden Fields."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 >
-
-

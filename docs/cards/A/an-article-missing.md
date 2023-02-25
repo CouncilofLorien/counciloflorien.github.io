@@ -27,5 +27,3 @@ permalink: /cards/an-article-missing/
 > {: .hazard-text .black-text .p-2 }
 > > _Tap a scout agent at target company's new site._ Agent may attack (not counting against the hazard limit) with a +4 modification to his prowess during the movement/hazard phase. Attacker chooses defending characters. A successful strike doesn't wound the defending character; instead the defender must discard one item (defender's choice).  
 >
-
-

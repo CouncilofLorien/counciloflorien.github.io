@@ -27,5 +27,3 @@ permalink: /cards/drums/
 > {: .hazard-text .black-text .p-2 }
 > > For each company at or moving to an Under-deeps site, the hazard limit is increased by one and the prowess of all attacks is increased by one. All automatic-attacks at sites in the following regions have their number of strikes and prowess increased by one (by two if _Doors of Night_ is in play): Angmar, Gap of Isen, Gorgoroth, Gundabad, High Pass, Redhorn Gate, Rohan, Southern Mirkwood, and Udun. Cannot be duplicated. 
 >
-
-

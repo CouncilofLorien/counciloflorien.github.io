@@ -31,8 +31,6 @@ permalink: /cards/dragon-sickness/
 > > _“...being of the kind that easily catches such disease he fell under the dragon-sickness, and took most of the gold and fled with it...”_ ***---&#65279;Hob*** 
 >
 
-
-
 ### _Middle-earth Challenge Decks_
 
 {: .hazard-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

@@ -31,8 +31,6 @@ permalink: /cards/withered-lands/
 > > _“...there were Dragons in the wastes beyond...”_ ***---&#65279;LotR*** 
 >
 
-
-
 ### _Middle-earth Challenge Decks_
 
 {: .hazard-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

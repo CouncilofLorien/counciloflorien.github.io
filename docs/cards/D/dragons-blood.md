@@ -30,5 +30,3 @@ permalink: /cards/dragons-blood/
 > > {: .fs-3 } 
 > > _“The enchanted blood of the Great Worms becomes increasingly caustic and corrosive with age."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 >
-
-

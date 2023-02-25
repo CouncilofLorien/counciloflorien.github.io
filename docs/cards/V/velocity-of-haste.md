@@ -30,5 +30,3 @@ permalink: /cards/velocity-of-haste/
 > > {: .fs-3 } 
 > > _“...so great was his speed, they could see him as a spark of fire rushing towards them and growing ever huger and more bright."_ ***---&#65279;Hob*** 
 >
-
-

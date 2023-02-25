@@ -30,5 +30,3 @@ permalink: /cards/heart-grown-cold/
 > > {: .fs-3 } 
 > > _“‘You should have been a king's jester and earned your bread, and stripes too, by mimicking his counsellors.’”_ ***---&#65279;LotRIII*** 
 >
-
-

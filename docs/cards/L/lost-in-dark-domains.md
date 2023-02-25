@@ -31,8 +31,6 @@ permalink: /cards/lost-in-dark-domains/
 > > _“...each day, each mile, was more bitter than the one before, as their strength lessened and the land became more evil."_ ***---&#65279;LotRVI*** 
 >
 
-
-
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

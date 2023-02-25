@@ -31,8 +31,6 @@ permalink: /cards/the-way-is-shut/
 > > _“Many coiling arms seized the doors on either side, and with horrible strength, swung them around. With a shattering echo they slammed, and all light was lost."_ ***---&#65279;LotRII*** 
 >
 
-
-
 ### _Middle-earth: The Balrog Reprint_
 
 {: .hazard-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

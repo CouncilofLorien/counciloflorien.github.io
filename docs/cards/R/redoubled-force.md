@@ -30,5 +30,3 @@ permalink: /cards/redoubled-force/
 > > {: .fs-3 } 
 > > _“The bodyguard of Bolg came howling against them, and drove in upon their ranks like waves upon cliffs of sand."_ ***---&#65279;Hob***  
 >
-
-

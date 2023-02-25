@@ -28,8 +28,6 @@ permalink: /cards/long-winter/
 > > _Environment._ Each moving company that has at least two Wildernesses <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> in its site path must return to its site of origin unless it contains a ranger. <br>&ensp;Additionally, if _Doors of Night_ is in play, each non-Haven site card with at least two Wildernesses <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> in its site path is tapped. <br>&ensp;Cannot be duplicated. 
 >
 
-
-
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -57,8 +55,6 @@ permalink: /cards/long-winter/
 > {: .hazard-text .black-text .p-2 }
 > > _Environment._ Each moving company that has at least two Wildernesses <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> in its site path must return to its site of origin unless it contains a ranger. <br>&ensp;Additionally, if _Doors of Night_ is in play, each non-Darkhaven site in play with at least two Wildernesses <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> in its site path is tapped. <br>&ensp;Cannot be duplicated. 
 >
-
-
 
 ### _Middle-earth Challenge Decks_
 

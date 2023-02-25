@@ -30,5 +30,3 @@ permalink: /cards/wraith-lord/
 > > {: .fs-3 } 
 > > _“This way and that turned the dark head helmed and crowned with fear, sweeping shadows with its unseen eyes."_ ***---&#65279;LotRIV*** 
 >
-
-

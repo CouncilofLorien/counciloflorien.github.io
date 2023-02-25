@@ -30,5 +30,3 @@ permalink: /cards/chance-of-being-lost/
 > > {: .fs-3 } 
 > > _“...they all left the path and plunged into the forest together."_ ***---&#65279;Hob*** 
 >
-
-

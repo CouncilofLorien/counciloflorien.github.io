@@ -30,5 +30,3 @@ permalink: /cards/pierced-by-many-wounds/
 > > {: .fs-3 } 
 > > _“...he was pierced by many black-feathered arrows...”_ ***---&#65279;LotRIII***  
 >
-
-

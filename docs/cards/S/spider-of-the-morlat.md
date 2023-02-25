@@ -30,5 +30,3 @@ permalink: /cards/spider-of-the-morlat/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 16/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>
-
-

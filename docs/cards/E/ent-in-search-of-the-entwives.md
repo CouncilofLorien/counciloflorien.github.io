@@ -37,8 +37,6 @@ permalink: /cards/ent-in-search-of-the-entwives/
 > > <div class="card-shield">【 14/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
-
-
 ### _Middle-earth Challenge Decks_
 
 {: .hazard-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

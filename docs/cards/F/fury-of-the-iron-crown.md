@@ -30,5 +30,3 @@ permalink: /cards/fury-of-the-iron-crown/
 > > {: .fs-3 } 
 > > _“...and now he has come again, bringing ruin, turning hope to despair, and victory to death."_ ***---&#65279;LotRV*** 
 >
-
-

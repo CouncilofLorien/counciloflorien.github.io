@@ -31,8 +31,6 @@ permalink: /cards/lure-of-the-senses/
 > > <div class="card-shield"></div>
 > > <div class="card-corruption-white">〔 2 〕</div>
 
-
-
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -66,8 +64,6 @@ permalink: /cards/lure-of-the-senses/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
 > > <div class="card-corruption-white">〔 2 〕</div>
-
-
 
 ### _Middle-earth Challenge Decks_
 

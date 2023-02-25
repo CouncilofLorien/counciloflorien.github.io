@@ -30,5 +30,3 @@ permalink: /cards/blind-to-the-west/
 > > {: .fs-3 } 
 > > _“‘Then darkness took me...and I wandered far on roads that I will not tell.’”_ ***---&#65279;LotRIII*** 
 >
-
-

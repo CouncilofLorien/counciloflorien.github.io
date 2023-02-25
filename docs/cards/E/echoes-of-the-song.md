@@ -30,5 +30,3 @@ permalink: /cards/echoes-of-the-song/
 > > {: .fs-3 } 
 > > _“Memories of the beauty of Valinor bore power to dispel the corruption of darkness...”_ ***---&#65279;Kuduk&nbsp;Lore*** 
 >
-
-

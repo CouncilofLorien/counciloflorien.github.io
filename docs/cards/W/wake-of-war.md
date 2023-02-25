@@ -31,8 +31,6 @@ permalink: /cards/wake-of-war/
 > > _“Fire and smoke and stench were in the air; for many engines had been burned or cast into the fire-pits, and many of the slain also...”_ ***---&#65279;LotRV*** 
 >
 
-
-
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -86,8 +84,6 @@ permalink: /cards/wake-of-war/
 > > {: .fs-3 } 
 > > _“No few had fallen, renowned or nameless, captain or soldier; for it was a great battle and the full count of it no tale has told."_ ***---&#65279;LotRI*** 
 >
-
-
 
 ### _Middle-earth Challenge Decks_
 

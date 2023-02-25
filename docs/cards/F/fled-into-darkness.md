@@ -30,5 +30,3 @@ permalink: /cards/fled-into-darkness/
 > > {: .fs-3 } 
 > > _“...a thing of terror...flying from Thangorodrim...”_ ***---&#65279;LotR*** 
 >
-
-

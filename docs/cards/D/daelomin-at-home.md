@@ -33,5 +33,3 @@ permalink: /cards/daelomin-at-home/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 14/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
-
-

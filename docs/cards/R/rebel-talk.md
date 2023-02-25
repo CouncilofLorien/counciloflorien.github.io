@@ -28,8 +28,6 @@ permalink: /cards/rebel-talk/
 > > ***Playable on a non-Ringwraith, non-Wizard character with mind of 7 or less.*** Character cannot be controlled by direct influence. Once during each of his organization phases, the character may attempt to remove this card by making a roll (drawing a #)---if the result is greater than 7, discard this card. Cannot be duplicated on a given character. 
 >
 
-
-
 ### _Middle-earth Challenge Decks_
 
 {: .hazard-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

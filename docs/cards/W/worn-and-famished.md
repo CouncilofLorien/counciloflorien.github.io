@@ -30,5 +30,3 @@ permalink: /cards/worn-and-famished/
 > > {: .fs-3 } 
 > > _“‘We are worn and famished after out long road and we have sick comrades.’”_ ***---&#65279;Hob*** 
 >
-
-

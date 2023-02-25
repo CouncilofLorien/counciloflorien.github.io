@@ -30,5 +30,3 @@ permalink: /cards/flotsam-and-jetsam/
 > > {: .fs-3 } 
 > > _“‘...busy with his fiery thoughts. He has forgotten Treebeard."_ ***---&#65279;LotRIII*** 
 >
-
-

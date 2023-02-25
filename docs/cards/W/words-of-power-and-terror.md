@@ -31,8 +31,6 @@ permalink: /cards/words-of-power-and-terror/
 > > _“‘Then the Black Captain rose...and cried aloud...words of power and terror to rend both heart and stone.’”_ ***---&#65279;LotRV*** 
 >
 
-
-
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

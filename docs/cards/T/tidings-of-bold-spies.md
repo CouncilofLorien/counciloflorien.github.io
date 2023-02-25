@@ -28,8 +28,6 @@ permalink: /cards/tidings-of-bold-spies/
 > > ***Playable on a company moving to a site with an automatic-attack.*** This card creates one or more attacks on the company, the total of which duplicates  exactly (including modifications) all automatic-attacks at the site. These attacks must be faced immediately **and** are not considered automatic-attacks. 
 >
 
-
-
 ### _Middle-earth Challenge Decks_
 
 {: .hazard-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

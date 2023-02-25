@@ -31,8 +31,6 @@ permalink: /cards/lost-in-border-lands/
 > > _“Their going was very slow. To prevent their being separated and wandering in different directions they went in file...”_ ***---&#65279;LotRI*** 
 >
 
-
-
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -66,5 +64,3 @@ permalink: /cards/lost-in-border-lands/
 > > {: .fs-3 } 
 > > _“But now all the land was empty, and there was a silence that did not seem to be the quiet of peace."_ ***---&#65279;LotRIII*** 
 >
-
-

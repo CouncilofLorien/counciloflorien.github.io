@@ -30,5 +30,3 @@ permalink: /cards/tribal-totem/
 > > {: .fs-3 } 
 > > _“...a big fighting-orc...bearing the token of the Eye."_ ***---&#65279;LotRVI*** 
 >
-
-

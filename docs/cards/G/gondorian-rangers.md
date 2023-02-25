@@ -30,5 +30,3 @@ permalink: /cards/gondorian-rangers/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 9/6 】</div>
 > > <div class="card-corruption">&nbsp;</div>
-
-

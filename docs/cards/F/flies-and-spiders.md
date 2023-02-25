@@ -27,5 +27,3 @@ permalink: /cards/flies-and-spiders/
 > {: .hazard-text .black-text .p-2 }
 > > ***Playable on a character facing a spider attack.*** If the strike is successful, target character is not harmed and is taken prisoner at a Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr>. During his untap phase, make a body check for that character modified by +1. If not eliminated, his player then makes a roll (draws a #) adding his body. If the result is greater than 15, the character is automatically rescued into his own company located at the rescue site. <br>&ensp;Rescue-attack: Spiders --- 3 strikes with 9 prowess. 
 >
-
-

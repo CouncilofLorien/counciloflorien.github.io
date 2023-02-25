@@ -30,5 +30,3 @@ permalink: /cards/helms-of-iron/
 > > {: .fs-3 } 
 > > _“...on the front of their iron hems was an S-rune, wrought of some white metal."_ ***---&#65279;LotRIII*** 
 >
-
-

@@ -31,8 +31,6 @@ permalink: /cards/power-built-by-waiting/
 > > _“‘And perils known and unknown will grow as we go on.’”_ ***---&#65279;LotRII*** 
 >
 
-
-
 ### _Middle-earth Challenge Decks_
 
 {: .hazard-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

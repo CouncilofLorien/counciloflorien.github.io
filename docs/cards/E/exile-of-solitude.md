@@ -27,5 +27,3 @@ permalink: /cards/exile-of-solitude/
 > {: .hazard-text .black-text .p-2 }
 > > One strike of an at home manifestation of any unique Dragon can attempt to capture a non-Wizard character. This strike's prowess is modified by -1. If this strike is successful, it forces the discard of the character (with no body check) and all cards he controls. <br>&ensp;Alternatively, all strikes of _Earcaraxe at Home_ attempt to capture all non-Wizard characters defending against her strikes. 
 >
-
-

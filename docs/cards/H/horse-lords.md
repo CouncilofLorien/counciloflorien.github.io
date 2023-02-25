@@ -31,8 +31,6 @@ permalink: /cards/horse-lords/
 > > <div class="card-shield">【 10/6 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
-
-
 ### _Middle-earth Challenge Decks_
 
 {: .hazard-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

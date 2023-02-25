@@ -30,5 +30,3 @@ permalink: /cards/frenzy-of-madness/
 > > {: .fs-3 } 
 > > _“...her sight blasted by inner lightnings, her mind in agony...”_ ***---&#65279;LotRIV*** 
 >
-
-

@@ -27,5 +27,3 @@ permalink: /cards/trouble-on-all-borders/
 > {: .hazard-text .black-text .p-2 }
 > > ***Playable on a unique faction in play.*** Any company moving through the region containing a site where the faction is playable, or through any region adjacent to this one, faces an attack. The attack is the same type as the faction and has 4 strikes with 8 prowess. The attack is detainment if the company and the faction are both minion or both hero. Cannot be duplicated on a given faction. Discard when any play deck is exhausted. 
 >
-
-

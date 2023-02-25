@@ -27,5 +27,3 @@ permalink: /cards/ride-against-the-enemy/
 > {: .hazard-text .black-text .p-2 }
 > > ***Playable on a company moving through a Wilderness*** <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> ***if you have a character in your hand.*** Reveal the character. A single-strike hazard creature attack is made on the company with the attributes of the revealed character, except the prowess is increased by 7. Other cards have no effect on this attack. The attack is detainment if the revealed character and the company are both minion or both hero. If defeated, place the character in your opponent's marshalling point pile---he receives the character's marshalling points as kill points. Otherwise, discard the character. 
 >
-
-

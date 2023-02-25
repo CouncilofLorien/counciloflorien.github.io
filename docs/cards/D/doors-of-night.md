@@ -31,8 +31,6 @@ permalink: /cards/doors-of-night/
 > > _“...already the fire in the sky was burning out, and the smouldering hills were fading, while ash-grey evening crept over the fields."_ ***---&#65279;LotRV*** 
 >
 
-
-
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -66,8 +64,6 @@ permalink: /cards/doors-of-night/
 > > {: .fs-3 } 
 > > _“One by one white stars sprang forth as the sky faded."_ ***---&#65279;LotRII*** 
 >
-
-
 
 ### _Middle-earth Challenge Decks_
 

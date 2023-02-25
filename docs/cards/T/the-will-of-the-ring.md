@@ -31,8 +31,6 @@ permalink: /cards/the-will-of-the-ring/
 > > _“He heard himself crying out: 'Never, never!' Or was it: 'Verily I come, I come to you'? He could not tell."_ ***---&#65279;LotRII*** 
 >
 
-
-
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

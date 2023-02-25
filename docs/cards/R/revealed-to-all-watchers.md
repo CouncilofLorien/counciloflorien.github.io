@@ -30,5 +30,3 @@ permalink: /cards/revealed-to-all-watchers/
 > > {: .fs-3 } 
 > > _“‘If there are any to see, then I at least am revealed to them,' he said, 'I have written Gandalf is here in signs that all can read from Rivendell to the Mouths of Anduin.’”_ ***---&#65279;LotRII***  
 >
-
-

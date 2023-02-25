@@ -31,8 +31,6 @@ permalink: /cards/plague-of-wights/
 > > _“‘But only evil wights dwell there now, and I will not willingly tell more of them.’”_ ***---&#65279;LotRV*** 
 >
 
-
-
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -66,8 +64,6 @@ permalink: /cards/plague-of-wights/
 > > {: .fs-3 } 
 > > _“‘...the Shadow Host that had hung back at the last came up like a grey tide, sweeping away all before it."_ ***---&#65279;LotRI*** 
 >
-
-
 
 ### _Middle-earth Challenge Decks_
 

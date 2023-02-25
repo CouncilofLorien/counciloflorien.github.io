@@ -31,8 +31,6 @@ permalink: /cards/snowstorm/
 > > _“The wind whistled and the snow became a blinding blizzard."_ ***---&#65279;LotRII*** 
 >
 
-
-
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

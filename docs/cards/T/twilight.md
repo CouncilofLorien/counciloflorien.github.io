@@ -31,8 +31,6 @@ permalink: /cards/twilight/
 > > _“Upon the very Eve of Midsummer, when the sky was blue as sapphire and the white stars opened in the East, but the West was still golden, and the air was cool and fragrant, the riders came...to the Gates of Minas Tirith."_ ***---&#65279;LotRVI*** 
 >
 
-
-
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -66,8 +64,6 @@ permalink: /cards/twilight/
 > > {: .fs-3 } 
 > > _“The Sun dipped and vanished, and as if at the shuttering of a lamp, black night fell."_ ***---&#65279;LotRII*** 
 >
-
-
 
 ### _Middle-earth Challenge Decks_
 

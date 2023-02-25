@@ -30,5 +30,3 @@ permalink: /cards/fear!-fire!-foes!/
 > > {: .fs-3 } 
 > > _“The Brandybucks were blowing the Horn-call of Buckland...”_ ***---&#65279;LotRI*** 
 >
-
-

@@ -30,5 +30,3 @@ permalink: /cards/tidings-of-doubt-and-danger/
 > > {: .fs-3 } 
 > > _“The Dark Power was deep in thought, and the Eye turned inward, pondering tidings of doubt and danger...”_ ***---&#65279;LotRVI*** 
 >
-
-

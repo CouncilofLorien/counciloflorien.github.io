@@ -28,8 +28,6 @@ permalink: /cards/night/
 > > _Environment._ The prowess of each non-ranger Dunadan is modified by -1. <br>&ensp;Additionally, if _Doors of Night_ is in play, the prowesses of all attacks are modified by +1 **and** the prowess of each Man and Dunadan is modified by -1. <br>&ensp;Cannot be duplicated. 
 >
 
-
-
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

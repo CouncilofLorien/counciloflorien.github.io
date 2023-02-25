@@ -31,8 +31,6 @@ permalink: /cards/river/
 > > _“I don't know what river it was, a rushing red one, swollen with the ruins of the last few days, that came down from the hills and mountains...”_ ***---&#65279;Hob*** 
 >
 
-
-
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -86,8 +84,6 @@ permalink: /cards/river/
 > > {: .fs-3 } 
 > > _“In the far stage, under the distant lamps, they could just make out a figure...as they looked it seemed to move and sway this way and that, as if searching the ground. It then crawled, or went crouching, back into the gloom beyond the lamps."_ ***---&#65279;LotRI*** 
 >
-
-
 
 ### _Middle-earth Challenge Decks_
 

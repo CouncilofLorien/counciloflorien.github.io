@@ -33,5 +33,3 @@ permalink: /cards/will-you-not-come-down/
 > > {: .fs-3 } 
 > > _“‘And I have the power to protect you. I am giving you a last chance.’”_ ***---&#65279;LotRIII***  
 >
-
-

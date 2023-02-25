@@ -31,8 +31,6 @@ permalink: /cards/full-of-froth-and-rage/
 > > _“...hairy legs waving, nippers and spinners snapping, eyes popping, full of froth and rage."_ ***---&#65279;Hob*** 
 >
 
-
-
 ### _Middle-earth Challenge Decks_
 
 {: .hazard-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

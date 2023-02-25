@@ -28,8 +28,6 @@ permalink: /cards/the-nazgul-are-abroad/
 > > Nazgul may attack the company containing the bearer of _The One Ring_ at any site that is not a Free-hold <nobr>[<img src="/assets/images/free-hold.svg">]</nobr> or Haven <nobr>[<img src="/assets/images/free-haven.svg">]</nobr>. <br>&ensp;Nazgul may attack any company possessing any Ring in a Shadow-land <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> or Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr>. <br>&ensp;If _Doors of Night_ is in play, at the end of each turn, each player may return one Nazgul permanent-event from his discard pile to his hand. <br>&ensp;Cannot be duplicated. 
 >
 
-
-
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

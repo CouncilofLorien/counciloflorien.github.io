@@ -30,5 +30,3 @@ permalink: /cards/webs-of-fear-&-treachery/
 > > {: .fs-3 } 
 > > _“‘For Boromir was loyal to me and no wizard's pupil. He would have remembered his father's need...’”_ ***---&#65279;LotRI*** 
 >
-
-

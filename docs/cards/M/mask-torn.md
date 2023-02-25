@@ -30,5 +30,3 @@ permalink: /cards/mask-torn/
 > > {: .fs-3 } 
 > > _“...they smiled, as men do who see through a juggler's trick while others gape at it."_ ***---&#65279;LotRIII*** 
 >
-
-

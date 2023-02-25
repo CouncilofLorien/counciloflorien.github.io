@@ -33,5 +33,3 @@ permalink: /cards/carrion-birds/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 6/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
-
-

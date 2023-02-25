@@ -30,5 +30,3 @@ permalink: /cards/reluctant-final-parting/
 > > {: .fs-3 } 
 > > _“A deep loneliness and sense of loss was on them. They stood silent, reluctant to make the final parting...”_ ***---&#65279;LotRI***  
 >
-
-

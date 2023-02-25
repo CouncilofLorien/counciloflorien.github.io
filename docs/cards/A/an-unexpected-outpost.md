@@ -31,8 +31,6 @@ permalink: /cards/an-unexpected-outpost/
 > > _“...in the high regions the West Wind still blew, but down on the stones behind the fences of the Black Land the air seemed almost dead, chill and yet stifling."_ ***---&#65279;LotRVI*** 
 >
 
-
-
 ### _Middle-earth Challenge Decks_
 
 {: .hazard-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

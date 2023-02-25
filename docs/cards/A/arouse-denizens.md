@@ -31,8 +31,6 @@ permalink: /cards/arouse-denizens/
 > > _“...the goblin army had gathered behind the resisted vanguard, and poured now in rage into the valley...”_ ***---&#65279;Hob*** 
 >
 
-
-
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -66,5 +64,3 @@ permalink: /cards/arouse-denizens/
 > > {: .fs-3 } 
 > > _“...hundreds of black bears dancing slow heavy dances round and round in the moonlight...”_ ***---&#65279;Hob*** 
 >
-
-

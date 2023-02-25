@@ -30,5 +30,3 @@ permalink: /cards/sleepless-malice/
 > > {: .fs-3 } 
 > > _“The night was railing against the morning of which it was bereaved, and the cold was cursing the warmth for which it hungered."_ ***---&#65279;LotRI*** 
 >
-
-

@@ -27,5 +27,3 @@ permalink: /cards/the-roving-eye/
 > {: .hazard-text .black-text .p-2 }
 > > ***Playable on a non-Wizard, non-Ringwraith, character bearing a Palantir, greater item, or ring that is not a gold ring.*** Target character is forced to make corruption check modified by -2. If the character would normally be eliminated as a result of this check, he is instead discarded (along with all cards played with him). 
 >
-
-

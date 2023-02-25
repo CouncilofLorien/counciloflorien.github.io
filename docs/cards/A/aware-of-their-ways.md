@@ -30,5 +30,3 @@ permalink: /cards/aware-of-their-ways/
 > > {: .fs-3 } 
 > > _“Quickly now he drew off the cloth, wrapped the stone in it and kneeling down, laid it back in the wizard's hand."_ ***---&#65279;LotRIII*** 
 >
-
-

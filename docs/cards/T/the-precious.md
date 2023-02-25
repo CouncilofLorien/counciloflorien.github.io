@@ -31,8 +31,6 @@ permalink: /cards/the-precious/
 > > _“‘It is not yours save by unhappy chance. It might have been mine. It should be mine. Give it to me!’”_ ***---&#65279;LotRII*** 
 >
 
-
-
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

@@ -31,8 +31,6 @@ permalink: /cards/morgul-horse/
 > > _“...it was huge and hideous, and its face was a frightful mask...and in the sockets of its eyes and in the nostrils there burned a flame."_ ***---&#65279;LotRV*** 
 >
 
-
-
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

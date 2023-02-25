@@ -27,5 +27,3 @@ permalink: /cards/heedless-revelry/
 > {: .hazard-text .black-text .p-2 }
 > > ***Playable on a non-Ringwraith company that is not moving.*** Make a roll (or draw a #) for each untapped non-Wizard character in the company; modify this roll by -2 for hero characters. If the result is greater than the character's mind, the character becomes tapped.  <br>&ensp;Alternatively, may be revealed as an on-guard card on a company after the successful play of an item, ally, or faction. Tap all untapped non-Ringwraith, non-Wizard characters in the company. 
 >
-
-

@@ -31,8 +31,6 @@ permalink: /cards/the-moon-is-dead/
 > > _“Cold be hand and heart and bone...till the Sun fails and the Moon is dead."_ ***---&#65279;LotRI***  
 >
 
-
-
 ### _Middle-earth Challenge Decks_
 
 {: .hazard-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

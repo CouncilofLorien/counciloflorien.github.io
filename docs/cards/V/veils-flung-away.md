@@ -28,8 +28,6 @@ permalink: /cards/veils-flung-away/
 > > ***Playable on a company moving in a Wilderness*** <nobr>[<img src="/assets/images/wilderness.svg">]</nobr>***, Border-land*** <nobr>[<img src="/assets/images/border-land.svg">]</nobr>***, or Free-domain*** <nobr>[<img src="/assets/images/free-domain.svg">]</nobr> ***if Doors of Night is not in play;*** _does not count against the hazard limit._  Make a body check modified by -1 for each character. Determine if each Orc or Troll character is discarded as indicated on their cards. Otherwise, the body checks have no effect unless an untapped character fails his check, in which case he becomes tapped.  
 >
 
-
-
 ### _Middle-earth Challenge Decks_
 
 {: .hazard-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

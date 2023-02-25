@@ -31,8 +31,6 @@ permalink: /cards/lost-at-sea/
 > > _“The cliffs and rocks, all just grey shapes, stirred behind the veil of thick pale mist...like dancing monsters reveling on the far side of a gossamer curtain."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 >
 
-
-
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

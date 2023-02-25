@@ -30,5 +30,3 @@ permalink: /cards/half-an-eye-open/
 > > {: .fs-3 } 
 > > _“...they keep half an eye open watching while they sleep, if they are suspicious.."_ ***---&#65279;Hob*** 
 >
-
-

@@ -31,8 +31,6 @@ permalink: /cards/lure-of-power/
 > > _“‘But we must have power, power to order all things as we will...’”_ ***---&#65279;LotRII*** 
 >
 
-
-
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

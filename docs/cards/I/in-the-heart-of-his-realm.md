@@ -27,5 +27,3 @@ permalink: /cards/in-the-heart-of-his-realm/
 > {: .hazard-text .black-text .p-2 }
 > > Each company moving in a Dark-domain <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr> draws one less card at the start of its movement/hazard phase (to no minimum). <br>&ensp;Additionally, any sage at a site in a Dark-domain <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr> or Gorgoroth, or moving with a Dark-domain <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr> or Gorgoroth in his site path, loses his sage skill. No character at a site in a Dark-domain <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr> or Gorgoroth, or moving with a Dark-domain <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr> or Gorgoroth in his site path, can use spells, light enchantments, or rituals. Discard when any play deck is exhausted.  
 >
-
-

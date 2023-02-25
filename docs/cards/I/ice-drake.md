@@ -33,5 +33,3 @@ permalink: /cards/ice-drake/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 15/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
-
-

@@ -30,5 +30,3 @@ permalink: /cards/will-shaken/
 > > {: .fs-3 } 
 > > _“For he knew...the thread upon which his doom now hung."_ ***---&#65279;LotRVI***  
 >
-
-

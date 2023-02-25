@@ -30,5 +30,3 @@ permalink: /cards/prowess-of-age/
 > > {: .fs-3 } 
 > > _“‘...Then I was young and tender. Now I am old and strong, strong, strong.’”_ ***---&#65279;Hob*** 
 >
-
-

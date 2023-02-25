@@ -30,5 +30,3 @@ permalink: /cards/will-not-come-down/
 > > {: .fs-3 } 
 > > _“‘...He has gone up into the high places, among the birches that he loves best, and he will not come down.’”_ ***---&#65279;LotRIII*** 
 >
-
-
