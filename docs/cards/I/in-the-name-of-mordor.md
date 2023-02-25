@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/in-the-name-of-mordor/
 ---
 
+# In the Name of Mordor
+
+
 ## PRINTINGS
 
 

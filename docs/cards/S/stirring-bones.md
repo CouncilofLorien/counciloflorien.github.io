@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/stirring-bones/
 ---
 
+# Stirring Bones
+
+
 ## PRINTINGS
 
 
@@ -34,6 +37,8 @@ permalink: /cards/stirring-bones/
 > > <div class="card-shield">【 9/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
+
+
 ### _Middle-earth: The Lidless Eye_
 
 {: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -56,6 +61,8 @@ permalink: /cards/stirring-bones/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 9/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+
 
 ### _Middle-earth Challenge Decks_
 

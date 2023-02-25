@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/early-harvest/
 ---
 
+# Early Harvest
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/early-harvest/
 > > {: .fs-3 } 
 > > _“...the vines were laden...and everywhere there was so much corn that at Harvest every barn was stuffed."_ ***---&#65279;LotRVI*** 
 >
+
+

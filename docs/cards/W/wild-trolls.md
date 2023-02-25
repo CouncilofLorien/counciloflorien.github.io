@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/wild-trolls/
 ---
 
+# Wild Trolls
+
+
 ## PRINTINGS
 
 
@@ -33,3 +36,5 @@ permalink: /cards/wild-trolls/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 10/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/veils-of-shadow/
 ---
 
+# Veils of Shadow
+
+
 ## PRINTINGS
 
 

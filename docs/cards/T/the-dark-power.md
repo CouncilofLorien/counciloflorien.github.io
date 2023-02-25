@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/the-dark-power/
 ---
 
+# The Dark Power
+
+
 ## PRINTINGS
 
 

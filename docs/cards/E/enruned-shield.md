@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/enruned-shield/
 ---
 
+# Enruned Shield
+
+
 ## PRINTINGS
 
 

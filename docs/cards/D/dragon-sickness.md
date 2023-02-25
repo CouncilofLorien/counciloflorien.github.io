@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/dragon-sickness/
 ---
 
+# Dragon-sickness
+
+
 ## PRINTINGS
 
 
@@ -27,6 +30,8 @@ permalink: /cards/dragon-sickness/
 > > {: .fs-3 } 
 > > _“...being of the kind that easily catches such disease he fell under the dragon-sickness, and took most of the gold and fled with it...”_ ***---&#65279;Hob*** 
 >
+
+
 
 ### _Middle-earth Challenge Decks_
 

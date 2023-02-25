@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/a-merrier-world/
 ---
 
+# A Merrier World
+
+
 ## PRINTINGS
 
 

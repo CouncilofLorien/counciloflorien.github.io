@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/men-of-northern-rhovanion/
 ---
 
+# Men of Northern Rhovanion
+
+
 ## PRINTINGS
 
 

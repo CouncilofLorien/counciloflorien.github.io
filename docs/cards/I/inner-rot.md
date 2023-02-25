@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/inner-rot/
 ---
 
+# Inner Rot
+
+
 ## PRINTINGS
 
 
@@ -30,3 +33,5 @@ permalink: /cards/inner-rot/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
 > > <div class="card-corruption-white">〔 1(*) 〕</div>
+
+

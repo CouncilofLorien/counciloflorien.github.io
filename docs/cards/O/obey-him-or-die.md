@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/obey-him-or-die/
 ---
 
+# Obey Him or Die
+
+
 ## PRINTINGS
 
 

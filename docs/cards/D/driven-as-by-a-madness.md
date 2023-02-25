@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/driven-as-by-a-madness/
 ---
 
+# Driven as by a Madness
+
+
 ## PRINTINGS
 
 

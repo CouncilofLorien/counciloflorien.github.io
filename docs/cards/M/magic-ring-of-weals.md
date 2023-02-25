@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/magic-ring-of-weals/
 ---
 
+# Magic Ring of Weals
+
+
 ## PRINTINGS
 
 

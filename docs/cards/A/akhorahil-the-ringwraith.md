@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/akhorahil-the-ringwraith/
 ---
 
+# Akhorahil the Ringwraith
+
+
 ## PRINTINGS
 
 

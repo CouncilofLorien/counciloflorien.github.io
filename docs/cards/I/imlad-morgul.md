@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/imlad-morgul/
 ---
 
+# Imlad Morgul
+
+
 ## PRINTINGS
 
 

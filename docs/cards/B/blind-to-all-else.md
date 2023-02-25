@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/blind-to-all-else/
 ---
 
+# Blind to All Else
+
+
 ## PRINTINGS
 
 

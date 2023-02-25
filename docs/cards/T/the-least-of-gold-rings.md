@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/the-least-of-gold-rings/
 ---
 
+# The Least of Gold Rings
+
+
 ## PRINTINGS
 
 

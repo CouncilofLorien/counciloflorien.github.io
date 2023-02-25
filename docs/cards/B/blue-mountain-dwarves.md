@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/blue-mountain-dwarves/
 ---
 
+# Blue Mountain Dwarves
+
+
 ## PRINTINGS
 
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/half-trolls-of-far-harad/
 ---
 
+# Half-trolls of Far Harad
+
+
 ## PRINTINGS
 
 
@@ -33,6 +36,8 @@ permalink: /cards/half-trolls-of-far-harad/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 10/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 

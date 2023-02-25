@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/a-new-ringlord/
 ---
 
+# A New Ringlord
+
+
 ## PRINTINGS
 
 

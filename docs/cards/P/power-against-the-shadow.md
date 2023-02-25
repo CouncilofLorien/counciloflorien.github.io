@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/power-against-the-shadow/
 ---
 
+# Power Against the Shadow
+
+
 ## PRINTINGS
 
 

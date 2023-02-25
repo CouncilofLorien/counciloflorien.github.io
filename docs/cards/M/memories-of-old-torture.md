@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/memories-of-old-torture/
 ---
 
+# Memories of Old Torture
+
+
 ## PRINTINGS
 
 

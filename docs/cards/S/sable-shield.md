@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/sable-shield/
 ---
 
+# Sable Shield
+
+
 ## PRINTINGS
 
 

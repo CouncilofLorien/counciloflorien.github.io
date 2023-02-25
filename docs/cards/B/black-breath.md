@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/black-breath/
 ---
 
+# Black Breath
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/black-breath/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
 > > <div class="card-corruption-white">〔 3 〕</div>
+
+

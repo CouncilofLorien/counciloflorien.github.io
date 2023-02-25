@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/seized-by-terror/
 ---
 
+# Seized by Terror
+
+
 ## PRINTINGS
 
 
@@ -27,6 +30,8 @@ permalink: /cards/seized-by-terror/
 > > {: .fs-3 } 
 > > _“Terror seized him. He shrank back, and for a moment he stood trembling in the hall."_ ***---&#65279;LotRI***  
 >
+
+
 
 ### _Middle-earth Challenge Decks_
 

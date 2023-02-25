@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/motionless-among-the-slain/
 ---
 
+# Motionless Among the Slain
+
+
 ## PRINTINGS
 
 

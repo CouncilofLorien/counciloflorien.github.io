@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/bag-end/
 ---
 
+# Bag End
+
+
 ## PRINTINGS
 
 

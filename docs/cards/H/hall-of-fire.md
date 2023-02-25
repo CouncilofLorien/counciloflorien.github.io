@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/hall-of-fire/
 ---
 
+# Hall of Fire
+
+
 ## PRINTINGS
 
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/wizards-laughter/
 ---
 
+# Wizard's Laughter
+
+
 ## PRINTINGS
 
 

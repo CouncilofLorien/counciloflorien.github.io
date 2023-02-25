@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/great-shadow/
 ---
 
+# Great Shadow
+
+
 ## PRINTINGS
 
 

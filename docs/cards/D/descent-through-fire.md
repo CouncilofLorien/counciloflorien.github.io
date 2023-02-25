@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/descent-through-fire/
 ---
 
+# Descent through Fire
+
+
 ## PRINTINGS
 
 

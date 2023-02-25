@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/arouse-minions/
 ---
 
+# Arouse Minions
+
+
 ## PRINTINGS
 
 
@@ -27,6 +30,8 @@ permalink: /cards/arouse-minions/
 > > {: .fs-3 } 
 > > _“Long had it been forging in the dark smithies of Mordor, ...on it spells of ruin lay. Grond they named it, in memory of the Hammer of the Underworld of old."_ ***---&#65279;LotRV*** 
 >
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 

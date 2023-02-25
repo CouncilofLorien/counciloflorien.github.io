@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/habergeon-of-silver/
 ---
 
+# Habergeon of Silver
+
+
 ## PRINTINGS
 
 

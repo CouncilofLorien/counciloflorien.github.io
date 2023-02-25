@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/orc-raiders/
 ---
 
+# Orc-raiders
+
+
 ## PRINTINGS
 
 
@@ -33,6 +36,8 @@ permalink: /cards/orc-raiders/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 6/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 
@@ -102,3 +107,5 @@ permalink: /cards/orc-raiders/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 6/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+

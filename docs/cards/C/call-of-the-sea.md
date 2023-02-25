@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/call-of-the-sea/
 ---
 
+# Call of the Sea
+
+
 ## PRINTINGS
 
 
@@ -24,6 +27,8 @@ permalink: /cards/call-of-the-sea/
 > {: .hazard-text .black-text .p-2 }
 > > ***Playable on an Elf character.*** The character's player must make a roll (or draw a #). Return the character to the player's hand if this result plus his unused general influence is less than 10. This result is modified by -3 if the character's company moved this turn using a site path containing a Coastal Sea <nobr>[<img src="/assets/images/coastalsea.svg">]</nobr>. <br>&ensp;Any one item held by a character removed in this fashion may automatically be transferred to another character in his company. 
 >
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 

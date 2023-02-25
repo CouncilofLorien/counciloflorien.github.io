@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/wild-hounds/
 ---
 
+# Wild Hounds
+
+
 ## PRINTINGS
 
 

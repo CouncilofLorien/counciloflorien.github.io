@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/winged-change-master/
 ---
 
+# Winged Change-master
+
+
 ## PRINTINGS
 
 

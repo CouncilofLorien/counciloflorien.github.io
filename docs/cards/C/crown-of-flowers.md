@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/crown-of-flowers/
 ---
 
+# Crown of Flowers
+
+
 ## PRINTINGS
 
 

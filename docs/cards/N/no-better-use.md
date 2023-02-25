@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/no-better-use/
 ---
 
+# No Better Use
+
+
 ## PRINTINGS
 
 

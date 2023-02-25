@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/orc-warband/
 ---
 
+# Orc-warband
+
+
 ## PRINTINGS
 
 
@@ -33,6 +36,8 @@ permalink: /cards/orc-warband/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 4/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 
@@ -79,6 +84,8 @@ permalink: /cards/orc-warband/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 4/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+
 
 ### _Middle-earth Challenge Decks_
 

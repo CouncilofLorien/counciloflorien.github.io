@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/pallandos-apprentice/
 ---
 
+# Pallando's Apprentice
+
+
 ## PRINTINGS
 
 

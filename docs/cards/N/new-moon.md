@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/new-moon/
 ---
 
+# New Moon
+
+
 ## PRINTINGS
 
 
@@ -27,6 +30,8 @@ permalink: /cards/new-moon/
 > > {: .fs-3 } 
 > > _“‘It's very strange,' he murmured, '...a New Moon as thin as a nail-pairing...’”_ ***---&#65279;LotRII*** 
 >
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 

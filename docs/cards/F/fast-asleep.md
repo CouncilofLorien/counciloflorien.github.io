@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/fast-asleep/
 ---
 
+# Fast Asleep
+
+
 ## PRINTINGS
 
 

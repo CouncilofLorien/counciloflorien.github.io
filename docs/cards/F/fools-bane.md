@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/fools-bane/
 ---
 
+# Fool's Bane
+
+
 ## PRINTINGS
 
 
@@ -24,3 +27,5 @@ permalink: /cards/fools-bane/
 > {: .hazard-text .black-text .p-2 }
 > > ***Playable on a Fallen-wizard.*** Influence checks he makes against hero resources are modified by: -9 if his stage points (SPs) exceed 18, -7 if his SPs exceed 12, -5 if his SPs exceed 7, -3 if his SPs exceed 3, -1 if his SPs exceed 0 (use the first modifier that applies). <br>&ensp;Additionally, his Elf characters and Elf factions are each worth 0 marshalling points in all cases. Cannot be duplicated on a given Fallen-wizard. Discard when any play deck is exhausted.  
 >
+
+

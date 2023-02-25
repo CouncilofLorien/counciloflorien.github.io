@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/palantir-of-elostirion/
 ---
 
+# Palantir of Elostirion
+
+
 ## PRINTINGS
 
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/shadow-of-mordor/
 ---
 
+# Shadow of Mordor
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/shadow-of-mordor/
 > > {: .fs-3 } 
 > > _“‘...Alas! Mordor draws all wicked things...’”_ ***---&#65279;LotRI*** 
 >
+
+

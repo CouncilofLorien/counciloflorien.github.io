@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/a-little-gold-ring/
 ---
 
+# A Little Gold Ring
+
+
 ## PRINTINGS
 
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/the-tormented-earth/
 ---
 
+# The Tormented Earth
+
+
 ## PRINTINGS
 
 

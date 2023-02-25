@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/wisdom-to-wield/
 ---
 
+# Wisdom to Wield
+
+
 ## PRINTINGS
 
 

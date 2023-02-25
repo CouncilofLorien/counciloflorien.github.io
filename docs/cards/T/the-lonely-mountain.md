@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/the-lonely-mountain/
 ---
 
+# The Lonely Mountain
+
+
 ## PRINTINGS
 
 

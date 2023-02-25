@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/an-untimely-whisper/
 ---
 
+# An Untimely Whisper
+
+
 ## PRINTINGS
 
 

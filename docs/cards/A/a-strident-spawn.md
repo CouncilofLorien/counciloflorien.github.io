@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/a-strident-spawn/
 ---
 
+# A Strident Spawn
+
+
 ## PRINTINGS
 
 

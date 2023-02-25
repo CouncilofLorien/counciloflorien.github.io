@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/lucky-search/
 ---
 
+# Lucky Search
+
+
 ## PRINTINGS
 
 

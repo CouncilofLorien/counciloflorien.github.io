@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/durins-folk/
 ---
 
+# Durin's Folk
+
+
 ## PRINTINGS
 
 
@@ -33,3 +36,5 @@ permalink: /cards/durins-folk/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 8/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+

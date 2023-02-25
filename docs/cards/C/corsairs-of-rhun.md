@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/corsairs-of-rhun/
 ---
 
+# Corsairs of Rhun
+
+
 ## PRINTINGS
 
 

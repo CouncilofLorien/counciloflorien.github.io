@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/mount-slain/
 ---
 
+# Mount Slain
+
+
 ## PRINTINGS
 
 

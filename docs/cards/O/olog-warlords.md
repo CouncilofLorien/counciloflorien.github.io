@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/olog-warlords/
 ---
 
+# Olog Warlords
+
+
 ## PRINTINGS
 
 
@@ -33,3 +36,5 @@ permalink: /cards/olog-warlords/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 10/4 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+

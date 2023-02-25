@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/blazon-of-the-eye/
 ---
 
+# Blazon of the Eye
+
+
 ## PRINTINGS
 
 

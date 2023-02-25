@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/thrall-ring/
 ---
 
+# Thrall-ring
+
+
 ## PRINTINGS
 
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/world-gnawed-by-the-nameless/
 ---
 
+# World Gnawed by the Nameless
+
+
 ## PRINTINGS
 
 

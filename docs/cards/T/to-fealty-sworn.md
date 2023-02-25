@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/to-fealty-sworn/
 ---
 
+# To Fealty Sworn
+
+
 ## PRINTINGS
 
 

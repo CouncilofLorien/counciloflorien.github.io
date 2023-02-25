@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/people-diminished/
 ---
 
+# People Diminished
+
+
 ## PRINTINGS
 
 

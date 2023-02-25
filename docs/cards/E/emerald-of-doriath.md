@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/emerald-of-doriath/
 ---
 
+# Emerald of Doriath
+
+
 ## PRINTINGS
 
 

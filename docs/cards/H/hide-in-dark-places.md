@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/hide-in-dark-places/
 ---
 
+# Hide in Dark Places
+
+
 ## PRINTINGS
 
 

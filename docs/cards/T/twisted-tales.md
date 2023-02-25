@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/twisted-tales/
 ---
 
+# Twisted Tales
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/twisted-tales/
 > > {: .fs-3 } 
 > > _“‘Too long have you sat in shadows and trusted to twisted tales and crooked promptings.’”_ ***---&#65279;LotRIII*** 
 >
+
+

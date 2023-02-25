@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/praise-to-elbereth/
 ---
 
+# Praise to Elbereth
+
+
 ## PRINTINGS
 
 

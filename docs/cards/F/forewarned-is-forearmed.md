@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/forewarned-is-forearmed/
 ---
 
+# Forewarned is Forearmed
+
+
 ## PRINTINGS
 
 

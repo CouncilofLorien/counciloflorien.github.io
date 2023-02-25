@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/no-waiting-to-wonder/
 ---
 
+# No Waiting to Wonder
+
+
 ## PRINTINGS
 
 

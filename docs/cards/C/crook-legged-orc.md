@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/crook-legged-orc/
 ---
 
+# Crook-legged Orc
+
+
 ## PRINTINGS
 
 

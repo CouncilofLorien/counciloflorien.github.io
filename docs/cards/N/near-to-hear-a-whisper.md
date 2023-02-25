@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/near-to-hear-a-whisper/
 ---
 
+# Near to Hear a Whisper
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/near-to-hear-a-whisper/
 > > {: .fs-3 } 
 > > _“‘He can smell us, perhaps. And he can hear keen as Elves, I believe. I think he has heard something now: our voices probably.’”_ ***---&#65279;LotRIV*** 
 >
+
+

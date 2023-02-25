@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/book-of-mazarbul/
 ---
 
+# Book of Mazarbul
+
+
 ## PRINTINGS
 
 

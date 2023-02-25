@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/down-down-to-goblin-town/
 ---
 
+# Down Down to Goblin-town
+
+
 ## PRINTINGS
 
 

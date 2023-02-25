@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/master-of-the-house/
 ---
 
+# Master of the House
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/master-of-the-house/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 14/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+

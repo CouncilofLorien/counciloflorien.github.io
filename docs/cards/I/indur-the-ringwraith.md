@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/indur-the-ringwraith/
 ---
 
+# Indur the Ringwraith
+
+
 ## PRINTINGS
 
 

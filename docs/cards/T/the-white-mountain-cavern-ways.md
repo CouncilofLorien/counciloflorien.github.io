@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/the-white-mountain-cavern-ways/
 ---
 
+# The White Mountain Cavern-ways
+
+
 ## PRINTINGS
 
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/wizard-uncloaked/
 ---
 
+# Wizard Uncloaked
+
+
 ## PRINTINGS
 
 

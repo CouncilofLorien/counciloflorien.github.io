@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/slayer/
 ---
 
+# Slayer
+
+
 ## PRINTINGS
 
 
@@ -33,6 +36,8 @@ permalink: /cards/slayer/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 11/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 
@@ -79,6 +84,8 @@ permalink: /cards/slayer/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 11/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+
 
 ### _Middle-earth Challenge Decks_
 

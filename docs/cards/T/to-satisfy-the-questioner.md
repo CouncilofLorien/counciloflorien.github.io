@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/to-satisfy-the-questioner/
 ---
 
+# To Satisfy the Questioner
+
+
 ## PRINTINGS
 
 

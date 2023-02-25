@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/dwarven-ring-of-durins-tribe/
 ---
 
+# Dwarven Ring of Durin's Tribe
+
+
 ## PRINTINGS
 
 

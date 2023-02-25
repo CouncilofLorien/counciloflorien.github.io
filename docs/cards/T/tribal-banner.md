@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/tribal-banner/
 ---
 
+# Tribal Banner
+
+
 ## PRINTINGS
 
 
@@ -24,3 +27,5 @@ permalink: /cards/tribal-banner/
 > {: .hazard-text .black-text .p-2 }
 > > ***Playable on an Orc or Troll attack before strikes are assigned;*** _does not count against the hazard limit_. The prowess and body of target attack are each reduced by one. All body checks resulting from successful strikes of this attack are modified by +1. Cannot be duplicated on a given attack. 
 >
+
+

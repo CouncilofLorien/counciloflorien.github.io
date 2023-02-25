@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/great-army-of-the-north/
 ---
 
+# Great Army of the North
+
+
 ## PRINTINGS
 
 

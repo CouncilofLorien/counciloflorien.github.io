@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/the-ring-leaves-its-mark/
 ---
 
+# The Ring Leaves Its Mark
+
+
 ## PRINTINGS
 
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/thong-of-fire/
 ---
 
+# Thong of Fire
+
+
 ## PRINTINGS
 
 

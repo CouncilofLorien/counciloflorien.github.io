@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/evil-things-lingering/
 ---
 
+# Evil Things Lingering
+
+
 ## PRINTINGS
 
 

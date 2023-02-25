@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/rumor-of-wealth/
 ---
 
+# Rumor of Wealth
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/rumor-of-wealth/
 > > {: .fs-3 } 
 > > _“So the rumour of the wealth of Erebor spread abroad and reached the ears of the Dragons...”_ ***---&#65279;LotR*** 
 >
+
+

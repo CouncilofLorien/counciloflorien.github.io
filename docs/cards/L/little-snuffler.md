@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/little-snuffler/
 ---
 
+# Little Snuffler
+
+
 ## PRINTINGS
 
 
@@ -33,6 +36,8 @@ permalink: /cards/little-snuffler/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 5/10 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+
 
 ### _Middle-earth Challenge Decks_
 

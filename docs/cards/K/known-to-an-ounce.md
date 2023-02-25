@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/known-to-an-ounce/
 ---
 
+# Known to an Ounce
+
+
 ## PRINTINGS
 
 
@@ -24,3 +27,5 @@ permalink: /cards/known-to-an-ounce/
 > {: .hazard-text .black-text .p-2 }
 > > ***Playable on a site that contains a hoard or on a Dragon at home manifestation.*** If any item is played at the site _or_ at the site associated with the Dragon at home manifestation, the site's automatic-attacks are again faced. <br>&ensp;Discard this card when the associated site or Dragon manifestation leaves play. Cannot be duplicated on a given site or Dragon manifestation. 
 >
+
+

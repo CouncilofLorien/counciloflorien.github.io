@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/kill-all-but-not-the-halflings/
 ---
 
+# Kill All But NOT the Halflings
+
+
 ## PRINTINGS
 
 

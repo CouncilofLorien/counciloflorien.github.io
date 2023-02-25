@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/vein-of-arda/
 ---
 
+# Vein of Arda
+
+
 ## PRINTINGS
 
 

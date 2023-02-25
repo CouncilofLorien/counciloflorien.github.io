@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/palantir-of-amon-sul/
 ---
 
+# Palantir of Amon Sul
+
+
 ## PRINTINGS
 
 

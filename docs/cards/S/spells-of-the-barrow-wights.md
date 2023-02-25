@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/spells-of-the-barrow-wights/
 ---
 
+# Spells of the Barrow-wights
+
+
 ## PRINTINGS
 
 
@@ -24,3 +27,5 @@ permalink: /cards/spells-of-the-barrow-wights/
 > {: .hazard-text .black-text .p-2 }
 > > ***Playable on a character facing an Undead strike.*** If the strike is successful, target character is not harmed and is taken prisoner at a Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> or Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr>. Character must discard any rings along with his other items. At the start of each untap phase, make a body check for that character. <br>&ensp;Rescue-attack: Undead --- 3 strikes with 8 prowess.  
 >
+
+

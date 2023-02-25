@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/a-more-evil-hour/
 ---
 
+# A More Evil Hour
+
+
 ## PRINTINGS
 
 

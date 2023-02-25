@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/padding-feet/
 ---
 
+# Padding Feet
+
+
 ## PRINTINGS
 
 

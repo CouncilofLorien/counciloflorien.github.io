@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/dragons-terror/
 ---
 
+# Dragon's Terror
+
+
 ## PRINTINGS
 
 
@@ -24,3 +27,5 @@ permalink: /cards/dragons-terror/
 > {: .hazard-text .black-text .p-2 }
 > > _Dark enchantment._ ***Playable on a Dragon or Drake hazard creature attack before the strikes are assigned.*** For each card you discard from your hand when _Dragon's Terror_ is declared, target one non-Wizard character of your choice in the defending company and make a roll (or draw a #)---add +2 for a Dragon attack. If the result is greater than the character's mind, the character taps. Each card discarded in this fashion counts as one against the company's hazard limit. 
 >
+
+

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/leucaruth-at-home/
 ---
 
+# Leucaruth at Home
+
+
 ## PRINTINGS
 
 
@@ -30,3 +33,5 @@ permalink: /cards/leucaruth-at-home/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 17/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+

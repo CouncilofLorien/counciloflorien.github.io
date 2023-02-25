@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/the-ash-mountain-deeps/
 ---
 
+# The Ash Mountain Deeps
+
+
 ## PRINTINGS
 
 

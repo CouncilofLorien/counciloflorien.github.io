@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/sellswords-between-charters/
 ---
 
+# Sellswords Between Charters
+
+
 ## PRINTINGS
 
 
@@ -33,6 +36,8 @@ permalink: /cards/sellswords-between-charters/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 11/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+
 
 ### _Middle-earth Challenge Decks_
 

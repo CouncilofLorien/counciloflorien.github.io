@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/fori-the-beardless/
 ---
 
+# Fori the Beardless
+
+
 ## PRINTINGS
 
 

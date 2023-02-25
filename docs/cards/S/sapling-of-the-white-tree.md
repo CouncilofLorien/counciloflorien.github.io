@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/sapling-of-the-white-tree/
 ---
 
+# Sapling of the White Tree
+
+
 ## PRINTINGS
 
 

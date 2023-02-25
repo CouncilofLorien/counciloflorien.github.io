@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/mouth-of-sauron/
 ---
 
+# Mouth of Sauron
+
+
 ## PRINTINGS
 
 
@@ -33,6 +36,8 @@ permalink: /cards/mouth-of-sauron/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 13/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 

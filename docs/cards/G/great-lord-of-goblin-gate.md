@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/great-lord-of-goblin-gate/
 ---
 
+# Great Lord of Goblin-gate
+
+
 ## PRINTINGS
 
 

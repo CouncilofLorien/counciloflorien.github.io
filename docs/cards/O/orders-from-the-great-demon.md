@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/orders-from-the-great-demon/
 ---
 
+# Orders from the Great Demon
+
+
 ## PRINTINGS
 
 

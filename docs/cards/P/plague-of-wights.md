@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/plague-of-wights/
 ---
 
+# Plague of Wights
+
+
 ## PRINTINGS
 
 
@@ -27,6 +30,8 @@ permalink: /cards/plague-of-wights/
 > > {: .fs-3 } 
 > > _“‘But only evil wights dwell there now, and I will not willingly tell more of them.’”_ ***---&#65279;LotRV*** 
 >
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 
@@ -61,6 +66,8 @@ permalink: /cards/plague-of-wights/
 > > {: .fs-3 } 
 > > _“‘...the Shadow Host that had hung back at the last came up like a grey tide, sweeping away all before it."_ ***---&#65279;LotRI*** 
 >
+
+
 
 ### _Middle-earth Challenge Decks_
 

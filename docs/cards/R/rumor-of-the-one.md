@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/rumor-of-the-one/
 ---
 
+# Rumor of the One
+
+
 ## PRINTINGS
 
 

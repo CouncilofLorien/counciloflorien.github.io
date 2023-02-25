@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/black-hide-shield/
 ---
 
+# Black-hide Shield
+
+
 ## PRINTINGS
 
 

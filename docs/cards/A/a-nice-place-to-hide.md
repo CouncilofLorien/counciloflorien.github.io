@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/a-nice-place-to-hide/
 ---
 
+# A Nice Place to Hide
+
+
 ## PRINTINGS
 
 

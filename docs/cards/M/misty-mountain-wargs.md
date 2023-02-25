@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/misty-mountain-wargs/
 ---
 
+# Misty Mountain Wargs
+
+
 ## PRINTINGS
 
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/uruk-hai/
 ---
 
+# Uruk-hai
+
+
 ## PRINTINGS
 
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/men-of-dorwinion/
 ---
 
+# Men of Dorwinion
+
+
 ## PRINTINGS
 
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/scimitars-of-steel/
 ---
 
+# Scimitars of Steel
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/scimitars-of-steel/
 > > {: .fs-3 } 
 > > _“Day drew on. The goblins gathered again in the valley. There a host of Wargs came ravening and with them came the bodyguard of Bolg, goblins of huge size with scimitars of steel."_ ***---&#65279;Hob***  
 >
+
+

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/oromes-warders/
 ---
 
+# Orome's Warders
+
+
 ## PRINTINGS
 
 

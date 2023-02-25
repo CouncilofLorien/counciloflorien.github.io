@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/glove-of-radagast/
 ---
 
+# Glove of Radagast
+
+
 ## PRINTINGS
 
 

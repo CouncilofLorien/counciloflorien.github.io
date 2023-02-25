@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/mirror-of-galadriel/
 ---
 
+# Mirror of Galadriel
+
+
 ## PRINTINGS
 
 

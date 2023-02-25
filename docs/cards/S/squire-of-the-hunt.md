@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/squire-of-the-hunt/
 ---
 
+# Squire of the Hunt
+
+
 ## PRINTINGS
 
 

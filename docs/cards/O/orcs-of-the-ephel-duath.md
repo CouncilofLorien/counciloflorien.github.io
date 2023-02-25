@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/orcs-of-the-ephel-duath/
 ---
 
+# Orcs of the Ephel Duath
+
+
 ## PRINTINGS
 
 

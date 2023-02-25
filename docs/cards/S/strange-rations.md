@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/strange-rations/
 ---
 
+# Strange Rations
+
+
 ## PRINTINGS
 
 

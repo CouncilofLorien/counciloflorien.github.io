@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/dagger-of-westernesse/
 ---
 
+# Dagger of Westernesse
+
+
 ## PRINTINGS
 
 

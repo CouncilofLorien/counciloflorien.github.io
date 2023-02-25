@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/fate-of-the-ithil-stone/
 ---
 
+# Fate of the Ithil-Stone
+
+
 ## PRINTINGS
 
 

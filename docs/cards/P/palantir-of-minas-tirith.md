@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/palantir-of-minas-tirith/
 ---
 
+# Palantir of Minas Tirith
+
+
 ## PRINTINGS
 
 

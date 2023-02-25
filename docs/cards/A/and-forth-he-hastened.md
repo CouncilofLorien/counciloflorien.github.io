@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/and-forth-he-hastened/
 ---
 
+# And Forth He Hastened
+
+
 ## PRINTINGS
 
 

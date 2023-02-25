@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/lucky-strike/
 ---
 
+# Lucky Strike
+
+
 ## PRINTINGS
 
 

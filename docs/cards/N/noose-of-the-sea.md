@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/noose-of-the-sea/
 ---
 
+# Noose of the Sea
+
+
 ## PRINTINGS
 
 
@@ -24,3 +27,5 @@ permalink: /cards/noose-of-the-sea/
 > {: .hazard-text .black-text .p-2 }
 > > Affects each company with a Coastal Sea <nobr>[<img src="/assets/images/coastalsea.svg">]</nobr> in its site path. The on-going effects of all resource short-events that were played during the organization phase are cancelled for the duration of the movement/hazard phase and the site phase. Such short-events have no effect on this card (i.e., it may not cancelled by such a short-event). 
 >
+
+

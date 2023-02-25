@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/the-reviled-ring/
 ---
 
+# The Reviled Ring
+
+
 ## PRINTINGS
 
 

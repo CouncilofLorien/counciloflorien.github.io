@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/bow-of-the-galadhrim/
 ---
 
+# Bow of the Galadhrim
+
+
 ## PRINTINGS
 
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/fatty-bolger/
 ---
 
+# Fatty Bolger
+
+
 ## PRINTINGS
 
 

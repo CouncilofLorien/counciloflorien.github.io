@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/minions-stir/
 ---
 
+# Minions Stir
+
+
 ## PRINTINGS
 
 
@@ -27,6 +30,8 @@ permalink: /cards/minions-stir/
 > > {: .fs-3 } 
 > > _“...for in the gloom the Shadow Host seemed to grow stronger and more terrible to look upon."_ ***---&#65279;LotRV*** 
 >
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 
@@ -81,6 +86,8 @@ permalink: /cards/minions-stir/
 > > {: .fs-3 } 
 > > _“Tom got the branch in his teeth for that, and lost one of the front ones."_ ***---&#65279;Hob*** 
 >
+
+
 
 ### _Middle-earth Challenge Decks_
 

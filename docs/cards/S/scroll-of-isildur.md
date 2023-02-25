@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/scroll-of-isildur/
 ---
 
+# Scroll of Isildur
+
+
 ## PRINTINGS
 
 

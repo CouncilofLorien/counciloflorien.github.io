@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/rumours-of-rings/
 ---
 
+# Rumours of Rings
+
+
 ## PRINTINGS
 
 

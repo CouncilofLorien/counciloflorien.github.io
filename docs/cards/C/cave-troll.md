@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/cave-troll/
 ---
 
+# Cave Troll
+
+
 ## PRINTINGS
 
 

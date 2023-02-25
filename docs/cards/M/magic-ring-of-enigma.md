@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/magic-ring-of-enigma/
 ---
 
+# Magic Ring of Enigma
+
+
 ## PRINTINGS
 
 

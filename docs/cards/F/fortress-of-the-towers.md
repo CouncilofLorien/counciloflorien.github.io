@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/fortress-of-the-towers/
 ---
 
+# Fortress of the Towers
+
+
 ## PRINTINGS
 
 

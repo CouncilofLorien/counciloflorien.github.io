@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/bitter-cold/
 ---
 
+# Bitter Cold
+
+
 ## PRINTINGS
 
 

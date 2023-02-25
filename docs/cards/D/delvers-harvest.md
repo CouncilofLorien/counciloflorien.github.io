@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/delvers-harvest/
 ---
 
+# Delver's Harvest
+
+
 ## PRINTINGS
 
 

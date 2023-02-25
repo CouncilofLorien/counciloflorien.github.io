@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/subtlety-of-guile/
 ---
 
+# Subtlety of Guile
+
+
 ## PRINTINGS
 
 
@@ -24,3 +27,5 @@ permalink: /cards/subtlety-of-guile/
 > {: .hazard-text .black-text .p-2 }
 > > The body of one non-Wizard character wounded by a Dragon attack is lowered by 1 unil the end of the turn. <br>&ensp;Alternatively, lowers the body of one non-Wizard character wounded by a manifestation of _Itangast_ by 2 until the end of turn **or** lowers the body of each non-Wizard character in a company facing an attack by a manifestation of _Itangast_ by one until the end of the turn. <br>&ensp;Cannot be duplicated on a given character or company. 
 >
+
+

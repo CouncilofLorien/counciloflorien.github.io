@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/sudden-fury/
 ---
 
+# Sudden Fury
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/sudden-fury/
 > > {: .fs-3 } 
 > > _“Gollum and Frodo were locked together. Gollum was tearing at his master, trying to get at the chain and the ring. ... He fought back with a sudden fury that amazed Sam and Gollum also."_ ***---&#65279;LotRVI***  
 >
+
+

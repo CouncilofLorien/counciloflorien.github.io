@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/girdle-of-radagast/
 ---
 
+# Girdle of Radagast
+
+
 ## PRINTINGS
 
 

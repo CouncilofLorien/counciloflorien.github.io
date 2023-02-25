@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/no-news-of-our-riding/
 ---
 
+# No News of Our Riding
+
+
 ## PRINTINGS
 
 

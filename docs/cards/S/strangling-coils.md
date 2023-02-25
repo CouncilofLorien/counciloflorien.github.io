@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/strangling-coils/
 ---
 
+# Strangling Coils
+
+
 ## PRINTINGS
 
 

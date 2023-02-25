@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/foul-tooth-unsheathed/
 ---
 
+# Foul Tooth Unsheathed
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/foul-tooth-unsheathed/
 > > {: .fs-3 } 
 > > _“‘...One ill turn deserves another.’”_ ***---&#65279;LotRVI*** 
 >
+
+

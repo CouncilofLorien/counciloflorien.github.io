@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/chill-them-with-fear/
 ---
 
+# Chill Them with Fear
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/chill-them-with-fear/
 > > {: .fs-3 } 
 > > _“...yet another weapon, swifter than hunger...dread and despair."_ ***---&#65279;LotRV*** 
 >
+
+

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/helm-of-her-secrecy/
 ---
 
+# Helm of Her Secrecy
+
+
 ## PRINTINGS
 
 

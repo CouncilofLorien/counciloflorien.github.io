@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/darkness-wielded/
 ---
 
+# Darkness Wielded
+
+
 ## PRINTINGS
 
 

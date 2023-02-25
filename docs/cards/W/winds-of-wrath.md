@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/winds-of-wrath/
 ---
 
+# Winds of Wrath
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/winds-of-wrath/
 > > {: .fs-3 } 
 > > _“The winds of wrath came driving him, <br>and blindly in the foam he fled <br>from west to east and errandless...”_ ***---&#65279;LotRII*** 
 >
+
+

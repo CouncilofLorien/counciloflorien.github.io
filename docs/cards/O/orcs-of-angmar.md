@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/orcs-of-angmar/
 ---
 
+# Orcs of Angmar
+
+
 ## PRINTINGS
 
 

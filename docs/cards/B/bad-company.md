@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/bad-company/
 ---
 
+# Bad Company
+
+
 ## PRINTINGS
 
 

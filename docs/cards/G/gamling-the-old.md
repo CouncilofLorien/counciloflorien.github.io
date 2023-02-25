@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/gamling-the-old/
 ---
 
+# Gamling the Old
+
+
 ## PRINTINGS
 
 

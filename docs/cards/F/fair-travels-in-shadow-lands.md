@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/fair-travels-in-shadow-lands/
 ---
 
+# Fair Travels in Shadow-lands
+
+
 ## PRINTINGS
 
 

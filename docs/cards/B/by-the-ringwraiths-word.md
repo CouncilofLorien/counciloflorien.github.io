@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/by-the-ringwraiths-word/
 ---
 
+# By the Ringwraith's Word
+
+
 ## PRINTINGS
 
 

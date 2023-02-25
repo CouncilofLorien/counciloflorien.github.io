@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/the-border-watch/
 ---
 
+# The Border-watch
+
+
 ## PRINTINGS
 
 
@@ -33,3 +36,5 @@ permalink: /cards/the-border-watch/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 7/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/prophet-of-doom/
 ---
 
+# Prophet of Doom
+
+
 ## PRINTINGS
 
 

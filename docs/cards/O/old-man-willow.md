@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/old-man-willow/
 ---
 
+# Old Man Willow
+
+
 ## PRINTINGS
 
 
@@ -30,6 +33,8 @@ permalink: /cards/old-man-willow/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 13/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 

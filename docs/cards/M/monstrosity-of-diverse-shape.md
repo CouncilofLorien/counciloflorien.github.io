@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/monstrosity-of-diverse-shape/
 ---
 
+# Monstrosity of Diverse Shape
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/monstrosity-of-diverse-shape/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 15/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+

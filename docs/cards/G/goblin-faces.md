@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/goblin-faces/
 ---
 
+# Goblin-faces
+
+
 ## PRINTINGS
 
 
@@ -30,3 +33,5 @@ permalink: /cards/goblin-faces/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 7/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+

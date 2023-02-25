@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/minas-morgul/
 ---
 
+# Minas Morgul
+
+
 ## PRINTINGS
 
 

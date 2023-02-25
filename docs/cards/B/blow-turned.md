@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/blow-turned/
 ---
 
+# Blow Turned
+
+
 ## PRINTINGS
 
 

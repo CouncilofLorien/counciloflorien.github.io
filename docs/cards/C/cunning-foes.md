@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/cunning-foes/
 ---
 
+# Cunning Foes
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/cunning-foes/
 > > {: .fs-3 } 
 > > _“At that moment there was a twang of bowstrings: several arrows whistled over them, and some fell among them...”_ ***---&#65279;LotRII*** 
 >
+
+

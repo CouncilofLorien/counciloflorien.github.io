@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/gloom/
 ---
 
+# Gloom
+
+
 ## PRINTINGS
 
 
@@ -24,6 +27,8 @@ permalink: /cards/gloom/
 > {: .hazard-text .black-text .p-2 }
 > > _Environment._ Playable only on a company that is moving this turn. One character (attacker's choice) in that company suffers -1 to his prowess until the end of the turn. <br>&ensp;Alternatively, if _Doors of Night_ is in play, treat one Border-land <nobr>[<img src="/assets/images/border-land.svg">]</nobr> as a Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> **or** one Border-hold <nobr>[<img src="/assets/images/border-hold.svg">]</nobr> as a Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> until the end of the turn. <br>&ensp;Cannot be duplicated. 
 >
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 

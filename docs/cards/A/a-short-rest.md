@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/a-short-rest/
 ---
 
+# A Short Rest
+
+
 ## PRINTINGS
 
 

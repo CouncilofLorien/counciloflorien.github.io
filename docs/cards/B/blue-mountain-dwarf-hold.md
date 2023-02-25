@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/blue-mountain-dwarf-hold/
 ---
 
+# Blue Mountain Dwarf-hold
+
+
 ## PRINTINGS
 
 

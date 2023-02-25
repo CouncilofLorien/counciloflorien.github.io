@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/ireful-flames/
 ---
 
+# Ireful Flames
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/ireful-flames/
 > > {: .fs-3 } 
 > > _“‘...It has been said that dragon-fire could melt and consume the Rings of Power...’”_ ***---&#65279;LotRI*** 
 >
+
+

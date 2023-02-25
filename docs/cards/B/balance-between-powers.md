@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/balance-between-powers/
 ---
 
+# Balance Between Powers
+
+
 ## PRINTINGS
 
 

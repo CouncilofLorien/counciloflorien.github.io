@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/parsimony-of-seclusion/
 ---
 
+# Parsimony of Seclusion
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/parsimony-of-seclusion/
 > > {: .fs-3 } 
 > > _“...all the land was desolate and empty."_ ***---&#65279;Hob*** 
 >
+
+

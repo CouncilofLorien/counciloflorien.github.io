@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/not-slay-needlessly/
 ---
 
+# Not Slay Needlessly
+
+
 ## PRINTINGS
 
 

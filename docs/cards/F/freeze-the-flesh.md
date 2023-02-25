@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/freeze-the-flesh/
 ---
 
+# Freeze the Flesh
+
+
 ## PRINTINGS
 
 

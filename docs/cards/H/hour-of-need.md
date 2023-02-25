@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/hour-of-need/
 ---
 
+# Hour of Need
+
+
 ## PRINTINGS
 
 

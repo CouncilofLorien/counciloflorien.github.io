@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/wizards-trove/
 ---
 
+# Wizard's Trove
+
+
 ## PRINTINGS
 
 

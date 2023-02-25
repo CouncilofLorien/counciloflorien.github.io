@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/smaug/
 ---
 
+# Smaug
+
+
 ## PRINTINGS
 
 
@@ -27,6 +30,8 @@ permalink: /cards/smaug/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 17/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 

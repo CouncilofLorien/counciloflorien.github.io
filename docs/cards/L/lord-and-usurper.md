@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/lord-and-usurper/
 ---
 
+# Lord and Usurper
+
+
 ## PRINTINGS
 
 

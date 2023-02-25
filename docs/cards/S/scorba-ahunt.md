@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/scorba-ahunt/
 ---
 
+# Scorba Ahunt
+
+
 ## PRINTINGS
 
 
@@ -27,6 +30,8 @@ permalink: /cards/scorba-ahunt/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 10/7 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+
 
 ### _Middle-earth Challenge Decks_
 

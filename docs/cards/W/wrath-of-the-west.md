@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/wrath-of-the-west/
 ---
 
+# Wrath of the West
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/wrath-of-the-west/
 > > {: .fs-3 } 
 > > _“...more than a thunderstorm, a thunder-battle...when two great thunderstorms meet and clash."_ ***---&#65279;Hob*** 
 >
+
+

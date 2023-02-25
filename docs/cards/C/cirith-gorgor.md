@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/cirith-gorgor/
 ---
 
+# Cirith Gorgor
+
+
 ## PRINTINGS
 
 

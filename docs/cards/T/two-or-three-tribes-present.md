@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/two-or-three-tribes-present/
 ---
 
+# Two or Three Tribes Present
+
+
 ## PRINTINGS
 
 
@@ -24,6 +27,8 @@ permalink: /cards/two-or-three-tribes-present/
 > {: .hazard-text .black-text .p-2 }
 > > ***Playable on a company moving with at least two Wildernesses*** <nobr>[<img src="/assets/images/wilderness.svg">]</nobr>***, one Shadow-land*** <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr>***, or one Dark-domain*** <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr> ***in their site path.*** When played, announce a creature type except Nazgul, Undead, or Dragons (like Orcs, Men, Slayers, Drakes, etc.) For this turn, any hazard creatures of this type played against target company do not count against the hazard limit. 
 >
+
+
 
 ### _Middle-earth Challenge Decks_
 

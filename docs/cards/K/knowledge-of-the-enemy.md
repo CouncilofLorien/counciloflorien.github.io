@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/knowledge-of-the-enemy/
 ---
 
+# Knowledge of the Enemy
+
+
 ## PRINTINGS
 
 

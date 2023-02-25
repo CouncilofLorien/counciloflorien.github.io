@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/truths-of-doom/
 ---
 
+# Truths of Doom
+
+
 ## PRINTINGS
 
 

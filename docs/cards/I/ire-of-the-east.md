@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/ire-of-the-east/
 ---
 
+# Ire of the East
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/ire-of-the-east/
 > > {: .fs-3 } 
 > > _“‘So whether he will or no, he will appear a rebel.’”_ ***---&#65279;LotRIII*** 
 >
+
+

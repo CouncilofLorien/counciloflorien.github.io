@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/snaga-hai/
 ---
 
+# Snaga-hai
+
+
 ## PRINTINGS
 
 

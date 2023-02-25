@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/the-pale-sword/
 ---
 
+# The Pale Sword
+
+
 ## PRINTINGS
 
 
@@ -27,6 +30,8 @@ permalink: /cards/the-pale-sword/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
 > > <div class="card-corruption-white">〔 6 〕</div>
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 

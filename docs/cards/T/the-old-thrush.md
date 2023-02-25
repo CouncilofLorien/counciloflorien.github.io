@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/the-old-thrush/
 ---
 
+# The Old Thrush
+
+
 ## PRINTINGS
 
 

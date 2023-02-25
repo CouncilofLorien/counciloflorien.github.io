@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/orcs-of-the-red-eye/
 ---
 
+# Orcs of the Red Eye
+
+
 ## PRINTINGS
 
 

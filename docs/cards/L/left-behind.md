@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/left-behind/
 ---
 
+# Left Behind
+
+
 ## PRINTINGS
 
 
@@ -24,3 +27,5 @@ permalink: /cards/left-behind/
 > {: .hazard-text .black-text .p-2 }
 > > ***Playable on a non-Wizard character whose company is facing an attack of five strikes or more.*** Following the attack, character splits off into a different company with the same site path as the company in which he was. He faces a separate movement/hazard phase this turn with a hazard limit of one. He may rejoin his original company following all movement/hazard phases. 
 >
+
+

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/returned-beyond-all-hope/
 ---
 
+# Returned Beyond All Hope
+
+
 ## PRINTINGS
 
 
@@ -24,3 +27,5 @@ permalink: /cards/returned-beyond-all-hope/
 > {: .hazard-text .black-text .p-2 }
 > > Bring one hazard creature of the following type from your discard pile to your hand: Maia, Elf, Dwarf, or Dunedain. <br>&ensp;Alternatively, bring a Maia permanent-event from active play to your hand. <br>&ensp;Alternatively, make a roll (draw a #)---if the result is greater than 8, bring an eliminated Elf or Maia hazard creature to its owner's discard pile **and** place this card in your opponent's marshalling point pile (do _not_ discard it). 
 >
+
+

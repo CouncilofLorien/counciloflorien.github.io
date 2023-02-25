@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/star-of-high-hope/
 ---
 
+# Star of High Hope
+
+
 ## PRINTINGS
 
 

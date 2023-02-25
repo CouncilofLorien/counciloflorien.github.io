@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/mechanical-bow/
 ---
 
+# Mechanical Bow
+
+
 ## PRINTINGS
 
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/three-golden-hairs/
 ---
 
+# Three Golden Hairs
+
+
 ## PRINTINGS
 
 

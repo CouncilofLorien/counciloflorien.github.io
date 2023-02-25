@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/lond-galen/
 ---
 
+# Lond Galen
+
+
 ## PRINTINGS
 
 

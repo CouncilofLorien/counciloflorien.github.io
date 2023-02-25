@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/phial-of-galadriel/
 ---
 
+# Phial of Galadriel
+
+
 ## PRINTINGS
 
 

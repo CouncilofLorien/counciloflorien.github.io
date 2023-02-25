@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/words-of-power-and-terror/
 ---
 
+# Words of Power and Terror
+
+
 ## PRINTINGS
 
 
@@ -27,6 +30,8 @@ permalink: /cards/words-of-power-and-terror/
 > > {: .fs-3 } 
 > > _“‘Then the Black Captain rose...and cried aloud...words of power and terror to rend both heart and stone.’”_ ***---&#65279;LotRV*** 
 >
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 

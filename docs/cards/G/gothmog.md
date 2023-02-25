@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/gothmog/
 ---
 
+# Gothmog
+
+
 ## PRINTINGS
 
 
@@ -33,3 +36,5 @@ permalink: /cards/gothmog/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 14/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+

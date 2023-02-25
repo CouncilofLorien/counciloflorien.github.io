@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/greater-half-orcs/
 ---
 
+# Greater Half-orcs
+
+
 ## PRINTINGS
 
 

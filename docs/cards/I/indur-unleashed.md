@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/indur-unleashed/
 ---
 
+# Indur Unleashed
+
+
 ## PRINTINGS
 
 

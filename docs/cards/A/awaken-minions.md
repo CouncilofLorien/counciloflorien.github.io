@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/awaken-minions/
 ---
 
+# Awaken Minions
+
+
 ## PRINTINGS
 
 
@@ -27,6 +30,8 @@ permalink: /cards/awaken-minions/
 > > {: .fs-3 } 
 > > _“...here the Dark Power, moving its armies like pieces on a board, was gathering them together."_ ***---&#65279;LotRVI*** 
 >
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 

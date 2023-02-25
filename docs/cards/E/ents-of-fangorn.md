@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/ents-of-fangorn/
 ---
 
+# Ents of Fangorn
+
+
 ## PRINTINGS
 
 

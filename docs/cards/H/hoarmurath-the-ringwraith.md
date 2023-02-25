@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/hoarmurath-the-ringwraith/
 ---
 
+# Hoarmurath the Ringwraith
+
+
 ## PRINTINGS
 
 

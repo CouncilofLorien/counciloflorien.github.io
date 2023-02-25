@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/akhorahil/
 ---
 
+# Akhorahil
+
+
 ## PRINTINGS
 
 
@@ -30,6 +33,8 @@ permalink: /cards/akhorahil/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 16/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/chambers-in-the-royal-court/
 ---
 
+# Chambers in the Royal Court
+
+
 ## PRINTINGS
 
 

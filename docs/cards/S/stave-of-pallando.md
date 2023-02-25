@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/stave-of-pallando/
 ---
 
+# Stave of Pallando
+
+
 ## PRINTINGS
 
 

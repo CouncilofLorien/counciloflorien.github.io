@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/sudden-call/
 ---
 
+# Sudden Call
+
+
 ## PRINTINGS
 
 

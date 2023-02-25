@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/face-out-of-sight/
 ---
 
+# Face out of Sight
+
+
 ## PRINTINGS
 
 

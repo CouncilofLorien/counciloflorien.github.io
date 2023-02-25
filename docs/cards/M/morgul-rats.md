@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/morgul-rats/
 ---
 
+# Morgul-rats
+
+
 ## PRINTINGS
 
 
@@ -30,3 +33,5 @@ permalink: /cards/morgul-rats/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 2/5 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+

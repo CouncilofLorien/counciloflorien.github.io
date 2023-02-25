@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/potion-of-prowess/
 ---
 
+# Potion of Prowess
+
+
 ## PRINTINGS
 
 

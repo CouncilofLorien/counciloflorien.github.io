@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/cast-from-the-order/
 ---
 
+# Cast from the Order
+
+
 ## PRINTINGS
 
 
@@ -24,3 +27,5 @@ permalink: /cards/cast-from-the-order/
 > {: .hazard-text .black-text .p-2 }
 > > ***Playable on a Fallen-wizard.*** Make a roll and add the Fallen-wizard's stage points. If the result is less than 16, discard this card. Otherwise, place this card with the Fallen-wizard. The Fallen-wizard's player must use minion sites for Border-holds <nobr>[<img src="/assets/images/border-hold.svg">]</nobr>, Free-holds <nobr>[<img src="/assets/images/free-hold.svg">]</nobr>, and hero Havens <nobr>[<img src="/assets/images/free-haven.svg">]</nobr>. Also, the Fallen-wizard's company is overt. 
 >
+
+

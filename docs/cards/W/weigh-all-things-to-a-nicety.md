@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/weigh-all-things-to-a-nicety/
 ---
 
+# Weigh All Things to a Nicety
+
+
 ## PRINTINGS
 
 

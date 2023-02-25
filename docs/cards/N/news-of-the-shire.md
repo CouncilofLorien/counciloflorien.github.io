@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/news-of-the-shire/
 ---
 
+# News of the Shire
+
+
 ## PRINTINGS
 
 

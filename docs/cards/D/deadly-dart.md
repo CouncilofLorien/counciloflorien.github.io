@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/deadly-dart/
 ---
 
+# Deadly Dart
+
+
 ## PRINTINGS
 
 

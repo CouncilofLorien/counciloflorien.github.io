@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/incite-denizens/
 ---
 
+# Incite Denizens
+
+
 ## PRINTINGS
 
 
@@ -25,6 +28,8 @@ permalink: /cards/incite-denizens/
 > > Creates an additional automatic-attack at a Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> until the end of the turn. This is an exact duplicate (including all existing and eventual modifications to prowess, etc.) of an existing automatic-attack of your choice at the site. This automatic-attack is faced after the automatic attack it duplicates. <br>&ensp;Cannot be duplicated on a given site. 
 >
 
+
+
 ### _Middle-earth: The Lidless Eye_
 
 {: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -38,6 +43,8 @@ permalink: /cards/incite-denizens/
 > {: .hazard-text .black-text .p-2 }
 > > ***Playable on a Ruins & Lairs*** <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr>. An additional automatic-attack is created at the site until the end of the turn. This is an exact duplicate (including all existing and eventual modifications to prowess, etc.) of an existing automatic-attack at the site of your choice. This automatic-attack is faced immediately following its orginal. <br>&ensp;Cannot be duplicated on a given site. 
 >
+
+
 
 ### _Middle-earth Challenge Decks_
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/open-to-the-summons/
 ---
 
+# Open to the Summons
+
+
 ## PRINTINGS
 
 

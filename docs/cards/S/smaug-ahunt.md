@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/smaug-ahunt/
 ---
 
+# Smaug Ahunt
+
+
 ## PRINTINGS
 
 
@@ -27,6 +30,8 @@ permalink: /cards/smaug-ahunt/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 15/7 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+
 
 ### _Middle-earth: The Balrog Reprint_
 

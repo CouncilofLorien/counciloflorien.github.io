@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/cloudless-day/
 ---
 
+# Cloudless Day
+
+
 ## PRINTINGS
 
 

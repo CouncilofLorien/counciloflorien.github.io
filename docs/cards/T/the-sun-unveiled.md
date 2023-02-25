@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/the-sun-unveiled/
 ---
 
+# The Sun Unveiled
+
+
 ## PRINTINGS
 
 

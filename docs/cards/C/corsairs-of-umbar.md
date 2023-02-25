@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/corsairs-of-umbar/
 ---
 
+# Corsairs of Umbar
+
+
 ## PRINTINGS
 
 
@@ -33,6 +36,8 @@ permalink: /cards/corsairs-of-umbar/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 9/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 

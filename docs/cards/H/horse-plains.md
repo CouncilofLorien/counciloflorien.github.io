@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/horse-plains/
 ---
 
+# Horse Plains
+
+
 ## PRINTINGS
 
 

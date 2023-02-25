@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/one-foe-to-breed-a-war/
 ---
 
+# One Foe to Breed a War
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/one-foe-to-breed-a-war/
 > > {: .fs-3 } 
 > > _“‘Where will wants not, a way opens, so we say...and so I have found for myself.’”_ ***---&#65279;LotRV*** 
 >
+
+

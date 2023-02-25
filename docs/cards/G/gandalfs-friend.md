@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/gandalfs-friend/
 ---
 
+# Gandalf's Friend
+
+
 ## PRINTINGS
 
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/like-the-crash-of-battering-rams/
 ---
 
+# Like the Crash of Battering-rams
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/like-the-crash-of-battering-rams/
 > > {: .fs-3 } 
 > > _“A sweep of his tail and the roof of the Great House crumbled and smashed down."_ ***---&#65279;Hob*** 
 >
+
+

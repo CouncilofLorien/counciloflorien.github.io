@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/perfect-gold-ring/
 ---
 
+# Perfect Gold Ring
+
+
 ## PRINTINGS
 
 

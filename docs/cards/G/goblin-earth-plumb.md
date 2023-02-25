@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/goblin-earth-plumb/
 ---
 
+# Goblin Earth-plumb
+
+
 ## PRINTINGS
 
 

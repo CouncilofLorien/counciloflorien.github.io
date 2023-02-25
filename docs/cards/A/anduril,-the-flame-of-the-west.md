@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/anduril,-the-flame-of-the-west/
 ---
 
+# Anduril, the Flame of the West
+
+
 ## PRINTINGS
 
 

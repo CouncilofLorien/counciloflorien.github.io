@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/arrows-shorn-of-ebony/
 ---
 
+# Arrows Shorn of Ebony
+
+
 ## PRINTINGS
 
 

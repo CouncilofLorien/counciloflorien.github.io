@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/shelob/
 ---
 
+# Shelob
+
+
 ## PRINTINGS
 
 
@@ -27,6 +30,8 @@ permalink: /cards/shelob/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 18/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 

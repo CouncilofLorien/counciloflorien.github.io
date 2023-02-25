@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/the-riddle-game/
 ---
 
+# The Riddle Game
+
+
 ## PRINTINGS
 
 

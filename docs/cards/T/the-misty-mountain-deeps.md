@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/the-misty-mountain-deeps/
 ---
 
+# The Misty Mountain Deeps
+
+
 ## PRINTINGS
 
 

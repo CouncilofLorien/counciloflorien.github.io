@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/thorough-search/
 ---
 
+# Thorough Search
+
+
 ## PRINTINGS
 
 

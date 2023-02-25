@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/doubled-vigilance/
 ---
 
+# Doubled Vigilance
+
+
 ## PRINTINGS
 
 
@@ -24,3 +27,5 @@ permalink: /cards/doubled-vigilance/
 > {: .hazard-text .black-text .p-2 }
 > > ***Playable on a Shadow-hold*** <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> ***(or on a Ruins & Lairs*** <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> ***or Border-hold*** <nobr>[<img src="/assets/images/border-hold.svg">]</nobr> ***if Doors of Night is in play).*** If the company chooses to enter the site, it must make a roll (draw a #) and subtract its company size. If the result is greater than 6, the company may enter the site as normal. Otherwise, the company must face an attack to be resolved before any automatic-attacks: Orcs --- 4 strikes at 9 prowess. Discard when  the site card is discarded or returned to its location deck. 
 >
+
+

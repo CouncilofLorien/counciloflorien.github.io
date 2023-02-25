@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/bridge/
 ---
 
+# Bridge
+
+
 ## PRINTINGS
 
 

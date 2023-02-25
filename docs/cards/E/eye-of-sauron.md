@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/eye-of-sauron/
 ---
 
+# Eye of Sauron
+
+
 ## PRINTINGS
 
 
@@ -27,6 +30,8 @@ permalink: /cards/eye-of-sauron/
 > > {: .fs-3 } 
 > > _“The Eye was rimmed with fire, but was itself glazed, yellow as a cat's, watchful and intent, and the black slit of its pupil opened on a pit, a window into nothing."_ ***---&#65279;LotRII*** 
 >
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 

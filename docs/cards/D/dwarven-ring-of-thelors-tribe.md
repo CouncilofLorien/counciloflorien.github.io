@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/dwarven-ring-of-thelors-tribe/
 ---
 
+# Dwarven Ring of Thelor's Tribe
+
+
 ## PRINTINGS
 
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/skies-of-fire/
 ---
 
+# Skies of Fire
+
+
 ## PRINTINGS
 
 

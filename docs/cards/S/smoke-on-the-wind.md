@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/smoke-on-the-wind/
 ---
 
+# Smoke on the Wind
+
+
 ## PRINTINGS
 
 

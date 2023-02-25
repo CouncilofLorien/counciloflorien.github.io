@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/ren-unleashed/
 ---
 
+# Ren Unleashed
+
+
 ## PRINTINGS
 
 

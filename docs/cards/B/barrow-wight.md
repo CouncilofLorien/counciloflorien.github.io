@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/barrow-wight/
 ---
 
+# Barrow-wight
+
+
 ## PRINTINGS
 
 
@@ -33,6 +36,8 @@ permalink: /cards/barrow-wight/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 12/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 
@@ -102,6 +107,8 @@ permalink: /cards/barrow-wight/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 12/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+
 
 ### _Middle-earth Challenge Decks_
 

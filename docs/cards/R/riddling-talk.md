@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/riddling-talk/
 ---
 
+# Riddling Talk
+
+
 ## PRINTINGS
 
 

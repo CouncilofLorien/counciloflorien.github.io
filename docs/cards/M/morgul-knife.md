@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/morgul-knife/
 ---
 
+# Morgul-knife
+
+
 ## PRINTINGS
 
 
@@ -27,6 +30,8 @@ permalink: /cards/morgul-knife/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
 > > <div class="card-corruption-white">〔 4 〕</div>
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 

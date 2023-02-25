@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/radagasts-black-bird/
 ---
 
+# Radagast's Black Bird
+
+
 ## PRINTINGS
 
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/favor-of-the-valar/
 ---
 
+# Favor of the Valar
+
+
 ## PRINTINGS
 
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/torque-of-hues/
 ---
 
+# Torque of Hues
+
+
 ## PRINTINGS
 
 

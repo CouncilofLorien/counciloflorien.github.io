@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/brigands/
 ---
 
+# Brigands
+
+
 ## PRINTINGS
 
 
@@ -33,6 +36,8 @@ permalink: /cards/brigands/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 8/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 
@@ -102,6 +107,8 @@ permalink: /cards/brigands/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 8/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+
 
 ### _Middle-earth Challenge Decks_
 

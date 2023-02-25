@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/white-mountain-wolves/
 ---
 
+# White Mountain Wolves
+
+
 ## PRINTINGS
 
 

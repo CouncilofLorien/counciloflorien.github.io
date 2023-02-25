@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/fair-travels-in-wilderness/
 ---
 
+# Fair Travels in Wilderness
+
+
 ## PRINTINGS
 
 

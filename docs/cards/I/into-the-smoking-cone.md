@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/into-the-smoking-cone/
 ---
 
+# Into the Smoking Cone
+
+
 ## PRINTINGS
 
 

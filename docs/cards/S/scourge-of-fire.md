@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/scourge-of-fire/
 ---
 
+# Scourge of Fire
+
+
 ## PRINTINGS
 
 

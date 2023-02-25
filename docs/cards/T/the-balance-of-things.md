@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/the-balance-of-things/
 ---
 
+# The Balance of Things
+
+
 ## PRINTINGS
 
 
@@ -27,6 +30,8 @@ permalink: /cards/the-balance-of-things/
 > > {: .fs-3 } 
 > > _“...they came out of the Far West and were messengers sent to contest the power of Sauron, ...but they were forbidden to match his power with power...”_ ***---&#65279;LotR*** 
 >
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 

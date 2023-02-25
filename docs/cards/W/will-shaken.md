@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/will-shaken/
 ---
 
+# Will Shaken
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/will-shaken/
 > > {: .fs-3 } 
 > > _“For he knew...the thread upon which his doom now hung."_ ***---&#65279;LotRVI***  
 >
+
+

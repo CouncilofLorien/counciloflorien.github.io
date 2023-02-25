@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/a-malady-without-healing/
 ---
 
+# A Malady Without Healing
+
+
 ## PRINTINGS
 
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/the-cock-crows/
 ---
 
+# The Cock Crows
+
+
 ## PRINTINGS
 
 

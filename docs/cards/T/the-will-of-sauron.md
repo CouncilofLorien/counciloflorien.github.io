@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/the-will-of-sauron/
 ---
 
+# The Will of Sauron
+
+
 ## PRINTINGS
 
 
@@ -24,6 +27,8 @@ permalink: /cards/the-will-of-sauron/
 > {: .hazard-text .black-text .p-2 }
 > > ***Playable only if Doors of Night is in play.*** All hazard long-events remain in play until this card is discarded. <br>&ensp;Discard this card when _Doors of Night_ leaves play, or when any play deck is exhausted. When this card is discarded, all hazard long-events are discarded. <br>&ensp;Cannot be duplicated. 
 >
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 

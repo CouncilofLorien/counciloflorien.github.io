@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/dwarven-light-stone/
 ---
 
+# Dwarven Light-stone
+
+
 ## PRINTINGS
 
 

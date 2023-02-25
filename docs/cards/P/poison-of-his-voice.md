@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/poison-of-his-voice/
 ---
 
+# Poison of his Voice
+
+
 ## PRINTINGS
 
 

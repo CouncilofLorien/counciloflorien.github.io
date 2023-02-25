@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/bairanax-ahunt/
 ---
 
+# Bairanax Ahunt
+
+
 ## PRINTINGS
 
 
@@ -27,6 +30,8 @@ permalink: /cards/bairanax-ahunt/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 12/6 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+
 
 ### _Middle-earth Challenge Decks_
 

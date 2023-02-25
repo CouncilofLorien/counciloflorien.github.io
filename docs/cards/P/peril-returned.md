@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/peril-returned/
 ---
 
+# Peril Returned
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/peril-returned/
 > > {: .fs-3 } 
 > > _“A shadow came out of dark places far away, and the bones were stirred in the mounds."_ ***---&#65279;LotRI*** 
 >
+
+

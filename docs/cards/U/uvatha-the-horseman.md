@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/uvatha-the-horseman/
 ---
 
+# Uvatha the Horseman
+
+
 ## PRINTINGS
 
 
@@ -30,6 +33,8 @@ permalink: /cards/uvatha-the-horseman/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 15/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 

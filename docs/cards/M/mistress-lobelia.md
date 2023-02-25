@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/mistress-lobelia/
 ---
 
+# Mistress Lobelia
+
+
 ## PRINTINGS
 
 

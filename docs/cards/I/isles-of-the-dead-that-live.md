@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/isles-of-the-dead-that-live/
 ---
 
+# Isles of the Dead That Live
+
+
 ## PRINTINGS
 
 

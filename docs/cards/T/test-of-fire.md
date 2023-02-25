@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/test-of-fire/
 ---
 
+# Test of Fire
+
+
 ## PRINTINGS
 
 

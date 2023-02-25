@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/free-to-choose/
 ---
 
+# Free to Choose
+
+
 ## PRINTINGS
 
 

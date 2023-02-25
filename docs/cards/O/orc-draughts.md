@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/orc-draughts/
 ---
 
+# Orc-draughts
+
+
 ## PRINTINGS
 
 

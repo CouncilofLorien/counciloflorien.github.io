@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/challenge-the-power/
 ---
 
+# Challenge the Power
+
+
 ## PRINTINGS
 
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/wold-&-foothills/
 ---
 
+# Wold & Foothills
+
+
 ## PRINTINGS
 
 

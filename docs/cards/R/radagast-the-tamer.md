@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/radagast-the-tamer/
 ---
 
+# Radagast the Tamer
+
+
 ## PRINTINGS
 
 
@@ -30,3 +33,5 @@ permalink: /cards/radagast-the-tamer/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 13/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+

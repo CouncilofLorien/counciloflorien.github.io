@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/the-mountains-of-shadow-deeps/
 ---
 
+# The Mountains of Shadow Deeps
+
+
 ## PRINTINGS
 
 

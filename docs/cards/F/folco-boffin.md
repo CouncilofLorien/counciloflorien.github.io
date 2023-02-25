@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/folco-boffin/
 ---
 
+# Folco Boffin
+
+
 ## PRINTINGS
 
 

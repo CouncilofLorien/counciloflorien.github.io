@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/trifling-ring/
 ---
 
+# Trifling Ring
+
+
 ## PRINTINGS
 
 

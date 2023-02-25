@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/a-panoply-of-wings/
 ---
 
+# A Panoply of Wings
+
+
 ## PRINTINGS
 
 

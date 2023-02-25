@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/liquid-fire/
 ---
 
+# Liquid Fire
+
+
 ## PRINTINGS
 
 

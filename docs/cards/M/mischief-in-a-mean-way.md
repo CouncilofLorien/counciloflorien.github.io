@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/mischief-in-a-mean-way/
 ---
 
+# Mischief in a Mean Way
+
+
 ## PRINTINGS
 
 

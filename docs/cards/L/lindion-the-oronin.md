@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/lindion-the-oronin/
 ---
 
+# Lindion the Oronin
+
+
 ## PRINTINGS
 
 

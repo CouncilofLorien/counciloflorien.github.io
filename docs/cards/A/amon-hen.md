@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/amon-hen/
 ---
 
+# Amon Hen
+
+
 ## PRINTINGS
 
 

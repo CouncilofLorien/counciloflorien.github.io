@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/lobelia-sackville-baggins/
 ---
 
+# Lobelia Sackville-Baggins
+
+
 ## PRINTINGS
 
 
@@ -36,3 +39,5 @@ permalink: /cards/lobelia-sackville-baggins/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 0/9 】</div>
 > > <div class="card-corruption-white">〔 +2 〕</div>
+
+

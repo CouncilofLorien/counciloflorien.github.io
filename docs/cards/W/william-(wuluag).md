@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/william-(wuluag)/
 ---
 
+# William (Wuluag)
+
+
 ## PRINTINGS
 
 
@@ -33,6 +36,8 @@ permalink: /cards/william-(wuluag)/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 11/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 

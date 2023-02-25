@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/tribute-garnered/
 ---
 
+# Tribute Garnered
+
+
 ## PRINTINGS
 
 

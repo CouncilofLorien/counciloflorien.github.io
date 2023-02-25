@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/hill-trolls/
 ---
 
+# Hill Trolls
+
+
 ## PRINTINGS
 
 

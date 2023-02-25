@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/the-will-of-the-ring/
 ---
 
+# The Will of the Ring
+
+
 ## PRINTINGS
 
 
@@ -27,6 +30,8 @@ permalink: /cards/the-will-of-the-ring/
 > > {: .fs-3 } 
 > > _“He heard himself crying out: 'Never, never!' Or was it: 'Verily I come, I come to you'? He could not tell."_ ***---&#65279;LotRII*** 
 >
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 

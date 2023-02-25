@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/scatha-ahunt/
 ---
 
+# Scatha Ahunt
+
+
 ## PRINTINGS
 
 
@@ -27,6 +30,8 @@ permalink: /cards/scatha-ahunt/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 13/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+
 
 ### _Middle-earth Challenge Decks_
 

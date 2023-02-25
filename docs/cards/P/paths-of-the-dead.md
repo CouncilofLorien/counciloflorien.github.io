@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/paths-of-the-dead/
 ---
 
+# Paths of the Dead
+
+
 ## PRINTINGS
 
 

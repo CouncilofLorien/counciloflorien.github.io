@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/isle-of-the-ulond/
 ---
 
+# Isle of the Ulond
+
+
 ## PRINTINGS
 
 

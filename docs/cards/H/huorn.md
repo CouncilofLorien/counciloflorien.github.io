@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/huorn/
 ---
 
+# Huorn
+
+
 ## PRINTINGS
 
 
@@ -30,6 +33,8 @@ permalink: /cards/huorn/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 10/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 
@@ -84,3 +89,5 @@ permalink: /cards/huorn/
 > {: .hazard-text .black-text .p-2 }
 > > _Awakened Plant._ One strike. May also be played at Druadan Forest, Old Forest, and Wellinghall. May also be played keyed to Heart of Mirkwood, Southern Mirkwood, Western Mirkwood, and Woodland Realm; and may be also played at Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> and Shadow-holds <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> in these regions. 
 >
+
+

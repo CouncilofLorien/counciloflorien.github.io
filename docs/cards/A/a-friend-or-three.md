@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/a-friend-or-three/
 ---
 
+# A Friend or Three
+
+
 ## PRINTINGS
 
 

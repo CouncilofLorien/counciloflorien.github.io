@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/secret-passage/
 ---
 
+# Secret Passage
+
+
 ## PRINTINGS
 
 

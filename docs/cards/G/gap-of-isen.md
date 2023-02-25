@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/gap-of-isen/
 ---
 
+# Gap of Isen
+
+
 ## PRINTINGS
 
 

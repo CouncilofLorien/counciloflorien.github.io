@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/carn-dum/
 ---
 
+# Carn Dum
+
+
 ## PRINTINGS
 
 

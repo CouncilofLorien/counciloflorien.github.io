@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/stay-her-appetite/
 ---
 
+# Stay Her Appetite
+
+
 ## PRINTINGS
 
 
@@ -24,6 +27,8 @@ permalink: /cards/stay-her-appetite/
 > {: .hazard-text .black-text .p-2 }
 > > ***Playable on an ally.*** Make a roll (draw a #). If the result plus the ally's mind is greater than your opponent's unused general influence plus its controlling character's unused direct influence plus two, the ally attacks its controlling character (detainment attack against a hero). This attack has 1 strike and prowess equal to the ally's normal prowess plus a dice roll (drawn #). Discard the ally if it attacks and is not defeated. 
 >
+
+
 
 ### _Middle-earth Challenge Decks_
 

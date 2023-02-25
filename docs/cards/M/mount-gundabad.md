@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/mount-gundabad/
 ---
 
+# Mount Gundabad
+
+
 ## PRINTINGS
 
 

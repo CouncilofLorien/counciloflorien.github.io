@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/ring-of-fire/
 ---
 
+# Ring of Fire
+
+
 ## PRINTINGS
 
 

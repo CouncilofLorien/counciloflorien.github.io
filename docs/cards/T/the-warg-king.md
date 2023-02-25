@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/the-warg-king/
 ---
 
+# The Warg-king
+
+
 ## PRINTINGS
 
 

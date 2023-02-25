@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/beorning-skin-changers/
 ---
 
+# Beorning Skin-changers
+
+
 ## PRINTINGS
 
 
@@ -30,3 +33,5 @@ permalink: /cards/beorning-skin-changers/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 10/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+

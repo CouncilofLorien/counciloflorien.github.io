@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/hail-of-darts/
 ---
 
+# Hail of Darts
+
+
 ## PRINTINGS
 
 

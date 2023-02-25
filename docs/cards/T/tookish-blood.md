@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/tookish-blood/
 ---
 
+# Tookish Blood
+
+
 ## PRINTINGS
 
 
@@ -24,6 +27,8 @@ permalink: /cards/tookish-blood/
 > {: .hazard-text .black-text .p-2 }
 > > Playable on a Hobbit character. The Hobbit's player must make a roll (or draw a #); return the Hobbit to the player's hand if the result plus his unused general influence is less than 11. If the Hobbit is removed from play, one of his items may be transferred to another character in the same company; any other cards under his control are discarded. <br>&ensp;Alternatively, this card can be played as a resource card. For the rest of the turn, the target Hobbit cannot be discarded or returned to its owner's hand for any reason. 
 >
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 

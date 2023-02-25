@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/the-burden-of-time/
 ---
 
+# The Burden of Time
+
+
 ## PRINTINGS
 
 
@@ -27,6 +30,8 @@ permalink: /cards/the-burden-of-time/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
 > > <div class="card-corruption-white">〔 2 〕</div>
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 

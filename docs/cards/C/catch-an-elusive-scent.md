@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/catch-an-elusive-scent/
 ---
 
+# Catch an Elusive Scent
+
+
 ## PRINTINGS
 
 

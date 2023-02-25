@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/iron-hill-dwarves/
 ---
 
+# Iron Hill Dwarves
+
+
 ## PRINTINGS
 
 

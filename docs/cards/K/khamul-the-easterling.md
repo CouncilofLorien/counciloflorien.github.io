@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/khamul-the-easterling/
 ---
 
+# Khamul the Easterling
+
+
 ## PRINTINGS
 
 
@@ -30,6 +33,8 @@ permalink: /cards/khamul-the-easterling/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 18/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 

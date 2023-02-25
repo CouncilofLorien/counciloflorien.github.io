@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/the-white-towers/
 ---
 
+# The White Towers
+
+
 ## PRINTINGS
 
 

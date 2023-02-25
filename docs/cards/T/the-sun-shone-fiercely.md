@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/the-sun-shone-fiercely/
 ---
 
+# The Sun Shone Fiercely
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/the-sun-shone-fiercely/
 > > {: .fs-3 } 
 > > _“‘Go back to the Shadow! You cannot pass.’”_ ***---&#65279;LotRII*** 
 >
+
+

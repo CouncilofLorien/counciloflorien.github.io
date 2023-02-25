@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/gleaming-gold-ring/
 ---
 
+# Gleaming Gold Ring
+
+
 ## PRINTINGS
 
 

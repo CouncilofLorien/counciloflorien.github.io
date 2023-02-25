@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/lost-tome/
 ---
 
+# Lost Tome
+
+
 ## PRINTINGS
 
 

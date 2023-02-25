@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/whispers-of-rings/
 ---
 
+# Whispers of Rings
+
+
 ## PRINTINGS
 
 

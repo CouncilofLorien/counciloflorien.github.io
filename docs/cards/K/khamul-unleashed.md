@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/khamul-unleashed/
 ---
 
+# Khamul Unleashed
+
+
 ## PRINTINGS
 
 

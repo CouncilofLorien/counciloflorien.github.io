@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/halfling-stealth/
 ---
 
+# Halfling Stealth
+
+
 ## PRINTINGS
 
 

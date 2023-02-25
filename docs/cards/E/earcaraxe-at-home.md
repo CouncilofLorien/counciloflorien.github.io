@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/earcaraxe-at-home/
 ---
 
+# Earcaraxe at Home
+
+
 ## PRINTINGS
 
 
@@ -30,3 +33,5 @@ permalink: /cards/earcaraxe-at-home/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 18/7 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+

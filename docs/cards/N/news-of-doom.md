@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/news-of-doom/
 ---
 
+# News of Doom
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/news-of-doom/
 > > {: .fs-3 } 
 > > _“...they hid themselves in fear and would not come forth until the day was up...”_ ***---&#65279;LotRV*** 
 >
+
+

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/beautiful-gold-ring/
 ---
 
+# Beautiful Gold Ring
+
+
 ## PRINTINGS
 
 

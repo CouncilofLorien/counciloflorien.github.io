@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/forgotten-scrolls/
 ---
 
+# Forgotten Scrolls
+
+
 ## PRINTINGS
 
 

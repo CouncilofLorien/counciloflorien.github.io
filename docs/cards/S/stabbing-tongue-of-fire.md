@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/stabbing-tongue-of-fire/
 ---
 
+# Stabbing Tongue of Fire
+
+
 ## PRINTINGS
 
 

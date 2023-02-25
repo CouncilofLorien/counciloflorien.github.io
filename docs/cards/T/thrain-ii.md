@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/thrain-ii/
 ---
 
+# Thrain II
+
+
 ## PRINTINGS
 
 

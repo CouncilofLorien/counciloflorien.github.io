@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/slip-treacherously/
 ---
 
+# Slip Treacherously
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/slip-treacherously/
 > > {: .fs-3 } 
 > > _“Whether it was an accident, or a last trick of the ring before it took a new master, it was not on his finger."_ ***---&#65279;Hob*** 
 >
+
+

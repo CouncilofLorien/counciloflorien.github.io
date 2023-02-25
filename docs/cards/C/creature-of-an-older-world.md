@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/creature-of-an-older-world/
 ---
 
+# Creature of an Older World
+
+
 ## PRINTINGS
 
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/nameless-thing/
 ---
 
+# Nameless Thing
+
+
 ## PRINTINGS
 
 
@@ -30,6 +33,8 @@ permalink: /cards/nameless-thing/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 10/4 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+
 
 ### _Middle-earth Challenge Decks_
 

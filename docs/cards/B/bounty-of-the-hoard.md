@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/bounty-of-the-hoard/
 ---
 
+# Bounty of the Hoard
+
+
 ## PRINTINGS
 
 

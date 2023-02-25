@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/hauberk-of-bright-mail/
 ---
 
+# Hauberk of Bright Mail
+
+
 ## PRINTINGS
 
 

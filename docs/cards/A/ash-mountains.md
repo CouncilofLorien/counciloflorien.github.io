@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/ash-mountains/
 ---
 
+# Ash Mountains
+
+
 ## PRINTINGS
 
 

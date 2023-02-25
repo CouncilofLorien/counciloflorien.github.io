@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/half-trolls/
 ---
 
+# Half-trolls
+
+
 ## PRINTINGS
 
 

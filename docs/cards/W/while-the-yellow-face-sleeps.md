@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/while-the-yellow-face-sleeps/
 ---
 
+# While the Yellow Face Sleeps
+
+
 ## PRINTINGS
 
 

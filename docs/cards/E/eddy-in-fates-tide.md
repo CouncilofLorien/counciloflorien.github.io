@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/eddy-in-fates-tide/
 ---
 
+# Eddy in Fate's Tide
+
+
 ## PRINTINGS
 
 

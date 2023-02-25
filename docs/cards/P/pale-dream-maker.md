@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/pale-dream-maker/
 ---
 
+# Pale Dream-maker
+
+
 ## PRINTINGS
 
 
@@ -30,3 +33,5 @@ permalink: /cards/pale-dream-maker/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
 > > <div class="card-corruption-white">〔 2 〕</div>
+
+

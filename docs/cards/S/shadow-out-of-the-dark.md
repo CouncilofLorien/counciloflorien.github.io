@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/shadow-out-of-the-dark/
 ---
 
+# Shadow out of the Dark
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/shadow-out-of-the-dark/
 > > {: .fs-3 } 
 > > _“A shadow came out of dark places far away... Barrow-wights walked in the hollow places with a clink of rings on cold fingers, and gold chains in the wind."_ ***---&#65279;LotRI***  
 >
+
+

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/the-dwarves-are-upon-you!/
 ---
 
+# The Dwarves Are upon You!
+
+
 ## PRINTINGS
 
 

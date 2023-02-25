@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/look-more-closely-later/
 ---
 
+# Look More Closely Later
+
+
 ## PRINTINGS
 
 

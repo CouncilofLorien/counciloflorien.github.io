@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/mine-or-no-ones/
 ---
 
+# Mine or No One's
+
+
 ## PRINTINGS
 
 

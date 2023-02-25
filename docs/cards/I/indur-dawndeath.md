@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/indur-dawndeath/
 ---
 
+# Indur Dawndeath
+
+
 ## PRINTINGS
 
 
@@ -30,6 +33,8 @@ permalink: /cards/indur-dawndeath/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 15/10 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 

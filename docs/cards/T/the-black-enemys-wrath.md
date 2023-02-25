@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/the-black-enemys-wrath/
 ---
 
+# The Black Enemy's Wrath
+
+
 ## PRINTINGS
 
 
@@ -24,3 +27,5 @@ permalink: /cards/the-black-enemys-wrath/
 > {: .hazard-text .black-text .p-2 }
 > > Each Under-deeps site, Dark-hold <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr>, and Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> has an additional automatic-attack (cannot be canceled): Lava Flows --- 1 strike against each character with 6 prowess (weapons do not modify prowess against these strikes). The penalty for an untapped character not tapping against one of these strikes is -5. Cannot be duplicated.  
 >
+
+

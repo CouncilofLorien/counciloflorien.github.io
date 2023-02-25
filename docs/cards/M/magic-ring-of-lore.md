@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/magic-ring-of-lore/
 ---
 
+# Magic Ring of Lore
+
+
 ## PRINTINGS
 
 

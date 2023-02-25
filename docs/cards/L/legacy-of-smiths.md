@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/legacy-of-smiths/
 ---
 
+# Legacy of Smiths
+
+
 ## PRINTINGS
 
 

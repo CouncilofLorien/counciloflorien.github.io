@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/dwarven-hoard/
 ---
 
+# Dwarven Hoard
+
+
 ## PRINTINGS
 
 

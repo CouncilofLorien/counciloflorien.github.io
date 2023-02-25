@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/troll-lout/
 ---
 
+# Troll Lout
+
+
 ## PRINTINGS
 
 

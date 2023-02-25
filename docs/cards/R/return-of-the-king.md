@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/return-of-the-king/
 ---
 
+# Return of the King
+
+
 ## PRINTINGS
 
 

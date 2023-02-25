@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/palm-to-palm/
 ---
 
+# Palm to Palm
+
+
 ## PRINTINGS
 
 

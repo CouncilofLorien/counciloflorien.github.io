@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/mathom-lore/
 ---
 
+# Mathom Lore
+
+
 ## PRINTINGS
 
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/emerald-of-the-mariner/
 ---
 
+# Emerald of the Mariner
+
+
 ## PRINTINGS
 
 

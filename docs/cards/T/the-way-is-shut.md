@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/the-way-is-shut/
 ---
 
+# The Way is Shut
+
+
 ## PRINTINGS
 
 
@@ -27,6 +30,8 @@ permalink: /cards/the-way-is-shut/
 > > {: .fs-3 } 
 > > _“Many coiling arms seized the doors on either side, and with horrible strength, swung them around. With a shattering echo they slammed, and all light was lost."_ ***---&#65279;LotRII*** 
 >
+
+
 
 ### _Middle-earth: The Balrog Reprint_
 

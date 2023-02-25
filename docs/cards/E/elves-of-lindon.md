@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/elves-of-lindon/
 ---
 
+# Elves of Lindon
+
+
 ## PRINTINGS
 
 

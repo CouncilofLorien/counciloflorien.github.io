@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/shrel-kain/
 ---
 
+# Shrel-Kain
+
+
 ## PRINTINGS
 
 

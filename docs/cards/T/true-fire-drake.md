@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/true-fire-drake/
 ---
 
+# True Fire-drake
+
+
 ## PRINTINGS
 
 
@@ -34,6 +37,8 @@ permalink: /cards/true-fire-drake/
 > > <div class="card-shield">【 13/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
+
+
 ### _Middle-earth: The Lidless Eye_
 
 {: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -56,6 +61,8 @@ permalink: /cards/true-fire-drake/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 13/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+
 
 ### _Middle-earth Challenge Decks_
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/gift-of-comprehension/
 ---
 
+# Gift of Comprehension
+
+
 ## PRINTINGS
 
 

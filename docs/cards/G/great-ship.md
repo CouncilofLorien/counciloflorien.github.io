@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/great-ship/
 ---
 
+# Great Ship
+
+
 ## PRINTINGS
 
 

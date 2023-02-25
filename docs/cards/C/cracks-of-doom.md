@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/cracks-of-doom/
 ---
 
+# Cracks of Doom
+
+
 ## PRINTINGS
 
 

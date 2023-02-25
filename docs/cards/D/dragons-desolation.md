@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/dragons-desolation/
 ---
 
+# Dragon's Desolation
+
+
 ## PRINTINGS
 
 
@@ -27,6 +30,8 @@ permalink: /cards/dragons-desolation/
 > > {: .fs-3 } 
 > > _“...there was neither bush nor tree, and only broken and blackened stumps...”_ ***---&#65279;Hob*** 
 >
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/adunaphel-the-ringwraith/
 ---
 
+# Adunaphel the Ringwraith
+
+
 ## PRINTINGS
 
 

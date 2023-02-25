@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/galadhrim/
 ---
 
+# Galadhrim
+
+
 ## PRINTINGS
 
 
@@ -30,3 +33,5 @@ permalink: /cards/galadhrim/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 11/7 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+

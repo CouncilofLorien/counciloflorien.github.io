@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/vile-fumes/
 ---
 
+# Vile Fumes
+
+
 ## PRINTINGS
 
 

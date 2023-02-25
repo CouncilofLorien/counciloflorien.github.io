@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/promptings-of-wisdom/
 ---
 
+# Promptings of Wisdom
+
+
 ## PRINTINGS
 
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/poisonous-despair/
 ---
 
+# Poisonous Despair
+
+
 ## PRINTINGS
 
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/wizards-fire/
 ---
 
+# Wizard's Fire
+
+
 ## PRINTINGS
 
 

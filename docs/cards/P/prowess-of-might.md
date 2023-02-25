@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/prowess-of-might/
 ---
 
+# Prowess of Might
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/prowess-of-might/
 > > {: .fs-3 } 
 > > _“‘I am armoured above and below with iron scales and hard gems. No blade can pierce me.’”_ ***---&#65279;Hob*** 
 >
+
+

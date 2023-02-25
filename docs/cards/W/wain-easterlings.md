@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/wain-easterlings/
 ---
 
+# Wain-easterlings
+
+
 ## PRINTINGS
 
 

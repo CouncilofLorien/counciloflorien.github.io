@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/armory/
 ---
 
+# Armory
+
+
 ## PRINTINGS
 
 

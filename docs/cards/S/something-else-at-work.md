@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/something-else-at-work/
 ---
 
+# Something Else at Work
+
+
 ## PRINTINGS
 
 
@@ -24,3 +27,5 @@ permalink: /cards/something-else-at-work/
 > {: .hazard-text .black-text .p-2 }
 > > ***Playable on a character.*** Any influence check he makes is modified by -1 and any test for a gold ring in his company is modified by -1. If he is a Fallen-wizard, these modifiers are both instead: -4 if his stage points (SPs) exceed 14, -3 if his SPs exceed 9, -2 if his SPs exceed 4, -1 if his SPs exceed 0 (use the first modifier that applies). Cannot be duplicated on a given character. Discard when any play deck is exhausted.  
 >
+
+

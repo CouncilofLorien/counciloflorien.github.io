@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/the-one-ring/
 ---
 
+# The One Ring
+
+
 ## PRINTINGS
 
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/times-are-evil/
 ---
 
+# Times Are Evil
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/times-are-evil/
 > > {: .fs-3 } 
 > > _“...they hid themselves in fear and would not come forth until the day was up, and the reckless strangers were gone."_ ***---&#65279;LotRV*** 
 >
+
+

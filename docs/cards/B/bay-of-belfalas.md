@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/bay-of-belfalas/
 ---
 
+# Bay of Belfalas
+
+
 ## PRINTINGS
 
 

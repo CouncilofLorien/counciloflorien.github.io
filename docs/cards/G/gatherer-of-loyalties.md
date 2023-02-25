@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/gatherer-of-loyalties/
 ---
 
+# Gatherer of Loyalties
+
+
 ## PRINTINGS
 
 

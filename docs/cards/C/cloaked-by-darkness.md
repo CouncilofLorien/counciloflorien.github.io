@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/cloaked-by-darkness/
 ---
 
+# Cloaked by Darkness
+
+
 ## PRINTINGS
 
 

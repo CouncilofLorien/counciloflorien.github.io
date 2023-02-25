@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/the-white-tree/
 ---
 
+# The White Tree
+
+
 ## PRINTINGS
 
 

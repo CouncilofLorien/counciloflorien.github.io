@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/await-the-advent-of-allies/
 ---
 
+# Await the Advent of Allies
+
+
 ## PRINTINGS
 
 

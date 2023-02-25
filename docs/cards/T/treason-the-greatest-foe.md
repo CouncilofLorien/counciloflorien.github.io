@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/treason-the-greatest-foe/
 ---
 
+# Treason the Greatest Foe
+
+
 ## PRINTINGS
 
 

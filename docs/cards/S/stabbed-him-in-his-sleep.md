@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/stabbed-him-in-his-sleep/
 ---
 
+# Stabbed Him in His Sleep
+
+
 ## PRINTINGS
 
 

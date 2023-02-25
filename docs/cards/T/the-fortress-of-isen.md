@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/the-fortress-of-isen/
 ---
 
+# The Fortress of Isen
+
+
 ## PRINTINGS
 
 

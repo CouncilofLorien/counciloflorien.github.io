@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/man-of-skill/
 ---
 
+# Man of Skill
+
+
 ## PRINTINGS
 
 

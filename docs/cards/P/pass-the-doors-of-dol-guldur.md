@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/pass-the-doors-of-dol-guldur/
 ---
 
+# Pass the Doors of Dol Guldur
+
+
 ## PRINTINGS
 
 

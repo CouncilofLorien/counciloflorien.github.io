@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/broad-headed-spear/
 ---
 
+# Broad-headed Spear
+
+
 ## PRINTINGS
 
 

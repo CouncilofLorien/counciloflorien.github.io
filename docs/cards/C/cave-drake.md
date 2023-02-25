@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/cave-drake/
 ---
 
+# Cave-drake
+
+
 ## PRINTINGS
 
 
@@ -33,6 +36,8 @@ permalink: /cards/cave-drake/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 10/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 
@@ -79,6 +84,8 @@ permalink: /cards/cave-drake/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 10/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+
 
 ### _Middle-earth Challenge Decks_
 

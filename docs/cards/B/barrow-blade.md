@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/barrow-blade/
 ---
 
+# Barrow-blade
+
+
 ## PRINTINGS
 
 

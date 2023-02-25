@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/elves-upon-errantry/
 ---
 
+# Elves upon Errantry
+
+
 ## PRINTINGS
 
 
@@ -33,3 +36,5 @@ permalink: /cards/elves-upon-errantry/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 9/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+

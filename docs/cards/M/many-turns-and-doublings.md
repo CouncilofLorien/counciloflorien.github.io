@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/many-turns-and-doublings/
 ---
 
+# Many Turns and Doublings
+
+
 ## PRINTINGS
 
 

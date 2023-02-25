@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/bright-gold-ring/
 ---
 
+# Bright Gold Ring
+
+
 ## PRINTINGS
 
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/where-theres-a-whip/
 ---
 
+# Where There's a Whip
+
+
 ## PRINTINGS
 
 

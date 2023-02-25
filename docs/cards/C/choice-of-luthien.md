@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/choice-of-luthien/
 ---
 
+# Choice of Luthien
+
+
 ## PRINTINGS
 
 

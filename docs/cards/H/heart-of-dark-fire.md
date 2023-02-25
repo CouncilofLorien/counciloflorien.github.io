@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/heart-of-dark-fire/
 ---
 
+# Heart of Dark Fire
+
+
 ## PRINTINGS
 
 

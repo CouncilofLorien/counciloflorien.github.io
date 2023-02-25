@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/some-secret-art-of-flame/
 ---
 
+# Some Secret Art of Flame
+
+
 ## PRINTINGS
 
 

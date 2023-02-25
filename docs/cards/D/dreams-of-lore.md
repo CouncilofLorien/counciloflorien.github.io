@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/dreams-of-lore/
 ---
 
+# Dreams of Lore
+
+
 ## PRINTINGS
 
 

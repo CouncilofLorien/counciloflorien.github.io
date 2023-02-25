@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/glance-of-arien/
 ---
 
+# Glance of Arien
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/glance-of-arien/
 > > {: .fs-3 } 
 > > _“The Black Enemy and his servants could not endure the glance of the Sun's bright eyes."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 >
+
+

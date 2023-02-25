@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/landroval/
 ---
 
+# Landroval
+
+
 ## PRINTINGS
 
 
@@ -33,3 +36,5 @@ permalink: /cards/landroval/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 12/6 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+

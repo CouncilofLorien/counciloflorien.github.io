@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/shifter-of-hues/
 ---
 
+# Shifter of Hues
+
+
 ## PRINTINGS
 
 

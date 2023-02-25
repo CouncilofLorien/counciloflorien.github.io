@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/reaching-shadow/
 ---
 
+# Reaching Shadow
+
+
 ## PRINTINGS
 
 
@@ -24,3 +27,5 @@ permalink: /cards/reaching-shadow/
 > {: .hazard-text .black-text .p-2 }
 > > Any creature that can be keyed to a Shadow-land <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> may be keyed to Anduin Vales, Northern Rhovanion, Southern Rhovanion, Grey Mountain Narrows, Woodland Realm, Western Mirkwood, Heart of Mirkwood, Southern Mirkwood, Brown Lands, or Dagorlad. Any creature that can be keyed to a Dark-domain <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr> may be keyed to Heart of Mirkwood, Southern Mirkwood, Brown Lands, or Dagorlad. Discard this card when a creature keyed to one of these regions (not to the region symbol) is defeated.  
 >
+
+

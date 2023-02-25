@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/the-waters-tithe/
 ---
 
+# The Water's Tithe
+
+
 ## PRINTINGS
 
 

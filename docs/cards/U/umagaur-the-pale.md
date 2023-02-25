@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/umagaur-the-pale/
 ---
 
+# Umagaur the Pale
+
+
 ## PRINTINGS
 
 
@@ -33,3 +36,5 @@ permalink: /cards/umagaur-the-pale/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 14/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/rogrog/
 ---
 
+# Rogrog
+
+
 ## PRINTINGS
 
 
@@ -33,6 +36,8 @@ permalink: /cards/rogrog/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 13/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 

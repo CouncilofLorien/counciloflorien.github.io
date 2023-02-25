@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/darkness-under-tree/
 ---
 
+# Darkness Under Tree
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/darkness-under-tree/
 > > {: .fs-3 } 
 > > _“...there now a forest loomed. Great trees, bare and silent, stood, rank on rank,  with tangled bow and hoary head; their twisted roots were buried in the long green grass. Darkness was under them."_ ***---&#65279;LotRIII*** 
 >
+
+

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/houses-of-healing/
 ---
 
+# Houses of Healing
+
+
 ## PRINTINGS
 
 

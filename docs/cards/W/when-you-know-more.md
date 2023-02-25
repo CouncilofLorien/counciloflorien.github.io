@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/when-you-know-more/
 ---
 
+# When You Know More
+
+
 ## PRINTINGS
 
 

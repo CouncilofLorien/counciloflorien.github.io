@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/two-headed-troll/
 ---
 
+# Two-headed Troll
+
+
 ## PRINTINGS
 
 

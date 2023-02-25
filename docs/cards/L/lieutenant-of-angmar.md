@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/lieutenant-of-angmar/
 ---
 
+# Lieutenant of Angmar
+
+
 ## PRINTINGS
 
 

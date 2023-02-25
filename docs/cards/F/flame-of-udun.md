@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/flame-of-udun/
 ---
 
+# Flame of Udun
+
+
 ## PRINTINGS
 
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/vanguard-of-might/
 ---
 
+# Vanguard of Might
+
+
 ## PRINTINGS
 
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/horn-of-anor/
 ---
 
+# Horn of Anor
+
+
 ## PRINTINGS
 
 

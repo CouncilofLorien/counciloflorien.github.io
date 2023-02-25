@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/no-more-nonsense/
 ---
 
+# No More Nonsense
+
+
 ## PRINTINGS
 
 

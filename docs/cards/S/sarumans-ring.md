@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/sarumans-ring/
 ---
 
+# Saruman's Ring
+
+
 ## PRINTINGS
 
 

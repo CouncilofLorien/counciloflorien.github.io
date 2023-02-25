@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/men-of-dale/
 ---
 
+# Men of Dale
+
+
 ## PRINTINGS
 
 

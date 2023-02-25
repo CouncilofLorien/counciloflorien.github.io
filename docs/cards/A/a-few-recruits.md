@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/a-few-recruits/
 ---
 
+# A Few Recruits
+
+
 ## PRINTINGS
 
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/hermits-hill/
 ---
 
+# Hermit's Hill
+
+
 ## PRINTINGS
 
 

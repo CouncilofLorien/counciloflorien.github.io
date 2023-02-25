@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/scorba-roused/
 ---
 
+# Scorba Roused
+
+
 ## PRINTINGS
 
 

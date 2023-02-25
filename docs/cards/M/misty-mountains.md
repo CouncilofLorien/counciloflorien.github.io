@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/misty-mountains/
 ---
 
+# Misty Mountains
+
+
 ## PRINTINGS
 
 

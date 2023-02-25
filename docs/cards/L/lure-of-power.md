@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/lure-of-power/
 ---
 
+# Lure of Power
+
+
 ## PRINTINGS
 
 
@@ -27,6 +30,8 @@ permalink: /cards/lure-of-power/
 > > {: .fs-3 } 
 > > _“‘But we must have power, power to order all things as we will...’”_ ***---&#65279;LotRII*** 
 >
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 

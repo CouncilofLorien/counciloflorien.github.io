@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/earth-tremors/
 ---
 
+# Earth-tremors
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/earth-tremors/
 > > {: .fs-3 } 
 > > _“...the earth shook, the plain heaved and cracked."_ ***---&#65279;LotRVI*** 
 >
+
+

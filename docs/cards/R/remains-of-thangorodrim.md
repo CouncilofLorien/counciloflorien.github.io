@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/remains-of-thangorodrim/
 ---
 
+# Remains of Thangorodrim
+
+
 ## PRINTINGS
 
 

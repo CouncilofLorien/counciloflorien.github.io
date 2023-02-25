@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/ancient-stair/
 ---
 
+# Ancient Stair
+
+
 ## PRINTINGS
 
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/lure-of-creation/
 ---
 
+# Lure of Creation
+
+
 ## PRINTINGS
 
 
@@ -27,6 +30,8 @@ permalink: /cards/lure-of-creation/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
 > > <div class="card-corruption-white">〔 2 〕</div>
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 

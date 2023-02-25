@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/wound-of-long-burden/
 ---
 
+# Wound of Long Burden
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/wound-of-long-burden/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
 > > <div class="card-corruption-white">〔 1 〕</div>
+
+

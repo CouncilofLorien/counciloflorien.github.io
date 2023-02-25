@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/show-things-unbidden/
 ---
 
+# Show Things Unbidden
+
+
 ## PRINTINGS
 
 

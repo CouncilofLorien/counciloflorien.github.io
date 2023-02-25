@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/magic-ring-of-savagery/
 ---
 
+# Magic Ring of Savagery
+
+
 ## PRINTINGS
 
 

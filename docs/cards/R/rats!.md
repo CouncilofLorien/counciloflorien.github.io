@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/rats!/
 ---
 
+# Rats!
+
+
 ## PRINTINGS
 
 
@@ -24,3 +27,5 @@ permalink: /cards/rats!/
 > {: .hazard-text .black-text .p-2 }
 > > ***Playable on a company containing at least one minor item that is at or moving to a Ruins & Lairs*** <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr>***, Shadow-hold*** <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr>***, or Dark-hold*** <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr>. Company discards one minor item of its choice or chooses one of its characters to become wounded (no body check required). 
 >
+
+

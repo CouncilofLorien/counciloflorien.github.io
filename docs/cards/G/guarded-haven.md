@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/guarded-haven/
 ---
 
+# Guarded Haven
+
+
 ## PRINTINGS
 
 

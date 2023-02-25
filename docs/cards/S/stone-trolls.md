@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/stone-trolls/
 ---
 
+# Stone Trolls
+
+
 ## PRINTINGS
 
 

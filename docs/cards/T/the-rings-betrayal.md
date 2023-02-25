@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/the-rings-betrayal/
 ---
 
+# The Ring's Betrayal
+
+
 ## PRINTINGS
 
 
@@ -27,6 +30,8 @@ permalink: /cards/the-rings-betrayal/
 > > {: .fs-3 } 
 > > _“Isildur was marching north along the east banks of the River... He leapt into the waters, but the Ring slipped from his finger as he swam, and then the Orcs saw him and killed him with arrows."_ ***---&#65279;LotRI*** 
 >
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 

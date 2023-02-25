@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/map-to-mithril/
 ---
 
+# Map to Mithril
+
+
 ## PRINTINGS
 
 

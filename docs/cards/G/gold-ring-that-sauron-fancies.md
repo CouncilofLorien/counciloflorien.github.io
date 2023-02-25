@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/gold-ring-that-sauron-fancies/
 ---
 
+# Gold Ring that Sauron Fancies
+
+
 ## PRINTINGS
 
 

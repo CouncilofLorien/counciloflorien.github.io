@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/gold-belt-of-lorien/
 ---
 
+# Gold Belt of Lorien
+
+
 ## PRINTINGS
 
 

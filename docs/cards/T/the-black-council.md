@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/the-black-council/
 ---
 
+# The Black Council
+
+
 ## PRINTINGS
 
 

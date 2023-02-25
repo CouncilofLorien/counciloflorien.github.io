@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/arouse-defenders/
 ---
 
+# Arouse Defenders
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/arouse-defenders/
 > > {: .fs-3 } 
 > > _“‘Come!' said Aragorn. 'This is the hour when we draw swords together!’”_ ***---&#65279;LotRIII*** 
 >
+
+

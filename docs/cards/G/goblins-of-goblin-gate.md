@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/goblins-of-goblin-gate/
 ---
 
+# Goblins of Goblin-gate
+
+
 ## PRINTINGS
 
 

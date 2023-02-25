@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/ordered-to-kill/
 ---
 
+# Ordered to Kill
+
+
 ## PRINTINGS
 
 

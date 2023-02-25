@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/variag-camp/
 ---
 
+# Variag Camp
+
+
 ## PRINTINGS
 
 

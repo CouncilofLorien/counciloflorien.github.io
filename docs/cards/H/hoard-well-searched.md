@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/hoard-well-searched/
 ---
 
+# Hoard Well-searched
+
+
 ## PRINTINGS
 
 

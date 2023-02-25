@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/beasts-of-the-wood/
 ---
 
+# Beasts of the Wood
+
+
 ## PRINTINGS
 
 

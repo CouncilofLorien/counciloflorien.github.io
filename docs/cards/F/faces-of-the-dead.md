@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/faces-of-the-dead/
 ---
 
+# Faces of the Dead
+
+
 ## PRINTINGS
 
 
@@ -24,3 +27,5 @@ permalink: /cards/faces-of-the-dead/
 > {: .hazard-text .black-text .p-2 }
 > > ***Playable on a non-Wizard character moving with at least two Wildernesses*** <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> ***in his site path if you discard any Undead hazard creature from your hand (show opponent).*** Target character makes a roll (draws a #) and adds his mind. If the result is less than 13, that character splits off into a different company. This new company immediately returns to his original company's site of origin. 
 >
+
+

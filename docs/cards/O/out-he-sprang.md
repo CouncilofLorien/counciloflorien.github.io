@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/out-he-sprang/
 ---
 
+# Out He Sprang
+
+
 ## PRINTINGS
 
 

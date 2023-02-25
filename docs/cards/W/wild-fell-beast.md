@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/wild-fell-beast/
 ---
 
+# Wild Fell Beast
+
+
 ## PRINTINGS
 
 
@@ -33,3 +36,5 @@ permalink: /cards/wild-fell-beast/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 12/6 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+

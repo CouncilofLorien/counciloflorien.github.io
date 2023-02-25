@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/great-ruse/
 ---
 
+# Great Ruse
+
+
 ## PRINTINGS
 
 

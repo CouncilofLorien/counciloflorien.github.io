@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/master-of-wood,-water,-or-hill/
 ---
 
+# Master of Wood, Water, or Hill
+
+
 ## PRINTINGS
 
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/our-own-wolves/
 ---
 
+# Our Own Wolves
+
+
 ## PRINTINGS
 
 

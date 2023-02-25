@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/shield-of-iron-bound-ash/
 ---
 
+# Shield of Iron-bound Ash
+
+
 ## PRINTINGS
 
 

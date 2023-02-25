@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/leucaruth-ahunt/
 ---
 
+# Leucaruth Ahunt
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/leucaruth-ahunt/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 14/7 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/sated-beast/
 ---
 
+# Sated Beast
+
+
 ## PRINTINGS
 
 

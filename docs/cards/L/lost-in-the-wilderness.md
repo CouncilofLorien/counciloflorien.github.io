@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/lost-in-the-wilderness/
 ---
 
+# Lost in the Wilderness
+
+
 ## PRINTINGS
 
 
@@ -27,6 +30,8 @@ permalink: /cards/lost-in-the-wilderness/
 > > {: .fs-3 } 
 > > _“After an hour or two they lost all clear sense of direction, though they knew well enough that they had long ceased to go northward at all."_ ***---&#65279;LotRI*** 
 >
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 
@@ -61,3 +66,5 @@ permalink: /cards/lost-in-the-wilderness/
 > > {: .fs-3 } 
 > > _“Not far ahead were dreary hills, rising higher and higher, dark with trees. On some of them were old castles with an evil look, as if they had been built by wicked people.."_ ***---&#65279;Hob*** 
 >
+
+

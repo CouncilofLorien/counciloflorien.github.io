@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/deftness-of-agility/
 ---
 
+# Deftness of Agility
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/deftness-of-agility/
 > > {: .fs-3 } 
 > > _“Not Gollum himself could have twisted more quickly or more fiercely."_ ***---&#65279;LotRIV*** 
 >
+
+

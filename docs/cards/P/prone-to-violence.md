@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/prone-to-violence/
 ---
 
+# Prone to Violence
+
+
 ## PRINTINGS
 
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/bade-to-rule/
 ---
 
+# Bade to Rule
+
+
 ## PRINTINGS
 
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/persuasive-words/
 ---
 
+# Persuasive Words
+
+
 ## PRINTINGS
 
 

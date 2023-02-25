@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/lieutenant-of-morgul/
 ---
 
+# Lieutenant of Morgul
+
+
 ## PRINTINGS
 
 

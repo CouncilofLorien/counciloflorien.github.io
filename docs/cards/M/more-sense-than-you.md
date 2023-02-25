@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/more-sense-than-you/
 ---
 
+# More Sense than You
+
+
 ## PRINTINGS
 
 

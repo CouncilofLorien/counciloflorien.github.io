@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/secrets-of-their-forging/
 ---
 
+# Secrets of Their Forging
+
+
 ## PRINTINGS
 
 

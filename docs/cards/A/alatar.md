@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/alatar/
 ---
 
+# Alatar
+
+
 ## PRINTINGS
 
 

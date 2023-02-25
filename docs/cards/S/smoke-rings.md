@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/smoke-rings/
 ---
 
+# Smoke Rings
+
+
 ## PRINTINGS
 
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/hold-rebuilt-and-repaired/
 ---
 
+# Hold Rebuilt and Repaired
+
+
 ## PRINTINGS
 
 

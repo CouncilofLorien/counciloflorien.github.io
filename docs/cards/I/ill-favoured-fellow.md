@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/ill-favoured-fellow/
 ---
 
+# Ill-favoured Fellow
+
+
 ## PRINTINGS
 
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/foul-smelling-paste/
 ---
 
+# Foul-smelling Paste
+
+
 ## PRINTINGS
 
 

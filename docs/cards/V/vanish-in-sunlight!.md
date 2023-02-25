@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/vanish-in-sunlight!/
 ---
 
+# Vanish in Sunlight!
+
+
 ## PRINTINGS
 
 

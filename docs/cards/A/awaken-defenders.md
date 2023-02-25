@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/awaken-defenders/
 ---
 
+# Awaken Defenders
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/awaken-defenders/
 > > {: .fs-3 } 
 > > _“...the light of the fires showed up many a mark for archers of such skill as Gondor once had boasted."_ ***---&#65279;LotRI*** 
 >
+
+

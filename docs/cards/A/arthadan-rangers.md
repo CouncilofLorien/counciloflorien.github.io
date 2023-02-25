@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/arthadan-rangers/
 ---
 
+# Arthadan Rangers
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/arthadan-rangers/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 10/6 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+

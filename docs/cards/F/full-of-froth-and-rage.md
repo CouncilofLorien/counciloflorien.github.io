@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/full-of-froth-and-rage/
 ---
 
+# Full of Froth and Rage
+
+
 ## PRINTINGS
 
 
@@ -27,6 +30,8 @@ permalink: /cards/full-of-froth-and-rage/
 > > {: .fs-3 } 
 > > _“...hairy legs waving, nippers and spinners snapping, eyes popping, full of froth and rage."_ ***---&#65279;Hob*** 
 >
+
+
 
 ### _Middle-earth Challenge Decks_
 

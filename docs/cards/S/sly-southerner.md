@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/sly-southerner/
 ---
 
+# Sly Southerner
+
+
 ## PRINTINGS
 
 

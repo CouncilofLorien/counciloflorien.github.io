@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/dwarven-ring-of-bavors-tribe/
 ---
 
+# Dwarven Ring of Bavor's Tribe
+
+
 ## PRINTINGS
 
 

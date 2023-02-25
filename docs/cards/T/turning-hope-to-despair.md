@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/turning-hope-to-despair/
 ---
 
+# Turning Hope to Despair
+
+
 ## PRINTINGS
 
 
@@ -24,3 +27,5 @@ permalink: /cards/turning-hope-to-despair/
 > {: .hazard-text .black-text .p-2 }
 > > ***Playable on a company facing a non-detainment attack from: Undead, Nazgul, or Maia;*** _does not count against the hazard limit._ If the attack is not defeated, each character in the company makes a roll (draw a #) and adds his mind. If the result is less than 11, the character splits off from the company and forms his own company with the same site path as his original company. The character faces a separate movement/hazard phase this turn with a hazard limit of one.  
 >
+
+

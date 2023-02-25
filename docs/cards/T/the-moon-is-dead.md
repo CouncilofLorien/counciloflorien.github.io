@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/the-moon-is-dead/
 ---
 
+# The Moon Is Dead
+
+
 ## PRINTINGS
 
 
@@ -27,6 +30,8 @@ permalink: /cards/the-moon-is-dead/
 > > {: .fs-3 } 
 > > _“Cold be hand and heart and bone...till the Sun fails and the Moon is dead."_ ***---&#65279;LotRI***  
 >
+
+
 
 ### _Middle-earth Challenge Decks_
 

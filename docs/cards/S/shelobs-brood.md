@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/shelobs-brood/
 ---
 
+# Shelob's Brood
+
+
 ## PRINTINGS
 
 
@@ -30,3 +33,5 @@ permalink: /cards/shelobs-brood/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 8/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+

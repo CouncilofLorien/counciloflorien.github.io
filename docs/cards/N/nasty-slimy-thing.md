@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/nasty-slimy-thing/
 ---
 
+# Nasty Slimy Thing
+
+
 ## PRINTINGS
 
 

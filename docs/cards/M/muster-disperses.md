@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/muster-disperses/
 ---
 
+# Muster Disperses
+
+
 ## PRINTINGS
 
 
@@ -27,6 +30,8 @@ permalink: /cards/muster-disperses/
 > > {: .fs-3 } 
 > > _“When the days of rejoicing were over at last, the Companions thought of returning to their own homes."_ ***---&#65279;LotRVI*** 
 >
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 
@@ -61,6 +66,8 @@ permalink: /cards/muster-disperses/
 > > {: .fs-3 } 
 > > _“But the Men of Rhun and of Harad, Easterling and Southron, saw the ruin of their war...the most part fled eastward as they could; and some cast their weapons down and sued for mercy."_ ***---&#65279;LotRVI*** 
 >
+
+
 
 ### _Middle-earth Challenge Decks_
 

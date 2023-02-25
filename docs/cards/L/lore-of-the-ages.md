@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/lore-of-the-ages/
 ---
 
+# Lore of the Ages
+
+
 ## PRINTINGS
 
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/sacrifice-of-form/
 ---
 
+# Sacrifice of Form
+
+
 ## PRINTINGS
 
 

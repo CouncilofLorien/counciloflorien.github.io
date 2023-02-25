@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/fair-travels-in-border-lands/
 ---
 
+# Fair Travels in Border-lands
+
+
 ## PRINTINGS
 
 

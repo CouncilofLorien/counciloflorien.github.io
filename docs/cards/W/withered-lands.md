@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/withered-lands/
 ---
 
+# Withered Lands
+
+
 ## PRINTINGS
 
 
@@ -27,6 +30,8 @@ permalink: /cards/withered-lands/
 > > {: .fs-3 } 
 > > _“...there were Dragons in the wastes beyond...”_ ***---&#65279;LotR*** 
 >
+
+
 
 ### _Middle-earth Challenge Decks_
 

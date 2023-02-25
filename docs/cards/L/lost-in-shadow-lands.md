@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/lost-in-shadow-lands/
 ---
 
+# Lost in Shadow-lands
+
+
 ## PRINTINGS
 
 
@@ -27,6 +30,8 @@ permalink: /cards/lost-in-shadow-lands/
 > > {: .fs-3 } 
 > > _“The remainder of that journey was a shadow of growing fear in which memory could find nothing to rest upon."_ ***---&#65279;LotRIV*** 
 >
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 
@@ -61,3 +66,5 @@ permalink: /cards/lost-in-shadow-lands/
 > > {: .fs-3 } 
 > > _“The nights were the worst...really pitch; so black that you could really see nothing."_ ***---&#65279;Hob*** 
 >
+
+

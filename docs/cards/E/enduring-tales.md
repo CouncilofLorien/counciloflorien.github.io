@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/enduring-tales/
 ---
 
+# Enduring Tales
+
+
 ## PRINTINGS
 
 

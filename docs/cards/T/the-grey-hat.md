@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/the-grey-hat/
 ---
 
+# The Grey Hat
+
+
 ## PRINTINGS
 
 

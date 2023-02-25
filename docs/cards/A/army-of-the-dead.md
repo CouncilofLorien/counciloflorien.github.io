@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/army-of-the-dead/
 ---
 
+# Army of the Dead
+
+
 ## PRINTINGS
 
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/gnaw-with-words/
 ---
 
+# Gnaw with Words
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/gnaw-with-words/
 > > {: .fs-3 } 
 > > _“‘Small comfort will those two have in their companionship: they will gnaw one another with words. ...If Wormtongue ever comes out of Orthanc alive, it will be more than he deserves.’”_ ***---&#65279;LotRIII*** 
 >
+
+

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/glamour-of-surpassing-excellance/
 ---
 
+# Glamour of Surpassing Excellance
+
+
 ## PRINTINGS
 
 

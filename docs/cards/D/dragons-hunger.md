@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/dragons-hunger/
 ---
 
+# Dragon's Hunger
+
+
 ## PRINTINGS
 
 

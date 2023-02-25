@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/woses-of-the-druadan-forest/
 ---
 
+# Woses of the Druadan Forest
+
+
 ## PRINTINGS
 
 

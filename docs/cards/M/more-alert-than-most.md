@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/more-alert-than-most/
 ---
 
+# More Alert than Most
+
+
 ## PRINTINGS
 
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/magical-harp/
 ---
 
+# Magical Harp
+
+
 ## PRINTINGS
 
 

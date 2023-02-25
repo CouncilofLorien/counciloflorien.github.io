@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/wielded-twice/
 ---
 
+# Wielded Twice
+
+
 ## PRINTINGS
 
 

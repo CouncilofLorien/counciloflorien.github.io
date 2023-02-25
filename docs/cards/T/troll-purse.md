@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/troll-purse/
 ---
 
+# Troll-purse
+
+
 ## PRINTINGS
 
 
@@ -24,3 +27,5 @@ permalink: /cards/troll-purse/
 > {: .hazard-text .black-text .p-2 }
 > > ***Playable on a site with an Orc or Troll automatic-attack.*** When any item is played at this site, the company must face all automatic-attacks of the site again with the attack's prowess modified by +3. Any successful strike does not harm the character, but rather the character is taken prisoner at the site. The rescue-attack equals all automatic-attacks of the site at the time of rescue. 
 >
+
+

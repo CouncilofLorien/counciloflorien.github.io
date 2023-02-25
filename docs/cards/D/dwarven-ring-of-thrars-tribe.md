@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/dwarven-ring-of-thrars-tribe/
 ---
 
+# Dwarven Ring of Thrar's Tribe
+
+
 ## PRINTINGS
 
 

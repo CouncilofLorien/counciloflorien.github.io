@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/horns,-horns,-horns/
 ---
 
+# Horns, Horns, Horns
+
+
 ## PRINTINGS
 
 

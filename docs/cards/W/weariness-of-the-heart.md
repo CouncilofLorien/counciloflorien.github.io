@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/weariness-of-the-heart/
 ---
 
+# Weariness of the Heart
+
+
 ## PRINTINGS
 
 
@@ -27,6 +30,8 @@ permalink: /cards/weariness-of-the-heart/
 > > {: .fs-3 } 
 > > _“‘There is some will that lends us speed to our foes and sets an unseen barrier before us: a weariness that is in the heart more than in the limb.’”_ ***---&#65279;LotRIII*** 
 >
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 
@@ -61,6 +66,8 @@ permalink: /cards/weariness-of-the-heart/
 > > {: .fs-3 } 
 > > _“He wandered in loneliness, weeping a little for the hardness of the world...”_ ***---&#65279;LotRI*** 
 >
+
+
 
 ### _Middle-earth Challenge Decks_
 

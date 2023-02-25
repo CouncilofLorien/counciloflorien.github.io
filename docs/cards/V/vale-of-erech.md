@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/vale-of-erech/
 ---
 
+# Vale of Erech
+
+
 ## PRINTINGS
 
 

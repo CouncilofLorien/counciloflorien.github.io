@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/spells-born-of-discord/
 ---
 
+# Spells Born of Discord
+
+
 ## PRINTINGS
 
 

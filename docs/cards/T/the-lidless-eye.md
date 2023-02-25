@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/the-lidless-eye/
 ---
 
+# The Lidless Eye
+
+
 ## PRINTINGS
 
 

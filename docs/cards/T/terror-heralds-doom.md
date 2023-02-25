@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/terror-heralds-doom/
 ---
 
+# Terror Heralds Doom
+
+
 ## PRINTINGS
 
 

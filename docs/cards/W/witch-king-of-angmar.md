@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/witch-king-of-angmar/
 ---
 
+# Witch-king of Angmar
+
+
 ## PRINTINGS
 
 
@@ -30,6 +33,8 @@ permalink: /cards/witch-king-of-angmar/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 17/12 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 

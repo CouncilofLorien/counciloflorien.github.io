@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/hoarmurath-unleashed/
 ---
 
+# Hoarmurath Unleashed
+
+
 ## PRINTINGS
 
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/tales-of-the-hunt/
 ---
 
+# Tales of the Hunt
+
+
 ## PRINTINGS
 
 

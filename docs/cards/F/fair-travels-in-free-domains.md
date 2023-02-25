@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/fair-travels-in-free-domains/
 ---
 
+# Fair Travels in Free-domains
+
+
 ## PRINTINGS
 
 

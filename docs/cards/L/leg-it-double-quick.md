@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/leg-it-double-quick/
 ---
 
+# Leg It Double Quick
+
+
 ## PRINTINGS
 
 

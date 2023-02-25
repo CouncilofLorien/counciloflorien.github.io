@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/hounds-of-sauron/
 ---
 
+# Hounds of Sauron
+
+
 ## PRINTINGS
 
 

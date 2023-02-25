@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/regiment-of-black-crows/
 ---
 
+# Regiment of Black Crows
+
+
 ## PRINTINGS
 
 

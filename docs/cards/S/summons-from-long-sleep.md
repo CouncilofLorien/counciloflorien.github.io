@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/summons-from-long-sleep/
 ---
 
+# Summons from Long Sleep
+
+
 ## PRINTINGS
 
 
@@ -24,6 +27,8 @@ permalink: /cards/summons-from-long-sleep/
 > {: .hazard-text .black-text .p-2 }
 > > This card reserves up to one Dragon or Drake hazard creature at a time. To reserve a Dragon or Drake creature, place it face up "off to the side" with this card (not counting against the hazard limit). You may play a reserved creature as though it were in your hand. When the reserved creature is played, another Dragon may or Drake may be reserved. A reserved Dragon or Drake receives +2 prowess when attacking. 
 >
+
+
 
 ### _Middle-earth Challenge Decks_
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/swift-strokes/
 ---
 
+# Swift Strokes
+
+
 ## PRINTINGS
 
 

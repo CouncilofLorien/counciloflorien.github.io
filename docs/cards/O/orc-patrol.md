@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/orc-patrol/
 ---
 
+# Orc-patrol
+
+
 ## PRINTINGS
 
 
@@ -33,6 +36,8 @@ permalink: /cards/orc-patrol/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 6/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 

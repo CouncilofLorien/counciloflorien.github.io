@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/storms-of-osse/
 ---
 
+# Storms of Osse
+
+
 ## PRINTINGS
 
 
@@ -27,6 +30,8 @@ permalink: /cards/storms-of-osse/
 > > {: .fs-3 } 
 > > _“Like Voronwe of old, they fought the wrath of Osse and rode high upon the wings of the storm, far above the deeps of the Sea."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 >
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 

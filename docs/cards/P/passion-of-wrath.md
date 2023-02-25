@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/passion-of-wrath/
 ---
 
+# Passion of Wrath
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/passion-of-wrath/
 > > {: .fs-3 } 
 > > _“At the twanging of the bows and the shrilling of the trumpets the dragon's wrath blazed to its height till he was blind and mad with it."_ ***---&#65279;Hob*** 
 >
+
+

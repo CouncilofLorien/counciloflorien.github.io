@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/flatter-a-foe/
 ---
 
+# Flatter a Foe
+
+
 ## PRINTINGS
 
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/great-shield-of-rohan/
 ---
 
+# Great-shield of Rohan
+
+
 ## PRINTINGS
 
 

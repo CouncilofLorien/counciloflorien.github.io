@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/gobel-mirlond/
 ---
 
+# Gobel Mirlond
+
+
 ## PRINTINGS
 
 

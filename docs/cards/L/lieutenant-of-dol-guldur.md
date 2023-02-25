@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/lieutenant-of-dol-guldur/
 ---
 
+# Lieutenant of Dol Guldur
+
+
 ## PRINTINGS
 
 

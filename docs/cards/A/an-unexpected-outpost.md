@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/an-unexpected-outpost/
 ---
 
+# An Unexpected Outpost
+
+
 ## PRINTINGS
 
 
@@ -27,6 +30,8 @@ permalink: /cards/an-unexpected-outpost/
 > > {: .fs-3 } 
 > > _“...in the high regions the West Wind still blew, but down on the stones behind the fences of the Black Land the air seemed almost dead, chill and yet stifling."_ ***---&#65279;LotRVI*** 
 >
+
+
 
 ### _Middle-earth Challenge Decks_
 

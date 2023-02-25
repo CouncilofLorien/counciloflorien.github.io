@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/woses-of-the-eryn-vorn/
 ---
 
+# Woses of the Eryn Vorn
+
+
 ## PRINTINGS
 
 

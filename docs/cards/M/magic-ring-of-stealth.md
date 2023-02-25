@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/magic-ring-of-stealth/
 ---
 
+# Magic Ring of Stealth
+
+
 ## PRINTINGS
 
 

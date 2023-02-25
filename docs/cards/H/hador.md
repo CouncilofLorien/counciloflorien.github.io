@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/hador/
 ---
 
+# Hador
+
+
 ## PRINTINGS
 
 

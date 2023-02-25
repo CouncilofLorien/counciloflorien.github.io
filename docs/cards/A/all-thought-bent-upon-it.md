@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/all-thought-bent-upon-it/
 ---
 
+# All Thought Bent upon It
+
+
 ## PRINTINGS
 
 

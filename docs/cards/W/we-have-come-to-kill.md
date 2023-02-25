@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/we-have-come-to-kill/
 ---
 
+# We Have Come to Kill
+
+
 ## PRINTINGS
 
 

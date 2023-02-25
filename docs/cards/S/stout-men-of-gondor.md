@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/stout-men-of-gondor/
 ---
 
+# Stout Men of Gondor
+
+
 ## PRINTINGS
 
 
@@ -30,6 +33,8 @@ permalink: /cards/stout-men-of-gondor/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 7/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+
 
 ### _Middle-earth Challenge Decks_
 

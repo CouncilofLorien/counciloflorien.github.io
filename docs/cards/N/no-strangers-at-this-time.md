@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/no-strangers-at-this-time/
 ---
 
+# No Strangers at this Time
+
+
 ## PRINTINGS
 
 

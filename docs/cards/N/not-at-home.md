@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/not-at-home/
 ---
 
+# Not at Home
+
+
 ## PRINTINGS
 
 

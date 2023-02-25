@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/bow-of-alatar/
 ---
 
+# Bow of Alatar
+
+
 ## PRINTINGS
 
 

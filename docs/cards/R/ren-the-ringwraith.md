@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/ren-the-ringwraith/
 ---
 
+# Ren the Ringwraith
+
+
 ## PRINTINGS
 
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/beorning-toll/
 ---
 
+# Beorning Toll
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/beorning-toll/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 11/6 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+

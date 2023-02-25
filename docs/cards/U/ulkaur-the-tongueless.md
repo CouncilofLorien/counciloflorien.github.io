@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/ulkaur-the-tongueless/
 ---
 
+# Ulkaur the Tongueless
+
+
 ## PRINTINGS
 
 

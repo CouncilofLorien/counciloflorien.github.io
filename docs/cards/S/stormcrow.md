@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/stormcrow/
 ---
 
+# Stormcrow
+
+
 ## PRINTINGS
 
 
@@ -24,3 +27,5 @@ permalink: /cards/stormcrow/
 > {: .hazard-text .black-text .p-2 }
 > > The direct influence of each Wizard is reduced by 2 (by 4 if _Doors of Night_ is in play). Discard all resource permanent-events that have been played on each company with a Wizard (i.e., on the company as a whole, not individual characters, e.g., _Fellowship_). No such cards may be played on each Wizard's company. <br>&ensp;Discard this card when any play deck is exhausted. Cannot be duplicated. 
 >
+
+

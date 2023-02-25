@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/true-cold-drake/
 ---
 
+# True Cold-drake
+
+
 ## PRINTINGS
 
 
@@ -30,6 +33,8 @@ permalink: /cards/true-cold-drake/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 14/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+
 
 ### _Middle-earth Challenge Decks_
 

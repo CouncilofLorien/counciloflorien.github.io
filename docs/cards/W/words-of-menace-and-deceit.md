@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/words-of-menace-and-deceit/
 ---
 
+# Words of Menace and Deceit
+
+
 ## PRINTINGS
 
 

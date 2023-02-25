@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/ent-draughts/
 ---
 
+# Ent-draughts
+
+
 ## PRINTINGS
 
 

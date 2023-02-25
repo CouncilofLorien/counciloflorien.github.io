@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/burning-rick,-cot,-and-tree/
 ---
 
+# Burning Rick, Cot, and Tree
+
+
 ## PRINTINGS
 
 

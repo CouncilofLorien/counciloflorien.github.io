@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/echo-of-all-joy/
 ---
 
+# Echo of all Joy
+
+
 ## PRINTINGS
 
 

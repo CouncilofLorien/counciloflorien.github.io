@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/dwar-the-ringwraith/
 ---
 
+# Dwar the Ringwraith
+
+
 ## PRINTINGS
 
 

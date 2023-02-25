@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/diminish-and-depart/
 ---
 
+# Diminish and Depart
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/diminish-and-depart/
 > > {: .fs-3 } 
 > > _“‘...if all the fair folk take to the Havens, it will be a duller world for those who are doomed to stay.’”_ ***---&#65279;LotRV*** 
 >
+
+

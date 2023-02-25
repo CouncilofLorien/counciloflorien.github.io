@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/foes-shall-fall/
 ---
 
+# Foes Shall Fall
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/foes-shall-fall/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
 > > <div class="card-corruption-white">〔 1(2) 〕</div>
+
+

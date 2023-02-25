@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/gems-of-arda/
 ---
 
+# Gems of Arda
+
+
 ## PRINTINGS
 
 

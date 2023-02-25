@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/horseman-in-the-night/
 ---
 
+# Horseman in the Night
+
+
 ## PRINTINGS
 
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/daelomin-roused/
 ---
 
+# Daelomin Roused
+
+
 ## PRINTINGS
 
 

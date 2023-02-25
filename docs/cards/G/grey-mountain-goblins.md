@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/grey-mountain-goblins/
 ---
 
+# Grey Mountain Goblins
+
+
 ## PRINTINGS
 
 

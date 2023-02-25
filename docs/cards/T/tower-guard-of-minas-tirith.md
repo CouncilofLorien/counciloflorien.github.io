@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/tower-guard-of-minas-tirith/
 ---
 
+# Tower Guard of Minas Tirith
+
+
 ## PRINTINGS
 
 

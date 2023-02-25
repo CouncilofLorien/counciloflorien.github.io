@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/lesser-spiders/
 ---
 
+# Lesser Spiders
+
+
 ## PRINTINGS
 
 
@@ -33,6 +36,8 @@ permalink: /cards/lesser-spiders/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 7/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+
 
 ### _Middle-earth: The Wizards Starter Set_
 
@@ -79,6 +84,8 @@ permalink: /cards/lesser-spiders/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 7/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+
 
 ### _Middle-earth Challenge Decks_
 

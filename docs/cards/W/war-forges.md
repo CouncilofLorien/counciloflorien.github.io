@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/war-forges/
 ---
 
+# War-forges
+
+
 ## PRINTINGS
 
 

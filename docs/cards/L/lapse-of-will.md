@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/lapse-of-will/
 ---
 
+# Lapse of Will
+
+
 ## PRINTINGS
 
 

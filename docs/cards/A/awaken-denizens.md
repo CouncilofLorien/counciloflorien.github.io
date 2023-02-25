@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/awaken-denizens/
 ---
 
+# Awaken Denizens
+
+
 ## PRINTINGS
 
 
@@ -27,6 +30,8 @@ permalink: /cards/awaken-denizens/
 > > {: .fs-3 } 
 > > _“‘...they're gone for robbers and live outside, hiding in the woods beyond Archet, and out in the wilds north-way. It's like a bit of the bad old times tales tell of, I say.’”_ ***---&#65279;LotRVI*** 
 >
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 
@@ -61,3 +66,5 @@ permalink: /cards/awaken-denizens/
 > > {: .fs-3 } 
 > > _“‘...I have a sense of watchfulness, and of fear, that I have never had here before.’”_ ***---&#65279;LotRIII*** 
 >
+
+

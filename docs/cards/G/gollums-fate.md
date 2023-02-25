@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/gollums-fate/
 ---
 
+# Gollum's Fate
+
+
 ## PRINTINGS
 
 

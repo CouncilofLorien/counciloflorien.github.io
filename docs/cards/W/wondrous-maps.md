@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/wondrous-maps/
 ---
 
+# Wondrous Maps
+
+
 ## PRINTINGS
 
 

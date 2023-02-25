@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/crowned-with-storm/
 ---
 
+# Crowned with Storm
+
+
 ## PRINTINGS
 
 

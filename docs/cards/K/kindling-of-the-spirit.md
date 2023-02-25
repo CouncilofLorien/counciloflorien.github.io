@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/kindling-of-the-spirit/
 ---
 
+# Kindling of the Spirit
+
+
 ## PRINTINGS
 
 

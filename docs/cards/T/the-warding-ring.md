@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/the-warding-ring/
 ---
 
+# The Warding Ring
+
+
 ## PRINTINGS
 
 

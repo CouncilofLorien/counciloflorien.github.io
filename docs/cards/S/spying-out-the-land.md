@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/spying-out-the-land/
 ---
 
+# Spying out the Land
+
+
 ## PRINTINGS
 
 

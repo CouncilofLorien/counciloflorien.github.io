@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/the-great-hunt/
 ---
 
+# The Great Hunt
+
+
 ## PRINTINGS
 
 

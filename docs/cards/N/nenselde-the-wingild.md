@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/nenselde-the-wingild/
 ---
 
+# Nenselde the Wingild
+
+
 ## PRINTINGS
 
 

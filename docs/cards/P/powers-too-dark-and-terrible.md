@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/powers-too-dark-and-terrible/
 ---
 
+# Powers Too Dark and Terrible
+
+
 ## PRINTINGS
 
 

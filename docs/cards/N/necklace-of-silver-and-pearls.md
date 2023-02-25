@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/necklace-of-silver-and-pearls/
 ---
 
+# Necklace of Silver and Pearls
+
+
 ## PRINTINGS
 
 

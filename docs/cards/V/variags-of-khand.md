@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/variags-of-khand/
 ---
 
+# Variags of Khand
+
+
 ## PRINTINGS
 
 

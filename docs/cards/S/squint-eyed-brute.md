@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/squint-eyed-brute/
 ---
 
+# Squint-eyed Brute
+
+
 ## PRINTINGS
 
 

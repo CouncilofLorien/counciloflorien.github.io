@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/under-his-blow/
 ---
 
+# Under His Blow
+
+
 ## PRINTINGS
 
 

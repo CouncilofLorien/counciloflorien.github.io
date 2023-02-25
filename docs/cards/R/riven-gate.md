@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/riven-gate/
 ---
 
+# Riven Gate
+
+
 ## PRINTINGS
 
 

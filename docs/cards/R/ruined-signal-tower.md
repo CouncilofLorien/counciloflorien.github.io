@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/ruined-signal-tower/
 ---
 
+# Ruined Signal Tower
+
+
 ## PRINTINGS
 
 

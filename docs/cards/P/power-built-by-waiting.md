@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/power-built-by-waiting/
 ---
 
+# Power Built by Waiting
+
+
 ## PRINTINGS
 
 
@@ -27,6 +30,8 @@ permalink: /cards/power-built-by-waiting/
 > > {: .fs-3 } 
 > > _“‘And perils known and unknown will grow as we go on.’”_ ***---&#65279;LotRII*** 
 >
+
+
 
 ### _Middle-earth Challenge Decks_
 

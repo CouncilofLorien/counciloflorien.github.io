@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/earcaraxe-roused/
 ---
 
+# Earcaraxe Roused
+
+
 ## PRINTINGS
 
 

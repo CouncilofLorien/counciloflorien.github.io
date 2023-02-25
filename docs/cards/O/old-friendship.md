@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/old-friendship/
 ---
 
+# Old Friendship
+
+
 ## PRINTINGS
 
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/the-balrog/
 ---
 
+# The Balrog
+
+
 ## PRINTINGS
 
 

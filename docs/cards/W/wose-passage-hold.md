@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/wose-passage-hold/
 ---
 
+# Wose Passage-hold
+
+
 ## PRINTINGS
 
 

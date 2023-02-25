@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/cup-of-farewell/
 ---
 
+# Cup of Farewell
+
+
 ## PRINTINGS
 
 

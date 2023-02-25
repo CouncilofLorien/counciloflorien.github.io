@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/rank-upon-rank/
 ---
 
+# Rank upon Rank
+
+
 ## PRINTINGS
 
 
@@ -27,6 +30,8 @@ permalink: /cards/rank-upon-rank/
 > > {: .fs-3 } 
 > > _“...rank upon rank...passing outwards in an endless stream."_ ***---&#65279;LotRIV***  
 >
+
+
 
 ### _Middle-earth Challenge Decks_
 

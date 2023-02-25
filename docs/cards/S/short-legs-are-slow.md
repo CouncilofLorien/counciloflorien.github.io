@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/short-legs-are-slow/
 ---
 
+# Short Legs Are Slow
+
+
 ## PRINTINGS
 
 
@@ -24,3 +27,5 @@ permalink: /cards/short-legs-are-slow/
 > {: .hazard-text .black-text .p-2 }
 > > ***This card affects companies with at least as many Hobbits as non-Hobbit characters.*** The number of region cards affected companies can play is reduced by one (normally from four to three). Affected companies cannot use starter movement if region movement is being used in the game. Cannot be duplicated. Discard when any play deck is exhausted. 
 >
+
+

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/half-orcs/
 ---
 
+# Half-orcs
+
+
 ## PRINTINGS
 
 

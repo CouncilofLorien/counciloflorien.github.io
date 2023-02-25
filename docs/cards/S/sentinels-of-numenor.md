@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/sentinels-of-numenor/
 ---
 
+# Sentinels of Numenor
+
+
 ## PRINTINGS
 
 

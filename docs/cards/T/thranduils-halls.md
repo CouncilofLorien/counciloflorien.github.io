@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/thranduils-halls/
 ---
 
+# Thranduil's Halls
+
+
 ## PRINTINGS
 
 

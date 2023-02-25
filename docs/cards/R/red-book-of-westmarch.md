@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/red-book-of-westmarch/
 ---
 
+# Red Book of Westmarch
+
+
 ## PRINTINGS
 
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/join-the-hunt/
 ---
 
+# Join the Hunt
+
+
 ## PRINTINGS
 
 

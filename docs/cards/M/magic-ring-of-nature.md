@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/magic-ring-of-nature/
 ---
 
+# Magic Ring of Nature
+
+
 ## PRINTINGS
 
 

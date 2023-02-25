@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/the-ithil-stone/
 ---
 
+# The Ithil-stone
+
+
 ## PRINTINGS
 
 

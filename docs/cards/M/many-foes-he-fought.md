@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/many-foes-he-fought/
 ---
 
+# Many Foes he Fought
+
+
 ## PRINTINGS
 
 

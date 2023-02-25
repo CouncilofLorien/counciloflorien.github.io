@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/elven-rope/
 ---
 
+# Elven Rope
+
+
 ## PRINTINGS
 
 

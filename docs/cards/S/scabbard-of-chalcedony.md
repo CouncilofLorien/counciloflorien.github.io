@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/scabbard-of-chalcedony/
 ---
 
+# Scabbard of Chalcedony
+
+
 ## PRINTINGS
 
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/huntsmans-garb/
 ---
 
+# Huntsman's Garb
+
+
 ## PRINTINGS
 
 

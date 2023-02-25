@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/jewel-of-beleriand/
 ---
 
+# Jewel of Beleriand
+
+
 ## PRINTINGS
 
 

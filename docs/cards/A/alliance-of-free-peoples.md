@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/alliance-of-free-peoples/
 ---
 
+# Alliance of Free Peoples
+
+
 ## PRINTINGS
 
 

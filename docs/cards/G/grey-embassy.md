@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/grey-embassy/
 ---
 
+# Grey Embassy
+
+
 ## PRINTINGS
 
 

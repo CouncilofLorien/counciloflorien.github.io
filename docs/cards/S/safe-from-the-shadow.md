@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/safe-from-the-shadow/
 ---
 
+# Safe from the Shadow
+
+
 ## PRINTINGS
 
 

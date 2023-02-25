@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/healing-of-nimrodel/
 ---
 
+# Healing of Nimrodel
+
+
 ## PRINTINGS
 
 

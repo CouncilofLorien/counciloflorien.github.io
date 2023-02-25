@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/master-of-esgaroth/
 ---
 
+# Master of Esgaroth
+
+
 ## PRINTINGS
 
 

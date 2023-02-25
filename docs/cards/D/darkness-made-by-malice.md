@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/darkness-made-by-malice/
 ---
 
+# Darkness Made by Malice
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/darkness-made-by-malice/
 > > {: .fs-3 } 
 > > _“Night always had been, and always would be, and night was all."_ ***---&#65279;LotRIV*** 
 >
+
+

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/snowstorm/
 ---
 
+# Snowstorm
+
+
 ## PRINTINGS
 
 
@@ -27,6 +30,8 @@ permalink: /cards/snowstorm/
 > > {: .fs-3 } 
 > > _“The wind whistled and the snow became a blinding blizzard."_ ***---&#65279;LotRII*** 
 >
+
+
 
 ### _Middle-earth: The Wizards Unlimited_
 

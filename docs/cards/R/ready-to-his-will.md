@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/ready-to-his-will/
 ---
 
+# Ready to His Will
+
+
 ## PRINTINGS
 
 

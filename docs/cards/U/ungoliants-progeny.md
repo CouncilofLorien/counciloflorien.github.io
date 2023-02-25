@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/ungoliants-progeny/
 ---
 
+# Ungoliant's Progeny
+
+
 ## PRINTINGS
 
 
@@ -30,3 +33,5 @@ permalink: /cards/ungoliants-progeny/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 16/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/stone-of-erech/
 ---
 
+# Stone of Erech
+
+
 ## PRINTINGS
 
 

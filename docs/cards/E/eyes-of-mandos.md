@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/eyes-of-mandos/
 ---
 
+# Eyes of Mandos
+
+
 ## PRINTINGS
 
 

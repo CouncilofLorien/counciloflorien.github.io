@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/exhalation-of-decay/
 ---
 
+# Exhalation of Decay
+
+
 ## PRINTINGS
 
 
@@ -27,6 +30,8 @@ permalink: /cards/exhalation-of-decay/
 > > {: .fs-3 } 
 > > _“...wavering and blowing like a noisome exhalation of decay, a corpse-light, a light that illuminated nothing."_ ***---&#65279;LotRIV*** 
 >
+
+
 
 ### _Middle-earth Challenge Decks_
 

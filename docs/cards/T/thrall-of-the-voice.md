@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/thrall-of-the-voice/
 ---
 
+# Thrall of the Voice
+
+
 ## PRINTINGS
 
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/so-youve-come-back/
 ---
 
+# So You've Come Back
+
+
 ## PRINTINGS
 
 
@@ -24,3 +27,5 @@ permalink: /cards/so-youve-come-back/
 > {: .hazard-text .black-text .p-2 }
 > > ***Playable on a character of 5 mind or less.*** The mind of each other non-follower, non-Ringwraith, non-Wizard character in his company increases by one. Discard this card during the organization phase if target character is in a company accompanied by himself at a Darkhaven <nobr>[<img src="/assets/images/dark-haven.svg">]</nobr>. Cannot be duplicated on a given company. 
 >
+
+

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/lady-of-the-golden-wood/
 ---
 
+# Lady of the Golden Wood
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/lady-of-the-golden-wood/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 12/10 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+

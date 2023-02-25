@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/sarn-goriwing/
 ---
 
+# Sarn Goriwing
+
+
 ## PRINTINGS
 
 

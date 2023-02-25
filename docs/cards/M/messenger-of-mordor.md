@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/messenger-of-mordor/
 ---
 
+# Messenger of Mordor
+
+
 ## PRINTINGS
 
 

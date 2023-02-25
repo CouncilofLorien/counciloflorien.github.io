@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/the-oracles-ring/
 ---
 
+# The Oracle's Ring
+
+
 ## PRINTINGS
 
 

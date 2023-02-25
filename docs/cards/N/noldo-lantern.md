@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/noldo-lantern/
 ---
 
+# Noldo-lantern
+
+
 ## PRINTINGS
 
 

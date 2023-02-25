@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/your-welcome-is-doubtful/
 ---
 
+# Your Welcome Is Doubtful
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/your-welcome-is-doubtful/
 > > {: .fs-3 } 
 > > _“‘...all his thought is bent on it. It is his great hope and our great fear.’”_ ***---&#65279;LotRI*** 
 >
+
+

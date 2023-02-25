@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/geann-a-lisch/
 ---
 
+# Geann a-Lisch
+
+
 ## PRINTINGS
 
 

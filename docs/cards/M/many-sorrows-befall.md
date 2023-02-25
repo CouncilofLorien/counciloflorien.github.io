@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/many-sorrows-befall/
 ---
 
+# Many Sorrows Befall
+
+
 ## PRINTINGS
 
 
@@ -27,3 +30,5 @@ permalink: /cards/many-sorrows-befall/
 > > {: .fs-3 } 
 > > _“Many sorrows befell them afterwards, and they were parted long."_ ***---&#65279;LotRI*** 
 >
+
+

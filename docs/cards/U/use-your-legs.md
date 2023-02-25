@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/use-your-legs/
 ---
 
+# Use Your Legs
+
+
 ## PRINTINGS
 
 

@@ -8,6 +8,9 @@ nav_exclude: false
 permalink: /cards/host-of-bats/
 ---
 
+# Host of Bats
+
+
 ## PRINTINGS
 
 
@@ -24,3 +27,5 @@ permalink: /cards/host-of-bats/
 > {: .hazard-text .black-text .p-2 }
 > > Against each company, one Orc hazard creature may be played that does not count against the hazard limit. Any character wounded by an Orc attack makes an additional body check modified by -1. <br>&ensp;Additionally, if _Shadow of Mordor_ is in play, any character wounded by any attack keyed to (or an automatic-attack at) a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> _or_ a Dark-hold <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr> makes an additional body check modified by -2. <br>&ensp;Cannot be duplicated. 
 >
+
+
