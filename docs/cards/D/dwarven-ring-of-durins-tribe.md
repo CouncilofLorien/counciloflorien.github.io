@@ -37,6 +37,8 @@ permalink: /cards/dwarven-ring-of-durins-tribe/
 > > <div class="card-shield">【 +2(4)/+1 】</div>
 > > <div class="card-corruption">〔 3(5) 〕</div>
 
+ - [FAQ #4 (Jan 1996) - Questions About Specific Cards](/original/rulings/faq-4/#questions-about-specific-cards)<br>**Q:** Do _Dwarven Rings_ give Dwarves +7 influence, or an influence of 7?<br>**A:** They give +7 to direct influence.
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

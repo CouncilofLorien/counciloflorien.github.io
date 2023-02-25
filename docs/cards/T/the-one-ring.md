@@ -34,6 +34,8 @@ permalink: /cards/the-one-ring/
 > > <div class="card-shield">【 +5/+5 】</div>
 > > <div class="card-corruption">〔 6 〕</div>
 
+ - [FAQ #5 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-5/#questions-about-specific-cards)<br>**Q:** Can _The One Ring_ be used more than once in a turn?<br>**A:** As long as all the corruption checks are made, yes.
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

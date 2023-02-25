@@ -40,6 +40,8 @@ permalink: /cards/gloin/
 > > <div class="card-shield">【 5/7 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
+ - [FAQ #3 (Jan 1996) - Questions About Characters](/original/rulings/faq-3/#questions-about-characters)<br>**Q:** Can characters with a bonus to influence against “Blue Mountain Dwarves” use that bonus against dwarf characters with the home site Blue Mountains?<br>**A:** No. This bonus only applies to the _Blue Mountain Dwarf_ faction.
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .character-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

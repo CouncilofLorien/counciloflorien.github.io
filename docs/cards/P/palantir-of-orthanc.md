@@ -34,6 +34,8 @@ permalink: /cards/palantir-of-orthanc/
 > > <div class="card-shield"></div>
 > > <div class="card-corruption">〔 2 〕</div>
 
+ - [FAQ #3 (Jan 1996) - Questions About Specific Cards](/original/rulings/faq-3/#questions-about-specific-cards)<br>**Q:** What happens if I use the _Palantir of Orthanc_ to get a site card from my discard deck?<br>**A:** This is actually an invalid use of the card. You can’t use it to get site cards because they don’t belong in your play deck.
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

@@ -29,6 +29,7 @@ permalink: /cards/siege/
 >
 
  - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>_Seige_ (errata): Change the border-land symbol in the first line to a border-hold symbol.
+ - [FAQ #4 (Jan 1996) - Questions About Specific Cards](/original/rulings/faq-4/#questions-about-specific-cards)<br>**Q:** When does _Siege_ go away?<br>**A:** When all copies of the site it is played on are removed.
 
 ### _Middle-earth: The Wizards Unlimited_
 

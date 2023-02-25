@@ -31,6 +31,8 @@ permalink: /cards/muster/
 > > _“...more than a hundred sturdy hobbits were assembled with axes, and heavy hammers, and long knives, and stout staves; and a few had hunting-bows."_ ***---&#65279;LotRVI*** 
 > 
 
+ - [FAQ #5 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-5/#questions-about-specific-cards)<br>**Q:** Can _Muster_ be played when influencing an opponent’s faction?<br>**A:** Yes.
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

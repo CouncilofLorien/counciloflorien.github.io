@@ -40,6 +40,8 @@ permalink: /cards/gandalf/
 > > <div class="card-shield">【 6/9 】</div>
 > > <div class="card-corruption">〔 +1 〕</div>
 
+ - [FAQ #5 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-5/#questions-about-specific-cards)<br>**Q:** Does Gandalf have to be in the same company as the ring he tests?<br>**A:** Yes.
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .character-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

@@ -32,6 +32,7 @@ permalink: /cards/lure-of-expedience/
 > > <div class="card-corruption-white">〔 2 〕</div>
 
  - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** If I play a ring special item after testing a gold ring, will this trigger a corruption check for Lure of Expedience?<br>**A:** Yes, it will trigger a corruption check.
+ - [FAQ #5 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-5/#questions-about-specific-cards)<br>**Q:** Will _Lure of Expedience_ trigger if I transfer an item from one character to another?<br>**A:** Yes, it will.
 
 ### _Middle-earth: The Wizards Unlimited_
 

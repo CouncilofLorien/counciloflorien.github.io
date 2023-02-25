@@ -31,7 +31,7 @@ permalink: /cards/doors-of-night/
 > > _“...already the fire in the sky was burning out, and the smouldering hills were fading, while ash-grey evening crept over the fields."_ ***---&#65279;LotRV*** 
 >
 
- - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** Does Doors of Night cancel resource environments played after the Doors of Night are played?<br>**A:** No. Doors of Night only cancels resource environments that are in play when the Doors of Night are played. The same goes for Gates of Morning cancelling hazard environments.
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** Does _Doors of Night_ cancel resource environments played after the _Doors of Night_ are played?<br>**A:** No. _Doors of Night_ only cancels resource environments that are in play when the _Doors of Night_ are played. The same goes for _Gates of Morning_ cancelling hazard environments.
 
 ### _Middle-earth: The Wizards Unlimited_
 

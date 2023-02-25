@@ -34,6 +34,8 @@ permalink: /cards/elven-cloak/
 > > <div class="card-shield"></div>
 > > <div class="card-corruption">〔 1 〕</div>
 
+ - [FAQ #4 (Jan 1996) - Questions About Specific Cards](/original/rulings/faq-4/#questions-about-specific-cards)<br>**Q:** Can you use an _Elven Cloak_ to cancel a hazard keyed to double wilderness?<br>*A: Yes.
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

@@ -31,6 +31,8 @@ permalink: /cards/dreams-of-lore/
 > > _“...if sleep could be called...resting his mind in the strange paths of elvish dreams...”_ ***---&#65279;LotRII*** 
 > 
 
+ - [FAQ #5 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-5/#questions-about-specific-cards)<br>**Q:** Do I have to store _Dreams of Lore_ to get the MPs?<br>**A:** No.
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

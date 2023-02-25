@@ -37,6 +37,9 @@ permalink: /cards/alatar/
 > > <div class="card-shield">【 6/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
+ - [FAQ #4 (Jan 1996) - Questions About Specific Cards](/original/rulings/faq-4/#questions-about-specific-cards)<br>**Q:** If Alatar uses his special ability to help a company, does he stay with that company?<br>*A: Yes, he does.
+ - [FAQ #5 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-5/#questions-about-specific-cards)<br>**Q:** Can Alatar make someone draw 0 cards, even though the rules say you must draw at least 1?<br>**A:** Yes, Alatar can force a zero-card draw.
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .character-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

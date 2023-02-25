@@ -38,6 +38,8 @@ permalink: /cards/slayer/
 > > <div class="card-corruption">&nbsp;</div>
 
  - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>_Slayer_ (errata): Gives 2 marshalling point, not 0.
+ - [FAQ #4 (Jan 1996) - Questions About Specific Cards](/original/rulings/faq-4/#questions-about-specific-cards)<br>**Q:** Can I tap the target of _Slayer_ to cancel one of the attacks?<br>**A:** No.
+ - [FAQ #5 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-5/#questions-about-specific-cards)<br>**Q:** Can I tap the target of _Slayer_ to cancel one of the attacks?<br>A: Yes.
 
 ### _Middle-earth: The Wizards Unlimited_
 

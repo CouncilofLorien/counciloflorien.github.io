@@ -28,6 +28,8 @@ permalink: /cards/long-winter/
 > > _Environment._ Each moving company that has at least two Wildernesses <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> in its site path must return to its site of origin unless it contains a ranger. <br>&ensp;Additionally, if _Doors of Night_ is in play, each non-Haven site card with at least two Wildernesses <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> in its site path is tapped. <br>&ensp;Cannot be duplicated. 
 >
 
+ - [FAQ #4 (Jan 1996) - Questions About Specific Cards](/original/rulings/faq-4/#questions-about-specific-cards)<br>**Q:** If _Doors of Night_ is in play, _Long Winter_ only taps the sites belonging to the player whose turn it is, right?<br>**A: Wrong.** \*All\* sites in play with two Wildernesses in their site path become tapped.
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

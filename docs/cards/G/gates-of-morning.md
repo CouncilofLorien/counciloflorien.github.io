@@ -31,6 +31,8 @@ permalink: /cards/gates-of-morning/
 > > _“Day came pale from the East. As the light grew it filtered through the yellow leaves...the early sun of a cool summer's morning was shining."_ ***---&#65279;LotRII*** 
 > 
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** Does _Doors of Night_ cancel resource environments played after the _Doors of Night_ are played?<br>**A:** No. _Doors of Night_ only cancels resource environments that are in play when the _Doors of Night_ are played. The same goes for _Gates of Morning_ cancelling hazard environments.
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

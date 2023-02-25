@@ -37,6 +37,8 @@ permalink: /cards/vygavril/
 > > <div class="card-shield">【 2/7 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
+ - [FAQ #4 (Jan 1996) - Questions About Specific Cards](/original/rulings/faq-4/#questions-about-specific-cards)<br>**Q:** Whose body is refered to on Eowyn and many of the other female cards, hers or the Nazgul’s? *A: The Nazgul’s.
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .character-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

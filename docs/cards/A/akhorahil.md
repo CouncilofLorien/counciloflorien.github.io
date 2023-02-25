@@ -35,6 +35,7 @@ permalink: /cards/akhorahil/
 > > <div class="card-corruption">&nbsp;</div>
 
  - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>_Akhorahil_ (errata): Change “…gives -1 penalty to one…” to “…gives a +1 penalty to one…”
+ - [FAQ #5 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-5/#questions-about-specific-cards)<br>_Akhorahil_ (errata): Change “…gives -1 penalty to one…” to “…modifies any one character’s body by -1 for the rest of the turn.”
 
 ### _Middle-earth: The Wizards Unlimited_
 

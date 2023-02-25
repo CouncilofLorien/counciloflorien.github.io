@@ -31,6 +31,8 @@ permalink: /cards/lure-of-the-senses/
 > > <div class="card-shield"></div>
 > > <div class="card-corruption-white">〔 2 〕</div>
 
+ - [FAQ #4 (Jan 1996) - Questions About Specific Cards](/original/rulings/faq-4/#questions-about-specific-cards)<br>**Q:** If I tap a character to help another character with a _Lure of the Sense’s_ corruption check, do they then untap?<br>**A:** No, they will not untap until next turn.
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

@@ -31,6 +31,8 @@ permalink: /cards/fellowship/
 > > <div class="card-shield">【 +1/&ndash; 】</div>
 > > <div class="card-corruption">〔 +1 〕</div>
 
+ - [FAQ #4 (Jan 1996) - Questions About Specific Cards](/original/rulings/faq-4/#questions-about-specific-cards)<br>**Q:** Can I play more than one _Fellowship_ on a company?<br>**A:** Yes.
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

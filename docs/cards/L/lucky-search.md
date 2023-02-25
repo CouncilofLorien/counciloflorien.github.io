@@ -29,6 +29,8 @@ permalink: /cards/lucky-search/
 > 
 
  - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** Can I play _Lucky Search_ at a tapped site?<br>**A:** Sure, go ahead. It can be played at a tapped or untapped site.
+ - [FAQ #4 (Jan 1996) - Questions About Specific Cards](/original/rulings/faq-4/#questions-about-specific-cards)<br>**Q:** If I get a second resource with _Lucky Search_ can I play a second minor item too?<br>**A:** No.
+ - [FAQ #5 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-5/#questions-about-specific-cards)<br>**Q:** When the scout faces the attack for _Lucky Search_ are they tapped and do they have the item?<br>**A:** They are tapped and they do have the item.
 
 ### _Middle-earth: The Wizards Unlimited_
 

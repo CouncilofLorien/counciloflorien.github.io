@@ -35,6 +35,8 @@ permalink: /cards/dwarven-ring-of-bavors-tribe/
 > > <div class="card-corruption">〔 3(5) 〕</div>
 
  - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>_Dwarven Ring of Bavor’s Tribe_ (errata): one “reshuffle the play deck” is sufficient.
+ - [FAQ #4 (Jan 1996) - Questions About Specific Cards](/original/rulings/faq-4/#questions-about-specific-cards)<br>**Q:** Does the site have to be untapped in order to use the _Dwarven Ring of Barin’s Tribe_?<br>*A: Yes.
+ - [FAQ #4 (Jan 1996) - Questions About Specific Cards](/original/rulings/faq-4/#questions-about-specific-cards)<br>**Q:** Do _Dwarven Rings_ give Dwarves +7 influence, or an influence of 7?<br>**A:** They give +7 to direct influence.
 
 ### _Middle-earth: The Wizards Unlimited_
 

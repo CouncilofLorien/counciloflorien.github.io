@@ -34,6 +34,8 @@ permalink: /cards/gollum/
 > > <div class="card-shield">【 2/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
+ - [FAQ #3 (Jan 1996) - Questions About Specific Cards](/original/rulings/faq-3/#questions-about-specific-cards)<br>**Q:** Can _Gollum_ and _The One Ring_ ever be together at the same site?<br>**A:** Yes. The text on _Gollum_ is an ability that you can choose to use, not an effect that happens automatically.
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

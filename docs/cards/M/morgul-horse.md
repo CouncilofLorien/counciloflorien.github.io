@@ -32,6 +32,7 @@ permalink: /cards/morgul-horse/
 >
 
  - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** When do I have to declare using the _Morgul-horse_ to bring a Nazgul permanent-event back into my hand?<br>**A:** You must declare this during the same turn, but before, the target Nazgul permanent-event is tapped.
+ - [FAQ #5 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-5/#questions-about-specific-cards)<br>**Q:** When do I have to declare using the _Morgul-horse_ to bring a Nazgul permanent-event back into my hand?<br>**A:** You must declare this immediately after declaring the Nazgul permanent-event is tapping, before the Nazgul resolves and goes to the discard pile.
 
 ### _Middle-earth: The Wizards Unlimited_
 

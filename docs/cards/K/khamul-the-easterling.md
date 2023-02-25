@@ -34,6 +34,9 @@ permalink: /cards/khamul-the-easterling/
 > > <div class="card-shield">【 18/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
+ - [FAQ #5 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-5/#questions-about-specific-cards)<br>**Q:** Do the cards you have to discard when _Khamul the Easterling_ taps come from your hand, from in play, or both?<br>**A:** From your hand only.
+ - [FAQ #5 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-5/#questions-about-specific-cards)<br>**Q:** Is the number of cards discarded determined when _Khamul_ is declared or when he is resolved?<br>**A:** When he is declared.
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
