@@ -23,7 +23,7 @@ Version 3[^CRF3]
 
 ---
 
-[^CRF3]: There is no CRF 3. Given the delays in issuing CRF 1 after FAQ 7 and given that Ichabod, maintainer of the FAQ and CRF, was receiving compensation material (booster packs) for work performed, it appears that CRF 4 was the fourth CRF that Ichabod submitted to ICE as a work product even though only two CRFs were approved and published at the time.
+There is no CRF 3. Given the delays in issuing CRF 1 after FAQ 7 and given that Ichabod, maintainer of the FAQ and CRF, was receiving compensation material (booster packs) for work performed, it appears that CRF 4 was the fourth CRF that Ichabod submitted to ICE as a work product even though only two CRFs were approved and published at the time.
 
 Its also ppssible that CRF2 incorporated later changes without being given a new version number as CRF 2 was said to be issued at the beginning of December 1996 but includes rulings through January 1997.
 
