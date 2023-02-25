@@ -32,6 +32,7 @@ permalink: /cards/gates-of-morning/
 > 
 
  - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** Does _Doors of Night_ cancel resource environments played after the _Doors of Night_ are played?<br>**A:** No. _Doors of Night_ only cancels resource environments that are in play when the _Doors of Night_ are played. The same goes for _Gates of Morning_ cancelling hazard environments.
+ - [FAQ #6 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-6/#questions-about-specific-cards)<br>**Q:** Does _Doors of Night_ cancel resource environments played after the _Doors of Night_ are played?<br>**A:** No. _Doors of Night_ only cancels resource environments that are in play when the _Doors of Night_ are played. The same goes for _Gates of Morning_ cancelling hazard environments. Neither card can be played after strikes from an attack have been assigned, if the card would cause the number of strikes from the attack to change.
 
 ### _Middle-earth: The Wizards Unlimited_
 

@@ -34,6 +34,8 @@ permalink: /cards/align-palantir/
 > > <div class="card-shield"></div>
 > > <div class="card-corruption">〔 2 〕</div>
 
+ - [FAQ #6 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-6/#questions-about-specific-cards)<br>**Q:** Can an Aligned Palantir be stored?<br>**A:** Yes.
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

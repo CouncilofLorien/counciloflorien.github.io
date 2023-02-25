@@ -32,6 +32,7 @@ permalink: /cards/ent-draughts/
 > > <div class="card-corruption">&nbsp;</div>
 
  - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>_Ent-draughts_ (errata): Remove “as a minor item” and replace with “and only if an ally or faction has been succesfully played at Wellinghall.”
+ - [FAQ #6 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-6/#questions-about-specific-cards)<br>_Ent-draughts_ (errata): Remove “as a minor item” and replace with “in addition to an ally or faction has been succesfully played at Wellinghall.”
 
 ### _Middle-earth: The Wizards Unlimited_
 

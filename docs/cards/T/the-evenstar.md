@@ -28,6 +28,8 @@ permalink: /cards/the-evenstar/
 > > _Environment._ The prowess of one Elf is modified by +1 until the end of the turn. <br>&ensp;Additionally, if _Gates of Morning_ is in play, until the end of the turn, the prowess of each Elf is modified by +1 **and** treat one Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> as a Border-land <nobr>[<img src="/assets/images/border-land.svg">]</nobr>, or one Border-land <nobr>[<img src="/assets/images/border-land.svg">]</nobr> as a Free-domain <nobr>[<img src="/assets/images/free-domain.svg">]</nobr>. <br>&ensp;Cannot be duplicated. 
 > 
 
+ - [FAQ #6 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-6/#questions-about-specific-cards)<br>**Q:** Can I play _the Evenstar_ if there are no Wilderness or Border-lands in play?<br>**A:** Yes. The additional effect of _the Evenstar_ if _Gates of Morning_ is in play is optional.
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

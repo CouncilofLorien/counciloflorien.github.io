@@ -37,6 +37,8 @@ permalink: /cards/corsairs-of-umbar/
 > > <div class="card-shield">【 9/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
+ - [FAQ #6 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-6/#questions-about-specific-cards)<br>_Corsairs of Umbar_ (errata): Add “May also be played at any site in Elven Shores, Eriadoran Coast, Andrast Coast, Bay of Belfalas, or Mouths of the Anduin.”
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

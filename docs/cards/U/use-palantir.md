@@ -31,6 +31,8 @@ permalink: /cards/use-palantir/
 > > _“But he himself went up alone into the secret room under the summit of the Tower; and many who looked up thither at that time saw a pale light that gleamed and flickered from the narrow windows for a while, and then flashed and went out."_ ***---&#65279;LotRV*** 
 > 
 
+ - [FAQ #6 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-6/#questions-about-specific-cards)<br>_Use Palantir_ (errata): Change text to “***Sage only.*** Tap sage to enable him to use one Palantir he bears for the rest of the turn.”
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

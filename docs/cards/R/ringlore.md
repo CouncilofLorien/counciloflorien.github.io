@@ -29,6 +29,7 @@ permalink: /cards/ringlore/
 > 
 
  - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** What happens to a Gold Ring card when I test it?<br>**A:** It is discarded, and you loose the Marshalling Point it gave you. If you have the right ring (as indicated by the test roll) in your hand you may play it immediately.
+ - [FAQ #6 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-6/#questions-about-specific-cards)<br>_Ringlore_ (errata): Add “***Playable only during the site phase.*** Tap the sage and the site.”
 
 ### _Middle-earth: The Wizards Unlimited_
 

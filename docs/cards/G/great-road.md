@@ -29,6 +29,7 @@ permalink: /cards/great-road/
 > 
 
  - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** When _Great Road_ is played does the opponent have to draw twice the number of cards normally drawn?<br>**A:** No, they may choose to draw less. Consider _Great Road_ to have errata that changes “Opponent draws twice…” to “Opponent may draw up to twice.”
+ - [FAQ #6 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-6/#questions-about-specific-cards)<br>_Great-road_ (errata): Replace “Opponent draws twice…” with “Opponent may draw up to twice…”
 
 ### _Middle-earth: The Wizards Unlimited_
 

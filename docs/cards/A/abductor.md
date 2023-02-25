@@ -37,6 +37,8 @@ permalink: /cards/abductor/
 > > <div class="card-shield">【 10/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
+ - [FAQ #6 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-6/#questions-about-specific-cards)<br>**Q:** How do you treat a character who is discarded due to an _Abductor_?<br>**A:** Treat them as if the character had been killed in combat, except they are not removed from play. Therefore one item can be transfered to an unwounded character in the party.
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

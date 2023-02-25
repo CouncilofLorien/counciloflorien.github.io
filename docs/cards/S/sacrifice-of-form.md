@@ -34,8 +34,9 @@ permalink: /cards/sacrifice-of-form/
 > > <div class="card-shield">【 +1/+1 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
- - [FAQ #5 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-5/#questions-about-specific-cards)<br>**Q:** What exactly happens when I play _Sacrifice of Form_?<br>
-**A:** Remove your Wizard from play and place all of his items on the _Sacrifice of Form_ card. If your opponent plays the same Wizard they do not get the items on the _Sacrifice of Form_. Note that it is legal to sac one Wizard and then play a different one.
+ - [FAQ #5 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-5/#questions-about-specific-cards)<br>**Q:** What exactly happens when I play _Sacrifice of Form_?<br>**A:** Remove your Wizard from play and place all of his items on the _Sacrifice of Form_ card. If your opponent plays the same Wizard they do not get the items on the _Sacrifice of Form_. Note that it is legal to sac one Wizard and then play a different one.
+ - [FAQ #7 Mar 1996) - Questions About Specific Cards](/original/rulings/faq-7/#questions-about-specific-cards)<br>**Q:** What exactly happens when I play _Sacrifice of Form_?<br>**A:** Remove your Wizard from play and place all of his items on the _Sacrifice of Form_ card. If your opponent plays the same Wizard they do not get the items on the _Sacrifice of Form_. Note that it is legal to sac one Wizard and then play a different one, but again the Wizard does not get the items
+ - [FAQ #7 Mar 1996) - Cards with Errata(/original/rulings/faq-7/#cards-with-errata)<br>_Sacrifice of Form_ (errata): Replace “-3 to any body checks…” with “+3 to any body checks…”
 
 ### _Middle-earth: The Wizards Unlimited_
 

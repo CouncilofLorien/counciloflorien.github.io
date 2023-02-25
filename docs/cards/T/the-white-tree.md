@@ -31,6 +31,10 @@ permalink: /cards/the-white-tree/
 > > _“And the Tree that was withered shall be renewed, and he shall plant it in high places, and the City shall be blessed."_ ***---&#65279;LotRVI*** 
 > 
 
+ - [FAQ #6 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-6/#questions-about-specific-cards)<br>_The White Tree_ (errata): Add “Discard the Sapling of the White Tree.”
+ - [FAQ #6 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-6/#questions-about-specific-cards)<br>**Q:** If _the White Tree_ is in play and I leave Minas Tirith while it is tapped, what happens to the cards?<br>**A:** Minas Tirith is discarded and _the White Tree_ remains in play.
+ - [FAQ #7 Mar 1996) - Cards with Errata(/original/rulings/faq-7/#cards-with-errata)<br>_The White Tree_ (errata): Add “Discard the _Sapling of the White Tree_.” Note that you can only discard a _Sapling_ that you played.
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

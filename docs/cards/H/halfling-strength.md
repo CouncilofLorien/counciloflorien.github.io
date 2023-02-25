@@ -31,6 +31,8 @@ permalink: /cards/halfling-strength/
 > > _“‘I have known strong warriors...who would quickly have been overcome by that splinter, which you bore for seventeen days.’”_ ***---&#65279;LotRII*** 
 > 
 
+ - [FAQ #6 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-6/#questions-about-specific-cards)<br>**Q:** If I am at a site where healing cards affect all characters at the site and I play _Halfling Strength_, is everyone healed?<br>**A:** Yes.
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

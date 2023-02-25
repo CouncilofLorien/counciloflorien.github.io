@@ -29,6 +29,8 @@ permalink: /cards/traitor/
 >
 
  - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>_Traitor_ (errata): Remove the last paragraph.
+ - [FAQ #6 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-6/#questions-about-specific-cards)<br>_Traitor_ (errata): Replace the last paragraph with “This card is discarded when a character fails his corruption check.”
+ - [FAQ #7 Mar 1996) - Questions About Specific Cards](/original/rulings/faq-7/#questions-about-specific-cards)<br>**Q:** What happens if a character fails a corruption check while two _Traitors_ are in play?<br>**A:** The character attacks once and both _Traitors_ are discarded.
 
 ### _Middle-earth: The Wizards Unlimited_
 

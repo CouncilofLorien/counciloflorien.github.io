@@ -31,6 +31,8 @@ permalink: /cards/army-of-the-dead/
 > > _“I see shapes of Men and of horses, and pale banners like shreds of cloud, and spears like winter-thickets on a misty night. The Dead are following."_ ***---&#65279;LotRV*** 
 > 
 
+ - [FAQ #6 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-6/#questions-about-specific-cards)<br>_Army of the Dead_ (errata): Add “May not be influenced by an opponent.”
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

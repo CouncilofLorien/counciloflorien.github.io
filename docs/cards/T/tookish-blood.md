@@ -30,7 +30,7 @@ permalink: /cards/tookish-blood/
 
  - [FAQ #4 (Jan 1996) - Questions About Specific Cards](/original/rulings/faq-4/#questions-about-specific-cards)<br>**Q:** Can I play _Tookish Blood_ on a character who just failed a corruption check?<br>**A:** The discarding of the character happens immediately after the failed roll. There is no time for any effects to be used.
  - [FAQ #5 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-5/#questions-about-specific-cards)<br>_Tookish Blood_ (errata): This card may be played at any time during any turn.
-
+ - [FAQ #7 Mar 1996) - Cards with Errata(/original/rulings/faq-7/#cards-with-errata)<br>_Tookish Blood_ (errata): There is no errata on _Tookish Blood_.
 
 ### _Middle-earth: The Wizards Unlimited_
 

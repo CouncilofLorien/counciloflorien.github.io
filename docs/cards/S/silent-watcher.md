@@ -38,6 +38,7 @@ permalink: /cards/silent-watcher/
 > > <div class="card-corruption">&nbsp;</div>
 
  - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>_Silent Watcher_ (errata): Gives 1 marshalling point, not 0.
+ - [FAQ #6 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-6/#questions-about-specific-cards)<br>_Silent Watcher_ (errata): Gives 1 marshalling point, not 0. Add “_Pukel-creature._”
 
 ### _Middle-earth: The Wizards Unlimited_
 

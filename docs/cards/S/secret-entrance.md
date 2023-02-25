@@ -31,6 +31,9 @@ permalink: /cards/secret-entrance/
 > > _“...their own masters cannot find them...if their secret is forgotten."_ ***---&#65279;LotRII*** 
 > 
 
+ - [FAQ #6 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-6/#questions-about-specific-cards)<br>**Q:** What happens if it turns out someone played a _Secret Entrance_ while the company had a face down card that was a Dark-domain?<br>**A:** The effects of the card would be cancelled and the sage would remain tapped. Note that long events that were in play at the end of the organization phase would have to be considered when determining this.
+ - [FAQ #7 Mar 1996) - Questions About Specific Cards](/original/rulings/faq-7/#questions-about-specific-cards)<br>**Q:** Can I play _Secret Entrance_ on a company that doesn’t move?<br>*A: Yes.
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

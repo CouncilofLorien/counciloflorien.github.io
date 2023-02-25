@@ -31,6 +31,8 @@ permalink: /cards/dodge/
 > > _“A quick duck had saved him; and he had felled his orc: a sturdy thrust with his Barrow-blade."_ ***---&#65279;LotRII*** 
 > 
 
+ - [FAQ #6 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-6/#questions-about-specific-cards)<br>_Dodge_ (errata): Replace “…his body check is modified by -1.” with “…his body is modified by -1 for the resulting body check.”
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

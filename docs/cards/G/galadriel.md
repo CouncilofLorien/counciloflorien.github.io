@@ -40,6 +40,8 @@ permalink: /cards/galadriel/
 > > <div class="card-shield">【 3/10 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
+ - [FAQ #7 Mar 1996) - Questions About Movement](/original/rulings/faq-7/#questions-about-movement)<br>**Q:** When is a company considered to be at a site it just moved to?<br>**A:** At the begining of the site phase.
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .character-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

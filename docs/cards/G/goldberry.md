@@ -34,6 +34,8 @@ permalink: /cards/goldberry/
 > > _“...as young and ancient as Spring...”_ ***---&#65279;LotRI***
 > 
 
+ - [FAQ #6 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-6/#questions-about-specific-cards)<br>**Q:** When can you use _Goldberry’s_ special ability?<br>**A:** You can tap _Goldbery_ to cancel an effect declared earlier in the same chain of effects that would return her company to its site of origin.
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

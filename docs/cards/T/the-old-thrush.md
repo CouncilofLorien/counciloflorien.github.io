@@ -31,6 +31,8 @@ permalink: /cards/the-old-thrush/
 > > _“Suddenly out of the dark something fluttered to his shoulder. 'Wait! Wait!' it said to him. 'The moon is rising. Look for the hollow of the left breast as he flies and turns above you!’”_ ***---&#65279;Hob***  
 > 
 
+ - [FAQ #7 Mar 1996) - Cards with Errata(/original/rulings/faq-7/#cards-with-errata)<br>_The Old Thrush_ (errata): Add “Cannot be duplicated on a given attack.”
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

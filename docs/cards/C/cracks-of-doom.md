@@ -31,6 +31,8 @@ permalink: /cards/cracks-of-doom/
 > > _“...on the brink of the chasm, at the very Crack of Doom, stood Frodo...”_ ***---&#65279;LotRVI*** 
 > 
 
+ - [FAQ #6 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-6/#questions-about-specific-cards)<br>_Cracks of Doom_ (errata): Remove “Otherwise, discard _The One Ring_ and its bearer.”
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

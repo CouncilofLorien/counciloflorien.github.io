@@ -37,6 +37,8 @@ permalink: /cards/wizards-ring/
 > > <div class="card-shield">【 +2/+1 】</div>
 > > <div class="card-corruption">〔 4 〕</div>
 
+ - [FAQ #6 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-6/#questions-about-specific-cards)<br>_Wizard’s Ring_ (errata): Replace “Ignore any effect that would discard this item” with “Cannot be stored, stolen, or transfered.”
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

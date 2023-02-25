@@ -31,6 +31,8 @@ permalink: /cards/lure-of-nature/
 > > <div class="card-shield"></div>
 > > <div class="card-corruption-white">〔 2 〕</div>
 
+ - [FAQ #6 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-6/#questions-about-specific-cards)<br>_Lure of Nature_ (errata): Replace “…at the end of each movement/hazard phase…” with “…after all other hazards have been played…”
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

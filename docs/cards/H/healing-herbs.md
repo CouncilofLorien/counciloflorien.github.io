@@ -31,6 +31,8 @@ permalink: /cards/healing-herbs/
 > > <div class="card-shield"></div>
 > > <div class="card-corruption">〔 1 〕</div>
 
+ - [FAQ #6 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-6/#questions-about-specific-cards)<br>**Q:** Can _Healing Herbs_ be used to heal a wounded character before the body check, and thus avoid the body check?<br>**A:** The character will heal, but the body check is unavoidable.
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

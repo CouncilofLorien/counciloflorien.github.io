@@ -32,6 +32,7 @@ permalink: /cards/the-pale-sword/
 > > <div class="card-corruption-white">〔 6 〕</div>
 
  - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** When does a wounded character recieve the corruption from the _Pale Sword_?<br>A: Immediately following the Nazgul’s attack. The same is true for the _Morgul-knife_.
+ - [FAQ #7 Mar 1996) - Questions About Specific Cards](/original/rulings/faq-7/#questions-about-specific-cards)<br>**Q:** If a character already has had a corruption card played on him during his turn, and he is wounded by a Nazgul bearing _Morgul-knife_ or _The Pale Sword_, are they eligible to receive one of these corruption cards also? The rules state that a maximum of one corruption card may be played on a character per turn.<br>**A:** The character may not be assigned _The Pale Sword_ or _Morgul-knife_ as corruption cards in this situation. These two Nazgul enhancers should be ammended to say that playing them as corruption cards is optional.
 
 ### _Middle-earth: The Wizards Unlimited_
 

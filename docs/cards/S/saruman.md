@@ -41,6 +41,7 @@ permalink: /cards/saruman/
 > > <div class="card-corruption">&nbsp;</div>
 
  - [FAQ #4 (Jan 1996) - Questions About Specific Cards](/original/rulings/faq-4/#questions-about-specific-cards)<br>**Q:** I can tap Saruman to use an un-aligned palantir, right?<br>**A:** Right.
+ - [FAQ #7 Mar 1996) - Questions About Specific Cards](/original/rulings/faq-7/#questions-about-specific-cards)<br>**Q:** Can Saruman use a palantir someone else in his party is carrying?<br>**A:** No.
 
 ### _Middle-earth: The Wizards Unlimited_
 

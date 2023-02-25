@@ -34,6 +34,9 @@ permalink: /cards/bill-the-pony/
 > > <div class="card-shield">【 -2/6 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
+ - [FAQ #6 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-6/#questions-about-specific-cards)<br>_Bill the Pony_ (errata): The prowess of this ally should be 10, not 6.
+ - [FAQ #7 Mar 1996) - Cards with Errata(/original/rulings/faq-7/#cards-with-errata)<br>_Bill the Pony_ (errata): The body of this ally should be 10, not 6.
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

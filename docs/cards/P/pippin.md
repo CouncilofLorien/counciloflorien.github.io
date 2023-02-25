@@ -40,6 +40,8 @@ permalink: /cards/pippin/
 > > <div class="card-shield">【 1/9 】</div>
 > > <div class="card-corruption">〔 +2 〕</div>
 
+ - [FAQ #7 Mar 1996) - Questions About Characters](/original/rulings/faq-7/#questions-about-characters)<br>**Q:** If I have a hobbit in my starting company and that hobbit leaves play and comes into my hand, can I play him at a haven?<br>**A:** No, he must be played at Bag End.
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .character-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

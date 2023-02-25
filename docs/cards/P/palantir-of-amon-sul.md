@@ -31,6 +31,8 @@ permalink: /cards/palantir-of-amon-sul/
 > > <div class="card-shield"></div>
 > > <div class="card-corruption">〔 3 〕</div>
 
+ - [FAQ #6 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-6/#questions-about-specific-cards)<br>**Q:** If you are moving with the _Palantir of Amon Sul_ or the _Palantir of Osgiliath_ and the company size goes below the required number, do you have to discard the Palantir?<br>**A:** Yes.
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

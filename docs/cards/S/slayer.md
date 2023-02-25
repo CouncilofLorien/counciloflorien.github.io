@@ -40,6 +40,9 @@ permalink: /cards/slayer/
  - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>_Slayer_ (errata): Gives 2 marshalling point, not 0.
  - [FAQ #4 (Jan 1996) - Questions About Specific Cards](/original/rulings/faq-4/#questions-about-specific-cards)<br>**Q:** Can I tap the target of _Slayer_ to cancel one of the attacks?<br>**A:** No.
  - [FAQ #5 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-5/#questions-about-specific-cards)<br>**Q:** Can I tap the target of _Slayer_ to cancel one of the attacks?<br>A: Yes.
+ - [FAQ #6 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-6/#questions-about-specific-cards)<br>_Slayer_ (errata): Gives 2 marshalling point, not 0. Add “_Slayer._”
+ - [FAQ #6 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-6/#questions-about-specific-cards)<br>**Q:** Can I tap two characters to cancel both of the _Slayer’s_ attacks?<br>**A:** No. Only one attack can be canceled.
+ - [FAQ #6 (Feb 1996) - Miscellaneous Questions](/original/rulings/faq-6/#miscellaneous-questions)<br>**Q:** Can an ally tap to support a character in combat or to cancel an attack with an _Assassin_ or _Slayer_?<br>**A:** Yes and Yes.
 
 ### _Middle-earth: The Wizards Unlimited_
 

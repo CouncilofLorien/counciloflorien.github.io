@@ -34,6 +34,8 @@ permalink: /cards/treebeard/
 > > <div class="card-shield">【 8/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
+ - [FAQ #7 Mar 1996) - Cards with Errata(/original/rulings/faq-7/#cards-with-errata)<br>_Treebeard_ (errata): Replace “Redhorn Gap” with “Redhorn Gate.”
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

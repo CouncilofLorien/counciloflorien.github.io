@@ -29,6 +29,8 @@ permalink: /cards/long-winter/
 >
 
  - [FAQ #4 (Jan 1996) - Questions About Specific Cards](/original/rulings/faq-4/#questions-about-specific-cards)<br>**Q:** If _Doors of Night_ is in play, _Long Winter_ only taps the sites belonging to the player whose turn it is, right?<br>**A: Wrong.** \*All\* sites in play with two Wildernesses in their site path become tapped.
+ - [FAQ #6 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-6/#questions-about-specific-cards)<br>**Q:** If _Doors of Night_ is in play, _Long Winter_ only taps the sites belonging to the player whose turn it is, right?<br>**A:** Wrong. All sites in play with two Wildernesses in the site path given on the card become tapped.
+ - [FAQ #6 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-6/#questions-about-specific-cards)<br>**Q:** Can _Tom Bombadil_ cancel the effects of a _Long Winter_?<br>**A:** No, because the effect is not targeted.
 
 ### _Middle-earth: The Wizards Unlimited_
 

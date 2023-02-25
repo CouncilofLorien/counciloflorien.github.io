@@ -34,6 +34,8 @@ permalink: /cards/huorn/
 > > <div class="card-shield">【 10/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
+ - [FAQ #6 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-6/#questions-about-specific-cards)<br>_Huorn_: Add “_Awakened Plant._”
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
