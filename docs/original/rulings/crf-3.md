@@ -18,7 +18,7 @@ There was no CRF 3.
 {: .text-center .text-beta }
 Official Rulings
 
-Version 3[^CRF3]
+Version 3
 {: .text-center }
 
 ---
