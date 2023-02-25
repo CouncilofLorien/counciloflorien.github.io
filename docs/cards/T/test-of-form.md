@@ -31,6 +31,8 @@ permalink: /cards/test-of-form/
 > > _“To Frodo's astonishment and distress the wizard threw it suddenly into the middle of a glowing corner of the fire. Frodo gave a cry and groped for the tongs; but Gandalf held him back."_ ***---&#65279;LotRI*** 
 > 
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** What happens to a Gold Ring card when I test it?<br>**A:** It is discarded, and you loose the Marshalling Point it gave you. If you have the right ring (as indicated by the test roll) in your hand you may play it immediately.
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

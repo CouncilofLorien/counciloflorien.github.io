@@ -34,6 +34,8 @@ permalink: /cards/gwaihir/
 > > <div class="card-shield">【 4/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>_Gwaihir_ (errata): Should read “…you may discard _Gwaihir_ during the Organization phase to allow his company…”
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

@@ -31,6 +31,8 @@ permalink: /cards/wizards-laughter/
 > > _“Then Gandalf laughed. The fantasy vanished like a puff of smoke. 'Saruman...you should have been the king's jester...’”_ ***---&#65279;LotRIII*** 
 > 
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>_Wizard’s Laughter_ (errata): Change “Wizard only.” to “Wizard only during opponent’s site phase.”
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

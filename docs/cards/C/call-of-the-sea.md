@@ -28,6 +28,8 @@ permalink: /cards/call-of-the-sea/
 > > ***Playable on an Elf character.*** The character's player must make a roll (or draw a #). Return the character to the player's hand if this result plus his unused general influence is less than 10. This result is modified by -3 if the character's company moved this turn using a site path containing a Coastal Sea <nobr>[<img src="/assets/images/coastalsea.svg">]</nobr>. <br>&ensp;Any one item held by a character removed in this fashion may automatically be transferred to another character in his company. 
 >
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

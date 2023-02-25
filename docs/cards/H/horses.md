@@ -31,6 +31,8 @@ permalink: /cards/horses/
 > > _“We both have need of haste...This is my choice. You may go; and what is more, I will lend you horses."_ ***---&#65279;LotRIII*** 
 > 
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>_Horses_ (errata): Add “Playable only at the end of the Organization phase.”
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

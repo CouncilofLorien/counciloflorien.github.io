@@ -31,6 +31,8 @@ permalink: /cards/twilight/
 > > _“Upon the very Eve of Midsummer, when the sky was blue as sapphire and the white stars opened in the East, but the West was still golden, and the air was cool and fragrant, the riders came...to the Gates of Minas Tirith."_ ***---&#65279;LotRVI*** 
 >
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>_Twilight_ (errata): This card may be played at any time during any player’s turn.
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

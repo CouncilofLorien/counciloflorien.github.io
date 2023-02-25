@@ -31,6 +31,8 @@ permalink: /cards/lure-of-expedience/
 > > <div class="card-shield"></div>
 > > <div class="card-corruption-white">〔 2 〕</div>
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** If I play a ring special item after testing a gold ring, will this trigger a corruption check for Lure of Expedience?<br>**A:** Yes, it will trigger a corruption check.
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

@@ -34,6 +34,8 @@ permalink: /cards/shadowfax/
 > > <div class="card-shield">【 2/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>_Shadowfax_ (errata): “…an additional site card may be played and an additional movement/hazard phase…”
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

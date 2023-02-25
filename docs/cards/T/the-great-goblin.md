@@ -37,6 +37,8 @@ permalink: /cards/the-great-goblin/
 > > <div class="card-shield">【 12/7 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>_The Great Goblin_ (errata): “Unique. Orc. One strike…”
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

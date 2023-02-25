@@ -31,6 +31,8 @@ permalink: /cards/escape/
 > > _“‘Over the bridge!' cried Gandalf, recalling his strength. 'Fly! This is a foe beyond any of you. I must hold the narrow way. Fly!’”_ ***---&#65279;LotRII*** 
 > 
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** Does the character wounded by Escape have to be unwounded when the Escape is played?<br>**A:** Yes. You cannot play Escape on a wounded character.
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

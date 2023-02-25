@@ -28,6 +28,8 @@ permalink: /cards/call-of-home/
 > > ***Playable on a non-Wizard character that is not the bearer of The One Ring.*** The character's player must make a roll (or draw a #); return the character to the player's hand if the result plus his unused general influence is less than 10. <br>&ensp;Any one item held by a character removed in this fashion may automatically be transferred to another in his company. 
 >
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** If a character gets returned to your hand by _Call of Home_ or _Call of the Sea_, can you transfer all their items to other characters?<br>**A:** No, you may transfer one item. All other non-follower cards controlled by the target character are discarded.
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

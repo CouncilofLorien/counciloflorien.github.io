@@ -34,6 +34,8 @@ permalink: /cards/akhorahil/
 > > <div class="card-shield">【 16/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>_Akhorahil_ (errata): Change “…gives -1 penalty to one…” to “…gives a +1 penalty to one…”
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

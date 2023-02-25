@@ -37,6 +37,8 @@ permalink: /cards/roac-the-raven/
 > > <div class="card-shield">【 -3/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>_Roac the Raven_ (errata): Remove “---no modifications to the influence check are required.” Replace with “---treat this influence check as though it were made by a Diplomat.”
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

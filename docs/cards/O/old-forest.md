@@ -105,3 +105,5 @@ permalink: /cards/old-forest/
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
 > > <div class="card-corruption">&nbsp;</div>
+
+ - _Clarification:_ Old Forest should read “healing effects,” not “healing cards.”

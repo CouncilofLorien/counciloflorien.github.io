@@ -28,6 +28,8 @@ permalink: /cards/traitor/
 > > When the next character fails a corruption check, he becomes a "traitor" and an attack is immediately made against a character in the traitor's company. <br>&ensp;The character to be attacked is chosen by the player who does _not_ control the traitor's company. The prowess of the attack is equal to the prowess of the traitor plus 10. Any resulting body check is modified by +1. <br>&ensp;After the attack, this card is discarded and the corruption of the traitor is resolved normally (i.e., he is discarded or removed from play).
 >
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>_Traitor_ (errata): Remove the last paragraph.
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

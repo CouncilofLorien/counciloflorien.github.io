@@ -28,6 +28,8 @@ permalink: /cards/lucky-search/
 > > _**Scout only.**_ During the site phase, tap a scout at a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> or Dark-hold <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr>. Turn over cards from your play deck one at a time until you reveal a non-special item or reach the end. If you reveal a non-special item, the scout takes control of it. In any case, the scout must face a single strike attack with a prowess equal to 3 plus the number of cards revealed; this attack/strike cannot be cancelled. Discard all revealed cards except the item. 
 > 
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** Can I play _Lucky Search_ at a tapped site?<br>**A:** Sure, go ahead. It can be played at a tapped or untapped site.
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

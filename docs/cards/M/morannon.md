@@ -28,6 +28,8 @@ permalink: /cards/morannon/
 > > ***Playable at the end of the organization phase on a company that has a size of less than three, contains a scout, and begins the turn at a site in Dagorlad.*** This card is used as a Dark-hold <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr> site card that is moved to using the site path: ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg) (the moving player draws 2 cards and his opponent draws 5 cards). The company can later leave this site using region cards **or** by using the following site path to move to Lorien: ![](/assets/images/dark-domain.svg) ![](/assets/images/dark-domain.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/free-domain.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg). <br>&ensp;Discard _Morannon_ when the company successfully plays a new site card. 
 > 
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>_Morannon_ (errata): Should read “This card is used as a Dark-hold (D) site card in the region of Udun that is moved to…”
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
