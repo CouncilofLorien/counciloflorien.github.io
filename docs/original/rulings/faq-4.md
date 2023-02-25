@@ -183,7 +183,7 @@ Especially new and succulent information is marked with \*s. Thanks to Herve Gui
  - _Gwaihir_: Should read "...you may discard Gwaihir during the Organization phase to allow his company..."
  - _Horses_: Add "Playable only at the end of the Organization phase."
  - _Morannon_: Should read "This card is used as a Dark-hold (D) site card in the region of Udun that is moved to..."
- - \*_Neeker Breekers_: Add "Does not affect Wizards."
+ - _Neeker Breekers_: Add "Does not affect Wizards."
  - _Roac the Raven_: Remove "-no modifications to the influence check are required."  Replace with "-treat this influence check as though it were made by a Diplomat."
  - _Seige_: Change the border-land symbol in the first line to a border-hold symbol.
  - _Shadowfax_: "...an additional site card may be played and an additional movement/hazard phase..."
