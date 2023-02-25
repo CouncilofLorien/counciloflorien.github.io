@@ -108,7 +108,7 @@ Especially new and succulent information is marked with \*s.
 **Q**: What happens to a Gold Ring card when I test it?  
 **A**: It is discarded, and you loose the Marshalling Point it gave you. If you have the right ring (as indicated by the test roll) in your hand you may play it immediately.
 
-**\*Q**: Can _Gollum_ and_ The One Ring_ ever be together at the same site?  
+**\*Q**: Can _Gollum_ and _The One Ring_ ever be together at the same site?  
 **\*A**: Yes. The text on _Gollum_ is an ability that you can choose to use, not an effect that happens automatically.
 
 **Q**: When _Great Road_ is played does the opponent *have* to draw twice the number of cards normally drawn?  
