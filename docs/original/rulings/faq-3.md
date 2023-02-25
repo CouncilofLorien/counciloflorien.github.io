@@ -167,7 +167,7 @@ Especially new and succulent information is marked with \*s.
 **Q**: Who chooses the character to make the corruption check when _The Precious_ is played?  
 **A**: The player playing _The Precious_ chooses.
 
-**Q**: If I tap Ren the Unclean on my opponent's turn, can I play resources to modify the corruption checks of my characters?  
+**Q**: If I tap _Ren the Unclean_ on my opponent's turn, can I play resources to modify the corruption checks of my characters?  
 **A**: No you may not. If you are playing standard rules your characters can tap to give +1 to another character's check in the same company.
 
 **Q**: Can _Shadowfax_ carry allies?  
