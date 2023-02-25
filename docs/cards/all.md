@@ -1743,6 +1743,8 @@ permalink: /cards/all/
 > > <div class="card-shield">【 5/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** Does Thorin II get a total +4 direct influece against _Blue Mountain Dwarves_?<br>**A:** Yes, he does.
+
 ---
 
 {: .character .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -1924,6 +1926,8 @@ permalink: /cards/all/
 > > <div class="card-shield">【 4/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>_Gwaihir_ (errata): Should read “…you may discard _Gwaihir_ during the Organization phase to allow his company…”
+
 ---
 
 {: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -1943,6 +1947,8 @@ permalink: /cards/all/
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 5/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** What do _Great Ship_, _Leaflock_, and _Tom Bombadil_ mean when they say “cancel the effects of one hazard?”<br>**A:** These cards allow the cancelling of an attack. They also allow the cancelling of an ongoing hazard effect that targets the company in question or any entity associated with that company (item, character, site, etc.). They allow the cancelling of a dice-rolling action declared earlier in the same chain of effects but not yet resolved (as in _Call of Home_). They do not allow the cancelling of a non-dice-rolling effect declared earlier in the same chain of effects. For example, they do not allow you to stop _“Tom”_ from forcing a wounded player to discard their item if you passed on the opportunity to cancel _“Tom’s”_ attack. However, once a chain of effects has resolved _Leaflock_ and the others allow the cancelling of an effect of an effect that is ongoing. For example, _Leaflock_ cound stop the effect of _River_, but he could not keep _Adunaphel_ from tapping a character as a short-event.
 
 ---
 
@@ -1990,6 +1996,8 @@ permalink: /cards/all/
 > > <div class="card-shield">【 -3/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>_Roac the Raven_ (errata): Remove “---no modifications to the influence check are required.” Replace with “---treat this influence check as though it were made by a Diplomat.”
+
 ---
 
 {: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -2009,6 +2017,9 @@ permalink: /cards/all/
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 2/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>_Shadowfax_ (errata): “…an additional site card may be played and an additional movement/hazard phase…”
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** Can _Shadowfax_ carry allies?<br>**A:** No. To be elligible for _Shadowfax’s_ special ability the party can contain no allies.
 
 ---
 
@@ -2049,6 +2060,8 @@ permalink: /cards/all/
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 12/11 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** What do _Great Ship_, _Leaflock_, and _Tom Bombadil_ mean when they say “cancel the effects of one hazard?”<br>**A:** These cards allow the cancelling of an attack. They also allow the cancelling of an ongoing hazard effect that targets the company in question or any entity associated with that company (item, character, site, etc.). They allow the cancelling of a dice-rolling action declared earlier in the same chain of effects but not yet resolved (as in _Call of Home_). They do not allow the cancelling of a non-dice-rolling effect declared earlier in the same chain of effects. For example, they do not allow you to stop _“Tom”_ from forcing a wounded player to discard their item if you passed on the opportunity to cancel _“Tom’s”_ attack. However, once a chain of effects has resolved _Leaflock_ and the others allow the cancelling of an effect of an effect that is ongoing. For example, _Leaflock_ cound stop the effect of _River_, but he could not keep _Adunaphel_ from tapping a character as a short-event.
 
 ---
 
@@ -2597,6 +2610,8 @@ permalink: /cards/all/
 > > <div class="card-shield"></div>
 > > <div class="card-corruption">〔 1 〕</div>
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** What happens to a Gold Ring card when I test it?<br>**A:** It is discarded, and you loose the Marshalling Point it gave you. If you have the right ring (as indicated by the test roll) in your hand you may play it immediately.
+
 ---
 
 {: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -2697,6 +2712,8 @@ permalink: /cards/all/
 > > <div class="card-shield">【 +2(4)/+1 】</div>
 > > <div class="card-corruption">〔 3(5) 〕</div>
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>_Dwarven Ring of Bavor’s Tribe_ (errata): one “reshuffle the play deck” is sufficient.
+
 ---
 
 {: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -2716,6 +2733,8 @@ permalink: /cards/all/
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +2(4)/+1 】</div>
 > > <div class="card-corruption">〔 3(5) 〕</div>
+
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>_Dwarven Ring of Druin’s Tribe_ (errata): one “reshuffle the play deck” is sufficient.
 
 ---
 
@@ -2780,6 +2799,8 @@ permalink: /cards/all/
 > > <div class="card-shield">【 2(4)/1 】</div>
 > > <div class="card-corruption">〔 3(5) 〕</div>
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>_Dwarven Ring of Thelor’s Tribe_ (errata): Values in parenthesis and brackets apply to Dwarf bearer. The prowess/body modifications should read: “+2(4)/+1.”
+
 ---
 
 {: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -2799,6 +2820,8 @@ permalink: /cards/all/
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 2(4)/1 】</div>
 > > <div class="card-corruption">〔 3(5) 〕</div>
+
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>_Dwarven Ring of Thrar’s Tribe_ (errata): Values in parenthesis and brackets apply to Dwarf bearer. The prowess/body modifications should read: “+2(4)/+1.”
 
 ---
 
@@ -2880,6 +2903,8 @@ permalink: /cards/all/
 > > <div class="card-shield">【 +1/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>_Ent-draughts_ (errata): Remove “as a minor item” and replace with “and only if an ally or faction has been succesfully played at Wellinghall.”
+
 ---
 
 {: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -2896,6 +2921,8 @@ permalink: /cards/all/
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
 > > <div class="card-corruption">〔 1 〕</div>
+
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** What happens to a Gold Ring card when I test it?<br>**A:** It is discarded, and you loose the Marshalling Point it gave you. If you have the right ring (as indicated by the test roll) in your hand you may play it immediately.
 
 ---
 
@@ -3327,6 +3354,8 @@ permalink: /cards/all/
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
 > > <div class="card-corruption">〔 1 〕</div>
+
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** What happens to a Gold Ring card when I test it?<br>**A:** It is discarded, and you loose the Marshalling Point it gave you. If you have the right ring (as indicated by the test roll) in your hand you may play it immediately.
 
 ---
 
@@ -3877,6 +3906,8 @@ permalink: /cards/all/
 > > _“‘Over the bridge!' cried Gandalf, recalling his strength. 'Fly! This is a foe beyond any of you. I must hold the narrow way. Fly!’”_ ***---&#65279;LotRII*** 
 > 
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** Does the character wounded by Escape have to be unwounded when the Escape is played?<br>**A:** Yes. You cannot play Escape on a wounded character.
+
 ---
 
 {: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -4103,6 +4134,8 @@ permalink: /cards/all/
 > > _“...he chose the greatest ship to be his own, and he went up into it. Then he let sound a great concourse of trumpets...”_ ***---&#65279;LotRV*** 
 > 
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** What do _Great Ship_, _Leaflock_, and _Tom Bombadil_ mean when they say “cancel the effects of one hazard?”<br>**A:** These cards allow the cancelling of an attack. They also allow the cancelling of an ongoing hazard effect that targets the company in question or any entity associated with that company (item, character, site, etc.). They allow the cancelling of a dice-rolling action declared earlier in the same chain of effects but not yet resolved (as in _Call of Home_). They do not allow the cancelling of a non-dice-rolling effect declared earlier in the same chain of effects. For example, they do not allow you to stop _“Tom”_ from forcing a wounded player to discard their item if you passed on the opportunity to cancel _“Tom’s”_ attack. However, once a chain of effects has resolved _Leaflock_ and the others allow the cancelling of an effect of an effect that is ongoing. For example, _Leaflock_ cound stop the effect of _River_, but he could not keep _Adunaphel_ from tapping a character as a short-event.
+
 ---
 
 {: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -4116,6 +4149,8 @@ permalink: /cards/all/
 > {: .hero-resource-text .black-text .p-2 }
 > > ***Playable only at the end of the organization phase on a company that starts at a Haven*** <nobr>[<img src="/assets/images/free-haven.svg">]</nobr>. Opponent draws twice the normal number of cards for this company during the movement/hazard phase. At the end of the turn, the company may replace its site card with the Haven card at which it began the turn. 
 > 
+
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** When _Great Road_ is played does the opponent have to draw twice the number of cards normally drawn?<br>**A:** No, they may choose to draw less. Consider _Great Road_ to have errata that changes “Opponent draws twice…” to “Opponent may draw up to twice.”
 
 ---
 
@@ -4185,6 +4220,8 @@ permalink: /cards/all/
 > > _“We both have need of haste...This is my choice. You may go; and what is more, I will lend you horses."_ ***---&#65279;LotRIII*** 
 > 
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>_Horses_ (errata): Add “Playable only at the end of the Organization phase.”
+
 ---
 
 {: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -4250,6 +4287,8 @@ permalink: /cards/all/
 > > _**Scout only.**_ During the site phase, tap a scout at a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> or Dark-hold <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr>. Turn over cards from your play deck one at a time until you reveal a non-special item or reach the end. If you reveal a non-special item, the scout takes control of it. In any case, the scout must face a single strike attack with a prowess equal to 3 plus the number of cards revealed; this attack/strike cannot be cancelled. Discard all revealed cards except the item. 
 > 
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** Can I play _Lucky Search_ at a tapped site?<br>**A:** Sure, go ahead. It can be played at a tapped or untapped site.
+
 ---
 
 {: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -4283,6 +4322,8 @@ permalink: /cards/all/
 > > {: .fs-3 } 
 > > _“‘...the Mirror will also show things unbidden, and those are often stranger and more profitable than things we wish to behold.’”_ ***---&#65279;LotRII*** 
 > 
+
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** What exactly does the “***Only playable at Lorien***” mean on _Mirror of Galadriel_? <br>**A:** It means that _Mirror of Galadriel_ is playable if any of your characters is at Lorien.
 
 ---
 
@@ -4325,6 +4366,8 @@ permalink: /cards/all/
 > {: .hero-resource-text .black-text .p-2 }
 > > ***Playable at the end of the organization phase on a company that has a size of less than three, contains a scout, and begins the turn at a site in Dagorlad.*** This card is used as a Dark-hold <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr> site card that is moved to using the site path: ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg) (the moving player draws 2 cards and his opponent draws 5 cards). The company can later leave this site using region cards **or** by using the following site path to move to Lorien: ![](/assets/images/dark-domain.svg) ![](/assets/images/dark-domain.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/free-domain.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg). <br>&ensp;Discard _Morannon_ when the company successfully plays a new site card. 
 > 
+
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>_Morannon_ (errata): Should read “This card is used as a Dark-hold (D) site card in the region of Udun that is moved to…”
 
 ---
 
@@ -4487,6 +4530,8 @@ permalink: /cards/all/
 > > _“O Elbereth! Githoniel!...Thy starlight on the Western Seas."_ ***---&#65279;LotRI*** 
 > 
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** What happens to _Nazgul_ events cancelled using _Praise to Elbereth_?<br>A: They are discarded and have no effect. Also note that when _Praise to Elbereth_ is played, you must declare which characters are tapping to cancel which _Nazgul_ events.
+
 ---
 
 {: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -4562,6 +4607,8 @@ permalink: /cards/all/
 > {: .hero-resource-text .black-text .p-2 }
 > > ***Sage only, only playable at a site where "Information" is playable, and only if a character in his company has a Gold Ring.*** Play to test a Gold Ring. No roll (or draw) is used. The player may replace the Gold Ring with any ring from his hand (except for _The One Ring_).  
 > 
+
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** What happens to a Gold Ring card when I test it?<br>**A:** It is discarded, and you loose the Marshalling Point it gave you. If you have the right ring (as indicated by the test roll) in your hand you may play it immediately.
 
 ---
 
@@ -4730,6 +4777,8 @@ permalink: /cards/all/
 > > _“To Frodo's astonishment and distress the wizard threw it suddenly into the middle of a glowing corner of the fire. Frodo gave a cry and groped for the tongs; but Gandalf held him back."_ ***---&#65279;LotRI*** 
 > 
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** What happens to a Gold Ring card when I test it?<br>**A:** It is discarded, and you loose the Marshalling Point it gave you. If you have the right ring (as indicated by the test roll) in your hand you may play it immediately.
+
 ---
 
 {: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -4746,6 +4795,8 @@ permalink: /cards/all/
 > > {: .fs-3 } 
 > > _“The moon was shining in a broad silver crescent. He held up the map and the white light shone through it."_ ***---&#65279;Hob*** 
 > 
+
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** What happens to a Gold Ring card when I test it?<br>**A:** It is discarded, and you loose the Marshalling Point it gave you. If you have the right ring (as indicated by the test roll) in your hand you may play it immediately.
 
 ---
 
@@ -4956,6 +5007,8 @@ permalink: /cards/all/
 > > _“Then Gandalf laughed. The fantasy vanished like a puff of smoke. 'Saruman...you should have been the king's jester...’”_ ***---&#65279;LotRIII*** 
 > 
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>_Wizard’s Laughter_ (errata): Change “Wizard only.” to “Wizard only during opponent’s site phase.”
+
 ---
 
 {: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -4989,6 +5042,8 @@ permalink: /cards/all/
 > > {: .fs-3 } 
 > > _“...lines of fire that seemed to form the letters of a flowing script."_ ***---&#65279;LotR*** 
 > 
+
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** What happens to a Gold Ring card when I test it?<br>**A:** It is discarded, and you loose the Marshalling Point it gave you. If you have the right ring (as indicated by the test roll) in your hand you may play it immediately.
 
 ---
 
@@ -5086,6 +5141,8 @@ permalink: /cards/all/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 16/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>_Akhorahil_ (errata): Change “…gives -1 penalty to one…” to “…gives a +1 penalty to one…”
 
 ---
 
@@ -5219,6 +5276,8 @@ permalink: /cards/all/
 > > <div class="card-shield">【 10/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** Can I play a _Cave-drake_ at a Ruins & Lairs without two Wilderness in the site path?<br>**A:** Sure, go for it.
+
 ---
 
 {: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -5241,6 +5300,8 @@ permalink: /cards/all/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 7/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** If you cancel the _Corpse-candle’s_ attack does the company still have to make the corruption checks?<br>**A:** No, they do not.
 
 ---
 
@@ -5870,6 +5931,8 @@ permalink: /cards/all/
 > > <div class="card-shield">【 15/10 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** If I tap _Ren the Unclean_ on my opponent’s turn, can I play resources to modify the corruption checks of my characters?<br>**A:** No you may not. If you are playing standard rules your characters can tap to give +1 to another character’s check in the same company.
+
 ---
 
 {: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -5933,6 +5996,8 @@ permalink: /cards/all/
 > > <div class="card-shield">【 8/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>_Silent Watcher_ (errata): Gives 1 marshalling point, not 0.
+
 ---
 
 {: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -5955,6 +6020,8 @@ permalink: /cards/all/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 11/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>_Slayer_ (errata): Gives 2 marshalling point, not 0.
 
 ---
 
@@ -5995,6 +6062,8 @@ permalink: /cards/all/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 12/7 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>_The Great Goblin_ (errata): “Unique. Orc. One strike…”
 
 ---
 
@@ -6171,6 +6240,8 @@ permalink: /cards/all/
 > > <div class="card-shield">【 8/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>Wolves: Change “Animals.” to “Wolves.”
+
 ---
 
 {: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -6281,6 +6352,8 @@ permalink: /cards/all/
 > > Corruption points for Palantiri are doubled. <br>&ensp;Automatically cancels any effects that causes a player to search through or look at any portion of a play deck or a discard pile outside of the normal sequence of play. Discard _Bane of the Ithil-stone_ whenever a play deck is exhausted. <br>&ensp;Cannot be duplicated. 
 >
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** Does _Bane of the Ithil-stone_ stop me from drawing cards when someone moves?<br>**A:** No. It will only cancel actions that literally cause a player to search throught or look at any pertion of any play deck or discard pile outside the sequence of normal play. It will cancel _Vilya_, which allows Elrond’s player to look through their discard pile and put 5 cards into their play deck; and it will cancel _Lucky Search_. _Bane of the Ithil-stone_ will not stop an effect which allows a player to bring cards from their sideboard into their discard pile or play deck. Neither will it affect an action which otherwise only causes a player to reshuffle their play deck.
+
 ---
 
 {: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -6295,6 +6368,8 @@ permalink: /cards/all/
 > > ***Playable on a non-Wizard character that is not the bearer of The One Ring.*** The character's player must make a roll (or draw a #); return the character to the player's hand if the result plus his unused general influence is less than 10. <br>&ensp;Any one item held by a character removed in this fashion may automatically be transferred to another in his company. 
 >
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** If a character gets returned to your hand by _Call of Home_ or _Call of the Sea_, can you transfer all their items to other characters?<br>**A:** No, you may transfer one item. All other non-follower cards controlled by the target character are discarded.
+
 ---
 
 {: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -6308,6 +6383,8 @@ permalink: /cards/all/
 > {: .hazard-text .black-text .p-2 }
 > > ***Playable on an Elf character.*** The character's player must make a roll (or draw a #). Return the character to the player's hand if this result plus his unused general influence is less than 10. This result is modified by -3 if the character's company moved this turn using a site path containing a Coastal Sea <nobr>[<img src="/assets/images/coastalsea.svg">]</nobr>. <br>&ensp;Any one item held by a character removed in this fashion may automatically be transferred to another character in his company. 
 >
+
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>
 
 ---
 
@@ -6374,6 +6451,8 @@ permalink: /cards/all/
 > > _“...already the fire in the sky was burning out, and the smouldering hills were fading, while ash-grey evening crept over the fields."_ ***---&#65279;LotRV*** 
 >
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** Does Doors of Night cancel resource environments played after the Doors of Night are played?<br>**A:** No. Doors of Night only cancels resource environments that are in play when the Doors of Night are played. The same goes for Gates of Morning cancelling hazard environments.
+
 ---
 
 {: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -6421,6 +6500,8 @@ permalink: /cards/all/
 > > {: .fs-3 } 
 > > _“The Eye was rimmed with fire, but was itself glazed, yellow as a cat's, watchful and intent, and the black slit of its pupil opened on a pit, a window into nothing."_ ***---&#65279;LotRII*** 
 >
+
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** If Doors of Night is in play does Eye of Sauron give +3 or +4 to the prowess of each automatic attack?<br>**A:** Eye of Sauron will only give +3 to the prowes of each automatic attack.
 
 ---
 
@@ -6642,6 +6723,8 @@ permalink: /cards/all/
 > > <div class="card-shield"></div>
 > > <div class="card-corruption-white">〔 2 〕</div>
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** If I play a ring special item after testing a gold ring, will this trigger a corruption check for Lure of Expedience?<br>**A:** Yes, it will trigger a corruption check.
+
 ---
 
 {: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -6727,6 +6810,8 @@ permalink: /cards/all/
 > > _“Far above a great cloud streamed slowly westward from the black land, devouring light, borne upon a wind of war...”_ ***---&#65279;LotRV*** 
 >
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** Do I have to discard my _Morgul Night_ if _Doors of Night_ is discarded?<br>**A:** No, _Doors of Night_ is only required when _Morgul Night_ comes into play.
+
 ---
 
 {: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -6744,6 +6829,8 @@ permalink: /cards/all/
 > > _“...it was huge and hideous, and its face was a frightful mask...and in the sockets of its eyes and in the nostrils there burned a flame."_ ***---&#65279;LotRV*** 
 >
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** When do I have to declare using the _Morgul-horse_ to bring a Nazgul permanent-event back into my hand?<br>**A:** You must declare this during the same turn, but before, the target Nazgul permanent-event is tapped.
+
 ---
 
 {: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -6760,6 +6847,8 @@ permalink: /cards/all/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
 > > <div class="card-corruption-white">〔 4 〕</div>
+
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** When does a wounded character recieve the corruption from the _Pale Sword_?<br>A: Immediately following the Nazgul’s attack. The same is true for the _Morgul-knife_.
 
 ---
 
@@ -6856,6 +6945,8 @@ permalink: /cards/all/
 > {: .hazard-text .black-text .p-2 }
 > > ***Playable on a Border-hold*** <nobr>[<img src="/assets/images/border-land.svg">]</nobr> ***or Free-hold*** <nobr>[<img src="/assets/images/free-hold.svg">]</nobr> ***site.*** A company at this site must face an Orc attack of three strikes at 7 prowess at the beginning of its site phase. <br>&ensp;At the end of its organization phase, a company at a site with _Siege_ on it must make a roll (or draw a #) and subtract one from the result for every non-scout character it contains. If this result is less than 5, the company may not move this turn. <br>&ensp;Discard when the site card is discarded or when the site card is returned to the location deck. <br>&ensp;Cannot be duplicated on a given site. 
 >
+
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>_Seige_ (errata): Change the border-land symbol in the first line to a border-hold symbol.
 
 ---
 
@@ -6956,6 +7047,8 @@ permalink: /cards/all/
 > > <div class="card-shield"></div>
 > > <div class="card-corruption-white">〔 6 〕</div>
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** When does a wounded character recieve the corruption from the _Pale Sword_?<br>A: Immediately following the Nazgul’s attack. The same is true for the _Morgul-knife_.
+
 ---
 
 {: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -6972,6 +7065,8 @@ permalink: /cards/all/
 > > {: .fs-3 } 
 > > _“‘It is not yours save by unhappy chance. It might have been mine. It should be mine. Give it to me!’”_ ***---&#65279;LotRII*** 
 >
+
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** Who chooses the character to make the corruption check when _The Precious_ is played?<br>**A:** The player playing _The Precious_ chooses.
 
 ---
 
@@ -7049,6 +7144,8 @@ permalink: /cards/all/
 > > When the next character fails a corruption check, he becomes a "traitor" and an attack is immediately made against a character in the traitor's company. <br>&ensp;The character to be attacked is chosen by the player who does _not_ control the traitor's company. The prowess of the attack is equal to the prowess of the traitor plus 10. Any resulting body check is modified by +1. <br>&ensp;After the attack, this card is discarded and the corruption of the traitor is resolved normally (i.e., he is discarded or removed from play).
 >
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>_Traitor_ (errata): Remove the last paragraph.
+
 ---
 
 {: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -7065,6 +7162,10 @@ permalink: /cards/all/
 > > {: .fs-3 } 
 > > _“Upon the very Eve of Midsummer, when the sky was blue as sapphire and the white stars opened in the East, but the West was still golden, and the air was cool and fragrant, the riders came...to the Gates of Minas Tirith."_ ***---&#65279;LotRVI*** 
 >
+
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>_Twilight_ (errata): This card may be played at any time during any player’s turn.
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** Can I play _Twilight_ on a card that has not resolved yet?<br>**A:** Yes, _Twilight_ may target a card played earlier in the same chain of effects.
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** Can I play _Twilight_ as a resource during my opponent’s turn?<br>**A:** Yes. If you do so _Twilight_ does not count against the hazard limit for that company.
 
 ---
 
@@ -9320,6 +9421,8 @@ permalink: /cards/all/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 7/&ndash; 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>_Neeker Breekers_ (errata): Add “Does not affect Wizards.”
 
 ---
 
@@ -43531,6 +43634,8 @@ permalink: /cards/all/
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;1&ensp;</span><span class="hero-opp-draw">&ensp;1&ensp;</span></div>
 > > <div class="card-corruption">&nbsp;</div>
+
+ - _Clarification:_ Old Forest should read “healing effects,” not “healing cards.”
 
 ---
 

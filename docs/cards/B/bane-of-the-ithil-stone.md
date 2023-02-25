@@ -29,7 +29,6 @@ permalink: /cards/bane-of-the-ithil-stone/
 >
 
  - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** Does _Bane of the Ithil-stone_ stop me from drawing cards when someone moves?<br>**A:** No. It will only cancel actions that literally cause a player to search throught or look at any pertion of any play deck or discard pile outside the sequence of normal play. It will cancel _Vilya_, which allows Elrond’s player to look through their discard pile and put 5 cards into their play deck; and it will cancel _Lucky Search_. _Bane of the Ithil-stone_ will not stop an effect which allows a player to bring cards from their sideboard into their discard pile or play deck. Neither will it affect an action which otherwise only causes a player to reshuffle their play deck.
- - A test sentence.
 
 ### _Middle-earth: The Wizards Unlimited_
 

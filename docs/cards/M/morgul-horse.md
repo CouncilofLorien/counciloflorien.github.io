@@ -31,6 +31,8 @@ permalink: /cards/morgul-horse/
 > > _“...it was huge and hideous, and its face was a frightful mask...and in the sockets of its eyes and in the nostrils there burned a flame."_ ***---&#65279;LotRV*** 
 >
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** When do I have to declare using the _Morgul-horse_ to bring a Nazgul permanent-event back into my hand?<br>**A:** You must declare this during the same turn, but before, the target Nazgul permanent-event is tapped.
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

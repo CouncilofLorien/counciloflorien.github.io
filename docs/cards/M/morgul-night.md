@@ -31,6 +31,8 @@ permalink: /cards/morgul-night/
 > > _“Far above a great cloud streamed slowly westward from the black land, devouring light, borne upon a wind of war...”_ ***---&#65279;LotRV*** 
 >
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** Do I have to discard my _Morgul Night_ if _Doors of Night_ is discarded?<br>**A:** No, _Doors of Night_ is only required when _Morgul Night_ comes into play.
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

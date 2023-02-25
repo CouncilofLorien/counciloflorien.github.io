@@ -31,6 +31,8 @@ permalink: /cards/mirror-of-galadriel/
 > > _“‘...the Mirror will also show things unbidden, and those are often stranger and more profitable than things we wish to behold.’”_ ***---&#65279;LotRII*** 
 > 
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** What exactly does the “***Only playable at Lorien***” mean on _Mirror of Galadriel_? <br>**A:** It means that _Mirror of Galadriel_ is playable if any of your characters is at Lorien.
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

@@ -34,6 +34,8 @@ permalink: /cards/ren-the-unclean/
 > > <div class="card-shield">【 15/10 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** If I tap _Ren the Unclean_ on my opponent’s turn, can I play resources to modify the corruption checks of my characters?<br>**A:** No you may not. If you are playing standard rules your characters can tap to give +1 to another character’s check in the same company.
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

@@ -31,6 +31,8 @@ permalink: /cards/the-pale-sword/
 > > <div class="card-shield"></div>
 > > <div class="card-corruption-white">〔 6 〕</div>
 
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** When does a wounded character recieve the corruption from the _Pale Sword_?<br>A: Immediately following the Nazgul’s attack. The same is true for the _Morgul-knife_.
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

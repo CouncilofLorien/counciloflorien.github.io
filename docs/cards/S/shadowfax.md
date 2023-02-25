@@ -35,6 +35,7 @@ permalink: /cards/shadowfax/
 > > <div class="card-corruption">&nbsp;</div>
 
  - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>_Shadowfax_ (errata): “…an additional site card may be played and an additional movement/hazard phase…”
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** Can _Shadowfax_ carry allies?<br>**A:** No. To be elligible for _Shadowfax’s_ special ability the party can contain no allies.
 
 ### _Middle-earth: The Wizards Unlimited_
 

@@ -32,6 +32,8 @@ permalink: /cards/twilight/
 >
 
  - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>_Twilight_ (errata): This card may be played at any time during any player’s turn.
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** Can I play _Twilight_ on a card that has not resolved yet?<br>**A:** Yes, _Twilight_ may target a card played earlier in the same chain of effects.
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** Can I play _Twilight_ as a resource during my opponent’s turn?<br>**A:** Yes. If you do so _Twilight_ does not count against the hazard limit for that company.
 
 ### _Middle-earth: The Wizards Unlimited_
 
