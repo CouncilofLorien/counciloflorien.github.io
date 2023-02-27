@@ -42,7 +42,7 @@ You may not make an influence attempt on an item with a permanent event on it.
 
 #### Placement of cards "off to the side" (_Clarification_)
 
-Certain cards and effects require other cards be placed "off to the side" (for example, _Sacrifice of Form_ from _Middle-earth: The Wizards_). Cards placed off to the side are placed on the playing surface off to the side of the normal area of play. Such cards are kept with their host permanent-event that caused this effect. Any card placed off to the side absolutely cannot be targeted or otherwise affected by the game exceot bv cards that specifically affect cards placed "off to the side." 
+Certain cards and effects require other cards be placed "off to the side" (for example, _Sacrifice of Form_ from _Middle-earth: The Wizards_). Cards placed off to the side are placed on the playing surface off to the side of the normal area of play. Such cards are kept with their host permanent-event that caused this effect. Any card placed off to the side absolutely cannot be targeted or otherwise affected by the game except by cards that specifically affect cards placed "off to the side." 
 
 <hr id="page1">
 
