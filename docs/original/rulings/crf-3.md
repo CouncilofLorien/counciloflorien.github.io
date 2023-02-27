@@ -23,8 +23,8 @@ Version 3
 
 ---
 
-There is no CRF 3. Given the delays in issuing CRF 1 after FAQ 7 and given that Ichabod, maintainer of the FAQ and CRF, was receiving compensation material (booster packs) for work performed, it appears that CRF 4 was the fourth CRF that Ichabod submitted to ICE as a work product even though only two CRFs were approved and published at the time.
-
-Its also ppssible that CRF2 incorporated later changes without being given a new version number as CRF 2 was said to be issued at the beginning of December 1996 but includes rulings through January 1997.
-
-A similar issue appears in CRF 4, stated to be "current as of 02-28-97" but includes new rulings from March 1997 and was not published until May 1997. For reference, there were new rulings between the _METD_ Player Guide and the _MEDM_ Player Guide but all of these are found in CRF 2 with markings as being new.
+There is no CRF 3. Or, it is possible that the CRF labeled "CRF 2" which was posted on ICE's website was actually CRF 3. There are quite a few date/ruling inconsistencies in the early CRF versions. These inconsistencies may have been caused by the delays in issuing/approving CRF 1 after FAQ 7 and/or as a result of ICE's 3rd party webmaster.
+ - CRF 1 includes new/changed rulings company to FAQ #7, its predecessor, but without these changes being marked as new/changed.
+ - CRF 2 was stated to be issued at the beginning of December 1996 but includes rulings through January 1997.
+ - New rulings issued between the _METD_ Player Guide and the _MEDM_ Player Guide are marked as new in CRF 2.
+ - CRF 4 was stated to be "current as of 02-28-97" but includes new rulings from March 1997 and was not published until May 1997. 
