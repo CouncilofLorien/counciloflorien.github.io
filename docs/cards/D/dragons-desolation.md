@@ -47,3 +47,5 @@ permalink: /cards/dragons-desolation/
 > > {: .fs-3 } 
 > > _“...there was neither bush nor tree, and only broken and blackened stumps...”_ ***---&#65279;Hob*** 
 >
+
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Dragon's Desolation](/original/rulings/crf-1/#dragons-desolation)<br>Playing Dragon’s Desolation to make a Dragon playable at a Ruins & Lairs does not necessarilly require you to play a Dragon later in the turn.

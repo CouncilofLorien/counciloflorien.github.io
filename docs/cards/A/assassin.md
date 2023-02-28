@@ -54,6 +54,8 @@ permalink: /cards/assassin/
 > > <div class="card-shield">【 11/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Assassin](/original/rulings/crf-1/#assassin)<br>All of the strikes will go against the same character.
+
 ### _Middle-earth Challenge Decks_
 
 {: .hazard-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

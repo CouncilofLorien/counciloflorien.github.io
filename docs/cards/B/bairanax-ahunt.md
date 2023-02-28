@@ -31,6 +31,9 @@ permalink: /cards/bairanax-ahunt/
 > > <div class="card-shield">【 12/6 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Ahunt Manifestations](/original/rulings/crf-1/#ii-rulings-by-term)<br>If one _Ahunt_ is out and you move through four of the regions listed on it, then you face the attack once.
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Ahunt Manifestations](/original/rulings/crf-1/#ii-rulings-by-term)<br>If four Ahunts are out an you move through one region listed on all four, then you face each of the four attacks once.
+
 ### _Middle-earth Challenge Decks_
 
 {: .hazard-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

@@ -925,7 +925,7 @@ permalink: /cards/all/
 > > <div class="card-shield">【 2/7 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
- - [FAQ #4 (Jan 1996) - Questions About Specific Cards](/original/rulings/faq-4/#questions-about-specific-cards)<br>**Q:** Whose body is refered to on Eowyn and many of the other female cards, hers or the Nazgul’s? *A: The Nazgul’s.
+ - [FAQ #4 (Jan 1996) - Questions About Specific Cards](/original/rulings/faq-4/#questions-about-specific-cards)<br>**Q:** Whose body is refered to on Eowyn and many of the other female cards, hers or the Nazgul’s? **A:** The Nazgul’s.
 
 ---
 
@@ -3765,6 +3765,8 @@ permalink: /cards/all/
 > > <div class="card-corruption">〔 2 〕</div>
 
  - [FAQ #6 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-6/#questions-about-specific-cards)<br>**Q:** Can an Aligned Palantir be stored?<br>**A:** Yes.
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Align Palantir](/original/rulings/crf-1/#align-palantir)<br>_Align Palantir_ can be stored.
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Align Palantir](/original/rulings/crf-1/#align-palantir)<br>Has errata: Add “May not be duplicated on a given Palantir.
 
 ---
 
@@ -6120,6 +6122,8 @@ permalink: /cards/all/
 > > <div class="card-shield">【 18/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
+ - [CRF 1 (Oct 1996) - TURN SEQUENCE, Site Phase, On-Guard Cards](/original/rulings/crf-1/#on-guard-cards)<br>Some long- and permanent-events (like _Awaken Denizens_) can be revealed on-guard and effect multiple companies. These cards specify that they affect “each” or “all” sites of a certain type.
+
 ---
 
 {: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -6446,6 +6450,8 @@ permalink: /cards/all/
 > > _“‘...they're gone for robbers and live outside, hiding in the woods beyond Archet, and out in the wilds north-way. It's like a bit of the bad old times tales tell of, I say.’”_ ***---&#65279;LotRVI*** 
 >
 
+ - [CRF 1 (Oct 1996) - TURN SEQUENCE, Site Phase, On-Guard Cards](/original/rulings/crf-1/#on-guard-cards)<br>Some long- and permanent-events (like _Awaken Denizens_) can be revealed on-guard and effect multiple companies. These cards specify that they affect “each” or “all” sites of a certain type.
+
 ---
 
 {: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -6462,6 +6468,8 @@ permalink: /cards/all/
 > > {: .fs-3 } 
 > > _“...here the Dark Power, moving its armies like pieces on a board, was gathering them together."_ ***---&#65279;LotRVI*** 
 >
+
+ - [CRF 1 (Oct 1996) - TURN SEQUENCE, Site Phase, On-Guard Cards](/original/rulings/crf-1/#on-guard-cards)<br>Some long- and permanent-events (like _Awaken Denizens_) can be revealed on-guard and effect multiple companies. These cards specify that they affect “each” or “all” sites of a certain type.
 
 ---
 
@@ -6494,6 +6502,8 @@ permalink: /cards/all/
  - [FAQ #3 (Jan 1996) - Questions About Specific Cards](/original/rulings/faq-3/#questions-about-specific-cards)<br>**Q:** If the _Balrog of Moria_ is in play and Galadriel gets killed, what happens in Lorien?<br>**A:** Though it makes little sense, the “In addition” section is not used because she is “out-of-play.”
  - [FAQ #4 (Jan 1996) - Questions About Specific Cards](/original/rulings/faq-4/#questions-about-specific-cards)<br>**Q:** If I play the _Balrog_ and then kill it do I get the MP’s?<br>**A:** No.
  - [FAQ #5 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-5/#questions-about-specific-cards)<br>**Q:** If the _Balrog of Moria_ is in play and Galadriel gets killed, what happens in Lorien?<br>**A:** The “In addition” section is not used because she is “out-of-play.” The ring of Galadriel (Nenya) and her spirit are assumed to inhabit Lorien if she dies.
+ - [CRF 1 (Oct 1996) - TURN SEQUENCE, Site Phase, On-Guard Cards](/original/rulings/crf-1/#on-guard-cards)<br>_Balrog of Moria_ could be revealed when a company chooses to face the automatic-attacks at Moria (_Balrog_ modifies Moria’s automatic-attacks). However, it could not be revealed in response to the play of an item at Moria because _Balrog_ in no way can affect the company for the rest of the site phase (unless for some reason the company is fated to face the automatic-attacks again).
+ - [CRF 1 (Oct 1996) - TURN SEQUENCE, Site Phase, On-Guard Cards](/original/rulings/crf-1/#on-guard-cards)<br>Some long- and permanent-events (like _Awaken Denizens_) can be revealed on-guard and effect multiple companies. These cards specify that they affect “each” or “all” sites of a certain type.
 
 ---
 
@@ -6661,7 +6671,8 @@ permalink: /cards/all/
 > > _“The Eye was rimmed with fire, but was itself glazed, yellow as a cat's, watchful and intent, and the black slit of its pupil opened on a pit, a window into nothing."_ ***---&#65279;LotRII*** 
 >
 
- - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** If Doors of Night is in play does Eye of Sauron give +3 or +4 to the prowess of each automatic attack?<br>**A:** Eye of Sauron will only give +3 to the prowes of each automatic attack.
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** If _Doors of Night_ is in play does _Eye of Sauron_ give +3 or +4 to the prowess of each automatic attack?<br>**A:** _Eye of Sauron_ will only give +3 to the prowes of each automatic attack.
+ - [CRF 1 (Oct 1996) - TURN SEQUENCE, Site Phase, On-Guard Cards](/original/rulings/crf-1/#on-guard-cards)<br>Some long- and permanent-events (like _Awaken Denizens_) can be revealed on-guard and effect multiple companies. These cards specify that they affect “each” or “all” sites of a certain type.
 
 ---
 
@@ -6690,6 +6701,8 @@ permalink: /cards/all/
 > {: .hazard-text .black-text .p-2 }
 > > _Environment._ Each Border-hold <nobr>[<img src="/assets/images/border-hold.svg">]</nobr> receives an automatic-attack: Wolves --- 3 strikes with 7 prowess. <br>&ensp;Additionally, if _Doors of Night_ is in play, treat all Free-domains <nobr>[<img src="/assets/images/free-domain.svg">]</nobr> as Border-lands <nobr>[<img src="/assets/images/border-land.svg">]</nobr> **and** all Border-lands <nobr>[<img src="/assets/images/border-land.svg">]</nobr> as Wildernesses <nobr>[<img src="/assets/images/wilderness.svg">]</nobr>. <br>&ensp;Cannot be duplicated. 
 >
+
+ - [CRF 1 (Oct 1996) - TURN SEQUENCE, Site Phase, On-Guard Cards](/original/rulings/crf-1/#on-guard-cards)<br>Some long- and permanent-events (like _Awaken Denizens_) can be revealed on-guard and effect multiple companies. These cards specify that they affect “each” or “all” sites of a certain type.
 
 ---
 
@@ -6929,6 +6942,8 @@ permalink: /cards/all/
 > > _“‘But we must have power, power to order all things as we will...’”_ ***---&#65279;LotRII*** 
 >
 
+ - [CRF 1 (Oct 1996) - TURN SEQUENCE, Site Phase, On-Guard Cards](/original/rulings/crf-1/#on-guard-cards)<br>An often confusing point is when and if certain hazards can be revealed as on-guard cards. There are two cases when a face down card may be revealed, and, thusly, affect an opponent’s company: 1) when the company announces it will face a site’s automatic-attacks (before the automatic-attack is itself faced), and 2) when the company plays a card keyed to the site.<br>For case #2, specifically, you may reveal an on-guard card in the same chain of effects in response to the play (declaration thereof) of any item, faction, ally, or other card that potentially taps the site. Successfully testing for and playing a ring special item does not count! You may reveal an on-guard card in response to the declaration of an influence attempt on a faction that only has an effect if the attempt would be successful (e.g., _Lure of Power_). Also, in the case of a faction, you may reveal an on-guard card that affects the actual influence attempt.
+
 ---
 
 {: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -6964,6 +6979,8 @@ permalink: /cards/all/
 > > {: .fs-3 } 
 > > _“...for in the gloom the Shadow Host seemed to grow stronger and more terrible to look upon."_ ***---&#65279;LotRV*** 
 >
+
+ - [CRF 1 (Oct 1996) - TURN SEQUENCE, Site Phase, On-Guard Cards](/original/rulings/crf-1/#on-guard-cards)<br>Some long- and permanent-events (like _Awaken Denizens_) can be revealed on-guard and effect multiple companies. These cards specify that they affect “each” or “all” sites of a certain type.
 
 ---
 
@@ -7041,6 +7058,8 @@ permalink: /cards/all/
 > > _“When the days of rejoicing were over at last, the Companions thought of returning to their own homes."_ ***---&#65279;LotRVI*** 
 >
 
+ - [CRF 1 (Oct 1996) - TURN SEQUENCE, Site Phase, On-Guard Cards](/original/rulings/crf-1/#on-guard-cards)<br>As a final, encompassing example, _Muster Disperses_ cannot be revealed as an on-guard card for three reasons.<br>1. _Muster Disperses_ cannot target a faction played during the site phase during which it would be revealed because this target did not exist during the movement/hazard phase.<br>2. _Muster Disperses_ cannot target a faction already in play at the start of the site phase because it would not affect a company or a character in the company.<br> 3. _Muster Disperses_ cannot target a faction played during the site phase during which it would be revealed because this target does not exist when _Muster Disperses_ would be revealed. A card can only be revealed in the same chain of effects as the play of a resource that potentially taps the site, and this resource actually is not resolved and cannot be targetted at that point.
+
 ---
 
 {: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -7072,6 +7091,8 @@ permalink: /cards/all/
 > > _Environment._ The prowess of each non-ranger Dunadan is modified by -1. <br>&ensp;Additionally, if _Doors of Night_ is in play, the prowesses of all attacks are modified by +1 **and** the prowess of each Man and Dunadan is modified by -1. <br>&ensp;Cannot be duplicated. 
 >
 
+ - [CRF 1 (Oct 1996) - TURN SEQUENCE, Site Phase, On-Guard Cards](/original/rulings/crf-1/#on-guard-cards)<br>Some long- and permanent-events (like _Awaken Denizens_) can be revealed on-guard and effect multiple companies. These cards specify that they affect “each” or “all” sites of a certain type.
+
 ---
 
 {: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -7088,6 +7109,8 @@ permalink: /cards/all/
 > > {: .fs-3 } 
 > > _“‘But only evil wights dwell there now, and I will not willingly tell more of them.’”_ ***---&#65279;LotRV*** 
 >
+
+ - [CRF 1 (Oct 1996) - TURN SEQUENCE, Site Phase, On-Guard Cards](/original/rulings/crf-1/#on-guard-cards)<br>Some long- and permanent-events (like _Awaken Denizens_) can be revealed on-guard and effect multiple companies. These cards specify that they affect “each” or “all” sites of a certain type.
 
 ---
 
@@ -7173,6 +7196,8 @@ permalink: /cards/all/
 > > {: .fs-3 } 
 > > _“...they came out of the Far West and were messengers sent to contest the power of Sauron, ...but they were forbidden to match his power with power...”_ ***---&#65279;LotR*** 
 >
+
+ - [CRF 1 (Oct 1996) - TURN SEQUENCE, Site Phase, On-Guard Cards](/original/rulings/crf-1/#on-guard-cards)<br>Additionally, the on-guard card may only be revealed if it affects the company or a character in the company that site phase–this clarification is actually looser than the rule printed on page page 61 of the METW Unlimited Rulesbook. This rule did state the on-guard card may only be revealed if it directly affected the company. Only declared or on-going cards and effects can be considered when determining the validy of revealing an on-guard card–cards in your hand, your opponent’s hand, play deck, discard pile, etc. cannot be considered and potential effects that have not been triggered cannot be considered. An on-guard card may not be revealed if it has an effect that is meaningless during a company’s site phase.<br>As an example of how this requirement is looser now, _Balance of Things_ may be revealed as an on-guard card so long as at least one character in the company, during whose site phase _Balance of Things_ is revealed, carries at least one corruption source.
 
 ---
 
@@ -7367,6 +7392,8 @@ permalink: /cards/all/
 > > {: .fs-3 } 
 > > _“Fire and smoke and stench were in the air; for many engines had been burned or cast into the fire-pits, and many of the slain also...”_ ***---&#65279;LotRV*** 
 >
+
+ - [CRF 1 (Oct 1996) - TURN SEQUENCE, Site Phase, On-Guard Cards](/original/rulings/crf-1/#on-guard-cards)<br>Some long- and permanent-events (like _Awaken Denizens_) can be revealed on-guard and effect multiple companies. These cards specify that they affect “each” or “all” sites of a certain type.
 
 ---
 
@@ -9652,6 +9679,8 @@ permalink: /cards/all/
 > > <div class="card-shield">【 6/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Alatar ](/original/rulings/crf-1/#alatar)<br>Alatar can interfere with the attacker assigning strike. When he uses his special ability he must face a strike.
+
 ---
 
 {: .character-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -10146,6 +10175,8 @@ permalink: /cards/all/
 > > <div class="card-shield">【 1/9 】</div>
 > > <div class="card-corruption">〔 +4 〕</div>
 
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Hobbits](/original/rulings/crf-1/#hobbits)<br>Hobbit characters may only be brought into play at havens if it is the start of the game and they are your starting characters. If a Hobbit is a starting character and leaves play, then it may only be normally brought back into play at Bag End.
+
 ---
 
 {: .character-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -10298,6 +10329,8 @@ permalink: /cards/all/
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 5/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Attack](/original/rulings/crf-1/#attack)<br>In order to cancel an attack or to directly affect an attack, the character doing so must be in the company facing the attack. Note that the region/site type a hazard creature is keyed to (when declared) can be affected otherwise.
 
 ---
 
@@ -10662,6 +10695,8 @@ permalink: /cards/all/
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 1/9 】</div>
 > > <div class="card-corruption">〔 +4 〕</div>
+
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Hobbits](/original/rulings/crf-1/#hobbits)<br>Hobbit characters may only be brought into play at havens if it is the start of the game and they are your starting characters. If a Hobbit is a starting character and leaves play, then it may only be normally brought back into play at Bag End.
 
 ---
 
@@ -11105,6 +11140,8 @@ permalink: /cards/all/
 > > <div class="card-shield">【 1/9 】</div>
 > > <div class="card-corruption">〔 +2 〕</div>
 
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Hobbits](/original/rulings/crf-1/#hobbits)<br>Hobbit characters may only be brought into play at havens if it is the start of the game and they are your starting characters. If a Hobbit is a starting character and leaves play, then it may only be normally brought back into play at Bag End.
+
 ---
 
 {: .character-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -11261,6 +11298,8 @@ permalink: /cards/all/
 > > <div class="card-shield">【 1/9 】</div>
 > > <div class="card-corruption">〔 +2 〕</div>
 
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Hobbits](/original/rulings/crf-1/#hobbits)<br>Hobbit characters may only be brought into play at havens if it is the start of the game and they are your starting characters. If a Hobbit is a starting character and leaves play, then it may only be normally brought back into play at Bag End.
+
 ---
 
 {: .character-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -11287,6 +11326,8 @@ permalink: /cards/all/
 > > <div class="card-shield">【 1/9 】</div>
 > > <div class="card-corruption">〔 +2 〕</div>
 
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Hobbits](/original/rulings/crf-1/#hobbits)<br>Hobbit characters may only be brought into play at havens if it is the start of the game and they are your starting characters. If a Hobbit is a starting character and leaves play, then it may only be normally brought back into play at Bag End.\
+
 ---
 
 {: .character-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -11312,6 +11353,8 @@ permalink: /cards/all/
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 1/9 】</div>
 > > <div class="card-corruption">〔 +3 〕</div>
+
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Hobbits](/original/rulings/crf-1/#hobbits)<br>Hobbit characters may only be brought into play at havens if it is the start of the game and they are your starting characters. If a Hobbit is a starting character and leaves play, then it may only be normally brought back into play at Bag End.
 
 ---
 
@@ -12219,6 +12262,8 @@ permalink: /cards/all/
 > > <div class="card-shield"></div>
 > > <div class="card-corruption">〔 1 〕</div>
 
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Gold Ring Item](/original/rulings/crf-1/#gold-ring-item)<br>When a gold ring item is tested, the ring is discarded and the marshalling points are lost whether or not you are able to play a special item.
+
 ---
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -12299,6 +12344,9 @@ permalink: /cards/all/
 > > <div class="card-shield">【 +2(4)/+1 】</div>
 > > <div class="card-corruption">〔 3(5) 〕</div>
 
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Dwarven Rings (all)](/original/rulings/crf-1/#dwarven-rings-all)<br>Give +7 to direct influence.
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Dwarven Ring of Barin’s Tribe](/original/rulings/crf-1/#dwarven-ring-of-barins-tribe)<br>The site has to be untapped to use this ring.
+
 ---
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -12319,6 +12367,9 @@ permalink: /cards/all/
 > > <div class="card-shield">【 +2(4)/+1 】</div>
 > > <div class="card-corruption">〔 3(5) 〕</div>
 
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Dwarven Rings (all)](/original/rulings/crf-1/#dwarven-rings-all)<br>Give +7 to direct influence.
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Dwarven Ring of Barin’s Tribe](/original/rulings/crf-1/#dwarven-ring-of-barins-tribe)<br>The site has to be untapped to use this ring.
+
 ---
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -12338,6 +12389,9 @@ permalink: /cards/all/
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +2(4)/+1 】</div>
 > > <div class="card-corruption">〔 3(5) 〕</div>
+
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Dwarven Rings (all)](/original/rulings/crf-1/#dwarven-rings-all)<br>Give +7 to direct influence.
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Dwarven Ring of Barin’s Tribe](/original/rulings/crf-1/#dwarven-ring-of-barins-tribe)<br>The site has to be untapped to use this ring.
 
 ---
 
@@ -12362,6 +12416,8 @@ permalink: /cards/all/
 > > <div class="card-shield">【 +2(4)/+1 】</div>
 > > <div class="card-corruption">〔 3(5) 〕</div>
 
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Dwarven Rings (all)](/original/rulings/crf-1/#dwarven-rings-all)<br>Give +7 to direct influence.
+
 ---
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -12381,6 +12437,9 @@ permalink: /cards/all/
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +2(4)/+1 】</div>
 > > <div class="card-corruption">〔 3(5) 〕</div>
+
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Dwarven Rings (all)](/original/rulings/crf-1/#dwarven-rings-all)<br>Give +7 to direct influence.
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Dwarven Ring of Barin’s Tribe](/original/rulings/crf-1/#dwarven-ring-of-barins-tribe)<br>The site has to be untapped to use this ring.
 
 ---
 
@@ -12402,6 +12461,8 @@ permalink: /cards/all/
 > > <div class="card-shield">【 +2(4)/+1 】</div>
 > > <div class="card-corruption">〔 3(5) 〕</div>
 
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Dwarven Rings (all)](/original/rulings/crf-1/#dwarven-rings-all)<br>Give +7 to direct influence.
+
 ---
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -12421,6 +12482,8 @@ permalink: /cards/all/
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 +2(4)/+1 】</div>
 > > <div class="card-corruption">〔 3(5) 〕</div>
+
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Dwarven Rings (all)](/original/rulings/crf-1/#dwarven-rings-all)<br>Give +7 to direct influence.
 
 ---
 
@@ -12485,6 +12548,8 @@ permalink: /cards/all/
 > > <div class="card-shield"></div>
 > > <div class="card-corruption">〔 1 〕</div>
 
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Elven Cloak](/original/rulings/crf-1/#elven-cloak)<br>Can cancel a strike keyed to double (or multiple) wilderness.
+
 ---
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -12521,6 +12586,8 @@ permalink: /cards/all/
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
 > > <div class="card-corruption">〔 1 〕</div>
+
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Gold Ring Item](/original/rulings/crf-1/#gold-ring-item)<br>When a gold ring item is tested, the ring is discarded and the marshalling points are lost whether or not you are able to play a special item.
 
 ---
 
@@ -12959,6 +13026,8 @@ permalink: /cards/all/
 > > <div class="card-shield"></div>
 > > <div class="card-corruption">〔 1 〕</div>
 
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Gold Ring Item](/original/rulings/crf-1/#gold-ring-item)<br>When a gold ring item is tested, the ring is discarded and the marshalling points are lost whether or not you are able to play a special item.
+
 ---
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -13084,6 +13153,8 @@ permalink: /cards/all/
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
 > > <div class="card-corruption">〔 1 〕</div>
+
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Attack](/original/rulings/crf-1/#attack)<br>In order to cancel an attack or to directly affect an attack, the character doing so must be in the company facing the attack. Note that the region/site type a hazard creature is keyed to (when declared) can be affected otherwise.
 
 ---
 
@@ -13412,6 +13483,8 @@ permalink: /cards/all/
 > > _“...on the brink of the chasm, at the very Crack of Doom, stood Frodo...”_ ***---&#65279;LotRVI*** 
 > 
 
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Cracks of Doom](/original/rulings/crf-1/#cracks-of-doom)<br>The character who makes the corruption check must be bearing _The One Ring_ at the time, or else _Cracks of Doom_ has no effect.
+
 ---
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -13463,6 +13536,8 @@ permalink: /cards/all/
 > > _“...if sleep could be called...resting his mind in the strange paths of elvish dreams...”_ ***---&#65279;LotRII*** 
 > 
 
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Dreams of Lore](/original/rulings/crf-1/#dreams-of-lore)<br>Does not have to be stored to recieve the marshalling points.
+
 ---
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -13493,6 +13568,8 @@ permalink: /cards/all/
 > > {: .fs-3 } 
 > > _“...she sang. Sad and sweet was the sound of her voice in the cool clear air...”_ ***---&#65279;LotRII*** 
 > 
+
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Elf-song](/original/rulings/crf-1/#elf-song)<br>When _Elf-song_ saves a character from being discarded it also saves that character’s items.
 
 ---
 
@@ -14118,6 +14195,8 @@ permalink: /cards/all/
 > > _“O Elbereth! Githoniel!...Thy starlight on the Western Seas."_ ***---&#65279;LotRI*** 
 > 
 
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Attack](/original/rulings/crf-1/#attack)<br>In order to cancel an attack or to directly affect an attack, the character doing so must be in the company facing the attack. Note that the region/site type a hazard creature is keyed to (when declared) can be affected otherwise.
+
 ---
 
 {: .hero-resource-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -14661,6 +14740,8 @@ permalink: /cards/all/
 > > <div class="card-shield">【 10/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Abductor](/original/rulings/crf-1/#abductor)<br>Treat character discarded by _Abductor_ to be discarded but not eliminated.
+
 ---
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -14760,6 +14841,8 @@ permalink: /cards/all/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 11/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
+
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Assassin](/original/rulings/crf-1/#assassin)<br>All of the strikes will go against the same character.
 
 ---
 
@@ -15901,6 +15984,9 @@ permalink: /cards/all/
 > > _**Unique.**_ The Balrog appears in Moria. The Moria site gains a second automatic-attack of 1 strike with 18 prowess and no body (i.e., 18/-). If this 2nd automatic-attack is defeated, this permanent-event is removed from play (i.e., the Balrog is defeated). If your opponent defeats this 2nd automatic-attack, he receives the marshalling points. <br>&ensp;In addition, unless Galadriel is at Lorien or she is not in play, Lorien is considered a Free-hold <nobr>[<img src="/assets/images/free-hold.svg">]</nobr> (for the purposes of healing and playing hazards). +2 prowess to all automatic-attacks at sites in Hollin, Redhorn Gate, and Wold & Foothills. 
 >
 
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Balrog of Moria](/original/rulings/crf-1/#balrog-of-moria)<br>The “in addition” section of _Balrog of Moria_ is not used if Galadriel is out of play, even if she is eliminated.
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Balrog of Moria](/original/rulings/crf-1/#balrog-of-moria)<br>You cannot get the MP from a _Balrog of Moria_ that you played.
+
 ---
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -15914,6 +16000,8 @@ permalink: /cards/all/
 > {: .hazard-text .black-text .p-2 }
 > > Corruption points for Palantiri are doubled. <br>&ensp;Automatically cancels any effects that causes a player to search through or look at any portion of a play deck or a discard pile outside of the normal sequence of play. Discard _Bane of the Ithil-stone_ whenever a play deck is exhausted. <br>&ensp;Cannot be duplicated. 
 >
+
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Bane of the Ithil-stone](/original/rulings/crf-1/#bane-of-the-ithil-stone)<br>_Bane of the Ithil-stone_ will only cancel effects outside of normal play. It will not stop you from drawing cards when moving or discarding and drawing at the end of the turn. It will not stop getting cards from the sideboard. It will stop looking thourgh the discard piles or play decks. This will stop cards like _Far Sight_, _the Nazgul are Abroad_, _Lucky Search_, and _From the Pits of Angbad_.
 
 ---
 
@@ -16024,6 +16112,8 @@ permalink: /cards/all/
 > > {: .fs-3 } 
 > > _“...there was neither bush nor tree, and only broken and blackened stumps...”_ ***---&#65279;Hob*** 
 >
+
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Dragon's Desolation](/original/rulings/crf-1/#dragons-desolation)<br>Playing Dragon’s Desolation to make a Dragon playable at a Ruins & Lairs does not necessarilly require you to play a Dragon later in the turn.
 
 ---
 
@@ -16541,6 +16631,8 @@ permalink: /cards/all/
 > > {: .fs-3 } 
 > > _“...they came out of the Far West and were messengers sent to contest the power of Sauron, ...but they were forbidden to match his power with power...”_ ***---&#65279;LotR*** 
 >
+
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Balance of Things](/original/rulings/crf-1/#balance-of-things)<br>_Balance of Things_ may be revealed as an on-guard card so long as at least one character in the company during whose site phase _Balance of Things_ is revealed carries at least one corruption source.
 
 ---
 
@@ -17274,6 +17366,8 @@ permalink: /cards/all/
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
 > > <div class="card-corruption">&nbsp;</div>
 
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Haven](/original/rulings/crf-1/#haven)<br>Havens can tap, but Havens are always returned to the location deck and not the discard pile.
+
 ---
 
 {: .hero-site-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -17408,6 +17502,8 @@ permalink: /cards/all/
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
 > > <div class="card-corruption">&nbsp;</div>
+
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Haven](/original/rulings/crf-1/#haven)<br>Havens can tap, but Havens are always returned to the location deck and not the discard pile.
 
 ---
 
@@ -17612,6 +17708,8 @@ permalink: /cards/all/
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
 > > <div class="card-corruption">&nbsp;</div>
+
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Haven](/original/rulings/crf-1/#haven)<br>Havens can tap, but Havens are always returned to the location deck and not the discard pile.
 
 ---
 
@@ -17905,6 +18003,8 @@ permalink: /cards/all/
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
 > > <div class="card-corruption">&nbsp;</div>
+
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Haven](/original/rulings/crf-1/#haven)<br>Havens can tap, but Havens are always returned to the location deck and not the discard pile.
 
 ---
 
@@ -18918,6 +19018,8 @@ permalink: /cards/all/
 > > <div class="card-shield">【 1/8 】</div>
 > > <div class="card-corruption">〔 +1 〕</div>
 
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Hobbits](/original/rulings/crf-1/#hobbits)<br>Hobbit characters may only be brought into play at havens if it is the start of the game and they are your starting characters. If a Hobbit is a starting character and leaves play, then it may only be normally brought back into play at Bag End.
+
 ---
 
 {: .character .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -19175,6 +19277,8 @@ permalink: /cards/all/
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
 > > <div class="card-corruption">〔 2 〕</div>
+
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Attack](/original/rulings/crf-1/#attack)<br>In order to cancel an attack or to directly affect an attack, the character doing so must be in the company facing the attack. Note that the region/site type a hazard creature is keyed to (when declared) can be affected otherwise.
 
 ---
 
@@ -19575,6 +19679,8 @@ permalink: /cards/all/
 > > Tap a character to make a burglary attempt at a site in lieu of facing its automatic-attacks. Tap the site and make a roll (or draw a #) modified by +2 if the character is a scout and by +3 if he is a Hobbit. If the result is greater than 10, an item normally playable at the site may be played with the character. If the attempt fails, the character must face all automatic-attacks alone. 
 > 
 
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Burglary](/original/rulings/crf-1/#burglary)<br>If you fail the roll for the Burglary, you cannot then play an item.
+
 ---
 
 {: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -19645,6 +19751,8 @@ permalink: /cards/all/
 > > {: .fs-3 } 
 > > _“The ponies screamed with terror, burst their ropes, and galloped wildly off. The dragon swooped and turned to pursue them...”_ ***---&#65279;Hob*** 
 > 
+
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Dragon's Hunger](/original/rulings/crf-1/#dragons-hunger)<br>Errata: Replace “Otherwise, the attack is cancelled.” with “Otherwise, the attack is cancelled and the opponent must reveal his hand.” [effective 10/24/96]
 
 ---
 
@@ -19892,6 +20000,8 @@ permalink: /cards/all/
 > > _“‘We will take this book, the Book of Mazarbul, and look at it more closely later.’”_ ***---&#65279;LotRII*** 
 > 
 
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Site](/original/rulings/crf-1/#site)<br>To untap a site the character doing so must be at that site.
+
 ---
 
 {: .hero-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -19945,6 +20055,8 @@ permalink: /cards/all/
 > > {: .fs-3 } 
 > > _“He was taking a wandering course with many turns and doublings, to put off any pursuit."_ ***---&#65279;LotRI*** 
 > 
+
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Attack](/original/rulings/crf-1/#attack)<br>In order to cancel an attack or to directly affect an attack, the character doing so must be in the company facing the attack. Note that the region/site type a hazard creature is keyed to (when declared) can be affected otherwise.
 
 ---
 
@@ -21038,6 +21150,9 @@ permalink: /cards/all/
 > > <div class="card-shield">【 13/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Ahunt Manifestations](/original/rulings/crf-1/#ii-rulings-by-term)<br>If one _Ahunt_ is out and you move through four of the regions listed on it, then you face the attack once.
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Ahunt Manifestations](/original/rulings/crf-1/#ii-rulings-by-term)<br>If four Ahunts are out an you move through one region listed on all four, then you face each of the four attacks once.
+
 ---
 
 {: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -21074,6 +21189,9 @@ permalink: /cards/all/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 12/6 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Ahunt Manifestations](/original/rulings/crf-1/#ii-rulings-by-term)<br>If one _Ahunt_ is out and you move through four of the regions listed on it, then you face the attack once.
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Ahunt Manifestations](/original/rulings/crf-1/#ii-rulings-by-term)<br>If four Ahunts are out an you move through one region listed on all four, then you face each of the four attacks once.
 
 ---
 
@@ -21126,6 +21244,8 @@ permalink: /cards/all/
 > > ***Playable on a company using region movement to move through one of the following regions (and not stopping at a site therein):*** High Pass, Redhorn Gate, Angmar, Gundabad, Grey Mountain Narrows, or Minas Morgul. Each character in target company must face one strike (not an attack) of 8 prowess which cannot be cancelled. Any resulting body check is modified by +1. 
 >
 
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Cruel Caradhras](/original/rulings/crf-1/#cruel-caradhras)<br>Errata: Replace “Minas Morgul” with “Imlad Morgul.”
+
 ---
 
 {: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -21142,6 +21262,9 @@ permalink: /cards/all/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 11/7 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Ahunt Manifestations](/original/rulings/crf-1/#ii-rulings-by-term)<br>If one _Ahunt_ is out and you move through four of the regions listed on it, then you face the attack once.
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Ahunt Manifestations](/original/rulings/crf-1/#ii-rulings-by-term)<br>If four Ahunts are out an you move through one region listed on all four, then you face each of the four attacks once.
 
 ---
 
@@ -21214,6 +21337,9 @@ permalink: /cards/all/
 > > _“The enchanted blood of the Great Worms becomes increasingly caustic and corrosive with age."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 >
 
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Dragon's Blood](/original/rulings/crf-1/#dragons-blood)<br>If the body check forced by Dragon’s Blood fails, the character is not wounded.
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Dragon's Blood](/original/rulings/crf-1/#dragons-blood)<br>[CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Dragon's Blood](/original/rulings/crf-1/#dragons-blood)<br>
+
 ---
 
 {: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -21275,6 +21401,9 @@ permalink: /cards/all/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 15/6 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Ahunt Manifestations](/original/rulings/crf-1/#ii-rulings-by-term)<br>If one _Ahunt_ is out and you move through four of the regions listed on it, then you face the attack once.
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Ahunt Manifestations](/original/rulings/crf-1/#ii-rulings-by-term)<br>If four Ahunts are out an you move through one region listed on all four, then you face each of the four attacks once.
 
 ---
 
@@ -21465,6 +21594,9 @@ permalink: /cards/all/
 > > <div class="card-shield">【 16/7 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Ahunt Manifestations](/original/rulings/crf-1/#ii-rulings-by-term)<br>If one _Ahunt_ is out and you move through four of the regions listed on it, then you face the attack once.
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Ahunt Manifestations](/original/rulings/crf-1/#ii-rulings-by-term)<br>If four Ahunts are out an you move through one region listed on all four, then you face each of the four attacks once.
+
 ---
 
 {: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -21529,6 +21661,9 @@ permalink: /cards/all/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 14/7 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Ahunt Manifestations](/original/rulings/crf-1/#ii-rulings-by-term)<br>If one _Ahunt_ is out and you move through four of the regions listed on it, then you face the attack once.
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Ahunt Manifestations](/original/rulings/crf-1/#ii-rulings-by-term)<br>If four Ahunts are out an you move through one region listed on all four, then you face each of the four attacks once.
 
 ---
 
@@ -21728,6 +21863,9 @@ permalink: /cards/all/
 > > <div class="card-shield">【 13/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Ahunt Manifestations](/original/rulings/crf-1/#ii-rulings-by-term)<br>If one _Ahunt_ is out and you move through four of the regions listed on it, then you face the attack once.
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Ahunt Manifestations](/original/rulings/crf-1/#ii-rulings-by-term)<br>If four Ahunts are out an you move through one region listed on all four, then you face each of the four attacks once.
+
 ---
 
 {: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
@@ -21764,6 +21902,9 @@ permalink: /cards/all/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 10/7 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Ahunt Manifestations](/original/rulings/crf-1/#ii-rulings-by-term)<br>If one _Ahunt_ is out and you move through four of the regions listed on it, then you face the attack once.
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Ahunt Manifestations](/original/rulings/crf-1/#ii-rulings-by-term)<br>If four Ahunts are out an you move through one region listed on all four, then you face each of the four attacks once.
 
 ---
 
@@ -21852,6 +21993,9 @@ permalink: /cards/all/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 15/7 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Ahunt Manifestations](/original/rulings/crf-1/#ii-rulings-by-term)<br>If one _Ahunt_ is out and you move through four of the regions listed on it, then you face the attack once.
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Ahunt Manifestations](/original/rulings/crf-1/#ii-rulings-by-term)<br>If four Ahunts are out an you move through one region listed on all four, then you face each of the four attacks once.
 
 ---
 

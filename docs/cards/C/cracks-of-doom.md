@@ -49,3 +49,5 @@ permalink: /cards/cracks-of-doom/
 > > {: .fs-3 } 
 > > _“...on the brink of the chasm, at the very Crack of Doom, stood Frodo...”_ ***---&#65279;LotRVI*** 
 > 
+
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Cracks of Doom](/original/rulings/crf-1/#cracks-of-doom)<br>The character who makes the corruption check must be bearing _The One Ring_ at the time, or else _Cracks of Doom_ has no effect.

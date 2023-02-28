@@ -43,3 +43,5 @@ permalink: /cards/bane-of-the-ithil-stone/
 > {: .hazard-text .black-text .p-2 }
 > > Corruption points for Palantiri are doubled. <br>&ensp;Automatically cancels any effects that causes a player to search through or look at any portion of a play deck or a discard pile outside of the normal sequence of play. Discard _Bane of the Ithil-stone_ whenever a play deck is exhausted. <br>&ensp;Cannot be duplicated. 
 >
+
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Bane of the Ithil-stone](/original/rulings/crf-1/#bane-of-the-ithil-stone)<br>_Bane of the Ithil-stone_ will only cancel effects outside of normal play. It will not stop you from drawing cards when moving or discarding and drawing at the end of the turn. It will not stop getting cards from the sideboard. It will stop looking thourgh the discard piles or play decks. This will stop cards like _Far Sight_, _the Nazgul are Abroad_, _Lucky Search_, and _From the Pits of Angbad_.

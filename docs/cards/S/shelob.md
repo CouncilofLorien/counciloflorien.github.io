@@ -31,6 +31,8 @@ permalink: /cards/shelob/
 > > <div class="card-shield">【 18/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
+ - [CRF 1 (Oct 1996) - TURN SEQUENCE, Site Phase, On-Guard Cards](/original/rulings/crf-1/#on-guard-cards)<br>Some long- and permanent-events (like _Awaken Denizens_) can be revealed on-guard and effect multiple companies. These cards specify that they affect “each” or “all” sites of a certain type.
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

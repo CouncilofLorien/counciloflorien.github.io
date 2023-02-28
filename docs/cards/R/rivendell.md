@@ -54,6 +54,8 @@ permalink: /cards/rivendell/
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;2&ensp;</span></div>
 > > <div class="card-corruption">&nbsp;</div>
 
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Haven](/original/rulings/crf-1/#haven)<br>Havens can tap, but Havens are always returned to the location deck and not the discard pile.
+
 ### _Middle-earth: Against the Shadow_
 
 {: .minion-site .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

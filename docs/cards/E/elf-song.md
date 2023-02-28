@@ -47,3 +47,5 @@ permalink: /cards/elf-song/
 > > {: .fs-3 } 
 > > _“...she sang. Sad and sweet was the sound of her voice in the cool clear air...”_ ***---&#65279;LotRII*** 
 > 
+
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Elf-song](/original/rulings/crf-1/#elf-song)<br>When _Elf-song_ saves a character from being discarded it also saves that character’s items.

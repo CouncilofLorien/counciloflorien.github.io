@@ -30,3 +30,6 @@ permalink: /cards/agburanar-ahunt/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 13/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Ahunt Manifestations](/original/rulings/crf-1/#ii-rulings-by-term)<br>If one _Ahunt_ is out and you move through four of the regions listed on it, then you face the attack once.
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Ahunt Manifestations](/original/rulings/crf-1/#ii-rulings-by-term)<br>If four Ahunts are out an you move through one region listed on all four, then you face each of the four attacks once.

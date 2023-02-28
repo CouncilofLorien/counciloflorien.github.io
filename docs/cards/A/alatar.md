@@ -63,6 +63,8 @@ permalink: /cards/alatar/
 > > <div class="card-shield">【 6/9 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Alatar ](/original/rulings/crf-1/#alatar)<br>Alatar can interfere with the attacker assigning strike. When he uses his special ability he must face a strike.
+
 ### _Middle-earth: The White Hand_
 
 {: .character .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

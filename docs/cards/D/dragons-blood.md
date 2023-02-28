@@ -30,3 +30,6 @@ permalink: /cards/dragons-blood/
 > > {: .fs-3 } 
 > > _“The enchanted blood of the Great Worms becomes increasingly caustic and corrosive with age."_ ***---&#65279;Kuduk&nbsp;Lore*** 
 >
+
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Dragon's Blood](/original/rulings/crf-1/#dragons-blood)<br>If the body check forced by Dragon’s Blood fails, the character is not wounded.
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Dragon's Blood](/original/rulings/crf-1/#dragons-blood)<br>[CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Dragon's Blood](/original/rulings/crf-1/#dragons-blood)<br>

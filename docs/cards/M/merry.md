@@ -68,6 +68,8 @@ permalink: /cards/merry/
 > > <div class="card-shield">【 1/9 】</div>
 > > <div class="card-corruption">〔 +2 〕</div>
 
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Hobbits](/original/rulings/crf-1/#hobbits)<br>Hobbit characters may only be brought into play at havens if it is the start of the game and they are your starting characters. If a Hobbit is a starting character and leaves play, then it may only be normally brought back into play at Bag End.
+
 ### _Middle-earth: The Wizards Starter Set_
 
 {: .character-starter .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

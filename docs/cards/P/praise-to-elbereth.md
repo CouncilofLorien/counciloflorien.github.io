@@ -49,3 +49,5 @@ permalink: /cards/praise-to-elbereth/
 > > {: .fs-3 } 
 > > _“O Elbereth! Githoniel!...Thy starlight on the Western Seas."_ ***---&#65279;LotRI*** 
 > 
+
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Attack](/original/rulings/crf-1/#attack)<br>In order to cancel an attack or to directly affect an attack, the character doing so must be in the company facing the attack. Note that the region/site type a hazard creature is keyed to (when declared) can be affected otherwise.

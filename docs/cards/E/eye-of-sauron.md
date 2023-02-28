@@ -31,7 +31,8 @@ permalink: /cards/eye-of-sauron/
 > > _“The Eye was rimmed with fire, but was itself glazed, yellow as a cat's, watchful and intent, and the black slit of its pupil opened on a pit, a window into nothing."_ ***---&#65279;LotRII*** 
 >
 
- - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** If Doors of Night is in play does Eye of Sauron give +3 or +4 to the prowess of each automatic attack?<br>**A:** Eye of Sauron will only give +3 to the prowes of each automatic attack.
+ - [FAQ #2 (Dec 1995) - Questions About Specific Cards](/original/rulings/faq-2/#questions-about-specific-cards)<br>**Q:** If _Doors of Night_ is in play does _Eye of Sauron_ give +3 or +4 to the prowess of each automatic attack?<br>**A:** _Eye of Sauron_ will only give +3 to the prowes of each automatic attack.
+ - [CRF 1 (Oct 1996) - TURN SEQUENCE, Site Phase, On-Guard Cards](/original/rulings/crf-1/#on-guard-cards)<br>Some long- and permanent-events (like _Awaken Denizens_) can be revealed on-guard and effect multiple companies. These cards specify that they affect “each” or “all” sites of a certain type.
 
 ### _Middle-earth: The Wizards Unlimited_
 

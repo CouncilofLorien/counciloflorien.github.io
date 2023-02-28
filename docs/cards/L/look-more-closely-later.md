@@ -30,3 +30,5 @@ permalink: /cards/look-more-closely-later/
 > > {: .fs-3 } 
 > > _“‘We will take this book, the Book of Mazarbul, and look at it more closely later.’”_ ***---&#65279;LotRII*** 
 > 
+
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Site](/original/rulings/crf-1/#site)<br>To untap a site the character doing so must be at that site.

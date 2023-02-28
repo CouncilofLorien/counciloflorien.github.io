@@ -35,6 +35,8 @@ permalink: /cards/align-palantir/
 > > <div class="card-corruption">〔 2 〕</div>
 
  - [FAQ #6 (Feb 1996) - Questions About Specific Cards](/original/rulings/faq-6/#questions-about-specific-cards)<br>**Q:** Can an Aligned Palantir be stored?<br>**A:** Yes.
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Align Palantir](/original/rulings/crf-1/#align-palantir)<br>_Align Palantir_ can be stored.
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Align Palantir](/original/rulings/crf-1/#align-palantir)<br>Has errata: Add “May not be duplicated on a given Palantir.
 
 ### _Middle-earth: The Wizards Unlimited_
 

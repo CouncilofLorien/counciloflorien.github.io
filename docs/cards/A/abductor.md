@@ -62,6 +62,8 @@ permalink: /cards/abductor/
 > > <div class="card-shield">【 10/&ndash; 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
 
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Abductor](/original/rulings/crf-1/#abductor)<br>Treat character discarded by _Abductor_ to be discarded but not eliminated.
+
 ### _Middle-earth Challenge Decks_
 
 {: .hazard-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

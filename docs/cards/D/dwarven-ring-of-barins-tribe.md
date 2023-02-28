@@ -57,6 +57,9 @@ permalink: /cards/dwarven-ring-of-barins-tribe/
 > > <div class="card-shield">【 +2(4)/+1 】</div>
 > > <div class="card-corruption">〔 3(5) 〕</div>
 
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Dwarven Rings (all)](/original/rulings/crf-1/#dwarven-rings-all)<br>Give +7 to direct influence.
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Dwarven Ring of Barin’s Tribe](/original/rulings/crf-1/#dwarven-ring-of-barins-tribe)<br>The site has to be untapped to use this ring.
+
 ### _Middle-earth: The Lidless Eye_
 
 {: .minion-resource .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

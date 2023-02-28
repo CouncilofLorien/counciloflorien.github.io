@@ -56,6 +56,8 @@ permalink: /cards/elven-cloak/
 > > <div class="card-shield"></div>
 > > <div class="card-corruption">〔 1 〕</div>
 
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Elven Cloak](/original/rulings/crf-1/#elven-cloak)<br>Can cancel a strike keyed to double (or multiple) wilderness.
+
 ### _Middle-earth: The Wizards Starter Set_
 
 {: .hero-resource-starter .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

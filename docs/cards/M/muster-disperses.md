@@ -31,6 +31,8 @@ permalink: /cards/muster-disperses/
 > > _“When the days of rejoicing were over at last, the Companions thought of returning to their own homes."_ ***---&#65279;LotRVI*** 
 >
 
+ - [CRF 1 (Oct 1996) - TURN SEQUENCE, Site Phase, On-Guard Cards](/original/rulings/crf-1/#on-guard-cards)<br>As a final, encompassing example, _Muster Disperses_ cannot be revealed as an on-guard card for three reasons.<br>1. _Muster Disperses_ cannot target a faction played during the site phase during which it would be revealed because this target did not exist during the movement/hazard phase.<br>2. _Muster Disperses_ cannot target a faction already in play at the start of the site phase because it would not affect a company or a character in the company.<br> 3. _Muster Disperses_ cannot target a faction played during the site phase during which it would be revealed because this target does not exist when _Muster Disperses_ would be revealed. A card can only be revealed in the same chain of effects as the play of a resource that potentially taps the site, and this resource actually is not resolved and cannot be targetted at that point.
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

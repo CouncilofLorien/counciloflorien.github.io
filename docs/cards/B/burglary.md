@@ -27,3 +27,5 @@ permalink: /cards/burglary/
 > {: .hero-resource-text .black-text .p-2 }
 > > Tap a character to make a burglary attempt at a site in lieu of facing its automatic-attacks. Tap the site and make a roll (or draw a #) modified by +2 if the character is a scout and by +3 if he is a Hobbit. If the result is greater than 10, an item normally playable at the site may be played with the character. If the attempt fails, the character must face all automatic-attacks alone. 
 > 
+
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Burglary](/original/rulings/crf-1/#burglary)<br>If you fail the roll for the Burglary, you cannot then play an item.

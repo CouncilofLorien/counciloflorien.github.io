@@ -54,6 +54,8 @@ permalink: /cards/star-glass/
 > > <div class="card-shield"></div>
 > > <div class="card-corruption">〔 1 〕</div>
 
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Attack](/original/rulings/crf-1/#attack)<br>In order to cancel an attack or to directly affect an attack, the character doing so must be in the company facing the attack. Note that the region/site type a hazard creature is keyed to (when declared) can be affected otherwise.
+
 ### _Middle-earth Challenge Decks_
 
 {: .hero-resource-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

@@ -49,3 +49,5 @@ permalink: /cards/precious-gold-ring/
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
 > > <div class="card-corruption">〔 1 〕</div>
+
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Gold Ring Item](/original/rulings/crf-1/#gold-ring-item)<br>When a gold ring item is tested, the ring is discarded and the marshalling points are lost whether or not you are able to play a special item.

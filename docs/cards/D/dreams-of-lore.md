@@ -49,3 +49,5 @@ permalink: /cards/dreams-of-lore/
 > > {: .fs-3 } 
 > > _“...if sleep could be called...resting his mind in the strange paths of elvish dreams...”_ ***---&#65279;LotRII*** 
 > 
+
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Dreams of Lore](/original/rulings/crf-1/#dreams-of-lore)<br>Does not have to be stored to recieve the marshalling points.

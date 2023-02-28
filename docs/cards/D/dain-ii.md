@@ -65,3 +65,5 @@ permalink: /cards/dain-ii/
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 5/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+ - [CRF 1 (Oct 1996) - RULINGS BY TERM, Attack](/original/rulings/crf-1/#attack)<br>In order to cancel an attack or to directly affect an attack, the character doing so must be in the company facing the attack. Note that the region/site type a hazard creature is keyed to (when declared) can be affected otherwise.

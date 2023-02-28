@@ -31,6 +31,8 @@ permalink: /cards/minions-stir/
 > > _“...for in the gloom the Shadow Host seemed to grow stronger and more terrible to look upon."_ ***---&#65279;LotRV*** 
 >
 
+ - [CRF 1 (Oct 1996) - TURN SEQUENCE, Site Phase, On-Guard Cards](/original/rulings/crf-1/#on-guard-cards)<br>Some long- and permanent-events (like _Awaken Denizens_) can be revealed on-guard and effect multiple companies. These cards specify that they affect “each” or “all” sites of a certain type.
+
 ### _Middle-earth: The Wizards Unlimited_
 
 {: .hazard-unlimited .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

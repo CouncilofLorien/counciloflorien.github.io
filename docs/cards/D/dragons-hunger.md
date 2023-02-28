@@ -30,3 +30,5 @@ permalink: /cards/dragons-hunger/
 > > {: .fs-3 } 
 > > _“The ponies screamed with terror, burst their ropes, and galloped wildly off. The dragon swooped and turned to pursue them...”_ ***---&#65279;Hob*** 
 > 
+
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Dragon's Hunger](/original/rulings/crf-1/#dragons-hunger)<br>Errata: Replace “Otherwise, the attack is cancelled.” with “Otherwise, the attack is cancelled and the opponent must reveal his hand.” [effective 10/24/96]
