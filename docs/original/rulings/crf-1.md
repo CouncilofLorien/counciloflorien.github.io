@@ -1082,7 +1082,8 @@ Has errata: Add "This card may be played at any time during any player's turn."
 Can target a card that has not yet resolved.
 
 Can be played as a resource during your opponent's turn. If played this way it will not count toward the hazard limit.
--U-
+
+### -U-
 
 #### Use Palantir
 
