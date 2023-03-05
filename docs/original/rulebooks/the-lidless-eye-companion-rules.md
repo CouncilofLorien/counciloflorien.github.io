@@ -157,7 +157,7 @@ _A company is considered to be at the site given by their site card at all times
 
 #### Annotation 25a
 
-_A company's movement/hazard phase is concluded when a moving company removes its site of origin and both players agree to reconcile (discard down to/draw up to) their hand sizes. No resources (and obviously no hazards) can be played—and no resource effects can be activated—until the site phase or until both players have draw cards for the movement of a following company.
+_A company's movement/hazard phase is concluded when a moving company removes its site of origin and both players agree to reconcile (discard down to/draw up to) their hand sizes. No resources (and obviously no hazards) can be played—and no resource effects can be activated—until the site phase or until both players have draw cards for the movement of a following company._
 
 #### Annotation 25b
 
