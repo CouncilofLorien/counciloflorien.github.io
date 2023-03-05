@@ -161,7 +161,7 @@ _A company's movement/hazard phase is concluded when a moving company removes it
 
 #### Annotation 25b
 
-Players drawing cards when a new site is revealed is synonymous with the resolution of the new site being revealed. It happens immediately, not in the following chain of effects.
+_Players drawing cards when a new site is revealed is synonymous with the resolution of the new site being revealed. It happens immediately, not in the following chain of effects._
 
 #### Annotation 26
 
