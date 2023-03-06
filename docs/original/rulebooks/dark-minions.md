@@ -117,7 +117,7 @@ Certain hazard permanent-events cause a character to be taken prisoner—these a
  6. If a rescue site is not available within these rules, the hazard host cannot be played!
  7. When removed from the play surface, rescue sites always return to the location deck.
 
-When taken prisoner, a character cannot take any actions (including healing or untapping) and cannot be affected by any cards except for those that specifically affect characters taken prisoner. A character taken prisoner is not controlled (i.e., does not use any influence), and all of his followers revert to general influence (which must be legally reconciled during his player's next organization phase). Any items, allies, or events controlled by a character are discarded when the character is taken prisoner unless the hazard host states otherwise. As an exception, a ring born by an imprisoned character stays with the character.
+When taken prisoner, a character cannot take any actions (including healing or untapping) and cannot be affected by any cards except for those that specifically affect characters taken prisoner. A character taken prisoner is not controlled (i.e., does not use any influence), and all of his followers revert to general influence (which must be legally reconciled during his player's next organization phase). Any items, allies, or events controlled by a character are discarded when the character is taken prisoner unless the hazard host states otherwise. As an exception, a ring borne by an imprisoned character stays with the character.
 
 <hr id="page3">
 
