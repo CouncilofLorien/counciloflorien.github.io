@@ -222,7 +222,7 @@ _Location Deck_ — This deck consists of your site cards. You may examine and s
 _Play Deck_ — This deck consists of your resource cards, hazards cards, and character cards. You randomly draw cards from this deck during play. Your play deck starts with an equal number of resource cards and hazard cards.<br>&emsp;You can use resources at certain sites and under certain conditions. Resources include: items, factions, allies, events, etc. _You may only play resource cards during your own turn_. You use hazards to hinder and attack your opponent’s characters in order to prevent them from marshalling resources. _You may only play hazard cards during your opponent’s movement/hazard phase_.
 
 {: .note} 
-> **Clarification:** The card, _Twilight_, is an exception to this rule—it can be played at any time, either as a resource or as a hazard (it does not count against the hazard limit). Certain other cards specifically state when they may be played.
+> **Clarification:** The card, _Twilight_, is an exception to this rule—it can be played at anytime, either as a resource or as a hazard (it does not count against the hazard limit). Certain other cards specifically state when they may be played.
 
 _Discard Pile_ — Your discarded cards are placed face down in your discard pile. When your play deck is _exhausted_, location cards in your discard pile are returned to your location deck. You shuffle the other cards in your discard pile and they become your new play deck.
 
@@ -844,7 +844,7 @@ Most faction cards list some “standard modifications” to the influence check
 
 ## 10 • PLAYING AND DRAWING CARDS
 
-You may only play hazard cards during your opponent’s movement/hazard phase. Except for resource long-events, you may play resource cards any time during your own turn unless specifically prohibited by the rules or the cards themselves.
+You may only play hazard cards during your opponent’s movement/hazard phase. Except for resource long-events, you may play resource cards anytime during your own turn unless specifically prohibited by the rules or the cards themselves.
 
 Unless stated otherwise, a card is playable only if its effect applies to an existing situation, hazard, attack, etc. (i.e., you may not play a card just to discard it).
 
