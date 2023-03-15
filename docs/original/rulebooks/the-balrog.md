@@ -193,7 +193,7 @@ Each adjacent site is followed by a number in parentheses—this number indicate
 > **Example:** A Balrog company that starts at Carn Dum can move normally or it can move to The Irondeeps—The Iron-deeps lists Carn Dum as an adjacent site. Similarly, a minion company that starts at The Iron-deeps may attempt to move to any adjacent site listed: Carn Dum (0), The Under-leas (6), or The Under-vaults (7). However, after committing to movement, the moving player must roll a 6 or better to successfully move to The Under-leas or a 7 or better to successfully move to The Under-vaults.
 
 {: .note }
-> **Example:** A company is moving from The Undergrottos to Goblin-gate with _Long Winter_ in play. _Long Winter's_ effect of returning a company to the site of origin has no effect, since it depends on the company's site path, and the company has no site path. _Long Winter's_ effect of tapping a site will work, since that effect depends on the site's site path, which still exists. Finally, creatures can only be played keyed to the Shadow-hold of Goblin-gate.
+> **Example:** A company is moving from The Under-grottos to Goblin-gate with _Long Winter_ in play. _Long Winter's_ effect of returning a company to the site of origin has no effect, since it depends on the company's site path, and the company has no site path. _Long Winter's_ effect of tapping a site will work, since that effect depends on the site's site path, which still exists. Finally, creatures can only be played keyed to the Shadow-hold of Goblin-gate.
 
 ![](/assets/images/meba-under-deeps.gif)
 
