@@ -196,7 +196,7 @@ One of the types of items that your characters can bring into play are rings. Th
 **Gold Rings** — After your company faces the automatic-attack at such a site which specifies that a gold ring can be played, you just tap a character and the site to play a gold ring from your hand.
 
 {: .note }
-> **Clarification:** A gold ring is a ring with unknown properies—it might be a lesser ring, a magic ring, a Dwarven ring, or even _The One Ring_. You will not know until you "test" it. There are 3 kinds of gold rings: _Beautiful Gold Rings_, _Fair Gold Rings_, and _Precious Gold Rings_. Each has a different probability of being a specific type of special ring.
+> **Clarification:** A gold ring is a ring with unknown properties—it might be a lesser ring, a magic ring, a Dwarven ring, or even _The One Ring_. You will not know until you "test" it. There are 3 kinds of gold rings: _Beautiful Gold Rings_, _Fair Gold Rings_, and _Precious Gold Rings_. Each has a different probability of being a specific type of special ring.
 
 **Testing a Ring** — Once you have a gold ring, you can "test" it to determine what kind of special ring it is. When you test a gold ring, you make a roll and add any appliciable modification (due to the test card use and other cards). The gold ring card will indicate what special rings may be played based on the modified roll.
 
