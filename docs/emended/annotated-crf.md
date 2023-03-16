@@ -136,12 +136,11 @@ If you have any further questions concerning _MECCG_, you can either:
      - 1st Revision: [CRF 1 (24 OCT 1996) - Beginning of the Game](/original/rulings/crf-1/#beginning-of-the-game)<br>Either draw numbers for the whole game or roll dice for the whole game. Note that players must roll dice in Council of Lórien sanctioned tournaments.
      - 2nd Revision: [CRF 6 (10 JUL 1997) - Beginning of the Game](/original/rulings/crf-6/#a-begining-of-the-game)<br>Either draw numbers for the whole game or roll dice for the whole game.
  -  Your starting company can only contain 20 points of unmodified mind.
-     - Status: 
-     - Rule clarified: 
-     - Rationale:
-     - Original Entry: 
-     - 1st Revision: 
-     - Original Question & Answer: 
+     - Status: Redundant, Tournament only
+     - Rule clarified: [The Wizards (Unlimited), Starter Rules, 3 • GETTING READY TO PLAY](/original/rulebooks/the-wizards-unlimited/#3--getting-ready-to-play), [The Lidless Eye, Starter Rules, 3 • GETTING READY TO PLAY](/original/rulebooks/the-lidless-eye/#3--getting-ready-to-play), [Council of Lórien Tournament Policy, Character Draft](/original/tournament/policy-3/)
+     - Rationale: Under the original (non-character draft) rules, the one to six starting characters placed face-down must have 20 mind or less. Any starting events to be revealed with the starting company are also face-down and do not yet affect the mind of the starting character's placed face-down. The Character Draft rules for tournaments do not change this. The Character Draft allows the players to reveal their _choices_ for starting characters and is used to _determine_ the starting company. Starting Events are not _played_ during the Character Draft, which occurs in Step 3 of Getting Ready to Play. Events played in lieu of minor items are played at Step 4 of Getting Ready to Play when minor items are assigned. Starting stage cards played at the start of the game, after Getting Ready to Play.
+     - Original Entry: [CRF 11 (20 MAR 1998) - Beginning of the Game](/original/rulings/crf-11/#beginning-of-the-game)<br>Your starting company can only contain 20 points of unmodified mind.
+     - Original Question & Answer: [\[MECCG\] Rules Digest 52 (5 MAR 1998)](https://groups.google.com/g/rec.games.trading-cards.misc/c/6eG3oHHDCu8/m/eh-VGChASS4J) ([Web Archive](https://web.archive.org/web/20230316005926/https://groups.google.com/g/rec.games.trading-cards.misc/c/6eG3oHHDCu8/m/eh-VGChASS4J))<br>Q: I thought I saw some mention of this recently, but I couldn't find it when I looked back. Does *Thrall of the Voice* and/or *Opens to Summons* reduce the target character's mind by one for purposes of the 20 mind AT START maximum? I know that the mind rings DO NOT do this.<br>A: No. Your starting company can only have 20 points of unmodified mind.
  -  Non-character cards duplicated in the character draft may not be placed into the play deck.
      - Status: 
      - Rule clarified: 
