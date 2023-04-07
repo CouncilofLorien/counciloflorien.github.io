@@ -43,7 +43,9 @@ and your armies to launch the first blow necessary to crush the Free Peoples. Si
 
 In _The Lord of the Rings_, the Witch-king of Angmar was the first Ringwraith to succeed. Sauron dispatched him and his armies to destroy Gondor. However, due to a subtle twist of fate, he fell on the brink of victory, not against a "man" of great power, but against a woman (Eowyn) and a single Hobbit (Merry).
  
-"Dangerous forces" in _Middle-earth: The Lidless Eye_ are represented by _hazards_ that the players use against one another. For example, if you move a character into the Lonely Mountain, your opponent could play a Dragon card as a hazard. These hazards are not "controlled" by the Ringwraiths, but rather they represent the dangerous forces that are abroad in Middle-earth, threatening everyone, good and evil characters alike. All Ringwraiths are working to bring Sauron to full power, so conflict takes the form of hazards and direct attempts to "persuade" or "dominate" each other and each other's characters and forces, rather than the form of direct conflict.
+"Dangerous forces" in _Middle-earth: The Lidless Eye_ are represented by _hazards_ that the players use against one another. For example, if you move a character into the Lonely Mountain, your opponent could play a Dragon card as a hazard. These hazards are not "controlled" by the Ringwraiths, but rather they represent the dangerous forces that are abroad in Middle-earth, threatening everyone, good and evil characters alike. All Ringwraiths are working to bring Sauron to full power, so conflict takes the form of hazards and direct attempts to "persuade" or "dominate" each other and each other's characters and forces, rather than the form of direct conflict.<span class="page-number">3</span>
+
+<hr id="page4">
  
 ## USING THIS RULESBOOK
  
@@ -60,7 +62,9 @@ _The Standard Rules_ — These rules assume you have already played several game
 
 _The Optional Rules_ — Interesting variations to the standard rules. Before play begins, both players must agree on which optional rules are to be used.
 
-_Using MELE with METW_ — These guidelines explain how play proceeds when one player is a Ringwraith and one player is a Wizard. This section also describes how to integrate cards (usually hazards) from _METW_ (and vice versa) even if both players are Ringwraiths (or Wizards).
+_Using MELE with METW_ — These guidelines explain how play proceeds when one player is a Ringwraith and one player is a Wizard. This section also describes how to integrate cards (usually hazards) from _METW_ (and vice versa) even if both players are Ringwraiths (or Wizards).<span class="page-number">4</span>
+
+<hr id="page5">
 
 _The Appendices_ — This section contains a Full Player Turn Summary, a glossary, a color insert with card keys and a Middle-earth map (see the center of this book), and conventions of tournament play. These conventions of tournament play are also widely adopted for casual play.
  
@@ -83,7 +87,9 @@ _Movement/Hazard Phase_ — You may move each of your companies to its new site,
 
 _Site Phase_ — You may have each of your companies enter its current site to attempt to play an item, ally, faction, etc.
 
-_End-of-Turn Phase_ — Your turn ends.
+_End-of-Turn Phase_ — Your turn ends.<span class="page-number">5</span>
+
+<hr id="page6">
  
 {: .note }
 > **Note:** For purposes of readability, these rules use the standard masculine pronouns when referring to a person of uncertain gender. In such cases, these pronouns are intended to convey the meanings: she/he, him/her, etc.
@@ -111,7 +117,10 @@ The game ends when one of the following occurs during play:
  2. If you move _The One Ring_ to Barad-dur—Sauron is reunited with _The One Ring_ and you win. (See page 44 for more on Rings).
  3. Otherwise, the winner is decided at the _Audience with Sauron_.<br>This audience is called when one of the following occurs:
  - When each play deck has been exhausted once, the audience starts at the end of the current turn.
- - If your play deck has been exhausted _and_ you play a _Sudden Call_ card as a **resource** during one of your turns, the audience starts following your opponent's next turn (i.e., your opponent gets one last turn).
+ - If your play deck has been exhausted _and_ you play a _Sudden Call_ card as a **resource** during one of your turns, the audience starts following your opponent's next turn (i.e., your opponent gets one last turn).<span class="page-number">6</span>
+
+<hr id="page7">
+
  - If you have at least 20 marshalling points _and_ you play a _Sudden Call_ card as a **resource** during one of your turns, the audience starts following your opponent's next turn (i.e., your opponent gets one last turn).
 
 {: .note }
@@ -143,6 +152,9 @@ Marshalling  points are printed on the top left corner of the cards that award t
 > **Note:** You may find it useful to use pencil and paper or extra dice to keep a running total of marshalling points.
 > 
 > **Clarification:** If both players have the same number of marshalling points at the Audience with Sauron, the game ends in a tie.
+<span class="page-number">7</span>
+
+<hr id="page8">
 
 {: .note }
 > **Example:** Our two players are Wendy and Nick. Wendy has 20 marshalling points and Nick only had 18. During her turn, Wendy plays a _Sudden Call_ card—Sauron calls the audience. Each player has one company in Carn Dum (CP = Corruption Points. MP = Marshalling Points):
@@ -182,6 +194,10 @@ Marshalling  points are printed on the top left corner of the cards that award t
 > 
 > In this example, any character with 4 or more corruption points (the Troll-chief and Tarcil) could fail his corruption check (see pages 35-38 for a detailed explanation and example of corruption checks). If the Troll-chief fails his corruption check, Wendy loses 6 of her MPs. If Tarcil fails his corruption check, Nick loses 7 of his MPs.
 
+<span class="page-number">8</span>
+
+<hr id="page9">
+
 ## 2 • THE CARDS AND DECKS
 
 There are four types of cards: site cards, character cards (including Ringwraith cards), resource cards, hazard cards.
@@ -209,17 +225,24 @@ There are four types of cards: site cards, character cards (including Ringwraith
 > 
 > A fixed set is included in each starter deck to make a starter deck playable without any other cards.
 
-{: .text-center }
-![](/assets/images/cardsanddecks.svg)
-
 During play, your cards are organized into 2 decks and 3 piles:
 
 _Location Deck_ — This deck consists of your site cards. You may examine and select cards from your location deck as required by play (i.e., do not randomly draw them). After being played, your non-Haven site cards are sometimes discarded and placed in the discard pile (i.e., when one of your companies leaves a tapped site, it is discarded).
 
 {: .note }
 > **Note:** Site cards and regions represent the geography of Middle-earth. They are used to control the acquisition of resources. Each turn, examine the resources in your hand and select a nearby site to travel to. Do not worry too much about which site to use, just pick one that has the resource type you want to play. It also helps if you preselect the location cards you are most likely to use. See the color insert for a map of Middle-earth.
+<span class="page-number">9</span>
+
+<hr id="page10">
 
 _Play Deck_ — This deck consists of your resource cards, hazards cards, and character cards. You randomly draw cards from this deck during play. Your play deck starts with an equal number of resource cards and hazard cards.<br>&emsp;You can use resources at certain sites and under certain conditions. Resources include: items, factions, allies, events, etc. _You may only play resource cards during your own turn_. You use hazards to hinder and attack your opponent’s characters in order to prevent them from marshalling resources. _You may only play hazard cards during your opponent’s movement/hazard phase_.
+
+{: .text-center }
+![](/assets/images/cardsanddecks.svg)
+
+<span class="page-number">10</span>
+
+<hr id="page11">
 
 {: .note} 
 > **Clarification:** The card, _Twilight_, is an exception to this rule—it can be played at anytime, either as a resource or as a hazard (it does not count against the hazard limit). Certain other cards specifically state when they may be played.
@@ -239,7 +262,11 @@ _Marshalling Point Pile_ (_MP pile_) — In addition to marshalling points from 
 >  **Note:** Because hazard cards are distinct from resource cards, you may not play your hazards on your side of the playing surface. _At the end of a game, it will be obvious whose cards are whose, i.e., hazards in your area must belong to your opponent_. We suggest adopting a neutral zone between each player’s side of the playing surface. Non-targeted long-events and permanent-events can be played in this neutral zone.
 > 
 > **Note:** You may freely examine the contents of your discard pile; your opponent may not. The contents of your out-of-play and marshalling point piles may be freely examined by you and your opponent.
-> 
+
+<span class="page-number">11</span>
+
+<hr id="page12">
+
 > **Clarification:** If a character is eliminated due to combat or due to failing a corruption check, his card is placed in the out-of-play pile—that character may not be brought back into play by either player.<br>&emsp;When a card is removed from play in all other cases, the card is discarded unless the card specifically states otherwise.
 > 
 > **Clarification:** In general, cards in your out-of-play pile and your marshalling point pile are considered to be actively in play for the purposes of being unique (if the card states it is unique).
@@ -252,7 +279,9 @@ Keywords do not necessarily carry any rules (though some do like _Unique_ and _C
 
 ### CARD COMBINATIONS
 
-Often combinations of several cards and other actions are required to achieve a desired result. For example, to bring _The One Ring_ into play requires: traveling to a site to play one of the Gold Ring cards, some sort of “Test” card or ability, _The One Ring_ card, and a high dice roll. In addition, the _Scroll of Isildur_ card will improve the chances of successfully getting _The One Ring_ into play.
+Often combinations of several cards and other actions are required to achieve a desired result. For example, to bring _The One Ring_ into play requires: traveling to a site to play one of the Gold Ring cards, some sort of “Test” card or ability, _The One Ring_ card, and a high dice roll. In addition, the _Scroll of Isildur_ card will improve the chances of successfully getting _The One Ring_ into play.<span class="page-number">12</span>
+
+<hr id="page13">
 
 ### TAPPING AND CARD POSITIONS
 
