@@ -2356,7 +2356,8 @@ Follow this procedure for each of your companies. Each company has a separate mo
 
 <hr id="page93">
 
-to the number of cards indicated by the site that it is _moving to_ (at least one card must be drawn); your opponent does the same. If the company is moving to a Darkhaven site, you _may_ draw up to the number of cards indicated by the site that it is _moving from_ (at least one card must be drawn); your opponent does the same.
+<ul style="list-style-type:none">
+ <li>to the number of cards indicated by the site that it is <em>moving to</em> (at least one card must be drawn); your opponent does the same. If the company is moving to a Darkhaven site, you <em>may</em> draw up to the number of cards indicated by the site that it is <em>moving from</em> (at least one card must be drawn); your opponent does the same.</li>
 
 {:style="counter-reset:step-counter 2"}
  3. Your opponent plays hazards on the company—each hazard is resolved as indicated in its text. Creatures are played and their combat is resolved one at a time. A hazard may not be played if it targets a different company or a character, item, etc. in a different company.<br>If the company is not moving, hazard creatures may only be keyed to the company’s site of origin. Hazard creatures must be “keyed to” the moving company’s site path and/or new site. If a creature is keyed to more than one region type and/or site type that applies, your opponent decides which one is used.<br>The maximum number of hazards that may be played on a company during a given movement/hazard phase (i.e., the hazard limit) is equal to the size of the company _or_ two, whichever is larger (Orc scouts count half, round up). The hazard limit is determined for each company at the beginning of the movement/hazard phase (i.e., it remains fixed).
