@@ -2356,7 +2356,7 @@ Follow this procedure for each of your companies. Each company has a separate mo
 
 <hr id="page93">
 
-{: .ml-2 }
+{: .ml-6 }
 to the number of cards indicated by the site that it is <em>moving to</em> (at least one card must be drawn); your opponent does the same. If the company is moving to a Darkhaven site, you <em>may</em> draw up to the number of cards indicated by the site that it is <em>moving from</em> (at least one card must be drawn); your opponent does the same.
 
 {:style="counter-reset:step-counter 2"}
