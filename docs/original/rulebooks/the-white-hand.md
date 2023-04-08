@@ -40,6 +40,8 @@ Each Fallen-wizards is driven by a different obsession reflected in his abilitie
 
 The fallen **Pallando** (Master of Doom) is the master of peoples and fate. He rules and dominates peoples. He is obsessed with building his own empire and defeating Sauron by force of arms.
 
+<hr id="page1-2">
+
 The fallen **Alatar** (Lord of the Hunt) is the master of animate nature&mdash;he is a hunter. He likes to do things personally. He is more likely to dominate individuals rather than peoples. He is obsessed with defeating Sauron by turning Middle-earth into a well-ordered game-preserve.
 
 The fallen **Gandalf** (the Careworn) is the friend of peoples, fate, and Middle-earth. He manipulates peoples and their rulers rather than dominate them&mdash;he is not an empire builder. He has lost hope of defeating Sauron. He just wants to delay the Dark Lord's final victory as long as possible, and to save as many of the Free Peoples as possible.
@@ -55,7 +57,9 @@ The fallen **Saruman** (of Many Colours) is the master of inanimate nature. He g
 
 When you play a Fallen-wizard, assume that your Fallen-wizard is an _METW_ "Wizard." **All of the normal _METW_ rules apply except for the specific exceptions outlined in these rules.** The _MELE_ rules that concern Wizards also apply to Fallen-wizards.
 
-You should read the following section to get a general idea of how to play a Fallen-wizard. Then read the rest of the rules for more specific details.
+You should read the following section to get a general idea of how to play a Fallen-wizard. Then read the rest of the rules for more specific details.<span class="page-number">1</span>
+
+<hr id="page2-1">
 
 **Wizards** &mdash; When the rules and cards refer to a Wizard, they apply to your Fallen-wizard.
 
@@ -74,6 +78,8 @@ You should read the following section to get a general idea of how to play a Fal
 
 **Hero/Minion Resources** &mdash; You may use both hero and minion resources. However, you may only include up to a total of two of each non-unique hero or minion resource in your play deck and sideboard.
 
+<hr id="page2-2">
+
 **Sites** &mdash; There are four Fallen-wizard site cards: Isengard, The White Towers, Rhosgobel, and Deep Mines. These site cards have a light gray background. Unless stated otherwise on a card, a Fallen-wizard player may use these sites instead of the hero/minion versions.<br>Most Fallen-wizard companies use hero site cards when moving to non-Fallen-wizard sites (see the Movement section for exceptions).
 
 **Marshalling Points** &mdash; Marshalling points for stage resource cards are handled normally (i.e., as printed on the card). However, all other marshalling point cards are only worth 1 marshalling point each to a Fallen-wizard (regardless of their printed value).<br>These MPs can **not** be modified by a hero or minion resource event (e.g., _Rumor of the One_, _Tribute Garnered_, _Sentinels of Numenor_, etc.). However, Fallen-wizard abilities and stage resource cards **can** modify the number of marshalling points certain cards give.
@@ -84,7 +90,9 @@ As a Fallen-wizard you may win in the same way a _METW_ Wizard wins: your oppone
 
  - In order to win by recovering _The One Ring_ at least one _A New Ringlord_ card must be played and the conditions outlined on that card must be met.
  - The Free Council is handled normally, and victory is determined in the standard way by comparing marshalling points. However, to you (a Fallen- wizard) it is called your **Day of Reckoning** and your marshalling points reflect how far you have progressed towards completing your own personal agenda.
- - You do not receive marshalling points for cards stored at non-Wizardhaven sites.
+ - You do not receive marshalling points for cards stored at non-Wizardhaven sites.<span class="page-number">2</span>
+
+<hr id="page3-1">
 
 ## GETTING READY TO PLAY
 
@@ -111,6 +119,9 @@ The resource half of your play deck (and your sideboard) may include hero, minio
  - Two of each non-unique hero resource card
  - Two of each non-unique minion resource card
  - You may not include stage resource cards that are "specific" to another Fallen-wizard (e.g., if you declare that you are Alatar, you may not include "Gandalf specific." cards).
+
+<hr id="page3-2">
+
  - You may not include any of the following cards:
  
 | The Balrog | Messenger of Mordor |
@@ -132,7 +143,9 @@ Your starting characters (up to 5) may include hero characters and minion charac
 
 #### Starting Site
 
-Your starting company may begin play at The White Towers **or** at any Ruins & Lairs site in Rhudaur or Arthedain. If you start at a Ruins & Lairs site, one of your starting stage resource cards may be a _Hidden Haven_ played on your starting site.
+Your starting company may begin play at The White Towers **or** at any Ruins & Lairs site in Rhudaur or Arthedain. If you start at a Ruins & Lairs site, one of your starting stage resource cards may be a _Hidden Haven_ played on your starting site.<span class="page-number">3</span>
+
+<hr id="page4-1">
 
 ## THE PLAYER TURN
 
@@ -157,6 +170,8 @@ All of your non-Orc and non-Troll characters are considered to be hero character
 Fallen-wizard companies **must** use region movement. When one of your Fallen-wizard companies moves to a site, you and your opponent draw cards based upon the site being moved to. This applies even if moving to one of your Wizardhavens.
 
 The _METW_ Havens (i.e., Grey Havens, Rivendell, Lorien, Edhellond) and _MELE_ Darkhavens (i.e., Minas Morgul, Dol Guldur, Carn Dum, and Geann a-Lisch) are **not** considered to be havens for a Fallen-wizard player.
+
+<hr id="page4-2">
 
 The following exceptions for using sites can be modified by the play of certain hazards and stage resources.
 
@@ -183,6 +198,10 @@ Whenever a Fallen-wizard player tests a hero gold ring item, the roll is modifie
 
 {: .note }
 > **Note:** The restrictions below do _not_ apply to Spells and Magic.
+
+<br><span class="page-number">4</span>
+
+<hr id="page5-1">
 
 #### Targeting Site and Resource Cards
 
@@ -211,6 +230,8 @@ If your Fallen-wizard leaves play, discard all of your stage resource permanent-
 
 When moving an Agent hazard, a Fallen-wizard player must use hero site cards. If the minion version of a site card is in play or in your discard pile, your agents may not use or reveal the hero version of that site.
 
+<hr id="page5-2">
+
 ## Special Orc & Troll Rules
 
 A company with any Orc or Troll characters is an overt company. In addition, a company with any of the following allies is an overt company: Great Bats, Great Lord of Goblin-gate, Last Child of Ungoliant, Regiment of Black Crows, Two-Headed Troll. Any other company is a hero company.
@@ -223,7 +244,10 @@ A company with any Orc or Troll characters is an overt company. In addition, a c
  - Overt companies are **not** minion companies for the purposes of the detainment attack guidelines in the _MELE_ rules (p. 31). Overt companies are minion companies for hazards that can only attack/effect minion companies (e.g., _Sons of Kings_).
  - Corruption checks for an Orc or Troll character are handled as if he were a minion character. That is, if the roll for a corruption check for an Orc or Troll character is equal to his corruption point total or one less, he is tapped instead of being discarded. He is not considered to fail the corruption check in this case.
  - You may _not_ play a hero resource permanent-event on a company with an Orc or Troll in it.
- - A hero resource may not target an Orc or Troll character (e.g., Orc and Troll characters may not use _Block_, _Escape_, etc.).
+ - A hero resource may not target an Orc or Troll character (e.g., Orc and Troll characters may not use _Block_, _Escape_, etc.).<span class="page-number">5</span>
+
+<hr id="page6-1">
+
  - A hero resource that requires a character with a specific skill may not use an Orc or Troll character to fulfill that requirement (e.g., _Concealment_, _Many Turns and Doublings_, etc.).
  - An Orc or Troll character may not tap to initiate an effect from a hero resource (e.g., _Praise to Elbereth_, _Great Ship_, etc.).
  - An Orc or Troll character may be the bearer of a hero item, but all bonuses and special abilities are ignored (all restrictions to movement and playability still apply).
@@ -246,6 +270,9 @@ If the roll for a corruption check for your Wizard is equal to his corruption po
  - Take one playable stage resource permanent event card giving 3 or fewer stage points from your sideboard. Play the card.
  - Normal play resumes with all of the Fallen-wizard rules applying to you.
 
+<hr id="page6-2">
+
+
 ## Tournament Rules
 
 #### Starting Stage Cards
@@ -262,6 +289,6 @@ The sideboard size is increased to:
 
 #### Revealing Your Wizard
 
-In the general opponent format, you must reveal the identity of your Fallen-wizard before the game begins.
+In the general opponent format, you must reveal the identity of your Fallen-wizard before the game begins.<span class="page-number">6</span>
 
 ---
