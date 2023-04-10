@@ -17,18 +17,12 @@ CONTENTS
 
 ## INTRODUCTION
 
-The _Middle-earth: Collectible Card Game_ (_MECCG_) was first published by Iron Crown Enterprises (ICE) in December of 1995. Various sets and expansions were released until ICE lost their license to produce _Lord of the Rings_ games in September of 1999. _MECCG_ provides an experience of exploring Middle-earth in a way that has yet to be replicated by later games. Unfortunately, its rules are antiquated and often create a sense of confusion and complexity even where the guidelines are conceptually simple. And yet, it is this style of rules that allows for such creativity in gameplay. 
-
-Beyond the initial learning curve, the difficulty in figuring out the proper game mechanics comes in finding all of the relevant rules and rulings across various documents, identifying outdated rules and rulings, recognizing changes over time, careful consideration of the words used, and strict adherence to ICE's own ruling principles. To facilite such endeavors, this website provides a complete set of searchable _MECCG_ cards with all printings, clarifications, errata, and additional commentary, a complete set of original rules and publications, and a catalog of rulings over time, all backed by official publications for reference and comparison.
+The _Middle-earth: Collectible Card Game_ (_MECCG_) was first published by Iron Crown Enterprises (ICE) in December of 1995. Various sets and expansions were released until ICE lost their license to produce _Lord of the Rings_ games in September of 1999.
 
  - **Cards:** A list of the cards and text in their various published forms along with notes on changes and commentary on play.
  - **Original Rules:** The rulesbooks and rule inserts included with the set and expansion of _MECCG_ along with additional rules and annotations published in the _Companion_ books. 
  - **Official Rulings:** The errata and clarifications to the rules and cards were provided in Frequently Asked Questions (FAQ) files,  Collected Rulings Files (CRF), and in  various _Companion_ and _Player Guide_ books.  
  - **Tournament Rules:** Regulations for sanctioned tournament under the Council of Lórien, the  sanctioning body of official _MECCG_ tournament play in the United States and Canada under Iron Crown Enterprises. 
-
-### Search Limitations
-
-The search only includes the cards, the original rules, the last collection of rulings (CRF 15), and the last Council of Lórien tournament policy (number 3). Other pages are excluded.
 
 ## The Council of Lórien
 
