@@ -269,6 +269,7 @@ _Marshalling Point Pile_ (_MP pile_) — In addition to marshalling points from 
 
 <hr id="page12">
 
+{: .note }
 > **Clarification:** If a character is eliminated due to combat or due to failing a corruption check, his card is placed in the out-of-play pile—that character may not be brought back into play by either player.<br>&emsp;When a card is removed from play in all other cases, the card is discarded unless the card specifically states otherwise.
 > 
 > **Clarification:** In general, cards in your out-of-play pile and your marshalling point pile are considered to be actively in play for the purposes of being unique (if the card states it is unique).
