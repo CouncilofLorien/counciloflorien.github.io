@@ -2237,7 +2237,7 @@ The following list provides a definition of the most common game terms. In many 
 **Chain of Effects:** A series of actions declared in response to one another before any of them resolve. Actions in a chain of effects are resolved in the reverse order from which they were declared (last in, first out).    
 **Character:** A card representing an entity that is or directly serves a Ringwraith or Wizard.  
 **Combat:** The resolution of an attack. This involves strikes being assigned and strike sequences being performed. Combat specifically encompasses the time from the resolution of an attack action until the first strike sequence is completed. During combat, no attack may be actively declared.  
-**Company:** A coordinated group of characters as designed by their player.  
+**Company:** A coordinated group of characters as designated by their player.  
 **Company Size:** The number of characters in the company with Orc scouts counting half (rounded up).  
 **Condition, Active:** A prerequisite for an action actively made by a player. Typically this involves tapping a character, discarding an item, or having a character of a particular skill in play. Active conditions are declared and resolved with no time for response by an opponent or yourself.  
 **Condition, Passive:** An action that causes another action to take effect. The triggered action will be the first declared action in the chain of effects immediately following the chain of effects that contained the passive condition.  
