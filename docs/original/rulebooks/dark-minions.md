@@ -278,7 +278,7 @@ remains face-up and in play.
 
 To influence an ally, follower, or character, the agent must be at the new site for the target _or_ at the target's current site if the company did not move. To influence a faction, the agent must be at the site at which the faction is playable.
 
-To attempt to influence in this manner, your agenl must make an influence check as outlined in section 9 of the Standard Rules. However, the following exceptions apply:
+To attempt to influence in this manner, your agent must make an influence check as outlined in section 9 of the Standard Rules. However, the following exceptions apply:
 
  - Your agent's unused direct influence and any other modifications are used (i.e., the agent is doing the influencing, not a character).
  - If your agent is _at his home site_ his direct influence is modified by +2.
