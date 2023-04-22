@@ -383,6 +383,7 @@ One company can split into two or more companies only at a Darkhaven (use two Da
 
 <hr id="page17">
 
+{: .note } 
 > **Note:** Sometimes two or more companies combine and the resulting company has two or more of the same cards that say: "cannot be duplicated on a given company." When this happens, immediately discard all but one of those cards (your choice). 
 >
 > **Clarification:** During your organization phase, one Darkhaven card may be used to represent the location of two or more companies, so long as the distinction between companies is clearly presented spatially. However, we suggest the use of multiple Darkhaven cards for clarity.
