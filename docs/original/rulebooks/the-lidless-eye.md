@@ -1475,7 +1475,7 @@ There are three other limitations on the types of characters that can be in a co
 These limitations also apply to moving companies.
 
 {: .note }
-> **Note:** If two companies end up at a non-Darkhaven site and combining those companies would violate the limitations on company composition, one of the companies that just moved must return to its site of origin. Similarly. an effect that causes such a violation is cancelled (e.g., _We Have Come to Kill_)
+> **Note:** If two companies end up at a non-Darkhaven site and combining those companies would violate the limitations on company composition, one of the companies that just moved must return to its site of origin. Similarly. an effect that causes such a violation is cancelled (e.g., _We Have Come to Kill_).
 
 #### Discarding Characters
 
@@ -1484,7 +1484,7 @@ Instead of bringing a new character into play during your organization phase, yo
 You must take this action when you are forced to discard a character due to a lack of available influence. In this case, the character(s) need not be at a Darkhaven.
 
 {: .note }
-> **Clarification:** If a character's mind changes at any point, the influence required to control him also changes
+> **Clarification:** If a character's mind changes at any point, the influence required to control him also changes.
 >
 > **Clarification:** If you do not have enough influence to control all of your character in play, they remain in play. However, you must discard any excess characters at the end of your next organization phase. If you bring a character into play during your organization phase and then do not have enough influence to control him, the character just brought into play must be returned to your hand at the end of your organization phase.
 
