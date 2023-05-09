@@ -568,6 +568,7 @@ If the company’s site of origin is a Darkhaven, the new site card must meet on
 {: .text-center }
 ![](/assets/images/mele-starter-movement.svg)
 
+{: .note }
 > **Clarification:** To summarize the movement process:
 > - Except for a moving company during its movement/hazard phase, each company is always at a specific site, called its _current site_.
 > - A company wanting to move to a _new site_ plays a new site card face down beside its current site card by the end of its organization phase. A company can only move: from a non-darkhaven site to its “Nearest Haven,” from a Darkhaven site to one of its “adjacent Darkhavens,” or from a Darkhaven site to a non-Darkhaven site that lists that Darkhaven as its “Nearest Darkhaven.”
