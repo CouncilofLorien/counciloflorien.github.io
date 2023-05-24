@@ -100,7 +100,7 @@ Your starting company and play deck (and your sideboard) may be constructed like
  - Agents only count as hazards, not as characters.
  - A Balrog player may not include any of the following cards:
 
-| Above the Abyss<br>Bade to Rule<br>The Balrog (Ally)<br>Balrog of Moria<br>The Black Council<br>Black Horse<br>Black Rider<br>By the Ringwraith 's Word<br>Creature of Another World<br>Fell Rider<br>The Fiery Blade<br>Helm of Fear<br>Heralded Lord<br>Durin 's Bane | Kill All But NOT the Halflings <br>The Lidless Eye<br>Morgul-blade<br>News of the Shire<br>Open to the Summons<br>Orders From Lugburz<br>Padding Feet<br>The Ring Leaves its Mark<br>Ringwraith cards<br>Ringwraith Unleashed cards<br>Sauron<br>They Ride Together<br>Use Your Legs<br>While the Yellow Face Sleeps |
+| Above the Abyss<br>Bade to Rule<br>The Balrog (Ally)<br>Balrog of Moria<br>The Black Council<br>Black Horse<br>Black Rider<br>By the Ringwraith 's Word<br>Creature of Another World<br>Fell Rider<br>The Fiery Blade<br>Helm of Fear<br>Heralded Lord<br>Durin's Bane | Kill All But NOT the Halflings <br>The Lidless Eye<br>Morgul-blade<br>News of the Shire<br>Open to the Summons<br>Orders From Lugburz<br>Padding Feet<br>The Ring Leaves its Mark<br>Ringwraith cards<br>Ringwraith Unleashed cards<br>Sauron<br>They Ride Together<br>Use Your Legs<br>While the Yellow Face Sleeps |
 
 #### Starting Site 
 
