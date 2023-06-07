@@ -17,7 +17,7 @@ permalink: /original/rulebooks/the-white-hand/
 # Middle-earth: The White Hand
 
 {: .text-center}
-**_Not for the Free Peoples, not for the Dark Lord&mdash;For Youurself!!!_**
+**_Not for the Free Peoples, not for the Dark Lord&mdash;For Yourself!!!_**
 
 {: .text-center .text-gamma .mt-6 }
 CONTENTS
