@@ -205,7 +205,7 @@ Whenever a Fallen-wizard player tests a hero gold ring item, the roll is modifie
 
 #### Targeting Site and Resource Cards
 
-A hero resource card may not target/affect a minion site card or a minion resoure card.
+A hero resource card may not target/affect a minion site card or a minion resource card.
 
 A minion resource card may not target/affect a hero site card or a hero resource card.
 
