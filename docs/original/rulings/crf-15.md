@@ -772,7 +772,7 @@ Tournament rulings are modifications and additions to the rules presented in the
 #### Victory Conditions
  - Eliminating a Wizard or Ringwraith does not end the game.
  - An eliminated Wizard or Ringwraith is placed in the out-of-play pile, and gives -5 MP to the final total. That player may not reveal another Wizard or Ringwraith. This includes Wizards who fail corruption checks. \[effective 1/1/98]
- - The -5 MPs apply immediately, and affect your MPs for calling the end fo the game.
+ - The -5 MPs apply immediately, and affect your MPs for calling the end of the game.
  - If your Fallen-wizard dies, you may not play cards specific to that Fallen-wizard, and you do not count as that Fallen-wizard for card effects such as _Gatherer of Loyalties_.
 
 #### The Weakest Link Method
