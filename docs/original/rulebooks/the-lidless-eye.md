@@ -101,8 +101,10 @@ _End-of-Turn Phase_ — Your turn ends.<span class="page-number">5</span>
 
 To get a general idea of how to play, read the Starter Rules sections that are not boxed. Later you can refer to the boxed sections for more information on special situations.
 
-{: .note .bullets }
-> **Note:** These rules apply to a Ringwraith player playing a Ringwraith player. See Part IV (page 73) for guidelines for handling a game between a Ringwraith and a Wizard.
+{: .bullets }
+>
+> {: .note }
+> > **Note:** These rules apply to a Ringwraith player playing a Ringwraith player. See Part IV (page 73) for guidelines for handling a game between a Ringwraith and a Wizard.
 
 {: .note }
 > **Note:** In _MELE_ you will draw multiple cards each turn, and in some cases you will have to discard a number of cards each turn. Don't let this worry you, it's part of the flow of play. Just keep cards that are immediately useful during the next turn **or** that are crucial to your overall strategy.
