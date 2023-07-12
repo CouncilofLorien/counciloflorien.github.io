@@ -163,6 +163,8 @@ callouts:
     color: grey-md
   note-dk:
     color: grey-dk
+  bullets:
+    color: grey-md
   clarification:
     title: Clarification
     color: grey-md
