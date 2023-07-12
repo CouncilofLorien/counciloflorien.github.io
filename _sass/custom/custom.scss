@@ -207,6 +207,10 @@ $stage-resource-text-100: #f2edde;
 $stage-resource-text-200: #f2edde;
 $stage-resource-text-300: #f2edde;
 
+.bullets {
+    border-left: dotted;
+  }
+
 .card-name {
   font-weight: 500;
   font-family: "Palatino Linotype", "Palatino";
@@ -412,6 +416,10 @@ hr {
 .scroll {
   list-style: none;
 }
+
+.note {
+    page-break-inside: avoid;
+  }
 
 // Print-only styles.
 @media print {
