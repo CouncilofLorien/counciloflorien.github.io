@@ -209,6 +209,9 @@ $stage-resource-text-300: #f2edde;
 
 .note {
     padding: 0.2rem !important;
+    border-top: 2px solid !important;
+    border-bottom: 2px solid !important;
+    border-right: 2px solid !important;
   }
 
 .bullets {
@@ -216,7 +219,7 @@ $stage-resource-text-300: #f2edde;
     border-radius: 0px !important;
     background: #fff !important;
     box-shadow: none !important;
-    padding: 0rem 0rem 0rem 0.4rem !important;
+    padding: 0rem 0rem 0rem 0.2rem !important;
   }
 
 .card-name {
