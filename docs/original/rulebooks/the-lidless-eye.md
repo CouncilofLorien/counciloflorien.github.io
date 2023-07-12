@@ -121,6 +121,7 @@ Two six-sided dice (2D6) should be used to generate random values during play. T
 
 {: .bullets }
 The game ends when one of the following occurs during play:
+{: .bullets }
  1. If your Ringwraith is "eliminated" (i.e., fails a body check)—your opponent wins.
  2. If you move _The One Ring_ to Barad-dur—Sauron is reunited with _The One Ring_ and you win. (See page 44 for more on Rings).
  3. Otherwise, the winner is decided at the _Audience with Sauron_.<br>This audience is called when one of the following occurs:
@@ -129,6 +130,7 @@ The game ends when one of the following occurs during play:
 
 <hr id="page7">
 
+{: .bullets }
  - If you have at least 20 marshalling points _and_ you play a _Sudden Call_ card as a **resource** during one of your turns, the audience starts following your opponent's next turn (i.e., your opponent gets one last turn).
 
 {: .note .bullets }
@@ -211,27 +213,33 @@ Marshalling  points are printed on the top left corner of the cards that award t
 
 <hr id="page9">
 
+{: .bullets }
 ## 2 • THE CARDS AND DECKS
 
+{: .bullets }
 There are four types of cards: site cards, character cards (including Ringwraith cards), resource cards, hazard cards.
 
+{: .bullets }
+>
+> {: .note }
+> > **Note:** Color diagrams of the various types of cards can be found in the color insert. The card types can be distinguished as follows:
+> > 
+> > _Site cards_ have a grey parchment background on the front.
+> > 
+> > _Character cards_ (non-Ringwraith) have a rusted-purplish iron background on the front. Each Ringwraith card has a blood-red stone background. 
+> > 
+> > _Resource cards_ have a grey-blue steel background on the front.
+> > 
+> > _Hazard cards_ have a steel grey metal background on the front.
+> > 
+> > _Site cards_ (i.e., location cards) have a map of Middle-earth on the back.
+> > 
+> > _Character_, _resource_, and _hazard cards_ have the burning eye on the back.
+> > 
+> > **Note:** _MELE_ doesn't include region cards. If you have _METW_ region cards, you can use region movement as outlined on page 78.
+> >
+
 {: .note }
-> **Note:** Color diagrams of the various types of cards can be found in the color insert. The card types can be distinguished as follows:
-> 
-> _Site cards_ have a grey parchment background on the front.
-> 
-> _Character cards_ (non-Ringwraith) have a rusted-purplish iron background on the front. Each Ringwraith card has a blood-red stone background. 
-> 
-> _Resource cards_ have a grey-blue steel background on the front.
-> 
-> _Hazard cards_ have a steel grey metal background on the front.
-> 
-> _Site cards_ (i.e., location cards) have a map of Middle-earth on the back.
-> 
-> _Character_, _resource_, and _hazard cards_ have the burning eye on the back.
-> 
-> **Note:** _MELE_ doesn't include region cards. If you have _METW_ region cards, you can use region movement as outlined on page 78.
-> 
 > **Clarification:** For emphasis, a value used during play is often provided both in a card’s text and in another place on the same card. For example, a character’s corruption check modification is stated both in the text and the lower right corner of the character’s card.
 > 
 > **Note:** Each starter deck has a small pack of cards called a fixed set. There are 5 fixed sets in all. One appears randomly in each starter deck. The top facing card of all fixed sets is a Ringwraith and is different for each fixed set and can be seen through the window of the starter deck box.
@@ -268,11 +276,15 @@ _Discard Pile_ — Your discarded cards are placed face down in your discard pil
 
 _Out-of-play Pile_ — Your cards that are removed from active play after being used and that do not award marshalling points are placed in your out-of-play pile. 
 
+{: .bullets }
 _Marshalling Point Pile_ (_MP pile_) — In addition to marshalling points from active cards in play, you gain marshalling points when certain cards become inactive. When you store certain resource cards (e.g., items, information cards, etc.), they are placed in your MP pile. When you defeat all of the strikes from a creature that has its MPs marked with an "\*" in the upper-left corner of its card, the creature’s card is placed in your MP pile.
 
-{: .note }
-> **Note:** When you defeat all of the strikes from a creature that does _not_ have an "\*" next to its MP value in the upper-left corner of its card, the creature's card is **not** placed in your MP pile, it is placed in your opponent's out-of-play pile. Unlike _METW_, you do not get MPs for defeating certain creatures—after all, many creatures are fighting the Free People too.
+{: .bullets }
 >
+> {: .note }
+> > **Note:** When you defeat all of the strikes from a creature that does _not_ have an "\*" next to its MP value in the upper-left corner of its card, the creature's card is **not** placed in your MP pile, it is placed in your opponent's out-of-play pile. Unlike _METW_, you do not get MPs for defeating certain creatures—after all, many creatures are fighting the Free People too.
+
+{: .note }
 >  **Note:** Because hazard cards are distinct from resource cards, you may not play your hazards on your side of the playing surface. _At the end of a game, it will be obvious whose cards are whose, i.e., hazards in your area must belong to your opponent_. We suggest adopting a neutral zone between each player’s side of the playing surface. Non-targeted long-events and permanent-events can be played in this neutral zone.
 > 
 > **Note:** You may freely examine the contents of your discard pile; your opponent may not. The contents of your out-of-play and marshalling point piles may be freely examined by you and your opponent.
@@ -314,6 +326,7 @@ When one of your characters is wounded, his card is placed with its top towards 
 If a card states that it is “unique” or that it “may not be duplicated,” only one such card (or its effects) may be in play at a time. The first card played takes precedence (influence checks may change this). This restriction applies to all cards in play, i.e., both yours and your
 opponent’s.
 
+{: .bullets }
 Only one of each “unique” card may be included in your play deck and starting cards combined. As an exception, two of the same Ringwraith may be included in your play deck (to give you a better chance of drawing one early).
 
 {: .note }
@@ -327,8 +340,11 @@ Only one of each “unique” card may be included in your play deck and startin
 
 Follow these steps to get ready to play:
 
+{: .bullets }
  1. Place your site cards in your location deck. This deck should contain all of your Darkhaven cards (i.e., Minas Morgul, Dol Guldur, Carn Dum, and Geann a-Lisch). You may include any number of Darkhaven cards, but only one of each non-Darkhaven site card.
  2. Place between 25 and 50 Resource cards **and** an equal number of Hazard cards in your play deck (if you have fewer than 25 of either available, just use all of the cards you have). Only one of each “unique” card may be included. No more than three copies of any one non-unique card may be included.
+
+{: .bullets }
  3. Place one to six starting characters (no Ringwraiths, no minion agents from _Dark Minions_) face down in front of you. The combined mind attributes (see [page 18]()) of these characters must be 20 or less. You and your opponent reveal your characters simultaneously, placing any duplicated characters into your play decks. Then organize your starting characters into followers and companies and place them at Minas Morgul (i.e., place a Minas Morgul site card next to them).
  4. You _may_ assign up to two non-unique minor items to your starting characters (i.e., 2 items total, **not** 2 to each character). These items must come from cards that you have not committed to your play deck.
  5. Place up to 10 non-Ringwraith character cards in your play deck. Only one of each character card may be included. In addition, place up to two Ringwraith cards in your play deck (you may place two copies of the same Ringwraith). Shuffle your play deck.
