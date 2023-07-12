@@ -53,10 +53,10 @@ These rules are organized into five sections: the Starter Rules, the Standard Ru
 
 The "Using _MELE_ with _METW_" section contains the essential rules for integrating _METW_ cards with _MELE_. The Full Player Turn Summary provided on [pages 92-94]() is a great reference for getting started
 
-{: .bullets }
->
+<bullets>
 {: .note }
 > **Note:** The rules for _MELE_ are very similar to the rules for _Middle-earth: The Wizards_. Passages with major rule differences are marked with a line of bullets as a sidebar (just as this paragraph is marked[^bullets]). Experienced players of _METW_ can examine these passages and proceed with playing.
+</bullets>
 
 _The Starter Rules_ — The Starter Rules contain all of the guidelines you need to play _MELE_. They have been designed to simplify teaching the game and to speed up play. You should use the Starter Rules if you and your opponent have never played this game before.<br>&emsp; If you are already an experienced player of collectible card games, you might initially read the Full Player Turn Summary on [pages 92-94]() **and** the sections that are not boxed. Then, as you play, you can refer to the other material that details the more complex rules and situations that may arise during play.
 
@@ -68,8 +68,10 @@ _Using MELE with METW_ — These guidelines explain how play proceeds when one p
 
 <hr id="page5">
 
+<bullets>
 _The Appendices_ — This section contains a Full Player Turn Summary, a glossary, a color insert with card keys and a Middle-earth map (see the center of this book), and conventions of tournament play. These conventions of tournament play are also widely adopted for casual play.
- 
+</bullets>
+
 {: .note }
 > **Note:** _MELE_ is a collectible card game—each player usually has a large number of _MELE_ cards available, but only a limited number are used in any one game. Before each game, a player must choose the cards he will use for that game. This process is referred to as "deck construction." Often deck construction is just as important (if not more important) than actual play.
  
