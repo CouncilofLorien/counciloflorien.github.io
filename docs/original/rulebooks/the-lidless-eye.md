@@ -53,6 +53,8 @@ These rules are organized into five sections: the Starter Rules, the Standard Ru
 
 The "Using _MELE_ with _METW_" section contains the essential rules for integrating _METW_ cards with _MELE_. The Full Player Turn Summary provided on [pages 92-94]() is a great reference for getting started
 
+{: .bullets }
+>
 {: .note }
 > **Note:** The rules for _MELE_ are very similar to the rules for _Middle-earth: The Wizards_. Passages with major rule differences are marked with a line of bullets as a sidebar (just as this paragraph is marked[^bullets]). Experienced players of _METW_ can examine these passages and proceed with playing.
 
