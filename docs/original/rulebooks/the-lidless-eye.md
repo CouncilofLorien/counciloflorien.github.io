@@ -357,12 +357,12 @@ Follow these steps to get ready to play:
 {: .bullets }
 >
 > {:style="counter-reset:step-counter 2" }
-> >  3. Place one to six starting characters (no Ringwraiths, no minion agents from _Dark Minions_) face down in front of you. The combined mind attributes (see [page 18]()) of these characters must be 20 or less. You and your opponent reveal your characters simultaneously, placing any duplicated characters into your play decks. Then organize your starting characters into followers and companies and place them at Minas Morgul (i.e., place a Minas Morgul site card next to them).
+> 3. Place one to six starting characters (no Ringwraiths, no minion agents from _Dark Minions_) face down in front of you. The combined mind attributes (see [page 18]()) of these characters must be 20 or less. You and your opponent reveal your characters simultaneously, placing any duplicated characters into your play decks. Then organize your starting characters into followers and companies and place them at Minas Morgul (i.e., place a Minas Morgul site card next to them).
 
 {: .blank }
 >
 > {:style="counter-reset:step-counter 3" }
-> >  4. You _may_ assign up to two non-unique minor items to your starting characters (i.e., 2 items total, **not** 2 to each character). These items must come from cards that you have not committed to your play deck.
+> 4. You _may_ assign up to two non-unique minor items to your starting characters (i.e., 2 items total, **not** 2 to each character). These items must come from cards that you have not committed to your play deck.
 
 {: .blank }
 >
@@ -372,12 +372,12 @@ Follow these steps to get ready to play:
 {: .blank }
 >
 > {:style="counter-reset:step-counter 5" }
-> > 6. Draw a hand of eight cards from your play deck.
+>  6. Draw a hand of eight cards from your play deck.
 
 {: .blank }
 >
 > {:style="counter-reset:step-counter 6" }
-> > 7. Each player makes a roll, and the player with the highest result goes first (reroll if tied).
+>  7. Each player makes a roll, and the player with the highest result goes first (reroll if tied).
  
 {: .note } 
 > **Clarification:** None of your starting characters may be considered to be followers for the purposes of determining their combined mind attributes. That is, these characters have to have combined mind attributes of 20 or less. 
