@@ -1762,45 +1762,60 @@ An _untapped_ character that is not the target of a strike may tap to _support_ 
 
 <hr id="page62">
 
+{: .bullets }
 ### CANCELING AN AUTOMATIC-ATTACK
 
+{: .bullets }
 A character at one of his home sites may tap to cancel one automatic-attack at that home site. This does not apply if a character's home site is not a specific site (e.g., an Orc with an "Any Dark~hold" home site may not cancel an attack in this fashion).
 
+{: .bullets }
 ### MARSHALLING POINTS
 
+{: .bullets }
 You only receive kill marshalling points for defeating a creature  with an \* next to its marshalling points. You may use the creature's card as a trophy card (see below) **or** you may place the card in your marshalling point pile.
 
-{: .note }
-> **Note:** A Wizard player does not receive marshalling points for defeating such a creature with an \* next to its marshalling points.
+{: .bullets }
+>
+> {: .note }
+> > **Note:** A Wizard player does not receive marshalling points for defeating such a creature with an \* next to its marshalling points.
 
+{: .bullets }
 If you defeat a creature that does not have an * next to its marshalling points, you may use the creature's card as a trophy card (see below) **or** you may place the card in your out-of-play pile. You do **not** receive marshalling points for defeating it.
 
 {: .note }
 > **Note:** You do not receive marshalling points if the creature you defeat is one of your own cards.
 
+{: .bullets }
 ### TROPHIES
 
+{: .bullets }
 If one of your minion companies defeats a creature, you may place the creature's card under the control of any Orc or Troll character that faced a strike from the creature's attack. This card is called a "_trophy_" and is treated as a minor item with zero corruption points. A trophy may not be transferred or stored. If a trophy that is _not_ worth kill marshalling points to you is discarded, it is placed in your out-of-play pile. If a trophy that is worth kill marshalling points to you is discarded, it is placed in your marshalling point pile.
 
+{: .bullets }
 Trophies give a character bonuses based upon the total number of marshalling points indicated by the trophies (i.e., on the creature cards). One and only one of the following sets of bonuses applies to a character with trophies:
 
+{: .bullets }
  - If a character's trophies have 1 marshalling point, the character receives + 1 to direct influence.
 
 <br><span class="page-number">62</span>
 
 <hr id="page63">
 
+{: .bullets }
  - If a character's trophies have 2 marshalling points, the character receives +1 to direct influence and +1 to prowess (to a maximum of 9)
  - If a character's trophies have 3 marshalling points, the character receives +2 to direct influence and +l to prowess (to a maximum of 9).
  - If a character's trophies have 4 or more marshalling points, the character receives +2 to direct influence and +2 to prowess (to a maximum of 9).
 
-{: .note }
-> **Note:** You may not use one of your own cards as a trophy.
+{: .bullets }
+>
+> {: .note }
+> > **Note:** You may not use one of your own cards as a trophy.
 
 ## 8 • CORRUPTION
 
 Before the roll is made for a corruption check, you may tap other characters in the same company as the character making the check. The corruption check is modified by +1 for each such character tapped.
 
+{: .bullets }
 A corruption check for any character in a Ringwraith's company is modified by +2.
 
 {: .note }
@@ -1977,6 +1992,7 @@ Creature hazards may not be played in response to other actions. They must alway
 
 Each of these optional rules may be used if all players agree before the game begins. Refer to the appendices ([page 86]()) for conventions of tournament play—these are widely used for casual play.
 
+{: .bullets }
 **Company vs. Company Combat** — When one player is a Ringwraith and his opponent is a Wizard (see Part IV), combat can occur between companies (see [page 80]()). After such a combat, if your opponent's company has only wounded characters you may attempt to "steal an item." To steal an item, you must tap a character in your company that was involved in the combat. Then, you can force your opponent to discard an item of your choice in his company that was involved in the combat. Finally, if you have a manifestation of the discarded item in your hand, you may play it with the character you just tapped.<span class="page-number">70</span>
 
 <hr id="page71">
@@ -2017,6 +2033,7 @@ _Middle-earth: The Wizards Companion_ provides some expanded, variant solitaire 
 
 <hr id="page73">
 
+{: .bullets }
 # • PART IV •<br/>USING MELE WITH METW
 
 When one player is a Ringwraith and his opponent is a Wizard, play proceeds normally for each player within the limitations outlined in this section.
