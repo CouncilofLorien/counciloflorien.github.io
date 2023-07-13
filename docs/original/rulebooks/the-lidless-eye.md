@@ -347,12 +347,13 @@ Only one of each “unique” card may be included in your play deck and startin
 Follow these steps to get ready to play:
 
 {: .bullets }
->
 >  1. Place your site cards in your location deck. This deck should contain all of your Darkhaven cards (i.e., Minas Morgul, Dol Guldur, Carn Dum, and Geann a-Lisch). You may include any number of Darkhaven cards, but only one of each non-Darkhaven site card.
 
+{: .blank }
 >  2. Place between 25 and 50 Resource cards **and** an equal number of Hazard cards in your play deck (if you have fewer than 25 of either available, just use all of the cards you have). Only one of each “unique” card may be included. No more than three copies of any one non-unique card may be included.
 {:style="counter-reset:step-counter 1"}
 
+{: .blank }
 >  3. Place one to six starting characters (no Ringwraiths, no minion agents from _Dark Minions_) face down in front of you. The combined mind attributes (see [page 18]()) of these characters must be 20 or less. You and your opponent reveal your characters simultaneously, placing any duplicated characters into your play decks. Then organize your starting characters into followers and companies and place them at Minas Morgul (i.e., place a Minas Morgul site card next to them).
 {:style="counter-reset:step-counter 2" .bullets }
 
@@ -360,12 +361,15 @@ Follow these steps to get ready to play:
 >  4. You _may_ assign up to two non-unique minor items to your starting characters (i.e., 2 items total, **not** 2 to each character). These items must come from cards that you have not committed to your play deck.
 {:style="counter-reset:step-counter 3" }
 
+{: .blank }
 >  5. Place up to 10 non-Ringwraith character cards in your play deck. Only one of each character card may be included. In addition, place up to two Ringwraith cards in your play deck (you may place two copies of the same Ringwraith). Shuffle your play deck.
 {:style="counter-reset:step-counter 4"}
 
+{: .blank }
 >  6. Draw a hand of eight cards from your play deck.
 {:style="counter-reset:step-counter 5"}
 
+{: .blank }
 >  7. Each player makes a roll, and the player with the highest result goes first (reroll if tied).
 {:style="counter-reset:step-counter 6"}
  
@@ -800,6 +804,7 @@ There are a number of standard modifications to the prowess of each target chara
 
 Strikes are resolved one at a time as decided by the defending player. When you choose a strike to resolve, determine all of the factors affecting the strike before the roll is made (see “The Strike Sequence” on [page 33]()). To resolve a strike, the defender makes a roll (2D6) and adds his modified prowess:
 
+{: .blank }
 > - If this result is greater than the strike’s prowess, the strike _fails_. Such a strike is defeated if its body attribute is “–” **or** if it has a body attribute and fails a body check.
 > - If this result is equal to the strike’s prowess, the strike was _ineffectual_ (i.e., the strike is avoided but not defeated).
 
@@ -813,7 +818,7 @@ If a strike against a character is successful and the attack was _not_ a detainm
 {: .bullets }
 > - The text on certain characters' cards states: "Discard on a body check result of # or #." In this case, you must discard the character if the modified body check roll is equal to either of these numbers.
 
-
+{: .blank }
 > - Otherwise, if the modified body check roll is greater than the character's body attribute, the character is eliminated.
 > - Otherwise, nothing further happens (i.e., the character is just wounded).
 
@@ -837,23 +842,30 @@ As presented above, a strike that fails is defeated if its body attribute is “
 {: .note } 
 > **Example:** _Landroval_ has a prowess of 12 and a body of 6. He normally has two strikes when he attacks. If one of his strikes against a character fails, the defender makes a body check. If the resulting roll is greater than 6, that strike is defeated. However, both of _Landroval's_ strikes must be defeated in order for him to be eliminated—this would require at least two body check rolls greater than 6.
 
+{: .bullets }
 #### "Detainment" Attacks
 
+{: .bullets }
 Certain attacks detain targets rather than wound them. When a strike from a detainment attack is successful, an untapped target is tapped instead of being wounded. This represents the target being stopped and questioned. The following types of attacks are detainment attacks:
 
- - Card text will sometimes state that an attack is a detainment attack.
- - Any Nazgul attack against a minion company is a detainment attack.
- - Any attack keyed to Dark-domain, Shadow-hold, or Dark-hold is a detainment attack.
- - Any Orc, Troll, Undead, or Man attack keyed to Shadow-land is a detainment attack.
- 
+{: .bullets }
+> - Card text will sometimes state that an attack is a detainment attack.
+> - Any Nazgul attack against a minion company is a detainment attack.
+> - Any attack keyed to Dark-domain, Shadow-hold, or Dark-hold is a detainment attack.
+> - Any Orc, Troll, Undead, or Man attack keyed to Shadow-land is a detainment attack.
+
+ {: .bullets }
 The parameters above apply if the attack is keyed to the region symbol or site symbol (by type) **or** if keyed to a region or site by name which happens to be of the appropriate type (i.e. has the appropriate symbol).<span class="page-number">31</span>
 
 <hr id="page32">
 
+{: .bullets }
 ### DEFEATING AN ATTACK
 
+{: .bullets }
 An attack by a hazard creature is defeated if it is _not_ a detainment attack **and** all of its strikes directed against (i.e., assigned to) a company are defeated. 
 
+{: .bullets }
 If even one of the strikes was canceled or ineffectual, the attack is **not** defeated. If the attack is canceled, the attack is **not** defeated. A canceled attack has no effect on the defending company (though the company is considered in its history to have faced it). A detainment attack from a creature is never defeated and the creature's card is always discarded after the attack is resolved. 
 
 If a hazard creature has multiple attacks, each **must** be defeated in order for the creature to be defeated.
@@ -869,16 +881,21 @@ If a hazard creature has multiple attacks, each **must** be defeated in order fo
 > 
 > Against the next attack, Lagduf rolls a 3. His total of 7 (= 3 + 4) is less than the strike's prowess of 11. Therefore the strike is successful. Lagduf is immediately wounded and must make a body check. His opponent rolls the dice for the body check. If he rolls a 9 or more, Lagduf will be eliminated and removed from play. Lagduf's opponent actually rolls an 8 and Lagduf is not eliminated. However, Lagduf is discarded because his card states that he is discarded on a body check result of 8. 
 
+{: .bullets }
 #### Marshalling Points
 
+{: .bullets }
 You receive creature marshalling points for defeating a creature with an * next to its marshalling points. Place the card in your marshalling point pile.<span class="page-number">32</span>
 
 <hr id="page33">
 
+{: .bullets }
 If you defeat a creature that does _not_ have an * next to its marshalling points, place the card in your out-of-play pile. You do **not** not receive marshalling points for eliminating it.
 
-{: .note }
-> **Note:** A Wizard player does not receive marshalling points for defeating a creature with an * next to its marshalling points.
+{: .bullets }
+>
+> {: .note }
+> > **Note:** A Wizard player does not receive marshalling points for defeating a creature with an * next to its marshalling points.
 
 ### THE STRIKE SEQUENCE
 
@@ -923,21 +940,27 @@ All of the factors affecting the strike must be decided during the strike sequen
 
 ## 8 • CORRUPTION
 
+{: .bullets }
 As Sauron's minions (i.e., your characters) operate in Middle-earth, they are subject to temptations. A character runs the risk of becoming totally corrupted and fleeing Sauron's "service" to pursue his own nefarious schemes (i.e., a corrupted character leaves play).
 
 Each character has a corruption point total. This starts at zero, but certain cards and activities will change this total during play. Most cards that affect a character’s corruption are kept under the character’s card until they are discarded. Only one corruption card (a hazard card that gives corruption points) may be played on a given character each turn.
 
-{: .note }
-> **Note:** Minion characters are not completely subjected to Sauron will. If they were, they would be of little use—independent, but loyal servants can accomplish much more than slaves. So, minion characters can be corrupted by having their own individual desires and temptations conflict with the goals of their masters. A corrupted minion character has decided that it is in his own best interest to make himself scarce and head for parts unknown. Ringwraiths can not be corrupted—they already suffered the ultimate corruption when they became Ringwraiths.
+{: .bullets }
+>
+> {: .note }
+> > **Note:** Minion characters are not completely subjected to Sauron will. If they were, they would be of little use—independent, but loyal servants can accomplish much more than slaves. So, minion characters can be corrupted by having their own individual desires and temptations conflict with the goals of their masters. A corrupted minion character has decided that it is in his own best interest to make himself scarce and head for parts unknown. Ringwraiths can not be corrupted—they already suffered the ultimate corruption when they became Ringwraiths.
 
 ### CORRUPTION CARDS
 
 For these purposes, a “corruption card” is a _hazard card_ that gives a character corruption points. A corruption card's text includes the word "_Corruption._" in italics. Cards that force a corruption check but do not give corruption points (e.g., _Weariness of the Heart_) are not “corruption cards.” A corruption card is limited as follows. 
 
- - A character may have more than one corruption card, but only one may be played on him each turn.
- - Certain corruption cards state: "Cannot be duplicated on a given character." So, a given character may only have one of each such corruption card.
- - Corruption cards that may not be played on Dwarves may also not be played on Orcs.
- - Corruption cards may not be played on Ringwraiths.
+{: .blank }
+> - A character may have more than one corruption card, but only one may be played on him each turn.
+> - Certain corruption cards state: "Cannot be duplicated on a given character." So, a given character may only have one of each such corruption card.
+
+{: .bullets }
+> - Corruption cards that may not be played on Dwarves may also not be played on Orcs.
+> - Corruption cards may not be played on Ringwraiths.
 
 ### CORRUPTION POINTS
 
@@ -951,14 +974,18 @@ When a card or other effect indicates that one of your characters must make a co
 
 **Nothing Happens** — If the modified result is greater than the character’s corruption point total, nothing happens. 
 
+{: .bullets }
 **The Character Taps** — If the modified result is equal to the character’s corruption point total **or** one less than the character’s corruption point total, the character is very tempted but does _not_ fail the corruption check. If the character is untapped, tap the character.
 
 **The Character is Eliminated** — If the modified result is less than character’s corruption point total by two or more, the character _fails_ the corruption check and is eliminated (i.e., remove him from play) and you must discard any non-follower cards he controls.
 
+{: .bullets }
 Ringwraiths never make corruption checks.
 
-{: .note }
-> **Clarification:** A character eliminated due to a corruption check is removed from active play. He may not be played again by either you or by your opponent. In this case, the character is permanently lost to Sauron.
+{: .bullets }
+>
+> {: .note }
+>  **Clarification:** A character eliminated due to a corruption check is removed from active play. He may not be played again by either you or by your opponent. In this case, the character is permanently lost to Sauron.
 
 ### CORRUPTION CHECK MODIFIERS
 
@@ -975,10 +1002,13 @@ Certain characters receive modifiers to corruption checks, and certain cards may
 
 <hr id="page37">
 
+{: .bullets }
 ### REMOVING CORRUPTION CARDS
 
+{: .bullets }
 A character may choose to ignore the restriction that he tap to remove a corruption card (as printed on a corruption card), and suffer a -3 penalty to the dice roll to remove it. This means a character can remain untapped and still attempt to remove a corruption card (the roll is modified by -3), or that he can attempt to remove a corruption card even if he is already tapped or wounded (the roll is modified by -3).
 
+{: .bullets }
 Each turn. a character may only make one removal attempt for each corruption card if he uses the -3 modifier.
 
 {: .note }
@@ -1028,14 +1058,19 @@ In order to play a faction card, you must tap one of your characters that is at 
 applicable _standard modifications_ from the faction card and from any other cards played). All influence check modifier cards must be played before making the roll (2D6).
 
 If the modified result is greater than the value required on the faction card, you place the faction in your marshalling point pile (it now counts towards your marshalling point total). Otherwise, you discard the faction card. Once a faction is brought into play, it is not controlled by any specific character and it does not count against general or direct influence.
- 
+
+{: .bullets }
 ### STANDARD MODIFICATIONS
 
+{: .bullets }
 Most faction cards list some “standard modifications” to the influence check based only upon what other factions are already in play for both players. 
 
+{: .bullets }
+>
+> {: .note }
+> > **Note:** Some standard modifications are given for factions not included in _MELE_. Later products will include these factions.
+
 {: .note }
-> **Note:** Some standard modifications are given for factions not included in _MELE_. Later products will include these factions.
-> 
 > **Clarification:** Certain characters have special modifications to influence checks. Such a modification only applies if it belongs to the character that was tapped to make the influence check.
 
 {: .note }
@@ -1062,8 +1097,11 @@ Unless stated otherwise, a card is playable only if its effect applies to an exi
 
 {: .note }
 > **Clarification:** An automatic-attack at a company’s new site may be targeted by a hazard during the company’s movement/hazard phase. Such a hazard may be played even if the attack will not be faced (i.e., if the company decides not to face the automatic-attack during the site phase).
-> 
-> **Note:** _MELE_ resources are different from _METW_ resources. _MELE_ resources are referred to as "minion resources" and _METW_ resources are referred to as "hero resources." See [page 74]() for more information.
+
+{: .bullets }
+>
+> {: .note }
+> > **Note:** _MELE_ resources are different from _METW_ resources. _MELE_ resources are referred to as "minion resources" and _METW_ resources are referred to as "hero resources." See [page 74]() for more information.
  
 During your movement/hazard phase, both players draw cards when each company moves. If a company moves to a non-Darkhaven site, you _may_ draw up to the number of cards indicated by the site that it _moved to_ (at least one card must be drawn); your opponent does the same. If the company moves to a Darkhaven site, you _may_ draw up to the number of cards indicated by the site that you _moved from_ (at least one card must be drawn); your opponent does the same.
 
@@ -1113,9 +1151,12 @@ Normally, when a character leaves play, all cards controlled or on him are disca
 
 If one of your characters is at the site specified on a faction card, he may tap to attempt an influence check in order to play the faction card. If the character successfully influences the faction as indicated on the faction’s card (see [pages 38-39]()), the faction card is placed in your play area. After a faction is successfully played at a site, the site card is tapped.
 
+{: .bullets }
+>
+> {: .note }
+> > **Clarification:** If an attack from a Dragon faction is defeated, remove the Dragon from play. No player receives its marshalling points.
+
 {: .note }
-> **Clarification:** If an attack from a Dragon faction is defeated, remove the Dragon from play. No player receives its marshalling points.
-> 
 > **Clarification:** Once a faction is brought into play, it is not associated with any character or company. A faction plays no active role after it is brought into play. 
  
 #### Allies
@@ -1152,37 +1193,50 @@ If a resource card that taps a site (e.g., ally, faction, item, etc.) is success
 
 <hr id="page44">
 
+{: .bullets }
 #### Rings
 
+{: .bullets }
 One of the types of items that your characters can bring into play are rings. There are 7 types of rings: mind rings, gold rings, lesser rings, magic rings, Dwarven rings, spirit rings, and _The One Ring_.
 
 **Gold Rings** — After your company faces the automatic-attack at such a site which specifies that a gold ring can be played, you just tap a character and the site to play a gold ring from your hand.
 
-{: .note }
-> **Clarification:** A gold ring is a ring with unknown properties—it might be a lesser ring, a magic ring, a Dwarven ring, or even _The One Ring_. You will not know until you "test" it. There are 6 different gold rings in _MELE_: _A Little Gold Ring_, _The Least of Gold Rings_, _Gold Ring that Sauron Fancies_, _Bright Gold Ring_, _Gleaming Gold Ring_, and _Perfect Gold Ring_. Each has a different probability of being a specific type of special ring.
+{: .bullets }
+>
+> {: .note }
+> > **Clarification:** A gold ring is a ring with unknown properties—it might be a lesser ring, a magic ring, a Dwarven ring, or even _The One Ring_. You will not know until you "test" it. There are 6 different gold rings in _MELE_: _A Little Gold Ring_, _The Least of Gold Rings_, _Gold Ring that Sauron Fancies_, _Bright Gold Ring_, _Gleaming Gold Ring_, and _Perfect Gold Ring_. Each has a different probability of being a specific type of special ring.
 
 **Testing a Gold Ring** — Once you have a gold ring, you can "test" it to determine what kind of special ring it is. When you test a gold ring, you make a roll and add any applicable modification (due to the test card used and other cards). The gold ring card will indicate what special rings may be played based upon the modified roll.<br>If the roll indicates a special ring that you have in your hand, you may replace the gold ring with that ring and discard the gold ring. Otherwise, you just discard the gold ring (i.e., it was not that special). If the roll indicates more than one special ring in your hand, you choose which to play.<br>There are five ways to test a gold ring:
- - If you have a sage character in the same company as the gold ring, you can play a _Test of Fire_ card.
- - If you have a sage character in the same company as the gold ring and the company is at a site where "Information" is playable, you can play a _Secret of Their Forging_ card (you do not have to roll, you can just play any special item ring except _The One Ring_).
- - Any gold ring in the Ringwraith's own company at the start of the end-of-turn phase is automatically tested. Any ring test in a Ringwraith's own company has a modification of -2.
- - Any gold ring in one of your companies at Barad-dur at the start of the end-of-turn phase is automatically tested. Any ring test at Barad-dur has a -3 modification.<span class="page-number">44</span>
+
+{: .bullets }
+>
+> - If you have a sage character in the same company as the gold ring, you can play a _Test of Fire_ card.
+> - If you have a sage character in the same company as the gold ring and the company is at a site where "Information" is playable, you can play a _Secret of Their Forging_ card (you do not have to roll, you can just play any special item ring except _The One Ring_).
+> - Any gold ring in the Ringwraith's own company at the start of the end-of-turn phase is automatically tested. Any ring test in a Ringwraith's own company has a modification of -2.
+> - Any gold ring in one of your companies at Barad-dur at the start of the end-of-turn phase is automatically tested. Any ring test at Barad-dur has a -3 modification.<span class="page-number">44</span>
 
 <hr id="page45">
 
- - If you store a gold ring, it is automatically tested with a modification of -2
+{: .bullets }
+>
+> - If you store a gold ring, it is automatically tested with a modification of -2
 
-{: .note }
-> **Note:** Due to the -2 and -3 modifications, the last three ring test methods given above have little chance of resulting in _The One Ring_. This reflects the influence of "fate" on Sauron's efforts to find _The One Ring_.
+{: .bullets }
+>
+> {: .note }
+> > **Note:** Due to the -2 and -3 modifications, the last three ring test methods given above have little chance of resulting in _The One Ring_. This reflects the influence of "fate" on Sauron's efforts to find _The One Ring_.
 
 {: .note }
 > **Example:** You have Tarcil and Pon Opar (a sage) in the same company. Tarcil has _A little Gold Ring_. In your hand, you have a _Test of Fire_ card and three ring cards: _Trifling Ring_ (a lesser ring), _Magic Ring of Lies_, and _Dwarven Ring of Durin's Tribe_.
 > 
 > Because Pon Opar is a sage in the same company as a gold ring, you play your _Test of Fire_ on Tarcil's gold ring at any time during your turn. You roll a 5 for the test, so you may play either your _Trifling Ring_ (any result) or your _Magic Ring of Lies_ (6 or less) with Tarcil. In either case, the gold ring is discarded. If you had rolled a 9 or higher, you would have had the choice of playing your _Dwarven Ring of Durin's Tribe_ or your _Trifling Ring_.
 
-{: .note }
-> **Note:** A Ringwraith may carry a ring but may not use it (i.e., all items have no effect on a Ringwraith's company or on his attributes and abilities).
-> 
-> **Clarification:** Mind rings are minor items and are played as such. They are **not** special items.
+{: .bullets }
+>
+> {: .note }
+> > **Note:** A Ringwraith may carry a ring but may not use it (i.e., all items have no effect on a Ringwraith's company or on his attributes and abilities).
+> > 
+> > **Clarification:** Mind rings are minor items and are played as such. They are **not** special items.
 
 ### THE HAZARD LIMIT
 
@@ -1199,6 +1253,7 @@ A hazard limit can be modified by the play of certain cards. Tapping a Nazgul pe
 
 ### HAZARD CARDS, NON-EVENT
 
+{: .bullets }
 Hazard cards represent evil forces and natural dangers in Middle-earth. Even though your Ringwraith and his minions are serving Sauron, the evil forces in the world will often attack you on purpose or by mistake—that's the nature of evil.
 
 You may play hazard cards only during your opponent’s movement/hazard phase. Detainment attacks are described on [page 31]().
@@ -1255,9 +1310,12 @@ A stored item is placed in your _marshalling point pile_ and counts for marshall
 
 Some items and resource cards state that they can be stored when at a specific site (e.g., the _Seize Prisoners_ card can be stored at a Darkhaven)—other cards may not be stored. Such an item or resource card is still placed in the marshalling point pile and cannot be brought back into play.
 
+{: .bullets }
+>
+> {: .note }
+> > **Note:** If you store a gold ring, it is automatically tested (see [page 44]()).
+
 {: .note }
-> **Note:** If you store a gold ring, it is automatically tested (see [page 44]()).
-> 
 > **Clarification:** A character bearing a certain type of card cannot untap until the card is stored (as stated in the card's text). After storing such a card, the character does not untap until the untap phase of his player’s next turn. 
 > 
 > **Clarification:** Unless stated otherwise on the card, the marshalling points for a card that can be stored apply regardless of whether or not the card is stored.
