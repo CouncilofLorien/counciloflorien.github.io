@@ -137,8 +137,10 @@ The game ends when one of the following occurs during play:
 {: .bullets }
  - If you have at least 20 marshalling points _and_ you play a _Sudden Call_ card as a **resource** during one of your turns, the audience starts following your opponent's next turn (i.e., your opponent gets one last turn).
 
-{: .note .bullets }
-> **Note:** In the Standard Game, you may use a _Sudden Call_ card as a Hazard to cause the Audience with Sauron to be called (see page 54).
+{: .bullets }
+> 
+> {: .note }
+> > **Note:** In the Standard Game, you may use a _Sudden Call_ card as a Hazard to cause the Audience with Sauron to be called (see page 54).
 
 {: .note }
 > **Note:** If one or both players only has access to a starter deck (76 cards), this requirement of 20 marshaling points should be lowered to 18.
@@ -290,14 +292,14 @@ _Marshalling Point Pile_ (_MP pile_) — In addition to marshalling points from 
 
 {: .note }
 >  **Note:** Because hazard cards are distinct from resource cards, you may not play your hazards on your side of the playing surface. _At the end of a game, it will be obvious whose cards are whose, i.e., hazards in your area must belong to your opponent_. We suggest adopting a neutral zone between each player’s side of the playing surface. Non-targeted long-events and permanent-events can be played in this neutral zone.
-> 
-> **Note:** You may freely examine the contents of your discard pile; your opponent may not. The contents of your out-of-play and marshalling point piles may be freely examined by you and your opponent.
 
 <br><span class="page-number">11</span>
 
 <hr id="page12">
 
 {: .note }
+> **Note:** You may freely examine the contents of your discard pile; your opponent may not. The contents of your out-of-play and marshalling point piles may be freely examined by you and your opponent.
+> 
 > **Clarification:** If a character is eliminated due to combat or due to failing a corruption check, his card is placed in the out-of-play pile—that character may not be brought back into play by either player.<br>&emsp;When a card is removed from play in all other cases, the card is discarded unless the card specifically states otherwise.
 > 
 > **Clarification:** In general, cards in your out-of-play pile and your marshalling point pile are considered to be actively in play for the purposes of being unique (if the card states it is unique).
@@ -345,26 +347,26 @@ Only one of each “unique” card may be included in your play deck and startin
 Follow these steps to get ready to play:
 
 {: .bullets }
- 1. Place your site cards in your location deck. This deck should contain all of your Darkhaven cards (i.e., Minas Morgul, Dol Guldur, Carn Dum, and Geann a-Lisch). You may include any number of Darkhaven cards, but only one of each non-Darkhaven site card.
+>
+>  1. Place your site cards in your location deck. This deck should contain all of your Darkhaven cards (i.e., Minas Morgul, Dol Guldur, Carn Dum, and Geann a-Lisch). You may include any number of Darkhaven cards, but only one of each non-Darkhaven site card.
 
 {:style="counter-reset:step-counter 1"}
- 2. Place between 25 and 50 Resource cards **and** an equal number of Hazard cards in your play deck (if you have fewer than 25 of either available, just use all of the cards you have). Only one of each “unique” card may be included. No more than three copies of any one non-unique card may be included.
+>  2. Place between 25 and 50 Resource cards **and** an equal number of Hazard cards in your play deck (if you have fewer than 25 of either available, just use all of the cards you have). Only one of each “unique” card may be included. No more than three copies of any one non-unique card may be included.
 
-{: .bullets }
-{:style="counter-reset:step-counter 2"}
- 3. Place one to six starting characters (no Ringwraiths, no minion agents from _Dark Minions_) face down in front of you. The combined mind attributes (see [page 18]()) of these characters must be 20 or less. You and your opponent reveal your characters simultaneously, placing any duplicated characters into your play decks. Then organize your starting characters into followers and companies and place them at Minas Morgul (i.e., place a Minas Morgul site card next to them).
+{:style="counter-reset:step-counter 2" .bullets }
+>  3. Place one to six starting characters (no Ringwraiths, no minion agents from _Dark Minions_) face down in front of you. The combined mind attributes (see [page 18]()) of these characters must be 20 or less. You and your opponent reveal your characters simultaneously, placing any duplicated characters into your play decks. Then organize your starting characters into followers and companies and place them at Minas Morgul (i.e., place a Minas Morgul site card next to them).
 
 {:style="counter-reset:step-counter 3"}
- 4. You _may_ assign up to two non-unique minor items to your starting characters (i.e., 2 items total, **not** 2 to each character). These items must come from cards that you have not committed to your play deck.
+>  4. You _may_ assign up to two non-unique minor items to your starting characters (i.e., 2 items total, **not** 2 to each character). These items must come from cards that you have not committed to your play deck.
 
  {:style="counter-reset:step-counter 4"}
- 5. Place up to 10 non-Ringwraith character cards in your play deck. Only one of each character card may be included. In addition, place up to two Ringwraith cards in your play deck (you may place two copies of the same Ringwraith). Shuffle your play deck.
+>  5. Place up to 10 non-Ringwraith character cards in your play deck. Only one of each character card may be included. In addition, place up to two Ringwraith cards in your play deck (you may place two copies of the same Ringwraith). Shuffle your play deck.
 
 {:style="counter-reset:step-counter 5"}
- 6. Draw a hand of eight cards from your play deck.
+>  6. Draw a hand of eight cards from your play deck.
 
 {:style="counter-reset:step-counter 6"}
- 7. Each player makes a roll, and the player with the highest result goes first (reroll if tied).
+>  7. Each player makes a roll, and the player with the highest result goes first (reroll if tied).
  
 {: .note } 
 > **Clarification:** None of your starting characters may be considered to be followers for the purposes of determining their combined mind attributes. That is, these characters have to have combined mind attributes of 20 or less. 
