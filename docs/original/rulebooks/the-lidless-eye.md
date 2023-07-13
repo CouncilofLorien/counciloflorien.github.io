@@ -346,30 +346,30 @@ Only one of each “unique” card may be included in your play deck and startin
 
 Follow these steps to get ready to play:
 
-{: .bullets .mb-2 }
+{: .bullets .mb-1 }
 >  1. Place your site cards in your location deck. This deck should contain all of your Darkhaven cards (i.e., Minas Morgul, Dol Guldur, Carn Dum, and Geann a-Lisch). You may include any number of Darkhaven cards, but only one of each non-Darkhaven site card.
 
-{: .blank .mb-2 }
+{: .blank .mb-1 }
 > 
 > {:style="counter-reset:step-counter 1" }
 > 2. Place between 25 and 50 Resource cards **and** an equal number of Hazard cards in your play deck (if you have fewer than 25 of either available, just use all of the cards you have). Only one of each “unique” card may be included. No more than three copies of any one non-unique card may be included.
 
-{: .bullets .mb-2 }
+{: .bullets .mb-1 }
 >
 > {:style="counter-reset:step-counter 2" }
 > 3. Place one to six starting characters (no Ringwraiths, no minion agents from _Dark Minions_) face down in front of you. The combined mind attributes (see [page 18]()) of these characters must be 20 or less. You and your opponent reveal your characters simultaneously, placing any duplicated characters into your play decks. Then organize your starting characters into followers and companies and place them at Minas Morgul (i.e., place a Minas Morgul site card next to them).
 
-{: .blank .mb-2 }
+{: .blank .mb-1 }
 >
 > {:style="counter-reset:step-counter 3" }
 > 4. You _may_ assign up to two non-unique minor items to your starting characters (i.e., 2 items total, **not** 2 to each character). These items must come from cards that you have not committed to your play deck.
 
-{: .blank .mb-2 }
+{: .blank .mb-1 }
 >
 > {:style="counter-reset:step-counter 4" }
 >  5. Place up to 10 non-Ringwraith character cards in your play deck. Only one of each character card may be included. In addition, place up to two Ringwraith cards in your play deck (you may place two copies of the same Ringwraith). Shuffle your play deck.
 
-{: .blank .mb-2 }
+{: .blank .mb-1 }
 >
 > {:style="counter-reset:step-counter 5" }
 >  6. Draw a hand of eight cards from your play deck.
