@@ -352,7 +352,7 @@ Follow these steps to get ready to play:
 {: .blank }
 > 
 > {:style="counter-reset:step-counter 1" }
-> >  2. Place between 25 and 50 Resource cards **and** an equal number of Hazard cards in your play deck (if you have fewer than 25 of either available, just use all of the cards you have). Only one of each “unique” card may be included. No more than three copies of any one non-unique card may be included.
+> 2. Place between 25 and 50 Resource cards **and** an equal number of Hazard cards in your play deck (if you have fewer than 25 of either available, just use all of the cards you have). Only one of each “unique” card may be included. No more than three copies of any one non-unique card may be included.
 
 {: .bullets }
 >
