@@ -92,10 +92,10 @@ _Site Phase_ — You may have each of your companies enter its current site to a
 
 _End-of-Turn Phase_ — Your turn ends.<span class="page-number">5</span>
 
-<hr id="page6">
- 
 {: .note }
 > **Note:** For purposes of readability, these rules use the standard masculine pronouns when referring to a person of uncertain gender. In such cases, these pronouns are intended to convey the meanings: she/he, him/her, etc.
+
+<hr id="page6">
 
 # • PART I •<br>STARTER RULES
 
@@ -121,12 +121,16 @@ Two six-sided dice (2D6) should be used to generate random values during play. T
 
 {: .bullets }
 The game ends when one of the following occurs during play:
+
 {: .bullets }
- 1. If your Ringwraith is "eliminated" (i.e., fails a body check)—your opponent wins.
- 2. If you move _The One Ring_ to Barad-dur—Sauron is reunited with _The One Ring_ and you win. (See page 44 for more on Rings).
- 3. Otherwise, the winner is decided at the _Audience with Sauron_.<br>This audience is called when one of the following occurs:
- - When each play deck has been exhausted once, the audience starts at the end of the current turn.
- - If your play deck has been exhausted _and_ you play a _Sudden Call_ card as a **resource** during one of your turns, the audience starts following your opponent's next turn (i.e., your opponent gets one last turn).<span class="page-number">6</span>
+>
+> 1. If your Ringwraith is "eliminated" (i.e., fails a body check)—your opponent wins.
+> 2. If you move _The One Ring_ to Barad-dur—Sauron is reunited with _The One Ring_ and you win. (See page 44 for more on Rings).
+> 3. Otherwise, the winner is decided at the _Audience with Sauron_.<br>This audience is called when one of the following occurs:
+> - When each play deck has been exhausted once, the audience starts at the end of the current turn.
+> - If your play deck has been exhausted _and_ you play a _Sudden Call_ card as a **resource** during one of your turns, the audience starts following your opponent's next turn (i.e., your opponent gets one last turn).
+
+<span class="page-number">6</span>
 
 <hr id="page7">
 
