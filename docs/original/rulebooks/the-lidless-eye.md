@@ -130,12 +130,12 @@ The game ends when one of the following occurs during play:
 > - When each play deck has been exhausted once, the audience starts at the end of the current turn.
 > - If your play deck has been exhausted _and_ you play a _Sudden Call_ card as a **resource** during one of your turns, the audience starts following your opponent's next turn (i.e., your opponent gets one last turn).
 
-<span class="page-number">6</span>
+<span class="page-number">6</span><br>
 
 <hr id="page7">
 
 {: .bullets }
- - If you have at least 20 marshalling points _and_ you play a _Sudden Call_ card as a **resource** during one of your turns, the audience starts following your opponent's next turn (i.e., your opponent gets one last turn).
+> - If you have at least 20 marshalling points _and_ you play a _Sudden Call_ card as a **resource** during one of your turns, the audience starts following your opponent's next turn (i.e., your opponent gets one last turn).
 
 {: .bullets }
 > 
@@ -350,23 +350,24 @@ Follow these steps to get ready to play:
 >
 >  1. Place your site cards in your location deck. This deck should contain all of your Darkhaven cards (i.e., Minas Morgul, Dol Guldur, Carn Dum, and Geann a-Lisch). You may include any number of Darkhaven cards, but only one of each non-Darkhaven site card.
 
-{:style="counter-reset:step-counter 1"}
 >  2. Place between 25 and 50 Resource cards **and** an equal number of Hazard cards in your play deck (if you have fewer than 25 of either available, just use all of the cards you have). Only one of each “unique” card may be included. No more than three copies of any one non-unique card may be included.
+{:style="counter-reset:step-counter 1"}
 
-{:style="counter-reset:step-counter 2" .bullets }
 >  3. Place one to six starting characters (no Ringwraiths, no minion agents from _Dark Minions_) face down in front of you. The combined mind attributes (see [page 18]()) of these characters must be 20 or less. You and your opponent reveal your characters simultaneously, placing any duplicated characters into your play decks. Then organize your starting characters into followers and companies and place them at Minas Morgul (i.e., place a Minas Morgul site card next to them).
+{:style="counter-reset:step-counter 2" .bullets }
 
-{:style="counter-reset:step-counter 3"}
+{: .bullets }
 >  4. You _may_ assign up to two non-unique minor items to your starting characters (i.e., 2 items total, **not** 2 to each character). These items must come from cards that you have not committed to your play deck.
+{:style="counter-reset:step-counter 3" }
 
- {:style="counter-reset:step-counter 4"}
 >  5. Place up to 10 non-Ringwraith character cards in your play deck. Only one of each character card may be included. In addition, place up to two Ringwraith cards in your play deck (you may place two copies of the same Ringwraith). Shuffle your play deck.
+{:style="counter-reset:step-counter 4"}
 
-{:style="counter-reset:step-counter 5"}
 >  6. Draw a hand of eight cards from your play deck.
+{:style="counter-reset:step-counter 5"}
 
-{:style="counter-reset:step-counter 6"}
 >  7. Each player makes a roll, and the player with the highest result goes first (reroll if tied).
+{:style="counter-reset:step-counter 6"}
  
 {: .note } 
 > **Clarification:** None of your starting characters may be considered to be followers for the purposes of determining their combined mind attributes. That is, these characters have to have combined mind attributes of 20 or less. 
@@ -522,10 +523,11 @@ If a character directly influencing a follower is removed from play, the followe
 ### BRINGING CHARACTERS INTO PLAY
 
 During your organization phase, you may perform **one and only one** of the following activities:
- - You may play a non-Ringwraith character card. You must place him at his home site _or_ at any Darkhaven site. If you do not have enough general influence or direct influence to control the character by the end of your organization phase, then the character is returned to hand. You must place him at his home site or at any Darkhaven site.
+
+> - You may play a non-Ringwraith character card. You must place him at his home site _or_ at any Darkhaven site. If you do not have enough general influence or direct influence to control the character by the end of your organization phase, then the character is returned to hand. You must place him at his home site or at any Darkhaven site.
 
 {: .bullets }
- - You may play a Ringwraith card if you do not have one in play. This is called "Revealing Your Ringwraith." You may **not** reveal a Ringwraith if your opponent has already revealed that Ringwraith. You must place your Ringwraith at his home site or at Minas Morgul. You need not control a Ringwraith with influence—he represents you, the player. While revealing your Ringwraith is an advantage, it also carries with it the danger of losing the game by having your Ringwraith eliminated.
+> - You may play a Ringwraith card if you do not have one in play. This is called "Revealing Your Ringwraith." You may **not** reveal a Ringwraith if your opponent has already revealed that Ringwraith. You must place your Ringwraith at his home site or at Minas Morgul. You need not control a Ringwraith with influence—he represents you, the player. While revealing your Ringwraith is an advantage, it also carries with it the danger of losing the game by having your Ringwraith eliminated.
 
 When you play a character, you may place him into a company already at his arrival site **or** he may become a new company (consisting of one character). In the second case, you must place the arrival site card next to the character played. If the appropriate site card is not available, you may not play the character.
 
@@ -582,13 +584,12 @@ Each of your characters at a Darkhaven may heal during the untap phase of your t
 ### RINGWRAITH EFFECTS
 
 {: .bullets }
-After being revealed, a Ringwraith operates like any other character except that it may only be in a company with other characters if it is at a Darkhaven. There are several other special effects:
-
-{: .bullets }
- - Any gold ring in the Ringwraith's company is automatically tested at the beginning of the end-of-turn phase. Any ring test in a Ringwraith's company has a modification of -2.
- - A Ringwraith may carry items (including rings) but may not use them (i.e., an item has no effect on a Ringwraith's company or on his attributes and abilities).
- - Ringwraiths never make corruption decks and corruption cards may not be played on Ringwraiths.
- - The movement of Ringwraiths is restricted (see [page 25]()).
+> After being revealed, a Ringwraith operates like any other character except that it may only be in a company with other characters if it is at a Darkhaven. There are several other special effects:
+>
+> - Any gold ring in the Ringwraith's company is automatically tested at the beginning of the end-of-turn phase. Any ring test in a Ringwraith's company has a modification of -2.
+> - A Ringwraith may carry items (including rings) but may not use them (i.e., an item has no effect on a Ringwraith's company or on his attributes and abilities).
+> - Ringwraiths never make corruption decks and corruption cards may not be played on Ringwraiths.
+> - The movement of Ringwraiths is restricted (see [page 25]()).
 
 ## 6 • MOVEMENT
 
@@ -799,21 +800,22 @@ There are a number of standard modifications to the prowess of each target chara
 
 Strikes are resolved one at a time as decided by the defending player. When you choose a strike to resolve, determine all of the factors affecting the strike before the roll is made (see “The Strike Sequence” on [page 33]()). To resolve a strike, the defender makes a roll (2D6) and adds his modified prowess:
 
- - If this result is greater than the strike’s prowess, the strike _fails_. Such a strike is defeated if its body attribute is “–” **or** if it has a body attribute and fails a body check.
- - If this result is equal to the strike’s prowess, the strike was _ineffectual_ (i.e., the strike is avoided but not defeated).
+> - If this result is greater than the strike’s prowess, the strike _fails_. Such a strike is defeated if its body attribute is “–” **or** if it has a body attribute and fails a body check.
+> - If this result is equal to the strike’s prowess, the strike was _ineffectual_ (i.e., the strike is avoided but not defeated).
 
 {: .bullets }
- - Otherwise, the strike was _successful_ (i.e., the character was defeated). If the attack was a "detainment" attack, an untapped target is tapped. Otherwise, the target character is wounded and must make a body check.
+> - Otherwise, the strike was _successful_ (i.e., the character was defeated). If the attack was a "detainment" attack, an untapped target is tapped. Otherwise, the target character is wounded and must make a body check.
 
 ### BODY CHECKS
 
 If a strike against a character is successful and the attack was _not_ a detainment attack, the character is wounded and must make a body check. To make a body check, the **attacker** makes a roll (2D6). If the character was already wounded before this strike, the roll is modified by +1.
 
 {: .bullets }
- - The text on certain characters' cards states: "Discard on a body check result of # or #." In this case, you must discard the character if the modified body check roll is equal to either of these numbers.
+> - The text on certain characters' cards states: "Discard on a body check result of # or #." In this case, you must discard the character if the modified body check roll is equal to either of these numbers.
 
- - Otherwise, if the modified body check roll is greater than the character's body attribute, the character is eliminated.
- - Otherwise, nothing further happens (i.e., the character is just wounded).
+
+> - Otherwise, if the modified body check roll is greater than the character's body attribute, the character is eliminated.
+> - Otherwise, nothing further happens (i.e., the character is just wounded).
 
 {: .bullets }
 > 
