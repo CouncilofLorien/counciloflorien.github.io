@@ -1523,8 +1523,9 @@ Finally, you may reveal any unique marshalling point cards in your hand that mat
 In addition to the normal situations outlined in the Starter Game, the Audience with Sauron is called when one of the following occurs:
 
 {: .bullets }
- - If your opponent's play deck has been exhausted _and_ you play a _Sudden Call_ card as a **hazard** during one of his turns, the audience starts following your next turn (i.e., you get one last turn).
- - If your opponent has at least 20 marshalling points _and_ you play a _Sudden Call_ card as a **hazard** during one of his turns, the audience starts following your next turn (i.e., you get one last turn).
+>
+> - If your opponent's play deck has been exhausted _and_ you play a _Sudden Call_ card as a **hazard** during one of his turns, the audience starts following your next turn (i.e., you get one last turn).
+> - If your opponent has at least 20 marshalling points _and_ you play a _Sudden Call_ card as a **hazard** during one of his turns, the audience starts following your next turn (i.e., you get one last turn).
 
 ## 2 • THE CARDS AND DECKS
 
@@ -1621,9 +1622,9 @@ Orc scouts only count half towards a company's size (round up).
 There are three other limitations on the types of characters that can be in a company.
 
 {: .bullets }
- - Unless at a Darkhaven, an Orc or a Troll cannot be in a company that contains an Elf, a Dwarf, or a Dunadan—and vice versa.
- - Unless at a Darkhaven, your Ringwraith's company may only contain your Ringwraith and Ringwraith followers (see [page 58]()).
- - Unless at a Darkhaven, a company may only contain one leader. A leader is a character with the keyword "_leader_," in its text box. 
+> - Unless at a Darkhaven, an Orc or a Troll cannot be in a company that contains an Elf, a Dwarf, or a Dunadan—and vice versa.
+> - Unless at a Darkhaven, your Ringwraith's company may only contain your Ringwraith and Ringwraith followers (see [page 58]()).
+> - Unless at a Darkhaven, a company may only contain one leader. A leader is a character with the keyword "_leader_," in its text box. 
 
 {: .bullets }
 These limitations also apply to moving companies.
@@ -1662,11 +1663,11 @@ To play a character card, you must have enough general influence or direct influ
 If the following conditions are met, you may bring another (different) Ringwraith character into play at your Ringwraith's site—such a character is called a "Ringwraith follower."
 
 {: .bullets }
- - Your Ringwraith is already in play.
- - Your Ringwraith is at a Darkhaven **or** he is at the Ringwraith follower's home site.
- - You have the card of the additional Ringwraith in your hand.
- - Your opponent does _not_ have the Ringwraith already in play **and** the Ringwraith has _not_ been eliminated.
- - You have the card or ability allowing a Ringwraith follower to be played (e.g., _They Ride Together_, The Witch-king's ability).
+> - Your Ringwraith is already in play.
+> - Your Ringwraith is at a Darkhaven **or** he is at the Ringwraith follower's home site.
+> - You have the card of the additional Ringwraith in your hand.
+> - Your opponent does _not_ have the Ringwraith already in play **and** the Ringwraith has _not_ been eliminated.
+> - You have the card or ability allowing a Ringwraith follower to be played (e.g., _They Ride Together_, The Witch-king's ability).
 
 {: .bullets }
 A Ringwraith follower must always be under the control of your Ringwraith and may move to non-Darkhaven sites with your Ringwraith. Your Ringwraith must use 1 point of direct influence to control each Ringwraith follower. Your Ringwraith followers may not be influenced away by your opponent.
@@ -1686,16 +1687,16 @@ When you reveal your Ringwraith, your opponent must discard any identical Ringwr
 This is a summary of the special effects of the Ringwraith character.
 
 {: .bullets }
- - A Ringwraith may only be in a company with non-Ringwraith characters if he is at a Darkhaven.
- - Any ring in the Ringwraith's company at the beginning of the end-of-turn phase is automatically tested. Any ring test in a Ringwraith company has a modification of -2.
- - A Ringwraith may carry items (including rings) but may not use them (i.e., an item has no effect on a Ringwraith's company or on his attributes and abilities). 
- - Ringwraiths never make corruption checks and corruption cards may not be played on Ringwraiths. 
- - Unless at a Darkhaven, a Ringwraith may not be in a company with non-Ringwraith characters.
- - A Ringwraith may not use a site path that contains Coastal Sea regions.
- - A Ringwraith's company may not use region movement.
- - A Ringwraith follower is only discarded as described on the mode cards (i.e., _Heralded Lord_, _Black Rider_, and _Fell Rider_).
- - A Ringwraith follower (see the previous page) may not use any of its special abilities. Uvatha's ability to automatically join another Ringwraith's company is an exception to this.
- - If a body check against a Ringwraith is exactly equal to 7 or 8, the Ringwraith is returned to your hand. You do not lose the game if your Ringwraith is removed in this fashion—you may bring such a Ringwraith back into play in the same fashion as your revealed him in the first place. If this happens to your Ringwraith, you may _not_ reveal a different Ringwraith as your Ringwraith **and** your opponent may not reveal the Ringwraith that you returned to your hand.
+> - A Ringwraith may only be in a company with non-Ringwraith characters if he is at a Darkhaven.
+> - Any ring in the Ringwraith's company at the beginning of the end-of-turn phase is automatically tested. Any ring test in a Ringwraith company has a modification of -2.
+> - A Ringwraith may carry items (including rings) but may not use them (i.e., an item has no effect on a Ringwraith's company or on his attributes and abilities). 
+> - Ringwraiths never make corruption checks and corruption cards may not be played on Ringwraiths. 
+> - Unless at a Darkhaven, a Ringwraith may not be in a company with non-Ringwraith characters.
+> - A Ringwraith may not use a site path that contains Coastal Sea regions.
+> - A Ringwraith's company may not use region movement.
+> - A Ringwraith follower is only discarded as described on the mode cards (i.e., _Heralded Lord_, _Black Rider_, and _Fell Rider_).
+> - A Ringwraith follower (see the previous page) may not use any of its special abilities. Uvatha's ability to automatically join another Ringwraith's company is an exception to this.
+> - If a body check against a Ringwraith is exactly equal to 7 or 8, the Ringwraith is returned to your hand. You do not lose the game if your Ringwraith is removed in this fashion—you may bring such a Ringwraith back into play in the same fashion as your revealed him in the first place. If this happens to your Ringwraith, you may _not_ reveal a different Ringwraith as your Ringwraith **and** your opponent may not reveal the Ringwraith that you returned to your hand.
 
 {: .bullets }
 >
@@ -2035,6 +2036,7 @@ _Middle-earth: The Wizards Companion_ provides some expanded, variant solitaire 
 
 {: .bullets }
 # • PART IV •<br/>USING MELE WITH METW
+{: .bullets }
 
 When one player is a Ringwraith and his opponent is a Wizard, play proceeds normally for each player within the limitations outlined in this section.
 
