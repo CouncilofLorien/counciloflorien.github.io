@@ -349,29 +349,23 @@ Follow these steps to get ready to play:
 {: .bullets }
 >  1. Place your site cards in your location deck. This deck should contain all of your Darkhaven cards (i.e., Minas Morgul, Dol Guldur, Carn Dum, and Geann a-Lisch). You may include any number of Darkhaven cards, but only one of each non-Darkhaven site card.
 
-{: .blank }
+{:style="counter-reset:step-counter 1" .blank }
 >  2. Place between 25 and 50 Resource cards **and** an equal number of Hazard cards in your play deck (if you have fewer than 25 of either available, just use all of the cards you have). Only one of each “unique” card may be included. No more than three copies of any one non-unique card may be included.
-{:style="counter-reset:step-counter 1"}
 
-{: .blank }
->  3. Place one to six starting characters (no Ringwraiths, no minion agents from _Dark Minions_) face down in front of you. The combined mind attributes (see [page 18]()) of these characters must be 20 or less. You and your opponent reveal your characters simultaneously, placing any duplicated characters into your play decks. Then organize your starting characters into followers and companies and place them at Minas Morgul (i.e., place a Minas Morgul site card next to them).
 {:style="counter-reset:step-counter 2" .bullets }
+>  3. Place one to six starting characters (no Ringwraiths, no minion agents from _Dark Minions_) face down in front of you. The combined mind attributes (see [page 18]()) of these characters must be 20 or less. You and your opponent reveal your characters simultaneously, placing any duplicated characters into your play decks. Then organize your starting characters into followers and companies and place them at Minas Morgul (i.e., place a Minas Morgul site card next to them).
 
-{: .bullets }
+{:style="counter-reset:step-counter 3" .blank }
 >  4. You _may_ assign up to two non-unique minor items to your starting characters (i.e., 2 items total, **not** 2 to each character). These items must come from cards that you have not committed to your play deck.
-{:style="counter-reset:step-counter 3" }
 
-{: .blank }
+{:style="counter-reset:step-counter 4" .blank }
 >  5. Place up to 10 non-Ringwraith character cards in your play deck. Only one of each character card may be included. In addition, place up to two Ringwraith cards in your play deck (you may place two copies of the same Ringwraith). Shuffle your play deck.
-{:style="counter-reset:step-counter 4"}
 
-{: .blank }
+{:style="counter-reset:step-counter 5" .blank }
 >  6. Draw a hand of eight cards from your play deck.
-{:style="counter-reset:step-counter 5"}
 
-{: .blank }
+{:style="counter-reset:step-counter 6" .blank }
 >  7. Each player makes a roll, and the player with the highest result goes first (reroll if tied).
-{:style="counter-reset:step-counter 6"}
  
 {: .note } 
 > **Clarification:** None of your starting characters may be considered to be followers for the purposes of determining their combined mind attributes. That is, these characters have to have combined mind attributes of 20 or less. 
@@ -528,6 +522,7 @@ If a character directly influencing a follower is removed from play, the followe
 
 During your organization phase, you may perform **one and only one** of the following activities:
 
+{: .blank }
 > - You may play a non-Ringwraith character card. You must place him at his home site _or_ at any Darkhaven site. If you do not have enough general influence or direct influence to control the character by the end of your organization phase, then the character is returned to hand. You must place him at his home site or at any Darkhaven site.
 
 {: .bullets }
@@ -1421,29 +1416,39 @@ The various activities that you and your opponent can perform during play are ca
 
 You should read and master the Starter Rules before tackling the Standard Rules.
 
-{: .note }
-> **Note:** These rules apply to a Ringwraith player playing a Ringwraith player. See Part IV ([page 73]()) for guidelines for handling a game between a Ringwraith and a Wizard.
+{: .bullets }
+>
+> {: .note }
+> > **Note:** These rules apply to a Ringwraith player playing a Ringwraith player. See Part IV ([page 73]()) for guidelines for handling a game between a Ringwraith and a Wizard.
 
+{: .bullets }
 ## 1 • THE VICTORY CONDITIONS
 
+{: .bullets }
 The Standard Rules victory conditions differ from those found in the Starter Rules in three ways. First, the players can decide to play a longer game. Second, certain modifications to the marshalling point totals can be made at the Audience with Sauron. Third, _Sudden Call_ may be used as a hazard to cause the Audience with Sauron to be called.
 
 ### THE LONGER GAMES
 
 The Starter Game is also called the “1-deck game.” For experienced players with tuned decks, this game usually lasts 20-60 minutes. If you want longer, more detailed play, there are 3 other games.
 
+{: .bullets }
 #### The 2-deck Game
 
+{: .bullets }
 In a "2-deck game" (the "short game"), the Audience is called when each play deck has been exhausted twice. You may use a _Sudden Call_ card when a play deck has been exhausted twice, or when a play deck has been exhausted once and the player with that deck has at least 25 marshalling points (MPs).
 
+{: .bullets }
 #### The 3-deck Game
 
+{: .bullets }
 In a "3-deck game" (the "long game"), the Audience is called when each play deck has been exhausted three times. You may use a _Sudden Call_ card when a play deck has been exhausted three times, or when a play deck has been exhausted twice and the player with that deck has at least 30 marshalling points (MPs). Increase the sideboard size to 30 cards.<span class="page-number">51</span>
 
 <hr id="page52">
 
+{: .bullets }
 #### The 4-deck Game
 
+{: .bullets }
 In a "4-deck game" (the "campaign game"), the Audience is called when each play deck has been exhausted four times. You may use a _Sudden Call_ card when a play deck has been exhausted four times, or when a play deck has been exhausted three times and the player with that deck has at least 40 marshalling points (MPs). Increase the sideboard size to 35 cards.
 
 ### MARSHALLING POINT MODIFICATIONS
@@ -1454,7 +1459,7 @@ There are six different types of marshalling points; each is associated with a s
 | Item Points (Major, Greater, & Rings only) | ![](/assets/images/itemmp.svg) | 
 | Faction Points | ![](/assets/images/factionmp.svg) | 
 | Ally Points | ![](/assets/images/allymp.svg) | 
-| Kill Points (from defeating "\*" creatures) | ![](/assets/images/killmp.svg) | 
+| {: .bullets } Kill Points (from defeating "\*" creatures) | ![](/assets/images/killmp.svg) | 
 | Miscellaneous Points | ![](/assets/images/miscmp.svg) | 
 
 At the audience, these types of marshalling points affect your final marshalling point total in two ways (apply them in the order listed):
@@ -1511,10 +1516,13 @@ Finally, you may reveal any unique marshalling point cards in your hand that mat
 
 <hr id="page54">
 
+{: .bullets }
 ### SUDDEN CALL USED AS A HAZARD
 
+{: .bullets }
 In addition to the normal situations outlined in the Starter Game, the Audience with Sauron is called when one of the following occurs:
 
+{: .bullets }
  - If your opponent's play deck has been exhausted _and_ you play a _Sudden Call_ card as a **hazard** during one of his turns, the audience starts following your next turn (i.e., you get one last turn).
  - If your opponent has at least 20 marshalling points _and_ you play a _Sudden Call_ card as a **hazard** during one of his turns, the audience starts following your next turn (i.e., you get one last turn).
 
@@ -1569,9 +1577,12 @@ Certain entities (e.g., _Stinker_, Ringwraiths, etc.) have several different _ma
  - If one manifestation of such an entity is already in play, you may not play another manifestation of the same entity.
  - If an attack from a manifestation is defeated, the manifestation is removed from active play and you may not play any further manifestations of the same entity.
 
-{: .note }
-> **Exception:** If you reveal your Ringwraith (see [page 20]()), any manifestations of that Ringwraith are immediately discarded (e.g., a corresponding Nazgul hazard or an identical Ringwraith card that has been played as a "Ringwraith follower," see [page 58]()). You cannot reveal a Ringwraith if your opponent has already revealed that same Ringwraith as his own (non-follower) Ringwraith.
+{: .bullets }
 > 
+> {: .note }
+ > **Exception:** If you reveal your Ringwraith (see [page 20]()), any manifestations of that Ringwraith are immediately discarded (e.g., a corresponding Nazgul hazard or an identical Ringwraith card that has been played as a "Ringwraith follower," see [page 58]()). You cannot reveal a Ringwraith if your opponent has already revealed that same Ringwraith as his own (non-follower) Ringwraith.
+
+{: .note}
 > **Exception:** Different manifestations of the same unique Dragon may be in play at the same time.
 > 
 > **Note:** If one card says that it is the manifestation of another card, these restrictions apply to both cards.
@@ -1597,22 +1608,30 @@ The Full Player Turn Summary is presented on pages 92-94.<span class="page-numbe
 
 There are several Standard Rules changes involving characters and companies.
 
+{: .bullets }
 ### ORC SCOUTS
 
+{: .bullets }
 Orc scouts only count half towards a company's size (round up).
 
+{: .bullets }
 ### LIMITATIONS ON COMPANY COMPOSITION
 
+{: .bullets }
 There are three other limitations on the types of characters that can be in a company.
 
+{: .bullets }
  - Unless at a Darkhaven, an Orc or a Troll cannot be in a company that contains an Elf, a Dwarf, or a Dunadan—and vice versa.
  - Unless at a Darkhaven, your Ringwraith's company may only contain your Ringwraith and Ringwraith followers (see [page 58]()).
  - Unless at a Darkhaven, a company may only contain one leader. A leader is a character with the keyword "_leader_," in its text box. 
 
+{: .bullets }
 These limitations also apply to moving companies.
 
-{: .note }
-> **Note:** If two companies end up at a non-Darkhaven site and combining those companies would violate the limitations on company composition, one of the companies that just moved must return to its site of origin. Similarly. an effect that causes such a violation is cancelled (e.g., _We Have Come to Kill_).
+{: .bullets }
+>
+> {: .note }
+> > **Note:** If two companies end up at a non-Darkhaven site and combining those companies would violate the limitations on company composition, one of the companies that just moved must return to its site of origin. Similarly. an effect that causes such a violation is cancelled (e.g., _We Have Come to Kill_).
 
 #### Discarding Characters
 
@@ -1636,28 +1655,37 @@ To play a character card, you must have enough general influence or direct influ
  - If the character is _not_ an agent, you may only play him at his home site or at any Darkhaven site. If the character is an agent, you may only play him at his home site.
  - If your Ringwraith is in play, your Ringwraith (or a character with enough direct influence to control the character to be played) must be at the site at which the character is to be played.
 
+{: .bullets }
 ### RINGWRAITH FOLLOWERS
 
+{: .bullets }
 If the following conditions are met, you may bring another (different) Ringwraith character into play at your Ringwraith's site—such a character is called a "Ringwraith follower."
 
+{: .bullets }
  - Your Ringwraith is already in play.
  - Your Ringwraith is at a Darkhaven **or** he is at the Ringwraith follower's home site.
  - You have the card of the additional Ringwraith in your hand.
  - Your opponent does _not_ have the Ringwraith already in play **and** the Ringwraith has _not_ been eliminated.
  - You have the card or ability allowing a Ringwraith follower to be played (e.g., _They Ride Together_, The Witch-king's ability).
 
+{: .bullets }
 A Ringwraith follower must always be under the control of your Ringwraith and may move to non-Darkhaven sites with your Ringwraith. Your Ringwraith must use 1 point of direct influence to control each Ringwraith follower. Your Ringwraith followers may not be influenced away by your opponent.
 
+{: .bullets }
 A Ringwraith follower may not use any of its special abilities. Uvatha's ability to automatically join another Ringwraith's company is an exception to this.
 
+{: .bullets }
 When you reveal your Ringwraith, your opponent must discard any identical Ringwraith card that has been played as a Ringwraith follower.<span class="page-number">58</span>
 
 <hr id="page59">
 
+{: .bullets }
 ### RINGWRAITH EFFECTS
 
+{: .bullets }
 This is a summary of the special effects of the Ringwraith character.
 
+{: .bullets }
  - A Ringwraith may only be in a company with non-Ringwraith characters if he is at a Darkhaven.
  - Any ring in the Ringwraith's company at the beginning of the end-of-turn phase is automatically tested. Any ring test in a Ringwraith company has a modification of -2.
  - A Ringwraith may carry items (including rings) but may not use them (i.e., an item has no effect on a Ringwraith's company or on his attributes and abilities). 
@@ -1669,8 +1697,10 @@ This is a summary of the special effects of the Ringwraith character.
  - A Ringwraith follower (see the previous page) may not use any of its special abilities. Uvatha's ability to automatically join another Ringwraith's company is an exception to this.
  - If a body check against a Ringwraith is exactly equal to 7 or 8, the Ringwraith is returned to your hand. You do not lose the game if your Ringwraith is removed in this fashion—you may bring such a Ringwraith back into play in the same fashion as your revealed him in the first place. If this happens to your Ringwraith, you may _not_ reveal a different Ringwraith as your Ringwraith **and** your opponent may not reveal the Ringwraith that you returned to your hand.
 
-{: .note }
-> **Note:** This represents the Ringwraith's mount being eliminated.
+{: .bullets }
+>
+> {: .note }
+> > **Note:** This represents the Ringwraith's mount being eliminated.
 
 <br><span class="page-number">59</span>
 
@@ -1691,6 +1721,7 @@ During the organization phase, a company at a non-Darkhaven site may split into 
 
 If you have _Middle-earth: The Wizards_ cards (or an appropriate map), there are two ways to move from one site to another. A company can use the site path on a site card (i.e., starter movement, see the Starter Rules) **or** it can use region cards as its site path to a specific site card (i.e., region movement).
 
+{: .bullets }
 _A Ringwraith's company may not use region movement._
 
 If both players agree, they can use region movement as it is used in _METW_. See page 78 for region movement guidelines.
@@ -1704,13 +1735,19 @@ During the organization phase, two or more companies may move to the same non-Da
 
 <hr id="page61">
 
- - One company may already be at the site. In this case the other company must state that its new site card is already in play (the current site card for the non-moving company). This site card remains in play until at least the end of the turn.
- - Two or more companies moving to the site must state that the same face down site card is their new site card.
+{: .blank }
+> - One company may already be at the site. In this case the other company must state that its new site card is already in play (the current site card for the non-moving company). This site card remains in play until at least the end of the turn.
 
+{: .bullets }
+> - Two or more companies moving to the site must state that the same face down site card is their new site card.
+
+{: .bullets }
 In both cases, the two companies must face hazards separately and are then combined at the end of the movement/hazard phase. If two companies end up at a site and combining those companies would violate the limitations on company composition (see [page 57]()), one of these companies must return to its site of origin. Similarly, an effect that causes such a violation is cancelled.
 
-{: .note }
-> **Note:** This means that your Ringwraith's company may not move to the same non-Darkhaven site as one of your other companies, since this would result in your Ringwraith joining with other characters.
+{: .bullets }
+>
+> {: .note }
+> > **Note:** This means that your Ringwraith's company may not move to the same non-Darkhaven site as one of your other companies, since this would result in your Ringwraith joining with other characters.
  
 ## 7 • COMBAT
 An _untapped_ character that is not the target of a strike may tap to _support_ a character in the same company that is the target of a strike. The target’s prowess is modified by +1 for each supporting character.
