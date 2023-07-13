@@ -56,7 +56,7 @@ The "Using _MELE_ with _METW_" section contains the essential rules for integrat
 {: .bullets }
 >
 > {: .note }
-> > **Note:** The rules for _MELE_ are very similar to the rules for _Middle-earth: The Wizards_. Passages with major rule differences are marked with a line of bullets as a sidebar (just as this paragraph is marked[^bullets]). Experienced players of _METW_ can examine these passages and proceed with playing.
+> > **Note:** The rules for _MELE_ are very similar to the rules for _Middle-earth: The Wizards_. Passages with major rule differences are marked with a line of bullets as a sidebar (just as this paragraph is marked). Experienced players of _METW_ can examine these passages and proceed with playing.
 
 _The Starter Rules_ — The Starter Rules contain all of the guidelines you need to play _MELE_. They have been designed to simplify teaching the game and to speed up play. You should use the Starter Rules if you and your opponent have never played this game before.<br>&emsp; If you are already an experienced player of collectible card games, you might initially read the Full Player Turn Summary on [pages 92-94]() **and** the sections that are not boxed. Then, as you play, you can refer to the other material that details the more complex rules and situations that may arise during play.
 
@@ -342,13 +342,24 @@ Follow these steps to get ready to play:
 
 {: .bullets }
  1. Place your site cards in your location deck. This deck should contain all of your Darkhaven cards (i.e., Minas Morgul, Dol Guldur, Carn Dum, and Geann a-Lisch). You may include any number of Darkhaven cards, but only one of each non-Darkhaven site card.
+
+{:style="counter-reset:step-counter 1"}
  2. Place between 25 and 50 Resource cards **and** an equal number of Hazard cards in your play deck (if you have fewer than 25 of either available, just use all of the cards you have). Only one of each “unique” card may be included. No more than three copies of any one non-unique card may be included.
 
 {: .bullets }
+{:style="counter-reset:step-counter 2"}
  3. Place one to six starting characters (no Ringwraiths, no minion agents from _Dark Minions_) face down in front of you. The combined mind attributes (see [page 18]()) of these characters must be 20 or less. You and your opponent reveal your characters simultaneously, placing any duplicated characters into your play decks. Then organize your starting characters into followers and companies and place them at Minas Morgul (i.e., place a Minas Morgul site card next to them).
+
+{:style="counter-reset:step-counter 3"}
  4. You _may_ assign up to two non-unique minor items to your starting characters (i.e., 2 items total, **not** 2 to each character). These items must come from cards that you have not committed to your play deck.
+
+ {:style="counter-reset:step-counter 4"}
  5. Place up to 10 non-Ringwraith character cards in your play deck. Only one of each character card may be included. In addition, place up to two Ringwraith cards in your play deck (you may place two copies of the same Ringwraith). Shuffle your play deck.
+
+{:style="counter-reset:step-counter 5"}
  6. Draw a hand of eight cards from your play deck.
+
+{:style="counter-reset:step-counter 6"}
  7. Each player makes a roll, and the player with the highest result goes first (reroll if tied).
  
 {: .note } 
@@ -394,6 +405,7 @@ A detailed Full Player Turn Summary is presented on [p. 92-94]().
 
 As a player, you influence and control a number of characters that move and act in the world of Middle-earth. Each character’s abilities are defined by these attributes: race, skills, direct influence, prowess (offense), body (defense), mind, marshalling points, and special abilities (e.g., corruption check modifiers). A character can be _eliminated_ and removed from play as a result of combat (failing a body check) or corruption (failing a corruption check).
 
+{: .bullets }
 If you have enough general influence or direct influence during a given turn, you may bring into play: one non-Ringwraith character at his home site or at any Darkhaven **or** your Ringwraith at his home site or Minas Morgul (see page 20). 
 
 Characters are primarily controlled by your pool of 20 general influence points. For each controlled character, you must commit a number of general influence points equal to his mind attribute. In addition, you may control a character by using another character’s direct influence—a character controlled in this fashion is called a _follower_ and does not use general influence points. (See [page 19]() for an extended example.)
@@ -417,13 +429,17 @@ One company can split into two or more companies only at a Darkhaven (use two Da
 > **Clarification:** During your organization phase, one Darkhaven card may be used to represent the location of two or more companies, so long as the distinction between companies is clearly presented spatially. However, we suggest the use of multiple Darkhaven cards for clarity.
 > 
 > **Clarification:** Even if you have no characters in play, the game is not over. You may continue to draw and discard cards—eventually you will draw your Ringwraith or a character.
+
+{: .bullets }
 >
-> **Note:** _MELE_ characters are different from _METW_ characters. When it is important to distinguish between the two types of characters, _MELE_ characters are referred to as "minions" (or minion characters) and _METW_ characters are referred to as "heroes" (or hero characters). See [pages 74-75]() for more information.
+> {: .note }
+> > **Note:** _MELE_ characters are different from _METW_ characters. When it is important to distinguish between the two types of characters, _MELE_ characters are referred to as "minions" (or minion characters) and _METW_ characters are referred to as "heroes" (or hero characters). See [pages 74-75]() for more information.
  
 ### CHARACTER ATTRIBUTES
 
 Each character’s abilities are defined by the following attributes (the notation for certain attributes is given in brackets).
 
+{: .bullets }
 _Race:_ This is one criterion for using certain resources and for bringing certain items, characters, and factions into play (e.g., only a Dwarf can fully utilize a Dwarven Ring). The races are: Elf, Dwarf, Dunadan, Man, Orc, Troll, and Ringwraith.
 
 _Skills:_ This is one of the criterion for using certain cards (e.g., warrior skill is required to use certain weapons). The skills are: warrior, scout, ranger, sage, and diplomat. Some characters have more than one skill.
@@ -436,6 +452,7 @@ _Body_ \[lower left, to right of “/”]: A character’s body is a measure of 
 
 <hr id="page18">
 
+{: .bullets }
 _Mind_ \[  ![](/assets/images/mind.svg) ]: A character’s mind determines how many influence points (a Ringwraith’s general influence points or a character’s direct influence points) are required to keep this character in play. Your Ringwraith has no mind and requires no influence to control.
 
 _Marshalling Points_ \[ upper left ]: This is the number of marshalling points you receive when you have the character in play. This value represents the character’s importance to Sauron.
@@ -500,6 +517,8 @@ If a character directly influencing a follower is removed from play, the followe
 
 During your organization phase, you may perform **one and only one** of the following activities:
  - You may play a non-Ringwraith character card. You must place him at his home site _or_ at any Darkhaven site. If you do not have enough general influence or direct influence to control the character by the end of your organization phase, then the character is returned to hand. You must place him at his home site or at any Darkhaven site.
+
+{: .bullets }
  - You may play a Ringwraith card if you do not have one in play. This is called "Revealing Your Ringwraith." You may **not** reveal a Ringwraith if your opponent has already revealed that Ringwraith. You must place your Ringwraith at his home site or at Minas Morgul. You need not control a Ringwraith with influence—he represents you, the player. While revealing your Ringwraith is an advantage, it also carries with it the danger of losing the game by having your Ringwraith eliminated.
 
 When you play a character, you may place him into a company already at his arrival site **or** he may become a new company (consisting of one character). In the second case, you must place the arrival site card next to the character played. If the appropriate site card is not available, you may not play the character.
@@ -528,16 +547,22 @@ Normally, a company is limited to a size of seven, but a company at a Darkhaven 
 {: .note }
 > **Clarification:** A company is **not** an "attack," and a character is **not** an "attack." So hazards that modify attacks have no effect on characters and companies.
 
+{: .bullets }
 #### Limitations on Company Composition
 
+{: .bullets }
 Unless at a Darkhaven, a Ringwraith may not be in a company with other characters.
 
+{: .bullets }
 #### Overt and Covert Companies
 
+{: .bullets }
 The text for certain cards distinguish between overt companies and covert companies. Any company that contains a Ringwraith in _Fell Rider_ mode, an Orc, or a Troll is an overt company. Any other company is a covert company.
 
-{: .note }
-> **Note:** An overt company is readily identifiable as an evil force (i.e., it has Orcs, Trolls, etc.), and thus is subject to direct conflict with most Free Peoples. A covert company is not readily identifiable as an evil force, and thus can operate relatively freely in the domains of the Free Peoples.
+{: .bullets }
+>
+> {: .note }
+> > **Note:** An overt company is readily identifiable as an evil force (i.e., it has Orcs, Trolls, etc.), and thus is subject to direct conflict with most Free Peoples. A covert company is not readily identifiable as an evil force, and thus can operate relatively freely in the domains of the Free Peoples.
 
 <br><span class="page-number">21</span>
 
@@ -547,10 +572,13 @@ The text for certain cards distinguish between overt companies and covert compan
 
 Each of your characters at a Darkhaven may heal during the untap phase of your turn. Such a character moves from a wounded position to a tapped position. In addition, certain cards can heal characters when they are played (e.g., _Foul-smelling Paste_).
 
+{: .bullets }
 ### RINGWRAITH EFFECTS
 
+{: .bullets }
 After being revealed, a Ringwraith operates like any other character except that it may only be in a company with other characters if it is at a Darkhaven. There are several other special effects:
 
+{: .bullets }
  - Any gold ring in the Ringwraith's company is automatically tested at the beginning of the end-of-turn phase. Any ring test in a Ringwraith's company has a modification of -2.
  - A Ringwraith may carry items (including rings) but may not use them (i.e., an item has no effect on a Ringwraith's company or on his attributes and abilities).
  - Ringwraiths never make corruption decks and corruption cards may not be played on Ringwraiths.
@@ -593,6 +621,7 @@ If the company’s site of origin is a Darkhaven, the new site card must meet on
 
 <hr id="page24">
 
+{: .bullets }
 {: .text-center }
 ![](/assets/images/mele-starter-movement.svg)
 
@@ -618,12 +647,16 @@ If the company’s site of origin is a Darkhaven, the new site card must meet on
 > 
 > Finally, the company takes one turn to move from Dol Guldur to The Lonely Mountain using the site path, ![](/assets/images/dark-domain.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg), indicated on The Lonely Mountain site card. Wendy plays The Lonely Mountain site card during her organization phase, and she removes the Dol Guldur site card at the end of her company's movement/hazard phase.
 
+{: .bullets }
 ### MOVING YOUR RINGWRAITH'S COMPANY
 
+{: .bullets }
 The company containing your Ringwraith may freely move from Darkhaven to Darkhaven and from a non-Darkhaven site to a Darkhaven. However, in order to move from a Darkhaven to a non-Darkhaven site, a Ringwraith must have a special resource card: a _Black Rider_ card, a _Fell Rider_ card, or a _Heralded Lord_ card (i.e., the Ringwraith must be in Black Rider mode, in Fell Rider mode, or in Heralded Lord Mode).
 
-{: .note }
-> **Example:** Suppose Ren the Ringwraith is at Barad-dur and wants to move to The Lonely Mountain as outlined in the previous example. On his first turn, he moves to Minas Morgul—he does not need a special card because he is moving from a non-Darkhaven site to a Darkhaven. On his second turn, he moves from Minas Morgul to Dol Guldur as outlined—he does not need a special card because he is moving from a Darkhaven to a Darkhaven. On his third turn, he plays a _Black Rider_ card in order to move from Dol Guldur (a Darkhaven) to The Lonely Mountain (a non-Darkhaven).
+{: .bullets }
+> 
+> {: .note }
+> > **Example:** Suppose Ren the Ringwraith is at Barad-dur and wants to move to The Lonely Mountain as outlined in the previous example. On his first turn, he moves to Minas Morgul—he does not need a special card because he is moving from a non-Darkhaven site to a Darkhaven. On his second turn, he moves from Minas Morgul to Dol Guldur as outlined—he does not need a special card because he is moving from a Darkhaven to a Darkhaven. On his third turn, he plays a _Black Rider_ card in order to move from Dol Guldur (a Darkhaven) to The Lonely Mountain (a non-Darkhaven).
 
 <br><span class="page-number">25</span>
 
@@ -745,10 +778,12 @@ There are a number of standard modifications to the prowess of each target chara
  Other resource cards | varies
  Hazard cards | varies
  
- {: .note }
- > **Clarification:** The prowess modifications marked with an * above are applied for a given strike and then are removed immediately after the attack is resolved. That is they do not carry over from strike to strike.
- > 
- > **Note:** Ignore effects that modify the number of strikes for an attack that states that "every character in the target company faces one strike" (unless an effect reduces the number of strikes to a specific number, e.g., _Veils of Shadow_).
+{: .bullets }
+>
+> {: .note }
+> > **Clarification:** The prowess modifications marked with an * above are applied for a given strike and then are removed immediately after the attack is resolved. That is they do not carry over from strike to strike.
+> > 
+> > **Note:** Ignore effects that modify the number of strikes for an attack that states that "every character in the target company faces one strike" (unless an effect reduces the number of strikes to a specific number, e.g., _Veils of Shadow_).
 
 <br><span class="page-number">29</span>
 
@@ -760,19 +795,26 @@ Strikes are resolved one at a time as decided by the defending player. When you 
 
  - If this result is greater than the strike’s prowess, the strike _fails_. Such a strike is defeated if its body attribute is “–” **or** if it has a body attribute and fails a body check.
  - If this result is equal to the strike’s prowess, the strike was _ineffectual_ (i.e., the strike is avoided but not defeated).
+
+{: .bullets }
  - Otherwise, the strike was _successful_ (i.e., the character was defeated). If the attack was a "detainment" attack, an untapped target is tapped. Otherwise, the target character is wounded and must make a body check.
 
 ### BODY CHECKS
 
 If a strike against a character is successful and the attack was _not_ a detainment attack, the character is wounded and must make a body check. To make a body check, the **attacker** makes a roll (2D6). If the character was already wounded before this strike, the roll is modified by +1.
 
+{: .bullets }
  - The text on certain characters' cards states: "Discard on a body check result of # or #." In this case, you must discard the character if the modified body check roll is equal to either of these numbers.
+
  - Otherwise, if the modified body check roll is greater than the character's body attribute, the character is eliminated.
  - Otherwise, nothing further happens (i.e., the character is just wounded).
 
-{: .note }
-> **Note:** As a result of certain rolls, certain characters may be discarded rather than being wounded. These characters are usually Orcs and Trolls. This effect represents the target running or slinking away from the attack.
+{: .bullets }
 > 
+> {: .note }
+> > **Note:** As a result of certain rolls, certain characters may be discarded rather than being wounded. These characters are usually Orcs and Trolls. This effect represents the target running or slinking away from the attack.
+
+{: .note }
 > **Clarification:** If a character was already wounded before a strike wounds him again, the resulting body check modification is always +1 (regardless of how many times a character is wounded).
 
 <br><span class="page-number">30</span>
@@ -2473,5 +2515,3 @@ Swanberg, Daniel Williams, Monica Wilson
 **Additional credits** can be found in the _Middle-earth: The Wizards_ rulesbook (due to space limitations. we were unable to include them here).
 
 ---
-
-[^bullets]: These online rules are not formatted with a line of bullets as a sidebar. See the pdf version of the rules instead.
