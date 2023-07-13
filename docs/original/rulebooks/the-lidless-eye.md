@@ -347,6 +347,8 @@ Only one of each “unique” card may be included in your play deck and startin
 Follow these steps to get ready to play:
 
 {: .bullets .mb-1 }
+>
+> {: .mb-1 .mt-1 }
 >  1. Place your site cards in your location deck. This deck should contain all of your Darkhaven cards (i.e., Minas Morgul, Dol Guldur, Carn Dum, and Geann a-Lisch). You may include any number of Darkhaven cards, but only one of each non-Darkhaven site card.
 
 {: .blank .mb-1 .mt-1 }
