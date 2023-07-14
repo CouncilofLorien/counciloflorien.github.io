@@ -30,6 +30,8 @@ This insert provides expansion rules and clarifications for use with all _Middle
 
 Certain cards and effects require other cards be placed "off to the side" (e.g., _Sack Over the Head_). Cards placed off to the side are placed on the playing surface off to the side of the normal area of play. Such cards are kept with their host permanent-event that caused this effect. Any card placed off to the side absolutely cannot be targeted or otherwise affected by the game except by cards that specifically affect cards placed "off to the side."
 
+<hr id="page2">
+
 Cards placed off to the side are in play for the purposes of uniqueness. Unless stated otherwise, when a host permanent-event is removed from the playing surface, any cards placed off to the side under it are discarded. Usually the host card will state some mechanic that affects the cards placed off to the side with it. Unless stated otherwise on its host card, a card placed off to the side will give its marshalling points to its owner.
 
 ### HOARDS
@@ -51,6 +53,8 @@ Certain effects allow a character to be assigned more than one strike from a giv
 
 Any hazard creature you play as an automatic-attack is discarded if defeated—it is not placed in your opponent's marshalling point pile.
 
+<hr id="page3">
+
 ### THE UNDER-DEEPS
 
 {: .note }
@@ -67,6 +71,9 @@ An Under-deeps site card has ''Under-deeps" in the section that normally gives s
  - A company moving to and/or from an Under-deeps site has no site path. So, hazards may only be played keyed to the company's new site.
  - An environment card that changes site type (e.g., _Choking Shadows_, _Quiet lands_, etc.) cannot be used to change the site type of an Under-deeps site.
  - You may not consider marshalling points associated with a company at an Under-deeps site for the purposes of calling the Free Council or the Audience with Sauron.
+
+<hr id="page4">
+  
  - Normally, when you successfully play an item, faction, ally, or information at a site, the site card is tapped and one additional character may tap to play a minor item. At an Under-deeps site, you can play any item playable at the site instead of this minor item.
 
 {: .note }
