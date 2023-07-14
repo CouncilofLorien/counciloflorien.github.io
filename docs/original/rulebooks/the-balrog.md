@@ -209,7 +209,7 @@ Each adjacent site is followed by a number in parentheses—this number indicate
 {: .note }
 > **Example:** A company is moving from The Under-grottos to Goblin-gate with _Long Winter_ in play. _Long Winter's_ effect of returning a company to the site of origin has no effect, since it depends on the company's site path, and the company has no site path. _Long Winter's_ effect of tapping a site will work, since that effect depends on the site's site path, which still exists. Finally, creatures can only be played keyed to the Shadow-hold of Goblin-gate.
 
-<span class="page-number">5</span>
+<span class="page-number">5</span><br>
 
 <hr id="page6">
 
@@ -287,7 +287,7 @@ The hazard mix contains plenty of Spiders, a handful of Animals, and enhancers f
 | <u>Resources</u> (32)<br>_MP Sources:_<br>Cave Troll<br>Descent through Fire<br>Evil Things Lingering<br>Great Troll<br>Maker's Map<br>Tempest of Fire<br>\[Black Mace (x2)]<br>\[High Helm]<br>\[Iron Shield of Old (x2)]<br>\[Orcs of Mirkwood]<br>\[Orcs of Moria]<br>\[Sable Shield]<br>\[Stinker]<br><br>_Supporting Resources:_<br>Ancient Secrets (x2)<br>Angband Revisited<br>Caverns Unchoked<br>Foe Dismayed<br>Going Ever Under Dark<br>Great Fissure (x2)<br>Great Shadow (x2)<br>Out He Sprang<br>Vanguard of Might<br>\[Bold Thrust (x3)]<br>\[I'll Report You (x2)] | <u>Hazards</u> (32)<br>_Creatures:_<br>Beorning Skin-changers<br>Carrion Feeders<br>Monstrosity of Diverse Shape<br>Shelob's Brood (x2)<br>Spawn of Ungoliant<br>Ungoliant's Foul Issue<br>Ungoliant's Progeny<br>\[Giant Spiders (x3)]<br>\[Half-trolls of Far Harad (x2)]<br>\[Lesser Spiders (x3)]<br>\[Neeker-breekers (x2)]<br><br>_Events:_<br>Black Vapour<br>Darkness Made By Malice<br>The Reek<br>Unabated in Malice<br>\[Foolish Words (x2)]<br>\[Full of Froth and Rage (x3)]<br>\[Greed]<br>\[Lure of Expedience (x2)]<br>\[Twilight (x2)] |
 | <u>Sideboard</u> (28)<br>_Resources:_<br>Breach the Hold<br>Cloaked by Darkness<br>Crook-legged Orc<br>Darkness Wielded<br>Flame of Udun<br>Hill-troll<br>Memories of Old Torture<br>Roots of the Earth<br>Terror Heralds Doom<br>\[I'll Be at Your Heels]<br>\[Orc Veteran (x2)]<br>\[Piercing All Shadows]<br>\[Skies of Fire (x2)]<br>\[Sudden Call]<br>\[The Under-roads (x2)]<br><br>_Hazards:_<br>Desire All for They Belly<br>Glance of Arien<br>The Sun Shone Fiercely<br>\[Corsairs of Umbar]<br>\[Covetous Thoughts (x2)]<br>\[Muster Disperses (x2)]<br>\[Stench of Mordor]<br>\[The Way Is Shut] | <u>Sites (20)</u><br>Moria<br>The Under-gates<br>The Drowning-deeps<br>The Iron-deeps<br>The Sulfur-deeps<br>The Under-courts<br>The Under-galleries<br>The Under-grottos<br>The Under-leas<br>The Under-vaults<br>Barad-dur<br>Carn Dum<br>Cirith Gorgor<br>Cirith Ungol<br>Dol Guldur<br>Minas Morgul<br>Remains of Thangorodrim<br>\[Dead Marshes]<br>\[Goblin-gate]<br>\[Sarn Goriwing]<br><br><u>EXTRA CARDS</u> (3)<br>Longbottom Leaf<br>No Better Use<br>Rumours of Rings
 
-<span class="page-number">7</span>
+<br><span class="page-number">7</span>
 
 <hr id="page8">
 
