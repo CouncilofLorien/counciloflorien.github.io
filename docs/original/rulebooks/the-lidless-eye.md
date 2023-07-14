@@ -1482,12 +1482,13 @@ In a "4-deck game" (the "campaign game"), the Audience is called when each play 
 There are six different types of marshalling points; each is associated with a specific shape:
 
 {: .bullets }
-| Character Points | ![](/assets/images/charactermp.svg) | 
-| Item Points (Major, Greater, & Rings only) | ![](/assets/images/itemmp.svg) | 
-| Faction Points | ![](/assets/images/factionmp.svg) | 
-| Ally Points | ![](/assets/images/allymp.svg) | 
-| Kill Points (from defeating "\*" creatures) | ![](/assets/images/killmp.svg) | 
-| Miscellaneous Points | ![](/assets/images/miscmp.svg) | 
+>
+> | Character Points | ![](/assets/images/charactermp.svg) | 
+> | Item Points (Major, Greater, & Rings only) | ![](/assets/images/itemmp.svg) | 
+> | Faction Points | ![](/assets/images/factionmp.svg) | 
+> | Ally Points | ![](/assets/images/allymp.svg) | 
+> | Kill Points (from defeating "\*" creatures) | ![](/assets/images/killmp.svg) | 
+> | Miscellaneous Points | ![](/assets/images/miscmp.svg) | 
 
 At the audience, these types of marshalling points affect your final marshalling point total in two ways (apply them in the order listed):
 
@@ -1763,10 +1764,14 @@ During the organization phase, two or more companies may move to the same non-Da
 
 <hr id="page61">
 
-{: .blank }
+{: .blank .mb-1 }
+>
+> {: .mb-1 }
 > - One company may already be at the site. In this case the other company must state that its new site card is already in play (the current site card for the non-moving company). This site card remains in play until at least the end of the turn.
 
-{: .bullets }
+{: .bullets .mt-1 }
+>
+> {: .mt-1 }
 > - Two or more companies moving to the site must state that the same face down site card is their new site card.
 
 {: .bullets }
@@ -1823,16 +1828,16 @@ If one of your minion companies defeats a creature, you may place the creature's
 Trophies give a character bonuses based upon the total number of marshalling points indicated by the trophies (i.e., on the creature cards). One and only one of the following sets of bonuses applies to a character with trophies:
 
 {: .bullets }
- - If a character's trophies have 1 marshalling point, the character receives + 1 to direct influence.
+> - If a character's trophies have 1 marshalling point, the character receives + 1 to direct influence.
 
 <br><span class="page-number">62</span>
 
 <hr id="page63">
 
 {: .bullets }
- - If a character's trophies have 2 marshalling points, the character receives +1 to direct influence and +1 to prowess (to a maximum of 9)
- - If a character's trophies have 3 marshalling points, the character receives +2 to direct influence and +l to prowess (to a maximum of 9).
- - If a character's trophies have 4 or more marshalling points, the character receives +2 to direct influence and +2 to prowess (to a maximum of 9).
+> - If a character's trophies have 2 marshalling points, the character receives +1 to direct influence and +1 to prowess (to a maximum of 9)
+> - If a character's trophies have 3 marshalling points, the character receives +2 to direct influence and +l to prowess (to a maximum of 9).
+> - If a character's trophies have 4 or more marshalling points, the character receives +2 to direct influence and +2 to prowess (to a maximum of 9).
 
 {: .bullets }
 >
