@@ -93,6 +93,11 @@ Your location deck may include one copy of each of the minion site cards with th
 Your starting company and play deck (and your sideboard) may be constructed like any other Ringwraith's—with the following exceptions:
 
  - Only Orc, Troll, Dragon, Wolf, and Animal factions may be included.
+
+<span class="page-number">2</span>
+
+<hr id="page3">
+ 
  - Only Orc and Troll minion characters may be included.
  - Unless they are "Balrog specific," only Orc and Troll characters with a mind less than 9 may be included.
  - "Balrog specific" cards may be included. Such cards may only be included in a Balrog player's deck. Playing
@@ -139,6 +144,10 @@ Certain hazard permanent-events indicate that they give "kill" marshalling point
 
 If a card specifies that more than one action occurs when the card is itself resolved in a chain of effects, all of these actions are to be resolved in the card's chain of effects uninterrupted and in the order listed on the card. No actions may be declared to occur between these multiple actions. The actions listed on the card are considered to have been declared in the reverse order as they are printed. As an exception, if one of the effects of a card is an attack, cards may be played that cancel the attack, cancel one of the strikes, or that otherwise are playable during the strike sequence.
 
+<span class="page-number">3</span>
+
+<hr id="page4">
+
 ## PLACEMENT OF CARDS "OFF TO THE SIDE" (Clarification)
 
 Certain cards and effects require other cards be placed "off to the side" (e.g., _Press Gang_). Cards placed off to the side are placed on the playing surface, usually off to the side of the normal area of play. Such cards are kept with their host permanent-event that caused this effect. Any such card absolutely cannot be targeted or otherwise affected by the game except by cards that specifically affect cards placed "off to the side." 
@@ -179,7 +188,11 @@ An Under-deeps site card has "Under-deeps" in the section that normally gives th
 
 #### Under-deep Site Movement
 
-One of your companies that begins its turn at the surface site of an Under-deeps site can move normally _or_ it can move to its adjacent Under-deeps site (i.e., the company moves to an Under-deeps site from its surface site). One of your companies that begins its turn at an Under-deeps site may only move to one of the adjacent sites listed on the Under-deeps site card.
+One of your companies that begins its turn at the surface site of an Under-deeps site can move normally _or_ it can move to its adjacent Under-deeps site (i.e., the company moves to an Under-deeps site from its surface site). One of your companies that begins its turn at an Under-deeps site may only move to one of the adjacent sites listed on the Under-deeps site card.<span class="page-number">4</span>
+
+<hr id="page5">
+
+![](/assets/images/meba-under-deeps.gif)
 
 Each adjacent site is followed by a number in parentheses—this number indicates how difficult it is to move from the Under-deeps site to the adjacent site. When an adjacent site is revealed by one of your companies whose site of origin is an Under-deeps site, you must make a roll (2D6). If the result is greater than or equal to the number in parentheses following the adjacent site as listed on its site of origin, the movement/hazard phase proceeds normally. Otherwise, the company returns to its site of origin (no cards are drawn) and the movement/hazard phase proceeds as if the company had not moved.
 
@@ -193,9 +206,9 @@ Each adjacent site is followed by a number in parentheses—this number indicate
 > **Example:** A Balrog company that starts at Carn Dum can move normally or it can move to The Irondeeps—The Iron-deeps lists Carn Dum as an adjacent site. Similarly, a minion company that starts at The Iron-deeps may attempt to move to any adjacent site listed: Carn Dum (0), The Under-leas (6), or The Under-vaults (7). However, after committing to movement, the moving player must roll a 6 or better to successfully move to The Under-leas or a 7 or better to successfully move to The Under-vaults.
 
 {: .note }
-> **Example:** A company is moving from The Under-grottos to Goblin-gate with _Long Winter_ in play. _Long Winter's_ effect of returning a company to the site of origin has no effect, since it depends on the company's site path, and the company has no site path. _Long Winter's_ effect of tapping a site will work, since that effect depends on the site's site path, which still exists. Finally, creatures can only be played keyed to the Shadow-hold of Goblin-gate.
+> **Example:** A company is moving from The Under-grottos to Goblin-gate with _Long Winter_ in play. _Long Winter's_ effect of returning a company to the site of origin has no effect, since it depends on the company's site path, and the company has no site path. _Long Winter's_ effect of tapping a site will work, since that effect depends on the site's site path, which still exists. Finally, creatures can only be played keyed to the Shadow-hold of Goblin-gate.<span class="page-number">5</span>
 
-![](/assets/images/meba-under-deeps.gif)
+<hr id="page6">
 
 # THE SHADOW-DEEPS<br>PLAY TIPS
 
@@ -253,7 +266,9 @@ In _Great Shadow_ form The Balrog should always be accompanied by his minions ou
 
 Once The Balrog plays _Descent Through Fire_—the deck's most important card—bring in _Breach the Hold_ and _Roots of the Earth_ from the sideboard. Send the Balrog north to The Drowning-deeps/Remains of Thangorodrim area once you draw one of them. Most MP sources are playable between these two sites. Expect to have an excess of MP sources in hand as the game wears on if you have been recycling discarded ones. Consider _Flame of Udun_ to maximize the Balrog's battle-readiness, though this minimizes playing additional MP cards.
 
-Eventually, _Out He Sprang_ will hit the table, allowing The Balrog to surface for company vs. company combat against a hero opponent. To optimally prepare for attacking, bring in _Flame of Udun_, as The Balrog cannot move on the surface with _Great Shadow_.
+Eventually, _Out He Sprang_ will hit the table, allowing The Balrog to surface for company vs. company combat against a hero opponent. To optimally prepare for attacking, bring in _Flame of Udun_, as The Balrog cannot move on the surface with _Great Shadow_.<span class="page-number">6</span>
+
+<hr id="page7">
 
 #### Hazard Play
 
@@ -268,6 +283,10 @@ The hazard mix contains plenty of Spiders, a handful of Animals, and enhancers f
 | <u>At Start</u> (7)<br>_Gangways over the Fire_<br>_Orders from the Great Demon_<br>Azog<br>Buthrakaur<br>Mountain-maggot (x2)<br>\[Orc Veteran] | <u>Other Characters</u> (10)<br>The Balrog (x3)<br>\[Burat]<br>\[Gorbag]<br>\[Orc Tracker (x2)]<br>\[Shagrat]<br>\[Tuma] <br>\[Wuluag] |
 | <u>Resources</u> (32)<br>_MP Sources:_<br>Cave Troll<br>Descent through Fire<br>Evil Things Lingering<br>Great Troll<br>Maker's Map<br>Tempest of Fire<br>\[Black Mace (x2)]<br>\[High Helm]<br>\[Iron Shield of Old (x2)]<br>\[Orcs of Mirkwood]<br>\[Orcs of Moria]<br>\[Sable Shield]<br>\[Stinker]<br><br>_Supporting Resources:_<br>Ancient Secrets (x2)<br>Angband Revisited<br>Caverns Unchoked<br>Foe Dismayed<br>Going Ever Under Dark<br>Great Fissure (x2)<br>Great Shadow (x2)<br>Out He Sprang<br>Vanguard of Might<br>\[Bold Thrust (x3)]<br>\[I'll Report You (x2)] | <u>Hazards</u> (32)<br>_Creatures:_<br>Beorning Skin-changers<br>Carrion Feeders<br>Monstrosity of Diverse Shape<br>Shelob's Brood (x2)<br>Spawn of Ungoliant<br>Ungoliant's Foul Issue<br>Ungoliant's Progeny<br>\[Giant Spiders (x3)]<br>\[Half-trolls of Far Harad (x2)]<br>\[Lesser Spiders (x3)]<br>\[Neeker-breekers (x2)]<br><br>_Events:_<br>Black Vapour<br>Darkness Made By Malice<br>The Reek<br>Unabated in Malice<br>\[Foolish Words (x2)]<br>\[Full of Froth and Rage (x3)]<br>\[Greed]<br>\[Lure of Expedience (x2)]<br>\[Twilight (x2)] |
 | <u>Sideboard</u> (28)<br>_Resources:_<br>Breach the Hold<br>Cloaked by Darkness<br>Crook-legged Orc<br>Darkness Wielded<br>Flame of Udun<br>Hill-troll<br>Memories of Old Torture<br>Roots of the Earth<br>Terror Heralds Doom<br>\[I'll Be at Your Heels]<br>\[Orc Veteran (x2)]<br>\[Piercing All Shadows]<br>\[Skies of Fire (x2)]<br>\[Sudden Call]<br>\[The Under-roads (x2)]<br><br>_Hazards:_<br>Desire All for They Belly<br>Glance of Arien<br>The Sun Shone Fiercely<br>\[Corsairs of Umbar]<br>\[Covetous Thoughts (x2)]<br>\[Muster Disperses (x2)]<br>\[Stench of Mordor]<br>\[The Way Is Shut] | <u>Sites (20)</u><br>Moria<br>The Under-gates<br>The Drowning-deeps<br>The Iron-deeps<br>The Sulfur-deeps<br>The Under-courts<br>The Under-galleries<br>The Under-grottos<br>The Under-leas<br>The Under-vaults<br>Barad-dur<br>Carn Dum<br>Cirith Gorgor<br>Cirith Ungol<br>Dol Guldur<br>Minas Morgul<br>Remains of Thangorodrim<br>\[Dead Marshes]<br>\[Goblin-gate]<br>\[Sarn Goriwing]<br><br><u>EXTRA CARDS</u> (3)<br>Longbottom Leaf<br>No Better Use<br>Rumours of Rings
+
+<span class="page-number">7</span>
+
+<hr id="page8">
 
 # BALROG'S HOST<br>PLAY TIPS
 
@@ -325,7 +344,9 @@ The only underground route to The Rusted-deeps goes through The Under-leas and T
 
 #### The Balrog
 
-The Balrog with _Strangling Coils_ recruits factions very well without enhancement—and usually requires no tactical cards to remain untapped against creatures. When he is not attacking an opponent, The Balrog is your number one option for gathering the Great Army. You will need The Balrog to tap to bring a few cards in from the sideboard. Do not forget to bring in _Sudden Call_ before the first deck cycle ends.
+The Balrog with _Strangling Coils_ recruits factions very well without enhancement—and usually requires no tactical cards to remain untapped against creatures. When he is not attacking an opponent, The Balrog is your number one option for gathering the Great Army. You will need The Balrog to tap to bring a few cards in from the sideboard. Do not forget to bring in _Sudden Call_ before the first deck cycle ends.<span class="page-number">8</span>
+
+<hr id="page9">
 
 #### Hazard Play
 
@@ -343,9 +364,15 @@ Use _An Unexpected Outposts_ to recycle _Twilights_, _Long Winters_, _Doors of N
 | <u>Resources</u> (31) <br>_MP Sources:_<br>A Few Recruits<br>Breach the Hold<br>Great Army of the North<br>Nasty Slimy Thing<br>People Diminished<br>Roots of the Earth<br>Stagging Tongue of Fire<br>Whip of Many Thongs<br>\[Iron Shield of Old]<br>\[Goblins of Goblin-gate]<br>\[Grey Mountain Goblins]<br>\[Orcs of Angmar]<br>\[Orcs of Gundabad]<br>\[Orcs of Moria]<br><br>_Supporting Resources_<br>A More Evil Hour<br>Ancient Secrets<br>Angband Revisited (x2)<br>Caverns Unchoked<br>Foe Dismayed (x2)<br>Great Fissure<br>Obey Him or Die<br>Out of Sprang (x2)<br>Strangling Coils (x2)<br>\[Crept Along Cleverly]<br>\[Swift Strikes (x2)]<br>\[Voices of Malice] | <u>Hazards</u> (31)<br>_Creatures:_<br>\[Bairanax Ahunt]<br>\[Ghosts (x2)]<br>\[Marsh-drake (x2)]<br>\[Nameless Thing (x2)]<br>\[Sellswords Between Charters (x2)]<br>\[Scatha Ahunt]<br>\[Scorba Ahunt]<br>\[Smaug Ahunt]<br>\[True Fire-drake (x2)]<br><br>_Events:_<br>\[An Unexpected Outpost (x3)]<br>\[Doors of Night (x3)]<br>\[Foolish Words (x2)]<br>\[From the Pits of Angband (x2)]<br>\[Long Winter (x3)]<br>\[Mordor in Arms]<br>\[Stench of Mordor]<br>\[Twilight (x2)] |
 | <u>Sideboard</u> (25)<br>_Resources:_<br>Crook-legged Orc<br>Crowned with Storm<br>Eddy in Fate's Tide<br>Flame of Udun<br>Heart of Dark Fire<br>Hill-troll<br>Invade Their Domain<br>Lord and Usurper<br>Mine of No One's<br>Mountain-maggot<br>Prone to Violence<br>Roam the Waste<br>Scourge of Fire<br>\[Piercing All Shadows (x2)]<br>\[Sudden Call]<br><br>_Hazards:_<br>Diminish and Depart<br>Fled into Darkness<br>Olog Warlords<br>Press Gang<br>\[Covetous Thoughts (x2)]<br>\[Earcaraxe Aunt]<br>\[Muster Disperses]<br>\[Stench of Mordor] | <u>Sites</u> (20)<br>Moria<br>The Under-gates<br>Ancient Deep-hold<br>The Gem-deeps<br>The Pukel-deeps<br>The Rusted-deeps<br>The Under-grottos<br>The Under-leas<br>The Under-vaults<br>The Wind-deeps<br>\[Beorn's House]<br>\[Eagles' Eyrie]<br>\[Goblin-gate]<br>\[Gondmaeglom]<br>\[Iron Hill Dwarf-hold]<br>\[Mount Gram]<br>\[Mount Gundabad]<br>\[Thranduil's Halls]<br>\[Wellinghall]<br>\[The Windthrone]<br><br><u>EXTRA CARDS</u><br>Challenge the Power<br>Crepy Along Carefully<br>Elven Rope<br>Grond<br>Imprisoned and Mocked<br>Long Grievous Siege<br>Sauron<br>Show Things Unbidden<br>Strider<br>To Fealty Sworn<br>Whispers of Rings |
 
+<span class="page-number">9</span>
+
+<hr id="page10">
+
 ## Map of Middle-earth
 
 ![](/assets/images/meba-map.gif)
+
+<hr id="page11">
 
 ## Key
 
@@ -354,6 +381,8 @@ Use _An Unexpected Outposts_ to recycle _Twilights_, _Long Winters_, _Doors of N
 ## Card Diagrams
 
 ![](/assets/images/meba-card-diagrams.gif)
+
+<hr id="page12">
 
 {: .text-center }
 # MECCG RULES SUMMARY
@@ -400,7 +429,11 @@ There are four different types of cards in _MECCG_: sites, characters, hazards a
 
 Site cards have a map image on the card back, and a white or gray parchment background. The site type is indicated by a symbol in the upper left-hand corner of the card. A key to these symbols is on the back of this booklet. Havens for Wizard players, and Darkhavens for Ringwraith players, are special sites with a star icon in the upper left corner.
 
-Character cards have a blue background for Wizard decks, and a rusted purplish iron background for Ringwraith decks. Characters in Wizard decks are called heroes, and characters in Ringwraith decks are called minions.
+Character cards have a blue background for Wizard decks, and a rusted purplish iron background for<span class="page-number">12</span>
+
+<hr id="page13">
+
+Ringwraith decks. Characters in Wizard decks are called heroes, and characters in Ringwraith decks are called minions.
 
 Hazards have a dark gray metal background. These cards represent obstacles that your companies will face.
 
@@ -448,7 +481,9 @@ Your organization phase is when you assign your characters into companies, and p
 
 To bring a character into play you must have enough influence to control him. Each player has a pool of 20 general influence with which to control characters. Each point of general influence can be used to control one point of mind. A character's mind is shown in the white head symbol on the left side of the character card. A character with eight mind would use eight points of general influence. If a character is brought in under general influence, and there is not enough influence to control him at the end of the organization phase, that character is returned to your hand.
 
-Some characters also have direct influence, shown in the black hand under their mind. Characters may use direct influence to control other characters. Characters must be fully controlled by either general influence or one character's direct influence. A character controlled by direct influence is called a follower. Followers may not control other characters.
+Some characters also have direct influence, shown in the black hand under their mind. Characters may use direct influence to control other characters. Characters must be fully controlled by either general influence or one character's direct influence. A character controlled by direct influence is called a follower. Followers may not control other characters.<span class="page-number">13</span>
+
+<hr id="page14">
 
 Each deck has a Wizard or Ringwraith in it. You may play this character without using influence to control him, as the card represents you in the game. Once your Wizard or Ringwraith is in play, you may not play other characters unless either your Wizard/Ringwraith is at the site where you play the character, or you bring the character into play with direct influence. If playing a Ringwraith, see p. 19.
 
@@ -494,7 +529,9 @@ If you are using region movement, the new site must be within four regions of th
 
 A _site path_ is the sequence of regions between a site and its nearest Haven/Darkhaven. Each region in the sequence is indicated by its type, not by its name. For starter movement a company's site path is listed on the left side of the non-Haven/non-Darkhaven card they are moving to or from, or in the text box of the Haven/Darkhaven if moving between Havens/Darkhavens. For region movement, a company's site path is determined by the regions moved through.
 
-Site paths are mostly used to determine if an opponent can play a particular creature on a company. Some hazards refer to the site's site path, which is always the one listed on the site card. Havens/Darkhavens have no site path.
+Site paths are mostly used to determine if an opponent can play a particular creature on a company. Some hazards refer to the site's site path, which is always the one listed on the site card. Havens/Darkhavens have no site path.<span class="page-number">14</span>
+
+<hr id="page15">
 
 ## 3 • LONG-EVENT PHASE
 
@@ -536,6 +573,10 @@ The card will remain on the site until either:
  - _The company decides to face the site's automatic-attack_. If the on-guard card is a hazard creature keyed to the site **or** a hazard that can modify the automatic attack, then it may be revealed before the automatic attack is resolved. Revealed hazard creatures attack after the automatic-attack.
  - _The company plays a card that potentially would tap an untapped site_. If the on-guard card is a non-creature hazard, it may be revealed if it is a hazard that affects the company or a character in the company that site phase.
  - _The site phase ends_. Return the card to your hand. 
+
+<span class="page-number">15</span><br>
+
+<hr id="page16">
  
 If an on-guard card is revealed, treat it as if it had been played during the movement/hazard phase. This means whatever it is played on must have existed during the movement/hazard phase.
 
@@ -598,7 +639,9 @@ An attack by a hazard creature is defeated if it is not detainment, **and** all 
 
 If a hazard creature has multiple attacks, each **must** be defeated in order for the defender to receive MPs. 
 
-If one of the strikes was canceled or ineffectual, the attack is **not** defeated. If the attack was canceled, it is **not** defeated.
+If one of the strikes was canceled or ineffectual, the attack is **not** defeated. If the attack was canceled, it is **not** defeated.<span class="page-number">16</span>
+
+<hr id="page17">
 
 A Ringwraith player may only receive MPs from creatures with an \* next to the MPs. A Wizard player may only receive MPs from creatures without an \* next to the MPs.
 
@@ -658,7 +701,9 @@ To attempt to influence a character, make a roll and:
  - Add any other modifications from special abilities and cards played before the roll.
  - If you are a Ringwraith and your opponent is a Wizard, or vice versa, subtract five.
 
-If the modified result is greater than the target's mind, the target character and all of his non-follower cards are discarded.
+If the modified result is greater than the target's mind, the target character and all of his non-follower cards are discarded.<span class="page-number">17</span>
+
+<hr id="page18">
 
 If you reveal an identical character card from your hand before making the roll, the targets mind is treated as if it were zero. If the attempt is unsuccessful, you must discard the character card you revealed. If the attempt is successful, in addition to discarding the target, you may immediately play your card at that site, regardless of his home site. You must have enough influence to control the character in order to play him.
 
@@ -719,6 +764,10 @@ Strikes are resolved one at a time in the order chosen by the defending player. 
  5. An untapped defending character that is not himself the target of a strike may tap to give +1 to the prowess of a defending character.
  6. The defending player may play resource cards that affect the strike (up to one card that requires skill).
 
+<span class="page-number">18</span><br>
+
+<hr id="page19">
+
 Next, the attacker makes a roll and adds his modified prowess to get the strikes _final prowess_.
 
 Then, the defender makes a roll and adds his modified prowess:
@@ -768,7 +817,9 @@ Ringwraiths have many special effects, which are summarized below:
 
 ## 3 • RING ITEMS
 
-Ring special items are more complicated to play than normal items. First, you must play a gold ring item at an appropriate site. Then you must have a card or effect that _tests_ the gold ring. When you test a gold ring, make a roll. On the gold ring item will be a list of results, and what ring special items you can play. If you have one of the indicated special ring items in your hand, you may replace the gold ring item with the special ring item. In any case, discard the gold ring item when it is tested.
+Ring special items are more complicated to play than normal items. First, you must play a gold ring item at an appropriate site. Then you must have a card or effect that _tests_ the gold ring. When you test a gold ring, make a roll. On the gold ring item will be a list of results, and what ring special items you can play. If you have one of the indicated special ring items in your hand, you may replace the gold ring item with the special ring item. In any case, discard the gold ring item when it is tested.<span class="page-number">19</span>
+
+<hr id="page20">
 
 ## 4 • SIDEBOARDS
 
@@ -816,6 +867,6 @@ Certain hero resources and minion resources have the same name. These resources 
 
 ## 7 • EXHAUSTING YOUR PLAY DECK
 
-You exhaust your deck when you draw the final card from it. Discard any cards that are discarded when a deck is exhausted, and make any exchanges with the sideboard (see above). Then shuffle your discard pile. This becomes your new play deck. Place all of your discarded sites back into your location deck.
+You exhaust your deck when you draw the final card from it. Discard any cards that are discarded when a deck is exhausted, and make any exchanges with the sideboard (see above). Then shuffle your discard pile. This becomes your new play deck. Place all of your discarded sites back into your location deck.<span class="page-number">20</span>
 
 ---
