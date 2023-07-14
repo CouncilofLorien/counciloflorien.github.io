@@ -534,10 +534,14 @@ If a character directly influencing a follower is removed from play, the followe
 
 During your organization phase, you may perform **one and only one** of the following activities:
 
-{: .blank }
+{: .blank .mb-1 }
+>
+> {: .mb-1 .mt-1 }
 > - You may play a non-Ringwraith character card. You must place him at his home site _or_ at any Darkhaven site. If you do not have enough general influence or direct influence to control the character by the end of your organization phase, then the character is returned to hand. You must place him at his home site or at any Darkhaven site.
 
-{: .bullets }
+{: .bullets .mt-1 }
+>
+> {: .mt-1 }
 > - You may play a Ringwraith card if you do not have one in play. This is called "Revealing Your Ringwraith." You may **not** reveal a Ringwraith if your opponent has already revealed that Ringwraith. You must place your Ringwraith at his home site or at Minas Morgul. You need not control a Ringwraith with influence—he represents you, the player. While revealing your Ringwraith is an advantage, it also carries with it the danger of losing the game by having your Ringwraith eliminated.
 
 When you play a character, you may place him into a company already at his arrival site **or** he may become a new company (consisting of one character). In the second case, you must place the arrival site card next to the character played. If the appropriate site card is not available, you may not play the character.
@@ -811,18 +815,24 @@ There are a number of standard modifications to the prowess of each target chara
 
 Strikes are resolved one at a time as decided by the defending player. When you choose a strike to resolve, determine all of the factors affecting the strike before the roll is made (see “The Strike Sequence” on [page 33]()). To resolve a strike, the defender makes a roll (2D6) and adds his modified prowess:
 
-{: .blank }
+{: .blank .mb-1 }
+>
+> {: .mb-1 }
 > - If this result is greater than the strike’s prowess, the strike _fails_. Such a strike is defeated if its body attribute is “–” **or** if it has a body attribute and fails a body check.
 > - If this result is equal to the strike’s prowess, the strike was _ineffectual_ (i.e., the strike is avoided but not defeated).
 
-{: .bullets }
+{: .bullets .mt-1 }
+>
+> {: .mt-1 }
 > - Otherwise, the strike was _successful_ (i.e., the character was defeated). If the attack was a "detainment" attack, an untapped target is tapped. Otherwise, the target character is wounded and must make a body check.
 
 ### BODY CHECKS
 
 If a strike against a character is successful and the attack was _not_ a detainment attack, the character is wounded and must make a body check. To make a body check, the **attacker** makes a roll (2D6). If the character was already wounded before this strike, the roll is modified by +1.
 
-{: .bullets }
+{: .bullets .mb-1 }
+>
+> {: .mb-1 }
 > - The text on certain characters' cards states: "Discard on a body check result of # or #." In this case, you must discard the character if the modified body check roll is equal to either of these numbers.
 
 {: .blank }
@@ -961,11 +971,15 @@ Each character has a corruption point total. This starts at zero, but certain ca
 
 For these purposes, a “corruption card” is a _hazard card_ that gives a character corruption points. A corruption card's text includes the word "_Corruption._" in italics. Cards that force a corruption check but do not give corruption points (e.g., _Weariness of the Heart_) are not “corruption cards.” A corruption card is limited as follows. 
 
-{: .blank }
+{: .blank .mb-1 }
+>
+> {: .mb-1 }
 > - A character may have more than one corruption card, but only one may be played on him each turn.
 > - Certain corruption cards state: "Cannot be duplicated on a given character." So, a given character may only have one of each such corruption card.
 
-{: .bullets }
+{: .bullets .mt-1 }
+>
+> {: .mt-1 } 
 > - Corruption cards that may not be played on Dwarves may also not be played on Orcs.
 > - Corruption cards may not be played on Ringwraiths.
 
@@ -1467,11 +1481,12 @@ In a "4-deck game" (the "campaign game"), the Audience is called when each play 
 
 There are six different types of marshalling points; each is associated with a specific shape:
 
+{: .bullets }
 | Character Points | ![](/assets/images/charactermp.svg) | 
 | Item Points (Major, Greater, & Rings only) | ![](/assets/images/itemmp.svg) | 
 | Faction Points | ![](/assets/images/factionmp.svg) | 
 | Ally Points | ![](/assets/images/allymp.svg) | 
-| {: .bullets } Kill Points (from defeating "\*" creatures) | ![](/assets/images/killmp.svg) | 
+| Kill Points (from defeating "\*" creatures) | ![](/assets/images/killmp.svg) | 
 | Miscellaneous Points | ![](/assets/images/miscmp.svg) | 
 
 At the audience, these types of marshalling points affect your final marshalling point total in two ways (apply them in the order listed):
