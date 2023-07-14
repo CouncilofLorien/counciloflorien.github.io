@@ -21,6 +21,8 @@ RULES SUMMARY AND PLAY TIPS<br><br>
 
 | &emsp; [Introduction](#introduction) <br>**Part I — Before You Play** <br> [1 • Overview](#1--overview)    <br> [2 • The Victory Conditions](#2--victory-conditions)  <br> [3 • The Different Cards](#3--the-different-cards)  <br> [4 • Getting Ready to Play](#4--getting-ready-to-play)  <br>**Part II — Turn Sequence** <br> [1 • Untap Phase](#1--untap-phase)    <br> [2 • Organization Phase](#2--organization-phase) <br>&emsp; [Bringing a Character Into Play](#bringing-a-character-into-play)    <br>&emsp; [Reorganizing Companies](#reorganizing-companies)    <br>&emsp; [Transferring/Storing Items](#transferringstoring-items)    <br>&emsp; [Playing a New Site Card](#playing-a-new-site-card)    <br>&emsp;&emsp; [Starter Movement](#starter-movement)   <br>&emsp;&emsp; [Region Movement](#region-movement)    <br>&emsp;&emsp; [Site Paths](#site-paths)         <br> [3 • Long-event Phase](#3--long-event-phase)    <br> [4 • Movement/Hazard Phase](#4--movementhazard-phase)   <br>&emsp; [Playing Hazards](#playing-hazards)    <br>&emsp;&emsp; [On-guard Cards](#placing-cards-on-guard)    <br>&emsp; [Combat](#combat)    <br>&emsp;&emsp; [Resolving Strikes](#resolving-strikes)    <br>&emsp;&emsp; [Body Checks](#body-checks)   <br>&emsp;&emsp; [Detainment Attacks](#detainment-attacks)    <br>&emsp;&emsp; [Defeating an Attack](#defeating-an-attack)      <br> [5 • Site Phase](#5--site-phase)    <br>&emsp; [Playing an Item](#playing-an-item)    <br>&emsp; [Playing an Ally](#playing-an-ally)    <br>&emsp; [Playing a Faction](#playing-a-faction)    <br>&emsp; [Playing Minor Items](#playing-minor-items)    <br>&emsp;  [Influencing an](#influencing-an-opponents-resources)<br>&emsp;&emsp;&emsp;[Opponent's Resources](#influencing-an-opponents-resources)   <br>&emsp;&emsp; [Influencing Characters](#influencing-characters)    <br>&emsp;&emsp; [Influencing a Faction](#influencing-a-faction) |  &emsp;&emsp; [Influencing an Ally](#influencing-an-ally)    <br>&emsp;&emsp; [Influencing an Item](#influencing-an-item)     <br>&emsp; [Company vs. Company](#company-vs-company-combat) <br>&emsp;&emsp;&emsp; [Combat](#company-vs-company-combat)   <br>&emsp;&emsp; [Cards that Affect](#cards-that-affect-company-vs-company-combat)<br>&emsp;&emsp;&emsp; [Company Combat](#cards-that-affect-company-vs-company-combat)    <br>&emsp;&emsp; [Assigning Strikes](#assigning-strikes)    <br>&emsp;&emsp; [The Strike Sequence](#the-strike-sequence)<br>**Part III — Special Situations**   <br> [1 • Corruption Checks](#1--corruption-checks)<br> [2 • Ringwraiths](#2--ringwraiths)<br> [3 • Ring Items](#3--ring-items)<br> [4 • Sideboards](#4--sideboards)<br> [5 • Timing](#5--timing)<br> [6 • Unique, Cannot be Duplicated,](#6--unique-cannot-be-duplicated--manifestations)<br>&emsp;&emsp;&emsp; [and Manifestations](#6--unique-cannot-be-duplicated--manifestations)<br> [7 • Exhausting Your](#7--exhausting-your-play-deck)<br>&emsp;&emsp;&emsp; [Play Deck](#7--exhausting-your-play-deck)<br>**Part IV — Play Tips** <br> [Introduction](#introduction-1) <br> [<mecd>A</mecd> – Stewards of Gondor](#a--stewards-of-gondor)<br> [<mecd>B</mecd> – Release the Prisoners](#b--release-the-prisoners)<br> [<mecd>C</mecd> – Dwarven Quest](#c--dwarven-quest)<br> [<mecd>D</mecd> – Bargain Between Friends](#d--bargain-between-friends)<br> [<mecd>E</mecd> – Return of the King](#e--return-of-the-king)<br> [<mecd>F</mecd> – Spies and Traitors](#f--spies-and-traitors)<br> [<mecd>G</mecd> – Marauding Brood of Uglies](#g--marauding-brood-of-uglies)<br> [<mecd>H</mecd> – Stealthy Tribe](#h--stealthy-tribe)<br> [<mecd>I</mecd> – Morgul Rallying Cry](#i--morgul-rallying-cry)<br> [<mecd>J</mecd> – Seducing Nations of Men](#j--secuding-nations-of-men)<br> [Symbol Key](#symbol-key)<br> [Combat Modifications](#combat-modifications)<br> [Card Diagrams](#card-diagrams)<br> [Map of Middle-earth](#map-of-middle-earth) |
 
+<hr id="page2">
+
 {: .text-center }
 ## INTRODUCTION
 
@@ -28,13 +30,19 @@ Welcome to the _MECCG Challenge Decks_. This box contains everything you need, e
 
 This deck is preconstructed with cards available from the following sets of _MECCG_: _Middle-earth: The Wizards_, _Middle-earth: The Dragons_, _Middle-earth: Dark Minions_, _Middle-earth: The Lidless Eye_, _Middle-earth: Against the Shadow_, and _Middle-earth: The White Hand_. Also, some promotional cards printed through _The White Hand_ were used. The cards were all originally printed as common or uncommon except for 3 rares per deck. The cards were chosen to complement each other in order to achieve maximum success in play, yet be rewarding as the story of the deck unfolds. _Challenge Deck_ cards reflect published card errata and clarifications.
 
+<span class="page-number">2</span>
+
+<hr id="page3">
+
 The deck is tournament-ready for the two-deck game. This is the game format presented in the Rules Summary. It observes the following Council of Lorien tournament rules: (a) 12-creature minimum; (b) 30-card resource/hazard minimum; (c) up to three Wizards/Ringwraiths allowed in the play deck; (d) Ringwraith players having +5 general influence that cannot control characters; and (e) Ringwraiths and their starting companies beginning play at Minas Morgul or Dol Guldur. If your Wizard or Ringwraith is eliminated, you do not lose the game, but rather lose five marshalling points off your final total and continue playing. 
 
 The Council of Lorien is the sanctioning body of official _MECCG_ tournament play in the United States and Canada. For more information on the Council and coordinating a sanctioned _MECCG_ tournament, contact ICE Promotions at 1 (800) 325-0479.
 
 The deck has 30 resources and 30 hazards, a complete complement of characters and sites for carrying out the resource strategy, and a 20 card sideboard. As per the tournament rules update in _The White Hand_, the sideboard is allowed to contain up to 30 cards. You should consider adding 10 cards to the sideboard when using this deck in a two-deck tournament, as this is certainly legal and adds to your deck's ability to react to an opponent. 
 
-After becoming familiar with your challenge deck, you may want to modify it. You can bring in more powerful cards, or you may want to vary its predictability for playing against familiar opponents. You may want to make the deck even more competitive in a two-deck tournament. For example, the following hazards can benefit almost any _Challenge Deck_: _Mouth of Sauron_, _Uvatha the Horseman_, _Adunaphel_, _Daelomin at Home_, _My Precious_, _Lure of Power_, and _Durin's Bane_. Ringwraith players should consider if Dragon Factions would fit into their existing resource mix. There are 9 Dragon factions all told, each worth from 3 to 6 faction marshalling points. Some excellent resources any Wizard deck can integrate are: the ally _Tom Bombadil_, the faction _Woses of Old Pukel-land_, and the item _The Mithril-coat_.
+After becoming familiar with your challenge deck, you may want to modify it. You can bring in more powerful cards, or you may want to vary its predictability for playing against familiar opponents. You may want to make the deck even more competitive in a two-deck tournament. For example, the following hazards can benefit almost any _Challenge Deck_: _Mouth of Sauron_, _Uvatha the Horseman_, _Adunaphel_, _Daelomin at Home_, _My Precious_, _Lure of Power_, and _Durin's Bane_. Ringwraith players should consider if Dragon Factions would fit into their existing resource mix. There are 9 Dragon factions all told, each worth from 3 to 6 faction marshalling points. Some excellent resources any Wizard deck can integrate are: the ally _Tom Bombadil_, the faction _Woses of Old Pukel-land_, and the item _The Mithril-coat_.<span class="page-number">3</span>
+
+<hr id="page4">
 
 # • PART I •<br>BEFORE YOU PLAY
 
@@ -55,6 +63,12 @@ While your opponent is moving, you get to play hazards on his companies. These h
 The game ends when one of the following occurs during play:
 
  1. If your Wizard or Ringwraith is "eliminated." In this case your opponent automatically wins. As an exception in tournament play, the game continues. However, the player whose Wizard or Ringwraith is eliminated loses five MPs off his final total, and cannot reveal a new Wizard or Ringwraith.
+
+<span class="page-number">4</span>
+
+<hr id="page5">
+
+{:style="counter-reset:step-counter 1" }
  2. A Wizard player calls the Free Council. The Free Council may be called either:
       - When each play deck has been exhausted twice, the council starts at the end of the current turn.
       - After you have exhausted your play deck for the second time, you may choose to call the council. The council starts at the end of your opponent's next turn. This gives your opponent one last turn to catch up to you.
@@ -66,7 +80,9 @@ The game ends when one of the following occurs during play:
       - After your opponent has exhausted his deck twice you may play _Sudden Call_ as a hazard. If you do so, the audience is called after your next turn.
       - After your opponent has exhausted his play deck once, if he has at least 25 marshalling points, you may play _Sudden Call_ as a hazard. If you do so, the audience is called after your next turn.
 
-If your opponent has no marshalling points in a category (besides kill and miscellaneous), you may double your points in that category. No more than half of your positive MPs may come from one category.
+If your opponent has no marshalling points in a category (besides kill and miscellaneous), you may double your points in that category. No more than half of your positive MPs may come from one category.<span class="page-number">5</span>
+
+<hr id="page6">
 
 ## 3 • THE DIFFERENT CARDS
 
@@ -86,7 +102,9 @@ Before you play the game, you must separate your cards into the appropriate deck
 
 First, take all of the site cards (with the map card back) and set them aside as your location deck. Then check the Play Tips (p. 27) to see what cards belong in your starting company. Put your starting company in front of you, with the site card Rivendell (for a Wizard deck) from your location deck or Minas Morgul or Dol Guldur (for a Ringwraith deck). Set your sideboard off to the side for the moment. These are the 20 cards with the white letter of the deck on a black circle.
 
-Shuffle together all of the remaining cards. These cards are your play deck. Let your opponent cut your deck, and draw eight cards for your starting hand.
+Shuffle together all of the remaining cards. These cards are your play deck. Let your opponent cut your deck, and draw eight cards for your starting hand.<span class="page-number">6</span>
+
+<hr id="page7">
 
 Once both players have separated their decks, shuffled their play decks, and drawn their opening hand, each player should roll two dice. The player with the higher roll must go first.
 
@@ -108,6 +126,10 @@ Perform the following steps, in this order:
  2. Heal any wounded characters you have at a Haven/Darkhaven. These characters move from wounded to tapped.
  3. Untap your non-character, non-site cards. Sites do not untap.
 
+<span class="page-number">7</span>
+
+<hr id="page8">
+
 ## 2 • ORGANIZATION PHASE
 
 Your organization phase is when you assign your characters into companies, and plan your movement for the next turn. During your organization phase, you may perform the following steps in any order:
@@ -124,7 +146,9 @@ Your organization phase is when you assign your characters into companies, and p
 
 To bring a character into play you must have enough influence to control him. Each player has a pool of 20 general influence with which to control characters. Each point of general influence can be used to control one point of mind. A character's mind is shown in the white head symbol on the left side of the character card. A character with eight mind would use eight points of general influence. 
 
-Some characters also have direct influence, shown in the black hand under their mind. Characters may use direct influence to control other characters. Characters must be fully controlled by either general influence or one character's direct influence. A character controlled by direct influence is called a follower. Followers may not control other characters.
+Some characters also have direct influence, shown in the black hand under their mind. Characters may use direct influence to control other characters. Characters must be fully controlled by either general influence or one character's direct influence. A character controlled by direct influence is called a follower. Followers may not control other characters.<span class="page-number">8</span>
+
+<hr id="page9">
 
 Each deck has a Wizard or Ringwraith in it. You may play this character without using influence to control him, as the card represents you in the game. Once your Wizard or Ringwraith is in play, you may not play other characters unless either your Wizard/Ringwraith is at the site where you play the character, or you bring the character into play with direct influence. If playing a Ringwraith, see p. 23.
 
@@ -140,7 +164,9 @@ During the organization phase, you may transfer items from one character to anot
 
 An item may also be stored at a Haven/Darkhaven. The character must still make a corruption check, and if he does not fail, then the item is placed in your marshalling point pile. Stored items may not be retrieved.
 
-Some resource events may also be stored, as indicated in their card text. No corruption check is required, unless otherwise specified on the card.
+Some resource events may also be stored, as indicated in their card text. No corruption check is required, unless otherwise specified on the card.<span class="page-number">9</span>
+
+<hr id="page10">
 
 ### PLAYING A NEW SITE CARD
 
@@ -162,6 +188,11 @@ If you are using region movement, the new site must be within four regions of th
 
  - The first region contains the current site, and
  - The second region is adjacent to the first region on the map (two regions are adjacent if they are separated by one red line edge), and
+
+<span class="page-number">10</span>
+
+<hr id="page11">
+
  - The third region is adjacent to the second region, and
  - The fourth region is adjacent to the third region, and contains the new site.
  - If the 1st, 2nd, or 3rd region contains the new site, do not worry about the other regions. Only consider regions containing the sites, and any intervening regions.
@@ -180,7 +211,9 @@ During this phase do the following in this order:
  2. Discard all of your opponent's hazard long-events.
  3. If you have any resource long-events in your hand, you may play them at this time.
 
-Resource long-events may only be played during this phase. You play hazard long-events during your opponent's movement/hazard phase.
+Resource long-events may only be played during this phase. You play hazard long-events during your opponent's movement/hazard phase.<span class="page-number">11</span>
+
+<hr id="page12">
 
 ## 4 • MOVEMENT/HAZARD PHASE
 
@@ -191,7 +224,9 @@ The movement/hazard phase is when your companies move from site to site, and is 
  3. Remove the company's site of origin. Discard the site card if it is tapped and not a Haven/Darkhaven. Otherwise, return it to the location deck.
  4. You must discard any cards in excess of eight in your hand; your opponent does the same for his hand. If you have fewer than eight cards, you must draw cards until your hand has eight cards; your opponent does the same for his hand.
 
-Once all of your companies have resolved their movement/hazard phases, any two of your companies at the same site combine. Your companies are now considered to be at their new site (that is, the new site becomes its current site).
+Once all of your companies have resolved their movement/hazard phases, any two of your companies at the same site combine. Your companies are now considered to be at their new site (that is, the new site becomes its current site).<span class="page-number">12</span>
+
+<hr id="page13">
 
 ### PLAYING HAZARDS
 
@@ -210,6 +245,11 @@ During your opponent's movement/hazard phase, you may place one card _on-guard_ 
 The card will remain on the site until either:
 
  - _The company decides to face the site's automatic-attack_. If the on-guard card is a hazard creature keyed to the site **or** a hazard that can modify the automatic attack, then it may be revealed before the automatic attack is resolved. Revealed hazard creatures attack after the automatic-attack.
+
+<span class="page-number">13</span>
+
+<hr id="page14">
+
  - _The company plays a card that potentially would tap an untapped site_. If the on-guard card is a non-creature hazard, it may be revealed if it is a hazard that affects the company or a character in the company that site phase.
  - _The site phase ends_. Return the card to your hand. 
  
@@ -233,7 +273,9 @@ Strikes are assigned in the following manner:
  2. The attacking player may assign strikes to any characters that are not already assigned strikes.
  3. If the attack has more strikes than there are characters in the company, each character is assigned one strike, and the excess strikes are assigned as -1 modifications to the prowesses of whichever characters the attacker chooses.
 
-Once the strikes are assigned, the defending player resolves the strikes in any order he chooses.
+Once the strikes are assigned, the defending player resolves the strikes in any order he chooses.<span class="page-number">14</span>
+
+<hr id="page15">
 
 #### Resolving Strikes
 
@@ -255,7 +297,9 @@ Next, the defender makes a roll, and adds his modified prowess:
 
 If a non-detainment strike against a character is successful, the character must make a _body check_. To make a body check, the **attacker** makes a roll; if this value is greater than the character's body, he is eliminated. 
 
-If a non-detainment strike fails against a character, it is automatically defeated if its body is "–" **or** if the **defender** makes a roll and the result is higher than the attack's body.
+If a non-detainment strike fails against a character, it is automatically defeated if its body is "–" **or** if the **defender** makes a roll and the result is higher than the attack's body.<span class="page-number">15</span>
+
+<hr id="page16">
 
 #### Detainment Attacks
 
@@ -278,7 +322,9 @@ If one of the strikes was canceled or ineffectual, the attack is **not** defeate
 
 A Ringwraith player may only receive MPs from creatures with an \* next to the MPs. A Wizard player may only receive MPs from creatures without an \* next to the MPs.
 
-If an Orc or Troll character faces a strike from an attack from an opponent's card that was defeated, you may place the creature's card under his control as a _trophy_. Trophies are considered minor items with zero corruption points. Trophies may not be transferred or stored. Discarded trophies that are worth marshalling points to you are placed in your marshalling point pile, otherwise, they are placed in your opponent's out-of-play pile.
+If an Orc or Troll character faces a strike from an attack from an opponent's card that was defeated, you may place the creature's card under his control as a _trophy_. Trophies are considered minor items with zero corruption points. Trophies may not be transferred or stored. Discarded trophies that are worth marshalling points to you are placed in your marshalling point pile, otherwise, they are placed in your opponent's out-of-play pile.<span class="page-number">16</span>
+
+<hr id="page17">
 
 Trophies give the following bonuses based on the MP value printed on the card, with or without an \*:
 
@@ -303,7 +349,9 @@ To play an item, the item must either state it is playable at the site, or the s
 
 ### PLAYING AN ALLY
 
-Playing an ally is similar to an item. Tap an untapped character at an untapped site and place the ally with the character. This taps the site. Allies do not count as characters, except for combat and playing skill cards. They do not count for company size.
+Playing an ally is similar to an item. Tap an untapped character at an untapped site and place the ally with the character. This taps the site. Allies do not count as characters, except for combat and playing skill cards. They do not count for company size.<span class="page-number">17</span>
+
+<hr id="page18">
 
 ### PLAYING A FACTION
 
@@ -330,6 +378,11 @@ To attempt to influence a character, make a roll and:
  - Add the influencing character's unused direct influence.
  - Subtract your opponent's unused general influence.
  - If the target character is a follower, subtract his controlling character's unused direct influence.
+
+<span class="page-number">18</span>
+
+<hr id="page19">
+
  - Subtract the result of a roll by your opponent.
  - Add any other modifications from special abilities and cards played before the roll.
  - If you are a Ringwraith and your opponent is a Wizard, or vice versa, subtract five.
@@ -354,6 +407,10 @@ To influence an ally, make an influence attempt as for a character, except:
  - Subtract the unused direct influence of the character controlling the ally.
  - Revealing an identical ally card reduces the ally's mind to zero and allows you to immediately play the ally with the influencing character if the influence check is successful.
 
+<span class="page-number">19</span>
+
+<hr id="page20">
+
 #### Influencing an Item
 
 To influence an opponent's item, make an influence attempt as for a character, except:
@@ -372,7 +429,9 @@ Company vs. company combat is treated like an attack with a number of strikes eq
 
 Either player may play resources that affect the combat. However, only the defender may play cards that affect the attack as a whole. Hazards may not be played, and have no effect during company vs. company combat.
 
-The attack may be canceled like an ordinary attack. However, cards that cancel attacks from specific race types only work if each character in the attacking company has one of the races listed on the card.
+The attack may be canceled like an ordinary attack. However, cards that cancel attacks from specific race types only work if each character in the attacking company has one of the races listed on the card.<span class="page-number">20</span>
+
+<hr id="page21">
 
 #### Assigning Strikes
 
@@ -395,7 +454,9 @@ Strikes are resolved one at a time in the order chosen by the defending player. 
  5. An untapped defending character that is not himself the target of a strike may tap to give +1 to the prowess of a defending character.
  6. The defending player may play resource cards that affect the strike (up to one card that requires skill).
 
-Next, the attacker makes a roll and adds his modified prowess to get the strikes _final prowess_.
+Next, the attacker makes a roll and adds his modified prowess to get the strikes _final prowess_.<span class="page-number">21</span>
+
+<hr id="page22">
 
 Then, the defender makes a roll and adds his modified prowess:
 
@@ -417,7 +478,9 @@ Each character has a corruption point total. This starts at zero, but certain ca
 
 When a card or other effect indicates that one of your characters must make a corruption check, you must make a roll and add any appropriate modifications:
 
-**Nothing Happens**—If the modified result is greater than the character's corruption point total, nothing happens.
+**Nothing Happens**—If the modified result is greater than the character's corruption point total, nothing happens.<span class="page-number">22</span>
+
+<hr id="page23">
 
 **The Character is Discarded or Tapped**—If the modified result is equal to the character's corruption point total **or** one less than the total, a hero character _fails_ the corruption check and you must discard him along with any non-follower cards he controls. If the character is a minion, he is not considered to have failed the check, and is tapped if not already tapped.
 
@@ -437,6 +500,10 @@ Ringwraiths have many special effects, which are summarized below:
  - A Ringwraith's company may not use region movement.
  - If a body check against a Ringwraith is exactly equal to 7 or 8, then Ringwraith is returned to your hand. You do not lose the game if your Ringwraith is removed in this fashion—you may bring such a Ringwraith back into play the same way you revealed him.
 
+<span class="page-number">23</span>
+
+<hr id="page24">
+
 ## 3 • RING ITEMS
 
 Ring special items are more complicated to play than normal items. First, you must play a gold ring item at an appropriate site. Then you must have a card or effect that _tests_ the gold ring. When you test a gold ring, make a roll. On the gold ring item will be a list of results, and what ring special items you can play. If you have one of the indicated special ring items in your hand, you may replace the gold ring item with the special ring item. In any case, discard the gold ring item when it is tested.
@@ -453,7 +520,9 @@ Whenever you exhaust your play deck, you may exchange (before reshuffling) up to
 
 During you organization phase, you may tap your Ringwraith or Wizard to bring up to 5 resources and/or character cards from your sideboard into your discard pile.
 
-Alternatively, if your play deck has at least 5 cards, you may tap your Ringwraith or Wizard to bring one resource or character card from your sideboard into your play deck (reshuffle).
+Alternatively, if your play deck has at least 5 cards, you may tap your Ringwraith or Wizard to bring one resource or character card from your sideboard into your play deck (reshuffle).<span class="page-number">24</span>
+
+<hr id="page25">
 
 #### Using Your Sideboard When Your Opponent's Wizard or Ringwraith is in Play
 
@@ -473,7 +542,9 @@ A series of declared actions is called a chain of effects. You always have the o
 
 An action in a chain of effects is negated if the conditions required to perform it are negated by another action that is resolved before it in the chain of effects. 
 
-Creature hazards may not be played in response to other actions. They must always start a chain of effects.
+Creature hazards may not be played in response to other actions. They must always start a chain of effects.<span class="page-number">25</span>
+
+<hr id="page26">
 
 ## 6 • UNIQUE, CANNOT BE DUPLICATED, & MANIFESTATIONS
 
@@ -487,7 +558,9 @@ Certain hero resources and minion resources have the same name. These resources 
 
 ## 7 • EXHAUSTING YOUR PLAY DECK
 
-You exhaust your deck when you draw the final card from it. Discard any cards that are discarded when a deck is exhausted, and make any exchanges with the sideboard (p. 24). Then shuffle your discard pile. This becomes your new play deck. Place all of your discarded sites back into your location deck.
+You exhaust your deck when you draw the final card from it. Discard any cards that are discarded when a deck is exhausted, and make any exchanges with the sideboard (p. 24). Then shuffle your discard pile. This becomes your new play deck. Place all of your discarded sites back into your location deck.<span class="page-number">26</span>
+
+<hr id="page27">
 
 # • PART IV •<br>PLAY TIPS
 
@@ -497,7 +570,9 @@ The purpose of the Play Tips is to give practical advice and direction for playi
 
 As mentioned in the Rules Summary, a listing of Starting Companies are included in the Play Tips. In official _Challenge Deck_ tournament play, you must start with your designated company—the characters of each have been chosen to not conflict with those of the other _Challenge Decks_. 
 
-A particularly useful section of a deck's Play Tips is _Suggested Sites for Resources_. These have been specially selected to minimize conflicts between available sites. For example, Moria is a greater item site. However, it is the only site where _Book of Mazarbul_ is playable. For the two decks with _Book of Mazarbul_, the _Suggested Sites_ do not list Moria as an option for those decks' greater items. In general, multiple sites are listed for a particular resource, try to use the first one, everything else being equal. Site options listed later tend to also be useful for other resources in the deck. Be aware that certain resources, especially those from the sideboard, can be played during your second deck cycle. When you exhaust your deck, all of your discarded sites becomes available again for the following cycle.
+A particularly useful section of a deck's Play Tips is _Suggested Sites for Resources_. These have been specially selected to minimize conflicts between available sites. For example, Moria is a greater item site. However, it is the only site where _Book of Mazarbul_ is playable. For the two decks with _Book of Mazarbul_, the _Suggested Sites_ do not list Moria as an option for those decks' greater items. In general, multiple sites are listed for a particular resource, try to use the first one, everything else being equal. Site options listed later tend to also be useful for other resources in the deck. Be aware that certain resources, especially those from the sideboard, can be played during your second deck cycle. When you exhaust your deck, all of your discarded sites becomes available again for the following cycle.<span class="page-number">27</span>
+
+<hr id="page28">
 
 {: .text-center}
 ## <mecd>A</mecd> – STEWARDS OF GONDOR
@@ -542,7 +617,9 @@ _The White Tree_ (sideboard)—Minas Tirith
 
 #### Resource Play
 
-As quickly as possible, Adrazar and the Hobbits need find themselves in Gondor so that Adrazar can recruit factions. Stopping at the Glittering Caves along the way to pick up a major item is ideal. Glorfindel and Anborn can pick up other resources as needed.
+As quickly as possible, Adrazar and the Hobbits need find themselves in Gondor so that Adrazar can recruit factions. Stopping at the Glittering Caves along the way to pick up a major item is ideal. Glorfindel and Anborn can pick up other resources as needed.<span class="page-number">28</span>
+
+<hr id="page29">
 
 #### Saruman
 
@@ -558,7 +635,9 @@ A major aspect of an Orc/Troll strategy is forcing so many combat rolls on your 
 
 #### Sideboard
 
-After playing _Sapling of the White Tree_, tap Saruman to bring in _The White Tree_ from your sideboard. After playing _Palantir of Orthanc_, you probably want _Align Palantir_. On the hazard end of things, your sideboard has the potential of destroying a Wizard opponent's general influence. This makes your opponent vulnerable to _Muster Disperses_ and to your influence attempts against his marshalling point sources. If you recognize early in the game that your opponent is playing many factions, you may want to dedicate _An Unexpected Outpost_ to bringing these hazards into your play deck. Use _An Unexpected Outpost_ to recycle _Minions Stir_ and _Doors of Night_ otherwise.
+After playing _Sapling of the White Tree_, tap Saruman to bring in _The White Tree_ from your sideboard. After playing _Palantir of Orthanc_, you probably want _Align Palantir_. On the hazard end of things, your sideboard has the potential of destroying a Wizard opponent's general influence. This makes your opponent vulnerable to _Muster Disperses_ and to your influence attempts against his marshalling point sources. If you recognize early in the game that your opponent is playing many factions, you may want to dedicate _An Unexpected Outpost_ to bringing these hazards into your play deck. Use _An Unexpected Outpost_ to recycle _Minions Stir_ and _Doors of Night_ otherwise.<span class="page-number">29</span>
+
+<hr id="page30">
 
 {: .text-center }
 ## <mecd>B</mecd> – RELEASE THE PRISONERS
@@ -598,7 +677,9 @@ _Great-shield of Rohan_ (sideboard)—Zarak Dum or Barrow-downs
 
 #### Resource Play
 
-Alatar's deck makes active use of _Gates of Morning_. Its most powerful tactic is to cancel and discard the final hazard played against a company with _Many Turns and Doublings_ if _Gates of Morning_ is in play. _Gates of Morning_ provides a natural defense against some of the more powerful hazards that require or benefit from _Doors of Night_.
+Alatar's deck makes active use of _Gates of Morning_. Its most powerful tactic is to cancel and discard the final hazard played against a company with _Many Turns and Doublings_ if _Gates of Morning_ is in play. _Gates of Morning_ provides a natural defense against some of the more powerful hazards that require or benefit from _Doors of Night_.<span class="page-number">30</span>
+
+<hr id="page31">
 
 A patient player can elegantly rise to the threat of most hazards. Take the time to move Elrond to Rivendell to play _Vilya_. Store a _Rescue Prisoners_ as soon as you can to get its character untapped. Do not forget that you can do this at Bree, Old Forest, and the Blue Mountain Dwarf-hold in addition to at a Haven. You will face strong creatures in the mountains, but always consider tapping your characters to face strikes and waiting another turn to play that resource. You should receive many kill marshalling points.
 
@@ -614,7 +695,9 @@ The undead are fairly effortless to play. You can increase the threat of the cor
 
 #### Sideboard
 
-After playing the _Book of Mazarbul_, tap Alatar to bring in the _Blue Mountain Dwarves_. Try to both store the item and recruit the faction with one trip to the Dwarf-hold. Of course, storing this item before the Free Council begins is the most important thing.
+After playing the _Book of Mazarbul_, tap Alatar to bring in the _Blue Mountain Dwarves_. Try to both store the item and recruit the faction with one trip to the Dwarf-hold. Of course, storing this item before the Free Council begins is the most important thing.<span class="page-number">31</span>
+
+<hr id="page32">
 
 {: .text-center }
 ## <mecd>C</mecd> – DWARVEN QUEST
@@ -658,7 +741,11 @@ _Blue Mountain Dwarves_ (sideboard)—Blue Mountain Dwarf-hold
 
 This deck is loaded with items giving strong tactical advantages in play. Corruption is a natural danger when playing a large number of items, so take the time to play both _Fellowships_.
 
-In a deck using one large company, resources that allow multiple marshalling point sources to be played in one turn are needed for speed. This deck has three: _Bounty of the Hoard_, _Lucky Search_, and _Thror's Map_. Take special care to use these to their full advantage. _Thror's Map_ is the most powerful of the bunch so never discard it. Note that _Lucky Search_ can only be played at Dead Marshes, Goblin-gate, Moria, or Sarn Goriwing—not at a Dragon's Lair.
+In a deck using one large company, resources that allow multiple marshalling point sources to be played in one turn are needed for <span class="page-number">32</span>
+
+<hr id="page33">
+
+speed. This deck has three: _Bounty of the Hoard_, _Lucky Search_, and _Thror's Map_. Take special care to use these to their full advantage. _Thror's Map_ is the most powerful of the bunch so never discard it. Note that _Lucky Search_ can only be played at Dead Marshes, Goblin-gate, Moria, or Sarn Goriwing—not at a Dragon's Lair.
 
 This deck can fight creatures for marshalling points or cancel the overwhelming threats. After the first few risky turns, the Dwarven company should be in a comfortable position when attacked.
 
@@ -672,7 +759,9 @@ The hazards attempt to swarm an opponent with high frequency of play creatures. 
 
 #### Sideboard
 
-The sideboard for this deck is not as important as with other Challenge Decks. The most important play is bringing in the _Blue Mountain Dwarves_ after playing the _Book of Mazarbul_. If you believe your opponent has any sort of Dragon or Drake creatures, bring in _The Old Thrush_. 
+The sideboard for this deck is not as important as with other Challenge Decks. The most important play is bringing in the _Blue Mountain Dwarves_ after playing the _Book of Mazarbul_. If you believe your opponent has any sort of Dragon or Drake creatures, bring in _The Old Thrush_. <span class="page-number">33</span>
+
+<hr id="page34">
 
 {: .text-center }
 ## <mecd>D</mecd> – BARGAIN BETWEEN FRIENDS
@@ -717,7 +806,9 @@ _Wain-easterlings_ (sideboard)—Easterling Camp (during the 2nd deck cycle)
 
 #### Resource Play
 
-The diplomat skill rises to the forefront in Radagast's deck. You should only begrudgingly discard _New Friendships_. This card helps with corruption checks, influence attempts, and _Flatter a Foe_, which can devastate a well planned turn of hazards.
+The diplomat skill rises to the forefront in Radagast's deck. You should only begrudgingly discard _New Friendships_. This card helps with corruption checks, influence attempts, and _Flatter a Foe_, which can devastate a well planned turn of hazards.<span class="page-number">34</span>
+
+<hr id="page35">
 
 Try to play _Forewarned is Forearmed_ only in response to the play of a creature or automatic-attacks it affects. You do not want an opponent to have an easy shot at killing your _Assassin_.
 
@@ -735,7 +826,9 @@ This deck has what possibly is the best creature in the game, _Assassin_. If the
 
 Against a corruption strategy, tap Radagast to bring in _Glamour of Surpassing Excellence_ as soon as possible. This card is more effective against corruption than meets the eye.
 
-The Dragon Ahunt cards offer a nice opportunity against opponents who travel consistently in their affected regions, so quickly bring these in once you recognize you are playing the right opponent. 
+The Dragon Ahunt cards offer a nice opportunity against opponents who travel consistently in their affected regions, so quickly bring these in once you recognize you are playing the right opponent. <span class="page-number">35</span>
+
+<hr id="page36">
 
 {: .text-center }
 ## <mecd>E</mecd> – RETURN OF THE KING
@@ -778,7 +871,9 @@ _Riders of Rohan_ (sideboard)—Edoras
 
 #### Resource Play
 
-Untapped scouts can play a crucial part in the success of Gandalf's deck. They provide your main means of attack avoidance by using _Concealments_ and _Stealths_. There are enough weapons in your deck to make Aragorn and a couple of other warriors from the play deck into formidable fighters, so expect to receive a few marshalling points from creature kills.
+Untapped scouts can play a crucial part in the success of Gandalf's deck. They provide your main means of attack avoidance by using _Concealments_ and _Stealths_. There are enough weapons in your deck to make Aragorn and a couple of other warriors from the play deck into formidable fighters, so expect to receive a few marshalling points from creature kills.<span class="page-number">36</span>
+
+<hr id="page37">
 
 Ultimately, you want to give Arwen a _Lesser Ring_. This provides her with enough direct influence to control Aragorn. These two form a powerful 2-character company who require only 3 general influence. With _Return of the King_ on Aragorn, he can recruit any faction in the deck virtually automatically. If you play _Tower Guard of Minas Tirith_ before _Return of the King_, be sure to leave a character at Minas Tirith so that the site is still available to play _Return of the King_. _Return of the King_ does not require the site to tap, nor is its play limited to the site phase.
 
@@ -792,7 +887,9 @@ The hazards offer a wide variety of creatures with good attacks in a complete ra
 
 #### Sideboard
 
-Tap Gandalf to bring in the 2 factions after playing _Return of the King_. Otherwise the resources in the sideboard offer general options to defend against specific opponents. This quality of generality holds even more for the sideboard hazards.
+Tap Gandalf to bring in the 2 factions after playing _Return of the King_. Otherwise the resources in the sideboard offer general options to defend against specific opponents. This quality of generality holds even more for the sideboard hazards.<span class="page-number">37</span>
+
+<hr id="page38">
 
 {: .text-center }
 ## <mecd>F</mecd> – SPIES AND TRAITORS
@@ -831,7 +928,11 @@ _Regiment of Black Crows_ (sideboard)—The Worthy Hills, Dimrill Dale, or Bandi
 
 #### Resource Play
 
-Adunaphel's deck has many resources that need one or more extra turns of preparation before awarding marshalling points. This makes the deck slow and requires holding cards in hand for along time. What is more, unlucky dice rolling can devastate this deck. The only consolation is that your marshalling point sources are generous, and that successfully playing this deck can be very rewarding. Amassing marshalling points from characters is key, so consider seriously the play of sources of extra influence.
+Adunaphel's deck has many resources that need one or more extra turns of preparation before awarding marshalling points. This makes the deck slow and requires holding cards in hand for along time. What is more, unlucky dice rolling can devastate this deck. The only consolation is that your marshalling point sources are generous, <span class="page-number">38</span>
+
+<hr id="page39">
+
+and that successfully playing this deck can be very rewarding. Amassing marshalling points from characters is key, so consider seriously the play of sources of extra influence.
 
 It is not necessary to play both Dwarven Rings. In fact, they appear in duplicate to ease the plight of playing one. Make a reasonable effort to play both, but not at the expense of attack avoidance or easier marshalling points sources. Give the first Dwarven Ring to Asternak. He should try to influence the Wose faction with either the Dwarven Ring or _Join with that Power_.
 
@@ -847,7 +948,9 @@ To complement your difficult resource strategy is a deadly mix of Drake hazards.
 
 #### Sideboard
 
-During your opponent's first untap phase when you have few hazards in hand, half his hazard limit. Then bring _Itangast Ahunt_, _Sand-drake_, and _True Cold-drake_ to your discard pile. These cards will be available options when _From the Pits of Angband_ hits the table.
+During your opponent's first untap phase when you have few hazards in hand, half his hazard limit. Then bring _Itangast Ahunt_, _Sand-drake_, and _True Cold-drake_ to your discard pile. These cards will be available options when _From the Pits of Angband_ hits the table.<span class="page-number">39</span>
+
+<hr id="page40">
 
 {: .text-center }
 ## <mecd>G</mecd> – MARAUDING BROOD OF UGLIES
@@ -889,7 +992,11 @@ _Sable Shield_ (sideboard)—The Lonely Mountain, Caves of Ulund, Dancing Spire,
 
 #### Resource Play
 
-Dwar's deck is primed for a couple delights only Ringwraith players enjoy: trophies and the Troll trio of Burat, Tuma, and Wuluag. If at all possible, place prophies with the Lieutenant of Morgul. In fact, take any opportunity to increase his direct influence. He has multiple uses for it, such as _I'll Report You_, controlling followers, and recruiting factions. Particularly, you want to maximize the chance of successfully recruiting the _Ice-orcs_. Shagrat has almost the same potential as the Lieutenant in all these respects.
+Dwar's deck is primed for a couple delights only Ringwraith players enjoy: trophies and the Troll trio of Burat, Tuma, and Wuluag. If at all possible, place prophies with the Lieutenant of Morgul. In fact, take any opportunity to increase his direct influence. He has multiple uses <span class="page-number">40</span>
+
+<hr id="page41">
+
+for it, such as _I'll Report You_, controlling followers, and recruiting factions. Particularly, you want to maximize the chance of successfully recruiting the _Ice-orcs_. Shagrat has almost the same potential as the Lieutenant in all these respects.
 
 Sacrifice almost any other card to keep members of the Troll trio in hand until playable. In a company together, their benefits are remarkable for the influence they require. The trio in tandem effectively have only a -1 penalty to prowess when not tapping to face a strike. Consider this scenario. Burat and Tuma each face a strike from an attack. Burat does first and taps—with his prowess, the strike likely fails. Tuma face his strike next, but first taps to untap Burat. Tuma has -1 prowess against the strike for being tapped, but Burat has become untaps.
 
@@ -907,7 +1014,9 @@ Nothing tricky here. Wolves and animals do not hit as hard as other creatures, b
 
 Use Dwar to bring the _Minor Ring_ to the discard pile at his first safe opportunity. It is then available when _Gleaming Gold Ring_ is brought to him for testing. _Orders from Lugburz_ is good for getting the Lieutenant and Shagrat into one monster company.
 
-Against a Wizard opponent, consider bringing the _Rebel-talks_ in from the sideboard and recycling _Stay Her Appetite_. You may remove all of your opponent's allies in this way and double the marshalling points from your allies.
+Against a Wizard opponent, consider bringing the _Rebel-talks_ in from the sideboard and recycling _Stay Her Appetite_. You may remove all of your opponent's allies in this way and double the marshalling points from your allies.<span class="page-number">41</span>
+
+<hr id="page42">
 
 {: .text-center }
 ## <mecd>H</mecd> – STEALTHY TRIBE
@@ -953,7 +1062,11 @@ _Orcs of Mirkwood_ (sideboard)—Sarn Goriwing
 
 #### Resource Play
 
-The trickiest aspect of this deck is playing multiple site-tapping resources at a small number of Shadow-holds. The 3 _Records Undead_ are key to pulling this off. This minor item untaps Goblin-gate for the 2 allies playable there and Moria for its faction and one greater item. The nature of this deck is for the company of Orc scouts to move very little, thereby decreasing the number of creatures that attack them. Once a Shadow-hold is tapped, the deck provides a great number of playable 1 marshalling point resources including factions, allies, and items. A company should not move to an untapped Moria or Goblin-gate unless it has one of the resources specific to that site in hand.
+The trickiest aspect of this deck is playing multiple site-tapping resources at a small number of Shadow-holds. The 3 _Records Undead_ are key to pulling this off. This minor item untaps Goblin-gate for the<span class="page-number">42</span>
+
+<hr id="page43">
+
+2 allies playable there and Moria for its faction and one greater item. The nature of this deck is for the company of Orc scouts to move very little, thereby decreasing the number of creatures that attack them. Once a Shadow-hold is tapped, the deck provides a great number of playable 1 marshalling point resources including factions, allies, and items. A company should not move to an untapped Moria or Goblin-gate unless it has one of the resources specific to that site in hand.
 
 #### Hoarmurath
 
@@ -967,7 +1080,9 @@ Woe be the opponent who wanders into this hazard mix unprepared! Practicing a li
 
 Many resources in the sideboard will undoubtedly be useful against any opponent: _Orc Quarrels_, _Black Maces_, _Sudden Call_, etc. In fact, with Hoarmurath tapping most turns to bring a resource into the play deck, you effectively increase the number of resources in the play deck without increasing the number of hazards.
 
-There is nothing tricky about the sideboard hazards. Use _An Unexpected Outpost_ to recycle your best Undead creatures or enhancers if you are making good use of them. Otherwise bring in hazards from the sideboard to hit the elusive opponent in new ways.
+There is nothing tricky about the sideboard hazards. Use _An Unexpected Outpost_ to recycle your best Undead creatures or enhancers if you are making good use of them. Otherwise bring in hazards from the sideboard to hit the elusive opponent in new ways.<span class="page-number"437</span>
+
+<hr id="page44">
 
 {: .text-center }
 ## <mecd>I</mecd> – MORGUL RALLYING CRY
@@ -1013,7 +1128,11 @@ _Last Child of Ungoliant_ (sideboard)—Shelob's Lair
 
 #### Resource Play
 
-Play the _Awaiting the Calls_ on the 2 Orc Captains to free enough general influence to bring in more characters. This means you should play _That Ain't No Secret_ on the Ill-favoured Fellow since the Orc Captain at Mount Doom ideally should not move to store this event. The lesser mind characters will "shuttle" between sites, storing resources, delivering _Records Unread_ to Nurniag Camp, etc. Note that the lower mind characters from the deck can come into play under direct influence at the Dark-holds.
+Play the _Awaiting the Calls_ on the 2 Orc Captains to free enough general influence to bring in more characters. This means you should play _That Ain't No Secret_ on the Ill-favoured Fellow since the <span class="page-number">44</span>
+
+<hr id="page45">
+
+Orc Captain at Mount Doom ideally should not move to store this event. The lesser mind characters will "shuttle" between sites, storing resources, delivering _Records Unread_ to Nurniag Camp, etc. Note that the lower mind characters from the deck can come into play under direct influence at the Dark-holds.
 
 #### The Witch-king
 
@@ -1025,7 +1144,9 @@ This deck has an unusual hazard strategy that often causes great frustration for
 
 #### Sideboard
 
-If _Voices of Malice_ is not in hand, or if you will not try to influence a faction, tap the Witch-king to bring in a resource from the sideboard. _Above the Abyss_ against a Wizard opponent is invaluable. When a company of 3 or more Orcs forms at Minas Morgul, bring in _Last Child of Ungoliant_. You should play her near the end of the first deck cycle. Of course, you will need _Sudden Call_ towards the end of the first cycle. Hazard-wise, bringing in _Foul Fumes_ against certain Wizard opponents can be important. 
+If _Voices of Malice_ is not in hand, or if you will not try to influence a faction, tap the Witch-king to bring in a resource from the sideboard. _Above the Abyss_ against a Wizard opponent is invaluable. When a company of 3 or more Orcs forms at Minas Morgul, bring in _Last Child of Ungoliant_. You should play her near the end of the first deck cycle. Of course, you will need _Sudden Call_ towards the end of the first cycle. Hazard-wise, bringing in _Foul Fumes_ against certain Wizard opponents can be important. <span class="page-number">45</span>
+
+<hr id="page46">
 
 {: .text-center }
 ## <mecd>J</mecd> – SECUDING NATIONS OF MEN
@@ -1071,7 +1192,9 @@ _Orcs of Gundabad_ (sideboard)—Mount Gundabad
 
 #### Resource Play
 
-Your goal should be to play 5 of the 6 man factions at the 3 Border-holds surrounding Mordor. Essential to playing two at one site is the minor item, _Secret Book_. It may become a chore moving a character to a Border-hold just to untap it with this item, but it is often necessary.
+Your goal should be to play 5 of the 6 man factions at the 3 Border-holds surrounding Mordor. Essential to playing two at one site is the minor item, _Secret Book_. It may become a chore moving a character to a Border-hold just to untap it with this item, but it is often necessary.<span class="page-number">46</span>
+
+<hr id="page47">
 
 _High Helm_ can help The Mouth or Horseman in the Night with their influence attempts. Pay close attention to the Standard Modifications factions in play give. You may receive more bonuses here than anticipated.
 
@@ -1089,7 +1212,9 @@ The hazards have a high frequency of play so that the _Secret Books_ cycle into 
 
 #### Sideboard
 
-The sideboard contains an additional 8 marshalling points of resources. They work well coming into the deck for the second deck cycle. If your companies are in good shape tactically, tap Indur to bring some of them in sooner.
+The sideboard contains an additional 8 marshalling points of resources. They work well coming into the deck for the second deck cycle. If your companies are in good shape tactically, tap Indur to bring some of them in sooner.<span class="page-number">47</span>
+
+<hr id="page48">
 
 ## SYMBOL KEY
 
