@@ -128,9 +128,7 @@ The game ends when one of the following occurs during play:
 > 2. If you move _The One Ring_ to Barad-dur—Sauron is reunited with _The One Ring_ and you win. (See page 44 for more on Rings).
 > 3. Otherwise, the winner is decided at the _Audience with Sauron_.<br>This audience is called when one of the following occurs:
 > - When each play deck has been exhausted once, the audience starts at the end of the current turn.
-> - If your play deck has been exhausted _and_ you play a _Sudden Call_ card as a **resource** during one of your turns, the audience starts following your opponent's next turn (i.e., your opponent gets one last turn).
-
-<span class="page-number">6</span><br>
+> - If your play deck has been exhausted _and_ you play a _Sudden Call_ card as a **resource** during one of your turns, the audience starts following your opponent's next turn (i.e., your opponent gets one last turn).<span class="page-number">6</span><br>
 
 <hr id="page7">
 
