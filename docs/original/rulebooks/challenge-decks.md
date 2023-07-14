@@ -28,9 +28,7 @@ RULES SUMMARY AND PLAY TIPS<br><br>
 
 Welcome to the _MECCG Challenge Decks_. This box contains everything you need, except for a pair of dice, to challenge any opponent to a fun and competitive match of the _Middle-earth Collectible Card Game_ (_MECCG_).
 
-This deck is preconstructed with cards available from the following sets of _MECCG_: _Middle-earth: The Wizards_, _Middle-earth: The Dragons_, _Middle-earth: Dark Minions_, _Middle-earth: The Lidless Eye_, _Middle-earth: Against the Shadow_, and _Middle-earth: The White Hand_. Also, some promotional cards printed through _The White Hand_ were used. The cards were all originally printed as common or uncommon except for 3 rares per deck. The cards were chosen to complement each other in order to achieve maximum success in play, yet be rewarding as the story of the deck unfolds. _Challenge Deck_ cards reflect published card errata and clarifications.
-
-<span class="page-number">2</span>
+This deck is preconstructed with cards available from the following sets of _MECCG_: _Middle-earth: The Wizards_, _Middle-earth: The Dragons_, _Middle-earth: Dark Minions_, _Middle-earth: The Lidless Eye_, _Middle-earth: Against the Shadow_, and _Middle-earth: The White Hand_. Also, some promotional cards printed through _The White Hand_ were used. The cards were all originally printed as common or uncommon except for 3 rares per deck. The cards were chosen to complement each other in order to achieve maximum success in play, yet be rewarding as the story of the deck unfolds. _Challenge Deck_ cards reflect published card errata and clarifications.<span class="page-number">2</span>
 
 <hr id="page3">
 
@@ -64,7 +62,7 @@ The game ends when one of the following occurs during play:
 
  1. If your Wizard or Ringwraith is "eliminated." In this case your opponent automatically wins. As an exception in tournament play, the game continues. However, the player whose Wizard or Ringwraith is eliminated loses five MPs off his final total, and cannot reveal a new Wizard or Ringwraith.
 
-<span class="page-number">4</span>
+<span class="page-number">4</span><br>
 
 <hr id="page5">
 
@@ -126,7 +124,7 @@ Perform the following steps, in this order:
  2. Heal any wounded characters you have at a Haven/Darkhaven. These characters move from wounded to tapped.
  3. Untap your non-character, non-site cards. Sites do not untap.
 
-<span class="page-number">7</span>
+<span class="page-number">7</span><br>
 
 <hr id="page8">
 
@@ -189,7 +187,7 @@ If you are using region movement, the new site must be within four regions of th
  - The first region contains the current site, and
  - The second region is adjacent to the first region on the map (two regions are adjacent if they are separated by one red line edge), and
 
-<span class="page-number">10</span>
+<span class="page-number">10</span><br>
 
 <hr id="page11">
 
@@ -246,7 +244,7 @@ The card will remain on the site until either:
 
  - _The company decides to face the site's automatic-attack_. If the on-guard card is a hazard creature keyed to the site **or** a hazard that can modify the automatic attack, then it may be revealed before the automatic attack is resolved. Revealed hazard creatures attack after the automatic-attack.
 
-<span class="page-number">13</span>
+<span class="page-number">13</span><br>
 
 <hr id="page14">
 
@@ -379,7 +377,7 @@ To attempt to influence a character, make a roll and:
  - Subtract your opponent's unused general influence.
  - If the target character is a follower, subtract his controlling character's unused direct influence.
 
-<span class="page-number">18</span>
+<span class="page-number">18</span><br>
 
 <hr id="page19">
 
@@ -407,7 +405,7 @@ To influence an ally, make an influence attempt as for a character, except:
  - Subtract the unused direct influence of the character controlling the ally.
  - Revealing an identical ally card reduces the ally's mind to zero and allows you to immediately play the ally with the influencing character if the influence check is successful.
 
-<span class="page-number">19</span>
+<span class="page-number">19</span><br>
 
 <hr id="page20">
 
@@ -500,7 +498,7 @@ Ringwraiths have many special effects, which are summarized below:
  - A Ringwraith's company may not use region movement.
  - If a body check against a Ringwraith is exactly equal to 7 or 8, then Ringwraith is returned to your hand. You do not lose the game if your Ringwraith is removed in this fashion—you may bring such a Ringwraith back into play the same way you revealed him.
 
-<span class="page-number">23</span>
+<span class="page-number">23</span><br>
 
 <hr id="page24">
 
@@ -1080,7 +1078,7 @@ Woe be the opponent who wanders into this hazard mix unprepared! Practicing a li
 
 Many resources in the sideboard will undoubtedly be useful against any opponent: _Orc Quarrels_, _Black Maces_, _Sudden Call_, etc. In fact, with Hoarmurath tapping most turns to bring a resource into the play deck, you effectively increase the number of resources in the play deck without increasing the number of hazards.
 
-There is nothing tricky about the sideboard hazards. Use _An Unexpected Outpost_ to recycle your best Undead creatures or enhancers if you are making good use of them. Otherwise bring in hazards from the sideboard to hit the elusive opponent in new ways.<span class="page-number"437</span>
+There is nothing tricky about the sideboard hazards. Use _An Unexpected Outpost_ to recycle your best Undead creatures or enhancers if you are making good use of them. Otherwise bring in hazards from the sideboard to hit the elusive opponent in new ways.<span class="page-number">43</span>
 
 <hr id="page44">
 
