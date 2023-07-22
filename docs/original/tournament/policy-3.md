@@ -34,6 +34,7 @@ Each Sanctioned or Qualifier tournament has a tournament coordinator. This is th
  3. **Accommodations**---Players must be provided with reasonably comfortable accommodations. The playing environment must be clean and reasonably free of elements that pose a threat to the physical integrity of each player's cards.
  4. **Using Maps**---If standard rules are being used, an appropriate map of the regions of MECCG can be used to depict region movement (instead of using actual region cards). The text of region cards takes precedence over maps, however. Certain regions, which may appear to be adjacent on a map, in fact, are not listed as adjacent on the appropriate region cards (e.g., Rohan and Dagorlad, Cardolan and Lindon, Old Pûkel Gap and Andrast). Such regions are not considered adjacent, even when a map is used for region movement. Maps from the Middle-earth CCG Maps were designed to minimize any discrepancies.
  5. **Character Draft**---Starting characters will be determined by draft as per the guidelines printed on page 55 of the Middle-earth: The Wizards Companion. and page 68 of the Middle-earth: The Lidless Eye Companion.This method is called the Character Draft (and is detailed below).
+   {: .blank }
    > {: .text-center }
    > <h3>Character Draft</h3>
    > 
