@@ -32450,7 +32450,7 @@ permalink: /cards/all/
 
 {: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .white-text .mb-4 .p-1 .pl-2 }
-> > <div class="hazard-mp">1*</div>
+> > <div class="hazard-mp">1</div>
 > > <div class="card-name">Wargs</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }
@@ -46294,7 +46294,7 @@ permalink: /cards/all/
 {: .minion-resource-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .minion-resource-name .mb-4 .p-1 .pl-2 }
 > > <div class="hazard-mp"></div>
-> > <div class="card-name">***Playable at a Darkhaven*** <nobr>[<img src="/assets/images/dark-haven.svg">]</nobr> ***during the organization phase on your Ringwraith.*** -2 to his direct influence, +5 general influence. You may discard this during any of your organization phases. Discard this card if your Ringwraith moves.  <br>&ensp;Alternatively, ***playable if your Ringwraith is not in play.*** +5 general influence. Place this card with your Ringwraith when he comes into play. <br>&ensp;Cannot be duplicated by a given player. </div>
+> > <div class="card-name">Bade to Rule</div>
 >
 > {: .minion-resource-name .white-text .mind-di .p-1 .pl-2 }
 > > -2 ![](/assets/images/di.svg)
