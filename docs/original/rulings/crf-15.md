@@ -1627,7 +1627,7 @@ Tournament rulings are modifications and additions to the rules presented in the
  - A character in a company with just allies is by himself for the purposes of this card.
 
 #### Spider of the Morlat
- - Spider attacks from _Spider of the Morlat_ played as a permanent- event are considered detainment vs. minion companies.
+ - Spider attacks from _Spider of the Morlat_ played as a permanent-event are considered detainment vs. minion companies.
 
 #### Squint-eyed Brute
  - This is a two mind character.
