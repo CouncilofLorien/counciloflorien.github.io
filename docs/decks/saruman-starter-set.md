@@ -6,7 +6,7 @@ nav_exclude: true
 permalink: /decks/saruman-starter-set/
 ---
 
-# MORGUL SANCTUARY
+# SARUMAN STARTER SET DECK
 
 {: .d-md-none } 
 | **Resources** (24) | **Hazards** (24) |
