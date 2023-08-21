@@ -6,7 +6,7 @@ nav_exclude: true
 permalink: /decks/gandalf-starter-set/
 ---
 
-# MORGUL SANCTUARY
+# GANDALF STARTER SET DECK
 
 {: .d-md-none } 
 | **Resources** (24) | **Hazards** (24) |
