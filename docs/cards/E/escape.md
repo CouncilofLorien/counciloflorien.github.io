@@ -50,6 +50,8 @@ permalink: /cards/escape/
 > > _“‘Over the bridge!' cried Gandalf, recalling his strength. 'Fly! This is a foe beyond any of you. I must hold the narrow way. Fly!’”_ ***---&#65279;LotRII*** 
 > 
 
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Escape](/original/rulings/crf-1/#escape)<br>Cannot be played on a wounded character.
+
 ### _Middle-earth: The Wizards Starter Set_
 
 {: .hero-resource-starter .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

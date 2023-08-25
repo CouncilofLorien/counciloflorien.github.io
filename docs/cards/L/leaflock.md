@@ -57,3 +57,5 @@ permalink: /cards/leaflock/
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield">【 5/8 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Leaflock](/original/rulings/crf-1/#leaflock)<br>No player may assign Leaflock strikes from an automatic-attack.<br>May tap to give a character +1 against an automatic-attack.<br>Allows the cancelling of one creature or the cancelling and discarding of an event that targets the company in question or an entity associated with that company.

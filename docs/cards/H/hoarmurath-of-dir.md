@@ -53,3 +53,5 @@ permalink: /cards/hoarmurath-of-dir/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 15/9 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
+
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Hoarmurath of Dir](/original/rulings/crf-1/#hoarmurath-of-dir)<br>Can affect an automatic-attack.

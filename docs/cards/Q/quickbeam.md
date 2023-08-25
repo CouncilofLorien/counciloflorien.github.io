@@ -28,7 +28,7 @@ permalink: /cards/quickbeam/
 > Ally
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _**Unique.**_ _**Playable at Wellinghall.**_  May not be attacked by automatic-attacks or hazards keyed to his site. 
+> > _**Unique.**_ _**Playable at Wellinghall.**_ May not be attacked by automatic-attacks or hazards keyed to his site. 
 > > 
 > > {: .fs-3 } 
 > > _“He was tall, and seemed to be one of the younger Ents; he had smooth shining skin on his arms and legs; his lips were ruddy, and his hair was grey-green. He could bend and sway like a slender tree in the wind."_ ***---&#65279;LotRIII*** 

@@ -25,7 +25,7 @@ permalink: /cards/the-gem-deeps/
 > Under-deeps
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Glittering Caves (0), The Pukel-deeps (9), The Under-gates (6) <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>&ensp;Undead (1st attack) --- 3 strikes with 9 prowess <br>&ensp;(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Any Undead creature or Pukel-creature may also be played as this site. 
+> > _**Adjacent Sites:**_ Glittering Caves (0), The Pukel-deeps (9), The Under-gates (6) <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>&ensp;Undead (1st attack) --- 3 strikes with 9 prowess <br>&ensp;(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Any Undead creature or Pukel-creature may also be played at this site. 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -42,7 +42,7 @@ permalink: /cards/the-gem-deeps/
 > Under-deeps
 >
 > {: .minion-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Glittering Caves (0), The Pukel-deeps (9), The Under-gates (6) <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>&ensp;Undead (1st attack) --- 3 strikes with 9 prowess;  <br>&ensp;(2nd attack) --- Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Any Undead creature of Pukel-creature may be played as this site. 
+> > _**Adjacent Sites:**_ Glittering Caves (0), The Pukel-deeps (9), The Under-gates (6) <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>&ensp;Undead (1st attack) --- 3 strikes with 9 prowess;  <br>&ensp;(2nd attack) --- Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Any Undead creature of Pukel-creature may be played at this site. 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>

@@ -50,6 +50,8 @@ permalink: /cards/fellowship/
 > > <div class="card-shield">【 +1/&ndash; 】</div>
 > > <div class="card-corruption">〔 +1 〕</div>
 
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Fellowship](/original/rulings/crf-1/#fellowship)<br>Can be duplicated on a given company.
+
 ### _Middle-earth Challenge Decks_
 
 {: .hero-resource-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

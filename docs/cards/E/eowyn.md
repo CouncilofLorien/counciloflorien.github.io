@@ -67,3 +67,5 @@ permalink: /cards/eowyn/
 > {: .character-shield .p-1 .pr-2 }
 > > <div class="card-shield">【 2/7 】</div>
 > > <div class="card-corruption">&nbsp;</div>
+
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Eowyn](/original/rulings/crf-1/#eowyn)<br>The body refered to in Eowyn’s text (and other female characters) is the Nazgul’s body.

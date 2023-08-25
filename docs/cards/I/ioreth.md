@@ -40,6 +40,8 @@ permalink: /cards/ioreth/
 > > <div class="card-shield">【 0/7 】</div>
 > > <div class="card-corruption">&nbsp;</div>
 
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Ioreth](/original/rulings/crf-1/#ioreth)<br>Has errata: Replace “Healing card” with “Healing effect.”<br>Will not duplicate the untap portion of a healing effect on tapped but unwounded characters.
+
 ### _Middle-earth Challenge Decks_
 
 {: .character-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

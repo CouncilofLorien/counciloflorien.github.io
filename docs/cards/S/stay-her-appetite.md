@@ -39,5 +39,5 @@ permalink: /cards/stay-her-appetite/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > ***Playable on an ally.*** Make a roll (draw a #). If the result plus the ally's mind is greater than your opponent's general unused direct influence plus its controlling character's unused direct influence plus 5, the ally attacks its controlling character (detainment attack against a hero). This attack has 1 strike and prowess equal to the ally's normal prowess plus a dice roll (drawn #). Discard the ally if it attacks and is not defeated. 
+> > ***Playable on an ally.*** Make a roll (draw a #). If the result plus the ally's mind is greater than your opponent's unused general influence plus its controlling character's unused direct influence plus 5, the ally attacks its controlling character (detainment attack against a hero). This attack has 1 strike and prowess equal to the ally's normal prowess plus a dice roll (drawn #). Discard the ally if it attacks and is not defeated. 
 >

@@ -87,7 +87,7 @@ permalink: /cards/wargs/
 
 {: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }
 > {: .hazard-name .white-text .mb-4 .p-1 .pl-2 }
-> > <div class="hazard-mp">1*</div>
+> > <div class="hazard-mp">1</div>
 > > <div class="card-name">Wargs</div>
 >
 > {: .hazard-name .black-text .mind-di .p-1 .pl-2 }

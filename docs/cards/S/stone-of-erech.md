@@ -28,7 +28,7 @@ permalink: /cards/stone-of-erech/
 > > _Unique._ ***Playable at the Vale of Erech and if the Men of Lamedon are already in play.*** Discard if the _Men of Lamedon_ leave play. 
 > > 
 > > {: .fs-3 } 
-> > _“Then Elohir gave to Aragorn a silver horn, and he blew upon it; and it seemed to those that stood near that they heard a sound of answering horns, as if it was an echo in deep caves far away."_ ***---&#65279;LotRV*** 
+> > _“Then Elrohir gave to Aragorn a silver horn, and he blew upon it; and it seemed to those that stood near that they heard a sound of answering horns, as if it was an echo in deep caves far away."_ ***---&#65279;LotRV*** 
 > 
 
 ### _Middle-earth: The Wizards Unlimited_
@@ -45,5 +45,5 @@ permalink: /cards/stone-of-erech/
 > > _Unique._ ***Playable at the Vale of Erech and if the Men of Lamedon are already in play.*** Discard if the _Men of Lamedon_ leave play. 
 > > 
 > > {: .fs-3 } 
-> > _“Then Elohir gave to Aragorn a silver horn, and he blew upon it; and it seemed to those that stood near that they heard a sound of answering horns, as if it was an echo in deep caves far away."_ ***---&#65279;LotRV*** 
+> > _“Then Elrohir gave to Aragorn a silver horn, and he blew upon it; and it seemed to those that stood near that they heard a sound of answering horns, as if it was an echo in deep caves far away."_ ***---&#65279;LotRV*** 
 > 

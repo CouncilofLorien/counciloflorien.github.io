@@ -50,6 +50,8 @@ permalink: /cards/halfling-strength/
 > > _“‘I have known strong warriors...who would quickly have been overcome by that splinter, which you bore for seventeen days.’”_ ***---&#65279;LotRII*** 
 > 
 
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Halfling Strength](/original/rulings/crf-1/#halfling-strength)<br>If used to heal a Hobbit when healing effects affect all characters in a company, it will heal all other wounded characters in the company.
+
 ### _Middle-earth: The Wizards Starter Set_
 
 {: .hero-resource-starter .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

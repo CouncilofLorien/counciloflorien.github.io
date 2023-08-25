@@ -22992,7 +22992,7 @@ permalink: /cards/all/
 > Special Item
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ ***Playable on a non-Wizard, non-Dwarf bearer of Star-glass at a Haven*** <nobr>[<img src="/assets/images/free-haven.svg">]</nobr> ***in the same company as an untapped Galadriel.*** Tap Galadriel, replace _Star-glass_ with _Phial of Galadriel_, remove _Star-glass_ from play. Tap _Phial_ to cancel any Undead attack. Tap _Phial_ to modify the prowess of any hazard creature keyed to a Dark-domain <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr>, Dark-hold <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr>, or Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> by -2---you choose targets of such attack's strikes (regardless of tapped status, wounded status, and the normal abilities of the attack). Tap _Phial_ to give +2 prowess to any corruption check by its bearer. Cannot be transferred.  
+> > _Unique._ ***Playable on a non-Wizard, non-Dwarf bearer of Star-glass at a Haven*** <nobr>[<img src="/assets/images/free-haven.svg">]</nobr> ***in the same company as an untapped Galadriel.*** Tap Galadriel, replace _Star-glass_ with _Phial of Galadriel_, remove _Star-glass_ from play. Tap _Phial_ to cancel any Undead attack. Tap _Phial_ to modify the prowess of any hazard creature keyed to a Dark-domain <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr>, Dark-hold <nobr>[<img src="/assets/images/dark-hold.svg">]</nobr>, or Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> by -2---you choose targets of such attack's strikes (regardless of tapped status, wounded status, and the normal abilities of the attack). Tap _Phial_ to give +2 to any corruption check by its bearer. Cannot be transferred.  
 > 
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
@@ -25070,7 +25070,7 @@ permalink: /cards/all/
 > Under-deeps
 >
 > {: .hero-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Glittering Caves (0), The Pukel-deeps (9), The Under-gates (6) <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>&ensp;Undead (1st attack) --- 3 strikes with 9 prowess <br>&ensp;(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Any Undead creature or Pukel-creature may also be played as this site. 
+> > _**Adjacent Sites:**_ Glittering Caves (0), The Pukel-deeps (9), The Under-gates (6) <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>&ensp;Undead (1st attack) --- 3 strikes with 9 prowess <br>&ensp;(2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Any Undead creature or Pukel-creature may also be played at this site. 
 > 
 > {: .hero-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="hero-you-draw">&ensp;2&ensp;</span><span class="hero-opp-draw">&ensp;3&ensp;</span></div>
@@ -37713,7 +37713,7 @@ permalink: /cards/all/
 > Under-deeps
 >
 > {: .minion-site-text .black-text .p-2 }
-> > _**Adjacent Sites:**_ Glittering Caves (0), The Pukel-deeps (9), The Under-gates (6) <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>&ensp;Undead (1st attack) --- 3 strikes with 9 prowess;  <br>&ensp;(2nd attack) --- Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Any Undead creature of Pukel-creature may be played as this site. 
+> > _**Adjacent Sites:**_ Glittering Caves (0), The Pukel-deeps (9), The Under-gates (6) <br>_**Playable:**_ Items (minor, major, gold ring) <br>_**Automatic-attacks (2):**_<br>&ensp;Undead (1st attack) --- 3 strikes with 9 prowess;  <br>&ensp;(2nd attack) --- Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold <nobr>[<img src="/assets/images/shadow-hold.svg">]</nobr> <br>_**Special:**_ Any Undead creature of Pukel-creature may be played at this site. 
 > 
 > {: .minion-site-text .p-1 .pr-2 }
 > > <div class="hero-site-draw"><span class="minion-you-draw">&ensp;2&ensp;</span><span class="minion-opp-draw">&ensp;3&ensp;</span></div>
@@ -42435,7 +42435,7 @@ permalink: /cards/all/
 > Permanent-event
 >
 > {: .hero-resource-text .black-text .p-2 }
-> > _Unique._ _Sage only._ ***Playable if your sage and your Sapling of the White Tree*** _stored or borne by a character)_ ***are at Minas Tirith.*** Discard the _Sapling of the White Tree._ Minas Tirith becomes a Haven <nobr>[<img src="/assets/images/free-haven.svg">]</nobr> for the purposes of healing and playing hazards. 
+> > _Unique._ _Sage only._ ***Playable if your sage and your Sapling of the White Tree*** _(stored or borne by a character)_ ***are at Minas Tirith.*** Discard the _Sapling of the White Tree._ Minas Tirith becomes a Haven <nobr>[<img src="/assets/images/free-haven.svg">]</nobr> for the purposes of healing and playing hazards. 
 > > 
 > > {: .fs-3 } 
 > > _“And the Tree that was withered shall be renewed, and he shall plant it in high places, and the City shall be blessed."_ ***---&#65279;LotRVI*** 
@@ -47377,7 +47377,7 @@ permalink: /cards/all/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > ***Playable on an ally.*** Make a roll (draw a #). If the result plus the ally's mind is greater than your opponent's general unused direct influence plus its controlling character's unused direct influence plus 5, the ally attacks its controlling character (detainment attack against a hero). This attack has 1 strike and prowess equal to the ally's normal prowess plus a dice roll (drawn #). Discard the ally if it attacks and is not defeated. 
+> > ***Playable on an ally.*** Make a roll (draw a #). If the result plus the ally's mind is greater than your opponent's unused general influence plus its controlling character's unused direct influence plus 5, the ally attacks its controlling character (detainment attack against a hero). This attack has 1 strike and prowess equal to the ally's normal prowess plus a dice roll (drawn #). Discard the ally if it attacks and is not defeated. 
 >
 
 ---

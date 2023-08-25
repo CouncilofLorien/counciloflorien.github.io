@@ -25,7 +25,7 @@ permalink: /cards/tribal-totem/
 > Short-event
 >
 > {: .hazard-text .black-text .p-2 }
-> > ***Playable on an Orc or Troll attack before strikes are assigned;*** _does not count against the hazard limit_. The prowess and body of target attack and of all Orc and Troll attacks against this company for the rest of the turn are each reduced by three. Any body check resulting from a successful strike of such a modified attack is modified by +2. Cannot be duplicated on a given company. 
+> > ***Playable on an Orc or Troll attack before strikes are assigned;*** _does not count against the hazard limit_. The prowess and body of target attack and of all Orc and Troll attacks against this company for the rest of the turn are each reduced by three. Any body check resulting from a successful strike of such a modified attack is modified by +2. Cannot be duplicated against a given company. 
 > > 
 > > {: .fs-3 } 
 > > _“...a big fighting-orc...bearing the token of the Eye."_ ***---&#65279;LotRVI*** 

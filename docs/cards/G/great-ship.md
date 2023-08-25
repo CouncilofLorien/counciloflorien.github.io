@@ -52,6 +52,8 @@ permalink: /cards/great-ship/
 > > _“...he chose the greatest ship to be his own, and he went up into it. Then he let sound a great concourse of trumpets...”_ ***---&#65279;LotRV*** 
 > 
 
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Great Ship](/original/rulings/crf-1/#great-ship)<br>Errata: Add “Tap a character in target company during the organization phase to play Great Ship on that company.”<br>Allows the cancelling of one creature or the cancelling and discarding of an event that targets the company in question or an entity associated with that company.
+
 ### _Middle-earth Challenge Decks_
 
 {: .hero-resource-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

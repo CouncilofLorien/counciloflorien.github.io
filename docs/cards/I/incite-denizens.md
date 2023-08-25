@@ -28,6 +28,8 @@ permalink: /cards/incite-denizens/
 > > Creates an additional automatic-attack at a Ruins & Lairs <nobr>[<img src="/assets/images/ruinlair.svg">]</nobr> until the end of the turn. This is an exact duplicate (including all existing and eventual modifications to prowess, etc.) of an existing automatic-attack of your choice at the site. This automatic-attack is faced after the automatic attack it duplicates. <br>&ensp;Cannot be duplicated on a given site. 
 >
 
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Incite Denizens](/original/rulings/crf-1/#incite-denizens)<br>When copying an attack put on the site by another card it will not copy any other effects of the card.<br>When copying an attack put on the site by another card, the _Incite Denizens_ attack will disappear if the other card is discarded.
+
 ### _Middle-earth: The Lidless Eye_
 
 {: .hazard .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

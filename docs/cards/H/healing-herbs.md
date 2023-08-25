@@ -49,3 +49,5 @@ permalink: /cards/healing-herbs/
 > {: .hero-resource-name .p-1 .pr-2 }
 > > <div class="card-shield"></div>
 > > <div class="card-corruption">〔 1 〕</div>
+
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Healing Herbs](/original/rulings/crf-1/#healing-herbs)<br>Cannot stop a body check.

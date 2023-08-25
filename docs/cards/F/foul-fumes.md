@@ -45,6 +45,8 @@ permalink: /cards/foul-fumes/
 > > _Environment._ Each moving company that has a Shadow-land <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> or a Dark-domain <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr> in its site path must return to its site of origin unless it contains a ranger. <br>&ensp;Additionally, if _Doors of Night_ is in play, each non-Haven site in play with a Shadow-land <nobr>[<img src="/assets/images/shadow-land.svg">]</nobr> or a Dark-domain <nobr>[<img src="/assets/images/dark-domain.svg">]</nobr> in its site path is tapped. <br>&ensp;Cannot be duplicated. 
 >
 
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Foul Fumes](/original/rulings/crf-1/#foul-fumes)<br>Will tap all sites in play that meet the requirements.
+
 ### _Middle-earth Challenge Decks_
 
 {: .hazard-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

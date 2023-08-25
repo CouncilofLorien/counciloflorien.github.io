@@ -43,3 +43,5 @@ permalink: /cards/the-evenstar/
 > {: .hero-resource-text .black-text .p-2 }
 > > _Environment._ The prowess of one Elf is modified by +1 until the end of the turn. <br>&ensp;Additionally, if _Gates of Morning_ is in play, the prowess of each Elf is modified by +1 (until the end of turn); **and**, you may choose: one Wilderness <nobr>[<img src="/assets/images/wilderness.svg">]</nobr> to treat as a Border-land <nobr>[<img src="/assets/images/border-land.svg">]</nobr> **or** one Border-land <nobr>[<img src="/assets/images/border-land.svg">]</nobr> to treat as a Free-domain <nobr>[<img src="/assets/images/free-domain.svg">]</nobr>. <br>&ensp;Cannot be duplicated. 
 > 
+
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Evenstar](/original/rulings/crf-1/#evenstar)<br>Can be played even if there are no Wilderness in play.

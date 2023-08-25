@@ -56,3 +56,5 @@ permalink: /cards/khamul-the-easterling/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 18/8 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
+
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Khamul the Easterling](/original/rulings/crf-1/#khamul-the-easterling)<br>The number of cards discarded is set at the time of declaration.<br>The cards are discarded from opponent’s hand.

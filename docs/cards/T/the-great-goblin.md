@@ -61,3 +61,5 @@ permalink: /cards/the-great-goblin/
 > {: .hazard-name .p-1 .pr-2 }
 > > <div class="card-shield">【 12/7 】</div>
 > > <div class="card-corruption-white">&nbsp;</div>
+
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Great Goblin](/original/rulings/crf-1/#great-goblin)<br>May be played against companies using region movement.

@@ -56,6 +56,8 @@ permalink: /cards/goldberry/
 > > _“...as young and ancient as Spring...”_ ***---&#65279;LotRI***
 > 
 
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Goldberry](/original/rulings/crf-1/#goldberry)<br>No player may assign strikes to _Goldberry_<br>May tap to give a character +1 in combat.<br>You may tap _Goldbery_ to cancel an effect declared earlier in the same chain of effects that would return _Goldberry’s_ company to its site of origin.
+
 ### _Middle-earth Challenge Decks_
 
 {: .hero-resource-reprint .mx-sm-6 .mx-md-8 .mx-lg-10 .mb-4 }

@@ -50,3 +50,5 @@ permalink: /cards/eye-of-sauron/
 > > {: .fs-3 } 
 > > _“The Eye was rimmed with fire, but was itself glazed, yellow as a cat's, watchful and intent, and the black slit of its pupil opened on a pit, a window into nothing."_ ***---&#65279;LotRII*** 
 >
+
+ - [CRF 1 (Oct 1996) - CARD ERRATA AND RULINGS, Eye of Sauron](/original/rulings/crf-1/#eye-of-sauron)<br>With _Doors of Night_ in play _Eye of Sauron_ only gives +3 total to the prowess of automatic-attacks.
