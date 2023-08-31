@@ -2564,7 +2564,7 @@ The following actions may be taken in any order:
  - Each of your companies may do one of the following:
       - Stay at its current site.
       - Play another site (face down) that can be moved to directly from the company’s current site (its site of origin).
-      - _Standard Rules:_ See [pages 60]() for other options.
+      - _Standard Rules:_ See [page 60]() for other options.
 
 ### Long-event Phase
 
