@@ -1799,7 +1799,7 @@ An _untapped_ character that is not the target of a strike may tap to _support_ 
 ### CANCELING AN AUTOMATIC-ATTACK
 
 {: .bullets }
-A character at one of his home sites may tap to cancel one automatic-attack at that home site. This does not apply if a character's home site is not a specific site (e.g., an Orc with an "Any Dark~hold" home site may not cancel an attack in this fashion).
+A character at one of his home sites may tap to cancel one automatic-attack at that home site. This does not apply if a character's home site is not a specific site (e.g., an Orc with an "Any Dark-hold" home site may not cancel an attack in this fashion).
 
 {: .bullets }
 ### MARSHALLING POINTS
