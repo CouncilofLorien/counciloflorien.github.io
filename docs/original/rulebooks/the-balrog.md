@@ -132,7 +132,7 @@ movement.
 
 ## MISCELLANEOUS
 
- - If you are a Balrog player, your opponent may not play any of the following cards: _The Balrog_ (Ally), _The Black Council_, _Durin's Bane_, _Balrog of Moria_, _Reluctant Final Parting_.<br>&emsp;However, if at any time your opponent has one ofthese cards in his hand, he may remove it from play and bring a card from his sideboard into his play deck.
+ - If you are a Balrog player, your opponent may not play any of the following cards: _The Balrog_ (Ally), _The Black Council_, _Durin's Bane_, _Balrog of Moria_, _Reluctant Final Parting_.<br>&emsp;However, if at any time your opponent has one of these cards in his hand, he may remove it from play and bring a card from his sideboard into his play deck.
  - Rings are not automatically tested for a Balrog player at Barad-dur.
  - A Balrog player may not store anything at Barad-dur.
  - _Shelob_, _Spider of Morlat_, and _Balrog of Moria_ are Spawn.
