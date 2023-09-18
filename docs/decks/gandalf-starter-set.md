@@ -2,7 +2,7 @@
 layout: default
 title: Gandalf Starter Set Deck
 search_exclude: true
-nav_exclude: true
+nav_exclude: false
 permalink: /decks/gandalf-starter-set/
 ---
 
