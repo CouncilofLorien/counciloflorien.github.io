@@ -2,7 +2,7 @@
 layout: default
 title: Morgul Sanctuary
 search_exclude: true
-nav_exclude: true
+nav_exclude: false
 permalink: /decks/morgul-sanctuary/
 ---
 
