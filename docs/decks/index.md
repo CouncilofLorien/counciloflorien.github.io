@@ -9,3 +9,9 @@ has_toc: true
 permalink: /decks/
 ---
 
+## Starter Set Decks
+ - Gandalf(/decks/gandalf-starter-set/)
+ - Saruman(/decks/saruman-starter-set/)
+
+## Lidless Eye Player Guide
+ - Morgul Sanctuary(/decks/morgul-sanctuary/)
