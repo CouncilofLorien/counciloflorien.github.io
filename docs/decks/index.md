@@ -5,13 +5,13 @@ has_children: true
 search_exclude: true
 nav_exclude: true
 nav_order: 9
-has_toc: true
+has_toc: false
 permalink: /decks/
 ---
 
 ## Starter Set Decks
- - Gandalf(/decks/gandalf-starter-set/)
- - Saruman(/decks/saruman-starter-set/)
+ - [Gandalf](/decks/gandalf-starter-set/)
+ - [Saruman](/decks/saruman-starter-set/)
 
 ## Lidless Eye Player Guide
- - Morgul Sanctuary(/decks/morgul-sanctuary/)
+ - [Morgul Sanctuary](/decks/morgul-sanctuary/)
