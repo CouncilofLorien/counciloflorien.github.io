@@ -89,7 +89,7 @@ You should read the following section to get a general idea of how to play a Fal
 As a Fallen-wizard you may win in the same way a _METW_ Wizard wins: your opponent is eliminated **or** you recover _The One Ring_ **or** you have the most marshalling points at the Free Council. The following exceptions apply:
 
  - In order to win by recovering _The One Ring_ at least one _A New Ringlord_ card must be played and the conditions outlined on that card must be met.
- - The Free Council is handled normally, and victory is determined in the standard way by comparing marshalling points. However, to you (a Fallen- wizard) it is called your **Day of Reckoning** and your marshalling points reflect how far you have progressed towards completing your own personal agenda.
+ - The Free Council is handled normally, and victory is determined in the standard way by comparing marshalling points. However, to you (a Fallen-wizard) it is called your **Day of Reckoning** and your marshalling points reflect how far you have progressed towards completing your own personal agenda.
  - You do not receive marshalling points for cards stored at non-Wizardhaven sites.<span class="page-number">2</span>
 
 <hr id="page3-1">
