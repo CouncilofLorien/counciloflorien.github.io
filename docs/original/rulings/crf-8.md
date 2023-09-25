@@ -2109,7 +2109,9 @@ attack, but all other affects of the card apply.
 
 #### Sudden Call
 You may not shuffle Sudden Call into your deck while you are drawing
-cards. Drawing cards is an indivisible action.Summons from Long Sleep
+cards. Drawing cards is an indivisible action.
+
+####Summons from Long Sleep
 @ Card Erratum: Change "When the reserved creature is played, another
 Dragon or Drake may be reserved." to "Discard this card after the reserved
 creature attacks."
