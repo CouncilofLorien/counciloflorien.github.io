@@ -2223,7 +2223,7 @@ A region is adjacent to another region if and only if each region lists the othe
 
 <hr id="page79">
 
-{ .note }
+{: .note }
 > **Clarification:** Certain regions may appear to be adjacent on the maps, but turn out not to be adjacent upon examination of the lists on their cards. For example, Dagorlad and Rohan appear to be adjacent on the maps, but they are really separated by the Anduin River.
 
 ### Playing Hazards
