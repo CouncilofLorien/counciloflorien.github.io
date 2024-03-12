@@ -13,82 +13,109 @@ permalink: /the-one-rulesbook/
 THE ONE RULESBOOK
 
 {: .text-center }
-***"And into the heart of the storm,<br>with a cry that pierced all other sounds.<br>Tearing the clouds asunder, the Nazgul came…"<br>"…and all were branded with the foul token<br>of the Lidless Eye…"***<br><br>
+_A complete rulesbook including all expansion  rules and all official errata,  clarifications, and card text revisions_
+
+{: .text-center }
+***"As soon as he set foot upon the far bank of Silverlode<br> 
+a strange feeling had come upon him, and it deepened as he walked on into the Naith:<br> 
+it seemed to him that he had stepped over a bridge of time into a corner of the Eldar Days,<br> 
+and was now walking in a world that was no more.<br> 
+In Rivendell there was memory of ancient things;<br> 
+in Lórien the ancient things still lived on in the waking world.***<br><br>
 
 {: .text-center .text-gamma }
 CONTENTS
 
 | &emsp; [Introduction](#introduction)<br>&emsp;  [Using This Rulesbook](#using-this-rulesbook)<br>&emsp;  [Brief Player Turn Summary](#brief-player-turn-summary)<br>**Part I — The Starter Rules**<br>&emsp; [1 • The Victory Conditions](#1--the-victory-conditions)<br>&emsp; [2 • The Cards and Decks](#2--the-cards-and-decks)<br>&emsp; [3 • Getting Ready to Play](#3--getting-ready-to-play)<br>&emsp; [4 • The Player Turn](#4--the-player-turn)<br>&emsp; [5 • Characters & Companies](#5--characters--companies)<br>&emsp; [6 • Movement](#6--movement)<br>&emsp; [7 • Combat](#7--combat)<br>&emsp; [8 • Corruption](#8--corruption)<br>&emsp; [9 • Influence](#9--influence)<br>&emsp; [10 • Playing & Drawing Cards](#10--playing-and-drawing-cards)<br>**Part II — The Standard Rules**<br>&emsp; [1 • The Victory Conditions](#1--the-victory-conditions-1)<br>&emsp; [2 • The Cards and Decks](#2--the-cards-and-decks-1)<br>&emsp; [3 • Getting Ready to Play](#3--getting-ready-to-play-1)<br>&emsp; [4 • The Player Turn](#4--the-player-turn-1)<br>&emsp; [5 • Characters & Companies](#5--characters--companies-1)<br>&emsp; [6 • Movement](#6--movement-1)<br>&emsp; [7 • Combat](#7--combat-1)<br>&emsp; [8 • Corruption](#8--corruption-1) | &emsp; [9 • Influence](#9--influence-1)<br>&emsp; [10 • Playing & Drawing Cards](#10--playing-and-drawing-cards-1)  <br>**Part III — Optional Rules**<br>**Part IV — Using MELE With METW**<br>&emsp; [1 • The Victory Conditions](#1--the-victory-conditions-2)<br>&emsp; [2 • The Cards and Decks](#2--the-cards-and-decks-2)<br>&emsp; [3 • Getting Ready to Play](#3--getting-ready-to-play-2)<br>&emsp; [4 • The Player Turn](#4--the-player-turn-2)<br>&emsp; [5 • Characters & Companies](#5--characters--companies-2)<br>&emsp; [6 • Movement](#6--movement-2)<br>&emsp; [7 • Combat](#7--combat-2)<br>&emsp; [8 • Corruption](#8--corruption-2)<br>&emsp; [9 • Influence](#9--influence-2)<br>&emsp; [10 • Playing & Drawing Cards](#10--playing-and-drawing-cards-2)<br>**Part V — The Appendices**<br>&emsp; [Card Diagrams](#card-diagrams)<br>&emsp; [Map of Middle-earth](#map-of-middle-earth)<br>&emsp; [Map Index](#map-index)<br>&emsp; [Conventions of Tournament Play](#conventions-of-tournament-play)<br>&emsp; [Glossary](#glossary)<br>&emsp; [Full Player Turn Summary](#full-player-turn-summary)<br>&emsp; [Symbol Key](#symbol-key)<br>&emsp; [Combat Modifications](#combat-modifications) |
 
-<hr id="page2">
-
 # INTRODUCTION
 
-During the Third Age, Sauron the Dark Lord returned and threatened to enslave all of Middle-earth. However, having been defeated and almost destroyed in the Second Age, Sauron hesitated—he wanted to restore himself to full power before starting his final assault on the Free Peoples. This meant he needed to marshal overwhelming tactical and strategic resources: and, if possible, he needed to recover the lost reservoir of his vast might, The One Ring.
+_Middle-earth_ is a collectible card game based on _The Lord of the Rings_ and _The Hobbit_ that lets you step into J.R.R Tolkien’s marvelous world. If you love adventure, drama, fantasy, and fairy tales you’ll savor this game with a set of over 1,600 beautifully illustrated cards bearing fine original full color art.
 
-Sauron wanted to remain in the safety of Barad-Dur, in the center of his web of control. So his chief tools for gathering resources were his Ringwraiths the nine Nazgul. While Sauron could automatically exert control over any Nazgul, the Nazgul maintained a large amount of independence and free will—they were of little use to Sauron without it.
+The _Middle-earth Collectible Card Game_ includes the following sets and expansions:
 
-In _Middle-earth: The Lidless Eye (MELE)_, you play one of these nine Ringwraiths, the Nazgul. Your goal is to marshal enough resources so that the Dark Lord will be confident enough to send you <span class="page-number">2</span>
+***Middle-earth: The Wizards*** (_METW_, Dec. 1995) lets you play as a Wizard marshalling forces of the Free Peoples to resist Sauron until the One Ring is destroyed. 
 
-<hr id="page3">
+***Middle-earth: The Wizards Unlimited Edition*** (_METWU_, Mar. 1996) is a blue-border reprint of _The Wizards_. The rules contain significant clarifications and there are revisions to the text of several cards. 
 
-and your armies to launch the first blow necessary to crush the Free Peoples. Since your fellow Ringwraiths do not agree on how best to accomplish this goal (and of course none are as worthy as you), you must compete with them to be the first to gather enough forces to gain the Dark Lord's confidence. If your opponent has access to _Middle-earth: The Wizards_ (_METW_) cards, you will also be able to play a Ringwraith against a Wizard.
+***Middle-earth: The Dragons*** (_METD_, Jun. 1996) is an expansion for use with _The Wizards_ that lets you riddle Smaug like Bilbo the Hobbit, steal great artifacts from dragon hoards, and battle terrifying creatures who once served Sauron’s ancient master.
 
-In _The Lord of the Rings_, the Witch-king of Angmar was the first Ringwraith to succeed. Sauron dispatched him and his armies to destroy Gondor. However, due to a subtle twist of fate, he fell on the brink of victory, not against a "man" of great power, but against a woman (Eowyn) and a single Hobbit (Merry).
- 
-"Dangerous forces" in _Middle-earth: The Lidless Eye_ are represented by _hazards_ that the players use against one another. For example, if you move a character into the Lonely Mountain, your opponent could play a Dragon card as a hazard. These hazards are not "controlled" by the Ringwraiths, but rather they represent the dangerous forces that are abroad in Middle-earth, threatening everyone, good and evil characters alike. All Ringwraiths are working to bring Sauron to full power, so conflict takes the form of hazards and direct attempts to "persuade" or "dominate" each other and each other's characters and forces, rather than the form of direct conflict.<span class="page-number">3</span>
+***Middle-earth: Dark Minions*** (_MEDM_, Nov. 1996) is an expansion for use with _The Wizards_ that lets you go on quests, journey to the Under-deeps, and battle Sauron’s cruel servants. It introduces agent minions that can be used with the following set.
 
-<hr id="page4">
+***Middle-earth: The Wizards Starter Set*** (Jun. 1997) contains a step-by-step sample game guide and two 60-card decks built with reprinted cards from The Wizards and The Dragons.
+
+***Middle-earth: The Lidless Eye*** (_MELE_, Jun. 1997) lets you play as one of the nine Ringwraiths. Your goal is to marshal forces of evil so that Sauron has the confidence to send your armies to launch the first blow against the Free Peoples.
+
+***Middle-earth: Against the Shadow*** (_MEAS_, Aug. 1997) is an expansion for use with both _The Wiz-ards_ and _Lidless Eye_ that levels the playing field and enhances Wizard versus Ringwraith games.
+
+***Middle-earth: The White Hand*** (_MEWH_, Dec. 1997) is an expansion that lets you play a Fallen-wizard corrupted by power just as Saruman was. A Fallen-wizard can use cards from both _The Wizards_, _The Lidless Eye_, and their expansions.
+
+***Middle-earth: The Challenge Decks*** (_MECD_, Apr. 1998) are a set of ten ready-to-play decks using cards selected from earlier sets including one deck for each of the five Wizards and one for five different Ringwraiths.
+
+***Middle-earth: The Balrog*** (_MEBA_, Nov. 1998) lets you play as the Balrog and explore the domains and minions of Morgoth. 
+
+## OVERVIEW
+
+During the Third Age, Sauron the Dark Lord re-turned after having been defeated in the Second Age. He is restoring his power before starting his assault on the Free Peoples and seeks to recover the lost reservoir of his vast might, the One Ring.
+
+The Valar, Powers of the World, sent five of their servants to Middle-earth to unite and counsel the Free Peoples in their struggles against the Dark Lord. However, they were forbidden to dominate the peoples of Middle-earth or to match the power of Sauron with their own. These five were known as “Wizards” in Middle-earth, and individually they were called Gandalf, Saruman, Radagast, Alatar, and Pallando. 
+
+In _Middle-earth_ you play as a Wizard or Ringwraith assembling companies of characters that journey far and wide, battling creatures, mak-ing allies, gathering artifacts, and rallying the peo-ples of Middle-earth in preparation for the final battle. Even the One Ring may yet be found. 
+
+During their travels you and your opponent’s companies will face dangerous forces represented by hazards that you play against one another. These hazards are not “controlled” by the Wizards or Ringwraiths, but rather they represent forces that threaten both good and evil.
+
+The winner of the game is the player that is best prepared for the final battle based on the number of [marshalling points](#1--the-victory-conditions) that they have acquired from characters, items, allies, factions, defeated creatures, and other cards. If fate allows a Wizard player can win immediately by destroying the One Ring while a Ringwraith wins by returning it to Sauron. 
+
+## PLAYER NOTES
+
+If you have played other card games there are several factors to keep in mind:
+
+Site and region cards represent the geography of Middle-earth. They are used to control the acquisi-tion of resources, but they should not direct play. Instead, a player should examine the resources in his hand and select a site to travel to. It also helps if you preselect location cards when you put to-gether a play deck.
+
+You may draw multiple cards each turn and you will have to discard any cards beyond your hand size. Keep cards that are immediately useful during the next turn **or** that are crucial to your resource or hazard strategy.
+
+_Middle-earth_ is less tactical and more strategic than some other card games. There is combat, but it is not the dominant focus of the game.
+
+The players in _Middle-earth_ are in direct competition with each other to marshal resources but direct interaction is often limited (e.g., to influence attempts, company versus company combat, and certain cards). Typically, it is hazards that are used to directly attack the opponents’ characters and they are handled in a less controlled fashion (e.g., they are only played during your opponent’s movement/hazard phase, hazard creatures do not remain in play, etc.).
+
+A player may only play resource cards during his own turn, and a player may only play hazard cards during his opponent’s movement/hazard phase.
  
 ## USING THIS RULESBOOK
- 
-These rules are organized into five sections: the Starter Rules, the Standard Rules, the Optional Rules, Using _MELE_ with _METW_, and the Appendices. The Starter and Standard Rules are for a two-player game; multi-player rules are provided in the Optional Rules.
 
-The "Using _MELE_ with _METW_" section contains the essential rules for integrating _METW_ cards with _MELE_. The Full Player Turn Summary provided on [pages 92-94]() is a great reference for getting started
+This rulesbook is organized into four sections: The Complete Rules, Optional Rules, Card-specific Rules, and The Appendices. 
 
-{: .bullets }
->
-> {: .note }
-> > **Note:** The rules for _MELE_ are very similar to the rules for _Middle-earth: The Wizards_. Passages with major rule differences are marked with a line of bullets as a sidebar (just as this paragraph is marked). Experienced players of _METW_ can examine these passages and proceed with playing.
+_The Complete Rules_ — The complete rules for playing standard tournament-style games using all sets and expansions.
 
-_The Starter Rules_ — The Starter Rules contain all of the guidelines you need to play _MELE_. They have been designed to simplify teaching the game and to speed up play. You should use the Starter Rules if you and your opponent have never played this game before.<br>&emsp; If you are already an experienced player of collectible card games, you might initially read the Full Player Turn Summary on [pages 92-94]() **and** the sections that are not boxed. Then, as you play, you can refer to the other material that details the more complex rules and situations that may arise during play.
+_Optional Rules_ — Includes multi-player rules, solitaire variations, and additional game formats.
 
-_The Standard Rules_ — These rules assume you have already played several games using the Starter Rules. The Standard Rules consist of additions and extensions to the Starter Rules that make play and deck building more flexible, exciting, and interesting. We recommend that experienced _MELE_ players use all of the Standard Rules.
+_Card-specific Rules_ — A list of rules and expla-nations for playing specific cards.
 
-_The Optional Rules_ — Interesting variations to the standard rules. Before play begins, both players must agree on which optional rules are to be used.
-
-_Using MELE with METW_ — These guidelines explain how play proceeds when one player is a Ringwraith and one player is a Wizard. This section also describes how to integrate cards (usually hazards) from _METW_ (and vice versa) even if both players are Ringwraiths (or Wizards).<span class="page-number">4</span>
-
-<hr id="page5">
-
-{: .bullets }
-_The Appendices_ — This section contains a Full Player Turn Summary, a glossary, a color insert with card keys and a Middle-earth map (see the center of this book), and conventions of tournament play. These conventions of tournament play are also widely adopted for casual play.
+_The Appendices_ — Includes an index, map, play-er aids, sample decks, and information for collec-tors.
 
 {: .note }
 > **Note:** _MELE_ is a collectible card game—each player usually has a large number of _MELE_ cards available, but only a limited number are used in any one game. Before each game, a player must choose the cards he will use for that game. This process is referred to as "deck construction." Often deck construction is just as important (if not more important) than actual play.
  
 ## BRIEF PLAYER TURN SUMMARY
  
-Play consists of a series of "Player Turns." During your turn, follow the steps outlined in this turn summary. Then, your opponent does the same during his turn. You and your opponent alternate turns until the game ends. 
+Before playing each player decides to be a Wizard, Fallen-wizard, Ringwraith, Sauron, or the Balrog and constructs a play deck containing characters, resources, and hazards usable by that type of player. Sites and regions form a separate location deck. 
 
-This brief player turn summary is included here to give you a very basic idea of how play proceeds; refer to pages 92-94 for the Full Player Turn Summary.
+Game setup involves each player choosing a starting company, drawing a hand of 8 cards, and rolling dice where the high roller goes first. 
 
-_Untap Phase_ — Heal (if at a Darkhaven site) **or** untap your characters and other tapped non-site cards.
+The players alternate turns until the End-of-Game Council is held. There the winner is the player that has gathered the most marshalling points (printed in the upper-left corner) from char-acters, resources, defeated creatures, and other cards. A Wizard player can win by destroying The One Ring while other types of players win by seiz-ing its power.
 
-_Organization Phase_ — You may play a character, reorganize your companies, transfer/store items, and decide where each of your companies is going to move.
+Each turn consists of the following phases: 
 
-_Long-event Phase_ — Remove and play certain "long-event" cards.
+_Untap Phase_ — Untap your characters and other non-site cards, then heal (rotate to tapped) your wounded characters and allies at a haven.
 
-_Movement/Hazard Phase_ — You may move each of your companies to its new site, while your opponent plays hazards on each of your companies.
+_Organization Phase_ — You may play one character, reorganize your companies, transfer or store items, and decide whether and where each of your companies is going to move.
 
-_Site Phase_ — You may have each of your companies enter its current site to attempt to play an item, ally, faction, etc.
+_Long-event Phase_ — Long-events in play are dis-carded. New long-events may be played.
 
-_End-of-Turn Phase_ — Your turn ends.<span class="page-number">5</span>
+_Movement/Hazard Phase_ — Each of your compa-nies move to their new site and draw cards (if they chose to move). They face hazards played by your opponent. Afterwards, both players draw or discard back to 8 cards.
 
-{: .note }
-> **Note:** For purposes of readability, these rules use the standard masculine pronouns when referring to a person of uncertain gender. In such cases, these pronouns are intended to convey the meanings: she/he, him/her, etc.
+_Site Phase_ — Each of your companies decides whether to enter their current site and face its automatic-attack. If they do, they can play an item, ally, faction, or other card.
 
-<hr id="page6">
+_End-of-Turn Phase_ — Both players may discard one card and then draw or discard back to 8. The End-of-Game Council may be called if var-ious conditions are met.
 
 # • PART I •<br>STARTER RULES
 
@@ -121,9 +148,7 @@ The game ends when one of the following occurs during play:
 > 2. If you move _The One Ring_ to Barad-dur—Sauron is reunited with _The One Ring_ and you win. (See page 44 for more on Rings).
 > 3. Otherwise, the winner is decided at the _Audience with Sauron_.<br>This audience is called when one of the following occurs:
 > - When each play deck has been exhausted once, the audience starts at the end of the current turn.
-> - If your play deck has been exhausted _and_ you play a _Sudden Call_ card as a **resource** during one of your turns, the audience starts following your opponent's next turn (i.e., your opponent gets one last turn).<span class="page-number">6</span><br>
-
-<hr id="page7">
+> - If your play deck has been exhausted _and_ you play a _Sudden Call_ card as a **resource** during one of your turns, the audience starts following your opponent's next turn (i.e., your opponent gets one last turn).
 
 {: .bullets }
 > - If you have at least 20 marshalling points _and_ you play a _Sudden Call_ card as a **resource** during one of your turns, the audience starts following your opponent's next turn (i.e., your opponent gets one last turn).
@@ -164,10 +189,6 @@ Marshalling  points are printed on the top left corner of the cards that award t
 > 
 > **Clarification:** If both players have the same number of marshalling points at the Audience with Sauron, the game ends in a tie.
 
-<br><span class="page-number">7</span>
-
-<hr id="page8">
-
 {: .note }
 > **Example:** Our two players are Wendy and Nick. Wendy has 20 marshalling points and Nick only had 18. During her turn, Wendy plays a _Sudden Call_ card—Sauron calls the audience. Each player has one company in Carn Dum (CP = Corruption Points. MP = Marshalling Points):
 >
@@ -205,10 +226,6 @@ Marshalling  points are printed on the top left corner of the cards that award t
 > Since Wendy played the _Sudden Call_ card, Nick gets one final turn. Nick moves his company to Cameth Brin. After facing hazards, he plays the _Hillmen_ faction for 4 more MPs. Nick now has 22 MPs and will win the game if he does not lose MPs due to characters failing corruption checks.
 > 
 > In this example, any character with 4 or more corruption points (the Troll-chief and Tarcil) could fail his corruption check (see pages 35-38 for a detailed explanation and example of corruption checks). If the Troll-chief fails his corruption check, Wendy loses 6 of her MPs. If Tarcil fails his corruption check, Nick loses 7 of his MPs.
-
-<br><span class="page-number">8</span>
-
-<hr id="page9">
 
 {: .bullets }
 ## 2 • THE CARDS AND DECKS
@@ -250,18 +267,10 @@ _Location Deck_ — This deck consists of your site cards. You may examine and s
 {: .note }
 > **Note:** Site cards and regions represent the geography of Middle-earth. They are used to control the acquisition of resources. Each turn, examine the resources in your hand and select a nearby site to travel to. Do not worry too much about which site to use, just pick one that has the resource type you want to play. It also helps if you preselect the location cards you are most likely to use. See the color insert for a map of Middle-earth.
 
-<br><span class="page-number">9</span>
-
-<hr id="page10">
-
 _Play Deck_ — This deck consists of your resource cards, hazards cards, and character cards. You randomly draw cards from this deck during play. Your play deck starts with an equal number of resource cards and hazard cards.<br>&emsp;You can use resources at certain sites and under certain conditions. Resources include: items, factions, allies, events, etc. _You may only play resource cards during your own turn_. You use hazards to hinder and attack your opponent’s characters in order to prevent them from marshalling resources. _You may only play hazard cards during your opponent’s movement/hazard phase_.
 
 {: .text-center }
 ![](/assets/images/cardsanddecks.svg)
-
-<br><span class="page-number">10</span>
-
-<hr id="page11">
 
 {: .note} 
 > **Clarification:** The card, _Twilight_, is an exception to this rule—it can be played at anytime, either as a resource or as a hazard (it does not count against the hazard limit). Certain other cards specifically state when they may be played.
@@ -284,10 +293,6 @@ _Marshalling Point Pile_ (_MP pile_) — In addition to marshalling points from 
 {: .note }
 >  **Note:** Because hazard cards are distinct from resource cards, you may not play your hazards on your side of the playing surface. _At the end of a game, it will be obvious whose cards are whose, i.e., hazards in your area must belong to your opponent_. We suggest adopting a neutral zone between each player’s side of the playing surface. Non-targeted long-events and permanent-events can be played in this neutral zone.
 
-<br><span class="page-number">11</span>
-
-<hr id="page12">
-
 {: .note }
 > **Note:** You may freely examine the contents of your discard pile; your opponent may not. The contents of your out-of-play and marshalling point piles may be freely examined by you and your opponent.
 > 
@@ -303,9 +308,7 @@ Keywords do not necessarily carry any rules (though some do like _Unique_ and _C
 
 ### CARD COMBINATIONS
 
-Often combinations of several cards and other actions are required to achieve a desired result. For example, to bring _The One Ring_ into play requires: traveling to a site to play one of the Gold Ring cards, some sort of “Test” card or ability, _The One Ring_ card, and a high dice roll. In addition, the _Scroll of Isildur_ card will improve the chances of successfully getting _The One Ring_ into play.<span class="page-number">12</span>
-
-<hr id="page13">
+Often combinations of several cards and other actions are required to achieve a desired result. For example, to bring _The One Ring_ into play requires: traveling to a site to play one of the Gold Ring cards, some sort of “Test” card or ability, _The One Ring_ card, and a high dice roll. In addition, the _Scroll of Isildur_ card will improve the chances of successfully getting _The One Ring_ into play.
 
 ### TAPPING AND CARD POSITIONS
 
@@ -328,10 +331,6 @@ Only one of each “unique” card may be included in your play deck and startin
 
 {: .note }
 > If a unique card is eliminated, that card may not be brought back into play by either player.
-
-<br><span class="page-number">13</span>
-
-<hr id="page14">
 
 ## 3 • GETTING READY TO PLAY
 
@@ -377,10 +376,6 @@ Follow these steps to get ready to play:
 > 
 > **Clarification:** The initial 1-6 characters and two minor items do count toward the “one-unique” and “three-others” limits on the play deck. However, they do **not** count towards the number of resource and character cards in your starting play deck.
 
-<br><span class="page-number">14</span>
-
-<hr id="page15">
-
 ## 4 • THE PLAYER TURN
 
 Play consists of a series of “Player Turns.” During your turn, you take various actions during the following phases. Then, your opponent does the same during his turn.
@@ -407,10 +402,6 @@ A detailed Full Player Turn Summary is presented on [p. 92-94]().
 > 
 > **Clarification:** A site taps when one item, ally, or faction card is played at that site. The play of certain other resource cards may tap sites—such a card will specifically state that playing it taps the site. Non-Darkhaven sites only normally untap after being discarded and after your play deck is exhausted. So, each time through your play deck, only one such card may normally be played at a given non-Darkhaven site. Darkhaven cards, whether tapped or not, always return to your location deck untapped.
 
-<br><span class="page-number">15</span>
-
-<hr id="page16">
-
 ## 5 • CHARACTERS & COMPANIES
 
 As a player, you influence and control a number of characters that move and act in the world of Middle-earth. Each character’s abilities are defined by these attributes: race, skills, direct influence, prowess (offense), body (defense), mind, marshalling points, and special abilities (e.g., corruption check modifiers). A character can be _eliminated_ and removed from play as a result of combat (failing a body check) or corruption (failing a corruption check).
@@ -428,10 +419,6 @@ One company can split into two or more companies only at a Darkhaven (use two Da
 
 {: .note } 
 > **Note:** The number of characters you have in play limits the number of actions you may take during a given turn. You use your other characters’ direct influence on a character to bring that character into play and to keep him in play. A character in play can move and take actions (e.g., defending against attacks, influencing, etc.). Items, allies, and other cards representing things a character acquires and controls are placed under his card.
-
-<br><span class="page-number">16</span>
-
-<hr id="page17">
 
 {: .note } 
 > **Note:** Sometimes two or more companies combine and the resulting company has two or more of the same cards that say: "cannot be duplicated on a given company." When this happens, immediately discard all but one of those cards (your choice). 
@@ -458,9 +445,7 @@ _Direct Influence_ \[  ![](/assets/images/di.svg) ]: A character’s direct infl
 
 _Prowess_ \[lower left, to left of “/”]: A character’s prowess is a measure of a character’s offensive capabilities in combat.
 
-_Body_ \[lower left, to right of “/”]: A character’s body is a measure of how difficult it is to physically eliminate the character. This is a mixture of the ability to avoid an attack and the ability to absorb or deflect an attack (e.g., armor, shield, blocking).<span class="page-number">17</span>
-
-<hr id="page18">
+_Body_ \[lower left, to right of “/”]: A character’s body is a measure of how difficult it is to physically eliminate the character. This is a mixture of the ability to avoid an attack and the ability to absorb or deflect an attack (e.g., armor, shield, blocking).
 
 {: .bullets }
 _Mind_ \[  ![](/assets/images/mind.svg) ]: A character’s mind determines how many influence points (a Ringwraith’s general influence points or a character’s direct influence points) are required to keep this character in play. Your Ringwraith has no mind and requires no influence to control.
@@ -482,9 +467,7 @@ Some characters have a direct influence attribute of one or more. If such a char
  - The total mind attributes of all of a character’s followers may not exceed his direct influence.
  - A character can take control of another character that is in play only if both characters are in the same company.
  
-A follower does not require influence points from your general pool, and he must remain stacked under the character exerting the direct influence. A follower may not use his direct influence to control characters (i.e., a follower may not have his own followers). <span class="page-number">18</span>
-
-<hr id="page19">
+A follower does not require influence points from your general pool, and he must remain stacked under the character exerting the direct influence. A follower may not use his direct influence to control characters (i.e., a follower may not have his own followers).
 
 _A follower is handled in all other ways as a normal character_ (e.g., counts for company size, takes normal actions, etc.). 
 
@@ -519,10 +502,6 @@ If a character directly influencing a follower is removed from play, the followe
 > 
 > Wendy’s company size is 6 and she has 5 unused general influence; Nicks’s company size is 6 and he has 0 unused general influence.
 
-<br><span class="page-number">19</span>
-
-<hr id="page20">
-
 ### BRINGING CHARACTERS INTO PLAY
 
 During your organization phase, you may perform **one and only one** of the following activities:
@@ -547,10 +526,6 @@ into play again by either player.
 
 {: .note }
 > **Example:** In the p. 8 example, Wendy calls the audience. Then Nick takes his final turn. His company is at a Darkhaven, so he may play a character during his organization phase. Nick has Grishnakh and an Orc Tracker in his hand (each has a 3 mind attribute). Nick would like to play Grishnakh, but he is unique and Wendy already has him in play. The Orc Tracker is not unique, so Nick plays him. Nick has no unused general influence, so the Orc Tracker must be placed under the control of one of Nick's non-follower characters with at least 3 unused direct influence. Only Nick's non-follower Orc Captain meets these requirements.
-
-<br><span class="page-number">20</span>
-
-<hr id="page21">
 
 ### COMPANIES
 
@@ -580,10 +555,6 @@ The text for certain cards distinguish between overt companies and covert compan
 > {: .note }
 > > **Note:** An overt company is readily identifiable as an evil force (i.e., it has Orcs, Trolls, etc.), and thus is subject to direct conflict with most Free Peoples. A covert company is not readily identifiable as an evil force, and thus can operate relatively freely in the domains of the Free Peoples.
 
-<br><span class="page-number">21</span>
-
-<hr id="page21">
-
 ### HEALING
 
 Each of your characters at a Darkhaven may heal during the untap phase of your turn. Such a character moves from a wounded position to a tapped position. In addition, certain cards can heal characters when they are played (e.g., _Foul-smelling Paste_).
@@ -608,9 +579,7 @@ In _MELE_ the lands of northwest Middle-earth are represented by regions. The si
 > 
 > **Note:** By using the site cards and site cards only, a company can move from any site to any other site. First, if necessary, the company moves to the nearest Darkhaven. Then, if necessary, it moves to other Darkhavens. Finally, it moves from that Haven to the destination site.
 
-A company commits to moving by playing a _new site card_ (face down) during its organization phase. A company does not have to move during a given turn (i.e., it does not play a new site card).<span class="page-number">22</span>
-
-<hr id="page23">
+A company commits to moving by playing a _new site card_ (face down) during its organization phase. A company does not have to move during a given turn (i.e., it does not play a new site card).
 
 At the beginning of its movement/hazard phase, a moving company's current site card becomes its _site of origin_—the company is considered to be en route to its new site card (i.e., the company is moving).
 
@@ -632,10 +601,6 @@ If the company’s site of origin is a Darkhaven, the new site card must meet on
 {: .note }
 > **Clarification:** If a company is not moving, no cards are drawn. If a company is moving to a non-Darkhaven site, you _may_ draw up to the # of cards indicated by the site that it is _moving to_ (at least one card must be drawn); your opponent does the same. If a company is moving to a Darkhaven site, you _may_ draw up to the # of cards indicated by the site that it is _moving from_ (at least one card must be drawn); your opponent does the same.
 
-<br><span class="page-number">23</span>
-
-<hr id="page24">
-
 {: .bullets }
 {: .text-center }
 ![](/assets/images/mele-starter-movement.svg)
@@ -648,10 +613,6 @@ If the company’s site of origin is a Darkhaven, the new site card must meet on
 > - At the end of its movement/hazard phase, the site of origin is removed and the moving company’s new site card becomes the company’s current site card (unless the company is forced to return to its site of origin).
 > 
 > **Suggestion:** To help decide where a company should move, look at the resource cards in your hand. Then decide to which of your available sites to move. For example, if you have a major item, go to a site where a major item can be played.
-
-<br><span class="page-number">24</span>
-
-<hr id="page24">
 
 {: .note }
 > **Example:** Wendy’s company is at Barad-dur (i.e., its current site) and wants to go to The Lonely Mountain to try and bring the Smaug Aroused faction into play. Barad-dur’s nearest Darkhaven is Minas Morgul, while The Lonely Mountain's nearest Darkhaven is Dol Guldur. 
@@ -672,10 +633,6 @@ The company containing your Ringwraith may freely move from Darkhaven to Darkhav
 > 
 > {: .note }
 > > **Example:** Suppose Ren the Ringwraith is at Barad-dur and wants to move to The Lonely Mountain as outlined in the previous example. On his first turn, he moves to Minas Morgul—he does not need a special card because he is moving from a non-Darkhaven site to a Darkhaven. On his second turn, he moves from Minas Morgul to Dol Guldur as outlined—he does not need a special card because he is moving from a Darkhaven to a Darkhaven. On his third turn, he plays a _Black Rider_ card in order to move from Dol Guldur (a Darkhaven) to The Lonely Mountain (a non-Darkhaven).
-
-<br><span class="page-number">25</span>
-
-<hr id="page26">
 
 ### SITE PATHS
 
@@ -701,10 +658,6 @@ A _site path_ is the sequence of regions between a site and its nearest Darkhave
 > **Example:** The Lonely Mountain site’s nearest Darkhaven is the Dol Guldur site. The symbol for Wilderness is ![](/assets/images/wilderness.svg), the symbol for Dark-domain is ![](/assets/images/dark-domain.svg). So the site path between Dol Guldur and the Lonely Mountain is: ![](/assets/images/dark-domain.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg). 
 > 
 > The regions between these two sites are Southern Mirkwood (Dark-domain), Heart of Mirkwood (Wilderness), and Northern Rhovanion (Wilderness).
-
-<br><span class="page-number">26</span>
-
-<hr id="page27">
 
 {: .note }
 > **Example:** In the Example of movement from Barad-dur to The Lonely Mountain on [page 25](), the first site path used was from Barad-dur to Minas Morgul: ![](/assets/images/dark-domain.svg) ![](/assets/images/shadow-land.svg). During that movement/hazard phase, Nick (Wendy’s opponent) can play hazard creatures keyed to Dark-domains (![](/assets/images/dark-domain.svg)), Shadow-lands (![](/assets/images/shadow-land.svg)), and Darkhavens (the new site). During the next turn, the company uses the site path from Minas Morgul to Dol Guldur: ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg) ![](/assets/images/dark-domain.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg). During that movement/hazard phase, Nick can play hazard creatures keyed to Shadow-lands (![](/assets/images/shadow-land.svg)), double Shadow-lands (![](/assets/images/shadow-land.svg) ![](/assets/images/shadow-land.svg)), Dark-domains (![](/assets/images/dark-domain.svg)), double Dark-domains (![](/assets/images/dark-domain.svg) ![](/assets/images/dark-domain.svg)) and Darkhavens (the new site). Finally, the company takes one turn to move from Dol Guldur to The Lonely Mountain using the site path, ![](/assets/images/shadow-land.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg). Nick can play hazard creatures keyed to Wilderness (![](/assets/images/wilderness.svg)), double Wilderness (![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg)), Shadow-lands (![](/assets/images/border-land.svg)), double Shadow-lands (![](/assets/images/border-land.svg) ![](/assets/images/border-land.svg)), and Ruins & Lairs (the new site).
@@ -739,10 +692,6 @@ A _site path_ is the sequence of regions between a site and its nearest Darkhave
 >
 >_Dark-holds_ \[ ![](/assets/images/dark-hold.svg) ]: Sites with heavy concentrations of Shadow-forces (Dol Guldur, Barad-dur, Minas Morgul, etc.).
 
-<br><span class="page-number">27</span>
-
-<hr id="page27">
-
 ## 7 • COMBAT
 
 Combat normally occurs when one of three things happen:
@@ -768,10 +717,6 @@ Unless the attack states otherwise, the defender chooses which _untapped_ charac
 > **Clarification:** The defender may choose not to assign strikes that he is allowed to assign. These strikes are then assigned by the attacker to any characters that have not yet been assigned strikes.
 > 
 > **Clarification:** All of an attack’s strikes must be assigned to the characters in the defending company or as modifiers to the strikes assigned. The attacker may **not** choose to not apply strikes or excess strike modifiers. Only those strikes that are assigned need be defeated for the creature’s marshalling points to be received by the defender.
-
-<br><span class="page-number">28</span>
-
-<hr id="page29">
 
 #### Strike Modifications
 
@@ -799,10 +744,6 @@ There are a number of standard modifications to the prowess of each target chara
 > > **Clarification:** The prowess modifications marked with an * above are applied for a given strike and then are removed immediately after the attack is resolved. That is they do not carry over from strike to strike.
 > > 
 > > **Note:** Ignore effects that modify the number of strikes for an attack that states that "every character in the target company faces one strike" (unless an effect reduces the number of strikes to a specific number, e.g., _Veils of Shadow_).
-
-<br><span class="page-number">29</span>
-
-<hr id="page30">
  
 #### Resolving Strikes
 
@@ -840,10 +781,6 @@ If a strike against a character is successful and the attack was _not_ a detainm
 {: .note }
 > **Clarification:** If a character was already wounded before a strike wounds him again, the resulting body check modification is always +1 (regardless of how many times a character is wounded).
 
-<br><span class="page-number">30</span>
-
-<hr id="page31">
-
 {: .note }
 > **Clarification:** If a strike against a character is successful, a body check must be resolved for the character before anything else happens. For example, _Foul Smelling Paste_ may not be used to heal such a character until after the body check is resolved (of course, if the character is eliminated, the _Foul Smelling Paste_ may not be used on him at all).
 
@@ -865,9 +802,7 @@ Certain attacks detain targets rather than wound them. When a strike from a deta
 > - Any Orc, Troll, Undead, or Man attack keyed to Shadow-land is a detainment attack.
 
  {: .bullets }
-The parameters above apply if the attack is keyed to the region symbol or site symbol (by type) **or** if keyed to a region or site by name which happens to be of the appropriate type (i.e. has the appropriate symbol).<span class="page-number">31</span>
-
-<hr id="page32">
+The parameters above apply if the attack is keyed to the region symbol or site symbol (by type) **or** if keyed to a region or site by name which happens to be of the appropriate type (i.e. has the appropriate symbol).
 
 {: .bullets }
 ### DEFEATING AN ATTACK
@@ -895,9 +830,7 @@ If a hazard creature has multiple attacks, each **must** be defeated in order fo
 #### Marshalling Points
 
 {: .bullets }
-You receive creature marshalling points for defeating a creature with an * next to its marshalling points. Place the card in your marshalling point pile.<span class="page-number">32</span>
-
-<hr id="page33">
+You receive creature marshalling points for defeating a creature with an * next to its marshalling points. Place the card in your marshalling point pile.
 
 {: .bullets }
 If you defeat a creature that does _not_ have an * next to its marshalling points, place the card in your out-of-play pile. You do **not** not receive marshalling points for eliminating it.
@@ -925,10 +858,6 @@ All of the factors affecting the strike must be decided during the strike sequen
 > 
 > Similarly, the body modification and maximum for a shield, armor, or helmet is applied before any other modifications.
 
-<br><span class="page-number">33</span>
-
-<hr id="page34">
-
 {: .note }
 > **Example of Combat** _\[(#/#) means (prowess/body)]_
 > 
@@ -943,10 +872,6 @@ All of the factors affecting the strike must be decided during the strike sequen
 > Your opponent sees that one character, Dogrib, is untapped. He plays an _Elf-lord Revealed in Wrath_ (15/9) (a fourth hazard) keyed to the Shadow-land (_Doors of Night_ is not in play) and reasons that Dogrib will have to take its one very powerful strike with little chance of canceling it. (After all, if you give up the option of assigning the one strike to your untapped character, namely Dogrib, the opponent will be able to choose, from all 5 characters, which will take the strike). Your opponent does not see what Dogrib sees. Before assigning the strike, Dogrib discards his _Foul-smelling Paste_ to heal and untap Nevido Smod, who then announces he is taking the strike. The _Elf-lord_ is keyed to the Shadow-land, so Nevido Smod taps his _Shadow-cloak_ to cancel its single strike. The _Elf-lord_ is discarded.
 > 
 > The opponent announces he will play no more hazards and the company breathes a sigh of relief. Broin will be able to heal at the start of the next turn since his company will be at Geann a-Lisch, a Haven.
-
-<br><span class="page-number">35</span>
-
-<hr id="page36">
 
 ## 8 • CORRUPTION
 
@@ -978,9 +903,7 @@ For these purposes, a “corruption card” is a _hazard card_ that gives a char
 
 ### CORRUPTION POINTS
 
-A character’s corruption point total can be determined at any time by summing the corruption point values of: the corruption cards under his card **and** any other cards he controls (e.g., usually items).<span class="page-number">35</span>
-
-<hr id="page36">
+A character’s corruption point total can be determined at any time by summing the corruption point values of: the corruption cards under his card **and** any other cards he controls (e.g., usually items).
 
 ### CORRUPTION CHECKS
 
@@ -1012,10 +935,6 @@ Certain characters receive modifiers to corruption checks, and certain cards may
 >  
 >  Both values appear in the lower right of certain cards.
 
-<br><span class="page-number">36</span>
-
-<hr id="page37">
-
 {: .bullets }
 ### REMOVING CORRUPTION CARDS
 
@@ -1038,10 +957,6 @@ Each turn. a character may only make one removal attempt for each corruption car
 > During the organization phase Layos attempts to remove the _Lure of Expedience_. Since he is planning to return to Cam Dum, he is not worried about being tapped. So, he taps and rolls an 8, easily better than the 5 he needed to succeed. His CP total drops to 3.
 > 
 > On the way back to Carn Dum, Layos gets a _Lure of Nature_ played on him, bringing him back up to 5 CPs. Since there are three Wildernesses in the site path between Dunnish Clan-hold and Carn Dum, Layos must make 
- 
-<br><span class="page-number"><em>(Example continued on next page.)</em> 37</span>
-
-<hr id="page38">
 
 {: .note }
 > three corruption checks. On the first two he rolls a 7 and a 12, easily beating his corruption point total. On the third check he rolls a 4. Since this is one less than his CP total, he would normally tap. However, he is already tapped, so there is no effect.
@@ -1065,11 +980,7 @@ A character’s _unused direct influence_ is equal to his direct influence attri
 
 ### BRINGING A FACTION INTO PLAY
 
-In order to play a faction card, you must tap one of your characters that is at the “site” indicated on the faction’s card. Then you must make an influence check. Make a roll (2D6), add your character’s unused direct influence, and add any appropriate modifications (any <span class="page-number">38</span>
-
-<hr id="page39">
-
-applicable _standard modifications_ from the faction card and from any other cards played). All influence check modifier cards must be played before making the roll (2D6).
+In order to play a faction card, you must tap one of your characters that is at the “site” indicated on the faction’s card. Then you must make an influence check. Make a roll (2D6), add your character’s unused direct influence, and add any appropriate modifications (any applicable _standard modifications_ from the faction card and from any other cards played). All influence check modifier cards must be played before making the roll (2D6).
 
 If the modified result is greater than the value required on the faction card, you place the faction in your marshalling point pile (it now counts towards your marshalling point total). Otherwise, you discard the faction card. Once a faction is brought into play, it is not controlled by any specific character and it does not count against general or direct influence.
 
@@ -1099,10 +1010,6 @@ Most faction cards list some “standard modifications” to the influence check
 > 
 > If you had rolled a 3, your modified result would have been 9 (= 3+2+3+1), and you would have had to discard the faction and Lossadan Cairn would not have tapped.
 
-<br><span class="page-number">39</span>
-
-<hr id="page40">
-
 ## 10 • PLAYING AND DRAWING CARDS
 
 You may only play hazard cards during your opponent’s movement/hazard phase. Except for resource long-events, you may play resource cards anytime during your own turn unless specifically prohibited by the rules or the cards themselves.
@@ -1125,9 +1032,7 @@ There are both resource events and hazard events. Each event falls into one of t
 
 **Short-event** — A short-event’s effects are immediately implemented; then, it is discarded. The effects of some short-events last for a specific period as stated on its card (e.g., some say: “until the end of the turn”).
 
-**Permanent-event** — The effects of a resource permanent-event are immediately implemented. Its effects last until the card is discarded. Certain effects can cause a permanent-event to be discarded; these effects are given in the text of specific cards.<br>If one of your companies splits into 2 or more companies, you may place any resource permanent-events that were on the original company (as a whole) with any of the resulting companies.<span class="page-number">40</span>
-
-<hr id="page41">
+**Permanent-event** — The effects of a resource permanent-event are immediately implemented. Its effects last until the card is discarded. Certain effects can cause a permanent-event to be discarded; these effects are given in the text of specific cards.<br>If one of your companies splits into 2 or more companies, you may place any resource permanent-events that were on the original company (as a whole) with any of the resulting companies.
 
 {: .note }
 > **Clarification:** Hazard short-events and permanent-events can be played only during an opponent’s movement/hazard phase. Resource short-events and permanent-events can be played at any time during your turn—as limited by specific card text.
@@ -1147,10 +1052,6 @@ You may only play a hazard long-event during your opponent’s movement/hazard p
 > Wendy then plays _Fell Winter_ (a long-event). First it gives all Border-holds \[![](/assets/images/border-hold.svg)] (including Dunharrow) an automatic-attack: Wolves — 3 strikes at 7 prowess. Since _Doors of Night_ is in play it can do two more things: change all Border-lands \[![](/assets/images/border-land.svg)] into Wilderness \[![](/assets/images/wilderness.svg)], making the site path ![](/assets/images/shadow-land.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/free-domain.svg) ![](/assets/images/wilderness.svg); and change all Free-domains \[![](/assets/images/free-domain.svg)] into Border-lands \[![](/assets/images/border-land.svg)], making the site path ![](/assets/images/shadow-land.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg). Unless it is discarded by another card, _Fell Winter_ will stay in play until Wendy's next long-event phase (about two turns).
 > 
 > Finally, Wendy plays _Arouse Defenders_ (a short-event), which allows her to add 3 to the prowess of one automatic-attack at a Border-hold \[![](/assets/images/border-hold.svg)]. She uses it on Dunharrow and chooses to add 3 to the Wolf attack from _Fell Winter_, making the prowess 10. _Arouse Defenders_ is discarded, but its effect will remain until the end of the turn (unless canceled before then).
-
-<br><span class="page-number">41</span>
-
-<hr id="page42">
 
 ### RESOURCE CARDS, NON-EVENT
 
@@ -1175,9 +1076,7 @@ If one of your characters is at the site specified on a faction card, he may tap
  
 #### Allies
 
-A character may tap during the site phase to play an ally card if he is at the site specified on the ally card **and** the character meets the requirements indicated on the ally card. The ally card is placed under the character’s card and that character controls the ally. After an ally is played at a site, the site card is tapped. An ally does **not** count as a character for any purposes other than combat and the use of certain skills. Allies can **not** bear items.<span class="page-number">42</span>
-
-<hr id="page43">
+A character may tap during the site phase to play an ally card if he is at the site specified on the ally card **and** the character meets the requirements indicated on the ally card. The ally card is placed under the character’s card and that character controls the ally. After an ally is played at a site, the site card is tapped. An ally does **not** count as a character for any purposes other than combat and the use of certain skills. Allies can **not** bear items.
 
 An ally with a skill may take actions and play cards that require that skill. For example, _Last Child of Ungoliant_ has the sage skill, so she can tap to play a _Secrets of Their Forging_ card. Similarly, _Stinker_ has the scout skill so he can tap to play a _Sneakin'_ card. 
 
@@ -1203,9 +1102,7 @@ A character may only use the effects of one _weapon_ at a time **and** one _shie
 
 #### Minor Items
 
-If a resource card that taps a site (e.g., ally, faction, item, etc.) is successfully played at a site, one additional character may tap to play a minor item. Such a minor item may be played even if the site does not specifically state that a minor item is playable at the site. For example, a minor item played when bringing an ally into play would simulate a gift from the ally.<span class="page-number">43</span>
-
-<hr id="page44">
+If a resource card that taps a site (e.g., ally, faction, item, etc.) is successfully played at a site, one additional character may tap to play a minor item. Such a minor item may be played even if the site does not specifically state that a minor item is playable at the site. For example, a minor item played when bringing an ally into play would simulate a gift from the ally.
 
 {: .bullets }
 #### Rings
@@ -1227,9 +1124,7 @@ One of the types of items that your characters can bring into play are rings. Th
 > - If you have a sage character in the same company as the gold ring, you can play a _Test of Fire_ card.
 > - If you have a sage character in the same company as the gold ring and the company is at a site where "Information" is playable, you can play a _Secret of Their Forging_ card (you do not have to roll, you can just play any special item ring except _The One Ring_).
 > - Any gold ring in the Ringwraith's own company at the start of the end-of-turn phase is automatically tested. Any ring test in a Ringwraith's own company has a modification of -2.
-> - Any gold ring in one of your companies at Barad-dur at the start of the end-of-turn phase is automatically tested. Any ring test at Barad-dur has a -3 modification.<span class="page-number">44</span>
-
-<hr id="page45">
+> - Any gold ring in one of your companies at Barad-dur at the start of the end-of-turn phase is automatically tested. Any ring test at Barad-dur has a -3 modification.
 
 {: .bullets }
 >
@@ -1261,10 +1156,6 @@ A hazard limit can be modified by the play of certain cards. Tapping a Nazgul pe
 {: .note }
 > **Clarification:** For the purposes of calculating hazard limits, each company’s size is determined for each company at the beginning of the movement/hazard phase (i.e., it remains fixed). So, if a character is eliminated during his company’s portion of the movement/hazard phase, his company’s hazard limit does not change.
 
-<br><span class="page-number">45</span>
-
-<hr id="page46">
-
 ### HAZARD CARDS, NON-EVENT
 
 {: .bullets }
@@ -1289,10 +1180,6 @@ You may use a creature card to _directly attack_ one of your opponent’s compan
 > 
 > **Clarification:** Two wilderness symbols are required in a site path to play a deep Wilderness creature. However, the two symbols need not be adjacent in the site path. For example, a deep wilderness creature may be played keyed to the site path: ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg). If a company travels with two Wilderness in its site path, the chance of encountering very dangerous Wilderness monsters has doubled, even if the two wildernesses are not adjacent.
 
-<br><span class="page-number">46</span>
-
-<hr id="page47">
-
 If a creature satisfies more than one of these conditions, you must choose (when you play the creature) one of these conditions that the attack is “keyed to.” The effects of certain cards are based upon the region or site type that a creature is _keyed to_.
 
 The region types that a company moves through during a given turn are determined by the following criteria:
@@ -1307,10 +1194,6 @@ The region types that a company moves through during a given turn are determined
 > **Clarification:** The player that plays a hazard creature must specifically state the type of region or site that a creature is keyed to—it can affect the use of other cards.<br>For example, if a character with a _Shadow-cloak_ faces a strike from a creature that has been played keyed to a Shadow-land, he can tap the _Shadow-cloak_ to cancel the strike. However, if the creature is keyed to a Border-land, he cannot use his cloak against it.
 > 
 > **Note:** A creature played keyed to a specific region by name is **not** keyed to the specific region's type. For example, if _Thranduil's Folk_ is played keyed to the Grey Mountain Narrows (a Shadow-land region), a target character with a _Shadow-cloak_ can **not** use it to cancel a strike—the attack is keyed to the region by name, not by type.
-
-<br><span class="page-number">47</span>
-
-<hr id="page48">
 
 {: .note }
 > **Example:** Certain card combinations make creatures more powerful. The hazard creature, _Dire Wolves_, has 4 strike with a prowess of 8. However, if played in combination with a _Wake of War_ card, _Dire Wolves_ has 5 strikes with a prowess of 9. If played in combination with a _Wake of War_ and a
@@ -1341,8 +1224,6 @@ During your organization phase, you may transfer items between characters at the
 {: .note }
 > **Clarification:** A corruption check is required before an item can be stored or transferred. A character that fails such a corruption check has decided not to follow his Ringwraith’s commands concerning the item’s use (i.e., the item is discarded and the character is eliminated).
 
-<br><span class="page-number">48</span>
-
 ### CARD DIAGRAMS
 
 {: .text-center }
@@ -1352,9 +1233,6 @@ During your organization phase, you may transfer items between characters at the
 
 {: .text-center }
 ![](/assets/images/mele-appendix-map.gif)
-
-
-<hr id="page49">
 
 ### MAP INDEX
 
@@ -1413,8 +1291,6 @@ During your organization phase, you may transfer items between characters at the
 51  |Bay of Belfalas  | ![](/assets/images/coastalsea.svg)
 52  |Mouths of the Anduin | ![](/assets/images/coastalsea.svg)
 
-<br><span class="page-number">49</span>
-
 Normally, when a character leaves active play (e.g., is discarded or eliminated), all cards controlled by him are discarded. There are two major exceptions to this:
 
  - Sometimes, the card that causes the character to leave play allows him to transfer an item(s) (e.g., _Call of Home_).
@@ -1427,9 +1303,7 @@ The various activities that you and your opponent can perform during play are ca
  - You must give your opponent a chance to respond to every action, and vice versa. If you perform an action and move on to another action without giving your opponent a chance to respond, you must “back up” if he indicates that he wants to respond. A series of declared actions made in response to one another is called a "chain of effects." You always have the option of declaring the first action in a chain of effects during your turn. The actions in a chain of effects are resolved one at a time from last declared to first declared (i.e., the last declared action is resolved first, then the second to the last, etc.).
  - If the play of a card requires other actions (e.g., corruption checks), the actions are resolved in the order in which they appear on the card.
  - A required or declared dice roll is an action and can be the target of another action or effect declared later in the same chain of effects. Otherwise a card cannot be targeted until it resolves.
- - When the effects of a dice roll require further actions (e.g., a roll for a strike requires a body check), those actions become the first actions (any further rolls come first) in the next chain of effects after the roll.<span class="page-number">50</span>
-
-<hr id="page51">
+ - When the effects of a dice roll require further actions (e.g., a roll for a strike requires a body check), those actions become the first actions (any further rolls come first) in the next chain of effects after the roll.
 
 # • PART II •<br>STANDARD RULES
 
@@ -1460,9 +1334,7 @@ In a "2-deck game" (the "short game"), the Audience is called when each play dec
 #### The 3-deck Game
 
 {: .bullets }
-In a "3-deck game" (the "long game"), the Audience is called when each play deck has been exhausted three times. You may use a _Sudden Call_ card when a play deck has been exhausted three times, or when a play deck has been exhausted twice and the player with that deck has at least 30 marshalling points (MPs). Increase the sideboard size to 30 cards.<span class="page-number">51</span>
-
-<hr id="page52">
+In a "3-deck game" (the "long game"), the Audience is called when each play deck has been exhausted three times. You may use a _Sudden Call_ card when a play deck has been exhausted three times, or when a play deck has been exhausted twice and the player with that deck has at least 30 marshalling points (MPs). Increase the sideboard size to 30 cards.
 
 {: .bullets }
 #### The 4-deck Game
@@ -1492,10 +1364,6 @@ Finally, you may reveal any unique marshalling point cards in your hand that mat
 
 {: .note }
 > **Clarification:** These marshalling point modifications do not apply until the audience actually takes place. Specifically, the modifications do not affect your MP total when it is used to determine if you can call the audience (i.e., you need 20 MPs to call the audience before any modification).
-
-<br><span class="page-number">52</span>
-
-<hr id="page53">
 
 {: .note }
 > **Example:** Let’s look again at our example with Wendy and Nick at the Audience With Sauron using Standard Rules. Assume their companies are composed as outlined in the example on [page 8](). Let's also assume Nick failed to play the _Hillmen_ faction. After corruption checks are made, Wendy has a raw marshalling point (MP) total of 20 and Nick has a MP total of 18.
@@ -1533,10 +1401,6 @@ Finally, you may reveal any unique marshalling point cards in your hand that mat
 > 
 > At this point, Nick reveals that he has cards for _The Warg-king_, Shagrat, and Grishnakh in his hand (he was saving them for this). Since they duplicate three of Wendy's unique MP cards, her MP total is reduced by one for each of these. Thus. Wendy ends up with 22 MPs and Nick ends up with 14 MPs—Wendy wins. Nick curses his luck because he failed to bring the _Hillmen_ into play on his last turn.
 
-<br><span class="page-number">53</span>
-
-<hr id="page54">
-
 {: .bullets }
 ### SUDDEN CALL USED AS A HAZARD
 
@@ -1566,10 +1430,6 @@ During your organization phase, you may tap your Ringwraith to bring up to 5 res
 
 Alternatively, if your play deck has at least 5 cards, you may tap your Ringwraith to bring one resource card directly from your sideboard into your play deck (reshuffle).
 
-<br><span class="page-number">54</span>
-
-<hr id="page55">
-
 #### Using Your Sideboard When You Tap a Nazgul Hazard
 
 During your opponent’s movement/hazard phase, you may tap and discard one of your Nazgul hazard permanent-events in play to bring up to 5 hazard cards from your sideboard into your discard pile. The normal result of tapping a Nazgul does not apply. The Nazgul hazard is discarded. Tapping a Nazgul hazard in this fashion _does_ count against the hazard limit.
@@ -1587,10 +1447,6 @@ becomes 1, a hazard limit of 3 becomes 2, etc.).
 > **Clarification:** Your opponent may verify how many cards move to and from your sideboard, but you do not have to reveal what those cards are. 
 > 
 > **Clarification:** Your combined play deck and sideboard cannot violate the 1 unique card and 3 non-unique card limit. However, there is no restriction on the mix of hazards, resources, and characters in your sideboard. That is, for the purposes of your sideboard, you can ignore the play deck restrictions: the limit of 10 characters and the equal mix of resources and hazards.
-
-<br><span class="page-number">55</span>
-
-<hr id="page56">
 
 ### MANIFESTATIONS
 
@@ -1622,9 +1478,7 @@ If both players agree to use _METW_ region cards, add them to your location deck
 
 ## 4 • THE PLAYER TURN
 
-The Full Player Turn Summary is presented on pages 92-94.<span class="page-number">56</span>
-
-<hr id="page57">
+The Full Player Turn Summary is presented on pages 92-94.
 
 ## 5 • CHARACTERS & COMPANIES
 
@@ -1666,10 +1520,6 @@ You must take this action when you are forced to discard a character due to a la
 >
 > **Clarification:** If you do not have enough influence to control all of your character in play, they remain in play. However, you must discard any excess characters at the end of your next organization phase. If you bring a character into play during your organization phase and then do not have enough influence to control him, the character just brought into play must be returned to your hand at the end of your organization phase.
 
-<br><span class="page-number">57</span>
-
-<hr id="page58">
-
 ### BRINGING CHARACTERS INTO PLAY
 
 To play a character card, you must have enough general influence or direct influence available to control the character. In addition, you must meet **both** of the following requirements:
@@ -1697,9 +1547,7 @@ A Ringwraith follower must always be under the control of your Ringwraith and ma
 A Ringwraith follower may not use any of its special abilities. Uvatha's ability to automatically join another Ringwraith's company is an exception to this.
 
 {: .bullets }
-When you reveal your Ringwraith, your opponent must discard any identical Ringwraith card that has been played as a Ringwraith follower.<span class="page-number">58</span>
-
-<hr id="page59">
+When you reveal your Ringwraith, your opponent must discard any identical Ringwraith card that has been played as a Ringwraith follower.
 
 {: .bullets }
 ### RINGWRAITH EFFECTS
@@ -1723,10 +1571,6 @@ This is a summary of the special effects of the Ringwraith character.
 >
 > {: .note }
 > > **Note:** This represents the Ringwraith's mount being eliminated.
-
-<br><span class="page-number">59</span>
-
-<hr id="page60">
 
 ### SPLITTING A COMPANY AT A NON-DARKHAVEN SITE 
 
@@ -1753,9 +1597,7 @@ If both players agree, they can use region movement as it is used in _METW_. See
 
 ### MOVING COMPANIES TO THE SAME NON-DARKHAVEN SITE
 
-During the organization phase, two or more companies may move to the same non-Darkhaven site, but one of the following cases must apply:<span class="page-number">60</span>
-
-<hr id="page61">
+During the organization phase, two or more companies may move to the same non-Darkhaven site, but one of the following cases must apply:
 
 {: .blank .mb-1 }
 >
@@ -1783,10 +1625,6 @@ An _untapped_ character that is not the target of a strike may tap to _support_ 
 
 {: .note }
 > **Example:** A _Cave-drake_ (two strikes, 10/–) attacks your company which consists of the untapped characters: Gorbag, Snaga, Muzgash, Ufthak, and an Orc Veteran. _Cave-drake_ allows your opponent to assign the strikes, so he assigned them to Gorbag and Muzgash. Gorbag takes his strike without tapping and rolls a 12, easily defeating the attack. Muzgash has _He'll Talk_ played on him, so you want him to survive. You tap Snaga, Ufthak, and the Orc Veteran to aid Muzgash in facing the strike. You would also like to tap Gorbag, but you cannot—he was assigned a strike from the attack, so he is still a target of this attack. Muzgash has a prowess of 7 versus this attack: 4 (his own process) + 1 (Snaga's support) + 1 (Ufthak's support) + 1 (Orc Veteran's support).
-
-<br><span class="page-number">61</span>
-
-<hr id="page62">
 
 {: .bullets }
 ### CANCELING AN AUTOMATIC-ATTACK
@@ -1823,10 +1661,6 @@ Trophies give a character bonuses based upon the total number of marshalling poi
 {: .bullets }
 > - If a character's trophies have 1 marshalling point, the character receives + 1 to direct influence.
 
-<br><span class="page-number">62</span>
-
-<hr id="page63">
-
 {: .bullets }
 > - If a character's trophies have 2 marshalling points, the character receives +1 to direct influence and +1 to prowess (to a maximum of 9)
 > - If a character's trophies have 3 marshalling points, the character receives +2 to direct influence and +l to prowess (to a maximum of 9).
@@ -1854,10 +1688,6 @@ A corruption check for any character in a Ringwraith's company is modified by +2
 > 
 > Gorbag is carrying _The Iron Crown_ (5 corruption points), so you tap Ufthak and Muzgash to help him with his corruption check. Gorbag has a corruption point total of 5, but his roll is modified by +2 (+1 for Ufthak and +1 for Muzgash). He cannot fail and will only tap on a 3 or less.
 
-<br><span class="page-number">63</span>
-
-<hr id="page64">
-
 ## 9 • INFLUENCE
 
 Influence is the only way that your characters can directly affect your Ringwraith opponent’s resources. During your site phase, one and only one of your characters may tap to attempt to influence away one of your opponent’s characters, followers, allies, factions, or items. This may only take place if the influencing character and the target of the influence are at the same site. If you successfully influence the target, it is discarded. In some cases, you may reveal an identical card and attempt to play it (i.e., he convinces the target to join his side). 
@@ -1878,11 +1708,7 @@ To attempt to influence one of your opponent’s non-follower characters you mus
 
 If the modified result is greater than the target’s mind attribute, the target character card and all of the non-follower cards he controls are discarded. Otherwise, nothing happens.
 
-If you reveal an identical character card from your hand before making the roll for the influence check, the target character’s mind attribute is treated as if it were zero. If the attempt is unsuccessful, you must discard the character card you revealed. If such an influence check is successful, the target character and his non-follower cards are discarded **and** the revealed character card <span class="page-number">64</span>
-
-<hr id="page65">
-
-may be immediately played (appearing at the same site). In order to play this character, you must have enough unused general influence to control him **or** an influencing character at the same site must have enough direct influence.
+If you reveal an identical character card from your hand before making the roll for the influence check, the target character’s mind attribute is treated as if it were zero. If the attempt is unsuccessful, you must discard the character card you revealed. If such an influence check is successful, the target character and his non-follower cards are discarded **and** the revealed character card may be immediately played (appearing at the same site). In order to play this character, you must have enough unused general influence to control him **or** an influencing character at the same site must have enough direct influence.
 
 {: .note }
 > **Clarification:** If you reveal an identical character in order to nullify the target character’s mind attribute for an influence check, you must discard that character if you do not play him.
@@ -1907,9 +1733,7 @@ To influence an opponent’s ally, you must make an influence check as outlined 
 
  - Instead of the controlling character’s mind attribute, the influence check uses the ally’s mind attribute.
  - The result is also modified by the “unused direct influence” of the character controlling the ally. 
- - Revealing an identical ally card reduces the ally’s mind attribute to zero and allows you to play the card if the influence check is successful.<span class="page-number">65</span>
-
-<hr id="page66">
+ - Revealing an identical ally card reduces the ally’s mind attribute to zero and allows you to play the card if the influence check is successful.
  
 #### Influencing an Opponent’s Item
 
@@ -1931,10 +1755,6 @@ To influence an opponent’s item, you must make an influence check as outlined 
 > 
 > Nick smiles when he sees this. On his turn he does not move. During the site phase he enters the site and his Lieutenant of Dol Guldur attempts to influence Radbug's card back. Lieutenant of Dol Guldur has 3 unused direct influence and a + 2 direct influence against Orcs. Wendy now only has 1 unused general influence, since she used 4 to control Radbug.
 
-<br><span class="page-number">66</span>
-
-<hr id="page67">
-
 {: .note }
 > Nick rolls 2D6 and gets a 5, while Wendy rolls 2D6 and gets a 7. So the modified result of the influence check is 2 = 5 (Nick's Roll) + 5 (Lieutenant of Dol Guldur's unused direct influence) - 1 (Wendy's unused general influence) - 7 (Wendy's roll).
 > 
@@ -1954,9 +1774,7 @@ The card will remain on that site until one of the following occurs:
  - _The company plays a card that potentially taps the site_. If the on-guard card is a non-creature hazard, it may be revealed if it is a hazard that directly affects the company or a character in the company (e.g., a hazard that forces all characters to make a corruption check).
  - Otherwise, return the card to your hand at the end of the site phase. 
  
-In the first two cases, the card is handled as if it had been played during the movement-hazard phase (i.e., short-events are discarded, long-events last until your opponent’s next long-event phase, etc.).<span class="page-number">67</span>
-
-<hr id="page68">
+In the first two cases, the card is handled as if it had been played during the movement-hazard phase (i.e., short-events are discarded, long-events last until your opponent’s next long-event phase, etc.).
 
 {: .note }
 > **Note:** A card may not be revealed in the second case above if it: returns the company to its site of origin, taps the site or a character in the company, forces the company to do nothing during the site phase, or potentially removes a character or ally from the company (outside of combat or forcing a corruption check).
@@ -1974,9 +1792,7 @@ In the first two cases, the card is handled as if it had been played during the 
 
 ### LIMITS ON DRAWING CARDS
 
-During your turn, you may draw cards based on one of your moving companies only if the company contains a Ringwraith _or_ at least one character with a mind attribute of three or more.<span class="page-number">68</span>
-
-<hr id="page69">
+During your turn, you may draw cards based on one of your moving companies only if the company contains a Ringwraith _or_ at least one character with a mind attribute of three or more.
  
 ### DICE ROLL TIMING
 
@@ -1996,9 +1812,7 @@ You may follow one of your declared actions with another of your declared action
 
 An action in a chain of effects is negated if the conditions required to perform it are negated by another action that is resolved before it in the chain of effects.
 
-Creature hazards may not be played in response to other actions. They must always start a chain of effects.<span class="page-number">69</span>
-
-<hr id="page70">
+Creature hazards may not be played in response to other actions. They must always start a chain of effects.
 
 {: .note }
 > **Timing Example:** One of your companies is moving with _Doors of Night_ in play. Your opponent plays _Minions Stir_ on the company. You think you can handle one extra strike and prowess, but not two, so you play _Skies of Fire_ in response to get rid of _Doors of Night_. Your opponent plays _Twilight_ in response, targeting your _Skies of Fire_. This is how it all works out:
@@ -2019,9 +1833,7 @@ Creature hazards may not be played in response to other actions. They must alway
 Each of these optional rules may be used if all players agree before the game begins. Refer to the appendices ([page 86]()) for conventions of tournament play—these are widely used for casual play.
 
 {: .bullets }
-**Company vs. Company Combat** — When one player is a Ringwraith and his opponent is a Wizard (see Part IV), combat can occur between companies (see [page 80]()). After such a combat, if your opponent's company has only wounded characters you may attempt to "steal an item." To steal an item, you must tap a character in your company that was involved in the combat. Then, you can force your opponent to discard an item of your choice in his company that was involved in the combat. Finally, if you have a manifestation of the discarded item in your hand, you may play it with the character you just tapped.<span class="page-number">70</span>
-
-<hr id="page71">
+**Company vs. Company Combat** — When one player is a Ringwraith and his opponent is a Wizard (see Part IV), combat can occur between companies (see [page 80]()). After such a combat, if your opponent's company has only wounded characters you may attempt to "steal an item." To steal an item, you must tap a character in your company that was involved in the combat. Then, you can force your opponent to discard an item of your choice in his company that was involved in the combat. Finally, if you have a manifestation of the discarded item in your hand, you may play it with the character you just tapped.
 
 ### MULTI-PLAYER RULES
 
@@ -2037,9 +1849,7 @@ Each player should select a character pool of up to 25 characters. The _low_ rol
 
 After the characters are all revealed, each player may exchange up to three cards between his play deck and his cards not being used (all normal play deck restrictions must be met). The highest roller takes his turn first. Then, the player to his left takes his turn, and so on. 
 
-**The Player Turn:** Your “hazard-opponent” for the purposes of hazards is the player to your left. During your long-event phase, you remove your own resource long-events and the hazard long-events belonging to your hazard-opponent. Only your hazard-opponent may draw cards (based on the site being moved to) and play hazards during your movement/hazard phase. A player only has the option of discarding a card during an end-of-turn phase if it is his own turn or if it is his hazard-opponent’s turn.<span class="page-number">71</span>
-
-<hr id="page72">
+**The Player Turn:** Your “hazard-opponent” for the purposes of hazards is the player to your left. During your long-event phase, you remove your own resource long-events and the hazard long-events belonging to your hazard-opponent. Only your hazard-opponent may draw cards (based on the site being moved to) and play hazards during your movement/hazard phase. A player only has the option of discarding a card during an end-of-turn phase if it is his own turn or if it is his hazard-opponent’s turn.
 
 _Twilight_ cards can be played at any time by any player. Permanent-events, long-events, and other “global” events (e.g., tapping Ren the Unclean) affect all players.
 
@@ -2055,9 +1865,7 @@ _Middle-earth: The Wizards Companion_ provides some expanded, variant multi-play
 
 **Object of the Game:** The object of the solitaire game is to accumulate as many marshalling points (MPs) as you can by the time you exhaust your play deck for the second time. 
 
-_Middle-earth: The Wizards Companion_ provides some expanded, variant solitaire rules.<span class="page-number">72</span>
-
-<hr id="page73">
+_Middle-earth: The Wizards Companion_ provides some expanded, variant solitaire rules.
 
 {: .bullets }
 # • PART IV •<br/>USING MELE WITH METW
@@ -2079,9 +1887,7 @@ Assuming you are a Ringwraith and your opponent is a Wizard, the game ends when 
  5. Otherwise, the winner is decided when either the _Audience with Sauron_ is called (see [pages 6-7]()) or the _Free Council_ is called (see the _METW_ Rules). The audience and the council are called when one of the following occurs:
       - When each play deck has been exhausted once, both the audience and the council start at the end of the current turn.
       - Otherwise, you as a Ringwraith have played a _Sudden Call_ card or you as a Wizard have called the council (as outlined in the _MELE_ rules and the _METW_ rules). The council and the
-audience both start at the end of the next turn (i.e., your opponent gets one last turn).<span class="page-number">73</span>
-
-<hr id="page74">
+audience both start at the end of the next turn (i.e., your opponent gets one last turn).
 
 ### THE AUDIENCE AND THE COUNCIL
 
@@ -2100,9 +1906,7 @@ _MELE_ (i.e., Ringwraith) characters, resources, and sites are different from _M
  - _MELE_ resources are referred to as "minion resources" and _METW_ resources are referred to as "hero resources." Minion resources have a blue-gray metal background, while hero resources have a copper metal background.
  - _MELE_ sites are referred to as "minion sites" and _METW_ sites are referred to as "hero sites." Minion sites have a burned-gray parchment background, while hero sites have a white parchment background.
 
-The hero version of a unique resource is a manifestation of the same minion version of the resource and vice versa. Normally, the only resources that have both minion and hero versions are items and factions.<span class="page-number">74</span>
-
-<hr id="page75">
+The hero version of a unique resource is a manifestation of the same minion version of the resource and vice versa. Normally, the only resources that have both minion and hero versions are items and factions.
 
 #### Deck Construction
 
@@ -2123,10 +1927,6 @@ However, there is an exception to this: a Ringwraith player may use any hero ite
 
 {: .note }
 > **Note:** Agent hazards (see _ME: Dark Minions_) require the use of sites for movement, and your agent hazards must still use sites from your site deck.
-
-<br><span class="page-number">75</span>
-
-<hr id="page75">
 
 ### CARD EFFECT LIMITATIONS
 
@@ -2153,10 +1953,6 @@ would make little sense in terms of simulating Tolkien's works. Again, it is up 
 | | | Revealed to All Watchers |
 | | | Wraith-lord |
 
-<br><span class="page-number">76</span>
-
-<hr id="page77">
-
 ## 3 • GETTING READY TO PLAY
 
 As mentioned above, only Ringwraith players may include minion characters, resources, and sites in their decks, while only Wizard players may include hero characters, resources, and sites in their
@@ -2179,9 +1975,7 @@ decks. For these purposes, decks include sideboards. The following modifications
 The player turn remains basically the same. However, during your site phase, one and only one of your companies may do _one and only one_ of the following:
 
  - Attempt to influence away one of your opponent's characters, followers, allies, factions, or items (if it is at the same site).
- - Make an attack against one of your opponent's companies (if it is at the same site). See [page 80]() for more details.<span class="page-number">77</span>
-
-<hr id="page78">
+ - Make an attack against one of your opponent's companies (if it is at the same site). See [page 80]() for more details.
 
 ## 5 • CHARACTERS & COMPANIES
 
@@ -2212,10 +2006,6 @@ A region is adjacent to another region if and only if each region lists the othe
 > 
 > **Clarification:** If two sites are separated by more than four regions, a company may not travel directly between them in one turn (unless some special resource card is used). The company must first travel to interim sites (one per turn) until it reaches a site that is within four regions of the destination site
 
-<br><span class="page-number">78</span>
-
-<hr id="page79">
-
 {: .note }
 > **Clarification:** Certain regions may appear to be adjacent on the maps, but turn out not to be adjacent upon examination of the lists on their cards. For example, Dagorlad and Rohan appear to be adjacent on the maps, but they are really separated by the Anduin River.
 
@@ -2237,10 +2027,6 @@ For the purposes of playing hazards, the site path for a company using region mo
 > Since they both have the same site path neither is more dangerous than the other. Since they are both more than 4 regions long, Wendy's company will have to stop somewhere along the way. Wendy knows she has the _Easterlings_ in her deck. On the chance that she might draw it, she takes the second route and stops at the Easterling Camp (in the Horse Plains region).
 > 
 > On her first turn, she moves to the Easterling Camp by playing the Easterling Camp site and the following regions: Gorgoroth ![](/assets/images/dark-domain.svg), Nurn ![](/assets/images/dark-domain.svg), Horse Plains ![](/assets/images/shadow-land.svg). On her second turn, she moves to The Lonely Mountain by playing the Lonely Mountain and the following regions: Horse Plains ![](/assets/images/shadow-land.svg), Southern Rhovanion ![](/assets/images/wilderness.svg), Northern Rhovanion ![](/assets/images/wilderness.svg).
-
-<br><span class="page-number">79</span>
-
-<hr id="page80">
 
 ## 7 • COMBAT
 
@@ -2274,10 +2060,7 @@ This attack is declared and enacted at the end of the site phase following all o
 
 When one of your companies is attacked by another company during your opponent's site phase, you are considered to be the defending company. Your opponent's company (the attacking company) is considered to be making a single attack with one strike corresponding to each of the characters in his company:
 
- - Each strike can target one and only one character in the defending company.<span class="page-number">80</span>
-
-<hr id="page81">
-
+ - Each strike can target one and only one character in the defending company.
  - Each character can be the target of only one strike from a given attack.
  - If an attack has more strikes than the defending company has characters, the attacker may allocate the excess strikes as -1 modifications (i.e., a -1 mod. for each unallocated strike) to the prowess(es) of whichever target(s) he chooses. See [page 29]().
 
@@ -2302,9 +2085,7 @@ For company vs. company combat, the process for assigning strikes differs slight
 
  - First, the defender chooses which _untapped_ characters will be the targets of given strikes.
  - Then, the attacker chooses which other defending characters not yet assigned a strike will be the target of any remaining unassigned strikes corresponding to his _untapped_ characters.
- - Finally, the defender assigns any remaining strikes to his characters that have not been assigned strikes.<span class="page-number">81</span>
-
-<hr id="page82">
+ - Finally, the defender assigns any remaining strikes to his characters that have not been assigned strikes.
 
 #### A Strike's Prowess
 
@@ -2327,9 +2108,7 @@ Then, the defender makes a roll (2D6) and adds his modified prowess:
 
  - If this result is greater than the strike's final prowess, the strike _fails_. The character corresponding to the strike is wounded and must make a body check.
  - If this result is equal to the strike's final prowess, the strike was _ineffectual_ (i.e., a "tie" means that the strike is avoided but not defeated).
- - Otherwise, the strike was _successful_ (i.e., the character was defeated). The target character is wounded and must make a body check.<span class="page-number">82</span>
-
-<hr id="page83">
+ - Otherwise, the strike was _successful_ (i.e., the character was defeated). The target character is wounded and must make a body check.
 
 #### Body Checks
 
@@ -2353,10 +2132,6 @@ All of the factors affecting the strike must be decided before making any rolls 
 {: .note }
 > **Note:** Even though it is not his turn, the defending player may play resource cards that affect the resolution of strikes.
 
-<br><span class="page-number">83</span>
-
-<hr id="page83">
-
 {: .note }
 > **Example:** Wendy's company at Moria consists of the untapped Beorn (7/9 Warrior/Ranger) and the wounded Frodo (1/9 Scout/Diplomat). Nick moves his company to Moria. It consists of the untapped Carambor (5/8), the untapped Ciryaher (2/7), and the tapped Gulla (5/8). During the site phase he declares he is facing the automatic-attack. Ciryaher taps and plays _A Nice Place to Hide_ to cancel the automatic-attack.
 > 
@@ -2371,10 +2146,6 @@ All of the factors affecting the strike must be decided before making any rolls 
 A Wizard player does not receive marshalling points for defeating a creature with an \* next to its marshalling points or for defeating a detainment attack.
 
 If a hero company defeats an attack by a Ringwraith's Dragon faction, the hero player receives its marshalling points as kill marshalling points.
-
-<br><span class="page-number">84</span>
-
-<hr id="page85">
 
 ## 8 • CORRUPTION
 
@@ -2401,9 +2172,7 @@ Agents operate as outlined in the _ME: Dark Minions_ rules with the following ex
 
  - Minion agents included in a Ringwraith's deck count as characters for the purposes of meeting deck requirements. However, during play, each minion agent may be played as either a character (i.e., as a minion character) or as a hazard (i.e., as an agent).
  - Minion agents included in a Wizard's deck count as hazards for the purposes of meeting deck requirements.
- - Agent hazards require the use of sites for movement, and your agent hazards must still use sites from your location deck.<span class="page-number">85</span>
-
-<hr id="page86">
+ - Agent hazards require the use of sites for movement, and your agent hazards must still use sites from your location deck.
 
 # • PART V •<br/>APPENDICES
 
@@ -2421,9 +2190,7 @@ The following lists the essential rules for tournament deck construction and pla
 
 **Number of Ringwraiths:** Up to 3 of the same Ringwraith **or** up to 2 of the same Ringwraith and 1 of a different Ringwraith may be included in a play deck.
 
-**Dual Purpose Cards:** A card that can be played as either a resource or as a hazard can be counted in either the resource mix or hazard mix of a deck for the purposes of including an equal number of resources and hazards.<span class="page-number">86</span>
-
-<hr id="page87">
+**Dual Purpose Cards:** A card that can be played as either a resource or as a hazard can be counted in either the resource mix or hazard mix of a deck for the purposes of including an equal number of resources and hazards.
 
 **Using Maps:** If region movement is being used, an appropriate map of the regions of _MECCG_ can be used to depict region movement (instead of using actual region cards). The text of region cards takes precedence over maps, however. Certain regions, which may appear to be adjacent on a map, in fact are not listed as adjacent on the appropriate region cards (e.g., Rohan and Dagorlad, Cardolan and Lindon). Such regions are not considered adjacent, even when a map is used for region movement. Maps from the _Middle-earth CCG Maps_ were designed to minimize any visual discrepancies.
 
@@ -2446,10 +2213,7 @@ The following list provides a definition of the most common game terms. In many 
 **Attacker:** During an attack, the player whose company is not facing the attack. The attacker makes decisions on behalf of the attack.   
 **Attribute:** A characteristic of a character or attack: prowess, body, race, a character's listed skills, direct influence, mind, marshalling points, and special abilities.  
 **Audience with Sauron:** The last stage of the game for a Ringwraith player. All non-Ringwraith minions make a corruption check, marshalling points are counted (with modifiers in the Standard Game), and MPs are compared to determine a winner.  
-**Body:** The second attribute listed in the shield in the lower left corner of a character or creature card. Body relates to how difficult the character (or creature) is to eliminate (or defeat) in combat. A strike from an attack with no body (listed as "–" in the shield) is automatically defeated when it fails; no body check is required. If none is listed, an attack is considered to have no body.  <span class="page-number">87</span>
-
-<hr id="page88">
-
+**Body:** The second attribute listed in the shield in the lower left corner of a character or creature card. Body relates to how difficult the character (or creature) is to eliminate (or defeat) in combat. A strike from an attack with no body (listed as "–" in the shield) is automatically defeated when it fails; no body check is required. If none is listed, an attack is considered to have no body.
 **Body Check:** A dice roll made by an opponent on your character or on a strike that failed against his character. On your character, if this dice roll is greater than the character's body, the character is eliminated. Body checks usually result from a strike sequence in combat, but certain cards call for body checks at other times.   
 **"Cannot be duplicated.":** Card text meaning only one copy of that card can be in play at all. No further copies of that card can be played unless the copy in play will be removed by an action declared in the same chain of effects.  
 **"Cannot be duplicated on…":** Card text that means only one copy of that card can be in play as stated: by a player, or on a given entity. No further copies of that card can be so played unless the copy in play will be removed by an action declared in the same chain of effects.  
@@ -2466,11 +2230,7 @@ The following list provides a definition of the most common game terms. In many 
 **Covert Company:** A minion company with no Orcs or Trolls.  
 **Creature:** A hazard card with "Creature" in the classification line.   
 **Current Site:** The site card showing a non-moving company's location. A moving company has no current site from the moment its new site is revealed until its site of origin is removed.  
-**Declaring an Action:** Stating that an action is being played, though the actual effects of the action are not implemented until both players have had the chance to respond with the declaration of other actions. Each time you play a card, you are declaring an action. Actions  <span class="page-number">88</span>
-
-<hr id="page89">
-
-triggered by passive conditions are declared as the first action in the chain of effects following the chain of effects which produced the passive condition.  
+**Declaring an Action:** Stating that an action is being played, though the actual effects of the action are not implemented until both players have had the chance to respond with the declaration of other actions. Each time you play a card, you are declaring an action. Actions triggered by passive conditions are declared as the first action in the chain of effects following the chain of effects which produced the passive condition.  
 **Defender:** During an attack, the player whose company is facing the attack. The defender makes decisions on behalf of his company.     
 **Detainment Attack:** An attack whose strikes do not wound (and require no body check) if successful. A successful strike from a detainment attack only causes an untapped character to become tapped.    
 **Direct Influence:** The attribute listed in the hand symbol on a character. A character can control any number of followers such that their total mind in less than or equal to his direct influence.      
@@ -2488,10 +2248,7 @@ triggered by passive conditions are declared as the first action in the chain of
 **Keyed To… (or Played At…):** The manner a creature is played on a company. A creature is either: keyed to a region by type or name in a moving company's site path, or keyed to (played at) a moving company's new site by type or name, or keyed to (played at) the current site by type or name of a company that is not moving.   
 **Keyword:** An italicized word in a card's text box typically stood off with a period. Keywords carry no inherent rules, but rather are used as card identifiers when determining if another card affects them. Many keywords do have rules accompanying them, however, like _Unique_ and _Corruption_. Any words given in a card's classification line are also keywords.   
 **Location Deck:** Your deck of available sites (and region cards, if used). Only one of each non-Darkhaven site may be included in your location deck.   
-**Long-event:** A resource or hazard that stays in play for approximately two turns. Resource long-events can be played during your long-event phase. Hazard long-events can be played during your opponent's movement/hazard phase. Long-events are discarded during the appropriate player's long-event phase as described in the Full Player Turn Summary.   <span class="page-number">89</span>
-
-<hr id="page90">
-
+**Long-event:** A resource or hazard that stays in play for approximately two turns. Resource long-events can be played during your long-event phase. Hazard long-events can be played during your opponent's movement/hazard phase. Long-events are discarded during the appropriate player's long-event phase as described in the Full Player Turn Summary.
 **Marshalling points:** The number printed in a card's upper left corner. A card's marshalling points relates how important that card is to Sauron. After the Audience of Sauron/Free Council, the winner is the player with the most accumulated marshalling points.   
 **Mind:** The attribute that determines how many influence points are required to control that character.   
 **Minion:** A character controlled by a Ringwraith player. Non-Ringwraith minion cards have a rusted-purplish iron background. Each Ringwraith minion card has a blood-red stone background. Minions are the only characters included in _MELE_.   
@@ -2512,10 +2269,7 @@ triggered by passive conditions are declared as the first action in the chain of
 **Site:** The locations in Middle-earth represented by cards with a grey parchment background. Sites are represented in 2 ways: by name and by type. There are six site types in _MELE_: Darkhaven ![](/assets/images/dark-haven.svg), Free-hold ![](/assets/images/free-hold.svg), Border-hold ![](/assets/images/border-hold.svg), Ruins & Lairs ![](/assets/images/ruinlair.svg), Shadow-hold ![](/assets/images/shadow-hold.svg), and Dark-hold ![](/assets/images/dark-hold.svg).   
 **Site Path, Site's:** The sequence of region types listed on a site's card.  
 **Site Path, Company's:** The sequence of regions (by name and by type) through which a moving company moves. Most effects that refer to a site path mean a company's site path. However, you must be sure to recognize those effects that refer to a site's site path.   
-**Skill:** An attribute of a character as listed on the classification line. The five skills are: Diplomat, Ranger, Sage, Scout, and Warrior.   <span class="page-number">90</span>
-
-<hr id="page91">
-
+**Skill:** An attribute of a character as listed on the classification line. The five skills are: Diplomat, Ranger, Sage, Scout, and Warrior.
 **Standard Modification:** A modifier to an influence check against a faction that is printed on the faction's card. Certain factions (like Dragon factions) list simple Modifications which affect an influence check the same way, but do not count as Standard Modifications as a keyword (like when interpreting _Old Prejudice_).   
 **Storing Cards:** During your organization phase, taking a card from a character or company to your marshalling point pile. An item can normally be stored if its bearer is at a Darkhaven, but other cards require explicit instructions given on the card.  
 **Strike:** The portion of an attack that affects an individual character. Each attack has one or more strikes, each of which an individual character must face in a strike sequence. If an attack has more strikes than a defending company has characters, every character faces one strike and the excess strikes are converted to -1 modifiers.   
@@ -2531,9 +2285,7 @@ triggered by passive conditions are declared as the first action in the chain of
 **Untapping a Card:** Moving a tapped card 90 degrees from sideways to a normal position.  
 **Untapped:** The state of a card when its bottom is towards you. All cards enter play untapped and remain that way until an effect of the game taps or wounds them. Only entities that are untapped may perform actions that require them to tap.   
 **Wizard:** A character representing one of the five Istari. Wizards are not included in _MELE_. A player can have no Wizard followers.   
-**Wounded:** The state of a character shown by placing the top of his card towards you. A character in play who is not tapped or untapped is wounded. A character becomes wounded when a strike against him is successful. You cannot declare an action that requires a character to tap if the character is wounded. <span class="page-number">91</span>
-
-<hr id="page92">
+**Wounded:** The state of a character shown by placing the top of his card towards you. A character in play who is not tapped or untapped is wounded. A character becomes wounded when a strike against him is successful. You cannot declare an action that requires a character to tap if the character is wounded.
 
 ## FULL PLAYER TURN SUMMARY
 
@@ -2572,20 +2324,11 @@ Finally, remove all of your opponent’s hazard long-events.
 Follow this procedure for each of your companies. Each company has a separate movement/hazard phase. You decide which of your companies goes first, second, etc.:
 
  1. If the company has a face down site card, turn it over (reveal it).
- 2. If the company is not moving, no cards are drawn. If the company is moving to a non-Darkhaven site, you _may_ draw up<span class="page-number">92</span>
-
-<hr id="page93">
-
-{: .ml-5 }
-to the number of cards indicated by the site that it is <em>moving to</em> (at least one card must be drawn); your opponent does the same. If the company is moving to a Darkhaven site, you <em>may</em> draw up to the number of cards indicated by the site that it is <em>moving from</em> (at least one card must be drawn); your opponent does the same.
-
-{:style="counter-reset:step-counter 2"}
+ 2. If the company is not moving, no cards are drawn. If the company is moving to a non-Darkhaven site, you _may_ draw up to the number of cards indicated by the site that it is <em>moving to</em> (at least one card must be drawn); your opponent does the same. If the company is moving to a Darkhaven site, you <em>may</em> draw up to the number of cards indicated by the site that it is <em>moving from</em> (at least one card must be drawn); your opponent does the same.
  3. Your opponent plays hazards on the company—each hazard is resolved as indicated in its text. Creatures are played and their combat is resolved one at a time. A hazard may not be played if it targets a different company or a character, item, etc. in a different company.<br>If the company is not moving, hazard creatures may only be keyed to the company’s site of origin. Hazard creatures must be “keyed to” the moving company’s site path and/or new site. If a creature is keyed to more than one region type and/or site type that applies, your opponent decides which one is used.<br>The maximum number of hazards that may be played on a company during a given movement/hazard phase (i.e., the hazard limit) is equal to the size of the company _or_ two, whichever is larger (Orc scouts count half, round up). The hazard limit is determined for each company at the beginning of the movement/hazard phase (i.e., it remains fixed).
  4. If the company has been required to return to its site of origin, return the new site card to the location deck (or discard if it is a tapped non-Darkhaven) and proceed to step 6 (the site of origin becomes its current site). No additional hazards may be played on that company once this action is resolved.
  5. Remove the company’s site of origin (i.e., the site the company came from). Discard the site card if it is tapped and not a Darkhaven. Otherwise, return it to the location deck. At this point, the company is considered to have arrived at the new site (i.e., its new site becomes its site of origin). 
- 6. You must discard any cards in excess of eight in your hand; your opponent does the same for his hand. If you have fewer than eight cards, you must draw cards until your hand has eight cards; your opponent does the same for his hand.<br>*Note:* The number of cards you must keep in your hand can be increased beyond eight by certain cards and abilities.<span class="page-number">93</span>
-
-<hr id="page94">
+ 6. You must discard any cards in excess of eight in your hand; your opponent does the same for his hand. If you have fewer than eight cards, you must draw cards until your hand has eight cards; your opponent does the same for his hand.<br>*Note:* The number of cards you must keep in your hand can be increased beyond eight by certain cards and abilities.
 
 ### Site Phase
 
@@ -2603,8 +2346,6 @@ You may discard one card. Then you must draw or discard cards until your hand ha
 
 {: .note} 
 > _Address rules questions and comments via email to metwice@aol.com or mail to: I.C.E, P.O. Box 1605, Charlottesville, VA, 22902. Look for METW discussion areas on your favorite on-line service and visit our home page on the WWW (http://www.ironcrown.com)._
-
-<br><span class="page-number">94</span>
 
 ## SYMBOL KEY
 
