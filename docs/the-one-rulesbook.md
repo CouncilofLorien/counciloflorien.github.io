@@ -30,29 +30,27 @@ CONTENTS
 
 # INTRODUCTION
 
-_Middle-earth_ is a collectible card game based on _The Lord of the Rings_ and _The Hobbit_ that lets you step into J.R.R Tolkien’s marvelous world. If you love adventure, drama, fantasy, and fairy tales you’ll savor this game with a set of over 1,600 beautifully illustrated cards bearing fine original full color art.
+_Middle-earth_ is a collectible card game based on _The Lord of the Rings_ and _The Hobbit_ that lets you step into J.R.R Tolkien’s marvelous world. If you love adventure, drama, fantasy, and fairy tales you’ll savor this game with a set of over 1,600 beautifully illustrated cards bearing fine original full color art. The _Middle-earth Collectible Card Game_ includes the following sets and expansions:
 
-The _Middle-earth Collectible Card Game_ includes the following sets and expansions:
+*Middle-earth: The Wizards* (_METW_, Dec. 1995) lets you play as a Wizard marshalling forces of the Free Peoples to resist Sauron until the One Ring is destroyed. 
 
-***Middle-earth: The Wizards*** (_METW_, Dec. 1995) lets you play as a Wizard marshalling forces of the Free Peoples to resist Sauron until the One Ring is destroyed. 
+*Middle-earth: The Wizards Unlimited Edition* (_METWU_, Mar. 1996) is a blue-border reprint of _The Wizards_. The rules contain significant clarifications and there are revisions to the text of several cards. 
 
-***Middle-earth: The Wizards Unlimited Edition*** (_METWU_, Mar. 1996) is a blue-border reprint of _The Wizards_. The rules contain significant clarifications and there are revisions to the text of several cards. 
+*Middle-earth: The Dragons* (_METD_, Jun. 1996) is an expansion for use with _The Wizards_ that lets you riddle Smaug like Bilbo the Hobbit, steal great artifacts from dragon hoards, and battle terrifying creatures who once served Sauron’s ancient master.
 
-***Middle-earth: The Dragons*** (_METD_, Jun. 1996) is an expansion for use with _The Wizards_ that lets you riddle Smaug like Bilbo the Hobbit, steal great artifacts from dragon hoards, and battle terrifying creatures who once served Sauron’s ancient master.
+*Middle-earth: Dark Minions* (_MEDM_, Nov. 1996) is an expansion for use with _The Wizards_ that lets you go on quests, journey to the Under-deeps, and battle Sauron’s cruel servants. It introduces agent minions that can be used with the following set.
 
-***Middle-earth: Dark Minions*** (_MEDM_, Nov. 1996) is an expansion for use with _The Wizards_ that lets you go on quests, journey to the Under-deeps, and battle Sauron’s cruel servants. It introduces agent minions that can be used with the following set.
+*Middle-earth: The Wizards Starter Set* (Jun. 1997) contains a step-by-step sample game guide and two 60-card decks built with reprinted cards from The Wizards and The Dragons.
 
-***Middle-earth: The Wizards Starter Set*** (Jun. 1997) contains a step-by-step sample game guide and two 60-card decks built with reprinted cards from The Wizards and The Dragons.
+*Middle-earth: The Lidless Eye* (_MELE_, Jun. 1997) lets you play as one of the nine Ringwraiths. Your goal is to marshal forces of evil so that Sauron has the confidence to send your armies to launch the first blow against the Free Peoples.
 
-***Middle-earth: The Lidless Eye*** (_MELE_, Jun. 1997) lets you play as one of the nine Ringwraiths. Your goal is to marshal forces of evil so that Sauron has the confidence to send your armies to launch the first blow against the Free Peoples.
+*Middle-earth: Against the Shadow* (_MEAS_, Aug. 1997) is an expansion for use with both _The Wiz-ards_ and _Lidless Eye_ that levels the playing field and enhances Wizard versus Ringwraith games.
 
-***Middle-earth: Against the Shadow*** (_MEAS_, Aug. 1997) is an expansion for use with both _The Wiz-ards_ and _Lidless Eye_ that levels the playing field and enhances Wizard versus Ringwraith games.
+*Middle-earth: The White Hand* (_MEWH_, Dec. 1997) is an expansion that lets you play a Fallen-wizard corrupted by power just as Saruman was. A Fallen-wizard can use cards from both _The Wizards_, _The Lidless Eye_, and their expansions.
 
-***Middle-earth: The White Hand*** (_MEWH_, Dec. 1997) is an expansion that lets you play a Fallen-wizard corrupted by power just as Saruman was. A Fallen-wizard can use cards from both _The Wizards_, _The Lidless Eye_, and their expansions.
+*Middle-earth: The Challenge Decks* (_MECD_, Apr. 1998) are a set of ten ready-to-play decks using cards selected from earlier sets including one deck for each of the five Wizards and one for five different Ringwraiths.
 
-***Middle-earth: The Challenge Decks*** (_MECD_, Apr. 1998) are a set of ten ready-to-play decks using cards selected from earlier sets including one deck for each of the five Wizards and one for five different Ringwraiths.
-
-***Middle-earth: The Balrog*** (_MEBA_, Nov. 1998) lets you play as the Balrog and explore the domains and minions of Morgoth. 
+*Middle-earth: The Balrog* (_MEBA_, Nov. 1998) lets you play as the Balrog and explore the domains and minions of Morgoth. 
 
 ## OVERVIEW
 
