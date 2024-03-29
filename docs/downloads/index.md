@@ -25,3 +25,10 @@ permalink: /downloads/
 {: .text-center }
 | [![](/assets/images/Bilbo's%20Region%20Map.gif)](/assets/files/Bilbo's%20Region%20Map.pdf) | 
 
+## UNOFFICIAL PLAYER AIDS
+
+### The Red Book (Beginner Rules and Print & Play Decks)
+{: .text-center }
+| [![](/assets/files/The%20Red%20Book%20of%20MECCG.pdf) | [![](/assets/images/trb-pnp-cover.gif)](/assets/files/The%20Red%20Book%20of%20MECCG%20-%20Print%20and%20Play.pdf) | 
+
+
