@@ -115,14 +115,12 @@ _Site Phase_ — Each of your companies decides whether to enter their current s
 
 _End-of-Turn Phase_ — Both players may discard one card and then draw or discard back to 8. The End-of-Game Council may be called if var-ious conditions are met.
 
-# • PART I •<br>STARTER RULES
+# • PART I •<br>THE COMPLETE RULES
 
 To get a general idea of how to play, read the Starter Rules sections that are not boxed. Later you can refer to the boxed sections for more information on special situations.
 
-
->
-> {: .note }
-> > **Note:** These rules apply to a Ringwraith player playing a Ringwraith player. See Part IV (page 73) for guidelines for handling a game between a Ringwraith and a Wizard.
+{: .note }
+ > **Note:** These rules apply to a Ringwraith player playing a Ringwraith player. See Part IV (page 73) for guidelines for handling a game between a Ringwraith and a Wizard.
 
 {: .note }
 > **Note:** In _MELE_ you will draw multiple cards each turn, and in some cases you will have to discard a number of cards each turn. Don't let this worry you, it's part of the flow of play. Just keep cards that are immediately useful during the next turn **or** that are crucial to your overall strategy.
@@ -612,7 +610,8 @@ Play consists of a series of “Player Turns.” During your turn, you take vari
 
 Each of your characters may do one of the following:
 
-&emsp; Heal (if at a Darkhaven site) **or** Untap.
+ - Untap **or**
+ - Heal (if at a haven site)
  
 Untap all of your other tapped non-site cards.
 
@@ -620,15 +619,22 @@ Untap all of your other tapped non-site cards.
 
 The following actions may be taken in any order:
 
- - Play a character card.
- - Reorganize your characters at the same Darkhaven into any number of companies. _Standard Rules:_ You may reorganize at any site.
- - Shift your characters between being controlled by general influence and being controlled by direct influence.
+
  - Store items at a Darkhaven and transfer items between your characters at the same site. A corruption check is required for the character giving up an item.
  - Store other designated resources from your companies at sites specified on their cards.
+ - Make company composition changes including:
+   - Play a character card.
+   - Reorganize your characters at the same site into any number of companies.
+   - Shift your characters between being controlled by general influence and being controlled by direct influence.
  - Each of your companies may do one of the following:
       - Stay at its current site.
-      - Play another site (face down) that can be moved to directly from the company’s current site (its site of origin).
-      - _Standard Rules:_ See [page 60]() for other options.
+      - Play a new site card (face down) that can be moved to directly from the company’s current site (its site of origin). This is called _starter movement_. (See pages XXX-XXX.)
+      - Play a new site card (face down) and a series of up to four different region cards that connect the current site with the new site. This is called _region movement_. (See pages XXX-XXX.)
+      - Declare movement to join a non-moving company at their (face up) non-haven site card. (See pages XXX-XXX)
+      - Declare movement to join a moving company at their (face down) non-haven site card.
+{: .note }
+> **Note:** A company does not have the option to declare movement to another company's site unless both they join that company.
+> **Note:** A company does not have the option to declare movement to another company's site unless it is a non-haven site. 
 
 ### Long-event Phase
 
