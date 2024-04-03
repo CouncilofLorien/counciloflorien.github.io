@@ -532,7 +532,7 @@ Follow these steps to get ready to play:
 {: .bullets .mb-1 }
 >
 > {: .mb-1 .mt-1 }
->  1. Place your site cards in your location deck. This deck should contain all of your Darkhaven cards (i.e., Minas Morgul, Dol Guldur, Carn Dum, and Geann a-Lisch). You may include any number of Darkhaven cards, but only one of each non-Darkhaven site card.
+>  1. Place your site cards in your location deck. This deck should contain all of your Haven cards (i.e., Minas Morgul, Dol Guldur, Carn Dum, and Geann a-Lisch). You may include any number of Haven cards, but only one of each non-Haven site card.
 
 {: .blank .mb-1 .mt-1 }
 > 
@@ -620,7 +620,7 @@ Untap all of your other tapped non-site cards.
 The following actions may be taken in any order:
 
 
- - Store items at a Darkhaven and transfer items between your characters at the same site. A corruption check is required for the character giving up an item.
+ - Store items at a Haven and transfer items between your characters at the same site. A corruption check is required for the character giving up an item.
  - Store other designated resources from your companies at sites specified on their cards.
  - Make company composition changes including:
    - Play a character card.
@@ -630,30 +630,28 @@ The following actions may be taken in any order:
       - Stay at its current site.
       - Play a new site card (face down) that can be moved to directly from the company’s current site (its site of origin). This is called _starter movement_. (See pages XXX-XXX.)
       - Play a new site card (face down) and a series of up to four different region cards that connect the current site with the new site. This is called _region movement_. (See pages XXX-XXX.)
-      - Declare movement to join a non-moving company at their (face up) non-haven site card. (See pages XXX-XXX)
-      - Declare movement to join a moving company at their (face down) non-haven site card.
+      - Declare movement to join a non-moving company at their (face up) non-haven site card. (See pages XXX-XXX.)
+      - Declare movement to join a moving company at their (face down) non-haven site card. (See pages XXX-XXX.)
 {: .note }
-> **Note:** A company does not have the option to declare movement to another company's site unless both they join that company.
-> **Note:** A company does not have the option to declare movement to another company's site unless it is a non-haven site. 
 
 ### Long-event Phase
 
-First, remove all of your resource long-events already in play.
+First, discard all of your resource long-events already in play.
 
-Then, play any new resource long-event cards.
+Then, play any new resource long-event cards. (See pages XXX-XXX)
 
-Finally, remove all of your opponent’s hazard long-events.
+Finally, remove all of your opponent’s hazard long-events. (See pages XXX-XXX)
 
 ### Movement/Hazard Phase
 
 Follow this procedure for each of your companies. Each company has a separate movement/hazard phase. You decide which of your companies goes first, second, etc.:
 
  1. If the company has a face down site card, turn it over (reveal it).
- 2. If the company is not moving, no cards are drawn. If the company is moving to a non-Darkhaven site, you _may_ draw up to the number of cards indicated by the site that it is <em>moving to</em> (at least one card must be drawn); your opponent does the same. If the company is moving to a Darkhaven site, you <em>may</em> draw up to the number of cards indicated by the site that it is <em>moving from</em> (at least one card must be drawn); your opponent does the same.
- 3. Your opponent plays hazards on the company—each hazard is resolved as indicated in its text. Creatures are played and their combat is resolved one at a time. A hazard may not be played if it targets a different company or a character, item, etc. in a different company.<br>If the company is not moving, hazard creatures may only be keyed to the company’s site of origin. Hazard creatures must be “keyed to” the moving company’s site path and/or new site. If a creature is keyed to more than one region type and/or site type that applies, your opponent decides which one is used.<br>The maximum number of hazards that may be played on a company during a given movement/hazard phase (i.e., the hazard limit) is equal to the size of the company _or_ two, whichever is larger (Orc scouts count half, round up). The hazard limit is determined for each company at the beginning of the movement/hazard phase (i.e., it remains fixed).
- 4. If the company has been required to return to its site of origin, return the new site card to the location deck (or discard if it is a tapped non-Darkhaven) and proceed to step 6 (the site of origin becomes its current site). No additional hazards may be played on that company once this action is resolved.
- 5. Remove the company’s site of origin (i.e., the site the company came from). Discard the site card if it is tapped and not a Darkhaven. Otherwise, return it to the location deck. At this point, the company is considered to have arrived at the new site (i.e., its new site becomes its site of origin). 
- 6. You must discard any cards in excess of eight in your hand; your opponent does the same for his hand. If you have fewer than eight cards, you must draw cards until your hand has eight cards; your opponent does the same for his hand.<br>*Note:* The number of cards you must keep in your hand can be increased beyond eight by certain cards and abilities.
+ 2. If the company is not moving, no cards are drawn. If the company is moving to a non-Haven site, you _may_ draw up to the number of cards indicated by the site that it is <em>moving to</em> (at least one card must be drawn); your opponent does the same. If the company is moving to a Haven site, you <em>may</em> draw up to the number of cards indicated by the site that it is <em>moving from</em> (at least one card must be drawn); your opponent does the same.
+ 3. Your opponent plays hazards on the company—each hazard is resolved as indicated in its text. Creatures are played and their combat is resolved one at a time. A hazard may not be played if it targets a different company or a character, item, etc. in a different company.<br>If the company is not moving, hazard creatures may only be keyed to the company’s site of origin. Hazard creatures must be “keyed to” the moving company’s site path and/or new site. If a creature is keyed to more than one region type and/or site type that applies, your opponent decides which one is used.<br>The maximum number of hazards that may be played on a company during a given movement/hazard phase (i.e., the hazard limit) is equal to the size of the company _or_ two, whichever is larger (Hobbits and Orc scouts count half, round up). The hazard limit is determined for each company at the beginning of the movement/hazard phase (i.e., it remains fixed).
+ 4. If the company has been required to return to its site of origin, return the new site card to the location deck (or discard if it is a tapped non-Haven) and proceed to step 6 (the site of origin becomes its current site). No additional hazards may be played on that company once this action is resolved.
+ 5. Remove the company’s site of origin (i.e., the site the company came from). Discard the site card if it is tapped and not a haven. Otherwise, return it to the location deck. At this point, the company is considered to have arrived at the new site (i.e., its new site becomes its site of origin). 
+ 6. You must discard from your hand any cards in excess of your hand size (normally eight cards); your opponent does the same for his hand. If you have fewer cards than your hand size, you must draw cards until you reach your hand size; your opponent does the same for his hand.<br>*Note:* Certain cards and abilities state that you may keep one more card than normal in your hand. Such effects are cumulative and also mandatory.
 
 ### Site Phase
 
@@ -680,7 +678,7 @@ You may discard one card. Then you must draw or discard cards until your hand ha
 > 
 > **Clarification:** Before a company can attempt to play one item, ally, faction, or other card that is “playable” at its current site, it must face the site’s automatic-attacks. The company need not defeat the attacks, it merely needs to resolve the attacks normally (such attacks could be canceled).<br>A company can face a site’s automatic-attacks and still not play a card (e.g., all of its characters are tapped after facing the automatic-attacks). If such a company wants to play a card at the site on a later turn, it must face the automatic-attacks again. 
 > 
-> **Clarification:** A site taps when one item, ally, or faction card is played at that site. The play of certain other resource cards may tap sites—such a card will specifically state that playing it taps the site. Non-Darkhaven sites only normally untap after being discarded and after your play deck is exhausted. So, each time through your play deck, only one such card may normally be played at a given non-Darkhaven site. Darkhaven cards, whether tapped or not, always return to your location deck untapped.
+> **Clarification:** A site taps when one item, ally, or faction card is played at that site. The play of certain other resource cards may tap sites—such a card will specifically state that playing it taps the site. Non-Haven sites only normally untap after being discarded and after your play deck is exhausted. So, each time through your play deck, only one such card may normally be played at a given non-Haven site. Haven cards, whether tapped or not, always return to your location deck untapped.
 
 ## 4 • THE PLAYER TURN - USING MELE WITH METW
 
@@ -694,15 +692,15 @@ The player turn remains basically the same. However, during your site phase, one
 As a player, you influence and control a number of characters that move and act in the world of Middle-earth. Each character’s abilities are defined by these attributes: race, skills, direct influence, prowess (offense), body (defense), mind, marshalling points, and special abilities (e.g., corruption check modifiers). A character can be _eliminated_ and removed from play as a result of combat (failing a body check) or corruption (failing a corruption check).
 
 
-If you have enough general influence or direct influence during a given turn, you may bring into play: one non-Ringwraith character at his home site or at any Darkhaven **or** your Ringwraith at his home site or Minas Morgul (see page 20). 
+If you have enough general influence or direct influence during a given turn, you may bring into play: one non-Ringwraith character at his home site or at any Haven **or** your Ringwraith at his home site or Minas Morgul (see page 20). 
 
 Characters are primarily controlled by your pool of 20 general influence points. For each controlled character, you must commit a number of general influence points equal to his mind attribute. In addition, you may control a character by using another character’s direct influence—a character controlled in this fashion is called a _follower_ and does not use general influence points. (See [page 19]() for an extended example.)
 
 During play, you may organize your characters into groups called companies. A company’s _size_ is equal to the number of characters in it. A company is limited to a size of seven. A company’s _hazard limit_ is equal to two or the size of the company, whichever is greater. The maximum number of hazards that can be played on a company during a given movement/hazard phase is equal to its hazard limit. 
 
-Companies can only combine at a Darkhaven—just remove all but one of the companies’ Darkhaven site cards. The resulting company then has one site card consisting of a Darkhaven site card.
+Companies can only combine at a Haven—just remove all but one of the companies’ Haven site cards. The resulting company then has one site card consisting of a Haven site card.
 
-One company can split into two or more companies only at a Darkhaven (use two Darkhaven cards).
+One company can split into two or more companies only at a Haven (use two Haven cards).
 
 {: .note } 
 > **Note:** The number of characters you have in play limits the number of actions you may take during a given turn. You use your other characters’ direct influence on a character to bring that character into play and to keep him in play. A character in play can move and take actions (e.g., defending against attacks, influencing, etc.). Items, allies, and other cards representing things a character acquires and controls are placed under his card.
@@ -710,7 +708,7 @@ One company can split into two or more companies only at a Darkhaven (use two Da
 {: .note } 
 > **Note:** Sometimes two or more companies combine and the resulting company has two or more of the same cards that say: "cannot be duplicated on a given company." When this happens, immediately discard all but one of those cards (your choice). 
 >
-> **Clarification:** During your organization phase, one Darkhaven card may be used to represent the location of two or more companies, so long as the distinction between companies is clearly presented spatially. However, we suggest the use of multiple Darkhaven cards for clarity.
+> **Clarification:** During your organization phase, one Haven card may be used to represent the location of two or more companies, so long as the distinction between companies is clearly presented spatially. However, we suggest the use of multiple Haven cards for clarity.
 > 
 > **Clarification:** Even if you have no characters in play, the game is not over. You may continue to draw and discard cards—eventually you will draw your Ringwraith or a character.
 
@@ -760,7 +758,7 @@ If you have enough unused general influence points, you may move a follower from
 If a character directly influencing a follower is removed from play, the follower remains in play and does not immediately count against general influence. However, during your next organization phase, you must discard the follower, place the follower under the control of another character in his company with enough available direct influence, or place the follower under the control of general influence (if enough is available).
 
 {: .note } 
-> **Example:** In this example and later examples, the notation “#•#” is used. The first number is the character’s mind attribute; the second is his direct influence (DI). A direct influence value in brackets applies only against certain types of characters (in this example, only against Orcs and Trolls). In our example from page 8, Wendy and Nick each have one company at Carn Dum (a Darkhaven) organized as follows:
+> **Example:** In this example and later examples, the notation “#•#” is used. The first number is the character’s mind attribute; the second is his direct influence (DI). A direct influence value in brackets applies only against certain types of characters (in this example, only against Orcs and Trolls). In our example from page 8, Wendy and Nick each have one company at Carn Dum (a Haven) organized as follows:
 > 
 > ```mermaid
 > %%{init: {'flowchart' : {'curve' : 'linear'}, 'theme': 'base', 'themeVariables': { 'primaryColor': '#fff','primaryBorderColor': '#44434d','fontFamily': 'timesnewroman'}}}%%
@@ -793,7 +791,7 @@ During your organization phase, you may perform **one and only one** of the foll
 {: .blank .mb-1 }
 >
 > {: .mb-1 .mt-1 }
-> - You may play a non-Ringwraith character card. You must place him at his home site _or_ at any Darkhaven site. If you do not have enough general influence or direct influence to control the character by the end of your organization phase, then the character is returned to hand. You must place him at his home site or at any Darkhaven site.
+> - You may play a non-Ringwraith character card. You must place him at his home site _or_ at any Haven site. If you do not have enough general influence or direct influence to control the character by the end of your organization phase, then the character is returned to hand. You must place him at his home site or at any Haven site.
 
 {: .bullets .mt-1 }
 >
@@ -809,7 +807,7 @@ Most characters are unique. So if you already have a unique character in play, y
 into play again by either player. 
 
 {: .note }
-> **Example:** In the p. 8 example, Wendy calls the audience. Then Nick takes his final turn. His company is at a Darkhaven, so he may play a character during his organization phase. Nick has Grishnakh and an Orc Tracker in his hand (each has a 3 mind attribute). Nick would like to play Grishnakh, but he is unique and Wendy already has him in play. The Orc Tracker is not unique, so Nick plays him. Nick has no unused general influence, so the Orc Tracker must be placed under the control of one of Nick's non-follower characters with at least 3 unused direct influence. Only Nick's non-follower Orc Captain meets these requirements.
+> **Example:** In the p. 8 example, Wendy calls the audience. Then Nick takes his final turn. His company is at a Haven, so he may play a character during his organization phase. Nick has Grishnakh and an Orc Tracker in his hand (each has a 3 mind attribute). Nick would like to play Grishnakh, but he is unique and Wendy already has him in play. The Orc Tracker is not unique, so Nick plays him. Nick has no unused general influence, so the Orc Tracker must be placed under the control of one of Nick's non-follower characters with at least 3 unused direct influence. Only Nick's non-follower Orc Captain meets these requirements.
 
 ### COMPANIES
 
@@ -817,14 +815,14 @@ A company is a group of characters that move and act together. This allows chara
 
 For example, if you have 3 characters in play, the 3 characters can move separately and perhaps do more in terms of acquiring marshalling points (items, other characters, etc.); but each individual character is more vulnerable to danger. However, the same 3 characters operating as a company might acquire marshalling points more slowly, but they are safer (i.e., you risk less).
 
-Normally, a company is limited to a size of seven, but a company at a Darkhaven site may be of any size. For these purposes, an ally does not count as a character. The size of a company is determined for each company at the beginning of the movement/hazard phase (e.g., it remains fixed even if a character leaves the company).
+Normally, a company is limited to a size of seven, but a company at a Haven site may be of any size. For these purposes, an ally does not count as a character. The size of a company is determined for each company at the beginning of the movement/hazard phase (e.g., it remains fixed even if a character leaves the company).
 
 {: .note }
 > **Clarification:** A company is **not** an "attack," and a character is **not** an "attack." So hazards that modify attacks have no effect on characters and companies.
 
 #### Limitations on Company Composition
 
-Unless at a Darkhaven, a Ringwraith may not be in a company with other characters.
+Unless at a Haven, a Ringwraith may not be in a company with other characters.
 
 #### Overt and Covert Companies
 
@@ -835,11 +833,11 @@ The text for certain cards distinguish between overt companies and covert compan
 
 ### HEALING
 
-Each of your characters at a Darkhaven may heal during the untap phase of your turn. Such a character moves from a wounded position to a tapped position. In addition, certain cards can heal characters when they are played (e.g., _Foul-smelling Paste_).
+Each of your characters at a Haven may heal during the untap phase of your turn. Such a character moves from a wounded position to a tapped position. In addition, certain cards can heal characters when they are played (e.g., _Foul-smelling Paste_).
 
 ### RINGWRAITH EFFECTS
 
-> After being revealed, a Ringwraith operates like any other character except that it may only be in a company with other characters if it is at a Darkhaven. There are several other special effects:
+> After being revealed, a Ringwraith operates like any other character except that it may only be in a company with other characters if it is at a Haven. There are several other special effects:
 >
 > - Any gold ring in the Ringwraith's company is automatically tested at the beginning of the end-of-turn phase. Any ring test in a Ringwraith's company has a modification of -2.
 > - A Ringwraith may carry items (including rings) but may not use them (i.e., an item has no effect on a Ringwraith's company or on his attributes and abilities).
@@ -858,20 +856,20 @@ Orc scouts only count half towards a company's size (round up).
 
 There are three other limitations on the types of characters that can be in a company.
 
-> - Unless at a Darkhaven, an Orc or a Troll cannot be in a company that contains an Elf, a Dwarf, or a Dunadan—and vice versa.
-> - Unless at a Darkhaven, your Ringwraith's company may only contain your Ringwraith and Ringwraith followers (see [page 58]()).
-> - Unless at a Darkhaven, a company may only contain one leader. A leader is a character with the keyword "_leader_," in its text box. 
+> - Unless at a Haven, an Orc or a Troll cannot be in a company that contains an Elf, a Dwarf, or a Dunadan—and vice versa.
+> - Unless at a Haven, your Ringwraith's company may only contain your Ringwraith and Ringwraith followers (see [page 58]()).
+> - Unless at a Haven, a company may only contain one leader. A leader is a character with the keyword "_leader_," in its text box. 
 
 These limitations also apply to moving companies.
 
 > {: .note }
-> > **Note:** If two companies end up at a non-Darkhaven site and combining those companies would violate the limitations on company composition, one of the companies that just moved must return to its site of origin. Similarly. an effect that causes such a violation is cancelled (e.g., _We Have Come to Kill_).
+> > **Note:** If two companies end up at a non-Haven site and combining those companies would violate the limitations on company composition, one of the companies that just moved must return to its site of origin. Similarly. an effect that causes such a violation is cancelled (e.g., _We Have Come to Kill_).
 
 #### Discarding Characters
 
-Instead of bringing a new character into play during your organization phase, you may discard a character that is at a Darkhaven or at his home site. Your Ringwraith may not be discarded.
+Instead of bringing a new character into play during your organization phase, you may discard a character that is at a Haven or at his home site. Your Ringwraith may not be discarded.
 
-You must take this action when you are forced to discard a character due to a lack of available influence. In this case, the character(s) need not be at a Darkhaven.
+You must take this action when you are forced to discard a character due to a lack of available influence. In this case, the character(s) need not be at a Haven.
 
 {: .note }
 > **Clarification:** If a character's mind changes at any point, the influence required to control him also changes.
@@ -882,7 +880,7 @@ You must take this action when you are forced to discard a character due to a la
 
 To play a character card, you must have enough general influence or direct influence available to control the character. In addition, you must meet **both** of the following requirements:
 
- - If the character is _not_ an agent, you may only play him at his home site or at any Darkhaven site. If the character is an agent, you may only play him at his home site.
+ - If the character is _not_ an agent, you may only play him at his home site or at any Haven site. If the character is an agent, you may only play him at his home site.
  - If your Ringwraith is in play, your Ringwraith (or a character with enough direct influence to control the character to be played) must be at the site at which the character is to be played.
 
 
@@ -891,12 +889,12 @@ To play a character card, you must have enough general influence or direct influ
 If the following conditions are met, you may bring another (different) Ringwraith character into play at your Ringwraith's site—such a character is called a "Ringwraith follower."
 
 > - Your Ringwraith is already in play.
-> - Your Ringwraith is at a Darkhaven **or** he is at the Ringwraith follower's home site.
+> - Your Ringwraith is at a Haven **or** he is at the Ringwraith follower's home site.
 > - You have the card of the additional Ringwraith in your hand.
 > - Your opponent does _not_ have the Ringwraith already in play **and** the Ringwraith has _not_ been eliminated.
 > - You have the card or ability allowing a Ringwraith follower to be played (e.g., _They Ride Together_, The Witch-king's ability).
 
-A Ringwraith follower must always be under the control of your Ringwraith and may move to non-Darkhaven sites with your Ringwraith. Your Ringwraith must use 1 point of direct influence to control each Ringwraith follower. Your Ringwraith followers may not be influenced away by your opponent.
+A Ringwraith follower must always be under the control of your Ringwraith and may move to non-Haven sites with your Ringwraith. Your Ringwraith must use 1 point of direct influence to control each Ringwraith follower. Your Ringwraith followers may not be influenced away by your opponent.
 
 A Ringwraith follower may not use any of its special abilities. Uvatha's ability to automatically join another Ringwraith's company is an exception to this.
 
@@ -906,11 +904,11 @@ When you reveal your Ringwraith, your opponent must discard any identical Ringwr
 
 This is a summary of the special effects of the Ringwraith character.
 
-> - A Ringwraith may only be in a company with non-Ringwraith characters if he is at a Darkhaven.
+> - A Ringwraith may only be in a company with non-Ringwraith characters if he is at a Haven.
 > - Any ring in the Ringwraith's company at the beginning of the end-of-turn phase is automatically tested. Any ring test in a Ringwraith company has a modification of -2.
 > - A Ringwraith may carry items (including rings) but may not use them (i.e., an item has no effect on a Ringwraith's company or on his attributes and abilities). 
 > - Ringwraiths never make corruption checks and corruption cards may not be played on Ringwraiths. 
-> - Unless at a Darkhaven, a Ringwraith may not be in a company with non-Ringwraith characters.
+> - Unless at a Haven, a Ringwraith may not be in a company with non-Ringwraith characters.
 > - A Ringwraith may not use a site path that contains Coastal Sea regions.
 > - A Ringwraith's company may not use region movement.
 > - A Ringwraith follower is only discarded as described on the mode cards (i.e., _Heralded Lord_, _Black Rider_, and _Fell Rider_).
@@ -922,10 +920,10 @@ This is a summary of the special effects of the Ringwraith character.
 
 ### SPLITTING A COMPANY AT A NON-DARKHAVEN SITE 
 
-During the organization phase, a company at a non-Darkhaven site may split into two or more companies. The following instructions apply:
+During the organization phase, a company at a non-Haven site may split into two or more companies. The following instructions apply:
 
  - One of the companies may remain at the current site.
- - One of the companies may return to the nearest Darkhaven site indicated by the current site’s card.
+ - One of the companies may return to the nearest Haven site indicated by the current site’s card.
  - Any other companies must move to different sites using region movement.
 
 {: .note }
@@ -942,7 +940,7 @@ In _MELE_ the lands of northwest Middle-earth are represented by regions. The si
 {: .note }
 > **Note:** Site paths do not direct the movement process. The site path is used to determine which hazard creatures your opponent may play against your moving company.
 > 
-> **Note:** By using the site cards and site cards only, a company can move from any site to any other site. First, if necessary, the company moves to the nearest Darkhaven. Then, if necessary, it moves to other Darkhavens. Finally, it moves from that Haven to the destination site.
+> **Note:** By using the site cards and site cards only, a company can move from any site to any other site. First, if necessary, the company moves to the nearest Haven. Then, if necessary, it moves to other Havens. Finally, it moves from that Haven to the destination site.
 
 A company commits to moving by playing a _new site card_ (face down) during its organization phase. A company does not have to move during a given turn (i.e., it does not play a new site card).
 
@@ -953,18 +951,18 @@ At the end of a moving company’s movement/hazard phase (before players return 
 {: .note }
 > **Clarification:** Some cards can interrupt this process by forcing a company to return to its site of origin.
  
-#### Moving From a Non-Darkhaven Site
+#### Moving From a Non-Haven Site
 
-If the company’s site of origin is a non-Darkhaven site, the new site card _must_ be the Darkhaven listed as the nearest Darkhaven on the site of origin card (i.e., the company can move back to its nearest Darkhaven).
+If the company’s site of origin is a non-Haven site, the new site card _must_ be the Haven listed as the nearest Haven on the site of origin card (i.e., the company can move back to its nearest Haven).
 
-#### Moving From a Darkhaven Site
+#### Moving From a Haven Site
 
-If the company’s site of origin is a Darkhaven, the new site card must meet one of the following requirements:
- - If the new site card is not another Darkhaven, it must list the site of origin as its nearest Darkhaven (i.e., the company can move to any site that has the Darkhaven the company is at currently as the site's nearest Darkhaven).
- - If the new site card is another Darkhaven, it must give a site path to the Darkhaven (i.e., the company can move to one of its adjacent Darkhavens; each Darkhaven is adjacent to either one or two other Darkhavens).
+If the company’s site of origin is a Haven, the new site card must meet one of the following requirements:
+ - If the new site card is not another Haven, it must list the site of origin as its nearest Haven (i.e., the company can move to any site that has the Haven the company is at currently as the site's nearest Haven).
+ - If the new site card is another Haven, it must give a site path to the Haven (i.e., the company can move to one of its adjacent Havens; each Haven is adjacent to either one or two other Havens).
 
 {: .note }
-> **Clarification:** If a company is not moving, no cards are drawn. If a company is moving to a non-Darkhaven site, you _may_ draw up to the # of cards indicated by the site that it is _moving to_ (at least one card must be drawn); your opponent does the same. If a company is moving to a Darkhaven site, you _may_ draw up to the # of cards indicated by the site that it is _moving from_ (at least one card must be drawn); your opponent does the same.
+> **Clarification:** If a company is not moving, no cards are drawn. If a company is moving to a non-Haven site, you _may_ draw up to the # of cards indicated by the site that it is _moving to_ (at least one card must be drawn); your opponent does the same. If a company is moving to a Haven site, you _may_ draw up to the # of cards indicated by the site that it is _moving from_ (at least one card must be drawn); your opponent does the same.
 
 {: .text-center }
 ![](/assets/images/mele-starter-movement.svg)
@@ -972,14 +970,14 @@ If the company’s site of origin is a Darkhaven, the new site card must meet on
 {: .note }
 > **Clarification:** To summarize the movement process:
 > - Except for a moving company during its movement/hazard phase, each company is always at a specific site, called its _current site_.
-> - A company wanting to move to a _new site_ plays a new site card face down beside its current site card by the end of its organization phase. A company can only move: from a non-darkhaven site to its “Nearest Haven,” from a Darkhaven site to one of its “adjacent Darkhavens,” or from a Darkhaven site to a non-Darkhaven site that lists that Darkhaven as its “Nearest Darkhaven.”
+> - A company wanting to move to a _new site_ plays a new site card face down beside its current site card by the end of its organization phase. A company can only move: from a non-haven site to its “Nearest Haven,” from a Haven site to one of its “adjacent Havens,” or from a Haven site to a non-Haven site that lists that Haven as its “Nearest Haven.”
 > - At the beginning of its movement/hazard phase, a moving company’s new site card is revealed and its current site card becomes its _site of origin_.
 > - At the end of its movement/hazard phase, the site of origin is removed and the moving company’s new site card becomes the company’s current site card (unless the company is forced to return to its site of origin).
 > 
 > **Suggestion:** To help decide where a company should move, look at the resource cards in your hand. Then decide to which of your available sites to move. For example, if you have a major item, go to a site where a major item can be played.
 
 {: .note }
-> **Example:** Wendy’s company is at Barad-dur (i.e., its current site) and wants to go to The Lonely Mountain to try and bring the Smaug Aroused faction into play. Barad-dur’s nearest Darkhaven is Minas Morgul, while The Lonely Mountain's nearest Darkhaven is Dol Guldur. 
+> **Example:** Wendy’s company is at Barad-dur (i.e., its current site) and wants to go to The Lonely Mountain to try and bring the Smaug Aroused faction into play. Barad-dur’s nearest Haven is Minas Morgul, while The Lonely Mountain's nearest Haven is Dol Guldur. 
 > 
 > First, it takes one turn to move from Barad-dur to Minas Morgul using the site path, ![](/assets/images/dark-domain.svg) ![](/assets/images/shadow-land.svg), indicated on the Barad-dur site card. Wendy just plays the Minas Morgul site card as her new site card during her organization phase, and she removes the Barad-dur site card at the end of her company's movement/hazard phase.
 > 
@@ -991,12 +989,12 @@ If the company’s site of origin is a Darkhaven, the new site card must meet on
 ### MOVING YOUR RINGWRAITH'S COMPANY
 
 
-The company containing your Ringwraith may freely move from Darkhaven to Darkhaven and from a non-Darkhaven site to a Darkhaven. However, in order to move from a Darkhaven to a non-Darkhaven site, a Ringwraith must have a special resource card: a _Black Rider_ card, a _Fell Rider_ card, or a _Heralded Lord_ card (i.e., the Ringwraith must be in Black Rider mode, in Fell Rider mode, or in Heralded Lord Mode).
+The company containing your Ringwraith may freely move from Haven to Haven and from a non-Haven site to a Haven. However, in order to move from a Haven to a non-Haven site, a Ringwraith must have a special resource card: a _Black Rider_ card, a _Fell Rider_ card, or a _Heralded Lord_ card (i.e., the Ringwraith must be in Black Rider mode, in Fell Rider mode, or in Heralded Lord Mode).
 
 
 > 
 > {: .note }
-> > **Example:** Suppose Ren the Ringwraith is at Barad-dur and wants to move to The Lonely Mountain as outlined in the previous example. On his first turn, he moves to Minas Morgul—he does not need a special card because he is moving from a non-Darkhaven site to a Darkhaven. On his second turn, he moves from Minas Morgul to Dol Guldur as outlined—he does not need a special card because he is moving from a Darkhaven to a Darkhaven. On his third turn, he plays a _Black Rider_ card in order to move from Dol Guldur (a Darkhaven) to The Lonely Mountain (a non-Darkhaven).
+> > **Example:** Suppose Ren the Ringwraith is at Barad-dur and wants to move to The Lonely Mountain as outlined in the previous example. On his first turn, he moves to Minas Morgul—he does not need a special card because he is moving from a non-Haven site to a Haven. On his second turn, he moves from Minas Morgul to Dol Guldur as outlined—he does not need a special card because he is moving from a Haven to a Haven. On his third turn, he plays a _Black Rider_ card in order to move from Dol Guldur (a Haven) to The Lonely Mountain (a non-Haven).
 
 ### SITE PATHS
 
@@ -1004,27 +1002,27 @@ There are six types of regions and six types of sites:
 
 | Region Type | Symbol | Site Type | Symbol |
 | :--- | :--- | :--- | :--- | 
-Coastal Seas |  ![](/assets/images/coastalsea.svg)  |  Darkhavens  |   ![](/assets/images/dark-haven.svg) 
+Coastal Seas |  ![](/assets/images/coastalsea.svg)  |  Havens  |   ![](/assets/images/dark-haven.svg) 
 Free-domains |   ![](/assets/images/free-domain.svg)  | Free-holds  |  ![](/assets/images/free-hold.svg) 
 Border-lands |   ![](/assets/images/border-land.svg) | Border-holds  |  ![](/assets/images/border-hold.svg) 
 Wilderness  |   ![](/assets/images/wilderness.svg)  | Ruins & Lairs  |  ![](/assets/images/ruinlair.svg) 
 Shadow-lands  |  ![](/assets/images/shadow-land.svg)  | Shadow-holds  |  ![](/assets/images/shadow-hold.svg) 
 Dark-domains  |  ![](/assets/images/dark-domain.svg)  | Dark-holds |   ![](/assets/images/dark-hold.svg) 
 
-A _site path_ is the sequence of regions between a site and its nearest Darkhaven. However, each region in the sequence is only indicated by its type, not by its name. Each non-Darkhaven site card has a site path on it. Each Darkhaven site card has two site paths, but each of those two paths gives the sequence of regions between the Darkhaven and one of the two Darkhavens nearest to it.
+A _site path_ is the sequence of regions between a site and its nearest Haven. However, each region in the sequence is only indicated by its type, not by its name. Each non-Haven site card has a site path on it. Each Haven site card has two site paths, but each of those two paths gives the sequence of regions between the Haven and one of the two Havens nearest to it.
 
 {: .note }
 > **Note:** Site paths do not direct the movement process. The site path is used to determine which hazard creatures your opponent may play against your moving company (see [page 46]()).
 > 
-> **Clarification:** A “company’s site path” during its movement/hazard phase is the site path between its site of origin and its new site. On non-Darkhaven site cards, the site path is provided on the top left border. On Darkhaven cards, the site path to each of the two adjacent Darkhavens is provided in the card text.
+> **Clarification:** A “company’s site path” during its movement/hazard phase is the site path between its site of origin and its new site. On non-Haven site cards, the site path is provided on the top left border. On Haven cards, the site path to each of the two adjacent Havens is provided in the card text.
 
 {: .note }
-> **Example:** The Lonely Mountain site’s nearest Darkhaven is the Dol Guldur site. The symbol for Wilderness is ![](/assets/images/wilderness.svg), the symbol for Dark-domain is ![](/assets/images/dark-domain.svg). So the site path between Dol Guldur and the Lonely Mountain is: ![](/assets/images/dark-domain.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg). 
+> **Example:** The Lonely Mountain site’s nearest Haven is the Dol Guldur site. The symbol for Wilderness is ![](/assets/images/wilderness.svg), the symbol for Dark-domain is ![](/assets/images/dark-domain.svg). So the site path between Dol Guldur and the Lonely Mountain is: ![](/assets/images/dark-domain.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg). 
 > 
 > The regions between these two sites are Southern Mirkwood (Dark-domain), Heart of Mirkwood (Wilderness), and Northern Rhovanion (Wilderness).
 
 {: .note }
-> **Example:** In the Example of movement from Barad-dur to The Lonely Mountain on [page 25](), the first site path used was from Barad-dur to Minas Morgul: ![](/assets/images/dark-domain.svg) ![](/assets/images/shadow-land.svg). During that movement/hazard phase, Nick (Wendy’s opponent) can play hazard creatures keyed to Dark-domains (![](/assets/images/dark-domain.svg)), Shadow-lands (![](/assets/images/shadow-land.svg)), and Darkhavens (the new site). During the next turn, the company uses the site path from Minas Morgul to Dol Guldur: ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg) ![](/assets/images/dark-domain.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg). During that movement/hazard phase, Nick can play hazard creatures keyed to Shadow-lands (![](/assets/images/shadow-land.svg)), double Shadow-lands (![](/assets/images/shadow-land.svg) ![](/assets/images/shadow-land.svg)), Dark-domains (![](/assets/images/dark-domain.svg)), double Dark-domains (![](/assets/images/dark-domain.svg) ![](/assets/images/dark-domain.svg)) and Darkhavens (the new site). Finally, the company takes one turn to move from Dol Guldur to The Lonely Mountain using the site path, ![](/assets/images/shadow-land.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg). Nick can play hazard creatures keyed to Wilderness (![](/assets/images/wilderness.svg)), double Wilderness (![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg)), Shadow-lands (![](/assets/images/border-land.svg)), double Shadow-lands (![](/assets/images/border-land.svg) ![](/assets/images/border-land.svg)), and Ruins & Lairs (the new site).
+> **Example:** In the Example of movement from Barad-dur to The Lonely Mountain on [page 25](), the first site path used was from Barad-dur to Minas Morgul: ![](/assets/images/dark-domain.svg) ![](/assets/images/shadow-land.svg). During that movement/hazard phase, Nick (Wendy’s opponent) can play hazard creatures keyed to Dark-domains (![](/assets/images/dark-domain.svg)), Shadow-lands (![](/assets/images/shadow-land.svg)), and Havens (the new site). During the next turn, the company uses the site path from Minas Morgul to Dol Guldur: ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg) ![](/assets/images/dark-domain.svg) ![](/assets/images/shadow-land.svg) ![](/assets/images/dark-domain.svg). During that movement/hazard phase, Nick can play hazard creatures keyed to Shadow-lands (![](/assets/images/shadow-land.svg)), double Shadow-lands (![](/assets/images/shadow-land.svg) ![](/assets/images/shadow-land.svg)), Dark-domains (![](/assets/images/dark-domain.svg)), double Dark-domains (![](/assets/images/dark-domain.svg) ![](/assets/images/dark-domain.svg)) and Havens (the new site). Finally, the company takes one turn to move from Dol Guldur to The Lonely Mountain using the site path, ![](/assets/images/shadow-land.svg) ![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg). Nick can play hazard creatures keyed to Wilderness (![](/assets/images/wilderness.svg)), double Wilderness (![](/assets/images/wilderness.svg) ![](/assets/images/wilderness.svg)), Shadow-lands (![](/assets/images/border-land.svg)), double Shadow-lands (![](/assets/images/border-land.svg) ![](/assets/images/border-land.svg)), and Ruins & Lairs (the new site).
 
 {: .note }
 > #### Region Types
@@ -1044,7 +1042,7 @@ A _site path_ is the sequence of regions between a site and its nearest Darkhave
 > {: .text-center }
 > #### Site Types
 >
-> _Darkhavens_ \[ ![](/assets/images/dark-haven.svg) ]: Sites of rest and healing (e.g., Minas Morgul, Dol Guldur, Carn Dum, and Geann a-Lisch).
+> _Havens_ \[ ![](/assets/images/dark-haven.svg) ]: Sites of rest and healing (e.g., Minas Morgul, Dol Guldur, Carn Dum, and Geann a-Lisch).
 > 
 >_Free-holds_ \[ ![](/assets/images/free-hold.svg) ]: Dangerous sites for minions of Sauron (e.g., Minas Tirith, Edoras, etc.).
 >
@@ -1065,11 +1063,11 @@ _A Ringwraith's company may not use region movement._
 If both players agree, they can use region movement as it is used in _METW_. See page 78 for region movement guidelines.
 
 {: .note }
-> **Clarification:** Region movement is not necessary to play this game. Region movement just gives you more options; i.e., with region movement a company need not move to a Darkhaven every other turn. Region cards are not included in _MELE_. However, the map in the color insert facilitates region movement.
+> **Clarification:** Region movement is not necessary to play this game. Region movement just gives you more options; i.e., with region movement a company need not move to a Haven every other turn. Region cards are not included in _MELE_. However, the map in the color insert facilitates region movement.
 
 ### MOVING COMPANIES TO THE SAME NON-DARKHAVEN SITE
 
-During the organization phase, two or more companies may move to the same non-Darkhaven site, but one of the following cases must apply:
+During the organization phase, two or more companies may move to the same non-Haven site, but one of the following cases must apply:
 
 {: .blank .mb-1 }
 >
@@ -1084,7 +1082,7 @@ During the organization phase, two or more companies may move to the same non-Da
 In both cases, the two companies must face hazards separately and are then combined at the end of the movement/hazard phase. If two companies end up at a site and combining those companies would violate the limitations on company composition (see [page 57]()), one of these companies must return to its site of origin. Similarly, an effect that causes such a violation is cancelled.
 
 > {: .note }
-> > **Note:** This means that your Ringwraith's company may not move to the same non-Darkhaven site as one of your other companies, since this would result in your Ringwraith joining with other characters.
+> > **Note:** This means that your Ringwraith's company may not move to the same non-Haven site as one of your other companies, since this would result in your Ringwraith joining with other characters.
 
 ## 6 • MOVEMENT - USING MELE WITH METW
 
@@ -1691,7 +1689,7 @@ Unless stated otherwise, a card is playable only if its effect applies to an exi
 > {: .note }
 > > **Note:** _MELE_ resources are different from _METW_ resources. _MELE_ resources are referred to as "minion resources" and _METW_ resources are referred to as "hero resources." See [page 74]() for more information.
  
-During your movement/hazard phase, both players draw cards when each company moves. If a company moves to a non-Darkhaven site, you _may_ draw up to the number of cards indicated by the site that it _moved to_ (at least one card must be drawn); your opponent does the same. If the company moves to a Darkhaven site, you _may_ draw up to the number of cards indicated by the site that you _moved from_ (at least one card must be drawn); your opponent does the same.
+During your movement/hazard phase, both players draw cards when each company moves. If a company moves to a non-Haven site, you _may_ draw up to the number of cards indicated by the site that it _moved to_ (at least one card must be drawn); your opponent does the same. If the company moves to a Haven site, you _may_ draw up to the number of cards indicated by the site that you _moved from_ (at least one card must be drawn); your opponent does the same.
 
 ### EVENTS
 
@@ -1827,7 +1825,7 @@ You may use a creature card to _directly attack_ one of your opponent’s compan
 - At least one of the region symbols on the creature’s card matches one of the region types the company moved through this turn (see below). If the creature’s card has two region symbols of the same type (i.e., a deep Wilderness creature), then the company must have moved through at least two regions of that same type.
 
 {: .note }
-> **Note:** The Geann a-Lisch site is a Darkhaven. However, as stated on its card, creatures keyed to Ruins & Lairs may be played against a company that has Geann a-Lisch as its new site or as its current site if it did not move.
+> **Note:** The Geann a-Lisch site is a Haven. However, as stated on its card, creatures keyed to Ruins & Lairs may be played against a company that has Geann a-Lisch as its new site or as its current site if it did not move.
 > 
 > **Clarification:** Two wilderness symbols are required in a site path to play a deep Wilderness creature. However, the two symbols need not be adjacent in the site path. For example, a deep wilderness creature may be played keyed to the site path: ![](/assets/images/wilderness.svg) ![](/assets/images/border-land.svg) ![](/assets/images/border-land.svg) ![](/assets/images/wilderness.svg). If a company travels with two Wilderness in its site path, the chance of encountering very dangerous Wilderness monsters has doubled, even if the two wildernesses are not adjacent.
 
@@ -1836,9 +1834,9 @@ If a creature satisfies more than one of these conditions, you must choose (when
 The region types that a company moves through during a given turn are determined by the following criteria:
 
  - If a company did not play a new site card, it did not move through any regions—so, no creature may be played based solely on region conditions.
- - If the company was at a _Darkhaven_ and has played a new _non-Darkhaven_ site card, the region types are indicated by the new site card’s site path.
- - If the company was at a _Darkhaven_ site and has played a new _Darkhaven_ site card (but no region cards), the region types are indicated by the new Darkhaven site card’s “Site Path from” the old Darkhaven site (i.e., the site path from the site of origin Darkhaven).
- - If the company was at a _non-Darkhaven_ site and has played a new _Darkhaven_ site card (but no region cards), the region types are indicated by the site of origin’s site path (i.e., the site path on the site that the company left).
+ - If the company was at a _Haven_ and has played a new _non-Haven_ site card, the region types are indicated by the new site card’s site path.
+ - If the company was at a _Haven_ site and has played a new _Haven_ site card (but no region cards), the region types are indicated by the new Haven site card’s “Site Path from” the old Haven site (i.e., the site path from the site of origin Haven).
+ - If the company was at a _non-Haven_ site and has played a new _Haven_ site card (but no region cards), the region types are indicated by the site of origin’s site path (i.e., the site path on the site that the company left).
  - _Standard Rules:_ If the company used region movement, the region types of the site path are indicated by the region cards or an appropriate map (i.e., each region card has a region type).
 
 {: .note }
@@ -1852,11 +1850,11 @@ _Doors of Night_, _Dire Wolves_ has 6 strikes with a prowess of 10.
 
 ### STORING CARDS
 
-During your organization phase, you may _store_ any of your items that are at a Darkhaven site. The controlling character must make a corruption check before an item can be stored.
+During your organization phase, you may _store_ any of your items that are at a Haven site. The controlling character must make a corruption check before an item can be stored.
 
 A stored item is placed in your _marshalling point pile_ and counts for marshalling points. Once an item is stored it may not be unstored and brought back into play. _The One Ring_ may never be stored.
 
-Some items and resource cards state that they can be stored when at a specific site (e.g., the _Seize Prisoners_ card can be stored at a Darkhaven)—other cards may not be stored. Such an item or resource card is still placed in the marshalling point pile and cannot be brought back into play.
+Some items and resource cards state that they can be stored when at a specific site (e.g., the _Seize Prisoners_ card can be stored at a Haven)—other cards may not be stored. Such an item or resource card is still placed in the marshalling point pile and cannot be brought back into play.
 
 > {: .note }
 > > **Note:** If you store a gold ring, it is automatically tested (see [page 44]()).
@@ -2076,14 +2074,14 @@ The following list provides a definition of the most common game terms. In many 
 **General Influence:** 20 points of influence a player inherently possesses—used to control characters.   
 **Hazard Limit:** The maximum number of hazard cards that may be played against a company. The hazard limit equals the company's size (to a minimum of two) when it declares its movement/hazard phase is starting.    
 **Hazards:** Cards with a steel grey metal background. You may only play hazards during your opponent's movement/hazard phase.   
-**Healing:** Moving a character at a Darkhaven from wounded to tapped during his untap phase. Certain cards allow healing at other times, and some even to an untapped state.   
+**Healing:** Moving a character at a Haven from wounded to tapped during his untap phase. Certain cards allow healing at other times, and some even to an untapped state.   
 **Hero:** A character controlled by a Wizard player. Non-Wizard hero cards have a blue stone background. Each Wizard hero card has a differently colored stone background. Heroes are not included in _MELE_.   
-**Home Site:** A site listed in a character's card where he may be brought into play (or discarded during your organization phase) in addition to Darkhavens.   
+**Home Site:** A site listed in a character's card where he may be brought into play (or discarded during your organization phase) in addition to Havens.   
 **Influence Check:** A dice roll you make when your character is attempting to influence a faction or an opponent's card. Influence checks are called for in others situations also.   
 **Item:** A resource playable at an untapped site during the site phase that taps the site. The different types of items are: minor, major, greater, gold ring, and special.   
 **Keyed To… (or Played At…):** The manner a creature is played on a company. A creature is either: keyed to a region by type or name in a moving company's site path, or keyed to (played at) a moving company's new site by type or name, or keyed to (played at) the current site by type or name of a company that is not moving.   
 **Keyword:** An italicized word in a card's text box typically stood off with a period. Keywords carry no inherent rules, but rather are used as card identifiers when determining if another card affects them. Many keywords do have rules accompanying them, however, like _Unique_ and _Corruption_. Any words given in a card's classification line are also keywords.   
-**Location Deck:** Your deck of available sites (and region cards, if used). Only one of each non-Darkhaven site may be included in your location deck.   
+**Location Deck:** Your deck of available sites (and region cards, if used). Only one of each non-Haven site may be included in your location deck.   
 **Long-event:** A resource or hazard that stays in play for approximately two turns. Resource long-events can be played during your long-event phase. Hazard long-events can be played during your opponent's movement/hazard phase. Long-events are discarded during the appropriate player's long-event phase as described in the Full Player Turn Summary.
 **Marshalling points:** The number printed in a card's upper left corner. A card's marshalling points relates how important that card is to Sauron. After the Audience of Sauron/Free Council, the winner is the player with the most accumulated marshalling points.   
 **Mind:** The attribute that determines how many influence points are required to control that character.   
@@ -2102,12 +2100,12 @@ The following list provides a definition of the most common game terms. In many 
 **Resources (minion):** Cards with a grey-blue steel background. You may only play resources during your turn. Hero resources (not included in _MELE_) have a copper metal background.   
 **Short-event:** A resource or hazard that is discarded when it resolves (though it may have a lasting effect).   
 **Site of Origin:** The site where a moving company began its turn. The company is no longer at its site of origin when it reveals a new site at the beginning of its movement/hazard phase.   
-**Site:** The locations in Middle-earth represented by cards with a grey parchment background. Sites are represented in 2 ways: by name and by type. There are six site types in _MELE_: Darkhaven ![](/assets/images/dark-haven.svg), Free-hold ![](/assets/images/free-hold.svg), Border-hold ![](/assets/images/border-hold.svg), Ruins & Lairs ![](/assets/images/ruinlair.svg), Shadow-hold ![](/assets/images/shadow-hold.svg), and Dark-hold ![](/assets/images/dark-hold.svg).   
+**Site:** The locations in Middle-earth represented by cards with a grey parchment background. Sites are represented in 2 ways: by name and by type. There are six site types in _MELE_: Haven ![](/assets/images/dark-haven.svg), Free-hold ![](/assets/images/free-hold.svg), Border-hold ![](/assets/images/border-hold.svg), Ruins & Lairs ![](/assets/images/ruinlair.svg), Shadow-hold ![](/assets/images/shadow-hold.svg), and Dark-hold ![](/assets/images/dark-hold.svg).   
 **Site Path, Site's:** The sequence of region types listed on a site's card.  
 **Site Path, Company's:** The sequence of regions (by name and by type) through which a moving company moves. Most effects that refer to a site path mean a company's site path. However, you must be sure to recognize those effects that refer to a site's site path.   
 **Skill:** An attribute of a character as listed on the classification line. The five skills are: Diplomat, Ranger, Sage, Scout, and Warrior.
 **Standard Modification:** A modifier to an influence check against a faction that is printed on the faction's card. Certain factions (like Dragon factions) list simple Modifications which affect an influence check the same way, but do not count as Standard Modifications as a keyword (like when interpreting _Old Prejudice_).   
-**Storing Cards:** During your organization phase, taking a card from a character or company to your marshalling point pile. An item can normally be stored if its bearer is at a Darkhaven, but other cards require explicit instructions given on the card.  
+**Storing Cards:** During your organization phase, taking a card from a character or company to your marshalling point pile. An item can normally be stored if its bearer is at a Haven, but other cards require explicit instructions given on the card.  
 **Strike:** The portion of an attack that affects an individual character. Each attack has one or more strikes, each of which an individual character must face in a strike sequence. If an attack has more strikes than a defending company has characters, every character faces one strike and the excess strikes are converted to -1 modifiers.   
 **Strike Sequence:** The time from when you declare one of your characters will resolve a strike until the strike dice roll is made and associated body checks are made. No actions may be declared except those that directly affect the strike as listed on [page 33](). Between strike sequences of an attack, players can declare more general effects (except declaring an attack and changing the current attack's number of strikes.)  
 **Tapping a Card:** Moving a card 90 degrees to a sideways position.  
@@ -2203,7 +2201,7 @@ Dark-domains  |  ![](/assets/images/dark-domain.svg)
 
 | Site Type | Symbol |
 | :--- | :--- |
- Darkhavens  |   ![](/assets/images/dark-haven.svg)
+ Havens  |   ![](/assets/images/dark-haven.svg)
  Free-holds  |  ![](/assets/images/free-hold.svg)
  Border-holds  |  ![](/assets/images/border-hold.svg)
  Ruins & Lairs |  ![](/assets/images/ruinlair.svg)
