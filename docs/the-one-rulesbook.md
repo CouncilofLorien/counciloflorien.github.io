@@ -137,16 +137,15 @@ Two six-sided dice (2D6) should be used to generate random values during play. T
 
 The game ends when one of the following occurs during play:
 
-> 1. If your Ringwraith is "eliminated" (i.e., fails a body check)—your opponent wins.
-> 2. If you move _The One Ring_ to Barad-dur—Sauron is reunited with _The One Ring_ and you win. (See page 44 for more on Rings).
-> 3. Otherwise, the winner is decided at the _Audience with Sauron_.<br>This audience is called when one of the following occurs:
-> - When each play deck has been exhausted once, the audience starts at the end of the current turn.
-> - If your play deck has been exhausted _and_ you play a _Sudden Call_ card as a **resource** during one of your turns, the audience starts following your opponent's next turn (i.e., your opponent gets one last turn).
+ 1. If your Ringwraith is "eliminated" (i.e., fails a body check)—your opponent wins.
+ 2. If you move _The One Ring_ to Barad-dur—Sauron is reunited with _The One Ring_ and you win. (See page 44 for more on Rings).
+ 3. Otherwise, the winner is decided at the _Audience with Sauron_.<br>This audience is called when one of the following occurs:
+ - When each play deck has been exhausted once, the audience starts at the end of the current turn.
+ - If your play deck has been exhausted _and_ you play a _Sudden Call_ card as a **resource** during one of your turns, the audience starts following your opponent's next turn (i.e., your opponent gets one last turn).
+ - If you have at least 20 marshalling points _and_ you play a _Sudden Call_ card as a **resource** during one of your turns, the audience starts following your opponent's next turn (i.e., your opponent gets one last turn).
 
-> - If you have at least 20 marshalling points _and_ you play a _Sudden Call_ card as a **resource** during one of your turns, the audience starts following your opponent's next turn (i.e., your opponent gets one last turn).
-
-> {: .note }
-> > **Note:** In the Standard Game, you may use a _Sudden Call_ card as a Hazard to cause the Audience with Sauron to be called (see page 54).
+{: .note }
+> **Note:** In the Standard Game, you may use a _Sudden Call_ card as a Hazard to cause the Audience with Sauron to be called (see page 54).
 
 {: .note }
 > **Note:** If one or both players only has access to a starter deck (76 cards), this requirement of 20 marshaling points should be lowered to 18.
@@ -236,12 +235,12 @@ In a "4-deck game" (the "campaign game"), the Audience is called when each play 
 
 There are six different types of marshalling points; each is associated with a specific shape:
 
-> | Character Points | ![](/assets/images/charactermp.svg) | 
-> | Item Points (Major, Greater, & Rings only) | ![](/assets/images/itemmp.svg) | 
-> | Faction Points | ![](/assets/images/factionmp.svg) | 
-> | Ally Points | ![](/assets/images/allymp.svg) | 
-> | Kill Points (from defeating "\*" creatures) | ![](/assets/images/killmp.svg) | 
-> | Miscellaneous Points | ![](/assets/images/miscmp.svg) | 
+| Character Points | ![](/assets/images/charactermp.svg) | 
+| Item Points (Major, Greater, & Rings only) | ![](/assets/images/itemmp.svg) | 
+| Faction Points | ![](/assets/images/factionmp.svg) | 
+| Ally Points | ![](/assets/images/allymp.svg) | 
+| Kill Points (from defeating "\*" creatures) | ![](/assets/images/killmp.svg) | 
+| Miscellaneous Points | ![](/assets/images/miscmp.svg) | 
 
 At the audience, these types of marshalling points affect your final marshalling point total in two ways (apply them in the order listed):
 
@@ -293,8 +292,8 @@ Finally, you may reveal any unique marshalling point cards in your hand that mat
 
 In addition to the normal situations outlined in the Starter Game, the Audience with Sauron is called when one of the following occurs:
 
-> - If your opponent's play deck has been exhausted _and_ you play a _Sudden Call_ card as a **hazard** during one of his turns, the audience starts following your next turn (i.e., you get one last turn).
-> - If your opponent has at least 20 marshalling points _and_ you play a _Sudden Call_ card as a **hazard** during one of his turns, the audience starts following your next turn (i.e., you get one last turn).
+ - If your opponent's play deck has been exhausted _and_ you play a _Sudden Call_ card as a **hazard** during one of his turns, the audience starts following your next turn (i.e., you get one last turn).
+ - If your opponent has at least 20 marshalling points _and_ you play a _Sudden Call_ card as a **hazard** during one of his turns, the audience starts following your next turn (i.e., you get one last turn).
 
 ## 1 • THE VICTORY CONDITIONS - USING MELE WITH METW
 
@@ -319,23 +318,22 @@ At the Audience/Council, you may reveal any unique marshalling point cards in yo
 
 There are four types of cards: site cards, character cards (including Ringwraith cards), resource cards, hazard cards.
 
-> {: .note }
-> > **Note:** Color diagrams of the various types of cards can be found in the color insert. The card types can be distinguished as follows:
-> > 
-> > _Site cards_ have a grey parchment background on the front.
-> > 
-> > _Character cards_ (non-Ringwraith) have a rusted-purplish iron background on the front. Each Ringwraith card has a blood-red stone background. 
-> > 
-> > _Resource cards_ have a grey-blue steel background on the front.
-> > 
-> > _Hazard cards_ have a steel grey metal background on the front.
-> > 
-> > _Site cards_ (i.e., location cards) have a map of Middle-earth on the back.
-> > 
-> > _Character_, _resource_, and _hazard cards_ have the burning eye on the back.
-> > 
-> > **Note:** _MELE_ doesn't include region cards. If you have _METW_ region cards, you can use region movement as outlined on page 78.
-> >
+{: .note }
+> **Note:** Color diagrams of the various types of cards can be found in the color insert. The card types can be distinguished as follows:
+> 
+> _Site cards_ have a grey parchment background on the front.
+> 
+> _Character cards_ (non-Ringwraith) have a rusted-purplish iron background on the front. Each Ringwraith card has a blood-red stone background. 
+> 
+> _Resource cards_ have a grey-blue steel background on the front.
+> 
+> _Hazard cards_ have a steel grey metal background on the front.
+> 
+> _Site cards_ (i.e., location cards) have a map of Middle-earth on the back.
+> 
+> _Character_, _resource_, and _hazard cards_ have the burning eye on the back.
+> 
+> **Note:** _MELE_ doesn't include region cards. If you have _METW_ region cards, you can use region movement as outlined on page 78.
 
 {: .note }
 > **Clarification:** For emphasis, a value used during play is often provided both in a card’s text and in another place on the same card. For example, a character’s corruption check modification is stated both in the text and the lower right corner of the character’s card.
@@ -456,7 +454,7 @@ Certain entities (e.g., _Stinker_, Ringwraiths, etc.) have several different _ma
  - If an attack from a manifestation is defeated, the manifestation is removed from active play and you may not play any further manifestations of the same entity.
 
 > {: .note }
- > **Exception:** If you reveal your Ringwraith (see [page 20]()), any manifestations of that Ringwraith are immediately discarded (e.g., a corresponding Nazgul hazard or an identical Ringwraith card that has been played as a "Ringwraith follower," see [page 58]()). You cannot reveal a Ringwraith if your opponent has already revealed that same Ringwraith as his own (non-follower) Ringwraith.
+> **Exception:** If you reveal your Ringwraith (see [page 20]()), any manifestations of that Ringwraith are immediately discarded (e.g., a corresponding Nazgul hazard or an identical Ringwraith card that has been played as a "Ringwraith follower," see [page 58]()). You cannot reveal a Ringwraith if your opponent has already revealed that same Ringwraith as his own (non-follower) Ringwraith.
 
 {: .note}
 > **Exception:** Different manifestations of the same unique Dragon may be in play at the same time.
@@ -529,40 +527,13 @@ would make little sense in terms of simulating Tolkien's works. Again, it is up 
 
 Follow these steps to get ready to play:
 
-{: .bullets .mb-1 }
->
-> {: .mb-1 .mt-1 }
->  1. Place your site cards in your location deck. This deck should contain all of your Haven cards (i.e., Minas Morgul, Dol Guldur, Carn Dum, and Geann a-Lisch). You may include any number of Haven cards, but only one of each non-Haven site card.
-
-{: .blank .mb-1 .mt-1 }
-> 
-> {:style="counter-reset:step-counter 1" .mb-1 .mt-1 }
-> 2. Place between 25 and 50 Resource cards **and** an equal number of Hazard cards in your play deck (if you have fewer than 25 of either available, just use all of the cards you have). Only one of each “unique” card may be included. No more than three copies of any one non-unique card may be included.
-
-{: .bullets .mb-1 .mt-1 }
->
-> {:style="counter-reset:step-counter 2" .mb-1 .mt-1 }
-> 3. Place one to six starting characters (no Ringwraiths, no minion agents from _Dark Minions_) face down in front of you. The combined mind attributes (see [page 18]()) of these characters must be 20 or less. You and your opponent reveal your characters simultaneously, placing any duplicated characters into your play decks. Then organize your starting characters into followers and companies and place them at Minas Morgul (i.e., place a Minas Morgul site card next to them).
-
-{: .blank .mb-1 .mt-1 }
->
-> {:style="counter-reset:step-counter 3" .mb-1 .mt-1 }
-> 4. You _may_ assign up to two non-unique minor items to your starting characters (i.e., 2 items total, **not** 2 to each character). These items must come from cards that you have not committed to your play deck.
-
-{: .blank .mb-1 .mt-1 }
->
-> {:style="counter-reset:step-counter 4" .mb-1 .mt-1  }
->  5. Place up to 10 non-Ringwraith character cards in your play deck. Only one of each character card may be included. In addition, place up to two Ringwraith cards in your play deck (you may place two copies of the same Ringwraith). Shuffle your play deck.
-
-{: .blank .mb-1 .mt-1 }
->
-> {:style="counter-reset:step-counter 5" .mb-1 .mt-1  }
->  6. Draw a hand of eight cards from your play deck.
-
-{: .blank .mt-1 }
->
-> {:style="counter-reset:step-counter 6" .mt-1  }
->  7. Each player makes a roll, and the player with the highest result goes first (reroll if tied).
+ 1. Place your site cards in your location deck. This deck should contain all of your Haven cards (i.e., Minas Morgul, Dol Guldur, Carn Dum, and Geann a-Lisch). You may include any number of Haven cards, but only one of each non-Haven site card.
+ 2. Place between 25 and 50 Resource cards **and** an equal number of Hazard cards in your play deck (if you have fewer than 25 of either available, just use all of the cards you have). Only one of each “unique” card may be included. No more than three copies of any one non-unique card may be included.
+ 3. Place one to six starting characters (no Ringwraiths, no minion agents from _Dark Minions_) face down in front of you. The combined mind attributes (see [page 18]()) of these characters must be 20 or less. You and your opponent reveal your characters simultaneously, placing any duplicated characters into your play decks. Then organize your starting characters into followers and companies and place them at Minas Morgul (i.e., place a Minas Morgul site card next to them).
+ 4. You _may_ assign up to two non-unique minor items to your starting characters (i.e., 2 items total, **not** 2 to each character). These items must come from cards that you have not committed to your play deck.
+ 5. Place up to 10 non-Ringwraith character cards in your play deck. Only one of each character card may be included. In addition, place up to two Ringwraith cards in your play deck (you may place two copies of the same Ringwraith). Shuffle your play deck.
+ 6. Draw a hand of eight cards from your play deck.
+ 7. Each player makes a roll, and the player with the highest result goes first (reroll if tied).
  
 {: .note } 
 > **Clarification:** None of your starting characters may be considered to be followers for the purposes of determining their combined mind attributes. That is, these characters have to have combined mind attributes of 20 or less. 
@@ -619,10 +590,9 @@ Untap all of your other tapped non-site cards.
 
 The following actions may be taken in any order:
 
-
  - Store items at a Haven and transfer items between your characters at the same site. A corruption check is required for the character giving up an item.
  - Store other designated resources from your companies at sites specified on their cards.
- - Make company composition changes including:
+ - Make any of the following company composition changes. Company composition changes that you choose to make must all be done at the same time and during this time no other actions may be taken. (See pages XXX-XXX.)
    - Play a character card.
    - Reorganize your characters at the same site into any number of companies.
    - Shift your characters between being controlled by general influence and being controlled by direct influence.
@@ -632,7 +602,6 @@ The following actions may be taken in any order:
       - Play a new site card (face down) and a series of up to four different region cards that connect the current site with the new site. This is called _region movement_. (See pages XXX-XXX.)
       - Declare movement to join a non-moving company at their (face up) non-haven site card. (See pages XXX-XXX.)
       - Declare movement to join a moving company at their (face down) non-haven site card. (See pages XXX-XXX.)
-{: .note }
 
 ### Long-event Phase
 
