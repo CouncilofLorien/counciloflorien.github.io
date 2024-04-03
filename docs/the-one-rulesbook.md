@@ -590,18 +590,20 @@ Untap all of your other tapped non-site cards.
 
 The following actions may be taken in any order:
 
- - Store items at a Haven and transfer items between your characters at the same site. A corruption check is required for the character giving up an item.
- - Store other designated resources from your companies at sites specified on their cards.
- - Make any of the following company composition changes. Company composition changes that you choose to make must all be done at the same time and during this time no other actions may be taken. (See pages XXX-XXX.)
-   - Play a character card.
-   - Reorganize your characters at the same site into any number of companies.
-   - Shift your characters between being controlled by general influence and being controlled by direct influence.
- - Each of your companies may do one of the following:
+ - Store items at a Haven and transfer items between your characters at the same site. A corruption check is required for the character giving up an item. (See pages XXX-XXX.)
+ - Store other designated resources from your companies at sites specified on their cards. (See pages XXX-XXX.)
+ - Make company composition changes. Any company composition changes that you choose to make must all be done at the same time. During this time no other actions may be taken. 
+   - Play a character card. (See pages XXX-XXX.)
+   - Reorganize your characters at the same site into any number of companies. (See pages XXX-XXX.)
+   - Shift your characters between being controlled by general influence and being controlled by direct influence. (See pages XXX-XXX.)
+ - Decide whether and where to move. Each of your companies may do one of the following:
       - Stay at its current site.
-      - Play a new site card (face down) that can be moved to directly from the company’s current site (its site of origin). This is called _starter movement_. (See pages XXX-XXX.)
+      - Play a new site card (face down) that can be moved to directly from the company’s current site (its site of origin). This is called _starter movement_. (See pages XXX-XXX.) However, two companies at the same haven may not both move to the same site. 
       - Play a new site card (face down) and a series of up to four different region cards that connect the current site with the new site. This is called _region movement_. (See pages XXX-XXX.)
       - Declare movement to join a non-moving company at their (face up) non-haven site card. (See pages XXX-XXX.)
       - Declare movement to join a moving company at their (face down) non-haven site card. (See pages XXX-XXX.)
+  
+Some cards are only playable at the end of the organization phase but have an effect which depends on the site or site path of a moving company. Such cards create an effect which is not declared until the new site and site path are revealed. (See Movement.) 
 
 ### Long-event Phase
 
