@@ -575,8 +575,6 @@ Play consists of a series of “Player Turns.” During your turn, you take vari
  5. Site Phase
  6. End-of-Turn Phase
 
-## FULL PLAYER TURN SUMMARY
-
 ### Untap Phase
 
 Each of your characters may do one of the following:
