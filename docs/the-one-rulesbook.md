@@ -694,8 +694,8 @@ One company can split into two or more companies only at a Haven (use two Haven 
 > 
 > **Clarification:** Even if you have no characters in play, the game is not over. You may continue to draw and discard cards—eventually you will draw your Ringwraith or a character.
 
-> {: .note }
-> > **Note:** _MELE_ characters are different from _METW_ characters. When it is important to distinguish between the two types of characters, _MELE_ characters are referred to as "minions" (or minion characters) and _METW_ characters are referred to as "heroes" (or hero characters). See [pages 74-75]() for more information.
+{: .note }
+> **Note:** _MELE_ characters are different from _METW_ characters. When it is important to distinguish between the two types of characters, _MELE_ characters are referred to as "minions" (or minion characters) and _METW_ characters are referred to as "heroes" (or hero characters). See [pages 74-75]() for more information.
  
 ### CHARACTER ATTRIBUTES
 
@@ -810,8 +810,8 @@ Unless at a Haven, a Ringwraith may not be in a company with other characters.
 
 The text for certain cards distinguish between overt companies and covert companies. Any company that contains a Ringwraith in _Fell Rider_ mode, an Orc, or a Troll is an overt company. Any other company is a covert company.
 
-> {: .note }
-> > **Note:** An overt company is readily identifiable as an evil force (i.e., it has Orcs, Trolls, etc.), and thus is subject to direct conflict with most Free Peoples. A covert company is not readily identifiable as an evil force, and thus can operate relatively freely in the domains of the Free Peoples.
+{: .note }
+> **Note:** An overt company is readily identifiable as an evil force (i.e., it has Orcs, Trolls, etc.), and thus is subject to direct conflict with most Free Peoples. A covert company is not readily identifiable as an evil force, and thus can operate relatively freely in the domains of the Free Peoples.
 
 ### HEALING
 
@@ -844,8 +844,8 @@ There are three other limitations on the types of characters that can be in a co
 
 These limitations also apply to moving companies.
 
-> {: .note }
-> > **Note:** If two companies end up at a non-Haven site and combining those companies would violate the limitations on company composition, one of the companies that just moved must return to its site of origin. Similarly. an effect that causes such a violation is cancelled (e.g., _We Have Come to Kill_).
+{: .note }
+> **Note:** If two companies end up at a non-Haven site and combining those companies would violate the limitations on company composition, one of the companies that just moved must return to its site of origin. Similarly. an effect that causes such a violation is cancelled (e.g., _We Have Come to Kill_).
 
 #### Discarding Characters
 
@@ -897,8 +897,8 @@ This is a summary of the special effects of the Ringwraith character.
 > - A Ringwraith follower (see the previous page) may not use any of its special abilities. Uvatha's ability to automatically join another Ringwraith's company is an exception to this.
 > - If a body check against a Ringwraith is exactly equal to 7 or 8, the Ringwraith is returned to your hand. You do not lose the game if your Ringwraith is removed in this fashion—you may bring such a Ringwraith back into play in the same fashion as your revealed him in the first place. If this happens to your Ringwraith, you may _not_ reveal a different Ringwraith as your Ringwraith **and** your opponent may not reveal the Ringwraith that you returned to your hand.
 
-> {: .note }
-> > **Note:** This represents the Ringwraith's mount being eliminated.
+{: .note }
+> **Note:** This represents the Ringwraith's mount being eliminated.
 
 ### SPLITTING A COMPANY AT A NON-DARKHAVEN SITE 
 
@@ -973,10 +973,8 @@ If the company’s site of origin is a Haven, the new site card must meet one of
 
 The company containing your Ringwraith may freely move from Haven to Haven and from a non-Haven site to a Haven. However, in order to move from a Haven to a non-Haven site, a Ringwraith must have a special resource card: a _Black Rider_ card, a _Fell Rider_ card, or a _Heralded Lord_ card (i.e., the Ringwraith must be in Black Rider mode, in Fell Rider mode, or in Heralded Lord Mode).
 
-
-> 
-> {: .note }
-> > **Example:** Suppose Ren the Ringwraith is at Barad-dur and wants to move to The Lonely Mountain as outlined in the previous example. On his first turn, he moves to Minas Morgul—he does not need a special card because he is moving from a non-Haven site to a Haven. On his second turn, he moves from Minas Morgul to Dol Guldur as outlined—he does not need a special card because he is moving from a Haven to a Haven. On his third turn, he plays a _Black Rider_ card in order to move from Dol Guldur (a Haven) to The Lonely Mountain (a non-Haven).
+{: .note }
+> **Example:** Suppose Ren the Ringwraith is at Barad-dur and wants to move to The Lonely Mountain as outlined in the previous example. On his first turn, he moves to Minas Morgul—he does not need a special card because he is moving from a non-Haven site to a Haven. On his second turn, he moves from Minas Morgul to Dol Guldur as outlined—he does not need a special card because he is moving from a Haven to a Haven. On his third turn, he plays a _Black Rider_ card in order to move from Dol Guldur (a Haven) to The Lonely Mountain (a non-Haven).
 
 ### SITE PATHS
 
@@ -1063,8 +1061,8 @@ During the organization phase, two or more companies may move to the same non-Ha
 
 In both cases, the two companies must face hazards separately and are then combined at the end of the movement/hazard phase. If two companies end up at a site and combining those companies would violate the limitations on company composition (see [page 57]()), one of these companies must return to its site of origin. Similarly, an effect that causes such a violation is cancelled.
 
-> {: .note }
-> > **Note:** This means that your Ringwraith's company may not move to the same non-Haven site as one of your other companies, since this would result in your Ringwraith joining with other characters.
+{: .note }
+> **Note:** This means that your Ringwraith's company may not move to the same non-Haven site as one of your other companies, since this would result in your Ringwraith joining with other characters.
 
 ## 6 • MOVEMENT - USING MELE WITH METW
 
@@ -1159,10 +1157,10 @@ There are a number of standard modifications to the prowess of each target chara
  Other resource cards | varies
  Hazard cards | varies
  
-> {: .note }
-> > **Clarification:** The prowess modifications marked with an * above are applied for a given strike and then are removed immediately after the attack is resolved. That is they do not carry over from strike to strike.
-> > 
-> > **Note:** Ignore effects that modify the number of strikes for an attack that states that "every character in the target company faces one strike" (unless an effect reduces the number of strikes to a specific number, e.g., _Veils of Shadow_).
+{: .note }
+> **Clarification:** The prowess modifications marked with an * above are applied for a given strike and then are removed immediately after the attack is resolved. That is they do not carry over from strike to strike.
+> 
+> **Note:** Ignore effects that modify the number of strikes for an attack that states that "every character in the target company faces one strike" (unless an effect reduces the number of strikes to a specific number, e.g., _Veils of Shadow_).
  
 #### Resolving Strikes
 
@@ -1192,8 +1190,8 @@ If a strike against a character is successful and the attack was _not_ a detainm
 > - Otherwise, if the modified body check roll is greater than the character's body attribute, the character is eliminated.
 > - Otherwise, nothing further happens (i.e., the character is just wounded).
 
-> {: .note }
-> > **Note:** As a result of certain rolls, certain characters may be discarded rather than being wounded. These characters are usually Orcs and Trolls. This effect represents the target running or slinking away from the attack.
+{: .note }
+> **Note:** As a result of certain rolls, certain characters may be discarded rather than being wounded. These characters are usually Orcs and Trolls. This effect represents the target running or slinking away from the attack.
 
 {: .note }
 > **Clarification:** If a character was already wounded before a strike wounds him again, the resulting body check modification is always +1 (regardless of how many times a character is wounded).
@@ -1243,8 +1241,8 @@ You receive creature marshalling points for defeating a creature with an * next 
 
 If you defeat a creature that does _not_ have an * next to its marshalling points, place the card in your out-of-play pile. You do **not** not receive marshalling points for eliminating it.
 
-> {: .note }
-> > **Note:** A Wizard player does not receive marshalling points for defeating a creature with an * next to its marshalling points.
+{: .note }
+> **Note:** A Wizard player does not receive marshalling points for defeating a creature with an * next to its marshalling points.
 
 ### THE STRIKE SEQUENCE
 
@@ -1296,8 +1294,8 @@ A character at one of his home sites may tap to cancel one automatic-attack at t
 
 You only receive kill marshalling points for defeating a creature  with an \* next to its marshalling points. You may use the creature's card as a trophy card (see below) **or** you may place the card in your marshalling point pile.
 
-> {: .note }
-> > **Note:** A Wizard player does not receive marshalling points for defeating such a creature with an \* next to its marshalling points.
+{: .note }
+> **Note:** A Wizard player does not receive marshalling points for defeating such a creature with an \* next to its marshalling points.
 
 If you defeat a creature that does not have an * next to its marshalling points, you may use the creature's card as a trophy card (see below) **or** you may place the card in your out-of-play pile. You do **not** receive marshalling points for defeating it.
 
@@ -1315,8 +1313,8 @@ Trophies give a character bonuses based upon the total number of marshalling poi
 > - If a character's trophies have 3 marshalling points, the character receives +2 to direct influence and +l to prowess (to a maximum of 9).
 > - If a character's trophies have 4 or more marshalling points, the character receives +2 to direct influence and +2 to prowess (to a maximum of 9).
 
-> {: .note }
-> > **Note:** You may not use one of your own cards as a trophy.
+{: .note }
+> **Note:** You may not use one of your own cards as a trophy.
 
 ## 7 • COMBAT - USING MELE WITH METW
 
@@ -1443,8 +1441,8 @@ As Sauron's minions (i.e., your characters) operate in Middle-earth, they are su
 
 Each character has a corruption point total. This starts at zero, but certain cards and activities will change this total during play. Most cards that affect a character’s corruption are kept under the character’s card until they are discarded. Only one corruption card (a hazard card that gives corruption points) may be played on a given character each turn.
 
-> {: .note }
-> > **Note:** Minion characters are not completely subjected to Sauron will. If they were, they would be of little use—independent, but loyal servants can accomplish much more than slaves. So, minion characters can be corrupted by having their own individual desires and temptations conflict with the goals of their masters. A corrupted minion character has decided that it is in his own best interest to make himself scarce and head for parts unknown. Ringwraiths can not be corrupted—they already suffered the ultimate corruption when they became Ringwraiths.
+{: .note }
+> **Note:** Minion characters are not completely subjected to Sauron will. If they were, they would be of little use—independent, but loyal servants can accomplish much more than slaves. So, minion characters can be corrupted by having their own individual desires and temptations conflict with the goals of their masters. A corrupted minion character has decided that it is in his own best interest to make himself scarce and head for parts unknown. Ringwraiths can not be corrupted—they already suffered the ultimate corruption when they became Ringwraiths.
 
 ### CORRUPTION CARDS
 
@@ -1562,8 +1560,8 @@ If the modified result is greater than the value required on the faction card, y
 
 Most faction cards list some “standard modifications” to the influence check based only upon what other factions are already in play for both players. 
 
-> {: .note }
-> > **Note:** Some standard modifications are given for factions not included in _MELE_. Later products will include these factions.
+{: .note }
+> **Note:** Some standard modifications are given for factions not included in _MELE_. Later products will include these factions.
 
 {: .note }
 > **Clarification:** Certain characters have special modifications to influence checks. Such a modification only applies if it belongs to the character that was tapped to make the influence check.
@@ -1668,8 +1666,8 @@ Unless stated otherwise, a card is playable only if its effect applies to an exi
 {: .note }
 > **Clarification:** An automatic-attack at a company’s new site may be targeted by a hazard during the company’s movement/hazard phase. Such a hazard may be played even if the attack will not be faced (i.e., if the company decides not to face the automatic-attack during the site phase).
 
-> {: .note }
-> > **Note:** _MELE_ resources are different from _METW_ resources. _MELE_ resources are referred to as "minion resources" and _METW_ resources are referred to as "hero resources." See [page 74]() for more information.
+{: .note }
+> **Note:** _MELE_ resources are different from _METW_ resources. _MELE_ resources are referred to as "minion resources" and _METW_ resources are referred to as "hero resources." See [page 74]() for more information.
  
 During your movement/hazard phase, both players draw cards when each company moves. If a company moves to a non-Haven site, you _may_ draw up to the number of cards indicated by the site that it _moved to_ (at least one card must be drawn); your opponent does the same. If the company moves to a Haven site, you _may_ draw up to the number of cards indicated by the site that you _moved from_ (at least one card must be drawn); your opponent does the same.
 
@@ -1713,8 +1711,8 @@ Normally, when a character leaves play, all cards controlled or on him are disca
 
 If one of your characters is at the site specified on a faction card, he may tap to attempt an influence check in order to play the faction card. If the character successfully influences the faction as indicated on the faction’s card (see [pages 38-39]()), the faction card is placed in your play area. After a faction is successfully played at a site, the site card is tapped.
 
-> {: .note }
-> > **Clarification:** If an attack from a Dragon faction is defeated, remove the Dragon from play. No player receives its marshalling points.
+{: .note }
+> **Clarification:** If an attack from a Dragon faction is defeated, remove the Dragon from play. No player receives its marshalling points.
 
 {: .note }
 > **Clarification:** Once a faction is brought into play, it is not associated with any character or company. A faction plays no active role after it is brought into play. 
@@ -1755,8 +1753,8 @@ One of the types of items that your characters can bring into play are rings. Th
 
 **Gold Rings** — After your company faces the automatic-attack at such a site which specifies that a gold ring can be played, you just tap a character and the site to play a gold ring from your hand.
 
-> {: .note }
-> > **Clarification:** A gold ring is a ring with unknown properties—it might be a lesser ring, a magic ring, a Dwarven ring, or even _The One Ring_. You will not know until you "test" it. There are 6 different gold rings in _MELE_: _A Little Gold Ring_, _The Least of Gold Rings_, _Gold Ring that Sauron Fancies_, _Bright Gold Ring_, _Gleaming Gold Ring_, and _Perfect Gold Ring_. Each has a different probability of being a specific type of special ring.
+{: .note }
+> **Clarification:** A gold ring is a ring with unknown properties—it might be a lesser ring, a magic ring, a Dwarven ring, or even _The One Ring_. You will not know until you "test" it. There are 6 different gold rings in _MELE_: _A Little Gold Ring_, _The Least of Gold Rings_, _Gold Ring that Sauron Fancies_, _Bright Gold Ring_, _Gleaming Gold Ring_, and _Perfect Gold Ring_. Each has a different probability of being a specific type of special ring.
 
 **Testing a Gold Ring** — Once you have a gold ring, you can "test" it to determine what kind of special ring it is. When you test a gold ring, you make a roll and add any applicable modification (due to the test card used and other cards). The gold ring card will indicate what special rings may be played based upon the modified roll.<br>If the roll indicates a special ring that you have in your hand, you may replace the gold ring with that ring and discard the gold ring. Otherwise, you just discard the gold ring (i.e., it was not that special). If the roll indicates more than one special ring in your hand, you choose which to play.<br>There are five ways to test a gold ring:
 
@@ -1766,18 +1764,18 @@ One of the types of items that your characters can bring into play are rings. Th
 > - Any gold ring in one of your companies at Barad-dur at the start of the end-of-turn phase is automatically tested. Any ring test at Barad-dur has a -3 modification.
 > - If you store a gold ring, it is automatically tested with a modification of -2
 
-> {: .note }
-> > **Note:** Due to the -2 and -3 modifications, the last three ring test methods given above have little chance of resulting in _The One Ring_. This reflects the influence of "fate" on Sauron's efforts to find _The One Ring_.
+{: .note }
+> **Note:** Due to the -2 and -3 modifications, the last three ring test methods given above have little chance of resulting in _The One Ring_. This reflects the influence of "fate" on Sauron's efforts to find _The One Ring_.
 
 {: .note }
 > **Example:** You have Tarcil and Pon Opar (a sage) in the same company. Tarcil has _A little Gold Ring_. In your hand, you have a _Test of Fire_ card and three ring cards: _Trifling Ring_ (a lesser ring), _Magic Ring of Lies_, and _Dwarven Ring of Durin's Tribe_.
 > 
 > Because Pon Opar is a sage in the same company as a gold ring, you play your _Test of Fire_ on Tarcil's gold ring at any time during your turn. You roll a 5 for the test, so you may play either your _Trifling Ring_ (any result) or your _Magic Ring of Lies_ (6 or less) with Tarcil. In either case, the gold ring is discarded. If you had rolled a 9 or higher, you would have had the choice of playing your _Dwarven Ring of Durin's Tribe_ or your _Trifling Ring_.
 
-> {: .note }
-> > **Note:** A Ringwraith may carry a ring but may not use it (i.e., all items have no effect on a Ringwraith's company or on his attributes and abilities).
-> > 
-> > **Clarification:** Mind rings are minor items and are played as such. They are **not** special items.
+{: .note }
+> **Note:** A Ringwraith may carry a ring but may not use it (i.e., all items have no effect on a Ringwraith's company or on his attributes and abilities).
+> 
+> **Clarification:** Mind rings are minor items and are played as such. They are **not** special items.
 
 ### THE HAZARD LIMIT
 
@@ -1838,8 +1836,8 @@ A stored item is placed in your _marshalling point pile_ and counts for marshall
 
 Some items and resource cards state that they can be stored when at a specific site (e.g., the _Seize Prisoners_ card can be stored at a Haven)—other cards may not be stored. Such an item or resource card is still placed in the marshalling point pile and cannot be brought back into play.
 
-> {: .note }
-> > **Note:** If you store a gold ring, it is automatically tested (see [page 44]()).
+{: .note }
+> **Note:** If you store a gold ring, it is automatically tested (see [page 44]()).
 
 {: .note }
 > **Clarification:** A character bearing a certain type of card cannot untap until the card is stored (as stated in the card's text). After storing such a card, the character does not untap until the untap phase of his player’s next turn. 
