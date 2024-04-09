@@ -366,7 +366,7 @@ _Out-of-play Pile_ — Your cards that are removed from active play after being 
 
 _Marshalling Point Pile_ (_MP pile_) — In addition to marshalling points from active cards in play, you gain marshalling points when certain cards become inactive. When you store certain resource cards (e.g., items, information cards, etc.), they are placed in your MP pile. When you defeat all of the strikes from a creature that has its MPs marked with an "\*" in the upper-left corner of its card, the creature’s card is placed in your MP pile.
 
-> {: .note }
+{: .note }
 > **Note:** When you defeat all of the strikes from a creature that does _not_ have an "\*" next to its MP value in the upper-left corner of its card, the creature's card is **not** placed in your MP pile, it is placed in your opponent's out-of-play pile. Unlike _METW_, you do not get MPs for defeating certain creatures—after all, many creatures are fighting the Free People too.
 
 {: .note }
