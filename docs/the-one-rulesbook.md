@@ -617,7 +617,7 @@ Finally, remove all of your opponent’s hazard long-events. (See pages XXX-XXX)
 
 Follow this procedure for each of your companies. Each company has a separate movement/hazard phase. You decide which of your companies goes first, second, etc. 
 
- 1. Turn over (reveal) any of face down site and region cards for the company. If a map is being used (see XXX), determine the company's site path to its new site using the map. At this point, the company is considered to be en route between sites and is not at any site.
+ 1. Turn over (reveal) any face down site and region cards for the company. If a map is being used (see XXX), determine the company's site path to its new site using the map. At this point, the company is considered to be en route between sites and is not at any site.
 
 {: .list-note }
 > **Note:** If at step 1 there are multiple effects in play such that their net effect depends on the order they are applied (e.g., _Morgul Night_ and _Fell Winter_), the player who is currently not taking their turn (i.e., the hazard player) decides the order in which they are to be applied. Once this interpretation is established, all further actions are applied in the order they are resolved for the rest of the turn. Once the effects of an environment card have been applied to a target during a given movement/hazard phase, that effect is not applied again to that target during the current turn.
