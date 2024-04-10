@@ -213,7 +213,7 @@ $stage-resource-text-300: #f2edde;
     border-top: 2px solid !important;
     border-bottom: 2px solid !important;
     border-right: 2px solid !important;
-    @include fs-3;
+    @include fs-3 !important;
   }
 
 .list-note {
@@ -222,10 +222,10 @@ $stage-resource-text-300: #f2edde;
     border-top: 2px solid !important;
     border-bottom: 2px solid !important;
     border-right: 2px solid !important;
-    margin-left: 1.5rem;
-    margin-top: 0em;
-    margin-bottom: 0em;
-   @include fs-3;
+    margin-left: 1.5rem !important;
+    margin-top: 0em !important;
+    margin-bottom: 0em !important;
+    @include fs-3 !important;
   }
 
 .bullets {
