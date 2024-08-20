@@ -1704,7 +1704,7 @@ _Middle-earth: The Wizards Companion_ provides some expanded, variant multi-play
 
 ### SOLITAIRE RULES
 
-**Getting Started:** Place all of your hazard cards in one shuffled deck. (_Variant #1_: Have someone construct a hazard deck for you. _Variant #2_: Construct several “well-tuned” hazard decks of approximately cards each, then play against each one.) Your play deck has no hazards and must have at least 30 cards. Your hand size is only five cards. 
+**Getting Started:** Place all of your hazard cards in one shuffled deck. (_Variant #1_: Have someone construct a hazard deck for you. _Variant #2_: Construct several “well-tuned” hazard decks of approximately 25 cards each, then play against each one.) Your play deck has no hazards and must have at least 30 cards. Your hand size is only five cards. 
 
 **During Play:** Proceed normally, except for the following exceptions. There is no opponent’s player turn. Whenever you would draw or discard to get a hand of 8 cards, you now draw or discard to get a hand of 5 cards. During the movement/hazard phase, you draw and discard normally for each company.
 
