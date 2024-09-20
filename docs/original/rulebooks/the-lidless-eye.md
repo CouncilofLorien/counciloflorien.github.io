@@ -1280,7 +1280,7 @@ Hazard cards represent evil forces and natural dangers in Middle-earth. Even tho
 You may play hazard cards only during your opponent’s movement/hazard phase. Detainment attacks are described on [page 31]().
 
 {: .note }
-> Hazards that give bonuses to attacks do **not** give bonuses to characters and companies.
+> **Note:** Hazards that give bonuses to attacks do **not** give bonuses to characters and companies.
 
 ### Creature Cards
 
